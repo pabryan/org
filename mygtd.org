@@ -1,0 +1,73 @@
+#+STARTUP: overview
+#+TAGS: OFFICE(o) COMPUTER(c) HOME(h) PROJECT(p) READING(r) VIDEO(v) PHONE(ph) TABLET(t) UNI(u) 
+#+STARTUP: hidestars
+
+* Next Action
+** Enrol in emergency warning systems		      :COMPUTER:TABLET:PHONE:
+** Winter text books						   :COMPUTER:
+** math150a student 						   :COMPUTER:
+** UCSD publishing meeting					   :COMPUTER:
+** Schedule tasks						   :COMPUTER:
+Need to mind map first to determine tasks though!
+** Organise research projects 					   :COMPUTER:
+Need to make project version controls and org files linked to from gtd. Have some sore of notes folder for each project where I can dump blackboard screen shots, scans of notebooks etc.
+*** Ricci isoperimetric comparison
+*** Pipe flows
+*** $\alpha$ curve flows
+*** dist. comp. on surfaces
+*** CMC stability
+*** CSF iso profile on surfaces
+*** Vector symmetric polynomials
+*** k-graphs, free constructions
+*** iso profile comparison Kahler manifolds
+*** CSF for networks
+*** Perelman pseudo-locality
+*** Degenerate neck-pinches
+*** Ricci flow on warped products
+
+** Research paper notebooks					   :COMPUTER:
+** Configure Mercurial 
+e.g. ignore emacs back files
+* Remy
+
+* Lily
+
+* Kate
+
+* Home
+
+* Someday/maybe
+
+** Computing
+*** org-mode
+**** VC it!
+**** Projects directory scanned by cron and automatically added to GTD
+Since gtd will be on dropbox, I'll need to worry about clashes in syncing.
+*** Integrated panel (widget?) based O/S
+
+e.g. panels display some content and take input/output have events, hooks etc.
+
+*** Collate junk code
+
+*** Learn how to do accented characters etc. in text files
+** Maths
+*** sage
+*** ANUGA
+*** Vector symmetric polynomials
+*** Higher category theory - coloured graphs
+
+*** Comparison for dist fn.
+Can I solve the diff. ineq. in general to get some useful comparison theory for distance function. compare space forms of const. curve $k$, where we define $f_k(d)\grad d$.
+** Applied research
+*** Astrophysics research
+*** General relativity
+
+** Exposition
+*** Get involved in social networking for research etc.
+*** Blog about things like bare foot walking
+*** Produce lecture blogs
+*** General public articles on maths
+    
+* Mind Sweep
+** Track health, exercise, diet etc.
+
