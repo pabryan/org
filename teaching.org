@@ -1,10 +1,14 @@
-* Teaching
-** Math150A Fall 2012
-*** math150a lecture log					   :COMPUTER:
-*** math150a notes						   :COMPUTER:
-    circle arc-len parametrisations
-    curve len independent of parametrisation
+#+FILETAGS: TEACHING
+* Math150A Fall 2012
+PROPERTIES:
+CATEGORY: Math150
+END:
 
-*** Assign math150a homework					   :COMPUTER:
+** math150a lecture log						   :COMPUTER:
+** math150a notes						   :COMPUTER:
+   circle arc-len parametrisations
+   curve len independent of parametrisation
 
-*** In lecture log, talk about area, Green's thm
+** Assign math150a homework					   :COMPUTER:
+   
+** In lecture log, talk about area, Green's thm
