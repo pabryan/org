@@ -3,11 +3,14 @@
 #+STARTUP: hidestars
 
 * Next Action
-** Enrol in emergency warning systems		      :COMPUTER:TABLET:PHONE:
+** Bring doorstop to work					       :HOME:
+** Add phone line						   :COMPUTER:
+** money in bank						     :OFFICE:
+** get podcasts							   :COMPUTER:
+** clarify pain free class					   :COMPUTER:
+** Enrol in emergency warning systems 		      :COMPUTER:TABLET:PHONE:
 ** Winter text books						   :COMPUTER:
-** math150a student 						   :COMPUTER:
-** UCSD publishing meeting					   :COMPUTER:
-** Schedule tasks						   :COMPUTER:
+** Schedule tasks 						   :COMPUTER:
 Need to mind map first to determine tasks though!
 ** Organise research projects 					   :COMPUTER:
 Need to make project version controls and org files linked to from gtd. Have some sore of notes folder for each project where I can dump blackboard screen shots, scans of notebooks etc.
@@ -28,21 +31,44 @@ Need to make project version controls and org files linked to from gtd. Have som
 ** Research paper notebooks					   :COMPUTER:
 ** Configure Mercurial 
 e.g. ignore emacs back files
-* Remy
+** exercise ball and yoga mat for office			   :COMPUTER:
+** tablet cable for office					   :COMPUTER:
+** office sandals
+* Waiting
+** Update medical insurance 					   :COMPUTER:
+* Family
+** Remy
 
-* Lily
+** Lily
 
-* Kate
+** Kate
 
-* Home
+** Home
 
+* Teaching
+** Math150A Fall 2012
+*** math150a lecture log					   :COMPUTER:
+*** math150a notes						   :COMPUTER:
+    circle arc-len parametrisations
+    curve len independent of parametrisation
+
+*** Assign math150a homework					   :COMPUTER:
+
+*** In lecture log, talk about area, Green's thm
 * Someday/maybe
 
 ** Computing
 *** org-mode
 **** VC it!
 **** Projects directory scanned by cron and automatically added to GTD
-Since gtd will be on dropbox, I'll need to worry about clashes in syncing.
+     Since gtd will be on dropbox, I'll need to worry about clashes in syncing.
+**** TODO's 
+     These make up the next action list which I need to find out how to check and to populate from various different files
+**** Scheduling
+**** Dependencies
+     e.g. for exporting to Gantt charts
+**** Replace mendeley
+**** Integrate note taking apps, screen and web clippers
 *** Integrated panel (widget?) based O/S
 
 e.g. panels display some content and take input/output have events, hooks etc.
@@ -50,6 +76,9 @@ e.g. panels display some content and take input/output have events, hooks etc.
 *** Collate junk code
 
 *** Learn how to do accented characters etc. in text files
+*** Note taking app for android
+    should have a navigation area and a writing area, some sort of zooming
+*** Research mobile org voice input
 ** Maths
 *** sage
 *** ANUGA
@@ -68,6 +97,27 @@ Can I solve the diff. ineq. in general to get some useful comparison theory for 
 *** Produce lecture blogs
 *** General public articles on maths
     
+** Misc
+*** Speed reading
+*** Better handwriting
+
 * Mind Sweep
 ** Track health, exercise, diet etc.
+** Work out some organistation of email: archiving, tags etc.
+* Refile
 
+** personalise office
+** learn LISP
+** Use emacs more, mail etc.
+** read blogs, newsletters etc.
+** Plan pumpkin trip
+** finish house unpacking
+** plan weekly food
+** sort out budget
+** brick or treat, Legoland
+** Remy's halloween costume
+** Activities for Kate and Lily
+** Develop organisation process, workflow
+** Start a math150 project
+** Write tutorials on project management, GTD so on for mathematicians, scientists, academics and teachers
+** Set up office like in GTD such as trays, clips etc.
