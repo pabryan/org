@@ -1,21 +1,148 @@
 #+FILETAGS: REFILE
 
-* personalise office
-* learn LISP
-* Use emacs more, mail, web, news, rss etc.
-* read blogs, newsletters etc.
-* Plan pumpkin trip
-* finish house unpacking
-* plan weekly food
-* sort out budget
-* brick or treat, Legoland
-* Remy's halloween costume
-* Activities for Kate and Lily
-* Develop organisation process, workflow
-* Start a math150 project
-* Write tutorials on project management, GTD so on for mathematicians, scientists, academics and teachers
-* Set up office like in GTD such as trays, clips etc.
-* Bitbucket repository for org files
-* Set up capture mode
-* Set up level 1 headings (with properties)
-* Research Pavel Tsatsouline 
+* TODO personalise office
+* TODO learn LISP
+* TODO Use emacs more, mail, web, news, rss etc.
+* TODO read blogs, newsletters etc.
+* TODO Plan pumpkin trip
+* TODO finish house unpacking
+* TODO plan weekly food
+* TODO sort out budget
+* TODO brick or treat, Legoland
+* TODO Remy's halloween costume
+* TODO Activities for Kate and Lily
+* TODO Develop organisation process, workflow
+* TODO Start a math150 project
+* TODO Write tutorials on project management, GTD so on for mathematicians, scientists, academics and teachers
+* TODO Set up office like in GTD such as trays, clips etc.
+* TODO Bitbucket repository for org files
+* TODO Set up capture mode
+* TODO Set up level 1 headings (with properties)
+* TODO Research Pavel Tsatsouline 
+* TODO Personalise office
+* TODO Research IDO
+  CLOCK: [2012-10-12 Fri 14:17]--[2012-10-12 Fri 14:17] =>  0:00
+[2012-10-12 Fri 14:17]
+
+* TODO Update exercise schedule
+  CLOCK: [2012-10-12 Fri 14:49]--[2012-10-12 Fri 14:49] =>  0:00
+[2012-10-12 Fri 14:49]
+
+* TODO Listen to Scott Sonnon
+  CLOCK: [2012-10-12 Fri 14:55]--[2012-10-12 Fri 14:55] =>  0:00
+[2012-10-12 Fri 14:55]
+[[http://physicalliving.com/exclusive-interview-with-johns-coach-scott-sonnon-the-creator-of-the-circular-strength-training-system/][part 1]]
+[[http://physicalliving.com/exclusive-interview-with-johns-coach-scott-sonnon-the-creator-of-the-circular-strength-training-system-part-2/][part 2]]
+* TODO Research authentic learning
+  CLOCK: [2012-10-14 Sun 19:55]--[2012-10-14 Sun 19:55] =>  0:00
+[2012-10-14 Sun 19:55]
+* TODO Design workflow
+what are the structures?
+where do things go?
+e.g. active projects have next items
+someday things are projects/todos without any next?
+  CLOCK: [2012-10-14 Sun 19:55]--[2012-10-14 Sun 19:56] =>  0:01
+[2012-10-14 Sun 19:55]
+* TODO web based X-server, terminal
+  CLOCK: [2012-10-14 Sun 19:56]--[2012-10-14 Sun 19:56] =>  0:00
+[2012-10-14 Sun 19:56]
+* TODO tea pots
+  CLOCK: [2012-10-14 Sun 19:56]--[2012-10-14 Sun 19:56] =>  0:00
+[2012-10-14 Sun 19:56]
+* TODO stationary storage
+  CLOCK: [2012-10-14 Sun 19:56]--[2012-10-14 Sun 19:57] =>  0:01
+[2012-10-14 Sun 19:56]
+* TODO manage paper-based materials
+I do have some! Some reference like birth certificates, but also I get forms and things too sometimes
+  CLOCK: [2012-10-14 Sun 19:57]--[2012-10-14 Sun 19:57] =>  0:00
+[2012-10-14 Sun 19:57]
+* TODO Bills to pay list
+Need an org heading with due dates
+  CLOCK: [2012-10-14 Sun 19:57]--[2012-10-14 Sun 19:58] =>  0:01
+[2012-10-14 Sun 19:57]
+* TODO Manage my computer settings
+I want my computing environment available wherever I am (at least with ssh or a unix system)
+See also my web based x-server and terminal
+** Version control config files
+** Version control scripts, junk code
+** RSA keys somewhere portable, maybe use PGP also?
+
+  CLOCK: [2012-10-14 Sun 19:58]--[2012-10-14 Sun 20:00] =>  0:02
+[2012-10-14 Sun 19:58]
+* TODO Voice notes in android directly into mobile-org
+  CLOCK: [2012-10-14 Sun 20:27]--[2012-10-14 Sun 20:27] =>  0:00
+[2012-10-14 Sun 20:27]
+* TODO Sort Lily's asthma
+  CLOCK: [2012-10-14 Sun 20:31]--[2012-10-14 Sun 20:31] =>  0:00
+[2012-10-14 Sun 20:31]
+* TODO Update social security address
+  CLOCK: [2012-10-14 Sun 20:33]--[2012-10-14 Sun 20:33] =>  0:00
+[2012-10-14 Sun 20:33]
+* TODO Respond to %:from on %:subject
+  CLOCK: [2012-10-14 Sun 20:33]--[2012-10-14 Sun 20:33] =>  0:00
+[2012-10-14 Sun 20:33]
+* TODO Find doctor
+[[http://kp.org][KP]]
+  CLOCK: [2012-10-14 Sun 20:33]--[2012-10-14 Sun 20:33] =>  0:00
+[2012-10-14 Sun 20:33]
+* TODO Update training schedule
+  CLOCK: [2012-10-14 Sun 20:33]--[2012-10-14 Sun 20:34] =>  0:01
+[2012-10-14 Sun 20:33]
+* TODO Create contacts in emacs
+  CLOCK: [2012-10-14 Sun 20:34]--[2012-10-14 Sun 20:34] =>  0:00
+[2012-10-14 Sun 20:34]
+* TODO MATH150 Wk 3 lectures
+  CLOCK: [2012-10-14 Sun 20:34]--[2012-10-14 Sun 20:34] =>  0:00
+[2012-10-14 Sun 20:34]
+* TODO org-mode contacts list
+If I need to contact someone, make the org link to the contact entry so I can choose phone, email whatever
+  CLOCK: [2012-10-14 Sun 20:35]--[2012-10-14 Sun 20:36] =>  0:01
+[2012-10-14 Sun 20:35]
+* TODO Research IP phones
+I want to be able to contact people from within org and perhaps route incoming calls to the computer, say by a virtual number. Then I could answer/make them in org and have capture time it.
+  CLOCK: [2012-10-14 Sun 20:36]--[2012-10-14 Sun 20:37] =>  0:01
+[2012-10-14 Sun 20:36]
+* TODO Contact Lei about seminars
+Need a list of people, maybe also at caltech, san fran?
+  CLOCK: [2012-10-14 Sun 20:37]--[2012-10-14 Sun 20:38] =>  0:01
+[2012-10-14 Sun 20:37]
+* TODO Seminars org project
+  CLOCK: [2012-10-14 Sun 20:38]--[2012-10-14 Sun 20:38] =>  0:00
+[2012-10-14 Sun 20:38]
+* TODO Invite Visitors
+Some money available through colloquia funds?
+  CLOCK: [2012-10-14 Sun 20:39]--[2012-10-14 Sun 20:40] =>  0:01
+[2012-10-14 Sun 20:39]
+* TODO Research grants
+I want mostly travel money 
+Can I hire a car so we can all go on a road trip?
+I need books
+I want to do some sage or org-mode devel
+I want to do teaching with sage-tex and/or org-mode with babel; i.e. interactive lectures so I can change the parameters of things like plots in real time
+  CLOCK: [2012-10-14 Sun 20:40]--[2012-10-14 Sun 20:41] =>  0:01
+[2012-10-14 Sun 20:40]
+* TODO Make "errands" context for org-mode
+  CLOCK: [2012-10-14 Sun 20:41]--[2012-10-14 Sun 20:42] =>  0:01
+[2012-10-14 Sun 20:41]
+* TODO Preparing/doing research using org-mode
+Write a paper on how to do it? Use my own paper preperation as model
+  CLOCK: [2012-10-14 Sun 20:42]--[2012-10-14 Sun 20:43] =>  0:01
+[2012-10-14 Sun 20:42]
+* TODO Write org-mode teaching paper
+Use a course as a guinea pig for using the method
+  CLOCK: [2012-10-14 Sun 20:43]--[2012-10-14 Sun 20:44] =>  0:01
+[2012-10-14 Sun 20:43]
+* TODO Call del-sol office about having a hamster
+  CLOCK: [2012-10-14 Sun 20:44]--[2012-10-14 Sun 20:44] =>  0:00
+[2012-10-14 Sun 20:44]
+* TODO Plan home organisation
+places to file things
+storage containers
+everything has a home!
+pantry shelves
+  CLOCK: [2012-10-14 Sun 20:44]--[2012-10-14 Sun 20:45] =>  0:01
+[2012-10-14 Sun 20:44]
+* TODO Sort out Rent
+A11078844
+  CLOCK: [2012-10-14 Sun 20:48]--[2012-10-14 Sun 20:49] =>  0:01
+[2012-10-14 Sun 20:48]
