@@ -12,6 +12,13 @@ Use [[http://mercurial.selenic.com/wiki/AutoSyncExtension][AutoSync]]
     e.g. for exporting to Gantt charts
 *** TODO Replace mendeley
 *** TODO Integrate note taking apps, screen and web clippers
+*** TODO Voice notes in android directly into mobile-org
+  CLOCK: [2012-10-14 Sun 20:27]--[2012-10-14 Sun 20:27] =>  0:00
+[2012-10-14 Sun 20:27]
+*** TODO org-mode contacts list
+If I need to contact someone, make the org link to the contact entry so I can choose phone, email whatever
+  CLOCK: [2012-10-14 Sun 20:35]--[2012-10-14 Sun 20:36] =>  0:01
+[2012-10-14 Sun 20:35]
 ** TODO Integrated panel (widget?) based O/S
 
 e.g. panels display some content and take input/output have events, hooks etc.
@@ -24,6 +31,43 @@ e.g. panels display some content and take input/output have events, hooks etc.
 ** TODO Research mobile org voice input
 ** TODO Research Bazaar vc
    http://wiki.bazaar.canonical.com/Workflows
+** Emacs
+*** TODO learn LISP
+*** TODO Use emacs more, mail, web, news, rss etc.
+*** TODO Research IDO
+  CLOCK: [2012-10-12 Fri 14:17]--[2012-10-12 Fri 14:17] =>  0:00
+[2012-10-12 Fri 14:17]
+
+*** TODO web based X-server, terminal
+  CLOCK: [2012-10-14 Sun 19:56]--[2012-10-14 Sun 19:56] =>  0:00
+[2012-10-14 Sun 19:56]
+*** TODO Manage my computer settings
+I want my computing environment available wherever I am (at least with ssh or a unix system)
+See also my web based x-server and terminal
+**** Version control config files
+**** Version control scripts, junk code
+**** RSA keys somewhere portable, maybe use PGP also?
+
+  CLOCK: [2012-10-14 Sun 19:58]--[2012-10-14 Sun 20:00] =>  0:02
+[2012-10-14 Sun 19:58]
+*** TODO remote access to ucsd
+euclid is old and won't have all the applications I need
+can I ssh into my workstation?
+  CLOCK: [2012-10-15 Mon 09:35]--[2012-10-15 Mon 09:35] =>  0:00
+[2012-10-15 Mon 09:35]
+*** TODO set up emacs server and screen for access anywhere
+  CLOCK: [2012-10-15 Mon 09:37]--[2012-10-15 Mon 09:38] =>  0:01
+[2012-10-15 Mon 09:37]
+*** TODO Create contacts in emacs
+  CLOCK: [2012-10-14 Sun 20:34]--[2012-10-14 Sun 20:34] =>  0:00
+[2012-10-14 Sun 20:34]
+** TODO research bit, bazaar
+  CLOCK: [2012-10-15 Mon 09:36]--[2012-10-15 Mon 09:36] =>  0:00
+[2012-10-15 Mon 09:36]
+** TODO Research IP phones
+I want to be able to contact people from within org and perhaps route incoming calls to the computer, say by a virtual number. Then I could answer/make them in org and have capture time it.
+  CLOCK: [2012-10-14 Sun 20:36]--[2012-10-14 Sun 20:37] =>  0:01
+[2012-10-14 Sun 20:36]
 * Maths
 ** sage
 ** ANUGA
@@ -45,3 +89,6 @@ Can I solve the diff. ineq. in general to get some useful comparison theory for 
 * Misc
 ** TODO Speed reading
 ** TODO Better handwriting
+** TODO Learn to write lower case and upper case "u" differently
+  CLOCK: [2012-10-15 Mon 15:24]--[2012-10-15 Mon 15:24] =>  0:00
+[2012-10-15 Mon 15:24]

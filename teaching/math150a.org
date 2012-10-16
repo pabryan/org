@@ -10,3 +10,23 @@ END:
 ** Syllabus
 ** Calendar
 Is this necessary?
+
+** TODO math150a lecture log					   :COMPUTER:
+** TODO math150a notes						   :COMPUTER:
+   circle arc-len parametrisations
+   curve len independent of parametrisation
+
+** TODO Assign math150a homework				   :COMPUTER:
+   
+** TODO In lecture log, talk about area, Green's thm
+** TODO MATH150 Wk 3 lectures
+  CLOCK: [2012-10-14 Sun 20:34]--[2012-10-14 Sun 20:34] =>  0:00
+[2012-10-14 Sun 20:34]
+** TODO MATH150A Lec 3-2
+Remark that (i)+(ii)+(iii) allow us to identify differntiable functions on $U$ with those on $V\cap S$
+
+  CLOCK: [2012-10-15 Mon 15:22]--[2012-10-15 Mon 15:23] =>  0:01
+[2012-10-15 Mon 15:22]
+** TODO MATH150a mid term
+  CLOCK: [2012-10-15 Mon 10:13]--[2012-10-15 Mon 10:13] =>  0:00
+[2012-10-15 Mon 10:13]

@@ -1,14 +1,13 @@
 #+FILETAGS: TEACHING
-* Math150A Fall 2012
-PROPERTIES:
-CATEGORY: Math150
-END:
 
-** TODO math150a lecture log					   :COMPUTER:
-** TODO math150a notes						   :COMPUTER:
-   circle arc-len parametrisations
-   curve len independent of parametrisation
+* How to teach
 
-** TODO Assign math150a homework				   :COMPUTER:
-   
-** TODO In lecture log, talk about area, Green's thm
+** TODO Write org-mode teaching paper
+Use a course as a guinea pig for using the method
+  CLOCK: [2012-10-14 Sun 20:43]--[2012-10-14 Sun 20:44] =>  0:01
+[2012-10-14 Sun 20:43]
+
+* Courses
+** TODO Reminder for MATH142B
+  CLOCK: [2012-10-15 Mon 10:27]--[2012-10-15 Mon 10:28] =>  0:01
+[2012-10-15 Mon 10:27]
