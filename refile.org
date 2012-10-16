@@ -146,3 +146,86 @@ pantry shelves
 A11078844
   CLOCK: [2012-10-14 Sun 20:48]--[2012-10-14 Sun 20:49] =>  0:01
 [2012-10-14 Sun 20:48]
+* TODO Research Supervising
+Say summer projects, or reading courses
+Can I employ (through a grant?) research assistants? These should get something like a paper or conference proceeding out of it
+
+  CLOCK: [2012-10-15 Mon 09:32]--[2012-10-15 Mon 09:33] =>  0:01
+[2012-10-15 Mon 09:32]
+* TODO Perspective levels
+What are my 50000ft to runway goals, principles, priorities etc.
+At the runway (i.e. actions) level, I should have a list of procedures for following when doing common tasks e.g. weekly review
+  CLOCK: [2012-10-15 Mon 09:33]--[2012-10-15 Mon 09:35] =>  0:02
+[2012-10-15 Mon 09:33]
+* TODO remote access to ucsd
+euclid is old and won't have all the applications I need
+can I ssh into my workstation?
+  CLOCK: [2012-10-15 Mon 09:35]--[2012-10-15 Mon 09:35] =>  0:00
+[2012-10-15 Mon 09:35]
+* TODO Respond to %:from on %:subject
+  CLOCK: [2012-10-15 Mon 09:35]--[2012-10-15 Mon 09:35] =>  0:00
+[2012-10-15 Mon 09:35]
+* TODO research bit, bazaar
+  CLOCK: [2012-10-15 Mon 09:36]--[2012-10-15 Mon 09:36] =>  0:00
+[2012-10-15 Mon 09:36]
+* TODO get a cloth or coaster for office
+  CLOCK: [2012-10-15 Mon 09:36]--[2012-10-15 Mon 09:36] =>  0:00
+[2012-10-15 Mon 09:36]
+* TODO set up emacs server and screen for access anywhere
+  CLOCK: [2012-10-15 Mon 09:37]--[2012-10-15 Mon 09:38] =>  0:01
+[2012-10-15 Mon 09:37]
+* TODO Dropbox and vcs
+Use dropbox just to mirror static files: can sync between multiple computers
+For dynamic files, auto sync to vc every hour or so and sync with dropbox, but to a machine specific folder, e.g. org-office, org-home. These should be seperate directories so I don't get clashes. This is just for backup purposes. The synchronisation should be via bitbucket.
+  CLOCK: [2012-10-15 Mon 09:39]--[2012-10-15 Mon 09:41] =>  0:02
+[2012-10-15 Mon 09:39]
+* TODO Process emails
+Archive the lot! Organise into folders/tags whatever. gmail can be the main repository to sync with, but as with org files, maybe have machine specific syncing to dropbox also.
+  CLOCK: [2012-10-15 Mon 09:42]--[2012-10-15 Mon 09:43] =>  0:01
+[2012-10-15 Mon 09:42]
+* TODO Get snacks for office
+I should get a plunger and coffee to save money though milk is problematic then! I could bring it daily in a thermos.
+I can bring in fruit and veg once or twice a week.
+Also could have dry snacks, tinned stuff like sardines and so on.
+
+
+  CLOCK: [2012-10-15 Mon 09:43]--[2012-10-15 Mon 09:44] =>  0:01
+[2012-10-15 Mon 09:43]
+* TODO Process for Learning 
+If I want to learn something, e.g. some maths or self-improvement, juggling, etc., make a project for this in org-mode where I can store notes. It would be really nice to be able to put a bookmark in a pdf/ebook and create a link in org-mode to that bookmark.
+  CLOCK: [2012-10-15 Mon 09:47]--[2012-10-15 Mon 09:50] =>  0:03
+[2012-10-15 Mon 09:47]
+* TODO podcasts
+Find a good postcast player for android. I want to be able to do offline listening and jump to where I was up to last. I want to order them based on say date with oldest first or newest first as the fancy takes me.
+  CLOCK: [2012-10-15 Mon 09:50]--[2012-10-15 Mon 09:51] =>  0:01
+[2012-10-15 Mon 09:50]
+* TODO Update website template
+check out http://www.wix.com/
+use org-mode to write content, css to render
+  CLOCK: [2012-10-15 Mon 10:13]--[2012-10-15 Mon 10:13] =>  0:00
+[2012-10-15 Mon 10:13]
+* TODO MATH150a mid term
+  CLOCK: [2012-10-15 Mon 10:13]--[2012-10-15 Mon 10:13] =>  0:00
+[2012-10-15 Mon 10:13]
+* TODO Reminder for MATH142B
+  CLOCK: [2012-10-15 Mon 10:27]--[2012-10-15 Mon 10:28] =>  0:01
+[2012-10-15 Mon 10:27]
+* TODO Get Windsor McCay books
+  CLOCK: [2012-10-15 Mon 12:10]--[2012-10-15 Mon 12:11] =>  0:01
+[2012-10-15 Mon 12:10]
+* TODO Extract precise actions/setup from Getting it done and org-mode
+[[http://doc.norang.ca/org-mode.html][org-mode article]]
+  CLOCK: [2012-10-15 Mon 12:35]--[2012-10-15 Mon 12:36] =>  0:01
+[2012-10-15 Mon 12:35]
+* TODO MATH150A Lec 3-2
+Remark that (i)+(ii)+(iii) allow us to identify differntiable functions on $U$ with those on $V\cap S$
+
+  CLOCK: [2012-10-15 Mon 15:22]--[2012-10-15 Mon 15:23] =>  0:01
+[2012-10-15 Mon 15:22]
+* TODO Design tea disposal system
+bucket like in China?
+  CLOCK: [2012-10-15 Mon 15:23]--[2012-10-15 Mon 15:24] =>  0:01
+[2012-10-15 Mon 15:23]
+* TODO Learn to write lower case and upper case "u" differently
+  CLOCK: [2012-10-15 Mon 15:24]--[2012-10-15 Mon 15:24] =>  0:00
+[2012-10-15 Mon 15:24]
