@@ -1,48 +1,47 @@
 #+FILETAGS: SOMEDAY
-* Someday/maybe
 
-** Computing
-*** org-mode
-**** VC it!
-**** Projects directory scanned by cron and automatically added to GTD
-     Since gtd will be on dropbox, I'll need to worry about clashes in syncing.
-**** TODO's 
-     These make up the next action list which I need to find out how to check and to populate from various different files
-**** Scheduling
-**** Dependencies
-     e.g. for exporting to Gantt charts
-**** Replace mendeley
-**** Integrate note taking apps, screen and web clippers
-*** Integrated panel (widget?) based O/S
+* Computing
+** TODO org-mode
+*** TODO VC it!
+Use [[http://mercurial.selenic.com/wiki/AutoSyncExtension][AutoSync]]
+*** TODO Projects directory scanned by cron and automatically added to GTD
+    Since gtd will be on dropbox, I'll need to worry about clashes in syncing.
+    Maybe I'll only dropbox as a backup and sync with bitbucket
+*** TODO Scheduling
+*** TODO Dependencies
+    e.g. for exporting to Gantt charts
+*** TODO Replace mendeley
+*** TODO Integrate note taking apps, screen and web clippers
+** TODO Integrated panel (widget?) based O/S
 
 e.g. panels display some content and take input/output have events, hooks etc.
 
-*** Collate junk code
+** TODO Collate junk code
 
-*** Learn how to do accented characters etc. in text files
-*** Note taking app for android
-    should have a navigation area and a writing area, some sort of zooming
-*** Research mobile org voice input
-*** Research Bazaar vc
-    http://wiki.bazaar.canonical.com/Workflows
-** Maths
-*** sage
-*** ANUGA
-*** Vector symmetric polynomials
-*** Higher category theory - coloured graphs
+** TODO Learn how to do accented characters etc. in text files
+** TODO Note taking app for android
+   should have a navigation area and a writing area, some sort of zooming
+** TODO Research mobile org voice input
+** TODO Research Bazaar vc
+   http://wiki.bazaar.canonical.com/Workflows
+* Maths
+** sage
+** ANUGA
+** Vector symmetric polynomials
+** Higher category theory - coloured graphs
 
-*** Comparison for dist fn.
+** Comparison for dist fn.
 Can I solve the diff. ineq. in general to get some useful comparison theory for distance function. compare space forms of const. curve $k$, where we define $f_k(d)\grad d$.
-** Applied research
-*** Astrophysics research
-*** General relativity
+* Applied research
+** Astrophysics research
+** General relativity
 
-** Exposition
-*** Get involved in social networking for research etc.
-*** Blog about things like bare foot walking
-*** Produce lecture blogs
-*** General public articles on maths
-    
-** Misc
-*** Speed reading
-*** Better handwriting
+* Exposition
+** TODO Get involved in social networking for research etc.
+** TODO Blog about things like bare foot walking
+** TODO Produce lecture blogs
+** TODO General public articles on maths
+   
+* Misc
+** TODO Speed reading
+** TODO Better handwriting

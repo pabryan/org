@@ -4,11 +4,11 @@ PROPERTIES:
 CATEGORY: Math150
 END:
 
-** math150a lecture log						   :COMPUTER:
-** math150a notes						   :COMPUTER:
+** TODO math150a lecture log					   :COMPUTER:
+** TODO math150a notes						   :COMPUTER:
    circle arc-len parametrisations
    curve len independent of parametrisation
 
-** Assign math150a homework					   :COMPUTER:
+** TODO Assign math150a homework				   :COMPUTER:
    
-** In lecture log, talk about area, Green's thm
+** TODO In lecture log, talk about area, Green's thm
