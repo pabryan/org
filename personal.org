@@ -19,6 +19,11 @@ END:
 Need an org heading with due dates
   CLOCK: [2012-10-14 Sun 19:57]--[2012-10-14 Sun 19:58] =>  0:01
 [2012-10-14 Sun 19:57]
+** TODO Pay rent
+  DEADLINE: <2012-11-05 Thu +1m -5d>
+  CLOCK: [2012-10-17 Wed 14:44]--[2012-10-17 Wed 14:45] =>  0:01
+[2012-10-17 Wed 14:44]
+
 * Health and Recreation
 PROPERTIES:
 CATEGORY: Health
