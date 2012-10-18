@@ -5,6 +5,9 @@
 ** TODO Make "errands" context for org-mode
   CLOCK: [2012-10-14 Sun 20:41]--[2012-10-14 Sun 20:42] =>  0:01
 [2012-10-14 Sun 20:41]
+** TODO Setup mercurial sync and fetch
+  CLOCK: [2012-10-18 Thu 10:59]--[2012-10-18 Thu 10:59] =>  0:00
+[2012-10-18 Thu 10:59]
 * process
 ** TODO Develop organisation process, workflow
 ** TODO Set up office like in GTD such as trays, clips etc.

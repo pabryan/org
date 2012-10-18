@@ -24,6 +24,9 @@ Need an org heading with due dates
   CLOCK: [2012-10-17 Wed 14:44]--[2012-10-17 Wed 14:45] =>  0:01
 [2012-10-17 Wed 14:44]
 
+** TODO Pay Ben Chow $180
+  CLOCK: [2012-10-17 Wed 08:22]--[2012-10-17 Wed 08:22] =>  0:00
+[2012-10-17 Wed 08:22]
 * Health and Recreation
 PROPERTIES:
 CATEGORY: Health
@@ -46,6 +49,10 @@ END:
 ** TODO Update training schedule
   CLOCK: [2012-10-14 Sun 20:33]--[2012-10-14 Sun 20:34] =>  0:01
 [2012-10-14 Sun 20:33]
+** TODO Call KP membership
+Need to find out what to do when sick or in an emergency
+  CLOCK: [2012-10-18 Thu 10:46]--[2012-10-18 Thu 10:47] =>  0:01
+[2012-10-18 Thu 10:46]
 * House Maintenance
 PROPERTIES:
 CATEGORY: House
@@ -81,6 +88,10 @@ END:
 ** TODO Get Windsor McCay books
   CLOCK: [2012-10-15 Mon 12:10]--[2012-10-15 Mon 12:11] =>  0:01
 [2012-10-15 Mon 12:10]
+** TODO Read kp newsletter
+[[http://kaiserpermanente-mail.org/14e102af8layfousiaj5hioyaaaaaa2j4zxwaqctfoqyaaaaa/C?V=bF9pbmRleAEBcHJvZmlsZV9pZAExNzY1NTkyNTU2AUZSU1RfTk0BUEFVTAF6aXBfY29kZQEBX1dBVkVfSURfATEzNDg5OTA2MAFfUExJU1RfSURfATc3NzAyNTkBZ19pbmRleAEBZW1haWxfYWRkcgFwYWJyeWFuQGdtYWlsLmNvbQFfU0NIRF9UTV8BMjAxMjEwMTYxMTAwMDABcHJvZmlsZV9rZXkBNTUwMDAxNDg2MjgyMg%3D%3D&hfRgPQxxOsF3fqchSPOhjw][newsletter]]
+  CLOCK: [2012-10-18 Thu 10:46]--[2012-10-18 Thu 10:46] =>  0:00
+[2012-10-18 Thu 10:46]
 * Shows to watch
 * Home organisation
 ** TODO plan weekly food
