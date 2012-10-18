@@ -8,6 +8,20 @@
 ** TODO Setup mercurial sync and fetch
   CLOCK: [2012-10-18 Thu 10:59]--[2012-10-18 Thu 10:59] =>  0:00
 [2012-10-18 Thu 10:59]
+** TODO Get agenda filtering elisp functions into my org setup
+See [[http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=9&cad=rja&ved=0CEkQFjAI&url=http%3A%2F%2Fdoc.norang.ca%2Forg-mode.html&ei=VmGAUOnkOaTliQLw0ICICQ&usg=AFQjCNHQ1HdTsHALFTFCzKA3VWXmqPg2qA][org-mode tutorial]]
+  CLOCK: [2012-10-18 Thu 13:04]--[2012-10-18 Thu 13:07] =>  0:03
+[2012-10-18 Thu 13:04]
+
+** TODO Set up clocking
+  CLOCK: [2012-10-18 Thu 13:07]--[2012-10-18 Thu 13:08] =>  0:01
+[2012-10-18 Thu 13:07]
+** TODO Set up org-refile targets
+I want to include a file relative to the org directory like
+(concat org-directory "someday/someday.org")
+or even get the whole directory but I don't know how to write the lisp
+  CLOCK: [2012-10-18 Thu 13:09]--[2012-10-18 Thu 13:10] =>  0:01
+[2012-10-18 Thu 13:09]
 * process
 ** TODO Develop organisation process, workflow
 ** TODO Set up office like in GTD such as trays, clips etc.
@@ -60,6 +74,7 @@ Use dropbox just to mirror static files: can sync between multiple computers
 For dynamic files, auto sync to vc every hour or so and sync with dropbox, but to a machine specific folder, e.g. org-office, org-home. These should be seperate directories so I don't get clashes. This is just for backup purposes. The synchronisation should be via bitbucket.
   CLOCK: [2012-10-15 Mon 09:39]--[2012-10-15 Mon 09:41] =>  0:02
 [2012-10-15 Mon 09:39]
+** TODO Research paper notebooks				   :COMPUTER:
 * office layout
 ** TODO get a cloth or coaster for office
   CLOCK: [2012-10-15 Mon 09:36]--[2012-10-15 Mon 09:36] =>  0:00
@@ -79,3 +94,7 @@ bucket like in China?
 ** TODO buy coffee plunger (french press)
   CLOCK: [2012-10-16 Tue 10:48]--[2012-10-16 Tue 10:48] =>  0:00
 [2012-10-16 Tue 10:48]
+** TODO Bring doorstop to work					       :HOME:
+** TODO exercise ball and yoga mat for office			   :COMPUTER:
+** TODO tablet cable for office					   :COMPUTER:
+** TODO office sandals

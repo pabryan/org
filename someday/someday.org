@@ -59,6 +59,8 @@ can I ssh into my workstation?
 *** TODO Create contacts in emacs
   CLOCK: [2012-10-14 Sun 20:34]--[2012-10-14 Sun 20:34] =>  0:00
   [2012-10-14 Sun 20:34]
+*** TODO Configure Mercurial 
+e.g. ignore emacs back files
 ** TODO research bit, bazaar
   CLOCK: [2012-10-15 Mon 09:36]--[2012-10-15 Mon 09:36] =>  0:00
 [2012-10-15 Mon 09:36]

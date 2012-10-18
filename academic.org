@@ -9,6 +9,7 @@
 Some money available through colloquia funds?
   CLOCK: [2012-10-14 Sun 20:39]--[2012-10-14 Sun 20:40] =>  0:01
 [2012-10-14 Sun 20:39]
+*** NEXT Contact Ben, Lei and/or Peter about funding/process
 * Grants
 * Students
 ** TODO Research Supervising
@@ -16,7 +17,15 @@ Say summer projects, or reading courses
 Can I employ (through a grant?) research assistants? These should get something like a paper or conference proceeding out of it
 
   CLOCK: [2012-10-15 Mon 09:32]--[2012-10-15 Mon 09:33] =>  0:01
-[2012-10-15 Mon 09:32]
+  [2012-10-15 Mon 09:32]
+
+*** NEXT Contact Peter Ebenfelt about what I'm allowed to do
+*** NEXT Create student projects
+**** NEXT Research what other people have done
+**** NEXT Make a list of possible projects
+**** NEXT Advertise project list
+On website, email people who can inform students
+
 * Assistants
 * Research
 ** TODO Write tutorials on project management, GTD so on for mathematicians, scientists, academics and teachers
@@ -32,6 +41,22 @@ I want to do teaching with sage-tex and/or org-mode with babel; i.e. interactive
 Write a paper on how to do it? Use my own paper preperation as model
   CLOCK: [2012-10-14 Sun 20:42]--[2012-10-14 Sun 20:43] =>  0:01
 [2012-10-14 Sun 20:42]
+** TODO Organise research projects				   :COMPUTER:
+Need to make project version controls and org files linked to from gtd. Have some sore of notes folder for each project where I can dump blackboard screen shots, scans of notebooks etc.
+*** Ricci isoperimetric comparison
+*** Pipe flows
+*** $\alpha$ curve flows
+*** dist. comp. on surfaces
+*** CMC stability
+*** CSF iso profile on surfaces
+*** Vector symmetric polynomials
+*** k-graphs, free constructions
+*** iso profile comparison Kahler manifolds
+*** CSF for networks
+*** Perelman pseudo-locality
+*** Degenerate neck-pinches
+*** Ricci flow on warped products
+
 * Reviews
 * Tasks
 ** TODO Contact Ben Andrews about MCF, geometric evolution eqn's books
