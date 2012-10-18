@@ -53,6 +53,10 @@ END:
 Need to find out what to do when sick or in an emergency
   CLOCK: [2012-10-18 Thu 10:46]--[2012-10-18 Thu 10:47] =>  0:01
 [2012-10-18 Thu 10:46]
+** WAITING Update medical insurance				   :COMPUTER:
+   - State "WAITING"    from "TODO"       [2012-10-16 Tue 10:42] \\
+     Should recieve email confirming eligibility for family members
+** TODO clarify pain free class					   :COMPUTER:
 * House Maintenance
 PROPERTIES:
 CATEGORY: House
@@ -80,6 +84,8 @@ END:
 ** TODO Set up reminder to pay rent
   CLOCK: [2012-10-16 Tue 09:57]--[2012-10-16 Tue 09:57] =>  0:00
 [2012-10-16 Tue 09:57]
+** TODO Enrol in emergency warning systems	      :COMPUTER:TABLET:PHONE:
+
 * Outings
 ** TODO Plan pumpkin trip
 ** TODO brick or treat, Legoland
@@ -111,3 +117,4 @@ pantry shelves
 Find a good postcast player for android. I want to be able to do offline listening and jump to where I was up to last. I want to order them based on say date with oldest first or newest first as the fancy takes me.
   CLOCK: [2012-10-15 Mon 09:50]--[2012-10-15 Mon 09:51] =>  0:01
 [2012-10-15 Mon 09:50]
+** TODO get podcasts						   :COMPUTER:
