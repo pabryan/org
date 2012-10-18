@@ -4,7 +4,7 @@
 
 * Next Action
 ** TODO Bring doorstop to work					       :HOME:
-** TODO money in bank						     :OFFICE:
+** TODO money in bank 						     :OFFICE:
 ** TODO get podcasts						   :COMPUTER:
 ** TODO clarify pain free class					   :COMPUTER:
 ** TODO Enrol in emergency warning systems	      :COMPUTER:TABLET:PHONE:
@@ -37,8 +37,3 @@ e.g. ignore emacs back files
 ** WAITING Update medical insurance				   :COMPUTER:
    - State "WAITING"    from "TODO"       [2012-10-16 Tue 10:42] \\
      Should recieve email confirming eligibility for family members
-
-
-   
-
-
