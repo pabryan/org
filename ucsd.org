@@ -6,3 +6,55 @@ check out http://www.wix.com/
 use org-mode to write content, css to render
   CLOCK: [2012-10-15 Mon 10:13]--[2012-10-15 Mon 10:13] =>  0:00
 [2012-10-15 Mon 10:13]
+
+* Teaching
+#+FILETAGS: TEACHING
+
+** How to teach
+
+*** TODO Write org-mode teaching paper
+Use a course as a guinea pig for using the method
+  CLOCK: [2012-10-14 Sun 20:43]--[2012-10-14 Sun 20:44] =>  0:01
+[2012-10-14 Sun 20:43]
+
+** TODO MATH150A Fall 2012
+PROPERTIES:
+CATEGORY: fall2012
+END:
+*** Lectures
+*** Notes
+*** Exams
+*** Homework
+*** Syllabus
+*** Calendar
+Is this necessary?
+
+*** TODO math150a lecture log					   :COMPUTER:
+*** TODO math150a notes						   :COMPUTER:
+    circle arc-len parametrisations
+    curve len independent of parametrisation
+
+*** TODO Assign math150a homework				   :COMPUTER:
+    
+*** TODO In lecture log, talk about area, Green's thm
+*** TODO MATH150 Wk 3 lectures
+  CLOCK: [2012-10-14 Sun 20:34]--[2012-10-14 Sun 20:34] =>  0:00
+[2012-10-14 Sun 20:34]
+*** TODO MATH150A Lec 3-2
+Remark that (i)+(ii)+(iii) allow us to identify differntiable functions on $U$ with those on $V\cap S$
+
+  CLOCK: [2012-10-15 Mon 15:22]--[2012-10-15 Mon 15:23] =>  0:01
+[2012-10-15 Mon 15:22]
+*** TODO MATH150a mid term
+  CLOCK: [2012-10-15 Mon 10:13]--[2012-10-15 Mon 10:13] =>  0:00
+[2012-10-15 Mon 10:13]
+
+** TODO Setup reminder for MATH142B
+  CLOCK: [2012-10-15 Mon 10:27]--[2012-10-15 Mon 10:28] =>  0:01
+[2012-10-15 Mon 10:27]
+
+* Seminars
+** TODO DG Seminar
+*** TODO Prepare talk for next week
+  CLOCK: [2012-10-16 Tue 08:28]--[2012-10-16 Tue 08:28] =>  0:00
+[2012-10-16 Tue 08:28]
