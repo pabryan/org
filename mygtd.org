@@ -3,16 +3,16 @@
 #+STARTUP: hidestars
 
 * Next Action
-** TODO Bring doorstop to work					       :HOME:
-** TODO Add phone line						   :COMPUTER:
-** TODO money in bank						     :OFFICE:
-** TODO get podcasts						   :COMPUTER:
-** TODO clarify pain free class					   :COMPUTER:
-** TODO Enrol in emergency warning systems	      :COMPUTER:TABLET:PHONE:
-** TODO Winter text books					   :COMPUTER:
-** TODO Schedule tasks						   :COMPUTER:
+** Bring doorstop to work					       :HOME:
+** Add phone line						   :COMPUTER:
+** money in bank						     :OFFICE:
+** get podcasts							   :COMPUTER:
+** clarify pain free class					   :COMPUTER:
+** Enrol in emergency warning systems 		      :COMPUTER:TABLET:PHONE:
+** Winter text books						   :COMPUTER:
+** Schedule tasks 						   :COMPUTER:
 Need to mind map first to determine tasks though!
-** TODO Organise research projects				   :COMPUTER:
+** Organise research projects 					   :COMPUTER:
 Need to make project version controls and org files linked to from gtd. Have some sore of notes folder for each project where I can dump blackboard screen shots, scans of notebooks etc.
 *** Ricci isoperimetric comparison
 *** Pipe flows
@@ -28,16 +28,14 @@ Need to make project version controls and org files linked to from gtd. Have som
 *** Degenerate neck-pinches
 *** Ricci flow on warped products
 
-** TODO Research paper notebooks				   :COMPUTER:
-** TODO Configure Mercurial 
+** Research paper notebooks					   :COMPUTER:
+** Configure Mercurial 
 e.g. ignore emacs back files
-** TODO exercise ball and yoga mat for office			   :COMPUTER:
-** TODO tablet cable for office					   :COMPUTER:
-** TODO office sandals
+** exercise ball and yoga mat for office			   :COMPUTER:
+** tablet cable for office					   :COMPUTER:
+** office sandals
 * Waiting
-** WAITING Update medical insurance				   :COMPUTER:
-   - State "WAITING"    from "TODO"       [2012-10-16 Tue 10:42] \\
-     Should recieve email confirming eligibility for family members
+** Update medical insurance 					   :COMPUTER:
 
 
    
