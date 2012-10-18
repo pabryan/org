@@ -27,34 +27,36 @@ END:
 *** Homework
 *** Syllabus
 *** Calendar
-Is this necessary?
 
-*** TODO math150a lecture log					   :COMPUTER:
-*** TODO math150a notes						   :COMPUTER:
+*** NEXT math150a lecture log					   :COMPUTER:
+*** NEXT math150a notes						   :COMPUTER:
     circle arc-len parametrisations
     curve len independent of parametrisation
+    links to Hans Lindblan inverse function theorem notes?
 
-*** TODO Assign math150a homework				   :COMPUTER:
+*** NEXT Assign math150a homework 3				   :COMPUTER:
     
-*** TODO In lecture log, talk about area, Green's thm
-*** TODO MATH150 Wk 3 lectures
+*** CANCELLED In lecture log, talk about area, Green's thm
+    - State "CANCELLED"  from "TODO"       [2012-10-18 Thu 14:46] \\
+      Not necessary
+*** DONE MATH150 Wk 3 lectures
+    - State "DONE"       from "TODO"       [2012-10-18 Thu 14:45]
   CLOCK: [2012-10-14 Sun 20:34]--[2012-10-14 Sun 20:34] =>  0:00
 [2012-10-14 Sun 20:34]
-*** TODO MATH150A Lec 3-2
-Remark that (i)+(ii)+(iii) allow us to identify differntiable functions on $U$ with those on $V\cap S$
-
+*** NEXT Prepare MATH150A Lec 4
   CLOCK: [2012-10-15 Mon 15:22]--[2012-10-15 Mon 15:23] =>  0:01
 [2012-10-15 Mon 15:22]
-*** TODO MATH150a mid term
+*** NEXT Set MATH150a mid term
   CLOCK: [2012-10-15 Mon 10:13]--[2012-10-15 Mon 10:13] =>  0:00
 [2012-10-15 Mon 10:13]
 
-*** TODO Get homework scores
+*** DONE Get homework scores
+    - State "DONE"       from "TODO"       [2012-10-18 Thu 14:44]
 [[https://docs.google.com/a/ucsd.edu/spreadsheet/ccc?key=0AlsrGAe5FGyBdGR3T29ERERzMm44LTRoU3R2bU13RkE&invite=CNuWms4G][Fall Math 150A]]
   CLOCK: [2012-10-18 Thu 10:44]--[2012-10-18 Thu 10:44] =>  0:00
 [2012-10-18 Thu 10:44]
 
-*** Bo Yang
+*** Meet Bo Yang
     SCHEDULED: <2012-10-19 Fri +1w>
 ** TODO Setup reminder for MATH142B
   CLOCK: [2012-10-15 Mon 10:27]--[2012-10-15 Mon 10:28] =>  0:01

@@ -98,3 +98,9 @@ bucket like in China?
 ** TODO exercise ball and yoga mat for office			   :COMPUTER:
 ** TODO tablet cable for office					   :COMPUTER:
 ** TODO office sandals
+** WAITING Get standing desk
+   - State "WAITING"    from "TODO"       [2012-10-18 Thu 14:25] \\
+     Waiting for Maureen to find desk
+  CLOCK: [2012-10-18 Thu 14:24]--[2012-10-18 Thu 14:25] =>  0:01
+[2012-10-18 Thu 14:24]
+
