@@ -11,6 +11,19 @@ Some money available through colloquia funds?
 [2012-10-14 Sun 20:39]
 *** NEXT Contact Ben, Lei and/or Peter about funding/process
 * Grants
+** TODO Investigate data management plan workshop
+[[http://libraries.ucsd.edu/services/data-curation/data-management-plan/workshop.html][data management plan workshop]]
+  CLOCK: [2012-10-19 Fri 14:11]--[2012-10-19 Fri 14:12] =>  0:01
+[2012-10-19 Fri 14:11]
+** TODO Research getting grants
+I want mostly travel money 
+Can I hire a car so we can all go on a road trip?
+I need books
+I want to do some sage or org-mode devel
+I want to do teaching with sage-tex and/or org-mode with babel; i.e. interactive lectures so I can change the parameters of things like plots in real time
+  CLOCK: [2012-10-14 Sun 20:40]--[2012-10-14 Sun 20:41] =>  0:01
+[2012-10-14 Sun 20:40]
+
 * Students
 ** TODO Research Supervising
 Say summer projects, or reading courses
@@ -29,14 +42,6 @@ On website, email people who can inform students
 * Assistants
 * Research
 ** TODO Write tutorials on project management, GTD so on for mathematicians, scientists, academics and teachers
-** TODO Research grants
-I want mostly travel money 
-Can I hire a car so we can all go on a road trip?
-I need books
-I want to do some sage or org-mode devel
-I want to do teaching with sage-tex and/or org-mode with babel; i.e. interactive lectures so I can change the parameters of things like plots in real time
-  CLOCK: [2012-10-14 Sun 20:40]--[2012-10-14 Sun 20:41] =>  0:01
-[2012-10-14 Sun 20:40]
 ** TODO Preparing/doing research using org-mode
 Write a paper on how to do it? Use my own paper preperation as model
   CLOCK: [2012-10-14 Sun 20:42]--[2012-10-14 Sun 20:43] =>  0:01

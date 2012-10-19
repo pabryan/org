@@ -1,14 +1,21 @@
 #+FILETAGS: UCSD
 
-* Website
+* Personal Website
 ** TODO Update website template
 check out http://www.wix.com/
 use org-mode to write content, css to render
   CLOCK: [2012-10-15 Mon 10:13]--[2012-10-15 Mon 10:13] =>  0:00
 [2012-10-15 Mon 10:13]
 
+** NEXT Write in org mode
+** TODO Write content
+*** NEXT CV
+*** NEXT Links to papers
+*** NEXT Research interests
 * Teaching
-#+FILETAGS: TEACHING
+  :PROPERTIES:
+  :CATEGORY: Teaching
+  :END:
 
 ** How to teach
 
@@ -18,9 +25,9 @@ Use a course as a guinea pig for using the method
 [2012-10-14 Sun 20:43]
 
 ** TODO MATH150A Fall 2012
-PROPERTIES:
-CATEGORY: fall2012
-END:
+   :PROPERTIES:
+   :CATEGORY: MATH150A FALL2012
+   :END:
 *** Lectures
 *** Notes
 *** Exams
@@ -43,12 +50,28 @@ END:
     - State "DONE"       from "TODO"       [2012-10-18 Thu 14:45]
   CLOCK: [2012-10-14 Sun 20:34]--[2012-10-14 Sun 20:34] =>  0:00
 [2012-10-14 Sun 20:34]
-*** NEXT Prepare MATH150A Lec 4
+*** TODO Prepare MATH150A Week 4 Lectures 
   CLOCK: [2012-10-15 Mon 15:22]--[2012-10-15 Mon 15:23] =>  0:01
-[2012-10-15 Mon 15:22]
-*** NEXT Set MATH150a mid term
+  [2012-10-15 Mon 15:22]
+**** NEXT Lec 1
+Recap on level sets are regular
+Sec 2-3
+**** NEXT Lec 2
+Inverse function theorem: examples, non-examples and implicit function theorem
+**** NEXT Lec 3
+Maybe do the [[http://www.math.ucsd.edu/~lindblad/150a/l10.pdf][Hans Lindblad contraction mapping]] stuff?
+
+*** TODO Set MATH150a mid term
   CLOCK: [2012-10-15 Mon 10:13]--[2012-10-15 Mon 10:13] =>  0:00
 [2012-10-15 Mon 10:13]
+**** NEXT Check Practice exams 
+Some are here [[http://www.math.ucsd.edu/~lindblad/150a/150a.html]]
+**** WAITING Get samples from Ben
+     - State "WAITING"    from "NEXT"       [2012-10-19 Fri 14:03] \\
+       Ben is looking for past exams
+
+**** NEXT Devise problems and write them up
+**** NEXT Check with Holly about proctoring, blue books, general process
 
 *** DONE Get homework scores
     - State "DONE"       from "TODO"       [2012-10-18 Thu 14:44]
@@ -120,3 +143,7 @@ UCSD Mathematics
 ** Math pizza 
    SCHEDULED: <2012-10-26 Fri 15:30-17:30>
 Round Table pizza
+
+* Computing Environment
+** TODO Make super computer project
+See [[file:~/Documents/TSCC/TSCC-Description-For-Participants.doc][TSCC-Description-For-Participants.doc]] and [[file:~/Documents/TSCC/TSCC_UserGroup_20121017.ppt][TSCC_UserGroup_20121017.ppt]]
