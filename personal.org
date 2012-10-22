@@ -27,6 +27,9 @@ Need an org heading with due dates
 ** TODO Pay Ben Chow $180
   CLOCK: [2012-10-17 Wed 08:22]--[2012-10-17 Wed 08:22] =>  0:00
 [2012-10-17 Wed 08:22]
+** NEXT Pay Lily $200
+  CLOCK: [2012-10-19 Fri 14:34]--[2012-10-19 Fri 14:34] =>  0:00
+[2012-10-19 Fri 14:34]
 * Health and Recreation
 PROPERTIES:
 CATEGORY: Health
@@ -86,6 +89,10 @@ END:
 [2012-10-16 Tue 09:57]
 ** TODO Enrol in emergency warning systems	      :COMPUTER:TABLET:PHONE:
 
+** NEXT Call ATT to fix wireless
+Did using google voice mess things up
+  CLOCK: [2012-10-19 Fri 14:35]--[2012-10-19 Fri 14:36] =>  0:01
+[2012-10-19 Fri 14:35]
 * Outings
 ** TODO Plan pumpkin trip
 ** TODO brick or treat, Legoland
