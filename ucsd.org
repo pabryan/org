@@ -5,13 +5,31 @@
 check out http://www.wix.com/
 use org-mode to write content, css to render
   CLOCK: [2012-10-15 Mon 10:13]--[2012-10-15 Mon 10:13] =>  0:00
+   :PROPERTIES:
+   :ID:       95bed625-9178-4c2e-977b-ca4098a5ae3a
+   :END:
 [2012-10-15 Mon 10:13]
 
 ** NEXT Write in org mode
+   :PROPERTIES:
+   :ID:       d4065564-7904-47cc-b82c-68a9e060597e
+   :END:
 ** TODO Write content
+   :PROPERTIES:
+   :ID:       5c8378f9-737c-4a4a-98ea-52d9c4ca3e93
+   :END:
 *** NEXT CV
+    :PROPERTIES:
+    :ID:       27dfad08-3c5c-4678-a6d6-83cf0594c320
+    :END:
 *** NEXT Links to papers
+    :PROPERTIES:
+    :ID:       001a6a07-ac07-41ab-918a-fea9bd071d53
+    :END:
 *** NEXT Research interests
+    :PROPERTIES:
+    :ID:       3dd10810-b2c4-4677-b2c4-e4d542620645
+    :END:
 * Teaching
   :PROPERTIES:
   :CATEGORY: Teaching
@@ -22,11 +40,15 @@ use org-mode to write content, css to render
 *** TODO Write org-mode teaching paper
 Use a course as a guinea pig for using the method
   CLOCK: [2012-10-14 Sun 20:43]--[2012-10-14 Sun 20:44] =>  0:01
+    :PROPERTIES:
+    :ID:       d58effe4-6b9d-48e3-96a1-a6a992538c6c
+    :END:
 [2012-10-14 Sun 20:43]
 
 ** TODO MATH150A Fall 2012
    :PROPERTIES:
    :CATEGORY: MATH150A FALL2012
+   :ID:       7b8cd00b-6f86-4280-a4c6-8cbdd0dcfc87
    :END:
 *** Lectures
 *** Notes
@@ -36,12 +58,21 @@ Use a course as a guinea pig for using the method
 *** Calendar
 
 *** NEXT math150a lecture log					   :COMPUTER:
+    :PROPERTIES:
+    :ID:       9152bf49-2b50-4ac9-a640-5b193d4ced49
+    :END:
 *** NEXT math150a notes						   :COMPUTER:
+    :PROPERTIES:
+    :ID:       f93a4094-41d2-4732-96fa-1be37fd96312
+    :END:
     circle arc-len parametrisations
     curve len independent of parametrisation
     links to Hans Lindblan inverse function theorem notes?
 
 *** NEXT Assign math150a homework 3				   :COMPUTER:
+    :PROPERTIES:
+    :ID:       a53a8975-7eae-4ed4-b625-9b95c73d2272
+    :END:
     
 *** CANCELLED In lecture log, talk about area, Green's thm
     - State "CANCELLED"  from "TODO"       [2012-10-18 Thu 14:46] \\
@@ -52,26 +83,53 @@ Use a course as a guinea pig for using the method
 [2012-10-14 Sun 20:34]
 *** TODO Prepare MATH150A Week 4 Lectures 
   CLOCK: [2012-10-15 Mon 15:22]--[2012-10-15 Mon 15:23] =>  0:01
+    :PROPERTIES:
+    :ID:       b212184e-2cc5-4357-a1ec-7254f24a53b4
+    :END:
   [2012-10-15 Mon 15:22]
 **** NEXT Lec 1
+     :PROPERTIES:
+     :ID:       a5e99085-03d1-4a2a-b802-ec5d366f284c
+     :END:
 Recap on level sets are regular
 Sec 2-3
 **** NEXT Lec 2
+     :PROPERTIES:
+     :ID:       09d8e4f0-66f7-4bc7-a4fe-a26e965defb6
+     :END:
 Inverse function theorem: examples, non-examples and implicit function theorem
 **** NEXT Lec 3
+     :PROPERTIES:
+     :ID:       a1034819-8d45-4b63-9b60-2a72458a7d0e
+     :END:
 Maybe do the [[http://www.math.ucsd.edu/~lindblad/150a/l10.pdf][Hans Lindblad contraction mapping]] stuff?
 
 *** TODO Set MATH150a mid term
   CLOCK: [2012-10-15 Mon 10:13]--[2012-10-15 Mon 10:13] =>  0:00
+    :PROPERTIES:
+    :ID:       b3245c16-be40-47e8-8405-64bbfa9a6717
+    :END:
 [2012-10-15 Mon 10:13]
-**** NEXT Check Practice exams 
+**** NEXT Check Practice exams
+     :PROPERTIES:
+     :ID:       4eca34a2-952a-4fad-adbf-b0642cee0ffd
+     :END: 
 Some are here [[http://www.math.ucsd.edu/~lindblad/150a/150a.html]]
 **** WAITING Get samples from Ben
      - State "WAITING"    from "NEXT"       [2012-10-19 Fri 14:03] \\
        Ben is looking for past exams
+     :PROPERTIES:
+     :ID:       b38fd5c9-c7dc-4951-8b1f-6b0e0c7d95cb
+     :END:
 
 **** NEXT Devise problems and write them up
+     :PROPERTIES:
+     :ID:       06fb3571-c9b6-4668-8b8f-02c1fb22cd1e
+     :END:
 **** NEXT Check with Holly about proctoring, blue books, general process
+     :PROPERTIES:
+     :ID:       cd29cbca-0097-4424-8256-96a613819fa3
+     :END:
 
 *** DONE Get homework scores
     - State "DONE"       from "TODO"       [2012-10-18 Thu 14:44]
@@ -81,28 +139,60 @@ Some are here [[http://www.math.ucsd.edu/~lindblad/150a/150a.html]]
 
 *** Meet Bo Yang
     SCHEDULED: <2012-10-19 Fri 10:00 +1w>
+    :PROPERTIES:
+    :ID:       c8e2450b-bf17-4295-acdf-371ed5abd3d1
+    :END:
 ** TODO Setup reminder for MATH142B
   CLOCK: [2012-10-15 Mon 10:27]--[2012-10-15 Mon 10:28] =>  0:01
+   :PROPERTIES:
+   :ID:       351dabb7-be5d-458a-8f6b-0959ee00991d
+   :END:
 [2012-10-15 Mon 10:27]
 
 ** TODO Winter text books					   :COMPUTER:
+   :PROPERTIES:
+   :ID:       ca36acea-9953-4821-88a1-69ed34f77979
+   :END:
 * Seminars
 ** TODO DG Seminar
+   :PROPERTIES:
+   :ID:       4971ad3c-684f-45df-9002-ce8bead60ce7
+   :END:
 *** NEXT Prepare talk for next week
   CLOCK: [2012-10-16 Tue 08:28]--[2012-10-16 Tue 08:28] =>  0:00
+    :PROPERTIES:
+    :ID:       b7a65ab1-a46a-43db-8c55-6cd686ce7551
+    :END:
 [2012-10-16 Tue 08:28]
+
 *** DONE Make seminar website
+    :PROPERTIES:
+    :ID:       bbb38675-1efc-4046-8606-3c0f2524dc72
+    :END:
     - State "DONE"       from "NEXT"       [2012-10-19 Fri 15:24]
+
 *** NEXT Advertise seminar
+    :PROPERTIES:
+    :ID:       4840471b-e6b2-4079-b67c-7b261adf77d6
+    :END:
 email math-grad, general math list?
 *** NEXT Find speakers
+    :PROPERTIES:
+    :ID:       80623a86-568e-416a-85de-895be875f516
+    :END:
 * Tasks
 ** TODO Do UCSD required courses
 Sexual harassment, something else?
   CLOCK: [2012-10-17 Wed 09:47]--[2012-10-17 Wed 09:48] =>  0:01
+   :PROPERTIES:
+   :ID:       c830b0a2-36f9-4286-9fbc-a2c889cf4f46
+   :END:
 [2012-10-17 Wed 09:47]
 ** TODO Update office hours
   CLOCK: [2012-10-18 Thu 10:45]--[2012-10-18 Thu 10:45] =>  0:00
+   :PROPERTIES:
+   :ID:       ca310cc2-09d1-4d8f-bc15-f702e5b5cb04
+   :END:
 [2012-10-18 Thu 10:45]
 To all Instructional Faculty and TAs for Fall 2012 (please note the correctly working links to office hour information);
 
@@ -147,4 +237,7 @@ Round Table pizza
 
 * Computing Environment
 ** TODO Make super computer project
+   :PROPERTIES:
+   :ID:       c8a44475-f8cb-4df8-be68-1a4d49e529c0
+   :END:
 See [[file:~/Documents/TSCC/TSCC-Description-For-Participants.doc][TSCC-Description-For-Participants.doc]] and [[file:~/Documents/TSCC/TSCC_UserGroup_20121017.ppt][TSCC_UserGroup_20121017.ppt]]
