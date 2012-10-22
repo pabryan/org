@@ -2,82 +2,148 @@
 
 * org-mode
 ** TODO Set up level 1 headings (with properties)
+   :PROPERTIES:
+   :ID:       5196f0ca-ccb1-4fcc-b483-20f3f835838d
+   :END:
 ** TODO Make "errands" context for org-mode
   CLOCK: [2012-10-14 Sun 20:41]--[2012-10-14 Sun 20:42] =>  0:01
+   :PROPERTIES:
+   :ID:       54ac2243-d66a-44c2-86fe-c9223e6a4381
+   :END:
 [2012-10-14 Sun 20:41]
 ** TODO Setup mercurial sync and fetch
   CLOCK: [2012-10-18 Thu 10:59]--[2012-10-18 Thu 10:59] =>  0:00
+   :PROPERTIES:
+   :ID:       70331fca-6e60-44e7-9069-19e2808a45f5
+   :END:
 [2012-10-18 Thu 10:59]
 ** TODO Get agenda filtering elisp functions into my org setup
 See [[http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=9&cad=rja&ved=0CEkQFjAI&url=http%3A%2F%2Fdoc.norang.ca%2Forg-mode.html&ei=VmGAUOnkOaTliQLw0ICICQ&usg=AFQjCNHQ1HdTsHALFTFCzKA3VWXmqPg2qA][org-mode tutorial]]
   CLOCK: [2012-10-18 Thu 13:04]--[2012-10-18 Thu 13:07] =>  0:03
+   :PROPERTIES:
+   :ID:       83cb8720-795d-4602-829b-8b60f64a01c9
+   :END:
 [2012-10-18 Thu 13:04]
 
 ** TODO Set up clocking
   CLOCK: [2012-10-18 Thu 13:07]--[2012-10-18 Thu 13:08] =>  0:01
+   :PROPERTIES:
+   :ID:       5342bba9-aa74-4548-808a-cb693e7d6f8a
+   :END:
 [2012-10-18 Thu 13:07]
 ** TODO Set up org-refile targets
 I want to include a file relative to the org directory like
 (concat org-directory "someday/someday.org")
 or even get the whole directory but I don't know how to write the lisp
   CLOCK: [2012-10-18 Thu 13:09]--[2012-10-18 Thu 13:10] =>  0:01
+   :PROPERTIES:
+   :ID:       8120860b-546d-448f-8f2f-1b76e48a0299
+   :END:
 [2012-10-18 Thu 13:09]
 * process
 ** TODO Develop organisation process, workflow
+   :PROPERTIES:
+   :ID:       a96c63f6-2ee8-4042-ae7c-3f7d5bc3493e
+   :END:
 ** TODO Set up office like in GTD such as trays, clips etc.
+   :PROPERTIES:
+   :ID:       b2f00a6f-4eb6-4129-bbe8-56f1be40359b
+   :END:
 ** TODO Design workflow
 what are the structures?
 where do things go?
 e.g. active projects have next items
 someday things are projects/todos without any next?
   CLOCK: [2012-10-14 Sun 19:55]--[2012-10-14 Sun 19:56] =>  0:01
+   :PROPERTIES:
+   :ID:       6ab51833-f65f-4cbb-8800-902c28f26727
+   :END:
 [2012-10-14 Sun 19:55]
 ** TODO stationary storage
   CLOCK: [2012-10-14 Sun 19:56]--[2012-10-14 Sun 19:57] =>  0:01
+   :PROPERTIES:
+   :ID:       72a41c20-d196-4dbd-bb49-fd7e3e5b63d8
+   :END:
 [2012-10-14 Sun 19:56]
 ** TODO manage paper-based materials
 I do have some! Some reference like birth certificates, but also I get forms and things too sometimes
   CLOCK: [2012-10-14 Sun 19:57]--[2012-10-14 Sun 19:57] =>  0:00
+   :PROPERTIES:
+   :ID:       e6cb465c-ec3e-410d-8c18-55427995c332
+   :END:
 [2012-10-14 Sun 19:57]
 ** TODO Perspective levels
 What are my 50000ft to runway goals, principles, priorities etc.
 At the runway (i.e. actions) level, I should have a list of procedures for following when doing common tasks e.g. weekly review
   CLOCK: [2012-10-15 Mon 09:33]--[2012-10-15 Mon 09:35] =>  0:02
+   :PROPERTIES:
+   :ID:       66f71f60-d4ae-4036-a17a-75b5fb1002d5
+   :END:
 [2012-10-15 Mon 09:33]
 ** TODO Process for Learning 
 If I want to learn something, e.g. some maths or self-improvement, juggling, etc., make a project for this in org-mode where I can store notes. It would be really nice to be able to put a bookmark in a pdf/ebook and create a link in org-mode to that bookmark.
   CLOCK: [2012-10-15 Mon 09:47]--[2012-10-15 Mon 09:50] =>  0:03
+   :PROPERTIES:
+   :ID:       f4126061-82e5-4f60-9063-ab744abea7d0
+   :END:
 [2012-10-15 Mon 09:47]
 ** TODO Extract precise actions/setup from Getting it done and org-mode
 [[http://doc.norang.ca/org-mode.html][org-mode article]]
   CLOCK: [2012-10-15 Mon 12:35]--[2012-10-15 Mon 12:36] =>  0:01
+   :PROPERTIES:
+   :ID:       23c17376-748a-4291-90ee-6820b854b696
+   :END:
 [2012-10-15 Mon 12:35]
 ** TODO personalise office
+   :PROPERTIES:
+   :ID:       f366cda5-3ce1-45f3-8e0d-4e904cf24bf6
+   :END:
 ** TODO Move mygtd into refile
   CLOCK: [2012-10-15 Mon 22:06]--[2012-10-15 Mon 22:06] =>  0:00
+   :PROPERTIES:
+   :ID:       29212bbd-9706-4cfc-84ff-d28e43f0f2f8
+   :END:
 [2012-10-15 Mon 22:06]
 
 ** TODO Rationalise Documents, Dropbox, Ubuntu One
   CLOCK: [2012-10-16 Tue 09:04]--[2012-10-16 Tue 09:04] =>  0:00
+   :PROPERTIES:
+   :ID:       5f23f742-f0f0-4e0b-8d9d-98f5acae6a1b
+   :END:
 [2012-10-16 Tue 09:04]
 ** TODO Process research papers
 Put everything into bibtex (org-mode?)
 All files named by bibtex key
   CLOCK: [2012-10-16 Tue 08:31]--[2012-10-16 Tue 08:32] =>  0:01
+   :PROPERTIES:
+   :ID:       b501f27d-9ac1-431c-9189-2f7a3eec884a
+   :END:
 [2012-10-16 Tue 08:31]
 ** TODO Process emails
 Archive the lot! Organise into folders/tags whatever. gmail can be the main repository to sync with, but as with org files, maybe have machine specific syncing to dropbox also.
   CLOCK: [2012-10-15 Mon 09:42]--[2012-10-15 Mon 09:43] =>  0:01
+   :PROPERTIES:
+   :ID:       ee144a81-a3eb-43bf-879e-72e2b97b0c11
+   :END:
 [2012-10-15 Mon 09:42]
 ** TODO Dropbox and vcs
 Use dropbox just to mirror static files: can sync between multiple computers
 For dynamic files, auto sync to vc every hour or so and sync with dropbox, but to a machine specific folder, e.g. org-office, org-home. These should be seperate directories so I don't get clashes. This is just for backup purposes. The synchronisation should be via bitbucket.
   CLOCK: [2012-10-15 Mon 09:39]--[2012-10-15 Mon 09:41] =>  0:02
+   :PROPERTIES:
+   :ID:       b378c18b-b6d0-4e2d-9ed0-ecb3d85d4784
+   :END:
 [2012-10-15 Mon 09:39]
 ** TODO Research paper notebooks				   :COMPUTER:
+   :PROPERTIES:
+   :ID:       95201798-e0f8-4283-ad8c-c9bf948a52f2
+   :END:
 * office layout
 ** TODO get a cloth or coaster for office
   CLOCK: [2012-10-15 Mon 09:36]--[2012-10-15 Mon 09:36] =>  0:00
+   :PROPERTIES:
+   :ID:       be6627ea-0e33-463b-91bf-cb7d140180cb
+   :END:
 [2012-10-15 Mon 09:36]
 ** TODO Get snacks for office
 I should get a plunger and coffee to save money though milk is problematic then! I could bring it daily in a thermos.
@@ -86,21 +152,45 @@ Also could have dry snacks, tinned stuff like sardines and so on.
 
 
   CLOCK: [2012-10-15 Mon 09:43]--[2012-10-15 Mon 09:44] =>  0:01
+   :PROPERTIES:
+   :ID:       eeb3b8ad-7b8e-4009-9273-e5bf24a717dc
+   :END:
 [2012-10-15 Mon 09:43]
 ** TODO Design tea disposal system
 bucket like in China?
   CLOCK: [2012-10-15 Mon 15:23]--[2012-10-15 Mon 15:24] =>  0:01
+   :PROPERTIES:
+   :ID:       f411b813-3459-48e8-a62d-947feed9a42d
+   :END:
 [2012-10-15 Mon 15:23]
 ** TODO buy coffee plunger (french press)
   CLOCK: [2012-10-16 Tue 10:48]--[2012-10-16 Tue 10:48] =>  0:00
+   :PROPERTIES:
+   :ID:       9f49adc3-355c-4ec4-bb31-458b3ab7d12b
+   :END:
 [2012-10-16 Tue 10:48]
 ** TODO Bring doorstop to work					       :HOME:
+   :PROPERTIES:
+   :ID:       27c8bddc-f9d4-48e6-b0ec-5de179e2822b
+   :END:
 ** TODO exercise ball and yoga mat for office			   :COMPUTER:
+   :PROPERTIES:
+   :ID:       01f23a0f-a1ec-47b6-87fe-81d301d4a144
+   :END:
 ** TODO tablet cable for office					   :COMPUTER:
+   :PROPERTIES:
+   :ID:       856bc4e4-063d-4853-a492-45a6199249d5
+   :END:
 ** TODO office sandals
+   :PROPERTIES:
+   :ID:       ddd7d9ba-1677-4d4a-86b5-e5baf26d36a8
+   :END:
 ** WAITING Get standing desk
    - State "WAITING"    from "TODO"       [2012-10-18 Thu 14:25] \\
      Waiting for Maureen to find desk
   CLOCK: [2012-10-18 Thu 14:24]--[2012-10-18 Thu 14:25] =>  0:01
+   :PROPERTIES:
+   :ID:       3198eec6-d5f0-4ac3-b95c-ef2784843100
+   :END:
 [2012-10-18 Thu 14:24]
 

@@ -8,12 +8,21 @@
 ** TODO Invite Visitors
 Some money available through colloquia funds?
   CLOCK: [2012-10-14 Sun 20:39]--[2012-10-14 Sun 20:40] =>  0:01
+   :PROPERTIES:
+   :ID:       e922bc74-823a-4909-83a9-fbc7b63a93d7
+   :END:
 [2012-10-14 Sun 20:39]
 *** NEXT Contact Ben, Lei and/or Peter about funding/process
+    :PROPERTIES:
+    :ID:       c011fced-9d37-4ac5-bd6e-bb689c3a67f2
+    :END:
 * Grants
 ** TODO Investigate data management plan workshop
 [[http://libraries.ucsd.edu/services/data-curation/data-management-plan/workshop.html][data management plan workshop]]
   CLOCK: [2012-10-19 Fri 14:11]--[2012-10-19 Fri 14:12] =>  0:01
+   :PROPERTIES:
+   :ID:       26658a79-21fd-4a3b-880c-ee7e7644274d
+   :END:
 [2012-10-19 Fri 14:11]
 ** TODO Research getting grants
 I want mostly travel money 
@@ -22,6 +31,9 @@ I need books
 I want to do some sage or org-mode devel
 I want to do teaching with sage-tex and/or org-mode with babel; i.e. interactive lectures so I can change the parameters of things like plots in real time
   CLOCK: [2012-10-14 Sun 20:40]--[2012-10-14 Sun 20:41] =>  0:01
+   :PROPERTIES:
+   :ID:       d0bbb971-d0e5-4463-b1be-1cbcfbf54db3
+   :END:
 [2012-10-14 Sun 20:40]
 
 * Students
@@ -30,23 +42,50 @@ Say summer projects, or reading courses
 Can I employ (through a grant?) research assistants? These should get something like a paper or conference proceeding out of it
 
   CLOCK: [2012-10-15 Mon 09:32]--[2012-10-15 Mon 09:33] =>  0:01
+   :PROPERTIES:
+   :ID:       601c43cf-e25d-496c-b829-968fcecf3b50
+   :END:
   [2012-10-15 Mon 09:32]
 
 *** NEXT Contact Peter Ebenfelt about what I'm allowed to do
+    :PROPERTIES:
+    :ID:       0f22a13e-cedf-4d08-8e25-22e4cf02a64f
+    :END:
 *** NEXT Create student projects
+    :PROPERTIES:
+    :ID:       6caa18dc-32bc-43e2-8592-8b5145e39c4a
+    :END:
 **** NEXT Research what other people have done
+     :PROPERTIES:
+     :ID:       be3a110e-5c1e-4639-91bf-d365ac331dab
+     :END:
 **** NEXT Make a list of possible projects
+     :PROPERTIES:
+     :ID:       cea08fd0-43d2-475b-8bc7-a9f3ba218a2e
+     :END:
 **** NEXT Advertise project list
+     :PROPERTIES:
+     :ID:       02760253-d447-4bd2-820d-b359961c7751
+     :END:
 On website, email people who can inform students
 
 * Assistants
 * Research
 ** TODO Write tutorials on project management, GTD so on for mathematicians, scientists, academics and teachers
+   :PROPERTIES:
+   :ID:       0bc3a3b6-1a25-4b77-aace-ffbd0c69139b
+   :END:
 ** TODO Preparing/doing research using org-mode
 Write a paper on how to do it? Use my own paper preperation as model
   CLOCK: [2012-10-14 Sun 20:42]--[2012-10-14 Sun 20:43] =>  0:01
+   :PROPERTIES:
+   :ID:       ade2f502-3a52-4fc7-bdbe-944b7c566c34
+   :END:
 [2012-10-14 Sun 20:42]
 ** TODO Organise research projects				   :COMPUTER:
+   :PROPERTIES:
+   :ID:       81bb4f28-b031-4061-9092-8e4a24b4b787
+   :END:
 Need to make project version controls and org files linked to from gtd. Have some sore of notes folder for each project where I can dump blackboard screen shots, scans of notebooks etc.
 *** Ricci isoperimetric comparison
 *** Pipe flows
@@ -66,5 +105,8 @@ Need to make project version controls and org files linked to from gtd. Have som
 * Tasks
 ** TODO Contact Ben Andrews about MCF, geometric evolution eqn's books
   CLOCK: [2012-10-17 Wed 08:23]--[2012-10-17 Wed 08:23] =>  0:00
+   :PROPERTIES:
+   :ID:       23b5f090-7dcb-4d25-aa13-be5827182c87
+   :END:
 [2012-10-17 Wed 08:23]
 * Notes

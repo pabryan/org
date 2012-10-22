@@ -15,54 +15,93 @@ CATEGORY: Finances
 END:
 
 ** TODO sort out budget
+   :PROPERTIES:
+   :ID:       93a33ee0-24df-416f-a1a0-2058bac243a7
+   :END:
 ** TODO Bills to pay list
 Need an org heading with due dates
   CLOCK: [2012-10-14 Sun 19:57]--[2012-10-14 Sun 19:58] =>  0:01
+   :PROPERTIES:
+   :ID:       460e587d-ea56-4b13-94a1-f487579e42fe
+   :END:
 [2012-10-14 Sun 19:57]
 ** TODO Pay rent
   DEADLINE: <2012-11-05 Thu +1m -5d>
   CLOCK: [2012-10-17 Wed 14:44]--[2012-10-17 Wed 14:45] =>  0:01
+   :PROPERTIES:
+   :ID:       ea07bf7b-9f89-49bf-90db-3e167baff163
+   :END:
 [2012-10-17 Wed 14:44]
 
 ** TODO Pay Ben Chow $180
   CLOCK: [2012-10-17 Wed 08:22]--[2012-10-17 Wed 08:22] =>  0:00
+   :PROPERTIES:
+   :ID:       a636e0f6-ab58-46c1-b32a-0a0d54b62eba
+   :END:
 [2012-10-17 Wed 08:22]
 * Health and Recreation
 PROPERTIES:
 CATEGORY: Health
 END:
 
-** TODO Research Pavel Tsatsouline 
+** TODO Research Pavel Tsatsouline
+   :PROPERTIES:
+   :ID:       0ca14077-9c27-4fd1-b6e7-413959dcb51a
+   :END: 
 ** TODO Listen to Scott Sonnon
   CLOCK: [2012-10-12 Fri 14:55]--[2012-10-12 Fri 14:55] =>  0:00
+   :PROPERTIES:
+   :ID:       d2291e69-0425-4e7d-b027-5f7ee77dae6d
+   :END:
 [2012-10-12 Fri 14:55]
 [[http://physicalliving.com/exclusive-interview-with-johns-coach-scott-sonnon-the-creator-of-the-circular-strength-training-system/][part 1]]
 [[http://physicalliving.com/exclusive-interview-with-johns-coach-scott-sonnon-the-creator-of-the-circular-strength-training-system-part-2/][part 2]]
 ** TODO Update exercise schedule
   CLOCK: [2012-10-12 Fri 14:49]--[2012-10-12 Fri 14:49] =>  0:00
+   :PROPERTIES:
+   :ID:       3065cc64-f846-4baa-abea-f05ce84becee
+   :END:
 [2012-10-12 Fri 14:49]
 
 ** TODO Find doctor
 [[http://kp.org][KP]]
   CLOCK: [2012-10-14 Sun 20:33]--[2012-10-14 Sun 20:33] =>  0:00
+   :PROPERTIES:
+   :ID:       e64bba9b-57ea-49b7-87b6-7050a8f5e57e
+   :END:
 [2012-10-14 Sun 20:33]
 ** TODO Update training schedule
   CLOCK: [2012-10-14 Sun 20:33]--[2012-10-14 Sun 20:34] =>  0:01
+   :PROPERTIES:
+   :ID:       1590c8fb-cc00-4831-bc09-7f8225fd9434
+   :END:
 [2012-10-14 Sun 20:33]
 ** TODO Call KP membership
 Need to find out what to do when sick or in an emergency
   CLOCK: [2012-10-18 Thu 10:46]--[2012-10-18 Thu 10:47] =>  0:01
+   :PROPERTIES:
+   :ID:       ea362f28-4534-49fd-8d18-d4b23b33abd9
+   :END:
 [2012-10-18 Thu 10:46]
 ** WAITING Update medical insurance				   :COMPUTER:
    - State "WAITING"    from "TODO"       [2012-10-16 Tue 10:42] \\
      Should recieve email confirming eligibility for family members
+   :PROPERTIES:
+   :ID:       49875893-75df-4de9-8469-5ebf23a7e891
+   :END:
 ** TODO clarify pain free class					   :COMPUTER:
+   :PROPERTIES:
+   :ID:       93730351-36ba-4865-a259-f95fbd3a24dd
+   :END:
 * House Maintenance
 PROPERTIES:
 CATEGORY: House
 END:
 
 ** TODO finish house unpacking
+   :PROPERTIES:
+   :ID:       dfe51711-2dd6-4f5b-8dbe-887df2af8485
+   :END:
 * Notes
 PROPERTIES:
 CATEGORY: Notes
@@ -74,35 +113,71 @@ CATEGORY: Tasks
 END:
 
 ** TODO Add phone line						   :COMPUTER:
+   :PROPERTIES:
+   :ID:       fb0b31f6-e5c0-4575-a199-c1eeeeff8159
+   :END:
 
 ** TODO Update social security address
   CLOCK: [2012-10-14 Sun 20:33]--[2012-10-14 Sun 20:33] =>  0:00
+   :PROPERTIES:
+   :ID:       51d118b3-11d2-4851-9c69-9951301557db
+   :END:
 [2012-10-14 Sun 20:33]
 ** TODO Call del-sol office about having a hamster
   CLOCK: [2012-10-14 Sun 20:44]--[2012-10-14 Sun 20:44] =>  0:00
+   :PROPERTIES:
+   :ID:       df0bc5e6-16ef-4c9a-b9d0-9917c5b6a980
+   :END:
 [2012-10-14 Sun 20:44]
 ** TODO Set up reminder to pay rent
   CLOCK: [2012-10-16 Tue 09:57]--[2012-10-16 Tue 09:57] =>  0:00
+   :PROPERTIES:
+   :ID:       274f2f16-4fe0-4edc-9452-0ea7fcdc1edb
+   :END:
 [2012-10-16 Tue 09:57]
 ** TODO Enrol in emergency warning systems	      :COMPUTER:TABLET:PHONE:
+   :PROPERTIES:
+   :ID:       a9e045f6-0b13-457d-856c-2d5485cb6f4e
+   :END:
 
 * Outings
 ** TODO Plan pumpkin trip
+   :PROPERTIES:
+   :ID:       f19b531b-6df7-42e9-881c-02729a90d177
+   :END:
 ** TODO brick or treat, Legoland
+   :PROPERTIES:
+   :ID:       2a8af874-8429-4b4d-b7b6-fecdce1f9c5e
+   :END:
 * Reading
 ** TODO read blogs, newsletters etc.
+   :PROPERTIES:
+   :ID:       d9f54b25-d4ed-4a9a-ae3c-12d6749620de
+   :END:
 ** TODO Get Windsor McCay books
   CLOCK: [2012-10-15 Mon 12:10]--[2012-10-15 Mon 12:11] =>  0:01
+   :PROPERTIES:
+   :ID:       6245fd73-b95b-4acd-baca-f743a0bf5744
+   :END:
 [2012-10-15 Mon 12:10]
 ** TODO Read kp newsletter
 [[http://kaiserpermanente-mail.org/14e102af8layfousiaj5hioyaaaaaa2j4zxwaqctfoqyaaaaa/C?V=bF9pbmRleAEBcHJvZmlsZV9pZAExNzY1NTkyNTU2AUZSU1RfTk0BUEFVTAF6aXBfY29kZQEBX1dBVkVfSURfATEzNDg5OTA2MAFfUExJU1RfSURfATc3NzAyNTkBZ19pbmRleAEBZW1haWxfYWRkcgFwYWJyeWFuQGdtYWlsLmNvbQFfU0NIRF9UTV8BMjAxMjEwMTYxMTAwMDABcHJvZmlsZV9rZXkBNTUwMDAxNDg2MjgyMg%3D%3D&hfRgPQxxOsF3fqchSPOhjw][newsletter]]
   CLOCK: [2012-10-18 Thu 10:46]--[2012-10-18 Thu 10:46] =>  0:00
+   :PROPERTIES:
+   :ID:       d3530c03-a26b-4f36-b246-310533ca9e8c
+   :END:
 [2012-10-18 Thu 10:46]
 * Shows to watch
 * Home organisation
 ** TODO plan weekly food
+   :PROPERTIES:
+   :ID:       659b82d1-fff2-498c-afeb-3101030d6946
+   :END:
 ** TODO tea pots
   CLOCK: [2012-10-14 Sun 19:56]--[2012-10-14 Sun 19:56] =>  0:00
+   :PROPERTIES:
+   :ID:       1b524408-f508-4d2e-839a-0936559efaf4
+   :END:
 [2012-10-14 Sun 19:56]
 ** TODO Plan home organisation
 places to file things
@@ -110,11 +185,20 @@ storage containers
 everything has a home!
 pantry shelves
   CLOCK: [2012-10-14 Sun 20:44]--[2012-10-14 Sun 20:45] =>  0:01
+   :PROPERTIES:
+   :ID:       dfe4200d-68c2-4715-aeca-a38028ff423c
+   :END:
 [2012-10-14 Sun 20:44]
 
 * Podcasts
 ** TODO podcasts
 Find a good postcast player for android. I want to be able to do offline listening and jump to where I was up to last. I want to order them based on say date with oldest first or newest first as the fancy takes me.
   CLOCK: [2012-10-15 Mon 09:50]--[2012-10-15 Mon 09:51] =>  0:01
+   :PROPERTIES:
+   :ID:       4a90ed4c-40d1-4f68-b1d0-fa519220825e
+   :END:
 [2012-10-15 Mon 09:50]
 ** TODO get podcasts						   :COMPUTER:
+   :PROPERTIES:
+   :ID:       18dc2ce2-3cb2-4c2f-9ba5-21b378f6fceb
+   :END:
