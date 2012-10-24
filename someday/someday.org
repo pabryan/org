@@ -19,6 +19,32 @@ Use [[http://mercurial.selenic.com/wiki/AutoSyncExtension][AutoSync]]
 If I need to contact someone, make the org link to the contact entry so I can choose phone, email whatever
   CLOCK: [2012-10-14 Sun 20:35]--[2012-10-14 Sun 20:36] =>  0:01
 [2012-10-14 Sun 20:35]
+*** TODO Set up org-refile targets
+I want to include a file relative to the org directory like
+(concat org-directory "someday/someday.org")
+or even get the whole directory but I don't know how to write the lisp
+  CLOCK: [2012-10-18 Thu 13:09]--[2012-10-18 Thu 13:10] =>  0:01
+   :PROPERTIES:
+   :ID:       8120860b-546d-448f-8f2f-1b76e48a0299
+   :END:
+[2012-10-18 Thu 13:09]
+*** TODO Get org-mode to make links with just filename in description :COMPUTER:
+  CLOCK: [2012-10-19 Fri 14:10]--[2012-10-19 Fri 14:10] =>  0:00
+[2012-10-19 Fri 14:10]
+I don't want to include the full path. Need to learn the elisp.
+*** TODO Custom agenda in mobile org 
+
+[2012-10-21 Sun 15:10]
+
+
+*** TODO mobile-org widget
+  CLOCK: [2012-10-21 Sun 16:48]--[2012-10-21 Sun 16:48] =>  0:00
+[2012-10-21 Sun 16:48]
+*** TODO Hacking on mobile org
+[[https://github.com/matburt/mobileorg-android/blob/master/HACKING.md][start here]]
+  CLOCK: [2012-10-21 Sun 17:27]--[2012-10-21 Sun 17:27] =>  0:00
+[2012-10-21 Sun 17:27]
+
 ** TODO Integrated panel (widget?) based O/S
 e.g. panels display some content and take input/output have events, hooks etc.
 
@@ -96,3 +122,4 @@ See Hamilton, Sessum, Daskopolus and Ben Chow's exposition
   CLOCK: [2012-10-15 Mon 15:24]--[2012-10-15 Mon 15:24] =>  0:00
 [2012-10-15 Mon 15:24]
 
+* workflow

@@ -17,6 +17,7 @@ home, computer, office, anywhere, notebook, tablet, phone, errand
 *** NEXT google for how to do this
 ** NEXT Get agenda filtering elisp functions into my org setup	   :COMPUTER:
 See [[http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=9&cad=rja&ved=0CEkQFjAI&url=http%3A%2F%2Fdoc.norang.ca%2Forg-mode.html&ei=VmGAUOnkOaTliQLw0ICICQ&usg=AFQjCNHQ1HdTsHALFTFCzKA3VWXmqPg2qA][org-mode tutorial]]
+scheduled todos should not appear in the general list
   CLOCK: [2012-10-18 Thu 13:04]--[2012-10-18 Thu 13:07] =>  0:03
    :PROPERTIES:
    :ID:       83cb8720-795d-4602-829b-8b60f64a01c9
@@ -30,41 +31,27 @@ See [[http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=9&cad=rja&ved
    :END:
   [2012-10-18 Thu 13:07]
 See [[http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=9&cad=rja&ved=0CEkQFjAI&url=http%3A%2F%2Fdoc.norang.ca%2Forg-mode.html&ei=VmGAUOnkOaTliQLw0ICICQ&usg=AFQjCNHQ1HdTsHALFTFCzKA3VWXmqPg2qA][org-mode tutorial]]
-** TODO Set up org-refile targets
-I want to include a file relative to the org directory like
-(concat org-directory "someday/someday.org")
-or even get the whole directory but I don't know how to write the lisp
-  CLOCK: [2012-10-18 Thu 13:09]--[2012-10-18 Thu 13:10] =>  0:01
-   :PROPERTIES:
-   :ID:       8120860b-546d-448f-8f2f-1b76e48a0299
-   :END:
-[2012-10-18 Thu 13:09]
-** TODO Get org-mode to make links with just filename in description
-  CLOCK: [2012-10-19 Fri 14:10]--[2012-10-19 Fri 14:10] =>  0:00
-[2012-10-19 Fri 14:10]
-[[file:~/org/ucsd.org::*Computing%20Environment][Computing Environment]]
-** TODO Set up properties for top level headings
-  CLOCK: [2012-10-19 Fri 14:25]--[2012-10-19 Fri 14:26] =>  0:01
-[2012-10-19 Fri 14:25]
-** TODO Custom agenda in mobile org 
-
-[2012-10-21 Sun 15:10]
-
-
-** TODO mobile-org widget
-  CLOCK: [2012-10-21 Sun 16:48]--[2012-10-21 Sun 16:48] =>  0:00
-[2012-10-21 Sun 16:48]
-** TODO Hacking on mobile org
-[[https://github.com/matburt/mobileorg-android/blob/master/HACKING.md][start here]]
-  CLOCK: [2012-10-21 Sun 17:27]--[2012-10-21 Sun 17:27] =>  0:00
-[2012-10-21 Sun 17:27]
-
-** TODO Set up syncing org-mode and mobile org
+** NEXT Set up syncing org-mode and mobile org
   CLOCK: [2012-10-21 Sun 17:26]--[2012-10-21 Sun 17:26] =>  0:00
 [2012-10-21 Sun 17:26]
 [[https://github.com/matburt/mobileorg-android/wiki/FAQ][syncing instructions]]
+** TODO Configure tasks for later				   :COMPUTER:
+I want to be able to schedule a task for later, say after a given date
+such as the 1st of the month when I get paid and not have to see it until then.
+The down side is that if I filter scheduled tasks then after the day these
+won't appear in general tasks but as scheduled tasks. I need some way to
+mark them as hidden until later, whereupon they will appear in the general
+list and not the scheduled list.
+*** NEXT Create procedure for this
+Should be able to just schedule it for a given day and then org-mode
+will keep reminding me until it's done.
+*** TODO Research how to make a tickler file for org-mode
+** TODO Set up org-mode calendar				   :COMPUTER:
+*** NEXT Put calendar data into org-mode
+*** NEXT sync with google calendar
+*** NEXT Research org-mode agenda views and how to use it productively
 * process
-** TODO Develop organisation process, workflow
+** TODO Develop organisation process, workflow			   :ANYWHERE:
    :PROPERTIES:
    :ID:       a96c63f6-2ee8-4042-ae7c-3f7d5bc3493e
    :END:
@@ -109,75 +96,41 @@ to the admin people.
 Particularly development!
   CLOCK: [2012-10-21 Sun 17:24]--[2012-10-21 Sun 17:24] =>  0:00
 [2012-10-21 Sun 17:24]
-** TODO Set up office like in GTD such as trays, clips etc.
+** TODO Set up office like in GTD such as trays, clips etc.	     :OFFICE:
    :PROPERTIES:
    :ID:       b2f00a6f-4eb6-4129-bbe8-56f1be40359b
    :END:
-** TODO stationary storage
+*** NEXT Get trays
+*** NEXT Get stationary storage
   CLOCK: [2012-10-14 Sun 19:56]--[2012-10-14 Sun 19:57] =>  0:01
    :PROPERTIES:
    :ID:       72a41c20-d196-4dbd-bb49-fd7e3e5b63d8
    :END:
 [2012-10-14 Sun 19:56]
-** TODO manage paper-based materials
-I do have some! Some reference like birth certificates, but also I get forms and things too sometimes
-  CLOCK: [2012-10-14 Sun 19:57]--[2012-10-14 Sun 19:57] =>  0:00
-   :PROPERTIES:
-   :ID:       e6cb465c-ec3e-410d-8c18-55427995c332
-   :END:
-[2012-10-14 Sun 19:57]
-** TODO Extract precise actions/setup from Getting it done and org-mode
-[[http://doc.norang.ca/org-mode.html][org-mode article]]
-  CLOCK: [2012-10-15 Mon 12:35]--[2012-10-15 Mon 12:36] =>  0:01
-   :PROPERTIES:
-   :ID:       23c17376-748a-4291-90ee-6820b854b696
-   :END:
-[2012-10-15 Mon 12:35]
-** TODO personalise office
-   :PROPERTIES:
-   :ID:       f366cda5-3ce1-45f3-8e0d-4e904cf24bf6
-   :END:
-** TODO Move mygtd into refile
+** TODO Set up home for GTD					       :HOME:
+*** TODO Gather materials that need to be organised		       :HOME:
+*** NEXT Get folders from office for home
+** NEXT Move mygtd into refile					   :COMPUTER:
   CLOCK: [2012-10-15 Mon 22:06]--[2012-10-15 Mon 22:06] =>  0:00
    :PROPERTIES:
    :ID:       29212bbd-9706-4cfc-84ff-d28e43f0f2f8
    :END:
 [2012-10-15 Mon 22:06]
 
-** TODO Rationalise Documents, Dropbox, Ubuntu One
+** TODO Rationalise Documents, Dropbox, Ubuntu One		   :COMPUTER:
   CLOCK: [2012-10-16 Tue 09:04]--[2012-10-16 Tue 09:04] =>  0:00
    :PROPERTIES:
    :ID:       5f23f742-f0f0-4e0b-8d9d-98f5acae6a1b
    :END:
 [2012-10-16 Tue 09:04]
-** TODO Process research papers
-Put everything into bibtex (org-mode?)
-All files named by bibtex key
-  CLOCK: [2012-10-16 Tue 08:31]--[2012-10-16 Tue 08:32] =>  0:01
-   :PROPERTIES:
-   :ID:       b501f27d-9ac1-431c-9189-2f7a3eec884a
-   :END:
-[2012-10-16 Tue 08:31]
-** TODO Process emails
+** NEXT Process emails						   :COMPUTER:
 Archive the lot! Organise into folders/tags whatever. gmail can be the main repository to sync with, but as with org files, maybe have machine specific syncing to dropbox also.
   CLOCK: [2012-10-15 Mon 09:42]--[2012-10-15 Mon 09:43] =>  0:01
    :PROPERTIES:
    :ID:       ee144a81-a3eb-43bf-879e-72e2b97b0c11
    :END:
 [2012-10-15 Mon 09:42]
-** TODO Dropbox and vcs
-Use dropbox just to mirror static files: can sync between multiple computers
-For dynamic files, auto sync to vc every hour or so and sync with dropbox, but to a machine specific folder, e.g. org-office, org-home. These should be seperate directories so I don't get clashes. This is just for backup purposes. The synchronisation should be via bitbucket.
-  CLOCK: [2012-10-15 Mon 09:39]--[2012-10-15 Mon 09:41] =>  0:02
-   :PROPERTIES:
-   :ID:       b378c18b-b6d0-4e2d-9ed0-ecb3d85d4784
-   :END:
-[2012-10-15 Mon 09:39]
-** TODO Research paper notebooks				   :COMPUTER:
-   :PROPERTIES:
-   :ID:       95201798-e0f8-4283-ad8c-c9bf948a52f2
-   :END:
-** TODO Create contact db
+** TODO Create contact db					   :COMPUTER:
 *** NEXT Set up BBDB with emacs
 *** TODO Enter contacts into BBDB
 **** People to add:
@@ -197,13 +150,14 @@ For dynamic files, auto sync to vc every hour or so and sync with dropbox, but t
 ***** Friend and family
 *** TODO Sync BBDB with google, phone etc.
 * office layout
-** TODO get a cloth or coaster for office
+** NEXT get a cloth or coasters for office			     :ERRAND:
   CLOCK: [2012-10-15 Mon 09:36]--[2012-10-15 Mon 09:36] =>  0:00
    :PROPERTIES:
    :ID:       be6627ea-0e33-463b-91bf-cb7d140180cb
    :END:
 [2012-10-15 Mon 09:36]
-** TODO Get snacks for office
+** NEXT Get snacks for office					     :ERRAND:
+   SCHEDULED: <2012-11-01 Thu>
 I should get a plunger and coffee to save money though milk is problematic then! I could bring it daily in a thermos.
 I can bring in fruit and veg once or twice a week.
 Also could have dry snacks, tinned stuff like sardines and so on.
@@ -214,14 +168,8 @@ Also could have dry snacks, tinned stuff like sardines and so on.
    :ID:       eeb3b8ad-7b8e-4009-9273-e5bf24a717dc
    :END:
 [2012-10-15 Mon 09:43]
-** TODO Design tea disposal system
-bucket like in China?
-  CLOCK: [2012-10-15 Mon 15:23]--[2012-10-15 Mon 15:24] =>  0:01
-   :PROPERTIES:
-   :ID:       f411b813-3459-48e8-a62d-947feed9a42d
-   :END:
-[2012-10-15 Mon 15:23]
-** TODO buy coffee plunger (french press)
+** NEXT buy coffee plunger (french press)			     :ERRAND:
+   SCHEDULED: <2012-11-01 Thu>
   CLOCK: [2012-10-16 Tue 10:48]--[2012-10-16 Tue 10:48] =>  0:00
    :PROPERTIES:
    :ID:       9f49adc3-355c-4ec4-bb31-458b3ab7d12b
@@ -231,11 +179,13 @@ bucket like in China?
    :PROPERTIES:
    :ID:       27c8bddc-f9d4-48e6-b0ec-5de179e2822b
    :END:
-** TODO buy exercise ball and yoga mat for office 		   :COMPUTER:
+** NEXT buy exercise ball and yoga mat for office		   :COMPUTER:
+   SCHEDULED: <2012-11-01 Thu>
    :PROPERTIES:
    :ID:       01f23a0f-a1ec-47b6-87fe-81d301d4a144
    :END:
-** TODO buy tablet cable for office 				   :COMPUTER:
+** NEXT buy tablet cable for office				   :COMPUTER:
+   SCHEDULED: <2012-11-01 Thu>
    :PROPERTIES:
    :ID:       856bc4e4-063d-4853-a492-45a6199249d5
    :END:
@@ -244,7 +194,7 @@ bucket like in China?
    :PROPERTIES:
    :ID:       ddd7d9ba-1677-4d4a-86b5-e5baf26d36a8
    :END:
-** WAITING Get standing desk
+** WAITING Get standing desk					     :OFFICE:
    - State "WAITING"    from "TODO"       [2012-10-18 Thu 14:25] \\
      Waiting for Maureen to find desk
   CLOCK: [2012-10-18 Thu 14:24]--[2012-10-18 Thu 14:25] =>  0:01
@@ -253,6 +203,8 @@ bucket like in China?
    :END:
 [2012-10-18 Thu 14:24]
 
+** TODO Setup priorities					   :COMPUTER:
+*** NEXT Research org-mode priorities
 
 * Computer setup
 ** NEXT Research Backups for android devices			   :COMPUTER:
@@ -260,10 +212,10 @@ What do I need to backup? I try to keep data in the cloud. I guess saved games a
   CLOCK: [2012-10-24 Wed 12:27]--[2012-10-24 Wed 12:27] =>  0:00
 [2012-10-24 Wed 12:27]
 
-** NEXT Pull everything but backups out of Ubuntu One	   :COMPUTER:NOTEBOOK:
+** NEXT Pull everything but backups out of Ubuntu One		   :NOTEBOOK:
   CLOCK: [2012-10-24 Wed 12:17]--[2012-10-24 Wed 12:17] =>  0:00
 [2012-10-24 Wed 12:17]
 Copy the files to Dropbox instead
-** NEXT Get notebook working files into dropbox		  :COMPUTER:NOTEBOOK:
+** NEXT Get notebook working files into dropbox			   :NOTEBOOK:
   CLOCK: [2012-10-24 Wed 12:18]--[2012-10-24 Wed 12:18] =>  0:00
 [2012-10-24 Wed 12:18]
