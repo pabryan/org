@@ -158,7 +158,8 @@ Some are here [[http://www.math.ucsd.edu/~lindblad/150a/150a.html]]
    :PROPERTIES:
    :ID:       4971ad3c-684f-45df-9002-ce8bead60ce7
    :END:
-*** NEXT Prepare talk for next week
+*** DONE Prepare talk for next week
+    - State "DONE"       from "NEXT"       [2012-10-24 Wed 13:15]
   CLOCK: [2012-10-16 Tue 08:28]--[2012-10-16 Tue 08:28] =>  0:00
     :PROPERTIES:
     :ID:       b7a65ab1-a46a-43db-8c55-6cd686ce7551
@@ -175,11 +176,12 @@ Some are here [[http://www.math.ucsd.edu/~lindblad/150a/150a.html]]
     :PROPERTIES:
     :ID:       4840471b-e6b2-4079-b67c-7b261adf77d6
     :END:
-email math-grad, general math list?
-*** NEXT Find speakers
+    email math-grad, general math list?
+*** NEXT Email Ben, Lei and Jim about possible speakers.
     :PROPERTIES:
     :ID:       80623a86-568e-416a-85de-895be875f516
     :END:
+
 * Tasks
 ** TODO Do UCSD required courses
 Sexual harassment, something else?

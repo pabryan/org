@@ -101,6 +101,14 @@ Need to make project version controls and org files linked to from gtd. Have som
 *** Degenerate neck-pinches
 *** Ricci flow on warped products
 
+** TODO Organise research papers
+*** NEXT Put references into bib file
+The key should be the provided one from arxiv, mathscinet etc.
+*** TODO Match pdfs in papers folder with bib entries
+*** TODO File hard copies under bib key
+*** TODO Configure reftex, org-mode to access papers
+**** NEXT Research setup: see evernote refs to start
+**** NEXT Create org file for recording notes on papers in bib file
 * Reviews
 * Tasks
 ** TODO Contact Ben Andrews about MCF, geometric evolution eqn's books

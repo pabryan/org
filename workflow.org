@@ -160,6 +160,32 @@ what about journals? Do they have rss?
   CLOCK: [2012-10-19 Fri 10:04]--[2012-10-19 Fri 10:05] =>  0:01
 [2012-10-19 Fri 10:04]
 
+*** NEXT Make seminar process an org-mode checklist
+update website
+send announcement
+maintain email list of speakers, participants
+If I put the schedule in an org file, I should just be able to update the
+org file and have that automatically update the website and send an email
+to the admin people.
+** TODO Create contact db
+*** NEXT Set up BBDB with emacs
+*** TODO Enter contacts into BBDB
+**** People to add:
+***** Bennet
+***** Lei
+***** Jim Isenberg
+***** Scott Rollans, Holly Proudfoot, other guy
+***** Jaques (teaching math142a)
+***** ShiJin
+***** XianFeng
+***** Bo
+***** Mat Langford
+***** Julie
+***** Ben
+***** Steve Roberts
+***** Janet Engebretsen
+***** Friend and family
+*** TODO Sync BBDB with google, phone etc.
 * office layout
 ** TODO get a cloth or coaster for office
   CLOCK: [2012-10-15 Mon 09:36]--[2012-10-15 Mon 09:36] =>  0:00
@@ -215,4 +241,5 @@ bucket like in China?
    :ID:       3198eec6-d5f0-4ac3-b95c-ef2784843100
    :END:
 [2012-10-18 Thu 14:24]
+
 

@@ -14,6 +14,8 @@ PROPERTIES:
 CATEGORY: Finances
 END:
 
+** NEXT Fill in Authority to operate forms for Lily and Remy
+Scan them and email them to commbank. Also make sure netbank access is setup.
 ** TODO sort out budget
    :PROPERTIES:
    :ID:       93a33ee0-24df-416f-a1a0-2058bac243a7
@@ -26,6 +28,7 @@ Need an org heading with due dates
    :END:
 [2012-10-14 Sun 19:57]
 ** TODO Pay rent
+Use account A11078844
   DEADLINE: <2012-11-05 Thu +1m -5d>
   CLOCK: [2012-10-17 Wed 14:44]--[2012-10-17 Wed 14:45] =>  0:01
    :PROPERTIES:
@@ -66,27 +69,32 @@ END:
    :END:
 [2012-10-12 Fri 14:49]
 
-** TODO Find doctor
+** DONE Find doctor
+   - State "DONE"       from "TODO"       [2012-10-24 Wed 13:30]
 [[http://kp.org][KP]]
   CLOCK: [2012-10-14 Sun 20:33]--[2012-10-14 Sun 20:33] =>  0:00
    :PROPERTIES:
    :ID:       e64bba9b-57ea-49b7-87b6-7050a8f5e57e
    :END:
 [2012-10-14 Sun 20:33]
-** TODO Update training schedule
+** CANCELLED Update training schedule
+   - State "CANCELLED"  from "TODO"       [2012-10-24 Wed 13:30] \\
+     Duplicate of existing task
   CLOCK: [2012-10-14 Sun 20:33]--[2012-10-14 Sun 20:34] =>  0:01
    :PROPERTIES:
    :ID:       1590c8fb-cc00-4831-bc09-7f8225fd9434
    :END:
 [2012-10-14 Sun 20:33]
-** TODO Call KP membership
+** DONE Call KP membership
+   - State "DONE"       from "TODO"       [2012-10-24 Wed 13:30]
 Need to find out what to do when sick or in an emergency
   CLOCK: [2012-10-18 Thu 10:46]--[2012-10-18 Thu 10:47] =>  0:01
    :PROPERTIES:
    :ID:       ea362f28-4534-49fd-8d18-d4b23b33abd9
    :END:
 [2012-10-18 Thu 10:46]
-** WAITING Update medical insurance				   :COMPUTER:
+** DONE Update medical insurance				   :COMPUTER:
+   - State "DONE"       from "WAITING"    [2012-10-24 Wed 13:31]
    - State "WAITING"    from "TODO"       [2012-10-16 Tue 10:42] \\
      Should recieve email confirming eligibility for family members
    :PROPERTIES:
@@ -96,6 +104,15 @@ Need to find out what to do when sick or in an emergency
    :PROPERTIES:
    :ID:       93730351-36ba-4865-a259-f95fbd3a24dd
    :END:
+** TODO Track exercise in org mode
+*** NEXT Make org mode exercise journal
+Probably some table/spreadsheet functionality here
+*** TODO Enter exercise data into org-mode
+** TODO Research healthy dining website  
+Healthydiningfinder.com
+[2012-10-22 Mon 14:45]
+
+
 * House Maintenance
 PROPERTIES:
 CATEGORY: House
@@ -132,7 +149,8 @@ END:
    :ID:       df0bc5e6-16ef-4c9a-b9d0-9917c5b6a980
    :END:
 [2012-10-14 Sun 20:44]
-** TODO Set up reminder to pay rent
+** DONE Set up reminder to pay rent
+   - State "DONE"       from "TODO"       [2012-10-24 Wed 13:20]
   CLOCK: [2012-10-16 Tue 09:57]--[2012-10-16 Tue 09:57] =>  0:00
    :PROPERTIES:
    :ID:       274f2f16-4fe0-4edc-9452-0ea7fcdc1edb
@@ -146,7 +164,16 @@ END:
 ** NEXT Call ATT to fix wireless
 Did using google voice mess things up
   CLOCK: [2012-10-19 Fri 14:35]--[2012-10-19 Fri 14:36] =>  0:01
-[2012-10-19 Fri 14:35]
+  [2012-10-19 Fri 14:35]
+** TODO Download podcasts reading (tutorials) etc. 
+
+[2012-10-22 Mon 18:08]
+
+
+** TODO Contact Squeeze play/Abundant Harvest about pre-paying each month
+  CLOCK: [2012-10-24 Wed 13:57]--[2012-10-24 Wed 13:58] =>  0:01
+[2012-10-24 Wed 13:57]
+
 * Outings
 ** TODO Plan pumpkin trip
    :PROPERTIES:
@@ -209,3 +236,11 @@ Find a good postcast player for android. I want to be able to do offline listeni
    :PROPERTIES:
    :ID:       18dc2ce2-3cb2-4c2f-9ba5-21b378f6fceb
    :END:
+* Friend and Family
+** NEXT Contact Ben, Julie, Mat etc. to say I'm alive
+* Game Development
+** TODO Android games 
+http://www.kilobolt.com/game-development-tutorial.html
+[2012-10-22 Mon 18:07]
+
+
