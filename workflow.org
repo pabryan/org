@@ -47,6 +47,11 @@ or even get the whole directory but I don't know how to write the lisp
 ** TODO Set up properties for top level headings
   CLOCK: [2012-10-19 Fri 14:25]--[2012-10-19 Fri 14:26] =>  0:01
 [2012-10-19 Fri 14:25]
+** TODO Custom agenda in mobile org 
+
+[2012-10-21 Sun 15:10]
+
+
 * process
 ** TODO Develop organisation process, workflow
    :PROPERTIES:
