@@ -1,68 +1,7 @@
 #+FILETAGS: REFILE
 
 
-* TODO Make processes/procedures
-  :PROPERTIES:
-  :ID:       50e535ee-36a6-4fcc-96c9-a2af4506d733
-  :END:
-** Add task
-** Referee paper
-** write paper
-** prepare course
-** Automoate getting updates from arxiv
-what about journals? Do they have rss?
-  CLOCK: [2012-10-19 Fri 10:04]--[2012-10-19 Fri 10:05] =>  0:01
-[2012-10-19 Fri 10:04]
-* NEXT Call ATT to fix wireless
-Did using google voice mess things up
-  CLOCK: [2012-10-19 Fri 14:35]--[2012-10-19 Fri 14:36] =>  0:01
-  :PROPERTIES:
-  :ID:       880fc714-3787-4236-97ad-4a5a67ea81ff
-  :END:
-[2012-10-19 Fri 14:35]
-* TODO mobile-org widget
-  CLOCK: [2012-10-21 Sun 16:48]--[2012-10-21 Sun 16:48] =>  0:00
-[2012-10-21 Sun 16:48]
-* TODO emdroid hacking
-[[http://www.emacswiki.org/emacs/EmDroid][EmDroid]]
-  CLOCK: [2012-10-21 Sun 17:23]--[2012-10-21 Sun 17:23] =>  0:00
-[2012-10-21 Sun 17:23]
-* TODO Set up reference filing
-Particularly development!
-  CLOCK: [2012-10-21 Sun 17:24]--[2012-10-21 Sun 17:24] =>  0:00
-[2012-10-21 Sun 17:24]
-* TODO Set up syncing org-mode and mobile org
-  CLOCK: [2012-10-21 Sun 17:26]--[2012-10-21 Sun 17:26] =>  0:00
-[2012-10-21 Sun 17:26]
-[[https://github.com/matburt/mobileorg-android/wiki/FAQ][syncing instructions]]
-* TODO Hacking on mobile org
-[[https://github.com/matburt/mobileorg-android/blob/master/HACKING.md][start here]]
-  CLOCK: [2012-10-21 Sun 17:27]--[2012-10-21 Sun 17:27] =>  0:00
-[2012-10-21 Sun 17:27]
-
-* TODO Inform Kate and school of work phone number
-  CLOCK: [2012-10-21 Sun 18:30]--[2012-10-21 Sun 18:30] =>  0:00
-[2012-10-21 Sun 18:30]
-* TODO Turn on skype at work
-  CLOCK: [2012-10-21 Sun 18:30]--[2012-10-21 Sun 18:31] =>  0:01
-[2012-10-21 Sun 18:30]
-
-* TODO Pull everything but backups out of Ubuntu One
-  CLOCK: [2012-10-24 Wed 12:17]--[2012-10-24 Wed 12:17] =>  0:00
-[2012-10-24 Wed 12:17]
-* TODO Get notebook working files into dropbox
-  CLOCK: [2012-10-24 Wed 12:18]--[2012-10-24 Wed 12:18] =>  0:00
-[2012-10-24 Wed 12:18]
-* TODO Burn videos to DVD
+* TODO Burn fitness videos to DVD
   CLOCK: [2012-10-24 Wed 12:23]--[2012-10-24 Wed 12:23] =>  0:00
 [2012-10-24 Wed 12:23]
-* TODO Backups for android devices
-What do I need to backup? I try to keep data in the cloud. I guess saved games and whatnot would be good to keep. Also there is some config, at least a list of apps!
-  CLOCK: [2012-10-24 Wed 12:27]--[2012-10-24 Wed 12:27] =>  0:00
-[2012-10-24 Wed 12:27]
-
-* TODO Checkout more android game programming
-[[http://www.javacodegeeks.com/2011/06/android-game-development-tutorials.html][tutorial]] 
-  CLOCK: [2012-10-23 Tue 17:06]--[2012-10-23 Tue 17:06] =>  0:00
-[2012-10-23 Tue 17:06]
 

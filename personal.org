@@ -174,6 +174,13 @@ Did using google voice mess things up
   CLOCK: [2012-10-24 Wed 13:57]--[2012-10-24 Wed 13:58] =>  0:01
 [2012-10-24 Wed 13:57]
 
+** TODO Inform Kate and school of work phone number
+  CLOCK: [2012-10-21 Sun 18:30]--[2012-10-21 Sun 18:30] =>  0:00
+[2012-10-21 Sun 18:30]
+** TODO Turn on skype at work
+  CLOCK: [2012-10-21 Sun 18:30]--[2012-10-21 Sun 18:31] =>  0:01
+[2012-10-21 Sun 18:30]
+
 * Outings
 ** TODO Plan pumpkin trip
    :PROPERTIES:
@@ -238,9 +245,17 @@ Find a good postcast player for android. I want to be able to do offline listeni
    :END:
 * Friend and Family
 ** NEXT Contact Ben, Julie, Mat etc. to say I'm alive
-* Game Development
-** TODO Android games 
+* Hacking
+** Game Development
+*** TODO Android games 
 http://www.kilobolt.com/game-development-tutorial.html
 [2012-10-22 Mon 18:07]
 
 
+*** TODO Checkout more android game programming
+[[http://www.javacodegeeks.com/2011/06/android-game-development-tutorials.html][tutorial]] 
+  CLOCK: [2012-10-23 Tue 17:06]--[2012-10-23 Tue 17:06] =>  0:00
+[2012-10-23 Tue 17:06]
+
+
+** emacs

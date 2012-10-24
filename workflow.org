@@ -1,23 +1,21 @@
 #+FILETAGS: WORKFLOW
 
 * org-mode
-** TODO Set up level 1 headings (with properties)
+** NEXT Set up level 1 headings (with properties)		   :COMPUTER:
    :PROPERTIES:
    :ID:       5196f0ca-ccb1-4fcc-b483-20f3f835838d
    :END:
-** TODO Make "errands" context for org-mode
-  CLOCK: [2012-10-14 Sun 20:41]--[2012-10-14 Sun 20:42] =>  0:01
-   :PROPERTIES:
-   :ID:       54ac2243-d66a-44c2-86fe-c9223e6a4381
-   :END:
-[2012-10-14 Sun 20:41]
-** TODO Setup mercurial sync and fetch
+** NEXT Set up contexts						   :COMPUTER:
+*** NEXT Create contexts
+home, computer, office, anywhere, notebook, tablet, phone, errand
+** TODO Setup mercurial sync and fetch				   :COMPUTER:
   CLOCK: [2012-10-18 Thu 10:59]--[2012-10-18 Thu 10:59] =>  0:00
    :PROPERTIES:
    :ID:       70331fca-6e60-44e7-9069-19e2808a45f5
    :END:
 [2012-10-18 Thu 10:59]
-** TODO Get agenda filtering elisp functions into my org setup
+*** NEXT google for how to do this
+** NEXT Get agenda filtering elisp functions into my org setup	   :COMPUTER:
 See [[http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=9&cad=rja&ved=0CEkQFjAI&url=http%3A%2F%2Fdoc.norang.ca%2Forg-mode.html&ei=VmGAUOnkOaTliQLw0ICICQ&usg=AFQjCNHQ1HdTsHALFTFCzKA3VWXmqPg2qA][org-mode tutorial]]
   CLOCK: [2012-10-18 Thu 13:04]--[2012-10-18 Thu 13:07] =>  0:03
    :PROPERTIES:
@@ -25,12 +23,13 @@ See [[http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=9&cad=rja&ved
    :END:
 [2012-10-18 Thu 13:04]
 
-** TODO Set up clocking
+** NEXT Set up clocking						   :COMPUTER:
   CLOCK: [2012-10-18 Thu 13:07]--[2012-10-18 Thu 13:08] =>  0:01
    :PROPERTIES:
    :ID:       5342bba9-aa74-4548-808a-cb693e7d6f8a
    :END:
-[2012-10-18 Thu 13:07]
+  [2012-10-18 Thu 13:07]
+See [[http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=9&cad=rja&ved=0CEkQFjAI&url=http%3A%2F%2Fdoc.norang.ca%2Forg-mode.html&ei=VmGAUOnkOaTliQLw0ICICQ&usg=AFQjCNHQ1HdTsHALFTFCzKA3VWXmqPg2qA][org-mode tutorial]]
 ** TODO Set up org-refile targets
 I want to include a file relative to the org directory like
 (concat org-directory "someday/someday.org")
@@ -52,25 +51,68 @@ or even get the whole directory but I don't know how to write the lisp
 [2012-10-21 Sun 15:10]
 
 
+** TODO mobile-org widget
+  CLOCK: [2012-10-21 Sun 16:48]--[2012-10-21 Sun 16:48] =>  0:00
+[2012-10-21 Sun 16:48]
+** TODO Hacking on mobile org
+[[https://github.com/matburt/mobileorg-android/blob/master/HACKING.md][start here]]
+  CLOCK: [2012-10-21 Sun 17:27]--[2012-10-21 Sun 17:27] =>  0:00
+[2012-10-21 Sun 17:27]
+
+** TODO Set up syncing org-mode and mobile org
+  CLOCK: [2012-10-21 Sun 17:26]--[2012-10-21 Sun 17:26] =>  0:00
+[2012-10-21 Sun 17:26]
+[[https://github.com/matburt/mobileorg-android/wiki/FAQ][syncing instructions]]
 * process
 ** TODO Develop organisation process, workflow
    :PROPERTIES:
    :ID:       a96c63f6-2ee8-4042-ae7c-3f7d5bc3493e
    :END:
-** TODO Set up office like in GTD such as trays, clips etc.
-   :PROPERTIES:
-   :ID:       b2f00a6f-4eb6-4129-bbe8-56f1be40359b
-   :END:
-** TODO Design workflow
 what are the structures?
 where do things go?
 e.g. active projects have next items
 someday things are projects/todos without any next?
-  CLOCK: [2012-10-14 Sun 19:55]--[2012-10-14 Sun 19:56] =>  0:01
+What are my 50000ft to runway goals, principles, priorities etc.
+At the runway (i.e. actions) level, I should have a list of procedures for following when doing common tasks e.g. weekly review
+*** NEXT Brainstorm high level planning
+*** TODO Process for Learning 
+If I want to learn something, e.g. some maths or self-improvement, juggling, etc., make a project for this in org-mode where I can store notes. It would be really nice to be able to put a bookmark in a pdf/ebook and create a link in org-mode to that bookmark.
+**** NEXT Make org-mode checklist for process
+**** NEXT Create folder for storing learning projects
+  CLOCK: [2012-10-15 Mon 09:47]--[2012-10-15 Mon 09:50] =>  0:03
    :PROPERTIES:
-   :ID:       6ab51833-f65f-4cbb-8800-902c28f26727
+   :ID:       f4126061-82e5-4f60-9063-ab744abea7d0
    :END:
-[2012-10-14 Sun 19:55]
+[2012-10-15 Mon 09:47] 
+
+*** TODO Make processes/procedures
+**** NEXT Make processes org file
+**** NEXT Make weekly review checklist
+**** NEXT Make daily workflow checklist
+**** TODO Add task
+**** TODO Referee paper
+**** TODO write paper
+**** TODO prepare course
+**** TODO Automoate getting updates from arxiv
+what about journals? Do they have rss?
+  CLOCK: [2012-10-19 Fri 10:04]--[2012-10-19 Fri 10:05] =>  0:01
+[2012-10-19 Fri 10:04]
+
+**** TODO Make seminar process an org-mode checklist
+update website
+send announcement
+maintain email list of speakers, participants
+If I put the schedule in an org file, I should just be able to update the
+org file and have that automatically update the website and send an email
+to the admin people.
+*** TODO Set up reference filing
+Particularly development!
+  CLOCK: [2012-10-21 Sun 17:24]--[2012-10-21 Sun 17:24] =>  0:00
+[2012-10-21 Sun 17:24]
+** TODO Set up office like in GTD such as trays, clips etc.
+   :PROPERTIES:
+   :ID:       b2f00a6f-4eb6-4129-bbe8-56f1be40359b
+   :END:
 ** TODO stationary storage
   CLOCK: [2012-10-14 Sun 19:56]--[2012-10-14 Sun 19:57] =>  0:01
    :PROPERTIES:
@@ -84,21 +126,6 @@ I do have some! Some reference like birth certificates, but also I get forms and
    :ID:       e6cb465c-ec3e-410d-8c18-55427995c332
    :END:
 [2012-10-14 Sun 19:57]
-** TODO Perspective levels
-What are my 50000ft to runway goals, principles, priorities etc.
-At the runway (i.e. actions) level, I should have a list of procedures for following when doing common tasks e.g. weekly review
-  CLOCK: [2012-10-15 Mon 09:33]--[2012-10-15 Mon 09:35] =>  0:02
-   :PROPERTIES:
-   :ID:       66f71f60-d4ae-4036-a17a-75b5fb1002d5
-   :END:
-[2012-10-15 Mon 09:33]
-** TODO Process for Learning 
-If I want to learn something, e.g. some maths or self-improvement, juggling, etc., make a project for this in org-mode where I can store notes. It would be really nice to be able to put a bookmark in a pdf/ebook and create a link in org-mode to that bookmark.
-  CLOCK: [2012-10-15 Mon 09:47]--[2012-10-15 Mon 09:50] =>  0:03
-   :PROPERTIES:
-   :ID:       f4126061-82e5-4f60-9063-ab744abea7d0
-   :END:
-[2012-10-15 Mon 09:47]
 ** TODO Extract precise actions/setup from Getting it done and org-mode
 [[http://doc.norang.ca/org-mode.html][org-mode article]]
   CLOCK: [2012-10-15 Mon 12:35]--[2012-10-15 Mon 12:36] =>  0:01
@@ -150,23 +177,6 @@ For dynamic files, auto sync to vc every hour or so and sync with dropbox, but t
    :PROPERTIES:
    :ID:       95201798-e0f8-4283-ad8c-c9bf948a52f2
    :END:
-** TODO Make processes/procedures
-*** Add task
-*** Referee paper
-*** write paper
-*** prepare course
-*** Automoate getting updates from arxiv
-what about journals? Do they have rss?
-  CLOCK: [2012-10-19 Fri 10:04]--[2012-10-19 Fri 10:05] =>  0:01
-[2012-10-19 Fri 10:04]
-
-*** NEXT Make seminar process an org-mode checklist
-update website
-send announcement
-maintain email list of speakers, participants
-If I put the schedule in an org file, I should just be able to update the
-org file and have that automatically update the website and send an email
-to the admin people.
 ** TODO Create contact db
 *** NEXT Set up BBDB with emacs
 *** TODO Enter contacts into BBDB
@@ -217,19 +227,20 @@ bucket like in China?
    :ID:       9f49adc3-355c-4ec4-bb31-458b3ab7d12b
    :END:
 [2012-10-16 Tue 10:48]
-** TODO Bring doorstop to work					       :HOME:
+** NEXT Bring doorstop to work					       :HOME:
    :PROPERTIES:
    :ID:       27c8bddc-f9d4-48e6-b0ec-5de179e2822b
    :END:
-** TODO exercise ball and yoga mat for office			   :COMPUTER:
+** TODO buy exercise ball and yoga mat for office 		   :COMPUTER:
    :PROPERTIES:
    :ID:       01f23a0f-a1ec-47b6-87fe-81d301d4a144
    :END:
-** TODO tablet cable for office					   :COMPUTER:
+** TODO buy tablet cable for office 				   :COMPUTER:
    :PROPERTIES:
    :ID:       856bc4e4-063d-4853-a492-45a6199249d5
    :END:
-** TODO office sandals
+** DONE office sandals
+   - State "DONE"       from "TODO"       [2012-10-24 Wed 14:47]
    :PROPERTIES:
    :ID:       ddd7d9ba-1677-4d4a-86b5-e5baf26d36a8
    :END:
@@ -243,3 +254,16 @@ bucket like in China?
 [2012-10-18 Thu 14:24]
 
 
+* Computer setup
+** NEXT Research Backups for android devices			   :COMPUTER:
+What do I need to backup? I try to keep data in the cloud. I guess saved games and whatnot would be good to keep. Also there is some config, at least a list of apps!
+  CLOCK: [2012-10-24 Wed 12:27]--[2012-10-24 Wed 12:27] =>  0:00
+[2012-10-24 Wed 12:27]
+
+** NEXT Pull everything but backups out of Ubuntu One	   :COMPUTER:NOTEBOOK:
+  CLOCK: [2012-10-24 Wed 12:17]--[2012-10-24 Wed 12:17] =>  0:00
+[2012-10-24 Wed 12:17]
+Copy the files to Dropbox instead
+** NEXT Get notebook working files into dropbox		  :COMPUTER:NOTEBOOK:
+  CLOCK: [2012-10-24 Wed 12:18]--[2012-10-24 Wed 12:18] =>  0:00
+[2012-10-24 Wed 12:18]
