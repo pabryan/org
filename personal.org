@@ -181,6 +181,17 @@ Did using google voice mess things up
   CLOCK: [2012-10-21 Sun 18:30]--[2012-10-21 Sun 18:31] =>  0:01
 [2012-10-21 Sun 18:30]
 
+** NEXT Call ATT to fix wireless
+Did using google voice mess things up
+  CLOCK: [2012-10-19 Fri 14:35]--[2012-10-19 Fri 14:36] =>  0:01
+  :PROPERTIES:
+  :ID:       880fc714-3787-4236-97ad-4a5a67ea81ff
+  :END:
+[2012-10-19 Fri 14:35]
+** TODO Burn fitness videos to DVD
+  CLOCK: [2012-10-24 Wed 12:23]--[2012-10-24 Wed 12:23] =>  0:00
+[2012-10-24 Wed 12:23]
+
 * Outings
 ** TODO Plan pumpkin trip
    :PROPERTIES:
@@ -259,3 +270,7 @@ http://www.kilobolt.com/game-development-tutorial.html
 
 
 ** emacs
+*** TODO emdroid hacking
+[[http://www.emacswiki.org/emacs/EmDroid][EmDroid]]
+  CLOCK: [2012-10-21 Sun 17:23]--[2012-10-21 Sun 17:23] =>  0:00
+[2012-10-21 Sun 17:23]
