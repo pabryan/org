@@ -137,10 +137,12 @@ Some are here [[http://www.math.ucsd.edu/~lindblad/150a/150a.html]]
   CLOCK: [2012-10-18 Thu 10:44]--[2012-10-18 Thu 10:44] =>  0:00
 [2012-10-18 Thu 10:44]
 
-*** Meet Bo Yang
-    SCHEDULED: <2012-10-19 Fri 10:00 +1w>
+*** TODO Meet Bo Yang
+    SCHEDULED: <2012-10-26 Fri 10:00 +1w>
+    - State "DONE"       from "TODO"       [2012-10-23 Tue 11:24]
     :PROPERTIES:
     :ID:       c8e2450b-bf17-4295-acdf-371ed5abd3d1
+    :LAST_REPEAT: [2012-10-23 Tue 11:24]
     :END:
 ** TODO Setup reminder for MATH142B
   CLOCK: [2012-10-15 Mon 10:27]--[2012-10-15 Mon 10:28] =>  0:01
