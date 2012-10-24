@@ -39,6 +39,9 @@ Need an org heading with due dates
    :ID:       a636e0f6-ab58-46c1-b32a-0a0d54b62eba
    :END:
 [2012-10-17 Wed 08:22]
+** NEXT Pay Lily $200
+  CLOCK: [2012-10-19 Fri 14:34]--[2012-10-19 Fri 14:34] =>  0:00
+[2012-10-19 Fri 14:34]
 * Health and Recreation
 PROPERTIES:
 CATEGORY: Health
@@ -140,6 +143,10 @@ END:
    :ID:       a9e045f6-0b13-457d-856c-2d5485cb6f4e
    :END:
 
+** NEXT Call ATT to fix wireless
+Did using google voice mess things up
+  CLOCK: [2012-10-19 Fri 14:35]--[2012-10-19 Fri 14:36] =>  0:01
+[2012-10-19 Fri 14:35]
 * Outings
 ** TODO Plan pumpkin trip
    :PROPERTIES:

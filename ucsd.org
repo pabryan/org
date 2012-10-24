@@ -166,10 +166,13 @@ Some are here [[http://www.math.ucsd.edu/~lindblad/150a/150a.html]]
     :ID:       b7a65ab1-a46a-43db-8c55-6cd686ce7551
     :END:
 [2012-10-16 Tue 08:28]
-*** NEXT Make seminar website
+
+*** DONE Make seminar website
     :PROPERTIES:
     :ID:       bbb38675-1efc-4046-8606-3c0f2524dc72
     :END:
+    - State "DONE"       from "NEXT"       [2012-10-19 Fri 15:24]
+
 *** NEXT Advertise seminar
     :PROPERTIES:
     :ID:       4840471b-e6b2-4079-b67c-7b261adf77d6

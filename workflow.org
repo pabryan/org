@@ -40,6 +40,13 @@ or even get the whole directory but I don't know how to write the lisp
    :ID:       8120860b-546d-448f-8f2f-1b76e48a0299
    :END:
 [2012-10-18 Thu 13:09]
+** TODO Get org-mode to make links with just filename in description
+  CLOCK: [2012-10-19 Fri 14:10]--[2012-10-19 Fri 14:10] =>  0:00
+[2012-10-19 Fri 14:10]
+[[file:~/org/ucsd.org::*Computing%20Environment][Computing Environment]]
+** TODO Set up properties for top level headings
+  CLOCK: [2012-10-19 Fri 14:25]--[2012-10-19 Fri 14:26] =>  0:01
+[2012-10-19 Fri 14:25]
 * process
 ** TODO Develop organisation process, workflow
    :PROPERTIES:
@@ -138,6 +145,16 @@ For dynamic files, auto sync to vc every hour or so and sync with dropbox, but t
    :PROPERTIES:
    :ID:       95201798-e0f8-4283-ad8c-c9bf948a52f2
    :END:
+** TODO Make processes/procedures
+*** Add task
+*** Referee paper
+*** write paper
+*** prepare course
+*** Automoate getting updates from arxiv
+what about journals? Do they have rss?
+  CLOCK: [2012-10-19 Fri 10:04]--[2012-10-19 Fri 10:05] =>  0:01
+[2012-10-19 Fri 10:04]
+
 * office layout
 ** TODO get a cloth or coaster for office
   CLOCK: [2012-10-15 Mon 09:36]--[2012-10-15 Mon 09:36] =>  0:00
