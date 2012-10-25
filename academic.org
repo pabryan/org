@@ -86,27 +86,30 @@ Write a paper on how to do it? Use my own paper preperation as model
    :PROPERTIES:
    :ID:       81bb4f28-b031-4061-9092-8e4a24b4b787
    :END:
-Need to make project version controls and org files linked to from gtd. Have some sore of notes folder for each project where I can dump blackboard screen shots, scans of notebooks etc.
-*** Ricci isoperimetric comparison
-*** Pipe flows
-*** $\alpha$ curve flows
-*** dist. comp. on surfaces
-*** CMC stability
-*** CSF iso profile on surfaces
-*** Vector symmetric polynomials
-*** k-graphs, free constructions
-*** iso profile comparison Kahler manifolds
-*** CSF for networks
-*** Perelman pseudo-locality
-*** Degenerate neck-pinches
-*** Ricci flow on warped products
+Need to make project version control and org files linked to from
+gtd. Have some sort of notes folder for each project where I can dump
+blackboard screen shots, scans of notebooks etc.
+*** NEXT Make a "new research project" process
+*** NEXT Create projects
+**** Ricci isoperimetric comparison
+**** Pipe flows
+**** $\alpha$ curve flows
+**** dist. comp. on surfaces
+**** CMC stability
+**** CSF iso profile on surfaces
+**** Vector symmetric polynomials
+**** k-graphs, free constructions
+**** iso profile comparison Kahler manifolds
+**** CSF for networks
+**** Perelman pseudo-locality
+**** Degenerate neck-pinches
+**** Ricci flow on warped products
 
 ** TODO Organise research papers
-*** NEXT Put references into bib file
+*** NEXT refs in bib file matched to pdfs
 The key should be the provided one from arxiv, mathscinet etc.
-*** TODO Match pdfs in papers folder with bib entries
 *** TODO File hard copies under bib key
-*** TODO Configure reftex, org-mode to access papers
+*** NEXT Configure reftex, org-mode to access papers
 **** NEXT Research setup: see evernote refs to start
 **** NEXT Create org file for recording notes on papers in bib file
 * Reviews
@@ -120,3 +123,9 @@ locally it's here [[docview:~/Dropbox/research_papers/MR2921651.pdf::1][MR292165
    :END:
 [2012-10-17 Wed 08:23]
 * Notes
+* Conferences
+** NEXT Investigate Tsinghua Sanya conference
+[[http://msc.tsinghua.edu.cn/forum2013/][TSIMF]]
+  CLOCK: [2012-10-25 Thu 11:30]--[2012-10-25 Thu 11:31] =>  0:01
+[2012-10-25 Thu 11:30]
+
