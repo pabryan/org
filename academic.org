@@ -118,8 +118,9 @@ The key should be the provided one from arxiv, mathscinet etc.
 **** NEXT Research setup: see evernote refs to start
 **** NEXT Create org file for recording notes on papers in bib file
 * Reviews
+[[file:~/working/academic/reviews][reviews directory]]
 ** NEXT Review [[http://www.ams.org/mresubs/download/3559e451969b72ee8/2921651.pdf][paper]]
-locally it's here [[docview:~/Dropbox/research_papers/MR2921651.pdf::1][MR2921651]]
+locally it's here [[docview:~/research_resources/papers/MR2921651.pdf::1][MR2921651]]
 * Tasks
 ** TODO Contact Ben Andrews about MCF, geometric evolution eqn's books
   CLOCK: [2012-10-17 Wed 08:23]--[2012-10-17 Wed 08:23] =>  0:00
@@ -133,4 +134,5 @@ locally it's here [[docview:~/Dropbox/research_papers/MR2921651.pdf::1][MR292165
 [[http://msc.tsinghua.edu.cn/forum2013/][TSIMF]]
   CLOCK: [2012-10-25 Thu 11:30]--[2012-10-25 Thu 11:31] =>  0:01
 [2012-10-25 Thu 11:30]
+
 
