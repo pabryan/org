@@ -1,3 +1,18 @@
 #+FILETAGS: REFILE
 
 
+* TODO Write script to auto download from mathscinet, arxiv etc.
+The script should get mathscinet info, say a bib file and use the doi
+info to automatically download the pdf file
+Ideally this should be integrated into org-mode
+See [[http://www.lhnr.de/index.html#code/localcopy][JabRef plugin]]
+[2012-10-26 Fri 13:01]
+
+* TODO pdf scraping tool to create bib entries and rename pdf files
+This should open pdf's, get doi info and then look up the paper details
+online to get bib type info. Then the paper can be renamed, a bib entry
+can be created or downloaded, say from mathscinet or arxiv.
+See [[http://en.dogeno.us/2010/02/release-a-python-script-for-organizing-scientific-papers-pyrenamepdf-py/][pyrename-pdf]]
+  CLOCK: [2012-10-26 Fri 13:04]--[2012-10-26 Fri 13:06] =>  0:02
+[2012-10-26 Fri 13:04]
+
