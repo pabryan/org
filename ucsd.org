@@ -69,7 +69,8 @@ Use a course as a guinea pig for using the method
     curve len independent of parametrisation
     links to Hans Lindblan inverse function theorem notes?
 
-*** NEXT Assign math150a homework 3				   :COMPUTER:
+*** DONE Assign math150a homework 3				   :COMPUTER:
+    - State "DONE"       from "NEXT"       [2012-10-26 Fri 14:59]
     :PROPERTIES:
     :ID:       a53a8975-7eae-4ed4-b625-9b95c73d2272
     :END:
@@ -87,18 +88,21 @@ Use a course as a guinea pig for using the method
     :ID:       b212184e-2cc5-4357-a1ec-7254f24a53b4
     :END:
   [2012-10-15 Mon 15:22]
-**** NEXT Lec 1
+**** DONE Lec 1
+     - State "DONE"       from "NEXT"       [2012-10-26 Fri 14:59]
      :PROPERTIES:
      :ID:       a5e99085-03d1-4a2a-b802-ec5d366f284c
      :END:
 Recap on level sets are regular
 Sec 2-3
-**** NEXT Lec 2
+**** DONE Lec 2
+     - State "DONE"       from "NEXT"       [2012-10-26 Fri 14:59]
      :PROPERTIES:
      :ID:       09d8e4f0-66f7-4bc7-a4fe-a26e965defb6
      :END:
 Inverse function theorem: examples, non-examples and implicit function theorem
-**** NEXT Lec 3
+**** DONE Lec 3
+     - State "DONE"       from "NEXT"       [2012-10-26 Fri 14:59]
      :PROPERTIES:
      :ID:       a1034819-8d45-4b63-9b60-2a72458a7d0e
      :END:
@@ -110,7 +114,7 @@ Maybe do the [[http://www.math.ucsd.edu/~lindblad/150a/l10.pdf][Hans Lindblad co
     :ID:       b3245c16-be40-47e8-8405-64bbfa9a6717
     :END:
 [2012-10-15 Mon 10:13]
-**** NEXT Check Practice exams
+**** NEXT Check math1501a Practice exams
      :PROPERTIES:
      :ID:       4eca34a2-952a-4fad-adbf-b0642cee0ffd
      :END: 
@@ -122,7 +126,7 @@ Some are here [[http://www.math.ucsd.edu/~lindblad/150a/150a.html]]
      :ID:       b38fd5c9-c7dc-4951-8b1f-6b0e0c7d95cb
      :END:
 
-**** NEXT Devise problems and write them up
+**** NEXT Devise math150a midterm problems and write them up
      :PROPERTIES:
      :ID:       06fb3571-c9b6-4668-8b8f-02c1fb22cd1e
      :END:
@@ -175,12 +179,14 @@ Some are here [[http://www.math.ucsd.edu/~lindblad/150a/150a.html]]
     :END:
     - State "DONE"       from "NEXT"       [2012-10-19 Fri 15:24]
 
-*** NEXT Advertise seminar
+*** DONE Advertise seminar
+    - State "DONE"       from "NEXT"       [2012-10-26 Fri 15:01]
     :PROPERTIES:
     :ID:       4840471b-e6b2-4079-b67c-7b261adf77d6
     :END:
     email math-grad, general math list?
-*** NEXT Email Ben, Lei and Jim about possible speakers.
+*** DONE Email Ben, Lei and Jim about possible speakers.
+    - State "DONE"       from "NEXT"       [2012-10-26 Fri 15:01]
     :PROPERTIES:
     :ID:       80623a86-568e-416a-85de-895be875f516
     :END:
