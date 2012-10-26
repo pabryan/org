@@ -1,0 +1,18 @@
+# \bibliography{~/org/refs.bib}
+#+LINK: notes #%s
+
+* Papers
+** 58 global analysis; analysis on manifolds
+*** 58J partial differential equations on manifolds; differential operators
+**** 58J65 Diffusion processes and stochastic analysis on manifolds
+***** MR2170766 :Bakry_Emery:Ricci_curvature: C0 :diffusion property; L1 :uniqueness; Liouville theorems:
+[[file:~/research_resources/papers/MR2170766.pdf][MR2170766.pdf]]
+
+** 35 Partial differential equations
+*** 35R Miscellaneous topics
+**** 35R01 Partial differential equations on manifolds
+***** MR2921651 :Aronson–Bénilan estimate:Porous medium equation:Riemannian manifold: 
+[[file:papers/MR2921651.pdf][MR2921651.pdf]]
+
+***** MR2487898 :Porous medium equation; Aronson–Bénilan estimate; Li–Yau type estimate; Entropy formula:
+      [[file:papers/MR2487898.pdf][MR2487898.pdf]]
