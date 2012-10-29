@@ -122,6 +122,33 @@ END:
    :PROPERTIES:
    :ID:       dfe51711-2dd6-4f5b-8dbe-887df2af8485
    :END:
+** TODO Organise kitchen
+  CLOCK: [2012-10-28 Sun 15:06]--[2012-10-28 Sun 15:06] =>  0:00
+[2012-10-28 Sun 15:06]
+
+** TODO Organise bedroom
+  CLOCK: [2012-10-28 Sun 15:06]--[2012-10-28 Sun 15:06] =>  0:00
+[2012-10-28 Sun 15:06]
+*** NEXT Catalogue bedroom things
+*** TODO buy bedroom storage items
+*** TODO Pack away bedroom things
+
+** TODO organise kid's room
+  CLOCK: [2012-10-28 Sun 15:06]--[2012-10-28 Sun 15:07] =>  0:01
+[2012-10-28 Sun 15:06]
+*** NEXT Catalogue kids bedroom things
+*** TODO buy kids bedroom storage items
+*** TODO Pack away kids bedroom things
+
+
+** TODO organise laundary
+  CLOCK: [2012-10-28 Sun 15:08]--[2012-10-28 Sun 15:08] =>  0:00
+[2012-10-28 Sun 15:08]
+*** NEXT Catalogue laundary things
+*** TODO buy laundary storage items
+*** TODO Pack away laundary things
+
+
 * Notes
 PROPERTIES:
 CATEGORY: Notes
@@ -192,15 +219,37 @@ Did using google voice mess things up
   CLOCK: [2012-10-24 Wed 12:23]--[2012-10-24 Wed 12:23] =>  0:00
 [2012-10-24 Wed 12:23]
 
+** TODO Contact Del Sol maintenance
+Bath and toilet clogged. Need light globes.
+  CLOCK: [2012-10-28 Sun 13:14]--[2012-10-28 Sun 13:14] =>  0:00
+[2012-10-28 Sun 13:13]
+** DONE Add coffee to abundant harvest order
+   - State "DONE"       from "TODO"       [2012-10-28 Sun 16:20]
+  CLOCK: [2012-10-28 Sun 15:07]--[2012-10-28 Sun 15:07] =>  0:00
+[2012-10-28 Sun 15:07]
+
+** TODO Set up reminder for organic harvest
+  CLOCK: [2012-10-28 Sun 15:07]--[2012-10-28 Sun 15:07] =>  0:00
+[2012-10-28 Sun 15:07]
+
 * Outings
-** TODO Plan pumpkin trip
+** DONE Plan pumpkin trip
+   - State "DONE"       from "TODO"       [2012-10-28 Sun 13:18]
    :PROPERTIES:
    :ID:       f19b531b-6df7-42e9-881c-02729a90d177
    :END:
-** TODO brick or treat, Legoland
+** DONE brick or treat, Legoland
+   - State "DONE"       from "TODO"       [2012-10-28 Sun 13:18]
    :PROPERTIES:
    :ID:       2a8af874-8429-4b4d-b7b6-fecdce1f9c5e
    :END:
+** Dia de los meurtos
+<2012-11-01 Thu> -- <2012-11-02 Fri>
+
+** Star party
+<2012-11-10 Sat 19:00-21:00>
+[[gmap:Marcy park san diego][Marcy  park]]
+contact: [[mailto:rosecanyon@san.rr.com][rosecanyon@san.rr.com]], 858-597-0220
 * Reading
 ** TODO read blogs, newsletters etc.
    :PROPERTIES:
@@ -274,3 +323,48 @@ http://www.kilobolt.com/game-development-tutorial.html
 [[http://www.emacswiki.org/emacs/EmDroid][EmDroid]]
   CLOCK: [2012-10-21 Sun 17:23]--[2012-10-21 Sun 17:23] =>  0:00
 [2012-10-21 Sun 17:23]
+* Computer
+** TODO Configure emacs for email
+*** NEXT Set up offlineimap
+See:
+[[http://docs.offlineimap.org/en/latest/MANUAL.html][http://docs.offlineimap.org/en/latest/MANUAL.html]]
+[[http://jak-linux.org/projects/hardlink/]]
+[[http://bramschoenmakers.nl/node/713][http://bramschoenmakers.nl/node/713]]
+[[https://wiki.archlinux.org/index.php/OfflineIMAP#Gmail_configuration][https://wiki.archlinux.org/index.php/OfflineIMAP#Gmail_configuration]]
+[[http://kwlug.org/pipermail/kwlug-disc_kwlug.org/2010-March/004026.html]]
+[[http://reddragdiva.dreamwidth.org/567837.html]]
+[[http://yet-another-problem.blogspot.com/2012/02/gmail-offlineimap-mutt-msmtp.html]]
+**** offlineimap configuration ~/.offlineimaprc
+[general]
+accounts = GMail
+maxsyncaccounts = 3
+
+[Account GMail]
+localrepository = Local
+remoterepository = Remote
+
+[Repository Local]
+type = Maildir
+localfolders = /storage/Gmail_Backup
+
+[Repository Remote]
+type = IMAP
+remotehost = imap.gmail.com
+remoteuser = your_username@gmail.com
+remotepass = your_password
+ssl = yes
+maxconnections = 1
+
+#Setting realdelete = yes will Really Delete email from the server.
+#Otherwise "deleting" a message will just remove any labels and 
+#retain the message in the All Mail folder.
+realdelete = no
+
+*** NEXT Store passwords in keyring
+[[http://pypi.python.org/pypi/keyring][http://pypi.python.org/pypi/keyring]]
+[[http://www.emacswiki.org/emacs/OfflineIMAP][http://www.emacswiki.org/emacs/OfflineIMAP]]
+
+*** NEXT Choose email reading/writing method
+[[http://www.emacswiki.org/emacs/CategoryMail]]
+Does mutt integrate well?
+[[http://www.emacswiki.org/emacs/MuttInEmacs][http://www.emacswiki.org/emacs/MuttInEmacs]]
