@@ -8,13 +8,16 @@
 ** NEXT Set up contexts						   :COMPUTER:
 *** NEXT Create contexts
 home, computer, office, anywhere, notebook, tablet, phone, errand
+*** NEXT Set up context tags for headings when appropriate
+e.g. for personal errands I have an errands heading which should have
+the errand tag attached to it and hence any child
 ** TODO Setup mercurial sync and fetch				   :COMPUTER:
   CLOCK: [2012-10-18 Thu 10:59]--[2012-10-18 Thu 10:59] =>  0:00
    :PROPERTIES:
    :ID:       70331fca-6e60-44e7-9069-19e2808a45f5
    :END:
 [2012-10-18 Thu 10:59]
-*** NEXT google for how to do this
+*** NEXT research mercurial sync
 ** NEXT Get agenda filtering elisp functions into my org setup	   :COMPUTER:
 See [[http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=9&cad=rja&ved=0CEkQFjAI&url=http%3A%2F%2Fdoc.norang.ca%2Forg-mode.html&ei=VmGAUOnkOaTliQLw0ICICQ&usg=AFQjCNHQ1HdTsHALFTFCzKA3VWXmqPg2qA][org-mode tutorial]]
 scheduled todos should not appear in the general list
@@ -35,21 +38,30 @@ See [[http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=9&cad=rja&ved
   CLOCK: [2012-10-21 Sun 17:26]--[2012-10-21 Sun 17:26] =>  0:00
 [2012-10-21 Sun 17:26]
 [[https://github.com/matburt/mobileorg-android/wiki/FAQ][syncing instructions]]
-** TODO Configure tasks for later				   :COMPUTER:
+** DONE Configure tasks for later				   :COMPUTER:
+   - State "DONE"       from "TODO"       [2012-10-26 Fri 15:18]
 I want to be able to schedule a task for later, say after a given date
 such as the 1st of the month when I get paid and not have to see it until then.
 The down side is that if I filter scheduled tasks then after the day these
 won't appear in general tasks but as scheduled tasks. I need some way to
 mark them as hidden until later, whereupon they will appear in the general
 list and not the scheduled list.
-*** NEXT Create procedure for this
+*** CANCELLED Create procedure for later scheduling of tasks 
+    - State "CANCELLED"  from "NEXT"       [2012-10-26 Fri 15:17] \\
+      I can just use schedule to schedule it later and it's probably a good thing
+      to reminded daily that the task needs to be done.
 Should be able to just schedule it for a given day and then org-mode
 will keep reminding me until it's done.
-*** TODO Research how to make a tickler file for org-mode
+*** DONE Research how to make a tickler file for org-mode
+    - State "DONE"       from "TODO"       [2012-10-26 Fri 15:16]
 ** TODO Set up org-mode calendar				   :COMPUTER:
 *** NEXT Put calendar data into org-mode
 *** NEXT sync with google calendar
 *** NEXT Research org-mode agenda views and how to use it productively
+** TODO Create someday todo for inactive tasks
+  CLOCK: [2012-10-26 Fri 15:06]--[2012-10-26 Fri 15:07] =>  0:01
+[2012-10-26 Fri 15:06]
+
 * process
 ** TODO Develop organisation process, workflow			   :ANYWHERE:
    :PROPERTIES:
@@ -219,3 +231,5 @@ Copy the files to Dropbox instead
 ** NEXT Get notebook working files into dropbox			   :NOTEBOOK:
   CLOCK: [2012-10-24 Wed 12:18]--[2012-10-24 Wed 12:18] =>  0:00
 [2012-10-24 Wed 12:18]
+
+* Tools
