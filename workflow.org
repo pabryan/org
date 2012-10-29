@@ -57,8 +57,12 @@ will keep reminding me until it's done.
 ** TODO Set up org-mode calendar				   :COMPUTER:
 *** NEXT Put calendar data into org-mode
 *** NEXT sync with google calendar
-*** NEXT Research org-mode agenda views and how to use it productively
-** TODO Create someday todo for inactive tasks
+*** TODO Research org-mode agenda views and how to use it productively
+**** NEXT Learn how to filter org-mode agenda views
+I want to filter out personal tasks at work for example or show only ucsd and academic tasks
+*** TODO Filter out someday tasks
+** DONE Create someday todo for inactive tasks
+   - State "DONE"       from "TODO"       [2012-10-29 Mon 10:40]
   CLOCK: [2012-10-26 Fri 15:06]--[2012-10-26 Fri 15:07] =>  0:01
 [2012-10-26 Fri 15:06]
 

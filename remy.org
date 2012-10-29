@@ -26,8 +26,10 @@ $14 family
 
 
 * Health
-** NEXT Call KP about Remy's arm
+** WAITING Call KP about Remy's arm
   SCHEDULED: <2012-10-29 Mon>
+  - State "WAITING"    from "NEXT"       [2012-10-29 Mon 10:23] \\
+    Waiting for Remy's doctor to call back about orthopedic referral
 Orthopedics: 866 459 2912
 
   CLOCK: [2012-10-28 Sun 13:14]--[2012-10-28 Sun 13:15] =>  0:01

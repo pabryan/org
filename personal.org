@@ -177,6 +177,11 @@ person in your department who handles benefits information.
   CLOCK: [2012-10-25 Thu 11:32]--[2012-10-25 Thu 11:32] =>  0:00
 [2012-10-25 Thu 11:32]
 
+** NEXT buy foam rollers
+  SCHEDULED: <2012-11-01 Thu>
+  CLOCK: [2012-10-29 Mon 10:28]--[2012-10-29 Mon 10:28] =>  0:00
+[2012-10-29 Mon 10:28]
+
 * House Maintenance
 PROPERTIES:
 CATEGORY: House
@@ -427,7 +432,7 @@ realdelete = no
 [[http://pypi.python.org/pypi/keyring][http://pypi.python.org/pypi/keyring]]
 [[http://www.emacswiki.org/emacs/OfflineIMAP][http://www.emacswiki.org/emacs/OfflineIMAP]]
 
-*** NEXT Choose email reading/writing method
+*** NEXT Choose emacs email reading/writing method
 [[http://www.emacswiki.org/emacs/CategoryMail]]
 Does mutt integrate well?
 [[http://www.emacswiki.org/emacs/MuttInEmacs][http://www.emacswiki.org/emacs/MuttInEmacs]]
