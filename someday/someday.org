@@ -57,7 +57,7 @@ e.g. panels display some content and take input/output have events, hooks etc.
    http://wiki.bazaar.canonical.com/Workflows
 ** Emacs
 *** TODO learn LISP
-*** TODO Use emacs more, mail, web, news, rss etc.
+*** TODO Use emacs for mail, web, news, rss etc.
 *** TODO Research IDO
   CLOCK: [2012-10-12 Fri 14:17]--[2012-10-12 Fri 14:17] =>  0:00
 [2012-10-12 Fri 14:17]
@@ -87,6 +87,10 @@ can I ssh into my workstation?
   [2012-10-14 Sun 20:34]
 *** TODO Configure Mercurial 
 e.g. ignore emacs back files
+*** TODO Fix emacs java-mode so @Override and the next line have the same indentation
+  CLOCK: [2012-10-27 Sat 15:48]--[2012-10-27 Sat 15:48] =>  0:00
+[2012-10-27 Sat 15:48]
+
 ** TODO research bit, bazaar
   CLOCK: [2012-10-15 Mon 09:36]--[2012-10-15 Mon 09:36] =>  0:00
 [2012-10-15 Mon 09:36]
@@ -127,3 +131,33 @@ See Hamilton, Sessum, Daskopolus and Ben Chow's exposition
    :PROPERTIES:
    :ID:       95201798-e0f8-4283-ad8c-c9bf948a52f2
    :END:
+* academic
+** TODO Research Supervising
+Say summer projects, or reading courses
+Can I employ (through a grant?) research assistants? These should get something like a paper or conference proceeding out of it
+
+  CLOCK: [2012-10-15 Mon 09:32]--[2012-10-15 Mon 09:33] =>  0:01
+   :PROPERTIES:
+   :ID:       601c43cf-e25d-496c-b829-968fcecf3b50
+   :END:
+  [2012-10-15 Mon 09:32]
+  
+*** NEXT Contact Peter Ebenfelt about supervising students
+*** NEXT Create student projects
+    :PROPERTIES:
+    :ID:       6caa18dc-32bc-43e2-8592-8b5145e39c4a
+    :END:
+**** NEXT Research what other people have done
+     :PROPERTIES:
+     :ID:       be3a110e-5c1e-4639-91bf-d365ac331dab
+     :END:
+**** NEXT Make a list of possible student projects
+     :PROPERTIES:
+     :ID:       cea08fd0-43d2-475b-8bc7-a9f3ba218a2e
+     :END:
+**** TODO Advertise student project list
+     :PROPERTIES:
+     :ID:       02760253-d447-4bd2-820d-b359961c7751
+     :END:
+On website, email people who can inform students
+
