@@ -50,12 +50,6 @@ Use a course as a guinea pig for using the method
    :CATEGORY: MATH150A FALL2012
    :ID:       7b8cd00b-6f86-4280-a4c6-8cbdd0dcfc87
    :END:
-*** Lectures
-*** Notes
-*** Exams
-*** Homework
-*** Syllabus
-*** Calendar
 
 *** NEXT math150a lecture log					   :COMPUTER:
     :PROPERTIES:
@@ -81,8 +75,9 @@ Use a course as a guinea pig for using the method
 *** DONE MATH150 Wk 3 lectures
     - State "DONE"       from "TODO"       [2012-10-18 Thu 14:45]
   CLOCK: [2012-10-14 Sun 20:34]--[2012-10-14 Sun 20:34] =>  0:00
-[2012-10-14 Sun 20:34]
-*** TODO Prepare MATH150A Week 4 Lectures 
+  [2012-10-14 Sun 20:34]
+*** DONE Prepare MATH150A Week 4 Lectures 
+    - State "DONE"       from "TODO"       [2012-10-29 Mon 10:25]
   CLOCK: [2012-10-15 Mon 15:22]--[2012-10-15 Mon 15:23] =>  0:01
     :PROPERTIES:
     :ID:       b212184e-2cc5-4357-a1ec-7254f24a53b4
@@ -108,7 +103,7 @@ Inverse function theorem: examples, non-examples and implicit function theorem
      :END:
 Maybe do the [[http://www.math.ucsd.edu/~lindblad/150a/l10.pdf][Hans Lindblad contraction mapping]] stuff?
 
-*** TODO Set MATH150a mid term
+*** NEXT Set MATH150a mid term
   CLOCK: [2012-10-15 Mon 10:13]--[2012-10-15 Mon 10:13] =>  0:00
     :PROPERTIES:
     :ID:       b3245c16-be40-47e8-8405-64bbfa9a6717
@@ -149,7 +144,9 @@ Some are here [[http://www.math.ucsd.edu/~lindblad/150a/150a.html]]
     :ID:       c8e2450b-bf17-4295-acdf-371ed5abd3d1
     :LAST_REPEAT: [2012-10-26 Fri 13:08]
     :END:
-** TODO Setup reminder for MATH142B
+*** TODO Write final exam
+** DONE Setup reminder for MATH142B
+   - State "DONE"       from "TODO"       [2012-10-29 Mon 10:27]
   CLOCK: [2012-10-15 Mon 10:27]--[2012-10-15 Mon 10:28] =>  0:01
    :PROPERTIES:
    :ID:       351dabb7-be5d-458a-8f6b-0959ee00991d
@@ -160,8 +157,13 @@ Some are here [[http://www.math.ucsd.edu/~lindblad/150a/150a.html]]
    :PROPERTIES:
    :ID:       ca36acea-9953-4821-88a1-69ed34f77979
    :END:
+** TODO MATH142B
+*** NEXT Plan MATH142B course
+    SCHEDULED: <2012-12-10 Mon>
+
 * Seminars
-** TODO DG Seminar
+** DONE DG Seminar
+   - State "DONE"       from "TODO"       [2012-10-29 Mon 10:23]
    :PROPERTIES:
    :ID:       4971ad3c-684f-45df-9002-ce8bead60ce7
    :END:

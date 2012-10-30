@@ -5,7 +5,7 @@
    - State "DONE"       from "TODO"       [2012-10-18 Thu 11:13]
   CLOCK: [2012-10-14 Sun 20:38]--[2012-10-14 Sun 20:38] =>  0:00
 [2012-10-14 Sun 20:38]
-** TODO Invite Visitors
+** SOMEDAY Invite Visitors
 Some money available through colloquia funds?
   CLOCK: [2012-10-14 Sun 20:39]--[2012-10-14 Sun 20:40] =>  0:01
    :PROPERTIES:
@@ -19,7 +19,6 @@ Some money available through colloquia funds?
 ** TODO Set up reminder for seminar announcement
   CLOCK: [2012-10-26 Fri 15:07]--[2012-10-26 Fri 15:08] =>  0:01
 [2012-10-26 Fri 15:07]
-[[file:~/org/ucsd.org::*Prepare%20MATH150A%20Week%204%20Lectures][Prepare MATH150A Week 4 Lectures]]
 * Grants
 ** TODO Investigate data management plan workshop
 [[http://libraries.ucsd.edu/services/data-curation/data-management-plan/workshop.html][data management plan workshop]]
