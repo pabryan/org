@@ -57,7 +57,7 @@ e.g. panels display some content and take input/output have events, hooks etc.
    http://wiki.bazaar.canonical.com/Workflows
 ** Emacs
 *** TODO learn LISP
-*** TODO Use emacs more, mail, web, news, rss etc.
+*** TODO Use emacs for mail, web, news, rss etc.
 *** TODO Research IDO
   CLOCK: [2012-10-12 Fri 14:17]--[2012-10-12 Fri 14:17] =>  0:00
 [2012-10-12 Fri 14:17]
@@ -87,6 +87,10 @@ can I ssh into my workstation?
   [2012-10-14 Sun 20:34]
 *** TODO Configure Mercurial 
 e.g. ignore emacs back files
+*** TODO Fix emacs java-mode so @Override and the next line have the same indentation
+  CLOCK: [2012-10-27 Sat 15:48]--[2012-10-27 Sat 15:48] =>  0:00
+[2012-10-27 Sat 15:48]
+
 ** TODO research bit, bazaar
   CLOCK: [2012-10-15 Mon 09:36]--[2012-10-15 Mon 09:36] =>  0:00
 [2012-10-15 Mon 09:36]
