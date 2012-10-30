@@ -109,6 +109,12 @@ Can I solve the diff. ineq. in general to get some useful comparison theory for 
 See Hamilton, Sessum, Daskopolus and Ben Chow's exposition
   CLOCK: [2012-10-17 Wed 08:23]--[2012-10-17 Wed 08:24] =>  0:01
 [2012-10-17 Wed 08:23]
+** TODO Does Lei's variational Levy-Gromov work for bounded regions in the Euclidean space?
+Can I prove that the isoprofile of a ball (or just say the unit disc in the plane)
+has the best isoperimetric profile using the variational techniques?
+  CLOCK: [2012-10-29 Mon 20:42]--[2012-10-29 Mon 20:43] =>  0:01
+[2012-10-29 Mon 20:42]
+
 * Applied research
 ** Astrophysics research
 ** General relativity
