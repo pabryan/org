@@ -36,7 +36,7 @@ Use account A11078844
    :END:
 [2012-10-17 Wed 14:44]
 
-** TODO Pay Ben Chow $180
+** NEXT Pay Ben Chow $180
   CLOCK: [2012-10-17 Wed 08:22]--[2012-10-17 Wed 08:22] =>  0:00
    :PROPERTIES:
    :ID:       a636e0f6-ab58-46c1-b32a-0a0d54b62eba
@@ -100,7 +100,9 @@ Need to find out what to do when sick or in an emergency
    :PROPERTIES:
    :ID:       49875893-75df-4de9-8469-5ebf23a7e891
    :END:
-** TODO clarify pain free class					   :COMPUTER:
+** CANCELLED clarify pain free class				   :COMPUTER:
+   - State "CANCELLED"  from "TODO"       [2012-10-25 Thu 11:37] \\
+     I wondered if I could do several classes, but I'll just do it all in one.
    :PROPERTIES:
    :ID:       93730351-36ba-4865-a259-f95fbd3a24dd
    :END:
@@ -112,6 +114,73 @@ Probably some table/spreadsheet functionality here
 Healthydiningfinder.com
 [2012-10-22 Mon 14:45]
 
+** Pain away class
+   <2012-10-25 Thu 15:00-17:00>
+
+** NEXT Checkout Health insurance changes
+UC SAN DIEGO
+CAMPUS NOTICE
+University of California, San Diego
+
+
+                OFFICE OF THE ASSISTANT VICE CHANCELLOR -
+                            HUMAN RESOURCES
+
+                            October 25, 2012
+
+
+ALL ACADEMICS AND STAFF AT UC SAN DIEGO (excluding UCSD Health System)
+
+SUBJECT:  Annual Open Enrollment Period
+
+The annual Benefits Open Enrollment begins at 8:00 a.m. on Monday,
+October 29, 2012 and ends at 5:00 p.m. on Tuesday, November 20, 2012.
+
+Representatives from the various health insurance plans will be
+available to meet with faculty, staff and retirees at the Price Center
+Ballroom East on Tuesday, November 13, 2012 from 8:30 a.m. to 2:30 p.m.
+to answer questions, provide additional information if needed and
+discuss plan details.
+
+This year, modest changes will be included in the 2013 health programs.
+For example, co-pays for office visits and non-generic prescription
+drugs will increase by $5 and a significant number of Women's Preventive
+Services will now be provided at no cost.
+
+Full details on health insurance choices for 2013 including information
+on medical plans, premium costs, and tools to assist employees and
+retirees with their medical plan choices are available at the Open
+Enrollment website at:
+
+http://atyourservice.ucop.edu/open_enrollment/
+
+Open Enrollment is also the time to enroll in Flexible Spending Accounts
+(FSA) which allow employees to set aside funds to pay for health and/or
+dependent care while providing tax savings.  This year, due to IRS
+changes, the annual limit for Health FSA will be reduced to $2,500.00
+(formerly $5,000.00).  There is no change to DepCare FSA.   Employees
+must enroll in FSAs during Open Enrollment to participate in 2013, even
+if they are currently enrolled.  Additionally, the ARAG legal plan will
+be open for enrollment.
+
+Open Enrollment is the time for employees to enroll their children up to
+age 26 in their plans.
+
+For questions or assistance with Open Enrollment, please contact the
+Human Resources Department Benefits Office at (858) 534-2816 or the
+person in your department who handles benefits information.
+
+
+
+                        Thomas R. Leet
+                        Assistant Vice Chancellor
+  CLOCK: [2012-10-25 Thu 11:32]--[2012-10-25 Thu 11:32] =>  0:00
+[2012-10-25 Thu 11:32]
+
+** NEXT buy foam rollers
+  SCHEDULED: <2012-11-01 Thu>
+  CLOCK: [2012-10-29 Mon 10:28]--[2012-10-29 Mon 10:28] =>  0:00
+[2012-10-29 Mon 10:28]
 
 * House Maintenance
 PROPERTIES:
@@ -364,7 +433,18 @@ realdelete = no
 [[http://pypi.python.org/pypi/keyring][http://pypi.python.org/pypi/keyring]]
 [[http://www.emacswiki.org/emacs/OfflineIMAP][http://www.emacswiki.org/emacs/OfflineIMAP]]
 
-*** NEXT Choose email reading/writing method
+*** NEXT Choose emacs email reading/writing method
+
 [[http://www.emacswiki.org/emacs/CategoryMail]]
 Does mutt integrate well?
 [[http://www.emacswiki.org/emacs/MuttInEmacs][http://www.emacswiki.org/emacs/MuttInEmacs]]
+
+* Errands
+* Languages
+** Chinese
+*** TODO Learn chinese from mango website
+[[http://libraries.mangolanguages.com/university-of-california-san-diego/start][mango]]
+  CLOCK: [2012-10-25 Thu 14:10]--[2012-10-25 Thu 14:11] =>  0:01
+[2012-10-25 Thu 14:10]
+
+
