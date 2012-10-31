@@ -5,7 +5,7 @@
    :PROPERTIES:
    :ID:       5196f0ca-ccb1-4fcc-b483-20f3f835838d
    :END:
-** NEXT Set up contexts						   :COMPUTER:
+** TODO Set up contexts						   :COMPUTER:
 *** NEXT Create contexts
 home, computer, office, anywhere, notebook, tablet, phone, errand
 *** NEXT Set up context tags for headings when appropriate
