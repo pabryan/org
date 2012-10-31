@@ -26,7 +26,8 @@ $14 family
 
 
 * Health
-** WAITING Call KP about Remy's arm
+** DONE Call KP about Remy's arm
+   - State "DONE"       from "WAITING"    [2012-10-31 Wed 09:47]
 
   SCHEDULED: <2012-10-29 Mon>
   - State "WAITING"    from "NEXT"       [2012-10-29 Mon 10:23] \\
