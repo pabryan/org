@@ -26,7 +26,8 @@ $14 family
 
 
 * Health
-** WAITING Call KP about Remy's arm
+** DONE Call KP about Remy's arm
+   - State "DONE"       from "WAITING"    [2012-10-30 Tue 12:35]
 
   SCHEDULED: <2012-10-29 Mon>
   - State "WAITING"    from "NEXT"       [2012-10-29 Mon 10:23] \\
@@ -36,3 +37,6 @@ Orthopedics: 866 459 2912
 
   CLOCK: [2012-10-28 Sun 13:14]--[2012-10-28 Sun 13:15] =>  0:01
 [2012-10-28 Sun 13:14]
+
+** Orthopedic appointment
+<2012-11-01 Thu 13:30>
