@@ -177,8 +177,9 @@ person in your department who handles benefits information.
   CLOCK: [2012-10-25 Thu 11:32]--[2012-10-25 Thu 11:32] =>  0:00
 [2012-10-25 Thu 11:32]
 
-** NEXT buy foam rollers
+** DONE buy foam rollers
   SCHEDULED: <2012-11-01 Thu>
+  - State "DONE"       from "NEXT"       [2012-11-02 Fri 19:34]
   CLOCK: [2012-10-29 Mon 10:28]--[2012-10-29 Mon 10:28] =>  0:00
 [2012-10-29 Mon 10:28]
 
