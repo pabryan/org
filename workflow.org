@@ -71,6 +71,11 @@ Also create any projects and put the under vc
   CLOCK: [2012-11-03 Sat 11:28]--[2012-11-03 Sat 11:28] =>  0:00
 [2012-11-03 Sat 11:28]
 
+** TODO Check out org-contacts
+  CLOCK: [2012-11-03 Sat 19:28]--[2012-11-03 Sat 19:28] =>  0:00
+[2012-11-03 Sat 19:28]
+[[http://julien.danjou.info/projects/emacs-packages#org-contacts]]
+
 * process
 ** TODO Develop organisation process, workflow			   :ANYWHERE:
    :PROPERTIES:
