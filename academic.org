@@ -30,9 +30,12 @@ Some money available through colloquia funds?
   CLOCK: [2012-10-25 Thu 11:31]--[2012-10-25 Thu 11:32] =>  0:01
 [2012-10-25 Thu 11:31]
 
-*** NEXT Set up reminder for seminar announcement
+*** DONE Set up reminder for seminar announcement
+    - State "DONE"       from "NEXT"       [2012-11-03 Sat 18:51]
   CLOCK: [2012-10-26 Fri 15:07]--[2012-10-26 Fri 15:08] =>  0:01
 [2012-10-26 Fri 15:07]
+*** TODO DG Seminar
+<2012-11-08 Thu 10:00-11:00 +1w -1w>
 * Grants
 ** TODO Investigate data management plan workshop
 [[http://libraries.ucsd.edu/services/data-curation/data-management-plan/workshop.html][data management plan workshop]]
