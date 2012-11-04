@@ -1,41 +1,12 @@
 #+FILETAGS: ACADEMIC
 
-* Seminars
-** DONE Seminars org project
-   - State "DONE"       from "TODO"       [2012-10-18 Thu 11:13]
-  CLOCK: [2012-10-14 Sun 20:38]--[2012-10-14 Sun 20:38] =>  0:00
-[2012-10-14 Sun 20:38]
-** SOMEDAY Invite Visitors
-Some money available through colloquia funds?
-  CLOCK: [2012-10-14 Sun 20:39]--[2012-10-14 Sun 20:40] =>  0:01
-   :PROPERTIES:
-   :ID:       e922bc74-823a-4909-83a9-fbc7b63a93d7
-   :END:
-[2012-10-14 Sun 20:39]
-*** NEXT Contact Ben, Lei and/or Peter about funding/process
-    :PROPERTIES:
-    :ID:       c011fced-9d37-4ac5-bd6e-bb689c3a67f2
-    :END:
-** TODO UCSD DG Seminar
-*** DONE 20121025 Talk
-   - State "DONE"       from "TODO"       [2012-10-31 Wed 10:47]
-  CLOCK: [2012-10-17 Wed 10:31]--[2012-10-17 Wed 10:31] =>  0:00
-   :PROPERTIES:
-   :ID:       d31f792f-5123-452d-bca5-f4551f372e00
-   :END:
-[2012-10-17 Wed 10:31]
-[[file:~/working/talks/20121025_ucsd_dg_seminar]]
-*** NEXT Ask Ben about Inviting ZhiQin Lu to speak at DG conference
-[[zlu@math.uci.edu][zlu@math.uci.edu]]
-  CLOCK: [2012-10-25 Thu 11:31]--[2012-10-25 Thu 11:32] =>  0:01
-[2012-10-25 Thu 11:31]
+* Assistants
+* Conferences
+** NEXT Investigate Tsinghua Sanya conference
+[[http://msc.tsinghua.edu.cn/forum2013/][TSIMF]]
+  CLOCK: [2012-10-25 Thu 11:30]--[2012-10-25 Thu 11:31] =>  0:01
+[2012-10-25 Thu 11:30]
 
-*** DONE Set up reminder for seminar announcement
-    - State "DONE"       from "NEXT"       [2012-11-03 Sat 18:51]
-  CLOCK: [2012-10-26 Fri 15:07]--[2012-10-26 Fri 15:08] =>  0:01
-[2012-10-26 Fri 15:07]
-*** TODO DG Seminar
-<2012-11-08 Thu 10:00-11:00 +1w -1w>
 * Grants
 ** TODO Investigate data management plan workshop
 [[http://libraries.ucsd.edu/services/data-curation/data-management-plan/workshop.html][data management plan workshop]]
@@ -56,8 +27,11 @@ I want to do teaching with sage-tex and/or org-mode with babel; i.e. interactive
    :END:
 [2012-10-14 Sun 20:40]
 
-* Students
-* Assistants
+* Journals
+[[file:~/working/academic/journals][journals directory]]
+** DONE Review [[http://www.ams.org/mresubs/download/3559e451969b72ee8/2921651.pdf][paper]]
+   - State "DONE"       from "NEXT"       [2012-11-03 Sat 11:02]
+   locally it's here [[docview:~/research_resources/papers/MR2921651.pdf::1][MR2921651]]
 * Research
 ** TODO Write tutorials on project management, GTD so on for mathematicians, scientists, academics and teachers
    :PROPERTIES:
@@ -131,11 +105,44 @@ See also
 [[http://www.ams.org/mathscinet/help/mr_lookup_help.html][mr_lookup_help]]
 [2012-10-26 Fri 13:01]
 
-* Journals
-[[file:~/working/academic/journals][journals directory]]
-** DONE Review [[http://www.ams.org/mresubs/download/3559e451969b72ee8/2921651.pdf][paper]]
-   - State "DONE"       from "NEXT"       [2012-11-03 Sat 11:02]
-   locally it's here [[docview:~/research_resources/papers/MR2921651.pdf::1][MR2921651]]
+* Seminars
+** DONE Seminars org project
+   - State "DONE"       from "TODO"       [2012-10-18 Thu 11:13]
+  CLOCK: [2012-10-14 Sun 20:38]--[2012-10-14 Sun 20:38] =>  0:00
+[2012-10-14 Sun 20:38]
+** SOMEDAY Invite Visitors
+Some money available through colloquia funds?
+  CLOCK: [2012-10-14 Sun 20:39]--[2012-10-14 Sun 20:40] =>  0:01
+   :PROPERTIES:
+   :ID:       e922bc74-823a-4909-83a9-fbc7b63a93d7
+   :END:
+[2012-10-14 Sun 20:39]
+*** NEXT Contact Ben, Lei and/or Peter about funding/process
+    :PROPERTIES:
+    :ID:       c011fced-9d37-4ac5-bd6e-bb689c3a67f2
+    :END:
+** TODO UCSD DG Seminar
+*** DONE 20121025 Talk
+   - State "DONE"       from "TODO"       [2012-10-31 Wed 10:47]
+  CLOCK: [2012-10-17 Wed 10:31]--[2012-10-17 Wed 10:31] =>  0:00
+   :PROPERTIES:
+   :ID:       d31f792f-5123-452d-bca5-f4551f372e00
+   :END:
+[2012-10-17 Wed 10:31]
+[[file:~/working/talks/20121025_ucsd_dg_seminar]]
+*** NEXT Ask Ben about Inviting ZhiQin Lu to speak at DG conference
+[[zlu@math.uci.edu][zlu@math.uci.edu]]
+  CLOCK: [2012-10-25 Thu 11:31]--[2012-10-25 Thu 11:32] =>  0:01
+[2012-10-25 Thu 11:31]
+
+*** DONE Set up reminder for seminar announcement
+    - State "DONE"       from "NEXT"       [2012-11-03 Sat 18:51]
+  CLOCK: [2012-10-26 Fri 15:07]--[2012-10-26 Fri 15:08] =>  0:01
+[2012-10-26 Fri 15:07]
+*** TODO DG Seminar
+<2012-11-08 Thu 10:00-11:00 +1w -1w>
+* Students
+
 * Tasks
 ** TODO Contact Ben Andrews about MCF, geometric evolution eqn's books
   CLOCK: [2012-10-17 Wed 08:23]--[2012-10-17 Wed 08:23] =>  0:00
@@ -151,10 +158,4 @@ Search for UCGCB-2012
   CLOCK: [2012-11-02 Fri 10:36]--[2012-11-02 Fri 10:37] =>  0:01
 [2012-11-02 Fri 10:36]
 * Notes
-* Conferences
-** NEXT Investigate Tsinghua Sanya conference
-[[http://msc.tsinghua.edu.cn/forum2013/][TSIMF]]
-  CLOCK: [2012-10-25 Thu 11:30]--[2012-10-25 Thu 11:31] =>  0:01
-[2012-10-25 Thu 11:30]
-
 
