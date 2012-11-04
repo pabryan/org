@@ -76,6 +76,14 @@ Also create any projects and put the under vc
 [2012-11-03 Sat 19:28]
 [[http://julien.danjou.info/projects/emacs-packages#org-contacts]]
 
+** TODO Check out quantified self
+  CLOCK: [2012-11-03 Sat 19:29]--[2012-11-03 Sat 19:30] =>  0:01
+[2012-11-03 Sat 19:29]
+[[http://lists.gnu.org/archive/html/emacs-orgmode/2012-06/msg00405.html]]
+[[http://quantifiedself.com/about/]]
+[[http://lists.gnu.org/archive/html/emacs-orgmode/2012-05/msg00079.html]]
+[[http://sachachua.com/blog/category/quantified/]]
+
 * process
 ** TODO Develop organisation process, workflow			   :ANYWHERE:
    :PROPERTIES:
