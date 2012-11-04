@@ -28,11 +28,13 @@ Need an org heading with due dates
    :END:
 [2012-10-14 Sun 19:57]
 ** TODO Pay rent
+   - State "DONE"       from "TODO"       [2012-11-02 Fri 21:28]
 Use account A11078844
-  DEADLINE: <2012-11-05 Thu +1m -5d>
+  DEADLINE: <2012-12-05 Wed +1m -5d>
   CLOCK: [2012-10-17 Wed 14:44]--[2012-10-17 Wed 14:45] =>  0:01
    :PROPERTIES:
    :ID:       ea07bf7b-9f89-49bf-90db-3e167baff163
+   :LAST_REPEAT: [2012-11-02 Fri 21:28]
    :END:
 [2012-10-17 Wed 14:44]
 
@@ -301,6 +303,12 @@ Bath and toilet clogged. Need light globes.
   CLOCK: [2012-10-28 Sun 15:07]--[2012-10-28 Sun 15:07] =>  0:00
 [2012-10-28 Sun 15:07]
 
+** TODO Backup fitness videos
+  CLOCK: [2012-11-03 Sat 16:33]--[2012-11-03 Sat 16:35] =>  0:02
+[2012-11-03 Sat 16:33]
+*** NEXT Buy blank DVD's
+*** NEXT Create iso files
+*** TODO Burn fitness videos to DVD
 * Outings
 ** DONE Plan pumpkin trip
    - State "DONE"       from "TODO"       [2012-10-28 Sun 13:18]
@@ -383,3 +391,4 @@ Find a good postcast player for android. I want to be able to do offline listeni
 [2012-10-25 Thu 14:10]
 
 
+* Travel

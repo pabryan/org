@@ -51,11 +51,15 @@ Use a course as a guinea pig for using the method
    :ID:       7b8cd00b-6f86-4280-a4c6-8cbdd0dcfc87
    :END:
 
-*** NEXT math150a lecture log					   :COMPUTER:
+*** CANCELLED math150a lecture log				   :COMPUTER:
+    - State "CANCELLED"  from "NEXT"       [2012-11-03 Sat 14:10] \\
+      I'm not going to get around to doing this.
     :PROPERTIES:
     :ID:       9152bf49-2b50-4ac9-a640-5b193d4ced49
     :END:
-*** NEXT math150a notes						   :COMPUTER:
+*** CANCELLED math150a notes					   :COMPUTER:
+    - State "CANCELLED"  from "NEXT"       [2012-11-03 Sat 14:11] \\
+      I'm not going to get around to doing this.
     :PROPERTIES:
     :ID:       f93a4094-41d2-4732-96fa-1be37fd96312
     :END:
@@ -103,14 +107,17 @@ Inverse function theorem: examples, non-examples and implicit function theorem
      :END:
 Maybe do the [[http://www.math.ucsd.edu/~lindblad/150a/l10.pdf][Hans Lindblad contraction mapping]] stuff?
 
-*** NEXT Set MATH150a mid term
+*** WAITING Set MATH150a mid term
     DEADLINE: <2012-11-05 Mon -3d>
+    - State "WAITING"    from "NEXT"       [2012-11-03 Sat 14:04] \\
+      Waiting for feedback from Bo Yang on midterm.
   CLOCK: [2012-10-15 Mon 10:13]--[2012-10-15 Mon 10:13] =>  0:00
     :PROPERTIES:
     :ID:       b3245c16-be40-47e8-8405-64bbfa9a6717
     :END:
 [2012-10-15 Mon 10:13]
-**** NEXT Check math1501a Practice exams
+**** DONE Check math1501a Practice exams
+     - State "DONE"       from "NEXT"       [2012-11-03 Sat 14:10]
      :PROPERTIES:
      :ID:       4eca34a2-952a-4fad-adbf-b0642cee0ffd
      :END: 
@@ -122,11 +129,13 @@ Some are here [[http://www.math.ucsd.edu/~lindblad/150a/150a.html]]
      :ID:       b38fd5c9-c7dc-4951-8b1f-6b0e0c7d95cb
      :END:
 
-**** NEXT Devise math150a midterm problems and write them up
+**** DONE Devise math150a midterm problems and write them up
+     - State "DONE"       from "NEXT"       [2012-11-03 Sat 14:10]
      :PROPERTIES:
      :ID:       06fb3571-c9b6-4668-8b8f-02c1fb22cd1e
      :END:
-**** NEXT Check with Holly about proctoring, blue books, general process
+**** DONE Check with Holly about proctoring, blue books, general process
+     - State "DONE"       from "NEXT"       [2012-11-03 Sat 14:10]
      :PROPERTIES:
      :ID:       cd29cbca-0097-4424-8256-96a613819fa3
      :END:
@@ -147,6 +156,9 @@ Some are here [[http://www.math.ucsd.edu/~lindblad/150a/150a.html]]
     :LAST_REPEAT: [2012-11-02 Fri 10:37]
     :END:
 *** TODO Write final exam
+*** NEXT Prepare week 6 lectures
+
+
 ** DONE Setup reminder for MATH142B
    - State "DONE"       from "TODO"       [2012-10-29 Mon 10:27]
   CLOCK: [2012-10-15 Mon 10:27]--[2012-10-15 Mon 10:28] =>  0:01

@@ -66,6 +66,11 @@ I want to filter out personal tasks at work for example or show only ucsd and ac
   CLOCK: [2012-10-26 Fri 15:06]--[2012-10-26 Fri 15:07] =>  0:01
 [2012-10-26 Fri 15:06]
 
+** TODO Make refs and working structure to reflect org structure
+Also create any projects and put the under vc
+  CLOCK: [2012-11-03 Sat 11:28]--[2012-11-03 Sat 11:28] =>  0:00
+[2012-11-03 Sat 11:28]
+
 * process
 ** TODO Develop organisation process, workflow			   :ANYWHERE:
    :PROPERTIES:
@@ -200,8 +205,9 @@ Also could have dry snacks, tinned stuff like sardines and so on.
    :PROPERTIES:
    :ID:       01f23a0f-a1ec-47b6-87fe-81d301d4a144
    :END:
-** NEXT buy tablet cable for office				   :COMPUTER:
+** DONE buy tablet cable for office				   :COMPUTER:
    SCHEDULED: <2012-11-01 Thu>
+   - State "DONE"       from "NEXT"       [2012-11-03 Sat 14:04]
    :PROPERTIES:
    :ID:       856bc4e4-063d-4853-a492-45a6199249d5
    :END:
