@@ -107,8 +107,9 @@ Inverse function theorem: examples, non-examples and implicit function theorem
      :END:
 Maybe do the [[http://www.math.ucsd.edu/~lindblad/150a/l10.pdf][Hans Lindblad contraction mapping]] stuff?
 
-*** WAITING Set MATH150a mid term
+*** DONE Set MATH150a mid term
     DEADLINE: <2012-11-05 Mon -3d>
+    - State "DONE"       from "WAITING"    [2012-11-04 Sun 15:36]
     - State "WAITING"    from "NEXT"       [2012-11-03 Sat 14:04] \\
       Waiting for feedback from Bo Yang on midterm.
   CLOCK: [2012-10-15 Mon 10:13]--[2012-10-15 Mon 10:13] =>  0:00
@@ -122,7 +123,9 @@ Maybe do the [[http://www.math.ucsd.edu/~lindblad/150a/l10.pdf][Hans Lindblad co
      :ID:       4eca34a2-952a-4fad-adbf-b0642cee0ffd
      :END: 
 Some are here [[http://www.math.ucsd.edu/~lindblad/150a/150a.html]]
-**** WAITING Get samples from Ben
+**** CANCELLED Get samples from Ben
+     - State "CANCELLED"  from "WAITING"    [2012-11-04 Sun 15:35] \\
+       Wrote the mid term without needing Ben's examples.
      - State "WAITING"    from "NEXT"       [2012-10-19 Fri 14:03] \\
        Ben is looking for past exams
      :PROPERTIES:
