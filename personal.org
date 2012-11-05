@@ -26,15 +26,19 @@ Need an org heading with due dates
    :PROPERTIES:
    :ID:       460e587d-ea56-4b13-94a1-f487579e42fe
    :END:
-[2012-10-14 Sun 19:57]
+  [2012-10-14 Sun 19:57]
 ** TODO Pay rent
-   - State "DONE"       from "TODO"       [2012-11-02 Fri 21:28]
+   - State "DONE"       from "TODO"       [2012-11-02 Fri 16:08]
+
 Use account A11078844
+https://act.ucsd.edu/studentBilling/billing]]
+
   DEADLINE: <2012-12-05 Wed +1m -5d>
   CLOCK: [2012-10-17 Wed 14:44]--[2012-10-17 Wed 14:45] =>  0:01
    :PROPERTIES:
    :ID:       ea07bf7b-9f89-49bf-90db-3e167baff163
-   :LAST_REPEAT: [2012-11-02 Fri 21:28]
+   :LAST_REPEAT: [2012-11-02 Fri 16:08]
+
    :END:
 [2012-10-17 Wed 14:44]
 
@@ -230,6 +234,8 @@ PROPERTIES:
 CATEGORY: Tasks
 END:
 
+** TODO Change clock
+<2012-11-04 Sun>
 ** TODO Add phone line						   :COMPUTER:
    :PROPERTIES:
    :ID:       fb0b31f6-e5c0-4575-a199-c1eeeeff8159
@@ -309,6 +315,12 @@ Bath and toilet clogged. Need light globes.
 *** NEXT Buy blank DVD's
 *** NEXT Create iso files
 *** TODO Burn fitness videos to DVD
+
+* Calendar
+** Del Sol Continental Breakfast
+<2012-11-06 Tue 07:30-08:30>
+
+
 * Outings
 ** DONE Plan pumpkin trip
    - State "DONE"       from "TODO"       [2012-10-28 Sun 13:18]

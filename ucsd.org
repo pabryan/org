@@ -35,9 +35,7 @@ use org-mode to write content, css to render
   :CATEGORY: Teaching
   :END:
 
-** How to teach
-
-*** TODO Write org-mode teaching paper
+** SOMEDAY Write org-mode teaching paper
 Use a course as a guinea pig for using the method
   CLOCK: [2012-10-14 Sun 20:43]--[2012-10-14 Sun 20:44] =>  0:01
     :PROPERTIES:
@@ -170,7 +168,8 @@ Some are here [[http://www.math.ucsd.edu/~lindblad/150a/150a.html]]
    :END:
 [2012-10-15 Mon 10:27]
 
-** TODO Winter text books					   :COMPUTER:
+** DONE Winter text books					   :COMPUTER:
+   - State "DONE"       from "TODO"       [2012-11-02 Fri 15:53]
    :PROPERTIES:
    :ID:       ca36acea-9953-4821-88a1-69ed34f77979
    :END:
@@ -178,6 +177,17 @@ Some are here [[http://www.math.ucsd.edu/~lindblad/150a/150a.html]]
 *** NEXT Plan MATH142B course
     SCHEDULED: <2012-12-10 Mon>
 
+** Summer 2013
+*** TODO Sign up for summer 2013 teaching
+
+  CLOCK: [2012-11-02 Fri 15:50]--[2012-11-02 Fri 15:52] =>  0:02
+[2012-11-02 Fri 15:50]
+
+[[file:~/teaching/summer_2013/SS%202013%20Request-Proposal.doc][file:~/teaching/summer_2013/SS 2013 Request-Proposal.doc]]
+[[file:~/teaching/summer_2013/Summer_Session_Enrollment.pdf]]
+
+**** NEXT Contact Holly, Scott etc. about summer 2013 teaching
+**** TODO Choose subjects and submit form
 * Seminars
 ** DONE DG Seminar
    - State "DONE"       from "TODO"       [2012-10-29 Mon 10:23]
