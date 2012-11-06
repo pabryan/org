@@ -161,3 +161,10 @@ Search for UCGCB-2012
 [2012-11-02 Fri 10:36]
 * Notes
 * Processes
+** New Research Project
+Should I just make a script that takes the project name and does all this?
+- [ ] Create project directory in [[~/working/academic/research]]
+- [ ] Make master project.org file (includes notes, tasks)
+- [ ] Put under VC control
+- [ ] Create empty bitbucket repository
+- [ ] Clone local to bitbucket
