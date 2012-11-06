@@ -191,6 +191,115 @@ Archive the lot! Organise into folders/tags whatever. gmail can be the main repo
 [[http://www.thebrain.com/]]
   CLOCK: [2012-11-03 Sat 19:48]--[2012-11-03 Sat 19:48] =>  0:00
 [2012-11-03 Sat 19:48]
+** TODO Make list of all projects to VC
+  CLOCK: [2012-11-06 Tue 08:33]--[2012-11-06 Tue 08:34] =>  0:01
+[2012-11-06 Tue 08:33]
+
+** TODO Manage Life
+
+I want to direct my life better. This involves
+ 
+- Setting goals
+  - weekly
+  - montly
+  - yearly
+  - 5 yearly
+- collecting data 
+  - what I've been doing
+  - how long it took
+  - how much it cost
+  - how much I achieved etc
+- Reviewing data
+  - Look at graphs to see what I've been doing
+  - re-evaluate tasks/goals in light of data
+  - set new goals
+  - plan tasks to meet goals
+
+  CLOCK: [2012-11-06 Tue 14:58]--[2012-11-06 Tue 15:30] =>  0:32
+[2012-11-06 Tue 14:58]
+*** TODO Record habits
+**** Tai Chi
+**** Qi Qong
+**** IntuFlow
+**** Ageless Mobility
+**** Primal Stress
+**** Mediation
+**** Convict conditioning
+**** Chinese
+
+**** Cooking
+**** Books
+**** Shows
+**** Chess
+*** TODO Set goals
+Set long term goals and short term goals. Have say the weeks/months goals in org-mode and use these a guide to choosing tasks.
+**** Health
+***** Build physical strength
+***** Build mental strength
+***** Learn physical tricks
+- handstand
+- backflip
+- planche
+- tumbling
+- wu shu
+***** Sleep more
+***** Eat naturally
+
+**** Outdoors/sports
+***** Bush walking
+***** Soccer
+***** Orienteering
+***** Parkour
+
+**** Gardening
+***** Community gardening
+***** Balcony gardening
+
+**** Community
+***** Online stuff like hacking
+***** Health/Fitness
+***** Quantified self
+***** Maths
+***** Family and friends
+***** UCSD
+
+**** Academic
+***** Write papers
+***** Write books
+***** Teach
+
+**** Hacking
+***** emacs
+***** android
+***** computational
+*** TODO Quantified self
+**** Record how I use my time
+I'll need to say use my phone to collect the data. I need something easy to clock in and out of an activity, like transit-shops, transit-uni, transit-home, house-cleaning, teaching-lecturing, teaching-preperation etc.
+
+**** Record sleep
+**** Record blood pressure?
+**** Record weight
+**** Record heart rate
+**** Record finances such as groceries etc.
+
+*** TODO Maintain references
+I want to hang on to emails, articles and so on. I want to keep receipts, ideas and a diary of what I've done. These need to be kept in a filing system somehow, most probaby using org-mode and memacs.
+
+
+
+*** TODO Reviews
+Here I look at my goals, my tasks and how I've been spending my time and use that information to plan out the coming week/month/year etc.
+**** Weekly
+**** Monthly
+**** 6 monthly?
+**** yearly
+**** 5 years?
+*** TODO Schedule tasks
+**** Set next tasks
+**** Capture tasks as I think of them
+**** Refile tasks a couple of times a day
+**** Use property drawers to associate tasks with goals
+
 * office layout
 ** NEXT get a cloth or coasters for office			     :ERRAND:
   CLOCK: [2012-10-15 Mon 09:36]--[2012-10-15 Mon 09:36] =>  0:00
@@ -262,5 +371,10 @@ Copy the files to Dropbox instead
 ** NEXT Get notebook working files into dropbox			   :NOTEBOOK:
   CLOCK: [2012-10-24 Wed 12:18]--[2012-10-24 Wed 12:18] =>  0:00
 [2012-10-24 Wed 12:18]
+
+** TODO Work out some way to keep up to date with people's scripts
+e.g. [[https://bitbucket.org/jaraco/jaraco.develop/src/819da4c3e702/jaraco/develop/bitbucket.py?at=default]]
+  CLOCK: [2012-11-06 Tue 10:47]--[2012-11-06 Tue 10:48] =>  0:01
+[2012-11-06 Tue 10:47]
 
 * Tools
