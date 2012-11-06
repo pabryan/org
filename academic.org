@@ -164,7 +164,7 @@ Search for UCGCB-2012
 ** New Research Project
 Should I just make a script that takes the project name and does all this?
 - [ ] Create project directory in [[~/working/academic/research]]
-- [ ] Make master project.org file (includes notes, tasks)
+- [ ] Make master project.org file (includes notes, title other options like including my latex setup)
 - [ ] Put under VC control
 - [ ] Create empty bitbucket repository
 - [ ] Clone local to bitbucket
