@@ -148,13 +148,14 @@ Some are here [[http://www.math.ucsd.edu/~lindblad/150a/150a.html]]
 [2012-10-18 Thu 10:44]
 
 *** TODO Meet Bo Yang
-    SCHEDULED: <2012-11-09 Fri 10:00 +1w>
+    SCHEDULED: <2012-11-16 Fri 10:00 +1w>
+    - State "DONE"       from "TODO"       [2012-11-09 Fri 10:23]
     - State "DONE"       from "TODO"       [2012-11-02 Fri 10:37]
     - State "DONE"       from "TODO"       [2012-10-26 Fri 13:08]
     - State "DONE"       from "TODO"       [2012-10-23 Tue 11:24]
     :PROPERTIES:
     :ID:       c8e2450b-bf17-4295-acdf-371ed5abd3d1
-    :LAST_REPEAT: [2012-11-02 Fri 10:37]
+    :LAST_REPEAT: [2012-11-09 Fri 10:23]
     :END:
 *** TODO Write final exam
 *** NEXT Prepare week 6 lectures
