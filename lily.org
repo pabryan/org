@@ -2,11 +2,13 @@
 
 * Activities
 ** TODO Find activities
+I need free close by activities: playground, beach, library?
    :PROPERTIES:
    :ID:       a2050f62-567a-4d73-8f61-255a78d4cd8e
    :END:
 * Health
-** TODO Sort Lily's asthma
+** DONE Sort Lily's asthma
+   - State "DONE"       from "TODO"       [2012-11-09 Fri 11:49]
   CLOCK: [2012-10-14 Sun 20:31]--[2012-10-14 Sun 20:31] =>  0:00
    :PROPERTIES:
    :ID:       5c7a555a-cb63-42f2-8d11-a7508ea9c8f7
