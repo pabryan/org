@@ -16,17 +16,27 @@ END:
 
 ** NEXT Fill in Authority to operate forms for Lily and Remy
 Scan them and email them to commbank. Also make sure netbank access is setup.
-** TODO sort out budget
+** TODO sort out personal finances
    :PROPERTIES:
    :ID:       93a33ee0-24df-416f-a1a0-2058bac243a7
    :END:
-** TODO Bills to pay list
-Need an org heading with due dates
+*** NEXT Use org ledger for managing budget
+  CLOCK: [2012-11-06 Tue 15:56]--[2012-11-06 Tue 16:21] =>  0:25
+[2012-11-06 Tue 15:56]
+[[http://orgmode.org/worg/org-contrib/babel/languages/ob-doc-ledger.html]]
+[[http://sachachua.com/blog/2010/11/emacs-recording-ledger-entries-with-org-capture-templates/]]
+
+*** NEXT Make list of montly expenses
+
   CLOCK: [2012-10-14 Sun 19:57]--[2012-10-14 Sun 19:58] =>  0:01
    :PROPERTIES:
    :ID:       460e587d-ea56-4b13-94a1-f487579e42fe
    :END:
   [2012-10-14 Sun 19:57]
+*** SOMEDAY Track spending 
+- collate bank statements
+- scan reciepts and enter into org mode
+
 ** TODO Pay rent
    - State "DONE"       from "TODO"       [2012-11-02 Fri 16:08]
 
@@ -42,20 +52,15 @@ https://act.ucsd.edu/studentBilling/billing]]
    :END:
 [2012-10-17 Wed 14:44]
 
-** NEXT Pay Ben Chow $180
+** Pay Ben Chow $180
   CLOCK: [2012-10-17 Wed 08:22]--[2012-10-17 Wed 08:22] =>  0:00
    :PROPERTIES:
    :ID:       a636e0f6-ab58-46c1-b32a-0a0d54b62eba
    :END:
 [2012-10-17 Wed 08:22]
-** NEXT Pay Lily $200
+** Pay Lily $200
   CLOCK: [2012-10-19 Fri 14:34]--[2012-10-19 Fri 14:34] =>  0:00
 [2012-10-19 Fri 14:34]
-** TODO Use org ledger for managing budget
-  CLOCK: [2012-11-06 Tue 15:56]--[2012-11-06 Tue 16:21] =>  0:25
-[2012-11-06 Tue 15:56]
-[[http://orgmode.org/worg/org-contrib/babel/languages/ob-doc-ledger.html]]
-[[http://sachachua.com/blog/2010/11/emacs-recording-ledger-entries-with-org-capture-templates/]]
 
 * Health and Recreation
 PROPERTIES:
