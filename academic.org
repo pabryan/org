@@ -10,14 +10,15 @@
 [2012-10-25 Thu 11:30]
 
 * Grants
-** TODO Investigate data management plan workshop
+** DONE Investigate data management plan workshop
+   - State "DONE"       from "TODO"       [2012-11-09 Fri 11:20]
 [[http://libraries.ucsd.edu/services/data-curation/data-management-plan/workshop.html][data management plan workshop]]
   CLOCK: [2012-10-19 Fri 14:11]--[2012-10-19 Fri 14:12] =>  0:01
    :PROPERTIES:
    :ID:       26658a79-21fd-4a3b-880c-ee7e7644274d
    :END:
 [2012-10-19 Fri 14:11]
-** TODO Research getting grants
+** SOMEDAY Research getting grants
 I want mostly travel money 
 Can I hire a car so we can all go on a road trip?
 I need books
@@ -38,11 +39,11 @@ Geisel Library room 274
    - State "DONE"       from "NEXT"       [2012-11-03 Sat 11:02]
    locally it's here [[docview:~/research_resources/papers/MR2921651.pdf::1][MR2921651]]
 * Research
-** TODO Write tutorials on project management, GTD so on for mathematicians, scientists, academics and teachers
+** SOMEDAY Write tutorials on project management, GTD so on for mathematicians, scientists, academics and teachers
    :PROPERTIES:
    :ID:       0bc3a3b6-1a25-4b77-aace-ffbd0c69139b
    :END:
-** TODO Preparing/doing research using org-mode
+** SOMEDAY Preparing/doing research using org-mode
 Write a paper on how to do it? Use my own paper preperation as model
   CLOCK: [2012-10-14 Sun 20:42]--[2012-10-14 Sun 20:43] =>  0:01
    :PROPERTIES:
@@ -145,7 +146,24 @@ Some money available through colloquia funds?
   CLOCK: [2012-10-26 Fri 15:07]--[2012-10-26 Fri 15:08] =>  0:01
 [2012-10-26 Fri 15:07]
 *** DG Seminar
-<2012-11-08 Thu 10:00-11:00 +1w -1w>
+    <2012-11-08 Thu 10:00-11:00 +1w -1w>
+*** TODO Send DG seminar email announcement 
+**** Email: [[mailto:seminarstaff@math.ucsd.edu]]
+
+**** Template
+Speaker: <SPEAKER>
+Home Institution: <INSTITUTION>
+Facult Host: [HOST]
+Date: <DATE>
+Seminar Name: Differential Geometry
+Title: <TITLE>
+Start Time: 10 am
+Location: AP&M 7218
+
+Abstract:
+
+<ABSTRACT>
+
 * Students
 ** Meet Janelle and Ben Chow
 Talk about ancient solutions of curve shortening flow on $S^2$
