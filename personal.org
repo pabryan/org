@@ -213,6 +213,17 @@ END:
    :PROPERTIES:
    :ID:       dfe51711-2dd6-4f5b-8dbe-887df2af8485
    :END:
+*** NEXT Plan home organisation
+places to file things
+storage containers
+everything has a home!
+pantry shelves
+  CLOCK: [2012-10-14 Sun 20:44]--[2012-10-14 Sun 20:45] =>  0:01
+   :PROPERTIES:
+   :ID:       dfe4200d-68c2-4715-aeca-a38028ff423c
+   :END:
+[2012-10-14 Sun 20:44]
+
 *** NEXT Organise kitchen
   CLOCK: [2012-10-28 Sun 15:06]--[2012-10-28 Sun 15:06] =>  0:00
 [2012-10-28 Sun 15:06]
@@ -238,6 +249,12 @@ END:
 **** TODO buy laundary storage items
 **** TODO Pack away laundary things
 
+*** SOMEDAY pack away tea pots
+  CLOCK: [2012-10-14 Sun 19:56]--[2012-10-14 Sun 19:56] =>  0:00
+   :PROPERTIES:
+   :ID:       1b524408-f508-4d2e-839a-0936559efaf4
+   :END:
+[2012-10-14 Sun 19:56]
 * Notes
 PROPERTIES:
 CATEGORY: Notes
@@ -374,13 +391,16 @@ contact: [[mailto:rosecanyon@san.rr.com][rosecanyon@san.rr.com]], 858-597-0220
    :PROPERTIES:
    :ID:       d9f54b25-d4ed-4a9a-ae3c-12d6749620de
    :END:
-** TODO Get Windsor McCay books
+** CANCELLED Get Windsor McCay books
+   - State "CANCELLED"  from "TODO"       [2012-11-10 Sat 13:40] \\
+     I'm not that intersted after all.
   CLOCK: [2012-10-15 Mon 12:10]--[2012-10-15 Mon 12:11] =>  0:01
    :PROPERTIES:
    :ID:       6245fd73-b95b-4acd-baca-f743a0bf5744
    :END:
 [2012-10-15 Mon 12:10]
-** TODO Read kp newsletter
+** DONE Read kp newsletter
+   - State "DONE"       from "TODO"       [2012-11-10 Sat 13:42]
 [[http://kaiserpermanente-mail.org/14e102af8layfousiaj5hioyaaaaaa2j4zxwaqctfoqyaaaaa/C?V=bF9pbmRleAEBcHJvZmlsZV9pZAExNzY1NTkyNTU2AUZSU1RfTk0BUEFVTAF6aXBfY29kZQEBX1dBVkVfSURfATEzNDg5OTA2MAFfUExJU1RfSURfATc3NzAyNTkBZ19pbmRleAEBZW1haWxfYWRkcgFwYWJyeWFuQGdtYWlsLmNvbQFfU0NIRF9UTV8BMjAxMjEwMTYxMTAwMDABcHJvZmlsZV9rZXkBNTUwMDAxNDg2MjgyMg%3D%3D&hfRgPQxxOsF3fqchSPOhjw][newsletter]]
   CLOCK: [2012-10-18 Thu 10:46]--[2012-10-18 Thu 10:46] =>  0:00
    :PROPERTIES:
@@ -389,45 +409,33 @@ contact: [[mailto:rosecanyon@san.rr.com][rosecanyon@san.rr.com]], 858-597-0220
 [2012-10-18 Thu 10:46]
 * Shows to watch
 * Home organisation
-** TODO plan weekly food
+** NEXT plan weekly food
    :PROPERTIES:
    :ID:       659b82d1-fff2-498c-afeb-3101030d6946
    :END:
-** TODO tea pots
-  CLOCK: [2012-10-14 Sun 19:56]--[2012-10-14 Sun 19:56] =>  0:00
-   :PROPERTIES:
-   :ID:       1b524408-f508-4d2e-839a-0936559efaf4
-   :END:
-[2012-10-14 Sun 19:56]
-** TODO Plan home organisation
-places to file things
-storage containers
-everything has a home!
-pantry shelves
-  CLOCK: [2012-10-14 Sun 20:44]--[2012-10-14 Sun 20:45] =>  0:01
-   :PROPERTIES:
-   :ID:       dfe4200d-68c2-4715-aeca-a38028ff423c
-   :END:
-[2012-10-14 Sun 20:44]
-
+<2012-11-14 Wed +1w>
 * Podcasts
-** TODO podcasts
+** DONE podcasts
+   - State "DONE"       from "TODO"       [2012-11-10 Sat 13:44]
 Find a good postcast player for android. I want to be able to do offline listening and jump to where I was up to last. I want to order them based on say date with oldest first or newest first as the fancy takes me.
   CLOCK: [2012-10-15 Mon 09:50]--[2012-10-15 Mon 09:51] =>  0:01
    :PROPERTIES:
    :ID:       4a90ed4c-40d1-4f68-b1d0-fa519220825e
    :END:
 [2012-10-15 Mon 09:50]
-** TODO get podcasts						   :COMPUTER:
+** CANCELLED get podcasts					   :COMPUTER:
+   - State "CANCELLED"  from "TODO"       [2012-11-10 Sat 13:44] \\
+     Too vague to be a task
    :PROPERTIES:
    :ID:       18dc2ce2-3cb2-4c2f-9ba5-21b378f6fceb
    :END:
 * Friend and Family
-** NEXT Contact Ben, Julie, Mat etc. to say I'm alive
+** DONE Contact Ben, Julie, Mat etc. to say I'm alive
+   - State "DONE"       from "NEXT"       [2012-11-10 Sat 13:44]
 * Errands
 * Languages
 ** Chinese
-*** TODO Learn chinese from mango website
+*** SOMEDAY Learn chinese from mango website
 [[http://libraries.mangolanguages.com/university-of-california-san-diego/start][mango]]
   CLOCK: [2012-10-25 Thu 14:10]--[2012-10-25 Thu 14:11] =>  0:01
 [2012-10-25 Thu 14:10]
