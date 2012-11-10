@@ -62,16 +62,18 @@ Use account A11078844
   CLOCK: [2012-10-19 Fri 14:34]--[2012-10-19 Fri 14:34] =>  0:00
 [2012-10-19 Fri 14:34]
 
+** Pay Remy $500
 * Health and Recreation
 PROPERTIES:
 CATEGORY: Health
 END:
 
-** TODO Research Pavel Tsatsouline
+** DONE Research Pavel Tsatsouline
+   - State "DONE"       from "TODO"       [2012-11-10 Sat 13:30]
    :PROPERTIES:
    :ID:       0ca14077-9c27-4fd1-b6e7-413959dcb51a
    :END: 
-** TODO Listen to Scott Sonnon
+** NEXT Listen to Scott Sonnon
   CLOCK: [2012-10-12 Fri 14:55]--[2012-10-12 Fri 14:55] =>  0:00
    :PROPERTIES:
    :ID:       d2291e69-0425-4e7d-b027-5f7ee77dae6d
@@ -79,13 +81,6 @@ END:
 [2012-10-12 Fri 14:55]
 [[http://physicalliving.com/exclusive-interview-with-johns-coach-scott-sonnon-the-creator-of-the-circular-strength-training-system/][part 1]]
 [[http://physicalliving.com/exclusive-interview-with-johns-coach-scott-sonnon-the-creator-of-the-circular-strength-training-system-part-2/][part 2]]
-** TODO Update exercise schedule
-  CLOCK: [2012-10-12 Fri 14:49]--[2012-10-12 Fri 14:49] =>  0:00
-   :PROPERTIES:
-   :ID:       3065cc64-f846-4baa-abea-f05ce84becee
-   :END:
-[2012-10-12 Fri 14:49]
-
 ** DONE Find doctor
    - State "DONE"       from "TODO"       [2012-10-24 Wed 13:30]
 [[http://kp.org][KP]]
@@ -127,14 +122,23 @@ Need to find out what to do when sick or in an emergency
 *** NEXT Make org mode exercise journal
 Probably some table/spreadsheet functionality here
 *** TODO Enter exercise data into org-mode
-** TODO Research healthy dining website  
+*** TODO Update exercise schedule
+  CLOCK: [2012-10-12 Fri 14:49]--[2012-10-12 Fri 14:49] =>  0:00
+   :PROPERTIES:
+   :ID:       3065cc64-f846-4baa-abea-f05ce84becee
+   :END:
+[2012-10-12 Fri 14:49]
+
+** DONE Research healthy dining website  
+   - State "DONE"       from "TODO"       [2012-11-10 Sat 13:32]
 Healthydiningfinder.com
 [2012-10-22 Mon 14:45]
 
 ** Pain away class
    <2012-10-25 Thu 15:00-17:00>
 
-** NEXT Checkout Health insurance changes
+** DONE Checkout Health insurance changes
+   - State "DONE"       from "NEXT"       [2012-11-10 Sat 13:33]
 UC SAN DIEGO
 CAMPUS NOTICE
 University of California, San Diego
@@ -209,31 +213,30 @@ END:
    :PROPERTIES:
    :ID:       dfe51711-2dd6-4f5b-8dbe-887df2af8485
    :END:
-** TODO Organise kitchen
+*** NEXT Organise kitchen
   CLOCK: [2012-10-28 Sun 15:06]--[2012-10-28 Sun 15:06] =>  0:00
 [2012-10-28 Sun 15:06]
 
-** TODO Organise bedroom
+*** NEXT Organise bedroom
   CLOCK: [2012-10-28 Sun 15:06]--[2012-10-28 Sun 15:06] =>  0:00
 [2012-10-28 Sun 15:06]
-*** NEXT Catalogue bedroom things
-*** TODO buy bedroom storage items
-*** TODO Pack away bedroom things
+**** NEXT Catalogue bedroom things
+**** TODO buy bedroom storage items
+**** NEXT Pack away bedroom things
 
-** TODO organise kid's room
+*** NEXT organise kid's room
   CLOCK: [2012-10-28 Sun 15:06]--[2012-10-28 Sun 15:07] =>  0:01
 [2012-10-28 Sun 15:06]
-*** NEXT Catalogue kids bedroom things
-*** TODO buy kids bedroom storage items
-*** TODO Pack away kids bedroom things
+**** NEXT Catalogue kids bedroom things
+**** TODO buy kids bedroom storage items
+**** TODO Pack away kids bedroom things
 
-
-** TODO organise laundary
+*** NEXT organise laundary
   CLOCK: [2012-10-28 Sun 15:08]--[2012-10-28 Sun 15:08] =>  0:00
 [2012-10-28 Sun 15:08]
-*** NEXT Catalogue laundary things
-*** TODO buy laundary storage items
-*** TODO Pack away laundary things
+**** NEXT Catalogue laundary things
+**** TODO buy laundary storage items
+**** TODO Pack away laundary things
 
 * Notes
 PROPERTIES:
@@ -245,20 +248,22 @@ PROPERTIES:
 CATEGORY: Tasks
 END:
 
-** TODO Change clock
+** DONE Change clock
+   - State "DONE"       from "TODO"       [2012-11-10 Sat 13:35]
 <2012-11-04 Sun>
-** TODO Add phone line						   :COMPUTER:
+** SOMEDAY Add phone line					   :COMPUTER:
    :PROPERTIES:
    :ID:       fb0b31f6-e5c0-4575-a199-c1eeeeff8159
    :END:
 
-** TODO Update social security address
+** NEXT Update social security address
   CLOCK: [2012-10-14 Sun 20:33]--[2012-10-14 Sun 20:33] =>  0:00
    :PROPERTIES:
    :ID:       51d118b3-11d2-4851-9c69-9951301557db
    :END:
 [2012-10-14 Sun 20:33]
-** TODO Call del-sol office about having a hamster
+** DONE Call del-sol office about having a hamster
+   - State "DONE"       from "TODO"       [2012-11-10 Sat 13:35]
   CLOCK: [2012-10-14 Sun 20:44]--[2012-10-14 Sun 20:44] =>  0:00
    :PROPERTIES:
    :ID:       df0bc5e6-16ef-4c9a-b9d0-9917c5b6a980
@@ -271,7 +276,7 @@ END:
    :ID:       274f2f16-4fe0-4edc-9452-0ea7fcdc1edb
    :END:
 [2012-10-16 Tue 09:57]
-** TODO Enrol in emergency warning systems	      :COMPUTER:TABLET:PHONE:
+** NEXT Enrol in emergency warning systems	      :COMPUTER:TABLET:PHONE:
    :PROPERTIES:
    :ID:       a9e045f6-0b13-457d-856c-2d5485cb6f4e
    :END:
@@ -280,23 +285,28 @@ END:
 Did using google voice mess things up
   CLOCK: [2012-10-19 Fri 14:35]--[2012-10-19 Fri 14:36] =>  0:01
   [2012-10-19 Fri 14:35]
-** TODO Download podcasts reading (tutorials) etc. 
+** CANCELLED Download podcasts reading (tutorials) etc. 
+   - State "CANCELLED"  from "TODO"       [2012-11-10 Sat 13:36] \\
+     Too vague to be a task
 
 [2012-10-22 Mon 18:08]
 
-
-** TODO Contact Squeeze play/Abundant Harvest about pre-paying each month
+** DONE Contact Squeeze play/Abundant Harvest about pre-paying each month
+   - State "DONE"       from "TODO"       [2012-11-10 Sat 13:36]
   CLOCK: [2012-10-24 Wed 13:57]--[2012-10-24 Wed 13:58] =>  0:01
 [2012-10-24 Wed 13:57]
 
-** TODO Inform Kate and school of work phone number
+** DONE Inform Kate and school of work phone number
+   - State "DONE"       from "TODO"       [2012-11-10 Sat 13:39]
   CLOCK: [2012-10-21 Sun 18:30]--[2012-10-21 Sun 18:30] =>  0:00
 [2012-10-21 Sun 18:30]
-** TODO Turn on skype at work
+** DONE Turn on skype at work
+   - State "DONE"       from "TODO"       [2012-11-10 Sat 13:39]
   CLOCK: [2012-10-21 Sun 18:30]--[2012-10-21 Sun 18:31] =>  0:01
 [2012-10-21 Sun 18:30]
 
-** NEXT Call ATT to fix wireless
+** DONE Call ATT to fix wireless
+   - State "DONE"       from "NEXT"       [2012-11-10 Sat 13:39]
 Did using google voice mess things up
   CLOCK: [2012-10-19 Fri 14:35]--[2012-10-19 Fri 14:36] =>  0:01
   :PROPERTIES:
@@ -307,7 +317,8 @@ Did using google voice mess things up
   CLOCK: [2012-10-24 Wed 12:23]--[2012-10-24 Wed 12:23] =>  0:00
 [2012-10-24 Wed 12:23]
 
-** TODO Contact Del Sol maintenance
+** DONE Contact Del Sol maintenance
+   - State "DONE"       from "TODO"       [2012-11-10 Sat 13:39]
 Bath and toilet clogged. Need light globes.
   CLOCK: [2012-10-28 Sun 13:14]--[2012-10-28 Sun 13:14] =>  0:00
 [2012-10-28 Sun 13:13]
