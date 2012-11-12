@@ -354,9 +354,11 @@ Bath and toilet clogged. Need light globes.
 *** NEXT Buy blank DVD's
 *** NEXT Create iso files
 *** TODO Burn fitness videos to DVD
-
-** TODO Organise Kate's Birthday
+    
+** CANCELLED Organise Kate's Birthday
   DEADLINE: <2012-11-26 Mon -2w>
+  - State "CANCELLED"  from "TODO"       [2012-11-12 Mon 11:37] \\
+    Duplicate of entry in kate.org
 
   CLOCK: [2012-11-07 Wed 12:57]--[2012-11-07 Wed 12:58] =>  0:01
 [2012-11-07 Wed 12:57]
