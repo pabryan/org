@@ -8,13 +8,13 @@ END:
 ** SOMEDAY kilobolt android game tutorial
 http://www.kilobolt.com/game-development-tutorial.html
 [2012-10-22 Mon 18:07]
-*** NEXT kilobolt Tutorial 
+*** SOMEDAY kilobolt Tutorial 
 
 ** SOMEDAY java code geeks android game tutorial
 [[http://www.javacodegeeks.com/2011/06/android-game-development-tutorials.html][tutorial]] 
   CLOCK: [2012-10-23 Tue 17:06]--[2012-10-23 Tue 17:06] =>  0:00
 [2012-10-23 Tue 17:06]
-*** NEXT Java code geeks Tutorial 
+*** SOMEDAY Java code geeks Tutorial 
 
 
 * emacs
@@ -27,7 +27,7 @@ END:
   CLOCK: [2012-10-21 Sun 17:23]--[2012-10-21 Sun 17:23] =>  0:00
 [2012-10-21 Sun 17:23]
 ** TODO Configure emacs for email
-*** NEXT Set up offlineimap
+*** SOMEDAY Set up offlineimap
 See:
 [[http://docs.offlineimap.org/en/latest/MANUAL.html][http://docs.offlineimap.org/en/latest/MANUAL.html]]
 [[http://jak-linux.org/projects/hardlink/]]
@@ -62,11 +62,11 @@ maxconnections = 1
 #retain the message in the All Mail folder.
 realdelete = no
 
-*** NEXT Store passwords in keyring
+*** SOMEDAY Store passwords in keyring
 [[http://pypi.python.org/pypi/keyring][http://pypi.python.org/pypi/keyring]]
 [[http://www.emacswiki.org/emacs/OfflineIMAP][http://www.emacswiki.org/emacs/OfflineIMAP]]
 
-*** NEXT Choose emacs email reading/writing method
+*** SOMEDAY Choose emacs email reading/writing method
 
 [[http://www.emacswiki.org/emacs/CategoryMail]]
 Does mutt integrate well?
