@@ -39,6 +39,7 @@ Geisel Library room 274
    - State "DONE"       from "NEXT"       [2012-11-03 Sat 11:02]
    locally it's here [[docview:~/research_resources/papers/MR2921651.pdf::1][MR2921651]]
 * Research
+[[file:~/working/academic/research/]]
 ** SOMEDAY Write tutorials on project management, GTD so on for mathematicians, scientists, academics and teachers
    :PROPERTIES:
    :ID:       0bc3a3b6-1a25-4b77-aace-ffbd0c69139b
@@ -59,26 +60,27 @@ gtd. Have some sort of notes folder for each project where I can dump
 blackboard screen shots, scans of notebooks etc.
 *** NEXT Make a "new research project" process
 [[*New%20Research%20Project][New Research Project]]
-*** NEXT Create projects
-**** Ricci isoperimetric comparison
-**** Pipe flows
-**** $\alpha$ curve flows
-**** dist. comp. on surfaces
-**** CMC stability
-**** CSF iso profile on surfaces
-**** Vector symmetric polynomials
-**** k-graphs, free constructions
-**** iso profile comparison Kahler manifolds
-**** CSF for networks
-**** Perelman pseudo-locality
-**** Degenerate neck-pinches
-**** Ricci flow on warped products
+*** TODO Create projects
+**** NEXT Ricci isoperimetric comparison
+**** TODO Pipe flows
+**** TODO $\alpha$ curve flows
+**** TODO dist. comp. on surfaces
+**** TODO CMC stability
+**** TODO CSF iso profile on surfaces
+**** TODO Vector symmetric polynomials
+**** TODO k-graphs, free constructions
+**** TODO iso profile comparison Kahler manifolds
+**** TODO CSF for networks
+**** TODO Perelman pseudo-locality
+**** TODO Degenerate neck-pinches
+**** TODO Ricci flow on warped products
 
 **** NEXT Set up Bakry-Emery comparison project for weighted iso profile
   CLOCK: [2012-10-25 Thu 14:27]--[2012-10-25 Thu 14:28] =>  0:01
 [2012-10-25 Thu 14:27]
 [[file:~/research_resources/lecture_notes/250C-2012-Ni-UCSD.pdf][250C-2012-Ni-UCSD.pdf]]
 
+*** NEXT Create project tasks
 ** TODO Organise research papers
 *** TODO File hard copies under bib key
 *** NEXT Configure reftex, org-mode to access papers
@@ -112,6 +114,9 @@ See also
 [[http://www.ams.org/mathscinet/help/mr_lookup_help.html][mr_lookup_help]]
 [2012-10-26 Fri 13:01]
 
+** TODO Ricci isoperimetric profile
+*** NEXT Compute high genus comparison
+*** NEXT Copy text from thesis to paper
 * Seminars
 ** DONE Seminars org project
    - State "DONE"       from "TODO"       [2012-10-18 Thu 11:13]
