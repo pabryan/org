@@ -128,44 +128,6 @@ Some money available through colloquia funds?
     :PROPERTIES:
     :ID:       c011fced-9d37-4ac5-bd6e-bb689c3a67f2
     :END:
-** TODO UCSD DG Seminar
-*** DONE 20121025 Talk
-   - State "DONE"       from "TODO"       [2012-10-31 Wed 10:47]
-  CLOCK: [2012-10-17 Wed 10:31]--[2012-10-17 Wed 10:31] =>  0:00
-   :PROPERTIES:
-   :ID:       d31f792f-5123-452d-bca5-f4551f372e00
-   :END:
-[2012-10-17 Wed 10:31]
-[[file:~/working/talks/20121025_ucsd_dg_seminar]]
-*** NEXT Ask Ben about Inviting ZhiQin Lu to speak at DG conference
-[[zlu@math.uci.edu][zlu@math.uci.edu]]
-  CLOCK: [2012-10-25 Thu 11:31]--[2012-10-25 Thu 11:32] =>  0:01
-[2012-10-25 Thu 11:31]
-
-*** DONE Set up reminder for seminar announcement
-    - State "DONE"       from "NEXT"       [2012-11-03 Sat 18:51]
-  CLOCK: [2012-10-26 Fri 15:07]--[2012-10-26 Fri 15:08] =>  0:01
-[2012-10-26 Fri 15:07]
-*** DG Seminar
-    <2012-11-08 Thu 10:00-11:00 +1w -1w>
-*** TODO Send DG seminar email announcement 
-<2012-11-15 Thu +1w>
-**** Email
- [[mailto:seminarstaff@math.ucsd.edu]]
-**** Template
-Speaker: <SPEAKER>
-Home Institution: <INSTITUTION>
-Facult Host: [HOST]
-Date: <DATE>
-Seminar Name: Differential Geometry
-Title: <TITLE>
-Start Time: 10 am
-Location: AP&M 7218
-
-Abstract:
-
-<ABSTRACT>
-
 * Students
 ** Meet Janelle and Ben Chow
 Talk about ancient solutions of curve shortening flow on $S^2$
