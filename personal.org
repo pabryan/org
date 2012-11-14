@@ -444,3 +444,13 @@ Find a good postcast player for android. I want to be able to do offline listeni
 
 
 * Travel
+
+* Quantified Self
+** TODO Track health stats
+*** NEXT Create project for tracking
+*** TODO Determine quantities to track
+*** TODO Determine how to track quantities
+*** TODO Get data into org-mode
+*** TODO Produce graphs
+*** SOMEDAY Datamining: correlations and what-not
+
