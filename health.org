@@ -1,3 +1,4 @@
+#+FILETAGS: HEALTH
 * Exercise							   :EXERCISE:
 
 ** Schedule
@@ -40,9 +41,9 @@
 *** Qi Gong
 *** Tai Ji
 
-* Diet
-* Sleep
-* Vitals
+* Diet								       :DIET:
+* Sleep								      :SLEEP:
+* Vitals							     :VITALS:
 ** Heart Rate
 ** Blood pressure
 ** Weight
