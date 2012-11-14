@@ -84,6 +84,10 @@ Also create any projects and put the under vc
 [[http://lists.gnu.org/archive/html/emacs-orgmode/2012-05/msg00079.html]]
 [[http://sachachua.com/blog/category/quantified/]]
 
+** TODO Generate list of uncommitted working projects for weekly review
+  CLOCK: [2012-11-12 Mon 11:43]--[2012-11-12 Mon 11:44] =>  0:01
+[2012-11-12 Mon 11:43]
+
 * process
 ** TODO Develop organisation process, workflow			   :ANYWHERE:
    :PROPERTIES:
@@ -226,7 +230,6 @@ I want to direct my life better. This involves
 **** Mediation
 **** Convict conditioning
 **** Chinese
-
 **** Cooking
 **** Books
 **** Shows
@@ -326,7 +329,8 @@ Also could have dry snacks, tinned stuff like sardines and so on.
    :ID:       9f49adc3-355c-4ec4-bb31-458b3ab7d12b
    :END:
 [2012-10-16 Tue 10:48]
-** NEXT Bring doorstop to work					       :HOME:
+** DONE Bring doorstop to work					       :HOME:
+   - State "DONE"       from "NEXT"       [2012-11-10 Sat 13:46]
    :PROPERTIES:
    :ID:       27c8bddc-f9d4-48e6-b0ec-5de179e2822b
    :END:
@@ -377,4 +381,9 @@ e.g. [[https://bitbucket.org/jaraco/jaraco.develop/src/819da4c3e702/jaraco/devel
   CLOCK: [2012-11-06 Tue 10:47]--[2012-11-06 Tue 10:48] =>  0:01
 [2012-11-06 Tue 10:47]
 
-* Tools
+** TODO Make email templates
+e.g. seminar announcement
+  CLOCK: [2012-11-09 Fri 10:38]--[2012-11-09 Fri 10:39] =>  0:01
+[2012-11-09 Fri 10:38]
+
+

@@ -2,20 +2,23 @@
 
 * Assistants
 * Conferences
-** NEXT Investigate Tsinghua Sanya conference
+** CANCELLED Investigate Tsinghua Sanya conference
+   - State "CANCELLED"  from "NEXT"       [2012-11-09 Fri 10:30] \\
+     I won't be able to leave Kate and the kids
 [[http://msc.tsinghua.edu.cn/forum2013/][TSIMF]]
   CLOCK: [2012-10-25 Thu 11:30]--[2012-10-25 Thu 11:31] =>  0:01
 [2012-10-25 Thu 11:30]
 
 * Grants
-** TODO Investigate data management plan workshop
+** DONE Investigate data management plan workshop
+   - State "DONE"       from "TODO"       [2012-11-09 Fri 11:20]
 [[http://libraries.ucsd.edu/services/data-curation/data-management-plan/workshop.html][data management plan workshop]]
   CLOCK: [2012-10-19 Fri 14:11]--[2012-10-19 Fri 14:12] =>  0:01
    :PROPERTIES:
    :ID:       26658a79-21fd-4a3b-880c-ee7e7644274d
    :END:
 [2012-10-19 Fri 14:11]
-** TODO Research getting grants
+** SOMEDAY Research getting grants
 I want mostly travel money 
 Can I hire a car so we can all go on a road trip?
 I need books
@@ -27,17 +30,21 @@ I want to do teaching with sage-tex and/or org-mode with babel; i.e. interactive
    :END:
 [2012-10-14 Sun 20:40]
 
+** NSF Data Management Plan Workshop
+Geisel Library room 274
+<2012-11-13 Tue 12:00-13:00>
 * Journals
 [[file:~/working/academic/journals][journals directory]]
 ** DONE Review [[http://www.ams.org/mresubs/download/3559e451969b72ee8/2921651.pdf][paper]]
    - State "DONE"       from "NEXT"       [2012-11-03 Sat 11:02]
    locally it's here [[docview:~/research_resources/papers/MR2921651.pdf::1][MR2921651]]
 * Research
-** TODO Write tutorials on project management, GTD so on for mathematicians, scientists, academics and teachers
+[[file:~/working/academic/research/]]
+** SOMEDAY Write tutorials on project management, GTD so on for mathematicians, scientists, academics and teachers
    :PROPERTIES:
    :ID:       0bc3a3b6-1a25-4b77-aace-ffbd0c69139b
    :END:
-** TODO Preparing/doing research using org-mode
+** SOMEDAY Preparing/doing research using org-mode
 Write a paper on how to do it? Use my own paper preperation as model
   CLOCK: [2012-10-14 Sun 20:42]--[2012-10-14 Sun 20:43] =>  0:01
    :PROPERTIES:
@@ -52,26 +59,28 @@ Need to make project version control and org files linked to from
 gtd. Have some sort of notes folder for each project where I can dump
 blackboard screen shots, scans of notebooks etc.
 *** NEXT Make a "new research project" process
-*** NEXT Create projects
-**** Ricci isoperimetric comparison
-**** Pipe flows
-**** $\alpha$ curve flows
-**** dist. comp. on surfaces
-**** CMC stability
-**** CSF iso profile on surfaces
-**** Vector symmetric polynomials
-**** k-graphs, free constructions
-**** iso profile comparison Kahler manifolds
-**** CSF for networks
-**** Perelman pseudo-locality
-**** Degenerate neck-pinches
-**** Ricci flow on warped products
+[[*New%20Research%20Project][New Research Project]]
+*** TODO Create projects
+**** NEXT Ricci isoperimetric comparison
+**** TODO Pipe flows
+**** TODO $\alpha$ curve flows
+**** TODO dist. comp. on surfaces
+**** TODO CMC stability
+**** TODO CSF iso profile on surfaces
+**** TODO Vector symmetric polynomials
+**** TODO k-graphs, free constructions
+**** TODO iso profile comparison Kahler manifolds
+**** TODO CSF for networks
+**** TODO Perelman pseudo-locality
+**** TODO Degenerate neck-pinches
+**** TODO Ricci flow on warped products
 
 **** NEXT Set up Bakry-Emery comparison project for weighted iso profile
   CLOCK: [2012-10-25 Thu 14:27]--[2012-10-25 Thu 14:28] =>  0:01
 [2012-10-25 Thu 14:27]
 [[file:~/research_resources/lecture_notes/250C-2012-Ni-UCSD.pdf][250C-2012-Ni-UCSD.pdf]]
 
+*** NEXT Create project tasks
 ** TODO Organise research papers
 *** TODO File hard copies under bib key
 *** NEXT Configure reftex, org-mode to access papers
@@ -105,6 +114,9 @@ See also
 [[http://www.ams.org/mathscinet/help/mr_lookup_help.html][mr_lookup_help]]
 [2012-10-26 Fri 13:01]
 
+** TODO Ricci isoperimetric profile
+*** NEXT Compute high genus comparison
+*** NEXT Copy text from thesis to paper
 * Seminars
 ** DONE Seminars org project
    - State "DONE"       from "TODO"       [2012-10-18 Thu 11:13]
@@ -121,26 +133,6 @@ Some money available through colloquia funds?
     :PROPERTIES:
     :ID:       c011fced-9d37-4ac5-bd6e-bb689c3a67f2
     :END:
-** TODO UCSD DG Seminar
-*** DONE 20121025 Talk
-   - State "DONE"       from "TODO"       [2012-10-31 Wed 10:47]
-  CLOCK: [2012-10-17 Wed 10:31]--[2012-10-17 Wed 10:31] =>  0:00
-   :PROPERTIES:
-   :ID:       d31f792f-5123-452d-bca5-f4551f372e00
-   :END:
-[2012-10-17 Wed 10:31]
-[[file:~/working/talks/20121025_ucsd_dg_seminar]]
-*** NEXT Ask Ben about Inviting ZhiQin Lu to speak at DG conference
-[[zlu@math.uci.edu][zlu@math.uci.edu]]
-  CLOCK: [2012-10-25 Thu 11:31]--[2012-10-25 Thu 11:32] =>  0:01
-[2012-10-25 Thu 11:31]
-
-*** DONE Set up reminder for seminar announcement
-    - State "DONE"       from "NEXT"       [2012-11-03 Sat 18:51]
-  CLOCK: [2012-10-26 Fri 15:07]--[2012-10-26 Fri 15:08] =>  0:01
-[2012-10-26 Fri 15:07]
-*** DG Seminar
-<2012-11-08 Thu 10:00-11:00 +1w -1w>
 * Students
 ** Meet Janelle and Ben Chow
 Talk about ancient solutions of curve shortening flow on $S^2$
@@ -149,12 +141,14 @@ Talk about ancient solutions of curve shortening flow on $S^2$
 Talk about ancient solutions of curve shortening flow on $S^2$
 <2012-11-14 Wed 09:00>
 * Tasks
-** TODO Contact Ben Andrews about MCF, geometric evolution eqn's books
+** DONE Contact Ben Andrews about MCF, geometric evolution eqn's books
+   - State "DONE"       from "TODO"       [2012-11-09 Fri 11:47]
   CLOCK: [2012-10-17 Wed 08:23]--[2012-10-17 Wed 08:23] =>  0:00
    :PROPERTIES:
    :ID:       23b5f090-7dcb-4d25-aa13-be5827182c87
    :END:
 [2012-10-17 Wed 08:23]
+
 ** TODO Do ethics training
   DEADLINE: <2012-12-31 Mon -1m>
 [[http://uclearning.ucsd.edu/][http://uclearning.ucsd.edu/]]
@@ -162,6 +156,7 @@ Search for UCGCB-2012
 
   CLOCK: [2012-11-02 Fri 10:36]--[2012-11-02 Fri 10:37] =>  0:01
 [2012-11-02 Fri 10:36]
+
 * Collaborators
 ** Meet Brett Kotschwar
 <2012-11-09 Fri 13:00>
