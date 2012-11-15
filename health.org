@@ -3,12 +3,15 @@
 
 ** Schedule
 *** TODO No Intensity
-    SCHEDULED: <2012-11-14 Wed .+1d/2d>
+    SCHEDULED: <2012-11-18 Sun .+4d/5d>
+    - State "DONE"       from "TODO"       [2012-11-14 Wed 11:16]
 :PROPERTIES:
 :STYLE: habit
+:LAST_REPEAT: [2012-11-15 Thu 11:16]
 :END:
 
 *** TODO Low Intensity
+    SCHEDULED: <2012-11-15 Thu .+4d/5d>
 :PROPERTIES:
 :STYLE: habit
 :END:
