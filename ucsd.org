@@ -181,7 +181,7 @@ Some are here [[http://www.math.ucsd.edu/~lindblad/150a/150a.html]]
    :ID:       ca36acea-9953-4821-88a1-69ed34f77979
    :END:
 ** TODO MATH142B
-*** NEXT Plan MATH142B course
+*** TODO Plan MATH142B course
     SCHEDULED: <2012-12-10 Mon>
 
 ** TODO Summer 2013
@@ -194,7 +194,8 @@ Some are here [[http://www.math.ucsd.edu/~lindblad/150a/150a.html]]
 [[file:~/teaching/summer_2013/SS%202013%20Request-Proposal.doc][file:~/teaching/summer_2013/SS 2013 Request-Proposal.doc]]
 [[file:~/teaching/summer_2013/Summer_Session_Enrollment.pdf]]
 
-**** NEXT Contact Holly, Scott etc. about summer 2013 teaching
+**** DONE Contact Holly, Scott etc. about summer 2013 teaching
+     - State "DONE"       from "NEXT"       [2012-11-15 Thu 11:45]
 **** TODO Choose subjects and submit form
 *** WAITING Plan courses
     - State "WAITING"    from ""           [2012-11-09 Fri 11:58] \\
@@ -240,7 +241,7 @@ Some are here [[http://www.math.ucsd.edu/~lindblad/150a/150a.html]]
    :END:
 [2012-10-17 Wed 10:31]
 [[file:~/working/talks/20121025_ucsd_dg_seminar]]
-*** NEXT Ask Ben about Inviting ZhiQin Lu to speak at DG conference
+*** SOMEDAY Ask Ben about Inviting ZhiQin Lu to speak at DG conference
 [[zlu@math.uci.edu][zlu@math.uci.edu]]
   CLOCK: [2012-10-25 Thu 11:31]--[2012-10-25 Thu 11:32] =>  0:01
 [2012-10-25 Thu 11:31]

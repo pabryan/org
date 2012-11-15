@@ -6,9 +6,9 @@
    :ID:       5196f0ca-ccb1-4fcc-b483-20f3f835838d
    :END:
 ** TODO Set up contexts						   :COMPUTER:
-*** NEXT Create contexts
+*** SOMEDAY Create contexts
 home, computer, office, anywhere, notebook, tablet, phone, errand
-*** NEXT Set up context tags for headings when appropriate
+*** SOMEDAY Set up context tags for headings when appropriate
 e.g. for personal errands I have an errands heading which should have
 the errand tag attached to it and hence any child
 ** TODO Setup mercurial sync and fetch				   :COMPUTER:
@@ -17,7 +17,7 @@ the errand tag attached to it and hence any child
    :ID:       70331fca-6e60-44e7-9069-19e2808a45f5
    :END:
 [2012-10-18 Thu 10:59]
-*** NEXT research mercurial sync
+*** SOMEDAY research mercurial sync
 ** NEXT Get agenda filtering elisp functions into my org setup	   :COMPUTER:
 See [[http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=9&cad=rja&ved=0CEkQFjAI&url=http%3A%2F%2Fdoc.norang.ca%2Forg-mode.html&ei=VmGAUOnkOaTliQLw0ICICQ&usg=AFQjCNHQ1HdTsHALFTFCzKA3VWXmqPg2qA][org-mode tutorial]]
 scheduled todos should not appear in the general list
@@ -55,10 +55,11 @@ will keep reminding me until it's done.
 *** DONE Research how to make a tickler file for org-mode
     - State "DONE"       from "TODO"       [2012-10-26 Fri 15:16]
 ** TODO Set up org-mode calendar				   :COMPUTER:
-*** NEXT Put calendar data into org-mode
-*** NEXT sync with google calendar
+*** SOMEDAY Put calendar data into org-mode
+*** SOMEDAY sync with google calendar
 *** TODO Research org-mode agenda views and how to use it productively
-**** NEXT Learn how to filter org-mode agenda views
+**** DONE Learn how to filter org-mode agenda views
+     - State "DONE"       from "NEXT"       [2012-11-15 Thu 11:46]
 I want to filter out personal tasks at work for example or show only ucsd and academic tasks
 *** TODO Filter out someday tasks
 ** DONE Create someday todo for inactive tasks
@@ -102,21 +103,21 @@ e.g. active projects have next items
 someday things are projects/todos without any next?
 What are my 50000ft to runway goals, principles, priorities etc.
 At the runway (i.e. actions) level, I should have a list of procedures for following when doing common tasks e.g. weekly review
-*** NEXT Brainstorm high level planning
+*** SOMEDAY Brainstorm high level planning
 *** TODO Process for Learning 
 If I want to learn something, e.g. some maths or self-improvement, juggling, etc., make a project for this in org-mode where I can store notes. It would be really nice to be able to put a bookmark in a pdf/ebook and create a link in org-mode to that bookmark.
-**** NEXT Make org-mode checklist for process
-**** NEXT Create folder for storing learning projects
+**** SOMEDAY Make org-mode checklist for process
+**** SOMEDAY Create folder for storing learning projects
   CLOCK: [2012-10-15 Mon 09:47]--[2012-10-15 Mon 09:50] =>  0:03
    :PROPERTIES:
    :ID:       f4126061-82e5-4f60-9063-ab744abea7d0
    :END:
 [2012-10-15 Mon 09:47] 
 
-*** TODO Make processes/procedures
-**** NEXT Make processes org file
-**** NEXT Make weekly review checklist
-**** NEXT Make daily workflow checklist
+*** SOMEDAY Make processes/procedures
+**** SOMEDAY Make processes org file
+**** SOMEDAY Make weekly review checklist
+**** SOMEDAY Make daily workflow checklist
 **** TODO Add task
 **** TODO Referee paper
 **** TODO write paper
@@ -141,8 +142,8 @@ Particularly development!
    :PROPERTIES:
    :ID:       b2f00a6f-4eb6-4129-bbe8-56f1be40359b
    :END:
-*** NEXT Get trays
-*** NEXT Get stationary storage
+*** SOMEDAY Get trays
+*** SOMEDAY Get stationary storage
   CLOCK: [2012-10-14 Sun 19:56]--[2012-10-14 Sun 19:57] =>  0:01
    :PROPERTIES:
    :ID:       72a41c20-d196-4dbd-bb49-fd7e3e5b63d8
@@ -150,8 +151,9 @@ Particularly development!
 [2012-10-14 Sun 19:56]
 ** TODO Set up home for GTD					       :HOME:
 *** TODO Gather materials that need to be organised		       :HOME:
-*** NEXT Get folders from office for home
-** NEXT Move mygtd into refile					   :COMPUTER:
+*** SOMEDAY Get folders from office for home
+** DONE Move mygtd into refile					   :COMPUTER:
+   - State "DONE"       from "NEXT"       [2012-11-15 Thu 11:46]
   CLOCK: [2012-10-15 Mon 22:06]--[2012-10-15 Mon 22:06] =>  0:00
    :PROPERTIES:
    :ID:       29212bbd-9706-4cfc-84ff-d28e43f0f2f8
@@ -172,7 +174,7 @@ Archive the lot! Organise into folders/tags whatever. gmail can be the main repo
    :END:
 [2012-10-15 Mon 09:42]
 ** TODO Create contact db					   :COMPUTER:
-*** NEXT Set up BBDB with emacs
+*** SOMEDAY Set up BBDB with emacs
 *** TODO Enter contacts into BBDB
 **** People to add:
 ***** Bennet
@@ -359,7 +361,7 @@ Also could have dry snacks, tinned stuff like sardines and so on.
 [2012-10-18 Thu 14:24]
 
 ** TODO Setup priorities					   :COMPUTER:
-*** NEXT Research org-mode priorities
+*** SOMEDAY Research org-mode priorities
 
 * Computer setup
 ** NEXT Research Backups for android devices			   :COMPUTER:
