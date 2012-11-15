@@ -51,45 +51,46 @@ Write a paper on how to do it? Use my own paper preperation as model
    :ID:       ade2f502-3a52-4fc7-bdbe-944b7c566c34
    :END:
 [2012-10-14 Sun 20:42]
-** TODO Organise research projects				   :COMPUTER:
+** SOMEDAY Organise research projects				   :COMPUTER:
    :PROPERTIES:
    :ID:       81bb4f28-b031-4061-9092-8e4a24b4b787
    :END:
 Need to make project version control and org files linked to from
 gtd. Have some sort of notes folder for each project where I can dump
 blackboard screen shots, scans of notebooks etc.
-*** NEXT Make a "new research project" process
+*** SOMEDAY Make a "new research project" process
 [[*New%20Research%20Project][New Research Project]]
-*** TODO Create projects
-**** NEXT Ricci isoperimetric comparison
-**** TODO Pipe flows
-**** TODO $\alpha$ curve flows
-**** TODO dist. comp. on surfaces
-**** TODO CMC stability
-**** TODO CSF iso profile on surfaces
-**** TODO Vector symmetric polynomials
-**** TODO k-graphs, free constructions
-**** TODO iso profile comparison Kahler manifolds
-**** TODO CSF for networks
-**** TODO Perelman pseudo-locality
-**** TODO Degenerate neck-pinches
-**** TODO Ricci flow on warped products
+*** SOMEDAY Create projects
+**** DONE Create Ricci isoperimetric comparison project
+     - State "DONE"       from "NEXT"       [2012-11-15 Thu 11:34]
+**** SOMEDAY Pipe flows
+**** SOMEDAY $\alpha$ curve flows
+**** SOMEDAY dist. comp. on surfaces
+**** SOMEDAY CMC stability
+**** SOMEDAY CSF iso profile on surfaces
+**** SOMEDAY Vector symmetric polynomials
+**** SOMEDAY k-graphs, free constructions
+**** SOMEDAY iso profile comparison Kahler manifolds
+**** SOMEDAY CSF for networks
+**** SOMEDAY Perelman pseudo-locality
+**** SOMEDAY Degenerate neck-pinches
+**** SOMEDAY Ricci flow on warped products
 
-**** NEXT Set up Bakry-Emery comparison project for weighted iso profile
+**** SOMEDAY Set up Bakry-Emery comparison project for weighted iso profile
   CLOCK: [2012-10-25 Thu 14:27]--[2012-10-25 Thu 14:28] =>  0:01
 [2012-10-25 Thu 14:27]
 [[file:~/research_resources/lecture_notes/250C-2012-Ni-UCSD.pdf][250C-2012-Ni-UCSD.pdf]]
 
-*** NEXT Create project tasks
-** TODO Organise research papers
-*** TODO File hard copies under bib key
-*** NEXT Configure reftex, org-mode to access papers
+*** SOMEDAY Create project tasks
+** SOMEDAY Organise research papers
+*** SOMEDAY File hard copies under bib key
+*** SOMEDAY Configure reftex, org-mode to access papers
 **** DONE Research setup: see evernote refs to start
      - State "DONE"       from "NEXT"       [2012-10-26 Fri 14:50]
 **** DONE Create org file for recording notes on papers in bib file
      - State "DONE"       from "NEXT"       [2012-10-26 Fri 14:50]
-**** NEXT org-mode create ref should create bib, mr/arxiv links
-*** NEXT pdf scraping tool to create bib entries and rename pdf files
+**** SOMEDAY org-mode create ref should create bib, mr/arxiv links
+*** SOMEDAY pdf scraping tool to create bib entries and rename pdf files
 This should open pdf's, get doi info and then look up the paper details
 online to get bib type info. Then the paper can be renamed, a bib entry
 can be created or downloaded, say from mathscinet or arxiv. I'd aso like this
@@ -102,7 +103,7 @@ See [[http://en.dogeno.us/2010/02/release-a-python-script-for-organizing-scienti
   CLOCK: [2012-10-26 Fri 13:04]--[2012-10-26 Fri 13:06] =>  0:02
 [2012-10-26 Fri 13:04]
 
-*** TODO Write script to auto download from mathscinet, arxiv etc.
+*** SOMEDAY Write script to auto download from mathscinet, arxiv etc.
 The script should get mathscinet info, say a bib file and use the doi
 info to automatically download the pdf file
 Ideally this should be integrated into org-mode
@@ -114,9 +115,10 @@ See also
 [[http://www.ams.org/mathscinet/help/mr_lookup_help.html][mr_lookup_help]]
 [2012-10-26 Fri 13:01]
 
-** TODO Ricci isoperimetric profile
-*** NEXT Compute high genus comparison
+** TODO Ricci isoperimetric profile :RICCI_ISO_COMP:
+*** NEXT Compute high genus comparison			     
 *** NEXT Copy text from thesis to paper
+*** NEXT Transcribe from notebooks into computer
 * Seminars
 ** DONE Seminars org project
    - State "DONE"       from "TODO"       [2012-10-18 Thu 11:13]
@@ -129,7 +131,7 @@ Some money available through colloquia funds?
    :ID:       e922bc74-823a-4909-83a9-fbc7b63a93d7
    :END:
 [2012-10-14 Sun 20:39]
-*** NEXT Contact Ben, Lei and/or Peter about funding/process
+*** SOMEDAY Contact Ben, Lei and/or Peter about funding/process
     :PROPERTIES:
     :ID:       c011fced-9d37-4ac5-bd6e-bb689c3a67f2
     :END:
