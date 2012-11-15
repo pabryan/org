@@ -88,6 +88,9 @@ Also create any projects and put the under vc
   CLOCK: [2012-11-12 Mon 11:43]--[2012-11-12 Mon 11:44] =>  0:01
 [2012-11-12 Mon 11:43]
 
+** TODO Fix up clocking in/out on mobileorg
+[2012-11-13 Tue 19:51]
+
 * process
 ** TODO Develop organisation process, workflow			   :ANYWHERE:
    :PROPERTIES:
@@ -199,7 +202,7 @@ Archive the lot! Organise into folders/tags whatever. gmail can be the main repo
   CLOCK: [2012-11-06 Tue 08:33]--[2012-11-06 Tue 08:34] =>  0:01
 [2012-11-06 Tue 08:33]
 
-** TODO Manage Life
+** SOMEDAY Manage Life
 
 I want to direct my life better. This involves
  
@@ -221,7 +224,7 @@ I want to direct my life better. This involves
 
   CLOCK: [2012-11-06 Tue 14:58]--[2012-11-06 Tue 15:30] =>  0:32
 [2012-11-06 Tue 14:58]
-*** TODO Record habits
+*** SOMEDAY Record habits
 **** Tai Chi
 **** Qi Qong
 **** IntuFlow
@@ -234,7 +237,7 @@ I want to direct my life better. This involves
 **** Books
 **** Shows
 **** Chess
-*** TODO Set goals
+*** SOMEDAY Set goals
 Set long term goals and short term goals. Have say the weeks/months goals in org-mode and use these a guide to choosing tasks.
 **** Health
 ***** Build physical strength
@@ -275,7 +278,7 @@ Set long term goals and short term goals. Have say the weeks/months goals in org
 ***** emacs
 ***** android
 ***** computational
-*** TODO Quantified self
+*** SOMEDAY Quantified self
 **** Record how I use my time
 I'll need to say use my phone to collect the data. I need something easy to clock in and out of an activity, like transit-shops, transit-uni, transit-home, house-cleaning, teaching-lecturing, teaching-preperation etc.
 
@@ -285,24 +288,20 @@ I'll need to say use my phone to collect the data. I need something easy to cloc
 **** Record heart rate
 **** Record finances such as groceries etc.
 
-*** TODO Maintain references
+*** SOMEDAY Maintain references
 I want to hang on to emails, articles and so on. I want to keep receipts, ideas and a diary of what I've done. These need to be kept in a filing system somehow, most probaby using org-mode and memacs.
-
-
-
-*** TODO Reviews
+** Reviews
 Here I look at my goals, my tasks and how I've been spending my time and use that information to plan out the coming week/month/year etc.
 **** Weekly
 **** Monthly
 **** 6 monthly?
 **** yearly
 **** 5 years?
-*** TODO Schedule tasks
+** Schedule tasks
 **** Set next tasks
 **** Capture tasks as I think of them
 **** Refile tasks a couple of times a day
-**** Use property drawers to associate tasks with goals
-
+**** Use property drawers to associate tasks with goal
 * office layout
 ** NEXT get a cloth or coasters for office			     :ERRAND:
   CLOCK: [2012-10-15 Mon 09:36]--[2012-10-15 Mon 09:36] =>  0:00

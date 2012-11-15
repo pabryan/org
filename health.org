@@ -17,20 +17,23 @@
 :END:
 
 *** TODO Mod Intensity
+    SCHEDULED: <2012-11-16 Fri .+4d/5d>
 :PROPERTIES:
 :STYLE: habit
 :END:
 
 *** TODO High Intensity
+    SCHEDULED: <2012-11-17 Sat .+4d/5d>
 :PROPERTIES:
 :STYLE: habit
 :END:
 
+
 ** Log
 *** Intuflow
-| Date | HR Before | HR After |
-|------+-----------+----------|
-|      |           |          |
+| Date | Rest HR | Final HR |
+|------+---------+----------|
+|      |         |          |
 *** Flowphysique
 **** Level 1
 ***** [20/10X8+60]6
@@ -43,7 +46,6 @@
 *** Thrive flow
 *** Qi Gong
 *** Tai Ji
-
 * Diet								       :DIET:
 * Sleep								      :SLEEP:
 * Vitals							     :VITALS:
@@ -52,3 +54,7 @@
 ** Weight
 ** Control Pause
 ** Temperature
+** Mood 
+
+
+
