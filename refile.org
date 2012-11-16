@@ -3,9 +3,13 @@
 
 
 * NEXT Meditate
+  :LOGBOOK:
+  CLOCK: [2012-11-16 Fri 13:40]
+  :END:
 [2012-11-16 Fri 13:39]
-SCHEDULED: <2012-11-16 Fri> .+1d/2d
+SCHEDULED: <2012-11-16 Fri .+1d/2d>
 :PROPERTIES:
 :STYLE: habit
 :REPEAT_TO_STATE: NEXT
+:ID: e2e6b51c-d085-4668-ac4f-9d7e13df147d
 :END:
