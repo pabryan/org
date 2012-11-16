@@ -12,11 +12,13 @@
    :ID:       b8272ed8-867f-4d48-9ef0-31685b7fdd1e
    :END:
   [2012-11-07 Wed 12:57]
-*** NEXT Check Amazon wish list
+*** DONE Check Amazon wish list
+    - State "DONE"       from "NEXT"       [2012-11-16 Fri 14:24]
     :PROPERTIES:
     :ID:       9b016383-2b40-49f7-950a-aa1af5264d1b
     :END:
-*** NEXT Ask Kate what she wants to do on b'day
+*** DONE Ask Kate what she wants to do on b'day
+    - State "DONE"       from "NEXT"       [2012-11-16 Fri 14:25]
     :PROPERTIES:
     :ID:       2c20fc50-3af4-4b81-affc-f694142a8e02
     :END:
@@ -31,7 +33,14 @@ what's for dinner/lunch?
     :ID:       9f11bf2f-1674-4984-8a72-d4dcbe00329b
     :END:
 *** NEXT Ask kids what to give Kate
+    - State "NEXT"       from "DONE"       [2012-11-16 Fri 14:25]
+    - State "DONE"       from "NEXT"       [2012-11-16 Fri 14:25]
     :PROPERTIES:
     :ID:       71117a68-aebd-4727-ada3-d8358b75f786
     :END:
 
+*** NEXT Plan dinner
+    :PROPERTIES:
+    :ID:       d8a1f0fe-4322-4d1b-8726-33292beb7104
+    :END:
+Cheesecake factory or home dinner?
