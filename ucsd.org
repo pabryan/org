@@ -48,6 +48,9 @@ Use a course as a guinea pig for using the method
 [2012-10-14 Sun 20:43]
 
 ** TODO MATH150A Fall 2012
+   :LOGBOOK:
+   CLOCK: [2012-11-16 Fri 10:19]--[2012-11-16 Fri 10:30] =>  0:11
+   :END:
    :PROPERTIES:
    :CATEGORY: MATH150A FALL2012
    :ID:       7b8cd00b-6f86-4280-a4c6-8cbdd0dcfc87
@@ -152,25 +155,32 @@ Some are here [[http://www.math.ucsd.edu/~lindblad/150a/150a.html]]
 [2012-10-18 Thu 10:44]
 
 *** TODO Meet Bo Yang
-    SCHEDULED: <2012-11-16 Fri 10:00 +1w>
+    SCHEDULED: <2012-11-23 Fri 10:00 +1w>
+    - State "DONE"       from "TODO"       [2012-11-16 Fri 10:31]
     - State "DONE"       from "TODO"       [2012-11-09 Fri 10:23]
     - State "DONE"       from "TODO"       [2012-11-02 Fri 10:37]
     - State "DONE"       from "TODO"       [2012-10-26 Fri 13:08]
     - State "DONE"       from "TODO"       [2012-10-23 Tue 11:24]
     :PROPERTIES:
     :ID:       c8e2450b-bf17-4295-acdf-371ed5abd3d1
-    :LAST_REPEAT: [2012-11-09 Fri 10:23]
+    :LAST_REPEAT: [2012-11-16 Fri 10:31]
     :END:
 *** TODO Write final exam
     :PROPERTIES:
     :ID:       73452825-970d-45dd-ac02-a1d16565b9d0
     :END:
-*** NEXT Prepare week 6 lectures
+*** DONE Prepare week 6 lectures
+    - State "DONE"       from "NEXT"       [2012-11-16 Fri 10:31]
     :PROPERTIES:
     :ID:       23d07dfe-deb0-4d41-847d-1e5794e95f90
     :END:
-
-
+*** NEXT Prepare week 7 lectures
+    :LOGBOOK:
+    CLOCK: [2012-11-16 Fri 10:32]
+    :END:
+    :PROPERTIES:
+    :ID:       31708543-605b-4ed1-8684-9717203bb8f0
+    :END:
 *** TODO Remind students to fill in CAPE forms
     :PROPERTIES:
     :ID:       069d6e27-50e2-4ca8-a675-6a81c0a6c189

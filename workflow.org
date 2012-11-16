@@ -561,6 +561,8 @@ e.g. seminar announcement
   :END:
 ** Organiation
    :LOGBOOK:
+   CLOCK: [2012-11-16 Fri 10:30]--[2012-11-16 Fri 10:32] =>  0:02
+   CLOCK: [2012-11-16 Fri 10:16]--[2012-11-16 Fri 10:19] =>  0:03
    CLOCK: [2012-11-15 Thu 14:24]--[2012-11-15 Thu 14:26] =>  0:02
    CLOCK: [2012-11-15 Thu 13:38]--[2012-11-15 Thu 13:56] =>  0:18
    :END:
