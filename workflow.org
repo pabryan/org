@@ -1,14 +1,26 @@
 #+FILETAGS: WORKFLOW
 
 * org-mode
+  :PROPERTIES:
+  :ID:       c68e08d3-cbfa-4207-a6e5-f56a3be57ad1
+  :END:
 ** NEXT Set up level 1 headings (with properties)		   :COMPUTER:
    :PROPERTIES:
    :ID:       5196f0ca-ccb1-4fcc-b483-20f3f835838d
    :END:
 ** TODO Set up contexts						   :COMPUTER:
+   :PROPERTIES:
+   :ID:       b44f91a4-abd0-459c-bfe9-c103641be8dd
+   :END:
 *** SOMEDAY Create contexts
+    :PROPERTIES:
+    :ID:       40f05fb2-aa64-4d0b-a747-3c4b66d2ec93
+    :END:
 home, computer, office, anywhere, notebook, tablet, phone, errand
 *** SOMEDAY Set up context tags for headings when appropriate
+    :PROPERTIES:
+    :ID:       9e0b76ca-c5e7-4bd5-bcb4-12f4995eceed
+    :END:
 e.g. for personal errands I have an errands heading which should have
 the errand tag attached to it and hence any child
 ** TODO Setup mercurial sync and fetch				   :COMPUTER:
@@ -18,6 +30,9 @@ the errand tag attached to it and hence any child
    :END:
 [2012-10-18 Thu 10:59]
 *** SOMEDAY research mercurial sync
+    :PROPERTIES:
+    :ID:       8f7d4e32-982c-4f0a-9cd0-d267c269b172
+    :END:
 ** NEXT Get agenda filtering elisp functions into my org setup	   :COMPUTER:
 See [[http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=9&cad=rja&ved=0CEkQFjAI&url=http%3A%2F%2Fdoc.norang.ca%2Forg-mode.html&ei=VmGAUOnkOaTliQLw0ICICQ&usg=AFQjCNHQ1HdTsHALFTFCzKA3VWXmqPg2qA][org-mode tutorial]]
 scheduled todos should not appear in the general list
@@ -36,6 +51,9 @@ scheduled todos should not appear in the general list
 See [[http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=9&cad=rja&ved=0CEkQFjAI&url=http%3A%2F%2Fdoc.norang.ca%2Forg-mode.html&ei=VmGAUOnkOaTliQLw0ICICQ&usg=AFQjCNHQ1HdTsHALFTFCzKA3VWXmqPg2qA][org-mode tutorial]]
 ** NEXT Set up syncing org-mode and mobile org
   CLOCK: [2012-10-21 Sun 17:26]--[2012-10-21 Sun 17:26] =>  0:00
+   :PROPERTIES:
+   :ID:       31c5396f-656c-4ea7-9139-f5e99dda5b0b
+   :END:
 [2012-10-21 Sun 17:26]
 [[https://github.com/matburt/mobileorg-android/wiki/FAQ][syncing instructions]]
 ** DONE Configure tasks for later				   :COMPUTER:
@@ -55,13 +73,28 @@ will keep reminding me until it's done.
 *** DONE Research how to make a tickler file for org-mode
     - State "DONE"       from "TODO"       [2012-10-26 Fri 15:16]
 ** TODO Set up org-mode calendar				   :COMPUTER:
+   :PROPERTIES:
+   :ID:       41700872-750b-4b16-9f38-069e8041bb2b
+   :END:
 *** SOMEDAY Put calendar data into org-mode
+    :PROPERTIES:
+    :ID:       c69116a8-6655-4429-bbac-73a314ef2967
+    :END:
 *** SOMEDAY sync with google calendar
+    :PROPERTIES:
+    :ID:       f1a7f408-27b3-44ab-b0f2-73ec079976df
+    :END:
 *** TODO Research org-mode agenda views and how to use it productively
+    :PROPERTIES:
+    :ID:       358d2a2c-f8ac-485d-946e-c5e89097e1e9
+    :END:
 **** DONE Learn how to filter org-mode agenda views
      - State "DONE"       from "NEXT"       [2012-11-15 Thu 11:46]
 I want to filter out personal tasks at work for example or show only ucsd and academic tasks
 *** TODO Filter out someday tasks
+    :PROPERTIES:
+    :ID:       907b0751-6098-4034-8dc0-0b3c3b75a268
+    :END:
 ** DONE Create someday todo for inactive tasks
    - State "DONE"       from "TODO"       [2012-10-29 Mon 10:40]
   CLOCK: [2012-10-26 Fri 15:06]--[2012-10-26 Fri 15:07] =>  0:01
@@ -70,15 +103,24 @@ I want to filter out personal tasks at work for example or show only ucsd and ac
 ** TODO Make refs and working structure to reflect org structure
 Also create any projects and put the under vc
   CLOCK: [2012-11-03 Sat 11:28]--[2012-11-03 Sat 11:28] =>  0:00
+   :PROPERTIES:
+   :ID:       63332550-a9dc-45c1-aca7-094e9c14cd00
+   :END:
 [2012-11-03 Sat 11:28]
 
 ** TODO Check out org-contacts
   CLOCK: [2012-11-03 Sat 19:28]--[2012-11-03 Sat 19:28] =>  0:00
+   :PROPERTIES:
+   :ID:       8aa779ca-ab20-4473-8b51-0a9826ad16be
+   :END:
 [2012-11-03 Sat 19:28]
 [[http://julien.danjou.info/projects/emacs-packages#org-contacts]]
 
 ** TODO Check out quantified self
   CLOCK: [2012-11-03 Sat 19:29]--[2012-11-03 Sat 19:30] =>  0:01
+   :PROPERTIES:
+   :ID:       aad86e16-f3f5-4cbb-84a1-f7a6abf0825d
+   :END:
 [2012-11-03 Sat 19:29]
 [[http://lists.gnu.org/archive/html/emacs-orgmode/2012-06/msg00405.html]]
 [[http://quantifiedself.com/about/]]
@@ -87,12 +129,21 @@ Also create any projects and put the under vc
 
 ** TODO Generate list of uncommitted working projects for weekly review
   CLOCK: [2012-11-12 Mon 11:43]--[2012-11-12 Mon 11:44] =>  0:01
+   :PROPERTIES:
+   :ID:       88df0e6b-0854-49f2-b0f3-78298e050cb2
+   :END:
 [2012-11-12 Mon 11:43]
 
 ** TODO Fix up clocking in/out on mobileorg
+   :PROPERTIES:
+   :ID:       7eea46e9-8678-4c94-a108-d3a2289abb63
+   :END:
 [2012-11-13 Tue 19:51]
 
 * process
+  :PROPERTIES:
+  :ID:       403ba6c9-9a32-430c-b0c9-0b09f2eba44e
+  :END:
 ** TODO Develop organisation process, workflow			   :ANYWHERE:
    :PROPERTIES:
    :ID:       a96c63f6-2ee8-4042-ae7c-3f7d5bc3493e
@@ -104,9 +155,18 @@ someday things are projects/todos without any next?
 What are my 50000ft to runway goals, principles, priorities etc.
 At the runway (i.e. actions) level, I should have a list of procedures for following when doing common tasks e.g. weekly review
 *** SOMEDAY Brainstorm high level planning
-*** TODO Process for Learning 
+    :PROPERTIES:
+    :ID:       56cc0a65-e6e2-4a43-9eff-d5b9a764f2b4
+    :END:
+*** TODO Process for Learning
+    :PROPERTIES:
+    :ID:       83f37a23-6ab0-4755-8306-39155dc66455
+    :END: 
 If I want to learn something, e.g. some maths or self-improvement, juggling, etc., make a project for this in org-mode where I can store notes. It would be really nice to be able to put a bookmark in a pdf/ebook and create a link in org-mode to that bookmark.
 **** SOMEDAY Make org-mode checklist for process
+     :PROPERTIES:
+     :ID:       8722888d-f0b7-47bf-b2b9-c63e6db2275d
+     :END:
 **** SOMEDAY Create folder for storing learning projects
   CLOCK: [2012-10-15 Mon 09:47]--[2012-10-15 Mon 09:50] =>  0:03
    :PROPERTIES:
@@ -115,19 +175,49 @@ If I want to learn something, e.g. some maths or self-improvement, juggling, etc
 [2012-10-15 Mon 09:47] 
 
 *** SOMEDAY Make processes/procedures
+    :PROPERTIES:
+    :ID:       fda5310e-8964-47c0-9864-cc3aa70b7f4d
+    :END:
 **** SOMEDAY Make processes org file
+     :PROPERTIES:
+     :ID:       aad12764-f51e-4b57-aeb2-23b4a69c6df2
+     :END:
 **** SOMEDAY Make weekly review checklist
+     :PROPERTIES:
+     :ID:       85435e1c-6adb-45f9-9a6d-bee46ce10a01
+     :END:
 **** SOMEDAY Make daily workflow checklist
+     :PROPERTIES:
+     :ID:       8f83463d-6ae8-4e9e-bf7f-a0381aaec54b
+     :END:
 **** TODO Add task
+     :PROPERTIES:
+     :ID:       7e90c359-c1ed-43c4-aa84-c66cf3d270e5
+     :END:
 **** TODO Referee paper
+     :PROPERTIES:
+     :ID:       94c9900d-60e4-4006-8e95-3c7e7894ccf7
+     :END:
 **** TODO write paper
+     :PROPERTIES:
+     :ID:       fce0e35e-d58e-4faa-80cf-d29a69116246
+     :END:
 **** TODO prepare course
+     :PROPERTIES:
+     :ID:       ff2df9c9-894e-4aa7-9279-d80dec54de65
+     :END:
 **** TODO Automoate getting updates from arxiv
 what about journals? Do they have rss?
   CLOCK: [2012-10-19 Fri 10:04]--[2012-10-19 Fri 10:05] =>  0:01
+     :PROPERTIES:
+     :ID:       c296457e-a3d5-49e2-a5fc-f857052eb15b
+     :END:
 [2012-10-19 Fri 10:04]
 
 **** TODO Make seminar process an org-mode checklist
+     :PROPERTIES:
+     :ID:       c4e43475-1bff-4967-af3b-72bdfaa50a20
+     :END:
 update website
 send announcement
 maintain email list of speakers, participants
@@ -137,12 +227,18 @@ to the admin people.
 *** TODO Set up reference filing
 Particularly development!
   CLOCK: [2012-10-21 Sun 17:24]--[2012-10-21 Sun 17:24] =>  0:00
+    :PROPERTIES:
+    :ID:       96df27fa-64c5-432b-a2c3-9664e37014a6
+    :END:
 [2012-10-21 Sun 17:24]
 ** TODO Set up office like in GTD such as trays, clips etc.	     :OFFICE:
    :PROPERTIES:
    :ID:       b2f00a6f-4eb6-4129-bbe8-56f1be40359b
    :END:
 *** SOMEDAY Get trays
+    :PROPERTIES:
+    :ID:       3f08a61e-4dad-4d70-abb5-d0e85e71d357
+    :END:
 *** SOMEDAY Get stationary storage
   CLOCK: [2012-10-14 Sun 19:56]--[2012-10-14 Sun 19:57] =>  0:01
    :PROPERTIES:
@@ -150,8 +246,17 @@ Particularly development!
    :END:
 [2012-10-14 Sun 19:56]
 ** TODO Set up home for GTD					       :HOME:
+   :PROPERTIES:
+   :ID:       bbef76b0-b858-474c-a3ff-cdde19189cfd
+   :END:
 *** TODO Gather materials that need to be organised		       :HOME:
+    :PROPERTIES:
+    :ID:       8e67efe6-712f-49cf-9f55-b5c8656149bd
+    :END:
 *** SOMEDAY Get folders from office for home
+    :PROPERTIES:
+    :ID:       053596a1-3c7f-4225-a03a-9416b37d894b
+    :END:
 ** DONE Move mygtd into refile					   :COMPUTER:
    - State "DONE"       from "NEXT"       [2012-11-15 Thu 11:46]
   CLOCK: [2012-10-15 Mon 22:06]--[2012-10-15 Mon 22:06] =>  0:00
@@ -174,8 +279,17 @@ Archive the lot! Organise into folders/tags whatever. gmail can be the main repo
    :END:
 [2012-10-15 Mon 09:42]
 ** TODO Create contact db					   :COMPUTER:
+   :PROPERTIES:
+   :ID:       a3636804-e3d4-44e3-8872-13a3daac919b
+   :END:
 *** SOMEDAY Set up BBDB with emacs
+    :PROPERTIES:
+    :ID:       bbd84d11-e23b-42b6-bd04-be9f6af128f4
+    :END:
 *** TODO Enter contacts into BBDB
+    :PROPERTIES:
+    :ID:       8c01e987-6ae4-4368-9109-ccadb7a56fe0
+    :END:
 **** People to add:
 ***** Bennet
 ***** Lei
@@ -192,16 +306,28 @@ Archive the lot! Organise into folders/tags whatever. gmail can be the main repo
 ***** Janet Engebretsen
 ***** Friend and family
 *** TODO Sync BBDB with google, phone etc.
+    :PROPERTIES:
+    :ID:       42384e87-7e0e-4abc-97d3-e1773f899d54
+    :END:
 ** TODO check out "The brain"
 [[http://www.thebrain.com/]]
   CLOCK: [2012-11-03 Sat 19:49]--[2012-11-03 Sat 19:49] =>  0:00
+   :PROPERTIES:
+   :ID:       b499248f-f377-472e-b64b-81f706aad21c
+   :END:
 [2012-11-03 Sat 19:49]
 ** TODO Check out "The Brain"
 [[http://www.thebrain.com/]]
   CLOCK: [2012-11-03 Sat 19:48]--[2012-11-03 Sat 19:48] =>  0:00
+   :PROPERTIES:
+   :ID:       d2bd33bc-bb46-4011-944e-ea5c670ee8e4
+   :END:
 [2012-11-03 Sat 19:48]
 ** TODO Make list of all projects to VC
   CLOCK: [2012-11-06 Tue 08:33]--[2012-11-06 Tue 08:34] =>  0:01
+   :PROPERTIES:
+   :ID:       6465f33f-6ee5-40b6-93d3-222551feba01
+   :END:
 [2012-11-06 Tue 08:33]
 
 ** SOMEDAY Manage Life
@@ -225,8 +351,14 @@ I want to direct my life better. This involves
   - plan tasks to meet goals
 
   CLOCK: [2012-11-06 Tue 14:58]--[2012-11-06 Tue 15:30] =>  0:32
+   :PROPERTIES:
+   :ID:       850b0057-6b68-451d-a4b2-cbf8012e25c6
+   :END:
 [2012-11-06 Tue 14:58]
 *** SOMEDAY Record habits
+    :PROPERTIES:
+    :ID:       bde471f6-a45d-43a8-9bd2-03827862c7c5
+    :END:
 **** Tai Chi
 **** Qi Qong
 **** IntuFlow
@@ -240,6 +372,9 @@ I want to direct my life better. This involves
 **** Shows
 **** Chess
 *** SOMEDAY Set goals
+    :PROPERTIES:
+    :ID:       e01b4e75-1481-48be-a05b-f2f3516e1a44
+    :END:
 Set long term goals and short term goals. Have say the weeks/months goals in org-mode and use these a guide to choosing tasks.
 **** Health
 ***** Build physical strength
@@ -281,6 +416,9 @@ Set long term goals and short term goals. Have say the weeks/months goals in org
 ***** android
 ***** computational
 *** SOMEDAY Quantified self
+    :PROPERTIES:
+    :ID:       90a5676f-ef85-49e2-9a9d-81259fa21719
+    :END:
 **** Record how I use my time
 I'll need to say use my phone to collect the data. I need something easy to clock in and out of an activity, like transit-shops, transit-uni, transit-home, house-cleaning, teaching-lecturing, teaching-preperation etc.
 
@@ -291,6 +429,9 @@ I'll need to say use my phone to collect the data. I need something easy to cloc
 **** Record finances such as groceries etc.
 
 *** SOMEDAY Maintain references
+    :PROPERTIES:
+    :ID:       3fb84c1c-628a-4fa3-8408-e2dc3233d729
+    :END:
 I want to hang on to emails, articles and so on. I want to keep receipts, ideas and a diary of what I've done. These need to be kept in a filing system somehow, most probaby using org-mode and memacs.
 ** Reviews
 Here I look at my goals, my tasks and how I've been spending my time and use that information to plan out the coming week/month/year etc.
@@ -305,6 +446,9 @@ Here I look at my goals, my tasks and how I've been spending my time and use tha
 **** Refile tasks a couple of times a day
 **** Use property drawers to associate tasks with goal
 * office layout
+  :PROPERTIES:
+  :ID:       827968af-420f-40a1-ac2d-4bbe7192cbc1
+  :END:
 ** NEXT get a cloth or coasters for office			     :ERRAND:
   CLOCK: [2012-10-15 Mon 09:36]--[2012-10-15 Mon 09:36] =>  0:00
    :PROPERTIES:
@@ -361,30 +505,62 @@ Also could have dry snacks, tinned stuff like sardines and so on.
 [2012-10-18 Thu 14:24]
 
 ** TODO Setup priorities					   :COMPUTER:
+   :PROPERTIES:
+   :ID:       c19772cf-4ad2-4f13-ac01-0c2eebb909f9
+   :END:
 *** SOMEDAY Research org-mode priorities
+    :PROPERTIES:
+    :ID:       0e0ec6e9-ce54-49ca-924b-dc9957f63d33
+    :END:
 
 * Computer setup
+  :PROPERTIES:
+  :ID:       2caac482-7221-4934-a479-25d3cbb12d55
+  :END:
 ** NEXT Research Backups for android devices			   :COMPUTER:
 What do I need to backup? I try to keep data in the cloud. I guess saved games and whatnot would be good to keep. Also there is some config, at least a list of apps!
   CLOCK: [2012-10-24 Wed 12:27]--[2012-10-24 Wed 12:27] =>  0:00
+   :PROPERTIES:
+   :ID:       59b371f4-3708-40db-a32e-2bf83394ea77
+   :END:
 [2012-10-24 Wed 12:27]
 
 ** NEXT Pull everything but backups out of Ubuntu One		   :NOTEBOOK:
   CLOCK: [2012-10-24 Wed 12:17]--[2012-10-24 Wed 12:17] =>  0:00
+   :PROPERTIES:
+   :ID:       393c557e-0c34-4859-b323-80a309c3a934
+   :END:
 [2012-10-24 Wed 12:17]
 Copy the files to Dropbox instead
 ** NEXT Get notebook working files into dropbox			   :NOTEBOOK:
   CLOCK: [2012-10-24 Wed 12:18]--[2012-10-24 Wed 12:18] =>  0:00
+   :PROPERTIES:
+   :ID:       6a84db69-d1d3-4fc1-aefb-bb6f1daf4393
+   :END:
 [2012-10-24 Wed 12:18]
 
 ** TODO Work out some way to keep up to date with people's scripts
 e.g. [[https://bitbucket.org/jaraco/jaraco.develop/src/819da4c3e702/jaraco/develop/bitbucket.py?at=default]]
   CLOCK: [2012-11-06 Tue 10:47]--[2012-11-06 Tue 10:48] =>  0:01
+   :PROPERTIES:
+   :ID:       8893f598-ba78-46af-a69e-cd96c12ebcb9
+   :END:
 [2012-11-06 Tue 10:47]
 
 ** TODO Make email templates
 e.g. seminar announcement
   CLOCK: [2012-11-09 Fri 10:38]--[2012-11-09 Fri 10:39] =>  0:01
+   :PROPERTIES:
+   :ID:       16b80048-d170-4695-bc62-3b64e54f41be
+   :END:
 [2012-11-09 Fri 10:38]
 
 
+* Tasks
+  :PROPERTIES:
+  :ID:       4257fe31-e606-4ca9-a848-858379409679
+  :END:
+** Organiation
+:PROPERTIES:
+:CLOCK_MODELINE_TOTAL: today
+:END:
