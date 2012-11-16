@@ -1,7 +1,13 @@
 #+FILETAGS: ACADEMIC
 
 * Assistants
+  :PROPERTIES:
+  :ID:       4235f992-1c31-41a0-8b53-ee74a98a63f6
+  :END:
 * Conferences
+  :PROPERTIES:
+  :ID:       0b248098-9b93-479a-8c9b-546c325e6231
+  :END:
 ** CANCELLED Investigate Tsinghua Sanya conference
    - State "CANCELLED"  from "NEXT"       [2012-11-09 Fri 10:30] \\
      I won't be able to leave Kate and the kids
@@ -10,6 +16,9 @@
 [2012-10-25 Thu 11:30]
 
 * Grants
+  :PROPERTIES:
+  :ID:       9a1d61fa-6dcc-405f-b879-9412a6cb1c47
+  :END:
 ** DONE Investigate data management plan workshop
    - State "DONE"       from "TODO"       [2012-11-09 Fri 11:20]
 [[http://libraries.ucsd.edu/services/data-curation/data-management-plan/workshop.html][data management plan workshop]]
@@ -31,14 +40,23 @@ I want to do teaching with sage-tex and/or org-mode with babel; i.e. interactive
 [2012-10-14 Sun 20:40]
 
 ** NSF Data Management Plan Workshop
+   :PROPERTIES:
+   :ID:       b44755f0-f524-4a52-9c1c-59c1d68ab3c5
+   :END:
 Geisel Library room 274
 <2012-11-13 Tue 12:00-13:00>
 * Journals
+  :PROPERTIES:
+  :ID:       befc3eb8-1613-4ad7-b07f-d3190d33a71a
+  :END:
 [[file:~/working/academic/journals][journals directory]]
 ** DONE Review [[http://www.ams.org/mresubs/download/3559e451969b72ee8/2921651.pdf][paper]]
    - State "DONE"       from "NEXT"       [2012-11-03 Sat 11:02]
    locally it's here [[docview:~/research_resources/papers/MR2921651.pdf::1][MR2921651]]
 * Research
+  :PROPERTIES:
+  :ID:       44348474-b144-4b4b-a046-12439b2f7727
+  :END:
 [[file:~/working/academic/research/]]
 ** SOMEDAY Write tutorials on project management, GTD so on for mathematicians, scientists, academics and teachers
    :PROPERTIES:
@@ -59,37 +77,97 @@ Need to make project version control and org files linked to from
 gtd. Have some sort of notes folder for each project where I can dump
 blackboard screen shots, scans of notebooks etc.
 *** SOMEDAY Make a "new research project" process
+    :PROPERTIES:
+    :ID:       3c0d5b9a-a43e-48b2-9f24-b8acd1e9fa2b
+    :END:
 [[*New%20Research%20Project][New Research Project]]
 *** SOMEDAY Create projects
+    :PROPERTIES:
+    :ID:       3679901e-c496-4a9f-924a-207740991872
+    :END:
 **** DONE Create Ricci isoperimetric comparison project
      - State "DONE"       from "NEXT"       [2012-11-15 Thu 11:34]
 **** SOMEDAY Pipe flows
+     :PROPERTIES:
+     :ID:       2bc3d2a2-8b2c-4636-98e6-e7f706928197
+     :END:
 **** SOMEDAY $\alpha$ curve flows
+     :PROPERTIES:
+     :ID:       00ef60be-5926-4072-96a8-c22d4f7ea90e
+     :END:
 **** SOMEDAY dist. comp. on surfaces
+     :PROPERTIES:
+     :ID:       11689ca3-faa5-4d49-b1c1-6addab57a7e9
+     :END:
 **** SOMEDAY CMC stability
+     :PROPERTIES:
+     :ID:       b724a6ef-9e89-4dcc-bfe4-89fcbd3bab7b
+     :END:
 **** SOMEDAY CSF iso profile on surfaces
+     :PROPERTIES:
+     :ID:       9ee2ebcd-0f17-4619-93fb-c1a2e29d06ec
+     :END:
 **** SOMEDAY Vector symmetric polynomials
+     :PROPERTIES:
+     :ID:       d9c6bddd-3830-4b32-9ada-d05898e6320d
+     :END:
 **** SOMEDAY k-graphs, free constructions
+     :PROPERTIES:
+     :ID:       5e2ef951-6230-4b67-bd5c-51c5c02d3fcf
+     :END:
 **** SOMEDAY iso profile comparison Kahler manifolds
+     :PROPERTIES:
+     :ID:       d524b0fb-f936-4247-9ee0-5874bab944ab
+     :END:
 **** SOMEDAY CSF for networks
+     :PROPERTIES:
+     :ID:       9be71d41-df08-4346-b00f-2d633f566ae7
+     :END:
 **** SOMEDAY Perelman pseudo-locality
+     :PROPERTIES:
+     :ID:       fdcdf39f-b631-4190-bb88-8be7b39531a3
+     :END:
 **** SOMEDAY Degenerate neck-pinches
+     :PROPERTIES:
+     :ID:       ae6e0aa8-e25c-4786-8804-807a8e71ba34
+     :END:
 **** SOMEDAY Ricci flow on warped products
+     :PROPERTIES:
+     :ID:       e2d40681-87e5-4f73-9bcd-2e3a00bf15a6
+     :END:
 
 **** SOMEDAY Set up Bakry-Emery comparison project for weighted iso profile
   CLOCK: [2012-10-25 Thu 14:27]--[2012-10-25 Thu 14:28] =>  0:01
+     :PROPERTIES:
+     :ID:       de7aa818-eb75-449f-996c-a8b96b443f6d
+     :END:
 [2012-10-25 Thu 14:27]
 [[file:~/research_resources/lecture_notes/250C-2012-Ni-UCSD.pdf][250C-2012-Ni-UCSD.pdf]]
 
 *** SOMEDAY Create project tasks
+    :PROPERTIES:
+    :ID:       d8e291b0-e3dc-427e-b303-a5476dd68eb0
+    :END:
 ** SOMEDAY Organise research papers
+   :PROPERTIES:
+   :ID:       27dd1954-9abe-4a87-9bcd-36027c643fdb
+   :END:
 *** SOMEDAY File hard copies under bib key
+    :PROPERTIES:
+    :ID:       133cd7db-b4c3-42ac-bd2a-6e7082bd67f5
+    :END:
 *** SOMEDAY Configure reftex, org-mode to access papers
+    :PROPERTIES:
+    :ID:       0d3a134a-c167-44e8-aa83-fc2b5327b03e
+    :END:
 **** DONE Research setup: see evernote refs to start
      - State "DONE"       from "NEXT"       [2012-10-26 Fri 14:50]
 **** DONE Create org file for recording notes on papers in bib file
      - State "DONE"       from "NEXT"       [2012-10-26 Fri 14:50]
 **** SOMEDAY org-mode create ref should create bib, mr/arxiv links
+     :PROPERTIES:
+     :ID:       03789ba0-7a21-4b06-bbe0-70a1f06edde1
+     :END:
 *** SOMEDAY pdf scraping tool to create bib entries and rename pdf files
 This should open pdf's, get doi info and then look up the paper details
 online to get bib type info. Then the paper can be renamed, a bib entry
@@ -101,9 +179,15 @@ each bib entry in a seperate file and have refs.bib a concatenation of the lot
 so that I don't have problems editing refs.bib from multiple places.
 See [[http://en.dogeno.us/2010/02/release-a-python-script-for-organizing-scientific-papers-pyrenamepdf-py/][pyrename-pdf]]
   CLOCK: [2012-10-26 Fri 13:04]--[2012-10-26 Fri 13:06] =>  0:02
+    :PROPERTIES:
+    :ID:       751a6769-bf15-4590-925c-d1eb938a03b3
+    :END:
 [2012-10-26 Fri 13:04]
 
 *** SOMEDAY Write script to auto download from mathscinet, arxiv etc.
+    :PROPERTIES:
+    :ID:       65db22f3-b0c6-43c2-b7d5-9922cf35e5e8
+    :END:
 The script should get mathscinet info, say a bib file and use the doi
 info to automatically download the pdf file
 Ideally this should be integrated into org-mode
@@ -116,10 +200,32 @@ See also
 [2012-10-26 Fri 13:01]
 
 ** TODO Ricci isoperimetric profile :RICCI_ISO_COMP:
-*** NEXT Compute high genus comparison			     
-*** NEXT Copy text from thesis to paper
+   :PROPERTIES:
+   :ID:       5d9554fe-4cf1-42b0-9891-69a81e715a67
+   :END:
+*** NEXT Compute high genus comparison
+    :PROPERTIES:
+    :ID:       60cbd811-022c-4afa-bb52-bc82b8694314
+    :END:			     
+*** DONE Copy text from thesis to paper
+    - State "DONE"       from "NEXT"       [2012-11-15 Thu 14:58]
+    :LOGBOOK:
+    CLOCK: [2012-11-15 Thu 14:37]--[2012-11-15 Thu 14:58] =>  0:21
+    :END:
+    :PROPERTIES:
+    :ID:       1335d91c-32ec-499b-943b-107a42556b29
+    :END:
 *** NEXT Transcribe from notebooks into computer
+    :LOGBOOK:
+    CLOCK: [2012-11-15 Thu 14:26]--[2012-11-15 Thu 14:37] =>  0:11
+    :END:
+    :PROPERTIES:
+    :ID:       c7d8d816-7767-4384-9e6b-ee1bbd453e62
+    :END:
 * Seminars
+  :PROPERTIES:
+  :ID:       1e7a7317-1668-4432-a995-cdaa9293f7af
+  :END:
 ** DONE Seminars org project
    - State "DONE"       from "TODO"       [2012-10-18 Thu 11:13]
   CLOCK: [2012-10-14 Sun 20:38]--[2012-10-14 Sun 20:38] =>  0:00
@@ -136,13 +242,22 @@ Some money available through colloquia funds?
     :ID:       c011fced-9d37-4ac5-bd6e-bb689c3a67f2
     :END:
 * Students
+  :PROPERTIES:
+  :ID:       a93e1471-a035-4d1a-888f-948a3996b9ec
+  :END:
 ** Meet Janelle and Ben Chow
 Talk about ancient solutions of curve shortening flow on $S^2$
 <2012-11-07 Wed 09:00>
 ** Meet Janelle and Ben Chow
+   :PROPERTIES:
+   :ID:       dcb4363e-a8bf-4c99-88e7-e914b6750319
+   :END:
 Talk about ancient solutions of curve shortening flow on $S^2$
 <2012-11-14 Wed 09:00>
 * Tasks
+  :PROPERTIES:
+  :ID:       7d76f7eb-1bab-46a9-8ccd-34d13e4dcece
+  :END:
 ** DONE Contact Ben Andrews about MCF, geometric evolution eqn's books
    - State "DONE"       from "TODO"       [2012-11-09 Fri 11:47]
   CLOCK: [2012-10-17 Wed 08:23]--[2012-10-17 Wed 08:23] =>  0:00
@@ -157,13 +272,25 @@ Talk about ancient solutions of curve shortening flow on $S^2$
 Search for UCGCB-2012
 
   CLOCK: [2012-11-02 Fri 10:36]--[2012-11-02 Fri 10:37] =>  0:01
+   :PROPERTIES:
+   :ID:       3a865b92-39de-4647-9f9f-fbc81d4c0f20
+   :END:
 [2012-11-02 Fri 10:36]
 
 * Collaborators
+  :PROPERTIES:
+  :ID:       108d3c88-823b-4098-929b-f55292293588
+  :END:
 ** Meet Brett Kotschwar
 <2012-11-09 Fri 13:00>
 * Notes
+  :PROPERTIES:
+  :ID:       20906464-9b86-4766-b2c7-b42be71a3343
+  :END:
 * Processes
+  :PROPERTIES:
+  :ID:       c8cbd0f3-55ea-4270-890e-1e3801051447
+  :END:
 ** New Research Project
 Should I just make a script that takes the project name and does all this?
 - [ ] Create project directory in [[~/working/academic/research]]

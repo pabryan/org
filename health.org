@@ -1,5 +1,8 @@
 #+FILETAGS: HEALTH
 * Exercise							   :EXERCISE:
+  :PROPERTIES:
+  :ID:       3420f12a-2ad8-4511-8543-13d0044fcde6
+  :END:
 
 ** Schedule
 *** TODO No Intensity
@@ -8,24 +11,28 @@
 :PROPERTIES:
 :STYLE: habit
 :LAST_REPEAT: [2012-11-15 Thu 11:16]
+:ID: e38c9566-fca4-46e5-bf5f-a6c98c63f9f2
 :END:
 
 *** TODO Low Intensity
     SCHEDULED: <2012-11-15 Thu .+4d/5d>
 :PROPERTIES:
 :STYLE: habit
+:ID: c5da0e4d-cf57-4caf-ba23-369257edd6ac
 :END:
 
 *** TODO Mod Intensity
     SCHEDULED: <2012-11-16 Fri .+4d/5d>
 :PROPERTIES:
 :STYLE: habit
+:ID: 2fd02d93-9376-4172-b361-0e865b293007
 :END:
 
 *** TODO High Intensity
     SCHEDULED: <2012-11-17 Sat .+4d/5d>
 :PROPERTIES:
 :STYLE: habit
+:ID: d52c3978-eea8-457c-b9c9-1a38d6d54a88
 :END:
 
 
@@ -47,8 +54,17 @@
 *** Qi Gong
 *** Tai Ji
 * Diet								       :DIET:
+  :PROPERTIES:
+  :ID:       388ded9e-79b9-4d94-bba7-0b5bcc314c75
+  :END:
 * Sleep								      :SLEEP:
+  :PROPERTIES:
+  :ID:       4e099e68-e71a-49c9-9aeb-57630a120837
+  :END:
 * Vitals							     :VITALS:
+  :PROPERTIES:
+  :ID:       a4059ce5-fba1-47ec-a0c4-6cd08d2497fd
+  :END:
 ** Heart Rate
 ** Blood pressure
 ** Weight

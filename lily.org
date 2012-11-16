@@ -1,12 +1,18 @@
 #+FILETAGS: LILY
 
 * Activities
+  :PROPERTIES:
+  :ID:       988cca1f-4883-491f-ae26-f7e03a84fbee
+  :END:
 ** TODO Find activities
 I need free close by activities: playground, beach, library?
    :PROPERTIES:
    :ID:       a2050f62-567a-4d73-8f61-255a78d4cd8e
    :END:
 * Health
+  :PROPERTIES:
+  :ID:       e8188a45-996a-440a-8a21-e2b3a92c7414
+  :END:
 ** DONE Sort Lily's asthma
    - State "DONE"       from "TODO"       [2012-11-09 Fri 11:49]
   CLOCK: [2012-10-14 Sun 20:31]--[2012-10-14 Sun 20:31] =>  0:00

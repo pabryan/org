@@ -2,6 +2,9 @@
 #+LINK: notes #%s
 
 * Papers
+  :PROPERTIES:
+  :ID:       070a5918-a137-43c5-af7f-aa1b21d695db
+  :END:
 ** 58 global analysis; analysis on manifolds
 *** 58J partial differential equations on manifolds; differential operators
 **** 58J65 Diffusion processes and stochastic analysis on manifolds

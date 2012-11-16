@@ -555,12 +555,16 @@ e.g. seminar announcement
    :END:
 [2012-11-09 Fri 10:38]
 
-
 * Tasks
   :PROPERTIES:
   :ID:       4257fe31-e606-4ca9-a848-858379409679
   :END:
 ** Organiation
-:PROPERTIES:
-:CLOCK_MODELINE_TOTAL: today
-:END:
+   :LOGBOOK:
+   CLOCK: [2012-11-15 Thu 14:24]--[2012-11-15 Thu 14:26] =>  0:02
+   CLOCK: [2012-11-15 Thu 13:38]--[2012-11-15 Thu 13:56] =>  0:18
+   :END:
+  :PROPERTIES:
+  :CLOCK_MODELINE_TOTAL: today
+  :ID:       0a16188e-7a1a-4413-a516-5127dcbee30c
+  :END:

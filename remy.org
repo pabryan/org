@@ -1,5 +1,8 @@
 #+FILETAGS: REMY
 * School
+  :PROPERTIES:
+  :ID:       5376951d-818b-4264-8149-3abeb4700dc0
+  :END:
 ** DONE Top up Remy's lunch money
    - State "DONE"       from "TODO"       [2012-10-28 Sun 13:21]
   CLOCK: [2012-10-16 Tue 08:27]--[2012-10-16 Tue 08:27] =>  0:00
@@ -30,6 +33,9 @@ $14 family
 <2012-11-27 Tue 02:30-02:50>
 
 * Health
+  :PROPERTIES:
+  :ID:       2555f5fb-96ff-4eb1-a57a-1ee0192674be
+  :END:
 ** DONE Call KP about Remy's arm
 <<<<<<< local
    - State "DONE"       from "WAITING"    [2012-10-31 Wed 09:47]

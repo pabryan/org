@@ -1,23 +1,41 @@
 #+FILETAGS: HACKING
 
 * Game Development
+  :PROPERTIES:
+  :ID:       faa642eb-8002-4af8-a098-2ab4e75b86f1
+  :END:
 PROPERTIES:
 CATEGORY: Games
 END:
 
 ** SOMEDAY kilobolt android game tutorial
+   :PROPERTIES:
+   :ID:       95c8b378-9880-4b0a-88ae-ef1789ef0cf5
+   :END:
 http://www.kilobolt.com/game-development-tutorial.html
 [2012-10-22 Mon 18:07]
-*** SOMEDAY kilobolt Tutorial 
+*** SOMEDAY kilobolt Tutorial
+    :PROPERTIES:
+    :ID:       57d56886-e8af-44b6-9005-4881ff890828
+    :END: 
 
 ** SOMEDAY java code geeks android game tutorial
 [[http://www.javacodegeeks.com/2011/06/android-game-development-tutorials.html][tutorial]] 
   CLOCK: [2012-10-23 Tue 17:06]--[2012-10-23 Tue 17:06] =>  0:00
+   :PROPERTIES:
+   :ID:       6a9762f7-dd70-4f1f-a09b-eef4151fc4f8
+   :END:
 [2012-10-23 Tue 17:06]
-*** SOMEDAY Java code geeks Tutorial 
+*** SOMEDAY Java code geeks Tutorial
+    :PROPERTIES:
+    :ID:       953d8f2c-22b2-40ad-bbde-e2eabc453c60
+    :END: 
 
 
 * emacs
+  :PROPERTIES:
+  :ID:       0dcdccc8-50f8-487d-88c6-1034edc744ef
+  :END:
 PROPERTIES:
 CATEGORY: emacs
 END:
@@ -25,9 +43,18 @@ END:
 ** SOMEDAY emdroid hacking
 [[http://www.emacswiki.org/emacs/EmDroid][EmDroid]]
   CLOCK: [2012-10-21 Sun 17:23]--[2012-10-21 Sun 17:23] =>  0:00
+   :PROPERTIES:
+   :ID:       0f28a16d-86ca-4727-b2ca-dc631fe1273f
+   :END:
 [2012-10-21 Sun 17:23]
 ** SOMEDAY Configure emacs for email
+   :PROPERTIES:
+   :ID:       59fb7afd-3134-4ef9-80d6-391b05284663
+   :END:
 *** SOMEDAY Set up offlineimap
+    :PROPERTIES:
+    :ID:       8e34b366-070d-4735-bad1-9c8fba262783
+    :END:
 See:
 [[http://docs.offlineimap.org/en/latest/MANUAL.html][http://docs.offlineimap.org/en/latest/MANUAL.html]]
 [[http://jak-linux.org/projects/hardlink/]]
@@ -63,10 +90,16 @@ maxconnections = 1
 realdelete = no
 
 *** SOMEDAY Store passwords in keyring
+    :PROPERTIES:
+    :ID:       fc03edb7-f209-45db-8414-c0b249b02351
+    :END:
 [[http://pypi.python.org/pypi/keyring][http://pypi.python.org/pypi/keyring]]
 [[http://www.emacswiki.org/emacs/OfflineIMAP][http://www.emacswiki.org/emacs/OfflineIMAP]]
 
 *** SOMEDAY Choose emacs email reading/writing method
+    :PROPERTIES:
+    :ID:       4bc3c470-a7ec-4a15-a78f-3e0e03f33ad6
+    :END:
 
 [[http://www.emacswiki.org/emacs/CategoryMail]]
 Does mutt integrate well?
@@ -74,4 +107,7 @@ Does mutt integrate well?
 
 ** SOMEDAY Implement emacs merge-news for hg
   CLOCK: [2012-10-31 Wed 09:40]--[2012-10-31 Wed 09:40] =>  0:00
+   :PROPERTIES:
+   :ID:       4fc56c2f-08d8-456b-a8da-66fcfe9d1ec4
+   :END:
 [2012-10-31 Wed 09:40]

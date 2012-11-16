@@ -1,16 +1,37 @@
 #+FILETAGS: KATE
 
 * Tasks
+  :PROPERTIES:
+  :ID:       4977ef07-4d81-4831-b747-2c74b409015c
+  :END:
 ** TODO Organise Kate's Birthday
   DEADLINE: <2012-11-26 Mon -2w>
 
   CLOCK: [2012-11-07 Wed 12:57]--[2012-11-07 Wed 12:58] =>  0:01
+   :PROPERTIES:
+   :ID:       b8272ed8-867f-4d48-9ef0-31685b7fdd1e
+   :END:
   [2012-11-07 Wed 12:57]
 *** NEXT Check Amazon wish list
+    :PROPERTIES:
+    :ID:       9b016383-2b40-49f7-950a-aa1af5264d1b
+    :END:
 *** NEXT Ask Kate what she wants to do on b'day
+    :PROPERTIES:
+    :ID:       2c20fc50-3af4-4b81-affc-f694142a8e02
+    :END:
 what's for dinner/lunch?
 *** TODO Buy cake
     SCHEDULED: <2012-11-26 Mon>
+    :PROPERTIES:
+    :ID:       0b32e722-472d-4c60-bc9c-b27660bd9914
+    :END:
 *** NEXT Kid's to make cards, draw pictures
+    :PROPERTIES:
+    :ID:       9f11bf2f-1674-4984-8a72-d4dcbe00329b
+    :END:
 *** NEXT Ask kids what to give Kate
+    :PROPERTIES:
+    :ID:       71117a68-aebd-4727-ada3-d8358b75f786
+    :END:
 
