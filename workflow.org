@@ -443,11 +443,18 @@ I'll need to say use my phone to collect the data. I need something easy to cloc
 I want to hang on to emails, articles and so on. I want to keep receipts, ideas and a diary of what I've done. These need to be kept in a filing system somehow, most probaby using org-mode and memacs.
 ** Reviews
 Here I look at my goals, my tasks and how I've been spending my time and use that information to plan out the coming week/month/year etc.
-**** Weekly
-**** Monthly
-**** 6 monthly?
-**** yearly
-**** 5 years?
+*** TODO Weekly Review
+    SCHEDULED: <2012-11-19 Mon .+7d/10d>
+
+:PROPERTIES:
+:STYLE: habit
+:REPEAT_TO_STATE: NEXT
+:END:
+
+*** Monthly
+*** 6 monthly?
+*** yearly
+*** 5 years?
 ** Schedule tasks
 **** Set next tasks
 **** Capture tasks as I think of them
@@ -586,7 +593,8 @@ e.g. seminar announcement
   :END:
 ** Organiation
    :LOGBOOK:
-   CLOCK: [2012-11-20 Tue 10:53]
+   CLOCK: [2012-11-20 Tue 11:05]
+   CLOCK: [2012-11-20 Tue 10:53]--[2012-11-20 Tue 11:03] =>  0:10
    CLOCK: [2012-11-16 Fri 15:19]--[2012-11-16 Fri 15:21] =>  0:02
    CLOCK: [2012-11-16 Fri 15:18]--[2012-11-16 Fri 15:19] =>  0:01
    CLOCK: [2012-11-16 Fri 14:18]--[2012-11-16 Fri 14:28] =>  0:10
