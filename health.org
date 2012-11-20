@@ -74,7 +74,7 @@
 :ID: e2e6b51c-d085-4668-ac4f-9d7e13df147d
 :LAST_REPEAT: [2012-11-20 Tue 07:15]
 :END:
-** Log
+** Routines and Log
 *** Intuflow
 | Date | Rest HR | Final HR |
 |------+---------+----------|
@@ -84,6 +84,19 @@
 ***** [20/10X8+60]6
 ***** 4/1X4
 ***** EMOTM
+****** Instructions
+Every minute on the minute perform a set.
+****** Sets
+- 4 x quad press
+- 4 x spinal rocks
+- 4 x swinging tripod
+- 4 x knee press
+****** Log
+
+|       Date | Rest HR | HR Max | HR Target Min | HR Target Max | HR Final | Reps | Technique | Effort | Discomfort |
+|------------+---------+--------+---------------+---------------+----------+------+-----------+--------+------------|
+| 2012-11-08 | 70      | 180    | 110           | 140           | 124      | 11   | 9         | 8      | 3          |
+|            |         |        |               |               |          |      |           |        |            |
 ***** AMRAP
 ***** [90/3X5]2
 ***** AFAP
