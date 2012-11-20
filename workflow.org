@@ -563,6 +563,23 @@ e.g. seminar announcement
    :END:
 [2012-11-09 Fri 10:38]
 
+** TODO Set up emacsclient
+  :LOGBOOK:
+  :END:
+  :PROPERTIES:
+  :ID:       daf86133-1815-4034-b06e-126d690b54de
+  :END:
+[2012-11-20 Tue 10:23]
+
+** TODO Set up GPG for email and password encryption
+  :LOGBOOK:
+  CLOCK: [2012-11-20 Tue 10:20]--[2012-11-20 Tue 10:21] =>  0:01
+  :END:
+  :PROPERTIES:
+  :ID:       dcd41e2f-431e-47bb-8409-42e268e20e02
+  :END:
+[2012-11-20 Tue 10:20]
+
 * Tasks
   :PROPERTIES:
   :ID:       4257fe31-e606-4ca9-a848-858379409679
