@@ -47,13 +47,14 @@
 :END:
 
 *** NEXT Eye exercises
-    SCHEDULED: <2012-11-17 Sat .+1d/2d>
+    SCHEDULED: <2012-11-21 Wed .+1d/2d>
+    - State "DONE"       from "NEXT"       [2012-11-20 Tue 10:16]
     - State "DONE"       from "NEXT"       [2012-11-16 Fri 14:25]
 :PROPERTIES:
 :STYLE: habit
 :REPEAT_TO_STATE: NEXT
 :ID: bb3574e2-d88d-476f-8d3a-ebde4a1691b7
-:LAST_REPEAT: [2012-11-16 Fri 14:25]
+:LAST_REPEAT: [2012-11-20 Tue 10:16]
 :END:
 
 *** NEXT Meditate
