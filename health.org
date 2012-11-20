@@ -76,9 +76,9 @@
 :END:
 ** Routines and Log
 *** Intuflow
-| Date | Rest HR | Final HR |
-|------+---------+----------|
-|      |         |          |
+|       Date | Start time | Stop time | Rest HR | Final HR |
+|------------+------------+-----------+---------+----------|
+| 2012-11-19 |      08:38 |      9:04 |      53 |       71 |
 *** Flowphysique
 **** Level 1
 ***** [20/10X8+60]6
@@ -110,6 +110,7 @@ Do as many sets as possible in 20 mins.
 |       Date | Intensity | Rest HR | HR Max | HR Target Min | HR Target Max | HR Final | Reps | Technique | Effort | Discomfort |
 |------------+-----------+---------+--------+---------------+---------------+----------+------+-----------+--------+------------|
 | 2012-11-12 | Mod       |      74 |    180 |           110 |           140 |      164 |   4  |         7 |      8 |          4 |
+| 2012-11-13 | High      |      60 |    180 |           140 |           180 |      156 |   6  |         8 |      9 |          4 |
 |            |           |         |        |               |               |          |      |           |        |            |
 
 ***** [90/3X5]2
