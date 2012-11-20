@@ -1,4 +1,7 @@
 * Accounts
+  :PROPERTIES:
+  :ID:       59915f9d-810c-4004-89f0-4978b6471d44
+  :END:
 Expenses: where money goes
 Assets: where money sits
 Income: where money comes from
@@ -6,6 +9,9 @@ Liabilities: money you owe
 Equity: the real value of your property
 
 * icsv2ledger config
+  :PROPERTIES:
+  :ID:       0f68a9e5-6812-4a65-b3ba-f014416bbddf
+  :END:
 [COMMBANKSAV]
 account=Assets:Bank:Commonwealth Bank Savings Account
 currency=AUD
