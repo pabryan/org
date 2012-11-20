@@ -1,0 +1,41 @@
+* Accounts
+Expenses: where money goes
+Assets: where money sits
+Income: where money comes from
+Liabilities: money you owe
+Equity: the real value of your property
+
+* icsv2ledger config
+[COMMBANKSAV]
+account=Assets:Bank:Commonwealth Bank Savings Account
+currency=AUD
+date=1
+csv_date_format=%d/%m/%Y
+ledger_date_format=%Y/%m/%d
+desc=3
+credit=2
+debit=-1
+mapping_file=mappings.COMMBANKSAV
+
+[CHASECHQ]
+account=Assets:Bank:Chase Cheque Account
+currency=USD
+date=2
+csv_date_format=%m/%d/%Y
+ledger_date_format=%Y/%m/%d
+desc=3
+credit=4
+debit=-1
+mapping_file=mappings.CHASECHQ
+
+
+[COMMBANKVISA]
+account=Liabilities:Bank:Commonwealth Bank Visa
+currency=AUD
+date=1
+csv_date_format=%d/%m/%Y
+ledger_date_format=%Y/%m/%d
+desc=3
+credit=2
+debit=-1
+mapping_file=mappings.COMMBANKVISA
