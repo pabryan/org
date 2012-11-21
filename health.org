@@ -76,9 +76,9 @@
 :END:
 ** Routines 
 *** Intuflow
-|       Date | Start time | Stop time | Rest HR | Final HR |
-|------------+------------+-----------+---------+----------|
-| 2012-11-19 |      08:38 |      9:04 |      53 |       71 |
+| Rest HR | Final HR | Tech | Eff | Disc |
+|---------+----------+------+-----+------|
+|         |          |      |     |      |
 *** Flowphysique
 **** Level 1
 ***** Score log
@@ -120,20 +120,57 @@ Do as many sets as possible in 20 mins.
 ***** [90/3X5]2
 ***** AFAP
 *** Ageless mobility
+| Rest HR | Final HR | Tech | Eff | Disc |
+|---------+----------+------+-----+------|
+|         |          |      |     |      |
+
 *** Thrive flow
+| Rest HR | Final HR | Tech | Eff | Disc |
+|---------+----------+------+-----+------|
+|         |          |      |     |      |
+
 *** Qi Gong
+| Rest HR | Final HR | Tech | Eff | Disc |
+|---------+----------+------+-----+------|
+|         |          |      |     |      |
+
 *** Tai Ji
+| Rest HR | Final HR | Tech | Eff | Disc |
+|---------+----------+------+-----+------|
+|         |          |      |     |      |
+
 ** Log
-* 2012
-  :PROPERTIES:
-  :ID:       c85a7bee-b393-4db9-acee-a98cce4adbf7
-  :END:
-** 2012-11 November
-*** 2012-11-20 Tuesday
-**** Thrive Flow
+*** Progress
+|       Date | Routine  | Rest Hr | Final HR | Score | Tech | Eff | Disc | Ref         |
+|------------+----------+---------+----------+-------+------+-----+------+-------------|
+| 2012-11-19 | Intuflow |      53 |       71 |       |    9 |   3 |    2 | [[id:6802377a-4a60-4058-9dfa-8804ed1f03fc][Intuflow]]    |
+| 2012-11-20 | Thrive   |         |          |       |    8 |   4 |    3 | [[id:1525e014-2499-45b3-b98b-e8913c6a126b][Thrive Flow]] |
+|            |          |         |          |       |      |     |      |             |
+  
+
+*** 2012
+    :PROPERTIES:
+    :ID:       c85a7bee-b393-4db9-acee-a98cce4adbf7
+    :END:
+**** 2012-11 November
+***** 2012-11-19 Monday
+****** Intuflow
+     :LOGBOOK:
+     CLOCK: [2012-11-19 Mon 08:38]--[2012-11-19 Tue 09:04] =>  0:26
+     :END:
+       :PROPERTIES:
+       :ID:       6802377a-4a60-4058-9dfa-8804ed1f03fc
+       :END:
+[2012-11-20 Thu 15:30]
+
+***** 2012-11-20 Tuesday
+****** Thrive Flow
      :LOGBOOK:
      CLOCK: [2012-11-20 Tue 15:30]--[2012-11-20 Tue 16:00] =>  0:30
      :END:
+       :PROPERTIES:
+       :ID:       1525e014-2499-45b3-b98b-e8913c6a126b
+       :END:
 [2012-11-20 Thu 15:30]
 * Diet 								       :DIET:
   :PROPERTIES:
