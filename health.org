@@ -63,13 +63,15 @@
 :END:
 
 *** NEXT Meditate
-    SCHEDULED: <2012-11-21 Wed .+1d/2d>
+    SCHEDULED: <2012-11-22 Thu .+1d/2d>
+    - State "DONE"       from "NEXT"       [2012-11-21 Wed 14:39]
     - State "DONE"       from "NEXT"       [2012-11-20 Tue 07:15]
     - State "DONE"       from "NEXT"       [2012-11-19 Mon 14:15]
     - State "DONE"       from "NEXT"       [2012-11-18 Sun 09:50]
     - State "DONE"       from "NEXT"       [2012-11-17 Sat 15:01]
     - State "DONE"       from "NEXT"       [2012-11-16 Fri 14:17]
   :LOGBOOK:
+  CLOCK: [2012-11-21 Wed 14:21]--[2012-11-21 Wed 14:39] =>  0:18
   CLOCK: [2012-11-16 Fri 13:40]--[2012-11-16 Fri 14:17] =>  0:37
   :END:
 
@@ -77,7 +79,7 @@
 :STYLE: habit
 :REPEAT_TO_STATE: NEXT
 :ID: e2e6b51c-d085-4668-ac4f-9d7e13df147d
-:LAST_REPEAT: [2012-11-20 Tue 07:15]
+:LAST_REPEAT: [2012-11-21 Wed 14:39]
 :END:
 ** Routines 
 *** Intuflow
