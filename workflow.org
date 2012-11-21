@@ -444,10 +444,7 @@ I want to hang on to emails, articles and so on. I want to keep receipts, ideas 
 ** Reviews
 Here I look at my goals, my tasks and how I've been spending my time and use that information to plan out the coming week/month/year etc.
 *** NEXT Weekly Review
-    SCHEDULED: <2012-11-19 Mon .+7d/10d>
-    :LOGBOOK:
-    CLOCK: [2012-11-20 Tue 11:12]--[2012-11-20 Tue 11:13] =>  0:01
-    :END:
+    SCHEDULED: <2012-11-26 Mon .+7d/10d>
 
 :PROPERTIES:
 :STYLE: habit
