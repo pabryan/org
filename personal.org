@@ -522,11 +522,13 @@ contact: [[mailto:rosecanyon@san.rr.com][rosecanyon@san.rr.com]], 858-597-0220
   :PROPERTIES:
   :ID:       204ad8e3-a00f-4da7-b2d6-deb5e370a2c6
   :END:
-** NEXT plan weekly food
+** TODO plan weekly food
+   - State "DONE"       from "NEXT"       [2012-11-19 Mon 12:28]
    :PROPERTIES:
    :ID:       659b82d1-fff2-498c-afeb-3101030d6946
+   :LAST_REPEAT: [2012-11-19 Mon 12:28]
    :END:
-   SCHEDULED: <2012-11-14 Wed +1w>
+   SCHEDULED: <2012-11-21 Wed +1w>
 
 * Podcasts
   :PROPERTIES:

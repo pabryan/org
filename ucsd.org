@@ -49,6 +49,7 @@ Use a course as a guinea pig for using the method
 
 ** TODO MATH150A Fall 2012					   :MATH150A:
    :LOGBOOK:
+   CLOCK: [2012-11-19 Mon 11:00]--[2012-11-19 Mon 12:00] =>  1:00
    CLOCK: [2012-11-16 Fri 10:19]--[2012-11-16 Fri 10:30] =>  0:11
    :END:
    :PROPERTIES:
@@ -180,6 +181,10 @@ Some are here [[http://www.math.ucsd.edu/~lindblad/150a/150a.html]]
     :ID:       31708543-605b-4ed1-8684-9717203bb8f0
     :ORDERED:  t
     :END:
+*** NEXT Prepare week 9 lectures
+    :PROPERTIES:
+    :ID:       dab37352-843a-4461-b37e-dd25870fee08
+    :END:
 *** TODO Remind students to fill in CAPE forms
     :PROPERTIES:
     :ID:       069d6e27-50e2-4ca8-a675-6a81c0a6c189
@@ -198,7 +203,8 @@ Some are here [[http://www.math.ucsd.edu/~lindblad/150a/150a.html]]
     :END:
 [2012-11-16 Fri 10:47]
 
-*** NEXT Prepare week 8 lectures
+*** DONE Prepare week 8 lectures
+    - State "DONE"       from "NEXT"       [2012-11-19 Mon 12:27]
   :LOGBOOK:
   :END:
     :PROPERTIES:
