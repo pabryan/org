@@ -76,15 +76,16 @@
 :END:
 ** Routines 
 *** Intuflow
+**** Target HR 
+- min 0 
+- max 0.2 * (HR Max - HR Rest) + HR Rest
+  e.g.           0.2 * (180 - 60) + 60 = 84
+**** Template
 | Rest HR | Final HR | Tech | Eff | Disc |
 |---------+----------+------+-----+------|
 |         |          |      |     |      |
 *** Flowphysique
 **** Level 1
-***** Score log
-| Date | Workout | Intensity | Rest HR | HR Max | Score | HR | Technique | Effort | Discomfort |
-|------+---------+-----------+---------+--------+-------+----+-----------+--------+------------|
-|      |         |           |         |        |       |    |           |        |            |
 ***** [20/10X8+60]6
 ***** 4/1X4
 ***** EMOTM
@@ -120,6 +121,13 @@ Do as many sets as possible in 20 mins.
 ***** [90/3X5]2
 ***** AFAP
 *** Ageless mobility
+**** Target HR
+- min < 0.2 * (HR Max - HR Rest) + HR Rest
+e.g.           0.2 * (180 - 60) + 60 = 84
+- max < 0.6 * (HR Max - HR Rest) + HR Rest
+e.g.           0.4 * (180 - 60) + 60 = 108
+
+**** Template
 | Rest HR | Final HR | Tech | Eff | Disc |
 |---------+----------+------+-----+------|
 |         |          |      |     |      |
@@ -141,7 +149,7 @@ Do as many sets as possible in 20 mins.
 
 ** Log
 *** Progress
-|       Date | Routine  | Rest Hr | Final HR | Score | Tech | Eff | Disc | Ref         |
+|       Date | Routine  | Rest HR | Final HR | Score | Tech | Eff | Disc | Ref         |
 |------------+----------+---------+----------+-------+------+-----+------+-------------|
 | 2012-11-19 | Intuflow |      53 |       71 |       |    9 |   3 |    2 | [[id:6802377a-4a60-4058-9dfa-8804ed1f03fc][Intuflow]]    |
 | 2012-11-20 | Thrive   |         |          |       |    8 |   4 |    3 | [[id:1525e014-2499-45b3-b98b-e8913c6a126b][Thrive Flow]] |
