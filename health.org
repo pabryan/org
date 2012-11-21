@@ -144,13 +144,23 @@ e.g.           0.4 * (180 - 60) + 60 = 108
   e.g.           0.6 * (180 - 60) + 60 = 144
 - max 1.0 * (HR Max - HR Rest) + HR Rest
   e.g.           1.0 * (180 - 60) + 60 = 180
-**** Template
-| Rest HR | Final HR | Tech | Eff | Disc |
-|---------+----------+------+-----+------|
-|         |          |      |     |      |
-
-**** Level 1
+**** Level 1 Templates
 ***** [20/10X8+60]6
+
+| Exercise          | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | HR | T | E | D |
+|-------------------+---+---+---+---+---+---+---+---+----+---+---+---|
+| Hack Squat        |   |   |   |   |   |   |   |   |    |   |   |   |
+| Plank Pull Knee   |   |   |   |   |   |   |   |   |    |   |   |   |
+| Sit Thru Knee     |   |   |   |   |   |   |   |   |    |   |   |   |
+| Knee Press        |   |   |   |   |   |   |   |   |    |   |   |   |
+| Basic Spinal Rock |   |   |   |   |   |   |   |   |    |   |   |   |
+| Table Lift        |   |   |   |   |   |   |   |   |    |   |   |   |
+
+| Rest HR | Final HR | Score | Tech | Eff | Disc |
+|---------+----------+-------+------+-----+------|
+|         |          |       |      |     |      |
+
+
 ***** 4/1X4
 ***** EMOTM
 ****** Instructions
@@ -184,6 +194,8 @@ Do as many sets as possible in 20 mins.
 
 ***** [90/3X5]2
 ***** AFAP
+**** Level 2 Templaes
+**** Level 3 Templates
 ** Log
 *** Progress
 |       Date | Routine  | Rest HR | Final HR | Score | Tech | Eff | Disc | Ref         |
