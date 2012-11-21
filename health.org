@@ -77,14 +77,78 @@
 ** Routines 
 *** Intuflow
 **** Target HR 
-- min 0 
+- min 0.0 * (HR Max - HR Rest) + HR Rest 
+  e.g.           0.0 * (180 - 60) + 60 = 60
 - max 0.2 * (HR Max - HR Rest) + HR Rest
   e.g.           0.2 * (180 - 60) + 60 = 84
 **** Template
 | Rest HR | Final HR | Tech | Eff | Disc |
 |---------+----------+------+-----+------|
 |         |          |      |     |      |
+*** Qi Gong
+**** Target HR 
+- min 0.0 * (HR Max - HR Rest) + HR Rest 
+  e.g.           0.0 * (180 - 60) + 60 = 60
+- max 0.2 * (HR Max - HR Rest) + HR Rest
+  e.g.           0.2 * (180 - 60) + 60 = 84
+**** Template
+| Rest HR | Final HR | Tech | Eff | Disc |
+|---------+----------+------+-----+------|
+|         |          |      |     |      |
+
+*** Tai Ji
+**** Target HR 
+- min 0.0 * (HR Max - HR Rest) + HR Rest 
+  e.g.           0.0 * (180 - 60) + 60 = 60
+- max 0.2 * (HR Max - HR Rest) + HR Rest
+  e.g.           0.2 * (180 - 60) + 60 = 84
+**** Template
+| Rest HR | Final HR | Tech | Eff | Disc |
+|---------+----------+------+-----+------|
+|         |          |      |     |      |
+
+
+*** Ageless mobility
+**** Target HR
+- min < 0.2 * (HR Max - HR Rest) + HR Rest
+e.g.           0.2 * (180 - 60) + 60 = 84
+- max < 0.4 * (HR Max - HR Rest) + HR Rest
+e.g.           0.4 * (180 - 60) + 60 = 108
+
+**** Template
+| Rest HR | Final HR | Tech | Eff | Disc |
+|---------+----------+------+-----+------|
+|         |          |      |     |      |
+
+*** Thrive flow
+**** Target HR
+- min < 0.2 * (HR Max - HR Rest) + HR Rest
+e.g.           0.2 * (180 - 60) + 60 = 84
+- max < 0.4 * (HR Max - HR Rest) + HR Rest
+e.g.           0.4 * (180 - 60) + 60 = 108
+
+**** Template
+| Rest HR | Final HR | Tech | Eff | Disc |
+|---------+----------+------+-----+------|
+|         |          |      |     |      |
+
+
 *** Flowphysique
+**** Target HR (Mod) 
+- max 0.4 * (HR Max - HR Rest) + HR Rest
+  e.g.           0.4 * (180 - 60) + 60 = 108
+- max 0.7 * (HR Max - HR Rest) + HR Rest
+  e.g.           0.6 * (180 - 60) + 60 = 144
+**** Target HR (High) 
+- max 0.7 * (HR Max - HR Rest) + HR Rest
+  e.g.           0.6 * (180 - 60) + 60 = 144
+- max 1.0 * (HR Max - HR Rest) + HR Rest
+  e.g.           1.0 * (180 - 60) + 60 = 180
+**** Template
+| Rest HR | Final HR | Tech | Eff | Disc |
+|---------+----------+------+-----+------|
+|         |          |      |     |      |
+
 **** Level 1
 ***** [20/10X8+60]6
 ***** 4/1X4
@@ -120,33 +184,6 @@ Do as many sets as possible in 20 mins.
 
 ***** [90/3X5]2
 ***** AFAP
-*** Ageless mobility
-**** Target HR
-- min < 0.2 * (HR Max - HR Rest) + HR Rest
-e.g.           0.2 * (180 - 60) + 60 = 84
-- max < 0.6 * (HR Max - HR Rest) + HR Rest
-e.g.           0.4 * (180 - 60) + 60 = 108
-
-**** Template
-| Rest HR | Final HR | Tech | Eff | Disc |
-|---------+----------+------+-----+------|
-|         |          |      |     |      |
-
-*** Thrive flow
-| Rest HR | Final HR | Tech | Eff | Disc |
-|---------+----------+------+-----+------|
-|         |          |      |     |      |
-
-*** Qi Gong
-| Rest HR | Final HR | Tech | Eff | Disc |
-|---------+----------+------+-----+------|
-|         |          |      |     |      |
-
-*** Tai Ji
-| Rest HR | Final HR | Tech | Eff | Disc |
-|---------+----------+------+-----+------|
-|         |          |      |     |      |
-
 ** Log
 *** Progress
 |       Date | Routine  | Rest HR | Final HR | Score | Tech | Eff | Disc | Ref         |
