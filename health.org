@@ -217,7 +217,7 @@ Do as many sets as possible in 20 mins.
 | [2012-10-31 Wed] | [20/10x8+60]6 (High) |      65 | 137.66667 |    33 | 8.1666667 | 8.3333333 | 3.1666667 | [[id:ce32e5c4-9be2-414b-b195-01698ca42d36][Flow Physique : {20/10x8+60}6 High]] |
 | [2012-11-01 Thu] | Intuflow             |         |           |       |           |           |           |                                    |
 | [2012-11-02 Fri] | Thrive               |         |           |       |           |           |           |                                    |
-| [2012-11-03 Sat] | 4/1x4 (Mod)          |         |           |       |           |           |           |                                    |
+| [2012-11-03 Sat] | 4/1x4 (Mod)          |         |           |       |           |           |           | [[id:b8e1a757-627f-4387-9974-4c147efcfc17][Flow Physique : 4/1x4]]                              |
 | [2012-11-05 Mon] | Intuflow             |         |           |       |           |           |           |                                    |
 | [2012-11-06 Tue] | Thrive               |         |           |       |           |           |           |                                    |
 | [2012-11-08 Thu] | EMOTM (Mod)          |         |           |       |           |           |           |                                    |
@@ -285,6 +285,25 @@ Do as many sets as possible in 20 mins.
        #+TBLFM: @2$2=vmean(remote(20121031RAW,@2$11..@7$11)::@2$3=vsum(remote(20121031RAW,@2$10..@7$10))::@2$4=vmean(remote(20121031RAW,@2$12..@7$12))::@2$5=vmean(remote(20121031RAW,@2$13..@7$13))::@2$6=vmean(remote(20121031RAW,@2$14..@7$14))
        
 **** 2012-11 November
+***** 2012-11-03 Saturday
+****** Flow Physique : 4/1x4
+       :PROPERTIES:
+       :ID:       b8e1a757-627f-4387-9974-4c147efcfc17
+       :END:
+#+TBLNAME: 20121103RAW
+| Exercise                  | Reps |  HR | T | E | D |
+|---------------------------+------+-----+---+---+---|
+| Walking Lunge             |   72 | 148 | 9 | 7 | 3 |
+| Shoulder Bridge Knee Tuck |   32 | 128 | 9 | 6 | 2 |
+| Crow Hop                  |   28 | 152 | 9 | 8 | 3 |
+| Forearm Crocodile         |   53 | 156 | 8 | 8 | 2 |
+  
+#+TBLNAME: 20121103SUMMARY
+| Rest HR | Average HR | Score | Tech |  Eff | Disc |
+|---------+------------+-------+------+------+------|
+|      88 |        146 |   185 | 8.75 | 7.25 |  2.5 |
+       #+TBLFM: @2$2=vmean(remote(20121103RAW,@2$3..@5$3)::@2$3=vsum(remote(20121103RAW,@2$2..@5$2))::@2$4=vmean(remote(20121103RAW,@2$4..@5$4))::@2$5=vmean(remote(20121103RAW,@2$5..@5$5))::@2$6=vmean(remote(20121103RAW,@2$6..@5$6))
+
 ***** 2012-11-19 Monday
 ****** Intuflow
      :LOGBOOK:
