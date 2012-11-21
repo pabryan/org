@@ -82,6 +82,12 @@
 :LAST_REPEAT: [2012-11-21 Wed 14:39]
 :END:
 ** Routines 
+*** Template
+#+TBLNAME: <DATE>SUMMARY 
+| Rest HR | Final HR | Score | Tech | Eff | Disc |
+|---------+----------+-------+------+-----+------|
+|         |          |       |      |     |      |
+
 *** Intuflow
 **** Target HR 
 - min 0.0 * (HR Max - HR Rest) + HR Rest 
@@ -89,22 +95,13 @@
 - max 0.2 * (HR Max - HR Rest) + HR Rest
   e.g.           0.2 * (180 - 60) + 60 = 84
 **** Template
-#+TBLNAME: <DATE>SUMMARY 
-| Rest HR | Final HR | Tech | Eff | Disc |
-|---------+----------+------+-----+------|
-|         |          |      |     |      |
 *** Qi Gong
 **** Target HR 
 - min 0.0 * (HR Max - HR Rest) + HR Rest 
   e.g.           0.0 * (180 - 60) + 60 = 60
 - max 0.2 * (HR Max - HR Rest) + HR Rest
   e.g.           0.2 * (180 - 60) + 60 = 84
-**** Template
-#+TBLNAME: <DATE>SUMMARY 
-| Rest HR | Final HR | Tech | Eff | Disc |
-|---------+----------+------+-----+------|
-|         |          |      |     |      |
-     
+**** Template     
 *** Tai Ji
 **** Target HR 
 - min 0.0 * (HR Max - HR Rest) + HR Rest 
@@ -112,10 +109,6 @@
 - max 0.2 * (HR Max - HR Rest) + HR Rest
   e.g.           0.2 * (180 - 60) + 60 = 84
 **** Template
-#+TBLNAME: <DATE>SUMMARY 
-| Rest HR | Final HR | Tech | Eff | Disc |
-|---------+----------+------+-----+------|
-|         |          |      |     |      |
 
 
 *** Ageless mobility
@@ -126,11 +119,6 @@ e.g.           0.2 * (180 - 60) + 60 = 84
 e.g.           0.4 * (180 - 60) + 60 = 108
 
 **** Template
-#+TBLNAME: <DATE>SUMMARY 
-| Rest HR | Final HR | Tech | Eff | Disc |
-|---------+----------+------+-----+------|
-|         |          |      |     |      |
-
 *** Thrive flow
 **** Target HR
 - min < 0.2 * (HR Max - HR Rest) + HR Rest
@@ -139,10 +127,6 @@ e.g.           0.2 * (180 - 60) + 60 = 84
 e.g.           0.4 * (180 - 60) + 60 = 108
 
 **** Template
-#+TBLNAME: <DATE>SUMMARY 
-| Rest HR | Final HR | Tech | Eff | Disc |
-|---------+----------+------+-----+------|
-|         |          |      |     |      |
 
 
 *** Flowphysique
@@ -177,6 +161,20 @@ e.g.           0.4 * (180 - 60) + 60 = 108
        #+TBLFM: @2$2=vmean(remote(<DATE>RAW,@2$11..@7$11)::@2$3=vsum(remote(<DATE>RAW,@2$10..@7$10))::@2$4=vmean(remote(<DATE>RAW,@2$12..@7$12))::@2$5=vmean(remote(<DATE>RAW,@2$13..@7$13))::@2$6=vmean(remote(<DATE>RAW,@2$14..@7$14))
 
 ***** 4/1X4
+#+TBLNAME: <DATE>RAW
+| Exercise                  | Reps | Min | HR | T | E | D |
+|---------------------------+------+-----+----+---+---+---|
+| Walking Lunge             |      |     |    |   |   |   |
+| Shoulder Bridge Knee Tuck |      |     |    |   |   |   |
+| Crow Hop                  |      |     |    |   |   |   |
+| Forearm Crocodile         |      |     |    |   |   |   |
+  
+#+TBLNAME: <DATE>SUMMARY
+| Rest HR | Average HR | Score | Tech | Eff | Disc |
+|---------+------------+-------+------+-----+------|
+|         |          0 |     0 |    0 |   0 |    0 |
+       #+TBLFM: @2$2=vmean(remote(<DATE>RAW,@2$3..@4$3)::@2$3=vsum(remote(<DATE>RAW,@2$4..@4$4))::@2$4=vmean(remote(<DATE>RAW,@2$5..@4$5))::@2$5=vmean(remote(<DATE>RAW,@2$6..@4$6))::@2$6=vmean(remote(<DATE>RAW,@2$7..@4$7))
+
 ***** EMOTM
 ****** Instructions
 For 20 minues, every minute on the minute perform a set.
