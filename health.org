@@ -232,7 +232,7 @@ Do as many sets as possible in 20 mins.
 | [2012-11-19 Mon] | Intuflow             |      53 |        71 |       |         9 |         3 |         2 | [[id:6802377a-4a60-4058-9dfa-8804ed1f03fc][Intuflow]]                           |
 | [2012-11-20 Tue] | Thrive               |       0 |         0 |       |         8 |         4 |         3 | [[id:1525e014-2499-45b3-b98b-e8913c6a126b][Thrive Flow]]                        |
 |                  |                      |         |           |       |           |           |           |                                    |
-    #+TBLFM: @2$3=remote(20121030SUMMARY, @2$1)::@2$4=remote(20121030SUMMARY, @2$2)::@2$5=remote(20121030SUMMARY, @2$3)::@2$6=remote(20121030SUMMARY, @2$4)::@2$7=remote(20121030SUMMARY, @2$5)::@2$8=remote(20121030SUMMARY, @2$6)::@3$3=remote(20121031SUMMARY, @2$1)::@3$4=remote(20121031SUMMARY, @2$2)::@3$5=remote(20121031SUMMARY, @2$3)::@3$6=remote(20121031SUMMARY, @2$4)::@3$7=remote(20121031SUMMARY, @2$5)::@3$8=remote(20121031SUMMARY, @2$6)::@6$3=remote(20121119SUMMARY, @2$1)::@6$4=remote(20121119SUMMARY, @2$2)::@6$6=remote(20121119SUMMARY, @2$3)::@6$7=remote(20121119SUMMARY, @2$4)::@6$8=remote(20121119SUMMARY, @2$5)::@7$3=remote(20121120SUMMARY, @2$1)::@7$4=remote(20121120SUMMARY, @2$2)::@7$6=remote(20121120SUMMARY, @2$3)::@7$7=remote(20121120SUMMARY, @2$4)::@7$8=remote(20121120SUMMARY, @2$5)
+    #+TBLFM: @2$3=remote(20121030SUMMARY, @2$1)::@2$4=remote(20121030SUMMARY, @2$2)::@2$5=remote(20121030SUMMARY, @2$3)::@2$6=remote(20121030SUMMARY, @2$4)::@2$7=remote(20121030SUMMARY, @2$5)::@2$8=remote(20121030SUMMARY, @2$6)::@3$3=remote(20121031SUMMARY, @2$1)::@3$4=remote(20121031SUMMARY, @2$2)::@3$5=remote(20121031SUMMARY, @2$3)::@3$6=remote(20121031SUMMARY, @2$4)::@3$7=remote(20121031SUMMARY, @2$5)::@3$8=remote(20121031SUMMARY, @2$6)::@4$3=remote(20121101SUMMARY, @2$1)::@4$4=remote(20121101SUMMARY, @2$2)::@4$5=remote(20121101SUMMARY, @2$3)::@4$6=remote(20121101SUMMARY, @2$4)::@4$7=remote(20121101SUMMARY, @2$5)::@4$8=remote(20121101SUMMARY, @2$6)::@6$3=remote(20121119SUMMARY, @2$1)::@6$4=remote(20121119SUMMARY, @2$2)::@6$6=remote(20121119SUMMARY, @2$3)::@6$7=remote(20121119SUMMARY, @2$4)::@6$8=remote(20121119SUMMARY, @2$5)::@7$3=remote(20121120SUMMARY, @2$1)::@7$4=remote(20121120SUMMARY, @2$2)::@7$6=remote(20121120SUMMARY, @2$3)::@7$7=remote(20121120SUMMARY, @2$4)::@7$8=remote(20121120SUMMARY, @2$5)
 
 
 *** 2012
@@ -315,9 +315,9 @@ Do as many sets as possible in 20 mins.
 [2012-11-20 Thu 15:30]
 
 #+TBLNAME: 20121119SUMMARY
-| Rest HR | Final HR | Tech | Eff | Disc |
-|---------+----------+------+-----+------|
-|      53 |       71 |    9 |   3 |    2 | 
+| Rest HR | Final HR | Score | Tech | Eff | Disc |
+|---------+----------+-------+------+-----+------|
+|      53 |       71 |       |    9 |   3 |    2 |
   
 ***** 2012-11-20 Tuesday
 ****** Thrive Flow
@@ -330,9 +330,9 @@ Do as many sets as possible in 20 mins.
 [2012-11-20 Thu 15:30]
 
 #+TBLNAME: 20121120SUMMARY
-| Rest HR | Final HR | Tech | Eff | Disc |
-|---------+----------+------+-----+------|
-|         |          |    8 |   4 |    3 |
+| Rest HR | Final HR | Score | Tech | Eff | Disc |
+|---------+----------+-------+------+-----+------|
+|         |          |       |    8 |   4 |    3 |
 
 * Diet 								       :DIET:
   :PROPERTIES:
