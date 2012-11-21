@@ -82,6 +82,7 @@
 - max 0.2 * (HR Max - HR Rest) + HR Rest
   e.g.           0.2 * (180 - 60) + 60 = 84
 **** Template
+#+TBLNAME: <DATE>SUMMARY 
 | Rest HR | Final HR | Tech | Eff | Disc |
 |---------+----------+------+-----+------|
 |         |          |      |     |      |
@@ -92,10 +93,11 @@
 - max 0.2 * (HR Max - HR Rest) + HR Rest
   e.g.           0.2 * (180 - 60) + 60 = 84
 **** Template
+#+TBLNAME: <DATE>SUMMARY 
 | Rest HR | Final HR | Tech | Eff | Disc |
 |---------+----------+------+-----+------|
 |         |          |      |     |      |
-
+     
 *** Tai Ji
 **** Target HR 
 - min 0.0 * (HR Max - HR Rest) + HR Rest 
@@ -103,6 +105,7 @@
 - max 0.2 * (HR Max - HR Rest) + HR Rest
   e.g.           0.2 * (180 - 60) + 60 = 84
 **** Template
+#+TBLNAME: <DATE>SUMMARY 
 | Rest HR | Final HR | Tech | Eff | Disc |
 |---------+----------+------+-----+------|
 |         |          |      |     |      |
@@ -116,6 +119,7 @@ e.g.           0.2 * (180 - 60) + 60 = 84
 e.g.           0.4 * (180 - 60) + 60 = 108
 
 **** Template
+#+TBLNAME: <DATE>SUMMARY 
 | Rest HR | Final HR | Tech | Eff | Disc |
 |---------+----------+------+-----+------|
 |         |          |      |     |      |
@@ -128,6 +132,7 @@ e.g.           0.2 * (180 - 60) + 60 = 84
 e.g.           0.4 * (180 - 60) + 60 = 108
 
 **** Template
+#+TBLNAME: <DATE>SUMMARY 
 | Rest HR | Final HR | Tech | Eff | Disc |
 |---------+----------+------+-----+------|
 |         |          |      |     |      |
@@ -206,7 +211,8 @@ Do as many sets as possible in 20 mins.
 | 2012-11-19 | Intuflow |      53 |       71 |       |    9 |   3 |    2 | [[id:6802377a-4a60-4058-9dfa-8804ed1f03fc][Intuflow]]    |
 | 2012-11-20 | Thrive   |         |          |       |    8 |   4 |    3 | [[id:1525e014-2499-45b3-b98b-e8913c6a126b][Thrive Flow]] |
 |            |          |         |          |       |      |     |      |             |
-  
+    #+TBLFM: @2$3=remote(20121119SUMMARY, @2$1)::@2$4=remote(20121119SUMMARY, @2$2)::@2$6=remote(20121119SUMMARY, @2$3)::@2$7=remote(20121119SUMMARY, @2$4)::@2$8=remote(20121119SUMMARY, @2$5)
+
 
 *** 2012
     :PROPERTIES:
@@ -272,6 +278,13 @@ Do as many sets as possible in 20 mins.
        :ID:       1525e014-2499-45b3-b98b-e8913c6a126b
        :END:
 [2012-11-20 Thu 15:30]
+
+#+TBLNAME: 20121120SUMMARY
+| Rest HR | Final HR | Tech | Eff | Disc |
+|---------+----------+------+-----+------|
+|         |          |    1 |   2 |    3 |
+
+843
 * Diet 								       :DIET:
   :PROPERTIES:
   :ID:       388ded9e-79b9-4d94-bba7-0b5bcc314c75
