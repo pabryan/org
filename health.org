@@ -28,13 +28,16 @@
 :END:
 
 *** NEXT Mod Intensity
-    SCHEDULED: <2012-11-21 Wed .+4d/5d>
+    SCHEDULED: <2012-11-25 Sun .+4d/5d>
+    - State "DONE"       from "NEXT"       [2012-11-21 Wed 17:05]
+    :LOGBOOK:
+    :END:
     - State "DONE"       from "NEXT"       [2012-11-17 Sat 10:58]
 :PROPERTIES:
 :STYLE: habit
 :REPEAT_TO_STATE: NEXT
 :ID: 2fd02d93-9376-4172-b361-0e865b293007
-:LAST_REPEAT: [2012-11-17 Sat 10:58]
+:LAST_REPEAT: [2012-11-21 Wed 17:05]
 :END:
     
 *** NEXT High Intensity
@@ -349,14 +352,15 @@ Do as many sets as possible in 20 mins.
        :ID:       385d0c1c-7589-439f-bb71-251358ed15a6
        :END:
 #+TBLNAME: 20121117RAW
-| Exercise                  | Reps 1 | Reps 2 | Min | HR1 | HR2 | T1 | T2 | E1 | E1 | D1 | D2 |
+| Exercise                  | Reps 1 | Reps 2 | Min | HR1 | HR2 | T1 | T2 | E1 | E2 | D1 | D2 |
 |---------------------------+--------+--------+-----+-----+-----+----+----+----+----+----+----|
-| Forearm Cross Knee Thread |        |        |     |     |     |    |    |    |    |    |    |
-| Rocca Bent                |        |        |     |     |     |    |    |    |    |    |    |
-| Jump Up                   |        |        |     |     |     |    |    |    |    |    |    |
-| Quad Press                |        |        |     |     |     |    |    |    |    |    |    |
-| Alternating Dolphin       |        |        |     |     |     |    |    |    |    |    |    |
-  
+| Forearm Cross Knee Thread |     20 |     12 |  12 | 108 | 148 |  8 |  7 |  6 |  6 |  2 |  4 |
+| Rocca Bent                |     12 |     12 |  12 | 128 | 148 |  9 |  8 |  6 |  7 |  3 |  4 |
+| Jump Up                   |     16 |      8 |   8 | 108 | 152 |  9 |  9 |  6 |  6 |  3 |  3 |
+| Quad Press                |     31 |     23 |  23 | 152 | 152 |  9 |  9 |  7 |  7 |  3 |  3 |
+| Alternating Dolphin       |     13 |     12 |  12 | 152 | 144 |  7 |  8 |  8 |  7 |  4 |  4 |
+       #+TBLFM: $4=vmin($2..$3)
+
 #+TBLNAME: 20121117SUMMARY
 | Rest HR | Average HR | Score | Tech | Eff | Disc |
 |---------+------------+-------+------+-----+------|
