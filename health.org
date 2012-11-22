@@ -216,7 +216,7 @@ Do as many sets as possible in 20 mins.
 | Rest HR | Average HR | Score | Tech | Eff | Disc |
 |---------+------------+-------+------+-----+------|
 |         |          0 |     0 |    0 |   0 |    0 |
-       #+TBLFM: @2$2=vmean(remote(<DATE>RAW,@2$3..@5$3)::@2$3=vsum(remote(<DATE>RAW,@2$4..@5$4))::@2$4=vmean(remote(<DATE>RAW,@2$5..@5$5))::@2$5=vmean(remote(<DATE>RAW,@2$6..@5$6))::@2$6=vmean(remote(<DATE>RAW,@2$7..@5$7))
+       #+TBLFM: @2$2=vmean(remote(<DATE>RAW,@2$5..@5$6)::@2$3=vsum(remote(<DATE>RAW,@2$4..@5$4))::@2$4=vmean(remote(<DATE>RAW,@2$7..@5$8))::@2$5=vmean(remote(<DATE>RAW,@2$9..@5$10))::@2$6=vmean(remote(<DATE>RAW,@2$11..@5$12))
 
 ***** AFAP
 #+TBLNAME: <DATE>SUMMARY
@@ -348,18 +348,19 @@ Do as many sets as possible in 20 mins.
        :ID:       b8e1a757-627f-4387-9974-4c147efcfc17
        :END:
 #+TBLNAME: 20121117RAW
-| Exercise                  | Reps |  HR | T | E | D |
-|---------------------------+------+-----+---+---+---|
-| Walking Lunge             |   72 | 148 | 9 | 7 | 3 |
-| Shoulder Bridge Knee Tuck |   32 | 128 | 9 | 6 | 2 |
-| Crow Hop                  |   28 | 152 | 9 | 8 | 3 |
-| Forearm Crocodile         |   53 | 156 | 8 | 8 | 2 |
+| Exercise                  | Reps 1 | Reps 2 | Min | HR1 | HR2 | T1 | T2 | E1 | E1 | D1 | D2 |
+|---------------------------+--------+--------+-----+-----+-----+----+----+----+----+----+----|
+| Forearm Cross Knee Thread |        |        |     |     |     |    |    |    |    |    |    |
+| Rocca Bent                |        |        |     |     |     |    |    |    |    |    |    |
+| Jump Up                   |        |        |     |     |     |    |    |    |    |    |    |
+| Quad Press                |        |        |     |     |     |    |    |    |    |    |    |
+| Alternating Dolphin       |        |        |     |     |     |    |    |    |    |    |    |
   
 #+TBLNAME: 20121117SUMMARY
-| Rest HR | Average HR | Score | Tech |  Eff | Disc |
-|---------+------------+-------+------+------+------|
-|      88 |        146 |   185 | 8.75 | 7.25 |  2.5 |
-       #+TBLFM: @2$2=vmean(remote(20121117RAW,@2$3..@5$3)::@2$3=vsum(remote(20121117RAW,@2$2..@5$2))::@2$4=vmean(remote(20121117RAW,@2$4..@5$4))::@2$5=vmean(remote(20121117RAW,@2$5..@5$5))::@2$6=vmean(remote(20121117RAW,@2$6..@5$6))
+| Rest HR | Average HR | Score | Tech | Eff | Disc |
+|---------+------------+-------+------+-----+------|
+|         |          0 |     0 |    0 |   0 |    0 |
+       #+TBLFM: @2$2=vmean(remote(20121117RAW,@2$5..@5$6)::@2$3=vsum(remote(20121117RAW,@2$4..@5$4))::@2$4=vmean(remote(20121117RAW,@2$7..@5$8))::@2$5=vmean(remote(20121117RAW,@2$9..@5$10))::@2$6=vmean(remote(20121117RAW,@2$11..@5$12))
 ***** 2012-11-19 Monday
 ****** Intuflow
      :LOGBOOK:
@@ -390,6 +391,7 @@ Do as many sets as possible in 20 mins.
 |---------+----------+-------+------+-----+------|
 |         |          |       |    8 |   4 |    3 |
 
+***** 2012-11-21 Wednesday
 * Diet 								       :DIET:
   :PROPERTIES:
   :ID:       388ded9e-79b9-4d94-bba7-0b5bcc314c75
