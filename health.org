@@ -219,6 +219,11 @@ Do as many sets as possible in 20 mins.
        #+TBLFM: @2$2=vmean(remote(<DATE>RAW,@2$3..@5$3)::@2$3=vsum(remote(<DATE>RAW,@2$4..@5$4))::@2$4=vmean(remote(<DATE>RAW,@2$5..@5$5))::@2$5=vmean(remote(<DATE>RAW,@2$6..@5$6))::@2$6=vmean(remote(<DATE>RAW,@2$7..@5$7))
 
 ***** AFAP
+#+TBLNAME: <DATE>SUMMARY
+| Rest HR | Final HR | Time  | Tech | Eff | Disc |
+|---------+----------+-------+------+-----+------|
+|         |          |       |      |     |      |
+
 **** Level 2 Templaes
 **** Level 3 Templates
 ** Log
