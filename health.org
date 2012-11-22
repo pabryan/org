@@ -203,6 +203,21 @@ Do as many sets as possible in 20 mins.
 - 5 x shoulder bridge tucks
 
 ***** [90/3X5]2
+#+TBLNAME: <DATE>RAW
+| Exercise                  | Reps 1 | Reps 2 | Min | HR1 | HR2 | T1 | T2 | E1 | E1 | D1 | D2 |
+|---------------------------+--------+--------+-----+-----+-----+----+----+----+----+----+----|
+| Forearm Cross Knee Thread |        |        |     |     |     |    |    |    |    |    |    |
+| Rocca Bent                |        |        |     |     |     |    |    |    |    |    |    |
+| Jump Up                   |        |        |     |     |     |    |    |    |    |    |    |
+| Quad Press                |        |        |     |     |     |    |    |    |    |    |    |
+| Alternating Dolphin       |        |        |     |     |     |    |    |    |    |    |    |
+  
+#+TBLNAME: <DATE>SUMMARY
+| Rest HR | Average HR | Score | Tech | Eff | Disc |
+|---------+------------+-------+------+-----+------|
+|         |          0 |     0 |    0 |   0 |    0 |
+       #+TBLFM: @2$2=vmean(remote(<DATE>RAW,@2$3..@5$3)::@2$3=vsum(remote(<DATE>RAW,@2$4..@5$4))::@2$4=vmean(remote(<DATE>RAW,@2$5..@5$5))::@2$5=vmean(remote(<DATE>RAW,@2$6..@5$6))::@2$6=vmean(remote(<DATE>RAW,@2$7..@5$7))
+
 ***** AFAP
 **** Level 2 Templaes
 **** Level 3 Templates
