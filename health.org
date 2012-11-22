@@ -176,6 +176,11 @@ e.g.           0.4 * (180 - 60) + 60 = 108
        #+TBLFM: @2$2=vmean(remote(<DATE>RAW,@2$3..@4$3)::@2$3=vsum(remote(<DATE>RAW,@2$4..@4$4))::@2$4=vmean(remote(<DATE>RAW,@2$5..@4$5))::@2$5=vmean(remote(<DATE>RAW,@2$6..@4$6))::@2$6=vmean(remote(<DATE>RAW,@2$7..@4$7))
 
 ***** EMOTM
+#+TBLNAME: <DATE>SUMMARY
+| Rest HR | Final HR | Score | Tech | Eff | Disc |
+|---------+----------+-------+------+-----+------|
+|         |        0 |     0 |    0 |   0 |    0 |
+
 ****** Instructions
 For 20 minues, every minute on the minute perform a set.
 ****** Sets
@@ -215,13 +220,13 @@ Do as many sets as possible in 20 mins.
 |------------------+----------------------+---------+-----------+-------+-----------+-----------+-----------+------------------------------------|
 | [2012-10-30 Tue] | [20/10x8+60]6 (Mod)  |      65 |       120 |    27 | 7.8333333 |         6 | 3.3333333 | [[id:5c0bae81-e2fb-408b-a99f-6059921166fe][Flow Physique : {20/10x8+60}6 Mod]]  |
 | [2012-10-31 Wed] | [20/10x8+60]6 (High) |      65 | 137.66667 |    33 | 8.1666667 | 8.3333333 | 3.1666667 | [[id:ce32e5c4-9be2-414b-b195-01698ca42d36][Flow Physique : {20/10x8+60}6 High]] |
-| [2012-11-03 Sat] | 4/1x4 (Mod)          |         |           |       |           |           |           | [[id:b8e1a757-627f-4387-9974-4c147efcfc17][Flow Physique : 4/1x4]]                              |
-| [2012-11-08 Thu] | EMOTM (Mod)          |         |           |       |           |           |           |                                    |
-| [2012-11-12 Mon] | AMRAP (Mod)          |         |           |       |           |           |           |                                    |
-| [2012-11-13 Tue] | AMRAP (High)         |         |           |       |           |           |           |                                    |
-| [2012-11-17 Sat] | [90/30x5]2 (Mod)     |         |           |       |           |           |           |                                    |
-| [2012-11-19 Mon] | Intuflow             |      53 |        71 |       |         9 |         3 |         2 | [[id:6802377a-4a60-4058-9dfa-8804ed1f03fc][Intuflow]]                           |
-| [2012-11-20 Tue] | Thrive               |       0 |         0 |       |         8 |         4 |         3 | [[id:1525e014-2499-45b3-b98b-e8913c6a126b][Thrive Flow]]                        |
+| [2012-11-03 Sat] | 4/1x4 (Mod)          |      88 |       146 |   185 |      8.75 |      7.25 |       2.5 | [[id:b8e1a757-627f-4387-9974-4c147efcfc17][Flow Physique : 4/1x4]]              |
+| [2012-11-08 Thu] | EMOTM (Mod)          |      88 |       146 |   185 |      8.75 |      7.25 |       2.5 | [[id:b8e1a757-627f-4387-9974-4c147efcfc17][Flow Physique : EMOTM (Mod)]]        |
+| [2012-11-12 Mon] | AMRAP (Mod)          |      88 |       146 |   185 |      8.75 |      7.25 |       2.5 | [[id:b8e1a757-627f-4387-9974-4c147efcfc17][Flow Physique : AMRAP (Mod)]]        |
+| [2012-11-13 Tue] | AMRAP (High)         |      88 |       146 |   185 |      8.75 |      7.25 |       2.5 | [[id:b8e1a757-627f-4387-9974-4c147efcfc17][Flow Physique : AMRAP (High)]]       |
+| [2012-11-17 Sat] | [90/30x5]2 (Mod)     |      88 |       146 |   185 |      8.75 |      7.25 |       2.5 | [[id:b8e1a757-627f-4387-9974-4c147efcfc17][Flow Physique : {90/30x5}2 (Mod)]]   |
+| [2012-11-19 Mon] | Intuflow             |      53 |        71 |     0 |         9 |         3 |         2 | [[id:6802377a-4a60-4058-9dfa-8804ed1f03fc][Intuflow]]                           |
+| [2012-11-20 Tue] | Thrive               |       0 |         0 |     0 |         8 |         4 |         3 | [[id:1525e014-2499-45b3-b98b-e8913c6a126b][Thrive Flow]]                        |
 |                  |                      |         |           |       |           |           |           |                                    |
     #+TBLFM: @2$3=remote(20121030SUMMARY, @2$1)::@2$4=remote(20121030SUMMARY, @2$2)::@2$5=remote(20121030SUMMARY, @2$3)::@2$6=remote(20121030SUMMARY, @2$4)::@2$7=remote(20121030SUMMARY, @2$5)::@2$8=remote(20121030SUMMARY, @2$6)::@3$3=remote(20121031SUMMARY, @2$1)::@3$4=remote(20121031SUMMARY, @2$2)::@3$5=remote(20121031SUMMARY, @2$3)::@3$6=remote(20121031SUMMARY, @2$4)::@3$7=remote(20121031SUMMARY, @2$5)::@3$8=remote(20121031SUMMARY, @2$6)::@4$3=remote(20121103SUMMARY, @2$1)::@4$4=remote(20121103SUMMARY, @2$2)::@4$5=remote(20121103SUMMARY, @2$3)::@4$6=remote(20121103SUMMARY, @2$4)::@4$7=remote(20121103SUMMARY, @2$5)::@4$8=remote(20121103SUMMARY, @2$6)::@5$3=remote(20121108SUMMARY, @2$1)::@5$4=remote(20121108SUMMARY, @2$2)::@5$5=remote(20121108SUMMARY, @2$3)::@5$6=remote(20121108SUMMARY, @2$4)::@5$7=remote(20121108SUMMARY, @2$5)::@5$8=remote(20121108SUMMARY, @2$6)::@6$3=remote(20121112SUMMARY, @2$1)::@6$4=remote(20121112SUMMARY, @2$2)::@6$5=remote(20121112SUMMARY, @2$3)::@6$6=remote(20121112SUMMARY, @2$4)::@6$7=remote(20121112SUMMARY, @2$5)::@6$8=remote(20121112SUMMARY, @2$6)::@7$3=remote(20121113SUMMARY, @2$1)::@7$4=remote(20121113SUMMARY, @2$2)::@7$5=remote(20121113SUMMARY, @2$3)::@7$6=remote(20121113SUMMARY, @2$4)::@7$7=remote(20121113SUMMARY, @2$5)::@7$8=remote(20121113SUMMARY, @2$6)::@8$3=remote(20121117SUMMARY, @2$1)::@8$4=remote(20121117SUMMARY, @2$2)::@8$5=remote(20121117SUMMARY, @2$3)::@8$6=remote(20121117SUMMARY, @2$4)::@8$7=remote(20121117SUMMARY, @2$5)::@8$8=remote(20121117SUMMARY, @2$6)::@9$3=remote(20121119SUMMARY, @2$1)::@9$4=remote(20121119SUMMARY, @2$2)::@9$5=remote(20121119SUMMARY, @2$3)::@9$6=remote(20121119SUMMARY, @2$4)::@9$7=remote(20121119SUMMARY, @2$5)::@9$8=remote(20121119SUMMARY, @2$6)::@10$3=remote(20121120SUMMARY, @2$1)::@10$4=remote(20121120SUMMARY, @2$2)::@10$5=remote(20121120SUMMARY, @2$3)::@10$6=remote(20121120SUMMARY, @2$4)::@10$7=remote(20121120SUMMARY, @2$5)::@10$8=remote(20121120SUMMARY, @2$6)
 
@@ -295,6 +300,71 @@ Do as many sets as possible in 20 mins.
 |      88 |        146 |   185 | 8.75 | 7.25 |  2.5 |
        #+TBLFM: @2$2=vmean(remote(20121103RAW,@2$3..@5$3)::@2$3=vsum(remote(20121103RAW,@2$2..@5$2))::@2$4=vmean(remote(20121103RAW,@2$4..@5$4))::@2$5=vmean(remote(20121103RAW,@2$5..@5$5))::@2$6=vmean(remote(20121103RAW,@2$6..@5$6))
 
+***** 2012-11-08 Saturday
+****** Flow Physique : EMOTM (Mod)
+       :PROPERTIES:
+       :ID:       b8e1a757-627f-4387-9974-4c147efcfc17
+       :END:
+#+TBLNAME: 20121108SUMMARY
+| Rest HR | Average HR | Score | Tech | Eff | Disc |
+|---------+------------+-------+------+-----+------|
+|      70 |        124 |    11 |    9 |   8 | 3    |
+
+***** 2012-11-12 Saturday
+****** Flow Physique : AMRAP (Mod)
+       :PROPERTIES:
+       :ID:       b8e1a757-627f-4387-9974-4c147efcfc17
+       :END:
+#+TBLNAME: 20121112RAW
+| Exercise                  | Reps |  HR | T | E | D |
+|---------------------------+------+-----+---+---+---|
+| Walking Lunge             |   72 | 148 | 9 | 7 | 3 |
+| Shoulder Bridge Knee Tuck |   32 | 128 | 9 | 6 | 2 |
+| Crow Hop                  |   28 | 152 | 9 | 8 | 3 |
+| Forearm Crocodile         |   53 | 156 | 8 | 8 | 2 |
+  
+#+TBLNAME: 20121112SUMMARY
+| Rest HR | Average HR | Score | Tech |  Eff | Disc |
+|---------+------------+-------+------+------+------|
+|      88 |        146 |   185 | 8.75 | 7.25 |  2.5 |
+       #+TBLFM: @2$2=vmean(remote(20121112RAW,@2$3..@5$3)::@2$3=vsum(remote(20121112RAW,@2$2..@5$2))::@2$4=vmean(remote(20121112RAW,@2$4..@5$4))::@2$5=vmean(remote(20121112RAW,@2$5..@5$5))::@2$6=vmean(remote(20121112RAW,@2$6..@5$6))
+
+***** 2012-11-13 Saturday
+****** Flow Physique : AMRAP (High)
+       :PROPERTIES:
+       :ID:       b8e1a757-627f-4387-9974-4c147efcfc17
+       :END:
+#+TBLNAME: 20121113RAW
+| Exercise                  | Reps |  HR | T | E | D |
+|---------------------------+------+-----+---+---+---|
+| Walking Lunge             |   72 | 148 | 9 | 7 | 3 |
+| Shoulder Bridge Knee Tuck |   32 | 128 | 9 | 6 | 2 |
+| Crow Hop                  |   28 | 152 | 9 | 8 | 3 |
+| Forearm Crocodile         |   53 | 156 | 8 | 8 | 2 |
+  
+#+TBLNAME: 20121113SUMMARY
+| Rest HR | Average HR | Score | Tech |  Eff | Disc |
+|---------+------------+-------+------+------+------|
+|      88 |        146 |   185 | 8.75 | 7.25 |  2.5 |
+       #+TBLFM: @2$2=vmean(remote(20121113RAW,@2$3..@5$3)::@2$3=vsum(remote(20121113RAW,@2$2..@5$2))::@2$4=vmean(remote(20121113RAW,@2$4..@5$4))::@2$5=vmean(remote(20121113RAW,@2$5..@5$5))::@2$6=vmean(remote(20121113RAW,@2$6..@5$6))
+***** 2012-11-17 Saturday
+****** Flow Physique : [90/30x5]2 (Mod)
+       :PROPERTIES:
+       :ID:       b8e1a757-627f-4387-9974-4c147efcfc17
+       :END:
+#+TBLNAME: 20121117RAW
+| Exercise                  | Reps |  HR | T | E | D |
+|---------------------------+------+-----+---+---+---|
+| Walking Lunge             |   72 | 148 | 9 | 7 | 3 |
+| Shoulder Bridge Knee Tuck |   32 | 128 | 9 | 6 | 2 |
+| Crow Hop                  |   28 | 152 | 9 | 8 | 3 |
+| Forearm Crocodile         |   53 | 156 | 8 | 8 | 2 |
+  
+#+TBLNAME: 20121117SUMMARY
+| Rest HR | Average HR | Score | Tech |  Eff | Disc |
+|---------+------------+-------+------+------+------|
+|      88 |        146 |   185 | 8.75 | 7.25 |  2.5 |
+       #+TBLFM: @2$2=vmean(remote(20121117RAW,@2$3..@5$3)::@2$3=vsum(remote(20121117RAW,@2$2..@5$2))::@2$4=vmean(remote(20121117RAW,@2$4..@5$4))::@2$5=vmean(remote(20121117RAW,@2$5..@5$5))::@2$6=vmean(remote(20121117RAW,@2$6..@5$6))
 ***** 2012-11-19 Monday
 ****** Intuflow
      :LOGBOOK:
