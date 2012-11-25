@@ -30,8 +30,6 @@
 *** NEXT Mod Intensity
     SCHEDULED: <2012-11-25 Sun .+4d/5d>
     - State "DONE"       from "NEXT"       [2012-11-21 Wed 17:05]
-    :LOGBOOK:
-    :END:
     - State "DONE"       from "NEXT"       [2012-11-17 Sat 10:58]
 :PROPERTIES:
 :STYLE: habit
@@ -41,13 +39,14 @@
 :END:
     
 *** NEXT High Intensity
-    SCHEDULED: <2012-11-22 Thu .+4d/5d>
+    SCHEDULED: <2012-11-29 Thu .+4d/5d>
+    - State "DONE"       from "NEXT"       [2012-11-22 Thu 10:34]
     - State "DONE"       from "NEXT"       [2012-11-18 Sun 09:59]
 :PROPERTIES:
 :STYLE: habit
 :REPEAT_TO_STATE: NEXT
 :ID: d52c3978-eea8-457c-b9c9-1a38d6d54a88
-:LAST_REPEAT: [2012-11-18 Sun 09:59]
+:LAST_REPEAT: [2012-11-22 Thu 10:34]
 :END:
 
 *** NEXT Eye exercises
@@ -246,9 +245,9 @@ Do as many sets as possible in 20 mins.
 | [2012-11-20 Tue] | [[id:1525e014-2499-45b3-b98b-e8913c6a126b][Thrive Flow]]                        |       0 |         0 |     0 |         8 |         4 |         3 |
 | [2012-11-21 Wed] | [[id:b1ad2732-367d-4e5b-8346-735c941ac257][Flow Physique : AFAP (Mod)]]         |      60 |       100 | 671 s |         8 |         6 |         2 |
 | [2012-11-22 Thu] | [[id:b3f5de7c-d839-4262-9126-1cc0c28fccce][Flow Physique : AFAP (High)]]        |      63 |       164 | 530 s |         9 |         9 |         4 |
-| [2012-11-23 Fri] | [[id:d8d9af28-66ef-4f66-a2cf-45c67cdad885][Thrive Flow]]                        |         |           |       |           |           |           |
-| [2012-11-24 Sat] | [[id:c42b03e0-de8d-4ded-a155-f388b3b2f4b6][Thrive Flow]]                        |         |           |       |           |           |           |
-    #+TBLFM: @2$3=remote(20121030SUMMARY, @2$1)::@2$4=remote(20121030SUMMARY, @2$2)::@2$5=remote(20121030SUMMARY, @2$3)::@2$6=remote(20121030SUMMARY, @2$4)::@2$7=remote(20121030SUMMARY, @2$5)::@2$8=remote(20121030SUMMARY, @2$6)::@3$3=remote(20121031SUMMARY, @2$1)::@3$4=remote(20121031SUMMARY, @2$2)::@3$5=remote(20121031SUMMARY, @2$3)::@3$6=remote(20121031SUMMARY, @2$4)::@3$7=remote(20121031SUMMARY, @2$5)::@3$8=remote(20121031SUMMARY, @2$6)::@4$3=remote(20121103SUMMARY, @2$1)::@4$4=remote(20121103SUMMARY, @2$2)::@4$5=remote(20121103SUMMARY, @2$3)::@4$6=remote(20121103SUMMARY, @2$4)::@4$7=remote(20121103SUMMARY, @2$5)::@4$8=remote(20121103SUMMARY, @2$6)::@5$3=remote(20121108SUMMARY, @2$1)::@5$4=remote(20121108SUMMARY, @2$2)::@5$5=remote(20121108SUMMARY, @2$3)::@5$6=remote(20121108SUMMARY, @2$4)::@5$7=remote(20121108SUMMARY, @2$5)::@5$8=remote(20121108SUMMARY, @2$6)::@6$3=remote(20121112SUMMARY, @2$1)::@6$4=remote(20121112SUMMARY, @2$2)::@6$5=remote(20121112SUMMARY, @2$3)::@6$6=remote(20121112SUMMARY, @2$4)::@6$7=remote(20121112SUMMARY, @2$5)::@6$8=remote(20121112SUMMARY, @2$6)::@7$3=remote(20121113SUMMARY, @2$1)::@7$4=remote(20121113SUMMARY, @2$2)::@7$5=remote(20121113SUMMARY, @2$3)::@7$6=remote(20121113SUMMARY, @2$4)::@7$7=remote(20121113SUMMARY, @2$5)::@7$8=remote(20121113SUMMARY, @2$6)::@8$3=remote(20121117SUMMARY, @2$1)::@8$4=remote(20121117SUMMARY, @2$2)::@8$5=remote(20121117SUMMARY, @2$3)::@8$6=remote(20121117SUMMARY, @2$4)::@8$7=remote(20121117SUMMARY, @2$5)::@8$8=remote(20121117SUMMARY, @2$6)::@9$3=remote(20121119SUMMARY, @2$1)::@9$4=remote(20121119SUMMARY, @2$2)::@9$5=remote(20121119SUMMARY, @2$3)::@9$6=remote(20121119SUMMARY, @2$4)::@9$7=remote(20121119SUMMARY, @2$5)::@9$8=remote(20121119SUMMARY, @2$6)::@10$3=remote(20121120SUMMARY, @2$1)::@10$4=remote(20121120SUMMARY, @2$2)::@10$5=remote(20121120SUMMARY, @2$3)::@10$6=remote(20121120SUMMARY, @2$4)::@10$7=remote(20121120SUMMARY, @2$5)::@10$8=remote(20121120SUMMARY, @2$6)::@11$3=remote(20121121SUMMARY, @2$1)::@11$4=remote(20121121SUMMARY, @2$2)::@11$5=remote(20121121SUMMARY, @2$3)::@11$6=remote(20121121SUMMARY, @2$4)::@11$7=remote(20121121SUMMARY, @2$5)::@11$8=remote(20121121SUMMARY, @2$6)::@12$3=remote(20121122SUMMARY, @2$1)::@12$4=remote(20121122SUMMARY, @2$2)::@12$5=remote(20121122SUMMARY, @2$3)::@12$6=remote(20121122SUMMARY, @2$4)::@12$7=remote(20121122SUMMARY, @2$5)::@12$8=remote(20121122SUMMARY, @2$6)
+| [2012-11-23 Fri] | [[id:d8d9af28-66ef-4f66-a2cf-45c67cdad885][Thrive Flow]]                        |       0 |         0 |     0 |         7 |         6 |         5 |
+| [2012-11-24 Sat] | [[id:c42b03e0-de8d-4ded-a155-f388b3b2f4b6][Thrive Flow]]                        |       0 |         0 |     0 |         8 |         5 |         5 |
+    #+TBLFM: @2$3=remote(20121030SUMMARY, @2$1)::@2$4=remote(20121030SUMMARY, @2$2)::@2$5=remote(20121030SUMMARY, @2$3)::@2$6=remote(20121030SUMMARY, @2$4)::@2$7=remote(20121030SUMMARY, @2$5)::@2$8=remote(20121030SUMMARY, @2$6)::@3$3=remote(20121031SUMMARY, @2$1)::@3$4=remote(20121031SUMMARY, @2$2)::@3$5=remote(20121031SUMMARY, @2$3)::@3$6=remote(20121031SUMMARY, @2$4)::@3$7=remote(20121031SUMMARY, @2$5)::@3$8=remote(20121031SUMMARY, @2$6)::@4$3=remote(20121103SUMMARY, @2$1)::@4$4=remote(20121103SUMMARY, @2$2)::@4$5=remote(20121103SUMMARY, @2$3)::@4$6=remote(20121103SUMMARY, @2$4)::@4$7=remote(20121103SUMMARY, @2$5)::@4$8=remote(20121103SUMMARY, @2$6)::@5$3=remote(20121108SUMMARY, @2$1)::@5$4=remote(20121108SUMMARY, @2$2)::@5$5=remote(20121108SUMMARY, @2$3)::@5$6=remote(20121108SUMMARY, @2$4)::@5$7=remote(20121108SUMMARY, @2$5)::@5$8=remote(20121108SUMMARY, @2$6)::@6$3=remote(20121112SUMMARY, @2$1)::@6$4=remote(20121112SUMMARY, @2$2)::@6$5=remote(20121112SUMMARY, @2$3)::@6$6=remote(20121112SUMMARY, @2$4)::@6$7=remote(20121112SUMMARY, @2$5)::@6$8=remote(20121112SUMMARY, @2$6)::@7$3=remote(20121113SUMMARY, @2$1)::@7$4=remote(20121113SUMMARY, @2$2)::@7$5=remote(20121113SUMMARY, @2$3)::@7$6=remote(20121113SUMMARY, @2$4)::@7$7=remote(20121113SUMMARY, @2$5)::@7$8=remote(20121113SUMMARY, @2$6)::@8$3=remote(20121117SUMMARY, @2$1)::@8$4=remote(20121117SUMMARY, @2$2)::@8$5=remote(20121117SUMMARY, @2$3)::@8$6=remote(20121117SUMMARY, @2$4)::@8$7=remote(20121117SUMMARY, @2$5)::@8$8=remote(20121117SUMMARY, @2$6)::@9$3=remote(20121119SUMMARY, @2$1)::@9$4=remote(20121119SUMMARY, @2$2)::@9$5=remote(20121119SUMMARY, @2$3)::@9$6=remote(20121119SUMMARY, @2$4)::@9$7=remote(20121119SUMMARY, @2$5)::@9$8=remote(20121119SUMMARY, @2$6)::@10$3=remote(20121120SUMMARY, @2$1)::@10$4=remote(20121120SUMMARY, @2$2)::@10$5=remote(20121120SUMMARY, @2$3)::@10$6=remote(20121120SUMMARY, @2$4)::@10$7=remote(20121120SUMMARY, @2$5)::@10$8=remote(20121120SUMMARY, @2$6)::@11$3=remote(20121121SUMMARY, @2$1)::@11$4=remote(20121121SUMMARY, @2$2)::@11$5=remote(20121121SUMMARY, @2$3)::@11$6=remote(20121121SUMMARY, @2$4)::@11$7=remote(20121121SUMMARY, @2$5)::@11$8=remote(20121121SUMMARY, @2$6)::@12$3=remote(20121122SUMMARY, @2$1)::@12$4=remote(20121122SUMMARY, @2$2)::@12$5=remote(20121122SUMMARY, @2$3)::@12$6=remote(20121122SUMMARY, @2$4)::@12$7=remote(20121122SUMMARY, @2$5)::@12$8=remote(20121122SUMMARY, @2$6)::@13$3=remote(20121123SUMMARY, @2$1)::@13$4=remote(20121123SUMMARY, @2$2)::@13$5=remote(20121123SUMMARY, @2$3)::@13$6=remote(20121123SUMMARY, @2$4)::@13$7=remote(20121123SUMMARY, @2$5)::@13$8=remote(20121123SUMMARY, @2$6)::@14$3=remote(20121124SUMMARY, @2$1)::@14$4=remote(20121124SUMMARY, @2$2)::@14$5=remote(20121124SUMMARY, @2$3)::@14$6=remote(20121124SUMMARY, @2$4)::@14$7=remote(20121124SUMMARY, @2$5)::@14$8=remote(20121124SUMMARY, @2$6)
     
 
 *** 2012
@@ -421,22 +420,18 @@ Do as many sets as possible in 20 mins.
 |---------+----------+------+------+-----+------|
 |      63 |      164 | 530s |    9 |   9 |    4 |
 
-***** 2012-11-23 Tuesday
+***** 2012-11-23 Friday
 ****** Thrive Flow
-     :LOGBOOK:
-     CLOCK: [2012-11-20 Tue 15:30]--[2012-11-20 Tue 16:00] =>  0:30
-     :END:
        :PROPERTIES:
        :ID:       d8d9af28-66ef-4f66-a2cf-45c67cdad885
        :END:
-[2012-11-20 Thu 15:30]
 
-#+TBLNAME: 20121120SUMMARY
+#+TBLNAME: 20121123SUMMARY
 | Rest HR | Final HR | Score | Tech | Eff | Disc |
 |---------+----------+-------+------+-----+------|
-|         |          |       |    8 |   4 |    3 |
+|         |          |       |    7 |   6 |    5 |
 
-***** 2012-11-24 Tuesday
+***** 2012-11-24 Saturday
 ****** Thrive Flow
      :LOGBOOK:
      CLOCK: [2012-11-24 Tue 15:30]--[2012-11-24 Tue 16:00] =>  0:30
@@ -444,12 +439,12 @@ Do as many sets as possible in 20 mins.
        :PROPERTIES:
        :ID:       c42b03e0-de8d-4ded-a155-f388b3b2f4b6
        :END:
-[2012-11-20 Thu 15:30]
+[2012-11-24 Thu 15:30]
 
-#+TBLNAME: 20121120SUMMARY
+#+TBLNAME: 20121124SUMMARY
 | Rest HR | Final HR | Score | Tech | Eff | Disc |
 |---------+----------+-------+------+-----+------|
-|         |          |       |    8 |   4 |    3 |
+|         |          |       |    8 |   5 |    5 |
 
 * Diet 								       :DIET:
   :PROPERTIES:
