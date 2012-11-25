@@ -84,7 +84,7 @@ Use account A11078844
 [2012-11-16 Fri 22:20]
 [[http://lwn.net/Articles/501681/]]
 
-** Monthly Budget
+** Budget
 #+TBLNAME: MTHBUDGET
 | Desc                   |   Amt |
 |------------------------+-------|
@@ -97,16 +97,45 @@ Use account A11078844
 | Kate Visa              |   200 |
 | Family Tax             |  -220 |
 | Pay                    | -3800 |
-| Organic box            |   180 |
-| Supermarket (weekly)   |   250 |
+| Weekly Food            |   408 |
 | Supermarket (non-food) |    60 |
-| Supermarket (bulk)     |    50 |
+| Supermarket (bulk)     |    24 |
 |                        |       |
-| Total                  |  -770 |
-   #+TBLFM: @16$2=vsum(@2$2..@14$2)
+| Total                  |  -818 |
+   #+TBLFM: @11$2=remote(WeeklyFood,@17$2)*4::@13$2=remote(MonthlyFood,@8$2)::@15$2=vsum(@2$2..@14$2)
 
-#+TBLNAME: Weekly Food
+#+TBLNAME: WeeklyFood
+| Desc                                    | Amt |
+|-----------------------------------------+-----|
+| Organic Box                             |  42 |
+| Eggs (2 cartons)                        |   8 |
+| Milk (2 bottles)                        |   8 |
+| Bread (1 torilla, wrap, loaf or bagels) |   8 |
+| Pasta (2 packs)                         |   3 |
+| Mushrooms (3 packs)                     |   6 |
+| Bananans (1 bunch)                      |   3 |
+| Avocados (3)                            |   5 |
+| Cereal (1 box)                          |   5 |
+| Onions (5)                              |   3 |
+| Tin tomato (2)                          |   3 |
+| Tin beans (2)                           |   3 |
+| Crackers (1 box)                        |   3 |
+| Carrots (1 bag)                         |   2 |
+|                                         |     |
+| Total                                   | 102 |
+   #+TBLFM: @17$2=vsum(@2$2..@15$2)
 
+#+TBLNAME: MonthlyFood 
+| Desc              | Amt |
+|-------------------+-----|
+| Rice (1 bag)      |  10 |
+| Flour (1 bag)     |   3 |
+| Oats (1 bag)      |   3 |
+| Dry Fruit (1 bag) |   5 |
+| Lentils (1 bag)   |   3 |
+|                   |     |
+| Tot               |  24 |
+   #+TBLFM: @8$2=vsum(@2$2..@7$2)
 
 * Health and Recreation
   :PROPERTIES:
