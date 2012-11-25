@@ -28,11 +28,12 @@ what's for dinner/lunch?
     :PROPERTIES:
     :ID:       0b32e722-472d-4c60-bc9c-b27660bd9914
     :END:
-*** NEXT Kid's to make cards, draw pictures
+*** NEXT Buy card
     :PROPERTIES:
     :ID:       9f11bf2f-1674-4984-8a72-d4dcbe00329b
     :END:
-*** NEXT Ask kids what to give Kate
+*** DONE Ask kids what to give Kate
+    - State "DONE"       from "NEXT"       [2012-11-24 Sat 20:48]
     - State "NEXT"       from "DONE"       [2012-11-16 Fri 14:25]
     - State "DONE"       from "NEXT"       [2012-11-16 Fri 14:25]
     :PROPERTIES:
