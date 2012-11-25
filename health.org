@@ -233,20 +233,22 @@ Do as many sets as possible in 20 mins.
 **** Level 3 Templates
 ** Log
 *** Progress
-| Date             | Routine              | Rest HR |  Final HR | Score |      Tech |       Eff |      Disc | Ref                                |
-|------------------+----------------------+---------+-----------+-------+-----------+-----------+-----------+------------------------------------|
-| [2012-10-30 Tue] | [20/10x8+60]6 (Mod)  |      65 |       120 |    27 | 7.8333333 |         6 | 3.3333333 | [[id:5c0bae81-e2fb-408b-a99f-6059921166fe][Flow Physique : {20/10x8+60}6 Mod]]  |
-| [2012-10-31 Wed] | [20/10x8+60]6 (High) |      65 | 137.66667 |    33 | 8.1666667 | 8.3333333 | 3.1666667 | [[id:ce32e5c4-9be2-414b-b195-01698ca42d36][Flow Physique : {20/10x8+60}6 High]] |
-| [2012-11-03 Sat] | 4/1x4 (Mod)          |      88 |       146 |   185 |      8.75 |      7.25 |       2.5 | [[id:b8e1a757-627f-4387-9974-4c147efcfc17][Flow Physique : 4/1x4]]              |
-| [2012-11-08 Thu] | EMOTM (Mod)          |      70 |       124 |    11 |         9 |         8 |         3 | [[id:492086a2-99e9-418e-a678-7c4846e2ff3d][Flow Physique : EMOTM (Mod)]]        |
-| [2012-11-12 Mon] | AMRAP (Mod)          |      74 |       164 |     4 |         7 |         8 |         4 | [[id:7511e0fc-cf95-4f37-9695-a383dcea5116][Flow Physique : AMRAP (Mod)]]        |
-| [2012-11-13 Tue] | AMRAP (High)         |      60 |       156 |     6 |         8 |         9 |         4 | [[id:d5bc4223-5d38-4b93-b68d-deffb5dfcd2a][Flow Physique : AMRAP (High)]]       |
-| [2012-11-17 Sat] | [90/30x5]2 (Mod)     |      77 |     139.2 |    67 |       8.3 |       6.6 |       3.3 | [[id:385d0c1c-7589-439f-bb71-251358ed15a6][Flow Physique : {90/30x5}2 (Mod)]]   |
-| [2012-11-19 Mon] | Intuflow             |      53 |        71 |     0 |         9 |         3 |         2 | [[id:6802377a-4a60-4058-9dfa-8804ed1f03fc][Intuflow]]                           |
-| [2012-11-20 Tue] | Thrive               |       0 |         0 |     0 |         8 |         4 |         3 | [[id:1525e014-2499-45b3-b98b-e8913c6a126b][Thrive Flow]]                        |
-| [2012-11-21 Wed] | AFAP (Mod)           |      60 |       100 | 671 s |         8 |         6 |         2 | [[id:b1ad2732-367d-4e5b-8346-735c941ac257][Flow Physique : AFAP]]               |
-| [2012-11-22 Thu] | AFAP (High)          |         |           |       |           |           |           |                                    |
-    #+TBLFM: @2$3=remote(20121030SUMMARY, @2$1)::@2$4=remote(20121030SUMMARY, @2$2)::@2$5=remote(20121030SUMMARY, @2$3)::@2$6=remote(20121030SUMMARY, @2$4)::@2$7=remote(20121030SUMMARY, @2$5)::@2$8=remote(20121030SUMMARY, @2$6)::@3$3=remote(20121031SUMMARY, @2$1)::@3$4=remote(20121031SUMMARY, @2$2)::@3$5=remote(20121031SUMMARY, @2$3)::@3$6=remote(20121031SUMMARY, @2$4)::@3$7=remote(20121031SUMMARY, @2$5)::@3$8=remote(20121031SUMMARY, @2$6)::@4$3=remote(20121103SUMMARY, @2$1)::@4$4=remote(20121103SUMMARY, @2$2)::@4$5=remote(20121103SUMMARY, @2$3)::@4$6=remote(20121103SUMMARY, @2$4)::@4$7=remote(20121103SUMMARY, @2$5)::@4$8=remote(20121103SUMMARY, @2$6)::@5$3=remote(20121108SUMMARY, @2$1)::@5$4=remote(20121108SUMMARY, @2$2)::@5$5=remote(20121108SUMMARY, @2$3)::@5$6=remote(20121108SUMMARY, @2$4)::@5$7=remote(20121108SUMMARY, @2$5)::@5$8=remote(20121108SUMMARY, @2$6)::@6$3=remote(20121112SUMMARY, @2$1)::@6$4=remote(20121112SUMMARY, @2$2)::@6$5=remote(20121112SUMMARY, @2$3)::@6$6=remote(20121112SUMMARY, @2$4)::@6$7=remote(20121112SUMMARY, @2$5)::@6$8=remote(20121112SUMMARY, @2$6)::@7$3=remote(20121113SUMMARY, @2$1)::@7$4=remote(20121113SUMMARY, @2$2)::@7$5=remote(20121113SUMMARY, @2$3)::@7$6=remote(20121113SUMMARY, @2$4)::@7$7=remote(20121113SUMMARY, @2$5)::@7$8=remote(20121113SUMMARY, @2$6)::@8$3=remote(20121117SUMMARY, @2$1)::@8$4=remote(20121117SUMMARY, @2$2)::@8$5=remote(20121117SUMMARY, @2$3)::@8$6=remote(20121117SUMMARY, @2$4)::@8$7=remote(20121117SUMMARY, @2$5)::@8$8=remote(20121117SUMMARY, @2$6)::@9$3=remote(20121119SUMMARY, @2$1)::@9$4=remote(20121119SUMMARY, @2$2)::@9$5=remote(20121119SUMMARY, @2$3)::@9$6=remote(20121119SUMMARY, @2$4)::@9$7=remote(20121119SUMMARY, @2$5)::@9$8=remote(20121119SUMMARY, @2$6)::@10$3=remote(20121120SUMMARY, @2$1)::@10$4=remote(20121120SUMMARY, @2$2)::@10$5=remote(20121120SUMMARY, @2$3)::@10$6=remote(20121120SUMMARY, @2$4)::@10$7=remote(20121120SUMMARY, @2$5)::@10$8=remote(20121120SUMMARY, @2$6)::@11$3=remote(20121121SUMMARY, @2$1)::@11$4=remote(20121121SUMMARY, @2$2)::@11$5=remote(20121121SUMMARY, @2$3)::@11$6=remote(20121121SUMMARY, @2$4)::@11$7=remote(20121121SUMMARY, @2$5)::@11$8=remote(20121121SUMMARY, @2$6)
+| Date             | Routine                            | Rest HR |  Final HR | Score |      Tech |       Eff |      Disc |
+|------------------+------------------------------------+---------+-----------+-------+-----------+-----------+-----------|
+| [2012-10-30 Tue] | [[id:5c0bae81-e2fb-408b-a99f-6059921166fe][Flow Physique : {20/10x8+60}6 Mod]]  |      65 |       120 |    27 | 7.8333333 |         6 | 3.3333333 |
+| [2012-10-31 Wed] | [[id:ce32e5c4-9be2-414b-b195-01698ca42d36][Flow Physique : {20/10x8+60}6 High]] |      65 | 137.66667 |    33 | 8.1666667 | 8.3333333 | 3.1666667 |
+| [2012-11-03 Sat] | [[id:b8e1a757-627f-4387-9974-4c147efcfc17][Flow Physique : 4/1x4 (Mod)]]        |      88 |       146 |   185 |      8.75 |      7.25 |       2.5 |
+| [2012-11-08 Thu] | [[id:492086a2-99e9-418e-a678-7c4846e2ff3d][Flow Physique : EMOTM (Mod)]]        |      70 |       124 |    11 |         9 |         8 |         3 |
+| [2012-11-12 Mon] | [[id:7511e0fc-cf95-4f37-9695-a383dcea5116][Flow Physique : AMRAP (Mod)]]        |      74 |       164 |     4 |         7 |         8 |         4 |
+| [2012-11-13 Tue] | [[id:d5bc4223-5d38-4b93-b68d-deffb5dfcd2a][Flow Physique : AMRAP (High)]]       |      60 |       156 |     6 |         8 |         9 |         4 |
+| [2012-11-17 Sat] | [[id:385d0c1c-7589-439f-bb71-251358ed15a6][Flow Physique : {90/30x5}2 (Mod)]]   |      77 |     139.2 |    67 |       8.3 |       6.6 |       3.3 |
+| [2012-11-19 Mon] | [[id:6802377a-4a60-4058-9dfa-8804ed1f03fc][Intuflow]]                           |      53 |        71 |     0 |         9 |         3 |         2 |
+| [2012-11-20 Tue] | [[id:1525e014-2499-45b3-b98b-e8913c6a126b][Thrive Flow]]                        |       0 |         0 |     0 |         8 |         4 |         3 |
+| [2012-11-21 Wed] | [[id:b1ad2732-367d-4e5b-8346-735c941ac257][Flow Physique : AFAP (Mod)]]         |      60 |       100 | 671 s |         8 |         6 |         2 |
+| [2012-11-22 Thu] | [[id:b3f5de7c-d839-4262-9126-1cc0c28fccce][Flow Physique : AFAP (High)]]        |      63 |       164 | 530 s |         9 |         9 |         4 |
+| [2012-11-23 Fri] | [[id:d8d9af28-66ef-4f66-a2cf-45c67cdad885][Thrive Flow]]                        |         |           |       |           |           |           |
+| [2012-11-24 Sat] | [[id:c42b03e0-de8d-4ded-a155-f388b3b2f4b6][Thrive Flow]]                        |         |           |       |           |           |           |
+    #+TBLFM: @2$3=remote(20121030SUMMARY, @2$1)::@2$4=remote(20121030SUMMARY, @2$2)::@2$5=remote(20121030SUMMARY, @2$3)::@2$6=remote(20121030SUMMARY, @2$4)::@2$7=remote(20121030SUMMARY, @2$5)::@2$8=remote(20121030SUMMARY, @2$6)::@3$3=remote(20121031SUMMARY, @2$1)::@3$4=remote(20121031SUMMARY, @2$2)::@3$5=remote(20121031SUMMARY, @2$3)::@3$6=remote(20121031SUMMARY, @2$4)::@3$7=remote(20121031SUMMARY, @2$5)::@3$8=remote(20121031SUMMARY, @2$6)::@4$3=remote(20121103SUMMARY, @2$1)::@4$4=remote(20121103SUMMARY, @2$2)::@4$5=remote(20121103SUMMARY, @2$3)::@4$6=remote(20121103SUMMARY, @2$4)::@4$7=remote(20121103SUMMARY, @2$5)::@4$8=remote(20121103SUMMARY, @2$6)::@5$3=remote(20121108SUMMARY, @2$1)::@5$4=remote(20121108SUMMARY, @2$2)::@5$5=remote(20121108SUMMARY, @2$3)::@5$6=remote(20121108SUMMARY, @2$4)::@5$7=remote(20121108SUMMARY, @2$5)::@5$8=remote(20121108SUMMARY, @2$6)::@6$3=remote(20121112SUMMARY, @2$1)::@6$4=remote(20121112SUMMARY, @2$2)::@6$5=remote(20121112SUMMARY, @2$3)::@6$6=remote(20121112SUMMARY, @2$4)::@6$7=remote(20121112SUMMARY, @2$5)::@6$8=remote(20121112SUMMARY, @2$6)::@7$3=remote(20121113SUMMARY, @2$1)::@7$4=remote(20121113SUMMARY, @2$2)::@7$5=remote(20121113SUMMARY, @2$3)::@7$6=remote(20121113SUMMARY, @2$4)::@7$7=remote(20121113SUMMARY, @2$5)::@7$8=remote(20121113SUMMARY, @2$6)::@8$3=remote(20121117SUMMARY, @2$1)::@8$4=remote(20121117SUMMARY, @2$2)::@8$5=remote(20121117SUMMARY, @2$3)::@8$6=remote(20121117SUMMARY, @2$4)::@8$7=remote(20121117SUMMARY, @2$5)::@8$8=remote(20121117SUMMARY, @2$6)::@9$3=remote(20121119SUMMARY, @2$1)::@9$4=remote(20121119SUMMARY, @2$2)::@9$5=remote(20121119SUMMARY, @2$3)::@9$6=remote(20121119SUMMARY, @2$4)::@9$7=remote(20121119SUMMARY, @2$5)::@9$8=remote(20121119SUMMARY, @2$6)::@10$3=remote(20121120SUMMARY, @2$1)::@10$4=remote(20121120SUMMARY, @2$2)::@10$5=remote(20121120SUMMARY, @2$3)::@10$6=remote(20121120SUMMARY, @2$4)::@10$7=remote(20121120SUMMARY, @2$5)::@10$8=remote(20121120SUMMARY, @2$6)::@11$3=remote(20121121SUMMARY, @2$1)::@11$4=remote(20121121SUMMARY, @2$2)::@11$5=remote(20121121SUMMARY, @2$3)::@11$6=remote(20121121SUMMARY, @2$4)::@11$7=remote(20121121SUMMARY, @2$5)::@11$8=remote(20121121SUMMARY, @2$6)::@12$3=remote(20121122SUMMARY, @2$1)::@12$4=remote(20121122SUMMARY, @2$2)::@12$5=remote(20121122SUMMARY, @2$3)::@12$6=remote(20121122SUMMARY, @2$4)::@12$7=remote(20121122SUMMARY, @2$5)::@12$8=remote(20121122SUMMARY, @2$6)
     
 
 *** 2012
@@ -411,13 +413,43 @@ Do as many sets as possible in 20 mins.
 
 ***** 2012-11-22 Thursday
 ****** Flow Physique : AFAP (High)
-       :PROPERTIES:
-       :ID:       b1ad2732-367d-4e5b-8346-735c941ac257
+       :PROPERTIES: 
+       :ID:       b3f5de7c-d839-4262-9126-1cc0c28fccce
        :END:
 #+TBLNAME: 20121122SUMMARY
 | Rest HR | Final HR | Time | Tech | Eff | Disc |
 |---------+----------+------+------+-----+------|
 |      63 |      164 | 530s |    9 |   9 |    4 |
+
+***** 2012-11-23 Tuesday
+****** Thrive Flow
+     :LOGBOOK:
+     CLOCK: [2012-11-20 Tue 15:30]--[2012-11-20 Tue 16:00] =>  0:30
+     :END:
+       :PROPERTIES:
+       :ID:       d8d9af28-66ef-4f66-a2cf-45c67cdad885
+       :END:
+[2012-11-20 Thu 15:30]
+
+#+TBLNAME: 20121120SUMMARY
+| Rest HR | Final HR | Score | Tech | Eff | Disc |
+|---------+----------+-------+------+-----+------|
+|         |          |       |    8 |   4 |    3 |
+
+***** 2012-11-24 Tuesday
+****** Thrive Flow
+     :LOGBOOK:
+     CLOCK: [2012-11-24 Tue 15:30]--[2012-11-24 Tue 16:00] =>  0:30
+     :END:
+       :PROPERTIES:
+       :ID:       c42b03e0-de8d-4ded-a155-f388b3b2f4b6
+       :END:
+[2012-11-20 Thu 15:30]
+
+#+TBLNAME: 20121120SUMMARY
+| Rest HR | Final HR | Score | Tech | Eff | Disc |
+|---------+----------+-------+------+-----+------|
+|         |          |       |    8 |   4 |    3 |
 
 * Diet 								       :DIET:
   :PROPERTIES:
