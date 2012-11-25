@@ -86,23 +86,23 @@ Use account A11078844
 
 ** Budget
 #+TBLNAME: MTHBUDGET
-| Desc                   |   Amt |
-|------------------------+-------|
-| Rent                   |  1650 |
-| Electricity            |    75 |
-| Phone                  |    80 |
-| Internet               |    80 |
-| Loan                   |   500 |
-| ASG                    |   125 |
-| Kate Visa              |   200 |
-| Family Tax             |  -220 |
-| Pay                    | -3800 |
-| Weekly Food            |   408 |
-| Supermarket (non-food) |    60 |
-| Supermarket (bulk)     |    24 |
-|                        |       |
-| Total                  |  -818 |
-   #+TBLFM: @11$2=remote(WeeklyFood,@17$2)*4::@13$2=remote(MonthlyFood,@8$2)::@15$2=vsum(@2$2..@14$2)
+| Desc               |    Amt |
+|--------------------+--------|
+| Rent               |   1650 |
+| Electricity        |     75 |
+| Phone              |     80 |
+| Internet           |     80 |
+| Loan               |    500 |
+| ASG                |    125 |
+| Kate Visa          |    200 |
+| Family Tax         |   -220 |
+| Pay                |  -3800 |
+| Weekly Food        |    408 |
+| Supplies           |     60 |
+| Supermarket (bulk) |   58.5 |
+|                    |        |
+| Total              | -783.5 |
+   #+TBLFM: @11$2=remote(WeeklyFood,@17$2)*4::@13$2=remote(Supplies,@11$2)::@15$2=vsum(@2$2..@14$2)
 
 #+TBLNAME: WeeklyFood
 | Desc                                    | Amt |
@@ -136,6 +136,21 @@ Use account A11078844
 |                   |     |
 | Tot               |  24 |
    #+TBLFM: @8$2=vsum(@2$2..@7$2)
+
+#+TBLNAME: Supplies
+| Desc                       |  Amt |
+|----------------------------+------|
+| TP (2 roll)                |    7 |
+| Dishwashing (1 bottle)     |    7 |
+| Dishwasher tabs (1/2 pack) |  7.5 |
+| Nappies (1/2 box)          |   10 |
+| Laundary liquid (1/2 tub)  |   10 |
+| Shampoo (2 bottles)        |    7 |
+| Conditioner (2 bottles)    |    7 |
+| Kids Shampoo (1 bottle)    |    3 |
+|                            |      |
+| Tot                        | 58.5 |
+   #+TBLFM: @11$2=vsum(@2$2..@10$2)
 
 * Health and Recreation
   :PROPERTIES:
