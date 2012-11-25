@@ -85,6 +85,7 @@ Use account A11078844
 [[http://lwn.net/Articles/501681/]]
 
 ** Monthly Budget
+#+TBLNAME: MTHBUDGET
 | Desc                   |   Amt |
 |------------------------+-------|
 | Rent                   |  1650 |
@@ -104,6 +105,7 @@ Use account A11078844
 | Total                  |  -770 |
    #+TBLFM: @16$2=vsum(@2$2..@14$2)
 
+#+TBLNAME: Weekly Food
 
 
 * Health and Recreation
