@@ -245,7 +245,7 @@ Do as many sets as possible in 20 mins.
 | [2012-11-19 Mon] | Intuflow             |      53 |        71 |     0 |         9 |         3 |         2 | [[id:6802377a-4a60-4058-9dfa-8804ed1f03fc][Intuflow]]                           |
 | [2012-11-20 Tue] | Thrive               |       0 |         0 |     0 |         8 |         4 |         3 | [[id:1525e014-2499-45b3-b98b-e8913c6a126b][Thrive Flow]]                        |
 | [2012-11-21 Wed] | AFAP (Mod)           |      60 |       100 | 671 s |         8 |         6 |         2 | [[id:b1ad2732-367d-4e5b-8346-735c941ac257][Flow Physique : AFAP]]               |
-|                  |                      |         |           |       |           |           |           |                                    |
+| [2012-11-22 Thu] | AFAP (High)          |         |           |       |           |           |           |                                    |
     #+TBLFM: @2$3=remote(20121030SUMMARY, @2$1)::@2$4=remote(20121030SUMMARY, @2$2)::@2$5=remote(20121030SUMMARY, @2$3)::@2$6=remote(20121030SUMMARY, @2$4)::@2$7=remote(20121030SUMMARY, @2$5)::@2$8=remote(20121030SUMMARY, @2$6)::@3$3=remote(20121031SUMMARY, @2$1)::@3$4=remote(20121031SUMMARY, @2$2)::@3$5=remote(20121031SUMMARY, @2$3)::@3$6=remote(20121031SUMMARY, @2$4)::@3$7=remote(20121031SUMMARY, @2$5)::@3$8=remote(20121031SUMMARY, @2$6)::@4$3=remote(20121103SUMMARY, @2$1)::@4$4=remote(20121103SUMMARY, @2$2)::@4$5=remote(20121103SUMMARY, @2$3)::@4$6=remote(20121103SUMMARY, @2$4)::@4$7=remote(20121103SUMMARY, @2$5)::@4$8=remote(20121103SUMMARY, @2$6)::@5$3=remote(20121108SUMMARY, @2$1)::@5$4=remote(20121108SUMMARY, @2$2)::@5$5=remote(20121108SUMMARY, @2$3)::@5$6=remote(20121108SUMMARY, @2$4)::@5$7=remote(20121108SUMMARY, @2$5)::@5$8=remote(20121108SUMMARY, @2$6)::@6$3=remote(20121112SUMMARY, @2$1)::@6$4=remote(20121112SUMMARY, @2$2)::@6$5=remote(20121112SUMMARY, @2$3)::@6$6=remote(20121112SUMMARY, @2$4)::@6$7=remote(20121112SUMMARY, @2$5)::@6$8=remote(20121112SUMMARY, @2$6)::@7$3=remote(20121113SUMMARY, @2$1)::@7$4=remote(20121113SUMMARY, @2$2)::@7$5=remote(20121113SUMMARY, @2$3)::@7$6=remote(20121113SUMMARY, @2$4)::@7$7=remote(20121113SUMMARY, @2$5)::@7$8=remote(20121113SUMMARY, @2$6)::@8$3=remote(20121117SUMMARY, @2$1)::@8$4=remote(20121117SUMMARY, @2$2)::@8$5=remote(20121117SUMMARY, @2$3)::@8$6=remote(20121117SUMMARY, @2$4)::@8$7=remote(20121117SUMMARY, @2$5)::@8$8=remote(20121117SUMMARY, @2$6)::@9$3=remote(20121119SUMMARY, @2$1)::@9$4=remote(20121119SUMMARY, @2$2)::@9$5=remote(20121119SUMMARY, @2$3)::@9$6=remote(20121119SUMMARY, @2$4)::@9$7=remote(20121119SUMMARY, @2$5)::@9$8=remote(20121119SUMMARY, @2$6)::@10$3=remote(20121120SUMMARY, @2$1)::@10$4=remote(20121120SUMMARY, @2$2)::@10$5=remote(20121120SUMMARY, @2$3)::@10$6=remote(20121120SUMMARY, @2$4)::@10$7=remote(20121120SUMMARY, @2$5)::@10$8=remote(20121120SUMMARY, @2$6)::@11$3=remote(20121121SUMMARY, @2$1)::@11$4=remote(20121121SUMMARY, @2$2)::@11$5=remote(20121121SUMMARY, @2$3)::@11$6=remote(20121121SUMMARY, @2$4)::@11$7=remote(20121121SUMMARY, @2$5)::@11$8=remote(20121121SUMMARY, @2$6)
     
 
@@ -400,7 +400,7 @@ Do as many sets as possible in 20 mins.
 |         |          |       |    8 |   4 |    3 |
 
 ***** 2012-11-21 Wednesday
-****** Flow Physique : AFAP
+****** Flow Physique : AFAP (Mod)
        :PROPERTIES:
        :ID:       b1ad2732-367d-4e5b-8346-735c941ac257
        :END:
@@ -408,6 +408,16 @@ Do as many sets as possible in 20 mins.
 | Rest HR | Final HR | Time          | Tech | Eff | Disc |
 |---------+----------+---------------+------+-----+------|
 |      60 |      100 | 671s          |    8 |   6 |    2 |
+
+***** 2012-11-22 Thursday
+****** Flow Physique : AFAP (High)
+       :PROPERTIES:
+       :ID:       b1ad2732-367d-4e5b-8346-735c941ac257
+       :END:
+#+TBLNAME: 20121122SUMMARY
+| Rest HR | Final HR | Time | Tech | Eff | Disc |
+|---------+----------+------+------+-----+------|
+|      63 |      164 | 530s |    9 |   9 |    4 |
 
 * Diet 								       :DIET:
   :PROPERTIES:
