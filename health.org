@@ -70,7 +70,8 @@
 :END:
 
 *** NEXT Meditate
-    SCHEDULED: <2012-11-25 Sun .+1d/2d>
+    SCHEDULED: <2012-11-26 Mon .+1d/2d>
+    - State "DONE"       from "NEXT"       [2012-11-25 Sun 15:17]
     - State "DONE"       from "NEXT"       [2012-11-24 Sat 15:01]
     - State "DONE"       from "NEXT"       [2012-11-23 Fri 09:01]
     - State "DONE"       from "NEXT"       [2012-11-21 Wed 14:39]
@@ -88,7 +89,7 @@
 :STYLE: habit
 :REPEAT_TO_STATE: NEXT
 :ID: e2e6b51c-d085-4668-ac4f-9d7e13df147d
-:LAST_REPEAT: [2012-11-24 Sat 17:01]
+:LAST_REPEAT: [2012-11-25 Sun 15:17]
 :END:
 ** Routines 
 *** Template

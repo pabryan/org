@@ -28,7 +28,8 @@ what's for dinner/lunch?
     :PROPERTIES:
     :ID:       0b32e722-472d-4c60-bc9c-b27660bd9914
     :END:
-*** NEXT Buy card
+*** DONE Buy card
+    - State "DONE"       from "NEXT"       [2012-11-26 Mon 08:17]
     :PROPERTIES:
     :ID:       9f11bf2f-1674-4984-8a72-d4dcbe00329b
     :END:
