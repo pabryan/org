@@ -4,8 +4,9 @@
   :PROPERTIES:
   :ID:       4977ef07-4d81-4831-b747-2c74b409015c
   :END:
-** TODO Organise Kate's Birthday
+** DONE Organise Kate's Birthday
   DEADLINE: <2012-11-26 Mon -2w>
+  - State "DONE"       from "TODO"       [2012-11-27 Tue 10:07]
 
   CLOCK: [2012-11-07 Wed 12:57]--[2012-11-07 Wed 12:58] =>  0:01
    :PROPERTIES:
@@ -23,8 +24,10 @@
     :ID:       2c20fc50-3af4-4b81-affc-f694142a8e02
     :END:
 what's for dinner/lunch?
-*** TODO Buy cake
+*** CANCELLED Buy cake
     SCHEDULED: <2012-11-26 Mon>
+    - State "CANCELLED"  from "TODO"       [2012-11-27 Tue 10:07] \\
+      Went out to dinner instead
     :PROPERTIES:
     :ID:       0b32e722-472d-4c60-bc9c-b27660bd9914
     :END:
@@ -41,7 +44,8 @@ what's for dinner/lunch?
     :ID:       71117a68-aebd-4727-ada3-d8358b75f786
     :END:
 
-*** NEXT Plan dinner
+*** DONE Plan dinner
+    - State "DONE"       from "NEXT"       [2012-11-27 Tue 10:07]
     :PROPERTIES:
     :ID:       d8a1f0fe-4322-4d1b-8726-33292beb7104
     :END:
