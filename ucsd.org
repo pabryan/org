@@ -166,6 +166,9 @@ Some are here [[http://www.math.ucsd.edu/~lindblad/150a/150a.html]]
     :LAST_REPEAT: [2012-11-16 Fri 10:31]
     :END:
 *** NEXT Write final exam
+    :LOGBOOK:
+    CLOCK: [2012-11-27 Tue 13:14]--[2012-11-27 Tue 13:16] =>  0:02
+    :END:
     :PROPERTIES:
     :ID:       73452825-970d-45dd-ac02-a1d16565b9d0
     :END:
@@ -426,6 +429,23 @@ Abstract:
 
 <ABSTRACT>
 
+*** WAITING Organise Somali's talk
+  - State "WAITING"    from "TODO"       [2012-11-27 Tue 12:32] \\
+    Waiting on Ben and Lei for time.
+  :PROPERTIES:
+  :ID:       cd68f213-5d0a-407e-a112-17b5ee0d16ef
+  :END:
+  :LOGBOOK:
+  :END:
+[2012-11-27 Tue 12:32]
+This should be in the week starting the 7th Jan 2012
+*** TODO Give talk on Brendle's proof of Lawson conjecture
+  :LOGBOOK:
+  :END:
+    :PROPERTIES:
+    :ID:       d0caa6d9-cd5a-47ff-a7f7-25cd1e2a85f9
+    :END:
+[2012-11-27 Tue 13:13]
 * Tasks
   :PROPERTIES:
   :ID:       08d9cc5d-6f27-41c7-ba22-83f0f18370f3

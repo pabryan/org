@@ -451,7 +451,7 @@ I'll need to say use my phone to collect the data. I need something easy to cloc
 I want to hang on to emails, articles and so on. I want to keep receipts, ideas and a diary of what I've done. These need to be kept in a filing system somehow, most probaby using org-mode and memacs.
 ** Reviews
 Here I look at my goals, my tasks and how I've been spending my time and use that information to plan out the coming week/month/year etc.
-*** NEXT Weekly Review [0/10]
+*** NEXT Weekly Review [0/11]
     SCHEDULED: <2012-11-26 Mon .+7d/10d>
 
 :PROPERTIES:
@@ -474,6 +474,7 @@ What to review:
 - [ ] Clean up files (Downloads, tmp, tablet, phone)
 - [ ] Transcribe notes from notebook
 - [ ] Plan next week
+- [ ] Check uncommited work
 
 - start work
   - daily agenda first - knock off items
