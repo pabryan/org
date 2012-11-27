@@ -199,8 +199,8 @@ See also
 [[http://www.ams.org/mathscinet/help/mr_lookup_help.html][mr_lookup_help]]
 [2012-10-26 Fri 13:01]
 
-** TODO Ricci isoperimetric profile :RICCI_ISO_COMP:
-[[file:~/working/academic/research/papers/ricci_surfaces_isoperimetric_comparison]]
+** TODO Ricci isoperimetric profile			     :RICCI_ISO_COMP:
+[[file:~/working/academic/research/ricci_surfaces_isoperimetric_comparison]]
    :PROPERTIES:
    :ID:       5d9554fe-4cf1-42b0-9891-69a81e715a67
    :END:
@@ -232,6 +232,8 @@ See also
     :END:
 [2012-11-16 Fri 15:19]
 
+** TODO Pipe Flows 						  :PIPE_FLOW:
+[[file:~/working/academic/research/geometric_pipe_flows]]
 * Seminars
   :PROPERTIES:
   :ID:       1e7a7317-1668-4432-a995-cdaa9293f7af
