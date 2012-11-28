@@ -3,10 +3,12 @@
 * Assistants
   :PROPERTIES:
   :ID:       4235f992-1c31-41a0-8b53-ee74a98a63f6
+  :CATEGORY: Assistants
   :END:
 * Conferences
   :PROPERTIES:
   :ID:       0b248098-9b93-479a-8c9b-546c325e6231
+  :CATEGORY: Conferences
   :END:
 ** CANCELLED Investigate Tsinghua Sanya conference
    - State "CANCELLED"  from "NEXT"       [2012-11-09 Fri 10:30] \\
@@ -18,6 +20,7 @@
 * Grants
   :PROPERTIES:
   :ID:       9a1d61fa-6dcc-405f-b879-9412a6cb1c47
+  :CATEGORY: Grants
   :END:
 ** DONE Investigate data management plan workshop
    - State "DONE"       from "TODO"       [2012-11-09 Fri 11:20]
@@ -48,6 +51,7 @@ Geisel Library room 274
 * Journals
   :PROPERTIES:
   :ID:       befc3eb8-1613-4ad7-b07f-d3190d33a71a
+  :CATEGORY: Journals
   :END:
 [[file:~/working/academic/journals][journals directory]]
 ** DONE Review [[http://www.ams.org/mresubs/download/3559e451969b72ee8/2921651.pdf][paper]]
@@ -56,6 +60,7 @@ Geisel Library room 274
 * Research
   :PROPERTIES:
   :ID:       44348474-b144-4b4b-a046-12439b2f7727
+  :CATEGORY: Research
   :END:
 [[file:~/working/academic/research/]]
 ** SOMEDAY Write tutorials on project management, GTD so on for mathematicians, scientists, academics and teachers
@@ -274,9 +279,48 @@ See also
     :ID:       ed26585a-2582-48bc-a787-2a457954b383
     :END:
 
+** Research ideas
+*** Bakry-Emry, Optimal transport measure
+  :PROPERTIES:
+  :ID:       a515c581-ea2b-499f-b9eb-5ad6afa454fb
+  :END:  
+ISO inequality brim minkowski opt transport functional form
+Barthe: The Brunn-Minkowski theorem and related geometric functional inequalities
+Sturm: Convex functionals probability measures
+Cordero-Erausquin, Benaim, Raimond: Bakry-Emery criterion self intersecting diffusions 
+McCann, Schmuckenschlager: Prekopa-Leindler, Jacobi fields, optimal transport, Riemannian
+Cheeger, Colding: structure, Ricci bounded below
+
+Search google for "riemannian measure absolutely continuous bakry emery"
+
+*** Set of manifolds in non-smooth spaces
+  :PROPERTIES:
+  :ID:       a0703512-9a3d-497b-988e-2ede248b0f4c
+  :END:  
+    Dense in alexandrov spaces? Rectifiable sets?
+See Burago, Burago, Ivanov
+See Gromov, Burago, Perelman
+See Petrunin
+See Shiohama, K. (Katsuhiro), Introduction to the geometry of Alexandrov spaces.
+*** Stability CMC hypersurfaces
+**** Notes
+Heintze: Extrinsic Upper Bounds For $\lamda_1$
+and paper's citing it, particularly 
+Monteil: Stable constant mean curvature hypersurfaces in some Riemannian manifolds
+Also look at 
+*** Milnor conjecture
+See Shen, Sormani: THE TOPOLOGY OF OPEN MANIFOLDS WITH NONNEGATIVE RICCI CURVATURE
+
+
+** Research Pondering
+   :LOGBOOK:
+   CLOCK: [2012-11-28 Wed 14:05]
+   CLOCK: [2012-11-28 Wed 13:00]--[2012-11-28 Wed 13:42] =>  0:42
+   :END:
 * Seminars
   :PROPERTIES:
   :ID:       1e7a7317-1668-4432-a995-cdaa9293f7af
+  :CATEGORY: Seminars
   :END:
 ** DONE Seminars org project
    - State "DONE"       from "TODO"       [2012-10-18 Thu 11:13]
@@ -296,6 +340,7 @@ Some money available through colloquia funds?
 * Students
   :PROPERTIES:
   :ID:       a93e1471-a035-4d1a-888f-948a3996b9ec
+  :CATEGORY: Students
   :END:
 ** Meet Janelle and Ben Chow
 Talk about ancient solutions of curve shortening flow on $S^2$
@@ -309,6 +354,7 @@ Talk about ancient solutions of curve shortening flow on $S^2$
 * Tasks
   :PROPERTIES:
   :ID:       7d76f7eb-1bab-46a9-8ccd-34d13e4dcece
+  :CATEGORY: Tasks
   :END:
 ** DONE Contact Ben Andrews about MCF, geometric evolution eqn's books
    - State "DONE"       from "TODO"       [2012-11-09 Fri 11:47]
@@ -347,16 +393,31 @@ Search for UCGCB-2012
 * Collaborators
   :PROPERTIES:
   :ID:       108d3c88-823b-4098-929b-f55292293588
+  :CATEGORY: Collaborators
   :END:
+** People
+- Julie ClutterBuck
+- Mat Langford
+- Ben Andrews
+- Ben Chow
+- Lei Ni
+- Jim Isenberg
+- Brett Kotschwar
+- XianFeng
+- Zhang ShiJin
+
 ** Meet Brett Kotschwar
 <2012-11-09 Fri 13:00>
+
 * Notes
   :PROPERTIES:
   :ID:       20906464-9b86-4766-b2c7-b42be71a3343
+  :CATEGORY: Notes
   :END:
 * Processes
   :PROPERTIES:
   :ID:       c8cbd0f3-55ea-4270-890e-1e3801051447
+  :CATEGORY: Processes
   :END:
 ** New Research Project
 Should I just make a script that takes the project name and does all this?
