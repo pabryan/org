@@ -167,6 +167,7 @@ Some are here [[http://www.math.ucsd.edu/~lindblad/150a/150a.html]]
     :END:
 *** NEXT Write final exam
     :LOGBOOK:
+    CLOCK: [2012-11-27 Tue 19:32]
     CLOCK: [2012-11-27 Tue 13:34]--[2012-11-27 Tue 14:05] =>  0:31
     CLOCK: [2012-11-27 Tue 13:33]--[2012-11-27 Tue 13:34] =>  0:01
     CLOCK: [2012-11-27 Tue 13:14]--[2012-11-27 Tue 13:16] =>  0:02
@@ -175,6 +176,7 @@ Some are here [[http://www.math.ucsd.edu/~lindblad/150a/150a.html]]
     :ID:       73452825-970d-45dd-ac02-a1d16565b9d0
     :ORDERED:  t
     :END:
+[[file:~/working/ucsd/teaching/math150a/math150a_final.org]]
 *** DONE Prepare week 6 lectures
     - State "DONE"       from "NEXT"       [2012-11-16 Fri 10:31]
     :PROPERTIES:
@@ -267,9 +269,6 @@ Some are here [[http://www.math.ucsd.edu/~lindblad/150a/150a.html]]
 [2012-11-27 Tue 10:00]
 
 *** TODO Plan MATH150A Week 10 Lectures
-  :LOGBOOK:
-  CLOCK: [2012-11-27 Tue 10:00]--[2012-11-27 Tue 10:01] =>  0:01
-  :END:
   :PROPERTIES:
   :ID:       7628eb02-0c36-4434-8648-78c2da19a9f6
   :END:
