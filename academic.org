@@ -199,8 +199,8 @@ See also
 [[http://www.ams.org/mathscinet/help/mr_lookup_help.html][mr_lookup_help]]
 [2012-10-26 Fri 13:01]
 
-** TODO Ricci isoperimetric profile :RICCI_ISO_COMP:
-[[file:~/working/academic/research/papers/ricci_surfaces_isoperimetric_comparison]]
+** TODO Ricci isoperimetric profile			     :RICCI_ISO_COMP:
+[[file:~/working/academic/research/ricci_surfaces_isoperimetric_comparison]]
    :PROPERTIES:
    :ID:       5d9554fe-4cf1-42b0-9891-69a81e715a67
    :END:
@@ -231,6 +231,48 @@ See also
     :ID:       0dffabc1-bc62-4e97-a8d8-8f58d541bbc1
     :END:
 [2012-11-16 Fri 15:19]
+
+*** TODO Transcribe from Bei Da notebook: ricci iso
+  :LOGBOOK:
+  :END:
+  :PROPERTIES:
+  :ID:       c4035327-82cc-4bae-a02f-b9f8b46c3b34
+  :END:
+[2012-11-20 Tue 11:04]
+** TODO Pipe Flows 						  :PIPE_FLOW:
+   :PROPERTIES:
+   :ID:       cf90c8f0-dc09-44d4-87d4-f7000acc2ba1
+   :END:
+[[file:~/working/academic/research/geometric_pipe_flows]]
+*** TODO Transcribe pipe examples from Bei Da notebook
+  :LOGBOOK:
+  CLOCK: [2012-11-20 Tue 10:48]--[2012-11-20 Tue 10:49] =>  0:01
+  :END:
+  :PROPERTIES:
+  :ID:       1940744d-17a2-4b3c-9051-b5eead539aa8
+  :END:
+[2012-11-20 Tue 10:48]
+
+*** TODO Transcribe from Bei Da notebook: pipe flow
+  :LOGBOOK:
+  :END:
+  :PROPERTIES:
+  :ID:       acf2c85c-2e65-45b7-a705-e30b58a7ca4b
+  :END:
+[2012-11-20 Tue 11:04]
+** TODO distance viscosity				 :DISTANCE_VISCOSITY:
+   :PROPERTIES:
+   :ID:       c77edc75-4647-4f26-93c4-da74485714c1
+   :END:
+[[file:~/working/academic/research/distance_viscosity]]
+*** NEXT Compute Hessian of d
+    :LOGBOOK:
+    CLOCK: [2012-11-27 Tue 17:45]--[2012-11-27 Tue 19:15] =>  1:30
+    CLOCK: [2012-11-27 Tue 14:00]--[2012-11-27 Tue 14:30] =>  0:30
+    :END:
+    :PROPERTIES:
+    :ID:       ed26585a-2582-48bc-a787-2a457954b383
+    :END:
 
 * Seminars
   :PROPERTIES:
@@ -287,6 +329,21 @@ Search for UCGCB-2012
    :END:
 [2012-11-02 Fri 10:36]
 
+** TODO Transcribe from Bei Da notebook: math musings
+  :LOGBOOK:
+  :END:
+  :PROPERTIES:
+  :ID:       9d2cc9b8-82a5-4d20-8284-ebb375786e39
+  :END:
+[2012-11-20 Tue 11:04]
+** TODO Transcribe trace from Bei Da notebook
+  :LOGBOOK:
+  CLOCK: [2012-11-20 Tue 10:50]--[2012-11-20 Tue 10:53] =>  0:03
+  :END:
+  :PROPERTIES:
+  :ID:       4f5359c0-36aa-40f8-be49-85b17c2f2996
+  :END:
+[2012-11-20 Tue 10:50]
 * Collaborators
   :PROPERTIES:
   :ID:       108d3c88-823b-4098-929b-f55292293588

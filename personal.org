@@ -152,6 +152,40 @@ Use account A11078844
 | Tot                        | 58.5 |
    #+TBLFM: @11$2=vsum(@2$2..@10$2)
 
+** TODO Transcribe from Bei Da notebook: budget
+  :LOGBOOK:
+  CLOCK: [2012-11-20 Tue 11:03]--[2012-11-20 Tue 11:04] =>  0:01
+  :END:
+  :PROPERTIES:
+  :ID:       4e1b533f-f42a-427f-b47e-1cf5f2327363
+  :END:
+[2012-11-20 Tue 11:03]
+** TODO Call AT&T
+  :LOGBOOK:
+  :END:
+  :PROPERTIES:
+  :ID:       544ba3eb-2e92-4184-85dd-fb3b86b58fab
+  :END:
+[2012-11-24 Sat 20:43]
+Change bill cycle
+Pay current bill late
+** TODO email ASG
+  :LOGBOOK:
+  :END:
+  :PROPERTIES:
+  :ID:       d5c41196-3914-4a41-bf5e-da535e0ffac9
+  :END:
+[2012-11-24 Sat 20:44]
+Can we suspend payment for 6 months
+** TODO Contact commbank
+  :LOGBOOK:
+  :END:
+  :PROPERTIES:
+  :ID:       0ac3fd29-71e3-4ecf-a889-36cd1978e758
+  :END:
+[2012-11-24 Sat 20:44]
+Can we get a better deal on visa?
+Can we suspend loan repayments for a few months?
 * Health and Recreation
   :PROPERTIES:
   :ID:       d9d7d0ec-a6b9-4451-ae42-5519eba7be50
@@ -536,6 +570,32 @@ Bath and toilet clogged. Need light globes.
    :END:
 [2012-11-07 Wed 12:57]
 
+** TODO Transcribe from Bei Da notebook: todo
+  :LOGBOOK:
+  CLOCK: [2012-11-20 Tue 11:04]--[2012-11-20 Tue 11:05] =>  0:01
+  :END:
+  :PROPERTIES:
+  :ID:       ec012ead-6a95-4d99-8203-48acf7eb997f
+  :END:
+[2012-11-20 Tue 11:04]
+** CANCELLED Transcribe from Bei Da notebook: food stocks
+  - State "CANCELLED"  from "TODO"       [2012-11-27 Tue 10:29] \\
+    Changed my mind on tracking food at this time
+  :LOGBOOK:
+  :END:
+  :PROPERTIES:
+  :ID:       6204c31f-3957-4590-9924-b8bc122bd34e
+  :END:
+[2012-11-20 Tue 11:04]
+** CANCELLED Transcribe from Bei Da notebook: food plan
+  - State "CANCELLED"  from "TODO"       [2012-11-27 Tue 10:29] \\
+    That week is past already!
+  :LOGBOOK:
+  :END:
+  :PROPERTIES:
+  :ID:       b1c9afcd-5f9b-45dc-895e-2542fd31bd71
+  :END:
+[2012-11-20 Tue 11:04]
 * Calendar
   :PROPERTIES:
   :ID:       5692575e-d9af-4d29-bcc7-6b2851bb5b0b
