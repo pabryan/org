@@ -6,81 +6,471 @@
 
 ** Schedule
 *** NEXT No Intensity
-    SCHEDULED: <2012-11-18 Sun .+4d/5d>
+    SCHEDULED: <2012-11-27 Tue .+4d/5d>
+    - State "DONE"       from "NEXT"       [2012-11-24 Sat 17:03]
+    - State "DONE"       from "NEXT"       [2012-11-19 Mon 08:35]
     - State "DONE"       from "TODO"       [2012-11-14 Wed 11:16]
 :PROPERTIES:
 :STYLE: habit
 :REPEAT_TO_STATE: NEXT
-:LAST_REPEAT: [2012-11-15 Thu 11:16]
+:LAST_REPEAT: [2012-11-24 Sat 17:03]
 :ID: e38c9566-fca4-46e5-bf5f-a6c98c63f9f2
 :END:
 
 *** NEXT Low Intensity
-    SCHEDULED: <2012-11-19 Mon .+4d/5d>
+    SCHEDULED: <2012-11-26 Mon .+4d/5d>
+    - State "DONE"       from "NEXT"       [2012-11-25 Sun 15:35]
+    - State "DONE"       from "NEXT"       [2012-11-24 Sat 16:30]
+    - State "DONE"       from "NEXT"       [2012-11-23 Fri 17:03]
+    - State "DONE"       from "NEXT"       [2012-11-20 Tue 15:30]
     - State "DONE"       from "TODO"       [2012-11-15 Thu 17:00]
 :PROPERTIES:
 :STYLE: habit
 :REPEAT_TO_STATE: NEXT
-:LAST_REPEAT: [2012-11-15 Thu 17:00]
+:LAST_REPEAT: [2012-11-25 Sun 15:35]
 :ID: c5da0e4d-cf57-4caf-ba23-369257edd6ac
 :END:
 
 *** NEXT Mod Intensity
-    SCHEDULED: <2012-11-16 Fri .+4d/5d>
+    SCHEDULED: <2012-11-29 Thu .+4d/5d>
+    - State "DONE"       from "NEXT"       [2012-11-21 Wed 17:05]
+    - State "DONE"       from "NEXT"       [2012-11-17 Sat 10:58]
 :PROPERTIES:
 :STYLE: habit
 :REPEAT_TO_STATE: NEXT
 :ID: 2fd02d93-9376-4172-b361-0e865b293007
+:LAST_REPEAT: [2012-11-21 Wed 17:05]
 :END:
     
 *** NEXT High Intensity
-    SCHEDULED: <2012-11-17 Sat .+4d/5d>
+    SCHEDULED: <2012-11-30 Fri .+4d/5d>
+    - State "DONE"       from "NEXT"       [2012-11-22 Thu 10:34]
+    - State "DONE"       from "NEXT"       [2012-11-18 Sun 09:59]
 :PROPERTIES:
 :STYLE: habit
 :REPEAT_TO_STATE: NEXT
 :ID: d52c3978-eea8-457c-b9c9-1a38d6d54a88
+:LAST_REPEAT: [2012-11-22 Thu 10:34]
 :END:
 
 *** NEXT Eye exercises
-    SCHEDULED: <2012-11-17 Sat .+1d/2d>
+    SCHEDULED: <2012-11-25 Sun .+1d/2d>
+    - State "DONE"       from "NEXT"       [2012-11-24 Sat 17:02]
+    - State "DONE"       from "NEXT"       [2012-11-21 Wed 14:17]
+    - State "DONE"       from "NEXT"       [2012-11-20 Tue 10:16]
     - State "DONE"       from "NEXT"       [2012-11-16 Fri 14:25]
+    :LOGBOOK:
+    CLOCK: [2012-11-24 Sat 17:00]--[2012-11-24 Sat 17:02] =>  0:02
+    CLOCK: [2012-11-21 Wed 14:14]--[2012-11-21 Wed 14:17] =>  0:03
+    :END:
 :PROPERTIES:
 :STYLE: habit
 :REPEAT_TO_STATE: NEXT
 :ID: bb3574e2-d88d-476f-8d3a-ebde4a1691b7
-:LAST_REPEAT: [2012-11-16 Fri 14:25]
+:LAST_REPEAT: [2012-11-24 Sat 17:02]
 :END:
 
 *** NEXT Meditate
-  - State "DONE"       from "NEXT"       [2012-11-16 Fri 14:17]
+    SCHEDULED: <2012-11-26 Mon .+1d/2d>
+    - State "DONE"       from "NEXT"       [2012-11-25 Sun 15:17]
+    - State "DONE"       from "NEXT"       [2012-11-24 Sat 15:01]
+    - State "DONE"       from "NEXT"       [2012-11-23 Fri 09:01]
+    - State "DONE"       from "NEXT"       [2012-11-21 Wed 14:39]
+    - State "DONE"       from "NEXT"       [2012-11-20 Tue 07:15]
+    - State "DONE"       from "NEXT"       [2012-11-19 Mon 14:15]
+    - State "DONE"       from "NEXT"       [2012-11-18 Sun 09:50]
+    - State "DONE"       from "NEXT"       [2012-11-17 Sat 15:01]
+    - State "DONE"       from "NEXT"       [2012-11-16 Fri 14:17]
   :LOGBOOK:
+  CLOCK: [2012-11-21 Wed 14:21]--[2012-11-21 Wed 14:39] =>  0:18
   CLOCK: [2012-11-16 Fri 13:40]--[2012-11-16 Fri 14:17] =>  0:37
   :END:
-[2012-11-16 Fri 13:39]
-SCHEDULED: <2012-11-17 Sat .+1d/2d>
+
 :PROPERTIES:
 :STYLE: habit
 :REPEAT_TO_STATE: NEXT
 :ID: e2e6b51c-d085-4668-ac4f-9d7e13df147d
-:LAST_REPEAT: [2012-11-16 Fri 14:17]
+:LAST_REPEAT: [2012-11-25 Sun 15:17]
 :END:
-** Log
+** Routines 
+*** Template
+#+TBLNAME: <DATE>SUMMARY 
+| Rest HR | Final HR | Score | Tech | Eff | Disc |
+|---------+----------+-------+------+-----+------|
+|         |          |       |      |     |      |
+
 *** Intuflow
-| Date | Rest HR | Final HR |
-|------+---------+----------|
-|      |         |          |
-*** Flowphysique
-**** Level 1
-***** [20/10X8+60]6
-***** 4/1X4
-***** EMOTM
-***** AMRAP
-***** [90/3X5]2
-***** AFAP
-*** Ageless mobility
-*** Thrive flow
+**** Target HR 
+- min 0.0 * (HR Max - HR Rest) + HR Rest 
+  e.g.           0.0 * (180 - 60) + 60 = 60
+- max 0.2 * (HR Max - HR Rest) + HR Rest
+  e.g.           0.2 * (180 - 60) + 60 = 84
+**** Template
 *** Qi Gong
+**** Target HR 
+- min 0.0 * (HR Max - HR Rest) + HR Rest 
+  e.g.           0.0 * (180 - 60) + 60 = 60
+- max 0.2 * (HR Max - HR Rest) + HR Rest
+  e.g.           0.2 * (180 - 60) + 60 = 84
+**** Template     
 *** Tai Ji
+**** Target HR 
+- min 0.0 * (HR Max - HR Rest) + HR Rest 
+  e.g.           0.0 * (180 - 60) + 60 = 60
+- max 0.2 * (HR Max - HR Rest) + HR Rest
+  e.g.           0.2 * (180 - 60) + 60 = 84
+**** Template
+
+
+*** Ageless mobility
+**** Target HR
+- min < 0.2 * (HR Max - HR Rest) + HR Rest
+e.g.           0.2 * (180 - 60) + 60 = 84
+- max < 0.4 * (HR Max - HR Rest) + HR Rest
+e.g.           0.4 * (180 - 60) + 60 = 108
+
+**** Template
+*** Thrive flow
+**** Target HR
+- min < 0.2 * (HR Max - HR Rest) + HR Rest
+e.g.           0.2 * (180 - 60) + 60 = 84
+- max < 0.4 * (HR Max - HR Rest) + HR Rest
+e.g.           0.4 * (180 - 60) + 60 = 108
+
+**** Template
+
+
+*** Flowphysique
+**** Target HR (Mod) 
+- max 0.4 * (HR Max - HR Rest) + HR Rest
+  e.g.           0.4 * (180 - 60) + 60 = 108
+- max 0.7 * (HR Max - HR Rest) + HR Rest
+  e.g.           0.6 * (180 - 60) + 60 = 144
+**** Target HR (High) 
+- max 0.7 * (HR Max - HR Rest) + HR Rest
+  e.g.           0.6 * (180 - 60) + 60 = 144
+- max 1.0 * (HR Max - HR Rest) + HR Rest
+  e.g.           1.0 * (180 - 60) + 60 = 180
+**** Level 1 Templates
+***** [20/10X8+60]6
+
+#+TBLNAME: <DATE>RAW
+| Exercise          | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | Min | HR | T | E | D |
+|-------------------+---+---+---+---+---+---+---+---+-----+----+---+---+---|
+| Hack Squat        |   |   |   |   |   |   |   |   |   0 |    |   |   |   |
+| Plank Pull Knee   |   |   |   |   |   |   |   |   |   0 |    |   |   |   |
+| Sit Thru Knee     |   |   |   |   |   |   |   |   |   0 |    |   |   |   |
+| Knee Press        |   |   |   |   |   |   |   |   |   0 |    |   |   |   |
+| Basic Spinal Rock |   |   |   |   |   |   |   |   |   0 |    |   |   |   |
+| Table Lift        |   |   |   |   |   |   |   |   |   0 |    |   |   |   |
+       #+TBLFM: $10=vmin($2..$9)
+
+#+TBLNAME: <DATE>SUMMARY
+| Rest HR | Average HR | Score | Tech | Eff | Disc |
+|---------+------------+-------+------+-----+------|
+|         |          0 |     0 |    0 |   0 |    0 |
+       #+TBLFM: @2$2=vmean(remote(<DATE>RAW,@2$11..@7$11)::@2$3=vsum(remote(<DATE>RAW,@2$10..@7$10))::@2$4=vmean(remote(<DATE>RAW,@2$12..@7$12))::@2$5=vmean(remote(<DATE>RAW,@2$13..@7$13))::@2$6=vmean(remote(<DATE>RAW,@2$14..@7$14))
+
+***** 4/1X4
+#+TBLNAME: <DATE>RAW
+| Exercise                  | Reps | Min | HR | T | E | D |
+|---------------------------+------+-----+----+---+---+---|
+| Walking Lunge             |      |     |    |   |   |   |
+| Shoulder Bridge Knee Tuck |      |     |    |   |   |   |
+| Crow Hop                  |      |     |    |   |   |   |
+| Forearm Crocodile         |      |     |    |   |   |   |
+  
+#+TBLNAME: <DATE>SUMMARY
+| Rest HR | Average HR | Score | Tech | Eff | Disc |
+|---------+------------+-------+------+-----+------|
+|         |          0 |     0 |    0 |   0 |    0 |
+       #+TBLFM: @2$2=vmean(remote(<DATE>RAW,@2$3..@4$3)::@2$3=vsum(remote(<DATE>RAW,@2$4..@4$4))::@2$4=vmean(remote(<DATE>RAW,@2$5..@4$5))::@2$5=vmean(remote(<DATE>RAW,@2$6..@4$6))::@2$6=vmean(remote(<DATE>RAW,@2$7..@4$7))
+
+***** EMOTM
+#+TBLNAME: <DATE>SUMMARY
+| Rest HR | Final HR | Score | Tech | Eff | Disc |
+|---------+----------+-------+------+-----+------|
+|         |        0 |     0 |    0 |   0 |    0 |
+
+****** Instructions
+For 20 minues, every minute on the minute perform a set.
+****** Sets
+- 4 x quad press
+- 4 x spinal rocks
+- 4 x swinging tripod
+- 4 x knee press
+***** AMRAP
+#+TBLNAME: <DATE>SUMMARY
+| Rest HR | Final HR | Score | Tech | Eff | Disc |
+|---------+----------+-------+------+-----+------|
+|         |          |       |      |     |      |
+
+****** Instructions
+Do as many sets as possible in 20 mins.
+****** Sets
+- 5 x burpees
+- 5 x knee presses
+- 5/5 x gecko presses
+- 5 x shoulder bridge tucks
+
+***** [90/3X5]2
+#+TBLNAME: <DATE>RAW
+| Exercise                  | Reps 1 | Reps 2 | Min | HR1 | HR2 | T1 | T2 | E1 | E1 | D1 | D2 |
+|---------------------------+--------+--------+-----+-----+-----+----+----+----+----+----+----|
+| Forearm Cross Knee Thread |        |        |   0 |     |     |    |    |    |    |    |    |
+| Rocca Bent                |        |        |   0 |     |     |    |    |    |    |    |    |
+| Jump Up                   |        |        |   0 |     |     |    |    |    |    |    |    |
+| Quad Press                |        |        |   0 |     |     |    |    |    |    |    |    |
+| Alternating Dolphin       |        |        |   0 |     |     |    |    |    |    |    |    |
+         #+TBLFM: $4=vmin($2..$3)
+
+#+TBLNAME: <DATE>SUMMARY
+| Rest HR | Average HR | Score | Tech | Eff | Disc |
+|---------+------------+-------+------+-----+------|
+|         |          0 |     0 |    0 |   0 |    0 |
+       #+TBLFM: @2$2=vmean(remote(<DATE>RAW,@2$5..@6$6)::@2$3=vsum(remote(<DATE>RAW,@2$4..@6$4))::@2$4=vmean(remote(<DATE>RAW,@2$7..@6$8))::@2$5=vmean(remote(<DATE>RAW,@2$9..@6$10))::@2$6=vmean(remote(<DATE>RAW,@2$11..@6$12))
+
+
+***** AFAP
+#+TBLNAME: <DATE>SUMMARY
+| Rest HR | Final HR | Time  | Tech | Eff | Disc |
+|---------+----------+-------+------+-----+------|
+|         |          |       |      |     |      |
+
+**** Level 2 Templaes
+**** Level 3 Templates
+** Log
+*** Progress
+| Date             | Routine                            | Rest HR |  Final HR | Score |      Tech |       Eff |      Disc |
+|------------------+------------------------------------+---------+-----------+-------+-----------+-----------+-----------|
+| [2012-10-30 Tue] | [[id:5c0bae81-e2fb-408b-a99f-6059921166fe][Flow Physique : {20/10x8+60}6 Mod]]  |      65 |       120 |    27 | 7.8333333 |         6 | 3.3333333 |
+| [2012-10-31 Wed] | [[id:ce32e5c4-9be2-414b-b195-01698ca42d36][Flow Physique : {20/10x8+60}6 High]] |      65 | 137.66667 |    33 | 8.1666667 | 8.3333333 | 3.1666667 |
+| [2012-11-03 Sat] | [[id:b8e1a757-627f-4387-9974-4c147efcfc17][Flow Physique : 4/1x4 (Mod)]]        |      88 |       146 |   185 |      8.75 |      7.25 |       2.5 |
+| [2012-11-08 Thu] | [[id:492086a2-99e9-418e-a678-7c4846e2ff3d][Flow Physique : EMOTM (Mod)]]        |      70 |       124 |    11 |         9 |         8 |         3 |
+| [2012-11-12 Mon] | [[id:7511e0fc-cf95-4f37-9695-a383dcea5116][Flow Physique : AMRAP (Mod)]]        |      74 |       164 |     4 |         7 |         8 |         4 |
+| [2012-11-13 Tue] | [[id:d5bc4223-5d38-4b93-b68d-deffb5dfcd2a][Flow Physique : AMRAP (High)]]       |      60 |       156 |     6 |         8 |         9 |         4 |
+| [2012-11-17 Sat] | [[id:385d0c1c-7589-439f-bb71-251358ed15a6][Flow Physique : {90/30x5}2 (Mod)]]   |      77 |     139.2 |    67 |       8.3 |       6.6 |       3.3 |
+| [2012-11-19 Mon] | [[id:6802377a-4a60-4058-9dfa-8804ed1f03fc][Intuflow]]                           |      53 |        71 |     0 |         9 |         3 |         2 |
+| [2012-11-20 Tue] | [[id:1525e014-2499-45b3-b98b-e8913c6a126b][Thrive Flow]]                        |       0 |         0 |     0 |         8 |         4 |         3 |
+| [2012-11-21 Wed] | [[id:b1ad2732-367d-4e5b-8346-735c941ac257][Flow Physique : AFAP (Mod)]]         |      60 |       100 | 671 s |         8 |         6 |         2 |
+| [2012-11-22 Thu] | [[id:b3f5de7c-d839-4262-9126-1cc0c28fccce][Flow Physique : AFAP (High)]]        |      63 |       164 | 530 s |         9 |         9 |         4 |
+| [2012-11-23 Fri] | [[id:d8d9af28-66ef-4f66-a2cf-45c67cdad885][Thrive Flow]]                        |       0 |         0 |     0 |         7 |         6 |         5 |
+| [2012-11-24 Sat] | [[id:c42b03e0-de8d-4ded-a155-f388b3b2f4b6][Thrive Flow]]                        |       0 |         0 |     0 |         8 |         5 |         5 |
+| [2012-11-25 Sun] | [[id:782e4385-7f9b-433b-8351-e0e9181b464d][Thrive Flow]]                        |       0 |         0 |     0 |         7 |         5 |         4 |
+    #+TBLFM: @2$3=remote(20121030SUMMARY, @2$1)::@2$4=remote(20121030SUMMARY, @2$2)::@2$5=remote(20121030SUMMARY, @2$3)::@2$6=remote(20121030SUMMARY, @2$4)::@2$7=remote(20121030SUMMARY, @2$5)::@2$8=remote(20121030SUMMARY, @2$6)::@3$3=remote(20121031SUMMARY, @2$1)::@3$4=remote(20121031SUMMARY, @2$2)::@3$5=remote(20121031SUMMARY, @2$3)::@3$6=remote(20121031SUMMARY, @2$4)::@3$7=remote(20121031SUMMARY, @2$5)::@3$8=remote(20121031SUMMARY, @2$6)::@4$3=remote(20121103SUMMARY, @2$1)::@4$4=remote(20121103SUMMARY, @2$2)::@4$5=remote(20121103SUMMARY, @2$3)::@4$6=remote(20121103SUMMARY, @2$4)::@4$7=remote(20121103SUMMARY, @2$5)::@4$8=remote(20121103SUMMARY, @2$6)::@5$3=remote(20121108SUMMARY, @2$1)::@5$4=remote(20121108SUMMARY, @2$2)::@5$5=remote(20121108SUMMARY, @2$3)::@5$6=remote(20121108SUMMARY, @2$4)::@5$7=remote(20121108SUMMARY, @2$5)::@5$8=remote(20121108SUMMARY, @2$6)::@6$3=remote(20121112SUMMARY, @2$1)::@6$4=remote(20121112SUMMARY, @2$2)::@6$5=remote(20121112SUMMARY, @2$3)::@6$6=remote(20121112SUMMARY, @2$4)::@6$7=remote(20121112SUMMARY, @2$5)::@6$8=remote(20121112SUMMARY, @2$6)::@7$3=remote(20121113SUMMARY, @2$1)::@7$4=remote(20121113SUMMARY, @2$2)::@7$5=remote(20121113SUMMARY, @2$3)::@7$6=remote(20121113SUMMARY, @2$4)::@7$7=remote(20121113SUMMARY, @2$5)::@7$8=remote(20121113SUMMARY, @2$6)::@8$3=remote(20121117SUMMARY, @2$1)::@8$4=remote(20121117SUMMARY, @2$2)::@8$5=remote(20121117SUMMARY, @2$3)::@8$6=remote(20121117SUMMARY, @2$4)::@8$7=remote(20121117SUMMARY, @2$5)::@8$8=remote(20121117SUMMARY, @2$6)::@9$3=remote(20121119SUMMARY, @2$1)::@9$4=remote(20121119SUMMARY, @2$2)::@9$5=remote(20121119SUMMARY, @2$3)::@9$6=remote(20121119SUMMARY, @2$4)::@9$7=remote(20121119SUMMARY, @2$5)::@9$8=remote(20121119SUMMARY, @2$6)::@10$3=remote(20121120SUMMARY, @2$1)::@10$4=remote(20121120SUMMARY, @2$2)::@10$5=remote(20121120SUMMARY, @2$3)::@10$6=remote(20121120SUMMARY, @2$4)::@10$7=remote(20121120SUMMARY, @2$5)::@10$8=remote(20121120SUMMARY, @2$6)::@11$3=remote(20121121SUMMARY, @2$1)::@11$4=remote(20121121SUMMARY, @2$2)::@11$5=remote(20121121SUMMARY, @2$3)::@11$6=remote(20121121SUMMARY, @2$4)::@11$7=remote(20121121SUMMARY, @2$5)::@11$8=remote(20121121SUMMARY, @2$6)::@12$3=remote(20121122SUMMARY, @2$1)::@12$4=remote(20121122SUMMARY, @2$2)::@12$5=remote(20121122SUMMARY, @2$3)::@12$6=remote(20121122SUMMARY, @2$4)::@12$7=remote(20121122SUMMARY, @2$5)::@12$8=remote(20121122SUMMARY, @2$6)::@13$3=remote(20121123SUMMARY, @2$1)::@13$4=remote(20121123SUMMARY, @2$2)::@13$5=remote(20121123SUMMARY, @2$3)::@13$6=remote(20121123SUMMARY, @2$4)::@13$7=remote(20121123SUMMARY, @2$5)::@13$8=remote(20121123SUMMARY, @2$6)::@14$3=remote(20121124SUMMARY, @2$1)::@14$4=remote(20121124SUMMARY, @2$2)::@14$5=remote(20121124SUMMARY, @2$3)::@14$6=remote(20121124SUMMARY, @2$4)::@14$7=remote(20121124SUMMARY, @2$5)::@14$8=remote(20121124SUMMARY, @2$6)::@15$3=remote(20121125SUMMARY, @2$1)::@15$4=remote(20121125SUMMARY, @2$2)::@15$5=remote(20121125SUMMARY, @2$3)::@15$6=remote(20121125SUMMARY, @2$4)::@15$7=remote(20121125SUMMARY, @2$5)::@15$8=remote(20121125SUMMARY, @2$6)
+    
+
+*** 2012
+    :PROPERTIES:
+    :ID:       c85a7bee-b393-4db9-acee-a98cce4adbf7
+    :END:
+**** 2012-10 October
+***** 2012-10-30
+****** Flow Physique : [20/10x8+60]6 Mod
+       :PROPERTIES:
+       :ID:       5c0bae81-e2fb-408b-a99f-6059921166fe
+       :END:
+#+TBLNAME: 20121030RAW
+| Exercise          | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | Min |  HR | T | E | D |
+|-------------------+---+---+---+---+---+---+---+---+-----+-----+---+---+---|
+| Hack Squat        | 6 | 8 | 8 | 7 | 7 | 6 |   |   |   6 | 124 | 8 | 5 | 2 |
+| Plank Pull Knee   | 4 | 4 | 4 | 4 | 4 | 4 |   |   |   4 | 124 | 8 | 6 | 3 |
+| Sit Thru Knee     | 6 | 6 | 7 | 6 | 6 | 6 |   |   |   6 | 152 | 8 | 6 | 3 |
+| Knee Press        | 5 | 5 | 5 | 5 | 4 | 4 |   |   |   4 | 112 | 7 | 7 | 4 |
+| Basic Spinal Rock | 4 | 4 | 4 | 4 | 4 | 4 |   |   |   4 | 124 | 8 | 6 | 4 |
+| Table Lift        | 3 | 3 | 3 | 3 | 3 | 3 |   |   |   3 |  84 | 8 | 6 | 4 |
+       #+TBLFM: $10=vmin($2..$9)
+
+#+TBLNAME: 20121030SUMMARY
+| Rest HR | Average HR | Score |      Tech | Eff |      Disc |
+|---------+------------+-------+-----------+-----+-----------|
+|      65 |        120 |    27 | 7.8333333 |   6 | 3.3333333 |
+       #+TBLFM: @2$2=vmean(remote(20121030RAW,@2$11..@7$11)::@2$3=vsum(remote(20121030RAW,@2$10..@7$10))::@2$4=vmean(remote(20121030RAW,@2$12..@7$12))::@2$5=vmean(remote(20121030RAW,@2$13..@7$13))::@2$6=vmean(remote(20121030RAW,@2$14..@7$14))
+
+***** 2012-10-31
+****** Flow Physique : [20/10x8+60]6 High
+       :PROPERTIES:
+       :ID:       ce32e5c4-9be2-414b-b195-01698ca42d36
+       :END:
+#+TBLNAME: 20121031RAW
+| Exercise          | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | Min |  HR | T | E | D |
+|-------------------+---+---+---+---+---+---+---+---+-----+-----+---+---+---|
+| Hack Squat        | 8 | 9 | 9 | 9 | 9 | 9 |   |   |   8 | 152 | 9 | 8 | 1 |
+| Plank Pull Knee   | 6 | 6 | 6 | 6 | 5 | 6 |   |   |   5 | 144 | 9 | 8 | 4 |
+| Sit Thru Knee     | 9 | 8 | 8 | 8 | 8 | 8 |   |   |   8 | 168 | 8 | 8 | 2 |
+| Knee Press        | 5 | 5 | 5 | 4 | 4 | 4 |   |   |   4 | 150 | 8 | 9 | 4 |
+| Basic Spinal Rock | 6 | 6 | 8 | 5 | 5 | 5 |   |   |   5 | 108 | 8 | 8 | 3 |
+| Table Lift        | 4 | 4 | 4 | 3 | 3 | 3 |   |   |   3 | 104 | 7 | 9 | 5 |
+       #+TBLFM: $10=vmin($2..$9)
+
+#+TBLNAME: 20121031SUMMARY
+| Rest HR |  Final HR | Score |      Tech |       Eff |      Disc |
+|---------+-----------+-------+-----------+-----------+-----------|
+|      65 | 137.66667 |    33 | 8.1666667 | 8.3333333 | 3.1666667 |
+       #+TBLFM: @2$2=vmean(remote(20121031RAW,@2$11..@7$11)::@2$3=vsum(remote(20121031RAW,@2$10..@7$10))::@2$4=vmean(remote(20121031RAW,@2$12..@7$12))::@2$5=vmean(remote(20121031RAW,@2$13..@7$13))::@2$6=vmean(remote(20121031RAW,@2$14..@7$14))
+       
+**** 2012-11 November
+***** 2012-11-03 Saturday
+****** Flow Physique : 4/1x4
+       :PROPERTIES:
+       :ID:       b8e1a757-627f-4387-9974-4c147efcfc17
+       :END:
+#+TBLNAME: 20121103RAW
+| Exercise                  | Reps |  HR | T | E | D |
+|---------------------------+------+-----+---+---+---|
+| Walking Lunge             |   72 | 148 | 9 | 7 | 3 |
+| Shoulder Bridge Knee Tuck |   32 | 128 | 9 | 6 | 2 |
+| Crow Hop                  |   28 | 152 | 9 | 8 | 3 |
+| Forearm Crocodile         |   53 | 156 | 8 | 8 | 2 |
+  
+#+TBLNAME: 20121103SUMMARY
+| Rest HR | Average HR | Score | Tech |  Eff | Disc |
+|---------+------------+-------+------+------+------|
+|      88 |        146 |   185 | 8.75 | 7.25 |  2.5 |
+       #+TBLFM: @2$2=vmean(remote(20121103RAW,@2$3..@5$3)::@2$3=vsum(remote(20121103RAW,@2$2..@5$2))::@2$4=vmean(remote(20121103RAW,@2$4..@5$4))::@2$5=vmean(remote(20121103RAW,@2$5..@5$5))::@2$6=vmean(remote(20121103RAW,@2$6..@5$6))
+
+***** 2012-11-08 Thursday
+****** Flow Physique : EMOTM (Mod)
+       :PROPERTIES:
+       :ID:       492086a2-99e9-418e-a678-7c4846e2ff3d
+       :END:
+#+TBLNAME: 20121108SUMMARY
+| Rest HR | Average HR | Score | Tech | Eff | Disc |
+|---------+------------+-------+------+-----+------|
+|      70 |        124 |    11 |    9 |   8 |    3 |
+
+***** 2012-11-12 Monday
+****** Flow Physique : AMRAP (Mod)
+       :PROPERTIES:
+       :ID:       7511e0fc-cf95-4f37-9695-a383dcea5116
+       :END:
+#+TBLNAME: 20121112SUMMARY
+| Rest HR | Average HR | Score | Tech | Eff | Disc |
+|---------+------------+-------+------+-----+------|
+|      74 |        164 |     4 |    7 |   8 |    4 |
+
+***** 2012-11-13 Tueday
+****** Flow Physique : AMRAP (High)
+       :PROPERTIES:
+       :ID:       d5bc4223-5d38-4b93-b68d-deffb5dfcd2a
+       :END:
+#+TBLNAME: 20121113SUMMARY
+| Rest HR | Average HR | Score | Tech | Eff | Disc |
+|---------+------------+-------+------+-----+------|
+|      60 |        156 |     6 |    8 |   9 |    4 |
+
+***** 2012-11-17 Saturday
+****** Flow Physique : [90/30x5]2 (Mod)
+       :PROPERTIES:
+       :ID:       385d0c1c-7589-439f-bb71-251358ed15a6
+       :END:
+#+TBLNAME: 20121117RAW
+| Exercise                  | Reps 1 | Reps 2 | Min | HR1 | HR2 | T1 | T2 | E1 | E2 | D1 | D2 |
+|---------------------------+--------+--------+-----+-----+-----+----+----+----+----+----+----|
+| Forearm Cross Knee Thread |     20 |     12 |  12 | 108 | 148 |  8 |  7 |  6 |  6 |  2 |  4 |
+| Rocca Bent                |     12 |     12 |  12 | 128 | 148 |  9 |  8 |  6 |  7 |  3 |  4 |
+| Jump Up                   |     16 |      8 |   8 | 108 | 152 |  9 |  9 |  6 |  6 |  3 |  3 |
+| Quad Press                |     31 |     23 |  23 | 152 | 152 |  9 |  9 |  7 |  7 |  3 |  3 |
+| Alternating Dolphin       |     13 |     12 |  12 | 152 | 144 |  7 |  8 |  8 |  7 |  4 |  4 |
+       #+TBLFM: $4=vmin($2..$3)
+
+#+TBLNAME: 20121117SUMMARY
+| Rest HR | Average HR | Score | Tech | Eff | Disc |
+|---------+------------+-------+------+-----+------|
+|      77 |      139.2 |    67 |  8.3 | 6.6 |  3.3 |
+       #+TBLFM: @2$2=vmean(remote(20121117RAW,@2$5..@6$6)::@2$3=vsum(remote(20121117RAW,@2$4..@6$4))::@2$4=vmean(remote(20121117RAW,@2$7..@6$8))::@2$5=vmean(remote(20121117RAW,@2$9..@6$10))::@2$6=vmean(remote(20121117RAW,@2$11..@6$12))
+
+***** 2012-11-19 Monday
+****** Intuflow
+     :LOGBOOK:
+     CLOCK: [2012-11-19 Mon 08:38]--[2012-11-19 Tue 09:04] =>  0:26
+     :END:
+       :PROPERTIES:
+       :ID:       6802377a-4a60-4058-9dfa-8804ed1f03fc
+       :END:
+[2012-11-20 Thu 15:30]
+
+#+TBLNAME: 20121119SUMMARY
+| Rest HR | Final HR | Score | Tech | Eff | Disc |
+|---------+----------+-------+------+-----+------|
+|      53 |       71 |       |    9 |   3 |    2 |
+  
+***** 2012-11-20 Tuesday
+****** Thrive Flow
+     :LOGBOOK:
+     CLOCK: [2012-11-20 Tue 15:30]--[2012-11-20 Tue 16:00] =>  0:30
+     :END:
+       :PROPERTIES:
+       :ID:       1525e014-2499-45b3-b98b-e8913c6a126b
+       :END:
+[2012-11-20 Thu 15:30]
+
+#+TBLNAME: 20121120SUMMARY
+| Rest HR | Final HR | Score | Tech | Eff | Disc |
+|---------+----------+-------+------+-----+------|
+|         |          |       |    8 |   4 |    3 |
+
+***** 2012-11-21 Wednesday
+****** Flow Physique : AFAP (Mod)
+       :PROPERTIES:
+       :ID:       b1ad2732-367d-4e5b-8346-735c941ac257
+       :END:
+#+TBLNAME: 20121121SUMMARY
+| Rest HR | Final HR | Time          | Tech | Eff | Disc |
+|---------+----------+---------------+------+-----+------|
+|      60 |      100 | 671s          |    8 |   6 |    2 |
+
+***** 2012-11-22 Thursday
+****** Flow Physique : AFAP (High)
+       :PROPERTIES: 
+       :ID:       b3f5de7c-d839-4262-9126-1cc0c28fccce
+       :END:
+#+TBLNAME: 20121122SUMMARY
+| Rest HR | Final HR | Time | Tech | Eff | Disc |
+|---------+----------+------+------+-----+------|
+|      63 |      164 | 530s |    9 |   9 |    4 |
+
+***** 2012-11-23 Friday
+****** Thrive Flow
+       :PROPERTIES:
+       :ID:       d8d9af28-66ef-4f66-a2cf-45c67cdad885
+       :END:
+
+#+TBLNAME: 20121123SUMMARY
+| Rest HR | Final HR | Score | Tech | Eff | Disc |
+|---------+----------+-------+------+-----+------|
+|         |          |       |    7 |   6 |    5 |
+
+***** 2012-11-24 Saturday
+****** Thrive Flow
+     :LOGBOOK:
+     CLOCK: [2012-11-24 Tue 15:30]--[2012-11-24 Tue 16:00] =>  0:30
+     :END:
+       :PROPERTIES:
+       :ID:       c42b03e0-de8d-4ded-a155-f388b3b2f4b6
+       :END:
+[2012-11-24 Thu 15:30]
+
+#+TBLNAME: 20121124SUMMARY
+| Rest HR | Final HR | Score | Tech | Eff | Disc |
+|---------+----------+-------+------+-----+------|
+|         |          |       |    8 |   5 |    5 |
+
+***** 2012-11-25 Saturday
+****** Thrive Flow
+     :LOGBOOK:
+     CLOCK: [2012-11-25 Sun 16:05]--[2012-11-25 Sun 16:35] =>  0:30
+     :END:
+       :PROPERTIES:
+       :ID:       782e4385-7f9b-433b-8351-e0e9181b464d
+       :END:
+[2012-11-25 Sun 16:05]
+
+#+TBLNAME: 20121125SUMMARY
+| Rest HR | Final HR | Score | Tech | Eff | Disc |
+|---------+----------+-------+------+-----+------|
+|         |          |       |    7 |   5 |    4 |
+
 * Diet 								       :DIET:
   :PROPERTIES:
   :ID:       388ded9e-79b9-4d94-bba7-0b5bcc314c75
@@ -94,33 +484,52 @@ SCHEDULED: <2012-11-17 Sat .+1d/2d>
   :ID:       a4059ce5-fba1-47ec-a0c4-6cd08d2497fd
   :END:
 ** Heart Rate
-| Time             | HR |
-|------------------+----|
-| 2012-11-12 07:43 | 50 |
-| 2012-11-12 20:59 | 58 |
-| 2012-11-13 06:54 | 58 |
-| 2012-11-13 21:00 | 60 |
-| 2012-11-14 08:46 | 55 |
-| 2012-11-14 20:25 | 76 |
-| 2012-11-15 06:34 | 52 |
-| 2012-11-15 21:42 | 57 |
+| Time               | HR |
+|--------------------+----|
+| [2012-11-12 07:43] | 50 |
+| [2012-11-12 20:59] | 58 |
+| [2012-11-13 06:54] | 58 |
+| [2012-11-13 21:00] | 60 |
+| [2012-11-14 08:46] | 55 |
+| [2012-11-14 20:25] | 76 |
+| [2012-11-15 06:34] | 52 |
+| [2012-11-15 21:42] | 57 |
+| [2012-11-17 22:17] | 68 |
+| [2012-11-18 08:14] | 50 |
+| [2012-11-18 22:55] | 55 |
+| [2012-11-19 08:32] | 56 |
+| [2012-11-22 08:38] | 67 |
+|                    |    |
    
 
 ** Blood pressure
 ** Weight
-| Time             |   HR |
-|------------------+------|
-| 2012-11-13 07:13 | 78.9 |
-| 2012-11-13 21:00 | 78.5 |
-| 2012-11-14 08:46 | 77.3 |
-| 2012-11-14 20:13 | 78.7 |
-| 2012-11-15 21:15 | 78.8 |
-|                  |      |
+| Time                   |   HR |
+|------------------------+------|
+| [2012-11-13 07:13]     | 78.9 |
+| [2012-11-13 21:00]     | 78.5 |
+| [2012-11-14 08:46]     | 77.3 |
+| [2012-11-14 20:13]     | 78.7 |
+| [2012-11-15 21:15]     | 78.8 |
+| [2012-11-16 06:52]     | 77.8 |
+| [2012-11-17 07:41]     | 77.1 |
+| [2012-11-17 21:52]     | 78.8 |
+| [2012-11-18 Sun 22:55] | 78.7 |
+| [2012-11-19 08:32]     | 78.7 |
+| [2012-11-19 21:44]     | 78.8 |
+| [2012-11-20 20:04]     | 79.6 |
+| [2012-11-21 08:10]     | 77.9 |
+| [2012-11-21 21:05]     | 79.2 |
+| [2012-11-22 08:38]     | 78.0 |
+| [2012-11-23 09:35]     | 78.0 |
+| [2012-11-24 09:00]     | 78.1 |
 
 
 ** Control Pause
 ** Temperature
 ** Mood 
 
-
+| Date | Description | Value |
+|------+-------------+-------|
+|      |             |       |
 

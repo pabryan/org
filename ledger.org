@@ -1,6 +1,6 @@
 * Accounts
   :PROPERTIES:
-  :ID:       357a68d7-3e15-4ea2-a2e3-e8cb4d93b95d
+  :ID:       c726e09b-2594-4121-a0f0-bbd811101698
   :END:
 Expenses: where money goes
 Assets: where money sits
@@ -10,7 +10,7 @@ Equity: the real value of your property
 
 * icsv2ledger config
   :PROPERTIES:
-  :ID:       2c80f44c-4c13-44be-be78-5d4e4c3d71a5
+  :ID:       17581e4b-381e-482b-ac8a-5bd720204d92
   :END:
 [COMMBANKSAV]
 account=Assets:Bank:Commonwealth Bank Savings Account
