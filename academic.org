@@ -260,6 +260,20 @@ See also
   :ID:       acf2c85c-2e65-45b7-a705-e30b58a7ca4b
   :END:
 [2012-11-20 Tue 11:04]
+** TODO distance viscosity				 :DISTANCE_VISCOSITY:
+   :PROPERTIES:
+   :ID:       c77edc75-4647-4f26-93c4-da74485714c1
+   :END:
+[[file:~/working/academic/research/distance_viscosity]]
+*** NEXT Compute Hessian of d
+    :LOGBOOK:
+    CLOCK: [2012-11-27 Tue 17:45]--[2012-11-27 Tue 19:15] =>  1:30
+    CLOCK: [2012-11-27 Tue 14:00]--[2012-11-27 Tue 14:30] =>  0:30
+    :END:
+    :PROPERTIES:
+    :ID:       ed26585a-2582-48bc-a787-2a457954b383
+    :END:
+
 * Seminars
   :PROPERTIES:
   :ID:       1e7a7317-1668-4432-a995-cdaa9293f7af
