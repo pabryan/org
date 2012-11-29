@@ -451,7 +451,7 @@ I'll need to say use my phone to collect the data. I need something easy to cloc
 I want to hang on to emails, articles and so on. I want to keep receipts, ideas and a diary of what I've done. These need to be kept in a filing system somehow, most probaby using org-mode and memacs.
 ** Reviews
 Here I look at my goals, my tasks and how I've been spending my time and use that information to plan out the coming week/month/year etc.
-*** NEXT Weekly Review [1/11]
+*** NEXT Weekly Review [0/8]
     SCHEDULED: <2012-11-26 Mon .+7d/10d>
     :LOGBOOK:
     CLOCK: [2012-11-29 Thu 14:20]--[2012-11-29 Thu 14:58] =>  0:38
@@ -480,10 +480,10 @@ What to review:
   - daily agenda first - knock off items
   - then work on NEXT tasks
 
-** NEXT Weekly collection and clean up [1/3]
-    SCHEDULED: <2012-11-26 Mon .+7d/10d>
+*** NEXT Weekly collection and clean up [1/3]
+    SCHEDULED: <2012-11-29 Thu .+7d/10d>
     :LOGBOOK:
-    CLOCK: [2012-11-29 Thu 14:47]
+    CLOCK: [2012-11-29 Thu 14:47]--[2012-11-29 Thu 14:59] =>  0:12
     :END:
 
 :PROPERTIES:
@@ -669,6 +669,7 @@ icvs2ledger, bitbucket-api
   :END:
 ** Organiation
 :LOGBOOK:
+CLOCK: [2012-11-29 Thu 14:59]--[2012-11-29 Thu 15:00] =>  0:01
 CLOCK: [2012-11-29 Thu 14:29]--[2012-11-29 Thu 14:36] =>  0:07
 CLOCK: [2012-11-29 Thu 14:16]--[2012-11-29 Thu 14:28] =>  0:12
 CLOCK: [2012-11-29 Thu 13:42]--[2012-11-29 Thu 13:44] =>  0:02
