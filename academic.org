@@ -153,7 +153,7 @@ blackboard screen shots, scans of notebooks etc.
     :PROPERTIES:
     :ID:       d8e291b0-e3dc-427e-b303-a5476dd68eb0
     :END:
-** SOMEDAY Organise research papers
+** TODO Organise research papers
    :PROPERTIES:
    :ID:       27dd1954-9abe-4a87-9bcd-36027c643fdb
    :END:
@@ -204,6 +204,11 @@ See also
 [[http://www.ams.org/mathscinet/help/mr_lookup_help.html][mr_lookup_help]]
 [2012-10-26 Fri 13:01]
 
+*** NEXT Collect pdf's into single directory
+    :PROPERTIES:
+    :ID:       9defa0b0-c473-4347-9cf3-574714e81f7d
+    :END:
+[[file:~/research_resources]]
 ** TODO Ricci isoperimetric profile			     :RICCI_ISO_COMP:
 [[file:~/working/academic/research/ricci_surfaces_isoperimetric_comparison]]
    :PROPERTIES:
