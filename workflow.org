@@ -625,13 +625,23 @@ e.g. seminar announcement
   :END:
 [2012-11-20 Tue 10:20]
 
+** TODO Track scripts on bitbucket, github
+icvs2ledger, bitbucket-api
+  :LOGBOOK:
+  CLOCK: [2012-11-29 Thu 14:28]--[2012-11-29 Thu 14:29] =>  0:01
+  :END:
+   :PROPERTIES:
+   :ID:       411d2c3a-7ec5-48b1-af72-4c08dbacc892
+   :END:
+[2012-11-29 Thu 14:28]
 * Tasks
   :PROPERTIES:
   :ID:       4257fe31-e606-4ca9-a848-858379409679
   :END:
 ** Organiation
 :LOGBOOK:
-CLOCK: [2012-11-29 Thu 14:16]
+CLOCK: [2012-11-29 Thu 14:29]
+CLOCK: [2012-11-29 Thu 14:16]--[2012-11-29 Thu 14:28] =>  0:12
 CLOCK: [2012-11-29 Thu 13:42]--[2012-11-29 Thu 13:44] =>  0:02
 CLOCK: [2012-11-29 Thu 09:57]--[2012-11-29 Thu 10:05] =>  0:08
 CLOCK: [2012-11-29 Thu 09:46]--[2012-11-29 Thu 09:52] =>  0:06
