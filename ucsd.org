@@ -478,10 +478,12 @@ University of California, San Diego
     :END:
     <2012-11-08 Thu 10:00-11:00 +1w>
 *** TODO Send DG seminar email announcement
+    - State "DONE"       from "TODO"       [2012-11-29 Thu 09:46]
     :PROPERTIES:
     :ID:       0f19da7c-65a3-4e95-8a91-78d12caa46da
+    :LAST_REPEAT: [2012-11-29 Thu 09:57]
     :END: 
-<2012-11-15 Thu +1w>
+<2012-12-06 Thu +1w>
 **** Email
  [[mailto:seminarstaff@math.ucsd.edu]]
 **** Template
