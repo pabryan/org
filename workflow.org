@@ -451,11 +451,10 @@ I'll need to say use my phone to collect the data. I need something easy to cloc
 I want to hang on to emails, articles and so on. I want to keep receipts, ideas and a diary of what I've done. These need to be kept in a filing system somehow, most probaby using org-mode and memacs.
 ** Reviews
 Here I look at my goals, my tasks and how I've been spending my time and use that information to plan out the coming week/month/year etc.
-*** NEXT Weekly Review [0/11]
+*** NEXT Weekly Review [1/11]
     SCHEDULED: <2012-11-26 Mon .+7d/10d>
     :LOGBOOK:
-    CLOCK: [2012-11-29 Thu 14:47]
-    CLOCK: [2012-11-29 Thu 14:20]--[2012-11-29 Thu 14:47] =>  0:27
+    CLOCK: [2012-11-29 Thu 14:20]--[2012-11-29 Thu 14:58] =>  0:38
     :END:
 
 :PROPERTIES:
@@ -474,19 +473,33 @@ What to review:
   - Check where we spent time (too much or too little) and rectify this week
 - [ ] Look at entire agenda for today  =F12 SPC=
 - [ ] Review projects =F12 SPC //= and =V= repeatedly to view each project
-- [ ] Write journal
-- [ ] Clean up files
-  - Downloads
-  - tmp
-  - tablet
-  - phone
-- [ ] Transcribe notes from notebook
 - [ ] Plan next week
 - [ ] Check uncommited work
 
 - start work
   - daily agenda first - knock off items
   - then work on NEXT tasks
+
+** NEXT Weekly collection and clean up [1/3]
+    SCHEDULED: <2012-11-26 Mon .+7d/10d>
+    :LOGBOOK:
+    CLOCK: [2012-11-29 Thu 14:47]
+    :END:
+
+:PROPERTIES:
+:STYLE: habit
+:REPEAT_TO_STATE: NEXT
+:RESET_CHECK_BOXES: t
+:ID: d5f309c0-dee9-4f12-af59-e9273ebd6ddf
+:END:
+
+- [X] Clean up files
+  - Downloads
+  - tmp
+  - tablet
+  - phone
+- [ ] Write journal
+- [ ] Transcribe notes from notebook
 
 *** Monthly
 *** 6 monthly?
