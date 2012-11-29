@@ -454,7 +454,8 @@ Here I look at my goals, my tasks and how I've been spending my time and use tha
 *** NEXT Weekly Review [0/11]
     SCHEDULED: <2012-11-26 Mon .+7d/10d>
     :LOGBOOK:
-    CLOCK: [2012-11-29 Thu 14:20]
+    CLOCK: [2012-11-29 Thu 14:47]
+    CLOCK: [2012-11-29 Thu 14:20]--[2012-11-29 Thu 14:47] =>  0:27
     :END:
 
 :PROPERTIES:
@@ -641,6 +642,14 @@ icvs2ledger, bitbucket-api
    :ID:       411d2c3a-7ec5-48b1-af72-4c08dbacc892
    :END:
 [2012-11-29 Thu 14:28]
+** TODO Clean up maths.anu files
+  :LOGBOOK:
+  :END:
+   :PROPERTIES:
+   :ID:       4f941a10-7470-456f-afc3-15eecf520f8e
+   :END:
+[2012-11-29 Thu 14:47]
+
 * Tasks
   :PROPERTIES:
   :ID:       4257fe31-e606-4ca9-a848-858379409679
