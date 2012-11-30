@@ -214,6 +214,9 @@ Can we suspend loan repayments for a few months?
   :LOGBOOK:
   CLOCK: [2012-11-30 Fri 14:51]--[2012-11-30 Fri 14:52] =>  0:01
   :END:
+   :PROPERTIES:
+   :ID:       b5ae626f-e0ad-4ce7-847c-caf6380eb98c
+   :END:
 [2012-11-30 Fri 14:51]
 <2012-12-01 Sat>
 * Health 
@@ -474,7 +477,13 @@ pantry shelves
    :END:
 [2012-10-14 Sun 19:56]
 ** TODO Unplug sink and bath
+   :PROPERTIES:
+   :ID:       54b76607-8bc3-41ca-98b8-06306ff55bb2
+   :END:
 ** TODO Create habits
+   :PROPERTIES:
+   :ID:       bd9fc482-fb1e-43f9-92e9-76e023b1e477
+   :END:
 Vaccum 1w/2w
 dishes 1d/2d
 tidy 3d/5d
