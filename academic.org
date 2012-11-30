@@ -198,6 +198,39 @@ See also
     :ID:       ed26585a-2582-48bc-a787-2a457954b383
     :END:
 
+** TODO MCF BOOK
+   :PROPERTIES:
+   :ID:       94d316e3-e550-42ca-90f9-fd91d2d61bc5
+   :END:
+*** NEXT Setup project
+    :PROPERTIES:
+    :ID:       c8d15dfe-8f58-4a07-a333-7ce7d4263e3f
+    :END:
+*** TODO Make outline of book
+    :PROPERTIES:
+    :ID:       fafef726-06de-4f07-8e85-b55e2e153b9d
+    :END:
+** TODO Submanifolds
+   :PROPERTIES:
+   :ID:       c81850da-1eac-4c94-a963-ab007548b40a
+   :END:
+*** NEXT Setup project
+    :PROPERTIES:
+    :ID:       9e6828fc-459e-4c48-bb16-aad36cc6c868
+    :END:
+*** TODO Pull previous work into new project
+    :PROPERTIES:
+    :ID:       7b113c85-946a-4233-a2aa-4b9393af4506
+    :END:
+*** TODO Write up:
+    :PROPERTIES:
+    :ID:       f5b2828b-7b71-4d0a-8a52-850706bc62e3
+    :END:
+Outline
+Pull backs, normal bundles etc.
+Variations
+Space-time (how do we choose a connection?)
+Sequences of manifolds and convergence. What is smooth convergence? Can it be defined invariantly?
 ** Research ideas
 *** Bakry-Emry, Optimal transport measure
   :PROPERTIES:
