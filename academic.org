@@ -63,26 +63,15 @@ Geisel Library room 274
   :CATEGORY: Research
   :END:
 [[file:~/working/academic/research/]]
-** SOMEDAY Write tutorials on project management, GTD so on for mathematicians, scientists, academics and teachers
-   :PROPERTIES:
-   :ID:       0bc3a3b6-1a25-4b77-aace-ffbd0c69139b
-   :END:
-** SOMEDAY Preparing/doing research using org-mode
-Write a paper on how to do it? Use my own paper preperation as model
-  CLOCK: [2012-10-14 Sun 20:42]--[2012-10-14 Sun 20:43] =>  0:01
-   :PROPERTIES:
-   :ID:       ade2f502-3a52-4fc7-bdbe-944b7c566c34
-   :END:
-[2012-10-14 Sun 20:42]
 ** TODO Organise research papers
    :PROPERTIES:
    :ID:       27dd1954-9abe-4a87-9bcd-36027c643fdb
    :END:
-*** SOMEDAY File hard copies under bib key
+*** TODO File hard copies under bib key
     :PROPERTIES:
     :ID:       133cd7db-b4c3-42ac-bd2a-6e7082bd67f5
     :END:
-*** SOMEDAY Configure reftex, org-mode to access papers
+*** TODO Configure reftex, org-mode to access papers
     :PROPERTIES:
     :ID:       0d3a134a-c167-44e8-aa83-fc2b5327b03e
     :END:
@@ -90,11 +79,11 @@ Write a paper on how to do it? Use my own paper preperation as model
      - State "DONE"       from "NEXT"       [2012-10-26 Fri 14:50]
 **** DONE Create org file for recording notes on papers in bib file
      - State "DONE"       from "NEXT"       [2012-10-26 Fri 14:50]
-**** SOMEDAY org-mode create ref should create bib, mr/arxiv links
+**** NEXT org-mode create ref should create bib, mr/arxiv links
      :PROPERTIES:
      :ID:       03789ba0-7a21-4b06-bbe0-70a1f06edde1
      :END:
-*** SOMEDAY pdf scraping tool to create bib entries and rename pdf files
+*** TODO pdf scraping tool to create bib entries and rename pdf files
 This should open pdf's, get doi info and then look up the paper details
 online to get bib type info. Then the paper can be renamed, a bib entry
 can be created or downloaded, say from mathscinet or arxiv. I'd aso like this
@@ -110,7 +99,7 @@ See [[http://en.dogeno.us/2010/02/release-a-python-script-for-organizing-scienti
     :END:
 [2012-10-26 Fri 13:04]
 
-*** SOMEDAY Write script to auto download from mathscinet, arxiv etc.
+*** TODO Write script to auto download from mathscinet, arxiv etc.
     :PROPERTIES:
     :ID:       65db22f3-b0c6-43c2-b7d5-9922cf35e5e8
     :END:
@@ -125,6 +114,10 @@ See also
 [[http://www.ams.org/mathscinet/help/mr_lookup_help.html][mr_lookup_help]]
 [2012-10-26 Fri 13:01]
 
+*** TODO Populate org file and bib file with references
+    :PROPERTIES:
+    :ID:       57e9b039-e848-43d9-a7c6-b46fed373170
+    :END:
 *** NEXT Collect pdf's into single directory
     :PROPERTIES:
     :ID:       9defa0b0-c473-4347-9cf3-574714e81f7d
@@ -175,7 +168,7 @@ See also
    :ID:       cf90c8f0-dc09-44d4-87d4-f7000acc2ba1
    :END:
 [[file:~/working/academic/research/geometric_pipe_flows]]
-*** TODO Transcribe pipe examples from Bei Da notebook
+*** NEXT Transcribe pipe examples from Bei Da notebook
   :LOGBOOK:
   CLOCK: [2012-11-20 Tue 10:48]--[2012-11-20 Tue 10:49] =>  0:01
   :END:
@@ -184,7 +177,7 @@ See also
   :END:
 [2012-11-20 Tue 10:48]
 
-*** TODO Transcribe from Bei Da notebook: pipe flow
+*** NEXT Transcribe from Bei Da notebook: pipe flow
   :LOGBOOK:
   :END:
   :PROPERTIES:
@@ -261,7 +254,7 @@ Some money available through colloquia funds?
    :ID:       e922bc74-823a-4909-83a9-fbc7b63a93d7
    :END:
 [2012-10-14 Sun 20:39]
-*** SOMEDAY Contact Ben, Lei and/or Peter about funding/process
+*** NEXT Contact Ben, Lei and/or Peter about funding/process
     :PROPERTIES:
     :ID:       c011fced-9d37-4ac5-bd6e-bb689c3a67f2
     :END:
