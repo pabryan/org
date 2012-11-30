@@ -621,8 +621,9 @@ What to review:
   - tmp
   - tablet
   - phone
-- [ ] Write journal
 - [ ] Transcribe notes from notebook
+
+Maybe write journal of the week at some stage?
 
 *** Monthly
 *** 6 monthly?
@@ -801,7 +802,7 @@ icvs2ledger, bitbucket-api
   :END:
 ** Organiation
 :LOGBOOK:
-CLOCK: [2012-11-30 Fri 14:07]
+CLOCK: [2012-11-30 Fri 14:11]
 CLOCK: [2012-11-30 Fri 12:58]--[2012-11-30 Fri 12:59] =>  0:01
 CLOCK: [2012-11-30 Fri 10:13]--[2012-11-30 Fri 10:16] =>  0:03
 CLOCK: [2012-11-29 Thu 14:59]--[2012-11-29 Thu 15:00] =>  0:01
