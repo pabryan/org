@@ -278,7 +278,8 @@ Some are here [[http://www.math.ucsd.edu/~lindblad/150a/150a.html]]
     :ID:       c8e2450b-bf17-4295-acdf-371ed5abd3d1
     :LAST_REPEAT: [2012-11-30 Fri 14:03]
     :END:
-*** WAITING Write final exam
+*** NEXT Write final exam
+    - State "NEXT"       from "WAITING"    [2012-11-30 Fri 14:52]
     - State "WAITING"    from "NEXT"       [2012-11-29 Thu 22:22] \\
       Waiting for feedback from Bo.
     :LOGBOOK:
@@ -294,6 +295,7 @@ Some are here [[http://www.math.ucsd.edu/~lindblad/150a/150a.html]]
     :ORDERED:  t
     :END:
 [[file:~/working/ucsd/teaching/math150a/math150a_final.org]]
+Update this based on Bo's comments.
 *** DONE Prepare week 6 lectures
     - State "DONE"       from "NEXT"       [2012-11-16 Fri 10:31]
     :PROPERTIES:
