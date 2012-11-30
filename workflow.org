@@ -182,7 +182,11 @@ This will clear up my agenda until I can filter out someday projects
 Need to make project version control and org files linked to from
 gtd. Have some sort of notes folder for each project where I can dump
 blackboard screen shots, scans of notebooks etc.
-*** NEXT Make a "new research project" process
+*** NEXT Make notebook and office projects consistent!
+    :PROPERTIES:
+    :ID:       21184652-81da-4475-93b9-e2e18d0a4c06
+    :END:
+*** TODO Make a "new research project" process
     :PROPERTIES:
     :ID:       3c0d5b9a-a43e-48b2-9f24-b8acd1e9fa2b
     :END:
@@ -558,10 +562,11 @@ I'll need to say use my phone to collect the data. I need something easy to cloc
     I want to hang on to emails, articles and so on. I want to keep receipts, ideas and a diary of what I've done. These need to be kept in a filing system somehow, most probaby using org-mode and memacs.
 ** Reviews
 Here I look at my goals, my tasks and how I've been spending my time and use that information to plan out the coming week/month/year etc.
-*** NEXT Weekly Review [10/11]
-    SCHEDULED: <2012-11-26 Mon .+7d/10d>
+*** NEXT Weekly Review [0/11]
+    SCHEDULED: <2012-12-07 Fri .+7d/10d>
+    - State "DONE"       from "NEXT"       [2012-11-30 Fri 14:06]
     :LOGBOOK:
-    CLOCK: [2012-11-30 Fri 13:33]
+    CLOCK: [2012-11-30 Fri 13:33]--[2012-11-30 Fri 14:07] =>  0:34
     CLOCK: [2012-11-30 Fri 13:27]--[2012-11-30 Fri 13:33] =>  0:06
     CLOCK: [2012-11-30 Fri 12:59]--[2012-11-30 Fri 13:26] =>  0:27
     CLOCK: [2012-11-30 Fri 10:16]--[2012-11-30 Fri 10:52] =>  0:36
@@ -573,24 +578,25 @@ Here I look at my goals, my tasks and how I've been spending my time and use tha
 :REPEAT_TO_STATE: NEXT
 :ID: 846c05fa-21d7-4e6f-8431-a1fa06631945
 :RESET_CHECK_BOXES: t
+:LAST_REPEAT: [2012-11-30 Fri 14:06]
 :END:
 
 What to review:
 
-- [X] Check follow-up paper folder
-- [X] Check holding directory
+- [ ] Check follow-up paper folder
+- [ ] Check holding directory
   [[file:~/Dropbox/holding]]
-- [X] Check holding email folder
-- [X] Review weekly agenda =F12 a w//=
-- [X] Check clocking data for past week =v c=
+- [ ] Check holding email folder
+- [ ] Review weekly agenda =F12 a w//=
+- [ ] Check clocking data for past week =v c=
   - fix up any errors
-- [X] Review clock report for past week =R=
+- [ ] Review clock report for past week =R=
   - Check where we spent time (too much or too little) and rectify this week
-- [X] Look at entire agenda for today  =F12 SPC=
-- [X] Review projects =F12 SPC //= and =P= repeatedly to view each project
+- [ ] Look at entire agenda for today  =F12 SPC=
+- [ ] Review projects =F12 SPC //= and =P= repeatedly to view each project
   - Unstick stuck projects!
-- [X] Review somday projects
-- [X] Plan next week
+- [ ] Review somday projects
+- [ ] Plan next week
 - [ ] Check uncommited work
 
 - start work
@@ -795,6 +801,7 @@ icvs2ledger, bitbucket-api
   :END:
 ** Organiation
 :LOGBOOK:
+CLOCK: [2012-11-30 Fri 14:07]
 CLOCK: [2012-11-30 Fri 12:58]--[2012-11-30 Fri 12:59] =>  0:01
 CLOCK: [2012-11-30 Fri 10:13]--[2012-11-30 Fri 10:16] =>  0:03
 CLOCK: [2012-11-29 Thu 14:59]--[2012-11-29 Thu 15:00] =>  0:01

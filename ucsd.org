@@ -152,6 +152,7 @@ Use a course as a guinea pig for using the method
      :ID:       ce197690-2aa9-4a07-aae2-af61628c2e1c
      :END:
 <2012-12-07 Fri 11:00-12:00>
+Explain $\RR^{n+1}$.
 ***** NEXT Plan Review Lecture
       :PROPERTIES:
       :ID:       d89e9800-d913-4388-a3a0-ce6d5df5f847
@@ -161,6 +162,10 @@ Use a course as a guinea pig for using the method
       :ID:       7b2ba264-2d7d-42ff-9a5a-842e796ac4ef
       :END:
 
+*** NEXT Make notebook and office consistent
+    :PROPERTIES:
+    :ID:       cff2f790-c07f-4ac7-a654-9432bcdba178
+    :END: 
 *** CANCELLED math150a lecture log				   :COMPUTER:
     - State "CANCELLED"  from "NEXT"       [2012-11-03 Sat 14:10] \\
       I'm not going to get around to doing this.
@@ -259,8 +264,9 @@ Some are here [[http://www.math.ucsd.edu/~lindblad/150a/150a.html]]
   CLOCK: [2012-10-18 Thu 10:44]--[2012-10-18 Thu 10:44] =>  0:00
 [2012-10-18 Thu 10:44]
 
-*** NEXT Meet Bo Yang
-    SCHEDULED: <2012-11-30 Fri 10:00 +1w>
+*** TODO Meet Bo Yang
+    SCHEDULED: <2012-12-07 Fri 10:00 +1w>
+    - State "DONE"       from "NEXT"       [2012-11-30 Fri 14:03]
     :LOGBOOK:
     :END:
     - State "DONE"       from "TODO"       [2012-11-16 Fri 10:31]
@@ -270,7 +276,7 @@ Some are here [[http://www.math.ucsd.edu/~lindblad/150a/150a.html]]
     - State "DONE"       from "TODO"       [2012-10-23 Tue 11:24]
     :PROPERTIES:
     :ID:       c8e2450b-bf17-4295-acdf-371ed5abd3d1
-    :LAST_REPEAT: [2012-11-16 Fri 10:31]
+    :LAST_REPEAT: [2012-11-30 Fri 14:03]
     :END:
 *** WAITING Write final exam
     - State "WAITING"    from "NEXT"       [2012-11-29 Thu 22:22] \\
@@ -299,7 +305,8 @@ Some are here [[http://www.math.ucsd.edu/~lindblad/150a/150a.html]]
     :ID:       31708543-605b-4ed1-8684-9717203bb8f0
     :ORDERED:  t
     :END:
-*** NEXT Prepare week 9 lectures
+*** DONE Prepare week 9 lectures
+    - State "DONE"       from "NEXT"       [2012-11-30 Fri 14:04]
     :PROPERTIES:
     :ID:       dab37352-843a-4461-b37e-dd25870fee08
     :END:
@@ -341,7 +348,8 @@ Some are here [[http://www.math.ucsd.edu/~lindblad/150a/150a.html]]
   :END:
 [2012-11-27 Tue 10:00]
 
-*** NEXT Plan MATH150A Week 9 Lectures
+*** DONE Plan MATH150A Week 9 Lectures
+    - State "DONE"       from "NEXT"       [2012-11-30 Fri 14:04]
   :LOGBOOK:
   :END:
   :PROPERTIES:
@@ -349,7 +357,9 @@ Some are here [[http://www.math.ucsd.edu/~lindblad/150a/150a.html]]
   :END:
 [2012-11-27 Tue 10:00]
 
-*** TODO Plan MATH150A Week 10 Lectures
+*** CANCELLED Plan MATH150A Week 10 Lectures
+    - State "CANCELLED"  from "TODO"       [2012-11-30 Fri 14:04] \\
+      This is now a task listed under lectures.
   :PROPERTIES:
   :ID:       7628eb02-0c36-4434-8648-78c2da19a9f6
   :END:
