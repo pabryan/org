@@ -254,8 +254,10 @@ Some are here [[http://www.math.ucsd.edu/~lindblad/150a/150a.html]]
   CLOCK: [2012-10-18 Thu 10:44]--[2012-10-18 Thu 10:44] =>  0:00
 [2012-10-18 Thu 10:44]
 
-*** TODO Meet Bo Yang
+*** NEXT Meet Bo Yang
     SCHEDULED: <2012-11-30 Fri 10:00 +1w>
+    :LOGBOOK:
+    :END:
     - State "DONE"       from "TODO"       [2012-11-16 Fri 10:31]
     - State "DONE"       from "TODO"       [2012-11-09 Fri 10:23]
     - State "DONE"       from "TODO"       [2012-11-02 Fri 10:37]
