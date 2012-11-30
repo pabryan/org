@@ -17,11 +17,11 @@ use org-mode to write content, css to render
    :PROPERTIES:
    :ID:       d4065564-7904-47cc-b82c-68a9e060597e
    :END:
-** SOMEDAY Write website content
+** TODO Write website content
    :PROPERTIES:
    :ID:       5c8378f9-737c-4a4a-98ea-52d9c4ca3e93
    :END:
-*** SOMEDAY CV
+*** NEXT CV
     :PROPERTIES:
     :ID:       27dfad08-3c5c-4678-a6d6-83cf0594c320
     :END:
@@ -377,7 +377,15 @@ Some are here [[http://www.math.ucsd.edu/~lindblad/150a/150a.html]]
     :PROPERTIES:
     :ID:       15fccd9a-a1ed-41b6-a3bb-fdb03475e91d
     :END:
-
+**** NEXT Get text book from Holly et. al.
+     :PROPERTIES:
+     :ID:       02669ad2-413d-4cc6-8e4e-2024b6a3878b
+     :END:
+**** TODO Make course outline
+     :PROPERTIES:
+     :ID:       e2b60bcc-754d-45d4-8f67-d7d4f99353e8
+     :END:
+check previous offerings
 *** DONE Respond to zhichao about MATH142B Enrollment
     - State "DONE"       from "WAITING"    [2012-11-28 Wed 10:43]
     - State "WAITING"    from "TODO"       [2012-11-27 Tue 12:09] \\
@@ -422,7 +430,8 @@ University of California, San Diego
      :PROPERTIES:
      :ID:       f5a023c1-c8f3-4b32-99cd-810b79b93495
      :END:
-*** WAITING Plan courses
+*** TODO Plan courses
+    - State "TODO"       from "WAITING"    [2012-11-30 Fri 13:36]
     - State "WAITING"    from ""           [2012-11-09 Fri 11:58] \\
       Waiting on course assignments
     :PROPERTIES:

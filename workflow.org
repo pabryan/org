@@ -540,10 +540,12 @@ I'll need to say use my phone to collect the data. I need something easy to cloc
     I want to hang on to emails, articles and so on. I want to keep receipts, ideas and a diary of what I've done. These need to be kept in a filing system somehow, most probaby using org-mode and memacs.
 ** Reviews
 Here I look at my goals, my tasks and how I've been spending my time and use that information to plan out the coming week/month/year etc.
-*** NEXT Weekly Review [6/10]
+*** NEXT Weekly Review [6/11]
     SCHEDULED: <2012-11-26 Mon .+7d/10d>
     :LOGBOOK:
-    CLOCK: [2012-11-30 Fri 12:59]
+    CLOCK: [2012-11-30 Fri 13:33]
+    CLOCK: [2012-11-30 Fri 13:27]--[2012-11-30 Fri 13:33] =>  0:06
+    CLOCK: [2012-11-30 Fri 12:59]--[2012-11-30 Fri 13:26] =>  0:27
     CLOCK: [2012-11-30 Fri 10:16]--[2012-11-30 Fri 10:52] =>  0:36
     CLOCK: [2012-11-29 Thu 14:20]--[2012-11-29 Thu 14:26] =>  0:09
     :END:
@@ -560,6 +562,7 @@ What to review:
 - [X] Check follow-up paper folder
 - [X] Check holding directory
   [[file:~/Dropbox/holding]]
+- [ ] Check holding email folder
 - [X] Review weekly agenda =F12 a w//=
 - [X] Check clocking data for past week =v c=
   - fix up any errors
