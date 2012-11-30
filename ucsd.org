@@ -97,7 +97,11 @@ Use a course as a guinea pig for using the method
       :PROPERTIES:
       :ID:       013aa80d-4df5-4b64-ac71-73c853424b82
       :END:
-**** TODO 4-4 Parallel Transport
+**** DONE 4-4 Parallel Transport
+     - State "DONE"       from "TODO"       [2012-11-30 Fri 12:00]
+     :LOGBOOK:
+     CLOCK: [2012-11-30 Fri 10:55]--[2012-11-30 Fri 12:00] =>  1:05
+     :END:
      :PROPERTIES:
      :ID:       a30d99f3-a128-4024-b187-4d83eea1164c
      :END:
@@ -112,7 +116,8 @@ Use a course as a guinea pig for using the method
       :PROPERTIES:
       :ID:       ec55f430-3a14-4830-a36a-f7a3ce51b831
       :END:
-***** NEXT Prepare 4-4 transport lecture
+***** DONE Prepare 4-4 transport lecture
+      - State "DONE"       from "NEXT"       [2012-11-30 Fri 10:59]
       :PROPERTIES:
       :ID:       013aa80d-4df5-4b64-ac71-73c853424b82
       :END:
