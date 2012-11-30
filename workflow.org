@@ -694,6 +694,7 @@ icvs2ledger, bitbucket-api
   :END:
 ** Organiation
 :LOGBOOK:
+CLOCK: [2012-11-30 Fri 12:58]
 CLOCK: [2012-11-30 Fri 10:13]--[2012-11-30 Fri 10:16] =>  0:03
 CLOCK: [2012-11-29 Thu 14:59]--[2012-11-29 Thu 15:00] =>  0:01
 CLOCK: [2012-11-29 Thu 14:29]--[2012-11-29 Thu 14:36] =>  0:07
