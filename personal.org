@@ -161,6 +161,21 @@ Use account A11078844
 | Tot                        | 58.5 |
    #+TBLFM: @11$2=vsum(@2$2..@10$2)
 
+#+TBLNAME: Coming up
+| Desc                  | Amt |
+|-----------------------+-----|
+| xmas swapp postage    |   5 |
+| kids swap postage     |  15 |
+| ornament swap postage |  10 |
+| alice xmas            |  20 |
+| Nick xmas             |   5 |
+| xmas pressie postage  |  40 |
+|                       |     |
+|                       |     |
+|                       |     |
+| Tot                   |  95 |
+   #+TBLFM: @11$2=vsum(@2$2..@10$2)
+
 ** TODO Transcribe from Bei Da notebook: budget
   :LOGBOOK:
   CLOCK: [2012-11-20 Tue 11:03]--[2012-11-20 Tue 11:04] =>  0:01
@@ -623,7 +638,22 @@ Bath and toilet clogged. Need light globes.
 ** Del Sol Continental Breakfast
 <2012-11-06 Tue 07:30-08:30>
 
-
+* Garden
+  :PROPERTIES:
+  :ID:       5e99dc1f-f8d7-4d88-b716-95c65eddee1a
+  :END:
+** TODO Make vegetable garden
+   :PROPERTIES:
+   :ID:       b968337e-485a-47ef-9c09-1dd0282f1173
+   :END:
+*** NEXT Plan out balcony garden
+    :PROPERTIES:
+    :ID:       743cadae-db2b-432e-88df-30fc5c2e73a4
+    :END:
+*** NEXT Transcribe from Bei Da notebook
+    :PROPERTIES:
+    :ID:       b4ebb630-3c36-4f5b-8376-4f3733a237e1
+    :END:
 * Outings
   :PROPERTIES:
   :ID:       a3db8660-da81-4683-b311-de1d178f4554
