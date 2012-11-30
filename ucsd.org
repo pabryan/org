@@ -265,8 +265,11 @@ Some are here [[http://www.math.ucsd.edu/~lindblad/150a/150a.html]]
     :ID:       c8e2450b-bf17-4295-acdf-371ed5abd3d1
     :LAST_REPEAT: [2012-11-16 Fri 10:31]
     :END:
-*** NEXT Write final exam
+*** WAITING Write final exam
+    - State "WAITING"    from "NEXT"       [2012-11-29 Thu 22:22] \\
+      Waiting for feedback from Bo.
     :LOGBOOK:
+    CLOCK: [2012-11-29 Thu 20:40]--[2012-11-29 Thu 22:22] =>  1:42
     CLOCK: [2012-11-27 Tue 20:21]--[2012-11-27 Tue 20:46] =>  0:25
     CLOCK: [2012-11-27 Tue 19:32]--[2012-11-27 Tue 19:48] =>  0:16
     CLOCK: [2012-11-27 Tue 13:34]--[2012-11-27 Tue 14:05] =>  0:31
