@@ -538,6 +538,9 @@ Abstract:
 [2012-11-27 Tue 12:32]
 This should be in the week starting the 7th Jan 2012
 *** TODO Organise Christian Baer's talk
+    :PROPERTIES:
+    :ID:       4dbf35d8-5f13-4bcb-9abc-d0d13f2d7551
+    :END:
 [2013-01-10 Thu 15:00-16:00]
 *** TODO Give talk on Brendle's proof of Lawson conjecture
   :LOGBOOK:

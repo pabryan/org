@@ -27,7 +27,7 @@ Scan them and email them to commbank. Also make sure netbank access is setup.
    :PROPERTIES:
    :ID:       93a33ee0-24df-416f-a1a0-2058bac243a7
    :END:
-*** NEXT Use org ledger for managing budget
+*** TODO Configure org ledger for managing budget
   CLOCK: [2012-11-06 Tue 15:56]--[2012-11-06 Tue 16:21] =>  0:25
     :PROPERTIES:
     :ID:       95b3661c-7107-49a1-9d86-568971a821aa
@@ -36,19 +36,28 @@ Scan them and email them to commbank. Also make sure netbank access is setup.
 [[http://orgmode.org/worg/org-contrib/babel/languages/ob-doc-ledger.html]]
 [[http://sachachua.com/blog/2010/11/emacs-recording-ledger-entries-with-org-capture-templates/]]
 
-*** NEXT Make list of montly expenses
+**** NEXT Enter bank data into ledger using icvs2ledger
+     :PROPERTIES:
+     :ID:       057af9b1-ad64-44d5-a771-a9bc6d1100fe
+     :END:
+**** TODO Review ledger tutorial and note down what my setup will be
+     :PROPERTIES:
+     :ID:       7c9fe3e1-0354-4767-8ded-8eae8aabbe3e
+     :END:
+*** DONE Make list of montly expenses
+    - State "DONE"       from "NEXT"       [2012-11-30 Fri 13:52]
 
   CLOCK: [2012-10-14 Sun 19:57]--[2012-10-14 Sun 19:58] =>  0:01
    :PROPERTIES:
    :ID:       460e587d-ea56-4b13-94a1-f487579e42fe
    :END:
   [2012-10-14 Sun 19:57]
-*** SOMEDAY Track spending
+*** TODO Track spending
     :PROPERTIES:
     :ID:       ec3df972-e266-4e74-ab9f-392e4920b528
     :END: 
 - collate bank statements
-- scan reciepts and enter into org mode
+- scan reciepts and enter into ledger/org mode
 
 ** TODO Pay rent
    - State "DONE"       from "TODO"       [2012-11-02 Fri 16:08]
@@ -242,11 +251,13 @@ Need to find out what to do when sick or in an emergency
    :PROPERTIES:
    :ID:       93730351-36ba-4865-a259-f95fbd3a24dd
    :END:
-** TODO Track exercise in org mode
+** DONE Track exercise in org mode
+   - State "DONE"       from "TODO"       [2012-11-30 Fri 13:54]
    :PROPERTIES:
    :ID:       063227db-9a4b-42e4-a2bf-f928f1554857
    :END:
-*** NEXT Make org mode exercise journal
+*** DONE Make org mode exercise journal
+    - State "DONE"       from "NEXT"       [2012-11-30 Fri 13:54]
     :PROPERTIES:
     :ID:       f76335cc-7e7d-472b-ae9f-54c9b267cb58
     :END:
@@ -750,19 +761,23 @@ Find a good postcast player for android. I want to be able to do offline listeni
    :PROPERTIES:
    :ID:       a8f893f1-d60e-4460-baeb-042797d69f7b
    :END:
-*** NEXT Create project for tracking
+*** CANCELLED Create project for tracking
+    - State "CANCELLED"  from "NEXT"       [2012-11-30 Fri 13:54] \\
+      This is the project already!
     :PROPERTIES:
     :ID:       5f12ccf7-644f-4c85-8979-e952533a6773
     :END:
-*** TODO Determine quantities to track
+*** DONE Determine quantities to track
+    - State "DONE"       from "TODO"       [2012-11-30 Fri 13:55]
     :PROPERTIES:
     :ID:       63f0ea65-632e-4656-aa48-b082021d965a
     :END:
-*** TODO Determine how to track quantities
+*** DONE Determine how to track quantities
+    - State "DONE"       from "TODO"       [2012-11-30 Fri 13:55]
     :PROPERTIES:
     :ID:       4d092569-138f-4d2c-98be-154ea7c43f02
     :END:
-*** TODO Get data into org-mode
+*** NEXT Make tables to collect data in org-mode
     :PROPERTIES:
     :ID:       ef2170c0-9863-47cd-89ba-7cf681da27f4
     :END:
