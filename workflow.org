@@ -13,7 +13,7 @@
    :PROPERTIES:
    :ID:       b44f91a4-abd0-459c-bfe9-c103641be8dd
    :END:
-*** SOMEDAY Create contexts
+*** NEXT Create contexts
     :PROPERTIES:
     :ID:       40f05fb2-aa64-4d0b-a747-3c4b66d2ec93
     :END:
@@ -24,13 +24,15 @@ home, computer, office, anywhere, notebook, tablet, phone, errand
     :END:
 e.g. for personal errands I have an errands heading which should have
 the errand tag attached to it and hence any child
-** TODO Setup mercurial sync and fetch				   :COMPUTER:
+** DONE Setup mercurial sync and fetch				   :COMPUTER:
+   - State "DONE"       from "TODO"       [2012-11-30 Fri 13:43]
   CLOCK: [2012-10-18 Thu 10:59]--[2012-10-18 Thu 10:59] =>  0:00
    :PROPERTIES:
    :ID:       70331fca-6e60-44e7-9069-19e2808a45f5
    :END:
 [2012-10-18 Thu 10:59]
-*** SOMEDAY research mercurial sync
+*** DONE research mercurial sync
+    - State "DONE"       from "SOMEDAY"    [2012-11-30 Fri 13:43]
     :PROPERTIES:
     :ID:       8f7d4e32-982c-4f0a-9cd0-d267c269b172
     :END:
@@ -77,22 +79,25 @@ will keep reminding me until it's done.
    :PROPERTIES:
    :ID:       41700872-750b-4b16-9f38-069e8041bb2b
    :END:
-*** SOMEDAY Put calendar data into org-mode
+*** CANCELLED Put calendar data into org-mode
+    - State "CANCELLED"  from "SOMEDAY"       [2012-11-30 Fri 13:44] \\
+      This is just using org-mode with timestamps!
     :PROPERTIES:
     :ID:       c69116a8-6655-4429-bbac-73a314ef2967
     :END:
-*** SOMEDAY sync with google calendar
+*** TODO sync with google calendar
     :PROPERTIES:
     :ID:       f1a7f408-27b3-44ab-b0f2-73ec079976df
     :END:
-*** TODO Research org-mode agenda views and how to use it productively
+*** DONE Research org-mode agenda views and how to use it productively
+    - State "DONE"       from "TODO"       [2012-11-30 Fri 13:44]
     :PROPERTIES:
     :ID:       358d2a2c-f8ac-485d-946e-c5e89097e1e9
     :END:
 **** DONE Learn how to filter org-mode agenda views
      - State "DONE"       from "NEXT"       [2012-11-15 Thu 11:46]
 I want to filter out personal tasks at work for example or show only ucsd and academic tasks
-*** TODO Filter out someday tasks
+*** NEXT Filter out someday tasks
     :PROPERTIES:
     :ID:       907b0751-6098-4034-8dc0-0b3c3b75a268
     :END:
@@ -182,16 +187,18 @@ blackboard screen shots, scans of notebooks etc.
     :ID:       3c0d5b9a-a43e-48b2-9f24-b8acd1e9fa2b
     :END:
 [[*New%20Research%20Project][New Research Project]]
-*** SOMEDAY Create projects
+*** TODO Create projects
     :PROPERTIES:
     :ID:       3679901e-c496-4a9f-924a-207740991872
     :END:
 **** DONE Create Ricci isoperimetric comparison project
      - State "DONE"       from "NEXT"       [2012-11-15 Thu 11:34]
-**** SOMEDAY Pipe flows
+**** DONE Pipe flows
+     - State "DONE"       from "SOMEDAY"    [2012-11-30 Fri 13:45]
      :PROPERTIES:
      :ID:       2bc3d2a2-8b2c-4636-98e6-e7f706928197
      :END:
+**** NEXT MCF Book
 **** SOMEDAY $\alpha$ curve flows
      :PROPERTIES:
      :ID:       00ef60be-5926-4072-96a8-c22d4f7ea90e
@@ -259,20 +266,20 @@ e.g. active projects have next items
 someday things are projects/todos without any next?
 What are my 50000ft to runway goals, principles, priorities etc.
 At the runway (i.e. actions) level, I should have a list of procedures for following when doing common tasks e.g. weekly review
-*** SOMEDAY Brainstorm high level planning
+*** NEXT Brainstorm high level planning
     :PROPERTIES:
     :ID:       56cc0a65-e6e2-4a43-9eff-d5b9a764f2b4
     :END:
-*** TODO Process for Learning
+*** SOMEDAY Process for Learning
     :PROPERTIES:
     :ID:       83f37a23-6ab0-4755-8306-39155dc66455
     :END: 
 If I want to learn something, e.g. some maths or self-improvement, juggling, etc., make a project for this in org-mode where I can store notes. It would be really nice to be able to put a bookmark in a pdf/ebook and create a link in org-mode to that bookmark.
-**** SOMEDAY Make org-mode checklist for process
+**** NEXT Make org-mode checklist for process
      :PROPERTIES:
      :ID:       8722888d-f0b7-47bf-b2b9-c63e6db2275d
      :END:
-**** SOMEDAY Create folder for storing learning projects
+**** TODO Create folder for storing learning projects
   CLOCK: [2012-10-15 Mon 09:47]--[2012-10-15 Mon 09:50] =>  0:03
    :PROPERTIES:
    :ID:       f4126061-82e5-4f60-9063-ab744abea7d0
@@ -283,15 +290,17 @@ If I want to learn something, e.g. some maths or self-improvement, juggling, etc
     :PROPERTIES:
     :ID:       fda5310e-8964-47c0-9864-cc3aa70b7f4d
     :END:
-**** SOMEDAY Make processes org file
+**** DONE Make processes org file
+     - State "DONE"       from "SOMEDAY"    [2012-11-30 Fri 13:47]
      :PROPERTIES:
      :ID:       aad12764-f51e-4b57-aeb2-23b4a69c6df2
      :END:
-**** SOMEDAY Make weekly review checklist
+**** DONE Make weekly review checklist
+     - State "DONE"       from "SOMEDAY"    [2012-11-30 Fri 13:47]
      :PROPERTIES:
      :ID:       85435e1c-6adb-45f9-9a6d-bee46ce10a01
      :END:
-**** SOMEDAY Make daily workflow checklist
+**** NEXT Make daily workflow checklist
      :PROPERTIES:
      :ID:       8f83463d-6ae8-4e9e-bf7f-a0381aaec54b
      :END:
@@ -329,7 +338,7 @@ maintain email list of speakers, participants
 If I put the schedule in an org file, I should just be able to update the
 org file and have that automatically update the website and send an email
 to the admin people.
-*** TODO Set up reference filing
+*** NEXT Set up reference filing
 Particularly development!
   CLOCK: [2012-10-21 Sun 17:24]--[2012-10-21 Sun 17:24] =>  0:00
     :PROPERTIES:
@@ -340,7 +349,7 @@ Particularly development!
    :PROPERTIES:
    :ID:       b2f00a6f-4eb6-4129-bbe8-56f1be40359b
    :END:
-*** SOMEDAY Get trays
+*** NEXT Get trays
     :PROPERTIES:
     :ID:       3f08a61e-4dad-4d70-abb5-d0e85e71d357
     :END:
@@ -354,11 +363,11 @@ Particularly development!
    :PROPERTIES:
    :ID:       bbef76b0-b858-474c-a3ff-cdde19189cfd
    :END:
-*** TODO Gather materials that need to be organised		       :HOME:
+*** NEXT Gather materials that need to be organised		       :HOME:
     :PROPERTIES:
     :ID:       8e67efe6-712f-49cf-9f55-b5c8656149bd
     :END:
-*** SOMEDAY Get folders from office for home
+*** NEXT Get folders from office for home
     :PROPERTIES:
     :ID:       053596a1-3c7f-4225-a03a-9416b37d894b
     :END:
@@ -387,7 +396,7 @@ Archive the lot! Organise into folders/tags whatever. gmail can be the main repo
    :PROPERTIES:
    :ID:       a3636804-e3d4-44e3-8872-13a3daac919b
    :END:
-*** SOMEDAY Set up BBDB with emacs
+*** NEXT Set up BBDB with emacs
     :PROPERTIES:
     :ID:       bbd84d11-e23b-42b6-bd04-be9f6af128f4
     :END:
@@ -460,10 +469,11 @@ I want to direct my life better. This involves
    :ID:       850b0057-6b68-451d-a4b2-cbf8012e25c6
    :END:
 [2012-11-06 Tue 14:58]
-*** SOMEDAY Record habits
+*** NEXT Record habits
     :PROPERTIES:
     :ID:       bde471f6-a45d-43a8-9bd2-03827862c7c5
     :END:
+Which habits still need to be added?
 **** Tai Chi
 **** Qi Qong
 **** IntuFlow
@@ -476,7 +486,7 @@ I want to direct my life better. This involves
 **** Books
 **** Shows
 **** Chess
-*** SOMEDAY Set goals
+*** TODO Set goals
     :PROPERTIES:
     :ID:       e01b4e75-1481-48be-a05b-f2f3516e1a44
     :END:
@@ -520,7 +530,7 @@ Set long term goals and short term goals. Have say the weeks/months goals in org
 ***** emacs
 ***** android
 ***** computational
-*** SOMEDAY Quantified self
+*** TODO Quantified self
     :PROPERTIES:
     :ID:       90a5676f-ef85-49e2-9a9d-81259fa21719
     :END:
@@ -679,7 +689,7 @@ Also could have dry snacks, tinned stuff like sardines and so on.
    :PROPERTIES:
    :ID:       c19772cf-4ad2-4f13-ac01-0c2eebb909f9
    :END:
-*** SOMEDAY Research org-mode priorities
+*** NEXT Research org-mode priorities
     :PROPERTIES:
     :ID:       0e0ec6e9-ce54-49ca-924b-dc9957f63d33
     :END:

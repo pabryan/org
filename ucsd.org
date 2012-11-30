@@ -412,6 +412,8 @@ University of California, San Diego
 
 
 ** TODO Summer 2013
+   SCHEDULED: <2013-08-15 Thu>
+
    :PROPERTIES:
    :ID:       98c60166-9021-42a3-95fd-3b0852dcdc18
    :END:
@@ -430,8 +432,9 @@ University of California, San Diego
      :PROPERTIES:
      :ID:       f5a023c1-c8f3-4b32-99cd-810b79b93495
      :END:
-*** TODO Plan courses
-    - State "TODO"       from "WAITING"    [2012-11-30 Fri 13:36]
+*** NEXT Make course projects
+    - State "NEXT"       from "WAITING"    [2012-11-30 Fri 13:36]
+      Got course assignments (142B, 20D)
     - State "WAITING"    from ""           [2012-11-09 Fri 11:58] \\
       Waiting on course assignments
     :PROPERTIES:
@@ -501,7 +504,7 @@ University of California, San Diego
     :ID:       4c4bf1f0-c81d-4fb5-b970-9da250ba0b4e
     :END:
     <2012-11-08 Thu 10:00-11:00 +1w>
-*** TODO Send DG seminar email announcement
+*** NEXT Send DG seminar email announcement
     - State "DONE"       from "TODO"       [2012-11-29 Thu 09:46]
     :PROPERTIES:
     :ID:       0f19da7c-65a3-4e95-8a91-78d12caa46da
@@ -534,6 +537,8 @@ Abstract:
   :END:
 [2012-11-27 Tue 12:32]
 This should be in the week starting the 7th Jan 2012
+*** TODO Organise Christian Baer's talk
+[2013-01-10 Thu 15:00-16:00]
 *** TODO Give talk on Brendle's proof of Lawson conjecture
   :LOGBOOK:
   :END:
