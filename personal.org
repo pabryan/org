@@ -1,3 +1,4 @@
+
 #+FILETAGS: PERSONAL
 
 * Special dates
@@ -96,23 +97,23 @@ Use account A11078844
 
 ** Budget
 #+TBLNAME: MTHBUDGET
-| Desc               |    Amt |
-|--------------------+--------|
-| Rent               |   1650 |
-| Electricity        |     75 |
-| Phone              |     80 |
-| Internet           |     80 |
-| Loan               |    500 |
-| ASG                |    125 |
-| Kate Visa          |    200 |
-| Family Tax         |   -220 |
-| Pay                |  -3800 |
-| Weekly Food        |    408 |
-| Supplies           |     60 |
-| Supermarket (bulk) |   58.5 |
-|                    |        |
-| Total              | -783.5 |
-   #+TBLFM: @11$2=remote(WeeklyFood,@17$2)*4::@13$2=remote(Supplies,@11$2)::@15$2=vsum(@2$2..@14$2)
+| Desc               |   Amt |
+|--------------------+-------|
+| Rent               |  1650 |
+| Electricity        |    75 |
+| Phone              |    80 |
+| Internet           |    80 |
+| Loan               |   500 |
+| ASG                |   125 |
+| Kate Visa          |   200 |
+| Family Tax         |  -220 |
+| Pay                | -3800 |
+| Weekly Food        | 481.5 |
+| Supplies           |    60 |
+| Supermarket (bulk) |  58.5 |
+|                    |       |
+| Total              | -710. |
+   #+TBLFM: @11$2=remote(WeeklyFood,@18$2)*4.5::@13$2=remote(Supplies,@11$2)::@15$2=vsum(@2$2..@14$2)
 
 #+TBLNAME: WeeklyFood
 | Desc                                    | Amt |
@@ -131,9 +132,10 @@ Use account A11078844
 | Tin beans (2)                           |   3 |
 | Crackers (1 box)                        |   3 |
 | Carrots (1 bag)                         |   2 |
+| Kids Meat (1 packO                      |   5 |
 |                                         |     |
-| Total                                   | 102 |
-   #+TBLFM: @17$2=vsum(@2$2..@15$2)
+| Total                                   | 107 |
+   #+TBLFM: @18$2=vsum(@2$2..@16$2)
 
 #+TBLNAME: MonthlyFood 
 | Desc              | Amt |
@@ -165,7 +167,7 @@ Use account A11078844
 #+TBLNAME: Coming up
 | Desc                  | Amt |
 |-----------------------+-----|
-| xmas swapp postage    |   5 |
+| xmas swap postage     |   5 |
 | kids swap postage     |  15 |
 | ornament swap postage |  10 |
 | alice xmas            |  20 |
