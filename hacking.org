@@ -86,8 +86,10 @@ type = Gmail
 remoteuser = pabryan@gmail.com
 remotepass = Youg2Ltc
 maxconnections = 3
-folderfilter = lambda folder: folder in ['PTE', 'temp']
 realdelete = no
+#folderfilter = lambda folder: folder in ['PTE', 'temp']
+#nametrans: lambda folder: folder if folder in ['INBOX', 'Drafts', 'Sent Mail', 'Bin'] \
+#                          else re.sub(r'^', r'gmail.', folder)
 
 
 **** muttrc
