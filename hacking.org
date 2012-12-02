@@ -73,15 +73,16 @@ remoterepository = Remote
 
 [Repository Local]
 type = Maildir
-localfolders = /storage/Gmail_Backup
+localfolders = ~/tmp/gmail
 
 [Repository Remote]
 type = IMAP
 remotehost = imap.gmail.com
-remoteuser = your_username@gmail.com
-remotepass = your_password
+remoteuser = pabryan@gmail.com
+remotepass = Youg2Ltc
 ssl = yes
 maxconnections = 1
+folderfilter = lambda folder: folder.startswith('MyLabel')
 
 #Setting realdelete = yes will Really Delete email from the server.
 #Otherwise "deleting" a message will just remove any labels and 
