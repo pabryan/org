@@ -79,21 +79,16 @@ remoterepository = Remote
 
 [Repository Local]
 type = Maildir
-localfolders = ~/tmp/gmail
+localfolders = ~/Mail
 
 [Repository Remote]
-type = IMAP
-remotehost = imap.gmail.com
+type = Gmail
 remoteuser = pabryan@gmail.com
 remotepass = Youg2Ltc
-ssl = yes
-maxconnections = 1
-folderfilter = lambda folder: folder.startswith('MyLabel')
-
-#Setting realdelete = yes will Really Delete email from the server.
-#Otherwise "deleting" a message will just remove any labels and 
-#retain the message in the All Mail folder.
+maxconnections = 3
+folderfilter = lambda folder: folder in ['PTE', 'temp']
 realdelete = no
+
 
 **** muttrc
 set mbox_type   = Maildir
