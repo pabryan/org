@@ -31,6 +31,9 @@ http://www.kilobolt.com/game-development-tutorial.html
     :END: 
 
 * Programming
+  :PROPERTIES:
+  :ID:       5353497c-9613-4623-a4ba-4ac6a37e42fe
+  :END:
 ** Structure and Interpretation of Computer Programs 
 http://mitpress.mit.edu/sicp/
 http://groups.csail.mit.edu/mac/classes/6.001/abelson-sussman-lectures/
