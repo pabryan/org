@@ -40,25 +40,25 @@ END:
    #+TBLFM: @11$2=remote(WeeklyFood,@18$2)*4.5::@13$2=remote(Supplies,@11$2)::@15$2=vsum(@2$2..@14$2)
 
 #+TBLNAME: WeeklyFood
-| Desc                                    | Amt |
-|-----------------------------------------+-----|
-| Organic Box                             |  42 |
-| Eggs (2 cartons)                        |   8 |
-| Milk (2 bottles)                        |   8 |
-| Bread (1 torilla, wrap, loaf or bagels) |   8 |
-| Pasta (2 packs)                         |   3 |
-| Mushrooms (3 packs)                     |   6 |
-| Bananans (1 bunch)                      |   3 |
-| Avocados (3)                            |   5 |
-| Cereal (1 box)                          |   5 |
-| Onions (5)                              |   3 |
-| Tin tomato (2)                          |   3 |
-| Tin beans (2)                           |   3 |
-| Crackers (1 box)                        |   3 |
-| Carrots (1 bag)                         |   2 |
-| Kids Meat (1 packO                      |   5 |
-|                                         |     |
-| Total                                   | 107 |
+| Desc                                     | Amt |
+|------------------------------------------+-----|
+| Organic Box                              |  42 |
+| Eggs (2 cartons)                         |   8 |
+| Milk (2 bottles)                         |   8 |
+| Bread (1 tortilla, wrap, loaf or bagels) |   8 |
+| Pasta (2 packs)                          |   3 |
+| Mushrooms (3 packs)                      |   6 |
+| Bananans (1 bunch)                       |   3 |
+| Avocados (3)                             |   5 |
+| Cereal (1 box)                           |   5 |
+| Onions (5)                               |   3 |
+| Tin tomato (2)                           |   3 |
+| Tin beans (2)                            |   3 |
+| Crackers (1 box)                         |   3 |
+| Carrots (1 bag)                          |   2 |
+| Kids Meat (1 packO                       |   5 |
+|                                          |     |
+| Total                                    | 107 |
    #+TBLFM: @18$2=vsum(@2$2..@16$2)
 
 #+TBLNAME: MonthlyFood 
