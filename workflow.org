@@ -749,7 +749,7 @@ icvs2ledger, bitbucket-api
    :ID:       7a2db3d7-a7d3-428c-979b-f9eff5db6dc2
    :END:
 [2012-11-30 Fri 10:52]
-
+This should go through the ~/working directory and output all repositories where hg incoming, outgoing or st gives a result
 * Tasks
   :PROPERTIES:
   :ID:       4257fe31-e606-4ca9-a848-858379409679
