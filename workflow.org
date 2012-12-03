@@ -171,6 +171,29 @@ Also create any projects and put the under vc
 [2012-11-30 Fri 10:54]
 This will clear up my agenda until I can filter out someday projects
 
+** TODO make_research_project.sh should create org-mode snippet
+  :LOGBOOK:
+  CLOCK: [2012-12-03 Mon 13:54]--[2012-12-03 Mon 13:55] =>  0:01
+  :END:
+   :PROPERTIES:
+   :ID:       19d696d2-2c2c-47f6-b948-a98b93a30be4
+   :END:
+[2012-12-03 Mon 13:54]
+
+** NEXT Investigate Dropbox symlink errors
+  :LOGBOOK:
+  CLOCK: [2012-12-03 Mon 14:47]
+  CLOCK: [2012-12-03 Mon 14:05]--[2012-12-03 Mon 14:08] =>  0:03
+  :END:
+  :PROPERTIES:
+  :ID:       57f673eb-3483-4ad8-b019-33808cc2ddd1
+  :END:
+[2012-12-03 Mon 14:05]
+~/Dropbox/office should be a symlink to ~/Dropbox/math131
+likewise for notebook and paul-dell...
+
+Hostname should be the canonical place and I shouldn't ever need to worry about the symlinked one. i.e. I should be able to remove all references to office and notebook and then delete the symlinks.
+
 * process
   :PROPERTIES:
   :ID:       403ba6c9-9a32-430c-b0c9-0b09f2eba44e
@@ -733,7 +756,9 @@ icvs2ledger, bitbucket-api
   :END:
 ** Organiation
 :LOGBOOK:
-CLOCK: [2012-12-03 Mon 13:55]
+CLOCK: [2012-12-03 Mon 14:26]--[2012-12-03 Mon 14:47] =>  0:21
+CLOCK: [2012-12-03 Mon 14:08]--[2012-12-03 Mon 14:11] =>  0:03
+CLOCK: [2012-12-03 Mon 13:55]--[2012-12-03 Mon 14:05] =>  0:10
 CLOCK: [2012-12-03 Mon 13:29]--[2012-12-03 Mon 13:54] =>  0:25
 CLOCK: [2012-12-03 Mon 13:10]--[2012-12-03 Mon 13:12] =>  0:02
 CLOCK: [2012-11-30 Fri 14:58]--[2012-11-30 Fri 15:02] =>  0:04
