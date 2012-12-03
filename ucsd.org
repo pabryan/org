@@ -125,15 +125,28 @@ Use a course as a guinea pig for using the method
      :PROPERTIES:
      :ID:       829af05f-1c7d-4772-bb16-df2d884f4b84
      :END:
+     :LOGBOOK:
+     CLOCK: [2012-12-03 Mon 10:55]--[2012-12-03 Mon 12:00] =>  1:05
+     :END:
+
 <2012-12-03 Mon 11:00-12:00>
-***** NEXT Plan 4-4 Geodesics Lecture 
+***** DONE Plan 4-4 Geodesics Lecture 
+      - State "DONE"       from "NEXT"       [2012-12-02 Sun 20:10]
       :PROPERTIES:
       :ID:       a3f4401d-24f6-46ea-aa57-9009080cbf17
       :END:
-***** TODO Prepare 4-4 Geodesics Lecture 
+     :LOGBOOK:
+     CLOCK: [2012-12-02 Sun 19:00]--[2012-12-02 Sun 20:10] =>  1:10
+     :END:
+
+***** DONE Prepare 4-4 Geodesics Lecture 
+      - State "DONE"       from "TODO"       [2012-12-03 Mon 10:55]
       :PROPERTIES:
       :ID:       aeb80c63-b44e-42f6-b9f7-bb83ff06d576
       :END:
+     :LOGBOOK:
+     CLOCK: [2012-12-03 Mon 10:40]--[2012-12-03 Mon 10:55] =>  0:15
+     :END:
 **** TODO 4-5 Gauss Bonnet
      :PROPERTIES:
      :ID:       075a26d1-d322-4530-849d-1f7a8b60b21b
@@ -312,7 +325,7 @@ Update this based on Bo's comments.
     :PROPERTIES:
     :ID:       dab37352-843a-4461-b37e-dd25870fee08
     :END:
-*** TODO Remind students to fill in CAPE forms
+*** Remind students to fill in CAPE forms
     :PROPERTIES:
     :ID:       069d6e27-50e2-4ca8-a675-6a81c0a6c189
     :END:

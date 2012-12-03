@@ -805,6 +805,7 @@ icvs2ledger, bitbucket-api
   :END:
 ** Organiation
 :LOGBOOK:
+CLOCK: [2012-12-03 Mon 13:09]
 CLOCK: [2012-11-30 Fri 14:58]--[2012-11-30 Fri 15:02] =>  0:04
 CLOCK: [2012-11-30 Fri 12:58]--[2012-11-30 Fri 12:59] =>  0:01
 CLOCK: [2012-11-30 Fri 10:13]--[2012-11-30 Fri 10:16] =>  0:03
@@ -837,3 +838,4 @@ CLOCK: [2012-11-26 Mon 08:19]--[2012-11-26 Mon 08:28] =>  0:09
   :CLOCK_MODELINE_TOTAL: today
   :ID:       0a16188e-7a1a-4413-a516-5127dcbee30c
   :END:
+   
