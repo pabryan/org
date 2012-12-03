@@ -191,78 +191,6 @@ blackboard screen shots, scans of notebooks etc.
     :ID:       3c0d5b9a-a43e-48b2-9f24-b8acd1e9fa2b
     :END:
 [[*New%20Research%20Project][New Research Project]]
-*** TODO Create projects
-    :PROPERTIES:
-    :ID:       3679901e-c496-4a9f-924a-207740991872
-    :END:
-**** DONE Create Ricci isoperimetric comparison project
-     - State "DONE"       from "NEXT"       [2012-11-15 Thu 11:34]
-**** DONE Pipe flows
-     - State "DONE"       from "SOMEDAY"    [2012-11-30 Fri 13:45]
-     :PROPERTIES:
-     :ID:       2bc3d2a2-8b2c-4636-98e6-e7f706928197
-     :END:
-**** NEXT MCF Book
-     :PROPERTIES:
-     :ID:       5cf61b8c-05a3-4b92-80f7-d1db5b7e388b
-     :END:
-**** SOMEDAY $\alpha$ curve flows
-     :PROPERTIES:
-     :ID:       00ef60be-5926-4072-96a8-c22d4f7ea90e
-     :END:
-**** SOMEDAY dist. comp. on surfaces
-     :PROPERTIES:
-     :ID:       11689ca3-faa5-4d49-b1c1-6addab57a7e9
-     :END:
-**** SOMEDAY CMC stability
-     :PROPERTIES:
-     :ID:       b724a6ef-9e89-4dcc-bfe4-89fcbd3bab7b
-     :END:
-**** SOMEDAY CSF iso profile on surfaces
-     :PROPERTIES:
-     :ID:       9ee2ebcd-0f17-4619-93fb-c1a2e29d06ec
-     :END:
-**** SOMEDAY Vector symmetric polynomials
-     :PROPERTIES:
-     :ID:       d9c6bddd-3830-4b32-9ada-d05898e6320d
-     :END:
-**** SOMEDAY k-graphs, free constructions
-     :PROPERTIES:
-     :ID:       5e2ef951-6230-4b67-bd5c-51c5c02d3fcf
-     :END:
-**** SOMEDAY iso profile comparison Kahler manifolds
-     :PROPERTIES:
-     :ID:       d524b0fb-f936-4247-9ee0-5874bab944ab
-     :END:
-**** SOMEDAY CSF for networks
-     :PROPERTIES:
-     :ID:       9be71d41-df08-4346-b00f-2d633f566ae7
-     :END:
-**** SOMEDAY Perelman pseudo-locality
-     :PROPERTIES:
-     :ID:       fdcdf39f-b631-4190-bb88-8be7b39531a3
-     :END:
-**** SOMEDAY Degenerate neck-pinches
-     :PROPERTIES:
-     :ID:       ae6e0aa8-e25c-4786-8804-807a8e71ba34
-     :END:
-**** SOMEDAY Ricci flow on warped products
-     :PROPERTIES:
-     :ID:       e2d40681-87e5-4f73-9bcd-2e3a00bf15a6
-     :END:
-
-**** SOMEDAY Set up Bakry-Emery comparison project for weighted iso profile
-  CLOCK: [2012-10-25 Thu 14:27]--[2012-10-25 Thu 14:28] =>  0:01
-     :PROPERTIES:
-     :ID:       de7aa818-eb75-449f-996c-a8b96b443f6d
-     :END:
-[2012-10-25 Thu 14:27]
-[[file:~/research_resources/lecture_notes/250C-2012-Ni-UCSD.pdf][250C-2012-Ni-UCSD.pdf]]
-
-*** SOMEDAY Create project tasks
-    :PROPERTIES:
-    :ID:       d8e291b0-e3dc-427e-b303-a5476dd68eb0
-    :END:
 ** TODO Develop organisation process, workflow			   :ANYWHERE:
    :PROPERTIES:
    :ID:       a96c63f6-2ee8-4042-ae7c-3f7d5bc3493e
@@ -805,7 +733,8 @@ icvs2ledger, bitbucket-api
   :END:
 ** Organiation
 :LOGBOOK:
-CLOCK: [2012-12-03 Mon 13:29]
+CLOCK: [2012-12-03 Mon 13:55]
+CLOCK: [2012-12-03 Mon 13:29]--[2012-12-03 Mon 13:54] =>  0:25
 CLOCK: [2012-12-03 Mon 13:10]--[2012-12-03 Mon 13:12] =>  0:02
 CLOCK: [2012-11-30 Fri 14:58]--[2012-11-30 Fri 15:02] =>  0:04
 CLOCK: [2012-11-30 Fri 12:58]--[2012-11-30 Fri 12:59] =>  0:01
