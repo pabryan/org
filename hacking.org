@@ -30,7 +30,13 @@ http://www.kilobolt.com/game-development-tutorial.html
     :ID:       953d8f2c-22b2-40ad-bbde-e2eabc453c60
     :END: 
 
-
+* Programming
+  :PROPERTIES:
+  :ID:       5353497c-9613-4623-a4ba-4ac6a37e42fe
+  :END:
+** Structure and Interpretation of Computer Programs 
+http://mitpress.mit.edu/sicp/
+http://groups.csail.mit.edu/mac/classes/6.001/abelson-sussman-lectures/
 * emacs
   :PROPERTIES:
   :ID:       0dcdccc8-50f8-487d-88c6-1034edc744ef
@@ -73,20 +79,76 @@ remoterepository = Remote
 
 [Repository Local]
 type = Maildir
-localfolders = /storage/Gmail_Backup
+localfolders = ~/Mail
 
 [Repository Remote]
-type = IMAP
-remotehost = imap.gmail.com
-remoteuser = your_username@gmail.com
-remotepass = your_password
-ssl = yes
-maxconnections = 1
-
-#Setting realdelete = yes will Really Delete email from the server.
-#Otherwise "deleting" a message will just remove any labels and 
-#retain the message in the All Mail folder.
+type = Gmail
+remoteuser = pabryan@gmail.com
+remotepass = Youg2Ltc
+maxconnections = 3
 realdelete = no
+#folderfilter = lambda folder: folder in ['PTE', 'temp']
+#nametrans: lambda folder: folder if folder in ['INBOX', 'Drafts', 'Sent Mail', 'Bin'] \
+#                          else re.sub(r'^', r'gmail.', folder)
+
+
+**** muttrc
+set mbox_type   = Maildir
+set sendmail    = /usr/bin/msmtp
+
+set folder      = ~/Mail
+set spoolfile   = "+INBOX"
+set mbox        = "+[Gmail]/All Mail"
+set postponed   = "+[Gmail]/Drafts"
+unset record
+
+mailboxes +INBOX
+
+macro index D \
+    "<save-message>+[Gmail]/Trash<enter>" \
+    "move message to the trash"
+
+macro index S \
+    "<save-message>+[Gmail]/Spam<enter>" \
+    "mark message as spam"
+
+# main options
+set realname   = "Real Name"
+set from       = "user@gmail.com"
+set mail_check = 0
+set envelope_from
+
+unset move           # gmail does that
+set delete           # don't ask, just do
+unset confirmappend  # don't ask, just do!
+set quit             # don't ask, just do!!
+unset mark_old       # read/new is good enough for me
+
+# sort/threading
+set sort     = threads
+set sort_aux = reverse-last-date-received
+set sort_re
+
+# look and feel
+set pager_index_lines = 8
+set pager_context     = 5
+set pager_stop
+set menu_scroll
+set smart_wrap
+set tilde
+unset markers
+
+# composing 
+set fcc_attach
+unset mime_forward
+set forward_format = "Fwd: %s"
+set include
+set forward_quote
+
+ignore *                               # first, ignore all headers
+unignore from: to: cc: date: subject:  # then, show only these
+hdr_order from: to: cc: date: subject: # and in this order
+
 
 *** TODO Store passwords in keyring
     :PROPERTIES:
