@@ -57,6 +57,8 @@ Use a course as a guinea pig for using the method
    :CATEGORY: MATH150A FALL2012
    :ID:       7b8cd00b-6f86-4280-a4c6-8cbdd0dcfc87
    :END:
+*** Text
+[[file:~/research_resources/books/Carmo%20M.P.%20Differential%20geometry%20of%20curves%20and%20surfaces%20(1976)(T)(511s)_MDdg_.djvu][Carmo M.P. Differential geometry of curves and surfaces]]
 *** Lectures							   :LECTURES:
 **** DONE 4-2 Isometries
      - State "DONE"       from ""           [2012-11-28 Wed 10:49]
@@ -156,6 +158,9 @@ Use a course as a guinea pig for using the method
 <2012-12-05 Wed 11:00-12:00>
 ***** NEXT Plan 4-5 Gauss-Bonnet Lecture 
       DEADLINE: <2012-12-05 Wed 11:00>
+      :LOGBOOK:
+      CLOCK: [2012-12-04 Tue 15:24]
+      :END:
 
       :PROPERTIES:
       :ID:       d6861f57-c5ff-4f2e-8ac6-1ba67f717ed6
