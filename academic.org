@@ -420,6 +420,15 @@ Talk about ancient solutions of curve shortening flow on $S^2$
   :ID:       4f5359c0-36aa-40f8-be49-85b17c2f2996
   :END:
 [2012-11-20 Tue 10:50]
+** TODO Set up review project
+  :LOGBOOK:
+  :END:
+   :PROPERTIES:
+   :ID:       eac9484c-c615-4be1-86c9-fe9dd21e7404
+   :END:
+[2012-12-04 Tue 14:03]
+MR2948294
+
 * Collaborators
   :PROPERTIES:
   :ID:       108d3c88-823b-4098-929b-f55292293588
