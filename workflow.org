@@ -139,8 +139,10 @@ Also create any projects and put the under vc
    :ID:       88df0e6b-0854-49f2-b0f3-78298e050cb2
    :END:
 [2012-11-12 Mon 11:43]
+This should do: $ find ~/working -iname '.hg' adnd then hg st, hg incoming, hg outgoing and if any report action required output the result
 
-** TODO Fix up clocking in/out on mobileorg
+** DONE Fix up clocking in/out on mobileorg
+   - State "DONE"       from "TODO"       [2012-12-04 Tue 12:56]
    :PROPERTIES:
    :ID:       7eea46e9-8678-4c94-a108-d3a2289abb63
    :END:
@@ -758,6 +760,7 @@ This should go through the ~/working directory and output all repositories where
   :END:
 ** Organiation
 :LOGBOOK:
+CLOCK: [2012-12-04 Tue 12:52]--[2012-12-04 Tue 12:57] =>  0:05
 CLOCK: [2012-12-04 Tue 11:55]--[2012-12-04 Tue 12:00] =>  0:05
 CLOCK: [2012-12-03 Mon 16:57]--[2012-12-03 Mon 16:58] =>  0:01
 CLOCK: [2012-12-03 Mon 15:52]--[2012-12-03 Mon 16:09] =>  0:17
