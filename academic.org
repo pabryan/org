@@ -63,67 +63,7 @@ Geisel Library room 274
   :CATEGORY: Research
   :END:
 [[file:~/working/academic/research/]]
-** TODO Organise research papers
-   :PROPERTIES:
-   :ID:       27dd1954-9abe-4a87-9bcd-36027c643fdb
-   :END:
-*** TODO File hard copies under bib key
-    :PROPERTIES:
-    :ID:       133cd7db-b4c3-42ac-bd2a-6e7082bd67f5
-    :END:
-*** TODO Configure reftex, org-mode to access papers
-    :PROPERTIES:
-    :ID:       0d3a134a-c167-44e8-aa83-fc2b5327b03e
-    :END:
-**** DONE Research setup: see evernote refs to start
-     - State "DONE"       from "NEXT"       [2012-10-26 Fri 14:50]
-**** DONE Create org file for recording notes on papers in bib file
-     - State "DONE"       from "NEXT"       [2012-10-26 Fri 14:50]
-**** NEXT org-mode create ref should create bib, mr/arxiv links
-     :PROPERTIES:
-     :ID:       03789ba0-7a21-4b06-bbe0-70a1f06edde1
-     :END:
-*** TODO pdf scraping tool to create bib entries and rename pdf files
-This should open pdf's, get doi info and then look up the paper details
-online to get bib type info. Then the paper can be renamed, a bib entry
-can be created or downloaded, say from mathscinet or arxiv. I'd aso like this
-to create an org-mode headline for my refs.org file. I don't want to do this
-manually, though a bit of elisp should be able to iterate over each bib
-entry (using reftex?) and update the refs.org file. I may also want to store
-each bib entry in a seperate file and have refs.bib a concatenation of the lot
-so that I don't have problems editing refs.bib from multiple places.
-See [[http://en.dogeno.us/2010/02/release-a-python-script-for-organizing-scientific-papers-pyrenamepdf-py/][pyrename-pdf]]
-  CLOCK: [2012-10-26 Fri 13:04]--[2012-10-26 Fri 13:06] =>  0:02
-    :PROPERTIES:
-    :ID:       751a6769-bf15-4590-925c-d1eb938a03b3
-    :END:
-[2012-10-26 Fri 13:04]
-
-*** TODO Write script to auto download from mathscinet, arxiv etc.
-    :PROPERTIES:
-    :ID:       65db22f3-b0c6-43c2-b7d5-9922cf35e5e8
-    :END:
-The script should get mathscinet info, say a bib file and use the doi
-info to automatically download the pdf file
-Ideally this should be integrated into org-mode
-See [[http://www.lhnr.de/index.html#code/localcopy][JabRef plugin]]
-Also the URL format for MR lookup is
-http://www.ams.org/mrlookup?au=yau%20and%20li&year=1986&format=mrcit
-with various other fields allowed, but not MR number!
-See also
-[[http://www.ams.org/mathscinet/help/mr_lookup_help.html][mr_lookup_help]]
-[2012-10-26 Fri 13:01]
-
-*** TODO Populate org file and bib file with references
-    :PROPERTIES:
-    :ID:       57e9b039-e848-43d9-a7c6-b46fed373170
-    :END:
-*** NEXT Collect pdf's into single directory
-    :PROPERTIES:
-    :ID:       9defa0b0-c473-4347-9cf3-574714e81f7d
-    :END:
-[[file:~/research_resources]]
-** TODO Ricci isoperimetric profile			     :RICCI_ISO_COMP:
+** TODO Ricci isoperimetric profile 			     :RICCI_ISO_COMP:
 [[file:~/working/academic/research/ricci_surfaces_isoperimetric_comparison]]
    :PROPERTIES:
    :ID:       5d9554fe-4cf1-42b0-9891-69a81e715a67
@@ -199,26 +139,20 @@ See also
     :END:
 
 ** TODO MCF BOOK
+[[file:~/working/academic/research/mcf_book]]
    :PROPERTIES:
    :ID:       94d316e3-e550-42ca-90f9-fd91d2d61bc5
    :END:
-*** NEXT Setup MCF Book project
-    :PROPERTIES:
-    :ID:       c8d15dfe-8f58-4a07-a333-7ce7d4263e3f
-    :END:
-*** TODO Make outline of book
+*** NEXT Make outline of book
     :PROPERTIES:
     :ID:       fafef726-06de-4f07-8e85-b55e2e153b9d
     :END:
 ** TODO Submanifolds
+[[file:~/working/academic/research/sub_manifolds_book]]
    :PROPERTIES:
    :ID:       c81850da-1eac-4c94-a963-ab007548b40a
    :END:
-*** NEXT Setup submanifolds book project
-    :PROPERTIES:
-    :ID:       9e6828fc-459e-4c48-bb16-aad36cc6c868
-    :END:
-*** TODO Pull previous work into new project
+*** NEXT Pull previous work into new project
     :PROPERTIES:
     :ID:       7b113c85-946a-4233-a2aa-4b9393af4506
     :END:
@@ -231,73 +165,158 @@ Pull backs, normal bundles etc.
 Variations
 Space-time (how do we choose a connection?)
 Sequences of manifolds and convergence. What is smooth convergence? Can it be defined invariantly?
-** TODO Create research projects with tasks
-   :PROPERTIES:
-   :ID:       3679901e-c496-4a9f-924a-207740991872
-   :END:
-*** DONE Create Ricci isoperimetric comparison project
-    - State "DONE"       from "NEXT"       [2012-11-15 Thu 11:34]
-*** DONE Pipe flows
-    - State "DONE"       from "SOMEDAY"    [2012-11-30 Fri 13:45]
-    :PROPERTIES:
-    :ID:       2bc3d2a2-8b2c-4636-98e6-e7f706928197
-    :END:
-*** NEXT MCF Book
-    :PROPERTIES:
-    :ID:       5cf61b8c-05a3-4b92-80f7-d1db5b7e388b
-    :END:
-*** TODO $\alpha$ curve flows
-    :PROPERTIES:
-    :ID:       00ef60be-5926-4072-96a8-c22d4f7ea90e
-    :END:
-*** TODO dist. comp. on surfaces
-    :PROPERTIES:
-    :ID:       11689ca3-faa5-4d49-b1c1-6addab57a7e9
-    :END:
-*** TODO CMC stability
-    :PROPERTIES:
-    :ID:       b724a6ef-9e89-4dcc-bfe4-89fcbd3bab7b
-    :END:
-*** TODO CSF for networks
-    :PROPERTIES:
-    :ID:       9be71d41-df08-4346-b00f-2d633f566ae7
-    :END:
-*** TODO CSF iso profile on surfaces
-    :PROPERTIES:
-    :ID:       9ee2ebcd-0f17-4619-93fb-c1a2e29d06ec
-    :END:
-*** TODO Vector symmetric polynomials
-    :PROPERTIES:
-    :ID:       d9c6bddd-3830-4b32-9ada-d05898e6320d
-    :END:
-*** TODO k-graphs, free constructions
-    :PROPERTIES:
-    :ID:       5e2ef951-6230-4b67-bd5c-51c5c02d3fcf
-    :END:
-*** TODO iso profile comparison Kahler manifolds
-    :PROPERTIES:
-    :ID:       d524b0fb-f936-4247-9ee0-5874bab944ab
-    :END:
-*** TODO Perelman pseudo-locality
-    :PROPERTIES:
-    :ID:       fdcdf39f-b631-4190-bb88-8be7b39531a3
-    :END:
-*** TODO Degenerate neck-pinches
-    :PROPERTIES:
-    :ID:       ae6e0aa8-e25c-4786-8804-807a8e71ba34
-    :END:
-*** TODO Ricci flow on warped products
-    :PROPERTIES:
-    :ID:       e2d40681-87e5-4f73-9bcd-2e3a00bf15a6
-    :END:
 
-*** TODO Bakry-Emery comparison project for weighted iso profile
-  CLOCK: [2012-10-25 Thu 14:27]--[2012-10-25 Thu 14:28] =>  0:01
+** TODO alpha CSF distance comparison
+   :PROPERTIES:
+   :ID:       82bbca25-be33-478e-9fc2-ee07aff558c7
+   :END:
+[[file:~/working/academic/research/alphacsf_dist_comp]]
+** TODO CSF surfaces distance comparison
+   :PROPERTIES:
+   :ID:       85f583ed-c9eb-4993-91e3-8cedf9945d1f
+   :END:
+[[file:~/working/academic/research/csf_dist_comp_surfaces]]
+** TODO vector symmetric rational functions
+   :PROPERTIES:
+   :ID:       6c117119-27b6-488d-9f88-199a553e2be2
+   :END:
+[[file:~/working/academic/research/vector_symmetric_rational_functions]]
+
+** TODO cmc_stability
+   :PROPERTIES:
+   :ID:       4cda53b3-53b6-4e00-99dc-b977d3f57889
+   :END:
+[[file:/home/pbryan/working/academic/research/cmc_stability]]
+
+** TODO csf_networks
+   :PROPERTIES:
+   :ID:       1bc93b81-8423-4598-8297-f0b90aa39aa7
+   :END:
+[[file:/home/pbryan/working/academic/research/csf_networks]]
+
+** TODO csf_isoprofile_surfaces
+   :PROPERTIES:
+   :ID:       b7168bd9-6808-46e9-86f3-a606bae8586b
+   :END:
+[[file:/home/pbryan/working/academic/research/csf_isoprofile_surfaces]]
+** TODO free_k_graphs
+   :PROPERTIES:
+   :ID:       89d01823-d0d8-4903-9d15-b84ad05edf31
+   :END:
+[[file:/home/pbryan/working/academic/research/free_k_graphs]]
+** TODO ricci_isoprofile_comparison_kahler_manifolds
+   :PROPERTIES:
+   :ID:       39603eb5-2bec-4118-a705-a5287b9d5ad2
+   :END:
+[[file:/home/pbryan/working/academic/research/ricci_isoprofile_comparison_kahler_manifolds]]
+** TODO ricci_pseudo_locality
+   :PROPERTIES:
+   :ID:       9831a9b5-8a08-43cd-bbfd-bd0b0950a815
+   :END:
+[[file:/home/pbryan/working/academic/research/ricci_pseudo_locality]]
+
+** TODO ricci_degenerate_neck_pinches
+   :PROPERTIES:
+   :ID:       66603461-6850-4f49-ba50-de184b15be3b
+   :END:
+[[file:/home/pbryan/working/academic/research/ricci_degenerate_neck_pinches]]
+** TODO bakry_emery_levy_gromov
+   :PROPERTIES:
+   :ID:       4eb29f73-141b-4ca2-9394-436a9293bdce
+   :END:
+[[file:/home/pbryan/working/academic/research/bakry_emery_levy_gromov]]
+
+** TODO ricci_flow_warped_products
+   :PROPERTIES:
+   :ID:       4eb29f73-141b-4ca2-9394-436a9293bdce
+   :END:
+[[file:~/working/academic/research/ricci_flow_warped_products]]
+
+** Tasks
+*** TODO Organise research papers
+    :PROPERTIES:
+    :ID:       27dd1954-9abe-4a87-9bcd-36027c643fdb
+    :END:
+**** TODO File hard copies under bib key
      :PROPERTIES:
-     :ID:       de7aa818-eb75-449f-996c-a8b96b443f6d
+     :ID:       133cd7db-b4c3-42ac-bd2a-6e7082bd67f5
      :END:
-[2012-10-25 Thu 14:27]
-[[file:~/research_resources/lecture_notes/250C-2012-Ni-UCSD.pdf][250C-2012-Ni-UCSD.pdf]]
+**** TODO Configure reftex, org-mode to access papers
+     :PROPERTIES:
+     :ID:       0d3a134a-c167-44e8-aa83-fc2b5327b03e
+     :END:
+***** DONE Research setup: see evernote refs to start
+      - State "DONE"       from "NEXT"       [2012-10-26 Fri 14:50]
+***** DONE Create org file for recording notes on papers in bib file
+      - State "DONE"       from "NEXT"       [2012-10-26 Fri 14:50]
+***** NEXT org-mode create ref should create bib, mr/arxiv links
+      :PROPERTIES:
+      :ID:       03789ba0-7a21-4b06-bbe0-70a1f06edde1
+      :END:
+**** TODO pdf scraping tool to create bib entries and rename pdf files
+This should open pdf's, get doi info and then look up the paper details
+online to get bib type info. Then the paper can be renamed, a bib entry
+can be created or downloaded, say from mathscinet or arxiv. I'd aso like this
+to create an org-mode headline for my refs.org file. I don't want to do this
+manually, though a bit of elisp should be able to iterate over each bib
+entry (using reftex?) and update the refs.org file. I may also want to store
+each bib entry in a seperate file and have refs.bib a concatenation of the lot
+so that I don't have problems editing refs.bib from multiple places.
+See [[http://en.dogeno.us/2010/02/release-a-python-script-for-organizing-scientific-papers-pyrenamepdf-py/][pyrename-pdf]]
+  CLOCK: [2012-10-26 Fri 13:04]--[2012-10-26 Fri 13:06] =>  0:02
+    :PROPERTIES:
+    :ID:       751a6769-bf15-4590-925c-d1eb938a03b3
+    :END:
+[2012-10-26 Fri 13:04]
+
+**** TODO Write script to auto download from mathscinet, arxiv etc.
+    :PROPERTIES:
+    :ID:       65db22f3-b0c6-43c2-b7d5-9922cf35e5e8
+    :END:
+The script should get mathscinet info, say a bib file and use the doi
+info to automatically download the pdf file
+Ideally this should be integrated into org-mode
+See [[http://www.lhnr.de/index.html#code/localcopy][JabRef plugin]]
+Also the URL format for MR lookup is
+http://www.ams.org/mrlookup?au=yau%20and%20li&year=1986&format=mrcit
+with various other fields allowed, but not MR number!
+See also
+[[http://www.ams.org/mathscinet/help/mr_lookup_help.html][mr_lookup_help]]
+[2012-10-26 Fri 13:01]
+
+**** TODO Populate org file and bib file with references
+     :PROPERTIES:
+     :ID:       57e9b039-e848-43d9-a7c6-b46fed373170
+     :END:
+**** NEXT Collect pdf's into single directory
+    :PROPERTIES:
+    :ID:       9defa0b0-c473-4347-9cf3-574714e81f7d
+    :END:
+     [[file:~/research_resources]]
+*** DONE Create research projects with tasks
+    - State "DONE"       from "NEXT"       [2012-12-03 Mon 16:56]
+    :LOGBOOK:
+    CLOCK: [2012-12-03 Mon 16:10]--[2012-12-03 Mon 16:57] =>  0:47
+    :END:
+    :PROPERTIES:
+    :ID:       3679901e-c496-4a9f-924a-207740991872
+    :END:
+- [X] Ricci isoperimetric comparison project
+- [X] Pipe flows
+- [X] MCF Book
+- [X] submanifolds book
+- [X] $\alpha$ curve flows
+- [X] dist. comp. on surfaces
+- [X] cmc_stability
+- [X] csf_networks
+- [X] csf_isoprofile_surfaces
+- [X] Vector symmetric polynomials
+- [X] free_k_graphs
+- [X] ricci_isoprofile_comparison_kahler_manifolds
+- [X] ricci_pseudo_locality
+- [X] ricci_degenerate_neck_pinches
+- [X] ricci _flow_warped_products
+- [X] bakry_emery_levy_gromov
 
 ** Research ideas
 *** Bakry-Emry, Optimal transport measure
