@@ -302,6 +302,7 @@ Some are here [[http://www.math.ucsd.edu/~lindblad/150a/150a.html]]
     - State "WAITING"    from "NEXT"       [2012-11-29 Thu 22:22] \\
       Waiting for feedback from Bo.
     :LOGBOOK:
+    CLOCK: [2012-12-04 Tue 12:00]
     CLOCK: [2012-11-29 Thu 20:40]--[2012-11-29 Thu 22:22] =>  1:42
     CLOCK: [2012-11-27 Tue 20:21]--[2012-11-27 Tue 20:46] =>  0:25
     CLOCK: [2012-11-27 Tue 19:32]--[2012-11-27 Tue 19:48] =>  0:16
@@ -582,6 +583,9 @@ This should be in the week starting the 7th Jan 2012 perhaps on Tuesday morning?
     :END:
 [2012-11-27 Tue 13:13]
 ** Song Sun Seminar
+   :PROPERTIES:
+   :ID:       862184a9-6693-4ccd-8d24-df3af6cc23f7
+   :END:
 <2012-12-06 Thu 15:00-16:00>
 * Tasks
   :PROPERTIES:
