@@ -376,13 +376,18 @@ person in your department who handles benefits information.
   CLOCK: [2012-10-29 Mon 10:28]--[2012-10-29 Mon 10:28] =>  0:00
 [2012-10-29 Mon 10:28]
 
-** TODO Book osteo
+** DONE Book osteo
+   - State "DONE"       from "TODO"       [2012-12-04 Tue 19:49]
   :LOGBOOK:
   :END:
    :PROPERTIES:
    :ID:       8a99ebb9-3388-4307-ad89-204e86850dfc
    :END:
 [2012-12-02 Sun 12:53]
+
+** Osteo appointment
+<2012-12-10 13:30>
+Mary Tran, 2nd floor
 
 * Recreation
   :PROPERTIES:
