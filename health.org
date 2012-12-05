@@ -28,7 +28,8 @@
 :END:
 
 *** NEXT Low Intensity
-    SCHEDULED: <2012-12-04 Tue .+4d/5d>
+    SCHEDULED: <2012-12-08 Sat .+4d/5d>
+    - State "DONE"       from "NEXT"       [2012-12-04 Tue 21:16]
     - State "DONE"       from "NEXT"       [2012-11-29 Thu 17:11]
     - State "DONE"       from "NEXT"       [2012-11-25 Sun 15:35]
     - State "DONE"       from "NEXT"       [2012-11-24 Sat 16:30]
@@ -46,7 +47,7 @@ CLOCK: [2012-11-20 Tue 15:30]--[2012-11-20 Tue 16:00] =>  0:30
 :PROPERTIES:
 :STYLE: habit
 :REPEAT_TO_STATE: NEXT
-:LAST_REPEAT: [2012-11-29 Thu 20:11]
+:LAST_REPEAT: [2012-12-04 Tue 21:16]
 :ID: c5da0e4d-cf57-4caf-ba23-369257edd6ac
 :END:
 
@@ -81,7 +82,8 @@ CLOCK: [2012-12-02 Sun 16:18]--[2012-12-02 Sun 17:05] =>  0:47
 :LAST_REPEAT: [2012-12-02 Sun 19:47]
 :END:
 *** NEXT Eye exercises
-    SCHEDULED: <2012-12-03 Mon .+1d/2d>
+    SCHEDULED: <2012-12-05 Wed .+1d/2d>
+    - State "DONE"       from "NEXT"       [2012-12-04 Tue 21:16]
     - State "DONE"       from "NEXT"       [2012-12-02 Sun 21:29]
     - State "DONE"       from "NEXT"       [2012-11-30 Fri 14:11]
     - State "DONE"       from "NEXT"       [2012-11-29 Thu 09:57]
@@ -103,7 +105,7 @@ CLOCK: [2012-12-02 Sun 16:18]--[2012-12-02 Sun 17:05] =>  0:47
 :STYLE: habit
 :REPEAT_TO_STATE: NEXT
 :ID: bb3574e2-d88d-476f-8d3a-ebde4a1691b7
-:LAST_REPEAT: [2012-12-02 Sun 21:29]
+:LAST_REPEAT: [2012-12-04 Tue 21:16]
 :END:
 
 *** NEXT Meditate
