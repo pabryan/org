@@ -156,10 +156,11 @@ Use a course as a guinea pig for using the method
      :ID:       075a26d1-d322-4530-849d-1f7a8b60b21b
      :END:
 <2012-12-05 Wed 11:00-12:00>
-***** NEXT Plan 4-5 Gauss-Bonnet Lecture 
+***** DONE Plan 4-5 Gauss-Bonnet Lecture 
       DEADLINE: <2012-12-05 Wed 11:00>
+      - State "DONE"       from "NEXT"       [2012-12-04 Tue 19:01]
       :LOGBOOK:
-      CLOCK: [2012-12-04 Tue 18:12]
+      CLOCK: [2012-12-04 Tue 18:12]--[2012-12-04 Tue 19:01] =>  0:49
       CLOCK: [2012-12-04 Tue 16:40]--[2012-12-04 Tue 17:16] =>  0:36
       CLOCK: [2012-12-04 Tue 15:38]--[2012-12-04 Tue 15:59] =>  0:21
       CLOCK: [2012-12-04 Tue 15:24]--[2012-12-04 Tue 15:34] =>  0:10
