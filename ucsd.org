@@ -151,9 +151,13 @@ Use a course as a guinea pig for using the method
      :LOGBOOK:
      CLOCK: [2012-12-03 Mon 10:40]--[2012-12-03 Mon 10:55] =>  0:15
      :END:
-**** TODO 4-5 Gauss Bonnet
+**** DONE 4-5 Gauss Bonnet
+     - State "DONE"       from "TODO"       [2012-12-05 Wed 12:00]
      :PROPERTIES:
      :ID:       075a26d1-d322-4530-849d-1f7a8b60b21b
+     :END:
+     :LOGBOOK:
+     CLOCK: [2012-12-05 Wed 10:55]--[2012-12-05 Wed 12:00] =>  1:05
      :END:
 <2012-12-05 Wed 11:00-12:00>
 ***** DONE Plan 4-5 Gauss-Bonnet Lecture 
@@ -169,7 +173,8 @@ Use a course as a guinea pig for using the method
       :PROPERTIES:
       :ID:       d6861f57-c5ff-4f2e-8ac6-1ba67f717ed6
       :END:
-***** NEXT Prepare 4-5 Gauss-Bonnet Lecture 
+***** DONE Prepare 4-5 Gauss-Bonnet Lecture 
+      - State "DONE"       from "NEXT"       [2012-12-05 Wed 10:55]
       :PROPERTIES:
       :ID:       9943b293-11cd-4c2b-972f-d872dbd2eda9
       :END:
@@ -343,7 +348,8 @@ Update this based on Bo's comments.
     :PROPERTIES:
     :ID:       dab37352-843a-4461-b37e-dd25870fee08
     :END:
-*** Remind students to fill in CAPE forms
+*** DONE Remind students to fill in CAPE forms
+    - State "DONE"       from ""           [2012-12-05 Wed 18:34]
     :PROPERTIES:
     :ID:       069d6e27-50e2-4ca8-a675-6a81c0a6c189
     :END:

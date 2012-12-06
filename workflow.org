@@ -760,7 +760,7 @@ This should go through the ~/working directory and output all repositories where
   :END:
 ** Organiation
 :LOGBOOK:
-CLOCK: [2012-12-05 Wed 17:23]
+CLOCK: [2012-12-05 Wed 17:23]--[2012-12-05 Wed 17:50] =>  0:27
 CLOCK: [2012-12-04 Tue 17:17]--[2012-12-04 Tue 17:26] =>  0:09
 CLOCK: [2012-12-04 Tue 16:35]--[2012-12-04 Tue 16:40] =>  0:05
 CLOCK: [2012-12-04 Tue 15:21]--[2012-12-04 Tue 15:24] =>  0:03
