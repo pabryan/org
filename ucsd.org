@@ -188,12 +188,13 @@ Use a course as a guinea pig for using the method
      :END:
 <2012-12-07 Fri 11:00-12:00>
 Explain $\RR^{n+1}$.
-***** NEXT Plan Review Lecture
+***** DONE Plan Review Lecture
+      - State "DONE"       from "NEXT"       [2012-12-06 Thu 14:00]
       :PROPERTIES:
       :ID:       d89e9800-d913-4388-a3a0-ce6d5df5f847
       :END:
       DEADLINE: <2012-12-07 Fri 11:00>
-***** TODO Prepar Review Lecture
+***** NEXT Prepare Review Lecture
       :PROPERTIES:
       :ID:       7b2ba264-2d7d-42ff-9a5a-842e796ac4ef
       :END:
@@ -557,12 +558,13 @@ University of California, San Diego
     :END:
     <2012-11-08 Thu 10:00-11:00 +1w>
 *** NEXT Send DG seminar email announcement
+    - State "DONE"       from "NEXT"       [2012-12-06 Thu 14:00]
     - State "DONE"       from "TODO"       [2012-11-29 Thu 09:46]
     :PROPERTIES:
     :ID:       0f19da7c-65a3-4e95-8a91-78d12caa46da
-    :LAST_REPEAT: [2012-11-29 Thu 09:57]
+    :LAST_REPEAT: [2012-12-06 Thu 14:00]
     :END: 
-<2012-12-06 Thu +1w>
+<2012-12-13 Thu +1w>
 **** Email
  [[mailto:seminarstaff@math.ucsd.edu]]
 **** Template
