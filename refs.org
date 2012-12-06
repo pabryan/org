@@ -106,3 +106,11 @@ Here I need to do some more work since $u \mapsto g(\grad u, \grad u)$ is not a 
 :Custom_ID: MR764944
 :END:
 [[papers:MR764944][MR764944-paper]]
+** 26 (1940-now) Real functions [See also 54C30]
+*** 26D (1980-now) Inequalities [For maximal function inequalities, see 42B25; for functional inequalities, see 39B72; for probabilistic inequalities, see 60E15]
+**** 26D15 (1980-now) Inequalities for sums, series and integrals
+***** Weighted isoperimetric inequalities in cones and applications
+:PROPERTIES:
+:Custom_ID: MR2948294
+:END:
+[[papers:MR2948294][MR2948294-paper]]
