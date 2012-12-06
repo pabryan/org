@@ -232,6 +232,11 @@ Sequences of manifolds and convergence. What is smooth convergence? Can it be de
    :END:
 [[file:~/working/academic/research/ricci_flow_warped_products]]
 
+** TODO unbounded_curvature_comparison
+   :PROPERTIES:
+   :ID:       84de701c-0043-4f38-8b94-70db58460f70
+   :END:
+[[file:/home/pbryan/working/academic/research/unbounded_curvature_comparison]]
 ** Tasks
 *** TODO Organise research papers
     :PROPERTIES:
