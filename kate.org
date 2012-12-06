@@ -50,7 +50,11 @@ what's for dinner/lunch?
     :ID:       d8a1f0fe-4322-4d1b-8726-33292beb7104
     :END:
 Cheesecake factory or home dinner?
-** TODO Get kate Xmas present 
+** DONE Get kate Xmas present 
+   - State "DONE"       from "NEXT"       [2012-12-06 Thu 11:43]
+   :LOGBOOK:
+   CLOCK: [2012-12-06 Thu 11:31]--[2012-12-06 Thu 11:42] =>  0:11
+   :END:
   :PROPERTIES:
   :ID:       0f32083e-1f7f-4e30-af51-cf4a3e0a2824
   :END:

@@ -609,8 +609,10 @@ Maybe write journal of the week at some stage?
    :ID:       be6627ea-0e33-463b-91bf-cb7d140180cb
    :END:
 [2012-10-15 Mon 09:36]
-** NEXT Get snacks for office					     :ERRAND:
+** CANCELLED Get snacks for office				     :ERRAND:
    SCHEDULED: <2012-12-01 Thu>
+   - State "CANCELLED"  from "NEXT"       [2012-12-06 Thu 11:43] \\
+     I don't need this.
 I should get a plunger and coffee to save money though milk is problematic then! I could bring it daily in a thermos.
 I can bring in fruit and veg once or twice a week.
 Also could have dry snacks, tinned stuff like sardines and so on.
@@ -621,8 +623,9 @@ Also could have dry snacks, tinned stuff like sardines and so on.
    :ID:       eeb3b8ad-7b8e-4009-9273-e5bf24a717dc
    :END:
 [2012-10-15 Mon 09:43]
-** NEXT buy coffee plunger (french press)			     :ERRAND:
+** DONE buy coffee plunger (french press)			     :ERRAND:
    SCHEDULED: <2012-12-01 Thu>
+   - State "DONE"       from "NEXT"       [2012-12-06 Thu 11:43]
    :LOGBOOK:
    CLOCK: [2012-12-06 Thu 10:19]--[2012-12-06 Thu 10:41] =>  0:22
    :END:
@@ -636,8 +639,9 @@ Also could have dry snacks, tinned stuff like sardines and so on.
    :PROPERTIES:
    :ID:       27c8bddc-f9d4-48e6-b0ec-5de179e2822b
    :END:
-** NEXT buy exercise ball and yoga mat for office		   :COMPUTER:
+** DONE buy exercise ball and yoga mat for office		   :COMPUTER:
    SCHEDULED: <2012-12-01 Thu>
+   - State "DONE"       from "NEXT"       [2012-12-06 Thu 11:43]
    :PROPERTIES:
    :ID:       01f23a0f-a1ec-47b6-87fe-81d301d4a144
    :END:
@@ -763,7 +767,8 @@ This should go through the ~/working directory and output all repositories where
   :END:
 ** Organiation
 :LOGBOOK:
-CLOCK: [2012-12-06 Thu 11:28]
+CLOCK: [2012-12-06 Thu 11:42]
+CLOCK: [2012-12-06 Thu 11:28]--[2012-12-06 Thu 11:31] =>  0:03
 CLOCK: [2012-12-06 Thu 11:05]--[2012-12-06 Thu 11:20] =>  0:15
 CLOCK: [2012-12-06 Thu 10:41]--[2012-12-06 Thu 10:53] =>  0:12
 CLOCK: [2012-12-06 Thu 10:08]--[2012-12-06 Thu 10:12] =>  0:04
