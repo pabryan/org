@@ -64,11 +64,13 @@ Geisel Library room 274
   :END:
 [[file:~/working/academic/research/]]
 ** TODO Ricci isoperimetric profile 			     :RICCI_ISO_COMP:
+   :LOGBOOK:
+   :END:
 [[file:~/working/academic/research/ricci_surfaces_isoperimetric_comparison]]
    :PROPERTIES:
    :ID:       5d9554fe-4cf1-42b0-9891-69a81e715a67
    :END:
-*** NEXT Compute high genus comparison
+*** NEXT Check high genus comparison computations
     :PROPERTIES:
     :ID:       60cbd811-022c-4afa-bb52-bc82b8694314
     :END:			     
@@ -82,7 +84,7 @@ Geisel Library room 274
     :END:
 *** NEXT Transcribe from notebooks into computer
     :LOGBOOK:
-    CLOCK: [2012-12-05 Wed 18:57]
+    CLOCK: [2012-12-05 Wed 18:57]--[2012-12-05 Wed 19:53] =>  0:56
     CLOCK: [2012-11-16 Fri 14:29]--[2012-11-16 Fri 15:17] =>  0:48
     CLOCK: [2012-11-15 Thu 14:26]--[2012-11-15 Thu 14:37] =>  0:11
     :END:
@@ -438,7 +440,8 @@ Talk about ancient solutions of curve shortening flow on $S^2$
 MR2948294
 
 ** NEXT Transcribe notes
-    SCHEDULED: <2012-12-05 Wed .+1w/10d>
+   SCHEDULED: <2012-12-12 Wed .+1w/10d>
+   - State "DONE"       from "NEXT"       [2012-12-05 Wed 19:55]
     :LOGBOOK:
     CLOCK: [2012-12-05 Wed 18:48]--[2012-12-05 Wed 18:50] =>  0:02
     CLOCK: [2012-12-05 Wed 17:50]--[2012-12-05 Wed 18:36] =>  0:46
@@ -447,6 +450,7 @@ MR2948294
 :STYLE: habit
 :REPEAT_TO_STATE: NEXT
 :ID: 3908a11d-fd52-4335-9257-656bf9bd4692
+:LAST_REPEAT: [2012-12-05 Wed 19:55]
 :END:
 
 * Collaborators
