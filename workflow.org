@@ -623,6 +623,9 @@ Also could have dry snacks, tinned stuff like sardines and so on.
 [2012-10-15 Mon 09:43]
 ** NEXT buy coffee plunger (french press)			     :ERRAND:
    SCHEDULED: <2012-12-01 Thu>
+   :LOGBOOK:
+   CLOCK: [2012-12-06 Thu 10:19]--[2012-12-06 Thu 10:41] =>  0:22
+   :END:
   CLOCK: [2012-10-16 Tue 10:48]--[2012-10-16 Tue 10:48] =>  0:00
    :PROPERTIES:
    :ID:       9f49adc3-355c-4ec4-bb31-458b3ab7d12b
@@ -760,7 +763,9 @@ This should go through the ~/working directory and output all repositories where
   :END:
 ** Organiation
 :LOGBOOK:
-CLOCK: [2012-12-06 Thu 10:08]
+CLOCK: [2012-12-06 Thu 10:41]
+CLOCK: [2012-12-06 Thu 10:10]--[2012-12-06 Thu 10:12] =>  0:02
+CLOCK: [2012-12-06 Thu 10:08]--[2012-12-06 Thu 10:10] =>  0:02
 CLOCK: [2012-12-05 Wed 19:55]--[2012-12-05 Wed 20:00] =>  0:05
 CLOCK: [2012-12-05 Wed 17:23]--[2012-12-05 Wed 17:50] =>  0:27
 CLOCK: [2012-12-04 Tue 17:17]--[2012-12-04 Tue 17:26] =>  0:09
