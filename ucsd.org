@@ -206,7 +206,8 @@ Explain $\RR^{n+1}$.
     :ID:       f82b9c5a-d266-44e8-9a7f-af49c32ff0e5
     :END:
 
-*** NEXT Make notebook and office consistent
+*** DONE Make notebook and office consistent
+    - State "DONE"       from "NEXT"       [2012-12-06 Thu 16:17]
     :PROPERTIES:
     :ID:       cff2f790-c07f-4ac7-a654-9432bcdba178
     :END: 
@@ -492,7 +493,8 @@ University of California, San Diego
      :PROPERTIES:
      :ID:       f5a023c1-c8f3-4b32-99cd-810b79b93495
      :END:
-*** NEXT Make course projects
+*** NEXT Make org mode course projects
+    SCHEDULED: <2013-08-15 Thu>
     - State "NEXT"       from "WAITING"    [2012-11-30 Fri 13:36]
       Got course assignments (142B, 20D)
     - State "WAITING"    from ""           [2012-11-09 Fri 11:58] \\
@@ -500,6 +502,7 @@ University of California, San Diego
     :PROPERTIES:
     :ID:       41c5d1f9-11a7-41c7-bb89-4ccbf381429c
     :END:
+
 * Seminars
   :PROPERTIES:
   :ID:       4a7b50f0-8368-4d3a-bc5d-c0e229fd442f
