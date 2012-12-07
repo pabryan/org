@@ -517,12 +517,11 @@ I'll need to say use my phone to collect the data. I need something easy to cloc
     I want to hang on to emails, articles and so on. I want to keep receipts, ideas and a diary of what I've done. These need to be kept in a filing system somehow, most probaby using org-mode and memacs.
 ** Reviews
 Here I look at my goals, my tasks and how I've been spending my time and use that information to plan out the coming week/month/year etc.
-*** NEXT Weekly Review [2/11]
+*** NEXT Weekly Review [5/11]
     SCHEDULED: <2012-12-07 Fri .+7d/10d>
     - State "DONE"       from "NEXT"       [2012-11-30 Fri 14:06]
     :LOGBOOK:
-    CLOCK: [2012-12-07 Fri 10:15]
-    CLOCK: [2012-12-07 Fri 10:03]--[2012-12-07 Fri 10:15] =>  0:12
+    CLOCK: [2012-12-07 Fri 10:03]
     CLOCK: [2012-11-30 Fri 13:33]--[2012-11-30 Fri 14:07] =>  0:34
     CLOCK: [2012-11-30 Fri 13:27]--[2012-11-30 Fri 13:33] =>  0:06
     CLOCK: [2012-11-30 Fri 12:59]--[2012-11-30 Fri 13:26] =>  0:27
@@ -530,7 +529,7 @@ Here I look at my goals, my tasks and how I've been spending my time and use tha
     CLOCK: [2012-11-29 Thu 14:20]--[2012-11-29 Thu 14:26] =>  0:09
     :END:
 
-:PROPERTIES:
+    :PROPERTIES:
 :STYLE: habit
 :REPEAT_TO_STATE: NEXT
 :ID: 846c05fa-21d7-4e6f-8431-a1fa06631945
@@ -543,9 +542,9 @@ What to review:
 - [X] Check follow-up paper folder
 - [X] Check holding directory
   [[file:~/Dropbox/holding]]
-- [ ] Check holding email folder
-- [ ] Review weekly agenda =F12 a w//=
-- [ ] Check clocking data for past week =v c=
+- [X] Check holding email folder
+- [X] Review weekly agenda =F12 a w//=
+- [X] Check clocking data for past week =v c=
   - fix up any errors
 - [ ] Review clock report for past week =R=
   - Check where we spent time (too much or too little) and rectify this week
