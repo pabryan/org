@@ -45,14 +45,16 @@ scheduled todos should not appear in the general list
    :END:
 [2012-10-18 Thu 13:04]
 
-** NEXT Set up clocking						   :COMPUTER:
+** DONE Set up clocking						   :COMPUTER:
+   - State "DONE"       from "NEXT"       [2012-12-07 Fri 10:45]
   CLOCK: [2012-10-18 Thu 13:07]--[2012-10-18 Thu 13:08] =>  0:01
    :PROPERTIES:
    :ID:       5342bba9-aa74-4548-808a-cb693e7d6f8a
    :END:
   [2012-10-18 Thu 13:07]
 See [[http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=9&cad=rja&ved=0CEkQFjAI&url=http%3A%2F%2Fdoc.norang.ca%2Forg-mode.html&ei=VmGAUOnkOaTliQLw0ICICQ&usg=AFQjCNHQ1HdTsHALFTFCzKA3VWXmqPg2qA][org-mode tutorial]]
-** NEXT Set up syncing org-mode and mobile org
+** DONE Set up syncing org-mode and mobile org
+   - State "DONE"       from "NEXT"       [2012-12-07 Fri 10:45]
   CLOCK: [2012-10-21 Sun 17:26]--[2012-10-21 Sun 17:26] =>  0:00
    :PROPERTIES:
    :ID:       31c5396f-656c-4ea7-9139-f5e99dda5b0b
@@ -173,7 +175,8 @@ This should do: $ find ~/working -iname '.hg' adnd then hg st, hg incoming, hg o
 [2012-11-30 Fri 10:54]
 This will clear up my agenda until I can filter out someday projects
 
-** TODO make_research_project.sh should create org-mode snippet
+** DONE make_research_project.sh should create org-mode snippet
+   - State "DONE"       from "TODO"       [2012-12-07 Fri 10:45]
   :LOGBOOK:
   CLOCK: [2012-12-03 Mon 13:54]--[2012-12-03 Mon 13:55] =>  0:01
   :END:
@@ -352,7 +355,8 @@ Particularly development!
    :ID:       5f23f742-f0f0-4e0b-8d9d-98f5acae6a1b
    :END:
 [2012-10-16 Tue 09:04]
-** NEXT Process emails						   :COMPUTER:
+** DONE Process emails						   :COMPUTER:
+   - State "DONE"       from "NEXT"       [2012-12-07 Fri 10:45]
 Archive the lot! Organise into folders/tags whatever. gmail can be the main repository to sync with, but as with org files, maybe have machine specific syncing to dropbox also.
   CLOCK: [2012-10-15 Mon 09:42]--[2012-10-15 Mon 09:43] =>  0:01
    :PROPERTIES:
@@ -390,13 +394,6 @@ Archive the lot! Organise into folders/tags whatever. gmail can be the main repo
     :PROPERTIES:
     :ID:       42384e87-7e0e-4abc-97d3-e1773f899d54
     :END:
-** TODO check out "The brain"
-[[http://www.thebrain.com/]]
-  CLOCK: [2012-11-03 Sat 19:49]--[2012-11-03 Sat 19:49] =>  0:00
-   :PROPERTIES:
-   :ID:       b499248f-f377-472e-b64b-81f706aad21c
-   :END:
-[2012-11-03 Sat 19:49]
 ** TODO Check out "The Brain"
 [[http://www.thebrain.com/]]
   CLOCK: [2012-11-03 Sat 19:48]--[2012-11-03 Sat 19:48] =>  0:00
@@ -404,7 +401,8 @@ Archive the lot! Organise into folders/tags whatever. gmail can be the main repo
    :ID:       d2bd33bc-bb46-4011-944e-ea5c670ee8e4
    :END:
 [2012-11-03 Sat 19:48]
-** TODO Make list of all projects to VC
+** DONE Make list of all projects to VC
+   - State "DONE"       from "TODO"       [2012-12-07 Fri 10:46]
   CLOCK: [2012-11-06 Tue 08:33]--[2012-11-06 Tue 08:34] =>  0:01
    :PROPERTIES:
    :ID:       6465f33f-6ee5-40b6-93d3-222551feba01
@@ -517,7 +515,7 @@ I'll need to say use my phone to collect the data. I need something easy to cloc
     I want to hang on to emails, articles and so on. I want to keep receipts, ideas and a diary of what I've done. These need to be kept in a filing system somehow, most probaby using org-mode and memacs.
 ** Reviews
 Here I look at my goals, my tasks and how I've been spending my time and use that information to plan out the coming week/month/year etc.
-*** NEXT Weekly Review [5/11]
+*** NEXT Weekly Review [8/11]
     SCHEDULED: <2012-12-07 Fri .+7d/10d>
     - State "DONE"       from "NEXT"       [2012-11-30 Fri 14:06]
     :LOGBOOK:
@@ -546,12 +544,12 @@ What to review:
 - [X] Review weekly agenda =F12 a w//=
 - [X] Check clocking data for past week =v c=
   - fix up any errors
-- [ ] Review clock report for past week =R=
+- [X] Review clock report for past week =R=
   - Check where we spent time (too much or too little) and rectify this week
-- [ ] Look at entire agenda for today  =F12 SPC=
+- [X] Look at entire agenda for today  =F12 SPC=
 - [ ] Review projects =F12 SPC //= and =P= repeatedly to view each project
   - Unstick stuck projects!
-- [ ] Review somday projects
+- [X] Review somday projects
 - [ ] Plan next week
 - [ ] Check uncommited work
 
