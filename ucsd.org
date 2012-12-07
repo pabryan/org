@@ -63,6 +63,7 @@ Use a course as a guinea pig for using the method
 *** Text
 [[file:~/research_resources/books/Carmo%20M.P.%20Differential%20geometry%20of%20curves%20and%20surfaces%20(1976)(T)(511s)_MDdg_.djvu][Carmo M.P. Differential geometry of curves and surfaces]]
 *** Lectures							   :LECTURES:
+
 **** DONE 4-2 Isometries
      - State "DONE"       from ""           [2012-11-28 Wed 10:49]
      :PROPERTIES:
@@ -198,6 +199,12 @@ Explain $\RR^{n+1}$.
       :PROPERTIES:
       :ID:       7b2ba264-2d7d-42ff-9a5a-842e796ac4ef
       :END:
+
+*** NEXT Enter grades
+    DEADLINE: <2012-12-18 Tue> SCHEDULED: <2012-12-10 Mon>
+    :PROPERTIES:
+    :ID:       f82b9c5a-d266-44e8-9a7f-af49c32ff0e5
+    :END:
 
 *** NEXT Make notebook and office consistent
     :PROPERTIES:
@@ -581,7 +588,8 @@ Abstract:
 
 <ABSTRACT>
 
-*** WAITING Organise Somali's talk
+*** NEXT Organise Somali's talk
+    - State "NEXT"       from "WAITING"    [2012-12-06 Thu 16:02]
   - State "WAITING"    from "TODO"       [2012-11-27 Tue 12:32] \\
     Waiting on Ben and Lei for time.
   :PROPERTIES:
@@ -591,6 +599,21 @@ Abstract:
   :END:
 [2012-11-27 Tue 12:32]
 This should be in the week starting the 7th Jan 2012 perhaps on Tuesday morning?
+
+Christina Sormani <sormanic@gmail.com> wrote:
+Yes I can speak at 10 am.
+My talk title and abstract:
+UC San Diego, Seminar Speaker (January 8, 2012)
+"The Tetrahedral Property and Intrinsic Flat Convergence"
+We present the Tetrahedral Compactness Theorem which states that sequences
+of Riemannian manifolds with a uniform upper bound on volume and diameter
+that satisfy a uniform tetrahedral property have a subsequence which
+converges in the Gromov-Hausdorff sense to a countably $\mathcal{H}^m$
+rectifiable metric space of the same dimension. The tetrahedral property
+depends only on distances between points in spheres, yet we show it provides
+a lower bound on the volumes of balls. The proof is based upon intrinsic
+flat convergence and a new notion called the sliced filling volume of a
+ball.
 
 *** TODO Organise Christian Baer's talk
     :PROPERTIES:
@@ -608,6 +631,9 @@ This should be in the week starting the 7th Jan 2012 perhaps on Tuesday morning?
    :PROPERTIES:
    :ID:       862184a9-6693-4ccd-8d24-df3af6cc23f7
    :END:
+    :LOGBOOK:
+    CLOCK: [2012-12-06 Thu 14:56]--[2012-12-06 Thu 16:05] =>  1:09
+    :END:
 <2012-12-06 Thu 15:00-16:00>
 * Tasks
   :PROPERTIES:
