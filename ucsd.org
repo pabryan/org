@@ -317,11 +317,11 @@ Some are here [[http://www.math.ucsd.edu/~lindblad/150a/150a.html]]
   CLOCK: [2012-10-18 Thu 10:44]--[2012-10-18 Thu 10:44] =>  0:00
 [2012-10-18 Thu 10:44]
 
-*** TODO Meet Bo Yang
-    SCHEDULED: <2012-12-07 Fri 10:00 +1w>
+*** DONE Meet Bo Yang
+    - State "DONE"       from "TODO"       [2012-12-08 Sat 18:23]
+      MATH150A is over.
+    - State "DONE"       from "TODO"       [2012-12-08 Sat 18:21]
     - State "DONE"       from "NEXT"       [2012-11-30 Fri 14:03]
-    :LOGBOOK:
-    :END:
     - State "DONE"       from "TODO"       [2012-11-16 Fri 10:31]
     - State "DONE"       from "TODO"       [2012-11-09 Fri 10:23]
     - State "DONE"       from "TODO"       [2012-11-02 Fri 10:37]
@@ -329,7 +329,7 @@ Some are here [[http://www.math.ucsd.edu/~lindblad/150a/150a.html]]
     - State "DONE"       from "TODO"       [2012-10-23 Tue 11:24]
     :PROPERTIES:
     :ID:       c8e2450b-bf17-4295-acdf-371ed5abd3d1
-    :LAST_REPEAT: [2012-11-30 Fri 14:03]
+    :LAST_REPEAT: [2012-12-08 Sat 18:22]
     :END:
 *** DONE Write final exam
     DEADLINE: <2012-12-11 Tue>
