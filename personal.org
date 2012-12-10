@@ -152,7 +152,7 @@ Use account A11078844
 [[https://act.ucsd.edu/studentBilling/billing]]
 
   DEADLINE: <2013-01-05 Sat +1m -5d>
-  CLOCK: [2012-10-17 Wed 14:44]--[2012-10-17 Wed 14:45] =>  0:01
+
    :PROPERTIES:
    :ID:       ea07bf7b-9f89-49bf-90db-3e167baff163
    :LAST_REPEAT: [2012-12-01 Sat 09:29]
@@ -179,7 +179,8 @@ Use account A11078844
 [2012-11-16 Fri 22:20]
 [[http://lwn.net/Articles/501681/]]
 
-** TODO Transcribe from Bei Da notebook: budget
+** DONE Transcribe from Bei Da notebook: budget
+   - State "DONE"       from "TODO"       [2012-12-09 Sun 20:28]
   :LOGBOOK:
   CLOCK: [2012-11-20 Tue 11:03]--[2012-11-20 Tue 11:04] =>  0:01
   :END:
@@ -504,11 +505,12 @@ pantry shelves
    :ID:       1b524408-f508-4d2e-839a-0936559efaf4
    :END:
 [2012-10-14 Sun 19:56]
-** TODO Unplug sink and bath
+** DONE Unplug sink and bath
+   - State "DONE"       from "TODO"       [2012-12-09 Sun 20:29]
    :PROPERTIES:
    :ID:       54b76607-8bc3-41ca-98b8-06306ff55bb2
    :END:
-** TODO Create habits
+** NEXT Create habits
    :PROPERTIES:
    :ID:       bd9fc482-fb1e-43f9-92e9-76e023b1e477
    :END:
@@ -723,10 +725,6 @@ Bath and toilet clogged. Need light globes.
     :PROPERTIES:
     :ID:       743cadae-db2b-432e-88df-30fc5c2e73a4
     :END:
-*** NEXT Transcribe from Bei Da notebook
-    :PROPERTIES:
-    :ID:       b4ebb630-3c36-4f5b-8376-4f3733a237e1
-    :END:
 * Outings
   :PROPERTIES:
   :ID:       a3db8660-da81-4683-b311-de1d178f4554
@@ -891,10 +889,12 @@ Find a good postcast player for android. I want to be able to do offline listeni
     :PROPERTIES:
     :ID:       4d092569-138f-4d2c-98be-154ea7c43f02
     :END:
-*** NEXT Make tables to collect data in org-mode
+*** DONE Make tables to collect data in org-mode
+    - State "DONE"       from "NEXT"       [2012-12-09 Sun 20:27]
     :PROPERTIES:
     :ID:       ef2170c0-9863-47cd-89ba-7cf681da27f4
     :END:
+*** NEXT Import sleep data
 *** TODO Produce graphs
     :PROPERTIES:
     :ID:       d92aa2a9-e4df-43a5-bd7d-45d3ba840eef
