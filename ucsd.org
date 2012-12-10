@@ -443,6 +443,10 @@ Update this based on Bo's comments.
    :END:
 *** TODO Plan MATH142B course
     SCHEDULED: <2012-12-10 Mon>
+    :LOGBOOK:
+    CLOCK: [2012-12-10 Mon 10:20]
+    CLOCK: [2012-12-10 Mon 09:35]--[2012-12-10 Mon 10:00] =>  0:25
+    :END:
     :PROPERTIES:
     :ID:       15fccd9a-a1ed-41b6-a3bb-fdb03475e91d
     :END:
