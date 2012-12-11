@@ -342,6 +342,16 @@ See also
 - [X] ricci _flow_warped_products
 - [X] bakry_emery_levy_gromov
 
+*** Research Pondering
+    :LOGBOOK:
+    CLOCK: [2012-12-11 Tue 07:30]--[2012-12-11 Tue 08:30] =>  1:00
+    CLOCK: [2012-12-06 Thu 12:49]--[2012-12-06 Thu 13:25] =>  0:36
+    CLOCK: [2012-12-05 Wed 14:15]--[2012-12-05 Wed 15:00] =>  0:45
+    CLOCK: [2012-12-05 Wed 12:00]--[2012-12-05 Wed 12:30] =>  0:30
+    CLOCK: [2012-11-28 Wed 14:05]--[2012-11-28 Wed 14:50] =>  0:45
+    CLOCK: [2012-11-28 Wed 13:00]--[2012-11-28 Wed 13:37] =>  0:42
+    :END:
+
 ** Research ideas
 *** Bakry-Emry, Optimal transport measure
   :PROPERTIES:
@@ -379,17 +389,6 @@ See [[papers:MR1912903][MR1912903-paper]] for Lie group/algebra theory approach
 Steve Zelditch does this sort of thing.
 The people in rooms 58-- also do this. They have continuum mech type posters outside their office.
 
-
-*** Check colding new monotonicity paper
-
-** Research Pondering
-   :LOGBOOK:
-   CLOCK: [2012-12-06 Thu 12:49]--[2012-12-06 Thu 13:25] =>  0:36
-   CLOCK: [2012-12-05 Wed 14:15]--[2012-12-05 Wed 15:00] =>  0:45
-   CLOCK: [2012-12-05 Wed 12:00]--[2012-12-05 Wed 12:30] =>  0:30
-   CLOCK: [2012-11-28 Wed 14:05]--[2012-11-28 Wed 14:50] =>  0:45
-   CLOCK: [2012-11-28 Wed 13:00]--[2012-11-28 Wed 13:37] =>  0:42
-   :END:
 *** Check out riemanniab measures
   :PROPERTIES:
   :ID:       470f8b9b-3ea4-47c1-9f19-2d91fe11ba5a
@@ -398,6 +397,9 @@ https://docs.google.com/viewer?a=v&q=cache:4OHUxxdyFgAJ:wiener.iam.uni-bonn.de/~
 wiener.iam.uni-bonn.de/~sturm/papers/paper46.pdf
 intlpress.com/JDG/archive/vol.54/issue1/1_3.pdf
 www.math.jussieu.fr/~cordero/Docs/articles/pl.pdf
+
+*** Check colding new monotonicity paper
+
 
 * Seminars
   :PROPERTIES:
