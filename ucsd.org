@@ -438,6 +438,8 @@ Update this based on Bo's comments.
    :ID:       ca36acea-9953-4821-88a1-69ed34f77979
    :END:
 ** TODO MATH142B Winter 2012 
+   :LOGBOOK:
+   :END:
    :PROPERTIES:
    :ID:       1143f380-6198-4a55-b640-8d8e9c7cfb72
    :END:
@@ -461,7 +463,7 @@ Update this based on Bo's comments.
      :END:
 **** NEXT Make course outline
      :LOGBOOK:
-     CLOCK: [2012-12-11 Tue 10:16]
+     CLOCK: [2012-12-11 Tue 10:16]--[2012-12-11 Tue 11:16] =>  1:00
      :END:
      :PROPERTIES:
      :ID:       e2b60bcc-754d-45d4-8f67-d7d4f99353e8
