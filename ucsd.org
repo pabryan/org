@@ -466,62 +466,6 @@ Update this based on Bo's comments.
      :PROPERTIES:
      :ID:       e2b60bcc-754d-45d4-8f67-d7d4f99353e8
      :END:
-check previous offerings
-*** DONE Respond to zhichao about MATH142B Enrollment
-    - State "DONE"       from "WAITING"    [2012-11-28 Wed 10:43]
-    - State "WAITING"    from "TODO"       [2012-11-27 Tue 12:09] \\
-      Waiting on Holly Proudfoot to reply
-  :LOGBOOK:
-  CLOCK: [2012-11-27 Tue 12:08]--[2012-11-27 Tue 12:09] =>  0:01
-  :END:
-    :PROPERTIES:
-    :ID:       5a89fef1-ef49-4ffe-8353-d80a83ac046b
-    :END:
-[2012-11-27 Tue 12:08]
-[[mailto:Zhichao Xu <zxu@ucsd.edu>]]
-
-Dear Professor Bryan,
-I am trying to enroll in your course Math 142B next quarter. However, it
-has already a long wait list before me. Will there be any chance of
-increase the size of class? I really need to take this course. Thank you
-very much.
-
-Best,
-Zhichao Xu "Charlie"
-Joint Mathematics-Economics major
-University of California, San Diego
-
-
-** TODO Summer 2013
-   SCHEDULED: <2013-08-15 Thu>
-
-   :PROPERTIES:
-   :ID:       98c60166-9021-42a3-95fd-3b0852dcdc18
-   :END:
-*** DONE Sign up for summer 2013 teaching
-    - State "DONE"       from "TODO"       [2012-11-09 Fri 11:57]
-
-  CLOCK: [2012-11-02 Fri 15:50]--[2012-11-02 Fri 15:52] =>  0:02
-[2012-11-02 Fri 15:50]
-
-[[file:~/teaching/summer_2013/SS%202013%20Request-Proposal.doc][file:~/teaching/summer_2013/SS 2013 Request-Proposal.doc]]
-[[file:~/teaching/summer_2013/Summer_Session_Enrollment.pdf]]
-
-**** DONE Contact Holly, Scott etc. about summer 2013 teaching
-     - State "DONE"       from "NEXT"       [2012-11-15 Thu 11:45]
-**** TODO Choose subjects and submit form
-     :PROPERTIES:
-     :ID:       f5a023c1-c8f3-4b32-99cd-810b79b93495
-     :END:
-*** NEXT Make org mode course projects
-    SCHEDULED: <2013-08-15 Thu>
-    - State "NEXT"       from "WAITING"    [2012-11-30 Fri 13:36]
-      Got course assignments (142B, 20D)
-    - State "WAITING"    from ""           [2012-11-09 Fri 11:58] \\
-      Waiting on course assignments
-    :PROPERTIES:
-    :ID:       41c5d1f9-11a7-41c7-bb89-4ccbf381429c
-    :END:
 
 * Seminars
   :PROPERTIES:
