@@ -227,13 +227,14 @@ Hostname should be the canonical place and I shouldn't ever need to worry about 
 
 ** NEXT Set up org-mode latex export
   :LOGBOOK:
+  CLOCK: [2012-12-13 Thu 11:11]
   CLOCK: [2012-12-13 Thu 10:38]--[2012-12-13 Thu 10:41] =>  0:03
   :END:
    :PROPERTIES:
    :ID:       6ff58c1d-9be6-411e-b48f-4ed572a1552f
    :END:
 [2012-12-13 Thu 10:37]
-Want it to use my settings
+Want it to use my settings, macros etc.
 * process
   :PROPERTIES:
   :ID:       403ba6c9-9a32-430c-b0c9-0b09f2eba44e
