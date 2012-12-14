@@ -456,6 +456,14 @@ Update this based on Bo's comments.
   :END:
 [2012-11-27 Tue 10:00]
 
+*** NEXT Grade final exam
+  :LOGBOOK:
+  CLOCK: [2012-12-14 Fri 11:10]
+  :END:
+    :PROPERTIES:
+    :ID:       f5e2519f-4b12-4254-af52-f5f955f79d7a
+    :END:
+[2012-12-14 Fri 11:09]
 ** DONE Setup reminder for MATH142B
    - State "DONE"       from "TODO"       [2012-10-29 Mon 10:27]
   CLOCK: [2012-10-15 Mon 10:27]--[2012-10-15 Mon 10:28] =>  0:01
