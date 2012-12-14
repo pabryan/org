@@ -238,6 +238,13 @@ Hostname should be the canonical place and I shouldn't ever need to worry about 
    :END:
 [2012-12-13 Thu 10:37]
 Want it to use my settings, macros etc.
+** TODO fix: org mode clocks out when doing mobile sync
+  :LOGBOOK:
+  :END:
+   :PROPERTIES:
+   :ID:       f0e4da95-958f-4871-91bf-3eb156e22d3f
+   :END:
+[2012-12-14 Fri 11:53]
 * process
   :PROPERTIES:
   :ID:       403ba6c9-9a32-430c-b0c9-0b09f2eba44e
@@ -816,6 +823,9 @@ Files go into Dropbox and versioned controlled hosted on bitbucket
   :END:
 ** Organiation
 :LOGBOOK:
+CLOCK: [2012-12-14 Fri 11:59]
+CLOCK: [2012-12-14 Fri 11:53]--[2012-12-14 Fri 11:55] =>  0:02
+CLOCK: [2012-12-14 Fri 11:52]--[2012-12-14 Fri 11:53] =>  0:01
 CLOCK: [2012-12-14 Fri 11:48]--[2012-12-14 Fri 11:49] =>  0:01
 CLOCK: [2012-12-14 Fri 11:09]--[2012-12-14 Fri 11:10] =>  0:01
 CLOCK: [2012-12-14 Fri 11:08]--[2012-12-14 Fri 11:09] =>  0:01
