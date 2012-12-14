@@ -242,7 +242,7 @@ Explain $\RR^{n+1}$.
     DEADLINE: <2012-12-18 Tue> SCHEDULED: <2012-12-10 Mon>
     - State "DONE"       from "NEXT"       [2012-12-14 Fri 11:52]
     :LOGBOOK:
-    CLOCK: [2012-12-14 Fri 11:49]--[2012-12-14 Fri 11:52] =>  0:03
+    CLOCK: [2012-12-14 Fri 11:50]--[2012-12-14 Fri 11:52] =>  0:02
     CLOCK: [2012-12-13 Thu 09:45]--[2012-12-13 Thu 10:15] =>  0:30
     :END:
     :PROPERTIES:
