@@ -84,7 +84,10 @@ Geisel Library room 274
    :END:
 *** NEXT Set up tasks
     :LOGBOOK:
-    CLOCK: [2012-12-14 Fri 17:20]
+    CLOCK: [2012-12-14 Fri 17:20]--[2012-12-14 Fri 17:36] =>  0:16
+    :END:
+    :PROPERTIES:
+    :ID:       324119e3-a5fc-4279-9d83-28ac27de824b
     :END:
 *** NEXT Check high genus comparison computations
     :PROPERTIES:
@@ -122,14 +125,55 @@ Geisel Library room 274
 [2012-11-16 Fri 15:19]
 
 *** TODO Write content
-**** NEXT Write viscosity equation 
+    :PROPERTIES:
+    :ID:       3723cb1d-4761-4c0a-b3d4-fc62bca216c2
+    :END:
+**** NEXT Write viscosity equation
+     :PROPERTIES:
+     :ID:       cb2801d1-92c9-4f75-8668-738f04868007
+     :END: 
 **** TODO Write Ricci comparison theorem
+     :PROPERTIES:
+     :ID:       14a1b102-77f8-49e6-b175-d55351751e7a
+     :END:
 **** NEXT Write sphere comparison (brief)
+     :PROPERTIES:
+     :ID:       98abaabf-bfd6-4a76-a363-d99dc50187ef
+     :END:
 **** NEXT Write planar comparison
+     :PROPERTIES:
+     :ID:       f275815c-cbd9-4226-aa90-04753e3fe110
+     :END:
 **** NEXT Write hyperbolic quadratic comparison
+     :PROPERTIES:
+     :ID:       ab49f64c-36f6-476f-9e02-b0ec9d72552f
+     :END:
 **** NEXT Write hyperbolic stationary comparison
+     :PROPERTIES:
+     :ID:       159f6804-7554-45c3-a669-13c54169356f
+     :END:
 **** NEXT Write convergence
+     :PROPERTIES:
+     :ID:       cabddb49-adb4-4532-81d3-3f49f7b66dd6
+     :END:
+**** NEXT Write porous media
+     :PROPERTIES:
+     :ID:       f209c72e-822e-45e0-bf45-4ee4e36f7c58
+     :END:
 *** TODO Check Ben Chow's book for planer integrability of 1st derivative
+    :PROPERTIES:
+    :ID:       68503bad-abd4-49d4-97a6-537854ccc13e
+    :END:
+*** TODO Work out logarithmic porous media integral transform
+    :PROPERTIES:
+    :ID:       f2988334-a37d-47fc-86ac-43d616cf29d5
+    :END:
+conformal factor and isoprofile satisfy logarithic porous media
+how are they related?
+*** TODO Are stationary iso profile solns stationary ricci flow solns?
+    :PROPERTIES:
+    :ID:       0256ba72-857d-4734-be31-be685e5a10ad
+    :END:
 ** TODO Pipe Flows 						  :PIPE_FLOW:
    :PROPERTIES:
    :ID:       cf90c8f0-dc09-44d4-87d4-f7000acc2ba1
