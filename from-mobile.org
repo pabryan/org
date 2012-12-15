@@ -103,6 +103,9 @@ CLOCK: [2012-12-14 Fri 14:55]--[2012-12-14 Fri 15:23] =>  0:27
 
 
 * Body was changed in MobileOrg and on the computer F(edit:body) [[id:2fd02d93-9376-4172-b361-0e865b293007][Mod Intensity]]
+  :PROPERTIES:
+  :ID:       aaf7fbf4-c485-4664-9736-e5cfda49e555
+  :END:
 ** Old value
 SCHEDULED: <2012-12-13 Thu .+4d/5d>
     - State "DONE"       from "NEXT"       [2012-12-09 Sun 13:05]
