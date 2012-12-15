@@ -82,7 +82,8 @@ Geisel Library room 274
    :PROPERTIES:
    :ID:       5d9554fe-4cf1-42b0-9891-69a81e715a67
    :END:
-*** NEXT Set up tasks
+*** DONE Set up tasks
+    - State "DONE"       from "NEXT"       [2012-12-14 Fri 18:04]
     :LOGBOOK:
     CLOCK: [2012-12-14 Fri 17:20]--[2012-12-14 Fri 17:36] =>  0:16
     :END:
@@ -128,14 +129,18 @@ Geisel Library room 274
     :PROPERTIES:
     :ID:       3723cb1d-4761-4c0a-b3d4-fc62bca216c2
     :END:
-**** NEXT Write viscosity equation
+**** DONE Write viscosity equation
+     - State "DONE"       from "NEXT"       [2012-12-14 Fri 18:08]
      :LOGBOOK:
-     CLOCK: [2012-12-14 Fri 17:47]
+     CLOCK: [2012-12-14 Fri 17:47]--[2012-12-14 Fri 18:09] =>  0:22
      :END:
      :PROPERTIES:
      :ID:       cb2801d1-92c9-4f75-8668-738f04868007
      :END: 
-**** TODO Write Ricci comparison theorem
+**** NEXT Write Ricci comparison theorem
+     :LOGBOOK:
+     CLOCK: [2012-12-14 Fri 18:09]
+     :END:
      :PROPERTIES:
      :ID:       14a1b102-77f8-49e6-b175-d55351751e7a
      :END:
@@ -177,6 +182,7 @@ how are they related?
     :PROPERTIES:
     :ID:       0256ba72-857d-4734-be31-be685e5a10ad
     :END:
+*** TODO Clean up text to be consistent, proper refs etc.
 ** TODO Pipe Flows 						  :PIPE_FLOW:
    :PROPERTIES:
    :ID:       cf90c8f0-dc09-44d4-87d4-f7000acc2ba1
