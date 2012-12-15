@@ -129,6 +129,9 @@ Geisel Library room 274
     :ID:       3723cb1d-4761-4c0a-b3d4-fc62bca216c2
     :END:
 **** NEXT Write viscosity equation
+     :LOGBOOK:
+     CLOCK: [2012-12-14 Fri 17:47]
+     :END:
      :PROPERTIES:
      :ID:       cb2801d1-92c9-4f75-8668-738f04868007
      :END: 
