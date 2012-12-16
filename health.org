@@ -8,7 +8,8 @@
 
 ** Schedule
 *** NEXT No Intensity
-    SCHEDULED: <2012-12-16 Sun .+4d/5d>
+    SCHEDULED: <2012-12-20 Thu .+4d/5d>
+    - State "DONE"       from "NEXT"       [2012-12-16 Sun 15:40]
     - State "DONE"       from "NEXT"       [2012-12-11 Tue 07:30]
     - State "DONE"       from "NEXT"       [2012-12-07 Fri 07:30]
     - State "DONE"       from "NEXT"       [2012-12-03 Mon 17:50]
@@ -18,7 +19,7 @@
     - State "DONE"       from "TODO"       [2012-11-14 Wed 11:16]
 
     :LOGBOOK:
-    CLOCK: [2012-12-16 Sun 15:11]
+    CLOCK: [2012-12-16 Sun 15:11]--[2012-12-16 Sun 15:40] =>  0:29
     CLOCK: [2012-12-07 Fri 07:00]--[2012-12-07 Fri 07:30] =>  0:30
     CLOCK: [2012-12-07 Fri 07:00]--[2012-12-07 Fri 07:30] =>  0:30
     CLOCK: [2012-12-03 Mon 19:00]--[2012-12-03 Mon 19:15] =>  0:15
@@ -29,7 +30,7 @@
 :PROPERTIES:
 :STYLE: habit
 :REPEAT_TO_STATE: NEXT
-:LAST_REPEAT: [2012-12-11 Tue 10:06]
+:LAST_REPEAT: [2012-12-16 Sun 15:40]
 :ID: e38c9566-fca4-46e5-bf5f-a6c98c63f9f2
 :END:
     
@@ -768,6 +769,28 @@ Do as many sets as possible in 20 mins.
 | Rest HR | Final HR | Score | Tech | Eff | Disc |
 |---------+----------+-------+------+-----+------|
 |      59 |      132 |       |    9 |   6 | 3    |
+
+***** 2012-12-15 Saturday
+****** X-tension/be breathed (high)
+       :PROPERTIES:
+       :ID:       f8b30f5d-9f2f-4e74-8840-4247fab2829b
+       :END:
+
+#+TBLNAME: 20121215SUMMARY
+| Rest HR | Final HR | Score | Tech | Eff | Disc |
+|---------+----------+-------+------+-----+------|
+|      59 |      132 |       |    9 |   6 | 3    |
+
+***** 2012-12-16 Sunday
+****** Intuflow
+       :PROPERTIES:
+       :ID:       9e7aa368-4437-4ef6-b9f0-a148b901b294
+       :END:
+
+#+TBLNAME: 20121216SUMMARY
+| Rest HR | Final HR | Score | Tech | Eff | Disc |
+|---------+----------+-------+------+-----+------|
+|      62 |      104 |       |    9 |   4 |    2 |
 
 * Diet 								       :DIET:
   :PROPERTIES:
