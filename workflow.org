@@ -559,12 +559,13 @@ I'll need to say use my phone to collect the data. I need something easy to cloc
     I want to hang on to emails, articles and so on. I want to keep receipts, ideas and a diary of what I've done. These need to be kept in a filing system somehow, most probaby using org-mode and memacs.
 ** Reviews
 Here I look at my goals, my tasks and how I've been spending my time and use that information to plan out the coming week/month/year etc.
-*** NEXT Weekly Review [1/11]
+*** NEXT Weekly Review [8/11]
     SCHEDULED: <2012-12-14 Fri .+7d/10d>
     - State "DONE"       from "NEXT"       [2012-12-07 Fri 13:44]
     - State "DONE"       from "NEXT"       [2012-11-30 Fri 14:06]
     :LOGBOOK:
-    CLOCK: [2012-12-17 Mon 13:41]
+    CLOCK: [2012-12-17 Mon 13:56]
+    CLOCK: [2012-12-17 Mon 13:41]--[2012-12-17 Mon 13:55] =>  0:14
     CLOCK: [2012-12-07 Fri 12:59]--[2012-12-07 Fri 13:43] =>  0:44
     CLOCK: [2012-12-07 Fri 10:03]--[2012-12-07 Fri 10:53] =>  0:50
     CLOCK: [2012-11-30 Fri 13:33]--[2012-11-30 Fri 14:07] =>  0:34
@@ -585,19 +586,19 @@ Here I look at my goals, my tasks and how I've been spending my time and use tha
 What to review:
 
 - [X] Check follow-up paper folder
-- [ ] Check holding directory
+- [X] Check holding directory
   [[file:~/Dropbox/holding]]
-- [ ] Check holding email folder
-- [ ] Review weekly agenda =F12 a w//=
-- [ ] Check clocking data for past week =v c=
+- [X] Check holding email folder
+- [X] Review weekly agenda =F12 a w//=
+- [X] Check clocking data for past week =v c=
   - fix up any errors
-- [ ] Review clock report for past week =R=
+- [X] Review clock report for past week =R=
   - Check where we spent time (too much or too little) and rectify this week
-- [ ] Look at entire agenda for today  =F12 SPC=
+- [X] Look at entire agenda for today  =F12 SPC=
 - [ ] Review projects =F12 SPC //= and =P= repeatedly to view each project
   - Unstick stuck projects!
 - [ ] Review somday projects
-- [ ] Plan next week
+- [X] Plan next week
 - [ ] Check uncommited work
 
 - start work
