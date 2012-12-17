@@ -107,6 +107,20 @@ Here I need to do some more work since $u \mapsto g(\grad u, \grad u)$ is not a 
 :END:
 [[papers:MR764944][MR764944-paper]]
 *** 53C (1973-now) Global differential geometry [See also 51H25, 58-XX; for related bundle theory, see 55Rxx, 57Rxx]
+**** 53CXX
+***** Existence of isoperimetric regions in contact sub-{R}iemannian manifolds
+:PROPERTIES:
+:Custom_ID: MR2979606
+:END:
+[[papers:MR2979606][MR2979606-paper]]
+
+***** Existence of isoperimetric regions in sub-{R}iemannian contact manifolds
+:PROPERTIES:
+:Custom_ID: MR2953850
+:END:
+[[papers:MR2953850][MR2953850-paper]]
+
+
 **** 53C44 (2000-now) Geometric evolution equations (mean curvature flow, Ricci flow, etc.)
 ***** Curvature bounds by isoperimetric comparison for normalized {R}icci flow on the two-sphere
 :PROPERTIES:
@@ -131,3 +145,4 @@ Here I need to do some more work since $u \mapsto g(\grad u, \grad u)$ is not a 
 :END:
 [[papers:MR1912903][MR1912903-paper]]
    
+
