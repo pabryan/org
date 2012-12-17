@@ -211,6 +211,9 @@ how are they related?
    :END:
 [[file:~/working/academic/research/geometric_pipe_flows]]
 *** NEXT Set up exact tasks
+    :PROPERTIES:
+    :ID:       bd4e49ca-6f78-44af-aa3b-782d2eb98ff3
+    :END:
 *** NEXT Transcribe pipe examples from Bei Da notebook
   :LOGBOOK:
   CLOCK: [2012-11-20 Tue 10:48]--[2012-11-20 Tue 10:49] =>  0:01
@@ -233,6 +236,9 @@ how are they related?
    :END:
 [[file:~/working/academic/research/distance_viscosity]]
 *** NEXT Set up exact tasks
+    :PROPERTIES:
+    :ID:       86855cdc-dd8e-492f-a12a-061383083d80
+    :END:
 *** NEXT Compute Hessian of d
     :LOGBOOK:
     CLOCK: [2012-11-27 Tue 17:45]--[2012-11-27 Tue 19:15] =>  1:30
@@ -249,6 +255,9 @@ how are they related?
    :ID:       94d316e3-e550-42ca-90f9-fd91d2d61bc5
    :END:
 *** NEXT Set up exact tasks
+    :PROPERTIES:
+    :ID:       264e8cb9-0195-4424-8b4a-7564af954309
+    :END:
 *** NEXT Make outline of book
     :PROPERTIES:
     :ID:       fafef726-06de-4f07-8e85-b55e2e153b9d
@@ -259,6 +268,9 @@ how are they related?
    :ID:       c81850da-1eac-4c94-a963-ab007548b40a
    :END:
 *** NEXT Set up exact tasks
+    :PROPERTIES:
+    :ID:       c0bd68d4-6572-425e-8118-bb755fcded6f
+    :END:
 *** NEXT Pull submanifolds previous work into new project
     :PROPERTIES:
     :ID:       7b113c85-946a-4233-a2aa-4b9393af4506
@@ -279,7 +291,13 @@ Sequences of manifolds and convergence. What is smooth convergence? Can it be de
    :END:
 [[file:~/working/academic/research/alphacsf_dist_comp]]
 *** NEXT Set up exact tasks
+    :PROPERTIES:
+    :ID:       4f722f4b-5144-460f-99ed-df219865ff85
+    :END:
 *** NEXT Transcribe variational argument from notbook
+    :PROPERTIES:
+    :ID:       e326f80a-7e84-497c-949e-c91f0c47581f
+    :END:
 ** TODO CSF surfaces distance comparison
    :PROPERTIES:
    :ID:       85f583ed-c9eb-4993-91e3-8cedf9945d1f
