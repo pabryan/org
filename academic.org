@@ -95,12 +95,13 @@ Geisel Library room 274
     :PROPERTIES:
     :ID:       60cbd811-022c-4afa-bb52-bc82b8694314
     :END:			     
-*** NEXT Copy text from thesis to paper
+*** DONE Copy text from thesis to paper
+    - State "DONE"       from "NEXT"       [2012-12-17 Mon 10:54]
     - State "NEXT"       from "DONE"       [2012-12-13 Thu 16:06]
       I seem to have lost the changes!
     - State "DONE"       from "NEXT"       [2012-11-15 Thu 14:58]
     :LOGBOOK:
-    CLOCK: [2012-12-17 Mon 10:48]
+    CLOCK: [2012-12-17 Mon 10:48]--[2012-12-17 Mon 10:54] =>  0:06
     CLOCK: [2012-12-17 Mon 10:36]--[2012-12-17 Mon 10:43] =>  0:07
     CLOCK: [2012-12-13 Thu 19:58]--[2012-12-13 Thu 20:35] =>  0:37
     CLOCK: [2012-12-13 Thu 19:29]--[2012-12-13 Thu 19:51] =>  0:22
