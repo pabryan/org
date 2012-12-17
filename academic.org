@@ -210,6 +210,7 @@ how are they related?
    :ID:       cf90c8f0-dc09-44d4-87d4-f7000acc2ba1
    :END:
 [[file:~/working/academic/research/geometric_pipe_flows]]
+*** NEXT Set up exact tasks
 *** NEXT Transcribe pipe examples from Bei Da notebook
   :LOGBOOK:
   CLOCK: [2012-11-20 Tue 10:48]--[2012-11-20 Tue 10:49] =>  0:01
@@ -231,6 +232,7 @@ how are they related?
    :ID:       c77edc75-4647-4f26-93c4-da74485714c1
    :END:
 [[file:~/working/academic/research/distance_viscosity]]
+*** NEXT Set up exact tasks
 *** NEXT Compute Hessian of d
     :LOGBOOK:
     CLOCK: [2012-11-27 Tue 17:45]--[2012-11-27 Tue 19:15] =>  1:30
@@ -246,6 +248,7 @@ how are they related?
    :PROPERTIES:
    :ID:       94d316e3-e550-42ca-90f9-fd91d2d61bc5
    :END:
+*** NEXT Set up exact tasks
 *** NEXT Make outline of book
     :PROPERTIES:
     :ID:       fafef726-06de-4f07-8e85-b55e2e153b9d
@@ -255,6 +258,7 @@ how are they related?
    :PROPERTIES:
    :ID:       c81850da-1eac-4c94-a963-ab007548b40a
    :END:
+*** NEXT Set up exact tasks
 *** NEXT Pull submanifolds previous work into new project
     :PROPERTIES:
     :ID:       7b113c85-946a-4233-a2aa-4b9393af4506
@@ -274,6 +278,8 @@ Sequences of manifolds and convergence. What is smooth convergence? Can it be de
    :ID:       82bbca25-be33-478e-9fc2-ee07aff558c7
    :END:
 [[file:~/working/academic/research/alphacsf_dist_comp]]
+*** NEXT Set up exact tasks
+*** NEXT Transcribe variational argument from notbook
 ** TODO CSF surfaces distance comparison
    :PROPERTIES:
    :ID:       85f583ed-c9eb-4993-91e3-8cedf9945d1f
