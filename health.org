@@ -47,6 +47,7 @@
     - State "DONE"       from "TODO"       [2012-11-15 Thu 17:00]
 
 :LOGBOOK:
+CLOCK: [2012-12-17 Mon 15:03]
 CLOCK: [2012-12-12 Wed 20:50]--[2012-12-12 Wed 21:35] =>  0:45
 CLOCK: [2012-12-08 Sat 19:55]--[2012-12-08 Sat 21:05] =>  1:10
 CLOCK: [2012-11-29 Thu 15:58]--[2012-11-29 Thu 17:09] =>  1:10
@@ -796,6 +797,17 @@ Do as many sets as possible in 20 mins.
 | Rest HR | Final HR | Score | Tech | Eff | Disc |
 |---------+----------+-------+------+-----+------|
 |      62 |      104 |       |    9 |   4 |    2 |
+
+***** 2012-12-17 Monday
+****** Ageless Mobility
+       :PROPERTIES:
+       :ID:       a3295aa6-0ddc-48de-80dc-121d0cde3314
+       :END:
+
+#+TBLNAME: 20121217SUMMARY
+| Rest HR | Final HR | Score | Tech | Eff | Disc |
+|---------+----------+-------+------+-----+------|
+| 64      |          |       |      |     |      |
 
 * Diet 								       :DIET:
   :PROPERTIES:
