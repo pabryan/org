@@ -224,6 +224,14 @@ Can we suspend loan repayments for a few months?
    :END:
 [2012-11-30 Fri 14:51]
 <2012-12-01 Sat>
+** TODO Buy car
+  :LOGBOOK:
+  :END:
+   :PROPERTIES:
+   :ID:       9f233d16-f4c3-412a-919b-8b988e96d557
+   :END:
+[2012-12-18 Tue 11:33]
+
 * Health 
   :PROPERTIES:
   :ID:       d9d7d0ec-a6b9-4451-ae42-5519eba7be50
@@ -415,6 +423,14 @@ http://www.sdtaichi.com/
    :END:
 [2012-12-14 Fri 11:07]
 Also add in the routine description so I have it with me via mobileorg.
+
+** TODO Set up capture templates for exercise
+  :LOGBOOK:
+  :END:
+  :PROPERTIES:
+  :ID:       797bf101-d35f-498b-b4bf-bbe60f31c1d1
+  :END:
+[2012-12-17 Mon 15:01]
 
 * Recreation
   :PROPERTIES:
