@@ -1,4 +1,3 @@
-
 #+LAST_MOBILE_CHANGE: 2012-12-16 09:57:37
 #+FILETAGS: HEALTH
 * Exercise							   :EXERCISE:
@@ -35,7 +34,8 @@
 :END:
     
 *** NEXT Low Intensity
-    SCHEDULED: <2012-12-18 Tue .+4d/5d>
+    SCHEDULED: <2012-12-21 Fri .+4d/5d>
+    - State "DONE"       from "NEXT"       [2012-12-17 Mon 16:28]
     - State "DONE"       from "NEXT"       [2012-12-12 Wed 21:35]
     - State "DONE"       from "NEXT"       [2012-12-08 Sat 21:04]
     - State "DONE"       from "NEXT"       [2012-12-04 Tue 21:16]
@@ -47,7 +47,7 @@
     - State "DONE"       from "TODO"       [2012-11-15 Thu 17:00]
 
 :LOGBOOK:
-CLOCK: [2012-12-17 Mon 15:03]
+CLOCK: [2012-12-17 Mon 15:03]--[2012-12-17 Mon 16:28] =>  1:25
 CLOCK: [2012-12-12 Wed 20:50]--[2012-12-12 Wed 21:35] =>  0:45
 CLOCK: [2012-12-08 Sat 19:55]--[2012-12-08 Sat 21:05] =>  1:10
 CLOCK: [2012-11-29 Thu 15:58]--[2012-11-29 Thu 17:09] =>  1:10
@@ -59,7 +59,7 @@ CLOCK: [2012-11-20 Tue 15:30]--[2012-11-20 Tue 16:00] =>  0:30
 :PROPERTIES:
 :STYLE: habit
 :REPEAT_TO_STATE: NEXT
-:LAST_REPEAT: [2012-12-13 Thu 07:42]
+:LAST_REPEAT: [2012-12-17 Mon 16:28]
 :ID: c5da0e4d-cf57-4caf-ba23-369257edd6ac
 :END:
 
@@ -807,7 +807,7 @@ Do as many sets as possible in 20 mins.
 #+TBLNAME: 20121217SUMMARY
 | Rest HR | Final HR | Score | Tech | Eff | Disc |
 |---------+----------+-------+------+-----+------|
-| 64      |          |       |      |     |      |
+|      64 | 68       |       | 9    | 3   | 2    |
 
 * Diet 								       :DIET:
   :PROPERTIES:
