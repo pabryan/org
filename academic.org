@@ -476,6 +476,10 @@ See also
     CLOCK: [2012-11-28 Wed 13:00]--[2012-11-28 Wed 13:37] =>  0:42
     :END:
 
+*** Literature reviewing
+    :LOGBOOK:
+    CLOCK: [2012-12-18 Tue 09:45]
+    :END:
 ** Research ideas
 *** Bakry-Emry, Optimal transport measure
   :PROPERTIES:

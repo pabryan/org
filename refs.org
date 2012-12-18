@@ -139,6 +139,13 @@ Here I need to do some more work since $u \mapsto g(\grad u, \grad u)$ is not a 
 :Custom_ID: MR2002821
 :END:
 [[papers:MR2002821][MR2002821-paper]]
+**** 53C20   (1973-now) Global Riemannian geometry, including pinching [See also 31C12, 58B20]
+** Killing fields, mean curvature, translation maps
+:PROPERTIES:
+:Custom_ID: MR2114163
+:END:
+[[papers:MR2114163][MR2114163-paper]]
+
 ** 26 (1940-now) Real functions [See also 54C30]
 *** 26D (1980-now) Inequalities [For maximal function inequalities, see 42B25; for functional inequalities, see 39B72; for probabilistic inequalities, see 60E15]
 **** 26D15 (1980-now) Inequalities for sums, series and integrals
