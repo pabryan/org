@@ -57,14 +57,15 @@ Geisel Library room 274
 ** DONE Review [[http://www.ams.org/mresubs/download/3559e451969b72ee8/2921651.pdf][paper]]
    - State "DONE"       from "NEXT"       [2012-11-03 Sat 11:02]
    locally it's here [[docview:~/research_resources/papers/MR2921651.pdf::1][MR2921651]]
-** NEXT Review [[file:refs.org::#MR2948294][Weighted isoperimetric inequalities in cones and applications]]
+** DONE Review [[file:refs.org::#MR2948294][Weighted isoperimetric inequalities in cones and applications]]
    SCHEDULED: <2012-12-06 Thu> DEADLINE: <2013-01-14 Mon>
+   - State "DONE"       from "NEXT"       [2012-12-17 Mon 19:42]
 
    :PROPERTIES:
    :ID:       3c09baae-b235-405f-837f-24a9b1801418
    :END:
    :LOGBOOK:
-   CLOCK: [2012-12-17 Mon 19:16]
+   CLOCK: [2012-12-17 Mon 19:16]--[2012-12-17 Mon 19:41] =>  0:25
    CLOCK: [2012-12-11 Tue 19:33]--[2012-12-11 Tue 19:45] =>  0:12
    CLOCK: [2012-12-11 Tue 18:15]--[2012-12-11 Tue 19:33] =>  1:18
    CLOCK: [2012-12-11 Tue 16:49]--[2012-12-11 Tue 17:34] =>  0:45
