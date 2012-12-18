@@ -238,6 +238,20 @@ Can we suspend loan repayments for a few months?
   :CATEGORY: Health
   :END:
 
+** Appointments
+*** Physical Therapy
+<2012-12-27 Thu 14:00>
+4410 ViewRidge Avenue San Diego 92123
+*** Pain away class
+    <2012-10-25 Thu 15:00-17:00>
+
+*** Osteo appointment
+   :PROPERTIES:
+   :ID:       949bc61a-4818-4982-ba70-6e1291188620
+   :END:
+<2012-12-10 13:30>
+Mary Tran, 2nd floor
+
 ** DONE Research Pavel Tsatsouline
    - State "DONE"       from "TODO"       [2012-11-10 Sat 13:30]
    :PROPERTIES:
@@ -315,9 +329,6 @@ Probably some table/spreadsheet functionality here
 Healthydiningfinder.com
 [2012-10-22 Mon 14:45]
 
-** Pain away class
-   <2012-10-25 Thu 15:00-17:00>
-
 ** DONE Checkout Health insurance changes
    - State "DONE"       from "NEXT"       [2012-11-10 Sat 13:33]
 UC SAN DIEGO
@@ -394,18 +405,12 @@ person in your department who handles benefits information.
    :END:
 [2012-12-02 Sun 12:53]
 
-** Osteo appointment
-   :PROPERTIES:
-   :ID:       949bc61a-4818-4982-ba70-6e1291188620
-   :END:
-<2012-12-10 13:30>
-Mary Tran, 2nd floor
-
 ** Wu Shu, Qi Gong etc.
 *** Jing institute
 http://www.sdtaichi.com/
-** TODO Book physical therapy
+** DONE Book physical therapy
   SCHEDULED: <2012-12-13 Thu>
+  - State "DONE"       from "TODO"       [2012-12-18 Tue 11:43]
   :LOGBOOK:
   :END:
    :PROPERTIES:
