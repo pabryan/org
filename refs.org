@@ -120,7 +120,6 @@ Here I need to do some more work since $u \mapsto g(\grad u, \grad u)$ is not a 
 :END:
 [[papers:MR2953850][MR2953850-paper]]
 
-
 **** 53C44 (2000-now) Geometric evolution equations (mean curvature flow, Ricci flow, etc.)
 ***** Curvature bounds by isoperimetric comparison for normalized {R}icci flow on the two-sphere
 :PROPERTIES:
@@ -128,6 +127,12 @@ Here I need to do some more work since $u \mapsto g(\grad u, \grad u)$ is not a 
 :END:
 [[papers:MR2729306][MR2729306-paper]]
 
+**** 53C15   (1973-now) General geometric structures on manifolds (almost complex, almost product structures, etc.)
+***** Noncommutative {G}auss map
+:PROPERTIES:
+:Custom_ID: MR1168123
+:END:
+[[papers:MR1168123][MR1168123-paper]]
 ** 26 (1940-now) Real functions [See also 54C30]
 *** 26D (1980-now) Inequalities [For maximal function inequalities, see 42B25; for functional inequalities, see 39B72; for probabilistic inequalities, see 60E15]
 **** 26D15 (1980-now) Inequalities for sums, series and integrals
