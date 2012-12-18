@@ -289,8 +289,6 @@ Space-time (how do we choose a connection?)
 Sequences of manifolds and convergence. What is smooth convergence? Can it be defined invariantly?
 
 ** TODO alpha CSF distance comparison
-   :LOGBOOK:
-   :END:
    :PROPERTIES:
    :ID:       82bbca25-be33-478e-9fc2-ee07aff558c7
    :END:
@@ -301,6 +299,7 @@ Sequences of manifolds and convergence. What is smooth convergence? Can it be de
     :END:
 *** NEXT Transcribe variational argument from notbook
     :LOGBOOK:
+    CLOCK: [2012-12-18 Tue 13:26]
     CLOCK: [2012-12-18 Tue 12:10]--[2012-12-18 Tue 12:35] =>  0:25
     :END:
     :PROPERTIES:
