@@ -98,6 +98,14 @@ Here I need to do some more work since $u \mapsto g(\grad u, \grad u)$ is not a 
 :END:
 [[papers:MR2921651][MR2921651-paper]]
 
+** 52   (1940-now) Convex and discrete geometry
+*** 52A   (1973-now) General convexity
+**** 52A40   (1973-now) Inequalities and extremum problems
+***** The isoperimetric inequality
+:PROPERTIES:
+:Custom_ID: MR0500557
+:END:
+[[papers:MR0500557][MR0500557-paper]]
 ** 53 (1940-now) Differential geometry [For differential topology, see 57Rxx. For foundational questions of differentiable manifolds, see 58Axx]
 *** 53A Classical differential geometry
 **** 53A10 Minimal surfaces, surfaces with prescribed mean curvature
@@ -140,11 +148,18 @@ Here I need to do some more work since $u \mapsto g(\grad u, \grad u)$ is not a 
 :END:
 [[papers:MR2002821][MR2002821-paper]]
 **** 53C20   (1973-now) Global Riemannian geometry, including pinching [See also 31C12, 58B20]
-** Killing fields, mean curvature, translation maps
+***** Killing fields, mean curvature, translation maps
 :PROPERTIES:
 :Custom_ID: MR2114163
 :END:
 [[papers:MR2114163][MR2114163-paper]]
+
+**** 53C40   (1973-now) Global submanifolds [See also 53B25]
+***** On {A}. {H}urwitz' method in isoperimetric inequalities
+:PROPERTIES:
+:Custom_ID: MR0493885
+:END:
+[[papers:MR0493885][MR0493885-paper]]
 
 ** 26 (1940-now) Real functions [See also 54C30]
 *** 26D (1980-now) Inequalities [For maximal function inequalities, see 42B25; for functional inequalities, see 39B72; for probabilistic inequalities, see 60E15]
@@ -166,11 +181,7 @@ Here I need to do some more work since $u \mapsto g(\grad u, \grad u)$ is not a 
 
 
 
-** The isoperimetric inequality
-:PROPERTIES:
-:Custom_ID: MR0500557
-:END:
-[[papers:MR0500557][MR0500557-paper]]
+
 ** Isoperimetric inequalities and eigenvalues of the {L}aplacian
 :PROPERTIES:
 :Custom_ID: MR562638
