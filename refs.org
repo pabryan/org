@@ -133,6 +133,12 @@ Here I need to do some more work since $u \mapsto g(\grad u, \grad u)$ is not a 
 :Custom_ID: MR1168123
 :END:
 [[papers:MR1168123][MR1168123-paper]]
+**** 53C42   (1980-now) Immersions (minimal, prescribed curvature, tight, etc.) [See also 49Q05, 49Q10, 53A10, 57R40, 57R42]
+***** Constant mean curvature hypersurfaces in a {L}ie group with a bi-invariant metric
+:PROPERTIES:
+:Custom_ID: MR2002821
+:END:
+[[papers:MR2002821][MR2002821-paper]]
 ** 26 (1940-now) Real functions [See also 54C30]
 *** 26D (1980-now) Inequalities [For maximal function inequalities, see 42B25; for functional inequalities, see 39B72; for probabilistic inequalities, see 60E15]
 **** 26D15 (1980-now) Inequalities for sums, series and integrals
@@ -172,3 +178,4 @@ Here I need to do some more work since $u \mapsto g(\grad u, \grad u)$ is not a 
 :Custom_ID: 2012arXiv1210.1328N
 :END:
 [[papers:2012arXiv1210.1328N][2012arXiv1210.1328N-paper]]
+
