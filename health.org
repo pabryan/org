@@ -108,7 +108,8 @@ CLOCK: [2012-12-02 Sun 16:18]--[2012-12-02 Sun 17:05] =>  0:47
 :LAST_REPEAT: [2012-12-16 Sun 09:58]
 :END:
 *** NEXT Eye exercises
-    SCHEDULED: <2012-12-19 Wed .+1d/2d>
+    SCHEDULED: <2012-12-20 Thu .+1d/2d>
+    - State "DONE"       from "NEXT"       [2012-12-19 Wed 09:30]
     - State "DONE"       from "NEXT"       [2012-12-18 Tue 08:45]
     - State "DONE"       from "NEXT"       [2012-12-17 Mon 14:55]
     - State "DONE"       from "NEXT"       [2012-12-16 Sun 16:32]
@@ -154,7 +155,7 @@ CLOCK: [2012-12-02 Sun 16:18]--[2012-12-02 Sun 17:05] =>  0:47
 :STYLE: habit
 :REPEAT_TO_STATE: NEXT
 :ID: bb3574e2-d88d-476f-8d3a-ebde4a1691b7
-:LAST_REPEAT: [2012-12-18 Tue 09:38]
+:LAST_REPEAT: [2012-12-19 Wed 11:20]
 :END:
 *** NEXT Meditate
     SCHEDULED: <2012-12-20 Thu .+1d/2d>

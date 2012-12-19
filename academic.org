@@ -300,15 +300,21 @@ Sequences of manifolds and convergence. What is smooth convergence? Can it be de
     :PROPERTIES:
     :ID:       4f722f4b-5144-460f-99ed-df219865ff85
     :END:
-*** NEXT Transcribe variational argument from notebook
+*** DONE Transcribe variational argument from notebook
+    - State "DONE"       from "NEXT"       [2012-12-19 Wed 11:20]
     :LOGBOOK:
-    CLOCK: [2012-12-19 Wed 10:02]
+    CLOCK: [2012-12-19 Wed 10:02]--[2012-12-19 Wed 11:19] =>  1:17
     CLOCK: [2012-12-18 Tue 18:10]--[2012-12-18 Tue 18:20] =>  0:10
     CLOCK: [2012-12-18 Tue 13:26]--[2012-12-18 Tue 15:11] =>  1:45
     CLOCK: [2012-12-18 Tue 12:10]--[2012-12-18 Tue 12:35] =>  0:25
     :END:
     :PROPERTIES:
     :ID:       e326f80a-7e84-497c-949e-c91f0c47581f
+    :END:
+*** DONE Work out spectral argument
+    - State "DONE"       from "TODO"       [2012-12-18 Tue 20:00]
+    :LOGBOOK:
+    CLOCK: [2012-12-18 Tue 18:20]--[2012-12-18 Tue 20:00] =>  1:40
     :END:
 ** TODO CSF surfaces distance comparison
    :PROPERTIES:
