@@ -340,6 +340,10 @@ Sequences of manifolds and convergence. What is smooth convergence? Can it be de
     :PROPERTIES:
     :ID:       9c3e45f9-6c61-48b8-b0e1-eaae4fd6514b
     :END:
+*** NEXT Work our normalised flow
+    :PROPERTIES:
+    :ID:       b63d50df-619a-46e9-88f4-460accb55823
+    :END:
 ** TODO CSF surfaces distance comparison
    :PROPERTIES:
    :ID:       85f583ed-c9eb-4993-91e3-8cedf9945d1f
