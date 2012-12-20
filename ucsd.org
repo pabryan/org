@@ -631,6 +631,8 @@ Update this based on Bo's comments.
     :END:
 
 ** TODO UCSD DG Seminar
+   :LOGBOOK:
+   :END:
    :PROPERTIES:
    :ID:       fa6cea64-9d5f-462e-8240-9f423a327330
    :END:
@@ -668,7 +670,8 @@ Update this based on Bo's comments.
     :END: 
 <2013-01-03 Thu +1w>
 
-*** NEXT Organise Somali's talk
+*** DONE Organise Somali's talk
+    - State "DONE"       from "NEXT"       [2012-12-20 Thu 11:14]
     - State "NEXT"       from "WAITING"    [2012-12-06 Thu 16:02]
   - State "WAITING"    from "TODO"       [2012-11-27 Tue 12:32] \\
     Waiting on Ben and Lei for time.
@@ -676,15 +679,24 @@ Update this based on Bo's comments.
   :ID:       cd68f213-5d0a-407e-a112-17b5ee0d16ef
   :END:
   :LOGBOOK:
+  CLOCK: [2012-12-20 Thu 11:05]--[2012-12-20 Thu 11:18] =>  0:13
   :END:
 [2012-11-27 Tue 12:32]
-This should be in the week starting the 7th Jan 2012 perhaps on Tuesday morning?
 
-Christina Sormani <sormanic@gmail.com> wrote:
-Yes I can speak at 10 am.
-My talk title and abstract:
-UC San Diego, Seminar Speaker (January 8, 2012)
-"The Tetrahedral Property and Intrinsic Flat Convergence"
+[2013-01-08 Tue 10:00-11:00]
+
+**** Details
+Speaker: Christina Sormani
+Home Institution: CUNY
+Faculty Host: Lei Ni
+Date: 08 Jan 2013
+Seminar Name: Differential Geometry
+Title: The Tetrahedral Property and Intrinsic Flat Convergence.
+Start Time: 10 am
+Location: AP&M 7218
+
+Abstract:
+
 We present the Tetrahedral Compactness Theorem which states that sequences
 of Riemannian manifolds with a uniform upper bound on volume and diameter
 that satisfy a uniform tetrahedral property have a subsequence which
@@ -695,9 +707,10 @@ a lower bound on the volumes of balls. The proof is based upon intrinsic
 flat convergence and a new notion called the sliced filling volume of a
 ball.
 
-*** NEXT Organise Christian Baer's talk
+*** DONE Organise Christian Baer's talk
+    - State "DONE"       from "NEXT"       [2012-12-20 Thu 11:05]
     :LOGBOOK:
-    CLOCK: [2012-12-20 Thu 10:49]
+    CLOCK: [2012-12-20 Thu 10:49]--[2012-12-20 Thu 11:05] =>  0:16
     CLOCK: [2012-12-20 Thu 10:44]--[2012-12-20 Thu 10:48] =>  0:04
     :END:
     :PROPERTIES:
@@ -705,10 +718,18 @@ ball.
     :END:
 [2013-01-10 Thu 15:00-16:00]
 
-**** Title
-Geometrically formal 4-manifolds with nonnegative sectional curvature
+**** Details
+Speaker: Christian Baer
+Home Institution: Universitat Potsdam
+Faculty Host: Lei Ni
+Date: 10 Jan 2013
+Seminar Name: Differential Geometry
+Title: Geometrically formal 4-manifolds with nonnegative sectional curvature
+Start Time: 3 pm
+Location: AP&M 7218
 
-**** Abstract
+Abstract:
+
 A Riemannian manifold is called geometrically formal if the wedge
 product of any two harmonic forms is again harmonic. We classify
 geometrically formal compact 4-manifolds with nonnegative sectional
@@ -728,6 +749,18 @@ homeomorphic to S^4 or to a connected sum of CP^2s.
     :ID:       d0caa6d9-cd5a-47ff-a7f7-25cd1e2a85f9
     :END:
 [2012-11-27 Tue 13:13]
+*** Email tempate
+Speaker: 
+Home Institution: 
+Faculty Host: 
+Date: 
+Seminar Name: Differential Geometry
+Title: 
+Start Time: 10 am
+Location: AP&M 7218
+
+Abstract:
+
 ** Song Sun Seminar
    :PROPERTIES:
    :ID:       862184a9-6693-4ccd-8d24-df3af6cc23f7
