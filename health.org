@@ -1,4 +1,4 @@
-#+LAST_MOBILE_CHANGE: 2012-12-19 12:45:57
+#+LAST_MOBILE_CHANGE: 2012-12-24 14:48:25
 #+FILETAGS: HEALTH
 * Exercise							   :EXERCISE:
   :PROPERTIES:
@@ -36,7 +36,8 @@
 :END:
     
 *** NEXT Low Intensity
-    SCHEDULED: <2012-12-25 Tue .+4d/5d>
+    SCHEDULED: <2012-12-28 Fri .+4d/5d>
+    - State "DONE"       from "NEXT"       [2012-12-22 Sat 21:35]
     - State "DONE"       from "NEXT"       [2012-12-21 Fri 16:36]
     - State "DONE"       from "NEXT"       [2012-12-17 Mon 16:28]
     - State "DONE"       from "NEXT"       [2012-12-12 Wed 21:35]
@@ -50,6 +51,7 @@
     - State "DONE"       from "TODO"       [2012-11-15 Thu 17:00]
 
 :LOGBOOK:
+CLOCK: [2012-12-22 Sat 20:31]--[2012-12-22 Sat 21:35] =>  1:04
 CLOCK: [2012-12-21 Fri 15:38]--[2012-12-21 Fri 16:36] =>  0:58
 CLOCK: [2012-12-17 Mon 15:03]--[2012-12-17 Mon 16:28] =>  1:25
 CLOCK: [2012-12-12 Wed 20:50]--[2012-12-12 Wed 21:35] =>  0:45
@@ -63,12 +65,13 @@ CLOCK: [2012-11-20 Tue 15:30]--[2012-11-20 Tue 16:00] =>  0:30
 :PROPERTIES:
 :STYLE: habit
 :REPEAT_TO_STATE: NEXT
-:LAST_REPEAT: [2012-12-21 Fri 17:42]
+:LAST_REPEAT: [2012-12-24 Mon 14:53]
 :ID: c5da0e4d-cf57-4caf-ba23-369257edd6ac
 :END:
 
 *** NEXT Mod Intensity
-    SCHEDULED: <2012-12-22 Sat .+4d/5d>
+    SCHEDULED: <2012-12-28 Fri .+4d/5d>
+    - State "DONE"       from "NEXT"       [2012-12-24 Mon 12:05]
     - State "DONE"       from "NEXT"       [2012-12-18 Tue 09:19]
     - State "DONE"       from "NEXT"       [2012-12-14 Fri 16:25]
     - State "DONE"       from "NEXT"       [2012-12-09 Sun 13:05]
@@ -77,6 +80,7 @@ CLOCK: [2012-11-20 Tue 15:30]--[2012-11-20 Tue 16:00] =>  0:30
     - State "DONE"       from "NEXT"       [2012-11-21 Wed 17:05]
     - State "DONE"       from "NEXT"       [2012-11-17 Sat 10:58]
 :LOGBOOK:
+CLOCK: [2012-12-24 Mon 11:15]--[2012-12-24 Mon 12:02] =>  0:47
 CLOCK: [2012-12-18 Tue 15:26]--[2012-12-18 Tue 16:11] =>  0:45
 CLOCK: [2012-12-14 Fri 15:38]--[2012-12-14 Fri 16:22] =>  0:43
 CLOCK: [2012-12-09 Sun 12:36]--[2012-12-09 Sun 13:05] =>  0:29
@@ -88,7 +92,7 @@ CLOCK: [2012-12-01 Sat 15:53]--[2012-12-01 Sat 16:48] =>  0:55
 :STYLE: habit
 :REPEAT_TO_STATE: NEXT
 :ID: 2fd02d93-9376-4172-b361-0e865b293007
-:LAST_REPEAT: [2012-12-19 Wed 09:19]
+:LAST_REPEAT: [2012-12-24 Mon 14:55]
 :END:
 *** NEXT High Intensity
     SCHEDULED: <2012-12-23 Sun .+4d/5d>
@@ -166,7 +170,8 @@ CLOCK: [2012-12-02 Sun 16:18]--[2012-12-02 Sun 17:05] =>  0:47
 :LAST_REPEAT: [2012-12-21 Fri 17:47]
 :END:
 *** NEXT Meditate
-    SCHEDULED: <2012-12-20 Thu .+1d/2d>
+    SCHEDULED: <2012-12-25 Tue .+1d/2d>
+    - State "DONE"       from "NEXT"       [2012-12-23 Sun 15:25]
     - State "DONE"       from "NEXT"       [2012-12-19 Wed 08:30]
     - State "DONE"       from "NEXT"       [2012-12-18 Tue 08:15]
     - State "DONE"       from "NEXT"       [2012-12-16 Sun 09:02]
@@ -193,6 +198,7 @@ CLOCK: [2012-12-02 Sun 16:18]--[2012-12-02 Sun 17:05] =>  0:47
     - State "DONE"       from "NEXT"       [2012-11-17 Sat 15:01]
     - State "DONE"       from "NEXT"       [2012-11-16 Fri 14:17]
   :LOGBOOK:
+  CLOCK: [2012-12-23 Sun 14:39]--[2012-12-23 Sun 15:22] =>  0:43
   CLOCK: [2012-12-19 Wed 07:30]--[2012-12-19 Wed 08:30] =>  1:00
   CLOCK: [2012-12-18 Tue 07:15]--[2012-12-18 Tue 08:15] =>  1:00
   CLOCK: [2012-12-16 Sun 15:50]--[2012-12-16 Sun 16:28] =>  0:38
@@ -218,7 +224,7 @@ CLOCK: [2012-12-02 Sun 16:18]--[2012-12-02 Sun 17:05] =>  0:47
 :STYLE: habit
 :REPEAT_TO_STATE: NEXT
 :ID: e2e6b51c-d085-4668-ac4f-9d7e13df147d
-:LAST_REPEAT: [2012-12-19 Wed 09:21]
+:LAST_REPEAT: [2012-12-24 Mon 14:52]
 :END:
 ** Routines 
 *** Template
@@ -960,7 +966,7 @@ Do as many sets as possible in 20 mins.
 | [2012-12-18 Tue 08:18] | 79.3 |
 | [2012-12-19 Wed 06:49] | 78.0 |
 | [2012-12-20 Thu 09:35] | 80.0 |
-
+| [2012-12-23 Sun 08:10] | 77.8|
 ** Control Pause
 ** Temperature
 ** Mood 
