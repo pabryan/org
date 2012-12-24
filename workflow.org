@@ -560,11 +560,13 @@ I'll need to say use my phone to collect the data. I need something easy to cloc
 ** Reviews
 Here I look at my goals, my tasks and how I've been spending my time and use that information to plan out the coming week/month/year etc.
 *** NEXT Weekly Review [0/11]
-    SCHEDULED: <2012-12-24 Mon .+7d/10d>
+    SCHEDULED: <2012-12-31 Mon .+7d/10d>
+    - State "DONE"       from "NEXT"       [2012-12-24 Mon 15:48]
     - State "DONE"       from "NEXT"       [2012-12-17 Mon 14:49]
     - State "DONE"       from "NEXT"       [2012-12-07 Fri 13:44]
     - State "DONE"       from "NEXT"       [2012-11-30 Fri 14:06]
     :LOGBOOK:
+    CLOCK: [2012-12-24 Mon 15:16]--[2012-12-24 Mon 15:48] =>  0:32
     CLOCK: [2012-12-17 Mon 14:14]--[2012-12-17 Mon 14:49] =>  0:35
     CLOCK: [2012-12-17 Mon 13:55]--[2012-12-17 Mon 14:13] =>  0:18
     CLOCK: [2012-12-17 Mon 13:41]--[2012-12-17 Mon 13:55] =>  0:14
@@ -582,7 +584,7 @@ Here I look at my goals, my tasks and how I've been spending my time and use tha
 :REPEAT_TO_STATE: NEXT
 :ID: 846c05fa-21d7-4e6f-8431-a1fa06631945
 :RESET_CHECK_BOXES: t
-    :LAST_REPEAT: [2012-12-17 Mon 14:49]
+    :LAST_REPEAT: [2012-12-24 Mon 15:48]
 :END:
 
 What to review:
