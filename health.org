@@ -7,7 +7,7 @@
 
 ** Schedule
 *** NEXT No Intensity
-    SCHEDULED: <2012-12-24 Mon .+4d/5d>
+    SCHEDULED: <2012-12-26 Wed .+4d/5d>
     - State "DONE"       from "NEXT"       [2012-12-20 Thu 15:16]
     - State "DONE"       from "NEXT"       [2012-12-16 Sun 15:40]
     - State "DONE"       from "NEXT"       [2012-12-11 Tue 07:30]
@@ -36,7 +36,7 @@
 :END:
     
 *** NEXT Low Intensity
-    SCHEDULED: <2012-12-28 Fri .+4d/5d>
+    SCHEDULED: <2012-12-27 Thu .+4d/5d>
     - State "DONE"       from "NEXT"       [2012-12-22 Sat 21:35]
     - State "DONE"       from "NEXT"       [2012-12-21 Fri 16:36]
     - State "DONE"       from "NEXT"       [2012-12-17 Mon 16:28]
