@@ -610,7 +610,8 @@ What to review:
   - then work on NEXT tasks
 
 *** NEXT Weekly collection and clean up [0/1]
-    SCHEDULED: <2012-12-24 Mon .+7d/10d>
+    SCHEDULED: <2012-12-31 Mon .+7d/10d>
+    - State "DONE"       from "NEXT"       [2012-12-24 Mon 15:50]
     - State "DONE"       from "NEXT"       [2012-12-17 Mon 19:53]
     - State "DONE"       from "NEXT"       [2012-12-10 Mon 20:27]
     - State "DONE"       from "NEXT"       [2012-11-30 Fri 14:58]
@@ -626,7 +627,7 @@ What to review:
 :REPEAT_TO_STATE: NEXT
 :RESET_CHECK_BOXES: t
 :ID: d5f309c0-dee9-4f12-af59-e9273ebd6ddf
-:LAST_REPEAT: [2012-12-17 Mon 19:53]
+:LAST_REPEAT: [2012-12-24 Mon 15:50]
 :END:
 
 - [ ] Clean up files
