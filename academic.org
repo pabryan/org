@@ -650,10 +650,11 @@ Talk about ancient solutions of curve shortening flow on $S^2$
 MR2948294
 
 ** NEXT Transcribe notes
-   SCHEDULED: <2012-12-12 Wed .+1w/10d>
+   SCHEDULED: <2013-01-01 Tue .+1w/10d>
+   - State "DONE"       from "NEXT"       [2012-12-24 Mon 16:25]
    - State "DONE"       from "NEXT"       [2012-12-05 Wed 19:55]
     :LOGBOOK:
-  CLOCK: [2012-12-24 Mon 15:51]
+    CLOCK: [2012-12-24 Mon 15:51]--[2012-12-24 Mon 16:25] =>  0:34
     CLOCK: [2012-12-05 Wed 18:48]--[2012-12-05 Wed 18:50] =>  0:02
     CLOCK: [2012-12-05 Wed 17:50]--[2012-12-05 Wed 18:36] =>  0:46
     :END:
@@ -661,7 +662,7 @@ MR2948294
 :STYLE: habit
 :REPEAT_TO_STATE: NEXT
 :ID: 3908a11d-fd52-4335-9257-656bf9bd4692
-:LAST_REPEAT: [2012-12-05 Wed 19:55]
+:LAST_REPEAT: [2012-12-25 Tue 10:24]
 :END:
 
 * Collaborators
