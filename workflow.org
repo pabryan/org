@@ -557,92 +557,6 @@ I'll need to say use my phone to collect the data. I need something easy to cloc
     :ID:       3fb84c1c-628a-4fa3-8408-e2dc3233d729
     :END:
     I want to hang on to emails, articles and so on. I want to keep receipts, ideas and a diary of what I've done. These need to be kept in a filing system somehow, most probaby using org-mode and memacs.
-** Reviews
-Here I look at my goals, my tasks and how I've been spending my time and use that information to plan out the coming week/month/year etc.
-*** NEXT Weekly Review [0/11]
-    SCHEDULED: <2012-12-31 Mon .+7d/10d>
-    - State "DONE"       from "NEXT"       [2012-12-24 Mon 15:48]
-    - State "DONE"       from "NEXT"       [2012-12-17 Mon 14:49]
-    - State "DONE"       from "NEXT"       [2012-12-07 Fri 13:44]
-    - State "DONE"       from "NEXT"       [2012-11-30 Fri 14:06]
-    :LOGBOOK:
-    CLOCK: [2012-12-24 Mon 15:16]--[2012-12-24 Mon 15:48] =>  0:32
-    CLOCK: [2012-12-17 Mon 14:14]--[2012-12-17 Mon 14:49] =>  0:35
-    CLOCK: [2012-12-17 Mon 13:55]--[2012-12-17 Mon 14:13] =>  0:18
-    CLOCK: [2012-12-17 Mon 13:41]--[2012-12-17 Mon 13:55] =>  0:14
-    CLOCK: [2012-12-07 Fri 12:59]--[2012-12-07 Fri 13:43] =>  0:44
-    CLOCK: [2012-12-07 Fri 10:03]--[2012-12-07 Fri 10:53] =>  0:50
-    CLOCK: [2012-11-30 Fri 13:33]--[2012-11-30 Fri 14:07] =>  0:34
-    CLOCK: [2012-11-30 Fri 13:27]--[2012-11-30 Fri 13:33] =>  0:06
-    CLOCK: [2012-11-30 Fri 12:59]--[2012-11-30 Fri 13:26] =>  0:27
-    CLOCK: [2012-11-30 Fri 10:16]--[2012-11-30 Fri 10:52] =>  0:36
-    CLOCK: [2012-11-29 Thu 14:20]--[2012-11-29 Thu 14:26] =>  0:09
-    :END:
-
-    :PROPERTIES:
-:STYLE: habit
-:REPEAT_TO_STATE: NEXT
-:ID: 846c05fa-21d7-4e6f-8431-a1fa06631945
-:RESET_CHECK_BOXES: t
-    :LAST_REPEAT: [2012-12-24 Mon 15:48]
-:END:
-
-What to review:
-
-- [ ] Check follow-up paper folder
-- [ ] Check holding directory
-  [[file:~/Dropbox/holding]]
-- [ ] Check holding email folder
-- [ ] Review weekly agenda =F12 a w//=
-- [ ] Check clocking data for past week =v c=
-  - fix up any errors
-- [ ] Review clock report for past week =R=
-  - Check where we spent time (too much or too little) and rectify this week
-- [ ] Look at entire agenda for today  =F12 SPC=
-- [ ] Review projects =F12 SPC //= and =P= repeatedly to view each project
-  - Unstick stuck projects!
-- [ ] Review somday projects
-- [ ] Plan next week
-- [ ] Check uncommited work
-
-- start work
-  - daily agenda first - knock off items
-  - then work on NEXT tasks
-
-*** NEXT Weekly collection and clean up [0/1]
-    SCHEDULED: <2012-12-31 Mon .+7d/10d>
-    - State "DONE"       from "NEXT"       [2012-12-24 Mon 15:50]
-    - State "DONE"       from "NEXT"       [2012-12-17 Mon 19:53]
-    - State "DONE"       from "NEXT"       [2012-12-10 Mon 20:27]
-    - State "DONE"       from "NEXT"       [2012-11-30 Fri 14:58]
-    :LOGBOOK:
-    CLOCK: [2012-12-17 Mon 19:50]--[2012-12-17 Mon 20:03] =>  0:13
-    CLOCK: [2012-12-10 Mon 20:09]--[2012-12-10 Mon 20:27] =>  0:18
-    CLOCK: [2012-11-30 Fri 14:11]--[2012-11-30 Fri 14:58] =>  0:47
-    CLOCK: [2012-11-29 Thu 14:36]--[2012-11-29 Thu 14:59] =>  0:23
-    :END:
-
-:PROPERTIES:
-:STYLE: habit
-:REPEAT_TO_STATE: NEXT
-:RESET_CHECK_BOXES: t
-:ID: d5f309c0-dee9-4f12-af59-e9273ebd6ddf
-:LAST_REPEAT: [2012-12-24 Mon 15:50]
-:END:
-
-- [ ] Clean up files
-  - Downloads
-  - tmp
-  - tablet
-  - phone
-
-
-Maybe write journal of the week at some stage?
-
-*** Monthly
-*** 6 monthly?
-*** yearly
-*** 5 years?
 ** Schedule tasks
 **** Set next tasks
 **** Capture tasks as I think of them
@@ -951,3 +865,94 @@ CLOCK: [2012-11-26 Mon 08:19]--[2012-11-26 Mon 08:28] =>  0:09
   :ID:       0a16188e-7a1a-4413-a516-5127dcbee30c
   :END:
    
+* Reviews
+  :PROPERTIES:
+  :ID:       c3fc0372-36c9-4bc4-9aac-99a6df0b741d
+  :END:
+** Notes
+Here I look at my goals, my tasks and how I've been spending my time and use that information to plan out the coming week/month/year etc.
+Maybe I should also have work and personal reviews, including reviewing my health scores.
+** NEXT Weekly Review [0/11]
+    SCHEDULED: <2012-12-31 Mon .+7d/10d>
+    - State "DONE"       from "NEXT"       [2012-12-24 Mon 15:48]
+    - State "DONE"       from "NEXT"       [2012-12-17 Mon 14:49]
+    - State "DONE"       from "NEXT"       [2012-12-07 Fri 13:44]
+    - State "DONE"       from "NEXT"       [2012-11-30 Fri 14:06]
+    :LOGBOOK:
+    CLOCK: [2012-12-24 Mon 15:16]--[2012-12-24 Mon 15:48] =>  0:32
+    CLOCK: [2012-12-17 Mon 14:14]--[2012-12-17 Mon 14:49] =>  0:35
+    CLOCK: [2012-12-17 Mon 13:55]--[2012-12-17 Mon 14:13] =>  0:18
+    CLOCK: [2012-12-17 Mon 13:41]--[2012-12-17 Mon 13:55] =>  0:14
+    CLOCK: [2012-12-07 Fri 12:59]--[2012-12-07 Fri 13:43] =>  0:44
+    CLOCK: [2012-12-07 Fri 10:03]--[2012-12-07 Fri 10:53] =>  0:50
+    CLOCK: [2012-11-30 Fri 13:33]--[2012-11-30 Fri 14:07] =>  0:34
+    CLOCK: [2012-11-30 Fri 13:27]--[2012-11-30 Fri 13:33] =>  0:06
+    CLOCK: [2012-11-30 Fri 12:59]--[2012-11-30 Fri 13:26] =>  0:27
+    CLOCK: [2012-11-30 Fri 10:16]--[2012-11-30 Fri 10:52] =>  0:36
+    CLOCK: [2012-11-29 Thu 14:20]--[2012-11-29 Thu 14:26] =>  0:09
+    :END:
+
+    :PROPERTIES:
+:STYLE: habit
+:REPEAT_TO_STATE: NEXT
+:ID: 846c05fa-21d7-4e6f-8431-a1fa06631945
+:RESET_CHECK_BOXES: t
+    :LAST_REPEAT: [2012-12-24 Mon 15:48]
+:END:
+
+What to review:
+
+- [ ] Check follow-up paper folder
+- [ ] Check holding directory
+  [[file:~/Dropbox/holding]]
+- [ ] Check holding email folder
+- [ ] Review weekly agenda =F12 a w//=
+- [ ] Check clocking data for past week =v c=
+  - fix up any errors
+- [ ] Review clock report for past week =R=
+  - Check where we spent time (too much or too little) and rectify this week
+- [ ] Look at entire agenda for today  =F12 SPC=
+- [ ] Review projects =F12 SPC //= and =P= repeatedly to view each project
+  - Unstick stuck projects!
+- [ ] Review somday projects
+- [ ] Plan next week
+- [ ] Check uncommited work
+
+- start work
+  - daily agenda first - knock off items
+  - then work on NEXT tasks
+
+** NEXT Weekly preperation, collection and clean up [0/5]
+    SCHEDULED: <2012-12-31 Mon .+7d/10d>
+    - State "DONE"       from "NEXT"       [2012-12-24 Mon 15:50]
+    - State "DONE"       from "NEXT"       [2012-12-17 Mon 19:53]
+    - State "DONE"       from "NEXT"       [2012-12-10 Mon 20:27]
+    - State "DONE"       from "NEXT"       [2012-11-30 Fri 14:58]
+    :LOGBOOK:
+    CLOCK: [2012-12-17 Mon 19:50]--[2012-12-17 Mon 20:03] =>  0:13
+    CLOCK: [2012-12-10 Mon 20:09]--[2012-12-10 Mon 20:27] =>  0:18
+    CLOCK: [2012-11-30 Fri 14:11]--[2012-11-30 Fri 14:58] =>  0:47
+    CLOCK: [2012-11-29 Thu 14:36]--[2012-11-29 Thu 14:59] =>  0:23
+    :END:
+
+:PROPERTIES:
+:STYLE: habit
+:REPEAT_TO_STATE: NEXT
+:RESET_CHECK_BOXES: t
+:ID: d5f309c0-dee9-4f12-af59-e9273ebd6ddf
+:LAST_REPEAT: [2012-12-24 Mon 15:50]
+:END:
+
+- [ ] Clean up Downloads
+- [ ] Clean up tmp
+- [ ] Clean up tablet
+- [ ] Clean up phone
+- [ ] Set up weekly exercise log
+
+
+Maybe write journal of the week at some stage?
+
+** Monthly
+** 6 monthly?
+** yearly
+** 5 years?
