@@ -1,4 +1,4 @@
-#+LAST_MOBILE_CHANGE: 2012-12-27 10:04:23
+#+LAST_MOBILE_CHANGE: 2012-12-29 11:46:54
 #+FILETAGS: HEALTH
 * Exercise							   :EXERCISE:
   :PROPERTIES:
@@ -101,7 +101,8 @@ CLOCK: [2012-12-01 Sat 15:53]--[2012-12-01 Sat 16:48] =>  0:55
 :LAST_REPEAT: [2012-12-28 Fri 11:41]
 :END:
 *** NEXT High Intensity
-    SCHEDULED: <2012-12-29 Sat .+4d/5d>
+    SCHEDULED: <2013-01-02 Wed .+4d/5d>
+    - State "DONE"       from "NEXT"       [2012-12-29 Sat 11:47]
     - State "DONE"       from "NEXT"       [2012-12-25 Tue 12:22]
     - State "DONE"       from "NEXT"       [2012-12-19 Wed 12:35]
     - State "DONE"       from "NEXT"       [2012-12-15 Sat 17:35]
@@ -112,6 +113,7 @@ CLOCK: [2012-12-01 Sat 15:53]--[2012-12-01 Sat 16:48] =>  0:55
     - State "DONE"       from "NEXT"       [2012-11-22 Thu 10:34]
     - State "DONE"       from "NEXT"       [2012-11-18 Sun 09:59]
 :LOGBOOK:
+CLOCK: [2012-12-29 Sat 11:10]--[2012-12-29 Sat 11:35] =>  0:24
 CLOCK: [2012-12-25 Tue 11:41]--[2012-12-25 Tue 12:21] =>  0:39
 CLOCK: [2012-12-19 Wed 11:52]--[2012-12-19 Wed 12:34] =>  0:41
 CLOCK: [2012-12-15 Sat 16:46]--[2012-12-15 Sat 17:35] =>  0:49
@@ -123,7 +125,7 @@ CLOCK: [2012-12-02 Sun 16:18]--[2012-12-02 Sun 17:05] =>  0:47
 :STYLE: habit
 :REPEAT_TO_STATE: NEXT
 :ID: d52c3978-eea8-457c-b9c9-1a38d6d54a88
-:LAST_REPEAT: [2012-12-27 Thu 10:22]
+:LAST_REPEAT: [2012-12-29 Sat 11:47]
 :END:
 *** NEXT Eye exercises
     SCHEDULED: <2012-12-28 Fri .+1d/2d>
