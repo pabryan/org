@@ -233,9 +233,11 @@ Can we suspend loan repayments for a few months?
    :END:
 [2012-12-18 Tue 11:33]
 
-** TODO Check insurance
+** DONE Check insurance
   DEADLINE: <2012-12-29 Sat> SCHEDULED: <2012-12-23 Sun>
+  - State "DONE"       from "NEXT"       [2012-12-29 Sat 15:57]
   :LOGBOOK:
+  CLOCK: [2012-12-29 Sat 15:44]--[2012-12-29 Sat 15:57] =>  0:13
   :END:
    :PROPERTIES:
    :ID:       2ed5dd0f-df37-4df0-b05a-b197adf90626
