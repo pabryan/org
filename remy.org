@@ -40,21 +40,23 @@ $14 family
    :END:
 <2012-11-27 Tue 02:30-02:50>
 
-** Charter schools
-*** SDCC
-[[www.sdccs.org]]
-
-*** Innovations academy
-[[http://innovationsacademy.org]]
-*** Museum school
-[[http://museumschool.org/]]
-*** Balboa school
-[[http://www.balboaschool.com/]]
-*** Urban discovery
-[[http://c2.urbansd.schoolwires.net/]]
-*** Explorer elementary
-[[http://www.hightechhigh.org/schools/EECS/]]
-*** 
+** NEXT Apply for Charter schools [1/6]
+   :PROPERTIES:
+   :ID:       e295b7ee-8125-4d6b-abf8-7087db5d0136
+   :END:
+- [X] SDCC
+   [[www.sdccs.org]]
+- [ ] Innovations academy
+   [[http://innovationsacademy.org]]
+- [ ] Museum school
+   [[http://museumschool.org/]]
+- [ ] Balboa school
+   [[http://www.balboaschool.com/]]
+- [ ] Urban discovery
+   [[http://c2.urbansd.schoolwires.net/]]
+- [ ] Explorer elementary
+   [[http://www.hightechhigh.org/schools/EECS/]]
+ 
 ** SOMEDAY Research authentic learning
   CLOCK: [2012-10-14 Sun 19:55]--[2012-10-14 Sun 19:55] =>  0:00
    :PROPERTIES:
