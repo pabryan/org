@@ -323,7 +323,7 @@ e.g.           0.4 * (180 - 60) + 60 = 108
 | Rest HR | Average HR | Score | Tech | Eff | Disc |
 |---------+------------+-------+------+-----+------|
 |         |          0 |     0 |    0 |   0 |    0 |
-       #+TBLFM: @2$2=vmean(remote(<DATE>RAW,@2$11..@7$11)::@2$3=vsum(remote(<DATE>RAW,@2$10..@7$10))::@2$4=vmean(remote(<DATE>RAW,@2$12..@7$12))::@2$5=vmean(remote(<DATE>RAW,@2$13..@7$13))::@2$6=vmean(remote(<DATE>RAW,@2$14..@7$14))
+       #+TBLFM: @2$2=vmean(remote(<DATE>RAW,@2$11..@7$11))::@2$3=vsum(remote(<DATE>RAW,@2$10..@7$10))::@2$4=vmean(remote(<DATE>RAW,@2$12..@7$12))::@2$5=vmean(remote(<DATE>RAW,@2$13..@7$13))::@2$6=vmean(remote(<DATE>RAW,@2$14..@7$14))
 
 ***** 4/1X4
 #+TBLNAME: <DATE>RAW
