@@ -411,11 +411,11 @@ Archive the lot! Organise into folders/tags whatever. gmail can be the main repo
    :PROPERTIES:
    :ID:       a3636804-e3d4-44e3-8872-13a3daac919b
    :END:
-*** NEXT Set up BBDB with emacs
+*** NEXT Set up BBDB or org-contacts with emacs
     :PROPERTIES:
     :ID:       bbd84d11-e23b-42b6-bd04-be9f6af128f4
     :END:
-*** TODO Enter contacts into BBDB
+*** TODO Enter contacts into database 
     :PROPERTIES:
     :ID:       8c01e987-6ae4-4368-9109-ccadb7a56fe0
     :END:
@@ -434,7 +434,7 @@ Archive the lot! Organise into folders/tags whatever. gmail can be the main repo
 ***** Steve Roberts
 ***** Janet Engebretsen
 ***** Friend and family
-*** TODO Sync BBDB with google, phone etc.
+*** TODO Sync contact db with google, phone etc.
     :PROPERTIES:
     :ID:       42384e87-7e0e-4abc-97d3-e1773f899d54
     :END:
@@ -568,7 +568,7 @@ I'll need to say use my phone to collect the data. I need something easy to cloc
   :PROPERTIES:
   :ID:       c2fcfce7-e205-444a-80fd-0d9cab0e9c7a
   :END:
-[2012-11-20 Tue 11:04]
+[2012-11-20 Tue 11:04
 * office layout
   :PROPERTIES:
   :ID:       827968af-420f-40a1-ac2d-4bbe7192cbc1
