@@ -384,7 +384,6 @@ Do as many sets as possible in 20 mins.
 |         |          0 |     0 |    0 |   0 |    0 |
        #+TBLFM: @2$2=vmean(remote(<DATE>RAW,@2$5..@6$6)::@2$3=vsum(remote(<DATE>RAW,@2$4..@6$4))::@2$4=vmean(remote(<DATE>RAW,@2$7..@6$8))::@2$5=vmean(remote(<DATE>RAW,@2$9..@6$10))::@2$6=vmean(remote(<DATE>RAW,@2$11..@6$12))
 
-
 ***** AFAP
 #+TBLNAME: <DATE>SUMMARY
 | Rest HR | Final HR | Time  | Tech | Eff | Disc |
