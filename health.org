@@ -7,7 +7,7 @@
 
 ** Schedule
 *** NEXT No Intensity
-    SCHEDULED: <2012-12-30 Sun .+4d/5d>
+    SCHEDULED: <2013-01-03 Thu .+4d/5d>
     - State "DONE"       from "NEXT"       [2012-12-26 Wed 18:15]
     - State "DONE"       from "NEXT"       [2012-12-20 Thu 15:16]
     - State "DONE"       from "NEXT"       [2012-12-16 Sun 15:40]
@@ -38,7 +38,7 @@
 :END:
     
 *** NEXT Low Intensity
-    SCHEDULED: <2012-12-31 Mon .+4d/5d>
+    SCHEDULED: <2013-01-01 Tue .+4d/5d>
     - State "DONE"       from "NEXT"       [2012-12-27 Thu 18:15]
     - State "DONE"       from "NEXT"       [2012-12-22 Sat 21:35]
     - State "DONE"       from "NEXT"       [2012-12-21 Fri 16:36]
@@ -75,7 +75,7 @@ CLOCK: [2012-11-20 Tue 15:30]--[2012-11-20 Tue 16:00] =>  0:30
 :END:
 
 *** NEXT Mod Intensity
-    SCHEDULED: <2013-01-01 Tue .+4d/5d>
+    SCHEDULED: <2013-01-05 Sat .+4d/5d>
     - State "DONE"       from "NEXT"       [2012-12-28 Fri 11:41]
     - State "DONE"       from "NEXT"       [2012-12-24 Mon 12:05]
     - State "DONE"       from "NEXT"       [2012-12-18 Tue 09:19]
@@ -102,7 +102,7 @@ CLOCK: [2012-12-01 Sat 15:53]--[2012-12-01 Sat 16:48] =>  0:55
 :LAST_REPEAT: [2012-12-28 Fri 11:41]
 :END:
 *** NEXT High Intensity
-    SCHEDULED: <2013-01-02 Wed .+4d/5d>
+    SCHEDULED: <2013-01-06 Sun .+4d/5d>
     - State "DONE"       from "NEXT"       [2012-12-29 Sat 11:47]
     - State "DONE"       from "NEXT"       [2012-12-25 Tue 12:22]
     - State "DONE"       from "NEXT"       [2012-12-19 Wed 12:35]
