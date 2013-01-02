@@ -536,7 +536,7 @@ Update this based on Bo's comments.
      :PROPERTIES:
      :ID:       45ce5522-5bec-47f1-8e4f-8e821e842188
      :END:
-**** TODO Set Homework 1
+**** NEXT Set Homework 1
      SCHEDULED: <2013-01-02 Wed>
      DEADLINE: <2013-01-04 Fri>
      :PROPERTIES:
@@ -571,7 +571,7 @@ Update this based on Bo's comments.
      :ID:       a09fcef3-939e-41f8-bc9e-19a7f3bdea8e
      :END:
 
-**** TODO Make website
+**** NEXT Make website
     SCHEDULED: <2013-01-02 Wed>
      DEADLINE: <2013-01-04 Fri>
      :PROPERTIES:
@@ -644,6 +644,56 @@ Update this based on Bo's comments.
    :PROPERTIES:
    :ID:       fa6cea64-9d5f-462e-8240-9f423a327330
    :END:
+*** Somali's talk
+    <2013-01-08 Tue 10:00-11:00>
+**** Details
+Speaker: Christina Sormani
+Home Institution: CUNY
+Faculty Host: Lei Ni
+Date: 08 Jan 2013
+Seminar Name: Differential Geometry
+Title: The Tetrahedral Property and Intrinsic Flat Convergence.
+Start Time: 10 am
+Location: AP&M 7218
+
+Abstract:
+
+We present the Tetrahedral Compactness Theorem which states that sequences
+of Riemannian manifolds with a uniform upper bound on volume and diameter
+that satisfy a uniform tetrahedral property have a subsequence which
+converges in the Gromov-Hausdorff sense to a countably $\mathcal{H}^m$
+rectifiable metric space of the same dimension. The tetrahedral property
+depends only on distances between points in spheres, yet we show it provides
+a lower bound on the volumes of balls. The proof is based upon intrinsic
+flat convergence and a new notion called the sliced filling volume of a
+ball.
+
+*** Christian Baer's talk
+    <2013-01-10 Thu 15:00-16:00>
+**** Details
+Speaker: Christian Baer
+Home Institution: Universitat Potsdam
+Faculty Host: Lei Ni
+Date: 10 Jan 2013
+Seminar Name: Differential Geometry
+Title: Geometrically formal 4-manifolds with nonnegative sectional curvature
+Start Time: 3 pm
+Location: AP&M 7218
+
+Abstract:
+
+A Riemannian manifold is called geometrically formal if the wedge
+product of any two harmonic forms is again harmonic. We classify
+geometrically formal compact 4-manifolds with nonnegative sectional
+curvature. If the sectional curvature is strictly positive, the
+manifold must be homeomorphic to S^4 or to CP^2. In particular, the
+Hopf conjecture on S^2 x S^2 holds in the class of geometrically
+formal manifolds.
+If the sectional curvature is strictly positive and we relax the
+condition of geometric formality to the requirement that the length of
+harmonic 2-forms is not too nonconstant, then the manifold must be
+homeomorphic to S^4 or to a connected sum of CP^2s.
+
 *** DONE 20121025 Talk
    - State "DONE"       from "TODO"       [2012-10-31 Wed 10:47]
   CLOCK: [2012-10-17 Wed 10:31]--[2012-10-17 Wed 10:31] =>  0:00
@@ -668,7 +718,7 @@ Update this based on Bo's comments.
     :PROPERTIES:
     :ID:       4c4bf1f0-c81d-4fb5-b970-9da250ba0b4e
     :END:
-    <2013-01-08 Tue 10:00-11:00 +1w>
+    <2013-01-17 Thu 10:00-11:00 +1w>
 *** NEXT Send DG seminar email announcement
     - State "DONE"       from "NEXT"       [2012-12-06 Thu 14:00]
     - State "DONE"       from "TODO"       [2012-11-29 Thu 09:46]
@@ -692,29 +742,6 @@ Update this based on Bo's comments.
 [2012-11-27 Tue 12:32]
 
 [2013-01-08 Tue 10:00-11:00]
-
-**** Details
-Speaker: Christina Sormani
-Home Institution: CUNY
-Faculty Host: Lei Ni
-Date: 08 Jan 2013
-Seminar Name: Differential Geometry
-Title: The Tetrahedral Property and Intrinsic Flat Convergence.
-Start Time: 10 am
-Location: AP&M 7218
-
-Abstract:
-
-We present the Tetrahedral Compactness Theorem which states that sequences
-of Riemannian manifolds with a uniform upper bound on volume and diameter
-that satisfy a uniform tetrahedral property have a subsequence which
-converges in the Gromov-Hausdorff sense to a countably $\mathcal{H}^m$
-rectifiable metric space of the same dimension. The tetrahedral property
-depends only on distances between points in spheres, yet we show it provides
-a lower bound on the volumes of balls. The proof is based upon intrinsic
-flat convergence and a new notion called the sliced filling volume of a
-ball.
-
 *** DONE Organise Christian Baer's talk
     - State "DONE"       from "NEXT"       [2012-12-20 Thu 11:05]
     :LOGBOOK:
@@ -725,30 +752,6 @@ ball.
     :ID:       4dbf35d8-5f13-4bcb-9abc-d0d13f2d7551
     :END:
 [2013-01-10 Thu 15:00-16:00]
-
-**** Details
-Speaker: Christian Baer
-Home Institution: Universitat Potsdam
-Faculty Host: Lei Ni
-Date: 10 Jan 2013
-Seminar Name: Differential Geometry
-Title: Geometrically formal 4-manifolds with nonnegative sectional curvature
-Start Time: 3 pm
-Location: AP&M 7218
-
-Abstract:
-
-A Riemannian manifold is called geometrically formal if the wedge
-product of any two harmonic forms is again harmonic. We classify
-geometrically formal compact 4-manifolds with nonnegative sectional
-curvature. If the sectional curvature is strictly positive, the
-manifold must be homeomorphic to S^4 or to CP^2. In particular, the
-Hopf conjecture on S^2 x S^2 holds in the class of geometrically
-formal manifolds.
-If the sectional curvature is strictly positive and we relax the
-condition of geometric formality to the requirement that the length of
-harmonic 2-forms is not too nonconstant, then the manifold must be
-homeomorphic to S^4 or to a connected sum of CP^2s.
 
 *** TODO Give talk on Brendle's proof of Lawson conjecture
   :LOGBOOK:
