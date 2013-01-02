@@ -490,6 +490,7 @@ Update this based on Bo's comments.
 [[file:~/working/ucsd/teaching/math142B_winter_2013]]
 *** TODO Plan MATH142B course
     :LOGBOOK:
+    CLOCK: [2013-01-02 Wed 10:38]
     :END:
     :PROPERTIES:
     :ID:       15fccd9a-a1ed-41b6-a3bb-fdb03475e91d
@@ -502,11 +503,12 @@ Update this based on Bo's comments.
      :PROPERTIES:
      :ID:       02669ad2-413d-4cc6-8e4e-2024b6a3878b
      :END:
-**** NEXT Make course outline
+**** DONE Make course outline
      SCHEDULED: <2013-01-02 Wed>
+     - State "DONE"       from "NEXT"       [2013-01-02 Wed 10:30]
      DEADLINE: <2013-01-04 Fri>
      :LOGBOOK:
-     CLOCK: [2013-01-02 Wed 10:10]
+     CLOCK: [2013-01-02 Wed 10:10]--[2013-01-02 Wed 10:30] =>  0:20
      CLOCK: [2013-01-02 Wed 09:35]--[2013-01-02 Wed 09:53] =>  0:18
      CLOCK: [2012-12-11 Tue 16:15]--[2012-12-11 Tue 16:47] =>  0:32
      CLOCK: [2012-12-11 Tue 12:08]--[2012-12-11 Tue 13:06] =>  0:57
