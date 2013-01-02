@@ -490,7 +490,7 @@ Update this based on Bo's comments.
 [[file:~/working/ucsd/teaching/math142B_winter_2013]]
 *** TODO Plan MATH142B course
     :LOGBOOK:
-    CLOCK: [2013-01-02 Wed 10:38]
+    CLOCK: [2013-01-02 Wed 10:38]--[2013-01-02 Wed 10:39] =>  0:01
     :END:
     :PROPERTIES:
     :ID:       15fccd9a-a1ed-41b6-a3bb-fdb03475e91d
@@ -541,9 +541,13 @@ Update this based on Bo's comments.
      :PROPERTIES:
      :ID:       45ce5522-5bec-47f1-8e4f-8e821e842188
      :END:
-**** NEXT Set Homework 1
+**** DONE Set Homework 1
      SCHEDULED: <2013-01-02 Wed>
+     - State "DONE"       from "NEXT"       [2013-01-02 Wed 10:46]
      DEADLINE: <2013-01-04 Fri>
+     :LOGBOOK:
+     CLOCK: [2013-01-02 Wed 10:39]--[2013-01-02 Wed 10:46] =>  0:07
+     :END:
      :PROPERTIES:
      :ID:       06696ba2-fa0c-4160-8f8c-d52c0e118378
      :END:
@@ -580,6 +584,7 @@ Update this based on Bo's comments.
     SCHEDULED: <2013-01-02 Wed>
      DEADLINE: <2013-01-04 Fri>
      :LOGBOOK:
+     CLOCK: [2013-01-02 Wed 10:46]
      CLOCK: [2013-01-02 Wed 09:53]--[2013-01-02 Wed 10:01] =>  0:08
      :END:
      :PROPERTIES:
