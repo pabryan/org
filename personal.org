@@ -47,17 +47,17 @@ END:
 | Eggs (2 cartons)                         |   8 |
 | Milk (2 bottles)                         |   8 |
 | Bread (1 tortilla, wrap, loaf or bagels) |   8 |
-| Pasta (2 packs)                          |   3 |
 | Mushrooms (3 packs)                      |   6 |
 | Bananans (1 bunch)                       |   3 |
 | Avocados (3)                             |   5 |
-| Cereal (1 box)                           |   5 |
 | Onions (5)                               |   3 |
+| Carrots (1 bag)                          |   2 |
+| Kids Meat (1 pack)                       |   5 |
+| Pasta (2 packs)                          |   3 |
+| Cereal (1 box)                           |   5 |
 | Tin tomato (2)                           |   3 |
 | Tin beans (2)                            |   3 |
 | Crackers (1 box)                         |   3 |
-| Carrots (1 bag)                          |   2 |
-| Kids Meat (1 packO                       |   5 |
 |                                          |     |
 | Total                                    | 107 |
    #+TBLFM: @18$2=vsum(@2$2..@16$2)
