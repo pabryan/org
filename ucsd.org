@@ -573,7 +573,7 @@ Update this based on Bo's comments.
      :ID:       f5011f08-eaf0-4429-9041-1f2284de87a5
      :END:
 
-**** TODO Set Homework 5    
+**** TODO Set Homework 5
      SCHEDULED: <2013-02-25 Mon> 
      DEADLINE: <2013-03-01 Fri>    
      :PROPERTIES:
@@ -583,6 +583,8 @@ Update this based on Bo's comments.
 **** TODO Make website
     SCHEDULED: <2013-01-02 Wed>
      DEADLINE: <2013-01-04 Fri>
+     :LOGBOOK:
+     :END:
      :PROPERTIES:
      :ID:       6d96956c-1f73-4395-bc03-f448e8f69b73
      :END:
@@ -604,6 +606,181 @@ Update this based on Bo's comments.
       :PROPERTIES:
       :ID:       4a7228cb-ec14-4503-bab6-bf5396cda0bd
       :END:
+**** TODO Prepare lectures
+     :PROPERTIES:
+     :ID:       cb6490d4-44bd-4622-8b1e-b0c7233b53e2
+     :END:
+***** TODO Week 1
+      DEADLINE: <2013-01-06 Sun> SCHEDULED: <2013-01-02 Wed>
+      :PROPERTIES:
+      :ID:       ba6bb075-0ca2-4a8c-b92e-97a363939457
+      :END:
+
+****** NEXT Prepare lecture 1-1
+       :PROPERTIES:
+       :ID:       2dd13cd5-878c-45f5-b887-2025656d3c2a
+       :END:
+****** NEXT Prepare lecture 1-2
+       :PROPERTIES:
+       :ID:       6fdfb560-c451-49f4-8029-375abe3195c1
+       :END:
+****** NEXT Prepare lecture 1-3
+       :PROPERTIES:
+       :ID:       f6681d84-5682-4661-ae59-7deb55c886e3
+       :END:
+***** TODO Week 2
+      DEADLINE: <2013-01-13 Sun> SCHEDULED: <2013-01-07 Mon>
+      :PROPERTIES:
+      :ID:       f6d6f89c-b487-491d-8a78-e0c0b58528d7
+      :END:
+****** NEXT Prepare lecture 2-1
+       :PROPERTIES:
+       :ID:       8dadd573-ff8b-44df-ba78-ca6be94f30c1
+       :END:
+****** NEXT Prepare lecture 2-2
+       :PROPERTIES:
+       :ID:       0e8d94d0-dd5f-4755-b59f-e3224de25f86
+       :END:
+****** NEXT Prepare lecture 2-3
+       :PROPERTIES:
+       :ID:       c6a0022f-801e-4e45-b4bc-8404cc93ac5a
+       :END:
+***** TODO Week 3
+      DEADLINE: <2013-01-20 Sun> SCHEDULED: <2013-01-14 Mon>
+      :PROPERTIES:
+      :ID:       fb6eda16-71c7-4e4f-a52e-08debcd12a4b
+      :END:
+****** NEXT Prepare lecture 3-1
+       :PROPERTIES:
+       :ID:       deac5b5c-6b43-43bd-9e98-85a56777223c
+       :END:
+****** NEXT Prepare lecture 3-2
+       :PROPERTIES:
+       :ID:       14b2a55e-5d95-440a-a647-99130378dbd7
+       :END:
+****** NEXT Prepare lecture 3-3
+       :PROPERTIES:
+       :ID:       53280d46-7374-4db8-b5fb-c5f4fe56b278
+       :END:
+***** TODO Week 4
+      DEADLINE: <2013-01-27 Sun> SCHEDULED: <2013-01-21 Mon>
+      :PROPERTIES:
+      :ID:       d05d375a-639f-49fe-bc9f-a0df4ed6b1ad
+      :END:
+****** NEXT Prepare lecture 4-1
+       :PROPERTIES:
+       :ID:       5b00bb2d-ada5-43f5-a4b4-382750912814
+       :END:
+****** NEXT Prepare lecture 4-2
+       :PROPERTIES:
+       :ID:       cb6d3c78-4d1e-4218-aad5-58dcd9b5ec8f
+       :END:
+****** NEXT Prepare lecture 4-3
+       :PROPERTIES:
+       :ID:       9575858b-31b4-4b68-9e94-4d2b0d5669cd
+       :END:
+***** TODO Week 5
+      DEADLINE: <2013-02-03 Sun> SCHEDULED: <2013-01-28 Mon>
+      :PROPERTIES:
+      :ID:       4095d747-2722-4976-b7c7-29f859d24435
+      :END:
+****** NEXT Prepare lecture 5-1
+       :PROPERTIES:
+       :ID:       22ef6e3a-e7f4-462a-b971-fce043c94e5c
+       :END:
+****** NEXT Prepare lecture 5-2
+       :PROPERTIES:
+       :ID:       85e752d4-8245-4cdd-b2af-221c32314759
+       :END:
+****** NEXT Prepare lecture 5-3
+       :PROPERTIES:
+       :ID:       5a93b1cc-4a21-4077-898d-9a80ce4454f3
+       :END:
+***** TODO Week 6
+      DEADLINE: <2013-02-10 Sun> SCHEDULED: <2013-02-04 Mon>
+      :PROPERTIES:
+      :ID:       13df5819-9bc8-4698-ae0b-8e7d40f04291
+      :END:
+****** NEXT Prepare lecture 6-1
+       :PROPERTIES:
+       :ID:       1ac9cf84-a88c-4ad2-9d5c-2448bf294c1a
+       :END:
+****** NEXT Prepare lecture 6-2
+       :PROPERTIES:
+       :ID:       ec955558-0d0a-46cf-8c64-37e330fb619b
+       :END:
+****** NEXT Prepare lecture 6-3
+       :PROPERTIES:
+       :ID:       cdd0f5ba-382d-4c8d-86af-7ab673ef2c77
+       :END:
+***** TODO Week 7
+      DEADLINE: <2013-02-17 Sun> SCHEDULED: <2013-02-11 Mon>
+      :PROPERTIES:
+      :ID:       b6cce85d-073b-47ff-87e3-b321ac9c9173
+      :END:
+****** NEXT Prepare lecture 7-1
+       :PROPERTIES:
+       :ID:       592c87f7-7fe5-4847-a9c9-4c0793a5995f
+       :END:
+****** NEXT Prepare lecture 7-2
+       :PROPERTIES:
+       :ID:       f9a8188c-2c84-4c0a-95b4-68fa0b6390c4
+       :END:
+****** NEXT Prepare lecture 7-3
+       :PROPERTIES:
+       :ID:       47d24ed2-c63f-4193-a0bb-d76f33fb577e
+       :END:
+***** TODO Week 8
+      DEADLINE: <2013-02-24 Sun> SCHEDULED: <2013-02-18 Mon>
+      :PROPERTIES:
+      :ID:       7caeed49-8f45-4df4-80a5-50ad4cae3bc7
+      :END:
+****** NEXT Prepare lecture 8-1
+       :PROPERTIES:
+       :ID:       8be202f9-391d-4692-beaa-ffa573c3d547
+       :END:
+****** NEXT Prepare lecture 8-2
+       :PROPERTIES:
+       :ID:       5f9aacb9-2e74-4906-a45b-ce9b0075d8c3
+       :END:
+****** NEXT Prepare lecture 8-3
+       :PROPERTIES:
+       :ID:       d82697a4-f67e-4497-86e3-e28be4bff2e1
+       :END:
+***** TODO Week 9
+      DEADLINE: <2013-03-03 Sun> SCHEDULED: <2013-02-25 Mon>
+      :PROPERTIES:
+      :ID:       0cf82863-ff47-4f85-9e7c-5325574f63e7
+      :END:
+****** NEXT Prepare lecture 9-1
+       :PROPERTIES:
+       :ID:       acd4a608-a8c6-4acd-8837-43b7cb475613
+       :END:
+****** NEXT Prepare lecture 9-2
+       :PROPERTIES:
+       :ID:       7582a7c1-1720-48e4-bc8b-24407260541a
+       :END:
+****** NEXT Prepare lecture 9-3
+       :PROPERTIES:
+       :ID:       7895874a-ffb2-48d9-8252-c4131d248f85
+       :END:
+***** TODO Week 10
+      DEADLINE: <2013-03-10 Sun> SCHEDULED: <2013-03-04 Mon>
+      :PROPERTIES:
+      :ID:       0ce633a5-c530-49b7-8f10-4ee12f0f4274
+      :END:
+****** NEXT Prepare lecture 10-1
+       :PROPERTIES:
+       :ID:       67b2f2a5-61bc-4959-b9e5-edad86e3a409
+       :END:
+****** NEXT Prepare lecture 10-2
+       :PROPERTIES:
+       :ID:       ee541e2f-5248-487e-8d69-b72382de8dcd
+       :END:
+****** NEXT Prepare lecture 10-3
+       :PROPERTIES:
+       :ID:       234b6d63-fcf8-451c-8075-b327a6264425
+       :END:
 *** TODO Check out podcasting course
   :LOGBOOK:
   :END:
