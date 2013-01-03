@@ -602,11 +602,17 @@ Update this based on Bo's comments.
 
 ***** NEXT Research org-export
       :LOGBOOK:
-      CLOCK: [2013-01-03 Thu 14:01]
       CLOCK: [2013-01-03 Thu 13:31]--[2013-01-03 Thu 13:56] =>  0:25
       :END:
       :PROPERTIES:
       :ID:       5a864ba1-934c-4473-a018-6b0404c7f8a4
+      :END:
+***** NEXT Set up org-export
+      :LOGBOOK:
+      CLOCK: [2013-01-03 Thu 14:00]
+      :END:
+      :PROPERTIES:
+      :ID:       6977f646-c3b4-4a63-b196-f5d18212332a
       :END:
 ***** TODO Publish
       :PROPERTIES:
