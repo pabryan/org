@@ -601,6 +601,9 @@ Update this based on Bo's comments.
       :END:
 
 ***** NEXT Research org-export
+      :LOGBOOK:
+      CLOCK: [2013-01-03 Thu 13:31]
+      :END:
       :PROPERTIES:
       :ID:       5a864ba1-934c-4473-a018-6b0404c7f8a4
       :END:

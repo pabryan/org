@@ -665,6 +665,14 @@ Also could have dry snacks, tinned stuff like sardines and so on.
     :ID:       0e0ec6e9-ce54-49ca-924b-dc9957f63d33
     :END:
 
+** TODO Research standing desk/writing easal
+  :LOGBOOK:
+  :END:
+   :PROPERTIES:
+   :ID:       76c56493-e7eb-4771-88e9-6d6384ade9b7
+   :END:
+[2013-01-03 Thu 13:31]
+
 * Computer setup
   :PROPERTIES:
   :ID:       2caac482-7221-4934-a479-25d3cbb12d55
@@ -776,7 +784,7 @@ Files go into Dropbox and versioned controlled hosted on bitbucket
   :END:
 ** Organisation
 :LOGBOOK:
-CLOCK: [2013-01-03 Thu 13:25]
+CLOCK: [2013-01-03 Thu 13:25]--[2013-01-03 Thu 13:31] =>  0:06
 CLOCK: [2013-01-03 Thu 12:59]--[2013-01-03 Thu 13:07] =>  0:08
 CLOCK: [2013-01-03 Thu 12:45]--[2013-01-03 Thu 12:59] =>  0:14
 CLOCK: [2013-01-03 Thu 10:18]--[2013-01-03 Thu 10:30] =>  0:12
