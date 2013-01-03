@@ -589,9 +589,10 @@ Update this based on Bo's comments.
      :ID:       6d96956c-1f73-4395-bc03-f448e8f69b73
      :END:
 
-***** NEXT Write content
+***** DONE Write content
+      - State "DONE"       from "NEXT"       [2013-01-03 Thu 13:25]
      :LOGBOOK:
-     CLOCK: [2013-01-03 Thu 13:07]
+     CLOCK: [2013-01-03 Thu 13:07]--[2013-01-03 Thu 13:25] =>  0:18
      CLOCK: [2013-01-02 Wed 10:46]--[2013-01-02 Wed 11:01] =>  0:15
      CLOCK: [2013-01-02 Wed 09:53]--[2013-01-02 Wed 10:01] =>  0:08
      :END:
