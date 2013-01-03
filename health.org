@@ -7,7 +7,8 @@
 
 ** Schedule
 *** NEXT No Intensity
-    SCHEDULED: <2013-01-03 Thu .+4d/5d>
+    SCHEDULED: <2013-01-07 Mon .+4d/5d>
+    - State "DONE"       from "NEXT"       [2013-01-03 Thu 11:20]
     - State "DONE"       from "NEXT"       [2012-12-26 Wed 18:15]
     - State "DONE"       from "NEXT"       [2012-12-20 Thu 15:16]
     - State "DONE"       from "NEXT"       [2012-12-16 Sun 15:40]
@@ -33,7 +34,7 @@
 :PROPERTIES:
 :STYLE: habit
 :REPEAT_TO_STATE: NEXT
-:LAST_REPEAT: [2012-12-27 Thu 10:24]
+:LAST_REPEAT: [2013-01-03 Thu 11:20]
 :ID: e38c9566-fca4-46e5-bf5f-a6c98c63f9f2
 :END:
     
