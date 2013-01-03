@@ -602,6 +602,7 @@ Update this based on Bo's comments.
 
 ***** NEXT Research org-export
       :LOGBOOK:
+      CLOCK: [2013-01-03 Thu 14:37]
       CLOCK: [2013-01-03 Thu 13:31]--[2013-01-03 Thu 13:56] =>  0:25
       :END:
       :PROPERTIES:
@@ -609,7 +610,8 @@ Update this based on Bo's comments.
       :END:
 ***** NEXT Set up org-export
       :LOGBOOK:
-      CLOCK: [2013-01-03 Thu 14:00]
+      CLOCK: [2013-01-03 Thu 14:32]--[2013-01-03 Thu 14:37] =>  0:05
+      CLOCK: [2013-01-03 Thu 14:00]--[2013-01-03 Thu 14:28] =>  0:28
       :END:
       :PROPERTIES:
       :ID:       6977f646-c3b4-4a63-b196-f5d18212332a
