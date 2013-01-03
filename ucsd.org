@@ -580,17 +580,30 @@ Update this based on Bo's comments.
      :ID:       a09fcef3-939e-41f8-bc9e-19a7f3bdea8e
      :END:
 
-**** NEXT Make website
+**** TODO Make website
     SCHEDULED: <2013-01-02 Wed>
      DEADLINE: <2013-01-04 Fri>
-     :LOGBOOK:
-     CLOCK: [2013-01-02 Wed 10:46]--[2013-01-02 Wed 11:01] =>  0:15
-     CLOCK: [2013-01-02 Wed 09:53]--[2013-01-02 Wed 10:01] =>  0:08
-     :END:
      :PROPERTIES:
      :ID:       6d96956c-1f73-4395-bc03-f448e8f69b73
      :END:
 
+***** NEXT Write content
+     :LOGBOOK:
+     CLOCK: [2013-01-02 Wed 10:46]--[2013-01-02 Wed 11:01] =>  0:15
+     CLOCK: [2013-01-02 Wed 09:53]--[2013-01-02 Wed 10:01] =>  0:08
+     :END:
+      :PROPERTIES:
+      :ID:       9e989cf2-368d-4eb8-a557-343d42fbd464
+      :END:
+
+***** NEXT Research org-export
+      :PROPERTIES:
+      :ID:       5a864ba1-934c-4473-a018-6b0404c7f8a4
+      :END:
+***** TODO Publish
+      :PROPERTIES:
+      :ID:       4a7228cb-ec14-4503-bab6-bf5396cda0bd
+      :END:
 *** TODO Check out podcasting course
   :LOGBOOK:
   :END:
