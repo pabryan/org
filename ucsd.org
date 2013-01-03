@@ -591,6 +591,7 @@ Update this based on Bo's comments.
 
 ***** NEXT Write content
      :LOGBOOK:
+     CLOCK: [2013-01-03 Thu 13:07]
      CLOCK: [2013-01-02 Wed 10:46]--[2013-01-02 Wed 11:01] =>  0:15
      CLOCK: [2013-01-02 Wed 09:53]--[2013-01-02 Wed 10:01] =>  0:08
      :END:
