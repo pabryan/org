@@ -245,6 +245,19 @@ Want it to use my settings, macros etc.
    :ID:       f0e4da95-958f-4871-91bf-3eb156e22d3f
    :END:
 [2012-12-14 Fri 11:53]
+** Web Publishing
+*** Links
+[[http://orgmode.org/manual/Publishing.html]]
+[[http://orgmode.org/manual/Exporting.html]]
+[[http://orgmode.org/worg/org-tutorials/org-publish-html-tutorial.html]]
+[[http://orgmode.org/worg/worg-setup.html]]
+[[http://stackoverflow.com/questions/12052013/beautiful-websites-using-emacss-or]]g-mode
+[[http://danamlund.dk/emacs/orgsite.html]]
+[[http://trashbird1240.wordpress.com/2012/01/17/set-up-a-website-using-emacs-org-mode/]]
+[[http://doc.norang.ca/org-mode.html#Publishing]]
+[[http://justinlilly.com/emacs/orgmode_static_site_generator.html]]
+
+
 * process
   :PROPERTIES:
   :ID:       403ba6c9-9a32-430c-b0c9-0b09f2eba44e
