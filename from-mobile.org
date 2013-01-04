@@ -5,3 +5,42 @@
 
 
 
+
+
+* Body was changed in MobileOrg and on the computer F(edit:body) [[id:e2e6b51c-d085-4668-ac4f-9d7e13df147d][Meditate             ** * **   *  *  * * *!]]
+  :PROPERTIES:
+  :ID:       5e1d4820-b7d4-4159-badc-18a9cd11d2c7
+  :END:
+** Old value
+SCHEDULED: <2013-01-03 Thu .+1d/2d>
+   - State "DONE"       from "NEXT"       [2013-01-02 Wed 19:35]
+   - State "DONE"       from "NEXT"       [2012-12-31 Mon 15:00]
+   - State "DONE"       from "NEXT"       [2012-12-29 Sat 13:30]
+   - State "DONE"       from "NEXT"       [2012-12-26 Wed 09:45]
+   - State "DONE"       from "NEXT"       [2012-12-23 Sun 15:25]
+   - State "DONE"       from "NEXT"       [2012-12-19 Wed 08:30]
+   - State "DONE"       from "NEXT"       [2012-12-18 Tue 08:15]
+   - State "DONE"       from "NEXT"       [2012-12-16 Sun 09:02]
+   - State "DONE"       from "NEXT"       [2012-12-14 Fri 15:25]
+   :PROPERTIES:
+   :ID: e2e6b51c-d085-4668-ac4f-9d7e13df147d
+   :END:
+** New value
+:LOGBOOK:
+CLOCK: [2013-01-03 Thu 15:15]--[2013-01-03 Thu 15:24] =>  0:09
+:END:
+   SCHEDULED: <2013-01-03 Thu .+1d/2d>
+   - State "DONE"       from "NEXT"       [2013-01-02 Wed 19:35]
+   - State "DONE"       from "NEXT"       [2012-12-31 Mon 15:00]
+   - State "DONE"       from "NEXT"       [2012-12-29 Sat 13:30]
+   - State "DONE"       from "NEXT"       [2012-12-26 Wed 09:45]
+   - State "DONE"       from "NEXT"       [2012-12-23 Sun 15:25]
+   - State "DONE"       from "NEXT"       [2012-12-19 Wed 08:30]
+   - State "DONE"       from "NEXT"       [2012-12-18 Tue 08:15]
+   - State "DONE"       from "NEXT"       [2012-12-16 Sun 09:02]
+   - State "DONE"       from "NEXT"       [2012-12-14 Fri 15:25]
+   :PROPERTIES:
+   :ID: e2e6b51c-d085-4668-ac4f-9d7e13df147d
+   :END:
+** End of edit
+
