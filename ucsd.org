@@ -600,7 +600,7 @@ Update this based on Bo's comments.
 
 ***** NEXT Research org-export
       :LOGBOOK:
-      CLOCK: [2013-01-03 Thu 19:32]
+      CLOCK: [2013-01-03 Thu 19:32]--[2013-01-03 Thu 20:01] =>  0:29
       CLOCK: [2013-01-03 Thu 19:21]--[2013-01-03 Thu 19:27] =>  0:06
       :END:
       :PROPERTIES:
@@ -613,6 +613,15 @@ Update this based on Bo's comments.
       :END:
       :PROPERTIES:
       :ID:       7ecb4d57-b2fc-46db-87d0-84cb0204dc22
+      :END:
+
+***** NEXT Fix up homework table
+      :PROPERTIES:
+      :ID:       7712e430-ce12-4c13-bede-57e4b5810ca0
+      :END:
+***** NEXT Get rid of title heading
+      :PROPERTIES:
+      :ID:       ce36c724-1803-470f-a1dc-551ca5a972be
       :END:
 ***** TODO Publish
       :PROPERTIES:
@@ -936,7 +945,7 @@ homeomorphic to S^4 or to a connected sum of CP^2s.
     :ID:       4c4bf1f0-c81d-4fb5-b970-9da250ba0b4e
     :END:
     <2013-01-17 Thu 10:00-11:00 +1w>
-*** TODO Send DG seminar email announcement
+*** NEXT Send DG seminar email announcement
     - State "DONE"       from "NEXT"       [2013-01-03 Thu 10:26]
     - State "DONE"       from "NEXT"       [2012-12-06 Thu 14:00]
     - State "DONE"       from "TODO"       [2012-11-29 Thu 09:46]

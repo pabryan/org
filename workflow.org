@@ -245,6 +245,17 @@ Want it to use my settings, macros etc.
    :ID:       f0e4da95-958f-4871-91bf-3eb156e22d3f
    :END:
 [2012-12-14 Fri 11:53]
+** TODO Fix up vc on org mode
+  SCHEDULED: <2013-01-04 Fri>
+
+  :LOGBOOK:
+  CLOCK: [2013-01-03 Thu 20:02]--[2013-01-03 Thu 20:03] =>  0:01
+  :END:
+   :PROPERTIES:
+   :ID:       de79cdee-84f7-4429-8417-b010f1b963d4
+   :END:
+[2013-01-03 Thu 20:02]
+
 * process
   :PROPERTIES:
   :ID:       403ba6c9-9a32-430c-b0c9-0b09f2eba44e
@@ -776,6 +787,7 @@ Files go into Dropbox and versioned controlled hosted on bitbucket
   :END:
 ** Organisation
 :LOGBOOK:
+CLOCK: [2013-01-03 Thu 20:01]--[2013-01-03 Thu 20:02] =>  0:01
 CLOCK: [2013-01-03 Thu 10:18]--[2013-01-03 Thu 10:30] =>  0:12
 CLOCK: [2013-01-03 Thu 10:00]--[2013-01-03 Thu 10:17] =>  0:17
 CLOCK: [2013-01-02 Wed 09:31]--[2013-01-02 Wed 09:35] =>  0:04
