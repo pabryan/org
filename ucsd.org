@@ -602,6 +602,13 @@ Update this based on Bo's comments.
       :PROPERTIES:
       :ID:       5a864ba1-934c-4473-a018-6b0404c7f8a4
       :END:
+***** NEXT Implement org-export
+      :LOGBOOK:
+      CLOCK: [2013-01-03 Thu 19:04]
+      :END:
+      :PROPERTIES:
+      :ID:       7ecb4d57-b2fc-46db-87d0-84cb0204dc22
+      :END:
 ***** TODO Publish
       :PROPERTIES:
       :ID:       4a7228cb-ec14-4503-bab6-bf5396cda0bd
