@@ -604,7 +604,8 @@ Update this based on Bo's comments.
       :END:
 ***** NEXT Implement org-export
       :LOGBOOK:
-      CLOCK: [2013-01-03 Thu 19:04]
+      CLOCK: [2013-01-03 Thu 19:13]
+      CLOCK: [2013-01-03 Thu 19:04]--[2013-01-03 Thu 19:11] =>  0:07
       :END:
       :PROPERTIES:
       :ID:       7ecb4d57-b2fc-46db-87d0-84cb0204dc22
