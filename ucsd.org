@@ -626,9 +626,9 @@ Update this based on Bo's comments.
       :ID:       7ecb4d57-b2fc-46db-87d0-84cb0204dc22
       :END:
 
-***** NEXT Fix up homework table
+***** NEXT Fix up calendar table
       :LOGBOOK:
-      CLOCK: [2013-01-05 Sat 11:40]
+      CLOCK: [2013-01-05 Sat 11:40]--[2013-01-05 Sat 11:58] =>  0:18
       :END:
       :PROPERTIES:
       :ID:       7712e430-ce12-4c13-bede-57e4b5810ca0
