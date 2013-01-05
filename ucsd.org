@@ -598,9 +598,10 @@ Update this based on Bo's comments.
       :PROPERTIES:
       :ID:       9e989cf2-368d-4eb8-a557-343d42fbd464
       :END:
-***** NEXT Write course outline
+***** DONE Write course outline
+      - State "DONE"       from "NEXT"       [2013-01-05 Sat 11:40]
       :LOGBOOK:
-      CLOCK: [2013-01-05 Sat 11:36]
+      CLOCK: [2013-01-05 Sat 11:36]--[2013-01-05 Sat 11:40] =>  0:04
       CLOCK: [2013-01-05 Sat 11:26]--[2013-01-05 Sat 11:29] =>  0:03
       :END:
       :PROPERTIES:
@@ -626,6 +627,9 @@ Update this based on Bo's comments.
       :END:
 
 ***** NEXT Fix up homework table
+      :LOGBOOK:
+      CLOCK: [2013-01-05 Sat 11:40]
+      :END:
       :PROPERTIES:
       :ID:       7712e430-ce12-4c13-bede-57e4b5810ca0
       :END:
