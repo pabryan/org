@@ -589,7 +589,8 @@ Update this based on Bo's comments.
      :ID:       6d96956c-1f73-4395-bc03-f448e8f69b73
      :END:
 
-***** NEXT Write content
+***** DONE Write content
+      - State "DONE"       from "NEXT"       [2013-01-05 Sat 11:04]
      :LOGBOOK:
      CLOCK: [2013-01-02 Wed 10:46]--[2013-01-02 Wed 11:01] =>  0:15
      CLOCK: [2013-01-02 Wed 09:53]--[2013-01-02 Wed 10:01] =>  0:08
@@ -597,8 +598,12 @@ Update this based on Bo's comments.
       :PROPERTIES:
       :ID:       9e989cf2-368d-4eb8-a557-343d42fbd464
       :END:
-
-***** NEXT Research org-export
+***** NEXT Write course outline
+      :PROPERTIES:
+      :ID:       ada397f8-5f7f-4a1e-8a10-4d787642130d
+      :END:
+***** DONE Research org-publish
+      - State "DONE"       from "NEXT"       [2013-01-05 Sat 11:03]
       :LOGBOOK:
       CLOCK: [2013-01-03 Thu 19:32]--[2013-01-03 Thu 20:01] =>  0:29
       CLOCK: [2013-01-03 Thu 19:21]--[2013-01-03 Thu 19:27] =>  0:06
@@ -606,7 +611,8 @@ Update this based on Bo's comments.
       :PROPERTIES:
       :ID:       5a864ba1-934c-4473-a018-6b0404c7f8a4
       :END:
-***** NEXT Implement org-export
+***** DONE Implement org-publish
+      - State "DONE"       from "NEXT"       [2013-01-05 Sat 11:02]
       :LOGBOOK:
       CLOCK: [2013-01-03 Thu 19:13]--[2013-01-03 Thu 19:21] =>  0:08
       CLOCK: [2013-01-03 Thu 19:04]--[2013-01-03 Thu 19:11] =>  0:07
@@ -620,6 +626,9 @@ Update this based on Bo's comments.
       :ID:       7712e430-ce12-4c13-bede-57e4b5810ca0
       :END:
 ***** NEXT Get rid of title heading
+      :LOGBOOK:
+      CLOCK: [2013-01-05 Sat 11:09]
+      :END:
       :PROPERTIES:
       :ID:       ce36c724-1803-470f-a1dc-551ca5a972be
       :END:
