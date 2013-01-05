@@ -599,6 +599,9 @@ Update this based on Bo's comments.
       :ID:       9e989cf2-368d-4eb8-a557-343d42fbd464
       :END:
 ***** NEXT Write course outline
+      :LOGBOOK:
+      CLOCK: [2013-01-05 Sat 11:26]
+      :END:
       :PROPERTIES:
       :ID:       ada397f8-5f7f-4a1e-8a10-4d787642130d
       :END:
@@ -625,9 +628,10 @@ Update this based on Bo's comments.
       :PROPERTIES:
       :ID:       7712e430-ce12-4c13-bede-57e4b5810ca0
       :END:
-***** NEXT Get rid of title heading
+***** DONE Get rid of title heading
+      - State "DONE"       from "NEXT"       [2013-01-05 Sat 11:26]
       :LOGBOOK:
-      CLOCK: [2013-01-05 Sat 11:09]
+      CLOCK: [2013-01-05 Sat 11:09]--[2013-01-05 Sat 11:26] =>  0:17
       :END:
       :PROPERTIES:
       :ID:       ce36c724-1803-470f-a1dc-551ca5a972be
