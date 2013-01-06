@@ -40,7 +40,8 @@ $14 family
    :END:
 <2012-11-27 Tue 02:30-02:50>
 
-** NEXT Apply for Charter schools [5/5]
+** DONE Apply for Charter schools [5/5]
+   - State "DONE"       from "NEXT"       [2013-01-06 Sun 14:46]
    :LOGBOOK:
    CLOCK: [2012-12-29 Sat 19:11]--[2012-12-29 Sat 19:41] =>  0:30
    :END:
@@ -101,8 +102,9 @@ I want to find things for Remy to do at home that keep his interest in the world
   :END:
 [2012-11-24 Sat 20:43]
 
-** TODO Top up Remy's lunch money
+** DONE Top up Remy's lunch money
    SCHEDULED: <2013-01-07 Mon>
+   - State "DONE"       from "TODO"       [2013-01-06 Sun 14:45]
    :PROPERTIES:
    :ID:       1cba75a7-0dee-40ff-9463-d9ab42b68b65
    :END:
