@@ -628,6 +628,7 @@ Update this based on Bo's comments.
 
 ***** NEXT Fix up calendar table
       :LOGBOOK:
+      CLOCK: [2013-01-06 Sun 10:00]
       CLOCK: [2013-01-05 Sat 11:40]--[2013-01-05 Sat 11:58] =>  0:18
       :END:
       :PROPERTIES:
