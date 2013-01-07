@@ -481,7 +481,7 @@ Update this based on Bo's comments.
    :PROPERTIES:
    :ID:       ca36acea-9953-4821-88a1-69ed34f77979
    :END:
-** TODO MATH142B Winter 2012 
+** TODO MATH142B Winter 2012					   :MATH142B:
    :LOGBOOK:
    :END:
    :PROPERTIES:
@@ -580,8 +580,9 @@ Update this based on Bo's comments.
      :ID:       a09fcef3-939e-41f8-bc9e-19a7f3bdea8e
      :END:
 
-**** TODO Make website
+**** DONE Make website
     SCHEDULED: <2013-01-02 Wed>
+    - State "DONE"       from "TODO"       [2013-01-06 Sun 18:00]
      DEADLINE: <2013-01-04 Fri>
      :LOGBOOK:
      :END:
@@ -655,7 +656,7 @@ Update this based on Bo's comments.
      :PROPERTIES:
      :ID:       cb6490d4-44bd-4622-8b1e-b0c7233b53e2
      :END:
-***** TODO Week 1
+***** TODO Week 1 Lectures
       DEADLINE: <2013-01-06 Sun> SCHEDULED: <2013-01-02 Wed>
       :PROPERTIES:
       :ID:       ba6bb075-0ca2-4a8c-b92e-97a363939457
@@ -673,7 +674,7 @@ Update this based on Bo's comments.
        :PROPERTIES:
        :ID:       f6681d84-5682-4661-ae59-7deb55c886e3
        :END:
-***** TODO Week 2
+***** TODO Week 2 Lectures 2 
       DEADLINE: <2013-01-13 Sun> SCHEDULED: <2013-01-07 Mon>
       :PROPERTIES:
       :ID:       f6d6f89c-b487-491d-8a78-e0c0b58528d7
@@ -690,7 +691,7 @@ Update this based on Bo's comments.
        :PROPERTIES:
        :ID:       c6a0022f-801e-4e45-b4bc-8404cc93ac5a
        :END:
-***** TODO Week 3
+***** TODO Week 3 Lectures
       DEADLINE: <2013-01-20 Sun> SCHEDULED: <2013-01-14 Mon>
       :PROPERTIES:
       :ID:       fb6eda16-71c7-4e4f-a52e-08debcd12a4b
@@ -707,7 +708,7 @@ Update this based on Bo's comments.
        :PROPERTIES:
        :ID:       53280d46-7374-4db8-b5fb-c5f4fe56b278
        :END:
-***** TODO Week 4
+***** TODO Week 4 Lectures
       DEADLINE: <2013-01-27 Sun> SCHEDULED: <2013-01-21 Mon>
       :PROPERTIES:
       :ID:       d05d375a-639f-49fe-bc9f-a0df4ed6b1ad
@@ -724,7 +725,7 @@ Update this based on Bo's comments.
        :PROPERTIES:
        :ID:       9575858b-31b4-4b68-9e94-4d2b0d5669cd
        :END:
-***** TODO Week 5
+***** TODO Week 5 Lectures
       DEADLINE: <2013-02-03 Sun> SCHEDULED: <2013-01-28 Mon>
       :PROPERTIES:
       :ID:       4095d747-2722-4976-b7c7-29f859d24435
@@ -741,7 +742,7 @@ Update this based on Bo's comments.
        :PROPERTIES:
        :ID:       5a93b1cc-4a21-4077-898d-9a80ce4454f3
        :END:
-***** TODO Week 6
+***** TODO Week 6 Lectures
       DEADLINE: <2013-02-10 Sun> SCHEDULED: <2013-02-04 Mon>
       :PROPERTIES:
       :ID:       13df5819-9bc8-4698-ae0b-8e7d40f04291
@@ -758,7 +759,7 @@ Update this based on Bo's comments.
        :PROPERTIES:
        :ID:       cdd0f5ba-382d-4c8d-86af-7ab673ef2c77
        :END:
-***** TODO Week 7
+***** TODO Week 7 Lectures
       DEADLINE: <2013-02-17 Sun> SCHEDULED: <2013-02-11 Mon>
       :PROPERTIES:
       :ID:       b6cce85d-073b-47ff-87e3-b321ac9c9173
@@ -775,7 +776,7 @@ Update this based on Bo's comments.
        :PROPERTIES:
        :ID:       47d24ed2-c63f-4193-a0bb-d76f33fb577e
        :END:
-***** TODO Week 8
+***** TODO Week 8 Lectures
       DEADLINE: <2013-02-24 Sun> SCHEDULED: <2013-02-18 Mon>
       :PROPERTIES:
       :ID:       7caeed49-8f45-4df4-80a5-50ad4cae3bc7
@@ -792,7 +793,7 @@ Update this based on Bo's comments.
        :PROPERTIES:
        :ID:       d82697a4-f67e-4497-86e3-e28be4bff2e1
        :END:
-***** TODO Week 9
+***** TODO Week 9 Lectures
       DEADLINE: <2013-03-03 Sun> SCHEDULED: <2013-02-25 Mon>
       :PROPERTIES:
       :ID:       0cf82863-ff47-4f85-9e7c-5325574f63e7
@@ -809,7 +810,7 @@ Update this based on Bo's comments.
        :PROPERTIES:
        :ID:       7895874a-ffb2-48d9-8252-c4131d248f85
        :END:
-***** TODO Week 10
+***** TODO Week 10 Lectures
       DEADLINE: <2013-03-10 Sun> SCHEDULED: <2013-03-04 Mon>
       :PROPERTIES:
       :ID:       0ce633a5-c530-49b7-8f10-4ee12f0f4274
