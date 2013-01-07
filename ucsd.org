@@ -482,12 +482,18 @@ Update this based on Bo's comments.
    :ID:       ca36acea-9953-4821-88a1-69ed34f77979
    :END:
 ** TODO MATH142B Winter 2012					   :MATH142B:
-   :LOGBOOK:
-   :END:
    :PROPERTIES:
    :ID:       1143f380-6198-4a55-b640-8d8e9c7cfb72
    :END:
 [[file:~/working/ucsd/teaching/math142B_winter_2013]]
+*** TODO Lecturing
+   :LOGBOOK:
+   CLOCK: [2013-01-07 Mon 11:00]--[2013-01-07 Mon 12:00] =>  1:00
+   :END:
+    :PROPERTIES:
+    :ID:       2c1e0b59-5aae-4c8b-af38-da65f92e46e5
+    :END:
+
 *** TODO Plan MATH142B course
     :LOGBOOK:
     CLOCK: [2013-01-02 Wed 10:38]--[2013-01-02 Wed 10:39] =>  0:01
@@ -670,8 +676,9 @@ Update this based on Bo's comments.
      :PROPERTIES:
      :ID:       cb6490d4-44bd-4622-8b1e-b0c7233b53e2
      :END:
-***** TODO Week 1 Lectures
+***** DONE Week 1 Lectures
       DEADLINE: <2013-01-06 Sun> SCHEDULED: <2013-01-02 Wed>
+      - State "DONE"       from "TODO"       [2013-01-07 Mon 12:02]
       :PROPERTIES:
       :ID:       ba6bb075-0ca2-4a8c-b92e-97a363939457
       :END:
@@ -841,7 +848,9 @@ Update this based on Bo's comments.
        :PROPERTIES:
        :ID:       234b6d63-fcf8-451c-8075-b327a6264425
        :END:
-*** TODO Check out podcasting course
+*** CANCELLED Check out podcasting course
+    - State "CANCELLED"  from "TODO"       [2013-01-07 Mon 12:03] \\
+      Won't use it for this course.
   :LOGBOOK:
   :END:
     :PROPERTIES:
