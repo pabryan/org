@@ -695,7 +695,7 @@ Update this based on Bo's comments.
        :PROPERTIES:
        :ID:       f6681d84-5682-4661-ae59-7deb55c886e3
        :END:
-***** TODO Week 2 Lectures 2 
+***** TODO Week 2 Lectures
       DEADLINE: <2013-01-13 Sun> SCHEDULED: <2013-01-07 Mon>
       :PROPERTIES:
       :ID:       f6d6f89c-b487-491d-8a78-e0c0b58528d7
@@ -865,6 +865,24 @@ Update this based on Bo's comments.
     :ID:       e39a2ae1-cc16-4dd2-80bf-33d3411e89ca
     :END:
 [2012-12-14 Fri 11:04]
+*** NEXT Update homework
+  :LOGBOOK:
+  CLOCK: [2013-01-07 Mon 15:00]--[2013-01-07 Mon 15:18] =>  0:18
+  CLOCK: [2013-01-07 Mon 14:20]--[2013-01-07 Mon 14:34] =>  0:14
+  :END:
+  :PROPERTIES:
+  :ID:       54af3ec8-b699-48c8-bdfd-744e89a405a8
+  :END:
+[2013-01-07 Mon 14:20]
+
+9 questions total. Specify 4 questions to be graded. 1 mark each for completion for remaining 5.
+*** DONE Meet TA
+    - State "DONE"       from "TODO"       [2013-01-07 Mon 15:17]
+  :LOGBOOK:
+  CLOCK: [2013-01-07 Mon 14:34]--[2013-01-07 Mon 15:00] =>  0:26
+  CLOCK: [2013-01-07 Mon 14:10]--[2013-01-07 Mon 14:20] =>  0:10
+  :END:
+
 ** CANCELLED Write reference for Chan Kim
    - State "CANCELLED"  from "TODO"       [2013-01-02 Wed 09:37] \\
      He doesn't need it from me anymore
