@@ -866,22 +866,20 @@
 
 **** Intuflow 
      :LOGBOOK:
-     CLOCK: [2013-01-07 Mon 08:33]
+     CLOCK: [2013-01-07 Mon 08:33]--[2013-01-07 Mon 09:05] =>  0:32
      :END:
 :PROPERTIES:
-:Type:
-:Intensity:
-:RestHR: 
-:FinalHR:
+:Type: Mobility
+:Intensity: None
+:RestHR: 78
+:FinalHR: 88
 :Score:
-:Technique:
-:Effort:
-:Discomfort:
+:Technique: 9
+:Effort: 3
+:Discomfort: 2
 :END:
 
 [2013-01-07 Mon 08:33]
-:Intensity: None
-:Type: Mobility
 
 * conv code
   :PROPERTIES:
