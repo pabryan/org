@@ -848,6 +848,14 @@ Update this based on Bo's comments.
        :PROPERTIES:
        :ID:       234b6d63-fcf8-451c-8075-b327a6264425
        :END:
+*** NEXT Update website
+    :LOGBOOK:
+    CLOCK: [2013-01-07 Mon 13:54]
+    :END:
+    :PROPERTIES:
+    :ID:       166cc4aa-620c-4523-b699-ca2ced33207a
+    :END:
+
 *** CANCELLED Check out podcasting course
     - State "CANCELLED"  from "TODO"       [2013-01-07 Mon 12:03] \\
       Won't use it for this course.
@@ -917,6 +925,7 @@ Update this based on Bo's comments.
 
 ** TODO UCSD DG Seminar
    :LOGBOOK:
+   CLOCK: [2013-01-07 Mon 13:00]--[2013-01-07 Mon 13:45] =>  0:45
    :END:
    :PROPERTIES:
    :ID:       fa6cea64-9d5f-462e-8240-9f423a327330
