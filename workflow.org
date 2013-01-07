@@ -245,6 +245,7 @@ Want it to use my settings, macros etc.
    :ID:       f0e4da95-958f-4871-91bf-3eb156e22d3f
    :END:
 [2012-12-14 Fri 11:53]
+
 ** Web Publishing
 *** Links
 [[http://orgmode.org/manual/Publishing.html]]
@@ -257,6 +258,14 @@ Want it to use my settings, macros etc.
 [[http://doc.norang.ca/org-mode.html#Publishing]]
 [[http://justinlilly.com/emacs/orgmode_static_site_generator.html]]
 
+** TODO Fix up vc on org mode
+  SCHEDULED: <2013-01-07 Mon>
+   :PROPERTIES:
+   :ID:       de79cdee-84f7-4429-8417-b010f1b963d4
+   :END:
+[2013-01-03 Thu 20:02]
+
+It's missing stuff from work.
 
 * process
   :PROPERTIES:
@@ -791,112 +800,229 @@ Files go into Dropbox and versioned controlled hosted on bitbucket
    :END:
 [2012-12-17 Mon 14:13]
 
+** SOMEDAY Configure emacs for email
+   :PROPERTIES:
+   :ID:       59fb7afd-3134-4ef9-80d6-391b05284663
+   :END:
+*** NEXT Set up offlineimap
+    :PROPERTIES:
+    :ID:       8e34b366-070d-4735-bad1-9c8fba262783
+    :END:
+See:
+[[http://docs.offlineimap.org/en/latest/MANUAL.html][http://docs.offlineimap.org/en/latest/MANUAL.html]]
+[[http://jak-linux.org/projects/hardlink/]]
+[[http://bramschoenmakers.nl/node/713][http://bramschoenmakers.nl/node/713]]
+[[https://wiki.archlinux.org/index.php/OfflineIMAP#Gmail_configuration][https://wiki.archlinux.org/index.php/OfflineIMAP#Gmail_configuration]]
+[[http://kwlug.org/pipermail/kwlug-disc_kwlug.org/2010-March/004026.html]]
+[[http://reddragdiva.dreamwidth.org/567837.html]]
+[[http://yet-another-problem.blogspot.com/2012/02/gmail-offlineimap-mutt-msmtp.html]]
+**** offlineimap configuration ~/.offlineimaprc
+[general]
+accounts = GMail
+maxsyncaccounts = 3
+
+[Account GMail]
+localrepository = Local
+remoterepository = Remote
+
+[Repository Local]
+type = Maildir
+localfolders = ~/Mail
+
+[Repository Remote]
+type = Gmail
+remoteuser = pabryan@gmail.com
+remotepass = Youg2Ltc
+maxconnections = 3
+realdelete = no
+#folderfilter = lambda folder: folder in ['PTE', 'temp']
+#nametrans: lambda folder: folder if folder in ['INBOX', 'Drafts', 'Sent Mail', 'Bin'] \
+#                          else re.sub(r'^', r'gmail.', folder)
+
+
+**** muttrc
+set mbox_type   = Maildir
+set sendmail    = /usr/bin/msmtp
+
+set folder      = ~/Mail
+set spoolfile   = "+INBOX"
+set mbox        = "+[Gmail]/All Mail"
+set postponed   = "+[Gmail]/Drafts"
+unset record
+
+mailboxes +INBOX
+
+macro index D \
+    "<save-message>+[Gmail]/Trash<enter>" \
+    "move message to the trash"
+
+macro index S \
+    "<save-message>+[Gmail]/Spam<enter>" \
+    "mark message as spam"
+
+# main options
+set realname   = "Real Name"
+set from       = "user@gmail.com"
+set mail_check = 0
+set envelope_from
+
+unset move           # gmail does that
+set delete           # don't ask, just do
+unset confirmappend  # don't ask, just do!
+set quit             # don't ask, just do!!
+unset mark_old       # read/new is good enough for me
+
+# sort/threading
+set sort     = threads
+set sort_aux = reverse-last-date-received
+set sort_re
+
+# look and feel
+set pager_index_lines = 8
+set pager_context     = 5
+set pager_stop
+set menu_scroll
+set smart_wrap
+set tilde
+unset markers
+
+# composing 
+set fcc_attach
+unset mime_forward
+set forward_format = "Fwd: %s"
+set include
+set forward_quote
+
+ignore *                               # first, ignore all headers
+unignore from: to: cc: date: subject:  # then, show only these
+hdr_order from: to: cc: date: subject: # and in this order
+
+
+*** TODO Store passwords in keyring
+    :PROPERTIES:
+    :ID:       fc03edb7-f209-45db-8414-c0b249b02351
+    :END:
+[[http://pypi.python.org/pypi/keyring][http://pypi.python.org/pypi/keyring]]
+[[http://www.emacswiki.org/emacs/OfflineIMAP][http://www.emacswiki.org/emacs/OfflineIMAP]]
+
+*** TODO Choose emacs email reading/writing method
+    :PROPERTIES:
+    :ID:       4bc3c470-a7ec-4a15-a78f-3e0e03f33ad6
+    :END:
+
+[[http://www.emacswiki.org/emacs/CategoryMail]]
+Does mutt integrate well?
+[[http://www.emacswiki.org/emacs/MuttInEmacs][http://www.emacswiki.org/emacs/MuttInEmacs]]
+
 * Tasks
   :PROPERTIES:
   :ID:       4257fe31-e606-4ca9-a848-858379409679
   :END:
 ** Organisation
-:LOGBOOK:
-CLOCK: [2013-01-03 Thu 13:25]--[2013-01-03 Thu 13:31] =>  0:06
-CLOCK: [2013-01-03 Thu 12:59]--[2013-01-03 Thu 13:07] =>  0:08
-CLOCK: [2013-01-03 Thu 12:45]--[2013-01-03 Thu 12:59] =>  0:14
-CLOCK: [2013-01-03 Thu 10:18]--[2013-01-03 Thu 10:30] =>  0:12
-CLOCK: [2013-01-03 Thu 10:00]--[2013-01-03 Thu 10:17] =>  0:17
-CLOCK: [2013-01-02 Wed 09:31]--[2013-01-02 Wed 09:35] =>  0:04
-CLOCK: [2012-12-29 Sat 16:37]--[2012-12-29 Sat 17:15] =>  0:38
-CLOCK: [2012-12-29 Sat 16:09]--[2012-12-29 Sat 16:37] =>  0:28
-CLOCK: [2012-12-29 Sat 15:57]--[2012-12-29 Sat 16:09] =>  0:12
-CLOCK: [2012-12-21 Fri 17:47]--[2012-12-21 Fri 18:02] =>  0:15
-CLOCK: [2012-12-21 Fri 13:23]--[2012-12-21 Fri 13:30] =>  0:07
-CLOCK: [2012-12-21 Fri 13:00]--[2012-12-21 Fri 13:05] =>  0:05
-CLOCK: [2012-12-21 Fri 11:51]--[2012-12-21 Fri 12:15] =>  0:24
-CLOCK: [2012-12-21 Fri 10:55]--[2012-12-21 Fri 11:02] =>  0:07
-CLOCK: [2012-12-20 Thu 21:13]--[2012-12-20 Thu 21:14] =>  0:01
-CLOCK: [2012-12-20 Thu 21:07]--[2012-12-20 Thu 21:08] =>  0:01
-CLOCK: [2012-12-20 Thu 15:17]--[2012-12-20 Thu 15:22] =>  0:05
-CLOCK: [2012-12-20 Thu 15:15]--[2012-12-20 Thu 15:17] =>  0:02
-CLOCK: [2012-12-20 Thu 14:33]--[2012-12-20 Thu 14:35] =>  0:02
-CLOCK: [2012-12-20 Thu 12:05]--[2012-12-20 Thu 12:36] =>  0:31
-CLOCK: [2012-12-20 Thu 11:39]--[2012-12-20 Thu 11:40] =>  0:01
-CLOCK: [2012-12-20 Thu 11:18]--[2012-12-20 Thu 11:29] =>  0:11
-CLOCK: [2012-12-20 Thu 10:35]--[2012-12-20 Thu 10:44] =>  0:09
-CLOCK: [2012-12-20 Thu 10:11]--[2012-12-20 Thu 10:22] =>  0:11
-CLOCK: [2012-12-19 Wed 11:19]--[2012-12-19 Wed 11:37] =>  0:18
-CLOCK: [2012-12-19 Wed 10:01]--[2012-12-19 Wed 10:02] =>  0:01
-CLOCK: [2012-12-19 Wed 09:15]--[2012-12-19 Wed 09:36] =>  0:21
-CLOCK: [2012-12-18 Tue 15:12]--[2012-12-18 Tue 15:26] =>  0:14
-CLOCK: [2012-12-18 Tue 12:08]--[2012-12-18 Tue 12:10] =>  0:02
-CLOCK: [2012-12-18 Tue 11:33]--[2012-12-18 Tue 11:54] =>  0:21
-CLOCK: [2012-12-18 Tue 11:06]--[2012-12-18 Tue 11:10] =>  0:04
-CLOCK: [2012-12-18 Tue 09:35]--[2012-12-18 Tue 09:45] =>  0:10
-CLOCK: [2012-12-17 Mon 15:01]--[2012-12-17 Mon 15:03] =>  0:02
-CLOCK: [2012-12-17 Mon 14:55]--[2012-12-17 Mon 15:01] =>  0:06
-CLOCK: [2012-12-17 Mon 14:50]--[2012-12-17 Mon 14:52] =>  0:02
-CLOCK: [2012-12-17 Mon 10:54]--[2012-12-17 Mon 11:09] =>  0:15
-CLOCK: [2012-12-17 Mon 10:28]--[2012-12-17 Mon 10:36] =>  0:08
-CLOCK: [2012-12-16 Sun 10:10]--[2012-12-16 Sun 10:27] =>  0:17
-CLOCK: [2012-12-14 Fri 17:18]--[2012-12-14 Fri 17:20] =>  0:02
-CLOCK: [2012-12-14 Fri 12:27]--[2012-12-14 Fri 12:29] =>  0:02
-CLOCK: [2012-12-14 Fri 11:59]--[2012-12-14 Fri 12:10] =>  0:11
-CLOCK: [2012-12-14 Fri 11:53]--[2012-12-14 Fri 11:55] =>  0:02
-CLOCK: [2012-12-14 Fri 11:52]--[2012-12-14 Fri 11:53] =>  0:01
-CLOCK: [2012-12-14 Fri 11:09]--[2012-12-14 Fri 11:10] =>  0:01
-CLOCK: [2012-12-14 Fri 11:08]--[2012-12-14 Fri 11:09] =>  0:01
-CLOCK: [2012-12-14 Fri 11:04]--[2012-12-14 Fri 11:07] =>  0:03
-CLOCK: [2012-12-14 Fri 11:03]--[2012-12-14 Fri 11:04] =>  0:01
-CLOCK: [2012-12-13 Thu 12:11]--[2012-12-13 Thu 12:19] =>  0:08
-CLOCK: [2012-12-13 Thu 10:37]--[2012-12-13 Thu 10:38] =>  0:01
-CLOCK: [2012-12-13 Thu 10:36]--[2012-12-13 Thu 10:37] =>  0:01
-CLOCK: [2012-12-13 Thu 10:15]--[2012-12-13 Thu 10:30] =>  0:15
-CLOCK: [2012-12-11 Tue 18:14]--[2012-12-11 Tue 18:15] =>  0:01
-CLOCK: [2012-12-11 Tue 17:34]--[2012-12-11 Tue 17:37] =>  0:03
-CLOCK: [2012-12-11 Tue 16:47]--[2012-12-11 Tue 16:49] =>  0:02
-CLOCK: [2012-12-11 Tue 11:54]--[2012-12-11 Tue 12:08] =>  0.06
-CLOCK: [2012-12-11 Tue 10:11]--[2012-12-11 Tue 10:12] =>  0:01
-CLOCK: [2012-12-11 Tue 09:55]--[2012-12-11 Tue 10:07] =>  0:12
-CLOCK: [2012-12-07 Fri 13:44]--[2012-12-07 Fri 14:00] =>  0:16
-CLOCK: [2012-12-07 Fri 13:43]--[2012-12-07 Fri 13:44] =>  0:01
-CLOCK: [2012-12-07 Fri 13:32]--[2012-12-07 Fri 13:33] =>  0:01
-CLOCK: [2012-12-07 Fri 09:56]--[2012-12-07 Fri 10:00] =>  0:04
-CLOCK: [2012-12-06 Thu 16:06]--[2012-12-06 Thu 16:20] =>  0:14
-CLOCK: [2012-12-06 Thu 13:46]--[2012-12-06 Thu 14:03] =>  0:17
-CLOCK: [2012-12-06 Thu 12:02]--[2012-12-06 Thu 12:11] =>  0:09
-CLOCK: [2012-12-06 Thu 11:42]--[2012-12-06 Thu 11:44] =>  0:02
-CLOCK: [2012-12-06 Thu 11:28]--[2012-12-06 Thu 11:31] =>  0:03
-CLOCK: [2012-12-06 Thu 11:05]--[2012-12-06 Thu 11:20] =>  0:15
-CLOCK: [2012-12-06 Thu 10:41]--[2012-12-06 Thu 10:53] =>  0:12
-CLOCK: [2012-12-06 Thu 10:08]--[2012-12-06 Thu 10:12] =>  0:04
-CLOCK: [2012-12-05 Wed 19:55]--[2012-12-05 Wed 20:00] =>  0:05
-CLOCK: [2012-12-05 Wed 17:23]--[2012-12-05 Wed 17:50] =>  0:27
-CLOCK: [2012-12-04 Tue 17:17]--[2012-12-04 Tue 17:26] =>  0:09
-CLOCK: [2012-12-04 Tue 16:35]--[2012-12-04 Tue 16:40] =>  0:05
-CLOCK: [2012-12-04 Tue 15:21]--[2012-12-04 Tue 15:24] =>  0:03
-CLOCK: [2012-12-04 Tue 14:03]--[2012-12-04 Tue 14:04] =>  0:01
-CLOCK: [2012-12-04 Tue 13:55]--[2012-12-04 Tue 14:03] =>  0:08
-CLOCK: [2012-12-04 Tue 12:52]--[2012-12-04 Tue 12:57] =>  0:05
-CLOCK: [2012-12-04 Tue 11:55]--[2012-12-04 Tue 12:00] =>  0:05
-CLOCK: [2012-12-03 Mon 16:57]--[2012-12-03 Mon 16:58] =>  0:01
-CLOCK: [2012-12-03 Mon 15:52]--[2012-12-03 Mon 16:09] =>  0:17
-CLOCK: [2012-12-03 Mon 15:31]--[2012-12-03 Mon 15:39] =>  0:08
-CLOCK: [2012-12-03 Mon 14:26]--[2012-12-03 Mon 14:47] =>  0:21
-CLOCK: [2012-12-03 Mon 14:08]--[2012-12-03 Mon 14:11] =>  0:03
-CLOCK: [2012-12-03 Mon 13:55]--[2012-12-03 Mon 14:05] =>  0:10
-CLOCK: [2012-12-03 Mon 13:29]--[2012-12-03 Mon 13:54] =>  0:25
-CLOCK: [2012-12-03 Mon 13:10]--[2012-12-03 Mon 13:12] =>  0:02
-CLOCK: [2012-11-30 Fri 14:58]--[2012-11-30 Fri 15:02] =>  0:04
-CLOCK: [2012-11-30 Fri 12:58]--[2012-11-30 Fri 12:59] =>  0:01
-CLOCK: [2012-11-30 Fri 10:13]--[2012-11-30 Fri 10:16] =>  0:03
-CLOCK: [2012-11-29 Thu 14:59]--[2012-11-29 Thu 15:00] =>  0:01
-CLOCK: [2012-11-29 Thu 14:29]--[2012-11-29 Thu 14:36] =>  0:07
-CLOCK: [2012-11-29 Thu 14:16]--[2012-11-29 Thu 14:20] =>  0:04
-CLOCK: [2012-11-29 Thu 13:42]--[2012-11-29 Thu 13:44] =>  0:02
-CLOCK: [2012-11-29 Thu 09:57]--[2012-11-29 Thu 10:05] =>  0:08
-CLOCK: [2012-11-29 Thu 09:46]--[2012-11-29 Thu 09:52] =>  0:06
-CLOCK: [2012-11-28 Wed 13:56]--[2012-11-28 Wed 14:05] =>  0:09
-CLOCK: [2012-11-28 Wed 13:37]--[2012-11-28 Wed 13:41] =>  0:04
-CLOCK: [2012-11-28 Wed 10:42]--[2012-11-28 Wed 10:50] =>  0:08
-CLOCK: [2012-11-28 Wed 09:55]--[2012-11-28 Wed 10:33] =>  0:38
-CLOCK: [2012-11-26 Mon 08:19]--[2012-11-26 Mon 08:28] =>  0:09
+  :LOGBOOK:
+  CLOCK: [2013-01-06 Sun 08:35]--[2013-01-06 Sun 08:55] =>  0:20
+  CLOCK: [2013-01-05 Sat 11:01]--[2013-01-05 Sat 11:09] =>  0:08
+  CLOCK: [2013-01-03 Thu 20:01]--[2013-01-03 Thu 20:02] =>  0:01
+  CLOCK: [2013-01-03 Thu 13:25]--[2013-01-03 Thu 13:31] =>  0:06
+  CLOCK: [2013-01-03 Thu 12:59]--[2013-01-03 Thu 13:07] =>  0:08
+  CLOCK: [2013-01-03 Thu 12:45]--[2013-01-03 Thu 12:59] =>  0:14
+  CLOCK: [2013-01-03 Thu 10:18]--[2013-01-03 Thu 10:30] =>  0:12
+  CLOCK: [2013-01-03 Thu 10:00]--[2013-01-03 Thu 10:17] =>  0:17
+  CLOCK: [2013-01-02 Wed 09:31]--[2013-01-02 Wed 09:35] =>  0:04
+  CLOCK: [2012-12-29 Sat 16:37]--[2012-12-29 Sat 17:15] =>  0:38
+  CLOCK: [2012-12-29 Sat 16:09]--[2012-12-29 Sat 16:37] =>  0:28
+  CLOCK: [2012-12-29 Sat 15:57]--[2012-12-29 Sat 16:09] =>  0:12
+  CLOCK: [2012-12-21 Fri 17:47]--[2012-12-21 Fri 18:02] =>  0:15
+  CLOCK: [2012-12-21 Fri 13:23]--[2012-12-21 Fri 13:30] =>  0:07
+  CLOCK: [2012-12-21 Fri 13:00]--[2012-12-21 Fri 13:05] =>  0:05
+  CLOCK: [2012-12-21 Fri 11:51]--[2012-12-21 Fri 12:15] =>  0:24
+  CLOCK: [2012-12-21 Fri 10:55]--[2012-12-21 Fri 11:02] =>  0:07
+  CLOCK: [2012-12-20 Thu 21:13]--[2012-12-20 Thu 21:14] =>  0:01
+  CLOCK: [2012-12-20 Thu 21:07]--[2012-12-20 Thu 21:08] =>  0:01
+  CLOCK: [2012-12-20 Thu 15:17]--[2012-12-20 Thu 15:22] =>  0:05
+  CLOCK: [2012-12-20 Thu 15:15]--[2012-12-20 Thu 15:17] =>  0:02
+  CLOCK: [2012-12-20 Thu 14:33]--[2012-12-20 Thu 14:35] =>  0:02
+  CLOCK: [2012-12-20 Thu 12:05]--[2012-12-20 Thu 12:36] =>  0:31
+  CLOCK: [2012-12-20 Thu 11:39]--[2012-12-20 Thu 11:40] =>  0:01
+  CLOCK: [2012-12-20 Thu 11:18]--[2012-12-20 Thu 11:29] =>  0:11
+  CLOCK: [2012-12-20 Thu 10:35]--[2012-12-20 Thu 10:44] =>  0:09
+  CLOCK: [2012-12-20 Thu 10:11]--[2012-12-20 Thu 10:22] =>  0:11
+  CLOCK: [2012-12-19 Wed 11:19]--[2012-12-19 Wed 11:37] =>  0:18
+  CLOCK: [2012-12-19 Wed 10:01]--[2012-12-19 Wed 10:02] =>  0:01
+  CLOCK: [2012-12-19 Wed 09:15]--[2012-12-19 Wed 09:36] =>  0:21
+  CLOCK: [2012-12-18 Tue 15:12]--[2012-12-18 Tue 15:26] =>  0:14
+  CLOCK: [2012-12-18 Tue 12:08]--[2012-12-18 Tue 12:10] =>  0:02
+  CLOCK: [2012-12-18 Tue 11:33]--[2012-12-18 Tue 11:54] =>  0:21
+  CLOCK: [2012-12-18 Tue 11:06]--[2012-12-18 Tue 11:10] =>  0:04
+  CLOCK: [2012-12-18 Tue 09:35]--[2012-12-18 Tue 09:45] =>  0:10
+  CLOCK: [2012-12-17 Mon 15:01]--[2012-12-17 Mon 15:03] =>  0:02
+  CLOCK: [2012-12-17 Mon 14:55]--[2012-12-17 Mon 15:01] =>  0:06
+  CLOCK: [2012-12-17 Mon 14:50]--[2012-12-17 Mon 14:52] =>  0:02
+  CLOCK: [2012-12-17 Mon 10:54]--[2012-12-17 Mon 11:09] =>  0:15
+  CLOCK: [2012-12-17 Mon 10:28]--[2012-12-17 Mon 10:36] =>  0:08
+  CLOCK: [2012-12-16 Sun 10:10]--[2012-12-16 Sun 10:27] =>  0:17
+  CLOCK: [2012-12-14 Fri 17:18]--[2012-12-14 Fri 17:20] =>  0:02
+  CLOCK: [2012-12-14 Fri 12:27]--[2012-12-14 Fri 12:29] =>  0:02
+  CLOCK: [2012-12-14 Fri 11:59]--[2012-12-14 Fri 12:10] =>  0:11
+  CLOCK: [2012-12-14 Fri 11:53]--[2012-12-14 Fri 11:55] =>  0:02
+  CLOCK: [2012-12-14 Fri 11:52]--[2012-12-14 Fri 11:53] =>  0:01
+  CLOCK: [2012-12-14 Fri 11:09]--[2012-12-14 Fri 11:10] =>  0:01
+  CLOCK: [2012-12-14 Fri 11:08]--[2012-12-14 Fri 11:09] =>  0:01
+  CLOCK: [2012-12-14 Fri 11:04]--[2012-12-14 Fri 11:07] =>  0:03
+  CLOCK: [2012-12-14 Fri 11:03]--[2012-12-14 Fri 11:04] =>  0:01
+  CLOCK: [2012-12-13 Thu 12:11]--[2012-12-13 Thu 12:19] =>  0:08
+  CLOCK: [2012-12-13 Thu 10:37]--[2012-12-13 Thu 10:38] =>  0:01
+  CLOCK: [2012-12-13 Thu 10:36]--[2012-12-13 Thu 10:37] =>  0:01
+  CLOCK: [2012-12-13 Thu 10:15]--[2012-12-13 Thu 10:30] =>  0:15
+  CLOCK: [2012-12-11 Tue 18:14]--[2012-12-11 Tue 18:15] =>  0:01
+  CLOCK: [2012-12-11 Tue 17:34]--[2012-12-11 Tue 17:37] =>  0:03
+  CLOCK: [2012-12-11 Tue 16:47]--[2012-12-11 Tue 16:49] =>  0:02
+  CLOCK: [2012-12-11 Tue 11:54]--[2012-12-11 Tue 12:08] =>  0.06
+  CLOCK: [2012-12-11 Tue 10:11]--[2012-12-11 Tue 10:12] =>  0:01
+  CLOCK: [2012-12-11 Tue 09:55]--[2012-12-11 Tue 10:07] =>  0:12
+  CLOCK: [2012-12-07 Fri 13:44]--[2012-12-07 Fri 14:00] =>  0:16
+  CLOCK: [2012-12-07 Fri 13:43]--[2012-12-07 Fri 13:44] =>  0:01
+  CLOCK: [2012-12-07 Fri 13:32]--[2012-12-07 Fri 13:33] =>  0:01
+  CLOCK: [2012-12-07 Fri 09:56]--[2012-12-07 Fri 10:00] =>  0:04
+  CLOCK: [2012-12-06 Thu 16:06]--[2012-12-06 Thu 16:20] =>  0:14
+  CLOCK: [2012-12-06 Thu 13:46]--[2012-12-06 Thu 14:03] =>  0:17
+  CLOCK: [2012-12-06 Thu 12:02]--[2012-12-06 Thu 12:11] =>  0:09
+  CLOCK: [2012-12-06 Thu 11:42]--[2012-12-06 Thu 11:44] =>  0:02
+  CLOCK: [2012-12-06 Thu 11:28]--[2012-12-06 Thu 11:31] =>  0:03
+  CLOCK: [2012-12-06 Thu 11:05]--[2012-12-06 Thu 11:20] =>  0:15
+  CLOCK: [2012-12-06 Thu 10:41]--[2012-12-06 Thu 10:53] =>  0:12
+  CLOCK: [2012-12-06 Thu 10:08]--[2012-12-06 Thu 10:12] =>  0:04
+  CLOCK: [2012-12-05 Wed 19:55]--[2012-12-05 Wed 20:00] =>  0:05
+  CLOCK: [2012-12-05 Wed 17:23]--[2012-12-05 Wed 17:50] =>  0:27
+  CLOCK: [2012-12-04 Tue 17:17]--[2012-12-04 Tue 17:26] =>  0:09
+  CLOCK: [2012-12-04 Tue 16:35]--[2012-12-04 Tue 16:40] =>  0:05
+  CLOCK: [2012-12-04 Tue 15:21]--[2012-12-04 Tue 15:24] =>  0:03
+  CLOCK: [2012-12-04 Tue 14:03]--[2012-12-04 Tue 14:04] =>  0:01
+  CLOCK: [2012-12-04 Tue 13:55]--[2012-12-04 Tue 14:03] =>  0:08
+  CLOCK: [2012-12-04 Tue 12:52]--[2012-12-04 Tue 12:57] =>  0:05
+  CLOCK: [2012-12-04 Tue 11:55]--[2012-12-04 Tue 12:00] =>  0:05
+  CLOCK: [2012-12-03 Mon 16:57]--[2012-12-03 Mon 16:58] =>  0:01
+  CLOCK: [2012-12-03 Mon 15:52]--[2012-12-03 Mon 16:09] =>  0:17
+  CLOCK: [2012-12-03 Mon 15:31]--[2012-12-03 Mon 15:39] =>  0:08
+  CLOCK: [2012-12-03 Mon 14:26]--[2012-12-03 Mon 14:47] =>  0:21
+  CLOCK: [2012-12-03 Mon 14:08]--[2012-12-03 Mon 14:11] =>  0:03
+  CLOCK: [2012-12-03 Mon 13:55]--[2012-12-03 Mon 14:05] =>  0:10
+  CLOCK: [2012-12-03 Mon 13:29]--[2012-12-03 Mon 13:54] =>  0:25
+  CLOCK: [2012-12-03 Mon 13:10]--[2012-12-03 Mon 13:12] =>  0:02
+  CLOCK: [2012-11-30 Fri 14:58]--[2012-11-30 Fri 15:02] =>  0:04
+  CLOCK: [2012-11-30 Fri 12:58]--[2012-11-30 Fri 12:59] =>  0:01
+  CLOCK: [2012-11-30 Fri 10:13]--[2012-11-30 Fri 10:16] =>  0:03
+  CLOCK: [2012-11-29 Thu 14:59]--[2012-11-29 Thu 15:00] =>  0:01
+  CLOCK: [2012-11-29 Thu 14:29]--[2012-11-29 Thu 14:36] =>  0:07
+  CLOCK: [2012-11-29 Thu 14:16]--[2012-11-29 Thu 14:20] =>  0:04
+  CLOCK: [2012-11-29 Thu 13:42]--[2012-11-29 Thu 13:44] =>  0:02
+  CLOCK: [2012-11-29 Thu 09:57]--[2012-11-29 Thu 10:05] =>  0:08
+  CLOCK: [2012-11-29 Thu 09:46]--[2012-11-29 Thu 09:52] =>  0:06
+  CLOCK: [2012-11-28 Wed 13:56]--[2012-11-28 Wed 14:05] =>  0:09
+  CLOCK: [2012-11-28 Wed 13:37]--[2012-11-28 Wed 13:41] =>  0:04
+  CLOCK: [2012-11-28 Wed 10:42]--[2012-11-28 Wed 10:50] =>  0:08
+  CLOCK: [2012-11-28 Wed 09:55]--[2012-11-28 Wed 10:33] =>  0:38
+  CLOCK: [2012-11-26 Mon 08:19]--[2012-11-26 Mon 08:28] =>  0:09
    CLOCK: [2012-11-20 Tue 11:14]--[2012-11-20 Tue 12:03] =>  0:49
    CLOCK: [2012-11-20 Tue 11:05]--[2012-11-20 Tue 11:12] =>  0:07
    CLOCK: [2012-11-20 Tue 10:53]--[2012-11-20 Tue 11:03] =>  0:10

@@ -481,7 +481,7 @@ Update this based on Bo's comments.
    :PROPERTIES:
    :ID:       ca36acea-9953-4821-88a1-69ed34f77979
    :END:
-** TODO MATH142B Winter 2012 
+** TODO MATH142B Winter 2012					   :MATH142B:
    :LOGBOOK:
    :END:
    :PROPERTIES:
@@ -580,8 +580,9 @@ Update this based on Bo's comments.
      :ID:       a09fcef3-939e-41f8-bc9e-19a7f3bdea8e
      :END:
 
-**** TODO Make website
+**** DONE Make website
     SCHEDULED: <2013-01-02 Wed>
+    - State "DONE"       from "TODO"       [2013-01-06 Sun 18:00]
      DEADLINE: <2013-01-04 Fri>
      :LOGBOOK:
      :END:
@@ -599,24 +600,69 @@ Update this based on Bo's comments.
       :PROPERTIES:
       :ID:       9e989cf2-368d-4eb8-a557-343d42fbd464
       :END:
-
 ***** NEXT Research org-export
+      :PROPERTIES:
+      :ID:       a1d54cd8-9d5a-43c4-b699-fede63f4c78b
+      :END:
+***** DONE Write course outline
+      - State "DONE"       from "NEXT"       [2013-01-05 Sat 11:40]
+
       :LOGBOOK:
+      CLOCK: [2013-01-05 Sat 11:36]--[2013-01-05 Sat 11:40] =>  0:04
+      CLOCK: [2013-01-05 Sat 11:26]--[2013-01-05 Sat 11:29] =>  0:03
       CLOCK: [2013-01-03 Thu 14:37]--[2013-01-03 Thu 15:00] =>  0:23
       CLOCK: [2013-01-03 Thu 13:31]--[2013-01-03 Thu 13:56] =>  0:25
       :END:
       :PROPERTIES:
+      :ID:       ada397f8-5f7f-4a1e-8a10-4d787642130d
+      :END:
+***** DONE Research org-publish
+      - State "DONE"       from "NEXT"       [2013-01-05 Sat 11:03]
+      :LOGBOOK:
+      CLOCK: [2013-01-03 Thu 19:32]--[2013-01-03 Thu 20:01] =>  0:29
+      CLOCK: [2013-01-03 Thu 19:21]--[2013-01-03 Thu 19:27] =>  0:06
+      :END:
+
+      :PROPERTIES:
       :ID:       5a864ba1-934c-4473-a018-6b0404c7f8a4
       :END:
-***** NEXT Set up org-export
+
+***** DONE Implement org-publish
+      - State "DONE"       from "NEXT"       [2013-01-05 Sat 11:02]
+
       :LOGBOOK:
+      CLOCK: [2013-01-03 Thu 19:13]--[2013-01-03 Thu 19:21] =>  0:08
+      CLOCK: [2013-01-03 Thu 19:04]--[2013-01-03 Thu 19:11] =>  0:07
       CLOCK: [2013-01-03 Thu 14:32]--[2013-01-03 Thu 14:37] =>  0:05
       CLOCK: [2013-01-03 Thu 14:00]--[2013-01-03 Thu 14:28] =>  0:28
       :END:
       :PROPERTIES:
-      :ID:       6977f646-c3b4-4a63-b196-f5d18212332a
+      :ID:       7ecb4d57-b2fc-46db-87d0-84cb0204dc22
       :END:
-***** TODO Publish
+
+***** DONE Fix up calendar table
+      - State "DONE"       from "NEXT"       [2013-01-06 Sun 14:46]
+      :LOGBOOK:
+      CLOCK: [2013-01-06 Sun 14:01]--[2013-01-06 Sun 14:46] =>  0:45
+      CLOCK: [2013-01-06 Sun 10:00]--[2013-01-06 Sun 10:37] =>  0:37
+      CLOCK: [2013-01-05 Sat 11:40]--[2013-01-05 Sat 11:58] =>  0:18
+      :END:
+      :PROPERTIES:
+      :ID:       7712e430-ce12-4c13-bede-57e4b5810ca0
+      :END:
+[[http://www.w3schools.com/css/css_table.asp]]
+[[http://coding.smashingmagazine.com/2008/08/13/top-10-css-table-designs/]]
+***** DONE Get rid of title heading
+      - State "DONE"       from "NEXT"       [2013-01-05 Sat 11:26]
+      :LOGBOOK:
+      CLOCK: [2013-01-05 Sat 11:09]--[2013-01-05 Sat 11:26] =>  0:17
+      :END:
+      :PROPERTIES:
+      :ID:       ce36c724-1803-470f-a1dc-551ca5a972be
+      :END:
+***** DONE Publish
+      - State "DONE"       from "TODO"       [2013-01-06 Sun 14:24]
+
       :PROPERTIES:
       :ID:       4a7228cb-ec14-4503-bab6-bf5396cda0bd
       :END:
@@ -624,7 +670,7 @@ Update this based on Bo's comments.
      :PROPERTIES:
      :ID:       cb6490d4-44bd-4622-8b1e-b0c7233b53e2
      :END:
-***** TODO Week 1
+***** TODO Week 1 Lectures
       DEADLINE: <2013-01-06 Sun> SCHEDULED: <2013-01-02 Wed>
       :PROPERTIES:
       :ID:       ba6bb075-0ca2-4a8c-b92e-97a363939457
@@ -642,7 +688,7 @@ Update this based on Bo's comments.
        :PROPERTIES:
        :ID:       f6681d84-5682-4661-ae59-7deb55c886e3
        :END:
-***** TODO Week 2
+***** TODO Week 2 Lectures 2 
       DEADLINE: <2013-01-13 Sun> SCHEDULED: <2013-01-07 Mon>
       :PROPERTIES:
       :ID:       f6d6f89c-b487-491d-8a78-e0c0b58528d7
@@ -659,7 +705,7 @@ Update this based on Bo's comments.
        :PROPERTIES:
        :ID:       c6a0022f-801e-4e45-b4bc-8404cc93ac5a
        :END:
-***** TODO Week 3
+***** TODO Week 3 Lectures
       DEADLINE: <2013-01-20 Sun> SCHEDULED: <2013-01-14 Mon>
       :PROPERTIES:
       :ID:       fb6eda16-71c7-4e4f-a52e-08debcd12a4b
@@ -676,7 +722,7 @@ Update this based on Bo's comments.
        :PROPERTIES:
        :ID:       53280d46-7374-4db8-b5fb-c5f4fe56b278
        :END:
-***** TODO Week 4
+***** TODO Week 4 Lectures
       DEADLINE: <2013-01-27 Sun> SCHEDULED: <2013-01-21 Mon>
       :PROPERTIES:
       :ID:       d05d375a-639f-49fe-bc9f-a0df4ed6b1ad
@@ -693,7 +739,7 @@ Update this based on Bo's comments.
        :PROPERTIES:
        :ID:       9575858b-31b4-4b68-9e94-4d2b0d5669cd
        :END:
-***** TODO Week 5
+***** TODO Week 5 Lectures
       DEADLINE: <2013-02-03 Sun> SCHEDULED: <2013-01-28 Mon>
       :PROPERTIES:
       :ID:       4095d747-2722-4976-b7c7-29f859d24435
@@ -710,7 +756,7 @@ Update this based on Bo's comments.
        :PROPERTIES:
        :ID:       5a93b1cc-4a21-4077-898d-9a80ce4454f3
        :END:
-***** TODO Week 6
+***** TODO Week 6 Lectures
       DEADLINE: <2013-02-10 Sun> SCHEDULED: <2013-02-04 Mon>
       :PROPERTIES:
       :ID:       13df5819-9bc8-4698-ae0b-8e7d40f04291
@@ -727,7 +773,7 @@ Update this based on Bo's comments.
        :PROPERTIES:
        :ID:       cdd0f5ba-382d-4c8d-86af-7ab673ef2c77
        :END:
-***** TODO Week 7
+***** TODO Week 7 Lectures
       DEADLINE: <2013-02-17 Sun> SCHEDULED: <2013-02-11 Mon>
       :PROPERTIES:
       :ID:       b6cce85d-073b-47ff-87e3-b321ac9c9173
@@ -744,7 +790,7 @@ Update this based on Bo's comments.
        :PROPERTIES:
        :ID:       47d24ed2-c63f-4193-a0bb-d76f33fb577e
        :END:
-***** TODO Week 8
+***** TODO Week 8 Lectures
       DEADLINE: <2013-02-24 Sun> SCHEDULED: <2013-02-18 Mon>
       :PROPERTIES:
       :ID:       7caeed49-8f45-4df4-80a5-50ad4cae3bc7
@@ -761,7 +807,7 @@ Update this based on Bo's comments.
        :PROPERTIES:
        :ID:       d82697a4-f67e-4497-86e3-e28be4bff2e1
        :END:
-***** TODO Week 9
+***** TODO Week 9 Lectures
       DEADLINE: <2013-03-03 Sun> SCHEDULED: <2013-02-25 Mon>
       :PROPERTIES:
       :ID:       0cf82863-ff47-4f85-9e7c-5325574f63e7
@@ -778,7 +824,7 @@ Update this based on Bo's comments.
        :PROPERTIES:
        :ID:       7895874a-ffb2-48d9-8252-c4131d248f85
        :END:
-***** TODO Week 10
+***** TODO Week 10 Lectures
       DEADLINE: <2013-03-10 Sun> SCHEDULED: <2013-03-04 Mon>
       :PROPERTIES:
       :ID:       0ce633a5-c530-49b7-8f10-4ee12f0f4274
@@ -813,6 +859,9 @@ Update this based on Bo's comments.
 [2012-12-17 Mon 13:55]
 
 ** Classroom Technology Training Session
+   :PROPERTIES:
+   :ID:       08426a42-e2ed-4a58-bd9b-62d687b30b6b
+   :END:
 <2013-01-04 Fri 10:00-14:00>
 ** TODO Evaluate Bo
   :LOGBOOK:
@@ -938,7 +987,7 @@ homeomorphic to S^4 or to a connected sum of CP^2s.
     :ID:       4c4bf1f0-c81d-4fb5-b970-9da250ba0b4e
     :END:
     <2013-01-17 Thu 10:00-11:00 +1w>
-*** TODO Send DG seminar email announcement
+*** NEXT Send DG seminar email announcement
     - State "DONE"       from "NEXT"       [2013-01-03 Thu 10:26]
     - State "DONE"       from "NEXT"       [2012-12-06 Thu 14:00]
     - State "DONE"       from "TODO"       [2012-11-29 Thu 09:46]
