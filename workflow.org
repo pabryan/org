@@ -921,7 +921,7 @@ Does mutt integrate well?
   :END:
 ** Organisation
   :LOGBOOK:
-  CLOCK: [2013-01-08 Tue 07:30]
+  CLOCK: [2013-01-08 Tue 07:30]--[2013-01-08 Tue 07:45] =>  0:15
   CLOCK: [2013-01-07 Mon 14:07]--[2013-01-07 Mon 14:09] =>  0:02
   CLOCK: [2013-01-07 Mon 13:53]--[2013-01-07 Mon 13:54] =>  0:01
   CLOCK: [2013-01-07 Mon 12:56]--[2013-01-07 Mon 13:00] =>  0:04
@@ -1073,6 +1073,7 @@ Maybe I should also have work and personal reviews, including reviewing my healt
     - State "DONE"       from "NEXT"       [2012-12-07 Fri 13:44]
     - State "DONE"       from "NEXT"       [2012-11-30 Fri 14:06]
     :LOGBOOK:
+    CLOCK: [2013-01-08 Tue 07:57]
     CLOCK: [2012-12-24 Mon 15:16]--[2012-12-24 Mon 15:48] =>  0:32
     CLOCK: [2012-12-17 Mon 14:14]--[2012-12-17 Mon 14:49] =>  0:35
     CLOCK: [2012-12-17 Mon 13:55]--[2012-12-17 Mon 14:13] =>  0:18
@@ -1116,13 +1117,15 @@ What to review:
   - daily agenda first - knock off items
   - then work on NEXT tasks
 
-** NEXT Weekly preperation, collection and clean up [0/5]
-    SCHEDULED: <2012-12-31 Mon .+7d/10d>
+** NEXT Weekly preperation, collection and clean up [0/4]
+   SCHEDULED: <2013-01-15 Tue .+7d/10d>
+   - State "DONE"       from "NEXT"       [2013-01-08 Tue 07:57]
     - State "DONE"       from "NEXT"       [2012-12-24 Mon 15:50]
     - State "DONE"       from "NEXT"       [2012-12-17 Mon 19:53]
     - State "DONE"       from "NEXT"       [2012-12-10 Mon 20:27]
     - State "DONE"       from "NEXT"       [2012-11-30 Fri 14:58]
     :LOGBOOK:
+    CLOCK: [2013-01-08 Tue 07:45]--[2013-01-08 Tue 07:57] =>  0:12
     CLOCK: [2012-12-17 Mon 19:50]--[2012-12-17 Mon 20:03] =>  0:13
     CLOCK: [2012-12-10 Mon 20:09]--[2012-12-10 Mon 20:27] =>  0:18
     CLOCK: [2012-11-30 Fri 14:11]--[2012-11-30 Fri 14:58] =>  0:47
@@ -1134,14 +1137,13 @@ What to review:
 :REPEAT_TO_STATE: NEXT
 :RESET_CHECK_BOXES: t
 :ID: d5f309c0-dee9-4f12-af59-e9273ebd6ddf
-:LAST_REPEAT: [2012-12-24 Mon 15:50]
+:LAST_REPEAT: [2013-01-08 Tue 07:57]
 :END:
 
 - [ ] Clean up Downloads
 - [ ] Clean up tmp
 - [ ] Clean up tablet
 - [ ] Clean up phone
-- [ ] Set up weekly exercise log
 
 
 Maybe write journal of the week at some stage?
