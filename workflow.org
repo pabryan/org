@@ -1068,7 +1068,7 @@ Does mutt integrate well?
 ** Notes
 Here I look at my goals, my tasks and how I've been spending my time and use that information to plan out the coming week/month/year etc.
 Maybe I should also have work and personal reviews, including reviewing my health scores.
-** NEXT Weekly Review [2/11]
+** NEXT Weekly Review [5/11]
     SCHEDULED: <2012-12-31 Mon .+7d/10d>
     - State "DONE"       from "NEXT"       [2012-12-24 Mon 15:48]
     - State "DONE"       from "NEXT"       [2012-12-17 Mon 14:49]
@@ -1102,9 +1102,9 @@ What to review:
 - [X] Check follow-up paper folder
 - [X] Check holding directory
   [[file:~/Dropbox/holding]]
-- [ ] Check holding email folder
-- [ ] Review weekly agenda =F12 a w//=
-- [ ] Check clocking data for past week =v c=
+- [X] Check holding email folder
+- [X] Review weekly agenda =F12 a w//=
+- [X] Check clocking data for past week =v c=
   - fix up any errors
 - [ ] Review clock report for past week =R=
   - Check where we spent time (too much or too little) and rectify this week
