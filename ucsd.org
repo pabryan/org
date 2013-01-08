@@ -949,11 +949,16 @@ Update this based on Bo's comments.
     :END:
 
 ** TODO UCSD DG Seminar
+   :PROPERTIES:
+   :ID:       fa6cea64-9d5f-462e-8240-9f423a327330
+   :END:
+*** Organising
    :LOGBOOK:
    CLOCK: [2013-01-07 Mon 13:00]--[2013-01-07 Mon 13:45] =>  0:45
    :END:
-   :PROPERTIES:
-   :ID:       fa6cea64-9d5f-462e-8240-9f423a327330
+*** UCSD DG Seminar
+   :LOGBOOK:
+   CLOCK: [2013-01-08 Tue 10:00]--[2013-01-08 Tue 11:00] =>  1:00
    :END:
 *** Somali's talk
     :PROPERTIES:
