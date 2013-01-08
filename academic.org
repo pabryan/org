@@ -427,6 +427,8 @@ Sequences of manifolds and convergence. What is smooth convergence? Can it be de
 
 ** Tasks
 *** TODO Organise research papers
+    :LOGBOOK:
+    :END:
     :PROPERTIES:
     :ID:       27dd1954-9abe-4a87-9bcd-36027c643fdb
     :END:
@@ -481,7 +483,11 @@ See also
      :PROPERTIES:
      :ID:       57e9b039-e848-43d9-a7c6-b46fed373170
      :END:
-**** NEXT Collect pdf's into single directory
+**** DONE Collect pdf's into single directory
+     - State "DONE"       from "NEXT"       [2013-01-08 Tue 08:51]
+     :LOGBOOK:
+     CLOCK: [2013-01-08 Tue 08:46]--[2013-01-08 Tue 08:51] =>  0:05
+     :END:
     :PROPERTIES:
     :ID:       9defa0b0-c473-4347-9cf3-574714e81f7d
     :END:
