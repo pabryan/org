@@ -916,6 +916,24 @@
 :END:
 
 [2013-01-09 Wed 08:16]
+**** Walk
+     :LOGBOOK:
+     CLOCK: [2013-01-09 Wed 08:40]--[2013-01-09 Wed 09:30] =>  0:50
+     :END:
+:PROPERTIES:
+:Type: None
+:Intensity: None
+:RestHR: 
+:FinalHR:
+:Score:
+:Technique:
+:Effort:
+:Discomfort:
+:END:
+
+[2013-01-09 Wed 09:36]
+:Intensity: None
+:Type: Compensation
 * conv code
   :PROPERTIES:
   :ID:       547e575e-820e-40c1-bd37-4714b4238af6
