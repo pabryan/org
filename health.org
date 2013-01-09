@@ -40,7 +40,8 @@
 :END:
     
 *** NEXT Low Intensity
-    SCHEDULED: <2013-01-08 Tue .+4d/5d>
+    SCHEDULED: <2013-01-12 Sat .+4d/5d>
+    - State "DONE"       from "NEXT"       [2013-01-08 Tue 21:13]
     - State "DONE"       from "NEXT"       [2013-01-04 Fri 18:15]
     - State "DONE"       from "NEXT"       [2013-01-02 Wed 19:36]
     - State "DONE"       from "NEXT"       [2013-01-01 Tue 16:05]
@@ -77,7 +78,7 @@ CLOCK: [2012-11-20 Tue 15:30]--[2012-11-20 Tue 16:00] =>  0:30
 :PROPERTIES:
 :STYLE: habit
 :REPEAT_TO_STATE: NEXT
-:LAST_REPEAT: [2013-01-06 Sun 08:40]
+:LAST_REPEAT: [2013-01-09 Wed 07:13]
 :ID: c5da0e4d-cf57-4caf-ba23-369257edd6ac
 :END:
 

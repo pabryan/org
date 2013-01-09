@@ -6,6 +6,9 @@
   :ID:       c68e08d3-cbfa-4207-a6e5-f56a3be57ad1
   :END:
 ** NEXT Punch In/Out
+   :PROPERTIES:
+   :ID:       e40f5241-3a84-496d-97f5-43fa7f5e2cd9
+   :END:
 This should sync with bitbucket, sync with mobile org and check the status of working projects.
 ** NEXT Set up level 1 headings (with properties)		   :COMPUTER:
    :PROPERTIES:
@@ -1099,6 +1102,10 @@ For the following, do I just use the existing diary.org capture template or perh
 
 ** NEXT Daily Plan
    SCHEDULED: <2013-01-09 Wed .+1d/2d>
+   :LOGBOOK:
+   CLOCK: [2013-01-09 Wed 07:18]
+   CLOCK: [2013-01-09 Wed 07:13]--[2013-01-09 Wed 07:18] =>  0:05
+   :END:
 
    :PROPERTIES:
    :STYLE:    habit
