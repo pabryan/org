@@ -486,8 +486,9 @@ Update this based on Bo's comments.
    :ID:       1143f380-6198-4a55-b640-8d8e9c7cfb72
    :END:
 [[file:~/working/ucsd/teaching/math142B_winter_2013]]
-*** TODO Lecturing
+*** NEXT Lecturing
    :LOGBOOK:
+   CLOCK: [2013-01-09 Wed 10:53]
    CLOCK: [2013-01-07 Mon 11:00]--[2013-01-07 Mon 12:00] =>  1:00
    :END:
     :PROPERTIES:
@@ -690,7 +691,7 @@ Update this based on Bo's comments.
 ****** DONE Prepare lecture 1-2
        - State "DONE"       from "NEXT"       [2013-01-08 Tue 14:10]
        :LOGBOOK:
-       CLOCK: [2013-01-09 Wed 10:38]
+       CLOCK: [2013-01-09 Wed 10:38]--[2013-01-09 Wed 10:53] =>  0:15
        CLOCK: [2013-01-08 Tue 13:25]--[2013-01-08 Tue 14:10] =>  0:45
        :END:
        :PROPERTIES:
