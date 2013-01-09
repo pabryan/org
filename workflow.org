@@ -921,6 +921,7 @@ Does mutt integrate well?
   :END:
 ** Organisation
   :LOGBOOK:
+  CLOCK: [2013-01-08 Tue 19:34]
   CLOCK: [2013-01-08 Tue 15:07]--[2013-01-08 Tue 15:13] =>  0:06
   CLOCK: [2013-01-08 Tue 13:05]--[2013-01-08 Tue 13:25] =>  0:20
   CLOCK: [2013-01-08 Tue 08:51]--[2013-01-08 Tue 08:53] =>  0:02
@@ -1065,21 +1066,57 @@ Does mutt integrate well?
   :ID:       d1b2e733-536a-4601-93c1-b3a544f11c16
   :END:
 
-* Reviews
+* Reviews and Plans
   :PROPERTIES:
   :ID:       c3fc0372-36c9-4bc4-9aac-99a6df0b741d
   :END:
 ** Notes
 Here I look at my goals, my tasks and how I've been spending my time and use that information to plan out the coming week/month/year etc.
 Maybe I should also have work and personal reviews, including reviewing my health scores.
+** NEXT Daily Review [0/2]
+   SCHEDULED: <2013-01-09 Wed .+1d/2d>
+
+   :PROPERTIES:
+   :STYLE:    habit
+   :REPEAT_TO_STATE: NEXT
+   :RESET_CHECK_BOXES: t
+   :END:
+
+What to review:
+
+- [ ] Review tasks list for the day and compare with clock table
+- [ ] Enter score for the day
+
+** NEXT Daily Plan
+   SCHEDULED: <2013-01-09 Wed .+1d/2d>
+
+   :PROPERTIES:
+   :STYLE:    habit
+   :REPEAT_TO_STATE: NEXT
+   :RESET_CHECK_BOXES: t
+   :END:
+
+Set tasks in [[file:~/org/today.org]]
+
+** NEXT Weekly Plan
+   SCHEDULED: <2013-01-09 Wed .+7d/10d>
+
+   :PROPERTIES:
+   :STYLE:    habit
+   :REPEAT_TO_STATE: NEXT
+   :RESET_CHECK_BOXES: t
+   :END:
+
+Set tasks in [[file:week.org]]
+
 ** NEXT Weekly Review [0/11]
    SCHEDULED: <2013-01-15 Tue .+7d/10d>
    - State "DONE"       from "NEXT"       [2013-01-08 Tue 08:39]
-    - State "DONE"       from "NEXT"       [2012-12-24 Mon 15:48]
-    - State "DONE"       from "NEXT"       [2012-12-17 Mon 14:49]
-    - State "DONE"       from "NEXT"       [2012-12-07 Fri 13:44]
-    - State "DONE"       from "NEXT"       [2012-11-30 Fri 14:06]
-    :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2012-12-24 Mon 15:48]
+   - State "DONE"       from "NEXT"       [2012-12-17 Mon 14:49]
+   - State "DONE"       from "NEXT"       [2012-12-07 Fri 13:44]
+   - State "DONE"       from "NEXT"       [2012-11-30 Fri 14:06]
+   :LOGBOOK:
     CLOCK: [2013-01-08 Tue 08:15]--[2013-01-08 Tue 08:41] =>  0:26
     CLOCK: [2012-12-24 Mon 15:16]--[2012-12-24 Mon 15:48] =>  0:32
     CLOCK: [2012-12-17 Mon 14:14]--[2012-12-17 Mon 14:49] =>  0:35
@@ -1094,13 +1131,13 @@ Maybe I should also have work and personal reviews, including reviewing my healt
     CLOCK: [2012-11-29 Thu 14:20]--[2012-11-29 Thu 14:26] =>  0:09
     :END:
 
-    :PROPERTIES:
-:STYLE: habit
-:REPEAT_TO_STATE: NEXT
-:ID: 846c05fa-21d7-4e6f-8431-a1fa06631945
-:RESET_CHECK_BOXES: t
-    :LAST_REPEAT: [2013-01-08 Tue 08:39]
-:END:
+   :PROPERTIES:
+   :STYLE:    habit
+   :REPEAT_TO_STATE: NEXT
+   :ID:       846c05fa-21d7-4e6f-8431-a1fa06631945
+   :RESET_CHECK_BOXES: t
+   :LAST_REPEAT: [2013-01-08 Tue 08:39]
+   :END:
 
 What to review:
 
@@ -1124,7 +1161,7 @@ What to review:
   - daily agenda first - knock off items
   - then work on NEXT tasks
 
-** NEXT Weekly preperation, collection and clean up [0/4]
+** NEXT Weekly collection and clean up [0/4]
    SCHEDULED: <2013-01-15 Tue .+7d/10d>
    - State "DONE"       from "NEXT"       [2013-01-08 Tue 07:57]
     - State "DONE"       from "NEXT"       [2012-12-24 Mon 15:50]
