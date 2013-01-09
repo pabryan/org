@@ -5,6 +5,8 @@
   :PROPERTIES:
   :ID:       c68e08d3-cbfa-4207-a6e5-f56a3be57ad1
   :END:
+** NEXT Punch In/Out
+This should sync with bitbucket, sync with mobile org and check the status of working projects.
 ** NEXT Set up level 1 headings (with properties)		   :COMPUTER:
    :PROPERTIES:
    :ID:       5196f0ca-ccb1-4fcc-b483-20f3f835838d
@@ -921,7 +923,7 @@ Does mutt integrate well?
   :END:
 ** Organisation
   :LOGBOOK:
-  CLOCK: [2013-01-08 Tue 19:34]
+  CLOCK: [2013-01-08 Tue 19:34]--[2013-01-08 Tue 19:46] =>  0:12
   CLOCK: [2013-01-08 Tue 15:07]--[2013-01-08 Tue 15:13] =>  0:06
   CLOCK: [2013-01-08 Tue 13:05]--[2013-01-08 Tue 13:25] =>  0:20
   CLOCK: [2013-01-08 Tue 08:51]--[2013-01-08 Tue 08:53] =>  0:02
@@ -1073,19 +1075,27 @@ Does mutt integrate well?
 ** Notes
 Here I look at my goals, my tasks and how I've been spending my time and use that information to plan out the coming week/month/year etc.
 Maybe I should also have work and personal reviews, including reviewing my health scores.
-** NEXT Daily Review [0/2]
+** NEXT Daily Review [0/1]
    SCHEDULED: <2013-01-09 Wed .+1d/2d>
 
    :PROPERTIES:
    :STYLE:    habit
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
+   :ID:       616c5bd9-d941-4fcc-8874-2ff3c9e96b4a
    :END:
 
 What to review:
 
-- [ ] Review tasks list for the day and compare with clock table
+- [ ] Review tasks list for the day and compare with clock table, effort estimates
+
+When I set up scoring the day:
+
 - [ ] Enter score for the day
+
+For the following, do I just use the existing diary.org capture template or perhaps add a daily reflection template (possibly storing it in diary.org but with a property set to identify it as a reflection):
+
+- [ ] Write down any thoughts, relections on the day.
 
 ** NEXT Daily Plan
    SCHEDULED: <2013-01-09 Wed .+1d/2d>
@@ -1094,9 +1104,10 @@ What to review:
    :STYLE:    habit
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
+   :ID:       ef051ee0-1113-4604-b355-450a5a47848b
    :END:
 
-Set tasks in [[file:~/org/today.org]]
+Set tasks in [[file:~/org/today.org]].
 
 ** NEXT Weekly Plan
    SCHEDULED: <2013-01-09 Wed .+7d/10d>
@@ -1105,9 +1116,10 @@ Set tasks in [[file:~/org/today.org]]
    :STYLE:    habit
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
+   :ID:       b98ed4bd-0690-4a23-8c8f-c72bd8e39954
    :END:
 
-Set tasks in [[file:week.org]]
+Set tasks and focus in [[file:~/org/week.org]].
 
 ** NEXT Weekly Review [0/11]
    SCHEDULED: <2013-01-15 Tue .+7d/10d>
