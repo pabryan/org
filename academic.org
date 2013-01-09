@@ -73,6 +73,14 @@ Geisel Library room 274
    :END:
 [[file:~/working/academic/journals/review/MR2948294]]
 
+** TODO Review Generic MCF I
+   :PROPERTIES:
+   :ID:       402957bd-262b-4fba-8630-1192eef2bc86
+   :END:
+[[file:~/research_resources/papers/MR2993752.pdf]]
+[MR2993752 Colding, Tobias H.\ and Minicozzi, William P., II,  Generic mean curvature flow I: generic singularities, Ann. of Math. (2) 175 (2012), no. 2, 755--833]
+[[file:refs.org::#MR2993752][Generic mean curvature flow {I}: generic singularities]]
+
 * Research
   :PROPERTIES:
   :ID:       44348474-b144-4b4b-a046-12439b2f7727
@@ -582,7 +590,6 @@ www.math.jussieu.fr/~cordero/Docs/articles/pl.pdf
 
 *** Check colding new monotonicity paper
 
-
 * Seminars
   :PROPERTIES:
   :ID:       1e7a7317-1668-4432-a995-cdaa9293f7af
@@ -722,3 +729,12 @@ Should I just make a script that takes the project name and does all this?
 - [ ] Put under VC control
 - [ ] Create empty bitbucket repository
 - [ ] Clone local to bitbucket
+* Reading
+  :PROPERTIES:
+  :ID:       14b72a3f-fa8c-4c71-8fb7-dd29dde1ae3a
+  :END:
+** TODO Read Calculus of Variations and Partial Differential Equations, Vol. 46, Issue 1 - New Issue Alert
+   :PROPERTIES:
+   :ID:       be1191b3-72e9-45a5-bfb2-6193b0b8443f
+   :END:
+It's in an email.

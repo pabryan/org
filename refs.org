@@ -74,6 +74,12 @@
 :END:
 [[papers:MR2953850][MR2953850-paper]]
 
+***** Generic mean curvature flow {I}: generic singularities
+:PROPERTIES:
+:Custom_ID: MR2993752
+:END:
+[[papers:MR2993752][MR2993752-paper]]
+
 **** 53C15   (1973-now) General geometric structures on manifolds (almost complex, almost product structures, etc.)
 ***** Noncommutative {G}auss map
 :PROPERTIES:
@@ -206,6 +212,7 @@ Here I need to do some more work since $u \mapsto g(\grad u, \grad u)$ is not a 
 :Custom_ID: MR2170766
 :END:
 [[papers:MR2170766][MR2170766-paper]]
+
 
 
 * Arxiv
