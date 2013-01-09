@@ -9,11 +9,3 @@
 [2013-01-09 Wed 07:38]
 
 It should make the relevant web entry and also the email notice. Possibly I could have a capture template with properties which I fill in. Then it stored as either a date tree or just one long list?
-* TODO Respond to %:from on %:subject
-  :LOGBOOK:
-  :END:
-  :PROPERTIES:
-  :ID:       380d987b-e084-4611-8719-9a79a7fa25c1
-  :END:
-[2013-01-09 Wed 09:57]
-[[file:~/working/academic/research/ricci_surfaces_isoperimetric_comparison/ricci_surfaces_isoperimetric_comparison.org::*General%20case%20via%20rotationally%20symmetric][General case via rotationally symmetric]]
