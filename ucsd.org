@@ -917,7 +917,7 @@ Update this based on Bo's comments.
    :END:
 [2012-12-21 Fri 11:51]
 
-* Seminars
+* Seminars							    :SEMINAR:
   :PROPERTIES:
   :ID:       4a7b50f0-8368-4d3a-bc5d-c0e229fd442f
   :END:
@@ -953,12 +953,14 @@ Update this based on Bo's comments.
     :END:
 
 ** TODO UCSD DG Seminar
+   :LOGBOOK:
+   :END:
    :PROPERTIES:
    :ID:       fa6cea64-9d5f-462e-8240-9f423a327330
    :END:
-*** Organising
+*** Organising UCSD DG SEMINAR
    :LOGBOOK:
-   CLOCK: [2013-01-09 Wed 07:41]
+   CLOCK: [2013-01-09 Wed 07:41]--[2013-01-09 Wed 07:57] =>  0:16
    CLOCK: [2013-01-07 Mon 13:00]--[2013-01-07 Mon 13:45] =>  0:45
    :END:
 *** UCSD DG Seminar
