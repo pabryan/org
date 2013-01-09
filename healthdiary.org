@@ -902,21 +902,20 @@
 
 **** Qi Gong 
      :LOGBOOK:
-     CLOCK: [2013-01-09 Wed 08:16]
+     CLOCK: [2013-01-09 Wed 08:16]--[2013-01-09 Wed 08:29] =>  0:13
      :END:
 :PROPERTIES:
 :Intensity: None
 :Type: Mobility
-:RestHR: 
-:FinalHR:
+:RestHR: 60
+:FinalHR: 66
 :Score:
-:Technique:
-:Effort:
-:Discomfort:
+:Technique: 9
+:Effort: 2
+:Discomfort: 3
 :END:
 
 [2013-01-09 Wed 08:16]
-
 * conv code
   :PROPERTIES:
   :ID:       547e575e-820e-40c1-bd37-4714b4238af6
