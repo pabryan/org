@@ -201,7 +201,8 @@ CLOCK: [2013-01-04 Fri 09:44]--[2013-01-04 Fri 09:48] =>  0:04
 :LAST_REPEAT: [2013-01-06 Sun 08:49]
 :END:
 *** NEXT Meditate
-    SCHEDULED: <2013-01-06 Sun .+1d/2d>
+    SCHEDULED: <2013-01-09 Wed .+1d/2d>
+    - State "DONE"       from "NEXT"       [2013-01-08 Tue 19:29]
     - State "DONE"       from "NEXT"       [2013-01-05 Sat 16:11]
     - State "DONE"       from "NEXT"       [2013-01-03 Thu 18:58]
     - State "DONE"       from "NEXT"       [2013-01-02 Wed 19:35]
@@ -267,7 +268,7 @@ CLOCK: [2013-01-04 Fri 09:44]--[2013-01-04 Fri 09:48] =>  0:04
 :STYLE: habit
 :REPEAT_TO_STATE: NEXT
 :ID: e2e6b51c-d085-4668-ac4f-9d7e13df147d
-:LAST_REPEAT: [2013-01-05 Sat 16:11]
+:LAST_REPEAT: [2013-01-08 Tue 19:29]
 :END:
 ** Routines 
 *** Template
