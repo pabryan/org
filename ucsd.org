@@ -1051,6 +1051,9 @@ homeomorphic to S^4 or to a connected sum of CP^2s.
     :END:
     <2013-01-17 Thu 10:00-11:00 +1w>
 *** NEXT Send DG seminar email announcement
+    :LOGBOOK:
+    CLOCK: [2013-01-10 Thu 09:16]
+    :END:
     - State "DONE"       from "NEXT"       [2013-01-03 Thu 10:26]
     - State "DONE"       from "NEXT"       [2012-12-06 Thu 14:00]
     - State "DONE"       from "TODO"       [2012-11-29 Thu 09:46]
