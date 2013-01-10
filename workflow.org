@@ -1109,6 +1109,7 @@ For the following, do I just use the existing diary.org capture template or perh
    SCHEDULED: <2013-01-10 Thu .+1d/2d>
    - State "DONE"       from "NEXT"       [2013-01-09 Wed 07:19]
    :LOGBOOK:
+   CLOCK: [2013-01-10 Thu 08:38]
    CLOCK: [2013-01-09 Wed 07:18]--[2013-01-09 Wed 07:19] =>  0:01
    CLOCK: [2013-01-09 Wed 07:13]--[2013-01-09 Wed 07:18] =>  0:05
    :END:
