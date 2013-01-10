@@ -1,11 +1,1 @@
 #+FILETAGS: REFILE
-* TODO Set up seminar creation process
-  :LOGBOOK:
-  CLOCK: [2013-01-09 Wed 07:38]--[2013-01-09 Wed 07:41] =>  0:03
-  :END:
-  :PROPERTIES:
-  :ID:       019af343-af53-4a1c-b8d5-6c1bec087bc8
-  :END:
-[2013-01-09 Wed 07:38]
-
-It should make the relevant web entry and also the email notice. Possibly I could have a capture template with properties which I fill in. Then it stored as either a date tree or just one long list?
