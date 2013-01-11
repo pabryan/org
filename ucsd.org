@@ -951,6 +951,8 @@ Update this based on Bo's comments.
     - State "DONE"       from "NEXT"       [2012-10-19 Fri 15:24]
 
 *** DONE Advertise seminar
+    :LOGBOOK:
+    :END:
     - State "DONE"       from "NEXT"       [2012-10-26 Fri 15:01]
     :PROPERTIES:
     :ID:       4840471b-e6b2-4079-b67c-7b261adf77d6
