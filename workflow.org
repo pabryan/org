@@ -1123,7 +1123,7 @@ For the following, do I just use the existing diary.org capture template or perh
    :LAST_REPEAT: [2013-01-10 Thu 09:22]
    :END:
 
-Set tasks in [[file:~/org/today.org]].
+Set tasks in [[file:plans/today.org]].
 
 ** NEXT Weekly Plan
    SCHEDULED: <2013-01-09 Wed .+7d/10d>
