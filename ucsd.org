@@ -488,6 +488,7 @@ Update this based on Bo's comments.
 [[file:~/working/ucsd/teaching/math142B_winter_2013]]
 *** NEXT Lecturing
    :LOGBOOK:
+   CLOCK: [2013-01-11 Fri 11:00]--[2013-01-11 Fri 12:05] =>  1:05
    CLOCK: [2013-01-09 Wed 10:53]--[2013-01-09 Wed 11:56] =>  1:03
    CLOCK: [2013-01-07 Mon 11:00]--[2013-01-07 Mon 12:00] =>  1:00
    :END:
@@ -677,8 +678,9 @@ Update this based on Bo's comments.
      :PROPERTIES:
      :ID:       cb6490d4-44bd-4622-8b1e-b0c7233b53e2
      :END:
-***** TODO Week 1 Lectures
+***** DONE Week 1 Lectures
       DEADLINE: <2013-01-06 Sun> SCHEDULED: <2013-01-02 Wed>      
+      - State "DONE"       from "TODO"       [2013-01-11 Fri 11:00]
       :PROPERTIES:
       :ID:       ba6bb075-0ca2-4a8c-b92e-97a363939457
       :END:
@@ -697,8 +699,10 @@ Update this based on Bo's comments.
        :PROPERTIES:
        :ID:       6fdfb560-c451-49f4-8029-375abe3195c1
        :END:
-****** NEXT Prepare lecture 1-3
+****** DONE Prepare lecture 1-3
+       - State "DONE"       from "NEXT"       [2013-01-11 Fri 11:00]
        :LOGBOOK:
+       CLOCK: [2013-01-11 Fri 10:30]--[2013-01-11 Fri 11:00] =>  0:30
        CLOCK: [2013-01-10 Thu 11:50]--[2013-01-10 Thu 12:09] =>  0:19
        CLOCK: [2013-01-10 Thu 11:10]--[2013-01-10 Thu 11:47] =>  0:37
        :END:
@@ -959,9 +963,6 @@ Update this based on Bo's comments.
     :END:
 
 ** TODO UCSD DG Seminar
-   :LOGBOOK:
-   CLOCK: [2013-01-10 Thu 16:22]
-   :END:
    :PROPERTIES:
    :ID:       fa6cea64-9d5f-462e-8240-9f423a327330
    :END:
@@ -1056,20 +1057,33 @@ homeomorphic to S^4 or to a connected sum of CP^2s.
     :ID:       4c4bf1f0-c81d-4fb5-b970-9da250ba0b4e
     :END:
     <2013-01-17 Thu 10:00-11:00 +1w>
-*** TODO Send DG seminar email announcement
+*** NEXT Send DG seminar email announcement
     - State "DONE"       from "NEXT"       [2013-01-10 Thu 09:20]
-    :LOGBOOK:
-    CLOCK: [2013-01-10 Thu 09:16]--[2013-01-10 Thu 09:20] =>  0:04
-    :END:
     - State "DONE"       from "NEXT"       [2013-01-03 Thu 10:26]
     - State "DONE"       from "NEXT"       [2012-12-06 Thu 14:00]
     - State "DONE"       from "TODO"       [2012-11-29 Thu 09:46]
+    :LOGBOOK:
+    CLOCK: [2013-01-10 Thu 09:16]--[2013-01-10 Thu 09:20] =>  0:04
+    :END:
     :PROPERTIES:
     :ID:       0f19da7c-65a3-4e95-8a91-78d12caa46da
+    :REPEAT_TO_STATE: NEXT
     :LAST_REPEAT: [2013-01-10 Thu 09:20]
     :END: 
 <2013-01-17 Thu +1w>
 [[mailto:seminarstaff@math.ucsd.edu]]
+**** Email tempate
+Speaker: 
+Home Institution: 
+Faculty Host: 
+Date: 
+Seminar Name: Differential Geometry
+Title: 
+Start Time: 10 am
+Location: AP&M 7218
+
+Abstract:
+
 
 *** DONE Organise Somali's talk
     - State "DONE"       from "NEXT"       [2012-12-20 Thu 11:14]
@@ -1143,18 +1157,6 @@ solution of the Hodge-Laplace heat equation, and circumvents the
 essential difficulties of the elliptic method previously adapted by
 many people without being able to prove the best possible result. This
 is a joint work with Luen-Fai Tam.
-
-*** Email tempate
-Speaker: 
-Home Institution: 
-Faculty Host: 
-Date: 
-Seminar Name: Differential Geometry
-Title: 
-Start Time: 10 am
-Location: AP&M 7218
-
-Abstract:
 
 *** TODO Set up seminar creation process
   :LOGBOOK:

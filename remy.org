@@ -42,10 +42,12 @@ $14 family
 
 *** Western BBQ
     :PROPERTIES:
-    :ID:       7f37c715-1d90-4c37-a7aa-10a31d841297
+    :ID:       90f12533-013d-4b5a-be32-182e6e843610
+
     :END:
 <2013-01-11 Fri 12:00-13:00>
-** DONE Apply for Charter schools [5/5]
+** Charter Schools 
+*** DONE Apply for Charter schools [5/5]
    - State "DONE"       from "NEXT"       [2013-01-06 Sun 14:46]
    :LOGBOOK:
    CLOCK: [2012-12-29 Sat 19:11]--[2012-12-29 Sat 19:41] =>  0:30
@@ -53,7 +55,7 @@ $14 family
    :PROPERTIES:
    :ID:       e295b7ee-8125-4d6b-abf8-7087db5d0136
    :END:
-- [X] SDCC
+- [X] SDCCS
   [[www.sdccs.org]]
 - [X] Innovations academy
   [[http://innovationsacademy.org]]
@@ -89,7 +91,33 @@ $14 family
   2230 Truxtun Road, San Diego, CA 92106
   619.795.3600
 
- 
+*** 2013 Tours
+**** SDCCS Tour
+<2013-01-23 Wed 09:00-10:00>
+**** Innovations academy Tour
+  - Saturday, January 26th 4:00 p.m.
+  - Wednesday, February 6th 9:15 a.m.
+  - Saturday, February 21st  6:00 p.m.
+  - Saturday, March 2nd  4:00 p.m.
+
+**** Museum School
+  - Tuesday, September 25 at 9:30am 
+  - Tuesday, October 16 at 9:30am
+  - Tuesday, October 23 at 9:30am - Emphasis on grades 3 -8
+  - Tuesday, November 13th at 9:30am
+  - Tuesday, December 11th at 9:30am
+  - Tuesday, January 29th at 9:30am
+  - Tuesday, February 5th at 9:30am
+  - Wednesday, February 6th at 9:30
+  - Monday, February 11th at 9:30
+
+*** Follow up on charter school applications
+    DEADLINE: <2013-01-13 Sun> SCHEDULED: <2013-01-12 Sat>
+    :PROPERTIES:
+    :ID:       51d155f6-7d15-4863-b25a-e4c56204bf5a
+    :END:
+Did they receive them?
+
 ** SOMEDAY Research authentic learning
   CLOCK: [2012-10-14 Sun 19:55]--[2012-10-14 Sun 19:55] =>  0:00
    :PROPERTIES:
@@ -98,14 +126,6 @@ $14 family
 [2012-10-14 Sun 19:55]
 
 I want to find things for Remy to do at home that keep his interest in the world aroud him, particularly in science but also language say. How can we work this into our daily lives?
-
-** TODO Apply for Remy's school
-  :LOGBOOK:
-  :END:
-  :PROPERTIES:
-  :ID:       bf44135d-12e5-4392-bc04-69f6e963cab8
-  :END:
-[2012-11-24 Sat 20:43]
 
 ** DONE Top up Remy's lunch money
    SCHEDULED: <2013-01-07 Mon>
@@ -120,11 +140,7 @@ I want to find things for Remy to do at home that keep his interest in the world
   :ID:       2555f5fb-96ff-4eb1-a57a-1ee0192674be
   :END:
 ** DONE Call KP about Remy's arm
-<<<<<<< local
    - State "DONE"       from "WAITING"    [2012-10-31 Wed 09:47]
-=======
-   - State "DONE"       from "WAITING"    [2012-10-30 Tue 12:35]
->>>>>>> other
 
   SCHEDULED: <2012-10-29 Mon>
   - State "WAITING"    from "NEXT"       [2012-10-29 Mon 10:23] \\
@@ -137,3 +153,14 @@ Orthopedics: 866 459 2912
 
 ** Orthopedic appointment
 <2012-11-01 Thu 13:30>
+
+* Activities
+  :PROPERTIES:
+  :ID:       bb7b4add-cfdb-4026-81a6-5a05c4399b19
+  :END:
+** Swimming
+*** Swimming Winter 2013
+Feb 12 - Mar 07
+Level 2, Session 2 17:00
+<2013-02-12 Tue 17:00-17:50>
+<2013-03-14 Thu 17:00-17:50>
