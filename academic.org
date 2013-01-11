@@ -102,10 +102,6 @@ Geisel Library room 274
     :PROPERTIES:
     :ID:       324119e3-a5fc-4279-9d83-28ac27de824b
     :END:
-*** NEXT Check high genus comparison computations
-    :PROPERTIES:
-    :ID:       60cbd811-022c-4afa-bb52-bc82b8694314
-    :END:			     
 *** DONE Copy text from thesis to paper
     - State "DONE"       from "NEXT"       [2012-12-17 Mon 10:54]
     - State "NEXT"       from "DONE"       [2012-12-13 Thu 16:06]
@@ -229,6 +225,13 @@ how are they related?
     :PROPERTIES:
     :ID:       9576f953-1b7f-4459-915a-b8378f6d8b80
     :END:
+*** NEXT Check high genus comparison computations
+    :LOGBOOK:
+    CLOCK: [2013-01-11 Fri 07:30]--[2013-01-11 Fri 08:05] =>  0:35
+    :END:
+    :PROPERTIES:
+    :ID:       60cbd811-022c-4afa-bb52-bc82b8694314
+    :END:			     
 ** TODO Pipe Flows 						  :PIPE_FLOW:
    :PROPERTIES:
    :ID:       cf90c8f0-dc09-44d4-87d4-f7000acc2ba1
