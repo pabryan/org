@@ -94,6 +94,17 @@
 :END:
 [[papers:MR2114163][MR2114163-paper]]
 
+**** 53C25   (1973-now) Special Riemannian manifolds (Einstein, Sasakian, etc.)
+***** Four-manifolds with positive curvature operator
+:PROPERTIES:
+:Custom_ID: MR862046
+:END:
+[[papers:MR862046][MR862046-paper]]
+***** Three-manifolds with positive {R}icci curvature
+:PROPERTIES:
+:Custom_ID: MR664497
+:END:
+[[papers:MR664497][MR664497-paper]]
 **** 53C40   (1973-now) Global submanifolds [See also 53B25]
 ***** On {A}. {H}urwitz' method in isoperimetric inequalities
 :PROPERTIES:
