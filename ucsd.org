@@ -714,7 +714,11 @@ Update this based on Bo's comments.
       :PROPERTIES:
       :ID:       f6d6f89c-b487-491d-8a78-e0c0b58528d7
       :END:
-****** NEXT Prepare lecture 2-1
+****** DONE Prepare lecture 2-1
+       - State "DONE"       from "NEXT"       [2013-01-13 Sun 11:04]
+       :LOGBOOK:
+       CLOCK: [2013-01-13 Sun 10:34]--[2013-01-13 Sun 11:04] =>  0:30
+       :END:
        :PROPERTIES:
        :ID:       8dadd573-ff8b-44df-ba78-ca6be94f30c1
        :END:
