@@ -928,8 +928,9 @@ contact: [[mailto:rosecanyon@san.rr.com][rosecanyon@san.rr.com]], 858-597-0220
     :ID:       f960a023-cfb7-4525-a413-a74e31168cec
     :END:
 
-*** Pick up San Diego Library reserves
+*** DONE Pick up San Diego Library reserves
     DEADLINE: <2013-01-22 Tue> SCHEDULED: <2013-01-10 Thu>
+    - State "DONE"       from ""           [2013-01-12 Sat 16:24]
     :PROPERTIES:
     :ID:       ef443cc3-7c75-43b0-a3db-e48d09f917f1
     :END:

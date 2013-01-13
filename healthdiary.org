@@ -1006,6 +1006,24 @@
 | Disc              |    |   |   |   |   |   |   |   |     |    |   |    |   |
 |                   |    |   |   |   |   |   |   |   |     |    |   |    |   |
        #+TBLFM: $10=vmin($2..$9)::@9$2=vmean(@2$11..@7$11)::@10$2=vsum(@2$10..@7$10)::@11$2=vmean(@2$12..@7$12)::@12$2=vmean(@2$13..@7$13)::@13$2=vmean(@2$14..@7$14)
+*** 2013-01-12 Saturday
+
+**** Intuflow 
+     :LOGBOOK:
+     CLOCK: [2013-01-12 Sat 10:36]--[2013-01-12 Sat 11:13] =>  0:36
+     :END:
+:PROPERTIES:
+:Intensity: None
+:Type: Mobility
+:RestHR: 60
+:FinalHR: 72
+:Score:
+:Technique: 9
+:Effort: 3
+:Discomfort: 2
+:END:
+
+[2013-01-12 Sat 16:21]
 * conv code
   :PROPERTIES:
   :ID:       547e575e-820e-40c1-bd37-4714b4238af6
