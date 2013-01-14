@@ -98,12 +98,7 @@
    :END:
 <2013-01-10 Thu 07:15>--<2013-01-10 Thu 07:30>
 ** Work								       :WORK:
-<2013-01-10 Thu 07:30>--<2013-01-10 Thu 08:30>
-** Exercise							     :HEALTH:
-   :PROPERTIES:
-   :ID:       745d52bf-b320-4d53-a436-2c122afc6d69
-   :END:
-<2013-01-10 Thu 08:30>--<2013-01-10 Thu 09:30>
+<2013-01-10 Thu 07:30>--<2013-01-10 Thu 09:30>
 ** Travel to work						     :TRAVEL:
    :PROPERTIES:
    :ID:       cab42ea0-6c69-44dd-ba96-8b243c1e9c47
@@ -121,18 +116,24 @@
    :ID:       7dc61997-ac12-4c9c-9957-834bec09f127
    :END:
 <2013-01-10 Thu 12:00>--<2013-01-10 Thu 13:00>
-** Work								       :WORK:
-   :PROPERTIES:
-   :ID:       113e06af-e2b4-427f-9776-9a6b612132b0
-   :END:
-<2013-01-10 Thu 13:00>--<2013-01-10 Thu 15:00>
 ** Travel to home 						     :TRAVEL:
    :PROPERTIES:
    :ID:       617cb601-f135-4387-820b-2af94305404e
    :END:
-<2013-01-10 Thu 15:00>--<2013-01-10 Thu 15:30>
+<2013-01-10 Thu 13:00>--<2013-01-10 Thu 13:30>
 ** Meditate							     :HEALTH:
-<2013-01-10 Thu 16:00>--<2013-01-10 Thu 17:00>
+<2013-01-10 Thu 13:30>--<2013-01-10 Thu 14:30>
+** Exercise							     :HEALTH:
+   :PROPERTIES:
+   :ID:       745d52bf-b320-4d53-a436-2c122afc6d69
+   :END:
+<2013-01-10 Thu 14:30>--<2013-01-10 Thu 15:30>
+
+** Work								       :WORK:
+   :PROPERTIES:
+   :ID:       113e06af-e2b4-427f-9776-9a6b612132b0
+   :END:
+<2013-01-10 Thu 16:00>--<2013-01-10 Thu 17:30>
 ** Dinner 							       :MEAL:
    :PROPERTIES:
    :ID:       40e58c1c-b0a8-4c82-a451-7be03d36fd0d
