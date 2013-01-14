@@ -1,4 +1,4 @@
-#+LAST_MOBILE_CHANGE: 2013-01-12 16:17:59
+#+LAST_MOBILE_CHANGE: 2013-01-14 07:10:47
 #+FILETAGS: HEALTH
 * Exercise							   :EXERCISE:
   :PROPERTIES:
@@ -1065,6 +1065,9 @@ Do as many sets as possible in 20 mins.
   :ID:       388ded9e-79b9-4d94-bba7-0b5bcc314c75
   :END:
 * Sleep								      :SLEEP:
+:LOGBOOK:
+CLOCK: [2013-01-14 Mon 06:35]--[2013-01-14 Mon 06:35] =>  0:00
+:END:
   :PROPERTIES:
   :ID:       4e099e68-e71a-49c9-9aeb-57630a120837
   :END:
