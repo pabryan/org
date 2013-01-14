@@ -560,8 +560,11 @@ Update this based on Bo's comments.
      :ID:       06696ba2-fa0c-4160-8f8c-d52c0e118378
      :END:
 
-**** TODO Set Homework 2
+**** NEXT Set Homework 2
      SCHEDULED: <2013-01-14 Mon>
+     :LOGBOOK:
+     CLOCK: [2013-01-14 Mon 10:32]
+     :END:
      :PROPERTIES:
      :ID:       69c41be6-500d-4bd5-bc5e-c1e603c9a5b2
      :END:
