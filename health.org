@@ -86,7 +86,9 @@ CLOCK: [2012-11-20 Tue 15:30]--[2012-11-20 Tue 16:00] =>  0:30
 :END:
 
 *** NEXT Mod Intensity
-    SCHEDULED: <2013-01-14 Mon .+4d/5d>
+    SCHEDULED: <2013-01-19 Sat .+4d/5d>
+    - State "CANCELLED"  from "NEXT"       [2013-01-15 Tue 09:54] \\
+      Sick
     - State "DONE"       from "NEXT"       [2013-01-10 Thu 16:22]
     - State "DONE"       from "NEXT"       [2013-01-05 Sat 13:12]
     - State "DONE"       from "NEXT"       [2012-12-28 Fri 11:41]
@@ -112,10 +114,12 @@ CLOCK: [2012-12-01 Sat 15:53]--[2012-12-01 Sat 16:48] =>  0:55
 :STYLE: habit
 :REPEAT_TO_STATE: NEXT
 :ID: 2fd02d93-9376-4172-b361-0e865b293007
-:LAST_REPEAT: [2013-01-12 Sat 16:22]
+:LAST_REPEAT: [2013-01-15 Tue 09:54]
 :END:
 *** NEXT High Intensity
-    SCHEDULED: <2013-01-15 Tue .+4d/5d>
+    SCHEDULED: <2013-01-19 Sat .+4d/5d>
+    - State "CANCELLED"  from "NEXT"       [2013-01-15 Tue 09:55] \\
+      Sick
     - State "DONE"       from "NEXT"       [2013-01-12 Sat 16:23]
     - State "CANCELLED"  from "NEXT"       [2013-01-07 Mon 12:58] \\
       Too much pain.
@@ -142,7 +146,7 @@ CLOCK: [2012-12-02 Sun 16:18]--[2012-12-02 Sun 17:05] =>  0:47
 :STYLE: habit
 :REPEAT_TO_STATE: NEXT
 :ID: d52c3978-eea8-457c-b9c9-1a38d6d54a88
-:LAST_REPEAT: [2013-01-12 Sat 16:23]
+:LAST_REPEAT: [2013-01-15 Tue 09:55]
 :END:
 *** NEXT Eye/Jaw exercises
     SCHEDULED: <2013-01-11 Fri .+1d/2d>
