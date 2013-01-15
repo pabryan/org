@@ -488,6 +488,7 @@ Update this based on Bo's comments.
 [[file:~/working/ucsd/teaching/math142B_winter_2013]]
 *** NEXT Lecturing
    :LOGBOOK:
+   CLOCK: [2013-01-14 Mon 10:50]--[2013-01-14 Mon 12:05] =>  1:15
    CLOCK: [2013-01-11 Fri 11:00]--[2013-01-11 Fri 12:05] =>  1:05
    CLOCK: [2013-01-09 Wed 10:53]--[2013-01-09 Wed 11:56] =>  1:03
    CLOCK: [2013-01-07 Mon 11:00]--[2013-01-07 Mon 12:00] =>  1:00
@@ -562,6 +563,10 @@ Update this based on Bo's comments.
 
 **** TODO Set Homework 2
      SCHEDULED: <2013-01-14 Mon>
+     :LOGBOOK:
+     CLOCK: [2013-01-14 Mon 10:32]--[2013-01-14 Mon 10:50]
+     :END:
+
      :PROPERTIES:
      :ID:       69c41be6-500d-4bd5-bc5e-c1e603c9a5b2
      :END:
