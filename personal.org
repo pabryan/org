@@ -891,8 +891,9 @@ contact: [[mailto:rosecanyon@san.rr.com][rosecanyon@san.rr.com]], 858-597-0220
 <2012-12-22 Sat 11:00>
 ** Whale watching
 <2013-01-26 Sat 09:00-13:00>
-*** TODO Book whale watching
+*** DONE Book whale watching
     DEADLINE: <2013-01-23 Wed> SCHEDULED: <2013-01-02 Wed>
+    - State "DONE"       from "TODO"       [2013-01-14 Mon 17:47]
     :PROPERTIES:
     :ID:       cda5f366-d518-4fe1-944e-8453d00f8eaf
     :END:
