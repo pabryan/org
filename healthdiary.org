@@ -1078,21 +1078,20 @@
 [2013-01-14 Mon 15:19]
 **** Intuflow 
      :LOGBOOK:
-     CLOCK: [2013-01-14 Mon 15:22]
+     CLOCK: [2013-01-14 Mon 15:22]--[2013-01-14 Mon 15:57] =>  0:35
      :END:
 :PROPERTIES:
 :Intensity: None
 :Type: Mobility
 :RestHR: 66
-:FinalHR:
+:FinalHR: 80
 :Score:
-:Technique:
-:Effort:
-:Discomfort:
+:Technique: 9
+:Effort: 4
+:Discomfort: 2
 :END:
 
 [2013-01-14 Mon 15:22]
-
 * conv code
   :PROPERTIES:
   :ID:       547e575e-820e-40c1-bd37-4714b4238af6
