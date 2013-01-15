@@ -172,6 +172,9 @@ Geisel Library room 274
      :ID:       98abaabf-bfd6-4a76-a363-d99dc50187ef
      :END:
 **** NEXT Write planar comparison
+     :LOGBOOK:
+     CLOCK: [2013-01-14 Mon 16:37]
+     :END:
      :PROPERTIES:
      :ID:       f275815c-cbd9-4226-aa90-04753e3fe110
      :END:
@@ -219,6 +222,7 @@ how are they related?
     :END:
 *** NEXT Work out hyperbolic barrier
     :LOGBOOK:
+    CLOCK: [2013-01-14 Mon 16:10]--[2013-01-14 Mon 16:35] =>  0:25
     CLOCK: [2013-01-14 Mon 09:10]--[2013-01-14 Mon 09:36] =>  0:26
     CLOCK: [2013-01-14 Mon 08:27]--[2013-01-14 Mon 09:04] =>  0:37
     CLOCK: [2013-01-11 Fri 14:10]--[2013-01-11 Fri 14:30] =>  0:20
