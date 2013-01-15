@@ -171,14 +171,18 @@ Geisel Library room 274
      :PROPERTIES:
      :ID:       98abaabf-bfd6-4a76-a363-d99dc50187ef
      :END:
-**** NEXT Write planar comparison
+**** DONE Write planar comparison
+     - State "DONE"       from "NEXT"       [2013-01-14 Mon 16:44]
      :LOGBOOK:
-     CLOCK: [2013-01-14 Mon 16:37]
+     CLOCK: [2013-01-14 Mon 16:37]--[2013-01-14 Mon 16:44] =>  0:07
      :END:
      :PROPERTIES:
      :ID:       f275815c-cbd9-4226-aa90-04753e3fe110
      :END:
 **** NEXT Write hyperbolic quadratic comparison
+     :LOGBOOK:
+     CLOCK: [2013-01-14 Mon 16:45]--[2013-01-14 Mon 16:48] =>  0:03
+     :END:
      :PROPERTIES:
      :ID:       ab49f64c-36f6-476f-9e02-b0ec9d72552f
      :END:
