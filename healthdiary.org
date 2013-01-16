@@ -1058,6 +1058,40 @@
 :END:
 
 [2013-01-13 Sun 11:06]
+*** 2013-01-14 Monday
+
+**** Meditate
+     :LOGBOOK:
+     CLOCK: [2013-01-14 Mon 14:19]--[2013-01-14 Mon 15:10] =>  0:51
+     :END:
+:PROPERTIES:
+:Intensity: None
+:Type: Relaxation
+:RestHR: 
+:FinalHR:
+:Score:
+:Technique:
+:Effort:
+:Discomfort:
+:END:
+
+[2013-01-14 Mon 15:19]
+**** Intuflow 
+     :LOGBOOK:
+     CLOCK: [2013-01-14 Mon 15:22]--[2013-01-14 Mon 15:57] =>  0:35
+     :END:
+:PROPERTIES:
+:Intensity: None
+:Type: Mobility
+:RestHR: 66
+:FinalHR: 80
+:Score:
+:Technique: 9
+:Effort: 4
+:Discomfort: 2
+:END:
+
+[2013-01-14 Mon 15:22]
 * conv code
   :PROPERTIES:
   :ID:       547e575e-820e-40c1-bd37-4714b4238af6

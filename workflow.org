@@ -933,6 +933,8 @@ Does mutt integrate well?
   :END:
 ** Organisation
   :LOGBOOK:
+  CLOCK: [2013-01-14 Mon 17:43]--[2013-01-15 Tue 09:55] => 16:12
+  CLOCK: [2013-01-14 Mon 17:34]--[2013-01-14 Mon 17:35] =>  0:01
   CLOCK: [2013-01-14 Mon 10:26]--[2013-01-14 Mon 10:32] =>  0:06
   CLOCK: [2013-01-14 Mon 09:36]--[2013-01-14 Mon 09:38] =>  0:02
   CLOCK: [2013-01-14 Mon 08:23]--[2013-01-14 Mon 08:27] =>  0:04
@@ -1100,13 +1102,18 @@ Does mutt integrate well?
 Here I look at my goals, my tasks and how I've been spending my time and use that information to plan out the coming week/month/year etc.
 Maybe I should also have work and personal reviews, including reviewing my health scores.
 ** NEXT Daily Review [0/1]
-   SCHEDULED: <2013-01-11 Fri .+1d/2d>
+   SCHEDULED: <2013-01-15 Tue .+1d/2d>
+   - State "DONE"       from "NEXT"       [2013-01-14 Mon 17:43]
+   :LOGBOOK:
+   CLOCK: [2013-01-14 Mon 17:35]--[2013-01-14 Mon 17:43] =>  0:08
+   :END:
 
    :PROPERTIES:
    :STYLE:    habit
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
    :ID:       616c5bd9-d941-4fcc-8874-2ff3c9e96b4a
+   :LAST_REPEAT: [2013-01-14 Mon 17:43]
    :END:
 
 What to review:
@@ -1122,11 +1129,13 @@ For the following, do I just use the existing diary.org capture template or perh
 - [ ] Write down any thoughts, relections on the day.
 
 ** NEXT Daily Plan
-   SCHEDULED: <2013-01-15 Tue .+1d/2d>
+   SCHEDULED: <2013-01-16 Wed .+1d/2d>
+   - State "DONE"       from "NEXT"       [2013-01-15 Tue 09:57]
    - State "DONE"       from "NEXT"       [2013-01-14 Mon 08:25]
    - State "DONE"       from "NEXT"       [2013-01-10 Thu 09:22]
    - State "DONE"       from "NEXT"       [2013-01-09 Wed 07:19]
    :LOGBOOK:
+   CLOCK: [2013-01-15 Tue 09:55]--[2013-01-15 Tue 09:57] =>  0:02
    CLOCK: [2013-01-14 Mon 07:17]--[2013-01-14 Mon 07:35] =>  0:18
    CLOCK: [2013-01-10 Thu 08:38]--[2013-01-10 Thu 09:16] =>  0:38
    CLOCK: [2013-01-09 Wed 07:18]--[2013-01-09 Wed 07:19] =>  0:01
@@ -1138,7 +1147,7 @@ For the following, do I just use the existing diary.org capture template or perh
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
    :ID:       ef051ee0-1113-4604-b355-450a5a47848b
-   :LAST_REPEAT: [2013-01-14 Mon 08:25]
+   :LAST_REPEAT: [2013-01-15 Tue 09:57]
    :END:
 
 Set tasks in [[file:plans/today.org]].

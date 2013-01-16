@@ -259,7 +259,9 @@ Can we suspend loan repayments for a few months?
     :ID:       45832d63-d105-44ad-9e73-cd0a0be7a5ea
     :END:
 <2012-12-27 Thu 14:00>
+<2013-01-30 Wed 13:30>
 4510 ViewRidge Avenue San Diego 92123
+
 *** Pain away class
     <2012-10-25 Thu 15:00-17:00>
 
@@ -891,8 +893,9 @@ contact: [[mailto:rosecanyon@san.rr.com][rosecanyon@san.rr.com]], 858-597-0220
 <2012-12-22 Sat 11:00>
 ** Whale watching
 <2013-01-26 Sat 09:00-13:00>
-*** TODO Book whale watching
+*** DONE Book whale watching
     DEADLINE: <2013-01-23 Wed> SCHEDULED: <2013-01-02 Wed>
+    - State "DONE"       from "TODO"       [2013-01-14 Mon 17:47]
     :PROPERTIES:
     :ID:       cda5f366-d518-4fe1-944e-8453d00f8eaf
     :END:
@@ -926,7 +929,7 @@ contact: [[mailto:rosecanyon@san.rr.com][rosecanyon@san.rr.com]], 858-597-0220
   :PROPERTIES:
   :ID:       7ebbbcd4-6064-45d7-84ca-07dfbae30861
   :END: 
-920124
+01336030976036
 
 *** UCSD Books due
     DEADLINE: <2013-01-24 Thu>
@@ -1096,3 +1099,10 @@ Find a good postcast player for android. I want to be able to do offline listeni
     :ID:       9bd40a6c-2ace-412a-a0be-842782341f45
     :END:
 
+* Food
+  :PROPERTIES:
+  :ID:       ed6a7e09-d3d2-4963-b9ff-001444bd0f41
+  :END:
+** Chocolate
+*** Links
+[[http://worldwidechocolate.com/100_chocolate.html]]
