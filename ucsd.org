@@ -486,9 +486,9 @@ Update this based on Bo's comments.
    :ID:       1143f380-6198-4a55-b640-8d8e9c7cfb72
    :END:
 [[file:~/working/ucsd/teaching/math142B_winter_2013]]
-*** NEXT Lecturing
+*** Lecturing
    :LOGBOOK:
-   CLOCK: [2013-01-16 Wed 10:55]--[2013-01-16 Wed 12:05] =>  1:10
+   CLOCK: [2013-01-16 Wed 10:55]--[2013-01-16 Wed 12:20] =>  1:25
    CLOCK: [2013-01-14 Mon 10:50]--[2013-01-14 Mon 12:05] =>  1:15
    CLOCK: [2013-01-11 Fri 11:00]--[2013-01-11 Fri 12:05] =>  1:05
    CLOCK: [2013-01-09 Wed 10:53]--[2013-01-09 Wed 11:56] =>  1:03
@@ -498,6 +498,10 @@ Update this based on Bo's comments.
     :ID:       2c1e0b59-5aae-4c8b-af38-da65f92e46e5
     :END:
 
+*** Office hours
+   :LOGBOOK:
+   CLOCK: [2013-01-17 Thu 11:05]--[2013-01-17 Thu 12:15] =>  1:10
+   :END:
 *** TODO Plan MATH142B course
     :LOGBOOK:
     CLOCK: [2013-01-02 Wed 10:38]--[2013-01-02 Wed 10:39] =>  0:01
@@ -1017,6 +1021,7 @@ Update this based on Bo's comments.
    :END:
 *** UCSD DG Seminar
    :LOGBOOK:
+   CLOCK: [2013-01-17 Thu 09:50]--[2013-01-17 Thu 11:05] =>  1:15
    CLOCK: [2013-01-10 Thu 15:00]--[2013-01-10 Thu 16:20] =>  1:20
    CLOCK: [2013-01-08 Tue 10:00]--[2013-01-08 Tue 11:00] =>  1:00
    :END:
