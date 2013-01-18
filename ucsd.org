@@ -530,7 +530,10 @@ Update this based on Bo's comments.
      :ID:       e2b60bcc-754d-45d4-8f67-d7d4f99353e8
      :END:
 
-**** Exams
+**** TODO Exams
+     :PROPERTIES:
+     :ID:       217efa3a-983c-4603-a2dc-330557b7176f
+     :END:
 ***** TODO Write Midterm 1
       SCHEDULED: <2013-01-14 Mon>     
       DEADLINE: <2013-01-25 Fri>
@@ -764,7 +767,7 @@ Update this based on Bo's comments.
        :END:
 ****** NEXT Prepare lecture 2-3
        :LOGBOOK:
-       CLOCK: [2013-01-17 Thu 16:15]
+       CLOCK: [2013-01-17 Thu 16:15]--[2013-01-17 Thu 16:34] =>  0:19
        CLOCK: [2013-01-17 Thu 15:35]--[2013-01-17 Thu 16:12] =>  0:37
        :END:
        :PROPERTIES:
@@ -907,6 +910,14 @@ Update this based on Bo's comments.
        :ID:       234b6d63-fcf8-451c-8075-b327a6264425
        :END:
 
+**** TODO Update Website
+     :PROPERTIES:
+     :ID:       10ca00ac-fd13-4f06-a801-538bef47b971
+     :END:
+***** NEXT Update office hours
+      :PROPERTIES:
+      :ID:       0d24d91c-4ad2-4c86-835c-fed77b99c82c
+      :END:
 **** CANCELLED Check out podcasting course
     - State "CANCELLED"  from "TODO"       [2013-01-07 Mon 12:03] \\
       Won't use it for this course.
