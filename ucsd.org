@@ -569,8 +569,9 @@ Update this based on Bo's comments.
       :ID:       06696ba2-fa0c-4160-8f8c-d52c0e118378
       :END:
 
-***** NEXT Set Homework 2
+***** DONE Set Homework 2
       SCHEDULED: <2013-01-14 Mon>
+      - State "DONE"       from "NEXT"       [2013-01-17 Thu 17:23]
       :LOGBOOK:
       CLOCK: [2013-01-14 Mon 10:32]--[2013-01-14 Mon 10:50] =>  0:18
       :END:
@@ -580,7 +581,7 @@ Update this based on Bo's comments.
       :PROPERTIES:
       :ID:       2f4712d3-63a0-4711-bb5b-2c310a71a761
       :END:
-***** TODO Set Homework 3
+***** NEXT Set Homework 3
       SCHEDULED: <2013-01-28 Mon> 
       DEADLINE: <2013-02-01 Fri>
       :PROPERTIES:
@@ -744,8 +745,9 @@ Update this based on Bo's comments.
        :PROPERTIES:
        :ID:       f6681d84-5682-4661-ae59-7deb55c886e3
        :END:
-***** TODO Week 2 Lectures
+***** DONE Week 2 Lectures
       DEADLINE: <2013-01-13 Sun> SCHEDULED: <2013-01-07 Mon>
+      - State "DONE"       from "TODO"       [2013-01-17 Thu 17:23]
       :PROPERTIES:
       :ID:       f6d6f89c-b487-491d-8a78-e0c0b58528d7
       :END:
@@ -765,7 +767,8 @@ Update this based on Bo's comments.
        :PROPERTIES:
        :ID:       0e8d94d0-dd5f-4755-b59f-e3224de25f86
        :END:
-****** NEXT Prepare lecture 2-3
+****** DONE Prepare lecture 2-3
+       - State "DONE"       from "NEXT"       [2013-01-17 Thu 17:23]
        :LOGBOOK:
        CLOCK: [2013-01-17 Thu 16:15]--[2013-01-17 Thu 16:34] =>  0:19
        CLOCK: [2013-01-17 Thu 15:35]--[2013-01-17 Thu 16:12] =>  0:37
@@ -1005,7 +1008,7 @@ Update this based on Bo's comments.
    :END:
 *** Organising UCSD DG SEMINAR
    :LOGBOOK:
-   CLOCK: [2013-01-17 Thu 16:51]
+   CLOCK: [2013-01-17 Thu 16:51]--[2013-01-17 Thu 17:00] =>  0:09
    CLOCK: [2013-01-17 Thu 16:41]--[2013-01-17 Thu 16:51] =>  0:10
    CLOCK: [2013-01-09 Wed 07:41]--[2013-01-09 Wed 07:57] =>  0:16
    CLOCK: [2013-01-07 Mon 13:00]--[2013-01-07 Mon 13:45] =>  0:45
