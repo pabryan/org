@@ -1005,6 +1005,7 @@ Update this based on Bo's comments.
    :END:
 *** Organising UCSD DG SEMINAR
    :LOGBOOK:
+   CLOCK: [2013-01-17 Thu 16:41]
    CLOCK: [2013-01-09 Wed 07:41]--[2013-01-09 Wed 07:57] =>  0:16
    CLOCK: [2013-01-07 Mon 13:00]--[2013-01-07 Mon 13:45] =>  0:45
    :END:
@@ -1095,19 +1096,21 @@ homeomorphic to S^4 or to a connected sum of CP^2s.
     :END:
     <2013-01-17 Thu 10:00-11:00 +1w>
 *** NEXT Send DG seminar email announcement
+    - State "DONE"       from "NEXT"       [2013-01-17 Thu 16:41]
     - State "DONE"       from "NEXT"       [2013-01-10 Thu 09:20]
     - State "DONE"       from "NEXT"       [2013-01-03 Thu 10:26]
     - State "DONE"       from "NEXT"       [2012-12-06 Thu 14:00]
     - State "DONE"       from "TODO"       [2012-11-29 Thu 09:46]
     :LOGBOOK:
+    CLOCK: [2013-01-17 Thu 16:38]--[2013-01-17 Thu 16:41] =>  0:03
     CLOCK: [2013-01-10 Thu 09:16]--[2013-01-10 Thu 09:20] =>  0:04
     :END:
     :PROPERTIES:
     :ID:       0f19da7c-65a3-4e95-8a91-78d12caa46da
     :REPEAT_TO_STATE: NEXT
-    :LAST_REPEAT: [2013-01-10 Thu 09:20]
+    :LAST_REPEAT: [2013-01-17 Thu 16:41]
     :END: 
-<2013-01-14 Mon +1w>
+DEADLINE: <2013-01-25 Fri +1w>
 [[mailto:seminarstaff@math.ucsd.edu]]
 **** Email tempate
 Speaker: 
@@ -1154,7 +1157,8 @@ Abstract:
     :ID:       d0caa6d9-cd5a-47ff-a7f7-25cd1e2a85f9
     :END:
 [2012-11-27 Tue 13:13]
-*** TODO Set up seminars from Lei
+*** DONE Set up seminars from Lei
+    - State "DONE"       from "TODO"       [2013-01-17 Thu 16:43]
   :LOGBOOK:
   :END:
     :PROPERTIES:
