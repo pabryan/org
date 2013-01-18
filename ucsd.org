@@ -764,7 +764,8 @@ Update this based on Bo's comments.
        :END:
 ****** NEXT Prepare lecture 2-3
        :LOGBOOK:
-       CLOCK: [2013-01-17 Thu 15:35]
+       CLOCK: [2013-01-17 Thu 16:15]
+       CLOCK: [2013-01-17 Thu 15:35]--[2013-01-17 Thu 16:12] =>  0:37
        :END:
        :PROPERTIES:
        :ID:       c6a0022f-801e-4e45-b4bc-8404cc93ac5a
