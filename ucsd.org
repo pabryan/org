@@ -552,6 +552,9 @@ Update this based on Bo's comments.
       :ID:       45ce5522-5bec-47f1-8e4f-8e821e842188
       :END:
 **** TODO Homework
+     :PROPERTIES:
+     :ID:       834ef9b6-e67a-42aa-b0c0-780e0ebfcfaf
+     :END:
 ***** DONE Set Homework 1
       SCHEDULED: <2013-01-02 Wed>
       - State "DONE"       from "NEXT"       [2013-01-02 Wed 10:46]
@@ -751,7 +754,8 @@ Update this based on Bo's comments.
        :PROPERTIES:
        :ID:       8dadd573-ff8b-44df-ba78-ca6be94f30c1
        :END:
-****** NEXT Prepare lecture 2-2
+****** DONE Prepare lecture 2-2
+       - State "DONE"       from "NEXT"       [2013-01-17 Thu 15:57]
        :LOGBOOK:
        CLOCK: [2013-01-16 Wed 10:08]--[2013-01-16 Wed 10:41] =>  0:33
        :END:
@@ -759,6 +763,9 @@ Update this based on Bo's comments.
        :ID:       0e8d94d0-dd5f-4755-b59f-e3224de25f86
        :END:
 ****** NEXT Prepare lecture 2-3
+       :LOGBOOK:
+       CLOCK: [2013-01-17 Thu 15:35]
+       :END:
        :PROPERTIES:
        :ID:       c6a0022f-801e-4e45-b4bc-8404cc93ac5a
        :END:

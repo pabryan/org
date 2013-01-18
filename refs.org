@@ -244,6 +244,9 @@ Here I need to do some more work since $u \mapsto g(\grad u, \grad u)$ is not a 
 [[papers:2012arXiv1210.0567M][2012arXiv1210.0567M-paper]]
 
 * Misc
+  :PROPERTIES:
+  :ID:       5724f791-e1ce-4b91-b272-ddf358eb8b58
+  :END:
 ** Distance comparison principle and Grayson type theorem in the three dimensional curve shortening flow
 :PROPERTIES:
 :Custom_ID: GEOM-D-13-00010
