@@ -1148,6 +1148,22 @@
 [2013-01-21 Mon 08:45]
 :Intensity: None
 :Type: Mobility
+**** Be Breathed + flow
+     :LOGBOOK:
+     CLOCK: [2013-01-21 Mon 10:45]--[2013-01-21 Mon 11:33] =>  0:48
+     :END:
+:PROPERTIES:
+:Intensity: Mod
+:Type: Conditioning
+:RestHR: 
+:FinalHR: 102
+:Score:
+:Technique: 8
+:Effort: 6
+:Discomfort: 3
+:END:
+
+[2013-01-21 Mon 11:32]
 * conv code
   :PROPERTIES:
   :ID:       547e575e-820e-40c1-bd37-4714b4238af6
