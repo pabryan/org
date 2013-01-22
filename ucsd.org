@@ -795,9 +795,10 @@ Update this based on Bo's comments.
       :PROPERTIES:
       :ID:       fb6eda16-71c7-4e4f-a52e-08debcd12a4b
       :END:
-****** NEXT Prepare lecture 3-2
+****** DONE Prepare lecture 3-2
+       - State "DONE"       from "NEXT"       [2013-01-22 Tue 11:50]
        :LOGBOOK:
-       CLOCK: [2013-01-22 Tue 11:32]
+       CLOCK: [2013-01-22 Tue 11:32]--[2013-01-22 Tue 11:50] =>  0:18
        CLOCK: [2013-01-22 Tue 11:24]--[2013-01-22 Tue 11:25] =>  0:01
        CLOCK: [2013-01-22 Tue 10:48]--[2013-01-22 Tue 10:57] =>  0:09
        CLOCK: [2013-01-22 Tue 10:20]--[2013-01-22 Tue 10:44] =>  0:24
