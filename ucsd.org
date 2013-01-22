@@ -797,7 +797,8 @@ Update this based on Bo's comments.
       :END:
 ****** NEXT Prepare lecture 3-2
        :LOGBOOK:
-       CLOCK: [2013-01-22 Tue 10:48]
+       CLOCK: [2013-01-22 Tue 11:24]--[2013-01-22 Tue 11:25] =>  0:01
+       CLOCK: [2013-01-22 Tue 10:48]--[2013-01-22 Tue 10:57] =>  0:09
        CLOCK: [2013-01-22 Tue 10:20]--[2013-01-22 Tue 10:44] =>  0:24
        :END:
        :PROPERTIES:
