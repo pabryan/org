@@ -796,6 +796,9 @@ Update this based on Bo's comments.
       :ID:       fb6eda16-71c7-4e4f-a52e-08debcd12a4b
       :END:
 ****** NEXT Prepare lecture 3-2
+       :LOGBOOK:
+       CLOCK: [2013-01-22 Tue 10:20]
+       :END:
        :PROPERTIES:
        :ID:       14b2a55e-5d95-440a-a647-99130378dbd7
        :END:
