@@ -1,4 +1,4 @@
-#+LAST_MOBILE_CHANGE: 2012-12-11 16:16:55
+#+LAST_MOBILE_CHANGE: 2013-01-23 07:17:49
 #+FILETAGS: UCSD
 
 * Data
@@ -1173,7 +1173,8 @@ Abstract:
 [2013-01-10 Thu 15:00-16:00]
 
 *** TODO Give talk on Brendle's proof of Lawson conjecture
-  :LOGBOOK:
+:LOGBOOK:
+CLOCK: [2013-01-22 Tue 16:16]--[2013-01-22 Tue 17:14] =>  0:57
   :END:
     :PROPERTIES:
     :ID:       d0caa6d9-cd5a-47ff-a7f7-25cd1e2a85f9

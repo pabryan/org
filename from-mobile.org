@@ -44,3 +44,178 @@ reschedule?
   :END: 
 <2013-01-21 21:33>
 76.9
+
+
+* Body was changed in MobileOrg and on the computer F(edit:body) [[id:e2e6b51c-d085-4668-ac4f-9d7e13df147d][Meditate]]
+  :PROPERTIES:
+  :ID:       c1f888c3-8fd1-4d4f-8a63-493b80dcbca3
+  :END:
+** Old value
+SCHEDULED: <2013-01-13 Sun .+1d/2d>
+    - State "DONE"       from "NEXT"       [2013-01-12 Sat 16:25]
+    - State "DONE"       from "NEXT"       [2013-01-08 Tue 19:29]
+    - State "DONE"       from "NEXT"       [2013-01-05 Sat 16:11]
+    - State "DONE"       from "NEXT"       [2013-01-03 Thu 18:58]
+    - State "DONE"       from "NEXT"       [2013-01-02 Wed 19:35]
+    - State "DONE"       from "NEXT"       [2012-12-31 Mon 15:00]
+    - State "DONE"       from "NEXT"       [2012-12-29 Sat 13:30]
+    - State "DONE"       from "NEXT"       [2012-12-26 Wed 09:45]
+    - State "DONE"       from "NEXT"       [2012-12-23 Sun 15:25]
+    - State "DONE"       from "NEXT"       [2012-12-19 Wed 08:30]
+    - State "DONE"       from "NEXT"       [2012-12-18 Tue 08:15]
+    - State "DONE"       from "NEXT"       [2012-12-16 Sun 09:02]
+    - State "DONE"       from "NEXT"       [2012-12-14 Fri 15:25]
+    - State "DONE"       from "NEXT"       [2012-12-13 Thu 13:55]
+    - State "DONE"       from "NEXT"       [2012-12-11 Tue 15:45]
+    - State "DONE"       from "NEXT"       [2012-12-10 Mon 07:50]
+    - State "DONE"       from "NEXT"       [2012-12-09 Sun 14:59]
+    - State "DONE"       from "NEXT"       [2012-12-06 Thu 13:46]
+    - State "DONE"       from "NEXT"       [2012-12-05 Wed 15:30]
+    - State "DONE"       from "NEXT"       [2012-12-05 Wed 08:22]
+    - State "DONE"       from "NEXT"       [2012-12-03 Mon 17:50]
+    - State "DONE"       from "NEXT"       [2012-11-29 Thu 20:12]
+    - State "DONE"       from "NEXT"       [2012-11-28 Wed 16:50]
+    - State "DONE"       from "NEXT"       [2012-11-27 Tue 16:30]
+    - State "DONE"       from "NEXT"       [2012-11-26 Mon 09:00]
+    - State "DONE"       from "NEXT"       [2012-11-25 Sun 15:17]
+    - State "DONE"       from "NEXT"       [2012-11-24 Sat 15:01]
+    - State "DONE"       from "NEXT"       [2012-11-23 Fri 09:01]
+    - State "DONE"       from "NEXT"       [2012-11-21 Wed 14:39]
+    - State "DONE"       from "NEXT"       [2012-11-20 Tue 07:15]
+    - State "DONE"       from "NEXT"       [2012-11-19 Mon 14:15]
+    - State "DONE"       from "NEXT"       [2012-11-18 Sun 09:50]
+    - State "DONE"       from "NEXT"       [2012-11-17 Sat 15:01]
+    - State "DONE"       from "NEXT"       [2012-11-16 Fri 14:17]
+  :LOGBOOK:
+  CLOCK: [2013-01-20 Sun 15:05]--[2013-01-20 Sun 15:34] =>  0:29
+  CLOCK: [2013-01-05 Sat 07:30]--[2013-01-05 Sat 08:05] =>  0:35
+  CLOCK: [2013-01-05 Sat 15:02]--[2013-01-05 Sat 16:11] =>  1:09
+  CLOCK: [2013-01-03 Thu 15:15]--[2013-01-03 Thu 15:24] =>  0:09
+  CLOCK: [2013-01-02 Wed 19:30]--[2013-01-02 Wed 19:35] =>  0:05
+  CLOCK: [2012-12-31 Mon 14:30]--[2012-12-31 Mon 15:00] =>  0:30
+  CLOCK: [2012-12-29 Sat 13:13]--[2012-12-29 Sat 13:30] =>  0:17
+  CLOCK: [2012-12-26 Wed 09:13]--[2012-12-26 Wed 09:44] =>  0:31
+  CLOCK: [2012-12-23 Sun 14:39]--[2012-12-23 Sun 15:22] =>  0:43
+  CLOCK: [2012-12-19 Wed 07:30]--[2012-12-19 Wed 08:30] =>  1:00
+  CLOCK: [2012-12-18 Tue 07:15]--[2012-12-18 Tue 08:15] =>  1:00
+  CLOCK: [2012-12-16 Sun 15:50]--[2012-12-16 Sun 16:28] =>  0:38
+  CLOCK: [2012-12-16 Sun 08:00]--[2012-12-16 Sun 09:10] =>  1:10
+  CLOCK: [2012-12-14 Fri 14:55]--[2012-12-14 Fri 15:23] =>  0:27
+  CLOCK: [2012-12-13 Thu 12:20]--[2012-12-13 Thu 13:55] =>  1:35
+  CLOCK: [2012-12-11 Tue 15:35]--[2012-12-11 Tue 15:45] =>  0:10
+  CLOCK: [2012-12-10 Mon 07:15]--[2012-12-10 Mon 07:50] =>  0:35
+  CLOCK: [2012-12-09 Sun 15:03]--[2012-12-09 Sun 15:49] =>  0:45
+  CLOCK: [2012-12-06 Thu 13:25]--[2012-12-06 Thu 13:46] =>  0:21
+  CLOCK: [2012-12-05 Wed 15:00]--[2012-12-05 Wed 15:30] =>  0:30
+  CLOCK: [2012-12-05 Wed 07:42]--[2012-12-05 Wed 08:22] =>  0:40
+  CLOCK: [2012-12-04 Tue 14:39]--[2012-12-04 Tue 14:50] =>  0:11
+  CLOCK: [2012-12-03 Mon 17:23]--[2012-12-03 Mon 17:50] =>  0:27
+  CLOCK: [2012-11-28 Wed 16:26]--[2012-11-28 Wed 16:50] =>  0:23
+  CLOCK: [2012-11-27 Tue 16:00]--[2012-11-27 Tue 16:30] =>  0:30
+  CLOCK: [2012-11-26 Mon 08:33]--[2012-11-26 Mon 08:59] =>  0:26
+  CLOCK: [2012-11-21 Wed 14:21]--[2012-11-21 Wed 14:39] =>  0:18
+  CLOCK: [2012-11-16 Fri 13:40]--[2012-11-16 Fri 14:17] =>  0:37
+  :END:
+:PROPERTIES:
+:STYLE: habit
+:REPEAT_TO_STATE: NEXT
+:ID: e2e6b51c-d085-4668-ac4f-9d7e13df147d
+:LAST_REPEAT: [2013-01-12 Sat 16:25]
+:END:
+** New value
+SCHEDULED: <2013-01-13 Sun .+1d/2d>
+    - State "DONE"       from "NEXT"       [2013-01-12 Sat 16:25]
+    - State "DONE"       from "NEXT"       [2013-01-08 Tue 19:29]
+    - State "DONE"       from "NEXT"       [2013-01-05 Sat 16:11]
+    - State "DONE"       from "NEXT"       [2013-01-03 Thu 18:58]
+    - State "DONE"       from "NEXT"       [2013-01-02 Wed 19:35]
+    - State "DONE"       from "NEXT"       [2012-12-31 Mon 15:00]
+    - State "DONE"       from "NEXT"       [2012-12-29 Sat 13:30]
+    - State "DONE"       from "NEXT"       [2012-12-26 Wed 09:45]
+    - State "DONE"       from "NEXT"       [2012-12-23 Sun 15:25]
+    - State "DONE"       from "NEXT"       [2012-12-19 Wed 08:30]
+    - State "DONE"       from "NEXT"       [2012-12-18 Tue 08:15]
+    - State "DONE"       from "NEXT"       [2012-12-16 Sun 09:02]
+    - State "DONE"       from "NEXT"       [2012-12-14 Fri 15:25]
+    - State "DONE"       from "NEXT"       [2012-12-13 Thu 13:55]
+    - State "DONE"       from "NEXT"       [2012-12-11 Tue 15:45]
+    - State "DONE"       from "NEXT"       [2012-12-10 Mon 07:50]
+    - State "DONE"       from "NEXT"       [2012-12-09 Sun 14:59]
+    - State "DONE"       from "NEXT"       [2012-12-06 Thu 13:46]
+    - State "DONE"       from "NEXT"       [2012-12-05 Wed 15:30]
+    - State "DONE"       from "NEXT"       [2012-12-05 Wed 08:22]
+    - State "DONE"       from "NEXT"       [2012-12-03 Mon 17:50]
+    - State "DONE"       from "NEXT"       [2012-11-29 Thu 20:12]
+    - State "DONE"       from "NEXT"       [2012-11-28 Wed 16:50]
+    - State "DONE"       from "NEXT"       [2012-11-27 Tue 16:30]
+    - State "DONE"       from "NEXT"       [2012-11-26 Mon 09:00]
+    - State "DONE"       from "NEXT"       [2012-11-25 Sun 15:17]
+    - State "DONE"       from "NEXT"       [2012-11-24 Sat 15:01]
+    - State "DONE"       from "NEXT"       [2012-11-23 Fri 09:01]
+    - State "DONE"       from "NEXT"       [2012-11-21 Wed 14:39]
+    - State "DONE"       from "NEXT"       [2012-11-20 Tue 07:15]
+    - State "DONE"       from "NEXT"       [2012-11-19 Mon 14:15]
+    - State "DONE"       from "NEXT"       [2012-11-18 Sun 09:50]
+    - State "DONE"       from "NEXT"       [2012-11-17 Sat 15:01]
+    - State "DONE"       from "NEXT"       [2012-11-16 Fri 14:17]
+  :LOGBOOK:
+CLOCK: [2013-01-22 Tue 14:40]--[2013-01-22 Tue 15:12] =>  0:32
+  CLOCK: [2013-01-20 Sun 15:05]--[2013-01-20 Sun 15:34] =>  0:29
+  CLOCK: [2013-01-05 Sat 07:30]--[2013-01-05 Sat 08:05] =>  0:35
+  CLOCK: [2013-01-05 Sat 15:02]--[2013-01-05 Sat 16:11] =>  1:09
+  CLOCK: [2013-01-03 Thu 15:15]--[2013-01-03 Thu 15:24] =>  0:09
+  CLOCK: [2013-01-02 Wed 19:30]--[2013-01-02 Wed 19:35] =>  0:05
+  CLOCK: [2012-12-31 Mon 14:30]--[2012-12-31 Mon 15:00] =>  0:30
+  CLOCK: [2012-12-29 Sat 13:13]--[2012-12-29 Sat 13:30] =>  0:17
+  CLOCK: [2012-12-26 Wed 09:13]--[2012-12-26 Wed 09:44] =>  0:31
+  CLOCK: [2012-12-23 Sun 14:39]--[2012-12-23 Sun 15:22] =>  0:43
+  CLOCK: [2012-12-19 Wed 07:30]--[2012-12-19 Wed 08:30] =>  1:00
+  CLOCK: [2012-12-18 Tue 07:15]--[2012-12-18 Tue 08:15] =>  1:00
+  CLOCK: [2012-12-16 Sun 15:50]--[2012-12-16 Sun 16:28] =>  0:38
+  CLOCK: [2012-12-16 Sun 08:00]--[2012-12-16 Sun 09:10] =>  1:10
+  CLOCK: [2012-12-14 Fri 14:55]--[2012-12-14 Fri 15:23] =>  0:27
+  CLOCK: [2012-12-13 Thu 12:20]--[2012-12-13 Thu 13:55] =>  1:35
+  CLOCK: [2012-12-11 Tue 15:35]--[2012-12-11 Tue 15:45] =>  0:10
+  CLOCK: [2012-12-10 Mon 07:15]--[2012-12-10 Mon 07:50] =>  0:35
+  CLOCK: [2012-12-09 Sun 15:03]--[2012-12-09 Sun 15:49] =>  0:45
+  CLOCK: [2012-12-06 Thu 13:25]--[2012-12-06 Thu 13:46] =>  0:21
+  CLOCK: [2012-12-05 Wed 15:00]--[2012-12-05 Wed 15:30] =>  0:30
+  CLOCK: [2012-12-05 Wed 07:42]--[2012-12-05 Wed 08:22] =>  0:40
+  CLOCK: [2012-12-04 Tue 14:39]--[2012-12-04 Tue 14:50] =>  0:11
+  CLOCK: [2012-12-03 Mon 17:23]--[2012-12-03 Mon 17:50] =>  0:27
+  CLOCK: [2012-11-28 Wed 16:26]--[2012-11-28 Wed 16:50] =>  0:23
+  CLOCK: [2012-11-27 Tue 16:00]--[2012-11-27 Tue 16:30] =>  0:30
+  CLOCK: [2012-11-26 Mon 08:33]--[2012-11-26 Mon 08:59] =>  0:26
+  CLOCK: [2012-11-21 Wed 14:21]--[2012-11-21 Wed 14:39] =>  0:18
+  CLOCK: [2012-11-16 Fri 13:40]--[2012-11-16 Fri 14:17] =>  0:37
+  :END:
+:PROPERTIES:
+:STYLE: habit
+:REPEAT_TO_STATE: NEXT
+:ID: e2e6b51c-d085-4668-ac4f-9d7e13df147d
+:LAST_REPEAT: [2013-01-12 Sat 16:25]
+:END:
+** End of edit
+
+
+* Body was changed in MobileOrg and on the computer F(edit:body) [[id:d0caa6d9-cd5a-47ff-a7f7-25cd1e2a85f9][Give talk on Brendle's proof of Lawson conjecture]]
+  :PROPERTIES:
+  :ID:       ac06cb39-e153-4ab7-9cb2-a74b67011302
+  :END:
+** Old value
+:LOGBOOK:
+  :END:
+    :PROPERTIES:
+    :ID:       d0caa6d9-cd5a-47ff-a7f7-25cd1e2a85f9
+    :END:
+[2012-11-27 Tue 13:13]
+** New value
+:LOGBOOK:
+CLOCK: [2013-01-22 Tue 19:21]--[2013-01-22 Tue 20:07] =>  0:45
+  :END:
+    :PROPERTIES:
+    :ID:       d0caa6d9-cd5a-47ff-a7f7-25cd1e2a85f9
+    :END:
+[2012-11-27 Tue 13:13]
+** End of edit
+
