@@ -46,6 +46,7 @@
     
 *** NEXT Low Intensity
     SCHEDULED: <2013-01-24 Thu .+4d/5d>
+    - State "DONE"       from "NEXT"       [2013-01-23 Wed 07:34]
     - State "DONE"       from "NEXT"       [2013-01-20 Sun 16:52]
     - State "DONE"       from "NEXT"       [2013-01-09 Wed 21:23]
     - State "DONE"       from "NEXT"       [2013-01-08 Tue 21:13]
@@ -87,12 +88,12 @@ CLOCK: [2012-11-20 Tue 15:30]--[2012-11-20 Tue 16:00] =>  0:30
 :PROPERTIES:
 :STYLE: habit
 :REPEAT_TO_STATE: NEXT
-:LAST_REPEAT: [2013-01-20 Sun 16:52]
+:LAST_REPEAT: [2013-01-24 Thu 07:34]
 :ID: c5da0e4d-cf57-4caf-ba23-369257edd6ac
 :END:
 
 *** NEXT Mod Intensity
-    SCHEDULED: <2013-01-27 Sun .+4d/5d>
+    SCHEDULED: <2013-01-25 Fri .+4d/5d>
     - State "DONE"       from "NEXT"       [2013-01-21 Mon 19:24]
     - State "CANCELLED"  from "NEXT"       [2013-01-15 Tue 09:54] \\
       Sick
@@ -124,7 +125,7 @@ CLOCK: [2012-12-01 Sat 15:53]--[2012-12-01 Sat 16:48] =>  0:55
 :LAST_REPEAT: [2013-01-23 Wed 19:24]
 :END:
 *** NEXT High Intensity
-    SCHEDULED: <2013-01-27 Sun .+4d/5d>
+    SCHEDULED: <2013-01-26 Sat .+4d/5d>
     - State "DONE"       from "NEXT"       [2013-01-22 Tue 19:24]
     - State "CANCELLED"  from "NEXT"       [2013-01-15 Tue 09:55] \\
       Sick
