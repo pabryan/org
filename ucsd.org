@@ -484,11 +484,17 @@ Update this based on Bo's comments.
    :END:
 [2012-10-15 Mon 10:27]
 
-** DONE Winter text books					   :COMPUTER:
+** DONE Winter 2013 text books 					   :COMPUTER:
    - State "DONE"       from "TODO"       [2012-11-02 Fri 15:53]
    :PROPERTIES:
    :ID:       ca36acea-9953-4821-88a1-69ed34f77979
    :END:
+** TODO Spring 2013 text books
+   DEADLINE: <2013-02-01 Fri>
+   :PROPERTIES:
+   :ID:       59315c52-b03c-4ab2-be4e-d91eae1ad433
+   :END:
+
 ** TODO MATH142B Winter 2012					   :MATH142B:
    :PROPERTIES:
    :ID:       1143f380-6198-4a55-b640-8d8e9c7cfb72
