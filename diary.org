@@ -467,7 +467,10 @@
 [2013-01-24 Thu 08:43]
 **** 2nd Breakfast
      :LOGBOOK:
-     CLOCK: [2013-01-24 Thu 08:55]
+     CLOCK: [2013-01-24 Thu 08:55]--[2013-01-24 Thu 09:48] =>  0:53
      :END:
 [2013-01-24 Thu 09:21]
-
+**** Travel to work
+     :LOGBOOK:
+     :END:
+[2013-01-24 Thu 09:48]
