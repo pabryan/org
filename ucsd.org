@@ -550,6 +550,8 @@ Update this based on Bo's comments.
      :END:
 
 **** TODO Exams
+     :LOGBOOK:
+     :END:
      :PROPERTIES:
      :ID:       217efa3a-983c-4603-a2dc-330557b7176f
      :END:
@@ -563,7 +565,7 @@ Update this based on Bo's comments.
       SCHEDULED: <2013-01-14 Mon>     
       DEADLINE: <2013-01-25 Fri>
       :LOGBOOK:
-      CLOCK: [2013-01-24 Thu 11:32]
+      CLOCK: [2013-01-24 Thu 11:32]--[2013-01-24 Thu 12:03] =>  0:31
       :END:
       :PROPERTIES:
       :ID:       f28c589f-6e45-461f-a6b8-fcad6841614b
