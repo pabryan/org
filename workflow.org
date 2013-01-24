@@ -940,6 +940,7 @@ Does mutt integrate well?
   :END:
 ** Organisation
   :LOGBOOK:
+  CLOCK: [2013-01-24 Thu 11:31]--[2013-01-24 Thu 11:32] =>  0:01
   CLOCK: [2013-01-24 Thu 10:25]--[2013-01-24 Thu 10:28] =>  0:03
   CLOCK: [2013-01-24 Thu 07:58]--[2013-01-24 Thu 08:02] =>  0:04
   CLOCK: [2013-01-24 Thu 07:34]--[2013-01-24 Thu 07:37] =>  0:03

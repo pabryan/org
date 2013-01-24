@@ -562,6 +562,9 @@ Update this based on Bo's comments.
 ***** NEXT Write Midterm 1
       SCHEDULED: <2013-01-14 Mon>     
       DEADLINE: <2013-01-25 Fri>
+      :LOGBOOK:
+      CLOCK: [2013-01-24 Thu 11:32]
+      :END:
       :PROPERTIES:
       :ID:       f28c589f-6e45-461f-a6b8-fcad6841614b
       :END:
@@ -802,8 +805,9 @@ Update this based on Bo's comments.
        :PROPERTIES:
        :ID:       c6a0022f-801e-4e45-b4bc-8404cc93ac5a
        :END:
-***** TODO Week 3 Lectures
+***** DONE Week 3 Lectures
       DEADLINE: <2013-01-20 Sun> SCHEDULED: <2013-01-14 Mon>
+      - State "DONE"       from "TODO"       [2013-01-24 Thu 11:23]
       :PROPERTIES:
       :ID:       fb6eda16-71c7-4e4f-a52e-08debcd12a4b
       :END:
@@ -818,9 +822,10 @@ Update this based on Bo's comments.
        :PROPERTIES:
        :ID:       14b2a55e-5d95-440a-a647-99130378dbd7
        :END:
-****** NEXT Prepare lecture 3-3
+****** DONE Prepare lecture 3-3
+       - State "DONE"       from "NEXT"       [2013-01-24 Thu 11:23]
        :LOGBOOK:
-       CLOCK: [2013-01-24 Thu 11:04]
+       CLOCK: [2013-01-24 Thu 11:04]--[2013-01-24 Thu 11:24] =>  0:20
        CLOCK: [2013-01-24 Thu 11:01]--[2013-01-24 Thu 11:02] =>  0:01
        CLOCK: [2013-01-24 Thu 10:28]--[2013-01-24 Thu 10:53] =>  0:25
        :END:
