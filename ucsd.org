@@ -1173,10 +1173,11 @@ Abstract:
 [2013-01-10 Thu 15:00-16:00]
 
 *** TODO Give talk on Brendle's proof of Lawson conjecture
-:LOGBOOK:
-CLOCK: [2013-01-22 Tue 16:16]--[2013-01-22 Tue 17:14] =>  0:57
+  :LOGBOOK:
+  CLOCK: [2013-01-22 Tue 19:21]--[2013-01-22 Tue 20:07] =>  0:45
+  CLOCK: [2013-01-22 Tue 16:16]--[2013-01-22 Tue 17:14] =>  0:57
   :END:
-    :PROPERTIES:
+  :PROPERTIES:
     :ID:       d0caa6d9-cd5a-47ff-a7f7-25cd1e2a85f9
     :END:
 [2012-11-27 Tue 13:13]
