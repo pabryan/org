@@ -819,6 +819,11 @@ Update this based on Bo's comments.
        :ID:       14b2a55e-5d95-440a-a647-99130378dbd7
        :END:
 ****** NEXT Prepare lecture 3-3
+       :LOGBOOK:
+       CLOCK: [2013-01-24 Thu 11:04]
+       CLOCK: [2013-01-24 Thu 11:01]--[2013-01-24 Thu 11:02] =>  0:01
+       CLOCK: [2013-01-24 Thu 10:28]--[2013-01-24 Thu 10:53] =>  0:25
+       :END:
        :PROPERTIES:
        :ID:       53280d46-7374-4db8-b5fb-c5f4fe56b278
        :END:
