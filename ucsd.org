@@ -1051,12 +1051,13 @@ Update this based on Bo's comments.
     :ID:       80623a86-568e-416a-85de-895be875f516
     :END:
 
-** TODO UCSD DG Seminar
+** TODO UCSD DG Seminar   
    :PROPERTIES:
    :ID:       fa6cea64-9d5f-462e-8240-9f423a327330
    :END:
 *** Organising UCSD DG SEMINAR
    :LOGBOOK:
+   CLOCK: [2013-01-25 Fri 14:06]--[2013-01-25 Fri 14:08] =>  0:02
    CLOCK: [2013-01-17 Thu 16:51]--[2013-01-17 Thu 17:00] =>  0:09
    CLOCK: [2013-01-17 Thu 16:41]--[2013-01-17 Thu 16:51] =>  0:10
    CLOCK: [2013-01-09 Wed 07:41]--[2013-01-09 Wed 07:57] =>  0:16
@@ -1150,6 +1151,7 @@ homeomorphic to S^4 or to a connected sum of CP^2s.
     :END:
     <2013-01-31 Thu 10:00-11:00 +1w>
 *** NEXT Send DG seminar email announcement
+    - State "DONE"       from "NEXT"       [2013-01-25 Fri 14:04]
     - State "DONE"       from "NEXT"       [2013-01-17 Thu 16:41]
     - State "DONE"       from "NEXT"       [2013-01-10 Thu 09:20]
     - State "DONE"       from "NEXT"       [2013-01-03 Thu 10:26]
@@ -1162,9 +1164,9 @@ homeomorphic to S^4 or to a connected sum of CP^2s.
     :PROPERTIES:
     :ID:       0f19da7c-65a3-4e95-8a91-78d12caa46da
     :REPEAT_TO_STATE: NEXT
-    :LAST_REPEAT: [2013-01-17 Thu 16:41]
+    :LAST_REPEAT: [2013-01-25 Fri 14:04]
     :END: 
-DEADLINE: <2013-01-25 Fri +1w>
+DEADLINE: <2013-02-01 Fri +1w>
 [[mailto:seminarstaff@math.ucsd.edu]]
 **** Email tempate
 Speaker: 
@@ -1213,6 +1215,17 @@ Abstract:
     :ID:       d0caa6d9-cd5a-47ff-a7f7-25cd1e2a85f9
     :END:
 [2012-11-27 Tue 13:13]
+
+Speaker: Paul Bryan
+Home Institution: UCSD
+Date: 31 Jan 2013
+Seminar Name: Differential Geometry
+Title: Brendle's Proof of the Lawson Conjecture
+Start Time: 10 am
+Location: AP&M 7218
+
+Abstract: In 1970, Lawson conjectured that the only embedded minimal torus in $S^3$ is the Clifford torus. Recently using a non-collapsing technique developed by Ben Andrews, Simon Brendle was able to give an affirmative answer to this question. I'll discuss the non-collapsing ideas and how they lead to Brendle's proof of the Lawson conjecture.
+
 *** DONE Set up seminars from Lei
     - State "DONE"       from "TODO"       [2013-01-17 Thu 16:43]
   :LOGBOOK:
