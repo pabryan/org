@@ -559,6 +559,9 @@ Update this based on Bo's comments.
 ***** NEXT Write practice exam
       SCHEDULED: <2013-01-24 Thu>     
       DEADLINE: <2013-01-25 Fri>
+      :LOGBOOK:
+      CLOCK: [2013-01-25 Fri 10:20]
+      :END:
       :PROPERTIES:
       :ID:       453f2751-42f6-4db5-8a36-994b180f1000
       :END:
