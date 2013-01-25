@@ -934,12 +934,21 @@ hdr_order from: to: cc: date: subject: # and in this order
 Does mutt integrate well?
 [[http://www.emacswiki.org/emacs/MuttInEmacs][http://www.emacswiki.org/emacs/MuttInEmacs]]
 
+** TODO Move photos out of Ubuntu One
+  :LOGBOOK:
+  :END:
+   :PROPERTIES:
+   :ID:       2370bd55-ac41-4cc0-8f8e-f7a533ad5471
+   :END:
+[2013-01-25 Fri 12:52]
 * Tasks
   :PROPERTIES:
   :ID:       4257fe31-e606-4ca9-a848-858379409679
   :END:
 ** Organisation
   :LOGBOOK:
+  CLOCK: [2013-01-25 Fri 12:52]
+  CLOCK: [2013-01-25 Fri 12:50]--[2013-01-25 Fri 12:52] =>  0:02
   CLOCK: [2013-01-24 Thu 12:03]--[2013-01-24 Thu 12:04] =>  0:01
   CLOCK: [2013-01-24 Thu 11:31]--[2013-01-24 Thu 11:32] =>  0:01
   CLOCK: [2013-01-24 Thu 10:25]--[2013-01-24 Thu 10:28] =>  0:03
