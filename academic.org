@@ -82,8 +82,11 @@ Geisel Library room 274
 [MR2993752 Colding, Tobias H.\ and Minicozzi, William P., II,  Generic mean curvature flow I: generic singularities, Ann. of Math. (2) 175 (2012), no. 2, 755--833]
 [[file:refs.org::#MR2993752][Generic mean curvature flow {I}: generic singularities]]
 
-** TODO Referee space curves CSF dist comp.
+** NEXT Referee space curves CSF dist comp.
    DEADLINE: <2013-04-17 Wed> SCHEDULED: <2013-02-04 Mon>
+   :LOGBOOK:
+   CLOCK: [2013-01-24 Thu 20:05]--[2013-01-24 Thu 20:27] =>  0:22
+   :END:
    :PROPERTIES:
    :ID:       5e7ae258-0dc1-492c-a8ce-7b311de879b1
    :END:
