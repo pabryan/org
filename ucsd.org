@@ -42,7 +42,7 @@ use org-mode to write content, css to render
     :PROPERTIES:
     :ID:       3dd10810-b2c4-4677-b2c4-e4d542620645
     :END:
-* Teaching							   :TEACHING:
+* Teaching 							   :TEACHING:
   :LOGBOOK:
   CLOCK: [2012-12-06 Thu 10:53]--[2012-12-06 Thu 11:05] =>  0:12
   :END:
@@ -496,14 +496,15 @@ Update this based on Bo's comments.
    :END:
 
 ** TODO MATH142B Winter 2012					   :MATH142B:
-   :LOGBOOK:
-   :END:
    :PROPERTIES:
    :ID:       1143f380-6198-4a55-b640-8d8e9c7cfb72
    :END:
 [[file:~/working/ucsd/teaching/math142B_winter_2013]]
 *** Lecturing
    :LOGBOOK:
+   CLOCK: [2013-01-25 Fri 10:55]--[2013-01-25 Fri 12:10] =>  1:15
+   CLOCK: [2013-01-23 Wed 10:55]--[2013-01-23 Wed 12:10] =>  1:15
+   CLOCK: [2013-01-18 Fri 10:55]--[2013-01-18 Fri 12:10] =>  1:15
    CLOCK: [2013-01-16 Wed 10:55]--[2013-01-16 Wed 12:20] =>  1:25
    CLOCK: [2013-01-14 Mon 10:50]--[2013-01-14 Mon 12:05] =>  1:15
    CLOCK: [2013-01-11 Fri 11:00]--[2013-01-11 Fri 12:05] =>  1:05
