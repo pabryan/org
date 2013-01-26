@@ -1,0 +1,784 @@
+#+FILETAGS: ACADEMIC
+
+* Assistants
+  :PROPERTIES:
+  :ID:       4235f992-1c31-41a0-8b53-ee74a98a63f6
+  :CATEGORY: Assistants
+  :END:
+* Conferences
+  :PROPERTIES:
+  :ID:       0b248098-9b93-479a-8c9b-546c325e6231
+  :CATEGORY: Conferences
+  :END:
+** CANCELLED Investigate Tsinghua Sanya conference
+   - State "CANCELLED"  from "NEXT"       [2012-11-09 Fri 10:30] \\
+     I won't be able to leave Kate and the kids
+[[http://msc.tsinghua.edu.cn/forum2013/][TSIMF]]
+  CLOCK: [2012-10-25 Thu 11:30]--[2012-10-25 Thu 11:31] =>  0:01
+[2012-10-25 Thu 11:30]
+
+* Grants
+  :PROPERTIES:
+  :ID:       9a1d61fa-6dcc-405f-b879-9412a6cb1c47
+  :CATEGORY: Grants
+  :END:
+** DONE Investigate data management plan workshop
+   - State "DONE"       from "TODO"       [2012-11-09 Fri 11:20]
+[[http://libraries.ucsd.edu/services/data-curation/data-management-plan/workshop.html][data management plan workshop]]
+  CLOCK: [2012-10-19 Fri 14:11]--[2012-10-19 Fri 14:12] =>  0:01
+   :PROPERTIES:
+   :ID:       26658a79-21fd-4a3b-880c-ee7e7644274d
+   :END:
+[2012-10-19 Fri 14:11]
+** SOMEDAY Research getting grants
+I want mostly travel money 
+Can I hire a car so we can all go on a road trip?
+I need books
+I want to do some sage or org-mode devel
+I want to do teaching with sage-tex and/or org-mode with babel; i.e. interactive lectures so I can change the parameters of things like plots in real time
+  CLOCK: [2012-10-14 Sun 20:40]--[2012-10-14 Sun 20:41] =>  0:01
+   :PROPERTIES:
+   :ID:       d0bbb971-d0e5-4463-b1be-1cbcfbf54db3
+   :END:
+[2012-10-14 Sun 20:40]
+
+** NSF Data Management Plan Workshop
+   :PROPERTIES:
+   :ID:       b44755f0-f524-4a52-9c1c-59c1d68ab3c5
+   :END:
+Geisel Library room 274
+<2012-11-13 Tue 12:00-13:00>
+* Journals
+  :PROPERTIES:
+  :ID:       befc3eb8-1613-4ad7-b07f-d3190d33a71a
+  :CATEGORY: Journals
+  :END:
+[[file:~/working/academic/journals][journals directory]]
+** DONE Review [[http://www.ams.org/mresubs/download/3559e451969b72ee8/2921651.pdf][paper]]
+   - State "DONE"       from "NEXT"       [2012-11-03 Sat 11:02]
+   locally it's here [[docview:~/research_resources/papers/MR2921651.pdf::1][MR2921651]]
+** DONE Review [[file:refs.org::#MR2948294][Weighted isoperimetric inequalities in cones and applications]]
+   SCHEDULED: <2012-12-06 Thu> DEADLINE: <2013-01-14 Mon>
+   - State "DONE"       from "NEXT"       [2012-12-17 Mon 19:42]
+
+   :PROPERTIES:
+   :ID:       3c09baae-b235-405f-837f-24a9b1801418
+   :END:
+   :LOGBOOK:
+   CLOCK: [2012-12-17 Mon 19:16]--[2012-12-17 Mon 19:41] =>  0:25
+   CLOCK: [2012-12-11 Tue 19:33]--[2012-12-11 Tue 19:45] =>  0:12
+   CLOCK: [2012-12-11 Tue 18:15]--[2012-12-11 Tue 19:33] =>  1:18
+   CLOCK: [2012-12-11 Tue 16:49]--[2012-12-11 Tue 17:34] =>  0:45
+   CLOCK: [2012-12-06 Thu 16:20]--[2012-12-06 Thu 16:40] =>  0:20
+   :END:
+[[file:~/working/academic/journals/review/MR2948294]]
+
+** TODO Review Generic MCF I
+   SCHEDULED: <2013-02-04 Mon> DEADLINE: <2013-02-28 Thu>
+   :PROPERTIES:
+   :ID:       402957bd-262b-4fba-8630-1192eef2bc86
+   :END:
+[[file:~/research_resources/papers/MR2993752.pdf]]
+[MR2993752 Colding, Tobias H.\ and Minicozzi, William P., II,  Generic mean curvature flow I: generic singularities, Ann. of Math. (2) 175 (2012), no. 2, 755--833]
+[[file:refs.org::#MR2993752][Generic mean curvature flow {I}: generic singularities]]
+
+** NEXT Referee space curves CSF dist comp.
+   DEADLINE: <2013-04-17 Wed> SCHEDULED: <2013-02-04 Mon>
+   :LOGBOOK:
+   CLOCK: [2013-01-25 Fri 12:52]--[2013-01-25 Fri 14:06] =>  1:14
+   CLOCK: [2013-01-24 Thu 20:47]--[2013-01-24 Thu 21:28] =>  0:41
+   CLOCK: [2013-01-24 Thu 20:05]--[2013-01-24 Thu 20:27] =>  0:22
+   :END:
+   :PROPERTIES:
+   :ID:       5e7ae258-0dc1-492c-a8ce-7b311de879b1
+   :END:
+[[file:refs.org::#GEOM-D-13-00010][Distance comparison principle and Grayson type theorem in the three dimensional curve shortening flow]]
+
+* Research
+  :PROPERTIES:
+  :ID:       44348474-b144-4b4b-a046-12439b2f7727
+  :CATEGORY: Research
+  :END:
+[[file:~/working/academic/research/]]
+** TODO Ricci isoperimetric profile 			     :RICCI_ISO_COMP:
+   :LOGBOOK:
+   :END:
+[[file:~/working/academic/research/ricci_surfaces_isoperimetric_comparison]]
+   :PROPERTIES:
+   :ID:       5d9554fe-4cf1-42b0-9891-69a81e715a67
+   :END:
+*** DONE Set up tasks
+    - State "DONE"       from "NEXT"       [2012-12-14 Fri 18:04]
+    :LOGBOOK:
+    CLOCK: [2012-12-14 Fri 17:20]--[2012-12-14 Fri 17:36] =>  0:16
+    :END:
+    :PROPERTIES:
+    :ID:       324119e3-a5fc-4279-9d83-28ac27de824b
+    :END:
+*** DONE Copy text from thesis to paper
+    - State "DONE"       from "NEXT"       [2012-12-17 Mon 10:54]
+    - State "NEXT"       from "DONE"       [2012-12-13 Thu 16:06]
+      I seem to have lost the changes!
+    - State "DONE"       from "NEXT"       [2012-11-15 Thu 14:58]
+    :LOGBOOK:
+    CLOCK: [2012-12-17 Mon 10:48]--[2012-12-17 Mon 10:54] =>  0:06
+    CLOCK: [2012-12-17 Mon 10:36]--[2012-12-17 Mon 10:43] =>  0:07
+    CLOCK: [2012-12-13 Thu 19:58]--[2012-12-13 Thu 20:35] =>  0:37
+    CLOCK: [2012-12-13 Thu 19:29]--[2012-12-13 Thu 19:51] =>  0:22
+    CLOCK: [2012-12-13 Thu 16:06]--[2012-12-13 Thu 16:43] =>  0:37
+    CLOCK: [2012-11-15 Thu 14:37]--[2012-11-15 Thu 14:58] =>  0:21
+    :END:
+    :PROPERTIES:
+    :ID:       1335d91c-32ec-499b-943b-107a42556b29
+    :END:
+*** NEXT Transcribe from notebooks into computer
+    :LOGBOOK:
+    CLOCK: [2013-01-09 Wed 14:37]--[2013-01-09 Wed 15:04] =>  0:27
+    CLOCK: [2013-01-09 Wed 14:06]--[2013-01-09 Wed 14:31] =>  0:25
+    CLOCK: [2013-01-09 Wed 13:09]--[2013-01-09 Wed 13:49] =>  0:40
+    CLOCK: [2012-12-06 Thu 14:24]--[2012-12-06 Thu 14:56] =>  0:32
+    CLOCK: [2012-12-05 Wed 18:57]--[2012-12-05 Wed 19:53] =>  0:56
+    CLOCK: [2012-11-16 Fri 14:29]--[2012-11-16 Fri 15:17] =>  0:48
+    CLOCK: [2012-11-15 Thu 14:26]--[2012-11-15 Thu 14:37] =>  0:11
+    :END:
+    :PROPERTIES:
+    :ID:       c7d8d816-7767-4384-9e6b-ee1bbd453e62
+    :END:
+*** NEXT Make scans of working 
+  :LOGBOOK:
+  CLOCK: [2013-01-09 Wed 12:58]--[2013-01-09 Wed 13:09] =>  0:11
+  :END:
+    :PROPERTIES:
+    :ID:       0dffabc1-bc62-4e97-a8d8-8f58d541bbc1
+    :END:
+[2012-11-16 Fri 15:19]
+
+*** TODO Write content
+    :LOGBOOK:
+    :END:
+    :PROPERTIES:
+    :ID:       3723cb1d-4761-4c0a-b3d4-fc62bca216c2
+    :END:
+**** DONE Write viscosity equation
+     - State "DONE"       from "NEXT"       [2012-12-14 Fri 18:08]
+     :LOGBOOK:
+     CLOCK: [2012-12-14 Fri 17:47]--[2012-12-14 Fri 18:09] =>  0:22
+     :END:
+     :PROPERTIES:
+     :ID:       cb2801d1-92c9-4f75-8668-738f04868007
+     :END: 
+**** DONE Write Ricci comparison theorem
+     - State "DONE"       from "NEXT"       [2012-12-14 Fri 18:16]
+     :LOGBOOK:
+     CLOCK: [2012-12-14 Fri 18:09]--[2012-12-14 Fri 18:16] =>  0:07
+     :END:
+     :PROPERTIES:
+     :ID:       14a1b102-77f8-49e6-b175-d55351751e7a
+     :END:
+**** DONE Write sphere comparison (brief)
+     - State "DONE"       from "NEXT"       [2012-12-17 Mon 11:19]
+     :LOGBOOK:
+     CLOCK: [2012-12-17 Mon 11:09]--[2012-12-17 Mon 11:19] =>  0:10
+     :END:
+     :PROPERTIES:
+     :ID:       98abaabf-bfd6-4a76-a363-d99dc50187ef
+     :END:
+**** DONE Write planar comparison
+     - State "DONE"       from "NEXT"       [2013-01-14 Mon 16:44]
+     :LOGBOOK:
+     CLOCK: [2013-01-14 Mon 16:37]--[2013-01-14 Mon 16:44] =>  0:07
+     :END:
+     :PROPERTIES:
+     :ID:       f275815c-cbd9-4226-aa90-04753e3fe110
+     :END:
+**** NEXT Write hyperbolic quadratic comparison
+     :LOGBOOK:
+     CLOCK: [2013-01-14 Mon 16:45]--[2013-01-14 Mon 16:48] =>  0:03
+     :END:
+     :PROPERTIES:
+     :ID:       ab49f64c-36f6-476f-9e02-b0ec9d72552f
+     :END:
+**** NEXT Write hyperbolic stationary comparison
+     :PROPERTIES:
+     :ID:       159f6804-7554-45c3-a669-13c54169356f
+     :END:
+**** NEXT Write convergence
+     :PROPERTIES:
+     :ID:       cabddb49-adb4-4532-81d3-3f49f7b66dd6
+     :END:
+**** DONE Write porous media
+     - State "DONE"       from "NEXT"       [2012-12-14 Fri 18:27]
+     :LOGBOOK:
+     CLOCK: [2012-12-14 Fri 18:20]--[2012-12-14 Fri 18:27] =>  0:07
+     :END:
+     :PROPERTIES:
+     :ID:       f209c72e-822e-45e0-bf45-4ee4e36f7c58
+     :END:
+**** TODO Write introduction
+     :PROPERTIES:
+     :ID:       bbf31667-eee4-439b-abd6-cb0fd52e37fe
+     :END:
+*** TODO Check Ben Chow's book for planer integrability of 1st derivative
+    :PROPERTIES:
+    :ID:       68503bad-abd4-49d4-97a6-537854ccc13e
+    :END:
+*** TODO Work out logarithmic porous media integral transform
+    :PROPERTIES:
+    :ID:       f2988334-a37d-47fc-86ac-43d616cf29d5
+    :END:
+conformal factor and isoprofile satisfy logarithic porous media
+how are they related?
+*** TODO Are stationary iso profile solns stationary ricci flow solns?
+    :PROPERTIES:
+    :ID:       0256ba72-857d-4734-be31-be685e5a10ad
+    :END:
+*** TODO Clean up text to be consistent, proper refs etc.
+    :PROPERTIES:
+    :ID:       5349a44a-61b3-4ba2-b795-cb73eac3482b
+    :END:
+*** NEXT Work out hyperbolic barrier
+    :LOGBOOK:
+    CLOCK: [2013-01-14 Mon 16:10]--[2013-01-14 Mon 16:35] =>  0:25
+    CLOCK: [2013-01-14 Mon 09:10]--[2013-01-14 Mon 09:36] =>  0:26
+    CLOCK: [2013-01-14 Mon 08:27]--[2013-01-14 Mon 09:04] =>  0:37
+    CLOCK: [2013-01-11 Fri 14:10]--[2013-01-11 Fri 14:30] =>  0:20
+    CLOCK: [2013-01-09 Wed 10:05]--[2013-01-09 Wed 10:34] =>  0:29
+    CLOCK: [2013-01-09 Wed 09:57]--[2013-01-09 Wed 09:58] =>  0:01
+    CLOCK: [2013-01-09 Wed 09:37]--[2013-01-09 Wed 09:57] =>  0:20
+    :END:
+    :PROPERTIES:
+    :ID:       9576f953-1b7f-4459-915a-b8378f6d8b80
+    :END:
+*** NEXT Check high genus comparison computations
+    :LOGBOOK:
+    CLOCK: [2013-01-11 Fri 13:00]--[2013-01-11 Fri 14:10] =>  1:10
+    CLOCK: [2013-01-11 Fri 07:30]--[2013-01-11 Fri 08:05] =>  0:35
+    :END:
+    :PROPERTIES:
+    :ID:       60cbd811-022c-4afa-bb52-bc82b8694314
+    :END:			     
+** TODO Pipe Flows 						  :PIPE_FLOW:
+   :PROPERTIES:
+   :ID:       cf90c8f0-dc09-44d4-87d4-f7000acc2ba1
+   :END:
+[[file:~/working/academic/research/geometric_pipe_flows]]
+*** NEXT Set up exact tasks
+    :PROPERTIES:
+    :ID:       bd4e49ca-6f78-44af-aa3b-782d2eb98ff3
+    :END:
+*** NEXT Transcribe pipe examples from Bei Da notebook
+  :LOGBOOK:
+  CLOCK: [2012-11-20 Tue 10:48]--[2012-11-20 Tue 10:49] =>  0:01
+  :END:
+  :PROPERTIES:
+  :ID:       1940744d-17a2-4b3c-9051-b5eead539aa8
+  :END:
+[2012-11-20 Tue 10:48]
+
+*** NEXT Transcribe from Bei Da notebook: pipe flow
+  :LOGBOOK:
+  :END:
+  :PROPERTIES:
+  :ID:       acf2c85c-2e65-45b7-a705-e30b58a7ca4b
+  :END:
+[2012-11-20 Tue 11:04]
+** TODO distance viscosity				 :DISTANCE_VISCOSITY:
+   :PROPERTIES:
+   :ID:       c77edc75-4647-4f26-93c4-da74485714c1
+   :END:
+[[file:~/working/academic/research/distance_viscosity]]
+*** NEXT Set up exact tasks
+    :PROPERTIES:
+    :ID:       86855cdc-dd8e-492f-a12a-061383083d80
+    :END:
+*** NEXT Compute Hessian of d
+    :LOGBOOK:
+    CLOCK: [2012-11-27 Tue 17:45]--[2012-11-27 Tue 19:15] =>  1:30
+    CLOCK: [2012-11-27 Tue 14:05]--[2012-11-27 Tue 14:30] =>  0:25
+    :END:
+    :PROPERTIES:
+    :ID:       ed26585a-2582-48bc-a787-2a457954b383
+    :END:
+
+** TODO MCF BOOK
+[[file:~/working/academic/research/mcf_book]]
+[[file:~/Dropbox/MCF Project]]
+   :PROPERTIES:
+   :ID:       94d316e3-e550-42ca-90f9-fd91d2d61bc5
+   :END:
+*** NEXT Set up exact tasks
+    :PROPERTIES:
+    :ID:       264e8cb9-0195-4424-8b4a-7564af954309
+    :END:
+*** NEXT Make outline of book
+    :PROPERTIES:
+    :ID:       fafef726-06de-4f07-8e85-b55e2e153b9d
+    :END:
+** TODO Submanifolds
+[[file:~/working/academic/research/submanifolds_book]]
+   :PROPERTIES:
+   :ID:       c81850da-1eac-4c94-a963-ab007548b40a
+   :END:
+*** NEXT Set up exact tasks
+    :PROPERTIES:
+    :ID:       c0bd68d4-6572-425e-8118-bb755fcded6f
+    :END:
+*** NEXT Pull submanifolds previous work into new project
+    :PROPERTIES:
+    :ID:       7b113c85-946a-4233-a2aa-4b9393af4506
+    :END:
+*** TODO Write up:
+    :PROPERTIES:
+    :ID:       f5b2828b-7b71-4d0a-8a52-850706bc62e3
+    :END:
+Outline
+Pull backs, normal bundles etc.
+Variations
+Space-time (how do we choose a connection?)
+Sequences of manifolds and convergence. What is smooth convergence? Can it be defined invariantly?
+
+** TODO alpha CSF distance comparison
+   :LOGBOOK:
+   CLOCK: [2012-12-18 Tue 15:11]--[2012-12-18 Tue 15:12] =>  0:01
+   :END:
+   :PROPERTIES:
+   :ID:       82bbca25-be33-478e-9fc2-ee07aff558c7
+   :END:
+[[file:~/working/academic/research/alphacsf_dist_comp]]
+*** DONE Set up exact tasks
+    - State "DONE"       from "NEXT"       [2012-12-20 Thu 11:42]
+    :LOGBOOK:
+    CLOCK: [2012-12-20 Thu 11:40]--[2012-12-20 Thu 11:42] =>  0:02
+    :END:
+    :PROPERTIES:
+    :ID:       4f722f4b-5144-460f-99ed-df219865ff85
+    :END:
+*** DONE Transcribe variational argument from notebook
+    - State "DONE"       from "NEXT"       [2012-12-19 Wed 11:20]
+    :LOGBOOK:
+    CLOCK: [2012-12-19 Wed 10:02]--[2012-12-19 Wed 11:19] =>  1:17
+    CLOCK: [2012-12-18 Tue 18:10]--[2012-12-18 Tue 18:20] =>  0:10
+    CLOCK: [2012-12-18 Tue 13:26]--[2012-12-18 Tue 15:11] =>  1:45
+    CLOCK: [2012-12-18 Tue 12:10]--[2012-12-18 Tue 12:35] =>  0:25
+    :END:
+    :PROPERTIES:
+    :ID:       e326f80a-7e84-497c-949e-c91f0c47581f
+    :END:
+*** DONE Work out spectral argument
+    - State "DONE"       from "TODO"       [2012-12-18 Tue 20:00]
+    :LOGBOOK:
+    CLOCK: [2012-12-18 Tue 18:20]--[2012-12-18 Tue 20:00] =>  1:40
+    :END:
+*** NEXT Try similarity soln as in CSF case
+    :PROPERTIES:
+    :ID:       e33f844d-a7a7-406b-bf25-002f515cb649
+    :END:
+*** TODO Write introduction
+    :PROPERTIES:
+    :ID:       f830177c-d9ea-4120-82f6-d0af42487036
+    :END:
+*** NEXT Finish max principle arg
+    :LOGBOOK:
+    CLOCK: [2012-12-21 Fri 13:30]--[2012-12-21 Fri 15:32] =>  2:02
+    CLOCK: [2012-12-21 Fri 11:02]--[2012-12-21 Fri 11:51] =>  0:49
+    CLOCK: [2012-12-20 Thu 21:14]--[2012-12-20 Thu 21:46] =>  0:32
+    CLOCK: [2012-12-20 Thu 18:45]--[2012-12-20 Thu 21:07] =>  2:22
+    CLOCK: [2012-12-20 Thu 15:22]--[2012-12-20 Thu 18:07] =>  2:45
+    CLOCK: [2012-12-20 Thu 11:42]--[2012-12-20 Thu 12:05] =>  0:23
+    :END:
+    :PROPERTIES:
+    :ID:       2d45cee3-0bf7-482b-a10e-9caca013f87e
+    :END:
+*** TODO Find comparison solutions
+    :PROPERTIES:
+    :ID:       9c3e45f9-6c61-48b8-b0e1-eaae4fd6514b
+    :END:
+*** NEXT Work our normalised flow
+    :PROPERTIES:
+    :ID:       b63d50df-619a-46e9-88f4-460accb55823
+    :END:
+** TODO CSF surfaces distance comparison
+   :PROPERTIES:
+   :ID:       85f583ed-c9eb-4993-91e3-8cedf9945d1f
+   :END:
+[[file:~/working/academic/research/csf_dist_comp_surfaces]]
+** TODO vector symmetric rational functions
+   :PROPERTIES:
+   :ID:       6c117119-27b6-488d-9f88-199a553e2be2
+   :END:
+[[file:~/working/academic/research/vector_symmetric_rational_functions]]
+
+** TODO cmc_stability
+   :PROPERTIES:
+   :ID:       4cda53b3-53b6-4e00-99dc-b977d3f57889
+   :END:
+[[file:/home/pbryan/working/academic/research/cmc_stability]]
+
+** TODO csf_networks
+   :PROPERTIES:
+   :ID:       1bc93b81-8423-4598-8297-f0b90aa39aa7
+   :END:
+[[file:/home/pbryan/working/academic/research/csf_networks]]
+
+** TODO csf_isoprofile_surfaces
+   :PROPERTIES:
+   :ID:       b7168bd9-6808-46e9-86f3-a606bae8586b
+   :END:
+[[file:/home/pbryan/working/academic/research/csf_isoprofile_surfaces]]
+** TODO free_k_graphs
+   :PROPERTIES:
+   :ID:       89d01823-d0d8-4903-9d15-b84ad05edf31
+   :END:
+[[file:/home/pbryan/working/academic/research/free_k_graphs]]
+** TODO ricci_isoprofile_comparison_kahler_manifolds
+   :PROPERTIES:
+   :ID:       39603eb5-2bec-4118-a705-a5287b9d5ad2
+   :END:
+[[file:/home/pbryan/working/academic/research/ricci_isoprofile_comparison_kahler_manifolds]]
+** TODO ricci_pseudo_locality
+   :PROPERTIES:
+   :ID:       9831a9b5-8a08-43cd-bbfd-bd0b0950a815
+   :END:
+[[file:/home/pbryan/working/academic/research/ricci_pseudo_locality]]
+
+** TODO ricci_degenerate_neck_pinches
+   :PROPERTIES:
+   :ID:       66603461-6850-4f49-ba50-de184b15be3b
+   :END:
+[[file:/home/pbryan/working/academic/research/ricci_degenerate_neck_pinches]]
+** TODO bakry_emery_levy_gromov
+   :PROPERTIES:
+   :ID:       4eb29f73-141b-4ca2-9394-436a9293bdce
+   :END:
+[[file:/home/pbryan/working/academic/research/bakry_emery_levy_gromov]]
+
+** TODO ricci_flow_warped_products
+   :PROPERTIES:
+   :ID:       4eb29f73-141b-4ca2-9394-436a9293bdce
+   :END:
+[[file:~/working/academic/research/ricci_flow_warped_products]]
+
+** TODO unbounded_curvature_comparison
+   :PROPERTIES:
+   :ID:       84de701c-0043-4f38-8b94-70db58460f70
+   :END:
+[[file:/home/pbryan/working/academic/research/unbounded_curvature_comparison]]
+** TODO isoperimetry
+   :PROPERTIES:
+   :ID:       6d2fffec-080e-464b-b8d5-3c86a329fe2c
+   :END:
+[[file:/home/paul/working/academic/research/isoperimetry]]
+** TODO hypersurface_support_functions
+   :PROPERTIES:
+   :ID:       cd56118f-db78-4d4a-a900-454dfc251e29
+   :END:
+[[file:/home/paul/working/academic/research/hypersurface_support_functions]]
+
+** Tasks
+*** TODO Organise research papers
+    :LOGBOOK:
+    :END:
+    :PROPERTIES:
+    :ID:       27dd1954-9abe-4a87-9bcd-36027c643fdb
+    :END:
+**** TODO File hard copies under bib key
+     :PROPERTIES:
+     :ID:       133cd7db-b4c3-42ac-bd2a-6e7082bd67f5
+     :END:
+**** TODO Configure reftex, org-mode to access papers
+     :PROPERTIES:
+     :ID:       0d3a134a-c167-44e8-aa83-fc2b5327b03e
+     :END:
+***** DONE Research setup: see evernote refs to start
+      - State "DONE"       from "NEXT"       [2012-10-26 Fri 14:50]
+***** DONE Create org file for recording notes on papers in bib file
+      - State "DONE"       from "NEXT"       [2012-10-26 Fri 14:50]
+***** NEXT org-mode create ref should create bib, mr/arxiv links
+      :PROPERTIES:
+      :ID:       03789ba0-7a21-4b06-bbe0-70a1f06edde1
+      :END:
+**** TODO pdf scraping tool to create bib entries and rename pdf files
+This should open pdf's, get doi info and then look up the paper details
+online to get bib type info. Then the paper can be renamed, a bib entry
+can be created or downloaded, say from mathscinet or arxiv. I'd aso like this
+to create an org-mode headline for my refs.org file. I don't want to do this
+manually, though a bit of elisp should be able to iterate over each bib
+entry (using reftex?) and update the refs.org file. I may also want to store
+each bib entry in a seperate file and have refs.bib a concatenation of the lot
+so that I don't have problems editing refs.bib from multiple places.
+See [[http://en.dogeno.us/2010/02/release-a-python-script-for-organizing-scientific-papers-pyrenamepdf-py/][pyrename-pdf]]
+  CLOCK: [2012-10-26 Fri 13:04]--[2012-10-26 Fri 13:06] =>  0:02
+    :PROPERTIES:
+    :ID:       751a6769-bf15-4590-925c-d1eb938a03b3
+    :END:
+[2012-10-26 Fri 13:04]
+
+**** TODO Write script to auto download from mathscinet, arxiv etc.
+    :PROPERTIES:
+    :ID:       65db22f3-b0c6-43c2-b7d5-9922cf35e5e8
+    :END:
+The script should get mathscinet info, say a bib file and use the doi
+info to automatically download the pdf file
+Ideally this should be integrated into org-mode
+See [[http://www.lhnr.de/index.html#code/localcopy][JabRef plugin]]
+Also the URL format for MR lookup is
+http://www.ams.org/mrlookup?au=yau%20and%20li&year=1986&format=mrcit
+with various other fields allowed, but not MR number!
+See also
+[[http://www.ams.org/mathscinet/help/mr_lookup_help.html][mr_lookup_help]]
+[2012-10-26 Fri 13:01]
+
+**** TODO Populate org file and bib file with references
+     :PROPERTIES:
+     :ID:       57e9b039-e848-43d9-a7c6-b46fed373170
+     :END:
+**** DONE Collect pdf's into single directory
+     - State "DONE"       from "NEXT"       [2013-01-08 Tue 08:51]
+     :LOGBOOK:
+     CLOCK: [2013-01-08 Tue 08:46]--[2013-01-08 Tue 08:51] =>  0:05
+     :END:
+    :PROPERTIES:
+    :ID:       9defa0b0-c473-4347-9cf3-574714e81f7d
+    :END:
+     [[file:~/research_resources]]
+*** DONE Create research projects with tasks
+    - State "DONE"       from "NEXT"       [2012-12-03 Mon 16:56]
+    :LOGBOOK:
+    CLOCK: [2012-12-03 Mon 16:10]--[2012-12-03 Mon 16:57] =>  0:47
+    :END:
+    :PROPERTIES:
+    :ID:       3679901e-c496-4a9f-924a-207740991872
+    :END:
+- [X] Ricci isoperimetric comparison project
+- [X] Pipe flows
+- [X] MCF Book
+- [X] submanifolds book
+- [X] $\alpha$ curve flows
+- [X] dist. comp. on surfaces
+- [X] cmc_stability
+- [X] csf_networks
+- [X] csf_isoprofile_surfaces
+- [X] Vector symmetric polynomials
+- [X] free_k_graphs
+- [X] ricci_isoprofile_comparison_kahler_manifolds
+- [X] ricci_pseudo_locality
+- [X] ricci_degenerate_neck_pinches
+- [X] ricci _flow_warped_products
+- [X] bakry_emery_levy_gromov
+
+*** Research Pondering
+    :LOGBOOK:
+    CLOCK: [2012-12-17 Mon 21:05]--[2012-12-17 Mon 21:30] =>  0:25
+    CLOCK: [2012-12-17 Mon 12:30]--[2012-12-17 Mon 13:30] =>  1:00
+    CLOCK: [2012-12-11 Tue 07:30]--[2012-12-11 Tue 08:30] =>  1:00
+    CLOCK: [2012-12-06 Thu 12:49]--[2012-12-06 Thu 13:25] =>  0:36
+    CLOCK: [2012-12-05 Wed 14:15]--[2012-12-05 Wed 15:00] =>  0:45
+    CLOCK: [2012-12-05 Wed 12:00]--[2012-12-05 Wed 12:30] =>  0:30
+    CLOCK: [2012-11-28 Wed 14:05]--[2012-11-28 Wed 14:50] =>  0:45
+    CLOCK: [2012-11-28 Wed 13:00]--[2012-11-28 Wed 13:37] =>  0:42
+    :END:
+
+*** Literature reviewing
+    :LOGBOOK:
+    CLOCK: [2012-12-18 Tue 11:10]--[2012-12-18 Tue 11:33] =>  0:23
+    CLOCK: [2012-12-18 Tue 09:45]--[2012-12-18 Tue 10:27] =>  0:42
+    :END:
+** Research ideas
+*** Bakry-Emry, Optimal transport measure
+  :PROPERTIES:
+  :ID:       a515c581-ea2b-499f-b9eb-5ad6afa454fb
+  :END:  
+ISO inequality brim minkowski opt transport functional form
+Barthe: The Brunn-Minkowski theorem and related geometric functional inequalities
+Sturm: Convex functionals probability measures
+Cordero-Erausquin, Benaim, Raimond: Bakry-Emery criterion self intersecting diffusions 
+McCann, Schmuckenschlager: Prekopa-Leindler, Jacobi fields, optimal transport, Riemannian
+Cheeger, Colding: structure, Ricci bounded below
+
+Search google for "riemannian measure absolutely continuous bakry emery"
+
+*** Set of manifolds in non-smooth spaces
+  :PROPERTIES:
+  :ID:       a0703512-9a3d-497b-988e-2ede248b0f4c
+  :END:  
+    Dense in alexandrov spaces? Rectifiable sets?
+See Burago, Burago, Ivanov
+See Gromov, Burago, Perelman
+See Petrunin
+See Shiohama, K. (Katsuhiro), Introduction to the geometry of Alexandrov spaces.
+*** Stability CMC hypersurfaces
+**** Notes
+Heintze: Extrinsic Upper Bounds For $\lamda_1$
+and paper's citing it, particularly 
+Monteil: Stable constant mean curvature hypersurfaces in some Riemannian manifolds
+Also look at 
+*** Milnor conjecture
+See Shen, Sormani: THE TOPOLOGY OF OPEN MANIFOLDS WITH NONNEGATIVE RICCI CURVATURE
+
+*** Continuum mech as geodesics on metrics
+See [[papers:MR1912903][MR1912903-paper]] for Lie group/algebra theory approach
+Steve Zelditch does this sort of thing.
+The people in rooms 58-- also do this. They have continuum mech type posters outside their office.
+
+*** Check out riemanniab measures
+  :PROPERTIES:
+  :ID:       470f8b9b-3ea4-47c1-9f19-2d91fe11ba5a
+  :END: 
+https://docs.google.com/viewer?a=v&q=cache:4OHUxxdyFgAJ:wiener.iam.uni-bonn.de/~sturm/papers/paper46.pdf+riemannian+measure+absoluteley+continuos&hl=en&gl=us&pid=bl&srcid=ADGEESg256Trhiqd_sNmeZYSQFnMB7OOaWni4wvAqVIAg9XXCQRZ4Es7lEvfEHf1NVkjWwiz08l2WpE6FVlQ7LO2rkVZaoL5648T4BYJ7WtRqVRdlKzzlsKnM3_hgipybqChNyBMBNwC&sig=AHIEtbQQjNPe2J7oCQBmPmzZ_lALgEKGcw
+wiener.iam.uni-bonn.de/~sturm/papers/paper46.pdf
+intlpress.com/JDG/archive/vol.54/issue1/1_3.pdf
+www.math.jussieu.fr/~cordero/Docs/articles/pl.pdf
+
+*** Check colding new monotonicity paper
+
+* Seminars
+  :PROPERTIES:
+  :ID:       1e7a7317-1668-4432-a995-cdaa9293f7af
+  :CATEGORY: Seminars
+  :END:
+** DONE Seminars org project
+   - State "DONE"       from "TODO"       [2012-10-18 Thu 11:13]
+  CLOCK: [2012-10-14 Sun 20:38]--[2012-10-14 Sun 20:38] =>  0:00
+[2012-10-14 Sun 20:38]
+** SOMEDAY Invite Visitors
+Some money available through colloquia funds?
+  CLOCK: [2012-10-14 Sun 20:39]--[2012-10-14 Sun 20:40] =>  0:01
+   :PROPERTIES:
+   :ID:       e922bc74-823a-4909-83a9-fbc7b63a93d7
+   :END:
+[2012-10-14 Sun 20:39]
+*** NEXT Contact Ben, Lei and/or Peter about funding/process
+    :PROPERTIES:
+    :ID:       c011fced-9d37-4ac5-bd6e-bb689c3a67f2
+    :END:
+** NEXT Lawson conjecture proof
+   DEADLINE: <2013-01-31 Thu> SCHEDULED: <2013-01-17 Thu>
+   :LOGBOOK:
+   CLOCK: [2013-01-25 Fri 20:00]--[2013-01-25 Fri 20:20] =>  0:20
+   :END:
+   :PROPERTIES:
+   :ID:       577dc994-7182-4d41-8b66-efe3d0b804fe
+   :END:
+
+   <2013-01-31 Thu 10:00>
+* Students
+  :PROPERTIES:
+  :ID:       a93e1471-a035-4d1a-888f-948a3996b9ec
+  :CATEGORY: Students
+  :END:
+** Meet Janelle and Ben Chow
+Talk about ancient solutions of curve shortening flow on $S^2$
+<2012-11-07 Wed 09:00>
+** Meet Janelle and Ben Chow
+   :PROPERTIES:
+   :ID:       dcb4363e-a8bf-4c99-88e7-e914b6750319
+   :END:
+Talk about ancient solutions of curve shortening flow on $S^2$
+<2012-11-14 Wed 09:00>
+* Tasks
+  :PROPERTIES:
+  :ID:       7d76f7eb-1bab-46a9-8ccd-34d13e4dcece
+  :CATEGORY: Tasks
+  :END:
+** DONE Contact Ben Andrews about MCF, geometric evolution eqn's books
+   - State "DONE"       from "TODO"       [2012-11-09 Fri 11:47]
+  CLOCK: [2012-10-17 Wed 08:23]--[2012-10-17 Wed 08:23] =>  0:00
+   :PROPERTIES:
+   :ID:       23b5f090-7dcb-4d25-aa13-be5827182c87
+   :END:
+[2012-10-17 Wed 08:23]
+
+** TODO Transcribe from Bei Da notebook: math musings
+  :LOGBOOK:
+  :END:
+  :PROPERTIES:
+  :ID:       9d2cc9b8-82a5-4d20-8284-ebb375786e39
+  :END:
+[2012-11-20 Tue 11:04]
+** TODO Transcribe trace from Bei Da notebook
+  :LOGBOOK:
+  CLOCK: [2012-11-20 Tue 10:50]--[2012-11-20 Tue 10:53] =>  0:03
+  :END:
+  :PROPERTIES:
+  :ID:       4f5359c0-36aa-40f8-be49-85b17c2f2996
+  :END:
+[2012-11-20 Tue 10:50]
+** DONE Set up journal review project
+   - State "DONE"       from "TODO"       [2012-12-07 Fri 10:43]
+  :LOGBOOK:
+  :END:
+   :PROPERTIES:
+   :ID:       eac9484c-c615-4be1-86c9-fe9dd21e7404
+   :END:
+[2012-12-04 Tue 14:03]
+MR2948294
+
+** NEXT Transcribe notes
+   SCHEDULED: <2013-01-01 Tue .+1w/10d>
+   - State "DONE"       from "NEXT"       [2012-12-24 Mon 16:25]
+   - State "DONE"       from "NEXT"       [2012-12-05 Wed 19:55]
+    :LOGBOOK:
+  CLOCK: [2013-01-08 Tue 14:16]--[2013-01-08 Tue 15:07] =>  0:51
+    CLOCK: [2012-12-24 Mon 15:51]--[2012-12-24 Mon 16:25] =>  0:34
+    CLOCK: [2012-12-05 Wed 18:48]--[2012-12-05 Wed 18:50] =>  0:02
+    CLOCK: [2012-12-05 Wed 17:50]--[2012-12-05 Wed 18:36] =>  0:46
+    :END:
+:PROPERTIES:
+:STYLE: habit
+:REPEAT_TO_STATE: NEXT
+:ID: 3908a11d-fd52-4335-9257-656bf9bd4692
+:LAST_REPEAT: [2012-12-25 Tue 10:24]
+:END:
+
+* Networking
+   :LOGBOOK:
+   CLOCK: [2013-01-08 Tue 11:00]--[2013-01-08 Tue 13:00] =>  2:00
+   :END:
+  :PROPERTIES:
+  :ID:       11e903a0-7ecf-45d4-ac54-4aec405e7d23
+  :END:
+* Collaborators
+  :PROPERTIES:
+  :ID:       108d3c88-823b-4098-929b-f55292293588
+  :CATEGORY: Collaborators
+  :END:
+** People
+- Julie ClutterBuck
+- Mat Langford
+- Ben Andrews
+- Ben Chow
+- Lei Ni
+- Jim Isenberg
+- Brett Kotschwar
+- XianFeng
+- Zhang ShiJin
+
+** Meet Brett Kotschwar
+<2012-11-09 Fri 13:00>
+
+* Notes
+  :PROPERTIES:
+  :ID:       20906464-9b86-4766-b2c7-b42be71a3343
+  :CATEGORY: Notes
+  :END:
+* Processes
+  :PROPERTIES:
+  :ID:       c8cbd0f3-55ea-4270-890e-1e3801051447
+  :CATEGORY: Processes
+  :END:
+** New Research Project
+Should I just make a script that takes the project name and does all this?
+- [ ] Create project directory in [[~/working/academic/research]]
+- [ ] Make master project.org file (includes notes, title other options like including my latex setup)
+- [ ] Put under VC control
+- [ ] Create empty bitbucket repository
+- [ ] Clone local to bitbucket
+* Reading
+  :PROPERTIES:
+  :ID:       14b72a3f-fa8c-4c71-8fb7-dd29dde1ae3a
+  :END:
+** TODO Read Calculus of Variations and Partial Differential Equations, Vol. 46, Issue 1 - New Issue Alert
+   :PROPERTIES:
+   :ID:       be1191b3-72e9-45a5-bfb2-6193b0b8443f
+   :END:
+It's in an email.
