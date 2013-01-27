@@ -496,6 +496,8 @@ Update this based on Bo's comments.
    :END:
 
 ** TODO MATH142B Winter 2012					   :MATH142B:
+   :LOGBOOK:
+   :END:
    :PROPERTIES:
    :ID:       1143f380-6198-4a55-b640-8d8e9c7cfb72
    :END:
@@ -750,6 +752,8 @@ Update this based on Bo's comments.
       :END:
 
 **** TODO Lectures
+     :LOGBOOK:
+     :END:
      :PROPERTIES:
      :ID:       cb6490d4-44bd-4622-8b1e-b0c7233b53e2
      :END:
@@ -847,9 +851,10 @@ Update this based on Bo's comments.
       :PROPERTIES:
       :ID:       d05d375a-639f-49fe-bc9f-a0df4ed6b1ad
       :END:
-****** NEXT Prepare lecture 4-1
+****** DONE Prepare lecture 4-1
+       - State "DONE"       from "NEXT"       [2013-01-27 Sun 13:21]
        :LOGBOOK:
-       CLOCK: [2013-01-27 Sun 11:54]
+       CLOCK: [2013-01-27 Sun 11:54]--[2013-01-27 Sun 12:14] =>  0:20
        CLOCK: [2013-01-27 Sun 11:17]--[2013-01-27 Sun 11:36] =>  0:19
        CLOCK: [2013-01-27 Sun 10:54]--[2013-01-27 Sun 11:10] =>  0:16
        :END:
