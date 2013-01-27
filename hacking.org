@@ -1,0 +1,60 @@
+#+FILETAGS: HACKING
+
+* Game Development
+  :PROPERTIES:
+  :ID:       faa642eb-8002-4af8-a098-2ab4e75b86f1
+  :END:
+PROPERTIES:
+CATEGORY: Games
+END:
+
+** SOMEDAY kilobolt android game tutorial
+   :PROPERTIES:
+   :ID:       95c8b378-9880-4b0a-88ae-ef1789ef0cf5
+   :END:
+http://www.kilobolt.com/game-development-tutorial.html
+[2012-10-22 Mon 18:07]
+*** NEXT Find out where I'm up to and make next tasks for each week
+    :PROPERTIES:
+    :ID:       1299357f-6450-4633-8f67-5706b2334bf5
+    :END:
+** SOMEDAY java code geeks android game tutorial
+[[http://www.javacodegeeks.com/2011/06/android-game-development-tutorials.html][tutorial]] 
+  CLOCK: [2012-10-23 Tue 17:06]--[2012-10-23 Tue 17:06] =>  0:00
+   :PROPERTIES:
+   :ID:       6a9762f7-dd70-4f1f-a09b-eef4151fc4f8
+   :END:
+[2012-10-23 Tue 17:06]
+*** NEXT Java code geeks Tutorial
+    :PROPERTIES:
+    :ID:       953d8f2c-22b2-40ad-bbde-e2eabc453c60
+    :END: 
+
+* Programming
+  :PROPERTIES:
+  :ID:       5353497c-9613-4623-a4ba-4ac6a37e42fe
+  :END:
+** Structure and Interpretation of Computer Programs 
+http://mitpress.mit.edu/sicp/
+http://groups.csail.mit.edu/mac/classes/6.001/abelson-sussman-lectures/
+* emacs
+  :PROPERTIES:
+  :ID:       0dcdccc8-50f8-487d-88c6-1034edc744ef
+  :END:
+PROPERTIES:
+CATEGORY: emacs
+END:
+
+** SOMEDAY emdroid hacking
+[[http://www.emacswiki.org/emacs/EmDroid][EmDroid]]
+  CLOCK: [2012-10-21 Sun 17:23]--[2012-10-21 Sun 17:23] =>  0:00
+   :PROPERTIES:
+   :ID:       0f28a16d-86ca-4727-b2ca-dc631fe1273f
+   :END:
+[2012-10-21 Sun 17:23]
+** SOMEDAY Implement emacs merge-news for hg
+  CLOCK: [2012-10-31 Wed 09:40]--[2012-10-31 Wed 09:40] =>  0:00
+   :PROPERTIES:
+   :ID:       4fc56c2f-08d8-456b-a8da-66fcfe9d1ec4
+   :END:
+[2012-10-31 Wed 09:40]

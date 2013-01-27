@@ -1,0 +1,1228 @@
+
+#+LAST_MOBILE_CHANGE: 2013-01-23 07:17:49
+#+FILETAGS: HEALTH
+* Exercise							   :EXERCISE:
+  :PROPERTIES:
+  :ID:       3420f12a-2ad8-4511-8543-13d0044fcde6
+  :END:
+
+** Schedule
+*** NEXT No Intensity
+    SCHEDULED: <2013-01-27 Sun .+4d/5d>
+    - State "DONE"       from "NEXT"       [2013-01-23 Wed 19:23]
+    - State "DONE"       from "NEXT"       [2013-01-18 Fri 19:48]
+    - State "DONE"       from "NEXT"       [2013-01-12 Sat 16:22]
+    - State "DONE"       from "NEXT"       [2013-01-07 Mon 14:09]
+    - State "DONE"       from "NEXT"       [2013-01-03 Thu 11:20]
+    - State "DONE"       from "NEXT"       [2012-12-26 Wed 18:15]
+    - State "DONE"       from "NEXT"       [2012-12-20 Thu 15:16]
+    - State "DONE"       from "NEXT"       [2012-12-16 Sun 15:40]
+    - State "DONE"       from "NEXT"       [2012-12-11 Tue 07:30]
+    - State "DONE"       from "NEXT"       [2012-12-07 Fri 07:30]
+    - State "DONE"       from "NEXT"       [2012-12-03 Mon 17:50]
+    - State "DONE"       from "NEXT"       [2012-11-27 Tue 09:49]
+    - State "DONE"       from "NEXT"       [2012-11-24 Sat 17:03]
+    - State "DONE"       from "NEXT"       [2012-11-19 Mon 08:35]
+    - State "DONE"       from "TODO"       [2012-11-14 Wed 11:16]
+
+    :LOGBOOK:
+    CLOCK: [2013-01-16 Wed 20:33]--[2013-01-16 Wed 21:04] =>  0:31
+    CLOCK: [2012-12-26 Wed 17:44]--[2012-12-26 Wed 18:13] =>  0:29
+    CLOCK: [2012-12-20 Thu 14:35]--[2012-12-20 Thu 15:15] =>  0:40
+    CLOCK: [2012-12-16 Sun 15:11]--[2012-12-16 Sun 15:40] =>  0:29
+    CLOCK: [2012-12-07 Fri 07:00]--[2012-12-07 Fri 07:30] =>  0:30
+    CLOCK: [2012-12-07 Fri 07:00]--[2012-12-07 Fri 07:30] =>  0:30
+    CLOCK: [2012-12-03 Mon 19:00]--[2012-12-03 Mon 19:15] =>  0:15
+    CLOCK: [2012-11-27 Tue 09:00]--[2012-11-27 Tue 09:30] =>  0:30
+    CLOCK: [2012-11-19 Mon 08:38]--[2012-11-19 Tue 09:04] =>  0:26
+    :END:
+
+:PROPERTIES:
+:STYLE: habit
+:REPEAT_TO_STATE: NEXT
+:LAST_REPEAT: [2013-01-23 Wed 19:23]
+:ID: e38c9566-fca4-46e5-bf5f-a6c98c63f9f2
+:END:
+    
+*** NEXT Low Intensity
+    SCHEDULED: <2013-01-28 Mon .+4d/5d>
+    - State "DONE"       from "NEXT"       [2013-01-24 Thu 11:32]
+    - State "DONE"       from "NEXT"       [2013-01-23 Wed 07:34]
+    - State "DONE"       from "NEXT"       [2013-01-20 Sun 16:52]
+    - State "DONE"       from "NEXT"       [2013-01-09 Wed 21:23]
+    - State "DONE"       from "NEXT"       [2013-01-08 Tue 21:13]
+    - State "DONE"       from "NEXT"       [2013-01-04 Fri 18:15]
+    - State "DONE"       from "NEXT"       [2013-01-02 Wed 19:36]
+    - State "DONE"       from "NEXT"       [2013-01-01 Tue 16:05]
+    - State "DONE"       from "NEXT"       [2012-12-31 Mon 16:00]
+    - State "DONE"       from "NEXT"       [2012-12-30 Sun 17:00]
+    - State "DONE"       from "NEXT"       [2012-12-27 Thu 18:15]
+    - State "DONE"       from "NEXT"       [2012-12-22 Sat 21:35]
+    - State "DONE"       from "NEXT"       [2012-12-21 Fri 16:36]
+    - State "DONE"       from "NEXT"       [2012-12-17 Mon 16:28]
+    - State "DONE"       from "NEXT"       [2012-12-12 Wed 21:35]
+    - State "DONE"       from "NEXT"       [2012-12-08 Sat 21:04]
+    - State "DONE"       from "NEXT"       [2012-12-04 Tue 21:16]
+    - State "DONE"       from "NEXT"       [2012-11-29 Thu 17:11]
+    - State "DONE"       from "NEXT"       [2012-11-25 Sun 15:35]
+    - State "DONE"       from "NEXT"       [2012-11-24 Sat 16:30]
+    - State "DONE"       from "NEXT"       [2012-11-23 Fri 17:03]
+    - State "DONE"       from "NEXT"       [2012-11-20 Tue 15:30]
+    - State "DONE"       from "TODO"       [2012-11-15 Thu 17:00]
+
+:LOGBOOK:
+CLOCK: [2013-01-20 Sun 11:13]--[2013-01-20 Sun 12:10] =>  0:57
+CLOCK: [2013-01-09 Wed 20:58]--[2013-01-09 Wed 21:20] =>  0:21
+CLOCK: [2012-12-30 Sun 16:24]--[2012-12-30 Sun 17:01] =>  0:37
+CLOCK: [2012-12-27 Thu 17:15]--[2012-12-27 Thu 18:15] =>  1:00
+CLOCK: [2012-12-22 Sat 20:31]--[2012-12-22 Sat 21:35] =>  1:04
+CLOCK: [2012-12-21 Fri 15:38]--[2012-12-21 Fri 16:36] =>  0:58
+CLOCK: [2012-12-17 Mon 15:03]--[2012-12-17 Mon 16:28] =>  1:25
+CLOCK: [2012-12-12 Wed 20:50]--[2012-12-12 Wed 21:35] =>  0:45
+CLOCK: [2012-12-08 Sat 19:55]--[2012-12-08 Sat 21:05] =>  1:10
+CLOCK: [2012-11-29 Thu 15:58]--[2012-11-29 Thu 17:09] =>  1:10
+CLOCK: [2012-11-25 Sun 16:05]--[2012-11-25 Sun 16:35] =>  0:30
+CLOCK: [2012-11-24 Tue 15:30]--[2012-11-24 Tue 16:00] =>  0:30
+CLOCK: [2012-11-20 Tue 15:30]--[2012-11-20 Tue 16:00] =>  0:30
+:END:
+
+:PROPERTIES:
+:STYLE: habit
+:REPEAT_TO_STATE: NEXT
+:LAST_REPEAT: [2013-01-24 Thu 11:32]
+:ID: c5da0e4d-cf57-4caf-ba23-369257edd6ac
+:END:
+
+*** NEXT Mod Intensity
+    SCHEDULED: <2013-01-25 Fri .+4d/5d>
+    - State "DONE"       from "NEXT"       [2013-01-21 Mon 19:24]
+    - State "CANCELLED"  from "NEXT"       [2013-01-15 Tue 09:54] \\
+      Sick
+    - State "DONE"       from "NEXT"       [2013-01-10 Thu 16:22]
+    - State "DONE"       from "NEXT"       [2013-01-05 Sat 13:12]
+    - State "DONE"       from "NEXT"       [2012-12-28 Fri 11:41]
+    - State "DONE"       from "NEXT"       [2012-12-24 Mon 12:05]
+    - State "DONE"       from "NEXT"       [2012-12-18 Tue 09:19]
+    - State "DONE"       from "NEXT"       [2012-12-14 Fri 16:25]
+    - State "DONE"       from "NEXT"       [2012-12-09 Sun 13:05]
+    - State "DONE"       from "NEXT"       [2012-12-05 Wed 17:28]
+    - State "DONE"       from "NEXT"       [2012-12-01 Sat 16:52]
+    - State "DONE"       from "NEXT"       [2012-11-21 Wed 17:05]
+    - State "DONE"       from "NEXT"       [2012-11-17 Sat 10:58]
+:LOGBOOK:
+CLOCK: [2012-12-28 Fri 11:12]--[2012-12-28 Fri 11:41] =>  0:29
+CLOCK: [2012-12-24 Mon 11:20]--[2012-12-24 Mon 12:02] =>  0:42
+CLOCK: [2012-12-18 Tue 15:26]--[2012-12-18 Tue 16:11] =>  0:45
+CLOCK: [2012-12-14 Fri 15:38]--[2012-12-14 Fri 16:22] =>  0:43
+CLOCK: [2012-12-09 Sun 12:36]--[2012-12-09 Sun 13:05] =>  0:29
+CLOCK: [2012-12-05 Wed 16:30]--[2012-12-05 Wed 17:05] =>  0:35
+CLOCK: [2012-12-01 Sat 15:53]--[2012-12-01 Sat 16:48] =>  0:55
+:END:
+
+:PROPERTIES:
+:STYLE: habit
+:REPEAT_TO_STATE: NEXT
+:ID: 2fd02d93-9376-4172-b361-0e865b293007
+:LAST_REPEAT: [2013-01-23 Wed 19:24]
+:END:
+*** NEXT High Intensity
+    SCHEDULED: <2013-01-26 Sat .+4d/5d>
+    - State "DONE"       from "NEXT"       [2013-01-22 Tue 19:24]
+    - State "CANCELLED"  from "NEXT"       [2013-01-15 Tue 09:55] \\
+      Sick
+    - State "DONE"       from "NEXT"       [2013-01-12 Sat 16:23]
+    - State "CANCELLED"  from "NEXT"       [2013-01-07 Mon 12:58] \\
+      Too much pain.
+    - State "DONE"       from "NEXT"       [2012-12-29 Sat 11:47]
+    - State "DONE"       from "NEXT"       [2012-12-25 Tue 12:22]
+    - State "DONE"       from "NEXT"       [2012-12-19 Wed 12:35]
+    - State "DONE"       from "NEXT"       [2012-12-15 Sat 17:35]
+    - State "DONE"       from "NEXT"       [2012-12-10 Mon 18:04]
+    - State "CANCELLED"  from "NEXT"       [2012-12-06 Thu 09:56] \\
+      Was too tired
+    - State "DONE"       from "NEXT"       [2012-12-02 Sun 19:47]
+    - State "DONE"       from "NEXT"       [2012-11-22 Thu 10:34]
+    - State "DONE"       from "NEXT"       [2012-11-18 Sun 09:59]
+:LOGBOOK:
+CLOCK: [2012-12-29 Sat 11:10]--[2012-12-29 Sat 11:35] =>  0:24
+CLOCK: [2012-12-25 Tue 11:41]--[2012-12-25 Tue 12:21] =>  0:39
+CLOCK: [2012-12-19 Wed 11:52]--[2012-12-19 Wed 12:34] =>  0:41
+CLOCK: [2012-12-15 Sat 16:46]--[2012-12-15 Sat 17:35] =>  0:49
+CLOCK: [2012-12-10 Mon 17:15]--[2012-12-10 Mon 18:00] =>  0:45
+CLOCK: [2012-12-02 Sun 16:18]--[2012-12-02 Sun 17:05] =>  0:47
+:END:
+
+:PROPERTIES:
+:STYLE: habit
+:REPEAT_TO_STATE: NEXT
+:ID: d52c3978-eea8-457c-b9c9-1a38d6d54a88
+:LAST_REPEAT: [2013-01-23 Wed 19:24]
+:END:
+*** NEXT Eye/Jaw exercises
+    SCHEDULED: <2013-01-25 Fri .+1d/2d>
+    - State "DONE"       from "NEXT"       [2013-01-24 Thu 21:45]
+    - State "DONE"       from "NEXT"       [2013-01-20 Sun 19:09]
+    - State "DONE"       from "NEXT"       [2013-01-10 Thu 08:37]
+    - State "DONE"       from "NEXT"       [2013-01-04 Fri 09:49]
+    - State "DONE"       from "NEXT"       [2013-01-02 Wed 08:48]
+    - State "DONE"       from "NEXT"       [2012-12-30 Sun 13:52]
+    - State "DONE"       from "NEXT"       [2012-12-27 Thu 10:33]
+    - State "DONE"       from "NEXT"       [2012-12-26 Wed 09:50]
+    - State "DONE"       from "NEXT"       [2012-12-21 Fri 17:47]
+    - State "DONE"       from "NEXT"       [2012-12-19 Wed 09:30]
+    - State "DONE"       from "NEXT"       [2012-12-18 Tue 08:45]
+    - State "DONE"       from "NEXT"       [2012-12-17 Mon 14:55]
+    - State "DONE"       from "NEXT"       [2012-12-16 Sun 16:32]
+    - State "DONE"       from "NEXT"       [2012-12-14 Fri 11:59]
+    - State "DONE"       from "NEXT"       [2012-12-13 Thu 10:36]
+    - State "DONE"       from "NEXT"       [2012-12-11 Tue 10:11]
+    - State "DONE"       from "NEXT"       [2012-12-10 Mon 07:00]
+    - State "DONE"       from "NEXT"       [2012-12-09 Sun 17:45]
+    - State "DONE"       from "NEXT"       [2012-12-07 Fri 10:03]
+    - State "DONE"       from "NEXT"       [2012-12-06 Thu 10:19]
+    - State "DONE"       from "NEXT"       [2012-12-05 Wed 19:55]
+    - State "DONE"       from "NEXT"       [2012-12-04 Tue 21:16]
+    - State "DONE"       from "NEXT"       [2012-12-02 Sun 21:29]
+    - State "DONE"       from "NEXT"       [2012-11-30 Fri 14:11]
+    - State "DONE"       from "NEXT"       [2012-11-29 Thu 09:57]
+    - State "DONE"       from "NEXT"       [2012-11-28 Wed 10:39]
+    - State "DONE"       from "NEXT"       [2012-11-27 Tue 10:07]
+    - State "DONE"       from "NEXT"       [2012-11-26 Mon 09:05]
+    - State "DONE"       from "NEXT"       [2012-11-24 Sat 17:02]
+    - State "DONE"       from "NEXT"       [2012-11-21 Wed 14:17]
+    - State "DONE"       from "NEXT"       [2012-11-20 Tue 10:16]
+    - State "DONE"       from "NEXT"       [2012-11-16 Fri 14:25]
+    :LOGBOOK:
+    CLOCK: [2013-01-24 Thu 21:38]--[2013-01-24 Thu 21:45] =>  0:07
+    CLOCK: [2013-01-20 Sun 19:03]--[2013-01-20 Sun 19:09] =>  0:06
+    CLOCK: [2013-01-10 Thu 08:30]--[2013-01-10 Thu 08:37] =>  0:07
+CLOCK: [2013-01-04 Fri 09:44]--[2013-01-04 Fri 09:48] =>  0:04
+    CLOCK: [2013-01-02 Wed 08:39]--[2013-01-02 Wed 08:47] =>  0:08
+    CLOCK: [2012-12-30 Sun 13:49]--[2012-12-30 Sun 13:52] =>  0:03
+    CLOCK: [2012-12-27 Thu 10:28]--[2012-12-27 Thu 10:32] =>  0:04
+    CLOCK: [2012-12-26 Wed 09:44]--[2012-12-26 Wed 09:48] =>  0:03
+    CLOCK: [2012-12-21 Fri 17:42]--[2012-12-21 Fri 17:47] =>  0:05
+    CLOCK: [2012-12-19 Wed 09:36]--[2012-12-19 Wed 09:38] =>  0:02
+    CLOCK: [2012-12-18 Tue 08:35]--[2012-12-18 Tue 08:43] =>  0:07
+    CLOCK: [2012-12-17 Mon 14:52]--[2012-12-17 Mon 14:55] =>  0:03
+    CLOCK: [2012-12-16 Sun 16:28]--[2012-12-16 Sun 16:32] =>  0:04
+    CLOCK: [2012-12-14 Fri 11:55]--[2012-12-14 Fri 11:59] =>  0:04
+    CLOCK: [2012-12-13 Thu 10:30]--[2012-12-13 Thu 10:36] =>  0:06
+    CLOCK: [2012-12-11 Tue 10:07]--[2012-12-11 Tue 10:11] =>  0:04
+    CLOCK: [2012-12-10 Mon 07:50]--[2012-12-10 Mon 07:55] =>  0:05
+    CLOCK: [2012-12-09 Sun 17:39]--[2012-12-09 Sun 17:45] =>  0:06
+    CLOCK: [2012-12-07 Fri 10:00]--[2012-12-07 Fri 10:03] =>  0:03
+    CLOCK: [2012-12-06 Thu 10:12]--[2012-12-06 Thu 10:19] =>  0:07
+    CLOCK: [2012-12-05 Wed 19:53]--[2012-12-05 Wed 19:55] =>  0:02
+    CLOCK: [2012-11-30 Fri 14:10]--[2012-11-30 Fri 14:11] =>  0:01
+    CLOCK: [2012-11-29 Thu 09:52]--[2012-11-29 Thu 09:57] =>  0:05
+    CLOCK: [2012-11-28 Wed 10:33]--[2012-11-28 Wed 10:39] =>  0:06
+    CLOCK: [2012-11-24 Sat 17:00]--[2012-11-24 Sat 17:02] =>  0:02
+    CLOCK: [2012-11-21 Wed 14:14]--[2012-11-21 Wed 14:17] =>  0:03
+    :END:
+:PROPERTIES:
+:STYLE: habit
+:REPEAT_TO_STATE: NEXT
+:ID: bb3574e2-d88d-476f-8d3a-ebde4a1691b7
+:LAST_REPEAT: [2013-01-24 Thu 21:45]
+:END:
+*** NEXT Meditate
+    SCHEDULED: <2013-01-24 Thu .+1d/2d>
+    - State "DONE"       from "NEXT"       [2013-01-23 Wed 19:20]
+    - State "DONE"       from "NEXT"       [2013-01-20 Sun 15:40]
+    - State "DONE"       from "NEXT"       [2013-01-12 Sat 16:25]
+    - State "DONE"       from "NEXT"       [2013-01-08 Tue 19:29]
+    - State "DONE"       from "NEXT"       [2013-01-05 Sat 16:11]
+    - State "DONE"       from "NEXT"       [2013-01-03 Thu 18:58]
+    - State "DONE"       from "NEXT"       [2013-01-02 Wed 19:35]
+    - State "DONE"       from "NEXT"       [2012-12-31 Mon 15:00]
+    - State "DONE"       from "NEXT"       [2012-12-29 Sat 13:30]
+    - State "DONE"       from "NEXT"       [2012-12-26 Wed 09:45]
+    - State "DONE"       from "NEXT"       [2012-12-23 Sun 15:25]
+    - State "DONE"       from "NEXT"       [2012-12-19 Wed 08:30]
+    - State "DONE"       from "NEXT"       [2012-12-18 Tue 08:15]
+    - State "DONE"       from "NEXT"       [2012-12-16 Sun 09:02]
+    - State "DONE"       from "NEXT"       [2012-12-14 Fri 15:25]
+    - State "DONE"       from "NEXT"       [2012-12-13 Thu 13:55]
+    - State "DONE"       from "NEXT"       [2012-12-11 Tue 15:45]
+    - State "DONE"       from "NEXT"       [2012-12-10 Mon 07:50]
+    - State "DONE"       from "NEXT"       [2012-12-09 Sun 14:59]
+    - State "DONE"       from "NEXT"       [2012-12-06 Thu 13:46]
+    - State "DONE"       from "NEXT"       [2012-12-05 Wed 15:30]
+    - State "DONE"       from "NEXT"       [2012-12-05 Wed 08:22]
+    - State "DONE"       from "NEXT"       [2012-12-03 Mon 17:50]
+    - State "DONE"       from "NEXT"       [2012-11-29 Thu 20:12]
+    - State "DONE"       from "NEXT"       [2012-11-28 Wed 16:50]
+    - State "DONE"       from "NEXT"       [2012-11-27 Tue 16:30]
+    - State "DONE"       from "NEXT"       [2012-11-26 Mon 09:00]
+    - State "DONE"       from "NEXT"       [2012-11-25 Sun 15:17]
+    - State "DONE"       from "NEXT"       [2012-11-24 Sat 15:01]
+    - State "DONE"       from "NEXT"       [2012-11-23 Fri 09:01]
+    - State "DONE"       from "NEXT"       [2012-11-21 Wed 14:39]
+    - State "DONE"       from "NEXT"       [2012-11-20 Tue 07:15]
+    - State "DONE"       from "NEXT"       [2012-11-19 Mon 14:15]
+    - State "DONE"       from "NEXT"       [2012-11-18 Sun 09:50]
+    - State "DONE"       from "NEXT"       [2012-11-17 Sat 15:01]
+    - State "DONE"       from "NEXT"       [2012-11-16 Fri 14:17]
+  :LOGBOOK:
+  CLOCK: [2013-01-23 Wed 18:30]--[2013-01-23 Wed 18:40] =>  0:10
+  CLOCK: [2013-01-20 Sun 15:05]--[2013-01-20 Sun 15:34] =>  0:29
+  CLOCK: [2013-01-20 Sun 15:05]--[2013-01-20 Sun 15:34] =>  0:29
+  CLOCK: [2013-01-05 Sat 07:30]--[2013-01-05 Sat 08:05] =>  0:35
+  CLOCK: [2013-01-05 Sat 15:02]--[2013-01-05 Sat 16:11] =>  1:09
+  CLOCK: [2013-01-03 Thu 15:15]--[2013-01-03 Thu 15:24] =>  0:09
+  CLOCK: [2013-01-02 Wed 19:30]--[2013-01-02 Wed 19:35] =>  0:05
+  CLOCK: [2012-12-31 Mon 14:30]--[2012-12-31 Mon 15:00] =>  0:30
+  CLOCK: [2012-12-29 Sat 13:13]--[2012-12-29 Sat 13:30] =>  0:17
+  CLOCK: [2012-12-26 Wed 09:13]--[2012-12-26 Wed 09:44] =>  0:31
+  CLOCK: [2012-12-23 Sun 14:39]--[2012-12-23 Sun 15:22] =>  0:43
+  CLOCK: [2012-12-19 Wed 07:30]--[2012-12-19 Wed 08:30] =>  1:00
+  CLOCK: [2012-12-18 Tue 07:15]--[2012-12-18 Tue 08:15] =>  1:00
+  CLOCK: [2012-12-16 Sun 15:50]--[2012-12-16 Sun 16:28] =>  0:38
+  CLOCK: [2012-12-16 Sun 08:00]--[2012-12-16 Sun 09:10] =>  1:10
+  CLOCK: [2012-12-14 Fri 14:55]--[2012-12-14 Fri 15:23] =>  0:27
+  CLOCK: [2012-12-13 Thu 12:20]--[2012-12-13 Thu 13:55] =>  1:35
+  CLOCK: [2012-12-11 Tue 15:35]--[2012-12-11 Tue 15:45] =>  0:10
+  CLOCK: [2012-12-10 Mon 07:15]--[2012-12-10 Mon 07:50] =>  0:35
+  CLOCK: [2012-12-09 Sun 15:03]--[2012-12-09 Sun 15:49] =>  0:45
+  CLOCK: [2012-12-06 Thu 13:25]--[2012-12-06 Thu 13:46] =>  0:21
+  CLOCK: [2012-12-05 Wed 15:00]--[2012-12-05 Wed 15:30] =>  0:30
+  CLOCK: [2012-12-05 Wed 07:42]--[2012-12-05 Wed 08:22] =>  0:40
+  CLOCK: [2012-12-04 Tue 14:39]--[2012-12-04 Tue 14:50] =>  0:11
+  CLOCK: [2012-12-03 Mon 17:23]--[2012-12-03 Mon 17:50] =>  0:27
+  CLOCK: [2012-11-28 Wed 16:26]--[2012-11-28 Wed 16:50] =>  0:23
+  CLOCK: [2012-11-27 Tue 16:00]--[2012-11-27 Tue 16:30] =>  0:30
+  CLOCK: [2012-11-26 Mon 08:33]--[2012-11-26 Mon 08:59] =>  0:26
+  CLOCK: [2012-11-21 Wed 14:21]--[2012-11-21 Wed 14:39] =>  0:18
+  CLOCK: [2012-11-16 Fri 13:40]--[2012-11-16 Fri 14:17] =>  0:37
+  :END:
+
+:PROPERTIES:
+:STYLE: habit
+:REPEAT_TO_STATE: NEXT
+:ID: e2e6b51c-d085-4668-ac4f-9d7e13df147d
+:LAST_REPEAT: [2013-01-23 Wed 19:20]
+:END:
+** Routines 
+*** Template
+#+TBLNAME: <DATE>SUMMARY 
+| Rest HR | Final HR | Score | Tech | Eff | Disc |
+|---------+----------+-------+------+-----+------|
+|         |          |       |      |     |      |
+
+*** Intuflow
+**** Target HR 
+- min 0.0 * (HR Max - HR Rest) + HR Rest 
+  e.g.           0.0 * (180 - 60) + 60 = 60
+- max 0.2 * (HR Max - HR Rest) + HR Rest
+  e.g.           0.2 * (180 - 60) + 60 = 84
+**** Template
+*** Qi Gong
+:LOGBOOK:
+CLOCK: [2013-01-19 Sat 08:20]--[2013-01-19 Sat 08:33] =>  0:12
+:END:
+**** Target HR 
+- min 0.0 * (HR Max - HR Rest) + HR Rest 
+  e.g.           0.0 * (180 - 60) + 60 = 60
+- max 0.2 * (HR Max - HR Rest) + HR Rest
+  e.g.           0.2 * (180 - 60) + 60 = 84
+**** Template     
+*** Tai Ji
+**** Target HR 
+- min 0.0 * (HR Max - HR Rest) + HR Rest 
+  e.g.           0.0 * (180 - 60) + 60 = 60
+- max 0.2 * (HR Max - HR Rest) + HR Rest
+  e.g.           0.2 * (180 - 60) + 60 = 84
+**** Template
+
+
+*** Ageless mobility
+**** Target HR
+- min < 0.2 * (HR Max - HR Rest) + HR Rest
+e.g.           0.2 * (180 - 60) + 60 = 84
+- max < 0.4 * (HR Max - HR Rest) + HR Rest
+e.g.           0.4 * (180 - 60) + 60 = 108
+
+**** Template
+*** Thrive flow
+**** Target HR
+- min < 0.2 * (HR Max - HR Rest) + HR Rest
+e.g.           0.2 * (180 - 60) + 60 = 84
+- max < 0.4 * (HR Max - HR Rest) + HR Rest
+e.g.           0.4 * (180 - 60) + 60 = 108
+
+**** Template
+
+
+*** Flowphysique
+**** Target HR (Mod) 
+- max 0.4 * (HR Max - HR Rest) + HR Rest
+  e.g.           0.4 * (180 - 60) + 60 = 108
+- max 0.7 * (HR Max - HR Rest) + HR Rest
+  e.g.           0.6 * (180 - 60) + 60 = 144
+**** Target HR (High) 
+- max 0.7 * (HR Max - HR Rest) + HR Rest
+  e.g.           0.6 * (180 - 60) + 60 = 144
+- max 1.0 * (HR Max - HR Rest) + HR Rest
+  e.g.           1.0 * (180 - 60) + 60 = 180
+**** Level 1 Templates
+***** [20/10X8+60]6
+
+#+TBLNAME: <DATE>RAW
+| Exercise          | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | Min | HR | T | E | D |
+|-------------------+---+---+---+---+---+---+---+---+-----+----+---+---+---|
+| Hack Squat        |   |   |   |   |   |   |   |   |   0 |    |   |   |   |
+| Plank Pull Knee   |   |   |   |   |   |   |   |   |   0 |    |   |   |   |
+| Sit Thru Knee     |   |   |   |   |   |   |   |   |   0 |    |   |   |   |
+| Knee Press        |   |   |   |   |   |   |   |   |   0 |    |   |   |   |
+| Basic Spinal Rock |   |   |   |   |   |   |   |   |   0 |    |   |   |   |
+| Table Lift        |   |   |   |   |   |   |   |   |   0 |    |   |   |   |
+       #+TBLFM: $10=vmin($2..$9)
+
+#+TBLNAME: <DATE>SUMMARY
+| Rest HR | Average HR | Score | Tech | Eff | Disc |
+|---------+------------+-------+------+-----+------|
+|         |          0 |     0 |    0 |   0 |    0 |
+       #+TBLFM: @2$2=vmean(remote(<DATE>RAW,@2$11..@7$11))::@2$3=vsum(remote(<DATE>RAW,@2$10..@7$10))::@2$4=vmean(remote(<DATE>RAW,@2$12..@7$12))::@2$5=vmean(remote(<DATE>RAW,@2$13..@7$13))::@2$6=vmean(remote(<DATE>RAW,@2$14..@7$14))
+
+***** 4/1X4
+#+TBLNAME: <DATE>RAW
+| Exercise                  | Reps | Min | HR | T | E | D |
+|---------------------------+------+-----+----+---+---+---|
+| Walking Lunge             |      |     |    |   |   |   |
+| Shoulder Bridge Knee Tuck |      |     |    |   |   |   |
+| Crow Hop                  |      |     |    |   |   |   |
+| Forearm Crocodile         |      |     |    |   |   |   |
+  
+#+TBLNAME: <DATE>SUMMARY
+| Rest HR | Average HR | Score | Tech | Eff | Disc |
+|---------+------------+-------+------+-----+------|
+|         |          0 |     0 |    0 |   0 |    0 |
+       #+TBLFM: @2$2=vmean(remote(<DATE>RAW,@2$3..@4$3)::@2$3=vsum(remote(<DATE>RAW,@2$4..@4$4))::@2$4=vmean(remote(<DATE>RAW,@2$5..@4$5))::@2$5=vmean(remote(<DATE>RAW,@2$6..@4$6))::@2$6=vmean(remote(<DATE>RAW,@2$7..@4$7))
+
+***** EMOTM
+#+TBLNAME: <DATE>SUMMARY
+| Rest HR | Final HR | Score | Tech | Eff | Disc |
+|---------+----------+-------+------+-----+------|
+|         |        0 |     0 |    0 |   0 |    0 |
+
+****** Instructions
+For 20 minues, every minute on the minute perform a set.
+****** Sets
+- 4 x quad press
+- 4 x spinal rocks
+- 4 x swinging tripod
+- 4 x knee press
+***** AMRAP
+#+TBLNAME: <DATE>SUMMARY
+| Rest HR | Final HR | Score | Tech | Eff | Disc |
+|---------+----------+-------+------+-----+------|
+|         |          |       |      |     |      |
+
+****** Instructions
+Do as many sets as possible in 20 mins.
+****** Sets
+- 5 x burpees
+- 5 x knee presses
+- 5/5 x gecko presses
+- 5 x shoulder bridge tucks
+
+***** [90/3X5]2
+#+TBLNAME: <DATE>RAW
+| Exercise                  | Reps 1 | Reps 2 | Min | HR1 | HR2 | T1 | T2 | E1 | E1 | D1 | D2 |
+|---------------------------+--------+--------+-----+-----+-----+----+----+----+----+----+----|
+| Forearm Cross Knee Thread |        |        |   0 |     |     |    |    |    |    |    |    |
+| Rocca Bent                |        |        |   0 |     |     |    |    |    |    |    |    |
+| Jump Up                   |        |        |   0 |     |     |    |    |    |    |    |    |
+| Quad Press                |        |        |   0 |     |     |    |    |    |    |    |    |
+| Alternating Dolphin       |        |        |   0 |     |     |    |    |    |    |    |    |
+         #+TBLFM: $4=vmin($2..$3)
+
+#+TBLNAME: <DATE>SUMMARY
+| Rest HR | Average HR | Score | Tech | Eff | Disc |
+|---------+------------+-------+------+-----+------|
+|         |          0 |     0 |    0 |   0 |    0 |
+       #+TBLFM: @2$2=vmean(remote(<DATE>RAW,@2$5..@6$6)::@2$3=vsum(remote(<DATE>RAW,@2$4..@6$4))::@2$4=vmean(remote(<DATE>RAW,@2$7..@6$8))::@2$5=vmean(remote(<DATE>RAW,@2$9..@6$10))::@2$6=vmean(remote(<DATE>RAW,@2$11..@6$12))
+
+***** AFAP
+#+TBLNAME: <DATE>SUMMARY
+| Rest HR | Final HR | Time  | Tech | Eff | Disc |
+|---------+----------+-------+------+-----+------|
+|         |          |       |      |     |      |
+
+**** Level 2 Templaes
+**** Level 3 Templates
+** Log
+*** Progress
+    :PROPERTIES:
+    :ID:       1526ed10-662e-4d0c-bb83-0c0bba0e00a4
+    :END:
+| Date             | Routine                            | Rest HR |  Final HR | Score |      Tech |       Eff |      Disc |
+|------------------+------------------------------------+---------+-----------+-------+-----------+-----------+-----------|
+| [2012-10-30 Tue] | [[id:5c0bae81-e2fb-408b-a99f-6059921166fe][Flow Physique : {20/10x8+60}6 Mod]]  |      65 |       120 |    27 | 7.8333333 |         6 | 3.3333333 |
+| [2012-10-31 Wed] | [[id:ce32e5c4-9be2-414b-b195-01698ca42d36][Flow Physique : {20/10x8+60}6 High]] |      65 | 137.66667 |    33 | 8.1666667 | 8.3333333 | 3.1666667 |
+| [2012-11-03 Sat] | [[id:b8e1a757-627f-4387-9974-4c147efcfc17][Flow Physique : 4/1x4 (Mod)]]        |      88 |       146 |   185 |      8.75 |      7.25 |       2.5 |
+| [2012-11-08 Thu] | [[id:492086a2-99e9-418e-a678-7c4846e2ff3d][Flow Physique : EMOTM (Mod)]]        |      70 |       124 |    11 |         9 |         8 |         3 |
+| [2012-11-12 Mon] | [[id:7511e0fc-cf95-4f37-9695-a383dcea5116][Flow Physique : AMRAP (Mod)]]        |      74 |       164 |     4 |         7 |         8 |         4 |
+| [2012-11-13 Tue] | [[id:d5bc4223-5d38-4b93-b68d-deffb5dfcd2a][Flow Physique : AMRAP (High)]]       |      60 |       156 |     6 |         8 |         9 |         4 |
+| [2012-11-17 Sat] | [[id:385d0c1c-7589-439f-bb71-251358ed15a6][Flow Physique : {90/30x5}2 (Mod)]]   |      77 |     139.2 |    67 |       8.3 |       6.6 |       3.3 |
+| [2012-11-19 Mon] | [[id:6802377a-4a60-4058-9dfa-8804ed1f03fc][Intuflow]]                           |      53 |        71 |     0 |         9 |         3 |         2 |
+| [2012-11-20 Tue] | [[id:1525e014-2499-45b3-b98b-e8913c6a126b][Thrive Flow]]                        |       0 |         0 |     0 |         8 |         4 |         3 |
+| [2012-11-21 Wed] | [[id:b1ad2732-367d-4e5b-8346-735c941ac257][Flow Physique : AFAP (Mod)]]         |      60 |       100 | 671 s |         8 |         6 |         2 |
+| [2012-11-22 Thu] | [[id:b3f5de7c-d839-4262-9126-1cc0c28fccce][Flow Physique : AFAP (High)]]        |      63 |       164 | 530 s |         9 |         9 |         4 |
+| [2012-11-23 Fri] | [[id:d8d9af28-66ef-4f66-a2cf-45c67cdad885][Thrive Flow]]                        |       0 |         0 |     0 |         7 |         6 |         5 |
+| [2012-11-24 Sat] | [[id:c42b03e0-de8d-4ded-a155-f388b3b2f4b6][Thrive Flow]]                        |       0 |         0 |     0 |         8 |         5 |         5 |
+| [2012-11-25 Sun] | [[id:782e4385-7f9b-433b-8351-e0e9181b464d][Thrive Flow]]                        |       0 |         0 |     0 |         7 |         5 |         4 |
+| [2012-11-27 Tue] | [[id:7c22c697-598a-4901-80b7-50f2828a4041][Intu Flow]]                          |      55 |        75 |     0 |         8 |         2 |         3 |
+| [2012-11-29 Thu] | [[id:8e009804-a13e-4e11-8334-2dc49bec5b9a][Ageless Mobility]]                   |       0 |        72 |     0 |         8 |         6 |         4 |
+| [2012-12-01 Sat] | [[id:83784b91-67e5-42b7-b2f3-aa50127effed][Flow Physique : {20/10x8+60}6 Mod]]  |      72 | 103.33333 |    29 |         8 | 5.6666667 | 3.1666667 |
+| [2012-12-02 Sun] | [[id:d13685b1-7378-4113-94e6-7194cae7e54b][Flow Physique : {20/10x8+60}6 High]] |      64 |        94 |    25 |         8 |         5 |       3.5 |
+| [2012-12-03 Mon] | [[id:e56695eb-9c5e-4cb9-84fe-182f8a369080][Intuflow]]                           |         |           |       |           |           |           |
+| [2012-12-04 Tue] | [[id:6b272c39-7be7-44e5-b937-ab003a9d84ad][Thrive Flow]]                        |         |           |       |           |           |           |
+| [2012-12-05 Wed] | [[id:276965bb-310c-424f-880b-6ca00ea3d5e6][Flow Physique : 4/1x4 (Mod)]]        |      70 |       153 |   143 |      8.75 |      6.25 |      3.75 |
+| [2012-12-07 Fri] | [[id:ceaf8401-7ece-4f58-91f9-6d87375116eb][Intuflow]]                           |      55 |        62 |     0 |         8 |         4 |         2 |
+| [2012-12-08 Sat] | [[id:fa7aa95b-037d-4a02-9335-40e074382816][Ageless Mobility]]                   |       0 |        85 |     0 |         9 |         4 |         2 |
+| [2012-12-09 Sun] | [[id:17e701d6-8f96-485b-bc9e-7793f04aa6e6][Flow Physique : EMOTM (Mod)]]        |      59 |       132 |    15 |         8 |         6 |         4 |
+| [2012-12-10 Mon] | [[id:9ec4a91f-efda-4117-9530-dbf9005dba76][Flow Physique : EMOTM (High)]]       |      68 |       144 |    15 |         9 |         9 |         3 |
+| [2012-12-11 Tue] | [[id:d3fd2f46-e543-46ff-ad30-c647e2b48c18][Intuflow]]                           |      74 |        91 |     0 |         8 |         5 |         3 |
+| [2012-12-12 Wed] | [[id:8ff21562-3fce-4ec2-b3c6-c117276a0bb4][Thrive Flow]]                        |      77 |        72 |     0 |         8 |         6 |         4 |
+| [2012-12-14 Fri] | [[id:26f0b5e5-cdfc-4160-bd99-519eb0a7db44][X-tension/be breathed (mod)]]        |      59 |       132 |     0 |         9 |         6 |         3 |
+| [2012-12-15 Fri] | [[id:f8b30f5d-9f2f-4e74-8840-4247fab2829b][X-tension/be breathed (high)]]       |      56 |       140 |     0 |         9 |         8 |         4 |
+| [2012-12-16 Fri] | [[id:9e7aa368-4437-4ef6-b9f0-a148b901b294][Intuflow]]                           |      62 |       104 |     0 |         9 |         4 |         2 |
+| [2012-12-17 Fri] | [[id:a3295aa6-0ddc-48de-80dc-121d0cde3314][Ageless Mobility]]                   |      64 |        68 |     0 |         9 |         3 |         2 |
+| [2012-12-18 Fri] | [[id:ebdaad31-0fac-4260-94a9-987c56604bf1][Flow Physique : AMRAP (Mod)]]        |      62 |       132 |     6 |         9 |         8 |         3 |
+| [2012-12-19 Wed] | [[id:2d949ecb-3d55-4d27-a468-6b466f37202b][Flow Physique : AMRAP (High)]]       |      57 |       160 |     8 |         8 |         9 |         3 |
+| [2012-12-20 Thu] | [[id:bfe7262e-8543-414a-8a26-991c946f87b7][Intuflow]]                           |      52 |        76 |     0 |         9 |         3 |         1 |
+| [2012-12-21 Fri] | [[id:a2eb234d-6e20-4a68-8cb2-1707df1f3dc8][Thrive Flow]]                        |      60 |        76 |     0 |         8 |         4 |         3 |
+| [2012-12-23 Sun] | [[id:b1eb9ec5-6413-4b0a-825c-15b839079cf4][Intuflow]]                           |      71 |        63 |     0 |         8 |         3 |         3 |
+| [2012-12-24 Mon] | [[id:545fa614-3ac7-4a72-ae22-7f0731ca4e88][Flow Physique : {90/30x5}2 (Mod)]]   |      59 |     108.4 |    64 |       8.3 |       6.9 |       3.6 |
+| [2012-12-25 Tue] | [[id:8108ac0c-54ee-4ece-a64e-757a067ef24a][Flow Physique : {90/30x5}2 (High)]]  |      62 |     117.2 |   101 |       8.8 |       8.2 |       3.5 |
+| [2012-12-26 Wed] | [[id:1c55256b-45a6-4d96-a233-d0fd80b78e3e][Intuflow]]                           |      75 |        96 |     0 |         0 |         0 |         0 |
+| [2012-12-27 Thu] | [[id:2960d902-2d26-4531-8d39-af3139294de1][Thrive Flow]]                        |       0 |        69 |     0 |         8 |         4 |         3 |
+| [2012-12-28 Fri] | [[id:a342f945-bed9-4e29-81c9-539b9f3d6b98][Flow Physique : AFAP (Mod)]]         |      68 |        78 | 900 s |         7 |         7 |         5 |
+| [2012-12-29 Sat] | [[id:22fba9d5-75be-4544-be18-30476cb43996][Flow Physique : AFAP (High)]]        |      56 |        92 | 540 s |         9 |         6 |         4 |
+    #+TBLFM: @2$3=remote(20121030SUMMARY, @2$1)::@2$4=remote(20121030SUMMARY, @2$2)::@2$5=remote(20121030SUMMARY, @2$3)::@2$6=remote(20121030SUMMARY, @2$4)::@2$7=remote(20121030SUMMARY, @2$5)::@2$8=remote(20121030SUMMARY, @2$6)::@3$3=remote(20121031SUMMARY, @2$1)::@3$4=remote(20121031SUMMARY, @2$2)::@3$5=remote(20121031SUMMARY, @2$3)::@3$6=remote(20121031SUMMARY, @2$4)::@3$7=remote(20121031SUMMARY, @2$5)::@3$8=remote(20121031SUMMARY, @2$6)::@4$3=remote(20121103SUMMARY, @2$1)::@4$4=remote(20121103SUMMARY, @2$2)::@4$5=remote(20121103SUMMARY, @2$3)::@4$6=remote(20121103SUMMARY, @2$4)::@4$7=remote(20121103SUMMARY, @2$5)::@4$8=remote(20121103SUMMARY, @2$6)::@5$3=remote(20121108SUMMARY, @2$1)::@5$4=remote(20121108SUMMARY, @2$2)::@5$5=remote(20121108SUMMARY, @2$3)::@5$6=remote(20121108SUMMARY, @2$4)::@5$7=remote(20121108SUMMARY, @2$5)::@5$8=remote(20121108SUMMARY, @2$6)::@6$3=remote(20121112SUMMARY, @2$1)::@6$4=remote(20121112SUMMARY, @2$2)::@6$5=remote(20121112SUMMARY, @2$3)::@6$6=remote(20121112SUMMARY, @2$4)::@6$7=remote(20121112SUMMARY, @2$5)::@6$8=remote(20121112SUMMARY, @2$6)::@7$3=remote(20121113SUMMARY, @2$1)::@7$4=remote(20121113SUMMARY, @2$2)::@7$5=remote(20121113SUMMARY, @2$3)::@7$6=remote(20121113SUMMARY, @2$4)::@7$7=remote(20121113SUMMARY, @2$5)::@7$8=remote(20121113SUMMARY, @2$6)::@8$3=remote(20121117SUMMARY, @2$1)::@8$4=remote(20121117SUMMARY, @2$2)::@8$5=remote(20121117SUMMARY, @2$3)::@8$6=remote(20121117SUMMARY, @2$4)::@8$7=remote(20121117SUMMARY, @2$5)::@8$8=remote(20121117SUMMARY, @2$6)::@9$3=remote(20121119SUMMARY, @2$1)::@9$4=remote(20121119SUMMARY, @2$2)::@9$5=remote(20121119SUMMARY, @2$3)::@9$6=remote(20121119SUMMARY, @2$4)::@9$7=remote(20121119SUMMARY, @2$5)::@9$8=remote(20121119SUMMARY, @2$6)::@10$3=remote(20121120SUMMARY, @2$1)::@10$4=remote(20121120SUMMARY, @2$2)::@10$5=remote(20121120SUMMARY, @2$3)::@10$6=remote(20121120SUMMARY, @2$4)::@10$7=remote(20121120SUMMARY, @2$5)::@10$8=remote(20121120SUMMARY, @2$6)::@11$3=remote(20121121SUMMARY, @2$1)::@11$4=remote(20121121SUMMARY, @2$2)::@11$5=remote(20121121SUMMARY, @2$3)::@11$6=remote(20121121SUMMARY, @2$4)::@11$7=remote(20121121SUMMARY, @2$5)::@11$8=remote(20121121SUMMARY, @2$6)::@12$3=remote(20121122SUMMARY, @2$1)::@12$4=remote(20121122SUMMARY, @2$2)::@12$5=remote(20121122SUMMARY, @2$3)::@12$6=remote(20121122SUMMARY, @2$4)::@12$7=remote(20121122SUMMARY, @2$5)::@12$8=remote(20121122SUMMARY, @2$6)::@13$3=remote(20121123SUMMARY, @2$1)::@13$4=remote(20121123SUMMARY, @2$2)::@13$5=remote(20121123SUMMARY, @2$3)::@13$6=remote(20121123SUMMARY, @2$4)::@13$7=remote(20121123SUMMARY, @2$5)::@13$8=remote(20121123SUMMARY, @2$6)::@14$3=remote(20121124SUMMARY, @2$1)::@14$4=remote(20121124SUMMARY, @2$2)::@14$5=remote(20121124SUMMARY, @2$3)::@14$6=remote(20121124SUMMARY, @2$4)::@14$7=remote(20121124SUMMARY, @2$5)::@14$8=remote(20121124SUMMARY, @2$6)::@15$3=remote(20121125SUMMARY, @2$1)::@15$4=remote(20121125SUMMARY, @2$2)::@15$5=remote(20121125SUMMARY, @2$3)::@15$6=remote(20121125SUMMARY, @2$4)::@15$7=remote(20121125SUMMARY, @2$5)::@15$8=remote(20121125SUMMARY, @2$6)::@16$3=remote(20121127SUMMARY, @2$1)::@16$4=remote(20121127SUMMARY, @2$2)::@16$5=remote(20121127SUMMARY, @2$3)::@16$6=remote(20121127SUMMARY, @2$4)::@16$7=remote(20121127SUMMARY, @2$5)::@16$8=remote(20121127SUMMARY, @2$6)::@17$3=remote(20121129SUMMARY, @2$1)::@17$4=remote(20121129SUMMARY, @2$2)::@17$5=remote(20121129SUMMARY, @2$3)::@17$6=remote(20121129SUMMARY, @2$4)::@17$7=remote(20121129SUMMARY, @2$5)::@17$8=remote(20121129SUMMARY, @2$6)::@18$3=remote(20121201SUMMARY, @2$1)::@18$4=remote(20121201SUMMARY, @2$2)::@18$5=remote(20121201SUMMARY, @2$3)::@18$6=remote(20121201SUMMARY, @2$4)::@18$7=remote(20121201SUMMARY, @2$5)::@18$8=remote(20121201SUMMARY, @2$6)::@19$3=remote(20121202SUMMARY, @2$1)::@19$4=remote(20121202SUMMARY, @2$2)::@19$5=remote(20121202SUMMARY, @2$3)::@19$6=remote(20121202SUMMARY, @2$4)::@19$7=remote(20121202SUMMARY, @2$5)::@19$8=remote(20121202SUMMARY, @2$6)::@22$3=remote(20121205SUMMARY, @2$1)::@22$4=remote(20121205SUMMARY, @2$2)::@22$5=remote(20121205SUMMARY, @2$3)::@22$6=remote(20121205SUMMARY, @2$4)::@22$7=remote(20121205SUMMARY, @2$5)::@22$8=remote(20121205SUMMARY, @2$6)::@23$3=remote(20121207SUMMARY, @2$1)::@23$4=remote(20121207SUMMARY, @2$2)::@23$5=remote(20121207SUMMARY, @2$3)::@23$6=remote(20121207SUMMARY, @2$4)::@23$7=remote(20121207SUMMARY, @2$5)::@23$8=remote(20121207SUMMARY, @2$6)::@24$3=remote(20121208SUMMARY, @2$1)::@24$4=remote(20121208SUMMARY, @2$2)::@24$5=remote(20121208SUMMARY, @2$3)::@24$6=remote(20121208SUMMARY, @2$4)::@24$7=remote(20121208SUMMARY, @2$5)::@24$8=remote(20121208SUMMARY, @2$6)::@25$3=remote(20121209SUMMARY, @2$1)::@25$4=remote(20121209SUMMARY, @2$2)::@25$5=remote(20121209SUMMARY, @2$3)::@25$6=remote(20121209SUMMARY, @2$4)::@25$7=remote(20121209SUMMARY, @2$5)::@25$8=remote(20121209SUMMARY, @2$6)::@26$3=remote(20121210SUMMARY, @2$1)::@26$4=remote(20121210SUMMARY, @2$2)::@26$5=remote(20121210SUMMARY, @2$3)::@26$6=remote(20121210SUMMARY, @2$4)::@26$7=remote(20121210SUMMARY, @2$5)::@26$8=remote(20121210SUMMARY, @2$6)::@27$3=remote(20121211SUMMARY, @2$1)::@27$4=remote(20121211SUMMARY, @2$2)::@27$5=remote(20121211SUMMARY, @2$3)::@27$6=remote(20121211SUMMARY, @2$4)::@27$7=remote(20121211SUMMARY, @2$5)::@27$8=remote(20121211SUMMARY, @2$6)::@28$3=remote(20121212SUMMARY, @2$1)::@28$4=remote(20121212SUMMARY, @2$2)::@28$5=remote(20121212SUMMARY, @2$3)::@28$6=remote(20121212SUMMARY, @2$4)::@28$7=remote(20121212SUMMARY, @2$5)::@28$8=remote(20121212SUMMARY, @2$6)::@29$3=remote(20121214SUMMARY, @2$1)::@29$4=remote(20121214SUMMARY, @2$2)::@29$5=remote(20121214SUMMARY, @2$3)::@29$6=remote(20121214SUMMARY, @2$4)::@29$7=remote(20121214SUMMARY, @2$5)::@29$8=remote(20121214SUMMARY, @2$6)::@30$3=remote(20121215SUMMARY, @2$1)::@30$4=remote(20121215SUMMARY, @2$2)::@30$5=remote(20121215SUMMARY, @2$3)::@30$6=remote(20121215SUMMARY, @2$4)::@30$7=remote(20121215SUMMARY, @2$5)::@30$8=remote(20121215SUMMARY, @2$6)::@31$3=remote(20121216SUMMARY, @2$1)::@31$4=remote(20121216SUMMARY, @2$2)::@31$5=remote(20121216SUMMARY, @2$3)::@31$6=remote(20121216SUMMARY, @2$4)::@31$7=remote(20121216SUMMARY, @2$5)::@31$8=remote(20121216SUMMARY, @2$6)::@32$3=remote(20121217SUMMARY, @2$1)::@32$4=remote(20121217SUMMARY, @2$2)::@32$5=remote(20121217SUMMARY, @2$3)::@32$6=remote(20121217SUMMARY, @2$4)::@32$7=remote(20121217SUMMARY, @2$5)::@32$8=remote(20121217SUMMARY, @2$6)::@33$3=remote(20121218SUMMARY, @2$1)::@33$4=remote(20121218SUMMARY, @2$2)::@33$5=remote(20121218SUMMARY, @2$3)::@33$6=remote(20121218SUMMARY, @2$4)::@33$7=remote(20121218SUMMARY, @2$5)::@33$8=remote(20121218SUMMARY, @2$6)::@34$3=remote(20121219SUMMARY, @2$1)::@34$4=remote(20121219SUMMARY, @2$2)::@34$5=remote(20121219SUMMARY, @2$3)::@34$6=remote(20121219SUMMARY, @2$4)::@34$7=remote(20121219SUMMARY, @2$5)::@34$8=remote(20121219SUMMARY, @2$6)::@35$3=remote(20121220SUMMARY, @2$1)::@35$4=remote(20121220SUMMARY, @2$2)::@35$5=remote(20121220SUMMARY, @2$3)::@35$6=remote(20121220SUMMARY, @2$4)::@35$7=remote(20121220SUMMARY, @2$5)::@35$8=remote(20121220SUMMARY, @2$6)::@36$3=remote(20121221SUMMARY, @2$1)::@36$4=remote(20121221SUMMARY, @2$2)::@36$5=remote(20121221SUMMARY, @2$3)::@36$6=remote(20121221SUMMARY, @2$4)::@36$7=remote(20121221SUMMARY, @2$5)::@36$8=remote(20121221SUMMARY, @2$6)::@37$3=remote(20121223SUMMARY, @2$1)::@37$4=remote(20121223SUMMARY, @2$2)::@37$5=remote(20121223SUMMARY, @2$3)::@37$6=remote(20121223SUMMARY, @2$4)::@37$7=remote(20121223SUMMARY, @2$5)::@37$8=remote(20121223SUMMARY, @2$6)::@38$3=remote(20121224SUMMARY, @2$1)::@38$4=remote(20121224SUMMARY, @2$2)::@38$5=remote(20121224SUMMARY, @2$3)::@38$6=remote(20121224SUMMARY, @2$4)::@38$7=remote(20121224SUMMARY, @2$5)::@38$8=remote(20121224SUMMARY, @2$6)::@39$3=remote(20121225SUMMARY, @2$1)::@39$4=remote(20121225SUMMARY, @2$2)::@39$5=remote(20121225SUMMARY, @2$3)::@39$6=remote(20121225SUMMARY, @2$4)::@39$7=remote(20121225SUMMARY, @2$5)::@39$8=remote(20121225SUMMARY, @2$6)::@40$3=remote(20121226SUMMARY, @2$1)::@40$4=remote(20121226SUMMARY, @2$2)::@40$5=remote(20121226SUMMARY, @2$3)::@40$6=remote(20121226SUMMARY, @2$4)::@40$7=remote(20121226SUMMARY, @2$5)::@40$8=remote(20121226SUMMARY, @2$6)::@41$3=remote(20121227SUMMARY, @2$1)::@41$4=remote(20121227SUMMARY, @2$2)::@41$5=remote(20121227SUMMARY, @2$3)::@41$6=remote(20121227SUMMARY, @2$4)::@41$7=remote(20121227SUMMARY, @2$5)::@41$8=remote(20121227SUMMARY, @2$6)::@42$3=remote(20121228SUMMARY, @2$1)::@42$4=remote(20121228SUMMARY, @2$2)::@42$5=remote(20121228SUMMARY, @2$3)::@42$6=remote(20121228SUMMARY, @2$4)::@42$7=remote(20121228SUMMARY, @2$5)::@42$8=remote(20121228SUMMARY, @2$6)::@43$3=remote(20121229SUMMARY, @2$1)::@43$4=remote(20121229SUMMARY, @2$2)::@43$5=remote(20121229SUMMARY, @2$3)::@43$6=remote(20121229SUMMARY, @2$4)::@43$7=remote(20121229SUMMARY, @2$5)::@43$8=remote(20121229SUMMARY, @2$6)
+    
+*** 2012
+    :PROPERTIES:
+    :ID:       c85a7bee-b393-4db9-acee-a98cce4adbf7
+    :END:
+**** 2012-10 October
+***** 2012-10-30
+****** Flow Physique : [20/10x8+60]6 Mod
+       :PROPERTIES:
+       :ID:       5c0bae81-e2fb-408b-a99f-6059921166fe
+       :END:
+#+TBLNAME: 20121030RAW
+| Exercise          | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | Min |  HR | T | E | D |
+|-------------------+---+---+---+---+---+---+---+---+-----+-----+---+---+---|
+| Hack Squat        | 6 | 8 | 8 | 7 | 7 | 6 |   |   |   6 | 124 | 8 | 5 | 2 |
+| Plank Pull Knee   | 4 | 4 | 4 | 4 | 4 | 4 |   |   |   4 | 124 | 8 | 6 | 3 |
+| Sit Thru Knee     | 6 | 6 | 7 | 6 | 6 | 6 |   |   |   6 | 152 | 8 | 6 | 3 |
+| Knee Press        | 5 | 5 | 5 | 5 | 4 | 4 |   |   |   4 | 112 | 7 | 7 | 4 |
+| Basic Spinal Rock | 4 | 4 | 4 | 4 | 4 | 4 |   |   |   4 | 124 | 8 | 6 | 4 |
+| Table Lift        | 3 | 3 | 3 | 3 | 3 | 3 |   |   |   3 |  84 | 8 | 6 | 4 |
+       #+TBLFM: $10=vmin($2..$9)
+
+#+TBLNAME: 20121030SUMMARY
+| Rest HR | Average HR | Score |      Tech | Eff |      Disc |
+|---------+------------+-------+-----------+-----+-----------|
+|      65 |        120 |    27 | 7.8333333 |   6 | 3.3333333 |
+       #+TBLFM: @2$2=vmean(remote(20121030RAW,@2$11..@7$11)::@2$3=vsum(remote(20121030RAW,@2$10..@7$10))::@2$4=vmean(remote(20121030RAW,@2$12..@7$12))::@2$5=vmean(remote(20121030RAW,@2$13..@7$13))::@2$6=vmean(remote(20121030RAW,@2$14..@7$14))
+
+***** 2012-10-31
+****** Flow Physique : [20/10x8+60]6 High
+       :PROPERTIES:
+       :ID:       ce32e5c4-9be2-414b-b195-01698ca42d36
+       :END:
+#+TBLNAME: 20121031RAW
+| Exercise          | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | Min |  HR | T | E | D |
+|-------------------+---+---+---+---+---+---+---+---+-----+-----+---+---+---|
+| Hack Squat        | 8 | 9 | 9 | 9 | 9 | 9 |   |   |   8 | 152 | 9 | 8 | 1 |
+| Plank Pull Knee   | 6 | 6 | 6 | 6 | 5 | 6 |   |   |   5 | 144 | 9 | 8 | 4 |
+| Sit Thru Knee     | 9 | 8 | 8 | 8 | 8 | 8 |   |   |   8 | 168 | 8 | 8 | 2 |
+| Knee Press        | 5 | 5 | 5 | 4 | 4 | 4 |   |   |   4 | 150 | 8 | 9 | 4 |
+| Basic Spinal Rock | 6 | 6 | 8 | 5 | 5 | 5 |   |   |   5 | 108 | 8 | 8 | 3 |
+| Table Lift        | 4 | 4 | 4 | 3 | 3 | 3 |   |   |   3 | 104 | 7 | 9 | 5 |
+       #+TBLFM: $10=vmin($2..$9)
+
+#+TBLNAME: 20121031SUMMARY
+| Rest HR |  Final HR | Score |      Tech |       Eff |      Disc |
+|---------+-----------+-------+-----------+-----------+-----------|
+|      65 | 137.66667 |    33 | 8.1666667 | 8.3333333 | 3.1666667 |
+       #+TBLFM: @2$2=vmean(remote(20121031RAW,@2$11..@7$11)::@2$3=vsum(remote(20121031RAW,@2$10..@7$10))::@2$4=vmean(remote(20121031RAW,@2$12..@7$12))::@2$5=vmean(remote(20121031RAW,@2$13..@7$13))::@2$6=vmean(remote(20121031RAW,@2$14..@7$14))
+       
+**** 2012-11 November
+***** 2012-11-03 Saturday
+****** Flow Physique : 4/1x4
+       :PROPERTIES:
+       :ID:       b8e1a757-627f-4387-9974-4c147efcfc17
+       :END:
+#+TBLNAME: 20121103RAW
+| Exercise                  | Reps |  HR | T | E | D |
+|---------------------------+------+-----+---+---+---|
+| Walking Lunge             |   72 | 148 | 9 | 7 | 3 |
+| Shoulder Bridge Knee Tuck |   32 | 128 | 9 | 6 | 2 |
+| Crow Hop                  |   28 | 152 | 9 | 8 | 3 |
+| Forearm Crocodile         |   53 | 156 | 8 | 8 | 2 |
+  
+#+TBLNAME: 20121103SUMMARY
+| Rest HR | Average HR | Score | Tech |  Eff | Disc |
+|---------+------------+-------+------+------+------|
+|      88 |        146 |   185 | 8.75 | 7.25 |  2.5 |
+       #+TBLFM: @2$2=vmean(remote(20121103RAW,@2$3..@5$3)::@2$3=vsum(remote(20121103RAW,@2$2..@5$2))::@2$4=vmean(remote(20121103RAW,@2$4..@5$4))::@2$5=vmean(remote(20121103RAW,@2$5..@5$5))::@2$6=vmean(remote(20121103RAW,@2$6..@5$6))
+
+***** 2012-11-08 Thursday
+****** Flow Physique : EMOTM (Mod)
+       :PROPERTIES:
+       :ID:       492086a2-99e9-418e-a678-7c4846e2ff3d
+       :END:
+#+TBLNAME: 20121108SUMMARY
+| Rest HR | Average HR | Score | Tech | Eff | Disc |
+|---------+------------+-------+------+-----+------|
+|      70 |        124 |    11 |    9 |   8 |    3 |
+
+***** 2012-11-12 Monday
+****** Flow Physique : AMRAP (Mod)
+       :PROPERTIES:
+       :ID:       7511e0fc-cf95-4f37-9695-a383dcea5116
+       :END:
+#+TBLNAME: 20121112SUMMARY
+| Rest HR | Average HR | Score | Tech | Eff | Disc |
+|---------+------------+-------+------+-----+------|
+|      74 |        164 |     4 |    7 |   8 |    4 |
+
+***** 2012-11-13 Tueday
+****** Flow Physique : AMRAP (High)
+       :PROPERTIES:
+       :ID:       d5bc4223-5d38-4b93-b68d-deffb5dfcd2a
+       :END:
+#+TBLNAME: 20121113SUMMARY
+| Rest HR | Average HR | Score | Tech | Eff | Disc |
+|---------+------------+-------+------+-----+------|
+|      60 |        156 |     6 |    8 |   9 |    4 |
+
+***** 2012-11-17 Saturday
+****** Flow Physique : [90/30x5]2 (Mod)
+       :PROPERTIES:
+       :ID:       385d0c1c-7589-439f-bb71-251358ed15a6
+       :END:
+#+TBLNAME: 20121117RAW
+| Exercise                  | Reps 1 | Reps 2 | Min | HR1 | HR2 | T1 | T2 | E1 | E2 | D1 | D2 |
+|---------------------------+--------+--------+-----+-----+-----+----+----+----+----+----+----|
+| Forearm Cross Knee Thread |     20 |     12 |  12 | 108 | 148 |  8 |  7 |  6 |  6 |  2 |  4 |
+| Rocca Bent                |     12 |     12 |  12 | 128 | 148 |  9 |  8 |  6 |  7 |  3 |  4 |
+| Jump Up                   |     16 |      8 |   8 | 108 | 152 |  9 |  9 |  6 |  6 |  3 |  3 |
+| Quad Press                |     31 |     23 |  23 | 152 | 152 |  9 |  9 |  7 |  7 |  3 |  3 |
+| Alternating Dolphin       |     13 |     12 |  12 | 152 | 144 |  7 |  8 |  8 |  7 |  4 |  4 |
+       #+TBLFM: $4=vmin($2..$3)
+
+#+TBLNAME: 20121117SUMMARY
+| Rest HR | Average HR | Score | Tech | Eff | Disc |
+|---------+------------+-------+------+-----+------|
+|      77 |      139.2 |    67 |  8.3 | 6.6 |  3.3 |
+       #+TBLFM: @2$2=vmean(remote(20121117RAW,@2$5..@6$6)::@2$3=vsum(remote(20121117RAW,@2$4..@6$4))::@2$4=vmean(remote(20121117RAW,@2$7..@6$8))::@2$5=vmean(remote(20121117RAW,@2$9..@6$10))::@2$6=vmean(remote(20121117RAW,@2$11..@6$12))
+ 
+***** 2012-11-19 Monday
+****** Intuflow
+       :PROPERTIES:
+       :ID:       6802377a-4a60-4058-9dfa-8804ed1f03fc
+       :END:
+[2012-11-20 Thu 15:30]
+
+#+TBLNAME: 20121119SUMMARY
+| Rest HR | Final HR | Score | Tech | Eff | Disc |
+|---------+----------+-------+------+-----+------|
+|      53 |       71 |       |    9 |   3 |    2 |
+  
+***** 2012-11-20 Tuesday
+****** Thrive Flow
+       :PROPERTIES:
+       :ID:       1525e014-2499-45b3-b98b-e8913c6a126b
+       :END:
+[2012-11-20 Thu 15:30]
+
+#+TBLNAME: 20121120SUMMARY
+| Rest HR | Final HR | Score | Tech | Eff | Disc |
+|---------+----------+-------+------+-----+------|
+|         |          |       |    8 |   4 |    3 |
+
+***** 2012-11-21 Wednesday
+****** Flow Physique : AFAP (Mod)
+       :PROPERTIES:
+       :ID:       b1ad2732-367d-4e5b-8346-735c941ac257
+       :END:
+#+TBLNAME: 20121121SUMMARY
+| Rest HR | Final HR | Time          | Tech | Eff | Disc |
+|---------+----------+---------------+------+-----+------|
+|      60 |      100 | 671s          |    8 |   6 |    2 |
+
+***** 2012-11-22 Thursday
+****** Flow Physique : AFAP (High)
+       :PROPERTIES: 
+       :ID:       b3f5de7c-d839-4262-9126-1cc0c28fccce
+       :END:
+#+TBLNAME: 20121122SUMMARY
+| Rest HR | Final HR | Time | Tech | Eff | Disc |
+|---------+----------+------+------+-----+------|
+|      63 |      164 | 530s |    9 |   9 |    4 |
+
+***** 2012-11-23 Friday
+****** Thrive Flow
+       :PROPERTIES:
+       :ID:       d8d9af28-66ef-4f66-a2cf-45c67cdad885
+       :END:
+
+#+TBLNAME: 20121123SUMMARY
+| Rest HR | Final HR | Score | Tech | Eff | Disc |
+|---------+----------+-------+------+-----+------|
+|         |          |       |    7 |   6 |    5 |
+
+***** 2012-11-24 Saturday
+****** Thrive Flow
+       :PROPERTIES:
+       :ID:       c42b03e0-de8d-4ded-a155-f388b3b2f4b6
+       :END:
+[2012-11-24 Thu 15:30]
+
+#+TBLNAME: 20121124SUMMARY
+| Rest HR | Final HR | Score | Tech | Eff | Disc |
+|---------+----------+-------+------+-----+------|
+|         |          |       |    8 |   5 |    5 |
+
+***** 2012-11-25 Sunday
+****** Thrive Flow
+       :PROPERTIES:
+       :ID:       782e4385-7f9b-433b-8351-e0e9181b464d
+       :END:
+[2012-11-25 Sun 16:05]
+
+#+TBLNAME: 20121125SUMMARY
+| Rest HR | Final HR | Score | Tech | Eff | Disc |
+|---------+----------+-------+------+-----+------|
+|         |          |       |    7 |   5 |    4 |
+
+***** 2012-11-27 Tuesday
+****** Intu Flow
+       :PROPERTIES:
+       :ID:       7c22c697-598a-4901-80b7-50f2828a4041
+       :END:
+[2012-11-27 Tue 09:00]
+
+#+TBLNAME: 20121127SUMMARY
+| Rest HR | Final HR | Score | Tech | Eff | Disc |
+|---------+----------+-------+------+-----+------|
+|      55 |       75 |       |    8 |   2 |    3 |
+
+***** 2012-11-29 Thursday
+****** Ageless Mobility
+      :PROPERTIES:
+      :ID:       8e009804-a13e-4e11-8334-2dc49bec5b9a
+      :END:
+[2012-11-29 Thu 15:55]
+
+#+TBLNAME: 20121129SUMMARY
+| Rest HR | Final HR | Score | Tech | Eff | Disc |
+|---------+----------+-------+------+-----+------|
+|         |       72 |       |    8 |   6 |    4 |
+
+**** 2012-12 December
+***** 2012-12-01 Saturday
+****** Flow Physique : [20/10x8+60]6 Mod
+       :PROPERTIES:
+       :ID:       83784b91-67e5-42b7-b2f3-aa50127effed
+       :END:
+#+TBLNAME: 20121201RAW
+| Exercise          | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | Min |  HR | T | E | D |
+|-------------------+---+---+---+---+---+---+---+---+-----+-----+---+---+---|
+| Hack Squat        | 8 | 8 | 8 | 8 | 8 | 8 |   |   |   8 |  84 | 9 | 4 | 1 |
+| Plank Pull Knee   | 4 | 5 | 5 | 4 | 4 | 4 |   |   |   4 |  92 | 7 | 5 | 4 |
+| Sit Thru Knee     | 8 | 8 | 8 | 8 | 8 | 8 |   |   |   8 | 112 | 9 | 6 | 3 |
+| Knee Press        | 4 | 4 | 4 | 4 | 2 | 4 |   |   |   2 | 112 | 7 | 7 | 4 |
+| Basic Spinal Rock | 4 | 5 | 5 | 5 | 5 | 4 |   |   |   4 | 112 | 8 | 6 | 3 |
+| Table Lift        | 3 | 3 | 4 | 3 | 3 | 3 |   |   |   3 | 108 | 8 | 6 | 4 |
+       #+TBLFM: $10=vmin($2..$9)
+
+#+TBLNAME: 20121201SUMMARY
+| Rest HR | Average HR | Score | Tech |       Eff |      Disc |
+|---------+------------+-------+------+-----------+-----------|
+|      72 |  103.33333 |    29 |    8 | 5.6666667 | 3.1666667 |
+       #+TBLFM: @2$2=vmean(remote(20121201RAW,@2$11..@7$11)::@2$3=vsum(remote(20121201RAW,@2$10..@7$10))::@2$4=vmean(remote(20121201RAW,@2$12..@7$12))::@2$5=vmean(remote(20121201RAW,@2$13..@7$13))::@2$6=vmean(remote(20121201RAW,@2$14..@7$14))
+
+***** 2012-12-02 Sunday
+****** Flow Physique : [20/10x8+60]6 High
+       :PROPERTIES:
+       :ID:       d13685b1-7378-4113-94e6-7194cae7e54b
+       :END:
+#+TBLNAME: 20121202RAW
+| Exercise          | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | Min |  HR | T | E | D |
+|-------------------+---+---+---+---+---+---+---+---+-----+-----+---+---+---|
+| Hack Squat        | 7 | 8 | 8 | 8 | 8 | 8 |   |   |   7 |  92 | 9 | 4 | 2 |
+| Plank Pull Knee   | 4 | 5 | 5 | 4 | 5 | 4 |   |   |   4 | 104 | 8 | 5 | 3 |
+| Sit Thru Knee     | 5 | 7 | 7 | 8 | 7 | 8 |   |   |   5 |  88 | 9 | 6 | 3 |
+| Knee Press        | 5 | 4 | 5 | 5 | 4 | 4 |   |   |   4 | 104 | 7 | 6 | 5 |
+| Basic Spinal Rock | 4 | 4 | 5 | 5 | 5 | 4 |   |   |   4 | 100 | 8 | 6 | 3 |
+| Table Lift        | 2 | 2 | 1 | 1 | 1 | 1 |   |   |   1 |  76 | 7 | 3 | 5 |
+       #+TBLFM: $10=vmin($2..$9)
+
+#+TBLNAME: 20121202SUMMARY
+| Rest HR | Final HR | Score | Tech | Eff | Disc |
+|---------+----------+-------+------+-----+------|
+|      64 |       94 |    25 |    8 |   5 |  3.5 |
+       #+TBLFM: @2$2=vmean(remote(20121202RAW,@2$11..@7$11)::@2$3=vsum(remote(20121202RAW,@2$10..@7$10))::@2$4=vmean(remote(20121202RAW,@2$12..@7$12))::@2$5=vmean(remote(20121202RAW,@2$13..@7$13))::@2$6=vmean(remote(20121202RAW,@2$14..@7$14))
+       
+***** 2012-12-03 Monday
+****** Intuflow
+       :PROPERTIES:
+       :ID:       e56695eb-9c5e-4cb9-84fe-182f8a369080
+       :END:
+
+
+#+TBLNAME: 20121203SUMMARY
+| Rest HR | Final HR | Score | Tech | Eff | Disc |
+|---------+----------+-------+------+-----+------|
+|         |          |       |      |     |      |
+
+***** 2012-12-04 Tuesday
+****** Thrive Flow
+       :PROPERTIES:
+       :ID:       6b272c39-7be7-44e5-b937-ab003a9d84ad
+       :END:
+
+#+TBLNAME: 20121204SUMMARY
+| Rest HR | Final HR | Score | Tech | Eff | Disc |
+|---------+----------+-------+------+-----+------|
+|         |          |       |      |     |      |
+
+***** 2012-12-05 Wednesday
+****** Flow Physique : 4/1x4 (Mod)
+       :PROPERTIES:
+       :ID:       276965bb-310c-424f-880b-6ca00ea3d5e6
+       :END:
+#+TBLNAME: 20121205RAW
+| Exercise                  | Reps |  HR | T | E | D |
+|---------------------------+------+-----+---+---+---|
+| Walking Lunge             |   61 | 168 | 9 | 5 | 8 |
+| Shoulder Bridge Knee Tuck |   33 | 132 | 9 | 6 | 2 |
+| Crow Hop                  |   23 | 160 | 8 | 7 | 3 |
+| Forearm Crocodile         |   26 | 152 | 9 | 7 | 2 |
+  
+#+TBLNAME: 20121205SUMMARY
+| Rest HR | Average HR | Score | Tech |  Eff | Disc |
+|---------+------------+-------+------+------+------|
+|      70 |        153 |   143 | 8.75 | 6.25 | 3.75 |
+       #+TBLFM: @2$2=vmean(remote(20121205RAW,@2$3..@5$3)::@2$3=vsum(remote(20121205RAW,@2$2..@5$2))::@2$4=vmean(remote(20121205RAW,@2$4..@5$4))::@2$5=vmean(remote(20121205RAW,@2$5..@5$5))::@2$6=vmean(remote(20121205RAW,@2$6..@5$6))
+
+***** 2012-12-07 Friday
+****** Intuflow
+       :PROPERTIES:
+       :ID:       ceaf8401-7ece-4f58-91f9-6d87375116eb
+       :END:
+[2012-12-07 Fri 07:00]
+
+#+TBLNAME: 20121207SUMMARY
+| Rest HR | Final HR | Score | Tech | Eff | Disc |
+|---------+----------+-------+------+-----+------|
+|      55 |       62 |       |    8 |   4 | 2    |
+
+***** 2012-12-08 Saturday
+****** Ageless Mobility
+       :PROPERTIES:
+       :ID:       fa7aa95b-037d-4a02-9335-40e074382816
+       :END:
+[2012-12-08 Sat 21:00]
+
+#+TBLNAME: 20121208SUMMARY
+| Rest HR | Final HR | Score | Tech | Eff | Disc |
+|---------+----------+-------+------+-----+------|
+|         |       85 |       |    9 |   4 | 2    |
+
+***** 2012-12-09 Sunday
+****** Flow Physique : EMOTM (Mod)
+       :PROPERTIES:
+       :ID:       17e701d6-8f96-485b-bc9e-7793f04aa6e6
+       :END:
+
+
+#+TBLNAME: 20121209SUMMARY
+| Rest HR | Final HR | Score | Tech | Eff | Disc |
+|---------+----------+-------+------+-----+------|
+|      59 |      132 |    15 |    8 |   6 |    4 |
+
+***** 2012-12-10 Monday
+****** Flow Physique : EMOTM (High)
+       :PROPERTIES:
+       :ID:       9ec4a91f-efda-4117-9530-dbf9005dba76
+       :END:
+
+
+#+TBLNAME: 20121210SUMMARY
+| Rest HR | Final HR | Score | Tech | Eff | Disc |
+|---------+----------+-------+------+-----+------|
+|      68 |      144 |    15 |    9 |   9 |    3 |
+
+***** 2012-12-11 Tuesday
+****** Intuflow
+       :PROPERTIES:
+       :ID:       d3fd2f46-e543-46ff-ad30-c647e2b48c18
+       :END:
+
+
+#+TBLNAME: 20121211SUMMARY
+| Rest HR | Final HR | Score | Tech | Eff | Disc |
+|---------+----------+-------+------+-----+------|
+| 74      | 91       |       | 8    | 5   | 3    |
+
+***** 2012-12-12 Wednesday
+****** Thrive Flow
+       :PROPERTIES:
+       :ID:       8ff21562-3fce-4ec2-b3c6-c117276a0bb4
+       :END:
+
+#+TBLNAME: 20121212SUMMARY
+| Rest HR | Final HR | Score | Tech | Eff | Disc |
+|---------+----------+-------+------+-----+------|
+| 77      | 72       |       | 8    | 6   | 4    |
+
+***** 2012-12-14 Friday
+****** X-tension/be breathed (mod)
+       :PROPERTIES:
+       :ID:       26f0b5e5-cdfc-4160-bd99-519eb0a7db44
+       :END:
+
+#+TBLNAME: 20121214SUMMARY
+| Rest HR | Final HR | Score | Tech | Eff | Disc |
+|---------+----------+-------+------+-----+------|
+|      59 |      132 |       |    9 |   6 |    3 |
+
+***** 2012-12-15 Saturday
+****** X-tension/be breathed (high)
+       :PROPERTIES:
+       :ID:       f8b30f5d-9f2f-4e74-8840-4247fab2829b
+       :END:
+
+#+TBLNAME: 20121215SUMMARY
+| Rest HR | Final HR | Score | Tech | Eff | Disc |
+|---------+----------+-------+------+-----+------|
+|      56 |      140 |       |    9 |   8 |    4 |
+
+***** 2012-12-16 Sunday
+****** Intuflow
+       :PROPERTIES:
+       :ID:       9e7aa368-4437-4ef6-b9f0-a148b901b294
+       :END:
+
+#+TBLNAME: 20121216SUMMARY
+| Rest HR | Final HR | Score | Tech | Eff | Disc |
+|---------+----------+-------+------+-----+------|
+|      62 |      104 |       |    9 |   4 |    2 |
+
+***** 2012-12-17 Monday
+****** Ageless Mobility
+       :PROPERTIES:
+       :ID:       a3295aa6-0ddc-48de-80dc-121d0cde3314
+       :END:
+
+#+TBLNAME: 20121217SUMMARY
+| Rest HR | Final HR | Score | Tech | Eff | Disc |
+|---------+----------+-------+------+-----+------|
+|      64 | 68       |       | 9    | 3   | 2    |
+
+***** 2012-12-18 Tuesday
+****** Flow Physique : AMRAP (Mod)
+       :PROPERTIES:
+       :ID:       ebdaad31-0fac-4260-94a9-987c56604bf1
+       :END:
+
+#+TBLNAME: 20121218SUMMARY
+| Rest HR | Final HR | Score | Tech | Eff | Disc |
+|---------+----------+-------+------+-----+------|
+|      62 |      132 | 6     |    9 |   8 |    3 |
+
+***** 2012-12-19 Wednesday
+****** Flow Physique : AMRAP (High)
+       :PROPERTIES:
+       :ID:       2d949ecb-3d55-4d27-a468-6b466f37202b
+       :END:
+
+       #+TBLNAME: 20121219SUMMARY
+| Rest HR | Final HR | Score | Tech | Eff | Disc |
+|---------+----------+-------+------+-----+------|
+|      57 |      160 |     8 |    8 |   9 |    3 |
+
+***** 2012-12-20 Thursday
+****** Intuflow
+       :PROPERTIES:
+       :ID:       bfe7262e-8543-414a-8a26-991c946f87b7
+       :END:
+
+#+TBLNAME: 20121220SUMMARY
+| Rest HR | Final HR | Score | Tech | Eff | Disc |
+|---------+----------+-------+------+-----+------|
+|      52 |       76 |       |    9 |   3 |    1 |
+
+***** 2012-12-21 Friday
+****** Thrive Flow
+       :PROPERTIES:
+       :ID:       a2eb234d-6e20-4a68-8cb2-1707df1f3dc8
+       :END:
+
+#+TBLNAME: 20121221SUMMARY
+| Rest HR | Final HR | Score | Tech | Eff | Disc |
+|---------+----------+-------+------+-----+------|
+|      60 | 76       |       | 8    | 4   | 3    |
+***** 2012-12-23 Sunday
+****** Intuflow
+       :PROPERTIES:
+       :ID:       b1eb9ec5-6413-4b0a-825c-15b839079cf4
+       :END:
+
+#+TBLNAME: 20121223SUMMARY
+| Rest HR | Final HR | Score | Tech | Eff | Disc |
+|---------+----------+-------+------+-----+------|
+|      71 |       63 |       |    8 |   3 | 3    |
+
+***** 2012-11-24 Monday
+****** Flow Physique : [90/30x5]2 (Mod)
+       :PROPERTIES:
+       :ID:       545fa614-3ac7-4a72-ae22-7f0731ca4e88
+       :END:
+#+TBLNAME: 20121224RAW
+| Exercise                  | Reps 1 | Reps 2 | Min | HR1 | HR2 | T1 | T2 | E1 | E2 | D1 | D2 |
+|---------------------------+--------+--------+-----+-----+-----+----+----+----+----+----+----|
+| Forearm Cross Knee Thread |     18 |     10 |  10 | 112 | 104 |  8 |  8 |  6 |  6 |  4 |  4 |
+| Rocca Bent                |     10 |      6 |   6 | 116 | 110 |  9 |  8 |  6 |  7 |  4 |  5 |
+| Jump Up                   |      6 |      5 |   5 | 106 | 100 |  9 |  9 |  6 |  7 |  3 |  3 |
+| Quad Press                |     46 |     35 |  35 | 108 | 120 |  9 |  9 |  8 |  8 |  2 |  2 |
+| Alternating Dolphin       |     12 |      8 |   8 | 104 | 104 |  7 |  7 |  7 |  8 |  5 |  4 |
+       #+TBLFM: $4=vmin($2..$3)
+
+#+TBLNAME: 20121224SUMMARY
+| Rest HR | Average HR | Score | Tech | Eff | Disc |
+|---------+------------+-------+------+-----+------|
+|      59 |      108.4 |    64 |  8.3 | 6.9 |  3.6 |
+       #+TBLFM: @2$2=vmean(remote(20121224RAW,@2$5..@6$6)::@2$3=vsum(remote(20121224RAW,@2$4..@6$4))::@2$4=vmean(remote(20121224RAW,@2$7..@6$8))::@2$5=vmean(remote(20121224RAW,@2$9..@6$10))::@2$6=vmean(remote(20121224RAW,@2$11..@6$12))
+ 
+***** 2012-11-25 Tuesday
+****** Flow Physique : [90/30x5]2 (High)
+       :PROPERTIES:
+       :ID:       8108ac0c-54ee-4ece-a64e-757a067ef24a
+       :END:
+#+TBLNAME: 20121225RAW
+| Exercise                  | Reps 1 | Reps 2 | Min | HR1 | HR2 | T1 | T2 | E1 | E2 | D1 | D2 |
+|---------------------------+--------+--------+-----+-----+-----+----+----+----+----+----+----|
+| Forearm Cross Knee Thread |     21 |     20 |  20 | 100 | 128 |  9 |  9 |  7 |  8 |  2 |  4 |
+| Rocca Bent                |     10 |     16 |  10 | 100 | 124 |  9 |  9 |  8 |  8 |  3 |  4 |
+| Jump Up                   |      7 |      8 |   7 | 104 | 120 |  9 |  9 |  8 |  9 |  4 |  3 |
+| Quad Press                |     58 |     51 |  51 | 112 | 136 |  9 |  9 |  8 |  9 |  3 |  4 |
+| Alternating Dolphin       |     13 |     22 |  13 | 116 | 132 |  8 |  8 |  8 |  9 |  4 |  4 |
+       #+TBLFM: $4=vmin($2..$3)
+
+#+TBLNAME: 20121225SUMMARY
+| Rest HR | Average HR | Score | Tech | Eff | Disc |
+|---------+------------+-------+------+-----+------|
+|      62 |      117.2 |   101 |  8.8 | 8.2 |  3.5 |
+       #+TBLFM: @2$2=vmean(remote(20121225RAW,@2$5..@6$6)::@2$3=vsum(remote(20121225RAW,@2$4..@6$4))::@2$4=vmean(remote(20121225RAW,@2$7..@6$8))::@2$5=vmean(remote(20121225RAW,@2$9..@6$10))::@2$6=vmean(remote(20121225RAW,@2$11..@6$12))
+ 
+***** 2012-12-26 Wednesday
+****** Intuflow
+       :PROPERTIES:
+       :ID:       1c55256b-45a6-4d96-a233-d0fd80b78e3e
+       :END:
+
+#+TBLNAME: 20121226SUMMARY
+| Rest HR | Final HR | Score | Tech | Eff | Disc |
+|---------+----------+-------+------+-----+------|
+|      75 |       96 |       |      |     |      |
+
+***** 2012-12-27 Thursday
+****** Thrive Flow
+       :PROPERTIES:
+       :ID:       2960d902-2d26-4531-8d39-af3139294de1
+       :END:
+
+#+TBLNAME: 20121227SUMMARY
+| Rest HR | Final HR | Score | Tech | Eff | Disc |
+|---------+----------+-------+------+-----+------|
+|         |       69 |       |    8 |   4 | 3    |
+
+***** 2012-12-28 Friday
+****** Flow Physique : AFAP (Mod)
+       :PROPERTIES:
+       :ID:       a342f945-bed9-4e29-81c9-539b9f3d6b98
+       :END:
+#+TBLNAME: 20121228SUMMARY
+| Rest HR | Final HR | Time | Tech | Eff | Disc |
+|---------+----------+------+------+-----+------|
+|      68 |       78 | 900s |    7 |   7 | 5    |
+
+***** 2012-12-29 Saturday
+****** Flow Physique : AFAP (High)
+       :PROPERTIES: 
+       :ID:       22fba9d5-75be-4544-be18-30476cb43996
+       :END:
+#+TBLNAME: 20121229SUMMARY
+| Rest HR | Final HR | Time | Tech | Eff | Disc |
+|---------+----------+------+------+-----+------|
+|      56 |       92 | 540s |    9 |   6 |    4 |
+
+***** 2012-12-30 Sunday
+****** Thrive Flow
+       :PROPERTIES: 
+       :ID:       2fbccaf9-dd81-49bf-ac26-ce988ca1c673
+       :END:
+#+TBLNAME: 20121230SUMMARY
+| Rest HR | Final HR | Score | Tech | Eff | Disc |
+|---------+----------+-------+------+-----+------|
+|      56 |       92 |       |    9 |   6 |    4 |
+
+***** 2012-12-31 Monday
+****** Thrive Flow
+       :PROPERTIES: 
+       :ID:       047e13cc-df8d-4624-a98a-88f9a14f3986
+       :END:
+#+TBLNAME: 20121231SUMMARY
+| Rest HR | Final HR | Score | Tech | Eff | Disc |
+|---------+----------+-------+------+-----+------|
+|      72 |       84 |       |    8 |   5 | 3    |
+
+* Diet 								       :DIET:
+  :PROPERTIES:
+  :ID:       388ded9e-79b9-4d94-bba7-0b5bcc314c75
+  :END:
+* Sleep								      :SLEEP:
+:LOGBOOK:
+CLOCK: [2013-01-14 Mon 06:35]--[2013-01-14 Mon 06:35] =>  0:00
+:END:
+  :PROPERTIES:
+  :ID:       4e099e68-e71a-49c9-9aeb-57630a120837
+  :END:
+* Vitals							     :VITALS:
+  :PROPERTIES:
+  :ID:       a4059ce5-fba1-47ec-a0c4-6cd08d2497fd
+  :END:
+** Heart Rate
+| Time               | HR |
+|--------------------+----|
+| [2012-11-12 07:43] | 50 |
+| [2012-11-12 20:59] | 58 |
+| [2012-11-13 06:54] | 58 |
+| [2012-11-13 21:00] | 60 |
+| [2012-11-14 08:46] | 55 |
+| [2012-11-14 20:25] | 76 |
+| [2012-11-15 06:34] | 52 |
+| [2012-11-15 21:42] | 57 |
+| [2012-11-17 22:17] | 68 |
+| [2012-11-18 08:14] | 50 |
+| [2012-11-18 22:55] | 55 |
+| [2012-11-19 08:32] | 56 |
+| [2012-11-22 08:38] | 67 |
+|                    |    |
+   
+** Blood pressure
+** Weight
+| Time                   |   HR |
+|------------------------+------|
+| [2012-11-13 Tue 07:13] | 78.9 |
+| [2012-11-13 Tue 21:00] | 78.5 |
+| [2012-11-14 Wed 08:46] | 77.3 |
+| [2012-11-14 Wed 20:13] | 78.7 |
+| [2012-11-15 Thu 21:15] | 78.8 |
+| [2012-11-16 Fri 06:52] | 77.8 |
+| [2012-11-17 Sat 07:41] | 77.1 |
+| [2012-11-17 Sat 21:52] | 78.8 |
+| [2012-11-18 Sun 22:55] | 78.7 |
+| [2012-11-19 Mon 08:32] | 78.7 |
+| [2012-11-19 Mon 21:44] | 78.8 |
+| [2012-11-20 Tue 20:04] | 79.6 |
+| [2012-11-21 Wed 08:10] | 77.9 |
+| [2012-11-21 Wed 21:05] | 79.2 |
+| [2012-11-22 Thu 08:38] | 78.0 |
+| [2012-11-23 Fri 09:35] | 78.0 |
+| [2012-11-24 Sat 09:00] | 78.1 |
+| [2012-11-24 Sat 21:10] | 78.7 |
+| [2012-11-25 Sun 08:50] | 77.9 |
+| [2012-11-26 Mon 07:50] | 78.0 |
+| [2012-11-26 Mon 21:55] | 78.6 |
+| [2012-11-27 Tue 21:55] | 78.9 |
+| [2012-11-28 Wed 07:25] | 77.3 |
+| [2012-11-29 Thu 08:10] | 77.6 |
+| [2012-11-30 Fri 07:55] | 77.9 |
+| [2012-11-30 Fri 11:26] | 79.3 |
+| [2012-12-01 Sat 08:42] | 77.8 |
+| [2012-12-02 Sun 08:45] | 77.8 |
+| [2012-12-03 Mon 08:25] | 77.8 |
+| [2012-12-03 Mon 21:20] | 78.5 |
+| [2012-12-06 Thu 07:50] | 77.2 |
+| [2012-12-07 Fri 06:35] | 78.0 |
+| [2012-12-08 Sat 11:00] | 78.1 |
+| [2012-12-09 Sun 10:00] | 78.4 |
+| [2012-12-10 Mon 21:50] | 79.9 |
+| [2012-12-12 Wed 08:50] | 79.4 |
+| [2012-12-13 Thu 21:50] | 78.6 |
+| [2012-12-14 Fri 07:15] | 78.0 |
+| [2012-12-15 Sat 07:49] | 77.8 |
+| [2012-12-15 Sat 11:10] | 79.2 |
+| [2012-12-16 Sun 09:57] | 77.4 |
+| [2012-12-16 Sun 23:22] | 79.7 |
+| [2012-12-17 Mon 09:36] | 78.5 |
+| [2012-12-17 Mon 21:18] | 79.2 |
+| [2012-12-18 Tue 08:18] | 79.3 |
+| [2012-12-19 Wed 06:49] | 78.0 |
+| [2012-12-20 Thu 09:35] | 80.0 |
+| [2012-12-22 Sat 08:37] | 78.0 |
+| [2012-12-23 Sun 08:45] | 77.2 |
+| [2012-12-23 Sun 21:50] | 79.1 |
+| [2012-12-24 Mon 08:30] | 76.9 |
+| [2012-12-25 Tue 22:50] | 79.0 |
+| [2012-12-25 Tue 22:50] | 79.0 |
+| [2012-12-26 Wed 07:40] | 78.2 |
+| [2012-12-26 Wed 20:55] | 78.7 |
+| [2012-12-27 Thu 09:40] | 77.8 |
+| [2012-12-27 Thu 20:58] | 79.8 |
+| [2012-12-28 Fri 21:45] | 79.4 |
+| [2012-12-29 Sat 09:15] | 78.3 |
+| [2012-12-29 Sat 22:05] | 79.0 |
+| [2012-12-30 Sun 09:20] | 77.5 |
+| [2012-12-30 Sun 22:25] | 78.9 |
+| [2012-12-31 Mon 08:55] | 77.3 |
+| [2012-12-31 Mon 22:05] | 79.0 |
+| [2013-01-08 Tue 08:05] | 77.0 |
+| [2013-01-10 Thu 08:30] | 77.4 |
+| [2013-01-13 Sun 08:00] | 77.8 |
+| [2013-01-13 Sun 08:00] | 77.8 |
+| [2013-01-13 Sun 08:00] | 77.8 |
+| [2013-01-13 Sun 08:00] | 77.8 |
+| [2013-01-13 Sun 08:00] | 77.8 |
+| [2013-01-13 Sun 08:00] | 77.8 |
+| [2013-01-19 Sat 07:35] | 77.3 |
+| [2013-01-20 Sun 22:49] | 77.2 |
+| [2013-01-21 Mon 08:26] | 76.9 |
+| [2013-01-22 Tue 07:15] | 76.6 |
+| [2013-01-21 Mon 21:33] | 76.9 |
+|                        |      |
+
+
+* Tasks
+  :PROPERTIES:
+  :ID:       c6a6a161-03a4-4602-abfc-cb35692ec16b
+  :END:
+** Entering data
+   :LOGBOOK:
+   CLOCK: [2012-12-20 Thu 10:22]--[2012-12-20 Thu 10:28] =>  0:06
+   :END:
+** TODO Transcribe from Bei Da notebook: ex
+  :LOGBOOK:
+  :END:
+  :PROPERTIES:
+  :ID:       ab6c5851-12f9-4c19-8099-31b686708b0c
+  :END:
+[2012-11-20 Tue 11:04]
+** TODO Transcribe from Bei Da notebook: q.self data
+  :LOGBOOK:
+  :END:
+  :PROPERTIES:
+  :ID:       7f48f9a1-a694-4b14-9259-812548de5119
+  :END:
+[2012-11-20 Tue 11:04]
+
