@@ -947,6 +947,7 @@ Does mutt integrate well?
   :END:
 ** Organisation
   :LOGBOOK:
+  CLOCK: [2013-01-28 Mon 07:56]--[2013-01-28 Mon 07:58] =>  0:02
   CLOCK: [2013-01-28 Mon 07:15]--[2013-01-28 Mon 07:24] =>  0:09
   CLOCK: [2013-01-27 Sun 13:21]--[2013-01-27 Sun 13:22] =>  0:01
   CLOCK: [2013-01-27 Sun 10:53]--[2013-01-27 Sun 10:54] =>  0:01
@@ -1169,6 +1170,7 @@ For the following, do I just use the existing diary.org capture template or perh
    - State "DONE"       from "NEXT"       [2013-01-10 Thu 09:22]
    - State "DONE"       from "NEXT"       [2013-01-09 Wed 07:19]
    :LOGBOOK:
+   CLOCK: [2013-01-28 Mon 07:58]
    CLOCK: [2013-01-25 Fri 10:18]--[2013-01-25 Fri 10:20] =>  0:02
    CLOCK: [2013-01-24 Thu 07:24]--[2013-01-24 Thu 07:34] =>  0:10
    CLOCK: [2013-01-20 Sun 08:45]--[2013-01-20 Sun 08:57] =>  0:12
