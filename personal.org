@@ -942,8 +942,9 @@ contact: [[mailto:rosecanyon@san.rr.com][rosecanyon@san.rr.com]], 858-597-0220
   :END: 
 01336030976036
 
-*** UCSD Books due
+*** DONE Return UCSD Books
     DEADLINE: <2013-01-24 Thu>
+    - State "DONE"       from "TODO"           [2013-01-28 Mon 07:21]
     :PROPERTIES:
     :ID:       f960a023-cfb7-4525-a413-a74e31168cec
     :END:
@@ -956,7 +957,7 @@ contact: [[mailto:rosecanyon@san.rr.com][rosecanyon@san.rr.com]], 858-597-0220
     :END:
 
 *** TODO Pick up library book: On food and cooking 
-    DEADLINE: <2013-01-31 Thu> SCHEDULED: <2013-01-18 Fri>
+    DEADLINE: <2013-01-31 Thu> SCHEDULED: <2013-01-29 Tue>
     :PROPERTIES:
     :ID:       be16e7c1-ed4d-4d41-84ba-3c298ddb683c
     :END:
@@ -994,7 +995,7 @@ Catch the 41. Get off at Derrik Dr. after Claremont Mesa and before Balboa.
    :ID:       659b82d1-fff2-498c-afeb-3101030d6946
    :LAST_REPEAT: [2012-11-19 Mon 12:28]
    :END:
-   SCHEDULED: <2012-11-21 Wed +1w>
+   SCHEDULED: <2013-01-30 Wed +1w>
 
 * Podcasts
   :PROPERTIES:

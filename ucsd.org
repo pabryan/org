@@ -562,8 +562,9 @@ Update this based on Bo's comments.
      :PROPERTIES:
      :ID:       217efa3a-983c-4603-a2dc-330557b7176f
      :END:
-***** NEXT Write practice exam
+***** DONE Write practice exam
       SCHEDULED: <2013-01-24 Thu>     
+      - State "DONE"       from "NEXT"       [2013-01-28 Mon 07:22]
       DEADLINE: <2013-01-25 Fri>
       :LOGBOOK:
       CLOCK: [2013-01-25 Fri 10:20]--[2013-01-25 Fri 10:25] =>  0:05
@@ -571,8 +572,10 @@ Update this based on Bo's comments.
       :PROPERTIES:
       :ID:       453f2751-42f6-4db5-8a36-994b180f1000
       :END:
-***** NEXT Write Midterm 1
+***** WAITING Write Midterm 1
       SCHEDULED: <2013-01-14 Mon>     
+      - State "WAITING"    from "NEXT"       [2013-01-28 Mon 07:22] \\
+	Talking to Bob Chen about questions.
       DEADLINE: <2013-01-25 Fri>
       :LOGBOOK:
       CLOCK: [2013-01-24 Thu 11:32]--[2013-01-24 Thu 12:03] =>  0:31
@@ -1000,6 +1003,15 @@ Update this based on Bo's comments.
    CLOCK: [2013-01-07 Mon 14:34]--[2013-01-07 Mon 15:00] =>  0:26
    CLOCK: [2013-01-07 Mon 14:10]--[2013-01-07 Mon 14:20] =>  0:10
    :END:
+
+*** TODO Update website and office hours
+  :LOGBOOK:
+  CLOCK: [2013-01-28 Mon 07:28]--[2013-01-28 Mon 07:29] =>  0:01
+  :END:
+    :PROPERTIES:
+    :ID:       6f6722a7-8bcf-4fab-9f0f-e3ff15b16aa8
+    :END:
+[2013-01-28 Mon 07:28]
 
 ** CANCELLED Write reference for Chan Kim
    - State "CANCELLED"  from "TODO"       [2013-01-02 Wed 09:37] \\
