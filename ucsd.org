@@ -846,8 +846,9 @@ Update this based on Bo's comments.
        :PROPERTIES:
        :ID:       53280d46-7374-4db8-b5fb-c5f4fe56b278
        :END:
-***** TODO Week 4 Lectures
+***** DONE Week 4 Lectures
       DEADLINE: <2013-01-27 Sun> SCHEDULED: <2013-01-21 Mon>
+      - State "DONE"       from "TODO"       [2013-01-28 Mon 07:19]
       :PROPERTIES:
       :ID:       d05d375a-639f-49fe-bc9f-a0df4ed6b1ad
       :END:
@@ -855,17 +856,21 @@ Update this based on Bo's comments.
        - State "DONE"       from "NEXT"       [2013-01-27 Sun 13:21]
        :LOGBOOK:
        CLOCK: [2013-01-27 Sun 11:54]--[2013-01-27 Sun 12:14] =>  0:20
-       CLOCK: [2013-01-27 Sun 11:17]--[2013-01-27 Sun 11:36] =>  0:19
        CLOCK: [2013-01-27 Sun 10:54]--[2013-01-27 Sun 11:10] =>  0:16
        :END:
        :PROPERTIES:
        :ID:       5b00bb2d-ada5-43f5-a4b4-382750912814
        :END:
-****** NEXT Prepare lecture 4-2
+****** DONE Prepare lecture 4-2
+       - State "DONE"       from "NEXT"       [2013-01-28 Mon 07:19]
        :PROPERTIES:
        :ID:       cb6d3c78-4d1e-4218-aad5-58dcd9b5ec8f
        :END:
-****** NEXT Prepare lecture 4-3
+       :LOGBOOK:
+       CLOCK: [2013-01-27 Sun 11:17]--[2013-01-27 Sun 11:36] =>  0:19
+       :END:
+****** DONE Prepare lecture 4-3
+       - State "DONE"       from "NEXT"       [2013-01-28 Mon 07:19]
        :PROPERTIES:
        :ID:       9575858b-31b4-4b68-9e94-4d2b0d5669cd
        :END:
