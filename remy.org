@@ -50,6 +50,9 @@ $14 family
 <2013-01-30 Wed 07:00-08:00>
 <2013-01-31 Thu 07:00-08:00>
 *** NEXT Pick Remy up from school
+    :LOGBOOK:
+    CLOCK: [2013-01-28 Mon 13:20]--[2013-01-28 Mon 14:35] =>  1:15
+    :END:
     :PROPERTIES:
     :ID:       ba506832-c08a-450d-9fa8-2bc2d1577e5d
     :END:
