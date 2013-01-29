@@ -128,7 +128,8 @@ CLOCK: [2012-12-01 Sat 15:53]--[2012-12-01 Sat 16:48] =>  0:55
 :LAST_REPEAT: [2013-01-23 Wed 19:24]
 :END:
 *** NEXT High Intensity
-    SCHEDULED: <2013-01-26 Sat .+4d/5d>
+    SCHEDULED: <2013-01-30 Wed .+4d/5d>
+    - State "DONE"       from "NEXT"       [2013-01-26 Sat 18:10]
     - State "DONE"       from "NEXT"       [2013-01-22 Tue 19:24]
     - State "CANCELLED"  from "NEXT"       [2013-01-15 Tue 09:55] \\
       Sick
@@ -158,7 +159,7 @@ CLOCK: [2012-12-02 Sun 16:18]--[2012-12-02 Sun 17:05] =>  0:47
 :STYLE: habit
 :REPEAT_TO_STATE: NEXT
 :ID: d52c3978-eea8-457c-b9c9-1a38d6d54a88
-:LAST_REPEAT: [2013-01-23 Wed 19:24]
+:LAST_REPEAT: [2013-01-28 Mon 18:10]
 :END:
 *** NEXT Eye/Jaw exercises
     SCHEDULED: <2013-01-25 Fri .+1d/2d>
