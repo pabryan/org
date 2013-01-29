@@ -1162,7 +1162,8 @@ For the following, do I just use the existing diary.org capture template or perh
 - [ ] Write down any thoughts, relections on the day.
 
 ** NEXT Daily Plan
-   SCHEDULED: <2013-01-26 Sat .+1d/2d>
+   SCHEDULED: <2013-01-29 Tue .+1d/2d>
+   - State "DONE"       from "NEXT"       [2013-01-28 Mon 08:07]
    - State "DONE"       from "NEXT"       [2013-01-25 Fri 10:20]
    - State "DONE"       from "NEXT"       [2013-01-24 Thu 07:34]
    - State "DONE"       from "NEXT"       [2013-01-20 Sun 16:53]
@@ -1188,7 +1189,7 @@ For the following, do I just use the existing diary.org capture template or perh
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
    :ID:       ef051ee0-1113-4604-b355-450a5a47848b
-   :LAST_REPEAT: [2013-01-25 Fri 10:20]
+   :LAST_REPEAT: [2013-01-28 Mon 18:07]
    :END:
 
 Set tasks in [[file:plans/today.org]].
