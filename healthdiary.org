@@ -1356,21 +1356,20 @@
 [2013-01-28 Mon 08:02]
 **** Ageless Mobility 
      :LOGBOOK:
-     CLOCK: [2013-01-28 Mon 14:52]
+     CLOCK: [2013-01-28 Mon 14:52]--[2013-01-28 Mon 16:21] =>  1:29
      :END:
 :PROPERTIES:
 :Intensity: Low
 :Type: Compensation
 :RestHR: 63
-:FinalHR:
+:FinalHR: 58
 :Score:
-:Technique:
-:Effort:
-:Discomfort:
+:Technique: 9
+:Effort: 5
+:Discomfort: 4
 :END:
 
 [2013-01-28 Mon 14:52]
-
 
 * conv code
   :PROPERTIES:
