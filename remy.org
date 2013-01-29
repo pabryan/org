@@ -51,6 +51,7 @@ $14 family
 <2013-01-31 Thu 07:00-08:00>
 *** NEXT Pick Remy up from school
     :LOGBOOK:
+    CLOCK: [2013-01-29 Tue 13:05]--[2013-01-29 Tue 14:28] =>  1:23
     CLOCK: [2013-01-28 Mon 13:20]--[2013-01-28 Mon 14:35] =>  1:15
     :END:
     :PROPERTIES:
@@ -118,6 +119,9 @@ $14 family
   - Saturday, March 2nd  4:00 p.m.
 
 **** Museum School
+     :LOGBOOK:
+     CLOCK: [2013-01-29 Tue 08:40]--[2013-01-29 Tue 11:15] =>  2:35
+     :END:
      :PROPERTIES:
      :ID:       898bf7ad-c041-4b04-b48c-b64bf619757b
      :END:
