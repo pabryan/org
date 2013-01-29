@@ -947,6 +947,7 @@ Does mutt integrate well?
   :END:
 ** Organisation
   :LOGBOOK:
+  CLOCK: [2013-01-28 Mon 18:30]--[2013-01-28 Mon 18:38] =>  0:08
   CLOCK: [2013-01-28 Mon 07:56]--[2013-01-28 Mon 07:58] =>  0:02
   CLOCK: [2013-01-28 Mon 07:15]--[2013-01-28 Mon 07:24] =>  0:09
   CLOCK: [2013-01-27 Sun 13:21]--[2013-01-27 Sun 13:22] =>  0:01
@@ -1196,6 +1197,9 @@ Set tasks in [[file:plans/today.org]].
 
 ** NEXT Weekly Plan
    SCHEDULED: <2013-01-09 Wed .+7d/10d>
+   :LOGBOOK:
+   CLOCK: [2013-01-28 Mon 18:38]
+   :END:
 
    :PROPERTIES:
    :STYLE:    habit
