@@ -2,4 +2,26 @@
 * TODO Register for SD Geom conference
   :LOGBOOK:
   :END:
+  :PROPERTIES:
+  :ID:       2350dd28-f465-44bd-a9ec-e9f3e77df37b
+  :END:
 [2013-01-30 Wed 08:18]
+* TODO Update seminar details
+  :LOGBOOK:
+  CLOCK: [2013-01-30 Wed 08:18]--[2013-01-30 Wed 08:20] =>  0:02
+  :END:
+  :PROPERTIES:
+  :ID:       1fe1aaa1-68c1-4ecf-ac07-e5082bc874e0
+  :END:
+[2013-01-30 Wed 08:18]
+
+ 21st of Feb 10am
+
+Title: The Curvature Estimate Of Higher Codimensional Mean Curvature Flow
+
+Abstract: K. Ecker and G. Huisken have derived a priori estimate for the
+curvature (second fundamental forms) when they study the mean curvature
+flow of the graph of a function in Euclidean space. In this talk, I will explain
+that a similar curvature estimate also exists for higher codimensional mean
+curvature flow under certain natural conditions. This is joint work with
+Knut Smoczyk and Mu-Tao Wang.
