@@ -608,6 +608,8 @@ Update this based on Bo's comments.
       :ID:       45ce5522-5bec-47f1-8e4f-8e821e842188
       :END:
 **** TODO Homework
+     :LOGBOOK:
+     :END:
      :PROPERTIES:
      :ID:       834ef9b6-e67a-42aa-b0c0-780e0ebfcfaf
      :END:
@@ -635,9 +637,13 @@ Update this based on Bo's comments.
       :PROPERTIES:
       :ID:       2f4712d3-63a0-4711-bb5b-2c310a71a761
       :END:
-***** NEXT Set Homework 3
+***** DONE Set Homework 3
       SCHEDULED: <2013-01-28 Mon> 
+      - State "DONE"       from "NEXT"       [2013-01-31 Thu 09:11]
       DEADLINE: <2013-02-01 Fri>
+      :LOGBOOK:
+      CLOCK: [2013-01-31 Thu 08:57]--[2013-01-31 Thu 09:11] =>  0:14
+      :END:
       :PROPERTIES:
       :ID:       d6a0375a-2e8b-40c1-a9d3-8cd8d9aa37e2
       :END:
