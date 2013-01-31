@@ -573,8 +573,9 @@ Update this based on Bo's comments.
       :PROPERTIES:
       :ID:       453f2751-42f6-4db5-8a36-994b180f1000
       :END:
-***** WAITING Write Midterm 1
+***** DONE Write Midterm 1
       SCHEDULED: <2013-01-14 Mon>     
+      - State "DONE"       from "WAITING"    [2013-01-31 Thu 08:55]
       - State "WAITING"    from "NEXT"       [2013-01-29 Tue 12:57] \\
 	Waiting for comments from Bob.
       - State "NEXT"       from "WAITING"    [2013-01-28 Mon 17:19] \\
@@ -583,6 +584,7 @@ Update this based on Bo's comments.
 	Talking to Bob Chen about questions.
       DEADLINE: <2013-01-25 Fri>
       :LOGBOOK:
+      CLOCK: [2013-01-31 Thu 08:50]--[2013-01-31 Thu 08:55] =>  0:05
       CLOCK: [2013-01-29 Tue 12:46]--[2013-01-29 Tue 12:56] =>  0:10
       CLOCK: [2013-01-28 Mon 12:55]--[2013-01-28 Mon 13:20] =>  0:25
       CLOCK: [2013-01-28 Mon 10:24]--[2013-01-28 Mon 10:51] =>  0:27
