@@ -1241,8 +1241,9 @@ Abstract:
     :END:
 [2013-01-10 Thu 15:00-16:00]
 
-*** TODO Give talk on Brendle's proof of Lawson conjecture
+*** NEXT Give talk on Brendle's proof of Lawson conjecture
   :LOGBOOK:
+  CLOCK: [2013-01-31 Thu 08:25]--[2013-01-31 Thu 08:35] =>  0:10
   CLOCK: [2013-01-30 Wed 09:42]--[2013-01-30 Wed 09:57] =>  0:14
   CLOCK: [2013-01-29 Tue 18:52]--[2013-01-29 Tue 19:53] =>  1:01
   CLOCK: [2013-01-29 Tue 15:18]--[2013-01-29 Tue 16:37] =>  1:18
