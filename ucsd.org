@@ -520,6 +520,7 @@ Update this based on Bo's comments.
 
 *** Office hours
    :LOGBOOK:
+   CLOCK: [2013-01-31 Thu 11:20]--[2013-01-31 Thu 12:35] =>  1:15
    CLOCK: [2013-01-25 Fri 10:25]--[2013-01-25 Fri 10:55] =>  0:30
    CLOCK: [2013-01-24 Thu 10:53]--[2013-01-24 Thu 11:01] =>  0:08
    CLOCK: [2013-01-17 Thu 11:05]--[2013-01-17 Thu 12:15] =>  1:10
@@ -1095,6 +1096,8 @@ Update this based on Bo's comments.
     :END:
 
 ** TODO UCSD DG Seminar   
+   :LOGBOOK:
+   :END:
    :PROPERTIES:
    :ID:       fa6cea64-9d5f-462e-8240-9f423a327330
    :END:
@@ -1251,6 +1254,7 @@ Abstract:
 
 *** NEXT Give talk on Brendle's proof of Lawson conjecture
   :LOGBOOK:
+  CLOCK: [2013-01-31 Thu 09:21]--[2013-01-31 Thu 11:20] =>  1:59
   CLOCK: [2013-01-31 Thu 08:25]--[2013-01-31 Thu 08:35] =>  0:10
   CLOCK: [2013-01-30 Wed 09:42]--[2013-01-30 Wed 09:57] =>  0:14
   CLOCK: [2013-01-29 Tue 18:52]--[2013-01-29 Tue 19:53] =>  1:01
