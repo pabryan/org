@@ -11,6 +11,8 @@ I need free close by activities: playground, beach, library?
    :END:
 ** WAITING Sort out Lily's swimming
   DEADLINE: <2013-01-22 Tue> SCHEDULED: <2013-01-22 Tue>
+  - State "WAITING"    from "WAITING"    [2013-02-01 Fri 15:35] \\
+    Called and left message to enrol Lily. Still waiting response.
   - State "WAITING"    from "TODO"       [2013-01-24 Thu 07:25] \\
     Emailed rclasses@ucsd.edu to enrol Lily. Waiting response.    
   :LOGBOOK:
