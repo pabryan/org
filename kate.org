@@ -5,8 +5,9 @@
   :PROPERTIES:
   :ID:       bd07a010-3867-4ef8-a9e6-1168c2cf5dfd
   :END:
-** TODO Make Doctor's Appointment for Kate
+** DONE Make Doctor's Appointment for Kate
    DEADLINE: <2013-02-04 Mon> SCHEDULED: <2013-02-01 Fri>
+   - State "DONE"       from "TODO"       [2013-02-01 Fri 14:41]
   :LOGBOOK:
   :END:
   :PROPERTIES:
