@@ -139,9 +139,10 @@ Scan them and email them to commbank. Also make sure netbank access is setup.
 - collate bank statements
 - scan reciepts and enter into ledger/org mode
 
-** NEXT Pay rent
+** TODO Pay rent
+   - State "DONE"       from "NEXT"       [2013-02-01 Fri 14:57]
    :LOGBOOK:
-   CLOCK: [2013-02-01 Fri 14:42]
+   CLOCK: [2013-02-01 Fri 14:42]--[2013-02-01 Fri 14:57] =>  0:15
    :END:
    - State "DONE"       from "TODO"       [2013-01-01 Tue 16:58]
    - State "DONE"       from "TODO"       [2012-12-01 Sat 09:29]
@@ -150,11 +151,11 @@ Scan them and email them to commbank. Also make sure netbank access is setup.
 Use account A11078844
 [[https://act.ucsd.edu/studentBilling/billing]]
 
-  DEADLINE: <2013-02-05 Tue +1m -5d>
+  DEADLINE: <2013-03-05 Tue +1m -5d>
 
    :PROPERTIES:
    :ID:       ea07bf7b-9f89-49bf-90db-3e167baff163
-   :LAST_REPEAT: [2013-01-01 Tue 16:58]
+   :LAST_REPEAT: [2013-02-01 Fri 14:57]
 
    :END:
 [2012-10-17 Wed 14:44]
