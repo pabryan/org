@@ -489,8 +489,11 @@ Update this based on Bo's comments.
    :PROPERTIES:
    :ID:       ca36acea-9953-4821-88a1-69ed34f77979
    :END:
-** TODO Spring 2013 text books
+** NEXT Spring 2013 text books
    DEADLINE: <2013-02-01 Fri>
+   :LOGBOOK:
+   CLOCK: [2013-02-01 Fri 11:27]
+   :END:
    :PROPERTIES:
    :ID:       59315c52-b03c-4ab2-be4e-d91eae1ad433
    :END:
@@ -1098,13 +1101,14 @@ Update this based on Bo's comments.
 
 ** TODO UCSD DG Seminar   
    :LOGBOOK:
+   CLOCK: [2013-02-01 Fri 11:26]--[2013-02-01 Fri 11:27] =>  0:01
    :END:
    :PROPERTIES:
    :ID:       fa6cea64-9d5f-462e-8240-9f423a327330
    :END:
 *** Organising UCSD DG SEMINAR
    :LOGBOOK:
-   CLOCK: [2013-02-01 Fri 11:19]
+   CLOCK: [2013-02-01 Fri 11:19]--[2013-02-01 Fri 11:26] =>  0:07
    CLOCK: [2013-01-25 Fri 14:06]--[2013-01-25 Fri 14:08] =>  0:02
    CLOCK: [2013-01-17 Thu 16:51]--[2013-01-17 Thu 17:00] =>  0:09
    CLOCK: [2013-01-17 Thu 16:41]--[2013-01-17 Thu 16:51] =>  0:10
