@@ -1104,6 +1104,7 @@ Update this based on Bo's comments.
    :END:
 *** Organising UCSD DG SEMINAR
    :LOGBOOK:
+   CLOCK: [2013-02-01 Fri 11:19]
    CLOCK: [2013-01-25 Fri 14:06]--[2013-01-25 Fri 14:08] =>  0:02
    CLOCK: [2013-01-17 Thu 16:51]--[2013-01-17 Thu 17:00] =>  0:09
    CLOCK: [2013-01-17 Thu 16:41]--[2013-01-17 Thu 16:51] =>  0:10
@@ -1180,7 +1181,8 @@ homeomorphic to S^4 or to a connected sum of CP^2s.
    :END:
 [2012-10-17 Wed 10:31]
 [[file:~/working/talks/20121025_ucsd_dg_seminar]]
-*** SOMEDAY Ask Ben about Inviting ZhiQin Lu to speak at DG conference
+*** DONE Ask Ben about Inviting ZhiQin Lu to speak at DG conference
+    - State "DONE"       from "SOMEDAY"    [2013-02-01 Fri 11:13]
 [[zlu@math.uci.edu][zlu@math.uci.edu]]
   CLOCK: [2012-10-25 Thu 11:31]--[2012-10-25 Thu 11:32] =>  0:01
     :PROPERTIES:
@@ -1198,6 +1200,7 @@ homeomorphic to S^4 or to a connected sum of CP^2s.
     :END:
     <2013-01-31 Thu 10:00-11:00 +1w>
 *** NEXT Send DG seminar email announcement
+    - State "DONE"       from "NEXT"       [2013-02-01 Fri 11:19]
     - State "DONE"       from "NEXT"       [2013-01-25 Fri 14:04]
     - State "DONE"       from "NEXT"       [2013-01-17 Thu 16:41]
     - State "DONE"       from "NEXT"       [2013-01-10 Thu 09:20]
@@ -1205,15 +1208,16 @@ homeomorphic to S^4 or to a connected sum of CP^2s.
     - State "DONE"       from "NEXT"       [2012-12-06 Thu 14:00]
     - State "DONE"       from "TODO"       [2012-11-29 Thu 09:46]
     :LOGBOOK:
+    CLOCK: [2013-02-01 Fri 11:13]--[2013-02-01 Fri 11:19] =>  0:06
     CLOCK: [2013-01-17 Thu 16:38]--[2013-01-17 Thu 16:41] =>  0:03
     CLOCK: [2013-01-10 Thu 09:16]--[2013-01-10 Thu 09:20] =>  0:04
     :END:
     :PROPERTIES:
     :ID:       0f19da7c-65a3-4e95-8a91-78d12caa46da
     :REPEAT_TO_STATE: NEXT
-    :LAST_REPEAT: [2013-01-25 Fri 14:04]
+    :LAST_REPEAT: [2013-02-01 Fri 11:19]
     :END: 
-DEADLINE: <2013-02-01 Fri +1w>
+DEADLINE: <2013-02-08 Fri +1w>
 [[mailto:seminarstaff@math.ucsd.edu]]
 **** Email tempate
 Speaker: 
@@ -1253,7 +1257,8 @@ Abstract:
     :END:
 [2013-01-10 Thu 15:00-16:00]
 
-*** NEXT Give talk on Brendle's proof of Lawson conjecture
+*** DONE Give talk on Brendle's proof of Lawson conjecture
+    - State "DONE"       from "NEXT"       [2013-02-01 Fri 11:13]
   :LOGBOOK:
   CLOCK: [2013-01-31 Thu 09:21]--[2013-01-31 Thu 11:20] =>  1:59
   CLOCK: [2013-01-31 Thu 08:25]--[2013-01-31 Thu 08:35] =>  0:10
@@ -1329,7 +1334,7 @@ is a joint work with Luen-Fai Tam.
   :END:
 [2013-01-09 Wed 07:38]
 
-It should make the relevant web entry and also the email notice. Possibly I could have a capture template with properties which I fill in. Then it stored as either a date tree or just one long list?
+It should make the relevant web entry and also the email notice. Possibly I could have a capture template with properties which I fill in. Then it can be stored as either a date tree (best I think!) or just one long list? I should be able fill in the relevant details (title, speaker, abstract etc. say in a properties drawer) and then export the web entry and email.
 ** Song Sun Seminar
    :PROPERTIES:
    :ID:       862184a9-6693-4ccd-8d24-df3af6cc23f7
