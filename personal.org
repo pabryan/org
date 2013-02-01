@@ -166,11 +166,12 @@ Use account A11078844
    :ID:       a636e0f6-ab58-46c1-b32a-0a0d54b62eba
    :END:
 [2012-10-17 Wed 08:22]
-** Pay Lily $200
+** Pay Lily $2000
   CLOCK: [2012-10-19 Fri 14:34]--[2012-10-19 Fri 14:34] =>  0:00
 [2012-10-19 Fri 14:34]
 
-** Pay Remy $500
+** Pay Remy $3000
+
 ** TODO Set up ledger
   CLOCK: [2012-11-16 Fri 22:20]--[2012-11-16 Fri 22:21] =>  0:01
   :PROPERTIES:
