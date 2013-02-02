@@ -1393,7 +1393,7 @@
 
 **** Qi Gong 
      :LOGBOOK:
-     CLOCK: [2013-02-02 Sat 06:55]
+     CLOCK: [2013-02-02 Sat 06:55]--[2013-02-02 Sat 07:12] =>  0:17
      :END:
 :PROPERTIES:
 :Intensity: None
@@ -1407,6 +1407,22 @@
 :END:
 
 [2013-02-02 Sat 07:04]
+**** Walk
+     :LOGBOOK:
+     CLOCK: [2013-02-02 Sat 07:15]
+     :END:
+:PROPERTIES:
+:Intensity: None
+:Type: Relaxation
+:RestHR: 
+:FinalHR:
+:Score:
+:Technique:
+:Effort:
+:Discomfort:
+:END:
+
+[2013-02-02 Sat 07:14]
 
 * conv code
   :PROPERTIES:
