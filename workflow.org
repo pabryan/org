@@ -1240,7 +1240,7 @@ Set tasks in [[file:plans/today.org]].
 
 Set tasks and focus in [[file:~/org/week.org]].
 
-** NEXT Weekly Review [1/11]
+** NEXT Weekly Review [2/11]
    SCHEDULED: <2013-01-15 Tue .+7d/10d>
    - State "DONE"       from "NEXT"       [2013-01-08 Tue 08:39]
    - State "DONE"       from "NEXT"       [2012-12-24 Mon 15:48]
@@ -1276,7 +1276,7 @@ What to review:
 - [ ] Check follow-up paper folder
 - [X] Check holding directory
   [[file:~/Dropbox/holding]]
-- [ ] Check holding email folder
+- [X] Check holding email folder
 - [ ] Review weekly agenda =F12 a w//=
 - [ ] Check clocking data for past week =v c=
   - fix up any errors
