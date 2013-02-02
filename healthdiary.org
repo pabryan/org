@@ -1409,7 +1409,7 @@
 [2013-02-02 Sat 07:04]
 **** Walk
      :LOGBOOK:
-     CLOCK: [2013-02-02 Sat 07:15]
+     CLOCK: [2013-02-02 Sat 07:15]--[2013-02-02 Sat 07:35] =>  0:20
      :END:
 :PROPERTIES:
 :Intensity: None
@@ -1423,7 +1423,6 @@
 :END:
 
 [2013-02-02 Sat 07:14]
-
 * conv code
   :PROPERTIES:
   :ID:       547e575e-820e-40c1-bd37-4714b4238af6
