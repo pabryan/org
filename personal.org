@@ -30,17 +30,19 @@ END:
 | TV/Internet |     70 |
 | Insurance   |     90 |
 | Petrol      |     30 |
+| Comics      |     50 |
+| tritoncash  |     25 |
 | Loan        |    500 |
 | ASG         |    125 |
 | Kate Visa   |    200 |
 | Family Tax  |   -220 |
 | Pay         |  -3800 |
-| Weekly Food |  454.5 |
+| Weekly Food |  481.5 |
 | Supplies    |   58.5 |
 | Montly Food |   58.5 |
 |             |        |
-| Total       | -628.5 |
-   #+TBLFM: @13$2=remote(WeeklyFood,@14$2)*4.5::@14$2=remote(Supplies,@11$2)::@17$2=vsum(@2$2..@16$2)
+| Total       | -526.5 |
+   #+TBLFM: @15$2=remote(WeeklyFood,@15$2)*4.5::@16$2=remote(Supplies,@11$2)::@19$2=vsum(@2$2..@18$2)
 
 #+TBLNAME: WeeklyFood
 | Desc                                     | Amt |
@@ -50,15 +52,16 @@ END:
 | Milk (2 bottles)                         |   8 |
 | Bread (1 tortilla, wrap, loaf or bagels) |   8 |
 | Mushrooms (2 pounds)                     |   8 |
-| Bananas (1 bunch)                        |   5 |
-| Avocados (3)                             |   5 |
+| Bananas (2 bunch)                        |   6 |
+| Avocados (4)                             |   5 |
 | Onions (5)                               |   3 |
+| Tomatos (1 pound?)                       |   5 |
 | Carrots (1 bag)                          |   2 |
 | Kids Meat (1 pack)                       |   7 |
 | Cereal (1 box)                           |   5 |
 |                                          |     |
-| Total                                    | 101 |
-   #+TBLFM: @14$2=vsum(@2$2..@13$2)
+| Total                                    | 107 |
+   #+TBLFM: @15$2=vsum(@2$2..@14$2)
 
 #+TBLNAME: MonthlyFood 
 | Desc                | Amt |
