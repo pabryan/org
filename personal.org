@@ -35,12 +35,12 @@ END:
 | Kate Visa   |    200 |
 | Family Tax  |   -220 |
 | Pay         |  -3800 |
-| Weekly Food |  481.5 |
+| Weekly Food |  454.5 |
 | Supplies    |   58.5 |
 | Montly Food |   58.5 |
 |             |        |
-| Total       | -601.5 |
-   #+TBLFM: @13$2=remote(WeeklyFood,@18$2)*4.5::@14$2=remote(Supplies,@11$2)::@17$2=vsum(@2$2..@16$2)
+| Total       | -628.5 |
+   #+TBLFM: @13$2=remote(WeeklyFood,@14$2)*4.5::@14$2=remote(Supplies,@11$2)::@17$2=vsum(@2$2..@16$2)
 
 #+TBLNAME: WeeklyFood
 | Desc                                     | Amt |
@@ -49,32 +49,31 @@ END:
 | Eggs (2 cartons)                         |   8 |
 | Milk (2 bottles)                         |   8 |
 | Bread (1 tortilla, wrap, loaf or bagels) |   8 |
-| Mushrooms (3 packs)                      |   6 |
-| Bananans (1 bunch)                       |   3 |
+| Mushrooms (2 pounds)                     |   8 |
+| Bananas (1 bunch)                        |   5 |
 | Avocados (3)                             |   5 |
 | Onions (5)                               |   3 |
 | Carrots (1 bag)                          |   2 |
-| Kids Meat (1 pack)                       |   5 |
+| Kids Meat (1 pack)                       |   7 |
 | Cereal (1 box)                           |   5 |
-| Tin tomato (2)                           |   3 |
 |                                          |     |
-| Total                                    | 107 |
-   #+TBLFM: @15$2=vsum(@2$2..@INVALID$2)
+| Total                                    | 101 |
+   #+TBLFM: @14$2=vsum(@2$2..@13$2)
 
 #+TBLNAME: MonthlyFood 
-| Desc              | Amt |
-|-------------------+-----|
-| Rice (1 bag)      |  10 |
-| Flour (1 bag)     |   3 |
-| Oats (1 bag)      |   3 |
-| Dry Fruit (1 bag) |   5 |
-| Lentils (1 bag)   |   3 |
-| Beans (1 bag)     |   5 |
-| Pasta             |  10 |
-| Crackers          |   5 |
-| Tin Tomatos       |   8 |
-|                   |     |
-| Tot               |  52 |
+| Desc                | Amt |
+|---------------------+-----|
+| Rice (1 bag)        |  10 |
+| Flour (1 bag)       |   3 |
+| Oats (1 bag)        |   3 |
+| Dry Fruit (1 bag)   |   5 |
+| Lentils (1 bag)     |   3 |
+| Beans (1 bag)       |   5 |
+| Pasta (1 Box)       |  10 |
+| Crackers (1 Box)    |   5 |
+| Tin Tomatos (1 Box) |   8 |
+|                     |     |
+| Tot                 |  52 |
    #+TBLFM: @12$2=vsum(@2$2..@11$2)
 
 #+TBLNAME: Supplies
@@ -93,13 +92,13 @@ END:
    #+TBLFM: @11$2=vsum(@2$2..@10$2)
 
 #+TBLNAME: Coming up
-| Desc                  | Amt |
-|-----------------------+-----|
-|                       |     |
-|                       |     |
-|                       |     |
-| Tot                   |  95 |
-   #+TBLFM: @11$2=vsum(@2$2..@10$2)
+| Desc | Amt |
+|------+-----|
+|      |     |
+|      |     |
+|      |     |
+| Tot  |   0 |
+   #+TBLFM: @5$2=vsum(@2$2..@4$2)
    
 ** NEXT Fill in Authority to operate forms for Lily and Remy
    :PROPERTIES:
