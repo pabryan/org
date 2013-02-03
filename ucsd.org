@@ -1,4 +1,4 @@
-#+LAST_MOBILE_CHANGE: 2013-01-30 10:06:20
+#+LAST_MOBILE_CHANGE: 2013-02-03 14:46:08
 #+FILETAGS: UCSD
 
 * Data
@@ -518,6 +518,9 @@ Use a course as a guinea pig for using the method
        	:ID:       22ef6e3a-e7f4-462a-b971-fce043c94e5c
        	:END:
 ******* NEXT Prepare lecture 5-2
+:LOGBOOK:
+CLOCK: [2013-02-03 Sun 09:15]--[2013-02-03 Sun 09:47] =>  0:32
+:END:
        	:PROPERTIES:
        	:ID:       85e752d4-8245-4cdd-b2af-221c32314759
        	:END:
