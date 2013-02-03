@@ -22,24 +22,25 @@ END:
 
 ** Budget
 #+TBLNAME: MTHBUDGET
-| Desc               |    Amt |
-|--------------------+--------|
-| Rent               |   1650 |
-| Electricity        |     75 |
-| Phone              |     80 |
-| TV/Internet        |     70 |
-| Insurance          |     90 |
-| Loan               |    500 |
-| ASG                |    125 |
-| Kate Visa          |    200 |
-| Family Tax         |   -220 |
-| Pay                |  -3800 |
-| Weekly Food        |  481.5 |
-| Supplies           |   58.5 |
-| Montly Food        |   58.5 |
-|                    |        |
-| Total              | -631.5 |
-   #+TBLFM: @12$2=remote(WeeklyFood,@18$2)*4.5::@13$2=remote(Supplies,@11$2)::@16$2=vsum(@2$2..@15$2)
+| Desc        |    Amt |
+|-------------+--------|
+| Rent        |   1650 |
+| Electricity |     75 |
+| Phone       |     80 |
+| TV/Internet |     70 |
+| Insurance   |     90 |
+| Petrol      |     30 |
+| Loan        |    500 |
+| ASG         |    125 |
+| Kate Visa   |    200 |
+| Family Tax  |   -220 |
+| Pay         |  -3800 |
+| Weekly Food |  481.5 |
+| Supplies    |   58.5 |
+| Montly Food |   58.5 |
+|             |        |
+| Total       | -601.5 |
+   #+TBLFM: @13$2=remote(WeeklyFood,@18$2)*4.5::@14$2=remote(Supplies,@11$2)::@17$2=vsum(@2$2..@16$2)
 
 #+TBLNAME: WeeklyFood
 | Desc                                     | Amt |
@@ -54,14 +55,11 @@ END:
 | Onions (5)                               |   3 |
 | Carrots (1 bag)                          |   2 |
 | Kids Meat (1 pack)                       |   5 |
-| Pasta (2 packs)                          |   3 |
 | Cereal (1 box)                           |   5 |
 | Tin tomato (2)                           |   3 |
-| Tin beans (2)                            |   3 |
-| Crackers (1 box)                         |   3 |
 |                                          |     |
 | Total                                    | 107 |
-   #+TBLFM: @18$2=vsum(@2$2..@16$2)
+   #+TBLFM: @15$2=vsum(@2$2..@INVALID$2)
 
 #+TBLNAME: MonthlyFood 
 | Desc              | Amt |
@@ -72,9 +70,12 @@ END:
 | Dry Fruit (1 bag) |   5 |
 | Lentils (1 bag)   |   3 |
 | Beans (1 bag)     |   5 |
+| Pasta             |  10 |
+| Crackers          |   5 |
+| Tin Tomatos       |   8 |
 |                   |     |
-| Tot               |  29 |
-   #+TBLFM: @9$2=vsum(@2$2..@7$2)
+| Tot               |  52 |
+   #+TBLFM: @12$2=vsum(@2$2..@11$2)
 
 #+TBLNAME: Supplies
 | Desc                       |  Amt |
