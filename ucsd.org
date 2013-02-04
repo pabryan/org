@@ -112,6 +112,7 @@ Use a course as a guinea pig for using the method
 [[file:~/working/ucsd/teaching/math142B_winter_2013]]
 **** MATH142B Lecturing
     :LOGBOOK:
+    CLOCK: [2013-02-04 Mon 10:53]
     CLOCK: [2013-01-30 Wed 10:55]--[2013-01-30 Wed 12:07] =>  1:12
     CLOCK: [2013-01-28 Mon 10:51]--[2013-01-28 Mon 12:07] =>  1:16
     CLOCK: [2013-01-25 Fri 10:55]--[2013-01-25 Fri 12:10] =>  1:15
@@ -520,7 +521,7 @@ Use a course as a guinea pig for using the method
        	:END:
 ******* NEXT Prepare lecture 5-2
         :LOGBOOK:
-	CLOCK: [2013-02-04 Mon 10:46]
+	CLOCK: [2013-02-04 Mon 10:46]--[2013-02-04 Mon 10:53] =>  0:07
 	CLOCK: [2013-02-04 Mon 09:42]--[2013-02-04 Mon 10:09] =>  0:27
 	CLOCK: [2013-02-03 Sun 18:50]--[2013-02-03 Sun 20:03] =>  1:13
 	CLOCK: [2013-02-03 Sun 09:15]--[2013-02-03 Sun 09:47] =>  0:32
