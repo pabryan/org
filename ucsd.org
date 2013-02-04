@@ -513,14 +513,16 @@ Use a course as a guinea pig for using the method
        :PROPERTIES:
        :ID:       4095d747-2722-4976-b7c7-29f859d24435
        :END:
-******* NEXT Prepare lecture 5-1
+******* DONE Prepare lecture 5-1
+	- State "DONE"       from "NEXT"       [2013-02-03 Sun 19:05]
        	:PROPERTIES:
        	:ID:       22ef6e3a-e7f4-462a-b971-fce043c94e5c
        	:END:
 ******* NEXT Prepare lecture 5-2
-:LOGBOOK:
-CLOCK: [2013-02-03 Sun 09:15]--[2013-02-03 Sun 09:47] =>  0:32
-:END:
+        :LOGBOOK:
+	CLOCK: [2013-02-03 Sun 18:50]
+	CLOCK: [2013-02-03 Sun 09:15]--[2013-02-03 Sun 09:47] =>  0:32
+	:END:
        	:PROPERTIES:
        	:ID:       85e752d4-8245-4cdd-b2af-221c32314759
        	:END:
