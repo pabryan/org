@@ -502,7 +502,7 @@ Sequences of manifolds and convergence. What is smooth convergence? Can it be de
       :PROPERTIES:
       :ID:       03789ba0-7a21-4b06-bbe0-70a1f06edde1
       :END:
-**** TODO pdf scraping tool to create bib entries and rename pdf files
+**** NEXT pdf scraping tool to create bib entries and rename pdf files
 This should open pdf's, get doi info and then look up the paper details
 online to get bib type info. Then the paper can be renamed, a bib entry
 can be created or downloaded, say from mathscinet or arxiv. I'd aso like this
