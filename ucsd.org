@@ -623,7 +623,11 @@ Use a course as a guinea pig for using the method
       :PROPERTIES:
       :ID:       10ca00ac-fd13-4f06-a801-538bef47b971
       :END:
-****** NEXT Update office hours
+****** DONE Update office hours
+       - State "DONE"       from "NEXT"       [2013-02-04 Mon 20:55]
+       :LOGBOOK:
+       CLOCK: [2013-02-04 Mon 20:40]--[2013-02-04 Mon 20:55] =>  0:15
+       :END:
        :PROPERTIES:
        :ID:       0d24d91c-4ad2-4c86-835c-fed77b99c82c
        :END:
