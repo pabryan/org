@@ -140,7 +140,8 @@ Also create any projects and put the under vc
 [[http://lists.gnu.org/archive/html/emacs-orgmode/2012-05/msg00079.html]]
 [[http://sachachua.com/blog/category/quantified/]]
 
-** TODO Generate list of uncommitted working projects for weekly review
+** DONE Generate list of uncommitted working projects for weekly review
+   - State "DONE"       from "TODO"       [2013-02-05 Tue 13:21]
   CLOCK: [2012-11-12 Mon 11:43]--[2012-11-12 Mon 11:44] =>  0:01
    :PROPERTIES:
    :ID:       88df0e6b-0854-49f2-b0f3-78298e050cb2
@@ -155,7 +156,8 @@ This should do: $ find ~/working -iname '.hg' adnd then hg st, hg incoming, hg o
    :END:
 [2012-11-13 Tue 19:51]
 
-** TODO Need to have clock out shift clock to parent or default
+** DONE Need to have clock out shift clock to parent or default
+   - State "DONE"       from "TODO"       [2013-02-05 Tue 13:21]
   :LOGBOOK:
   :END:
    :PROPERTIES:
@@ -221,7 +223,8 @@ Hostname should be the canonical place and I shouldn't ever need to worry about 
   :END:
 [2012-12-07 Fri 13:44]
 
-** TODO Implement multi-page html export for org mode
+** DONE Implement multi-page html export for org mode
+   - State "DONE"       from "TODO"       [2013-02-05 Tue 13:22]
   :LOGBOOK:
   :END:
    :PROPERTIES:
@@ -295,6 +298,13 @@ It's missing stuff from work.
   :END:
 [2013-01-30 Wed 10:18]
 
+** TODO Archive old tasks in weekly review
+  :LOGBOOK:
+  :END:
+   :PROPERTIES:
+   :ID:       f7b55341-e8b8-46cd-a026-982f356173d7
+   :END:
+[2013-02-05 Tue 13:22]
 * process
   :PROPERTIES:
   :ID:       403ba6c9-9a32-430c-b0c9-0b09f2eba44e
@@ -619,7 +629,8 @@ I'll need to say use my phone to collect the data. I need something easy to cloc
   :ID:       c2fcfce7-e205-444a-80fd-0d9cab0e9c7a
   :END:
 [2012-11-20 Tue 11:04
-** TODO Install dictionary on tablet/phone
+** DONE Install dictionary on tablet/phone
+   - State "DONE"       from "TODO"       [2013-02-05 Tue 13:20]
   :LOGBOOK:
   :END:
    :PROPERTIES:
@@ -632,14 +643,6 @@ I'll need to say use my phone to collect the data. I need something easy to cloc
    :END:
 *** Notes 
 I should have cards with daily reminders, e.g. no more than 2 coffees, eat tacfit, don't nag to check throughout the day. I also have longer term goals and these should filter down to give daily reminders, weekly reminders (to look at during the review), monthly, yearly etc.
-** TODO Set up goal reminders
-  :LOGBOOK:
-  CLOCK: [2012-12-31 Mon 11:59]--[2012-12-31 Mon 12:02] =>  0:03
-  :END:
-  :PROPERTIES:
-  :ID:       d92ba1d0-413d-477d-b421-c15e2ed18ceb
-  :END:
-[2012-12-31 Mon 11:59]
 * office layout
   :PROPERTIES:
   :ID:       827968af-420f-40a1-ac2d-4bbe7192cbc1
@@ -801,7 +804,8 @@ icvs2ledger, bitbucket-api
    :END:
 [2012-11-29 Thu 14:47]
 
-** NEXT Write script to list uncommitted work
+** DONE Write script to list uncommitted work
+   - State "DONE"       from "NEXT"       [2013-02-05 Tue 13:20]
   :LOGBOOK:
   CLOCK: [2012-11-30 Fri 10:52]--[2012-11-30 Fri 10:53] =>  0:01
   :END:
@@ -955,7 +959,8 @@ Does mutt integrate well?
   :END:
 ** Organisation
   :LOGBOOK:
-  CLOCK: [2013-02-05 Tue 13:15]
+  CLOCK: [2013-02-05 Tue 13:22]--[2013-02-05 Tue 13:24] =>  0:02
+  CLOCK: [2013-02-05 Tue 13:15]--[2013-02-05 Tue 13:22] =>  0:07
   CLOCK: [2013-02-05 Tue 13:05]--[2013-02-05 Tue 13:13] =>  0:08
   CLOCK: [2013-02-04 Mon 10:42]--[2013-02-04 Mon 10:43] =>  0:01
   CLOCK: [2013-02-01 Fri 14:57]--[2013-02-01 Fri 15:10] =>  0:13
