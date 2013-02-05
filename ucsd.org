@@ -620,7 +620,8 @@ Use a course as a guinea pig for using the method
        	:ID:       234b6d63-fcf8-451c-8075-b327a6264425
        	:END:
 
-***** TODO Update Website
+***** DONE Update Website
+      - State "DONE"       from "TODO"       [2013-02-05 Tue 13:11]
       :PROPERTIES:
       :ID:       10ca00ac-fd13-4f06-a801-538bef47b971
       :END:

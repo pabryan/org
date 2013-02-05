@@ -1067,7 +1067,10 @@ Find a good postcast player for android. I want to be able to do offline listeni
   :END:
 ** DONE Contact Ben, Julie, Mat etc. to say I'm alive
    - State "DONE"       from "NEXT"       [2012-11-10 Sat 13:44]
-** TODO Pick up Christine and Nick from airport
+** NEXT Pick up Christine and Nick from airport
+   :LOGBOOK:
+   CLOCK: [2013-02-05 Tue 10:30]--[2013-02-05 Tue 12:11] =>  1:41
+   :END:
    :PROPERTIES:
    :ID:       c9b5be6e-5d3c-4b61-b5c1-36fc173742a1
    :END:

@@ -206,9 +206,8 @@ likewise for notebook and paul-dell...
 
 Hostname should be the canonical place and I shouldn't ever need to worry about the symlinked one. i.e. I should be able to remove all references to office and notebook and then delete the symlinks.
 
-** TODO Set default bibliography for reftex
-  :LOGBOOK:
-  :END:
+** DONE Set default bibliography for reftex
+   - State "DONE"       from "TODO"       [2013-02-05 Tue 13:19]
   :PROPERTIES:
   :ID:       1e9fd1df-e101-4e32-bc7b-b598793a498b
   :END:
@@ -956,6 +955,8 @@ Does mutt integrate well?
   :END:
 ** Organisation
   :LOGBOOK:
+  CLOCK: [2013-02-05 Tue 13:15]
+  CLOCK: [2013-02-05 Tue 13:05]--[2013-02-05 Tue 13:13] =>  0:08
   CLOCK: [2013-02-04 Mon 10:42]--[2013-02-04 Mon 10:43] =>  0:01
   CLOCK: [2013-02-01 Fri 14:57]--[2013-02-01 Fri 15:10] =>  0:13
   CLOCK: [2013-02-01 Fri 11:47]--[2013-02-01 Fri 11:49] =>  0:02
@@ -1192,7 +1193,8 @@ For the following, do I just use the existing diary.org capture template or perh
 - [ ] Write down any thoughts, relections on the day.
 
 ** NEXT Daily Plan
-   SCHEDULED: <2013-02-05 Tue .+1d/2d>
+   SCHEDULED: <2013-02-06 Wed .+1d/2d>
+   - State "DONE"       from "NEXT"       [2013-02-05 Tue 13:18]
    - State "DONE"       from "NEXT"       [2013-02-04 Mon 07:38]
    - State "DONE"       from "NEXT"       [2013-01-31 Thu 09:11]
    - State "DONE"       from "NEXT"       [2013-01-28 Mon 08:07]
@@ -1223,13 +1225,14 @@ For the following, do I just use the existing diary.org capture template or perh
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
    :ID:       ef051ee0-1113-4604-b355-450a5a47848b
-   :LAST_REPEAT: [2013-02-04 Mon 07:38]
+   :LAST_REPEAT: [2013-02-05 Tue 13:18]
    :END:
 
 Set tasks in [[file:plans/today.org]].
 
 ** NEXT Weekly Plan
-   SCHEDULED: <2013-02-04 Mon .+7d/10d>
+   SCHEDULED: <2013-02-12 Tue .+7d/10d>
+   - State "DONE"       from "NEXT"       [2013-02-05 Tue 13:17]
    - State "DONE"       from "NEXT"       [2013-01-28 Mon 19:07]
    :LOGBOOK:
    CLOCK: [2013-01-28 Mon 18:38]--[2013-01-28 Mon 19:07] =>  0:29
@@ -1240,7 +1243,7 @@ Set tasks in [[file:plans/today.org]].
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
    :ID:       b98ed4bd-0690-4a23-8c8f-c72bd8e39954
-   :LAST_REPEAT: [2013-01-28 Mon 19:07]
+   :LAST_REPEAT: [2013-02-05 Tue 13:17]
    :END:
 
 Set tasks and focus in [[file:~/org/week.org]].
@@ -1301,13 +1304,15 @@ What to review:
   - then work on NEXT tasks
 
 ** NEXT Weekly collection and clean up [0/4]
-   SCHEDULED: <2013-01-15 Tue .+7d/10d>
+   SCHEDULED: <2013-02-12 Tue .+7d/10d>
+   - State "DONE"       from "NEXT"       [2013-02-05 Tue 13:15]
    - State "DONE"       from "NEXT"       [2013-01-08 Tue 07:57]
     - State "DONE"       from "NEXT"       [2012-12-24 Mon 15:50]
     - State "DONE"       from "NEXT"       [2012-12-17 Mon 19:53]
     - State "DONE"       from "NEXT"       [2012-12-10 Mon 20:27]
     - State "DONE"       from "NEXT"       [2012-11-30 Fri 14:58]
     :LOGBOOK:
+  CLOCK: [2013-02-05 Tue 13:13]--[2013-02-05 Tue 13:15] =>  0:02
     CLOCK: [2013-01-08 Tue 07:45]--[2013-01-08 Tue 07:57] =>  0:12
     CLOCK: [2012-12-17 Mon 19:50]--[2012-12-17 Mon 20:03] =>  0:13
     CLOCK: [2012-12-10 Mon 20:09]--[2012-12-10 Mon 20:27] =>  0:18
@@ -1320,7 +1325,7 @@ What to review:
 :REPEAT_TO_STATE: NEXT
 :RESET_CHECK_BOXES: t
 :ID: d5f309c0-dee9-4f12-af59-e9273ebd6ddf
-:LAST_REPEAT: [2013-01-08 Tue 07:57]
+:LAST_REPEAT: [2013-02-05 Tue 13:15]
 :END:
 
 - [ ] Clean up Downloads
