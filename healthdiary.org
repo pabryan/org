@@ -1495,21 +1495,20 @@
 
 **** Thrive Flow 
      :LOGBOOK:
-     CLOCK: [2013-02-05 Tue 08:14]
+     CLOCK: [2013-02-05 Tue 08:14]--[2013-02-05 Tue 09:01] =>  0:47
      :END:
 :PROPERTIES:
 :Intensity: Low
 :Type: Compensation
 :RestHR: 66
-:FinalHR:
+:FinalHR: 82
 :Score:
-:Technique:
-:Effort:
-:Discomfort:
+:Technique: 9
+:Effort: 4
+:Discomfort: 2
 :END:
 
 [2013-02-05 Tue 08:14]
-
 * conv code
   :PROPERTIES:
   :ID:       547e575e-820e-40c1-bd37-4714b4238af6
