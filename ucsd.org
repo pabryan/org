@@ -376,6 +376,7 @@ Use a course as a guinea pig for using the method
 ****** DONE Update website
        - State "DONE"       from "NEXT"       [2013-01-08 Tue 08:51]
        :LOGBOOK:
+       CLOCK: [2013-02-05 Tue 12:21]
        CLOCK: [2013-01-07 Mon 13:54]--[2013-01-07 Mon 14:06] =>  0:12
        :END:
        :PROPERTIES:
