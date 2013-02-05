@@ -131,8 +131,13 @@
 [[papers:MR1173029][MR1173029-paper]]
 
 
-
-
+***** Stability of hypersurfaces of constant mean curvature in {R}iemannian manifolds
+:PROPERTIES:
+:Custom_ID: MR917854
+:END:
+[[papers:MR917854][MR917854-paper]]
+[[bib:MR917854][MR917854-bib]]
+[[MR:MR917854][MR917854-MR]]
 **** 53C44 (2000-now) Geometric evolution equations (mean curvature flow, Ricci flow, etc.)
 ***** Curvature bounds by isoperimetric comparison for normalized {R}icci flow on the two-sphere
 :PROPERTIES:
@@ -150,7 +155,16 @@
 :Custom_ID: MR2794630
 :END:
 [[papers:MR2794630][MR2794630-paper]]
-** 58 global analysis; analysis on manifolds
+** 58 (1973-now) Global analysis, analysis on manifolds [See also 32Cxx, 32Fxx, 32Wxx, 46-XX, 47Hxx, 53Cxx] [For geometric integration theory, see 49Q15]
+*** 58E   (1973-now) Variational problems in infinite-dimensional spaces
+**** 58E12   (1980-now) Applications to minimal surfaces (problems in two independent variables) [See also 49Q05]
+***** Stability of hypersurfaces with constant mean curvature
+:PROPERTIES:
+:Custom_ID: MR731682
+:END:
+[[papers:MR731682][MR731682-paper]]
+[[bib:MR731682][MR731682-bib]]
+[[MR:MR731682][MR731682-MR]]
 *** 58G Partial differential equations on manifolds; differential operators 
 **** 58G11 Heat and other parabolic equation methods
 ***** On the parabolic kernel of the {S}chr\"odinger operator
