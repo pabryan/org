@@ -106,12 +106,15 @@ Use a course as a guinea pig for using the method
      :ID:       ab98137c-594a-447f-badd-95768624712f
      :END:
 *** TODO MATH142B Winter 2012					   :MATH142B:
+    :LOGBOOK:
+    :END:
    :PROPERTIES:
    :ID:       1143f380-6198-4a55-b640-8d8e9c7cfb72
    :END:
 [[file:~/working/ucsd/teaching/math142B_winter_2013]]
 **** MATH142B Lecturing
     :LOGBOOK:
+    CLOCK: [2013-02-06 Wed 10:54]
     CLOCK: [2013-02-04 Mon 10:53]--[2013-02-04 Mon 12:03] =>  1:10
     CLOCK: [2013-01-30 Wed 10:55]--[2013-01-30 Wed 12:07] =>  1:12
     CLOCK: [2013-01-28 Mon 10:51]--[2013-01-28 Mon 12:07] =>  1:16
@@ -655,10 +658,12 @@ Use a course as a guinea pig for using the method
     CLOCK: [2013-01-07 Mon 14:10]--[2013-01-07 Mon 14:20] =>  0:10
     :END:
 
-**** TODO Update website and office hours
-  :LOGBOOK:
-  CLOCK: [2013-01-28 Mon 07:28]--[2013-01-28 Mon 07:29] =>  0:01
-  :END:
+**** DONE Update website and office hours
+     - State "DONE"       from "NEXT"       [2013-02-06 Wed 10:54]
+    :LOGBOOK:
+    CLOCK: [2013-02-06 Wed 10:50]--[2013-02-06 Wed 10:54] =>  0:04
+    CLOCK: [2013-01-28 Mon 07:28]--[2013-01-28 Mon 07:29] =>  0:01
+    :END:
     :PROPERTIES:
     :ID:       6f6722a7-8bcf-4fab-9f0f-e3ff15b16aa8
     :END:
