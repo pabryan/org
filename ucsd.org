@@ -506,8 +506,9 @@ Use a course as a guinea pig for using the method
        	:PROPERTIES:
        	:ID:       9575858b-31b4-4b68-9e94-4d2b0d5669cd
        	:END:
-****** TODO Week 5 Lectures
+****** DONE Week 5 Lectures
        DEADLINE: <2013-02-03 Sun> SCHEDULED: <2013-01-28 Mon>
+       - State "DONE"       from "TODO"       [2013-02-06 Wed 10:43]
        :LOGBOOK:
        CLOCK: [2013-02-01 Fri 12:51]--[2013-02-01 Fri 13:53] =>  1:02
        CLOCK: [2013-02-01 Fri 11:49]--[2013-02-01 Fri 12:05] =>  0:16
@@ -531,9 +532,10 @@ Use a course as a guinea pig for using the method
        	:PROPERTIES:
        	:ID:       85e752d4-8245-4cdd-b2af-221c32314759
        	:END:
-******* NEXT Prepare lecture 5-3
+******* DONE Prepare lecture 5-3
+	- State "DONE"       from "NEXT"       [2013-02-06 Wed 10:43]
 	:LOGBOOK:
-	CLOCK: [2013-02-06 Wed 10:12]
+	CLOCK: [2013-02-06 Wed 10:12]--[2013-02-06 Wed 10:43] =>  0:31
 	:END:
        	:PROPERTIES:
        	:ID:       5a93b1cc-4a21-4077-898d-9a80ce4454f3
