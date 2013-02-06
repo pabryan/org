@@ -1262,6 +1262,7 @@ homeomorphic to S^4 or to a connected sum of CP^2s.
     :END:
     <2013-01-31 Thu 10:00-11:00 +1w>
 *** NEXT Send DG seminar email announcement
+    - State "DONE"       from "NEXT"       [2013-02-06 Wed 14:48]
     - State "DONE"       from "NEXT"       [2013-02-01 Fri 11:19]
     - State "DONE"       from "NEXT"       [2013-01-25 Fri 14:04]
     - State "DONE"       from "NEXT"       [2013-01-17 Thu 16:41]
@@ -1277,9 +1278,9 @@ homeomorphic to S^4 or to a connected sum of CP^2s.
     :PROPERTIES:
     :ID:       0f19da7c-65a3-4e95-8a91-78d12caa46da
     :REPEAT_TO_STATE: NEXT
-    :LAST_REPEAT: [2013-02-01 Fri 11:19]
+    :LAST_REPEAT: [2013-02-06 Wed 14:48]
     :END: 
-DEADLINE: <2013-02-08 Fri +1w>
+DEADLINE: <2013-02-15 Fri +1w>
 [[mailto:seminarstaff@math.ucsd.edu]]
 **** Email tempate
 Speaker: 

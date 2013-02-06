@@ -267,7 +267,7 @@ how are they related?
 [[file:~/working/academic/research/geometric_pipe_flows]]
 *** NEXT Set up exact tasks
     :LOGBOOK:
-    CLOCK: [2013-02-06 Wed 14:58]
+    CLOCK: [2013-02-06 Wed 14:58]--[2013-02-06 Wed 15:09] =>  0:11
     :END:
     :PROPERTIES:
     :ID:       bd4e49ca-6f78-44af-aa3b-782d2eb98ff3
@@ -289,7 +289,10 @@ how are they related?
   :END:
 [2012-11-20 Tue 11:04]
 *** NEXT Make org file with my known work and send to Steve.
-** TODO distance viscosity				 :DISTANCE_VISCOSITY:
+    :PROPERTIES:
+    :ID:       4f27c099-1b3f-44a1-b38d-394b791aabef
+    :END:
+** SOMEDAY distance viscosity				 :DISTANCE_VISCOSITY:
    :PROPERTIES:
    :ID:       c77edc75-4647-4f26-93c4-da74485714c1
    :END:
@@ -325,14 +328,31 @@ how are they related?
     :END:
 *** TODO Make outline of book
     :PROPERTIES:
-    :ID:       fafef726-06de-4f07-8e85-b55e2e153b9d
+    :ID:       2b1f653b-3d67-4b05-92a8-44b2afc74546
+    :END:
+:ID:       fafef726-06de-4f07-8e85-b55e2e153b9d
     :END:ok
 **** NEXT What should be in the book? Make outline.
+     :PROPERTIES:
+     :ID:       831b7f47-ac24-4779-a485-f627e289934a
+     :END:
 **** NEXT Check Mat's, Charlie's and my work and how it fits together.
+     :PROPERTIES:
+     :ID:       189cc302-8dde-4aa2-818e-66d4b9dd0c9f
+     :END:
 *** TODO Write convex/geometry and support function parts
+    :PROPERTIES:
+    :ID:       ff3c6e47-4972-49e9-b5d4-7e4ed5524445
+    :END:
 *** TODO Get my honour's thesis work into a useable format
+    :PROPERTIES:
+    :ID:       810fd351-5f88-415f-9977-906fa1e39681
+    :END:
 *** TODO Write basic MCF stuff, embeddness preserved etc. from my honour's thesis plus Mat and Charlie's work
-** TODO Submanifold book
+    :PROPERTIES:
+    :ID:       b5234c61-d118-45c2-b372-eb8e247c8642
+    :END:
+** SOMEDAY Submanifold book
 [[file:~/working/academic/research/submanifolds_book]]
    :PROPERTIES:
    :ID:       c81850da-1eac-4c94-a963-ab007548b40a
@@ -387,7 +407,10 @@ Sequences of manifolds and convergence. What is smooth convergence? Can it be de
     :LOGBOOK:
     CLOCK: [2012-12-18 Tue 18:20]--[2012-12-18 Tue 20:00] =>  1:40
     :END:
-*** NEXT Rewrite more sophisticated variational argument 
+*** NEXT Rewrite more sophisticated variational argument
+    :PROPERTIES:
+    :ID:       bd810aa6-d6aa-4b03-8fca-f4fa0f549cdd
+    :END: 
 This should not involve partial derivatives by tangent vectors to $S^1$ like in the CSF paper.
 *** TODO Write introduction
     :PROPERTIES:
@@ -420,18 +443,18 @@ There is a remark by Ben that our function comes from seeking a similarity solut
     :ID:       b63d50df-619a-46e9-88f4-460accb55823
     :END:
 My computations where for the unnomalised flow.
-** TODO CSF surfaces distance comparison
+** SOMEDAY CSF surfaces distance comparison
    :PROPERTIES:
    :ID:       85f583ed-c9eb-4993-91e3-8cedf9945d1f
    :END:
 [[file:~/working/academic/research/csf_dist_comp_surfaces]]
-** TODO vector symmetric rational functions
+** SOMEDAY vector symmetric rational functions
    :PROPERTIES:
    :ID:       6c117119-27b6-488d-9f88-199a553e2be2
    :END:
 [[file:~/working/academic/research/vector_symmetric_rational_functions]]
 
-** TODO cmc_stability
+** SOMEDAY cmc_stability
    :PROPERTIES:
    :ID:       4cda53b3-53b6-4e00-99dc-b977d3f57889
    :END:
@@ -442,29 +465,53 @@ My computations where for the unnomalised flow.
    :ID:       1bc93b81-8423-4598-8297-f0b90aa39aa7
    :END:
 [[file:/home/pbryan/working/academic/research/csf_networks]]
-
-** TODO csf_isoprofile_surfaces
+*** NEXT Write variation of $d$
+    :PROPERTIES:
+    :ID:       a687895f-101a-4cbb-8f21-d2071d209335
+    :END:
+*** TODO Does minima occur near a vertex?
+    :PROPERTIES:
+    :ID:       d748c163-4621-4249-8280-af1f8e24a77d
+    :END:
+*** TODO  Write up CSF for networks defn
+    :PROPERTIES:
+    :ID:       f1f13b51-1bfd-4c47-a349-2b23cc3f212b
+    :END:
+**** NEXT Write CSF Network Defn
+     :PROPERTIES:
+     :ID:       13735f45-9ce8-4099-aee5-7525d951a79f
+     :END:
+CSF plus tangent part. Vertices have 120 degree angles
+**** TODO Reference for existence, uniqueness
+     :PROPERTIES:
+     :ID:       6b0ff870-ae91-4fa1-a6dd-5baa6cacfe85
+     :END:
+**** TODO Write explicitly compatibility conditions for vertices
+     :PROPERTIES:
+     :ID:       77b07b0a-6ac6-4578-a449-cffcdc69f61d
+     :END:
+** SOMEDAY csf_isoprofile_surfaces
    :PROPERTIES:
    :ID:       b7168bd9-6808-46e9-86f3-a606bae8586b
    :END:
 [[file:/home/pbryan/working/academic/research/csf_isoprofile_surfaces]]
-** TODO free_k_graphs
+** SOMEDAY free_k_graphs
    :PROPERTIES:
    :ID:       89d01823-d0d8-4903-9d15-b84ad05edf31
    :END:
 [[file:/home/pbryan/working/academic/research/free_k_graphs]]
-** TODO ricci_isoprofile_comparison_kahler_manifolds
+** SOMEDAY ricci_isoprofile_comparison_kahler_manifolds
    :PROPERTIES:
    :ID:       39603eb5-2bec-4118-a705-a5287b9d5ad2
    :END:
 [[file:/home/pbryan/working/academic/research/ricci_isoprofile_comparison_kahler_manifolds]]
-** TODO ricci_pseudo_locality
+** SOMEDAY ricci_pseudo_locality
    :PROPERTIES:
    :ID:       9831a9b5-8a08-43cd-bbfd-bd0b0950a815
    :END:
 [[file:/home/pbryan/working/academic/research/ricci_pseudo_locality]]
 
-** TODO ricci_degenerate_neck_pinches
+** SOMEDAY ricci_degenerate_neck_pinches
    :PROPERTIES:
    :ID:       66603461-6850-4f49-ba50-de184b15be3b
    :END:
@@ -474,29 +521,48 @@ My computations where for the unnomalised flow.
    :ID:       4eb29f73-141b-4ca2-9394-436a9293bdce
    :END:
 [[file:/home/pbryan/working/academic/research/bakry_emery_levy_gromov]]
-
-** TODO ricci_flow_warped_products
+*** NEXT Write up Lei's Levy-Gromov argument
+    :PROPERTIES:
+    :ID:       3b4184f6-991b-4929-b1a9-edc6c5f5d680
+    :END:
+Use the quotient rather than the difference. The equality case is a sphere.
+*** TODO Convert Lei's argument to the Bakry-Emery situation.
+    :PROPERTIES:
+    :ID:       eb18f3b2-70ab-4b52-9d2c-f1677ccd9fac
+    :END:
+This should just involve extra terms from the potential. These should give the Bakry-Emery tensor where the usual one has just the Ricci tensor. Our assumption is a bound on Bakry-Emery so it should be very similar. Do we compare with the sphere again, or some weighted model that satisfies equality. It would be good to know what the solutions are!
+*** TODO Find out what happens when the scaling is correct?
+    :PROPERTIES:
+    :ID:       3a3695d3-b396-4460-b7be-3db8cb1fd9bf
+    :END: 
+Here we look at a conformal change of metric. The Levy-Gromov comparison doesn't scale the boundary area as for conformal change. Why is this useful to look at instead of the conformal change? 
+** SOMEDAY ricci_flow_warped_products
    :PROPERTIES:
    :ID:       4eb29f73-141b-4ca2-9394-436a9293bdce
    :END:
 [[file:~/working/academic/research/ricci_flow_warped_products]]
 
-** TODO unbounded_curvature_comparison
+** SOMEDAY unbounded_curvature_comparison
    :PROPERTIES:
    :ID:       84de701c-0043-4f38-8b94-70db58460f70
    :END:
 [[file:/home/pbryan/working/academic/research/unbounded_curvature_comparison]]
-** TODO isoperimetry
+** SOMEDAY isoperimetry
    :PROPERTIES:
    :ID:       6d2fffec-080e-464b-b8d5-3c86a329fe2c
    :END:
 [[file:/home/paul/working/academic/research/isoperimetry]]
-** TODO hypersurface_support_functions
+** SOMEDAY hypersurface_support_functions
    :PROPERTIES:
    :ID:       cd56118f-db78-4d4a-a900-454dfc251e29
    :END:
 [[file:/home/paul/working/academic/research/hypersurface_support_functions]]
 
+** SOMEDAY Differentiable sphere thm
+   :PROPERTIES:
+   :ID:       ea0b2bb7-385f-409e-afb2-3b42b2cbdfea
+   :END:
+Can I use a non-collapsing type argument?
 ** Tasks
 *** TODO Organise research papers
     :LOGBOOK:
