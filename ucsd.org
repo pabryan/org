@@ -532,6 +532,9 @@ Use a course as a guinea pig for using the method
        	:ID:       85e752d4-8245-4cdd-b2af-221c32314759
        	:END:
 ******* NEXT Prepare lecture 5-3
+	:LOGBOOK:
+	CLOCK: [2013-02-06 Wed 10:12]
+	:END:
        	:PROPERTIES:
        	:ID:       5a93b1cc-4a21-4077-898d-9a80ce4454f3
        	:END:
