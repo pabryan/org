@@ -486,7 +486,8 @@ Sequences of manifolds and convergence. What is smooth convergence? Can it be de
      :PROPERTIES:
      :ID:       133cd7db-b4c3-42ac-bd2a-6e7082bd67f5
      :END:
-**** TODO Configure reftex, org-mode to access papers
+**** DONE Configure reftex, org-mode to access papers
+     - State "DONE"       from "TODO"       [2013-02-06 Wed 07:34]
      :PROPERTIES:
      :ID:       0d3a134a-c167-44e8-aa83-fc2b5327b03e
      :END:
