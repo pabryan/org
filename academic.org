@@ -132,7 +132,7 @@ Geisel Library room 274
     :PROPERTIES:
     :ID:       1335d91c-32ec-499b-943b-107a42556b29
     :END:
-*** NEXT Transcribe from notebooks into computer
+*** TODO Transcribe from notebooks into computer
     :LOGBOOK:
     CLOCK: [2013-01-09 Wed 14:37]--[2013-01-09 Wed 15:04] =>  0:27
     CLOCK: [2013-01-09 Wed 14:06]--[2013-01-09 Wed 14:31] =>  0:25
@@ -145,7 +145,7 @@ Geisel Library room 274
     :PROPERTIES:
     :ID:       c7d8d816-7767-4384-9e6b-ee1bbd453e62
     :END:
-*** NEXT Make scans of working 
+*** TODO Make scans of working 
   :LOGBOOK:
   CLOCK: [2013-01-09 Wed 12:58]--[2013-01-09 Wed 13:09] =>  0:11
   :END:
@@ -233,11 +233,12 @@ how are they related?
     :PROPERTIES:
     :ID:       0256ba72-857d-4734-be31-be685e5a10ad
     :END:
-*** TODO Clean up text to be consistent, proper refs etc.
+*** NEXT Make 1st draft by cleaning up text to be consistent, proper refs etc.
     :PROPERTIES:
     :ID:       5349a44a-61b3-4ba2-b795-cb73eac3482b
     :END:
-*** NEXT Work out hyperbolic barrier
+
+*** TODO Work out hyperbolic barrier
     :LOGBOOK:
     CLOCK: [2013-01-14 Mon 16:10]--[2013-01-14 Mon 16:35] =>  0:25
     CLOCK: [2013-01-14 Mon 09:10]--[2013-01-14 Mon 09:36] =>  0:26
@@ -250,7 +251,8 @@ how are they related?
     :PROPERTIES:
     :ID:       9576f953-1b7f-4459-915a-b8378f6d8b80
     :END:
-*** NEXT Check high genus comparison computations
+*** DONE Check high genus comparison computations
+    - State "DONE"       from "NEXT"       [2013-02-06 Wed 14:57]
     :LOGBOOK:
     CLOCK: [2013-01-11 Fri 13:00]--[2013-01-11 Fri 14:10] =>  1:10
     CLOCK: [2013-01-11 Fri 07:30]--[2013-01-11 Fri 08:05] =>  0:35
@@ -264,10 +266,13 @@ how are they related?
    :END:
 [[file:~/working/academic/research/geometric_pipe_flows]]
 *** NEXT Set up exact tasks
+    :LOGBOOK:
+    CLOCK: [2013-02-06 Wed 14:58]
+    :END:
     :PROPERTIES:
     :ID:       bd4e49ca-6f78-44af-aa3b-782d2eb98ff3
     :END:
-*** NEXT Transcribe pipe examples from Bei Da notebook
+*** TODO Transcribe pipe examples from Bei Da notebook
   :LOGBOOK:
   CLOCK: [2012-11-20 Tue 10:48]--[2012-11-20 Tue 10:49] =>  0:01
   :END:
@@ -276,13 +281,14 @@ how are they related?
   :END:
 [2012-11-20 Tue 10:48]
 
-*** NEXT Transcribe from Bei Da notebook: pipe flow
+*** TODO Transcribe from Bei Da notebook: pipe flow
   :LOGBOOK:
   :END:
   :PROPERTIES:
   :ID:       acf2c85c-2e65-45b7-a705-e30b58a7ca4b
   :END:
 [2012-11-20 Tue 11:04]
+*** NEXT Make org file with my known work and send to Steve.
 ** TODO distance viscosity				 :DISTANCE_VISCOSITY:
    :PROPERTIES:
    :ID:       c77edc75-4647-4f26-93c4-da74485714c1
@@ -301,21 +307,32 @@ how are they related?
     :ID:       ed26585a-2582-48bc-a787-2a457954b383
     :END:
 
-** TODO MCF BOOK
+** TODO MCF Book
+   :LOGBOOK:
+   :END:
 [[file:~/working/academic/research/mcf_book]]
 [[file:~/Dropbox/MCF Project]]
    :PROPERTIES:
    :ID:       94d316e3-e550-42ca-90f9-fd91d2d61bc5
    :END:
-*** NEXT Set up exact tasks
+*** DONE Set up exact tasks
+    - State "DONE"       from "NEXT"       [2013-02-06 Wed 14:56]
+    :LOGBOOK:
+    CLOCK: [2013-02-06 Wed 14:53]--[2013-02-06 Wed 14:56] =>  0:03
+    :END:
     :PROPERTIES:
     :ID:       264e8cb9-0195-4424-8b4a-7564af954309
     :END:
-*** NEXT Make outline of book
+*** TODO Make outline of book
     :PROPERTIES:
     :ID:       fafef726-06de-4f07-8e85-b55e2e153b9d
-    :END:
-** TODO Submanifolds
+    :END:ok
+**** NEXT What should be in the book? Make outline.
+**** NEXT Check Mat's, Charlie's and my work and how it fits together.
+*** TODO Write convex/geometry and support function parts
+*** TODO Get my honour's thesis work into a useable format
+*** TODO Write basic MCF stuff, embeddness preserved etc. from my honour's thesis plus Mat and Charlie's work
+** TODO Submanifold book
 [[file:~/working/academic/research/submanifolds_book]]
    :PROPERTIES:
    :ID:       c81850da-1eac-4c94-a963-ab007548b40a
@@ -370,10 +387,8 @@ Sequences of manifolds and convergence. What is smooth convergence? Can it be de
     :LOGBOOK:
     CLOCK: [2012-12-18 Tue 18:20]--[2012-12-18 Tue 20:00] =>  1:40
     :END:
-*** NEXT Try similarity soln as in CSF case
-    :PROPERTIES:
-    :ID:       e33f844d-a7a7-406b-bf25-002f515cb649
-    :END:
+*** NEXT Rewrite more sophisticated variational argument 
+This should not involve partial derivatives by tangent vectors to $S^1$ like in the CSF paper.
 *** TODO Write introduction
     :PROPERTIES:
     :ID:       f830177c-d9ea-4120-82f6-d0af42487036
@@ -390,14 +405,21 @@ Sequences of manifolds and convergence. What is smooth convergence? Can it be de
     :PROPERTIES:
     :ID:       2d45cee3-0bf7-482b-a10e-9caca013f87e
     :END:
+This requires an estimate of $\int k f(k)$ analogous to Holder's for CSF where $f(k)=k$.
 *** TODO Find comparison solutions
     :PROPERTIES:
     :ID:       9c3e45f9-6c61-48b8-b0e1-eaae4fd6514b
     :END:
+**** NEXT Try similarity soln as in CSF case
+    :PROPERTIES:
+    :ID:       e33f844d-a7a7-406b-bf25-002f515cb649
+    :END:
+There is a remark by Ben that our function comes from seeking a similarity solution. Does this work for general $f$?
 *** NEXT Work our normalised flow
     :PROPERTIES:
     :ID:       b63d50df-619a-46e9-88f4-460accb55823
     :END:
+My computations where for the unnomalised flow.
 ** TODO CSF surfaces distance comparison
    :PROPERTIES:
    :ID:       85f583ed-c9eb-4993-91e3-8cedf9945d1f
