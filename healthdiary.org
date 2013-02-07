@@ -1509,6 +1509,44 @@
 :END:
 
 [2013-02-05 Tue 08:14]
+*** 2013-02-06 Wednesday
+
+**** Flow Physique AFAP 
+     :LOGBOOK:
+     CLOCK: [2013-02-06 Wed 07:50]--[2013-02-06 Wed 08:30] =>  0:40
+     :END:
+:PROPERTIES:
+:Intensity: 
+:Type: Conditioning
+:RestHR: 61
+:FinalHR: 120
+:Score: 08:00
+:Technique: 9
+:Effort: 6
+:Discomfort: 3
+:END:
+
+[2013-02-06 Wed 19:40]
+
+| Rest HR | Final HR |  Time | Tech | Eff | Disc |
+|---------+----------+-------+------+-----+------|
+|      61 |      120 | 08:00 | 9    | 6   | 3    |
+**** Foam Roller/Stretch
+     :LOGBOOK:
+     CLOCK: [2013-02-06 Wed 08:44]--[2013-02-06 Wed 09:00] =>  0:16
+     :END:
+:PROPERTIES:
+:Intensity: None
+:Type: Compensation
+:RestHR: 
+:FinalHR:
+:Score:
+:Technique:
+:Effort:
+:Discomfort:
+:END:
+
+[2013-02-06 Wed 19:44]
 * conv code
   :PROPERTIES:
   :ID:       547e575e-820e-40c1-bd37-4714b4238af6

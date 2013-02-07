@@ -1120,6 +1120,14 @@ Do as many sets as possible in 20 mins.
   :PROPERTIES:
   :ID:       388ded9e-79b9-4d94-bba7-0b5bcc314c75
   :END:
+** TACFIT
+| Day          | Protien | Complex Carb | Fat |
+|--------------+---------+--------------+-----|
+| No/Cleanse   |      10 |           80 |  10 |
+| Low/Balance  |      40 |           40 |  20 |
+| Mod/Carbs    |      20 |           60 |  20 |
+| High/Protien |      60 |           15 |  25 | 
+  
 * Sleep								      :SLEEP:
 :LOGBOOK:
 CLOCK: [2013-01-14 Mon 06:35]--[2013-01-14 Mon 06:35] =>  0:00
