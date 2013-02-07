@@ -99,7 +99,8 @@ CLOCK: [2012-11-20 Tue 15:30]--[2012-11-20 Tue 16:00] =>  0:30
 :END:
 
 *** NEXT Mod Intensity
-    SCHEDULED: <2013-02-06 Wed .+4d/5d>
+    SCHEDULED: <2013-02-10 Sun .+4d/5d>
+    - State "DONE"       from "NEXT"       [2013-02-06 Wed 19:39]
     - State "DONE"       from "NEXT"       [2013-02-02 Sat 07:28]
     - State "DONE"       from "NEXT"       [2013-01-29 Tue 07:41]
     - State "DONE"       from "NEXT"       [2013-01-25 Fri 19:08]
@@ -133,7 +134,7 @@ CLOCK: [2012-11-20 Tue 15:30]--[2012-11-20 Tue 16:00] =>  0:30
 :STYLE: habit
 :REPEAT_TO_STATE: NEXT
 :ID: 2fd02d93-9376-4172-b361-0e865b293007
-:LAST_REPEAT: [2013-02-04 Mon 07:28]
+:LAST_REPEAT: [2013-02-06 Wed 19:39]
 :END:
 *** NEXT High Intensity
     SCHEDULED: <2013-02-07 Thu .+4d/5d>

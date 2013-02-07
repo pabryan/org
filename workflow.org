@@ -1169,7 +1169,8 @@ Does mutt integrate well?
 Here I look at my goals, my tasks and how I've been spending my time and use that information to plan out the coming week/month/year etc.
 Maybe I should also have work and personal reviews, including reviewing my health scores.
 ** NEXT Daily Review [0/1]
-   SCHEDULED: <2013-02-05 Tue .+1d/2d>
+   SCHEDULED: <2013-02-07 Thu .+1d/2d>
+   - State "DONE"       from "NEXT"       [2013-02-06 Wed 19:37]
    - State "DONE"       from "NEXT"       [2013-02-04 Mon 20:32]
    - State "DONE"       from "NEXT"       [2013-01-30 Wed 19:51]
    - State "DONE"       from "NEXT"       [2013-01-28 Mon 17:25]
@@ -1177,6 +1178,7 @@ Maybe I should also have work and personal reviews, including reviewing my healt
    - State "DONE"       from "NEXT"       [2013-01-23 Wed 19:25]
    - State "DONE"       from "NEXT"       [2013-01-14 Mon 17:43]
    :LOGBOOK:
+   CLOCK: [2013-02-06 Wed 19:36]--[2013-02-06 Wed 19:37] =>  0:01
    CLOCK: [2013-02-04 Mon 20:31]--[2013-02-04 Mon 20:32] =>  0:01
    CLOCK: [2013-01-30 Wed 19:43]--[2013-01-30 Wed 19:51] =>  0:08
    CLOCK: [2013-01-28 Mon 17:20]--[2013-01-28 Mon 17:25] =>  0:05
@@ -1190,7 +1192,7 @@ Maybe I should also have work and personal reviews, including reviewing my healt
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
    :ID:       616c5bd9-d941-4fcc-8874-2ff3c9e96b4a
-   :LAST_REPEAT: [2013-02-04 Mon 20:32]
+   :LAST_REPEAT: [2013-02-06 Wed 19:37]
    :END:
 
 What to review:
