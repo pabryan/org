@@ -840,7 +840,8 @@ MR2948294
    - State "DONE"       from "NEXT"       [2012-12-24 Mon 16:25]
    - State "DONE"       from "NEXT"       [2012-12-05 Wed 19:55]
     :LOGBOOK:
-  CLOCK: [2013-02-06 Wed 19:41]
+  CLOCK: [2013-02-06 Wed 19:45]
+  CLOCK: [2013-02-06 Wed 19:41]--[2013-02-06 Wed 19:44] =>  0:03
   CLOCK: [2013-02-06 Wed 19:39]--[2013-02-06 Wed 19:40] =>  0:01
   CLOCK: [2013-01-08 Tue 14:16]--[2013-01-08 Tue 15:07] =>  0:51
     CLOCK: [2012-12-24 Mon 15:51]--[2012-12-24 Mon 16:25] =>  0:34
@@ -912,3 +913,16 @@ It's in an email.
   :END:
 ** AustMS Professional Development
 [[http://www.austms.org.au/Professional+Development+Unit]]
+** Carl Wieman
+[[http://cwsei.ubc.ca/]]
+
+** UCSD Teaching Development
+[[http://ctd.ucsd.edu]]
+** UCSD Math Teachers
+- Jim Chu
+- Adam Bowers
+** Terms
+Teaching as research
+College classroom
+Scholarship of learning
+Math education
