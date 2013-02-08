@@ -356,7 +356,7 @@ how are they related?
     :PROPERTIES:
     :ID:       b5234c61-d118-45c2-b372-eb8e247c8642
     :END:
-** SOMEDAY Submanifold book
+** SOMEDAY Submanifold book				       :SUBMANIFOLDS:
 [[file:~/working/academic/research/submanifolds_book]]
    :PROPERTIES:
    :ID:       c81850da-1eac-4c94-a963-ab007548b40a
@@ -379,7 +379,7 @@ Variations
 Space-time (how do we choose a connection?)
 Sequences of manifolds and convergence. What is smooth convergence? Can it be defined invariantly?
 
-** TODO alpha CSF distance comparison
+** TODO alpha CSF distance comparison				  :CSF_ALPHA:
    :LOGBOOK:
    CLOCK: [2012-12-18 Tue 15:11]--[2012-12-18 Tue 15:12] =>  0:01
    :END:
@@ -464,7 +464,7 @@ My computations where for the unnomalised flow.
    :END:
 [[file:/home/pbryan/working/academic/research/cmc_stability]]
 
-** TODO csf_networks
+** TODO csf_networks					       :CSF_NETWORKS:
    :PROPERTIES:
    :ID:       1bc93b81-8423-4598-8297-f0b90aa39aa7
    :END:
@@ -520,7 +520,7 @@ CSF plus tangent part. Vertices have 120 degree angles
    :ID:       66603461-6850-4f49-ba50-de184b15be3b
    :END:
 [[file:/home/pbryan/working/academic/research/ricci_degenerate_neck_pinches]]
-** TODO bakry_emery_levy_gromov
+** TODO bakry_emery_levy_gromov			    :LEVY_GROMOV:BAKRY_EMERY:
    :PROPERTIES:
    :ID:       4eb29f73-141b-4ca2-9394-436a9293bdce
    :END:

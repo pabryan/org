@@ -104,10 +104,14 @@ will keep reminding me until it's done.
 **** DONE Learn how to filter org-mode agenda views
      - State "DONE"       from "NEXT"       [2012-11-15 Thu 11:46]
 I want to filter out personal tasks at work for example or show only ucsd and academic tasks
-*** NEXT Filter out someday tasks
+** TODO Filter out someday tasks
     :PROPERTIES:
     :ID:       907b0751-6098-4034-8dc0-0b3c3b75a268
     :END:
+*** NEXT Find out how org-mode traverses trees in agenda search
+    :PROPERTIES:
+    :ID:       b8efe527-39dc-4dd0-9ec7-8fdb61f20934
+    :END: 
 ** DONE Create someday todo for inactive tasks
    - State "DONE"       from "TODO"       [2012-10-29 Mon 10:40]
   CLOCK: [2012-10-26 Fri 15:06]--[2012-10-26 Fri 15:07] =>  0:01
@@ -968,6 +972,8 @@ Does mutt integrate well?
   :END:
 ** Organisation
   :LOGBOOK:
+  CLOCK: [2013-02-08 Fri 10:05]
+  CLOCK: [2013-02-08 Fri 10:04]--[2013-02-08 Fri 10:05] =>  0:01
   CLOCK: [2013-02-08 Fri 08:55]--[2013-02-08 Fri 08:56] =>  0:01
   CLOCK: [2013-02-08 Fri 08:29]--[2013-02-08 Fri 08:30] =>  0:01
   CLOCK: [2013-02-08 Fri 08:28]--[2013-02-08 Fri 08:29] =>  0:01
@@ -1176,7 +1182,7 @@ Does mutt integrate well?
   :CLOCK_MODELINE_TOTAL: today
   :ID:       d1b2e733-536a-4601-93c1-b3a544f11c16
   :END:
-
+   
 * Reviews and Plans
   :PROPERTIES:
   :ID:       c3fc0372-36c9-4bc4-9aac-99a6df0b741d
