@@ -956,6 +956,9 @@ Does mutt integrate well?
 ** TODO Check out freeMcAfee for Uverse
   :LOGBOOK:
   :END:
+   :PROPERTIES:
+   :ID:       5794d450-645c-4b86-893f-7f8b90016372
+   :END:
 [2013-02-08 Fri 08:29]
 
 [[http://e.att-mail.com/a/hBRE8F1B8bmv9B8woKaADAaWc$s/getitnow]]
@@ -965,7 +968,7 @@ Does mutt integrate well?
   :END:
 ** Organisation
   :LOGBOOK:
-  CLOCK: [2013-02-08 Fri 08:29]
+  CLOCK: [2013-02-08 Fri 08:29]--[2013-02-08 Fri 08:30] =>  0:01
   CLOCK: [2013-02-08 Fri 08:28]--[2013-02-08 Fri 08:29] =>  0:01
   CLOCK: [2013-02-08 Fri 08:26]--[2013-02-08 Fri 08:28] =>  0:02
   CLOCK: [2013-02-08 Fri 08:25]--[2013-02-08 Fri 08:26] =>  0:01
