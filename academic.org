@@ -597,7 +597,7 @@ Can I use a non-collapsing type argument?
       :END:
 **** NEXT pdf scraping tool to create bib entries and rename pdf files
      :LOGBOOK:
-     CLOCK: [2013-02-08 Fri 10:10]
+     CLOCK: [2013-02-08 Fri 10:10]--[2013-02-08 Fri 10:49] =>  0:39
      :END:
 This should open pdf's, get doi info and then look up the paper details
 online to get bib type info. Then the paper can be renamed, a bib entry
