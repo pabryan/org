@@ -389,7 +389,7 @@ Use a course as a guinea pig for using the method
        :ID:       166cc4aa-620c-4523-b699-ca2ced33207a
        :END:
 
-***** TODO Lectures
+***** TODO Plan Lectures
       :LOGBOOK:
       :END:
       :PROPERTIES:
@@ -552,6 +552,9 @@ Use a course as a guinea pig for using the method
        :ID:       13df5819-9bc8-4698-ae0b-8e7d40f04291
        :END:
 ******* NEXT Prepare lecture 6-1
+	:LOGBOOK:
+	CLOCK: [2013-02-08 Fri 14:07]
+	:END:
        	:PROPERTIES:
        	:ID:       1ac9cf84-a88c-4ad2-9d5c-2448bf294c1a
        	:END:
