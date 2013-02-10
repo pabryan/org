@@ -9,8 +9,10 @@ I need free close by activities: playground, beach, library?
    :PROPERTIES:
    :ID:       a2050f62-567a-4d73-8f61-255a78d4cd8e
    :END:
-** WAITING Sort out Lily's swimming
+** CANCELLED Sort out Lily's swimming
   DEADLINE: <2013-01-22 Tue> SCHEDULED: <2013-01-22 Tue>
+  - State "CANCELLED"  from "WAITING"    [2013-02-09 Sat 21:44] \\
+    Can't seem to get UCSD rec. to sort it out. Will try again in spring quarter.
   - State "WAITING"    from "WAITING"    [2013-02-01 Fri 15:35] \\
     Called and left message to enrol Lily. Still waiting response.
   - State "WAITING"    from "TODO"       [2013-01-24 Thu 07:25] \\
