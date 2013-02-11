@@ -76,6 +76,7 @@ Geisel Library room 274
 ** NEXT Review Generic MCF I
    SCHEDULED: <2013-02-04 Mon> DEADLINE: <2013-02-28 Thu>
    :LOGBOOK:
+   CLOCK: [2013-02-11 Mon 09:15]--[2013-02-11 Mon 10:15] =>  1:00
    CLOCK: [2013-02-08 Fri 08:57]--[2013-02-08 Fri 09:26] =>  0:29
    CLOCK: [2013-02-06 Wed 21:00]--[2013-02-06 Wed 21:48] =>  0:48
    :END:
@@ -89,6 +90,7 @@ Geisel Library room 274
 ** NEXT Referee space curves CSF dist comp.
    DEADLINE: <2013-04-17 Wed> SCHEDULED: <2013-02-04 Mon>
    :LOGBOOK:
+   CLOCK: [2013-02-11 Mon 10:35]
    CLOCK: [2013-01-30 Wed 10:19]--[2013-01-30 Wed 10:55] =>  0:36
    CLOCK: [2013-01-25 Fri 12:52]--[2013-01-25 Fri 14:06] =>  1:14
    CLOCK: [2013-01-24 Thu 20:47]--[2013-01-24 Thu 21:28] =>  0:41
