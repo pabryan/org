@@ -114,9 +114,12 @@ The paper:
 
 X---- should be rejected
 
-I think the paper should be rejected since the result more or less amounts to saying that $d/l$ is increasing when it's increasing. It is shown that for helices, $d/l$ is increasing which follows from direct computation. In general one does not expect to be able to say much about the ratio $d/l$ for space curves, since for example, embeddedness may be lost under the curve shortening flow, in which case $d/l$ decreases at some point and time. 
+Unfortunately, I think the paper should be rejected since the main result is essentially vacuous. In the paper, the computation in $\RR^3$ is much the same as Huisken's computation in $\RR^2$ on which the paper is based. This is a computation of the evolution of the ratio $d/l$ under the curve shortening flow. In $3$ dimensions, some terms that cancel in $2$ dimensions ($<w,e_1+e_2>$ and $|e_1+e_2|^2$) do not cancel. What's more, by Cauchy-Schwartz, these terms are negative when we want them to be positive. There is also leftover an $\int k^2$ term which is positive. The main theorem the author "proves" is that if it just so happens that these terms are non-negative, then of course $\frac{d}{dt} d/l$ is non-negative. The author does not give any conditions for when this may be true, nor any indication of whether it being true at some time, necessarily implies it will be true at a later time (which is almost certainly false anyway).
 
-In the paper, the computation in $\RR^3$ is much the same as Huisken's computation in $\RR^2$. In $3$ dimensions however, some terms that cancel in $2$ dimensions ($<w,e_1+e_2>$ and $|e_1+e_2|^2$) do not cancel. What's more, by Cauchy-Schwartz, these terms are negative when we want them to be positive. There is also leftover an $\int k^2$ term which is positive. The main theorem the author "proves" is that if it just so happens that these terms are non-negative, then of course $\frac{d}{dt} d/l$ is non-negative. The author does not give any conditions for when this may be true, nor any indication of whether it being true at some time, necessarily implies it will be true at a later time (which is almost certainly false anyway).
+
+
+more or less amounts to saying that $d/l$ is increasing when it's increasing. It is shown that for helices, $d/l$ is increasing which follows from direct computation. In general one does not expect to be able to say much about the ratio $d/l$ for space curves, since for example, embeddedness may be lost under the curve shortening flow, in which case $d/l$ decreases at some point and time. 
+
 
 The author does show the positivity of these terms for the helix depends on the pitch, but then goes on to directly show that in any case, $d/l$ is increasing. This is just simple computation and not particularly interesting and certainly not suitable for a research journal.
 
