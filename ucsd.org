@@ -561,7 +561,12 @@ Use a course as a guinea pig for using the method
        	:PROPERTIES:
        	:ID:       1ac9cf84-a88c-4ad2-9d5c-2448bf294c1a
        	:END:
-******* NEXT Prepare lecture 6-2
+******* DONE Prepare lecture 6-2
+	- State "DONE"       from "NEXT"       [2013-02-12 Tue 21:51]
+	:LOGBOOK:
+	CLOCK: [2013-02-12 Tue 21:15]--[2013-02-12 Tue 21:45] =>  0:30
+	CLOCK: [2013-02-12 Tue 08:25]--[2013-02-12 Tue 09:05] =>  0:40
+	:END:
        	:PROPERTIES:
        	:ID:       ec955558-0d0a-46cf-8c64-37e330fb619b
        	:END:
