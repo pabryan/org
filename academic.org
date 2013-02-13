@@ -90,8 +90,10 @@ Geisel Library room 274
 ** NEXT Referee space curves CSF dist comp.
    DEADLINE: <2013-04-17 Wed> SCHEDULED: <2013-02-04 Mon>
    :LOGBOOK:
-   CLOCK: [2013-02-13 Wed 10:35]
-   CLOCK: [2013-02-13 Wed 10:05]--[2013-02-13 Wed 10:10]
+   CLOCK: [2013-02-13 Wed 13:02]
+   CLOCK: [2013-02-13 Wed 12:45]--[2013-02-13 Wed 13:00] =>  0:15
+   CLOCK: [2013-02-13 Wed 10:35]--[2013-02-13 Wed 10:55] =>  0:20
+   CLOCK: [2013-02-13 Wed 10:05]--[2013-02-13 Wed 13:00] =>  2:55
    CLOCK: [2013-02-11 Mon 10:35]--[2013-02-11 Mon 10:55] =>  0:20
    CLOCK: [2013-01-30 Wed 10:19]--[2013-01-30 Wed 10:55] =>  0:36
    CLOCK: [2013-01-25 Fri 12:52]--[2013-01-25 Fri 14:06] =>  1:14
@@ -126,11 +128,15 @@ precisely as in Huisken's paper where $e_1,e_2$ are the unit tangents at $p_0$ a
 
 In $2$ dimensions ($<w,e_1+e_2>$ and $|e_1+e_2|^2$) cancel and the result follows. In $3$ dimensions this no longer generally true and what's more, by Cauchy-Schwartz, these terms are negative. So $d/l$ will be positive precisely when the integral of curvature term dominates these two. The author does not give any indication of when this may or may not be true, nor say for instance that if it's true at time $t_0$ then it's true for $t>t_0$ which I think could be a useful result, but it's almost certainly not true!
 
-Another part of the paper is devoted to studying the helix. The author shows, by direct computation and the assitance of matalb that when the pitch of the helix is small, the right hand side above is negative and that when it is sufficiently large it is positive. This is routine, elementary calculation and not suitable for publication in a research journal (unless the paper had something worthwhile). In any event, the author shows that $d/l$ always increases for the helix (we discarded some terms in the inequality above), which again is by elementary, routine calculation.
+Another part of the paper is devoted to studying the helix. The author shows, by direct computation and the assitance of matalb that when the pitch of the helix is small, the right hand side above is negative and that when it is sufficiently large it is positive. Thus there are cases where distance comparison may fail, but we already knew that. This is routine, elementary calculation and not suitable for publication in a research journal (unless the paper had something else worthwhile). In any event, the author shows that $d/l$ always increases for the helix (we discarded some terms in the inequality above), which again is by elementary, routine calculation.
 
-The last two pages contain an interesting, rather simple result. That is, that space curves initially lying on the unit sphere, remain on the sphere of radius $\sqrt{t}$. By rescaling so that the curve remains on the unit sphere, and after suitably rescaling time, one obtains a solution of curve shortening flow on the sphere. This is quite simple to derive and although I was unaware of this result, it must surely be known. It is 
+The last two pages contain an interesting, rather simple result. That is, that space curves initially lying on the unit sphere, remain on the sphere of radius $\sqrt{t}$. By rescaling so that the curve remains on the unit sphere, and after suitably rescaling time, one obtains a solution of curve shortening flow on the sphere. This is quite simple to derive and although I was unaware of this result, it must surely be known as simple as it is. The author goes on to conlude a Grayson-type theorem, that the curve in $\RR^3$ collapses to a round point. The proof is by using the result for curves on $S^2$ that they either collapse to a round point or approach a geodesic (which is of course round). The problem here is that the author doesn't discuss whether the shrinking sphere can collapse before the corresponding curve on $S^2$ converges, which would mean that the space collapses to a non-round point. I think this is probably simple enough, but no mention of this possibility is made.
+
+In any event, this latter result takes only 2 pages and is quite straightforward, again not publishable on it's own. However, personally I think this latter result has the most merit and could lead to some interesting research. I indicate a few quick thoughts in my comments for the author.
 
 
+*** Comments for the author
+The main theorems concerning $d/l$ improving at a minima are not particularly useful given they are essentially vaccuous. 
 * Research
   :PROPERTIES:
   :ID:       44348474-b144-4b4b-a046-12439b2f7727
