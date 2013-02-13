@@ -116,18 +116,20 @@ The paper:
 
 X---- should be rejected
 
-Unfortunately, I think the paper should be rejected since the main result is essentially vacuous. In the paper, the computation in $\RR^3$ is much the same as Huisken's computation in $\RR^2$ on which the paper is based. This is a computation of the evolution of the ratio $d/l$ under the curve shortening flow. The computation gives
+Unfortunately, I think the paper should be rejected since the main result is essentially vacuous. What's more, the author seeks to find cases where $d/l$ is increasing for space curves. In general, we do not expect this to be true; embedded space curves can cross, at which point $d/l$ is $0$ and hence must have been decreasing at some point. The author does not give any conditions for when we might expect $d/l$ to be increasing, except for the obvious vaccuous condition:
+
+In the paper, the computation in $\RR^3$ is much the same as Huisken's computation in $\RR^2$ on which the paper is based. This is a computation of the evolution of the ratio $d/l$ under the curve shortening flow where $d$ is the extrinsic distance in $\RR^3$ and $l$ the intrinsic distance on the curve. The computation gives, at minima $(p_0, q_0)$ of $d/l$ at time $t_0$,
 \[
-\frac{d}{dt} (d/l) \geq 
+\frac{d}{dt} (d/l) \geq -|e_1+e_2|^2 +\langle e_1+e_2, w\rangle + \frac{d^2}{l^2} \left(\int_{\gamma_{t_0}} k ds_{t_0}\right)^2
+\]
+precisely as in Huisken's paper where $e_1,e_2$ are the unit tangents at $p_0$ and $q_0$ respectively and $w$ is the unit vector pointing from $p_0$ to $q_0$. The main theorem is then simply that if this is positive, then $d/l$ is increasing at $(p_0,q_0)$ at time $t_0$. As I say, a vaccuous statment.
 
-In $3$ dimensions, some terms that cancel in $2$ dimensions ($<w,e_1+e_2>$ and $|e_1+e_2|^2$) do not cancel. What's more, by Cauchy-Schwartz, these terms are negative when we want them to be positive. There is also leftover an $\int k^2$ term which is positive. The main theorem the author "proves" is that if it just so happens that these terms are non-negative, then of course $\frac{d}{dt} d/l$ is non-negative. The author does not give any conditions for when this may be true, nor any indication of whether it being true at some time, necessarily implies it will be true at a later time (which is almost certainly false anyway).
+In $2$ dimensions ($<w,e_1+e_2>$ and $|e_1+e_2|^2$) cancel and the result follows. In $3$ dimensions this no longer generally true and what's more, by Cauchy-Schwartz, these terms are negative. So $d/l$ will be positive precisely when the integral of curvature term dominates these two. The author does not give any indication of when this may or may not be true, nor say for instance that if it's true at time $t_0$ then it's true for $t>t_0$ which I think could be a useful result, but it's almost certainly not true!
 
+Another part of the paper is devoted to studying the helix. The author shows, by direct computation and the assitance of matalb that when the pitch of the helix is small, the right hand side above is negative and that when it is sufficiently large it is positive. This is routine, elementary calculation and not suitable for publication in a research journal (unless the paper had something worthwhile). In any event, the author shows that $d/l$ always increases for the helix (we discarded some terms in the inequality above), which again is by elementary, routine calculation.
 
+The last two pages contain an interesting, rather simple result. That is, that space curves initially lying on the unit sphere, remain on the sphere of radius $\sqrt{t}$. By rescaling so that the curve remains on the unit sphere, and after suitably rescaling time, one obtains a solution of curve shortening flow on the sphere. This is quite simple to derive and although I was unaware of this result, it must surely be known. It is 
 
-more or less amounts to saying that $d/l$ is increasing when it's increasing. It is shown that for helices, $d/l$ is increasing which follows from direct computation. In general one does not expect to be able to say much about the ratio $d/l$ for space curves, since for example, embeddedness may be lost under the curve shortening flow, in which case $d/l$ decreases at some point and time. 
-
-
-The author does show the positivity of these terms for the helix depends on the pitch, but then goes on to directly show that in any case, $d/l$ is increasing. This is just simple computation and not particularly interesting and certainly not suitable for a research journal.
 
 * Research
   :PROPERTIES:
