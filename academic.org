@@ -90,7 +90,8 @@ Geisel Library room 274
 ** NEXT Referee space curves CSF dist comp.
    DEADLINE: <2013-04-17 Wed> SCHEDULED: <2013-02-04 Mon>
    :LOGBOOK:
-   CLOCK: [2013-02-13 Wed 13:02]
+   CLOCK: [2013-02-13 Wed 13:39]
+   CLOCK: [2013-02-13 Wed 13:02]--[2013-02-13 Wed 13:31] =>  0:29
    CLOCK: [2013-02-13 Wed 12:45]--[2013-02-13 Wed 13:00] =>  0:15
    CLOCK: [2013-02-13 Wed 10:35]--[2013-02-13 Wed 10:55] =>  0:20
    CLOCK: [2013-02-13 Wed 10:05]--[2013-02-13 Wed 13:00] =>  2:55
@@ -136,7 +137,23 @@ In any event, this latter result takes only 2 pages and is quite straightforward
 
 
 *** Comments for the author
-The main theorems concerning $d/l$ improving at a minima are not particularly useful given they are essentially vaccuous. 
+The main theorems concerning $d/l$ improving at a minima are not particularly useful given they are essentially vaccuous. Theorem 2.2 for instance simply follows the same computation as Huisken's but in your case the required terms don't cancel, and by Cauchy-Schwartz are in fact negative when non-zero. Just stating that if they are positive then $d/l$ improves is not particularly useful, and I say is essentially vaccuous.
+
+If you could modify $Z=d/l$ by adding some terms to obtain something that does improve, then perhaps this could be useful Keep in  mind, that having some quantity $Z$ improving is in itself not interesting. It is what you can then do with this that is important, e.g. by proving the Gage-Hamilton-Grayson theorem. With this in mind, I don't think your approach will produce any useful results because in general we know $d/l$ will not improve (for example by losing embeddedness) and because singularities can arise. These situations must somehow be handled or ruled out of consideration. There are however, perhaps some interesting questions in this direction: 
+
+1. By comparing with some suitable comparison solution/function that you do understand, can you obtain results like the Gage-Hamilton-Grayson theorem or the Abresch-Langer classification of limiting shapes? Note again that such a theorem must be able to handle all the known phenoma of CSF for space curves. 
+
+2. Alternatively, such a theorem could apply to a restricted class of space curves; for instance, it does apply to plane curves by Huisken's result. So, can you find an interesting class of curves for which the terms in Thm 2.2 are non-negative? For instance, does a bound on $\kappa/\tor$ (like in the Helix case) lead to improvement of $d/l$?
+
+If you could answer question 2, then the helix example may be good to include in a future paper as illustation of this type of behaviour. On it's own, while an interesting example, it is not suitable for a research paper.
+
+I did find the correspondence between spatial CSF starting on a sphere with CSF on the sphere interesting. I have a question about concluding a Gage-Hamilton-Grayson type result for this situation: could the shrinking sphere collapse before the corresponding flow on the unit sphere converges to a point/geodesic? If that happens, then you won't get a round point. 
+
+The result for curves on spheres, though interesting, is probably not suitable for research publication. It is quite straightforward to prove and doesn't use any new techniques. Something that may be interesting would be to use the correspondence to study CSF on $S^2$ itself. Can you use the correspondence for instance, to prove the Gage-Hamilton-Grayson theorem on $S^2$? Can you use distance comparison in this case?
+
+In another direction, suppose you have a family of surfaces in $\RR^3$ flowing by mean curvature flow (or some other geometric flow) and take a family of curves lying on the surface. These evolve along with the family of surfaces. Can you add a part tangential to the surface, but normal to the curve to obtain any useful geometric flow? Can you conclude anything useful about curve flows on surfaces from this point of view? Or, can you conclude anything useful about mean curvature flow of surfaces using the curve flow? What happens in higher dimensions?
+
+
 * Research
   :PROPERTIES:
   :ID:       44348474-b144-4b4b-a046-12439b2f7727
