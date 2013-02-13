@@ -972,6 +972,8 @@ Does mutt integrate well?
   :END:
 ** Organisation
   :LOGBOOK:
+  CLOCK: [2013-02-13 Wed 09:57]
+  CLOCK: [2013-02-13 Wed 09:49]--[2013-02-13 Wed 09:53] =>  0:04
   CLOCK: [2013-02-11 Mon 12:00]--[2013-02-11 Mon 12:08] =>  0:08
   CLOCK: [2013-02-11 Mon 10:55]--[2013-02-11 Mon 10:56] =>  0:01
   CLOCK: [2013-02-11 Mon 10:34]--[2013-02-11 Mon 10:35] =>  0:01
@@ -1236,7 +1238,8 @@ For the following, do I just use the existing diary.org capture template or perh
 - [ ] Write down any thoughts, relections on the day.
 
 ** NEXT Daily Plan
-   SCHEDULED: <2013-02-09 Sat .+1d/2d>
+   SCHEDULED: <2013-02-14 Thu .+1d/2d>
+   - State "DONE"       from "NEXT"       [2013-02-13 Wed 09:57]
    - State "DONE"       from "NEXT"       [2013-02-08 Fri 08:18]
    - State "DONE"       from "NEXT"       [2013-02-06 Wed 07:29]
    - State "DONE"       from "NEXT"       [2013-02-05 Tue 13:18]
@@ -1252,6 +1255,7 @@ For the following, do I just use the existing diary.org capture template or perh
    - State "DONE"       from "NEXT"       [2013-01-10 Thu 09:22]
    - State "DONE"       from "NEXT"       [2013-01-09 Wed 07:19]
    :LOGBOOK:
+   CLOCK: [2013-02-13 Wed 09:53]--[2013-02-13 Wed 09:57] =>  0:04
    CLOCK: [2013-02-11 Mon 08:41]--[2013-02-11 Mon 08:55] =>  0:14
    CLOCK: [2013-02-08 Fri 08:14]--[2013-02-08 Fri 08:18] =>  0:04
    CLOCK: [2013-02-06 Wed 07:28]--[2013-02-06 Wed 07:29] =>  0:01
@@ -1273,7 +1277,7 @@ For the following, do I just use the existing diary.org capture template or perh
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
    :ID:       ef051ee0-1113-4604-b355-450a5a47848b
-   :LAST_REPEAT: [2013-02-08 Fri 08:18]
+   :LAST_REPEAT: [2013-02-13 Wed 09:57]
    :END:
 
 Set tasks in [[file:plans/today.org]].

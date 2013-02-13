@@ -8,7 +8,8 @@
 
 ** Tracking
 *** NEXT No Intensity
-    SCHEDULED: <2013-02-16 Sat .+4d/5d>
+    SCHEDULED: <2013-02-17 Sun .+4d/5d>
+    - State "DONE"       from "NEXT"       [2013-02-13 Wed 09:58]
     - State "DONE"       from "NEXT"       [2013-02-12 Tue 21:50]
     - State "DONE"       from "NEXT"       [2013-02-11 Mon 08:40]
     - State "DONE"       from "NEXT"       [2013-02-10 Sun 19:23]
@@ -32,6 +33,7 @@
     - State "DONE"       from "TODO"       [2012-11-14 Wed 11:16]
 
     :LOGBOOK:
+    CLOCK: [2013-02-13 Wed 07:20]--[2013-02-13 Wed 07:35] =>  0:15
     CLOCK: [2013-02-12 Tue 07:45]--[2013-02-12 Tue 08:05] =>  0:20
     CLOCK: [2013-02-11 Mon 08:00]--[2013-02-11 Mon 08:17] =>  0:16
     CLOCK: [2013-02-10 Sun 07:56]--[2013-02-10 Sun 08:26] =>  0:30
@@ -50,7 +52,7 @@
     :PROPERTIES:
 :STYLE: habit
 :REPEAT_TO_STATE: NEXT
-    :LAST_REPEAT: [2013-02-12 Tue 21:50]
+    :LAST_REPEAT: [2013-02-13 Wed 09:58]
 :ID: e38c9566-fca4-46e5-bf5f-a6c98c63f9f2
 :END:
     
