@@ -1062,8 +1062,9 @@ Window 30
 Location: 4375 DERRICK DR SAN DIEGO, CA
 Catch the 41. Get off at Derrik Dr. after Claremont Mesa and before Balboa.
 
-** TODO Send Del Sol office car insurance details
+** DONE Send Del Sol office car insurance details
   SCHEDULED: <2013-02-14 Thu>
+  - State "DONE"       from "TODO"       [2013-02-14 Thu 15:25]
   :LOGBOOK:
   :END:
    :PROPERTIES:
