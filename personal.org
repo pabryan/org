@@ -884,8 +884,9 @@ Bath and toilet clogged. Need light globes.
    :END:
 [2013-01-03 Thu 18:51]
 513 516 9398
-** TODO Sort out license!
+** DONE Sort out license!
   SCHEDULED: <2013-02-13 Wed> DEADLINE: <2013-02-13 Wed>
+  - State "DONE"       from "TODO"       [2013-02-14 Thu 11:53]
   :LOGBOOK:
   :END:
    :PROPERTIES:
