@@ -228,6 +228,9 @@ MATLAB is homework.
 
 ****** NEXT Write Midterm 2
        SCHEDULED: <2013-02-11 Mon>
+       :LOGBOOK:
+       CLOCK: [2013-02-15 Fri 13:19]--[2013-02-15 Fri 13:24] =>  0:05
+       :END:
 
        DEADLINE: <2013-02-18 Mon>
        :PROPERTIES:
@@ -405,6 +408,7 @@ MATLAB is homework.
 
 ***** TODO Plan Lectures
       :LOGBOOK:
+      CLOCK: [2013-02-15 Fri 13:18]--[2013-02-15 Fri 13:19] =>  0:01
       :END:
       :PROPERTIES:
       :ID:       cb6490d4-44bd-4622-8b1e-b0c7233b53e2
@@ -594,7 +598,7 @@ MATLAB is homework.
 ****** TODO Week 7 Lectures
        DEADLINE: <2013-02-17 Sun> SCHEDULED: <2013-02-11 Mon>
        :LOGBOOK:
-       CLOCK: [2013-02-15 Fri 12:53]
+       CLOCK: [2013-02-15 Fri 12:53]--[2013-02-15 Fri 13:18] =>  0:25
        :END:
        :PROPERTIES:
        :ID:       b6cce85d-073b-47ff-87e3-b321ac9c9173
