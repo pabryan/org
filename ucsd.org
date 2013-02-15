@@ -50,6 +50,10 @@ use org-mode to write content, css to render
   :CATEGORY: Teaching
   :ID:       f63ebcdd-e3a9-40ec-8e3d-616bac271988
   :END:
+** Teaching Pondering
+   :LOGBOOK:
+   CLOCK: [2013-02-15 Fri 10:05]--[2013-02-15 Fri 10:28] =>  0:23
+   :END:
 ** Grading scale
 |  Score | Grade |
 |--------+-------|
@@ -867,6 +871,15 @@ Explain $\RR^{n+1}$.
        :ID:       7b2ba264-2d7d-42ff-9a5a-842e796ac4ef
        :END:
 
+**** DONE Evaluate Bo
+   - State "DONE"       from "TODO"       [2013-01-08 Tue 08:27]
+  :LOGBOOK:
+  :END:
+   :PROPERTIES:
+   :ID:       6e30a837-bbbb-4d32-9c4f-f1557003ac13
+   :END:
+[2012-12-21 Fri 11:51]
+
 **** DONE Enter grades
     DEADLINE: <2012-12-18 Tue> SCHEDULED: <2012-12-10 Mon>
     - State "DONE"       from "NEXT"       [2012-12-14 Fri 11:52]
@@ -1118,7 +1131,14 @@ Update this based on Bo's comments.
    :END:
 [2012-12-17 Mon 13:55]
 
-** Classroom Technology Training Session
+** Professional Development
+*** TODO Check out Center for Teaching Development
+    :PROPERTIES:
+    :ID:       e39d0993-4080-4a63-913f-5de2f515f9bc
+    :END:
+[[http://ctd.ucsd.edu/]]
+
+*** Classroom Technology Training Session
    :LOGBOOK:
    CLOCK: [2013-01-04 Fri 10:00]--[2013-01-04 Fri 15:30] =>  5:30
    :END:
@@ -1127,22 +1147,6 @@ Update this based on Bo's comments.
    :ID:       08426a42-e2ed-4a58-bd9b-62d687b30b6b
    :END:
 <2013-01-04 Fri 10:00-14:00>
-** DONE Evaluate Bo
-   - State "DONE"       from "TODO"       [2013-01-08 Tue 08:27]
-  :LOGBOOK:
-  :END:
-   :PROPERTIES:
-   :ID:       6e30a837-bbbb-4d32-9c4f-f1557003ac13
-   :END:
-[2012-12-21 Fri 11:51]
-
-** Proffesional Development
-*** TODO Check out Center for Teaching Development
-    :PROPERTIES:
-    :ID:       e39d0993-4080-4a63-913f-5de2f515f9bc
-    :END:
-[[http://ctd.ucsd.edu/]]
-
 * Seminars							    :SEMINAR:
   :PROPERTIES:
   :ID:       4a7b50f0-8368-4d3a-bc5d-c0e229fd442f
