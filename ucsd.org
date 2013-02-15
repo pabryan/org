@@ -106,6 +106,11 @@ Use a course as a guinea pig for using the method
     :PROPERTIES:
     :ID:       01742e1a-c15f-4aab-ada0-59725c2e73e4
     :END:
+**** Notes
+***** Prerequisites
+Student's have not done linear algebra yet so systems are tricky. However, on the $2x2$ case is needed.
+***** MATLAB
+MATLAB is homework.
 **** NEXT Set up course
      SCHEDULED: <2013-03-04 Mon> DEADLINE: <2013-03-25 Mon>
      :PROPERTIES:
@@ -555,8 +560,9 @@ Use a course as a guinea pig for using the method
        	:PROPERTIES:
        	:ID:       5a93b1cc-4a21-4077-898d-9a80ce4454f3
        	:END:
-****** TODO Week 6 Lectures
+****** DONE Week 6 Lectures
        DEADLINE: <2013-02-10 Sun> SCHEDULED: <2013-02-04 Mon>
+       - State "DONE"       from "TODO"       [2013-02-15 Fri 12:53]
        :PROPERTIES:
        :ID:       13df5819-9bc8-4698-ae0b-8e7d40f04291
        :END:
@@ -577,12 +583,19 @@ Use a course as a guinea pig for using the method
        	:PROPERTIES:
        	:ID:       ec955558-0d0a-46cf-8c64-37e330fb619b
        	:END:
-******* NEXT Prepare lecture 6-3
+******* DONE Prepare lecture 6-3
+	- State "DONE"       from "NEXT"       [2013-02-15 Fri 12:51]
+	:LOGBOOK:
+	CLOCK: [2013-02-15 Fri 21:40]--[2013-02-15 Fri 22:45] =>  1:05
+	:END:
        	:PROPERTIES:
        	:ID:       cdd0f5ba-382d-4c8d-86af-7ab673ef2c77
        	:END:
 ****** TODO Week 7 Lectures
        DEADLINE: <2013-02-17 Sun> SCHEDULED: <2013-02-11 Mon>
+       :LOGBOOK:
+       CLOCK: [2013-02-15 Fri 12:53]
+       :END:
        :PROPERTIES:
        :ID:       b6cce85d-073b-47ff-87e3-b321ac9c9173
        :END:
