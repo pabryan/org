@@ -966,12 +966,22 @@ Does mutt integrate well?
 [2013-02-08 Fri 08:29]
 
 [[http://e.att-mail.com/a/hBRE8F1B8bmv9B8woKaADAaWc$s/getitnow]]
+** TODO Fix up work TeX setup
+  :LOGBOOK:
+  CLOCK: [2013-02-15 Fri 10:34]--[2013-02-15 Fri 10:35] =>  0:01
+  :END:
+   :PROPERTIES:
+   :ID:       07ad15b9-5571-4300-b577-8bcffc0e626c
+   :END:
+[2013-02-15 Fri 10:34]
+I need to have my macros available.
 * Tasks
   :PROPERTIES:
   :ID:       4257fe31-e606-4ca9-a848-858379409679
   :END:
 ** Organisation
   :LOGBOOK:
+  CLOCK: [2013-02-15 Fri 10:43]--[2013-02-15 Fri 10:44] =>  0:01
   CLOCK: [2013-02-15 Fri 10:32]--[2013-02-15 Fri 10:33] =>  0:01
   CLOCK: [2013-02-15 Fri 10:28]--[2013-02-15 Fri 10:30] =>  0:02
   CLOCK: [2013-02-15 Fri 10:00]--[2013-02-15 Fri 10:05] =>  0:05
