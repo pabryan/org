@@ -92,7 +92,7 @@ will keep reminding me until it's done.
     :PROPERTIES:
     :ID:       c69116a8-6655-4429-bbac-73a314ef2967
     :END:
-*** TODO sync with google calendar
+*** NEXT sync with google calendar
     :PROPERTIES:
     :ID:       f1a7f408-27b3-44ab-b0f2-73ec079976df
     :END:
@@ -1217,7 +1217,8 @@ I need to have my macros available.
 Here I look at my goals, my tasks and how I've been spending my time and use that information to plan out the coming week/month/year etc.
 Maybe I should also have work and personal reviews, including reviewing my health scores.
 ** NEXT Daily Review [0/3]
-   SCHEDULED: <2013-02-13 Wed .+1d/2d>
+   SCHEDULED: <2013-02-16 Sat .+1d/2d>
+   - State "DONE"       from "NEXT"       [2013-02-15 Fri 19:29]
    - State "DONE"       from "NEXT"       [2013-02-12 Tue 21:59]
    - State "DONE"       from "NEXT"       [2013-02-06 Wed 19:37]
    - State "DONE"       from "NEXT"       [2013-02-04 Mon 20:32]
@@ -1227,6 +1228,7 @@ Maybe I should also have work and personal reviews, including reviewing my healt
    - State "DONE"       from "NEXT"       [2013-01-23 Wed 19:25]
    - State "DONE"       from "NEXT"       [2013-01-14 Mon 17:43]
    :LOGBOOK:
+   CLOCK: [2013-02-15 Fri 19:27]--[2013-02-15 Fri 19:29] =>  0:02
    CLOCK: [2013-02-06 Wed 19:36]--[2013-02-06 Wed 19:37] =>  0:01
    CLOCK: [2013-02-04 Mon 20:31]--[2013-02-04 Mon 20:32] =>  0:01
    CLOCK: [2013-01-30 Wed 19:43]--[2013-01-30 Wed 19:51] =>  0:08
@@ -1241,7 +1243,7 @@ Maybe I should also have work and personal reviews, including reviewing my healt
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
    :ID:       616c5bd9-d941-4fcc-8874-2ff3c9e96b4a
-   :LAST_REPEAT: [2013-02-12 Tue 21:59]
+   :LAST_REPEAT: [2013-02-15 Fri 19:29]
    :END:
 
 What to review:
@@ -1257,7 +1259,8 @@ For the following, do I just use the existing diary.org capture template or perh
 - [ ] Write down any thoughts, relections on the day.
 
 ** NEXT Daily Plan
-   SCHEDULED: <2013-02-14 Thu .+1d/2d>
+   SCHEDULED: <2013-02-16 Sat .+1d/2d>
+   - State "DONE"       from "NEXT"       [2013-02-15 Fri 19:26]
    - State "DONE"       from "NEXT"       [2013-02-13 Wed 09:57]
    - State "DONE"       from "NEXT"       [2013-02-08 Fri 08:18]
    - State "DONE"       from "NEXT"       [2013-02-06 Wed 07:29]
@@ -1296,7 +1299,7 @@ For the following, do I just use the existing diary.org capture template or perh
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
    :ID:       ef051ee0-1113-4604-b355-450a5a47848b
-   :LAST_REPEAT: [2013-02-13 Wed 09:57]
+   :LAST_REPEAT: [2013-02-15 Fri 19:26]
    :END:
 
 Set tasks in [[file:plans/today.org]].
