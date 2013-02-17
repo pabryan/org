@@ -119,7 +119,8 @@
 :END:
 
 *** NEXT Mod Intensity
-    SCHEDULED: <2013-02-16 Sat .+4d/5d>
+    SCHEDULED: <2013-02-20 Wed .+4d/5d>
+    - State "DONE"       from "NEXT"       [2013-02-16 Sat 20:07]
     - State "DONE"       from "NEXT"       [2013-02-06 Wed 19:39]
     - State "DONE"       from "NEXT"       [2013-02-02 Sat 07:28]
     - State "DONE"       from "NEXT"       [2013-01-29 Tue 07:41]
@@ -139,6 +140,7 @@
     - State "DONE"       from "NEXT"       [2012-11-21 Wed 17:05]
     - State "DONE"       from "NEXT"       [2012-11-17 Sat 10:58]
     :LOGBOOK:
+    CLOCK: [2013-02-16 Sat 11:32]--[2013-02-16 Sat 12:18] =>  0:45
     CLOCK: [2013-02-02 Sat 10:30]--[2013-02-02 Sat 11:20] =>  0:50
     CLOCK: [2013-01-29 Tue 07:17]--[2013-01-29 Tue 07:50] =>  0:32
     CLOCK: [2012-12-28 Fri 11:12]--[2012-12-28 Fri 11:41] =>  0:29
@@ -154,7 +156,7 @@
 :STYLE: habit
 :REPEAT_TO_STATE: NEXT
 :ID: 2fd02d93-9376-4172-b361-0e865b293007
-:LAST_REPEAT: [2013-02-06 Wed 19:39]
+:LAST_REPEAT: [2013-02-16 Sat 20:07]
 :END:
 *** NEXT High Intensity
     SCHEDULED: <2013-02-17 Sun .+4d/5d>
@@ -505,6 +507,18 @@ Do as many sets as possible in 20 mins.
 
 **** Level 2 Templaes
 **** Level 3 Templates
+*** Intuflow + Convict Conditioning + Thrive Flow
+- Intuflow
+- X-Tension
+- Be Breathed
+- Quad Hops
+- Convict Condtioning
+  Alternate
+  - Push Ups
+  - Leg Raises
+  with
+  - Pull ups
+  - Squats
 ** Log
 *** Progress
     :PROPERTIES:

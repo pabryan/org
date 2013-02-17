@@ -614,10 +614,19 @@ MATLAB is homework.
        	:END:
 ******* DONE Prepare lecture 7-2
 	- State "DONE"       from "NEXT"       [2013-02-16 Sat 19:36]
+	:LOGBOOK:
+	CLOCK: [2013-02-16 Sat 14:00]--[2013-02-16 Sat 14:35] =>  0:35
+	CLOCK: [2013-02-16 Sat 10:30]--[2013-02-16 Sat 11:15] =>  0:45
+	:END:
+
        	:PROPERTIES:
        	:ID:       f9a8188c-2c84-4c0a-95b4-68fa0b6390c4
        	:END:
 ******* NEXT Prepare lecture 7-3
+	:LOGBOOK:
+	CLOCK: [2013-02-16 Sat 14:35]--[2013-02-16 Sat 15:00] =>  0:25
+	:END:
+
        	:PROPERTIES:
        	:ID:       47d24ed2-c63f-4193-a0bb-d76f33fb577e
        	:END:
