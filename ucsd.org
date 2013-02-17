@@ -283,8 +283,9 @@ MATLAB is homework.
        :ID:       d6a0375a-2e8b-40c1-a9d3-8cd8d9aa37e2
        :END:
 
-****** NEXT Set Homework 4
+****** DONE Set Homework 4
        SCHEDULED: <2013-02-11 Mon>
+       - State "DONE"       from "NEXT"       [2013-02-16 Sat 19:52]
        DEADLINE: <2013-02-15 Fri>
        :LOGBOOK:
        CLOCK: [2013-02-15 Fri 19:31]--[2013-02-15 Fri 19:42] =>  0:11
