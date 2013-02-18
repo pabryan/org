@@ -59,7 +59,7 @@
 :END:
     
 *** NEXT Low Intensity
-    SCHEDULED: <2013-02-18 Mon .+4d/5d>
+    SCHEDULED: <2013-02-19 Tue .+4d/5d>
     - State "DONE"       from "NEXT"       [2013-02-13 Wed 10:58]
     - State "DONE"       from "NEXT"       [2013-02-11 Mon 21:25]
     - State "DONE"       from "NEXT"       [2013-02-10 Sun 21:25]
