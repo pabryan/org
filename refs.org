@@ -74,6 +74,12 @@
 :END:
 [[papers:MR906392][MR906392-paper]]
 [[bib:MR906392][MR906392-bib]]
+***** The normalized curve shortening flow and homothetic solutions
+:PROPERTIES:
+:Custom_ID: MR845704
+:END:
+[[papers:MR845704][MR845704-paper]]
+[[bib:MR845704][MR845704-bib]]
 *** 53C (1973-now) Global differential geometry [See also 51H25, 58-XX; for related bundle theory, see 55Rxx, 57Rxx]
 **** 53CXX
 ***** Existence of isoperimetric regions in contact sub-{R}iemannian manifolds
