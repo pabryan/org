@@ -60,6 +60,20 @@
 :Custom_ID: MR764944
 :END:
 [[papers:MR764944][MR764944-paper]]
+**** 53A04   (1980-now) Curves in Euclidean space
+***** The heat equation shrinking convex plane curves
+:PROPERTIES:
+:Custom_ID: MR840401
+:END:
+[[papers:MR840401][MR840401-paper]]
+[[bib:MR840401][MR840401-bib]]
+
+***** The heat equation shrinks embedded plane curves to round points
+:PROPERTIES:
+:Custom_ID: MR906392
+:END:
+[[papers:MR906392][MR906392-paper]]
+[[bib:MR906392][MR906392-bib]]
 *** 53C (1973-now) Global differential geometry [See also 51H25, 58-XX; for related bundle theory, see 55Rxx, 57Rxx]
 **** 53CXX
 ***** Existence of isoperimetric regions in contact sub-{R}iemannian manifolds
@@ -157,6 +171,13 @@
 [[papers:MR2794630][MR2794630-paper]]
 ** 58 (1973-now) Global analysis, analysis on manifolds [See also 32Cxx, 32Fxx, 32Wxx, 46-XX, 47Hxx, 53Cxx] [For geometric integration theory, see 49Q15]
 *** 58E   (1973-now) Variational problems in infinite-dimensional spaces
+**** 58E10   (1973-now) Applications to the theory of geodesics (problems in one independent variable)
+***** A distance comparison principle for evolving curves
+:PROPERTIES:
+:Custom_ID: MR1656553
+:END:
+[[papers:MR1656553][MR1656553-paper]]
+[[bib:MR1656553][MR1656553-bib]]
 **** 58E12   (1980-now) Applications to minimal surfaces (problems in two independent variables) [See also 49Q05]
 ***** Stability of hypersurfaces with constant mean curvature
 :PROPERTIES:
@@ -240,6 +261,7 @@ Here I need to do some more work since $u \mapsto g(\grad u, \grad u)$ is not a 
 :Custom_ID: MR2170766
 :END:
 [[papers:MR2170766][MR2170766-paper]]
+
 
 
 * Arxiv
