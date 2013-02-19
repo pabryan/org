@@ -226,8 +226,10 @@ MATLAB is homework.
        :ID:       f28c589f-6e45-461f-a6b8-fcad6841614b
        :END:
 
-****** NEXT Write Midterm 2
+****** WAITING Write Midterm 2
        SCHEDULED: <2013-02-11 Mon>
+       - State "WAITING"    from "NEXT"       [2013-02-19 Tue 12:24] \\
+	 Waiting for Bob's feedback.
        :LOGBOOK:
        CLOCK: [2013-02-18 Mon 12:35]--[2013-02-18 Mon 12:50] =>  0:15
        CLOCK: [2013-02-18 Mon 11:40]--[2013-02-18 Mon 12:08] =>  0:28
@@ -235,7 +237,7 @@ MATLAB is homework.
        CLOCK: [2013-02-15 Fri 13:19]--[2013-02-15 Fri 13:24] =>  0:05
        :END:
 
-       DEADLINE: <2013-02-18 Mon>
+       DEADLINE: <2013-02-22 Fri>
        :PROPERTIES:
        :ID:       54ef75cb-49e4-4341-8867-09abb397ca9b
        :END:
@@ -643,6 +645,9 @@ MATLAB is homework.
        :ID:       7caeed49-8f45-4df4-80a5-50ad4cae3bc7
        :END:
 ******* NEXT Prepare lecture 8-1
+	:LOGBOOK:
+	CLOCK: [2013-02-19 Tue 12:25]
+	:END:
        	:PROPERTIES:
        	:ID:       8be202f9-391d-4692-beaa-ffa573c3d547
        	:END:
