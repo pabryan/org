@@ -60,7 +60,8 @@
 :END:
     
 *** NEXT Low Intensity
-    SCHEDULED: <2013-02-19 Tue .+4d/5d>
+    SCHEDULED: <2013-02-23 Sat .+4d/5d>
+    - State "DONE"       from "NEXT"       [2013-02-19 Tue 11:46]
     - State "DONE"       from "NEXT"       [2013-02-13 Wed 10:58]
     - State "DONE"       from "NEXT"       [2013-02-11 Mon 21:25]
     - State "DONE"       from "NEXT"       [2013-02-10 Sun 21:25]
@@ -93,6 +94,7 @@
     - State "DONE"       from "TODO"       [2012-11-15 Thu 17:00]
 
     :LOGBOOK:
+    CLOCK: [2013-02-19 Tue 10:44]--[2013-02-19 Tue 11:06] =>  0:21
     CLOCK: [2013-02-12 Tue 21:20]--[2013-02-12 Tue 21:45] =>  0:25
     CLOCK: [2013-02-10 Sun 20:29]--[2013-02-10 Sun 20:45] =>  0:16
     CLOCK: [2013-02-09 Sat 16:29]--[2013-02-09 Sat 16:46] =>  0:17
@@ -115,7 +117,7 @@
     :PROPERTIES:
 :STYLE: habit
 :REPEAT_TO_STATE: NEXT
-    :LAST_REPEAT: [2013-02-14 Thu 10:58]
+    :LAST_REPEAT: [2013-02-19 Tue 11:46]
 :ID: c5da0e4d-cf57-4caf-ba23-369257edd6ac
 :END:
 
