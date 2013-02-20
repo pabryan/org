@@ -641,12 +641,15 @@ MATLAB is homework.
        	:END:
 ****** TODO Week 8 Lectures
        DEADLINE: <2013-02-24 Sun> SCHEDULED: <2013-02-18 Mon>
+       :LOGBOOK:
+       :END:
        :PROPERTIES:
        :ID:       7caeed49-8f45-4df4-80a5-50ad4cae3bc7
        :END:
-******* NEXT Prepare lecture 8-1
+******* DONE Prepare lecture 8-1
+	- State "DONE"       from "NEXT"       [2013-02-19 Tue 13:54]
 	:LOGBOOK:
-	CLOCK: [2013-02-19 Tue 13:36]
+	CLOCK: [2013-02-19 Tue 13:36]--[2013-02-19 Tue 13:54] =>  0:18
 	CLOCK: [2013-02-19 Tue 13:10]--[2013-02-19 Tue 13:29] =>  0:19
 	CLOCK: [2013-02-19 Tue 12:25]--[2013-02-19 Tue 12:59] =>  0:34
 	:END:
