@@ -76,7 +76,7 @@ Geisel Library room 274
 ** NEXT Review Generic MCF I
    SCHEDULED: <2013-02-04 Mon> DEADLINE: <2013-02-28 Thu>
    :LOGBOOK:
-   CLOCK: [2013-02-19 Tue 21:17]
+   CLOCK: [2013-02-19 Tue 21:17]--[2013-02-19 Tue 21:49] =>  0:32
    CLOCK: [2013-02-14 Thu 13:15]--[2013-02-14 Thu 14:25] =>  1:10
    CLOCK: [2013-02-11 Mon 09:15]--[2013-02-11 Mon 10:15] =>  1:00
    CLOCK: [2013-02-08 Fri 08:57]--[2013-02-08 Fri 09:26] =>  0:29
@@ -494,7 +494,11 @@ This should not involve partial derivatives by tangent vectors to $S^1$ like in 
     :PROPERTIES:
     :ID:       f830177c-d9ea-4120-82f6-d0af42487036
     :END:
-*** NEXT Finish max principle arg
+*** NEXT Email Ben about integral estimate and model solutions
+    :PROPERTIES:
+    :ID:       5cf57941-4d6b-47ca-9ed3-72ed629e304e
+    :END:
+*** TODO Finish max principle arg
     :LOGBOOK:
     CLOCK: [2012-12-21 Fri 13:30]--[2012-12-21 Fri 15:32] =>  2:02
     CLOCK: [2012-12-21 Fri 11:02]--[2012-12-21 Fri 11:51] =>  0:49
@@ -516,7 +520,8 @@ This requires an estimate of $\int k f(k)$ analogous to Holder's for CSF where $
     :ID:       e33f844d-a7a7-406b-bf25-002f515cb649
     :END:
 There is a remark by Ben that our function comes from seeking a similarity solution. Does this work for general $f$?
-*** NEXT Work our normalised flow
+*** DONE Work our normalised flow
+    - State "DONE"       from "NEXT"       [2013-02-20 Wed 07:26]
     :PROPERTIES:
     :ID:       b63d50df-619a-46e9-88f4-460accb55823
     :END:
