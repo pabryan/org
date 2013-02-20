@@ -52,6 +52,18 @@
 :END:
 [[papers:MR562638][MR562638-paper]]
 
+***** An isoperimetric inequality with applications to curve shortening
+:PROPERTIES:
+:Custom_ID: MR726325
+:END:
+[[papers:MR726325][MR726325-paper]]
+[[bib:MR726325][MR726325-bib]]
+***** Curve shortening makes convex curves circular
+:PROPERTIES:
+:Custom_ID: MR742856
+:END:
+[[papers:MR742856][MR742856-paper]]
+[[bib:MR742856][MR742856-bib]]
 ** 53 (1940-now) Differential geometry [For differential topology, see 57Rxx. For foundational questions of differentiable manifolds, see 58Axx]
 *** 53A Classical differential geometry
 **** 53A10 Minimal surfaces, surfaces with prescribed mean curvature
@@ -175,6 +187,24 @@
 :Custom_ID: MR2794630
 :END:
 [[papers:MR2794630][MR2794630-paper]]
+***** The affine curve-lengthening flow
+:PROPERTIES:
+:Custom_ID: MR1665677
+:END:
+[[papers:MR1665677][MR1665677-paper]]
+[[bib:MR1665677][MR1665677-bib]]
+***** Non-convergence and instability in the asymptotic behaviour of curves evolving by curvature
+:PROPERTIES:
+:Custom_ID: MR1900758
+:END:
+[[papers:MR1900758][MR1900758-paper]]
+[[bib:MR1900758][MR1900758-bib]]
+***** Classification of limiting shapes for isotropic curve flows
+:PROPERTIES:
+:Custom_ID: MR1949167
+:END:
+[[papers:MR1949167][MR1949167-paper]]
+[[bib:MR1949167][MR1949167-bib]]
 ** 58 (1973-now) Global analysis, analysis on manifolds [See also 32Cxx, 32Fxx, 32Wxx, 46-XX, 47Hxx, 53Cxx] [For geometric integration theory, see 49Q15]
 *** 58E   (1973-now) Variational problems in infinite-dimensional spaces
 **** 58E10   (1973-now) Applications to the theory of geodesics (problems in one independent variable)
