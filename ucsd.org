@@ -110,6 +110,7 @@ MATLAB is homework.
      :END:
 *** TODO MATH142B Winter 2012					   :MATH142B:
     :LOGBOOK:
+    CLOCK: [2013-02-20 Wed 10:47]--[2013-02-20 Wed 10:48] =>  0:01
     :END:
    :PROPERTIES:
    :ID:       1143f380-6198-4a55-b640-8d8e9c7cfb72
@@ -117,6 +118,7 @@ MATLAB is homework.
     [[file:~/working/ucsd/teaching/math142B_winter_2013]]
 **** MATH142B Lecturing
     :LOGBOOK:
+    CLOCK: [2013-02-20 Wed 10:50]
     CLOCK: [2013-02-15 Fri 10:55]--[2013-02-15 Fri 12:06] =>  1:11
     CLOCK: [2013-02-13 Wed 10:55]--[2013-02-13 Wed 12:00] =>  1:05
     CLOCK: [2013-02-11 Mon 10:56]--[2013-02-11 Mon 12:00] =>  1:04
@@ -655,6 +657,9 @@ MATLAB is homework.
        	:ID:       5f9aacb9-2e74-4906-a45b-ce9b0075d8c3
        	:END:
 ******* NEXT Prepare lecture 8-3
+	:LOGBOOK:
+	CLOCK: [2013-02-20 Wed 10:26]--[2013-02-20 Wed 10:47] =>  0:21
+	:END:
        	:PROPERTIES:
        	:ID:       d82697a4-f67e-4497-86e3-e28be4bff2e1
        	:END:
