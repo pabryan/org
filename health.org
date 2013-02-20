@@ -122,7 +122,8 @@
 :END:
 
 *** NEXT Mod Intensity
-    SCHEDULED: <2013-02-20 Wed .+4d/5d>
+    SCHEDULED: <2013-02-24 Sun .+4d/5d>
+    - State "DONE"       from "NEXT"       [2013-02-20 Wed 08:47]
     - State "DONE"       from "NEXT"       [2013-02-16 Sat 20:07]
     - State "DONE"       from "NEXT"       [2013-02-06 Wed 19:39]
     - State "DONE"       from "NEXT"       [2013-02-02 Sat 07:28]
@@ -159,7 +160,7 @@
 :STYLE: habit
 :REPEAT_TO_STATE: NEXT
 :ID: 2fd02d93-9376-4172-b361-0e865b293007
-:LAST_REPEAT: [2013-02-16 Sat 20:07]
+:LAST_REPEAT: [2013-02-20 Wed 08:47]
 :END:
 *** NEXT High Intensity
     SCHEDULED: <2013-02-21 Thu .+4d/5d>
