@@ -529,7 +529,7 @@ This requires an estimate of $\int k f(k)$ analogous to Holder's for CSF where $
 There is a remark by Ben that our function comes from seeking a similarity solution. Does this work for general $f$?
 *** DONE Work our normalised flow
     :LOGBOOK:
-    CLOCK: [2013-02-20 Wed 13:55]
+    CLOCK: [2013-02-20 Wed 13:55]--[2013-02-20 Wed 15:05] =>  1:10
     :END:
     - State "DONE"       from "NEXT"       [2013-02-20 Wed 07:26]
     :PROPERTIES:
