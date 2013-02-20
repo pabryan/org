@@ -110,6 +110,7 @@ MATLAB is homework.
      :END:
 *** TODO MATH142B Winter 2012					   :MATH142B:
     :LOGBOOK:
+    CLOCK: [2013-02-20 Wed 13:16]--[2013-02-20 Wed 13:17] =>  0:01
     CLOCK: [2013-02-20 Wed 10:47]--[2013-02-20 Wed 10:48] =>  0:01
     :END:
    :PROPERTIES:
@@ -189,7 +190,7 @@ MATLAB is homework.
       :PROPERTIES:
       :ID:       217efa3a-983c-4603-a2dc-330557b7176f
       :END:
-****** DONE Write practice exam
+****** DONE Write practice midterm exam 1 
        SCHEDULED: <2013-01-24 Thu>     
        - State "DONE"       from "NEXT"       [2013-01-28 Mon 07:22]
        DEADLINE: <2013-01-25 Fri>
@@ -241,6 +242,15 @@ MATLAB is homework.
        :PROPERTIES:
        :ID:       45ce5522-5bec-47f1-8e4f-8e821e842188
        :END:
+****** TODO Upload practice midterm 2
+  SCHEDULED: <2013-02-20 Wed>
+  :LOGBOOK:
+  CLOCK: [2013-02-20 Wed 13:14]--[2013-02-20 Wed 13:15] =>  0:01
+  :END:
+       :PROPERTIES:
+       :ID:       68ea8030-c4d5-49d6-a264-b2dcd113a116
+       :END:
+[2013-02-20 Wed 13:14]
 ***** TODO Homework
       :LOGBOOK:
       :END:
@@ -753,9 +763,11 @@ MATLAB is homework.
    :PROPERTIES:
    :ID:       ca36acea-9953-4821-88a1-69ed34f77979
    :END:
-**** TODO Prepare practice midterm
+**** NEXT Prepare practice midterm
   DEADLINE: <2013-02-20 Wed> SCHEDULED: <2013-02-14 Thu>
   :LOGBOOK:
+  CLOCK: [2013-02-20 Wed 13:15]--[2013-02-20 Wed 13:16] =>  0:01
+  CLOCK: [2013-02-20 Wed 13:05]--[2013-02-20 Wed 13:14] =>  0:09
   CLOCK: [2013-02-13 Wed 13:49]--[2013-02-13 Wed 13:50] =>  0:01
   :END:
      :PROPERTIES:
