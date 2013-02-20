@@ -84,14 +84,6 @@ W	Withdrew	Withdrew after fourth week of instruction, or after second meeting of
 X	Pending charge of academic dishonesty (available only within the eGrades tool)
 Blank	Grade not reported by instructor
 
-** SOMEDAY Write org-mode teaching paper
-Use a course as a guinea pig for using the method
-  CLOCK: [2012-10-14 Sun 20:43]--[2012-10-14 Sun 20:44] =>  0:01
-    :PROPERTIES:
-    :ID:       d58effe4-6b9d-48e3-96a1-a6a992538c6c
-    :END:
-[2012-10-14 Sun 20:43]
-
 ** Courses
 *** TODO MATH20C Spring 2013					    :MATH20C:
     :PROPERTIES:
@@ -1163,17 +1155,7 @@ Update this based on Bo's comments.
     :END:
 [2012-12-14 Fri 11:09]
 
-** DONE Spring 2013 text books
-   DEADLINE: <2013-02-01 Fri>
-   - State "DONE"       from "NEXT"       [2013-02-01 Fri 11:39]
-   :LOGBOOK:
-   CLOCK: [2013-02-01 Fri 11:27]--[2013-02-01 Fri 11:39] =>  0:12
-   :END:
-   :PROPERTIES:
-   :ID:       59315c52-b03c-4ab2-be4e-d91eae1ad433
-   :END:
-
-** CANCELLED Write reference for Chan Kim
+**** CANCELLED Write reference for Chan Kim
    - State "CANCELLED"  from "TODO"       [2013-01-02 Wed 09:37] \\
      He doesn't need it from me anymore
   :LOGBOOK:
@@ -1182,6 +1164,16 @@ Update this based on Bo's comments.
    :ID:       5fcd32fa-863e-41eb-82b1-0f1ef83494e1
    :END:
 [2012-12-17 Mon 13:55]
+
+*** DONE Spring 2013 text books
+    DEADLINE: <2013-02-01 Fri>
+    - State "DONE"       from "NEXT"       [2013-02-01 Fri 11:39]
+    :LOGBOOK:
+    CLOCK: [2013-02-01 Fri 11:27]--[2013-02-01 Fri 11:39] =>  0:12
+    :END:
+    :PROPERTIES:
+    :ID:       59315c52-b03c-4ab2-be4e-d91eae1ad433
+    :END:
 
 ** Professional Development
 *** TODO Check out Center for Teaching Development
@@ -1199,7 +1191,9 @@ Update this based on Bo's comments.
    :ID:       08426a42-e2ed-4a58-bd9b-62d687b30b6b
    :END:
 <2013-01-04 Fri 10:00-14:00>
-** TODO Check access to teaching data
+** Tasks
+*** DONE Check access to teaching data
+   - State "DONE"       from "TODO"       [2013-02-19 Tue 20:54]
   :LOGBOOK:
   CLOCK: [2013-02-19 Tue 12:17]--[2013-02-19 Tue 12:18] =>  0:01
   :END:
@@ -1208,6 +1202,15 @@ Update this based on Bo's comments.
    :END:
 [2013-02-19 Tue 12:17]
 I was emailed by the iClicker people about a large class I'm teaching. How do they know this?
+** Teaching as research
+*** SOMEDAY Write org-mode teaching paper
+Use a course as a guinea pig for using the method
+  CLOCK: [2012-10-14 Sun 20:43]--[2012-10-14 Sun 20:44] =>  0:01
+    :PROPERTIES:
+    :ID:       d58effe4-6b9d-48e3-96a1-a6a992538c6c
+    :END:
+[2012-10-14 Sun 20:43]
+
 * Seminars							    :SEMINAR:
   :PROPERTIES:
   :ID:       4a7b50f0-8368-4d3a-bc5d-c0e229fd442f
