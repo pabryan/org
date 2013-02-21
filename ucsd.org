@@ -109,14 +109,14 @@ MATLAB is homework.
      :ID:       ab98137c-594a-447f-badd-95768624712f
      :END:
 *** TODO MATH142B Winter 2012					   :MATH142B:
-    :LOGBOOK:
-    CLOCK: [2013-02-20 Wed 13:16]--[2013-02-20 Wed 13:17] =>  0:01
-    CLOCK: [2013-02-20 Wed 10:47]--[2013-02-20 Wed 10:48] =>  0:01
-    :END:
    :PROPERTIES:
    :ID:       1143f380-6198-4a55-b640-8d8e9c7cfb72
    :END:
     [[file:~/working/ucsd/teaching/math142B_winter_2013]]
+**** MATH142B Admin
+     :LOGBOOK:
+     CLOCK: [2013-02-21 Thu 11:20]
+     :END:
 **** MATH142B Lecturing
     :LOGBOOK:
     CLOCK: [2013-02-20 Wed 10:50]--[2013-02-20 Wed 12:04] =>  1:14
@@ -1285,6 +1285,7 @@ Use a course as a guinea pig for using the method
    :END:
 *** UCSD DG Seminar
    :LOGBOOK:
+   CLOCK: [2013-02-21 Thu 09:50]--[2013-02-21 Thu 11:20] =>  1:30
    CLOCK: [2013-01-17 Thu 09:50]--[2013-01-17 Thu 11:05] =>  1:15
    CLOCK: [2013-01-10 Thu 15:00]--[2013-01-10 Thu 16:20] =>  1:20
    CLOCK: [2013-01-08 Tue 10:00]--[2013-01-08 Tue 11:00] =>  1:00
