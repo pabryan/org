@@ -501,7 +501,11 @@ This should not involve partial derivatives by tangent vectors to $S^1$ like in 
     :PROPERTIES:
     :ID:       261f30d2-0431-484a-bfaa-ee318fdb682d
     :END:
-*** NEXT Email Ben about integral estimate and model solutions
+*** DONE Email Ben about integral estimate and model solutions
+    - State "DONE"       from "NEXT"       [2013-02-21 Thu 11:49]
+    :LOGBOOK:
+    CLOCK: [2013-02-21 Thu 11:44]--[2013-02-21 Thu 11:49] =>  0:05
+    :END:
     :PROPERTIES:
     :ID:       5cf57941-4d6b-47ca-9ed3-72ed629e304e
     :END:
