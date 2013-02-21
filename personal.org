@@ -585,6 +585,9 @@ Doyle Field
   :LOGBOOK:
   CLOCK: [2013-02-21 Thu 09:00]--[2013-02-21 Thu 09:01] =>  0:01
   :END:
+   :PROPERTIES:
+   :ID:       3303ad99-6a5b-45a9-bfac-f380265c930d
+   :END:
 [2013-02-21 Thu 09:00]
 * House Maintenance
   :PROPERTIES:
