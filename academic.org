@@ -485,10 +485,11 @@ Sequences of manifolds and convergence. What is smooth convergence? Can it be de
     :ID:       bd810aa6-d6aa-4b03-8fca-f4fa0f549cdd
     :END: 
 This should not involve partial derivatives by tangent vectors to $S^1$ like in the CSF paper.
-*** NEXT Write introduction
-    - State "DONE"       from "NEXT"       [2013-02-20 Wed 13:54]
+*** DONE Write introduction
+    - State "DONE"       from "NEXT"       [2013-02-21 Thu 12:56]
     :LOGBOOK:
-    CLOCK: [2013-02-21 Thu 11:50]--[2013-02-21 Thu 12:09] =>  0:19
+    CLOCK: [2013-02-21 Thu 12:51]--[2013-02-21 Thu 12:56] =>  0:05
+    CLOCK: [2013-02-21 Thu 11:55]--[2013-02-21 Thu 12:09] =>  0:14
     CLOCK: [2013-02-20 Wed 13:30]--[2013-02-20 Wed 13:54] =>  0:24
     CLOCK: [2013-02-19 Tue 16:36]--[2013-02-19 Tue 17:42] =>  1:06
     CLOCK: [2013-02-19 Tue 09:47]--[2013-02-19 Tue 10:05] =>  0:18
@@ -497,6 +498,13 @@ This should not involve partial derivatives by tangent vectors to $S^1$ like in 
     :END:
     :PROPERTIES:
     :ID:       f830177c-d9ea-4120-82f6-d0af42487036
+    :END:
+*** NEXT Redo computation with correct normalised flow
+    :LOGBOOK:
+    CLOCK: [2013-02-21 Thu 12:56]
+    :END:
+    :PROPERTIES:
+    :ID:       d012ffc5-cbec-4f58-8df9-91782762eb0d
     :END:
 *** NEXT Find references for previous work
     :PROPERTIES:
