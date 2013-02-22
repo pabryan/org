@@ -189,6 +189,7 @@ MATLAB is homework.
 
 ***** TODO Exams
       :LOGBOOK:
+      CLOCK: [2013-02-22 Fri 07:59]
       :END:
       :PROPERTIES:
       :ID:       217efa3a-983c-4603-a2dc-330557b7176f
@@ -224,14 +225,15 @@ MATLAB is homework.
        :ID:       f28c589f-6e45-461f-a6b8-fcad6841614b
        :END:
 
-****** NEXT Write Midterm 2
+****** DONE Write Midterm 2
        SCHEDULED: <2013-02-11 Mon>
+       - State "DONE"       from "NEXT"       [2013-02-22 Fri 07:59]
        - State "NEXT"       from "WAITING"    [2013-02-22 Fri 07:36]
 	 Bob gave the OK.
        - State "WAITING"    from "NEXT"       [2013-02-19 Tue 12:24] \\
 	 Waiting for Bob's feedback.
        :LOGBOOK:
-       CLOCK: [2013-02-22 Fri 07:37]
+       CLOCK: [2013-02-22 Fri 07:37]--[2013-02-22 Fri 07:45] =>  0:08
        CLOCK: [2013-02-18 Mon 12:35]--[2013-02-18 Mon 12:50] =>  0:15
        CLOCK: [2013-02-18 Mon 11:40]--[2013-02-18 Mon 12:08] =>  0:28
        CLOCK: [2013-02-18 Mon 10:35]--[2013-02-18 Mon 11:17] =>  0:42

@@ -163,7 +163,8 @@
 :LAST_REPEAT: [2013-02-20 Wed 08:47]
 :END:
 *** NEXT High Intensity
-    SCHEDULED: <2013-02-21 Thu .+4d/5d>
+    SCHEDULED: <2013-02-25 Mon .+4d/5d>
+    - State "DONE"       from "NEXT"       [2013-02-21 Thu 07:59]
     - State "DONE"       from "NEXT"       [2013-02-17 Sun 17:41]
     - State "DONE"       from "NEXT"       [2013-02-17 Sun 17:41]
     - State "DONE"       from "NEXT"       [2013-02-07 Thu 08:18]
@@ -202,7 +203,7 @@
 :STYLE: habit
 :REPEAT_TO_STATE: NEXT
 :ID: d52c3978-eea8-457c-b9c9-1a38d6d54a88
-:LAST_REPEAT: [2013-02-17 Sun 17:41]
+:LAST_REPEAT: [2013-02-22 Fri 07:59]
 :END:
 *** NEXT Eye/Jaw exercises
     SCHEDULED: <2013-02-21 Thu .+1d/2d>
