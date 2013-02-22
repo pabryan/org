@@ -580,8 +580,9 @@ Doyle Field
    :ID:       d32cf4e5-97b1-43e7-bab3-5064c19b3d8c
    :END:
 <2012-12-06 Thu 07:30-09:30>
-** TODO Make maracas for kids
+** DONE Make maracas for kids
   SCHEDULED: <2013-02-21 Thu>
+  - State "DONE"       from "TODO"       [2013-02-22 Fri 08:00]
   :LOGBOOK:
   CLOCK: [2013-02-21 Thu 09:00]--[2013-02-21 Thu 09:01] =>  0:01
   :END:

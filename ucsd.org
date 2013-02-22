@@ -189,7 +189,7 @@ MATLAB is homework.
 
 ***** TODO Exams
       :LOGBOOK:
-      CLOCK: [2013-02-22 Fri 07:59]
+      CLOCK: [2013-02-22 Fri 07:59]--[2013-02-22 Fri 08:00] =>  0:01
       :END:
       :PROPERTIES:
       :ID:       217efa3a-983c-4603-a2dc-330557b7176f
@@ -244,14 +244,29 @@ MATLAB is homework.
        :PROPERTIES:
        :ID:       54ef75cb-49e4-4341-8867-09abb397ca9b
        :END:
-****** TODO Write Final
+****** NEXT Write Final
        SCHEDULED: <2013-02-25 Mon>
        DEADLINE: <2013-03-08 Fri>
        :PROPERTIES:
        :ID:       45ce5522-5bec-47f1-8e4f-8e821e842188
        :END:
-****** TODO Upload practice midterm 2
+****** DONE Prepare practice midterm
+  DEADLINE: <2013-02-20 Wed> SCHEDULED: <2013-02-14 Thu>
+  - State "DONE"       from "NEXT"       [2013-02-22 Fri 07:36]
+  :LOGBOOK:
+  CLOCK: [2013-02-22 Fri 07:28]--[2013-02-22 Fri 07:36] =>  0:08
+  CLOCK: [2013-02-20 Wed 20:55]--[2013-02-20 Wed 21:25] =>  0:30
+  CLOCK: [2013-02-20 Wed 13:15]--[2013-02-20 Wed 13:16] =>  0:01
+  CLOCK: [2013-02-20 Wed 13:05]--[2013-02-20 Wed 13:14] =>  0:09
+  CLOCK: [2013-02-13 Wed 13:49]--[2013-02-13 Wed 13:50] =>  0:01
+  :END:
+     :PROPERTIES:
+     :ID:       0474210c-9788-44d5-bdf4-88498062b269
+     :END:
+[2013-02-13 Wed 13:49]
+****** DONE Upload practice midterm 2
   SCHEDULED: <2013-02-20 Wed>
+  - State "DONE"       from "TODO"       [2013-02-22 Fri 08:00]
   :LOGBOOK:
   CLOCK: [2013-02-20 Wed 13:14]--[2013-02-20 Wed 13:15] =>  0:01
   :END:
@@ -771,21 +786,7 @@ MATLAB is homework.
    :PROPERTIES:
    :ID:       ca36acea-9953-4821-88a1-69ed34f77979
    :END:
-**** DONE Prepare practice midterm
-  DEADLINE: <2013-02-20 Wed> SCHEDULED: <2013-02-14 Thu>
-  - State "DONE"       from "NEXT"       [2013-02-22 Fri 07:36]
-  :LOGBOOK:
-  CLOCK: [2013-02-22 Fri 07:28]--[2013-02-22 Fri 07:36] =>  0:08
-  CLOCK: [2013-02-20 Wed 20:55]--[2013-02-20 Wed 21:25] =>  0:30
-  CLOCK: [2013-02-20 Wed 13:15]--[2013-02-20 Wed 13:16] =>  0:01
-  CLOCK: [2013-02-20 Wed 13:05]--[2013-02-20 Wed 13:14] =>  0:09
-  CLOCK: [2013-02-13 Wed 13:49]--[2013-02-13 Wed 13:50] =>  0:01
-  :END:
-     :PROPERTIES:
-     :ID:       0474210c-9788-44d5-bdf4-88498062b269
-     :END:
-[2013-02-13 Wed 13:49]
-*** DONE MATH150A Fall 2012					   :MATH150A:
+*** DONE MATH150A Fall 2012 					   :MATH150A:
     - State "DONE"       from "TODO"       [2012-12-14 Fri 11:54]
     :LOGBOOK:
     CLOCK: [2012-11-19 Mon 11:00]--[2012-11-19 Mon 12:00] =>  1:00

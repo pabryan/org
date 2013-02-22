@@ -647,6 +647,17 @@ I'll need to say use my phone to collect the data. I need something easy to cloc
    :END:
 *** Notes 
 I should have cards with daily reminders, e.g. no more than 2 coffees, eat tacfit, don't nag to check throughout the day. I also have longer term goals and these should filter down to give daily reminders, weekly reminders (to look at during the review), monthly, yearly etc.
+** TODO Make your damn goals!
+  SCHEDULED: <2013-02-25 Mon>
+  :LOGBOOK:
+  CLOCK: [2013-02-22 Fri 08:07]--[2013-02-22 Fri 08:08] =>  0:01
+  :END:
+   :PROPERTIES:
+   :ID:       94c22869-a734-496f-bbd5-afa06cfeb267
+   :END:
+[2013-02-22 Fri 08:07]
+
+In particular, do I want to write at least say 15 hrs a week? If so, plan it out, commit and go! I've scheduled time for exercise and teaching, so do it for writing too! The plan should be incremental and guarenteed to succedd. See [[http://paidtoexist.com/creative-battle/]] for some pointers.
 * office layout
   :PROPERTIES:
   :ID:       827968af-420f-40a1-ac2d-4bbe7192cbc1
@@ -981,6 +992,9 @@ I need to have my macros available.
   :END:
 ** Organisation
   :LOGBOOK:
+  CLOCK: [2013-02-22 Fri 08:08]
+  CLOCK: [2013-02-22 Fri 08:02]--[2013-02-22 Fri 08:07] =>  0:05
+  CLOCK: [2013-02-22 Fri 08:00]--[2013-02-22 Fri 08:01] =>  0:01
   CLOCK: [2013-02-22 Fri 07:23]--[2013-02-22 Fri 07:28] =>  0:05
   CLOCK: [2013-02-21 Thu 14:05]--[2013-02-21 Thu 14:06] =>  0:01
   CLOCK: [2013-02-21 Thu 11:49]--[2013-02-21 Thu 11:50] =>  0:01
@@ -1271,7 +1285,8 @@ For the following, do I just use the existing diary.org capture template or perh
 - [ ] Write down any thoughts, relections on the day.
 
 ** NEXT Daily Plan
-   SCHEDULED: <2013-02-21 Thu .+1d/2d>
+   SCHEDULED: <2013-02-23 Sat .+1d/2d>
+   - State "DONE"       from "NEXT"       [2013-02-22 Fri 08:02]
    - State "DONE"       from "NEXT"       [2013-02-20 Wed 07:28]
    - State "DONE"       from "NEXT"       [2013-02-19 Tue 07:35]
    - State "DONE"       from "NEXT"       [2013-02-18 Mon 10:19]
@@ -1293,6 +1308,7 @@ For the following, do I just use the existing diary.org capture template or perh
    - State "DONE"       from "NEXT"       [2013-01-10 Thu 09:22]
    - State "DONE"       from "NEXT"       [2013-01-09 Wed 07:19]
    :LOGBOOK:
+   CLOCK: [2013-02-22 Fri 08:01]--[2013-02-22 Fri 08:02] =>  0:01
    CLOCK: [2013-02-20 Wed 07:24]--[2013-02-20 Wed 07:28] =>  0:04
    CLOCK: [2013-02-19 Tue 08:03]--[2013-02-19 Tue 08:06] =>  0:03
    CLOCK: [2013-02-17 Sun 08:27]--[2013-02-17 Sun 08:30] =>  0:03
@@ -1318,7 +1334,7 @@ For the following, do I just use the existing diary.org capture template or perh
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
    :ID:       ef051ee0-1113-4604-b355-450a5a47848b
-   :LAST_REPEAT: [2013-02-20 Wed 07:28]
+   :LAST_REPEAT: [2013-02-22 Fri 08:02]
    :END:
 
 Set tasks in [[file:plans/today.org]].
