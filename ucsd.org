@@ -147,6 +147,8 @@ MATLAB is homework.
 
 **** Office hours
     :LOGBOOK:
+    CLOCK: [2013-02-22 Fri 12:53]
+    CLOCK: [2013-02-22 Fri 10:10]--[2013-02-22 Fri 10:55] =>  0:45
     CLOCK: [2013-02-13 Wed 10:10]--[2013-02-13 Wed 10:35] =>  0:25
     CLOCK: [2013-01-31 Thu 13:40]--[2013-01-31 Thu 14:35] =>  0:55
     CLOCK: [2013-01-31 Thu 11:20]--[2013-01-31 Thu 12:35] =>  1:15
@@ -691,6 +693,7 @@ MATLAB is homework.
        	:END:
 ******* NEXT Prepare lecture 8-3
 	:LOGBOOK:
+	CLOCK: [2013-02-22 Fri 10:04]--[2013-02-22 Fri 10:10] =>  0:06
 	CLOCK: [2013-02-20 Wed 10:26]--[2013-02-20 Wed 10:47] =>  0:21
 	:END:
        	:PROPERTIES:
