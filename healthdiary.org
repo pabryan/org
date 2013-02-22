@@ -1683,8 +1683,24 @@
 |---------+------------+-------+------+-----+------|
 |      68 |        128 |       | 9    | 9   | 3    |
        #+TBLFM: @2$2=vmean(remote(<DATE>RAW,@2$3..@4$3)::@2$3=vsum(remote(<DATE>RAW,@2$4..@4$4))::@2$4=vmean(remote(<DATE>RAW,@2$5..@4$5))::@2$5=vmean(remote(<DATE>RAW,@2$6..@4$6))::@2$6=vmean(remote(<DATE>RAW,@2$7..@4$7))
+*** 2013-02-22 Friday
 
+**** Intuflow 
+     :LOGBOOK:
+     CLOCK: [2013-02-22 Fri 08:21]
+     :END:
+:PROPERTIES:
+:Intensity: None
+:Type: Mobility
+:RestHR: 59
+:FinalHR: 
+:Score:
+:Technique:
+:Effort:
+:Discomfort:
+:END:
 
+[2013-02-22 Fri 08:21]
 
 * conv code
   :PROPERTIES:
