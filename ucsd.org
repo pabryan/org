@@ -122,6 +122,7 @@ MATLAB is homework.
      :END:
 **** MATH142B Lecturing
     :LOGBOOK:
+    CLOCK: [2013-02-22 Fri 10:55]--[2013-02-22 Fri 12:04] =>  1:09
     CLOCK: [2013-02-20 Wed 10:50]--[2013-02-20 Wed 12:04] =>  1:14
     CLOCK: [2013-02-15 Fri 10:55]--[2013-02-15 Fri 12:06] =>  1:11
     CLOCK: [2013-02-13 Wed 10:55]--[2013-02-13 Wed 12:00] =>  1:05
@@ -141,9 +142,9 @@ MATLAB is homework.
     CLOCK: [2013-01-09 Wed 10:53]--[2013-01-09 Wed 11:56] =>  1:03
     CLOCK: [2013-01-07 Mon 11:00]--[2013-01-07 Mon 12:00] =>  1:00
     :END:
-     :PROPERTIES:
-     :ID:       2c1e0b59-5aae-4c8b-af38-da65f92e46e5
-     :END:
+    :PROPERTIES:
+    :ID:       2c1e0b59-5aae-4c8b-af38-da65f92e46e5
+    :END:
 
 **** Office hours
     :LOGBOOK:
