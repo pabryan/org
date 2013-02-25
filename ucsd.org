@@ -329,11 +329,12 @@ MATLAB is homework.
        :ID:       f5011f08-eaf0-4429-9041-1f2284de87a5
        :END:
 
-****** NEXT Set Homework 5
+****** DONE Set Homework 5
        SCHEDULED: <2013-02-25 Mon> 
+       - State "DONE"       from "NEXT"       [2013-02-25 Mon 11:23]
        DEADLINE: <2013-03-01 Fri>    
        :LOGBOOK:
-       CLOCK: [2013-02-25 Mon 10:59]
+       CLOCK: [2013-02-25 Mon 10:59]--[2013-02-25 Mon 11:23] =>  0:24
        :END:
        :PROPERTIES:
        :ID:       a09fcef3-939e-41f8-bc9e-19a7f3bdea8e
@@ -1397,6 +1398,7 @@ homeomorphic to S^4 or to a connected sum of CP^2s.
     :END:
     <2013-01-31 Thu 10:00-11:00 +1w>
 *** NEXT Send DG seminar email announcement
+    - State "DONE"       from "NEXT"       [2013-02-25 Mon 11:25]
     - State "DONE"       from "NEXT"       [2013-02-16 Sat 20:18]
     - State "DONE"       from "NEXT"       [2013-02-06 Wed 14:48]
     - State "DONE"       from "NEXT"       [2013-02-01 Fri 11:19]
@@ -1415,9 +1417,9 @@ homeomorphic to S^4 or to a connected sum of CP^2s.
     :PROPERTIES:
     :ID:       0f19da7c-65a3-4e95-8a91-78d12caa46da
     :REPEAT_TO_STATE: NEXT
-    :LAST_REPEAT: [2013-02-16 Sat 20:18]
+    :LAST_REPEAT: [2013-02-25 Mon 11:25]
     :END: 
-DEADLINE: <2013-02-22 Fri +1w>
+DEADLINE: <2013-03-01 Fri +1w>
 [[mailto:seminarstaff@math.ucsd.edu]]
 **** Email tempate
 Speaker: 
