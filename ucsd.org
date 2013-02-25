@@ -669,8 +669,9 @@ MATLAB is homework.
        	:PROPERTIES:
        	:ID:       47d24ed2-c63f-4193-a0bb-d76f33fb577e
        	:END:
-****** TODO Week 8 Lectures
+****** DONE Week 8 Lectures
        DEADLINE: <2013-02-24 Sun> SCHEDULED: <2013-02-18 Mon>
+       - State "DONE"       from "TODO"       [2013-02-25 Mon 10:48]
        :LOGBOOK:
        :END:
        :PROPERTIES:
@@ -692,9 +693,10 @@ MATLAB is homework.
        	:PROPERTIES:
        	:ID:       5f9aacb9-2e74-4906-a45b-ce9b0075d8c3
        	:END:
-******* NEXT Prepare lecture 8-3
+******* DONE Prepare lecture 8-3
+	- State "DONE"       from "NEXT"       [2013-02-25 Mon 10:48]
 	:LOGBOOK:
-	CLOCK: [2013-02-25 Mon 10:24]
+	CLOCK: [2013-02-25 Mon 10:24]--[2013-02-25 Mon 10:48] =>  0:24
 	CLOCK: [2013-02-22 Fri 10:04]--[2013-02-22 Fri 10:10] =>  0:06
 	CLOCK: [2013-02-20 Wed 10:26]--[2013-02-20 Wed 10:47] =>  0:21
 	:END:
