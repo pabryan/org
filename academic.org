@@ -501,6 +501,8 @@ This should not involve partial derivatives by tangent vectors to $S^1$ like in 
     :END:
 *** NEXT Redo computation with correct normalised flow
     :LOGBOOK:
+    CLOCK: [2013-02-25 Mon 12:49]
+    CLOCK: [2013-02-25 Mon 11:31]--[2013-02-25 Mon 12:09] =>  0:38
     CLOCK: [2013-02-22 Fri 15:30]--[2013-02-22 Fri 16:05] =>  0:35
     CLOCK: [2013-02-21 Thu 14:04]--[2013-02-21 Thu 14:05] =>  0:01
     CLOCK: [2013-02-21 Thu 12:56]--[2013-02-21 Thu 13:57] =>  1:01
