@@ -992,6 +992,9 @@ I need to have my macros available.
   :END:
 ** Organisation
   :LOGBOOK:
+  CLOCK: [2013-02-25 Mon 10:09]
+  CLOCK: [2013-02-25 Mon 10:03]--[2013-02-25 Mon 10:09] =>  0:06
+  CLOCK: [2013-02-25 Mon 09:50]--[2013-02-25 Mon 09:55] =>  0:05
   CLOCK: [2013-02-22 Fri 14:48]--[2013-02-22 Fri 15:30] =>  0:42
   CLOCK: [2013-02-22 Fri 12:51]--[2013-02-22 Fri 12:53] =>  0:02
   CLOCK: [2013-02-22 Fri 10:00]--[2013-02-22 Fri 10:04] =>  0:04
@@ -1288,7 +1291,8 @@ For the following, do I just use the existing diary.org capture template or perh
 - [ ] Write down any thoughts, relections on the day.
 
 ** NEXT Daily Plan
-   SCHEDULED: <2013-02-23 Sat .+1d/2d>
+   SCHEDULED: <2013-02-26 Tue .+1d/2d>
+   - State "DONE"       from "NEXT"       [2013-02-25 Mon 10:09]
    - State "DONE"       from "NEXT"       [2013-02-22 Fri 08:02]
    - State "DONE"       from "NEXT"       [2013-02-20 Wed 07:28]
    - State "DONE"       from "NEXT"       [2013-02-19 Tue 07:35]
@@ -1337,7 +1341,7 @@ For the following, do I just use the existing diary.org capture template or perh
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
    :ID:       ef051ee0-1113-4604-b355-450a5a47848b
-   :LAST_REPEAT: [2013-02-22 Fri 08:02]
+   :LAST_REPEAT: [2013-02-25 Mon 10:09]
    :END:
 
 Set tasks in [[file:plans/today.org]].
