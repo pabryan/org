@@ -1350,7 +1350,8 @@ For the following, do I just use the existing diary.org capture template or perh
 Set tasks in [[file:plans/today.org]].
 
 ** NEXT Weekly Plan
-   SCHEDULED: <2013-02-22 Fri .+7d/10d>
+   SCHEDULED: <2013-03-04 Mon .+7d/10d>
+   - State "DONE"       from "NEXT"       [2013-02-25 Mon 20:14]
    - State "DONE"       from "NEXT"       [2013-02-15 Fri 21:08]
    - State "DONE"       from "NEXT"       [2013-02-05 Tue 13:17]
    - State "DONE"       from "NEXT"       [2013-01-28 Mon 19:07]
@@ -1364,7 +1365,7 @@ Set tasks in [[file:plans/today.org]].
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
    :ID:       b98ed4bd-0690-4a23-8c8f-c72bd8e39954
-   :LAST_REPEAT: [2013-02-15 Fri 21:08]
+   :LAST_REPEAT: [2013-02-25 Mon 20:14]
    :END:
 
 Set tasks and focus in [[file:~/org/week.org]].
