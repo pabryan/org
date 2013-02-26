@@ -499,9 +499,10 @@ This should not involve partial derivatives by tangent vectors to $S^1$ like in 
     :PROPERTIES:
     :ID:       f830177c-d9ea-4120-82f6-d0af42487036
     :END:
-*** NEXT Redo computation with correct normalised flow
+*** DONE Redo computation with correct normalised flow
+    - State "DONE"       from "NEXT"       [2013-02-26 Tue 15:04]
     :LOGBOOK:
-    CLOCK: [2013-02-26 Tue 13:46]
+    CLOCK: [2013-02-26 Tue 13:46]--[2013-02-26 Tue 15:04] =>  1:18
     CLOCK: [2013-02-26 Tue 12:08]--[2013-02-26 Tue 13:10] =>  1:02
     CLOCK: [2013-02-26 Tue 11:35]--[2013-02-26 Tue 11:53] =>  0:18
     CLOCK: [2013-02-25 Mon 20:22]--[2013-02-25 Mon 21:15] =>  0:53
@@ -515,6 +516,15 @@ This should not involve partial derivatives by tangent vectors to $S^1$ like in 
     :PROPERTIES:
     :ID:       d012ffc5-cbec-4f58-8df9-91782762eb0d
     :END:
+*** NEXT Change max principle to $Z \geq 0$
+    :PROPERTIES:
+    :ID:       76a2b612-5546-4a90-a96b-9acdc9d850b4
+    :END:
+*** NEXT Change to concave comparison.
+    :PROPERTIES:
+    :ID:       8fc84005-747c-4a3e-addb-cfdc8f0ed2a3
+    :END:
+Probably also need concave comparison functions. This should rule out $\tang_p = \tang_q$.
 *** NEXT Find references for previous work
     :PROPERTIES:
     :ID:       261f30d2-0431-484a-bfaa-ee318fdb682d
@@ -527,7 +537,7 @@ This should not involve partial derivatives by tangent vectors to $S^1$ like in 
     :PROPERTIES:
     :ID:       5cf57941-4d6b-47ca-9ed3-72ed629e304e
     :END:
-*** TODO Finish max principle arg
+*** NEXT Estimate integrals for max principle arg
     :LOGBOOK:
     CLOCK: [2012-12-21 Fri 13:30]--[2012-12-21 Fri 15:32] =>  2:02
     CLOCK: [2012-12-21 Fri 11:02]--[2012-12-21 Fri 11:51] =>  0:49
