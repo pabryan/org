@@ -526,6 +526,11 @@ This should not involve partial derivatives by tangent vectors to $S^1$ like in 
     :PROPERTIES:
     :ID:       76a2b612-5546-4a90-a96b-9acdc9d850b4
     :END:
+*** NEXT Change max principle back to $Z$ improving!
+    :PROPERTIES:
+    :ID:       ddad714e-5a0c-45cf-93b0-0d48d52807b2
+    :END:
+Provided $\tilde{Z}(0)\geq 0$ I think we can get improving, not just positivity!
 *** NEXT Change to concave comparison.
     :LOGBOOK:
     CLOCK: [2013-02-27 Wed 10:07]
