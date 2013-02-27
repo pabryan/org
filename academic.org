@@ -934,14 +934,21 @@ In the Type I case, we expect that $\pd{\tau}\tilde{u} \to 0$ so that the limit 
 Then we have an elliptic problem to solve. i.e. we want to classify all such solutions. See also self shrinkers for MCF and solitons for Ricci flow. How do things like monotonicity (e.g. Huisken, Perelman?) relate to this? Doing all the above for MCF can be checked directly and it's all good!
 
 
-**** Geometric quantities
-Now let $Z: M \times [0, T) \to G$ be some geometric quantity with $G$ probably $\RR$, but could be a vector bundle, for example the normal bundled $\nu M$ of an immersion and $G$ is the support function. I guess it could be all manner of things! Can the phrase geometric be interpereted as some sort of natural transformation? This way, for each $t$, it gives the geometric quantity for $M_t$ and so we could write $Z(M_t)$. That is, $Z$ shouldn't have explicit $t$-dependence and the way to compute $Z$ is the same for all $M_t$.
+**** Geometric quantities connecting with spatial variations
+Now let $Z: N \times [0, T) \to G$ be some geometric quantity with $G$ probably $\RR$, but could be a vector bundle, for example the normal bundled $\nu M$ of an immersion and $G$ is the support function. I guess it could be all manner of things! Can the phrase "geometric" be interpereted as some sort of natural transformation? This way, for each $t$, it gives the geometric quantity for $u_t$ and so we could write $Z(u_t)$. That is, $Z$ shouldn't have explicit $t$-dependence and the way to compute $Z$ is the same for all $u_t$. Maybe not quite: $Z$ could have explicit time dependence as in mine and Ben's isoperimetric comparison work, but it should be the composition of a natural transformation and then adding in the $t$ dependence. In general this sort of thing will probably depend on the image $M_t = u_t(M)$. For instance, one can compute the arc-length of a curve in terms of the map $u_t$, but we think of this as some intrinsic geometric quantity of $M_t$. 
 
 The evolution of $Z$ is
 \[
-\nabla_{\pd{t}} Z = DZ
+\nabla_{\pd{t}} Z = DZ \dot \pd{t} u + \pd{t}Z = DZ \dot F + \pd{t} Z
+\]
 
-Can I now produce $F(D^2Z, DZ, Z, x)$ from spatial variations?
+Now, spatial variations will produce something like $D^2u$, $Du$ etc. typically the gradient and laplacian. At a extrema, $D^2u$ is definite and $Du$ vanishes. Also $\nabla_{\pd{t}}Z$ will be decreasing (in some suitable sense). We then need to relate these temporal and spatial variations. That is, we'll need to relate $DZ \dot F$ with $D^2u$, $Du$ etc. In the MCF, $F$ is the Laplacian and so this is easy. For $\alpha$-CSF flows we needed spectral theory to apply $F$ to the spatial variations for our link. Maybe this works quite generally?
+
+**** monotone quantities
+Is there some sort of Noether like theorem for the existence of monotone quantities? How does this relate to all the above? If we can assert the existence of a monotone quantity, what does that tell us? Presumably, we'll also need some useful properties of such things. Again, I expect the quantity should be some sort of natural transformation, e.g. curvature. This would rule out something like taking $M(x, t) = t!$ and would also allow us to draw conclusions based on the properties of this natural transformation.
+
+**** Standard evolution
+I should write evolution equations for various common quantities, such as curvature. That is by choosing $Z=R$ above say, I only need to work out $DZ = DR$ once and then can apply it to any number of flows. Another important similar thing is to work out the dependence on the metric which all geometric quantities depend on. For example, let $Rm = Rm(g)$ be the Riemann curvature tensor for the metric $g$. What are $DRM$ and $D^2Rm$ where $Rm$ is thought of as a function of the metric. This will apply for all evolution equations/elliptic problems!
 ** Reading
 - MR3016508
 - [[http://link.springer.com/article/10.1007/s00526-012-0508-1]]
