@@ -124,7 +124,7 @@
 :END:
 
 *** NEXT Mod Intensity
-    SCHEDULED: <2013-02-27 Wed .+4d/5d>
+    SCHEDULED: <2013-02-28 Thu .+4d/5d>
     - State "DONE"       from "NEXT"       [2013-02-20 Wed 08:47]
     - State "DONE"       from "NEXT"       [2013-02-16 Sat 20:07]
     - State "DONE"       from "NEXT"       [2013-02-06 Wed 19:39]
@@ -165,7 +165,7 @@
 :LAST_REPEAT: [2013-02-20 Wed 08:47]
 :END:
 *** NEXT High Intensity
-    SCHEDULED: <2013-02-28 Thu .+4d/5d>
+    SCHEDULED: <2013-03-01 Fri .+4d/5d>
     - State "DONE"       from "NEXT"       [2013-02-21 Thu 07:59]
     - State "DONE"       from "NEXT"       [2013-02-17 Sun 17:41]
     - State "DONE"       from "NEXT"       [2013-02-17 Sun 17:41]
