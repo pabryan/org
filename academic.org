@@ -805,6 +805,7 @@ See also
 
 *** Research Pondering
     :LOGBOOK:
+    CLOCK: [2013-02-27 Wed 12:50]    
     CLOCK: [2013-02-20 Wed 13:17]--[2013-02-20 Wed 13:30] =>  0:13
     CLOCK: [2013-02-08 Fri 14:45]--[2013-02-08 Fri 15:18] =>  0:33
     CLOCK: [2013-02-08 Fri 13:05]--[2013-02-08 Fri 14:00] =>  0:55
@@ -891,6 +892,7 @@ Can we get Colding/Minicozzi results from this?
 *** Distance viscosity and evolution equations and curvature
 With a viscosity equation for the distance function on a Riemannian manifold, how does this relate to geometric evolution equations? What can we then say about curvature, such as a comparison of distance implies a curvature comparison also (since on the small scale in geodesic coords, distance is like curvature at 2nd order)? Then can I apply this to say Ricci flow? What about MCF? How would this compare with extrinsic distance in this case?
 *** Parabolic geometric equations
+**** The equations
 Let
 \[
 F: \Omega^2 (M, N) \times \Omega^1 (M, N) \times \Omega^0 (M, N) \times M
@@ -901,7 +903,33 @@ with $\Omega^i (M, N)$ the $TN$-valued $i$ forms, e.g. if $u: M \to N$ then $Du:
 \]
 where $u: M \times [0, T) \to N$. $N=\RR$ for scalar functions or could be the ambient space for a family of embeddings or symmetric two forms for the evolution of the metric. 
 **** Normalised Flow
-\tilde{u}(x, \tau) = \lambda(\tau) u(x, t)
+\[
+\tilde{u}(x, \tau) = \lambda(t) u(x, t)
+\]
+with $\lambda$ the normalising factor and $\tau = \phi(t)$ some diffemorphism $\phi: [0, T) \to [0, \tilde{T})$. The normalised flow evolves according to the equation
+\[
+\pd{\tau} \tilde{u} = \frac{1}{\pd{t} \phi}\left(\pd{t} \lambda u + \lambda F(D^2u, Du, u, x) = \frac{1}{\pd{t} \phi} \left(\frac{\pd{t}\lambda}{\lambda} \tilde{u} + \lambda F(\frac{1}{\lambda} D^2\tilde{u}, \frac{1}{\lambda} D\tilde{u}, \frac{1}{\lambda} \tilde{u}, x)\right) .
+\]
+We'll want some kind of homogeneity in $F$ to bring the $\lambda$ out the front. So suppose $F$ is homogeneous of degree $(\alpha_2, \alpha_1, \alpha_0)$ with $\alpha_i$ the degree of homogeneity in $\Omega^i(M, N)$. Then we get
+\[
+\pd{\tau} \tilde{u} = frac{1}{\pd{t} \phi} \frac{\pd{t}\lambda}{\lambda} \tilde{u} + \frac{\lambda^{\alpha_2 + \alpha_1 + \alpha_0 + 1}}{\pd{t}\phi} F(D^2\tilde{u}, D\tilde{u}, \tilde{u}, x)
+\]
+which means we should choose
+\[
+\phi(t) = \int_0^t \lambda^{\alpha_2 + \alpha_1 + \alpha_0 + 1}
+\]
+to obtain
+\[
+\pd{\tau} \tilde{u} = F(D^2\tilde{u}, D\tilde{u}, \tilde{u}, x) + \frac{\pd{t}\lambda}{\lambda^{\alpha_2 + \alpha_1 + \alpha_0 + 2}} \tilde{u}
+\]
+
+I'll call a Type I singularity one where the normalised flow has $\tilde{T}=\infty$ and a smooth limit (up to diffeomorphism invariance). In this case, although the flow becomes singular at time $T$, the way it does is somehow not pathalogical. For example in the CSF, closed curves must collapse, but for Type I singularities, that's all that goes wrong - no corners, cusps etc. Otherwise, the singularity is Type II. Either $\tilde{T} \ne \infty$ so that a cusp or corner has formed before the natural extinction time, or there is no (smooth) limit.
+
+In the Type I case, we expect that $\pd{\tau}\tilde{u} \to 0$ so that the limit $\tilde{u}_{\infty}$ satisfies
+\[
+
+
+
 ** Reading
 - MR3016508
 - [[http://link.springer.com/article/10.1007/s00526-012-0508-1]]
