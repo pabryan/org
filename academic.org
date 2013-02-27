@@ -517,6 +517,9 @@ This should not involve partial derivatives by tangent vectors to $S^1$ like in 
     :ID:       d012ffc5-cbec-4f58-8df9-91782762eb0d
     :END:
 *** NEXT Change max principle to $Z \geq 0$
+    :LOGBOOK:
+    CLOCK: [2013-02-26 Tue 19:25]
+    :END:
     :PROPERTIES:
     :ID:       76a2b612-5546-4a90-a96b-9acdc9d850b4
     :END:
