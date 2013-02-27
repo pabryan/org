@@ -934,7 +934,14 @@ In the Type I case, we expect that $\pd{\tau}\tilde{u} \to 0$ so that the limit 
 Then we have an elliptic problem to solve. i.e. we want to classify all such solutions. See also self shrinkers for MCF and solitons for Ricci flow. How do things like monotonicity (e.g. Huisken, Perelman?) relate to this? Doing all the above for MCF can be checked directly and it's all good!
 
 
+**** Geometric quantities
+Now let $Z: M \times [0, T) \to G$ be some geometric quantity with $G$ probably $\RR$, but could be a vector bundle, for example the normal bundled $\nu M$ of an immersion and $G$ is the support function. I guess it could be all manner of things! Can the phrase geometric be interpereted as some sort of natural transformation? This way, for each $t$, it gives the geometric quantity for $M_t$ and so we could write $Z(M_t)$. That is, $Z$ shouldn't have explicit $t$-dependence and the way to compute $Z$ is the same for all $M_t$.
 
+The evolution of $Z$ is
+\[
+\nabla_{\pd{t}} Z = DZ
+
+Can I now produce $F(D^2Z, DZ, Z, x)$ from spatial variations?
 ** Reading
 - MR3016508
 - [[http://link.springer.com/article/10.1007/s00526-012-0508-1]]
