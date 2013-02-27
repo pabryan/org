@@ -920,13 +920,18 @@ which means we should choose
 \]
 to obtain
 \[
-\pd{\tau} \tilde{u} = F(D^2\tilde{u}, D\tilde{u}, \tilde{u}, x) + \frac{\pd{t}\lambda}{\lambda^{\alpha_2 + \alpha_1 + \alpha_0 + 2}} \tilde{u}
+\pd{\tau} \tilde{u} = F(D^2\tilde{u}, D\tilde{u}, \tilde{u}, x) + \frac{\pd{t}\lambda}{\lambda^{\alpha_2 + \alpha_1 + \alpha_0 + 2}} \tilde{u}.
 \]
+We'll need for the $t$ dependent bit to give some geometric quantity, such as total curvature. Possibly I could work out the sort of thing we'd need, but writing $\lambda$ as a function of the metric, or even $u$ iteself!
 
 I'll call a Type I singularity one where the normalised flow has $\tilde{T}=\infty$ and a smooth limit (up to diffeomorphism invariance). In this case, although the flow becomes singular at time $T$, the way it does is somehow not pathalogical. For example in the CSF, closed curves must collapse, but for Type I singularities, that's all that goes wrong - no corners, cusps etc. Otherwise, the singularity is Type II. Either $\tilde{T} \ne \infty$ so that a cusp or corner has formed before the natural extinction time, or there is no (smooth) limit.
 
 In the Type I case, we expect that $\pd{\tau}\tilde{u} \to 0$ so that the limit $\tilde{u}_{\infty}$ satisfies
 \[
+ F(D^2\tilde{u}_{\infty}, D\tilde{u}_{\infty}, \tilde{u}_{\infty}, x) + \frac{\pd{t}\lambda}{\lambda^{\alpha_2 + \alpha_1 + \alpha_0 + 2}} \tilde{u}_{\infty} = 0
+\]
+
+Then we have an elliptic problem to solve. i.e. we want to classify all such solutions. See also self shrinkers for MCF and solitons for Ricci flow. How do things like monotonicity (e.g. Huisken, Perelman?) relate to this? Doing all the above for MCF can be checked directly and it's all good!
 
 
 
