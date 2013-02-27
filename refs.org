@@ -126,6 +126,13 @@
 :END:
 [[papers:MR2114163][MR2114163-paper]]
 
+**** 53C21   (1980-now) Methods of Riemannian geometry, including PDE methods; curvature restrictions 
+***** An isoperimetric estimate for the {R}icci flow on the two-sphere
+:PROPERTIES:
+:Custom_ID: MR1369139
+:END:
+[[papers:MR1369139][MR1369139-paper]]
+[[bib:MR1369139][MR1369139-bib]]
 **** 53C25   (1973-now) Special Riemannian manifolds (Einstein, Sasakian, etc.)
 ***** Four-manifolds with positive curvature operator
 :PROPERTIES:
@@ -220,6 +227,13 @@
 :END:
 [[papers:MR1660843][MR1660843-paper]]
 [[bib:MR1660843][MR1660843-bib]]
+***** Isoperimetric estimates for the curve shrinking flow in the plane
+:PROPERTIES:
+:Custom_ID: MR1369140
+:END:
+[[papers:MR1369140][MR1369140-paper]]
+[[bib:MR1369140][MR1369140-bib]]
+
 **** 58E12   (1980-now) Applications to minimal surfaces (problems in two independent variables) [See also 49Q05]
 ***** Stability of hypersurfaces with constant mean curvature
 :PROPERTIES:
