@@ -527,6 +527,9 @@ This should not involve partial derivatives by tangent vectors to $S^1$ like in 
     :ID:       76a2b612-5546-4a90-a96b-9acdc9d850b4
     :END:
 *** NEXT Change to concave comparison.
+    :LOGBOOK:
+    CLOCK: [2013-02-27 Wed 08:20]
+    :END:
     :PROPERTIES:
     :ID:       8fc84005-747c-4a3e-addb-cfdc8f0ed2a3
     :END:
