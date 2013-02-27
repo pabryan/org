@@ -289,7 +289,7 @@ Probably also need concave comparison functions. This should rule out $\tang_p =
     :END:
 *** NEXT Estimate integrals for max principle arg
     :LOGBOOK:
-    CLOCK: [2013-02-27 Wed 14:34]
+    CLOCK: [2013-02-27 Wed 14:34]--[2013-02-27 Wed 15:24] =>  0:50
     CLOCK: [2012-12-21 Fri 13:30]--[2012-12-21 Fri 15:32] =>  2:02
     CLOCK: [2012-12-21 Fri 11:02]--[2012-12-21 Fri 11:51] =>  0:49
     CLOCK: [2012-12-20 Thu 21:14]--[2012-12-20 Thu 21:46] =>  0:32
