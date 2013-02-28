@@ -34,14 +34,14 @@ END:
 | tritoncash  |    25 |
 | Loan        |   500 |
 | ASG         |   125 |
-| Kate Visa   |   200 |
+| Kate Visa   |   225 |
 | Family Tax  |  -220 |
 | Pay         | -3800 |
 | Weekly Food | 481.5 |
 | Supplies    |  58.5 |
 | Montly Food |    59 |
 |             |       |
-| Total       | -526. |
+| Total       | -501. |
    #+TBLFM: @15$2=remote(WeeklyFood,@15$2)*4.5::@16$2=remote(Supplies,@11$2)::@17$2=remote(MonthlyFood,@13$2)::@19$2=vsum(@2$2..@18$2)
 
 #+TBLNAME: WeeklyFood
