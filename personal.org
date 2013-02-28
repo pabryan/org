@@ -32,17 +32,27 @@ END:
 | Petrol      |    30 |
 | Comics      |    50 |
 | tritoncash  |    25 |
-| Loan        |   500 |
-| ASG         |   125 |
-| Kate Visa   |   225 |
-| Family Tax  |  -220 |
 | Pay         | -3800 |
 | Weekly Food | 481.5 |
 | Supplies    |  58.5 |
 | Montly Food |    59 |
+| Australia   |   850 |
 |             |       |
-| Total       | -501. |
-   #+TBLFM: @15$2=remote(WeeklyFood,@15$2)*4.5::@16$2=remote(Supplies,@11$2)::@17$2=remote(MonthlyFood,@13$2)::@19$2=vsum(@2$2..@18$2)
+| Total       | -281. |
+   #+TBLFM: @11$2=remote(WeeklyFood,@15$2)*4.5::@12$2=remote(Supplies,@11$2)::@13$2=remote(MonthlyFood,@13$2)::@14$2=remote(Australia,@7$2)::@16$2=vsum(@2$2..@15$2)
+
+#+TBLNAME: Australia
+| Desc       |  Amt |
+|------------+------|
+| Loan       |  500 |
+| ASG        |  125 |
+| Kate Visa  |  225 |
+| Family Tax | -220 |
+|            |      |
+| Out        |  850 |
+| Total      |  630 |
+   #+TBLFM: @7$2=vsum(@2$2..@4$2)::@8$2=vsum(@2$2..@6$2)
+
 
 #+TBLNAME: WeeklyFood
 | Desc                                     | Amt |
