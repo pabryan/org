@@ -796,12 +796,7 @@ Here we look at a conformal change of metric. The Levy-Gromov comparison doesn't
 Can I use a non-collapsing type argument?
 ** Books
 *** Working
-**** TODO MCF Book
-   :LOGBOOK:
-   CLOCK: [2013-02-28 Thu 14:31]
-   CLOCK: [2013-02-28 Thu 14:02]--[2013-02-28 Thu 14:08] =>  0:06
-   CLOCK: [2013-02-28 Thu 11:50]--[2013-02-28 Thu 12:35] =>  0:45
-   :END:
+**** TODO MCF Book						   :MCF_BOOK:
 [[file:~/working/academic/research/mcf_book]]
 [[file:~/Dropbox/MCF Project]]
    :PROPERTIES:
@@ -816,12 +811,16 @@ Can I use a non-collapsing type argument?
       :ID:       264e8cb9-0195-4424-8b4a-7564af954309
       :END:
 ***** TODO Make outline of book
-    :PROPERTIES:
-    :ID:       2b1f653b-3d67-4b05-92a8-44b2afc74546
-    :END:
-:ID:       fafef726-06de-4f07-8e85-b55e2e153b9d
-    :END:ok
-****** NEXT What should be in the book? Make outline.
+   :LOGBOOK:
+   CLOCK: [2013-02-28 Thu 16:27]
+   CLOCK: [2013-02-28 Thu 14:31]--[2013-02-28 Thu 15:34] =>  1:03
+   CLOCK: [2013-02-28 Thu 14:02]--[2013-02-28 Thu 14:08] =>  0:06
+   CLOCK: [2013-02-28 Thu 11:50]--[2013-02-28 Thu 12:35] =>  0:45
+   :END:
+   :PROPERTIES:
+   :ID:       2b1f653b-3d67-4b05-92a8-44b2afc74546
+   :END:
+****** DONE What should be in the book? Make outline.
        :PROPERTIES:
        :ID:       831b7f47-ac24-4779-a485-f627e289934a
        :END:
@@ -829,6 +828,7 @@ Can I use a non-collapsing type argument?
        :PROPERTIES:
        :ID:       189cc302-8dde-4aa2-818e-66d4b9dd0c9f
        :END:
+In particular, put more detail in.
 ***** TODO Write convex/geometry and support function parts
       :PROPERTIES:
       :ID:       ff3c6e47-4972-49e9-b5d4-7e4ed5524445
