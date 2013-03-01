@@ -840,14 +840,29 @@ In particular, put more detail in.
       :ID:       ff3c6e47-4972-49e9-b5d4-7e4ed5524445
       :END:
 ***** TODO Topics
+      :PROPERTIES:
+      :ID:       91473ce5-db9d-4368-a988-0f8de97343a0
+      :END:
 ****** Collect references
        :LOGBOOK:
-       CLOCK: [2013-03-01 Fri 15:29]
+       CLOCK: [2013-03-01 Fri 15:29]--[2013-03-01 Fri 15:37] =>  0:08
        :END:
 ****** TODO Research Huisken's original paper
+       :PROPERTIES:
+       :ID:       3477a805-50d8-4722-9982-2d6849b2a110
+       :END:
 ****** TODO Research Stampacchia iteration
+       :PROPERTIES:
+       :ID:       00015f9a-c2f8-4027-b2b5-34664811caee
+       :END:
 ****** TODO Research Graphs
+       :PROPERTIES:
+       :ID:       e0d198b6-be05-422d-ae6a-8fbecbb564b4
+       :END:
 ****** TODO Research Solitons
+       :PROPERTIES:
+       :ID:       d53199b6-0467-4a24-95d9-18e3d6d37e54
+       :END:
 ***** TODO Get my honour's thesis work into a useable format
       :PROPERTIES:
       :ID:       810fd351-5f88-415f-9977-906fa1e39681
