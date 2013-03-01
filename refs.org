@@ -212,6 +212,13 @@
 :END:
 [[papers:MR1949167][MR1949167-paper]]
 [[bib:MR1949167][MR1949167-bib]]
+***** A relation between mean curvature flow solitons and minimal submanifolds
+:PROPERTIES:
+:Custom_ID: MR1855161
+:END:
+[[papers:MR1855161][MR1855161-paper]]
+[[bib:MR1855161][MR1855161-bib]]
+
 ** 58 (1973-now) Global analysis, analysis on manifolds [See also 32Cxx, 32Fxx, 32Wxx, 46-XX, 47Hxx, 53Cxx] [For geometric integration theory, see 49Q15]
 *** 58E   (1973-now) Variational problems in infinite-dimensional spaces
 **** 58E10   (1973-now) Applications to the theory of geodesics (problems in one independent variable)
@@ -317,6 +324,7 @@ Here I need to do some more work since $u \mapsto g(\grad u, \grad u)$ is not a 
 :Custom_ID: MR2170766
 :END:
 [[papers:MR2170766][MR2170766-paper]]
+
 
 
 
