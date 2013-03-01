@@ -716,12 +716,15 @@ MATLAB is homework.
        	:END:
 ****** TODO Week 9 Lectures
        DEADLINE: <2013-03-03 Sun> SCHEDULED: <2013-02-25 Mon>
+       :LOGBOOK:
+       :END:
        :PROPERTIES:
        :ID:       0cf82863-ff47-4f85-9e7c-5325574f63e7
        :END:
-******* NEXT Prepare lecture 9-1
+******* DONE Prepare lecture 9-1
+	- State "DONE"       from "NEXT"       [2013-03-01 Fri 15:24]
 	:LOGBOOK:
-	CLOCK: [2013-03-01 Fri 14:20]
+	CLOCK: [2013-03-01 Fri 14:20]--[2013-03-01 Fri 15:24] =>  1:04
 	:END:
        	:PROPERTIES:
        	:ID:       acd4a608-a8c6-4acd-8837-43b7cb475613
