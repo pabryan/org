@@ -15,3 +15,9 @@
   :END:
 [2013-02-28 Thu 17:57]
 I can export to Docbook, then use standard tools to produce mutli-page html and single page html files. Can I just do this in one go?
+* TODO Tag someday projects as SOMEDAY and use a filter to remove them from agenda
+  :LOGBOOK:
+  CLOCK: [2013-02-28 Thu 21:51]--[2013-02-28 Thu 21:52] =>  0:01
+  :END:
+[2013-02-28 Thu 21:51]
+
