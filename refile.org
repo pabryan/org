@@ -19,5 +19,8 @@ I can export to Docbook, then use standard tools to produce mutli-page html and 
   :LOGBOOK:
   CLOCK: [2013-02-28 Thu 21:51]--[2013-02-28 Thu 21:52] =>  0:01
   :END:
+  :PROPERTIES:
+  :ID:       9ab0346c-4212-4d5c-8b5b-594ce1312a1b
+  :END:
 [2013-02-28 Thu 21:51]
 
