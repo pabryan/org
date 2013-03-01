@@ -24,3 +24,13 @@ I can export to Docbook, then use standard tools to produce mutli-page html and 
   :END:
 [2013-02-28 Thu 21:51]
 
+* TODO Tag papers in ref.org so I can find papers by subject!
+  :LOGBOOK:
+  CLOCK: [2013-03-01 Fri 13:57]--[2013-03-01 Fri 14:00] =>  0:03
+  :END:
+  :PROPERTIES:
+  :ID:       fd828213-33b7-4ebd-9292-b1323dd3baff
+  :END:
+[2013-03-01 Fri 13:57]
+I could also have author, title, date etc. in the properties drawer! This is redundant, but means I can search my org file on author etc.
+No! Maybe I can use reftex and get it to take me to the entry in refs.org? I can certainly due this manually, using reftex to take me to the bib file which gives the ID which I can search for in the org file. Then I don't need to maintain duplicate info in the org and bib files and have all the power of reftex available.
