@@ -1,0 +1,180 @@
+#+FILETAGS: SOMEDAY
+
+* Computing
+** TODO org-mode
+*** TODO VC it!
+Use [[http://mercurial.selenic.com/wiki/AutoSyncExtension][AutoSync]]
+*** TODO Projects directory scanned by cron and automatically added to GTD
+    Since gtd will be on dropbox, I'll need to worry about clashes in syncing.
+    Maybe I'll only dropbox as a backup and sync with bitbucket
+*** TODO Scheduling
+*** TODO Dependencies
+    e.g. for exporting to Gantt charts
+*** TODO Replace mendeley
+*** TODO Integrate note taking apps, screen and web clippers
+*** TODO Voice notes in android directly into mobile-org
+  CLOCK: [2012-10-14 Sun 20:27]--[2012-10-14 Sun 20:27] =>  0:00
+[2012-10-14 Sun 20:27]
+*** TODO org-mode contacts list
+If I need to contact someone, make the org link to the contact entry so I can choose phone, email whatever
+  CLOCK: [2012-10-14 Sun 20:35]--[2012-10-14 Sun 20:36] =>  0:01
+[2012-10-14 Sun 20:35]
+*** TODO Set up org-refile targets
+I want to include a file relative to the org directory like
+(concat org-directory "someday/someday.org")
+or even get the whole directory but I don't know how to write the lisp
+  CLOCK: [2012-10-18 Thu 13:09]--[2012-10-18 Thu 13:10] =>  0:01
+   :PROPERTIES:
+   :ID:       8120860b-546d-448f-8f2f-1b76e48a0299
+   :END:
+[2012-10-18 Thu 13:09]
+*** TODO Get org-mode to make links with just filename in description :COMPUTER:
+  CLOCK: [2012-10-19 Fri 14:10]--[2012-10-19 Fri 14:10] =>  0:00
+[2012-10-19 Fri 14:10]
+I don't want to include the full path. Need to learn the elisp.
+*** TODO Custom agenda in mobile org 
+
+[2012-10-21 Sun 15:10]
+
+
+*** TODO mobile-org widget
+  CLOCK: [2012-10-21 Sun 16:48]--[2012-10-21 Sun 16:48] =>  0:00
+[2012-10-21 Sun 16:48]
+*** TODO Hacking on mobile org
+[[https://github.com/matburt/mobileorg-android/blob/master/HACKING.md][start here]]
+  CLOCK: [2012-10-21 Sun 17:27]--[2012-10-21 Sun 17:27] =>  0:00
+[2012-10-21 Sun 17:27]
+
+** TODO Integrated panel (widget?) based O/S
+e.g. panels display some content and take input/output have events, hooks etc.
+
+** TODO Collate junk code
+** TODO Learn how to do accented characters etc. in text files
+** TODO Note taking app for android
+   should have a navigation area and a writing area, some sort of zooming
+** TODO Research mobile org voice input
+** TODO Research Bazaar vc
+   http://wiki.bazaar.canonical.com/Workflows
+** Emacs
+*** TODO learn LISP
+*** TODO Use emacs for mail, web, news, rss etc.
+*** TODO Research IDO
+  CLOCK: [2012-10-12 Fri 14:17]--[2012-10-12 Fri 14:17] =>  0:00
+[2012-10-12 Fri 14:17]
+
+*** TODO web based X-server, terminal
+  CLOCK: [2012-10-14 Sun 19:56]--[2012-10-14 Sun 19:56] =>  0:00
+[2012-10-14 Sun 19:56]
+*** TODO Manage my computer settings
+I want my computing environment available wherever I am (at least with ssh or a unix system)
+See also my web based x-server and terminal
+**** Version control config files
+**** Version control scripts, junk code
+**** RSA keys somewhere portable, maybe use PGP also?
+
+  CLOCK: [2012-10-14 Sun 19:58]--[2012-10-14 Sun 20:00] =>  0:02
+[2012-10-14 Sun 19:58]
+*** TODO remote access to ucsd
+euclid is old and won't have all the applications I need
+can I ssh into my workstation?
+  CLOCK: [2012-10-15 Mon 09:35]--[2012-10-15 Mon 09:35] =>  0:00
+[2012-10-15 Mon 09:35]
+*** TODO set up emacs server and screen for access anywhere
+  CLOCK: [2012-10-15 Mon 09:37]--[2012-10-15 Mon 09:38] =>  0:01
+[2012-10-15 Mon 09:37]
+*** TODO Create contacts in emacs
+  CLOCK: [2012-10-14 Sun 20:34]--[2012-10-14 Sun 20:34] =>  0:00
+  [2012-10-14 Sun 20:34]
+*** TODO Configure Mercurial 
+e.g. ignore emacs back files
+*** TODO Fix emacs java-mode so @Override and the next line have the same indentation
+  CLOCK: [2012-10-27 Sat 15:48]--[2012-10-27 Sat 15:48] =>  0:00
+[2012-10-27 Sat 15:48]
+
+** TODO research bit, bazaar
+  CLOCK: [2012-10-15 Mon 09:36]--[2012-10-15 Mon 09:36] =>  0:00
+[2012-10-15 Mon 09:36]
+** TODO Research IP phones
+I want to be able to contact people from within org and perhaps route incoming calls to the computer, say by a virtual number. Then I could answer/make them in org and have capture time it.
+  CLOCK: [2012-10-14 Sun 20:36]--[2012-10-14 Sun 20:37] =>  0:01
+[2012-10-14 Sun 20:36]
+* Maths
+** sage
+** ANUGA
+** Vector symmetric polynomials
+** Higher category theory - coloured graphs
+** Comparison for dist fn.
+Can I solve the diff. ineq. in general to get some useful comparison theory for distance function. compare space forms of const. curve $k$, where we define $f_k(d)\grad d$.
+** TODO Research ancient soln's
+See Hamilton, Sessum, Daskopolus and Ben Chow's exposition
+  CLOCK: [2012-10-17 Wed 08:23]--[2012-10-17 Wed 08:24] =>  0:01
+[2012-10-17 Wed 08:23]
+** TODO Does Lei's variational Levy-Gromov work for bounded regions in the Euclidean space?
+Can I prove that the isoprofile of a ball (or just say the unit disc in the plane)
+has the best isoperimetric profile using the variational techniques?
+  CLOCK: [2012-10-29 Mon 20:42]--[2012-10-29 Mon 20:43] =>  0:01
+[2012-10-29 Mon 20:42]
+
+* Applied research
+** Astrophysics research
+** General relativity
+
+* Exposition
+** TODO Get involved in social networking for research etc.
+** TODO Blog about things like bare foot walking
+** TODO Produce lecture blogs
+** TODO General public articles on maths
+   
+* Misc
+** TODO Speed reading
+** TODO Better handwriting
+** TODO Learn to write lower case and upper case "u" differently
+  CLOCK: [2012-10-15 Mon 15:24]--[2012-10-15 Mon 15:24] =>  0:00
+[2012-10-15 Mon 15:24]
+
+* workflow
+** TODO Research paper notebooks				   :COMPUTER:
+   :PROPERTIES:
+   :ID:       95201798-e0f8-4283-ad8c-c9bf948a52f2
+   :END:
+* academic
+** TODO Research Supervising
+Say summer projects, or reading courses
+Can I employ (through a grant?) research assistants? These should get something like a paper or conference proceeding out of it
+
+  CLOCK: [2012-10-15 Mon 09:32]--[2012-10-15 Mon 09:33] =>  0:01
+   :PROPERTIES:
+   :ID:       601c43cf-e25d-496c-b829-968fcecf3b50
+   :END:
+  [2012-10-15 Mon 09:32]
+  
+*** NEXT Contact Peter Ebenfelt about supervising students
+*** NEXT Create student projects
+    :PROPERTIES:
+    :ID:       6caa18dc-32bc-43e2-8592-8b5145e39c4a
+    :END:
+**** NEXT Research what other people have done
+     :PROPERTIES:
+     :ID:       be3a110e-5c1e-4639-91bf-d365ac331dab
+     :END:
+**** NEXT Make a list of possible student projects
+     :PROPERTIES:
+     :ID:       cea08fd0-43d2-475b-8bc7-a9f3ba218a2e
+     :END:
+**** TODO Advertise student project list
+     :PROPERTIES:
+     :ID:       02760253-d447-4bd2-820d-b359961c7751
+     :END:
+On website, email people who can inform students
+
+** TODO Write tutorials on project management, GTD so on for mathematicians, scientists, academics and teachers
+   :PROPERTIES:
+   :ID:       0bc3a3b6-1a25-4b77-aace-ffbd0c69139b
+   :END:
+** TODO Preparing/doing research using org-mode
+Write a paper on how to do it? Use my own paper preperation as model
+  CLOCK: [2012-10-14 Sun 20:42]--[2012-10-14 Sun 20:43] =>  0:01
+   :PROPERTIES:
+   :ID:       ade2f502-3a52-4fc7-bdbe-944b7c566c34
+   :END:
+[2012-10-14 Sun 20:42]
