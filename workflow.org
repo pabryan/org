@@ -1,0 +1,1490 @@
+#+LAST_MOBILE_CHANGE: 2013-01-01 21:22:23
+#+FILETAGS: WORKFLOW
+
+* org-mode
+  :PROPERTIES:
+  :ID:       c68e08d3-cbfa-4207-a6e5-f56a3be57ad1
+  :END:
+** NEXT Punch In/Out
+   :PROPERTIES:
+   :ID:       e40f5241-3a84-496d-97f5-43fa7f5e2cd9
+   :END:
+This should sync with bitbucket, sync with mobile org and check the status of working projects.
+** NEXT Set up level 1 headings (with properties)		   :COMPUTER:
+   :PROPERTIES:
+   :ID:       5196f0ca-ccb1-4fcc-b483-20f3f835838d
+   :END:
+** TODO Set up contexts						   :COMPUTER:
+   :PROPERTIES:
+   :ID:       b44f91a4-abd0-459c-bfe9-c103641be8dd
+   :END:
+*** NEXT Create contexts
+    :PROPERTIES:
+    :ID:       40f05fb2-aa64-4d0b-a747-3c4b66d2ec93
+    :END:
+home, computer, office, anywhere, notebook, tablet, phone, errand
+*** SOMEDAY Set up context tags for headings when appropriate
+    :PROPERTIES:
+    :ID:       9e0b76ca-c5e7-4bd5-bcb4-12f4995eceed
+    :END:
+e.g. for personal errands I have an errands heading which should have
+the errand tag attached to it and hence any child
+** DONE Setup mercurial sync and fetch				   :COMPUTER:
+   - State "DONE"       from "TODO"       [2012-11-30 Fri 13:43]
+  CLOCK: [2012-10-18 Thu 10:59]--[2012-10-18 Thu 10:59] =>  0:00
+   :PROPERTIES:
+   :ID:       70331fca-6e60-44e7-9069-19e2808a45f5
+   :END:
+[2012-10-18 Thu 10:59]
+*** DONE research mercurial sync
+    - State "DONE"       from "SOMEDAY"    [2012-11-30 Fri 13:43]
+    :PROPERTIES:
+    :ID:       8f7d4e32-982c-4f0a-9cd0-d267c269b172
+    :END:
+** NEXT Get agenda filtering elisp functions into my org setup	   :COMPUTER:
+See [[http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=9&cad=rja&ved=0CEkQFjAI&url=http%3A%2F%2Fdoc.norang.ca%2Forg-mode.html&ei=VmGAUOnkOaTliQLw0ICICQ&usg=AFQjCNHQ1HdTsHALFTFCzKA3VWXmqPg2qA][org-mode tutorial]]
+scheduled todos should not appear in the general list
+  CLOCK: [2012-10-18 Thu 13:04]--[2012-10-18 Thu 13:07] =>  0:03
+   :PROPERTIES:
+   :ID:       83cb8720-795d-4602-829b-8b60f64a01c9
+   :END:
+[2012-10-18 Thu 13:04]
+
+** DONE Set up clocking						   :COMPUTER:
+   - State "DONE"       from "NEXT"       [2012-12-07 Fri 10:45]
+  CLOCK: [2012-10-18 Thu 13:07]--[2012-10-18 Thu 13:08] =>  0:01
+   :PROPERTIES:
+   :ID:       5342bba9-aa74-4548-808a-cb693e7d6f8a
+   :END:
+  [2012-10-18 Thu 13:07]
+See [[http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=9&cad=rja&ved=0CEkQFjAI&url=http%3A%2F%2Fdoc.norang.ca%2Forg-mode.html&ei=VmGAUOnkOaTliQLw0ICICQ&usg=AFQjCNHQ1HdTsHALFTFCzKA3VWXmqPg2qA][org-mode tutorial]]
+** DONE Set up syncing org-mode and mobile org
+   - State "DONE"       from "NEXT"       [2012-12-07 Fri 10:45]
+  CLOCK: [2012-10-21 Sun 17:26]--[2012-10-21 Sun 17:26] =>  0:00
+   :PROPERTIES:
+   :ID:       31c5396f-656c-4ea7-9139-f5e99dda5b0b
+   :END:
+[2012-10-21 Sun 17:26]
+[[https://github.com/matburt/mobileorg-android/wiki/FAQ][syncing instructions]]
+** DONE Configure tasks for later				   :COMPUTER:
+   - State "DONE"       from "TODO"       [2012-10-26 Fri 15:18]
+I want to be able to schedule a task for later, say after a given date
+such as the 1st of the month when I get paid and not have to see it until then.
+The down side is that if I filter scheduled tasks then after the day these
+won't appear in general tasks but as scheduled tasks. I need some way to
+mark them as hidden until later, whereupon they will appear in the general
+list and not the scheduled list.
+*** CANCELLED Create procedure for later scheduling of tasks 
+    - State "CANCELLED"  from "NEXT"       [2012-10-26 Fri 15:17] \\
+      I can just use schedule to schedule it later and it's probably a good thing
+      to reminded daily that the task needs to be done.
+Should be able to just schedule it for a given day and then org-mode
+will keep reminding me until it's done.
+*** DONE Research how to make a tickler file for org-mode
+    - State "DONE"       from "TODO"       [2012-10-26 Fri 15:16]
+** TODO Set up org-mode calendar				   :COMPUTER:
+   :PROPERTIES:
+   :ID:       41700872-750b-4b16-9f38-069e8041bb2b
+   :END:
+*** CANCELLED Put calendar data into org-mode
+    - State "CANCELLED"  from "SOMEDAY"       [2012-11-30 Fri 13:44] \\
+      This is just using org-mode with timestamps!
+    :PROPERTIES:
+    :ID:       c69116a8-6655-4429-bbac-73a314ef2967
+    :END:
+*** NEXT sync with google calendar
+    :PROPERTIES:
+    :ID:       f1a7f408-27b3-44ab-b0f2-73ec079976df
+    :END:
+*** DONE Research org-mode agenda views and how to use it productively
+    - State "DONE"       from "TODO"       [2012-11-30 Fri 13:44]
+    :PROPERTIES:
+    :ID:       358d2a2c-f8ac-485d-946e-c5e89097e1e9
+    :END:
+**** DONE Learn how to filter org-mode agenda views
+     - State "DONE"       from "NEXT"       [2012-11-15 Thu 11:46]
+I want to filter out personal tasks at work for example or show only ucsd and academic tasks
+** TODO Filter out someday tasks
+    :PROPERTIES:
+    :ID:       907b0751-6098-4034-8dc0-0b3c3b75a268
+    :END:
+*** NEXT Find out how org-mode traverses trees in agenda search
+    :PROPERTIES:
+    :ID:       b8efe527-39dc-4dd0-9ec7-8fdb61f20934
+    :END: 
+** DONE Create someday todo for inactive tasks
+   - State "DONE"       from "TODO"       [2012-10-29 Mon 10:40]
+  CLOCK: [2012-10-26 Fri 15:06]--[2012-10-26 Fri 15:07] =>  0:01
+[2012-10-26 Fri 15:06]
+
+** TODO Make refs and working structure to reflect org structure
+Also create any projects and put the under vc
+  CLOCK: [2012-11-03 Sat 11:28]--[2012-11-03 Sat 11:28] =>  0:00
+   :PROPERTIES:
+   :ID:       63332550-a9dc-45c1-aca7-094e9c14cd00
+   :END:
+[2012-11-03 Sat 11:28]
+
+** TODO Check out org-contacts
+  CLOCK: [2012-11-03 Sat 19:28]--[2012-11-03 Sat 19:28] =>  0:00
+   :PROPERTIES:
+   :ID:       8aa779ca-ab20-4473-8b51-0a9826ad16be
+   :END:
+[2012-11-03 Sat 19:28]
+[[http://julien.danjou.info/projects/emacs-packages#org-contacts]]
+
+** TODO Check out quantified self
+  CLOCK: [2012-11-03 Sat 19:29]--[2012-11-03 Sat 19:30] =>  0:01
+   :PROPERTIES:
+   :ID:       aad86e16-f3f5-4cbb-84a1-f7a6abf0825d
+   :END:
+[2012-11-03 Sat 19:29]
+[[http://lists.gnu.org/archive/html/emacs-orgmode/2012-06/msg00405.html]]
+[[http://quantifiedself.com/about/]]
+[[http://lists.gnu.org/archive/html/emacs-orgmode/2012-05/msg00079.html]]
+[[http://sachachua.com/blog/category/quantified/]]
+
+** DONE Generate list of uncommitted working projects for weekly review
+   - State "DONE"       from "TODO"       [2013-02-05 Tue 13:21]
+  CLOCK: [2012-11-12 Mon 11:43]--[2012-11-12 Mon 11:44] =>  0:01
+   :PROPERTIES:
+   :ID:       88df0e6b-0854-49f2-b0f3-78298e050cb2
+   :END:
+[2012-11-12 Mon 11:43]
+This should do: $ find ~/working -iname '.hg' adnd then hg st, hg incoming, hg outgoing and if any report action required output the result
+
+** DONE Fix up clocking in/out on mobileorg
+   - State "DONE"       from "TODO"       [2012-12-04 Tue 12:56]
+   :PROPERTIES:
+   :ID:       7eea46e9-8678-4c94-a108-d3a2289abb63
+   :END:
+[2012-11-13 Tue 19:51]
+
+** DONE Need to have clock out shift clock to parent or default
+   - State "DONE"       from "TODO"       [2013-02-05 Tue 13:21]
+  :LOGBOOK:
+  :END:
+   :PROPERTIES:
+   :ID:       1032298e-f87c-4c18-a5c4-815135c7d16e
+   :END:
+[2012-11-16 Fri 15:18]
+
+** TODO Transcribe org from Bei Da notebook
+  :LOGBOOK:
+  :END:
+  :PROPERTIES:
+  :ID:       fe726d0c-2bf0-41c3-8fc3-5d6a8bce26a8
+  :END:
+[2012-11-20 Tue 11:03]
+** TODO Move someday projects into someday file
+  :LOGBOOK:
+  CLOCK: [2012-11-30 Fri 10:54]--[2012-11-30 Fri 10:55] =>  0:01
+  :END:
+  :PROPERTIES:
+  :ID:       b1f1170d-97e0-429c-af19-547233250a60
+  :END:
+[2012-11-30 Fri 10:54]
+This will clear up my agenda until I can filter out someday projects
+
+** DONE make_research_project.sh should create org-mode snippet
+   - State "DONE"       from "TODO"       [2012-12-07 Fri 10:45]
+  :LOGBOOK:
+  CLOCK: [2012-12-03 Mon 13:54]--[2012-12-03 Mon 13:55] =>  0:01
+  :END:
+   :PROPERTIES:
+   :ID:       19d696d2-2c2c-47f6-b948-a98b93a30be4
+   :END:
+[2012-12-03 Mon 13:54]
+
+** DONE Investigate Dropbox symlink errors
+   - State "DONE"       from "NEXT"       [2012-12-03 Mon 15:31]
+  :LOGBOOK:
+  CLOCK: [2012-12-03 Mon 15:29]--[2012-12-03 Mon 15:31] =>  0:02
+  CLOCK: [2012-12-03 Mon 14:47]--[2012-12-03 Mon 15:29] =>  0:42
+  CLOCK: [2012-12-03 Mon 14:05]--[2012-12-03 Mon 14:08] =>  0:03
+  :END:
+  :PROPERTIES:
+  :ID:       57f673eb-3483-4ad8-b019-33808cc2ddd1
+  :END:
+[2012-12-03 Mon 14:05]
+~/Dropbox/office should be a symlink to ~/Dropbox/math131
+likewise for notebook and paul-dell...
+
+Hostname should be the canonical place and I shouldn't ever need to worry about the symlinked one. i.e. I should be able to remove all references to office and notebook and then delete the symlinks.
+
+** DONE Set default bibliography for reftex
+   - State "DONE"       from "TODO"       [2013-02-05 Tue 13:19]
+  :PROPERTIES:
+  :ID:       1e9fd1df-e101-4e32-bc7b-b598793a498b
+  :END:
+[2012-12-07 Fri 10:15]
+
+** TODO Set up org-mode checklists contrib
+  :LOGBOOK:
+  :END:
+  :PROPERTIES:
+  :ID:       d1ed6cee-5067-40be-b0e5-4b25bef959c8
+  :END:
+[2012-12-07 Fri 13:44]
+
+** DONE Implement multi-page html export for org mode
+   - State "DONE"       from "TODO"       [2013-02-05 Tue 13:22]
+  :LOGBOOK:
+  :END:
+   :PROPERTIES:
+   :ID:       570b42ca-d616-423b-a94b-af1be32aeb7b
+   :END:
+[2012-12-13 Thu 10:36]
+
+** DONE Set up org-mode latex export
+   - State "DONE"       from "NEXT"       [2012-12-13 Thu 12:11]
+  :LOGBOOK:
+  CLOCK: [2012-12-13 Thu 11:38]--[2012-12-13 Thu 12:11] =>  0:33
+  CLOCK: [2012-12-13 Thu 11:34]--[2012-12-13 Thu 11:37] =>  0:03
+  CLOCK: [2012-12-13 Thu 11:05]--[2012-12-13 Thu 11:28] =>  0:23
+  CLOCK: [2012-12-13 Thu 10:38]--[2012-12-13 Thu 10:41] =>  0:03
+  :END:
+   :PROPERTIES:
+   :ID:       6ff58c1d-9be6-411e-b48f-4ed572a1552f
+   :END:
+[2012-12-13 Thu 10:37]
+Want it to use my settings, macros etc.
+** TODO fix: org mode clocks out when doing mobile sync
+  :LOGBOOK:
+  :END:
+   :PROPERTIES:
+   :ID:       f0e4da95-958f-4871-91bf-3eb156e22d3f
+   :END:
+[2012-12-14 Fri 11:53]
+
+** Web Publishing
+*** Links
+[[http://orgmode.org/manual/Publishing.html]]
+[[http://orgmode.org/manual/Exporting.html]]
+[[http://orgmode.org/worg/org-tutorials/org-publish-html-tutorial.html]]
+[[http://orgmode.org/worg/worg-setup.html]]
+[[http://stackoverflow.com/questions/12052013/beautiful-websites-using-emacss-or]]g-mode
+[[http://danamlund.dk/emacs/orgsite.html]]
+[[http://trashbird1240.wordpress.com/2012/01/17/set-up-a-website-using-emacs-org-mode/]]
+[[http://doc.norang.ca/org-mode.html#Publishing]]
+[[http://justinlilly.com/emacs/orgmode_static_site_generator.html]]
+
+** DONE Fix up vc on org mode
+  SCHEDULED: <2013-01-07 Mon>
+  - State "DONE"       from "TODO"       [2013-01-07 Mon 14:09]
+   :PROPERTIES:
+   :ID:       de79cdee-84f7-4429-8417-b010f1b963d4
+   :END:
+[2013-01-03 Thu 20:02]
+
+It's missing stuff from work.
+
+** TODO Put password free math131 ssh key on bitbucket for syncing
+  :LOGBOOK:
+  :END:
+   :PROPERTIES:
+   :ID:       02e28058-08f3-4acb-95b2-bd4fe4f99317
+   :END:
+[2013-01-11 Fri 14:17]
+** TODO mobile-org capture should store timestamp
+  :LOGBOOK:
+  :END:
+  :PROPERTIES:
+  :ID:       0da448e4-4613-4334-9c8a-e1602b72d98a
+  :END:
+[2013-01-18 Fri 10:15]
+** DONE Merge 2 seperate Lawson conj. proof tasks
+  - State "DONE"       from "TODO"       [2013-02-01 Fri 11:45]
+  :LOGBOOK:
+  :END:
+  :PROPERTIES:
+  :ID:       72227d07-1ec5-4d1e-8cd3-66c8db3996b4
+  :END:
+[2013-01-30 Wed 10:18]
+
+** TODO Archive old tasks in weekly review
+  :LOGBOOK:
+  :END:
+   :PROPERTIES:
+   :ID:       f7b55341-e8b8-46cd-a026-982f356173d7
+   :END:
+[2013-02-05 Tue 13:22]
+* process
+  :PROPERTIES:
+  :ID:       403ba6c9-9a32-430c-b0c9-0b09f2eba44e
+  :END:
+** TODO Organise research projects				   :COMPUTER:
+   :PROPERTIES:
+   :ID:       81bb4f28-b031-4061-9092-8e4a24b4b787
+   :END:
+Need to make project version control and org files linked to from
+gtd. Have some sort of notes folder for each project where I can dump
+blackboard screen shots, scans of notebooks etc.
+*** NEXT Make notebook and office projects consistent!
+    :PROPERTIES:
+    :ID:       21184652-81da-4475-93b9-e2e18d0a4c06
+    :END:
+*** TODO Make a "new research project" process
+    :PROPERTIES:
+    :ID:       3c0d5b9a-a43e-48b2-9f24-b8acd1e9fa2b
+    :END:
+[[*New%20Research%20Project][New Research Project]]
+** TODO Develop organisation process, workflow			   :ANYWHERE:
+   :PROPERTIES:
+   :ID:       a96c63f6-2ee8-4042-ae7c-3f7d5bc3493e
+   :END:
+what are the structures?
+where do things go?
+e.g. active projects have next items
+someday things are projects/todos without any next?
+What are my 50000ft to runway goals, principles, priorities etc.
+At the runway (i.e. actions) level, I should have a list of procedures for following when doing common tasks e.g. weekly review
+*** NEXT Make list of tasks to focus on this week
+    :PROPERTIES:
+    :ID:       d97c6589-0301-4611-9dc8-b1ea117c1172
+    :END:
+This could just be setting priorities and reevaluating them each week?
+*** NEXT Brainstorm high level planning
+    :PROPERTIES:
+    :ID:       56cc0a65-e6e2-4a43-9eff-d5b9a764f2b4
+    :END:
+*** SOMEDAY Process for Learning
+    :PROPERTIES:
+    :ID:       83f37a23-6ab0-4755-8306-39155dc66455
+    :END: 
+If I want to learn something, e.g. some maths or self-improvement, juggling, etc., make a project for this in org-mode where I can store notes. It would be really nice to be able to put a bookmark in a pdf/ebook and create a link in org-mode to that bookmark.
+**** NEXT Make org-mode checklist for process
+     :PROPERTIES:
+     :ID:       8722888d-f0b7-47bf-b2b9-c63e6db2275d
+     :END:
+**** TODO Create folder for storing learning projects
+  CLOCK: [2012-10-15 Mon 09:47]--[2012-10-15 Mon 09:50] =>  0:03
+   :PROPERTIES:
+   :ID:       f4126061-82e5-4f60-9063-ab744abea7d0
+   :END:
+[2012-10-15 Mon 09:47] 
+
+*** SOMEDAY Make processes/procedures
+    :PROPERTIES:
+    :ID:       fda5310e-8964-47c0-9864-cc3aa70b7f4d
+    :END:
+**** DONE Make processes org file
+     - State "DONE"       from "SOMEDAY"    [2012-11-30 Fri 13:47]
+     :PROPERTIES:
+     :ID:       aad12764-f51e-4b57-aeb2-23b4a69c6df2
+     :END:
+**** DONE Make weekly review checklist
+     - State "DONE"       from "SOMEDAY"    [2012-11-30 Fri 13:47]
+     :PROPERTIES:
+     :ID:       85435e1c-6adb-45f9-9a6d-bee46ce10a01
+     :END:
+**** NEXT Make daily workflow checklist
+     :PROPERTIES:
+     :ID:       8f83463d-6ae8-4e9e-bf7f-a0381aaec54b
+     :END:
+**** TODO Add task
+     :PROPERTIES:
+     :ID:       7e90c359-c1ed-43c4-aa84-c66cf3d270e5
+     :END:
+**** TODO Referee paper
+     :PROPERTIES:
+     :ID:       94c9900d-60e4-4006-8e95-3c7e7894ccf7
+     :END:
+**** TODO write paper
+     :PROPERTIES:
+     :ID:       fce0e35e-d58e-4faa-80cf-d29a69116246
+     :END:
+**** TODO prepare course
+     :PROPERTIES:
+     :ID:       ff2df9c9-894e-4aa7-9279-d80dec54de65
+     :END:
+**** TODO Automoate getting updates from arxiv
+what about journals? Do they have rss?
+  CLOCK: [2012-10-19 Fri 10:04]--[2012-10-19 Fri 10:05] =>  0:01
+     :PROPERTIES:
+     :ID:       c296457e-a3d5-49e2-a5fc-f857052eb15b
+     :END:
+[2012-10-19 Fri 10:04]
+
+**** TODO Make seminar process an org-mode checklist
+     :PROPERTIES:
+     :ID:       c4e43475-1bff-4967-af3b-72bdfaa50a20
+     :END:
+update website
+send announcement
+maintain email list of speakers, participants
+If I put the schedule in an org file, I should just be able to update the
+org file and have that automatically update the website and send an email
+to the admin people.
+*** NEXT Set up reference filing
+Particularly development!
+  CLOCK: [2012-10-21 Sun 17:24]--[2012-10-21 Sun 17:24] =>  0:00
+    :PROPERTIES:
+    :ID:       96df27fa-64c5-432b-a2c3-9664e37014a6
+    :END:
+[2012-10-21 Sun 17:24]
+** TODO Set up office like in GTD such as trays, clips etc.	     :OFFICE:
+   :PROPERTIES:
+   :ID:       b2f00a6f-4eb6-4129-bbe8-56f1be40359b
+   :END:
+*** NEXT Get trays
+    :PROPERTIES:
+    :ID:       3f08a61e-4dad-4d70-abb5-d0e85e71d357
+    :END:
+*** SOMEDAY Get stationary storage
+  CLOCK: [2012-10-14 Sun 19:56]--[2012-10-14 Sun 19:57] =>  0:01
+   :PROPERTIES:
+   :ID:       72a41c20-d196-4dbd-bb49-fd7e3e5b63d8
+   :END:
+[2012-10-14 Sun 19:56]
+** TODO Set up home for GTD					       :HOME:
+   :PROPERTIES:
+   :ID:       bbef76b0-b858-474c-a3ff-cdde19189cfd
+   :END:
+*** NEXT Gather materials that need to be organised		       :HOME:
+    :PROPERTIES:
+    :ID:       8e67efe6-712f-49cf-9f55-b5c8656149bd
+    :END:
+*** NEXT Get folders from office for home
+    :PROPERTIES:
+    :ID:       053596a1-3c7f-4225-a03a-9416b37d894b
+    :END:
+** DONE Move mygtd into refile					   :COMPUTER:
+   - State "DONE"       from "NEXT"       [2012-11-15 Thu 11:46]
+  CLOCK: [2012-10-15 Mon 22:06]--[2012-10-15 Mon 22:06] =>  0:00
+   :PROPERTIES:
+   :ID:       29212bbd-9706-4cfc-84ff-d28e43f0f2f8
+   :END:
+[2012-10-15 Mon 22:06]
+
+** TODO Rationalise Documents, Dropbox, Ubuntu One		   :COMPUTER:
+  CLOCK: [2012-10-16 Tue 09:04]--[2012-10-16 Tue 09:04] =>  0:00
+   :PROPERTIES:
+   :ID:       5f23f742-f0f0-4e0b-8d9d-98f5acae6a1b
+   :END:
+[2012-10-16 Tue 09:04]
+** DONE Process emails						   :COMPUTER:
+   - State "DONE"       from "NEXT"       [2012-12-07 Fri 10:45]
+Archive the lot! Organise into folders/tags whatever. gmail can be the main repository to sync with, but as with org files, maybe have machine specific syncing to dropbox also.
+  CLOCK: [2012-10-15 Mon 09:42]--[2012-10-15 Mon 09:43] =>  0:01
+   :PROPERTIES:
+   :ID:       ee144a81-a3eb-43bf-879e-72e2b97b0c11
+   :END:
+[2012-10-15 Mon 09:42]
+** TODO Create contact db					   :COMPUTER:
+   :PROPERTIES:
+   :ID:       a3636804-e3d4-44e3-8872-13a3daac919b
+   :END:
+*** NEXT Set up BBDB or org-contacts with emacs
+    :PROPERTIES:
+    :ID:       bbd84d11-e23b-42b6-bd04-be9f6af128f4
+    :END:
+*** TODO Enter contacts into database 
+    :PROPERTIES:
+    :ID:       8c01e987-6ae4-4368-9109-ccadb7a56fe0
+    :END:
+**** People to add:
+***** Bennet
+***** Lei
+***** Jim Isenberg
+***** Scott Rollans, Holly Proudfoot, other guy
+***** Jaques (teaching math142a)
+***** ShiJin
+***** XianFeng
+***** Bo
+***** Mat Langford
+***** Julie
+***** Ben
+***** Steve Roberts
+***** Janet Engebretsen
+***** Friend and family
+*** TODO Sync contact db with google, phone etc.
+    :PROPERTIES:
+    :ID:       42384e87-7e0e-4abc-97d3-e1773f899d54
+    :END:
+** TODO Check out "The Brain"
+[[http://www.thebrain.com/]]
+  CLOCK: [2012-11-03 Sat 19:48]--[2012-11-03 Sat 19:48] =>  0:00
+   :PROPERTIES:
+   :ID:       d2bd33bc-bb46-4011-944e-ea5c670ee8e4
+   :END:
+[2012-11-03 Sat 19:48]
+** DONE Make list of all projects to VC
+   - State "DONE"       from "TODO"       [2012-12-07 Fri 10:46]
+  CLOCK: [2012-11-06 Tue 08:33]--[2012-11-06 Tue 08:34] =>  0:01
+   :PROPERTIES:
+   :ID:       6465f33f-6ee5-40b6-93d3-222551feba01
+   :END:
+[2012-11-06 Tue 08:33]
+
+** SOMEDAY Manage Life
+
+I want to direct my life better. This involves
+ 
+- Setting goals
+  - weekly
+  - montly
+  - yearly
+  - 5 yearly
+- collecting data 
+  - what I've been doing
+  - how long it took
+  - how much it cost
+  - how much I achieved etc
+- Reviewing data
+  - Look at graphs to see what I've been doing
+  - re-evaluate tasks/goals in light of data
+  - set new goals
+  - plan tasks to meet goals
+
+  CLOCK: [2012-11-06 Tue 14:58]--[2012-11-06 Tue 15:30] =>  0:32
+   :PROPERTIES:
+   :ID:       850b0057-6b68-451d-a4b2-cbf8012e25c6
+   :END:
+[2012-11-06 Tue 14:58]
+*** NEXT Record habits
+    :PROPERTIES:
+    :ID:       bde471f6-a45d-43a8-9bd2-03827862c7c5
+    :END:
+Which habits still need to be added?
+**** Tai Chi
+**** Qi Qong
+**** IntuFlow
+**** Ageless Mobility
+**** Primal Stress
+**** Mediation
+**** Convict conditioning
+**** Chinese
+**** Cooking
+**** Books
+**** Shows
+**** Chess
+*** TODO Set goals
+    :PROPERTIES:
+    :ID:       e01b4e75-1481-48be-a05b-f2f3516e1a44
+    :END:
+Set long term goals and short term goals. Have say the weeks/months goals in org-mode and use these a guide to choosing tasks.
+**** Health
+***** Build physical strength
+***** Build mental strength
+***** Learn physical tricks
+- handstand
+- backflip
+- planche
+- tumbling
+- wu shu
+***** Sleep more
+***** Eat naturally
+
+**** Outdoors/sports
+***** Bush walking
+***** Soccer
+***** Orienteering
+***** Parkour
+
+**** Gardening
+***** Community gardening
+***** Balcony gardening
+
+**** Community
+***** Online stuff like hacking
+***** Health/Fitness
+***** Quantified self
+***** Maths
+***** Family and friends
+***** UCSD
+
+**** Academic
+***** Write papers
+***** Write books
+***** Teach
+
+**** Hacking
+***** emacs
+***** android
+***** computational
+*** TODO Quantified self
+    :PROPERTIES:
+    :ID:       90a5676f-ef85-49e2-9a9d-81259fa21719
+    :END:
+**** Record how I use my time
+I'll need to say use my phone to collect the data. I need something easy to clock in and out of an activity, like transit-shops, transit-uni, transit-home, house-cleaning, teaching-lecturing, teaching-preperation etc.
+
+**** Record sleep
+**** Record blood pressure?
+**** Record weight
+**** Record heart rate
+**** Record finances such as groceries etc.
+
+*** SOMEDAY Maintain references
+    :PROPERTIES:
+    :ID:       3fb84c1c-628a-4fa3-8408-e2dc3233d729
+    :END:
+    I want to hang on to emails, articles and so on. I want to keep receipts, ideas and a diary of what I've done. These need to be kept in a filing system somehow, most probaby using org-mode and memacs.
+** Schedule tasks
+**** Set next tasks
+**** Capture tasks as I think of them
+**** Refile tasks a couple of times a day
+**** Use property drawers to associate tasks with goal
+** TODO Transcribe from Bei Da notebook: q. self
+  :LOGBOOK:
+  :END:
+  :PROPERTIES:
+  :ID:       c2fcfce7-e205-444a-80fd-0d9cab0e9c7a
+  :END:
+[2012-11-20 Tue 11:04
+** DONE Install dictionary on tablet/phone
+   - State "DONE"       from "TODO"       [2013-02-05 Tue 13:20]
+  :LOGBOOK:
+  :END:
+   :PROPERTIES:
+   :ID:       356f2ab9-334f-4529-8898-d89e06c6b8d2
+   :END:
+[2012-12-31 Mon 10:58]
+** TODO Set up goal reminders
+   :PROPERTIES:
+   :ID:       1be2f4e6-6e6c-47e0-ab82-d52f0138c9cf
+   :END:
+*** Notes 
+I should have cards with daily reminders, e.g. no more than 2 coffees, eat tacfit, don't nag to check throughout the day. I also have longer term goals and these should filter down to give daily reminders, weekly reminders (to look at during the review), monthly, yearly etc.
+** TODO Make your damn goals!
+  SCHEDULED: <2013-02-25 Mon>
+  :LOGBOOK:
+  CLOCK: [2013-02-22 Fri 08:07]--[2013-02-22 Fri 08:08] =>  0:01
+  :END:
+   :PROPERTIES:
+   :ID:       94c22869-a734-496f-bbd5-afa06cfeb267
+   :END:
+[2013-02-22 Fri 08:07]
+
+In particular, do I want to write at least say 15 hrs a week? If so, plan it out, commit and go! I've scheduled time for exercise and teaching, so do it for writing too! The plan should be incremental and guarenteed to succedd. See [[http://paidtoexist.com/creative-battle/]] for some pointers.
+* office layout
+  :PROPERTIES:
+  :ID:       827968af-420f-40a1-ac2d-4bbe7192cbc1
+  :END:
+** NEXT get a cloth or coasters for office			     :ERRAND:
+  CLOCK: [2012-10-15 Mon 09:36]--[2012-10-15 Mon 09:36] =>  0:00
+   :PROPERTIES:
+   :ID:       be6627ea-0e33-463b-91bf-cb7d140180cb
+   :END:
+[2012-10-15 Mon 09:36]
+** CANCELLED Get snacks for office				     :ERRAND:
+   SCHEDULED: <2012-12-01 Thu>
+   - State "CANCELLED"  from "NEXT"       [2012-12-06 Thu 11:43] \\
+     I don't need this.
+I should get a plunger and coffee to save money though milk is problematic then! I could bring it daily in a thermos.
+I can bring in fruit and veg once or twice a week.
+Also could have dry snacks, tinned stuff like sardines and so on.
+
+
+  CLOCK: [2012-10-15 Mon 09:43]--[2012-10-15 Mon 09:44] =>  0:01
+   :PROPERTIES:
+   :ID:       eeb3b8ad-7b8e-4009-9273-e5bf24a717dc
+   :END:
+[2012-10-15 Mon 09:43]
+** DONE buy coffee plunger (french press)			     :ERRAND:
+   SCHEDULED: <2012-12-01 Thu>
+   - State "DONE"       from "NEXT"       [2012-12-06 Thu 11:43]
+   :LOGBOOK:
+   CLOCK: [2012-12-06 Thu 10:19]--[2012-12-06 Thu 10:41] =>  0:22
+   :END:
+  CLOCK: [2012-10-16 Tue 10:48]--[2012-10-16 Tue 10:48] =>  0:00
+   :PROPERTIES:
+   :ID:       9f49adc3-355c-4ec4-bb31-458b3ab7d12b
+   :END:
+[2012-10-16 Tue 10:48]
+** DONE Bring doorstop to work					       :HOME:
+   - State "DONE"       from "NEXT"       [2012-11-10 Sat 13:46]
+   :PROPERTIES:
+   :ID:       27c8bddc-f9d4-48e6-b0ec-5de179e2822b
+   :END:
+** DONE buy exercise ball and yoga mat for office		   :COMPUTER:
+   SCHEDULED: <2012-12-01 Thu>
+   - State "DONE"       from "NEXT"       [2012-12-06 Thu 11:43]
+   :PROPERTIES:
+   :ID:       01f23a0f-a1ec-47b6-87fe-81d301d4a144
+   :END:
+** DONE buy tablet cable for office				   :COMPUTER:
+   SCHEDULED: <2012-11-01 Thu>
+   - State "DONE"       from "NEXT"       [2012-11-03 Sat 14:04]
+   :PROPERTIES:
+   :ID:       856bc4e4-063d-4853-a492-45a6199249d5
+   :END:
+** DONE office sandals
+   - State "DONE"       from "TODO"       [2012-10-24 Wed 14:47]
+   :PROPERTIES:
+   :ID:       ddd7d9ba-1677-4d4a-86b5-e5baf26d36a8
+   :END:
+** WAITING Get standing desk					     :OFFICE:
+   - State "WAITING"    from "TODO"       [2012-10-18 Thu 14:25] \\
+     Waiting for Maureen to find desk
+  CLOCK: [2012-10-18 Thu 14:24]--[2012-10-18 Thu 14:25] =>  0:01
+   :PROPERTIES:
+   :ID:       3198eec6-d5f0-4ac3-b95c-ef2784843100
+   :END:
+[2012-10-18 Thu 14:24]
+
+** TODO Setup priorities					   :COMPUTER:
+   :PROPERTIES:
+   :ID:       c19772cf-4ad2-4f13-ac01-0c2eebb909f9
+   :END:
+*** NEXT Research org-mode priorities
+    :PROPERTIES:
+    :ID:       0e0ec6e9-ce54-49ca-924b-dc9957f63d33
+    :END:
+
+** TODO Research standing desk/writing easal
+  :LOGBOOK:
+  :END:
+   :PROPERTIES:
+   :ID:       76c56493-e7eb-4771-88e9-6d6384ade9b7
+   :END:
+[2013-01-03 Thu 13:31]
+
+* Computer setup
+  :PROPERTIES:
+  :ID:       2caac482-7221-4934-a479-25d3cbb12d55
+  :END:
+** NEXT Research Backups for android devices			   :COMPUTER:
+What do I need to backup? I try to keep data in the cloud. I guess saved games and whatnot would be good to keep. Also there is some config, at least a list of apps!
+  CLOCK: [2012-10-24 Wed 12:27]--[2012-10-24 Wed 12:27] =>  0:00
+   :PROPERTIES:
+   :ID:       59b371f4-3708-40db-a32e-2bf83394ea77
+   :END:
+[2012-10-24 Wed 12:27]
+
+** NEXT Pull everything but backups out of Ubuntu One		   :NOTEBOOK:
+   :LOGBOOK:
+   :END:
+  CLOCK: [2012-10-24 Wed 12:17]--[2012-10-24 Wed 12:17] =>  0:00
+   :PROPERTIES:
+   :ID:       393c557e-0c34-4859-b323-80a309c3a934
+   :END:
+[2012-10-24 Wed 12:17]
+Copy the files to Dropbox instead
+** NEXT Get notebook working files into dropbox			   :NOTEBOOK:
+  CLOCK: [2012-10-24 Wed 12:18]--[2012-10-24 Wed 12:18] =>  0:00
+   :PROPERTIES:
+   :ID:       6a84db69-d1d3-4fc1-aefb-bb6f1daf4393
+   :END:
+[2012-10-24 Wed 12:18]
+
+** TODO Work out some way to keep up to date with people's scripts
+e.g. [[https://bitbucket.org/jaraco/jaraco.develop/src/819da4c3e702/jaraco/develop/bitbucket.py?at=default]]
+  CLOCK: [2012-11-06 Tue 10:47]--[2012-11-06 Tue 10:48] =>  0:01
+   :PROPERTIES:
+   :ID:       8893f598-ba78-46af-a69e-cd96c12ebcb9
+   :END:
+[2012-11-06 Tue 10:47]
+
+** TODO Make email templates
+e.g. seminar announcement
+  CLOCK: [2012-11-09 Fri 10:38]--[2012-11-09 Fri 10:39] =>  0:01
+   :PROPERTIES:
+   :ID:       16b80048-d170-4695-bc62-3b64e54f41be
+   :END:
+[2012-11-09 Fri 10:38]
+
+** TODO Set up emacsclient
+  :LOGBOOK:
+  :END:
+  :PROPERTIES:
+  :ID:       daf86133-1815-4034-b06e-126d690b54de
+  :END:
+[2012-11-20 Tue 10:23]
+
+** TODO Set up GPG for email and password encryption
+  :LOGBOOK:
+  CLOCK: [2012-11-20 Tue 10:20]--[2012-11-20 Tue 10:21] =>  0:01
+  :END:
+  :PROPERTIES:
+  :ID:       dcd41e2f-431e-47bb-8409-42e268e20e02
+  :END:
+[2012-11-20 Tue 10:20]
+
+** NEXT Track scripts on bitbucket, github
+icvs2ledger, bitbucket-api
+  :LOGBOOK:
+  CLOCK: [2012-11-29 Thu 14:28]--[2012-11-29 Thu 14:29] =>  0:01
+  :END:
+   :PROPERTIES:
+   :ID:       411d2c3a-7ec5-48b1-af72-4c08dbacc892
+   :END:
+[2012-11-29 Thu 14:28]
+** TODO Clean up maths.anu files
+  :LOGBOOK:
+  :END:
+   :PROPERTIES:
+   :ID:       4f941a10-7470-456f-afc3-15eecf520f8e
+   :END:
+[2012-11-29 Thu 14:47]
+
+** DONE Write script to list uncommitted work
+   - State "DONE"       from "NEXT"       [2013-02-05 Tue 13:20]
+  :LOGBOOK:
+  CLOCK: [2012-11-30 Fri 10:52]--[2012-11-30 Fri 10:53] =>  0:01
+  :END:
+   :PROPERTIES:
+   :ID:       7a2db3d7-a7d3-428c-979b-f9eff5db6dc2
+   :END:
+[2012-11-30 Fri 10:52]
+This should go through the ~/working directory and output all repositories where hg incoming, outgoing or st gives a result
+** TODO Incorporate my mutable stuff into new Dropbox/bitbucket setup
+  :LOGBOOK:
+  CLOCK: [2012-12-13 Thu 11:37]--[2012-12-13 Thu 11:38] =>  0:01
+  :END:
+   :PROPERTIES:
+   :ID:       63e098f7-2be6-41c8-a07b-337fe159420b
+   :END:
+[2012-12-13 Thu 11:37]
+Files go into Dropbox and versioned controlled hosted on bitbucket
+** TODO Set up build scripts so I don't pollute working copies
+  :LOGBOOK:
+  CLOCK: [2012-12-17 Mon 14:13]--[2012-12-17 Mon 14:14] =>  0:01
+  :END:
+   :PROPERTIES:
+   :ID:       6fa86edc-bc90-4fb1-afc6-5c9f0056e049
+   :END:
+[2012-12-17 Mon 14:13]
+
+** SOMEDAY Configure emacs for email
+   :PROPERTIES:
+   :ID:       59fb7afd-3134-4ef9-80d6-391b05284663
+   :END:
+*** NEXT Set up offlineimap
+    :PROPERTIES:
+    :ID:       8e34b366-070d-4735-bad1-9c8fba262783
+    :END:
+See:
+[[http://docs.offlineimap.org/en/latest/MANUAL.html][http://docs.offlineimap.org/en/latest/MANUAL.html]]
+[[http://jak-linux.org/projects/hardlink/]]
+[[http://bramschoenmakers.nl/node/713][http://bramschoenmakers.nl/node/713]]
+[[https://wiki.archlinux.org/index.php/OfflineIMAP#Gmail_configuration][https://wiki.archlinux.org/index.php/OfflineIMAP#Gmail_configuration]]
+[[http://kwlug.org/pipermail/kwlug-disc_kwlug.org/2010-March/004026.html]]
+[[http://reddragdiva.dreamwidth.org/567837.html]]
+[[http://yet-another-problem.blogspot.com/2012/02/gmail-offlineimap-mutt-msmtp.html]]
+**** offlineimap configuration ~/.offlineimaprc
+[general]
+accounts = GMail
+maxsyncaccounts = 3
+
+[Account GMail]
+localrepository = Local
+remoterepository = Remote
+
+[Repository Local]
+type = Maildir
+localfolders = ~/Mail
+
+[Repository Remote]
+type = Gmail
+remoteuser = pabryan@gmail.com
+remotepass = Youg2Ltc
+maxconnections = 3
+realdelete = no
+#folderfilter = lambda folder: folder in ['PTE', 'temp']
+#nametrans: lambda folder: folder if folder in ['INBOX', 'Drafts', 'Sent Mail', 'Bin'] \
+#                          else re.sub(r'^', r'gmail.', folder)
+
+
+**** muttrc
+set mbox_type   = Maildir
+set sendmail    = /usr/bin/msmtp
+
+set folder      = ~/Mail
+set spoolfile   = "+INBOX"
+set mbox        = "+[Gmail]/All Mail"
+set postponed   = "+[Gmail]/Drafts"
+unset record
+
+mailboxes +INBOX
+
+macro index D \
+    "<save-message>+[Gmail]/Trash<enter>" \
+    "move message to the trash"
+
+macro index S \
+    "<save-message>+[Gmail]/Spam<enter>" \
+    "mark message as spam"
+
+# main options
+set realname   = "Real Name"
+set from       = "user@gmail.com"
+set mail_check = 0
+set envelope_from
+
+unset move           # gmail does that
+set delete           # don't ask, just do
+unset confirmappend  # don't ask, just do!
+set quit             # don't ask, just do!!
+unset mark_old       # read/new is good enough for me
+
+# sort/threading
+set sort     = threads
+set sort_aux = reverse-last-date-received
+set sort_re
+
+# look and feel
+set pager_index_lines = 8
+set pager_context     = 5
+set pager_stop
+set menu_scroll
+set smart_wrap
+set tilde
+unset markers
+
+# composing 
+set fcc_attach
+unset mime_forward
+set forward_format = "Fwd: %s"
+set include
+set forward_quote
+
+ignore *                               # first, ignore all headers
+unignore from: to: cc: date: subject:  # then, show only these
+hdr_order from: to: cc: date: subject: # and in this order
+
+
+*** TODO Store passwords in keyring
+    :PROPERTIES:
+    :ID:       fc03edb7-f209-45db-8414-c0b249b02351
+    :END:
+[[http://pypi.python.org/pypi/keyring][http://pypi.python.org/pypi/keyring]]
+[[http://www.emacswiki.org/emacs/OfflineIMAP][http://www.emacswiki.org/emacs/OfflineIMAP]]
+
+*** TODO Choose emacs email reading/writing method
+    :PROPERTIES:
+    :ID:       4bc3c470-a7ec-4a15-a78f-3e0e03f33ad6
+    :END:
+
+[[http://www.emacswiki.org/emacs/CategoryMail]]
+Does mutt integrate well?
+[[http://www.emacswiki.org/emacs/MuttInEmacs][http://www.emacswiki.org/emacs/MuttInEmacs]]
+
+** TODO Move photos out of Ubuntu One
+  :LOGBOOK:
+  :END:
+   :PROPERTIES:
+   :ID:       2370bd55-ac41-4cc0-8f8e-f7a533ad5471
+   :END:
+[2013-01-25 Fri 12:52]
+** TODO Check out freeMcAfee for Uverse
+  :LOGBOOK:
+  :END:
+   :PROPERTIES:
+   :ID:       5794d450-645c-4b86-893f-7f8b90016372
+   :END:
+[2013-02-08 Fri 08:29]
+
+[[http://e.att-mail.com/a/hBRE8F1B8bmv9B8woKaADAaWc$s/getitnow]]
+** TODO Fix up work TeX setup
+  :LOGBOOK:
+  CLOCK: [2013-02-15 Fri 10:34]--[2013-02-15 Fri 10:35] =>  0:01
+  :END:
+   :PROPERTIES:
+   :ID:       07ad15b9-5571-4300-b577-8bcffc0e626c
+   :END:
+[2013-02-15 Fri 10:34]
+I need to have my macros available.
+* Tasks
+  :PROPERTIES:
+  :ID:       4257fe31-e606-4ca9-a848-858379409679
+  :END:
+** Organisation
+  :LOGBOOK:
+  CLOCK: [2013-03-01 Fri 15:37]--[2013-03-01 Fri 15:38] =>  0:01
+  CLOCK: [2013-03-01 Fri 15:24]--[2013-03-01 Fri 15:29] =>  0:05
+  CLOCK: [2013-03-01 Fri 14:03]--[2013-03-01 Fri 14:20] =>  0:17
+  CLOCK: [2013-03-01 Fri 13:56]--[2013-03-01 Fri 13:57] =>  0:01
+  CLOCK: [2013-03-01 Fri 09:56]--[2013-03-01 Fri 10:04] =>  0:08
+  CLOCK: [2013-02-28 Thu 15:34]--[2013-02-28 Thu 15:38] =>  0:04
+  CLOCK: [2013-02-28 Thu 07:10]--[2013-02-28 Thu 07:35] =>  0:25
+  CLOCK: [2013-02-27 Wed 15:24]--[2013-02-27 Wed 15:25] =>  0:01
+  CLOCK: [2013-02-27 Wed 13:50]--[2013-02-27 Wed 13:54] =>  0:04
+  CLOCK: [2013-02-27 Wed 10:04]--[2013-02-27 Wed 10:07] =>  0:03
+  CLOCK: [2013-02-25 Mon 14:58]--[2013-02-25 Mon 15:02] =>  0:04
+  CLOCK: [2013-02-25 Mon 11:25]--[2013-02-25 Mon 11:31] =>  0:06
+  CLOCK: [2013-02-25 Mon 10:55]--[2013-02-25 Mon 10:59] =>  0:04
+  CLOCK: [2013-02-25 Mon 10:48]--[2013-02-25 Mon 10:49] =>  0:01
+  CLOCK: [2013-02-25 Mon 10:03]--[2013-02-25 Mon 10:09] =>  0:06
+  CLOCK: [2013-02-25 Mon 09:50]--[2013-02-25 Mon 09:55] =>  0:05
+  CLOCK: [2013-02-22 Fri 14:48]--[2013-02-22 Fri 15:30] =>  0:42
+  CLOCK: [2013-02-22 Fri 12:51]--[2013-02-22 Fri 12:53] =>  0:02
+  CLOCK: [2013-02-22 Fri 10:00]--[2013-02-22 Fri 10:04] =>  0:04
+  CLOCK: [2013-02-22 Fri 08:08]--[2013-02-22 Fri 08:12] =>  0:04
+  CLOCK: [2013-02-22 Fri 08:02]--[2013-02-22 Fri 08:07] =>  0:05
+  CLOCK: [2013-02-22 Fri 08:00]--[2013-02-22 Fri 08:01] =>  0:01
+  CLOCK: [2013-02-22 Fri 07:23]--[2013-02-22 Fri 07:28] =>  0:05
+  CLOCK: [2013-02-21 Thu 14:05]--[2013-02-21 Thu 14:06] =>  0:01
+  CLOCK: [2013-02-21 Thu 11:49]--[2013-02-21 Thu 11:50] =>  0:01
+  CLOCK: [2013-02-20 Wed 15:05]--[2013-02-20 Wed 15:12] =>  0:07
+  CLOCK: [2013-02-20 Wed 12:57]--[2013-02-20 Wed 13:11] =>  0:14
+  CLOCK: [2013-02-20 Wed 12:55]--[2013-02-20 Wed 12:56] =>  0:01
+  CLOCK: [2013-02-20 Wed 10:22]--[2013-02-20 Wed 10:26] =>  0:04
+  CLOCK: [2013-02-19 Tue 16:18]--[2013-02-19 Tue 16:35] =>  0:17
+  CLOCK: [2013-02-19 Tue 12:19]--[2013-02-19 Tue 12:25] =>  0:06
+  CLOCK: [2013-02-15 Fri 13:24]--[2013-02-15 Fri 13:25] =>  0:01
+  CLOCK: [2013-02-15 Fri 12:50]--[2013-02-15 Fri 12:53] =>  0:03
+  CLOCK: [2013-02-15 Fri 12:06]--[2013-02-15 Fri 12:10] =>  0:04
+  CLOCK: [2013-02-15 Fri 10:43]--[2013-02-15 Fri 10:44] =>  0:01
+  CLOCK: [2013-02-15 Fri 10:32]--[2013-02-15 Fri 10:33] =>  0:01
+  CLOCK: [2013-02-15 Fri 10:28]--[2013-02-15 Fri 10:30] =>  0:02
+  CLOCK: [2013-02-15 Fri 10:00]--[2013-02-15 Fri 10:05] =>  0:05
+  CLOCK: [2013-02-13 Wed 14:26]--[2013-02-13 Wed 14:27] =>  0:01
+  CLOCK: [2013-02-13 Wed 13:37]--[2013-02-13 Wed 13:39] =>  0:02
+  CLOCK: [2013-02-13 Wed 13:01]--[2013-02-13 Wed 13:02] =>  0:01
+  CLOCK: [2013-02-13 Wed 09:57]--[2013-02-13 Wed 10:05] =>  0:08
+  CLOCK: [2013-02-13 Wed 09:49]--[2013-02-13 Wed 09:53] =>  0:04
+  CLOCK: [2013-02-11 Mon 12:00]--[2013-02-11 Mon 12:08] =>  0:08
+  CLOCK: [2013-02-11 Mon 10:55]--[2013-02-11 Mon 10:56] =>  0:01
+  CLOCK: [2013-02-11 Mon 10:34]--[2013-02-11 Mon 10:35] =>  0:01
+  CLOCK: [2013-02-11 Mon 08:39]--[2013-02-11 Mon 08:41] =>  0:02
+  CLOCK: [2013-02-08 Fri 14:00]--[2013-02-08 Fri 14:04] =>  0:04
+  CLOCK: [2013-02-08 Fri 10:05]--[2013-02-08 Fri 10:10] =>  0:05
+  CLOCK: [2013-02-08 Fri 10:04]--[2013-02-08 Fri 10:05] =>  0:01
+  CLOCK: [2013-02-08 Fri 08:55]--[2013-02-08 Fri 08:56] =>  0:01
+  CLOCK: [2013-02-08 Fri 08:29]--[2013-02-08 Fri 08:30] =>  0:01
+  CLOCK: [2013-02-08 Fri 08:28]--[2013-02-08 Fri 08:29] =>  0:01
+  CLOCK: [2013-02-08 Fri 08:26]--[2013-02-08 Fri 08:28] =>  0:02
+  CLOCK: [2013-02-08 Fri 08:25]--[2013-02-08 Fri 08:26] =>  0:01
+  CLOCK: [2013-02-08 Fri 08:18]--[2013-02-08 Fri 08:25] =>  0:07
+  CLOCK: [2013-02-08 Fri 08:09]--[2013-02-08 Fri 08:14] =>  0:05
+  CLOCK: [2013-02-06 Wed 14:56]--[2013-02-06 Wed 14:58] =>  0:02
+  CLOCK: [2013-02-06 Wed 14:48]--[2013-02-06 Wed 14:53] =>  0:05
+  CLOCK: [2013-02-06 Wed 14:29]--[2013-02-06 Wed 14:30] =>  0:01
+  CLOCK: [2013-02-06 Wed 14:13]--[2013-02-06 Wed 14:16] =>  0:03
+  CLOCK: [2013-02-06 Wed 14:05]--[2013-02-06 Wed 14:09] =>  0:04
+  CLOCK: [2013-02-06 Wed 10:43]--[2013-02-06 Wed 10:45] =>  0:02
+  CLOCK: [2013-02-06 Wed 10:11]--[2013-02-06 Wed 10:12] =>  0:01
+  CLOCK: [2013-02-06 Wed 10:09]--[2013-02-06 Wed 10:11] =>  0:02
+  CLOCK: [2013-02-05 Tue 13:22]--[2013-02-05 Tue 13:24] =>  0:02
+  CLOCK: [2013-02-05 Tue 13:15]--[2013-02-05 Tue 13:22] =>  0:07
+  CLOCK: [2013-02-05 Tue 13:05]--[2013-02-05 Tue 13:13] =>  0:08
+  CLOCK: [2013-02-04 Mon 10:42]--[2013-02-04 Mon 10:43] =>  0:01
+  CLOCK: [2013-02-01 Fri 14:57]--[2013-02-01 Fri 15:10] =>  0:13
+  CLOCK: [2013-02-01 Fri 11:47]--[2013-02-01 Fri 11:49] =>  0:02
+  CLOCK: [2013-02-01 Fri 11:39]--[2013-02-01 Fri 11:46] =>  0:07
+  CLOCK: [2013-02-01 Fri 11:09]--[2013-02-01 Fri 11:13] =>  0:04
+  CLOCK: [2013-01-31 Thu 14:35]--[2013-01-31 Thu 14:50] =>  0:15
+  CLOCK: [2013-01-31 Thu 09:11]--[2013-01-31 Thu 09:21] =>  0:10
+  CLOCK: [2013-01-31 Thu 08:55]--[2013-01-31 Thu 08:57] =>  0:02
+  CLOCK: [2013-01-31 Thu 08:14]--[2013-01-31 Thu 08:21] =>  0:07
+  CLOCK: [2013-01-30 Wed 10:18]--[2013-01-30 Wed 10:19] =>  0:01
+  CLOCK: [2013-01-30 Wed 10:14]--[2013-01-30 Wed 10:18] =>  0:04
+  CLOCK: [2013-01-30 Wed 08:10]--[2013-01-30 Wed 08:20] =>  0:10
+  CLOCK: [2013-01-29 Tue 12:56]--[2013-01-29 Tue 12:58] =>  0:02
+  CLOCK: [2013-01-29 Tue 12:25]--[2013-01-29 Tue 12:46] =>  0:21
+  CLOCK: [2013-01-29 Tue 12:00]--[2013-01-29 Tue 12:05] =>  0:05
+  CLOCK: [2013-01-28 Mon 19:07]--[2013-01-28 Mon 19:08] =>  0:01
+  CLOCK: [2013-01-28 Mon 18:30]--[2013-01-28 Mon 18:38] =>  0:08
+  CLOCK: [2013-01-28 Mon 07:56]--[2013-01-28 Mon 07:58] =>  0:02
+  CLOCK: [2013-01-28 Mon 07:15]--[2013-01-28 Mon 07:24] =>  0:09
+  CLOCK: [2013-01-27 Sun 13:21]--[2013-01-27 Sun 13:22] =>  0:01
+  CLOCK: [2013-01-27 Sun 10:53]--[2013-01-27 Sun 10:54] =>  0:01
+  CLOCK: [2013-01-27 Sun 09:10]--[2013-01-27 Sun 09:20] =>  0:10
+  CLOCK: [2013-01-25 Fri 20:20]--[2013-01-25 Fri 20:34] =>  0:14
+  CLOCK: [2013-01-25 Fri 12:50]--[2013-01-25 Fri 12:52] =>  0:02
+  CLOCK: [2013-01-24 Thu 12:03]--[2013-01-24 Thu 12:04] =>  0:01
+  CLOCK: [2013-01-24 Thu 11:31]--[2013-01-24 Thu 11:32] =>  0:01
+  CLOCK: [2013-01-24 Thu 10:25]--[2013-01-24 Thu 10:28] =>  0:03
+  CLOCK: [2013-01-24 Thu 07:58]--[2013-01-24 Thu 08:02] =>  0:04
+  CLOCK: [2013-01-24 Thu 07:34]--[2013-01-24 Thu 07:37] =>  0:03
+  CLOCK: [2013-01-20 Sun 09:50]--[2013-01-20 Sun 10:33] =>  0:43
+  CLOCK: [2013-01-14 Mon 17:43]--[2013-01-14 Mon 17:55] =>  0:12
+  CLOCK: [2013-01-14 Mon 17:34]--[2013-01-14 Mon 17:35] =>  0:01
+  CLOCK: [2013-01-14 Mon 10:26]--[2013-01-14 Mon 10:32] =>  0:06
+  CLOCK: [2013-01-14 Mon 09:36]--[2013-01-14 Mon 09:38] =>  0:02
+  CLOCK: [2013-01-14 Mon 08:23]--[2013-01-14 Mon 08:27] =>  0:04
+  CLOCK: [2013-01-14 Mon 07:35]--[2013-01-14 Mon 07:36] =>  0:01
+  CLOCK: [2013-01-11 Fri 14:30]--[2013-01-11 Fri 15:30] =>  1:00
+  CLOCK: [2013-01-11 Fri 12:05]--[2013-01-11 Fri 12:10] =>  0:05
+  CLOCK: [2013-01-11 Fri 09:03]--[2013-01-11 Fri 09:04] =>  0:01
+  CLOCK: [2013-01-10 Thu 16:21]--[2013-01-10 Thu 16:22] =>  0:01
+  CLOCK: [2013-01-10 Thu 11:05]--[2013-01-10 Thu 11:10] =>  0:05
+  CLOCK: [2013-01-09 Wed 12:52]--[2013-01-09 Wed 12:58] =>  0:06
+  CLOCK: [2013-01-09 Wed 10:37]--[2013-01-09 Wed 10:38] =>  0:01
+  CLOCK: [2013-01-09 Wed 09:30]--[2013-01-09 Wed 09:37] =>  0:07
+  CLOCK: [2013-01-09 Wed 08:29]--[2013-01-09 Wed 08:39] =>  0:10
+  CLOCK: [2013-01-09 Wed 07:25]--[2013-01-09 Wed 07:38] =>  0:13
+  CLOCK: [2013-01-08 Tue 19:34]--[2013-01-08 Tue 19:46] =>  0:12
+  CLOCK: [2013-01-08 Tue 15:07]--[2013-01-08 Tue 15:13] =>  0:06
+  CLOCK: [2013-01-08 Tue 13:05]--[2013-01-08 Tue 13:25] =>  0:20
+  CLOCK: [2013-01-08 Tue 08:51]--[2013-01-08 Tue 08:53] =>  0:02
+  CLOCK: [2013-01-08 Tue 08:41]--[2013-01-08 Tue 08:46] =>  0:05
+  CLOCK: [2013-01-08 Tue 08:03]--[2013-01-08 Tue 08:11] =>  0:08
+  CLOCK: [2013-01-08 Tue 07:57]--[2013-01-08 Tue 08:03] =>  0:06
+  CLOCK: [2013-01-08 Tue 07:30]--[2013-01-08 Tue 07:45] =>  0:15
+  CLOCK: [2013-01-07 Mon 14:07]--[2013-01-07 Mon 14:09] =>  0:02
+  CLOCK: [2013-01-07 Mon 13:53]--[2013-01-07 Mon 13:54] =>  0:01
+  CLOCK: [2013-01-07 Mon 12:56]--[2013-01-07 Mon 13:00] =>  0:04
+  CLOCK: [2013-01-07 Mon 12:01]--[2013-01-07 Mon 12:05] =>  0:04
+  CLOCK: [2013-01-07 Mon 10:00]--[2013-01-07 Mon 10:35] =>  0:35
+  CLOCK: [2013-01-06 Sun 08:35]--[2013-01-06 Sun 08:55] =>  0:20
+  CLOCK: [2013-01-05 Sat 11:01]--[2013-01-05 Sat 11:09] =>  0:08
+  CLOCK: [2013-01-03 Thu 20:01]--[2013-01-03 Thu 20:02] =>  0:01
+  CLOCK: [2013-01-03 Thu 13:25]--[2013-01-03 Thu 13:31] =>  0:06
+  CLOCK: [2013-01-03 Thu 12:59]--[2013-01-03 Thu 13:07] =>  0:08
+  CLOCK: [2013-01-03 Thu 12:45]--[2013-01-03 Thu 12:59] =>  0:14
+  CLOCK: [2013-01-03 Thu 10:18]--[2013-01-03 Thu 10:30] =>  0:12
+  CLOCK: [2013-01-03 Thu 10:00]--[2013-01-03 Thu 10:17] =>  0:17
+  CLOCK: [2013-01-02 Wed 09:31]--[2013-01-02 Wed 09:35] =>  0:04
+  CLOCK: [2012-12-29 Sat 16:37]--[2012-12-29 Sat 17:15] =>  0:38
+  CLOCK: [2012-12-29 Sat 16:09]--[2012-12-29 Sat 16:37] =>  0:28
+  CLOCK: [2012-12-29 Sat 15:57]--[2012-12-29 Sat 16:09] =>  0:12
+  CLOCK: [2012-12-21 Fri 17:47]--[2012-12-21 Fri 18:02] =>  0:15
+  CLOCK: [2012-12-21 Fri 13:23]--[2012-12-21 Fri 13:30] =>  0:07
+  CLOCK: [2012-12-21 Fri 13:00]--[2012-12-21 Fri 13:05] =>  0:05
+  CLOCK: [2012-12-21 Fri 11:51]--[2012-12-21 Fri 12:15] =>  0:24
+  CLOCK: [2012-12-21 Fri 10:55]--[2012-12-21 Fri 11:02] =>  0:07
+  CLOCK: [2012-12-20 Thu 21:13]--[2012-12-20 Thu 21:14] =>  0:01
+  CLOCK: [2012-12-20 Thu 21:07]--[2012-12-20 Thu 21:08] =>  0:01
+  CLOCK: [2012-12-20 Thu 15:17]--[2012-12-20 Thu 15:22] =>  0:05
+  CLOCK: [2012-12-20 Thu 15:15]--[2012-12-20 Thu 15:17] =>  0:02
+  CLOCK: [2012-12-20 Thu 14:33]--[2012-12-20 Thu 14:35] =>  0:02
+  CLOCK: [2012-12-20 Thu 12:05]--[2012-12-20 Thu 12:36] =>  0:31
+  CLOCK: [2012-12-20 Thu 11:39]--[2012-12-20 Thu 11:40] =>  0:01
+  CLOCK: [2012-12-20 Thu 11:18]--[2012-12-20 Thu 11:29] =>  0:11
+  CLOCK: [2012-12-20 Thu 10:35]--[2012-12-20 Thu 10:44] =>  0:09
+  CLOCK: [2012-12-20 Thu 10:11]--[2012-12-20 Thu 10:22] =>  0:11
+  CLOCK: [2012-12-19 Wed 11:19]--[2012-12-19 Wed 11:37] =>  0:18
+  CLOCK: [2012-12-19 Wed 10:01]--[2012-12-19 Wed 10:02] =>  0:01
+  CLOCK: [2012-12-19 Wed 09:15]--[2012-12-19 Wed 09:36] =>  0:21
+  CLOCK: [2012-12-18 Tue 15:12]--[2012-12-18 Tue 15:26] =>  0:14
+  CLOCK: [2012-12-18 Tue 12:08]--[2012-12-18 Tue 12:10] =>  0:02
+  CLOCK: [2012-12-18 Tue 11:33]--[2012-12-18 Tue 11:54] =>  0:21
+  CLOCK: [2012-12-18 Tue 11:06]--[2012-12-18 Tue 11:10] =>  0:04
+  CLOCK: [2012-12-18 Tue 09:35]--[2012-12-18 Tue 09:45] =>  0:10
+  CLOCK: [2012-12-17 Mon 15:01]--[2012-12-17 Mon 15:03] =>  0:02
+  CLOCK: [2012-12-17 Mon 14:55]--[2012-12-17 Mon 15:01] =>  0:06
+  CLOCK: [2012-12-17 Mon 14:50]--[2012-12-17 Mon 14:52] =>  0:02
+  CLOCK: [2012-12-17 Mon 10:54]--[2012-12-17 Mon 11:09] =>  0:15
+  CLOCK: [2012-12-17 Mon 10:28]--[2012-12-17 Mon 10:36] =>  0:08
+  CLOCK: [2012-12-16 Sun 10:10]--[2012-12-16 Sun 10:27] =>  0:17
+  CLOCK: [2012-12-14 Fri 17:18]--[2012-12-14 Fri 17:20] =>  0:02
+  CLOCK: [2012-12-14 Fri 12:27]--[2012-12-14 Fri 12:29] =>  0:02
+  CLOCK: [2012-12-14 Fri 11:59]--[2012-12-14 Fri 12:10] =>  0:11
+  CLOCK: [2012-12-14 Fri 11:53]--[2012-12-14 Fri 11:55] =>  0:02
+  CLOCK: [2012-12-14 Fri 11:52]--[2012-12-14 Fri 11:53] =>  0:01
+  CLOCK: [2012-12-14 Fri 11:09]--[2012-12-14 Fri 11:10] =>  0:01
+  CLOCK: [2012-12-14 Fri 11:08]--[2012-12-14 Fri 11:09] =>  0:01
+  CLOCK: [2012-12-14 Fri 11:04]--[2012-12-14 Fri 11:07] =>  0:03
+  CLOCK: [2012-12-14 Fri 11:03]--[2012-12-14 Fri 11:04] =>  0:01
+  CLOCK: [2012-12-13 Thu 12:11]--[2012-12-13 Thu 12:19] =>  0:08
+  CLOCK: [2012-12-13 Thu 10:37]--[2012-12-13 Thu 10:38] =>  0:01
+  CLOCK: [2012-12-13 Thu 10:36]--[2012-12-13 Thu 10:37] =>  0:01
+  CLOCK: [2012-12-13 Thu 10:15]--[2012-12-13 Thu 10:30] =>  0:15
+  CLOCK: [2012-12-11 Tue 18:14]--[2012-12-11 Tue 18:15] =>  0:01
+  CLOCK: [2012-12-11 Tue 17:34]--[2012-12-11 Tue 17:37] =>  0:03
+  CLOCK: [2012-12-11 Tue 16:47]--[2012-12-11 Tue 16:49] =>  0:02
+  CLOCK: [2012-12-11 Tue 11:54]--[2012-12-11 Tue 12:08] =>  0.06
+  CLOCK: [2012-12-11 Tue 10:11]--[2012-12-11 Tue 10:12] =>  0:01
+  CLOCK: [2012-12-11 Tue 09:55]--[2012-12-11 Tue 10:07] =>  0:12
+  CLOCK: [2012-12-07 Fri 13:44]--[2012-12-07 Fri 14:00] =>  0:16
+  CLOCK: [2012-12-07 Fri 13:43]--[2012-12-07 Fri 13:44] =>  0:01
+  CLOCK: [2012-12-07 Fri 13:32]--[2012-12-07 Fri 13:33] =>  0:01
+  CLOCK: [2012-12-07 Fri 09:56]--[2012-12-07 Fri 10:00] =>  0:04
+  CLOCK: [2012-12-06 Thu 16:06]--[2012-12-06 Thu 16:20] =>  0:14
+  CLOCK: [2012-12-06 Thu 13:46]--[2012-12-06 Thu 14:03] =>  0:17
+  CLOCK: [2012-12-06 Thu 12:02]--[2012-12-06 Thu 12:11] =>  0:09
+  CLOCK: [2012-12-06 Thu 11:42]--[2012-12-06 Thu 11:44] =>  0:02
+  CLOCK: [2012-12-06 Thu 11:28]--[2012-12-06 Thu 11:31] =>  0:03
+  CLOCK: [2012-12-06 Thu 11:05]--[2012-12-06 Thu 11:20] =>  0:15
+  CLOCK: [2012-12-06 Thu 10:41]--[2012-12-06 Thu 10:53] =>  0:12
+  CLOCK: [2012-12-06 Thu 10:08]--[2012-12-06 Thu 10:12] =>  0:04
+  CLOCK: [2012-12-05 Wed 19:55]--[2012-12-05 Wed 20:00] =>  0:05
+  CLOCK: [2012-12-05 Wed 17:23]--[2012-12-05 Wed 17:50] =>  0:27
+  CLOCK: [2012-12-04 Tue 17:17]--[2012-12-04 Tue 17:26] =>  0:09
+  CLOCK: [2012-12-04 Tue 16:35]--[2012-12-04 Tue 16:40] =>  0:05
+  CLOCK: [2012-12-04 Tue 15:21]--[2012-12-04 Tue 15:24] =>  0:03
+  CLOCK: [2012-12-04 Tue 14:03]--[2012-12-04 Tue 14:04] =>  0:01
+  CLOCK: [2012-12-04 Tue 13:55]--[2012-12-04 Tue 14:03] =>  0:08
+  CLOCK: [2012-12-04 Tue 12:52]--[2012-12-04 Tue 12:57] =>  0:05
+  CLOCK: [2012-12-04 Tue 11:55]--[2012-12-04 Tue 12:00] =>  0:05
+  CLOCK: [2012-12-03 Mon 16:57]--[2012-12-03 Mon 16:58] =>  0:01
+  CLOCK: [2012-12-03 Mon 15:52]--[2012-12-03 Mon 16:09] =>  0:17
+  CLOCK: [2012-12-03 Mon 15:31]--[2012-12-03 Mon 15:39] =>  0:08
+  CLOCK: [2012-12-03 Mon 14:26]--[2012-12-03 Mon 14:47] =>  0:21
+  CLOCK: [2012-12-03 Mon 14:08]--[2012-12-03 Mon 14:11] =>  0:03
+  CLOCK: [2012-12-03 Mon 13:55]--[2012-12-03 Mon 14:05] =>  0:10
+  CLOCK: [2012-12-03 Mon 13:29]--[2012-12-03 Mon 13:54] =>  0:25
+  CLOCK: [2012-12-03 Mon 13:10]--[2012-12-03 Mon 13:12] =>  0:02
+  CLOCK: [2012-11-30 Fri 14:58]--[2012-11-30 Fri 15:02] =>  0:04
+  CLOCK: [2012-11-30 Fri 12:58]--[2012-11-30 Fri 12:59] =>  0:01
+  CLOCK: [2012-11-30 Fri 10:13]--[2012-11-30 Fri 10:16] =>  0:03
+  CLOCK: [2012-11-29 Thu 14:59]--[2012-11-29 Thu 15:00] =>  0:01
+  CLOCK: [2012-11-29 Thu 14:29]--[2012-11-29 Thu 14:36] =>  0:07
+  CLOCK: [2012-11-29 Thu 14:16]--[2012-11-29 Thu 14:20] =>  0:04
+  CLOCK: [2012-11-29 Thu 13:42]--[2012-11-29 Thu 13:44] =>  0:02
+  CLOCK: [2012-11-29 Thu 09:57]--[2012-11-29 Thu 10:05] =>  0:08
+  CLOCK: [2012-11-29 Thu 09:46]--[2012-11-29 Thu 09:52] =>  0:06
+  CLOCK: [2012-11-28 Wed 13:56]--[2012-11-28 Wed 14:05] =>  0:09
+  CLOCK: [2012-11-28 Wed 13:37]--[2012-11-28 Wed 13:41] =>  0:04
+  CLOCK: [2012-11-28 Wed 10:42]--[2012-11-28 Wed 10:50] =>  0:08
+  CLOCK: [2012-11-28 Wed 09:55]--[2012-11-28 Wed 10:33] =>  0:38
+  CLOCK: [2012-11-26 Mon 08:19]--[2012-11-26 Mon 08:28] =>  0:09
+   CLOCK: [2012-11-20 Tue 11:14]--[2012-11-20 Tue 12:03] =>  0:49
+   CLOCK: [2012-11-20 Tue 11:05]--[2012-11-20 Tue 11:12] =>  0:07
+   CLOCK: [2012-11-20 Tue 10:53]--[2012-11-20 Tue 11:03] =>  0:10
+   CLOCK: [2012-11-16 Fri 15:19]--[2012-11-16 Fri 15:21] =>  0:02
+   CLOCK: [2012-11-16 Fri 15:18]--[2012-11-16 Fri 15:19] =>  0:01
+   CLOCK: [2012-11-16 Fri 14:18]--[2012-11-16 Fri 14:28] =>  0:10
+   CLOCK: [2012-11-16 Fri 13:07]--[2012-11-16 Fri 13:40] =>  0:33
+   CLOCK: [2012-11-16 Fri 10:49]--[2012-11-16 Fri 11:58] =>  1:09
+   CLOCK: [2012-11-16 Fri 10:48]--[2012-11-16 Fri 10:49] =>  0:01
+   CLOCK: [2012-11-16 Fri 10:30]--[2012-11-16 Fri 10:47] =>  0:17
+   CLOCK: [2012-11-16 Fri 10:16]--[2012-11-16 Fri 10:19] =>  0:03
+   CLOCK: [2012-11-15 Thu 14:24]--[2012-11-15 Thu 14:26] =>  0:02
+   CLOCK: [2012-11-15 Thu 13:38]--[2012-11-15 Thu 13:56] =>  0:18
+  :END:
+  :PROPERTIES:
+  :CLOCK_MODELINE_TOTAL: today
+  :ID:       0a16188e-7a1a-4413-a516-5127dcbee30c
+  :END:
+   
+** Personal Organisation
+   :LOGBOOK:
+   CLOCK: [2013-01-01 Tue 14:57]--[2013-01-01 Tue 15:22] =>  0:25
+   CLOCK: [2013-01-01 Tue 14:07]--[2013-01-01 Tue 14:31] =>  0:24
+   :END:
+  :PROPERTIES:
+  :CLOCK_MODELINE_TOTAL: today
+  :ID:       d1b2e733-536a-4601-93c1-b3a544f11c16
+  :END:
+   
+* Reviews and Plans
+  :PROPERTIES:
+  :ID:       c3fc0372-36c9-4bc4-9aac-99a6df0b741d
+  :END:
+** Notes
+Here I look at my goals, my tasks and how I've been spending my time and use that information to plan out the coming week/month/year etc.
+Maybe I should also have work and personal reviews, including reviewing my health scores.
+** NEXT Daily Review [0/3]
+   SCHEDULED: <2013-02-26 Tue .+1d/2d>
+   - State "DONE"       from "NEXT"       [2013-02-25 Mon 20:22]
+   - State "DONE"       from "NEXT"       [2013-02-20 Wed 21:34]
+   - State "DONE"       from "NEXT"       [2013-02-19 Tue 21:24]
+   - State "DONE"       from "NEXT"       [2013-02-17 Sun 17:41]
+   - State "DONE"       from "NEXT"       [2013-02-15 Fri 19:29]
+   - State "DONE"       from "NEXT"       [2013-02-12 Tue 21:59]
+   - State "DONE"       from "NEXT"       [2013-02-06 Wed 19:37]
+   - State "DONE"       from "NEXT"       [2013-02-04 Mon 20:32]
+   - State "DONE"       from "NEXT"       [2013-01-30 Wed 19:51]
+   - State "DONE"       from "NEXT"       [2013-01-28 Mon 17:25]
+   - State "DONE"       from "NEXT"       [2013-01-24 Thu 21:33]
+   - State "DONE"       from "NEXT"       [2013-01-23 Wed 19:25]
+   - State "DONE"       from "NEXT"       [2013-01-14 Mon 17:43]
+   :LOGBOOK:
+   CLOCK: [2013-02-15 Fri 19:27]--[2013-02-15 Fri 19:29] =>  0:02
+   CLOCK: [2013-02-06 Wed 19:36]--[2013-02-06 Wed 19:37] =>  0:01
+   CLOCK: [2013-02-04 Mon 20:31]--[2013-02-04 Mon 20:32] =>  0:01
+   CLOCK: [2013-01-30 Wed 19:43]--[2013-01-30 Wed 19:51] =>  0:08
+   CLOCK: [2013-01-28 Mon 17:20]--[2013-01-28 Mon 17:25] =>  0:05
+   CLOCK: [2013-01-24 Thu 21:31]--[2013-01-24 Thu 21:33] =>  0:02
+   CLOCK: [2013-01-23 Wed 19:24]--[2013-01-23 Wed 19:25] =>  0:01
+   CLOCK: [2013-01-14 Mon 17:35]--[2013-01-14 Mon 17:43] =>  0:08
+   :END:
+
+   :PROPERTIES:
+   :STYLE:    habit
+   :REPEAT_TO_STATE: NEXT
+   :RESET_CHECK_BOXES: t
+   :ID:       616c5bd9-d941-4fcc-8874-2ff3c9e96b4a
+   :LAST_REPEAT: [2013-02-25 Mon 20:22]
+   :END:
+
+What to review:
+
+- [ ] Review tasks list for the day and compare with clock table, effort estimates
+
+When I set up scoring the day:
+
+- [ ] Enter score for the day
+
+For the following, do I just use the existing diary.org capture template or perhaps add a daily reflection template (possibly storing it in diary.org but with a property set to identify it as a reflection):
+
+- [ ] Write down any thoughts, relections on the day.
+
+** NEXT Daily Plan
+   SCHEDULED: <2013-02-28 Thu .+1d/2d>
+   - State "DONE"       from "NEXT"       [2013-02-27 Wed 08:18]
+   - State "DONE"       from "NEXT"       [2013-02-25 Mon 10:09]
+   - State "DONE"       from "NEXT"       [2013-02-22 Fri 08:02]
+   - State "DONE"       from "NEXT"       [2013-02-20 Wed 07:28]
+   - State "DONE"       from "NEXT"       [2013-02-19 Tue 07:35]
+   - State "DONE"       from "NEXT"       [2013-02-18 Mon 10:19]
+   - State "DONE"       from "NEXT"       [2013-02-17 Sun 08:30]
+   - State "DONE"       from "NEXT"       [2013-02-15 Fri 19:26]
+   - State "DONE"       from "NEXT"       [2013-02-13 Wed 09:57]
+   - State "DONE"       from "NEXT"       [2013-02-08 Fri 08:18]
+   - State "DONE"       from "NEXT"       [2013-02-06 Wed 07:29]
+   - State "DONE"       from "NEXT"       [2013-02-05 Tue 13:18]
+   - State "DONE"       from "NEXT"       [2013-02-04 Mon 07:38]
+   - State "DONE"       from "NEXT"       [2013-01-31 Thu 09:11]
+   - State "DONE"       from "NEXT"       [2013-01-28 Mon 08:07]
+   - State "DONE"       from "NEXT"       [2013-01-25 Fri 10:20]
+   - State "DONE"       from "NEXT"       [2013-01-24 Thu 07:34]
+   - State "DONE"       from "NEXT"       [2013-01-20 Sun 16:53]
+   - State "DONE"       from "NEXT"       [2013-01-17 Thu 08:59]
+   - State "DONE"       from "NEXT"       [2013-01-15 Tue 09:57]
+   - State "DONE"       from "NEXT"       [2013-01-14 Mon 08:25]
+   - State "DONE"       from "NEXT"       [2013-01-10 Thu 09:22]
+   - State "DONE"       from "NEXT"       [2013-01-09 Wed 07:19]
+   :LOGBOOK:
+   CLOCK: [2013-02-27 Wed 08:16]--[2013-02-27 Wed 08:18] =>  0:02
+   CLOCK: [2013-02-22 Fri 08:01]--[2013-02-22 Fri 08:02] =>  0:01
+   CLOCK: [2013-02-20 Wed 07:24]--[2013-02-20 Wed 07:28] =>  0:04
+   CLOCK: [2013-02-19 Tue 08:03]--[2013-02-19 Tue 08:06] =>  0:03
+   CLOCK: [2013-02-17 Sun 08:27]--[2013-02-17 Sun 08:30] =>  0:03
+   CLOCK: [2013-02-13 Wed 09:53]--[2013-02-13 Wed 09:57] =>  0:04
+   CLOCK: [2013-02-11 Mon 08:41]--[2013-02-11 Mon 08:55] =>  0:14
+   CLOCK: [2013-02-08 Fri 08:14]--[2013-02-08 Fri 08:18] =>  0:04
+   CLOCK: [2013-02-06 Wed 07:28]--[2013-02-06 Wed 07:29] =>  0:01
+   CLOCK: [2013-02-04 Mon 07:31]--[2013-02-04 Mon 07:38] =>  0:07
+   CLOCK: [2013-01-31 Thu 08:21]--[2013-01-31 Thu 08:25] =>  0:04
+   CLOCK: [2013-01-28 Mon 07:58]--[2013-01-28 Mon 08:02] =>  0:04
+   CLOCK: [2013-01-25 Fri 10:18]--[2013-01-25 Fri 10:20] =>  0:02
+   CLOCK: [2013-01-24 Thu 07:24]--[2013-01-24 Thu 07:34] =>  0:10
+   CLOCK: [2013-01-20 Sun 08:45]--[2013-01-20 Sun 08:57] =>  0:12
+   CLOCK: [2013-01-15 Tue 09:55]--[2013-01-15 Tue 09:57] =>  0:02
+   CLOCK: [2013-01-14 Mon 07:17]--[2013-01-14 Mon 07:35] =>  0:18
+   CLOCK: [2013-01-10 Thu 08:38]--[2013-01-10 Thu 09:16] =>  0:38
+   CLOCK: [2013-01-09 Wed 07:18]--[2013-01-09 Wed 07:19] =>  0:01
+   CLOCK: [2013-01-09 Wed 07:13]--[2013-01-09 Wed 07:18] =>  0:05
+   :END:
+
+   :PROPERTIES:
+   :STYLE:    habit
+   :REPEAT_TO_STATE: NEXT
+   :RESET_CHECK_BOXES: t
+   :ID:       ef051ee0-1113-4604-b355-450a5a47848b
+   :LAST_REPEAT: [2013-02-27 Wed 08:18]
+   :END:
+
+Set tasks in [[file:plans/today.org]].
+
+** NEXT Weekly Plan
+   SCHEDULED: <2013-03-04 Mon .+7d/10d>
+   - State "DONE"       from "NEXT"       [2013-02-25 Mon 20:14]
+   - State "DONE"       from "NEXT"       [2013-02-15 Fri 21:08]
+   - State "DONE"       from "NEXT"       [2013-02-05 Tue 13:17]
+   - State "DONE"       from "NEXT"       [2013-01-28 Mon 19:07]
+   :LOGBOOK:
+   CLOCK: [2013-02-15 Fri 21:00]--[2013-02-15 Fri 21:08] =>  0:08
+   CLOCK: [2013-01-28 Mon 18:38]--[2013-01-28 Mon 19:07] =>  0:29
+   :END:
+
+   :PROPERTIES:
+   :STYLE:    habit
+   :REPEAT_TO_STATE: NEXT
+   :RESET_CHECK_BOXES: t
+   :ID:       b98ed4bd-0690-4a23-8c8f-c72bd8e39954
+   :LAST_REPEAT: [2013-02-25 Mon 20:14]
+   :END:
+
+Set tasks and focus in [[file:~/org/week.org]].
+
+** NEXT Weekly Review [0/11]
+   SCHEDULED: <2013-03-04 Mon .+7d/10d>
+   - State "DONE"       from "NEXT"       [2013-02-25 Mon 10:23]
+   - State "DONE"       from "NEXT"       [2013-02-15 Fri 21:07]
+   - State "DONE"       from "NEXT"       [2013-02-13 Wed 14:26]
+   - State "DONE"       from "NEXT"       [2013-02-04 Mon 10:42]
+   - State "DONE"       from "NEXT"       [2013-01-08 Tue 08:39]
+   - State "DONE"       from "NEXT"       [2012-12-24 Mon 15:48]
+   - State "DONE"       from "NEXT"       [2012-12-17 Mon 14:49]
+   - State "DONE"       from "NEXT"       [2012-12-07 Fri 13:44]
+   - State "DONE"       from "NEXT"       [2012-11-30 Fri 14:06]
+   :LOGBOOK:
+   CLOCK: [2013-02-25 Mon 10:11]--[2013-02-25 Mon 10:14] =>  0:03
+   CLOCK: [2013-02-15 Fri 20:51]--[2013-02-15 Fri 21:00] =>  0:09
+   CLOCK: [2013-02-15 Fri 20:32]--[2013-02-15 Fri 20:48] =>  0:16
+   CLOCK: [2013-02-13 Wed 14:18]--[2013-02-13 Wed 14:26] =>  0:08
+   CLOCK: [2013-02-13 Wed 13:53]--[2013-02-13 Wed 14:17] =>  0:24
+   CLOCK: [2013-02-04 Mon 10:11]--[2013-02-04 Mon 10:42] =>  0:31
+   CLOCK: [2013-02-01 Fri 19:36]--[2013-02-01 Fri 20:01] =>  0:25
+   CLOCK: [2013-01-08 Tue 08:15]--[2013-01-08 Tue 08:41] =>  0:26
+   CLOCK: [2012-12-24 Mon 15:16]--[2012-12-24 Mon 15:48] =>  0:32
+   CLOCK: [2012-12-17 Mon 14:14]--[2012-12-17 Mon 14:49] =>  0:35
+   CLOCK: [2012-12-17 Mon 13:55]--[2012-12-17 Mon 14:13] =>  0:18
+   CLOCK: [2012-12-17 Mon 13:41]--[2012-12-17 Mon 13:55] =>  0:14
+   CLOCK: [2012-12-07 Fri 12:59]--[2012-12-07 Fri 13:43] =>  0:44
+   CLOCK: [2012-12-07 Fri 10:03]--[2012-12-07 Fri 10:53] =>  0:50
+   CLOCK: [2012-11-30 Fri 13:33]--[2012-11-30 Fri 14:07] =>  0:34
+   CLOCK: [2012-11-30 Fri 13:27]--[2012-11-30 Fri 13:33] =>  0:06
+   CLOCK: [2012-11-30 Fri 12:59]--[2012-11-30 Fri 13:26] =>  0:27
+   CLOCK: [2012-11-30 Fri 10:16]--[2012-11-30 Fri 10:52] =>  0:36
+   CLOCK: [2012-11-29 Thu 14:20]--[2012-11-29 Thu 14:26] =>  0:09
+   :END:
+
+   :PROPERTIES:
+   :STYLE:    habit
+   :REPEAT_TO_STATE: NEXT
+   :ID:       846c05fa-21d7-4e6f-8431-a1fa06631945
+   :RESET_CHECK_BOXES: t
+   :LAST_REPEAT: [2013-02-25 Mon 10:23]
+   :END:
+
+What to review:
+
+- [ ] Check follow-up paper folder
+- [ ] Check holding directory
+  [[file:~/Dropbox/holding]]
+- [ ] Check holding email folder
+- [ ] Review weekly agenda =F12 a w//=
+- [ ] Check clocking data for past week =v c=
+  - fix up any errors
+- [ ] Review clock report for past week =R=
+  - Check where we spent time (too much or too little) and rectify this week
+- [ ] Look at entire agenda for today  =F12 SPC=
+- [ ] Review projects =F12 SPC //= and =P= repeatedly to view each project
+  - Unstick stuck projects!
+- [ ] Review somday projects
+- [ ] Plan next week
+- [ ] Check uncommited work
+
+- start work
+  - daily agenda first - knock off items
+  - then work on NEXT tasks
+
+** NEXT Weekly collection and clean up [0/4]
+   SCHEDULED: <2013-03-04 Mon .+7d/10d>
+   - State "DONE"       from "NEXT"       [2013-02-25 Mon 10:11]
+   - State "DONE"       from "NEXT"       [2013-02-13 Wed 13:53]
+   - State "DONE"       from "NEXT"       [2013-02-05 Tue 13:15]
+   - State "DONE"       from "NEXT"       [2013-01-08 Tue 07:57]
+    - State "DONE"       from "NEXT"       [2012-12-24 Mon 15:50]
+    - State "DONE"       from "NEXT"       [2012-12-17 Mon 19:53]
+    - State "DONE"       from "NEXT"       [2012-12-10 Mon 20:27]
+    - State "DONE"       from "NEXT"       [2012-11-30 Fri 14:58]
+    :LOGBOOK:
+  CLOCK: [2013-02-25 Mon 10:09]--[2013-02-25 Mon 10:11] =>  0:02
+  CLOCK: [2013-02-13 Wed 13:50]--[2013-02-13 Wed 13:53] =>  0:03
+  CLOCK: [2013-02-13 Wed 13:48]--[2013-02-13 Wed 13:49] =>  0:01
+  CLOCK: [2013-02-05 Tue 13:13]--[2013-02-05 Tue 13:15] =>  0:02
+    CLOCK: [2013-01-08 Tue 07:45]--[2013-01-08 Tue 07:57] =>  0:12
+    CLOCK: [2012-12-17 Mon 19:50]--[2012-12-17 Mon 20:03] =>  0:13
+    CLOCK: [2012-12-10 Mon 20:09]--[2012-12-10 Mon 20:27] =>  0:18
+    CLOCK: [2012-11-30 Fri 14:11]--[2012-11-30 Fri 14:58] =>  0:47
+    CLOCK: [2012-11-29 Thu 14:36]--[2012-11-29 Thu 14:59] =>  0:23
+    :END:
+
+:PROPERTIES:
+:STYLE: habit
+:REPEAT_TO_STATE: NEXT
+:RESET_CHECK_BOXES: t
+:ID: d5f309c0-dee9-4f12-af59-e9273ebd6ddf
+:LAST_REPEAT: [2013-02-25 Mon 10:11]
+:END:
+
+- [ ] Clean up Downloads
+- [ ] Clean up tmp
+- [ ] Clean up tablet
+- [ ] Clean up phone
+
+
+Maybe write journal of the week at some stage?
+
+** Monthly
+** 6 monthly?
+** yearly
+** 5 years?
