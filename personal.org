@@ -27,10 +27,10 @@ END:
 | Rent        |  1650 |
 | Electricity |    75 |
 | Phone       |    80 |
-| TV/Internet |    70 |
+| TV/Internet |    50 |
 | Insurance   |    90 |
 | Petrol      |    30 |
-| Comics      |    50 |
+| Comics      |    60 |
 | tritoncash  |    25 |
 | Pay         | -3800 |
 | Weekly Food | 481.5 |
@@ -38,7 +38,7 @@ END:
 | Montly Food |    59 |
 | Australia   |   850 |
 |             |       |
-| Total       | -281. |
+| Total       | -291. |
    #+TBLFM: @11$2=remote(WeeklyFood,@15$2)*4.5::@12$2=remote(Supplies,@11$2)::@13$2=remote(MonthlyFood,@13$2)::@14$2=remote(Australia,@7$2)::@16$2=vsum(@2$2..@15$2)
 
 #+TBLNAME: Australia
@@ -156,6 +156,7 @@ Scan them and email them to commbank. Also make sure netbank access is setup.
 - scan reciepts and enter into ledger/org mode
 
 ** TODO Pay rent
+   - State "DONE"       from "TODO"       [2013-03-02 Sat 21:11]
    - State "DONE"       from "NEXT"       [2013-02-01 Fri 14:57]
    :LOGBOOK:
    CLOCK: [2013-02-01 Fri 14:42]--[2013-02-01 Fri 14:57] =>  0:15
@@ -167,11 +168,11 @@ Scan them and email them to commbank. Also make sure netbank access is setup.
 Use account A11078844
 [[https://act.ucsd.edu/studentBilling/billing]]
 
-  DEADLINE: <2013-03-05 Tue +1m -5d>
+  DEADLINE: <2013-04-05 Fri +1m -5d>
 
    :PROPERTIES:
    :ID:       ea07bf7b-9f89-49bf-90db-3e167baff163
-   :LAST_REPEAT: [2013-02-01 Fri 14:57]
+   :LAST_REPEAT: [2013-03-02 Sat 21:11]
 
    :END:
 [2012-10-17 Wed 14:44]
