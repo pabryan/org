@@ -24,15 +24,16 @@ Start with iso comp.
 
 * Money
 * Food
-
+** 
 | Desc               | Amt |
 |--------------------+-----|
 | Bread (Wholefoods) |   4 |
-| Bread (Vons)       |   2 |
+| Milk (WF) 2x       |   8 |
+| Bananas            |     |
 |                    |     |
 |--------------------+-----|
 | Total              |   6 |
-  #+TBLFM: @5$2=vsum(@2$2..@3$2)  
+  #+TBLFM: @6$2=vsum(@2$2..@3$2)  
 
 * Schedule
 ** 2013
