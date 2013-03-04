@@ -730,14 +730,19 @@ MATLAB is homework.
        	:PROPERTIES:
        	:ID:       acd4a608-a8c6-4acd-8837-43b7cb475613
        	:END:
-******* NEXT Prepare lecture 9-2
+******* DONE Prepare lecture 9-2
+	- State "DONE"       from "NEXT"       [2013-03-04 Mon 13:41]
 	:LOGBOOK:
+	CLOCK: [2013-03-04 Mon 13:05]--[2013-03-04 Mon 13:41] =>  0:36
 	CLOCK: [2013-03-04 Mon 10:00]--[2013-03-04 Mon 10:55] =>  0:55
 	:END:
        	:PROPERTIES:
        	:ID:       7582a7c1-1720-48e4-bc8b-24407260541a
        	:END:
 ******* NEXT Prepare lecture 9-3
+	:LOGBOOK:
+	CLOCK: [2013-03-04 Mon 13:41]
+	:END:
        	:PROPERTIES:
        	:ID:       7895874a-ffb2-48d9-8252-c4131d248f85
        	:END:
