@@ -29,11 +29,19 @@ Start with iso comp.
 |--------------------+-----|
 | Bread (Wholefoods) |   4 |
 | Milk (WF) 2x       |   8 |
-| Bananas            |     |
+| Coffee             |     |
+| Rice               |     |
+| Olives             |     |
+| Cheese             |     |
+| Butter             |     |
+| Lentils            |     |
+| Salt               |     |
+| Onions             |     |
+| Garlic             |     |
 |                    |     |
 |--------------------+-----|
 | Total              |   6 |
-  #+TBLFM: @6$2=vsum(@2$2..@3$2)  
+  #+TBLFM: @14$2=vsum(@2$2..@3$2)  
 
 * Schedule
 ** 2013
