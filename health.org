@@ -1177,6 +1177,15 @@ Do as many sets as possible in 20 mins.
 |---------+----------+-------+------+-----+------|
 |      72 |       84 |       |    8 |   5 | 3    |
 
+** Scoring
+- Max HR 180
+- Rest HR 60
+- HR Range 120
+- RPE
+  - No Intensity 1-2, HR (60+1*12)-(60+2*12) = 72-84
+  - Low Intensity 3-4, HR (60+3*12)-(60+4*12) = 96-108
+  - Mod Intensity 5-7, HR (60+5*12)-(60+7*12) = 120-144
+  - High Intensity 8-10, HR (60+8*12)-(60+10*12) = 156-180
 
 * Diet 								       :DIET:
   :PROPERTIES:
