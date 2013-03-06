@@ -1792,23 +1792,22 @@
 :END:
 
 [2013-03-06 Wed 06:20]
-**** Hero Bodyweight
+**** Hero Bodyweight Low
      :LOGBOOK:
-     CLOCK: [2013-03-06 Wed 07:41]
+     CLOCK: [2013-03-06 Wed 07:41]--[2013-03-06 Wed 08:16] =>  0:35
      :END:
 :PROPERTIES:
 :Intensity: None
 :Type: Compensation
-:RestHR: 
-:FinalHR:
+:RestHR: 64
+:FinalHR: 92
 :Score:
-:Technique:
-:Effort:
-:Discomfort:
+:Technique: 8
+:Effort: 5
+:Discomfort: 3
 :END:
 
 [2013-03-06 Wed 07:41]
-
 * conv code
   :PROPERTIES:
   :ID:       547e575e-820e-40c1-bd37-4714b4238af6
