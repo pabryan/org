@@ -7,6 +7,36 @@
   :END:
 
 ** Tracking
+*** NEXT Exercise
+    SCHEDULED: <2013-03-07 Thu .+1d/2d>
+    :PROPERTIES:
+    :STYLE:    habit
+    :REPEAT_TO_STATE: NEXT
+    :END:
+
+*** NEXT Morning Mobility
+    SCHEDULED: <2013-03-07 Thu .+1d/2d>
+    :PROPERTIES:
+    :STYLE:    habit
+    :REPEAT_TO_STATE: NEXT
+    :END:
+
+*** NEXT Afternoon Relax
+    SCHEDULED: <2013-03-07 Thu .+1d/2d>
+    :PROPERTIES:
+    :STYLE:    habit
+    :REPEAT_TO_STATE: NEXT
+    :END:
+  
+*** NEXT Evening Stretch
+    SCHEDULED: <2013-03-07 Thu .+1d/2d>
+    :PROPERTIES:
+    :STYLE:    habit
+    :REPEAT_TO_STATE: NEXT
+    :END:
+  
+
+** Old Tracking
 *** NEXT No Intensity
     SCHEDULED: <2013-03-01 Fri .+4d/5d>
     - State "DONE"       from "NEXT"       [2013-02-25 Mon 20:14]
@@ -55,11 +85,11 @@
     :END:
 
     :PROPERTIES:
-:STYLE: habit
-:REPEAT_TO_STATE: NEXT
+    :STYLE:    habit
+    :REPEAT_TO_STATE: NEXT
     :LAST_REPEAT: [2013-02-25 Mon 20:14]
-:ID: e38c9566-fca4-46e5-bf5f-a6c98c63f9f2
-:END:
+    :ID:       e38c9566-fca4-46e5-bf5f-a6c98c63f9f2
+    :END:
     
 *** NEXT Low Intensity
     SCHEDULED: <2013-02-26 Tue .+4d/5d>
