@@ -12,6 +12,7 @@
     :PROPERTIES:
     :STYLE:    habit
     :REPEAT_TO_STATE: NEXT
+    :ID:       8d56b2ef-1b49-4dc4-b701-1d021a293fa4
     :END:
 
 *** NEXT Morning Mobility
@@ -19,6 +20,7 @@
     :PROPERTIES:
     :STYLE:    habit
     :REPEAT_TO_STATE: NEXT
+    :ID:       0e75f56d-0356-4a0f-a376-080471ad4aad
     :END:
 
 *** NEXT Afternoon Relax
@@ -26,19 +28,21 @@
     :PROPERTIES:
     :STYLE:    habit
     :REPEAT_TO_STATE: NEXT
+    :ID:       c0aaf33a-af77-446b-b9fd-cf2d2f78c12a
     :END:
   
 *** NEXT Evening Stretch
-    SCHEDULED: <2013-03-07 Thu .+1d/2d>
+    SCHEDULED: <2013-03-06 Wed .+1d/2d>
     :PROPERTIES:
     :STYLE:    habit
     :REPEAT_TO_STATE: NEXT
+    :ID:       d439600f-c40d-4dd3-82ca-3e7d9e35f2b3
     :END:
   
 
 ** Old Tracking
 *** NEXT No Intensity
-    SCHEDULED: <2013-03-01 Fri .+4d/5d>
+    OLDSCHEDULED: <2013-03-01 Fri .+4d/5d>
     - State "DONE"       from "NEXT"       [2013-02-25 Mon 20:14]
     - State "DONE"       from "NEXT"       [2013-02-22 Fri 10:07]
     - State "DONE"       from "NEXT"       [2013-02-18 Mon 08:03]
@@ -92,7 +96,7 @@
     :END:
     
 *** NEXT Low Intensity
-    SCHEDULED: <2013-02-26 Tue .+4d/5d>
+    OLDSCHEDULED: <2013-02-26 Tue .+4d/5d>
     - State "DONE"       from "NEXT"       [2013-02-19 Tue 11:46]
     - State "DONE"       from "NEXT"       [2013-02-13 Wed 10:58]
     - State "DONE"       from "NEXT"       [2013-02-11 Mon 21:25]
@@ -154,7 +158,7 @@
 :END:
 
 *** NEXT Mod Intensity
-    SCHEDULED: <2013-02-28 Thu .+4d/5d>
+    OLDSCHEDULED: <2013-02-28 Thu .+4d/5d>
     - State "DONE"       from "NEXT"       [2013-02-20 Wed 08:47]
     - State "DONE"       from "NEXT"       [2013-02-16 Sat 20:07]
     - State "DONE"       from "NEXT"       [2013-02-06 Wed 19:39]
@@ -195,7 +199,7 @@
 :LAST_REPEAT: [2013-02-20 Wed 08:47]
 :END:
 *** NEXT High Intensity
-    SCHEDULED: <2013-03-01 Fri .+4d/5d>
+    OLDSCHEDULED: <2013-03-01 Fri .+4d/5d>
     - State "DONE"       from "NEXT"       [2013-02-21 Thu 07:59]
     - State "DONE"       from "NEXT"       [2013-02-17 Sun 17:41]
     - State "DONE"       from "NEXT"       [2013-02-17 Sun 17:41]
@@ -238,7 +242,7 @@
 :LAST_REPEAT: [2013-02-22 Fri 07:59]
 :END:
 *** NEXT Eye/Jaw exercises
-    SCHEDULED: <2013-02-26 Tue .+1d/2d>
+    OLDSCHEDULED: <2013-02-26 Tue .+1d/2d>
     - State "DONE"       from "NEXT"       [2013-02-25 Mon 20:20]
     - State "DONE"       from "NEXT"       [2013-02-20 Wed 07:31]
     - State "DONE"       from "NEXT"       [2013-02-18 Mon 13:46]
@@ -315,7 +319,7 @@ CLOCK: [2013-01-04 Fri 09:44]--[2013-01-04 Fri 09:48] =>  0:04
 :LAST_REPEAT: [2013-02-25 Mon 20:20]
 :END:
 *** NEXT Meditate
-    SCHEDULED: <2013-03-07 Thu .+1d/2d>
+    OLDSCHEDULED: <2013-03-07 Thu .+1d/2d>
     - State "DONE"       from "NEXT"       [2013-03-06 Wed 07:41]
     - State "DONE"       from "NEXT"       [2013-02-25 Mon 10:05]
     - State "DONE"       from "NEXT"       [2013-02-20 Wed 21:33]
