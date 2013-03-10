@@ -90,7 +90,7 @@ Blank	Grade not reported by instructor
     :ID:       b7714d68-e3c3-4424-be34-62a9473108e4
     :END:
 **** NEXT Set up course
-     SCHEDULED: <2013-03-04 Mon> DEADLINE: <2013-03-25 Mon>
+     SCHEDULED: <2013-03-18 Mon> DEADLINE: <2013-03-25 Mon>
      :PROPERTIES:
      :ID:       e4ea8745-1fb4-494c-bd64-2f0744d2dc30
      :END:
@@ -104,7 +104,7 @@ Student's have not done linear algebra yet so systems are tricky. However, on th
 ***** MATLAB
 MATLAB is homework.
 **** NEXT Set up course
-     SCHEDULED: <2013-03-04 Mon> DEADLINE: <2013-03-25 Mon>
+     SCHEDULED: <2013-03-18 Mon> DEADLINE: <2013-03-25 Mon>
      :PROPERTIES:
      :ID:       ab98137c-594a-447f-badd-95768624712f
      :END:
@@ -256,9 +256,16 @@ MATLAB is homework.
        :PROPERTIES:
        :ID:       54ef75cb-49e4-4341-8867-09abb397ca9b
        :END:
+****** NEXT Write Practice Final
+       SCHEDULED: <2013-03-10 Sun>
+       DEADLINE: <2013-03-11 Mon>
+       :PROPERTIES:
+       :ID:       45ce5522-5bec-47f1-8e4f-8e821e842188
+       :END:
+
 ****** NEXT Write Final
        SCHEDULED: <2013-02-25 Mon>
-       DEADLINE: <2013-03-08 Fri>
+       DEADLINE: <2013-03-15 Fri>
        :PROPERTIES:
        :ID:       45ce5522-5bec-47f1-8e4f-8e821e842188
        :END:
@@ -717,8 +724,9 @@ MATLAB is homework.
        	:PROPERTIES:
        	:ID:       d82697a4-f67e-4497-86e3-e28be4bff2e1
        	:END:
-****** TODO Week 9 Lectures
+****** DONE Week 9 Lectures
        DEADLINE: <2013-03-03 Sun> SCHEDULED: <2013-02-25 Mon>
+       - State "DONE"       from "TODO"       [2013-03-10 Sun 11:03]
        :LOGBOOK:
        :END:
        :PROPERTIES:
@@ -741,8 +749,10 @@ MATLAB is homework.
        	:PROPERTIES:
        	:ID:       7582a7c1-1720-48e4-bc8b-24407260541a
        	:END:
-******* NEXT Prepare lecture 9-3
+******* DONE Prepare lecture 9-3
+	- State "DONE"       from "NEXT"       [2013-03-10 Sun 11:03]
 	:LOGBOOK:
+	CLOCK: [2013-03-08 Fri 10:35]--[2013-03-08 Fri 10:55] =>  0:20
 	CLOCK: [2013-03-06 Wed 13:10]--[2013-03-06 Wed 13:40] =>  0:30
 	CLOCK: [2013-03-04 Mon 13:41]--[2013-03-04 Mon 14:13] =>  0:32
 	:END:
@@ -754,11 +764,19 @@ MATLAB is homework.
        :PROPERTIES:
        :ID:       0ce633a5-c530-49b7-8f10-4ee12f0f4274
        :END:
-******* NEXT Prepare lecture 10-1
+******* DONE Prepare lecture 10-1
+	- State "DONE"       from "NEXT"       [2013-03-10 Sun 11:03]
+	:LOGBOOK:
+	CLOCK: [2013-03-09 Sat 14:03]--[2013-03-09 Sat 14:50] =>  0:47
+	:END:
        	:PROPERTIES:
        	:ID:       67b2f2a5-61bc-4959-b9e5-edad86e3a409
        	:END:
-******* NEXT Prepare lecture 10-2
+******* DONE Prepare lecture 10-2
+	- State "DONE"       from "NEXT"       [2013-03-10 Sun 11:04]
+	:LOGBOOK:
+	CLOCK: [2013-03-09 Sat 16:03]--[2013-03-09 Sat 17:04] =>  1:01
+	:END:
        	:PROPERTIES:
        	:ID:       ee541e2f-5248-487e-8d69-b72382de8dcd
        	:END:
@@ -1453,7 +1471,7 @@ homeomorphic to S^4 or to a connected sum of CP^2s.
     :REPEAT_TO_STATE: NEXT
     :LAST_REPEAT: [2013-02-25 Mon 11:25]
     :END: 
-DEADLINE: <2013-03-01 Fri +1w>
+DEADLINE: <2013-03-29 Fri +1w>
 [[mailto:seminarstaff@math.ucsd.edu]]
 **** Email tempate
 Speaker: 

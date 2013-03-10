@@ -1041,7 +1041,7 @@ See also
     CLOCK: [2012-12-18 Tue 09:45]--[2012-12-18 Tue 10:27] =>  0:42
     :END:
 *** TODO Schedule academic work so I actually do it!
-    SCHEDULED: <2013-02-18 Mon>
+    SCHEDULED: <2013-03-18 Mon>
   :LOGBOOK:
   :END:
     :PROPERTIES:
@@ -1223,8 +1223,13 @@ Some money available through colloquia funds?
    <2013-02-23 Sat 08:30>--<2013-02-24 Sun 14:30>
 
 ** PNGS 2013
+<2013-05-11 Sat>--<2013-05-12 Sun>
 [[http://www.math.washington.edu/~lee/PNGS/]]
-
+*** TODO Plan PNGS talk
+    SCHEDULED: <2013-03-11 Mon>
+    :PROPERTIES:
+    :ID:       ae9f534c-7445-42d4-a56e-a4dcf52119b6
+    :END:
 ** Encounters in Geometry
 Cabo Frio, a beautiful beach city near Rio De Janeiro, from June 3 to June 7, 2013.
 [[http://www.impa.br/opencms/pt/eventos/store/evento_1302]]
