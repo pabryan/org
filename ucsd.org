@@ -256,8 +256,10 @@ MATLAB is homework.
        :PROPERTIES:
        :ID:       54ef75cb-49e4-4341-8867-09abb397ca9b
        :END:
-****** NEXT Write Practice Final
+****** CANCELLED Write Practice Final
        SCHEDULED: <2013-03-10 Sun>
+       - State "CANCELLED"  from "NEXT"       [2013-03-10 Sun 15:49] \\
+	 Just provided links to old exams instead.
        DEADLINE: <2013-03-11 Mon>
        :PROPERTIES:
        :ID:       45ce5522-5bec-47f1-8e4f-8e821e842188
@@ -267,7 +269,7 @@ MATLAB is homework.
        SCHEDULED: <2013-02-25 Mon>
        DEADLINE: <2013-03-15 Fri>
        :LOGBOOK:
-       CLOCK: [2013-03-10 Sun 15:04]
+       CLOCK: [2013-03-10 Sun 15:04]--[2013-03-10 Sun 15:49] =>  0:45
        :END:
        :PROPERTIES:
        :ID:       45ce5522-5bec-47f1-8e4f-8e821e842188
