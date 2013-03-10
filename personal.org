@@ -20,6 +20,9 @@ END:
   :CATEGORY: Finances
   :END:
 
+** Bank
+*** Chase Routing Number
+322271627
 ** Budget
 #+TBLNAME: MTHBUDGET
 | Desc        |   Amt |
