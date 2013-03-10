@@ -293,9 +293,10 @@ Can we suspend loan repayments for a few months?
 [2013-01-28 Mon 19:48]
 
 ** Tax
-*** TODO Do Tax
+*** NEXT Do Tax
   DEADLINE: <2013-04-15 Mon> SCHEDULED: <2013-03-10 Sun>
   :LOGBOOK:
+  CLOCK: [2013-03-10 Sun 11:15]
   :END:
     :PROPERTIES:
     :ID:       e906254e-4829-45d7-95cf-4bbea4b65182
