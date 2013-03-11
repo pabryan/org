@@ -1830,11 +1830,11 @@
 
 **** Ageless Mobility 
      :LOGBOOK:
-     CLOCK: [2013-03-10 Sun 15:50]
+     CLOCK: [2013-03-10 Sun 15:50]--[2013-03-10 Sun 17:15] =>  1:25
      :END:
 :PROPERTIES:
-:Type:
-:Intensity:
+:Intensity: Low
+:Type: Compensation
 :RestHR: 
 :FinalHR:
 :Score:
@@ -1844,8 +1844,6 @@
 :END:
 
 [2013-03-10 Sun 16:20]
-:Intensity: Low
-:Type: Compensation
 
 * conv code
   :PROPERTIES:
