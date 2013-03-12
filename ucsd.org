@@ -93,18 +93,27 @@ Blank	Grade not reported by instructor
     :PROPERTIES:
     :ID:       b7714d68-e3c3-4424-be34-62a9473108e4
     :END:
-**** NEXT Set up course
-     SCHEDULED: <2013-03-18 Mon> DEADLINE: <2013-03-25 Mon>
-     :LOGBOOK:
-     CLOCK: [2013-03-12 Tue 11:26]--[2013-03-12 Tue 11:28] =>  0:02
-     :END:
-     :PROPERTIES:
-     :ID:       e4ea8745-1fb4-494c-bd64-2f0744d2dc30
-     :END:
+**** Tasks
+***** NEXT Set up course
+      SCHEDULED: <2013-03-18 Mon> DEADLINE: <2013-03-25 Mon>
+      :LOGBOOK:
+      CLOCK: [2013-03-12 Tue 11:26]--[2013-03-12 Tue 11:28] =>  0:02
+      :END:
+      :PROPERTIES:
+      :ID:       e4ea8745-1fb4-494c-bd64-2f0744d2dc30
+      :END:
 **** Clocking
 ***** Admin
 ***** Lecturing
 ***** Office hours
+**** Lectures
+***** Lecture
+<2013-04-01 Mon 15:00-16:00>
+***** Lecture
+<2013-04-03 Wed 15:00-16:00>
+***** Lecture
+<2013-04-05 Fri 15:00-16:00>
+
 *** TODO MATH20D Spring 2013 					    :MATH20D:
     :PROPERTIES:
     :ID:       01742e1a-c15f-4aab-ada0-59725c2e73e4
