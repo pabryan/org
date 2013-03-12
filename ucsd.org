@@ -85,6 +85,15 @@ X	Pending charge of academic dishonesty (available only within the eGrades tool)
 Blank	Grade not reported by instructor
 
 ** Courses
+*** Template
+**** Notes
+**** Tasks
+***** Exams
+***** Homework
+***** Lectures
+***** Website
+**** Clocking
+**** Calendar
 *** TODO MATH20C Spring 2013					    :MATH20C:
     :LOGBOOK:
     CLOCK: [2013-03-12 Tue 12:09]--[2013-03-12 Tue 12:36] =>  0:27
@@ -94,6 +103,10 @@ Blank	Grade not reported by instructor
     :ID:       b7714d68-e3c3-4424-be34-62a9473108e4
     :END:
 **** Tasks
+***** Exams
+***** Homework
+***** Lectures
+***** Website
 ***** NEXT Set up course
       SCHEDULED: <2013-03-18 Mon> DEADLINE: <2013-03-25 Mon>
       :LOGBOOK:
@@ -187,6 +200,10 @@ Student's have not done linear algebra yet so systems are tricky. However, on th
 ***** MATLAB
 MATLAB is homework.
 **** Tasks
+***** Exams
+***** Homework
+***** Lectures
+***** Website
 ***** NEXT Set up course
       SCHEDULED: <2013-03-18 Mon> DEADLINE: <2013-03-25 Mon>
       :LOGBOOK:
