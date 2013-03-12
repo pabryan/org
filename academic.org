@@ -1018,7 +1018,8 @@ See also
 
 *** Research Pondering
     :LOGBOOK:
-    CLOCK: [2013-03-12 Tue 10:07]
+    CLOCK: [2013-03-12 Tue 10:22]
+    CLOCK: [2013-03-12 Tue 10:07]--[2013-03-12 Tue 10:22] =>  0:15
     CLOCK: [2013-03-12 Tue 09:59]--[2013-03-12 Tue 10:05] =>  0:06
     CLOCK: [2013-03-11 Mon 08:30]--[2013-03-11 Mon 09:03] =>  0:33
     CLOCK: [2013-03-06 Wed 09:50]--[2013-03-06 Wed 10:55] =>  1:05
@@ -1170,9 +1171,12 @@ I should write evolution equations for various common quantities, such as curvat
 Can I make the metric stochastic and obtain a theory of quantum gravity?
 *** General Relativity
 Light should follow geodesics corresponding to parallel translation by Levi-Civita. These are also critical points of the energy which may be defined soley in terms of the metric. Massive particles however should follow different paths. This is because of the presence of various fields, like electromagnetic fields. Can I interepert this as a new connection like in the wave dark matter theory. Thus we would have an entirely geometric theory! Can we couple other dark matter theories via this mechanism? For instance can we do it with WIMP?
-*** Mean curvature flow, solitons, Monge-Ampere, Stability
-- Is there some notion of stable soliton? How does this relate to $\mathcal{F}$-stability?
+*** Mean curvature flow, solitons, Monge-Ampere, $\mathcal{F}$-Stability
+- Is there some notion of stable soliton? How does this relate to $\mathcal{F}$-stability? The Monge-Ampere stuff links minimal hypersurfaces and soliton flows via a density. Is this density related to Huisken's density for self-shrinkers?
 - Is there a correspondence between CMC hypersurfaces and some Monge-Ampere differential system? What about general mean curvature flows?
+- Can I generalise these notions to arbitrary backgrounds and can I do the Monge-Ampere/soliton stuff in high co-dimension?
+*** High Co-dim MCF and support functions
+The support function for high co-dim submanifolds can be the projection of the position vector field onto the normal bundle. How does this evolve? Can we apply the max principle?
 ** Reading
 - MR3016508
 - [[http://link.springer.com/article/10.1007/s00526-012-0508-1]]
