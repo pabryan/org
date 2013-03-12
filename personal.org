@@ -1120,13 +1120,13 @@ Catch the 41. Get off at Derrik Dr. after Claremont Mesa and before Balboa.
   :PROPERTIES:
   :ID:       204ad8e3-a00f-4da7-b2d6-deb5e370a2c6
   :END:
-** TODO plan weekly food
+** SOMEDAY plan weekly food
    - State "DONE"       from "NEXT"       [2012-11-19 Mon 12:28]
    :PROPERTIES:
    :ID:       659b82d1-fff2-498c-afeb-3101030d6946
    :LAST_REPEAT: [2012-11-19 Mon 12:28]
    :END:
-   SCHEDULED: <2013-01-30 Wed +1w>
+   TOBESCHEDULED: <2013-01-30 Wed +1w>
 
 * Podcasts
   :PROPERTIES:
