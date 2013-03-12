@@ -1093,7 +1093,7 @@ See [[papers:MR1912903][MR1912903-paper]] for Lie group/algebra theory approach
 Steve Zelditch does this sort of thing.
 The people in rooms 58-- also do this. They have continuum mech type posters outside their office.
 
-*** Check out riemanniab measures
+*** Check out riemannian measures
   :PROPERTIES:
   :ID:       470f8b9b-3ea4-47c1-9f19-2d91fe11ba5a
   :END: 
@@ -1169,7 +1169,10 @@ I should write evolution equations for various common quantities, such as curvat
 *** Quantum Gravity
 Can I make the metric stochastic and obtain a theory of quantum gravity?
 *** General Relativity
-Light should follow geodesics corresponding to parallel translation by Levi-Civita. These are also critical points of the energy which may be defined soley in terms of the metric. Massive particles however should follow different paths. This is because of the presence of various fields, like electromagnetic fields. Can I interepert this as a new connection like in the wave dark matter theory. Thus we would have an entirely geometric theory!
+Light should follow geodesics corresponding to parallel translation by Levi-Civita. These are also critical points of the energy which may be defined soley in terms of the metric. Massive particles however should follow different paths. This is because of the presence of various fields, like electromagnetic fields. Can I interepert this as a new connection like in the wave dark matter theory. Thus we would have an entirely geometric theory! Can we couple other dark matter theories via this mechanism? For instance can we do it with WIMP?
+*** Mean curvature flow, solitons, Monge-Ampere, Stability
+- Is there some notion of stable soliton? How does this relate to $\mathcal{F}$-stability?
+- Is there a correspondence between CMC hypersurfaces and some Monge-Ampere differential system? What about general mean curvature flows?
 ** Reading
 - MR3016508
 - [[http://link.springer.com/article/10.1007/s00526-012-0508-1]]
