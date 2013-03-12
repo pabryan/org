@@ -107,12 +107,77 @@ Blank	Grade not reported by instructor
 ***** Lecturing
 ***** Office hours
 **** Lectures
+***** Location
+Center 101
 ***** Lecture
 <2013-04-01 Mon 15:00-16:00>
 ***** Lecture
+<2013-04-08 Mon 15:00-16:00>
+***** Lecture
+<2013-04-15 Mon 15:00-16:00>
+***** Lecture
+<2013-04-22 Mon 15:00-16:00>
+***** Lecture
+<2013-04-29 Mon 15:00-16:00>
+***** Lecture
+<2013-05-06 Mon 15:00-16:00>
+***** Lecture
+<2013-05-13 Mon 15:00-16:00>
+***** Lecture
+<2013-05-20 Mon 15:00-16:00>
+***** Lecture
+<2013-05-27 Mon 15:00-16:00>
+***** Lecture
+<2013-06-03 Mon 15:00-16:00>
+***** Lecture
 <2013-04-03 Wed 15:00-16:00>
 ***** Lecture
+<2013-04-10 Wed 15:00-16:00>
+***** Lecture
+<2013-04-17 Wed 15:00-16:00>
+***** Lecture
+<2013-04-24 Wed 15:00-16:00>
+***** Lecture
+<2013-05-01 Wed 15:00-16:00>
+***** Lecture
+<2013-05-08 Wed 15:00-16:00>
+***** Lecture
+<2013-05-15 Wed 15:00-16:00>
+***** Lecture
+<2013-05-22 Wed 15:00-16:00>
+***** Lecture
+<2013-05-29 Wed 15:00-16:00>
+***** Lecture
+<2013-06-05 Wed 15:00-16:00>
+***** Lecture
 <2013-04-05 Fri 15:00-16:00>
+
+***** Lecture
+<2013-04-12 Fri 15:00-16:00>
+
+***** Lecture
+<2013-04-19 Fri 15:00-16:00>
+
+***** Lecture
+<2013-04-26 Fri 15:00-16:00>
+
+***** Lecture
+<2013-05-03 Fri 15:00-16:00>
+
+***** Lecture
+<2013-05-10 Fri 15:00-16:00>
+
+***** Lecture
+<2013-05-17 Fri 15:00-16:00>
+
+***** Lecture
+<2013-05-24 Fri 15:00-16:00>
+
+***** Lecture
+<2013-05-31 Fri 15:00-16:00>
+
+***** Lecture
+<2013-06-07 Fri 15:00-16:00>
 
 *** TODO MATH20D Spring 2013 					    :MATH20D:
     :PROPERTIES:
@@ -123,12 +188,83 @@ Blank	Grade not reported by instructor
 Student's have not done linear algebra yet so systems are tricky. However, on the $2x2$ case is needed.
 ***** MATLAB
 MATLAB is homework.
-**** NEXT Set up course
-     SCHEDULED: <2013-03-18 Mon> DEADLINE: <2013-03-25 Mon>
-     :PROPERTIES:
-     :ID:       ab98137c-594a-447f-badd-95768624712f
-     :END:
-*** TODO MATH142B Winter 2012					   :MATH142B:
+**** Tasks
+***** NEXT Set up course
+      SCHEDULED: <2013-03-18 Mon> DEADLINE: <2013-03-25 Mon>
+      :LOGBOOK:
+      CLOCK: [2013-03-12 Tue 11:26]--[2013-03-12 Tue 11:28] =>  0:02
+      :END:
+      :PROPERTIES:
+      :ID:       e4ea8745-1fb4-494c-bd64-2f0744d2dc30
+      :END:
+**** Clocking
+***** Admin
+***** Lecturing
+***** Office hours
+**** Lectures
+***** Location
+Center 119
+***** Lecture
+<2013-04-01 Mon 13:00-14:00>
+***** Lecture
+<2013-04-08 Mon 13:00-14:00>
+***** Lecture
+<2013-04-15 Mon 13:00-14:00>
+***** Lecture
+<2013-04-22 Mon 13:00-14:00>
+***** Lecture
+<2013-04-29 Mon 13:00-14:00>
+***** Lecture
+<2013-05-06 Mon 13:00-14:00>
+***** Lecture
+<2013-05-13 Mon 13:00-14:00>
+***** Lecture
+<2013-05-20 Mon 13:00-14:00>
+***** Lecture
+<2013-05-27 Mon 13:00-14:00>
+***** Lecture
+<2013-06-03 Mon 13:00-14:00>
+***** Lecture
+<2013-04-03 Wed 13:00-14:00>
+***** Lecture
+<2013-04-10 Wed 13:00-14:00>
+***** Lecture
+<2013-04-17 Wed 13:00-14:00>
+***** Lecture
+<2013-04-24 Wed 13:00-14:00>
+***** Lecture
+<2013-05-01 Wed 13:00-14:00>
+***** Lecture
+<2013-05-08 Wed 13:00-14:00>
+***** Lecture
+<2013-05-15 Wed 13:00-14:00>
+***** Lecture
+<2013-05-22 Wed 13:00-14:00>
+***** Lecture
+<2013-05-29 Wed 13:00-14:00>
+***** Lecture
+<2013-06-05 Wed 13:00-14:00>
+***** Lecture
+<2013-04-05 Fri 13:00-14:00>
+***** Lecture
+<2013-04-12 Fri 13:00-14:00>
+***** Lecture
+<2013-04-19 Fri 13:00-14:00>
+***** Lecture
+<2013-04-26 Fri 13:00-14:00>
+***** Lecture
+<2013-05-03 Fri 13:00-14:00>
+***** Lecture
+<2013-05-10 Fri 13:00-14:00>
+***** Lecture
+<2013-05-17 Fri 13:00-14:00>
+***** Lecture
+<2013-05-24 Fri 13:00-14:00>
+***** Lecture
+<2013-05-31 Fri 13:00-14:00>
+***** Lecture
+<2013-06-07 Fri 13:00-14:00>
+*** TODO MATH142B Winter 2012 					   :MATH142B:
     :LOGBOOK:
     CLOCK: [2013-02-22 Fri 07:36]--[2013-02-22 Fri 07:37] =>  0:01
     :END:
