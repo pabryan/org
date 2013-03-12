@@ -1057,6 +1057,8 @@ See also
 Schedule time for research, for teaching and for non-research academic work (e.g. refereeing). That cover's all the sort of work I do.
 
 ** Research ideas
+*** Distance function
+[[www.math.ucsb.edu/~wei/paper/241B.pdf]]
 *** Bakry-Emry, Optimal transport measure
   :PROPERTIES:
   :ID:       a515c581-ea2b-499f-b9eb-5ad6afa454fb
@@ -1176,7 +1178,12 @@ Light should follow geodesics corresponding to parallel translation by Levi-Civi
 - Is there a correspondence between CMC hypersurfaces and some Monge-Ampere differential system? What about general mean curvature flows?
 - Can I generalise these notions to arbitrary backgrounds and can I do the Monge-Ampere/soliton stuff in high co-dimension?
 *** High Co-dim MCF and support functions
-The support function for high co-dim submanifolds can be the projection of the position vector field onto the normal bundle. How does this evolve? Can we apply the max principle?
+- The support function for high co-dim submanifolds can be the projection of the position vector field onto the normal bundle. How does this evolve? Can we apply the max principle?
+- How does this relate to Mao Pei's Bernstein type estimate? There they look at the angle of a graph, which is just the support function anyway!
+*** Support functions on manifolds
+- Can I define a (weak) vector field on a manifold, such as $\grad d$? How does this relate to the killing equation? If I define an almost-everywhere defined vector field $\grad d$, then I have a weak support function defined everywhere except the cut locus. So what does this give me then?
+*** Support function and $K+1$ flow on $\HH^3$
+$\HH^3$ is a Lie-group, but the metric is not left invariant. Do I still have a global Killing field, with respect to which I can define a support function? I guess $\HH^3$ has trivial tangent bundle so this is a good start! A canditate for the Killing field is something like $\sinh(d) d$.
 ** Reading
 - MR3016508
 - [[http://link.springer.com/article/10.1007/s00526-012-0508-1]]
