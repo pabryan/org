@@ -1018,7 +1018,7 @@ See also
 
 *** Research Pondering
     :LOGBOOK:
-    CLOCK: [2013-03-12 Tue 10:22]
+    CLOCK: [2013-03-12 Tue 10:22]--[2013-03-12 Tue 10:48] =>  0:26
     CLOCK: [2013-03-12 Tue 10:07]--[2013-03-12 Tue 10:22] =>  0:15
     CLOCK: [2013-03-12 Tue 09:59]--[2013-03-12 Tue 10:05] =>  0:06
     CLOCK: [2013-03-11 Mon 08:30]--[2013-03-11 Mon 09:03] =>  0:33
@@ -1180,10 +1180,18 @@ Light should follow geodesics corresponding to parallel translation by Levi-Civi
 *** High Co-dim MCF and support functions
 - The support function for high co-dim submanifolds can be the projection of the position vector field onto the normal bundle. How does this evolve? Can we apply the max principle?
 - How does this relate to Mao Pei's Bernstein type estimate? There they look at the angle of a graph, which is just the support function anyway!
-*** Support functions on manifolds
-- Can I define a (weak) vector field on a manifold, such as $\grad d$? How does this relate to the killing equation? If I define an almost-everywhere defined vector field $\grad d$, then I have a weak support function defined everywhere except the cut locus. So what does this give me then?
+*** Support functions, Killing fields, Translation maps on manifolds
+- Can I define a (weak) vector field on a manifold, such as $\grad d$? How does this relate to the Killing equation? If I define an almost-everywhere defined vector field $\grad d$, then I have a weak support function defined everywhere except the cut locus. So what does this give me then?
+- Alencar and Frensel have a paper with a support funtion on constant curvature simply connected space forms: MR1173029. They define a vector field that does the job. Is this Killing?
+- Given my vector field I can define a translation map almost everywhere.
+- Can I solve (at least away from the cut locus) the Killing vector field equation? What about conformal- and pseudo-Killing fields? Is the obstruction to a global solution, cohomological?
 *** Support function and $K+1$ flow on $\HH^3$
-$\HH^3$ is a Lie-group, but the metric is not left invariant. Do I still have a global Killing field, with respect to which I can define a support function? I guess $\HH^3$ has trivial tangent bundle so this is a good start! A canditate for the Killing field is something like $\sinh(d) d$.
+- $\HH^3$ is a Lie-group, but the metric is not left invariant. Do I still have a global Killing field, with respect to which I can define a support function? I guess $\HH^3$ has trivial tangent bundle so this is a good start! A canditate for the Killing field is something like $\sinh(d) d$.
+- See Alancar and Frensel: MR1173029 for a canditate vector field.
+*** Sphere theorem
+Ben and Chris Hopper mention that the sphere theorem follows from comparison theorems for the distance function I think. They say you can't get to diffemorphism however. Maybe I can do it?
+*** Ricci flow on 3-folds
+Look at $2$-dim (closed?) submanifolds and apply isoperimetric estimates.
 ** Reading
 - MR3016508
 - [[http://link.springer.com/article/10.1007/s00526-012-0508-1]]
