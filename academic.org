@@ -1018,7 +1018,8 @@ See also
 
 *** Research Pondering
     :LOGBOOK:
-    CLOCK: [2013-03-12 Tue 09:59]
+    CLOCK: [2013-03-12 Tue 10:07]
+    CLOCK: [2013-03-12 Tue 09:59]--[2013-03-12 Tue 10:05] =>  0:06
     CLOCK: [2013-03-11 Mon 08:30]--[2013-03-11 Mon 09:03] =>  0:33
     CLOCK: [2013-03-06 Wed 09:50]--[2013-03-06 Wed 10:55] =>  1:05
     CLOCK: [2013-02-27 Wed 12:50]--[2013-02-27 Wed 13:50] =>  1:00
@@ -1165,6 +1166,10 @@ Is there some sort of Noether like theorem for the existence of monotone quantit
 
 **** Standard evolution
 I should write evolution equations for various common quantities, such as curvature. That is by choosing $Z=R$ above say, I only need to work out $DZ = DR$ once and then can apply it to any number of flows. Another important similar thing is to work out the dependence on the metric which all geometric quantities depend on. For example, let $Rm = Rm(g)$ be the Riemann curvature tensor for the metric $g$. What are $DRM$ and $D^2Rm$ where $Rm$ is thought of as a function of the metric. This will apply for all evolution equations/elliptic problems!
+*** Quantum Gravity
+Can I make the metric stochastic and obtain a theory of quantum gravity?
+*** General Relativity
+Light should follow geodesics corresponding to parallel translation by Levi-Civita. These are also critical points of the energy which may be defined soley in terms of the metric. Massive particles however should follow different paths. This is because of the presence of various fields, like electromagnetic fields. Can I interepert this as a new connection like in the wave dark matter theory. Thus we would have an entirely geometric theory!
 ** Reading
 - MR3016508
 - [[http://link.springer.com/article/10.1007/s00526-012-0508-1]]
