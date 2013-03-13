@@ -1066,6 +1066,9 @@ Schedule time for research, for teaching and for non-research academic work (e.g
    :ID:       76fc2a4e-0bcf-40b4-aa91-f87c8962f648
    :END:
 *** Distance function and position vector field
+    :LOGBOOK:
+    CLOCK: [2013-03-13 Wed 15:00]
+    :END:
 [[www.math.ucsb.edu/~wei/paper/241B.pdf]]
 Can I solve a PDE to get a position vector field vanishing along the
 cut locus?
@@ -1192,7 +1195,7 @@ Light should follow geodesics corresponding to parallel translation by Levi-Civi
 - How does this relate to Mao Pei's Bernstein type estimate? There they look at the angle of a graph, which is just the support function anyway!
 *** Support functions, Killing fields, Translation maps on manifolds
     :LOGBOOK:
-    CLOCK: [2013-03-13 Wed 14:45]
+    CLOCK: [2013-03-13 Wed 14:45]--[2013-03-13 Wed 14:52] =>  0:07
     CLOCK: [2013-03-13 Wed 13:52]--[2013-03-13 Wed 14:41] =>  0:49
     CLOCK: [2013-03-13 Wed 13:22]--[2013-03-13 Wed 13:42] =>  0:20
     :END:
