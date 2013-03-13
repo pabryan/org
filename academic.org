@@ -1187,15 +1187,23 @@ Light should follow geodesics corresponding to parallel translation by Levi-Civi
 - How does this relate to Mao Pei's Bernstein type estimate? There they look at the angle of a graph, which is just the support function anyway!
 *** Support functions, Killing fields, Translation maps on manifolds
     :LOGBOOK:
+    CLOCK: [2013-03-13 Wed 13:52]
     CLOCK: [2013-03-13 Wed 13:22]--[2013-03-13 Wed 13:42] =>  0:20
     :END:
+    :PROPERTIES:
+    :ID:       08506127-8b7b-47cf-943a-ffb2fa86170c
+    :END:
+**** Notes
 - Can I define a (weak) vector field on a manifold, such as $\grad d$? How does this relate to the Killing equation? If I define an almost-everywhere defined vector field $\grad d$, then I have a weak support function defined everywhere except the cut locus. So what does this give me then?
 - Alencar and Frensel have a paper with a support funtion on constant curvature simply connected space forms: MR1173029. They define a vector field that does the job. Is this Killing?
 - Given my vector field I can define a translation map almost everywhere.
 - Can I solve (at least away from the cut locus) the Killing vector field equation? What about conformal- and pseudo-Killing fields? Is the obstruction to a global solution, cohomological?
-**** Notes
+**** Scanned Notes
+     :PROPERTIES:
+     :ID:       f24eac33-3c1c-44db-86c8-519e8dfb4462
+     :END:
+[[id:5f6cca3e-2994-46c1-9295-5842a16b4a6c][Blackboard]]
 
-[[file:~/research_resources/notes/2013-03-13 13.37.39.jpg]]
 *** Support function and $K+1$ flow on $\HH^3$
 - $\HH^3$ is a Lie-group, but the metric is not left invariant. Do I still have a global Killing field, with respect to which I can define a support function? I guess $\HH^3$ has trivial tangent bundle so this is a good start! A canditate for the Killing field is something like $\sinh(d) d$.
 - See Alancar and Frensel: MR1173029 for a canditate vector field.
