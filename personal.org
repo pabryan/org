@@ -1106,8 +1106,9 @@ Catch the 41. Get off at Derrik Dr. after Claremont Mesa and before Balboa.
    :ID:       cfd82f33-fbe2-44b1-a545-b3f3cab32d5b
    :END:
 [2013-02-14 Thu 12:21]
-** TODO Reschedule driving test
+** DONE Reschedule driving test
    DEADLINE: <2013-02-25 Mon> SCHEDULED: <2013-02-25 Mon>
+   - State "DONE"       from "TODO"       [2013-03-12 Tue 21:09]
   :LOGBOOK:
   :END:
    :PROPERTIES:

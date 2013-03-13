@@ -73,9 +73,11 @@ Geisel Library room 274
    :END:
 [[file:~/working/academic/journals/review/MR2948294]]
 
-** NEXT Review Generic MCF I
+** DONE Review Generic MCF I
    SCHEDULED: <2013-02-04 Mon> DEADLINE: <2013-02-28 Thu>
+   - State "DONE"       from "NEXT"       [2013-03-12 Tue 21:09]
    :LOGBOOK:
+   CLOCK: [2013-03-12 Tue 20:35]--[2013-03-12 Tue 21:09] =>  0:34
    CLOCK: [2013-03-12 Tue 20:15]--[2013-03-12 Tue 20:27] =>  0:12
    CLOCK: [2013-03-12 Tue 16:44]--[2013-03-12 Tue 17:35] =>  0:51
    CLOCK: [2013-03-12 Tue 08:46]--[2013-03-12 Tue 09:31] =>  0:45
