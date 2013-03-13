@@ -1270,7 +1270,8 @@ I need to have my macros available.
 Here I look at my goals, my tasks and how I've been spending my time and use that information to plan out the coming week/month/year etc.
 Maybe I should also have work and personal reviews, including reviewing my health scores.
 ** NEXT Daily Review [0/3]
-   SCHEDULED: <2013-02-26 Tue .+1d/2d>
+   SCHEDULED: <2013-03-13 Wed .+1d/2d>
+   - State "DONE"       from "NEXT"       [2013-03-12 Tue 21:32]
    - State "DONE"       from "NEXT"       [2013-02-25 Mon 20:22]
    - State "DONE"       from "NEXT"       [2013-02-20 Wed 21:34]
    - State "DONE"       from "NEXT"       [2013-02-19 Tue 21:24]
@@ -1300,7 +1301,7 @@ Maybe I should also have work and personal reviews, including reviewing my healt
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
    :ID:       616c5bd9-d941-4fcc-8874-2ff3c9e96b4a
-   :LAST_REPEAT: [2013-02-25 Mon 20:22]
+   :LAST_REPEAT: [2013-03-12 Tue 21:32]
    :END:
 
 What to review:
@@ -1316,7 +1317,8 @@ For the following, do I just use the existing diary.org capture template or perh
 - [ ] Write down any thoughts, relections on the day.
 
 ** NEXT Daily Plan
-   SCHEDULED: <2013-03-11 Mon .+1d/2d>
+   SCHEDULED: <2013-03-13 Wed .+1d/2d>
+   - State "DONE"       from "NEXT"       [2013-03-12 Tue 21:32]
    - State "DONE"       from "NEXT"       [2013-03-10 Sun 15:49]
    - State "DONE"       from "NEXT"       [2013-03-04 Mon 08:39]
    - State "DONE"       from "NEXT"       [2013-02-27 Wed 08:18]
@@ -1372,7 +1374,7 @@ For the following, do I just use the existing diary.org capture template or perh
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
    :ID:       ef051ee0-1113-4604-b355-450a5a47848b
-   :LAST_REPEAT: [2013-03-10 Sun 15:49]
+   :LAST_REPEAT: [2013-03-12 Tue 21:32]
    :END:
 
 Set tasks in [[file:plans/today.org]].
