@@ -1067,7 +1067,7 @@ Schedule time for research, for teaching and for non-research academic work (e.g
    :END:
 *** Distance function and position vector field
     :LOGBOOK:
-    CLOCK: [2013-03-13 Wed 15:00]
+    CLOCK: [2013-03-13 Wed 15:00]--[2013-03-13 Wed 15:15] =>  0:15
     :END:
 [[www.math.ucsb.edu/~wei/paper/241B.pdf]]
 Can I solve a PDE to get a position vector field vanishing along the
@@ -1222,7 +1222,13 @@ Ben and Chris Hopper mention that the sphere theorem follows from comparison the
     :PROPERTIES:
     :ID:       13b92f43-afcf-4337-940a-3acd70f607b6
     :END:
-Look at $2$-dim (closed?) submanifolds and apply isoperimetric estimates.
+Look at $2$-dim (closed?) submanifolds and apply isoperimetric
+estimates.
+*** Non-collapsing
+    :LOGBOOK:
+    CLOCK: [2013-03-13 Wed 15:15]--[2013-03-13 Wed 15:48] =>  0:33
+    :END:
+
 ** Reading
    :PROPERTIES:
    :ID:       3b692ea2-10eb-4586-ae3e-2006ce6a3c0e
