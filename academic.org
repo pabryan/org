@@ -1186,6 +1186,9 @@ Light should follow geodesics corresponding to parallel translation by Levi-Civi
 - The support function for high co-dim submanifolds can be the projection of the position vector field onto the normal bundle. How does this evolve? Can we apply the max principle?
 - How does this relate to Mao Pei's Bernstein type estimate? There they look at the angle of a graph, which is just the support function anyway!
 *** Support functions, Killing fields, Translation maps on manifolds
+    :LOGBOOK:
+    CLOCK: [2013-03-13 Wed 13:22]
+    :END:
 - Can I define a (weak) vector field on a manifold, such as $\grad d$? How does this relate to the Killing equation? If I define an almost-everywhere defined vector field $\grad d$, then I have a weak support function defined everywhere except the cut locus. So what does this give me then?
 - Alencar and Frensel have a paper with a support funtion on constant curvature simply connected space forms: MR1173029. They define a vector field that does the job. Is this Killing?
 - Given my vector field I can define a translation map almost everywhere.
@@ -1198,6 +1201,9 @@ Ben and Chris Hopper mention that the sphere theorem follows from comparison the
 *** Ricci flow on 3-folds
 Look at $2$-dim (closed?) submanifolds and apply isoperimetric estimates.
 ** Reading
+   :PROPERTIES:
+   :ID:       3b692ea2-10eb-4586-ae3e-2006ce6a3c0e
+   :END:
 - MR3016508
 - [[http://link.springer.com/article/10.1007/s00526-012-0508-1]]
 - [[http://www.worldscientific.com/doi/abs/10.1142/S0129167X11007525]]
