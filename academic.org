@@ -1062,8 +1062,13 @@ See also
 Schedule time for research, for teaching and for non-research academic work (e.g. refereeing). That cover's all the sort of work I do.
 
 ** Research ideas
-*** Distance function
+   :PROPERTIES:
+   :ID:       76fc2a4e-0bcf-40b4-aa91-f87c8962f648
+   :END:
+*** Distance function and position vector field
 [[www.math.ucsb.edu/~wei/paper/241B.pdf]]
+Can I solve a PDE to get a position vector field vanishing along the
+cut locus?
 *** Bakry-Emry, Optimal transport measure
   :PROPERTIES:
   :ID:       a515c581-ea2b-499f-b9eb-5ad6afa454fb
@@ -1187,7 +1192,8 @@ Light should follow geodesics corresponding to parallel translation by Levi-Civi
 - How does this relate to Mao Pei's Bernstein type estimate? There they look at the angle of a graph, which is just the support function anyway!
 *** Support functions, Killing fields, Translation maps on manifolds
     :LOGBOOK:
-    CLOCK: [2013-03-13 Wed 13:52]
+    CLOCK: [2013-03-13 Wed 14:45]
+    CLOCK: [2013-03-13 Wed 13:52]--[2013-03-13 Wed 14:41] =>  0:49
     CLOCK: [2013-03-13 Wed 13:22]--[2013-03-13 Wed 13:42] =>  0:20
     :END:
     :PROPERTIES:
@@ -1210,6 +1216,9 @@ Light should follow geodesics corresponding to parallel translation by Levi-Civi
 *** Sphere theorem
 Ben and Chris Hopper mention that the sphere theorem follows from comparison theorems for the distance function I think. They say you can't get to diffemorphism however. Maybe I can do it?
 *** Ricci flow on 3-folds
+    :PROPERTIES:
+    :ID:       13b92f43-afcf-4337-940a-3acd70f607b6
+    :END:
 Look at $2$-dim (closed?) submanifolds and apply isoperimetric estimates.
 ** Reading
    :PROPERTIES:
