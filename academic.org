@@ -1203,7 +1203,7 @@ Light should follow geodesics corresponding to parallel translation by Levi-Civi
      :ID:       f24eac33-3c1c-44db-86c8-519e8dfb4462
      :END:
 [[id:5f6cca3e-2994-46c1-9295-5842a16b4a6c][Blackboard]]
-
+[[id:835dcea2-cc5f-48ee-ba1c-6a20a01143cb][Blackboard]]
 *** Support function and $K+1$ flow on $\HH^3$
 - $\HH^3$ is a Lie-group, but the metric is not left invariant. Do I still have a global Killing field, with respect to which I can define a support function? I guess $\HH^3$ has trivial tangent bundle so this is a good start! A canditate for the Killing field is something like $\sinh(d) d$.
 - See Alancar and Frensel: MR1173029 for a canditate vector field.
