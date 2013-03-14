@@ -445,6 +445,7 @@ Center 119
        SCHEDULED: <2013-02-25 Mon>
        DEADLINE: <2013-03-15 Fri>
        :LOGBOOK:
+       CLOCK: [2013-03-14 Thu 11:51]
        CLOCK: [2013-03-10 Sun 15:04]--[2013-03-10 Sun 15:49] =>  0:45
        :END:
        :PROPERTIES:
