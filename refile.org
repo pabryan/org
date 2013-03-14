@@ -45,8 +45,10 @@ No! Maybe I can use reftex and get it to take me to the entry in refs.org? I can
 
 Habit should just be exercise, possibly also morning mobility, evening decompression
 Exercise is daily, the other two can be 1-2 days each.
-* TODO Set up a capture task for research ideas
+* NEXT Set up a capture task for research ideas
   :LOGBOOK:
+  CLOCK: [2013-03-14 Thu 14:05]
+  CLOCK: [2013-03-14 Thu 14:03]--[2013-03-14 Thu 14:05] =>  0:02
   CLOCK: [2013-03-12 Tue 10:06]--[2013-03-12 Tue 10:07] =>  0:01
   :END:
   :PROPERTIES:
@@ -58,3 +60,7 @@ This will have a timestamp - maybe captured as a date tree? It will be
 filed in a research diary file. I'll need to tag my ideas and I'll
 publish this on the web so I can access it anywhere. I'll also want to
 be able to link to scans and blackboard photos.
+* TODO Put org-mobile code into one function
+  :LOGBOOK:
+  :END:
+[2013-03-14 Thu 14:05]
