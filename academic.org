@@ -1197,7 +1197,7 @@ Light should follow geodesics corresponding to parallel translation by Levi-Civi
 - How does this relate to Mao Pei's Bernstein type estimate? There they look at the angle of a graph, which is just the support function anyway!
 *** Support functions, Killing fields, Translation maps on manifolds
     :LOGBOOK:
-    CLOCK: [2013-03-14 Thu 14:19]
+    CLOCK: [2013-03-14 Thu 14:19]--[2013-03-14 Thu 15:04] =>  0:45
     CLOCK: [2013-03-14 Thu 12:34]--[2013-03-14 Thu 13:48] =>  1:14
     CLOCK: [2013-03-13 Wed 14:45]--[2013-03-13 Wed 14:52] =>  0:07
     CLOCK: [2013-03-13 Wed 13:52]--[2013-03-13 Wed 14:41] =>  0:49
@@ -1217,6 +1217,7 @@ Light should follow geodesics corresponding to parallel translation by Levi-Civi
      :END:
 [[id:5f6cca3e-2994-46c1-9295-5842a16b4a6c][Blackboard]]
 [[id:835dcea2-cc5f-48ee-ba1c-6a20a01143cb][Blackboard]]
+[[id:5c6c2fd6-dd42-45d2-a58b-daa6573ca8b5][Blackboard]]
 *** Support function and $K+1$ flow on $\HH^3$
 - $\HH^3$ is a Lie-group, but the metric is not left invariant. Do I still have a global Killing field, with respect to which I can define a support function? I guess $\HH^3$ has trivial tangent bundle so this is a good start! A canditate for the Killing field is something like $\sinh(d) d$.
 - See Alancar and Frensel: MR1173029 for a canditate vector field.
