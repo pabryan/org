@@ -309,6 +309,23 @@ It's missing stuff from work.
    :ID:       f7b55341-e8b8-46cd-a026-982f356173d7
    :END:
 [2013-02-05 Tue 13:22]
+** DONE Set up a capture task for research ideas
+  - State "DONE"       from "NEXT"       [2013-03-14 Thu 14:15]
+  :LOGBOOK:
+  CLOCK: [2013-03-14 Thu 14:08]--[2013-03-14 Thu 14:15] =>  0:07
+  CLOCK: [2013-03-14 Thu 14:05]--[2013-03-14 Thu 14:08] =>  0:03
+  CLOCK: [2013-03-14 Thu 14:03]--[2013-03-14 Thu 14:05] =>  0:02
+  CLOCK: [2013-03-12 Tue 10:06]--[2013-03-12 Tue 10:07] =>  0:01
+  :END:
+  :PROPERTIES:
+  :ID:       c26ec73e-639c-4b05-ac23-69a0a4f36f6c
+  :END:
+[2013-03-12 Tue 10:06]
+
+This will have a timestamp - maybe captured as a date tree? It will be
+filed in a research diary file. I'll need to tag my ideas and I'll
+publish this on the web so I can access it anywhere. I'll also want to
+be able to link to scans and blackboard photos.
 * process
   :PROPERTIES:
   :ID:       403ba6c9-9a32-430c-b0c9-0b09f2eba44e
@@ -992,6 +1009,7 @@ I need to have my macros available.
   :END:
 ** Organisation
   :LOGBOOK:
+  CLOCK: [2013-03-14 Thu 14:15]--[2013-03-14 Thu 14:18] =>  0:03
   CLOCK: [2013-03-14 Thu 14:02]--[2013-03-14 Thu 14:03] =>  0:01
   CLOCK: [2013-03-14 Thu 11:50]--[2013-03-14 Thu 11:51] =>  0:01
   CLOCK: [2013-03-14 Thu 09:30]--[2013-03-14 Thu 09:35] =>  0:05
