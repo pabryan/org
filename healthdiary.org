@@ -1866,7 +1866,7 @@
 
 **** Spiderman mobility/move and groove/thor/wolverine
      :LOGBOOK:
-     CLOCK: [2013-03-14 Thu 07:58]
+     CLOCK: [2013-03-14 Thu 07:58]--[2013-03-14 Thu 09:01] =>  1:03
      :END:
 :PROPERTIES:
 :Intensity: Mod
@@ -1874,9 +1874,9 @@
 :RestHR: 68
 :FinalHR:
 :Score:
-:Technique:
-:Effort:
-:Discomfort:
+:Technique:  8
+:Effort: 6
+:Discomfort: 2
 :END:
 
 [2013-03-14 Thu 07:58]
@@ -1884,8 +1884,8 @@
 Mobility HR: 72
 Set 1 HR:  100
 Set 2 HR: 100
-Set 3 HR:
-Set 4 HR:
+Set 3 HR: 108
+Set 4 HR: 104
 * conv code
   :PROPERTIES:
   :ID:       547e575e-820e-40c1-bd37-4714b4238af6
