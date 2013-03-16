@@ -444,11 +444,12 @@ Center 119
        :ID:       45ce5522-5bec-47f1-8e4f-8e821e842188
        :END:
 
-****** NEXT Write Final
+****** DONE Write Final
        SCHEDULED: <2013-02-25 Mon>
+       - State "DONE"       from "NEXT"       [2013-03-16 Sat 14:41]
        DEADLINE: <2013-03-15 Fri>
        :LOGBOOK:
-       CLOCK: [2013-03-16 Sat 13:05]
+       CLOCK: [2013-03-16 Sat 13:05]--[2013-03-16 Sat 14:41] =>  1:36
        CLOCK: [2013-03-14 Thu 11:51]--[2013-03-14 Thu 12:34] =>  0:43
        CLOCK: [2013-03-10 Sun 15:04]--[2013-03-10 Sun 15:49] =>  0:45
        :END:
