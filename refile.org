@@ -53,3 +53,8 @@ Exercise is daily, the other two can be 1-2 days each.
   :ID:       503b6139-d929-4ab7-a264-ff52b1c00420
   :END:
 [2013-03-14 Thu 14:05]
+* TODO Learn agenda views
+  :LOGBOOK:
+  :END:
+[2013-03-18 Mon 16:03]
+If I'm working on a project, I want an agenda view showing me just that project.
