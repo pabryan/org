@@ -54,10 +54,11 @@ Geisel Library room 274
   :CATEGORY: Journals
   :END:
 [[file:~/working/academic/journals][journals directory]]
-** DONE Review [[http://www.ams.org/mresubs/download/3559e451969b72ee8/2921651.pdf][paper]]
-   - State "DONE"       from "NEXT"       [2012-11-03 Sat 11:02]
-   locally it's here [[docview:~/research_resources/papers/MR2921651.pdf::1][MR2921651]]
-** DONE Review [[file:refs.org::#MR2948294][Weighted isoperimetric inequalities in cones and applications]]
+** Mathscinet
+*** DONE Review [[http://www.ams.org/mresubs/download/3559e451969b72ee8/2921651.pdf][paper]]
+    - State "DONE"       from "NEXT"       [2012-11-03 Sat 11:02]
+    locally it's here [[docview:~/research_resources/papers/MR2921651.pdf::1][MR2921651]]
+*** DONE Review [[file:refs.org::#MR2948294][Weighted isoperimetric inequalities in cones and applications]]
    SCHEDULED: <2012-12-06 Thu> DEADLINE: <2013-01-14 Mon>
    - State "DONE"       from "NEXT"       [2012-12-17 Mon 19:42]
 
@@ -73,7 +74,7 @@ Geisel Library room 274
    :END:
 [[file:~/working/academic/journals/review/MR2948294]]
 
-** DONE Review Generic MCF I
+*** DONE Review Generic MCF I
    SCHEDULED: <2013-02-04 Mon> DEADLINE: <2013-02-28 Thu>
    - State "DONE"       from "NEXT"       [2013-03-12 Tue 21:09]
    :LOGBOOK:
@@ -94,7 +95,13 @@ Geisel Library room 274
 [MR2993752 Colding, Tobias H.\ and Minicozzi, William P., II,  Generic mean curvature flow I: generic singularities, Ann. of Math. (2) 175 (2012), no. 2, 755--833]
 [[file:refs.org::#MR2993752][Generic mean curvature flow {I}: generic singularities]]
 
-** DONE Referee space curves CSF dist comp.
+** CEJM
+*** Edit CEJM-D-12-00160R1
+    DEADLINE: <2013-04-03 Wed>
+[[file:~/working/academic/journals/editing/cejm/CEJM-D-12-00160R1]]
+
+** Refereeing
+*** DONE Referee space curves CSF dist comp.
    DEADLINE: <2013-04-17 Wed> SCHEDULED: <2013-02-04 Mon>
    - State "DONE"       from "NEXT"       [2013-02-13 Wed 13:48]
    :LOGBOOK:
@@ -114,7 +121,7 @@ Geisel Library room 274
    :END:
 [[file:refs.org::#GEOM-D-13-00010][Distance comparison principle and Grayson type theorem in the three dimensional curve shortening flow]]
 
-*** Review
+**** Review
 Review Form
 
 Place an 'X' next to a statement.
@@ -144,7 +151,7 @@ The last two pages contain an interesting, rather simple result. That is, that s
 In any event, this latter result takes only 2 pages and is quite straightforward, again not publishable on it's own. However, personally I think this latter result has the most merit and could lead to some interesting research. I indicate a few quick thoughts in my comments for the author.
 
 
-*** Comments for the author
+**** Comments for the author
 The main theorems concerning $d/l$ improving at a minima are not particularly useful given they are essentially vaccuous. Theorem 2.2 for instance simply follows the same computation as Huisken's but in your case the required terms don't cancel, and by Cauchy-Schwartz are in fact negative when non-zero. Just stating that if they are positive then $d/l$ improves is not particularly useful, and I say is essentially vaccuous.
 
 If you could modify $Z=d/l$ by adding some terms to obtain something that does improve, then perhaps this could be useful Keep in  mind, that having some quantity $Z$ improving is in itself not interesting. It is what you can then do with this that is important, e.g. by proving the Gage-Hamilton-Grayson theorem. With this in mind, I don't think your approach will produce any useful results because in general we know $d/l$ will not improve (for example by losing embeddedness) and because singularities can arise. These situations must somehow be handled or ruled out of consideration. There are however, perhaps some interesting questions in this direction: 
