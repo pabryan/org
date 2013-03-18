@@ -1321,19 +1321,23 @@ This only needs to be from my small notebook and just what's necessary to be tra
 ** Notes
 Here I look at my goals, my tasks and how I've been spending my time and use that information to plan out the coming week/month/year etc.
 Maybe I should also have work and personal reviews, including reviewing my health scores.
+How do I ensure things are slipping through the cracks? How do I set goals and compare to how I did? i.e. I want to achieve "x" this month. Does that imply some scheduling? When I'm actually working, how do I work on a goal? How to I record my progress?
 
 *** Daily plan
-This should be quick. Just glance over the agenda and the weekly focus. I should set up the day in my notebook by writing the date on a fresh page. This will get me in the right frame of mind for the day and remind me to use the notebook.
+This should be quick. Just glance over the agenda and the weekly focus. I should set up the day in my notebook by writing the date on a fresh page. This will get me in the right frame of mind for the day and remind me to use the notebook. Check my goals too!
 
 *** Daily Review
-This should be quick also. Just check to make sure I haven't missed anything important. I should check my notebooks also and copy anything out of them into org system.
-
-*** Weekly review
-Collect everthing and sort (don't handle!). Put things in their place and set tasks as needed for dealing with things. e.g. transcribe from notebook. Compare with what I wanted to do and what I did do. Do I want to write a diary?
+This should be quick also. Just check to make sure I haven't missed anything important. I should check my notebooks also and copy anything out of them into org system. Jot down any notes I might want (need a capture task and a diary file).
 
 *** Weekly plan
 Set focus and goals for the week. This should come from monthly goals, and the previous weeks outstanding items. If I want to work on a project, I should set a focus tag and create an agenda view for my focus. Everything should appear in the agenda or it won't happen!
 
+*** Weekly review
+Collect everthing and sort (don't handle!). Put things in their place and set tasks as needed for dealing with things. e.g. transcribe from notebook. Compare with what I wanted to do and what I did do. Do I want to write a diary? I need to check stuck projects and be sure some next action is assigned.
+
+*** Montly plan
+Set some goals for the month. I should check someday projects for inclusion in the month's focus.
+*** Monthly Review
 
 ** NEXT Daily Review [0/3]
    SCHEDULED: <2013-03-13 Wed .+1d/2d>
@@ -1575,9 +1579,10 @@ What to review:
 
 ** Monthly Plan [0/1]
 - [ ] Set goals for the month
+- [ ] Review someday projects for possible inclusion
 
 ** Monthly Review [0/1]
-- [ ] 
+- [ ] Check if goals were achieved
 
 ** 6 monthly?
 ** yearly
