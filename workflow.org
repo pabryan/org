@@ -1011,12 +1011,16 @@ I need to have my macros available.
   :LOGBOOK:
   CLOCK: [2013-03-18 Mon 11:36]--[2013-03-18 Mon 11:41] =>  0:05
   CLOCK: [2013-03-18 Mon 10:50]--[2013-03-18 Mon 11:15] =>  0:25
+  CLOCK: [2013-03-15 Fri 10:30]--[2013-03-15 Fri 10:54] =>  0:24
   CLOCK: [2013-03-14 Thu 15:04]--[2013-03-14 Thu 15:05] =>  0:01
   CLOCK: [2013-03-14 Thu 14:15]--[2013-03-14 Thu 14:18] =>  0:03
   CLOCK: [2013-03-14 Thu 14:02]--[2013-03-14 Thu 14:03] =>  0:01
   CLOCK: [2013-03-14 Thu 11:50]--[2013-03-14 Thu 11:51] =>  0:01
   CLOCK: [2013-03-14 Thu 09:30]--[2013-03-14 Thu 09:35] =>  0:05
+  CLOCK: [2013-03-13 Wed 12:55]--[2013-03-13 Wed 13:22] =>  0:27
   CLOCK: [2013-03-12 Tue 12:36]--[2013-03-12 Tue 12:46] =>  0:10
+  CLOCK: [2013-03-12 Tue 11:34]--[2013-03-12 Tue 12:08] =>  0:34
+  CLOCK: [2013-03-12 Tue 10:48]--[2013-03-12 Tue 11:26] =>  0:38
   CLOCK: [2013-03-12 Tue 09:57]--[2013-03-12 Tue 09:59] =>  0:02
   CLOCK: [2013-03-12 Tue 09:32]--[2013-03-12 Tue 09:35] =>  0:03
   CLOCK: [2013-03-12 Tue 08:40]--[2013-03-12 Tue 08:45] =>  0:05
@@ -1425,7 +1429,7 @@ Set tasks in [[file:plans/today.org]].
 
 Set tasks and focus in [[file:~/org/week.org]].
 
-** NEXT Weekly Review [3/12]
+** NEXT Weekly Review [5/12]
    SCHEDULED: <2013-03-04 Mon .+7d/10d>
    - State "DONE"       from "NEXT"       [2013-02-25 Mon 10:23]
    - State "DONE"       from "NEXT"       [2013-02-15 Fri 21:07]
@@ -1473,8 +1477,8 @@ What to review:
 - [X] Check holding directory
   [[file:~/holding]]
 - [X] Check holding email folder
-- [ ] Review weekly agenda =F12 a w//=
-- [ ] Check clocking data for past week =v c=
+- [X] Review weekly agenda =F12 a w//=
+- [X] Check clocking data for past week =v c=
   - fix up any errors
 - [ ] Review clock report for past week =R=
   - Check where we spent time (too much or too little) and rectify this week
