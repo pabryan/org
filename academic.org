@@ -1204,6 +1204,7 @@ Light should follow geodesics corresponding to parallel translation by Levi-Civi
 - How does this relate to Mao Pei's Bernstein type estimate? There they look at the angle of a graph, which is just the support function anyway!
 *** Support functions, Killing fields, Translation maps on manifolds
     :LOGBOOK:
+    CLOCK: [2013-03-18 Mon 11:41]
     CLOCK: [2013-03-14 Thu 14:19]--[2013-03-14 Thu 15:04] =>  0:45
     CLOCK: [2013-03-14 Thu 12:34]--[2013-03-14 Thu 13:48] =>  1:14
     CLOCK: [2013-03-13 Wed 14:45]--[2013-03-13 Wed 14:52] =>  0:07
