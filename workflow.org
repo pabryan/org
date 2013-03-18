@@ -1291,6 +1291,29 @@ I need to have my macros available.
   :ID:       d1b2e733-536a-4601-93c1-b3a544f11c16
   :END:
    
+** NEXT Transcribe notes
+   SCHEDULED: <2013-02-13 Wed .+1w/10d>
+   - State "DONE"       from "NEXT"       [2013-02-06 Wed 20:01]
+   - State "DONE"       from "NEXT"       [2012-12-24 Mon 16:25]
+   - State "DONE"       from "NEXT"       [2012-12-05 Wed 19:55]
+    :LOGBOOK:
+  CLOCK: [2013-02-06 Wed 19:45]--[2013-02-06 Wed 20:01] =>  0:16
+  CLOCK: [2013-02-06 Wed 19:41]--[2013-02-06 Wed 19:44] =>  0:03
+  CLOCK: [2013-02-06 Wed 19:39]--[2013-02-06 Wed 19:40] =>  0:01
+  CLOCK: [2013-01-08 Tue 14:16]--[2013-01-08 Tue 15:07] =>  0:51
+    CLOCK: [2012-12-24 Mon 15:51]--[2012-12-24 Mon 16:25] =>  0:34
+    CLOCK: [2012-12-05 Wed 18:48]--[2012-12-05 Wed 18:50] =>  0:02
+    CLOCK: [2012-12-05 Wed 17:50]--[2012-12-05 Wed 18:36] =>  0:46
+    :END:
+:PROPERTIES:
+:STYLE: habit
+:REPEAT_TO_STATE: NEXT
+:ID: 3908a11d-fd52-4335-9257-656bf9bd4692
+:LAST_REPEAT: [2013-02-06 Wed 20:01]
+:END:
+
+This only needs to be from my small notebook and just what's necessary to be transcribed into the computer such as tasks, ideas etc.
+
 * Reviews and Plans
   :PROPERTIES:
   :ID:       c3fc0372-36c9-4bc4-9aac-99a6df0b741d
@@ -1300,13 +1323,13 @@ Here I look at my goals, my tasks and how I've been spending my time and use tha
 Maybe I should also have work and personal reviews, including reviewing my health scores.
 
 *** Daily plan
-This should be quick. Just glance over the agenda and the weekly focus.
+This should be quick. Just glance over the agenda and the weekly focus. I should set up the day in my notebook by writing the date on a fresh page. This will get me in the right frame of mind for the day and remind me to use the notebook.
 
 *** Daily Review
-This should be quick also. Just check to make sure I haven't missed anything important.
+This should be quick also. Just check to make sure I haven't missed anything important. I should check my notebooks also and copy anything out of them into org system.
 
 *** Weekly review
-Collect everthing and sort (don't handle!). Put things in their place and set tasks as needed for dealing with things. e.g. transcribe from notebook. Compare with what I wanted to do and what I did do.
+Collect everthing and sort (don't handle!). Put things in their place and set tasks as needed for dealing with things. e.g. transcribe from notebook. Compare with what I wanted to do and what I did do. Do I want to write a diary?
 
 *** Weekly plan
 Set focus and goals for the week. This should come from monthly goals, and the previous weeks outstanding items. If I want to work on a project, I should set a focus tag and create an agenda view for my focus. Everything should appear in the agenda or it won't happen!
@@ -1349,7 +1372,9 @@ Set focus and goals for the week. This should come from monthly goals, and the p
 
 What to review:
 
-- [ ] Review tasks list for the day and compare with clock table, effort estimates
+- [ ] Review tasks list for the day and compare with clock table, effort estimates.
+- [ ] Anything outstanding?
+- [ ] Copy from notebook
 
 When I set up scoring the day:
 
@@ -1359,7 +1384,7 @@ For the following, do I just use the existing diary.org capture template or perh
 
 - [ ] Write down any thoughts, relections on the day.
 
-** NEXT Daily Plan
+** NEXT Daily Plan [0/2]
    SCHEDULED: <2013-03-17 Sun .+1d/2d>
    - State "DONE"       from "NEXT"       [2013-03-16 Sat 13:08]
    - State "DONE"       from "NEXT"       [2013-03-12 Tue 21:32]
@@ -1421,7 +1446,9 @@ For the following, do I just use the existing diary.org capture template or perh
    :LAST_REPEAT: [2013-03-16 Sat 13:08]
    :END:
 
-Set tasks in [[file:plans/today.org]].
+- [ ] Check agenda/focus
+- [ ] Write date into notebook
+
 
 ** NEXT Weekly Plan
    SCHEDULED: <2013-03-04 Mon .+7d/10d>
@@ -1442,7 +1469,8 @@ Set tasks in [[file:plans/today.org]].
    :LAST_REPEAT: [2013-02-25 Mon 20:14]
    :END:
 
-Set tasks and focus in [[file:~/org/week.org]].
+- [ ] Set focus for the week
+- [ ] Schedule tasks
 
 ** NEXT Weekly Review [9/12]
    SCHEDULED: <2013-03-04 Mon .+7d/10d>
@@ -1502,25 +1530,24 @@ What to review:
 - [X] Review projects =F12 SPC //= and =P= repeatedly to view each project
   - Unstick stuck projects!
 - [X] Review somday projects
-- [ ] Plan next week
 - [ ] Check uncommited work
 - [ ] Refile tasks
+- [ ] [[id:d5f309c0-dee9-4f12-af59-e9273ebd6ddf][Weekly collection and clean up {0/4}]]
 
 - start work
   - daily agenda first - knock off items
   - then work on NEXT tasks
 
 ** NEXT Weekly collection and clean up [0/4]
-   SCHEDULED: <2013-03-04 Mon .+7d/10d>
    - State "DONE"       from "NEXT"       [2013-02-25 Mon 10:11]
    - State "DONE"       from "NEXT"       [2013-02-13 Wed 13:53]
    - State "DONE"       from "NEXT"       [2013-02-05 Tue 13:15]
    - State "DONE"       from "NEXT"       [2013-01-08 Tue 07:57]
-    - State "DONE"       from "NEXT"       [2012-12-24 Mon 15:50]
-    - State "DONE"       from "NEXT"       [2012-12-17 Mon 19:53]
-    - State "DONE"       from "NEXT"       [2012-12-10 Mon 20:27]
-    - State "DONE"       from "NEXT"       [2012-11-30 Fri 14:58]
-    :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2012-12-24 Mon 15:50]
+   - State "DONE"       from "NEXT"       [2012-12-17 Mon 19:53]
+   - State "DONE"       from "NEXT"       [2012-12-10 Mon 20:27]
+   - State "DONE"       from "NEXT"       [2012-11-30 Fri 14:58]
+   :LOGBOOK:
   CLOCK: [2013-02-25 Mon 10:09]--[2013-02-25 Mon 10:11] =>  0:02
   CLOCK: [2013-02-13 Wed 13:50]--[2013-02-13 Wed 13:53] =>  0:03
   CLOCK: [2013-02-13 Wed 13:48]--[2013-02-13 Wed 13:49] =>  0:01
@@ -1546,9 +1573,12 @@ What to review:
 - [ ] Clean up phone
 
 
-Maybe write journal of the week at some stage?
+** Monthly Plan [0/1]
+- [ ] Set goals for the month
 
-** Monthly
+** Monthly Review [0/1]
+- [ ] 
+
 ** 6 monthly?
 ** yearly
 ** 5 years?
