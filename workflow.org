@@ -326,6 +326,11 @@ This will have a timestamp - maybe captured as a date tree? It will be
 filed in a research diary file. I'll need to tag my ideas and I'll
 publish this on the web so I can access it anywhere. I'll also want to
 be able to link to scans and blackboard photos.
+** NEXT Set up FOCUS agenda block
+  :LOGBOOK:
+  CLOCK: [2013-03-19 Tue 11:38]
+  :END:
+[2013-03-19 Tue 11:37]
 * process
   :PROPERTIES:
   :ID:       403ba6c9-9a32-430c-b0c9-0b09f2eba44e
@@ -1009,6 +1014,8 @@ I need to have my macros available.
   :END:
 ** Organisation
   :LOGBOOK:
+  CLOCK: [2013-03-19 Tue 11:37]--[2013-03-19 Tue 11:38] =>  0:01
+  CLOCK: [2013-03-19 Tue 11:34]--[2013-03-19 Tue 11:37] =>  0:03
   CLOCK: [2013-03-19 Tue 11:22]--[2013-03-19 Tue 11:29] =>  0:07
   CLOCK: [2013-03-18 Mon 16:03]--[2013-03-18 Mon 16:07] =>  0:04
   CLOCK: [2013-03-18 Mon 15:07]--[2013-03-18 Mon 16:03] =>  0:56
@@ -1460,7 +1467,7 @@ For the following, do I just use the existing diary.org capture template or perh
 - [ ] Write date into notebook
 
 
-** NEXT Weekly Plan
+** NEXT Weekly Plan [0/2]
    SCHEDULED: <2013-03-04 Mon .+7d/10d>
    - State "DONE"       from "NEXT"       [2013-02-25 Mon 20:14]
    - State "DONE"       from "NEXT"       [2013-02-15 Fri 21:08]
@@ -1486,7 +1493,7 @@ I probably don't need this!
 
 
 ** NEXT Weekly Review [9/12]
-   SCHEDULED: <2013-03-04 Mon .+7d/10d>
+   SCHEDULED: <2013-03-04 Mon +1w>
    - State "DONE"       from "NEXT"       [2013-02-25 Mon 10:23]
    - State "DONE"       from "NEXT"       [2013-02-15 Fri 21:07]
    - State "DONE"       from "NEXT"       [2013-02-13 Wed 14:26]
@@ -1586,20 +1593,22 @@ What to review:
 - [ ] Clean up phone
 
 
-** NEXT Monthly Plan/Review [1/2]
-   SCHEDULED: <2013-03-01 Fri +1m>
+** NEXT Monthly Plan/Review [0/2]
+   SCHEDULED: <2013-04-01 Mon +1m>
+   - State "DONE"       from "NEXT"       [2013-03-19 Tue 11:34]
    :LOGBOOK:
-   CLOCK: [2013-03-19 Tue 11:29]
+   CLOCK: [2013-03-19 Tue 11:29]--[2013-03-19 Tue 11:34] =>  0:05
    :END:
    :PROPERTIES:
    :STYLE:    habit
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
+   :LAST_REPEAT: [2013-03-19 Tue 11:34]
    :END:
 
 - [ ] Set goals/focus for the month
   - tag projects FOCUS
-- [X] Review someday projects for possible inclusion
+- [ ] Review someday projects for possible inclusion
 
 
 ** 6 monthly?
