@@ -867,7 +867,7 @@ In particular, put more detail in.
       :PROPERTIES:
       :ID:       91473ce5-db9d-4368-a988-0f8de97343a0
       :END:
-****** Collect references
+****** NEXT Collect references
        :LOGBOOK:
        CLOCK: [2013-03-01 Fri 15:29]--[2013-03-01 Fri 15:37] =>  0:08
        :END:
@@ -887,7 +887,9 @@ In particular, put more detail in.
        :PROPERTIES:
        :ID:       d53199b6-0467-4a24-95d9-18e3d6d37e54
        :END:
-***** TODO Get my honour's thesis work into a useable format
+
+****** TODO Check Mao-Pei's use of ln 
+***** NEXT Get my honour's thesis work into a useable format
       :PROPERTIES:
       :ID:       810fd351-5f88-415f-9977-906fa1e39681
       :END:
@@ -1323,6 +1325,9 @@ Some money available through colloquia funds?
    <2013-02-23 Sat 08:30>--<2013-02-24 Sun 14:30>
 
 ** TODO PNGS 2013 						      :FOCUS:
+   :LOGBOOK:
+   CLOCK: [2013-03-19 Tue 13:49]--[2013-03-19 Tue 13:54] =>  0:05
+   :END:
 <2013-05-11 Sat>--<2013-05-12 Sun>
 [[http://www.math.washington.edu/~lee/PNGS/]]
 *** NEXT Plan PNGS talk
@@ -1331,6 +1336,10 @@ Some money available through colloquia funds?
     :ID:       ae9f534c-7445-42d4-a56e-a4dcf52119b6
     :END:
 *** NEXT Ask Lei/FRdesk about someone covering lectures
+*** Talk
+$Z$ is some quantity like distance, non-collapsing, whatever. $\bar{Z}$ is the extrema over some range; for non-collaping $Z=Z(x,y)$, $\bar{Z}(x)=\sup_y Z(x,y)$. For $Z=d$, $\bar{Z}$ is the sup over $x$ and $y$. These will be over non-compact $M\times M - D$ with $D$ the diagonal. More generally, $Z$ may only be defined away from the cut locus. 
+
+At the extrema, because of the vanishing of the first variation, the laplacian of $\bar{Z}$ turns into something like $\pd{x_i} \pm \pd{y_i}$. So a viscosity equation for $\laplace \bar{Z}$ relates to this other operator on $Z$. It might be worthwhile comparing the Hessians of $\bar{Z}$ and $Z$. The other important ingredient here is blowing up the diagonal to get a compact manifold. 
 ** TODO Encounters in Geometry
 Cabo Frio, a beautiful beach city near Rio De Janeiro, from June 3 to June 7, 2013.
 [[http://www.impa.br/opencms/pt/eventos/store/evento_1302]]

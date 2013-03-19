@@ -342,7 +342,8 @@ Center 119
      CLOCK: [2013-01-24 Thu 10:53]--[2013-01-24 Thu 11:01] =>  0:08
      CLOCK: [2013-01-17 Thu 11:05]--[2013-01-17 Thu 12:15] =>  1:10
      :END:
-**** TODO Plan MATH142B course
+**** DONE Plan MATH142B course
+     - State "DONE"       from "TODO"       [2013-03-19 Tue 13:56]
      :LOGBOOK:
      CLOCK: [2013-01-02 Wed 10:38]--[2013-01-02 Wed 10:39] =>  0:01
      :END:
@@ -375,7 +376,8 @@ Center 119
       :ID:       e2b60bcc-754d-45d4-8f67-d7d4f99353e8
       :END:
 
-***** TODO Exams
+***** DONE Exams
+      - State "DONE"       from "TODO"       [2013-03-19 Tue 13:56]
       :LOGBOOK:
       CLOCK: [2013-02-22 Fri 07:59]--[2013-02-22 Fri 08:00] =>  0:01
       :END:
@@ -650,7 +652,8 @@ Center 119
        :ID:       166cc4aa-620c-4523-b699-ca2ced33207a
        :END:
 
-***** TODO Plan Lectures
+***** DONE Plan Lectures
+      - State "DONE"       from "TODO"       [2013-03-19 Tue 13:56]
       :LOGBOOK:
       CLOCK: [2013-02-15 Fri 13:18]--[2013-02-15 Fri 13:19] =>  0:01
       :END:
