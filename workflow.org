@@ -326,7 +326,8 @@ This will have a timestamp - maybe captured as a date tree? It will be
 filed in a research diary file. I'll need to tag my ideas and I'll
 publish this on the web so I can access it anywhere. I'll also want to
 be able to link to scans and blackboard photos.
-** NEXT Set up FOCUS agenda block
+** DONE Set up FOCUS agenda block
+   - State "DONE"       from "NEXT"       [2013-03-19 Tue 13:36]
   :LOGBOOK:
   CLOCK: [2013-03-19 Tue 11:38]--[2013-03-19 Tue 11:41] =>  0:03
   :END:
@@ -794,6 +795,16 @@ Also could have dry snacks, tinned stuff like sardines and so on.
    :END:
 [2013-01-03 Thu 13:31]
 
+** WAITING Get key for filing cabinet
+   - State "WAITING"    from "NEXT"       [2013-03-19 Tue 13:31] \\
+     Sent Maureen an email requesting keys
+  :LOGBOOK:
+  CLOCK: [2013-03-19 Tue 13:30]--[2013-03-19 Tue 13:33] =>  0:03
+  :END:
+[2013-03-19 Tue 13:29]
+
+Key numbers: FR428, FR382.
+
 * Computer setup
   :PROPERTIES:
   :ID:       2caac482-7221-4934-a479-25d3cbb12d55
@@ -1045,7 +1056,8 @@ I need to have my macros available.
   :END:
 ** Organisation
   :LOGBOOK:
-  CLOCK: [2013-03-19 Tue 13:29]
+  CLOCK: [2013-03-19 Tue 13:33]
+  CLOCK: [2013-03-19 Tue 13:29]--[2013-03-19 Tue 13:30] =>  0:01
   CLOCK: [2013-03-19 Tue 11:49]--[2013-03-19 Tue 12:02] =>  0:13
   CLOCK: [2013-03-19 Tue 11:37]--[2013-03-19 Tue 11:38] =>  0:01
   CLOCK: [2013-03-19 Tue 11:34]--[2013-03-19 Tue 11:37] =>  0:03
@@ -1627,7 +1639,7 @@ What to review:
 - [ ] Clean up phone
 
 
-** NEXT Monthly Plan/Review [0/2]
+** NEXT Monthly Plan/Review [0/3]
    SCHEDULED: <2013-04-01 Mon +1m>
    - State "DONE"       from "NEXT"       [2013-03-19 Tue 11:34]
    :LOGBOOK:
@@ -1643,6 +1655,7 @@ What to review:
 - [ ] Set goals/focus for the month
   - tag projects FOCUS
 - [ ] Review someday projects for possible inclusion
+- [ ] Review workflow related tasks for possible inclusion
 
 
 ** 6 monthly?
