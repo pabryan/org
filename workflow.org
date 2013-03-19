@@ -1009,6 +1009,7 @@ I need to have my macros available.
   :END:
 ** Organisation
   :LOGBOOK:
+  CLOCK: [2013-03-19 Tue 11:22]--[2013-03-19 Tue 11:29] =>  0:07
   CLOCK: [2013-03-18 Mon 16:03]--[2013-03-18 Mon 16:07] =>  0:04
   CLOCK: [2013-03-18 Mon 15:07]--[2013-03-18 Mon 16:03] =>  0:56
   CLOCK: [2013-03-18 Mon 11:36]--[2013-03-18 Mon 11:41] =>  0:05
@@ -1481,6 +1482,9 @@ For the following, do I just use the existing diary.org capture template or perh
 - [ ] Set focus for the week
 - [ ] Schedule tasks
 
+I probably don't need this!
+
+
 ** NEXT Weekly Review [9/12]
    SCHEDULED: <2013-03-04 Mon .+7d/10d>
    - State "DONE"       from "NEXT"       [2013-02-25 Mon 10:23]
@@ -1582,12 +1586,21 @@ What to review:
 - [ ] Clean up phone
 
 
-** Monthly Plan [0/1]
-- [ ] Set goals for the month
-- [ ] Review someday projects for possible inclusion
+** NEXT Monthly Plan/Review [1/2]
+   SCHEDULED: <2013-03-01 Fri +1m>
+   :LOGBOOK:
+   CLOCK: [2013-03-19 Tue 11:29]
+   :END:
+   :PROPERTIES:
+   :STYLE:    habit
+   :REPEAT_TO_STATE: NEXT
+   :RESET_CHECK_BOXES: t
+   :END:
 
-** Monthly Review [0/1]
-- [ ] Check if goals were achieved
+- [ ] Set goals/focus for the month
+  - tag projects FOCUS
+- [X] Review someday projects for possible inclusion
+
 
 ** 6 monthly?
 ** yearly

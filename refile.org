@@ -58,3 +58,9 @@ Exercise is daily, the other two can be 1-2 days each.
   :END:
 [2013-03-18 Mon 16:03]
 If I'm working on a project, I want an agenda view showing me just that project.
+* TODO Sort out reading list
+  :LOGBOOK:
+  CLOCK: [2013-03-19 Tue 11:20]--[2013-03-19 Tue 11:22] =>  0:02
+  :END:
+[2013-03-19 Tue 11:20]
+This should be a place where I put links to articles, books, emails etc. They can be tagged of course. Should I also have a paper folder for things like journals, magazines etc.? The archive is of course something else that should go here. It might be nice to link this with newsreader capabilities too.
