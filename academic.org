@@ -1252,7 +1252,8 @@ Look at $2$-dim (closed?) submanifolds and apply isoperimetric
 estimates.
 *** Non-collapsing
     :LOGBOOK:
-    CLOCK: [2013-03-19 Tue 15:03]
+    CLOCK: [2013-03-19 Tue 16:31]
+    CLOCK: [2013-03-19 Tue 15:03]--[2013-03-19 Tue 16:31] =>  1:28
     CLOCK: [2013-03-19 Tue 13:56]--[2013-03-19 Tue 14:39] =>  0:43
     CLOCK: [2013-03-19 Tue 12:05]--[2013-03-19 Tue 12:23] =>  0:18
     CLOCK: [2013-03-18 Mon 12:55]--[2013-03-18 Mon 13:39] =>  0:44
@@ -1261,6 +1262,8 @@ estimates.
     CLOCK: [2013-03-15 Fri 09:05]--[2013-03-15 Fri 09:35] =>  0:30
     CLOCK: [2013-03-13 Wed 15:15]--[2013-03-13 Wed 15:48] =>  0:33    
     :END:
+**** Scanned Notes
+[[id:fd1155e2-d052-4cfb-873d-e577c50321da][Blackboard]]
 
 ** Reading
    :PROPERTIES:
