@@ -5,43 +5,66 @@
   :PROPERTIES:
   :ID:       c68e08d3-cbfa-4207-a6e5-f56a3be57ad1
   :END:
-** NEXT Punch In/Out
+** Tasks
+*** NEXT Sort org-mode tasks list
+  :LOGBOOK:
+  :END:
+[2013-03-19 Tue 13:37]
+Go through the list and categorise what's there.
+*** TODO Filing System
+
+**** TODO Create filing system
+  :LOGBOOK:
+  CLOCK: [2013-03-19 Tue 13:40]--[2013-03-19 Tue 13:43] =>  0:03
+  :END:
+[2013-03-19 Tue 13:40]
+- Filing should be replicated through the org files/file system/email and paper based filing. 
+- I'll need an index to my materials. It may be best to use seperate org files for planning work and for filing work. Of course either can reference the other. - My paper files will by stored by index key which I'll periodically print so I have a paper copy for ease of access.
+
+*** NEXT Get projects in order
+  :LOGBOOK:
+  :END:
+[2013-03-19 Tue 13:46]
+** Task list to sort
+**** TODO Set up TAGS
+I really need these to access my information.
+**** NEXT Punch In/Out
    :PROPERTIES:
    :ID:       e40f5241-3a84-496d-97f5-43fa7f5e2cd9
    :END:
 This should sync with bitbucket, sync with mobile org and check the status of working projects.
-** NEXT Set up level 1 headings (with properties)		   :COMPUTER:
-   :PROPERTIES:
-   :ID:       5196f0ca-ccb1-4fcc-b483-20f3f835838d
-   :END:
-** TODO Set up contexts						   :COMPUTER:
-   :PROPERTIES:
-   :ID:       b44f91a4-abd0-459c-bfe9-c103641be8dd
-   :END:
-*** NEXT Create contexts
+**** NEXT Set up level 1 headings (with properties)		   :COMPUTER:
+     :PROPERTIES:
+     :ID:       5196f0ca-ccb1-4fcc-b483-20f3f835838d
+     :END:
+**** TODO Set up contexts					   :COMPUTER:
+     :PROPERTIES:
+     :ID:       b44f91a4-abd0-459c-bfe9-c103641be8dd
+     :END:
+***** NEXT Create contexts
     :PROPERTIES:
     :ID:       40f05fb2-aa64-4d0b-a747-3c4b66d2ec93
     :END:
 home, computer, office, anywhere, notebook, tablet, phone, errand
-*** SOMEDAY Set up context tags for headings when appropriate
+***** SOMEDAY Set up context tags for headings when appropriate
     :PROPERTIES:
     :ID:       9e0b76ca-c5e7-4bd5-bcb4-12f4995eceed
     :END:
 e.g. for personal errands I have an errands heading which should have
 the errand tag attached to it and hence any child
-** DONE Setup mercurial sync and fetch				   :COMPUTER:
+**** DONE Setup mercurial sync and fetch			   :COMPUTER:
    - State "DONE"       from "TODO"       [2012-11-30 Fri 13:43]
   CLOCK: [2012-10-18 Thu 10:59]--[2012-10-18 Thu 10:59] =>  0:00
    :PROPERTIES:
    :ID:       70331fca-6e60-44e7-9069-19e2808a45f5
    :END:
 [2012-10-18 Thu 10:59]
-*** DONE research mercurial sync
-    - State "DONE"       from "SOMEDAY"    [2012-11-30 Fri 13:43]
-    :PROPERTIES:
-    :ID:       8f7d4e32-982c-4f0a-9cd0-d267c269b172
-    :END:
-** NEXT Get agenda filtering elisp functions into my org setup	   :COMPUTER:
+***** DONE research mercurial sync
+      - State "DONE"       from "SOMEDAY"    [2012-11-30 Fri 13:43]
+      :PROPERTIES:
+      :ID:       8f7d4e32-982c-4f0a-9cd0-d267c269b172
+      :END:
+**** NEXT Get agenda filtering elisp functions into my org setup   :COMPUTER:
 See [[http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=9&cad=rja&ved=0CEkQFjAI&url=http%3A%2F%2Fdoc.norang.ca%2Forg-mode.html&ei=VmGAUOnkOaTliQLw0ICICQ&usg=AFQjCNHQ1HdTsHALFTFCzKA3VWXmqPg2qA][org-mode tutorial]]
 scheduled todos should not appear in the general list
   CLOCK: [2012-10-18 Thu 13:04]--[2012-10-18 Thu 13:07] =>  0:03
@@ -50,7 +73,7 @@ scheduled todos should not appear in the general list
    :END:
 [2012-10-18 Thu 13:04]
 
-** DONE Set up clocking						   :COMPUTER:
+**** DONE Set up clocking					   :COMPUTER:
    - State "DONE"       from "NEXT"       [2012-12-07 Fri 10:45]
   CLOCK: [2012-10-18 Thu 13:07]--[2012-10-18 Thu 13:08] =>  0:01
    :PROPERTIES:
@@ -58,7 +81,7 @@ scheduled todos should not appear in the general list
    :END:
   [2012-10-18 Thu 13:07]
 See [[http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=9&cad=rja&ved=0CEkQFjAI&url=http%3A%2F%2Fdoc.norang.ca%2Forg-mode.html&ei=VmGAUOnkOaTliQLw0ICICQ&usg=AFQjCNHQ1HdTsHALFTFCzKA3VWXmqPg2qA][org-mode tutorial]]
-** DONE Set up syncing org-mode and mobile org
+**** DONE Set up syncing org-mode and mobile org
    - State "DONE"       from "NEXT"       [2012-12-07 Fri 10:45]
   CLOCK: [2012-10-21 Sun 17:26]--[2012-10-21 Sun 17:26] =>  0:00
    :PROPERTIES:
@@ -66,7 +89,7 @@ See [[http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=9&cad=rja&ved
    :END:
 [2012-10-21 Sun 17:26]
 [[https://github.com/matburt/mobileorg-android/wiki/FAQ][syncing instructions]]
-** DONE Configure tasks for later				   :COMPUTER:
+**** DONE Configure tasks for later				   :COMPUTER:
    - State "DONE"       from "TODO"       [2012-10-26 Fri 15:18]
 I want to be able to schedule a task for later, say after a given date
 such as the 1st of the month when I get paid and not have to see it until then.
@@ -74,50 +97,50 @@ The down side is that if I filter scheduled tasks then after the day these
 won't appear in general tasks but as scheduled tasks. I need some way to
 mark them as hidden until later, whereupon they will appear in the general
 list and not the scheduled list.
-*** CANCELLED Create procedure for later scheduling of tasks 
+***** CANCELLED Create procedure for later scheduling of tasks 
     - State "CANCELLED"  from "NEXT"       [2012-10-26 Fri 15:17] \\
       I can just use schedule to schedule it later and it's probably a good thing
       to reminded daily that the task needs to be done.
 Should be able to just schedule it for a given day and then org-mode
 will keep reminding me until it's done.
-*** DONE Research how to make a tickler file for org-mode
-    - State "DONE"       from "TODO"       [2012-10-26 Fri 15:16]
-** TODO Set up org-mode calendar				   :COMPUTER:
-   :PROPERTIES:
-   :ID:       41700872-750b-4b16-9f38-069e8041bb2b
-   :END:
-*** CANCELLED Put calendar data into org-mode
-    - State "CANCELLED"  from "SOMEDAY"       [2012-11-30 Fri 13:44] \\
-      This is just using org-mode with timestamps!
-    :PROPERTIES:
-    :ID:       c69116a8-6655-4429-bbac-73a314ef2967
-    :END:
-*** NEXT sync with google calendar
-    :PROPERTIES:
-    :ID:       f1a7f408-27b3-44ab-b0f2-73ec079976df
-    :END:
-*** DONE Research org-mode agenda views and how to use it productively
-    - State "DONE"       from "TODO"       [2012-11-30 Fri 13:44]
-    :PROPERTIES:
-    :ID:       358d2a2c-f8ac-485d-946e-c5e89097e1e9
-    :END:
-**** DONE Learn how to filter org-mode agenda views
+***** DONE Research how to make a tickler file for org-mode
+      - State "DONE"       from "TODO"       [2012-10-26 Fri 15:16]
+**** TODO Set up org-mode calendar				   :COMPUTER:
+     :PROPERTIES:
+     :ID:       41700872-750b-4b16-9f38-069e8041bb2b
+     :END:
+***** CANCELLED Put calendar data into org-mode
+      - State "CANCELLED"  from "SOMEDAY"       [2012-11-30 Fri 13:44] \\
+       	This is just using org-mode with timestamps!
+      :PROPERTIES:
+      :ID:       c69116a8-6655-4429-bbac-73a314ef2967
+      :END:
+***** NEXT sync with google calendar
+      :PROPERTIES:
+      :ID:       f1a7f408-27b3-44ab-b0f2-73ec079976df
+      :END:
+***** DONE Research org-mode agenda views and how to use it productively
+      - State "DONE"       from "TODO"       [2012-11-30 Fri 13:44]
+      :PROPERTIES:
+      :ID:       358d2a2c-f8ac-485d-946e-c5e89097e1e9
+      :END:
+****** DONE Learn how to filter org-mode agenda views
      - State "DONE"       from "NEXT"       [2012-11-15 Thu 11:46]
 I want to filter out personal tasks at work for example or show only ucsd and academic tasks
-** TODO Filter out someday tasks
-    :PROPERTIES:
-    :ID:       907b0751-6098-4034-8dc0-0b3c3b75a268
-    :END:
-*** NEXT Find out how org-mode traverses trees in agenda search
-    :PROPERTIES:
-    :ID:       b8efe527-39dc-4dd0-9ec7-8fdb61f20934
-    :END: 
-** DONE Create someday todo for inactive tasks
+**** TODO Filter out someday tasks
+      :PROPERTIES:
+      :ID:       907b0751-6098-4034-8dc0-0b3c3b75a268
+      :END:
+***** NEXT Find out how org-mode traverses trees in agenda search
+      :PROPERTIES:
+      :ID:       b8efe527-39dc-4dd0-9ec7-8fdb61f20934
+      :END: 
+**** DONE Create someday todo for inactive tasks
    - State "DONE"       from "TODO"       [2012-10-29 Mon 10:40]
   CLOCK: [2012-10-26 Fri 15:06]--[2012-10-26 Fri 15:07] =>  0:01
 [2012-10-26 Fri 15:06]
 
-** TODO Make refs and working structure to reflect org structure
+**** TODO Make refs and working structure to reflect org structure
 Also create any projects and put the under vc
   CLOCK: [2012-11-03 Sat 11:28]--[2012-11-03 Sat 11:28] =>  0:00
    :PROPERTIES:
@@ -125,7 +148,7 @@ Also create any projects and put the under vc
    :END:
 [2012-11-03 Sat 11:28]
 
-** TODO Check out org-contacts
+**** TODO Check out org-contacts
   CLOCK: [2012-11-03 Sat 19:28]--[2012-11-03 Sat 19:28] =>  0:00
    :PROPERTIES:
    :ID:       8aa779ca-ab20-4473-8b51-0a9826ad16be
@@ -133,7 +156,7 @@ Also create any projects and put the under vc
 [2012-11-03 Sat 19:28]
 [[http://julien.danjou.info/projects/emacs-packages#org-contacts]]
 
-** TODO Check out quantified self
+**** TODO Check out quantified self
   CLOCK: [2012-11-03 Sat 19:29]--[2012-11-03 Sat 19:30] =>  0:01
    :PROPERTIES:
    :ID:       aad86e16-f3f5-4cbb-84a1-f7a6abf0825d
@@ -144,7 +167,7 @@ Also create any projects and put the under vc
 [[http://lists.gnu.org/archive/html/emacs-orgmode/2012-05/msg00079.html]]
 [[http://sachachua.com/blog/category/quantified/]]
 
-** DONE Generate list of uncommitted working projects for weekly review
+**** DONE Generate list of uncommitted working projects for weekly review
    - State "DONE"       from "TODO"       [2013-02-05 Tue 13:21]
   CLOCK: [2012-11-12 Mon 11:43]--[2012-11-12 Mon 11:44] =>  0:01
    :PROPERTIES:
@@ -153,14 +176,14 @@ Also create any projects and put the under vc
 [2012-11-12 Mon 11:43]
 This should do: $ find ~/working -iname '.hg' adnd then hg st, hg incoming, hg outgoing and if any report action required output the result
 
-** DONE Fix up clocking in/out on mobileorg
+**** DONE Fix up clocking in/out on mobileorg
    - State "DONE"       from "TODO"       [2012-12-04 Tue 12:56]
    :PROPERTIES:
    :ID:       7eea46e9-8678-4c94-a108-d3a2289abb63
    :END:
 [2012-11-13 Tue 19:51]
 
-** DONE Need to have clock out shift clock to parent or default
+**** DONE Need to have clock out shift clock to parent or default
    - State "DONE"       from "TODO"       [2013-02-05 Tue 13:21]
   :LOGBOOK:
   :END:
@@ -169,14 +192,14 @@ This should do: $ find ~/working -iname '.hg' adnd then hg st, hg incoming, hg o
    :END:
 [2012-11-16 Fri 15:18]
 
-** TODO Transcribe org from Bei Da notebook
+**** TODO Transcribe org from Bei Da notebook
   :LOGBOOK:
   :END:
   :PROPERTIES:
   :ID:       fe726d0c-2bf0-41c3-8fc3-5d6a8bce26a8
   :END:
 [2012-11-20 Tue 11:03]
-** TODO Move someday projects into someday file
+**** TODO Move someday projects into someday file
   :LOGBOOK:
   CLOCK: [2012-11-30 Fri 10:54]--[2012-11-30 Fri 10:55] =>  0:01
   :END:
@@ -186,7 +209,7 @@ This should do: $ find ~/working -iname '.hg' adnd then hg st, hg incoming, hg o
 [2012-11-30 Fri 10:54]
 This will clear up my agenda until I can filter out someday projects
 
-** DONE make_research_project.sh should create org-mode snippet
+**** DONE make_research_project.sh should create org-mode snippet
    - State "DONE"       from "TODO"       [2012-12-07 Fri 10:45]
   :LOGBOOK:
   CLOCK: [2012-12-03 Mon 13:54]--[2012-12-03 Mon 13:55] =>  0:01
@@ -196,7 +219,7 @@ This will clear up my agenda until I can filter out someday projects
    :END:
 [2012-12-03 Mon 13:54]
 
-** DONE Investigate Dropbox symlink errors
+**** DONE Investigate Dropbox symlink errors
    - State "DONE"       from "NEXT"       [2012-12-03 Mon 15:31]
   :LOGBOOK:
   CLOCK: [2012-12-03 Mon 15:29]--[2012-12-03 Mon 15:31] =>  0:02
@@ -212,14 +235,14 @@ likewise for notebook and paul-dell...
 
 Hostname should be the canonical place and I shouldn't ever need to worry about the symlinked one. i.e. I should be able to remove all references to office and notebook and then delete the symlinks.
 
-** DONE Set default bibliography for reftex
+**** DONE Set default bibliography for reftex
    - State "DONE"       from "TODO"       [2013-02-05 Tue 13:19]
   :PROPERTIES:
   :ID:       1e9fd1df-e101-4e32-bc7b-b598793a498b
   :END:
 [2012-12-07 Fri 10:15]
 
-** TODO Set up org-mode checklists contrib
+**** TODO Set up org-mode checklists contrib
   :LOGBOOK:
   :END:
   :PROPERTIES:
@@ -227,7 +250,7 @@ Hostname should be the canonical place and I shouldn't ever need to worry about 
   :END:
 [2012-12-07 Fri 13:44]
 
-** DONE Implement multi-page html export for org mode
+**** DONE Implement multi-page html export for org mode
    - State "DONE"       from "TODO"       [2013-02-05 Tue 13:22]
   :LOGBOOK:
   :END:
@@ -236,7 +259,7 @@ Hostname should be the canonical place and I shouldn't ever need to worry about 
    :END:
 [2012-12-13 Thu 10:36]
 
-** DONE Set up org-mode latex export
+**** DONE Set up org-mode latex export
    - State "DONE"       from "NEXT"       [2012-12-13 Thu 12:11]
   :LOGBOOK:
   CLOCK: [2012-12-13 Thu 11:38]--[2012-12-13 Thu 12:11] =>  0:33
@@ -249,7 +272,7 @@ Hostname should be the canonical place and I shouldn't ever need to worry about 
    :END:
 [2012-12-13 Thu 10:37]
 Want it to use my settings, macros etc.
-** TODO fix: org mode clocks out when doing mobile sync
+**** TODO fix: org mode clocks out when doing mobile sync
   :LOGBOOK:
   :END:
    :PROPERTIES:
@@ -257,8 +280,8 @@ Want it to use my settings, macros etc.
    :END:
 [2012-12-14 Fri 11:53]
 
-** Web Publishing
-*** Links
+**** Web Publishing
+***** Links
 [[http://orgmode.org/manual/Publishing.html]]
 [[http://orgmode.org/manual/Exporting.html]]
 [[http://orgmode.org/worg/org-tutorials/org-publish-html-tutorial.html]]
@@ -269,7 +292,7 @@ Want it to use my settings, macros etc.
 [[http://doc.norang.ca/org-mode.html#Publishing]]
 [[http://justinlilly.com/emacs/orgmode_static_site_generator.html]]
 
-** DONE Fix up vc on org mode
+**** DONE Fix up vc on org mode
   SCHEDULED: <2013-01-07 Mon>
   - State "DONE"       from "TODO"       [2013-01-07 Mon 14:09]
    :PROPERTIES:
@@ -279,21 +302,21 @@ Want it to use my settings, macros etc.
 
 It's missing stuff from work.
 
-** TODO Put password free math131 ssh key on bitbucket for syncing
+**** TODO Put password free math131 ssh key on bitbucket for syncing
   :LOGBOOK:
   :END:
    :PROPERTIES:
    :ID:       02e28058-08f3-4acb-95b2-bd4fe4f99317
    :END:
 [2013-01-11 Fri 14:17]
-** TODO mobile-org capture should store timestamp
+**** TODO mobile-org capture should store timestamp
   :LOGBOOK:
   :END:
   :PROPERTIES:
   :ID:       0da448e4-4613-4334-9c8a-e1602b72d98a
   :END:
 [2013-01-18 Fri 10:15]
-** DONE Merge 2 seperate Lawson conj. proof tasks
+**** DONE Merge 2 seperate Lawson conj. proof tasks
   - State "DONE"       from "TODO"       [2013-02-01 Fri 11:45]
   :LOGBOOK:
   :END:
@@ -302,14 +325,14 @@ It's missing stuff from work.
   :END:
 [2013-01-30 Wed 10:18]
 
-** TODO Archive old tasks in weekly review
+**** TODO Archive old tasks in weekly review
   :LOGBOOK:
   :END:
    :PROPERTIES:
    :ID:       f7b55341-e8b8-46cd-a026-982f356173d7
    :END:
 [2013-02-05 Tue 13:22]
-** DONE Set up a capture task for research ideas
+**** DONE Set up a capture task for research ideas
   - State "DONE"       from "NEXT"       [2013-03-14 Thu 14:15]
   :LOGBOOK:
   CLOCK: [2013-03-14 Thu 14:08]--[2013-03-14 Thu 14:15] =>  0:07
@@ -326,13 +349,13 @@ This will have a timestamp - maybe captured as a date tree? It will be
 filed in a research diary file. I'll need to tag my ideas and I'll
 publish this on the web so I can access it anywhere. I'll also want to
 be able to link to scans and blackboard photos.
-** DONE Set up FOCUS agenda block
+**** DONE Set up FOCUS agenda block
    - State "DONE"       from "NEXT"       [2013-03-19 Tue 13:36]
   :LOGBOOK:
   CLOCK: [2013-03-19 Tue 11:38]--[2013-03-19 Tue 11:41] =>  0:03
   :END:
 [2013-03-19 Tue 11:37]
-** TODO Publish single org-mode file to multiple page html
+**** TODO Publish single org-mode file to multiple page html
   :LOGBOOK:
   CLOCK: [2013-02-28 Thu 17:57]--[2013-02-28 Thu 17:58] =>  0:01
   :END:
@@ -341,7 +364,7 @@ be able to link to scans and blackboard photos.
   :END:
 [2013-02-28 Thu 17:57]
 I can export to Docbook, then use standard tools to produce mutli-page html and single page html files. Can I just do this in one go?
-** DONE Tag someday projects as SOMEDAY and use a filter to remove them from agenda
+**** DONE Tag someday projects as SOMEDAY and use a filter to remove them from agenda
   - State "DONE"       from "TODO"       [2013-03-19 Tue 11:46]
   :LOGBOOK:
   CLOCK: [2013-02-28 Thu 21:51]--[2013-02-28 Thu 21:52] =>  0:01
@@ -351,18 +374,19 @@ I can export to Docbook, then use standard tools to produce mutli-page html and 
   :END:
 [2013-02-28 Thu 21:51]
 
-** TODO Learn agenda views
+**** TODO Learn agenda views
   :LOGBOOK:
   :END:
 [2013-03-18 Mon 16:03]
 If I'm working on a project, I want an agenda view showing me just that project.
-** TODO Put org-mobile code into one function
+**** TODO Put org-mobile code into one function
   :LOGBOOK:
   :END:
   :PROPERTIES:
   :ID:       503b6139-d929-4ab7-a264-ff52b1c00420
   :END:
 [2013-03-14 Thu 14:05]
+
 * process
   :PROPERTIES:
   :ID:       403ba6c9-9a32-430c-b0c9-0b09f2eba44e
@@ -1056,7 +1080,10 @@ I need to have my macros available.
   :END:
 ** Organisation
   :LOGBOOK:
-  CLOCK: [2013-03-19 Tue 13:33]
+  CLOCK: [2013-03-19 Tue 13:46]
+  CLOCK: [2013-03-19 Tue 13:43]--[2013-03-19 Tue 13:46] =>  0:03
+  CLOCK: [2013-03-19 Tue 13:37]--[2013-03-19 Tue 13:40] =>  0:03
+  CLOCK: [2013-03-19 Tue 13:33]--[2013-03-19 Tue 13:37] =>  0:04
   CLOCK: [2013-03-19 Tue 13:29]--[2013-03-19 Tue 13:30] =>  0:01
   CLOCK: [2013-03-19 Tue 11:49]--[2013-03-19 Tue 12:02] =>  0:13
   CLOCK: [2013-03-19 Tue 11:37]--[2013-03-19 Tue 11:38] =>  0:01
