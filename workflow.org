@@ -1333,7 +1333,6 @@ I need to have my macros available.
   :END:
    
 ** NEXT Transcribe notes
-   SCHEDULED: <2013-02-13 Wed .+1w/10d>
    - State "DONE"       from "NEXT"       [2013-02-06 Wed 20:01]
    - State "DONE"       from "NEXT"       [2012-12-24 Mon 16:25]
    - State "DONE"       from "NEXT"       [2012-12-05 Wed 19:55]
@@ -1346,12 +1345,12 @@ I need to have my macros available.
     CLOCK: [2012-12-05 Wed 18:48]--[2012-12-05 Wed 18:50] =>  0:02
     CLOCK: [2012-12-05 Wed 17:50]--[2012-12-05 Wed 18:36] =>  0:46
     :END:
-:PROPERTIES:
-:STYLE: habit
-:REPEAT_TO_STATE: NEXT
-:ID: 3908a11d-fd52-4335-9257-656bf9bd4692
-:LAST_REPEAT: [2013-02-06 Wed 20:01]
-:END:
+    :PROPERTIES:
+    :STYLE:    habit
+    :REPEAT_TO_STATE: NEXT
+    :ID:       3908a11d-fd52-4335-9257-656bf9bd4692
+    :LAST_REPEAT: [2013-02-06 Wed 20:01]
+    :END:
 
 This only needs to be from my small notebook and just what's necessary to be transcribed into the computer such as tasks, ideas etc.
 
@@ -1526,7 +1525,7 @@ I probably don't need this!
 
 
 ** NEXT Weekly Review [0/11]
-   SCHEDULED: <2013-03-11 Mon +1w>
+   SCHEDULED: <2013-03-25 Mon ++1w>
    - State "DONE"       from "NEXT"       [2013-03-19 Tue 11:49]
    - State "DONE"       from "NEXT"       [2013-02-25 Mon 10:23]
    - State "DONE"       from "NEXT"       [2013-02-15 Fri 21:07]
