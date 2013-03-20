@@ -98,6 +98,9 @@ Geisel Library room 274
 ** CEJM
 *** Edit CEJM-D-12-00160R1
     DEADLINE: <2013-04-03 Wed>
+    :PROPERTIES:
+    :ID:       58529b2b-87b8-4680-9a66-f065da5cac50
+    :END:
 [[file:~/working/academic/journals/editing/cejm/CEJM-D-12-00160R1]]
 
 ** Refereeing
@@ -871,6 +874,9 @@ In particular, put more detail in.
        :LOGBOOK:
        CLOCK: [2013-03-01 Fri 15:29]--[2013-03-01 Fri 15:37] =>  0:08
        :END:
+       :PROPERTIES:
+       :ID:       f7419a9b-0805-4772-9361-0d2fb997bd2c
+       :END:
 ****** TODO Research Huisken's original paper
        :PROPERTIES:
        :ID:       3477a805-50d8-4722-9982-2d6849b2a110
@@ -888,7 +894,10 @@ In particular, put more detail in.
        :ID:       d53199b6-0467-4a24-95d9-18e3d6d37e54
        :END:
 
-****** TODO Check Mao-Pei's use of ln 
+****** TODO Check Mao-Pei's use of ln
+       :PROPERTIES:
+       :ID:       13a43b9f-745a-4e93-98b2-c7f7ae405b8e
+       :END: 
 ***** NEXT Get my honour's thesis work into a useable format
       :PROPERTIES:
       :ID:       810fd351-5f88-415f-9977-906fa1e39681
@@ -1321,6 +1330,9 @@ Some money available through colloquia funds?
    :END:
 [2013-02-04 Mon 10:09]
 *** NEXT Enquire about lecture covering (email frdesk)
+    :PROPERTIES:
+    :ID:       5bbab9e4-6706-40bf-aea7-cb0ef39611d4
+    :END:
 ** SCGAS 2013
    :LOGBOOK:
    CLOCK: [2013-02-24 Sun 08:40]--[2013-02-24 Sun 13:35] =>  4:55
@@ -1335,6 +1347,9 @@ Some money available through colloquia funds?
    :LOGBOOK:
    CLOCK: [2013-03-19 Tue 13:49]--[2013-03-19 Tue 13:54] =>  0:05
    :END:
+   :PROPERTIES:
+   :ID:       aaff0fd5-ad8f-4699-9c28-36e76cc1194c
+   :END:
 <2013-05-11 Sat>--<2013-05-12 Sun>
 [[http://www.math.washington.edu/~lee/PNGS/]]
 *** NEXT Plan PNGS talk
@@ -1343,11 +1358,17 @@ Some money available through colloquia funds?
     :ID:       ae9f534c-7445-42d4-a56e-a4dcf52119b6
     :END:
 *** NEXT Ask Lei/FRdesk about someone covering lectures
+    :PROPERTIES:
+    :ID:       f8183fb0-8a49-4b76-95c3-1bd4eef6cdd3
+    :END:
 *** Talk
 $Z$ is some quantity like distance, non-collapsing, whatever. $\bar{Z}$ is the extrema over some range; for non-collaping $Z=Z(x,y)$, $\bar{Z}(x)=\sup_y Z(x,y)$. For $Z=d$, $\bar{Z}$ is the sup over $x$ and $y$. These will be over non-compact $M\times M - D$ with $D$ the diagonal. More generally, $Z$ may only be defined away from the cut locus. 
 
 At the extrema, because of the vanishing of the first variation, the laplacian of $\bar{Z}$ turns into something like $\pd{x_i} \pm \pd{y_i}$. So a viscosity equation for $\laplace \bar{Z}$ relates to this other operator on $Z$. It might be worthwhile comparing the Hessians of $\bar{Z}$ and $Z$. The other important ingredient here is blowing up the diagonal to get a compact manifold. 
 ** TODO Encounters in Geometry
+   :PROPERTIES:
+   :ID:       7f61c706-31dd-49e3-91a1-b75eabc0fdf4
+   :END:
 Cabo Frio, a beautiful beach city near Rio De Janeiro, from June 3 to June 7, 2013.
 [[http://www.impa.br/opencms/pt/eventos/store/evento_1302]]
 *** CANCELLED Talk to Kate about going to Rio
@@ -1362,7 +1383,13 @@ Cabo Frio, a beautiful beach city near Rio De Janeiro, from June 3 to June 7, 20
     :END:
 [2013-02-13 Wed 14:17]
 *** NEXT Find out about lectures covered (email frdesk)
+    :PROPERTIES:
+    :ID:       a97df10c-7eea-422b-aa1a-f3252aec0ed6
+    :END:
 *** NEXT Find out if I can still go (email Wolfang)
+    :PROPERTIES:
+    :ID:       33484880-0fc8-4ca4-964b-ac1a47bacceb
+    :END:
 * Students
   :PROPERTIES:
   :ID:       a93e1471-a035-4d1a-888f-948a3996b9ec

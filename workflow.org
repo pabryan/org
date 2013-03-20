@@ -9,14 +9,23 @@
 *** NEXT Sort org-mode tasks list
   :LOGBOOK:
   :END:
+    :PROPERTIES:
+    :ID:       fbb31745-ca12-4122-a3fb-f2eafc82abd7
+    :END:
 [2013-03-19 Tue 13:37]
 Go through the list and categorise what's there.
 *** TODO Filing System
+    :PROPERTIES:
+    :ID:       19726795-15e7-4ff1-8786-efbf6461e3a1
+    :END:
 
 **** NEXT Create filing system
   :LOGBOOK:
   CLOCK: [2013-03-19 Tue 13:40]--[2013-03-19 Tue 13:43] =>  0:03
   :END:
+     :PROPERTIES:
+     :ID:       75ffd86c-34cf-4fcb-ad17-fc335ab420a8
+     :END:
 [2013-03-19 Tue 13:40]
 - Filing should be replicated through the org files/file system/email and paper based filing. 
 - I'll need an index to my materials. It may be best to use seperate org files for planning work and for filing work. Of course either can reference the other. - My paper files will by stored by index key which I'll periodically print so I have a paper copy for ease of access.
@@ -24,9 +33,15 @@ Go through the list and categorise what's there.
 *** NEXT Get projects in order
   :LOGBOOK:
   :END:
+    :PROPERTIES:
+    :ID:       bdce6193-4159-4995-a3b3-ca8d073698d9
+    :END:
 [2013-03-19 Tue 13:46]
 ** Task list to sort
 **** TODO Set up TAGS
+     :PROPERTIES:
+     :ID:       f5f169cb-fc4b-4869-806a-26e21a16eb58
+     :END:
 I really need these to access my information.
 **** NEXT Punch In/Out
    :PROPERTIES:
@@ -377,6 +392,9 @@ I can export to Docbook, then use standard tools to produce mutli-page html and 
 **** TODO Learn agenda views
   :LOGBOOK:
   :END:
+     :PROPERTIES:
+     :ID:       e7c46646-190f-4d40-b287-6c15ca2df6be
+     :END:
 [2013-03-18 Mon 16:03]
 If I'm working on a project, I want an agenda view showing me just that project.
 **** TODO Put org-mobile code into one function
@@ -825,6 +843,9 @@ Also could have dry snacks, tinned stuff like sardines and so on.
   :LOGBOOK:
   CLOCK: [2013-03-19 Tue 13:30]--[2013-03-19 Tue 13:33] =>  0:03
   :END:
+   :PROPERTIES:
+   :ID:       bd7e4c58-6d7a-4d0c-b253-27eb14982ce8
+   :END:
 [2013-03-19 Tue 13:29]
 
 Key numbers: FR428, FR382.
@@ -1684,6 +1705,7 @@ What to review:
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
    :LAST_REPEAT: [2013-03-19 Tue 11:34]
+   :ID:       0d7dd5d0-6901-46cc-ab86-aaf3b133edb6
    :END:
 
 - [ ] Set goals/focus for the month

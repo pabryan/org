@@ -89,11 +89,29 @@ Blank	Grade not reported by instructor
 **** Notes
 **** Tasks
 ***** TODO Exams
+      :PROPERTIES:
+      :ID:       c7681154-0a25-4143-9e3a-9c5e3871c3ef
+      :END:
 ***** TODO Homework
+      :PROPERTIES:
+      :ID:       da4b56d1-423c-4f4c-ab2b-0c5b0c5f018c
+      :END:
 ***** TODO Lectures
+      :PROPERTIES:
+      :ID:       6e320867-249a-486f-a53a-dced95d00a55
+      :END:
 ***** TODO Website
+      :PROPERTIES:
+      :ID:       696922e3-5fc4-44dd-92e8-7756f2bdd477
+      :END:
 ****** NEXT Make website
+       :PROPERTIES:
+       :ID:       e0c53278-5035-45e6-9515-1c0d9f37596b
+       :END:
 ***** TODO Plan course
+      :PROPERTIES:
+      :ID:       971939b9-8590-47d9-b9ab-4df48f7bdcaa
+      :END:
 **** Clocking
 **** Calendar
 *** TODO MATH20C Spring 2013				      :MATH20C:FOCUS:
@@ -107,12 +125,29 @@ Blank	Grade not reported by instructor
 **** Notes
 **** Tasks
 ***** TODO Exams
+      :PROPERTIES:
+      :ID:       84cf34b8-293d-496b-a828-c5a380e934b6
+      :END:
 ***** TODO Homework
+      :PROPERTIES:
+      :ID:       bae918db-a504-4496-bcce-32e84d1300dd
+      :END:
 ***** TODO Lectures
+      :PROPERTIES:
+      :ID:       add251e4-5c4e-48d7-bf60-20001c3cbb2b
+      :END:
 ***** TODO Website
-****** NEXT Make website
+      :LOGBOOK:
+      :END:
+      :PROPERTIES:
+      :ID:       a9dff900-e463-465f-a3c3-9779d55560b2
+      :END:
+****** DONE Make website
+       - State "DONE"       from "NEXT"       [2013-03-20 Wed 16:17]
        :LOGBOOK:
-       CLOCK: [2013-03-20 Wed 14:46]
+       CLOCK: [2013-03-20 Wed 15:50]--[2013-03-20 Wed 16:17] =>  0:27
+       CLOCK: [2013-03-20 Wed 15:20]--[2013-03-20 Wed 15:47] =>  0:27
+       CLOCK: [2013-03-20 Wed 14:46]--[2013-03-20 Wed 15:12] =>  0:26
        CLOCK: [2013-03-20 Wed 13:56]--[2013-03-20 Wed 14:21] =>  0:25
        CLOCK: [2013-03-20 Wed 13:29]--[2013-03-20 Wed 13:54] =>  0:25
        :END:
@@ -125,11 +160,17 @@ Blank	Grade not reported by instructor
       :ID:       e4ea8745-1fb4-494c-bd64-2f0744d2dc30
       :END:
 ****** NEXT Make org structure
+       :PROPERTIES:
+       :ID:       5f1670be-70cf-4e0c-9db5-630dac608324
+       :END:
 ****** NEXT Make schedule
        :LOGBOOK:
        CLOCK: [2013-03-20 Wed 11:45]--[2013-03-20 Wed 11:46] =>  0:01
        CLOCK: [2013-03-20 Wed 11:44]--[2013-03-20 Wed 11:45] =>  0:01
        CLOCK: [2013-03-20 Wed 10:47]--[2013-03-20 Wed 11:40] =>  0:53
+       :END:
+       :PROPERTIES:
+       :ID:       ff8a1dd5-bb2a-45c8-b0e4-b6e15e93778f
        :END:
 ***** Misc
 ****** DONE Find some one to cover for 09/05 and 11/05
@@ -237,13 +278,25 @@ MATLAB is homework.
       :ID:       e4ea8745-1fb4-494c-bd64-2f0744d2dc30
       :END:
 ****** NEXT Make org structure
+       :PROPERTIES:
+       :ID:       5ad4ae3e-8428-4bf7-b824-4529a029af51
+       :END:
 ****** NEXT Make schedule
-****** NEXT Make website 
+       :PROPERTIES:
+       :ID:       6e61cacf-e959-46f6-9594-a1d237f03753
+       :END:
+****** NEXT Make website
+       :PROPERTIES:
+       :ID:       56c62e50-94a7-4c6b-8cb9-d0bb22ac3325
+       :END: 
 
 ***** Misc
 ****** WAITING Find some one to cover for 09/05 and 11/05
        - State "WAITING"    from "NEXT"       [2013-03-20 Wed 10:46] \\
 	 Waiting on Bo Li to respond.
+       :PROPERTIES:
+       :ID:       c0e6c741-3695-4f33-b08d-2084e46807fd
+       :END:
 **** Clocking
 ***** Admin
 ***** Lecturing
@@ -1083,6 +1136,9 @@ Center 119
 Put final exam conditions - 2 pages notes allowed.
 ***** NEXT Enter grades
       DEADLINE: <2013-03-29 Fri>
+      :PROPERTIES:
+      :ID:       a1d053c2-a7bc-43d9-95e3-9128950f3713
+      :END:
 *** DONE MATH150A Fall 2012 					   :MATH150A:
     - State "DONE"       from "TODO"       [2012-12-14 Fri 11:54]
     :LOGBOOK:
