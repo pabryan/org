@@ -1071,8 +1071,10 @@ No! Maybe I can use reftex and get it to take me to the entry in refs.org? I can
     CLOCK: [2012-12-18 Tue 11:10]--[2012-12-18 Tue 11:33] =>  0:23
     CLOCK: [2012-12-18 Tue 09:45]--[2012-12-18 Tue 10:27] =>  0:42
     :END:
-*** TODO Schedule academic work so I actually do it!
+*** CANCELLED Schedule academic work so I actually do it!
     SCHEDULED: <2013-03-18 Mon>
+    - State "CANCELLED"  from "TODO"       [2013-03-20 Wed 10:24] \\
+      I just have blocks for teaching and the rest is for academic stuff.
   :LOGBOOK:
   :END:
     :PROPERTIES:
