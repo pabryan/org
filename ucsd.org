@@ -88,10 +88,12 @@ Blank	Grade not reported by instructor
 *** Template
 **** Notes
 **** Tasks
-***** Exams
-***** Homework
-***** Lectures
-***** Website
+***** TODO Exams
+***** TODO Homework
+***** TODO Lectures
+***** TODO Website
+****** NEXT Make website
+***** TODO Plan course
 **** Clocking
 **** Calendar
 *** TODO MATH20C Spring 2013				      :MATH20C:FOCUS:
@@ -102,12 +104,14 @@ Blank	Grade not reported by instructor
     :PROPERTIES:
     :ID:       b7714d68-e3c3-4424-be34-62a9473108e4
     :END:
+**** Notes
 **** Tasks
-***** Exams
-***** Homework
-***** Lectures
-***** Website
-***** NEXT Set up course
+***** TODO Exams
+***** TODO Homework
+***** TODO Lectures
+***** TODO Website
+****** NEXT Make website
+***** TODO Set up course
       SCHEDULED: <2013-03-18 Mon> DEADLINE: <2013-03-25 Mon>
       :LOGBOOK:
       CLOCK: [2013-03-12 Tue 11:26]--[2013-03-12 Tue 11:28] =>  0:02
@@ -115,6 +119,14 @@ Blank	Grade not reported by instructor
       :PROPERTIES:
       :ID:       e4ea8745-1fb4-494c-bd64-2f0744d2dc30
       :END:
+****** NEXT Make org structure
+****** NEXT Make schedule
+****** NEXT Make website 
+***** Misc
+****** NEXT Find some one to cover for 09/05 and 11/05
+       :LOGBOOK:
+       CLOCK: [2013-03-20 Wed 10:32]
+       :END:
 **** Clocking
 ***** Admin
 ***** Lecturing
@@ -211,6 +223,12 @@ MATLAB is homework.
       :PROPERTIES:
       :ID:       e4ea8745-1fb4-494c-bd64-2f0744d2dc30
       :END:
+****** NEXT Make org structure
+****** NEXT Make schedule
+****** NEXT Make website 
+
+***** Misc
+****** NEXT Find some one to cover for 09/05 and 11/05
 **** Clocking
 ***** Admin
 ***** Lecturing
