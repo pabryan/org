@@ -112,7 +112,8 @@ Blank	Grade not reported by instructor
 ***** TODO Website
 ****** NEXT Make website
        :LOGBOOK:
-       CLOCK: [2013-03-20 Wed 13:29]
+       CLOCK: [2013-03-20 Wed 13:56]--[2013-03-20 Wed 14:21] =>  0:25
+       CLOCK: [2013-03-20 Wed 13:29]--[2013-03-20 Wed 13:54] =>  0:25
        :END:
 ***** TODO Set up course
       SCHEDULED: <2013-03-18 Mon> DEADLINE: <2013-03-25 Mon>
@@ -130,7 +131,8 @@ Blank	Grade not reported by instructor
        CLOCK: [2013-03-20 Wed 10:47]--[2013-03-20 Wed 11:40] =>  0:53
        :END:
 ***** Misc
-****** WAITING Find some one to cover for 09/05 and 11/05
+****** DONE Find some one to cover for 09/05 and 11/05
+       - State "DONE"       from "WAITING"    [2013-03-20 Wed 14:33]
        - State "WAITING"    from "NEXT"       [2013-03-20 Wed 10:46] \\
 	 Waiting on Andre Minor and Caleb Meier to respond.
        :LOGBOOK:
