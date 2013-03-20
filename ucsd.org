@@ -123,9 +123,11 @@ Blank	Grade not reported by instructor
 ****** NEXT Make schedule
 ****** NEXT Make website 
 ***** Misc
-****** NEXT Find some one to cover for 09/05 and 11/05
+****** WAITING Find some one to cover for 09/05 and 11/05
+       - State "WAITING"    from "NEXT"       [2013-03-20 Wed 10:46] \\
+	 Waiting on Andre Minor and Caleb Meier to respond.
        :LOGBOOK:
-       CLOCK: [2013-03-20 Wed 10:32]
+       CLOCK: [2013-03-20 Wed 10:32]--[2013-03-20 Wed 10:47] =>  0:15
        :END:
 **** Clocking
 ***** Admin
@@ -228,7 +230,9 @@ MATLAB is homework.
 ****** NEXT Make website 
 
 ***** Misc
-****** NEXT Find some one to cover for 09/05 and 11/05
+****** WAITING Find some one to cover for 09/05 and 11/05
+       - State "WAITING"    from "NEXT"       [2013-03-20 Wed 10:46] \\
+	 Waiting on Bo Li to respond.
 **** Clocking
 ***** Admin
 ***** Lecturing
