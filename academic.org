@@ -867,7 +867,7 @@ In particular, put more detail in.
       :PROPERTIES:
       :ID:       91473ce5-db9d-4368-a988-0f8de97343a0
       :END:
-****** Collect references
+****** NEXT Collect references
        :LOGBOOK:
        CLOCK: [2013-03-01 Fri 15:29]--[2013-03-01 Fri 15:37] =>  0:08
        :END:
@@ -887,7 +887,9 @@ In particular, put more detail in.
        :PROPERTIES:
        :ID:       d53199b6-0467-4a24-95d9-18e3d6d37e54
        :END:
-***** TODO Get my honour's thesis work into a useable format
+
+****** TODO Check Mao-Pei's use of ln 
+***** NEXT Get my honour's thesis work into a useable format
       :PROPERTIES:
       :ID:       810fd351-5f88-415f-9977-906fa1e39681
       :END:
@@ -1003,6 +1005,16 @@ See also
     :ID:       9defa0b0-c473-4347-9cf3-574714e81f7d
     :END:
      [[file:~/research_resources]]
+**** TODO Tag papers in ref.org so I can find papers by subject!
+  :LOGBOOK:
+  CLOCK: [2013-03-01 Fri 13:57]--[2013-03-01 Fri 14:00] =>  0:03
+  :END:
+  :PROPERTIES:
+  :ID:       fd828213-33b7-4ebd-9292-b1323dd3baff
+  :END:
+[2013-03-01 Fri 13:57]
+I could also have author, title, date etc. in the properties drawer! This is redundant, but means I can search my org file on author etc.
+No! Maybe I can use reftex and get it to take me to the entry in refs.org? I can certainly due this manually, using reftex to take me to the bib file which gives the ID which I can search for in the org file. Then I don't need to maintain duplicate info in the org and bib files and have all the power of reftex available.
 *** DONE Create research projects with tasks
     - State "DONE"       from "NEXT"       [2012-12-03 Mon 16:56]
     :LOGBOOK:
@@ -1240,12 +1252,18 @@ Look at $2$-dim (closed?) submanifolds and apply isoperimetric
 estimates.
 *** Non-collapsing
     :LOGBOOK:
+    CLOCK: [2013-03-19 Tue 16:31]--[2013-03-19 Tue 16:50] =>  0:19
+    CLOCK: [2013-03-19 Tue 15:03]--[2013-03-19 Tue 16:31] =>  1:28
+    CLOCK: [2013-03-19 Tue 13:56]--[2013-03-19 Tue 14:39] =>  0:43
+    CLOCK: [2013-03-19 Tue 12:05]--[2013-03-19 Tue 12:23] =>  0:18
     CLOCK: [2013-03-18 Mon 12:55]--[2013-03-18 Mon 13:39] =>  0:44
     CLOCK: [2013-03-15 Fri 15:05]--[2013-03-15 Fri 16:19] =>  1:14
     CLOCK: [2013-03-15 Fri 14:10]--[2013-03-15 Fri 14:58] =>  0:48
     CLOCK: [2013-03-15 Fri 09:05]--[2013-03-15 Fri 09:35] =>  0:30
     CLOCK: [2013-03-13 Wed 15:15]--[2013-03-13 Wed 15:48] =>  0:33    
     :END:
+**** Scanned Notes
+[[id:fd1155e2-d052-4cfb-873d-e577c50321da][Blackboard]]
 
 ** Reading
    :PROPERTIES:
@@ -1266,7 +1284,7 @@ estimates.
    - State "DONE"       from "TODO"       [2012-10-18 Thu 11:13]
   CLOCK: [2012-10-14 Sun 20:38]--[2012-10-14 Sun 20:38] =>  0:00
 [2012-10-14 Sun 20:38]
-** SOMEDAY Invite Visitors
+** TODO Invite Visitors						    :SOMEDAY:
 Some money available through colloquia funds?
   CLOCK: [2012-10-14 Sun 20:39]--[2012-10-14 Sun 20:40] =>  0:01
    :PROPERTIES:
@@ -1292,7 +1310,7 @@ Some money available through colloquia funds?
   :ID:       2350dd28-f465-44bd-a9ec-e9f3e77df37b
   :END:
 [2013-01-30 Wed 08:18]
-** TODO Plan visit to ASU
+** TODO Plan visit to ASU					      :FOCUS:
    SCHEDULED: <2013-02-18 Mon>
   :LOGBOOK:
   :END:
@@ -1300,6 +1318,7 @@ Some money available through colloquia funds?
    :ID:       dd8dd55b-3581-44ca-af2a-8d193fc8ed95
    :END:
 [2013-02-04 Mon 10:09]
+*** NEXT Enquire about lecture covering (email frdesk)
 ** SCGAS 2013
    :LOGBOOK:
    CLOCK: [2013-02-24 Sun 08:40]--[2013-02-24 Sun 13:35] =>  4:55
@@ -1310,15 +1329,23 @@ Some money available through colloquia funds?
    :END:
    <2013-02-23 Sat 08:30>--<2013-02-24 Sun 14:30>
 
-** PNGS 2013
+** TODO PNGS 2013 						      :FOCUS:
+   :LOGBOOK:
+   CLOCK: [2013-03-19 Tue 13:49]--[2013-03-19 Tue 13:54] =>  0:05
+   :END:
 <2013-05-11 Sat>--<2013-05-12 Sun>
 [[http://www.math.washington.edu/~lee/PNGS/]]
-*** TODO Plan PNGS talk
+*** NEXT Plan PNGS talk
     SCHEDULED: <2013-03-11 Mon>
     :PROPERTIES:
     :ID:       ae9f534c-7445-42d4-a56e-a4dcf52119b6
     :END:
-** Encounters in Geometry
+*** NEXT Ask Lei/FRdesk about someone covering lectures
+*** Talk
+$Z$ is some quantity like distance, non-collapsing, whatever. $\bar{Z}$ is the extrema over some range; for non-collaping $Z=Z(x,y)$, $\bar{Z}(x)=\sup_y Z(x,y)$. For $Z=d$, $\bar{Z}$ is the sup over $x$ and $y$. These will be over non-compact $M\times M - D$ with $D$ the diagonal. More generally, $Z$ may only be defined away from the cut locus. 
+
+At the extrema, because of the vanishing of the first variation, the laplacian of $\bar{Z}$ turns into something like $\pd{x_i} \pm \pd{y_i}$. So a viscosity equation for $\laplace \bar{Z}$ relates to this other operator on $Z$. It might be worthwhile comparing the Hessians of $\bar{Z}$ and $Z$. The other important ingredient here is blowing up the diagonal to get a compact manifold. 
+** TODO Encounters in Geometry
 Cabo Frio, a beautiful beach city near Rio De Janeiro, from June 3 to June 7, 2013.
 [[http://www.impa.br/opencms/pt/eventos/store/evento_1302]]
 *** CANCELLED Talk to Kate about going to Rio
@@ -1332,6 +1359,8 @@ Cabo Frio, a beautiful beach city near Rio De Janeiro, from June 3 to June 7, 20
     :ID:       87fd6545-739b-4d1e-bae9-8adedcec5537
     :END:
 [2013-02-13 Wed 14:17]
+*** NEXT Find out about lectures covered (email frdesk)
+*** NEXT Find out if I can still go (email Wolfang)
 * Students
   :PROPERTIES:
   :ID:       a93e1471-a035-4d1a-888f-948a3996b9ec
