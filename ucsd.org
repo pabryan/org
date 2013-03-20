@@ -1522,9 +1522,10 @@ Update this based on Bo's comments.
 [2013-02-19 Tue 12:17]
 I was emailed by the iClicker people about a large class I'm teaching. How do they know this?
 
-*** NEXT Create course template
+*** DONE Create course template
+    - State "DONE"       from "NEXT"       [2013-03-20 Wed 12:01]
   :LOGBOOK:
-  CLOCK: [2013-03-20 Wed 11:46]
+  CLOCK: [2013-03-20 Wed 11:46]--[2013-03-20 Wed 12:01] =>  0:15
   :END:
 [2013-03-20 Wed 11:45]
 ** Teaching as research
