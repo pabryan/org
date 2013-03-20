@@ -111,6 +111,9 @@ Blank	Grade not reported by instructor
 ***** TODO Lectures
 ***** TODO Website
 ****** NEXT Make website
+       :LOGBOOK:
+       CLOCK: [2013-03-20 Wed 13:29]
+       :END:
 ***** TODO Set up course
       SCHEDULED: <2013-03-18 Mon> DEADLINE: <2013-03-25 Mon>
       :LOGBOOK:
@@ -131,6 +134,7 @@ Blank	Grade not reported by instructor
        - State "WAITING"    from "NEXT"       [2013-03-20 Wed 10:46] \\
 	 Waiting on Andre Minor and Caleb Meier to respond.
        :LOGBOOK:
+       CLOCK: [2013-03-20 Wed 13:20]--[2013-03-20 Wed 13:28] =>  0:08
        CLOCK: [2013-03-20 Wed 10:32]--[2013-03-20 Wed 10:47] =>  0:15
        :END:
 **** Clocking
@@ -224,7 +228,7 @@ MATLAB is homework.
 ***** Homework
 ***** Lectures
 ***** Website
-***** NEXT Set up course
+***** TODO Set up course
       SCHEDULED: <2013-03-18 Mon> DEADLINE: <2013-03-25 Mon>      
       :PROPERTIES:
       :ID:       e4ea8745-1fb4-494c-bd64-2f0744d2dc30
