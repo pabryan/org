@@ -152,7 +152,7 @@ Blank	Grade not reported by instructor
        CLOCK: [2013-03-20 Wed 13:29]--[2013-03-20 Wed 13:54] =>  0:25
        :END:
 ***** TODO Set up course
-      SCHEDULED: <2013-03-18 Mon> DEADLINE: <2013-03-25 Mon>
+      SCHEDULED: <2013-03-18 Mon> DEADLINE: <2013-03-29 Fri>
       :LOGBOOK:
       CLOCK: [2013-03-12 Tue 11:26]--[2013-03-12 Tue 11:28] =>  0:02
       :END:
@@ -273,7 +273,7 @@ MATLAB is homework.
 ***** Lectures
 ***** Website
 ***** TODO Set up course
-      SCHEDULED: <2013-03-18 Mon> DEADLINE: <2013-03-25 Mon>      
+      SCHEDULED: <2013-03-18 Mon> DEADLINE: <2013-03-29 Fri>      
       :PROPERTIES:
       :ID:       e4ea8745-1fb4-494c-bd64-2f0744d2dc30
       :END:
