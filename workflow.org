@@ -1451,7 +1451,8 @@ Check how I did last month. I guess the review and plan could probably go togeth
 
 
 ** NEXT Daily Review [0/3]
-   SCHEDULED: <2013-03-13 Wed .+1d/2d>
+   SCHEDULED: <2013-03-21 Thu .+1d/2d>
+   - State "DONE"       from "NEXT"       [2013-03-20 Wed 21:54]
    - State "DONE"       from "NEXT"       [2013-03-12 Tue 21:32]
    - State "DONE"       from "NEXT"       [2013-02-25 Mon 20:22]
    - State "DONE"       from "NEXT"       [2013-02-20 Wed 21:34]
@@ -1467,6 +1468,7 @@ Check how I did last month. I guess the review and plan could probably go togeth
    - State "DONE"       from "NEXT"       [2013-01-23 Wed 19:25]
    - State "DONE"       from "NEXT"       [2013-01-14 Mon 17:43]
    :LOGBOOK:
+   CLOCK: [2013-03-20 Wed 21:50]--[2013-03-20 Wed 21:54] =>  0:04
    CLOCK: [2013-02-15 Fri 19:27]--[2013-02-15 Fri 19:29] =>  0:02
    CLOCK: [2013-02-06 Wed 19:36]--[2013-02-06 Wed 19:37] =>  0:01
    CLOCK: [2013-02-04 Mon 20:31]--[2013-02-04 Mon 20:32] =>  0:01
@@ -1482,7 +1484,7 @@ Check how I did last month. I guess the review and plan could probably go togeth
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
    :ID:       616c5bd9-d941-4fcc-8874-2ff3c9e96b4a
-   :LAST_REPEAT: [2013-03-12 Tue 21:32]
+   :LAST_REPEAT: [2013-03-20 Wed 21:54]
    :END:
 
 What to review:
@@ -1500,7 +1502,8 @@ For the following, do I just use the existing diary.org capture template or perh
 - [ ] Write down any thoughts, relections on the day.
 
 ** NEXT Daily Plan [0/2]
-   SCHEDULED: <2013-03-20 Wed .+1d/2d>
+   SCHEDULED: <2013-03-21 Thu .+1d/2d>
+   - State "DONE"       from "NEXT"       [2013-03-20 Wed 21:54]
    - State "DONE"       from "NEXT"       [2013-03-19 Tue 11:44]
    - State "DONE"       from "NEXT"       [2013-03-16 Sat 13:08]
    - State "DONE"       from "NEXT"       [2013-03-12 Tue 21:32]
@@ -1561,7 +1564,7 @@ For the following, do I just use the existing diary.org capture template or perh
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
    :ID:       ef051ee0-1113-4604-b355-450a5a47848b
-   :LAST_REPEAT: [2013-03-19 Tue 11:44]
+   :LAST_REPEAT: [2013-03-20 Wed 21:54]
    :END:
 
 - [ ] Check agenda/focus

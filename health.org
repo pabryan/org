@@ -49,7 +49,8 @@
     :END:
 
 *** NEXT Afternoon Relax
-    SCHEDULED: <2013-03-16 Sat .+1d/2d>
+    SCHEDULED: <2013-03-21 Thu .+1d/2d>
+    - State "DONE"       from "NEXT"       [2013-03-20 Wed 21:54]
     - State "DONE"       from "NEXT"       [2013-03-15 Fri 13:08]
     - State "DONE"       from "NEXT"       [2013-03-14 Thu 17:04]
     - State "DONE"       from "NEXT"       [2013-03-12 Tue 21:32]
@@ -58,11 +59,12 @@
     :STYLE:    habit
     :REPEAT_TO_STATE: NEXT
     :ID:       c0aaf33a-af77-446b-b9fd-cf2d2f78c12a
-    :LAST_REPEAT: [2013-03-16 Sat 13:08]
+    :LAST_REPEAT: [2013-03-20 Wed 21:54]
     :END:
   
 *** NEXT Evening Stretch
-    SCHEDULED: <2013-03-18 Mon .+1d/2d>
+    SCHEDULED: <2013-03-21 Thu .+1d/2d>
+    - State "DONE"       from "NEXT"       [2013-03-20 Wed 21:54]
     - State "DONE"       from "NEXT"       [2013-03-17 Sun 08:46]
     - State "DONE"       from "NEXT"       [2013-03-15 Fri 13:07]
     - State "DONE"       from "NEXT"       [2013-03-14 Thu 21:05]
@@ -75,7 +77,7 @@
     :STYLE:    habit
     :REPEAT_TO_STATE: NEXT
     :ID:       d439600f-c40d-4dd3-82ca-3e7d9e35f2b3
-    :LAST_REPEAT: [2013-03-18 Mon 08:46]
+    :LAST_REPEAT: [2013-03-20 Wed 21:54]
     :END:
   
 
