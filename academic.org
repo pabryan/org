@@ -941,6 +941,8 @@ Sequences of manifolds and convergence. What is smooth convergence? Can it be de
 ***** 
 ** Tasks
 *** TODO Organise research papers    
+    :LOGBOOK:
+    :END:
     :PROPERTIES:
     :ID:       27dd1954-9abe-4a87-9bcd-36027c643fdb
     :END:
@@ -967,7 +969,8 @@ Sequences of manifolds and convergence. What is smooth convergence? Can it be de
       :END:
 **** NEXT pdf scraping tool to create bib entries and rename pdf files
      :LOGBOOK:
-     CLOCK: [2013-03-21 Thu 13:46]
+     CLOCK: [2013-03-21 Thu 14:19]
+     CLOCK: [2013-03-21 Thu 13:46]--[2013-03-21 Thu 14:12] =>  0:33
      CLOCK: [2013-03-21 Thu 12:35]--[2013-03-21 Thu 13:01] =>  0:26
      CLOCK: [2013-03-21 Thu 10:26]--[2013-03-21 Thu 11:30] =>  1:04
      CLOCK: [2013-02-08 Fri 10:10]--[2013-02-08 Fri 10:49] =>  0:39
