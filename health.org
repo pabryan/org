@@ -8,7 +8,8 @@
 
 ** Tracking
 *** NEXT Exercise
-    SCHEDULED: <2013-03-23 Sat .+1d/2d>
+    SCHEDULED: <2013-03-24 Sun .+1d/2d>
+    - State "DONE"       from "NEXT"       [2013-03-23 Sat 20:30]
     - State "DONE"       from "NEXT"       [2013-03-22 Fri 20:16]
     - State "DONE"       from "NEXT"       [2013-03-21 Thu 10:16]
     - State "DONE"       from "NEXT"       [2013-03-20 Wed 10:23]
@@ -25,7 +26,7 @@
     :STYLE:    habit
     :REPEAT_TO_STATE: NEXT
     :ID:       8d56b2ef-1b49-4dc4-b701-1d021a293fa4
-    :LAST_REPEAT: [2013-03-22 Fri 20:16]
+    :LAST_REPEAT: [2013-03-23 Sat 20:30]
     :END:
 
 *** NEXT Morning Mobility
