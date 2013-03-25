@@ -278,6 +278,9 @@ MATLAB is homework.
 ***** Lectures
 ***** Website
 ****** NEXT Make website
+       :LOGBOOK:
+       CLOCK: [2013-03-25 Mon 15:38]
+       :END:
        :PROPERTIES:
        :ID:       56c62e50-94a7-4c6b-8cb9-d0bb22ac3325
        :END: 
@@ -294,7 +297,7 @@ MATLAB is homework.
 Lectures in calendar and tasks like planning lectures.
 ****** NEXT Make schedule
        :LOGBOOK:
-       CLOCK: [2013-03-25 Mon 15:21]
+       CLOCK: [2013-03-25 Mon 15:21]--[2013-03-25 Mon 15:38] =>  0:17
        :END:
        :PROPERTIES:
        :ID:       6e61cacf-e959-46f6-9594-a1d237f03753
