@@ -112,6 +112,8 @@ Blank	Grade not reported by instructor
       :PROPERTIES:
       :ID:       971939b9-8590-47d9-b9ab-4df48f7bdcaa
       :END:
+****** NEXT Org structure
+Lectures in calendar and tasks like planning lectures.
 **** Clocking
 **** Calendar
 *** TODO MATH20C Spring 2013				      :MATH20C:FOCUS:
@@ -164,7 +166,9 @@ Blank	Grade not reported by instructor
        :PROPERTIES:
        :ID:       5f1670be-70cf-4e0c-9db5-630dac608324
        :END:
-****** NEXT Make schedule
+Lectures in calendar and tasks like planning lectures.
+****** DONE Make schedule
+       - State "DONE"       from "NEXT"       [2013-03-25 Mon 15:11]
        :LOGBOOK:
        CLOCK: [2013-03-20 Wed 11:45]--[2013-03-20 Wed 11:46] =>  0:01
        CLOCK: [2013-03-20 Wed 11:44]--[2013-03-20 Wed 11:45] =>  0:01
@@ -273,6 +277,11 @@ MATLAB is homework.
 ***** Homework
 ***** Lectures
 ***** Website
+****** NEXT Make website
+       :PROPERTIES:
+       :ID:       56c62e50-94a7-4c6b-8cb9-d0bb22ac3325
+       :END: 
+
 ***** TODO Set up course
       SCHEDULED: <2013-03-18 Mon> DEADLINE: <2013-03-29 Fri>      
       :PROPERTIES:
@@ -282,15 +291,11 @@ MATLAB is homework.
        :PROPERTIES:
        :ID:       5ad4ae3e-8428-4bf7-b824-4529a029af51
        :END:
+Lectures in calendar and tasks like planning lectures.
 ****** NEXT Make schedule
        :PROPERTIES:
        :ID:       6e61cacf-e959-46f6-9594-a1d237f03753
        :END:
-****** NEXT Make website
-       :PROPERTIES:
-       :ID:       56c62e50-94a7-4c6b-8cb9-d0bb22ac3325
-       :END: 
-
 ***** Misc
 ****** WAITING Find some one to cover for 09/05 and 11/05
        - State "WAITING"    from "NEXT"       [2013-03-20 Wed 10:46] \\
