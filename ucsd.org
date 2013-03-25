@@ -363,7 +363,8 @@ Center 119
 <2013-05-31 Fri 13:00-14:00>
 ***** Lecture
 <2013-06-07 Fri 13:00-14:00>
-*** TODO MATH142B Winter 2012 					   :MATH142B:
+*** DONE MATH142B Winter 2012					   :MATH142B:
+    - State "DONE"       from "TODO"       [2013-03-25 Mon 13:55]
     :LOGBOOK:
     CLOCK: [2013-02-22 Fri 07:36]--[2013-02-22 Fri 07:37] =>  0:01
     :END:
@@ -1091,7 +1092,8 @@ Center 119
     :END:
 
 **** Tasks
-***** TODO Do Eval
+***** DONE Do Eval
+      - State "DONE"       from "TODO"       [2013-03-25 Mon 13:55]
   :LOGBOOK:
   :END:
       :PROPERTIES:
@@ -1135,8 +1137,12 @@ Center 119
       :END:
 [2013-03-14 Thu 14:18]
 Put final exam conditions - 2 pages notes allowed.
-***** NEXT Enter grades
+***** DONE Enter grades
       DEADLINE: <2013-03-29 Fri>
+      - State "DONE"       from "NEXT"       [2013-03-25 Mon 13:55]
+      :LOGBOOK:
+      CLOCK: [2013-03-25 Mon 12:46]--[2013-03-25 Mon 13:55] =>  1:09
+      :END:
       :PROPERTIES:
       :ID:       a1d053c2-a7bc-43d9-95e3-9128950f3713
       :END:
