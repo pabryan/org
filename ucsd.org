@@ -113,6 +113,9 @@ Blank	Grade not reported by instructor
       :ID:       971939b9-8590-47d9-b9ab-4df48f7bdcaa
       :END:
 ****** NEXT Org structure
+       :PROPERTIES:
+       :ID:       b91f87d9-508b-4276-8683-c03daa6b3ba8
+       :END:
 Lectures in calendar and tasks like planning lectures.
 **** Clocking
 **** Calendar
@@ -264,6 +267,8 @@ WLH 2001
 <2013-06-07 Fri 15:00-16:00>
 
 *** TODO MATH20D Spring 2013				      :MATH20D:FOCUS:
+    :LOGBOOK:
+    :END:
     :PROPERTIES:
     :ID:       01742e1a-c15f-4aab-ada0-59725c2e73e4
     :END:
@@ -279,7 +284,7 @@ MATLAB is homework.
 ***** Website
 ****** NEXT Make website
        :LOGBOOK:
-       CLOCK: [2013-03-25 Mon 15:38]
+       CLOCK: [2013-03-25 Mon 15:38]--[2013-03-25 Mon 16:02] =>  0:24
        :END:
        :PROPERTIES:
        :ID:       56c62e50-94a7-4c6b-8cb9-d0bb22ac3325
