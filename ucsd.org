@@ -325,8 +325,12 @@ Lectures in calendar and tasks like planning lectures.
 **** Lectures
 ***** Location
 Center 119
-***** Lecture
+***** Lecture 1.1
+      :LOGBOOK:
+      CLOCK: [2013-03-26 Tue 10:45]--[2013-03-26 Tue 12:30] =>  1:45
+      :END:
 <2013-04-01 Mon 13:00-14:00>
+
 ***** Lecture
 <2013-04-08 Mon 13:00-14:00>
 ***** Lecture
