@@ -302,9 +302,10 @@ MATLAB is homework.
        :ID:       5ad4ae3e-8428-4bf7-b824-4529a029af51
        :END:
 Lectures in calendar and tasks like planning lectures.
-****** NEXT Make schedule
+****** DONE Make schedule
+       - State "DONE"       from "NEXT"       [2013-03-25 Mon 21:01]
        :LOGBOOK:
-       CLOCK: [2013-03-25 Mon 20:15]
+       CLOCK: [2013-03-25 Mon 20:15]--[2013-03-25 Mon 21:01] =>  0:46
        CLOCK: [2013-03-25 Mon 15:21]--[2013-03-25 Mon 15:38] =>  0:17
        :END:
        :PROPERTIES:
