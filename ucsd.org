@@ -387,7 +387,9 @@ Center 119
 <2013-05-31 Fri 13:00-14:00>
 ***** Lecture
 <2013-06-07 Fri 13:00-14:00>
-*** DONE MATH142B Winter 2012					   :MATH142B:
+*** TODO MATH142B Winter 2012					   :MATH142B:
+    - State "TODO"       from "DONE"       [2013-03-26 Tue 15:58] \\
+      Not quite done yet! Two exams need to be graded.
     - State "DONE"       from "TODO"       [2013-03-25 Mon 13:55]
     :LOGBOOK:
     CLOCK: [2013-02-22 Fri 07:36]--[2013-02-22 Fri 07:37] =>  0:01
@@ -1169,6 +1171,10 @@ Put final exam conditions - 2 pages notes allowed.
       :END:
       :PROPERTIES:
       :ID:       a1d053c2-a7bc-43d9-95e3-9128950f3713
+      :END:
+***** NEXT Grade extra finals
+      :LOGBOOK:
+      CLOCK: [2013-03-26 Tue 15:45]
       :END:
 *** DONE MATH150A Fall 2012 					   :MATH150A:
     - State "DONE"       from "TODO"       [2012-12-14 Fri 11:54]
