@@ -1101,7 +1101,10 @@ I need to have my macros available.
   :END:
 ** Organisation
   :LOGBOOK:
-  CLOCK: [2013-03-22 Fri 13:42]
+  CLOCK: [2013-03-25 Mon 15:10]--[2013-03-25 Mon 15:21] =>  0:11
+  CLOCK: [2013-03-25 Mon 13:55]--[2013-03-25 Mon 14:05] =>  0:10
+  CLOCK: [2013-03-25 Mon 12:35]--[2013-03-25 Mon 12:46] =>  0:11
+  CLOCK: [2013-03-23 Sat 20:32]--[2013-03-23 Sat 20:59] =>  0:27
   CLOCK: [2013-03-21 Thu 13:02]--[2013-03-21 Thu 13:03] =>  0:01
   CLOCK: [2013-03-21 Thu 10:16]--[2013-03-21 Thu 10:26] =>  0:10
   CLOCK: [2013-03-20 Wed 14:33]--[2013-03-20 Wed 14:41] =>  0:08
@@ -1454,7 +1457,8 @@ Check how I did last month. I guess the review and plan could probably go togeth
 
 
 ** NEXT Daily Review [0/3]
-   SCHEDULED: <2013-03-21 Thu .+1d/2d>
+   SCHEDULED: <2013-03-24 Sun .+1d/2d>
+   - State "DONE"       from "NEXT"       [2013-03-23 Sat 20:30]
    - State "DONE"       from "NEXT"       [2013-03-20 Wed 21:54]
    - State "DONE"       from "NEXT"       [2013-03-12 Tue 21:32]
    - State "DONE"       from "NEXT"       [2013-02-25 Mon 20:22]
@@ -1487,7 +1491,7 @@ Check how I did last month. I guess the review and plan could probably go togeth
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
    :ID:       616c5bd9-d941-4fcc-8874-2ff3c9e96b4a
-   :LAST_REPEAT: [2013-03-20 Wed 21:54]
+   :LAST_REPEAT: [2013-03-23 Sat 20:30]
    :END:
 
 What to review:
@@ -1505,7 +1509,9 @@ For the following, do I just use the existing diary.org capture template or perh
 - [ ] Write down any thoughts, relections on the day.
 
 ** NEXT Daily Plan [0/2]
-   SCHEDULED: <2013-03-22 Fri .+1d/2d>
+   SCHEDULED: <2013-03-26 Tue .+1d/2d>
+   - State "DONE"       from "NEXT"       [2013-03-25 Mon 20:15]
+   - State "DONE"       from "NEXT"       [2013-03-23 Sat 10:58]
    - State "DONE"       from "NEXT"       [2013-03-21 Thu 09:18]
    - State "DONE"       from "NEXT"       [2013-03-20 Wed 21:54]
    - State "DONE"       from "NEXT"       [2013-03-19 Tue 11:44]
@@ -1568,7 +1574,7 @@ For the following, do I just use the existing diary.org capture template or perh
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
    :ID:       ef051ee0-1113-4604-b355-450a5a47848b
-   :LAST_REPEAT: [2013-03-21 Thu 09:18]
+   :LAST_REPEAT: [2013-03-25 Mon 20:15]
    :END:
 
 - [ ] Check agenda/focus

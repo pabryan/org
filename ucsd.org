@@ -112,6 +112,11 @@ Blank	Grade not reported by instructor
       :PROPERTIES:
       :ID:       971939b9-8590-47d9-b9ab-4df48f7bdcaa
       :END:
+****** NEXT Org structure
+       :PROPERTIES:
+       :ID:       b91f87d9-508b-4276-8683-c03daa6b3ba8
+       :END:
+Lectures in calendar and tasks like planning lectures.
 **** Clocking
 **** Calendar
 *** TODO MATH20C Spring 2013				      :MATH20C:FOCUS:
@@ -122,6 +127,7 @@ Blank	Grade not reported by instructor
     :PROPERTIES:
     :ID:       b7714d68-e3c3-4424-be34-62a9473108e4
     :END:
+[[file:~/working/ucsd/teaching/math20c_spring_2013]]
 **** Notes
 **** Tasks
 ***** TODO Exams
@@ -136,7 +142,8 @@ Blank	Grade not reported by instructor
       :PROPERTIES:
       :ID:       add251e4-5c4e-48d7-bf60-20001c3cbb2b
       :END:
-***** TODO Website
+***** DONE Website
+      - State "DONE"       from "TODO"       [2013-03-25 Mon 12:43]
       :LOGBOOK:
       :END:
       :PROPERTIES:
@@ -163,7 +170,9 @@ Blank	Grade not reported by instructor
        :PROPERTIES:
        :ID:       5f1670be-70cf-4e0c-9db5-630dac608324
        :END:
-****** NEXT Make schedule
+Lectures in calendar and tasks like planning lectures.
+****** DONE Make schedule
+       - State "DONE"       from "NEXT"       [2013-03-25 Mon 15:11]
        :LOGBOOK:
        CLOCK: [2013-03-20 Wed 11:45]--[2013-03-20 Wed 11:46] =>  0:01
        CLOCK: [2013-03-20 Wed 11:44]--[2013-03-20 Wed 11:45] =>  0:01
@@ -259,9 +268,12 @@ WLH 2001
 <2013-06-07 Fri 15:00-16:00>
 
 *** TODO MATH20D Spring 2013				      :MATH20D:FOCUS:
+    :LOGBOOK:
+    :END:
     :PROPERTIES:
     :ID:       01742e1a-c15f-4aab-ada0-59725c2e73e4
     :END:
+[[file:~/working/ucsd/teaching/math20d_spring_2013]]
 **** Notes
 ***** Prerequisites
 Student's have not done linear algebra yet so systems are tricky. However, on the $2x2$ case is needed.
@@ -272,6 +284,14 @@ MATLAB is homework.
 ***** Homework
 ***** Lectures
 ***** Website
+****** NEXT Make website
+       :LOGBOOK:
+       CLOCK: [2013-03-25 Mon 15:38]--[2013-03-25 Mon 16:02] =>  0:24
+       :END:
+       :PROPERTIES:
+       :ID:       56c62e50-94a7-4c6b-8cb9-d0bb22ac3325
+       :END: 
+
 ***** TODO Set up course
       SCHEDULED: <2013-03-18 Mon> DEADLINE: <2013-03-29 Fri>      
       :PROPERTIES:
@@ -281,15 +301,16 @@ MATLAB is homework.
        :PROPERTIES:
        :ID:       5ad4ae3e-8428-4bf7-b824-4529a029af51
        :END:
-****** NEXT Make schedule
+Lectures in calendar and tasks like planning lectures.
+****** DONE Make schedule
+       - State "DONE"       from "NEXT"       [2013-03-25 Mon 21:01]
+       :LOGBOOK:
+       CLOCK: [2013-03-25 Mon 20:15]--[2013-03-25 Mon 21:01] =>  0:46
+       CLOCK: [2013-03-25 Mon 15:21]--[2013-03-25 Mon 15:38] =>  0:17
+       :END:
        :PROPERTIES:
        :ID:       6e61cacf-e959-46f6-9594-a1d237f03753
        :END:
-****** NEXT Make website
-       :PROPERTIES:
-       :ID:       56c62e50-94a7-4c6b-8cb9-d0bb22ac3325
-       :END: 
-
 ***** Misc
 ****** WAITING Find some one to cover for 09/05 and 11/05
        - State "WAITING"    from "NEXT"       [2013-03-20 Wed 10:46] \\
@@ -362,7 +383,8 @@ Center 119
 <2013-05-31 Fri 13:00-14:00>
 ***** Lecture
 <2013-06-07 Fri 13:00-14:00>
-*** TODO MATH142B Winter 2012 					   :MATH142B:
+*** DONE MATH142B Winter 2012					   :MATH142B:
+    - State "DONE"       from "TODO"       [2013-03-25 Mon 13:55]
     :LOGBOOK:
     CLOCK: [2013-02-22 Fri 07:36]--[2013-02-22 Fri 07:37] =>  0:01
     :END:
@@ -1090,7 +1112,8 @@ Center 119
     :END:
 
 **** Tasks
-***** TODO Do Eval
+***** DONE Do Eval
+      - State "DONE"       from "TODO"       [2013-03-25 Mon 13:55]
   :LOGBOOK:
   :END:
       :PROPERTIES:
@@ -1134,8 +1157,12 @@ Center 119
       :END:
 [2013-03-14 Thu 14:18]
 Put final exam conditions - 2 pages notes allowed.
-***** NEXT Enter grades
+***** DONE Enter grades
       DEADLINE: <2013-03-29 Fri>
+      - State "DONE"       from "NEXT"       [2013-03-25 Mon 13:55]
+      :LOGBOOK:
+      CLOCK: [2013-03-25 Mon 12:46]--[2013-03-25 Mon 13:55] =>  1:09
+      :END:
       :PROPERTIES:
       :ID:       a1d053c2-a7bc-43d9-95e3-9128950f3713
       :END:
