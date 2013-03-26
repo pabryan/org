@@ -127,6 +127,7 @@ Lectures in calendar and tasks like planning lectures.
     :PROPERTIES:
     :ID:       b7714d68-e3c3-4424-be34-62a9473108e4
     :END:
+[[file:~/working/ucsd/teaching/math20c_spring_2013]]
 **** Notes
 **** Tasks
 ***** TODO Exams
@@ -272,6 +273,7 @@ WLH 2001
     :PROPERTIES:
     :ID:       01742e1a-c15f-4aab-ada0-59725c2e73e4
     :END:
+[[file:~/working/ucsd/teaching/math20d_spring_2013]]
 **** Notes
 ***** Prerequisites
 Student's have not done linear algebra yet so systems are tricky. However, on the $2x2$ case is needed.
@@ -302,6 +304,7 @@ MATLAB is homework.
 Lectures in calendar and tasks like planning lectures.
 ****** NEXT Make schedule
        :LOGBOOK:
+       CLOCK: [2013-03-25 Mon 20:15]
        CLOCK: [2013-03-25 Mon 15:21]--[2013-03-25 Mon 15:38] =>  0:17
        :END:
        :PROPERTIES:
