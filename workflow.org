@@ -1101,6 +1101,7 @@ I need to have my macros available.
   :END:
 ** Organisation
   :LOGBOOK:
+  CLOCK: [2013-03-27 Wed 09:50]  
   CLOCK: [2013-03-26 Tue 15:30]--[2013-03-26 Tue 15:45] =>  0:15
   CLOCK: [2013-03-26 Tue 12:30]--[2013-03-26 Tue 12:31] =>  0:01
   CLOCK: [2013-03-26 Tue 10:00]--[2013-03-26 Tue 10:45] =>  0:45

@@ -120,7 +120,7 @@ Lectures in calendar and tasks like planning lectures.
 **** Clocking
 **** Calendar
 *** TODO MATH20C Spring 2013				      :MATH20C:FOCUS:
-    :LOGBOOK:
+    :LOGBOOK:    
     CLOCK: [2013-03-12 Tue 12:09]--[2013-03-12 Tue 12:36] =>  0:27
     CLOCK: [2013-03-12 Tue 11:28]--[2013-03-12 Tue 11:33] =>  0:05
     :END:
@@ -197,7 +197,12 @@ Lectures in calendar and tasks like planning lectures.
 **** Lectures
 ***** Location
 WLH 2001
-***** Lecture
+***** Lecture 1.1
+      :LOGBOOK:
+      CLOCK: [2013-03-27 Wed 09:30]--[2013-03-27 Wed 09:45] =>  0:15
+      CLOCK: [2013-03-27 Wed 08:45]--[2013-03-27 Wed 09:10] =>  0:25
+      CLOCK: [2013-03-27 Wed 08:07]--[2013-03-27 Wed 08:30] =>  0:23
+      :END:
 <2013-04-01 Mon 15:00-16:00>
 ***** Lecture
 <2013-04-08 Mon 15:00-16:00>
