@@ -281,7 +281,6 @@
 :Custom_ID: MR834612
 :END:
 [[papers:MR834612][MR834612-paper]]
-
 ****** Proposition
 \begin{prop}
 If $\pd{t} u = \laplace u$ on $(M,\metric)$, then
