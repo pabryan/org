@@ -902,10 +902,12 @@ In particular, put more detail in.
       :PROPERTIES:
       :ID:       810fd351-5f88-415f-9977-906fa1e39681
       :END:
+***** NEXT See if I can use body-only somewhere to export to mutliple files
 ***** TODO Write basic MCF stuff, embeddness preserved etc. from my honour's thesis plus Mat and Charlie's work
       :PROPERTIES:
       :ID:       b5234c61-d118-45c2-b372-eb8e247c8642
       :END:
+
 *** Future
 **** SOMEDAY Submanifold book				       :SUBMANIFOLDS:
 [[file:~/working/academic/research/submanifolds_book]]
@@ -1386,8 +1388,8 @@ Possible dates: 5/4/13, 12/4/13, 19/4/13
    :END:
 <2013-05-11 Sat>--<2013-05-12 Sun>
 [[http://www.math.washington.edu/~lee/PNGS/]]
-*** NEXT Plan PNGS talk
-    SCHEDULED: <2013-03-11 Mon>
+*** TODO Plan PNGS talk
+    SCHEDULED: <2013-03-11 Mon>   
     :PROPERTIES:
     :ID:       ae9f534c-7445-42d4-a56e-a4dcf52119b6
     :END:
@@ -1424,6 +1426,8 @@ Cabo Frio, a beautiful beach city near Rio De Janeiro, from June 3 to June 7, 20
     :PROPERTIES:
     :ID:       33484880-0fc8-4ca4-964b-ac1a47bacceb
     :END:
+**** NEXT Write title and abstract
+**** NEXT Prepare slides
 * Students
   :PROPERTIES:
   :ID:       a93e1471-a035-4d1a-888f-948a3996b9ec
