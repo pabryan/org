@@ -192,31 +192,32 @@ In another direction, suppose you have a family of surfaces in $\RR^3$ flowing b
    :ID:       82bbca25-be33-478e-9fc2-ee07aff558c7
    :END:
 [[file:~/working/academic/research/alphacsf_dist_comp]]
-***** DONE Set up exact tasks
-      - State "DONE"       from "NEXT"       [2012-12-20 Thu 11:42]
-      :LOGBOOK:
-      CLOCK: [2012-12-20 Thu 11:40]--[2012-12-20 Thu 11:42] =>  0:02
-      :END:
-      :PROPERTIES:
-      :ID:       4f722f4b-5144-460f-99ed-df219865ff85
-      :END:
-***** DONE Transcribe variational argument from notebook
-      - State "DONE"       from "NEXT"       [2012-12-19 Wed 11:20]
-      :LOGBOOK:
-      CLOCK: [2012-12-19 Wed 10:02]--[2012-12-19 Wed 11:19] =>  1:17
-      CLOCK: [2012-12-18 Tue 18:10]--[2012-12-18 Tue 18:20] =>  0:10
-      CLOCK: [2012-12-18 Tue 13:26]--[2012-12-18 Tue 15:11] =>  1:45
-      CLOCK: [2012-12-18 Tue 12:10]--[2012-12-18 Tue 12:35] =>  0:25
-      :END:
-      :PROPERTIES:
-      :ID:       e326f80a-7e84-497c-949e-c91f0c47581f
-      :END:
-***** DONE Work out spectral argument
-      - State "DONE"       from "TODO"       [2012-12-18 Tue 20:00]
-      :LOGBOOK:
-      CLOCK: [2012-12-18 Tue 18:20]--[2012-12-18 Tue 20:00] =>  1:40
-      :END:
-***** DONE Rewrite more sophisticated variational argument
+***** Tasks
+****** DONE Set up exact tasks
+       - State "DONE"       from "NEXT"       [2012-12-20 Thu 11:42]
+       :LOGBOOK:
+       CLOCK: [2012-12-20 Thu 11:40]--[2012-12-20 Thu 11:42] =>  0:02
+       :END:
+       :PROPERTIES:
+       :ID:       4f722f4b-5144-460f-99ed-df219865ff85
+       :END:
+****** DONE Transcribe variational argument from notebook
+       - State "DONE"       from "NEXT"       [2012-12-19 Wed 11:20]
+       :LOGBOOK:
+       CLOCK: [2012-12-19 Wed 10:02]--[2012-12-19 Wed 11:19] =>  1:17
+       CLOCK: [2012-12-18 Tue 18:10]--[2012-12-18 Tue 18:20] =>  0:10
+       CLOCK: [2012-12-18 Tue 13:26]--[2012-12-18 Tue 15:11] =>  1:45
+       CLOCK: [2012-12-18 Tue 12:10]--[2012-12-18 Tue 12:35] =>  0:25
+       :END:
+       :PROPERTIES:
+       :ID:       e326f80a-7e84-497c-949e-c91f0c47581f
+       :END:
+****** DONE Work out spectral argument
+       - State "DONE"       from "TODO"       [2012-12-18 Tue 20:00]
+       :LOGBOOK:
+       CLOCK: [2012-12-18 Tue 18:20]--[2012-12-18 Tue 20:00] =>  1:40
+       :END:
+****** DONE Rewrite more sophisticated variational argument
     - State "DONE"       from "NEXT"       [2013-02-19 Tue 08:04]
     :LOGBOOK:
     CLOCK: [2013-02-18 Mon 20:57]--[2013-02-18 Mon 21:45] =>  0:48
@@ -228,48 +229,48 @@ In another direction, suppose you have a family of surfaces in $\RR^3$ flowing b
     :ID:       bd810aa6-d6aa-4b03-8fca-f4fa0f549cdd
     :END: 
 This should not involve partial derivatives by tangent vectors to $S^1$ like in the CSF paper.
-***** DONE Write introduction
-      - State "DONE"       from "NEXT"       [2013-02-21 Thu 12:56]
-      :LOGBOOK:
-      CLOCK: [2013-02-21 Thu 12:51]--[2013-02-21 Thu 12:56] =>  0:05
-      CLOCK: [2013-02-21 Thu 11:55]--[2013-02-21 Thu 12:09] =>  0:14
-      CLOCK: [2013-02-20 Wed 13:30]--[2013-02-20 Wed 13:54] =>  0:24
-      CLOCK: [2013-02-19 Tue 16:36]--[2013-02-19 Tue 17:42] =>  1:06
-      CLOCK: [2013-02-19 Tue 09:47]--[2013-02-19 Tue 10:05] =>  0:18
-      CLOCK: [2013-02-19 Tue 09:29]--[2013-02-19 Tue 10:22] =>  0:53
-      CLOCK: [2013-02-19 Tue 08:06]--[2013-02-19 Tue 08:38] =>  0:32
-      :END:
-      :PROPERTIES:
-      :ID:       f830177c-d9ea-4120-82f6-d0af42487036
-      :END:
-***** DONE Redo computation with correct normalised flow
-      - State "DONE"       from "NEXT"       [2013-02-26 Tue 15:04]
-      :LOGBOOK:
-      CLOCK: [2013-02-26 Tue 13:46]--[2013-02-26 Tue 15:04] =>  1:18
-      CLOCK: [2013-02-26 Tue 12:08]--[2013-02-26 Tue 13:10] =>  1:02
-      CLOCK: [2013-02-26 Tue 11:35]--[2013-02-26 Tue 11:53] =>  0:18
-      CLOCK: [2013-02-25 Mon 20:22]--[2013-02-25 Mon 21:15] =>  0:53
-      CLOCK: [2013-02-25 Mon 13:25]--[2013-02-25 Mon 14:58] =>  1:33
-      CLOCK: [2013-02-25 Mon 12:49]--[2013-02-25 Mon 13:17] =>  0:28
-      CLOCK: [2013-02-25 Mon 11:31]--[2013-02-25 Mon 12:09] =>  0:38
-      CLOCK: [2013-02-22 Fri 15:30]--[2013-02-22 Fri 16:05] =>  0:35
-      CLOCK: [2013-02-21 Thu 14:04]--[2013-02-21 Thu 14:05] =>  0:01
-      CLOCK: [2013-02-21 Thu 12:56]--[2013-02-21 Thu 13:57] =>  1:01
-      :END:
-      :PROPERTIES:
-      :ID:       d012ffc5-cbec-4f58-8df9-91782762eb0d
-      :END:
-***** DONE Change max principle to $Z \geq 0$
-      - State "DONE"       from "NEXT"       [2013-02-26 Tue 21:49]
-      :LOGBOOK:
-      CLOCK: [2013-02-26 Tue 21:02]--[2013-02-26 Tue 21:49] =>  0:47
-      CLOCK: [2013-02-26 Tue 20:37]--[2013-02-26 Tue 20:43] =>  0:06
-      CLOCK: [2013-02-26 Tue 19:25]--[2013-02-26 Tue 20:30] =>  1:05
-      :END:
-      :PROPERTIES:
-      :ID:       76a2b612-5546-4a90-a96b-9acdc9d850b4
-      :END:
-***** DONE Change max principle back to $Z$ improving!
+****** DONE Write introduction
+       - State "DONE"       from "NEXT"       [2013-02-21 Thu 12:56]
+       :LOGBOOK:
+       CLOCK: [2013-02-21 Thu 12:51]--[2013-02-21 Thu 12:56] =>  0:05
+       CLOCK: [2013-02-21 Thu 11:55]--[2013-02-21 Thu 12:09] =>  0:14
+       CLOCK: [2013-02-20 Wed 13:30]--[2013-02-20 Wed 13:54] =>  0:24
+       CLOCK: [2013-02-19 Tue 16:36]--[2013-02-19 Tue 17:42] =>  1:06
+       CLOCK: [2013-02-19 Tue 09:47]--[2013-02-19 Tue 10:05] =>  0:18
+       CLOCK: [2013-02-19 Tue 09:29]--[2013-02-19 Tue 10:22] =>  0:53
+       CLOCK: [2013-02-19 Tue 08:06]--[2013-02-19 Tue 08:38] =>  0:32
+       :END:
+       :PROPERTIES:
+       :ID:       f830177c-d9ea-4120-82f6-d0af42487036
+       :END:
+****** DONE Redo computation with correct normalised flow
+       - State "DONE"       from "NEXT"       [2013-02-26 Tue 15:04]
+       :LOGBOOK:
+       CLOCK: [2013-02-26 Tue 13:46]--[2013-02-26 Tue 15:04] =>  1:18
+       CLOCK: [2013-02-26 Tue 12:08]--[2013-02-26 Tue 13:10] =>  1:02
+       CLOCK: [2013-02-26 Tue 11:35]--[2013-02-26 Tue 11:53] =>  0:18
+       CLOCK: [2013-02-25 Mon 20:22]--[2013-02-25 Mon 21:15] =>  0:53
+       CLOCK: [2013-02-25 Mon 13:25]--[2013-02-25 Mon 14:58] =>  1:33
+       CLOCK: [2013-02-25 Mon 12:49]--[2013-02-25 Mon 13:17] =>  0:28
+       CLOCK: [2013-02-25 Mon 11:31]--[2013-02-25 Mon 12:09] =>  0:38
+       CLOCK: [2013-02-22 Fri 15:30]--[2013-02-22 Fri 16:05] =>  0:35
+       CLOCK: [2013-02-21 Thu 14:04]--[2013-02-21 Thu 14:05] =>  0:01
+       CLOCK: [2013-02-21 Thu 12:56]--[2013-02-21 Thu 13:57] =>  1:01
+       :END:
+       :PROPERTIES:
+       :ID:       d012ffc5-cbec-4f58-8df9-91782762eb0d
+       :END:
+****** DONE Change max principle to $Z \geq 0$
+       - State "DONE"       from "NEXT"       [2013-02-26 Tue 21:49]
+       :LOGBOOK:
+       CLOCK: [2013-02-26 Tue 21:02]--[2013-02-26 Tue 21:49] =>  0:47
+       CLOCK: [2013-02-26 Tue 20:37]--[2013-02-26 Tue 20:43] =>  0:06
+       CLOCK: [2013-02-26 Tue 19:25]--[2013-02-26 Tue 20:30] =>  1:05
+       :END:
+       :PROPERTIES:
+       :ID:       76a2b612-5546-4a90-a96b-9acdc9d850b4
+       :END:
+****** DONE Change max principle back to $Z$ improving!
     - State "DONE"       from "NEXT"       [2013-02-27 Wed 14:34]
     :LOGBOOK:
     CLOCK: [2013-02-27 Wed 14:06]--[2013-02-27 Wed 14:34] =>  0:28
@@ -278,20 +279,20 @@ This should not involve partial derivatives by tangent vectors to $S^1$ like in 
     :ID:       ddad714e-5a0c-45cf-93b0-0d48d52807b2
     :END:
 Provided $\tilde{Z}(0)\geq 0$ I think we can get improving, not just positivity!
-***** NEXT Fix max principle arg
+****** NEXT Fix max principle arg
     :PROPERTIES:
     :ID:       30a42f2c-b09b-4a15-bb7a-cd497710810a
     :END:
 I need to take into account the fact that if $\tilde{Z}_{\epsilon}$ is not increasing, we need not have $Z_{\epsilon} = 0$ somewhere. Do we also necessarily have the correct variational inequalities? Maybe it's not true that it improves!
-***** NEXT Clean up text
-      :LOGBOOK:
-      CLOCK: [2013-03-06 Wed 21:05]--[2013-03-06 Wed 21:32] =>  0:27
-      CLOCK: [2013-03-06 Wed 20:30]--[2013-03-06 Wed 20:56] =>  0:26
-      :END:
-      :PROPERTIES:
-      :ID:       82f38b9b-cfa1-4312-bbec-ef8a1c8afd17
-      :END:
-***** DONE Change to concave comparison.
+****** NEXT Clean up text
+       :LOGBOOK:
+       CLOCK: [2013-03-06 Wed 21:05]--[2013-03-06 Wed 21:32] =>  0:27
+       CLOCK: [2013-03-06 Wed 20:30]--[2013-03-06 Wed 20:56] =>  0:26
+       :END:
+       :PROPERTIES:
+       :ID:       82f38b9b-cfa1-4312-bbec-ef8a1c8afd17
+       :END:
+****** DONE Change to concave comparison.
     - State "DONE"       from "NEXT"       [2013-02-27 Wed 10:41]
     :LOGBOOK:
     CLOCK: [2013-02-27 Wed 10:07]--[2013-02-27 Wed 10:41] =>  0:34
@@ -301,19 +302,22 @@ I need to take into account the fact that if $\tilde{Z}_{\epsilon}$ is not incre
     :ID:       8fc84005-747c-4a3e-addb-cfdc8f0ed2a3
     :END:
 Probably also need concave comparison functions. This should rule out $\tang_p = \tang_q$.
-***** NEXT Find references for previous work
-      :PROPERTIES:
-      :ID:       261f30d2-0431-484a-bfaa-ee318fdb682d
-      :END:
-***** DONE Email Ben about integral estimate and model solutions
-      - State "DONE"       from "NEXT"       [2013-02-21 Thu 11:49]
-      :LOGBOOK:
-      CLOCK: [2013-02-21 Thu 11:44]--[2013-02-21 Thu 11:49] =>  0:05
-      :END:
-      :PROPERTIES:
-      :ID:       5cf57941-4d6b-47ca-9ed3-72ed629e304e
-      :END:
-***** NEXT Estimate integrals for max principle arg
+****** NEXT Find references for previous work
+       :LOGBOOK:
+       CLOCK: [2013-03-27 Wed 10:22]
+       :END:
+       :PROPERTIES:
+       :ID:       261f30d2-0431-484a-bfaa-ee318fdb682d
+       :END:
+****** DONE Email Ben about integral estimate and model solutions
+       - State "DONE"       from "NEXT"       [2013-02-21 Thu 11:49]
+       :LOGBOOK:
+       CLOCK: [2013-02-21 Thu 11:44]--[2013-02-21 Thu 11:49] =>  0:05
+       :END:
+       :PROPERTIES:
+       :ID:       5cf57941-4d6b-47ca-9ed3-72ed629e304e
+       :END:
+****** NEXT Estimate integrals for max principle arg
     :LOGBOOK:
     CLOCK: [2013-02-27 Wed 14:34]--[2013-02-27 Wed 15:24] =>  0:50
     CLOCK: [2012-12-21 Fri 13:30]--[2012-12-21 Fri 15:32] =>  2:02
@@ -327,16 +331,16 @@ Probably also need concave comparison functions. This should rule out $\tang_p =
     :ID:       2d45cee3-0bf7-482b-a10e-9caca013f87e
     :END:
 This requires an estimate of $\int k f(k)$ analogous to Holder's for CSF where $f(k)=k$.
-***** TODO Find comparison solutions
-      :PROPERTIES:
-      :ID:       9c3e45f9-6c61-48b8-b0e1-eaae4fd6514b
-      :END:
-****** NEXT Try similarity soln as in CSF case
+****** TODO Find comparison solutions
+       :PROPERTIES:
+       :ID:       9c3e45f9-6c61-48b8-b0e1-eaae4fd6514b
+       :END:
+******* NEXT Try similarity soln as in CSF case
     :PROPERTIES:
     :ID:       e33f844d-a7a7-406b-bf25-002f515cb649
     :END:
 There is a remark by Ben that our function comes from seeking a similarity solution. Does this work for general $f$?
-***** DONE Work our normalised flow
+****** DONE Work our normalised flow
     :LOGBOOK:
     CLOCK: [2013-02-20 Wed 13:55]--[2013-02-20 Wed 15:05] =>  1:10
     :END:
@@ -345,6 +349,12 @@ There is a remark by Ben that our function comes from seeking a similarity solut
     :ID:       b63d50df-619a-46e9-88f4-460accb55823
     :END:
 My computations were for the un-normalised flow.
+***** Notes
+***** References
+      :PROPERTIES:
+      :ID:       6d4bab87-97ba-49b2-9aeb-2db4c0bb40e2
+      :END:
+[[file:refs.org::#MR2668967][Singularity formation of embedded curves evolving on surfaces by curvature flow]]
 **** TODO Old alpha CSF distance comparison			  :CSF_ALPHA:
    :LOGBOOK:
    CLOCK: [2013-02-20 Wed 13:54]--[2013-02-20 Wed 13:55] =>  0:01
