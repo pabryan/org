@@ -1338,10 +1338,14 @@ Some money available through colloquia funds?
    :ID:       dd8dd55b-3581-44ca-af2a-8d193fc8ed95
    :END:
 [2013-02-04 Mon 10:09]
-*** NEXT Enquire about lecture covering (email frdesk)
+Possible dates: 5/4/13, 12/4/13, 19/4/13
+
+*** DONE Enquire about lecture covering (email frdesk)
+    - State "DONE"       from "NEXT"       [2013-03-26 Tue 20:11]
     :PROPERTIES:
     :ID:       5bbab9e4-6706-40bf-aea7-cb0ef39611d4
     :END:
+*** NEXT Find someone to cover Friday's lecture
 ** SCGAS 2013
    :LOGBOOK:
    CLOCK: [2013-02-24 Sun 08:40]--[2013-02-24 Sun 13:35] =>  4:55
