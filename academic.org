@@ -1427,7 +1427,16 @@ Cabo Frio, a beautiful beach city near Rio De Janeiro, from June 3 to June 7, 20
     :ID:       33484880-0fc8-4ca4-964b-ac1a47bacceb
     :END:
 **** NEXT Write title and abstract
+     :LOGBOOK:
+     CLOCK: [2013-03-26 Tue 20:50]
+     :END:
 **** NEXT Prepare slides
+**** Talk
+     :PROPERTIES:
+     :TITLE: Isoperimetry and Viscosity Solutions in Geometric Evolution Equations
+     :ABSTRACT: This talk will focus on studying geometric evolution equations through isoperimetric quantities. Such quantities are by their nature, extrema which makes them non-smooth in general. However, a degree of regularity remains and the appropriate tool here appears to be the use of viscosity equations. These have been well studied in the context of the closely related Hamilton-Jacobi equation. A particularly relevant technique for studying geometric evolution equations this way (and more generally), originating with Huisken in this context, is to extract as much as possible from the full hessian. I will illustrate this idea by describing joint work with Ben Andrews, extending Huisken's distance comparison theorem for the curve shortening flow in the plane. Time permitting, I will also discuss a sort of higher dimensional analogue - non-collapsing - for mean curvature flow and it's relationship to minimal and CMC surfaces, in particular leading to Brendle's recent proof of the Lawson conjecture for embedded tori in the three-sphere.
+     :END:
+
 * Students
   :PROPERTIES:
   :ID:       a93e1471-a035-4d1a-888f-948a3996b9ec
