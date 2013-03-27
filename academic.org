@@ -1285,6 +1285,27 @@ estimates.
 **** Scanned Notes
 [[id:fd1155e2-d052-4cfb-873d-e577c50321da][Blackboard]]
 
+*** TODO Research Geometric Measure Theory/Geometric Integration Theory
+  :LOGBOOK:
+  CLOCK: [2013-03-26 Tue 13:44]--[2013-03-26 Tue 13:47] =>  0:03
+  :END:
+[2013-03-26 Tue 13:44]
+
+Leon Simon
+Whitney
+Federer, Fleming
+Almgren
+Evans - measure theory
+BV functions - Di Giorgio
+Krantz
+*** TODO Solitions and ancient solutions
+  :LOGBOOK:
+  CLOCK: [2013-03-26 Tue 13:47]--[2013-03-26 Tue 13:49] =>  0:02
+  :END:
+[2013-03-26 Tue 13:47]
+Can we come up with an energy for ancient solutions? Something like the first derivative of curvature then look at minimisers? Are they ancient? We should also get some monotone quantity under the flow. Then we need to characterise the stationary solutions.
+Is Angenent Oval a soliton?
+
 ** Reading
    :PROPERTIES:
    :ID:       3b692ea2-10eb-4586-ae3e-2006ce6a3c0e

@@ -387,7 +387,8 @@ Center 119
 <2013-05-31 Fri 13:00-14:00>
 ***** Lecture
 <2013-06-07 Fri 13:00-14:00>
-*** TODO MATH142B Winter 2012					   :MATH142B:
+*** DONE MATH142B Winter 2012					   :MATH142B:
+    - State "DONE"       from "TODO"       [2013-03-26 Tue 20:29]
     - State "TODO"       from "DONE"       [2013-03-26 Tue 15:58] \\
       Not quite done yet! Two exams need to be graded.
     - State "DONE"       from "TODO"       [2013-03-25 Mon 13:55]
