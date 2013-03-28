@@ -306,7 +306,9 @@ I need to take into account the fact that if $\tilde{Z}_{\epsilon}$ is not incre
 Probably also need concave comparison functions. This should rule out $\tang_p = \tang_q$.
 ****** NEXT Find references for previous work
        :LOGBOOK:
-       CLOCK: [2013-03-27 Wed 15:12]
+       CLOCK: [2013-03-27 Wed 17:08]
+       CLOCK: [2013-03-27 Wed 15:58]--[2013-03-27 Wed 16:32] =>  0:34
+       CLOCK: [2013-03-27 Wed 15:12]--[2013-03-27 Wed 15:49] =>  0:37
        CLOCK: [2013-03-27 Wed 10:22]--[2013-03-27 Wed 10:28] =>  0:06
        :END:
        :PROPERTIES:
@@ -365,6 +367,8 @@ My computations were for the un-normalised flow.
 ]][[file:refs.org::*Curve%20shortening%20makes%20convex%20curves%20circular][Curve shortening makes convex curves circular]]
 [[file:refs.org::*An%20isoperimetric%20inequality%20with%20applications%20to%20curve%20shortening][An isoperimetric inequality with applications to curve shortening]]
 [[file:refs.org::*Isoperimetric%20estimates%20for%20the%20curve%20shrinking%20flow%20in%20the%20plane][Isoperimetric estimates for the curve shrinking flow in the plane]]
+[[file:refs.org::#MR1255274][On affine plane curve evolution]]
+[[file:refs.org::#MR1424425][Contraction of convex hypersurfaces by their affine normal]]
 
 **** TODO Old alpha CSF distance comparison			  :CSF_ALPHA:
    :LOGBOOK:

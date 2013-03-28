@@ -266,6 +266,12 @@
 [[papers:MR1369140][MR1369140-paper]]
 [[bib:MR1369140][MR1369140-bib]]
 
+***** On affine plane curve evolution
+:PROPERTIES:
+:Custom_ID: MR1255274
+:END:
+[[papers:MR1255274][MR1255274-paper]]
+[[bib:MR1255274][MR1255274-bib]]
 **** 58E12   (1980-now) Applications to minimal surfaces (problems in two independent variables) [See also 49Q05]
 ***** Stability of hypersurfaces with constant mean curvature
 :PROPERTIES:
@@ -274,6 +280,13 @@
 [[papers:MR731682][MR731682-paper]]
 [[bib:MR731682][MR731682-bib]]
 [[MR:MR731682][MR731682-MR]]
+**** 58E15   (1973-now) Application to extremal problems in several variables; Yang-Mills functionals [See also 81T13], etc.
+***** Contraction of convex hypersurfaces by their affine normal
+:PROPERTIES:
+:Custom_ID: MR1424425
+:END:
+[[papers:MR1424425][MR1424425-paper]]
+[[bib:MR1424425][MR1424425-bib]]
 *** 58G Partial differential equations on manifolds; differential operators 
 **** 58G11 Heat and other parabolic equation methods
 ***** On the parabolic kernel of the {S}chr\"odinger operator
