@@ -306,6 +306,7 @@ I need to take into account the fact that if $\tilde{Z}_{\epsilon}$ is not incre
 Probably also need concave comparison functions. This should rule out $\tang_p = \tang_q$.
 ****** NEXT Find references for previous work
        :LOGBOOK:
+       CLOCK: [2013-03-27 Wed 20:22]
        CLOCK: [2013-03-27 Wed 17:08]--[2013-03-27 Wed 17:47] =>  0:39
        CLOCK: [2013-03-27 Wed 15:58]--[2013-03-27 Wed 16:32] =>  0:34
        CLOCK: [2013-03-27 Wed 15:12]--[2013-03-27 Wed 15:49] =>  0:37
