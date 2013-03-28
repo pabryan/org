@@ -14,6 +14,14 @@
 :END:
 [[papers:MR2948294][MR2948294-paper]]
 ** 35 Partial differential equations
+*** 35K   (1973-now) Parabolic equations and systems [See also 35Bxx, 35Dxx, 35R30, 35R35, 58J35]
+**** 35K55   (1973-now) Nonlinear parabolic equations
+***** Convex curves moving translationally in the plane
+:PROPERTIES:
+:Custom_ID: MR2225802
+:END:
+[[papers:MR2225802][MR2225802-paper]]
+[[bib:MR2225802][MR2225802-bib]]
 *** 35R Miscellaneous topics
 **** 35R01 Partial differential equations on manifolds
 ***** Local {A}ronson-{B}\'enilan estimates and entropy formulae for porous medium and fast diffusion equations on manifolds
