@@ -66,6 +66,13 @@
 [[bib:MR742856][MR742856-bib]]
 ** 53 (1940-now) Differential geometry [For differential topology, see 57Rxx. For foundational questions of differentiable manifolds, see 58Axx]
 *** 53A Classical differential geometry
+**** 53AXX
+***** Contracting convex immersed closed plane curves with slow speed of curvature
+:PROPERTIES:
+:Custom_ID: MR2946930
+:END:
+[[papers:MR2946930][MR2946930-paper]]
+[[bib:MR2946930][MR2946930-bib]]
 **** 53A10 Minimal surfaces, surfaces with prescribed mean curvature
 ***** On the isoperimetric inequality for minimal surfaces
 :PROPERTIES:
