@@ -264,6 +264,12 @@
 :END:
 [[papers:MR2660457][MR2660457-paper]]
 [[bib:MR2660457][MR2660457-bib]]
+***** Convex curves moving homothetically by negative powers of their curvature
+:PROPERTIES:
+:Custom_ID: MR1793674
+:END:
+[[papers:MR1793674][MR1793674-paper]]
+[[bib:MR1793674][MR1793674-bib]]
 *** 53.04   (1959-1972) Minimal surfaces
 **** Minimal varieties in riemannian manifolds
 :PROPERTIES:
@@ -387,6 +393,12 @@ I should be able to do the Bochner formula similarly using invariant notation, r
 \]
 Here I need to do some more work since $u \mapsto g(\grad u, \grad u)$ is not a map $\RR \to \RR$. It should just come down to metric compatability and changing the order of covariant derivatives to turn up curvature terms.
 
+***** An expansion of convex hypersurfaces
+:PROPERTIES:
+:Custom_ID: MR1085136
+:END:
+[[papers:MR1085136][MR1085136-paper]]
+[[bib:MR1085136][MR1085136-bib]]
 *** 58J partial differential equations on manifolds; differential operators
 **** 58J65 Diffusion processes and stochastic analysis on manifolds
 ***** Liouville theorems for symmetric diffusion operators on complete {R}iemannian manifolds
