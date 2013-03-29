@@ -1730,12 +1730,13 @@ See email from worldscientific4@mail3.wspc.com
    CLOCK: [2013-01-10 Thu 15:00]--[2013-01-10 Thu 16:20] =>  1:20
    CLOCK: [2013-01-08 Tue 10:00]--[2013-01-08 Tue 11:00] =>  1:00
    :END:
-*** Somali's talk
-    :PROPERTIES:
-    :ID:       d507634a-9fe0-4fcb-99df-2f857f6937c9
-    :END:
-    <2013-01-08 Tue 10:00-11:00>
-**** Details
+*** Talks
+**** Somali's talk
+     :PROPERTIES:
+     :ID:       d507634a-9fe0-4fcb-99df-2f857f6937c9
+     :END:
+     <2013-01-08 Tue 10:00-11:00>
+***** Details
 Speaker: Christina Sormani
 Home Institution: CUNY
 Faculty Host: Lei Ni
@@ -1757,12 +1758,12 @@ a lower bound on the volumes of balls. The proof is based upon intrinsic
 flat convergence and a new notion called the sliced filling volume of a
 ball.
 
-*** Christian Baer's talk
-    :PROPERTIES:
-    :ID:       82d5f81e-113b-423e-99a9-16e89378b8af
-    :END:
-    <2013-01-10 Thu 15:00-16:00>
-**** Details
+**** Christian Baer's talk
+     :PROPERTIES:
+     :ID:       82d5f81e-113b-423e-99a9-16e89378b8af
+     :END:
+     <2013-01-10 Thu 15:00-16:00>
+***** Details
 Speaker: Christian Baer
 Home Institution: Universitat Potsdam
 Faculty Host: Lei Ni
@@ -1786,7 +1787,7 @@ condition of geometric formality to the requirement that the length of
 harmonic 2-forms is not too nonconstant, then the manifold must be
 homeomorphic to S^4 or to a connected sum of CP^2s.
 
-*** DONE 20121025 Talk
+**** DONE 20121025 Talk
    - State "DONE"       from "TODO"       [2012-10-31 Wed 10:47]
   CLOCK: [2012-10-17 Wed 10:31]--[2012-10-17 Wed 10:31] =>  0:00
    :PROPERTIES:
@@ -1794,7 +1795,21 @@ homeomorphic to S^4 or to a connected sum of CP^2s.
    :END:
 [2012-10-17 Wed 10:31]
 [[file:~/working/talks/20121025_ucsd_dg_seminar]]
-*** DONE Ask Ben about Inviting ZhiQin Lu to speak at DG conference
+**** Song Sun Seminar
+   :PROPERTIES:
+   :ID:       862184a9-6693-4ccd-8d24-df3af6cc23f7
+   :END:
+    :LOGBOOK:
+    CLOCK: [2012-12-06 Thu 14:56]--[2012-12-06 Thu 16:05] =>  1:09
+    :END:
+<2012-12-06 Thu 15:00-16:00>
+*** DG Seminar
+     :PROPERTIES:
+     :ID:       4c4bf1f0-c81d-4fb5-b970-9da250ba0b4e
+     :END:
+     <2013-04-04 Thu 10:00-11:00 +1w>
+*** Tasks
+**** DONE Ask Ben about Inviting ZhiQin Lu to speak at DG conference
     - State "DONE"       from "SOMEDAY"    [2013-02-01 Fri 11:13]
 [[zlu@math.uci.edu][zlu@math.uci.edu]]
   CLOCK: [2012-10-25 Thu 11:31]--[2012-10-25 Thu 11:32] =>  0:01
@@ -1803,16 +1818,13 @@ homeomorphic to S^4 or to a connected sum of CP^2s.
     :END:
 [2012-10-25 Thu 11:31]
 
-*** DONE Set up reminder for seminar announcement
+**** DONE Set up reminder for seminar announcement
     - State "DONE"       from "NEXT"       [2012-11-03 Sat 18:51]
   CLOCK: [2012-10-26 Fri 15:07]--[2012-10-26 Fri 15:08] =>  0:01
 [2012-10-26 Fri 15:07]
-*** DG Seminar
-    :PROPERTIES:
-    :ID:       4c4bf1f0-c81d-4fb5-b970-9da250ba0b4e
-    :END:
-    <2013-01-31 Thu 10:00-11:00 +1w>
-*** NEXT Send DG seminar email announcement
+**** HOLD Send DG seminar email announcement
+    - State "HOLD"       from "NEXT"       [2013-03-29 Fri 10:43] \\
+      Lei and I will do an informal seminar instead.
     - State "DONE"       from "NEXT"       [2013-02-25 Mon 11:25]
     - State "DONE"       from "NEXT"       [2013-02-16 Sat 20:18]
     - State "DONE"       from "NEXT"       [2013-02-06 Wed 14:48]
@@ -1834,9 +1846,9 @@ homeomorphic to S^4 or to a connected sum of CP^2s.
     :REPEAT_TO_STATE: NEXT
     :LAST_REPEAT: [2013-02-25 Mon 11:25]
     :END: 
-DEADLINE: <2013-03-29 Fri +1w>
+
 [[mailto:seminarstaff@math.ucsd.edu]]
-**** Email tempate
+***** Email tempate
 Speaker: 
 Home Institution: 
 Faculty Host: 
@@ -1848,8 +1860,7 @@ Location: AP&M 7218
 
 Abstract:
 
-
-*** DONE Organise Somali's talk
+**** DONE Organise Somali's talk
     - State "DONE"       from "NEXT"       [2012-12-20 Thu 11:14]
     - State "NEXT"       from "WAITING"    [2012-12-06 Thu 16:02]
   - State "WAITING"    from "TODO"       [2012-11-27 Tue 12:32] \\
@@ -1863,7 +1874,7 @@ Abstract:
 [2012-11-27 Tue 12:32]
 
 [2013-01-08 Tue 10:00-11:00]
-*** DONE Organise Christian Baer's talk
+**** DONE Organise Christian Baer's talk
     - State "DONE"       from "NEXT"       [2012-12-20 Thu 11:05]
     :LOGBOOK:
     CLOCK: [2012-12-20 Thu 10:49]--[2012-12-20 Thu 11:05] =>  0:16
@@ -1874,7 +1885,7 @@ Abstract:
     :END:
 [2013-01-10 Thu 15:00-16:00]
 
-*** DONE Give talk on Brendle's proof of Lawson conjecture
+**** DONE Give talk on Brendle's proof of Lawson conjecture
     - State "DONE"       from "NEXT"       [2013-02-01 Fri 11:13]
    DEADLINE: <2013-01-31 Thu> SCHEDULED: <2013-01-17 Thu>
   :LOGBOOK:
@@ -1912,8 +1923,7 @@ Abstract: In 1970, Lawson conjectured that the only embedded minimal torus in $S
 
 
 
-
-*** DONE Set up seminars from Lei
+**** DONE Set up seminars from Lei
     - State "DONE"       from "TODO"       [2013-01-17 Thu 16:43]
   :LOGBOOK:
   :END:
@@ -1955,7 +1965,7 @@ essential difficulties of the elliptic method previously adapted by
 many people without being able to prove the best possible result. This
 is a joint work with Luen-Fai Tam.
 
-*** TODO Set up seminar creation process
+**** TODO Set up seminar creation process
   :LOGBOOK:
   CLOCK: [2013-01-09 Wed 07:38]--[2013-01-09 Wed 07:41] =>  0:03
   :END:
@@ -1965,14 +1975,12 @@ is a joint work with Luen-Fai Tam.
 [2013-01-09 Wed 07:38]
 
 It should make the relevant web entry and also the email notice. Possibly I could have a capture template with properties which I fill in. Then it can be stored as either a date tree (best I think!) or just one long list? I should be able fill in the relevant details (title, speaker, abstract etc. say in a properties drawer) and then export the web entry and email.
-** Song Sun Seminar
-   :PROPERTIES:
-   :ID:       862184a9-6693-4ccd-8d24-df3af6cc23f7
-   :END:
-    :LOGBOOK:
-    CLOCK: [2012-12-06 Thu 14:56]--[2012-12-06 Thu 16:05] =>  1:09
-    :END:
-<2012-12-06 Thu 15:00-16:00>
+**** TODO Prepare for GMT Seminars
+     SCHEDULED: <2013-03-29 Fri>
+  :LOGBOOK:
+  :END:
+[2013-03-29 Fri 10:46]
+***** NEXT Research materials to cover
 * Tasks
   :PROPERTIES:
   :ID:       08d9cc5d-6f27-41c7-ba22-83f0f18370f3
