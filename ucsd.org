@@ -1670,39 +1670,6 @@ See email from worldscientific4@mail3.wspc.com
   :PROPERTIES:
   :ID:       4a7b50f0-8368-4d3a-bc5d-c0e229fd442f
   :END:
-** DONE Plan DG Seminar
-   - State "DONE"       from "TODO"       [2012-10-29 Mon 10:23]
-   :PROPERTIES:
-   :ID:       4971ad3c-684f-45df-9002-ce8bead60ce7
-   :END:
-*** DONE Prepare talk for next week
-    - State "DONE"       from "NEXT"       [2012-10-24 Wed 13:15]
-  CLOCK: [2012-10-16 Tue 08:28]--[2012-10-16 Tue 08:28] =>  0:00
-    :PROPERTIES:
-    :ID:       b7a65ab1-a46a-43db-8c55-6cd686ce7551
-    :END:
-[2012-10-16 Tue 08:28]
-
-*** DONE Make seminar website
-    :PROPERTIES:
-    :ID:       bbb38675-1efc-4046-8606-3c0f2524dc72
-    :END:
-    - State "DONE"       from "NEXT"       [2012-10-19 Fri 15:24]
-
-*** DONE Advertise seminar
-    :LOGBOOK:
-    :END:
-    - State "DONE"       from "NEXT"       [2012-10-26 Fri 15:01]
-    :PROPERTIES:
-    :ID:       4840471b-e6b2-4079-b67c-7b261adf77d6
-    :END:
-    email math-grad, general math list?
-*** DONE Email Ben, Lei and Jim about possible speakers.
-    - State "DONE"       from "NEXT"       [2012-10-26 Fri 15:01]
-    :PROPERTIES:
-    :ID:       80623a86-568e-416a-85de-895be875f516
-    :END:
-
 ** TODO UCSD DG Seminar   
    :LOGBOOK:
    CLOCK: [2013-02-01 Fri 11:26]--[2013-02-01 Fri 11:27] =>  0:01
@@ -1975,12 +1942,48 @@ is a joint work with Luen-Fai Tam.
 [2013-01-09 Wed 07:38]
 
 It should make the relevant web entry and also the email notice. Possibly I could have a capture template with properties which I fill in. Then it can be stored as either a date tree (best I think!) or just one long list? I should be able fill in the relevant details (title, speaker, abstract etc. say in a properties drawer) and then export the web entry and email.
-**** TODO Prepare for GMT Seminars
+**** DONE Plan DG Seminar
+   - State "DONE"       from "TODO"       [2012-10-29 Mon 10:23]
+   :PROPERTIES:
+   :ID:       4971ad3c-684f-45df-9002-ce8bead60ce7
+   :END:
+*** DONE Prepare talk for next week
+    - State "DONE"       from "NEXT"       [2012-10-24 Wed 13:15]
+  CLOCK: [2012-10-16 Tue 08:28]--[2012-10-16 Tue 08:28] =>  0:00
+    :PROPERTIES:
+    :ID:       b7a65ab1-a46a-43db-8c55-6cd686ce7551
+    :END:
+[2012-10-16 Tue 08:28]
+
+*** DONE Make seminar website
+    :PROPERTIES:
+    :ID:       bbb38675-1efc-4046-8606-3c0f2524dc72
+    :END:
+    - State "DONE"       from "NEXT"       [2012-10-19 Fri 15:24]
+
+*** DONE Advertise seminar
+    :LOGBOOK:
+    :END:
+    - State "DONE"       from "NEXT"       [2012-10-26 Fri 15:01]
+    :PROPERTIES:
+    :ID:       4840471b-e6b2-4079-b67c-7b261adf77d6
+    :END:
+    email math-grad, general math list?
+*** DONE Email Ben, Lei and Jim about possible speakers.
+    - State "DONE"       from "NEXT"       [2012-10-26 Fri 15:01]
+    :PROPERTIES:
+    :ID:       80623a86-568e-416a-85de-895be875f516
+    :END:
+
+*** Informal Seminars
+**** TODO GMT Seminar 						      :FOCUS:
+***** Tasks
+****** TODO Prepare for GMT Seminars
      SCHEDULED: <2013-03-29 Fri>
   :LOGBOOK:
   :END:
 [2013-03-29 Fri 10:46]
-***** NEXT Research materials to cover
+******* NEXT Research materials to cover
 * Tasks
   :PROPERTIES:
   :ID:       08d9cc5d-6f27-41c7-ba22-83f0f18370f3
