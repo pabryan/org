@@ -1285,7 +1285,8 @@ Possible dates: 5/4/13, 12/4/13, 19/4/13
 
 ** TODO PNGS 2013 						      :FOCUS:
    :LOGBOOK:
-   CLOCK: [2013-03-29 Fri 10:46]
+   CLOCK: [2013-03-29 Fri 10:49]
+   CLOCK: [2013-03-29 Fri 10:46]--[2013-03-29 Fri 10:48] =>  0:02
    CLOCK: [2013-03-29 Fri 10:43]--[2013-03-29 Fri 10:45] =>  0:02
    CLOCK: [2013-03-19 Tue 13:49]--[2013-03-19 Tue 13:54] =>  0:05
    :END:
@@ -1350,6 +1351,7 @@ Cabo Frio, a beautiful beach city near Rio De Janeiro, from June 3 to June 7, 20
 
 **** Notes
 See also [[notes:MR2908056][MR2908056-notes]]
+**** NEXT Make outline
 * Students
   :PROPERTIES:
   :ID:       a93e1471-a035-4d1a-888f-948a3996b9ec
