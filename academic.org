@@ -575,31 +575,32 @@ how are they related?
    :ID:       1bc93b81-8423-4598-8297-f0b90aa39aa7
    :END:
 [[file:/home/pbryan/working/academic/research/csf_networks]]
-****** NEXT Write variation of $d$
-       :PROPERTIES:
-       :ID:       a687895f-101a-4cbb-8f21-d2071d209335
-       :END:
-****** TODO Does minima occur near a vertex?
-       :PROPERTIES:
-       :ID:       d748c163-4621-4249-8280-af1f8e24a77d
-       :END:
-****** TODO  Write up CSF for networks defn
-       :PROPERTIES:
-       :ID:       f1f13b51-1bfd-4c47-a349-2b23cc3f212b
-       :END:
-******* NEXT Write CSF Network Defn
+***** NEXT Write variation of $d$
+      :PROPERTIES:
+      :ID:       a687895f-101a-4cbb-8f21-d2071d209335
+      :END:
+***** TODO Does minima occur near a vertex?
+      :PROPERTIES:
+      :ID:       d748c163-4621-4249-8280-af1f8e24a77d
+      :END:
+***** TODO  Write up CSF for networks defn
+      :PROPERTIES:
+      :ID:       f1f13b51-1bfd-4c47-a349-2b23cc3f212b
+      :END:
+****** NEXT Write CSF Network Defn
      :PROPERTIES:
      :ID:       13735f45-9ce8-4099-aee5-7525d951a79f
      :END:
 CSF plus tangent part. Vertices have 120 degree angles
-******* TODO Reference for existence, uniqueness
-       	:PROPERTIES:
-       	:ID:       6b0ff870-ae91-4fa1-a6dd-5baa6cacfe85
-       	:END:
-******* TODO Write explicitly compatibility conditions for vertices
-       	:PROPERTIES:
-       	:ID:       77b07b0a-6ac6-4578-a449-cffcdc69f61d
-       	:END:
+****** TODO Reference for existence, uniqueness
+       :PROPERTIES:
+       :ID:       6b0ff870-ae91-4fa1-a6dd-5baa6cacfe85
+       :END:
+****** TODO Write explicitly compatibility conditions for vertices
+       :PROPERTIES:
+       :ID:       77b07b0a-6ac6-4578-a449-cffcdc69f61d
+       :END:
+***** NEXT Look up Crystaline curvature flow
 **** TODO bakry_emery_levy_gromov		    :LEVY_GROMOV:BAKRY_EMERY:
    :PROPERTIES:
    :ID:       4eb29f73-141b-4ca2-9394-436a9293bdce
@@ -1285,7 +1286,7 @@ Possible dates: 5/4/13, 12/4/13, 19/4/13
 
 ** TODO PNGS 2013 						      :FOCUS:
    :LOGBOOK:
-   CLOCK: [2013-03-29 Fri 10:49]
+   CLOCK: [2013-03-29 Fri 10:49]--[2013-03-29 Fri 10:54] =>  0:05
    CLOCK: [2013-03-29 Fri 10:46]--[2013-03-29 Fri 10:48] =>  0:02
    CLOCK: [2013-03-29 Fri 10:43]--[2013-03-29 Fri 10:45] =>  0:02
    CLOCK: [2013-03-19 Tue 13:49]--[2013-03-19 Tue 13:54] =>  0:05
@@ -1295,8 +1296,11 @@ Possible dates: 5/4/13, 12/4/13, 19/4/13
    :END:
 <2013-05-11 Sat>--<2013-05-12 Sun>
 [[http://www.math.washington.edu/~lee/PNGS/]]
-*** TODO Plan PNGS talk
+*** NEXT Plan PNGS talk
     SCHEDULED: <2013-03-11 Mon>   
+    :LOGBOOK:
+    CLOCK: [2013-03-29 Fri 10:57]
+    :END:
     :PROPERTIES:
     :ID:       ae9f534c-7445-42d4-a56e-a4dcf52119b6
     :END:
