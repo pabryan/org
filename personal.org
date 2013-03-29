@@ -590,6 +590,9 @@ Exercise is daily, the other two can be 1-2 days each.
   SCHEDULED: <2013-03-27 Wed>
   :LOGBOOK:
   :END:
+   :PROPERTIES:
+   :ID:       bbb4156d-841f-4e61-8fa8-0e35542f6df3
+   :END:
 [2013-03-25 Mon 21:09]
 
 * Recreation
@@ -995,11 +998,17 @@ San Diego Bay waterfront, along the Embarcadero from North Harbor Drive to the P
 ** TODO Organise garden
   :LOGBOOK:
   :END:
+   :PROPERTIES:
+   :ID:       8fc701f2-9bd7-45ea-979d-7b09955d2c59
+   :END:
 [2013-03-25 Mon 21:09]
 ** TODO Farming research
   :LOGBOOK:
   CLOCK: [2013-03-25 Mon 21:09]--[2013-03-25 Mon 21:10] =>  0:01
   :END:
+   :PROPERTIES:
+   :ID:       abe56e3e-d948-4e6f-8774-9c5749ff4dd3
+   :END:
 [2013-03-25 Mon 21:09]
 Look into how I'll set up my farm. Prices for livestock for instance is relevant. Also, plans for chook runs and pig runs and info on raising cows. Find out hardware prices also.
 * Outings
@@ -1143,6 +1152,9 @@ Location: 4375 DERRICK DR SAN DIEGO, CA
 Catch the 41. Get off at Derrik Dr. after Claremont Mesa and before Balboa.
 
 ** Driving Test
+   :PROPERTIES:
+   :ID:       b9fbce95-754c-473a-9c66-f7a229ab9ac5
+   :END:
 <2013-03-28 Thu 13:30>
 ** DONE Send Del Sol office car insurance details
   SCHEDULED: <2013-02-14 Thu>

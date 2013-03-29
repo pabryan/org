@@ -794,6 +794,9 @@ In particular, put more detail in.
       :ID:       810fd351-5f88-415f-9977-906fa1e39681
       :END:
 ***** NEXT See if I can use body-only somewhere to export to mutliple files
+      :PROPERTIES:
+      :ID:       b4fbfad7-31a8-4a53-a2e3-d2453bd33390
+      :END:
 ***** TODO Write basic MCF stuff, embeddness preserved etc. from my honour's thesis plus Mat and Charlie's work
       :PROPERTIES:
       :ID:       b5234c61-d118-45c2-b372-eb8e247c8642
@@ -1182,6 +1185,9 @@ estimates.
   :LOGBOOK:
   CLOCK: [2013-03-26 Tue 13:44]--[2013-03-26 Tue 13:47] =>  0:03
   :END:
+    :PROPERTIES:
+    :ID:       a2b27ca7-714c-4bff-98d0-4d376c383818
+    :END:
 [2013-03-26 Tue 13:44]
 
 Leon Simon
@@ -1195,6 +1201,9 @@ Krantz
   :LOGBOOK:
   CLOCK: [2013-03-26 Tue 13:47]--[2013-03-26 Tue 13:49] =>  0:02
   :END:
+    :PROPERTIES:
+    :ID:       456d22c6-d6a3-4476-b6fe-918b91446f6e
+    :END:
 [2013-03-26 Tue 13:47]
 Can we come up with an energy for ancient solutions? Something like the first derivative of curvature then look at minimisers? Are they ancient? We should also get some monotone quantity under the flow. Then we need to characterise the stationary solutions.
 Is Angenent Oval a soliton?
@@ -1260,6 +1269,9 @@ Possible dates: 5/4/13, 12/4/13, 19/4/13
     :ID:       5bbab9e4-6706-40bf-aea7-cb0ef39611d4
     :END:
 *** NEXT Find someone to cover Friday's lecture
+    :PROPERTIES:
+    :ID:       4120e2e3-f085-4a83-8ae9-eafdff535f90
+    :END:
 ** SCGAS 2013
    :LOGBOOK:
    CLOCK: [2013-02-24 Sun 08:40]--[2013-02-24 Sun 13:35] =>  4:55
@@ -1324,6 +1336,9 @@ Cabo Frio, a beautiful beach city near Rio De Janeiro, from June 3 to June 7, 20
       CLOCK: [2013-03-26 Tue 20:50]--[2013-03-26 Tue 21:15] =>  0:25
       :END:
 ***** NEXT Prepare slides
+      :PROPERTIES:
+      :ID:       9475d3d5-4c59-4ed4-b159-03ceaacd6067
+      :END:
 **** Talk
      :PROPERTIES:
      :TITLE: Isoperimetry and Viscosity Solutions in Geometric Evolution Equations
