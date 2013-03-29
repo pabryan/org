@@ -960,6 +960,7 @@ No! Maybe I can use reftex and get it to take me to the entry in refs.org? I can
 
 *** Research Pondering
     :LOGBOOK:
+    CLOCK: [2013-03-29 Fri 12:50]--[2013-03-29 Fri 13:20] =>  0:30
     CLOCK: [2013-03-14 Thu 09:35]--[2013-03-14 Thu 11:20] =>  1:45
     CLOCK: [2013-03-12 Tue 16:25]--[2013-03-12 Tue 16:44] =>  0:19
     CLOCK: [2013-03-12 Tue 10:22]--[2013-03-12 Tue 10:48] =>  0:26
@@ -1302,7 +1303,8 @@ Possible dates: 5/4/13, 12/4/13, 19/4/13
 *** NEXT Plan PNGS talk
     SCHEDULED: <2013-03-11 Mon>   
     :LOGBOOK:
-    CLOCK: [2013-03-29 Fri 11:28]
+    CLOCK: [2013-03-29 Fri 13:24]--[2013-03-29 Fri 13:25] =>  0:01
+    CLOCK: [2013-03-29 Fri 11:28]--[2013-03-29 Fri 12:01] =>  0:33
     CLOCK: [2013-03-29 Fri 10:57]--[2013-03-29 Fri 11:15] =>  0:18
     :END:
     :PROPERTIES:
