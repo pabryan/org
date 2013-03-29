@@ -583,7 +583,7 @@ how are they related?
       :PROPERTIES:
       :ID:       d748c163-4621-4249-8280-af1f8e24a77d
       :END:
-***** TODO  Write up CSF for networks defn
+***** TODO Write up CSF for networks defn
       :PROPERTIES:
       :ID:       f1f13b51-1bfd-4c47-a349-2b23cc3f212b
       :END:
@@ -601,6 +601,9 @@ CSF plus tangent part. Vertices have 120 degree angles
        :ID:       77b07b0a-6ac6-4578-a449-cffcdc69f61d
        :END:
 ***** NEXT Look up Crystaline curvature flow
+This is some sort of curvature flow for polygons - exactly what I want to look at!
+***** NEXT Work out vertex compatability conditions
+At the vertex, we have a condition on the tangents and normals so that the endpoints of the arcs remain coincident.
 **** TODO bakry_emery_levy_gromov		    :LEVY_GROMOV:BAKRY_EMERY:
    :PROPERTIES:
    :ID:       4eb29f73-141b-4ca2-9394-436a9293bdce
@@ -1299,7 +1302,8 @@ Possible dates: 5/4/13, 12/4/13, 19/4/13
 *** NEXT Plan PNGS talk
     SCHEDULED: <2013-03-11 Mon>   
     :LOGBOOK:
-    CLOCK: [2013-03-29 Fri 10:57]
+    CLOCK: [2013-03-29 Fri 11:28]
+    CLOCK: [2013-03-29 Fri 10:57]--[2013-03-29 Fri 11:15] =>  0:18
     :END:
     :PROPERTIES:
     :ID:       ae9f534c-7445-42d4-a56e-a4dcf52119b6
