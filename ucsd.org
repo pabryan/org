@@ -185,6 +185,8 @@ Lectures in calendar and tasks like planning lectures.
        :PROPERTIES:
        :ID:       ff8a1dd5-bb2a-45c8-b0e4-b6e15e93778f
        :END:
+***** TODO Quizzes
+****** NEXT Prepare quizzes
 ***** Misc
 ****** DONE Find some one to cover for 09/05 and 11/05
        - State "DONE"       from "WAITING"    [2013-03-20 Wed 14:33]
@@ -293,10 +295,11 @@ LEDDN AUD
 <2013-05-24 Fri 10:00-10:50> 
 <2013-05-27 Mon 10:00-10:50> 
 **** Tasks
-***** Exams
-***** Homework
-***** Lectures
-***** Website
+***** TODO Exams
+***** TODO Homework
+***** TODO Lectures
+***** DONE Website
+      - State "DONE"       from ""           [2013-03-29 Fri 14:19]
 ****** NEXT Make website
        :LOGBOOK:
        CLOCK: [2013-03-25 Mon 15:38]--[2013-03-25 Mon 16:02] =>  0:24
@@ -324,6 +327,8 @@ Lectures in calendar and tasks like planning lectures.
        :PROPERTIES:
        :ID:       6e61cacf-e959-46f6-9594-a1d237f03753
        :END:
+***** TODO Quizzes
+****** NEXT Prepare quizzes
 ***** Misc
 ****** WAITING Find some one to cover for 09/05 and 11/05
        - State "WAITING"    from "NEXT"       [2013-03-20 Wed 10:46] \\
@@ -331,6 +336,7 @@ Lectures in calendar and tasks like planning lectures.
        :PROPERTIES:
        :ID:       c0e6c741-3695-4f33-b08d-2084e46807fd
        :END:
+
 **** Clocking
 ***** Admin
 ***** Lecturing
@@ -1984,6 +1990,9 @@ It should make the relevant web entry and also the email notice. Possibly I coul
   :END:
 [2013-03-29 Fri 10:46]
 ******* NEXT Research materials to cover
+	:LOGBOOK:
+	CLOCK: [2013-03-29 Fri 14:13]--[2013-03-29 Fri 14:19] =>  0:06
+	:END:
 * Tasks
   :PROPERTIES:
   :ID:       08d9cc5d-6f27-41c7-ba22-83f0f18370f3

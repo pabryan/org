@@ -1300,9 +1300,10 @@ Possible dates: 5/4/13, 12/4/13, 19/4/13
    :END:
 <2013-05-11 Sat>--<2013-05-12 Sun>
 [[http://www.math.washington.edu/~lee/PNGS/]]
-*** NEXT Plan PNGS talk
+*** NEXT Write PNGS talk
     SCHEDULED: <2013-03-11 Mon>   
     :LOGBOOK:
+    CLOCK: [2013-03-29 Fri 13:55]
     CLOCK: [2013-03-29 Fri 13:24]--[2013-03-29 Fri 13:25] =>  0:01
     CLOCK: [2013-03-29 Fri 11:28]--[2013-03-29 Fri 12:01] =>  0:33
     CLOCK: [2013-03-29 Fri 10:57]--[2013-03-29 Fri 11:15] =>  0:18
@@ -1310,11 +1311,12 @@ Possible dates: 5/4/13, 12/4/13, 19/4/13
     :PROPERTIES:
     :ID:       ae9f534c-7445-42d4-a56e-a4dcf52119b6
     :END:
-*** NEXT Ask Lei/FRdesk about someone covering lectures
+*** DONE Ask Lei/FRdesk about someone covering lectures
+    - State "DONE"       from "NEXT"       [2013-03-29 Fri 14:12]
     :PROPERTIES:
     :ID:       f8183fb0-8a49-4b76-95c3-1bd4eef6cdd3
     :END:
-*** Talk
+*** Notes
 $Z$ is some quantity like distance, non-collapsing, whatever. $\bar{Z}$ is the extrema over some range; for non-collaping $Z=Z(x,y)$, $\bar{Z}(x)=\sup_y Z(x,y)$. For $Z=d$, $\bar{Z}$ is the sup over $x$ and $y$. These will be over non-compact $M\times M - D$ with $D$ the diagonal. More generally, $Z$ may only be defined away from the cut locus. 
 
 At the extrema, because of the vanishing of the first variation, the laplacian of $\bar{Z}$ turns into something like $\pd{x_i} \pm \pd{y_i}$. So a viscosity equation for $\laplace \bar{Z}$ relates to this other operator on $Z$. It might be worthwhile comparing the Hessians of $\bar{Z}$ and $Z$. The other important ingredient here is blowing up the diagonal to get a compact manifold. 
