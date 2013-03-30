@@ -189,10 +189,7 @@ Lectures in calendar and tasks like planning lectures.
       :PROPERTIES:
       :ID:       c3f82562-bbbe-44fd-a349-ffcf6d298b68
       :END:
-****** NEXT Prepare quizzes
-       :PROPERTIES:
-       :ID:       55ecc201-4a59-4734-b1bd-54fbe485f833
-       :END:
+
 ***** Misc
 ****** DONE Find some one to cover for 09/05 and 11/05
        - State "DONE"       from "WAITING"    [2013-03-20 Wed 14:33]
@@ -305,6 +302,7 @@ LEDDN AUD
       :PROPERTIES:
       :ID:       98e6c66c-784a-452c-b0e8-99e82167c920
       :END:
+
 ***** TODO Homework
       :PROPERTIES:
       :ID:       86ae8295-6ad6-4086-b111-58ce9411b01b
@@ -346,10 +344,7 @@ Lectures in calendar and tasks like planning lectures.
       :PROPERTIES:
       :ID:       0792ac93-0579-4e45-984a-3ca928796870
       :END:
-****** NEXT Prepare quizzes
-       :PROPERTIES:
-       :ID:       1f82be3c-b7e7-4c6b-84d3-cb93fbd519e3
-       :END:
+
 ***** Misc
 ****** WAITING Find some one to cover for 09/05 and 11/05
        - State "WAITING"    from "NEXT"       [2013-03-20 Wed 10:46] \\
@@ -2007,23 +2002,25 @@ It should make the relevant web entry and also the email notice. Possibly I coul
      :PROPERTIES:
      :ID:       4b241f45-ab31-446c-9479-9983ce98ce2a
      :END:
+
 ***** Tasks
 ****** TODO Prepare for GMT Seminars
-     SCHEDULED: <2013-03-29 Fri>
-  :LOGBOOK:
-  :END:
+       SCHEDULED: <2013-03-29 Fri>    
        :PROPERTIES:
        :ID:       6960b782-5dcc-4ac7-a263-fdd94523ccd1
        :END:
-[2013-03-29 Fri 10:46]
+       [2013-03-29 Fri 10:46]
 ******* NEXT Research materials to cover
-	:LOGBOOK:
-	CLOCK: [2013-03-30 Sat 10:41]--[2013-03-30 Sat 11:41] =>  1:00
-	CLOCK: [2013-03-29 Fri 14:13]--[2013-03-29 Fri 14:19] =>  0:06
-	:END:
-	:PROPERTIES:
-	:ID:       74137f5c-b65b-4bd2-a4a4-8083ea077c57
-	:END:
+       :LOGBOOK:
+       CLOCK: [2013-03-30 Sat 10:41]--[2013-03-30 Sat 11:41] =>  1:00
+       CLOCK: [2013-03-29 Fri 14:13]--[2013-03-29 Fri 14:19] =>  0:06
+       :END:
+       :PROPERTIES:
+       :ID:       74137f5c-b65b-4bd2-a4a4-8083ea077c57
+       :END:
+******* Notes
+Books by Whitney, Krantz, Federer, Morgan, Evans.
+
 * Tasks
   :PROPERTIES:
   :ID:       08d9cc5d-6f27-41c7-ba22-83f0f18370f3
