@@ -129,6 +129,10 @@ Lectures in calendar and tasks like planning lectures.
     :END:
 [[file:~/working/ucsd/teaching/math20c_spring_2013]]
 **** Notes
+***** Cover Bo Li's Lectures
+CENTR 115
+<2013-05-01 Wed 11:00-11:50>
+<2013-05-03 Fri 11:00-11:50>
 **** Tasks
 ***** TODO Exams
       :PROPERTIES:
@@ -180,6 +184,14 @@ Lectures in calendar and tasks like planning lectures.
        :END:
        :PROPERTIES:
        :ID:       ff8a1dd5-bb2a-45c8-b0e4-b6e15e93778f
+       :END:
+***** TODO Quizzes
+      :PROPERTIES:
+      :ID:       c3f82562-bbbe-44fd-a349-ffcf6d298b68
+      :END:
+****** NEXT Prepare quizzes
+       :PROPERTIES:
+       :ID:       55ecc201-4a59-4734-b1bd-54fbe485f833
        :END:
 ***** Misc
 ****** DONE Find some one to cover for 09/05 and 11/05
@@ -284,11 +296,25 @@ WLH 2001
 Student's have not done linear algebra yet so systems are tricky. However, on the $2x2$ case is needed.
 ***** MATLAB
 MATLAB is homework.
+***** Cover Caleb Meier's Lectures
+LEDDN AUD
+<2013-05-24 Fri 10:00-10:50> 
+<2013-05-27 Mon 10:00-10:50> 
 **** Tasks
-***** Exams
-***** Homework
-***** Lectures
-***** Website
+***** TODO Exams
+      :PROPERTIES:
+      :ID:       98e6c66c-784a-452c-b0e8-99e82167c920
+      :END:
+***** TODO Homework
+      :PROPERTIES:
+      :ID:       86ae8295-6ad6-4086-b111-58ce9411b01b
+      :END:
+***** TODO Lectures
+      :PROPERTIES:
+      :ID:       d02cf488-455c-4c17-bc70-9a36a44ccefb
+      :END:
+***** DONE Website
+      - State "DONE"       from ""           [2013-03-29 Fri 14:19]
 ****** NEXT Make website
        :LOGBOOK:
        CLOCK: [2013-03-25 Mon 15:38]--[2013-03-25 Mon 16:02] =>  0:24
@@ -316,6 +342,14 @@ Lectures in calendar and tasks like planning lectures.
        :PROPERTIES:
        :ID:       6e61cacf-e959-46f6-9594-a1d237f03753
        :END:
+***** TODO Quizzes
+      :PROPERTIES:
+      :ID:       0792ac93-0579-4e45-984a-3ca928796870
+      :END:
+****** NEXT Prepare quizzes
+       :PROPERTIES:
+       :ID:       1f82be3c-b7e7-4c6b-84d3-cb93fbd519e3
+       :END:
 ***** Misc
 ****** WAITING Find some one to cover for 09/05 and 11/05
        - State "WAITING"    from "NEXT"       [2013-03-20 Wed 10:46] \\
@@ -323,6 +357,7 @@ Lectures in calendar and tasks like planning lectures.
        :PROPERTIES:
        :ID:       c0e6c741-3695-4f33-b08d-2084e46807fd
        :END:
+
 **** Clocking
 ***** Admin
 ***** Lecturing
@@ -1662,39 +1697,6 @@ See email from worldscientific4@mail3.wspc.com
   :PROPERTIES:
   :ID:       4a7b50f0-8368-4d3a-bc5d-c0e229fd442f
   :END:
-** DONE Plan DG Seminar
-   - State "DONE"       from "TODO"       [2012-10-29 Mon 10:23]
-   :PROPERTIES:
-   :ID:       4971ad3c-684f-45df-9002-ce8bead60ce7
-   :END:
-*** DONE Prepare talk for next week
-    - State "DONE"       from "NEXT"       [2012-10-24 Wed 13:15]
-  CLOCK: [2012-10-16 Tue 08:28]--[2012-10-16 Tue 08:28] =>  0:00
-    :PROPERTIES:
-    :ID:       b7a65ab1-a46a-43db-8c55-6cd686ce7551
-    :END:
-[2012-10-16 Tue 08:28]
-
-*** DONE Make seminar website
-    :PROPERTIES:
-    :ID:       bbb38675-1efc-4046-8606-3c0f2524dc72
-    :END:
-    - State "DONE"       from "NEXT"       [2012-10-19 Fri 15:24]
-
-*** DONE Advertise seminar
-    :LOGBOOK:
-    :END:
-    - State "DONE"       from "NEXT"       [2012-10-26 Fri 15:01]
-    :PROPERTIES:
-    :ID:       4840471b-e6b2-4079-b67c-7b261adf77d6
-    :END:
-    email math-grad, general math list?
-*** DONE Email Ben, Lei and Jim about possible speakers.
-    - State "DONE"       from "NEXT"       [2012-10-26 Fri 15:01]
-    :PROPERTIES:
-    :ID:       80623a86-568e-416a-85de-895be875f516
-    :END:
-
 ** TODO UCSD DG Seminar   
    :LOGBOOK:
    CLOCK: [2013-02-01 Fri 11:26]--[2013-02-01 Fri 11:27] =>  0:01
@@ -1722,12 +1724,13 @@ See email from worldscientific4@mail3.wspc.com
    CLOCK: [2013-01-10 Thu 15:00]--[2013-01-10 Thu 16:20] =>  1:20
    CLOCK: [2013-01-08 Tue 10:00]--[2013-01-08 Tue 11:00] =>  1:00
    :END:
-*** Somali's talk
-    :PROPERTIES:
-    :ID:       d507634a-9fe0-4fcb-99df-2f857f6937c9
-    :END:
-    <2013-01-08 Tue 10:00-11:00>
-**** Details
+*** Talks
+**** Somali's talk
+     :PROPERTIES:
+     :ID:       d507634a-9fe0-4fcb-99df-2f857f6937c9
+     :END:
+     <2013-01-08 Tue 10:00-11:00>
+***** Details
 Speaker: Christina Sormani
 Home Institution: CUNY
 Faculty Host: Lei Ni
@@ -1749,12 +1752,12 @@ a lower bound on the volumes of balls. The proof is based upon intrinsic
 flat convergence and a new notion called the sliced filling volume of a
 ball.
 
-*** Christian Baer's talk
-    :PROPERTIES:
-    :ID:       82d5f81e-113b-423e-99a9-16e89378b8af
-    :END:
-    <2013-01-10 Thu 15:00-16:00>
-**** Details
+**** Christian Baer's talk
+     :PROPERTIES:
+     :ID:       82d5f81e-113b-423e-99a9-16e89378b8af
+     :END:
+     <2013-01-10 Thu 15:00-16:00>
+***** Details
 Speaker: Christian Baer
 Home Institution: Universitat Potsdam
 Faculty Host: Lei Ni
@@ -1778,7 +1781,7 @@ condition of geometric formality to the requirement that the length of
 harmonic 2-forms is not too nonconstant, then the manifold must be
 homeomorphic to S^4 or to a connected sum of CP^2s.
 
-*** DONE 20121025 Talk
+**** DONE 20121025 Talk
    - State "DONE"       from "TODO"       [2012-10-31 Wed 10:47]
   CLOCK: [2012-10-17 Wed 10:31]--[2012-10-17 Wed 10:31] =>  0:00
    :PROPERTIES:
@@ -1786,7 +1789,21 @@ homeomorphic to S^4 or to a connected sum of CP^2s.
    :END:
 [2012-10-17 Wed 10:31]
 [[file:~/working/talks/20121025_ucsd_dg_seminar]]
-*** DONE Ask Ben about Inviting ZhiQin Lu to speak at DG conference
+**** Song Sun Seminar
+   :PROPERTIES:
+   :ID:       862184a9-6693-4ccd-8d24-df3af6cc23f7
+   :END:
+    :LOGBOOK:
+    CLOCK: [2012-12-06 Thu 14:56]--[2012-12-06 Thu 16:05] =>  1:09
+    :END:
+<2012-12-06 Thu 15:00-16:00>
+*** DG Seminar
+     :PROPERTIES:
+     :ID:       4c4bf1f0-c81d-4fb5-b970-9da250ba0b4e
+     :END:
+     <2013-04-04 Thu 10:00-11:00 +1w>
+*** Tasks
+**** DONE Ask Ben about Inviting ZhiQin Lu to speak at DG conference
     - State "DONE"       from "SOMEDAY"    [2013-02-01 Fri 11:13]
 [[zlu@math.uci.edu][zlu@math.uci.edu]]
   CLOCK: [2012-10-25 Thu 11:31]--[2012-10-25 Thu 11:32] =>  0:01
@@ -1795,16 +1812,13 @@ homeomorphic to S^4 or to a connected sum of CP^2s.
     :END:
 [2012-10-25 Thu 11:31]
 
-*** DONE Set up reminder for seminar announcement
+**** DONE Set up reminder for seminar announcement
     - State "DONE"       from "NEXT"       [2012-11-03 Sat 18:51]
   CLOCK: [2012-10-26 Fri 15:07]--[2012-10-26 Fri 15:08] =>  0:01
 [2012-10-26 Fri 15:07]
-*** DG Seminar
-    :PROPERTIES:
-    :ID:       4c4bf1f0-c81d-4fb5-b970-9da250ba0b4e
-    :END:
-    <2013-01-31 Thu 10:00-11:00 +1w>
-*** NEXT Send DG seminar email announcement
+**** HOLD Send DG seminar email announcement
+    - State "HOLD"       from "NEXT"       [2013-03-29 Fri 10:43] \\
+      Lei and I will do an informal seminar instead.
     - State "DONE"       from "NEXT"       [2013-02-25 Mon 11:25]
     - State "DONE"       from "NEXT"       [2013-02-16 Sat 20:18]
     - State "DONE"       from "NEXT"       [2013-02-06 Wed 14:48]
@@ -1826,9 +1840,9 @@ homeomorphic to S^4 or to a connected sum of CP^2s.
     :REPEAT_TO_STATE: NEXT
     :LAST_REPEAT: [2013-02-25 Mon 11:25]
     :END: 
-DEADLINE: <2013-03-29 Fri +1w>
+
 [[mailto:seminarstaff@math.ucsd.edu]]
-**** Email tempate
+***** Email tempate
 Speaker: 
 Home Institution: 
 Faculty Host: 
@@ -1840,8 +1854,7 @@ Location: AP&M 7218
 
 Abstract:
 
-
-*** DONE Organise Somali's talk
+**** DONE Organise Somali's talk
     - State "DONE"       from "NEXT"       [2012-12-20 Thu 11:14]
     - State "NEXT"       from "WAITING"    [2012-12-06 Thu 16:02]
   - State "WAITING"    from "TODO"       [2012-11-27 Tue 12:32] \\
@@ -1855,7 +1868,7 @@ Abstract:
 [2012-11-27 Tue 12:32]
 
 [2013-01-08 Tue 10:00-11:00]
-*** DONE Organise Christian Baer's talk
+**** DONE Organise Christian Baer's talk
     - State "DONE"       from "NEXT"       [2012-12-20 Thu 11:05]
     :LOGBOOK:
     CLOCK: [2012-12-20 Thu 10:49]--[2012-12-20 Thu 11:05] =>  0:16
@@ -1866,7 +1879,7 @@ Abstract:
     :END:
 [2013-01-10 Thu 15:00-16:00]
 
-*** DONE Give talk on Brendle's proof of Lawson conjecture
+**** DONE Give talk on Brendle's proof of Lawson conjecture
     - State "DONE"       from "NEXT"       [2013-02-01 Fri 11:13]
    DEADLINE: <2013-01-31 Thu> SCHEDULED: <2013-01-17 Thu>
   :LOGBOOK:
@@ -1904,8 +1917,7 @@ Abstract: In 1970, Lawson conjectured that the only embedded minimal torus in $S
 
 
 
-
-*** DONE Set up seminars from Lei
+**** DONE Set up seminars from Lei
     - State "DONE"       from "TODO"       [2013-01-17 Thu 16:43]
   :LOGBOOK:
   :END:
@@ -1947,7 +1959,7 @@ essential difficulties of the elliptic method previously adapted by
 many people without being able to prove the best possible result. This
 is a joint work with Luen-Fai Tam.
 
-*** TODO Set up seminar creation process
+**** TODO Set up seminar creation process
   :LOGBOOK:
   CLOCK: [2013-01-09 Wed 07:38]--[2013-01-09 Wed 07:41] =>  0:03
   :END:
@@ -1957,14 +1969,60 @@ is a joint work with Luen-Fai Tam.
 [2013-01-09 Wed 07:38]
 
 It should make the relevant web entry and also the email notice. Possibly I could have a capture template with properties which I fill in. Then it can be stored as either a date tree (best I think!) or just one long list? I should be able fill in the relevant details (title, speaker, abstract etc. say in a properties drawer) and then export the web entry and email.
-** Song Sun Seminar
+**** DONE Plan DG Seminar
+   - State "DONE"       from "TODO"       [2012-10-29 Mon 10:23]
    :PROPERTIES:
-   :ID:       862184a9-6693-4ccd-8d24-df3af6cc23f7
+   :ID:       4971ad3c-684f-45df-9002-ce8bead60ce7
    :END:
-    :LOGBOOK:
-    CLOCK: [2012-12-06 Thu 14:56]--[2012-12-06 Thu 16:05] =>  1:09
+*** DONE Prepare talk for next week
+    - State "DONE"       from "NEXT"       [2012-10-24 Wed 13:15]
+  CLOCK: [2012-10-16 Tue 08:28]--[2012-10-16 Tue 08:28] =>  0:00
+    :PROPERTIES:
+    :ID:       b7a65ab1-a46a-43db-8c55-6cd686ce7551
     :END:
-<2012-12-06 Thu 15:00-16:00>
+[2012-10-16 Tue 08:28]
+
+*** DONE Make seminar website
+    :PROPERTIES:
+    :ID:       bbb38675-1efc-4046-8606-3c0f2524dc72
+    :END:
+    - State "DONE"       from "NEXT"       [2012-10-19 Fri 15:24]
+
+*** DONE Advertise seminar
+    :LOGBOOK:
+    :END:
+    - State "DONE"       from "NEXT"       [2012-10-26 Fri 15:01]
+    :PROPERTIES:
+    :ID:       4840471b-e6b2-4079-b67c-7b261adf77d6
+    :END:
+    email math-grad, general math list?
+*** DONE Email Ben, Lei and Jim about possible speakers.
+    - State "DONE"       from "NEXT"       [2012-10-26 Fri 15:01]
+    :PROPERTIES:
+    :ID:       80623a86-568e-416a-85de-895be875f516
+    :END:
+
+*** Informal Seminars
+**** TODO GMT Seminar 						      :FOCUS:
+     :PROPERTIES:
+     :ID:       4b241f45-ab31-446c-9479-9983ce98ce2a
+     :END:
+***** Tasks
+****** TODO Prepare for GMT Seminars
+     SCHEDULED: <2013-03-29 Fri>
+  :LOGBOOK:
+  :END:
+       :PROPERTIES:
+       :ID:       6960b782-5dcc-4ac7-a263-fdd94523ccd1
+       :END:
+[2013-03-29 Fri 10:46]
+******* NEXT Research materials to cover
+	:LOGBOOK:
+	CLOCK: [2013-03-29 Fri 14:13]--[2013-03-29 Fri 14:19] =>  0:06
+	:END:
+	:PROPERTIES:
+	:ID:       74137f5c-b65b-4bd2-a4a4-8083ea077c57
+	:END:
 * Tasks
   :PROPERTIES:
   :ID:       08d9cc5d-6f27-41c7-ba22-83f0f18370f3

@@ -575,31 +575,41 @@ how are they related?
    :ID:       1bc93b81-8423-4598-8297-f0b90aa39aa7
    :END:
 [[file:/home/pbryan/working/academic/research/csf_networks]]
-****** NEXT Write variation of $d$
-       :PROPERTIES:
-       :ID:       a687895f-101a-4cbb-8f21-d2071d209335
-       :END:
-****** TODO Does minima occur near a vertex?
-       :PROPERTIES:
-       :ID:       d748c163-4621-4249-8280-af1f8e24a77d
-       :END:
-****** TODO  Write up CSF for networks defn
-       :PROPERTIES:
-       :ID:       f1f13b51-1bfd-4c47-a349-2b23cc3f212b
-       :END:
-******* NEXT Write CSF Network Defn
+***** NEXT Write variation of $d$
+      :PROPERTIES:
+      :ID:       a687895f-101a-4cbb-8f21-d2071d209335
+      :END:
+***** TODO Does minima occur near a vertex?
+      :PROPERTIES:
+      :ID:       d748c163-4621-4249-8280-af1f8e24a77d
+      :END:
+***** TODO Write up CSF for networks defn
+      :PROPERTIES:
+      :ID:       f1f13b51-1bfd-4c47-a349-2b23cc3f212b
+      :END:
+****** NEXT Write CSF Network Defn
      :PROPERTIES:
      :ID:       13735f45-9ce8-4099-aee5-7525d951a79f
      :END:
 CSF plus tangent part. Vertices have 120 degree angles
-******* TODO Reference for existence, uniqueness
-       	:PROPERTIES:
-       	:ID:       6b0ff870-ae91-4fa1-a6dd-5baa6cacfe85
-       	:END:
-******* TODO Write explicitly compatibility conditions for vertices
-       	:PROPERTIES:
-       	:ID:       77b07b0a-6ac6-4578-a449-cffcdc69f61d
-       	:END:
+****** TODO Reference for existence, uniqueness
+       :PROPERTIES:
+       :ID:       6b0ff870-ae91-4fa1-a6dd-5baa6cacfe85
+       :END:
+****** TODO Write explicitly compatibility conditions for vertices
+       :PROPERTIES:
+       :ID:       77b07b0a-6ac6-4578-a449-cffcdc69f61d
+       :END:
+***** NEXT Look up Crystaline curvature flow
+      :PROPERTIES:
+      :ID:       57771c52-97b4-4fbe-a318-287ca8ab809d
+      :END:
+This is some sort of curvature flow for polygons - exactly what I want to look at!
+***** NEXT Work out vertex compatability conditions
+      :PROPERTIES:
+      :ID:       03c8e12b-dffa-4aa1-bff4-567f7a9218ef
+      :END:
+At the vertex, we have a condition on the tangents and normals so that the endpoints of the arcs remain coincident.
 **** TODO bakry_emery_levy_gromov		    :LEVY_GROMOV:BAKRY_EMERY:
    :PROPERTIES:
    :ID:       4eb29f73-141b-4ca2-9394-436a9293bdce
@@ -956,6 +966,7 @@ No! Maybe I can use reftex and get it to take me to the entry in refs.org? I can
 
 *** Research Pondering
     :LOGBOOK:
+    CLOCK: [2013-03-29 Fri 12:50]--[2013-03-29 Fri 13:20] =>  0:30
     CLOCK: [2013-03-14 Thu 09:35]--[2013-03-14 Thu 11:20] =>  1:45
     CLOCK: [2013-03-12 Tue 16:25]--[2013-03-12 Tue 16:44] =>  0:19
     CLOCK: [2013-03-12 Tue 10:22]--[2013-03-12 Tue 10:48] =>  0:26
@@ -1256,6 +1267,7 @@ Some money available through colloquia funds?
 ** TODO Plan visit to ASU					      :FOCUS:
    SCHEDULED: <2013-02-18 Mon>
   :LOGBOOK:
+  CLOCK: [2013-03-29 Fri 10:29]--[2013-03-29 Fri 10:42] =>  0:13
   :END:
    :PROPERTIES:
    :ID:       dd8dd55b-3581-44ca-af2a-8d193fc8ed95
@@ -1284,6 +1296,9 @@ Possible dates: 5/4/13, 12/4/13, 19/4/13
 
 ** TODO PNGS 2013 						      :FOCUS:
    :LOGBOOK:
+   CLOCK: [2013-03-29 Fri 10:49]--[2013-03-29 Fri 10:54] =>  0:05
+   CLOCK: [2013-03-29 Fri 10:46]--[2013-03-29 Fri 10:48] =>  0:02
+   CLOCK: [2013-03-29 Fri 10:43]--[2013-03-29 Fri 10:45] =>  0:02
    CLOCK: [2013-03-19 Tue 13:49]--[2013-03-19 Tue 13:54] =>  0:05
    :END:
    :PROPERTIES:
@@ -1291,16 +1306,23 @@ Possible dates: 5/4/13, 12/4/13, 19/4/13
    :END:
 <2013-05-11 Sat>--<2013-05-12 Sun>
 [[http://www.math.washington.edu/~lee/PNGS/]]
-*** TODO Plan PNGS talk
+*** NEXT Write PNGS talk
     SCHEDULED: <2013-03-11 Mon>   
+    :LOGBOOK:
+    CLOCK: [2013-03-29 Fri 13:55]--[2013-03-29 Fri 14:13] =>  0:18
+    CLOCK: [2013-03-29 Fri 13:24]--[2013-03-29 Fri 13:25] =>  0:01
+    CLOCK: [2013-03-29 Fri 11:28]--[2013-03-29 Fri 12:01] =>  0:33
+    CLOCK: [2013-03-29 Fri 10:57]--[2013-03-29 Fri 11:15] =>  0:18
+    :END:
     :PROPERTIES:
     :ID:       ae9f534c-7445-42d4-a56e-a4dcf52119b6
     :END:
-*** NEXT Ask Lei/FRdesk about someone covering lectures
+*** DONE Ask Lei/FRdesk about someone covering lectures
+    - State "DONE"       from "NEXT"       [2013-03-29 Fri 14:12]
     :PROPERTIES:
     :ID:       f8183fb0-8a49-4b76-95c3-1bd4eef6cdd3
     :END:
-*** Talk
+*** Notes
 $Z$ is some quantity like distance, non-collapsing, whatever. $\bar{Z}$ is the extrema over some range; for non-collaping $Z=Z(x,y)$, $\bar{Z}(x)=\sup_y Z(x,y)$. For $Z=d$, $\bar{Z}$ is the sup over $x$ and $y$. These will be over non-compact $M\times M - D$ with $D$ the diagonal. More generally, $Z$ may only be defined away from the cut locus. 
 
 At the extrema, because of the vanishing of the first variation, the laplacian of $\bar{Z}$ turns into something like $\pd{x_i} \pm \pd{y_i}$. So a viscosity equation for $\laplace \bar{Z}$ relates to this other operator on $Z$. It might be worthwhile comparing the Hessians of $\bar{Z}$ and $Z$. The other important ingredient here is blowing up the diagonal to get a compact manifold. 
@@ -1347,6 +1369,10 @@ Cabo Frio, a beautiful beach city near Rio De Janeiro, from June 3 to June 7, 20
 
 **** Notes
 See also [[notes:MR2908056][MR2908056-notes]]
+**** NEXT Make outline
+     :PROPERTIES:
+     :ID:       7c920b07-968d-4193-bc69-15ee5b971a79
+     :END:
 * Students
   :PROPERTIES:
   :ID:       a93e1471-a035-4d1a-888f-948a3996b9ec

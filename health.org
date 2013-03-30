@@ -34,7 +34,8 @@
     :END:
 
 *** NEXT Morning Mobility
-    SCHEDULED: <2013-03-29 Fri .+1d/2d>
+    SCHEDULED: <2013-03-30 Sat .+1d/2d>
+    - State "DONE"       from "NEXT"       [2013-03-29 Fri 10:43]
     - State "DONE"       from "NEXT"       [2013-03-28 Thu 09:17]
     - State "DONE"       from "NEXT"       [2013-03-27 Wed 15:05]
     - State "DONE"       from "NEXT"       [2013-03-26 Tue 10:12]
@@ -60,7 +61,7 @@
     :STYLE:    habit
     :REPEAT_TO_STATE: NEXT
     :ID:       0e75f56d-0356-4a0f-a376-080471ad4aad
-    :LAST_REPEAT: [2013-03-28 Thu 09:17]
+    :LAST_REPEAT: [2013-03-29 Fri 10:43]
     :END:
 
 *** NEXT Afternoon Relax
