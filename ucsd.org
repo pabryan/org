@@ -134,34 +134,6 @@ CENTR 115
 <2013-05-01 Wed 11:00-11:50>
 <2013-05-03 Fri 11:00-11:50>
 **** Tasks
-***** TODO Exams
-      :PROPERTIES:
-      :ID:       84cf34b8-293d-496b-a828-c5a380e934b6
-      :END:
-***** TODO Homework
-      :PROPERTIES:
-      :ID:       bae918db-a504-4496-bcce-32e84d1300dd
-      :END:
-***** TODO Lectures
-      :PROPERTIES:
-      :ID:       add251e4-5c4e-48d7-bf60-20001c3cbb2b
-      :END:
-***** DONE Website
-      - State "DONE"       from "TODO"       [2013-03-25 Mon 12:43]
-      :LOGBOOK:
-      :END:
-      :PROPERTIES:
-      :ID:       a9dff900-e463-465f-a3c3-9779d55560b2
-      :END:
-****** DONE Make website
-       - State "DONE"       from "NEXT"       [2013-03-20 Wed 16:17]
-       :LOGBOOK:
-       CLOCK: [2013-03-20 Wed 15:50]--[2013-03-20 Wed 16:17] =>  0:27
-       CLOCK: [2013-03-20 Wed 15:20]--[2013-03-20 Wed 15:47] =>  0:27
-       CLOCK: [2013-03-20 Wed 14:46]--[2013-03-20 Wed 15:12] =>  0:26
-       CLOCK: [2013-03-20 Wed 13:56]--[2013-03-20 Wed 14:21] =>  0:25
-       CLOCK: [2013-03-20 Wed 13:29]--[2013-03-20 Wed 13:54] =>  0:25
-       :END:
 ***** TODO Set up course
       SCHEDULED: <2013-03-18 Mon> DEADLINE: <2013-03-29 Fri>
       :LOGBOOK:
@@ -171,6 +143,9 @@ CENTR 115
       :ID:       e4ea8745-1fb4-494c-bd64-2f0744d2dc30
       :END:
 ****** NEXT Make org structure
+       :LOGBOOK:
+       CLOCK: [2013-03-30 Sat 20:25]
+       :END:
        :PROPERTIES:
        :ID:       5f1670be-70cf-4e0c-9db5-630dac608324
        :END:
@@ -185,52 +160,47 @@ Lectures in calendar and tasks like planning lectures.
        :PROPERTIES:
        :ID:       ff8a1dd5-bb2a-45c8-b0e4-b6e15e93778f
        :END:
-***** TODO Quizzes
-      :PROPERTIES:
-      :ID:       c3f82562-bbbe-44fd-a349-ffcf6d298b68
+***** DONE Find some one to cover for 09/05 and 11/05
+      - State "DONE"       from "WAITING"    [2013-03-20 Wed 14:33]
+      - State "WAITING"    from "NEXT"       [2013-03-20 Wed 10:46] \\
+	Waiting on Andre Minor and Caleb Meier to respond.
+      :LOGBOOK:
+      CLOCK: [2013-03-20 Wed 13:20]--[2013-03-20 Wed 13:28] =>  0:08
+      CLOCK: [2013-03-20 Wed 10:32]--[2013-03-20 Wed 10:47] =>  0:15
       :END:
-****** NEXT 
-***** Misc
-****** DONE Find some one to cover for 09/05 and 11/05
-       - State "DONE"       from "WAITING"    [2013-03-20 Wed 14:33]
-       - State "WAITING"    from "NEXT"       [2013-03-20 Wed 10:46] \\
-	 Waiting on Andre Minor and Caleb Meier to respond.
-       :LOGBOOK:
-       CLOCK: [2013-03-20 Wed 13:20]--[2013-03-20 Wed 13:28] =>  0:08
-       CLOCK: [2013-03-20 Wed 10:32]--[2013-03-20 Wed 10:47] =>  0:15
-       :END:
 **** Clocking
 ***** Admin
-***** Lecturing
 ***** Office hours
-***** Lecture Preperation
 **** Lectures
 ***** Location
 WLH 2001
-***** Lecture 1.1
+***** Lecture 01.1
+<2013-04-01 Mon 15:00-16:00>
+****** DONE Prepare lecture 1.1
+       - State "DONE"       from "NEXT"       [2013-03-27 Wed 20:26]
       :LOGBOOK:
       CLOCK: [2013-03-27 Wed 09:30]--[2013-03-27 Wed 09:45] =>  0:15
       CLOCK: [2013-03-27 Wed 08:45]--[2013-03-27 Wed 09:10] =>  0:25
       CLOCK: [2013-03-27 Wed 08:07]--[2013-03-27 Wed 08:30] =>  0:23
       :END:
-<2013-04-01 Mon 15:00-16:00>
-***** Lecture
+
+***** Lecture 02.1
 <2013-04-08 Mon 15:00-16:00>
-***** Lecture
+***** Lecture 03.1
 <2013-04-15 Mon 15:00-16:00>
-***** Lecture
+***** Lecture 04.1
 <2013-04-22 Mon 15:00-16:00>
-***** Lecture
+***** Lecture 05.1
 <2013-04-29 Mon 15:00-16:00>
-***** Lecture
+***** Lecture 06.1
 <2013-05-06 Mon 15:00-16:00>
-***** Lecture
+***** Lecture 07.1
 <2013-05-13 Mon 15:00-16:00>
-***** Lecture
+***** Lecture 08.1
 <2013-05-20 Mon 15:00-16:00>
-***** Lecture
-<2013-06-03 Mon 15:00-16:00>
-***** Lecture
+***** Lecture 09.1
+      <2013-06-03 Mon 15:00-16:00>
+***** Lecture 10.1
 <2013-04-03 Wed 15:00-16:00>
 ***** Lecture
 <2013-04-10 Wed 15:00-16:00>
@@ -281,6 +251,77 @@ WLH 2001
 
 ***** Lecture
 <2013-06-07 Fri 15:00-16:00>
+
+**** Exams
+***** Midterm 1
+***** Midterm 2
+***** Final
+**** Homework
+***** Homework 1
+***** Homework 2
+***** Homework 3
+***** Homework 4
+***** Homework 5
+**** Website
+***** DONE Make website
+      - State "DONE"       from "NEXT"       [2013-03-20 Wed 16:17]
+      :LOGBOOK:
+      CLOCK: [2013-03-20 Wed 15:50]--[2013-03-20 Wed 16:17] =>  0:27
+      CLOCK: [2013-03-20 Wed 15:20]--[2013-03-20 Wed 15:47] =>  0:27
+      CLOCK: [2013-03-20 Wed 14:46]--[2013-03-20 Wed 15:12] =>  0:26
+      CLOCK: [2013-03-20 Wed 13:56]--[2013-03-20 Wed 14:21] =>  0:25
+      CLOCK: [2013-03-20 Wed 13:29]--[2013-03-20 Wed 13:54] =>  0:25
+      :END:
+
+**** Quizzes
+***** Quiz 01
+****** NEXT Set quiz 
+       DEADLINE: <2013-03-31 Sun>
+****** Questions
+***** Quiz 02
+****** NEXT Set quiz 
+       DEADLINE: <2013-04-05 Fri>
+****** Questions
+
+***** Quiz 03
+****** NEXT Set quiz 
+       DEADLINE: <2013-04-12 Fri>
+****** Questions
+
+***** Quiz 04
+****** NEXT Set quiz 
+       DEADLINE: <2013-04-19 Fri>
+****** Questions
+
+***** Quiz 05
+****** NEXT Set quiz 
+       DEADLINE: <2013-04-26 Fri>
+****** Questions
+
+***** Quiz 06
+****** NEXT Set quiz 
+       DEADLINE: <2013-05-03 Fri>
+****** Questions
+
+***** Quiz 07
+****** NEXT Set quiz 
+       DEADLINE: <2013-05-10 Fri>
+****** Questions
+
+***** Quiz 08
+****** NEXT Set quiz 
+       DEADLINE: <2013-05-17 Fri>
+****** Questions
+
+***** Quiz 09
+****** NEXT Set quiz 
+       DEADLINE: <2013-05-24 Fri>
+****** Questions
+
+***** Quiz 10
+****** NEXT Set quiz 
+       DEADLINE: <2013-05-31 Fri>
+****** Questions
 
 *** TODO MATH20D Spring 2013				      :MATH20D:FOCUS:
     :LOGBOOK:
