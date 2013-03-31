@@ -1101,6 +1101,7 @@ I need to have my macros available.
   :END:
 ** Organisation
   :LOGBOOK:
+  CLOCK: [2013-03-30 Sat 21:13]--[2013-03-30 Sat 21:14] =>  0:01
   CLOCK: [2013-03-30 Sat 20:21]--[2013-03-30 Sat 20:25] =>  0:04
   CLOCK: [2013-03-30 Sat 20:10]--[2013-03-30 Sat 20:16] =>  0:06
   CLOCK: [2013-03-29 Fri 13:25]--[2013-03-29 Fri 13:55] =>  0:30
@@ -1486,6 +1487,7 @@ Check how I did last month. I guess the review and plan could probably go togeth
    - State "DONE"       from "NEXT"       [2013-01-23 Wed 19:25]
    - State "DONE"       from "NEXT"       [2013-01-14 Mon 17:43]
    :LOGBOOK:
+   CLOCK: [2013-03-30 Sat 21:12]--[2013-03-30 Sat 21:13] =>  0:01
    CLOCK: [2013-03-20 Wed 21:50]--[2013-03-20 Wed 21:54] =>  0:04
    CLOCK: [2013-02-15 Fri 19:27]--[2013-02-15 Fri 19:29] =>  0:02
    CLOCK: [2013-02-06 Wed 19:36]--[2013-02-06 Wed 19:37] =>  0:01
