@@ -1673,6 +1673,16 @@ I was emailed by the iClicker people about a large class I'm teaching. How do th
   :END:
 [2013-03-20 Wed 11:45]
 
+*** NEXT Use properties for lecture plan
+  :LOGBOOK:
+  CLOCK: [2013-03-30 Sat 20:18]--[2013-03-30 Sat 20:21] =>  0:03
+  CLOCK: [2013-03-30 Sat 20:16]--[2013-03-30 Sat 20:18] =>  0:02
+  :END:
+[2013-03-30 Sat 20:16]
+
+- Use [[http://orgmode.org/manual/Column-view.html#Column-view][column view]] to edit the properties - subject etc.
+- Use [[http://orgmode.org/manual/Capturing-column-view.html][Capturing column view]] to capture in [[http://orgmode.org/manual/Dynamic-blocks.html#Dynamic-blocks][Dynamic blocks]] for export
+- Need to figure out how to export to a 3 column table with column numbers
 ** Teaching as research
 *** SOMEDAY Write org-mode teaching paper
 Use a course as a guinea pig for using the method
