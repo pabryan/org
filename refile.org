@@ -1,1 +1,7 @@
 #+FILETAGS: REFILE
+* TODO Set up LaTeX publishing
+  :LOGBOOK:
+  CLOCK: [2013-03-30 Sat 21:39]--[2013-03-30 Sat 21:40] =>  0:01
+  :END:
+[2013-03-30 Sat 21:39]
+Publish to a different directory so I don't pollute my hg directory.
