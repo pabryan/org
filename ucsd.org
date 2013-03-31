@@ -340,29 +340,6 @@ LEDDN AUD
 <2013-05-24 Fri 10:00-10:50> 
 <2013-05-27 Mon 10:00-10:50> 
 **** Tasks
-***** TODO Exams
-      :PROPERTIES:
-      :ID:       98e6c66c-784a-452c-b0e8-99e82167c920
-      :END:
-
-***** TODO Homework
-      :PROPERTIES:
-      :ID:       86ae8295-6ad6-4086-b111-58ce9411b01b
-      :END:
-***** TODO Lectures
-      :PROPERTIES:
-      :ID:       d02cf488-455c-4c17-bc70-9a36a44ccefb
-      :END:
-***** DONE Website
-      - State "DONE"       from ""           [2013-03-29 Fri 14:19]
-****** NEXT Make website
-       :LOGBOOK:
-       CLOCK: [2013-03-25 Mon 15:38]--[2013-03-25 Mon 16:02] =>  0:24
-       :END:
-       :PROPERTIES:
-       :ID:       56c62e50-94a7-4c6b-8cb9-d0bb22ac3325
-       :END: 
-
 ***** TODO Set up course
       SCHEDULED: <2013-03-18 Mon> DEADLINE: <2013-03-29 Fri>      
       :PROPERTIES:
@@ -382,22 +359,16 @@ Lectures in calendar and tasks like planning lectures.
        :PROPERTIES:
        :ID:       6e61cacf-e959-46f6-9594-a1d237f03753
        :END:
-***** TODO Quizzes
+***** DONE Find some one to cover for 09/05 and 11/05
+      - State "DONE"       from "WAITING"    [2013-03-30 Sat 20:42]
+      - State "WAITING"    from "NEXT"       [2013-03-20 Wed 10:46] \\
+	Waiting on Bo Li to respond.
       :PROPERTIES:
-      :ID:       0792ac93-0579-4e45-984a-3ca928796870
+      :ID:       c0e6c741-3695-4f33-b08d-2084e46807fd
       :END:
-
-***** Misc
-****** WAITING Find some one to cover for 09/05 and 11/05
-       - State "WAITING"    from "NEXT"       [2013-03-20 Wed 10:46] \\
-	 Waiting on Bo Li to respond.
-       :PROPERTIES:
-       :ID:       c0e6c741-3695-4f33-b08d-2084e46807fd
-       :END:
 
 **** Clocking
 ***** Admin
-***** Lecturing
 ***** Office hours
 **** Lectures
 ***** Location
@@ -464,6 +435,77 @@ Center 119
 <2013-05-31 Fri 13:00-14:00>
 ***** Lecture
 <2013-06-07 Fri 13:00-14:00>
+**** Exams
+***** Midterm 1
+***** Midterm 2
+***** Final
+**** Homework
+***** Homework 1
+***** Homework 2
+***** Homework 3
+***** Homework 4
+***** Homework 5
+
+**** Website
+***** DONE Make Website
+      - State "DONE"       from "NEXT"           [2013-03-29 Fri 14:19]
+       :LOGBOOK:
+       CLOCK: [2013-03-25 Mon 15:38]--[2013-03-25 Mon 16:02] =>  0:24
+       :END:
+       :PROPERTIES:
+       :ID:       56c62e50-94a7-4c6b-8cb9-d0bb22ac3325
+       :END: 
+
+**** Quizzes
+***** Quiz 01
+****** NEXT Set quiz 
+       DEADLINE: <2013-03-31 Sun>
+****** Questions
+***** Quiz 02
+****** NEXT Set quiz 
+       DEADLINE: <2013-04-05 Fri>
+****** Questions
+
+***** Quiz 03
+****** NEXT Set quiz 
+       DEADLINE: <2013-04-12 Fri>
+****** Questions
+
+***** Quiz 04
+****** NEXT Set quiz 
+       DEADLINE: <2013-04-19 Fri>
+****** Questions
+
+***** Quiz 05
+****** NEXT Set quiz 
+       DEADLINE: <2013-04-26 Fri>
+****** Questions
+
+***** Quiz 06
+****** NEXT Set quiz 
+       DEADLINE: <2013-05-03 Fri>
+****** Questions
+
+***** Quiz 07
+****** NEXT Set quiz 
+       DEADLINE: <2013-05-10 Fri>
+****** Questions
+
+***** Quiz 08
+****** NEXT Set quiz 
+       DEADLINE: <2013-05-17 Fri>
+****** Questions
+
+***** Quiz 09
+****** NEXT Set quiz 
+       DEADLINE: <2013-05-24 Fri>
+****** Questions
+
+***** Quiz 10
+****** NEXT Set quiz 
+       DEADLINE: <2013-05-31 Fri>
+****** Questions
+
 *** TODO MATH142B Winter 2012					   :MATH142B:
     - State "TODO"       from "DONE"       [2013-03-27 Wed 09:53] \\
       Need to update a student's grade.
