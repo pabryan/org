@@ -144,7 +144,7 @@ CENTR 115
       :END:
 ****** NEXT Make org structure
        :LOGBOOK:
-       CLOCK: [2013-03-30 Sat 20:25]
+       CLOCK: [2013-03-30 Sat 20:25]--[2013-03-30 Sat 20:55] =>  0:30
        :END:
        :PROPERTIES:
        :ID:       5f1670be-70cf-4e0c-9db5-630dac608324
@@ -296,6 +296,9 @@ WLH 2001
 ***** Quiz 01
 ****** NEXT Set quiz 
        DEADLINE: <2013-03-31 Sun>
+       :LOGBOOK:
+       CLOCK: [2013-03-30 Sat 21:02]
+       :END:
 ****** Questions
 ***** Quiz 02
 ****** NEXT Set quiz 
