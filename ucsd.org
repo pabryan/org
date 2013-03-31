@@ -189,7 +189,7 @@ Lectures in calendar and tasks like planning lectures.
       :PROPERTIES:
       :ID:       c3f82562-bbbe-44fd-a349-ffcf6d298b68
       :END:
-
+****** NEXT 
 ***** Misc
 ****** DONE Find some one to cover for 09/05 and 11/05
        - State "DONE"       from "WAITING"    [2013-03-20 Wed 14:33]
@@ -203,6 +203,7 @@ Lectures in calendar and tasks like planning lectures.
 ***** Admin
 ***** Lecturing
 ***** Office hours
+***** Lecture Preperation
 **** Lectures
 ***** Location
 WLH 2001
@@ -1671,6 +1672,7 @@ I was emailed by the iClicker people about a large class I'm teaching. How do th
   CLOCK: [2013-03-20 Wed 11:46]--[2013-03-20 Wed 12:01] =>  0:15
   :END:
 [2013-03-20 Wed 11:45]
+
 ** Teaching as research
 *** SOMEDAY Write org-mode teaching paper
 Use a course as a guinea pig for using the method
@@ -2012,6 +2014,7 @@ It should make the relevant web entry and also the email notice. Possibly I coul
        [2013-03-29 Fri 10:46]
 ******* NEXT Research materials to cover
        :LOGBOOK:
+       CLOCK: [2013-03-30 Sat 19:40]--[2013-03-30 Sat 20:10] =>  0:30
        CLOCK: [2013-03-30 Sat 12:55]--[2013-03-30 Sat 13:25] =>  0:30
        CLOCK: [2013-03-30 Sat 10:41]--[2013-03-30 Sat 11:41] =>  1:00
        CLOCK: [2013-03-29 Fri 14:13]--[2013-03-29 Fri 14:19] =>  0:06
