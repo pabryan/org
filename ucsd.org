@@ -169,6 +169,7 @@ Lectures in calendar and tasks like planning lectures.
       CLOCK: [2013-03-20 Wed 13:20]--[2013-03-20 Wed 13:28] =>  0:08
       CLOCK: [2013-03-20 Wed 10:32]--[2013-03-20 Wed 10:47] =>  0:15
       :END:
+***** NEXT Organise TA's
 **** Clocking
 ***** Admin
 ***** Office hours
@@ -241,7 +242,8 @@ WLH 2001
        :END:
 ***** Lecture 01.2
 <2013-04-03 Wed 15:00-16:00>
-****** NEXT Prepare lecture
+****** DONE Prepare lecture
+       - State "DONE"       from "NEXT"       [2013-04-01 Mon 11:19]
        :PROPERTIES:
        :ID:       608e698a-5fab-4b48-8461-e6db228b115b
        :END:
@@ -301,7 +303,8 @@ WLH 2001
        :END:
 ***** Lecture 01.3
 <2013-04-05 Fri 15:00-16:00>
-****** NEXT Prepare lecture
+****** DONE Prepare lecture
+       - State "DONE"       from "NEXT"       [2013-04-01 Mon 11:19]
        :PROPERTIES:
        :ID:       83c17c4d-a52d-44d2-bb08-60df7350eb08
        :END:
@@ -361,8 +364,14 @@ WLH 2001
        :END:
 **** Exams
 ***** Midterm 1
+****** NEXT Write Midterm 1
+       DEADLINE: <2013-04-24 Wed>
 ***** Midterm 2
+****** NEXT Write Midterm 2
+       DEADLINE: <2013-05-20 Mon>
 ***** Final
+****** NEXT Write Final
+       DEADLINE: <2013-06-05 Wed>
 **** Homework
 ***** Homework 1
 ****** NEXT Set Homework 01
@@ -536,6 +545,7 @@ Lectures in calendar and tasks like planning lectures.
       :ID:       c0e6c741-3695-4f33-b08d-2084e46807fd
       :END:
 
+***** NEXT Organise TA's
 **** Clocking
 ***** Admin
 ***** Office hours
@@ -727,8 +737,14 @@ Center 119
 
 **** Exams
 ***** Midterm 1
+****** NEXT Write Midterm 1
+       DEADLINE: <2013-04-24 Wed>
 ***** Midterm 2
+****** NEXT Write Midterm 2
+       DEADLINE: <2013-05-17 Fri>
 ***** Final
+****** NEXT Write Final
+       DEADLINE: <2013-06-05 Wed>
 **** Homework
 ***** Homework 1
 ****** NEXT Set Homework 01
