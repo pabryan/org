@@ -181,6 +181,9 @@ Lectures in calendar and tasks like planning lectures.
 ***** Location
 WLH 2001
 ***** Lecture 01.1
+      :LOGBOOK:
+      CLOCK: [2013-04-01 Mon 14:50]--[2013-04-01 Mon 16:13] =>  1:23
+      :END:
 <2013-04-01 Mon 15:00-16:00>
 ****** DONE Prepare lecture 
        - State "DONE"       from "NEXT"       [2013-03-27 Wed 20:26]
@@ -591,6 +594,9 @@ Lectures in calendar and tasks like planning lectures.
 ***** Location
 Center 119
 ***** Lecture 01.1
+      :LOGBOOK:
+      CLOCK: [2013-04-01 Mon 12:50]--[2013-04-01 Mon 14:05] =>  1:15
+      :END:
 <2013-04-01 Mon 13:00-14:00>
 ****** DONE Prepare lecture 
        - State "DONE"       from "NEXT"       [2013-03-26 Tue 20:26]
