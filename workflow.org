@@ -405,6 +405,16 @@ If I'm working on a project, I want an agenda view showing me just that project.
   :END:
 [2013-03-14 Thu 14:05]
 
+** TODO Set up LaTeX publishing
+  :LOGBOOK:
+  CLOCK: [2013-03-30 Sat 21:39]--[2013-03-30 Sat 21:40] =>  0:01
+  :END:
+[2013-03-30 Sat 21:39]
+Publish to a different directory so I don't pollute my hg directory.
+** TODO Research using python requests
+  :LOGBOOK:
+  :END:
+[2013-03-31 Sun 17:36]
 * process
   :PROPERTIES:
   :ID:       403ba6c9-9a32-430c-b0c9-0b09f2eba44e
@@ -743,8 +753,8 @@ I'll need to say use my phone to collect the data. I need something easy to cloc
    :END:
 *** Notes 
 I should have cards with daily reminders, e.g. no more than 2 coffees, eat tacfit, don't nag to check throughout the day. I also have longer term goals and these should filter down to give daily reminders, weekly reminders (to look at during the review), monthly, yearly etc.
-** TODO Make your damn goals!
-  SCHEDULED: <2013-03-25 Mon>
+** NEXT Make your damn goals!
+  SCHEDULED: <2013-04-08 Mon>
   :LOGBOOK:
   CLOCK: [2013-02-22 Fri 08:07]--[2013-02-22 Fri 08:08] =>  0:01
   :END:
@@ -1101,6 +1111,9 @@ I need to have my macros available.
   :END:
 ** Organisation
   :LOGBOOK:
+  CLOCK: [2013-03-30 Sat 21:13]--[2013-03-30 Sat 21:14] =>  0:01
+  CLOCK: [2013-03-30 Sat 20:21]--[2013-03-30 Sat 20:25] =>  0:04
+  CLOCK: [2013-03-30 Sat 20:10]--[2013-03-30 Sat 20:16] =>  0:06
   CLOCK: [2013-03-29 Fri 13:25]--[2013-03-29 Fri 13:55] =>  0:30
   CLOCK: [2013-03-29 Fri 10:20]--[2013-03-29 Fri 10:29] =>  0:09
   CLOCK: [2013-03-28 Thu 16:55]--[2013-03-28 Thu 17:07] =>  0:12
@@ -1484,6 +1497,7 @@ Check how I did last month. I guess the review and plan could probably go togeth
    - State "DONE"       from "NEXT"       [2013-01-23 Wed 19:25]
    - State "DONE"       from "NEXT"       [2013-01-14 Mon 17:43]
    :LOGBOOK:
+   CLOCK: [2013-03-30 Sat 21:12]--[2013-03-30 Sat 21:13] =>  0:01
    CLOCK: [2013-03-20 Wed 21:50]--[2013-03-20 Wed 21:54] =>  0:04
    CLOCK: [2013-02-15 Fri 19:27]--[2013-02-15 Fri 19:29] =>  0:02
    CLOCK: [2013-02-06 Wed 19:36]--[2013-02-06 Wed 19:37] =>  0:01
@@ -1518,7 +1532,8 @@ For the following, do I just use the existing diary.org capture template or perh
 - [ ] Write down any thoughts, relections on the day.
 
 ** NEXT Daily Plan [0/2]
-   SCHEDULED: <2013-03-31 Sun .+1d/2d>
+   SCHEDULED: <2013-04-01 Mon .+1d/2d>
+   - State "DONE"       from "NEXT"       [2013-03-31 Sun 16:11]
    - State "DONE"       from "NEXT"       [2013-03-30 Sat 11:14]
    - State "DONE"       from "NEXT"       [2013-03-29 Fri 09:19]
    - State "DONE"       from "NEXT"       [2013-03-28 Thu 09:19]
@@ -1589,7 +1604,7 @@ For the following, do I just use the existing diary.org capture template or perh
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
    :ID:       ef051ee0-1113-4604-b355-450a5a47848b
-   :LAST_REPEAT: [2013-03-30 Sat 11:14]
+   :LAST_REPEAT: [2013-03-31 Sun 16:11]
    :END:
 
 - [ ] Check agenda/focus
