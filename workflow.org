@@ -411,6 +411,10 @@ If I'm working on a project, I want an agenda view showing me just that project.
   :END:
 [2013-03-30 Sat 21:39]
 Publish to a different directory so I don't pollute my hg directory.
+** TODO Research using python requests
+  :LOGBOOK:
+  :END:
+[2013-03-31 Sun 17:36]
 * process
   :PROPERTIES:
   :ID:       403ba6c9-9a32-430c-b0c9-0b09f2eba44e
