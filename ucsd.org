@@ -365,10 +365,25 @@ WLH 2001
 ***** Final
 **** Homework
 ***** Homework 1
+****** NEXT Set Homework 01
+       DEADLINE: <2013-04-03 Wed>
+
 ***** Homework 2
+****** NEXT Set Homework 02
+       DEADLINE: <2013-04-12 Fri>
+
 ***** Homework 3
+****** NEXT Set Homework 03
+       DEADLINE: <2013-04-26 Fri>
+
 ***** Homework 4
+****** NEXT Set Homework 04
+       DEADLINE: <2013-05-10 Fri>
+
 ***** Homework 5
+****** NEXT Set Homework 05
+       DEADLINE: <2013-05-24 Fri>
+
 **** Website
 ***** DONE Make website
       - State "DONE"       from "NEXT"       [2013-03-20 Wed 16:17]
@@ -380,6 +395,7 @@ WLH 2001
       CLOCK: [2013-03-20 Wed 13:29]--[2013-03-20 Wed 13:54] =>  0:25
       :END:
 
+***** NEXT Update grade composition
 **** Quizzes
 ***** Quiz 01
 ****** DONE Set quiz 
@@ -491,6 +507,10 @@ LEDDN AUD
 **** Tasks
 ***** TODO Set up course
       SCHEDULED: <2013-03-18 Mon> DEADLINE: <2013-04-01 Mon>      
+      :LOGBOOK:
+      CLOCK: [2013-04-01 Mon 11:05]
+      CLOCK: [2013-04-01 Mon 11:02]--[2013-04-01 Mon 11:04] =>  0:02
+      :END:
       :PROPERTIES:
       :ID:       e4ea8745-1fb4-494c-bd64-2f0744d2dc30
       :END:
@@ -711,10 +731,24 @@ Center 119
 ***** Final
 **** Homework
 ***** Homework 1
+****** NEXT Set Homework 01
+       DEADLINE: <2013-04-03 Wed>
+
 ***** Homework 2
+****** NEXT Set Homework 02
+       DEADLINE: <2013-04-12 Fri>
+
 ***** Homework 3
+****** NEXT Set Homework 03
+       DEADLINE: <2013-04-26 Fri>
+
 ***** Homework 4
+****** NEXT Set Homework 04
+       DEADLINE: <2013-05-10 Fri>
+
 ***** Homework 5
+****** NEXT Set Homework 05
+       DEADLINE: <2013-05-24 Fri>
 
 **** Website
 ***** DONE Make Website
@@ -726,6 +760,7 @@ Center 119
        :ID:       56c62e50-94a7-4c6b-8cb9-d0bb22ac3325
        :END: 
 
+***** NEXT Update grade composition
 **** Quizzes
 ***** Quiz 01
 ****** NEXT Set quiz 
