@@ -173,12 +173,19 @@ Lectures in calendar and tasks like planning lectures.
       CLOCK: [2013-03-20 Wed 13:20]--[2013-03-20 Wed 13:28] =>  0:08
       CLOCK: [2013-03-20 Wed 10:32]--[2013-03-20 Wed 10:47] =>  0:15
       :END:
-***** NEXT Organise TA's
+***** DONE Organise TA's
+      - State "DONE"       from "NEXT"       [2013-04-01 Mon 16:35]
+      :LOGBOOK:
+      CLOCK: [2013-04-01 Mon 16:24]--[2013-04-01 Mon 16:35] =>  0:11
+      :END:
 ***** TODO Send bulk mail to students
   SCHEDULED: <2013-04-01 Mon>
   :LOGBOOK:
   CLOCK: [2013-04-01 Mon 16:22]--[2013-04-01 Mon 16:23] =>  0:01
   :END:
+      :PROPERTIES:
+      :ID:       8e637bf5-770c-4349-ab8f-7f9bf3a0e215
+      :END:
 [2013-04-01 Mon 16:22]
 **** Clocking							   :CLOCKING:
 ***** Admin
@@ -189,6 +196,9 @@ WLH 2001
 ***** Lecture 01.1
       :LOGBOOK:
       CLOCK: [2013-04-01 Mon 14:50]--[2013-04-01 Mon 16:13] =>  1:23
+      :END:
+      :PROPERTIES:
+      :ID:       48c8e91a-98d6-4e8e-aa76-09a049368898
       :END:
 <2013-04-01 Mon 15:00-16:00>
 ****** DONE Prepare lecture 
@@ -407,32 +417,56 @@ WLH 2001
 ***** Midterm 1
 ****** NEXT Write Midterm 1
        DEADLINE: <2013-04-24 Wed>
+       :PROPERTIES:
+       :ID:       130cbac1-0924-430e-9e18-e86c3251edd0
+       :END:
 ***** Midterm 2
 ****** NEXT Write Midterm 2
        DEADLINE: <2013-05-20 Mon>
+       :PROPERTIES:
+       :ID:       13ed4a3c-4d9a-4e9a-8524-56bf7bb7c089
+       :END:
 ***** Final
 ****** NEXT Write Final
        DEADLINE: <2013-06-05 Wed>
+       :PROPERTIES:
+       :ID:       7365f941-36cb-4b8f-af0b-32d795e33de9
+       :END:
 **** Homework							   :HOMEWORK:
 ***** Homework 1
 ****** NEXT Set Homework 01
        DEADLINE: <2013-04-03 Wed>
+       :PROPERTIES:
+       :ID:       e50730dc-0570-411c-8ef3-885cdeef1103
+       :END:
 
 ***** Homework 2
 ****** NEXT Set Homework 02
        DEADLINE: <2013-04-12 Fri>
+       :PROPERTIES:
+       :ID:       6dd254a4-584d-454c-b4c5-0504ebd1fc78
+       :END:
 
 ***** Homework 3
 ****** NEXT Set Homework 03
        DEADLINE: <2013-04-26 Fri>
+       :PROPERTIES:
+       :ID:       cd20affb-236e-41a1-b99c-81bc0363e0c7
+       :END:
 
 ***** Homework 4
 ****** NEXT Set Homework 04
        DEADLINE: <2013-05-10 Fri>
+       :PROPERTIES:
+       :ID:       7a405722-577c-40a1-ae51-5a871a657613
+       :END:
 
 ***** Homework 5
 ****** NEXT Set Homework 05
        DEADLINE: <2013-05-24 Fri>
+       :PROPERTIES:
+       :ID:       0be961ca-b6a6-46e6-8f40-999705c0e649
+       :END:
 
 **** Website
 ***** DONE Make website
@@ -544,6 +578,7 @@ WLH 2001
 
 *** TODO MATH20D Spring 2013				      :MATH20D:FOCUS:
     :LOGBOOK:
+    CLOCK: [2013-04-01 Mon 16:45]--[2013-04-01 Mon 16:46] =>  0:01
     :END:
     :PROPERTIES:
     :ID:       01742e1a-c15f-4aab-ada0-59725c2e73e4
@@ -592,11 +627,18 @@ Lectures in calendar and tasks like planning lectures.
       :ID:       c0e6c741-3695-4f33-b08d-2084e46807fd
       :END:
 
-***** NEXT Organise TA's
+***** DONE Organise TA's
+      - State "DONE"       from "NEXT"       [2013-04-01 Mon 16:45]
+      :LOGBOOK:
+      CLOCK: [2013-04-01 Mon 16:35]--[2013-04-01 Mon 16:45] =>  0:10
+      :END:
 ***** TODO Send bulk mail to students
   SCHEDULED: <2013-04-01 Mon>
   :LOGBOOK:
   :END:
+      :PROPERTIES:
+      :ID:       57b28dba-0a74-4d0a-b486-9cd6b8db413f
+      :END:
 [2013-04-01 Mon 16:23]
 - Discussions
 - Homework
@@ -610,6 +652,9 @@ Center 119
 ***** Lecture 01.1
       :LOGBOOK:
       CLOCK: [2013-04-01 Mon 12:50]--[2013-04-01 Mon 14:05] =>  1:15
+      :END:
+      :PROPERTIES:
+      :ID:       2261bdcb-0f48-4461-9bc9-81ab2c9dbf5b
       :END:
 <2013-04-01 Mon 13:00-14:00>
 ****** DONE Prepare lecture 
@@ -826,32 +871,56 @@ Center 119
 ***** Midterm 1
 ****** NEXT Write Midterm 1
        DEADLINE: <2013-04-24 Wed>
+       :PROPERTIES:
+       :ID:       556d42e6-8573-4c7d-aa80-a24c2748fcb0
+       :END:
 ***** Midterm 2
 ****** NEXT Write Midterm 2
        DEADLINE: <2013-05-17 Fri>
+       :PROPERTIES:
+       :ID:       2f9b9e2c-61c2-412d-ad1f-e59cc3583371
+       :END:
 ***** Final
 ****** NEXT Write Final
        DEADLINE: <2013-06-05 Wed>
+       :PROPERTIES:
+       :ID:       57a79f76-de1a-4020-a99a-ed40e3c5d1db
+       :END:
 **** Homework							   :HOMEWORK:
 ***** Homework 1
 ****** NEXT Set Homework 01
        DEADLINE: <2013-04-03 Wed>
+       :PROPERTIES:
+       :ID:       62fa4fb5-0e7b-4082-b8d6-27f9b15c4c33
+       :END:
 
 ***** Homework 2
 ****** NEXT Set Homework 02
        DEADLINE: <2013-04-12 Fri>
+       :PROPERTIES:
+       :ID:       a605b39d-4e19-4649-81ca-19e6d2dca4c9
+       :END:
 
 ***** Homework 3
 ****** NEXT Set Homework 03
        DEADLINE: <2013-04-26 Fri>
+       :PROPERTIES:
+       :ID:       c2e0c6bd-7867-4b08-98a6-3525312b7e7f
+       :END:
 
 ***** Homework 4
 ****** NEXT Set Homework 04
        DEADLINE: <2013-05-10 Fri>
+       :PROPERTIES:
+       :ID:       c4736943-b755-4fdd-b0d6-522c2eab877d
+       :END:
 
 ***** Homework 5
 ****** NEXT Set Homework 05
        DEADLINE: <2013-05-24 Fri>
+       :PROPERTIES:
+       :ID:       11083b9b-09dc-46c6-82d5-2e084e51f163
+       :END:
 
 **** Website
 ***** DONE Make Website

@@ -409,11 +409,17 @@ If I'm working on a project, I want an agenda view showing me just that project.
   :LOGBOOK:
   CLOCK: [2013-03-30 Sat 21:39]--[2013-03-30 Sat 21:40] =>  0:01
   :END:
+   :PROPERTIES:
+   :ID:       c9ac500b-c7f5-4649-b13d-4110e82e5dfd
+   :END:
 [2013-03-30 Sat 21:39]
 Publish to a different directory so I don't pollute my hg directory.
 ** TODO Research using python requests
   :LOGBOOK:
   :END:
+   :PROPERTIES:
+   :ID:       513da876-40d5-4ad2-990b-f73e2c384e81
+   :END:
 [2013-03-31 Sun 17:36]
 * process
   :PROPERTIES:
@@ -1111,7 +1117,8 @@ I need to have my macros available.
   :END:
 ** Organisation
   :LOGBOOK:
-  CLOCK: [2013-04-01 Mon 16:23]
+  CLOCK: [2013-04-01 Mon 16:46]--[2013-04-01 Mon 16:49] =>  0:03
+  CLOCK: [2013-04-01 Mon 16:23]--[2013-04-01 Mon 16:24] =>  0:01
   CLOCK: [2013-04-01 Mon 16:13]--[2013-04-01 Mon 16:22] =>  0:09
   CLOCK: [2013-04-01 Mon 11:50]--[2013-04-01 Mon 11:56] =>  0:06
   CLOCK: [2013-04-01 Mon 11:34]--[2013-04-01 Mon 11:40] =>  0:06
