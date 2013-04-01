@@ -135,16 +135,19 @@ CENTR 115
 <2013-05-01 Wed 11:00-11:50>
 <2013-05-03 Fri 11:00-11:50>
 **** Tasks
-***** TODO Set up course
+***** DONE Set up course
       SCHEDULED: <2013-03-18 Mon> DEADLINE: <2013-04-01 Mon>
+      - State "DONE"       from "TODO"       [2013-04-01 Mon 11:34]
       :LOGBOOK:
       CLOCK: [2013-03-12 Tue 11:26]--[2013-03-12 Tue 11:28] =>  0:02
       :END:
       :PROPERTIES:
       :ID:       e4ea8745-1fb4-494c-bd64-2f0744d2dc30
       :END:
-****** NEXT Make org structure
+****** DONE Make org structure
+       - State "DONE"       from "NEXT"       [2013-04-01 Mon 11:36]
        :LOGBOOK:
+       CLOCK: [2013-04-01 Mon 11:20]--[2013-04-01 Mon 11:34] =>  0:14
        CLOCK: [2013-03-30 Sat 20:25]--[2013-03-30 Sat 20:55] =>  0:30
        :END:
        :PROPERTIES:
@@ -542,16 +545,18 @@ LEDDN AUD
 <2013-05-24 Fri 10:00-10:50> 
 <2013-05-27 Mon 10:00-10:50> 
 **** Tasks
-***** TODO Set up course
+***** DONE Set up course
       SCHEDULED: <2013-03-18 Mon> DEADLINE: <2013-04-01 Mon>      
-      :LOGBOOK:
-      CLOCK: [2013-04-01 Mon 11:05]
-      CLOCK: [2013-04-01 Mon 11:02]--[2013-04-01 Mon 11:04] =>  0:02
-      :END:
+      - State "DONE"       from "TODO"       [2013-04-01 Mon 11:35]
       :PROPERTIES:
       :ID:       e4ea8745-1fb4-494c-bd64-2f0744d2dc30
       :END:
-****** NEXT Make org structure
+****** DONE Make org structure
+       - State "DONE"       from "NEXT"       [2013-04-01 Mon 11:34]
+       :LOGBOOK:
+       CLOCK: [2013-04-01 Mon 11:02]--[2013-04-01 Mon 11:04] =>  0:02
+       CLOCK: [2013-04-01 Mon 11:05]--[2013-04-01 Mon 11:20] =>  0:15
+       :END:
        :PROPERTIES:
        :ID:       5ad4ae3e-8428-4bf7-b824-4529a029af51
        :END:
@@ -605,162 +610,189 @@ Center 119
 ***** Lecture 02.1
 <2013-04-08 Mon 13:00-14:00>
 ****** NEXT Prepare lecture
+       DEADLINE: <2013-04-08 Mon>
        :PROPERTIES:
        :ID:       6271dcfb-ac58-47f5-bb8a-d383fc2f8683
        :END:
 ***** Lecture 02.2
 <2013-04-10 Wed 13:00-14:00>
 ****** NEXT Prepare lecture
+       DEADLINE: <2013-04-10 Wed>
        :PROPERTIES:
        :ID:       ab1bf1f0-fd0b-4cec-abdf-255104977fe1
        :END:
 ***** Lecture 02.3
 <2013-04-12 Fri 13:00-14:00>
 ****** NEXT Prepare lecture
+       DEADLINE: <2013-04-12 Fri>
        :PROPERTIES:
        :ID:       53e1522f-00a7-4045-bd19-90c64b427660
        :END:
 ***** Lecture 03.1
 <2013-04-15 Mon 13:00-14:00>
 ****** NEXT Prepare lecture
+       DEADLINE: <2013-04-15 Mon>
        :PROPERTIES:
        :ID:       e60d6479-c93c-40af-b54b-3f4c23dd90db
        :END:
 ***** Lecture 03.2
 <2013-04-17 Wed 13:00-14:00>
 ****** NEXT Prepare lecture
+       DEADLINE: <2013-04-17 Wed>
        :PROPERTIES:
        :ID:       63656879-f20a-4ec9-822a-034809a28dae
        :END:
 ***** Lecture 03.3
 <2013-04-19 Fri 13:00-14:00>
 ****** NEXT Prepare lecture
+       DEADLINE: <2013-04-19 Fri>
        :PROPERTIES:
        :ID:       ca7d462e-035f-4f2b-9966-204092282220
        :END:
 ***** Lecture 04.1
 <2013-04-22 Mon 13:00-14:00>
 ****** NEXT Prepare lecture
+       DEADLINE: <2013-04-22 Mon>
        :PROPERTIES:
        :ID:       3de35963-e3c3-4ccc-869c-7f9a40638d16
        :END:
 ***** Lecture 04.2
 <2013-04-24 Wed 13:00-14:00>
 ****** NEXT Prepare lecture
+       DEADLINE: <2013-04-24 Wed>
        :PROPERTIES:
        :ID:       1515b7ec-445d-4ef6-bb63-86782a51fda0
        :END:
 ***** Lecture 04.3
 <2013-04-26 Fri 13:00-14:00>
 ****** NEXT Prepare lecture
+       DEADLINE: <2013-04-26 Fri>
        :PROPERTIES:
        :ID:       a0f11393-96fb-4122-9c0e-951fca6d2ee7
        :END:
 ***** Lecture 05.1
 <2013-04-29 Mon 13:00-14:00>
 ****** NEXT Prepare lecture
+       DEADLINE: <2013-04-29 Mon>
        :PROPERTIES:
        :ID:       db813566-02a4-4268-8a62-06a6d1aa2e47
        :END:
 ***** Lecture 05.2
 <2013-05-01 Wed 13:00-14:00>
 ****** NEXT Prepare lecture
+       DEADLINE: <2013-05-01 Wed>
        :PROPERTIES:
        :ID:       bccc60bb-a402-4a55-be3e-a5acf31f427b
        :END:
 ***** Lecture 05.3
 <2013-05-03 Fri 13:00-14:00>
 ****** NEXT Prepare lecture
+       DEADLINE: <2013-05-03 Fri>
        :PROPERTIES:
        :ID:       1a7d2d41-04d9-449e-8c72-a5b778d4723a
        :END:
 ***** Lecture 06.1
 <2013-05-06 Mon 13:00-14:00>
 ****** NEXT Prepare lecture
+       DEADLINE: <2013-05-06 Mon>
        :PROPERTIES:
        :ID:       38902878-8b22-4086-8847-c8df8dc3d326
        :END:
 ***** Lecture 06.2
 <2013-05-08 Wed 13:00-14:00>
 ****** NEXT Prepare lecture
+       DEADLINE: <2013-05-08 Wed>
        :PROPERTIES:
        :ID:       7e560fcc-f279-4226-900c-8bc800183bc7
        :END:
 ***** Lecture 06.3
 <2013-05-10 Fri 13:00-14:00>
 ****** NEXT Prepare lecture
+       DEADLINE: <2013-05-10 Fri>
        :PROPERTIES:
        :ID:       588c3b63-d64d-44a0-bd9f-32ccd8156206
        :END:
 ***** Lecture 07.1
 <2013-05-13 Mon 13:00-14:00>
 ****** NEXT Prepare lecture
+       DEADLINE: <2013-05-13 Mon>
        :PROPERTIES:
        :ID:       4f49ad37-5f4e-4d4c-bf73-509cfdfc82d1
        :END:
 ***** Lecture 07.2
 <2013-05-15 Wed 13:00-14:00>
 ****** NEXT Prepare lecture
+       DEADLINE: <2013-05-15 Wed>
        :PROPERTIES:
        :ID:       28cdc15c-2a99-4cdc-8db9-fd7cb333164b
        :END:
 ***** Lecture 07.3
 <2013-05-17 Fri 13:00-14:00>
 ****** NEXT Prepare lecture
+       DEADLINE: <2013-05-17 Fri>
        :PROPERTIES:
        :ID:       eb7bc9d4-b6b6-44a7-93d6-3a40c79a636f
        :END:
 ***** Lecture 08.1
 <2013-05-20 Mon 13:00-14:00>
 ****** NEXT Prepare lecture
+       DEADLINE: <2013-05-20 Mon>
        :PROPERTIES:
        :ID:       7f52fe34-f1c1-44c1-bdf7-25cd8c7b6416
        :END:
 ***** Lecture 08.2
 <2013-05-22 Wed 13:00-14:00>
 ****** NEXT Prepare lecture
+       DEADLINE: <2013-05-22 Wed>
        :PROPERTIES:
        :ID:       11fea151-eaf7-49bf-a6f3-9ee5f24a7da9
        :END:
 ***** Lecture 08.3
 <2013-05-24 Fri 13:00-14:00>
 ****** NEXT Prepare lecture
+       DEADLINE: <2013-05-24 Fri>
        :PROPERTIES:
        :ID:       bf6e0264-66a8-4193-bc46-8ea534d0a388
        :END:
 ***** Lecture 09.1
 <2013-05-27 Mon 13:00-14:00>
 ****** NEXT Prepare lecture
+       DEADLINE: <2013-05-27 Mon>
        :PROPERTIES:
        :ID:       bdf6dd6b-b2b9-44b7-b0ea-21bf6da8810c
        :END:
 ***** Lecture 09.2
 <2013-05-29 Wed 13:00-14:00>
 ****** NEXT Prepare lecture
+       DEADLINE: <2013-05-29 Wed>
        :PROPERTIES:
        :ID:       42f0a163-47d2-4fcd-a774-a347af125652
        :END:
 ***** Lecture 09.3
 <2013-05-31 Fri 13:00-14:00>
 ****** NEXT Prepare lecture
+       DEADLINE: <2013-05-31 Fri>
        :PROPERTIES:
        :ID:       f08b1bf0-a228-46a7-a4a2-5bc29312da70
        :END:
 ***** Lecture 10.1
 <2013-06-03 Mon 13:00-14:00>
 ****** NEXT Prepare lecture
+       DEADLINE: <2013-06-03 Mon>
        :PROPERTIES:
        :ID:       3760b816-c5ad-41b2-8322-f2146383f656
        :END:
 ***** Lecture 10.2
 <2013-06-05 Wed 13:00-14:00>
 ****** NEXT Prepare lecture
+       DEADLINE: <2013-06-05 Wed>
        :PROPERTIES:
        :ID:       766da1ae-f2df-4d76-a844-40a6310e79c6
        :END:
 ***** Lecture 10.3
 <2013-06-07 Fri 13:00-14:00>
 ****** NEXT Prepare lecture
+       DEADLINE: <2013-06-07 Fri>
        :PROPERTIES:
        :ID:       7910c8fb-5ac7-47cc-a653-99046f467819
        :END:
@@ -810,7 +842,7 @@ Center 119
 **** Quizzes							       :QUIZ:
 ***** Quiz 01
 ****** NEXT Set quiz 
-       DEADLINE: <2013-03-31 Sun>
+       DEADLINE: <2013-04-01 Mon>
        :PROPERTIES:
        :ID:       e0a6cf2b-492b-4ecb-92a9-a36c04b4d0be
        :END:
