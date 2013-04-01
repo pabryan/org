@@ -1331,11 +1331,17 @@ $Z$ is some quantity like distance, non-collapsing, whatever. $\bar{Z}$ is the e
 At the extrema, because of the vanishing of the first variation, the laplacian of $\bar{Z}$ turns into something like $\pd{x_i} \pm \pd{y_i}$. So a viscosity equation for $\laplace \bar{Z}$ relates to this other operator on $Z$. It might be worthwhile comparing the Hessians of $\bar{Z}$ and $Z$. The other important ingredient here is blowing up the diagonal to get a compact manifold. 
 *** NEXT Book flights/hotels
     SCHEDULED: <2013-04-01 Mon>
+    :PROPERTIES:
+    :ID:       49038b6c-e838-484d-8313-f2e2ed322cc3
+    :END:
 - Depart: [2013-05-09 Thu 10:00] San-Diego-Portland
 - Return: [2013-05-14 Tue 18:00] Eugene-San Diego
 - Hotel: [2013-05-09 Thu]-[2013-05-12 Sun]
 - Jim's farm: [2013-05-12 Sun]-[2013-05-14 Tue]
 *** NEXT Find things to do in Portland
+    :PROPERTIES:
+    :ID:       69445e72-0893-4c89-9301-34945f9bd7ce
+    :END:
 - Science museum
 - Mountains
 ** TODO Encounters in Geometry
