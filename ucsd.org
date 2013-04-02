@@ -2630,8 +2630,17 @@ It should make the relevant web entry and also the email notice. Possibly I coul
        :PROPERTIES:
        :ID:       74137f5c-b65b-4bd2-a4a4-8083ea077c57
        :END:
+****** NEXT Send GMT Announcement
+       DEADLINE: <2013-04-05 Fri +1w>
 ***** Notes
-
+****** Main Topics
+- Optimisation Problems: Minimal surfaces, isoperimetric problem
+- Measures: Cathedory Construction, Hausdorrf Measure
+- Non-smooth analysis - Lipschitz functions, Rademacher etc.
+- Compactness Theorem
+- Regularity Theorem
+****** Questions
+- Various measures
 
 ***** References
 Whitney, Geometric Integration Theory
