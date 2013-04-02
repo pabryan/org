@@ -643,6 +643,8 @@ Lectures in calendar and tasks like planning lectures.
 - Discussions
 - Homework
 - Quiz
+***** TODO Meet TA's
+<2013-04-03 Wed 10:30>
 **** Clocking							   :CLOCKING:
 ***** Admin
 ***** Office hours
@@ -2635,25 +2637,31 @@ It should make the relevant web entry and also the email notice. Possibly I coul
 ***** Notes
 ****** Main Topics
 - Optimisation Problems: Minimal surfaces, isoperimetric problem
-- Measures: Cathedory Construction, Hausdorrf Measure
+- Measures: Cathedory Construction, Hausdorrf Measure, Perimeter
 - Non-smooth analysis - Lipschitz functions, Rademacher etc.
 - Compactness Theorem
 - Regularity Theorem
+- Lack of regularity - minimal cones
 ****** Questions
 - Various low dimension measures $\mu_m$
   - These are constructed for each $m\in\RR$ or $m\in\ZZ$. The way they are constructed is the "same", so is this some kind of natural transformation? What are the functors? In particular, does this categorical approach somehow characterise Cathedory's construction? That is, in $\RR^N$, each measure $\mu_N$ agrees with Lebesgue measure which is the only measure invariant under the full isometry group. If we have a family of measures that agrees with Lesbegue measure for $m=N$ and is invariant say under the orthogonal group, does this measure come from a Cathedory construction? What does this tell us? There is a measure for each Orthogonal projection onto a $m$ dimensional subspace, given by taking $m$-dimensional Lebesgue measure of the projection. This is /not/ invariant under the orthogonal group. However, taking the sup over all such projections (or an integral) is invariant so fits in this general scheme.
+- Can I think of a measure as a functor? For example, it's a map from the Power set to the reals. The power set is a category with arrows subsets and the reals with the usual ordering for example. Measures are functors like this with countable sub-additivity thrown in. Then a family index by $m$ should be a natural transformation $n\leq m$ gives $\mu_m \leq \mu_n$ (I think it's contravariant).
 - What is the structure of metric-measure spaces or varifolds or Lipshitz manifolds and various other non-smooth objects. That is, are they some sort of ringed space? If not, is there some universal type construction here? That is, how can we extend smooth submanifolds to a larger class of objects and get compactness? Is there a best way to do it? Why are rectifiable sets the answer? Are they somehow universal?
 - Are metric measure spaces, metric spaces with Borel (regular?) measures. What are the isometry invariant measures in this case? Need they be Borel (regular?) measures?
+- Cathedory's Construction: If the gauge is isometry invariant, for example the diameter or orthogonal projection (this may only be invariant under the isotropy group of the origin, i.e. orthogonal transformations) then Cathedory's construction immediately gives an invariant measure which in particular is translation invariant hence is Lesbegue measure for $m=N$. Actually, orthogonal projection measure is isometry invariant when $m=N$ since there is only one such projection, the identity! Parallelpiped measure seems invariant as do most of the others. 
+- What about smooth structure? This may be another useful restriction: that is, let $\mu_m$ be $m$-dimensional area for smooth $m$-dimensional submanifolds (including when $m=n$ so it's Lebesgue measure). Then what restrictions does this place on $\mu_m$? Here I'll probably want some sort of naturality with respect to $m$ as well. These are generally the measures of interest. What about more general situations than $\RR^n$? e.g. manifolds or metric measure spaces.
+- What is the local structure of these non-smooth spaces like integral currents. This determines the sort of analysis required - e.g. Lipshitz for Lipschitz manifolds. Can I do this via sheaf theory, i.e. ringed spaces? If not, do I get a module structure over say the continuous functions, smooth functions or some other ringed space structure on $\RR^n$?
+- 
 
 ***** References
-Whitney, Geometric Integration Theory
-Federer, Geometric Measure Theory
-Chavel, Isoperimetric Inequalities
-Krantz and Parks, Geometric Integration Theory
-Giusti, Minimal Surfaces and Functions of Bounded Variation
-Evans and Garepy, Measure Theory and Fine Properties of Functions
-Simon, Lecture Notes on Geometric Measure Theory
-Morgan, Geometric Measure Theory: A Beginner's Guide
+- Whitney, Geometric Integration Theory
+- Federer, Geometric Measure Theory
+- Chavel, Isoperimetric Inequalities
+- Krantz and Parks, Geometric Integration Theory
+- Giusti, Minimal Surfaces and Functions of Bounded Variation
+- Evans and Garepy, Measure Theory and Fine Properties of Functions
+- Simon, Lecture Notes on Geometric Measure Theory
+- Morgan, Geometric Measure Theory: A Beginner's Guide
 * Tasks
   :PROPERTIES:
   :ID:       08d9cc5d-6f27-41c7-ba22-83f0f18370f3
