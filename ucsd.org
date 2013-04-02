@@ -178,8 +178,9 @@ Lectures in calendar and tasks like planning lectures.
       :LOGBOOK:
       CLOCK: [2013-04-01 Mon 16:24]--[2013-04-01 Mon 16:35] =>  0:11
       :END:
-***** TODO Send bulk mail to students
+***** DONE Send bulk mail to students
   SCHEDULED: <2013-04-01 Mon>
+  - State "DONE"       from "TODO"       [2013-04-01 Mon 21:28]
   :LOGBOOK:
   CLOCK: [2013-04-01 Mon 16:22]--[2013-04-01 Mon 16:23] =>  0:01
   :END:
@@ -632,8 +633,9 @@ Lectures in calendar and tasks like planning lectures.
       :LOGBOOK:
       CLOCK: [2013-04-01 Mon 16:35]--[2013-04-01 Mon 16:45] =>  0:10
       :END:
-***** TODO Send bulk mail to students
+***** DONE Send bulk mail to students
   SCHEDULED: <2013-04-01 Mon>
+  - State "DONE"       from "TODO"       [2013-04-01 Mon 21:28]
   :LOGBOOK:
   :END:
       :PROPERTIES:
@@ -2623,7 +2625,7 @@ It should make the relevant web entry and also the email notice. Possibly I coul
        [2013-03-29 Fri 10:46]
 ******* NEXT Research materials to cover
        :LOGBOOK:
-       CLOCK: [2013-04-01 Mon 20:25]
+       CLOCK: [2013-04-01 Mon 20:25]--[2013-04-01 Mon 21:28] =>  1:03
        CLOCK: [2013-03-30 Sat 19:40]--[2013-03-30 Sat 20:10] =>  0:30
        CLOCK: [2013-03-30 Sat 12:55]--[2013-03-30 Sat 13:25] =>  0:30
        CLOCK: [2013-03-30 Sat 10:41]--[2013-03-30 Sat 11:41] =>  1:00
