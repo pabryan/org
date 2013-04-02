@@ -2621,6 +2621,7 @@ It should make the relevant web entry and also the email notice. Possibly I coul
        [2013-03-29 Fri 10:46]
 ******* NEXT Research materials to cover
        :LOGBOOK:
+       CLOCK: [2013-04-01 Mon 20:25]
        CLOCK: [2013-03-30 Sat 19:40]--[2013-03-30 Sat 20:10] =>  0:30
        CLOCK: [2013-03-30 Sat 12:55]--[2013-03-30 Sat 13:25] =>  0:30
        CLOCK: [2013-03-30 Sat 10:41]--[2013-03-30 Sat 11:41] =>  1:00
@@ -2629,9 +2630,18 @@ It should make the relevant web entry and also the email notice. Possibly I coul
        :PROPERTIES:
        :ID:       74137f5c-b65b-4bd2-a4a4-8083ea077c57
        :END:
-******* Notes
-Books by Whitney, Krantz, Federer, Morgan, Evans.
+***** Notes
 
+
+***** References
+Whitney, Geometric Integration Theory
+Federer, Geometric Measure Theory
+Chavel, Isoperimetric Inequalities
+Krantz and Parks, Geometric Integration Theory
+Giusti, Minimal Surfaces and Functions of Bounded Variation
+Evans and Garepy, Measure Theory and Fine Properties of Functions
+Simon, Lecture Notes on Geometric Measure Theory
+Morgan, Geometric Measure Theory: A Beginner's Guide
 * Tasks
   :PROPERTIES:
   :ID:       08d9cc5d-6f27-41c7-ba22-83f0f18370f3

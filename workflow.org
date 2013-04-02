@@ -1111,12 +1111,20 @@ Does mutt integrate well?
    :END:
 [2013-02-15 Fri 10:34]
 I need to have my macros available.
+** TODO Update work computer
+  DEADLINE: <2013-04-04 Thu> SCHEDULED: <2013-04-03 Wed>
+  :LOGBOOK:
+  CLOCK: [2013-04-01 Mon 20:19]--[2013-04-01 Mon 20:20] =>  0:01
+  :END:
+[2013-04-01 Mon 17:00]
+
 * Tasks
   :PROPERTIES:
   :ID:       4257fe31-e606-4ca9-a848-858379409679
   :END:
 ** Organisation
   :LOGBOOK:
+  CLOCK: [2013-04-01 Mon 20:20]
   CLOCK: [2013-04-01 Mon 16:46]--[2013-04-01 Mon 16:49] =>  0:03
   CLOCK: [2013-04-01 Mon 16:23]--[2013-04-01 Mon 16:24] =>  0:01
   CLOCK: [2013-04-01 Mon 16:13]--[2013-04-01 Mon 16:22] =>  0:09
@@ -1544,7 +1552,8 @@ For the following, do I just use the existing diary.org capture template or perh
 - [ ] Write down any thoughts, relections on the day.
 
 ** NEXT Daily Plan [0/2]
-   SCHEDULED: <2013-04-01 Mon .+1d/2d>
+   SCHEDULED: <2013-04-02 Tue .+1d/2d>
+   - State "DONE"       from "NEXT"       [2013-04-01 Mon 20:21]
    - State "DONE"       from "NEXT"       [2013-03-31 Sun 16:11]
    - State "DONE"       from "NEXT"       [2013-03-30 Sat 11:14]
    - State "DONE"       from "NEXT"       [2013-03-29 Fri 09:19]
@@ -1616,7 +1625,7 @@ For the following, do I just use the existing diary.org capture template or perh
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
    :ID:       ef051ee0-1113-4604-b355-450a5a47848b
-   :LAST_REPEAT: [2013-03-31 Sun 16:11]
+   :LAST_REPEAT: [2013-04-01 Mon 20:21]
    :END:
 
 - [ ] Check agenda/focus
