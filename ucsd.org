@@ -440,6 +440,9 @@ WLH 2001
 ***** Homework 1
 ****** NEXT Set Homework 01
        DEADLINE: <2013-04-03 Wed>
+       :LOGBOOK:
+       CLOCK: [2013-04-03 Wed 10:57]
+       :END:
        :PROPERTIES:
        :ID:       e50730dc-0570-411c-8ef3-885cdeef1103
        :END:
@@ -488,6 +491,12 @@ WLH 2001
       :LOGBOOK:
       CLOCK: [2013-04-01 Mon 11:44]--[2013-04-01 Mon 11:49] =>  0:05
       :END:
+***** NEXT Create TED Site
+- Quizzes
+- Link to course home
+- Discussion Forums
+
+***** NEXT Clairify homework/quiz process
 **** Quizzes							       :QUIZ:
 ***** Quiz 01
 ****** DONE Set quiz 
@@ -944,6 +953,13 @@ Center 119
       :LOGBOOK:
       CLOCK: [2013-04-01 Mon 11:40]--[2013-04-01 Mon 11:44] =>  0:04
       :END:
+***** NEXT Create TED Site
+- Quizzes
+- Link to course home
+- Discussion Forums
+
+***** NEXT Clairify homework/quiz process
+
 **** Quizzes							       :QUIZ:
 ***** Quiz 01
 ****** NEXT Set quiz 
