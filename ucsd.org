@@ -2284,6 +2284,11 @@ I was emailed by the iClicker people about a large class I'm teaching. How do th
 - Use [[http://orgmode.org/manual/Column-view.html#Column-view][column view]] to edit the properties - subject etc.
 - Use [[http://orgmode.org/manual/Capturing-column-view.html][Capturing column view]] to capture in [[http://orgmode.org/manual/Dynamic-blocks.html#Dynamic-blocks][Dynamic blocks]] for export
 - Need to figure out how to export to a 3 column table with column numbers
+*** TODO Sign summer teaching form
+  :LOGBOOK:
+  :END:
+[2013-04-02 Tue 21:14]
+
 ** Teaching as research
 *** SOMEDAY Write org-mode teaching paper
 Use a course as a guinea pig for using the method
