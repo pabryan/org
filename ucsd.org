@@ -188,7 +188,8 @@ Lectures in calendar and tasks like planning lectures.
       :ID:       8e637bf5-770c-4349-ab8f-7f9bf3a0e215
       :END:
 [2013-04-01 Mon 16:22]
-***** NEXT Meet TA's
+***** DONE Meet TA's
+      - State "DONE"       from "NEXT"       [2013-04-03 Wed 11:25]
       :LOGBOOK:
       CLOCK: [2013-04-03 Wed 11:01]--[2013-04-03 Wed 11:21] =>  0:20
       :END:
@@ -446,7 +447,8 @@ WLH 2001
 ****** NEXT Set Homework 01
        DEADLINE: <2013-04-03 Wed>
        :LOGBOOK:
-       CLOCK: [2013-04-03 Wed 11:21]
+       CLOCK: [2013-04-03 Wed 14:19]
+       CLOCK: [2013-04-03 Wed 11:21]--[2013-04-03 Wed 12:05] =>  0:44
        CLOCK: [2013-04-03 Wed 10:57]--[2013-04-03 Wed 11:01] =>  0:04
        :END:
        :PROPERTIES:
@@ -686,6 +688,9 @@ Center 119
       :END:
 
 ***** Lecture 01.2
+      :LOGBOOK:
+      CLOCK: [2013-04-03 Wed 12:55]--[2013-04-03 Wed 14:12] =>  1:17
+      :END:
 <2013-04-03 Wed 13:00-14:00>
 ****** DONE Prepare lecture
        - State "DONE"       from "NEXT"       [2013-04-01 Mon 11:19]
