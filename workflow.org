@@ -1498,7 +1498,8 @@ Check how I did last month. I guess the review and plan could probably go togeth
 
 
 ** NEXT Daily Review [0/3]
-   SCHEDULED: <2013-04-02 Tue .+1d/2d>
+   SCHEDULED: <2013-04-03 Wed .+1d/2d>
+   - State "DONE"       from "NEXT"       [2013-04-02 Tue 21:27]
    - State "DONE"       from "NEXT"       [2013-04-01 Mon 21:28]
    - State "DONE"       from "NEXT"       [2013-03-26 Tue 20:07]
    - State "DONE"       from "NEXT"       [2013-03-23 Sat 20:30]
@@ -1535,7 +1536,7 @@ Check how I did last month. I guess the review and plan could probably go togeth
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
    :ID:       616c5bd9-d941-4fcc-8874-2ff3c9e96b4a
-   :LAST_REPEAT: [2013-04-01 Mon 21:28]
+   :LAST_REPEAT: [2013-04-02 Tue 21:27]
    :END:
 
 What to review:
@@ -1553,7 +1554,8 @@ For the following, do I just use the existing diary.org capture template or perh
 - [ ] Write down any thoughts, relections on the day.
 
 ** NEXT Daily Plan [0/2]
-   SCHEDULED: <2013-04-02 Tue .+1d/2d>
+   SCHEDULED: <2013-04-03 Wed .+1d/2d>
+   - State "DONE"       from "NEXT"       [2013-04-02 Tue 21:27]
    - State "DONE"       from "NEXT"       [2013-04-01 Mon 20:21]
    - State "DONE"       from "NEXT"       [2013-03-31 Sun 16:11]
    - State "DONE"       from "NEXT"       [2013-03-30 Sat 11:14]
@@ -1626,7 +1628,7 @@ For the following, do I just use the existing diary.org capture template or perh
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
    :ID:       ef051ee0-1113-4604-b355-450a5a47848b
-   :LAST_REPEAT: [2013-04-01 Mon 20:21]
+   :LAST_REPEAT: [2013-04-02 Tue 21:27]
    :END:
 
 - [ ] Check agenda/focus
