@@ -220,6 +220,9 @@ WLH 2001
       :END:
 
 ***** Lecture 01.2
+      :LOGBOOK:
+      CLOCK: [2013-04-03 Wed 14:40]--[2013-04-03 Wed 16:10] =>  1:30
+      :END:
 <2013-04-03 Wed 15:00-16:00>
 ****** DONE Prepare lecture
        - State "DONE"       from "NEXT"       [2013-04-01 Mon 11:19]
@@ -447,7 +450,7 @@ WLH 2001
 ****** NEXT Set Homework 01
        DEADLINE: <2013-04-03 Wed>
        :LOGBOOK:
-       CLOCK: [2013-04-03 Wed 14:19]
+       CLOCK: [2013-04-03 Wed 14:19]--[2013-04-03 Wed 14:40] =>  0:21
        CLOCK: [2013-04-03 Wed 11:21]--[2013-04-03 Wed 12:05] =>  0:44
        CLOCK: [2013-04-03 Wed 10:57]--[2013-04-03 Wed 11:01] =>  0:04
        :END:
