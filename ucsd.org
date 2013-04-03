@@ -188,6 +188,9 @@ Lectures in calendar and tasks like planning lectures.
       :ID:       8e637bf5-770c-4349-ab8f-7f9bf3a0e215
       :END:
 [2013-04-01 Mon 16:22]
+***** TODO Meet TA's
+<2013-04-04 Thu 13:00>
+
 **** Clocking							   :CLOCKING:
 ***** Admin
 ***** Office hours
@@ -2410,11 +2413,6 @@ homeomorphic to S^4 or to a connected sum of CP^2s.
     CLOCK: [2012-12-06 Thu 14:56]--[2012-12-06 Thu 16:05] =>  1:09
     :END:
 <2012-12-06 Thu 15:00-16:00>
-*** DG Seminar
-     :PROPERTIES:
-     :ID:       4c4bf1f0-c81d-4fb5-b970-9da250ba0b4e
-     :END:
-     <2013-04-04 Thu 10:00-11:00 +1w>
 *** Tasks
 **** DONE Ask Ben about Inviting ZhiQin Lu to speak at DG conference
     - State "DONE"       from "SOMEDAY"    [2013-02-01 Fri 11:13]
@@ -2615,12 +2613,12 @@ It should make the relevant web entry and also the email notice. Possibly I coul
     :ID:       80623a86-568e-416a-85de-895be875f516
     :END:
 
-*** Informal Seminars
+** UCSD Informal Seminars
 **** TODO GMT Seminar 						      :FOCUS:
      :PROPERTIES:
      :ID:       4b241f45-ab31-446c-9479-9983ce98ce2a
      :END:
-
+<2013-04-04 Thu 10:00-11:00 +1w>
 ***** Tasks
 ****** TODO Prepare for GMT Seminars
        SCHEDULED: <2013-03-29 Fri>    
