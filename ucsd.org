@@ -195,16 +195,11 @@ Lectures in calendar and tasks like planning lectures.
       :END:
 <2013-04-03 Wed 11:00>
 
-***** TODO Add TA's to TED
-      :PROPERTIES:
-      :ID:       bdd19ccf-b641-498c-bc46-9970ac3c2f29
-      :END:
-***** TODO Add Grader's to TED with access to grade book
-      :PROPERTIES:
-      :ID:       5838d30c-a03c-4068-8f24-f81d7fd6154b
-      :END:
 **** Clocking							   :CLOCKING:
 ***** Admin
+      :LOGBOOK:
+      CLOCK: [2013-04-04 Thu 13:35]
+      :END:
 ***** Office hours
 **** Lectures							   :LECTURES:
 ***** Location
@@ -512,7 +507,8 @@ WLH 2001
       :LOGBOOK:
       CLOCK: [2013-04-01 Mon 11:44]--[2013-04-01 Mon 11:49] =>  0:05
       :END:
-***** NEXT Create TED Site
+***** DONE Create TED Site
+      - State "DONE"       from "NEXT"       [2013-04-04 Thu 13:58]
       :PROPERTIES:
       :ID:       d2a86ccc-cf75-421b-b747-691794c372cb
       :END:
@@ -524,6 +520,15 @@ WLH 2001
       :PROPERTIES:
       :ID:       93065af9-f7ec-498e-8316-3348e8e31aa5
       :END:
+***** NEXT Add TA's to TED
+      :PROPERTIES:
+      :ID:       bdd19ccf-b641-498c-bc46-9970ac3c2f29
+      :END:
+***** NEXT Add Grader's to TED with access to grade book
+      :PROPERTIES:
+      :ID:       5838d30c-a03c-4068-8f24-f81d7fd6154b
+      :END:
+
 **** Quizzes							       :QUIZ:
 ***** Quiz 01
 ****** DONE Set quiz 
@@ -993,7 +998,8 @@ Center 119
       :LOGBOOK:
       CLOCK: [2013-04-01 Mon 11:40]--[2013-04-01 Mon 11:44] =>  0:04
       :END:
-***** NEXT Create TED Site
+***** DONE Create TED Site
+      - State "DONE"       from "NEXT"       [2013-04-04 Thu 13:58]
       :PROPERTIES:
       :ID:       5e11f204-3dfa-44c1-b070-4dd3ade87b57
       :END:
@@ -1006,6 +1012,7 @@ Center 119
       :ID:       d86999b0-c85b-4aca-baca-90bdf0c15cf5
       :END:
 
+***** NEXT Grant graders access to TED grade book
 **** Quizzes							       :QUIZ:
 ***** Quiz 01
 ****** NEXT Set quiz 
