@@ -780,12 +780,18 @@ I should have cards with daily reminders, e.g. no more than 2 coffees, eat tacfi
 
 In particular, do I want to write at least say 15 hrs a week? If so, plan it out, commit and go! I've scheduled time for exercise and teaching, so do it for writing too! The plan should be incremental and guarenteed to succedd. See [[http://paidtoexist.com/creative-battle/]] for some pointers.
 ** TODO Set up paper-based project organisation
+   :PROPERTIES:
+   :ID:       25e03d24-e7ce-42a4-bbc1-16c926976dc7
+   :END:
 *** NEXT Research paper notebooks				   :COMPUTER:
     :PROPERTIES:
     :ID:       95201798-e0f8-4283-ad8c-c9bf948a52f2
     :END:
 Levenger?
 *** NEXT Come up with system for organising work
+    :PROPERTIES:
+    :ID:       5a6703fd-9c54-4259-8319-f258d5ca1387
+    :END:
 - Papers/Books should have a folder with paper and notes
 - Projects should have a larger folder with papers, notes etc.
 * office layout
@@ -1139,7 +1145,7 @@ I need to have my macros available.
   :END:
 ** Organisation
   :LOGBOOK:
-  CLOCK: [2013-04-04 Thu 14:52]
+  CLOCK: [2013-04-04 Thu 14:52]--[2013-04-04 Thu 15:12] =>  0:20
   CLOCK: [2013-04-03 Wed 21:15]--[2013-04-03 Wed 22:14] =>  0:59
   CLOCK: [2013-04-03 Wed 16:10]--[2013-04-03 Wed 16:22] =>  0:12
   CLOCK: [2013-04-03 Wed 14:12]--[2013-04-03 Wed 14:19] =>  0:07
