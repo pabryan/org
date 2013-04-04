@@ -520,7 +520,9 @@ WLH 2001
       :PROPERTIES:
       :ID:       93065af9-f7ec-498e-8316-3348e8e31aa5
       :END:
-***** NEXT Add TA's to TED
+***** HOLD Add TA's to TED
+      - State "HOLD"       from "NEXT"       [2013-04-04 Thu 14:12] \\
+	Emailed ACMS request to set it up.
       :PROPERTIES:
       :ID:       bdd19ccf-b641-498c-bc46-9970ac3c2f29
       :END:
@@ -1012,7 +1014,9 @@ Center 119
       :ID:       d86999b0-c85b-4aca-baca-90bdf0c15cf5
       :END:
 
-***** NEXT Grant graders access to TED grade book
+***** HOLD Grant graders access to TED grade book
+      - State "HOLD"       from "NEXT"       [2013-04-04 Thu 14:12] \\
+	Emailed ACMS request to set it up.
 **** Quizzes							       :QUIZ:
 ***** Quiz 01
 ****** NEXT Set quiz 
