@@ -196,7 +196,13 @@ Lectures in calendar and tasks like planning lectures.
 <2013-04-04 Thu 13:00>
 
 ***** TODO Add TA's to TED
+      :PROPERTIES:
+      :ID:       de3a976c-a1de-4d7f-9bc6-dd4822fefae2
+      :END:
 ***** TODO Add Grader's to TED with access to grade book
+      :PROPERTIES:
+      :ID:       1ef76a95-696e-4193-9e30-671f5f2cbf91
+      :END:
 **** Clocking							   :CLOCKING:
 ***** Admin
 ***** Office hours
@@ -222,6 +228,9 @@ WLH 2001
 ***** Lecture 01.2
       :LOGBOOK:
       CLOCK: [2013-04-03 Wed 14:40]--[2013-04-03 Wed 16:10] =>  1:30
+      :END:
+      :PROPERTIES:
+      :ID:       a884f795-1516-462c-97b5-12ca0d20e990
       :END:
 <2013-04-03 Wed 15:00-16:00>
 ****** DONE Prepare lecture
@@ -504,11 +513,17 @@ WLH 2001
       CLOCK: [2013-04-01 Mon 11:44]--[2013-04-01 Mon 11:49] =>  0:05
       :END:
 ***** NEXT Create TED Site
+      :PROPERTIES:
+      :ID:       ead00173-aba4-412d-a06b-e9429fb6c71c
+      :END:
 - Quizzes
 - Link to course home
 - Discussion Forums
 
 ***** NEXT Clairify homework/quiz process
+      :PROPERTIES:
+      :ID:       7597e5e7-6ba5-491f-a03b-d7f8c917ceba
+      :END:
 **** Quizzes							       :QUIZ:
 ***** Quiz 01
 ****** DONE Set quiz 
@@ -670,6 +685,9 @@ Lectures in calendar and tasks like planning lectures.
 - Homework
 - Quiz
 ***** TODO Meet TA's
+      :PROPERTIES:
+      :ID:       6839d631-8673-4c94-a5a9-2ca4611997fb
+      :END:
 <2013-04-03 Wed 10:30>
 **** Clocking							   :CLOCKING:
 ***** Admin
@@ -694,6 +712,9 @@ Center 119
 ***** Lecture 01.2
       :LOGBOOK:
       CLOCK: [2013-04-03 Wed 12:55]--[2013-04-03 Wed 14:12] =>  1:17
+      :END:
+      :PROPERTIES:
+      :ID:       7141201a-46b1-4129-944d-183398add5ad
       :END:
 <2013-04-03 Wed 13:00-14:00>
 ****** DONE Prepare lecture
@@ -969,11 +990,17 @@ Center 119
       CLOCK: [2013-04-01 Mon 11:40]--[2013-04-01 Mon 11:44] =>  0:04
       :END:
 ***** NEXT Create TED Site
+      :PROPERTIES:
+      :ID:       c314ef88-e3f5-46c4-af27-fab090903cb5
+      :END:
 - Quizzes
 - Link to course home
 - Discussion Forums
 
 ***** NEXT Clairify homework/quiz process
+      :PROPERTIES:
+      :ID:       671a70a4-736a-46cc-94b2-ec7541c9207e
+      :END:
 
 **** Quizzes							       :QUIZ:
 ***** Quiz 01
@@ -2321,6 +2348,9 @@ I was emailed by the iClicker people about a large class I'm teaching. How do th
 *** TODO Sign summer teaching form
   :LOGBOOK:
   :END:
+    :PROPERTIES:
+    :ID:       338a604f-8fa8-4298-8a1e-beabe95b3be6
+    :END:
 [2013-04-02 Tue 21:14]
 
 ** Teaching as research
@@ -2670,6 +2700,9 @@ It should make the relevant web entry and also the email notice. Possibly I coul
        :END:
 ****** NEXT Send GMT Announcement
        DEADLINE: <2013-04-05 Fri +1w>
+       :PROPERTIES:
+       :ID:       5dc89f83-55f4-4151-bf54-25bb01b83ca1
+       :END:
 ***** Notes
 ****** Main Topics
 - Optimisation Problems: Minimal surfaces, isoperimetric problem

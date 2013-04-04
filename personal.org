@@ -185,6 +185,7 @@ Use account A11078844
    - State "DONE"       from "TODO"       [2013-04-02 Tue 21:33]
    :PROPERTIES:
    :LAST_REPEAT: [2013-04-02 Tue 21:33]
+   :ID:       6d105c26-cfe0-4b31-acaf-5e0aa70b6b3e
    :END:
 [[http://www.att.com/]]
 
@@ -1185,6 +1186,9 @@ Catch the 41. Get off at Derrik Dr. after Claremont Mesa and before Balboa.
 ** TODO Renew Oz driver's license
   :LOGBOOK:
   :END:
+   :PROPERTIES:
+   :ID:       2a813d32-6c6b-4a1e-ab1c-3d94cdf693dc
+   :END:
 [2013-04-03 Wed 16:14]
 * Shows to watch
   :PROPERTIES:

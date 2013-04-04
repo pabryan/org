@@ -1116,6 +1116,9 @@ I need to have my macros available.
   :LOGBOOK:
   CLOCK: [2013-04-01 Mon 20:19]--[2013-04-01 Mon 20:20] =>  0:01
   :END:
+   :PROPERTIES:
+   :ID:       6cbb3546-3667-4d4d-ac04-e21326060341
+   :END:
 [2013-04-01 Mon 17:00]
 
 * Tasks
