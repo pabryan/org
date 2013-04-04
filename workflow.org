@@ -421,6 +421,15 @@ Publish to a different directory so I don't pollute my hg directory.
    :ID:       513da876-40d5-4ad2-990b-f73e2c384e81
    :END:
 [2013-03-31 Sun 17:36]
+** TODO Setup priorities					   :COMPUTER:
+   :PROPERTIES:
+   :ID:       c19772cf-4ad2-4f13-ac01-0c2eebb909f9
+   :END:
+*** NEXT Research org-mode priorities
+    :PROPERTIES:
+    :ID:       0e0ec6e9-ce54-49ca-924b-dc9957f63d33
+    :END:
+
 * process
   :PROPERTIES:
   :ID:       403ba6c9-9a32-430c-b0c9-0b09f2eba44e
@@ -770,6 +779,15 @@ I should have cards with daily reminders, e.g. no more than 2 coffees, eat tacfi
 [2013-02-22 Fri 08:07]
 
 In particular, do I want to write at least say 15 hrs a week? If so, plan it out, commit and go! I've scheduled time for exercise and teaching, so do it for writing too! The plan should be incremental and guarenteed to succedd. See [[http://paidtoexist.com/creative-battle/]] for some pointers.
+** TODO Set up paper-based project organisation
+*** NEXT Research paper notebooks				   :COMPUTER:
+    :PROPERTIES:
+    :ID:       95201798-e0f8-4283-ad8c-c9bf948a52f2
+    :END:
+Levenger?
+*** NEXT Come up with system for organising work
+- Papers/Books should have a folder with paper and notes
+- Projects should have a larger folder with papers, notes etc.
 * office layout
   :PROPERTIES:
   :ID:       827968af-420f-40a1-ac2d-4bbe7192cbc1
@@ -827,7 +845,8 @@ Also could have dry snacks, tinned stuff like sardines and so on.
    :PROPERTIES:
    :ID:       ddd7d9ba-1677-4d4a-86b5-e5baf26d36a8
    :END:
-** WAITING Get standing desk					     :OFFICE:
+** DONE Get standing desk					     :OFFICE:
+   - State "DONE"       from "WAITING"    [2013-04-04 Thu 14:52]
    - State "WAITING"    from "TODO"       [2012-10-18 Thu 14:25] \\
      Waiting for Maureen to find desk
   CLOCK: [2012-10-18 Thu 14:24]--[2012-10-18 Thu 14:25] =>  0:01
@@ -836,16 +855,8 @@ Also could have dry snacks, tinned stuff like sardines and so on.
    :END:
 [2012-10-18 Thu 14:24]
 
-** TODO Setup priorities					   :COMPUTER:
-   :PROPERTIES:
-   :ID:       c19772cf-4ad2-4f13-ac01-0c2eebb909f9
-   :END:
-*** NEXT Research org-mode priorities
-    :PROPERTIES:
-    :ID:       0e0ec6e9-ce54-49ca-924b-dc9957f63d33
-    :END:
-
-** TODO Research standing desk/writing easal
+** DONE Research standing desk/writing easal
+   - State "DONE"       from "TODO"       [2013-04-04 Thu 14:52]
   :LOGBOOK:
   :END:
    :PROPERTIES:
@@ -853,7 +864,8 @@ Also could have dry snacks, tinned stuff like sardines and so on.
    :END:
 [2013-01-03 Thu 13:31]
 
-** WAITING Get key for filing cabinet
+** DONE Get key for filing cabinet
+   - State "DONE"       from "WAITING"    [2013-04-04 Thu 14:52]
    - State "WAITING"    from "NEXT"       [2013-03-19 Tue 13:31] \\
      Sent Maureen an email requesting keys
   :LOGBOOK:
@@ -1127,6 +1139,7 @@ I need to have my macros available.
   :END:
 ** Organisation
   :LOGBOOK:
+  CLOCK: [2013-04-04 Thu 14:52]
   CLOCK: [2013-04-03 Wed 21:15]--[2013-04-03 Wed 22:14] =>  0:59
   CLOCK: [2013-04-03 Wed 16:10]--[2013-04-03 Wed 16:22] =>  0:12
   CLOCK: [2013-04-03 Wed 14:12]--[2013-04-03 Wed 14:19] =>  0:07
