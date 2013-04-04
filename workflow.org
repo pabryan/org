@@ -1112,12 +1112,12 @@ Does mutt integrate well?
 [2013-02-15 Fri 10:34]
 I need to have my macros available.
 ** TODO Update work computer
-  DEADLINE: <2013-04-04 Thu> SCHEDULED: <2013-04-03 Wed>
-  :LOGBOOK:
+   DEADLINE: <2013-04-04 Thu> SCHEDULED: <2013-04-03 Wed>
+   :LOGBOOK:
   CLOCK: [2013-04-01 Mon 20:19]--[2013-04-01 Mon 20:20] =>  0:01
   :END:
    :PROPERTIES:
-   :ID:       6cbb3546-3667-4d4d-ac04-e21326060341
+   :ID:       dcc3a712-6f4f-4003-bc5d-8a6504a67ff4
    :END:
 [2013-04-01 Mon 17:00]
 
@@ -1127,6 +1127,7 @@ I need to have my macros available.
   :END:
 ** Organisation
   :LOGBOOK:
+  CLOCK: [2013-04-03 Wed 21:15]--[2013-04-03 Wed 22:14] =>  0:59
   CLOCK: [2013-04-03 Wed 16:10]--[2013-04-03 Wed 16:22] =>  0:12
   CLOCK: [2013-04-03 Wed 14:12]--[2013-04-03 Wed 14:19] =>  0:07
   CLOCK: [2013-04-03 Wed 10:56]--[2013-04-03 Wed 10:57] =>  0:01
