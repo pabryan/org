@@ -193,7 +193,7 @@ Lectures in calendar and tasks like planning lectures.
       :LOGBOOK:
       CLOCK: [2013-04-03 Wed 11:01]--[2013-04-03 Wed 11:21] =>  0:20
       :END:
-<2013-04-04 Thu 13:00>
+<2013-04-03 Wed 11:00>
 
 ***** TODO Add TA's to TED
       :PROPERTIES:
@@ -684,11 +684,15 @@ Lectures in calendar and tasks like planning lectures.
 - Discussions
 - Homework
 - Quiz
-***** TODO Meet TA's
+***** DONE Meet TA's
+      :LOGBOOK:
+      CLOCK: [2013-04-04 Thu 13:10]--[2013-04-04 Thu 13:35] =>  0:25
+      :END:
+      - State "DONE"       from "TODO"       [2013-04-04 Thu 13:47]
       :PROPERTIES:
       :ID:       e361de6d-f497-434c-8740-ba92b3530218
       :END:
-<2013-04-03 Wed 10:30>
+<2013-04-04 Thu 13:30>
 **** Clocking							   :CLOCKING:
 ***** Admin
 ***** Office hours
@@ -2676,6 +2680,9 @@ It should make the relevant web entry and also the email notice. Possibly I coul
 
 ** UCSD Informal Seminars
 **** TODO GMT Seminar 						      :FOCUS:
+     :LOGBOOK:
+     CLOCK: [2013-04-04 Thu 09:55]--[2013-04-04 Thu 11:15] =>  1:20
+     :END:
      :PROPERTIES:
      :ID:       4b241f45-ab31-446c-9479-9983ce98ce2a
      :END:
