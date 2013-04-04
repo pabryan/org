@@ -633,19 +633,18 @@ Doyle Field
    :ID:       3303ad99-6a5b-45a9-bfac-f380265c930d
    :END:
 [2013-02-21 Thu 09:00]
-* House Maintenance
+* House 
   :PROPERTIES:
   :ID:       dee2dca4-a5da-45e5-a276-2e4f8f255a9c
+  :CATEGORY: House
   :END:
-PROPERTIES:
-CATEGORY: House
-END:
 
-** TODO finish house unpacking
-   :PROPERTIES:
-   :ID:       dfe51711-2dd6-4f5b-8dbe-887df2af8485
-   :END:
-*** NEXT Plan home organisation
+** Tasks
+*** TODO finish house unpacking
+    :PROPERTIES:
+    :ID:       dfe51711-2dd6-4f5b-8dbe-887df2af8485
+    :END:
+**** NEXT Plan home organisation
 places to file things
 storage containers
 everything has a home!
@@ -656,82 +655,82 @@ pantry shelves
    :END:
 [2012-10-14 Sun 20:44]
 
-*** NEXT Organise kitchen
+**** NEXT Organise kitchen
   CLOCK: [2012-10-28 Sun 15:06]--[2012-10-28 Sun 15:06] =>  0:00
     :PROPERTIES:
     :ID:       c12fa524-bc9a-4545-8d8a-ec4ee8bd40d0
     :END:
 [2012-10-28 Sun 15:06]
 
-*** NEXT Organise bedroom
+**** NEXT Organise bedroom
   CLOCK: [2012-10-28 Sun 15:06]--[2012-10-28 Sun 15:06] =>  0:00
     :PROPERTIES:
     :ID:       206a5bae-27b1-4a32-9d27-96ebb00f4af5
     :END:
 [2012-10-28 Sun 15:06]
-**** NEXT Catalogue bedroom things
-     :PROPERTIES:
-     :ID:       5c916845-c3c5-453a-8eb7-0c42d8df7f82
-     :END:
-**** TODO buy bedroom storage items
-     :PROPERTIES:
-     :ID:       b40472b0-e3ba-4b82-aa00-4a3609ff0552
-     :END:
-**** NEXT Pack away bedroom things
-     :PROPERTIES:
-     :ID:       2a83948c-9b08-4bf5-9c25-029a25c1392e
-     :END:
+***** NEXT Catalogue bedroom things
+      :PROPERTIES:
+      :ID:       5c916845-c3c5-453a-8eb7-0c42d8df7f82
+      :END:
+***** TODO buy bedroom storage items
+      :PROPERTIES:
+      :ID:       b40472b0-e3ba-4b82-aa00-4a3609ff0552
+      :END:
+***** NEXT Pack away bedroom things
+      :PROPERTIES:
+      :ID:       2a83948c-9b08-4bf5-9c25-029a25c1392e
+      :END:
 
-*** NEXT organise kid's room
+**** NEXT organise kid's room
   CLOCK: [2012-10-28 Sun 15:06]--[2012-10-28 Sun 15:07] =>  0:01
     :PROPERTIES:
     :ID:       845957f6-b5c4-48c8-bafa-1dd919b9f6b1
     :END:
 [2012-10-28 Sun 15:06]
-**** NEXT Catalogue kids bedroom things
-     :PROPERTIES:
-     :ID:       ab7f4780-89fe-45f1-93b3-a609f7194043
-     :END:
-**** TODO buy kids bedroom storage items
-     :PROPERTIES:
-     :ID:       ce79670f-4ca6-4c00-b2af-cbca584ada00
-     :END:
-**** TODO Pack away kids bedroom things
-     :PROPERTIES:
-     :ID:       ea25f4d7-edba-48d6-9157-56aa52127708
-     :END:
+***** NEXT Catalogue kids bedroom things
+      :PROPERTIES:
+      :ID:       ab7f4780-89fe-45f1-93b3-a609f7194043
+      :END:
+***** TODO buy kids bedroom storage items
+      :PROPERTIES:
+      :ID:       ce79670f-4ca6-4c00-b2af-cbca584ada00
+      :END:
+***** TODO Pack away kids bedroom things
+      :PROPERTIES:
+      :ID:       ea25f4d7-edba-48d6-9157-56aa52127708
+      :END:
 
-*** NEXT organise laundary
+**** NEXT organise laundary
   CLOCK: [2012-10-28 Sun 15:08]--[2012-10-28 Sun 15:08] =>  0:00
     :PROPERTIES:
     :ID:       4d8ed191-cc09-4c71-b3d2-2aa1edd208d2
     :END:
 [2012-10-28 Sun 15:08]
-**** NEXT Catalogue laundary things
-     :PROPERTIES:
-     :ID:       931d602f-fe63-4c5c-bfdc-31422a711142
-     :END:
-**** TODO buy laundary storage items
-     :PROPERTIES:
-     :ID:       452bb9e2-0d1a-4284-bc3e-191e4829e4fb
-     :END:
-**** TODO Pack away laundary things
-     :PROPERTIES:
-     :ID:       6eeb88a8-2a82-4f5e-9780-f1a03607d5bc
-     :END:
+***** NEXT Catalogue laundary things
+      :PROPERTIES:
+      :ID:       931d602f-fe63-4c5c-bfdc-31422a711142
+      :END:
+***** TODO buy laundary storage items
+      :PROPERTIES:
+      :ID:       452bb9e2-0d1a-4284-bc3e-191e4829e4fb
+      :END:
+***** TODO Pack away laundary things
+      :PROPERTIES:
+      :ID:       6eeb88a8-2a82-4f5e-9780-f1a03607d5bc
+      :END:
 
-*** SOMEDAY pack away tea pots
+**** SOMEDAY pack away tea pots
   CLOCK: [2012-10-14 Sun 19:56]--[2012-10-14 Sun 19:56] =>  0:00
    :PROPERTIES:
    :ID:       1b524408-f508-4d2e-839a-0936559efaf4
    :END:
 [2012-10-14 Sun 19:56]
-** DONE Unplug sink and bath
-   - State "DONE"       from "TODO"       [2012-12-09 Sun 20:29]
-   :PROPERTIES:
-   :ID:       54b76607-8bc3-41ca-98b8-06306ff55bb2
-   :END:
-** NEXT Create habits
+*** DONE Unplug sink and bath
+    - State "DONE"       from "TODO"       [2012-12-09 Sun 20:29]
+    :PROPERTIES:
+    :ID:       54b76607-8bc3-41ca-98b8-06306ff55bb2
+    :END:
+*** NEXT Create habits
    :PROPERTIES:
    :ID:       bd9fc482-fb1e-43f9-92e9-76e023b1e477
    :END:
@@ -742,11 +741,14 @@ laundary 1d/2d
 clean kids bathroom 1w/2w
 clean bathroom 1w/2w
 fluff sheets 1d/2d
-** Patio inspection
+*** Patio inspection
    :PROPERTIES:
    :ID:       7997fd97-b3d9-4217-a253-e12278fe22b9
    :END:
 <2012-12-05 Wed>
+** Del Sol
+*** Breakfast
+<2013-04-10 Wed 07:00-08:00>
 * Notes
   :PROPERTIES:
   :ID:       4def01e0-c4b0-4797-a19c-049ea35d696a
