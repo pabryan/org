@@ -6,7 +6,8 @@
   :ID:       8a99b95b-0a55-43cd-a1e6-ab39add3f79a
   :END:
 [2013-04-04 Thu 15:12]
-* TODO Change quiz due time to Mon 11am
+* DONE Change quiz due time to Mon 11am
+  - State "DONE"       from "TODO"       [2013-04-05 Fri 16:38]
   :LOGBOOK:
   :END:
   :PROPERTIES:

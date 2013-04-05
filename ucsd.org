@@ -235,6 +235,10 @@ WLH 2001
        :ID:       608e698a-5fab-4b48-8461-e6db228b115b
        :END:
 ***** Lecture 01.3
+      :LOGBOOK:
+      CLOCK: [2013-04-05 Fri 14:50]--[2013-04-05 Fri 16:10] =>  1:20
+      :END:
+
 <2013-04-05 Fri 15:00-16:00>
 ****** DONE Prepare lecture
        - State "DONE"       from "NEXT"       [2013-04-01 Mon 11:19]
@@ -630,10 +634,6 @@ WLH 2001
 ****** Questions
 
 *** TODO MATH20D Spring 2013				      :MATH20D:FOCUS:
-    :LOGBOOK:
-    CLOCK: [2013-04-05 Fri 12:10]
-    CLOCK: [2013-04-01 Mon 16:45]--[2013-04-01 Mon 16:46] =>  0:01
-    :END:
     :PROPERTIES:
     :ID:       01742e1a-c15f-4aab-ada0-59725c2e73e4
     :END:
@@ -741,11 +741,17 @@ Center 119
        :ID:       e754bbd6-cb08-4608-bb74-9726ef93bee9
        :END:
 ***** Lecture 01.3
+      :LOGBOOK:
+      CLOCK: [2013-04-05 Fri 12:50]--[2013-04-05 Fri 14:10] =>  1:20
+      :END:
 <2013-04-05 Fri 13:00-14:00>
 ****** DONE Prepare lecture
        - State "DONE"       from "NEXT"       [2013-04-01 Mon 11:19]
        :PROPERTIES:
        :ID:       226fd287-4eaf-4c14-a079-d9a56a057f00
+       :END:
+       :LOGBOOK:
+       CLOCK: [2013-04-05 Fri 14:10]--[2013-04-05 Fri 14:50] =>  0:40
        :END:
 ***** Lecture 02.1
 <2013-04-08 Mon 13:00-14:00>
@@ -2416,7 +2422,9 @@ See email from worldscientific4@mail3.wspc.com
   :PROPERTIES:
   :ID:       4a7b50f0-8368-4d3a-bc5d-c0e229fd442f
   :END:
-** TODO UCSD DG Seminar   
+** HOLD UCSD DG Seminar   
+   - State "HOLD"       from "TODO"       [2013-04-05 Fri 16:38] \\
+     No speakers at the moment
    :LOGBOOK:
    CLOCK: [2013-02-01 Fri 11:26]--[2013-02-01 Fri 11:27] =>  0:01
    :END:
