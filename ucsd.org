@@ -562,7 +562,7 @@ WLH 2001
 
 ***** Quiz 03
 ****** NEXT Set quiz 
-       DEADLINE: <2013-04-12 Fri>
+       DEADLINE: <2013-04-10 Wed>
        :PROPERTIES:
        :ID:       b32166f6-6acf-415b-b484-db379e1b8f2a
        :END:
@@ -570,7 +570,7 @@ WLH 2001
 
 ***** Quiz 04
 ****** NEXT Set quiz 
-       DEADLINE: <2013-04-19 Fri>
+       DEADLINE: <2013-04-17 Wed>
        :PROPERTIES:
        :ID:       80b1a1ab-93e8-471b-b40c-32fc4fcaf52d
        :END:
@@ -578,7 +578,7 @@ WLH 2001
 
 ***** Quiz 05
 ****** NEXT Set quiz 
-       DEADLINE: <2013-04-26 Fri>
+       DEADLINE: <2013-04-24 Wed>
        :PROPERTIES:
        :ID:       2a808063-e084-4c35-ab2e-bf3263c5e0fe
        :END:
@@ -586,7 +586,7 @@ WLH 2001
 
 ***** Quiz 06
 ****** NEXT Set quiz 
-       DEADLINE: <2013-05-03 Fri>
+       DEADLINE: <2013-05-01 Wed>
        :PROPERTIES:
        :ID:       d4b00fad-fc84-4735-a397-f59302495730
        :END:
@@ -594,7 +594,7 @@ WLH 2001
 
 ***** Quiz 07
 ****** NEXT Set quiz 
-       DEADLINE: <2013-05-10 Fri>
+       DEADLINE: <2013-05-08 Wed>
        :PROPERTIES:
        :ID:       4097b249-f5cc-46af-aab4-f918e55b6b99
        :END:
@@ -602,7 +602,7 @@ WLH 2001
 
 ***** Quiz 08
 ****** NEXT Set quiz 
-       DEADLINE: <2013-05-17 Fri>
+       DEADLINE: <2013-05-15 Wed>
        :PROPERTIES:
        :ID:       cfe439a6-ad6e-4e9b-87bd-58980f5abdc9
        :END:
@@ -610,7 +610,7 @@ WLH 2001
 
 ***** Quiz 09
 ****** NEXT Set quiz 
-       DEADLINE: <2013-05-24 Fri>
+       DEADLINE: <2013-05-22 Wed>
        :PROPERTIES:
        :ID:       ce473fc3-e7f4-4afe-8329-3b3cf9775479
        :END:
@@ -618,7 +618,7 @@ WLH 2001
 
 ***** Quiz 10
 ****** NEXT Set quiz 
-       DEADLINE: <2013-05-31 Fri>
+       DEADLINE: <2013-05-29 Wed>
        :PROPERTIES:
        :ID:       2d7fa15f-8f43-4fad-af54-c66a08479319
        :END:
@@ -1029,16 +1029,19 @@ Center 119
 ***** Quiz 01
 ****** DONE Set quiz 
        DEADLINE: <2013-04-01 Mon>
+       - State "DONE"       from "DONE"       [2013-04-04 Thu 22:10]
        - State "DONE"       from "NEXT"       [2013-04-04 Thu 21:43]
        :PROPERTIES:
        :ID:       e0a6cf2b-492b-4ecb-92a9-a36c04b4d0be
        :END:
 ****** Questions
 ***** Quiz 02
-****** NEXT Set quiz 
+****** DONE Set quiz 
        DEADLINE: <2013-04-05 Fri>
+       - State "DONE"       from "NEXT"       [2013-04-04 Thu 22:12]
        :LOGBOOK:
-       CLOCK: [2013-04-04 Thu 20:35]
+       CLOCK: [2013-04-04 Thu 21:57]--[2013-04-04 Thu 22:11] =>  0:14
+       CLOCK: [2013-04-04 Thu 20:35]--[2013-04-04 Thu 21:55] =>  1:20
        :END:
        :PROPERTIES:
        :ID:       1c9452f4-13fb-428b-8780-9a92cc905004
@@ -1047,7 +1050,7 @@ Center 119
 
 ***** Quiz 03
 ****** NEXT Set quiz 
-       DEADLINE: <2013-04-12 Fri>
+       DEADLINE: <2013-04-10 Wed>
        :PROPERTIES:
        :ID:       09ea871a-f3e7-4b41-8923-ced3d5dd02e2
        :END:
@@ -1055,7 +1058,7 @@ Center 119
 
 ***** Quiz 04
 ****** NEXT Set quiz 
-       DEADLINE: <2013-04-19 Fri>
+       DEADLINE: <2013-04-17 Wed>
        :PROPERTIES:
        :ID:       37d9d549-2b33-4ff7-9b09-312ace69d011
        :END:
@@ -1063,7 +1066,7 @@ Center 119
 
 ***** Quiz 05
 ****** NEXT Set quiz 
-       DEADLINE: <2013-04-26 Fri>
+       DEADLINE: <2013-04-24 Wed>
        :PROPERTIES:
        :ID:       e4887be3-aa2b-493b-a02e-e83ca77951c3
        :END:
@@ -1071,7 +1074,7 @@ Center 119
 
 ***** Quiz 06
 ****** NEXT Set quiz 
-       DEADLINE: <2013-05-03 Fri>
+       DEADLINE: <2013-05-01 Wed>
        :PROPERTIES:
        :ID:       6652046a-37df-49ea-9859-c3cb1c8d76ed
        :END:
@@ -1079,7 +1082,7 @@ Center 119
 
 ***** Quiz 07
 ****** NEXT Set quiz 
-       DEADLINE: <2013-05-10 Fri>
+       DEADLINE: <2013-05-08 Wed>
        :PROPERTIES:
        :ID:       c0fc7838-ed8c-4a28-a9fd-b841d25b8bfc
        :END:
@@ -1087,7 +1090,7 @@ Center 119
 
 ***** Quiz 08
 ****** NEXT Set quiz 
-       DEADLINE: <2013-05-17 Fri>
+       DEADLINE: <2013-05-15 Wed>
        :PROPERTIES:
        :ID:       1273c21b-476b-4e8c-8274-63d5536e1521
        :END:
@@ -1095,7 +1098,7 @@ Center 119
 
 ***** Quiz 09
 ****** NEXT Set quiz 
-       DEADLINE: <2013-05-24 Fri>
+       DEADLINE: <2013-05-22 Wed>
        :PROPERTIES:
        :ID:       e0245b6f-6ca1-443a-893d-8e8914a2c59f
        :END:
@@ -1103,7 +1106,7 @@ Center 119
 
 ***** Quiz 10
 ****** NEXT Set quiz 
-       DEADLINE: <2013-05-31 Fri>
+       DEADLINE: <2013-05-29 Wed>
        :PROPERTIES:
        :ID:       851033c1-a87b-499a-9a9b-afbfcbd2ddcd
        :END:
