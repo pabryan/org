@@ -451,8 +451,9 @@ WLH 2001
        :END:
 **** Homework							   :HOMEWORK:
 ***** Homework 1
-****** NEXT Set Homework 01
+****** DONE Set Homework 01
        DEADLINE: <2013-04-03 Wed>
+       - State "DONE"       from "NEXT"       [2013-04-03 Wed 17:30]
        :LOGBOOK:
        CLOCK: [2013-04-03 Wed 16:22]--[2013-04-03 Wed 17:29] =>  1:07
        CLOCK: [2013-04-03 Wed 14:19]--[2013-04-03 Wed 14:40] =>  0:21
@@ -951,8 +952,12 @@ Center 119
        :END:
 **** Homework							   :HOMEWORK:
 ***** Homework 1
-****** NEXT Set Homework 01
+****** DONE Set Homework 01
        DEADLINE: <2013-04-03 Wed>
+       - State "DONE"       from "NEXT"       [2013-04-04 Thu 21:43]
+       :LOGBOOK:
+       CLOCK: [2013-04-04 Thu 18:42]--[2013-04-04 Thu 19:35] =>  0:53
+       :END:
        :PROPERTIES:
        :ID:       62fa4fb5-0e7b-4082-b8d6-27f9b15c4c33
        :END:
@@ -1022,8 +1027,9 @@ Center 119
       :END:
 **** Quizzes							       :QUIZ:
 ***** Quiz 01
-****** NEXT Set quiz 
+****** DONE Set quiz 
        DEADLINE: <2013-04-01 Mon>
+       - State "DONE"       from "NEXT"       [2013-04-04 Thu 21:43]
        :PROPERTIES:
        :ID:       e0a6cf2b-492b-4ecb-92a9-a36c04b4d0be
        :END:
@@ -1031,6 +1037,9 @@ Center 119
 ***** Quiz 02
 ****** NEXT Set quiz 
        DEADLINE: <2013-04-05 Fri>
+       :LOGBOOK:
+       CLOCK: [2013-04-04 Thu 20:35]
+       :END:
        :PROPERTIES:
        :ID:       1c9452f4-13fb-428b-8780-9a92cc905004
        :END:
