@@ -631,6 +631,7 @@ WLH 2001
 
 *** TODO MATH20D Spring 2013				      :MATH20D:FOCUS:
     :LOGBOOK:
+    CLOCK: [2013-04-05 Fri 12:10]
     CLOCK: [2013-04-01 Mon 16:45]--[2013-04-01 Mon 16:46] =>  0:01
     :END:
     :PROPERTIES:
@@ -1019,9 +1020,10 @@ Center 119
 - Link to course home
 - Discussion Forums
 
-***** NEXT Clairify homework/quiz process
+***** DONE Clairify homework/quiz process
+      - State "DONE"       from "NEXT"       [2013-04-05 Fri 12:10]
       :LOGBOOK:
-      CLOCK: [2013-04-05 Fri 11:48]
+      CLOCK: [2013-04-05 Fri 11:48]--[2013-04-05 Fri 12:10] =>  0:22
       :END:
       :PROPERTIES:
       :ID:       d86999b0-c85b-4aca-baca-90bdf0c15cf5
