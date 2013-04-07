@@ -196,6 +196,13 @@ Lectures in calendar and tasks like planning lectures.
       :END:
 <2013-04-03 Wed 11:00>
 
+***** NEXT Set up stats on TED for assessment
+  :LOGBOOK:
+  :END:
+  :PROPERTIES:
+  :ID:       759de22f-a2b3-434b-9ac7-5df37006f70d
+  :END:
+[2013-04-04 Thu 15:12]
 **** Clocking							   :CLOCKING:
 ***** Admin
       :LOGBOOK:
@@ -500,6 +507,13 @@ WLH 2001
        :ID:       0be961ca-b6a6-46e6-8f40-999705c0e649
        :END:
 
+***** NEXT Change homework due time to 4pm
+  :LOGBOOK:
+  :END:
+  :PROPERTIES:
+  :ID:       8a99b95b-0a55-43cd-a1e6-ab39add3f79a
+  :END:
+[2013-04-04 Thu 15:12]
 **** Website
 ***** DONE Make website
       - State "DONE"       from "NEXT"       [2013-03-20 Wed 16:17]
@@ -644,25 +658,11 @@ WLH 2001
   :ID:       75780c3b-a0b4-4657-a13b-ccccf5829c62
   :END:
 [2013-04-04 Thu 15:12]
-***** TODO Put quiz problems on Website
+***** NEXT Put quiz problems on Website
   :LOGBOOK:
   :END:
 [2013-04-05 Fri 16:44]
-***** TODO Set up stats on TED for assessment
-  :LOGBOOK:
-  :END:
-  :PROPERTIES:
-  :ID:       759de22f-a2b3-434b-9ac7-5df37006f70d
-  :END:
-[2013-04-04 Thu 15:12]
-***** TODO Change homework due time to 4pm
-  :LOGBOOK:
-  :END:
-  :PROPERTIES:
-  :ID:       8a99b95b-0a55-43cd-a1e6-ab39add3f79a
-  :END:
-[2013-04-04 Thu 15:12]
-*** TODO MATH20D Spring 2013				      :MATH20D:FOCUS:
+*** TODO MATH20D Spring 2013 				      :MATH20D:FOCUS:
     :PROPERTIES:
     :ID:       01742e1a-c15f-4aab-ada0-59725c2e73e4
     :END:
@@ -736,6 +736,13 @@ Lectures in calendar and tasks like planning lectures.
       :ID:       e361de6d-f497-434c-8740-ba92b3530218
       :END:
 <2013-04-04 Thu 13:30>
+***** NEXT Set up stats on TED for assessment
+  :LOGBOOK:
+  :END:
+  :PROPERTIES:
+  :ID:       759de22f-a2b3-434b-9ac7-5df37006f70d
+  :END:
+[2013-04-04 Thu 15:12]
 **** Clocking							   :CLOCKING:
 ***** Admin
 ***** Office hours
@@ -790,6 +797,7 @@ Center 119
 ****** NEXT Prepare lecture
        DEADLINE: <2013-04-08 Mon>
        :LOGBOOK:
+       CLOCK: [2013-04-07 Sun 13:32]
        CLOCK: [2013-04-07 Sun 12:50]--[2013-04-07 Sun 13:19] =>  0:29
        :END:
        :PROPERTIES:
@@ -1037,6 +1045,13 @@ Center 119
        :ID:       11083b9b-09dc-46c6-82d5-2e084e51f163
        :END:
 
+***** NEXT Change homework due time to 4pm
+  :LOGBOOK:
+  :END:
+  :PROPERTIES:
+  :ID:       8a99b95b-0a55-43cd-a1e6-ab39add3f79a
+  :END:
+[2013-04-04 Thu 15:12]
 **** Website
 ***** DONE Make Website
       - State "DONE"       from "NEXT"           [2013-03-29 Fri 14:19]
@@ -1165,7 +1180,11 @@ Center 119
        :END:
 ****** Questions
 
-*** TODO MATH142B Winter 2012					   :MATH142B:
+***** NEXT Put quiz problems on Website
+  :LOGBOOK:
+  :END:
+[2013-04-05 Fri 16:44]
+*** TODO MATH142B Winter 2012 					   :MATH142B:
     - State "TODO"       from "DONE"       [2013-03-27 Wed 09:53] \\
       Need to update a student's grade.
     - State "DONE"       from "TODO"       [2013-03-26 Tue 20:29]
