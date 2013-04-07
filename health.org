@@ -8,7 +8,8 @@
 
 ** Tracking
 *** NEXT Exercise
-    SCHEDULED: <2013-04-02 Tue .+1d/2d>
+    SCHEDULED: <2013-04-07 Sun .+1d/2d>
+    - State "DONE"       from "NEXT"       [2013-04-06 Sat 11:00]
     - State "DONE"       from "NEXT"       [2013-04-01 Mon 11:00]
     - State "DONE"       from "NEXT"       [2013-03-31 Sun 16:11]
     - State "DONE"       from "NEXT"       [2013-03-30 Sat 20:15]
@@ -37,7 +38,8 @@
     :END:
 
 *** NEXT Morning Mobility
-    SCHEDULED: <2013-04-03 Wed .+1d/2d>
+    SCHEDULED: <2013-04-07 Sun .+1d/2d>
+    - State "DONE"       from "NEXT"       [2013-04-06 Sat 11:00]
     - State "DONE"       from "NEXT"       [2013-04-02 Tue 21:27]
     - State "DONE"       from "NEXT"       [2013-04-01 Mon 11:00]
     - State "DONE"       from "NEXT"       [2013-03-31 Sun 16:11]
@@ -72,7 +74,8 @@
     :END:
 
 *** NEXT Afternoon Relax
-    SCHEDULED: <2013-04-03 Wed .+1d/2d>
+    SCHEDULED: <2013-04-07 Sun .+1d/2d>
+    - State "DONE"       from "NEXT"       [2013-04-06 Sat 16:00]
     - State "DONE"       from "NEXT"       [2013-04-02 Tue 21:27]
     - State "DONE"       from "NEXT"       [2013-03-30 Sat 20:15]
     - State "DONE"       from "NEXT"       [2013-03-28 Thu 19:57]

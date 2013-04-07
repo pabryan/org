@@ -378,7 +378,7 @@ MR2225802 gives conditions for when non-trivial self-similar solutions exist.
 [[file:refs.org::#MR1902649][Singularities in crystalline curvature flows]]
 [[file:refs.org::#MR2946930][Contracting convex immersed closed plane curves with slow speed of curvature]]
 
-**** TODO Ricci isoperimetric profile			     :RICCI_ISO_COMP:
+**** TODO Ricci isoperimetric profile		       :RICCI_ISO_COMP:FOCUS:
    :LOGBOOK:
    :END:
 [[file:~/working/academic/research/ricci_surfaces_isoperimetric_comparison]]
@@ -727,7 +727,7 @@ Can I use a non-collapsing type argument?
 Look at all dark matter papers. Alan Parry also. Bibliography of course!
 ** Books
 *** Working
-**** TODO MCF Book						   :MCF_BOOK:
+**** TODO MCF Book					     :MCF_BOOK:FOCUS:
 [[file:~/working/academic/research/mcf_book]]
 [[file:~/Dropbox/MCF Project]]
    :PROPERTIES:

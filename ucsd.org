@@ -636,6 +636,32 @@ WLH 2001
        :END:
 ****** Questions
 
+***** DONE Change quiz due time to Mon 11am
+  - State "DONE"       from "TODO"       [2013-04-05 Fri 16:38]
+  :LOGBOOK:
+  :END:
+  :PROPERTIES:
+  :ID:       75780c3b-a0b4-4657-a13b-ccccf5829c62
+  :END:
+[2013-04-04 Thu 15:12]
+***** TODO Put quiz problems on Website
+  :LOGBOOK:
+  :END:
+[2013-04-05 Fri 16:44]
+***** TODO Set up stats on TED for assessment
+  :LOGBOOK:
+  :END:
+  :PROPERTIES:
+  :ID:       759de22f-a2b3-434b-9ac7-5df37006f70d
+  :END:
+[2013-04-04 Thu 15:12]
+***** TODO Change homework due time to 4pm
+  :LOGBOOK:
+  :END:
+  :PROPERTIES:
+  :ID:       8a99b95b-0a55-43cd-a1e6-ab39add3f79a
+  :END:
+[2013-04-04 Thu 15:12]
 *** TODO MATH20D Spring 2013				      :MATH20D:FOCUS:
     :PROPERTIES:
     :ID:       01742e1a-c15f-4aab-ada0-59725c2e73e4
