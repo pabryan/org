@@ -588,6 +588,9 @@ WLH 2001
 ***** Quiz 02
 ****** NEXT Set quiz 
        DEADLINE: <2013-04-05 Fri>
+       :LOGBOOK:
+       CLOCK: [2013-04-07 Sun 15:54]--[2013-04-07 Sun 16:13] =>  0:19
+       :END:
        :PROPERTIES:
        :ID:       99ba4062-f73c-4652-8677-17abc4d19580
        :END:
