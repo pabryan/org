@@ -9,3 +9,9 @@
   CLOCK: [2013-04-07 Sun 15:23]--[2013-04-07 Sun 15:24] =>  0:01
   :END:
 [2013-04-07 Sun 15:23]
+* TODO Setup Media server
+  :LOGBOOK:
+  CLOCK: [2013-04-07 Sun 15:33]--[2013-04-07 Sun 15:35] =>  0:02
+  :END:
+[2013-04-07 Sun 15:33]
+This will be to use XBMC, the [[http://code.google.com/p/pms-xbmc/]] [[http://www.ps3mediaserver.org/about/][PS3 media server]] plugin and https://github.com/jnj/pms-scrobbler to access last.fm. I should be able to watch movies too? It would be nice to send the full screen output to the streaming server...
