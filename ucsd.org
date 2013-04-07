@@ -259,6 +259,9 @@ WLH 2001
 <2013-04-08 Mon 15:00-16:00>
 ****** NEXT Prepare lecture
        DEADLINE: <2013-04-08 Mon>
+       :LOGBOOK:
+       CLOCK: [2013-04-07 Sun 14:29]
+       :END:
        :PROPERTIES:
        :ID:       ff6696aa-379e-447f-b684-b8466bb23e35
        :END:
@@ -663,6 +666,9 @@ WLH 2001
   :END:
 [2013-04-05 Fri 16:44]
 *** TODO MATH20D Spring 2013 				      :MATH20D:FOCUS:
+    :LOGBOOK:
+    CLOCK: [2013-04-07 Sun 14:28]--[2013-04-07 Sun 14:29] =>  0:01
+    :END:
     :PROPERTIES:
     :ID:       01742e1a-c15f-4aab-ada0-59725c2e73e4
     :END:
@@ -794,10 +800,11 @@ Center 119
        :END:
 ***** Lecture 02.1
 <2013-04-08 Mon 13:00-14:00>
-****** NEXT Prepare lecture
+****** DONE Prepare lecture
        DEADLINE: <2013-04-08 Mon>
+       - State "DONE"       from "NEXT"       [2013-04-07 Sun 14:28]
        :LOGBOOK:
-       CLOCK: [2013-04-07 Sun 13:32]
+       CLOCK: [2013-04-07 Sun 13:32]--[2013-04-07 Sun 14:28] =>  0:56
        CLOCK: [2013-04-07 Sun 12:50]--[2013-04-07 Sun 13:19] =>  0:29
        :END:
        :PROPERTIES:
