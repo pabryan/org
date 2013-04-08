@@ -253,6 +253,9 @@ WLH 2001
 :LOGBOOK:
 CLOCK: [2013-04-08 Mon 15:00]--[2013-04-08 Mon 16:00] =>  0:59
 :END:
+      :PROPERTIES:
+      :ID:       61f1c2f2-c3c2-4ab3-8ced-f96540385b3c
+      :END:
 <2013-04-08 Mon 15:00-16:00>
 ****** DONE Prepare lecture
        DEADLINE: <2013-04-08 Mon>
@@ -819,6 +822,9 @@ Center 119
 ***** Lecture 02.1
       :LOGBOOK:
       CLOCK: [2013-04-08 Mon 12:50]--[2013-04-08 Mon 14:05] =>  1:15
+      :END:
+      :PROPERTIES:
+      :ID:       ebef3e18-c0c7-4e4a-a9f2-198979aca6c3
       :END:
 
 <2013-04-08 Mon 13:00-14:00>
