@@ -766,6 +766,9 @@ Lectures in calendar and tasks like planning lectures.
 **** Clocking							   :CLOCKING:
 ***** Admin
 ***** Office hours
+      :LOGBOOK:
+      CLOCK: [2013-04-08 Mon 11:18]--[2013-04-08 Mon 11:54] =>  0:36
+      :END:
 **** Lectures							   :LECTURES:
 ***** Location
 Center 119
