@@ -120,9 +120,6 @@ Lectures in calendar and tasks like planning lectures.
 **** Clocking
 **** Calendar
 *** TODO MATH20C Spring 2013				      :MATH20C:FOCUS:
-    :LOGBOOK:        
-    CLOCK: [2013-03-12 Tue 12:09]--[2013-03-12 Tue 12:36] =>  0:27    
-    :END:
     :PROPERTIES:
     :ID:       b7714d68-e3c3-4424-be34-62a9473108e4
     :END:
@@ -137,6 +134,7 @@ CENTR 115
       SCHEDULED: <2013-03-18 Mon> DEADLINE: <2013-04-01 Mon>
       - State "DONE"       from "TODO"       [2013-04-01 Mon 11:34]
       :LOGBOOK:
+      CLOCK: [2013-03-12 Tue 12:09]--[2013-03-12 Tue 12:36] =>  0:27    
       CLOCK: [2013-03-12 Tue 11:26]--[2013-03-12 Tue 11:28] =>  0:02
       :END:
       :PROPERTIES:
@@ -2844,10 +2842,15 @@ It should make the relevant web entry and also the email notice. Possibly I coul
        :PROPERTIES:
        :ID:       74137f5c-b65b-4bd2-a4a4-8083ea077c57
        :END:
-****** NEXT Send GMT Announcement
-       DEADLINE: <2013-04-05 Fri +1w>
+****** TODO Send GMT Announcement
+       DEADLINE: <2013-04-12 Fri +1w>
+       - State "DONE"       from "NEXT"       [2013-04-08 Mon 16:43]
+       :LOGBOOK:
+       CLOCK: [2013-04-08 Mon 16:41]--[2013-04-08 Mon 16:43] =>  0:02
+       :END:
        :PROPERTIES:
        :ID:       8f44a0eb-8ce5-4deb-9891-696f791bce56
+       :LAST_REPEAT: [2013-04-08 Mon 16:43]
        :END:
 ***** Notes
 ****** Main Topics
