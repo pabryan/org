@@ -121,12 +121,7 @@ Lectures in calendar and tasks like planning lectures.
 **** Calendar
 *** TODO MATH20C Spring 2013				      :MATH20C:FOCUS:
     :LOGBOOK:        
-    
-    CLOCK: [2013-04-05 Fri 11:47]--[2013-04-05 Fri 11:48] =>  0:01
-    CLOCK: [2013-04-01 Mon 11:49]--[2013-04-01 Mon 11:50] =>  0:01
-    CLOCK: [2013-03-30 Sat 21:11]--[2013-03-30 Sat 21:12] =>  0:01
-    CLOCK: [2013-03-12 Tue 12:09]--[2013-03-12 Tue 12:36] =>  0:27
-    CLOCK: [2013-03-12 Tue 11:28]--[2013-03-12 Tue 11:33] =>  0:05
+    CLOCK: [2013-03-12 Tue 12:09]--[2013-03-12 Tue 12:36] =>  0:27    
     :END:
     :PROPERTIES:
     :ID:       b7714d68-e3c3-4424-be34-62a9473108e4
@@ -569,6 +564,11 @@ CLOCK: [2013-04-08 Mon 15:00]--[2013-04-08 Mon 16:00] =>  0:59
       :ID:       5838d30c-a03c-4068-8f24-f81d7fd6154b
       :END:
 - Send email request as per instruction email in my inbox.
+***** DONE Put TA info on website
+      - State "DONE"       from "NEXT"       [2013-04-08 Mon 16:37]
+      :LOGBOOK:
+      CLOCK: [2013-04-08 Mon 16:32]--[2013-04-08 Mon 16:37] =>  0:05
+      :END:
 **** Quizzes							       :QUIZ:
 ***** Quiz 01
 ****** DONE Set quiz 
@@ -1116,9 +1116,10 @@ Center 119
       :ID:       d86999b0-c85b-4aca-baca-90bdf0c15cf5
       :END:
 
-***** NEXT Put TA info on website
+***** DONE Put TA info on website
+      - State "DONE"       from "NEXT"       [2013-04-08 Mon 16:32]
       :LOGBOOK:
-      CLOCK: [2013-04-08 Mon 16:20]
+      CLOCK: [2013-04-08 Mon 16:20]--[2013-04-08 Mon 16:32] =>  0:12
       :END:
 ***** NEXT Grant graders access to TED grade book
       - State "NEXT"       from "HOLD"       [2013-04-05 Fri 11:48]
