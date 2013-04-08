@@ -1145,7 +1145,9 @@ I need to have my macros available.
   :END:
 ** Organisation
   :LOGBOOK:
-  CLOCK: [2013-04-08 Mon 11:15]
+  CLOCK: [2013-04-08 Mon 16:12]
+  CLOCK: [2013-04-08 Mon 11:54]--[2013-04-08 Mon 12:01] =>  0:07
+  CLOCK: [2013-04-08 Mon 11:15]--[2013-04-08 Mon 11:18] =>  0:03
   CLOCK: [2013-04-07 Sun 15:45]--[2013-04-07 Sun 15:54] =>  0:09
   CLOCK: [2013-04-07 Sun 13:26]--[2013-04-07 Sun 13:32] =>  0:06
   CLOCK: [2013-04-07 Sun 12:40]--[2013-04-07 Sun 12:50] =>  0:10
@@ -1588,7 +1590,8 @@ For the following, do I just use the existing diary.org capture template or perh
 - [ ] Write down any thoughts, relections on the day.
 
 ** NEXT Daily Plan [0/2]
-   SCHEDULED: <2013-04-08 Mon .+1d/2d>
+   SCHEDULED: <2013-04-09 Tue .+1d/2d>
+   - State "DONE"       from "NEXT"       [2013-04-08 Mon 09:16]
    - State "DONE"       from "NEXT"       [2013-04-07 Sun 13:26]
    - State "DONE"       from "NEXT"       [2013-04-03 Wed 10:56]
    - State "DONE"       from "NEXT"       [2013-04-02 Tue 21:27]
@@ -1667,7 +1670,7 @@ For the following, do I just use the existing diary.org capture template or perh
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
    :ID:       ef051ee0-1113-4604-b355-450a5a47848b
-   :LAST_REPEAT: [2013-04-07 Sun 13:26]
+   :LAST_REPEAT: [2013-04-08 Mon 16:16]
    :END:
 
 - [ ] Check agenda/focus
