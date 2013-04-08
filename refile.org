@@ -24,3 +24,13 @@
   :END:
 [2013-04-07 Sun 15:33]
 This will be to use XBMC, the [[http://code.google.com/p/pms-xbmc/]] [[http://www.ps3mediaserver.org/about/][PS3 media server]] plugin and https://github.com/jnj/pms-scrobbler to access last.fm. I should be able to watch movies too? It would be nice to send the full screen output to the streaming server...
+* TODO Set up latex image export
+  :LOGBOOK:
+  CLOCK: [2013-04-08 Mon 11:10]--[2013-04-08 Mon 11:15] =>  0:05
+  :END:
+[2013-04-08 Mon 11:10]
+
+http://tex.stackexchange.com/questions/34054/tex-to-image-over-command-line/34058#34058
+http://www.fourmilab.ch/webtools/textogif/
+http://www.nought.de/tex2im.php
+
