@@ -671,6 +671,9 @@ WLH 2001
 ***** NEXT Put quiz problems on Website
   :LOGBOOK:
   :END:
+      :PROPERTIES:
+      :ID:       85507982-8c3a-4774-ba05-d59bc2147301
+      :END:
 [2013-04-05 Fri 16:44]
 *** TODO MATH20D Spring 2013 				      :MATH20D:FOCUS:
     :LOGBOOK:
@@ -1197,6 +1200,9 @@ Center 119
 ***** NEXT Put quiz problems on Website
   :LOGBOOK:
   :END:
+      :PROPERTIES:
+      :ID:       f4f14009-c8c5-4a07-8999-c5e83e2da9ff
+      :END:
 [2013-04-05 Fri 16:44]
 *** TODO MATH142B Winter 2012 					   :MATH142B:
     - State "TODO"       from "DONE"       [2013-03-27 Wed 09:53] \\

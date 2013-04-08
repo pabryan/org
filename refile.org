@@ -3,15 +3,24 @@
   :LOGBOOK:
   CLOCK: [2013-04-07 Sun 14:33]--[2013-04-07 Sun 14:34] =>  0:01
   :END:
+  :PROPERTIES:
+  :ID:       8f536ff6-7697-4d83-ad49-a8a997454022
+  :END:
 [2013-04-07 Sun 14:33]
 * TODO Install last.fm scrobbler at home
   :LOGBOOK:
   CLOCK: [2013-04-07 Sun 15:23]--[2013-04-07 Sun 15:24] =>  0:01
   :END:
+  :PROPERTIES:
+  :ID:       45a09590-8013-4e6c-862c-0391ebf5582a
+  :END:
 [2013-04-07 Sun 15:23]
 * TODO Setup Media server
   :LOGBOOK:
   CLOCK: [2013-04-07 Sun 15:33]--[2013-04-07 Sun 15:35] =>  0:02
+  :END:
+  :PROPERTIES:
+  :ID:       4524253e-ed66-4e3a-a7c1-43f79c9defc9
   :END:
 [2013-04-07 Sun 15:33]
 This will be to use XBMC, the [[http://code.google.com/p/pms-xbmc/]] [[http://www.ps3mediaserver.org/about/][PS3 media server]] plugin and https://github.com/jnj/pms-scrobbler to access last.fm. I should be able to watch movies too? It would be nice to send the full screen output to the streaming server...
