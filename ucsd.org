@@ -1116,6 +1116,10 @@ Center 119
       :ID:       d86999b0-c85b-4aca-baca-90bdf0c15cf5
       :END:
 
+***** NEXT Put TA info on website
+      :LOGBOOK:
+      CLOCK: [2013-04-08 Mon 16:20]
+      :END:
 ***** NEXT Grant graders access to TED grade book
       - State "NEXT"       from "HOLD"       [2013-04-05 Fri 11:48]
       - State "HOLD"       from "NEXT"       [2013-04-04 Thu 14:12] \\
