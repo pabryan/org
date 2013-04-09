@@ -102,10 +102,11 @@ Geisel Library room 274
     :USER: PBryan-555
     :PASSWORD: bryan52687
     :END:
-*** Edit CEJM-D-12-00160R1
+*** DONE Edit CEJM-D-12-00160R1
     DEADLINE: <2013-04-03 Wed>
+    - State "DONE"       from ""           [2013-04-09 Tue 11:34]
     :LOGBOOK:
-    CLOCK: [2013-04-09 Tue 10:40]
+    CLOCK: [2013-04-09 Tue 10:40]--[2013-04-09 Tue 11:34] =>  0:54
     CLOCK: [2013-03-28 Thu 13:52]--[2013-03-28 Thu 14:25] =>  0:33
     :END:
     :PROPERTIES:
