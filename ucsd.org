@@ -120,6 +120,8 @@ Lectures in calendar and tasks like planning lectures.
 **** Clocking
 **** Calendar
 *** TODO MATH20C Spring 2013				      :MATH20C:FOCUS:
+    :LOGBOOK:
+    :END:
     :PROPERTIES:
     :ID:       b7714d68-e3c3-4424-be34-62a9473108e4
     :END:
@@ -197,6 +199,16 @@ Lectures in calendar and tasks like planning lectures.
   :ID:       759de22f-a2b3-434b-9ac7-5df37006f70d
   :END:
 [2013-04-04 Thu 15:12]
+***** DONE Print out schedule etc. for course folders
+      - State "DONE"       from "NEXT"       [2013-04-09 Tue 12:33]
+  :LOGBOOK:
+  CLOCK: [2013-04-09 Tue 12:31]--[2013-04-09 Tue 12:33] =>  0:02
+  CLOCK: [2013-04-07 Sun 14:33]--[2013-04-07 Sun 14:34] =>  0:01
+  :END:
+  :PROPERTIES:
+  :ID:       8f536ff6-7697-4d83-ad49-a8a997454022
+  :END:
+[2013-04-07 Sun 14:33]
 **** Clocking							   :CLOCKING:
 ***** Admin
       :LOGBOOK:
@@ -767,6 +779,15 @@ Lectures in calendar and tasks like planning lectures.
   :ID:       759de22f-a2b3-434b-9ac7-5df37006f70d
   :END:
 [2013-04-04 Thu 15:12]
+***** NEXT Print out schedule etc. for course folders
+  :LOGBOOK:
+  CLOCK: [2013-04-09 Tue 12:33]
+  CLOCK: [2013-04-07 Sun 14:33]--[2013-04-07 Sun 14:34] =>  0:01
+  :END:
+  :PROPERTIES:
+  :ID:       8f536ff6-7697-4d83-ad49-a8a997454022
+  :END:
+[2013-04-07 Sun 14:33]
 **** Clocking							   :CLOCKING:
 ***** Admin
 ***** Office hours
