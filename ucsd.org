@@ -2877,6 +2877,7 @@ It should make the relevant web entry and also the email notice. Possibly I coul
        :END:
 ******* NEXT Write variational argument for seminar 01
 	:LOGBOOK:
+	CLOCK: [2013-04-09 Tue 13:44]
 	CLOCK: [2013-04-09 Tue 10:10]--[2013-04-09 Tue 10:37] =>  0:27
 	CLOCK: [2013-04-08 Mon 21:05]--[2013-04-08 Mon 22:25] =>  1:20
 	:END:
