@@ -100,7 +100,8 @@
     :END:
   
 *** NEXT Evening Stretch
-    SCHEDULED: <2013-03-21 Thu .+1d/2d>
+    SCHEDULED: <2013-04-09 Tue .+1d/2d>
+    - State "DONE"       from "NEXT"       [2013-04-08 Mon 22:56]
     - State "DONE"       from "NEXT"       [2013-03-20 Wed 21:54]
     - State "DONE"       from "NEXT"       [2013-03-17 Sun 08:46]
     - State "DONE"       from "NEXT"       [2013-03-15 Fri 13:07]
@@ -114,7 +115,7 @@
     :STYLE:    habit
     :REPEAT_TO_STATE: NEXT
     :ID:       d439600f-c40d-4dd3-82ca-3e7d9e35f2b3
-    :LAST_REPEAT: [2013-03-20 Wed 21:54]
+    :LAST_REPEAT: [2013-04-08 Mon 22:56]
     :END:
   
 
