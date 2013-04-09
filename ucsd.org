@@ -2833,6 +2833,8 @@ It should make the relevant web entry and also the email notice. Possibly I coul
 ***** Tasks
 ****** TODO Prepare for GMT Seminars
        SCHEDULED: <2013-03-29 Fri>    
+       :LOGBOOK:
+       :END:
        :PROPERTIES:
        :ID:       6960b782-5dcc-4ac7-a263-fdd94523ccd1
        :END:
@@ -2849,9 +2851,9 @@ It should make the relevant web entry and also the email notice. Possibly I coul
        :PROPERTIES:
        :ID:       74137f5c-b65b-4bd2-a4a4-8083ea077c57
        :END:
-******* DONE Write variational argument for seminar 01
-	- State "DONE"       from "NEXT"       [2013-04-08 Mon 22:55]
+******* NEXT Write variational argument for seminar 01
 	:LOGBOOK:
+	CLOCK: [2013-04-09 Tue 10:10]--[2013-04-09 Tue 10:37] =>  0:27
 	CLOCK: [2013-04-08 Mon 21:05]--[2013-04-08 Mon 22:25] =>  1:20
 	:END:
 ******* NEXT Choose book
