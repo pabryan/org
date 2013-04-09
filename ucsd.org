@@ -2837,7 +2837,8 @@ It should make the relevant web entry and also the email notice. Possibly I coul
        :ID:       6960b782-5dcc-4ac7-a263-fdd94523ccd1
        :END:
        [2013-03-29 Fri 10:46]
-******* NEXT Research materials to cover
+******* DONE Research materials to cover
+	- State "DONE"       from "NEXT"       [2013-04-08 Mon 22:55]
        :LOGBOOK:
        CLOCK: [2013-04-01 Mon 20:25]--[2013-04-01 Mon 21:28] =>  1:03
        CLOCK: [2013-03-30 Sat 19:40]--[2013-03-30 Sat 20:10] =>  0:30
@@ -2848,6 +2849,13 @@ It should make the relevant web entry and also the email notice. Possibly I coul
        :PROPERTIES:
        :ID:       74137f5c-b65b-4bd2-a4a4-8083ea077c57
        :END:
+******* DONE Write variational argument for seminar 01
+	- State "DONE"       from "NEXT"       [2013-04-08 Mon 22:55]
+	:LOGBOOK:
+	CLOCK: [2013-04-08 Mon 21:05]--[2013-04-08 Mon 22:25] =>  1:20
+	:END:
+******* NEXT Choose book
+******* NEXT Choose speakers for talks 02 and 03
 ****** TODO Send GMT Announcement
        DEADLINE: <2013-04-12 Fri +1w>
        - State "DONE"       from "NEXT"       [2013-04-08 Mon 16:43]
