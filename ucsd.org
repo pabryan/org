@@ -695,9 +695,8 @@ CLOCK: [2013-04-08 Mon 15:00]--[2013-04-08 Mon 16:00] =>  0:59
       :ID:       85507982-8c3a-4774-ba05-d59bc2147301
       :END:
 [2013-04-05 Fri 16:44]
-*** TODO MATH20D Spring 2013 				      :MATH20D:FOCUS:
+*** TODO MATH20D Spring 2013 				      :MATH20D:FOCUS:    
     :LOGBOOK:
-    
     :END:
     :PROPERTIES:
     :ID:       01742e1a-c15f-4aab-ada0-59725c2e73e4
@@ -779,9 +778,9 @@ Lectures in calendar and tasks like planning lectures.
   :ID:       759de22f-a2b3-434b-9ac7-5df37006f70d
   :END:
 [2013-04-04 Thu 15:12]
-***** NEXT Print out schedule etc. for course folders
+***** DONE Print out schedule etc. for course folders
+      - State "DONE"       from "NEXT"       [2013-04-09 Tue 13:34]
   :LOGBOOK:
-  CLOCK: [2013-04-09 Tue 12:33]
   CLOCK: [2013-04-07 Sun 14:33]--[2013-04-07 Sun 14:34] =>  0:01
   :END:
   :PROPERTIES:
@@ -861,8 +860,12 @@ Center 119
        :END:
 ***** Lecture 02.2
 <2013-04-10 Wed 13:00-14:00>
-****** NEXT Prepare lecture
+****** DONE Prepare lecture
        DEADLINE: <2013-04-10 Wed>
+       - State "DONE"       from "NEXT"       [2013-04-09 Tue 13:36]
+       :LOGBOOK:
+       CLOCK: [2013-04-09 Tue 12:33]--[2013-04-09 Tue 13:36] =>  1:03
+       :END:
        :PROPERTIES:
        :ID:       ab1bf1f0-fd0b-4cec-abdf-255104977fe1
        :END:
