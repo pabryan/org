@@ -286,6 +286,9 @@ CLOCK: [2013-04-08 Mon 15:00]--[2013-04-08 Mon 16:00] =>  0:59
 <2013-04-10 Wed 15:00-16:00>
 ****** NEXT Prepare lecture
        DEADLINE: <2013-04-10 Wed>
+       :LOGBOOK:
+       CLOCK: [2013-04-09 Tue 13:59]
+       :END:
        :PROPERTIES:
        :ID:       da1ecd2e-5cb7-4fa7-8359-9a2fa0353d72
        :END:
@@ -2877,7 +2880,7 @@ It should make the relevant web entry and also the email notice. Possibly I coul
        :END:
 ******* NEXT Write variational argument for seminar 01
 	:LOGBOOK:
-	CLOCK: [2013-04-09 Tue 13:44]
+	CLOCK: [2013-04-09 Tue 13:44]--[2013-04-09 Tue 13:54] =>  0:10
 	CLOCK: [2013-04-09 Tue 10:10]--[2013-04-09 Tue 10:37] =>  0:27
 	CLOCK: [2013-04-08 Mon 21:05]--[2013-04-08 Mon 22:25] =>  1:20
 	:END:
