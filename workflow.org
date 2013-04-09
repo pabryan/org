@@ -769,7 +769,7 @@ I'll need to say use my phone to collect the data. I need something easy to cloc
 *** Notes 
 I should have cards with daily reminders, e.g. no more than 2 coffees, eat tacfit, don't nag to check throughout the day. I also have longer term goals and these should filter down to give daily reminders, weekly reminders (to look at during the review), monthly, yearly etc.
 ** NEXT Make your damn goals!
-  SCHEDULED: <2013-04-08 Mon>
+  SCHEDULED: <2013-04-13 Sat>
   :LOGBOOK:
   CLOCK: [2013-02-22 Fri 08:07]--[2013-02-22 Fri 08:08] =>  0:01
   :END:
@@ -1146,6 +1146,7 @@ I need to have my macros available.
   :END:
 ** Organisation
   :LOGBOOK:
+  CLOCK: [2013-04-09 Tue 10:10]
   CLOCK: [2013-04-09 Tue 10:00]--[2013-04-09 Tue 10:08] =>  0:08
   CLOCK: [2013-04-08 Mon 16:50]--[2013-04-08 Mon 16:57] =>  0:07
   CLOCK: [2013-04-08 Mon 16:43]--[2013-04-08 Mon 16:49] =>  0:06
@@ -1596,7 +1597,8 @@ For the following, do I just use the existing diary.org capture template or perh
 - [ ] Write down any thoughts, relections on the day.
 
 ** NEXT Daily Plan [0/2]
-   SCHEDULED: <2013-04-09 Tue .+1d/2d>
+   SCHEDULED: <2013-04-10 Wed .+1d/2d>
+   - State "DONE"       from "NEXT"       [2013-04-09 Tue 10:10]
    - State "DONE"       from "NEXT"       [2013-04-08 Mon 09:16]
    - State "DONE"       from "NEXT"       [2013-04-07 Sun 13:26]
    - State "DONE"       from "NEXT"       [2013-04-03 Wed 10:56]
@@ -1641,7 +1643,7 @@ For the following, do I just use the existing diary.org capture template or perh
    - State "DONE"       from "NEXT"       [2013-01-10 Thu 09:22]
    - State "DONE"       from "NEXT"       [2013-01-09 Wed 07:19]
    :LOGBOOK:
-   CLOCK: [2013-04-09 Tue 10:08]
+   CLOCK: [2013-04-09 Tue 10:08]--[2013-04-09 Tue 10:10] =>  0:02
    CLOCK: [2013-04-08 Mon 09:26]--[2013-04-08 Mon 09:27] =>  0:01
    CLOCK: [2013-04-07 Sun 13:19]--[2013-04-07 Sun 13:26] =>  0:07
    CLOCK: [2013-04-03 Wed 10:50]--[2013-04-03 Wed 10:56] =>  0:06
@@ -1677,7 +1679,7 @@ For the following, do I just use the existing diary.org capture template or perh
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
    :ID:       ef051ee0-1113-4604-b355-450a5a47848b
-   :LAST_REPEAT: [2013-04-08 Mon 16:16]
+   :LAST_REPEAT: [2013-04-09 Tue 10:10]
    :END:
 
 - [ ] Check agenda/focus
