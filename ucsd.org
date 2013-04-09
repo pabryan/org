@@ -284,10 +284,11 @@ CLOCK: [2013-04-08 Mon 15:00]--[2013-04-08 Mon 16:00] =>  0:59
 
 ***** Lecture 02.2
 <2013-04-10 Wed 15:00-16:00>
-****** NEXT Prepare lecture
+****** DONE Prepare lecture
        DEADLINE: <2013-04-10 Wed>
+       - State "DONE"       from "NEXT"       [2013-04-09 Tue 14:35]
        :LOGBOOK:
-       CLOCK: [2013-04-09 Tue 13:59]
+       CLOCK: [2013-04-09 Tue 13:59]--[2013-04-09 Tue 14:35] =>  0:36
        :END:
        :PROPERTIES:
        :ID:       da1ecd2e-5cb7-4fa7-8359-9a2fa0353d72
