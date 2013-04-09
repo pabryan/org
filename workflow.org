@@ -1129,8 +1129,9 @@ Does mutt integrate well?
    :END:
 [2013-02-15 Fri 10:34]
 I need to have my macros available.
-** TODO Update work computer
+** DONE Update work computer
    DEADLINE: <2013-04-04 Thu> SCHEDULED: <2013-04-03 Wed>
+   - State "DONE"       from "TODO"       [2013-04-09 Tue 10:09]
    :LOGBOOK:
   CLOCK: [2013-04-01 Mon 20:19]--[2013-04-01 Mon 20:20] =>  0:01
   :END:
@@ -1145,6 +1146,7 @@ I need to have my macros available.
   :END:
 ** Organisation
   :LOGBOOK:
+  CLOCK: [2013-04-09 Tue 10:00]--[2013-04-09 Tue 10:08] =>  0:08
   CLOCK: [2013-04-08 Mon 16:50]--[2013-04-08 Mon 16:57] =>  0:07
   CLOCK: [2013-04-08 Mon 16:43]--[2013-04-08 Mon 16:49] =>  0:06
   CLOCK: [2013-04-08 Mon 16:37]--[2013-04-08 Mon 16:41] =>  0:04
@@ -1639,6 +1641,7 @@ For the following, do I just use the existing diary.org capture template or perh
    - State "DONE"       from "NEXT"       [2013-01-10 Thu 09:22]
    - State "DONE"       from "NEXT"       [2013-01-09 Wed 07:19]
    :LOGBOOK:
+   CLOCK: [2013-04-09 Tue 10:08]
    CLOCK: [2013-04-08 Mon 09:26]--[2013-04-08 Mon 09:27] =>  0:01
    CLOCK: [2013-04-07 Sun 13:19]--[2013-04-07 Sun 13:26] =>  0:07
    CLOCK: [2013-04-03 Wed 10:50]--[2013-04-03 Wed 10:56] =>  0:06
