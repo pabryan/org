@@ -1197,8 +1197,9 @@ Center 119
 ****** Questions
 
 ***** Quiz 03
-****** NEXT Set quiz 
+****** DONE Set quiz 
        DEADLINE: <2013-04-10 Wed>
+       - State "DONE"       from "NEXT"       [2013-04-10 Wed 11:40]
        :LOGBOOK:
        CLOCK: [2013-04-10 Wed 10:07]--[2013-04-10 Wed 11:09] =>  1:02
        :END:
