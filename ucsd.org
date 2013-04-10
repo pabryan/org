@@ -806,6 +806,7 @@ Lectures in calendar and tasks like planning lectures.
 ***** Admin
 ***** Office hours
       :LOGBOOK:
+      CLOCK: [2013-04-10 Wed 11:09]
       CLOCK: [2013-04-08 Mon 11:18]--[2013-04-08 Mon 11:54] =>  0:36
       :END:
 **** Lectures							   :LECTURES:
@@ -1198,6 +1199,9 @@ Center 119
 ***** Quiz 03
 ****** NEXT Set quiz 
        DEADLINE: <2013-04-10 Wed>
+       :LOGBOOK:
+       CLOCK: [2013-04-10 Wed 10:07]--[2013-04-10 Wed 11:09] =>  1:02
+       :END:
        :PROPERTIES:
        :ID:       09ea871a-f3e7-4b41-8923-ced3d5dd02e2
        :END:
