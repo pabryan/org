@@ -125,12 +125,15 @@ Lectures in calendar and tasks like planning lectures.
     :PROPERTIES:
     :ID:       b7714d68-e3c3-4424-be34-62a9473108e4
     :END:
-[[file:~/working/ucsd/teaching/math20c_spring_2013]]
+    [[file:~/working/ucsd/teaching/math20c_spring_2013]]
 **** Notes							      :NOTES:
-***** Cover Bo Li's Lectures
-CENTR 115
-<2013-05-01 Wed 11:00-11:50>
-<2013-05-03 Fri 11:00-11:50>
+***** Cover Caleb Meier's Lectures
+LEDDN AUD
+<2013-05-24 Fri 10:00-10:50> 
+<2013-05-27 Mon 10:00-10:50> 
+***** Lectures Covered
+<2013-05-10 Fri 15:00-15:50>
+<2013-05-13 Mon 15:00-15:50>
 **** Tasks
 ***** DONE Set up course
       SCHEDULED: <2013-03-18 Mon> DEADLINE: <2013-04-01 Mon>
@@ -209,7 +212,7 @@ Lectures in calendar and tasks like planning lectures.
   :ID:       8f536ff6-7697-4d83-ad49-a8a997454022
   :END:
 [2013-04-07 Sun 14:33]
-**** Clocking							   :CLOCKING:
+**** Clocking 							   :CLOCKING:
 ***** Admin
       :LOGBOOK:
       CLOCK: [2013-04-04 Thu 13:35]--[2013-04-04 Thu 14:36] =>  1:01
@@ -715,10 +718,9 @@ CLOCK: [2013-04-08 Mon 15:00]--[2013-04-08 Mon 16:00] =>  0:59
 Student's have not done linear algebra yet so systems are tricky. However, on the $2x2$ case is needed.
 ***** MATLAB
 MATLAB is homework.
-***** Cover Caleb Meier's Lectures
-LEDDN AUD
-<2013-05-24 Fri 10:00-10:50> 
-<2013-05-27 Mon 10:00-10:50> 
+***** Cover Bo Li's Lectures
+CENTR 115
+<2013-05-01 Wed 11:00-11:50>
 **** Tasks
 ***** DONE Set up course
       SCHEDULED: <2013-03-18 Mon> DEADLINE: <2013-04-01 Mon>      

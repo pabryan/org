@@ -635,7 +635,7 @@ Doyle Field
 [2013-02-21 Thu 09:00]
 ** Triton 5k
 <2013-06-08 Sat 09:00>
-* House 
+* House								      :HOUSE:
   :PROPERTIES:
   :ID:       dee2dca4-a5da-45e5-a276-2e4f8f255a9c
   :CATEGORY: House
@@ -748,7 +748,7 @@ fluff sheets 1d/2d
    :ID:       7997fd97-b3d9-4217-a253-e12278fe22b9
    :END:
 <2012-12-05 Wed>
-** Del Sol
+** Del Sol							     :DELSOL:
 *** Breakfast
 <2013-04-10 Wed 07:00-08:00>
 * Notes

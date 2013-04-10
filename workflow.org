@@ -1146,6 +1146,7 @@ I need to have my macros available.
   :END:
 ** Organisation
   :LOGBOOK:
+  CLOCK: [2013-04-10 Wed 09:50]--[2013-04-10 Wed 09:51] =>  0:01
   CLOCK: [2013-04-09 Tue 15:22]--[2013-04-09 Tue 15:24] =>  0:02
   CLOCK: [2013-04-09 Tue 14:35]--[2013-04-09 Tue 14:49] =>  0:14
   CLOCK: [2013-04-09 Tue 13:54]--[2013-04-09 Tue 13:56] =>  0:02
@@ -1649,6 +1650,7 @@ For the following, do I just use the existing diary.org capture template or perh
    - State "DONE"       from "NEXT"       [2013-01-10 Thu 09:22]
    - State "DONE"       from "NEXT"       [2013-01-09 Wed 07:19]
    :LOGBOOK:
+   CLOCK: [2013-04-10 Wed 09:51]
    CLOCK: [2013-04-09 Tue 10:08]--[2013-04-09 Tue 10:10] =>  0:02
    CLOCK: [2013-04-08 Mon 09:26]--[2013-04-08 Mon 09:27] =>  0:01
    CLOCK: [2013-04-07 Sun 13:19]--[2013-04-07 Sun 13:26] =>  0:07
