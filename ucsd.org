@@ -132,8 +132,9 @@ LEDDN AUD
 <2013-05-24 Fri 10:00-10:50> 
 <2013-05-27 Mon 10:00-10:50> 
 ***** Lectures Covered
-<2013-05-10 Fri 15:00-15:50>
-<2013-05-13 Mon 15:00-15:50>
+[2013-05-10 Fri 15:00-15:50] Caleb Meier
+[2013-05-13 Mon 15:00-15:50] Caleb Meier
+[2013-04-19 Fri 15:00-15:50] Andre Minor
 **** Tasks
 ***** DONE Set up course
       SCHEDULED: <2013-03-18 Mon> DEADLINE: <2013-04-01 Mon>
@@ -721,6 +722,10 @@ MATLAB is homework.
 ***** Cover Bo Li's Lectures
 CENTR 115
 <2013-05-01 Wed 11:00-11:50>
+***** Lectures Covered
+[2013-04-19 Fri 13:00-13:50] 
+[2013-05-10 Fri 13:00-13:50] 
+[2013-05-13 Mon 13:00-13:50] Bo Li
 **** Tasks
 ***** DONE Set up course
       SCHEDULED: <2013-03-18 Mon> DEADLINE: <2013-04-01 Mon>      
