@@ -709,7 +709,7 @@ CLOCK: [2013-04-08 Mon 15:00]--[2013-04-08 Mon 16:00] =>  0:59
 [2013-04-05 Fri 16:44]
 *** TODO MATH20D Spring 2013 				      :MATH20D:FOCUS:    
     :LOGBOOK:
-    CLOCK: [2013-04-10 Wed 11:57]
+    CLOCK: [2013-04-10 Wed 14:21]
     :END:
     :PROPERTIES:
     :ID:       01742e1a-c15f-4aab-ada0-59725c2e73e4
@@ -876,6 +876,9 @@ Center 119
        :ID:       6271dcfb-ac58-47f5-bb8a-d383fc2f8683
        :END:
 ***** Lecture 02.2
+      :LOGBOOK:
+      CLOCK: [2013-04-10 Wed 12:50]--[2013-04-10 Wed 14:10] =>  1:20
+      :END:
 <2013-04-10 Wed 13:00-14:00>
 ****** DONE Prepare lecture
        DEADLINE: <2013-04-10 Wed>
