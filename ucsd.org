@@ -621,8 +621,12 @@ CLOCK: [2013-04-08 Mon 15:00]--[2013-04-08 Mon 16:00] =>  0:59
        :END:
 ****** Questions       
 ***** Quiz 03
-****** NEXT Set quiz 
+****** DONE Set quiz 
        DEADLINE: <2013-04-10 Wed>
+       - State "DONE"       from "NEXT"       [2013-04-09 Tue 15:22]
+       :LOGBOOK:
+       CLOCK: [2013-04-09 Tue 14:49]--[2013-04-09 Tue 15:22] =>  0:33
+       :END:
        :PROPERTIES:
        :ID:       b32166f6-6acf-415b-b484-db379e1b8f2a
        :END:
@@ -2885,8 +2889,17 @@ It should make the relevant web entry and also the email notice. Possibly I coul
 	CLOCK: [2013-04-09 Tue 10:10]--[2013-04-09 Tue 10:37] =>  0:27
 	CLOCK: [2013-04-08 Mon 21:05]--[2013-04-08 Mon 22:25] =>  1:20
 	:END:
+	:PROPERTIES:
+	:ID:       90dc41d6-edae-4137-a7f8-0f1a8afcfb53
+	:END:
 ******* NEXT Choose book
+	:PROPERTIES:
+	:ID:       f2f96ca2-63dd-4c83-b489-ea39f2809945
+	:END:
 ******* NEXT Choose speakers for talks 02 and 03
+	:PROPERTIES:
+	:ID:       0f9a1ca7-7194-47a5-ae3e-15200259aa12
+	:END:
 ****** TODO Send GMT Announcement
        DEADLINE: <2013-04-12 Fri +1w>
        - State "DONE"       from "NEXT"       [2013-04-08 Mon 16:43]
