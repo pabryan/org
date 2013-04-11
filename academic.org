@@ -977,6 +977,7 @@ I'd like to be able to use org-mode views to show papers/books by a given author
 
 *** Research Pondering
     :LOGBOOK:
+    CLOCK: [2013-04-11 Thu 11:07]--[2013-04-11 Thu 11:59] =>  0:52
     CLOCK: [2013-04-10 Wed 16:10]--[2013-04-10 Wed 16:25] =>  0:15
     CLOCK: [2013-04-08 Mon 17:00]--[2013-04-08 Mon 17:25] =>  0:25
     CLOCK: [2013-04-04 Thu 12:50]--[2013-04-04 Thu 13:10] =>  0:20
@@ -1279,7 +1280,7 @@ Some money available through colloquia funds?
   :ID:       2350dd28-f465-44bd-a9ec-e9f3e77df37b
   :END:
 [2013-01-30 Wed 08:18]
-** CANCELLED Plan visit to ASU					      :FOCUS:
+** CANCELLED Plan visit to ASU
    SCHEDULED: <2013-02-18 Mon>
    - State "CANCELLED"  from "TODO"       [2013-04-11 Thu 09:51] \\
      It didn't work out.
