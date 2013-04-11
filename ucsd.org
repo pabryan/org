@@ -2905,23 +2905,28 @@ It should make the relevant web entry and also the email notice. Possibly I coul
        :PROPERTIES:
        :ID:       74137f5c-b65b-4bd2-a4a4-8083ea077c57
        :END:
-******* NEXT Write variational argument for seminar 01
-	:LOGBOOK:
-	CLOCK: [2013-04-09 Tue 13:44]--[2013-04-09 Tue 13:54] =>  0:10
-	CLOCK: [2013-04-09 Tue 10:10]--[2013-04-09 Tue 10:37] =>  0:27
-	CLOCK: [2013-04-08 Mon 21:05]--[2013-04-08 Mon 22:25] =>  1:20
-	:END:
-	:PROPERTIES:
-	:ID:       90dc41d6-edae-4137-a7f8-0f1a8afcfb53
-	:END:
 ******* NEXT Choose book
 	:PROPERTIES:
 	:ID:       f2f96ca2-63dd-4c83-b489-ea39f2809945
 	:END:
-******* NEXT Choose speakers for talks 02 and 03
+******* NEXT Choose speaker for talk 03
 	:PROPERTIES:
 	:ID:       0f9a1ca7-7194-47a5-ae3e-15200259aa12
 	:END:
+******* TODO Choose speaker for talk 04
+	:PROPERTIES:
+	:ID:       0f9a1ca7-7194-47a5-ae3e-15200259aa12
+	:END:
+****** NEXT Write 1st variational argument for seminar 01
+       :LOGBOOK:
+       CLOCK: [2013-04-09 Tue 13:44]--[2013-04-09 Tue 13:54] =>  0:10
+       CLOCK: [2013-04-09 Tue 10:10]--[2013-04-09 Tue 10:37] =>  0:27
+       CLOCK: [2013-04-08 Mon 21:05]--[2013-04-08 Mon 22:25] =>  1:20
+       :END:
+       :PROPERTIES:
+       :ID:       90dc41d6-edae-4137-a7f8-0f1a8afcfb53
+       :END:
+****** NEXT Write 2nd variational argument for seminar 02
 ****** TODO Send GMT Announcement
        DEADLINE: <2013-04-12 Fri +1w>
        - State "DONE"       from "NEXT"       [2013-04-08 Mon 16:43]

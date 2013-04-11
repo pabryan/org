@@ -1279,8 +1279,10 @@ Some money available through colloquia funds?
   :ID:       2350dd28-f465-44bd-a9ec-e9f3e77df37b
   :END:
 [2013-01-30 Wed 08:18]
-** TODO Plan visit to ASU					      :FOCUS:
+** CANCELLED Plan visit to ASU					      :FOCUS:
    SCHEDULED: <2013-02-18 Mon>
+   - State "CANCELLED"  from "TODO"       [2013-04-11 Thu 09:51] \\
+     It didn't work out.
   :LOGBOOK:
   CLOCK: [2013-04-10 Wed 09:53]--[2013-04-10 Wed 10:07] =>  0:14
   CLOCK: [2013-03-29 Fri 10:29]--[2013-03-29 Fri 10:42] =>  0:13
