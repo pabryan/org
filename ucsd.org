@@ -914,6 +914,9 @@ Center 119
        :ID:       ab1bf1f0-fd0b-4cec-abdf-255104977fe1
        :END:
 ***** Lecture 02.3
+      :LOGBOOK:
+      CLOCK: [2013-04-12 Fri 12:39]
+      :END:
 <2013-04-12 Fri 13:00-14:00>
 ****** DONE Prepare lecture
        DEADLINE: <2013-04-12 Fri>
@@ -929,6 +932,9 @@ Center 119
 <2013-04-15 Mon 13:00-14:00>
 ****** NEXT Prepare lecture
        DEADLINE: <2013-04-15 Mon>
+       :LOGBOOK:
+       CLOCK: [2013-04-12 Fri 12:12]--[2013-04-12 Fri 12:39] =>  0:27
+       :END:
        :PROPERTIES:
        :ID:       e60d6479-c93c-40af-b54b-3f4c23dd90db
        :END:
