@@ -223,6 +223,9 @@ Send exact dates of travel, destination/purpose of trip, and arrangements made f
       CLOCK: [2013-04-04 Thu 13:35]--[2013-04-04 Thu 14:36] =>  1:01
       :END:
 ***** Office hours
+      :LOGBOOK:
+      CLOCK: [2013-04-12 Fri 11:17]--[2013-04-12 Fri 12:11] =>  0:54
+      :END:
 **** Lectures							   :LECTURES:
 ***** Location
 WLH 2001
@@ -1209,6 +1212,9 @@ Center 119
       :END:
 - Send email request as per instruction email in my inbox.
 ***** NEXT Update calendar
+      :LOGBOOK:
+      CLOCK: [2013-04-12 Fri 11:16]--[2013-04-12 Fri 11:17] =>  0:01
+      :END:
 **** Quizzes							       :QUIZ:
 ***** Quiz 01
 ****** DONE Set quiz 
