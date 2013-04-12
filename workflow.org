@@ -434,6 +434,15 @@ Publish to a different directory so I don't pollute my hg directory.
   :PROPERTIES:
   :ID:       403ba6c9-9a32-430c-b0c9-0b09f2eba44e
   :END:
+** TODO Process items from blackboard
+  :LOGBOOK:
+  CLOCK: [2013-04-08 Mon 16:49]--[2013-04-08 Mon 16:50] =>  0:01
+  :END:
+  :PROPERTIES:
+  :ID:       bbb71411-fba0-4a86-b2ed-df6a22709e2e
+  :END:
+[2013-04-08 Mon 16:49]
+[[file:~/Dropbox/Camera Uploads/2013-04-08 11.19.18.jpg]]
 ** TODO Organise research projects				   :COMPUTER:
    :PROPERTIES:
    :ID:       81bb4f28-b031-4061-9092-8e4a24b4b787
@@ -1140,6 +1149,19 @@ I need to have my macros available.
    :END:
 [2013-04-01 Mon 17:00]
 
+** TODO Set up latex image export
+  :LOGBOOK:
+  CLOCK: [2013-04-08 Mon 11:10]--[2013-04-08 Mon 11:15] =>  0:05
+  :END:
+  :PROPERTIES:
+  :ID:       225a82fb-0ec4-497c-9efe-3b4146b3be0f
+  :END:
+[2013-04-08 Mon 11:10]
+
+http://tex.stackexchange.com/questions/34054/tex-to-image-over-command-line/34058#34058
+http://www.fourmilab.ch/webtools/textogif/
+http://www.nought.de/tex2im.php
+
 * Tasks
   :PROPERTIES:
   :ID:       4257fe31-e606-4ca9-a848-858379409679
@@ -1740,6 +1762,7 @@ I probably don't need this!
    - State "DONE"       from "NEXT"       [2012-12-07 Fri 13:44]
    - State "DONE"       from "NEXT"       [2012-11-30 Fri 14:06]
    :LOGBOOK:
+   CLOCK: [2013-04-12 Fri 09:08]
    CLOCK: [2013-03-26 Tue 20:12]--[2013-03-26 Tue 20:44] =>  0:32
    CLOCK: [2013-03-19 Tue 11:44]--[2013-03-19 Tue 11:49] =>  0:05
    CLOCK: [2013-03-18 Mon 15:06]--[2013-03-18 Mon 15:07] =>  0:01

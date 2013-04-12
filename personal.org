@@ -14,7 +14,7 @@ END:
 ** Anniversaries
 ** Holidays
    
-* Finances
+* Finances							      :MONEY:
   :PROPERTIES:
   :ID:       662a40c5-41ef-417a-981c-a2112dbb3a0e
   :CATEGORY: Finances
@@ -328,7 +328,7 @@ Can we suspend loan repayments for a few months?
     :ID:       0dc175ba-9e16-4968-ad39-f37ee42a4f20
     :END:
 
-* Health 
+* Health							     :HEALTH:
   :PROPERTIES:
   :ID:       d9d7d0ec-a6b9-4451-ae42-5519eba7be50
   :CATEGORY: Health
@@ -604,7 +604,7 @@ Exercise is daily, the other two can be 1-2 days each.
    :END:
 [2013-03-25 Mon 21:09]
 
-* Recreation
+* Recreation							 :RECREATION:
   :PROPERTIES:
   :ID:       d9d7d0ec-a6b9-4451-ae42-5519eba7be50
   :CATEGORY: Recreation
@@ -635,6 +635,7 @@ Doyle Field
 [2013-02-21 Thu 09:00]
 ** Triton 5k
 <2013-06-08 Sat 09:00>
+** 
 * House								      :HOUSE:
   :PROPERTIES:
   :ID:       dee2dca4-a5da-45e5-a276-2e4f8f255a9c
@@ -754,7 +755,21 @@ fluff sheets 1d/2d
     :ID:       80d6280c-1f36-44b8-816f-0c85e70db253
     :END:
 <2013-04-10 Wed 07:00-08:00>
-* Notes
+** Del Sol Continental Breakfast
+<2012-11-06 Tue 07:30-08:30>
+** Del Sol Continental Breakfast
+   :PROPERTIES:
+   :ID:       0cf6bc91-70f0-4c3d-904f-ed47626be9e8
+   :END:
+<2013-01-07 Mon 07:30-08:30>
+
+** Del Sol Continental Breakfast
+   :PROPERTIES:
+   :ID:       0cf6bc91-70f0-4c3d-904f-ed47626be9e8
+   :END:
+<2013-02-13 Wed 07:30-08:30>
+
+* Notes 							      :NOTES:
   :PROPERTIES:
   :ID:       4def01e0-c4b0-4797-a19c-049ea35d696a
   :END:
@@ -762,7 +777,7 @@ PROPERTIES:
 CATEGORY: Notes
 END:
 
-* Tasks
+* Tasks								      :TASKS:
   :PROPERTIES:
   :ID:       5baf5b76-d959-4982-8697-fa98ad67720a
   :END: 
@@ -963,43 +978,7 @@ Bath and toilet clogged. Need light globes.
    :END:
 [2013-02-13 Wed 13:49]
 
-* Calendar
-  :PROPERTIES:
-  :ID:       5692575e-d9af-4d29-bcc7-6b2851bb5b0b
-  :END:
-** Del Sol Continental Breakfast
-<2012-11-06 Tue 07:30-08:30>
-** Del Sol Continental Breakfast
-   :PROPERTIES:
-   :ID:       0cf6bc91-70f0-4c3d-904f-ed47626be9e8
-   :END:
-<2013-01-07 Mon 07:30-08:30>
-
-** Del Sol Continental Breakfast
-   :PROPERTIES:
-   :ID:       0cf6bc91-70f0-4c3d-904f-ed47626be9e8
-   :END:
-<2013-02-13 Wed 07:30-08:30>
-
-** Yard Sale
-   :PROPERTIES:
-   :ID:       104d41ed-972a-47ab-946e-d1772dcda0ae
-   :END:
-Mesa Apartments Basketball Court
-<2013-01-05 Sat 08:00-12:00>
-** MLK Parade
-   :PROPERTIES:
-   :ID:       975ac147-0b3f-4b26-bc50-2b075abe957c
-   :END:
-San Diego Bay waterfront, along the Embarcadero from North Harbor Drive to the Pacific Highway
-<2013-01-14 Mon 14:00>
-** Restaurant Week
-   :PROPERTIES:
-   :ID:       1c51c74f-808c-4e64-9176-051d4f65321e
-   :END:
-<2013-01-13 Sun>--<2013-01-18 Fri>
-[[www.sandiegorestaurantweek.com]]
-* Garden
+* Garden							     :GARDEN:
   :PROPERTIES:
   :ID:       5e99dc1f-f8d7-4d88-b716-95c65eddee1a
   :END:
@@ -1075,7 +1054,7 @@ contact: [[mailto:rosecanyon@san.rr.com][rosecanyon@san.rr.com]], 858-597-0220
    <2013-04-02 Tue>
 ** Easter Eggs (Del Sol)
 <2013-03-27 Wed 16:30-18:00>
-* Reading
+* Reading							    :READING:
   :PROPERTIES:
   :ID:       0c261d56-d97d-46a5-9e2e-78515bca1ddd
   :END:
@@ -1144,7 +1123,7 @@ contact: [[mailto:rosecanyon@san.rr.com][rosecanyon@san.rr.com]], 858-597-0220
    :END:
 [2013-03-19 Tue 11:20]
 This should be a place where I put links to articles, books, emails etc. They can be tagged of course. Should I also have a paper folder for things like journals, magazines etc.? The archive is of course something else that should go here. It might be nice to link this with newsreader capabilities too.
-* Car
+* Car									:CAR:
   :PROPERTIES:
   :ID:       2f359985-69e8-41ba-853e-34ec8ce703c3
   :END:
@@ -1197,10 +1176,50 @@ Catch the 41. Get off at Derrik Dr. after Claremont Mesa and before Balboa.
    :ID:       92951087-75d2-4b4c-8691-19353e056793
    :END:
 [2013-04-03 Wed 16:14]
-* Shows to watch
-  :PROPERTIES:
-  :ID:       c8918022-6e08-47bf-83ce-a79c1a86f43f
+* Entertainment						      :ENTERTAINMENT:
+** Shows to watch						      :SHOWS:
+   :PROPERTIES:
+   :ID:       c8918022-6e08-47bf-83ce-a79c1a86f43f
+   :END:
+** Podcasts							   :PODCASTS:
+   :PROPERTIES:
+   :ID:       dbc15a6d-b5a8-49eb-b640-09a989a68962
+   :END:
+*** DONE podcasts
+   - State "DONE"       from "TODO"       [2012-11-10 Sat 13:44]
+Find a good postcast player for android. I want to be able to do offline listening and jump to where I was up to last. I want to order them based on say date with oldest first or newest first as the fancy takes me.
+  CLOCK: [2012-10-15 Mon 09:50]--[2012-10-15 Mon 09:51] =>  0:01
+   :PROPERTIES:
+   :ID:       4a90ed4c-40d1-4f68-b1d0-fa519220825e
+   :END:
+[2012-10-15 Mon 09:50]
+*** CANCELLED get podcasts					   :COMPUTER:
+    - State "CANCELLED"  from "TODO"       [2012-11-10 Sat 13:44] \\
+      Too vague to be a task
+    :PROPERTIES:
+    :ID:       18dc2ce2-3cb2-4c2f-9ba5-21b378f6fceb
+    :END:
+*** Brief history of mathematics
+*** Mysterious Universe
+*** Productivity?
+** Music							      :MUSIC:
+*** TODO Install last.fm scrobbler at home
+  :LOGBOOK:
+  CLOCK: [2013-04-07 Sun 15:23]--[2013-04-07 Sun 15:24] =>  0:01
   :END:
+  :PROPERTIES:
+  :ID:       45a09590-8013-4e6c-862c-0391ebf5582a
+  :END:
+[2013-04-07 Sun 15:23]
+*** TODO Setup Media server
+  :LOGBOOK:
+  CLOCK: [2013-04-07 Sun 15:33]--[2013-04-07 Sun 15:35] =>  0:02
+  :END:
+  :PROPERTIES:
+  :ID:       4524253e-ed66-4e3a-a7c1-43f79c9defc9
+  :END:
+[2013-04-07 Sun 15:33]
+This will be to use XBMC, the [[http://code.google.com/p/pms-xbmc/]] [[http://www.ps3mediaserver.org/about/][PS3 media server]] plugin and https://github.com/jnj/pms-scrobbler to access last.fm. I should be able to watch movies too? It would be nice to send the full screen output to the streaming server...
 * Home organisation
   :PROPERTIES:
   :ID:       204ad8e3-a00f-4da7-b2d6-deb5e370a2c6
@@ -1213,27 +1232,6 @@ Catch the 41. Get off at Derrik Dr. after Claremont Mesa and before Balboa.
    :END:
    TOBESCHEDULED: <2013-01-30 Wed +1w>
 
-* Podcasts
-  :PROPERTIES:
-  :ID:       dbc15a6d-b5a8-49eb-b640-09a989a68962
-  :END:
-** DONE podcasts
-   - State "DONE"       from "TODO"       [2012-11-10 Sat 13:44]
-Find a good postcast player for android. I want to be able to do offline listening and jump to where I was up to last. I want to order them based on say date with oldest first or newest first as the fancy takes me.
-  CLOCK: [2012-10-15 Mon 09:50]--[2012-10-15 Mon 09:51] =>  0:01
-   :PROPERTIES:
-   :ID:       4a90ed4c-40d1-4f68-b1d0-fa519220825e
-   :END:
-[2012-10-15 Mon 09:50]
-** CANCELLED get podcasts					   :COMPUTER:
-   - State "CANCELLED"  from "TODO"       [2012-11-10 Sat 13:44] \\
-     Too vague to be a task
-   :PROPERTIES:
-   :ID:       18dc2ce2-3cb2-4c2f-9ba5-21b378f6fceb
-   :END:
-** Brief history of mathematics
-** Mysterious Universe
-** Productivity?
 * Friends and Family
   :PROPERTIES:
   :ID:       5add705f-4344-4a82-b4ef-7b38336fd029
@@ -1266,7 +1264,7 @@ Delta 4502 From LA.
   :END:
 [2012-11-30 Fri 13:33]
 <2012-11-30 Fri>
-* Languages
+* Languages							   :LANGUAGE:
   :PROPERTIES:
   :ID:       1e44ed1d-6c7b-4ded-a3e8-9b6611aded61
   :END:
@@ -1303,7 +1301,7 @@ Delta 4502 From LA.
    :END:
 [2013-01-09 Wed 07:18]
 
-* Travel
+* Travel							     :TRAVEL:
   :PROPERTIES:
   :ID:       4416b8c9-3759-4f08-8bd0-d724371106f0
   :END:
@@ -1350,7 +1348,7 @@ Delta 4502 From LA.
     :ID:       9bd40a6c-2ace-412a-a0be-842782341f45
     :END:
 
-* Food
+* Food								       :FOOD:
   :PROPERTIES:
   :ID:       ed6a7e09-d3d2-4963-b9ff-001444bd0f41
   :END:
@@ -1404,7 +1402,7 @@ Delta 4502 From LA.
     :ID:       5ec9c212-0023-4e17-956b-2c3c87317842
     :END: 
 <2013-04-01 +1w>
-* Writing
+* Writing							    :WRITING:
   :PROPERTIES:
   :ID:       0729e545-5750-4ead-95a4-2dd93f8579f5
   :END:
