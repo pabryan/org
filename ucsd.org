@@ -305,8 +305,9 @@ CLOCK: [2013-04-08 Mon 15:00]--[2013-04-08 Mon 16:00] =>  0:59
        :END:
 ***** Lecture 02.3
 <2013-04-12 Fri 15:00-16:00>
-****** NEXT Prepare lecture
+****** DONE Prepare lecture
        DEADLINE: <2013-04-12 Fri>
+       - State "DONE"       from "NEXT"       [2013-04-12 Fri 09:08]
        :PROPERTIES:
        :ID:       e4ea0e0c-864e-419f-9469-afe29245f1df
        :END:
@@ -2883,6 +2884,7 @@ It should make the relevant web entry and also the email notice. Possibly I coul
 ** UCSD Informal Seminars
 **** TODO GMT Seminar 						      :FOCUS:
      :LOGBOOK:
+     CLOCK: [2013-04-12 Fri 09:07]
      CLOCK: [2013-04-11 Thu 09:55]--[2013-04-11 Thu 11:07] =>  1:12
      CLOCK: [2013-04-04 Thu 09:55]--[2013-04-04 Thu 11:15] =>  1:20
      :END:
@@ -2892,7 +2894,6 @@ It should make the relevant web entry and also the email notice. Possibly I coul
 <2013-04-04 Thu 10:00-11:00 +1w>
 ***** Tasks
 ****** TODO Prepare for GMT Seminars
-       SCHEDULED: <2013-03-29 Fri>    
        :LOGBOOK:
        :END:
        :PROPERTIES:
@@ -2937,14 +2938,16 @@ It should make the relevant web entry and also the email notice. Possibly I coul
        :ID:       73eeabf5-d1bd-4eae-b2a3-144bd3a2692a
        :END:
 ****** TODO Send GMT Announcement
-       DEADLINE: <2013-04-12 Fri +1w>
+       DEADLINE: <2013-04-19 Fri +1w>
+       - State "DONE"       from "NEXT"       [2013-04-12 Fri 09:07]
        - State "DONE"       from "NEXT"       [2013-04-08 Mon 16:43]
        :LOGBOOK:
+       CLOCK: [2013-04-12 Fri 09:04]--[2013-04-12 Fri 09:07] =>  0:03
        CLOCK: [2013-04-08 Mon 16:41]--[2013-04-08 Mon 16:43] =>  0:02
        :END:
        :PROPERTIES:
        :ID:       8f44a0eb-8ce5-4deb-9891-696f791bce56
-       :LAST_REPEAT: [2013-04-08 Mon 16:43]
+       :LAST_REPEAT: [2013-04-12 Fri 09:07]
        :END:
 ***** Notes
 ****** Main Topics
