@@ -2933,6 +2933,9 @@ It should make the relevant web entry and also the email notice. Possibly I coul
        :ID:       90dc41d6-edae-4137-a7f8-0f1a8afcfb53
        :END:
 ****** NEXT Write 2nd variational argument for seminar 02
+       :PROPERTIES:
+       :ID:       73eeabf5-d1bd-4eae-b2a3-144bd3a2692a
+       :END:
 ****** TODO Send GMT Announcement
        DEADLINE: <2013-04-12 Fri +1w>
        - State "DONE"       from "NEXT"       [2013-04-08 Mon 16:43]
