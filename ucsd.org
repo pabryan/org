@@ -1122,6 +1122,9 @@ Center 119
 ***** Homework 2
 ****** NEXT Set Homework 02
        DEADLINE: <2013-04-12 Fri>
+       :LOGBOOK:
+       CLOCK: [2013-04-12 Fri 10:46]
+       :END:
        :PROPERTIES:
        :ID:       a605b39d-4e19-4649-81ca-19e6d2dca4c9
        :END:
