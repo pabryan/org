@@ -214,6 +214,9 @@ Lectures in calendar and tasks like planning lectures.
 [2013-04-07 Sun 14:33]
 ***** NEXT Send travel plans to admin
       DEADLINE: <2013-05-08 Wed>
+      :PROPERTIES:
+      :ID:       b550274e-3e83-4105-badc-0c04db6c2d23
+      :END:
 pebenfel@math.ucsd.edu
 drichards@math.ucsd.edu
 Send exact dates of travel, destination/purpose of trip, and arrangements made for meeting classes
@@ -311,6 +314,9 @@ CLOCK: [2013-04-08 Mon 15:00]--[2013-04-08 Mon 16:12] =>  0:59
        :ID:       da1ecd2e-5cb7-4fa7-8359-9a2fa0353d72
        :END:
 ***** Lecture 02.3
+      :PROPERTIES:
+      :ID:       3a12ccfb-d9c0-4ead-8c48-1fca9c7e85ee
+      :END:
 <2013-04-12 Fri 15:00-16:00>
 ****** DONE Prepare lecture
        DEADLINE: <2013-04-12 Fri>
@@ -607,6 +613,9 @@ CLOCK: [2013-04-08 Mon 15:00]--[2013-04-08 Mon 16:12] =>  0:59
       CLOCK: [2013-04-08 Mon 16:32]--[2013-04-08 Mon 16:37] =>  0:05
       :END:
 ***** NEXT Update calendar
+      :PROPERTIES:
+      :ID:       1522fd48-57f5-4597-953f-5c634508d876
+      :END:
 **** Quizzes							       :QUIZ:
 ***** Quiz 01
 ****** DONE Set quiz 
@@ -820,6 +829,9 @@ Lectures in calendar and tasks like planning lectures.
       [2013-04-07 Sun 14:33]
 ***** NEXT Send travel plans to admin
       DEADLINE: <2013-05-08 Wed>
+      :PROPERTIES:
+      :ID:       5ca2e63f-ebf8-4c2e-8d96-10ae659df04e
+      :END:
 pebenfel@math.ucsd.edu
 drichards@math.ucsd.edu
 Send exact dates of travel, destination/purpose of trip, and arrangements made for meeting classes
@@ -914,8 +926,8 @@ Center 119
        :ID:       ab1bf1f0-fd0b-4cec-abdf-255104977fe1
        :END:
 ***** Lecture 02.3
-      :LOGBOOK:
-      CLOCK: [2013-04-12 Fri 12:39]
+      :PROPERTIES:
+      :ID:       e5a24160-c2df-4e07-8d90-afa9e734a76f
       :END:
 <2013-04-12 Fri 13:00-14:00>
 ****** DONE Prepare lecture
@@ -1220,6 +1232,9 @@ Center 119
 ***** NEXT Update calendar
       :LOGBOOK:
       CLOCK: [2013-04-12 Fri 11:16]--[2013-04-12 Fri 11:17] =>  0:01
+      :END:
+      :PROPERTIES:
+      :ID:       3ac1d520-8449-4724-8f4e-9086c73ed5fe
       :END:
 **** Quizzes							       :QUIZ:
 ***** Quiz 01
