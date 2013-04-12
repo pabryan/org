@@ -1218,13 +1218,19 @@ estimates.
     :END:
 [2013-03-26 Tue 13:44]
 
+**** Texts
+
 Leon Simon
 Whitney
 Federer, Fleming
-Almgren
-Evans - measure theory
+Almgren?
+Evans and Gariepy - measure theory
 BV functions - Di Giorgio
-Krantz
+Krantz and Parks
+Pertti Mattila’s The Geometry of Sets and Measures in Euclidean Spaces
+Enrico Giusti’s Minimal Surfaces and Functions of Bounded Variation
+**** Links
+http://notesfromkevinrvixie.org/2012/11/02/geometric-measure-theory-by-the-book-2/
 *** TODO Solitions and ancient solutions
   :LOGBOOK:
   CLOCK: [2013-03-26 Tue 13:47]--[2013-03-26 Tue 13:49] =>  0:02
@@ -1235,6 +1241,16 @@ Krantz
 [2013-03-26 Tue 13:47]
 Can we come up with an energy for ancient solutions? Something like the first derivative of curvature then look at minimisers? Are they ancient? We should also get some monotone quantity under the flow. Then we need to characterise the stationary solutions.
 Is Angenent Oval a soliton?
+
+*** Non-smooth spaces
+**** Links
+http://www.emis.de/monographs/KSM/index.htm
+http://mathoverflow.net/questions/17545/sheaves-and-bundles-in-differential-geometry
+http://math.stackexchange.com/questions/24693/want-to-learn-differential-geometry-and-want-the-sheaf-perspective
+http://www.amazon.com/Global-Calculus-Graduate-Studies-Mathematics/dp/082183702
+http://mathoverflow.net/questions/14877/how-much-of-differential-geometry-can-be-developed-entirely-without-atlases-clo
+
+
 
 ** Reading
    :PROPERTIES:
