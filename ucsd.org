@@ -585,13 +585,15 @@ CLOCK: [2013-04-08 Mon 15:00]--[2013-04-08 Mon 16:12] =>  0:59
       :PROPERTIES:
       :ID:       93065af9-f7ec-498e-8316-3348e8e31aa5
       :END:
-***** HOLD Add TA's to TED
+***** DONE Add TA's to TED
+      - State "DONE"       from "HOLD"       [2013-04-12 Fri 11:14]
       - State "HOLD"       from "NEXT"       [2013-04-04 Thu 14:12] \\
 	Emailed ACMS request to set it up.
       :PROPERTIES:
       :ID:       bdd19ccf-b641-498c-bc46-9970ac3c2f29
       :END:
-***** NEXT Add Grader's to TED with access to grade book
+***** DONE Add Grader's to TED with access to grade book
+      - State "DONE"       from "NEXT"       [2013-04-12 Fri 11:14]
       :PROPERTIES:
       :ID:       5838d30c-a03c-4068-8f24-f81d7fd6154b
       :END:
@@ -601,6 +603,7 @@ CLOCK: [2013-04-08 Mon 15:00]--[2013-04-08 Mon 16:12] =>  0:59
       :LOGBOOK:
       CLOCK: [2013-04-08 Mon 16:32]--[2013-04-08 Mon 16:37] =>  0:05
       :END:
+***** NEXT Update calendar
 **** Quizzes							       :QUIZ:
 ***** Quiz 01
 ****** DONE Set quiz 
@@ -1120,10 +1123,11 @@ Center 119
        :END:
 
 ***** Homework 2
-****** NEXT Set Homework 02
+****** DONE Set Homework 02
        DEADLINE: <2013-04-12 Fri>
+       - State "DONE"       from "NEXT"       [2013-04-12 Fri 11:11]
        :LOGBOOK:
-       CLOCK: [2013-04-12 Fri 10:46]
+       CLOCK: [2013-04-12 Fri 10:46]--[2013-04-12 Fri 11:11] =>  0:25
        :END:
        :PROPERTIES:
        :ID:       a605b39d-4e19-4649-81ca-19e6d2dca4c9
@@ -1195,7 +1199,8 @@ Center 119
       :LOGBOOK:
       CLOCK: [2013-04-08 Mon 16:20]--[2013-04-08 Mon 16:32] =>  0:12
       :END:
-***** NEXT Grant graders access to TED grade book
+***** DONE Grant graders access to TED grade book
+      - State "DONE"       from "NEXT"       [2013-04-12 Fri 11:14]
       - State "NEXT"       from "HOLD"       [2013-04-05 Fri 11:48]
       - State "HOLD"       from "NEXT"       [2013-04-04 Thu 14:12] \\
 	Emailed ACMS request to set it up.
@@ -1203,6 +1208,7 @@ Center 119
       :ID:       fbdd1a20-2bf7-4ad0-91e5-1c52ac79c7b8
       :END:
 - Send email request as per instruction email in my inbox.
+***** NEXT Update calendar
 **** Quizzes							       :QUIZ:
 ***** Quiz 01
 ****** DONE Set quiz 

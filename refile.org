@@ -1,1 +1,8 @@
 #+FILETAGS: REFILE
+* TODO Figure out how to export course site from course org
+  :LOGBOOK:
+  CLOCK: [2013-04-12 Fri 11:11]--[2013-04-12 Fri 11:13] =>  0:02
+  :END:
+[2013-04-12 Fri 11:11]
+
+I want to put the details of the course in to org - probably using property drawers, along with timestamped items and export all that to html/pdf. This would be instead of making a seperate org course website.
