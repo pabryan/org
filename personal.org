@@ -1251,8 +1251,9 @@ This will be to use XBMC, the [[http://code.google.com/p/pms-xbmc/]] [[http://ww
    :END:
 <2013-02-05 Tue 10:30>--<2013-02-05 Tue 12:30>
 Delta 4502 From LA.
-** NEXT Pick up Jane from the airport
+** DONE Pick up Jane from the airport
    SCHEDULED: <2013-04-13 Sat 12:00>
+   - State "DONE"       from "NEXT"       [2013-04-13 Sat 21:13]
    :PROPERTIES:
    :ID:       37f50b43-862f-4ff4-903f-7b2b506c5ded
    :END:
