@@ -9,8 +9,3 @@
 [2013-04-12 Fri 11:11]
 
 I want to put the details of the course in to org - probably using property drawers, along with timestamped items and export all that to html/pdf. This would be instead of making a seperate org course website.
-* TODO Send in notice of moving
-  :LOGBOOK:
-  CLOCK: [2013-04-15 Mon 20:34]--[2013-04-15 Mon 20:35] =>  0:01
-  :END:
-[2013-04-15 Mon 20:34]
