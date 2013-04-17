@@ -531,8 +531,12 @@ CLOCK: [2013-04-08 Mon 15:00]--[2013-04-08 Mon 16:12] =>  0:59
        :END:
 
 ***** Homework 2
-****** NEXT Set Homework 02
+****** DONE Set Homework 02
        DEADLINE: <2013-04-12 Fri>
+       - State "DONE"       from "NEXT"       [2013-04-16 Tue 20:52]
+       :LOGBOOK:
+       CLOCK: [2013-04-16 Tue 20:23]--[2013-04-16 Tue 20:52] =>  0:29
+       :END:
        :PROPERTIES:
        :ID:       6dd254a4-584d-454c-b4c5-0504ebd1fc78
        :END:
@@ -620,6 +624,7 @@ CLOCK: [2013-04-08 Mon 15:00]--[2013-04-08 Mon 16:12] =>  0:59
       :PROPERTIES:
       :ID:       1522fd48-57f5-4597-953f-5c634508d876
       :END:
+***** NEXT Set up gradebook
 **** Quizzes							       :QUIZ:
 ***** Quiz 01
 ****** DONE Set quiz 
@@ -1240,6 +1245,7 @@ Center 119
       :PROPERTIES:
       :ID:       3ac1d520-8449-4724-8f4e-9086c73ed5fe
       :END:
+***** NEXT Set up gradebook
 **** Quizzes							       :QUIZ:
 ***** Quiz 01
 ****** DONE Set quiz 
