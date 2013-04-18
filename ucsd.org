@@ -222,6 +222,16 @@ Send exact dates of travel, destination/purpose of trip, and arrangements made f
   :LOGBOOK:
   :END:
 [2013-04-15 Mon 20:31]
+***** DONE Spring 2013 text books
+      DEADLINE: <2013-02-01 Fri>
+      - State "DONE"       from "NEXT"       [2013-02-01 Fri 11:39]
+      :LOGBOOK:
+      CLOCK: [2013-02-01 Fri 11:27]--[2013-02-01 Fri 11:39] =>  0:12
+      :END:
+      :PROPERTIES:
+      :ID:       59315c52-b03c-4ab2-be4e-d91eae1ad433
+      :END:
+
 **** Clocking 							   :CLOCKING:
 ***** Admin
       :LOGBOOK:
@@ -336,8 +346,9 @@ CLOCK: [2013-04-08 Mon 15:00]--[2013-04-08 Mon 16:12] =>  0:59
        :END:
 ***** Lecture 03.2
 <2013-04-17 Wed 15:00-16:00>
-****** NEXT Prepare lecture
+****** DONE Prepare lecture
        DEADLINE: <2013-04-17 Wed>
+       - State "DONE"       from "NEXT"       [2013-04-18 Thu 11:06]
        :PROPERTIES:
        :ID:       4641c67f-178e-4aa2-9102-0e4a6f285c91
        :END:
@@ -965,8 +976,9 @@ Center 119
        :END:
 ***** Lecture 03.2
 <2013-04-17 Wed 13:00-14:00>
-****** NEXT Prepare lecture
+****** DONE Prepare lecture
        DEADLINE: <2013-04-17 Wed>
+       - State "DONE"       from "NEXT"       [2013-04-18 Thu 11:07]
        :PROPERTIES:
        :ID:       63656879-f20a-4ec9-822a-034809a28dae
        :END:
@@ -2557,16 +2569,10 @@ Update this based on Bo's comments.
    :END:
 [2012-12-17 Mon 13:55]
 
-*** DONE Spring 2013 text books
-    DEADLINE: <2013-02-01 Fri>
-    - State "DONE"       from "NEXT"       [2013-02-01 Fri 11:39]
-    :LOGBOOK:
-    CLOCK: [2013-02-01 Fri 11:27]--[2013-02-01 Fri 11:39] =>  0:12
-    :END:
-    :PROPERTIES:
-    :ID:       59315c52-b03c-4ab2-be4e-d91eae1ad433
-    :END:
+** Quarters
+*** Spring 2013
 
+*** 
 ** Professional Development
 *** TODO Check out Center for Teaching Development
     :PROPERTIES:
@@ -2949,6 +2955,7 @@ It should make the relevant web entry and also the email notice. Possibly I coul
 ** UCSD Informal Seminars
 **** TODO GMT Seminar 						      :FOCUS:
      :LOGBOOK:
+     CLOCK: [2013-04-18 Thu 09:55]--[2013-04-18 Thu 11:06] =>  1:11
      CLOCK: [2013-04-12 Fri 09:07]--[2013-04-12 Fri 09:08] =>  0:01
      CLOCK: [2013-04-11 Thu 09:55]--[2013-04-11 Thu 11:07] =>  1:12
      CLOCK: [2013-04-04 Thu 09:55]--[2013-04-04 Thu 11:15] =>  1:20
