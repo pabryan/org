@@ -120,9 +120,6 @@ Lectures in calendar and tasks like planning lectures.
 **** Clocking
 **** Calendar
 *** TODO MATH20C Spring 2013				      :MATH20C:FOCUS:
-    :LOGBOOK:
-    CLOCK: [2013-04-17 Wed 20:50]
-    :END:
     :PROPERTIES:
     :ID:       b7714d68-e3c3-4424-be34-62a9473108e4
     :END:
@@ -676,7 +673,7 @@ CLOCK: [2013-04-08 Mon 15:00]--[2013-04-08 Mon 16:12] =>  0:59
 ****** DONE Set quiz 
        DEADLINE: <2013-04-17 Wed>
        :LOGBOOK:
-       CLOCK: [2013-04-17 Wed 20:44]--[2013-04-17 Wed 20:50] =>  0:06
+       CLOCK: [2013-04-17 Wed 20:44]--[2013-04-17 Wed 20:57] =>  0:13
        :END:
        - State "DONE"       from "NEXT"       [2013-04-17 Wed 20:37]
        :PROPERTIES:
@@ -975,6 +972,9 @@ Center 119
 <2013-04-19 Fri 13:00-14:00>
 ****** NEXT Prepare lecture
        DEADLINE: <2013-04-19 Fri>
+       :LOGBOOK:
+       CLOCK: [2013-04-17 Wed 20:57]--[2013-04-17 Wed 21:09] =>  0:12
+       :END:
        :PROPERTIES:
        :ID:       ca7d462e-035f-4f2b-9966-204092282220
        :END:
