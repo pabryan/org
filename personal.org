@@ -305,8 +305,9 @@ Can we suspend loan repayments for a few months?
 [2013-01-28 Mon 19:48]
 
 ** Tax
-*** NEXT Do Tax
+*** DONE Do Tax
   DEADLINE: <2013-04-15 Mon> SCHEDULED: <2013-03-10 Sun>
+  - State "DONE"       from "NEXT"       [2013-04-17 Wed 11:58]
   :LOGBOOK:
   CLOCK: [2013-04-12 Fri 08:57]--[2013-04-12 Fri 09:03] =>  0:06
   CLOCK: [2013-03-10 Sun 11:15]--[2013-03-10 Sun 12:36] =>  1:21
