@@ -1232,7 +1232,7 @@ This will be to use XBMC, the [[http://code.google.com/p/pms-xbmc/]] [[http://ww
   :PROPERTIES:
   :ID:       204ad8e3-a00f-4da7-b2d6-deb5e370a2c6
   :END:
-** SOMEDAY plan weekly food
+** TODO plan weekly food					    :SOMEDAY:
    - State "DONE"       from "NEXT"       [2012-11-19 Mon 12:28]
    :PROPERTIES:
    :ID:       659b82d1-fff2-498c-afeb-3101030d6946

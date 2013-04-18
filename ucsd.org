@@ -121,6 +121,7 @@ Lectures in calendar and tasks like planning lectures.
 **** Calendar
 *** TODO MATH20C Spring 2013				      :MATH20C:FOCUS:
     :LOGBOOK:
+    CLOCK: [2013-04-17 Wed 20:50]
     :END:
     :PROPERTIES:
     :ID:       b7714d68-e3c3-4424-be34-62a9473108e4
@@ -672,8 +673,12 @@ CLOCK: [2013-04-08 Mon 15:00]--[2013-04-08 Mon 16:12] =>  0:59
 ****** Questions
 
 ***** Quiz 04
-****** NEXT Set quiz 
+****** DONE Set quiz 
        DEADLINE: <2013-04-17 Wed>
+       :LOGBOOK:
+       CLOCK: [2013-04-17 Wed 20:44]--[2013-04-17 Wed 20:50] =>  0:06
+       :END:
+       - State "DONE"       from "NEXT"       [2013-04-17 Wed 20:37]
        :PROPERTIES:
        :ID:       80b1a1ab-93e8-471b-b40c-32fc4fcaf52d
        :END:
@@ -1282,8 +1287,9 @@ Center 119
 ****** Questions
 
 ***** Quiz 04
-****** NEXT Set quiz 
+****** DONE Set quiz 
        DEADLINE: <2013-04-17 Wed>
+       - State "DONE"       from "NEXT"       [2013-04-17 Wed 20:37]
        :PROPERTIES:
        :ID:       37d9d549-2b33-4ff7-9b09-312ace69d011
        :END:
