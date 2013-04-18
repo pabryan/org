@@ -119,2081 +119,40 @@ Blank	Grade not reported by instructor
 Lectures in calendar and tasks like planning lectures.
 **** Clocking
 **** Calendar
-*** TODO MATH20C Spring 2013				      :MATH20C:FOCUS:
-    :PROPERTIES:
-    :ID:       b7714d68-e3c3-4424-be34-62a9473108e4
-    :END:
-    [[file:~/working/ucsd/teaching/math20c_spring_2013]]
-**** Notes							      :NOTES:
-***** Cover Caleb Meier's Lectures
-LEDDN AUD
-<2013-05-24 Fri 10:00-10:50> 
-<2013-05-27 Mon 10:00-10:50> 
-***** Lectures Covered
-[2013-05-10 Fri 15:00-15:50] Caleb Meier
-[2013-05-13 Mon 15:00-15:50] Caleb Meier
-**** Tasks
-***** DONE Set up course
-      SCHEDULED: <2013-03-18 Mon> DEADLINE: <2013-04-01 Mon>
-      - State "DONE"       from "TODO"       [2013-04-01 Mon 11:34]
-      :LOGBOOK:
-      CLOCK: [2013-03-12 Tue 12:09]--[2013-03-12 Tue 12:36] =>  0:27    
-      CLOCK: [2013-03-12 Tue 11:26]--[2013-03-12 Tue 11:28] =>  0:02
-      :END:
-      :PROPERTIES:
-      :ID:       e4ea8745-1fb4-494c-bd64-2f0744d2dc30
-      :END:
-****** DONE Make org structure
-       - State "DONE"       from "NEXT"       [2013-04-01 Mon 11:36]
-       :LOGBOOK:
-       CLOCK: [2013-04-01 Mon 11:20]--[2013-04-01 Mon 11:34] =>  0:14
-       CLOCK: [2013-03-30 Sat 20:25]--[2013-03-30 Sat 20:55] =>  0:30
-       :END:
-       :PROPERTIES:
-       :ID:       5f1670be-70cf-4e0c-9db5-630dac608324
-       :END:
-Lectures in calendar and tasks like planning lectures.
-****** DONE Make schedule
-       - State "DONE"       from "NEXT"       [2013-03-25 Mon 15:11]
-       :LOGBOOK:
-       CLOCK: [2013-03-20 Wed 11:45]--[2013-03-20 Wed 11:46] =>  0:01
-       CLOCK: [2013-03-20 Wed 11:44]--[2013-03-20 Wed 11:45] =>  0:01
-       CLOCK: [2013-03-20 Wed 10:47]--[2013-03-20 Wed 11:40] =>  0:53
-       :END:
-       :PROPERTIES:
-       :ID:       ff8a1dd5-bb2a-45c8-b0e4-b6e15e93778f
-       :END:
-***** DONE Find some one to cover for 09/05 and 11/05
-      - State "DONE"       from "WAITING"    [2013-03-20 Wed 14:33]
-      - State "WAITING"    from "NEXT"       [2013-03-20 Wed 10:46] \\
-	Waiting on Andre Minor and Caleb Meier to respond.
-      :LOGBOOK:
-      CLOCK: [2013-03-20 Wed 13:20]--[2013-03-20 Wed 13:28] =>  0:08
-      CLOCK: [2013-03-20 Wed 10:32]--[2013-03-20 Wed 10:47] =>  0:15
-      :END:
-***** DONE Organise TA's
-      - State "DONE"       from "NEXT"       [2013-04-01 Mon 16:35]
-      :LOGBOOK:
-      CLOCK: [2013-04-01 Mon 16:24]--[2013-04-01 Mon 16:35] =>  0:11
-      :END:
-***** DONE Send bulk mail to students
-  SCHEDULED: <2013-04-01 Mon>
-  - State "DONE"       from "TODO"       [2013-04-01 Mon 21:28]
-  :LOGBOOK:
-  CLOCK: [2013-04-01 Mon 16:22]--[2013-04-01 Mon 16:23] =>  0:01
-  :END:
-      :PROPERTIES:
-      :ID:       8e637bf5-770c-4349-ab8f-7f9bf3a0e215
-      :END:
-[2013-04-01 Mon 16:22]
-***** DONE Meet TA's
-      - State "DONE"       from "NEXT"       [2013-04-03 Wed 11:25]
-      :LOGBOOK:
-      CLOCK: [2013-04-03 Wed 11:01]--[2013-04-03 Wed 11:21] =>  0:20
-      :END:
-<2013-04-03 Wed 11:00>
-
-***** NEXT Set up stats on TED for assessment
-  :LOGBOOK:
-  :END:
-  :PROPERTIES:
-  :ID:       759de22f-a2b3-434b-9ac7-5df37006f70d
-  :END:
-[2013-04-04 Thu 15:12]
-***** DONE Print out schedule etc. for course folders
-      - State "DONE"       from "NEXT"       [2013-04-09 Tue 12:33]
-  :LOGBOOK:
-  CLOCK: [2013-04-09 Tue 12:31]--[2013-04-09 Tue 12:33] =>  0:02
-  CLOCK: [2013-04-07 Sun 14:33]--[2013-04-07 Sun 14:34] =>  0:01
-  :END:
-  :PROPERTIES:
-  :ID:       8f536ff6-7697-4d83-ad49-a8a997454022
-  :END:
-[2013-04-07 Sun 14:33]
-***** NEXT Send travel plans to admin
-      DEADLINE: <2013-05-08 Wed>
-      :PROPERTIES:
-      :ID:       b550274e-3e83-4105-badc-0c04db6c2d23
-      :END:
-pebenfel@math.ucsd.edu
-drichards@math.ucsd.edu
-Send exact dates of travel, destination/purpose of trip, and arrangements made for meeting classes
-***** TODO Find someone to cover Math20C lecture
-  :LOGBOOK:
-  :END:
-[2013-04-15 Mon 20:31]
-***** DONE Spring 2013 text books
-      DEADLINE: <2013-02-01 Fri>
-      - State "DONE"       from "NEXT"       [2013-02-01 Fri 11:39]
-      :LOGBOOK:
-      CLOCK: [2013-02-01 Fri 11:27]--[2013-02-01 Fri 11:39] =>  0:12
-      :END:
-      :PROPERTIES:
-      :ID:       59315c52-b03c-4ab2-be4e-d91eae1ad433
-      :END:
-
-**** Clocking 							   :CLOCKING:
-***** Admin
-      :LOGBOOK:
-      CLOCK: [2013-04-04 Thu 13:35]--[2013-04-04 Thu 14:36] =>  1:01
-      :END:
-***** Office hours
-      :LOGBOOK:
-      CLOCK: [2013-04-12 Fri 11:17]--[2013-04-12 Fri 12:11] =>  0:54
-      :END:
-**** Lectures							   :LECTURES:
-***** Location
-WLH 2001
-***** Lecture 01.1
-      :LOGBOOK:
-      CLOCK: [2013-04-01 Mon 14:50]--[2013-04-01 Mon 16:13] =>  1:23
-      :END:
-      :PROPERTIES:
-      :ID:       48c8e91a-98d6-4e8e-aa76-09a049368898
-      :END:
-<2013-04-01 Mon 15:00-16:00>
-****** DONE Prepare lecture 
-       - State "DONE"       from "NEXT"       [2013-03-27 Wed 20:26]
-      :LOGBOOK:
-      CLOCK: [2013-03-27 Wed 09:30]--[2013-03-27 Wed 09:45] =>  0:15
-      CLOCK: [2013-03-27 Wed 08:45]--[2013-03-27 Wed 09:10] =>  0:25
-      CLOCK: [2013-03-27 Wed 08:07]--[2013-03-27 Wed 08:30] =>  0:23
-      :END:
-
-***** Lecture 01.2
-      :LOGBOOK:
-      CLOCK: [2013-04-03 Wed 14:40]--[2013-04-03 Wed 16:10] =>  1:30
-      :END:
-      :PROPERTIES:
-      :ID:       488c7003-1639-40c7-9f29-6b362addda1f
-      :END:
-<2013-04-03 Wed 15:00-16:00>
-****** DONE Prepare lecture
-       - State "DONE"       from "NEXT"       [2013-04-01 Mon 11:19]
-       :PROPERTIES:
-       :ID:       608e698a-5fab-4b48-8461-e6db228b115b
-       :END:
-***** Lecture 01.3
-      :LOGBOOK:
-      CLOCK: [2013-04-05 Fri 14:50]--[2013-04-05 Fri 16:10] =>  1:20
-      :END:
-      :PROPERTIES:
-      :ID:       9e6aaf01-146b-485d-9b09-1e49b7d85075
-      :END:
-
-<2013-04-05 Fri 15:00-16:00>
-****** DONE Prepare lecture
-       - State "DONE"       from "NEXT"       [2013-04-01 Mon 11:19]
-       :PROPERTIES:
-       :ID:       83c17c4d-a52d-44d2-bb08-60df7350eb08
-       :END:
-***** Lecture 02.1
-:LOGBOOK:
-CLOCK: [2013-04-08 Mon 15:00]--[2013-04-08 Mon 16:12] =>  0:59
-:END:
-      :PROPERTIES:
-      :ID:       61f1c2f2-c3c2-4ab3-8ced-f96540385b3c
-      :END:
-<2013-04-08 Mon 15:00-16:00>
-****** DONE Prepare lecture
-       DEADLINE: <2013-04-08 Mon>
-       - State "DONE"       from "NEXT"       [2013-04-07 Sun 15:45]
-       :LOGBOOK:
-       CLOCK: [2013-04-07 Sun 15:36]--[2013-04-07 Sun 15:45] =>  0:09
-       CLOCK: [2013-04-07 Sun 14:49]--[2013-04-07 Sun 15:16] =>  0:27
-       CLOCK: [2013-04-07 Sun 14:34]--[2013-04-07 Sun 14:44] =>  0:10
-       CLOCK: [2013-04-07 Sun 14:18]--[2013-04-07 Sun 14:33] =>  0:15
-       :END:
-       :PROPERTIES:
-       :ID:       ff6696aa-379e-447f-b684-b8466bb23e35
-       :END:
-
-***** Lecture 02.2
-      :LOGBOOK:
-      CLOCK: [2013-04-10 Wed 14:50]--[2013-04-10 Wed 16:05] =>  1:15
-      :END:
-      :PROPERTIES:
-      :ID:       94c92bc9-724c-441e-9fe4-e9b2c1ca8e9f
-      :END:
-<2013-04-10 Wed 15:00-16:00>
-****** DONE Prepare lecture
-       DEADLINE: <2013-04-10 Wed>
-       - State "DONE"       from "NEXT"       [2013-04-09 Tue 14:35]
-       :LOGBOOK:
-       CLOCK: [2013-04-09 Tue 13:59]--[2013-04-09 Tue 14:35] =>  0:36
-       :END:
-       :PROPERTIES:
-       :ID:       da1ecd2e-5cb7-4fa7-8359-9a2fa0353d72
-       :END:
-***** Lecture 02.3
-      :PROPERTIES:
-      :ID:       3a12ccfb-d9c0-4ead-8c48-1fca9c7e85ee
-      :END:
-<2013-04-12 Fri 15:00-16:00>
-****** DONE Prepare lecture
-       DEADLINE: <2013-04-12 Fri>
-       - State "DONE"       from "NEXT"       [2013-04-12 Fri 09:08]
-       :PROPERTIES:
-       :ID:       e4ea0e0c-864e-419f-9469-afe29245f1df
-       :END:
-***** Lecture 03.1
-<2013-04-15 Mon 15:00-16:00>
-****** DONE Prepare lecture
-       DEADLINE: <2013-04-15 Mon>
-       - State "DONE"       from "NEXT"       [2013-04-17 Wed 11:58]
-       :PROPERTIES:
-       :ID:       9bd15697-9158-459b-bda5-911c6e3376cf
-       :END:
-***** Lecture 03.2
-<2013-04-17 Wed 15:00-16:00>
-****** DONE Prepare lecture
-       DEADLINE: <2013-04-17 Wed>
-       - State "DONE"       from "NEXT"       [2013-04-18 Thu 11:06]
-       :PROPERTIES:
-       :ID:       4641c67f-178e-4aa2-9102-0e4a6f285c91
-       :END:
-***** Lecture 03.3
-<2013-04-19 Fri 15:00-16:00>
-****** NEXT Prepare lecture
-       DEADLINE: <2013-04-19 Fri>
-       :PROPERTIES:
-       :ID:       a1025480-ffcb-4f34-abb4-7ac09c821730
-       :END:
-***** Lecture 04.1
-<2013-04-22 Mon 15:00-16:00>
-****** NEXT Prepare lecture
-       DEADLINE: <2013-04-22 Mon>
-       :PROPERTIES:
-       :ID:       7aad3794-ce84-4c8a-82d4-f1416f445989
-       :END:
-***** Lecture 04.2
-<2013-04-24 Wed 15:00-16:00>
-****** NEXT Prepare lecture
-       DEADLINE: <2013-04-24 Wed>
-       :PROPERTIES:
-       :ID:       24d15ffd-1198-484f-8009-962bd14754ac
-       :END:
-***** Lecture 04.3
-<2013-04-26 Fri 15:00-16:00>
-****** NEXT Prepare lecture
-       DEADLINE: <2013-04-26 Fri>
-       :PROPERTIES:
-       :ID:       a59b83fe-a781-421d-bbda-102cff8341c2
-       :END:
-***** Lecture 05.1
-<2013-04-29 Mon 15:00-16:00>
-****** NEXT Prepare lecture
-       DEADLINE: <2013-04-29 Mon>
-       :PROPERTIES:
-       :ID:       a5d2f24b-4f91-4a7d-aec7-723cfefc2142
-       :END:
-***** Lecture 05.2
-<2013-05-01 Wed 15:00-16:00>
-****** NEXT Prepare lecture
-       DEADLINE: <2013-05-01 Wed>
-       :PROPERTIES:
-       :ID:       838fc192-8e1e-4d49-bb76-f75c2f59b520
-       :END:
-***** Lecture 05.3
-<2013-05-03 Fri 15:00-16:00>
-****** NEXT Prepare lecture
-       DEADLINE: <2013-05-03 Fri>
-       :PROPERTIES:
-       :ID:       5ebf9744-855a-49b7-a05c-32e65659fe9e
-       :END:
-***** Lecture 06.1
-<2013-05-06 Mon 15:00-16:00>
-****** NEXT Prepare lecture
-       DEADLINE: <2013-05-06 Mon>
-       :PROPERTIES:
-       :ID:       4ca89fdb-6889-4a84-b6ec-86e204b11c34
-       :END:
-***** Lecture 06.2
-<2013-05-08 Wed 15:00-16:00>
-****** NEXT Prepare lecture
-       DEADLINE: <2013-05-08 Wed>
-       :PROPERTIES:
-       :ID:       ed583869-0ee2-4174-95f6-6aba89e855c2
-       :END:
-***** Lecture 06.3
-<2013-05-10 Fri 15:00-16:00>
-****** NEXT Prepare lecture
-       DEADLINE: <2013-05-10 Fri>
-       :PROPERTIES:
-       :ID:       193b8bf6-d7e4-4b00-b2ee-93a190a5248e
-       :END:
-***** Lecture 07.1
-<2013-05-13 Mon 15:00-16:00>
-****** NEXT Prepare lecture
-       DEADLINE: <2013-05-13 Mon>
-       :PROPERTIES:
-       :ID:       6f8fc8f0-7551-4da7-aee5-47f9251f2bc1
-       :END:
-***** Lecture 07.2
-<2013-05-15 Wed 15:00-16:00>
-****** NEXT Prepare lecture
-       DEADLINE: <2013-05-15 Wed>
-       :PROPERTIES:
-       :ID:       5f80ad95-133b-433d-a7b3-4bd7951c49f4
-       :END:
-***** Lecture 07.3
-<2013-05-17 Fri 15:00-16:00>
-****** NEXT Prepare lecture
-       DEADLINE: <2013-05-17 Fri>
-       :PROPERTIES:
-       :ID:       4fc592e5-2cf5-4d24-9636-08a42652fdcb
-       :END:
-***** Lecture 08.1
-<2013-05-20 Mon 15:00-16:00>
-****** NEXT Prepare lecture
-       DEADLINE: <2013-05-20 Mon>
-       :PROPERTIES:
-       :ID:       f4400b89-f0b7-4b41-a48e-ed8f5d4adf54
-       :END:
-***** Lecture 08.2
-<2013-05-22 Wed 15:00-16:00>
-****** NEXT Prepare lecture
-       DEADLINE: <2013-05-22 Wed>
-       :PROPERTIES:
-       :ID:       19ca1ce0-bf63-4b05-9425-ab5efc34714d
-       :END:
-***** Lecture 08.3
-<2013-05-24 Fri 15:00-16:00>
-****** NEXT Prepare lecture
-       DEADLINE: <2013-05-24 Fri>
-       :PROPERTIES:
-       :ID:       eef560ce-ee41-4290-aa71-4d022bf87461
-       :END:
-***** Lecture 09.1
-<2013-05-27 Mon 15:00-16:00>
-****** NEXT Prepare lecture
-       DEADLINE: <2013-05-27 Mon>
-       :PROPERTIES:
-       :ID:       e5df2318-ca0a-4bbe-9b9b-0040e1af036a
-       :END:
-***** Lecture 09.2
-<2013-05-29 Wed 15:00-16:00>
-****** NEXT Prepare lecture
-       DEADLINE: <2013-05-29 Wed>
-       :PROPERTIES:
-       :ID:       f342e3fa-da7d-4108-9bd7-8f8cf15e2fa0
-       :END:
-***** Lecture 09.3
-<2013-05-31 Fri 15:00-16:00>
-****** NEXT Prepare lecture
-       DEADLINE: <2013-05-31 Fri>
-       :PROPERTIES:
-       :ID:       0de61db0-6150-494e-b022-9fd843f34712
-       :END:
-***** Lecture 10.1
-<2013-06-03 Mon 15:00-16:00>
-****** NEXT Prepare lecture
-       DEADLINE: <2013-06-03 Mon>
-       :PROPERTIES:
-       :ID:       4dd596b3-9553-4c7d-9f58-c0ac74f3906c
-       :END:
-***** Lecture 10.2
-<2013-06-05 Wed 15:00-16:00>
-****** NEXT Prepare lecture
-       DEADLINE: <2013-06-05 Wed>
-       :PROPERTIES:
-       :ID:       8836acd8-5f6f-4413-9c80-59335ab3a52a
-       :END:
-***** Lecture 10.3
-<2013-06-07 Fri 15:00-16:00>
-****** NEXT Prepare lecture
-       DEADLINE: <2013-06-07 Fri>
-       :PROPERTIES:
-       :ID:       965091b8-c67d-406e-b6a9-ea484f242592
-       :END:
-**** Exams							      :EXAMS:
-***** Midterm 1
-****** NEXT Write Midterm 1
-       DEADLINE: <2013-04-24 Wed>
-       :PROPERTIES:
-       :ID:       130cbac1-0924-430e-9e18-e86c3251edd0
-       :END:
-***** Midterm 2
-****** NEXT Write Midterm 2
-       DEADLINE: <2013-05-20 Mon>
-       :PROPERTIES:
-       :ID:       13ed4a3c-4d9a-4e9a-8524-56bf7bb7c089
-       :END:
-***** Final
-****** NEXT Write Final
-       DEADLINE: <2013-06-05 Wed>
-       :PROPERTIES:
-       :ID:       7365f941-36cb-4b8f-af0b-32d795e33de9
-       :END:
-**** Homework							   :HOMEWORK:
-***** Homework 1
-****** DONE Set Homework 01
-       DEADLINE: <2013-04-03 Wed>
-       - State "DONE"       from "NEXT"       [2013-04-03 Wed 17:30]
-       :LOGBOOK:
-       CLOCK: [2013-04-03 Wed 16:22]--[2013-04-03 Wed 17:29] =>  1:07
-       CLOCK: [2013-04-03 Wed 14:19]--[2013-04-03 Wed 14:40] =>  0:21
-       CLOCK: [2013-04-03 Wed 11:21]--[2013-04-03 Wed 12:05] =>  0:44
-       CLOCK: [2013-04-03 Wed 10:57]--[2013-04-03 Wed 11:01] =>  0:04
-       :END:
-       :PROPERTIES:
-       :ID:       e50730dc-0570-411c-8ef3-885cdeef1103
-       :END:
-
-***** Homework 2
-****** DONE Set Homework 02
-       DEADLINE: <2013-04-12 Fri>
-       - State "DONE"       from "NEXT"       [2013-04-16 Tue 20:52]
-       :LOGBOOK:
-       CLOCK: [2013-04-16 Tue 20:23]--[2013-04-16 Tue 20:52] =>  0:29
-       :END:
-       :PROPERTIES:
-       :ID:       6dd254a4-584d-454c-b4c5-0504ebd1fc78
-       :END:
-
-***** Homework 3
-****** NEXT Set Homework 03
-       DEADLINE: <2013-04-26 Fri>
-       :PROPERTIES:
-       :ID:       cd20affb-236e-41a1-b99c-81bc0363e0c7
-       :END:
-
-***** Homework 4
-****** NEXT Set Homework 04
-       DEADLINE: <2013-05-10 Fri>
-       :PROPERTIES:
-       :ID:       7a405722-577c-40a1-ae51-5a871a657613
-       :END:
-
-***** Homework 5
-****** NEXT Set Homework 05
-       DEADLINE: <2013-05-24 Fri>
-       :PROPERTIES:
-       :ID:       0be961ca-b6a6-46e6-8f40-999705c0e649
-       :END:
-
-***** NEXT Change homework due time to 4pm
-  :LOGBOOK:
-  :END:
-  :PROPERTIES:
-  :ID:       8a99b95b-0a55-43cd-a1e6-ab39add3f79a
-  :END:
-[2013-04-04 Thu 15:12]
-**** Website
-***** DONE Make website
-      - State "DONE"       from "NEXT"       [2013-03-20 Wed 16:17]
-      :LOGBOOK:
-      CLOCK: [2013-03-20 Wed 15:50]--[2013-03-20 Wed 16:17] =>  0:27
-      CLOCK: [2013-03-20 Wed 15:20]--[2013-03-20 Wed 15:47] =>  0:27
-      CLOCK: [2013-03-20 Wed 14:46]--[2013-03-20 Wed 15:12] =>  0:26
-      CLOCK: [2013-03-20 Wed 13:56]--[2013-03-20 Wed 14:21] =>  0:25
-      CLOCK: [2013-03-20 Wed 13:29]--[2013-03-20 Wed 13:54] =>  0:25
-      :END:
-
-***** DONE Update grade composition
-      - State "DONE"       from "NEXT"       [2013-04-01 Mon 11:49]
-      :LOGBOOK:
-      CLOCK: [2013-04-01 Mon 11:44]--[2013-04-01 Mon 11:49] =>  0:05
-      :END:
-***** DONE Create TED Site
-      - State "DONE"       from "NEXT"       [2013-04-04 Thu 13:58]
-      :PROPERTIES:
-      :ID:       d2a86ccc-cf75-421b-b747-691794c372cb
-      :END:
-- Quizzes
-- Link to course home
-- Discussion Forums
-
-***** DONE Clairify homework/quiz process
-      - State "DONE"       from "NEXT"       [2013-04-05 Fri 11:47]
-      :LOGBOOK:
-      CLOCK: [2013-04-05 Fri 11:15]--[2013-04-05 Fri 11:47] =>  0:32
-      :END:
-      :PROPERTIES:
-      :ID:       93065af9-f7ec-498e-8316-3348e8e31aa5
-      :END:
-***** DONE Add TA's to TED
-      - State "DONE"       from "HOLD"       [2013-04-12 Fri 11:14]
-      - State "HOLD"       from "NEXT"       [2013-04-04 Thu 14:12] \\
-	Emailed ACMS request to set it up.
-      :PROPERTIES:
-      :ID:       bdd19ccf-b641-498c-bc46-9970ac3c2f29
-      :END:
-***** DONE Add Grader's to TED with access to grade book
-      - State "DONE"       from "NEXT"       [2013-04-12 Fri 11:14]
-      :PROPERTIES:
-      :ID:       5838d30c-a03c-4068-8f24-f81d7fd6154b
-      :END:
-- Send email request as per instruction email in my inbox.
-***** DONE Put TA info on website
-      - State "DONE"       from "NEXT"       [2013-04-08 Mon 16:37]
-      :LOGBOOK:
-      CLOCK: [2013-04-08 Mon 16:32]--[2013-04-08 Mon 16:37] =>  0:05
-      :END:
-***** NEXT Update calendar
-      :PROPERTIES:
-      :ID:       1522fd48-57f5-4597-953f-5c634508d876
-      :END:
-***** NEXT Set up gradebook
-**** Quizzes							       :QUIZ:
-***** Quiz 01
-****** DONE Set quiz 
-       DEADLINE: <2013-03-31 Sun>
-       - State "DONE"       from "NEXT"       [2013-03-31 Sun 21:55]
-       :LOGBOOK:
-       CLOCK: [2013-03-31 Sun 20:39]--[2013-03-31 Sun 21:55] =>  1:16
-       CLOCK: [2013-03-31 Sun 16:13]--[2013-03-31 Sun 17:31] =>  1:18
-       CLOCK: [2013-03-30 Sat 21:02]--[2013-03-30 Sat 21:11] =>  0:09
-       :END:
-       :PROPERTIES:
-       :ID:       c91a889a-6e75-4bc8-b164-ac20ea8c0b6f
-       :END:
-****** Questions
-- 12.1.3
-- 12.1.6
-- 12.2.3
-- 12.2.5
-- 12.3.3
-- 12.3.6
-***** Quiz 02
-****** DONE Set quiz 
-       DEADLINE: <2013-04-05 Fri>
-       - State "DONE"       from "NEXT"       [2013-04-08 Mon 11:09]
-       :LOGBOOK:
-       CLOCK: [2013-04-08 Mon 10:52]--[2013-04-08 Mon 11:09] =>  0:17
-       CLOCK: [2013-04-08 Mon 10:05]--[2013-04-08 Mon 10:35] =>  0:30
-       CLOCK: [2013-04-08 Mon 09:27]--[2013-04-08 Mon 10:00] =>  0:33
-       CLOCK: [2013-04-07 Sun 15:54]--[2013-04-07 Sun 16:13] =>  0:19
-       :END:
-       :PROPERTIES:
-       :ID:       99ba4062-f73c-4652-8677-17abc4d19580
-       :END:
-****** Questions       
-***** Quiz 03
-****** DONE Set quiz 
-       DEADLINE: <2013-04-10 Wed>
-       - State "DONE"       from "NEXT"       [2013-04-09 Tue 15:22]
-       :LOGBOOK:
-       CLOCK: [2013-04-09 Tue 14:49]--[2013-04-09 Tue 15:22] =>  0:33
-       :END:
-       :PROPERTIES:
-       :ID:       b32166f6-6acf-415b-b484-db379e1b8f2a
-       :END:
-****** Questions
-
-***** Quiz 04
-****** DONE Set quiz 
-       DEADLINE: <2013-04-17 Wed>
-       :LOGBOOK:
-       CLOCK: [2013-04-17 Wed 20:44]--[2013-04-17 Wed 20:57] =>  0:13
-       :END:
-       - State "DONE"       from "NEXT"       [2013-04-17 Wed 20:37]
-       :PROPERTIES:
-       :ID:       80b1a1ab-93e8-471b-b40c-32fc4fcaf52d
-       :END:
-****** Questions
-
-***** Quiz 05
-****** NEXT Set quiz 
-       DEADLINE: <2013-04-24 Wed>
-       :PROPERTIES:
-       :ID:       2a808063-e084-4c35-ab2e-bf3263c5e0fe
-       :END:
-****** Questions
-
-***** Quiz 06
-****** NEXT Set quiz 
-       DEADLINE: <2013-05-01 Wed>
-       :PROPERTIES:
-       :ID:       d4b00fad-fc84-4735-a397-f59302495730
-       :END:
-****** Questions
-
-***** Quiz 07
-****** NEXT Set quiz 
-       DEADLINE: <2013-05-08 Wed>
-       :PROPERTIES:
-       :ID:       4097b249-f5cc-46af-aab4-f918e55b6b99
-       :END:
-****** Questions
-
-***** Quiz 08
-****** NEXT Set quiz 
-       DEADLINE: <2013-05-15 Wed>
-       :PROPERTIES:
-       :ID:       cfe439a6-ad6e-4e9b-87bd-58980f5abdc9
-       :END:
-****** Questions
-
-***** Quiz 09
-****** NEXT Set quiz 
-       DEADLINE: <2013-05-22 Wed>
-       :PROPERTIES:
-       :ID:       ce473fc3-e7f4-4afe-8329-3b3cf9775479
-       :END:
-****** Questions
-
-***** Quiz 10
-****** NEXT Set quiz 
-       DEADLINE: <2013-05-29 Wed>
-       :PROPERTIES:
-       :ID:       2d7fa15f-8f43-4fad-af54-c66a08479319
-       :END:
-****** Questions
-
-***** DONE Change quiz due time to Mon 11am
-  - State "DONE"       from "TODO"       [2013-04-05 Fri 16:38]
-  :LOGBOOK:
-  :END:
-  :PROPERTIES:
-  :ID:       75780c3b-a0b4-4657-a13b-ccccf5829c62
-  :END:
-[2013-04-04 Thu 15:12]
-***** NEXT Put quiz problems on Website
-  :LOGBOOK:
-  :END:
-      :PROPERTIES:
-      :ID:       85507982-8c3a-4774-ba05-d59bc2147301
-      :END:
-[2013-04-05 Fri 16:44]
-*** TODO MATH20D Spring 2013 				      :MATH20D:FOCUS:       
-    :LOGBOOK:
-    :END:
-    :PROPERTIES:
-    :ID:       01742e1a-c15f-4aab-ada0-59725c2e73e4
-    :END:
-[[file:~/working/ucsd/teaching/math20d_spring_2013]]
-**** Notes							      :NOTES:
-***** Prerequisites
-Student's have not done linear algebra yet so systems are tricky. However, on the $2x2$ case is needed.
-***** MATLAB
-MATLAB is homework.
-***** Cover Bo Li's Lectures
-CENTR 115
-<2013-05-01 Wed 11:00-11:50>
-***** Lectures Covered
-[2013-05-10 Fri 13:00-13:50] 
-[2013-05-13 Mon 13:00-13:50] Bo Li
-**** Tasks
-***** DONE Set up course
-      SCHEDULED: <2013-03-18 Mon> DEADLINE: <2013-04-01 Mon>      
-      - State "DONE"       from "TODO"       [2013-04-01 Mon 11:35]
-      :PROPERTIES:
-      :ID:       e4ea8745-1fb4-494c-bd64-2f0744d2dc30
-      :END:
-****** DONE Make org structure
-       - State "DONE"       from "NEXT"       [2013-04-01 Mon 11:34]
-       :LOGBOOK:
-       CLOCK: [2013-04-01 Mon 11:02]--[2013-04-01 Mon 11:04] =>  0:02
-       CLOCK: [2013-04-01 Mon 11:05]--[2013-04-01 Mon 11:20] =>  0:15
-       :END:
-       :PROPERTIES:
-       :ID:       5ad4ae3e-8428-4bf7-b824-4529a029af51
-       :END:
-Lectures in calendar and tasks like planning lectures.
-****** DONE Make schedule
-       - State "DONE"       from "NEXT"       [2013-03-25 Mon 21:01]
-       :LOGBOOK:
-       CLOCK: [2013-03-25 Mon 20:15]--[2013-03-25 Mon 21:01] =>  0:46
-       CLOCK: [2013-03-25 Mon 15:21]--[2013-03-25 Mon 15:38] =>  0:17
-       :END:
-       :PROPERTIES:
-       :ID:       6e61cacf-e959-46f6-9594-a1d237f03753
-       :END:
-***** DONE Find some one to cover for 09/05 and 11/05
-      - State "DONE"       from "WAITING"    [2013-03-30 Sat 20:42]
-      - State "WAITING"    from "NEXT"       [2013-03-20 Wed 10:46] \\
-	Waiting on Bo Li to respond.
-      :PROPERTIES:
-      :ID:       c0e6c741-3695-4f33-b08d-2084e46807fd
-      :END:
-
-***** DONE Organise TA's
-      - State "DONE"       from "NEXT"       [2013-04-01 Mon 16:45]
-      :LOGBOOK:
-      CLOCK: [2013-04-01 Mon 16:35]--[2013-04-01 Mon 16:45] =>  0:10
-      :END:
-***** DONE Send bulk mail to students
-  SCHEDULED: <2013-04-01 Mon>
-  - State "DONE"       from "TODO"       [2013-04-01 Mon 21:28]
-  :LOGBOOK:
-  :END:
-      :PROPERTIES:
-      :ID:       57b28dba-0a74-4d0a-b486-9cd6b8db413f
-      :END:
-[2013-04-01 Mon 16:23]
-- Discussions
-- Homework
-- Quiz
-***** DONE Meet TA's
-      :LOGBOOK:
-      CLOCK: [2013-04-04 Thu 13:10]--[2013-04-04 Thu 13:35] =>  0:25
-      :END:
-      - State "DONE"       from "TODO"       [2013-04-04 Thu 13:47]
-      :PROPERTIES:
-      :ID:       e361de6d-f497-434c-8740-ba92b3530218
-      :END:
-<2013-04-04 Thu 13:30>
-***** NEXT Set up stats on TED for assessment
-  :LOGBOOK:
-  :END:
-  :PROPERTIES:
-  :ID:       759de22f-a2b3-434b-9ac7-5df37006f70d
-  :END:
-[2013-04-04 Thu 15:12]
-***** DONE Print out schedule etc. for course folders
-      - State "DONE"       from "NEXT"       [2013-04-09 Tue 13:34]
-  :LOGBOOK:
-  CLOCK: [2013-04-07 Sun 14:33]--[2013-04-07 Sun 14:34] =>  0:01
-  :END:
-  :PROPERTIES:
-  :ID:       8f536ff6-7697-4d83-ad49-a8a997454022
-  :END:
-      [2013-04-07 Sun 14:33]
-***** NEXT Send travel plans to admin
-      DEADLINE: <2013-05-08 Wed>
-      :PROPERTIES:
-      :ID:       5ca2e63f-ebf8-4c2e-8d96-10ae659df04e
-      :END:
-pebenfel@math.ucsd.edu
-drichards@math.ucsd.edu
-Send exact dates of travel, destination/purpose of trip, and arrangements made for meeting classes
-**** Clocking							   :CLOCKING:
-***** Admin
-***** Office hours
-      :LOGBOOK:
-      CLOCK: [2013-04-12 Fri 09:59]--[2013-04-12 Fri 10:17] =>  0:18
-      CLOCK: [2013-04-10 Wed 11:09]--[2013-04-10 Wed 11:57] =>  0:48
-      CLOCK: [2013-04-08 Mon 11:18]--[2013-04-08 Mon 11:54] =>  0:36
-      :END:
-**** Lectures							   :LECTURES:
-***** Location
-Center 119
-***** Lecture 01.1
-      :LOGBOOK:
-      CLOCK: [2013-04-01 Mon 12:50]--[2013-04-01 Mon 14:05] =>  1:15
-      :END:
-      :PROPERTIES:
-      :ID:       2261bdcb-0f48-4461-9bc9-81ab2c9dbf5b
-      :END:
-<2013-04-01 Mon 13:00-14:00>
-****** DONE Prepare lecture 
-       - State "DONE"       from "NEXT"       [2013-03-26 Tue 20:26]
-      :LOGBOOK:
-      CLOCK: [2013-03-26 Tue 10:45]--[2013-03-26 Tue 12:30] =>  1:45
-      :END:
-
-***** Lecture 01.2
-      :LOGBOOK:
-      CLOCK: [2013-04-03 Wed 12:55]--[2013-04-03 Wed 14:12] =>  1:17
-      :END:
-      :PROPERTIES:
-      :ID:       f45dde05-015c-451f-88ce-20cca5550f7f
-      :END:
-<2013-04-03 Wed 13:00-14:00>
-****** DONE Prepare lecture
-       - State "DONE"       from "NEXT"       [2013-04-01 Mon 11:19]
-       :PROPERTIES:
-       :ID:       e754bbd6-cb08-4608-bb74-9726ef93bee9
-       :END:
-***** Lecture 01.3
-      :LOGBOOK:
-      CLOCK: [2013-04-05 Fri 12:50]--[2013-04-05 Fri 14:10] =>  1:20
-      :END:
-      :PROPERTIES:
-      :ID:       3e1cc666-11c5-4a0a-b9f3-d9758bf7e70b
-      :END:
-<2013-04-05 Fri 13:00-14:00>
-****** DONE Prepare lecture
-       - State "DONE"       from "NEXT"       [2013-04-01 Mon 11:19]
-       :PROPERTIES:
-       :ID:       226fd287-4eaf-4c14-a079-d9a56a057f00
-       :END:
-       :LOGBOOK:
-       CLOCK: [2013-04-05 Fri 14:10]--[2013-04-05 Fri 14:50] =>  0:40
-       :END:
-***** Lecture 02.1
-      :LOGBOOK:
-      CLOCK: [2013-04-08 Mon 12:50]--[2013-04-08 Mon 14:05] =>  1:15
-      :END:
-      :PROPERTIES:
-      :ID:       ebef3e18-c0c7-4e4a-a9f2-198979aca6c3
-      :END:
-
-<2013-04-08 Mon 13:00-14:00>
-****** DONE Prepare lecture
-       DEADLINE: <2013-04-08 Mon>
-       - State "DONE"       from "NEXT"       [2013-04-07 Sun 14:28]
-       :LOGBOOK:
-       CLOCK: [2013-04-07 Sun 13:32]--[2013-04-07 Sun 14:13] =>  0:41
-       CLOCK: [2013-04-07 Sun 12:50]--[2013-04-07 Sun 13:19] =>  0:29
-       :END:
-       :PROPERTIES:
-       :ID:       6271dcfb-ac58-47f5-bb8a-d383fc2f8683
-       :END:
-***** Lecture 02.2
-      :LOGBOOK:
-      CLOCK: [2013-04-10 Wed 12:50]--[2013-04-10 Wed 14:10] =>  1:20
-      :END:
-      :PROPERTIES:
-      :ID:       98c68dcf-a9d8-496e-a8e1-16becf226fde
-      :END:
-<2013-04-10 Wed 13:00-14:00>
-****** DONE Prepare lecture
-       DEADLINE: <2013-04-10 Wed>
-       - State "DONE"       from "NEXT"       [2013-04-09 Tue 13:36]
-       :LOGBOOK:
-       CLOCK: [2013-04-09 Tue 12:33]--[2013-04-09 Tue 13:36] =>  1:03
-       :END:
-       :PROPERTIES:
-       :ID:       ab1bf1f0-fd0b-4cec-abdf-255104977fe1
-       :END:
-***** Lecture 02.3
-      :PROPERTIES:
-      :ID:       e5a24160-c2df-4e07-8d90-afa9e734a76f
-      :END:
-<2013-04-12 Fri 13:00-14:00>
-****** DONE Prepare lecture
-       DEADLINE: <2013-04-12 Fri>
-       - State "DONE"       from "NEXT"       [2013-04-11 Thu 16:24]
-       :LOGBOOK:
-       CLOCK: [2013-04-11 Thu 15:55]--[2013-04-11 Thu 16:24] =>  0:29
-       CLOCK: [2013-04-11 Thu 13:35]--[2013-04-11 Thu 15:01] =>  1:26
-       :END:
-       :PROPERTIES:
-       :ID:       53e1522f-00a7-4045-bd19-90c64b427660
-       :END:
-***** Lecture 03.1
-<2013-04-15 Mon 13:00-14:00>
-****** DONE Prepare lecture
-       DEADLINE: <2013-04-15 Mon>
-       - State "DONE"       from "NEXT"       [2013-04-17 Wed 11:58]
-       :LOGBOOK:
-       CLOCK: [2013-04-12 Fri 12:12]--[2013-04-12 Fri 12:39] =>  0:27
-       :END:
-       :PROPERTIES:
-       :ID:       e60d6479-c93c-40af-b54b-3f4c23dd90db
-       :END:
-***** Lecture 03.2
-<2013-04-17 Wed 13:00-14:00>
-****** DONE Prepare lecture
-       DEADLINE: <2013-04-17 Wed>
-       - State "DONE"       from "NEXT"       [2013-04-18 Thu 11:07]
-       :PROPERTIES:
-       :ID:       63656879-f20a-4ec9-822a-034809a28dae
-       :END:
-***** Lecture 03.3
-<2013-04-19 Fri 13:00-14:00>
-****** NEXT Prepare lecture
-       DEADLINE: <2013-04-19 Fri>
-       :LOGBOOK:
-       CLOCK: [2013-04-17 Wed 20:57]--[2013-04-17 Wed 21:09] =>  0:12
-       :END:
-       :PROPERTIES:
-       :ID:       ca7d462e-035f-4f2b-9966-204092282220
-       :END:
-***** Lecture 04.1
-<2013-04-22 Mon 13:00-14:00>
-****** NEXT Prepare lecture
-       DEADLINE: <2013-04-22 Mon>
-       :PROPERTIES:
-       :ID:       3de35963-e3c3-4ccc-869c-7f9a40638d16
-       :END:
-***** Lecture 04.2
-<2013-04-24 Wed 13:00-14:00>
-****** NEXT Prepare lecture
-       DEADLINE: <2013-04-24 Wed>
-       :PROPERTIES:
-       :ID:       1515b7ec-445d-4ef6-bb63-86782a51fda0
-       :END:
-***** Lecture 04.3
-<2013-04-26 Fri 13:00-14:00>
-****** NEXT Prepare lecture
-       DEADLINE: <2013-04-26 Fri>
-       :PROPERTIES:
-       :ID:       a0f11393-96fb-4122-9c0e-951fca6d2ee7
-       :END:
-***** Lecture 05.1
-<2013-04-29 Mon 13:00-14:00>
-****** NEXT Prepare lecture
-       DEADLINE: <2013-04-29 Mon>
-       :PROPERTIES:
-       :ID:       db813566-02a4-4268-8a62-06a6d1aa2e47
-       :END:
-***** Lecture 05.2
-<2013-05-01 Wed 13:00-14:00>
-****** NEXT Prepare lecture
-       DEADLINE: <2013-05-01 Wed>
-       :PROPERTIES:
-       :ID:       bccc60bb-a402-4a55-be3e-a5acf31f427b
-       :END:
-***** Lecture 05.3
-<2013-05-03 Fri 13:00-14:00>
-****** NEXT Prepare lecture
-       DEADLINE: <2013-05-03 Fri>
-       :PROPERTIES:
-       :ID:       1a7d2d41-04d9-449e-8c72-a5b778d4723a
-       :END:
-***** Lecture 06.1
-<2013-05-06 Mon 13:00-14:00>
-****** NEXT Prepare lecture
-       DEADLINE: <2013-05-06 Mon>
-       :PROPERTIES:
-       :ID:       38902878-8b22-4086-8847-c8df8dc3d326
-       :END:
-***** Lecture 06.2
-<2013-05-08 Wed 13:00-14:00>
-****** NEXT Prepare lecture
-       DEADLINE: <2013-05-08 Wed>
-       :PROPERTIES:
-       :ID:       7e560fcc-f279-4226-900c-8bc800183bc7
-       :END:
-***** Lecture 06.3
-<2013-05-10 Fri 13:00-14:00>
-****** NEXT Prepare lecture
-       DEADLINE: <2013-05-10 Fri>
-       :PROPERTIES:
-       :ID:       588c3b63-d64d-44a0-bd9f-32ccd8156206
-       :END:
-***** Lecture 07.1
-<2013-05-13 Mon 13:00-14:00>
-****** NEXT Prepare lecture
-       DEADLINE: <2013-05-13 Mon>
-       :PROPERTIES:
-       :ID:       4f49ad37-5f4e-4d4c-bf73-509cfdfc82d1
-       :END:
-***** Lecture 07.2
-<2013-05-15 Wed 13:00-14:00>
-****** NEXT Prepare lecture
-       DEADLINE: <2013-05-15 Wed>
-       :PROPERTIES:
-       :ID:       28cdc15c-2a99-4cdc-8db9-fd7cb333164b
-       :END:
-***** Lecture 07.3
-<2013-05-17 Fri 13:00-14:00>
-****** NEXT Prepare lecture
-       DEADLINE: <2013-05-17 Fri>
-       :PROPERTIES:
-       :ID:       eb7bc9d4-b6b6-44a7-93d6-3a40c79a636f
-       :END:
-***** Lecture 08.1
-<2013-05-20 Mon 13:00-14:00>
-****** NEXT Prepare lecture
-       DEADLINE: <2013-05-20 Mon>
-       :PROPERTIES:
-       :ID:       7f52fe34-f1c1-44c1-bdf7-25cd8c7b6416
-       :END:
-***** Lecture 08.2
-<2013-05-22 Wed 13:00-14:00>
-****** NEXT Prepare lecture
-       DEADLINE: <2013-05-22 Wed>
-       :PROPERTIES:
-       :ID:       11fea151-eaf7-49bf-a6f3-9ee5f24a7da9
-       :END:
-***** Lecture 08.3
-<2013-05-24 Fri 13:00-14:00>
-****** NEXT Prepare lecture
-       DEADLINE: <2013-05-24 Fri>
-       :PROPERTIES:
-       :ID:       bf6e0264-66a8-4193-bc46-8ea534d0a388
-       :END:
-***** Lecture 09.1
-<2013-05-27 Mon 13:00-14:00>
-****** NEXT Prepare lecture
-       DEADLINE: <2013-05-27 Mon>
-       :PROPERTIES:
-       :ID:       bdf6dd6b-b2b9-44b7-b0ea-21bf6da8810c
-       :END:
-***** Lecture 09.2
-<2013-05-29 Wed 13:00-14:00>
-****** NEXT Prepare lecture
-       DEADLINE: <2013-05-29 Wed>
-       :PROPERTIES:
-       :ID:       42f0a163-47d2-4fcd-a774-a347af125652
-       :END:
-***** Lecture 09.3
-<2013-05-31 Fri 13:00-14:00>
-****** NEXT Prepare lecture
-       DEADLINE: <2013-05-31 Fri>
-       :PROPERTIES:
-       :ID:       f08b1bf0-a228-46a7-a4a2-5bc29312da70
-       :END:
-***** Lecture 10.1
-<2013-06-03 Mon 13:00-14:00>
-****** NEXT Prepare lecture
-       DEADLINE: <2013-06-03 Mon>
-       :PROPERTIES:
-       :ID:       3760b816-c5ad-41b2-8322-f2146383f656
-       :END:
-***** Lecture 10.2
-<2013-06-05 Wed 13:00-14:00>
-****** NEXT Prepare lecture
-       DEADLINE: <2013-06-05 Wed>
-       :PROPERTIES:
-       :ID:       766da1ae-f2df-4d76-a844-40a6310e79c6
-       :END:
-***** Lecture 10.3
-<2013-06-07 Fri 13:00-14:00>
-****** NEXT Prepare lecture
-       DEADLINE: <2013-06-07 Fri>
-       :PROPERTIES:
-       :ID:       7910c8fb-5ac7-47cc-a653-99046f467819
-       :END:
-
-**** Exams							      :EXAMS:
-***** Midterm 1
-****** NEXT Write Midterm 1
-       DEADLINE: <2013-04-24 Wed>
-       :PROPERTIES:
-       :ID:       556d42e6-8573-4c7d-aa80-a24c2748fcb0
-       :END:
-***** Midterm 2
-****** NEXT Write Midterm 2
-       DEADLINE: <2013-05-17 Fri>
-       :PROPERTIES:
-       :ID:       2f9b9e2c-61c2-412d-ad1f-e59cc3583371
-       :END:
-***** Final
-****** NEXT Write Final
-       DEADLINE: <2013-06-05 Wed>
-       :PROPERTIES:
-       :ID:       57a79f76-de1a-4020-a99a-ed40e3c5d1db
-       :END:
-**** Homework							   :HOMEWORK:
-***** Homework 1
-****** DONE Set Homework 01
-       DEADLINE: <2013-04-03 Wed>
-       - State "DONE"       from "NEXT"       [2013-04-04 Thu 21:43]
-       :LOGBOOK:
-       CLOCK: [2013-04-04 Thu 18:42]--[2013-04-04 Thu 19:35] =>  0:53
-       :END:
-       :PROPERTIES:
-       :ID:       62fa4fb5-0e7b-4082-b8d6-27f9b15c4c33
-       :END:
-
-***** Homework 2
-****** DONE Set Homework 02
-       DEADLINE: <2013-04-12 Fri>
-       - State "DONE"       from "NEXT"       [2013-04-12 Fri 11:11]
-       :LOGBOOK:
-       CLOCK: [2013-04-12 Fri 10:46]--[2013-04-12 Fri 11:11] =>  0:25
-       :END:
-       :PROPERTIES:
-       :ID:       a605b39d-4e19-4649-81ca-19e6d2dca4c9
-       :END:
-
-***** Homework 3
-****** NEXT Set Homework 03
-       DEADLINE: <2013-04-26 Fri>
-       :PROPERTIES:
-       :ID:       c2e0c6bd-7867-4b08-98a6-3525312b7e7f
-       :END:
-
-***** Homework 4
-****** NEXT Set Homework 04
-       DEADLINE: <2013-05-10 Fri>
-       :PROPERTIES:
-       :ID:       c4736943-b755-4fdd-b0d6-522c2eab877d
-       :END:
-
-***** Homework 5
-****** NEXT Set Homework 05
-       DEADLINE: <2013-05-24 Fri>
-       :PROPERTIES:
-       :ID:       11083b9b-09dc-46c6-82d5-2e084e51f163
-       :END:
-
-***** NEXT Change homework due time to 4pm
-  :LOGBOOK:
-  :END:
-  :PROPERTIES:
-  :ID:       8a99b95b-0a55-43cd-a1e6-ab39add3f79a
-  :END:
-[2013-04-04 Thu 15:12]
-**** Website
-***** DONE Make Website
-      - State "DONE"       from "NEXT"           [2013-03-29 Fri 14:19]
-       :LOGBOOK:
-       CLOCK: [2013-03-25 Mon 15:38]--[2013-03-25 Mon 16:02] =>  0:24
-       :END:
-       :PROPERTIES:
-       :ID:       56c62e50-94a7-4c6b-8cb9-d0bb22ac3325
-       :END: 
-
-***** DONE Update grade composition
-      - State "DONE"       from "NEXT"       [2013-04-01 Mon 11:44]
-      :LOGBOOK:
-      CLOCK: [2013-04-01 Mon 11:40]--[2013-04-01 Mon 11:44] =>  0:04
-      :END:
-***** DONE Create TED Site
-      - State "DONE"       from "NEXT"       [2013-04-04 Thu 13:58]
-      :PROPERTIES:
-      :ID:       5e11f204-3dfa-44c1-b070-4dd3ade87b57
-      :END:
-- Quizzes
-- Link to course home
-- Discussion Forums
-
-***** DONE Clairify homework/quiz process
-      - State "DONE"       from "NEXT"       [2013-04-05 Fri 12:10]
-      :LOGBOOK:
-      CLOCK: [2013-04-05 Fri 11:48]--[2013-04-05 Fri 12:10] =>  0:22
-      :END:
-      :PROPERTIES:
-      :ID:       d86999b0-c85b-4aca-baca-90bdf0c15cf5
-      :END:
-
-***** DONE Put TA info on website
-      - State "DONE"       from "NEXT"       [2013-04-08 Mon 16:32]
-      :LOGBOOK:
-      CLOCK: [2013-04-08 Mon 16:20]--[2013-04-08 Mon 16:32] =>  0:12
-      :END:
-***** DONE Grant graders access to TED grade book
-      - State "DONE"       from "NEXT"       [2013-04-12 Fri 11:14]
-      - State "NEXT"       from "HOLD"       [2013-04-05 Fri 11:48]
-      - State "HOLD"       from "NEXT"       [2013-04-04 Thu 14:12] \\
-	Emailed ACMS request to set it up.
-      :PROPERTIES:
-      :ID:       fbdd1a20-2bf7-4ad0-91e5-1c52ac79c7b8
-      :END:
-- Send email request as per instruction email in my inbox.
-***** NEXT Update calendar
-      :LOGBOOK:
-      CLOCK: [2013-04-12 Fri 11:16]--[2013-04-12 Fri 11:17] =>  0:01
-      :END:
-      :PROPERTIES:
-      :ID:       3ac1d520-8449-4724-8f4e-9086c73ed5fe
-      :END:
-***** NEXT Set up gradebook
-**** Quizzes							       :QUIZ:
-***** Quiz 01
-****** DONE Set quiz 
-       DEADLINE: <2013-04-01 Mon>
-       - State "DONE"       from "DONE"       [2013-04-04 Thu 22:10]
-       - State "DONE"       from "NEXT"       [2013-04-04 Thu 21:43]
-       :PROPERTIES:
-       :ID:       e0a6cf2b-492b-4ecb-92a9-a36c04b4d0be
-       :END:
-****** Questions
-***** Quiz 02
-****** DONE Set quiz 
-       DEADLINE: <2013-04-05 Fri>
-       - State "DONE"       from "NEXT"       [2013-04-04 Thu 22:12]
-       :LOGBOOK:
-       CLOCK: [2013-04-04 Thu 21:57]--[2013-04-04 Thu 22:11] =>  0:14
-       CLOCK: [2013-04-04 Thu 20:35]--[2013-04-04 Thu 21:55] =>  1:20
-       :END:
-       :PROPERTIES:
-       :ID:       1c9452f4-13fb-428b-8780-9a92cc905004
-       :END:
-****** Questions
-
-***** Quiz 03
-****** DONE Set quiz 
-       DEADLINE: <2013-04-10 Wed>
-       - State "DONE"       from "NEXT"       [2013-04-10 Wed 11:40]
-       :LOGBOOK:
-       CLOCK: [2013-04-10 Wed 10:07]--[2013-04-10 Wed 11:09] =>  1:02
-       :END:
-       :PROPERTIES:
-       :ID:       09ea871a-f3e7-4b41-8923-ced3d5dd02e2
-       :END:
-****** Questions
-
-***** Quiz 04
-****** DONE Set quiz 
-       DEADLINE: <2013-04-17 Wed>
-       - State "DONE"       from "NEXT"       [2013-04-17 Wed 20:37]
-       :PROPERTIES:
-       :ID:       37d9d549-2b33-4ff7-9b09-312ace69d011
-       :END:
-****** Questions
-
-***** Quiz 05
-****** NEXT Set quiz 
-       DEADLINE: <2013-04-24 Wed>
-       :PROPERTIES:
-       :ID:       e4887be3-aa2b-493b-a02e-e83ca77951c3
-       :END:
-****** Questions
-
-***** Quiz 06
-****** NEXT Set quiz 
-       DEADLINE: <2013-05-01 Wed>
-       :PROPERTIES:
-       :ID:       6652046a-37df-49ea-9859-c3cb1c8d76ed
-       :END:
-****** Questions
-
-***** Quiz 07
-****** NEXT Set quiz 
-       DEADLINE: <2013-05-08 Wed>
-       :PROPERTIES:
-       :ID:       c0fc7838-ed8c-4a28-a9fd-b841d25b8bfc
-       :END:
-****** Questions
-
-***** Quiz 08
-****** NEXT Set quiz 
-       DEADLINE: <2013-05-15 Wed>
-       :PROPERTIES:
-       :ID:       1273c21b-476b-4e8c-8274-63d5536e1521
-       :END:
-****** Questions
-
-***** Quiz 09
-****** NEXT Set quiz 
-       DEADLINE: <2013-05-22 Wed>
-       :PROPERTIES:
-       :ID:       e0245b6f-6ca1-443a-893d-8e8914a2c59f
-       :END:
-****** Questions
-
-***** Quiz 10
-****** NEXT Set quiz 
-       DEADLINE: <2013-05-29 Wed>
-       :PROPERTIES:
-       :ID:       851033c1-a87b-499a-9a9b-afbfcbd2ddcd
-       :END:
-****** Questions
-
-***** NEXT Put quiz problems on Website
-  :LOGBOOK:
-  :END:
-      :PROPERTIES:
-      :ID:       f4f14009-c8c5-4a07-8999-c5e83e2da9ff
-      :END:
-[2013-04-05 Fri 16:44]
-*** TODO MATH142B Winter 2012 					   :MATH142B:
-    - State "TODO"       from "DONE"       [2013-03-27 Wed 09:53] \\
-      Need to update a student's grade.
-    - State "DONE"       from "TODO"       [2013-03-26 Tue 20:29]
-    - State "TODO"       from "DONE"       [2013-03-26 Tue 15:58] \\
-      Not quite done yet! Two exams need to be graded.
-    - State "DONE"       from "TODO"       [2013-03-25 Mon 13:55]
-    :LOGBOOK:
-    CLOCK: [2013-02-22 Fri 07:36]--[2013-02-22 Fri 07:37] =>  0:01
-    :END:
-   :PROPERTIES:
-   :ID:       1143f380-6198-4a55-b640-8d8e9c7cfb72
-   :END:
-    [[file:~/working/ucsd/teaching/math142B_winter_2013]]
-**** Clocking
-***** MATH142B Admin
-      :LOGBOOK:
-      CLOCK: [2013-03-11 Mon 09:03]--[2013-03-11 Mon 09:05] =>  0:02
-      CLOCK: [2013-02-28 Thu 08:40]--[2013-02-28 Thu 09:00] =>  0:20
-      CLOCK: [2013-02-28 Thu 07:40]--[2013-02-28 Thu 08:15] =>  0:35
-      CLOCK: [2013-02-21 Thu 11:20]--[2013-02-21 Thu 11:43] =>  0:23
-      :END:
-***** MATH142B Lecturing
+*** Fall 2012
+**** DONE MATH150A Fall 2012					   :MATH150A:
+     - State "DONE"       from "TODO"       [2012-12-14 Fri 11:54]
      :LOGBOOK:
-     CLOCK: [2013-03-15 Fri 10:54]--[2013-03-15 Fri 12:05] =>  1:11
-     CLOCK: [2013-03-13 Wed 10:54]--[2013-03-13 Wed 12:05] =>  1:11
-     CLOCK: [2013-03-11 Mon 10:56]--[2013-03-11 Mon 12:00] =>  1:04
-     CLOCK: [2013-03-06 Wed 10:55]--[2013-03-06 Wed 12:01] =>  1:06
-     CLOCK: [2013-03-04 Mon 10:55]--[2013-03-04 Mon 12:01] =>  1:06
-     CLOCK: [2013-03-01 Fri 10:55]--[2013-03-01 Fri 12:25] =>  1:30
-     CLOCK: [2013-02-27 Wed 10:44]--[2013-02-27 Wed 12:01] =>  1:17
-     CLOCK: [2013-02-22 Fri 10:55]--[2013-02-22 Fri 12:04] =>  1:09
-     CLOCK: [2013-02-20 Wed 10:50]--[2013-02-20 Wed 12:04] =>  1:14
-     CLOCK: [2013-02-15 Fri 10:55]--[2013-02-15 Fri 12:06] =>  1:11
-     CLOCK: [2013-02-13 Wed 10:55]--[2013-02-13 Wed 12:00] =>  1:05
-     CLOCK: [2013-02-11 Mon 10:56]--[2013-02-11 Mon 12:00] =>  1:04
-     CLOCK: [2013-02-11 Mon 10:15]--[2013-02-11 Mon 10:34] =>  0:19
-     CLOCK: [2013-02-08 Fri 10:52]--[2013-02-08 Fri 12:24] =>  1:32
-     CLOCK: [2013-02-06 Wed 10:54]--[2013-02-06 Wed 12:10] =>  1:16
-     CLOCK: [2013-02-04 Mon 10:53]--[2013-02-04 Mon 12:03] =>  1:10
-     CLOCK: [2013-01-30 Wed 10:55]--[2013-01-30 Wed 12:07] =>  1:12
-     CLOCK: [2013-01-28 Mon 10:51]--[2013-01-28 Mon 12:07] =>  1:16
-     CLOCK: [2013-01-25 Fri 10:55]--[2013-01-25 Fri 12:10] =>  1:15
-     CLOCK: [2013-01-23 Wed 10:55]--[2013-01-23 Wed 12:10] =>  1:15
-     CLOCK: [2013-01-18 Fri 10:55]--[2013-01-18 Fri 12:10] =>  1:15
-     CLOCK: [2013-01-16 Wed 10:55]--[2013-01-16 Wed 12:20] =>  1:25
-     CLOCK: [2013-01-14 Mon 10:50]--[2013-01-14 Mon 12:05] =>  1:15
-     CLOCK: [2013-01-11 Fri 11:00]--[2013-01-11 Fri 12:05] =>  1:05
-     CLOCK: [2013-01-09 Wed 10:53]--[2013-01-09 Wed 11:56] =>  1:03
-     CLOCK: [2013-01-07 Mon 11:00]--[2013-01-07 Mon 12:00] =>  1:00
+     CLOCK: [2012-11-19 Mon 11:00]--[2012-11-19 Mon 12:00] =>  1:00
+     CLOCK: [2012-11-16 Fri 10:19]--[2012-11-16 Fri 10:30] =>  0:11
      :END:
      :PROPERTIES:
-     :ID:       2c1e0b59-5aae-4c8b-af38-da65f92e46e5
+     :CATEGORY: MATH150A FALL2012
+     :ID:       7b8cd00b-6f86-4280-a4c6-8cbdd0dcfc87
      :END:
-
-***** Office hours
-     :LOGBOOK:
-     CLOCK: [2013-03-15 Fri 12:58]--[2013-03-15 Fri 14:10] =>  1:12
-     CLOCK: [2013-03-15 Fri 10:03]--[2013-03-15 Fri 10:30] =>  0:27
-     CLOCK: [2013-03-13 Wed 10:03]--[2013-03-13 Wed 10:54] =>  0:51
-     CLOCK: [2013-03-11 Mon 09:59]--[2013-03-11 Mon 10:56] =>  0:57
-     CLOCK: [2013-03-01 Fri 13:05]--[2013-03-01 Fri 13:55] =>  0:50
-     CLOCK: [2013-03-01 Fri 10:04]--[2013-03-01 Fri 10:54] =>  0:50
-     CLOCK: [2013-02-22 Fri 12:53]--[2013-02-22 Fri 14:19] =>  1:26
-     CLOCK: [2013-02-22 Fri 10:10]--[2013-02-22 Fri 10:55] =>  0:45
-     CLOCK: [2013-02-13 Wed 10:10]--[2013-02-13 Wed 10:35] =>  0:25
-     CLOCK: [2013-01-31 Thu 13:40]--[2013-01-31 Thu 14:35] =>  0:55
-     CLOCK: [2013-01-31 Thu 11:20]--[2013-01-31 Thu 12:35] =>  1:15
-     CLOCK: [2013-01-25 Fri 10:25]--[2013-01-25 Fri 10:55] =>  0:30
-     CLOCK: [2013-01-24 Thu 10:53]--[2013-01-24 Thu 11:01] =>  0:08
-     CLOCK: [2013-01-17 Thu 11:05]--[2013-01-17 Thu 12:15] =>  1:10
-     :END:
-**** DONE Plan MATH142B course
-     - State "DONE"       from "TODO"       [2013-03-19 Tue 13:56]
-     :LOGBOOK:
-     CLOCK: [2013-01-02 Wed 10:38]--[2013-01-02 Wed 10:39] =>  0:01
-     :END:
-     :PROPERTIES:
-     :ID:       15fccd9a-a1ed-41b6-a3bb-fdb03475e91d
-     :END:
-***** DONE Get text book from Holly et. al.
-      - State "DONE"       from "NEXT"       [2012-12-11 Tue 10:16]
-      :LOGBOOK:
-      CLOCK: [2012-12-11 Tue 10:12]--[2012-12-11 Tue 10:16] =>  0:04
-      :END:
-      :PROPERTIES:
-      :ID:       02669ad2-413d-4cc6-8e4e-2024b6a3878b
-      :END:
-***** DONE Make course outline
-      SCHEDULED: <2013-01-02 Wed>
-      - State "DONE"       from "NEXT"       [2013-01-02 Wed 10:30]
-      DEADLINE: <2013-01-04 Fri>
-      :LOGBOOK:
-      CLOCK: [2013-01-02 Wed 10:10]--[2013-01-02 Wed 10:30] =>  0:20
-      CLOCK: [2013-01-02 Wed 09:35]--[2013-01-02 Wed 09:53] =>  0:18
-      CLOCK: [2012-12-11 Tue 16:15]--[2012-12-11 Tue 16:47] =>  0:32
-      CLOCK: [2012-12-11 Tue 12:08]--[2012-12-11 Tue 13:06] =>  0:57
-      CLOCK: [2012-12-11 Tue 10:16]--[2012-12-11 Tue 11:16] =>  1:00
-      CLOCK: [2012-12-10 Mon 11:08]--[2012-12-10 Mon 11:24] =>  0:16
-      CLOCK: [2012-12-10 Mon 10:20]--[2012-12-10 Mon 10:42] =>  0:22
-      CLOCK: [2012-12-10 Mon 09:35]--[2012-12-10 Mon 10:00] =>  0:25
-      :END:
-      :PROPERTIES:
-      :ID:       e2b60bcc-754d-45d4-8f67-d7d4f99353e8
-      :END:
-
-***** DONE Exams
-      - State "DONE"       from "TODO"       [2013-03-19 Tue 13:56]
-      :LOGBOOK:
-      CLOCK: [2013-02-22 Fri 07:59]--[2013-02-22 Fri 08:00] =>  0:01
-      :END:
-      :PROPERTIES:
-      :ID:       217efa3a-983c-4603-a2dc-330557b7176f
-      :END:
-****** DONE Write practice midterm exam 1 
-       SCHEDULED: <2013-01-24 Thu>     
-       - State "DONE"       from "NEXT"       [2013-01-28 Mon 07:22]
-       DEADLINE: <2013-01-25 Fri>
-       :LOGBOOK:
-       CLOCK: [2013-01-25 Fri 10:20]--[2013-01-25 Fri 10:25] =>  0:05
-       :END:
-       :PROPERTIES:
-       :ID:       453f2751-42f6-4db5-8a36-994b180f1000
-       :END:
-****** DONE Write Midterm 1
-       SCHEDULED: <2013-01-14 Mon>     
-       - State "DONE"       from "WAITING"    [2013-01-31 Thu 08:55]
-       - State "WAITING"    from "NEXT"       [2013-01-29 Tue 12:57] \\
-	 Waiting for comments from Bob.
-       - State "NEXT"       from "WAITING"    [2013-01-28 Mon 17:19] \\
-	 Spoke with Bob Chen.
-       - State "WAITING"    from "NEXT"       [2013-01-28 Mon 07:22] \\
-	 Talking to Bob Chen about questions.
-       DEADLINE: <2013-01-25 Fri>
-       :LOGBOOK:
-       CLOCK: [2013-01-31 Thu 08:50]--[2013-01-31 Thu 08:55] =>  0:05
-       CLOCK: [2013-01-29 Tue 12:46]--[2013-01-29 Tue 12:56] =>  0:10
-       CLOCK: [2013-01-28 Mon 12:55]--[2013-01-28 Mon 13:20] =>  0:25
-       CLOCK: [2013-01-28 Mon 10:24]--[2013-01-28 Mon 10:51] =>  0:27
-       CLOCK: [2013-01-24 Thu 11:32]--[2013-01-24 Thu 12:03] =>  0:31
-       :END:
-       :PROPERTIES:
-       :ID:       f28c589f-6e45-461f-a6b8-fcad6841614b
-       :END:
-
-****** DONE Write Midterm 2
-       SCHEDULED: <2013-02-11 Mon>
-       - State "DONE"       from "NEXT"       [2013-02-22 Fri 07:59]
-       - State "NEXT"       from "WAITING"    [2013-02-22 Fri 07:36]
-	 Bob gave the OK.
-       - State "WAITING"    from "NEXT"       [2013-02-19 Tue 12:24] \\
-	 Waiting for Bob's feedback.
-       :LOGBOOK:
-       CLOCK: [2013-02-22 Fri 07:37]--[2013-02-22 Fri 07:45] =>  0:08
-       CLOCK: [2013-02-18 Mon 12:35]--[2013-02-18 Mon 12:50] =>  0:15
-       CLOCK: [2013-02-18 Mon 11:40]--[2013-02-18 Mon 12:08] =>  0:28
-       CLOCK: [2013-02-18 Mon 10:35]--[2013-02-18 Mon 11:17] =>  0:42
-       CLOCK: [2013-02-15 Fri 13:19]--[2013-02-15 Fri 13:24] =>  0:05
-       :END:
-
-       DEADLINE: <2013-02-22 Fri>
-       :PROPERTIES:
-       :ID:       54ef75cb-49e4-4341-8867-09abb397ca9b
-       :END:
-****** CANCELLED Write Practice Final
-       SCHEDULED: <2013-03-10 Sun>
-       - State "CANCELLED"  from "NEXT"       [2013-03-10 Sun 15:49] \\
-	 Just provided links to old exams instead.
-       DEADLINE: <2013-03-11 Mon>
-       :PROPERTIES:
-       :ID:       45ce5522-5bec-47f1-8e4f-8e821e842188
-       :END:
-
-****** DONE Write Final
-       SCHEDULED: <2013-02-25 Mon>
-       - State "DONE"       from "NEXT"       [2013-03-16 Sat 14:41]
-       DEADLINE: <2013-03-15 Fri>
-       :LOGBOOK:
-       CLOCK: [2013-03-16 Sat 13:05]--[2013-03-16 Sat 14:41] =>  1:36
-       CLOCK: [2013-03-14 Thu 11:51]--[2013-03-14 Thu 12:34] =>  0:43
-       CLOCK: [2013-03-10 Sun 15:04]--[2013-03-10 Sun 15:49] =>  0:45
-       :END:
-       :PROPERTIES:
-       :ID:       45ce5522-5bec-47f1-8e4f-8e821e842188
-       :END:
-****** DONE Prepare practice midterm
-  DEADLINE: <2013-02-20 Wed> SCHEDULED: <2013-02-14 Thu>
-  - State "DONE"       from "NEXT"       [2013-02-22 Fri 07:36]
-  :LOGBOOK:
-  CLOCK: [2013-02-22 Fri 07:28]--[2013-02-22 Fri 07:36] =>  0:08
-  CLOCK: [2013-02-20 Wed 20:55]--[2013-02-20 Wed 21:25] =>  0:30
-  CLOCK: [2013-02-20 Wed 13:15]--[2013-02-20 Wed 13:16] =>  0:01
-  CLOCK: [2013-02-20 Wed 13:05]--[2013-02-20 Wed 13:14] =>  0:09
-  CLOCK: [2013-02-13 Wed 13:49]--[2013-02-13 Wed 13:50] =>  0:01
-  :END:
-     :PROPERTIES:
-     :ID:       0474210c-9788-44d5-bdf4-88498062b269
-     :END:
-[2013-02-13 Wed 13:49]
-****** DONE Upload practice midterm 2
-  SCHEDULED: <2013-02-20 Wed>
-  - State "DONE"       from "TODO"       [2013-02-22 Fri 08:00]
-  :LOGBOOK:
-  CLOCK: [2013-02-20 Wed 13:14]--[2013-02-20 Wed 13:15] =>  0:01
-  :END:
-       :PROPERTIES:
-       :ID:       68ea8030-c4d5-49d6-a264-b2dcd113a116
-       :END:
-[2013-02-20 Wed 13:14]
-***** DONE Homework
-      - State "DONE"       from "TODO"       [2013-02-26 Tue 09:21]
-      :LOGBOOK:
-      :END:
-      :PROPERTIES:
-      :ID:       834ef9b6-e67a-42aa-b0c0-780e0ebfcfaf
-      :END:
-****** DONE Set Homework 1
-       SCHEDULED: <2013-01-02 Wed>
-       - State "DONE"       from "NEXT"       [2013-01-02 Wed 10:46]
-       DEADLINE: <2013-01-04 Fri>
-       :LOGBOOK:
-       CLOCK: [2013-01-02 Wed 10:39]--[2013-01-02 Wed 10:46] =>  0:07
-       :END:
-       :PROPERTIES:
-       :ID:       06696ba2-fa0c-4160-8f8c-d52c0e118378
-       :END:
-
-****** DONE Set Homework 2
-       SCHEDULED: <2013-01-14 Mon>
-       - State "DONE"       from "NEXT"       [2013-01-17 Thu 17:23]
-       :LOGBOOK:
-       CLOCK: [2013-01-17 Thu 17:15]--[2013-01-17 Thu 17:25] =>  0:10
-       CLOCK: [2013-01-14 Mon 10:32]--[2013-01-14 Mon 10:50] =>  0:18
-       :END:
-
-
-       DEADLINE: <2013-01-18 Fri>
-       :PROPERTIES:
-       :ID:       2f4712d3-63a0-4711-bb5b-2c310a71a761
-       :END:
-****** DONE Set Homework 3
-       SCHEDULED: <2013-01-28 Mon> 
-       - State "DONE"       from "NEXT"       [2013-01-31 Thu 09:11]
-       DEADLINE: <2013-02-01 Fri>
-       :LOGBOOK:
-       CLOCK: [2013-01-31 Thu 08:57]--[2013-01-31 Thu 09:11] =>  0:14
-       :END:
-       :PROPERTIES:
-       :ID:       d6a0375a-2e8b-40c1-a9d3-8cd8d9aa37e2
-       :END:
-
-****** DONE Set Homework 4
-       SCHEDULED: <2013-02-11 Mon>
-       - State "DONE"       from "NEXT"       [2013-02-16 Sat 19:52]
-       DEADLINE: <2013-02-15 Fri>
-       :LOGBOOK:
-       CLOCK: [2013-02-15 Fri 19:31]--[2013-02-15 Fri 19:42] =>  0:11
-       :END:
-       :PROPERTIES:
-       :ID:       f5011f08-eaf0-4429-9041-1f2284de87a5
-       :END:
-
-****** DONE Set Homework 5
-       SCHEDULED: <2013-02-25 Mon> 
-       - State "DONE"       from "NEXT"       [2013-02-25 Mon 11:23]
-       DEADLINE: <2013-03-01 Fri>    
-       :LOGBOOK:
-       CLOCK: [2013-02-25 Mon 10:59]--[2013-02-25 Mon 11:23] =>  0:24
-       :END:
-       :PROPERTIES:
-       :ID:       a09fcef3-939e-41f8-bc9e-19a7f3bdea8e
-       :END:
-
-****** DONE Update homework
-    - State "DONE"       from "NEXT"       [2013-01-08 Tue 08:52]
-  :LOGBOOK:
-  CLOCK: [2013-01-07 Mon 15:00]--[2013-01-07 Mon 15:18] =>  0:18
-  CLOCK: [2013-01-07 Mon 14:20]--[2013-01-07 Mon 14:34] =>  0:14
-  :END:
-  :PROPERTIES:
-  :ID:       54af3ec8-b699-48c8-bdfd-744e89a405a8
-  :END:
-[2013-01-07 Mon 14:20]
-
-9 questions total. Specify 4 questions to be graded. 1 mark each for completion for remaining 5.
-***** DONE Make website
-     SCHEDULED: <2013-01-02 Wed>
-     - State "DONE"       from "TODO"       [2013-01-06 Sun 18:00]
-      DEADLINE: <2013-01-04 Fri>
-      :LOGBOOK:
-      :END:
-      :PROPERTIES:
-      :ID:       6d96956c-1f73-4395-bc03-f448e8f69b73
-      :END:
-
-****** DONE Write content
-       - State "DONE"       from "NEXT"       [2013-01-03 Thu 13:25]
-      :LOGBOOK:
-      CLOCK: [2013-01-03 Thu 13:07]--[2013-01-03 Thu 13:25] =>  0:18
-      CLOCK: [2013-01-02 Wed 10:46]--[2013-01-02 Wed 11:01] =>  0:15
-      CLOCK: [2013-01-02 Wed 09:53]--[2013-01-02 Wed 10:01] =>  0:08
-      :END:
-       :PROPERTIES:
-       :ID:       9e989cf2-368d-4eb8-a557-343d42fbd464
-       :END:
-****** DONE Research org-export
-       - State "DONE"       from "NEXT"       [2013-01-14 Mon 17:38]
-       :PROPERTIES:
-       :ID:       a1d54cd8-9d5a-43c4-b699-fede63f4c78b
-       :END:
-****** DONE Write course outline
-       - State "DONE"       from "NEXT"       [2013-01-05 Sat 11:40]
-
-       :LOGBOOK:
-       CLOCK: [2013-01-05 Sat 11:36]--[2013-01-05 Sat 11:40] =>  0:04
-       CLOCK: [2013-01-05 Sat 11:26]--[2013-01-05 Sat 11:29] =>  0:03
-       CLOCK: [2013-01-03 Thu 14:37]--[2013-01-03 Thu 15:00] =>  0:23
-       CLOCK: [2013-01-03 Thu 13:31]--[2013-01-03 Thu 13:56] =>  0:25
-       :END:
-       :PROPERTIES:
-       :ID:       ada397f8-5f7f-4a1e-8a10-4d787642130d
-       :END:
-****** DONE Research org-publish
-       - State "DONE"       from "NEXT"       [2013-01-05 Sat 11:03]
-       :LOGBOOK:
-       CLOCK: [2013-01-03 Thu 19:32]--[2013-01-03 Thu 20:01] =>  0:29
-       CLOCK: [2013-01-03 Thu 19:21]--[2013-01-03 Thu 19:27] =>  0:06
-       :END:
-
-       :PROPERTIES:
-       :ID:       5a864ba1-934c-4473-a018-6b0404c7f8a4
-       :END:
-
-****** DONE Implement org-publish
-       - State "DONE"       from "NEXT"       [2013-01-05 Sat 11:02]
-
-       :LOGBOOK:
-       CLOCK: [2013-01-03 Thu 19:13]--[2013-01-03 Thu 19:21] =>  0:08
-       CLOCK: [2013-01-03 Thu 19:04]--[2013-01-03 Thu 19:11] =>  0:07
-       CLOCK: [2013-01-03 Thu 14:32]--[2013-01-03 Thu 14:37] =>  0:05
-       CLOCK: [2013-01-03 Thu 14:00]--[2013-01-03 Thu 14:28] =>  0:28
-       :END:
-       :PROPERTIES:
-       :ID:       7ecb4d57-b2fc-46db-87d0-84cb0204dc22
-       :END:
-
-****** DONE Fix up calendar table
-      - State "DONE"       from "NEXT"       [2013-01-06 Sun 14:46]
-      :LOGBOOK:
-      CLOCK: [2013-01-06 Sun 14:01]--[2013-01-06 Sun 14:46] =>  0:45
-      CLOCK: [2013-01-06 Sun 10:00]--[2013-01-06 Sun 10:37] =>  0:37
-      CLOCK: [2013-01-05 Sat 11:40]--[2013-01-05 Sat 11:58] =>  0:18
-      :END:
-      :PROPERTIES:
-      :ID:       7712e430-ce12-4c13-bede-57e4b5810ca0
-      :END:
-[[http://www.w3schools.com/css/css_table.asp]]
-[[http://coding.smashingmagazine.com/2008/08/13/top-10-css-table-designs/]]
-****** DONE Get rid of title heading
-       - State "DONE"       from "NEXT"       [2013-01-05 Sat 11:26]
-       :LOGBOOK:
-       CLOCK: [2013-01-05 Sat 11:09]--[2013-01-05 Sat 11:26] =>  0:17
-       :END:
-       :PROPERTIES:
-       :ID:       ce36c724-1803-470f-a1dc-551ca5a972be
-       :END:
-****** DONE Publish
-       - State "DONE"       from "TODO"       [2013-01-06 Sun 14:24]
-
-       :PROPERTIES:
-       :ID:       4a7228cb-ec14-4503-bab6-bf5396cda0bd
-       :END:
-****** DONE Update website
-       - State "DONE"       from "NEXT"       [2013-01-08 Tue 08:51]
-       :LOGBOOK:
-       CLOCK: [2013-02-05 Tue 12:21]--[2013-02-05 Tue 12:35] =>  0:14
-       CLOCK: [2013-01-07 Mon 13:54]--[2013-01-07 Mon 14:06] =>  0:12
-       :END:
-       :PROPERTIES:
-       :ID:       166cc4aa-620c-4523-b699-ca2ced33207a
-       :END:
-
-***** DONE Plan Lectures
-      - State "DONE"       from "TODO"       [2013-03-19 Tue 13:56]
-      :LOGBOOK:
-      CLOCK: [2013-02-15 Fri 13:18]--[2013-02-15 Fri 13:19] =>  0:01
-      :END:
-      :PROPERTIES:
-      :ID:       cb6490d4-44bd-4622-8b1e-b0c7233b53e2
-      :END:
-****** DONE Week 1 Lectures
-       DEADLINE: <2013-01-06 Sun> SCHEDULED: <2013-01-02 Wed>      
-       - State "DONE"       from "TODO"       [2013-01-11 Fri 11:00]
-       :PROPERTIES:
-       :ID:       ba6bb075-0ca2-4a8c-b92e-97a363939457
-       :END:
-
-******* DONE Prepare lecture 1-1
-       	- State "DONE"       from "NEXT"       [2013-01-07 Mon 12:02]
-       	:PROPERTIES:
-       	:ID:       2dd13cd5-878c-45f5-b887-2025656d3c2a
-       	:END:
-******* DONE Prepare lecture 1-2
-       	- State "DONE"       from "NEXT"       [2013-01-08 Tue 14:10]
-       	:LOGBOOK:
-       	CLOCK: [2013-01-09 Wed 10:38]--[2013-01-09 Wed 10:53] =>  0:15
-       	CLOCK: [2013-01-08 Tue 13:25]--[2013-01-08 Tue 14:10] =>  0:45
-       	:END:
-       	:PROPERTIES:
-       	:ID:       6fdfb560-c451-49f4-8029-375abe3195c1
-       	:END:
-******* DONE Prepare lecture 1-3
-       	- State "DONE"       from "NEXT"       [2013-01-11 Fri 11:00]
-       	:LOGBOOK:
-       	CLOCK: [2013-01-11 Fri 10:30]--[2013-01-11 Fri 11:00] =>  0:30
-       	CLOCK: [2013-01-10 Thu 11:50]--[2013-01-10 Thu 12:09] =>  0:19
-       	CLOCK: [2013-01-10 Thu 11:10]--[2013-01-10 Thu 11:47] =>  0:37
-       	:END:
-       	:PROPERTIES:
-       	:ID:       f6681d84-5682-4661-ae59-7deb55c886e3
-       	:END:
-****** DONE Week 2 Lectures
-       DEADLINE: <2013-01-13 Sun> SCHEDULED: <2013-01-07 Mon>
-       - State "DONE"       from "TODO"       [2013-01-17 Thu 17:23]
-       :PROPERTIES:
-       :ID:       f6d6f89c-b487-491d-8a78-e0c0b58528d7
-       :END:
-******* DONE Prepare lecture 2-1
-       	- State "DONE"       from "NEXT"       [2013-01-13 Sun 11:04]
-       	:LOGBOOK:
-       	CLOCK: [2013-01-13 Sun 10:34]--[2013-01-13 Sun 11:04] =>  0:30
-       	:END:
-       	:PROPERTIES:
-       	:ID:       8dadd573-ff8b-44df-ba78-ca6be94f30c1
-       	:END:
-******* DONE Prepare lecture 2-2
-       	- State "DONE"       from "NEXT"       [2013-01-17 Thu 15:57]
-       	:LOGBOOK:
-       	CLOCK: [2013-01-16 Wed 10:08]--[2013-01-16 Wed 10:41] =>  0:33
-       	:END:
-       	:PROPERTIES:
-       	:ID:       0e8d94d0-dd5f-4755-b59f-e3224de25f86
-       	:END:
-******* DONE Prepare lecture 2-3
-       	- State "DONE"       from "NEXT"       [2013-01-17 Thu 17:23]
-       	:LOGBOOK:
-       	CLOCK: [2013-01-17 Thu 16:15]--[2013-01-17 Thu 16:34] =>  0:19
-       	CLOCK: [2013-01-17 Thu 15:35]--[2013-01-17 Thu 16:12] =>  0:37
-       	:END:
-       	:PROPERTIES:
-       	:ID:       c6a0022f-801e-4e45-b4bc-8404cc93ac5a
-       	:END:
-****** DONE Week 3 Lectures
-       DEADLINE: <2013-01-20 Sun> SCHEDULED: <2013-01-14 Mon>
-       - State "DONE"       from "TODO"       [2013-01-24 Thu 11:23]
-       :PROPERTIES:
-       :ID:       fb6eda16-71c7-4e4f-a52e-08debcd12a4b
-       :END:
-******* DONE Prepare lecture 3-2
-       	- State "DONE"       from "NEXT"       [2013-01-22 Tue 11:50]
-       	:LOGBOOK:
-       	CLOCK: [2013-01-22 Tue 11:32]--[2013-01-22 Tue 11:50] =>  0:18
-       	CLOCK: [2013-01-22 Tue 11:24]--[2013-01-22 Tue 11:25] =>  0:01
-       	CLOCK: [2013-01-22 Tue 10:48]--[2013-01-22 Tue 10:57] =>  0:09
-       	CLOCK: [2013-01-22 Tue 10:20]--[2013-01-22 Tue 10:44] =>  0:24
-       	:END:
-       	:PROPERTIES:
-       	:ID:       14b2a55e-5d95-440a-a647-99130378dbd7
-       	:END:
-******* DONE Prepare lecture 3-3
-       	- State "DONE"       from "NEXT"       [2013-01-24 Thu 11:23]
-       	:LOGBOOK:
-       	CLOCK: [2013-01-24 Thu 11:04]--[2013-01-24 Thu 11:24] =>  0:20
-       	CLOCK: [2013-01-24 Thu 11:01]--[2013-01-24 Thu 11:02] =>  0:01
-       	CLOCK: [2013-01-24 Thu 10:28]--[2013-01-24 Thu 10:53] =>  0:25
-       	:END:
-       	:PROPERTIES:
-       	:ID:       53280d46-7374-4db8-b5fb-c5f4fe56b278
-       	:END:
-****** DONE Week 4 Lectures
-       DEADLINE: <2013-01-27 Sun> SCHEDULED: <2013-01-21 Mon>
-       - State "DONE"       from "TODO"       [2013-01-28 Mon 07:19]
-       :PROPERTIES:
-       :ID:       d05d375a-639f-49fe-bc9f-a0df4ed6b1ad
-       :END:
-******* DONE Prepare lecture 4-1
-       	- State "DONE"       from "NEXT"       [2013-01-27 Sun 13:21]
-       	:LOGBOOK:
-       	CLOCK: [2013-01-27 Sun 11:54]--[2013-01-27 Sun 12:14] =>  0:20
-       	CLOCK: [2013-01-27 Sun 10:54]--[2013-01-27 Sun 11:10] =>  0:16
-       	:END:
-       	:PROPERTIES:
-       	:ID:       5b00bb2d-ada5-43f5-a4b4-382750912814
-       	:END:
-******* DONE Prepare lecture 4-2
-       	- State "DONE"       from "NEXT"       [2013-01-28 Mon 07:19]
-       	:PROPERTIES:
-       	:ID:       cb6d3c78-4d1e-4218-aad5-58dcd9b5ec8f
-       	:END:
-       	:LOGBOOK:
-       	CLOCK: [2013-01-27 Sun 11:17]--[2013-01-27 Sun 11:36] =>  0:19
-       	:END:
-******* DONE Prepare lecture 4-3
-       	- State "DONE"       from "NEXT"       [2013-01-28 Mon 07:19]
-       	:PROPERTIES:
-       	:ID:       9575858b-31b4-4b68-9e94-4d2b0d5669cd
-       	:END:
-****** DONE Week 5 Lectures
-       DEADLINE: <2013-02-03 Sun> SCHEDULED: <2013-01-28 Mon>
-       - State "DONE"       from "TODO"       [2013-02-06 Wed 10:43]
-       :LOGBOOK:
-       CLOCK: [2013-02-01 Fri 12:51]--[2013-02-01 Fri 13:53] =>  1:02
-       CLOCK: [2013-02-01 Fri 11:49]--[2013-02-01 Fri 12:05] =>  0:16
-       :END:
-       :PROPERTIES:
-       :ID:       4095d747-2722-4976-b7c7-29f859d24435
-       :END:
-******* DONE Prepare lecture 5-1
-	- State "DONE"       from "NEXT"       [2013-02-03 Sun 19:05]
-       	:PROPERTIES:
-       	:ID:       22ef6e3a-e7f4-462a-b971-fce043c94e5c
-       	:END:
-******* DONE Prepare lecture 5-2
-	- State "DONE"       from "NEXT"       [2013-02-06 Wed 07:29]
-        :LOGBOOK:
-	CLOCK: [2013-02-04 Mon 10:46]--[2013-02-04 Mon 10:53] =>  0:07
-	CLOCK: [2013-02-04 Mon 09:42]--[2013-02-04 Mon 10:09] =>  0:27
-	CLOCK: [2013-02-03 Sun 18:50]--[2013-02-03 Sun 20:03] =>  1:13
-	CLOCK: [2013-02-03 Sun 09:15]--[2013-02-03 Sun 09:47] =>  0:32
-	:END:
-       	:PROPERTIES:
-       	:ID:       85e752d4-8245-4cdd-b2af-221c32314759
-       	:END:
-******* DONE Prepare lecture 5-3
-	- State "DONE"       from "NEXT"       [2013-02-06 Wed 10:43]
-	:LOGBOOK:
-	CLOCK: [2013-02-06 Wed 10:12]--[2013-02-06 Wed 10:43] =>  0:31
-	:END:
-       	:PROPERTIES:
-       	:ID:       5a93b1cc-4a21-4077-898d-9a80ce4454f3
-       	:END:
-****** DONE Week 6 Lectures
-       DEADLINE: <2013-02-10 Sun> SCHEDULED: <2013-02-04 Mon>
-       - State "DONE"       from "TODO"       [2013-02-15 Fri 12:53]
-       :PROPERTIES:
-       :ID:       13df5819-9bc8-4698-ae0b-8e7d40f04291
-       :END:
-******* DONE Prepare lecture 6-1
-	- State "DONE"       from "NEXT"       [2013-02-08 Fri 15:18]
-	:LOGBOOK:
-	CLOCK: [2013-02-08 Fri 14:07]--[2013-02-08 Fri 14:45] =>  0:38
-	:END:
-       	:PROPERTIES:
-       	:ID:       1ac9cf84-a88c-4ad2-9d5c-2448bf294c1a
-       	:END:
-******* DONE Prepare lecture 6-2
-	- State "DONE"       from "NEXT"       [2013-02-12 Tue 21:51]
-	:LOGBOOK:
-	CLOCK: [2013-02-12 Tue 21:15]--[2013-02-12 Tue 21:45] =>  0:30
-	CLOCK: [2013-02-12 Tue 08:25]--[2013-02-12 Tue 09:05] =>  0:40
-	:END:
-       	:PROPERTIES:
-       	:ID:       ec955558-0d0a-46cf-8c64-37e330fb619b
-       	:END:
-******* DONE Prepare lecture 6-3
-	- State "DONE"       from "NEXT"       [2013-02-15 Fri 12:51]
-	:LOGBOOK:
-	CLOCK: [2013-02-15 Fri 21:40]--[2013-02-15 Fri 22:45] =>  1:05
-	:END:
-       	:PROPERTIES:
-       	:ID:       cdd0f5ba-382d-4c8d-86af-7ab673ef2c77
-       	:END:
-****** DONE Week 7 Lectures
-       DEADLINE: <2013-02-17 Sun> SCHEDULED: <2013-02-11 Mon>
-       - State "DONE"       from "TODO"       [2013-02-17 Sun 17:39]
-       :LOGBOOK:
-       CLOCK: [2013-02-15 Fri 12:53]--[2013-02-15 Fri 13:18] =>  0:25
-       :END:
-       :PROPERTIES:
-       :ID:       b6cce85d-073b-47ff-87e3-b321ac9c9173
-       :END:
-******* DONE Prepare lecture 7-1
-	- State "DONE"       from "NEXT"       [2013-02-16 Sat 19:36]
-       	:PROPERTIES:
-       	:ID:       592c87f7-7fe5-4847-a9c9-4c0793a5995f
-       	:END:
-******* DONE Prepare lecture 7-2
-	- State "DONE"       from "DONE"       [2013-02-17 Sun 17:39]
-	- State "DONE"       from "NEXT"       [2013-02-16 Sat 19:36]
-	:LOGBOOK:
-	CLOCK: [2013-02-16 Sat 14:00]--[2013-02-16 Sat 14:35] =>  0:35
-	CLOCK: [2013-02-16 Sat 10:30]--[2013-02-16 Sat 11:15] =>  0:45
-	:END:
-
-       	:PROPERTIES:
-       	:ID:       f9a8188c-2c84-4c0a-95b4-68fa0b6390c4
-       	:END:
-******* DONE Prepare lecture 7-3
-	- State "DONE"       from "NEXT"       [2013-02-17 Sun 17:39]
-	:LOGBOOK:
-	CLOCK: [2013-02-17 Sun 17:25]--[2013-02-17 Sun 17:39] =>  0:14
-	CLOCK: [2013-02-16 Sat 14:35]--[2013-02-16 Sat 15:00] =>  0:25
-	:END:
-
-       	:PROPERTIES:
-       	:ID:       47d24ed2-c63f-4193-a0bb-d76f33fb577e
-       	:END:
-****** DONE Week 8 Lectures
-       DEADLINE: <2013-02-24 Sun> SCHEDULED: <2013-02-18 Mon>
-       - State "DONE"       from "TODO"       [2013-02-25 Mon 10:48]
-       :LOGBOOK:
-       :END:
-       :PROPERTIES:
-       :ID:       7caeed49-8f45-4df4-80a5-50ad4cae3bc7
-       :END:
-******* DONE Prepare lecture 8-1
-	- State "DONE"       from "NEXT"       [2013-02-19 Tue 13:54]
-	:PROPERTIES:
-       	:ID:       8be202f9-391d-4692-beaa-ffa573c3d547
-       	:END:
-******* DONE Prepare lecture 8-2
-        - State "DONE"       from "NEXT"       [2013-02-19 Tue 13:54]
-        :LOGBOOK:
-	CLOCK: [2013-02-19 Tue 13:36]--[2013-02-19 Tue 13:54] =>  0:18
-	CLOCK: [2013-02-19 Tue 13:10]--[2013-02-19 Tue 13:29] =>  0:19
-	CLOCK: [2013-02-19 Tue 12:25]--[2013-02-19 Tue 12:59] =>  0:34
-	:END:
-       	
-       	:PROPERTIES:
-       	:ID:       5f9aacb9-2e74-4906-a45b-ce9b0075d8c3
-       	:END:
-******* DONE Prepare lecture 8-3
-	- State "DONE"       from "NEXT"       [2013-02-25 Mon 10:48]
-	:LOGBOOK:
-	CLOCK: [2013-02-25 Mon 10:24]--[2013-02-25 Mon 10:48] =>  0:24
-	CLOCK: [2013-02-22 Fri 10:04]--[2013-02-22 Fri 10:10] =>  0:06
-	CLOCK: [2013-02-20 Wed 10:26]--[2013-02-20 Wed 10:47] =>  0:21
-	:END:
-       	:PROPERTIES:
-       	:ID:       d82697a4-f67e-4497-86e3-e28be4bff2e1
-       	:END:
-****** DONE Week 9 Lectures
-       DEADLINE: <2013-03-03 Sun> SCHEDULED: <2013-02-25 Mon>
-       - State "DONE"       from "TODO"       [2013-03-10 Sun 11:03]
-       :LOGBOOK:
-       :END:
-       :PROPERTIES:
-       :ID:       0cf82863-ff47-4f85-9e7c-5325574f63e7
-       :END:
-******* DONE Prepare lecture 9-1
-	- State "DONE"       from "NEXT"       [2013-03-01 Fri 15:24]
-	:LOGBOOK:
-	CLOCK: [2013-03-01 Fri 14:20]--[2013-03-01 Fri 15:24] =>  1:04
-	:END:
-       	:PROPERTIES:
-       	:ID:       acd4a608-a8c6-4acd-8837-43b7cb475613
-       	:END:
-******* DONE Prepare lecture 9-2
-	- State "DONE"       from "NEXT"       [2013-03-04 Mon 13:41]
-	:LOGBOOK:
-	CLOCK: [2013-03-04 Mon 13:05]--[2013-03-04 Mon 13:41] =>  0:36
-	CLOCK: [2013-03-04 Mon 10:00]--[2013-03-04 Mon 10:55] =>  0:55
-	:END:
-       	:PROPERTIES:
-       	:ID:       7582a7c1-1720-48e4-bc8b-24407260541a
-       	:END:
-******* DONE Prepare lecture 9-3
-	- State "DONE"       from "NEXT"       [2013-03-10 Sun 11:03]
-	:LOGBOOK:
-	CLOCK: [2013-03-08 Fri 10:35]--[2013-03-08 Fri 10:55] =>  0:20
-	CLOCK: [2013-03-06 Wed 13:10]--[2013-03-06 Wed 13:40] =>  0:30
-	CLOCK: [2013-03-04 Mon 13:41]--[2013-03-04 Mon 14:13] =>  0:32
-	:END:
-       	:PROPERTIES:
-       	:ID:       7895874a-ffb2-48d9-8252-c4131d248f85
-       	:END:
-****** DONE Week 10 Lectures
-       DEADLINE: <2013-03-10 Sun> SCHEDULED: <2013-03-04 Mon>
-       - State "DONE"       from "TODO"       [2013-03-13 Wed 10:53]
-       :PROPERTIES:
-       :ID:       0ce633a5-c530-49b7-8f10-4ee12f0f4274
-       :END:
-******* DONE Prepare lecture 10-1
-	- State "DONE"       from "NEXT"       [2013-03-10 Sun 11:03]
-	:LOGBOOK:
-	CLOCK: [2013-03-09 Sat 14:03]--[2013-03-09 Sat 14:50] =>  0:47
-	:END:
-       	:PROPERTIES:
-       	:ID:       67b2f2a5-61bc-4959-b9e5-edad86e3a409
-       	:END:
-******* DONE Prepare lecture 10-2
-	- State "DONE"       from "NEXT"       [2013-03-10 Sun 11:04]
-	:LOGBOOK:
-	CLOCK: [2013-03-09 Sat 16:03]--[2013-03-09 Sat 17:04] =>  1:01
-	:END:
-       	:PROPERTIES:
-       	:ID:       ee541e2f-5248-487e-8d69-b72382de8dcd
-       	:END:
-******* DONE Prepare lecture 10-3
-	- State "DONE"       from "NEXT"       [2013-03-13 Wed 10:53]
-       	:PROPERTIES:
-       	:ID:       234b6d63-fcf8-451c-8075-b327a6264425
-       	:END:
-
-***** DONE Update Website
-      - State "DONE"       from "TODO"       [2013-02-05 Tue 13:11]
-      :PROPERTIES:
-      :ID:       10ca00ac-fd13-4f06-a801-538bef47b971
-      :END:
-****** DONE Update office hours
-       - State "DONE"       from "NEXT"       [2013-02-04 Mon 20:55]
-       :LOGBOOK:
-       CLOCK: [2013-02-04 Mon 20:40]--[2013-02-04 Mon 20:55] =>  0:15
-       :END:
-       :PROPERTIES:
-       :ID:       0d24d91c-4ad2-4c86-835c-fed77b99c82c
-       :END:
-***** CANCELLED Check out podcasting course
-    - State "CANCELLED"  from "TODO"       [2013-01-07 Mon 12:03] \\
-      Won't use it for this course.
-  :LOGBOOK:
-  :END:
-    :PROPERTIES:
-    :ID:       e39a2ae1-cc16-4dd2-80bf-33d3411e89ca
-    :END:
-[2012-12-14 Fri 11:04]
-***** DONE Meet TA
-      - State "DONE"       from "TODO"       [2013-01-07 Mon 15:17]
-    :LOGBOOK:
-    CLOCK: [2013-01-07 Mon 14:34]--[2013-01-07 Mon 15:00] =>  0:26
-    CLOCK: [2013-01-07 Mon 14:10]--[2013-01-07 Mon 14:20] =>  0:10
-    :END:
-
-**** Tasks
-***** DONE Do Eval
-      - State "DONE"       from "TODO"       [2013-03-25 Mon 13:55]
-  :LOGBOOK:
-  :END:
-      :PROPERTIES:
-      :ID:       5d1c79d8-7002-4775-ac89-58f4df1790cd
-      :END:
-[2013-03-10 Sun 10:55]
-
-***** DONE Update website and office hours
-     - State "DONE"       from "DONE"       [2013-02-06 Wed 14:05]
-     - State "DONE"       from "NEXT"       [2013-02-06 Wed 10:54]
-    :LOGBOOK:
-    CLOCK: [2013-02-06 Wed 13:55]--[2013-02-06 Wed 14:05] =>  0:10
-    CLOCK: [2013-02-06 Wed 10:50]--[2013-02-06 Wed 10:54] =>  0:04
-    CLOCK: [2013-01-28 Mon 07:28]--[2013-01-28 Mon 07:29] =>  0:01
-    :END:
-    :PROPERTIES:
-    :ID:       6f6722a7-8bcf-4fab-9f0f-e3ff15b16aa8
-    :END:
-[2013-01-28 Mon 07:28]
-
-***** DONE Setup reminder for MATH142B
-   - State "DONE"       from "TODO"       [2012-10-29 Mon 10:27]
-  CLOCK: [2012-10-15 Mon 10:27]--[2012-10-15 Mon 10:28] =>  0:01
-   :PROPERTIES:
-   :ID:       351dabb7-be5d-458a-8f6b-0959ee00991d
-   :END:
-[2012-10-15 Mon 10:27]
-
-***** DONE Winter 2013 text books				   :COMPUTER:
-    - State "DONE"       from "TODO"       [2012-11-02 Fri 15:53]
-    :PROPERTIES:
-    :ID:       ca36acea-9953-4821-88a1-69ed34f77979
-    :END:
-***** DONE Update website 
-      - State "DONE"       from "TODO"       [2013-03-19 Tue 11:30]
-  :LOGBOOK:
-  CLOCK: [2013-03-14 Thu 14:18]--[2013-03-14 Thu 14:19] =>  0:01
-  :END:
-      :PROPERTIES:
-      :ID:       ca74e2d5-ee3e-4cc9-a1f3-530483da1a08
-      :END:
-[2013-03-14 Thu 14:18]
-Put final exam conditions - 2 pages notes allowed.
-***** DONE Enter grades
-      DEADLINE: <2013-03-29 Fri>
-      - State "DONE"       from "NEXT"       [2013-03-25 Mon 13:55]
-      :LOGBOOK:
-      CLOCK: [2013-03-25 Mon 12:46]--[2013-03-25 Mon 13:55] =>  1:09
-      :END:
-      :PROPERTIES:
-      :ID:       a1d053c2-a7bc-43d9-95e3-9128950f3713
-      :END:
-***** DONE Grade extra finals
-      - State "DONE"       from "NEXT"       [2013-03-26 Tue 17:06]
-      :LOGBOOK:
-      CLOCK: [2013-03-26 Tue 15:45]--[2013-03-26 Tue 17:06] =>  1:21
-      :END:
-***** NEXT Change Ziran Liu's grade to C-
-      :PROPERTIES:
-      :ID:       c015bc87-d040-4f87-bb51-2ec2c18f65d9
-      :END:
-*** DONE MATH150A Fall 2012 					   :MATH150A:
-    - State "DONE"       from "TODO"       [2012-12-14 Fri 11:54]
-    :LOGBOOK:
-    CLOCK: [2012-11-19 Mon 11:00]--[2012-11-19 Mon 12:00] =>  1:00
-    CLOCK: [2012-11-16 Fri 10:19]--[2012-11-16 Fri 10:30] =>  0:11
-    :END:
-    :PROPERTIES:
-    :CATEGORY: MATH150A FALL2012
-    :ID:       7b8cd00b-6f86-4280-a4c6-8cbdd0dcfc87
-    :END:
-**** Text
+***** Text
 [[file:~/research_resources/books/Carmo%20M.P.%20Differential%20geometry%20of%20curves%20and%20surfaces%20(1976)(T)(511s)_MDdg_.djvu][Carmo M.P. Differential geometry of curves and surfaces]]
-**** Lectures							   :LECTURES:
+***** Lectures							   :LECTURES:
 
-***** DONE 4-2 Isometries
+****** DONE 4-2 Isometries
      - State "DONE"       from ""           [2012-11-28 Wed 10:49]
      :PROPERTIES:
      :ID:       84769f33-dca0-47ca-a9e3-e5248846e95b
      :END:
 <2012-11-19 Mon 11:00-12:00>
-***** DONE 4-2 Isometries
+****** DONE 4-2 Isometries
      - State "DONE"       from ""           [2012-11-28 Wed 10:49]
      :PROPERTIES:
      :ID:       d59d04c7-5d48-4244-8498-c8bb55706032
      :END:
 <2012-11-21 Wed 11:00-12:00>
-***** DONE 4-3 Gauss Theorem
+****** DONE 4-3 Gauss Theorem
      - State "DONE"       from ""           [2012-11-28 Wed 10:49]
      :PROPERTIES:
      :ID:       461d7935-c924-48d7-a9de-eabc80f7df80
      :END:
 <2012-11-26 Mon 11:00-12:00>
-***** DONE 4-3 Gauss Theorem
+****** DONE 4-3 Gauss Theorem
      - State "DONE"       from "TODO"       [2012-11-28 Wed 11:56]
      :LOGBOOK:
      CLOCK: [2012-11-28 Wed 10:59]--[2012-11-28 Wed 11:56] =>  0:57
@@ -2202,20 +161,20 @@ Put final exam conditions - 2 pages notes allowed.
      :ID:       1c94f978-cb2d-4a92-b59d-730271c61898
      :END:
 <2012-11-28 Wed 11:00-12:00>
-****** DONE Plan lecture
-       - State "DONE"       from "NEXT"       [2012-11-28 Wed 10:50]
-       :PROPERTIES:
-       :ID:       ec55f430-3a14-4830-a36a-f7a3ce51b831
-       :END:
-****** DONE Prepare lecture
-       - State "DONE"       from "NEXT"       [2012-11-28 Wed 10:59]
-       :LOGBOOK:
-       CLOCK: [2012-11-28 Wed 10:50]--[2012-11-28 Wed 10:59] =>  0:09
-       :END:
-       :PROPERTIES:
-       :ID:       013aa80d-4df5-4b64-ac71-73c853424b82
-       :END:
-***** DONE 4-4 Parallel Transport
+******* DONE Plan lecture
+       	- State "DONE"       from "NEXT"       [2012-11-28 Wed 10:50]
+       	:PROPERTIES:
+       	:ID:       ec55f430-3a14-4830-a36a-f7a3ce51b831
+       	:END:
+******* DONE Prepare lecture
+       	- State "DONE"       from "NEXT"       [2012-11-28 Wed 10:59]
+       	:LOGBOOK:
+       	CLOCK: [2012-11-28 Wed 10:50]--[2012-11-28 Wed 10:59] =>  0:09
+       	:END:
+       	:PROPERTIES:
+       	:ID:       013aa80d-4df5-4b64-ac71-73c853424b82
+       	:END:
+****** DONE 4-4 Parallel Transport
      - State "DONE"       from "TODO"       [2012-11-30 Fri 12:00]
      :LOGBOOK:
      CLOCK: [2012-11-30 Fri 10:55]--[2012-11-30 Fri 12:00] =>  1:05
@@ -2224,22 +183,22 @@ Put final exam conditions - 2 pages notes allowed.
      :ID:       a30d99f3-a128-4024-b187-4d83eea1164c
      :END:
 <2012-11-30 Fri 11:00-12:00>
-****** DONE Plan 4-4 parallel transport lecture
-       - State "DONE"       from "NEXT"       [2012-11-29 Thu 13:44]
-       :LOGBOOK:
-       CLOCK: [2012-11-29 Thu 13:30]--[2012-11-29 Thu 13:42] =>  0:12
-       CLOCK: [2012-11-29 Thu 11:07]--[2012-11-29 Thu 11:26] =>  0:19
-       CLOCK: [2012-11-29 Thu 10:05]--[2012-11-29 Thu 11:02] =>  0:57
-       :END:
-       :PROPERTIES:
-       :ID:       ec55f430-3a14-4830-a36a-f7a3ce51b831
-       :END:
-****** DONE Prepare 4-4 transport lecture
-       - State "DONE"       from "NEXT"       [2012-11-30 Fri 10:59]
-       :PROPERTIES:
-       :ID:       013aa80d-4df5-4b64-ac71-73c853424b82
-       :END:
-***** DONE 4-4 Geodesics
+******* DONE Plan 4-4 parallel transport lecture
+       	- State "DONE"       from "NEXT"       [2012-11-29 Thu 13:44]
+       	:LOGBOOK:
+       	CLOCK: [2012-11-29 Thu 13:30]--[2012-11-29 Thu 13:42] =>  0:12
+       	CLOCK: [2012-11-29 Thu 11:07]--[2012-11-29 Thu 11:26] =>  0:19
+       	CLOCK: [2012-11-29 Thu 10:05]--[2012-11-29 Thu 11:02] =>  0:57
+       	:END:
+       	:PROPERTIES:
+       	:ID:       ec55f430-3a14-4830-a36a-f7a3ce51b831
+       	:END:
+******* DONE Prepare 4-4 transport lecture
+       	- State "DONE"       from "NEXT"       [2012-11-30 Fri 10:59]
+       	:PROPERTIES:
+       	:ID:       013aa80d-4df5-4b64-ac71-73c853424b82
+       	:END:
+****** DONE 4-4 Geodesics
      - State "DONE"       from "TODO"       [2012-12-03 Mon 13:29]
      :PROPERTIES:
      :ID:       829af05f-1c7d-4772-bb16-df2d884f4b84
@@ -2249,24 +208,24 @@ Put final exam conditions - 2 pages notes allowed.
      :END:
 
 <2012-12-03 Mon 11:00-12:00>
-****** DONE Plan 4-4 Geodesics Lecture 
-       - State "DONE"       from "NEXT"       [2012-12-02 Sun 20:10]
-       :PROPERTIES:
-       :ID:       a3f4401d-24f6-46ea-aa57-9009080cbf17
+******* DONE Plan 4-4 Geodesics Lecture 
+       	- State "DONE"       from "NEXT"       [2012-12-02 Sun 20:10]
+       	:PROPERTIES:
+       	:ID:       a3f4401d-24f6-46ea-aa57-9009080cbf17
+       	:END:
+       :LOGBOOK:
+       CLOCK: [2012-12-02 Sun 19:00]--[2012-12-02 Sun 20:10] =>  1:10
        :END:
-      :LOGBOOK:
-      CLOCK: [2012-12-02 Sun 19:00]--[2012-12-02 Sun 20:10] =>  1:10
-      :END:
 
-****** DONE Prepare 4-4 Geodesics Lecture 
-       - State "DONE"       from "TODO"       [2012-12-03 Mon 10:55]
-       :PROPERTIES:
-       :ID:       aeb80c63-b44e-42f6-b9f7-bb83ff06d576
+******* DONE Prepare 4-4 Geodesics Lecture 
+       	- State "DONE"       from "TODO"       [2012-12-03 Mon 10:55]
+       	:PROPERTIES:
+       	:ID:       aeb80c63-b44e-42f6-b9f7-bb83ff06d576
+       	:END:
+       :LOGBOOK:
+       CLOCK: [2012-12-03 Mon 10:40]--[2012-12-03 Mon 10:55] =>  0:15
        :END:
-      :LOGBOOK:
-      CLOCK: [2012-12-03 Mon 10:40]--[2012-12-03 Mon 10:55] =>  0:15
-      :END:
-***** DONE 4-5 Gauss Bonnet
+****** DONE 4-5 Gauss Bonnet
      - State "DONE"       from "TODO"       [2012-12-05 Wed 12:00]
      :PROPERTIES:
      :ID:       075a26d1-d322-4530-849d-1f7a8b60b21b
@@ -2275,25 +234,25 @@ Put final exam conditions - 2 pages notes allowed.
      CLOCK: [2012-12-05 Wed 10:55]--[2012-12-05 Wed 12:00] =>  1:05
      :END:
 <2012-12-05 Wed 11:00-12:00>
-****** DONE Plan 4-5 Gauss-Bonnet Lecture 
-       DEADLINE: <2012-12-05 Wed 11:00>
-       - State "DONE"       from "NEXT"       [2012-12-04 Tue 19:01]
-       :LOGBOOK:
-       CLOCK: [2012-12-04 Tue 18:12]--[2012-12-04 Tue 19:01] =>  0:49
-       CLOCK: [2012-12-04 Tue 16:40]--[2012-12-04 Tue 17:16] =>  0:36
-       CLOCK: [2012-12-04 Tue 15:38]--[2012-12-04 Tue 15:59] =>  0:21
-       CLOCK: [2012-12-04 Tue 15:24]--[2012-12-04 Tue 15:34] =>  0:10
-       :END:
+******* DONE Plan 4-5 Gauss-Bonnet Lecture 
+       	DEADLINE: <2012-12-05 Wed 11:00>
+       	- State "DONE"       from "NEXT"       [2012-12-04 Tue 19:01]
+       	:LOGBOOK:
+       	CLOCK: [2012-12-04 Tue 18:12]--[2012-12-04 Tue 19:01] =>  0:49
+       	CLOCK: [2012-12-04 Tue 16:40]--[2012-12-04 Tue 17:16] =>  0:36
+       	CLOCK: [2012-12-04 Tue 15:38]--[2012-12-04 Tue 15:59] =>  0:21
+       	CLOCK: [2012-12-04 Tue 15:24]--[2012-12-04 Tue 15:34] =>  0:10
+       	:END:
 
-       :PROPERTIES:
-       :ID:       d6861f57-c5ff-4f2e-8ac6-1ba67f717ed6
-       :END:
-****** DONE Prepare 4-5 Gauss-Bonnet Lecture 
-       - State "DONE"       from "NEXT"       [2012-12-05 Wed 10:55]
-       :PROPERTIES:
-       :ID:       9943b293-11cd-4c2b-972f-d872dbd2eda9
-       :END:
-***** DONE Review
+       	:PROPERTIES:
+       	:ID:       d6861f57-c5ff-4f2e-8ac6-1ba67f717ed6
+       	:END:
+******* DONE Prepare 4-5 Gauss-Bonnet Lecture 
+       	- State "DONE"       from "NEXT"       [2012-12-05 Wed 10:55]
+       	:PROPERTIES:
+       	:ID:       9943b293-11cd-4c2b-972f-d872dbd2eda9
+       	:END:
+****** DONE Review
      - State "DONE"       from "TODO"       [2012-12-07 Fri 12:02]
       <2012-12-05 Wed 10:45>
      :LOGBOOK:
@@ -2304,22 +263,22 @@ Put final exam conditions - 2 pages notes allowed.
      :END:
 <2012-12-07 Fri 11:00-12:00>
 Explain $\RR^{n+1}$.
-****** DONE Plan Review Lecture
-       - State "DONE"       from "NEXT"       [2012-12-06 Thu 14:00]
-       :PROPERTIES:
-       :ID:       d89e9800-d913-4388-a3a0-ce6d5df5f847
-       :END:
-       DEADLINE: <2012-12-07 Fri 11:00>
-****** DONE Prepare Review Lecture
-       - State "DONE"       from "NEXT"       [2012-12-07 Fri 10:58]
-       :LOGBOOK:
-       CLOCK: [2012-12-07 Fri 10:53]--[2012-12-07 Fri 10:58] =>  0:05
-       :END:
-       :PROPERTIES:
-       :ID:       7b2ba264-2d7d-42ff-9a5a-842e796ac4ef
-       :END:
+******* DONE Plan Review Lecture
+       	- State "DONE"       from "NEXT"       [2012-12-06 Thu 14:00]
+       	:PROPERTIES:
+       	:ID:       d89e9800-d913-4388-a3a0-ce6d5df5f847
+       	:END:
+       	DEADLINE: <2012-12-07 Fri 11:00>
+******* DONE Prepare Review Lecture
+       	- State "DONE"       from "NEXT"       [2012-12-07 Fri 10:58]
+       	:LOGBOOK:
+       	CLOCK: [2012-12-07 Fri 10:53]--[2012-12-07 Fri 10:58] =>  0:05
+       	:END:
+       	:PROPERTIES:
+       	:ID:       7b2ba264-2d7d-42ff-9a5a-842e796ac4ef
+       	:END:
 
-**** DONE Evaluate Bo
+***** DONE Evaluate Bo
    - State "DONE"       from "TODO"       [2013-01-08 Tue 08:27]
   :LOGBOOK:
   :END:
@@ -2328,7 +287,7 @@ Explain $\RR^{n+1}$.
    :END:
 [2012-12-21 Fri 11:51]
 
-**** DONE Enter grades
+***** DONE Enter grades
     DEADLINE: <2012-12-18 Tue> SCHEDULED: <2012-12-10 Mon>
     - State "DONE"       from "NEXT"       [2012-12-14 Fri 11:52]
     :LOGBOOK:
@@ -2339,68 +298,68 @@ Explain $\RR^{n+1}$.
     :ID:       f82b9c5a-d266-44e8-9a7f-af49c32ff0e5
     :END:
 [[http://blink.ucsd.edu/instructors/academic-info/grades/egrades.html]]
-**** DONE Make notebook and office consistent
-     - State "DONE"       from "NEXT"       [2012-12-06 Thu 16:17]
-     :PROPERTIES:
-     :ID:       cff2f790-c07f-4ac7-a654-9432bcdba178
-     :END: 
-**** CANCELLED math150a lecture log				   :COMPUTER:
-     - State "CANCELLED"  from "NEXT"       [2012-11-03 Sat 14:10] \\
-       I'm not going to get around to doing this.
-     :PROPERTIES:
-     :ID:       9152bf49-2b50-4ac9-a640-5b193d4ced49
-     :END:
-**** CANCELLED math150a notes					   :COMPUTER:
-     - State "CANCELLED"  from "NEXT"       [2012-11-03 Sat 14:11] \\
-       I'm not going to get around to doing this.
-     :PROPERTIES:
-     :ID:       f93a4094-41d2-4732-96fa-1be37fd96312
-     :END:
-     circle arc-len parametrisations
-     curve len independent of parametrisation
-     links to Hans Lindblan inverse function theorem notes?
+***** DONE Make notebook and office consistent
+      - State "DONE"       from "NEXT"       [2012-12-06 Thu 16:17]
+      :PROPERTIES:
+      :ID:       cff2f790-c07f-4ac7-a654-9432bcdba178
+      :END: 
+***** CANCELLED math150a lecture log				   :COMPUTER:
+      - State "CANCELLED"  from "NEXT"       [2012-11-03 Sat 14:10] \\
+       	I'm not going to get around to doing this.
+      :PROPERTIES:
+      :ID:       9152bf49-2b50-4ac9-a640-5b193d4ced49
+      :END:
+***** CANCELLED math150a notes					   :COMPUTER:
+      - State "CANCELLED"  from "NEXT"       [2012-11-03 Sat 14:11] \\
+       	I'm not going to get around to doing this.
+      :PROPERTIES:
+      :ID:       f93a4094-41d2-4732-96fa-1be37fd96312
+      :END:
+      circle arc-len parametrisations
+      curve len independent of parametrisation
+      links to Hans Lindblan inverse function theorem notes?
 
-**** DONE Assign math150a homework 3				   :COMPUTER:
-     - State "DONE"       from "NEXT"       [2012-10-26 Fri 14:59]
-     :PROPERTIES:
-     :ID:       a53a8975-7eae-4ed4-b625-9b95c73d2272
-     :END:
-     
-**** CANCELLED In lecture log, talk about area, Green's thm
-     - State "CANCELLED"  from "TODO"       [2012-10-18 Thu 14:46] \\
-       Not necessary
-**** DONE MATH150 Wk 3 lectures
-     - State "DONE"       from "TODO"       [2012-10-18 Thu 14:45]
-   CLOCK: [2012-10-14 Sun 20:34]--[2012-10-14 Sun 20:34] =>  0:00
-   [2012-10-14 Sun 20:34]
-**** DONE Prepare MATH150A Week 4 Lectures 
-     - State "DONE"       from "TODO"       [2012-10-29 Mon 10:25]
-   CLOCK: [2012-10-15 Mon 15:22]--[2012-10-15 Mon 15:23] =>  0:01
-     :PROPERTIES:
-     :ID:       b212184e-2cc5-4357-a1ec-7254f24a53b4
-     :END:
-   [2012-10-15 Mon 15:22]
-***** DONE Lec 1
+***** DONE Assign math150a homework 3				   :COMPUTER:
+      - State "DONE"       from "NEXT"       [2012-10-26 Fri 14:59]
+      :PROPERTIES:
+      :ID:       a53a8975-7eae-4ed4-b625-9b95c73d2272
+      :END:
+      
+***** CANCELLED In lecture log, talk about area, Green's thm
+      - State "CANCELLED"  from "TODO"       [2012-10-18 Thu 14:46] \\
+       	Not necessary
+***** DONE MATH150 Wk 3 lectures
+      - State "DONE"       from "TODO"       [2012-10-18 Thu 14:45]
+    CLOCK: [2012-10-14 Sun 20:34]--[2012-10-14 Sun 20:34] =>  0:00
+    [2012-10-14 Sun 20:34]
+***** DONE Prepare MATH150A Week 4 Lectures 
+      - State "DONE"       from "TODO"       [2012-10-29 Mon 10:25]
+    CLOCK: [2012-10-15 Mon 15:22]--[2012-10-15 Mon 15:23] =>  0:01
+      :PROPERTIES:
+      :ID:       b212184e-2cc5-4357-a1ec-7254f24a53b4
+      :END:
+    [2012-10-15 Mon 15:22]
+****** DONE Lec 1
      - State "DONE"       from "NEXT"       [2012-10-26 Fri 14:59]
      :PROPERTIES:
      :ID:       a5e99085-03d1-4a2a-b802-ec5d366f284c
      :END:
 Recap on level sets are regular
 Sec 2-3
-***** DONE Lec 2
+****** DONE Lec 2
      - State "DONE"       from "NEXT"       [2012-10-26 Fri 14:59]
      :PROPERTIES:
      :ID:       09d8e4f0-66f7-4bc7-a4fe-a26e965defb6
      :END:
 Inverse function theorem: examples, non-examples and implicit function theorem
-***** DONE Lec 3
+****** DONE Lec 3
      - State "DONE"       from "NEXT"       [2012-10-26 Fri 14:59]
      :PROPERTIES:
      :ID:       a1034819-8d45-4b63-9b60-2a72458a7d0e
      :END:
 Maybe do the [[http://www.math.ucsd.edu/~lindblad/150a/l10.pdf][Hans Lindblad contraction mapping]] stuff?
 
-**** DONE Set MATH150a mid term
+***** DONE Set MATH150a mid term
     DEADLINE: <2012-11-05 Mon -3d>
     - State "DONE"       from "WAITING"    [2012-11-04 Sun 15:36]
     - State "WAITING"    from "NEXT"       [2012-11-03 Sat 14:04] \\
@@ -2410,53 +369,53 @@ Maybe do the [[http://www.math.ucsd.edu/~lindblad/150a/l10.pdf][Hans Lindblad co
     :ID:       b3245c16-be40-47e8-8405-64bbfa9a6717
     :END:
 [2012-10-15 Mon 10:13]
-***** DONE Check math1501a Practice exams
+****** DONE Check math1501a Practice exams
      - State "DONE"       from "NEXT"       [2012-11-03 Sat 14:10]
      :PROPERTIES:
      :ID:       4eca34a2-952a-4fad-adbf-b0642cee0ffd
      :END: 
 Some are here [[http://www.math.ucsd.edu/~lindblad/150a/150a.html]]
-***** CANCELLED Get samples from Ben
-      - State "CANCELLED"  from "WAITING"    [2012-11-04 Sun 15:35] \\
-       	Wrote the mid term without needing Ben's examples.
-      - State "WAITING"    from "NEXT"       [2012-10-19 Fri 14:03] \\
-       	Ben is looking for past exams
-      :PROPERTIES:
-      :ID:       b38fd5c9-c7dc-4951-8b1f-6b0e0c7d95cb
-      :END:
+****** CANCELLED Get samples from Ben
+       - State "CANCELLED"  from "WAITING"    [2012-11-04 Sun 15:35] \\
+       	 Wrote the mid term without needing Ben's examples.
+       - State "WAITING"    from "NEXT"       [2012-10-19 Fri 14:03] \\
+       	 Ben is looking for past exams
+       :PROPERTIES:
+       :ID:       b38fd5c9-c7dc-4951-8b1f-6b0e0c7d95cb
+       :END:
 
-***** DONE Devise math150a midterm problems and write them up
-      - State "DONE"       from "NEXT"       [2012-11-03 Sat 14:10]
-      :PROPERTIES:
-      :ID:       06fb3571-c9b6-4668-8b8f-02c1fb22cd1e
-      :END:
-***** DONE Check with Holly about proctoring, blue books, general process
-      - State "DONE"       from "NEXT"       [2012-11-03 Sat 14:10]
-      :PROPERTIES:
-      :ID:       cd29cbca-0097-4424-8256-96a613819fa3
-      :END:
+****** DONE Devise math150a midterm problems and write them up
+       - State "DONE"       from "NEXT"       [2012-11-03 Sat 14:10]
+       :PROPERTIES:
+       :ID:       06fb3571-c9b6-4668-8b8f-02c1fb22cd1e
+       :END:
+****** DONE Check with Holly about proctoring, blue books, general process
+       - State "DONE"       from "NEXT"       [2012-11-03 Sat 14:10]
+       :PROPERTIES:
+       :ID:       cd29cbca-0097-4424-8256-96a613819fa3
+       :END:
 
-**** DONE Get homework scores
+***** DONE Get homework scores
     - State "DONE"       from "TODO"       [2012-10-18 Thu 14:44]
 [[https://docs.google.com/a/ucsd.edu/spreadsheet/ccc?key=0AlsrGAe5FGyBdGR3T29ERERzMm44LTRoU3R2bU13RkE&invite=CNuWms4G][Fall Math 150A]]
   CLOCK: [2012-10-18 Thu 10:44]--[2012-10-18 Thu 10:44] =>  0:00
 [2012-10-18 Thu 10:44]
 
-**** DONE Meet Bo Yang
-     - State "DONE"       from "TODO"       [2012-12-08 Sat 18:23]
-       MATH150A is over.
-     - State "DONE"       from "TODO"       [2012-12-08 Sat 18:21]
-     - State "DONE"       from "NEXT"       [2012-11-30 Fri 14:03]
-     - State "DONE"       from "TODO"       [2012-11-16 Fri 10:31]
-     - State "DONE"       from "TODO"       [2012-11-09 Fri 10:23]
-     - State "DONE"       from "TODO"       [2012-11-02 Fri 10:37]
-     - State "DONE"       from "TODO"       [2012-10-26 Fri 13:08]
-     - State "DONE"       from "TODO"       [2012-10-23 Tue 11:24]
-     :PROPERTIES:
-     :ID:       c8e2450b-bf17-4295-acdf-371ed5abd3d1
-     :LAST_REPEAT: [2012-12-08 Sat 18:22]
-     :END:
-**** DONE Write final exam
+***** DONE Meet Bo Yang
+      - State "DONE"       from "TODO"       [2012-12-08 Sat 18:23]
+       	MATH150A is over.
+      - State "DONE"       from "TODO"       [2012-12-08 Sat 18:21]
+      - State "DONE"       from "NEXT"       [2012-11-30 Fri 14:03]
+      - State "DONE"       from "TODO"       [2012-11-16 Fri 10:31]
+      - State "DONE"       from "TODO"       [2012-11-09 Fri 10:23]
+      - State "DONE"       from "TODO"       [2012-11-02 Fri 10:37]
+      - State "DONE"       from "TODO"       [2012-10-26 Fri 13:08]
+      - State "DONE"       from "TODO"       [2012-10-23 Tue 11:24]
+      :PROPERTIES:
+      :ID:       c8e2450b-bf17-4295-acdf-371ed5abd3d1
+      :LAST_REPEAT: [2012-12-08 Sat 18:22]
+      :END:
+***** DONE Write final exam
     DEADLINE: <2012-12-11 Tue>
     - State "DONE"       from "NEXT"       [2012-12-04 Tue 12:52]
     - State "NEXT"       from "WAITING"    [2012-11-30 Fri 14:52]
@@ -2477,23 +436,23 @@ Some are here [[http://www.math.ucsd.edu/~lindblad/150a/150a.html]]
     :END:
 [[file:~/working/ucsd/teaching/math150a/math150a_final.org]]
 Update this based on Bo's comments.
-**** DONE Prepare week 6 lectures
-     - State "DONE"       from "NEXT"       [2012-11-16 Fri 10:31]
-     :PROPERTIES:
-     :ID:       23d07dfe-deb0-4d41-847d-1e5794e95f90
-     :END:
-**** DONE Prepare week 7 lectures
-     - State "DONE"       from "NEXT"       [2012-11-16 Fri 10:49]
-     :PROPERTIES:
-     :ID:       31708543-605b-4ed1-8684-9717203bb8f0
-     :ORDERED:  t
-     :END:
-**** DONE Prepare week 9 lectures
-     - State "DONE"       from "NEXT"       [2012-11-30 Fri 14:04]
-     :PROPERTIES:
-     :ID:       dab37352-843a-4461-b37e-dd25870fee08
-     :END:
-**** DONE Remind students to fill in CAPE forms
+***** DONE Prepare week 6 lectures
+      - State "DONE"       from "NEXT"       [2012-11-16 Fri 10:31]
+      :PROPERTIES:
+      :ID:       23d07dfe-deb0-4d41-847d-1e5794e95f90
+      :END:
+***** DONE Prepare week 7 lectures
+      - State "DONE"       from "NEXT"       [2012-11-16 Fri 10:49]
+      :PROPERTIES:
+      :ID:       31708543-605b-4ed1-8684-9717203bb8f0
+      :ORDERED:  t
+      :END:
+***** DONE Prepare week 9 lectures
+      - State "DONE"       from "NEXT"       [2012-11-30 Fri 14:04]
+      :PROPERTIES:
+      :ID:       dab37352-843a-4461-b37e-dd25870fee08
+      :END:
+***** DONE Remind students to fill in CAPE forms
     - State "DONE"       from ""           [2012-12-05 Wed 18:34]
     :PROPERTIES:
     :ID:       069d6e27-50e2-4ca8-a675-6a81c0a6c189
@@ -2503,7 +462,7 @@ Update this based on Bo's comments.
 <2012-12-07 Fri>
 [2012-11-12 Mon 12:20]
 
-**** DONE Review midterm exams
+***** DONE Review midterm exams
     - State "DONE"       from "NEXT"       [2012-11-27 Tue 12:34]
   :LOGBOOK:
   CLOCK: [2012-11-16 Fri 10:47]--[2012-11-16 Fri 10:48] =>  0:01
@@ -2513,7 +472,7 @@ Update this based on Bo's comments.
     :END:
 [2012-11-16 Fri 10:47]
 
-**** DONE Prepare week 8 lectures
+***** DONE Prepare week 8 lectures
     - State "DONE"       from "NEXT"       [2012-11-19 Mon 12:27]
   :LOGBOOK:
   :END:
@@ -2522,7 +481,7 @@ Update this based on Bo's comments.
     :END:
 [2012-11-16 Fri 10:49]
 
-**** DONE Set MATH150A Homework 5
+***** DONE Set MATH150A Homework 5
     - State "DONE"       from "NEXT"       [2012-11-27 Tue 13:07]
   :LOGBOOK:
   CLOCK: [2012-11-27 Tue 12:35]--[2012-11-27 Tue 13:07] =>  0:32
@@ -2532,7 +491,7 @@ Update this based on Bo's comments.
   :END:
 [2012-11-27 Tue 10:00]
 
-**** DONE Plan MATH150A Week 9 Lectures
+***** DONE Plan MATH150A Week 9 Lectures
     - State "DONE"       from "NEXT"       [2012-11-30 Fri 14:04]
   :LOGBOOK:
   :END:
@@ -2541,7 +500,7 @@ Update this based on Bo's comments.
   :END:
 [2012-11-27 Tue 10:00]
 
-**** CANCELLED Plan MATH150A Week 10 Lectures
+***** CANCELLED Plan MATH150A Week 10 Lectures
     - State "CANCELLED"  from "TODO"       [2012-11-30 Fri 14:04] \\
       This is now a task listed under lectures.
   :PROPERTIES:
@@ -2549,7 +508,7 @@ Update this based on Bo's comments.
   :END:
 [2012-11-27 Tue 10:00]
 
-**** DONE Grade final exam
+***** DONE Grade final exam
     - State "DONE"       from "NEXT"       [2012-12-14 Fri 11:47]
   :LOGBOOK:
   CLOCK: [2012-12-14 Fri 11:10]--[2012-12-14 Fri 11:50] =>  0:40
@@ -2559,7 +518,7 @@ Update this based on Bo's comments.
     :END:
 [2012-12-14 Fri 11:09]
 
-**** CANCELLED Write reference for Chan Kim
+***** CANCELLED Write reference for Chan Kim
    - State "CANCELLED"  from "TODO"       [2013-01-02 Wed 09:37] \\
      He doesn't need it from me anymore
   :LOGBOOK:
@@ -2569,10 +528,2066 @@ Update this based on Bo's comments.
    :END:
 [2012-12-17 Mon 13:55]
 
-** Quarters
-*** Spring 2013
+*** Winter 2013
+**** TODO MATH142B Winter 2012					   :MATH142B:
+     - State "TODO"       from "DONE"       [2013-03-27 Wed 09:53] \\
+       Need to update a student's grade.
+     - State "DONE"       from "TODO"       [2013-03-26 Tue 20:29]
+     - State "TODO"       from "DONE"       [2013-03-26 Tue 15:58] \\
+       Not quite done yet! Two exams need to be graded.
+     - State "DONE"       from "TODO"       [2013-03-25 Mon 13:55]
+     :LOGBOOK:
+     CLOCK: [2013-02-22 Fri 07:36]--[2013-02-22 Fri 07:37] =>  0:01
+     :END:
+    :PROPERTIES:
+    :ID:       1143f380-6198-4a55-b640-8d8e9c7cfb72
+    :END:
+     [[file:~/working/ucsd/teaching/math142B_winter_2013]]
+***** Clocking
+****** MATH142B Admin
+       :LOGBOOK:
+       CLOCK: [2013-03-11 Mon 09:03]--[2013-03-11 Mon 09:05] =>  0:02
+       CLOCK: [2013-02-28 Thu 08:40]--[2013-02-28 Thu 09:00] =>  0:20
+       CLOCK: [2013-02-28 Thu 07:40]--[2013-02-28 Thu 08:15] =>  0:35
+       CLOCK: [2013-02-21 Thu 11:20]--[2013-02-21 Thu 11:43] =>  0:23
+       :END:
+****** MATH142B Lecturing
+      :LOGBOOK:
+      CLOCK: [2013-03-15 Fri 10:54]--[2013-03-15 Fri 12:05] =>  1:11
+      CLOCK: [2013-03-13 Wed 10:54]--[2013-03-13 Wed 12:05] =>  1:11
+      CLOCK: [2013-03-11 Mon 10:56]--[2013-03-11 Mon 12:00] =>  1:04
+      CLOCK: [2013-03-06 Wed 10:55]--[2013-03-06 Wed 12:01] =>  1:06
+      CLOCK: [2013-03-04 Mon 10:55]--[2013-03-04 Mon 12:01] =>  1:06
+      CLOCK: [2013-03-01 Fri 10:55]--[2013-03-01 Fri 12:25] =>  1:30
+      CLOCK: [2013-02-27 Wed 10:44]--[2013-02-27 Wed 12:01] =>  1:17
+      CLOCK: [2013-02-22 Fri 10:55]--[2013-02-22 Fri 12:04] =>  1:09
+      CLOCK: [2013-02-20 Wed 10:50]--[2013-02-20 Wed 12:04] =>  1:14
+      CLOCK: [2013-02-15 Fri 10:55]--[2013-02-15 Fri 12:06] =>  1:11
+      CLOCK: [2013-02-13 Wed 10:55]--[2013-02-13 Wed 12:00] =>  1:05
+      CLOCK: [2013-02-11 Mon 10:56]--[2013-02-11 Mon 12:00] =>  1:04
+      CLOCK: [2013-02-11 Mon 10:15]--[2013-02-11 Mon 10:34] =>  0:19
+      CLOCK: [2013-02-08 Fri 10:52]--[2013-02-08 Fri 12:24] =>  1:32
+      CLOCK: [2013-02-06 Wed 10:54]--[2013-02-06 Wed 12:10] =>  1:16
+      CLOCK: [2013-02-04 Mon 10:53]--[2013-02-04 Mon 12:03] =>  1:10
+      CLOCK: [2013-01-30 Wed 10:55]--[2013-01-30 Wed 12:07] =>  1:12
+      CLOCK: [2013-01-28 Mon 10:51]--[2013-01-28 Mon 12:07] =>  1:16
+      CLOCK: [2013-01-25 Fri 10:55]--[2013-01-25 Fri 12:10] =>  1:15
+      CLOCK: [2013-01-23 Wed 10:55]--[2013-01-23 Wed 12:10] =>  1:15
+      CLOCK: [2013-01-18 Fri 10:55]--[2013-01-18 Fri 12:10] =>  1:15
+      CLOCK: [2013-01-16 Wed 10:55]--[2013-01-16 Wed 12:20] =>  1:25
+      CLOCK: [2013-01-14 Mon 10:50]--[2013-01-14 Mon 12:05] =>  1:15
+      CLOCK: [2013-01-11 Fri 11:00]--[2013-01-11 Fri 12:05] =>  1:05
+      CLOCK: [2013-01-09 Wed 10:53]--[2013-01-09 Wed 11:56] =>  1:03
+      CLOCK: [2013-01-07 Mon 11:00]--[2013-01-07 Mon 12:00] =>  1:00
+      :END:
+      :PROPERTIES:
+      :ID:       2c1e0b59-5aae-4c8b-af38-da65f92e46e5
+      :END:
 
-*** 
+****** Office hours
+      :LOGBOOK:
+      CLOCK: [2013-03-15 Fri 12:58]--[2013-03-15 Fri 14:10] =>  1:12
+      CLOCK: [2013-03-15 Fri 10:03]--[2013-03-15 Fri 10:30] =>  0:27
+      CLOCK: [2013-03-13 Wed 10:03]--[2013-03-13 Wed 10:54] =>  0:51
+      CLOCK: [2013-03-11 Mon 09:59]--[2013-03-11 Mon 10:56] =>  0:57
+      CLOCK: [2013-03-01 Fri 13:05]--[2013-03-01 Fri 13:55] =>  0:50
+      CLOCK: [2013-03-01 Fri 10:04]--[2013-03-01 Fri 10:54] =>  0:50
+      CLOCK: [2013-02-22 Fri 12:53]--[2013-02-22 Fri 14:19] =>  1:26
+      CLOCK: [2013-02-22 Fri 10:10]--[2013-02-22 Fri 10:55] =>  0:45
+      CLOCK: [2013-02-13 Wed 10:10]--[2013-02-13 Wed 10:35] =>  0:25
+      CLOCK: [2013-01-31 Thu 13:40]--[2013-01-31 Thu 14:35] =>  0:55
+      CLOCK: [2013-01-31 Thu 11:20]--[2013-01-31 Thu 12:35] =>  1:15
+      CLOCK: [2013-01-25 Fri 10:25]--[2013-01-25 Fri 10:55] =>  0:30
+      CLOCK: [2013-01-24 Thu 10:53]--[2013-01-24 Thu 11:01] =>  0:08
+      CLOCK: [2013-01-17 Thu 11:05]--[2013-01-17 Thu 12:15] =>  1:10
+      :END:
+***** DONE Plan MATH142B course
+      - State "DONE"       from "TODO"       [2013-03-19 Tue 13:56]
+      :LOGBOOK:
+      CLOCK: [2013-01-02 Wed 10:38]--[2013-01-02 Wed 10:39] =>  0:01
+      :END:
+      :PROPERTIES:
+      :ID:       15fccd9a-a1ed-41b6-a3bb-fdb03475e91d
+      :END:
+****** DONE Get text book from Holly et. al.
+       - State "DONE"       from "NEXT"       [2012-12-11 Tue 10:16]
+       :LOGBOOK:
+       CLOCK: [2012-12-11 Tue 10:12]--[2012-12-11 Tue 10:16] =>  0:04
+       :END:
+       :PROPERTIES:
+       :ID:       02669ad2-413d-4cc6-8e4e-2024b6a3878b
+       :END:
+****** DONE Make course outline
+       SCHEDULED: <2013-01-02 Wed>
+       - State "DONE"       from "NEXT"       [2013-01-02 Wed 10:30]
+       DEADLINE: <2013-01-04 Fri>
+       :LOGBOOK:
+       CLOCK: [2013-01-02 Wed 10:10]--[2013-01-02 Wed 10:30] =>  0:20
+       CLOCK: [2013-01-02 Wed 09:35]--[2013-01-02 Wed 09:53] =>  0:18
+       CLOCK: [2012-12-11 Tue 16:15]--[2012-12-11 Tue 16:47] =>  0:32
+       CLOCK: [2012-12-11 Tue 12:08]--[2012-12-11 Tue 13:06] =>  0:57
+       CLOCK: [2012-12-11 Tue 10:16]--[2012-12-11 Tue 11:16] =>  1:00
+       CLOCK: [2012-12-10 Mon 11:08]--[2012-12-10 Mon 11:24] =>  0:16
+       CLOCK: [2012-12-10 Mon 10:20]--[2012-12-10 Mon 10:42] =>  0:22
+       CLOCK: [2012-12-10 Mon 09:35]--[2012-12-10 Mon 10:00] =>  0:25
+       :END:
+       :PROPERTIES:
+       :ID:       e2b60bcc-754d-45d4-8f67-d7d4f99353e8
+       :END:
+
+****** DONE Exams
+       - State "DONE"       from "TODO"       [2013-03-19 Tue 13:56]
+       :LOGBOOK:
+       CLOCK: [2013-02-22 Fri 07:59]--[2013-02-22 Fri 08:00] =>  0:01
+       :END:
+       :PROPERTIES:
+       :ID:       217efa3a-983c-4603-a2dc-330557b7176f
+       :END:
+******* DONE Write practice midterm exam 1 
+       	SCHEDULED: <2013-01-24 Thu>     
+       	- State "DONE"       from "NEXT"       [2013-01-28 Mon 07:22]
+       	DEADLINE: <2013-01-25 Fri>
+       	:LOGBOOK:
+       	CLOCK: [2013-01-25 Fri 10:20]--[2013-01-25 Fri 10:25] =>  0:05
+       	:END:
+       	:PROPERTIES:
+       	:ID:       453f2751-42f6-4db5-8a36-994b180f1000
+       	:END:
+******* DONE Write Midterm 1
+       	SCHEDULED: <2013-01-14 Mon>     
+       	- State "DONE"       from "WAITING"    [2013-01-31 Thu 08:55]
+       	- State "WAITING"    from "NEXT"       [2013-01-29 Tue 12:57] \\
+	  Waiting for comments from Bob.
+       	- State "NEXT"       from "WAITING"    [2013-01-28 Mon 17:19] \\
+	  Spoke with Bob Chen.
+       	- State "WAITING"    from "NEXT"       [2013-01-28 Mon 07:22] \\
+	  Talking to Bob Chen about questions.
+       	DEADLINE: <2013-01-25 Fri>
+       	:LOGBOOK:
+       	CLOCK: [2013-01-31 Thu 08:50]--[2013-01-31 Thu 08:55] =>  0:05
+       	CLOCK: [2013-01-29 Tue 12:46]--[2013-01-29 Tue 12:56] =>  0:10
+       	CLOCK: [2013-01-28 Mon 12:55]--[2013-01-28 Mon 13:20] =>  0:25
+       	CLOCK: [2013-01-28 Mon 10:24]--[2013-01-28 Mon 10:51] =>  0:27
+       	CLOCK: [2013-01-24 Thu 11:32]--[2013-01-24 Thu 12:03] =>  0:31
+       	:END:
+       	:PROPERTIES:
+       	:ID:       f28c589f-6e45-461f-a6b8-fcad6841614b
+       	:END:
+
+******* DONE Write Midterm 2
+       	SCHEDULED: <2013-02-11 Mon>
+       	- State "DONE"       from "NEXT"       [2013-02-22 Fri 07:59]
+       	- State "NEXT"       from "WAITING"    [2013-02-22 Fri 07:36]
+	  Bob gave the OK.
+       	- State "WAITING"    from "NEXT"       [2013-02-19 Tue 12:24] \\
+	  Waiting for Bob's feedback.
+       	:LOGBOOK:
+       	CLOCK: [2013-02-22 Fri 07:37]--[2013-02-22 Fri 07:45] =>  0:08
+       	CLOCK: [2013-02-18 Mon 12:35]--[2013-02-18 Mon 12:50] =>  0:15
+       	CLOCK: [2013-02-18 Mon 11:40]--[2013-02-18 Mon 12:08] =>  0:28
+       	CLOCK: [2013-02-18 Mon 10:35]--[2013-02-18 Mon 11:17] =>  0:42
+       	CLOCK: [2013-02-15 Fri 13:19]--[2013-02-15 Fri 13:24] =>  0:05
+       	:END:
+
+       	DEADLINE: <2013-02-22 Fri>
+       	:PROPERTIES:
+       	:ID:       54ef75cb-49e4-4341-8867-09abb397ca9b
+       	:END:
+******* CANCELLED Write Practice Final
+       	SCHEDULED: <2013-03-10 Sun>
+       	- State "CANCELLED"  from "NEXT"       [2013-03-10 Sun 15:49] \\
+	  Just provided links to old exams instead.
+       	DEADLINE: <2013-03-11 Mon>
+       	:PROPERTIES:
+       	:ID:       45ce5522-5bec-47f1-8e4f-8e821e842188
+       	:END:
+
+******* DONE Write Final
+       	SCHEDULED: <2013-02-25 Mon>
+       	- State "DONE"       from "NEXT"       [2013-03-16 Sat 14:41]
+       	DEADLINE: <2013-03-15 Fri>
+       	:LOGBOOK:
+       	CLOCK: [2013-03-16 Sat 13:05]--[2013-03-16 Sat 14:41] =>  1:36
+       	CLOCK: [2013-03-14 Thu 11:51]--[2013-03-14 Thu 12:34] =>  0:43
+       	CLOCK: [2013-03-10 Sun 15:04]--[2013-03-10 Sun 15:49] =>  0:45
+       	:END:
+       	:PROPERTIES:
+       	:ID:       45ce5522-5bec-47f1-8e4f-8e821e842188
+       	:END:
+******* DONE Prepare practice midterm
+  DEADLINE: <2013-02-20 Wed> SCHEDULED: <2013-02-14 Thu>
+  - State "DONE"       from "NEXT"       [2013-02-22 Fri 07:36]
+  :LOGBOOK:
+  CLOCK: [2013-02-22 Fri 07:28]--[2013-02-22 Fri 07:36] =>  0:08
+  CLOCK: [2013-02-20 Wed 20:55]--[2013-02-20 Wed 21:25] =>  0:30
+  CLOCK: [2013-02-20 Wed 13:15]--[2013-02-20 Wed 13:16] =>  0:01
+  CLOCK: [2013-02-20 Wed 13:05]--[2013-02-20 Wed 13:14] =>  0:09
+  CLOCK: [2013-02-13 Wed 13:49]--[2013-02-13 Wed 13:50] =>  0:01
+  :END:
+     :PROPERTIES:
+     :ID:       0474210c-9788-44d5-bdf4-88498062b269
+     :END:
+[2013-02-13 Wed 13:49]
+******* DONE Upload practice midterm 2
+  SCHEDULED: <2013-02-20 Wed>
+  - State "DONE"       from "TODO"       [2013-02-22 Fri 08:00]
+  :LOGBOOK:
+  CLOCK: [2013-02-20 Wed 13:14]--[2013-02-20 Wed 13:15] =>  0:01
+  :END:
+       :PROPERTIES:
+       :ID:       68ea8030-c4d5-49d6-a264-b2dcd113a116
+       :END:
+[2013-02-20 Wed 13:14]
+****** DONE Homework
+       - State "DONE"       from "TODO"       [2013-02-26 Tue 09:21]
+       :LOGBOOK:
+       :END:
+       :PROPERTIES:
+       :ID:       834ef9b6-e67a-42aa-b0c0-780e0ebfcfaf
+       :END:
+******* DONE Set Homework 1
+       	SCHEDULED: <2013-01-02 Wed>
+       	- State "DONE"       from "NEXT"       [2013-01-02 Wed 10:46]
+       	DEADLINE: <2013-01-04 Fri>
+       	:LOGBOOK:
+       	CLOCK: [2013-01-02 Wed 10:39]--[2013-01-02 Wed 10:46] =>  0:07
+       	:END:
+       	:PROPERTIES:
+       	:ID:       06696ba2-fa0c-4160-8f8c-d52c0e118378
+       	:END:
+
+******* DONE Set Homework 2
+       	SCHEDULED: <2013-01-14 Mon>
+       	- State "DONE"       from "NEXT"       [2013-01-17 Thu 17:23]
+       	:LOGBOOK:
+       	CLOCK: [2013-01-17 Thu 17:15]--[2013-01-17 Thu 17:25] =>  0:10
+       	CLOCK: [2013-01-14 Mon 10:32]--[2013-01-14 Mon 10:50] =>  0:18
+       	:END:
+
+
+       	DEADLINE: <2013-01-18 Fri>
+       	:PROPERTIES:
+       	:ID:       2f4712d3-63a0-4711-bb5b-2c310a71a761
+       	:END:
+******* DONE Set Homework 3
+       	SCHEDULED: <2013-01-28 Mon> 
+       	- State "DONE"       from "NEXT"       [2013-01-31 Thu 09:11]
+       	DEADLINE: <2013-02-01 Fri>
+       	:LOGBOOK:
+       	CLOCK: [2013-01-31 Thu 08:57]--[2013-01-31 Thu 09:11] =>  0:14
+       	:END:
+       	:PROPERTIES:
+       	:ID:       d6a0375a-2e8b-40c1-a9d3-8cd8d9aa37e2
+       	:END:
+
+******* DONE Set Homework 4
+       	SCHEDULED: <2013-02-11 Mon>
+       	- State "DONE"       from "NEXT"       [2013-02-16 Sat 19:52]
+       	DEADLINE: <2013-02-15 Fri>
+       	:LOGBOOK:
+       	CLOCK: [2013-02-15 Fri 19:31]--[2013-02-15 Fri 19:42] =>  0:11
+       	:END:
+       	:PROPERTIES:
+       	:ID:       f5011f08-eaf0-4429-9041-1f2284de87a5
+       	:END:
+
+******* DONE Set Homework 5
+       	SCHEDULED: <2013-02-25 Mon> 
+       	- State "DONE"       from "NEXT"       [2013-02-25 Mon 11:23]
+       	DEADLINE: <2013-03-01 Fri>    
+       	:LOGBOOK:
+       	CLOCK: [2013-02-25 Mon 10:59]--[2013-02-25 Mon 11:23] =>  0:24
+       	:END:
+       	:PROPERTIES:
+       	:ID:       a09fcef3-939e-41f8-bc9e-19a7f3bdea8e
+       	:END:
+
+******* DONE Update homework
+    - State "DONE"       from "NEXT"       [2013-01-08 Tue 08:52]
+  :LOGBOOK:
+  CLOCK: [2013-01-07 Mon 15:00]--[2013-01-07 Mon 15:18] =>  0:18
+  CLOCK: [2013-01-07 Mon 14:20]--[2013-01-07 Mon 14:34] =>  0:14
+  :END:
+  :PROPERTIES:
+  :ID:       54af3ec8-b699-48c8-bdfd-744e89a405a8
+  :END:
+[2013-01-07 Mon 14:20]
+
+9 questions total. Specify 4 questions to be graded. 1 mark each for completion for remaining 5.
+****** DONE Make website
+      SCHEDULED: <2013-01-02 Wed>
+      - State "DONE"       from "TODO"       [2013-01-06 Sun 18:00]
+       DEADLINE: <2013-01-04 Fri>
+       :LOGBOOK:
+       :END:
+       :PROPERTIES:
+       :ID:       6d96956c-1f73-4395-bc03-f448e8f69b73
+       :END:
+
+******* DONE Write content
+       	- State "DONE"       from "NEXT"       [2013-01-03 Thu 13:25]
+       :LOGBOOK:
+       CLOCK: [2013-01-03 Thu 13:07]--[2013-01-03 Thu 13:25] =>  0:18
+       CLOCK: [2013-01-02 Wed 10:46]--[2013-01-02 Wed 11:01] =>  0:15
+       CLOCK: [2013-01-02 Wed 09:53]--[2013-01-02 Wed 10:01] =>  0:08
+       :END:
+       	:PROPERTIES:
+       	:ID:       9e989cf2-368d-4eb8-a557-343d42fbd464
+       	:END:
+******* DONE Research org-export
+       	- State "DONE"       from "NEXT"       [2013-01-14 Mon 17:38]
+       	:PROPERTIES:
+       	:ID:       a1d54cd8-9d5a-43c4-b699-fede63f4c78b
+       	:END:
+******* DONE Write course outline
+       	- State "DONE"       from "NEXT"       [2013-01-05 Sat 11:40]
+
+       	:LOGBOOK:
+       	CLOCK: [2013-01-05 Sat 11:36]--[2013-01-05 Sat 11:40] =>  0:04
+       	CLOCK: [2013-01-05 Sat 11:26]--[2013-01-05 Sat 11:29] =>  0:03
+       	CLOCK: [2013-01-03 Thu 14:37]--[2013-01-03 Thu 15:00] =>  0:23
+       	CLOCK: [2013-01-03 Thu 13:31]--[2013-01-03 Thu 13:56] =>  0:25
+       	:END:
+       	:PROPERTIES:
+       	:ID:       ada397f8-5f7f-4a1e-8a10-4d787642130d
+       	:END:
+******* DONE Research org-publish
+       	- State "DONE"       from "NEXT"       [2013-01-05 Sat 11:03]
+       	:LOGBOOK:
+       	CLOCK: [2013-01-03 Thu 19:32]--[2013-01-03 Thu 20:01] =>  0:29
+       	CLOCK: [2013-01-03 Thu 19:21]--[2013-01-03 Thu 19:27] =>  0:06
+       	:END:
+
+       	:PROPERTIES:
+       	:ID:       5a864ba1-934c-4473-a018-6b0404c7f8a4
+       	:END:
+
+******* DONE Implement org-publish
+       	- State "DONE"       from "NEXT"       [2013-01-05 Sat 11:02]
+
+       	:LOGBOOK:
+       	CLOCK: [2013-01-03 Thu 19:13]--[2013-01-03 Thu 19:21] =>  0:08
+       	CLOCK: [2013-01-03 Thu 19:04]--[2013-01-03 Thu 19:11] =>  0:07
+       	CLOCK: [2013-01-03 Thu 14:32]--[2013-01-03 Thu 14:37] =>  0:05
+       	CLOCK: [2013-01-03 Thu 14:00]--[2013-01-03 Thu 14:28] =>  0:28
+       	:END:
+       	:PROPERTIES:
+       	:ID:       7ecb4d57-b2fc-46db-87d0-84cb0204dc22
+       	:END:
+
+******* DONE Fix up calendar table
+      - State "DONE"       from "NEXT"       [2013-01-06 Sun 14:46]
+      :LOGBOOK:
+      CLOCK: [2013-01-06 Sun 14:01]--[2013-01-06 Sun 14:46] =>  0:45
+      CLOCK: [2013-01-06 Sun 10:00]--[2013-01-06 Sun 10:37] =>  0:37
+      CLOCK: [2013-01-05 Sat 11:40]--[2013-01-05 Sat 11:58] =>  0:18
+      :END:
+      :PROPERTIES:
+      :ID:       7712e430-ce12-4c13-bede-57e4b5810ca0
+      :END:
+[[http://www.w3schools.com/css/css_table.asp]]
+[[http://coding.smashingmagazine.com/2008/08/13/top-10-css-table-designs/]]
+******* DONE Get rid of title heading
+       	- State "DONE"       from "NEXT"       [2013-01-05 Sat 11:26]
+       	:LOGBOOK:
+       	CLOCK: [2013-01-05 Sat 11:09]--[2013-01-05 Sat 11:26] =>  0:17
+       	:END:
+       	:PROPERTIES:
+       	:ID:       ce36c724-1803-470f-a1dc-551ca5a972be
+       	:END:
+******* DONE Publish
+       	- State "DONE"       from "TODO"       [2013-01-06 Sun 14:24]
+
+       	:PROPERTIES:
+       	:ID:       4a7228cb-ec14-4503-bab6-bf5396cda0bd
+       	:END:
+******* DONE Update website
+       	- State "DONE"       from "NEXT"       [2013-01-08 Tue 08:51]
+       	:LOGBOOK:
+       	CLOCK: [2013-02-05 Tue 12:21]--[2013-02-05 Tue 12:35] =>  0:14
+       	CLOCK: [2013-01-07 Mon 13:54]--[2013-01-07 Mon 14:06] =>  0:12
+       	:END:
+       	:PROPERTIES:
+       	:ID:       166cc4aa-620c-4523-b699-ca2ced33207a
+       	:END:
+
+****** DONE Plan Lectures
+       - State "DONE"       from "TODO"       [2013-03-19 Tue 13:56]
+       :LOGBOOK:
+       CLOCK: [2013-02-15 Fri 13:18]--[2013-02-15 Fri 13:19] =>  0:01
+       :END:
+       :PROPERTIES:
+       :ID:       cb6490d4-44bd-4622-8b1e-b0c7233b53e2
+       :END:
+******* DONE Week 1 Lectures
+       	DEADLINE: <2013-01-06 Sun> SCHEDULED: <2013-01-02 Wed>      
+       	- State "DONE"       from "TODO"       [2013-01-11 Fri 11:00]
+       	:PROPERTIES:
+       	:ID:       ba6bb075-0ca2-4a8c-b92e-97a363939457
+       	:END:
+
+******** DONE Prepare lecture 1-1
+       	 - State "DONE"       from "NEXT"       [2013-01-07 Mon 12:02]
+       	 :PROPERTIES:
+       	 :ID:       2dd13cd5-878c-45f5-b887-2025656d3c2a
+       	 :END:
+******** DONE Prepare lecture 1-2
+       	 - State "DONE"       from "NEXT"       [2013-01-08 Tue 14:10]
+       	 :LOGBOOK:
+       	 CLOCK: [2013-01-09 Wed 10:38]--[2013-01-09 Wed 10:53] =>  0:15
+       	 CLOCK: [2013-01-08 Tue 13:25]--[2013-01-08 Tue 14:10] =>  0:45
+       	 :END:
+       	 :PROPERTIES:
+       	 :ID:       6fdfb560-c451-49f4-8029-375abe3195c1
+       	 :END:
+******** DONE Prepare lecture 1-3
+       	 - State "DONE"       from "NEXT"       [2013-01-11 Fri 11:00]
+       	 :LOGBOOK:
+       	 CLOCK: [2013-01-11 Fri 10:30]--[2013-01-11 Fri 11:00] =>  0:30
+       	 CLOCK: [2013-01-10 Thu 11:50]--[2013-01-10 Thu 12:09] =>  0:19
+       	 CLOCK: [2013-01-10 Thu 11:10]--[2013-01-10 Thu 11:47] =>  0:37
+       	 :END:
+       	 :PROPERTIES:
+       	 :ID:       f6681d84-5682-4661-ae59-7deb55c886e3
+       	 :END:
+******* DONE Week 2 Lectures
+       	DEADLINE: <2013-01-13 Sun> SCHEDULED: <2013-01-07 Mon>
+       	- State "DONE"       from "TODO"       [2013-01-17 Thu 17:23]
+       	:PROPERTIES:
+       	:ID:       f6d6f89c-b487-491d-8a78-e0c0b58528d7
+       	:END:
+******** DONE Prepare lecture 2-1
+       	 - State "DONE"       from "NEXT"       [2013-01-13 Sun 11:04]
+       	 :LOGBOOK:
+       	 CLOCK: [2013-01-13 Sun 10:34]--[2013-01-13 Sun 11:04] =>  0:30
+       	 :END:
+       	 :PROPERTIES:
+       	 :ID:       8dadd573-ff8b-44df-ba78-ca6be94f30c1
+       	 :END:
+******** DONE Prepare lecture 2-2
+       	 - State "DONE"       from "NEXT"       [2013-01-17 Thu 15:57]
+       	 :LOGBOOK:
+       	 CLOCK: [2013-01-16 Wed 10:08]--[2013-01-16 Wed 10:41] =>  0:33
+       	 :END:
+       	 :PROPERTIES:
+       	 :ID:       0e8d94d0-dd5f-4755-b59f-e3224de25f86
+       	 :END:
+******** DONE Prepare lecture 2-3
+       	 - State "DONE"       from "NEXT"       [2013-01-17 Thu 17:23]
+       	 :LOGBOOK:
+       	 CLOCK: [2013-01-17 Thu 16:15]--[2013-01-17 Thu 16:34] =>  0:19
+       	 CLOCK: [2013-01-17 Thu 15:35]--[2013-01-17 Thu 16:12] =>  0:37
+       	 :END:
+       	 :PROPERTIES:
+       	 :ID:       c6a0022f-801e-4e45-b4bc-8404cc93ac5a
+       	 :END:
+******* DONE Week 3 Lectures
+       	DEADLINE: <2013-01-20 Sun> SCHEDULED: <2013-01-14 Mon>
+       	- State "DONE"       from "TODO"       [2013-01-24 Thu 11:23]
+       	:PROPERTIES:
+       	:ID:       fb6eda16-71c7-4e4f-a52e-08debcd12a4b
+       	:END:
+******** DONE Prepare lecture 3-2
+       	 - State "DONE"       from "NEXT"       [2013-01-22 Tue 11:50]
+       	 :LOGBOOK:
+       	 CLOCK: [2013-01-22 Tue 11:32]--[2013-01-22 Tue 11:50] =>  0:18
+       	 CLOCK: [2013-01-22 Tue 11:24]--[2013-01-22 Tue 11:25] =>  0:01
+       	 CLOCK: [2013-01-22 Tue 10:48]--[2013-01-22 Tue 10:57] =>  0:09
+       	 CLOCK: [2013-01-22 Tue 10:20]--[2013-01-22 Tue 10:44] =>  0:24
+       	 :END:
+       	 :PROPERTIES:
+       	 :ID:       14b2a55e-5d95-440a-a647-99130378dbd7
+       	 :END:
+******** DONE Prepare lecture 3-3
+       	 - State "DONE"       from "NEXT"       [2013-01-24 Thu 11:23]
+       	 :LOGBOOK:
+       	 CLOCK: [2013-01-24 Thu 11:04]--[2013-01-24 Thu 11:24] =>  0:20
+       	 CLOCK: [2013-01-24 Thu 11:01]--[2013-01-24 Thu 11:02] =>  0:01
+       	 CLOCK: [2013-01-24 Thu 10:28]--[2013-01-24 Thu 10:53] =>  0:25
+       	 :END:
+       	 :PROPERTIES:
+       	 :ID:       53280d46-7374-4db8-b5fb-c5f4fe56b278
+       	 :END:
+******* DONE Week 4 Lectures
+       	DEADLINE: <2013-01-27 Sun> SCHEDULED: <2013-01-21 Mon>
+       	- State "DONE"       from "TODO"       [2013-01-28 Mon 07:19]
+       	:PROPERTIES:
+       	:ID:       d05d375a-639f-49fe-bc9f-a0df4ed6b1ad
+       	:END:
+******** DONE Prepare lecture 4-1
+       	 - State "DONE"       from "NEXT"       [2013-01-27 Sun 13:21]
+       	 :LOGBOOK:
+       	 CLOCK: [2013-01-27 Sun 11:54]--[2013-01-27 Sun 12:14] =>  0:20
+       	 CLOCK: [2013-01-27 Sun 10:54]--[2013-01-27 Sun 11:10] =>  0:16
+       	 :END:
+       	 :PROPERTIES:
+       	 :ID:       5b00bb2d-ada5-43f5-a4b4-382750912814
+       	 :END:
+******** DONE Prepare lecture 4-2
+       	 - State "DONE"       from "NEXT"       [2013-01-28 Mon 07:19]
+       	 :PROPERTIES:
+       	 :ID:       cb6d3c78-4d1e-4218-aad5-58dcd9b5ec8f
+       	 :END:
+       	 :LOGBOOK:
+       	 CLOCK: [2013-01-27 Sun 11:17]--[2013-01-27 Sun 11:36] =>  0:19
+       	 :END:
+******** DONE Prepare lecture 4-3
+       	 - State "DONE"       from "NEXT"       [2013-01-28 Mon 07:19]
+       	 :PROPERTIES:
+       	 :ID:       9575858b-31b4-4b68-9e94-4d2b0d5669cd
+       	 :END:
+******* DONE Week 5 Lectures
+       	DEADLINE: <2013-02-03 Sun> SCHEDULED: <2013-01-28 Mon>
+       	- State "DONE"       from "TODO"       [2013-02-06 Wed 10:43]
+       	:LOGBOOK:
+       	CLOCK: [2013-02-01 Fri 12:51]--[2013-02-01 Fri 13:53] =>  1:02
+       	CLOCK: [2013-02-01 Fri 11:49]--[2013-02-01 Fri 12:05] =>  0:16
+       	:END:
+       	:PROPERTIES:
+       	:ID:       4095d747-2722-4976-b7c7-29f859d24435
+       	:END:
+******** DONE Prepare lecture 5-1
+	 - State "DONE"       from "NEXT"       [2013-02-03 Sun 19:05]
+       	 :PROPERTIES:
+       	 :ID:       22ef6e3a-e7f4-462a-b971-fce043c94e5c
+       	 :END:
+******** DONE Prepare lecture 5-2
+	 - State "DONE"       from "NEXT"       [2013-02-06 Wed 07:29]
+         :LOGBOOK:
+	 CLOCK: [2013-02-04 Mon 10:46]--[2013-02-04 Mon 10:53] =>  0:07
+	 CLOCK: [2013-02-04 Mon 09:42]--[2013-02-04 Mon 10:09] =>  0:27
+	 CLOCK: [2013-02-03 Sun 18:50]--[2013-02-03 Sun 20:03] =>  1:13
+	 CLOCK: [2013-02-03 Sun 09:15]--[2013-02-03 Sun 09:47] =>  0:32
+	 :END:
+       	 :PROPERTIES:
+       	 :ID:       85e752d4-8245-4cdd-b2af-221c32314759
+       	 :END:
+******** DONE Prepare lecture 5-3
+	 - State "DONE"       from "NEXT"       [2013-02-06 Wed 10:43]
+	 :LOGBOOK:
+	 CLOCK: [2013-02-06 Wed 10:12]--[2013-02-06 Wed 10:43] =>  0:31
+	 :END:
+       	 :PROPERTIES:
+       	 :ID:       5a93b1cc-4a21-4077-898d-9a80ce4454f3
+       	 :END:
+******* DONE Week 6 Lectures
+       	DEADLINE: <2013-02-10 Sun> SCHEDULED: <2013-02-04 Mon>
+       	- State "DONE"       from "TODO"       [2013-02-15 Fri 12:53]
+       	:PROPERTIES:
+       	:ID:       13df5819-9bc8-4698-ae0b-8e7d40f04291
+       	:END:
+******** DONE Prepare lecture 6-1
+	 - State "DONE"       from "NEXT"       [2013-02-08 Fri 15:18]
+	 :LOGBOOK:
+	 CLOCK: [2013-02-08 Fri 14:07]--[2013-02-08 Fri 14:45] =>  0:38
+	 :END:
+       	 :PROPERTIES:
+       	 :ID:       1ac9cf84-a88c-4ad2-9d5c-2448bf294c1a
+       	 :END:
+******** DONE Prepare lecture 6-2
+	 - State "DONE"       from "NEXT"       [2013-02-12 Tue 21:51]
+	 :LOGBOOK:
+	 CLOCK: [2013-02-12 Tue 21:15]--[2013-02-12 Tue 21:45] =>  0:30
+	 CLOCK: [2013-02-12 Tue 08:25]--[2013-02-12 Tue 09:05] =>  0:40
+	 :END:
+       	 :PROPERTIES:
+       	 :ID:       ec955558-0d0a-46cf-8c64-37e330fb619b
+       	 :END:
+******** DONE Prepare lecture 6-3
+	 - State "DONE"       from "NEXT"       [2013-02-15 Fri 12:51]
+	 :LOGBOOK:
+	 CLOCK: [2013-02-15 Fri 21:40]--[2013-02-15 Fri 22:45] =>  1:05
+	 :END:
+       	 :PROPERTIES:
+       	 :ID:       cdd0f5ba-382d-4c8d-86af-7ab673ef2c77
+       	 :END:
+******* DONE Week 7 Lectures
+       	DEADLINE: <2013-02-17 Sun> SCHEDULED: <2013-02-11 Mon>
+       	- State "DONE"       from "TODO"       [2013-02-17 Sun 17:39]
+       	:LOGBOOK:
+       	CLOCK: [2013-02-15 Fri 12:53]--[2013-02-15 Fri 13:18] =>  0:25
+       	:END:
+       	:PROPERTIES:
+       	:ID:       b6cce85d-073b-47ff-87e3-b321ac9c9173
+       	:END:
+******** DONE Prepare lecture 7-1
+	 - State "DONE"       from "NEXT"       [2013-02-16 Sat 19:36]
+       	 :PROPERTIES:
+       	 :ID:       592c87f7-7fe5-4847-a9c9-4c0793a5995f
+       	 :END:
+******** DONE Prepare lecture 7-2
+	 - State "DONE"       from "DONE"       [2013-02-17 Sun 17:39]
+	 - State "DONE"       from "NEXT"       [2013-02-16 Sat 19:36]
+	 :LOGBOOK:
+	 CLOCK: [2013-02-16 Sat 14:00]--[2013-02-16 Sat 14:35] =>  0:35
+	 CLOCK: [2013-02-16 Sat 10:30]--[2013-02-16 Sat 11:15] =>  0:45
+	 :END:
+
+       	 :PROPERTIES:
+       	 :ID:       f9a8188c-2c84-4c0a-95b4-68fa0b6390c4
+       	 :END:
+******** DONE Prepare lecture 7-3
+	 - State "DONE"       from "NEXT"       [2013-02-17 Sun 17:39]
+	 :LOGBOOK:
+	 CLOCK: [2013-02-17 Sun 17:25]--[2013-02-17 Sun 17:39] =>  0:14
+	 CLOCK: [2013-02-16 Sat 14:35]--[2013-02-16 Sat 15:00] =>  0:25
+	 :END:
+
+       	 :PROPERTIES:
+       	 :ID:       47d24ed2-c63f-4193-a0bb-d76f33fb577e
+       	 :END:
+******* DONE Week 8 Lectures
+       	DEADLINE: <2013-02-24 Sun> SCHEDULED: <2013-02-18 Mon>
+       	- State "DONE"       from "TODO"       [2013-02-25 Mon 10:48]
+       	:LOGBOOK:
+       	:END:
+       	:PROPERTIES:
+       	:ID:       7caeed49-8f45-4df4-80a5-50ad4cae3bc7
+       	:END:
+******** DONE Prepare lecture 8-1
+	 - State "DONE"       from "NEXT"       [2013-02-19 Tue 13:54]
+	 :PROPERTIES:
+       	 :ID:       8be202f9-391d-4692-beaa-ffa573c3d547
+       	 :END:
+******** DONE Prepare lecture 8-2
+         - State "DONE"       from "NEXT"       [2013-02-19 Tue 13:54]
+         :LOGBOOK:
+	 CLOCK: [2013-02-19 Tue 13:36]--[2013-02-19 Tue 13:54] =>  0:18
+	 CLOCK: [2013-02-19 Tue 13:10]--[2013-02-19 Tue 13:29] =>  0:19
+	 CLOCK: [2013-02-19 Tue 12:25]--[2013-02-19 Tue 12:59] =>  0:34
+	 :END:
+       	 
+       	 :PROPERTIES:
+       	 :ID:       5f9aacb9-2e74-4906-a45b-ce9b0075d8c3
+       	 :END:
+******** DONE Prepare lecture 8-3
+	 - State "DONE"       from "NEXT"       [2013-02-25 Mon 10:48]
+	 :LOGBOOK:
+	 CLOCK: [2013-02-25 Mon 10:24]--[2013-02-25 Mon 10:48] =>  0:24
+	 CLOCK: [2013-02-22 Fri 10:04]--[2013-02-22 Fri 10:10] =>  0:06
+	 CLOCK: [2013-02-20 Wed 10:26]--[2013-02-20 Wed 10:47] =>  0:21
+	 :END:
+       	 :PROPERTIES:
+       	 :ID:       d82697a4-f67e-4497-86e3-e28be4bff2e1
+       	 :END:
+******* DONE Week 9 Lectures
+       	DEADLINE: <2013-03-03 Sun> SCHEDULED: <2013-02-25 Mon>
+       	- State "DONE"       from "TODO"       [2013-03-10 Sun 11:03]
+       	:LOGBOOK:
+       	:END:
+       	:PROPERTIES:
+       	:ID:       0cf82863-ff47-4f85-9e7c-5325574f63e7
+       	:END:
+******** DONE Prepare lecture 9-1
+	 - State "DONE"       from "NEXT"       [2013-03-01 Fri 15:24]
+	 :LOGBOOK:
+	 CLOCK: [2013-03-01 Fri 14:20]--[2013-03-01 Fri 15:24] =>  1:04
+	 :END:
+       	 :PROPERTIES:
+       	 :ID:       acd4a608-a8c6-4acd-8837-43b7cb475613
+       	 :END:
+******** DONE Prepare lecture 9-2
+	 - State "DONE"       from "NEXT"       [2013-03-04 Mon 13:41]
+	 :LOGBOOK:
+	 CLOCK: [2013-03-04 Mon 13:05]--[2013-03-04 Mon 13:41] =>  0:36
+	 CLOCK: [2013-03-04 Mon 10:00]--[2013-03-04 Mon 10:55] =>  0:55
+	 :END:
+       	 :PROPERTIES:
+       	 :ID:       7582a7c1-1720-48e4-bc8b-24407260541a
+       	 :END:
+******** DONE Prepare lecture 9-3
+	 - State "DONE"       from "NEXT"       [2013-03-10 Sun 11:03]
+	 :LOGBOOK:
+	 CLOCK: [2013-03-08 Fri 10:35]--[2013-03-08 Fri 10:55] =>  0:20
+	 CLOCK: [2013-03-06 Wed 13:10]--[2013-03-06 Wed 13:40] =>  0:30
+	 CLOCK: [2013-03-04 Mon 13:41]--[2013-03-04 Mon 14:13] =>  0:32
+	 :END:
+       	 :PROPERTIES:
+       	 :ID:       7895874a-ffb2-48d9-8252-c4131d248f85
+       	 :END:
+******* DONE Week 10 Lectures
+       	DEADLINE: <2013-03-10 Sun> SCHEDULED: <2013-03-04 Mon>
+       	- State "DONE"       from "TODO"       [2013-03-13 Wed 10:53]
+       	:PROPERTIES:
+       	:ID:       0ce633a5-c530-49b7-8f10-4ee12f0f4274
+       	:END:
+******** DONE Prepare lecture 10-1
+	 - State "DONE"       from "NEXT"       [2013-03-10 Sun 11:03]
+	 :LOGBOOK:
+	 CLOCK: [2013-03-09 Sat 14:03]--[2013-03-09 Sat 14:50] =>  0:47
+	 :END:
+       	 :PROPERTIES:
+       	 :ID:       67b2f2a5-61bc-4959-b9e5-edad86e3a409
+       	 :END:
+******** DONE Prepare lecture 10-2
+	 - State "DONE"       from "NEXT"       [2013-03-10 Sun 11:04]
+	 :LOGBOOK:
+	 CLOCK: [2013-03-09 Sat 16:03]--[2013-03-09 Sat 17:04] =>  1:01
+	 :END:
+       	 :PROPERTIES:
+       	 :ID:       ee541e2f-5248-487e-8d69-b72382de8dcd
+       	 :END:
+******** DONE Prepare lecture 10-3
+	 - State "DONE"       from "NEXT"       [2013-03-13 Wed 10:53]
+       	 :PROPERTIES:
+       	 :ID:       234b6d63-fcf8-451c-8075-b327a6264425
+       	 :END:
+
+****** DONE Update Website
+       - State "DONE"       from "TODO"       [2013-02-05 Tue 13:11]
+       :PROPERTIES:
+       :ID:       10ca00ac-fd13-4f06-a801-538bef47b971
+       :END:
+******* DONE Update office hours
+       	- State "DONE"       from "NEXT"       [2013-02-04 Mon 20:55]
+       	:LOGBOOK:
+       	CLOCK: [2013-02-04 Mon 20:40]--[2013-02-04 Mon 20:55] =>  0:15
+       	:END:
+       	:PROPERTIES:
+       	:ID:       0d24d91c-4ad2-4c86-835c-fed77b99c82c
+       	:END:
+****** CANCELLED Check out podcasting course
+    - State "CANCELLED"  from "TODO"       [2013-01-07 Mon 12:03] \\
+      Won't use it for this course.
+  :LOGBOOK:
+  :END:
+    :PROPERTIES:
+    :ID:       e39a2ae1-cc16-4dd2-80bf-33d3411e89ca
+    :END:
+[2012-12-14 Fri 11:04]
+****** DONE Meet TA
+       - State "DONE"       from "TODO"       [2013-01-07 Mon 15:17]
+     :LOGBOOK:
+     CLOCK: [2013-01-07 Mon 14:34]--[2013-01-07 Mon 15:00] =>  0:26
+     CLOCK: [2013-01-07 Mon 14:10]--[2013-01-07 Mon 14:20] =>  0:10
+     :END:
+
+***** Tasks
+****** DONE Do Eval
+      - State "DONE"       from "TODO"       [2013-03-25 Mon 13:55]
+  :LOGBOOK:
+  :END:
+      :PROPERTIES:
+      :ID:       5d1c79d8-7002-4775-ac89-58f4df1790cd
+      :END:
+[2013-03-10 Sun 10:55]
+
+****** DONE Update website and office hours
+     - State "DONE"       from "DONE"       [2013-02-06 Wed 14:05]
+     - State "DONE"       from "NEXT"       [2013-02-06 Wed 10:54]
+    :LOGBOOK:
+    CLOCK: [2013-02-06 Wed 13:55]--[2013-02-06 Wed 14:05] =>  0:10
+    CLOCK: [2013-02-06 Wed 10:50]--[2013-02-06 Wed 10:54] =>  0:04
+    CLOCK: [2013-01-28 Mon 07:28]--[2013-01-28 Mon 07:29] =>  0:01
+    :END:
+    :PROPERTIES:
+    :ID:       6f6722a7-8bcf-4fab-9f0f-e3ff15b16aa8
+    :END:
+[2013-01-28 Mon 07:28]
+
+****** DONE Setup reminder for MATH142B
+   - State "DONE"       from "TODO"       [2012-10-29 Mon 10:27]
+  CLOCK: [2012-10-15 Mon 10:27]--[2012-10-15 Mon 10:28] =>  0:01
+   :PROPERTIES:
+   :ID:       351dabb7-be5d-458a-8f6b-0959ee00991d
+   :END:
+[2012-10-15 Mon 10:27]
+
+****** DONE Winter 2013 text books				   :COMPUTER:
+     - State "DONE"       from "TODO"       [2012-11-02 Fri 15:53]
+     :PROPERTIES:
+     :ID:       ca36acea-9953-4821-88a1-69ed34f77979
+     :END:
+****** DONE Update website 
+      - State "DONE"       from "TODO"       [2013-03-19 Tue 11:30]
+  :LOGBOOK:
+  CLOCK: [2013-03-14 Thu 14:18]--[2013-03-14 Thu 14:19] =>  0:01
+  :END:
+      :PROPERTIES:
+      :ID:       ca74e2d5-ee3e-4cc9-a1f3-530483da1a08
+      :END:
+[2013-03-14 Thu 14:18]
+Put final exam conditions - 2 pages notes allowed.
+****** DONE Enter grades
+       DEADLINE: <2013-03-29 Fri>
+       - State "DONE"       from "NEXT"       [2013-03-25 Mon 13:55]
+       :LOGBOOK:
+       CLOCK: [2013-03-25 Mon 12:46]--[2013-03-25 Mon 13:55] =>  1:09
+       :END:
+       :PROPERTIES:
+       :ID:       a1d053c2-a7bc-43d9-95e3-9128950f3713
+       :END:
+****** DONE Grade extra finals
+       - State "DONE"       from "NEXT"       [2013-03-26 Tue 17:06]
+       :LOGBOOK:
+       CLOCK: [2013-03-26 Tue 15:45]--[2013-03-26 Tue 17:06] =>  1:21
+       :END:
+****** NEXT Change Ziran Liu's grade to C-
+       :PROPERTIES:
+       :ID:       c015bc87-d040-4f87-bb51-2ec2c18f65d9
+       :END:
+*** Spring 2013
+**** TODO MATH20C Spring 2013				      :MATH20C:FOCUS:
+     :PROPERTIES:
+     :ID:       b7714d68-e3c3-4424-be34-62a9473108e4
+     :END:
+     [[file:~/working/ucsd/teaching/math20c_spring_2013]]
+***** Notes							      :NOTES:
+****** Cover Caleb Meier's Lectures
+LEDDN AUD
+<2013-05-24 Fri 10:00-10:50> 
+<2013-05-27 Mon 10:00-10:50> 
+****** Lectures Covered
+[2013-05-10 Fri 15:00-15:50] Caleb Meier
+[2013-05-13 Mon 15:00-15:50] Caleb Meier
+***** Tasks
+****** DONE Set up course
+       SCHEDULED: <2013-03-18 Mon> DEADLINE: <2013-04-01 Mon>
+       - State "DONE"       from "TODO"       [2013-04-01 Mon 11:34]
+       :LOGBOOK:
+       CLOCK: [2013-03-12 Tue 12:09]--[2013-03-12 Tue 12:36] =>  0:27    
+       CLOCK: [2013-03-12 Tue 11:26]--[2013-03-12 Tue 11:28] =>  0:02
+       :END:
+       :PROPERTIES:
+       :ID:       e4ea8745-1fb4-494c-bd64-2f0744d2dc30
+       :END:
+******* DONE Make org structure
+       - State "DONE"       from "NEXT"       [2013-04-01 Mon 11:36]
+       :LOGBOOK:
+       CLOCK: [2013-04-01 Mon 11:20]--[2013-04-01 Mon 11:34] =>  0:14
+       CLOCK: [2013-03-30 Sat 20:25]--[2013-03-30 Sat 20:55] =>  0:30
+       :END:
+       :PROPERTIES:
+       :ID:       5f1670be-70cf-4e0c-9db5-630dac608324
+       :END:
+Lectures in calendar and tasks like planning lectures.
+******* DONE Make schedule
+       	- State "DONE"       from "NEXT"       [2013-03-25 Mon 15:11]
+       	:LOGBOOK:
+       	CLOCK: [2013-03-20 Wed 11:45]--[2013-03-20 Wed 11:46] =>  0:01
+       	CLOCK: [2013-03-20 Wed 11:44]--[2013-03-20 Wed 11:45] =>  0:01
+       	CLOCK: [2013-03-20 Wed 10:47]--[2013-03-20 Wed 11:40] =>  0:53
+       	:END:
+       	:PROPERTIES:
+       	:ID:       ff8a1dd5-bb2a-45c8-b0e4-b6e15e93778f
+       	:END:
+****** DONE Find some one to cover for 09/05 and 11/05
+       - State "DONE"       from "WAITING"    [2013-03-20 Wed 14:33]
+       - State "WAITING"    from "NEXT"       [2013-03-20 Wed 10:46] \\
+	 Waiting on Andre Minor and Caleb Meier to respond.
+       :LOGBOOK:
+       CLOCK: [2013-03-20 Wed 13:20]--[2013-03-20 Wed 13:28] =>  0:08
+       CLOCK: [2013-03-20 Wed 10:32]--[2013-03-20 Wed 10:47] =>  0:15
+       :END:
+****** DONE Organise TA's
+       - State "DONE"       from "NEXT"       [2013-04-01 Mon 16:35]
+       :LOGBOOK:
+       CLOCK: [2013-04-01 Mon 16:24]--[2013-04-01 Mon 16:35] =>  0:11
+       :END:
+****** DONE Send bulk mail to students
+  SCHEDULED: <2013-04-01 Mon>
+  - State "DONE"       from "TODO"       [2013-04-01 Mon 21:28]
+  :LOGBOOK:
+  CLOCK: [2013-04-01 Mon 16:22]--[2013-04-01 Mon 16:23] =>  0:01
+  :END:
+      :PROPERTIES:
+      :ID:       8e637bf5-770c-4349-ab8f-7f9bf3a0e215
+      :END:
+[2013-04-01 Mon 16:22]
+****** DONE Meet TA's
+      - State "DONE"       from "NEXT"       [2013-04-03 Wed 11:25]
+      :LOGBOOK:
+      CLOCK: [2013-04-03 Wed 11:01]--[2013-04-03 Wed 11:21] =>  0:20
+      :END:
+<2013-04-03 Wed 11:00>
+
+****** NEXT Set up stats on TED for assessment
+  :LOGBOOK:
+  :END:
+  :PROPERTIES:
+  :ID:       759de22f-a2b3-434b-9ac7-5df37006f70d
+  :END:
+[2013-04-04 Thu 15:12]
+****** DONE Print out schedule etc. for course folders
+      - State "DONE"       from "NEXT"       [2013-04-09 Tue 12:33]
+  :LOGBOOK:
+  CLOCK: [2013-04-09 Tue 12:31]--[2013-04-09 Tue 12:33] =>  0:02
+  CLOCK: [2013-04-07 Sun 14:33]--[2013-04-07 Sun 14:34] =>  0:01
+  :END:
+  :PROPERTIES:
+  :ID:       8f536ff6-7697-4d83-ad49-a8a997454022
+  :END:
+[2013-04-07 Sun 14:33]
+****** NEXT Send travel plans to admin
+      DEADLINE: <2013-05-08 Wed>
+      :PROPERTIES:
+      :ID:       b550274e-3e83-4105-badc-0c04db6c2d23
+      :END:
+pebenfel@math.ucsd.edu
+drichards@math.ucsd.edu
+Send exact dates of travel, destination/purpose of trip, and arrangements made for meeting classes
+****** TODO Find someone to cover Math20C lecture
+  :LOGBOOK:
+  :END:
+[2013-04-15 Mon 20:31]
+****** DONE Spring 2013 text books
+       DEADLINE: <2013-02-01 Fri>
+       - State "DONE"       from "NEXT"       [2013-02-01 Fri 11:39]
+       :LOGBOOK:
+       CLOCK: [2013-02-01 Fri 11:27]--[2013-02-01 Fri 11:39] =>  0:12
+       :END:
+       :PROPERTIES:
+       :ID:       59315c52-b03c-4ab2-be4e-d91eae1ad433
+       :END:
+
+***** Clocking							   :CLOCKING:
+****** Admin
+       :LOGBOOK:
+       CLOCK: [2013-04-04 Thu 13:35]--[2013-04-04 Thu 14:36] =>  1:01
+       :END:
+****** Office hours
+       :LOGBOOK:
+       CLOCK: [2013-04-12 Fri 11:17]--[2013-04-12 Fri 12:11] =>  0:54
+       :END:
+***** Lectures							   :LECTURES:
+****** Location
+WLH 2001
+****** Lecture 01.1
+      :LOGBOOK:
+      CLOCK: [2013-04-01 Mon 14:50]--[2013-04-01 Mon 16:13] =>  1:23
+      :END:
+      :PROPERTIES:
+      :ID:       48c8e91a-98d6-4e8e-aa76-09a049368898
+      :END:
+<2013-04-01 Mon 15:00-16:00>
+******* DONE Prepare lecture 
+       	- State "DONE"       from "NEXT"       [2013-03-27 Wed 20:26]
+       :LOGBOOK:
+       CLOCK: [2013-03-27 Wed 09:30]--[2013-03-27 Wed 09:45] =>  0:15
+       CLOCK: [2013-03-27 Wed 08:45]--[2013-03-27 Wed 09:10] =>  0:25
+       CLOCK: [2013-03-27 Wed 08:07]--[2013-03-27 Wed 08:30] =>  0:23
+       :END:
+
+****** Lecture 01.2
+      :LOGBOOK:
+      CLOCK: [2013-04-03 Wed 14:40]--[2013-04-03 Wed 16:10] =>  1:30
+      :END:
+      :PROPERTIES:
+      :ID:       488c7003-1639-40c7-9f29-6b362addda1f
+      :END:
+<2013-04-03 Wed 15:00-16:00>
+******* DONE Prepare lecture
+       	- State "DONE"       from "NEXT"       [2013-04-01 Mon 11:19]
+       	:PROPERTIES:
+       	:ID:       608e698a-5fab-4b48-8461-e6db228b115b
+       	:END:
+****** Lecture 01.3
+      :LOGBOOK:
+      CLOCK: [2013-04-05 Fri 14:50]--[2013-04-05 Fri 16:10] =>  1:20
+      :END:
+      :PROPERTIES:
+      :ID:       9e6aaf01-146b-485d-9b09-1e49b7d85075
+      :END:
+
+<2013-04-05 Fri 15:00-16:00>
+******* DONE Prepare lecture
+       	- State "DONE"       from "NEXT"       [2013-04-01 Mon 11:19]
+       	:PROPERTIES:
+       	:ID:       83c17c4d-a52d-44d2-bb08-60df7350eb08
+       	:END:
+****** Lecture 02.1
+:LOGBOOK:
+CLOCK: [2013-04-08 Mon 15:00]--[2013-04-08 Mon 16:12] =>  0:59
+:END:
+      :PROPERTIES:
+      :ID:       61f1c2f2-c3c2-4ab3-8ced-f96540385b3c
+      :END:
+<2013-04-08 Mon 15:00-16:00>
+******* DONE Prepare lecture
+       	DEADLINE: <2013-04-08 Mon>
+       	- State "DONE"       from "NEXT"       [2013-04-07 Sun 15:45]
+       	:LOGBOOK:
+       	CLOCK: [2013-04-07 Sun 15:36]--[2013-04-07 Sun 15:45] =>  0:09
+       	CLOCK: [2013-04-07 Sun 14:49]--[2013-04-07 Sun 15:16] =>  0:27
+       	CLOCK: [2013-04-07 Sun 14:34]--[2013-04-07 Sun 14:44] =>  0:10
+       	CLOCK: [2013-04-07 Sun 14:18]--[2013-04-07 Sun 14:33] =>  0:15
+       	:END:
+       	:PROPERTIES:
+       	:ID:       ff6696aa-379e-447f-b684-b8466bb23e35
+       	:END:
+
+****** Lecture 02.2
+      :LOGBOOK:
+      CLOCK: [2013-04-10 Wed 14:50]--[2013-04-10 Wed 16:05] =>  1:15
+      :END:
+      :PROPERTIES:
+      :ID:       94c92bc9-724c-441e-9fe4-e9b2c1ca8e9f
+      :END:
+<2013-04-10 Wed 15:00-16:00>
+******* DONE Prepare lecture
+       	DEADLINE: <2013-04-10 Wed>
+       	- State "DONE"       from "NEXT"       [2013-04-09 Tue 14:35]
+       	:LOGBOOK:
+       	CLOCK: [2013-04-09 Tue 13:59]--[2013-04-09 Tue 14:35] =>  0:36
+       	:END:
+       	:PROPERTIES:
+       	:ID:       da1ecd2e-5cb7-4fa7-8359-9a2fa0353d72
+       	:END:
+****** Lecture 02.3
+      :PROPERTIES:
+      :ID:       3a12ccfb-d9c0-4ead-8c48-1fca9c7e85ee
+      :END:
+<2013-04-12 Fri 15:00-16:00>
+******* DONE Prepare lecture
+       	DEADLINE: <2013-04-12 Fri>
+       	- State "DONE"       from "NEXT"       [2013-04-12 Fri 09:08]
+       	:PROPERTIES:
+       	:ID:       e4ea0e0c-864e-419f-9469-afe29245f1df
+       	:END:
+****** Lecture 03.1
+<2013-04-15 Mon 15:00-16:00>
+******* DONE Prepare lecture
+       	DEADLINE: <2013-04-15 Mon>
+       	- State "DONE"       from "NEXT"       [2013-04-17 Wed 11:58]
+       	:PROPERTIES:
+       	:ID:       9bd15697-9158-459b-bda5-911c6e3376cf
+       	:END:
+****** Lecture 03.2
+<2013-04-17 Wed 15:00-16:00>
+******* DONE Prepare lecture
+       	DEADLINE: <2013-04-17 Wed>
+       	- State "DONE"       from "NEXT"       [2013-04-18 Thu 11:06]
+       	:PROPERTIES:
+       	:ID:       4641c67f-178e-4aa2-9102-0e4a6f285c91
+       	:END:
+****** Lecture 03.3
+<2013-04-19 Fri 15:00-16:00>
+******* NEXT Prepare lecture
+       	DEADLINE: <2013-04-19 Fri>
+       	:PROPERTIES:
+       	:ID:       a1025480-ffcb-4f34-abb4-7ac09c821730
+       	:END:
+****** Lecture 04.1
+<2013-04-22 Mon 15:00-16:00>
+******* NEXT Prepare lecture
+       	DEADLINE: <2013-04-22 Mon>
+       	:PROPERTIES:
+       	:ID:       7aad3794-ce84-4c8a-82d4-f1416f445989
+       	:END:
+****** Lecture 04.2
+<2013-04-24 Wed 15:00-16:00>
+******* NEXT Prepare lecture
+       	DEADLINE: <2013-04-24 Wed>
+       	:PROPERTIES:
+       	:ID:       24d15ffd-1198-484f-8009-962bd14754ac
+       	:END:
+****** Lecture 04.3
+<2013-04-26 Fri 15:00-16:00>
+******* NEXT Prepare lecture
+       	DEADLINE: <2013-04-26 Fri>
+       	:PROPERTIES:
+       	:ID:       a59b83fe-a781-421d-bbda-102cff8341c2
+       	:END:
+****** Lecture 05.1
+<2013-04-29 Mon 15:00-16:00>
+******* NEXT Prepare lecture
+       	DEADLINE: <2013-04-29 Mon>
+       	:PROPERTIES:
+       	:ID:       a5d2f24b-4f91-4a7d-aec7-723cfefc2142
+       	:END:
+****** Lecture 05.2
+<2013-05-01 Wed 15:00-16:00>
+******* NEXT Prepare lecture
+       	DEADLINE: <2013-05-01 Wed>
+       	:PROPERTIES:
+       	:ID:       838fc192-8e1e-4d49-bb76-f75c2f59b520
+       	:END:
+****** Lecture 05.3
+<2013-05-03 Fri 15:00-16:00>
+******* NEXT Prepare lecture
+       	DEADLINE: <2013-05-03 Fri>
+       	:PROPERTIES:
+       	:ID:       5ebf9744-855a-49b7-a05c-32e65659fe9e
+       	:END:
+****** Lecture 06.1
+<2013-05-06 Mon 15:00-16:00>
+******* NEXT Prepare lecture
+       	DEADLINE: <2013-05-06 Mon>
+       	:PROPERTIES:
+       	:ID:       4ca89fdb-6889-4a84-b6ec-86e204b11c34
+       	:END:
+****** Lecture 06.2
+<2013-05-08 Wed 15:00-16:00>
+******* NEXT Prepare lecture
+       	DEADLINE: <2013-05-08 Wed>
+       	:PROPERTIES:
+       	:ID:       ed583869-0ee2-4174-95f6-6aba89e855c2
+       	:END:
+****** Lecture 06.3
+<2013-05-10 Fri 15:00-16:00>
+******* NEXT Prepare lecture
+       	DEADLINE: <2013-05-10 Fri>
+       	:PROPERTIES:
+       	:ID:       193b8bf6-d7e4-4b00-b2ee-93a190a5248e
+       	:END:
+****** Lecture 07.1
+<2013-05-13 Mon 15:00-16:00>
+******* NEXT Prepare lecture
+       	DEADLINE: <2013-05-13 Mon>
+       	:PROPERTIES:
+       	:ID:       6f8fc8f0-7551-4da7-aee5-47f9251f2bc1
+       	:END:
+****** Lecture 07.2
+<2013-05-15 Wed 15:00-16:00>
+******* NEXT Prepare lecture
+       	DEADLINE: <2013-05-15 Wed>
+       	:PROPERTIES:
+       	:ID:       5f80ad95-133b-433d-a7b3-4bd7951c49f4
+       	:END:
+****** Lecture 07.3
+<2013-05-17 Fri 15:00-16:00>
+******* NEXT Prepare lecture
+       	DEADLINE: <2013-05-17 Fri>
+       	:PROPERTIES:
+       	:ID:       4fc592e5-2cf5-4d24-9636-08a42652fdcb
+       	:END:
+****** Lecture 08.1
+<2013-05-20 Mon 15:00-16:00>
+******* NEXT Prepare lecture
+       	DEADLINE: <2013-05-20 Mon>
+       	:PROPERTIES:
+       	:ID:       f4400b89-f0b7-4b41-a48e-ed8f5d4adf54
+       	:END:
+****** Lecture 08.2
+<2013-05-22 Wed 15:00-16:00>
+******* NEXT Prepare lecture
+       	DEADLINE: <2013-05-22 Wed>
+       	:PROPERTIES:
+       	:ID:       19ca1ce0-bf63-4b05-9425-ab5efc34714d
+       	:END:
+****** Lecture 08.3
+<2013-05-24 Fri 15:00-16:00>
+******* NEXT Prepare lecture
+       	DEADLINE: <2013-05-24 Fri>
+       	:PROPERTIES:
+       	:ID:       eef560ce-ee41-4290-aa71-4d022bf87461
+       	:END:
+****** Lecture 09.1
+<2013-05-27 Mon 15:00-16:00>
+******* NEXT Prepare lecture
+       	DEADLINE: <2013-05-27 Mon>
+       	:PROPERTIES:
+       	:ID:       e5df2318-ca0a-4bbe-9b9b-0040e1af036a
+       	:END:
+****** Lecture 09.2
+<2013-05-29 Wed 15:00-16:00>
+******* NEXT Prepare lecture
+       	DEADLINE: <2013-05-29 Wed>
+       	:PROPERTIES:
+       	:ID:       f342e3fa-da7d-4108-9bd7-8f8cf15e2fa0
+       	:END:
+****** Lecture 09.3
+<2013-05-31 Fri 15:00-16:00>
+******* NEXT Prepare lecture
+       	DEADLINE: <2013-05-31 Fri>
+       	:PROPERTIES:
+       	:ID:       0de61db0-6150-494e-b022-9fd843f34712
+       	:END:
+****** Lecture 10.1
+<2013-06-03 Mon 15:00-16:00>
+******* NEXT Prepare lecture
+       	DEADLINE: <2013-06-03 Mon>
+       	:PROPERTIES:
+       	:ID:       4dd596b3-9553-4c7d-9f58-c0ac74f3906c
+       	:END:
+****** Lecture 10.2
+<2013-06-05 Wed 15:00-16:00>
+******* NEXT Prepare lecture
+       	DEADLINE: <2013-06-05 Wed>
+       	:PROPERTIES:
+       	:ID:       8836acd8-5f6f-4413-9c80-59335ab3a52a
+       	:END:
+****** Lecture 10.3
+<2013-06-07 Fri 15:00-16:00>
+******* NEXT Prepare lecture
+       	DEADLINE: <2013-06-07 Fri>
+       	:PROPERTIES:
+       	:ID:       965091b8-c67d-406e-b6a9-ea484f242592
+       	:END:
+***** Exams							      :EXAMS:
+****** Midterm 1
+******* NEXT Write Midterm 1
+       	DEADLINE: <2013-04-24 Wed>
+       	:PROPERTIES:
+       	:ID:       130cbac1-0924-430e-9e18-e86c3251edd0
+       	:END:
+****** Midterm 2
+******* NEXT Write Midterm 2
+       	DEADLINE: <2013-05-20 Mon>
+       	:PROPERTIES:
+       	:ID:       13ed4a3c-4d9a-4e9a-8524-56bf7bb7c089
+       	:END:
+****** Final
+******* NEXT Write Final
+       	DEADLINE: <2013-06-05 Wed>
+       	:PROPERTIES:
+       	:ID:       7365f941-36cb-4b8f-af0b-32d795e33de9
+       	:END:
+***** Homework							   :HOMEWORK:
+****** Homework 1
+******* DONE Set Homework 01
+       	DEADLINE: <2013-04-03 Wed>
+       	- State "DONE"       from "NEXT"       [2013-04-03 Wed 17:30]
+       	:LOGBOOK:
+       	CLOCK: [2013-04-03 Wed 16:22]--[2013-04-03 Wed 17:29] =>  1:07
+       	CLOCK: [2013-04-03 Wed 14:19]--[2013-04-03 Wed 14:40] =>  0:21
+       	CLOCK: [2013-04-03 Wed 11:21]--[2013-04-03 Wed 12:05] =>  0:44
+       	CLOCK: [2013-04-03 Wed 10:57]--[2013-04-03 Wed 11:01] =>  0:04
+       	:END:
+       	:PROPERTIES:
+       	:ID:       e50730dc-0570-411c-8ef3-885cdeef1103
+       	:END:
+
+****** Homework 2
+******* DONE Set Homework 02
+       	DEADLINE: <2013-04-12 Fri>
+       	- State "DONE"       from "NEXT"       [2013-04-16 Tue 20:52]
+       	:LOGBOOK:
+       	CLOCK: [2013-04-16 Tue 20:23]--[2013-04-16 Tue 20:52] =>  0:29
+       	:END:
+       	:PROPERTIES:
+       	:ID:       6dd254a4-584d-454c-b4c5-0504ebd1fc78
+       	:END:
+
+****** Homework 3
+******* NEXT Set Homework 03
+       	DEADLINE: <2013-04-26 Fri>
+       	:PROPERTIES:
+       	:ID:       cd20affb-236e-41a1-b99c-81bc0363e0c7
+       	:END:
+
+****** Homework 4
+******* NEXT Set Homework 04
+       	DEADLINE: <2013-05-10 Fri>
+       	:PROPERTIES:
+       	:ID:       7a405722-577c-40a1-ae51-5a871a657613
+       	:END:
+
+****** Homework 5
+******* NEXT Set Homework 05
+       	DEADLINE: <2013-05-24 Fri>
+       	:PROPERTIES:
+       	:ID:       0be961ca-b6a6-46e6-8f40-999705c0e649
+       	:END:
+
+****** NEXT Change homework due time to 4pm
+  :LOGBOOK:
+  :END:
+  :PROPERTIES:
+  :ID:       8a99b95b-0a55-43cd-a1e6-ab39add3f79a
+  :END:
+[2013-04-04 Thu 15:12]
+***** Website
+****** DONE Make website
+       - State "DONE"       from "NEXT"       [2013-03-20 Wed 16:17]
+       :LOGBOOK:
+       CLOCK: [2013-03-20 Wed 15:50]--[2013-03-20 Wed 16:17] =>  0:27
+       CLOCK: [2013-03-20 Wed 15:20]--[2013-03-20 Wed 15:47] =>  0:27
+       CLOCK: [2013-03-20 Wed 14:46]--[2013-03-20 Wed 15:12] =>  0:26
+       CLOCK: [2013-03-20 Wed 13:56]--[2013-03-20 Wed 14:21] =>  0:25
+       CLOCK: [2013-03-20 Wed 13:29]--[2013-03-20 Wed 13:54] =>  0:25
+       :END:
+
+****** DONE Update grade composition
+       - State "DONE"       from "NEXT"       [2013-04-01 Mon 11:49]
+       :LOGBOOK:
+       CLOCK: [2013-04-01 Mon 11:44]--[2013-04-01 Mon 11:49] =>  0:05
+       :END:
+****** DONE Create TED Site
+      - State "DONE"       from "NEXT"       [2013-04-04 Thu 13:58]
+      :PROPERTIES:
+      :ID:       d2a86ccc-cf75-421b-b747-691794c372cb
+      :END:
+- Quizzes
+- Link to course home
+- Discussion Forums
+
+****** DONE Clairify homework/quiz process
+       - State "DONE"       from "NEXT"       [2013-04-05 Fri 11:47]
+       :LOGBOOK:
+       CLOCK: [2013-04-05 Fri 11:15]--[2013-04-05 Fri 11:47] =>  0:32
+       :END:
+       :PROPERTIES:
+       :ID:       93065af9-f7ec-498e-8316-3348e8e31aa5
+       :END:
+****** DONE Add TA's to TED
+       - State "DONE"       from "HOLD"       [2013-04-12 Fri 11:14]
+       - State "HOLD"       from "NEXT"       [2013-04-04 Thu 14:12] \\
+	 Emailed ACMS request to set it up.
+       :PROPERTIES:
+       :ID:       bdd19ccf-b641-498c-bc46-9970ac3c2f29
+       :END:
+****** DONE Add Grader's to TED with access to grade book
+      - State "DONE"       from "NEXT"       [2013-04-12 Fri 11:14]
+      :PROPERTIES:
+      :ID:       5838d30c-a03c-4068-8f24-f81d7fd6154b
+      :END:
+- Send email request as per instruction email in my inbox.
+****** DONE Put TA info on website
+       - State "DONE"       from "NEXT"       [2013-04-08 Mon 16:37]
+       :LOGBOOK:
+       CLOCK: [2013-04-08 Mon 16:32]--[2013-04-08 Mon 16:37] =>  0:05
+       :END:
+****** NEXT Update calendar
+       :PROPERTIES:
+       :ID:       1522fd48-57f5-4597-953f-5c634508d876
+       :END:
+****** NEXT Set up gradebook
+***** Quizzes							       :QUIZ:
+****** Quiz 01
+******* DONE Set quiz 
+       	DEADLINE: <2013-03-31 Sun>
+       	- State "DONE"       from "NEXT"       [2013-03-31 Sun 21:55]
+       	:LOGBOOK:
+       	CLOCK: [2013-03-31 Sun 20:39]--[2013-03-31 Sun 21:55] =>  1:16
+       	CLOCK: [2013-03-31 Sun 16:13]--[2013-03-31 Sun 17:31] =>  1:18
+       	CLOCK: [2013-03-30 Sat 21:02]--[2013-03-30 Sat 21:11] =>  0:09
+       	:END:
+       	:PROPERTIES:
+       	:ID:       c91a889a-6e75-4bc8-b164-ac20ea8c0b6f
+       	:END:
+******* Questions
+- 12.1.3
+- 12.1.6
+- 12.2.3
+- 12.2.5
+- 12.3.3
+- 12.3.6
+****** Quiz 02
+******* DONE Set quiz 
+       	DEADLINE: <2013-04-05 Fri>
+       	- State "DONE"       from "NEXT"       [2013-04-08 Mon 11:09]
+       	:LOGBOOK:
+       	CLOCK: [2013-04-08 Mon 10:52]--[2013-04-08 Mon 11:09] =>  0:17
+       	CLOCK: [2013-04-08 Mon 10:05]--[2013-04-08 Mon 10:35] =>  0:30
+       	CLOCK: [2013-04-08 Mon 09:27]--[2013-04-08 Mon 10:00] =>  0:33
+       	CLOCK: [2013-04-07 Sun 15:54]--[2013-04-07 Sun 16:13] =>  0:19
+       	:END:
+       	:PROPERTIES:
+       	:ID:       99ba4062-f73c-4652-8677-17abc4d19580
+       	:END:
+******* Questions       
+****** Quiz 03
+******* DONE Set quiz 
+       	DEADLINE: <2013-04-10 Wed>
+       	- State "DONE"       from "NEXT"       [2013-04-09 Tue 15:22]
+       	:LOGBOOK:
+       	CLOCK: [2013-04-09 Tue 14:49]--[2013-04-09 Tue 15:22] =>  0:33
+       	:END:
+       	:PROPERTIES:
+       	:ID:       b32166f6-6acf-415b-b484-db379e1b8f2a
+       	:END:
+******* Questions
+
+****** Quiz 04
+******* DONE Set quiz 
+       	DEADLINE: <2013-04-17 Wed>
+       	:LOGBOOK:
+       	CLOCK: [2013-04-17 Wed 20:44]--[2013-04-17 Wed 20:57] =>  0:13
+       	:END:
+       	- State "DONE"       from "NEXT"       [2013-04-17 Wed 20:37]
+       	:PROPERTIES:
+       	:ID:       80b1a1ab-93e8-471b-b40c-32fc4fcaf52d
+       	:END:
+******* Questions
+
+****** Quiz 05
+******* NEXT Set quiz 
+       	DEADLINE: <2013-04-24 Wed>
+       	:PROPERTIES:
+       	:ID:       2a808063-e084-4c35-ab2e-bf3263c5e0fe
+       	:END:
+******* Questions
+
+****** Quiz 06
+******* NEXT Set quiz 
+       	DEADLINE: <2013-05-01 Wed>
+       	:PROPERTIES:
+       	:ID:       d4b00fad-fc84-4735-a397-f59302495730
+       	:END:
+******* Questions
+
+****** Quiz 07
+******* NEXT Set quiz 
+       	DEADLINE: <2013-05-08 Wed>
+       	:PROPERTIES:
+       	:ID:       4097b249-f5cc-46af-aab4-f918e55b6b99
+       	:END:
+******* Questions
+
+****** Quiz 08
+******* NEXT Set quiz 
+       	DEADLINE: <2013-05-15 Wed>
+       	:PROPERTIES:
+       	:ID:       cfe439a6-ad6e-4e9b-87bd-58980f5abdc9
+       	:END:
+******* Questions
+
+****** Quiz 09
+******* NEXT Set quiz 
+       	DEADLINE: <2013-05-22 Wed>
+       	:PROPERTIES:
+       	:ID:       ce473fc3-e7f4-4afe-8329-3b3cf9775479
+       	:END:
+******* Questions
+
+****** Quiz 10
+******* NEXT Set quiz 
+       	DEADLINE: <2013-05-29 Wed>
+       	:PROPERTIES:
+       	:ID:       2d7fa15f-8f43-4fad-af54-c66a08479319
+       	:END:
+******* Questions
+
+****** DONE Change quiz due time to Mon 11am
+  - State "DONE"       from "TODO"       [2013-04-05 Fri 16:38]
+  :LOGBOOK:
+  :END:
+  :PROPERTIES:
+  :ID:       75780c3b-a0b4-4657-a13b-ccccf5829c62
+  :END:
+[2013-04-04 Thu 15:12]
+****** NEXT Put quiz problems on Website
+  :LOGBOOK:
+  :END:
+      :PROPERTIES:
+      :ID:       85507982-8c3a-4774-ba05-d59bc2147301
+      :END:
+[2013-04-05 Fri 16:44]
+**** TODO MATH20D Spring 2013				      :MATH20D:FOCUS:
+    :LOGBOOK:
+    :END:
+    :PROPERTIES:
+    :ID:       01742e1a-c15f-4aab-ada0-59725c2e73e4
+    :END:
+[[file:~/working/ucsd/teaching/math20d_spring_2013]]
+***** Notes							      :NOTES:
+****** Prerequisites
+Student's have not done linear algebra yet so systems are tricky. However, on the $2x2$ case is needed.
+****** MATLAB
+MATLAB is homework.
+****** Cover Bo Li's Lectures
+CENTR 115
+<2013-05-01 Wed 11:00-11:50>
+****** Lectures Covered
+[2013-05-10 Fri 13:00-13:50] 
+[2013-05-13 Mon 13:00-13:50] Bo Li
+***** Tasks
+****** DONE Set up course
+       SCHEDULED: <2013-03-18 Mon> DEADLINE: <2013-04-01 Mon>      
+       - State "DONE"       from "TODO"       [2013-04-01 Mon 11:35]
+       :PROPERTIES:
+       :ID:       e4ea8745-1fb4-494c-bd64-2f0744d2dc30
+       :END:
+******* DONE Make org structure
+       - State "DONE"       from "NEXT"       [2013-04-01 Mon 11:34]
+       :LOGBOOK:
+       CLOCK: [2013-04-01 Mon 11:02]--[2013-04-01 Mon 11:04] =>  0:02
+       CLOCK: [2013-04-01 Mon 11:05]--[2013-04-01 Mon 11:20] =>  0:15
+       :END:
+       :PROPERTIES:
+       :ID:       5ad4ae3e-8428-4bf7-b824-4529a029af51
+       :END:
+Lectures in calendar and tasks like planning lectures.
+******* DONE Make schedule
+       	- State "DONE"       from "NEXT"       [2013-03-25 Mon 21:01]
+       	:LOGBOOK:
+       	CLOCK: [2013-03-25 Mon 20:15]--[2013-03-25 Mon 21:01] =>  0:46
+       	CLOCK: [2013-03-25 Mon 15:21]--[2013-03-25 Mon 15:38] =>  0:17
+       	:END:
+       	:PROPERTIES:
+       	:ID:       6e61cacf-e959-46f6-9594-a1d237f03753
+       	:END:
+****** DONE Find some one to cover for 09/05 and 11/05
+       - State "DONE"       from "WAITING"    [2013-03-30 Sat 20:42]
+       - State "WAITING"    from "NEXT"       [2013-03-20 Wed 10:46] \\
+	 Waiting on Bo Li to respond.
+       :PROPERTIES:
+       :ID:       c0e6c741-3695-4f33-b08d-2084e46807fd
+       :END:
+
+****** DONE Organise TA's
+       - State "DONE"       from "NEXT"       [2013-04-01 Mon 16:45]
+       :LOGBOOK:
+       CLOCK: [2013-04-01 Mon 16:35]--[2013-04-01 Mon 16:45] =>  0:10
+       :END:
+****** DONE Send bulk mail to students
+  SCHEDULED: <2013-04-01 Mon>
+  - State "DONE"       from "TODO"       [2013-04-01 Mon 21:28]
+  :LOGBOOK:
+  :END:
+      :PROPERTIES:
+      :ID:       57b28dba-0a74-4d0a-b486-9cd6b8db413f
+      :END:
+[2013-04-01 Mon 16:23]
+- Discussions
+- Homework
+- Quiz
+****** DONE Meet TA's
+      :LOGBOOK:
+      CLOCK: [2013-04-04 Thu 13:10]--[2013-04-04 Thu 13:35] =>  0:25
+      :END:
+      - State "DONE"       from "TODO"       [2013-04-04 Thu 13:47]
+      :PROPERTIES:
+      :ID:       e361de6d-f497-434c-8740-ba92b3530218
+      :END:
+<2013-04-04 Thu 13:30>
+****** NEXT Set up stats on TED for assessment
+  :LOGBOOK:
+  :END:
+  :PROPERTIES:
+  :ID:       759de22f-a2b3-434b-9ac7-5df37006f70d
+  :END:
+[2013-04-04 Thu 15:12]
+****** DONE Print out schedule etc. for course folders
+       - State "DONE"       from "NEXT"       [2013-04-09 Tue 13:34]
+   :LOGBOOK:
+   CLOCK: [2013-04-07 Sun 14:33]--[2013-04-07 Sun 14:34] =>  0:01
+   :END:
+   :PROPERTIES:
+   :ID:       8f536ff6-7697-4d83-ad49-a8a997454022
+   :END:
+       [2013-04-07 Sun 14:33]
+****** NEXT Send travel plans to admin
+      DEADLINE: <2013-05-08 Wed>
+      :PROPERTIES:
+      :ID:       5ca2e63f-ebf8-4c2e-8d96-10ae659df04e
+      :END:
+pebenfel@math.ucsd.edu
+drichards@math.ucsd.edu
+Send exact dates of travel, destination/purpose of trip, and arrangements made for meeting classes
+***** Clocking							   :CLOCKING:
+****** Admin
+****** Office hours
+       :LOGBOOK:
+       CLOCK: [2013-04-12 Fri 09:59]--[2013-04-12 Fri 10:17] =>  0:18
+       CLOCK: [2013-04-10 Wed 11:09]--[2013-04-10 Wed 11:57] =>  0:48
+       CLOCK: [2013-04-08 Mon 11:18]--[2013-04-08 Mon 11:54] =>  0:36
+       :END:
+***** Lectures							   :LECTURES:
+****** Location
+Center 119
+****** Lecture 01.1
+      :LOGBOOK:
+      CLOCK: [2013-04-01 Mon 12:50]--[2013-04-01 Mon 14:05] =>  1:15
+      :END:
+      :PROPERTIES:
+      :ID:       2261bdcb-0f48-4461-9bc9-81ab2c9dbf5b
+      :END:
+<2013-04-01 Mon 13:00-14:00>
+******* DONE Prepare lecture 
+       	- State "DONE"       from "NEXT"       [2013-03-26 Tue 20:26]
+       :LOGBOOK:
+       CLOCK: [2013-03-26 Tue 10:45]--[2013-03-26 Tue 12:30] =>  1:45
+       :END:
+
+****** Lecture 01.2
+      :LOGBOOK:
+      CLOCK: [2013-04-03 Wed 12:55]--[2013-04-03 Wed 14:12] =>  1:17
+      :END:
+      :PROPERTIES:
+      :ID:       f45dde05-015c-451f-88ce-20cca5550f7f
+      :END:
+<2013-04-03 Wed 13:00-14:00>
+******* DONE Prepare lecture
+       	- State "DONE"       from "NEXT"       [2013-04-01 Mon 11:19]
+       	:PROPERTIES:
+       	:ID:       e754bbd6-cb08-4608-bb74-9726ef93bee9
+       	:END:
+****** Lecture 01.3
+      :LOGBOOK:
+      CLOCK: [2013-04-05 Fri 12:50]--[2013-04-05 Fri 14:10] =>  1:20
+      :END:
+      :PROPERTIES:
+      :ID:       3e1cc666-11c5-4a0a-b9f3-d9758bf7e70b
+      :END:
+<2013-04-05 Fri 13:00-14:00>
+******* DONE Prepare lecture
+       	- State "DONE"       from "NEXT"       [2013-04-01 Mon 11:19]
+       	:PROPERTIES:
+       	:ID:       226fd287-4eaf-4c14-a079-d9a56a057f00
+       	:END:
+       	:LOGBOOK:
+       	CLOCK: [2013-04-05 Fri 14:10]--[2013-04-05 Fri 14:50] =>  0:40
+       	:END:
+****** Lecture 02.1
+      :LOGBOOK:
+      CLOCK: [2013-04-08 Mon 12:50]--[2013-04-08 Mon 14:05] =>  1:15
+      :END:
+      :PROPERTIES:
+      :ID:       ebef3e18-c0c7-4e4a-a9f2-198979aca6c3
+      :END:
+
+<2013-04-08 Mon 13:00-14:00>
+******* DONE Prepare lecture
+       	DEADLINE: <2013-04-08 Mon>
+       	- State "DONE"       from "NEXT"       [2013-04-07 Sun 14:28]
+       	:LOGBOOK:
+       	CLOCK: [2013-04-07 Sun 13:32]--[2013-04-07 Sun 14:13] =>  0:41
+       	CLOCK: [2013-04-07 Sun 12:50]--[2013-04-07 Sun 13:19] =>  0:29
+       	:END:
+       	:PROPERTIES:
+       	:ID:       6271dcfb-ac58-47f5-bb8a-d383fc2f8683
+       	:END:
+****** Lecture 02.2
+      :LOGBOOK:
+      CLOCK: [2013-04-10 Wed 12:50]--[2013-04-10 Wed 14:10] =>  1:20
+      :END:
+      :PROPERTIES:
+      :ID:       98c68dcf-a9d8-496e-a8e1-16becf226fde
+      :END:
+<2013-04-10 Wed 13:00-14:00>
+******* DONE Prepare lecture
+       	DEADLINE: <2013-04-10 Wed>
+       	- State "DONE"       from "NEXT"       [2013-04-09 Tue 13:36]
+       	:LOGBOOK:
+       	CLOCK: [2013-04-09 Tue 12:33]--[2013-04-09 Tue 13:36] =>  1:03
+       	:END:
+       	:PROPERTIES:
+       	:ID:       ab1bf1f0-fd0b-4cec-abdf-255104977fe1
+       	:END:
+****** Lecture 02.3
+      :PROPERTIES:
+      :ID:       e5a24160-c2df-4e07-8d90-afa9e734a76f
+      :END:
+<2013-04-12 Fri 13:00-14:00>
+******* DONE Prepare lecture
+       	DEADLINE: <2013-04-12 Fri>
+       	- State "DONE"       from "NEXT"       [2013-04-11 Thu 16:24]
+       	:LOGBOOK:
+       	CLOCK: [2013-04-11 Thu 15:55]--[2013-04-11 Thu 16:24] =>  0:29
+       	CLOCK: [2013-04-11 Thu 13:35]--[2013-04-11 Thu 15:01] =>  1:26
+       	:END:
+       	:PROPERTIES:
+       	:ID:       53e1522f-00a7-4045-bd19-90c64b427660
+       	:END:
+****** Lecture 03.1
+<2013-04-15 Mon 13:00-14:00>
+******* DONE Prepare lecture
+       	DEADLINE: <2013-04-15 Mon>
+       	- State "DONE"       from "NEXT"       [2013-04-17 Wed 11:58]
+       	:LOGBOOK:
+       	CLOCK: [2013-04-12 Fri 12:12]--[2013-04-12 Fri 12:39] =>  0:27
+       	:END:
+       	:PROPERTIES:
+       	:ID:       e60d6479-c93c-40af-b54b-3f4c23dd90db
+       	:END:
+****** Lecture 03.2
+<2013-04-17 Wed 13:00-14:00>
+******* DONE Prepare lecture
+       	DEADLINE: <2013-04-17 Wed>
+       	- State "DONE"       from "NEXT"       [2013-04-18 Thu 11:07]
+       	:PROPERTIES:
+       	:ID:       63656879-f20a-4ec9-822a-034809a28dae
+       	:END:
+****** Lecture 03.3
+<2013-04-19 Fri 13:00-14:00>
+******* NEXT Prepare lecture
+       	DEADLINE: <2013-04-19 Fri>
+       	:LOGBOOK:
+       	CLOCK: [2013-04-17 Wed 20:57]--[2013-04-17 Wed 21:09] =>  0:12
+       	:END:
+       	:PROPERTIES:
+       	:ID:       ca7d462e-035f-4f2b-9966-204092282220
+       	:END:
+****** Lecture 04.1
+<2013-04-22 Mon 13:00-14:00>
+******* NEXT Prepare lecture
+       	DEADLINE: <2013-04-22 Mon>
+       	:PROPERTIES:
+       	:ID:       3de35963-e3c3-4ccc-869c-7f9a40638d16
+       	:END:
+****** Lecture 04.2
+<2013-04-24 Wed 13:00-14:00>
+******* NEXT Prepare lecture
+       	DEADLINE: <2013-04-24 Wed>
+       	:PROPERTIES:
+       	:ID:       1515b7ec-445d-4ef6-bb63-86782a51fda0
+       	:END:
+****** Lecture 04.3
+<2013-04-26 Fri 13:00-14:00>
+******* NEXT Prepare lecture
+       	DEADLINE: <2013-04-26 Fri>
+       	:PROPERTIES:
+       	:ID:       a0f11393-96fb-4122-9c0e-951fca6d2ee7
+       	:END:
+****** Lecture 05.1
+<2013-04-29 Mon 13:00-14:00>
+******* NEXT Prepare lecture
+       	DEADLINE: <2013-04-29 Mon>
+       	:PROPERTIES:
+       	:ID:       db813566-02a4-4268-8a62-06a6d1aa2e47
+       	:END:
+****** Lecture 05.2
+<2013-05-01 Wed 13:00-14:00>
+******* NEXT Prepare lecture
+       	DEADLINE: <2013-05-01 Wed>
+       	:PROPERTIES:
+       	:ID:       bccc60bb-a402-4a55-be3e-a5acf31f427b
+       	:END:
+****** Lecture 05.3
+<2013-05-03 Fri 13:00-14:00>
+******* NEXT Prepare lecture
+       	DEADLINE: <2013-05-03 Fri>
+       	:PROPERTIES:
+       	:ID:       1a7d2d41-04d9-449e-8c72-a5b778d4723a
+       	:END:
+****** Lecture 06.1
+<2013-05-06 Mon 13:00-14:00>
+******* NEXT Prepare lecture
+       	DEADLINE: <2013-05-06 Mon>
+       	:PROPERTIES:
+       	:ID:       38902878-8b22-4086-8847-c8df8dc3d326
+       	:END:
+****** Lecture 06.2
+<2013-05-08 Wed 13:00-14:00>
+******* NEXT Prepare lecture
+       	DEADLINE: <2013-05-08 Wed>
+       	:PROPERTIES:
+       	:ID:       7e560fcc-f279-4226-900c-8bc800183bc7
+       	:END:
+****** Lecture 06.3
+<2013-05-10 Fri 13:00-14:00>
+******* NEXT Prepare lecture
+       	DEADLINE: <2013-05-10 Fri>
+       	:PROPERTIES:
+       	:ID:       588c3b63-d64d-44a0-bd9f-32ccd8156206
+       	:END:
+****** Lecture 07.1
+<2013-05-13 Mon 13:00-14:00>
+******* NEXT Prepare lecture
+       	DEADLINE: <2013-05-13 Mon>
+       	:PROPERTIES:
+       	:ID:       4f49ad37-5f4e-4d4c-bf73-509cfdfc82d1
+       	:END:
+****** Lecture 07.2
+<2013-05-15 Wed 13:00-14:00>
+******* NEXT Prepare lecture
+       	DEADLINE: <2013-05-15 Wed>
+       	:PROPERTIES:
+       	:ID:       28cdc15c-2a99-4cdc-8db9-fd7cb333164b
+       	:END:
+****** Lecture 07.3
+<2013-05-17 Fri 13:00-14:00>
+******* NEXT Prepare lecture
+       	DEADLINE: <2013-05-17 Fri>
+       	:PROPERTIES:
+       	:ID:       eb7bc9d4-b6b6-44a7-93d6-3a40c79a636f
+       	:END:
+****** Lecture 08.1
+<2013-05-20 Mon 13:00-14:00>
+******* NEXT Prepare lecture
+       	DEADLINE: <2013-05-20 Mon>
+       	:PROPERTIES:
+       	:ID:       7f52fe34-f1c1-44c1-bdf7-25cd8c7b6416
+       	:END:
+****** Lecture 08.2
+<2013-05-22 Wed 13:00-14:00>
+******* NEXT Prepare lecture
+       	DEADLINE: <2013-05-22 Wed>
+       	:PROPERTIES:
+       	:ID:       11fea151-eaf7-49bf-a6f3-9ee5f24a7da9
+       	:END:
+****** Lecture 08.3
+<2013-05-24 Fri 13:00-14:00>
+******* NEXT Prepare lecture
+       	DEADLINE: <2013-05-24 Fri>
+       	:PROPERTIES:
+       	:ID:       bf6e0264-66a8-4193-bc46-8ea534d0a388
+       	:END:
+****** Lecture 09.1
+<2013-05-27 Mon 13:00-14:00>
+******* NEXT Prepare lecture
+       	DEADLINE: <2013-05-27 Mon>
+       	:PROPERTIES:
+       	:ID:       bdf6dd6b-b2b9-44b7-b0ea-21bf6da8810c
+       	:END:
+****** Lecture 09.2
+<2013-05-29 Wed 13:00-14:00>
+******* NEXT Prepare lecture
+       	DEADLINE: <2013-05-29 Wed>
+       	:PROPERTIES:
+       	:ID:       42f0a163-47d2-4fcd-a774-a347af125652
+       	:END:
+****** Lecture 09.3
+<2013-05-31 Fri 13:00-14:00>
+******* NEXT Prepare lecture
+       	DEADLINE: <2013-05-31 Fri>
+       	:PROPERTIES:
+       	:ID:       f08b1bf0-a228-46a7-a4a2-5bc29312da70
+       	:END:
+****** Lecture 10.1
+<2013-06-03 Mon 13:00-14:00>
+******* NEXT Prepare lecture
+       	DEADLINE: <2013-06-03 Mon>
+       	:PROPERTIES:
+       	:ID:       3760b816-c5ad-41b2-8322-f2146383f656
+       	:END:
+****** Lecture 10.2
+<2013-06-05 Wed 13:00-14:00>
+******* NEXT Prepare lecture
+       	DEADLINE: <2013-06-05 Wed>
+       	:PROPERTIES:
+       	:ID:       766da1ae-f2df-4d76-a844-40a6310e79c6
+       	:END:
+****** Lecture 10.3
+<2013-06-07 Fri 13:00-14:00>
+******* NEXT Prepare lecture
+       	DEADLINE: <2013-06-07 Fri>
+       	:PROPERTIES:
+       	:ID:       7910c8fb-5ac7-47cc-a653-99046f467819
+       	:END:
+
+***** Exams							      :EXAMS:
+****** Midterm 1
+******* NEXT Write Midterm 1
+       	DEADLINE: <2013-04-24 Wed>
+       	:PROPERTIES:
+       	:ID:       556d42e6-8573-4c7d-aa80-a24c2748fcb0
+       	:END:
+****** Midterm 2
+******* NEXT Write Midterm 2
+       	DEADLINE: <2013-05-17 Fri>
+       	:PROPERTIES:
+       	:ID:       2f9b9e2c-61c2-412d-ad1f-e59cc3583371
+       	:END:
+****** Final
+******* NEXT Write Final
+       	DEADLINE: <2013-06-05 Wed>
+       	:PROPERTIES:
+       	:ID:       57a79f76-de1a-4020-a99a-ed40e3c5d1db
+       	:END:
+***** Homework							   :HOMEWORK:
+****** Homework 1
+******* DONE Set Homework 01
+       	DEADLINE: <2013-04-03 Wed>
+       	- State "DONE"       from "NEXT"       [2013-04-04 Thu 21:43]
+       	:LOGBOOK:
+       	CLOCK: [2013-04-04 Thu 18:42]--[2013-04-04 Thu 19:35] =>  0:53
+       	:END:
+       	:PROPERTIES:
+       	:ID:       62fa4fb5-0e7b-4082-b8d6-27f9b15c4c33
+       	:END:
+
+****** Homework 2
+******* DONE Set Homework 02
+       	DEADLINE: <2013-04-12 Fri>
+       	- State "DONE"       from "NEXT"       [2013-04-12 Fri 11:11]
+       	:LOGBOOK:
+       	CLOCK: [2013-04-12 Fri 10:46]--[2013-04-12 Fri 11:11] =>  0:25
+       	:END:
+       	:PROPERTIES:
+       	:ID:       a605b39d-4e19-4649-81ca-19e6d2dca4c9
+       	:END:
+
+****** Homework 3
+******* NEXT Set Homework 03
+       	DEADLINE: <2013-04-26 Fri>
+       	:PROPERTIES:
+       	:ID:       c2e0c6bd-7867-4b08-98a6-3525312b7e7f
+       	:END:
+
+****** Homework 4
+******* NEXT Set Homework 04
+       	DEADLINE: <2013-05-10 Fri>
+       	:PROPERTIES:
+       	:ID:       c4736943-b755-4fdd-b0d6-522c2eab877d
+       	:END:
+
+****** Homework 5
+******* NEXT Set Homework 05
+       	DEADLINE: <2013-05-24 Fri>
+       	:PROPERTIES:
+       	:ID:       11083b9b-09dc-46c6-82d5-2e084e51f163
+       	:END:
+
+****** NEXT Change homework due time to 4pm
+  :LOGBOOK:
+  :END:
+  :PROPERTIES:
+  :ID:       8a99b95b-0a55-43cd-a1e6-ab39add3f79a
+  :END:
+[2013-04-04 Thu 15:12]
+***** Website
+****** DONE Make Website
+       - State "DONE"       from "NEXT"           [2013-03-29 Fri 14:19]
+       	:LOGBOOK:
+       	CLOCK: [2013-03-25 Mon 15:38]--[2013-03-25 Mon 16:02] =>  0:24
+       	:END:
+       	:PROPERTIES:
+       	:ID:       56c62e50-94a7-4c6b-8cb9-d0bb22ac3325
+       	:END: 
+
+****** DONE Update grade composition
+       - State "DONE"       from "NEXT"       [2013-04-01 Mon 11:44]
+       :LOGBOOK:
+       CLOCK: [2013-04-01 Mon 11:40]--[2013-04-01 Mon 11:44] =>  0:04
+       :END:
+****** DONE Create TED Site
+      - State "DONE"       from "NEXT"       [2013-04-04 Thu 13:58]
+      :PROPERTIES:
+      :ID:       5e11f204-3dfa-44c1-b070-4dd3ade87b57
+      :END:
+- Quizzes
+- Link to course home
+- Discussion Forums
+
+****** DONE Clairify homework/quiz process
+       - State "DONE"       from "NEXT"       [2013-04-05 Fri 12:10]
+       :LOGBOOK:
+       CLOCK: [2013-04-05 Fri 11:48]--[2013-04-05 Fri 12:10] =>  0:22
+       :END:
+       :PROPERTIES:
+       :ID:       d86999b0-c85b-4aca-baca-90bdf0c15cf5
+       :END:
+
+****** DONE Put TA info on website
+       - State "DONE"       from "NEXT"       [2013-04-08 Mon 16:32]
+       :LOGBOOK:
+       CLOCK: [2013-04-08 Mon 16:20]--[2013-04-08 Mon 16:32] =>  0:12
+       :END:
+****** DONE Grant graders access to TED grade book
+      - State "DONE"       from "NEXT"       [2013-04-12 Fri 11:14]
+      - State "NEXT"       from "HOLD"       [2013-04-05 Fri 11:48]
+      - State "HOLD"       from "NEXT"       [2013-04-04 Thu 14:12] \\
+	Emailed ACMS request to set it up.
+      :PROPERTIES:
+      :ID:       fbdd1a20-2bf7-4ad0-91e5-1c52ac79c7b8
+      :END:
+- Send email request as per instruction email in my inbox.
+****** NEXT Update calendar
+       :LOGBOOK:
+       CLOCK: [2013-04-12 Fri 11:16]--[2013-04-12 Fri 11:17] =>  0:01
+       :END:
+       :PROPERTIES:
+       :ID:       3ac1d520-8449-4724-8f4e-9086c73ed5fe
+       :END:
+****** NEXT Set up gradebook
+***** Quizzes							       :QUIZ:
+****** Quiz 01
+******* DONE Set quiz 
+       	DEADLINE: <2013-04-01 Mon>
+       	- State "DONE"       from "DONE"       [2013-04-04 Thu 22:10]
+       	- State "DONE"       from "NEXT"       [2013-04-04 Thu 21:43]
+       	:PROPERTIES:
+       	:ID:       e0a6cf2b-492b-4ecb-92a9-a36c04b4d0be
+       	:END:
+******* Questions
+****** Quiz 02
+******* DONE Set quiz 
+       	DEADLINE: <2013-04-05 Fri>
+       	- State "DONE"       from "NEXT"       [2013-04-04 Thu 22:12]
+       	:LOGBOOK:
+       	CLOCK: [2013-04-04 Thu 21:57]--[2013-04-04 Thu 22:11] =>  0:14
+       	CLOCK: [2013-04-04 Thu 20:35]--[2013-04-04 Thu 21:55] =>  1:20
+       	:END:
+       	:PROPERTIES:
+       	:ID:       1c9452f4-13fb-428b-8780-9a92cc905004
+       	:END:
+******* Questions
+
+****** Quiz 03
+******* DONE Set quiz 
+       	DEADLINE: <2013-04-10 Wed>
+       	- State "DONE"       from "NEXT"       [2013-04-10 Wed 11:40]
+       	:LOGBOOK:
+       	CLOCK: [2013-04-10 Wed 10:07]--[2013-04-10 Wed 11:09] =>  1:02
+       	:END:
+       	:PROPERTIES:
+       	:ID:       09ea871a-f3e7-4b41-8923-ced3d5dd02e2
+       	:END:
+******* Questions
+
+****** Quiz 04
+******* DONE Set quiz 
+       	DEADLINE: <2013-04-17 Wed>
+       	- State "DONE"       from "NEXT"       [2013-04-17 Wed 20:37]
+       	:PROPERTIES:
+       	:ID:       37d9d549-2b33-4ff7-9b09-312ace69d011
+       	:END:
+******* Questions
+
+****** Quiz 05
+******* NEXT Set quiz 
+       	DEADLINE: <2013-04-24 Wed>
+       	:PROPERTIES:
+       	:ID:       e4887be3-aa2b-493b-a02e-e83ca77951c3
+       	:END:
+******* Questions
+
+****** Quiz 06
+******* NEXT Set quiz 
+       	DEADLINE: <2013-05-01 Wed>
+       	:PROPERTIES:
+       	:ID:       6652046a-37df-49ea-9859-c3cb1c8d76ed
+       	:END:
+******* Questions
+
+****** Quiz 07
+******* NEXT Set quiz 
+       	DEADLINE: <2013-05-08 Wed>
+       	:PROPERTIES:
+       	:ID:       c0fc7838-ed8c-4a28-a9fd-b841d25b8bfc
+       	:END:
+******* Questions
+
+****** Quiz 08
+******* NEXT Set quiz 
+       	DEADLINE: <2013-05-15 Wed>
+       	:PROPERTIES:
+       	:ID:       1273c21b-476b-4e8c-8274-63d5536e1521
+       	:END:
+******* Questions
+
+****** Quiz 09
+******* NEXT Set quiz 
+       	DEADLINE: <2013-05-22 Wed>
+       	:PROPERTIES:
+       	:ID:       e0245b6f-6ca1-443a-893d-8e8914a2c59f
+       	:END:
+******* Questions
+
+****** Quiz 10
+******* NEXT Set quiz 
+       	DEADLINE: <2013-05-29 Wed>
+       	:PROPERTIES:
+       	:ID:       851033c1-a87b-499a-9a9b-afbfcbd2ddcd
+       	:END:
+******* Questions
+
+****** NEXT Put quiz problems on Website
+  :LOGBOOK:
+  :END:
+      :PROPERTIES:
+      :ID:       f4f14009-c8c5-4a07-8999-c5e83e2da9ff
+      :END:
+[2013-04-05 Fri 16:44]
+
+*** Summer 2013
+**** TODO MATH142B
+**** TODO MATH20D
+*** Fall 2013
+**** TODO MATH150A
+**** Tasks
+***** NEXT Order Text Books
+      DEADLINE: <2013-05-01 Wed>
+
+*** Winter 2014
+**** TODO MATH150B
+**** TODO MATH10A
+*** Spring 2014
+**** TODO MATH10B
+
 ** Professional Development
 *** TODO Check out Center for Teaching Development
     :PROPERTIES:
