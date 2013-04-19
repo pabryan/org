@@ -343,8 +343,12 @@ CLOCK: [2013-04-08 Mon 15:00]--[2013-04-08 Mon 16:12] =>  0:59
        :END:
 ***** Lecture 03.3
 <2013-04-19 Fri 15:00-16:00>
-****** NEXT Prepare lecture
+****** DONE Prepare lecture
        DEADLINE: <2013-04-19 Fri>
+       - State "DONE"       from "NEXT"       [2013-04-19 Fri 10:38]
+       :LOGBOOK:
+       CLOCK: [2013-04-19 Fri 09:55]--[2013-04-19 Fri 10:38] =>  0:43
+       :END:
        :PROPERTIES:
        :ID:       a1025480-ffcb-4f34-abb4-7ac09c821730
        :END:
@@ -972,9 +976,11 @@ Center 119
        :END:
 ***** Lecture 03.3
 <2013-04-19 Fri 13:00-14:00>
-****** NEXT Prepare lecture
+****** DONE Prepare lecture
        DEADLINE: <2013-04-19 Fri>
+       - State "DONE"       from "NEXT"       [2013-04-18 Thu 20:45]
        :LOGBOOK:
+       CLOCK: [2013-04-18 Thu 19:50]--[2013-04-18 Thu 20:45] =>  0:55
        CLOCK: [2013-04-17 Wed 20:57]--[2013-04-17 Wed 21:09] =>  0:12
        :END:
        :PROPERTIES:
