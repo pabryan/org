@@ -120,6 +120,8 @@ Lectures in calendar and tasks like planning lectures.
 **** Clocking
 **** Calendar
 *** TODO MATH20C Spring 2013				      :MATH20C:FOCUS:
+    :LOGBOOK:
+    :END:
     :PROPERTIES:
     :ID:       b7714d68-e3c3-4424-be34-62a9473108e4
     :END:
@@ -221,6 +223,9 @@ Send exact dates of travel, destination/purpose of trip, and arrangements made f
 ***** TODO Find someone to cover Math20C lecture
   :LOGBOOK:
   :END:
+      :PROPERTIES:
+      :ID:       694f4f47-993d-4d20-8320-c606cddd5831
+      :END:
 [2013-04-15 Mon 20:31]
 **** Clocking 							   :CLOCKING:
 ***** Admin
@@ -342,6 +347,9 @@ CLOCK: [2013-04-08 Mon 15:00]--[2013-04-08 Mon 16:12] =>  0:59
        :ID:       4641c67f-178e-4aa2-9102-0e4a6f285c91
        :END:
 ***** Lecture 03.3
+      :PROPERTIES:
+      :ID:       c29c5963-23a6-4bcf-9a76-bc42e22f9c9f
+      :END:
 <2013-04-19 Fri 15:00-16:00>
 ****** DONE Prepare lecture
        DEADLINE: <2013-04-19 Fri>
@@ -508,6 +516,9 @@ CLOCK: [2013-04-08 Mon 15:00]--[2013-04-08 Mon 16:12] =>  0:59
        :END:
 ****** NEXT Prepare Practice midterm 1
        DEADLINE: <2013-04-21 Sun>
+       :PROPERTIES:
+       :ID:       1484a613-6652-4057-8b5b-22c8d6a37c77
+       :END:
 ***** Midterm 2
 ****** NEXT Write Midterm 2
        DEADLINE: <2013-05-20 Mon>
@@ -625,11 +636,18 @@ CLOCK: [2013-04-08 Mon 15:00]--[2013-04-08 Mon 16:12] =>  0:59
       :LOGBOOK:
       CLOCK: [2013-04-08 Mon 16:32]--[2013-04-08 Mon 16:37] =>  0:05
       :END:
-***** NEXT Update calendar
+***** DONE Update calendar
+      - State "DONE"       from "NEXT"       [2013-04-19 Fri 11:35]
+      :LOGBOOK:
+      CLOCK: [2013-04-19 Fri 10:59]--[2013-04-19 Fri 11:35] =>  0:36
+      :END:
       :PROPERTIES:
       :ID:       1522fd48-57f5-4597-953f-5c634508d876
       :END:
 ***** NEXT Set up gradebook
+      :PROPERTIES:
+      :ID:       173c9345-ff55-4b4a-8270-ad24e83b07a8
+      :END:
 **** Quizzes							       :QUIZ:
 ***** Quiz 01
 ****** DONE Set quiz 
@@ -977,6 +995,9 @@ Center 119
        :ID:       63656879-f20a-4ec9-822a-034809a28dae
        :END:
 ***** Lecture 03.3
+      :PROPERTIES:
+      :ID:       b8e905c8-087d-4e57-9c5d-923e50843c90
+      :END:
 <2013-04-19 Fri 13:00-14:00>
 ****** DONE Prepare lecture
        DEADLINE: <2013-04-19 Fri>
@@ -1145,6 +1166,9 @@ Center 119
        :END:
 ****** NEXT Prepare Practice midterm 1
        DEADLINE: <2013-04-21 Sun>
+       :PROPERTIES:
+       :ID:       89e706cd-d3ad-405e-a729-62e36f437ea6
+       :END:
 ***** Midterm 2
 ****** NEXT Write Midterm 2
        DEADLINE: <2013-05-17 Fri>
@@ -1263,6 +1287,9 @@ Center 119
       :ID:       3ac1d520-8449-4724-8f4e-9086c73ed5fe
       :END:
 ***** NEXT Set up gradebook
+      :PROPERTIES:
+      :ID:       cf1a7eae-47e6-4c66-9107-3fc0a4b5d59a
+      :END:
 **** Quizzes							       :QUIZ:
 ***** Quiz 01
 ****** DONE Set quiz 
