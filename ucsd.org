@@ -1747,8 +1747,9 @@ CLOCK: [2013-04-08 Mon 15:00]--[2013-04-08 Mon 16:12] =>  0:59
        	:PROPERTIES:
        	:ID:       130cbac1-0924-430e-9e18-e86c3251edd0
        	:END:
-******* NEXT Prepare Practice midterm 1
+******* DONE Prepare Practice midterm 1
                DEADLINE: <2013-04-21 Sun>
+	       - State "DONE"       from "NEXT"       [2013-04-21 Sun 12:45]
                :PROPERTIES:
                :ID:       1484a613-6652-4057-8b5b-22c8d6a37c77
                :END:
@@ -2391,8 +2392,9 @@ Center 119
        	:PROPERTIES:
        	:ID:       556d42e6-8573-4c7d-aa80-a24c2748fcb0
        	:END:
-******* NEXT Prepare Practice midterm 1
+******* DONE Prepare Practice midterm 1
         DEADLINE: <2013-04-21 Sun>
+	- State "DONE"       from "NEXT"       [2013-04-21 Sun 12:45]
         :PROPERTIES:
         :ID:       89e706cd-d3ad-405e-a729-62e36f437ea6
         :END:
