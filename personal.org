@@ -576,8 +576,10 @@ Healthy habits. I want to keep on track with living well and so need reminders t
    :ID:       6d4fde96-4332-45d7-a22c-5d6777c63752
    :END:
 [2013-01-05 Sat 13:12]
-** TODO Make Physio appointment 
+** CANCELLED Make Physio appointment 
   SCHEDULED: <2013-03-19 Tue> DEADLINE: <2013-04-01 Tue>
+  - State "CANCELLED"  from "TODO"       [2013-04-21 Sun 11:58] \\
+    Doesn't look like I'm going to do it.
   :LOGBOOK:
   CLOCK: [2013-02-01 Fri 11:46]--[2013-02-01 Fri 11:47] =>  0:01
   :END:

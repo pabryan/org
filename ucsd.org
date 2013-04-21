@@ -1451,8 +1451,6 @@ pebenfel@math.ucsd.edu
 drichards@math.ucsd.edu
 Send exact dates of travel, destination/purpose of trip, and arrangements made for meeting classes
 ****** TODO Find someone to cover Math20C lecture
-  :LOGBOOK:
-  :END:
 [2013-04-15 Mon 20:31]
 ****** DONE Spring 2013 text books
        DEADLINE: <2013-02-01 Fri>
@@ -1586,8 +1584,12 @@ CLOCK: [2013-04-08 Mon 15:00]--[2013-04-08 Mon 16:12] =>  0:59
        	:END:
 ****** Lecture 03.3
 <2013-04-19 Fri 15:00-16:00>
-******* NEXT Prepare lecture
+******* DONE Prepare lecture
        	DEADLINE: <2013-04-19 Fri>
+        - State "DONE"       from "NEXT"       [2013-04-19 Fri 10:38]
+       :LOGBOOK:
+       CLOCK: [2013-04-19 Fri 09:55]--[2013-04-19 Fri 10:38] =>  0:43
+       :END:
        	:PROPERTIES:
        	:ID:       a1025480-ffcb-4f34-abb4-7ac09c821730
        	:END:
@@ -1741,10 +1743,16 @@ CLOCK: [2013-04-08 Mon 15:00]--[2013-04-08 Mon 16:12] =>  0:59
 ***** Exams							      :EXAMS:
 ****** Midterm 1
 ******* NEXT Write Midterm 1
-       	DEADLINE: <2013-04-24 Wed>
+       	DEADLINE: <2013-04-22 Mon>
        	:PROPERTIES:
        	:ID:       130cbac1-0924-430e-9e18-e86c3251edd0
        	:END:
+******* NEXT Prepare Practice midterm 1
+               DEADLINE: <2013-04-21 Sun>
+               :PROPERTIES:
+               :ID:       1484a613-6652-4057-8b5b-22c8d6a37c77
+               :END:
+
 ****** Midterm 2
 ******* NEXT Write Midterm 2
        	DEADLINE: <2013-05-20 Mon>
@@ -1862,10 +1870,12 @@ CLOCK: [2013-04-08 Mon 15:00]--[2013-04-08 Mon 16:12] =>  0:59
        :LOGBOOK:
        CLOCK: [2013-04-08 Mon 16:32]--[2013-04-08 Mon 16:37] =>  0:05
        :END:
-****** NEXT Update calendar
-       :PROPERTIES:
-       :ID:       1522fd48-57f5-4597-953f-5c634508d876
+****** DONE Update calendar
+       - State "DONE"       from "NEXT"       [2013-04-19 Fri 11:35]
+       :LOGBOOK:
+       CLOCK: [2013-04-19 Fri 10:59]--[2013-04-19 Fri 11:35] =>  0:36
        :END:
+
 ****** NEXT Set up gradebook
 ***** Quizzes							       :QUIZ:
 ****** Quiz 01
@@ -2216,9 +2226,11 @@ Center 119
        	:END:
 ****** Lecture 03.3
 <2013-04-19 Fri 13:00-14:00>
-******* NEXT Prepare lecture
+******* DONE Prepare lecture
        	DEADLINE: <2013-04-19 Fri>
+        - State "DONE"       from "NEXT"       [2013-04-18 Thu 20:45]
        	:LOGBOOK:
+	CLOCK: [2013-04-18 Thu 19:50]--[2013-04-18 Thu 20:45] =>  0:55
        	CLOCK: [2013-04-17 Wed 20:57]--[2013-04-17 Wed 21:09] =>  0:12
        	:END:
        	:PROPERTIES:
@@ -2375,10 +2387,16 @@ Center 119
 ***** Exams							      :EXAMS:
 ****** Midterm 1
 ******* NEXT Write Midterm 1
-       	DEADLINE: <2013-04-24 Wed>
+       	DEADLINE: <2013-04-22 Mon>
        	:PROPERTIES:
        	:ID:       556d42e6-8573-4c7d-aa80-a24c2748fcb0
        	:END:
+******* NEXT Prepare Practice midterm 1
+        DEADLINE: <2013-04-21 Sun>
+        :PROPERTIES:
+        :ID:       89e706cd-d3ad-405e-a729-62e36f437ea6
+        :END:
+
 ****** Midterm 2
 ******* NEXT Write Midterm 2
        	DEADLINE: <2013-05-17 Fri>
