@@ -2392,8 +2392,12 @@ Center 119
 
 ***** Exams							      :EXAMS:
 ****** Midterm 1
-******* NEXT Write Midterm 1
+******* DONE Write Midterm 1
        	DEADLINE: <2013-04-22 Mon>
+	- State "DONE"       from "NEXT"       [2013-04-21 Sun 22:02]
+	:LOGBOOK:
+	CLOCK: [2013-04-21 Sun 20:49]--[2013-04-21 Sun 21:02] =>  0:13
+	:END:
        	:PROPERTIES:
        	:ID:       556d42e6-8573-4c7d-aa80-a24c2748fcb0
        	:END:
