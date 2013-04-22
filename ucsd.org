@@ -1595,6 +1595,10 @@ CLOCK: [2013-04-08 Mon 15:00]--[2013-04-08 Mon 16:12] =>  0:59
        	:END:
 ****** Lecture 04.1
 <2013-04-22 Mon 15:00-16:00>
+       :LOGBOOK:
+       CLOCK: [2013-04-22 Mon 14:48]--[2013-04-22 Mon 16:10] =>  1:22
+       :END:
+
 ******* DONE Prepare lecture
        	DEADLINE: <2013-04-22 Mon>
 	- State "DONE"       from "NEXT"       [2013-04-21 Sun 11:40]
@@ -2010,6 +2014,7 @@ CLOCK: [2013-04-08 Mon 15:00]--[2013-04-08 Mon 16:12] =>  0:59
 [2013-04-05 Fri 16:44]
 **** TODO MATH20D Spring 2013				      :MATH20D:FOCUS:
     :LOGBOOK:
+    CLOCK: [2013-04-22 Mon 16:48]
     :END:
     :PROPERTIES:
     :ID:       01742e1a-c15f-4aab-ada0-59725c2e73e4
@@ -2114,7 +2119,7 @@ Send exact dates of travel, destination/purpose of trip, and arrangements made f
 ****** Admin
 ****** Office hours
        :LOGBOOK:
-       CLOCK: [2013-04-22 Mon 11:01]
+       CLOCK: [2013-04-22 Mon 11:01]--[2013-04-22 Mon 12:07] =>  1:06
        CLOCK: [2013-04-12 Fri 09:59]--[2013-04-12 Fri 10:17] =>  0:18
        CLOCK: [2013-04-10 Wed 11:09]--[2013-04-10 Wed 11:57] =>  0:48
        CLOCK: [2013-04-08 Mon 11:18]--[2013-04-08 Mon 11:54] =>  0:36
@@ -2248,6 +2253,9 @@ Center 119
        	:ID:       ca7d462e-035f-4f2b-9966-204092282220
        	:END:
 ****** Lecture 04.1
+       :LOGBOOK:
+       CLOCK: [2013-04-22 Mon 12:48]--[2013-04-22 Mon 14:05] =>  1:17
+       :END:
 <2013-04-22 Mon 13:00-14:00>
 ******* DONE Prepare lecture
        	DEADLINE: <2013-04-22 Mon>
