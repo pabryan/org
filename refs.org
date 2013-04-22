@@ -154,6 +154,12 @@
 :END:
 [[papers:MR1369139][MR1369139-paper]]
 [[bib:MR1369139][MR1369139-bib]]
+***** A geometric interpretation of {H}amilton's {H}arnack inequality for the {R}icci flow
+:PROPERTIES:
+:Custom_ID: MR1362964
+:END:
+[[papers:MR1362964][MR1362964-paper]]
+[[bib:MR1362964][MR1362964-bib]]
 **** 53C25   (1973-now) Special Riemannian manifolds (Einstein, Sasakian, etc.)
 ***** Four-manifolds with positive curvature operator
 :PROPERTIES:
@@ -329,6 +335,13 @@
 :END:
 [[papers:MR1100205][MR1100205-paper]]
 [[bib:MR1100205][MR1100205-bib]]
+**** 58E11   (1980-now) Critical metrics
+***** The {H}arnack estimate for the {R}icci flow
+:PROPERTIES:
+:Custom_ID: MR1198607
+:END:
+[[papers:MR1198607][MR1198607-paper]]
+[[bib:MR1198607][MR1198607-bib]]
 **** 58E12   (1980-now) Applications to minimal surfaces (problems in two independent variables) [See also 49Q05]
 ***** Stability of hypersurfaces with constant mean curvature
 :PROPERTIES:
@@ -417,6 +430,13 @@ Here I need to do some more work since $u \mapsto g(\grad u, \grad u)$ is not a 
 :END:
 [[papers:MR1085136][MR1085136-paper]]
 [[bib:MR1085136][MR1085136-bib]]
+**** 58G30   (1980-1999) Relations with special manifold structures (Riemannian, Finsler, etc.)
+***** Harnack inequalities for evolving hypersurfaces
+:PROPERTIES:
+:Custom_ID: MR1296393
+:END:
+[[papers:MR1296393][MR1296393-paper]]
+[[bib:MR1296393][MR1296393-bib]]
 *** 58J partial differential equations on manifolds; differential operators
 **** 58J65 Diffusion processes and stochastic analysis on manifolds
 ***** Liouville theorems for symmetric diffusion operators on complete {R}iemannian manifolds
