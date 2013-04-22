@@ -1350,9 +1350,11 @@ Possible dates: 5/4/13, 12/4/13, 19/4/13
    :END:
 <2013-05-11 Sat>--<2013-05-12 Sun>
 [[http://www.math.washington.edu/~lee/PNGS/]]
+[[file:~/working/academic/seminars/pngs_2013/]]
 *** NEXT Write PNGS talk
     SCHEDULED: <2013-03-11 Mon>   
     :LOGBOOK:
+    CLOCK: [2013-04-22 Mon 09:54]
     CLOCK: [2013-03-29 Fri 13:55]--[2013-03-29 Fri 14:13] =>  0:18
     CLOCK: [2013-03-29 Fri 13:24]--[2013-03-29 Fri 13:25] =>  0:01
     CLOCK: [2013-03-29 Fri 11:28]--[2013-03-29 Fri 12:01] =>  0:33
