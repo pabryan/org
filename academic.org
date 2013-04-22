@@ -1247,8 +1247,11 @@ http://notesfromkevinrvixie.org/2012/11/02/geometric-measure-theory-by-the-book-
     :ID:       456d22c6-d6a3-4476-b6fe-918b91446f6e
     :END:
 [2013-03-26 Tue 13:47]
-Can we come up with an energy for ancient solutions? Something like the first derivative of curvature then look at minimisers? Are they ancient? We should also get some monotone quantity under the flow. Then we need to characterise the stationary solutions.
-Is Angenent Oval a soliton?
+**** Notes
+- Can we come up with an energy for ancient solutions? Something like the first derivative of curvature then look at minimisers? Are they ancient? We should also get some monotone quantity under the flow. Then we need to characterise the stationary solutions.
+- Is Angenent Oval a soliton? 
+- Compare Wilking's algebraic approach
+- Check also Lei's way of doing things
 
 *** Non-smooth spaces
 **** Links
@@ -1259,7 +1262,7 @@ http://www.amazon.com/Global-Calculus-Graduate-Studies-Mathematics/dp/082183702
 http://mathoverflow.net/questions/14877/how-much-of-differential-geometry-can-be-developed-entirely-without-atlases-clo
 
 
-
+*** 
 ** Reading
    :PROPERTIES:
    :ID:       3b692ea2-10eb-4586-ae3e-2006ce6a3c0e
