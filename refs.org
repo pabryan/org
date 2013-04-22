@@ -447,6 +447,12 @@ Here I need to do some more work since $u \mapsto g(\grad u, \grad u)$ is not a 
 :END:
 [[papers:2012arXiv1210.0567M][2012arXiv1210.0567M-paper]]
 
+*** A Lie algebraic approach to Ricci flow invariant curvature conditions and Harnack inequalities
+:PROPERTIES:
+:Custom_ID: 2010arXiv1011.3561W
+:END:
+[[papers:2010arXiv1011.3561W][2010arXiv1011.3561W-paper]]
+[[bib:2010arXiv1011.3561W][2010arXiv1011.3561W-bib]]
 * Misc
   :PROPERTIES:
   :ID:       5724f791-e1ce-4b91-b272-ddf358eb8b58
