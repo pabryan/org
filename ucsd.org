@@ -1451,6 +1451,9 @@ pebenfel@math.ucsd.edu
 drichards@math.ucsd.edu
 Send exact dates of travel, destination/purpose of trip, and arrangements made for meeting classes
 ****** TODO Find someone to cover Math20C lecture
+       :PROPERTIES:
+       :ID:       f933cccd-4928-4102-ab7e-d91a4c79f933
+       :END:
 [2013-04-15 Mon 20:31]
 ****** DONE Spring 2013 text books
        DEADLINE: <2013-02-01 Fri>
@@ -1597,6 +1600,9 @@ CLOCK: [2013-04-08 Mon 15:00]--[2013-04-08 Mon 16:12] =>  0:59
 <2013-04-22 Mon 15:00-16:00>
        :LOGBOOK:
        CLOCK: [2013-04-22 Mon 14:48]--[2013-04-22 Mon 16:10] =>  1:22
+       :END:
+       :PROPERTIES:
+       :ID:       669b1368-4834-4253-ab9f-e31ae50f8815
        :END:
 
 ******* DONE Prepare lecture
@@ -1767,6 +1773,9 @@ CLOCK: [2013-04-08 Mon 15:00]--[2013-04-08 Mon 16:12] =>  0:59
                :END:
 
 ******* NEXT Send midterm to front desk for printing
+	:PROPERTIES:
+	:ID:       6c27e0d0-e0b0-48f4-9391-5664c3b18eb6
+	:END:
 ****** Midterm 2
 ******* NEXT Write Midterm 2
        	DEADLINE: <2013-05-20 Mon>
@@ -1891,6 +1900,9 @@ CLOCK: [2013-04-08 Mon 15:00]--[2013-04-08 Mon 16:12] =>  0:59
        :END:
 
 ****** NEXT Set up gradebook
+       :PROPERTIES:
+       :ID:       1feab381-22e4-4157-8cef-4628ce3f7fd2
+       :END:
 ***** Quizzes							       :QUIZ:
 ****** Quiz 01
 ******* DONE Set quiz 
@@ -2013,9 +2025,6 @@ CLOCK: [2013-04-08 Mon 15:00]--[2013-04-08 Mon 16:12] =>  0:59
       :END:
 [2013-04-05 Fri 16:44]
 **** TODO MATH20D Spring 2013				      :MATH20D:FOCUS:
-    :LOGBOOK:
-    CLOCK: [2013-04-22 Mon 16:48]
-    :END:
     :PROPERTIES:
     :ID:       01742e1a-c15f-4aab-ada0-59725c2e73e4
     :END:
@@ -2256,6 +2265,9 @@ Center 119
        :LOGBOOK:
        CLOCK: [2013-04-22 Mon 12:48]--[2013-04-22 Mon 14:05] =>  1:17
        :END:
+       :PROPERTIES:
+       :ID:       c2b60644-c535-421b-bea0-7e757eb2aa49
+       :END:
 <2013-04-22 Mon 13:00-14:00>
 ******* DONE Prepare lecture
        	DEADLINE: <2013-04-22 Mon>
@@ -2426,6 +2438,9 @@ Center 119
         :END:
 
 ******* NEXT Send midterm to front desk for printing
+	:PROPERTIES:
+	:ID:       617fd478-0716-4fca-97bc-1cbf72e0e36d
+	:END:
 ****** Midterm 2
 ******* NEXT Write Midterm 2
        	DEADLINE: <2013-05-17 Fri>
@@ -2544,6 +2559,9 @@ Center 119
        :ID:       3ac1d520-8449-4724-8f4e-9086c73ed5fe
        :END:
 ****** NEXT Set up gradebook
+       :PROPERTIES:
+       :ID:       e17b8183-9acb-4d72-b347-e1b3000efe63
+       :END:
 ***** Quizzes							       :QUIZ:
 ****** Quiz 01
 ******* DONE Set quiz 
@@ -2646,9 +2664,18 @@ Center 119
 
 *** Summer 2013
 **** TODO MATH142B
+     :PROPERTIES:
+     :ID:       637a5770-e691-46f5-b733-44af49f29f6e
+     :END:
 **** TODO MATH20D
+     :PROPERTIES:
+     :ID:       f49db07d-e5f8-47c7-b022-377c29d32e59
+     :END:
 *** Fall 2013
 **** TODO MATH150A
+     :PROPERTIES:
+     :ID:       d41c505c-ac02-4dbc-9604-ba9cec082f27
+     :END:
 ***** Notes
 ***** Lecture Notes
 [[www.math.uci.edu/~cterng/162A_Lecture_Notes.pdf]]
@@ -2657,12 +2684,24 @@ Center 119
 ***** Tasks
 ****** NEXT Order Text Books
        DEADLINE: <2013-05-01 Wed>
+       :PROPERTIES:
+       :ID:       f79ad07c-ea5e-4710-8cad-94ac0439a20d
+       :END:
 
 *** Winter 2014
 **** TODO MATH150B
+     :PROPERTIES:
+     :ID:       018b8346-4794-4fbb-9316-44d4bf757d69
+     :END:
 **** TODO MATH10A
+     :PROPERTIES:
+     :ID:       31df73a4-0114-4097-8f18-5ce3ed5a1d07
+     :END:
 *** Spring 2014
 **** TODO MATH10B
+     :PROPERTIES:
+     :ID:       249fdcc1-57aa-4cac-b1b9-16c80ad815c2
+     :END:
 
 ** Professional Development
 *** TODO Check out Center for Teaching Development

@@ -13,6 +13,9 @@ I want to put the details of the course in to org - probably using property draw
   :LOGBOOK:
   CLOCK: [2013-04-20 Sat 09:09]--[2013-04-20 Sat 09:13] =>  0:04
   :END:
+  :PROPERTIES:
+  :ID:       1bda762d-3e4d-4809-968f-73b905fe7352
+  :END:
 [2013-04-20 Sat 09:09]
 
 - Exercise

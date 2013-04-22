@@ -1157,7 +1157,7 @@ http://www.nought.de/tex2im.php
   :END:
 ** Organisation
   :LOGBOOK:
-  CLOCK: [2013-04-22 Mon 16:35]--[2013-04-22 Mon 16:48] =>  0:13
+  CLOCK: [2013-04-22 Mon 16:35]--[2013-04-22 Mon 16:52] =>  0:17
   CLOCK: [2013-04-22 Mon 09:00]--[2013-04-22 Mon 09:44] =>  0:44
   CLOCK: [2013-04-20 Sat 09:14]--[2013-04-20 Sat 09:35] =>  0:21
   CLOCK: [2013-04-19 Fri 10:47]--[2013-04-19 Fri 10:52] =>  0:05
@@ -1883,16 +1883,34 @@ What to review:
 ** yearly
 ** 5 years?
 * Schedule							   :SCHEDULE:
+  :PROPERTIES:
+  :ID:       1e2a3bac-b557-42d8-9f22-0741dfb5fa70
+  :END:
 ** Monday
 *** Intuflow
+    :PROPERTIES:
+    :ID:       7a307427-cb9e-406a-aa8b-7667319f416a
+    :END:
 <2013-04-22 Mon 08:00-11:00 +1w>
 *** Work
+    :PROPERTIES:
+    :ID:       323d0b79-7153-41d5-9653-5f3d0b339476
+    :END:
 <2013-04-22 Mon 08:00-11:00 +1w>
 *** Beach
+    :PROPERTIES:
+    :ID:       14a32c97-df88-435a-837b-4e84c7e0c8d0
+    :END:
     <2013-04-22 Mon 08:00-11:00 +1w>
 *** Office hours
+    :PROPERTIES:
+    :ID:       c635f58c-0220-4fa3-a21c-585202e3394b
+    :END:
     <2013-04-22 Mon 11:00-12:00 +1w>
 *** Lunch
+    :PROPERTIES:
+    :ID:       9cfb5919-df80-4f5c-b9e2-9421becb360a
+    :END:
     <2013-04-22 Mon 12:00-13:00 +1w>
 
 ** Tuesday
