@@ -22,14 +22,6 @@
   :ID:       9a1d61fa-6dcc-405f-b879-9412a6cb1c47
   :CATEGORY: Grants
   :END:
-** DONE Investigate data management plan workshop
-   - State "DONE"       from "TODO"       [2012-11-09 Fri 11:20]
-[[http://libraries.ucsd.edu/services/data-curation/data-management-plan/workshop.html][data management plan workshop]]
-  CLOCK: [2012-10-19 Fri 14:11]--[2012-10-19 Fri 14:12] =>  0:01
-   :PROPERTIES:
-   :ID:       26658a79-21fd-4a3b-880c-ee7e7644274d
-   :END:
-[2012-10-19 Fri 14:11]
 ** SOMEDAY Research getting grants
 I want mostly travel money 
 Can I hire a car so we can all go on a road trip?
@@ -42,12 +34,33 @@ I want to do teaching with sage-tex and/or org-mode with babel; i.e. interactive
    :END:
 [2012-10-14 Sun 20:40]
 
-** NSF Data Management Plan Workshop
+** NSF
+*** 2014 Grants
+**** Geometric Analysis
+     DEADLINE: <2013-11-05 Tue>
+
+http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5549&org=NSF&sel_org=MPS&from=fund
+**** Theoretical Gravitational Physics
+     DEADLINE: <2013-10-30 Wed>
+http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=503539&org=NSF&sel_org=MPS&from=fund
+**** Postdoctoral Research Fellowships
+     DEADLINE: <2013-10-16 Wed>
+http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5301&org=NSF&sel_org=MPS&from=fund
+*** NSF Data Management Plan Workshop
    :PROPERTIES:
    :ID:       b44755f0-f524-4a52-9c1c-59c1d68ab3c5
    :END:
 Geisel Library room 274
 <2012-11-13 Tue 12:00-13:00>
+**** DONE Investigate data management plan workshop
+   - State "DONE"       from "TODO"       [2012-11-09 Fri 11:20]
+[[http://libraries.ucsd.edu/services/data-curation/data-management-plan/workshop.html][data management plan workshop]]
+  CLOCK: [2012-10-19 Fri 14:11]--[2012-10-19 Fri 14:12] =>  0:01
+   :PROPERTIES:
+   :ID:       26658a79-21fd-4a3b-880c-ee7e7644274d
+   :END:
+[2012-10-19 Fri 14:11]
+
 * Journals
   :PROPERTIES:
   :ID:       befc3eb8-1613-4ad7-b07f-d3190d33a71a
