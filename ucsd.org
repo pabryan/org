@@ -2425,6 +2425,7 @@ Center 119
        	DEADLINE: <2013-04-22 Mon>
 	- State "DONE"       from "NEXT"       [2013-04-21 Sun 22:02]
 	:LOGBOOK:
+	CLOCK: [2013-04-23 Tue 09:03]
 	CLOCK: [2013-04-21 Sun 20:49]--[2013-04-21 Sun 21:02] =>  0:13
 	:END:
        	:PROPERTIES:
