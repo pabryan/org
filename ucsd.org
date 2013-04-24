@@ -2291,11 +2291,15 @@ Center 119
        	:ID:       3de35963-e3c3-4ccc-869c-7f9a40638d16
        	:END:
 ****** Lecture 04.2
+       :LOGBOOK:
+       CLOCK: [2013-04-24 Wed 12:41]
+       :END:
 <2013-04-24 Wed 13:00-14:00>
-******* NEXT Prepare lecture
+******* DONE Prepare lecture
        	DEADLINE: <2013-04-24 Wed>
+	- State "DONE"       from "NEXT"       [2013-04-24 Wed 12:41]
 	:LOGBOOK:
-	CLOCK: [2013-04-24 Wed 11:44]
+	CLOCK: [2013-04-24 Wed 11:44]--[2013-04-24 Wed 12:41] =>  0:57
 	CLOCK: [2013-04-24 Wed 11:32]--[2013-04-24 Wed 11:41] =>  0:09
 	:END:
        	:PROPERTIES:
