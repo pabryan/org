@@ -2137,6 +2137,7 @@ Send exact dates of travel, destination/purpose of trip, and arrangements made f
 ****** Admin
 ****** Office hours
        :LOGBOOK:
+       CLOCK: [2013-04-24 Wed 10:33]--[2013-04-24 Wed 11:01] =>  0:28
        CLOCK: [2013-04-22 Mon 11:01]--[2013-04-22 Mon 12:07] =>  1:06
        CLOCK: [2013-04-12 Fri 09:59]--[2013-04-12 Fri 10:17] =>  0:18
        CLOCK: [2013-04-10 Wed 11:09]--[2013-04-10 Wed 11:57] =>  0:48
