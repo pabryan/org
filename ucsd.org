@@ -2621,10 +2621,18 @@ Center 119
 ****** Quiz 05
 ******* NEXT Set quiz 
        	DEADLINE: <2013-04-24 Wed>
+	:LOGBOOK:
+	CLOCK: [2013-04-23 Tue 17:18]
+	:END:
        	:PROPERTIES:
        	:ID:       e4887be3-aa2b-493b-a02e-e83ca77951c3
        	:END:
 ******* Questions
+1. Why isn't $C_1 e^{r t} + C_2 e^{rt}$ the *general form* of a linear, constant coefficient, homogeneous equation where the characteristic equation has the repeated root $r$?
+   a. The Wronsikian is non zero.
+   a. There are infinitely many $C_1, C_2$ satisfying the initial conditions.
+   a. There exists $y_0, y_0'$ where no $C_1, C_2$ can be chosen to satisfy the initial conditions.
+1. 
 
 ****** Quiz 06
 ******* NEXT Set quiz 
