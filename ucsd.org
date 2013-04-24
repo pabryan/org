@@ -2032,6 +2032,8 @@ CLOCK: [2013-04-08 Mon 15:00]--[2013-04-08 Mon 16:12] =>  0:59
       :END:
 [2013-04-05 Fri 16:44]
 **** TODO MATH20D Spring 2013				      :MATH20D:FOCUS:
+     :LOGBOOK:
+     :END:
     :PROPERTIES:
     :ID:       01742e1a-c15f-4aab-ada0-59725c2e73e4
     :END:
@@ -2619,10 +2621,11 @@ Center 119
 ******* Questions
 
 ****** Quiz 05
-******* NEXT Set quiz 
+******* DONE Set quiz 
        	DEADLINE: <2013-04-24 Wed>
+	- State "DONE"       from "NEXT"       [2013-04-23 Tue 18:47]
 	:LOGBOOK:
-	CLOCK: [2013-04-23 Tue 17:31]
+	CLOCK: [2013-04-23 Tue 17:31]--[2013-04-23 Tue 18:47] =>  1:16
 	CLOCK: [2013-04-23 Tue 17:18]--[2013-04-23 Tue 17:22] =>  0:04
 	:END:
        	:PROPERTIES:
