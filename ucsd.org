@@ -1777,7 +1777,9 @@ CLOCK: [2013-04-08 Mon 15:00]--[2013-04-08 Mon 16:12] =>  0:59
                :ID:       1484a613-6652-4057-8b5b-22c8d6a37c77
                :END:
 
-******* NEXT Send midterm to front desk for printing
+******* HOLD Send midterm to front desk for printing
+	- State "HOLD"       from "NEXT"       [2013-04-24 Wed 11:22] \\
+	  Sent to frdesk@math.ucsd Waiting on printing@math.ucsd
 	:PROPERTIES:
 	:ID:       6c27e0d0-e0b0-48f4-9391-5664c3b18eb6
 	:END:
@@ -2448,8 +2450,9 @@ Center 119
         :ID:       89e706cd-d3ad-405e-a729-62e36f437ea6
         :END:
 
-******* DONE Send midterm to front desk for printing
-	- State "DONE"       from "NEXT"       [2013-04-23 Tue 09:13]
+******* HOLD Print midterm to front desk for printing
+	- State "HOLD"       from "NEXT"       [2013-04-23 Tue 09:13] \\
+	  Sent to frdesk@math.ucsd - waiting on printing@ucsd
 	:LOGBOOK:
 	CLOCK: [2013-04-23 Tue 09:12]--[2013-04-23 Tue 09:13] =>  0:01
 	:END:
