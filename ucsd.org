@@ -1352,8 +1352,6 @@ Put final exam conditions - 2 pages notes allowed.
 
 *** Spring 2013
 **** TODO MATH20C Spring 2013				      :MATH20C:FOCUS:
-     :LOGBOOK:
-     :END:
      :PROPERTIES:
      :ID:       b7714d68-e3c3-4424-be34-62a9473108e4
      :END:
@@ -1617,16 +1615,24 @@ CLOCK: [2013-04-08 Mon 15:00]--[2013-04-08 Mon 16:12] =>  0:59
        	:ID:       7aad3794-ce84-4c8a-82d4-f1416f445989
        	:END:
 ****** Lecture 04.2
+       :LOGBOOK:
+       CLOCK: [2013-04-24 Wed 14:55]--[2013-04-24 Wed 16:12] =>  1:17
+       :END:
 <2013-04-24 Wed 15:00-16:00>
-******* NEXT Prepare lecture
+******* DONE Prepare lecture
        	DEADLINE: <2013-04-24 Wed>
+	- State "DONE"       from "NEXT"       [2013-04-24 Wed 16:12]
+       :LOGBOOK:
+       CLOCK: [2013-04-24 Wed 14:12]--[2013-04-24 Wed 14:55] =>  0:43
+       :END:
        	:PROPERTIES:
        	:ID:       24d15ffd-1198-484f-8009-962bd14754ac
        	:END:
 ****** Lecture 04.3
 <2013-04-26 Fri 15:00-16:00>
-******* NEXT Prepare lecture
+******* DONE Prepare lecture
        	DEADLINE: <2013-04-26 Fri>
+	- State "DONE"       from "NEXT"       [2013-04-24 Wed 16:14]
        	:PROPERTIES:
        	:ID:       a59b83fe-a781-421d-bbda-102cff8341c2
        	:END:
@@ -1969,8 +1975,9 @@ CLOCK: [2013-04-08 Mon 15:00]--[2013-04-08 Mon 16:12] =>  0:59
 ******* Questions
 
 ****** Quiz 05
-******* NEXT Set quiz 
+******* DONE Set quiz 
        	DEADLINE: <2013-04-24 Wed>
+	- State "DONE"       from "NEXT"       [2013-04-24 Wed 16:14]
 	:LOGBOOK:
 	CLOCK: [2013-04-23 Tue 11:12]--[2013-04-23 Tue 11:49] =>  0:37
 	:END:
@@ -2290,9 +2297,9 @@ Center 119
        	:PROPERTIES:
        	:ID:       3de35963-e3c3-4ccc-869c-7f9a40638d16
        	:END:
-****** Lecture 04.2
+****** Lecture 04.2       
        :LOGBOOK:
-       CLOCK: [2013-04-24 Wed 12:41]
+       CLOCK: [2013-04-24 Wed 12:41]--[2013-04-24 Wed 14:12] =>  1:31
        :END:
 <2013-04-24 Wed 13:00-14:00>
 ******* DONE Prepare lecture
@@ -2307,8 +2314,9 @@ Center 119
        	:END:
 ****** Lecture 04.3
 <2013-04-26 Fri 13:00-14:00>
-******* NEXT Prepare lecture
+******* DONE Prepare lecture
        	DEADLINE: <2013-04-26 Fri>
+	- State "DONE"       from "NEXT"       [2013-04-24 Wed 16:14]
        	:PROPERTIES:
        	:ID:       a0f11393-96fb-4122-9c0e-951fca6d2ee7
        	:END:
