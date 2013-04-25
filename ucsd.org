@@ -1475,7 +1475,7 @@ Send exact dates of travel, destination/purpose of trip, and arrangements made f
        :END:
 ****** Office hours
        :LOGBOOK:
-       CLOCK: [2013-04-25 Thu 13:02]
+       CLOCK: [2013-04-25 Thu 13:02]--[2013-04-25 Thu 13:36] =>  0:34
        CLOCK: [2013-04-12 Fri 11:17]--[2013-04-12 Fri 12:11] =>  0:54
        :END:
 ***** Lectures							   :LECTURES:
