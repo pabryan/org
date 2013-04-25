@@ -1631,7 +1631,7 @@ What to review:
 
 - [ ] Review tasks list for the day and compare with clock table, effort estimates.
 - [ ] Anything outstanding?
-- [ ] Copy from notebook
+- [ ] Copy from notebook/ideas.
 
 When I set up scoring the day:
 
@@ -1642,7 +1642,8 @@ For the following, do I just use the existing diary.org capture template or perh
 - [ ] Write down any thoughts, relections on the day.
 
 ** NEXT Daily Plan [0/2]
-   SCHEDULED: <2013-04-24 Wed .+1d/2d>
+   SCHEDULED: <2013-04-25 Thu .+1d/2d>
+   - State "DONE"       from "NEXT"       [2013-04-24 Wed 20:17]
    - State "DONE"       from "NEXT"       [2013-04-23 Tue 15:54]
    - State "DONE"       from "NEXT"       [2013-04-12 Fri 09:03]
    - State "DONE"       from "NEXT"       [2013-04-09 Tue 10:10]
@@ -1728,7 +1729,7 @@ For the following, do I just use the existing diary.org capture template or perh
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
    :ID:       ef051ee0-1113-4604-b355-450a5a47848b
-   :LAST_REPEAT: [2013-04-23 Tue 15:54]
+   :LAST_REPEAT: [2013-04-24 Wed 20:17]
    :END:
 
 - [ ] Check agenda/focus
