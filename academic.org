@@ -1278,8 +1278,37 @@ http://math.stackexchange.com/questions/24693/want-to-learn-differential-geometr
 http://www.amazon.com/Global-Calculus-Graduate-Studies-Mathematics/dp/082183702
 http://mathoverflow.net/questions/14877/how-much-of-differential-geometry-can-be-developed-entirely-without-atlases-clo
 
+*** Space form curvature flow
+**** Flow
+In hyperbolic space flow by $(K-1)\nor$. How about in $M(\kappa)$, flow by $(K-\kappa)\nor$ where $M(\kappa)$ is the simply connected space form with constant curvature $\kappa$?
 
-*** 
+**** Support Function
+Define
+\[
+s_{\kappa} (x) = \begin{cases}
+\frac{1}{\kappa} \sin \kappa x, & \kappa > 0 \\
+\frac{1}{\kappa} x, & kappa = 0 \\
+\frac{1}{\abs{\kappa}} \sinh \abs{\kappa} x, & \kappa < 0
+\end{cases}
+\]
+and 
+\[
+V_{\kappa} (x) = s_{\kappa} (d) \grad d
+\]
+from which we define the support function
+\[
+s_{\kappa}(x) = \ip{\nor(x), \V_{\kappa} (x)}
+\]
+of an immersed hypersurface $F: M \to M(\kappa)$, for $x\in M$.
+
+Now we compute $\Laplace s$ which I think is something like
+\[
+\laplace s = \ip{\Laplace V, \nor} + \ip{V, \Laplace \nor} + \tr ($X, Y \mapsto \ip{\conx_X \nor, \conx_Y V} + \ip{\conx_Y \nor, \conx_X V}).
+\]
+The last two terms are related to the Lie derivative of the metric with respect to $V$ and should behave nicely for this choice of $V$. I don't know how exactly yet. This formula gives some sort of Bochner formula for $s$.
+
+**** Harnack Inequality
+Can we get a Harnack inequality from the support function?
 ** Reading
    :PROPERTIES:
    :ID:       3b692ea2-10eb-4586-ae3e-2006ce6a3c0e
