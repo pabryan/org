@@ -1366,6 +1366,9 @@ Can we deduce long-time behaviour from the support function?
   :ID:       0609581e-fe50-48ce-aa33-ce468c217f92
   :END:
 ** GMT
+   :LOGBOOK:
+   CLOCK: [2013-04-26 Fri 09:35]--[2013-04-26 Fri 09:54] =>  0:19
+   :END:
 *** Tasks
 **** TODO Write notes
      :PROPERTIES:
