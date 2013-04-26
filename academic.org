@@ -1292,7 +1292,7 @@ Define
 \[
 s_{\kappa} (x) = \begin{cases}
 \frac{1}{\kappa} \sin \kappa x, & \kappa > 0 \\
-\frac{1}{\kappa} x, & kappa = 0 \\
+x, & \kappa = 0 \\
 \frac{1}{\abs{\kappa}} \sinh \abs{\kappa} x, & \kappa < 0
 \end{cases}
 \]
@@ -1302,24 +1302,24 @@ V_{\kappa} (x) = s_{\kappa} (d) \grad d
 \]
 from which we define the support function
 \[
-s_{\kappa}(x) = \ip{\nor(x), \V_{\kappa} (x)}
+s_{\kappa}(x) = \ip{\nor(x)}{V_{\kappa} (x)}
 \]
 of an immersed hypersurface $F: M \to M(\kappa)$, for $x\in M$.
 
-The support function defined this way is the orthogonal distance from the origin to the totally geodesic hypersurface tangent to $M$ at $x$. In $\RR^{n+1}$, this is just the tangent plane to $M$ at $x$ embedded as an affine subspace in $\RR^{n+1}$.  For $\HH^{n+1}$, I think the totally geodesic submanifold might be identifiable with the tangent plane and the origin is any point - usually take $\HH^{n+1}$ to be the one-sheeted hyperboloid in Minkowski space $\RR^{n+1,1}$ and the origin to be the point $(0, \dotsc, 0, 1)$. For $\SS^{n+1}$ of course, the tangent plane is non-compact and so can't be embedded in $\SS^{n+1}$, but I think you can map the tangent plane onto $\SS^{n+1}$ with image the totally geodesic hypersurface. Then the tangent plane covers the totally geodesic hypersurface. The origin is any point which we usually take to be the north pole.
+The support function defined this way is the orthogonal distance from the origin to the totally geodesic hypersurface tangent to $M$ at $x$. In $\RR^{n+1}$, this is just the tangent plane to $M$ at $x$ embedded as an affine subspace in $\RR^{n+1}$.  For $\HH^{n+1}$, I think the totally geodesic submanifold might be identifiable with the tangent plane and the origin is any point - usually take $\HH^{n+1}$ to be the one-sheeted hyperboloid in Minkowski space $\RR^{n+1,1}$ and the origin to be the point $(0, \dotsc, 0, 1)$. For $\sphere^{n+1}$ of course, the tangent plane is non-compact and so can't be embedded in $\sphere^{n+1}$, but I think you can map the tangent plane onto the totally geodesic hypersurface. Then the tangent plane covers the totally geodesic hypersurface. The origin is any point which we usually take to be the north pole.
 
-In all cases, $\SS^n$ can be embedded "canonically" as the set of points distance $1$ from the origin - do we have to be careful in $\HH^{n+1}$? In $\RR^{n+1}$ this is the usual embedding, in $\SS^{n+1}$ it is the equator and in $\HH^{n+1}$ it I think is the "equator" given by intersecting the hyperboloid with a hyperlnane $x_{n+2} = c$ in $\RR^{n+1,1}$, is the $x_{n+2}=2$ hyperplane?
+In all cases, $\sphere^n$ can be embedded "canonically" as the set of points distance $1$ from the origin - do we have to be careful in $\HH^{n+1}$? In $\RR^{n+1}$ this is the usual embedding, in $\sphere^{n+1}$ it is the equator and in $\HH^{n+1}$ it I think is the "equator" given by intersecting the hyperboloid with a hyperlnane $x_{n+2} = c$ in $\RR^{n+1,1}$, is the $x_{n+2}=2$ hyperplane?
 
 All of this says that the situation describe in Ben Andrew's harnack inequality for evolving hypersurfaces paper should carry through. For instance, we can parametrise the image of $M$ by the Gauss map. Then the support function parametrisation is
 \[
 \phi(z) = \exp (s(z) z) + \exp(a(z))
 \]
-where $a(z)$ is tangent. Is the tangent plane at $x$ parallel to the tangent plane to $\SS^n$
+where $a(z)$ is tangent. Is the tangent plane at $x$ parallel to the tangent plane to $\sphere^n$
 
 ****** Laplacian
-Wwe compute $\Laplace s$ in the standard parametrisation (i.e. $s$ is a function on $M$ not on $\SS^n$) which I think is something like
+Wwe compute $\laplace s$ in the standard parametrisation (i.e. $s$ is a function on $M$ not on $\sphere^n$) which I think is something like
 \[
-\laplace s = \ip{\Laplace V, \nor} + \ip{V, \Laplace \nor} + \tr ($X, Y \mapsto \ip{\conx_X \nor, \conx_Y V} + \ip{\conx_Y \nor, \conx_X V}).
+\laplace s = \ip{\laplace V}{\nor} + \ip{V}{\laplace \nor} + \text{Tr} (X, Y \mapsto \ip{\conx_X \nor}{\conx_Y V} + \ip{\conx_Y \nor}{\conx_X V}).
 \]
 The last two terms are related to the Lie derivative of the metric with respect to $V$ and should behave nicely for this choice of $V$. I don't know how exactly yet. This formula gives some sort of Bochner formula for $s$.
 
