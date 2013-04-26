@@ -1306,7 +1306,9 @@ s_{\kappa}(x) = \ip{\nor(x), \V_{\kappa} (x)}
 \]
 of an immersed hypersurface $F: M \to M(\kappa)$, for $x\in M$.
 
-The support function is 
+The support function defined this way is the orthogonal distance from the origin to the totally geodesic hypersurface tangent to $M$ at $x$. In $\RR^{n+1}$, this is just the tangent plane to $M$ at $x$ embedded as an affine subspace in $\RR^{n+1}$.  For $\HH^{n+1}$, I think the totally geodesic submanifold might be identifiable with the tangent plane and the origin is any point - usually take $\HH^{n+1}$ to be the one-sheeted hyperboloid in Minkowski space $\RR^{n+1,1}$ and the origin to be the point $(0, \dotsc, 0, 1)$. For $\SS^{n+1}$ of course, the tangent plane is non-compact and so can't be embedded in $\SS^{n+1}$, but I think you can map the tangent plane onto $\SS^{n+1}$ with image the totally geodesic hypersurface. Then the tangent plane covers the totally geodesic hypersurface. The origin is any point which we usually take to be the north pole.
+
+In all cases, $\SS^n$ can be embedded "canonically" as the set of points distance $1$ from the origin - do we have to be careful in $\HH^{n+1}$? In $\RR^{n+1}$ this is the usual embedding, in $\SS^{n+1}$ it is the equator and in $\HH^{n+1}$ it I think is the "equator" given by intersecting the hyperboloid with a hyperlnane $x_{n+2} = c$ in $\RR^{n+1,1}$, is the $x_{n+2}=2$ hyperplane?
 
 ****** Laplacian
 Now we compute $\Laplace s$ which I think is something like
