@@ -1282,10 +1282,12 @@ http://www.amazon.com/Global-Calculus-Graduate-Studies-Mathematics/dp/082183702
 http://mathoverflow.net/questions/14877/how-much-of-differential-geometry-can-be-developed-entirely-without-atlases-clo
 
 *** Space form curvature flow
-**** Flow
+**** Notes
+***** Flow
 In hyperbolic space flow by $(K-1)\nor$. How about in $M(\kappa)$, flow by $(K-\kappa)\nor$ where $M(\kappa)$ is the simply connected space form with constant curvature $\kappa$?
 
-**** Support Function
+***** Support Function
+****** Definition
 Define
 \[
 s_{\kappa} (x) = \begin{cases}
@@ -1304,19 +1306,26 @@ s_{\kappa}(x) = \ip{\nor(x), \V_{\kappa} (x)}
 \]
 of an immersed hypersurface $F: M \to M(\kappa)$, for $x\in M$.
 
+The support function is 
+
+****** Laplacian
 Now we compute $\Laplace s$ which I think is something like
 \[
 \laplace s = \ip{\Laplace V, \nor} + \ip{V, \Laplace \nor} + \tr ($X, Y \mapsto \ip{\conx_X \nor, \conx_Y V} + \ip{\conx_Y \nor, \conx_X V}).
 \]
 The last two terms are related to the Lie derivative of the metric with respect to $V$ and should behave nicely for this choice of $V$. I don't know how exactly yet. This formula gives some sort of Bochner formula for $s$.
 
-**** Questions
-***** Gauss map paramertisations
+
+
+***** Questions
+****** Gauss map paramertisations
 Can we parametrise convex hypersurfaces using the Gauss map? Do we need to?
-***** Harnack Inequality
+****** Harnack Inequality
 Can we get a Harnack inequality from the support function?
-***** Long time behaviour
+****** Long time behaviour
 Can we deduce long-time behaviour from the support function?
+**** Tasks
+***** NEXT Write up outline and send to Chen
 ** Reading
    :PROPERTIES:
    :ID:       3b692ea2-10eb-4586-ae3e-2006ce6a3c0e
