@@ -195,6 +195,9 @@ The result for curves on spheres, though interesting, is probably not suitable f
 
 In another direction, suppose you have a family of surfaces in $\RR^3$ flowing by mean curvature flow (or some other geometric flow) and take a family of curves lying on the surface. These evolve along with the family of surfaces. Can you add a part tangential to the surface, but normal to the curve to obtain any useful geometric flow? Can you conclude anything useful about curve flows on surfaces from this point of view? Or, can you conclude anything useful about mean curvature flow of surfaces using the curve flow? What happens in higher dimensions?
 
+*** TODO Referee An application of dual convex bodies to the inverse Gauss curvature flow
+    DEADLINE: <2013-07-09 Tue>
+[[file:~/reference/academic/referee/130423-Ivaki-v1.pdf]]
 * Exposition
   :PROPERTIES:
   :ID:       a3ca7af2-21fb-410e-8238-923304c37889
@@ -1340,7 +1343,11 @@ Can we get a Harnack inequality from the support function?
 ****** Long time behaviour
 Can we deduce long-time behaviour from the support function?
 **** Tasks
-***** NEXT Write up outline and send to Chen
+***** DONE Write up outline and send to Chen
+      - State "DONE"       from "NEXT"       [2013-04-25 Thu 20:31]
+      :LOGBOOK:
+      CLOCK: [2013-04-25 Thu 19:31]--[2013-04-25 Thu 20:31] =>  1:00
+      :END:
 ** Reading
    :PROPERTIES:
    :ID:       3b692ea2-10eb-4586-ae3e-2006ce6a3c0e
@@ -1520,6 +1527,12 @@ See also [[notes:MR2908056][MR2908056-notes]]
      :ID:       7c920b07-968d-4193-bc69-15ee5b971a79
      :END:
 
+** UCI
+*** UCI/UCSD Joint Seminar
+<2013-05-21 Tue>
+2pm Mark Stern (Duke)
+4pm Yuanqi Wang (UC Santa Barbara)
+Rowland Hall 340P
 * Students
   :PROPERTIES:
   :ID:       a93e1471-a035-4d1a-888f-948a3996b9ec
