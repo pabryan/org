@@ -197,6 +197,9 @@ In another direction, suppose you have a family of surfaces in $\RR^3$ flowing b
 
 *** TODO Referee An application of dual convex bodies to the inverse Gauss curvature flow
     DEADLINE: <2013-07-09 Tue>
+    :PROPERTIES:
+    :ID:       6d3de37a-1d47-49e2-9819-a8166e84e3de
+    :END:
 [[file:~/reference/academic/referee/130423-Ivaki-v1.pdf]]
 * Exposition
   :PROPERTIES:
@@ -1358,6 +1361,31 @@ Can we deduce long-time behaviour from the support function?
 - [[http://link.springer.com/article/10.1007/s00526-011-0481-0]]
 - 
 
+* Learning
+  :PROPERTIES:
+  :ID:       0609581e-fe50-48ce-aa33-ce468c217f92
+  :END:
+** GMT
+*** Tasks
+**** TODO Write notes
+     :PROPERTIES:
+     :ID:       734c57a5-627b-4e1c-83e3-9d401a622805
+     :END:
+***** NEXT Write 1st variation notes
+      :PROPERTIES:
+      :ID:       90a7a126-73fa-4d5c-8350-8c226b0b191d
+      :END:
+***** TODO Write Radon measure notes
+      :PROPERTIES:
+      :ID:       cb7e304a-aa11-424c-a5b5-7923b2113dcd
+      :END:
+*** GMT Seminar notes
+**** Lec 01
+Minimal and CMC surfaces. First variation.
+**** Lec 02
+First variation.
+**** Lec 03
+Radon measures: compactness and Reisz representation.
 * Seminars/Conferences
   :PROPERTIES:
   :ID:       1e7a7317-1668-4432-a995-cdaa9293f7af
