@@ -1310,14 +1310,27 @@ The support function defined this way is the orthogonal distance from the origin
 
 In all cases, $\SS^n$ can be embedded "canonically" as the set of points distance $1$ from the origin - do we have to be careful in $\HH^{n+1}$? In $\RR^{n+1}$ this is the usual embedding, in $\SS^{n+1}$ it is the equator and in $\HH^{n+1}$ it I think is the "equator" given by intersecting the hyperboloid with a hyperlnane $x_{n+2} = c$ in $\RR^{n+1,1}$, is the $x_{n+2}=2$ hyperplane?
 
+All of this says that the situation describe in Ben Andrew's harnack inequality for evolving hypersurfaces paper should carry through. For instance, we can parametrise the image of $M$ by the Gauss map. Then the support function parametrisation is
+\[
+\phi(z) = \exp (s(z) z) + \exp(a(z))
+\]
+where $a(z)$ is tangent. Is the tangent plane at $x$ parallel to the tangent plane to $\SS^n$
+
 ****** Laplacian
-Now we compute $\Laplace s$ which I think is something like
+Wwe compute $\Laplace s$ in the standard parametrisation (i.e. $s$ is a function on $M$ not on $\SS^n$) which I think is something like
 \[
 \laplace s = \ip{\Laplace V, \nor} + \ip{V, \Laplace \nor} + \tr ($X, Y \mapsto \ip{\conx_X \nor, \conx_Y V} + \ip{\conx_Y \nor, \conx_X V}).
 \]
 The last two terms are related to the Lie derivative of the metric with respect to $V$ and should behave nicely for this choice of $V$. I don't know how exactly yet. This formula gives some sort of Bochner formula for $s$.
 
+We could also do it via the Gauss map parametrisation as Ben does. I think in the sphere and hyperbolic space this won't be quite as nice as Euclidean space, but may be nicer than the standard parametrisation.
 
+I think it probably is not necessary, even in Euclidean space to use the Gauss map parametrisation, though is does mean we need to deal with a time dependent metric. Even still, this should be substantially simpler than Hamilton's Harnack inequality. 
+
+****** Generalisations
+This is for after we figure out the simply connected space form situation.
+
+I think all the above can be generalised to Lie groups with bi-invariant metric (maybe just left-invariant) and maybe quotients of such Lie groups. Also Killing parallelisable manifolds should be amenable to these techniques and perhaps all we need is manifolds admitting a Killing field. Also, in these cases, I don't think we could use the Gauss map parametrisation so easily and the standard parametrisation may be preferrable. In this situation however, we may make use of the Bochner formula for the support function.
 
 ***** Questions
 ****** Gauss map paramertisations
