@@ -63,3 +63,7 @@ Put my common setup in it's own config and include from the .sss/config file. Th
   :END:
 [2013-04-23 Tue 10:59]
 
+* TODO Export courses to PDF and print
+  :LOGBOOK:
+  :END:
+[2013-04-27 Sat 14:17]
