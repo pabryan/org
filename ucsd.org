@@ -1645,6 +1645,7 @@ CLOCK: [2013-04-08 Mon 15:00]--[2013-04-08 Mon 16:12] =>  0:59
 ******* NEXT Prepare lecture
        	DEADLINE: <2013-04-29 Mon>
 	:LOGBOOK:
+	CLOCK: [2013-04-27 Sat 15:45]
 	:END:
        	:PROPERTIES:
        	:ID:       a5d2f24b-4f91-4a7d-aec7-723cfefc2142
@@ -2051,8 +2052,6 @@ CLOCK: [2013-04-08 Mon 15:00]--[2013-04-08 Mon 16:12] =>  0:59
       :END:
 [2013-04-05 Fri 16:44]
 **** TODO MATH20D Spring 2013				      :MATH20D:FOCUS:
-     :LOGBOOK:
-     :END:
     :PROPERTIES:
     :ID:       01742e1a-c15f-4aab-ada0-59725c2e73e4
     :END:
@@ -2333,10 +2332,11 @@ Center 119
        	:END:
 ****** Lecture 05.1
 <2013-04-29 Mon 13:00-14:00>
-******* NEXT Prepare lecture
+******* DONE Prepare lecture
        	DEADLINE: <2013-04-29 Mon>
+	- State "DONE"       from "NEXT"       [2013-04-27 Sat 15:44]
 	:LOGBOOK:
-	CLOCK: [2013-04-27 Sat 14:15]
+	CLOCK: [2013-04-27 Sat 14:15]--[2013-04-27 Sat 15:30] =>  1:15
 	:END:
        	:PROPERTIES:
        	:ID:       db813566-02a4-4268-8a62-06a6d1aa2e47
