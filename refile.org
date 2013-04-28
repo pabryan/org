@@ -9,6 +9,16 @@
 [2013-04-12 Fri 11:11]
 
 I want to put the details of the course in to org - probably using property drawers, along with timestamped items and export all that to html/pdf. This would be instead of making a seperate org course website.
+* TODO Some todo's
+[2013-04-27 Sat 20:22]
+- Type GMT Seminar Notes
+- Type Ricci Iso
+- Type Fluid mechanics
+- Type CSF networks
+- Type MCF book
+- Type Submanifolds book
+- Type Isoperimetric surfaces
+- Research MCF isoperimetric comparison (for convex guys maybe there's a comparison)
 * TODO Do some planning
   :LOGBOOK:
   CLOCK: [2013-04-20 Sat 09:09]--[2013-04-20 Sat 09:13] =>  0:04
