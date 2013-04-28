@@ -10,6 +10,9 @@
 
 I want to put the details of the course in to org - probably using property drawers, along with timestamped items and export all that to html/pdf. This would be instead of making a seperate org course website.
 * TODO Some todo's
+  :PROPERTIES:
+  :ID:       1bfd9bd5-240b-4d2c-b9e5-44dd3e0f8395
+  :END:
 [2013-04-27 Sat 20:22]
 - Type GMT Seminar Notes
 - Type Ricci Iso
