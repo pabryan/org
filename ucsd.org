@@ -3205,7 +3205,8 @@ It should make the relevant web entry and also the email notice. Possibly I coul
        :ID:       73eeabf5-d1bd-4eae-b2a3-144bd3a2692a
        :END:
 ****** TODO Send GMT Announcement
-       DEADLINE: <2013-04-26 Fri +1w>
+       DEADLINE: <2013-05-03 Fri +1w>
+       - State "DONE"       from "TODO"       [2013-04-28 Sun 15:11]
        - State "DONE"       from "NEXT"       [2013-04-19 Fri 10:46]
        - State "DONE"       from "NEXT"       [2013-04-12 Fri 09:07]
        - State "DONE"       from "NEXT"       [2013-04-08 Mon 16:43]
@@ -3216,7 +3217,7 @@ It should make the relevant web entry and also the email notice. Possibly I coul
        :END:
        :PROPERTIES:
        :ID:       8f44a0eb-8ce5-4deb-9891-696f791bce56
-       :LAST_REPEAT: [2013-04-19 Fri 10:46]
+       :LAST_REPEAT: [2013-04-28 Sun 15:11]
        :END:
 ****** Email tempate
 Speaker: 
