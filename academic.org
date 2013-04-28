@@ -1478,7 +1478,7 @@ Possible dates: 5/4/13, 12/4/13, 19/4/13
 <2013-05-11 Sat>--<2013-05-12 Sun>
 [[http://www.math.washington.edu/~lee/PNGS/]]
 [[file:~/working/academic/seminars/pngs_2013/]]
-*** NEXT Write PNGS talk
+*** TODO Write PNGS talk
     SCHEDULED: <2013-03-11 Mon>   
     :LOGBOOK:
     CLOCK: [2013-04-27 Sat 21:08]--[2013-04-27 Sat 21:48] =>  0:40
@@ -1492,16 +1492,25 @@ Possible dates: 5/4/13, 12/4/13, 19/4/13
     :PROPERTIES:
     :ID:       ae9f534c-7445-42d4-a56e-a4dcf52119b6
     :END:
-*** DONE Ask Lei/FRdesk about someone covering lectures
-    - State "DONE"       from "NEXT"       [2013-03-29 Fri 14:12]
-    :PROPERTIES:
-    :ID:       f8183fb0-8a49-4b76-95c3-1bd4eef6cdd3
-    :END:
-*** Notes
-$Z$ is some quantity like distance, non-collapsing, whatever. $\bar{Z}$ is the extrema over some range; for non-collaping $Z=Z(x,y)$, $\bar{Z}(x)=\sup_y Z(x,y)$. For $Z=d$, $\bar{Z}$ is the sup over $x$ and $y$. These will be over non-compact $M\times M - D$ with $D$ the diagonal. More generally, $Z$ may only be defined away from the cut locus. 
+**** NEXT Write distance comparison
+**** TODO Write Hamilton isoperimetric comparison
+- Consult thesis for details or get conference proceedings
 
-At the extrema, because of the vanishing of the first variation, the laplacian of $\bar{Z}$ turns into something like $\pd{x_i} \pm \pd{y_i}$. So a viscosity equation for $\laplace \bar{Z}$ relates to this other operator on $Z$. It might be worthwhile comparing the Hessians of $\bar{Z}$ and $Z$. The other important ingredient here is blowing up the diagonal to get a compact manifold. 
-*** DONE Book flights/hotels
+**** TODO Hamilton/Jacobi and viscosity equation
+- Consult Mategazza et. al - 2 papers!
+
+**** TODO Viscosity equations
+**** TODO Distance comparison
+**** TODO Isoperimetric comparison
+**** TODO Laplace at infima
+**** TODO Linearisation and commuting space and time derivatives
+*** TODO Tasks
+**** DONE Ask Lei/FRdesk about someone covering lectures
+     - State "DONE"       from "NEXT"       [2013-03-29 Fri 14:12]
+     :PROPERTIES:
+     :ID:       f8183fb0-8a49-4b76-95c3-1bd4eef6cdd3
+     :END:
+**** DONE Book flights/hotels
     SCHEDULED: <2013-04-01 Mon>
     - State "DONE"       from "WAITING"    [2013-04-10 Wed 09:52]
     - State "WAITING"    from "NEXT"       [2013-04-09 Tue 10:09] \\
@@ -1513,12 +1522,17 @@ At the extrema, because of the vanishing of the first variation, the laplacian o
 - Return: [2013-05-14 Tue 18:00] Eugene-San Diego
 - Hotel: [2013-05-09 Thu]-[2013-05-12 Sun]
 - Jim's farm: [2013-05-12 Sun]-[2013-05-14 Tue]
-*** NEXT Find things to do in Portland
+**** NEXT Find things to do in Portland
     :PROPERTIES:
     :ID:       476075dc-0a37-430d-a806-115122270a85
     :END:
 - Science museum
 - Mountains
+
+*** Notes
+$Z$ is some quantity like distance, non-collapsing, whatever. $\bar{Z}$ is the extrema over some range; for non-collaping $Z=Z(x,y)$, $\bar{Z}(x)=\sup_y Z(x,y)$. For $Z=d$, $\bar{Z}$ is the sup over $x$ and $y$. These will be over non-compact $M\times M - D$ with $D$ the diagonal. More generally, $Z$ may only be defined away from the cut locus. 
+
+At the extrema, because of the vanishing of the first variation, the laplacian of $\bar{Z}$ turns into something like $\pd{x_i} \pm \pd{y_i}$. So a viscosity equation for $\laplace \bar{Z}$ relates to this other operator on $Z$. It might be worthwhile comparing the Hessians of $\bar{Z}$ and $Z$. The other important ingredient here is blowing up the diagonal to get a compact manifold. 
 ** TODO Encounters in Geometry
    :PROPERTIES:
    :ID:       7f61c706-31dd-49e3-91a1-b75eabc0fdf4
