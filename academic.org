@@ -1492,8 +1492,12 @@ Possible dates: 5/4/13, 12/4/13, 19/4/13
     :PROPERTIES:
     :ID:       ae9f534c-7445-42d4-a56e-a4dcf52119b6
     :END:
-**** NEXT Write distance comparison
-**** TODO Write Hamilton isoperimetric comparison
+**** DONE Write distance comparison
+     - State "DONE"       from "NEXT"       [2013-04-28 Sun 15:37]
+     :LOGBOOK:
+     CLOCK: [2013-04-28 Sun 15:23]--[2013-04-28 Sun 15:37] =>  0:14
+     :END:
+**** NEXT Write Hamilton isoperimetric comparison
 - Consult thesis for details or get conference proceedings
 
 **** TODO Hamilton/Jacobi and viscosity equation
