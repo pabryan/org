@@ -1355,6 +1355,9 @@ Can we deduce long-time behaviour from the support function?
       :LOGBOOK:
       CLOCK: [2013-04-26 Fri 10:15]--[2013-04-26 Fri 11:33] =>  1:18
       :END:
+      :PROPERTIES:
+      :ID:       5d7d38ad-aac0-409d-9ece-466e858612c9
+      :END:
 
 ** Reading
    :PROPERTIES:

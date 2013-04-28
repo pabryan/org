@@ -66,4 +66,7 @@ Put my common setup in it's own config and include from the .sss/config file. Th
 * TODO Export courses to PDF and print
   :LOGBOOK:
   :END:
+  :PROPERTIES:
+  :ID:       7b4c1677-ee55-47b9-91c7-7f5b188957f0
+  :END:
 [2013-04-27 Sat 14:17]

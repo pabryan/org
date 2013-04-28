@@ -1160,7 +1160,7 @@ http://www.raspbian.org/
   :END:
 ** Organisation
   :LOGBOOK:
-  CLOCK: [2013-04-27 Sat 16:38]
+  CLOCK: [2013-04-27 Sat 16:38]--[2013-04-27 Sat 16:51] =>  0:13
   CLOCK: [2013-04-27 Sat 13:55]--[2013-04-27 Sat 14:15] =>  0:20
   CLOCK: [2013-04-26 Fri 09:54]--[2013-04-26 Fri 11:33] =>  1:39
   CLOCK: [2013-04-26 Fri 09:30]--[2013-04-26 Fri 09:35] =>  0:05
@@ -1970,6 +1970,9 @@ What to review:
     <2013-04-26 Fri 12:00-13:00 +1w>
 ** Saturday
 *** Lunch
+    :PROPERTIES:
+    :ID:       2bdc676f-0fa8-41fe-b712-70158f884f61
+    :END:
     <2013-04-27 Sat 12:00-13:00 +1w>
 ** Sunday
 *** Lunch
