@@ -488,6 +488,12 @@ Here I need to do some more work since $u \mapsto g(\grad u, \grad u)$ is not a 
 :END:
 [[papers:2010arXiv1011.3561W][2010arXiv1011.3561W-paper]]
 [[bib:2010arXiv1011.3561W][2010arXiv1011.3561W-bib]]
+*** On the Distributional Hessian of the Distance Function
+:PROPERTIES:
+:Custom_ID: 2013arXiv1303.1421M
+:END:
+[[papers:2013arXiv1303.1421M][2013arXiv1303.1421M-paper]]
+[[bib:2013arXiv1303.1421M][2013arXiv1303.1421M-bib]]
 * Misc
   :PROPERTIES:
   :ID:       5724f791-e1ce-4b91-b272-ddf358eb8b58
