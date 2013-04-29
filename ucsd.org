@@ -1427,7 +1427,8 @@ Lectures in calendar and tasks like planning lectures.
       :END:
 <2013-04-03 Wed 11:00>
 
-****** NEXT Set up stats on TED for assessment
+****** DONE Set up stats on TED for assessment
+       - State "DONE"       from "NEXT"       [2013-04-29 Mon 11:16]
   :LOGBOOK:
   :END:
   :PROPERTIES:
@@ -1452,7 +1453,8 @@ Lectures in calendar and tasks like planning lectures.
 pebenfel@math.ucsd.edu
 drichards@math.ucsd.edu
 Send exact dates of travel, destination/purpose of trip, and arrangements made for meeting classes
-****** TODO Find someone to cover Math20C lecture
+****** DONE Find someone to cover Math20C lecture
+       - State "DONE"       from "TODO"       [2013-04-29 Mon 11:16]
        :PROPERTIES:
        :ID:       f933cccd-4928-4102-ab7e-d91a4c79f933
        :END:
@@ -1477,6 +1479,10 @@ Send exact dates of travel, destination/purpose of trip, and arrangements made f
        CLOCK: [2013-04-26 Fri 11:33]--[2013-04-27 Sat 14:13] => 26:40
        CLOCK: [2013-04-25 Thu 13:02]--[2013-04-25 Thu 13:36] =>  0:34
        CLOCK: [2013-04-12 Fri 11:17]--[2013-04-12 Fri 12:11] =>  0:54
+       :END:
+****** Reviewing
+       :LOGBOOK:
+       CLOCK: [2013-04-29 Mon 11:16]
        :END:
 ***** Lectures							   :LECTURES:
 ****** Location
@@ -2133,7 +2139,8 @@ Lectures in calendar and tasks like planning lectures.
       :ID:       e361de6d-f497-434c-8740-ba92b3530218
       :END:
 <2013-04-04 Thu 13:30>
-****** NEXT Set up stats on TED for assessment
+****** DONE Set up stats on TED for assessment
+       - State "DONE"       from "NEXT"       [2013-04-29 Mon 11:16]
   :LOGBOOK:
   :END:
   :PROPERTIES:
@@ -2157,6 +2164,7 @@ Lectures in calendar and tasks like planning lectures.
 pebenfel@math.ucsd.edu
 drichards@math.ucsd.edu
 Send exact dates of travel, destination/purpose of trip, and arrangements made for meeting classes
+****** NEXT Find someone to cover lectures
 ***** Clocking							   :CLOCKING:
 ****** Admin
 ****** Office hours
@@ -2168,6 +2176,7 @@ Send exact dates of travel, destination/purpose of trip, and arrangements made f
        CLOCK: [2013-04-10 Wed 11:09]--[2013-04-10 Wed 11:57] =>  0:48
        CLOCK: [2013-04-08 Mon 11:18]--[2013-04-08 Mon 11:54] =>  0:36
        :END:
+****** Reviewing
 ***** Lectures							   :LECTURES:
 ****** Location
 Center 119
