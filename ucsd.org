@@ -1482,7 +1482,7 @@ Send exact dates of travel, destination/purpose of trip, and arrangements made f
        :END:
 ****** Reviewing
        :LOGBOOK:
-       CLOCK: [2013-04-29 Mon 11:16]
+       CLOCK: [2013-04-29 Mon 11:16]--[2013-04-29 Mon 11:20] =>  0:04
        :END:
 ***** Lectures							   :LECTURES:
 ****** Location
@@ -2064,6 +2064,8 @@ CLOCK: [2013-04-08 Mon 15:00]--[2013-04-08 Mon 16:12] =>  0:59
       :END:
 [2013-04-05 Fri 16:44]
 **** TODO MATH20D Spring 2013				      :MATH20D:FOCUS:
+     :LOGBOOK:
+     :END:
     :PROPERTIES:
     :ID:       01742e1a-c15f-4aab-ada0-59725c2e73e4
     :END:
@@ -2177,6 +2179,9 @@ Send exact dates of travel, destination/purpose of trip, and arrangements made f
        CLOCK: [2013-04-08 Mon 11:18]--[2013-04-08 Mon 11:54] =>  0:36
        :END:
 ****** Reviewing
+       :LOGBOOK:
+       CLOCK: [2013-04-29 Mon 11:20]--[2013-04-29 Mon 11:27] =>  0:07
+       :END:
 ***** Lectures							   :LECTURES:
 ****** Location
 Center 119
