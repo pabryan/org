@@ -1504,16 +1504,16 @@ Possible dates: 5/4/13, 12/4/13, 19/4/13
      :END:
 - Consult thesis for details or get conference proceedings
 
-**** NEXT Hamilton/Jacobi and viscosity equation
+**** DONE Viscosity equations
+     - State "DONE"       from "NEXT"       [2013-04-28 Sun 18:07]
      :LOGBOOK:
-     CLOCK: [2013-04-28 Sun 17:50]
+     CLOCK: [2013-04-28 Sun 17:50]--[2013-04-28 Sun 18:07] =>  0:17
      :END:
+**** NEXT Hamilton/Jacobi viscosity equation
 - Consult Mategazza et. al - 2 papers!
-
-**** TODO Viscosity equations
 **** TODO Distance comparison
 **** TODO Isoperimetric comparison
-**** TODO Laplace at infima
+**** TODO Laplace at extrema
 **** TODO Linearisation and commuting space and time derivatives
 *** TODO Tasks
 **** DONE Ask Lei/FRdesk about someone covering lectures
