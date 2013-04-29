@@ -1497,13 +1497,17 @@ Possible dates: 5/4/13, 12/4/13, 19/4/13
      :LOGBOOK:
      CLOCK: [2013-04-28 Sun 15:23]--[2013-04-28 Sun 15:37] =>  0:14
      :END:
-**** NEXT Write Hamilton isoperimetric comparison
+**** DONE Write Hamilton isoperimetric comparison
+     - State "DONE"       from "NEXT"       [2013-04-28 Sun 17:50]
      :LOGBOOK:
-     CLOCK: [2013-04-28 Sun 17:39]
+     CLOCK: [2013-04-28 Sun 17:39]--[2013-04-28 Sun 17:50] =>  0:11
      :END:
 - Consult thesis for details or get conference proceedings
 
-**** TODO Hamilton/Jacobi and viscosity equation
+**** NEXT Hamilton/Jacobi and viscosity equation
+     :LOGBOOK:
+     CLOCK: [2013-04-28 Sun 17:50]
+     :END:
 - Consult Mategazza et. al - 2 papers!
 
 **** TODO Viscosity equations
