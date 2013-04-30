@@ -1510,7 +1510,8 @@ Possible dates: 5/4/13, 12/4/13, 19/4/13
      :LOGBOOK:
      CLOCK: [2013-04-28 Sun 17:50]--[2013-04-28 Sun 18:07] =>  0:17
      :END:
-**** NEXT Hamilton/Jacobi viscosity equation
+**** DONE Hamilton/Jacobi viscosity equation
+     - State "DONE"       from "NEXT"       [2013-04-29 Mon 20:39]
      :LOGBOOK:
      CLOCK: [2013-04-29 Mon 10:39]--[2013-04-29 Mon 11:07] =>  0:28
      :END:
@@ -1518,7 +1519,10 @@ Possible dates: 5/4/13, 12/4/13, 19/4/13
      :ID:       785766b0-1d74-4290-afe8-3ab14da6fe15
      :END:
 - Consult Mategazza et. al - 2 papers!
-**** TODO Distance comparison
+**** NEXT Distance comparison
+     :LOGBOOK:
+     CLOCK: [2013-04-29 Mon 20:39]
+     :END:
      :PROPERTIES:
      :ID:       f14d4391-4820-4a0f-af03-11db4d087460
      :END:
