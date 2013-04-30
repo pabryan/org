@@ -2534,9 +2534,10 @@ Center 119
 	:PROPERTIES:
 	:ID:       617fd478-0716-4fca-97bc-1cbf72e0e36d
 	:END:
-******* NEXT Answer student concerns
+******* DONE Answer student concerns
+	- State "DONE"       from "NEXT"       [2013-04-30 Tue 12:34]
 	:LOGBOOK:
-	CLOCK: [2013-04-30 Tue 12:22]
+	CLOCK: [2013-04-30 Tue 12:22]--[2013-04-30 Tue 12:34] =>  0:12
 	:END:
 ****** Midterm 2
 ******* NEXT Write Midterm 2
