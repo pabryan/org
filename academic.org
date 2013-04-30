@@ -604,6 +604,9 @@ how are they related?
       :ID:       4f27c099-1b3f-44a1-b38d-394b791aabef
       :END:
 **** TODO Space form curvature flow			 :SPACE_FORM_HARNACK:
+     :PROPERTIES:
+     :ID:       5b2bd1d4-ccbc-4951-b859-778926ad749d
+     :END:
 ***** Notes
 ****** Flow
 In hyperbolic space flow by $(K-1)\nor$. How about in $M(\kappa)$, flow by $(K-\kappa)\nor$ where $M(\kappa)$ is the simply connected space form with constant curvature $\kappa$?
@@ -1521,12 +1524,15 @@ Possible dates: 5/4/13, 12/4/13, 19/4/13
 - Consult Mategazza et. al - 2 papers!
 **** NEXT Distance comparison
      :LOGBOOK:
-     CLOCK: [2013-04-29 Mon 20:39]
+     CLOCK: [2013-04-29 Mon 20:39]--[2013-04-29 Mon 20:50] =>  0:11
      :END:
      :PROPERTIES:
      :ID:       f14d4391-4820-4a0f-af03-11db4d087460
      :END:
-**** TODO Isoperimetric comparison
+**** NEXT Isoperimetric comparison
+     :LOGBOOK:
+     CLOCK: [2013-04-29 Mon 20:50]--[2013-04-29 Mon 20:55] =>  0:05
+     :END:
      :PROPERTIES:
      :ID:       7916c4dc-1218-469c-9429-b066b6e3bf53
      :END:
