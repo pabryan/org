@@ -603,6 +603,79 @@ how are they related?
       :PROPERTIES:
       :ID:       4f27c099-1b3f-44a1-b38d-394b791aabef
       :END:
+**** TODO Space form curvature flow			 :SPACE_FORM_HARNACK:
+***** Notes
+****** Flow
+In hyperbolic space flow by $(K-1)\nor$. How about in $M(\kappa)$, flow by $(K-\kappa)\nor$ where $M(\kappa)$ is the simply connected space form with constant curvature $\kappa$?
+
+****** Support Function
+******* Definition
+Define
+\[
+s_{\kappa} (x) = \begin{cases}
+\frac{1}{\kappa} \sin \kappa x, & \kappa > 0 \\
+x, & \kappa = 0 \\
+\frac{1}{\abs{\kappa}} \sinh \abs{\kappa} x, & \kappa < 0
+\end{cases}
+\]
+and 
+\[
+V_{\kappa} (x) = s_{\kappa} (d) \grad d
+\]
+from which we define the support function
+\[
+s_{\kappa}(x) = \ip{\nor(x)}{V_{\kappa} (x)}
+\]
+of an immersed hypersurface $F: M \to M(\kappa)$, for $x\in M$.
+
+The support function defined this way is the orthogonal distance from the origin to the totally geodesic hypersurface tangent to $M$ at $x$. In $\RR^{n+1}$, this is just the tangent plane to $M$ at $x$ embedded as an affine subspace in $\RR^{n+1}$.  For $\HH^{n+1}$, I think the totally geodesic submanifold might be identifiable with the tangent plane and the origin is any point - usually take $\HH^{n+1}$ to be the one-sheeted hyperboloid in Minkowski space $\RR^{n+1,1}$ and the origin to be the point $(0, \dotsc, 0, 1)$. For $\sphere^{n+1}$ of course, the tangent plane is non-compact and so can't be embedded in $\sphere^{n+1}$, but I think you can map the tangent plane onto the totally geodesic hypersurface. Then the tangent plane is the universal cover of the totally geodesic hypersurface. The origin is any point which we usually take to be the north pole.
+
+In all cases, $\sphere^n$ can be embedded "canonically" as the set of points distance $1$ from the origin - do we have to be careful in $\HH^{n+1}$? In $\RR^{n+1}$ this is the usual embedding, in $\sphere^{n+1}$ it is the equator and in $\HH^{n+1}$ it I think is the "equator" given by intersecting the hyperboloid with a hyperplane $x_{n+2} = c$ in $\RR^{n+1,1}$.
+
+All of this says that the situation described in Ben Andrew's harnack inequality for evolving hypersurfaces paper should carry through. For instance, we can parametrise the image of $M$ by the Gauss map. Then the support function parametrisation is
+\[
+\phi(z) = \exp (s(z) z) + \exp(a(z))
+\]
+for $z\in\sphere^n$ and where $a(z)$ is tangent. Is the tangent plane at $x$ parallel to the tangent plane to $\sphere^n$ in hyperoblic space and in the sphere? If so then we should be able to conclude something like $a(z) = \grad s$ just as Ben does in Euclidean space.
+
+******* Laplacian
+We compute $\laplace s$ in the standard parametrisation (i.e. $s$ is a function on $M$ not on $\sphere^n$) which I think is something like
+\[
+\laplace s = \ip{\laplace V}{\nor} + \ip{V}{\conx \meancurv} + \text{Tr} (X, Y \mapsto \ip{\conx_X \nor}{\conx_Y V} + \ip{\conx_Y \nor}{\conx_X V}).
+\]
+The last term is related to the Lie derivative of the metric with respect to $V$ and should behave nicely for this choice of $V$. I don't know how exactly yet. This formula gives some sort of Bochner formula for $s$.
+
+We could also do it via the Gauss map parametrisation as Ben does. I think in the sphere and hyperbolic space this won't be quite as nice as Euclidean space, but may be nicer than the standard parametrisation.
+
+I think it probably is not necessary, even in Euclidean space to use the Gauss map parametrisation, though is does mean we need to deal with a time dependent metric. Recall Ben is able to write everything with respect to the fixed metric on $\sphere^n$ which simplifies matters greatly. Even still, in the standard parametrisation, the computation should be substantially simpler than Hamilton's Harnack inequality. 
+
+******* Generalisations
+The following is for after we figure out the simply connected space form situation.
+
+I think all the above can be generalised to Lie groups with bi-invariant metric (maybe just left-invariant) and maybe quotients of such Lie groups. Also Killing parallelisable manifolds should be amenable to these techniques and perhaps all we need is manifolds admitting a Killing field. Also, in these cases, I don't think we could use the Gauss map parametrisation so easily and the standard parametrisation may be preferrable. In this situation however, we may make use of the Bochner formula for the support function. In particular, if $V$ is a Killing field (which can be obtained for Lie groups with bi-invariant metrics by left translation of any vector field), the last term in $\laplace s$ above vanishes. 
+
+****** Questions
+******* Gauss map paramertisations
+Can we parametrise convex hypersurfaces using the Gauss map? Do we need to?
+******* Harnack Inequality
+Can we get a Harnack inequality from the support function?
+******* Long time behaviour
+Can we deduce long-time behaviour from the support function?
+***** Tasks
+****** DONE Write up outline and send to Chen
+       - State "DONE"       from "NEXT"       [2013-04-25 Thu 20:31]
+       :LOGBOOK:
+       CLOCK: [2013-04-25 Thu 19:31]--[2013-04-25 Thu 20:31] =>  1:00
+       :END:
+****** NEXT Work out embedding unit sphere and tangent plane into space forms
+       :LOGBOOK:
+       CLOCK: [2013-04-29 Mon 18:25]--[2013-04-29 Mon 18:55] =>  0:30
+       CLOCK: [2013-04-26 Fri 10:15]--[2013-04-26 Fri 11:33] =>  1:18
+       :END:
+       :PROPERTIES:
+       :ID:       5d7d38ad-aac0-409d-9ece-466e858612c9
+       :END:
+
 *** Future							    :SOMEDAY:
 **** TODO csf_networks					       :CSF_NETWORKS:
    :PROPERTIES:
@@ -1286,78 +1359,6 @@ http://mathoverflow.net/questions/17545/sheaves-and-bundles-in-differential-geom
 http://math.stackexchange.com/questions/24693/want-to-learn-differential-geometry-and-want-the-sheaf-perspective
 http://www.amazon.com/Global-Calculus-Graduate-Studies-Mathematics/dp/082183702
 http://mathoverflow.net/questions/14877/how-much-of-differential-geometry-can-be-developed-entirely-without-atlases-clo
-
-*** Space form curvature flow
-**** Notes
-***** Flow
-In hyperbolic space flow by $(K-1)\nor$. How about in $M(\kappa)$, flow by $(K-\kappa)\nor$ where $M(\kappa)$ is the simply connected space form with constant curvature $\kappa$?
-
-***** Support Function
-****** Definition
-Define
-\[
-s_{\kappa} (x) = \begin{cases}
-\frac{1}{\kappa} \sin \kappa x, & \kappa > 0 \\
-x, & \kappa = 0 \\
-\frac{1}{\abs{\kappa}} \sinh \abs{\kappa} x, & \kappa < 0
-\end{cases}
-\]
-and 
-\[
-V_{\kappa} (x) = s_{\kappa} (d) \grad d
-\]
-from which we define the support function
-\[
-s_{\kappa}(x) = \ip{\nor(x)}{V_{\kappa} (x)}
-\]
-of an immersed hypersurface $F: M \to M(\kappa)$, for $x\in M$.
-
-The support function defined this way is the orthogonal distance from the origin to the totally geodesic hypersurface tangent to $M$ at $x$. In $\RR^{n+1}$, this is just the tangent plane to $M$ at $x$ embedded as an affine subspace in $\RR^{n+1}$.  For $\HH^{n+1}$, I think the totally geodesic submanifold might be identifiable with the tangent plane and the origin is any point - usually take $\HH^{n+1}$ to be the one-sheeted hyperboloid in Minkowski space $\RR^{n+1,1}$ and the origin to be the point $(0, \dotsc, 0, 1)$. For $\sphere^{n+1}$ of course, the tangent plane is non-compact and so can't be embedded in $\sphere^{n+1}$, but I think you can map the tangent plane onto the totally geodesic hypersurface. Then the tangent plane is the universal cover of the totally geodesic hypersurface. The origin is any point which we usually take to be the north pole.
-
-In all cases, $\sphere^n$ can be embedded "canonically" as the set of points distance $1$ from the origin - do we have to be careful in $\HH^{n+1}$? In $\RR^{n+1}$ this is the usual embedding, in $\sphere^{n+1}$ it is the equator and in $\HH^{n+1}$ it I think is the "equator" given by intersecting the hyperboloid with a hyperplane $x_{n+2} = c$ in $\RR^{n+1,1}$.
-
-All of this says that the situation described in Ben Andrew's harnack inequality for evolving hypersurfaces paper should carry through. For instance, we can parametrise the image of $M$ by the Gauss map. Then the support function parametrisation is
-\[
-\phi(z) = \exp (s(z) z) + \exp(a(z))
-\]
-for $z\in\sphere^n$ and where $a(z)$ is tangent. Is the tangent plane at $x$ parallel to the tangent plane to $\sphere^n$ in hyperoblic space and in the sphere? If so then we should be able to conclude something like $a(z) = \grad s$ just as Ben does in Euclidean space.
-
-****** Laplacian
-We compute $\laplace s$ in the standard parametrisation (i.e. $s$ is a function on $M$ not on $\sphere^n$) which I think is something like
-\[
-\laplace s = \ip{\laplace V}{\nor} + \ip{V}{\conx \meancurv} + \text{Tr} (X, Y \mapsto \ip{\conx_X \nor}{\conx_Y V} + \ip{\conx_Y \nor}{\conx_X V}).
-\]
-The last term is related to the Lie derivative of the metric with respect to $V$ and should behave nicely for this choice of $V$. I don't know how exactly yet. This formula gives some sort of Bochner formula for $s$.
-
-We could also do it via the Gauss map parametrisation as Ben does. I think in the sphere and hyperbolic space this won't be quite as nice as Euclidean space, but may be nicer than the standard parametrisation.
-
-I think it probably is not necessary, even in Euclidean space to use the Gauss map parametrisation, though is does mean we need to deal with a time dependent metric. Recall Ben is able to write everything with respect to the fixed metric on $\sphere^n$ which simplifies matters greatly. Even still, in the standard parametrisation, the computation should be substantially simpler than Hamilton's Harnack inequality. 
-
-****** Generalisations
-The following is for after we figure out the simply connected space form situation.
-
-I think all the above can be generalised to Lie groups with bi-invariant metric (maybe just left-invariant) and maybe quotients of such Lie groups. Also Killing parallelisable manifolds should be amenable to these techniques and perhaps all we need is manifolds admitting a Killing field. Also, in these cases, I don't think we could use the Gauss map parametrisation so easily and the standard parametrisation may be preferrable. In this situation however, we may make use of the Bochner formula for the support function. In particular, if $V$ is a Killing field (which can be obtained for Lie groups with bi-invariant metrics by left translation of any vector field), the last term in $\laplace s$ above vanishes. 
-
-***** Questions
-****** Gauss map paramertisations
-Can we parametrise convex hypersurfaces using the Gauss map? Do we need to?
-****** Harnack Inequality
-Can we get a Harnack inequality from the support function?
-****** Long time behaviour
-Can we deduce long-time behaviour from the support function?
-**** Tasks
-***** DONE Write up outline and send to Chen
-      - State "DONE"       from "NEXT"       [2013-04-25 Thu 20:31]
-      :LOGBOOK:
-      CLOCK: [2013-04-25 Thu 19:31]--[2013-04-25 Thu 20:31] =>  1:00
-      :END:
-***** NEXT Work out embedding unit sphere and tangent plane into space forms
-      :LOGBOOK:
-      CLOCK: [2013-04-26 Fri 10:15]--[2013-04-26 Fri 11:33] =>  1:18
-      :END:
-      :PROPERTIES:
-      :ID:       5d7d38ad-aac0-409d-9ece-466e858612c9
-      :END:
 
 ** Reading
    :PROPERTIES:
