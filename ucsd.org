@@ -2524,7 +2524,8 @@ Center 119
         :ID:       89e706cd-d3ad-405e-a729-62e36f437ea6
         :END:
 
-******* HOLD Print midterm to front desk for printing
+******* DONE Print midterm to front desk for printing
+	- State "DONE"       from "HOLD"       [2013-04-30 Tue 12:22]
 	- State "HOLD"       from "NEXT"       [2013-04-23 Tue 09:13] \\
 	  Sent to frdesk@math.ucsd - waiting on printing@ucsd
 	:LOGBOOK:
@@ -2532,6 +2533,10 @@ Center 119
 	:END:
 	:PROPERTIES:
 	:ID:       617fd478-0716-4fca-97bc-1cbf72e0e36d
+	:END:
+******* NEXT Answer student concerns
+	:LOGBOOK:
+	CLOCK: [2013-04-30 Tue 12:22]
 	:END:
 ****** Midterm 2
 ******* NEXT Write Midterm 2
