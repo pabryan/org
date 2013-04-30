@@ -680,6 +680,11 @@ Can we deduce long-time behaviour from the support function?
        :ID:       5d7d38ad-aac0-409d-9ece-466e858612c9
        :END:
 
+****** NEXT Work out support function parametrisation
+       :LOGBOOK:
+       CLOCK: [2013-04-30 Tue 14:00]
+       :END:
+- i.e. construct a parametrisation from the support function.
 *** Future							    :SOMEDAY:
 **** TODO csf_networks					       :CSF_NETWORKS:
    :PROPERTIES:
@@ -1532,6 +1537,7 @@ Possible dates: 5/4/13, 12/4/13, 19/4/13
      :END:
 **** NEXT Isoperimetric comparison
      :LOGBOOK:
+     CLOCK: [2013-04-30 Tue 10:55]--[2013-04-30 Tue 11:28] =>  0:33
      CLOCK: [2013-04-29 Mon 20:50]--[2013-04-29 Mon 20:55] =>  0:05
      :END:
      :PROPERTIES:
