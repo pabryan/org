@@ -1510,12 +1510,30 @@ Possible dates: 5/4/13, 12/4/13, 19/4/13
      CLOCK: [2013-04-28 Sun 17:50]--[2013-04-28 Sun 18:07] =>  0:17
      :END:
 **** NEXT Hamilton/Jacobi viscosity equation
+     :PROPERTIES:
+     :ID:       785766b0-1d74-4290-afe8-3ab14da6fe15
+     :END:
 - Consult Mategazza et. al - 2 papers!
 **** TODO Distance comparison
+     :PROPERTIES:
+     :ID:       f14d4391-4820-4a0f-af03-11db4d087460
+     :END:
 **** TODO Isoperimetric comparison
+     :PROPERTIES:
+     :ID:       7916c4dc-1218-469c-9429-b066b6e3bf53
+     :END:
 **** TODO Laplace at extrema
+     :PROPERTIES:
+     :ID:       d96319d4-3245-4d0e-867b-8ca704384b52
+     :END:
 **** TODO Linearisation and commuting space and time derivatives
+     :PROPERTIES:
+     :ID:       0fbdd0b2-72a3-427c-8625-37cf66cadc27
+     :END:
 *** TODO Tasks
+    :PROPERTIES:
+    :ID:       f678222d-0354-41c9-8cc9-c88dca580a97
+    :END:
 **** DONE Ask Lei/FRdesk about someone covering lectures
      - State "DONE"       from "NEXT"       [2013-03-29 Fri 14:12]
      :PROPERTIES:

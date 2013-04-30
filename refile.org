@@ -92,5 +92,8 @@ Put my common setup in it's own config and include from the .sss/config file. Th
   SCHEDULED: <2013-04-29 Mon>
   :LOGBOOK:
   :END:
+  :PROPERTIES:
+  :ID:       9b542226-f2c6-42eb-8f2e-6efef06fc3f4
+  :END:
 [2013-04-28 Sun 15:12]
 
