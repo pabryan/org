@@ -685,6 +685,7 @@ Can we deduce long-time behaviour from the support function?
        CLOCK: [2013-04-30 Tue 14:00]--[2013-04-30 Tue 16:00] =>  2:00
        :END:
 - i.e. construct a parametrisation from the support function.
+- Is it true that $\exp_O (s(x)\nor(x) + T(x)) = x$ with $T(x) = \grad s$ tangent?
 *** Future							    :SOMEDAY:
 **** TODO csf_networks					       :CSF_NETWORKS:
    :PROPERTIES:
@@ -1537,6 +1538,7 @@ Possible dates: 5/4/13, 12/4/13, 19/4/13
      :END:
 **** NEXT Isoperimetric comparison
      :LOGBOOK:
+     CLOCK: [2013-04-30 Tue 12:34]--[2013-04-30 Tue 13:08] =>  0:34
      CLOCK: [2013-04-30 Tue 10:55]--[2013-04-30 Tue 11:28] =>  0:33
      CLOCK: [2013-04-29 Mon 20:50]--[2013-04-29 Mon 20:55] =>  0:05
      :END:
