@@ -604,6 +604,8 @@ how are they related?
       :ID:       4f27c099-1b3f-44a1-b38d-394b791aabef
       :END:
 **** TODO Space form curvature flow			 :SPACE_FORM_HARNACK:
+     :LOGBOOK:
+     :END:
      :PROPERTIES:
      :ID:       5b2bd1d4-ccbc-4951-b859-778926ad749d
      :END:
@@ -682,9 +684,12 @@ Can we deduce long-time behaviour from the support function?
 
 ****** NEXT Work out support function parametrisation
        :LOGBOOK:
-       CLOCK: [2013-04-30 Tue 19:16]
+       CLOCK: [2013-04-30 Tue 19:16]--[2013-04-30 Tue 21:25] =>  2:09
        CLOCK: [2013-04-30 Tue 18:09]--[2013-04-30 Tue 18:36] =>  0:27
        CLOCK: [2013-04-30 Tue 14:00]--[2013-04-30 Tue 16:00] =>  2:00
+       :END:
+       :PROPERTIES:
+       :ID:       0548f728-0249-4589-805b-f4b1340895b1
        :END:
 - i.e. construct a parametrisation from the support function.
 - Is it true that $\exp_O (s(x)\nor(x) + T(x)) = x$ with $T(x) = \grad s$ tangent?
