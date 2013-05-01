@@ -2384,6 +2384,9 @@ Center 119
        	:ID:       db813566-02a4-4268-8a62-06a6d1aa2e47
        	:END:
 ****** Lecture 05.2
+       :LOGBOOK:
+       CLOCK: [2013-05-01 Wed 12:45]
+       :END:
 <2013-05-01 Wed 13:00-14:00>
 ******* DONE Prepare lecture
        	DEADLINE: <2013-05-01 Wed>
