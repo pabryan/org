@@ -682,7 +682,8 @@ Can we deduce long-time behaviour from the support function?
 
 ****** NEXT Work out support function parametrisation
        :LOGBOOK:
-       CLOCK: [2013-04-30 Tue 18:09]
+       CLOCK: [2013-04-30 Tue 19:16]
+       CLOCK: [2013-04-30 Tue 18:09]--[2013-04-30 Tue 18:36] =>  0:27
        CLOCK: [2013-04-30 Tue 14:00]--[2013-04-30 Tue 16:00] =>  2:00
        :END:
 - i.e. construct a parametrisation from the support function.
