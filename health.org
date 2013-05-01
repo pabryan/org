@@ -8,7 +8,8 @@
 
 ** Tracking
 *** NEXT Exercise
-    SCHEDULED: <2013-05-01 Wed .+1d/2d>
+    SCHEDULED: <2013-05-02 Thu .+1d/2d>
+    - State "DONE"       from "NEXT"       [2013-05-01 Wed 12:16]
     - State "DONE"       from "NEXT"       [2013-04-30 Tue 10:40]
     - State "DONE"       from "NEXT"       [2013-04-28 Sun 15:13]
     - State "DONE"       from "NEXT"       [2013-04-24 Wed 20:17]
@@ -47,11 +48,12 @@
     :STYLE:    habit
     :REPEAT_TO_STATE: NEXT
     :ID:       8d56b2ef-1b49-4dc4-b701-1d021a293fa4
-    :LAST_REPEAT: [2013-04-30 Tue 10:40]
+    :LAST_REPEAT: [2013-05-01 Wed 12:16]
     :END:
 
 *** NEXT Morning Mobility
-    SCHEDULED: <2013-05-01 Wed .+1d/2d>
+    SCHEDULED: <2013-05-02 Thu .+1d/2d>
+    - State "DONE"       from "NEXT"       [2013-05-01 Wed 12:16]
     - State "DONE"       from "SOMEDAY"    [2013-04-30 Tue 10:40]
     - State "DONE"       from "NEXT"       [2013-04-28 Sun 15:13]
     - State "DONE"       from "NEXT"       [2013-04-24 Wed 20:17]
@@ -94,11 +96,12 @@
     :STYLE:    habit
     :REPEAT_TO_STATE: NEXT
     :ID:       0e75f56d-0356-4a0f-a376-080471ad4aad
-    :LAST_REPEAT: [2013-04-30 Tue 10:40]
+    :LAST_REPEAT: [2013-05-01 Wed 12:16]
     :END:
 
 *** NEXT Afternoon Relax
-    SCHEDULED: <2013-04-29 Mon .+1d/2d>
+    SCHEDULED: <2013-05-01 Wed .+1d/2d>
+    - State "DONE"       from "NEXT"       [2013-04-30 Tue 14:16]
     - State "DONE"       from "NEXT"       [2013-04-28 Sun 15:13]
     - State "DONE"       from "NEXT"       [2013-04-23 Tue 15:54]
     - State "DONE"       from "NEXT"       [2013-04-16 Tue 20:54]
@@ -121,11 +124,12 @@
     :STYLE:    habit
     :REPEAT_TO_STATE: NEXT
     :ID:       c0aaf33a-af77-446b-b9fd-cf2d2f78c12a
-    :LAST_REPEAT: [2013-04-28 Sun 15:13]
+    :LAST_REPEAT: [2013-05-01 Wed 12:16]
     :END:
   
 *** NEXT Evening Stretch
-    SCHEDULED: <2013-04-29 Mon .+1d/2d>
+    SCHEDULED: <2013-05-01 Wed .+1d/2d>
+    - State "DONE"       from "NEXT"       [2013-04-30 Tue 18:13]
     - State "DONE"       from "NEXT"       [2013-04-28 Sun 15:13]
     - State "DONE"       from "NEXT"       [2013-04-08 Mon 22:56]
     - State "DONE"       from "NEXT"       [2013-03-20 Wed 21:54]
@@ -141,7 +145,7 @@
     :STYLE:    habit
     :REPEAT_TO_STATE: NEXT
     :ID:       d439600f-c40d-4dd3-82ca-3e7d9e35f2b3
-    :LAST_REPEAT: [2013-04-28 Sun 15:13]
+    :LAST_REPEAT: [2013-05-01 Wed 12:16]
     :END:
   
 

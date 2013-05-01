@@ -2383,10 +2383,11 @@ Center 119
        	:END:
 ****** Lecture 05.2
 <2013-05-01 Wed 13:00-14:00>
-******* NEXT Prepare lecture
+******* DONE Prepare lecture
        	DEADLINE: <2013-05-01 Wed>
+	- State "DONE"       from "NEXT"       [2013-05-01 Wed 12:14]
 	:LOGBOOK:
-	CLOCK: [2013-05-01 Wed 11:26]
+	CLOCK: [2013-05-01 Wed 11:26]--[2013-05-01 Wed 12:14] =>  0:48
 	CLOCK: [2013-05-01 Wed 10:53]--[2013-05-01 Wed 11:02] =>  0:09
 	:END:
        	:PROPERTIES:
@@ -2793,8 +2794,9 @@ Center 119
 [[www.math.uci.edu/~cterng/SurfacesInR%5E3.pdf]]
 [[www.math.ku.dk/noter/filer/geom1.pdf]]
 ***** Tasks
-****** NEXT Order Text Books
+****** DONE Order Text Books
        DEADLINE: <2013-05-01 Wed>
+       - State "DONE"       from "NEXT"       [2013-05-01 Wed 12:16]
        :PROPERTIES:
        :ID:       f79ad07c-ea5e-4710-8cad-94ac0439a20d
        :END:
