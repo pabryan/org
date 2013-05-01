@@ -88,8 +88,9 @@ Put my common setup in it's own config and include from the .sss/config file. Th
   :ID:       7b4c1677-ee55-47b9-91c7-7f5b188957f0
   :END:
 [2013-04-27 Sat 14:17]
-* TODO Find someone to cover math20d
+* DONE Find someone to cover math20d
   SCHEDULED: <2013-04-29 Mon>
+  - State "DONE"       from "TODO"       [2013-05-01 Wed 16:14]
   :LOGBOOK:
   :END:
   :PROPERTIES:

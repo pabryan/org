@@ -1666,6 +1666,9 @@ CLOCK: [2013-04-08 Mon 15:00]--[2013-04-08 Mon 16:12] =>  0:59
        	:ID:       a5d2f24b-4f91-4a7d-aec7-723cfefc2142
        	:END:
 ****** Lecture 05.2
+       :LOGBOOK:
+       CLOCK: [2013-05-01 Wed 14:50]--[2013-05-01 Wed 16:11] =>  1:21
+       :END:
 <2013-05-01 Wed 15:00-16:00>
 ******* DONE Prepare lecture
        	DEADLINE: <2013-05-01 Wed>
@@ -2086,7 +2089,9 @@ CLOCK: [2013-04-08 Mon 15:00]--[2013-04-08 Mon 16:12] =>  0:59
 Student's have not done linear algebra yet so systems are tricky. However, on the $2x2$ case is needed.
 ****** MATLAB
 MATLAB is homework.
-****** Cover Bo Li's Lectures
+****** CANCELLED Cover Bo Li's Lectures
+       - State "CANCELLED"  from ""           [2013-05-01 Wed 16:14] \\
+	 Bo asked Lei to do it instead.
 CENTR 115
 <2013-05-01 Wed 11:00-11:50>
 ****** Lectures Covered
@@ -2385,7 +2390,7 @@ Center 119
        	:END:
 ****** Lecture 05.2
        :LOGBOOK:
-       CLOCK: [2013-05-01 Wed 12:45]
+       CLOCK: [2013-05-01 Wed 12:45]--[2013-05-01 Wed 14:11] =>  1:26
        :END:
 <2013-05-01 Wed 13:00-14:00>
 ******* DONE Prepare lecture
