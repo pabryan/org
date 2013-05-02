@@ -2425,6 +2425,9 @@ Center 119
 <2013-05-03 Fri 13:00-14:00>
 ******* NEXT Prepare lecture
        	DEADLINE: <2013-05-03 Fri>
+	:LOGBOOK:
+	CLOCK: [2013-05-02 Thu 11:50]
+	:END:
        	:PROPERTIES:
        	:ID:       1a7d2d41-04d9-449e-8c72-a5b778d4723a
        	:END:
