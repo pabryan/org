@@ -3213,17 +3213,19 @@ It should make the relevant web entry and also the email notice. Possibly I coul
     :END:
 
 ** UCSD Informal Seminars
-**** TODO GMT Seminar 						      :FOCUS:
+**** TODO GMT Seminar						      :FOCUS:
+     - State "DONE"       from "TODO"       [2013-05-02 Thu 11:46]
      :LOGBOOK:
-     CLOCK: [2013-05-02 Thu 09:56]
+     CLOCK: [2013-05-02 Thu 09:56]--[2013-05-02 Thu 11:46] =>  1:50
      CLOCK: [2013-04-18 Thu 09:55]--[2013-04-18 Thu 11:06] =>  1:11
      CLOCK: [2013-04-11 Thu 09:55]--[2013-04-11 Thu 11:07] =>  1:12
      CLOCK: [2013-04-04 Thu 09:55]--[2013-04-04 Thu 11:15] =>  1:20
      :END:
      :PROPERTIES:
      :ID:       4b241f45-ab31-446c-9479-9983ce98ce2a
+     :LAST_REPEAT: [2013-05-02 Thu 11:46]
      :END:
-<2013-04-04 Thu 10:00-11:00 +1w>
+<2013-04-11 Thu 10:00-11:00 +1w>
 ***** Tasks
 ****** TODO Prepare for GMT Seminars
        :LOGBOOK:
