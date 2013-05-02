@@ -159,6 +159,7 @@ Scan them and email them to commbank. Also make sure netbank access is setup.
 - scan reciepts and enter into ledger/org mode
 
 ** TODO Pay rent
+   - State "DONE"       from "TODO"       [2013-05-02 Thu 11:54]
    - State "DONE"       from "TODO"       [2013-04-02 Tue 21:33]
    - State "DONE"       from "TODO"       [2013-03-02 Sat 21:11]
    - State "DONE"       from "NEXT"       [2013-02-01 Fri 14:57]
@@ -168,11 +169,11 @@ Scan them and email them to commbank. Also make sure netbank access is setup.
    :LOGBOOK:
    CLOCK: [2013-02-01 Fri 14:42]--[2013-02-01 Fri 14:57] =>  0:15
    :END:
-   DEADLINE: <2013-05-05 Sun +1m -5d>
+   DEADLINE: <2013-06-05 Wed +1m -5d>
 
    :PROPERTIES:
    :ID:       ea07bf7b-9f89-49bf-90db-3e167baff163
-   :LAST_REPEAT: [2013-04-02 Tue 21:33]
+   :LAST_REPEAT: [2013-05-02 Thu 11:54]
    :END:
    [2012-10-17 Wed 14:44]
 
@@ -181,10 +182,11 @@ Use account A11078844
 
 
 ** TODO Pay ATT
-   DEADLINE: <2013-05-04 Sat +1m -5d>
+   DEADLINE: <2013-06-04 Tue +1m -5d>
+   - State "DONE"       from "TODO"       [2013-05-02 Thu 11:54]
    - State "DONE"       from "TODO"       [2013-04-02 Tue 21:33]
    :PROPERTIES:
-   :LAST_REPEAT: [2013-04-02 Tue 21:33]
+   :LAST_REPEAT: [2013-05-02 Thu 11:54]
    :ID:       137987c4-8151-42f0-bfad-b1e06d2cd512
    :END:
 [[http://www.att.com/]]

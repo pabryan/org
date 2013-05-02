@@ -1471,6 +1471,13 @@ Send exact dates of travel, destination/purpose of trip, and arrangements made f
        :ID:       59315c52-b03c-4ab2-be4e-d91eae1ad433
        :END:
 
+****** NEXT Review student homework
+       SCHEDULED: <2013-05-03 Fri>
+  :LOGBOOK:
+  CLOCK: [2013-05-02 Thu 11:53]--[2013-05-02 Thu 11:54] =>  0:01
+  :END:
+[2013-05-02 Thu 11:53]
+
 ***** Clocking							   :CLOCKING:
 ****** Admin
        :LOGBOOK:
