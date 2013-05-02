@@ -1476,6 +1476,9 @@ Send exact dates of travel, destination/purpose of trip, and arrangements made f
   :LOGBOOK:
   CLOCK: [2013-05-02 Thu 11:53]--[2013-05-02 Thu 11:54] =>  0:01
   :END:
+       :PROPERTIES:
+       :ID:       3cd8bd02-4eb6-48df-bd31-faae5cd12816
+       :END:
 [2013-05-02 Thu 11:53]
 
 ***** Clocking							   :CLOCKING:
@@ -2423,10 +2426,12 @@ Center 119
        	:END:
 ****** Lecture 05.3
 <2013-05-03 Fri 13:00-14:00>
-******* NEXT Prepare lecture
+******* DONE Prepare lecture
        	DEADLINE: <2013-05-03 Fri>
+	- State "DONE"       from "NEXT"       [2013-05-02 Thu 14:11]
 	:LOGBOOK:
-	CLOCK: [2013-05-02 Thu 12:58]
+	CLOCK: [2013-05-02 Thu 13:32]--[2013-05-02 Thu 14:11] =>  0:39
+	CLOCK: [2013-05-02 Thu 12:58]--[2013-05-02 Thu 13:06] =>  0:08
 	CLOCK: [2013-05-02 Thu 11:50]--[2013-05-02 Thu 12:10] =>  0:20
 	:END:
        	:PROPERTIES:
