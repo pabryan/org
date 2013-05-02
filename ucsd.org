@@ -1671,6 +1671,9 @@ CLOCK: [2013-04-08 Mon 15:00]--[2013-04-08 Mon 16:12] =>  0:59
        :LOGBOOK:
        CLOCK: [2013-05-01 Wed 14:50]--[2013-05-01 Wed 16:11] =>  1:21
        :END:
+       :PROPERTIES:
+       :ID:       6089fb9d-c015-484a-bf05-f5b8021f457d
+       :END:
 <2013-05-01 Wed 15:00-16:00>
 ******* DONE Prepare lecture
        	DEADLINE: <2013-05-01 Wed>
@@ -2094,6 +2097,9 @@ MATLAB is homework.
 ****** CANCELLED Cover Bo Li's Lectures
        - State "CANCELLED"  from ""           [2013-05-01 Wed 16:14] \\
 	 Bo asked Lei to do it instead.
+       :PROPERTIES:
+       :ID:       fefb775e-8053-4247-82b2-eee65b4b40c5
+       :END:
 CENTR 115
 <2013-05-01 Wed 11:00-11:50>
 ****** Lectures Covered
@@ -2393,6 +2399,9 @@ Center 119
 ****** Lecture 05.2
        :LOGBOOK:
        CLOCK: [2013-05-01 Wed 12:45]--[2013-05-01 Wed 14:11] =>  1:26
+       :END:
+       :PROPERTIES:
+       :ID:       8fb0fc52-684c-42a0-983c-ea7a111c56a9
        :END:
 <2013-05-01 Wed 13:00-14:00>
 ******* DONE Prepare lecture
