@@ -1695,6 +1695,9 @@ CLOCK: [2013-04-08 Mon 15:00]--[2013-04-08 Mon 16:12] =>  0:59
        	:ID:       838fc192-8e1e-4d49-bb76-f75c2f59b520
        	:END:
 ****** Lecture 05.3
+       :LOGBOOK:
+       CLOCK: [2013-05-03 Fri 14:45]--[2013-05-03 Fri 16:06] =>  1:21
+       :END:
 <2013-05-03 Fri 15:00-16:00>
 ******* NEXT Prepare lecture
        	DEADLINE: <2013-05-03 Fri>
@@ -2430,7 +2433,7 @@ Center 119
        	:END:
 ****** Lecture 05.3
        :LOGBOOK:
-       CLOCK: [2013-05-03 Fri 12:52]
+       CLOCK: [2013-05-03 Fri 12:52]--[2013-05-03 Fri 14:06] =>  1:14
        :END:
 <2013-05-03 Fri 13:00-14:00>
 ******* DONE Prepare lecture
