@@ -1698,6 +1698,10 @@ CLOCK: [2013-04-08 Mon 15:00]--[2013-04-08 Mon 16:12] =>  0:59
 <2013-05-03 Fri 15:00-16:00>
 ******* NEXT Prepare lecture
        	DEADLINE: <2013-05-03 Fri>
+	:LOGBOOK:
+	CLOCK: [2013-05-03 Fri 12:36]--[2013-05-03 Fri 12:52] =>  0:16
+	CLOCK: [2013-05-03 Fri 11:39]--[2013-05-03 Fri 12:02] =>  0:23
+	:END:
        	:PROPERTIES:
        	:ID:       5ebf9744-855a-49b7-a05c-32e65659fe9e
        	:END:
@@ -2425,6 +2429,9 @@ Center 119
        	:ID:       bccc60bb-a402-4a55-be3e-a5acf31f427b
        	:END:
 ****** Lecture 05.3
+       :LOGBOOK:
+       CLOCK: [2013-05-03 Fri 12:52]
+       :END:
 <2013-05-03 Fri 13:00-14:00>
 ******* DONE Prepare lecture
        	DEADLINE: <2013-05-03 Fri>
