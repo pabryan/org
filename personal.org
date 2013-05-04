@@ -30,7 +30,7 @@ END:
 | Rent        |  1650 |
 | Electricity |    75 |
 | Phone       |    80 |
-| TV/Internet |    50 |
+| TV/Internet |    85 |
 | Insurance   |    90 |
 | Petrol      |    30 |
 | Comics      |    60 |
@@ -42,7 +42,7 @@ END:
 | Montly Food |    59 |
 | Australia   |   855 |
 |             |       |
-| Total       | -225. |
+| Total       | -190. |
    #+TBLFM: @11$2=250::@12$2=remote(WeeklyFood,@14$2)*4.5::@13$2=remote(Supplies,@11$2)::@14$2=remote(MonthlyFood,@13$2)::@15$2=remote(Australia,@7$2)::@17$2=vsum(@2$2..@16$2)
 
 #+TBLNAME: Australia
