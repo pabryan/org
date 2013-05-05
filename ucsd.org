@@ -1354,8 +1354,6 @@ Put final exam conditions - 2 pages notes allowed.
 
 *** Spring 2013
 **** TODO MATH20C Spring 2013				      :MATH20C:FOCUS:
-     :LOGBOOK:
-     :END:
      :PROPERTIES:
      :ID:       b7714d68-e3c3-4424-be34-62a9473108e4
      :END:
@@ -1726,10 +1724,11 @@ CLOCK: [2013-04-08 Mon 15:00]--[2013-04-08 Mon 16:12] =>  0:59
        	:END:
 ****** Lecture 06.2
 <2013-05-08 Wed 15:00-16:00>
-******* NEXT Prepare lecture
+******* DONE Prepare lecture
        	DEADLINE: <2013-05-08 Wed>
+	- State "DONE"       from "NEXT"       [2013-05-05 Sun 16:46]
 	:LOGBOOK:
-	CLOCK: [2013-05-05 Sun 16:00]
+	CLOCK: [2013-05-05 Sun 16:00]--[2013-05-05 Sun 16:46] =>  0:46
 	:END:
        	:PROPERTIES:
        	:ID:       ed583869-0ee2-4174-95f6-6aba89e855c2
@@ -2481,6 +2480,9 @@ Center 119
 <2013-05-08 Wed 13:00-14:00>
 ******* NEXT Prepare lecture
        	DEADLINE: <2013-05-08 Wed>
+	:LOGBOOK:
+	CLOCK: [2013-05-05 Sun 16:47]
+	:END:
        	:PROPERTIES:
        	:ID:       7e560fcc-f279-4226-900c-8bc800183bc7
        	:END:
