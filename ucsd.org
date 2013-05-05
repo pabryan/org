@@ -1728,6 +1728,9 @@ CLOCK: [2013-04-08 Mon 15:00]--[2013-04-08 Mon 16:12] =>  0:59
 <2013-05-08 Wed 15:00-16:00>
 ******* NEXT Prepare lecture
        	DEADLINE: <2013-05-08 Wed>
+	:LOGBOOK:
+	CLOCK: [2013-05-05 Sun 16:00]
+	:END:
        	:PROPERTIES:
        	:ID:       ed583869-0ee2-4174-95f6-6aba89e855c2
        	:END:
@@ -2060,7 +2063,7 @@ CLOCK: [2013-04-08 Mon 15:00]--[2013-04-08 Mon 16:12] =>  0:59
 ******* NEXT Set quiz 
        	DEADLINE: <2013-05-01 Wed>
 	:LOGBOOK:
-	CLOCK: [2013-05-05 Sun 15:23]
+	CLOCK: [2013-05-05 Sun 15:23]--[2013-05-05 Sun 16:00] =>  0:37
 	CLOCK: [2013-05-05 Sun 11:08]--[2013-05-05 Sun 12:01] =>  0:53
 	:END:
        	:PROPERTIES:
