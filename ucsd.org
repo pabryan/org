@@ -2062,6 +2062,7 @@ CLOCK: [2013-04-08 Mon 15:00]--[2013-04-08 Mon 16:12] =>  0:59
 ******* NEXT Set quiz 
        	DEADLINE: <2013-05-01 Wed>
 	:LOGBOOK:
+	CLOCK: [2013-05-06 Mon 09:32]
 	CLOCK: [2013-05-05 Sun 15:23]--[2013-05-05 Sun 16:00] =>  0:37
 	CLOCK: [2013-05-05 Sun 11:08]--[2013-05-05 Sun 12:01] =>  0:53
 	:END:
@@ -2957,6 +2958,14 @@ I was emailed by the iClicker people about a large class I'm teaching. How do th
     :END:
 [2013-04-02 Tue 21:14]
 
+*** TODO Check textbooks for teaching DG
+  :LOGBOOK:
+  :END:
+  :PROPERTIES:
+  :ID:       8812eda3-cf7b-4f6e-8e56-b3ea5eead235
+  :END:
+[2013-02-25 Mon 10:13]
+See email from worldscientific4@mail3.wspc.com
 ** Teaching as research
 *** SOMEDAY Write org-mode teaching paper
 Use a course as a guinea pig for using the method
@@ -2966,14 +2975,26 @@ Use a course as a guinea pig for using the method
     :END:
 [2012-10-14 Sun 20:43]
 
-** TODO Check textbooks for teaching DG
-  :LOGBOOK:
-  :END:
-  :PROPERTIES:
-  :ID:       8812eda3-cf7b-4f6e-8e56-b3ea5eead235
-  :END:
-[2013-02-25 Mon 10:13]
-See email from worldscientific4@mail3.wspc.com
+** Notes
+*** Processing tex to png
+**** Ref
+http://tex.stackexchange.com/questions/34054/tex-to-image-over-command-line/34058#34058
+**** TeX
+\ifdefined\formula
+\else
+    \def\formula{E = m c^2}
+\fi
+\documentclass[border=2pt,varwidth]{standalone}
+\usepackage{standalone}
+\usepackage{amsmath}
+\usepackage[all]{pabmacros}
+\begin{document}
+\[ \formula \]
+\end{document}
+**** Command
+formula=""
+pdflatex "\def\formula{$formula}\input{formula.tex}"
+convert -density 300 formula.pdf -quality 90 formula.png
 * Seminars 							    :SEMINAR:
   :PROPERTIES:
   :ID:       4a7b50f0-8368-4d3a-bc5d-c0e229fd442f
