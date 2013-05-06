@@ -88,3 +88,11 @@ Put my common setup in it's own config and include from the .sss/config file. Th
   :ID:       7b4c1677-ee55-47b9-91c7-7f5b188957f0
   :END:
 [2013-04-27 Sat 14:17]
+* TODO Check out online texts
+  :LOGBOOK:
+  :END:
+[2013-05-05 Sun 17:15]
+http://linear.ups.edu/html/fcla.html
+Sage cell server
+[[https://github.com/sagemath/sagecell]]
+[[http://aleph.sagemath.org/static/about.html]]
