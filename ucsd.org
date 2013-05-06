@@ -2481,7 +2481,9 @@ Center 119
 ******* NEXT Prepare lecture
        	DEADLINE: <2013-05-08 Wed>
 	:LOGBOOK:
-	CLOCK: [2013-05-05 Sun 16:47]
+	CLOCK: [2013-05-05 Sun 17:15]
+	CLOCK: [2013-05-05 Sun 16:55]--[2013-05-05 Sun 17:15] =>  0:20
+	CLOCK: [2013-05-05 Sun 16:47]--[2013-05-05 Sun 16:51] =>  0:04
 	:END:
        	:PROPERTIES:
        	:ID:       7e560fcc-f279-4226-900c-8bc800183bc7
