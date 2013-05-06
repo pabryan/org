@@ -2518,9 +2518,11 @@ Center 119
        	:END:
 ****** Lecture 07.2
 <2013-05-15 Wed 13:00-14:00>
-******* NEXT Prepare lecture
+******* DONE Prepare lecture
        	DEADLINE: <2013-05-08 Wed>
+	- State "DONE"       from "NEXT"       [2013-05-06 Mon 12:30]
 	:LOGBOOK:
+	CLOCK: [2013-05-06 Mon 12:15]--[2013-05-06 Mon 12:30] =>  0:15
 	CLOCK: [2013-05-06 Mon 10:15]--[2013-05-06 Mon 10:35] =>  0:17
 	:END:
        	:PROPERTIES:
