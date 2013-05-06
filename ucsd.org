@@ -1354,6 +1354,8 @@ Put final exam conditions - 2 pages notes allowed.
 
 *** Spring 2013
 **** TODO MATH20C Spring 2013				      :MATH20C:FOCUS:
+     :LOGBOOK:
+     :END:
      :PROPERTIES:
      :ID:       b7714d68-e3c3-4424-be34-62a9473108e4
      :END:
@@ -1469,8 +1471,9 @@ Send exact dates of travel, destination/purpose of trip, and arrangements made f
        :ID:       59315c52-b03c-4ab2-be4e-d91eae1ad433
        :END:
 
-****** NEXT Review student homework
+****** DONE Review student homework
        SCHEDULED: <2013-05-03 Fri>
+       - State "DONE"       from "NEXT"       [2013-05-06 Mon 14:39]
   :LOGBOOK:
   CLOCK: [2013-05-02 Thu 11:53]--[2013-05-02 Thu 11:54] =>  0:01
   :END:
@@ -1907,8 +1910,12 @@ CLOCK: [2013-04-08 Mon 15:00]--[2013-04-08 Mon 16:12] =>  0:59
        	:END:
 
 ****** Homework 4
-******* NEXT Set Homework 04
+******* DONE Set Homework 04
        	DEADLINE: <2013-05-08 Wed>
+	- State "DONE"       from "NEXT"       [2013-05-06 Mon 14:36]
+	:LOGBOOK:
+	CLOCK: [2013-05-06 Mon 14:23]--[2013-05-06 Mon 14:36] =>  0:13
+	:END:
        	:PROPERTIES:
        	:ID:       7a405722-577c-40a1-ae51-5a871a657613
        	:END:
@@ -2124,7 +2131,6 @@ CLOCK: [2013-04-08 Mon 15:00]--[2013-04-08 Mon 16:12] =>  0:59
 [2013-04-05 Fri 16:44]
 **** TODO MATH20D Spring 2013				      :MATH20D:FOCUS:
      :LOGBOOK:
-     CLOCK: [2013-05-06 Mon 14:23]
      :END:
     :PROPERTIES:
     :ID:       01742e1a-c15f-4aab-ada0-59725c2e73e4
@@ -2522,8 +2528,10 @@ Center 119
        	:END:
 ****** Lecture 07.2
 <2013-05-15 Wed 13:00-14:00>
-******* DONE Prepare lecture
-       	DEADLINE: <2013-05-08 Wed>
+******* NEXT Prepare lecture
+	DEADLINE: <2013-05-08 Wed>
+	- State "NEXT"       from "DONE"       [2013-05-06 Mon 14:38] \\
+	  Accidentally prepared the wrong lecture!
 	- State "DONE"       from "NEXT"       [2013-05-06 Mon 12:30]
 	:LOGBOOK:
 	CLOCK: [2013-05-06 Mon 12:15]--[2013-05-06 Mon 12:30] =>  0:15
@@ -3377,7 +3385,8 @@ It should make the relevant web entry and also the email notice. Possibly I coul
        :ID:       73eeabf5-d1bd-4eae-b2a3-144bd3a2692a
        :END:
 ****** TODO Send GMT Announcement
-       DEADLINE: <2013-05-10 Fri +1w>
+       DEADLINE: <2013-05-17 Fri +1w>
+       - State "DONE"       from "TODO"       [2013-05-06 Mon 14:38]
        - State "DONE"       from "TODO"       [2013-05-02 Thu 09:51]
        - State "DONE"       from "TODO"       [2013-04-28 Sun 15:11]
        - State "DONE"       from "NEXT"       [2013-04-19 Fri 10:46]
@@ -3390,7 +3399,7 @@ It should make the relevant web entry and also the email notice. Possibly I coul
        :END:
        :PROPERTIES:
        :ID:       8f44a0eb-8ce5-4deb-9891-696f791bce56
-       :LAST_REPEAT: [2013-05-02 Thu 09:51]
+       :LAST_REPEAT: [2013-05-06 Mon 14:38]
        :END:
 ****** Email tempate
 Speaker: 
