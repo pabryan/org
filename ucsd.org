@@ -2811,6 +2811,7 @@ Center 119
 ******* NEXT Set quiz 
        	DEADLINE: <2013-05-01 Wed>
 	:LOGBOOK:
+	CLOCK: [2013-05-05 Sun 20:42]--[2013-05-05 Sun 21:04] =>  0:22
 	CLOCK: [2013-05-05 Sun 17:54]--[2013-05-05 Sun 18:04] =>  0:10
 	:END:
        	:PROPERTIES:
