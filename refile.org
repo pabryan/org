@@ -91,6 +91,9 @@ Put my common setup in it's own config and include from the .sss/config file. Th
 * TODO Check out online texts
   :LOGBOOK:
   :END:
+  :PROPERTIES:
+  :ID:       a8e6ce1b-4e88-4ae7-98ee-787932551070
+  :END:
 [2013-05-05 Sun 17:15]
 http://linear.ups.edu/html/fcla.html
 Sage cell server

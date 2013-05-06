@@ -8,7 +8,8 @@
 
 ** Tracking
 *** NEXT Exercise
-    SCHEDULED: <2013-05-04 Sat .+1d/2d>
+    SCHEDULED: <2013-05-05 Sun .+1d/2d>
+    - State "DONE"       from "NEXT"       [2013-05-04 Sat 18:04]
     - State "DONE"       from "NEXT"       [2013-05-03 Fri 11:30]
     - State "DONE"       from "NEXT"       [2013-05-01 Wed 12:16]
     - State "DONE"       from "NEXT"       [2013-04-30 Tue 10:40]
@@ -49,11 +50,12 @@
     :STYLE:    habit
     :REPEAT_TO_STATE: NEXT
     :ID:       8d56b2ef-1b49-4dc4-b701-1d021a293fa4
-    :LAST_REPEAT: [2013-05-03 Fri 11:30]
+    :LAST_REPEAT: [2013-05-05 Sun 18:04]
     :END:
 
 *** NEXT Morning Mobility
-    SCHEDULED: <2013-05-04 Sat .+1d/2d>
+    SCHEDULED: <2013-05-05 Sun .+1d/2d>
+    - State "DONE"       from "NEXT"       [2013-05-04 Sat 18:04]
     - State "DONE"       from "NEXT"       [2013-05-03 Fri 11:30]
     - State "DONE"       from "NEXT"       [2013-05-01 Wed 12:16]
     - State "DONE"       from "SOMEDAY"    [2013-04-30 Tue 10:40]
@@ -98,14 +100,12 @@
     :STYLE:    habit
     :REPEAT_TO_STATE: NEXT
     :ID:       0e75f56d-0356-4a0f-a376-080471ad4aad
-    :LAST_REPEAT: [2013-05-03 Fri 11:30]
+    :LAST_REPEAT: [2013-05-05 Sun 18:04]
     :END:
 
 *** NEXT Afternoon Relax
-    SCHEDULED: <2013-05-02 Thu .+1d/2d>
-    :LOGBOOK:
-    CLOCK: [2013-05-01 Wed 14:11]--[2013-05-01 Wed 14:50] =>  0:39
-    :END:
+    SCHEDULED: <2013-05-05 Sun .+1d/2d>
+    - State "DONE"       from "NEXT"       [2013-05-04 Sat 17:04]
     - State "DONE"       from "NEXT"       [2013-05-01 Wed 16:13]
     - State "DONE"       from "NEXT"       [2013-04-30 Tue 14:16]
     - State "DONE"       from "NEXT"       [2013-04-28 Sun 15:13]
@@ -126,15 +126,19 @@
     - State "DONE"       from "NEXT"       [2013-03-14 Thu 17:04]
     - State "DONE"       from "NEXT"       [2013-03-12 Tue 21:32]
     - State "DONE"       from "NEXT"       [2013-03-11 Mon 21:23]
+    :LOGBOOK:
+    CLOCK: [2013-05-01 Wed 14:11]--[2013-05-01 Wed 14:50] =>  0:39
+    :END:
     :PROPERTIES:
     :STYLE:    habit
     :REPEAT_TO_STATE: NEXT
     :ID:       c0aaf33a-af77-446b-b9fd-cf2d2f78c12a
-    :LAST_REPEAT: [2013-05-01 Wed 16:13]
+    :LAST_REPEAT: [2013-05-05 Sun 18:04]
     :END:
   
 *** NEXT Evening Stretch
-    SCHEDULED: <2013-05-01 Wed .+1d/2d>
+    SCHEDULED: <2013-05-05 Sun .+1d/2d>
+    - State "DONE"       from "NEXT"       [2013-05-04 Sat 17:04]
     - State "DONE"       from "NEXT"       [2013-04-30 Tue 18:13]
     - State "DONE"       from "NEXT"       [2013-04-28 Sun 15:13]
     - State "DONE"       from "NEXT"       [2013-04-08 Mon 22:56]
@@ -151,7 +155,7 @@
     :STYLE:    habit
     :REPEAT_TO_STATE: NEXT
     :ID:       d439600f-c40d-4dd3-82ca-3e7d9e35f2b3
-    :LAST_REPEAT: [2013-05-01 Wed 12:16]
+    :LAST_REPEAT: [2013-05-05 Sun 18:04]
     :END:
   
 
