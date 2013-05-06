@@ -2810,6 +2810,9 @@ Center 119
 ****** Quiz 06
 ******* NEXT Set quiz 
        	DEADLINE: <2013-05-01 Wed>
+	:LOGBOOK:
+	CLOCK: [2013-05-05 Sun 17:54]
+	:END:
        	:PROPERTIES:
        	:ID:       6652046a-37df-49ea-9859-c3cb1c8d76ed
        	:END:
