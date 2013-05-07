@@ -1520,6 +1520,8 @@ Possible dates: 5/4/13, 12/4/13, 19/4/13
 
 **** NEXT Clean up slides
 - Fix up line wrapping and bulleting (e.g. theorems don't need bullets!)
+**** NEXT Author/year citations
+**** NEXT Add refs to Ben's/my work
 **** DONE Write distance comparison
      - State "DONE"       from "NEXT"       [2013-04-28 Sun 15:37]
      :LOGBOOK:
@@ -1546,9 +1548,10 @@ Possible dates: 5/4/13, 12/4/13, 19/4/13
      :ID:       785766b0-1d74-4290-afe8-3ab14da6fe15
      :END:
 - Consult Mategazza et. al - 2 papers!
-**** NEXT Write normalised flow slides
+**** DONE Write normalised flow slides
+     - State "DONE"       from "NEXT"       [2013-05-07 Tue 14:10]
      :LOGBOOK:
-     CLOCK: [2013-05-07 Tue 13:44]
+     CLOCK: [2013-05-07 Tue 13:44]--[2013-05-07 Tue 14:10] =>  0:26
      :END:
 **** DONE Distance comparison slide 
      - State "DONE"       from "NEXT"       [2013-05-07 Tue 13:43]
@@ -1565,6 +1568,7 @@ Possible dates: 5/4/13, 12/4/13, 19/4/13
 - Can I phrase this as $Z$ is a viscosity eqn of $\pd{t}Z \geq 0$?
 **** NEXT Isoperimetric comparison slides
      :LOGBOOK:
+     CLOCK: [2013-05-07 Tue 14:13]--[2013-05-07 Tue 14:18] =>  0:05
      CLOCK: [2013-04-30 Tue 12:34]--[2013-04-30 Tue 13:08] =>  0:34
      CLOCK: [2013-04-30 Tue 10:55]--[2013-04-30 Tue 11:28] =>  0:33
      CLOCK: [2013-04-29 Mon 20:50]--[2013-04-29 Mon 20:55] =>  0:05
@@ -1575,6 +1579,9 @@ Possible dates: 5/4/13, 12/4/13, 19/4/13
 - Picture
 - Fix layout of comparison theorem slide
 **** NEXT Dist-comp GGH Theorem slide
+     :LOGBOOK:
+     CLOCK: [2013-05-07 Tue 14:18]
+     :END:
 - Put in asymptotics and exponential curvature bound
 **** NEXT Iso-comp GGH Theorem slide
 - Clean up
