@@ -1553,6 +1553,7 @@ Possible dates: 5/4/13, 12/4/13, 19/4/13
 - Defn of $f$
 - Comparison theorem
 - Mention viscosity equations
+- Can I phrase this as $Z$ is a viscosity eqn of $\pd{t}Z \geq 0$?
 **** NEXT Isoperimetric comparison slides
      :LOGBOOK:
      CLOCK: [2013-04-30 Tue 12:34]--[2013-04-30 Tue 13:08] =>  0:34
