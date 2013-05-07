@@ -1518,9 +1518,10 @@ Possible dates: 5/4/13, 12/4/13, 19/4/13
     :ID:       ae9f534c-7445-42d4-a56e-a4dcf52119b6
     :END:
 
-**** NEXT Clean up slides
+**** DONE Clean up slides
+     - State "DONE"       from "NEXT"       [2013-05-07 Tue 15:16]
      :LOGBOOK:
-     CLOCK: [2013-05-07 Tue 14:53]
+     CLOCK: [2013-05-07 Tue 14:53]--[2013-05-07 Tue 15:16] =>  0:23
      :END:
 - Fix up line wrapping and bulleting (e.g. theorems don't need bullets!)
 **** NEXT Author/year citations
