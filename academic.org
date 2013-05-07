@@ -1578,12 +1578,16 @@ Possible dates: 5/4/13, 12/4/13, 19/4/13
      :END:
 - Picture
 - Fix layout of comparison theorem slide
-**** NEXT Dist-comp GGH Theorem slide
+**** DONE Dist-comp GGH Theorem slide
+     - State "DONE"       from "NEXT"       [2013-05-07 Tue 14:41]
      :LOGBOOK:
-     CLOCK: [2013-05-07 Tue 14:18]
+     CLOCK: [2013-05-07 Tue 14:18]--[2013-05-07 Tue 14:41] =>  0:23
      :END:
 - Put in asymptotics and exponential curvature bound
 **** NEXT Iso-comp GGH Theorem slide
+     :LOGBOOK:
+     CLOCK: [2013-05-07 Tue 14:41]
+     :END:
 - Clean up
 - Put in explicit exponential curvature bound
 **** TODO Laplace at extrema
