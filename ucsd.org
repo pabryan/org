@@ -2698,8 +2698,12 @@ Center 119
        	:END:
 
 ****** Homework 4
-******* NEXT Set Homework 04
+******* DONE Set Homework 04
        	DEADLINE: <2013-05-08 Wed>
+	- State "DONE"       from "NEXT"       [2013-05-06 Mon 17:05]
+	:LOGBOOK:
+	CLOCK: [2013-05-06 Mon 16:42]--[2013-05-06 Mon 17:05] =>  0:23
+	:END:
        	:PROPERTIES:
        	:ID:       c4736943-b755-4fdd-b0d6-522c2eab877d
        	:END:
