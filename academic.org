@@ -1521,13 +1521,16 @@ Possible dates: 5/4/13, 12/4/13, 19/4/13
 **** DONE Clean up slides
      - State "DONE"       from "NEXT"       [2013-05-07 Tue 15:16]
      :LOGBOOK:
-     CLOCK: [2013-05-07 Tue 16:23]
+     CLOCK: [2013-05-07 Tue 16:23]--[2013-05-07 Tue 16:32] =>  0:09
      CLOCK: [2013-05-07 Tue 14:53]--[2013-05-07 Tue 15:16] =>  0:23
      :END:
 - Fix up line wrapping and bulleting (e.g. theorems don't need bullets!)
 **** DONE Author/year citations
      - State "DONE"       from "NEXT"       [2013-05-07 Tue 16:23]
 **** NEXT Add refs to Ben's/my work
+     :LOGBOOK:
+     CLOCK: [2013-05-07 Tue 16:32]
+     :END:
 **** DONE Write distance comparison
      - State "DONE"       from "NEXT"       [2013-04-28 Sun 15:37]
      :LOGBOOK:
