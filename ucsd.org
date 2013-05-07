@@ -1717,6 +1717,9 @@ CLOCK: [2013-04-08 Mon 15:00]--[2013-04-08 Mon 16:12] =>  0:59
        	:ID:       5ebf9744-855a-49b7-a05c-32e65659fe9e
        	:END:
 ****** Lecture 06.1
+       :PROPERTIES:
+       :ID:       032a709a-9a63-46a4-8d1c-72eaf9f65557
+       :END:
 <2013-05-06 Mon 15:00-16:00>
 ******* DONE Prepare lecture
        	DEADLINE: <2013-05-06 Mon>
@@ -2485,6 +2488,9 @@ Center 119
 ****** Lecture 06.1
        :LOGBOOK:
        CLOCK: [2013-05-06 Mon 12:48]--[2013-05-06 Mon 14:05] =>  1:17
+       :END:
+       :PROPERTIES:
+       :ID:       f8f504f7-7300-4a83-bd9e-8f8f1fc3c04a
        :END:
 <2013-05-06 Mon 13:00-14:00>
 ******* DONE Prepare lecture
