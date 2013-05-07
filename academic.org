@@ -201,11 +201,13 @@ In another direction, suppose you have a family of surfaces in $\RR^3$ flowing b
     :ID:       6d3de37a-1d47-49e2-9819-a8166e84e3de
     :END:
 [[file:~/reference/academic/referee/130423-Ivaki-v1.pdf]]
-*** TODO Decide on referring PJM 130219-Chen
+*** DONE Decide on referring PJM 130219-Chen
     DEADLINE: <2013-05-08 Wed>
+    - State "DONE"       from "TODO"       [2013-05-07 Tue 16:56]
     :PROPERTIES:
     :ID:       6ad0abf7-6e7f-473f-985d-edc9c77eba6a
     :END:
+Decided not to do it.
 * Exposition
   :PROPERTIES:
   :ID:       a3ca7af2-21fb-410e-8238-923304c37889
@@ -1504,7 +1506,7 @@ Possible dates: 5/4/13, 12/4/13, 19/4/13
 *** TODO Write PNGS talk
     DEADLINE: <2013-05-08 Wed> SCHEDULED: <2013-03-11 Mon>   
     :LOGBOOK:
-    CLOCK: [2013-05-07 Tue 16:40]
+    CLOCK: [2013-05-07 Tue 16:40]--[2013-05-07 Tue 16:55] =>  0:15
     CLOCK: [2013-05-07 Tue 13:22]--[2013-05-07 Tue 13:33] =>  0:11
     CLOCK: [2013-05-07 Tue 10:57]--[2013-05-07 Tue 11:30] =>  0:33
     CLOCK: [2013-04-27 Sat 21:08]--[2013-04-27 Sat 21:48] =>  0:40
@@ -1611,6 +1613,9 @@ Possible dates: 5/4/13, 12/4/13, 19/4/13
      :ID:       0fbdd0b2-72a3-427c-8625-37cf66cadc27
      :END:
 **** TODO Non-collapsing slide
+     :PROPERTIES:
+     :ID:       20aa00bb-2b18-45cc-9efb-a6587e7fa36c
+     :END:
 - Maybe just one slide giving defn, viscosity equation and Hessian at minima?
 *** TODO Tasks
     :PROPERTIES:
