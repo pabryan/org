@@ -1681,7 +1681,8 @@ For the following, do I just use the existing diary.org capture template or perh
 - [ ] Write down any thoughts, relections on the day.
 
 ** NEXT Daily Plan [0/2]
-   SCHEDULED: <2013-05-06 Mon .+1d/2d>
+   SCHEDULED: <2013-05-08 Wed .+1d/2d>
+   - State "DONE"       from "NEXT"       [2013-05-07 Tue 10:18]
    - State "DONE"       from "NEXT"       [2013-05-05 Sun 18:04]
    - State "DONE"       from "NEXT"       [2013-05-03 Fri 11:31]
    - State "DONE"       from "NEXT"       [2013-05-02 Thu 09:51]
@@ -1735,6 +1736,7 @@ For the following, do I just use the existing diary.org capture template or perh
    - State "DONE"       from "NEXT"       [2013-01-10 Thu 09:22]
    - State "DONE"       from "NEXT"       [2013-01-09 Wed 07:19]
    :LOGBOOK:
+   CLOCK: [2013-05-07 Tue 10:16]--[2013-05-07 Tue 10:18] =>  0:02
    CLOCK: [2013-05-03 Fri 11:30]--[2013-05-03 Fri 11:31] =>  0:01
    CLOCK: [2013-05-02 Thu 09:47]--[2013-05-02 Thu 09:51] =>  0:04
    CLOCK: [2013-04-30 Tue 10:54]--[2013-04-30 Tue 10:55] =>  0:01
@@ -1776,7 +1778,7 @@ For the following, do I just use the existing diary.org capture template or perh
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
    :ID:       ef051ee0-1113-4604-b355-450a5a47848b
-   :LAST_REPEAT: [2013-05-05 Sun 18:04]
+   :LAST_REPEAT: [2013-05-07 Tue 10:18]
    :END:
 
 - [ ] Check agenda/focus
