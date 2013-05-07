@@ -1517,6 +1517,9 @@ Possible dates: 5/4/13, 12/4/13, 19/4/13
     :PROPERTIES:
     :ID:       ae9f534c-7445-42d4-a56e-a4dcf52119b6
     :END:
+
+**** NEXT Clean up slides
+- Fix up line wrapping and bulleting (e.g. theorems don't need bullets!)
 **** DONE Write distance comparison
      - State "DONE"       from "NEXT"       [2013-04-28 Sun 15:37]
      :LOGBOOK:
@@ -1544,6 +1547,9 @@ Possible dates: 5/4/13, 12/4/13, 19/4/13
      :END:
 - Consult Mategazza et. al - 2 papers!
 **** NEXT Write normalised flow slides
+     :LOGBOOK:
+     CLOCK: [2013-05-07 Tue 13:44]
+     :END:
 **** DONE Distance comparison slide 
      - State "DONE"       from "NEXT"       [2013-05-07 Tue 13:43]
      :LOGBOOK:
