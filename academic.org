@@ -1504,6 +1504,7 @@ Possible dates: 5/4/13, 12/4/13, 19/4/13
 *** TODO Write PNGS talk
     DEADLINE: <2013-05-08 Wed> SCHEDULED: <2013-03-11 Mon>   
     :LOGBOOK:
+    CLOCK: [2013-05-07 Tue 16:40]
     CLOCK: [2013-05-07 Tue 13:22]--[2013-05-07 Tue 13:33] =>  0:11
     CLOCK: [2013-05-07 Tue 10:57]--[2013-05-07 Tue 11:30] =>  0:33
     CLOCK: [2013-04-27 Sat 21:08]--[2013-04-27 Sat 21:48] =>  0:40
@@ -1527,9 +1528,10 @@ Possible dates: 5/4/13, 12/4/13, 19/4/13
 - Fix up line wrapping and bulleting (e.g. theorems don't need bullets!)
 **** DONE Author/year citations
      - State "DONE"       from "NEXT"       [2013-05-07 Tue 16:23]
-**** NEXT Add refs to Ben's/my work
+**** DONE Add refs to Ben's/my work
+     - State "DONE"       from "NEXT"       [2013-05-07 Tue 16:40]
      :LOGBOOK:
-     CLOCK: [2013-05-07 Tue 16:32]
+     CLOCK: [2013-05-07 Tue 16:32]--[2013-05-07 Tue 16:40] =>  0:08
      :END:
 **** DONE Write distance comparison
      - State "DONE"       from "NEXT"       [2013-04-28 Sun 15:37]
