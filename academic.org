@@ -1504,7 +1504,8 @@ Possible dates: 5/4/13, 12/4/13, 19/4/13
 [[http://www.math.washington.edu/~lee/PNGS/]]
 [[file:~/working/academic/seminars/pngs_2013/]]
 *** TODO Write PNGS talk
-    DEADLINE: <2013-05-08 Wed> SCHEDULED: <2013-03-11 Mon>   
+    DEADLINE: 
+<2013-05-08 Wed> SCHEDULED: <2013-03-11 Mon>   
     :LOGBOOK:
     CLOCK: [2013-05-07 Tue 16:40]--[2013-05-07 Tue 16:55] =>  0:15
     CLOCK: [2013-05-07 Tue 13:22]--[2013-05-07 Tue 13:33] =>  0:11
@@ -1604,7 +1605,10 @@ Possible dates: 5/4/13, 12/4/13, 19/4/13
      :END:
 - Clean up
 - Put in explicit exponential curvature bound
-**** TODO Laplace at extrema
+**** NEXT Laplace at extrema
+     :LOGBOOK:
+     CLOCK: [2013-05-07 Tue 19:30]--[2013-05-07 Tue 21:06] =>  1:36
+     :END:
      :PROPERTIES:
      :ID:       d96319d4-3245-4d0e-867b-8ca704384b52
      :END:
