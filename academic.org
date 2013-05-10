@@ -1599,6 +1599,10 @@ Possible dates: 5/4/13, 12/4/13, 19/4/13
      CLOCK: [2013-05-07 Tue 14:18]--[2013-05-07 Tue 14:41] =>  0:23
      :END:
 - Put in asymptotics and exponential curvature bound
+**** TODO Write proof of viscosity equation for dist-comp Z
+***** NEXT Compare with Z at minima
+***** NEXT Compute time variation
+***** NEXT Compute Spatial variation
 **** DONE Iso-comp GGH Theorem slide
      - State "DONE"       from "NEXT"       [2013-05-07 Tue 14:53]
      :LOGBOOK:
@@ -1606,18 +1610,24 @@ Possible dates: 5/4/13, 12/4/13, 19/4/13
      :END:
 - Clean up
 - Put in explicit exponential curvature bound
-**** NEXT Laplace at extrema
+**** CANCELLED Laplace at extrema
+     - State "CANCELLED"  from "NEXT"       [2013-05-10 Fri 09:16] \\
+       Will do it directly for $Z$ in distance comparison
      :LOGBOOK:
      CLOCK: [2013-05-07 Tue 19:30]--[2013-05-07 Tue 21:06] =>  1:36
      :END:
      :PROPERTIES:
      :ID:       d96319d4-3245-4d0e-867b-8ca704384b52
      :END:
-**** TODO Linearisation and commuting space and time derivatives
+**** CANCELLED Linearisation and commuting space and time derivatives
+     - State "CANCELLED"  from "TODO"       [2013-05-10 Fri 09:17] \\
+       Will do it directly for $Z$ in distance comparison.
      :PROPERTIES:
      :ID:       0fbdd0b2-72a3-427c-8625-37cf66cadc27
      :END:
-**** TODO Non-collapsing slide
+**** CANCELLED Non-collapsing slide
+     - State "CANCELLED"  from "TODO"       [2013-05-10 Fri 09:17] \\
+       No time to sort out non-collapsing before talk.
      :PROPERTIES:
      :ID:       20aa00bb-2b18-45cc-9efb-a6587e7fa36c
      :END:
