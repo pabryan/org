@@ -1447,8 +1447,9 @@ Lectures in calendar and tasks like planning lectures.
   :ID:       8f536ff6-7697-4d83-ad49-a8a997454022
   :END:
 [2013-04-07 Sun 14:33]
-****** NEXT Send travel plans to admin
+****** DONE Send travel plans to admin
       DEADLINE: <2013-05-08 Wed>
+      - State "DONE"       from "NEXT"       [2013-05-09 Thu 19:15]
       :PROPERTIES:
       :ID:       b550274e-3e83-4105-badc-0c04db6c2d23
       :END:
@@ -1761,8 +1762,9 @@ CLOCK: [2013-04-08 Mon 15:00]--[2013-04-08 Mon 16:12] =>  0:59
        	:END:
 ****** Lecture 07.2
 <2013-05-15 Wed 15:00-16:00>
-******* NEXT Prepare lecture
+******* DONE Prepare lecture
        	DEADLINE: <2013-05-08 Wed>
+	- State "DONE"       from "NEXT"       [2013-05-09 Thu 19:17]
        	:PROPERTIES:
        	:ID:       5f80ad95-133b-433d-a7b3-4bd7951c49f4
        	:END:
@@ -2236,8 +2238,9 @@ Lectures in calendar and tasks like planning lectures.
    :ID:       8f536ff6-7697-4d83-ad49-a8a997454022
    :END:
        [2013-04-07 Sun 14:33]
-****** NEXT Send travel plans to admin
+****** DONE Send travel plans to admin
       DEADLINE: <2013-05-08 Wed>
+      - State "DONE"       from "NEXT"       [2013-05-09 Thu 19:15]
       :PROPERTIES:
       :ID:       5ca2e63f-ebf8-4c2e-8d96-10ae659df04e
       :END:
@@ -2536,8 +2539,9 @@ Center 119
        	:END:
 ****** Lecture 07.2
 <2013-05-15 Wed 13:00-14:00>
-******* NEXT Prepare lecture
+******* DONE Prepare lecture
 	DEADLINE: <2013-05-08 Wed>
+	- State "DONE"       from "NEXT"       [2013-05-09 Thu 19:17]
 	- State "NEXT"       from "DONE"       [2013-05-06 Mon 14:38] \\
 	  Accidentally prepared the wrong lecture!
 	- State "DONE"       from "NEXT"       [2013-05-06 Mon 12:30]
