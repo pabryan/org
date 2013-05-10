@@ -1580,7 +1580,8 @@ Possible dates: 5/4/13, 12/4/13, 19/4/13
 - Comparison theorem
 - Mention viscosity equations
 - Can I phrase this as $Z$ is a viscosity eqn of $\pd{t}Z \geq 0$?
-**** NEXT Isoperimetric comparison slides
+**** DONE Isoperimetric comparison slides
+     - State "DONE"       from "NEXT"       [2013-05-09 Thu 19:23]
      :LOGBOOK:
      CLOCK: [2013-05-07 Tue 14:13]--[2013-05-07 Tue 14:18] =>  0:05
      CLOCK: [2013-04-30 Tue 12:34]--[2013-04-30 Tue 13:08] =>  0:34
@@ -1590,7 +1591,7 @@ Possible dates: 5/4/13, 12/4/13, 19/4/13
      :PROPERTIES:
      :ID:       7916c4dc-1218-469c-9429-b066b6e3bf53
      :END:
-- Picture
+- Picture: Ran out of time!
 - Fix layout of comparison theorem slide
 **** DONE Dist-comp GGH Theorem slide
      - State "DONE"       from "NEXT"       [2013-05-07 Tue 14:41]
