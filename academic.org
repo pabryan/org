@@ -1600,7 +1600,8 @@ Possible dates: 5/4/13, 12/4/13, 19/4/13
      :END:
 - Put in asymptotics and exponential curvature bound
 **** TODO Write proof of viscosity equation for dist-comp Z
-***** NEXT Compare with Z at minima
+***** DONE Compare with Z at minima
+      - State "DONE"       from "NEXT"       [2013-05-10 Fri 09:46]
 ***** NEXT Compute time variation
 ***** NEXT Compute Spatial variation
 **** DONE Iso-comp GGH Theorem slide
