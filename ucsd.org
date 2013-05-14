@@ -2090,6 +2090,9 @@ CLOCK: [2013-04-08 Mon 15:00]--[2013-04-08 Mon 16:12] =>  0:59
 ****** Quiz 07
 ******* NEXT Set quiz 
        	DEADLINE: <2013-05-08 Wed>
+	:LOGBOOK:
+	CLOCK: [2013-05-13 Mon 18:15]--[2013-05-13 Mon 18:26] =>  0:11
+	:END:
        	:PROPERTIES:
        	:ID:       4097b249-f5cc-46af-aab4-f918e55b6b99
        	:END:
