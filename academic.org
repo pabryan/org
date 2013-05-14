@@ -222,7 +222,7 @@ Decided not to do it.
   :END:
 [[file:~/working/academic/research/]]
 ** Papers
-*** Working
+*** Working							      :FOCUS:
 **** TODO alpha CSF distance comparison				  :CSF_ALPHA:
    :LOGBOOK:
    CLOCK: [2013-02-20 Wed 13:54]--[2013-02-20 Wed 13:55] =>  0:01
@@ -610,7 +610,7 @@ how are they related?
       :PROPERTIES:
       :ID:       4f27c099-1b3f-44a1-b38d-394b791aabef
       :END:
-**** TODO Space form curvature flow		   :SPACE_FORM_HARNACK:FOCUS:
+**** TODO Space form curvature flow			 :SPACE_FORM_HARNACK:
      :LOGBOOK:
      :END:
      :PROPERTIES:
@@ -1490,8 +1490,11 @@ Possible dates: 5/4/13, 12/4/13, 19/4/13
    :END:
    <2013-02-23 Sat 08:30>--<2013-02-24 Sun 14:30>
 
-** TODO PNGS 2013 						      :FOCUS:
+** DONE PNGS 2013
+   - State "DONE"       from "TODO"       [2013-05-13 Mon 18:14]
    :LOGBOOK:
+   CLOCK: [2013-05-11 Sat 09:00]--[2013-05-11 Sat 12:30] =>  3:30
+   CLOCK: [2013-05-11 Sat 09:00]--[2013-05-11 Sat 17:30] =>  8:30
    CLOCK: [2013-03-29 Fri 10:49]--[2013-03-29 Fri 10:54] =>  0:05
    CLOCK: [2013-03-29 Fri 10:46]--[2013-03-29 Fri 10:48] =>  0:02
    CLOCK: [2013-03-29 Fri 10:43]--[2013-03-29 Fri 10:45] =>  0:02
@@ -1503,10 +1506,13 @@ Possible dates: 5/4/13, 12/4/13, 19/4/13
 <2013-05-11 Sat>--<2013-05-12 Sun>
 [[http://www.math.washington.edu/~lee/PNGS/]]
 [[file:~/working/academic/seminars/pngs_2013/]]
-*** TODO Write PNGS talk
+*** DONE Write PNGS talk
+    - State "DONE"       from "TODO"       [2013-05-10 Fri 10:11]
     DEADLINE: 
 <2013-05-08 Wed> SCHEDULED: <2013-03-11 Mon>   
     :LOGBOOK:
+    CLOCK: [2013-05-10 Fri 09:05]--[2013-05-10 Fri 10:10] =>  1:05
+    CLOCK: [2013-05-09 Thu 18:50]--[2013-05-09 Thu 20:25] =>  1:35
     CLOCK: [2013-05-07 Tue 16:40]--[2013-05-07 Tue 16:55] =>  0:15
     CLOCK: [2013-05-07 Tue 13:22]--[2013-05-07 Tue 13:33] =>  0:11
     CLOCK: [2013-05-07 Tue 10:57]--[2013-05-07 Tue 11:30] =>  0:33
