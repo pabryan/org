@@ -368,7 +368,8 @@ Probably also need concave comparison functions. This should rule out $\tang_p =
        :PROPERTIES:
        :ID:       5cf57941-4d6b-47ca-9ed3-72ed629e304e
        :END:
-****** NEXT Estimate integrals for max principle arg
+****** DONE Estimate integrals for max principle arg
+       - State "DONE"       from "NEXT"       [2013-05-15 Wed 16:14]
     :LOGBOOK:
     CLOCK: [2013-02-27 Wed 14:34]--[2013-02-27 Wed 15:24] =>  0:50
     CLOCK: [2012-12-21 Fri 13:30]--[2012-12-21 Fri 15:32] =>  2:02
@@ -382,10 +383,12 @@ Probably also need concave comparison functions. This should rule out $\tang_p =
     :ID:       2d45cee3-0bf7-482b-a10e-9caca013f87e
     :END:
 This requires an estimate of $\int k f(k)$ analogous to Holder's for CSF where $f(k)=k$.
+****** NEXT Write as viscosity equation
 ****** TODO Find comparison solutions
        :PROPERTIES:
        :ID:       9c3e45f9-6c61-48b8-b0e1-eaae4fd6514b
        :END:
+******* NEXT Try compare viscosity equation with angenent oval
 ******* NEXT Try similarity soln as in CSF case
     :PROPERTIES:
     :ID:       e33f844d-a7a7-406b-bf25-002f515cb649
