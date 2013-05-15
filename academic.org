@@ -225,7 +225,6 @@ Decided not to do it.
 *** Working							      :FOCUS:
 **** TODO alpha CSF distance comparison				  :CSF_ALPHA:
    :LOGBOOK:
-   CLOCK: [2013-02-20 Wed 13:54]--[2013-02-20 Wed 13:55] =>  0:01
    CLOCK: [2013-02-14 Thu 12:21]--[2013-02-14 Thu 12:29] =>  0:08
    CLOCK: [2013-02-14 Thu 12:15]--[2013-02-14 Thu 12:21] =>  0:06
    CLOCK: [2013-02-14 Thu 11:53]--[2013-02-14 Thu 12:05] =>  0:12
@@ -384,11 +383,20 @@ Probably also need concave comparison functions. This should rule out $\tang_p =
     :END:
 This requires an estimate of $\int k f(k)$ analogous to Holder's for CSF where $f(k)=k$.
 ****** NEXT Write as viscosity equation
+       :LOGBOOK:
+       CLOCK: [2013-05-15 Wed 14:20]--[2013-05-15 Wed 14:50] =>  0:30
+       :END:
+       :PROPERTIES:
+       :ID:       aafcb944-6080-4da1-9b70-bbb51dd1bc97
+       :END:
 ****** TODO Find comparison solutions
        :PROPERTIES:
        :ID:       9c3e45f9-6c61-48b8-b0e1-eaae4fd6514b
        :END:
 ******* NEXT Try compare viscosity equation with angenent oval
+	:PROPERTIES:
+	:ID:       aec792bb-f6a8-4278-8efc-843bd1ab0500
+	:END:
 ******* NEXT Try similarity soln as in CSF case
     :PROPERTIES:
     :ID:       e33f844d-a7a7-406b-bf25-002f515cb649
@@ -612,6 +620,9 @@ how are they related?
 ***** NEXT Prepare talk at Eugene
       :LOGBOOK:
       CLOCK: [2013-05-13 Mon 18:28]--[2013-05-13 Mon 18:43] =>  0:15
+      :END:
+      :PROPERTIES:
+      :ID:       c1250415-a95a-42ee-94cc-4bf6e967467e
       :END:
 ***** NEXT Make org file with my known work and send to Steve.
       :PROPERTIES:
@@ -1613,10 +1624,19 @@ Possible dates: 5/4/13, 12/4/13, 19/4/13
      :END:
 - Put in asymptotics and exponential curvature bound
 **** TODO Write proof of viscosity equation for dist-comp Z
+     :PROPERTIES:
+     :ID:       92cdb4a1-cf88-482a-9c68-2c049544ca26
+     :END:
 ***** DONE Compare with Z at minima
       - State "DONE"       from "NEXT"       [2013-05-10 Fri 09:46]
 ***** NEXT Compute time variation
+      :PROPERTIES:
+      :ID:       8af8432b-a083-4960-b813-69ffce8a5ab7
+      :END:
 ***** NEXT Compute Spatial variation
+      :PROPERTIES:
+      :ID:       36a1b9a5-de8d-4bda-9bf7-928bba0a7ee4
+      :END:
 **** DONE Iso-comp GGH Theorem slide
      - State "DONE"       from "NEXT"       [2013-05-07 Tue 14:53]
      :LOGBOOK:
