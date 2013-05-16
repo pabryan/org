@@ -2103,8 +2103,9 @@ CLOCK: [2013-04-08 Mon 15:00]--[2013-04-08 Mon 16:12] =>  0:59
 ******* Questions
 
 ****** Quiz 08
-******* NEXT Set quiz 
+******* DONE Set quiz 
        	DEADLINE: <2013-05-15 Wed>
+	- State "DONE"       from "NEXT"       [2013-05-15 Wed 20:59]
        	:PROPERTIES:
        	:ID:       cfe439a6-ad6e-4e9b-87bd-58980f5abdc9
        	:END:
@@ -2877,14 +2878,18 @@ Center 119
 ****** Quiz 07
 ******* NEXT Set quiz 
        	DEADLINE: <2013-05-08 Wed>
+	:LOGBOOK:
+	CLOCK: [2013-05-15 Wed 20:44]--[2013-05-15 Wed 20:59] =>  0:15
+	:END:
        	:PROPERTIES:
        	:ID:       c0fc7838-ed8c-4a28-a9fd-b841d25b8bfc
        	:END:
 ******* Questions
 
 ****** Quiz 08
-******* NEXT Set quiz 
+******* DONE Set quiz 
        	DEADLINE: <2013-05-15 Wed>
+	- State "DONE"       from "NEXT"       [2013-05-15 Wed 20:59]
        	:PROPERTIES:
        	:ID:       1273c21b-476b-4e8c-8274-63d5536e1521
        	:END:
