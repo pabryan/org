@@ -2576,6 +2576,9 @@ Center 119
        	:ID:       28cdc15c-2a99-4cdc-8db9-fd7cb333164b
        	:END:
 ****** Lecture 07.3
+       :LOGBOOK:
+       CLOCK: [2013-05-17 Fri 12:48]
+       :END:
        :PROPERTIES:
        :ID:       85a38c10-759c-4ca9-a1ff-e83dd9cc2b53
        :END:
@@ -2696,6 +2699,7 @@ Center 119
 ******* NEXT Write Midterm 2
        	DEADLINE: <2013-05-17 Fri>
 	:LOGBOOK:
+	CLOCK: [2013-05-17 Fri 12:27]--[2013-05-17 Fri 12:48] =>  0:21
 	CLOCK: [2013-05-16 Thu 16:49]--[2013-05-16 Thu 17:14] =>  0:25
 	:END:
        	:PROPERTIES:
