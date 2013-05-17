@@ -1775,6 +1775,9 @@ CLOCK: [2013-04-08 Mon 15:00]--[2013-04-08 Mon 16:12] =>  0:59
        	:ID:       5f80ad95-133b-433d-a7b3-4bd7951c49f4
        	:END:
 ****** Lecture 07.3
+       :LOGBOOK:
+       CLOCK: [2013-05-17 Fri 14:46]
+       :END:
        :PROPERTIES:
        :ID:       99ee009d-a7cb-4eff-bc13-971c96ca29f7
        :END:
@@ -2154,6 +2157,9 @@ CLOCK: [2013-04-08 Mon 15:00]--[2013-04-08 Mon 16:12] =>  0:59
       :END:
 [2013-04-05 Fri 16:44]
 **** TODO MATH20D Spring 2013				      :MATH20D:FOCUS:
+     :LOGBOOK:
+     CLOCK: [2013-05-17 Fri 14:16]--[2013-05-17 Fri 14:18] =>  0:02
+     :END:
     :PROPERTIES:
     :ID:       01742e1a-c15f-4aab-ada0-59725c2e73e4
     :END:
@@ -2577,7 +2583,7 @@ Center 119
        	:END:
 ****** Lecture 07.3
        :LOGBOOK:
-       CLOCK: [2013-05-17 Fri 12:48]
+       CLOCK: [2013-05-17 Fri 12:48]--[2013-05-17 Fri 14:16] =>  1:28
        :END:
        :PROPERTIES:
        :ID:       85a38c10-759c-4ca9-a1ff-e83dd9cc2b53
@@ -2699,6 +2705,7 @@ Center 119
 ******* NEXT Write Midterm 2
        	DEADLINE: <2013-05-17 Fri>
 	:LOGBOOK:
+	CLOCK: [2013-05-17 Fri 14:18]--[2013-05-17 Fri 14:46] =>  0:28
 	CLOCK: [2013-05-17 Fri 12:27]--[2013-05-17 Fri 12:48] =>  0:21
 	CLOCK: [2013-05-16 Thu 16:49]--[2013-05-16 Thu 17:14] =>  0:25
 	:END:
