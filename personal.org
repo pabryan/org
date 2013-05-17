@@ -307,7 +307,8 @@ Can we suspend loan repayments for a few months?
 [2013-01-28 Mon 19:48]
 
 ** Tax
-*** DONE Do Tax
+*** US
+**** DONE Do Tax
   DEADLINE: <2013-04-15 Mon> SCHEDULED: <2013-03-10 Sun>
   - State "DONE"       from "NEXT"       [2013-04-17 Wed 11:58]
   :LOGBOOK:
@@ -319,17 +320,28 @@ Can we suspend loan repayments for a few months?
     :END:
 [2013-02-08 Fri 08:25]
 
-*** Federal Tax Workshop
-    <2013-03-11 Mon>
-    :PROPERTIES:
-    :ID:       d7374630-336c-432f-9472-c133a65ae74b
-    :END:
+**** Federal Tax Workshop
+     <2013-03-11 Mon>
+     :PROPERTIES:
+     :ID:       d7374630-336c-432f-9472-c133a65ae74b
+     :END:
 
-*** State Tax Workshop
-    <2013-03-15 Fri>
-    :PROPERTIES:
-    :ID:       0dc175ba-9e16-4968-ad39-f37ee42a4f20
-    :END:
+**** State Tax Workshop
+     <2013-03-15 Fri>
+     :PROPERTIES:
+     :ID:       0dc175ba-9e16-4968-ad39-f37ee42a4f20
+     :END:
+
+*** Oz
+**** DONE Update Oz electoral role
+     - State "DONE"       from "TODO"       [2013-05-17 Fri 09:18]
+  :LOGBOOK:
+  CLOCK: [2013-04-23 Tue 10:59]--[2013-04-23 Tue 11:00] =>  0:01
+  :END:
+  :PROPERTIES:
+  :ID:       077b5e97-463b-462d-8962-e991c23c284f
+  :END:
+[2013-04-23 Tue 10:59]
 
 * Health							     :HEALTH:
   :PROPERTIES:
