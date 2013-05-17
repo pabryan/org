@@ -72,15 +72,6 @@ I want to put the details of the course in to org - probably using property draw
   :END:
 [2013-04-23 Tue 08:55]
 Put my common setup in it's own config and include from the .sss/config file. This way I can have a local version on math131 that operates whether or not the Dropbox folder is accessible.
-* TODO Update Oz electoral role
-  :LOGBOOK:
-  CLOCK: [2013-04-23 Tue 10:59]--[2013-04-23 Tue 11:00] =>  0:01
-  :END:
-  :PROPERTIES:
-  :ID:       077b5e97-463b-462d-8962-e991c23c284f
-  :END:
-[2013-04-23 Tue 10:59]
-
 * TODO Export courses to PDF and print
   :LOGBOOK:
   :END:
