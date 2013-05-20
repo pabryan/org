@@ -1793,8 +1793,9 @@ CLOCK: [2013-04-08 Mon 15:00]--[2013-04-08 Mon 16:12] =>  0:59
        	:END:
 ****** Lecture 08.1
 <2013-05-20 Mon 15:00-16:00>
-******* NEXT Prepare lecture
+******* DONE Prepare lecture
        	DEADLINE: <2013-05-20 Mon>
+	- State "DONE"       from "NEXT"       [2013-05-20 Mon 13:29]
        	:PROPERTIES:
        	:ID:       f4400b89-f0b7-4b41-a48e-ed8f5d4adf54
        	:END:
@@ -1884,6 +1885,9 @@ CLOCK: [2013-04-08 Mon 15:00]--[2013-04-08 Mon 16:12] =>  0:59
 ****** Midterm 2
 ******* NEXT Write Midterm 2
        	DEADLINE: <2013-05-20 Mon>
+	:LOGBOOK:
+	CLOCK: [2013-05-20 Mon 13:29]
+	:END:
        	:PROPERTIES:
        	:ID:       13ed4a3c-4d9a-4e9a-8524-56bf7bb7c089
        	:END:
@@ -2277,7 +2281,7 @@ Send exact dates of travel, destination/purpose of trip, and arrangements made f
 ****** Admin
 ****** Office hours
        :LOGBOOK:
-       CLOCK: [2013-05-20 Mon 11:02]
+       CLOCK: [2013-05-20 Mon 11:02]--[2013-05-20 Mon 12:29] =>  1:27
        CLOCK: [2013-04-25 Thu 11:01]--[2013-04-25 Thu 12:31] =>  1:00
        CLOCK: [2013-04-24 Wed 10:33]--[2013-04-24 Wed 11:01] =>  0:28
        CLOCK: [2013-04-22 Mon 11:01]--[2013-04-22 Mon 12:07] =>  1:06
