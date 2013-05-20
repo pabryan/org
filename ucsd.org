@@ -2701,9 +2701,11 @@ Center 119
 	CLOCK: [2013-04-30 Tue 12:22]--[2013-04-30 Tue 12:34] =>  0:12
 	:END:
 ****** Midterm 2
-******* NEXT Write Midterm 2
+******* DONE Write Midterm 2
        	DEADLINE: <2013-05-17 Fri>
+	- State "DONE"       from "NEXT"       [2013-05-20 Mon 10:58]
 	:LOGBOOK:
+	CLOCK: [2013-05-20 Mon 10:40]--[2013-05-20 Mon 10:58] =>  0:18
 	CLOCK: [2013-05-17 Fri 16:35]--[2013-05-17 Fri 17:33] =>  0:58
 	CLOCK: [2013-05-17 Fri 14:18]--[2013-05-17 Fri 14:46] =>  0:28
 	CLOCK: [2013-05-17 Fri 12:27]--[2013-05-17 Fri 12:48] =>  0:21
@@ -3451,8 +3453,9 @@ It should make the relevant web entry and also the email notice. Possibly I coul
        :PROPERTIES:
        :ID:       73eeabf5-d1bd-4eae-b2a3-144bd3a2692a
        :END:
-****** TODO Send GMT Announcement
-       DEADLINE: <2013-05-17 Fri +1w>
+****** DONE Send GMT Announcement
+       - State "DONE"       from "TODO"       [2013-05-20 Mon 10:58] \\
+	 No need to send out announcements anymore.
        - State "DONE"       from "TODO"       [2013-05-06 Mon 14:38]
        - State "DONE"       from "TODO"       [2013-05-02 Thu 09:51]
        - State "DONE"       from "TODO"       [2013-04-28 Sun 15:11]
@@ -3466,7 +3469,7 @@ It should make the relevant web entry and also the email notice. Possibly I coul
        :END:
        :PROPERTIES:
        :ID:       8f44a0eb-8ce5-4deb-9891-696f791bce56
-       :LAST_REPEAT: [2013-05-06 Mon 14:38]
+       :LAST_REPEAT: [2013-05-20 Mon 10:58]
        :END:
 ****** Email tempate
 Speaker: 
