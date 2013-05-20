@@ -1801,8 +1801,9 @@ CLOCK: [2013-04-08 Mon 15:00]--[2013-04-08 Mon 16:12] =>  0:59
        	:END:
 ****** Lecture 08.2
 <2013-05-22 Wed 15:00-16:00>
-******* NEXT Prepare lecture
+******* DONE Prepare lecture
        	DEADLINE: <2013-05-22 Wed>
+	- State "DONE"       from "NEXT"       [2013-05-20 Mon 13:30]
        	:PROPERTIES:
        	:ID:       19ca1ce0-bf63-4b05-9425-ab5efc34714d
        	:END:
@@ -2604,8 +2605,9 @@ Center 119
        	:END:
 ****** Lecture 08.1
        <2013-05-20 Mon 13:00-14:00>
-******* NEXT Prepare lecture
+******* DONE Prepare lecture
        	DEADLINE: <2013-05-20 Mon>
+	- State "DONE"       from "NEXT"       [2013-05-20 Mon 13:30]
        	:PROPERTIES:
        	:ID:       7f52fe34-f1c1-44c1-bdf7-25cd8c7b6416
        	:END:
