@@ -1792,6 +1792,9 @@ CLOCK: [2013-04-08 Mon 15:00]--[2013-04-08 Mon 16:12] =>  0:59
        	:ID:       4fc592e5-2cf5-4d24-9636-08a42652fdcb
        	:END:
 ****** Lecture 08.1
+       :PROPERTIES:
+       :ID:       178a4bf0-7b22-4fbc-a0a6-e62d788c9a00
+       :END:
 <2013-05-20 Mon 15:00-16:00>
 ******* DONE Prepare lecture
        	DEADLINE: <2013-05-20 Mon>
@@ -1887,7 +1890,7 @@ CLOCK: [2013-04-08 Mon 15:00]--[2013-04-08 Mon 16:12] =>  0:59
 ******* NEXT Write Midterm 2
        	DEADLINE: <2013-05-20 Mon>
 	:LOGBOOK:
-	CLOCK: [2013-05-20 Mon 13:29]
+	CLOCK: [2013-05-20 Mon 13:29]--[2013-05-20 Mon 17:45] =>  4:16
 	:END:
        	:PROPERTIES:
        	:ID:       13ed4a3c-4d9a-4e9a-8524-56bf7bb7c089
@@ -2604,6 +2607,9 @@ Center 119
        	:ID:       eb7bc9d4-b6b6-44a7-93d6-3a40c79a636f
        	:END:
 ****** Lecture 08.1
+       :PROPERTIES:
+       :ID:       e136aac6-c4a4-429e-a0c1-f87763d997be
+       :END:
        <2013-05-20 Mon 13:00-14:00>
 ******* DONE Prepare lecture
        	DEADLINE: <2013-05-20 Mon>
