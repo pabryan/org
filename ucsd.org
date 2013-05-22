@@ -1803,6 +1803,9 @@ CLOCK: [2013-04-08 Mon 15:00]--[2013-04-08 Mon 16:12] =>  0:59
        	:ID:       f4400b89-f0b7-4b41-a48e-ed8f5d4adf54
        	:END:
 ****** Lecture 08.2
+       :PROPERTIES:
+       :ID:       595d77c5-e4b8-4f1c-9e80-72f5dc4a31c2
+       :END:
 <2013-05-22 Wed 15:00-16:00>
 ******* DONE Prepare lecture
        	DEADLINE: <2013-05-22 Wed>
@@ -2138,6 +2141,9 @@ CLOCK: [2013-04-08 Mon 15:00]--[2013-04-08 Mon 16:12] =>  0:59
 ****** Quiz 09
 ******* NEXT Set quiz 
        	DEADLINE: <2013-05-22 Wed>
+	:LOGBOOK:
+	CLOCK: [2013-05-22 Wed 15:14]--[2013-05-22 Wed 15:52] =>  0:38
+	:END:
        	:PROPERTIES:
        	:ID:       ce473fc3-e7f4-4afe-8329-3b3cf9775479
        	:END:
@@ -2622,6 +2628,9 @@ Center 119
 ****** Lecture 08.2
        :LOGBOOK:
        CLOCK: [2013-05-22 Wed 12:53]--[2013-05-22 Wed 14:33] =>  1:40
+       :END:
+       :PROPERTIES:
+       :ID:       1a63807f-f2e2-46d7-84da-c20fbe4c5f35
        :END:
 <2013-05-22 Wed 13:00-14:00>
 ******* DONE Prepare lecture
