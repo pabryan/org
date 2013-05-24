@@ -2652,6 +2652,9 @@ Center 119
        	:ID:       11fea151-eaf7-49bf-a6f3-9ee5f24a7da9
        	:END:
 ****** Lecture 08.3
+       :LOGBOOK:
+       CLOCK: [2013-05-24 Fri 12:46]
+       :END:
 <2013-05-24 Fri 13:00-14:00>
 ******* DONE Prepare lecture
        	DEADLINE: <2013-05-24 Fri>
