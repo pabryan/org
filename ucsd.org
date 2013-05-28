@@ -1967,8 +1967,12 @@ CLOCK: [2013-04-08 Mon 15:00]--[2013-04-08 Mon 16:12] =>  0:59
        	:END:
 
 ****** Homework 5
-******* NEXT Set Homework 05
+******* DONE Set Homework 05
        	DEADLINE: <2013-05-24 Fri>
+	- State "DONE"       from "NEXT"       [2013-05-27 Mon 20:30]
+	:LOGBOOK:
+	CLOCK: [2013-05-27 Mon 20:07]--[2013-05-27 Mon 20:30] =>  0:23
+	:END:
        	:PROPERTIES:
        	:ID:       0be961ca-b6a6-46e6-8f40-999705c0e649
        	:END:
