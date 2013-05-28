@@ -1904,6 +1904,9 @@ CLOCK: [2013-04-08 Mon 15:00]--[2013-04-08 Mon 16:12] =>  0:59
 
 ******* NEXT Write solutions
 	 DEADLINE: <2013-05-31 Fri>
+	:PROPERTIES:
+	:ID:       986899fd-2554-4f7b-b896-f3e217296209
+	:END:
 ******* DONE Send midterm to front desk for printing
 	- State "DONE"       from "HOLD"       [2013-05-28 Tue 14:40]
 	- State "HOLD"       from "NEXT"       [2013-04-24 Wed 11:22] \\
@@ -1924,6 +1927,9 @@ CLOCK: [2013-04-08 Mon 15:00]--[2013-04-08 Mon 16:12] =>  0:59
        	:END:
 ******* NEXT Write solutions
 	 DEADLINE: <2013-05-31 Fri>
+	:PROPERTIES:
+	:ID:       ba531fe8-7858-425e-96b4-fb298de62a17
+	:END:
 ****** Final
 ******* NEXT Write Final
        	DEADLINE: <2013-06-03 Mon>
@@ -2783,8 +2789,12 @@ Center 119
 ******* NEXT Write solutions
 	 DEADLINE: <2013-05-31 Fri>
 	 :LOGBOOK:
+	 CLOCK: [2013-05-28 Tue 15:53]--[2013-05-28 Tue 15:57] =>  0:04
 	 CLOCK: [2013-05-28 Tue 14:41]--[2013-05-28 Tue 15:48] =>  1:07
 	 :END:
+	:PROPERTIES:
+	:ID:       83fa2ea9-753e-4b76-94cb-210ad816dcba
+	:END:
 ****** Midterm 2
 ******* DONE Write Midterm 2
        	DEADLINE: <2013-05-17 Fri>
@@ -2801,6 +2811,9 @@ Center 119
        	:END:
 ******* NEXT Write solutions
 	 DEADLINE: <2013-05-31 Fri>
+	:PROPERTIES:
+	:ID:       8d6848c9-3f65-43b0-8c35-6aa37ca0aae8
+	:END:
 ****** Final
 ******* NEXT Write Final
        	DEADLINE: <2013-06-03 Mon>
