@@ -1844,8 +1844,12 @@ CLOCK: [2013-04-08 Mon 15:00]--[2013-04-08 Mon 16:12] =>  0:59
        	:END:
 ****** Lecture 09.2
 <2013-05-29 Wed 15:00-16:00>
-******* NEXT Prepare lecture
+******* DONE Prepare lecture
        	DEADLINE: <2013-05-29 Wed>
+	- State "DONE"       from "NEXT"       [2013-05-28 Tue 13:48]
+	:LOGBOOK:
+	CLOCK: [2013-05-28 Tue 10:40]--[2013-05-28 Tue 11:20] =>  0:40
+	:END:
        	:PROPERTIES:
        	:ID:       f342e3fa-da7d-4108-9bd7-8f8cf15e2fa0
        	:END:
@@ -1917,7 +1921,7 @@ CLOCK: [2013-04-08 Mon 15:00]--[2013-04-08 Mon 16:12] =>  0:59
        	:END:
 ****** Final
 ******* NEXT Write Final
-       	DEADLINE: <2013-06-05 Wed>
+       	DEADLINE: <2013-06-03 Mon>
        	:PROPERTIES:
        	:ID:       7365f941-36cb-4b8f-af0b-32d795e33de9
        	:END:
@@ -2195,9 +2199,6 @@ CLOCK: [2013-04-08 Mon 15:00]--[2013-04-08 Mon 16:12] =>  0:59
       :END:
 [2013-04-05 Fri 16:44]
 **** TODO MATH20D Spring 2013				      :MATH20D:FOCUS:
-     :LOGBOOK:
-     CLOCK: [2013-05-23 Thu 13:02]--[2013-05-23 Thu 13:03] =>  0:01
-     :END:
     :PROPERTIES:
     :ID:       01742e1a-c15f-4aab-ada0-59725c2e73e4
     :END:
@@ -2697,8 +2698,12 @@ Center 119
        	:END:
 ****** Lecture 09.2
 <2013-05-29 Wed 13:00-14:00>
-******* NEXT Prepare lecture
+******* DONE Prepare lecture
        	DEADLINE: <2013-05-29 Wed>
+	- State "DONE"       from "NEXT"       [2013-05-28 Tue 13:48]
+	:LOGBOOK:
+	CLOCK: [2013-05-28 Tue 11:20]--[2013-05-28 Tue 12:10] =>  0:50
+	:END:
        	:PROPERTIES:
        	:ID:       42f0a163-47d2-4fcd-a774-a347af125652
        	:END:
@@ -2786,7 +2791,7 @@ Center 119
        	:END:
 ****** Final
 ******* NEXT Write Final
-       	DEADLINE: <2013-06-05 Wed>
+       	DEADLINE: <2013-06-03 Mon>
        	:PROPERTIES:
        	:ID:       57a79f76-de1a-4020-a99a-ed40e3c5d1db
        	:END:
@@ -3471,7 +3476,7 @@ It should make the relevant web entry and also the email notice. Possibly I coul
     :END:
 
 ** UCSD Informal Seminars
-**** TODO GMT Seminar						      :FOCUS:
+**** TODO GMT Seminar
      - State "DONE"       from "TODO"       [2013-05-02 Thu 11:46]
      :LOGBOOK:
      CLOCK: [2013-05-23 Thu 09:55]--[2013-05-23 Thu 11:15] =>  1:20
