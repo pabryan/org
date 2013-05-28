@@ -1831,6 +1831,9 @@ CLOCK: [2013-04-08 Mon 15:00]--[2013-04-08 Mon 16:12] =>  0:59
        	:ID:       eef560ce-ee41-4290-aa71-4d022bf87461
        	:END:
 ****** Lecture 09.1
+       :PROPERTIES:
+       :ID:       49b30d35-d75e-4745-8d14-02689f203143
+       :END:
 <2013-05-27 Mon 15:00-16:00>
 ******* CANCELLED Prepare lecture
        - State "CANCELLED"  from ""           [2013-05-23 Thu 13:04] \\
@@ -2681,6 +2684,9 @@ Center 119
        	:ID:       bf6e0264-66a8-4193-bc46-8ea534d0a388
        	:END:
 ****** Lecture 09.1
+       :PROPERTIES:
+       :ID:       861fa7d4-aefc-43c7-8b86-2082db50776c
+       :END:
 <2013-05-27 Mon 13:00-14:00>
 ******* CANCELLED Prepare lecture
        	DEADLINE: <2013-05-27 Mon>
