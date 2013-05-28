@@ -1902,7 +1902,10 @@ CLOCK: [2013-04-08 Mon 15:00]--[2013-04-08 Mon 16:12] =>  0:59
                :ID:       1484a613-6652-4057-8b5b-22c8d6a37c77
                :END:
 
-******* HOLD Send midterm to front desk for printing
+******* NEXT Write solutions
+	 DEADLINE: <2013-05-31 Fri>
+******* DONE Send midterm to front desk for printing
+	- State "DONE"       from "HOLD"       [2013-05-28 Tue 14:40]
 	- State "HOLD"       from "NEXT"       [2013-04-24 Wed 11:22] \\
 	  Sent to frdesk@math.ucsd Waiting on printing@math.ucsd
 	:PROPERTIES:
@@ -1919,6 +1922,8 @@ CLOCK: [2013-04-08 Mon 15:00]--[2013-04-08 Mon 16:12] =>  0:59
        	:PROPERTIES:
        	:ID:       13ed4a3c-4d9a-4e9a-8524-56bf7bb7c089
        	:END:
+******* NEXT Write solutions
+	 DEADLINE: <2013-05-31 Fri>
 ****** Final
 ******* NEXT Write Final
        	DEADLINE: <2013-06-03 Mon>
@@ -2775,6 +2780,11 @@ Center 119
 	:LOGBOOK:
 	CLOCK: [2013-04-30 Tue 12:22]--[2013-04-30 Tue 12:34] =>  0:12
 	:END:
+******* NEXT Write solutions
+	 DEADLINE: <2013-05-31 Fri>
+	 :LOGBOOK:
+	 CLOCK: [2013-05-28 Tue 14:41]
+	 :END:
 ****** Midterm 2
 ******* DONE Write Midterm 2
        	DEADLINE: <2013-05-17 Fri>
@@ -2789,6 +2799,8 @@ Center 119
        	:PROPERTIES:
        	:ID:       2f9b9e2c-61c2-412d-ad1f-e59cc3583371
        	:END:
+******* NEXT Write solutions
+	 DEADLINE: <2013-05-31 Fri>
 ****** Final
 ******* NEXT Write Final
        	DEADLINE: <2013-06-03 Mon>
