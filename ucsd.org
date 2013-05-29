@@ -1858,8 +1858,12 @@ CLOCK: [2013-04-08 Mon 15:00]--[2013-04-08 Mon 16:12] =>  0:59
        	:END:
 ****** Lecture 09.3
 <2013-05-31 Fri 15:00-16:00>
-******* NEXT Prepare lecture
+******* DONE Prepare lecture
        	DEADLINE: <2013-05-31 Fri>
+	- State "DONE"       from "NEXT"       [2013-05-28 Tue 18:27]
+	:LOGBOOK:
+	CLOCK: [2013-05-28 Tue 17:40]--[2013-05-28 Tue 18:25] =>  0:45
+	:END:
        	:PROPERTIES:
        	:ID:       0de61db0-6150-494e-b022-9fd843f34712
        	:END:
@@ -2190,8 +2194,12 @@ CLOCK: [2013-04-08 Mon 15:00]--[2013-04-08 Mon 16:12] =>  0:59
 ******* Questions
 
 ****** Quiz 10
-******* NEXT Set quiz 
+******* DONE Set quiz 
        	DEADLINE: <2013-05-29 Wed>
+	- State "DONE"       from "NEXT"       [2013-05-29 Wed 11:22]
+	:LOGBOOK:
+	CLOCK: [2013-05-29 Wed 11:20]--[2013-05-29 Wed 11:22] =>  0:02
+	:END:
        	:PROPERTIES:
        	:ID:       2d7fa15f-8f43-4fad-af54-c66a08479319
        	:END:
@@ -2722,9 +2730,14 @@ Center 119
        	:ID:       42f0a163-47d2-4fcd-a774-a347af125652
        	:END:
 ****** Lecture 09.3
-<2013-05-31 Fri 13:00-14:00>
-******* NEXT Prepare lecture
+       <2013-05-31 Fri 13:00-14:00>
+******* DONE Prepare lecture
        	DEADLINE: <2013-05-31 Fri>
+	- State "DONE"       from "NEXT"       [2013-05-28 Tue 21:28]
+	:LOGBOOK:
+	CLOCK: [2013-05-28 Tue 20:40]--[2013-05-28 Tue 21:25] =>  0:45
+	:END:
+
        	:PROPERTIES:
        	:ID:       f08b1bf0-a228-46a7-a4a2-5bc29312da70
        	:END:
@@ -3051,8 +3064,12 @@ Center 119
 ******* Questions
 
 ****** Quiz 10
-******* NEXT Set quiz 
+******* DONE Set quiz 
        	DEADLINE: <2013-05-29 Wed>
+	- State "DONE"       from "NEXT"       [2013-05-29 Wed 11:23]
+	:LOGBOOK:
+	CLOCK: [2013-05-29 Wed 11:22]--[2013-05-29 Wed 11:23] =>  0:01
+	:END:
        	:PROPERTIES:
        	:ID:       851033c1-a87b-499a-9a9b-afbfcbd2ddcd
        	:END:
