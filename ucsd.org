@@ -1494,6 +1494,7 @@ Send exact dates of travel, destination/purpose of trip, and arrangements made f
        :END:
 ****** Office hours
        :LOGBOOK:
+       CLOCK: [2013-05-29 Wed 11:34]--[2013-05-29 Wed 11:37] =>  0:03
        CLOCK: [2013-05-06 Mon 10:35]--[2013-05-06 Mon 11:31] =>  0:56
        CLOCK: [2013-05-06 Mon 10:08]--[2013-05-06 Mon 10:15] =>  0:07
        CLOCK: [2013-05-01 Wed 11:02]--[2013-05-01 Wed 11:26] =>  0:24
@@ -1911,6 +1912,10 @@ CLOCK: [2013-04-08 Mon 15:00]--[2013-04-08 Mon 16:12] =>  0:59
 
 ******* NEXT Write solutions
 	 DEADLINE: <2013-05-31 Fri>
+	 :LOGBOOK:
+	 CLOCK: [2013-05-29 Wed 11:37]--[2013-05-29 Wed 12:10] =>  0:33
+	 CLOCK: [2013-05-29 Wed 11:29]--[2013-05-29 Wed 11:34] =>  0:05
+	 :END:
 	:PROPERTIES:
 	:ID:       986899fd-2554-4f7b-b896-f3e217296209
 	:END:
@@ -2221,6 +2226,8 @@ CLOCK: [2013-04-08 Mon 15:00]--[2013-04-08 Mon 16:12] =>  0:59
       :END:
 [2013-04-05 Fri 16:44]
 **** TODO MATH20D Spring 2013				      :MATH20D:FOCUS:
+     :LOGBOOK:
+     :END:
     :PROPERTIES:
     :ID:       01742e1a-c15f-4aab-ada0-59725c2e73e4
     :END:
@@ -2719,6 +2726,9 @@ Center 119
        	:ID:       bdf6dd6b-b2b9-44b7-b0ea-21bf6da8810c
        	:END:
 ****** Lecture 09.2
+       :LOGBOOK:
+       CLOCK: [2013-05-29 Wed 12:50]--[2013-05-29 Wed 14:05] =>  1:15
+       :END:
 <2013-05-29 Wed 13:00-14:00>
 ******* DONE Prepare lecture
        	DEADLINE: <2013-05-29 Wed>
