@@ -1365,6 +1365,9 @@ Put final exam conditions - 2 pages notes allowed.
        :LOGBOOK:
        CLOCK: [2013-05-29 Wed 09:55]--[2013-05-29 Wed 11:10] =>  1:15
        :END:
+       :PROPERTIES:
+       :ID:       34fc24ea-2a6f-4b41-b64d-f6826e761d01
+       :END:
 LEDDN AUD
 <2013-05-29 Wed 10:00-10:50> 
 <2013-05-31 Fri 10:00-10:50> 
@@ -1850,6 +1853,9 @@ CLOCK: [2013-04-08 Mon 15:00]--[2013-04-08 Mon 16:12] =>  0:59
        :LOGBOOK:
        CLOCK: [2013-05-29 Wed 14:50]--[2013-05-29 Wed 16:09] =>  1:19
        :END:
+       :PROPERTIES:
+       :ID:       513a4ef8-069b-4c2e-b2c8-21a25b41ab96
+       :END:
 <2013-05-29 Wed 15:00-16:00>
 ******* DONE Prepare lecture
        	DEADLINE: <2013-05-29 Wed>
@@ -1913,10 +1919,11 @@ CLOCK: [2013-04-08 Mon 15:00]--[2013-04-08 Mon 16:12] =>  0:59
                :ID:       1484a613-6652-4057-8b5b-22c8d6a37c77
                :END:
 
-******* NEXT Write solutions
+******* DONE Write solutions
 	 DEADLINE: <2013-05-31 Fri>
+	 - State "DONE"       from "NEXT"       [2013-05-29 Wed 16:40]
 	 :LOGBOOK:
-	 CLOCK: [2013-05-29 Wed 16:25]
+	 CLOCK: [2013-05-29 Wed 16:25]--[2013-05-29 Wed 16:40] =>  0:15
 	 CLOCK: [2013-05-29 Wed 14:11]--[2013-05-29 Wed 14:38] =>  0:27
 	 CLOCK: [2013-05-29 Wed 11:37]--[2013-05-29 Wed 12:10] =>  0:33
 	 CLOCK: [2013-05-29 Wed 11:29]--[2013-05-29 Wed 11:34] =>  0:05
@@ -2231,8 +2238,6 @@ CLOCK: [2013-04-08 Mon 15:00]--[2013-04-08 Mon 16:12] =>  0:59
       :END:
 [2013-04-05 Fri 16:44]
 **** TODO MATH20D Spring 2013				      :MATH20D:FOCUS:
-     :LOGBOOK:
-     :END:
     :PROPERTIES:
     :ID:       01742e1a-c15f-4aab-ada0-59725c2e73e4
     :END:
@@ -2734,6 +2739,9 @@ Center 119
        :LOGBOOK:
        CLOCK: [2013-05-29 Wed 12:50]--[2013-05-29 Wed 14:05] =>  1:15
        :END:
+       :PROPERTIES:
+       :ID:       51510f97-9acc-4a5b-9c60-2a62ecc8cb6b
+       :END:
 <2013-05-29 Wed 13:00-14:00>
 ******* DONE Prepare lecture
        	DEADLINE: <2013-05-29 Wed>
@@ -2817,9 +2825,11 @@ Center 119
 	:LOGBOOK:
 	CLOCK: [2013-04-30 Tue 12:22]--[2013-04-30 Tue 12:34] =>  0:12
 	:END:
-******* NEXT Write solutions
+******* DONE Write solutions
 	 DEADLINE: <2013-05-31 Fri>
+	 - State "DONE"       from "NEXT"       [2013-05-29 Wed 16:41]
 	 :LOGBOOK:
+	 CLOCK: [2013-05-29 Wed 16:40]--[2013-05-29 Wed 16:41] =>  0:01
 	 CLOCK: [2013-05-28 Tue 15:53]--[2013-05-28 Tue 15:57] =>  0:04
 	 CLOCK: [2013-05-28 Tue 14:41]--[2013-05-28 Tue 15:48] =>  1:07
 	 :END:
