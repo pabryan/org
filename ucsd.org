@@ -1847,6 +1847,9 @@ CLOCK: [2013-04-08 Mon 15:00]--[2013-04-08 Mon 16:12] =>  0:59
        	:ID:       e5df2318-ca0a-4bbe-9b9b-0040e1af036a
        	:END:
 ****** Lecture 09.2
+       :LOGBOOK:
+       CLOCK: [2013-05-29 Wed 14:50]--[2013-05-29 Wed 16:09] =>  1:19
+       :END:
 <2013-05-29 Wed 15:00-16:00>
 ******* DONE Prepare lecture
        	DEADLINE: <2013-05-29 Wed>
@@ -1913,6 +1916,7 @@ CLOCK: [2013-04-08 Mon 15:00]--[2013-04-08 Mon 16:12] =>  0:59
 ******* NEXT Write solutions
 	 DEADLINE: <2013-05-31 Fri>
 	 :LOGBOOK:
+	 CLOCK: [2013-05-29 Wed 14:11]--[2013-05-29 Wed 14:38] =>  0:27
 	 CLOCK: [2013-05-29 Wed 11:37]--[2013-05-29 Wed 12:10] =>  0:33
 	 CLOCK: [2013-05-29 Wed 11:29]--[2013-05-29 Wed 11:34] =>  0:05
 	 :END:
