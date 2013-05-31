@@ -1363,6 +1363,7 @@ Put final exam conditions - 2 pages notes allowed.
 ***** Notes							      :NOTES:
 ****** Cover Caleb Meier's Lectures
        :LOGBOOK:
+       CLOCK: [2013-05-31 Fri 10:50]--[2013-05-31 Fri 11:05] =>  0:15
        CLOCK: [2013-05-29 Wed 09:55]--[2013-05-29 Wed 11:10] =>  1:15
        :END:
        :PROPERTIES:
@@ -1497,6 +1498,7 @@ Send exact dates of travel, destination/purpose of trip, and arrangements made f
        :END:
 ****** Office hours
        :LOGBOOK:
+       CLOCK: [2013-05-31 Fri 11:10]--[2013-05-31 Fri 12:20] =>  1:10
        CLOCK: [2013-05-29 Wed 11:34]--[2013-05-29 Wed 11:37] =>  0:03
        CLOCK: [2013-05-06 Mon 10:35]--[2013-05-06 Mon 11:31] =>  0:56
        CLOCK: [2013-05-06 Mon 10:08]--[2013-05-06 Mon 10:15] =>  0:07
@@ -2753,6 +2755,9 @@ Center 119
        	:ID:       42f0a163-47d2-4fcd-a774-a347af125652
        	:END:
 ****** Lecture 09.3
+       :LOGBOOK:
+       CLOCK: [2013-05-31 Fri 12:55]--[2013-05-31 Fri 14:21] =>  1:26
+       :END:
        <2013-05-31 Fri 13:00-14:00>
 ******* DONE Prepare lecture
        	DEADLINE: <2013-05-31 Fri>
