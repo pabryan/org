@@ -27,34 +27,35 @@ END:
 #+TBLNAME: MTHBUDGET
 | Desc        |   Amt |
 |-------------+-------|
-| Rent        |  1650 |
+| Rent        |  1431 |
 | Electricity |    75 |
-| Phone       |    80 |
+| Phone       |    90 |
 | TV/Internet |    85 |
 | Insurance   |    90 |
 | Petrol      |    30 |
 | Comics      |    60 |
+| Cloud       |    13 |
 | tritoncash  |    25 |
 | Pay         | -3800 |
 | Organic Box |   250 |
 | Weekly Food | 292.5 |
 | Supplies    |  58.5 |
 | Montly Food |    59 |
-| Australia   |   855 |
+| Australia   |   900 |
 |             |       |
-| Total       | -190. |
-   #+TBLFM: @11$2=250::@12$2=remote(WeeklyFood,@14$2)*4.5::@13$2=remote(Supplies,@11$2)::@14$2=remote(MonthlyFood,@13$2)::@15$2=remote(Australia,@7$2)::@17$2=vsum(@2$2..@16$2)
+| Total       | -351. |
+   #+TBLFM: @12$2=250::@13$2=remote(WeeklyFood,@14$2)*4.5::@14$2=remote(Supplies,@11$2)::@15$2=remote(MonthlyFood,@13$2)::@16$2=remote(Australia,@7$2)::@18$2=vsum(@2$2..@17$2)
 
 #+TBLNAME: Australia
 | Desc       |  Amt |
 |------------+------|
 | Loan       |  500 |
 | ASG        |  125 |
-| Kate Visa  |  230 |
+| Kate Visa  |  275 |
 | Family Tax | -220 |
 |            |      |
-| Out        |  855 |
-| Total      |  635 |
+| Out        |  900 |
+| Total      |  680 |
    #+TBLFM: @7$2=vsum(@2$2..@4$2)::@8$2=vsum(@2$2..@6$2)
 
 
