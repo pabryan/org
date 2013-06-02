@@ -38,13 +38,12 @@ END:
 | tritoncash  |    25 |
 | Pay         | -3800 |
 | Organic Box |   250 |
-| Weekly Food | 292.5 |
-| Supplies    |  58.5 |
-| Montly Food |    59 |
+| Weekly Food |   200 |
+| Costco      |   250 |
 | Australia   |   900 |
 |             |       |
-| Total       | -351. |
-   #+TBLFM: @12$2=250::@13$2=remote(WeeklyFood,@14$2)*4.5::@14$2=remote(Supplies,@11$2)::@15$2=remote(MonthlyFood,@13$2)::@16$2=remote(Australia,@7$2)::@18$2=vsum(@2$2..@17$2)
+| Total       |  -301 |
+   #+TBLFM: @12$2=250::@13$2=4 * 50::@15$2=remote(Australia,@7$2)::@17$2=vsum(@2$2..@16$2)
 
 #+TBLNAME: Australia
 | Desc       |  Amt |
@@ -184,11 +183,12 @@ Use account A11078844
 
 
 ** TODO Pay ATT
-   DEADLINE: <2013-06-04 Tue +1m -5d>
+   DEADLINE: <2013-07-04 Thu +1m -5d>
+   - State "DONE"       from "TODO"       [2013-06-02 Sun 11:23]
    - State "DONE"       from "TODO"       [2013-05-02 Thu 11:54]
    - State "DONE"       from "TODO"       [2013-04-02 Tue 21:33]
    :PROPERTIES:
-   :LAST_REPEAT: [2013-05-02 Thu 11:54]
+   :LAST_REPEAT: [2013-06-02 Sun 11:23]
    :ID:       137987c4-8151-42f0-bfad-b1e06d2cd512
    :END:
 [[http://www.att.com/]]
