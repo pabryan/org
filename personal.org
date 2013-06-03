@@ -27,34 +27,34 @@ END:
 #+TBLNAME: MTHBUDGET
 | Desc        |   Amt |
 |-------------+-------|
-| Rent        |  1650 |
+| Rent        |  1431 |
 | Electricity |    75 |
-| Phone       |    80 |
+| Phone       |    90 |
 | TV/Internet |    85 |
 | Insurance   |    90 |
 | Petrol      |    30 |
 | Comics      |    60 |
+| Cloud       |    13 |
 | tritoncash  |    25 |
 | Pay         | -3800 |
 | Organic Box |   250 |
-| Weekly Food | 292.5 |
-| Supplies    |  58.5 |
-| Montly Food |    59 |
-| Australia   |   855 |
+| Weekly Food |   200 |
+| Costco      |   250 |
+| Australia   |   900 |
 |             |       |
-| Total       | -190. |
-   #+TBLFM: @11$2=250::@12$2=remote(WeeklyFood,@14$2)*4.5::@13$2=remote(Supplies,@11$2)::@14$2=remote(MonthlyFood,@13$2)::@15$2=remote(Australia,@7$2)::@17$2=vsum(@2$2..@16$2)
+| Total       |  -301 |
+   #+TBLFM: @12$2=250::@13$2=4 * 50::@15$2=remote(Australia,@7$2)::@17$2=vsum(@2$2..@16$2)
 
 #+TBLNAME: Australia
 | Desc       |  Amt |
 |------------+------|
 | Loan       |  500 |
 | ASG        |  125 |
-| Kate Visa  |  230 |
+| Kate Visa  |  275 |
 | Family Tax | -220 |
 |            |      |
-| Out        |  855 |
-| Total      |  635 |
+| Out        |  900 |
+| Total      |  680 |
    #+TBLFM: @7$2=vsum(@2$2..@4$2)::@8$2=vsum(@2$2..@6$2)
 
 
@@ -159,6 +159,7 @@ Scan them and email them to commbank. Also make sure netbank access is setup.
 - scan reciepts and enter into ledger/org mode
 
 ** TODO Pay rent
+   SCHEDULED: <2013-06-01 Sat +1m>
    - State "DONE"       from "TODO"       [2013-05-02 Thu 11:54]
    - State "DONE"       from "TODO"       [2013-04-02 Tue 21:33]
    - State "DONE"       from "TODO"       [2013-03-02 Sat 21:11]
@@ -169,7 +170,7 @@ Scan them and email them to commbank. Also make sure netbank access is setup.
    :LOGBOOK:
    CLOCK: [2013-02-01 Fri 14:42]--[2013-02-01 Fri 14:57] =>  0:15
    :END:
-   DEADLINE: <2013-06-05 Wed +1m -5d>
+   DEADLINE: <2013-06-05 Wed +1m>
 
    :PROPERTIES:
    :ID:       ea07bf7b-9f89-49bf-90db-3e167baff163
@@ -182,11 +183,12 @@ Use account A11078844
 
 
 ** TODO Pay ATT
-   DEADLINE: <2013-06-04 Tue +1m -5d>
+   DEADLINE: <2013-07-04 Thu +1m -5d>
+   - State "DONE"       from "TODO"       [2013-06-02 Sun 11:23]
    - State "DONE"       from "TODO"       [2013-05-02 Thu 11:54]
    - State "DONE"       from "TODO"       [2013-04-02 Tue 21:33]
    :PROPERTIES:
-   :LAST_REPEAT: [2013-05-02 Thu 11:54]
+   :LAST_REPEAT: [2013-06-02 Sun 11:23]
    :ID:       137987c4-8151-42f0-bfad-b1e06d2cd512
    :END:
 [[http://www.att.com/]]
