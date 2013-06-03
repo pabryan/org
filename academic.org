@@ -1699,6 +1699,9 @@ Possible dates: 5/4/13, 12/4/13, 19/4/13
  
 **** NEXT Submit reimbursement form
      DEADLINE: <2013-06-02 Sun> SCHEDULED: <2013-06-02 Sun>
+     :PROPERTIES:
+     :ID:       248f2b18-15c7-410a-bafc-67eef8548f4c
+     :END:
 *** Notes
 $Z$ is some quantity like distance, non-collapsing, whatever. $\bar{Z}$ is the extrema over some range; for non-collaping $Z=Z(x,y)$, $\bar{Z}(x)=\sup_y Z(x,y)$. For $Z=d$, $\bar{Z}$ is the sup over $x$ and $y$. These will be over non-compact $M\times M - D$ with $D$ the diagonal. More generally, $Z$ may only be defined away from the cut locus. 
 
