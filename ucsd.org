@@ -1496,6 +1496,7 @@ Send exact dates of travel, destination/purpose of trip, and arrangements made f
        :END:
 ****** Office hours
        :LOGBOOK:
+       CLOCK: [2013-06-03 Mon 11:18]--[2013-06-03 Mon 12:10] =>  0:52
        CLOCK: [2013-05-31 Fri 11:10]--[2013-05-31 Fri 12:20] =>  1:10
        CLOCK: [2013-05-29 Wed 11:34]--[2013-05-29 Wed 11:37] =>  0:03
        CLOCK: [2013-05-06 Mon 10:35]--[2013-05-06 Mon 11:31] =>  0:56
@@ -1885,7 +1886,8 @@ CLOCK: [2013-04-08 Mon 15:00]--[2013-04-08 Mon 16:12] =>  0:59
 ******* NEXT Prepare lecture
        	DEADLINE: <2013-06-03 Mon>
 	:LOGBOOK:
-	CLOCK: [2013-06-03 Mon 11:17]
+	CLOCK: [2013-06-03 Mon 14:10]
+	CLOCK: [2013-06-03 Mon 11:17]--[2013-06-03 Mon 11:18] =>  0:01
 	:END:
        	:PROPERTIES:
        	:ID:       4dd596b3-9553-4c7d-9f58-c0ac74f3906c
@@ -2782,6 +2784,9 @@ Center 119
        	:ID:       f08b1bf0-a228-46a7-a4a2-5bc29312da70
        	:END:
 ****** Lecture 10.1
+       :LOGBOOK:
+       CLOCK: [2013-06-03 Mon 12:45]--[2013-06-03 Mon 14:10] =>  1:25
+       :END:
 <2013-06-03 Mon 13:00-14:00>
 ******* DONE Prepare lecture
        	DEADLINE: <2013-06-03 Mon>
