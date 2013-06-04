@@ -413,6 +413,40 @@ There is a remark by Ben that our function comes from seeking a similarity solut
 My computations were for the un-normalised flow.
 ***** Notes
 MR2225802 gives conditions for when non-trivial self-similar solutions exist.
+****** Optimal chord/arc profile
+Suppose $\bar\gamma$ is a (convex, symmetric in both axes, 4-vertex) `reference curve', i.e. $\bar\gamma = \{(x,u(x)),(x,-u(x)):\ -a\leq x\leq a\}$ where $u$ is concave and even, and the curvature $\bar\kappa$ is increasing on $(0,a)$.  Suppose further that $\bar\kappa^{\alpha}$ is a convex function on $(-a,a)$ (i.e. with respect to $x$, not arc length).
+
+Suppose $\gamma$ is any other (convex, symmetric in both axes, 4-vertex (?)) curve, with chord-arc profile bounded below by that of $\bar\gamma$, and such that there is some interval on which equality is attained in this comparison, i.e. this is a subinterval of $\gamma$ of length $\ell$, and distance between endpoints $d$, and the arc of $\bar\gamma$ of length $\ell$ with minimal distance between endpoints also has this equal to $d$.   I think we can argue that the arc where this happens on the reference curve is symmetric (i.e. the points on the curve with $x\geq b$ for some $b$), and that after suitable translation and rotation the arc on $\gamma$ can be made to have endpoints coinciding and tangent directions at the endpoints also coinciding with the `reference' interval.  I think we can arrange (by symmetry of $\gamma$) that the interval of $\gamma$ is also symmetric after this rotation.
+
+Then the integral of $|\kappa|^{1+\alpha}$ on this interval of $\gamma$ is no less than that on this interval of $\bar\gamma$.
+
+Proof:  Let $y$ be the vertical component of position, parametrised on $[-\ell/2,\ell/2]$ by arc length.  By symmetry this is odd (for both curves).
+
+Lemma:  $y\geq \bar y$.
+
+This follows since by symmetry $y(s)-y(-s)$ is the distance between the endpoints of the curve on the interval $(-s/2,s/2)$ which by the chord-arc comparison must be no less than the distance between the endpoints of the reference curve.  We need to use the fact that the optimal intervals of the reference curve are these symmetric ones.
+
+Lemma:  $f(r,p) = |r|^{1+\alpha}/(1-p^2)^{(1+\alpha)/2}$ is convex in $\{(r,p):\ -1\leq p\leq p\}$ if $\alpha\geq 1$.
+
+Proof:  Direct computation of the Hessian.
+
+Now observe:
+$$
+E = \int |\kappa|^{1+\alpha} ds = \int (|y''|/\sqrt{1-(y')^2})^{1+\alpha} ds = \int f(y'',y') ds.
+$$
+similarly
+$$
+\bar E = \int f(\bar y'',\bar y') ds.
+$$
+Therefore by convexity we have
+$$
+E = \int f(y'',y') ds
+\geq \int f(\bar y'',\bar y') + Df_{\bar y'',\bar y'}((y-\bar y)'',(y-\bar y)') ds
+= \bar E + (1+\alpha)\int (d/dx)^2(\bar k)^\alpha (y-\bar y) ds
+$$
+where the last step is a direct computation which uses integration by parts plus change of variable from $s$ to $x$.  Since $y\geq \bar y$, we have $E\geq \bar E$.
+
+This proves the inequality we need.  The remaining problem is to remove the symmetry, etc. assumptions on $\gamma$.  The only place they are used at the moment is in deducing the inequality $y\geq \bar y$, and it might well be true that this might be true after symmetrising $y$ in the general case, if we use the chord-arc comparison some other way.
 ***** References
       :PROPERTIES:
       :ID:       6d4bab87-97ba-49b2-9aeb-2db4c0bb40e2
