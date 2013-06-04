@@ -2895,6 +2895,8 @@ Center 119
 ******* NEXT Write Final
        	DEADLINE: <2013-06-03 Mon>
 	:LOGBOOK:
+	CLOCK: [2013-06-04 Tue 14:40]--[2013-06-04 Tue 14:54] =>  0:14
+	CLOCK: [2013-06-04 Tue 13:18]--[2013-06-04 Tue 14:11] =>  0:53
 	CLOCK: [2013-06-02 Sun 17:12]--[2013-06-02 Sun 17:37] =>  0:25
 	:END:
        	:PROPERTIES:
