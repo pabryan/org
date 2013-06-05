@@ -2894,9 +2894,11 @@ Center 119
 	:ID:       8d6848c9-3f65-43b0-8c35-6aa37ca0aae8
 	:END:
 ****** Final
-******* NEXT Write Final
+******* DONE Write Final
        	DEADLINE: <2013-06-03 Mon>
+	- State "DONE"       from "NEXT"       [2013-06-04 Tue 20:02]
 	:LOGBOOK:
+	CLOCK: [2013-06-04 Tue 19:52]--[2013-06-04 Tue 20:02] =>  0:10
 	CLOCK: [2013-06-04 Tue 14:40]--[2013-06-04 Tue 14:54] =>  0:14
 	CLOCK: [2013-06-04 Tue 13:18]--[2013-06-04 Tue 14:11] =>  0:53
 	CLOCK: [2013-06-02 Sun 17:12]--[2013-06-02 Sun 17:37] =>  0:25
