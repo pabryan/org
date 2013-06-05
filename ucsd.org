@@ -1975,9 +1975,11 @@ CLOCK: [2013-04-08 Mon 15:00]--[2013-04-08 Mon 16:12] =>  0:59
 	:ID:       ba531fe8-7858-425e-96b4-fb298de62a17
 	:END:
 ****** Final
-******* NEXT Write Final
+******* DONE Write Final
        	DEADLINE: <2013-06-03 Mon>
+	- State "DONE"       from "NEXT"       [2013-06-04 Tue 19:52]
 	:LOGBOOK:
+	CLOCK: [2013-06-04 Tue 19:42]--[2013-06-04 Tue 19:52] =>  0:10
 	CLOCK: [2013-06-04 Tue 10:43]--[2013-06-04 Tue 11:51] =>  1:08
 	CLOCK: [2013-06-02 Sun 14:38]--[2013-06-02 Sun 16:45] =>  2:07
 	:END:
