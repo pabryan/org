@@ -1966,8 +1966,10 @@ CLOCK: [2013-04-08 Mon 15:00]--[2013-04-08 Mon 16:12] =>  0:59
        	:PROPERTIES:
        	:ID:       13ed4a3c-4d9a-4e9a-8524-56bf7bb7c089
        	:END:
-******* NEXT Write solutions
+******* CANCELLED Write solutions
 	 DEADLINE: <2013-05-31 Fri>
+	 - State "CANCELLED"  from "NEXT"       [2013-06-05 Wed 11:55] \\
+	   Gautam Wilkins has posted solutions.
 	 :LOGBOOK:
 	 CLOCK: [2013-05-31 Fri 14:28]--[2013-05-31 Fri 14:50] =>  0:22
 	 :END:
