@@ -370,36 +370,8 @@ Can we suspend loan repayments for a few months?
 <2012-12-10 13:30>
 Mary Tran, 2nd floor
 
-** DONE Research Pavel Tsatsouline
-   - State "DONE"       from "TODO"       [2012-11-10 Sat 13:30]
-   :PROPERTIES:
-   :ID:       0ca14077-9c27-4fd1-b6e7-413959dcb51a
-   :END: 
-** NEXT Listen to Scott Sonnon
-  CLOCK: [2012-10-12 Fri 14:55]--[2012-10-12 Fri 14:55] =>  0:00
-   :PROPERTIES:
-   :ID:       d2291e69-0425-4e7d-b027-5f7ee77dae6d
-   :END:
-[2012-10-12 Fri 14:55]
-[[http://physicalliving.com/exclusive-interview-with-johns-coach-scott-sonnon-the-creator-of-the-circular-strength-training-system/][part 1]]
-[[http://physicalliving.com/exclusive-interview-with-johns-coach-scott-sonnon-the-creator-of-the-circular-strength-training-system-part-2/][part 2]]
-** DONE Find doctor
-   - State "DONE"       from "TODO"       [2012-10-24 Wed 13:30]
-[[http://kp.org][KP]]
-  CLOCK: [2012-10-14 Sun 20:33]--[2012-10-14 Sun 20:33] =>  0:00
-   :PROPERTIES:
-   :ID:       e64bba9b-57ea-49b7-87b6-7050a8f5e57e
-   :END:
-[2012-10-14 Sun 20:33]
-** CANCELLED Update training schedule
-   - State "CANCELLED"  from "TODO"       [2012-10-24 Wed 13:30] \\
-     Duplicate of existing task
-  CLOCK: [2012-10-14 Sun 20:33]--[2012-10-14 Sun 20:34] =>  0:01
-   :PROPERTIES:
-   :ID:       1590c8fb-cc00-4831-bc09-7f8225fd9434
-   :END:
-[2012-10-14 Sun 20:33]
-** DONE Call KP membership
+** KP
+*** DONE Call KP membership
    - State "DONE"       from "TODO"       [2012-10-24 Wed 13:30]
 Need to find out what to do when sick or in an emergency
   CLOCK: [2012-10-18 Thu 10:46]--[2012-10-18 Thu 10:47] =>  0:01
@@ -407,47 +379,23 @@ Need to find out what to do when sick or in an emergency
    :ID:       ea362f28-4534-49fd-8d18-d4b23b33abd9
    :END:
 [2012-10-18 Thu 10:46]
-** DONE Update medical insurance				   :COMPUTER:
-   - State "DONE"       from "WAITING"    [2012-10-24 Wed 13:31]
-   - State "WAITING"    from "TODO"       [2012-10-16 Tue 10:42] \\
-     Should recieve email confirming eligibility for family members
-   :PROPERTIES:
-   :ID:       49875893-75df-4de9-8469-5ebf23a7e891
-   :END:
-** CANCELLED clarify pain free class				   :COMPUTER:
-   - State "CANCELLED"  from "TODO"       [2012-10-25 Thu 11:37] \\
-     I wondered if I could do several classes, but I'll just do it all in one.
-   :PROPERTIES:
-   :ID:       93730351-36ba-4865-a259-f95fbd3a24dd
-   :END:
-** DONE Track exercise in org mode
-   - State "DONE"       from "TODO"       [2012-11-30 Fri 13:54]
-   :PROPERTIES:
-   :ID:       063227db-9a4b-42e4-a2bf-f928f1554857
-   :END:
-*** DONE Make org mode exercise journal
-    - State "DONE"       from "NEXT"       [2012-11-30 Fri 13:54]
+*** DONE Update medical insurance				   :COMPUTER:
+    - State "DONE"       from "WAITING"    [2012-10-24 Wed 13:31]
+    - State "WAITING"    from "TODO"       [2012-10-16 Tue 10:42] \\
+      Should recieve email confirming eligibility for family members
     :PROPERTIES:
-    :ID:       f76335cc-7e7d-472b-ae9f-54c9b267cb58
+    :ID:       49875893-75df-4de9-8469-5ebf23a7e891
     :END:
-Probably some table/spreadsheet functionality here
-*** TODO Enter exercise data into org-mode
-    :PROPERTIES:
-    :ID:       51db1512-0b77-4dc2-9365-77d993597e93
-    :END:
-*** TODO Update exercise schedule
-  CLOCK: [2012-10-12 Fri 14:49]--[2012-10-12 Fri 14:49] =>  0:00
+
+*** DONE Find doctor
+   - State "DONE"       from "TODO"       [2012-10-24 Wed 13:30]
+[[http://kp.org][KP]]
+  CLOCK: [2012-10-14 Sun 20:33]--[2012-10-14 Sun 20:33] =>  0:00
    :PROPERTIES:
-   :ID:       3065cc64-f846-4baa-abea-f05ce84becee
+   :ID:       e64bba9b-57ea-49b7-87b6-7050a8f5e57e
    :END:
-[2012-10-12 Fri 14:49]
-
-** DONE Research healthy dining website  
-   - State "DONE"       from "TODO"       [2012-11-10 Sat 13:32]
-Healthydiningfinder.com
-[2012-10-22 Mon 14:45]
-
-** DONE Checkout Health insurance changes
+[2012-10-14 Sun 20:33]
+*** DONE Checkout Health insurance changes
    - State "DONE"       from "NEXT"       [2012-11-10 Sat 13:33]
 UC SAN DIEGO
 CAMPUS NOTICE
@@ -508,36 +456,16 @@ person in your department who handles benefits information.
   CLOCK: [2012-10-25 Thu 11:32]--[2012-10-25 Thu 11:32] =>  0:00
 [2012-10-25 Thu 11:32]
 
-** DONE buy foam rollers
-  SCHEDULED: <2012-11-01 Thu>
-  - State "DONE"       from "NEXT"       [2012-11-02 Fri 19:34]
-  CLOCK: [2012-10-29 Mon 10:28]--[2012-10-29 Mon 10:28] =>  0:00
-[2012-10-29 Mon 10:28]
-
-** DONE Book osteo
-   - State "DONE"       from "TODO"       [2012-12-04 Tue 19:49]
-  :LOGBOOK:
-  :END:
+** Routine/Schedule
+*** CANCELLED Update training schedule
+   - State "CANCELLED"  from "TODO"       [2012-10-24 Wed 13:30] \\
+     Duplicate of existing task
+  CLOCK: [2012-10-14 Sun 20:33]--[2012-10-14 Sun 20:34] =>  0:01
    :PROPERTIES:
-   :ID:       8a99ebb9-3388-4307-ad89-204e86850dfc
+   :ID:       1590c8fb-cc00-4831-bc09-7f8225fd9434
    :END:
-[2012-12-02 Sun 12:53]
-
-** Wu Shu, Qi Gong etc.
-*** Jing institute
-http://www.sdtaichi.com/
-** DONE Book physical therapy
-  SCHEDULED: <2012-12-13 Thu>
-  - State "DONE"       from "TODO"       [2012-12-18 Tue 11:43]
-  :LOGBOOK:
-  :END:
-   :PROPERTIES:
-   :ID:       0e4452bc-2271-49d1-9591-4fb72117123c
-   :END:
-[2012-12-11 Tue 16:49]
-
-866-413-1582
-** TODO Finish up exercise templates
+[2012-10-14 Sun 20:33]
+*** TODO Finish up exercise templates
   :LOGBOOK:
   CLOCK: [2012-12-14 Fri 11:07]--[2012-12-14 Fri 11:08] =>  0:01
   :END:
@@ -547,7 +475,7 @@ http://www.sdtaichi.com/
 [2012-12-14 Fri 11:07]
 Also add in the routine description so I have it with me via mobileorg.
 
-** TODO Set up capture templates for exercise
+*** TODO Set up capture templates for exercise
   :LOGBOOK:
   :END:
   :PROPERTIES:
@@ -555,55 +483,12 @@ Also add in the routine description so I have it with me via mobileorg.
   :END:
 [2012-12-17 Mon 15:01]
 
-** Articles
-*** Scott Sonnon
-[[http://www.rmaxinternational.com/flowcoach/?p=21]]
-** Food myths
-  :PROPERTIES:
-  :ID:       d8fdf5d8-3f41-4dbf-b31e-79f6dbb260ea
-  :END:
-http://blog.zocdoc.com/does-eating-tomatoes-reduce-your-risk-of-prostate-cancer-fact-vs-myth/
+*** TODO Schedule diet/exercise
+    :PROPERTIES:
+    :ID:       4a1fcee6-b6cf-43d2-9c5d-59858e15023a
+    :END:
 
-** TODO Schedule diet/exercise
-   :PROPERTIES:
-   :ID:       4a1fcee6-b6cf-43d2-9c5d-59858e15023a
-   :END:
-
-** People/blogs
-[[http://www.alkavadlo.com/]]
-[[http://daretoevolve.tv/]]
-[[http://q.equinox.com]]
-[[http://idoportal.blogspot.com/search?updated-min=2009-01-01T00:00:00%2B02:00&updated-max=2010-01-01T00:00:00%2B02:00&max-results=46]]
-[[http://www.eatmoveimprove.com]]
-** NEXT Make reminders
-  :LOGBOOK:
-  CLOCK: [2012-12-21 Fri 20:47]--[2012-12-21 Fri 20:51] =>  0:04
-  :END:
-  :PROPERTIES:
-  :ID:       3e44cc8f-e8cb-4ead-b2ed-def3988b8dca
-  :END:
-[2012-12-21 Fri 20:47]
-
-Healthy habits. I want to keep on track with living well and so need reminders to see everyday to remind me how good I feel when eating good food, relaxing and exercising.
-** TODO Add instructions to exercixe templates and check for typos
-  :LOGBOOK:
-  :END:
-   :PROPERTIES:
-   :ID:       6d4fde96-4332-45d7-a22c-5d6777c63752
-   :END:
-[2013-01-05 Sat 13:12]
-** CANCELLED Make Physio appointment 
-  SCHEDULED: <2013-03-19 Tue> DEADLINE: <2013-04-01 Tue>
-  - State "CANCELLED"  from "TODO"       [2013-04-21 Sun 11:58] \\
-    Doesn't look like I'm going to do it.
-  :LOGBOOK:
-  CLOCK: [2013-02-01 Fri 11:46]--[2013-02-01 Fri 11:47] =>  0:01
-  :END:
-   :PROPERTIES:
-   :ID:       a7b11fe1-61a4-4f17-9401-071364bfe11e
-   :END:
-[2013-02-01 Fri 11:46]
-** TODO Update exercise habits
+*** TODO Update exercise habits
   :LOGBOOK:
   CLOCK: [2013-03-04 Mon 08:36]--[2013-03-04 Mon 08:39] =>  0:03
   :END:
@@ -614,7 +499,115 @@ Healthy habits. I want to keep on track with living well and so need reminders t
 
 Habit should just be exercise, possibly also morning mobility, evening decompression
 Exercise is daily, the other two can be 1-2 days each.
-** TODO Contact Pain Away
+*** TODO Add instructions to exercixe templates and check for typos
+  :LOGBOOK:
+  :END:
+   :PROPERTIES:
+   :ID:       6d4fde96-4332-45d7-a22c-5d6777c63752
+   :END:
+[2013-01-05 Sat 13:12]
+** Practices
+*** People/blogs
+[[http://www.alkavadlo.com/]]
+[[http://daretoevolve.tv/]]
+[[http://q.equinox.com]]
+[[http://idoportal.blogspot.com/search?updated-min=2009-01-01T00:00:00%2B02:00&updated-max=2010-01-01T00:00:00%2B02:00&max-results=46]]
+[[http://www.eatmoveimprove.com]]
+*** Tasks
+**** DONE Track exercise in org mode
+     - State "DONE"       from "TODO"       [2012-11-30 Fri 13:54]
+     :PROPERTIES:
+     :ID:       063227db-9a4b-42e4-a2bf-f928f1554857
+     :END:
+***** DONE Make org mode exercise journal
+    - State "DONE"       from "NEXT"       [2012-11-30 Fri 13:54]
+    :PROPERTIES:
+    :ID:       f76335cc-7e7d-472b-ae9f-54c9b267cb58
+    :END:
+Probably some table/spreadsheet functionality here
+***** TODO Enter exercise data into org-mode
+      :PROPERTIES:
+      :ID:       51db1512-0b77-4dc2-9365-77d993597e93
+      :END:
+***** TODO Update exercise schedule
+  CLOCK: [2012-10-12 Fri 14:49]--[2012-10-12 Fri 14:49] =>  0:00
+   :PROPERTIES:
+   :ID:       3065cc64-f846-4baa-abea-f05ce84becee
+   :END:
+[2012-10-12 Fri 14:49]
+
+*** RMAX
+**** NEXT Listen to Scott Sonnon
+  CLOCK: [2012-10-12 Fri 14:55]--[2012-10-12 Fri 14:55] =>  0:00
+   :PROPERTIES:
+   :ID:       d2291e69-0425-4e7d-b027-5f7ee77dae6d
+   :END:
+[2012-10-12 Fri 14:55]
+[[http://physicalliving.com/exclusive-interview-with-johns-coach-scott-sonnon-the-creator-of-the-circular-strength-training-system/][part 1]]
+[[http://physicalliving.com/exclusive-interview-with-johns-coach-scott-sonnon-the-creator-of-the-circular-strength-training-system-part-2/][part 2]]
+**** Scott Sonnon Blog
+[[http://www.rmaxinternational.com/flowcoach/?p=21]]
+
+*** Bodyweight
+**** DONE Research Pavel Tsatsouline
+     - State "DONE"       from "TODO"       [2012-11-10 Sat 13:30]
+     :PROPERTIES:
+     :ID:       0ca14077-9c27-4fd1-b6e7-413959dcb51a
+     :END: 
+*** Wu Shu, Qi Gong etc.
+**** Jing institute
+http://www.sdtaichi.com/
+
+**** Zhan Zhuang
+http://en.wikipedia.org/wiki/Zhan_zhuang
+
+**** Daoist TaiJi
+*** Release
+**** CANCELLED clarify pain free class				   :COMPUTER:
+     - State "CANCELLED"  from "TODO"       [2012-10-25 Thu 11:37] \\
+       I wondered if I could do several classes, but I'll just do it all in one.
+     :PROPERTIES:
+     :ID:       93730351-36ba-4865-a259-f95fbd3a24dd
+     :END:
+**** DONE buy foam rollers
+  SCHEDULED: <2012-11-01 Thu>
+  - State "DONE"       from "NEXT"       [2012-11-02 Fri 19:34]
+  CLOCK: [2012-10-29 Mon 10:28]--[2012-10-29 Mon 10:28] =>  0:00
+[2012-10-29 Mon 10:28]
+
+**** DONE Book osteo
+   - State "DONE"       from "TODO"       [2012-12-04 Tue 19:49]
+  :LOGBOOK:
+  :END:
+   :PROPERTIES:
+   :ID:       8a99ebb9-3388-4307-ad89-204e86850dfc
+   :END:
+[2012-12-02 Sun 12:53]
+
+**** CANCELLED Make Physio appointment 
+  SCHEDULED: <2013-03-19 Tue> DEADLINE: <2013-04-01 Tue>
+  - State "CANCELLED"  from "TODO"       [2013-04-21 Sun 11:58] \\
+    Doesn't look like I'm going to do it.
+  :LOGBOOK:
+  CLOCK: [2013-02-01 Fri 11:46]--[2013-02-01 Fri 11:47] =>  0:01
+  :END:
+   :PROPERTIES:
+   :ID:       a7b11fe1-61a4-4f17-9401-071364bfe11e
+   :END:
+[2013-02-01 Fri 11:46]
+**** DONE Book physical therapy
+  SCHEDULED: <2012-12-13 Thu>
+  - State "DONE"       from "TODO"       [2012-12-18 Tue 11:43]
+  :LOGBOOK:
+  :END:
+   :PROPERTIES:
+   :ID:       0e4452bc-2271-49d1-9591-4fb72117123c
+   :END:
+[2012-12-11 Tue 16:49]
+
+866-413-1582
+
+**** TODO Contact Pain Away
   SCHEDULED: <2013-06-10 Mon>
   :LOGBOOK:
   :END:
@@ -623,7 +616,37 @@ Exercise is daily, the other two can be 1-2 days each.
    :END:
 [2013-03-25 Mon 21:09]
 
-* Recreation							 :RECREATION:
+*** Alexander
+http://www.alexandertechnique.com/
+http://posturereleaseimagery.org/
+** Food
+*** DONE Research healthy dining website  
+   - State "DONE"       from "TODO"       [2012-11-10 Sat 13:32]
+Healthydiningfinder.com
+[2012-10-22 Mon 14:45]
+
+*** Food myths
+  :PROPERTIES:
+  :ID:       d8fdf5d8-3f41-4dbf-b31e-79f6dbb260ea
+  :END:
+http://blog.zocdoc.com/does-eating-tomatoes-reduce-your-risk-of-prostate-cancer-fact-vs-myth/
+
+
+** Tasks
+*** NEXT Make reminders
+  :LOGBOOK:
+  CLOCK: [2012-12-21 Fri 20:47]--[2012-12-21 Fri 20:51] =>  0:04
+  :END:
+  :PROPERTIES:
+  :ID:       3e44cc8f-e8cb-4ead-b2ed-def3988b8dca
+  :END:
+[2012-12-21 Fri 20:47]
+
+Healthy habits. I want to keep on track with living well and so need reminders to see everyday to remind me how good I feel when eating good food, relaxing and exercising.
+
+
+
+* Recreation 							 :RECREATION:
   :PROPERTIES:
   :ID:       d9d7d0ec-a6b9-4451-ae42-5519eba7be50
   :CATEGORY: Recreation
