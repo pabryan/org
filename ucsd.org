@@ -2812,9 +2812,16 @@ Center 119
        	:ID:       3760b816-c5ad-41b2-8322-f2146383f656
        	:END:
 ****** Lecture 10.2
+       :LOGBOOK:
+       CLOCK: [2013-06-05 Wed 12:47]
+       :END:
 <2013-06-05 Wed 13:00-14:00>
-******* NEXT Prepare lecture
+******* DONE Prepare lecture
        	DEADLINE: <2013-06-05 Wed>
+	:LOGBOOK:
+	CLOCK: [2013-06-05 Wed 11:30]--[2013-06-05 Wed 12:46] =>  1:16
+	:END:
+	- State "DONE"       from "NEXT"       [2013-06-05 Wed 12:46]
        	:PROPERTIES:
        	:ID:       766da1ae-f2df-4d76-a844-40a6310e79c6
        	:END:
