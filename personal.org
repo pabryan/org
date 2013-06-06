@@ -159,7 +159,8 @@ Scan them and email them to commbank. Also make sure netbank access is setup.
 - scan reciepts and enter into ledger/org mode
 
 ** TODO Pay rent
-   SCHEDULED: <2013-06-01 Sat +1m>
+   SCHEDULED: <2013-07-01 Mon +1m>
+   - State "DONE"       from "TODO"       [2013-06-05 Wed 16:30]
    - State "DONE"       from "TODO"       [2013-05-02 Thu 11:54]
    - State "DONE"       from "TODO"       [2013-04-02 Tue 21:33]
    - State "DONE"       from "TODO"       [2013-03-02 Sat 21:11]
@@ -170,11 +171,11 @@ Scan them and email them to commbank. Also make sure netbank access is setup.
    :LOGBOOK:
    CLOCK: [2013-02-01 Fri 14:42]--[2013-02-01 Fri 14:57] =>  0:15
    :END:
-   DEADLINE: <2013-06-05 Wed +1m>
+   DEADLINE: <2013-07-05 Fri +1m>
 
    :PROPERTIES:
    :ID:       ea07bf7b-9f89-49bf-90db-3e167baff163
-   :LAST_REPEAT: [2013-05-02 Thu 11:54]
+   :LAST_REPEAT: [2013-06-05 Wed 16:30]
    :END:
    [2012-10-17 Wed 14:44]
 

@@ -1905,6 +1905,9 @@ CLOCK: [2013-04-08 Mon 15:00]--[2013-04-08 Mon 16:12] =>  0:59
        :LOGBOOK:
        CLOCK: [2013-06-05 Wed 14:50]--[2013-06-05 Wed 16:21] =>  1:31
        :END:
+       :PROPERTIES:
+       :ID:       dfaf491f-cc47-40e4-b5f5-913bbd051a2c
+       :END:
 <2013-06-05 Wed 15:00-16:00>
 ******* DONE Prepare lecture
        	DEADLINE: <2013-06-05 Wed>
@@ -1984,8 +1987,10 @@ CLOCK: [2013-04-08 Mon 15:00]--[2013-04-08 Mon 16:12] =>  0:59
 	:ID:       ba531fe8-7858-425e-96b4-fb298de62a17
 	:END:
 ****** Final
-******* DONE Write Final
-       	DEADLINE: <2013-06-03 Mon>
+******* NEXT Write Final
+	DEADLINE: <2013-06-03 Mon>
+	- State "NEXT"       from "DONE"       [2013-06-05 Wed 17:03] \\
+	  It wasn't done!
 	- State "DONE"       from "NEXT"       [2013-06-04 Tue 19:52]
 	:LOGBOOK:
 	CLOCK: [2013-06-04 Tue 19:42]--[2013-06-04 Tue 19:52] =>  0:10
@@ -2273,8 +2278,6 @@ CLOCK: [2013-04-08 Mon 15:00]--[2013-04-08 Mon 16:12] =>  0:59
       :END:
 [2013-04-05 Fri 16:44]
 **** TODO MATH20D Spring 2013				      :MATH20D:FOCUS:
-     :LOGBOOK:
-     :END:
     :PROPERTIES:
     :ID:       01742e1a-c15f-4aab-ada0-59725c2e73e4
     :END:
@@ -2822,6 +2825,9 @@ Center 119
        :LOGBOOK:
        CLOCK: [2013-06-05 Wed 12:47]--[2013-06-05 Wed 14:10] =>  1:23
        :END:
+       :PROPERTIES:
+       :ID:       fdb1ef4e-114d-4e4d-acf6-13d079ac29bb
+       :END:
 <2013-06-05 Wed 13:00-14:00>
 ******* DONE Prepare lecture
        	DEADLINE: <2013-06-05 Wed>
@@ -2906,12 +2912,17 @@ Center 119
        	:END:
 ******* NEXT Write solutions
 	 DEADLINE: <2013-05-31 Fri>
+	 :LOGBOOK:
+	 CLOCK: [2013-06-05 Wed 16:30]--[2013-06-05 Wed 17:02] =>  0:32
+	 :END:
 	:PROPERTIES:
 	:ID:       8d6848c9-3f65-43b0-8c35-6aa37ca0aae8
 	:END:
 ****** Final
-******* DONE Write Final
-       	DEADLINE: <2013-06-03 Mon>
+******* NEXT Write Final
+	DEADLINE: <2013-06-03 Mon>
+	- State "NEXT"       from "DONE"       [2013-06-05 Wed 17:03] \\
+	  It wasn't done!
 	- State "DONE"       from "NEXT"       [2013-06-04 Tue 20:02]
 	:LOGBOOK:
 	CLOCK: [2013-06-04 Tue 19:52]--[2013-06-04 Tue 20:02] =>  0:10
