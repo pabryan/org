@@ -1498,6 +1498,7 @@ Send exact dates of travel, destination/purpose of trip, and arrangements made f
        :END:
 ****** Office hours
        :LOGBOOK:
+       CLOCK: [2013-06-06 Thu 11:10]--[2013-06-06 Thu 11:42] =>  0:32
        CLOCK: [2013-06-03 Mon 11:18]--[2013-06-03 Mon 12:10] =>  0:52
        CLOCK: [2013-05-31 Fri 11:10]--[2013-05-31 Fri 12:20] =>  1:10
        CLOCK: [2013-05-29 Wed 11:34]--[2013-05-29 Wed 11:37] =>  0:03
@@ -2398,6 +2399,7 @@ Send exact dates of travel, destination/purpose of trip, and arrangements made f
 ****** Admin
 ****** Office hours
        :LOGBOOK:
+       CLOCK: [2013-06-06 Thu 11:42]--[2013-06-06 Thu 13:07] =>  1:25
        CLOCK: [2013-05-24 Fri 10:55]--[2013-05-24 Fri 12:15] =>  1:20
        CLOCK: [2013-05-20 Mon 11:02]--[2013-05-20 Mon 12:29] =>  1:27
        CLOCK: [2013-04-25 Thu 11:01]--[2013-04-25 Thu 12:31] =>  1:00
@@ -3623,6 +3625,8 @@ It should make the relevant web entry and also the email notice. Possibly I coul
 **** TODO GMT Seminar
      - State "DONE"       from "TODO"       [2013-05-02 Thu 11:46]
      :LOGBOOK:
+     CLOCK: [2013-06-06 Thu 09:55]--[2013-06-06 Thu 11:15] =>  1:20
+     CLOCK: [2013-05-30 Thu 09:55]--[2013-05-30 Thu 11:15] =>  1:20
      CLOCK: [2013-05-23 Thu 09:55]--[2013-05-23 Thu 11:15] =>  1:20
      CLOCK: [2013-05-16 Thu 09:56]--[2013-05-16 Thu 11:06] =>  1:19
      CLOCK: [2013-05-02 Thu 09:56]--[2013-05-02 Thu 11:46] =>  1:50
