@@ -1160,7 +1160,7 @@ http://www.raspbian.org/
   :END:
 ** Organisation
   :LOGBOOK:
-  CLOCK: [2013-06-07 Fri 14:34]
+  CLOCK: [2013-06-07 Fri 14:34]--[2013-06-07 Fri 14:44] =>  0:10
   CLOCK: [2013-06-07 Fri 12:40]--[2013-06-07 Fri 12:45] =>  0:05
   CLOCK: [2013-06-06 Thu 11:38]--[2013-06-06 Thu 11:42] =>  0:04
   CLOCK: [2013-06-05 Wed 16:21]--[2013-06-05 Wed 16:30] =>  0:09
@@ -1726,7 +1726,8 @@ For the following, do I just use the existing diary.org capture template or perh
 - [ ] Write down any thoughts, relections on the day.
 
 ** NEXT Daily Plan [0/2]
-   SCHEDULED: <2013-06-07 Fri .+1d/2d>
+   SCHEDULED: <2013-06-08 Sat .+1d/2d>
+   - State "DONE"       from "NEXT"       [2013-06-07 Fri 14:44]
    - State "DONE"       from "NEXT"       [2013-06-06 Thu 17:38]
    - State "DONE"       from "NEXT"       [2013-06-05 Wed 14:35]
    - State "DONE"       from "NEXT"       [2013-06-04 Tue 10:43]
@@ -1835,7 +1836,7 @@ For the following, do I just use the existing diary.org capture template or perh
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
    :ID:       ef051ee0-1113-4604-b355-450a5a47848b
-   :LAST_REPEAT: [2013-06-06 Thu 17:38]
+   :LAST_REPEAT: [2013-06-07 Fri 14:44]
    :END:
 
 - [ ] Check agenda/focus
