@@ -1902,9 +1902,19 @@ CLOCK: [2013-04-08 Mon 15:00]--[2013-04-08 Mon 16:12] =>  0:59
        	:ID:       4dd596b3-9553-4c7d-9f58-c0ac74f3906c
        	:END:
 ****** Lecture 10.2
+       :LOGBOOK:
+       CLOCK: [2013-06-05 Wed 14:50]--[2013-06-05 Wed 16:21] =>  1:31
+       :END:
+       :PROPERTIES:
+       :ID:       dfaf491f-cc47-40e4-b5f5-913bbd051a2c
+       :END:
 <2013-06-05 Wed 15:00-16:00>
-******* NEXT Prepare lecture
+******* DONE Prepare lecture
        	DEADLINE: <2013-06-05 Wed>
+	- State "DONE"       from "NEXT"       [2013-06-05 Wed 14:33]
+	:LOGBOOK:
+	CLOCK: [2013-06-05 Wed 14:10]--[2013-06-05 Wed 14:33] =>  0:23
+	:END:
        	:PROPERTIES:
        	:ID:       8836acd8-5f6f-4413-9c80-59335ab3a52a
        	:END:
@@ -1966,8 +1976,10 @@ CLOCK: [2013-04-08 Mon 15:00]--[2013-04-08 Mon 16:12] =>  0:59
        	:PROPERTIES:
        	:ID:       13ed4a3c-4d9a-4e9a-8524-56bf7bb7c089
        	:END:
-******* NEXT Write solutions
+******* CANCELLED Write solutions
 	 DEADLINE: <2013-05-31 Fri>
+	 - State "CANCELLED"  from "NEXT"       [2013-06-05 Wed 11:55] \\
+	   Gautam Wilkins has posted solutions.
 	 :LOGBOOK:
 	 CLOCK: [2013-05-31 Fri 14:28]--[2013-05-31 Fri 14:50] =>  0:22
 	 :END:
@@ -1976,9 +1988,13 @@ CLOCK: [2013-04-08 Mon 15:00]--[2013-04-08 Mon 16:12] =>  0:59
 	:END:
 ****** Final
 ******* DONE Write Final
-       	DEADLINE: <2013-06-03 Mon>
+	DEADLINE: <2013-06-03 Mon>
+	- State "DONE"       from "NEXT"       [2013-06-06 Thu 17:33]
+	- State "NEXT"       from "DONE"       [2013-06-05 Wed 17:03] \\
+	  It wasn't done!
 	- State "DONE"       from "NEXT"       [2013-06-04 Tue 19:52]
 	:LOGBOOK:
+	CLOCK: [2013-06-06 Thu 16:57]--[2013-06-06 Thu 17:33] =>  0:36
 	CLOCK: [2013-06-04 Tue 19:42]--[2013-06-04 Tue 19:52] =>  0:10
 	CLOCK: [2013-06-04 Tue 10:43]--[2013-06-04 Tue 11:51] =>  1:08
 	CLOCK: [2013-06-02 Sun 14:38]--[2013-06-02 Sun 16:45] =>  2:07
@@ -2264,8 +2280,6 @@ CLOCK: [2013-04-08 Mon 15:00]--[2013-04-08 Mon 16:12] =>  0:59
       :END:
 [2013-04-05 Fri 16:44]
 **** TODO MATH20D Spring 2013				      :MATH20D:FOCUS:
-     :LOGBOOK:
-     :END:
     :PROPERTIES:
     :ID:       01742e1a-c15f-4aab-ada0-59725c2e73e4
     :END:
@@ -2810,9 +2824,19 @@ Center 119
        	:ID:       3760b816-c5ad-41b2-8322-f2146383f656
        	:END:
 ****** Lecture 10.2
+       :LOGBOOK:
+       CLOCK: [2013-06-05 Wed 12:47]--[2013-06-05 Wed 14:10] =>  1:23
+       :END:
+       :PROPERTIES:
+       :ID:       fdb1ef4e-114d-4e4d-acf6-13d079ac29bb
+       :END:
 <2013-06-05 Wed 13:00-14:00>
-******* NEXT Prepare lecture
+******* DONE Prepare lecture
        	DEADLINE: <2013-06-05 Wed>
+	:LOGBOOK:
+	CLOCK: [2013-06-05 Wed 11:30]--[2013-06-05 Wed 12:46] =>  1:16
+	:END:
+	- State "DONE"       from "NEXT"       [2013-06-05 Wed 12:46]
        	:PROPERTIES:
        	:ID:       766da1ae-f2df-4d76-a844-40a6310e79c6
        	:END:
@@ -2890,12 +2914,17 @@ Center 119
        	:END:
 ******* NEXT Write solutions
 	 DEADLINE: <2013-05-31 Fri>
+	 :LOGBOOK:
+	 CLOCK: [2013-06-05 Wed 16:30]--[2013-06-05 Wed 17:02] =>  0:32
+	 :END:
 	:PROPERTIES:
 	:ID:       8d6848c9-3f65-43b0-8c35-6aa37ca0aae8
 	:END:
 ****** Final
-******* DONE Write Final
-       	DEADLINE: <2013-06-03 Mon>
+******* NEXT Write Final
+	DEADLINE: <2013-06-03 Mon>
+	- State "NEXT"       from "DONE"       [2013-06-05 Wed 17:03] \\
+	  It wasn't done!
 	- State "DONE"       from "NEXT"       [2013-06-04 Tue 20:02]
 	:LOGBOOK:
 	CLOCK: [2013-06-04 Tue 19:52]--[2013-06-04 Tue 20:02] =>  0:10
