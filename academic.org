@@ -1731,8 +1731,10 @@ Possible dates: 5/4/13, 12/4/13, 19/4/13
 - Science museum
 - Mountains
  
-**** NEXT Submit reimbursement form
+**** WAITING Submit reimbursement form
      DEADLINE: <2013-06-02 Sun> SCHEDULED: <2013-06-02 Sun>
+     - State "WAITING"    from "NEXT"       [2013-06-06 Thu 21:17] \\
+       Waiting on confirmation.
      :PROPERTIES:
      :ID:       248f2b18-15c7-410a-bafc-67eef8548f4c
      :END:
