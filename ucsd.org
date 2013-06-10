@@ -2282,7 +2282,11 @@ CLOCK: [2013-04-08 Mon 15:00]--[2013-04-08 Mon 16:12] =>  0:59
       :ID:       85507982-8c3a-4774-ba05-d59bc2147301
       :END:
 [2013-04-05 Fri 16:44]
-****** NEXT Write solutions
+****** DONE Write solutions
+       - State "DONE"       from "NEXT"       [2013-06-10 Mon 11:32]
+       :LOGBOOK:
+       CLOCK: [2013-06-10 Mon 11:19]--[2013-06-10 Mon 11:32] =>  0:13
+       :END:
 **** TODO MATH20D Spring 2013				      :MATH20D:FOCUS:
      :LOGBOOK:
      CLOCK: [2013-06-10 Mon 09:53]--[2013-06-10 Mon 09:54] =>  0:01
@@ -3192,13 +3196,20 @@ Center 119
        	:END:
 ******* Questions
 
-****** NEXT Put quiz problems on Website
+****** DONE Put quiz problems on Website
+       - State "DONE"       from "NEXT"       [2013-06-10 Mon 12:27]
   :LOGBOOK:
   :END:
       :PROPERTIES:
       :ID:       f4f14009-c8c5-4a07-8999-c5e83e2da9ff
       :END:
 [2013-04-05 Fri 16:44]
+****** DONE Write solutions
+       - State "DONE"       from "NEXT"       [2013-06-10 Mon 13:09]
+       :LOGBOOK:
+       CLOCK: [2013-06-10 Mon 12:27]--[2013-06-10 Mon 13:09] =>  0:42
+       :END:
+
 
 *** Summer 2013
 **** TODO MATH142B
