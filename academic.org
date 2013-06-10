@@ -108,6 +108,11 @@ Geisel Library room 274
 [MR2993752 Colding, Tobias H.\ and Minicozzi, William P., II,  Generic mean curvature flow I: generic singularities, Ann. of Math. (2) 175 (2012), no. 2, 755--833]
 [[file:refs.org::#MR2993752][Generic mean curvature flow {I}: generic singularities]]
 
+*** TODO Review MR3018176
+    :PROPERTIES:
+    :ID:       95d48b79-3e1a-4b46-852d-f74e6618e6b2
+    :END:
+[[file:refs.org::#MR3018176][A gap theorem for self-shrinkers of the mean curvature flow in arbitrary codimension]]
 ** CEJM
 *** Editing Manager
     :PROPERTIES:
@@ -1702,7 +1707,7 @@ Possible dates: 5/4/13, 12/4/13, 19/4/13
      :ID:       20aa00bb-2b18-45cc-9efb-a6587e7fa36c
      :END:
 - Maybe just one slide giving defn, viscosity equation and Hessian at minima?
-*** TODO Tasks
+*** Tasks
     :PROPERTIES:
     :ID:       f678222d-0354-41c9-8cc9-c88dca580a97
     :END:
@@ -1920,3 +1925,15 @@ Teaching as research
 College classroom
 Scholarship of learning
 Math education
+** Online courses
+*** TODO Check out online texts
+  :LOGBOOK:
+  :END:
+  :PROPERTIES:
+  :ID:       a8e6ce1b-4e88-4ae7-98ee-787932551070
+  :END:
+[2013-05-05 Sun 17:15]
+http://linear.ups.edu/html/fcla.html
+Sage cell server
+[[https://github.com/sagemath/sagecell]]
+[[http://aleph.sagemath.org/static/about.html]]

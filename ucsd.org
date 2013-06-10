@@ -87,6 +87,39 @@ X	Pending charge of academic dishonesty (available only within the eGrades tool)
 Blank	Grade not reported by instructor
 
 ** Courses
+*** Course setup
+**** TODO Course org setup
+**** TODO Figure out how to export course site from course org
+  :LOGBOOK:
+  CLOCK: [2013-04-12 Fri 11:11]--[2013-04-12 Fri 11:13] =>  0:02
+  :END:
+  :PROPERTIES:
+  :ID:       8a1f5a17-491b-48ea-856d-4809e0ff964b
+  :END:
+[2013-04-12 Fri 11:11]
+
+I want to put the details of the course in to org - probably using property drawers, along with timestamped items and export all that to html/pdf. This would be instead of making a seperate org course website.
+
+**** NEXT Use properties for lecture plan
+  :LOGBOOK:
+  CLOCK: [2013-03-30 Sat 20:18]--[2013-03-30 Sat 20:21] =>  0:03
+  CLOCK: [2013-03-30 Sat 20:16]--[2013-03-30 Sat 20:18] =>  0:02
+  :END:
+    :PROPERTIES:
+    :ID:       dfb544ee-1d01-4f23-9f0d-cd65d7c99211
+    :END:
+[2013-03-30 Sat 20:16]
+
+- Use [[http://orgmode.org/manual/Column-view.html#Column-view][column view]] to edit the properties - subject etc.
+- Use [[http://orgmode.org/manual/Capturing-column-view.html][Capturing column view]] to capture in [[http://orgmode.org/manual/Dynamic-blocks.html#Dynamic-blocks][Dynamic blocks]] for export
+- Need to figure out how to export to a 3 column table with column numbers
+*** TODO Export courses to PDF and print
+  :LOGBOOK:
+  :END:
+  :PROPERTIES:
+  :ID:       7b4c1677-ee55-47b9-91c7-7f5b188957f0
+  :END:
+[2013-04-27 Sat 14:17]
 *** Template
 **** Notes
 **** Tasks
@@ -3288,20 +3321,8 @@ I was emailed by the iClicker people about a large class I'm teaching. How do th
   :END:
 [2013-03-20 Wed 11:45]
 
-*** NEXT Use properties for lecture plan
-  :LOGBOOK:
-  CLOCK: [2013-03-30 Sat 20:18]--[2013-03-30 Sat 20:21] =>  0:03
-  CLOCK: [2013-03-30 Sat 20:16]--[2013-03-30 Sat 20:18] =>  0:02
-  :END:
-    :PROPERTIES:
-    :ID:       dfb544ee-1d01-4f23-9f0d-cd65d7c99211
-    :END:
-[2013-03-30 Sat 20:16]
-
-- Use [[http://orgmode.org/manual/Column-view.html#Column-view][column view]] to edit the properties - subject etc.
-- Use [[http://orgmode.org/manual/Capturing-column-view.html][Capturing column view]] to capture in [[http://orgmode.org/manual/Dynamic-blocks.html#Dynamic-blocks][Dynamic blocks]] for export
-- Need to figure out how to export to a 3 column table with column numbers
-*** TODO Sign summer teaching form
+*** DONE Sign summer teaching form
+    - State "DONE"       from "TODO"       [2013-06-10 Mon 14:28]
   :LOGBOOK:
   :END:
     :PROPERTIES:
@@ -3309,7 +3330,8 @@ I was emailed by the iClicker people about a large class I'm teaching. How do th
     :END:
 [2013-04-02 Tue 21:14]
 
-*** TODO Check textbooks for teaching DG
+*** DONE Check textbooks for teaching DG
+    - State "DONE"       from "TODO"       [2013-06-10 Mon 14:28]
   :LOGBOOK:
   :END:
   :PROPERTIES:

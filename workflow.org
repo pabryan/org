@@ -1154,6 +1154,15 @@ http://www.nought.de/tex2im.php
 ** Raspberry Pi
 http://www.raspberrypi.org/
 http://www.raspbian.org/
+** TODO Move common .ssh config to sepereate directory
+  :LOGBOOK:
+  CLOCK: [2013-04-23 Tue 08:55]--[2013-04-23 Tue 08:56] =>  0:01
+  :END:
+  :PROPERTIES:
+  :ID:       46aead9b-1872-45b9-956e-974763730beb
+  :END:
+[2013-04-23 Tue 08:55]
+Put my common setup in it's own config and include from the .sss/config file. This way I can have a local version on math131 that operates whether or not the Dropbox folder is accessible.
 * Tasks
   :PROPERTIES:
   :ID:       4257fe31-e606-4ca9-a848-858379409679
