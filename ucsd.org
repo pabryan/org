@@ -3634,7 +3634,8 @@ It should make the relevant web entry and also the email notice. Possibly I coul
     :END:
 
 ** UCSD Informal Seminars
-**** TODO GMT Seminar
+**** DONE GMT Seminar
+     - State "DONE"       from "TODO"       [2013-06-10 Mon 09:29]
      - State "DONE"       from "TODO"       [2013-05-02 Thu 11:46]
      :LOGBOOK:
      CLOCK: [2013-06-06 Thu 09:55]--[2013-06-06 Thu 11:15] =>  1:20
@@ -3650,9 +3651,9 @@ It should make the relevant web entry and also the email notice. Possibly I coul
      :ID:       4b241f45-ab31-446c-9479-9983ce98ce2a
      :LAST_REPEAT: [2013-05-02 Thu 11:46]
      :END:
-<2013-04-11 Thu 10:00-11:00 +1w>
 ***** Tasks
-****** TODO Prepare for GMT Seminars
+****** DONE Prepare for GMT Seminars
+       - State "DONE"       from "TODO"       [2013-06-10 Mon 09:29]
        :LOGBOOK:
        :END:
        :PROPERTIES:
@@ -3671,7 +3672,8 @@ It should make the relevant web entry and also the email notice. Possibly I coul
        :PROPERTIES:
        :ID:       74137f5c-b65b-4bd2-a4a4-8083ea077c57
        :END:
-******* NEXT Choose book
+******* DONE Choose book
+	- State "DONE"       from "NEXT"       [2013-06-10 Mon 09:29]
 	:PROPERTIES:
 	:ID:       f2f96ca2-63dd-4c83-b489-ea39f2809945
 	:END:
@@ -3680,7 +3682,8 @@ It should make the relevant web entry and also the email notice. Possibly I coul
 	:PROPERTIES:
 	:ID:       0f9a1ca7-7194-47a5-ae3e-15200259aa12
 	:END:
-******* TODO Choose speaker for talk 04
+******* DONE Choose speaker for talk 04
+	- State "DONE"       from "TODO"       [2013-06-10 Mon 09:29]
 	:PROPERTIES:
 	:ID:       0f9a1ca7-7194-47a5-ae3e-15200259aa12
 	:END:
