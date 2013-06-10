@@ -2918,9 +2918,11 @@ Center 119
        	:PROPERTIES:
        	:ID:       2f9b9e2c-61c2-412d-ad1f-e59cc3583371
        	:END:
-******* NEXT Write solutions
+******* DONE Write solutions
 	 DEADLINE: <2013-05-31 Fri>
+	 - State "DONE"       from "NEXT"       [2013-06-09 Sun 20:41]
 	 :LOGBOOK:
+	 CLOCK: [2013-06-09 Sun 19:25]--[2013-06-09 Sun 20:41] =>  1:16
 	 CLOCK: [2013-06-07 Fri 10:18]--[2013-06-07 Fri 10:43] =>  0:25
 	 CLOCK: [2013-06-05 Wed 16:30]--[2013-06-05 Wed 17:02] =>  0:32
 	 :END:
