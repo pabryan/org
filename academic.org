@@ -67,7 +67,7 @@ Geisel Library room 274
   :CATEGORY: Journals
   :END:
 [[file:~/working/academic/journals][journals directory]]
-** Mathscinet
+** MathSciNet
 *** DONE Review [[http://www.ams.org/mresubs/download/3559e451969b72ee8/2921651.pdf][paper]]
     - State "DONE"       from "NEXT"       [2012-11-03 Sat 11:02]
     locally it's here [[docview:~/research_resources/papers/MR2921651.pdf::1][MR2921651]]
@@ -109,6 +109,7 @@ Geisel Library room 274
 [[file:refs.org::#MR2993752][Generic mean curvature flow {I}: generic singularities]]
 
 *** TODO Review MR3018176
+    DEADLINE: <2013-07-12 Fri>
     :PROPERTIES:
     :ID:       95d48b79-3e1a-4b46-852d-f74e6618e6b2
     :END:
@@ -200,8 +201,11 @@ The result for curves on spheres, though interesting, is probably not suitable f
 
 In another direction, suppose you have a family of surfaces in $\RR^3$ flowing by mean curvature flow (or some other geometric flow) and take a family of curves lying on the surface. These evolve along with the family of surfaces. Can you add a part tangential to the surface, but normal to the curve to obtain any useful geometric flow? Can you conclude anything useful about curve flows on surfaces from this point of view? Or, can you conclude anything useful about mean curvature flow of surfaces using the curve flow? What happens in higher dimensions?
 
-*** TODO Referee An application of dual convex bodies to the inverse Gauss curvature flow
+*** NEXT Referee An application of dual convex bodies to the inverse Gauss curvature flow
     DEADLINE: <2013-07-09 Tue>
+    :LOGBOOK:
+    CLOCK: [2013-06-10 Mon 14:31]
+    :END:
     :PROPERTIES:
     :ID:       6d3de37a-1d47-49e2-9819-a8166e84e3de
     :END:
