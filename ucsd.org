@@ -2025,6 +2025,7 @@ CLOCK: [2013-04-08 Mon 15:00]--[2013-04-08 Mon 16:12] =>  0:59
 	:ID:       ba531fe8-7858-425e-96b4-fb298de62a17
 	:END:
 ****** Final
+<2013-06-12 Wed 15:00-18:00>
 ******* DONE Write Final
 	DEADLINE: <2013-06-03 Mon>
 	- State "DONE"       from "NEXT"       [2013-06-06 Thu 17:33]
@@ -2977,6 +2978,7 @@ Center 119
 	:ID:       8d6848c9-3f65-43b0-8c35-6aa37ca0aae8
 	:END:
 ****** Final
+<2013-06-13 Thu 11:30-14:30>
 ******* DONE Write Final
 	DEADLINE: <2013-06-03 Mon>
 	- State "DONE"       from "NEXT"       [2013-06-09 Sun 16:04]
