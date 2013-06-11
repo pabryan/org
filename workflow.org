@@ -1154,6 +1154,15 @@ http://www.nought.de/tex2im.php
 ** Raspberry Pi
 http://www.raspberrypi.org/
 http://www.raspbian.org/
+** TODO Move common .ssh config to sepereate directory
+  :LOGBOOK:
+  CLOCK: [2013-04-23 Tue 08:55]--[2013-04-23 Tue 08:56] =>  0:01
+  :END:
+  :PROPERTIES:
+  :ID:       46aead9b-1872-45b9-956e-974763730beb
+  :END:
+[2013-04-23 Tue 08:55]
+Put my common setup in it's own config and include from the .sss/config file. This way I can have a local version on math131 that operates whether or not the Dropbox folder is accessible.
 * Tasks
   :PROPERTIES:
   :ID:       4257fe31-e606-4ca9-a848-858379409679
@@ -1161,6 +1170,13 @@ http://www.raspbian.org/
 ** Organisation
   :LOGBOOK:
   CLOCK: [2013-06-11 Tue 10:26]
+  CLOCK: [2013-06-11 Tue 08:14]--[2013-06-11 Tue 08:25] =>  0:11
+  CLOCK: [2013-06-10 Mon 13:59]--[2013-06-10 Mon 14:31] =>  0:32
+  CLOCK: [2013-06-10 Mon 13:09]--[2013-06-10 Mon 13:45] =>  0:36
+  CLOCK: [2013-06-10 Mon 09:30]--[2013-06-10 Mon 09:31] =>  0:01
+  CLOCK: [2013-06-10 Mon 09:27]--[2013-06-10 Mon 09:28] =>  0:01
+  CLOCK: [2013-06-09 Sun 16:04]--[2013-06-09 Sun 16:19] =>  0:15
+  CLOCK: [2013-06-09 Sun 15:37]--[2013-06-09 Sun 15:42] =>  0:05
   CLOCK: [2013-06-07 Fri 14:34]--[2013-06-07 Fri 14:44] =>  0:10
   CLOCK: [2013-06-07 Fri 12:40]--[2013-06-07 Fri 12:45] =>  0:05
   CLOCK: [2013-06-06 Thu 11:38]--[2013-06-06 Thu 11:42] =>  0:04
@@ -1664,7 +1680,8 @@ Check how I did last month. I guess the review and plan could probably go togeth
 
 
 ** NEXT Daily Review [0/3]
-   SCHEDULED: <2013-06-07 Fri .+1d/2d>
+   SCHEDULED: <2013-06-09 Sun .+1d/2d>
+   - State "DONE"       from "NEXT"       [2013-06-08 Sat 17:45]
    - State "DONE"       from "NEXT"       [2013-06-06 Thu 17:38]
    - State "DONE"       from "NEXT"       [2013-06-04 Tue 20:33]
    - State "DONE"       from "NEXT"       [2013-06-03 Mon 20:38]
@@ -1727,7 +1744,9 @@ For the following, do I just use the existing diary.org capture template or perh
 - [ ] Write down any thoughts, relections on the day.
 
 ** NEXT Daily Plan [0/2]
-   SCHEDULED: <2013-06-08 Sat .+1d/2d>
+   SCHEDULED: <2013-06-11 Tue .+1d/2d>
+   - State "DONE"       from "NEXT"       [2013-06-10 Mon 09:30]
+   - State "DONE"       from "NEXT"       [2013-06-09 Sun 15:38]
    - State "DONE"       from "NEXT"       [2013-06-07 Fri 14:44]
    - State "DONE"       from "NEXT"       [2013-06-06 Thu 17:38]
    - State "DONE"       from "NEXT"       [2013-06-05 Wed 14:35]
@@ -1793,6 +1812,7 @@ For the following, do I just use the existing diary.org capture template or perh
    - State "DONE"       from "NEXT"       [2013-01-10 Thu 09:22]
    - State "DONE"       from "NEXT"       [2013-01-09 Wed 07:19]
    :LOGBOOK:
+   CLOCK: [2013-06-10 Mon 09:28]--[2013-06-10 Mon 09:30] =>  0:02
    CLOCK: [2013-06-04 Tue 10:41]--[2013-06-04 Tue 10:43] =>  0:02
    CLOCK: [2013-05-17 Fri 09:17]--[2013-05-17 Fri 09:20] =>  0:03
    CLOCK: [2013-05-07 Tue 10:16]--[2013-05-07 Tue 10:18] =>  0:02
@@ -1837,7 +1857,7 @@ For the following, do I just use the existing diary.org capture template or perh
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
    :ID:       ef051ee0-1113-4604-b355-450a5a47848b
-   :LAST_REPEAT: [2013-06-07 Fri 14:44]
+   :LAST_REPEAT: [2013-06-10 Mon 09:30]
    :END:
 
 - [ ] Check agenda/focus
@@ -2001,112 +2021,7 @@ What to review:
 ** 6 monthly?
 ** yearly
 ** 5 years?
-* Schedule						   :SCHEDULE:SOMEDAY:
+* Schedule							   :SCHEDULE:
   :PROPERTIES:
   :ID:       1e2a3bac-b557-42d8-9f22-0741dfb5fa70
   :END:
-** Monday
-*** Intuflow
-    :PROPERTIES:
-    :ID:       7a307427-cb9e-406a-aa8b-7667319f416a
-    :END:
-<2013-04-22 Mon 08:00-11:00 +1w>
-*** Work
-    :PROPERTIES:
-    :ID:       323d0b79-7153-41d5-9653-5f3d0b339476
-    :END:
-<2013-04-22 Mon 08:00-11:00 +1w>
-*** Beach
-    :PROPERTIES:
-    :ID:       14a32c97-df88-435a-837b-4e84c7e0c8d0
-    :END:
-    <2013-04-22 Mon 08:00-11:00 +1w>
-*** Office hours
-    :PROPERTIES:
-    :ID:       c635f58c-0220-4fa3-a21c-585202e3394b
-    :END:
-    <2013-04-22 Mon 11:00-12:00 +1w>
-*** Lunch
-    :PROPERTIES:
-    :ID:       9cfb5919-df80-4f5c-b9e2-9421becb360a
-    :END:
-    <2013-04-22 Mon 12:00-13:00 +1w>
-
-** Tuesday
-*** Lunch
-    :PROPERTIES:
-    :ID:       369d0205-1512-43e9-abb1-e86a5e00adad
-    :END:
-    <2013-04-23 Tue 12:00-13:00 +1w>
-** Wednesday
-*** Intuflow
-    :PROPERTIES:
-    :ID:       d8eb42f5-e083-4f86-97e7-a8bda3e6594e
-    :END:
-<2013-04-24 Wed 08:00-10:30 +1w>
-*** Work
-    :PROPERTIES:
-    :ID:       92294df3-f682-41c9-9301-8fa1fce5ba2e
-    :END:
-    <2013-04-24 Wed 08:00-11:00 +1w>
-*** Beach
-    :PROPERTIES:
-    :ID:       b6a1e436-573b-4fa6-8c11-5f448afa03dd
-    :END:
-<2013-04-24 Wed 08:00-10:30 +1w>
-
-*** Office hours
-    :PROPERTIES:
-    :ID:       777dc533-bfda-4786-a9bd-87671946f648
-    :END:
-    <2013-04-24 Wed 11:00-12:00 +1w>
-*** Lunch
-    :PROPERTIES:
-    :ID:       7d49ba1a-df6f-43e7-9626-a8149d40ec60
-    :END:
-    <2013-04-24 Wed 12:00-13:00 +1w>
-** Thursday
-*** Lunch
-    :PROPERTIES:
-    :ID:       27d05434-4ed5-4d3d-8155-c05c17ecfb62
-    :END:
-    <2013-04-25 Thu 12:00-13:00 +1w>
-** Friday
-*** Intuflow
-    :PROPERTIES:
-    :ID:       6a1b3080-ce11-4e75-841f-f2f667de3876
-    :END:
-<2013-04-26 Fri 08:00-10:30 +1w>
-*** Work
-    :PROPERTIES:
-    :ID:       6b7f8ba3-91e0-4875-8714-5e923d6e5981
-    :END:
-<2013-04-26 Fri 08:00-11:00 +1w>
-*** Beach
-    :PROPERTIES:
-    :ID:       655132d8-f252-4e07-b00f-0d200097490c
-    :END:
-<2013-04-26 Fri 08:00-10:30 +1w>
-
-*** Office hours
-    :PROPERTIES:
-    :ID:       32f77670-e531-4f90-9f9f-1ea092156a64
-    :END:
-    <2013-04-26 Fri 11:00-12:00 +1w>
-*** Lunch
-    :PROPERTIES:
-    :ID:       ac7ff0e4-3a66-4b93-8b62-f678a895a11b
-    :END:
-    <2013-04-26 Fri 12:00-13:00 +1w>
-** Saturday
-*** Lunch
-    :PROPERTIES:
-    :ID:       2bdc676f-0fa8-41fe-b712-70158f884f61
-    :END:
-    <2013-04-27 Sat 12:00-13:00 +1w>
-** Sunday
-*** Lunch
-    :PROPERTIES:
-    :ID:       45e0ede8-9239-4845-95f9-034d561d3aa8
-    :END:
-    <2013-04-28 Sun 12:00-13:00 +1w>

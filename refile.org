@@ -1,29 +1,4 @@
 #+FILETAGS: REFILE
-* TODO Figure out how to export course site from course org
-  :LOGBOOK:
-  CLOCK: [2013-04-12 Fri 11:11]--[2013-04-12 Fri 11:13] =>  0:02
-  :END:
-  :PROPERTIES:
-  :ID:       8a1f5a17-491b-48ea-856d-4809e0ff964b
-  :END:
-[2013-04-12 Fri 11:11]
-
-I want to put the details of the course in to org - probably using property drawers, along with timestamped items and export all that to html/pdf. This would be instead of making a seperate org course website.
-* TODO Some todo's
-  :PROPERTIES:
-  :ID:       1bfd9bd5-240b-4d2c-b9e5-44dd3e0f8395
-  :END:
-[2013-04-27 Sat 20:22]
-- Type GMT Seminar Notes
-- Type Ricci Iso
-- Type Fluid mechanics
-- Type CSF networks
-- Type MCF book
-- Type Submanifolds book
-- Type Isoperimetric surfaces
-- Research MCF isoperimetric comparison (for convex guys maybe there's a comparison)
-- DG course written in Sage
-- Course blogging/social media/twitter
 * TODO Do some planning
   :LOGBOOK:
   CLOCK: [2013-04-20 Sat 09:09]--[2013-04-20 Sat 09:13] =>  0:04
@@ -32,26 +7,6 @@ I want to put the details of the course in to org - probably using property draw
   :ID:       1bda762d-3e4d-4809-968f-73b905fe7352
   :END:
 [2013-04-20 Sat 09:09]
-
-- Exercise
-  - Set up schedule
-  - Print out diary
-  - Set up timer's
-
-- Daily Schedule
-  - 06:30 - 07:30 Remy
-  - 08:00 - 09:30 Work
-  - 09:30 - 10:30 Exercise
-  - 10:30 - 11:30 Work
-  - 11:30 - 12:15 Lunch
-  - 12:30 - 13:00 Travel to work
-  - 13:00 - 16:00 Teach
-  - 16:00 - 16:30 Home
-  - 16:30 - 17:30 Rest
-  - 17:30 - 19:00 Dinner
-  - 19:00 - 18:30 Work (teaching prep?)
-
-- Weekly plan : Sunday!
 
 - Farming research - start a project!
 
@@ -65,30 +20,3 @@ I want to put the details of the course in to org - probably using property draw
 - Wildlife shelter (for Kate) - start a project!
  
 
-* TODO Move common .ssh config to sepereate directory
-  :LOGBOOK:
-  CLOCK: [2013-04-23 Tue 08:55]--[2013-04-23 Tue 08:56] =>  0:01
-  :END:
-  :PROPERTIES:
-  :ID:       46aead9b-1872-45b9-956e-974763730beb
-  :END:
-[2013-04-23 Tue 08:55]
-Put my common setup in it's own config and include from the .sss/config file. This way I can have a local version on math131 that operates whether or not the Dropbox folder is accessible.
-* TODO Export courses to PDF and print
-  :LOGBOOK:
-  :END:
-  :PROPERTIES:
-  :ID:       7b4c1677-ee55-47b9-91c7-7f5b188957f0
-  :END:
-[2013-04-27 Sat 14:17]
-* TODO Check out online texts
-  :LOGBOOK:
-  :END:
-  :PROPERTIES:
-  :ID:       a8e6ce1b-4e88-4ae7-98ee-787932551070
-  :END:
-[2013-05-05 Sun 17:15]
-http://linear.ups.edu/html/fcla.html
-Sage cell server
-[[https://github.com/sagemath/sagecell]]
-[[http://aleph.sagemath.org/static/about.html]]

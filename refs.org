@@ -116,6 +116,13 @@
 :END:
 [[papers:MR845704][MR845704-paper]]
 [[bib:MR845704][MR845704-bib]]
+**** 53A07   (1980-now) Higher-dimensional and -codimensional surfaces in Euclidean n-space
+***** Deforming a hypersurface by its {G}auss-{K}ronecker curvature
+:PROPERTIES:
+:Custom_ID: MR812353
+:END:
+[[papers:MR812353][MR812353-paper]]
+[[bib:MR812353][MR812353-bib]]
 *** 53C (1973-now) Global differential geometry [See also 51H25, 58-XX; for related bundle theory, see 55Rxx, 57Rxx]
 **** 53CXX
 ***** Existence of isoperimetric regions in contact sub-{R}iemannian manifolds
@@ -309,6 +316,12 @@
 :END:
 [[papers:MR2648942][MR2648942-paper]]
 [[bib:MR2648942][MR2648942-bib]]
+***** A gap theorem for self-shrinkers of the mean curvature flow in arbitrary codimension
+:PROPERTIES:
+:Custom_ID: MR3018176
+:END:
+[[papers:MR3018176][MR3018176-paper]]
+[[bib:MR3018176][MR3018176-bib]]
 *** 53.04   (1959-1972) Minimal surfaces
 **** Minimal varieties in riemannian manifolds
 :PROPERTIES:
@@ -459,7 +472,6 @@ Here I need to do some more work since $u \mapsto g(\grad u, \grad u)$ is not a 
 :Custom_ID: MR2170766
 :END:
 [[papers:MR2170766][MR2170766-paper]]
-
 
 
 

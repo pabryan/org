@@ -87,6 +87,42 @@ X	Pending charge of academic dishonesty (available only within the eGrades tool)
 Blank	Grade not reported by instructor
 
 ** Courses
+*** Course setup
+**** TODO Course org setup
+     :PROPERTIES:
+     :ID:       2470fdb2-0910-4cde-bc39-57398dd8e5f7
+     :END:
+***** TODO Figure out how to export course site from course org
+  :LOGBOOK:
+  CLOCK: [2013-04-12 Fri 11:11]--[2013-04-12 Fri 11:13] =>  0:02
+  :END:
+  :PROPERTIES:
+  :ID:       8a1f5a17-491b-48ea-856d-4809e0ff964b
+  :END:
+[2013-04-12 Fri 11:11]
+
+I want to put the details of the course in to org - probably using property drawers, along with timestamped items and export all that to html/pdf. This would be instead of making a seperate org course website.
+
+***** NEXT Use properties for lecture plan
+  :LOGBOOK:
+  CLOCK: [2013-03-30 Sat 20:18]--[2013-03-30 Sat 20:21] =>  0:03
+  CLOCK: [2013-03-30 Sat 20:16]--[2013-03-30 Sat 20:18] =>  0:02
+  :END:
+    :PROPERTIES:
+    :ID:       dfb544ee-1d01-4f23-9f0d-cd65d7c99211
+    :END:
+[2013-03-30 Sat 20:16]
+
+- Use [[http://orgmode.org/manual/Column-view.html#Column-view][column view]] to edit the properties - subject etc.
+- Use [[http://orgmode.org/manual/Capturing-column-view.html][Capturing column view]] to capture in [[http://orgmode.org/manual/Dynamic-blocks.html#Dynamic-blocks][Dynamic blocks]] for export
+- Need to figure out how to export to a 3 column table with column numbers
+***** TODO Export courses to PDF and print
+  :LOGBOOK:
+  :END:
+  :PROPERTIES:
+  :ID:       7b4c1677-ee55-47b9-91c7-7f5b188957f0
+  :END:
+[2013-04-27 Sat 14:17]
 *** Template
 **** Notes
 **** Tasks
@@ -1353,7 +1389,7 @@ Put final exam conditions - 2 pages notes allowed.
 ****** MATH142B Lecturing
 
 *** Spring 2013
-**** TODO MATH20C Spring 2013				      :MATH20C:FOCUS:
+**** TODO MATH20C Spring 2013					    :MATH20C:
      :LOGBOOK:
      CLOCK: [2013-06-07 Fri 16:12]--[2013-06-11 Tue 10:26] => 90:14
      :END:
@@ -1927,7 +1963,7 @@ CLOCK: [2013-04-08 Mon 15:00]--[2013-04-08 Mon 16:12] =>  0:59
 <2013-06-07 Fri 15:00-16:00>
 ******* DONE Prepare lecture
        	DEADLINE: <2013-06-07 Fri>
-	- State "DONE"       from "NEXT"       [2013-06-07 Fri 14:44]
+	- State "DONE"       from "NEXT"       [2013-06-07 Fri 14:37]
        	:PROPERTIES:
        	:ID:       965091b8-c67d-406e-b6a9-ea484f242592
        	:END:
@@ -1993,6 +2029,7 @@ CLOCK: [2013-04-08 Mon 15:00]--[2013-04-08 Mon 16:12] =>  0:59
 	:ID:       ba531fe8-7858-425e-96b4-fb298de62a17
 	:END:
 ****** Final
+<2013-06-12 Wed 15:00-18:00>
 ******* DONE Write Final
 	DEADLINE: <2013-06-03 Mon>
 	- State "DONE"       from "NEXT"       [2013-06-06 Thu 17:33]
@@ -2278,16 +2315,20 @@ CLOCK: [2013-04-08 Mon 15:00]--[2013-04-08 Mon 16:12] =>  0:59
   :ID:       75780c3b-a0b4-4657-a13b-ccccf5829c62
   :END:
 [2013-04-04 Thu 15:12]
-****** NEXT Put quiz problems on Website
+****** DONE Put quiz problems on Website
+       - State "DONE"       from "NEXT"       [2013-06-10 Mon 11:19]
   :LOGBOOK:
   :END:
       :PROPERTIES:
       :ID:       85507982-8c3a-4774-ba05-d59bc2147301
       :END:
 [2013-04-05 Fri 16:44]
-**** TODO MATH20D Spring 2013				      :MATH20D:FOCUS:
-     :LOGBOOK:
-     :END:
+****** DONE Write solutions
+       - State "DONE"       from "NEXT"       [2013-06-10 Mon 11:32]
+       :LOGBOOK:
+       CLOCK: [2013-06-10 Mon 11:19]--[2013-06-10 Mon 11:32] =>  0:13
+       :END:
+**** TODO MATH20D Spring 2013					    :MATH20D:
     :PROPERTIES:
     :ID:       01742e1a-c15f-4aab-ada0-59725c2e73e4
     :END:
@@ -2856,7 +2897,7 @@ Center 119
 <2013-06-07 Fri 13:00-14:00>
 ******* DONE Prepare lecture
        	DEADLINE: <2013-06-07 Fri>
-	- State "DONE"       from "NEXT"       [2013-06-07 Fri 14:44]
+	- State "DONE"       from "NEXT"       [2013-06-07 Fri 12:37]
        	:PROPERTIES:
        	:ID:       7910c8fb-5ac7-47cc-a653-99046f467819
        	:END:
@@ -2925,22 +2966,31 @@ Center 119
        	:PROPERTIES:
        	:ID:       2f9b9e2c-61c2-412d-ad1f-e59cc3583371
        	:END:
-******* NEXT Write solutions
-	 DEADLINE: <2013-05-31 Fri>
-	 :LOGBOOK:
-	 CLOCK: [2013-06-07 Fri 10:18]--[2013-06-07 Fri 10:48] =>  0:30
-	 CLOCK: [2013-06-05 Wed 16:30]--[2013-06-05 Wed 17:02] =>  0:32
-	 :END:
+******* DONE Write solutions
+	DEADLINE: <2013-05-31 Fri>
+	- State "DONE"       from "NEXT"       [2013-06-10 Mon 09:53]
+	- State "NEXT"       from "DONE"       [2013-06-10 Mon 09:31] \\
+	  Need to fix one solution.
+	- State "DONE"       from "NEXT"       [2013-06-09 Sun 20:41]
+	:LOGBOOK:
+	CLOCK: [2013-06-10 Mon 09:31]--[2013-06-10 Mon 09:53] =>  0:22
+	CLOCK: [2013-06-09 Sun 19:25]--[2013-06-09 Sun 20:41] =>  1:16
+	CLOCK: [2013-06-07 Fri 10:18]--[2013-06-07 Fri 10:43] =>  0:25
+	CLOCK: [2013-06-05 Wed 16:30]--[2013-06-05 Wed 17:02] =>  0:32
+	:END:
 	:PROPERTIES:
 	:ID:       8d6848c9-3f65-43b0-8c35-6aa37ca0aae8
 	:END:
 ****** Final
-******* NEXT Write Final
+<2013-06-13 Thu 11:30-14:30>
+******* DONE Write Final
 	DEADLINE: <2013-06-03 Mon>
+	- State "DONE"       from "NEXT"       [2013-06-09 Sun 16:04]
 	- State "NEXT"       from "DONE"       [2013-06-05 Wed 17:03] \\
 	  It wasn't done!
 	- State "DONE"       from "NEXT"       [2013-06-04 Tue 20:02]
 	:LOGBOOK:
+	CLOCK: [2013-06-09 Sun 15:42]--[2013-06-09 Sun 16:04] =>  0:22
 	CLOCK: [2013-06-04 Tue 19:52]--[2013-06-04 Tue 20:02] =>  0:10
 	CLOCK: [2013-06-04 Tue 14:40]--[2013-06-04 Tue 14:54] =>  0:14
 	CLOCK: [2013-06-04 Tue 13:18]--[2013-06-04 Tue 14:11] =>  0:53
@@ -3188,13 +3238,20 @@ Center 119
        	:END:
 ******* Questions
 
-****** NEXT Put quiz problems on Website
+****** DONE Put quiz problems on Website
+       - State "DONE"       from "NEXT"       [2013-06-10 Mon 12:27]
   :LOGBOOK:
   :END:
       :PROPERTIES:
       :ID:       f4f14009-c8c5-4a07-8999-c5e83e2da9ff
       :END:
 [2013-04-05 Fri 16:44]
+****** DONE Write solutions
+       - State "DONE"       from "NEXT"       [2013-06-10 Mon 13:09]
+       :LOGBOOK:
+       CLOCK: [2013-06-10 Mon 12:27]--[2013-06-10 Mon 13:09] =>  0:42
+       :END:
+
 
 *** Summer 2013
 **** TODO MATH142B
@@ -3273,20 +3330,8 @@ I was emailed by the iClicker people about a large class I'm teaching. How do th
   :END:
 [2013-03-20 Wed 11:45]
 
-*** NEXT Use properties for lecture plan
-  :LOGBOOK:
-  CLOCK: [2013-03-30 Sat 20:18]--[2013-03-30 Sat 20:21] =>  0:03
-  CLOCK: [2013-03-30 Sat 20:16]--[2013-03-30 Sat 20:18] =>  0:02
-  :END:
-    :PROPERTIES:
-    :ID:       dfb544ee-1d01-4f23-9f0d-cd65d7c99211
-    :END:
-[2013-03-30 Sat 20:16]
-
-- Use [[http://orgmode.org/manual/Column-view.html#Column-view][column view]] to edit the properties - subject etc.
-- Use [[http://orgmode.org/manual/Capturing-column-view.html][Capturing column view]] to capture in [[http://orgmode.org/manual/Dynamic-blocks.html#Dynamic-blocks][Dynamic blocks]] for export
-- Need to figure out how to export to a 3 column table with column numbers
-*** TODO Sign summer teaching form
+*** DONE Sign summer teaching form
+    - State "DONE"       from "TODO"       [2013-06-10 Mon 14:28]
   :LOGBOOK:
   :END:
     :PROPERTIES:
@@ -3294,7 +3339,8 @@ I was emailed by the iClicker people about a large class I'm teaching. How do th
     :END:
 [2013-04-02 Tue 21:14]
 
-*** TODO Check textbooks for teaching DG
+*** DONE Check textbooks for teaching DG
+    - State "DONE"       from "TODO"       [2013-06-10 Mon 14:28]
   :LOGBOOK:
   :END:
   :PROPERTIES:
@@ -3331,6 +3377,9 @@ http://tex.stackexchange.com/questions/34054/tex-to-image-over-command-line/3405
 formula=""
 pdflatex "\def\formula{$formula}\input{formula.tex}"
 convert -density 300 formula.pdf -quality 90 formula.png
+*** Online courses
+http://tutorial.math.lamar.edu/
+
 * Seminars 							    :SEMINAR:
   :PROPERTIES:
   :ID:       4a7b50f0-8368-4d3a-bc5d-c0e229fd442f
@@ -3634,7 +3683,8 @@ It should make the relevant web entry and also the email notice. Possibly I coul
     :END:
 
 ** UCSD Informal Seminars
-**** TODO GMT Seminar
+**** DONE GMT Seminar
+     - State "DONE"       from "TODO"       [2013-06-10 Mon 09:29]
      - State "DONE"       from "TODO"       [2013-05-02 Thu 11:46]
      :LOGBOOK:
      CLOCK: [2013-06-06 Thu 09:55]--[2013-06-06 Thu 11:15] =>  1:20
@@ -3650,9 +3700,9 @@ It should make the relevant web entry and also the email notice. Possibly I coul
      :ID:       4b241f45-ab31-446c-9479-9983ce98ce2a
      :LAST_REPEAT: [2013-05-02 Thu 11:46]
      :END:
-<2013-04-11 Thu 10:00-11:00 +1w>
 ***** Tasks
-****** TODO Prepare for GMT Seminars
+****** DONE Prepare for GMT Seminars
+       - State "DONE"       from "TODO"       [2013-06-10 Mon 09:29]
        :LOGBOOK:
        :END:
        :PROPERTIES:
@@ -3671,7 +3721,8 @@ It should make the relevant web entry and also the email notice. Possibly I coul
        :PROPERTIES:
        :ID:       74137f5c-b65b-4bd2-a4a4-8083ea077c57
        :END:
-******* NEXT Choose book
+******* DONE Choose book
+	- State "DONE"       from "NEXT"       [2013-06-10 Mon 09:29]
 	:PROPERTIES:
 	:ID:       f2f96ca2-63dd-4c83-b489-ea39f2809945
 	:END:
@@ -3680,7 +3731,8 @@ It should make the relevant web entry and also the email notice. Possibly I coul
 	:PROPERTIES:
 	:ID:       0f9a1ca7-7194-47a5-ae3e-15200259aa12
 	:END:
-******* TODO Choose speaker for talk 04
+******* DONE Choose speaker for talk 04
+	- State "DONE"       from "TODO"       [2013-06-10 Mon 09:29]
 	:PROPERTIES:
 	:ID:       0f9a1ca7-7194-47a5-ae3e-15200259aa12
 	:END:
@@ -3756,6 +3808,9 @@ Abstract:
 - Evans and Garepy, Measure Theory and Fine Properties of Functions
 - Simon, Lecture Notes on Geometric Measure Theory
 - Morgan, Geometric Measure Theory: A Beginner's Guide
+**** Lei's students
+***** MCF Hyperbolic space
+<2013-06-21 Fri 10:00-12:00>
 * Tasks
   :PROPERTIES:
   :ID:       08d9cc5d-6f27-41c7-ba22-83f0f18370f3
