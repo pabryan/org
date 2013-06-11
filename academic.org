@@ -1740,8 +1740,10 @@ Possible dates: 5/4/13, 12/4/13, 19/4/13
 - Science museum
 - Mountains
  
-**** WAITING Submit reimbursement form
+**** NEXT Submit reimbursement form
      DEADLINE: <2013-06-02 Sun> SCHEDULED: <2013-06-02 Sun>
+     - State "NEXT"       from "WAITING"    [2013-06-11 Tue 10:35] \\
+       Need to post forms
      - State "WAITING"    from "NEXT"       [2013-06-06 Thu 21:17] \\
        Waiting on confirmation.
      :PROPERTIES:
