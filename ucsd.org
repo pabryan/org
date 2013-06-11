@@ -89,6 +89,9 @@ Blank	Grade not reported by instructor
 ** Courses
 *** Course setup
 **** TODO Course org setup
+     :PROPERTIES:
+     :ID:       2470fdb2-0910-4cde-bc39-57398dd8e5f7
+     :END:
 ***** TODO Figure out how to export course site from course org
   :LOGBOOK:
   CLOCK: [2013-04-12 Fri 11:11]--[2013-04-12 Fri 11:13] =>  0:02
