@@ -201,9 +201,10 @@ The result for curves on spheres, though interesting, is probably not suitable f
 
 In another direction, suppose you have a family of surfaces in $\RR^3$ flowing by mean curvature flow (or some other geometric flow) and take a family of curves lying on the surface. These evolve along with the family of surfaces. Can you add a part tangential to the surface, but normal to the curve to obtain any useful geometric flow? Can you conclude anything useful about curve flows on surfaces from this point of view? Or, can you conclude anything useful about mean curvature flow of surfaces using the curve flow? What happens in higher dimensions?
 
-*** TODO Referee An application of dual convex bodies to the inverse Gauss curvature flow :FOCUS:
+*** NEXT Referee An application of dual convex bodies to the inverse Gauss curvature flow :FOCUS:
     DEADLINE: <2013-07-09 Tue>
     :LOGBOOK:
+    CLOCK: [2013-06-12 Wed 11:57]
     CLOCK: [2013-06-12 Wed 09:40]--[2013-06-12 Wed 10:10] =>  0:30
     CLOCK: [2013-06-12 Wed 08:10]--[2013-06-12 Wed 08:45] =>  0:35
     CLOCK: [2013-06-10 Mon 14:59]--[2013-06-10 Mon 16:39] =>  1:40

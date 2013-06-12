@@ -2034,6 +2034,9 @@ CLOCK: [2013-04-08 Mon 15:00]--[2013-04-08 Mon 16:12] =>  0:59
 	:ID:       ba531fe8-7858-425e-96b4-fb298de62a17
 	:END:
 ****** Final
+       :PROPERTIES:
+       :ID:       5d43686d-e97f-4eaf-aeae-5782a6fa3e08
+       :END:
 <2013-06-12 Wed 15:00-18:00>
 ******* DONE Write Final
 	DEADLINE: <2013-06-03 Mon>
