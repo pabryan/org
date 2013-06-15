@@ -1166,7 +1166,8 @@ Put my common setup in it's own config and include from the .sss/config file. Th
   :END:
 ** Organisation
   :LOGBOOK:
-  CLOCK: [2013-06-15 Sat 10:20]
+  CLOCK: [2013-06-15 Sat 10:52]--[2013-06-15 Sat 10:53] =>  0:01
+  CLOCK: [2013-06-15 Sat 10:20]--[2013-06-15 Sat 10:21] =>  0:01
   CLOCK: [2013-06-14 Fri 10:40]--[2013-06-14 Fri 11:02] =>  0:22
   CLOCK: [2013-06-13 Thu 11:39]--[2013-06-13 Thu 13:19] =>  1:40
   CLOCK: [2013-06-12 Wed 11:33]--[2013-06-12 Wed 11:50] =>  0:17
@@ -1729,7 +1730,7 @@ Check how I did last month. I guess the review and plan could probably go togeth
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
    :ID:       616c5bd9-d941-4fcc-8874-2ff3c9e96b4a
-   :LAST_REPEAT: [2013-06-06 Thu 17:38]
+   :LAST_REPEAT: [2013-06-15 Sat 10:52]
    :END:
 
 What to review:
@@ -1747,7 +1748,8 @@ For the following, do I just use the existing diary.org capture template or perh
 - [ ] Write down any thoughts, relections on the day.
 
 ** NEXT Daily Plan [0/2]
-   SCHEDULED: <2013-06-15 Sat .+1d/2d>
+   SCHEDULED: <2013-06-16 Sun .+1d/2d>
+   - State "DONE"       from "NEXT"       [2013-06-15 Sat 10:52]
    - State "DONE"       from "NEXT"       [2013-06-14 Fri 10:38]
    - State "DONE"       from "NEXT"       [2013-06-12 Wed 11:31]
    - State "DONE"       from "NEXT"       [2013-06-11 Tue 10:36]
@@ -1818,6 +1820,7 @@ For the following, do I just use the existing diary.org capture template or perh
    - State "DONE"       from "NEXT"       [2013-01-10 Thu 09:22]
    - State "DONE"       from "NEXT"       [2013-01-09 Wed 07:19]
    :LOGBOOK:
+   CLOCK: [2013-06-15 Sat 10:21]--[2013-06-15 Sat 10:52] =>  0:31
    CLOCK: [2013-06-11 Tue 10:35]--[2013-06-11 Tue 10:36] =>  0:01
    CLOCK: [2013-06-10 Mon 09:28]--[2013-06-10 Mon 09:30] =>  0:02
    CLOCK: [2013-06-04 Tue 10:41]--[2013-06-04 Tue 10:43] =>  0:02
@@ -1864,7 +1867,7 @@ For the following, do I just use the existing diary.org capture template or perh
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
    :ID:       ef051ee0-1113-4604-b355-450a5a47848b
-   :LAST_REPEAT: [2013-06-14 Fri 10:38]
+   :LAST_REPEAT: [2013-06-15 Sat 10:52]
    :END:
 
 - [ ] Check agenda/focus
