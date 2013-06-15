@@ -1531,6 +1531,8 @@ Send exact dates of travel, destination/purpose of trip, and arrangements made f
        :PROPERTIES:
        :ID:       1dbefcd6-9ff8-42e5-8c20-2442853c484a
        :END:
+****** NEXT Enter grades
+       DEADLINE: <2013-06-18 Tue> SCHEDULED: <2013-06-15 Sat>
 ***** Clocking							   :CLOCKING:
 ****** Admin
        :LOGBOOK:
@@ -2447,10 +2449,13 @@ Lectures in calendar and tasks like planning lectures.
 pebenfel@math.ucsd.edu
 drichards@math.ucsd.edu
 Send exact dates of travel, destination/purpose of trip, and arrangements made for meeting classes
-****** NEXT Find someone to cover lectures
+****** DONE Find someone to cover lectures
+       - State "DONE"       from "NEXT"       [2013-06-15 Sat 10:28]
        :PROPERTIES:
        :ID:       3da23d45-1f4d-4a07-90f8-0b78c84ba575
        :END:
+****** NEXT Enter grades
+       DEADLINE: <2013-06-18 Tue> SCHEDULED: <2013-06-15 Sat>
 ***** Clocking							   :CLOCKING:
 ****** Admin
 ****** Office hours
