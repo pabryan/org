@@ -2479,6 +2479,9 @@ Send exact dates of travel, destination/purpose of trip, and arrangements made f
        :END:
 ****** NEXT Enter grades
        DEADLINE: <2013-06-18 Tue> SCHEDULED: <2013-06-15 Sat>
+       :LOGBOOK:
+       CLOCK: [2013-06-15 Sat 14:37]--[2013-06-15 Sat 15:08] =>  0:31
+       :END:
        :PROPERTIES:
        :ID:       be83730f-edbf-4317-a644-db6e795a994e
        :END:
