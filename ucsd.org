@@ -1534,6 +1534,9 @@ Send exact dates of travel, destination/purpose of trip, and arrangements made f
 Ho Yang copied off Sirong Chen on the final.
 ****** NEXT Enter grades
        DEADLINE: <2013-06-18 Tue> SCHEDULED: <2013-06-15 Sat>
+       :LOGBOOK:
+       CLOCK: [2013-06-17 Mon 10:47]--[2013-06-17 Mon 11:22] =>  0:35
+       :END:
        :PROPERTIES:
        :ID:       cbb8c412-f59a-484e-822b-47c79298c149
        :END:
@@ -2480,6 +2483,7 @@ Send exact dates of travel, destination/purpose of trip, and arrangements made f
 ****** NEXT Enter grades
        DEADLINE: <2013-06-18 Tue> SCHEDULED: <2013-06-15 Sat>
        :LOGBOOK:
+       CLOCK: [2013-06-17 Mon 11:22]
        CLOCK: [2013-06-15 Sat 14:37]--[2013-06-15 Sat 15:08] =>  0:31
        :END:
        :PROPERTIES:
