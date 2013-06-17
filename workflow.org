@@ -1166,6 +1166,7 @@ Put my common setup in it's own config and include from the .sss/config file. Th
   :END:
 ** Organisation
   :LOGBOOK:
+  CLOCK: [2013-06-17 Mon 10:43]
   CLOCK: [2013-06-15 Sat 14:11]--[2013-06-15 Sat 14:17] =>  0:06
   CLOCK: [2013-06-15 Sat 10:52]--[2013-06-15 Sat 10:53] =>  0:01
   CLOCK: [2013-06-15 Sat 10:20]--[2013-06-15 Sat 10:21] =>  0:01
