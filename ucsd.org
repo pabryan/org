@@ -1527,21 +1527,24 @@ Send exact dates of travel, destination/purpose of trip, and arrangements made f
        :END:
 [2013-05-02 Thu 11:53]
 
-****** NEXT Follow up on exam cheats
+****** DONE Follow up on exam cheats
+       - State "DONE"       from "NEXT"       [2013-06-17 Mon 16:36]
        :PROPERTIES:
        :ID:       1dbefcd6-9ff8-42e5-8c20-2442853c484a
        :END:
 Ho Yang copied off Sirong Chen on the final.
-****** NEXT Enter grades
+****** DONE Enter grades
        DEADLINE: <2013-06-18 Tue> SCHEDULED: <2013-06-15 Sat>
+       - State "DONE"       from "NEXT"       [2013-06-17 Mon 16:31]
        :LOGBOOK:
-       CLOCK: [2013-06-17 Mon 13:30]
+       CLOCK: [2013-06-17 Mon 16:03]--[2013-06-17 Mon 16:31] =>  0:28
+       CLOCK: [2013-06-17 Mon 13:30]--[2013-06-17 Mon 14:39] =>  1:09
        CLOCK: [2013-06-17 Mon 10:47]--[2013-06-17 Mon 11:22] =>  0:35
        :END:
        :PROPERTIES:
        :ID:       cbb8c412-f59a-484e-822b-47c79298c149
        :END:
-Anterpreet Kaur, incomplete.
+
 ****** NEXT Check Li Yanhui's final grade
        :PROPERTIES:
        :ID:       ee7c04fa-7acc-4074-8237-62f38a1dbea0
@@ -1549,17 +1552,19 @@ Anterpreet Kaur, incomplete.
 My pid:A98103495
 Section number C06
 Name Li Yanhui
-****** NEXT Check missing homework/unknown students
+****** DONE Check missing homework/unknown students, change grades
+       - State "DONE"       from "NEXT"       [2013-06-17 Mon 16:13]
        :PROPERTIES:
        :ID:       f80fdd47-078a-40bc-8f90-9da36aea7db6
        :END:
-Sunny Khohler A10904194
-Christian Forero A10907545
-Akhil Reddy A10669947
-Tairlo Kim A10762925
-Shaurya Phakar
-Rice Lee
-Edward Shich
+- [X] Anterpreet Kaur, incomplete.
+- [X] Sunny Khohler A10904194
+- [X] Christian Forero A10907545
+- [X] Akhil Reddy A10669947
+- [X] Tairlo Kim A10762925
+- [X] Shaurya Phakar
+- [X] Rice Lee
+- [X] Edward Shich
 ***** Clocking							   :CLOCKING:
 ****** Admin
        :LOGBOOK:
@@ -2484,18 +2489,20 @@ Send exact dates of travel, destination/purpose of trip, and arrangements made f
 ****** NEXT Enter grades
        DEADLINE: <2013-06-18 Tue> SCHEDULED: <2013-06-15 Sat>
        :LOGBOOK:
+       CLOCK: [2013-06-17 Mon 16:36]
        CLOCK: [2013-06-17 Mon 11:22]--[2013-06-17 Mon 12:02] =>  0:40
        CLOCK: [2013-06-15 Sat 14:37]--[2013-06-15 Sat 15:08] =>  0:31
        :END:
        :PROPERTIES:
        :ID:       be83730f-edbf-4317-a644-db6e795a994e
        :END:
-****** NEXT Check missing homework/unknown students
+****** DONE Check missing homework/unknown students
+       - State "DONE"       from "NEXT"       [2013-06-17 Mon 16:39]
        :PROPERTIES:
        :ID:       a9c5139b-b015-4963-84c2-e15e5dea276f
        :END:
-Justin Chu hw 3
-Sikan Li A08355313: Drop matlab 4
+- [X] Justin Chu hw 3
+- [X] Sikan Li A08355313: Drop matlab 4
 ***** Clocking							   :CLOCKING:
 ****** Admin
 ****** Office hours
