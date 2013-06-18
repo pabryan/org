@@ -2486,10 +2486,11 @@ Send exact dates of travel, destination/purpose of trip, and arrangements made f
        :PROPERTIES:
        :ID:       3da23d45-1f4d-4a07-90f8-0b78c84ba575
        :END:
-****** NEXT Enter grades
+****** DONE Enter grades
        DEADLINE: <2013-06-18 Tue> SCHEDULED: <2013-06-15 Sat>
+       - State "DONE"       from "NEXT"       [2013-06-17 Mon 16:50]
        :LOGBOOK:
-       CLOCK: [2013-06-17 Mon 16:36]
+       CLOCK: [2013-06-17 Mon 16:36]--[2013-06-17 Mon 16:50] =>  0:14
        CLOCK: [2013-06-17 Mon 11:22]--[2013-06-17 Mon 12:02] =>  0:40
        CLOCK: [2013-06-15 Sat 14:37]--[2013-06-15 Sat 15:08] =>  0:31
        :END:
@@ -2503,6 +2504,11 @@ Send exact dates of travel, destination/purpose of trip, and arrangements made f
        :END:
 - [X] Justin Chu hw 3
 - [X] Sikan Li A08355313: Drop matlab 4
+****** NEXT Change Grade
+Carlos Moscoso: F to D
+a10154159
+775025
+
 ***** Clocking							   :CLOCKING:
 ****** Admin
 ****** Office hours
