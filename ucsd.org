@@ -1563,7 +1563,8 @@ Name Li Yanhui
 - [X] Shaurya Phakar
 - [X] Rice Lee
 - [X] Edward Shich
-****** NEXT Update grades
+****** DONE Update grades
+       - State "DONE"       from "NEXT"       [2013-06-20 Thu 16:33]
        :PROPERTIES:
        :ID:       f375c7e1-0ca3-4827-955b-55e9629ac6c6
        :END:
@@ -2155,7 +2156,8 @@ CLOCK: [2013-04-08 Mon 15:00]--[2013-04-08 Mon 16:12] =>  0:59
        	:ID:       0be961ca-b6a6-46e6-8f40-999705c0e649
        	:END:
 
-****** NEXT Change homework due time to 4pm
+****** DONE Change homework due time to 4pm
+       - State "DONE"       from "NEXT"       [2013-06-20 Thu 16:37]
   :LOGBOOK:
   :END:
   :PROPERTIES:
@@ -2219,7 +2221,8 @@ CLOCK: [2013-04-08 Mon 15:00]--[2013-04-08 Mon 16:12] =>  0:59
        CLOCK: [2013-04-19 Fri 10:59]--[2013-04-19 Fri 11:35] =>  0:36
        :END:
 
-****** NEXT Set up gradebook
+****** DONE Set up gradebook
+       - State "DONE"       from "NEXT"       [2013-06-20 Thu 16:38]
        :PROPERTIES:
        :ID:       1feab381-22e4-4157-8cef-4628ce3f7fd2
        :END:
@@ -2379,7 +2382,8 @@ CLOCK: [2013-04-08 Mon 15:00]--[2013-04-08 Mon 16:12] =>  0:59
        :LOGBOOK:
        CLOCK: [2013-06-10 Mon 11:19]--[2013-06-10 Mon 11:32] =>  0:13
        :END:
-**** TODO MATH20D Spring 2013					    :MATH20D:
+**** DONE MATH20D Spring 2013					    :MATH20D:
+     - State "DONE"       from "TODO"       [2013-06-20 Thu 16:38]
     :PROPERTIES:
     :ID:       01742e1a-c15f-4aab-ada0-59725c2e73e4
     :END:
@@ -2513,16 +2517,17 @@ Send exact dates of travel, destination/purpose of trip, and arrangements made f
        :END:
 - [X] Justin Chu hw 3
 - [X] Sikan Li A08355313: Drop matlab 4
-****** NEXT Change Grade
+****** DONE Change Grade
+       - State "DONE"       from "NEXT"       [2013-06-20 Thu 16:37]
        :PROPERTIES:
        :ID:       bb2d69df-4aeb-4ffa-97e5-d41cddb3df8a
        :END:
-Carlos Moscoso: F to D
-a10154159
-775025
-Douglas Myers-Turnbull
-A08531289
-775026
+- [X] Carlos Moscoso: F to D
+       a10154159
+       775025
+- [X] Douglas Myers-Turnbull C- to D!
+       A08531289
+       775026
 ***** Clocking							   :CLOCKING:
 ****** Admin
 ****** Office hours
@@ -3140,7 +3145,8 @@ Center 119
        	:ID:       11083b9b-09dc-46c6-82d5-2e084e51f163
        	:END:
 
-****** NEXT Change homework due time to 4pm
+****** DONE Change homework due time to 4pm
+       - State "DONE"       from "NEXT"       [2013-06-20 Thu 16:37]
   :LOGBOOK:
   :END:
   :PROPERTIES:
@@ -3194,14 +3200,16 @@ Center 119
       :ID:       fbdd1a20-2bf7-4ad0-91e5-1c52ac79c7b8
       :END:
 - Send email request as per instruction email in my inbox.
-****** NEXT Update calendar
+****** DONE Update calendar
+       - State "DONE"       from "NEXT"       [2013-06-20 Thu 16:37]
        :LOGBOOK:
        CLOCK: [2013-04-12 Fri 11:16]--[2013-04-12 Fri 11:17] =>  0:01
        :END:
        :PROPERTIES:
        :ID:       3ac1d520-8449-4724-8f4e-9086c73ed5fe
        :END:
-****** NEXT Set up gradebook
+****** DONE Set up gradebook
+       - State "DONE"       from "NEXT"       [2013-06-20 Thu 16:37]
        :PROPERTIES:
        :ID:       e17b8183-9acb-4d72-b347-e1b3000efe63
        :END:
