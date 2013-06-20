@@ -8,7 +8,8 @@
 
 ** Tracking
 *** NEXT Exercise
-    SCHEDULED: <2013-06-20 Thu .+1d/2d>
+    SCHEDULED: <2013-06-21 Fri .+1d/2d>
+    - State "DONE"       from "NEXT"       [2013-06-20 Thu 16:20]
     - State "DONE"       from "NEXT"       [2013-06-19 Wed 14:04]
     - State "DONE"       from "NEXT"       [2013-06-18 Tue 12:00]
     - State "DONE"       from "NEXT"       [2013-06-17 Mon 09:00]
@@ -80,11 +81,12 @@
     :STYLE:    habit
     :REPEAT_TO_STATE: NEXT
     :ID:       8d56b2ef-1b49-4dc4-b701-1d021a293fa4
-    :LAST_REPEAT: [2013-06-19 Wed 14:04]
+    :LAST_REPEAT: [2013-06-20 Thu 16:20]
     :END:
 
 *** NEXT Morning Mobility
-    SCHEDULED: <2013-06-20 Thu .+1d/2d>
+    SCHEDULED: <2013-06-21 Fri .+1d/2d>
+    - State "DONE"       from "NEXT"       [2013-06-20 Thu 16:20]
     - State "DONE"       from "NEXT"       [2013-06-19 Wed 14:04]
     - State "DONE"       from "NEXT"       [2013-06-18 Tue 12:00]
     - State "DONE"       from "NEXT"       [2013-06-17 Mon 09:00]
@@ -161,7 +163,7 @@
     :STYLE:    habit
     :REPEAT_TO_STATE: NEXT
     :ID:       0e75f56d-0356-4a0f-a376-080471ad4aad
-    :LAST_REPEAT: [2013-06-19 Wed 14:04]
+    :LAST_REPEAT: [2013-06-20 Thu 16:20]
     :END:
 
 *** NEXT Afternoon Relax
