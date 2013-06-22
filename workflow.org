@@ -1166,6 +1166,7 @@ Put my common setup in it's own config and include from the .sss/config file. Th
   :END:
 ** Organisation
   :LOGBOOK:
+  CLOCK: [2013-06-21 Fri 20:15]--[2013-06-21 Fri 20:34] =>  0:19
   CLOCK: [2013-06-21 Fri 17:56]--[2013-06-21 Fri 17:57] =>  0:01
   CLOCK: [2013-06-19 Wed 16:09]--[2013-06-19 Wed 16:10] =>  0:01
   CLOCK: [2013-06-19 Wed 13:56]--[2013-06-19 Wed 14:16] =>  0:20
@@ -1691,7 +1692,8 @@ Check how I did last month. I guess the review and plan could probably go togeth
 
 
 ** NEXT Daily Review [0/3]
-   SCHEDULED: <2013-06-09 Sun .+1d/2d>
+   SCHEDULED: <2013-06-22 Sat .+1d/2d>
+   - State "DONE"       from "NEXT"       [2013-06-21 Fri 20:35]
    - State "DONE"       from "NEXT"       [2013-06-08 Sat 17:45]
    - State "DONE"       from "NEXT"       [2013-06-06 Thu 17:38]
    - State "DONE"       from "NEXT"       [2013-06-04 Tue 20:33]
@@ -1737,7 +1739,7 @@ Check how I did last month. I guess the review and plan could probably go togeth
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
    :ID:       616c5bd9-d941-4fcc-8874-2ff3c9e96b4a
-   :LAST_REPEAT: [2013-06-15 Sat 10:52]
+   :LAST_REPEAT: [2013-06-21 Fri 20:35]
    :END:
 
 What to review:
@@ -1755,7 +1757,8 @@ For the following, do I just use the existing diary.org capture template or perh
 - [ ] Write down any thoughts, relections on the day.
 
 ** NEXT Daily Plan [0/2]
-   SCHEDULED: <2013-06-21 Fri .+1d/2d>
+   SCHEDULED: <2013-06-22 Sat .+1d/2d>
+   - State "DONE"       from "NEXT"       [2013-06-21 Fri 20:35]
    - State "DONE"       from "NEXT"       [2013-06-20 Thu 16:20]
    - State "DONE"       from "NEXT"       [2013-06-19 Wed 14:04]
    - State "DONE"       from "NEXT"       [2013-06-15 Sat 10:52]
@@ -1876,7 +1879,7 @@ For the following, do I just use the existing diary.org capture template or perh
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
    :ID:       ef051ee0-1113-4604-b355-450a5a47848b
-   :LAST_REPEAT: [2013-06-20 Thu 16:20]
+   :LAST_REPEAT: [2013-06-21 Fri 20:35]
    :END:
 
 - [ ] Check agenda/focus
