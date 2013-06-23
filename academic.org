@@ -791,6 +791,8 @@ Can we deduce long-time behaviour from the support function?
 - $\exp(s(x) \nor(x) + \grad s(x))$ parametrises the Wulff shape of $M$. 
 - How does this relate to the original hypersurface? In particular how do the curvatures relate?
   
+***** Refs
+[[file:~/research_resources/draftpapers/hyperbolic_130113.pdf]]
 *** Future							    :SOMEDAY:
 **** TODO csf_networks					       :CSF_NETWORKS:
    :PROPERTIES:
@@ -1067,6 +1069,23 @@ Sequences of manifolds and convergence. What is smooth convergence? Can it be de
       :ID:       c0bd68d4-6572-425e-8118-bb755fcded6f
       :END:
 ***** 
+** Computation
+*** TODO ANUGA
+**** Tasks
+***** TODO Sage interface?
+**** TODO ANUGA 1D
+***** Tasks
+****** NEXT Review existing work
+*** TODO Sage
+**** Tasks
+***** TODO Install Sage on laptop
+***** TODO Install Sage at work
+**** TODO Vector symmetric functions
+***** Tasks
+****** NEXT Look up Emmanual Briand's review
+*** TODO WDM
+**** Tasks
+***** NEXT Get Hubert's matlab code into Python/Sage
 ** Tasks
 *** TODO Organise research papers    
     :LOGBOOK:
