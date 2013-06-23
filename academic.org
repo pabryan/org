@@ -1168,6 +1168,7 @@ I'd like to be able to use org-mode views to show papers/books by a given author
 
 *** Research Pondering
     :LOGBOOK:
+    CLOCK: [2013-06-23 Sun 15:42]
     CLOCK: [2013-04-11 Thu 15:01]--[2013-04-11 Thu 15:35] =>  0:34
     CLOCK: [2013-04-11 Thu 11:07]--[2013-04-11 Thu 11:59] =>  0:52
     CLOCK: [2013-04-10 Wed 16:10]--[2013-04-10 Wed 16:25] =>  0:15
@@ -1199,14 +1200,6 @@ I'd like to be able to use org-mode views to show papers/books by a given author
     CLOCK: [2012-11-28 Wed 13:00]--[2012-11-28 Wed 13:37] =>  0:42
     :END:
     
-**** TODO Look at 王奎's MCF in hyperbolic space
-  :LOGBOOK:
-  CLOCK: [2013-04-09 Tue 10:38]--[2013-04-09 Tue 10:39] =>  0:01
-  :END:
-  :PROPERTIES:
-  :ID:       01b84b87-b568-4a70-96e1-f98c4f02de22
-  :END:
-[2013-04-09 Tue 10:38]
 *** Literature reviewing
     :LOGBOOK:
     CLOCK: [2012-12-18 Tue 11:10]--[2012-12-18 Tue 11:33] =>  0:23
@@ -1452,6 +1445,15 @@ http://math.stackexchange.com/questions/24693/want-to-learn-differential-geometr
 http://www.amazon.com/Global-Calculus-Graduate-Studies-Mathematics/dp/082183702
 http://mathoverflow.net/questions/14877/how-much-of-differential-geometry-can-be-developed-entirely-without-atlases-clo
 
+*** MCF Hyperbolic space
+**** TODO Look at 王奎's MCF in hyperbolic space
+  :LOGBOOK:
+  CLOCK: [2013-04-09 Tue 10:38]--[2013-04-09 Tue 10:39] =>  0:01
+  :END:
+  :PROPERTIES:
+  :ID:       01b84b87-b568-4a70-96e1-f98c4f02de22
+  :END:
+[2013-04-09 Tue 10:38]
 ** Reading
    :PROPERTIES:
    :ID:       3b692ea2-10eb-4586-ae3e-2006ce6a3c0e
