@@ -635,6 +635,7 @@ how are they related?
       :PROPERTIES:
       :ID:       9576f953-1b7f-4459-915a-b8378f6d8b80
       :END:
+Try again to make this exponential barrier work.
 ***** DONE Check high genus comparison computations
       - State "DONE"       from "NEXT"       [2013-02-06 Wed 14:57]
       :LOGBOOK:
@@ -649,7 +650,8 @@ how are they related?
    :ID:       cf90c8f0-dc09-44d4-87d4-f7000acc2ba1
    :END:
 [[file:~/working/academic/research/geometric_pipe_flows]]
-***** NEXT Set up exact tasks
+***** DONE Set up exact tasks
+      - State "DONE"       from "NEXT"       [2013-06-23 Sun 16:12]
       :LOGBOOK:
       CLOCK: [2013-02-06 Wed 14:58]--[2013-02-06 Wed 15:09] =>  0:11
       :END:
@@ -672,14 +674,15 @@ how are they related?
   :ID:       acf2c85c-2e65-45b7-a705-e30b58a7ca4b
   :END:
 [2012-11-20 Tue 11:04]
-***** NEXT Prepare talk at Eugene
+***** DONE Prepare talk at Eugene
+      - State "DONE"       from "NEXT"       [2013-06-23 Sun 16:12]
       :LOGBOOK:
       CLOCK: [2013-05-13 Mon 18:28]--[2013-05-13 Mon 18:43] =>  0:15
       :END:
       :PROPERTIES:
       :ID:       c1250415-a95a-42ee-94cc-4bf6e967467e
       :END:
-***** NEXT Make org file with my known work and send to Steve.
+***** NEXT Compile work into org file
       :PROPERTIES:
       :ID:       4f27c099-1b3f-44a1-b38d-394b791aabef
       :END:
@@ -771,8 +774,15 @@ Can we deduce long-time behaviour from the support function?
        :PROPERTIES:
        :ID:       0548f728-0249-4589-805b-f4b1340895b1
        :END:
+- Check what Ben and Chen did in $\HH^3$.
 - i.e. construct a parametrisation from the support function.
-- Is it true that $\exp_O (s(x)\nor(x) + T(x)) = x$ with $T(x) = \grad s$ tangent?
+- Is it true that $\exp_O (s(x)\nor(x) + T(x)) = x$ with $T(x) = \grad s$ tangent? No. This is the Wulf shape and is only the original hypersurface when $s$ is defined using the position vector field.
+
+****** NEXT 
+****** NEXT Wulff shape 
+- $\exp(s(x) \nor(x) + \grad s(x))$ parametrises the Wulff shape of $M$. 
+- How does this relate to the original hypersurface? In particular how do the curvatures relate?
+
 *** Future							    :SOMEDAY:
 **** TODO csf_networks					       :CSF_NETWORKS:
    :PROPERTIES:
@@ -1173,7 +1183,7 @@ I'd like to be able to use org-mode views to show papers/books by a given author
 
 *** Research Pondering
     :LOGBOOK:
-    CLOCK: [2013-06-23 Sun 15:42]
+    CLOCK: [2013-06-23 Sun 15:42]--[2013-06-23 Sun 16:10] =>  0:28
     CLOCK: [2013-04-11 Thu 15:01]--[2013-04-11 Thu 15:35] =>  0:34
     CLOCK: [2013-04-11 Thu 11:07]--[2013-04-11 Thu 11:59] =>  0:52
     CLOCK: [2013-04-10 Wed 16:10]--[2013-04-10 Wed 16:25] =>  0:15
