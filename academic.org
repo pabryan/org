@@ -764,7 +764,7 @@ Can we deduce long-time behaviour from the support function?
        :PROPERTIES:
        :ID:       5d7d38ad-aac0-409d-9ece-466e858612c9
        :END:
-
+- Is this even necessary? That is, why not just use $\sphere^n$ as a fixed space from which to parametrise? It's not really necessary to have $\sphere^n$ embedded in the space form.
 ****** NEXT Work out support function parametrisation
        :LOGBOOK:
        CLOCK: [2013-04-30 Tue 19:16]--[2013-04-30 Tue 21:25] =>  2:09
@@ -778,11 +778,19 @@ Can we deduce long-time behaviour from the support function?
 - i.e. construct a parametrisation from the support function.
 - Is it true that $\exp_O (s(x)\nor(x) + T(x)) = x$ with $T(x) = \grad s$ tangent? No. This is the Wulf shape and is only the original hypersurface when $s$ is defined using the position vector field.
 
-****** NEXT 
+****** TODO Dual Body
+******* NEXT Define the radial function
+- This could be analogous to the definition in $\RR^n$.
+******* TODO Define the dual body 
+- the set of $y$ with $\ip{V(x)}{V(y)} \leq 1$ for every $x\in M$?
+- Or is it something do with distance and/or the radial function?
+- What definition makes it the "dual" in the sense that taking the dual twice recovers the original body.
+******* TODO Evolution of the dual body 
+- Calculate evolution equation of dual body.
 ****** NEXT Wulff shape 
 - $\exp(s(x) \nor(x) + \grad s(x))$ parametrises the Wulff shape of $M$. 
 - How does this relate to the original hypersurface? In particular how do the curvatures relate?
-
+  
 *** Future							    :SOMEDAY:
 **** TODO csf_networks					       :CSF_NETWORKS:
    :PROPERTIES:
@@ -1478,6 +1486,15 @@ http://mathoverflow.net/questions/14877/how-much-of-differential-geometry-can-be
 ***** Flows
 - What happens to this distance under flows?
 - In what sense does the convex hull evolve under flow?
+*** Convex bodies in Riemannian manifolds
+**** Notes
+- Geodesic convexity
+- Diffeomorphic to $\sphere^n$ via Gauss map?
+- Radial function?
+- Dual (polar) body?
+- Lie Groups
+- Support function
+- Need some weak notions near cut locus
 ** Reading
    :PROPERTIES:
    :ID:       3b692ea2-10eb-4586-ae3e-2006ce6a3c0e
