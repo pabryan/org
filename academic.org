@@ -1454,6 +1454,15 @@ http://mathoverflow.net/questions/14877/how-much-of-differential-geometry-can-be
   :ID:       01b84b87-b568-4a70-96e1-f98c4f02de22
   :END:
 [2013-04-09 Tue 10:38]
+*** Convexity defect
+**** Notes
+***** Defn 
+(Hausdorff?) Distance from a body to it's convex hull.
+***** Non-smoothness
+-  Note that the convex hull won't be smooth in general so variations might be fiddly. 
+***** Flows
+- What happens to this distance under flows?
+- In what sense does the convex hull evolve under flow?
 ** Reading
    :PROPERTIES:
    :ID:       3b692ea2-10eb-4586-ae3e-2006ce6a3c0e
