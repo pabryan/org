@@ -403,7 +403,8 @@ Probably also need concave comparison functions. This should rule out $\tang_p =
 This requires an estimate of $\int k f(k)$ analogous to Holder's for CSF where $f(k)=k$.
 ****** NEXT Write as viscosity equation
        :LOGBOOK:
-       CLOCK: [2013-06-24 Mon 10:37]
+       CLOCK: [2013-06-24 Mon 11:06]
+       CLOCK: [2013-06-24 Mon 10:37]--[2013-06-24 Mon 11:02] =>  0:25
        CLOCK: [2013-05-15 Wed 14:20]--[2013-05-15 Wed 14:50] =>  0:30
        :END:
        :PROPERTIES:
@@ -426,6 +427,9 @@ There is a remark by Ben that our function comes from seeking a similarity solut
 Is there something that can be deduced by inequalities in the barrier sense? E.g. something like Bavard/Pansu and Sternberg/Zunbrum.
 ****** NEXT Shorten introduction!
 Maybe give the result first and then discuss (briefly) the history.
+****** NEXT Add a section on chord/arc-profile
+- Asymptotics
+- Concavity properties (if any) using upper barriers
 ****** DONE Work our normalised flow
     :LOGBOOK:
     CLOCK: [2013-02-20 Wed 13:55]--[2013-02-20 Wed 15:05] =>  1:10
