@@ -204,6 +204,7 @@ In another direction, suppose you have a family of surfaces in $\RR^3$ flowing b
 *** NEXT Referee An application of dual convex bodies to the inverse Gauss curvature flow :FOCUS:
     DEADLINE: <2013-07-09 Tue>
     :LOGBOOK:
+    CLOCK: [2013-06-24 Mon 13:25]--[2013-06-24 Mon 13:50] =>  0:25
     CLOCK: [2013-06-21 Fri 17:40]--[2013-06-21 Fri 18:14] =>  0:34
     CLOCK: [2013-06-21 Fri 12:50]--[2013-06-21 Fri 14:50] =>  2:00
     CLOCK: [2013-06-19 Wed 14:16]--[2013-06-19 Wed 16:09] =>  1:53
@@ -403,6 +404,7 @@ Probably also need concave comparison functions. This should rule out $\tang_p =
 This requires an estimate of $\int k f(k)$ analogous to Holder's for CSF where $f(k)=k$.
 ****** NEXT Write as viscosity equation
        :LOGBOOK:
+       CLOCK: [2013-06-24 Mon 16:16]--[2013-06-24 Mon 17:06] =>  0:50
        CLOCK: [2013-06-24 Mon 11:06]--[2013-06-24 Mon 11:42] =>  0:36
        CLOCK: [2013-06-24 Mon 10:37]--[2013-06-24 Mon 11:02] =>  0:25
        CLOCK: [2013-05-15 Wed 14:20]--[2013-05-15 Wed 14:50] =>  0:30
