@@ -404,6 +404,7 @@ Probably also need concave comparison functions. This should rule out $\tang_p =
 This requires an estimate of $\int k f(k)$ analogous to Holder's for CSF where $f(k)=k$.
 ****** NEXT Write as viscosity equation
        :LOGBOOK:
+       CLOCK: [2013-06-24 Mon 19:45]--[2013-06-24 Mon 20:25] =>  0:40
        CLOCK: [2013-06-24 Mon 16:16]--[2013-06-24 Mon 17:06] =>  0:50
        CLOCK: [2013-06-24 Mon 11:06]--[2013-06-24 Mon 11:42] =>  0:36
        CLOCK: [2013-06-24 Mon 10:37]--[2013-06-24 Mon 11:02] =>  0:25
@@ -426,10 +427,19 @@ This requires an estimate of $\int k f(k)$ analogous to Holder's for CSF where $
     :END:
 There is a remark by Ben that our function comes from seeking a similarity solution. Does this work for general $f$?
 ****** NEXT Properties of optimal points
+       :PROPERTIES:
+       :ID:       fa315975-ce59-4b0c-954b-fa15436dac58
+       :END:
 Is there something that can be deduced by inequalities in the barrier sense? E.g. something like Bavard/Pansu and Sternberg/Zunbrum.
 ****** NEXT Shorten introduction!
+       :PROPERTIES:
+       :ID:       fd104b00-d994-4de3-91b9-cdb9f2b02d15
+       :END:
 Maybe give the result first and then discuss (briefly) the history.
 ****** NEXT Add a section on chord/arc-profile
+       :PROPERTIES:
+       :ID:       cc7a64a2-bc18-4f6b-a239-289231e67efe
+       :END:
 - Asymptotics
 - Concavity properties (if any) using upper barriers
 ****** DONE Work our normalised flow
@@ -788,15 +798,30 @@ Can we deduce long-time behaviour from the support function?
 - Is it true that $\exp_O (s(x)\nor(x) + T(x)) = x$ with $T(x) = \grad s$ tangent? No. This is the Wulf shape and is only the original hypersurface when $s$ is defined using the position vector field.
 
 ****** TODO Dual Body
+       :PROPERTIES:
+       :ID:       227e228f-6d25-4344-9642-0cd92447202f
+       :END:
 ******* NEXT Define the radial function
+	:PROPERTIES:
+	:ID:       3c42e645-aa5e-4e45-8330-642eff10602c
+	:END:
 - This could be analogous to the definition in $\RR^n$.
-******* TODO Define the dual body 
+******* TODO Define the dual body
+	:PROPERTIES:
+	:ID:       ae49515a-1e6f-41f6-9f32-eedb6cb6c3bc
+	:END: 
 - the set of $y$ with $\ip{V(x)}{V(y)} \leq 1$ for every $x\in M$?
 - Or is it something do with distance and/or the radial function?
 - What definition makes it the "dual" in the sense that taking the dual twice recovers the original body.
-******* TODO Evolution of the dual body 
+******* TODO Evolution of the dual body
+	:PROPERTIES:
+	:ID:       099961a3-2e9b-48f9-b93e-7c8b54d7998c
+	:END: 
 - Calculate evolution equation of dual body.
-****** NEXT Wulff shape 
+****** NEXT Wulff shape
+       :PROPERTIES:
+       :ID:       eee2b199-61dc-4fda-bd51-a55accf9781e
+       :END: 
 - $\exp(s(x) \nor(x) + \grad s(x))$ parametrises the Wulff shape of $M$. 
 - How does this relate to the original hypersurface? In particular how do the curvatures relate?
   
@@ -1080,21 +1105,54 @@ Sequences of manifolds and convergence. What is smooth convergence? Can it be de
 ***** 
 ** Computation
 *** TODO ANUGA
+    :PROPERTIES:
+    :ID:       f7e859a4-1e79-4369-b648-3c606ff307b2
+    :END:
 **** Tasks
 ***** TODO Sage interface?
+      :PROPERTIES:
+      :ID:       1539524b-7040-429d-9882-cb61262215d5
+      :END:
 **** TODO ANUGA 1D
+     :PROPERTIES:
+     :ID:       1efaa134-5a28-430d-9f9e-652ed31c96e1
+     :END:
 ***** Tasks
 ****** NEXT Review existing work
+       :PROPERTIES:
+       :ID:       e7acc74e-235b-41d6-8f4c-935aadbafa60
+       :END:
 *** TODO Sage
+    :PROPERTIES:
+    :ID:       23b8901a-a470-4b98-a44b-893be1286304
+    :END:
 **** Tasks
 ***** TODO Install Sage on laptop
+      :PROPERTIES:
+      :ID:       e984a6f6-4f7a-4689-adac-f3af06d150fd
+      :END:
 ***** TODO Install Sage at work
+      :PROPERTIES:
+      :ID:       524ba8e1-7a04-48b3-bad0-cbca0dac5121
+      :END:
 **** TODO Vector symmetric functions
+     :PROPERTIES:
+     :ID:       adf7480b-29ba-496c-9a32-b580cf9937ce
+     :END:
 ***** Tasks
 ****** NEXT Look up Emmanual Briand's review
+       :PROPERTIES:
+       :ID:       f4d890c0-78df-4ef5-bf62-07fc743a2356
+       :END:
 *** TODO WDM
+    :PROPERTIES:
+    :ID:       0913954b-8493-4a92-8001-cbfd573ecbf3
+    :END:
 **** Tasks
 ***** NEXT Get Hubert's matlab code into Python/Sage
+      :PROPERTIES:
+      :ID:       4e2db7a9-fc15-473e-b09e-bde6e8d52d97
+      :END:
 ** Tasks
 *** TODO Organise research papers    
     :LOGBOOK:
