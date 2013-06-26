@@ -1634,7 +1634,9 @@ Radon measures: compactness and Reisz representation.
    - State "DONE"       from "TODO"       [2012-10-18 Thu 11:13]
   CLOCK: [2012-10-14 Sun 20:38]--[2012-10-14 Sun 20:38] =>  0:00
 [2012-10-14 Sun 20:38]
-** TODO Invite Visitors						    :SOMEDAY:
+** CANCELLED Invite Visitors					    :SOMEDAY:
+   - State "CANCELLED"  from "TODO"       [2013-06-25 Tue 21:16] \\
+     Nothing available!
 Some money available through colloquia funds?
   CLOCK: [2012-10-14 Sun 20:39]--[2012-10-14 Sun 20:40] =>  0:01
    :PROPERTIES:
@@ -1679,7 +1681,8 @@ Possible dates: 5/4/13, 12/4/13, 19/4/13
     :PROPERTIES:
     :ID:       5bbab9e4-6706-40bf-aea7-cb0ef39611d4
     :END:
-*** NEXT Find someone to cover Friday's lecture
+*** DONE Find someone to cover Friday's lecture
+    - State "DONE"       from "NEXT"       [2013-06-25 Tue 21:14]
     :PROPERTIES:
     :ID:       4120e2e3-f085-4a83-8ae9-eafdff535f90
     :END:
@@ -1692,7 +1695,7 @@ Possible dates: 5/4/13, 12/4/13, 19/4/13
    :ID:       ca1c1d9d-cea8-425a-ab03-2f7caaa10765
    :END:
    <2013-02-23 Sat 08:30>--<2013-02-24 Sun 14:30>
-
+a
 ** TODO PNGS 2013
    - State "TODO"       from "DONE"       [2013-06-02 Sun 10:54] \\
      Re-instated since I need to put in reimbursement form.
@@ -1810,17 +1813,20 @@ Possible dates: 5/4/13, 12/4/13, 19/4/13
      CLOCK: [2013-05-07 Tue 14:18]--[2013-05-07 Tue 14:41] =>  0:23
      :END:
 - Put in asymptotics and exponential curvature bound
-**** TODO Write proof of viscosity equation for dist-comp Z
+**** DONE Write proof of viscosity equation for dist-comp Z
+     - State "DONE"       from "TODO"       [2013-06-25 Tue 21:17]
      :PROPERTIES:
      :ID:       92cdb4a1-cf88-482a-9c68-2c049544ca26
      :END:
 ***** DONE Compare with Z at minima
       - State "DONE"       from "NEXT"       [2013-05-10 Fri 09:46]
-***** NEXT Compute time variation
+***** DONE Compute time variation
+      - State "DONE"       from "NEXT"       [2013-06-25 Tue 21:16]
       :PROPERTIES:
       :ID:       8af8432b-a083-4960-b813-69ffce8a5ab7
       :END:
-***** NEXT Compute Spatial variation
+***** DONE Compute Spatial variation
+      - State "DONE"       from "NEXT"       [2013-06-25 Tue 21:16]
       :PROPERTIES:
       :ID:       36a1b9a5-de8d-4bda-9bf7-928bba0a7ee4
       :END:
@@ -1897,7 +1903,8 @@ Possible dates: 5/4/13, 12/4/13, 19/4/13
 $Z$ is some quantity like distance, non-collapsing, whatever. $\bar{Z}$ is the extrema over some range; for non-collaping $Z=Z(x,y)$, $\bar{Z}(x)=\sup_y Z(x,y)$. For $Z=d$, $\bar{Z}$ is the sup over $x$ and $y$. These will be over non-compact $M\times M - D$ with $D$ the diagonal. More generally, $Z$ may only be defined away from the cut locus. 
 
 At the extrema, because of the vanishing of the first variation, the laplacian of $\bar{Z}$ turns into something like $\pd{x_i} \pm \pd{y_i}$. So a viscosity equation for $\laplace \bar{Z}$ relates to this other operator on $Z$. It might be worthwhile comparing the Hessians of $\bar{Z}$ and $Z$. The other important ingredient here is blowing up the diagonal to get a compact manifold. 
-** TODO Encounters in Geometry
+** DONE Encounters in Geometry
+   - State "DONE"       from "TODO"       [2013-06-25 Tue 21:17]
    :PROPERTIES:
    :ID:       7f61c706-31dd-49e3-91a1-b75eabc0fdf4
    :END:
@@ -1914,11 +1921,13 @@ Cabo Frio, a beautiful beach city near Rio De Janeiro, from June 3 to June 7, 20
     :ID:       87fd6545-739b-4d1e-bae9-8adedcec5537
     :END:
 [2013-02-13 Wed 14:17]
-*** NEXT Find out about lectures covered (email frdesk)
+*** DONE Find out about lectures covered (email frdesk)
+    - State "DONE"       from "NEXT"       [2013-06-25 Tue 21:14]
     :PROPERTIES:
     :ID:       a97df10c-7eea-422b-aa1a-f3252aec0ed6
     :END:
-*** NEXT Find out if I can still go (email Wolfang)
+*** DONE Find out if I can still go (email Wolfang)
+    - State "DONE"       from "NEXT"       [2013-06-25 Tue 21:14]
     :PROPERTIES:
     :ID:       33484880-0fc8-4ca4-964b-ac1a47bacceb
     :END:
@@ -1928,7 +1937,8 @@ Cabo Frio, a beautiful beach city near Rio De Janeiro, from June 3 to June 7, 20
       :LOGBOOK:
       CLOCK: [2013-03-26 Tue 20:50]--[2013-03-26 Tue 21:15] =>  0:25
       :END:
-***** NEXT Prepare slides
+***** DONE Prepare slides
+      - State "DONE"       from "NEXT"       [2013-06-25 Tue 21:14]
       :PROPERTIES:
       :ID:       9475d3d5-4c59-4ed4-b159-03ceaacd6067
       :END:
@@ -1940,7 +1950,8 @@ Cabo Frio, a beautiful beach city near Rio De Janeiro, from June 3 to June 7, 20
 
 **** Notes
 See also [[notes:MR2908056][MR2908056-notes]]
-**** NEXT Make outline
+**** DONE Make outline
+     - State "DONE"       from "NEXT"       [2013-06-25 Tue 21:16]
      :PROPERTIES:
      :ID:       7c920b07-968d-4193-bc69-15ee5b971a79
      :END:

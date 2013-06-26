@@ -1360,7 +1360,8 @@ Put final exam conditions - 2 pages notes allowed.
        :LOGBOOK:
        CLOCK: [2013-03-26 Tue 15:45]--[2013-03-26 Tue 17:06] =>  1:21
        :END:
-****** NEXT Change Ziran Liu's grade to C-
+****** DONE Change Ziran Liu's grade to C-
+       - State "DONE"       from "NEXT"       [2013-06-25 Tue 21:18]
        :PROPERTIES:
        :ID:       c015bc87-d040-4f87-bb51-2ec2c18f65d9
        :END:
@@ -3474,8 +3475,10 @@ http://tutorial.math.lamar.edu/
 
 ** Students
 *** References
-**** Write Reference letter for Joel Pazol
-     DEADLINE: <2013-06-28 Fri>
+**** TODO Write Reference letter for Joel Pazol
+     DEADLINE: 
+<2013-06-28 Fri>
+     - State "TODO"       from "DONE"       [2013-06-25 Tue 21:13]
      :PROPERTIES:
      :ID:       f220f7b9-a94a-4120-9757-4bd7dbd25cab
      :END:
