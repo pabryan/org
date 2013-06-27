@@ -567,7 +567,9 @@ Update this based on Bo's comments.
 [2012-12-17 Mon 13:55]
 
 *** Winter 2013
-**** TODO MATH142B Winter 2012					   :MATH142B:
+
+**** DONE MATH142B Winter 2012					   :MATH142B:
+     - State "DONE"       from "TODO"       [2013-06-26 Wed 19:39]
      - State "TODO"       from "DONE"       [2013-03-27 Wed 09:53] \\
        Need to update a student's grade.
      - State "DONE"       from "TODO"       [2013-03-26 Tue 20:29]
