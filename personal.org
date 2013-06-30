@@ -509,9 +509,9 @@ Exercise is daily, the other two can be 1-2 days each.
 [2013-01-05 Sat 13:12]
 ** Practices
 *** People/blogs
-[[http://www.alkavadlo.com/]]
-[[http://daretoevolve.tv/]]
+**** Equinox
 [[http://q.equinox.com]]
+**** Ido Portal
 [[http://idoportal.blogspot.com/search?updated-min=2009-01-01T00:00:00%2B02:00&updated-max=2010-01-01T00:00:00%2B02:00&max-results=46]]
 [[http://www.eatmoveimprove.com]]
 *** Tasks
@@ -633,6 +633,17 @@ http://graycook.com/
 http://www.marksdailyapple.com/primal-blueprint-workout-plan-basics/#axzz2XZlGrvFR
 http://primalblueprint.com/
 
+*** People
+**** Chris Guillebeau
+    :PROPERTIES:
+    :ID:       b817a2d9-d618-44ac-9771-8bac94de626a
+    :END:
+[2013-01-03 Thu 12:59]
+[[http://chrisguillebeau.com/]]
+**** Al Kavadlo
+[[http://www.alkavadlo.com/]]
+*** Dare To Evolve
+[[http://daretoevolve.tv/]]
 ** Food
 *** DONE Research healthy dining website  
    - State "DONE"       from "TODO"       [2012-11-10 Sat 13:32]
@@ -644,7 +655,6 @@ Healthydiningfinder.com
   :ID:       d8fdf5d8-3f41-4dbf-b31e-79f6dbb260ea
   :END:
 http://blog.zocdoc.com/does-eating-tomatoes-reduce-your-risk-of-prostate-cancer-fact-vs-myth/
-
 
 ** Tasks
 *** NEXT Make reminders
@@ -1136,12 +1146,23 @@ contact: [[mailto:rosecanyon@san.rr.com][rosecanyon@san.rr.com]], 858-597-0220
   :PROPERTIES:
   :ID:       0c261d56-d97d-46a5-9e2e-78515bca1ddd
   :END:
-** TODO read blogs, newsletters etc.
+** Tasks
+*** TODO Sort out reading list
+  :LOGBOOK:
+  CLOCK: [2013-03-19 Tue 11:20]--[2013-03-19 Tue 11:22] =>  0:02
+  :END:
+   :PROPERTIES:
+   :ID:       9ca939be-4f92-4075-babc-7b180b57edb9
+   :END:
+[2013-03-19 Tue 11:20]
+This should be a place where I put links to articles, books, emails etc. They can be tagged of course. Should I also have a paper folder for things like journals, magazines etc.? The archive is of course something else that should go here. It might be nice to link this with newsreader capabilities too.
+I should also organise books that I've read/want in some sort of org structure with links to say good reads and sorted using categories/tags etc. found on the web e.g. at goodreads.
+*** TODO read blogs, newsletters etc.
    :PROPERTIES:
    :ID:       d9f54b25-d4ed-4a9a-ae3c-12d6749620de
    :END:
 [[http://thesiswhisperer.com]]
-** CANCELLED Get Windsor McCay books
+*** CANCELLED Get Windsor McCay books
    - State "CANCELLED"  from "TODO"       [2012-11-10 Sat 13:40] \\
      I'm not that intersted after all.
   CLOCK: [2012-10-15 Mon 12:10]--[2012-10-15 Mon 12:11] =>  0:01
@@ -1149,7 +1170,7 @@ contact: [[mailto:rosecanyon@san.rr.com][rosecanyon@san.rr.com]], 858-597-0220
    :ID:       6245fd73-b95b-4acd-baca-f743a0bf5744
    :END:
 [2012-10-15 Mon 12:10]
-** DONE Read kp newsletter
+*** DONE Read kp newsletter
    - State "DONE"       from "TODO"       [2012-11-10 Sat 13:42]
 [[http://kaiserpermanente-mail.org/14e102af8layfousiaj5hioyaaaaaa2j4zxwaqctfoqyaaaaa/C?V=bF9pbmRleAEBcHJvZmlsZV9pZAExNzY1NTkyNTU2AUZSU1RfTk0BUEFVTAF6aXBfY29kZQEBX1dBVkVfSURfATEzNDg5OTA2MAFfUExJU1RfSURfATc3NzAyNTkBZ19pbmRleAEBZW1haWxfYWRkcgFwYWJyeWFuQGdtYWlsLmNvbQFfU0NIRF9UTV8BMjAxMjEwMTYxMTAwMDABcHJvZmlsZV9rZXkBNTUwMDAxNDg2MjgyMg%3D%3D&hfRgPQxxOsF3fqchSPOhjw][newsletter]]
   CLOCK: [2012-10-18 Thu 10:46]--[2012-10-18 Thu 10:46] =>  0:00
@@ -1199,25 +1220,7 @@ contact: [[mailto:rosecanyon@san.rr.com][rosecanyon@san.rr.com]], 858-597-0220
      :ID:       ab8707f0-a7b7-46c0-95f5-323c80747707
      :END:
 
-** TODO Check out Chris Guillebeau
-  :LOGBOOK:
-  :END:
-   :PROPERTIES:
-   :ID:       b817a2d9-d618-44ac-9771-8bac94de626a
-   :END:
-[2013-01-03 Thu 12:59]
-[[http://chrisguillebeau.com/]]
-** TODO Sort out reading list
-  :LOGBOOK:
-  CLOCK: [2013-03-19 Tue 11:20]--[2013-03-19 Tue 11:22] =>  0:02
-  :END:
-   :PROPERTIES:
-   :ID:       9ca939be-4f92-4075-babc-7b180b57edb9
-   :END:
-[2013-03-19 Tue 11:20]
-This should be a place where I put links to articles, books, emails etc. They can be tagged of course. Should I also have a paper folder for things like journals, magazines etc.? The archive is of course something else that should go here. It might be nice to link this with newsreader capabilities too.
-I should also organise books that I've read/want in some sort of org structure with links to say good reads and sorted using categories/tags etc. found on the web e.g. at goodreads.
-* Car									:CAR:
+* Car 									:CAR:
   :PROPERTIES:
   :ID:       2f359985-69e8-41ba-853e-34ec8ce703c3
   :END:
