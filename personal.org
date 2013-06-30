@@ -1192,8 +1192,9 @@ contact: [[mailto:rosecanyon@san.rr.com][rosecanyon@san.rr.com]], 858-597-0220
     :END:
 
 *** Alexander Technique
-**** TODO Return books
+**** DONE Return books
      DEADLINE: <2013-06-27 Thu>
+     - State "DONE"       from "TODO"       [2013-06-30 Sun 13:27]
      :PROPERTIES:
      :ID:       ab8707f0-a7b7-46c0-95f5-323c80747707
      :END:
