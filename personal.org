@@ -25,25 +25,36 @@ END:
 322271627
 ** Budget
 #+TBLNAME: MTHBUDGET
-| Desc        |   Amt |
-|-------------+-------|
-| Rent        |  1431 |
-| Electricity |    75 |
-| Phone       |    90 |
-| TV/Internet |    85 |
-| Insurance   |    90 |
-| Petrol      |    30 |
-| Comics      |    60 |
-| Cloud       |    13 |
-| tritoncash  |    25 |
-| Pay         | -3800 |
-| Organic Box |   250 |
-| Weekly Food |   200 |
-| Costco      |   250 |
-| Australia   |   900 |
-|             |       |
-| Total       |  -301 |
-   #+TBLFM: @12$2=250::@13$2=4 * 50::@15$2=remote(Australia,@7$2)::@17$2=vsum(@2$2..@16$2)
+| Desc            |   Amt |
+|-----------------+-------|
+| Rent            |  1431 |
+| Electricity     |    75 |
+| Phone           |    90 |
+| TV/Internet     |    85 |
+| Insurance       |    90 |
+|                 |       |
+| Fixed SubTotal  |       |
+|                 |       |
+| Petrol          |    30 |
+| Comics          |    60 |
+| Cloud           |    13 |
+| tritoncash      |    25 |
+|                 |       |
+| Extras Subtotal |       |
+|                 |       |
+|                 |       |
+| Organic Box     |   250 |
+| Weekly Food     |   200 |
+| Costco          |   250 |
+|                 |       |
+| Food            |       |
+|                 |       |
+| Australia       |   900 |
+|                 |       |
+| Pay             | -3800 |
+|                 |       |
+| Total           |  -301 |
+   #+TBLFM: @18$2=250::@19$2=4 * 50::@24$2=remote(Australia,@7$2)::@28$2=vsum(@2$2..@27$2)
 
 #+TBLNAME: Australia
 | Desc       |  Amt |
