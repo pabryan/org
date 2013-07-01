@@ -117,48 +117,8 @@ END:
 | Tot  |   0 |
    #+TBLFM: @5$2=vsum(@2$2..@4$2)
    
-** NEXT Fill in Authority to operate forms for Lily and Remy
-   :PROPERTIES:
-   :ID:       6d8291ec-3d5b-42ac-ba61-ed8a4abfe53d
-   :END:
-Scan them and email them to commbank. Also make sure netbank access is setup.
-** TODO sort out personal finances
-   :PROPERTIES:
-   :ID:       93a33ee0-24df-416f-a1a0-2058bac243a7
-   :END:
-*** TODO Configure org ledger for managing budget
-  CLOCK: [2012-11-06 Tue 15:56]--[2012-11-06 Tue 16:21] =>  0:25
-    :PROPERTIES:
-    :ID:       95b3661c-7107-49a1-9d86-568971a821aa
-    :END:
-[2012-11-06 Tue 15:56]
-[[http://orgmode.org/worg/org-contrib/babel/languages/ob-doc-ledger.html]]
-[[http://sachachua.com/blog/2010/11/emacs-recording-ledger-entries-with-org-capture-templates/]]
-
-**** NEXT Enter bank data into ledger using icvs2ledger
-     :PROPERTIES:
-     :ID:       057af9b1-ad64-44d5-a771-a9bc6d1100fe
-     :END:
-**** TODO Review ledger tutorial and note down what my setup will be
-     :PROPERTIES:
-     :ID:       7c9fe3e1-0354-4767-8ded-8eae8aabbe3e
-     :END:
-*** DONE Make list of montly expenses
-    - State "DONE"       from "NEXT"       [2012-11-30 Fri 13:52]
-
-  CLOCK: [2012-10-14 Sun 19:57]--[2012-10-14 Sun 19:58] =>  0:01
-   :PROPERTIES:
-   :ID:       460e587d-ea56-4b13-94a1-f487579e42fe
-   :END:
-  [2012-10-14 Sun 19:57]
-*** TODO Track spending
-    :PROPERTIES:
-    :ID:       ec3df972-e266-4e74-ab9f-392e4920b528
-    :END: 
-- collate bank statements
-- scan reciepts and enter into ledger/org mode
-
-** TODO Pay rent
+** Bills 
+*** TODO Pay rent
    SCHEDULED: <2013-07-01 Mon +1m>
    - State "DONE"       from "TODO"       [2013-06-05 Wed 16:30]
    - State "DONE"       from "TODO"       [2013-05-02 Thu 11:54]
@@ -182,31 +142,73 @@ Scan them and email them to commbank. Also make sure netbank access is setup.
 Use account A11078844
 [[https://act.ucsd.edu/studentBilling/billing]]
 
-
-** TODO Pay ATT
-   DEADLINE: <2013-07-04 Thu +1m -5d>
+*** TODO Pay ATT
+   DEADLINE: <2013-08-04 Sun +1m -5d>
+   - State "DONE"       from "TODO"       [2013-07-01 Mon 09:39]
    - State "DONE"       from "TODO"       [2013-06-02 Sun 11:23]
    - State "DONE"       from "TODO"       [2013-05-02 Thu 11:54]
    - State "DONE"       from "TODO"       [2013-04-02 Tue 21:33]
    :PROPERTIES:
-   :LAST_REPEAT: [2013-06-02 Sun 11:23]
+   :LAST_REPEAT: [2013-07-01 Mon 09:39]
    :ID:       137987c4-8151-42f0-bfad-b1e06d2cd512
    :END:
 [[http://www.att.com/]]
 
-** Pay Ben Chow $180
+** Tasks
+*** NEXT Fill in Authority to operate forms for Lily and Remy
+   :PROPERTIES:
+   :ID:       6d8291ec-3d5b-42ac-ba61-ed8a4abfe53d
+   :END:
+Scan them and email them to commbank. Also make sure netbank access is setup.
+*** TODO sort out personal finances
+    :PROPERTIES:
+    :ID:       93a33ee0-24df-416f-a1a0-2058bac243a7
+    :END:
+**** TODO Configure org ledger for managing budget
+  CLOCK: [2012-11-06 Tue 15:56]--[2012-11-06 Tue 16:21] =>  0:25
+    :PROPERTIES:
+    :ID:       95b3661c-7107-49a1-9d86-568971a821aa
+    :END:
+[2012-11-06 Tue 15:56]
+[[http://orgmode.org/worg/org-contrib/babel/languages/ob-doc-ledger.html]]
+[[http://sachachua.com/blog/2010/11/emacs-recording-ledger-entries-with-org-capture-templates/]]
+
+***** NEXT Enter bank data into ledger using icvs2ledger
+      :PROPERTIES:
+      :ID:       057af9b1-ad64-44d5-a771-a9bc6d1100fe
+      :END:
+***** TODO Review ledger tutorial and note down what my setup will be
+      :PROPERTIES:
+      :ID:       7c9fe3e1-0354-4767-8ded-8eae8aabbe3e
+      :END:
+**** DONE Make list of montly expenses
+     - State "DONE"       from "NEXT"       [2012-11-30 Fri 13:52]
+
+   CLOCK: [2012-10-14 Sun 19:57]--[2012-10-14 Sun 19:58] =>  0:01
+    :PROPERTIES:
+    :ID:       460e587d-ea56-4b13-94a1-f487579e42fe
+    :END:
+   [2012-10-14 Sun 19:57]
+**** TODO Track spending
+    :PROPERTIES:
+    :ID:       ec3df972-e266-4e74-ab9f-392e4920b528
+    :END: 
+- collate bank statements
+- scan reciepts and enter into ledger/org mode
+
+*** TODO Pay Ben Chow $180
   CLOCK: [2012-10-17 Wed 08:22]--[2012-10-17 Wed 08:22] =>  0:00
    :PROPERTIES:
    :ID:       a636e0f6-ab58-46c1-b32a-0a0d54b62eba
    :END:
 [2012-10-17 Wed 08:22]
-** Pay Lily $2000
+*** TODO Pay Lily $2000
   CLOCK: [2012-10-19 Fri 14:34]--[2012-10-19 Fri 14:34] =>  0:00
 [2012-10-19 Fri 14:34]
 
-** Pay Remy $3000
+*** TODO Pay Remy $3000
 
-** TODO Set up ledger
+*** TODO Set up ledger
   CLOCK: [2012-11-16 Fri 22:20]--[2012-11-16 Fri 22:21] =>  0:01
   :PROPERTIES:
   :ID:       247a6496-d4b6-40e8-9bf4-6ba2a10df667
@@ -214,7 +216,7 @@ Use account A11078844
 [2012-11-16 Fri 22:20]
 [[http://lwn.net/Articles/501681/]]
 
-** DONE Transcribe from Bei Da notebook: budget
+*** DONE Transcribe from Bei Da notebook: budget
    - State "DONE"       from "TODO"       [2012-12-09 Sun 20:28]
   :LOGBOOK:
   CLOCK: [2012-11-20 Tue 11:03]--[2012-11-20 Tue 11:04] =>  0:01
@@ -223,7 +225,8 @@ Use account A11078844
   :ID:       4e1b533f-f42a-427f-b47e-1cf5f2327363
   :END:
 [2012-11-20 Tue 11:03]
-** TODO Call AT&T
+*** DONE Call AT&T
+    - State "DONE"       from "TODO"       [2013-07-01 Mon 09:43]
   :LOGBOOK:
   :END:
   :PROPERTIES:
@@ -232,7 +235,8 @@ Use account A11078844
 [2012-11-24 Sat 20:43]
 Change bill cycle
 Pay current bill late
-** TODO email ASG
+*** DONE email ASG
+    - State "DONE"       from "TODO"       [2013-07-01 Mon 09:43]
   :LOGBOOK:
   :END:
   :PROPERTIES:
@@ -240,7 +244,7 @@ Pay current bill late
   :END:
 [2012-11-24 Sat 20:44]
 Can we suspend payment for 6 months
-** TODO Contact commbank
+*** TODO Contact commbank
   :LOGBOOK:
   :END:
   :PROPERTIES:
@@ -249,7 +253,7 @@ Can we suspend payment for 6 months
 [2012-11-24 Sat 20:44]
 Can we get a better deal on visa?
 Can we suspend loan repayments for a few months?
-** DONE Pay ATT phone bil
+*** DONE Pay ATT phone bil
    - State "DONE"       from "TODO"       [2012-12-01 Sat 09:27]
   :LOGBOOK:
   CLOCK: [2012-11-30 Fri 14:51]--[2012-11-30 Fri 14:52] =>  0:01
@@ -259,7 +263,8 @@ Can we suspend loan repayments for a few months?
    :END:
 [2012-11-30 Fri 14:51]
 <2012-12-01 Sat>
-** TODO Buy car
+*** DONE Buy car
+    - State "DONE"       from "TODO"       [2013-07-01 Mon 09:43]
   :LOGBOOK:
   :END:
    :PROPERTIES:
@@ -267,7 +272,7 @@ Can we suspend loan repayments for a few months?
    :END:
 [2012-12-18 Tue 11:33]
 
-** DONE Check insurance
+*** DONE Check insurance
   DEADLINE: <2012-12-29 Sat> SCHEDULED: <2012-12-23 Sun>
   - State "DONE"       from "NEXT"       [2012-12-29 Sat 15:57]
   :LOGBOOK:
@@ -278,7 +283,8 @@ Can we suspend loan repayments for a few months?
    :END:
 [2012-12-20 Thu 15:17]
 
-** TODO Sort out new budget (including car insurance)
+*** DONE Sort out new budget (including car insurance)
+    - State "DONE"       from "TODO"       [2013-07-01 Mon 09:44]
   :LOGBOOK:
   :END:
    :PROPERTIES:
@@ -286,7 +292,8 @@ Can we suspend loan repayments for a few months?
    :END:
 [2012-12-29 Sat 16:37]
 
-** TODO Check out tax
+*** DONE Check out tax
+    - State "DONE"       from "TODO"       [2013-07-01 Mon 09:43]
   :LOGBOOK:
   :END:
    :PROPERTIES:
@@ -294,14 +301,16 @@ Can we suspend loan repayments for a few months?
    :END:
 [2013-01-17 Thu 16:51]
 
-** TODO Cancel rent insurance
+*** DONE Cancel rent insurance
+    - State "DONE"       from "TODO"       [2013-07-01 Mon 09:43]
   :LOGBOOK:
   :END:
    :PROPERTIES:
    :ID:       d77fc581-271c-47f9-b90d-de1304373228
    :END:
 [2013-01-28 Mon 19:48]
-** TODO Cancel shotime and HBO
+*** DONE Cancel shotime and HBO
+    - State "DONE"       from "TODO"       [2013-07-01 Mon 09:43]
   :LOGBOOK:
   :END:
    :PROPERTIES:
