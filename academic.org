@@ -505,6 +505,7 @@ This proves the inequality we need.  The remaining problem is to remove the symm
 [[file:refs.org::#MR2946930][Contracting convex immersed closed plane curves with slow speed of curvature]]
 
 **** TODO Ricci isoperimetric profile			     :RICCI_ISO_COMP:
+     DEADLINE: <2013-07-31 Wed>
    :LOGBOOK:
    :END:
 [[file:~/working/academic/research/ricci_surfaces_isoperimetric_comparison]]
@@ -665,6 +666,7 @@ Try again to make this exponential barrier work.
       :ID:       60cbd811-022c-4afa-bb52-bc82b8694314
       :END:			     
 **** TODO Pipe Flows						  :PIPE_FLOW:
+     DEADLINE: <2013-07-31 Wed>
    :PROPERTIES:
    :ID:       cf90c8f0-dc09-44d4-87d4-f7000acc2ba1
    :END:

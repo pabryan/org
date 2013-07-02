@@ -52,10 +52,12 @@ use org-mode to write content, css to render
   :CATEGORY: Teaching
   :ID:       f63ebcdd-e3a9-40ec-8e3d-616bac271988
   :END:
-** Teaching Pondering
-   :LOGBOOK:
-   CLOCK: [2013-02-15 Fri 10:05]--[2013-02-15 Fri 10:28] =>  0:23
-   :END:
+** Clocking
+*** Teaching Pondering
+    :LOGBOOK:
+    CLOCK: [2013-02-15 Fri 10:05]--[2013-02-15 Fri 10:28] =>  0:23
+    :END:
+*** Course Organisation
 ** Grading scale
 |  Score | Grade |
 |--------+-------|
