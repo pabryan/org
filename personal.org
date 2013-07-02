@@ -129,7 +129,8 @@ END:
    
 ** Bills 
 *** TODO Pay rent
-   SCHEDULED: <2013-07-01 Mon +1m>
+    SCHEDULED: <2013-08-01 Thu +1m>
+    - State "DONE"       from "TODO"       [2013-07-02 Tue 09:35]
    - State "DONE"       from "TODO"       [2013-06-05 Wed 16:30]
    - State "DONE"       from "TODO"       [2013-05-02 Thu 11:54]
    - State "DONE"       from "TODO"       [2013-04-02 Tue 21:33]
@@ -141,11 +142,11 @@ END:
    :LOGBOOK:
    CLOCK: [2013-02-01 Fri 14:42]--[2013-02-01 Fri 14:57] =>  0:15
    :END:
-   DEADLINE: <2013-07-05 Fri +1m>
+   DEADLINE: <2013-08-05 Mon +1m>
 
    :PROPERTIES:
    :ID:       ea07bf7b-9f89-49bf-90db-3e167baff163
-   :LAST_REPEAT: [2013-06-05 Wed 16:30]
+   :LAST_REPEAT: [2013-07-02 Tue 09:35]
    :END:
    [2012-10-17 Wed 14:44]
 
