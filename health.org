@@ -8,7 +8,8 @@
 
 ** Tracking
 *** NEXT Exercise
-    SCHEDULED: <2013-07-01 Mon .+1d/2d>
+    SCHEDULED: <2013-07-02 Tue .+1d/2d>
+    - State "DONE"       from "NEXT"       [2013-07-01 Mon 13:28]
     - State "DONE"       from "NEXT"       [2013-06-30 Sun 13:28]
     - State "DONE"       from "NEXT"       [2013-06-29 Sat 13:40]
     - State "DONE"       from "NEXT"       [2013-06-28 Fri 20:40]
@@ -187,7 +188,8 @@
     :END:
 
 *** NEXT Afternoon Relax
-    SCHEDULED: <2013-07-01 Mon .+1d/2d>
+    SCHEDULED: <2013-07-02 Tue .+1d/2d>
+    - State "DONE"       from "NEXT"       [2013-07-01 Mon 16:38]
     - State "DONE"       from "NEXT"       [2013-06-30 Sun 17:38]
     - State "DONE"       from "NEXT"       [2013-06-29 Sat 16:40]
     - State "DONE"       from "NEXT"       [2013-06-28 Fri 16:40]

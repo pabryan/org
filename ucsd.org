@@ -1546,6 +1546,7 @@ Ho Yang copied off Sirong Chen on the final.
        :END:
 
 ****** NEXT Check Li Yanhui's final grade
+       DEADLINE: <2013-07-05 Fri>
        :PROPERTIES:
        :ID:       ee7c04fa-7acc-4074-8237-62f38a1dbea0
        :END:
@@ -2385,7 +2386,8 @@ CLOCK: [2013-04-08 Mon 15:00]--[2013-04-08 Mon 16:12] =>  0:59
        :LOGBOOK:
        CLOCK: [2013-06-10 Mon 11:19]--[2013-06-10 Mon 11:32] =>  0:13
        :END:
-**** DONE MATH20D Spring 2013					    :MATH20D:
+**** TODO MATH20D Spring 2013					    :MATH20D:
+     - State "TODO"       from "DONE"       [2013-07-02 Tue 09:42]
      - State "DONE"       from "TODO"       [2013-06-20 Thu 16:38]
     :PROPERTIES:
     :ID:       01742e1a-c15f-4aab-ada0-59725c2e73e4
@@ -2531,6 +2533,9 @@ Send exact dates of travel, destination/purpose of trip, and arrangements made f
 - [X] Douglas Myers-Turnbull C- to D!
        A08531289
        775026
+****** NEXT Check Ben Seaman's grade
+       DEADLINE: <2013-07-05 Fri>
+See holding email.
 ***** Clocking							   :CLOCKING:
 ****** Admin
 ****** Office hours
