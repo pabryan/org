@@ -1,3 +1,15 @@
 #+FILETAGS: REFILE
  
 
+* TODO organisation project
+  :LOGBOOK:
+  CLOCK: [2013-07-03 Wed 10:06]--[2013-07-03 Wed 10:09] =>  0:03
+  :END:
+[2013-07-03 Wed 10:06]
+
+Make a project that includes
+
+- org files exported to website
+- sync org-mode with other sources like goodreads,feedly,pocket,evernote etc.
+- html5 org mode page that can take updates like mobileorg
+

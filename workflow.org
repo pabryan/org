@@ -1166,6 +1166,7 @@ Put my common setup in it's own config and include from the .sss/config file. Th
   :END:
 ** Organisation
   :LOGBOOK:
+  CLOCK: [2013-07-03 Wed 10:04]--[2013-07-03 Wed 10:06] =>  0:02
   CLOCK: [2013-07-02 Tue 16:10]--[2013-07-02 Tue 16:27] =>  0:17
   CLOCK: [2013-07-02 Tue 09:52]--[2013-07-02 Tue 09:53] =>  0:01
   CLOCK: [2013-07-02 Tue 09:35]--[2013-07-02 Tue 09:44] =>  0:09
@@ -1849,6 +1850,7 @@ For the following, do I just use the existing diary.org capture template or perh
    - State "DONE"       from "NEXT"       [2013-01-10 Thu 09:22]
    - State "DONE"       from "NEXT"       [2013-01-09 Wed 07:19]
    :LOGBOOK:
+   CLOCK: [2013-07-03 Wed 10:09]
    CLOCK: [2013-07-02 Tue 09:44]--[2013-07-02 Tue 09:52] =>  0:08
    CLOCK: [2013-06-15 Sat 10:21]--[2013-06-15 Sat 10:52] =>  0:31
    CLOCK: [2013-06-11 Tue 10:35]--[2013-06-11 Tue 10:36] =>  0:01
