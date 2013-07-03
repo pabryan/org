@@ -37,6 +37,20 @@ Go through the list and categorise what's there.
     :ID:       bdce6193-4159-4995-a3b3-ca8d073698d9
     :END:
 [2013-03-19 Tue 13:46]
+*** TODO organisation project
+    SCHEDULED: <2013-07-05 Fri>
+  :LOGBOOK:
+  CLOCK: [2013-07-03 Wed 10:06]--[2013-07-03 Wed 10:09] =>  0:03
+  :END:
+[2013-07-03 Wed 10:06]
+
+Make a project that includes
+
+- org files exported to website
+- sync org-mode with other sources like goodreads,feedly,pocket,evernote etc.
+- html5 org mode page that can take updates like mobileorg
+
+
 ** Task list to sort
 **** TODO Set up TAGS
      :PROPERTIES:
@@ -126,7 +140,7 @@ will keep reminding me until it's done.
      :END:
 ***** CANCELLED Put calendar data into org-mode
       - State "CANCELLED"  from "SOMEDAY"       [2012-11-30 Fri 13:44] \\
-       	This is just using org-mode with timestamps!
+	This is just using org-mode with timestamps!
       :PROPERTIES:
       :ID:       c69116a8-6655-4429-bbac-73a314ef2967
       :END:
@@ -1933,7 +1947,7 @@ For the following, do I just use the existing diary.org capture template or perh
 I probably don't need this!
 
 
-** NEXT Weekly Review [2/11]
+** NEXT Weekly Review [8/11]
    SCHEDULED: <2013-07-01 Mon ++1w>
    - State "DONE"       from "NEXT"       [2013-06-23 Sun 17:05]
    - State "DONE"       from "NEXT"       [2013-04-12 Fri 09:57]
@@ -1992,15 +2006,15 @@ What to review:
 - [X] Check holding directory
   [[file:~/holding]]
 - [X] Check holding email folder
-- [ ] Review weekly agenda =F12 a w//=
-- [ ] Check clocking data for past week =v c=
+- [X] Review weekly agenda =F12 a w//=
+- [X] Check clocking data for past week =v c=
   - fix up any errors
-- [ ] Review clock report for past week =R=
+- [X] Review clock report for past week =R=
   - Check where we spent time (too much or too little) and rectify this week
-- [ ] Look at entire agenda for today  =F12 SPC=
-- [ ] Review projects =F12 SPC //= and =P= repeatedly to view each project
+- [X] Look at entire agenda for today  =F12 SPC=
+- [X] Review projects =F12 SPC //= and =P= repeatedly to view each project
   - Unstick stuck projects!
-- [ ] Check uncommited work
+- [X] Check uncommited work
 - [ ] Refile tasks
 - [ ] [[*Weekly%20collection%20and%20clean%20up%20%5B0/4%5D][Weekly collection and clean up {0/4}]]
 
