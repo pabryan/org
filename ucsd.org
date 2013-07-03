@@ -1553,8 +1553,10 @@ Ho Yang copied off Sirong Chen on the final.
        :ID:       cbb8c412-f59a-484e-822b-47c79298c149
        :END:
 
-****** NEXT Check Li Yanhui's final grade
+****** CANCELLED Check Li Yanhui's final grade
        DEADLINE: <2013-07-05 Fri>
+       - State "CANCELLED"  from "NEXT"       [2013-07-03 Wed 10:10] \\
+	 He never came to go over his final and check his grade.
        :PROPERTIES:
        :ID:       ee7c04fa-7acc-4074-8237-62f38a1dbea0
        :END:
