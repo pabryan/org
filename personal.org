@@ -215,9 +215,15 @@ Scan them and email them to commbank. Also make sure netbank access is setup.
 [2012-10-17 Wed 08:22]
 *** TODO Pay Lily $2000
   CLOCK: [2012-10-19 Fri 14:34]--[2012-10-19 Fri 14:34] =>  0:00
+    :PROPERTIES:
+    :ID:       1719f77c-a298-4c62-8fda-9b902526678b
+    :END:
 [2012-10-19 Fri 14:34]
 
 *** TODO Pay Remy $3000
+    :PROPERTIES:
+    :ID:       ee9f1a73-bf3f-45a3-9657-c9bc348ea58b
+    :END:
 
 *** TODO Set up ledger
   CLOCK: [2012-11-16 Fri 22:20]--[2012-11-16 Fri 22:21] =>  0:01
@@ -1315,7 +1321,7 @@ Catch the 41. Get off at Derrik Dr. after Claremont Mesa and before Balboa.
 ** Insurance
 *** Tasks
 **** NEXT Print Geico cards
-     DEADLINE: <2013-06-28 Fri>
+     DEADLINE: <2013-07-04 Thu>
      :PROPERTIES:
      :ID:       670bff2b-5203-4c43-8907-d1b023547350
      :END:
