@@ -8,10 +8,12 @@
 
 ** Tracking
 *** NEXT Exercise
+    - State "DONE"       from "NEXT"       [2013-07-03 Wed 12:27]
     :LOGBOOK:
+    CLOCK: [2013-07-03 Wed 11:26]--[2013-07-03 Wed 12:27] =>  1:01
     CLOCK: [2013-07-02 Tue 10:31]--[2013-07-02 Tue 11:25] =>  0:54
     :END:
-    SCHEDULED: <2013-07-03 Wed .+1d/2d>
+    SCHEDULED: <2013-07-04 Thu .+1d/2d>
     - State "DONE"       from "NEXT"       [2013-07-02 Tue 16:24]
     - State "DONE"       from "NEXT"       [2013-07-01 Mon 13:28]
     - State "DONE"       from "NEXT"       [2013-06-30 Sun 13:28]
@@ -96,7 +98,7 @@
     :STYLE:    habit
     :REPEAT_TO_STATE: NEXT
     :ID:       8d56b2ef-1b49-4dc4-b701-1d021a293fa4
-    :LAST_REPEAT: [2013-07-02 Tue 16:24]
+    :LAST_REPEAT: [2013-07-03 Wed 12:27]
     :END:
 
 *** NEXT Morning Mobility
