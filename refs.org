@@ -3,6 +3,7 @@
 
 * MathSciNet							 :mathscinet:
   :PROPERTIES:
+  :COLUMNS: %75ITEM %TAGS
   :ID:       070a5918-a137-43c5-af7f-aa1b21d695db
   :END:
 ** 26 (1940-now) Real functions [See also 54C30]	     :real:functions:
@@ -328,7 +329,7 @@
 :END:
 [[papers:MR3018176][MR3018176-paper]]
 [[bib:MR3018176][MR3018176-bib]]
-*** 53.04   (1959-1972) Minimal surfaces		:MINIMAL:SUBMANIFOLD:
+*** 53.04   (1959-1972) Minimal surfaces		:minimal:submanifold:
 **** Minimal varieties in riemannian manifolds
 :PROPERTIES:
 :Custom_ID: MR0233295
