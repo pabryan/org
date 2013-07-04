@@ -1,8 +1,9 @@
 # \bibliography{~/org/refs.bib}
 #+LINK: notes #%s
 
-* MathSciNet
+* MathSciNet							 :mathscinet:
   :PROPERTIES:
+  :COLUMNS: %TAGS
   :ID:       070a5918-a137-43c5-af7f-aa1b21d695db
   :END:
 ** 26 (1940-now) Real functions [See also 54C30]	     :REAL:FUNCTIONS:
