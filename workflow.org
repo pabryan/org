@@ -1872,7 +1872,7 @@ For the following, do I just use the existing diary.org capture template or perh
    - State "DONE"       from "NEXT"       [2013-01-10 Thu 09:22]
    - State "DONE"       from "NEXT"       [2013-01-09 Wed 07:19]
    :LOGBOOK:
-   CLOCK: [2013-07-04 Thu 09:52]
+   CLOCK: [2013-07-04 Thu 09:52]--[2013-07-04 Thu 09:59] =>  0:07
    CLOCK: [2013-07-03 Wed 10:09]--[2013-07-03 Wed 10:11] =>  0:02
    CLOCK: [2013-07-02 Tue 09:44]--[2013-07-02 Tue 09:52] =>  0:08
    CLOCK: [2013-06-15 Sat 10:21]--[2013-06-15 Sat 10:52] =>  0:31
