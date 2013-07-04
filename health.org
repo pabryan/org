@@ -10,6 +10,7 @@
 *** NEXT Exercise
     - State "DONE"       from "NEXT"       [2013-07-03 Wed 12:27]
     :LOGBOOK:
+    CLOCK: [2013-07-04 Thu 12:19]
     CLOCK: [2013-07-03 Wed 11:26]--[2013-07-03 Wed 12:27] =>  1:01
     CLOCK: [2013-07-02 Tue 10:31]--[2013-07-02 Tue 11:25] =>  0:54
     :END:

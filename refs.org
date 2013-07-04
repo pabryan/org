@@ -1,3 +1,4 @@
+#+COLUMNS: %75ITEM %TAGS
 # \bibliography{~/org/refs.bib}
 #+LINK: notes #%s
 
@@ -138,20 +139,20 @@
 :END:
 [[papers:MR2953850][MR2953850-paper]]
 
-***** Generic mean curvature flow {I}: generic singularities :mcf:singularities:evolution:submanifold:
+***** Generic mean curvature flow {I}: generic singularities :mcf:singularities:evolution:submanifold:hypersurface:
 :PROPERTIES:
 :Custom_ID: MR2993752
 :END:
 [[papers:MR2993752][MR2993752-paper]]
 
-***** Soliton solutions of the mean curvature flow and minimal hypersurfaces :solition:mcf:submanifold:evolution:
+***** Soliton solutions of the mean curvature flow and minimal hypersurfaces :solition:mcf:submanifold:evolution:hypersurface:
 :PROPERTIES:
 :Custom_ID: MR2888198
 :END:
 [[papers:MR2888198][MR2888198-paper]]
 [[bib:MR2888198][MR2888198-bib]]
 **** 53C15   (1973-now) General geometric structures on manifolds (almost complex, almost product structures, etc.) :structures:
-***** Noncommutative {G}auss map				  :gauss_map:
+***** Noncommutative {G}auss map		     :gauss_map:hypersurface:
 :PROPERTIES:
 :Custom_ID: MR1168123
 :END:
@@ -202,199 +203,199 @@
 [[papers:MR0493885][MR0493885-paper]]
 
 **** 53C42   (1980-now) Immersions (minimal, prescribed curvature, tight, etc.) [See also 49Q05, 49Q10, 53A10, 57R40, 57R42] :immersions:submanifold:
-***** Constant mean curvature hypersurfaces in a {L}ie group with a bi-invariant metric :cmc:lie_group:
+***** Constant mean curvature hypersurfaces in a {L}ie group with a bi-invariant metric :cmc:lie_group:hypersurface:
 :PROPERTIES:
 :Custom_ID: MR2002821
 :END:
 [[papers:MR2002821][MR2002821-paper]]
-***** Hypersurfaces of constant curvature in space forms
+***** Hypersurfaces of constant curvature in space forms :cmc:space_form:hypersurface:
 :PROPERTIES:
 :Custom_ID: MR1216008
 :END:
 [[papers:MR1216008][MR1216008-paper]]
 
-***** Hypersurfaces whose tangent geodesics omit a nonempty set
+***** Hypersurfaces whose tangent geodesics omit a nonempty set :space_form:hypersurface:
 :PROPERTIES:
 :Custom_ID: MR1173029
 :END:
 [[papers:MR1173029][MR1173029-paper]]
 
 
-***** Stability of hypersurfaces of constant mean curvature in {R}iemannian manifolds
+***** Stability of hypersurfaces of constant mean curvature in {R}iemannian manifolds :cmc:stability:hypersurface:
 :PROPERTIES:
 :Custom_ID: MR917854
 :END:
 [[papers:MR917854][MR917854-paper]]
 [[bib:MR917854][MR917854-bib]]
 [[MR:MR917854][MR917854-MR]]
-**** 53C44 (2000-now) Geometric evolution equations (mean curvature flow, Ricci flow, etc.)
-***** Curvature bounds by isoperimetric comparison for normalized {R}icci flow on the two-sphere
+**** 53C44 (2000-now) Geometric evolution equations (mean curvature flow, Ricci flow, etc.) :evolution:
+***** Curvature bounds by isoperimetric comparison for normalized {R}icci flow on the two-sphere :ricci_flow:surfaces:isoperimetric:
 :PROPERTIES:
 :Custom_ID: MR2729306
 :END:
 [[papers:MR2729306][MR2729306-paper]]
 
-***** A comparison theorem for the isoperimetric profile under curve-shortening flow
+***** A comparison theorem for the isoperimetric profile under curve-shortening flow :csf:isoperimetric:plane::curves:
 :PROPERTIES:
 :Custom_ID: MR2843240
 :END:
 [[papers:MR2843240][MR2843240-paper]]
-***** Curvature bound for curve shortening flow via distance comparison and a direct proof of {G}rayson's theorem
+***** Curvature bound for curve shortening flow via distance comparison and a direct proof of {G}rayson's theorem :csf:plane:curves:distance:
 :PROPERTIES:
 :Custom_ID: MR2794630
 :END:
 [[papers:MR2794630][MR2794630-paper]]
-***** The affine curve-lengthening flow
+***** The affine curve-lengthening flow			:affine:curves:plane:
 :PROPERTIES:
 :Custom_ID: MR1665677
 :END:
 [[papers:MR1665677][MR1665677-paper]]
 [[bib:MR1665677][MR1665677-bib]]
-***** Non-convergence and instability in the asymptotic behaviour of curves evolving by curvature
+***** Non-convergence and instability in the asymptotic behaviour of curves evolving by curvature :curves:plane:stability:
 :PROPERTIES:
 :Custom_ID: MR1900758
 :END:
 [[papers:MR1900758][MR1900758-paper]]
 [[bib:MR1900758][MR1900758-bib]]
-***** Classification of limiting shapes for isotropic curve flows
+***** Classification of limiting shapes for isotropic curve flows :curves:plane:classification:
 :PROPERTIES:
 :Custom_ID: MR1949167
 :END:
 [[papers:MR1949167][MR1949167-paper]]
 [[bib:MR1949167][MR1949167-bib]]
-***** A relation between mean curvature flow solitons and minimal submanifolds
+***** A relation between mean curvature flow solitons and minimal submanifolds :mcf:solitions:minimal_surfaces:hypersurface:
 :PROPERTIES:
 :Custom_ID: MR1855161
 :END:
 [[papers:MR1855161][MR1855161-paper]]
 [[bib:MR1855161][MR1855161-bib]]
 
-***** Gradient and oscillation estimates and their applications in geometric {PDE
+***** Gradient and oscillation estimates and their applications in geometric {PDE :pde:oscillation:gradient:
 :PROPERTIES:
 :Custom_ID: MR2908056
 :END:
 [[papers:MR2908056][MR2908056-paper]]
 [[bib:MR2908056][MR2908056-bib]]
-***** Singularity formation of embedded curves evolving on surfaces by curvature flow
+***** Singularity formation of embedded curves evolving on surfaces by curvature flow :singularities:csf:surfaces:curves:
 :PROPERTIES:
 :Custom_ID: MR2668967
 :END:
 [[papers:MR2668967][MR2668967-paper]]
 [[bib:MR2668967][MR2668967-bib]]
-***** Singularities in crystalline curvature flows
+***** Singularities in crystalline curvature flows :singularities:curves:plane:
 :PROPERTIES:
 :Custom_ID: MR1902649
 :END:
 [[papers:MR1902649][MR1902649-paper]]
 [[bib:MR1902649][MR1902649-bib]]
-***** Contracting convex immersed closed plane curves with fast speed of curvature
+***** Contracting convex immersed closed plane curves with fast speed of curvature :curves:plane:
 :PROPERTIES:
 :Custom_ID: MR2660457
 :END:
 [[papers:MR2660457][MR2660457-paper]]
 [[bib:MR2660457][MR2660457-bib]]
-***** Convex curves moving homothetically by negative powers of their curvature
+***** Convex curves moving homothetically by negative powers of their curvature :convex:curves:plane:similarity:
 :PROPERTIES:
 :Custom_ID: MR1793674
 :END:
 [[papers:MR1793674][MR1793674-paper]]
 [[bib:MR1793674][MR1793674-bib]]
-***** Non-uniqueness of self-similar shrinking curves for an anisotropic curvature flow
+***** Non-uniqueness of self-similar shrinking curves for an anisotropic curvature flow :curves:plane:similarity:
 :PROPERTIES:
 :Custom_ID: MR2217482
 :END:
 [[papers:MR2217482][MR2217482-paper]]
 [[bib:MR2217482][MR2217482-bib]]
-***** Classification of compact ancient solutions to the curve shortening flow
+***** Classification of compact ancient solutions to the curve shortening flow :csf:curves:ancient:
 :PROPERTIES:
 :Custom_ID: MR2669361
 :END:
 [[papers:MR2669361][MR2669361-paper]]
 [[bib:MR2669361][MR2669361-bib]]
-***** The curve shortening problem
+***** The curve shortening problem				 :csf:curves:
 :PROPERTIES:
 :Custom_ID: MR1888641
 :END:
 [[papers:MR1888641][MR1888641-paper]]
 [[bib:MR1888641][MR1888641-bib]]
-***** Closed type {I} ancient solutions to {R}icci flow
+***** Closed type {I} ancient solutions to {R}icci flow :ricci_flow:singularities:
 :PROPERTIES:
 :Custom_ID: MR2648942
 :END:
 [[papers:MR2648942][MR2648942-paper]]
 [[bib:MR2648942][MR2648942-bib]]
-***** A gap theorem for self-shrinkers of the mean curvature flow in arbitrary codimension
+***** A gap theorem for self-shrinkers of the mean curvature flow in arbitrary codimension :mcf:high_codimension:similarity:
 :PROPERTIES:
 :Custom_ID: MR3018176
 :END:
 [[papers:MR3018176][MR3018176-paper]]
 [[bib:MR3018176][MR3018176-bib]]
 *** 53.04   (1959-1972) Minimal surfaces		:minimal:submanifold:
-**** Minimal varieties in riemannian manifolds
+**** Minimal varieties in riemannian manifolds			 :riemannian:
 :PROPERTIES:
 :Custom_ID: MR0233295
 :END:
 [[papers:MR0233295][MR0233295-paper]]
 [[bib:MR0233295][MR0233295-bib]]
-** 58 (1973-now) Global analysis, analysis on manifolds [See also 32Cxx, 32Fxx, 32Wxx, 46-XX, 47Hxx, 53Cxx] [For geometric integration theory, see 49Q15]
-*** 58E   (1973-now) Variational problems in infinite-dimensional spaces
-**** 58E10   (1973-now) Applications to the theory of geodesics (problems in one independent variable)
-***** A distance comparison principle for evolving curves
+** 58 (1973-now) Global analysis, analysis on manifolds [See also 32Cxx, 32Fxx, 32Wxx, 46-XX, 47Hxx, 53Cxx] [For geometric integration theory, see 49Q15] :global:manifolds:geometry:
+*** 58E   (1973-now) Variational problems in infinite-dimensional spaces :calculus_variations:infinite_dimension:
+**** 58E10   (1973-now) Applications to the theory of geodesics (problems in one independent variable) :geodesics:
+***** A distance comparison principle for evolving curves :csf:evolution:distance:plane:curves:
 :PROPERTIES:
 :Custom_ID: MR1656553
 :END:
 [[papers:MR1656553][MR1656553-paper]]
 [[bib:MR1656553][MR1656553-bib]]
-***** Evolving convex curves
+***** Evolving convex curves		  :csf:convex:plane:evolution:curves:
 :PROPERTIES:
 :Custom_ID: MR1660843
 :END:
 [[papers:MR1660843][MR1660843-paper]]
 [[bib:MR1660843][MR1660843-bib]]
-***** Isoperimetric estimates for the curve shrinking flow in the plane
+***** Isoperimetric estimates for the curve shrinking flow in the plane :isoperimetric:csf:evolution:plane:curves:
 :PROPERTIES:
 :Custom_ID: MR1369140
 :END:
 [[papers:MR1369140][MR1369140-paper]]
 [[bib:MR1369140][MR1369140-bib]]
 
-***** On affine plane curve evolution
+***** On affine plane curve evolution	      :affine:curves:plane:evolution:
 :PROPERTIES:
 :Custom_ID: MR1255274
 :END:
 [[papers:MR1255274][MR1255274-paper]]
 [[bib:MR1255274][MR1255274-bib]]
-***** On the formation of singularities in the curve shortening flow
+***** On the formation of singularities in the curve shortening flow :csf:curves:singularities:evolution:
 :PROPERTIES:
 :Custom_ID: MR1100205
 :END:
 [[papers:MR1100205][MR1100205-paper]]
 [[bib:MR1100205][MR1100205-bib]]
-**** 58E11   (1980-now) Critical metrics
-***** The {H}arnack estimate for the {R}icci flow
+**** 58E11   (1980-now) Critical metrics		   :metrics:critical:
+***** The {H}arnack estimate for the {R}icci flow :harnack:ricci_flow:evolution:
 :PROPERTIES:
 :Custom_ID: MR1198607
 :END:
 [[papers:MR1198607][MR1198607-paper]]
 [[bib:MR1198607][MR1198607-bib]]
-**** 58E12   (1980-now) Applications to minimal surfaces (problems in two independent variables) [See also 49Q05]
-***** Stability of hypersurfaces with constant mean curvature
+**** 58E12   (1980-now) Applications to minimal surfaces (problems in two independent variables) [See also 49Q05] :minimal_surfaces:
+***** Stability of hypersurfaces with constant mean curvature :stability:cmc:hypersurfaces:euclidean:
 :PROPERTIES:
 :Custom_ID: MR731682
 :END:
 [[papers:MR731682][MR731682-paper]]
 [[bib:MR731682][MR731682-bib]]
 [[MR:MR731682][MR731682-MR]]
-**** 58E15   (1973-now) Application to extremal problems in several variables; Yang-Mills functionals [See also 81T13], etc.
-***** Contraction of convex hypersurfaces by their affine normal
+**** 58E15   (1973-now) Application to extremal problems in several variables; Yang-Mills functionals [See also 81T13], etc. :yang_mills:high_dimensino:
+***** Contraction of convex hypersurfaces by their affine normal :convex:hypersurfaces:affine:evolution:
 :PROPERTIES:
 :Custom_ID: MR1424425
 :END:
 [[papers:MR1424425][MR1424425-paper]]
 [[bib:MR1424425][MR1424425-bib]]
-*** 58G Partial differential equations on manifolds; differential operators 
-**** 58G11 Heat and other parabolic equation methods
-***** On the parabolic kernel of the {S}chr\"odinger operator
+*** 58G Partial differential equations on manifolds; differential operators :pde:operators:
+**** 58G11 Heat and other parabolic equation methods		  :parabolic:
+***** On the parabolic kernel of the {S}chr\"odinger operator :kernel:schrodinger:
 :PROPERTIES:
 :Custom_ID: MR834612
 :END:
@@ -459,21 +460,21 @@ I should be able to do the Bochner formula similarly using invariant notation, r
 \]
 Here I need to do some more work since $u \mapsto g(\grad u, \grad u)$ is not a map $\RR \to \RR$. It should just come down to metric compatability and changing the order of covariant derivatives to turn up curvature terms.
 
-***** An expansion of convex hypersurfaces
+***** An expansion of convex hypersurfaces   :convex:hypersurfaces:evolution:
 :PROPERTIES:
 :Custom_ID: MR1085136
 :END:
 [[papers:MR1085136][MR1085136-paper]]
 [[bib:MR1085136][MR1085136-bib]]
-**** 58G30   (1980-1999) Relations with special manifold structures (Riemannian, Finsler, etc.)
-***** Harnack inequalities for evolving hypersurfaces
+**** 58G30   (1980-1999) Relations with special manifold structures (Riemannian, Finsler, etc.) :structures:special:
+***** Harnack inequalities for evolving hypersurfaces :harnack:hypersurfaces:evolution:
 :PROPERTIES:
 :Custom_ID: MR1296393
 :END:
 [[papers:MR1296393][MR1296393-paper]]
 [[bib:MR1296393][MR1296393-bib]]
-*** 58J partial differential equations on manifolds; differential operators
-**** 58J65 Diffusion processes and stochastic analysis on manifolds
+*** 58J partial differential equations on manifolds; differential operators :pde:operators:
+**** 58J65 Diffusion processes and stochastic analysis on manifolds :diffusion:stochastic:
 ***** Liouville theorems for symmetric diffusion operators on complete {R}iemannian manifolds
 :PROPERTIES:
 :Custom_ID: MR2170766
@@ -484,30 +485,31 @@ Here I need to do some more work since $u \mapsto g(\grad u, \grad u)$ is not a 
 
 
 
-* Arxiv
+* Arxiv								      :arxiv:
   :PROPERTIES:
+  :COLUMNS: %75ITEM %TAGS
   :ID:       6ac9b861-65b6-4799-bb71-716b51571ab6
   :END:
-** math.DG
-*** Generalized existence of isoperimetric regions in non-compact Riemannian manifolds and applications to the isoperimetric profile
+** math.DG					      :dg:geometry:manifolds:
+*** Generalized existence of isoperimetric regions in non-compact Riemannian manifolds and applications to the isoperimetric profile :isoperimetric:
 :PROPERTIES:
 :Custom_ID: 2012arXiv1210.1328N
 :END:
 [[papers:2012arXiv1210.1328N][2012arXiv1210.1328N-paper]]
 
-*** Existence of isoperimetric regions in non-compact Riemannian manifolds under Ricci or scalar curvature conditions
+*** Existence of isoperimetric regions in non-compact Riemannian manifolds under Ricci or scalar curvature conditions :isoperimetric:curvature:
 :PROPERTIES:
 :Custom_ID: 2012arXiv1210.0567M
 :END:
 [[papers:2012arXiv1210.0567M][2012arXiv1210.0567M-paper]]
 
-*** A Lie algebraic approach to Ricci flow invariant curvature conditions and Harnack inequalities
+*** A Lie algebraic approach to Ricci flow invariant curvature conditions and Harnack inequalities :lie:ricci_flow:harnack:evolution:
 :PROPERTIES:
 :Custom_ID: 2010arXiv1011.3561W
 :END:
 [[papers:2010arXiv1011.3561W][2010arXiv1011.3561W-paper]]
 [[bib:2010arXiv1011.3561W][2010arXiv1011.3561W-bib]]
-*** On the Distributional Hessian of the Distance Function
+*** On the Distributional Hessian of the Distance Function :distance:riemannian:pde:
 :PROPERTIES:
 :Custom_ID: 2013arXiv1303.1421M
 :END:
@@ -515,9 +517,10 @@ Here I need to do some more work since $u \mapsto g(\grad u, \grad u)$ is not a 
 [[bib:2013arXiv1303.1421M][2013arXiv1303.1421M-bib]]
 * Misc
   :PROPERTIES:
+  :COLUMNS: %75ITEM %TAGS
   :ID:       5724f791-e1ce-4b91-b272-ddf358eb8b58
   :END:
-** Distance comparison principle and Grayson type theorem in the three dimensional curve shortening flow
+** Distance comparison principle and Grayson type theorem in the three dimensional curve shortening flow :csf:distance:curves:three_space:evolution:geometry:
 :PROPERTIES:
 :Custom_ID: GEOM-D-13-00010
 :END:

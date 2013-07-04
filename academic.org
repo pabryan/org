@@ -243,6 +243,7 @@ Decided not to do it.
 ** Open mathematics
 [[http://www.opensourcemath.org/books/calc1-sage/html/granville-calculus.html]]
 [[http://www.opensourcemath.org/]]
+
 * Research
   :PROPERTIES:
   :ID:       44348474-b144-4b4b-a046-12439b2f7727
@@ -1168,8 +1169,6 @@ Sequences of manifolds and convergence. What is smooth convergence? Can it be de
       :END:
 ** Tasks
 *** TODO Organise research papers    
-    :LOGBOOK:
-    :END:
     :PROPERTIES:
     :ID:       27dd1954-9abe-4a87-9bcd-36027c643fdb
     :END:
@@ -1250,10 +1249,12 @@ See also
     :ID:       9defa0b0-c473-4347-9cf3-574714e81f7d
     :END:
      [[file:~/research_resources]]
-**** NEXT Tag papers in ref.org so I can find papers by subject!
+**** DONE Tag papers in ref.org so I can find papers by subject!
      SCHEDULED: <2013-06-17 Mon>
+     - State "DONE"       from "NEXT"       [2013-07-04 Thu 12:18]
   :LOGBOOK:
-  CLOCK: [2013-07-04 Thu 10:26]
+  CLOCK: [2013-07-04 Thu 11:52]--[2013-07-04 Thu 12:18] =>  0:26
+  CLOCK: [2013-07-04 Thu 10:26]--[2013-07-04 Thu 11:06] =>  0:40
   CLOCK: [2013-07-04 Thu 09:59]--[2013-07-04 Thu 10:10] =>  0:11
   CLOCK: [2013-03-01 Fri 13:57]--[2013-03-01 Fri 14:00] =>  0:03
   :END:
