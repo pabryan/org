@@ -1183,6 +1183,7 @@ Put my common setup in it's own config and include from the .sss/config file. Th
   :END:
 ** Organisation
   :LOGBOOK:
+  CLOCK: [2013-07-07 Sun 11:45]
   CLOCK: [2013-07-04 Thu 09:49]--[2013-07-04 Thu 09:52] =>  0:03
   CLOCK: [2013-07-03 Wed 16:31]--[2013-07-03 Wed 16:36] =>  0:05
   CLOCK: [2013-07-03 Wed 11:25]--[2013-07-03 Wed 11:26] =>  0:01
@@ -1790,7 +1791,8 @@ For the following, do I just use the existing diary.org capture template or perh
 - [ ] Write down any thoughts, relections on the day.
 
 ** NEXT Daily Plan [0/2]
-   SCHEDULED: <2013-07-06 Sat .+1d/2d>
+   SCHEDULED: <2013-07-08 Mon .+1d/2d>
+   - State "DONE"       from "NEXT"       [2013-07-07 Sun 11:47]
    - State "DONE"       from "NEXT"       [2013-07-05 Fri 08:55]
    - State "DONE"       from "NEXT"       [2013-07-04 Thu 10:00]
    - State "DONE"       from "NEXT"       [2013-07-03 Wed 10:11]
@@ -1925,7 +1927,7 @@ For the following, do I just use the existing diary.org capture template or perh
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
    :ID:       ef051ee0-1113-4604-b355-450a5a47848b
-   :LAST_REPEAT: [2013-07-05 Fri 21:02]
+   :LAST_REPEAT: [2013-07-07 Sun 11:47]
    :END:
 
 - [ ] Check agenda/focus
