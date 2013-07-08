@@ -108,16 +108,18 @@ Geisel Library room 274
 [MR2993752 Colding, Tobias H.\ and Minicozzi, William P., II,  Generic mean curvature flow I: generic singularities, Ann. of Math. (2) 175 (2012), no. 2, 755--833]
 [[file:refs.org::#MR2993752][Generic mean curvature flow {I}: generic singularities]]
 
-*** NEXT Review MR3018176					      :FOCUS:
+*** DONE Review MR3018176					      :FOCUS:
     SCHEDULED: <2013-07-05 Fri> DEADLINE: <2013-07-12 Fri>
+    - State "DONE"       from "NEXT"       [2013-07-08 Mon 14:07]
     :LOGBOOK:
-    CLOCK: [2013-07-08 Mon 13:03]
+    CLOCK: [2013-07-08 Mon 13:03]--[2013-07-08 Mon 14:07] =>  1:04
     CLOCK: [2013-07-07 Sun 21:03]--[2013-07-07 Sun 22:20] =>  1:17
     :END:
     :PROPERTIES:
     :ID:       95d48b79-3e1a-4b46-852d-f74e6618e6b2
     :END:
 [[file:refs.org::#MR3018176][A gap theorem for self-shrinkers of the mean curvature flow in arbitrary codimension]]
+
 ** CEJM
 *** Editing Manager
     :PROPERTIES:
