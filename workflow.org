@@ -1,7 +1,7 @@
 #+LAST_MOBILE_CHANGE: 2013-01-01 21:22:23
 #+FILETAGS: WORKFLOW
 
-* org-mode
+* org-mode								:ORG:
   :PROPERTIES:
   :ID:       c68e08d3-cbfa-4207-a6e5-f56a3be57ad1
   :END:
@@ -30,14 +30,15 @@ Go through the list and categorise what's there.
 - Filing should be replicated through the org files/file system/email and paper based filing. 
 - I'll need an index to my materials. It may be best to use seperate org files for planning work and for filing work. Of course either can reference the other. - My paper files will by stored by index key which I'll periodically print so I have a paper copy for ease of access.
 
-*** NEXT Get projects in order
+*** DONE Get projects in order
+    - State "DONE"       from "NEXT"       [2013-07-09 Tue 11:11]
   :LOGBOOK:
   :END:
     :PROPERTIES:
     :ID:       bdce6193-4159-4995-a3b3-ca8d073698d9
     :END:
 [2013-03-19 Tue 13:46]
-*** TODO organisation project
+*** TODO org-mode sync/web access
     SCHEDULED: <2013-07-05 Fri>
   :LOGBOOK:
   CLOCK: [2013-07-03 Wed 10:06]--[2013-07-03 Wed 10:09] =>  0:03
@@ -47,14 +48,17 @@ Go through the list and categorise what's there.
     :END:
 [2013-07-03 Wed 10:06]
 
+**** Notes
+
 Make a project that includes
 
 - org files exported to website
-- sync org-mode with other sources like goodreads,feedly,pocket,evernote etc.
+- sync org-mode with other sources like goodreads,feedly,pocket,evernote, facebook etc.
 - html5 org mode page that can take updates like mobileorg
+- sync with google calendar
 
-
-** Task list to sort
+**** NEXT Lay out project plan
+** Task list to sort						    :SOMEDAY:
 **** TODO Set up TAGS
      :PROPERTIES:
      :ID:       f5f169cb-fc4b-4869-806a-26e21a16eb58
@@ -69,7 +73,7 @@ This should sync with bitbucket, sync with mobile org and check the status of wo
      :PROPERTIES:
      :ID:       5196f0ca-ccb1-4fcc-b483-20f3f835838d
      :END:
-**** TODO Set up contexts					   :COMPUTER:
+**** TODO Set up contexts					    :SOMEDAY:
      :PROPERTIES:
      :ID:       b44f91a4-abd0-459c-bfe9-c103641be8dd
      :END:
@@ -137,7 +141,8 @@ Should be able to just schedule it for a given day and then org-mode
 will keep reminding me until it's done.
 ***** DONE Research how to make a tickler file for org-mode
       - State "DONE"       from "TODO"       [2012-10-26 Fri 15:16]
-**** TODO Set up org-mode calendar				   :COMPUTER:
+**** DONE Set up org-mode calendar				   :COMPUTER:
+     - State "DONE"       from "TODO"       [2013-07-09 Tue 11:13]
      :PROPERTIES:
      :ID:       41700872-750b-4b16-9f38-069e8041bb2b
      :END:
@@ -147,7 +152,6 @@ will keep reminding me until it's done.
       :PROPERTIES:
       :ID:       c69116a8-6655-4429-bbac-73a314ef2967
       :END:
-***** NEXT sync with google calendar
       :PROPERTIES:
       :ID:       f1a7f408-27b3-44ab-b0f2-73ec079976df
       :END:
@@ -431,18 +435,7 @@ If I'm working on a project, I want an agenda view showing me just that project.
    :END:
 [2013-03-30 Sat 21:39]
 Publish to a different directory so I don't pollute my hg directory.
-** TODO Research using python requests
-  :LOGBOOK:
-  :END:
-   :PROPERTIES:
-   :ID:       513da876-40d5-4ad2-990b-f73e2c384e81
-   :END:
-[2013-03-31 Sun 17:36]
-** TODO Setup priorities					   :COMPUTER:
-   :PROPERTIES:
-   :ID:       c19772cf-4ad2-4f13-ac01-0c2eebb909f9
-   :END:
-*** NEXT Research org-mode priorities
+** NEXT Research org-mode priorities
     :PROPERTIES:
     :ID:       0e0ec6e9-ce54-49ca-924b-dc9957f63d33
     :END:
@@ -460,18 +453,21 @@ Publish to a different directory so I don't pollute my hg directory.
   :END:
 [2013-04-08 Mon 16:49]
 [[file:~/Dropbox/Camera Uploads/2013-04-08 11.19.18.jpg]]
-** TODO Organise research projects				   :COMPUTER:
+** DONE Organise research projects				   :COMPUTER:
+   - State "DONE"       from "TODO"       [2013-07-09 Tue 11:15]
    :PROPERTIES:
    :ID:       81bb4f28-b031-4061-9092-8e4a24b4b787
    :END:
 Need to make project version control and org files linked to from
 gtd. Have some sort of notes folder for each project where I can dump
 blackboard screen shots, scans of notebooks etc.
-*** NEXT Make notebook and office projects consistent!
+*** DONE Make notebook and office projects consistent!
+    - State "DONE"       from "NEXT"       [2013-07-09 Tue 11:15]
     :PROPERTIES:
     :ID:       21184652-81da-4475-93b9-e2e18d0a4c06
     :END:
-*** TODO Make a "new research project" process
+*** DONE Make a "new research project" process
+    - State "DONE"       from "NEXT"       [2013-07-09 Tue 11:15]
     :PROPERTIES:
     :ID:       3c0d5b9a-a43e-48b2-9f24-b8acd1e9fa2b
     :END:
@@ -480,13 +476,15 @@ blackboard screen shots, scans of notebooks etc.
    :PROPERTIES:
    :ID:       a96c63f6-2ee8-4042-ae7c-3f7d5bc3493e
    :END:
+*** Notes
 what are the structures?
 where do things go?
 e.g. active projects have next items
 someday things are projects/todos without any next?
 What are my 50000ft to runway goals, principles, priorities etc.
 At the runway (i.e. actions) level, I should have a list of procedures for following when doing common tasks e.g. weekly review
-*** NEXT Make list of tasks to focus on this week
+*** DONE Make list of tasks to focus on this week
+    - State "DONE"       from "NEXT"       [2013-07-09 Tue 11:15]
     :PROPERTIES:
     :ID:       d97c6589-0301-4611-9dc8-b1ea117c1172
     :END:
@@ -495,7 +493,7 @@ This could just be setting priorities and reevaluating them each week?
     :PROPERTIES:
     :ID:       56cc0a65-e6e2-4a43-9eff-d5b9a764f2b4
     :END:
-*** SOMEDAY Process for Learning
+*** TODO Process for Learning
     :PROPERTIES:
     :ID:       83f37a23-6ab0-4755-8306-39155dc66455
     :END: 
@@ -511,7 +509,7 @@ If I want to learn something, e.g. some maths or self-improvement, juggling, etc
    :END:
 [2012-10-15 Mon 09:47] 
 
-*** SOMEDAY Make processes/procedures
+*** TODO Make processes/procedures
     :PROPERTIES:
     :ID:       fda5310e-8964-47c0-9864-cc3aa70b7f4d
     :END:
@@ -525,7 +523,8 @@ If I want to learn something, e.g. some maths or self-improvement, juggling, etc
      :PROPERTIES:
      :ID:       85435e1c-6adb-45f9-9a6d-bee46ce10a01
      :END:
-**** NEXT Make daily workflow checklist
+**** DONE Make daily workflow checklist
+     - State "DONE"       from "NEXT"       [2013-07-09 Tue 11:16]
      :PROPERTIES:
      :ID:       8f83463d-6ae8-4e9e-bf7f-a0381aaec54b
      :END:
@@ -570,15 +569,18 @@ Particularly development!
     :ID:       96df27fa-64c5-432b-a2c3-9664e37014a6
     :END:
 [2012-10-21 Sun 17:24]
-** TODO Set up office like in GTD such as trays, clips etc.	     :OFFICE:
+** DONE Set up office like in GTD such as trays, clips etc.	     :OFFICE:
+   - State "DONE"       from "TODO"       [2013-07-09 Tue 11:17]
    :PROPERTIES:
    :ID:       b2f00a6f-4eb6-4129-bbe8-56f1be40359b
    :END:
-*** NEXT Get trays
+*** DONE Get trays
+    - State "DONE"       from "NEXT"       [2013-07-09 Tue 11:17]
     :PROPERTIES:
     :ID:       3f08a61e-4dad-4d70-abb5-d0e85e71d357
     :END:
-*** SOMEDAY Get stationary storage
+*** DONE Get stationary storage
+    - State "DONE"       from "TODO"       [2013-07-09 Tue 11:17]
   CLOCK: [2012-10-14 Sun 19:56]--[2012-10-14 Sun 19:57] =>  0:01
    :PROPERTIES:
    :ID:       72a41c20-d196-4dbd-bb49-fd7e3e5b63d8
@@ -1961,7 +1963,7 @@ For the following, do I just use the existing diary.org capture template or perh
 I probably don't need this!
 
 
-** NEXT Weekly Review [7/12]
+** NEXT Weekly Review [10/12]
    SCHEDULED: <2013-07-08 Mon ++1w>
    - State "DONE"       from "NEXT"       [2013-07-03 Wed 16:31]
    - State "DONE"       from "NEXT"       [2013-06-23 Sun 17:05]
@@ -2031,9 +2033,9 @@ What to review:
 - [X] Look at entire agenda for today  =F12 SPC=
 - [ ] Review projects =F12 SPC //= and =P= repeatedly to view each project
   - Unstick stuck projects!
-- [ ] Check uncommited work
-- [ ] Refile tasks
-- [ ] [[*Weekly%20collection%20and%20clean%20up%20%5B0/4%5D][Weekly collection and clean up {0/4}]]
+- [X] Check uncommited work
+- [X] Refile tasks
+- [X] [[*Weekly%20collection%20and%20clean%20up%20%5B0/4%5D][Weekly collection and clean up {0/4}]]
 - [ ] Process incoming information
   - feedly
   - pocket
@@ -2043,6 +2045,7 @@ What to review:
   - then work on NEXT tasks
 
 ** DONE Weekly collection and clean up [0/4]
+   - State "DONE"       from "DONE"       [2013-07-09 Tue 11:19]
    - State "DONE"       from "NEXT"       [2013-06-23 Sun 17:05]
    - State "DONE"       from "NEXT"       [2013-02-25 Mon 10:11]
    - State "DONE"       from "NEXT"       [2013-02-13 Wed 13:53]
