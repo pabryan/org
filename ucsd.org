@@ -130,7 +130,7 @@ I want to put the details of the course in to org - probably using property draw
   :ID:       7b4c1677-ee55-47b9-91c7-7f5b188957f0
   :END:
 [2013-04-27 Sat 14:17]
-*** Template
+*** Template							    :SOMEDAY:
 **** Notes
 **** Tasks
 ***** TODO Exams
@@ -3461,7 +3461,7 @@ WLH 2113
 ***** Homework
 
 *** Fall 2013
-**** TODO MATH150A
+**** TODO MATH150A						   :MATH150A:
      :PROPERTIES:
      :ID:       d41c505c-ac02-4dbc-9604-ba9cec082f27
      :END:
