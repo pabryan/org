@@ -106,7 +106,8 @@
     CLOCK: [2013-07-02 Tue 10:31]--[2013-07-02 Tue 11:25] =>  0:54
     :END:
 *** NEXT Morning Mobility
-    SCHEDULED: <2013-07-09 Tue .+1d/2d>
+    SCHEDULED: <2013-07-10 Wed .+1d/2d>
+    - State "DONE"       from "NEXT"       [2013-07-09 Tue 10:13]
     - State "DONE"       from "NEXT"       [2013-07-08 Mon 11:52]
     - State "DONE"       from "NEXT"       [2013-07-07 Sun 11:46]
     - State "DONE"       from "NEXT"       [2013-07-06 Sat 09:02]
@@ -200,7 +201,7 @@
     :STYLE:    habit
     :REPEAT_TO_STATE: NEXT
     :ID:       0e75f56d-0356-4a0f-a376-080471ad4aad
-    :LAST_REPEAT: [2013-07-08 Mon 11:52]
+    :LAST_REPEAT: [2013-07-09 Tue 10:13]
     :END:
 
 *** NEXT Afternoon Relax

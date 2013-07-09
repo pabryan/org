@@ -1183,6 +1183,7 @@ Put my common setup in it's own config and include from the .sss/config file. Th
   :END:
 ** Organisation
   :LOGBOOK:
+  CLOCK: [2013-07-09 Tue 10:11]
   CLOCK: [2013-07-08 Mon 11:47]--[2013-07-08 Mon 13:03] =>  1:16
   CLOCK: [2013-07-07 Sun 11:45]--[2013-07-07 Sun 12:25] =>  0:40
   CLOCK: [2013-07-04 Thu 09:49]--[2013-07-04 Thu 09:52] =>  0:03
@@ -1960,7 +1961,7 @@ For the following, do I just use the existing diary.org capture template or perh
 I probably don't need this!
 
 
-** NEXT Weekly Review [0/11]
+** NEXT Weekly Review [0/12]
    SCHEDULED: <2013-07-08 Mon ++1w>
    - State "DONE"       from "NEXT"       [2013-07-03 Wed 16:31]
    - State "DONE"       from "NEXT"       [2013-06-23 Sun 17:05]
@@ -2031,6 +2032,9 @@ What to review:
 - [ ] Check uncommited work
 - [ ] Refile tasks
 - [ ] [[*Weekly%20collection%20and%20clean%20up%20%5B0/4%5D][Weekly collection and clean up {0/4}]]
+- [ ] Process incoming information
+  - feedly
+  - pocket
 
 - start work
   - daily agenda first - knock off items
