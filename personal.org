@@ -696,11 +696,36 @@ http://blog.zocdoc.com/does-eating-tomatoes-reduce-your-risk-of-prostate-cancer-
 
 Healthy habits. I want to keep on track with living well and so need reminders to see everyday to remind me how good I feel when eating good food, relaxing and exercising.
 
-
-** Running Events
-*** San Diego Beer Run
-    SCHEDULED: <2013-08-11 Sun 06:30-14:30>
-**** Sign up
+*** TODO Backup fitness videos
+  CLOCK: [2012-11-03 Sat 16:33]--[2012-11-03 Sat 16:35] =>  0:02
+   :PROPERTIES:
+   :ID:       017af5ef-d834-44b3-b288-dc36fd188e15
+   :END:
+[2012-11-03 Sat 16:33]
+**** NEXT Catalogue vids to burn
+- List vids to burn along with status
+  - Make ISO
+  - Burn DVD
+  - Compressed copy
+  - Backup to Dropbox
+**** NEXT Buy blank DVD's
+     :PROPERTIES:
+     :ID:       d241a54a-5d45-46a8-8506-6d48a111f813
+     :END:
+**** NEXT Create iso files
+     :PROPERTIES:
+     :ID:       1f92cc22-f2af-4a9d-9531-721ef0ded428
+     :END:
+**** TODO Burn fitness videos to DVD
+     :PROPERTIES:
+     :ID:       99baf26c-671f-4cc0-b9b5-6e9233d129e8
+     :END:
+     
+** Events
+*** Running
+**** San Diego Beer Run
+     SCHEDULED: <2013-08-11 Sun 06:30-14:30>
+***** Sign up
      SCHEDULED: <2013-08-01 Thu>
 http://sandyfeetevents.com/the-san-diego-beer-run/
 * Recreation 							 :RECREATION:
@@ -905,7 +930,7 @@ END:
 ** DONE Change clock
    - State "DONE"       from "TODO"       [2012-11-10 Sat 13:35]
 <2012-11-04 Sun>
-** SOMEDAY Add phone line					   :COMPUTER:
+** TODO Add phone line						   :COMPUTER:
    :PROPERTIES:
    :ID:       fb0b31f6-e5c0-4575-a199-c1eeeeff8159
    :END:
@@ -971,13 +996,6 @@ Did using google voice mess things up
   :ID:       880fc714-3787-4236-97ad-4a5a67ea81ff
   :END:
 [2012-10-19 Fri 14:35]
-** TODO Burn fitness videos to DVD
-  CLOCK: [2012-10-24 Wed 12:23]--[2012-10-24 Wed 12:23] =>  0:00
-   :PROPERTIES:
-   :ID:       29815894-e777-4764-9230-0b468b25eceb
-   :END:
-[2012-10-24 Wed 12:23]
-
 ** DONE Contact Del Sol maintenance
    - State "DONE"       from "TODO"       [2012-11-10 Sat 13:39]
 Bath and toilet clogged. Need light globes.
@@ -988,38 +1006,14 @@ Bath and toilet clogged. Need light globes.
   CLOCK: [2012-10-28 Sun 15:07]--[2012-10-28 Sun 15:07] =>  0:00
 [2012-10-28 Sun 15:07]
 
-** TODO Set up reminder for organic harvest
+** DONE Set up reminder for organic harvest
+   - State "DONE"       from "TODO"       [2013-07-09 Tue 10:41]
   CLOCK: [2012-10-28 Sun 15:07]--[2012-10-28 Sun 15:07] =>  0:00
    :PROPERTIES:
    :ID:       e07a73fd-2f5f-4fe0-bc90-f7b820a51006
    :END:
 [2012-10-28 Sun 15:07]
 
-** TODO Backup fitness videos
-  CLOCK: [2012-11-03 Sat 16:33]--[2012-11-03 Sat 16:35] =>  0:02
-   :PROPERTIES:
-   :ID:       017af5ef-d834-44b3-b288-dc36fd188e15
-   :END:
-[2012-11-03 Sat 16:33]
-*** NEXT Catalogue vids to burn
-- List vids to burn along with status
-  - Make ISO
-  - Burn DVD
-  - Compressed copy
-  - Backup to Dropbox
-*** NEXT Buy blank DVD's
-    :PROPERTIES:
-    :ID:       d241a54a-5d45-46a8-8506-6d48a111f813
-    :END:
-*** NEXT Create iso files
-    :PROPERTIES:
-    :ID:       1f92cc22-f2af-4a9d-9531-721ef0ded428
-    :END:
-*** TODO Burn fitness videos to DVD
-    :PROPERTIES:
-    :ID:       99baf26c-671f-4cc0-b9b5-6e9233d129e8
-    :END:
-    
 ** CANCELLED Organise Kate's Birthday
   DEADLINE: <2012-11-26 Mon -2w>
   - State "CANCELLED"  from "TODO"       [2012-11-12 Mon 11:37] \\
@@ -1031,7 +1025,7 @@ Bath and toilet clogged. Need light globes.
    :END:
 [2012-11-07 Wed 12:57]
 
-** TODO Transcribe from Bei Da notebook: todo
+** NEXT Transcribe from Bei Da notebook: todo
   :LOGBOOK:
   CLOCK: [2012-11-20 Tue 11:04]--[2012-11-20 Tue 11:05] =>  0:01
   :END:
@@ -1057,7 +1051,8 @@ Bath and toilet clogged. Need light globes.
   :ID:       b1c9afcd-5f9b-45dc-895e-2542fd31bd71
   :END:
 [2012-11-20 Tue 11:04]
-** TODO Get licence
+** DONE Get licence
+   - State "DONE"       from "TODO"       [2013-07-09 Tue 10:42]
   :LOGBOOK:
   :END:
    :PROPERTIES:
@@ -1065,7 +1060,8 @@ Bath and toilet clogged. Need light globes.
    :END:
 [2012-12-02 Sun 12:53]
 
-** TODO buy clippers
+** DONE buy clippers
+   - State "DONE"       from "TODO"       [2013-07-09 Tue 10:42]
   :LOGBOOK:
   :END:
   :PROPERTIES:
@@ -1082,7 +1078,7 @@ Bath and toilet clogged. Need light globes.
    :END:
 [2012-12-11 Tue 19:33]
 
-** TODO Bike 
+** NEXT Find a Bike 
   :LOGBOOK:
   CLOCK: [2013-01-03 Thu 18:51]--[2013-01-03 Thu 18:52] =>  0:01
   :END:
@@ -1090,7 +1086,6 @@ Bath and toilet clogged. Need light globes.
    :ID:       8edf3d8f-489c-43d2-a695-061e62eee917
    :END:
 [2013-01-03 Thu 18:51]
-513 516 9398
 ** DONE Sort out license!
   SCHEDULED: <2013-02-13 Wed> DEADLINE: <2013-02-13 Wed>
   - State "DONE"       from "TODO"       [2013-02-14 Thu 11:53]
@@ -1109,9 +1104,9 @@ Bath and toilet clogged. Need light globes.
    :PROPERTIES:
    :ID:       b968337e-485a-47ef-9c09-1dd0282f1173
    :END:
-*** TODO Investigate work farm/compost
-*** TODO Get more pots!
-*** TODO Get tomato plant hanging stand (walmart?)
+*** NEXT Investigate work farm/compost
+*** NEXT Get more pots!
+*** NEXT Get tomato plant hanging stand (walmart?)
 *** DONE Plan out balcony garden
     - State "DONE"       from "NEXT"       [2013-07-09 Tue 10:38]
     :PROPERTIES:
@@ -1490,10 +1485,16 @@ Delta 4502 From LA.
     :PROPERTIES:
     :ID:       ef2170c0-9863-47cd-89ba-7cf681da27f4
     :END:
+*** NEXT Update capture templates
+- I should only record the summary: it takes too long otherwise!
+*** NEXT Plan out data collecting
+- Print out journal at start of month
+- Only record summary: don't need all the reps and wotnot!
 *** NEXT Import sleep data
     :PROPERTIES:
     :ID:       1b2423ae-80ee-4424-b590-8b09db60f100
     :END:
+- This comes from sleepbot and I should cron it?
 *** TODO Produce graphs
     :PROPERTIES:
     :ID:       d92aa2a9-e4df-43a5-bd7d-45d3ba840eef

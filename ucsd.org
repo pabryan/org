@@ -15,16 +15,17 @@
   :PROPERTIES:
   :ID:       05f896fc-0400-4ac3-bfef-5e3c5457fd02
   :END:
-** SOMEDAY Update website template
+** TODO Update website template
 check out http://www.wix.com/
 use org-mode to write content, css to render
+Find tempaltes!
   CLOCK: [2012-10-15 Mon 10:13]--[2012-10-15 Mon 10:13] =>  0:00
    :PROPERTIES:
    :ID:       95bed625-9178-4c2e-977b-ca4098a5ae3a
    :END:
 [2012-10-15 Mon 10:13]
 
-** SOMEDAY Write in org mode
+** TODO Write in org mode
    :PROPERTIES:
    :ID:       d4065564-7904-47cc-b82c-68a9e060597e
    :END:
@@ -92,8 +93,8 @@ W	Withdrew	Withdrew after fourth week of instruction, or after second meeting of
 X	Pending charge of academic dishonesty (available only within the eGrades tool)
 Blank	Grade not reported by instructor
 
-** Courses
-*** Course setup
+** Courses							    :COURSES:
+*** TODO Course setup
 **** TODO Course org setup
      :PROPERTIES:
      :ID:       2470fdb2-0910-4cde-bc39-57398dd8e5f7
