@@ -422,6 +422,7 @@ Probably also need concave comparison functions. This should rule out $\tang_p =
 This requires an estimate of $\int k f(k)$ analogous to Holder's for CSF where $f(k)=k$.
 ****** NEXT Write as viscosity equation
        :LOGBOOK:
+       CLOCK: [2013-07-09 Tue 15:04]
        CLOCK: [2013-06-24 Mon 19:45]--[2013-06-24 Mon 20:25] =>  0:40
        CLOCK: [2013-06-24 Mon 16:16]--[2013-06-24 Mon 17:06] =>  0:50
        CLOCK: [2013-06-24 Mon 11:06]--[2013-06-24 Mon 11:42] =>  0:36
