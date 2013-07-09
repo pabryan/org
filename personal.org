@@ -746,7 +746,8 @@ Doyle Field
     :PROPERTIES:
     :ID:       dfe51711-2dd6-4f5b-8dbe-887df2af8485
     :END:
-**** NEXT Plan home organisation
+**** DONE Plan home organisation
+     - State "DONE"       from "NEXT"       [2013-07-09 Tue 10:35]
 places to file things
 storage containers
 everything has a home!
@@ -757,14 +758,16 @@ pantry shelves
    :END:
 [2012-10-14 Sun 20:44]
 
-**** NEXT Organise kitchen
+**** DONE Organise kitchen
+     - State "DONE"       from "NEXT"       [2013-07-09 Tue 10:35]
   CLOCK: [2012-10-28 Sun 15:06]--[2012-10-28 Sun 15:06] =>  0:00
     :PROPERTIES:
     :ID:       c12fa524-bc9a-4545-8d8a-ec4ee8bd40d0
     :END:
 [2012-10-28 Sun 15:06]
 
-**** NEXT Organise bedroom
+**** DONE Organise bedroom
+     - State "DONE"       from "NEXT"       [2013-07-09 Tue 10:35]
   CLOCK: [2012-10-28 Sun 15:06]--[2012-10-28 Sun 15:06] =>  0:00
     :PROPERTIES:
     :ID:       206a5bae-27b1-4a32-9d27-96ebb00f4af5
@@ -802,7 +805,8 @@ pantry shelves
       :ID:       ea25f4d7-edba-48d6-9157-56aa52127708
       :END:
 
-**** NEXT organise laundary
+**** DONE organise laundary
+     - State "DONE"       from "NEXT"       [2013-07-09 Tue 10:35]
   CLOCK: [2012-10-28 Sun 15:08]--[2012-10-28 Sun 15:08] =>  0:00
     :PROPERTIES:
     :ID:       4d8ed191-cc09-4c71-b3d2-2aa1edd208d2
@@ -821,7 +825,7 @@ pantry shelves
       :ID:       6eeb88a8-2a82-4f5e-9780-f1a03607d5bc
       :END:
 
-**** SOMEDAY pack away tea pots
+**** TODO pack away tea pots
   CLOCK: [2012-10-14 Sun 19:56]--[2012-10-14 Sun 19:56] =>  0:00
    :PROPERTIES:
    :ID:       1b524408-f508-4d2e-839a-0936559efaf4
@@ -997,6 +1001,12 @@ Bath and toilet clogged. Need light globes.
    :ID:       017af5ef-d834-44b3-b288-dc36fd188e15
    :END:
 [2012-11-03 Sat 16:33]
+*** NEXT Catalogue vids to burn
+- List vids to burn along with status
+  - Make ISO
+  - Burn DVD
+  - Compressed copy
+  - Backup to Dropbox
 *** NEXT Buy blank DVD's
     :PROPERTIES:
     :ID:       d241a54a-5d45-46a8-8506-6d48a111f813
@@ -1099,26 +1109,14 @@ Bath and toilet clogged. Need light globes.
    :PROPERTIES:
    :ID:       b968337e-485a-47ef-9c09-1dd0282f1173
    :END:
-*** NEXT Plan out balcony garden
+*** TODO Investigate work farm/compost
+*** TODO Get more pots!
+*** TODO Get tomato plant hanging stand (walmart?)
+*** DONE Plan out balcony garden
+    - State "DONE"       from "NEXT"       [2013-07-09 Tue 10:38]
     :PROPERTIES:
     :ID:       743cadae-db2b-432e-88df-30fc5c2e73a4
     :END:
-** TODO Organise garden
-  :LOGBOOK:
-  :END:
-   :PROPERTIES:
-   :ID:       8fc701f2-9bd7-45ea-979d-7b09955d2c59
-   :END:
-[2013-03-25 Mon 21:09]
-** TODO Farming research
-  :LOGBOOK:
-  CLOCK: [2013-03-25 Mon 21:09]--[2013-03-25 Mon 21:10] =>  0:01
-  :END:
-   :PROPERTIES:
-   :ID:       abe56e3e-d948-4e6f-8774-9c5749ff4dd3
-   :END:
-[2013-03-25 Mon 21:09]
-Look into how I'll set up my farm. Prices for livestock for instance is relevant. Also, plans for chook runs and pig runs and info on raising cows. Find out hardware prices also.
 * Outings
   :PROPERTIES:
   :ID:       a3db8660-da81-4683-b311-de1d178f4554

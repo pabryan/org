@@ -1090,8 +1090,8 @@ In particular, put more detail in.
       :ID:       b5234c61-d118-45c2-b372-eb8e247c8642
       :END:
 
-*** Future
-**** SOMEDAY Submanifold book				       :SUBMANIFOLDS:
+*** Future							    :SOMEDAY:
+**** TODO Submanifold book				       :SUBMANIFOLDS:
 [[file:~/working/academic/research/submanifolds_book]]
    :PROPERTIES:
    :ID:       c81850da-1eac-4c94-a963-ab007548b40a
@@ -1114,7 +1114,7 @@ Variations
 Space-time (how do we choose a connection?)
 Sequences of manifolds and convergence. What is smooth convergence? Can it be defined invariantly?
 
-**** SOMEDAY Geoemtric PDE
+**** TODO Geoemtric PDE
      :PROPERTIES:
      :ID:       8a048f0b-4183-456c-9a8a-2a1732a71906
      :END:
@@ -1124,55 +1124,56 @@ Sequences of manifolds and convergence. What is smooth convergence? Can it be de
       :END:
 ***** 
 ** Computation
-*** TODO ANUGA
-    :PROPERTIES:
-    :ID:       f7e859a4-1e79-4369-b648-3c606ff307b2
-    :END:
-**** Tasks
-***** TODO Sage interface?
-      :PROPERTIES:
-      :ID:       1539524b-7040-429d-9882-cb61262215d5
-      :END:
-**** TODO ANUGA 1D
+*** Future							    :SOMEDAY:
+**** TODO ANUGA
      :PROPERTIES:
-     :ID:       1efaa134-5a28-430d-9f9e-652ed31c96e1
+     :ID:       f7e859a4-1e79-4369-b648-3c606ff307b2
      :END:
 ***** Tasks
-****** NEXT Review existing work
+****** TODO Sage interface?
        :PROPERTIES:
-       :ID:       e7acc74e-235b-41d6-8f4c-935aadbafa60
+       :ID:       1539524b-7040-429d-9882-cb61262215d5
        :END:
-*** TODO Sage
-    :PROPERTIES:
-    :ID:       23b8901a-a470-4b98-a44b-893be1286304
-    :END:
-**** Tasks
-***** TODO Install Sage on laptop
+***** TODO ANUGA 1D
       :PROPERTIES:
-      :ID:       e984a6f6-4f7a-4689-adac-f3af06d150fd
+      :ID:       1efaa134-5a28-430d-9f9e-652ed31c96e1
       :END:
-***** TODO Install Sage at work
-      :PROPERTIES:
-      :ID:       524ba8e1-7a04-48b3-bad0-cbca0dac5121
-      :END:
-**** TODO Vector symmetric functions
+****** Tasks
+******* NEXT Review existing work
+       	:PROPERTIES:
+       	:ID:       e7acc74e-235b-41d6-8f4c-935aadbafa60
+       	:END:
+**** TODO Sage
      :PROPERTIES:
-     :ID:       adf7480b-29ba-496c-9a32-b580cf9937ce
+     :ID:       23b8901a-a470-4b98-a44b-893be1286304
      :END:
 ***** Tasks
-****** NEXT Look up Emmanual Briand's review
+****** TODO Install Sage on laptop
        :PROPERTIES:
-       :ID:       f4d890c0-78df-4ef5-bf62-07fc743a2356
+       :ID:       e984a6f6-4f7a-4689-adac-f3af06d150fd
        :END:
-*** TODO WDM
-    :PROPERTIES:
-    :ID:       0913954b-8493-4a92-8001-cbfd573ecbf3
-    :END:
-**** Tasks
-***** NEXT Get Hubert's matlab code into Python/Sage
+****** TODO Install Sage at work
+       :PROPERTIES:
+       :ID:       524ba8e1-7a04-48b3-bad0-cbca0dac5121
+       :END:
+***** TODO Vector symmetric functions
       :PROPERTIES:
-      :ID:       4e2db7a9-fc15-473e-b09e-bde6e8d52d97
+      :ID:       adf7480b-29ba-496c-9a32-b580cf9937ce
       :END:
+****** Tasks
+******* NEXT Look up Emmanual Briand's review
+       	:PROPERTIES:
+       	:ID:       f4d890c0-78df-4ef5-bf62-07fc743a2356
+       	:END:
+**** TODO WDM
+     :PROPERTIES:
+     :ID:       0913954b-8493-4a92-8001-cbfd573ecbf3
+     :END:
+***** Tasks
+****** NEXT Get Hubert's matlab code into Python/Sage
+       :PROPERTIES:
+       :ID:       4e2db7a9-fc15-473e-b09e-bde6e8d52d97
+       :END:
 ** Tasks
 *** TODO Organise research papers    
     :PROPERTIES:
@@ -1613,11 +1614,11 @@ http://mathoverflow.net/questions/14877/how-much-of-differential-geometry-can-be
 - [[http://link.springer.com/article/10.1007/s00526-011-0481-0]]
 - 
 
-* Learning
+* Learning							   :LEARNING:
   :PROPERTIES:
   :ID:       0609581e-fe50-48ce-aa33-ce468c217f92
   :END:
-** GMT
+** TODO GMT								:GMT:
    :LOGBOOK:
    CLOCK: [2013-04-26 Fri 09:35]--[2013-04-26 Fri 09:54] =>  0:19
    :END:
@@ -1641,8 +1642,8 @@ Minimal and CMC surfaces. First variation.
 First variation.
 **** Lec 03
 Radon measures: compactness and Reisz representation.
-** Convex Geometry
-*** Read Schneider
+** TODO Convex Geometry						     :CONVEX:
+*** NEXT Read Schneider
     :LOGBOOK:
     CLOCK: [2013-06-12 Wed 14:45]--[2013-06-12 Wed 18:57] =>  4:12
     :END:
