@@ -444,7 +444,22 @@ Publish to a different directory so I don't pollute my hg directory.
   :PROPERTIES:
   :ID:       403ba6c9-9a32-430c-b0c9-0b09f2eba44e
   :END:
-** TODO Process items from blackboard
+** Tasks
+*** DONE Move mygtd into refile					   :COMPUTER:
+   - State "DONE"       from "NEXT"       [2012-11-15 Thu 11:46]
+  CLOCK: [2012-10-15 Mon 22:06]--[2012-10-15 Mon 22:06] =>  0:00
+   :PROPERTIES:
+   :ID:       29212bbd-9706-4cfc-84ff-d28e43f0f2f8
+   :END:
+[2012-10-15 Mon 22:06]
+
+*** TODO Rationalise Documents, Dropbox, Ubuntu One		   :COMPUTER:
+  CLOCK: [2012-10-16 Tue 09:04]--[2012-10-16 Tue 09:04] =>  0:00
+   :PROPERTIES:
+   :ID:       5f23f742-f0f0-4e0b-8d9d-98f5acae6a1b
+   :END:
+[2012-10-16 Tue 09:04]
+*** TODO Process items from blackboard
   :LOGBOOK:
   CLOCK: [2013-04-08 Mon 16:49]--[2013-04-08 Mon 16:50] =>  0:01
   :END:
@@ -453,6 +468,57 @@ Publish to a different directory so I don't pollute my hg directory.
   :END:
 [2013-04-08 Mon 16:49]
 [[file:~/Dropbox/Camera Uploads/2013-04-08 11.19.18.jpg]]
+*** DONE Process emails 					   :COMPUTER:
+   - State "DONE"       from "NEXT"       [2012-12-07 Fri 10:45]
+Archive the lot! Organise into folders/tags whatever. gmail can be the main repository to sync with, but as with org files, maybe have machine specific syncing to dropbox also.
+  CLOCK: [2012-10-15 Mon 09:42]--[2012-10-15 Mon 09:43] =>  0:01
+   :PROPERTIES:
+   :ID:       ee144a81-a3eb-43bf-879e-72e2b97b0c11
+   :END:
+[2012-10-15 Mon 09:42]
+
+*** DONE Check out "The Brain"
+   - State "DONE"       from "TODO"       [2013-07-09 Tue 12:20]
+[[http://www.thebrain.com/]]
+  CLOCK: [2012-11-03 Sat 19:48]--[2012-11-03 Sat 19:48] =>  0:00
+   :PROPERTIES:
+   :ID:       d2bd33bc-bb46-4011-944e-ea5c670ee8e4
+   :END:
+[2012-11-03 Sat 19:48]
+*** DONE Make list of all projects to VC
+   - State "DONE"       from "TODO"       [2012-12-07 Fri 10:46]
+  CLOCK: [2012-11-06 Tue 08:33]--[2012-11-06 Tue 08:34] =>  0:01
+   :PROPERTIES:
+   :ID:       6465f33f-6ee5-40b6-93d3-222551feba01
+   :END:
+[2012-11-06 Tue 08:33]
+
+*** TODO Transcribe from Bei Da notebook: q. self
+  :LOGBOOK:
+  :END:
+  :PROPERTIES:
+  :ID:       c2fcfce7-e205-444a-80fd-0d9cab0e9c7a
+  :END:
+[2012-11-20 Tue 11:04
+*** DONE Install dictionary on tablet/phone
+   - State "DONE"       from "TODO"       [2013-02-05 Tue 13:20]
+  :LOGBOOK:
+  :END:
+   :PROPERTIES:
+   :ID:       356f2ab9-334f-4529-8898-d89e06c6b8d2
+   :END:
+[2012-12-31 Mon 10:58]
+*** TODO Set up goal reminders
+   :PROPERTIES:
+   :ID:       1be2f4e6-6e6c-47e0-ab82-d52f0138c9cf
+   :END:
+- I should have cards with daily reminders, e.g. no more than 2 coffees, eat tacfit, don't nag to check throughout the day. I also have longer term goals and these should filter down to give daily reminders, weekly reminders (to look at during the review), monthly, yearly etc.
+*** TODO Schedule tasks
+**** Set next tasks
+**** Capture tasks as I think of them
+**** Refile tasks a couple of times a day
+**** Use property drawers to associate tasks with goal
+** Notes
 ** DONE Organise research projects				   :COMPUTER:
    - State "DONE"       from "TODO"       [2013-07-09 Tue 11:15]
    :PROPERTIES:
@@ -472,7 +538,7 @@ blackboard screen shots, scans of notebooks etc.
     :ID:       3c0d5b9a-a43e-48b2-9f24-b8acd1e9fa2b
     :END:
 [[*New%20Research%20Project][New Research Project]]
-** TODO Develop organisation process, workflow			   :ANYWHERE:
+** TODO Develop organisation process, workflow 			   :ANYWHERE:
    :PROPERTIES:
    :ID:       a96c63f6-2ee8-4042-ae7c-3f7d5bc3493e
    :END:
@@ -598,28 +664,6 @@ Particularly development!
     :PROPERTIES:
     :ID:       053596a1-3c7f-4225-a03a-9416b37d894b
     :END:
-** DONE Move mygtd into refile					   :COMPUTER:
-   - State "DONE"       from "NEXT"       [2012-11-15 Thu 11:46]
-  CLOCK: [2012-10-15 Mon 22:06]--[2012-10-15 Mon 22:06] =>  0:00
-   :PROPERTIES:
-   :ID:       29212bbd-9706-4cfc-84ff-d28e43f0f2f8
-   :END:
-[2012-10-15 Mon 22:06]
-
-** TODO Rationalise Documents, Dropbox, Ubuntu One		   :COMPUTER:
-  CLOCK: [2012-10-16 Tue 09:04]--[2012-10-16 Tue 09:04] =>  0:00
-   :PROPERTIES:
-   :ID:       5f23f742-f0f0-4e0b-8d9d-98f5acae6a1b
-   :END:
-[2012-10-16 Tue 09:04]
-** DONE Process emails						   :COMPUTER:
-   - State "DONE"       from "NEXT"       [2012-12-07 Fri 10:45]
-Archive the lot! Organise into folders/tags whatever. gmail can be the main repository to sync with, but as with org files, maybe have machine specific syncing to dropbox also.
-  CLOCK: [2012-10-15 Mon 09:42]--[2012-10-15 Mon 09:43] =>  0:01
-   :PROPERTIES:
-   :ID:       ee144a81-a3eb-43bf-879e-72e2b97b0c11
-   :END:
-[2012-10-15 Mon 09:42]
 ** TODO Create contact db					   :COMPUTER:
    :PROPERTIES:
    :ID:       a3636804-e3d4-44e3-8872-13a3daac919b
@@ -651,21 +695,6 @@ Archive the lot! Organise into folders/tags whatever. gmail can be the main repo
     :PROPERTIES:
     :ID:       42384e87-7e0e-4abc-97d3-e1773f899d54
     :END:
-** TODO Check out "The Brain"
-[[http://www.thebrain.com/]]
-  CLOCK: [2012-11-03 Sat 19:48]--[2012-11-03 Sat 19:48] =>  0:00
-   :PROPERTIES:
-   :ID:       d2bd33bc-bb46-4011-944e-ea5c670ee8e4
-   :END:
-[2012-11-03 Sat 19:48]
-** DONE Make list of all projects to VC
-   - State "DONE"       from "TODO"       [2012-12-07 Fri 10:46]
-  CLOCK: [2012-11-06 Tue 08:33]--[2012-11-06 Tue 08:34] =>  0:01
-   :PROPERTIES:
-   :ID:       6465f33f-6ee5-40b6-93d3-222551feba01
-   :END:
-[2012-11-06 Tue 08:33]
-
 ** TODO Manage Life
 
 I want to direct my life better. This involves
@@ -770,32 +799,6 @@ I'll need to say use my phone to collect the data. I need something easy to cloc
     :ID:       3fb84c1c-628a-4fa3-8408-e2dc3233d729
     :END:
     I want to hang on to emails, articles and so on. I want to keep receipts, ideas and a diary of what I've done. These need to be kept in a filing system somehow, most probaby using org-mode and memacs.
-** Schedule tasks
-**** Set next tasks
-**** Capture tasks as I think of them
-**** Refile tasks a couple of times a day
-**** Use property drawers to associate tasks with goal
-** TODO Transcribe from Bei Da notebook: q. self
-  :LOGBOOK:
-  :END:
-  :PROPERTIES:
-  :ID:       c2fcfce7-e205-444a-80fd-0d9cab0e9c7a
-  :END:
-[2012-11-20 Tue 11:04
-** DONE Install dictionary on tablet/phone
-   - State "DONE"       from "TODO"       [2013-02-05 Tue 13:20]
-  :LOGBOOK:
-  :END:
-   :PROPERTIES:
-   :ID:       356f2ab9-334f-4529-8898-d89e06c6b8d2
-   :END:
-[2012-12-31 Mon 10:58]
-** TODO Set up goal reminders
-   :PROPERTIES:
-   :ID:       1be2f4e6-6e6c-47e0-ab82-d52f0138c9cf
-   :END:
-*** Notes 
-I should have cards with daily reminders, e.g. no more than 2 coffees, eat tacfit, don't nag to check throughout the day. I also have longer term goals and these should filter down to give daily reminders, weekly reminders (to look at during the review), monthly, yearly etc.
 ** TODO Set up paper-based project organisation
    :PROPERTIES:
    :ID:       25e03d24-e7ce-42a4-bbc1-16c926976dc7
@@ -1963,7 +1966,7 @@ For the following, do I just use the existing diary.org capture template or perh
 I probably don't need this!
 
 
-** NEXT Weekly Review [10/12]
+** NEXT Weekly Review [11/12]
    SCHEDULED: <2013-07-08 Mon ++1w>
    - State "DONE"       from "NEXT"       [2013-07-03 Wed 16:31]
    - State "DONE"       from "NEXT"       [2013-06-23 Sun 17:05]
@@ -1980,7 +1983,8 @@ I probably don't need this!
    - State "DONE"       from "NEXT"       [2012-12-07 Fri 13:44]
    - State "DONE"       from "NEXT"       [2012-11-30 Fri 14:06]
    :LOGBOOK:
-   CLOCK: [2013-07-09 Tue 11:07]
+   CLOCK: [2013-07-09 Tue 12:19]
+   CLOCK: [2013-07-09 Tue 11:07]--[2013-07-09 Tue 11:19] =>  0:12
    CLOCK: [2013-07-09 Tue 10:19]--[2013-07-09 Tue 10:49] =>  0:30
    CLOCK: [2013-07-03 Wed 16:08]--[2013-07-03 Wed 16:31] =>  0:23
    CLOCK: [2013-06-23 Sun 16:10]--[2013-06-23 Sun 17:05] =>  0:55
@@ -2031,7 +2035,7 @@ What to review:
 - [X] Review clock report for past week =R=
   - Check where we spent time (too much or too little) and rectify this week
 - [X] Look at entire agenda for today  =F12 SPC=
-- [ ] Review projects =F12 SPC //= and =P= repeatedly to view each project
+- [X] Review projects =F12 SPC //= and =P= repeatedly to view each project
   - Unstick stuck projects!
 - [X] Check uncommited work
 - [X] Refile tasks
