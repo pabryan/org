@@ -1188,7 +1188,8 @@ Put my common setup in it's own config and include from the .sss/config file. Th
   :END:
 ** Organisation
   :LOGBOOK:
-  CLOCK: [2013-07-09 Tue 21:25]
+  CLOCK: [2013-07-09 Tue 21:36]--[2013-07-09 Tue 21:37] =>  0:01
+  CLOCK: [2013-07-09 Tue 21:25]--[2013-07-09 Tue 21:26] =>  0:01
   CLOCK: [2013-07-09 Tue 13:04]--[2013-07-09 Tue 13:05] =>  0:01
   CLOCK: [2013-07-09 Tue 12:33]--[2013-07-09 Tue 12:34] =>  0:01
   CLOCK: [2013-07-09 Tue 10:11]--[2013-07-09 Tue 10:19] =>  0:08
@@ -1765,6 +1766,7 @@ Check how I did last month. I guess the review and plan could probably go togeth
    - State "DONE"       from "NEXT"       [2013-01-23 Wed 19:25]
    - State "DONE"       from "NEXT"       [2013-01-14 Mon 17:43]
    :LOGBOOK:
+   CLOCK: [2013-07-09 Tue 21:37]
    CLOCK: [2013-06-03 Mon 20:37]--[2013-06-03 Mon 20:38] =>  0:01
    CLOCK: [2013-03-30 Sat 21:12]--[2013-03-30 Sat 21:13] =>  0:01
    CLOCK: [2013-03-20 Wed 21:50]--[2013-03-20 Wed 21:54] =>  0:04
