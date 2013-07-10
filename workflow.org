@@ -58,6 +58,9 @@ Make a project that includes
 - sync with google calendar
 
 **** NEXT Lay out project plan
+     :PROPERTIES:
+     :ID:       01f0601b-cd01-4d9b-9a65-6d0c7caea05d
+     :END:
 ** Task list to sort						    :SOMEDAY:
 **** TODO Set up TAGS
      :PROPERTIES:
@@ -514,6 +517,9 @@ Archive the lot! Organise into folders/tags whatever. gmail can be the main repo
    :END:
 - I should have cards with daily reminders, e.g. no more than 2 coffees, eat tacfit, don't nag to check throughout the day. I also have longer term goals and these should filter down to give daily reminders, weekly reminders (to look at during the review), monthly, yearly etc.
 *** TODO Schedule tasks
+    :PROPERTIES:
+    :ID:       abc5fce7-33ce-44a3-8958-f207a20cdd46
+    :END:
 **** Set next tasks
 **** Capture tasks as I think of them
 **** Refile tasks a couple of times a day
@@ -1734,7 +1740,8 @@ Check how I did last month. I guess the review and plan could probably go togeth
 
 
 ** NEXT Daily Review [0/3]
-   SCHEDULED: <2013-07-06 Sat .+1d/2d>
+   SCHEDULED: <2013-07-10 Wed .+1d/2d>
+   - State "DONE"       from "NEXT"       [2013-07-09 Tue 21:40]
    - State "DONE"       from "NEXT"       [2013-07-05 Fri 21:03]
    - State "DONE"       from "NEXT"       [2013-06-25 Tue 21:13]
    - State "DONE"       from "NEXT"       [2013-06-22 Sat 20:35]
@@ -1766,7 +1773,7 @@ Check how I did last month. I guess the review and plan could probably go togeth
    - State "DONE"       from "NEXT"       [2013-01-23 Wed 19:25]
    - State "DONE"       from "NEXT"       [2013-01-14 Mon 17:43]
    :LOGBOOK:
-   CLOCK: [2013-07-09 Tue 21:37]
+   CLOCK: [2013-07-09 Tue 21:37]--[2013-07-09 Tue 21:40] =>  0:03
    CLOCK: [2013-06-03 Mon 20:37]--[2013-06-03 Mon 20:38] =>  0:01
    CLOCK: [2013-03-30 Sat 21:12]--[2013-03-30 Sat 21:13] =>  0:01
    CLOCK: [2013-03-20 Wed 21:50]--[2013-03-20 Wed 21:54] =>  0:04
@@ -1785,7 +1792,7 @@ Check how I did last month. I guess the review and plan could probably go togeth
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
    :ID:       616c5bd9-d941-4fcc-8874-2ff3c9e96b4a
-   :LAST_REPEAT: [2013-07-05 Fri 21:03]
+   :LAST_REPEAT: [2013-07-09 Tue 21:40]
    :END:
 
 What to review:

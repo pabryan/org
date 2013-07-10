@@ -703,6 +703,9 @@ Healthy habits. I want to keep on track with living well and so need reminders t
    :END:
 [2012-11-03 Sat 16:33]
 **** NEXT Catalogue vids to burn
+     :PROPERTIES:
+     :ID:       0deba686-f0b8-40c6-9315-4f865de639f0
+     :END:
 - List vids to burn along with status
   - Make ISO
   - Burn DVD
@@ -1105,8 +1108,17 @@ Bath and toilet clogged. Need light globes.
    :ID:       b968337e-485a-47ef-9c09-1dd0282f1173
    :END:
 *** NEXT Investigate work farm/compost
+    :PROPERTIES:
+    :ID:       cc8fb5b2-d36f-4e56-b5ae-a1d57f01525b
+    :END:
 *** NEXT Get more pots!
+    :PROPERTIES:
+    :ID:       d64c83fa-6827-41c5-af05-56b09b863afd
+    :END:
 *** NEXT Get tomato plant hanging stand (walmart?)
+    :PROPERTIES:
+    :ID:       48eba15b-c424-4f9b-a0a2-83c3e2dacab5
+    :END:
 *** DONE Plan out balcony garden
     - State "DONE"       from "NEXT"       [2013-07-09 Tue 10:38]
     :PROPERTIES:
@@ -1486,8 +1498,14 @@ Delta 4502 From LA.
     :ID:       ef2170c0-9863-47cd-89ba-7cf681da27f4
     :END:
 *** NEXT Update capture templates
+    :PROPERTIES:
+    :ID:       c0d26476-87ed-45cd-b24f-abc56793f320
+    :END:
 - I should only record the summary: it takes too long otherwise!
 *** NEXT Plan out data collecting
+    :PROPERTIES:
+    :ID:       ac573183-405a-4fc5-8508-3ee79273a175
+    :END:
 - Print out journal at start of month
 - Only record summary: don't need all the reps and wotnot!
 *** NEXT Import sleep data

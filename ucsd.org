@@ -95,6 +95,9 @@ Blank	Grade not reported by instructor
 
 ** Courses							    :COURSES:
 *** TODO Course setup
+    :PROPERTIES:
+    :ID:       7501a4f0-48e9-4d4d-8485-b6d9107be480
+    :END:
 **** TODO Course org setup
      :PROPERTIES:
      :ID:       2470fdb2-0910-4cde-bc39-57398dd8e5f7
@@ -3480,6 +3483,9 @@ WLH 2113
 
 ****** NEXT Set up course org-mode
        SCHEDULED: <2013-09-09 Mon>
+       :PROPERTIES:
+       :ID:       6385ba42-fcb7-48f9-ae17-becfdbb779d4
+       :END:
 *** Winter 2014
 **** TODO MATH150B
      :PROPERTIES:
