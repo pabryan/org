@@ -183,8 +183,14 @@ I want to find things for Remy to do at home that keep his interest in the world
    :ID:       1cba75a7-0dee-40ff-9463-d9ab42b68b65
    :END:
 
-** IA Home Learning
-*** TODO Go to IA Home learning
+** IA
+*** Tasks
+**** NEXT Fill in acceptence form
+     DEADLINE: <2013-07-12 Fri>
+
+*** IA Home Learning
+**** DONE Go to IA Home learning
+    - State "DONE"       from "TODO"       [2013-07-10 Wed 14:29]
     :PROPERTIES:
     :ID:       bad285f9-4d41-4755-a8c7-fbff2bc5af30
     :END:
