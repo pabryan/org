@@ -460,11 +460,12 @@ Need to make it consistent with spatial viscosity bit.
        CLOCK: [2013-07-11 Thu 11:54]--[2013-07-11 Thu 12:42] =>  0:48
        :END:
 - Consequences of vanishing first variation in same lemma.
-****** NEXT Write hessian of d at minimiser and eigenvectors of $M_{\pm}$
+****** CANCELLED Write hessian of d at minimiser and eigenvectors of $M_{\pm}$
+       - State "CANCELLED"  from "NEXT"       [2013-07-11 Thu 15:41] \\
+	 Not useful. We need the hessian of $Z$ at the minimiser which I've alredy got in the viscosity equation.
 - Write expression for $D^2 d$
 - Get eigenvalues of $M_{\pm}$ and derive null eigenvector identity
-****** DONE Write asymptotics
-       - State "DONE"       from "NEXT"       [2013-07-11 Thu 11:54]
+****** NEXT Write asymptotics
 ****** DONE Write viscosity equation without specifying curvature integral bounds
        - State "DONE"       from "NEXT"       [2013-07-11 Thu 11:47]
        :LOGBOOK:
@@ -488,7 +489,10 @@ Maybe give the result first and then discuss (briefly) the history.
        - State "DONE"       from "NEXT"       [2013-07-11 Thu 11:55]
 ****** NEXT Mention that we use a null-eigenvector 
 To cancel various things we use a null eigenvector of $M_+,M_-$.
-****** TODO Clean up text
+****** NEXT Clean up text
+       :LOGBOOK:
+       CLOCK: [2013-07-11 Thu 15:49]
+       :END:
 A few typos and what not came in after rearranging
 ****** DONE Add a section on chord/arc-profile
        - State "DONE"       from "NEXT"       [2013-07-10 Wed 19:18]
