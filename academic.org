@@ -468,6 +468,7 @@ Is there something that can be deduced for optimal points/concavity by inequalit
        :ID:       fd104b00-d994-4de3-91b9-cdb9f2b02d15
        :END:
 Maybe give the result first and then discuss (briefly) the history.
+****** NEXT Mention somewhere that $p_0\ne q_0$ since $\ell \ne 0$.
 ****** TODO Clean up text
 A few typos and what not came in after rearranging
 ****** DONE Add a section on chord/arc-profile
