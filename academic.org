@@ -260,7 +260,7 @@ Decided not to do it.
 *** Working							      :FOCUS:
 **** TODO alpha CSF distance comparison				  :CSF_ALPHA:
    :LOGBOOK:
-   CLOCK: [2013-07-11 Thu 11:47]
+   CLOCK: [2013-07-11 Thu 11:47]--[2013-07-11 Thu 11:54] =>  0:07
    CLOCK: [2013-07-11 Thu 10:03]--[2013-07-11 Thu 10:04] =>  0:01
    CLOCK: [2013-02-14 Thu 12:21]--[2013-02-14 Thu 12:29] =>  0:08
    CLOCK: [2013-02-14 Thu 12:15]--[2013-02-14 Thu 12:21] =>  0:06
@@ -454,9 +454,13 @@ This requires an estimate of $\int k f(k)$ analogous to Holder's for CSF where $
        :END:
 Need to make it consistent with spatial viscosity bit.
 ****** NEXT Make lemma with differentials at the minimiser
+       :LOGBOOK:
+       CLOCK: [2013-07-11 Thu 11:54]
+       :END:
 - Write out D^2d at the minimiser in its own lemma.
 - Also write out consequence of vanishing first variation in same lemma.
-****** NEXT Write asymptotics
+****** DONE Write asymptotics
+       - State "DONE"       from "NEXT"       [2013-07-11 Thu 11:54]
 ****** DONE Write viscosity equation without specifying curvature integral bounds
        - State "DONE"       from "NEXT"       [2013-07-11 Thu 11:47]
        :LOGBOOK:
@@ -476,7 +480,8 @@ Is there something that can be deduced for optimal points/concavity by inequalit
        :ID:       fd104b00-d994-4de3-91b9-cdb9f2b02d15
        :END:
 Maybe give the result first and then discuss (briefly) the history.
-****** NEXT Mention somewhere that $p_0\ne q_0$ since $\ell \ne 0$.
+****** DONE Mention somewhere that $p_0\ne q_0$ since $\ell \ne 0$.
+       - State "DONE"       from "NEXT"       [2013-07-11 Thu 11:55]
 ****** NEXT Mention that we use a null-eigenvector 
 To cancel various things we use a null eigenvector of $M_+,M_-$.
 ****** TODO Clean up text
