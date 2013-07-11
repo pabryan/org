@@ -456,6 +456,9 @@ Need to make it consistent with spatial viscosity bit.
 - Write out D^2d at the minimiser in its own lemma.
 - Also write out consequence of vanishing first variation in same lemma.
 ****** NEXT Write viscosity equation without specifying curvature integral bounds
+       :LOGBOOK:
+       CLOCK: [2013-07-11 Thu 10:24]
+       :END:
 It might be useful just to write the viscosity equation with the curvature bounds in the equation. Then we have a comparison whenever we can estimate the integral bounds.
 ****** NEXT Work out barrier inequality
        :LOGBOOK:
