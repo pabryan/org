@@ -438,7 +438,7 @@ This requires an estimate of $\int k f(k)$ analogous to Holder's for CSF where $
        :END:
 ****** NEXT Work out barrier inequality
        :LOGBOOK:
-       CLOCK: [2013-07-10 Wed 19:17]
+       CLOCK: [2013-07-10 Wed 19:17]--[2013-07-10 Wed 21:28] =>  2:11
        CLOCK: [2013-07-10 Wed 15:30]--[2013-07-10 Wed 16:00] =>  0:30
        :END:
 Is there something that can be deduced for optimal points/concavity by inequalities in the barrier sense? E.g. something like Bavard/Pansu and Sternberg/Zunbrum.
