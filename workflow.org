@@ -1194,6 +1194,7 @@ Put my common setup in it's own config and include from the .sss/config file. Th
   :END:
 ** Organisation
   :LOGBOOK:
+  CLOCK: [2013-07-12 Fri 09:40]
   CLOCK: [2013-07-11 Thu 15:39]--[2013-07-11 Thu 15:49] =>  0:10
   CLOCK: [2013-07-11 Thu 09:36]--[2013-07-11 Thu 09:42] =>  0:06
   CLOCK: [2013-07-10 Wed 19:09]--[2013-07-10 Wed 19:17] =>  0:08
@@ -1744,7 +1745,8 @@ Check how I did last month. I guess the review and plan could probably go togeth
 
 
 ** NEXT Daily Review [0/3]
-   SCHEDULED: <2013-07-11 Thu .+1d/2d>
+   SCHEDULED: <2013-07-12 Fri .+1d/2d>
+   - State "DONE"       from "NEXT"       [2013-07-11 Thu 20:30]
    - State "DONE"       from "NEXT"       [2013-07-10 Wed 21:30]
    - State "DONE"       from "NEXT"       [2013-07-09 Tue 21:40]
    - State "DONE"       from "NEXT"       [2013-07-05 Fri 21:03]
