@@ -466,6 +466,9 @@ Need to make it consistent with spatial viscosity bit.
 - Write expression for $D^2 d$
 - Get eigenvalues of $M_{\pm}$ and derive null eigenvector identity
 ****** NEXT Write asymptotics
+       :LOGBOOK:
+       CLOCK: [2013-07-12 Fri 11:20]--[2013-07-12 Fri 11:39] =>  0:19
+       :END:
 ****** DONE Write viscosity equation without specifying curvature integral bounds
        - State "DONE"       from "NEXT"       [2013-07-11 Thu 11:47]
        :LOGBOOK:
@@ -492,6 +495,7 @@ Maybe give the result first and then discuss (briefly) the history.
 To cancel various things we use a null eigenvector of $M_+,M_-$.
 ****** NEXT Clean up text
        :LOGBOOK:
+       CLOCK: [2013-07-12 Fri 09:55]--[2013-07-12 Fri 11:20] =>  1:25
        CLOCK: [2013-07-11 Thu 15:49]--[2013-07-11 Thu 16:20] =>  0:31
        :END:
 A few typos and what not came in after rearranging
