@@ -39,7 +39,7 @@ Go through the list and categorise what's there.
     :END:
 [2013-03-19 Tue 13:46]
 *** TODO org-mode sync/web access
-    SCHEDULED: <2013-07-05 Fri>
+    SCHEDULED: <2013-07-13 Sat>
   :LOGBOOK:
   CLOCK: [2013-07-03 Wed 10:06]--[2013-07-03 Wed 10:09] =>  0:03
   :END:
@@ -1194,7 +1194,8 @@ Put my common setup in it's own config and include from the .sss/config file. Th
   :END:
 ** Organisation
   :LOGBOOK:
-  CLOCK: [2013-07-12 Fri 09:40]
+  CLOCK: [2013-07-12 Fri 09:53]
+  CLOCK: [2013-07-12 Fri 09:39]--[2013-07-12 Fri 09:52] =>  0:13
   CLOCK: [2013-07-11 Thu 15:39]--[2013-07-11 Thu 15:49] =>  0:10
   CLOCK: [2013-07-11 Thu 09:36]--[2013-07-11 Thu 09:42] =>  0:06
   CLOCK: [2013-07-10 Wed 19:09]--[2013-07-10 Wed 19:17] =>  0:08
@@ -1780,7 +1781,7 @@ Check how I did last month. I guess the review and plan could probably go togeth
    - State "DONE"       from "NEXT"       [2013-01-23 Wed 19:25]
    - State "DONE"       from "NEXT"       [2013-01-14 Mon 17:43]
    :LOGBOOK:
-   CLOCK: [2013-07-09 Tue 21:37]--[2013-07-09 Tue 21:40] =>  0:03
+   CLOCK: [2013-07-09 Tue 21:37]--[2013-07-12 Fri 09:52] => 60:15
    CLOCK: [2013-06-03 Mon 20:37]--[2013-06-03 Mon 20:38] =>  0:01
    CLOCK: [2013-03-30 Sat 21:12]--[2013-03-30 Sat 21:13] =>  0:01
    CLOCK: [2013-03-20 Wed 21:50]--[2013-03-20 Wed 21:54] =>  0:04
@@ -1817,7 +1818,8 @@ For the following, do I just use the existing diary.org capture template or perh
 - [ ] Write down any thoughts, relections on the day.
 
 ** NEXT Daily Plan [0/2]
-   SCHEDULED: <2013-07-12 Fri .+1d/2d>
+   SCHEDULED: <2013-07-13 Sat .+1d/2d>
+   - State "DONE"       from "NEXT"       [2013-07-12 Fri 09:53]
    - State "DONE"       from "NEXT"       [2013-07-11 Thu 09:36]
    - State "DONE"       from "NEXT"       [2013-07-10 Wed 10:52]
    - State "DONE"       from "NEXT"       [2013-07-09 Tue 12:34]
@@ -1907,6 +1909,7 @@ For the following, do I just use the existing diary.org capture template or perh
    - State "DONE"       from "NEXT"       [2013-01-10 Thu 09:22]
    - State "DONE"       from "NEXT"       [2013-01-09 Wed 07:19]
    :LOGBOOK:
+   CLOCK: [2013-07-12 Fri 09:52]--[2013-07-12 Fri 09:53] =>  0:01
    CLOCK: [2013-07-11 Thu 09:31]--[2013-07-11 Thu 09:36] =>  0:05
    CLOCK: [2013-07-10 Wed 10:51]--[2013-07-10 Wed 10:52] =>  0:01
    CLOCK: [2013-07-04 Thu 09:52]--[2013-07-04 Thu 09:59] =>  0:07
@@ -1959,7 +1962,7 @@ For the following, do I just use the existing diary.org capture template or perh
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
    :ID:       ef051ee0-1113-4604-b355-450a5a47848b
-   :LAST_REPEAT: [2013-07-11 Thu 09:36]
+   :LAST_REPEAT: [2013-07-12 Fri 09:53]
    :END:
 
 - [ ] Check agenda/focus
