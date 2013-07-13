@@ -493,14 +493,14 @@ Is there something that can be deduced for optimal points/concavity by inequalit
 Maybe give the result first and then discuss (briefly) the history.
 ****** DONE Mention somewhere that $p_0\ne q_0$ since $\ell \ne 0$.
        - State "DONE"       from "NEXT"       [2013-07-11 Thu 11:55]
-****** NEXT Mention that we use a null-eigenvector 
+****** DONE Fix up spatial viscosity equation.
+       - State "DONE"       from "NEXT"       [2013-07-12 Fri 16:59]
        :LOGBOOK:
-       CLOCK: [2013-07-12 Fri 15:37]
+       CLOCK: [2013-07-12 Fri 15:37]--[2013-07-12 Fri 16:59] =>  1:22
        :END:
-Need to rename this: Fix up spatial viscosity equation.
-To cancel various things we use a null eigenvector of $M_+,M_-$.
 ****** NEXT Clean up text
        :LOGBOOK:
+       CLOCK: [2013-07-12 Fri 17:08]
        CLOCK: [2013-07-12 Fri 09:55]--[2013-07-12 Fri 11:20] =>  1:25
        CLOCK: [2013-07-11 Thu 15:49]--[2013-07-11 Thu 16:20] =>  0:31
        :END:
