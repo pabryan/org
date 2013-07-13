@@ -1783,7 +1783,8 @@ Check how I did last month. I guess the review and plan could probably go togeth
    - State "DONE"       from "NEXT"       [2013-01-23 Wed 19:25]
    - State "DONE"       from "NEXT"       [2013-01-14 Mon 17:43]
    :LOGBOOK:
-   CLOCK: [2013-07-09 Tue 21:37]--[2013-07-12 Fri 09:52] => 60:15
+   CLOCK: [2013-07-11 Thu 21:45]--[2013-07-11 Thu 21:52] =>  0:07
+   CLOCK: [2013-07-09 Tue 21:37]--[2013-07-09 Tue 21:45] =>  0:08
    CLOCK: [2013-06-03 Mon 20:37]--[2013-06-03 Mon 20:38] =>  0:01
    CLOCK: [2013-03-30 Sat 21:12]--[2013-03-30 Sat 21:13] =>  0:01
    CLOCK: [2013-03-20 Wed 21:50]--[2013-03-20 Wed 21:54] =>  0:04
