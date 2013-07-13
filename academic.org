@@ -468,6 +468,7 @@ Need to make it consistent with spatial viscosity bit.
 - Get eigenvalues of $M_{\pm}$ and derive null eigenvector identity
 ****** NEXT Write asymptotics
        :LOGBOOK:
+       CLOCK: [2013-07-13 Sat 10:36]
        CLOCK: [2013-07-12 Fri 11:20]--[2013-07-12 Fri 11:39] =>  0:19
        :END:
 - Need to get lower bound
