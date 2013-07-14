@@ -1751,7 +1751,8 @@ Check how I did last month. I guess the review and plan could probably go togeth
 
 
 ** NEXT Daily Review [0/3]
-   SCHEDULED: <2013-07-13 Sat .+1d/2d>
+   SCHEDULED: <2013-07-14 Sun .+1d/2d>
+   - State "DONE"       from "NEXT"       [2013-07-13 Sat 21:37]
    - State "DONE"       from "NEXT"       [2013-07-12 Fri 21:20]
    - State "DONE"       from "NEXT"       [2013-07-11 Thu 20:30]
    - State "DONE"       from "NEXT"       [2013-07-10 Wed 21:30]
@@ -1787,6 +1788,7 @@ Check how I did last month. I guess the review and plan could probably go togeth
    - State "DONE"       from "NEXT"       [2013-01-23 Wed 19:25]
    - State "DONE"       from "NEXT"       [2013-01-14 Mon 17:43]
    :LOGBOOK:
+   CLOCK: [2013-07-13 Sat 21:36]--[2013-07-13 Sat 21:37] =>  0:01
    CLOCK: [2013-07-11 Thu 21:45]--[2013-07-11 Thu 21:52] =>  0:07
    CLOCK: [2013-07-09 Tue 21:37]--[2013-07-09 Tue 21:45] =>  0:08
    CLOCK: [2013-06-03 Mon 20:37]--[2013-06-03 Mon 20:38] =>  0:01
@@ -1807,7 +1809,7 @@ Check how I did last month. I guess the review and plan could probably go togeth
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
    :ID:       616c5bd9-d941-4fcc-8874-2ff3c9e96b4a
-   :LAST_REPEAT: [2013-07-10 Wed 21:30]
+   :LAST_REPEAT: [2013-07-13 Sat 21:37]
    :END:
 
 What to review:
