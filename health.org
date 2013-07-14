@@ -113,7 +113,8 @@
     CLOCK: [2013-07-02 Tue 10:31]--[2013-07-02 Tue 11:25] =>  0:54
     :END:
 *** NEXT Morning Mobility
-    SCHEDULED: <2013-07-14 Sun .+1d/2d>
+    SCHEDULED: <2013-07-15 Mon .+1d/2d>
+    - State "DONE"       from "NEXT"       [2013-07-14 Sun 09:02]
     - State "DONE"       from "NEXT"       [2013-07-13 Sat 10:02]
     - State "DONE"       from "NEXT"       [2013-07-12 Fri 09:41]
     - State "DONE"       from "NEXT"       [2013-07-11 Thu 09:31]
