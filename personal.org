@@ -762,8 +762,7 @@ Doyle Field
 [2013-02-21 Thu 09:00]
 ** Triton 5k
 <2013-06-08 Sat 09:00>
-** 
-* House								      :HOUSE:
+* House 							      :HOUSE:
   :PROPERTIES:
   :ID:       dee2dca4-a5da-45e5-a276-2e4f8f255a9c
   :CATEGORY: House
@@ -1363,7 +1362,8 @@ Find a good postcast player for android. I want to be able to do offline listeni
 *** Mysterious Universe
 *** Productivity?
 ** Music							      :MUSIC:
-*** TODO Install last.fm scrobbler at home
+*** DONE Install last.fm scrobbler at home
+    - State "DONE"       from "TODO"       [2013-07-14 Sun 16:13]
   :LOGBOOK:
   CLOCK: [2013-04-07 Sun 15:23]--[2013-04-07 Sun 15:24] =>  0:01
   :END:
@@ -1380,6 +1380,9 @@ Find a good postcast player for android. I want to be able to do offline listeni
   :END:
 [2013-04-07 Sun 15:33]
 This will be to use XBMC, the [[http://code.google.com/p/pms-xbmc/]] [[http://www.ps3mediaserver.org/about/][PS3 media server]] plugin and https://github.com/jnj/pms-scrobbler to access last.fm. I should be able to watch movies too? It would be nice to send the full screen output to the streaming server...
+** Games							      :GAMES:
+*** Get Playstation plus
+    SCHEDULED: <2013-08-01 Thu>
 * Home organisation
   :PROPERTIES:
   :ID:       204ad8e3-a00f-4da7-b2d6-deb5e370a2c6
@@ -1635,3 +1638,6 @@ Code: SHARE10
     :PROPERTIES:
     :ID:       bf7ebda2-625a-4b22-8aa2-950044bc857a
     :END:
+* Phone								      :PHONE:
+** Buy google credit
+   SCHEDULED: <2013-08-01 Thu>
