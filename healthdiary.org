@@ -1963,34 +1963,42 @@ Set 4 HR: 104
 :PROPERTIES:
 :Type: Conditioning
 :Intensity: Mod
+:RestHR: 68
+:MobilityHR: 72
+:FinalHR: 144
+:RecoveryHR: 96
+:Score: 14
+:Technique: 9
+:Effort: 7
+:Discomfort: 3
 :END:
 
 *** 2013-06-22 Saturday
 :PROPERTIES:
 :Type: Conditioning
 :Intensity: Mod
-:RestHR: 
-:MobilityHR:
-:FinalHR:
-:RecoveryHR:
-:Score:
-:Technique:
-:Effort:
-:Discomfort:
+:RestHR: 56
+:MobilityHR: 60
+:FinalHR: 120
+:RecoveryHR: 88
+:Score: 14
+:Technique: 9
+:Effort: 7
+:Discomfort: 3
 :END:
 
 *** 2013-06-26 Wednesday
 :PROPERTIES:
 :Type: Conditioning
 :Intensity: Mod
-:RestHR: 
-:MobilityHR:
-:FinalHR:
-:RecoveryHR:
-:Score:
-:Technique:
-:Effort:
-:Discomfort:
+:RestHR: 68
+:MobilityHR: 80
+:FinalHR: 140
+:RecoveryHR: 108
+:Score: 15
+:Technique: 9
+:Effort: 7
+:Discomfort: 4
 :END:
 
 ** 2013-07 July
@@ -1998,42 +2006,42 @@ Set 4 HR: 104
 :PROPERTIES:
 :Type: Conditioning
 :Intensity: Mod
-:RestHR: 
-:MobilityHR:
-:FinalHR:
-:RecoveryHR:
-:Score:
-:Technique:
-:Effort:
-:Discomfort:
+:RestHR: 60
+:MobilityHR: 66
+:FinalHR: 140
+:RecoveryHR: 116
+:Score: 15
+:Technique: 9
+:Effort: 7
+:Discomfort: 3
 :END:
 
 *** 2013-07-06 Saturday
 :PROPERTIES:
 :Type: Conditioning
 :Intensity: Mod
-:RestHR: 
-:MobilityHR:
-:FinalHR:
-:RecoveryHR:
-:Score:
-:Technique:
-:Effort:
-:Discomfort:
+:RestHR: 58
+:MobilityHR: 60
+:FinalHR: 160
+:RecoveryHR: 96
+:Score: 16
+:Technique: 9
+:Effort: 8
+:Discomfort: 3
 :END:
 
 *** 2013-07-13 Saturday
 :PROPERTIES:
 :Type: Conditioning
 :Intensity: Mod
-:RestHR: 
-:MobilityHR:
-:FinalHR:
-:RecoveryHR:
-:Score:
-:Technique:
-:Effort:
-:Discomfort:
+:RestHR: 80
+:MobilityHR: 82
+:FinalHR: 145
+:RecoveryHR: 124
+:Score: 17
+:Technique: 9
+:Effort: 8
+:Discomfort: 2
 :END:
 
 

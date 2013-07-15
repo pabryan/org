@@ -581,7 +581,7 @@ If I want to learn something, e.g. some maths or self-improvement, juggling, etc
    :END:
 [2012-10-15 Mon 09:47] 
 
-*** TODO Make processes/procedures
+*** TODO Make processes/procedures				    :SOMEDAY:
     :PROPERTIES:
     :ID:       fda5310e-8964-47c0-9864-cc3aa70b7f4d
     :END:
@@ -616,7 +616,8 @@ If I want to learn something, e.g. some maths or self-improvement, juggling, etc
      :PROPERTIES:
      :ID:       ff2df9c9-894e-4aa7-9279-d80dec54de65
      :END:
-**** TODO Automoate getting updates from arxiv
+**** DONE Automate getting updates from arxiv
+     - State "DONE"       from "TODO"       [2013-07-15 Mon 10:45]
 what about journals? Do they have rss?
   CLOCK: [2012-10-19 Fri 10:04]--[2012-10-19 Fri 10:05] =>  0:01
      :PROPERTIES:
@@ -624,7 +625,7 @@ what about journals? Do they have rss?
      :END:
 [2012-10-19 Fri 10:04]
 
-**** TODO Make seminar process an org-mode checklist
+**** TODO Make seminar process and org-mode checklist
      :PROPERTIES:
      :ID:       c4e43475-1bff-4967-af3b-72bdfaa50a20
      :END:
@@ -1194,7 +1195,7 @@ Put my common setup in it's own config and include from the .sss/config file. Th
   :END:
 ** Organisation
   :LOGBOOK:
-  CLOCK: [2013-07-15 Mon 09:54]
+  CLOCK: [2013-07-15 Mon 09:54]--[2013-07-15 Mon 09:59] =>  0:05
   CLOCK: [2013-07-13 Sat 10:03]--[2013-07-13 Sat 10:36] =>  0:33
   CLOCK: [2013-07-13 Sat 10:02]--[2013-07-13 Sat 10:03] =>  0:01
   CLOCK: [2013-07-12 Fri 18:30]--[2013-07-12 Fri 18:31] =>  0:01
@@ -1828,7 +1829,8 @@ For the following, do I just use the existing diary.org capture template or perh
 - [ ] Write down any thoughts, relections on the day.
 
 ** NEXT Daily Plan [0/2]
-   SCHEDULED: <2013-07-15 Mon .+1d/2d>
+   SCHEDULED: <2013-07-16 Tue .+1d/2d>
+   - State "DONE"       from "NEXT"       [2013-07-15 Mon 10:00]
    - State "DONE"       from "NEXT"       [2013-07-14 Sun 15:49]
    - State "DONE"       from "NEXT"       [2013-07-13 Sat 10:03]
    - State "DONE"       from "NEXT"       [2013-07-12 Fri 09:53]
@@ -1921,6 +1923,7 @@ For the following, do I just use the existing diary.org capture template or perh
    - State "DONE"       from "NEXT"       [2013-01-10 Thu 09:22]
    - State "DONE"       from "NEXT"       [2013-01-09 Wed 07:19]
    :LOGBOOK:
+   CLOCK: [2013-07-15 Mon 09:59]--[2013-07-15 Mon 10:00] =>  0:01
    CLOCK: [2013-07-12 Fri 09:52]--[2013-07-12 Fri 09:53] =>  0:01
    CLOCK: [2013-07-11 Thu 09:31]--[2013-07-11 Thu 09:36] =>  0:05
    CLOCK: [2013-07-10 Wed 10:51]--[2013-07-10 Wed 10:52] =>  0:01
@@ -1974,7 +1977,7 @@ For the following, do I just use the existing diary.org capture template or perh
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
    :ID:       ef051ee0-1113-4604-b355-450a5a47848b
-   :LAST_REPEAT: [2013-07-14 Sun 15:49]
+   :LAST_REPEAT: [2013-07-15 Mon 10:00]
    :END:
 
 - [ ] Check agenda/focus
@@ -2005,7 +2008,7 @@ For the following, do I just use the existing diary.org capture template or perh
 I probably don't need this!
 
 
-** NEXT Weekly Review [0/12]
+** NEXT Weekly Review [7/12]
    SCHEDULED: <2013-07-15 Mon ++1w>
    - State "DONE"       from "NEXT"       [2013-07-09 Tue 12:33]
    - State "DONE"       from "NEXT"       [2013-07-03 Wed 16:31]
@@ -2023,6 +2026,10 @@ I probably don't need this!
    - State "DONE"       from "NEXT"       [2012-12-07 Fri 13:44]
    - State "DONE"       from "NEXT"       [2012-11-30 Fri 14:06]
    :LOGBOOK:
+   CLOCK: [2013-07-15 Mon 10:28]
+   CLOCK: [2013-07-15 Mon 10:06]--[2013-07-15 Mon 10:14] =>  0:08
+   CLOCK: [2013-07-15 Mon 10:02]--[2013-07-15 Mon 10:06] =>  0:04
+   CLOCK: [2013-07-15 Mon 10:00]--[2013-07-15 Mon 10:02] =>  0:02
    CLOCK: [2013-07-09 Tue 12:19]--[2013-07-09 Tue 12:33] =>  0:14
    CLOCK: [2013-07-09 Tue 11:07]--[2013-07-09 Tue 11:19] =>  0:12
    CLOCK: [2013-07-09 Tue 10:19]--[2013-07-09 Tue 10:49] =>  0:30
@@ -2065,16 +2072,16 @@ I probably don't need this!
 
 What to review:
 
-- [ ] Check follow-up paper folder
-- [ ] Check holding directory
+- [X] Check follow-up paper folder
+- [X] Check holding directory
   [[file:~/holding]]
-- [ ] Check holding email folder
-- [ ] Review weekly agenda =F12 a w//=
-- [ ] Check clocking data for past week =v c=
+- [X] Check holding email folder
+- [X] Review weekly agenda =F12 a w//=
+- [X] Check clocking data for past week =v c=
   - fix up any errors
-- [ ] Review clock report for past week =R=
+- [X] Review clock report for past week =R=
   - Check where we spent time (too much or too little) and rectify this week
-- [ ] Look at entire agenda for today  =F12 SPC=
+- [X] Look at entire agenda for today  =F12 SPC=
 - [ ] Review projects =F12 SPC //= and =P= repeatedly to view each project
   - Unstick stuck projects!
 - [ ] Check uncommited work
