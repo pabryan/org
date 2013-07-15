@@ -2008,7 +2008,7 @@ For the following, do I just use the existing diary.org capture template or perh
 I probably don't need this!
 
 
-** NEXT Weekly Review [8/12]
+** NEXT Weekly Review [10/13]
    SCHEDULED: <2013-07-15 Mon ++1w>
    - State "DONE"       from "NEXT"       [2013-07-09 Tue 12:33]
    - State "DONE"       from "NEXT"       [2013-07-03 Wed 16:31]
@@ -2084,8 +2084,8 @@ What to review:
 - [X] Look at entire agenda for today  =F12 SPC=
 - [X] Review projects =F12 SPC //= and =P= repeatedly to view each project
   - Unstick stuck projects!
-- [ ] Check uncommited work
-- [ ] Refile tasks
+- [X] Check uncommited work
+- [X] Refile tasks
 - [ ] [[*Weekly%20collection%20and%20clean%20up%20%5B0/4%5D][Weekly collection and clean up {0/4}]]
 - [ ] Process incoming information
   - feedly

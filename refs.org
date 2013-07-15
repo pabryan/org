@@ -16,14 +16,30 @@
 :END:
 [[papers:MR2948294][MR2948294-paper]]
 ** 35 Partial differential equations					:pde:
+*** 35J  (1973-now) Elliptic equations and systems [See also 58J10, 58J20]
+**** 35J55  (1973-2009) Boundary value problems for elliptic systems
+***** Viscosity solutions of fully nonlinear degenerated elliptic systems
+:PROPERTIES:
+:Custom_ID: MR1986239
+:END:
+[[papers:MR1986239][MR1986239-paper]]
+[[bib:MR1986239][MR1986239-bib]]
 *** 35K   (1973-now) Parabolic equations and systems [See also 35Bxx, 35Dxx, 35R30, 35R35, 58J35] :parabolic:
-**** 35K55   (1973-now) Nonlinear parabolic equations		  :nonlinear:
+**** 35K55  (1973-now) Nonlinear parabolic equations	:nonlinear:parabolic:
 ***** Convex curves moving translationally in the plane :convex:curves:translation:plane:geometry:evolution:
 :PROPERTIES:
 :Custom_ID: MR2225802
 :END:
 [[papers:MR2225802][MR2225802-paper]]
 [[bib:MR2225802][MR2225802-bib]]
+**** 35K50  (1973-2009) Boundary value problems for parabolic systems :parabolic:boundary:system:
+***** Viscosity solutions of fully nonlinear parabolic systems
+:PROPERTIES:
+:Custom_ID: MR1980097
+:END:
+[[papers:MR1980097][MR1980097-paper]]
+[[bib:MR1980097][MR1980097-bib]]
+
 *** 35R Miscellaneous topics
 **** 35R01 Partial differential equations on manifolds		  :manifolds:
 ***** Local {A}ronson-{B}\'enilan estimates and entropy formulae for porous medium and fast diffusion equations on manifolds :porous_medium:entropy:
@@ -484,8 +500,7 @@ Here I need to do some more work since $u \mapsto g(\grad u, \grad u)$ is not a 
 
 
 
-
-* Arxiv								      :arxiv:
+* Arxiv 							      :arxiv:
   :PROPERTIES:
   :COLUMNS: %75ITEM %TAGS
   :ID:       6ac9b861-65b6-4799-bb71-716b51571ab6

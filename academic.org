@@ -1418,6 +1418,11 @@ I'd like to be able to use org-mode views to show papers/books by a given author
 
 Schedule time for research, for teaching and for non-research academic work (e.g. refereeing). That cover's all the sort of work I do.
 
+*** TODO Prove similarity solns (self-shrinkers/translations) have polyomial growth
+  SCHEDULED: <2013-09-09 Mon>
+  :LOGBOOK:
+  :END:
+[2013-07-15 Mon 10:02]
 ** Research ideas
    :PROPERTIES:
    :ID:       76fc2a4e-0bcf-40b4-aa91-f87c8962f648
