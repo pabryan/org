@@ -15,7 +15,8 @@
   :PROPERTIES:
   :ID:       05f896fc-0400-4ac3-bfef-5e3c5457fd02
   :END:
-** TODO Update website template
+** Tasks
+*** TODO Update website template
 check out http://www.wix.com/
 use org-mode to write content, css to render
 Find tempaltes!
@@ -25,26 +26,31 @@ Find tempaltes!
    :END:
 [2012-10-15 Mon 10:13]
 
-** TODO Write in org mode
-   :PROPERTIES:
-   :ID:       d4065564-7904-47cc-b82c-68a9e060597e
-   :END:
-** TODO Write website content
-   :PROPERTIES:
-   :ID:       5c8378f9-737c-4a4a-98ea-52d9c4ca3e93
-   :END:
-*** NEXT CV
+*** TODO Write in org mode
     :PROPERTIES:
-    :ID:       27dfad08-3c5c-4678-a6d6-83cf0594c320
+    :ID:       d4065564-7904-47cc-b82c-68a9e060597e
     :END:
-*** SOMEDAY Links to papers
+*** TODO Write website content
     :PROPERTIES:
-    :ID:       001a6a07-ac07-41ab-918a-fea9bd071d53
+    :ID:       5c8378f9-737c-4a4a-98ea-52d9c4ca3e93
     :END:
-*** SOMEDAY Research interests
-    :PROPERTIES:
-    :ID:       3dd10810-b2c4-4677-b2c4-e4d542620645
-    :END:
+**** NEXT CV
+     :PROPERTIES:
+     :ID:       27dfad08-3c5c-4678-a6d6-83cf0594c320
+     :END:
+**** SOMEDAY Links to papers
+     :PROPERTIES:
+     :ID:       001a6a07-ac07-41ab-918a-fea9bd071d53
+     :END:
+**** SOMEDAY Research interests
+     :PROPERTIES:
+     :ID:       3dd10810-b2c4-4677-b2c4-e4d542620645
+     :END:
+*** TODO Collapsing website style
+  :LOGBOOK:
+  :END:
+[2013-07-16 Tue 10:29]
+Check out http://daretoevolve.tv/dare-to-evolve-member/
 * Teaching 							   :TEACHING:
   :LOGBOOK:
   CLOCK: [2012-12-06 Thu 10:53]--[2012-12-06 Thu 11:05] =>  0:12

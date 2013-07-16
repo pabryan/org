@@ -372,7 +372,7 @@ Can we suspend loan repayments for a few months?
   :END:
 [2013-04-23 Tue 10:59]
 
-* Health							     :HEALTH:
+* Health 							     :HEALTH:
   :PROPERTIES:
   :ID:       d9d7d0ec-a6b9-4451-ae42-5519eba7be50
   :CATEGORY: Health
@@ -933,7 +933,12 @@ END:
 PROPERTIES:
 CATEGORY: Tasks
 END:
-
+** TODO Buy tablet/phone cables and Dropsync
+  SCHEDULED: <2013-08-01 Thu>
+  :LOGBOOK:
+  CLOCK: [2013-07-16 Tue 10:21]--[2013-07-16 Tue 10:22] =>  0:01
+  :END:
+[2013-07-16 Tue 10:21]
 ** DONE Change clock
    - State "DONE"       from "TODO"       [2012-11-10 Sat 13:35]
 <2012-11-04 Sun>
