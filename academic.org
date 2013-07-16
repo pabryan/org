@@ -260,6 +260,7 @@ Decided not to do it.
 *** Working							      :FOCUS:
 **** TODO alpha CSF distance comparison				  :CSF_ALPHA:
    :LOGBOOK:
+   CLOCK: [2013-07-16 Tue 11:39]
    CLOCK: [2013-07-12 Fri 18:24]--[2013-07-12 Fri 18:25] =>  0:01
    CLOCK: [2013-07-11 Thu 12:42]--[2013-07-11 Thu 12:44] =>  0:02
    CLOCK: [2013-07-11 Thu 11:47]--[2013-07-11 Thu 11:54] =>  0:07
@@ -525,9 +526,10 @@ Let $\xi(p_0, q_0) = 0$ if $\tang_{p_0}=\tang_{q_0}$ and $1$ otherwise. Then I c
        :PROPERTIES:
        :ID:       cc7a64a2-bc18-4f6b-a239-289231e67efe
        :END:
-****** NEXT Work out normalised flow for general speeds
+****** DONE Work out normalised flow for general speeds
+       - State "DONE"       from "NEXT"       [2013-07-16 Tue 11:39]
        :LOGBOOK:
-       CLOCK: [2013-07-16 Tue 10:56]
+       CLOCK: [2013-07-16 Tue 10:56]--[2013-07-16 Tue 11:39] =>  0:43
        CLOCK: [2013-07-15 Mon 14:45]--[2013-07-15 Mon 16:30] =>  1:45
        :END:
 ****** TODO Find comparison solutions
