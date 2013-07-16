@@ -1,8 +1,12 @@
 #+FILETAGS: REFILE
  
 
-* TODO Collapsing website style
+* TODO VPN Auto connect
   :LOGBOOK:
   :END:
-[2013-07-16 Tue 10:29]
-Check out http://daretoevolve.tv/dare-to-evolve-member/
+[2013-07-16 Tue 10:39]
+
+http://askubuntu.com/questions/43465/how-to-automatically-connect-to-vpn-with-network-manager
+https://wiki.archlinux.org/index.php/NetworkManager#Use_dispatcher_to_connect_to_a_vpn_after_a_network-connection_is_established
+http://askubuntu.com/questions/198136/error-when-trying-to-connect-to-vpn-on-startup
+

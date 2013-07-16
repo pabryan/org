@@ -1189,13 +1189,24 @@ http://www.raspbian.org/
   :END:
 [2013-04-23 Tue 08:55]
 Put my common setup in it's own config and include from the .sss/config file. This way I can have a local version on math131 that operates whether or not the Dropbox folder is accessible.
+** NEXT VPN Auto connect
+  :LOGBOOK:
+  :END:
+[2013-07-16 Tue 10:39]
+
+http://askubuntu.com/questions/43465/how-to-automatically-connect-to-vpn-with-network-manager
+https://wiki.archlinux.org/index.php/NetworkManager#Use_dispatcher_to_connect_to_a_vpn_after_a_network-connection_is_established
+http://askubuntu.com/questions/198136/error-when-trying-to-connect-to-vpn-on-startup
+
 * Tasks
   :PROPERTIES:
   :ID:       4257fe31-e606-4ca9-a848-858379409679
   :END:
 ** Organisation
   :LOGBOOK:
-  CLOCK: [2013-07-16 Tue 10:18]
+  CLOCK: [2013-07-16 Tue 10:39]
+  CLOCK: [2013-07-16 Tue 10:22]--[2013-07-16 Tue 10:39] =>  0:17
+  CLOCK: [2013-07-16 Tue 10:18]--[2013-07-16 Tue 10:21] =>  0:03
   CLOCK: [2013-07-15 Mon 13:30]--[2013-07-15 Mon 14:00] =>  0:30
   CLOCK: [2013-07-16 Tue 09:48]--[2013-07-16 Tue 10:17] =>  0:29
   CLOCK: [2013-07-15 Mon 11:28]--[2013-07-15 Mon 11:36] =>  0:08
