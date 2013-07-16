@@ -501,6 +501,7 @@ Is there something that can be deduced for optimal points/concavity by inequalit
        :END:
 ****** NEXT Clean up text
        :LOGBOOK:
+       CLOCK: [2013-07-16 Tue 10:40]--[2013-07-16 Tue 10:56] =>  0:16
        CLOCK: [2013-07-12 Fri 18:25]--[2013-07-12 Fri 18:30] =>  0:05
        CLOCK: [2013-07-12 Fri 17:08]--[2013-07-12 Fri 18:02] =>  0:54
        CLOCK: [2013-07-12 Fri 09:55]--[2013-07-12 Fri 11:20] =>  1:25
@@ -526,6 +527,7 @@ Let $\xi(p_0, q_0) = 0$ if $\tang_{p_0}=\tang_{q_0}$ and $1$ otherwise. Then I c
        :END:
 ****** NEXT Work out normalised flow for general speeds
        :LOGBOOK:
+       CLOCK: [2013-07-16 Tue 10:56]
        CLOCK: [2013-07-15 Mon 14:45]--[2013-07-15 Mon 16:30] =>  1:45
        :END:
 ****** TODO Find comparison solutions
