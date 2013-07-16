@@ -724,6 +724,11 @@ Healthy habits. I want to keep on track with living well and so need reminders t
      :ID:       99baf26c-671f-4cc0-b9b5-6e9233d129e8
      :END:
      
+*** TODO Make handstand practice habit
+  DEADLINE: <2013-07-19 Fri> SCHEDULED: <2013-07-16 Tue>
+  :LOGBOOK:
+  :END:
+[2013-07-16 Tue 10:18]
 ** Events
 *** Running
 **** San Diego Beer Run
@@ -1218,7 +1223,7 @@ I should also organise books that I've read/want in some sort of org structure w
    :ID:       d3530c03-a26b-4f36-b246-310533ca9e8c
    :END:
 [2012-10-18 Thu 10:46]
-** Library
+** Library							    :LIBRARY:
 *** Library id
   :PROPERTIES:
   :ID:       7ebbbcd4-6064-45d7-84ca-07dfbae30861
@@ -1263,9 +1268,9 @@ I should also organise books that I've read/want in some sort of org structure w
 *** Summer 2013
 http://sandiegosr.evanced.info/homepage.asp?ProgramID=22
 *** Return Books
-**** TODO 22/7/13
+**** TODO Books 22/7/13
      DEADLINE: <2013-07-22 Mon>
-**** 5/8/13
+**** Books 5/8/13
      DEADLINE: <2013-08-05 Mon>
 **** 31/7/13
      DEADLINE: <2013-07-31 Wed>
@@ -1333,8 +1338,9 @@ Catch the 41. Get off at Derrik Dr. after Claremont Mesa and before Balboa.
 [2013-04-21 Sun 12:41]
 ** Insurance
 *** Tasks
-**** NEXT Print Geico cards
+**** DONE Print Geico cards
      DEADLINE: <2013-07-04 Thu>
+     - State "DONE"       from "NEXT"       [2013-07-16 Tue 10:17]
      :PROPERTIES:
      :ID:       670bff2b-5203-4c43-8907-d1b023547350
      :END:
