@@ -73,6 +73,14 @@
 :END:
 [[papers:MR1941909][MR1941909-paper]]
 [[bib:MR1941909][MR1941909-bib]]
+*** 49Q  (1991-now) Manifolds [See also 58Exx]		 :manifolds:geometry:
+**** 49Q15  (1991-now) Geometric measure and integration theory, integral and normal currents [See also 28A75, 32C30, 58A25, 58C35] :gmt:
+***** On the connectivity of boundaries of sets minimizing perimeter subject to a volume constraint
+:PROPERTIES:
+:Custom_ID: MR1674097
+:END:
+[[papers:MR1674097][MR1674097-paper]]
+[[bib:MR1674097][MR1674097-bib]]
 ** 52   (1940-now) Convex and discrete geometry	   :convex:geometry:discrete:
 *** 52A   (1973-now) General convexity
 **** 52A40   (1973-now) Inequalities and extremum problems :inequalities:optimization:
