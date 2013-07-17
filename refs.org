@@ -75,7 +75,7 @@
 [[bib:MR1941909][MR1941909-bib]]
 *** 49Q  (1991-now) Manifolds [See also 58Exx]		 :manifolds:geometry:
 **** 49Q15  (1991-now) Geometric measure and integration theory, integral and normal currents [See also 28A75, 32C30, 58A25, 58C35] :gmt:
-***** On the connectivity of boundaries of sets minimizing perimeter subject to a volume constraint
+***** On the connectivity of boundaries of sets minimizing perimeter subject to a volume constraint :convex:isoperimetric:
 :PROPERTIES:
 :Custom_ID: MR1674097
 :END:
@@ -189,6 +189,12 @@
 :END:
 [[papers:MR2114163][MR2114163-paper]]
 
+***** Sur le volume minimal de {${\bf R}^2$	     :surfaces:isoperimetric:
+:PROPERTIES:
+:Custom_ID: MR875084
+:END:
+[[papers:MR875084][MR875084-paper]]
+[[bib:MR875084][MR875084-bib]]
 **** 53C21   (1980-now) Methods of Riemannian geometry, including PDE methods; curvature restrictions :riemannian:
 ***** An isoperimetric estimate for the {R}icci flow on the two-sphere :ricci_flow:isoperimetric:surfaces:evolution:
 :PROPERTIES:
