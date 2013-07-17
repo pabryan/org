@@ -1192,6 +1192,9 @@ Put my common setup in it's own config and include from the .sss/config file. Th
 ** NEXT VPN Auto connect
   :LOGBOOK:
   :END:
+   :PROPERTIES:
+   :ID:       0408af3a-e0d0-4496-8c72-cecf78ed4918
+   :END:
 [2013-07-16 Tue 10:39]
 
 http://askubuntu.com/questions/43465/how-to-automatically-connect-to-vpn-with-network-manager
@@ -1204,7 +1207,7 @@ http://askubuntu.com/questions/198136/error-when-trying-to-connect-to-vpn-on-sta
   :END:
 ** Organisation
   :LOGBOOK:
-  CLOCK: [2013-07-16 Tue 20:29]
+  CLOCK: [2013-07-16 Tue 20:29]--[2013-07-16 Tue 20:41] =>  0:12
   CLOCK: [2013-07-16 Tue 20:09]--[2013-07-16 Tue 20:10] =>  0:01
   CLOCK: [2013-07-16 Tue 20:08]--[2013-07-16 Tue 20:09] =>  0:01
   CLOCK: [2013-07-16 Tue 20:06]--[2013-07-16 Tue 20:08] =>  0:02

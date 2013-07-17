@@ -2087,6 +2087,9 @@ Set 4 HR: 104
     (insert "  :END:\n\n")))
 #+end_src
 * 2013
+  :PROPERTIES:
+  :ID:       5fd90c23-3c6d-47a6-9eab-a54721605129
+  :END:
 ** 2013-07 July
 *** 2013-07-15 Monday
 **** Intuflow 

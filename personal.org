@@ -728,6 +728,9 @@ Healthy habits. I want to keep on track with living well and so need reminders t
   DEADLINE: <2013-07-19 Fri> SCHEDULED: <2013-07-17 Wed>
   :LOGBOOK:
   :END:
+    :PROPERTIES:
+    :ID:       be35806a-83b9-4188-b68a-2a935146e9c7
+    :END:
 [2013-07-16 Tue 10:18]
 ** Events
 *** Running
@@ -938,6 +941,9 @@ END:
   :LOGBOOK:
   CLOCK: [2013-07-16 Tue 10:21]--[2013-07-16 Tue 10:22] =>  0:01
   :END:
+   :PROPERTIES:
+   :ID:       32797fb2-d708-4b63-ba03-2e7eca41b68e
+   :END:
 [2013-07-16 Tue 10:21]
 ** DONE Change clock
    - State "DONE"       from "TODO"       [2012-11-10 Sat 13:35]
@@ -1276,6 +1282,9 @@ http://sandiegosr.evanced.info/homepage.asp?ProgramID=22
 *** Return Books
 **** TODO Books 22/7/13
      DEADLINE: <2013-07-22 Mon>
+     :PROPERTIES:
+     :ID:       6754f66b-3de1-4702-baef-f30a806bcfe7
+     :END:
 **** Books 5/8/13
      DEADLINE: <2013-08-05 Mon>
 **** 31/7/13
@@ -1658,5 +1667,8 @@ Code: SHARE10
     :ID:       bf7ebda2-625a-4b22-8aa2-950044bc857a
     :END:
 * Phone								      :PHONE:
+  :PROPERTIES:
+  :ID:       dc3810ba-5ac7-4651-92e0-0be8299a88e4
+  :END:
 ** Buy google credit
    SCHEDULED: <2013-08-01 Thu>

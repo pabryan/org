@@ -472,6 +472,9 @@ Need to make it consistent with spatial viscosity bit.
        CLOCK: [2013-07-13 Sat 10:36]--[2013-07-13 Sat 12:12] =>  1:36
        CLOCK: [2013-07-12 Fri 11:20]--[2013-07-12 Fri 11:39] =>  0:19
        :END:
+       :PROPERTIES:
+       :ID:       21c4ab7e-6891-48d6-b551-9932702a3a3a
+       :END:
 - Need to get lower bound
 - Need $\abs{s_1} + \abs{s_2}$ = \bigo(\abs{s_2-s_1})$ but I have the reverse!
 ****** DONE Write viscosity equation without specifying curvature integral bounds
@@ -489,6 +492,9 @@ It might be useful just to write the viscosity equation with the curvature bound
        CLOCK: [2013-07-11 Thu 16:20]--[2013-07-11 Thu 17:11] =>  0:51
        CLOCK: [2013-07-10 Wed 19:17]--[2013-07-10 Wed 21:28] =>  2:11
        CLOCK: [2013-07-10 Wed 15:30]--[2013-07-10 Wed 16:00] =>  0:30
+       :END:
+       :PROPERTIES:
+       :ID:       7efb2712-f7fe-43c4-bc59-169056dbf63b
        :END:
 Is there something that can be deduced for optimal points/concavity by inequalities in the barrier sense? E.g. something like Bavard/Pansu and Sternberg/Zunbrum.
 
@@ -510,6 +516,9 @@ Is there something that can be deduced for optimal points/concavity by inequalit
        CLOCK: [2013-07-12 Fri 17:08]--[2013-07-12 Fri 18:02] =>  0:54
        CLOCK: [2013-07-12 Fri 09:55]--[2013-07-12 Fri 11:20] =>  1:25
        CLOCK: [2013-07-11 Thu 15:49]--[2013-07-11 Thu 16:20] =>  0:31
+       :END:
+       :PROPERTIES:
+       :ID:       651bc412-e74b-4e34-ac52-03e954904dd5
        :END:
 A few typos and what not came in after rearranging
 ****** DONE Define indicator functions
@@ -1433,6 +1442,9 @@ Schedule time for research, for teaching and for non-research academic work (e.g
   SCHEDULED: <2013-09-09 Mon>
   :LOGBOOK:
   :END:
+    :PROPERTIES:
+    :ID:       5efa93c5-e1cd-43ad-8eda-b645af07435e
+    :END:
 [2013-07-15 Mon 10:02]
 ** Research ideas
    :PROPERTIES:
