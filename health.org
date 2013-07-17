@@ -297,7 +297,8 @@
     :END:
   
 *** NEXT Evening Stretch
-    SCHEDULED: <2013-07-14 Sun .+1d/2d>
+    SCHEDULED: <2013-07-17 Wed .+1d/2d>
+    - State "DONE"       from "NEXT"       [2013-07-16 Tue 21:40]
     - State "DONE"       from "NEXT"       [2013-07-13 Sat 21:15]
     - State "DONE"       from "NEXT"       [2013-07-12 Fri 21:15]
     - State "DONE"       from "NEXT"       [2013-07-11 Thu 21:37]
