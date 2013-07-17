@@ -489,7 +489,7 @@ Need to make it consistent with spatial viscosity bit.
 It might be useful just to write the viscosity equation with the curvature bounds in the equation. Then we have a comparison whenever we can estimate the integral bounds.
 ****** NEXT Work out barrier inequality
        :LOGBOOK:
-       CLOCK: [2013-07-17 Wed 09:33]
+       CLOCK: [2013-07-17 Wed 09:33]--[2013-07-17 Wed 10:51] =>  1:18
        CLOCK: [2013-07-16 Tue 17:45]--[2013-07-16 Tue 18:20] =>  0:35
        CLOCK: [2013-07-16 Tue 15:25]--[2013-07-16 Tue 16:00] =>  0:35
        CLOCK: [2013-07-16 Tue 13:15]--[2013-07-16 Tue 13:51] =>  0:36
@@ -500,8 +500,11 @@ It might be useful just to write the viscosity equation with the curvature bound
        :PROPERTIES:
        :ID:       7efb2712-f7fe-43c4-bc59-169056dbf63b
        :END:
-Is there something that can be deduced for optimal points/concavity by inequalities in the barrier sense? E.g. something like Bavard/Pansu and Sternberg/Zunbrum.
-
+- Is there something that can be deduced for optimal points/concavity by inequalities in the barrier sense? E.g. something like Bavard/Pansu and Sternberg/Zunbrum.
+- Note that $\chordarcprofile^2$ is not concave for $\sphere^1$. So it's not worth trying to show that $\chordarcprofile^2(x) + k_0 x^2$ is concave when $\curvecurv \geq k_0$.
+- It is true that convex curves have concave profiles however.
+- I should note that we don't have square concavity.
+- Is it true that convex curves have smooth profile?
 ****** NEXT Put history in introduction
        :PROPERTIES:
        :ID:       fd104b00-d994-4de3-91b9-cdb9f2b02d15
