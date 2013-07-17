@@ -467,6 +467,9 @@ Need to make it consistent with spatial viscosity bit.
 	 It may actually be useful after all. Mostly this is for the barrier inequality. 
        - State "CANCELLED"  from "NEXT"       [2013-07-11 Thu 15:41] \\
 	 Not useful. We need the hessian of $Z$ at the minimiser which I've already got in the viscosity equation.
+       :PROPERTIES:
+       :ID:       2aa06efe-a96c-4ec0-9eb6-95373a35a5c6
+       :END:
 - Write expression for $D^2 d$
 - Get eigenvalues of $M_{\pm}$ and derive null eigenvector identity
 - Write expression for variations and also variations at the minimiser.
