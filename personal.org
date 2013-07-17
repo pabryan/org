@@ -725,7 +725,7 @@ Healthy habits. I want to keep on track with living well and so need reminders t
      :END:
      
 *** TODO Make handstand practice habit
-  DEADLINE: <2013-07-19 Fri> SCHEDULED: <2013-07-16 Tue>
+  DEADLINE: <2013-07-19 Fri> SCHEDULED: <2013-07-17 Wed>
   :LOGBOOK:
   :END:
 [2013-07-16 Tue 10:18]
@@ -1271,6 +1271,7 @@ I should also organise books that I've read/want in some sort of org structure w
      :END:
 
 *** Summer 2013
+    DEADLINE: <2013-08-15 Thu>
 http://sandiegosr.evanced.info/homepage.asp?ProgramID=22
 *** Return Books
 **** TODO Books 22/7/13
