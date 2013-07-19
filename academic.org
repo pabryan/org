@@ -501,8 +501,7 @@ Need to make it consistent with spatial viscosity bit.
 It might be useful just to write the viscosity equation with the curvature bounds in the equation. Then we have a comparison whenever we can estimate the integral bounds.
 ****** NEXT Work out barrier inequality
        :LOGBOOK:
-       CLOCK: [2013-07-19 Fri 10:09]--[2013-07-19 Fri 10:15] =>  0:06
-       CLOCK: [2013-07-19 Fri 09:55]--[2013-07-19 Fri 09:58] =>  0:03
+       CLOCK: [2013-07-19 Fri 09:55]--[2013-07-19 Fri 10:15] =>  0:20
        CLOCK: [2013-07-19 Fri 09:40]--[2013-07-19 Fri 09:49] =>  0:09
        CLOCK: [2013-07-17 Wed 14:37]--[2013-07-17 Wed 15:33] =>  0:56
        CLOCK: [2013-07-17 Wed 09:33]--[2013-07-17 Wed 10:51] =>  1:18
