@@ -1280,15 +1280,17 @@ I should also organise books that I've read/want in some sort of org structure w
     DEADLINE: <2013-08-15 Thu>
 http://sandiegosr.evanced.info/homepage.asp?ProgramID=22
 *** Return Books
-**** TODO Books 22/7/13
+**** DONE Books 22/7/13
      DEADLINE: <2013-07-22 Mon>
+     - State "DONE"       from "TODO"       [2013-07-19 Fri 09:33]
      :PROPERTIES:
      :ID:       6754f66b-3de1-4702-baef-f30a806bcfe7
      :END:
-**** Books 5/8/13
+**** TODO Return Books (5/8/13)
      DEADLINE: <2013-08-05 Mon>
-**** 31/7/13
+**** DONE Return Books (31/7/13)
      DEADLINE: <2013-07-31 Wed>
+     - State "DONE"       from "TODO"       [2013-07-19 Fri 09:37]
      :PROPERTIES:
      :ID:       c6ec77ac-055f-4b75-ad0b-6bcef8844c57
      :END:
