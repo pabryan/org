@@ -260,6 +260,7 @@ Decided not to do it.
 *** Working							      :FOCUS:
 **** TODO alpha CSF distance comparison				  :CSF_ALPHA:
    :LOGBOOK:
+   CLOCK: [2013-07-19 Fri 09:53]--[2013-07-19 Fri 09:55] =>  0:02
    CLOCK: [2013-07-16 Tue 11:39]--[2013-07-16 Tue 11:40] =>  0:01
    CLOCK: [2013-07-12 Fri 18:24]--[2013-07-12 Fri 18:25] =>  0:01
    CLOCK: [2013-07-11 Thu 12:42]--[2013-07-11 Thu 12:44] =>  0:02
@@ -462,9 +463,11 @@ Need to make it consistent with spatial viscosity bit.
        CLOCK: [2013-07-11 Thu 11:54]--[2013-07-11 Thu 12:42] =>  0:48
        :END:
 - Consequences of vanishing first variation in same lemma.
-****** NEXT Write hessian of d at minimiser and eigenvectors of $M_{\pm}$
+****** CANCELLED Write hessian of d at minimiser and eigenvectors of $M_{\pm}$
+       - State "CANCELLED"  from "NEXT"       [2013-07-19 Fri 09:53] \\
+	 Actually, I don't want this! Really what I want is the formulae for variations of $\chordarcprofile$ at the minimiser so it does go in the barrier inequality part.
        :LOGBOOK:
-       CLOCK: [2013-07-19 Fri 09:49]
+       CLOCK: [2013-07-19 Fri 09:49]--[2013-07-19 Fri 09:53] =>  0:04
        :END:
        - State "NEXT"       from "CANCELLED"  [2013-07-17 Wed 09:32] \\
 	 It may actually be useful after all. Mostly this is for the barrier inequality. 
@@ -495,6 +498,7 @@ Need to make it consistent with spatial viscosity bit.
 It might be useful just to write the viscosity equation with the curvature bounds in the equation. Then we have a comparison whenever we can estimate the integral bounds.
 ****** NEXT Work out barrier inequality
        :LOGBOOK:
+       CLOCK: [2013-07-19 Fri 09:55]
        CLOCK: [2013-07-19 Fri 09:40]--[2013-07-19 Fri 09:49] =>  0:09
        CLOCK: [2013-07-17 Wed 14:37]--[2013-07-17 Wed 15:33] =>  0:56
        CLOCK: [2013-07-17 Wed 09:33]--[2013-07-17 Wed 10:51] =>  1:18
