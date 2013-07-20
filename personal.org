@@ -724,8 +724,9 @@ Healthy habits. I want to keep on track with living well and so need reminders t
      :ID:       99baf26c-671f-4cc0-b9b5-6e9233d129e8
      :END:
      
-*** TODO Make handstand practice habit
+*** DONE Make handstand practice habit
   DEADLINE: <2013-07-19 Fri> SCHEDULED: <2013-07-17 Wed>
+  - State "DONE"       from "TODO"       [2013-07-19 Fri 19:57]
   :LOGBOOK:
   :END:
     :PROPERTIES:

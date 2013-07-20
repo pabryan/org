@@ -358,7 +358,14 @@
     :LAST_REPEAT: [2013-07-19 Fri 18:10]
     :END:
   
-
+*** NEXT Handstand practice
+    SCHEDULED: <2013-07-20 Sat .+1d/2d>
+    - State "DONE"       from "NEXT"       [2013-07-19 Fri 19:56]
+    :PROPERTIES:
+    :STYLE:    habit
+    :REPEAT_TO_STATE: NEXT
+    :LAST_REPEAT: [2013-07-19 Fri 19:56]
+    :END:
 ** Old Tracking
 *** NEXT No Intensity
     OLDSCHEDULED: <2013-03-01 Fri .+4d/5d>
