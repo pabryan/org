@@ -522,9 +522,10 @@ It might be useful just to write the viscosity equation with the curvature bound
 - It is true that convex curves have concave profiles however.
 - I should note that we don't have square concavity.
 - Is it true that convex curves have smooth profile?
-****** NEXT Rewrite spatial viscosity using minimiser expressions
+****** DONE Rewrite spatial viscosity using minimiser expressions
+       - State "DONE"       from "NEXT"       [2013-07-19 Fri 16:53]
        :LOGBOOK:
-       CLOCK: [2013-07-19 Fri 15:25]
+       CLOCK: [2013-07-19 Fri 15:25]--[2013-07-19 Fri 16:53] =>  1:28
        :END:
 ****** NEXT Put history in introduction
        :PROPERTIES:
