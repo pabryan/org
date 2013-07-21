@@ -2051,6 +2051,24 @@ Set 4 HR: 104
 :Discomfort: 2
 :END:
 
+*** 2013-07-15 Monday
+**** Intuflow 
+     :LOGBOOK:
+     CLOCK: [2013-07-15 Mon 11:36]--[2013-07-15 Mon 11:59] =>  0:23
+     :END:
+:PROPERTIES:
+:Type: Mobility
+:Intensity: None
+:RestHR: 56
+:FinalHR: 80
+:Score:
+:Technique: 8
+:Effort: 3
+:Discomfort: 2
+:END:
+
+[2013-07-15 Mon 11:36]
+
 *** 2013-07-16 Tuesday
 **** Intuflow + X-tension
 :PROPERTIES:
@@ -2064,6 +2082,24 @@ Set 4 HR: 104
 :Technique: 8
 :Effort: 4
 :Discomfort: 2
+:END:
+
+*** 2013-07-20 Saturday
+**** FlowFit
+     :LOGBOOK:
+     CLOCK: [2013-07-20 Sat 11:40]--[2013-07-20 Sat 12:30] =>  0:50
+     :END:
+:PROPERTIES:
+:Type: Conditioning
+:Intensity: Mod
+:RestHR: 56
+:MobilityHR: 58
+:FinalHR: 148
+:RecoveryHR: 92
+:Score: 18
+:Technique: 9
+:Effort: 7
+:Discomfort: 3
 :END:
 
 * conv code
@@ -2086,25 +2122,3 @@ Set 4 HR: 104
                        contents ""))
     (insert "  :END:\n\n")))
 #+end_src
-* 2013
-  :PROPERTIES:
-  :ID:       5fd90c23-3c6d-47a6-9eab-a54721605129
-  :END:
-** 2013-07 July
-*** 2013-07-15 Monday
-**** Intuflow 
-     :LOGBOOK:
-     CLOCK: [2013-07-15 Mon 11:36]--[2013-07-15 Mon 11:59] =>  0:23
-     :END:
-:PROPERTIES:
-:Type: Mobility
-:Intensity: None
-:RestHR: 56
-:FinalHR: 80
-:Score:
-:Technique: 8
-:Effort: 3
-:Discomfort: 2
-:END:
-
-[2013-07-15 Mon 11:36]
