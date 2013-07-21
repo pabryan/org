@@ -583,6 +583,9 @@ Let $\xi(p_0, q_0) = 0$ if $\tang_{p_0}=\tang_{q_0}$ and $1$ otherwise. Then I c
 	:ID:       aec792bb-f6a8-4278-8efc-843bd1ab0500
 	:END:
 ******* NEXT Try similarity soln as in CSF case
+	:LOGBOOK:
+	CLOCK: [2013-07-20 Sat 18:40]--[2013-07-20 Sat 21:05] =>  2:25
+	:END:
     :PROPERTIES:
     :ID:       e33f844d-a7a7-406b-bf25-002f515cb649
     :END:
