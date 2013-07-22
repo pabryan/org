@@ -3395,14 +3395,60 @@ Center 119
        :PROPERTIES:
        :ID:       c7681154-0a25-4143-9e3a-9c5e3871c3ef
        :END:
+******* NEXT Write Midterm 1
+******* TODO Write Final
 ****** TODO Homework
        :PROPERTIES:
        :ID:       da4b56d1-423c-4f4c-ab2b-0c5b0c5f018c
        :END:
+******* NEXT Write Homework 1
+	 DEADLINE: <2013-08-09 Fri>
+******* TODO Write Homework 2
+	 DEADLINE: <2013-08-16 Fri>
+******* TODO Write Homework 3
+	 DEADLINE: <2013-08-23 Fri>
+******* TODO Write Homework 4
+	 DEADLINE: <2013-08-30 Fri>
+******* TODO Write Homework 5
+	 DEADLINE: <2013-09-06 Fri>
 ****** TODO Lectures
        :PROPERTIES:
        :ID:       6e320867-249a-486f-a53a-dced95d00a55
        :END:
+******* Mon
+******** NEXT Prepare Lecture 1.1
+	 DEADLINE: <2013-08-05 Mon>
+******** TODO Prepare Lecture 1.2
+	 DEADLINE: <2013-08-12 Mon>
+******** TODO Prepare Lecture 1.3
+	 DEADLINE: <2013-08-19 Mon>
+******** TODO Prepare Lecture 1.4
+	 DEADLINE: <2013-08-26 Mon>
+******** TODO Prepare Lecture 1.5
+	 DEADLINE: <2013-09-02 Mon>
+******* Wed
+******** TODO Prepare Lecture 2.1
+	 DEADLINE: <2013-08-07 Wed>
+******** TODO Prepare Lecture 2.2
+	 DEADLINE: <2013-08-14 Wed>
+******** TODO Prepare Lecture 2.3
+	 DEADLINE: <2013-08-21 Wed>
+******** TODO Prepare Lecture 2.4
+	 DEADLINE: <2013-08-28 Wed>
+******** TODO Prepare Lecture 2.5
+	 DEADLINE: <2013-09-04 Wed>
+******* Fri
+******** TODO Prepare Lecture 3.1
+	 DEADLINE: <2013-08-09 Fri>
+******** TODO Prepare Lecture 3.2
+	 DEADLINE: <2013-08-16 Fri>
+******** TODO Prepare Lecture 3.3
+	 DEADLINE: <2013-08-23 Fri>
+******** TODO Prepare Lecture 3.4
+	 DEADLINE: <2013-08-30 Fri>
+******** TODO Prepare Lecture 3.5
+	 DEADLINE: <2013-09-06 Fri>
+
 ****** TODO Website
        :PROPERTIES:
        :ID:       696922e3-5fc4-44dd-92e8-7756f2bdd477
@@ -3415,12 +3461,15 @@ Center 119
        :PROPERTIES:
        :ID:       971939b9-8590-47d9-b9ab-4df48f7bdcaa
        :END:
-******* NEXT Org structure
+******* DONE Org structure
 	 SCHEDULED: <2013-07-22 Mon>
+	 - State "DONE"       from "NEXT"       [2013-07-22 Mon 10:04]
        :PROPERTIES:
        :ID:       b91f87d9-508b-4276-8683-c03daa6b3ba8
        :END:
 Lectures in calendar and tasks like planning lectures.
+******* NEXT Create Lecture Schedule
+******* NEXT Create Exam Schedule
 ***** Clocking
 ****** Admin
 ****** Office hours
@@ -3493,14 +3542,60 @@ APM B412
        :PROPERTIES:
        :ID:       c7681154-0a25-4143-9e3a-9c5e3871c3ef
        :END:
+******* NEXT Write Midterm 1
+******* TODO Write Final
 ****** TODO Homework
        :PROPERTIES:
        :ID:       da4b56d1-423c-4f4c-ab2b-0c5b0c5f018c
        :END:
+******* NEXT Write Homework 1
+	 DEADLINE: <2013-08-09 Fri>
+******* TODO Write Homework 2
+	 DEADLINE: <2013-08-16 Fri>
+******* TODO Write Homework 3
+	 DEADLINE: <2013-08-23 Fri>
+******* TODO Write Homework 4
+	 DEADLINE: <2013-08-30 Fri>
+******* TODO Write Homework 5
+	 DEADLINE: <2013-09-06 Fri>
+
 ****** TODO Lectures
        :PROPERTIES:
        :ID:       6e320867-249a-486f-a53a-dced95d00a55
        :END:
+******* Mon
+******** NEXT Prepare Lecture 1.1
+	 DEADLINE: <2013-08-05 Mon>
+******** TODO Prepare Lecture 1.2
+	 DEADLINE: <2013-08-12 Mon>
+******** TODO Prepare Lecture 1.3
+	 DEADLINE: <2013-08-19 Mon>
+******** TODO Prepare Lecture 1.4
+	 DEADLINE: <2013-08-26 Mon>
+******** TODO Prepare Lecture 1.5
+	 DEADLINE: <2013-09-02 Mon>
+******* Wed
+******** TODO Prepare Lecture 2.1
+	 DEADLINE: <2013-08-07 Wed>
+******** TODO Prepare Lecture 2.2
+	 DEADLINE: <2013-08-14 Wed>
+******** TODO Prepare Lecture 2.3
+	 DEADLINE: <2013-08-21 Wed>
+******** TODO Prepare Lecture 2.4
+	 DEADLINE: <2013-08-28 Wed>
+******** TODO Prepare Lecture 2.5
+	 DEADLINE: <2013-09-04 Wed>
+******* Fri
+******** TODO Prepare Lecture 3.1
+	 DEADLINE: <2013-08-09 Fri>
+******** TODO Prepare Lecture 3.2
+	 DEADLINE: <2013-08-16 Fri>
+******** TODO Prepare Lecture 3.3
+	 DEADLINE: <2013-08-23 Fri>
+******** TODO Prepare Lecture 3.4
+	 DEADLINE: <2013-08-30 Fri>
+******** TODO Prepare Lecture 3.5
+	 DEADLINE: <2013-09-06 Fri>
 ****** TODO Website
        :PROPERTIES:
        :ID:       696922e3-5fc4-44dd-92e8-7756f2bdd477
@@ -3510,18 +3605,23 @@ APM B412
 	:ID:       e0c53278-5035-45e6-9515-1c0d9f37596b
 	:END:
 ****** TODO Plan course
+
        :PROPERTIES:
        :ID:       971939b9-8590-47d9-b9ab-4df48f7bdcaa
        :END:
-******* NEXT Org structure
+******* DONE Org structure
 	 SCHEDULED: <2013-07-22 Mon>
+	 - State "DONE"       from "NEXT"       [2013-07-22 Mon 10:04]
 	 :LOGBOOK:
-	 CLOCK: [2013-07-22 Mon 09:16]
+	 CLOCK: [2013-07-22 Mon 09:55]--[2013-07-22 Mon 10:04] =>  0:09
+	 CLOCK: [2013-07-22 Mon 09:16]--[2013-07-22 Mon 09:44] =>  0:28
 	 :END:
        :PROPERTIES:
        :ID:       b91f87d9-508b-4276-8683-c03daa6b3ba8
        :END:
 Lectures in calendar and tasks like planning lectures.
+******* NEXT Create Lecture Schedule
+******* NEXT Create Exam Schedule
 ***** Clocking
 ****** Admin
 ****** Office hours
