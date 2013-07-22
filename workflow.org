@@ -822,8 +822,12 @@ Levenger?
 - Papers/Books should have a folder with paper and notes
 - Projects should have a larger folder with papers, notes etc.
 * social media
+  :PROPERTIES:
+  :ID:       053944a4-5235-4f13-ad7d-a50547eb2664
+  :END:
 ** Tasks
 *** TODO Investigate Buffer
+    DEADLINE: <2013-07-27 Sat>
   :LOGBOOK:
   :END:
   :PROPERTIES:
@@ -831,6 +835,7 @@ Levenger?
   :END:
 [2013-07-16 Tue 20:08]
 *** TODO Work out Google+
+  DEADLINE: <2013-07-27 Sat>
   :LOGBOOK:
   :END:
   :PROPERTIES:
@@ -1225,6 +1230,7 @@ http://askubuntu.com/questions/198136/error-when-trying-to-connect-to-vpn-on-sta
   :END:
 ** Organisation
   :LOGBOOK:
+  CLOCK: [2013-07-21 Sun 20:27]--[2013-07-21 Sun 20:29] =>  0:02
   CLOCK: [2013-07-21 Sun 19:25]--[2013-07-21 Sun 19:46] =>  0:21
   CLOCK: [2013-07-21 Sun 19:17]--[2013-07-21 Sun 19:24] =>  0:07
   CLOCK: [2013-07-19 Fri 16:53]--[2013-07-19 Fri 16:54] =>  0:01
@@ -1803,9 +1809,9 @@ Set some goals for the month. I should check someday projects for inclusion in t
 *** Monthly Review
 Check how I did last month. I guess the review and plan could probably go together. This is all broad stuff
 
-
 ** NEXT Daily Review [0/3]
-   SCHEDULED: <2013-07-21 Sun .+1d/2d>
+   SCHEDULED: <2013-07-22 Mon .+1d/2d>
+   - State "DONE"       from "NEXT"       [2013-07-21 Sun 20:28]
    - State "DONE"       from "NEXT"       [2013-07-20 Sat 21:13]
    - State "DONE"       from "NEXT"       [2013-07-18 Thu 21:41]
    - State "DONE"       from "NEXT"       [2013-07-16 Tue 20:29]
@@ -1869,7 +1875,7 @@ Check how I did last month. I guess the review and plan could probably go togeth
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
    :ID:       616c5bd9-d941-4fcc-8874-2ff3c9e96b4a
-   :LAST_REPEAT: [2013-07-20 Sat 21:13]
+   :LAST_REPEAT: [2013-07-21 Sun 20:28]
    :END:
 
 What to review:
@@ -2050,9 +2056,9 @@ For the following, do I just use the existing diary.org capture template or perh
 - [ ] Check agenda/focus
 - [ ] Write date into notebook
 
-
-** NEXT Weekly Review [9/13]
-   SCHEDULED: <2013-07-21 Sun +1w>
+** NEXT Weekly Review [0/13]
+   SCHEDULED: <2013-07-28 Sun +1w>
+   - State "DONE"       from "NEXT"       [2013-07-21 Sun 20:27]
    - State "DONE"       from "NEXT"       [2013-07-15 Mon 11:28]
    - State "DONE"       from "NEXT"       [2013-07-09 Tue 12:33]
    - State "DONE"       from "NEXT"       [2013-07-03 Wed 16:31]
@@ -2070,7 +2076,7 @@ For the following, do I just use the existing diary.org capture template or perh
    - State "DONE"       from "NEXT"       [2012-12-07 Fri 13:44]
    - State "DONE"       from "NEXT"       [2012-11-30 Fri 14:06]
    :LOGBOOK:
-   CLOCK: [2013-07-21 Sun 19:46]
+   CLOCK: [2013-07-21 Sun 19:46]--[2013-07-21 Sun 20:27] =>  0:41
    CLOCK: [2013-07-15 Mon 10:00]--[2013-07-15 Mon 11:28] =>  1:28
    CLOCK: [2013-07-09 Tue 12:19]--[2013-07-09 Tue 12:33] =>  0:14
    CLOCK: [2013-07-09 Tue 11:07]--[2013-07-09 Tue 11:19] =>  0:12
@@ -2109,24 +2115,24 @@ For the following, do I just use the existing diary.org capture template or perh
    :REPEAT_TO_STATE: NEXT
    :ID:       846c05fa-21d7-4e6f-8431-a1fa06631945
    :RESET_CHECK_BOXES: t
-   :LAST_REPEAT: [2013-07-15 Mon 11:28]
+   :LAST_REPEAT: [2013-07-21 Sun 20:27]
    :END:
 
 What to review:
 
-- [X] Check follow-up paper folder
-- [X] Check holding directory
+- [ ] Check follow-up paper folder
+- [ ] Check holding directory
   [[file:~/holding]]
-- [X] Check holding email folder
-- [X] Review weekly agenda =F12 a w//=
-- [X] Check clocking data for past week =v c=
+- [ ] Check holding email folder
+- [ ] Review weekly agenda =F12 a w//=
+- [ ] Check clocking data for past week =v c=
   - fix up any errors
-- [X] Review clock report for past week =R=
+- [ ] Review clock report for past week =R=
   - Check where we spent time (too much or too little) and rectify this week
-- [X] Look at entire agenda for today  =F12 SPC=
-- [X] Review projects =F12 SPC //= and =P= repeatedly to view each project
+- [ ] Look at entire agenda for today  =F12 SPC=
+- [ ] Review projects =F12 SPC //= and =P= repeatedly to view each project
   - Unstick stuck projects!
-- [X] Check uncommited work
+- [ ] Check uncommited work
 - [ ] Refile tasks
 - [ ] [[*Weekly%20collection%20and%20clean%20up%20%5B0/4%5D][Weekly collection and clean up {0/4}]]
 - [ ] Process incoming information
@@ -2174,7 +2180,6 @@ What to review:
 - [ ] Clean up tmp
 - [ ] Clean up tablet
 - [ ] Clean up phone
-
 
 ** NEXT Monthly Plan/Review [0/4]
    SCHEDULED: <2013-04-01 Mon +1m>
