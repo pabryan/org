@@ -1555,6 +1555,14 @@ Do as many sets as possible in 20 mins.
   - Mod Intensity 5-7, HR (60+5*12)-(60+7*12) = 120-144
   - High Intensity 8-10, HR (60+8*12)-(60+10*12) = 156-180
 
+** Tasks
+*** TODO Transcribe from Bei Da notebook: ex
+  :LOGBOOK:
+  :END:
+  :PROPERTIES:
+  :ID:       ab6c5851-12f9-4c19-8099-31b686708b0c
+  :END:
+[2012-11-20 Tue 11:04]
 * Diet 								       :DIET:
   :PROPERTIES:
   :ID:       388ded9e-79b9-4d94-bba7-0b5bcc314c75
@@ -1693,17 +1701,6 @@ CLOCK: [2013-01-14 Mon 06:35]--[2013-01-14 Mon 06:35] =>  0:00
   :PROPERTIES:
   :ID:       c6a6a161-03a4-4602-abfc-cb35692ec16b
   :END:
-** Entering data
-   :LOGBOOK:
-   CLOCK: [2012-12-20 Thu 10:22]--[2012-12-20 Thu 10:28] =>  0:06
-   :END:
-** TODO Transcribe from Bei Da notebook: ex
-  :LOGBOOK:
-  :END:
-  :PROPERTIES:
-  :ID:       ab6c5851-12f9-4c19-8099-31b686708b0c
-  :END:
-[2012-11-20 Tue 11:04]
 ** TODO Transcribe from Bei Da notebook: q.self data
   :LOGBOOK:
   :END:

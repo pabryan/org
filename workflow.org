@@ -821,6 +821,24 @@ Levenger?
     :END:
 - Papers/Books should have a folder with paper and notes
 - Projects should have a larger folder with papers, notes etc.
+* social media
+** Tasks
+*** TODO Investigate Buffer
+  :LOGBOOK:
+  :END:
+  :PROPERTIES:
+  :ID:       a2bb01fc-09bb-491c-9ee4-48fc124992c5
+  :END:
+[2013-07-16 Tue 20:08]
+*** TODO Work out Google+
+  :LOGBOOK:
+  :END:
+  :PROPERTIES:
+  :ID:       c05fb314-068a-4cbf-914b-8ccf061869a9
+  :END:
+[2013-07-16 Tue 20:09]
+- share photos/videos with family
+- maths stuff?
 * office layout
   :PROPERTIES:
   :ID:       827968af-420f-40a1-ac2d-4bbe7192cbc1
@@ -2033,7 +2051,7 @@ For the following, do I just use the existing diary.org capture template or perh
 - [ ] Write date into notebook
 
 
-** NEXT Weekly Review [3/13]
+** NEXT Weekly Review [9/13]
    SCHEDULED: <2013-07-21 Sun +1w>
    - State "DONE"       from "NEXT"       [2013-07-15 Mon 11:28]
    - State "DONE"       from "NEXT"       [2013-07-09 Tue 12:33]
@@ -2100,15 +2118,15 @@ What to review:
 - [X] Check holding directory
   [[file:~/holding]]
 - [X] Check holding email folder
-- [ ] Review weekly agenda =F12 a w//=
-- [ ] Check clocking data for past week =v c=
+- [X] Review weekly agenda =F12 a w//=
+- [X] Check clocking data for past week =v c=
   - fix up any errors
-- [ ] Review clock report for past week =R=
+- [X] Review clock report for past week =R=
   - Check where we spent time (too much or too little) and rectify this week
-- [ ] Look at entire agenda for today  =F12 SPC=
-- [ ] Review projects =F12 SPC //= and =P= repeatedly to view each project
+- [X] Look at entire agenda for today  =F12 SPC=
+- [X] Review projects =F12 SPC //= and =P= repeatedly to view each project
   - Unstick stuck projects!
-- [ ] Check uncommited work
+- [X] Check uncommited work
 - [ ] Refile tasks
 - [ ] [[*Weekly%20collection%20and%20clean%20up%20%5B0/4%5D][Weekly collection and clean up {0/4}]]
 - [ ] Process incoming information

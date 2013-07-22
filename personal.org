@@ -884,36 +884,38 @@ clean kids bathroom 1w/2w
 clean bathroom 1w/2w
 fluff sheets 1d/2d
 ** Del Sol 							     :DELSOL:
-*** Breakfast
+*** Events
+**** Breakfast
     :PROPERTIES:
     :ID:       80d6280c-1f36-44b8-816f-0c85e70db253
     :END:
 <2013-04-10 Wed 07:00-08:00>
-*** Del Sol Continental Breakfast
+**** Del Sol Continental Breakfast
    :PROPERTIES:
    :ID:       0cf6bc91-70f0-4c3d-904f-ed47626be9e8
    :END:
 <2013-01-07 Mon 07:30-08:30>
 
-*** Del Sol Continental Breakfast
+**** Del Sol Continental Breakfast
 <2012-11-06 Tue 07:30-08:30>
-*** Del Sol Continental Breakfast
+**** Del Sol Continental Breakfast
    :PROPERTIES:
    :ID:       0cf6bc91-70f0-4c3d-904f-ed47626be9e8
    :END:
 <2013-02-13 Wed 07:30-08:30>
 
-*** Patio inspection
+**** Patio inspection
    :PROPERTIES:
    :ID:       7997fd97-b3d9-4217-a253-e12278fe22b9
    :END:
 <2012-12-05 Wed>
-*** Del Sol Cinco de Mayo Dinner
+**** Del Sol Cinco de Mayo Dinner
     :PROPERTIES:
     :ID:       5ba0c57e-93a5-49df-848b-ae7e256f3e5c
     :END:
 <2013-05-03 Fri 17:00-18:15>
-*** DONE Send in notice of moving
+*** Tasks
+**** DONE Send in notice of moving
    - State "DONE"       from "TODO"       [2013-04-23 Tue 08:50]
   :LOGBOOK:
   CLOCK: [2013-04-15 Mon 20:34]--[2013-04-15 Mon 20:35] =>  0:01
@@ -922,6 +924,19 @@ fluff sheets 1d/2d
    :ID:       1c263e2a-fd78-48ba-a16b-28bd0b8bf9b5
    :END:
 [2013-04-15 Mon 20:34]
+**** WAITING Get repairs done
+     - State "WAITING"    from "TODO"       [2013-07-21 Sun 20:05] \\
+       Contacted management to have it fixed
+  :LOGBOOK:
+  CLOCK: [2013-07-16 Tue 20:10]--[2013-07-16 Tue 20:12] =>  0:02
+  :END:
+  :PROPERTIES:
+  :ID:       6d9d9e79-7333-47f1-b084-c4b13263f391
+  :END:
+[2013-07-16 Tue 20:10]
+
+- Broken fly screen on balcony door. Another window too?
+- Broken blind in Master bedroom.
 * Notes 							      :NOTES:
   :PROPERTIES:
   :ID:       4def01e0-c4b0-4797-a19c-049ea35d696a
@@ -1436,9 +1451,10 @@ This will be to use XBMC, the [[http://code.google.com/p/pms-xbmc/]] [[http://ww
   :PROPERTIES:
   :ID:       5add705f-4344-4a82-b4ef-7b38336fd029
   :END:
-** DONE Contact Ben, Julie, Mat etc. to say I'm alive
-   - State "DONE"       from "NEXT"       [2012-11-10 Sat 13:44]
-** DONE Pick up Christine and Nick from airport
+** Tasks
+*** DONE Contact Ben, Julie, Mat etc. to say I'm alive
+    - State "DONE"       from "NEXT"       [2012-11-10 Sat 13:44]
+*** DONE Pick up Christine and Nick from airport
    - State "DONE"       from "NEXT"       [2013-04-12 Fri 09:33]
    :LOGBOOK:
    CLOCK: [2013-02-05 Tue 10:30]--[2013-02-05 Tue 12:11] =>  1:41
@@ -1448,12 +1464,22 @@ This will be to use XBMC, the [[http://code.google.com/p/pms-xbmc/]] [[http://ww
    :END:
 <2013-02-05 Tue 10:30>--<2013-02-05 Tue 12:30>
 Delta 4502 From LA.
-** DONE Pick up Jane from the airport
-   SCHEDULED: <2013-04-13 Sat 12:00>
-   - State "DONE"       from "NEXT"       [2013-04-13 Sat 21:13]
-   :PROPERTIES:
-   :ID:       37f50b43-862f-4ff4-903f-7b2b506c5ded
-   :END:
+*** DONE Pick up Jane from the airport
+    SCHEDULED: <2013-04-13 Sat 12:00>
+    - State "DONE"       from "NEXT"       [2013-04-13 Sat 21:13]
+    :PROPERTIES:
+    :ID:       37f50b43-862f-4ff4-903f-7b2b506c5ded
+    :END:
+
+** Mum
+*** TODO Set mum up on Google+
+    DEADLINE: <2013-07-27 Sat>
+  :LOGBOOK:
+  :END:
+  :PROPERTIES:
+  :ID:       404b5327-7c63-4697-b8b2-6986a10777fc
+  :END:
+[2013-07-16 Tue 20:08]
 
 * Errands
   :PROPERTIES:
