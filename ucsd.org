@@ -3378,7 +3378,7 @@ Center 119
        CLOCK: [2013-06-10 Mon 12:27]--[2013-06-10 Mon 13:09] =>  0:42
        :END:
 
-*** Summer 2013
+*** Summer 2013							      :FOCUS:
 **** TODO MATH142B						   :MATH142B:
       :PROPERTIES:
       :ID:       637a5770-e691-46f5-b733-44af49f29f6e
@@ -3457,11 +3457,16 @@ APM B412
        :END:
 ******* NEXT Org structure
 	 SCHEDULED: <2013-07-22 Mon>
+	 :LOGBOOK:
+	 CLOCK: [2013-07-22 Mon 09:16]
+	 :END:
        :PROPERTIES:
        :ID:       b91f87d9-508b-4276-8683-c03daa6b3ba8
        :END:
 Lectures in calendar and tasks like planning lectures.
 ***** Clocking
+****** Admin
+****** Office hours
 ***** Lectures
 ****** Location
 WLH 2113
