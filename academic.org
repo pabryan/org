@@ -1735,6 +1735,13 @@ http://mathoverflow.net/questions/14877/how-much-of-differential-geometry-can-be
 - Lie Groups
 - Support function
 - Need some weak notions near cut locus
+*** higher dim Schwartz
+- instead of lines, take discs and higher dim slices
+- does this have something to do with Hausdorff measure?
+- Check with Lei
+*** oscillation estimates 
+- do Rielly formula stuff
+- Check with Lei
 ** Reading
    :PROPERTIES:
    :ID:       3b692ea2-10eb-4586-ae3e-2006ce6a3c0e

@@ -883,6 +883,20 @@ laundary 1d/2d
 clean kids bathroom 1w/2w
 clean bathroom 1w/2w
 fluff sheets 1d/2d
+*** TODO Chores habits
+  :LOGBOOK:
+  CLOCK: [2013-07-16 Tue 20:17]--[2013-07-16 Tue 20:18] =>  0:01
+  :END:
+  :PROPERTIES:
+  :ID:       c9e1c873-84d1-4bdc-a0d9-d6de25198257
+  :END:
+[2013-07-16 Tue 20:17]
+- Tidy (including sweeping) (d)
+- Vacuum (w)
+- clean bathroom (w)
+- wash towels/sheets (w)
+- water plants (d)
+
 ** Del Sol 							     :DELSOL:
 *** Events
 **** Breakfast
