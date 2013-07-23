@@ -3391,6 +3391,19 @@ Center 119
       :END:
 ***** Notes
 ***** Tasks
+****** DONE Plan course
+       - State "DONE"       from "TODO"       [2013-07-22 Mon 21:24]
+       :PROPERTIES:
+       :ID:       971939b9-8590-47d9-b9ab-4df48f7bdcaa
+       :END:
+******* DONE Org structure
+	 SCHEDULED: <2013-07-22 Mon>
+	 - State "DONE"       from "NEXT"       [2013-07-22 Mon 10:04]
+       :PROPERTIES:
+       :ID:       b91f87d9-508b-4276-8683-c03daa6b3ba8
+       :END:
+Lectures in calendar and tasks like planning lectures.
+
 ****** TODO Exams
        :PROPERTIES:
        :ID:       c7681154-0a25-4143-9e3a-9c5e3871c3ef
@@ -3536,22 +3549,12 @@ Center 119
        :ID:       696922e3-5fc4-44dd-92e8-7756f2bdd477
        :END:
 ******* NEXT Make website
+	:LOGBOOK:
+	CLOCK: [2013-07-23 Tue 15:37]
+	:END:
        	:PROPERTIES:
        	:ID:       e0c53278-5035-45e6-9515-1c0d9f37596b
        	:END:
-****** DONE Plan course
-       - State "DONE"       from "TODO"       [2013-07-22 Mon 21:24]
-       :PROPERTIES:
-       :ID:       971939b9-8590-47d9-b9ab-4df48f7bdcaa
-       :END:
-******* DONE Org structure
-	 SCHEDULED: <2013-07-22 Mon>
-	 - State "DONE"       from "NEXT"       [2013-07-22 Mon 10:04]
-       :PROPERTIES:
-       :ID:       b91f87d9-508b-4276-8683-c03daa6b3ba8
-       :END:
-Lectures in calendar and tasks like planning lectures.
-
 ***** Clocking
 ****** Admin
 ****** Office hours
