@@ -1230,6 +1230,8 @@ http://askubuntu.com/questions/198136/error-when-trying-to-connect-to-vpn-on-sta
   :END:
 ** Organisation
   :LOGBOOK:
+  CLOCK: [2013-07-22 Mon 21:10]--[2013-07-22 Mon 21:12] =>  0:02
+  CLOCK: [2013-07-22 Mon 12:00]--[2013-07-22 Mon 12:15] =>  0:15
   CLOCK: [2013-07-22 Mon 10:05]--[2013-07-22 Mon 10:10] =>  0:05
   CLOCK: [2013-07-22 Mon 09:11]--[2013-07-22 Mon 09:12] =>  0:01
   CLOCK: [2013-07-21 Sun 20:27]--[2013-07-21 Sun 20:29] =>  0:02
@@ -1853,6 +1855,7 @@ Check how I did last month. I guess the review and plan could probably go togeth
    - State "DONE"       from "NEXT"       [2013-01-23 Wed 19:25]
    - State "DONE"       from "NEXT"       [2013-01-14 Mon 17:43]
    :LOGBOOK:
+   CLOCK: [2013-07-22 Mon 21:12]
    CLOCK: [2013-07-20 Sat 21:06]--[2013-07-20 Sat 21:13] =>  0:07
    CLOCK: [2013-07-16 Tue 20:18]--[2013-07-16 Tue 20:29] =>  0:11
    CLOCK: [2013-07-16 Tue 20:13]--[2013-07-16 Tue 20:17] =>  0:04

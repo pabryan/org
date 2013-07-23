@@ -3395,6 +3395,10 @@ Center 119
        :PROPERTIES:
        :ID:       c7681154-0a25-4143-9e3a-9c5e3871c3ef
        :END:
+******* NEXT Create Exam Schedule
+	:PROPERTIES:
+	:ID:       4a202266-f308-4102-925f-4ec6ca3b5b36
+	:END:
 ******* NEXT Write Midterm 1
 	:PROPERTIES:
 	:ID:       ed16bfa1-ecf2-435f-9bb7-d1857c9075d3
@@ -3436,6 +3440,14 @@ Center 119
        :PROPERTIES:
        :ID:       6e320867-249a-486f-a53a-dced95d00a55
        :END:
+******* DONE Create Lecture Schedule
+	- State "DONE"       from "NEXT"       [2013-07-22 Mon 21:15]
+	:PROPERTIES:
+	:ID:       222016ed-8436-4c2d-a40a-1a61042e166f
+	:END:
+	:LOGBOOK:
+	CLOCK: [2013-07-22 Mon 13:40]--[2013-07-22 Mon 14:30] =>  0:50
+	:END:
 ******* Mon
 ******** NEXT Prepare Lecture 1.1
 	 DEADLINE: <2013-08-05 Mon>
@@ -3534,14 +3546,7 @@ Center 119
        :ID:       b91f87d9-508b-4276-8683-c03daa6b3ba8
        :END:
 Lectures in calendar and tasks like planning lectures.
-******* NEXT Create Lecture Schedule
-	:PROPERTIES:
-	:ID:       222016ed-8436-4c2d-a40a-1a61042e166f
-	:END:
-******* NEXT Create Exam Schedule
-	:PROPERTIES:
-	:ID:       4a202266-f308-4102-925f-4ec6ca3b5b36
-	:END:
+
 ***** Clocking
 ****** Admin
 ****** Office hours
@@ -3614,6 +3619,10 @@ APM B412
        :PROPERTIES:
        :ID:       c7681154-0a25-4143-9e3a-9c5e3871c3ef
        :END:
+******* NEXT Create Exam Schedule
+	:PROPERTIES:
+	:ID:       0493a4be-8006-4cf9-a4b7-c05605a68965
+	:END:
 ******* NEXT Write Midterm 1
 	:PROPERTIES:
 	:ID:       622624aa-7955-40f9-b012-04c8a871683f
@@ -3656,6 +3665,15 @@ APM B412
        :PROPERTIES:
        :ID:       6e320867-249a-486f-a53a-dced95d00a55
        :END:
+******* DONE Create Lecture Schedule
+	- State "DONE"       from "NEXT"       [2013-07-22 Mon 21:15]
+	:PROPERTIES:
+	:ID:       9c130296-10e6-4c66-a8ba-3bbaa4b41ec6
+	:END:
+	:LOGBOOK:
+	CLOCK: [2013-07-22 Mon 12:15]--[2013-07-22 Mon 13:40] =>  1:25
+	:END:
+	
 ******* Mon
 ******** NEXT Prepare Lecture 1.1
 	 DEADLINE: <2013-08-05 Mon>
@@ -3758,14 +3776,6 @@ APM B412
        :ID:       b91f87d9-508b-4276-8683-c03daa6b3ba8
        :END:
 Lectures in calendar and tasks like planning lectures.
-******* NEXT Create Lecture Schedule
-	:PROPERTIES:
-	:ID:       9c130296-10e6-4c66-a8ba-3bbaa4b41ec6
-	:END:
-******* NEXT Create Exam Schedule
-	:PROPERTIES:
-	:ID:       0493a4be-8006-4cf9-a4b7-c05605a68965
-	:END:
 ***** Clocking
 ****** Admin
 ****** Office hours
@@ -3824,36 +3834,71 @@ WLH 2113
 ****** Homework 5
        DEADLINE: <2013-09-06 Fri>
 
-
 *** Fall 2013
 **** TODO MATH150A						   :MATH150A:
-     :PROPERTIES:
-     :ID:       d41c505c-ac02-4dbc-9604-ba9cec082f27
-     :END:
+      :PROPERTIES:
+      :ID:       d41c505c-ac02-4dbc-9604-ba9cec082f27
+      :END:
 ***** Notes
-***** Lecture Notes
+****** Lecture Notes
 [[www.math.uci.edu/~cterng/162A_Lecture_Notes.pdf]]
 [[www.math.uci.edu/~cterng/SurfacesInR%5E3.pdf]]
 [[www.math.ku.dk/noter/filer/geom1.pdf]]
 ***** Tasks
 ****** DONE Order Text Books
-       DEADLINE: <2013-05-01 Wed>
-       - State "DONE"       from "NEXT"       [2013-05-01 Wed 12:16]
-       :PROPERTIES:
-       :ID:       f79ad07c-ea5e-4710-8cad-94ac0439a20d
-       :END:
+       	DEADLINE: <2013-05-01 Wed>
+       	- State "DONE"       from "NEXT"       [2013-05-01 Wed 12:16]
+       	:PROPERTIES:
+       	:ID:       f79ad07c-ea5e-4710-8cad-94ac0439a20d
+       	:END:
 
-****** NEXT Set up course org-mode
-       SCHEDULED: <2013-09-09 Mon>
+****** TODO Exams
        :PROPERTIES:
-       :ID:       6385ba42-fcb7-48f9-ae17-becfdbb779d4
+       :ID:       c7681154-0a25-4143-9e3a-9c5e3871c3ef
        :END:
+****** TODO Homework
+       :PROPERTIES:
+       :ID:       da4b56d1-423c-4f4c-ab2b-0c5b0c5f018c
+       :END:
+****** TODO Lectures
+       :PROPERTIES:
+       :ID:       6e320867-249a-486f-a53a-dced95d00a55
+       :END:
+****** TODO Website
+       :PROPERTIES:
+       :ID:       696922e3-5fc4-44dd-92e8-7756f2bdd477
+       :END:
+******* NEXT Make website
+       	:PROPERTIES:
+       	:ID:       e0c53278-5035-45e6-9515-1c0d9f37596b
+       	:END:
+****** TODO Plan course
+       :PROPERTIES:
+       :ID:       971939b9-8590-47d9-b9ab-4df48f7bdcaa
+       :END:
+******* NEXT Org structure
+	 SCHEDULED: <2013-09-09 Mon>
+       :PROPERTIES:
+       :ID:       b91f87d9-508b-4276-8683-c03daa6b3ba8
+       :END:
+Lectures in calendar and tasks like planning lectures.
+***** Clocking
+****** Admin
+****** Office hours
+***** Lectures
+****** Location
+****** Mon
+****** Wed
+****** Fri
+***** Exams
+***** Homework
+
 *** Winter 2014
 **** TODO MATH150B
      :PROPERTIES:
      :ID:       018b8346-4794-4fbb-9316-44d4bf757d69
      :END:
-**** TODO MATH10A
+**** TODO MATH10B
      :PROPERTIES:
      :ID:       31df73a4-0114-4097-8f18-5ce3ed5a1d07
      :END:
