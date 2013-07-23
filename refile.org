@@ -2,3 +2,10 @@
  
 
 
+* TODO Update course template
+  :LOGBOOK:
+  CLOCK: [2013-07-23 Tue 16:13]--[2013-07-23 Tue 16:14] =>  0:01
+  :END:
+[2013-07-23 Tue 16:13]
+- don't need latex macros
+- regex for excluding exams
