@@ -3677,15 +3677,15 @@ APM B412
 	:END:
 	
 ******* NEXT Create Lecture Outlines
-	:LOGBOOK:
-	CLOCK: [2013-07-23 Tue 09:34]
-	:END:
 ******* Mon
 ******** NEXT Prepare Lecture 1.1
 	 DEADLINE: <2013-08-05 Mon>
 	 :PROPERTIES:
 	 :ID:       9e8fc8c7-6e00-4d0a-a918-3911e5a26a32
 	 :END:
+	:LOGBOOK:
+	CLOCK: [2013-07-23 Tue 09:34]--[2013-07-23 Tue 11:10] =>  1:36
+	:END:
 ******** TODO Prepare Lecture 1.2
 	 DEADLINE: <2013-08-12 Mon>
 	 :PROPERTIES:
