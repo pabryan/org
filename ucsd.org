@@ -3551,7 +3551,8 @@ Lectures in calendar and tasks like planning lectures.
        :END:
 ******* NEXT Make website
 	:LOGBOOK:
-	CLOCK: [2013-07-23 Tue 15:37]
+	CLOCK: [2013-07-23 Tue 16:14]
+	CLOCK: [2013-07-23 Tue 15:37]--[2013-07-23 Tue 16:13] =>  0:36
 	:END:
        	:PROPERTIES:
        	:ID:       e0c53278-5035-45e6-9515-1c0d9f37596b
