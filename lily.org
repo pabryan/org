@@ -41,12 +41,12 @@ I need free close by activities: playground, beach, library?
   :PROPERTIES:
   :ID:       0ada99cc-8707-4746-819b-60e476e8e2ba
   :END:
-** Library
+** Library							    :LIBRARY:
 *** Library ID
 01336030636572
 
-*** Return Books
-**** 5/8/13
+*** Return Books						     :RETURN:
+**** Books 5/8/13
      DEADLINE: <2013-08-05 Mon>
      :PROPERTIES:
      :ID:       4b34ace2-fbd2-45e8-8eb3-15fd8a673c93

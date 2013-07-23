@@ -584,6 +584,7 @@ Let $\xi(p_0, q_0) = 0$ if $\tang_{p_0}=\tang_{q_0}$ and $1$ otherwise. Then I c
 	:END:
 ******* NEXT Try similarity soln as in CSF case
 	:LOGBOOK:
+	CLOCK: [2013-07-22 Mon 19:30]--[2013-07-22 Mon 20:30] =>  1:00
 	CLOCK: [2013-07-20 Sat 18:40]--[2013-07-20 Sat 21:05] =>  2:25
 	CLOCK: [2013-07-20 Sat 14:50]--[2013-07-20 Sat 17:45] =>  2:55
 	CLOCK: [2013-07-20 Sat 09:50]--[2013-07-20 Sat 11:40] =>  1:50

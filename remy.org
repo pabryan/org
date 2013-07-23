@@ -209,7 +209,7 @@ I want to find things for Remy to do at home that keep his interest in the world
   :PROPERTIES:
   :ID:       d39bef53-4de3-4de3-b9e3-7f3a75c7229b
   :END:
-** Library
+** Library							    :LIBRARY:
 *** DONE Return Remy's Library Books
     DEADLINE: <2013-01-31 Thu>
     - State "DONE"       from "TODO"       [2013-01-31 Thu 18:26]
@@ -225,8 +225,8 @@ I want to find things for Remy to do at home that keep his interest in the world
     :PROPERTIES:
     :ID:       fadcf334-f524-4960-9bd2-1052f35b025e
     :END:
-*** Return Books
-**** 5/8/13
+*** Return Books						     :RETURN:
+**** Books 5/8/13
      DEADLINE: <2013-08-05 Mon>
      :PROPERTIES:
      :ID:       072641b3-997d-4a6e-8444-44d01e3745b3
