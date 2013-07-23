@@ -3448,6 +3448,7 @@ Center 119
 	:LOGBOOK:
 	CLOCK: [2013-07-22 Mon 13:40]--[2013-07-22 Mon 14:30] =>  0:50
 	:END:
+******* NEXT Create Lecture Outlines
 ******* Mon
 ******** NEXT Prepare Lecture 1.1
 	 DEADLINE: <2013-08-05 Mon>
@@ -3675,6 +3676,10 @@ APM B412
 	CLOCK: [2013-07-22 Mon 12:15]--[2013-07-22 Mon 13:40] =>  1:25
 	:END:
 	
+******* NEXT Create Lecture Outlines
+	:LOGBOOK:
+	CLOCK: [2013-07-23 Tue 09:34]
+	:END:
 ******* Mon
 ******** NEXT Prepare Lecture 1.1
 	 DEADLINE: <2013-08-05 Mon>
