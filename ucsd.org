@@ -3775,10 +3775,16 @@ APM B412
 	 :ID:       c8b03ed1-4f6e-4c98-a0cd-08c6972691c3
 	 :END:
 ****** TODO Website
+       :LOGBOOK:
+       :END:
        :PROPERTIES:
        :ID:       696922e3-5fc4-44dd-92e8-7756f2bdd477
        :END:
-******* NEXT Make website
+******* DONE Make website
+	- State "DONE"       from "NEXT"       [2013-07-23 Tue 18:06]
+	:LOGBOOK:
+	CLOCK: [2013-07-23 Tue 17:35]--[2013-07-23 Tue 18:06] =>  0:31
+	:END:
 	:PROPERTIES:
 	:ID:       e0c53278-5035-45e6-9515-1c0d9f37596b
 	:END:
