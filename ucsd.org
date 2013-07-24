@@ -18,6 +18,9 @@
 ** Tasks
 [[file:~/working/ucsd/ucsdwebsite]]
 *** TODO Website authoring
+    :LOGBOOK:
+    CLOCK: [2013-07-24 Wed 13:11]--[2013-07-24 Wed 13:12] =>  0:01
+    :END:
    :PROPERTIES:
    :ID:       95bed625-9178-4c2e-977b-ca4098a5ae3a
    :END:
@@ -28,9 +31,10 @@
      :LOGBOOK:
      CLOCK: [2013-07-24 Wed 10:47]--[2013-07-24 Wed 11:53] =>  1:06
      :END:
-**** NEXT Change links in publishing
+**** DONE Change links in publishing
+     - State "DONE"       from "NEXT"       [2013-07-24 Wed 13:11]
      :LOGBOOK:
-     CLOCK: [2013-07-24 Wed 12:57]
+     CLOCK: [2013-07-24 Wed 12:57]--[2013-07-24 Wed 13:11] =>  0:14
      :END:
 **** NEXT Set styles
 **** TODO Collapsing website style
@@ -44,7 +48,10 @@
 Check out http://daretoevolve.tv/dare-to-evolve-member/
 See http://html5doctor.com/the-details-and-summary-elements/
 http://css-plus.com/2011/08/create-accordions-with-css3-html5-and-jquery/
-**** TODO Set up static gen publishing
+**** NEXT Set up static gen publishing
+     :LOGBOOK:
+     CLOCK: [2013-07-24 Wed 13:12]
+     :END:
      :PROPERTIES:
      :ID:       4ca499fe-3561-4181-a05a-9633be9892e6
      :END:
