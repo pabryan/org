@@ -23,7 +23,11 @@
    :END:
 [2012-10-15 Mon 10:13]
 
-**** NEXT Collapsing website style
+**** NEXT Set up org-mode publishing
+     :LOGBOOK:
+     CLOCK: [2013-07-24 Wed 10:47]
+     :END:
+**** TODO Collapsing website style
   :LOGBOOK:
   CLOCK: [2013-07-23 Tue 19:10]--[2013-07-23 Tue 19:40] =>  0:30
   :END:
@@ -34,25 +38,27 @@
 Check out http://daretoevolve.tv/dare-to-evolve-member/
 See http://html5doctor.com/the-details-and-summary-elements/
 http://css-plus.com/2011/08/create-accordions-with-css3-html5-and-jquery/
-**** NEXT Set up static gen publishing
+**** TODO Set up static gen publishing
      :PROPERTIES:
      :ID:       4ca499fe-3561-4181-a05a-9633be9892e6
      :END:
+- In particular separate template from org-mode
 http://cinsk.github.io/jekyll-org/articles/jekyll-org.html
 http://jekyllrb.com/
 http://twitter.github.io/bootstrap/
-**** NEXT Check out SelectedPapers for hooking into Google+
+http://orgmode.org/worg/org-tutorials/org-jekyll.html
+**** TODO Check out SelectedPapers for hooking into Google+
      :PROPERTIES:
      :ID:       4e614435-c343-4c6f-8711-d77e3b33ddfd
      :END:
-*** TODO Write in org mode
+
+*** NEXT Transfer to org mode
     :PROPERTIES:
     :ID:       5a325cf2-0da9-4e46-b6e0-22700794dbfe
     :END:
-:ID:       d4065564-7904-47cc-b82c-68a9e060597e
-    :END
-http://orgmode.org/worg/org-tutorials/org-jekyll.html
-*** TODO Write website content
+    :ID:       d4065564-7904-47cc-b82c-68a9e060597e
+    :END:
+*** TODO Website content
     :PROPERTIES:
     :ID:       5c8378f9-737c-4a4a-98ea-52d9c4ca3e93
     :END:
