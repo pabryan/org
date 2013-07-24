@@ -35,13 +35,21 @@ Check out http://daretoevolve.tv/dare-to-evolve-member/
 See http://html5doctor.com/the-details-and-summary-elements/
 http://css-plus.com/2011/08/create-accordions-with-css3-html5-and-jquery/
 **** NEXT Set up static gen publishing
+     :PROPERTIES:
+     :ID:       4ca499fe-3561-4181-a05a-9633be9892e6
+     :END:
 http://cinsk.github.io/jekyll-org/articles/jekyll-org.html
 http://jekyllrb.com/
 http://twitter.github.io/bootstrap/
 **** NEXT Check out SelectedPapers for hooking into Google+
+     :PROPERTIES:
+     :ID:       4e614435-c343-4c6f-8711-d77e3b33ddfd
+     :END:
 *** TODO Write in org mode
     :PROPERTIES:
-    :ID:       d4065564-7904-47cc-b82c-68a9e060597e
+    :ID:       5a325cf2-0da9-4e46-b6e0-22700794dbfe
+    :END:
+:ID:       d4065564-7904-47cc-b82c-68a9e060597e
     :END
 http://orgmode.org/worg/org-tutorials/org-jekyll.html
 *** TODO Write website content
@@ -3475,6 +3483,9 @@ Lectures in calendar and tasks like planning lectures.
 	:LOGBOOK:
 	CLOCK: [2013-07-23 Tue 12:18]--[2013-07-23 Tue 12:46] =>  0:28
 	:END:
+	:PROPERTIES:
+	:ID:       3f43e248-4be9-4244-98d6-d365cea7551c
+	:END:
 ******* Mon
 ******** NEXT Prepare Lecture 1.1
 	 DEADLINE: <2013-08-05 Mon>
@@ -3701,6 +3712,9 @@ APM B412
 ******* NEXT Create Lecture Outlines
 	:LOGBOOK:
 	CLOCK: [2013-07-23 Tue 12:46]--[2013-07-23 Tue 13:17] =>  0:31
+	:END:
+	:PROPERTIES:
+	:ID:       dedd72c3-ea71-4d99-ba1a-55a342d92d63
 	:END:
 ******* Mon
 ******** NEXT Prepare Lecture 1.1

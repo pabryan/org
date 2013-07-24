@@ -6,6 +6,9 @@
   :LOGBOOK:
   CLOCK: [2013-07-23 Tue 16:13]--[2013-07-23 Tue 16:14] =>  0:01
   :END:
+  :PROPERTIES:
+  :ID:       b9692eaa-64e9-40e2-887f-12f064e01560
+  :END:
 [2013-07-23 Tue 16:13]
 - don't need latex macros
 - regex for excluding exams
