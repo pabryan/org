@@ -38,10 +38,12 @@ http://css-plus.com/2011/08/create-accordions-with-css3-html5-and-jquery/
 http://cinsk.github.io/jekyll-org/articles/jekyll-org.html
 http://jekyllrb.com/
 
+**** NEXT Check out SelectedPapers for hooking into Google+
 *** TODO Write in org mode
     :PROPERTIES:
     :ID:       d4065564-7904-47cc-b82c-68a9e060597e
-    :END:
+    :END
+http://orgmode.org/worg/org-tutorials/org-jekyll.html
 *** TODO Write website content
     :PROPERTIES:
     :ID:       5c8378f9-737c-4a4a-98ea-52d9c4ca3e93
