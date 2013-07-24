@@ -228,6 +228,7 @@
     - State "DONE"       from "NEXT"       [2013-03-11 Mon 21:23]
     - State "DONE"       from "NEXT"       [2013-03-10 Sun 11:10]
     :LOGBOOK:
+    CLOCK: [2013-07-24 Wed 09:02]
     CLOCK: [2013-03-10 Sun 09:09]--[2013-03-10 Sun 09:35] =>  0:26
     CLOCK: [2013-03-10 Sun 08:05]--[2013-03-10 Sun 08:35] =>  0:30
     :END:
