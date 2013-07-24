@@ -16,7 +16,7 @@
   :ID:       05f896fc-0400-4ac3-bfef-5e3c5457fd02
   :END:
 ** Tasks
-*** TODO Update website template
+*** TODO Website authoring
   CLOCK: [2012-10-15 Mon 10:13]--[2012-10-15 Mon 10:13] =>  0:00
    :PROPERTIES:
    :ID:       95bed625-9178-4c2e-977b-ca4098a5ae3a
@@ -25,7 +25,7 @@
 
 **** NEXT Collapsing website style
   :LOGBOOK:
-  CLOCK: [2013-07-23 Tue 19:10]
+  CLOCK: [2013-07-23 Tue 19:10]--[2013-07-23 Tue 19:40] =>  0:30
   :END:
     :PROPERTIES:
     :ID:       923fc714-4efa-4ca4-ab62-759e7b906f2b
@@ -37,7 +37,7 @@ http://css-plus.com/2011/08/create-accordions-with-css3-html5-and-jquery/
 **** NEXT Set up static gen publishing
 http://cinsk.github.io/jekyll-org/articles/jekyll-org.html
 http://jekyllrb.com/
-
+http://twitter.github.io/bootstrap/
 **** NEXT Check out SelectedPapers for hooking into Google+
 *** TODO Write in org mode
     :PROPERTIES:
@@ -57,6 +57,8 @@ http://orgmode.org/worg/org-tutorials/org-jekyll.html
      :ID:       001a6a07-ac07-41ab-918a-fea9bd071d53
      :END:
 **** SOMEDAY Research interests
+     :LOGBOOK:
+     :END:
      :PROPERTIES:
      :ID:       3dd10810-b2c4-4677-b2c4-e4d542620645
      :END:
