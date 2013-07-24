@@ -18,15 +18,19 @@
 ** Tasks
 [[file:~/working/ucsd/ucsdwebsite]]
 *** TODO Website authoring
-  CLOCK: [2012-10-15 Mon 10:13]--[2012-10-15 Mon 10:13] =>  0:00
+    :LOGBOOK:
+    CLOCK: [2013-07-24 Wed 11:53]--[2013-07-24 Wed 11:54] =>  0:01
+    :END:
+    CLOCK: [2012-10-15 Mon 10:13]--[2012-10-15 Mon 10:13] =>  0:00
    :PROPERTIES:
    :ID:       95bed625-9178-4c2e-977b-ca4098a5ae3a
    :END:
 [2012-10-15 Mon 10:13]
 
-**** NEXT Set up org-mode publishing
+**** DONE Set up org-mode publishing
+     - State "DONE"       from "NEXT"       [2013-07-24 Wed 11:53]
      :LOGBOOK:
-     CLOCK: [2013-07-24 Wed 10:47]
+     CLOCK: [2013-07-24 Wed 10:47]--[2013-07-24 Wed 11:53] =>  1:06
      :END:
 **** TODO Collapsing website style
   :LOGBOOK:
@@ -53,7 +57,8 @@ http://orgmode.org/worg/org-tutorials/org-jekyll.html
      :ID:       4e614435-c343-4c6f-8711-d77e3b33ddfd
      :END:
 
-*** NEXT Transfer to org mode
+*** DONE Transfer to org mode
+    - State "DONE"       from "NEXT"       [2013-07-24 Wed 11:53]
     :PROPERTIES:
     :ID:       5a325cf2-0da9-4e46-b6e0-22700794dbfe
     :END:
@@ -67,10 +72,12 @@ http://orgmode.org/worg/org-tutorials/org-jekyll.html
      :PROPERTIES:
      :ID:       27dfad08-3c5c-4678-a6d6-83cf0594c320
      :END:
-**** SOMEDAY Links to papers
+**** DONE Links to papers
+     - State "DONE"       from "SOMEDAY"    [2013-07-24 Wed 11:53]
      :PROPERTIES:
      :ID:       001a6a07-ac07-41ab-918a-fea9bd071d53
      :END:
+**** NEXT May teaching links use org-mode (not literal html)
 **** SOMEDAY Research interests
      :LOGBOOK:
      :END:
@@ -78,6 +85,7 @@ http://orgmode.org/worg/org-tutorials/org-jekyll.html
      :ID:       3dd10810-b2c4-4677-b2c4-e4d542620645
      :END:
 
+**** NEXT Make research papers link to selected papers instead of arxiv
 * Teaching 							   :TEACHING:
   :LOGBOOK:
   CLOCK: [2012-12-06 Thu 10:53]--[2012-12-06 Thu 11:05] =>  0:12
