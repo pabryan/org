@@ -3546,12 +3546,16 @@ Lectures in calendar and tasks like planning lectures.
 	 :END:
 
 ****** TODO Website
+       :LOGBOOK:
+       :END:
        :PROPERTIES:
        :ID:       696922e3-5fc4-44dd-92e8-7756f2bdd477
        :END:
-******* NEXT Make website
+******* DONE Make website
+	- State "DONE"       from "NEXT"       [2013-07-23 Tue 17:28]
 	:LOGBOOK:
-	CLOCK: [2013-07-23 Tue 16:14]
+	CLOCK: [2013-07-23 Tue 17:00]--[2013-07-23 Tue 17:28] =>  0:28
+	CLOCK: [2013-07-23 Tue 16:14]--[2013-07-23 Tue 16:33] =>  0:19
 	CLOCK: [2013-07-23 Tue 15:37]--[2013-07-23 Tue 16:13] =>  0:36
 	:END:
        	:PROPERTIES:
