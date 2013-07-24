@@ -17,14 +17,26 @@
   :END:
 ** Tasks
 *** TODO Update website template
-check out http://www.wix.com/
-use org-mode to write content, css to render
-Find tempaltes!
   CLOCK: [2012-10-15 Mon 10:13]--[2012-10-15 Mon 10:13] =>  0:00
    :PROPERTIES:
    :ID:       95bed625-9178-4c2e-977b-ca4098a5ae3a
    :END:
 [2012-10-15 Mon 10:13]
+
+**** NEXT Collapsing website style
+  :LOGBOOK:
+  CLOCK: [2013-07-23 Tue 19:10]
+  :END:
+    :PROPERTIES:
+    :ID:       923fc714-4efa-4ca4-ab62-759e7b906f2b
+    :END:
+[2013-07-16 Tue 10:29]
+Check out http://daretoevolve.tv/dare-to-evolve-member/
+See http://html5doctor.com/the-details-and-summary-elements/
+http://css-plus.com/2011/08/create-accordions-with-css3-html5-and-jquery/
+**** NEXT Set up static gen publishing
+http://cinsk.github.io/jekyll-org/articles/jekyll-org.html
+http://jekyllrb.com/
 
 *** TODO Write in org mode
     :PROPERTIES:
@@ -46,15 +58,7 @@ Find tempaltes!
      :PROPERTIES:
      :ID:       3dd10810-b2c4-4677-b2c4-e4d542620645
      :END:
-*** NEXT Collapsing website style
-  :LOGBOOK:
-  CLOCK: [2013-07-23 Tue 19:10]
-  :END:
-    :PROPERTIES:
-    :ID:       923fc714-4efa-4ca4-ab62-759e7b906f2b
-    :END:
-[2013-07-16 Tue 10:29]
-Check out http://daretoevolve.tv/dare-to-evolve-member/
+
 * Teaching 							   :TEACHING:
   :LOGBOOK:
   CLOCK: [2012-12-06 Thu 10:53]--[2012-12-06 Thu 11:05] =>  0:12
