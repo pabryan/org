@@ -10,7 +10,7 @@
 ** Employee ID
 00707046
 ** Omni Lock
-5055922
+   5055922
 * Personal Website
   :PROPERTIES:
   :ID:       05f896fc-0400-4ac3-bfef-5e3c5457fd02
@@ -18,10 +18,6 @@
 ** Tasks
 [[file:~/working/ucsd/ucsdwebsite]]
 *** TODO Website authoring
-    :LOGBOOK:
-    CLOCK: [2013-07-24 Wed 11:53]--[2013-07-24 Wed 11:54] =>  0:01
-    :END:
-    CLOCK: [2012-10-15 Mon 10:13]--[2012-10-15 Mon 10:13] =>  0:00
    :PROPERTIES:
    :ID:       95bed625-9178-4c2e-977b-ca4098a5ae3a
    :END:
@@ -32,6 +28,11 @@
      :LOGBOOK:
      CLOCK: [2013-07-24 Wed 10:47]--[2013-07-24 Wed 11:53] =>  1:06
      :END:
+**** NEXT Change links in publishing
+     :LOGBOOK:
+     CLOCK: [2013-07-24 Wed 12:57]
+     :END:
+**** NEXT Set styles
 **** TODO Collapsing website style
   :LOGBOOK:
   CLOCK: [2013-07-23 Tue 19:10]--[2013-07-23 Tue 19:40] =>  0:30
