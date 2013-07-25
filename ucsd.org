@@ -62,6 +62,8 @@ http://cinsk.github.io/jekyll-org/articles/jekyll-org.html
 http://jekyllrb.com/
 http://twitter.github.io/bootstrap/
 http://orgmode.org/worg/org-tutorials/org-jekyll.html
+http://stackoverflow.com/questions/6366188/jekyll-select-current-page-url-and-change-its-class
+http://stackoverflow.com/questions/8340170/jekyll-automatically-highlight-current-tab-in-menu-bar
 **** TODO Check out SelectedPapers for hooking into Google+
      :PROPERTIES:
      :ID:       4e614435-c343-4c6f-8711-d77e3b33ddfd
