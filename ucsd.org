@@ -3608,6 +3608,10 @@ Lectures in calendar and tasks like planning lectures.
        	:PROPERTIES:
        	:ID:       e0c53278-5035-45e6-9515-1c0d9f37596b
        	:END:
+******* NEXT Publish website
+	:LOGBOOK:
+	CLOCK: [2013-07-25 Thu 13:22]
+	:END:
 ***** Clocking
 ****** Admin
 ****** Office hours
@@ -3826,6 +3830,7 @@ APM B412
 	 :END:
 ****** TODO Website
        :LOGBOOK:
+       CLOCK: [2013-07-25 Thu 13:21]--[2013-07-25 Thu 13:22] =>  0:01
        :END:
        :PROPERTIES:
        :ID:       696922e3-5fc4-44dd-92e8-7756f2bdd477
@@ -3838,9 +3843,11 @@ APM B412
 	:PROPERTIES:
 	:ID:       e0c53278-5035-45e6-9515-1c0d9f37596b
 	:END:
-******* NEXT Publish Website
+******* DONE Publish Website
+	- State "DONE"       from "NEXT"       [2013-07-25 Thu 13:21]
 	:LOGBOOK:
-	CLOCK: [2013-07-25 Thu 10:48]
+	CLOCK: [2013-07-25 Thu 12:11]--[2013-07-25 Thu 13:21] =>  1:10
+	CLOCK: [2013-07-25 Thu 10:48]--[2013-07-25 Thu 11:48] =>  1:00
 	:END:
 ****** DONE Plan course
        - State "DONE"       from "TODO"       [2013-07-22 Mon 21:24]
