@@ -2,3 +2,10 @@
  
 
 
+* TODO Setup automated website build
+  :LOGBOOK:
+  CLOCK: [2013-07-24 Wed 21:51]--[2013-07-24 Wed 21:52] =>  0:01
+  :END:
+[2013-07-24 Wed 21:51]
+
+- after publishing, run Jekyll and ssh to server

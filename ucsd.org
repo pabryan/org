@@ -18,9 +18,6 @@
 ** Tasks
 [[file:~/working/ucsd/ucsdwebsite]]
 *** TODO Website authoring
-    :LOGBOOK:
-    CLOCK: [2013-07-24 Wed 13:11]--[2013-07-24 Wed 13:12] =>  0:01
-    :END:
    :PROPERTIES:
    :ID:       95bed625-9178-4c2e-977b-ca4098a5ae3a
    :END:
@@ -36,7 +33,8 @@
      :LOGBOOK:
      CLOCK: [2013-07-24 Wed 12:57]--[2013-07-24 Wed 13:11] =>  0:14
      :END:
-**** NEXT Set styles
+**** NEXT Set styles for org-mode 
+- org-mode defines it's own classes. need styles for them.
 **** TODO Collapsing website style
   :LOGBOOK:
   CLOCK: [2013-07-23 Tue 19:10]--[2013-07-23 Tue 19:40] =>  0:30
@@ -48,9 +46,10 @@
 Check out http://daretoevolve.tv/dare-to-evolve-member/
 See http://html5doctor.com/the-details-and-summary-elements/
 http://css-plus.com/2011/08/create-accordions-with-css3-html5-and-jquery/
-**** NEXT Set up Jekyll
+**** DONE Set up Jekyll
+     - State "DONE"       from "NEXT"       [2013-07-24 Wed 21:50]
      :LOGBOOK:
-     CLOCK: [2013-07-24 Wed 20:58]
+     CLOCK: [2013-07-24 Wed 20:58]--[2013-07-24 Wed 21:50] =>  0:52
      CLOCK: [2013-07-24 Wed 16:26]--[2013-07-24 Wed 18:22] =>  1:56
      CLOCK: [2013-07-24 Wed 13:12]--[2013-07-24 Wed 14:13] =>  1:01
      :END:
