@@ -1230,6 +1230,7 @@ http://askubuntu.com/questions/198136/error-when-trying-to-connect-to-vpn-on-sta
   :END:
 ** Organisation
   :LOGBOOK:
+  CLOCK: [2013-07-25 Thu 08:58]--[2013-07-25 Thu 08:59] =>  0:01
   CLOCK: [2013-07-24 Wed 12:55]--[2013-07-24 Wed 12:57] =>  0:02
   CLOCK: [2013-07-24 Wed 10:41]--[2013-07-24 Wed 10:47] =>  0:06
   CLOCK: [2013-07-24 Wed 10:10]--[2013-07-24 Wed 10:19] =>  0:09
@@ -2018,6 +2019,7 @@ For the following, do I just use the existing diary.org capture template or perh
    - State "DONE"       from "NEXT"       [2013-01-10 Thu 09:22]
    - State "DONE"       from "NEXT"       [2013-01-09 Wed 07:19]
    :LOGBOOK:
+   CLOCK: [2013-07-25 Thu 08:59]
    CLOCK: [2013-07-24 Wed 09:00]--[2013-07-24 Wed 09:02] =>  0:02
    CLOCK: [2013-07-23 Tue 09:32]--[2013-07-23 Tue 09:33] =>  0:01
    CLOCK: [2013-07-22 Mon 09:12]--[2013-07-22 Mon 09:16] =>  0:04
