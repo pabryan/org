@@ -3838,6 +3838,10 @@ APM B412
 	:PROPERTIES:
 	:ID:       e0c53278-5035-45e6-9515-1c0d9f37596b
 	:END:
+******* NEXT Publish Website
+	:LOGBOOK:
+	CLOCK: [2013-07-25 Thu 10:48]
+	:END:
 ****** DONE Plan course
        - State "DONE"       from "TODO"       [2013-07-22 Mon 21:24]
 
