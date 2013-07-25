@@ -3608,9 +3608,10 @@ Lectures in calendar and tasks like planning lectures.
        	:PROPERTIES:
        	:ID:       e0c53278-5035-45e6-9515-1c0d9f37596b
        	:END:
-******* NEXT Publish website
+******* DONE Publish website
+	- State "DONE"       from "NEXT"       [2013-07-25 Thu 13:51]
 	:LOGBOOK:
-	CLOCK: [2013-07-25 Thu 13:22]
+	CLOCK: [2013-07-25 Thu 13:22]--[2013-07-25 Thu 13:51] =>  0:29
 	:END:
 ***** Clocking
 ****** Admin
