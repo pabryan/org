@@ -3617,7 +3617,10 @@ Lectures in calendar and tasks like planning lectures.
 	:LOGBOOK:
 	CLOCK: [2013-07-25 Thu 13:22]--[2013-07-25 Thu 13:51] =>  0:29
 	:END:
-******* NEXT Enter TA info
+******* NEXT Enter TA, sections etc.
+	:LOGBOOK:
+	CLOCK: [2013-07-25 Thu 17:49]
+	:END:
 ***** Clocking
 ****** Admin
 ****** Office hours
@@ -3855,9 +3858,10 @@ APM B412
 	CLOCK: [2013-07-25 Thu 12:11]--[2013-07-25 Thu 13:21] =>  1:10
 	CLOCK: [2013-07-25 Thu 10:48]--[2013-07-25 Thu 11:48] =>  1:00
 	:END:
-******* NEXT Enter TA info
+******* DONE Enter TA info
+	- State "DONE"       from "NEXT"       [2013-07-25 Thu 17:49]
 	:LOGBOOK:
-	CLOCK: [2013-07-25 Thu 17:26]
+	CLOCK: [2013-07-25 Thu 17:26]--[2013-07-25 Thu 17:49] =>  0:23
 	:END:
 ****** DONE Plan course
        - State "DONE"       from "TODO"       [2013-07-22 Mon 21:24]
