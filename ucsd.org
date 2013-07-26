@@ -75,6 +75,9 @@ http://jekyllbootstrap.com
      :END:
 
 **** NEXT Set up CSS/HTML5 Layout/Styles
+     :LOGBOOK:
+     CLOCK: [2013-07-25 Thu 21:25]
+     :END:
 https://github.com/necolas/normalize.css
 https://github.com/cobyism/gridism
 http://modernizr.com/
