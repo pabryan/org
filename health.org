@@ -234,6 +234,7 @@
     - State "DONE"       from "NEXT"       [2013-03-11 Mon 21:23]
     - State "DONE"       from "NEXT"       [2013-03-10 Sun 11:10]
     :LOGBOOK:
+    CLOCK: [2013-07-26 Fri 08:48]
     CLOCK: [2013-07-25 Thu 09:04]--[2013-07-25 Thu 09:48] =>  0:44
     CLOCK: [2013-07-24 Wed 09:02]--[2013-07-24 Wed 09:19] =>  0:17
     CLOCK: [2013-03-10 Sun 09:09]--[2013-03-10 Sun 09:35] =>  0:26
@@ -329,7 +330,8 @@
     :END:
   
 *** NEXT Evening Stretch
-    SCHEDULED: <2013-07-25 Thu .+1d/2d>
+    SCHEDULED: <2013-07-26 Fri .+1d/2d>
+    - State "DONE"       from "NEXT"       [2013-07-25 Thu 23:08]
     - State "DONE"       from "NEXT"       [2013-07-24 Wed 23:04]
     - State "DONE"       from "NEXT"       [2013-07-23 Tue 18:49]
     - State "DONE"       from "NEXT"       [2013-07-22 Mon 21:11]
@@ -377,7 +379,7 @@
     - State "DONE"       from "NEXT"       [2013-03-12 Tue 21:05]
     - State "DONE"       from "NEXT"       [2013-03-06 Wed 22:24]
     :LOGBOOK:
-    CLOCK: [2013-07-25 Thu 22:17]
+    CLOCK: [2013-07-25 Thu 22:17]--[2013-07-25 Thu 23:08] =>  0:51
     CLOCK: [2013-07-24 Wed 21:52]--[2013-07-24 Wed 23:04] =>  1:12
     CLOCK: [2013-07-23 Tue 18:08]--[2013-07-23 Tue 18:49] =>  0:41
     CLOCK: [2013-07-19 Fri 17:08]--[2013-07-19 Fri 18:10] =>  1:02
@@ -387,7 +389,7 @@
     :STYLE:    habit
     :REPEAT_TO_STATE: NEXT
     :ID:       d439600f-c40d-4dd3-82ca-3e7d9e35f2b3
-    :LAST_REPEAT: [2013-07-24 Wed 23:04]
+    :LAST_REPEAT: [2013-07-25 Thu 23:08]
     :END:
   
 *** NEXT Handstand practice
