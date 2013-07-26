@@ -1,5 +1,5 @@
 #+FILETAGS: REMY
-* School
+* School							     :SCHOOL:
   :PROPERTIES:
   :ID:       5376951d-818b-4264-8149-3abeb4700dc0
   :END:
@@ -183,7 +183,7 @@ I want to find things for Remy to do at home that keep his interest in the world
    :ID:       1cba75a7-0dee-40ff-9463-d9ab42b68b65
    :END:
 
-** IA
+** IA									 :IA:
 *** Tasks
 **** DONE Fill in acceptence form
      SCHEDULED: <2013-07-16 Tue> DEADLINE: <2013-07-17 Wed>
@@ -197,6 +197,11 @@ I want to find things for Remy to do at home that keep his interest in the world
      :PROPERTIES:
      :ID:       e0c3b00a-52ba-472b-a31d-06068a3a811d
      :END:
+**** TODO Register Remy
+     DEADLINE: <2013-08-07 Wed>
+https://secure.k12online.us/schoolportal/index.php?sname=innovations-academy-charter-school
+User: Bryan
+Pass: 67dogs43
 *** IA Home Learning
 **** DONE Go to IA Home learning
     - State "DONE"       from "TODO"       [2013-07-10 Wed 14:29]
@@ -205,6 +210,9 @@ I want to find things for Remy to do at home that keep his interest in the world
     :END:
 [2013-04-15 Mon 20:34]
 <2013-04-23 Tue 13:30>
+*** Events
+**** Open House
+<2013-08-28 Wed>
 * Reading
   :PROPERTIES:
   :ID:       d39bef53-4de3-4de3-b9e3-7f3a75c7229b
