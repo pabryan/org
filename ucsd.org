@@ -39,6 +39,7 @@
      CLOCK: [2013-07-25 Thu 15:09]--[2013-07-25 Thu 15:26] =>  0:17
      :END:
 - org-mode defines it's own classes. need styles for them.
+**** NEXT Fix up site base url
 **** TODO Collapsing website style
   :LOGBOOK:
   CLOCK: [2013-07-23 Tue 19:10]--[2013-07-23 Tue 19:40] =>  0:30
