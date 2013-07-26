@@ -9,3 +9,8 @@
 [2013-07-24 Wed 21:51]
 
 - after publishing, run Jekyll and ssh to server
+* TODO Load publishing projects on startup
+  :LOGBOOK:
+  :END:
+[2013-07-25 Thu 19:07]
+- I'll want to load up the ucsdwebsite, courses I teach and current projects publishing elisp
