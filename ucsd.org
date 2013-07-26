@@ -94,6 +94,8 @@ http://modernizr.com/
      :PROPERTIES:
      :ID:       8f8a977b-ac74-4b40-94e8-56c81ea5f60f
      :END:
+**** NEXT Set up build/publishing
+- Add a hook after org publishing to run jekyll and ssh across
 *** DONE Transfer to org mode
     - State "DONE"       from "NEXT"       [2013-07-24 Wed 11:53]
     :PROPERTIES:
