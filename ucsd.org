@@ -35,7 +35,8 @@
      :END:
 **** NEXT Set styles for org-mode 
      :LOGBOOK:
-     CLOCK: [2013-07-25 Thu 15:09]
+     CLOCK: [2013-07-25 Thu 17:00]
+     CLOCK: [2013-07-25 Thu 15:09]--[2013-07-25 Thu 15:26] =>  0:17
      :END:
 - org-mode defines it's own classes. need styles for them.
 **** TODO Collapsing website style
