@@ -74,6 +74,11 @@ http://jekyllbootstrap.com
      :ID:       4e614435-c343-4c6f-8711-d77e3b33ddfd
      :END:
 
+**** NEXT Set up CSS/HTML5 Layout/Styles
+https://github.com/necolas/normalize.css
+https://github.com/cobyism/gridism
+http://modernizr.com/
+**** NEXT Make some discrete, cute HTML5 animations
 *** DONE Transfer to org mode
     - State "DONE"       from "NEXT"       [2013-07-24 Wed 11:53]
     :PROPERTIES:
@@ -105,9 +110,6 @@ http://jekyllbootstrap.com
      :END:
 
 **** NEXT Make research papers link to selected papers instead of arxiv
-**** NEXT Set up CSS/HTML5 Layout/Styles
-https://github.com/necolas/normalize.css
-https://github.com/cobyism/gridism
 * Teaching 							   :TEACHING:
   :LOGBOOK:
   CLOCK: [2012-12-06 Thu 10:53]--[2012-12-06 Thu 11:05] =>  0:12
