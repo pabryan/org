@@ -191,6 +191,9 @@ I want to put the details of the course in to org - probably using property draw
   :ID:       7b4c1677-ee55-47b9-91c7-7f5b188957f0
   :END:
 [2013-04-27 Sat 14:17]
+***** NEXT Format tables nicely in css!
+http://www.math.ucsd.edu/~jeggers/Archive/2012Spring/Math142B/calendar.html
+http://www.w3schools.com/css/tryit.asp?filename=trycss_table_fancy
 *** Template							    :SOMEDAY:
 **** Notes
 **** Tasks
