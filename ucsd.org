@@ -35,7 +35,7 @@
      :END:
 **** NEXT Set styles for org-mode 
      :LOGBOOK:
-     CLOCK: [2013-07-25 Thu 17:00]
+     CLOCK: [2013-07-25 Thu 17:00]--[2013-07-25 Thu 17:26] =>  0:26
      CLOCK: [2013-07-25 Thu 15:09]--[2013-07-25 Thu 15:26] =>  0:17
      :END:
 - org-mode defines it's own classes. need styles for them.
@@ -3432,7 +3432,7 @@ Center 119
        CLOCK: [2013-06-10 Mon 12:27]--[2013-06-10 Mon 13:09] =>  0:42
        :END:
 
-*** Summer 2013							      :FOCUS:
+*** Summer2 2013					 :FOCUS:SUMMER2_2013:
 **** TODO MATH142B						   :MATH142B:
       :PROPERTIES:
       :ID:       637a5770-e691-46f5-b733-44af49f29f6e
@@ -3617,6 +3617,7 @@ Lectures in calendar and tasks like planning lectures.
 	:LOGBOOK:
 	CLOCK: [2013-07-25 Thu 13:22]--[2013-07-25 Thu 13:51] =>  0:29
 	:END:
+******* NEXT Enter TA info
 ***** Clocking
 ****** Admin
 ****** Office hours
@@ -3853,6 +3854,10 @@ APM B412
 	:LOGBOOK:
 	CLOCK: [2013-07-25 Thu 12:11]--[2013-07-25 Thu 13:21] =>  1:10
 	CLOCK: [2013-07-25 Thu 10:48]--[2013-07-25 Thu 11:48] =>  1:00
+	:END:
+******* NEXT Enter TA info
+	:LOGBOOK:
+	CLOCK: [2013-07-25 Thu 17:26]
 	:END:
 ****** DONE Plan course
        - State "DONE"       from "TODO"       [2013-07-22 Mon 21:24]
