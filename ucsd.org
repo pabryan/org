@@ -38,8 +38,14 @@
      CLOCK: [2013-07-25 Thu 17:00]--[2013-07-25 Thu 17:26] =>  0:26
      CLOCK: [2013-07-25 Thu 15:09]--[2013-07-25 Thu 15:26] =>  0:17
      :END:
+     :PROPERTIES:
+     :ID:       38da306c-0984-4b99-ba62-06fd55da92b7
+     :END:
 - org-mode defines it's own classes. need styles for them.
 **** NEXT Fix up site base url
+     :PROPERTIES:
+     :ID:       af1fdfa5-7793-4da0-8f71-f4761c35bef8
+     :END:
 **** TODO Collapsing website style
   :LOGBOOK:
   CLOCK: [2013-07-23 Tue 19:10]--[2013-07-23 Tue 19:40] =>  0:30
@@ -78,10 +84,16 @@ http://jekyllbootstrap.com
      :LOGBOOK:
      CLOCK: [2013-07-25 Thu 21:25]--[2013-07-25 Thu 21:58] =>  0:33
      :END:
+     :PROPERTIES:
+     :ID:       21865db6-3fe6-4929-b98f-896c849ff462
+     :END:
 https://github.com/necolas/normalize.css
 https://github.com/cobyism/gridism
 http://modernizr.com/
 **** NEXT Make some discrete, cute HTML5 animations
+     :PROPERTIES:
+     :ID:       8f8a977b-ac74-4b40-94e8-56c81ea5f60f
+     :END:
 *** DONE Transfer to org mode
     - State "DONE"       from "NEXT"       [2013-07-24 Wed 11:53]
     :PROPERTIES:
@@ -103,6 +115,9 @@ http://modernizr.com/
      :ID:       001a6a07-ac07-41ab-918a-fea9bd071d53
      :END:
 **** NEXT Make teaching links use org-mode (not literal html)
+     :PROPERTIES:
+     :ID:       00795efc-d689-4fa6-852f-0faa0f546268
+     :END:
 - Not sure if I really need this. I guess it might be nice to auto-generate.
 **** DONE Research interests
      - State "DONE"       from "NEXT"       [2013-07-25 Thu 21:18]
@@ -113,6 +128,9 @@ http://modernizr.com/
      :END:
 
 **** NEXT Make research papers link to selected papers instead of arxiv
+     :PROPERTIES:
+     :ID:       440ad9b3-2777-4d7e-b86d-e3f5c63dedc4
+     :END:
 * Teaching 							   :TEACHING:
   :LOGBOOK:
   CLOCK: [2012-12-06 Thu 10:53]--[2012-12-06 Thu 11:05] =>  0:12
@@ -202,6 +220,9 @@ I want to put the details of the course in to org - probably using property draw
   :END:
 [2013-04-27 Sat 14:17]
 ***** NEXT Format tables nicely in css!
+      :PROPERTIES:
+      :ID:       420d05df-354e-4c9e-a731-da0562cb7c47
+      :END:
 http://www.math.ucsd.edu/~jeggers/Archive/2012Spring/Math142B/calendar.html
 http://www.w3schools.com/css/tryit.asp?filename=trycss_table_fancy
 *** Template							    :SOMEDAY:
@@ -3540,7 +3561,9 @@ Lectures in calendar and tasks like planning lectures.
 ******** TODO Prepare Lecture 2.1
 	 DEADLINE: <2013-08-12 Mon>
 	 :PROPERTIES:
-	 :ID:       8bc63431-9479-4f11-9b43-93bfa9f0d90a
+	 :ID:       961c7614-0741-444e-91dd-08150f4fa880
+	 :END:
+:ID:       8bc63431-9479-4f11-9b43-93bfa9f0d90a
 	 :END:.
 ******** TODO Prepare Lecture 3.1
 	 DEADLINE: <2013-08-19 Mon>

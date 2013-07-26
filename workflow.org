@@ -1230,7 +1230,7 @@ http://askubuntu.com/questions/198136/error-when-trying-to-connect-to-vpn-on-sta
   :END:
 ** Organisation
   :LOGBOOK:
-  CLOCK: [2013-07-25 Thu 21:58]
+  CLOCK: [2013-07-25 Thu 21:58]--[2013-07-25 Thu 22:00] =>  0:02
   CLOCK: [2013-07-25 Thu 18:00]--[2013-07-25 Thu 18:30] =>  0:30
   CLOCK: [2013-07-25 Thu 15:08]--[2013-07-25 Thu 15:09] =>  0:01
   CLOCK: [2013-07-25 Thu 13:51]--[2013-07-25 Thu 13:52] =>  0:01
@@ -1834,7 +1834,8 @@ Set some goals for the month. I should check someday projects for inclusion in t
 Check how I did last month. I guess the review and plan could probably go together. This is all broad stuff
 
 ** NEXT Daily Review [0/3]
-   SCHEDULED: <2013-07-25 Thu .+1d/2d>
+   SCHEDULED: <2013-07-26 Fri .+1d/2d>
+   - State "DONE"       from "NEXT"       [2013-07-25 Thu 22:02]
    - State "DONE"       from "NEXT"       [2013-07-24 Wed 21:51]
    - State "DONE"       from "NEXT"       [2013-07-23 Tue 20:19]
    - State "DONE"       from "NEXT"       [2013-07-22 Mon 21:22]
@@ -1878,6 +1879,7 @@ Check how I did last month. I guess the review and plan could probably go togeth
    - State "DONE"       from "NEXT"       [2013-01-23 Wed 19:25]
    - State "DONE"       from "NEXT"       [2013-01-14 Mon 17:43]
    :LOGBOOK:
+   CLOCK: [2013-07-25 Thu 22:00]--[2013-07-25 Thu 22:02] =>  0:02
    CLOCK: [2013-07-24 Wed 21:50]--[2013-07-24 Wed 21:51] =>  0:01
    CLOCK: [2013-07-23 Tue 20:18]--[2013-07-23 Tue 20:19] =>  0:01
    CLOCK: [2013-07-22 Mon 21:12]--[2013-07-22 Mon 21:22] =>  0:10
@@ -1905,7 +1907,7 @@ Check how I did last month. I guess the review and plan could probably go togeth
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
    :ID:       616c5bd9-d941-4fcc-8874-2ff3c9e96b4a
-   :LAST_REPEAT: [2013-07-24 Wed 21:51]
+   :LAST_REPEAT: [2013-07-25 Thu 22:02]
    :END:
 
 What to review:
