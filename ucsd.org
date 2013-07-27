@@ -3775,6 +3775,8 @@ APM B412
 	:END:
 
 ****** TODO Lectures
+       :LOGBOOK:
+       :END:
        :PROPERTIES:
        :ID:       6e320867-249a-486f-a53a-dced95d00a55
        :END:
@@ -3789,6 +3791,7 @@ APM B412
 	
 ******* NEXT Create Lecture Outlines
 	:LOGBOOK:
+	CLOCK: [2013-07-26 Fri 14:00]--[2013-07-26 Fri 14:30] =>  0:30
 	CLOCK: [2013-07-23 Tue 12:46]--[2013-07-23 Tue 13:17] =>  0:31
 	:END:
 	:PROPERTIES:

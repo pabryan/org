@@ -2102,6 +2102,21 @@ Set 4 HR: 104
 :Discomfort: 3
 :END:
 
+*** 2013-07-24 Wednesday
+**** FlowFit
+:PROPERTIES:
+:Type: Conditioning
+:Intensity: Mod
+:RestHR: 64
+:MobilityHR: 66
+:FinalHR: 136
+:RecoveryHR: 104
+:Score: 17
+:Technique: 9
+:Effort: 7
+:Discomfort: 2
+:END:
+
 * conv code
   :PROPERTIES:
   :ID:       547e575e-820e-40c1-bd37-4714b4238af6
