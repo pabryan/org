@@ -96,6 +96,9 @@ http://modernizr.com/
      :ID:       8f8a977b-ac74-4b40-94e8-56c81ea5f60f
      :END:
 **** NEXT Set up build/publishing
+     :PROPERTIES:
+     :ID:       66686314-73be-48fb-855a-4a9d41d682ce
+     :END:
 - Add a hook after org publishing to run jekyll and ssh across
 *** DONE Transfer to org mode
     - State "DONE"       from "NEXT"       [2013-07-24 Wed 11:53]
@@ -3708,6 +3711,9 @@ APM B412
 ***** Homework
 ****** Homework 1
        DEADLINE: <2013-08-09 Fri>
+       :PROPERTIES:
+       :ID:       7c1e6a53-c1a5-4612-a956-cce7a7a1d752
+       :END:
 
 ****** Homework 2
        DEADLINE: <2013-08-16 Fri>
@@ -3966,6 +3972,9 @@ WLH 2113
 ***** Homework
 ****** Homework 1
        DEADLINE: <2013-08-09 Fri>
+       :PROPERTIES:
+       :ID:       daac8658-d294-4d48-bbfd-bd01fb2a62a3
+       :END:
 
 ****** Homework 2
        DEADLINE: <2013-08-16 Fri>

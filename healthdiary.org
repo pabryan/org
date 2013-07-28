@@ -1947,7 +1947,7 @@ Set 4 HR: 104
 [2013-04-30 Tue 10:01]
 ** 2013-06 June
 *** 2013-06-12 Wednesday
-**** FlowFit
+**** Flowfit1
 :PROPERTIES:
 :Type: Conditioning
 :Intensity: Mod
@@ -1961,7 +1961,7 @@ Set 4 HR: 104
 :END:
 
 *** 2013-06-19 Wednesday
-**** FlowFit
+**** Flowfit1
 :PROPERTIES:
 :Type: Conditioning
 :Intensity: Mod
@@ -1976,7 +1976,7 @@ Set 4 HR: 104
 :END:
 
 *** 2013-06-22 Saturday
-**** FlowFit
+**** Flowfit1
 :PROPERTIES:
 :Type: Conditioning
 :Intensity: Mod
@@ -1991,7 +1991,7 @@ Set 4 HR: 104
 :END:
 
 *** 2013-06-26 Wednesday
-**** FlowFit
+**** Flowfit1
 :PROPERTIES:
 :Type: Conditioning
 :Intensity: Mod
@@ -2007,7 +2007,7 @@ Set 4 HR: 104
 
 ** 2013-07 July
 *** 2013-07-03 Wednesday
-**** FlowFit
+**** Flowfit1
 :PROPERTIES:
 :Type: Conditioning
 :Intensity: Mod
@@ -2022,7 +2022,7 @@ Set 4 HR: 104
 :END:
 
 *** 2013-07-06 Saturday
-**** FlowFit
+**** Flowfit1
 :PROPERTIES:
 :Type: Conditioning
 :Intensity: Mod
@@ -2037,7 +2037,7 @@ Set 4 HR: 104
 :END:
 
 *** 2013-07-13 Saturday
-**** FlowFit
+**** Flowfit1
 :PROPERTIES:
 :Type: Conditioning
 :Intensity: Mod
@@ -2085,7 +2085,7 @@ Set 4 HR: 104
 :END:
 
 *** 2013-07-20 Saturday
-**** FlowFit
+**** Flowfit1
      :LOGBOOK:
      CLOCK: [2013-07-20 Sat 11:40]--[2013-07-20 Sat 12:30] =>  0:50
      :END:
@@ -2103,7 +2103,7 @@ Set 4 HR: 104
 :END:
 
 *** 2013-07-24 Wednesday
-**** FlowFit
+**** Flowfit1
 :PROPERTIES:
 :Type: Conditioning
 :Intensity: Mod
@@ -2116,6 +2116,23 @@ Set 4 HR: 104
 :Effort: 7
 :Discomfort: 2
 :END:
+
+*** 2013-07-27 Saturday
+**** Flowfit2
+:PROPERTIES:
+:Type: Conditioning
+:Intensity: High
+:RestHR:  64
+:MobilityHR: 88
+:FinalHR: 184
+:RecoveryHR: 140
+:Score:  14
+:Technique: 8
+:Effort: 9
+:Discomfort: 4
+:END:
+
+[2013-07-27 Sat 22:59]
 
 * conv code
   :PROPERTIES:
