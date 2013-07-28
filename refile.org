@@ -2,21 +2,3 @@
  
 
 
-* TODO Setup automated website build
-  :LOGBOOK:
-  CLOCK: [2013-07-24 Wed 21:51]--[2013-07-24 Wed 21:52] =>  0:01
-  :END:
-  :PROPERTIES:
-  :ID:       1b1e5327-81fb-4d93-baf9-a9ad469ba1d6
-  :END:
-[2013-07-24 Wed 21:51]
-
-- after publishing, run Jekyll and ssh to server
-* TODO Load publishing projects on startup
-  :LOGBOOK:
-  :END:
-  :PROPERTIES:
-  :ID:       9e67941a-8e7a-46cd-98dc-dc11f35c5196
-  :END:
-[2013-07-25 Thu 19:07]
-- I'll want to load up the ucsdwebsite, courses I teach and current projects publishing elisp

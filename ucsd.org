@@ -100,6 +100,16 @@ http://modernizr.com/
      :ID:       66686314-73be-48fb-855a-4a9d41d682ce
      :END:
 - Add a hook after org publishing to run jekyll and ssh across
+**** TODO Load publishing projects on startup
+  :LOGBOOK:
+  :END:
+  :PROPERTIES:
+  :ID:       9e67941a-8e7a-46cd-98dc-dc11f35c5196
+  :END:
+[2013-07-25 Thu 19:07]
+- I'll want to load up the ucsdwebsite, courses I teach and current projects publishing elisp
+**** TODO Investigate Rake
+- Is this useful to me?
 *** DONE Transfer to org mode
     - State "DONE"       from "NEXT"       [2013-07-24 Wed 11:53]
     :PROPERTIES:
