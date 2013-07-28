@@ -255,7 +255,8 @@
     :END:
 
 *** NEXT Afternoon Relax
-    SCHEDULED: <2013-07-26 Fri .+1d/2d>
+    SCHEDULED: <2013-07-28 Sun .+1d/2d>
+    - State "DONE"       from "NEXT"       [2013-07-27 Sat 21:56]
     - State "DONE"       from "NEXT"       [2013-07-25 Thu 18:07]
     - State "DONE"       from "NEXT"       [2013-07-24 Wed 18:22]
     - State "DONE"       from "NEXT"       [2013-07-23 Tue 18:08]
@@ -333,11 +334,12 @@
     :STYLE:    habit
     :REPEAT_TO_STATE: NEXT
     :ID:       c0aaf33a-af77-446b-b9fd-cf2d2f78c12a
-    :LAST_REPEAT: [2013-07-25 Thu 18:07]
+    :LAST_REPEAT: [2013-07-27 Sat 21:56]
     :END:
   
 *** NEXT Evening Stretch
-    SCHEDULED: <2013-07-27 Sat .+1d/2d>
+    SCHEDULED: <2013-07-28 Sun .+1d/2d>
+    - State "DONE"       from "NEXT"       [2013-07-27 Sat 21:56]
     - State "DONE"       from "NEXT"       [2013-07-26 Fri 21:13]
     - State "DONE"       from "NEXT"       [2013-07-25 Thu 23:08]
     - State "DONE"       from "NEXT"       [2013-07-24 Wed 23:04]
@@ -387,7 +389,7 @@
     - State "DONE"       from "NEXT"       [2013-03-12 Tue 21:05]
     - State "DONE"       from "NEXT"       [2013-03-06 Wed 22:24]
     :LOGBOOK:
-    CLOCK: [2013-07-27 Sat 20:50]
+    CLOCK: [2013-07-27 Sat 20:50]--[2013-07-27 Sat 21:56] =>  1:06
     CLOCK: [2013-07-26 Fri 21:25]--[2013-07-26 Fri 21:55] =>  0:30
     CLOCK: [2013-07-25 Thu 22:17]--[2013-07-25 Thu 23:08] =>  0:51
     CLOCK: [2013-07-24 Wed 21:52]--[2013-07-24 Wed 23:04] =>  1:12
@@ -399,18 +401,19 @@
     :STYLE:    habit
     :REPEAT_TO_STATE: NEXT
     :ID:       d439600f-c40d-4dd3-82ca-3e7d9e35f2b3
-    :LAST_REPEAT: [2013-07-27 Sat 10:13]
+    :LAST_REPEAT: [2013-07-27 Sat 21:56]
     :END:
   
 *** NEXT Handstand practice
-    SCHEDULED: <2013-07-24 Wed .+1d/2d>
+    SCHEDULED: <2013-07-28 Sun .+1d/2d>
+    - State "DONE"       from "NEXT"       [2013-07-27 Sat 21:56]
     - State "DONE"       from "NEXT"       [2013-07-23 Tue 18:49]
     - State "DONE"       from "NEXT"       [2013-07-22 Mon 21:11]
     - State "DONE"       from "NEXT"       [2013-07-19 Fri 19:56]
     :PROPERTIES:
     :STYLE:    habit
     :REPEAT_TO_STATE: NEXT
-    :LAST_REPEAT: [2013-07-23 Tue 18:49]
+    :LAST_REPEAT: [2013-07-27 Sat 21:56]
     :ID:       f57232cd-a8f2-4a76-a507-4d69f765a521
     :END:
 ** Old Tracking
