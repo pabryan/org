@@ -1464,6 +1464,8 @@ Find a good postcast player for android. I want to be able to do offline listeni
   :END:
 [2013-04-07 Sun 15:33]
 This will be to use XBMC, the [[http://code.google.com/p/pms-xbmc/]] [[http://www.ps3mediaserver.org/about/][PS3 media server]] plugin and https://github.com/jnj/pms-scrobbler to access last.fm. I should be able to watch movies too? It would be nice to send the full screen output to the streaming server...
+**** Technology
+http://jorgenmodin.net/index_html/archive/2009/12/26/list-of-open-source-dlnaupnp-av-software-devices
 ** Games							      :GAMES:
 *** Get Playstation plus
     SCHEDULED: <2013-08-01 Thu>
