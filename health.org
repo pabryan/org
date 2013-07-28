@@ -8,7 +8,8 @@
 
 ** Tracking
 *** NEXT Exercise
-    SCHEDULED: <2013-07-28 Sun .+1d/2d>
+    SCHEDULED: <2013-07-29 Mon .+1d/2d>
+    - State "DONE"       from "NEXT"       [2013-07-28 Sun 13:09]
     - State "DONE"       from "NEXT"       [2013-07-27 Sat 15:42]
     - State "DONE"       from "NEXT"       [2013-07-26 Fri 12:55]
     - State "DONE"       from "NEXT"       [2013-07-25 Thu 15:07]
@@ -115,7 +116,7 @@
     :STYLE:    habit
     :REPEAT_TO_STATE: NEXT
     :ID:       8d56b2ef-1b49-4dc4-b701-1d021a293fa4
-    :LAST_REPEAT: [2013-07-27 Sat 15:42]
+    :LAST_REPEAT: [2013-07-28 Sun 13:09]
     :END:
     :LOGBOOK:
     CLOCK: [2013-07-27 Sat 13:05]--[2013-07-27 Sat 13:45] =>  0:40
@@ -134,7 +135,8 @@
     CLOCK: [2013-07-02 Tue 10:31]--[2013-07-02 Tue 11:25] =>  0:54
     :END:
 *** NEXT Morning Mobility
-    SCHEDULED: <2013-07-28 Sun .+1d/2d>
+    SCHEDULED: <2013-07-29 Mon .+1d/2d>
+    - State "DONE"       from "NEXT"       [2013-07-28 Sun 13:10]
     - State "DONE"       from "NEXT"       [2013-07-27 Sat 10:07]
     - State "DONE"       from "NEXT"       [2013-07-26 Fri 09:15]
     - State "DONE"       from "NEXT"       [2013-07-25 Thu 09:48]
@@ -205,7 +207,7 @@
     - State "DONE"       from "NEXT"       [2013-05-04 Sat 18:04]
     - State "DONE"       from "NEXT"       [2013-05-03 Fri 11:30]
     - State "DONE"       from "NEXT"       [2013-05-01 Wed 12:16]
-    - State "DONE"       from "SOMEDAY"    [2013-04-30 Tue 10:40]
+    - State "DONE"       from "NEXT"       [2013-04-30 Tue 10:40]
     - State "DONE"       from "NEXT"       [2013-04-28 Sun 15:13]
     - State "DONE"       from "NEXT"       [2013-04-24 Wed 20:17]
     - State "DONE"       from "NEXT"       [2013-04-23 Tue 15:54]
@@ -240,6 +242,7 @@
     - State "DONE"       from "NEXT"       [2013-03-11 Mon 21:23]
     - State "DONE"       from "NEXT"       [2013-03-10 Sun 11:10]
     :LOGBOOK:
+    CLOCK: [2013-07-28 Sun 12:00]--[2013-07-28 Sun 12:40] =>  0:40
     CLOCK: [2013-07-27 Sat 08:40]--[2013-07-27 Sat 09:00] =>  0:20
     CLOCK: [2013-07-26 Fri 08:48]--[2013-07-26 Fri 09:15] =>  0:27
     CLOCK: [2013-07-25 Thu 09:04]--[2013-07-25 Thu 09:48] =>  0:44
@@ -251,7 +254,7 @@
     :STYLE:    habit
     :REPEAT_TO_STATE: NEXT
     :ID:       0e75f56d-0356-4a0f-a376-080471ad4aad
-    :LAST_REPEAT: [2013-07-27 Sat 10:07]
+    :LAST_REPEAT: [2013-07-28 Sun 13:10]
     :END:
 
 *** NEXT Afternoon Relax
