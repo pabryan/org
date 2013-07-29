@@ -1231,6 +1231,7 @@ http://askubuntu.com/questions/198136/error-when-trying-to-connect-to-vpn-on-sta
   :END:
 ** Organisation
   :LOGBOOK:
+  CLOCK: [2013-07-29 Mon 10:54]
   CLOCK: [2013-07-29 Mon 09:31]--[2013-07-29 Mon 09:44] =>  0:13
   CLOCK: [2013-07-28 Sun 13:09]--[2013-07-28 Sun 13:15] =>  0:06
   CLOCK: [2013-07-28 Sun 12:50]--[2013-07-28 Sun 13:00] =>  0:10
@@ -2117,8 +2118,9 @@ For the following, do I just use the existing diary.org capture template or perh
 - [ ] Check agenda/focus
 - [ ] Write date into notebook
 
-** NEXT Weekly Review [2/13]
-   SCHEDULED: <2013-07-28 Sun +1w>
+** NEXT Weekly Review [0/13]
+   SCHEDULED: <2013-08-04 Sun +1w>
+   - State "DONE"       from "NEXT"       [2013-07-29 Mon 10:54]
    - State "DONE"       from "NEXT"       [2013-07-21 Sun 20:27]
    - State "DONE"       from "NEXT"       [2013-07-15 Mon 11:28]
    - State "DONE"       from "NEXT"       [2013-07-09 Tue 12:33]
@@ -2137,7 +2139,7 @@ For the following, do I just use the existing diary.org capture template or perh
    - State "DONE"       from "NEXT"       [2012-12-07 Fri 13:44]
    - State "DONE"       from "NEXT"       [2012-11-30 Fri 14:06]
    :LOGBOOK:
-   CLOCK: [2013-07-29 Mon 09:49]
+   CLOCK: [2013-07-29 Mon 09:49]--[2013-07-29 Mon 10:54] =>  1:05
    CLOCK: [2013-07-28 Sun 13:20]--[2013-07-28 Sun 13:40] =>  0:20
    CLOCK: [2013-07-21 Sun 19:46]--[2013-07-21 Sun 20:27] =>  0:41
    CLOCK: [2013-07-15 Mon 10:00]--[2013-07-15 Mon 11:28] =>  1:28
@@ -2178,13 +2180,13 @@ For the following, do I just use the existing diary.org capture template or perh
    :REPEAT_TO_STATE: NEXT
    :ID:       846c05fa-21d7-4e6f-8431-a1fa06631945
    :RESET_CHECK_BOXES: t
-   :LAST_REPEAT: [2013-07-21 Sun 20:27]
+   :LAST_REPEAT: [2013-07-29 Mon 10:54]
    :END:
 
 What to review:
 
-- [X] Check follow-up paper folder
-- [X] Check holding directory
+- [ ] Check follow-up paper folder
+- [ ] Check holding directory
   [[file:~/holding]]
 - [ ] Check holding email folder
 - [ ] Review weekly agenda =F12 a w//=
