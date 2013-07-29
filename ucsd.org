@@ -3820,13 +3820,14 @@ APM B412
 	:ID:       dedd72c3-ea71-4d99-ba1a-55a342d92d63
 	:END:
 ******* Mon
-******** NEXT Prepare Lecture 1.1
+******** DONE Prepare Lecture 1.1
 	 DEADLINE: <2013-08-05 Mon>
+	 - State "DONE"       from "NEXT"       [2013-07-29 Mon 13:20]
 	 :PROPERTIES:
 	 :ID:       9e8fc8c7-6e00-4d0a-a918-3911e5a26a32
 	 :END:
 	:LOGBOOK:
-	CLOCK: [2013-07-29 Mon 12:28]
+	CLOCK: [2013-07-29 Mon 12:28]--[2013-07-29 Mon 13:20] =>  0:52
 	CLOCK: [2013-07-23 Tue 09:34]--[2013-07-23 Tue 11:10] =>  1:36
 	:END:
 ******** TODO Prepare Lecture 2.1
@@ -3850,8 +3851,11 @@ APM B412
 	 :ID:       d3fa0895-986b-48a9-b0b9-c1573fad5535
 	 :END:
 ******* Wed
-******** TODO Prepare Lecture 1.2
+******** NEXT Prepare Lecture 1.2
 	 DEADLINE: <2013-08-07 Wed>
+	 :LOGBOOK:
+	 CLOCK: [2013-07-29 Mon 13:20]
+	 :END:
 	 :PROPERTIES:
 	 :ID:       dd07557e-cb22-4cc9-a14a-0564bd34b377
 	 :END:
