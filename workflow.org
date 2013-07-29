@@ -827,7 +827,8 @@ Levenger?
   :END:
 ** Tasks
 *** TODO Investigate Buffer
-    DEADLINE: <2013-07-27 Sat>
+    SCHEDULED: <2013-08-05 Mon> DEADLINE: <2013-08-18 Sun>
+
   :LOGBOOK:
   :END:
   :PROPERTIES:
@@ -835,7 +836,7 @@ Levenger?
   :END:
 [2013-07-16 Tue 20:08]
 *** TODO Work out Google+
-  DEADLINE: <2013-07-27 Sat>
+    SCHEDULED: <2013-08-05 Mon> DEADLINE: <2013-08-18 Sun>
   :LOGBOOK:
   :END:
   :PROPERTIES:
@@ -1230,6 +1231,7 @@ http://askubuntu.com/questions/198136/error-when-trying-to-connect-to-vpn-on-sta
   :END:
 ** Organisation
   :LOGBOOK:
+  CLOCK: [2013-07-29 Mon 09:31]--[2013-07-29 Mon 09:44] =>  0:13
   CLOCK: [2013-07-28 Sun 13:09]--[2013-07-28 Sun 13:15] =>  0:06
   CLOCK: [2013-07-28 Sun 12:50]--[2013-07-28 Sun 13:00] =>  0:10
   CLOCK: [2013-07-27 Sat 10:07]--[2013-07-27 Sat 10:10] =>  0:03
@@ -2044,6 +2046,7 @@ For the following, do I just use the existing diary.org capture template or perh
    - State "DONE"       from "NEXT"       [2013-01-10 Thu 09:22]
    - State "DONE"       from "NEXT"       [2013-01-09 Wed 07:19]
    :LOGBOOK:
+   CLOCK: [2013-07-29 Mon 09:44]
    CLOCK: [2013-07-28 Sun 13:00]--[2013-07-28 Sun 13:09] =>  0:09
    CLOCK: [2013-07-27 Sat 09:58]--[2013-07-27 Sat 10:07] =>  0:09
    CLOCK: [2013-07-25 Thu 08:59]--[2013-07-25 Thu 09:03] =>  0:04
