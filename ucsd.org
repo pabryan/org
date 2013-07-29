@@ -3675,6 +3675,12 @@ Lectures in calendar and tasks like planning lectures.
 	:LOGBOOK:
 	CLOCK: [2013-07-25 Thu 17:49]--[2013-07-25 Thu 18:00] =>  0:11
 	:END:
+******* TODO Upload homework
+******** NEXT Upload Homework 1
+******** TODO Upload Homework 2
+******** TODO Upload Homework 3
+******** TODO Upload Homework 4
+******** TODO Upload Homework 5
 ***** Clocking
 ****** Admin
 ****** Office hours
@@ -3920,6 +3926,12 @@ APM B412
 	:LOGBOOK:
 	CLOCK: [2013-07-25 Thu 17:26]--[2013-07-25 Thu 17:49] =>  0:23
 	:END:
+******* TODO Upload Homework
+******** NEXT Upload Homework 1
+******** TODO Upload Homework 2
+******** TODO Upload Homework 3
+******** TODO Upload Homework 4
+******** TODO Upload Homework 5
 ****** DONE Plan course
        - State "DONE"       from "TODO"       [2013-07-22 Mon 21:24]
 
