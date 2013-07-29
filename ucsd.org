@@ -3851,10 +3851,11 @@ APM B412
 	 :ID:       d3fa0895-986b-48a9-b0b9-c1573fad5535
 	 :END:
 ******* Wed
-******** NEXT Prepare Lecture 1.2
+******** DONE Prepare Lecture 1.2
 	 DEADLINE: <2013-08-07 Wed>
+	 - State "DONE"       from "NEXT"       [2013-07-29 Mon 14:38]
 	 :LOGBOOK:
-	 CLOCK: [2013-07-29 Mon 13:20]
+	 CLOCK: [2013-07-29 Mon 13:20]--[2013-07-29 Mon 14:38] =>  1:18
 	 :END:
 	 :PROPERTIES:
 	 :ID:       dd07557e-cb22-4cc9-a14a-0564bd34b377
