@@ -3772,6 +3772,9 @@ APM B412
        :END:
 ******* NEXT Write Homework 1
 	 DEADLINE: <2013-08-09 Fri>
+	 :LOGBOOK:
+	 CLOCK: [2013-07-29 Mon 20:23]
+	 :END:
 	:PROPERTIES:
 	:ID:       39e745f4-6e97-4c29-b26a-2c50281ceece
 	:END:
