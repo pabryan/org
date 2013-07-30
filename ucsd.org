@@ -3767,13 +3767,16 @@ APM B412
 	:ID:       00f1f929-ab78-4aca-b232-a59a0455104c
 	:END:
 ****** TODO Homework
+       :LOGBOOK:
+       :END:
        :PROPERTIES:
        :ID:       da4b56d1-423c-4f4c-ab2b-0c5b0c5f018c
        :END:
-******* NEXT Write Homework 1
+******* DONE Write Homework 1
 	 DEADLINE: <2013-08-09 Fri>
+	 - State "DONE"       from "NEXT"       [2013-07-29 Mon 20:58]
 	 :LOGBOOK:
-	 CLOCK: [2013-07-29 Mon 20:23]
+	 CLOCK: [2013-07-29 Mon 20:23]--[2013-07-29 Mon 20:58] =>  0:35
 	 :END:
 	:PROPERTIES:
 	:ID:       39e745f4-6e97-4c29-b26a-2c50281ceece
