@@ -3571,6 +3571,9 @@ Lectures in calendar and tasks like planning lectures.
 ******* Mon
 ******** NEXT Prepare Lecture 1.1
 	 DEADLINE: <2013-08-05 Mon>
+	 :LOGBOOK:
+	 CLOCK: [2013-07-30 Tue 10:02]
+	 :END:
 	 :PROPERTIES:
 	 :ID:       7ed59512-2771-46fa-8fa3-a18eed74d054
 	 :END:
