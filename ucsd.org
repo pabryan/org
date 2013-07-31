@@ -3969,18 +3969,17 @@ APM B412
 	CLOCK: [2013-07-25 Thu 17:26]--[2013-07-25 Thu 17:49] =>  0:23
 	:END:
 ******* TODO Upload Homework
-	:LOGBOOK:
-	:END:
 ******** DONE Upload Homework 1
 	 DEADLINE: <2013-08-02 Fri>
 	 - State "DONE"       from "NEXT"       [2013-07-31 Wed 14:42]
 	 :LOGBOOK:
 	 CLOCK: [2013-07-31 Wed 14:41]--[2013-07-31 Wed 14:42] =>  0:01
 	 :END:
-******** NEXT Upload Homework 2
+******** DONE Upload Homework 2
 	 DEADLINE: <2013-08-09 Fri>
+	 - State "DONE"       from "NEXT"       [2013-07-31 Wed 15:04]
 	 :LOGBOOK:
-	 CLOCK: [2013-07-31 Wed 14:42]
+	 CLOCK: [2013-07-31 Wed 14:42]--[2013-07-31 Wed 15:04] =>  0:22
 	 :END:
 ******** TODO Upload Homework 3
 	 DEADLINE: <2013-08-16 Fri>
