@@ -3575,7 +3575,7 @@ Lectures in calendar and tasks like planning lectures.
 	:PROPERTIES:
 	:ID:       3f43e248-4be9-4244-98d6-d365cea7551c
 	:END:
-******* Mon
+******* TODO Prepare Lectures
 ******** DONE Prepare Lecture 1.1
 	 DEADLINE: <2013-08-05 Mon>
 	 - State "DONE"       from "NEXT"       [2013-07-30 Tue 11:42]
@@ -3586,29 +3586,6 @@ Lectures in calendar and tasks like planning lectures.
 	 :PROPERTIES:
 	 :ID:       7ed59512-2771-46fa-8fa3-a18eed74d054
 	 :END:
-******** TODO Prepare Lecture 2.1
-	 DEADLINE: <2013-08-12 Mon>
-	 :PROPERTIES:
-	 :ID:       961c7614-0741-444e-91dd-08150f4fa880
-	 :END:
-:ID:       8bc63431-9479-4f11-9b43-93bfa9f0d90a
-	 :END:.
-******** TODO Prepare Lecture 3.1
-	 DEADLINE: <2013-08-19 Mon>
-	 :PROPERTIES:
-	 :ID:       70181f5e-4238-42c4-b5a2-5edb0bb169af
-	 :END:
-******** TODO Prepare Lecture 4.1
-	 DEADLINE: <2013-08-26 Mon>
-	 :PROPERTIES:
-	 :ID:       b8299f3a-45ef-4480-9e3e-e48a14cb4b9f
-	 :END:
-******** TODO Prepare Lecture 5.1
-	 DEADLINE: <2013-09-02 Mon>
-	 :PROPERTIES:
-	 :ID:       b83f4190-6fd4-47a6-b848-d189c8fdadc5
-	 :END:
-******* Wed
 ******** DONE Prepare Lecture 1.2
 	 DEADLINE: <2013-08-07 Wed>
 	 - State "DONE"       from "NEXT"       [2013-07-30 Tue 19:09]
@@ -3619,27 +3596,6 @@ Lectures in calendar and tasks like planning lectures.
 	 :PROPERTIES:
 	 :ID:       843fae62-df3f-450b-b50c-75a2ae6758cb
 	 :END:
-******** TODO Prepare Lecture 2.2
-	 DEADLINE: <2013-08-14 Wed>
-	 :PROPERTIES:
-	 :ID:       f10a16d2-4311-4599-ba96-8cff1a8444f5
-	 :END:
-******** TODO Prepare Lecture 3.2
-	 DEADLINE: <2013-08-21 Wed>
-	 :PROPERTIES:
-	 :ID:       8998c891-dfcd-424b-8b22-1564a96717be
-	 :END:
-******** TODO Prepare Lecture 4.2
-	 DEADLINE: <2013-08-28 Wed>
-	 :PROPERTIES:
-	 :ID:       ec0fdeca-e072-48ef-bf5f-db79497f039b
-	 :END:
-******** TODO Prepare Lecture 5.2
-	 DEADLINE: <2013-09-04 Wed>
-	 :PROPERTIES:
-	 :ID:       3f9b8cb4-5f36-4868-b976-39f9a12461b5
-	 :END:
-******* Fri
 ******** DONE Prepare Lecture 1.3
 	 DEADLINE: <2013-08-09 Fri>
 	 - State "DONE"       from "NEXT"       [2013-07-31 Wed 14:25]
@@ -3650,25 +3606,65 @@ Lectures in calendar and tasks like planning lectures.
 	 :PROPERTIES:
 	 :ID:       c49f4147-3c7b-43e1-bb44-bea9759b2ad0
 	 :END:
+******** NEXT Prepare Lecture 2.1
+	 DEADLINE: <2013-08-12 Mon>
+	 :PROPERTIES:
+	 :ID:       b3e4a37b-8a75-4328-8e1c-3db9435b08b2
+	 :END:
+******** TODO Prepare Lecture 2.2
+	 DEADLINE: <2013-08-14 Wed>
+	 :PROPERTIES:
+	 :ID:       f48f6445-5469-4610-9039-e614ee250409
+	 :END:
 ******** TODO Prepare Lecture 2.3
 	 DEADLINE: <2013-08-16 Fri>
 	 :PROPERTIES:
-	 :ID:       56d5fcde-3e4e-489f-b242-e45ebe76116c
+	 :ID:       0e994367-dde1-485f-99f8-22354d0bc798
+	 :END:
+******** TODO Prepare Lecture 3.1
+	 DEADLINE: <2013-08-19 Mon>
+	 :PROPERTIES:
+	 :ID:       812e161f-5ad0-458b-94bf-96e7edba766c
+	 :END:
+******** TODO Prepare Lecture 3.2
+	 DEADLINE: <2013-08-21 Wed>
+	 :PROPERTIES:
+	 :ID:       a507da07-5f46-42e5-8369-ec24d7762954
 	 :END:
 ******** TODO Prepare Lecture 3.3
 	 DEADLINE: <2013-08-23 Fri>
 	 :PROPERTIES:
-	 :ID:       b40ebd7b-2c7d-4194-9d10-6327285a2075
+	 :ID:       1d996ef8-d36f-4fab-b8c7-785f7f3606da
+	 :END:
+******** TODO Prepare Lecture 4.1
+	 DEADLINE: <2013-08-26 Mon>
+	 :PROPERTIES:
+	 :ID:       ed05e7e6-0bc2-4e2e-a460-c061f8185aa1
+	 :END:
+******** TODO Prepare Lecture 4.2
+	 DEADLINE: <2013-08-28 Wed>
+	 :PROPERTIES:
+	 :ID:       8988d29d-771d-4b2d-a666-59d31688d74b
 	 :END:
 ******** TODO Prepare Lecture 4.3
 	 DEADLINE: <2013-08-30 Fri>
 	 :PROPERTIES:
-	 :ID:       3ce908e9-1034-4195-bce6-55a9cb84b593
+	 :ID:       a22ea3f7-72aa-4951-a3b7-ff8fdb3f686c
+	 :END:
+******** TODO Prepare Lecture 5.1
+	 DEADLINE: <2013-09-02 Mon>
+	 :PROPERTIES:
+	 :ID:       d3fa0895-986b-48a9-b0b9-c1573fad5535
+	 :END:
+******** TODO Prepare Lecture 5.2
+	 DEADLINE: <2013-09-04 Wed>
+	 :PROPERTIES:
+	 :ID:       a932d487-a0ee-4b73-a217-89c15eda214f
 	 :END:
 ******** TODO Prepare Lecture 5.3
 	 DEADLINE: <2013-09-06 Fri>
 	 :PROPERTIES:
-	 :ID:       b654dc03-1a81-45e3-8b71-3bd2d51493e1
+	 :ID:       c8b03ed1-4f6e-4c98-a0cd-08c6972691c3
 	 :END:
 
 ****** TODO Website
