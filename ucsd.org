@@ -3505,12 +3505,16 @@ Center 119
 Lectures in calendar and tasks like planning lectures.
 
 ****** TODO Exams
+       :LOGBOOK:
+       CLOCK: [2013-07-31 Wed 15:40]--[2013-07-31 Wed 15:41] =>  0:01
+       :END:
        :PROPERTIES:
        :ID:       c7681154-0a25-4143-9e3a-9c5e3871c3ef
        :END:
 ******* NEXT Create Exam Schedule
-	:LOGBOOK:
-	CLOCK: [2013-07-31 Wed 15:30]
+        :LOGBOOK:
+	CLOCK: [2013-07-31 Wed 15:47]
+	CLOCK: [2013-07-31 Wed 15:30]--[2013-07-31 Wed 15:40] =>  0:10
 	:END:
 	:PROPERTIES:
 	:ID:       4a202266-f308-4102-925f-4ec6ca3b5b36
@@ -3521,8 +3525,9 @@ Lectures in calendar and tasks like planning lectures.
 	:ID:       ed16bfa1-ecf2-435f-9bb7-d1857c9075d3
 	:END:
 ******* TODO Write Midterm 2
-	 DEADLINE: <2013-08-21 Wed>
+	 DEADLINE: <2013-08-20 Tue>
 ******* TODO Write Final
+	 DEADLINE: <2013-09-03 Tue>
 	:PROPERTIES:
 	:ID:       a1399eac-2d2f-4930-a81d-375cd1841cb8
 	:END:
@@ -3763,7 +3768,7 @@ APM B412
 ****** Midterm 2
        SCHEDULED: <2013-08-26 Mon>
 ****** Final
-       DEADLINE: <2013-09-03 Tue> SCHEDULED: <2013-09-07 Sat>
+       SCHEDULED: <2013-09-07 Sat>
 ***** Homework
 ****** Homework 1
        DEADLINE: <2013-08-09 Fri>
@@ -3791,18 +3796,26 @@ APM B412
 ***** Notes
 ***** Tasks
 ****** TODO Exams
+       :LOGBOOK:
+       :END:
        :PROPERTIES:
        :ID:       c7681154-0a25-4143-9e3a-9c5e3871c3ef
        :END:
-******* NEXT Create Exam Schedule
+******* DONE Create Exam Schedule
+	- State "DONE"       from "NEXT"       [2013-07-31 Wed 15:47]
+	:LOGBOOK:
+	CLOCK: [2013-07-31 Wed 15:41]--[2013-07-31 Wed 15:47] =>  0:06
+	:END:
 	:PROPERTIES:
 	:ID:       0493a4be-8006-4cf9-a4b7-c05605a68965
 	:END:
 ******* NEXT Write Midterm 1
+	 DEADLINE: <2013-08-20 Tue>
 	:PROPERTIES:
 	:ID:       622624aa-7955-40f9-b012-04c8a871683f
 	:END:
 ******* TODO Write Final
+	 DEADLINE: <2013-09-03 Tue>
 	:PROPERTIES:
 	:ID:       00f1f929-ab78-4aca-b232-a59a0455104c
 	:END:
@@ -4057,7 +4070,15 @@ WLH 2113
 <2013-09-06 Fri>
 ***** Exams
 ****** Midterm
+       SCHEDULED: <2013-08-23 Fri 10:00-11:50>
+       :PROPERTIES:
+       :location: CSB 001
+       :END:
 ****** Final
+       SCHEDULED: <2013-09-07 Sat 11:30-14:30>
+       :PROPERTIES:
+       :location: HSS 1330
+       :END:
 ***** Homework
 ****** Homework 1
        DEADLINE: <2013-08-09 Fri>
