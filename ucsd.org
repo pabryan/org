@@ -42,7 +42,8 @@
      :ID:       38da306c-0984-4b99-ba62-06fd55da92b7
      :END:
 - org-mode defines it's own classes. need styles for them.
-**** NEXT Fix up site base url
+**** DONE Fix up site base url
+     - State "DONE"       from "NEXT"       [2013-07-31 Wed 16:42]
      :PROPERTIES:
      :ID:       af1fdfa5-7793-4da0-8f71-f4761c35bef8
      :END:
@@ -91,7 +92,9 @@ http://jekyllbootstrap.com
 https://github.com/necolas/normalize.css
 https://github.com/cobyism/gridism
 http://modernizr.com/
-**** NEXT Make some discrete, cute HTML5 animations
+**** CANCELLED Make some discrete, cute HTML5 animations
+     - State "CANCELLED"  from "NEXT"       [2013-07-31 Wed 16:43] \\
+       This was really just because I thought HTML5 animations are cool.
      :PROPERTIES:
      :ID:       8f8a977b-ac74-4b40-94e8-56c81ea5f60f
      :END:
@@ -108,7 +111,10 @@ http://modernizr.com/
   :END:
 [2013-07-25 Thu 19:07]
 - I'll want to load up the ucsdwebsite, courses I teach and current projects publishing elisp
-**** TODO Investigate Rake
+**** NEXT Investigate Rake
+     :LOGBOOK:
+     CLOCK: [2013-07-31 Wed 16:43]
+     :END:
 - Is this useful to me?
 *** DONE Transfer to org mode
     - State "DONE"       from "NEXT"       [2013-07-24 Wed 11:53]
