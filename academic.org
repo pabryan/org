@@ -943,9 +943,16 @@ Can we deduce long-time behaviour from the support function?
 - Is it true that $\exp_O (s(x)\nor(x) + T(x)) = x$ with $T(x) = \grad s$ tangent? No. This is the Wulf shape and is only the original hypersurface when $s$ is defined using the position vector field.
 
 ****** TODO Dual Body
+       :LOGBOOK:
+       :END:
        :PROPERTIES:
        :ID:       227e228f-6d25-4344-9642-0cd92447202f
        :END:
+******* NEXT Define the support function/hyperplanes etc.
+	:LOGBOOK:
+	CLOCK: [2013-07-29 Mon 21:30]--[2013-07-29 Mon 22:15] =>  0:45
+	:END:
+
 ******* NEXT Define the radial function
 	:PROPERTIES:
 	:ID:       3c42e645-aa5e-4e45-8330-642eff10602c
