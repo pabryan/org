@@ -14,3 +14,18 @@
 - oldpaul
 - Pictures (link to Camera Uploads?)
 - uni 
+* TODO Rake build system
+  :LOGBOOK:
+  :END:
+[2013-07-31 Wed 15:17]
+
+* TODO org snippets
+  :LOGBOOK:
+  CLOCK: [2013-07-31 Wed 15:17]--[2013-07-31 Wed 15:18] =>  0:01
+  :END:
+[2013-07-31 Wed 15:17]
+Should be able to insert lecture planning/homework etc with a yassnippet?
+* TODO Set up TODO dependencies
+  :LOGBOOK:
+  :END:
+[2013-07-31 Wed 15:18]
