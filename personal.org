@@ -129,7 +129,8 @@ END:
    
 ** Bills 
 *** TODO Pay rent
-    SCHEDULED: <2013-08-01 Thu +1m>
+    SCHEDULED: <2013-09-01 Sun +1m>
+    - State "DONE"       from "TODO"       [2013-08-01 Thu 11:12]
     - State "DONE"       from "TODO"       [2013-07-02 Tue 09:35]
    - State "DONE"       from "TODO"       [2013-06-05 Wed 16:30]
    - State "DONE"       from "TODO"       [2013-05-02 Thu 11:54]
@@ -142,11 +143,11 @@ END:
    :LOGBOOK:
    CLOCK: [2013-02-01 Fri 14:42]--[2013-02-01 Fri 14:57] =>  0:15
    :END:
-   DEADLINE: <2013-08-05 Mon +1m>
+   DEADLINE: <2013-09-05 Thu +1m>
 
    :PROPERTIES:
    :ID:       ea07bf7b-9f89-49bf-90db-3e167baff163
-   :LAST_REPEAT: [2013-07-02 Tue 09:35]
+   :LAST_REPEAT: [2013-08-01 Thu 11:12]
    :END:
    [2012-10-17 Wed 14:44]
 
@@ -154,13 +155,14 @@ Use account A11078844
 [[https://act.ucsd.edu/studentBilling/billing]]
 
 *** TODO Pay ATT
-    SCHEDULED: <2013-08-01 Thu +1m> 
+    SCHEDULED: <2013-09-01 Sun +1m> 
+    - State "DONE"       from "TODO"       [2013-08-01 Thu 11:18]
    - State "DONE"       from "TODO"       [2013-07-01 Mon 09:39]
    - State "DONE"       from "TODO"       [2013-06-02 Sun 11:23]
    - State "DONE"       from "TODO"       [2013-05-02 Thu 11:54]
    - State "DONE"       from "TODO"       [2013-04-02 Tue 21:33]
    :PROPERTIES:
-   :LAST_REPEAT: [2013-07-01 Mon 09:39]
+   :LAST_REPEAT: [2013-08-01 Thu 11:18]
    :ID:       137987c4-8151-42f0-bfad-b1e06d2cd512
    :END:
 [[http://www.att.com/]]
@@ -1334,8 +1336,9 @@ http://sandiegosr.evanced.info/homepage.asp?ProgramID=22
      :PROPERTIES:
      :ID:       6754f66b-3de1-4702-baef-f30a806bcfe7
      :END:
-**** TODO Return Books (5/8/13)
+**** DONE Return Books (5/8/13)
      DEADLINE: <2013-08-05 Mon>
+     - State "DONE"       from "TODO"       [2013-08-01 Thu 11:31]
      :PROPERTIES:
      :ID:       7f9457f7-d054-4b0a-86a7-84fa31f2d47b
      :END:
@@ -1345,6 +1348,9 @@ http://sandiegosr.evanced.info/homepage.asp?ProgramID=22
      :PROPERTIES:
      :ID:       c6ec77ac-055f-4b75-ad0b-6bcef8844c57
      :END:
+**** TODO Return Books
+     DEADLINE: <2013-08-20 Tue>
+
 * Car 									:CAR:
   :PROPERTIES:
   :ID:       2f359985-69e8-41ba-853e-34ec8ce703c3
