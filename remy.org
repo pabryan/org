@@ -232,13 +232,14 @@ Pass: 67dogs43
 
 01336030636531
 *** Return Books						     :RETURN:
-**** Return Books 5/8/13
+**** DONE Return Books 5/8/13
      DEADLINE: <2013-08-05 Mon>
+     - State "DONE"       from ""           [2013-08-01 Thu 12:16]
      :PROPERTIES:
      :ID:       072641b3-997d-4a6e-8444-44d01e3745b3
      :END:
 
-**** Return Books 
+**** TODO Return Books 
      DEADLINE: <2013-08-20 Tue>
 
 * Health
