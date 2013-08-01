@@ -18,6 +18,9 @@
 ** Tasks
 [[file:~/working/ucsd/ucsdwebsite]]
 *** TODO Website authoring
+    :LOGBOOK:
+    CLOCK: [2013-07-31 Wed 17:36]--[2013-07-31 Wed 17:37] =>  0:01
+    :END:
    :PROPERTIES:
    :ID:       95bed625-9178-4c2e-977b-ca4098a5ae3a
    :END:
@@ -111,9 +114,10 @@ http://modernizr.com/
   :END:
 [2013-07-25 Thu 19:07]
 - I'll want to load up the ucsdwebsite, courses I teach and current projects publishing elisp
-**** NEXT Investigate Rake
+**** DONE Investigate Rake
+     - State "DONE"       from "NEXT"       [2013-07-31 Wed 17:36]
      :LOGBOOK:
-     CLOCK: [2013-07-31 Wed 16:43]
+     CLOCK: [2013-07-31 Wed 16:43]--[2013-07-31 Wed 17:36] =>  0:53
      :END:
 - Is this useful to me?
 *** DONE Transfer to org mode
