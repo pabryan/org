@@ -1510,8 +1510,10 @@ Delta 4502 From LA.
     :END:
 
 ** Mum
-*** TODO Set mum up on Google+
-    DEADLINE: <2013-07-29 Mon>
+*** HOLD Set mum up on Google+
+    SCHEDULED: <2013-08-25 Sun> DEADLINE: <2013-08-31 Sat>
+    - State "HOLD"       from "TODO"       [2013-07-31 Wed 22:12] \\
+      Wait for Tom to set mum up. He might give here a google account for android.
   :LOGBOOK:
   :END:
   :PROPERTIES:
