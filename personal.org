@@ -154,7 +154,7 @@ Use account A11078844
 [[https://act.ucsd.edu/studentBilling/billing]]
 
 *** TODO Pay ATT
-   DEADLINE: <2013-08-04 Sun +1m -5d>
+    SCHEDULED: <2013-08-01 Thu +1m> 
    - State "DONE"       from "TODO"       [2013-07-01 Mon 09:39]
    - State "DONE"       from "TODO"       [2013-06-02 Sun 11:23]
    - State "DONE"       from "TODO"       [2013-05-02 Thu 11:54]
@@ -1324,7 +1324,7 @@ I should also organise books that I've read/want in some sort of org structure w
      :ID:       ab8707f0-a7b7-46c0-95f5-323c80747707
      :END:
 
-*** Summer 2013
+*** Summer Reading 2013
     DEADLINE: <2013-08-15 Thu>
 http://sandiegosr.evanced.info/homepage.asp?ProgramID=22
 *** Return Books
@@ -1420,10 +1420,13 @@ Catch the 41. Get off at Derrik Dr. after Claremont Mesa and before Balboa.
   :PROPERTIES:
   :ID:       8196c72a-efbd-40c6-bccc-dc283519a64a
   :END:
-** Shows to watch						      :SHOWS:
+** Shows 							      :SHOWS:
    :PROPERTIES:
    :ID:       c8918022-6e08-47bf-83ce-a79c1a86f43f
    :END:
+*** Tasks
+**** TODO Get Raspberry Pi
+     SCHEDULED: <2013-09-01 Sun>
 ** Podcasts							   :PODCASTS:
    :PROPERTIES:
    :ID:       dbc15a6d-b5a8-49eb-b640-09a989a68962
@@ -1470,7 +1473,7 @@ Find a good postcast player for android. I want to be able to do offline listeni
 http://jorgenmodin.net/index_html/archive/2009/12/26/list-of-open-source-dlnaupnp-av-software-devices
 ** Games							      :GAMES:
 *** Get Playstation plus
-    SCHEDULED: <2013-08-01 Thu>
+    SCHEDULED: <2013-09-01 Sun>
 *** DND
 https://www.wizards.com/dnd/dndnext.aspx
 * Home organisation
@@ -1746,4 +1749,4 @@ Code: SHARE10
   :ID:       dc3810ba-5ac7-4651-92e0-0be8299a88e4
   :END:
 ** Buy google credit
-   SCHEDULED: <2013-08-01 Thu>
+   SCHEDULED: <2013-09-01 Sun>
