@@ -3500,6 +3500,10 @@ Center 119
       :END:
 [[file:~/working/ucsd/teaching/math142b_summer2_2013]]
 ***** Notes
+****** Midterm 1
+******* Evaluate $\int_0^1 x^{-1/2} dx$. 
+- Method 1: Do it via limits.
+- Method 2: Show that $M_i \Delta x_i$ is bounded and goes to zero as $\Delta x_i \to 0$. This should allow us to apply Archimedes Riemann and even evaluate the integral. I suppose we need $\sup f(x) \Delta x_i$ bounded.
 ***** Tasks
 ****** DONE Plan course
        - State "DONE"       from "TODO"       [2013-07-22 Mon 21:24]

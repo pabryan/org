@@ -5,7 +5,9 @@
   :PROPERTIES:
   :ID:       bd07a010-3867-4ef8-a9e6-1168c2cf5dfd
   :END:
-** DONE Make Doctor's Appointment for Kate
+** KP
+*** Tasks
+**** DONE Make Doctor's Appointment for Kate
    DEADLINE: <2013-02-04 Mon> SCHEDULED: <2013-02-01 Fri>
    - State "DONE"       from "TODO"       [2013-02-01 Fri 14:41]
   :LOGBOOK:
@@ -15,12 +17,19 @@
   :END:
 [2013-02-01 Fri 11:46]
 
-** OB Appointment
+*** Appointments
+**** OB Appointment
    :PROPERTIES:
    :ID:       b641d4d2-f88a-41eb-877c-c5b2a8a0c936
    :END:
 <2013-03-04 Mon 16:10>
 
+**** OB Appointment
+     SCHEDULED: <2013-08-22 Thu 16:10>
+[[gmap:vandever%20medical%20offices][gmap:vandever medical offices]]
+Rosalind Anne Hirst
+2nd floor
+4405 Vandever Ave, 92120
 * Tasks
   :PROPERTIES:
   :ID:       4977ef07-4d81-4831-b747-2c74b409015c
