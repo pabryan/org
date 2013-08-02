@@ -1249,6 +1249,8 @@ http://askubuntu.com/questions/198136/error-when-trying-to-connect-to-vpn-on-sta
   :END:
 ** Organisation
   :LOGBOOK:
+  CLOCK: [2013-08-02 Fri 09:28]
+  CLOCK: [2013-08-02 Fri 09:17]--[2013-08-02 Fri 09:25] =>  0:08
   CLOCK: [2013-08-01 Thu 19:49]--[2013-08-01 Thu 19:51] =>  0:02
   CLOCK: [2013-08-01 Thu 11:07]--[2013-08-01 Thu 12:16] =>  1:09
   CLOCK: [2013-07-31 Wed 22:11]--[2013-07-31 Wed 22:13] =>  0:02
@@ -1986,7 +1988,7 @@ For the following, do I just use the existing diary.org capture template or perh
 - [ ] Write down any thoughts, relections on the day.
 
 ** NEXT Daily Plan [0/2]
-   SCHEDULED: <2013-08-02 Fri .+1d/2d>
+   SCHEDULED: <2013-08-03 Sat .+1d/2d>
    - State "DONE"       from "NEXT"       [2013-08-01 Thu 11:07]
    - State "DONE"       from "NEXT"       [2013-07-31 Wed 16:36]
    - State "DONE"       from "NEXT"       [2013-07-30 Tue 10:00]
@@ -2097,6 +2099,8 @@ For the following, do I just use the existing diary.org capture template or perh
    - State "DONE"       from "NEXT"       [2013-01-10 Thu 09:22]
    - State "DONE"       from "NEXT"       [2013-01-09 Wed 07:19]
    :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2013-08-02 Fri 09:28]
+   CLOCK: [2013-08-02 Fri 09:25]--[2013-08-02 Fri 09:28] =>  0:03
    CLOCK: [2013-08-01 Thu 11:00]--[2013-08-01 Thu 11:07] =>  0:07
    CLOCK: [2013-07-30 Tue 09:56]--[2013-07-30 Tue 10:00] =>  0:04
    CLOCK: [2013-07-29 Mon 09:44]--[2013-07-29 Mon 09:49] =>  0:05
@@ -2163,7 +2167,7 @@ For the following, do I just use the existing diary.org capture template or perh
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
    :ID:       ef051ee0-1113-4604-b355-450a5a47848b
-   :LAST_REPEAT: [2013-08-01 Thu 11:07]
+   :LAST_REPEAT: [2013-08-02 Fri 09:28]
    :END:
 
 - [ ] Check agenda/focus

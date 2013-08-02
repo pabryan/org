@@ -193,19 +193,23 @@ I want to find things for Remy to do at home that keep his interest in the world
      :END:
 
 **** NEXT Find and send immunisation record
-     DEADLINE: <2013-07-20 Sat> SCHEDULED: <2013-07-17 Wed>
+     DEADLINE: <2013-08-28 Wed>
      :PROPERTIES:
      :ID:       e0c3b00a-52ba-472b-a31d-06068a3a811d
      :END:
-**** TODO Register Remy
+**** DONE Register Remy
      DEADLINE: <2013-08-07 Wed>
+     :LOGBOOK:
+     - State "DONE"       from "TODO"       [2013-08-02 Fri 09:26]
+     :END:
      :PROPERTIES:
      :ID:       b6ff5721-6d79-40e4-aa26-fe8377ba9f21
      :END:
 https://secure.k12online.us/schoolportal/index.php?sname=innovations-academy-charter-school
 User: Bryan
 Pass: 67dogs43
-- Need to sign forms.
+**** NEXT Sign registration forms.
+     DEADLINE: <2013-08-28 Wed>
 *** IA Home Learning
 **** DONE Go to IA Home learning
     - State "DONE"       from "TODO"       [2013-07-10 Wed 14:29]

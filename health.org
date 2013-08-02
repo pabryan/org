@@ -143,7 +143,7 @@
     CLOCK: [2013-07-02 Tue 10:31]--[2013-07-02 Tue 11:25] =>  0:54
     :END:
 *** NEXT Morning Mobility
-    SCHEDULED: <2013-08-02 Fri .+1d/2d>
+    SCHEDULED: <2013-08-03 Sat .+1d/2d>
     - State "DONE"       from "NEXT"       [2013-08-01 Thu 09:28]
     - State "DONE"       from "NEXT"       [2013-07-31 Wed 13:55]
     - State "DONE"       from "NEXT"       [2013-07-30 Tue 09:54]
@@ -254,6 +254,8 @@
     - State "DONE"       from "NEXT"       [2013-03-11 Mon 21:23]
     - State "DONE"       from "NEXT"       [2013-03-10 Sun 11:10]
     :LOGBOOK:
+    - State "DONE"       from "NEXT"       [2013-08-02 Fri 09:23]
+    CLOCK: [2013-08-02 Fri 08:05]--[2013-08-02 Fri 08:40] =>  0:35
     CLOCK: [2013-08-01 Thu 08:44]--[2013-08-01 Thu 09:28] =>  0:44
     CLOCK: [2013-07-31 Wed 08:30]--[2013-07-31 Wed 09:00] =>  0:30
     CLOCK: [2013-07-30 Tue 08:30]--[2013-07-30 Tue 09:00] =>  0:30
@@ -270,7 +272,7 @@
     :STYLE:    habit
     :REPEAT_TO_STATE: NEXT
     :ID:       0e75f56d-0356-4a0f-a376-080471ad4aad
-    :LAST_REPEAT: [2013-08-01 Thu 09:28]
+    :LAST_REPEAT: [2013-08-02 Fri 09:23]
     :END:
 
 *** NEXT Afternoon Relax
@@ -362,7 +364,8 @@
     :END:
   
 *** NEXT Evening Stretch
-    SCHEDULED: <2013-08-01 Thu .+1d/2d>
+    SCHEDULED: <2013-08-02 Fri .+1d/2d>
+    - State "DONE"       from "NEXT"       [2013-08-01 Thu 21:54]
     - State "DONE"       from "NEXT"       [2013-07-31 Wed 18:54]
     - State "DONE"       from "NEXT"       [2013-07-29 Mon 20:18]
     - State "DONE"       from "NEXT"       [2013-07-28 Sun 22:55]
@@ -416,6 +419,7 @@
     - State "DONE"       from "NEXT"       [2013-03-12 Tue 21:05]
     - State "DONE"       from "NEXT"       [2013-03-06 Wed 22:24]
     :LOGBOOK:
+    CLOCK: [2013-07-31 Wed 21:18]--[2013-07-31 Wed 21:55] =>  0:37
     CLOCK: [2013-07-29 Mon 17:30]--[2013-07-29 Mon 18:18] =>  0:48
     CLOCK: [2013-07-28 Sun 21:24]--[2013-07-28 Sun 22:55] =>  1:31
     CLOCK: [2013-07-27 Sat 20:50]--[2013-07-27 Sat 21:56] =>  1:06
@@ -434,12 +438,15 @@
     :END:
   
 *** NEXT Handstand practice
-    SCHEDULED: <2013-07-30 Tue .+1d/2d>
+    SCHEDULED: <2013-08-02 Fri .+1d/2d>
+    :LOGBOOK:
+    - State "DONE"       from "NEXT"       [2013-08-01 Thu 22:18]
     - State "DONE"       from "NEXT"       [2013-07-29 Mon 20:18]
     - State "DONE"       from "NEXT"       [2013-07-27 Sat 21:56]
     - State "DONE"       from "NEXT"       [2013-07-23 Tue 18:49]
     - State "DONE"       from "NEXT"       [2013-07-22 Mon 21:11]
     - State "DONE"       from "NEXT"       [2013-07-19 Fri 19:56]
+    :END:
     :PROPERTIES:
     :STYLE:    habit
     :REPEAT_TO_STATE: NEXT
