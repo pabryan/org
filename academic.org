@@ -255,7 +255,7 @@ Decided not to do it.
   :ID:       44348474-b144-4b4b-a046-12439b2f7727
   :CATEGORY: Research
   :END:
-[[file:~/working/academic/research/]]
+  [[file:~/working/academic/research/]]
 ** Papers
 *** Working							      :FOCUS:
 **** TODO alpha CSF distance comparison				  :CSF_ALPHA:
@@ -2277,3 +2277,10 @@ http://linear.ups.edu/html/fcla.html
 Sage cell server
 [[https://github.com/sagemath/sagecell]]
 [[http://aleph.sagemath.org/static/about.html]]
+** Approach/Philosophy
+*** flow
+- clean goals: what to I (the student) need to do in this course?
+- Feedback: quick feedback so students know if they're doing well.
+- Difficulty
+  - Challenging but not too hard.
+  - Don't forget students need to solve some simple problems to get a feel for the material and to feel they can do the course and accomplish something

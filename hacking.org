@@ -82,15 +82,27 @@ END:
   - test suites
   - docs
   - rejig the C to be simpler
-- WDM
+*** WDM
   - Do this in sage!
+*** Vector partitions
 - VectorPartitions in Sage
-- Jekyll context based config
-  - Have _config.yml, _includes, _layout in sub-dirs
-  - Can I do some of this with Rakefiles?
-** Reading stuff
+*** Jekyll
+**** Jekyll context based config
+- Have _config.yml, _includes, _layout in sub-dirs
+- Can I do some of this with Rakefiles?
+**** Templating
+- plugin to use templating language of choice rather than liquid
+http://www.cheetahtemplate.org/
+http://mustache.github.io/
+- what about more general pre- and post-processing, hooks etc.
+*** Reading lists/notes/web clipper
 - Can I replace Evernote/Pocket with Google+?
 - It's just tags.
 - Can I "clip" a page with Google+
 - Offline mode and having content appear in Evernote/Pocket is very nice!
+*** org-mode
+- insert boilerplate code on export.
+- for instance I want to  add some html to the *body* on export but html-pre/postamble only insert into headers and footer
 
+*** Selected papers
+- facebook backend
