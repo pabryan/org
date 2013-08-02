@@ -3519,6 +3519,9 @@ Center 119
 Lectures in calendar and tasks like planning lectures.
 
 ****** TODO Exams
+       :LOGBOOK:
+       CLOCK: [2013-08-02 Fri 11:33]--[2013-08-02 Fri 11:34] =>  0:01
+       :END:
        :PROPERTIES:
        :ID:       c7681154-0a25-4143-9e3a-9c5e3871c3ef
        :END:
@@ -3531,9 +3534,11 @@ Lectures in calendar and tasks like planning lectures.
 	:PROPERTIES:
 	:ID:       4a202266-f308-4102-925f-4ec6ca3b5b36
 	:END:
-******* NEXT Write Midterm 1
+******* DONE Write Midterm 1
 	 DEADLINE: <2013-08-08 Thu>
 	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2013-08-02 Fri 11:33]
+	 CLOCK: [2013-08-02 Fri 11:18]--[2013-08-02 Fri 11:33] =>  0:15
 	 CLOCK: [2013-08-02 Fri 09:50]--[2013-08-02 Fri 11:12] =>  1:22
 	 :END:
 	:PROPERTIES:
