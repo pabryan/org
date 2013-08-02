@@ -22,3 +22,15 @@
 
 - 3 long questions graded
 - 5 questions submitted for 1 point
+* TODO Work out how the note capture template works
+  :LOGBOOK:
+  :END:
+[2013-08-01 Thu 20:03]
+
+* TODO Check out PlantUML
+  :LOGBOOK:
+  CLOCK: [2013-08-01 Thu 20:05]--[2013-08-01 Thu 20:06] =>  0:01
+  :END:
+[2013-08-01 Thu 20:05]
+http://plantuml.sourceforge.net/
+
