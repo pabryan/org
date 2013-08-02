@@ -34,3 +34,9 @@
 [2013-08-01 Thu 20:05]
 http://plantuml.sourceforge.net/
 
+* TODO Follow up on sage VectorPartitions
+  :LOGBOOK:
+  CLOCK: [2013-08-02 Fri 09:33]--[2013-08-02 Fri 09:34] =>  0:01
+  :END:
+[2013-08-02 Fri 09:33]
+In particular I want the combinatorial algebra
