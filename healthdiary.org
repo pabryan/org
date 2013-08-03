@@ -2155,6 +2155,9 @@ Set 4 HR: 104
     (insert "  :END:\n\n")))
 #+end_src
 * 2013
+  :PROPERTIES:
+  :ID:       3ae4cacd-52f1-41df-8dac-c48eccdc10fc
+  :END:
 ** 2013-07 July
 *** 2013-07-31 Wednesday
 **** FlowFit (Level 2)

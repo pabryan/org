@@ -6,6 +6,9 @@
   :LOGBOOK:
   CLOCK: [2013-07-30 Tue 19:49]--[2013-07-30 Tue 19:53] =>  0:04
   :END:
+  :PROPERTIES:
+  :ID:       0e68f31b-e91f-401c-ac82-eec9b69a9485
+  :END:
 [2013-07-30 Tue 19:49]
 - bitbucket
 - Documents
@@ -18,6 +21,9 @@
   :LOGBOOK:
   CLOCK: [2013-08-01 Thu 19:47]--[2013-08-01 Thu 19:49] =>  0:02
   :END:
+  :PROPERTIES:
+  :ID:       0a319685-1935-4501-9770-d6d8d5e44e53
+  :END:
 [2013-08-01 Thu 19:47]
 
 - 3 long questions graded
@@ -25,11 +31,17 @@
 * TODO Work out how the note capture template works
   :LOGBOOK:
   :END:
+  :PROPERTIES:
+  :ID:       105978a0-df63-4b29-817f-6ff6d3b19fdc
+  :END:
 [2013-08-01 Thu 20:03]
 
 * TODO Check out PlantUML
   :LOGBOOK:
   CLOCK: [2013-08-01 Thu 20:05]--[2013-08-01 Thu 20:06] =>  0:01
+  :END:
+  :PROPERTIES:
+  :ID:       c2295f51-7883-4447-9f64-f6d4f999ad8e
   :END:
 [2013-08-01 Thu 20:05]
 http://plantuml.sourceforge.net/
@@ -37,6 +49,9 @@ http://plantuml.sourceforge.net/
 * TODO Follow up on sage VectorPartitions
   :LOGBOOK:
   CLOCK: [2013-08-02 Fri 09:33]--[2013-08-02 Fri 09:34] =>  0:01
+  :END:
+  :PROPERTIES:
+  :ID:       d89cfeb9-d4f0-4859-8716-52472d37c5f2
   :END:
 [2013-08-02 Fri 09:33]
 In particular I want the combinatorial algebra

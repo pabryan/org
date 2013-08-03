@@ -210,6 +210,9 @@ User: Bryan
 Pass: 67dogs43
 **** NEXT Sign registration forms.
      DEADLINE: <2013-08-28 Wed>
+     :PROPERTIES:
+     :ID:       1dab75b8-5ecc-4414-86b0-e82df4d9a6b0
+     :END:
 *** IA Home Learning
 **** DONE Go to IA Home learning
     - State "DONE"       from "TODO"       [2013-07-10 Wed 14:29]
@@ -246,6 +249,9 @@ Pass: 67dogs43
 
 **** TODO Return Books 
      DEADLINE: <2013-08-20 Tue>
+     :PROPERTIES:
+     :ID:       bf6ab9c0-657d-4d9c-9552-ffd821c66ae6
+     :END:
 
 * Health
   :PROPERTIES:

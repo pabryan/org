@@ -961,6 +961,9 @@ Can we deduce long-time behaviour from the support function?
 	:LOGBOOK:
 	CLOCK: [2013-07-29 Mon 21:30]--[2013-07-29 Mon 22:15] =>  0:45
 	:END:
+	:PROPERTIES:
+	:ID:       ff17b0e4-2f7e-4dc2-bf37-3e4c0878d360
+	:END:
 
 ******* NEXT Define the radial function
 	:PROPERTIES:

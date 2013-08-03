@@ -59,6 +59,9 @@ END:
    :END:
 [2012-10-31 Wed 09:40]
 * Projects
+  :PROPERTIES:
+  :ID:       eb55263d-43e9-4201-8e78-afb142fbc2e3
+  :END:
 ** LinkIt
 - This is like ifttt on steroids
 - We have sources which are accessed via plugins. These pull in data and convert it into internal format.

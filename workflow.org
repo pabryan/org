@@ -64,11 +64,17 @@ Go through the list and categorise what's there.
   :LOGBOOK:
   CLOCK: [2013-07-31 Wed 15:17]--[2013-07-31 Wed 15:18] =>  0:01
   :END:
+     :PROPERTIES:
+     :ID:       112aa569-c1e8-49f8-b376-d00618ef1330
+     :END:
 [2013-07-31 Wed 15:17]
 Should be able to insert lecture planning/homework etc with a yassnippet?
 **** TODO Set up TODO dependencies
   :LOGBOOK:
   :END:
+     :PROPERTIES:
+     :ID:       aecedd2e-5e42-4ffb-983b-6fc13b2375f2
+     :END:
 [2013-07-31 Wed 15:18]
 
 **** TODO Research org-mode priorities

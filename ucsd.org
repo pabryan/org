@@ -3546,6 +3546,9 @@ Lectures in calendar and tasks like planning lectures.
 	:END:
 ******* TODO Write Midterm 2
 	 DEADLINE: <2013-08-20 Tue>
+	:PROPERTIES:
+	:ID:       711641df-f9e8-4f1c-909f-6b731790bf15
+	:END:
 ******* TODO Write Final
 	 DEADLINE: <2013-09-03 Tue>
 	:PROPERTIES:
@@ -3607,6 +3610,9 @@ Lectures in calendar and tasks like planning lectures.
 	:ID:       3f43e248-4be9-4244-98d6-d365cea7551c
 	:END:
 ******* TODO Prepare Lectures
+	:PROPERTIES:
+	:ID:       2132ed0e-f368-4cc7-8294-3013b152d93a
+	:END:
 ******** DONE Prepare Lecture 1.1
 	 DEADLINE: <2013-08-05 Mon>
 	 - State "DONE"       from "NEXT"       [2013-07-30 Tue 11:42]
@@ -3727,21 +3733,36 @@ Lectures in calendar and tasks like planning lectures.
 ******* TODO Upload homework
 	:LOGBOOK:
 	:END:
+	:PROPERTIES:
+	:ID:       e40dd4e9-540c-4099-a225-fba186d66410
+	:END:
 ******** DONE Upload Homework 1
 	 DEADLINE: <2013-08-02 Fri>
 	 - State "DONE"       from "NEXT"       [2013-07-31 Wed 15:15]
 	 :LOGBOOK:
 	 CLOCK: [2013-07-31 Wed 15:10]--[2013-07-31 Wed 15:15] =>  0:05
 	 :END:
+	 :PROPERTIES:
+	 :ID:       13599e6f-1865-4ca2-b190-7d57960e8ae5
+	 :END:
 ******** DONE Upload Homework 2
 	 DEADLINE: <2013-08-09 Fri>
 	 - State "DONE"       from "TODO"       [2013-07-31 Wed 15:15]
 ******** NEXT Upload Homework 3
 	 DEADLINE: <2013-08-16 Fri>
+	 :PROPERTIES:
+	 :ID:       eed742b3-79da-4eb0-9a52-a46007e54da1
+	 :END:
 ******** TODO Upload Homework 4
 	 DEADLINE: <2013-08-23 Fri>
+	 :PROPERTIES:
+	 :ID:       1484605c-d8e8-497d-ac03-16699c8873ab
+	 :END:
 ******** TODO Upload Homework 5
 	 DEADLINE: <2013-08-30 Fri>
+	 :PROPERTIES:
+	 :ID:       4761b02f-326f-4020-816d-eb0b3bf1ca80
+	 :END:
 ***** Clocking
 ****** Admin
 ****** Office hours
@@ -3908,6 +3929,9 @@ APM B412
 	:ID:       dedd72c3-ea71-4d99-ba1a-55a342d92d63
 	:END:
 ******* TODO Prepare Lectures
+	:PROPERTIES:
+	:ID:       3181cfbe-c8ca-4388-8df6-9af2e4106528
+	:END:
 ******** DONE Prepare Lecture 1.1
 	 DEADLINE: <2013-08-05 Mon>
 	 - State "DONE"       from "NEXT"       [2013-07-29 Mon 13:20]
@@ -4023,11 +4047,17 @@ APM B412
 	CLOCK: [2013-07-25 Thu 17:26]--[2013-07-25 Thu 17:49] =>  0:23
 	:END:
 ******* TODO Upload Homework
+	:PROPERTIES:
+	:ID:       d6d16cef-411c-47d6-9f49-47e5be3e4509
+	:END:
 ******** DONE Upload Homework 1
 	 DEADLINE: <2013-08-02 Fri>
 	 - State "DONE"       from "NEXT"       [2013-07-31 Wed 14:42]
 	 :LOGBOOK:
 	 CLOCK: [2013-07-31 Wed 14:41]--[2013-07-31 Wed 14:42] =>  0:01
+	 :END:
+	 :PROPERTIES:
+	 :ID:       3fd98ff5-f0ab-41bb-8bc2-dd509c6571ab
 	 :END:
 ******** DONE Upload Homework 2
 	 DEADLINE: <2013-08-09 Fri>
@@ -4037,10 +4067,19 @@ APM B412
 	 :END:
 ******** NEXT Upload Homework 3
 	 DEADLINE: <2013-08-16 Fri>
+	 :PROPERTIES:
+	 :ID:       5c60404c-0621-4f7c-9bfd-64ea2d1d17da
+	 :END:
 ******** TODO Upload Homework 4
 	 DEADLINE: <2013-08-23 Fri>
+	 :PROPERTIES:
+	 :ID:       69d032c2-e473-4798-97cc-880c2e0d477b
+	 :END:
 ******** TODO Upload Homework 5
 	 DEADLINE: <2013-08-30 Fri>
+	 :PROPERTIES:
+	 :ID:       644c43b9-5df0-46ce-b31a-bf5fee65460d
+	 :END:
 
 ****** DONE Plan course
        - State "DONE"       from "TODO"       [2013-07-22 Mon 21:24]
