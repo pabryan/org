@@ -1255,10 +1255,8 @@ http://askubuntu.com/questions/198136/error-when-trying-to-connect-to-vpn-on-sta
   :END:
 ** Organisation
   :LOGBOOK:
-  CLOCK: [2013-08-04 Sun 09:46]--[2013-08-04 Sun 09:47] =>  0:01
-  CLOCK: [2013-08-04 Sun 09:44]--[2013-08-04 Sun 09:46] =>  0:02
-  CLOCK: [2013-08-04 Sun 09:43]--[2013-08-04 Sun 09:44] =>  0:01
-  CLOCK: [2013-08-04 Sun 09:42]--[2013-08-04 Sun 09:43] =>  0:01
+  CLOCK: [2013-08-04 Sun 10:05]
+  CLOCK: [2013-08-04 Sun 09:44]--[2013-08-04 Sun 09:47] =>  0:03
   CLOCK: [2013-08-02 Fri 21:01]--[2013-08-02 Fri 21:30] =>  0:29
   CLOCK: [2013-08-02 Fri 20:35]--[2013-08-02 Fri 20:37] =>  0:02
   CLOCK: [2013-08-02 Fri 11:34]--[2013-08-02 Fri 11:37] =>  0:03
@@ -2005,7 +2003,7 @@ For the following, do I just use the existing diary.org capture template or perh
 - [ ] Write down any thoughts, relections on the day.
 
 ** NEXT Daily Plan [0/2]
-   SCHEDULED: <2013-08-04 Sun .+1d/2d>
+   SCHEDULED: <2013-08-05 Mon .+1d/2d>
    - State "DONE"       from "NEXT"       [2013-08-01 Thu 11:07]
    - State "DONE"       from "NEXT"       [2013-07-31 Wed 16:36]
    - State "DONE"       from "NEXT"       [2013-07-30 Tue 10:00]
@@ -2116,7 +2114,9 @@ For the following, do I just use the existing diary.org capture template or perh
    - State "DONE"       from "NEXT"       [2013-01-10 Thu 09:22]
    - State "DONE"       from "NEXT"       [2013-01-09 Wed 07:19]
    :LOGBOOK:
-   CLOCK: [2013-08-04 Sun 09:54]
+   - State "DONE"       from "NEXT"       [2013-08-04 Sun 10:05]
+   CLOCK: [2013-08-04 Sun 09:58]--[2013-08-04 Sun 10:05] =>  0:07
+   CLOCK: [2013-08-04 Sun 09:54]--[2013-08-04 Sun 09:58] =>  0:04
    CLOCK: [2013-08-04 Sun 09:47]--[2013-08-04 Sun 09:48] =>  0:01
    - State "DONE"       from "NEXT"       [2013-08-03 Sat 13:36]
    - State "DONE"       from "NEXT"       [2013-08-02 Fri 09:28]
@@ -2187,7 +2187,7 @@ For the following, do I just use the existing diary.org capture template or perh
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
    :ID:       ef051ee0-1113-4604-b355-450a5a47848b
-   :LAST_REPEAT: [2013-08-03 Sat 13:36]
+   :LAST_REPEAT: [2013-08-04 Sun 10:05]
    :END:
 
 - [ ] Check agenda/focus
