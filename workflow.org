@@ -1323,6 +1323,7 @@ http://askubuntu.com/questions/198136/error-when-trying-to-connect-to-vpn-on-sta
   :END:
 ** Organisation
   :LOGBOOK:
+  CLOCK: [2013-08-04 Sun 13:30]--[2013-08-04 Sun 13:42] =>  0:12
   CLOCK: [2013-08-04 Sun 10:05]--[2013-08-04 Sun 10:06] =>  0:01
   CLOCK: [2013-08-04 Sun 09:44]--[2013-08-04 Sun 09:47] =>  0:03
   CLOCK: [2013-08-02 Fri 21:01]--[2013-08-02 Fri 21:30] =>  0:29
@@ -2261,7 +2262,7 @@ For the following, do I just use the existing diary.org capture template or perh
 - [ ] Check agenda/focus
 - [ ] Write date into notebook
 
-** NEXT Weekly Review [10/13]
+** NEXT Weekly Review [12/13]
    SCHEDULED: <2013-08-04 Sun +1w>
    :LOGBOOK:
    CLOCK: [2013-08-04 Sun 14:56]
@@ -2347,9 +2348,9 @@ What to review:
 - [X] Check uncommited work
 - [X] Refile tasks
 - [X] [[*Weekly%20collection%20and%20clean%20up%20%5B0/4%5D][Weekly collection and clean up {0/4}]]
-- [ ] Check Finances
+- [X] Check Finances
   - Check bank accounts and compare with what's still to come
-- [ ] Process incoming information
+- [X] Process incoming information
   - feedly
   - pocket
 - [ ] Review projects =F12 SPC //= and =P= repeatedly to view each project
