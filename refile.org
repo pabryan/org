@@ -99,3 +99,29 @@ In particular I want the combinatorial algebra
 * TODO Refile should also get entries from from-mobile.org
 [2013-08-04 Sun 10:05]
 
+* TODO Set up org-checklists
+[2013-08-04 Sun 10:12]
+* TODO special headlines
+  :LOGBOOK:
+  CLOCK: [2013-08-04 Sun 10:12]--[2013-08-04 Sun 10:13] =>  0:01
+  :END:
+[2013-08-04 Sun 10:12]
+Like special blocks, but for headlines with a *semantic* property like class/type (already have ID) which exports in HTML to a div with that class or to an environment in LaTeX.
+* TODO Work out some weekly timing/planning
+  :LOGBOOK:
+  CLOCK: [2013-08-04 Sun 10:14]--[2013-08-04 Sun 10:16] =>  0:02
+  :END:
+[2013-08-04 Sun 10:14]
+Each week I need to
+- Read some papers
+- Try out some ideas
+- Work on projects with definite next tasks, like write up such and such. Calculate such and such.
+- Do teaching
+
+Can I assign times to do this, or do I just do whatever's appropriate for where I am?
+* TODO Do I make a different TODO keyword for more trying out things/open ended type research?
+  :LOGBOOK:
+  CLOCK: [2013-08-04 Sun 10:16]--[2013-08-04 Sun 10:17] =>  0:01
+  :END:
+[2013-08-04 Sun 10:16]
+
