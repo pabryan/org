@@ -2194,10 +2194,11 @@ For the following, do I just use the existing diary.org capture template or perh
 - [ ] Check agenda/focus
 - [ ] Write date into notebook
 
-** NEXT Weekly Review [6/13]
+** NEXT Weekly Review [7/13]
    SCHEDULED: <2013-08-04 Sun +1w>
    :LOGBOOK:
-   CLOCK: [2013-08-04 Sun 10:29]
+   CLOCK: [2013-08-04 Sun 10:54]
+   CLOCK: [2013-08-04 Sun 10:29]--[2013-08-04 Sun 10:53] =>  0:24
    CLOCK: [2013-08-04 Sun 10:17]--[2013-08-04 Sun 10:29] =>  0:12
    CLOCK: [2013-08-04 Sun 10:13]--[2013-08-04 Sun 10:14] =>  0:01
    CLOCK: [2013-08-04 Sun 10:06]--[2013-08-04 Sun 10:12] =>  0:06
@@ -2274,7 +2275,7 @@ What to review:
   - fix up any errors
 - [X] Review clock report for past week =R=
   - Check where we spent time (too much or too little) and rectify this week
-- [ ] Look at entire agenda for today  =F12 SPC=
+- [X] Look at entire agenda for today  =F12 SPC=
 - [ ] Review projects =F12 SPC //= and =P= repeatedly to view each project
   - Unstick stuck projects!
 - [ ] Check uncommited work
