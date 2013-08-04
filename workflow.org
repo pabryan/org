@@ -487,6 +487,13 @@ Each week I need to
 - Do teaching
 
 Can I assign times to do this, or do I just do whatever's appropriate for where I am?
+*** TODO Open ended research todo keyword
+  :LOGBOOK:
+  CLOCK: [2013-08-04 Sun 10:16]--[2013-08-04 Sun 10:17] =>  0:01
+  :END:
+[2013-08-04 Sun 10:16]
+Do I make a different TODO keyword for more trying out things/open ended type research?
+
 ** Hacking
 *** TODO special headlines
   :LOGBOOK:
@@ -2254,7 +2261,7 @@ For the following, do I just use the existing diary.org capture template or perh
 - [ ] Check agenda/focus
 - [ ] Write date into notebook
 
-** NEXT Weekly Review [7/13]
+** NEXT Weekly Review [10/13]
    SCHEDULED: <2013-08-04 Sun +1w>
    :LOGBOOK:
    CLOCK: [2013-08-04 Sun 14:56]
@@ -2337,16 +2344,16 @@ What to review:
 - [X] Review clock report for past week =R=
   - Check where we spent time (too much or too little) and rectify this week
 - [X] Look at entire agenda for today  =F12 SPC=
-- [ ] Check uncommited work
-- [ ] Refile tasks
-- [ ] [[*Weekly%20collection%20and%20clean%20up%20%5B0/4%5D][Weekly collection and clean up {0/4}]]
-- [ ] Review projects =F12 SPC //= and =P= repeatedly to view each project
-  - Unstick stuck projects!
+- [X] Check uncommited work
+- [X] Refile tasks
+- [X] [[*Weekly%20collection%20and%20clean%20up%20%5B0/4%5D][Weekly collection and clean up {0/4}]]
+- [ ] Check Finances
+  - Check bank accounts and compare with what's still to come
 - [ ] Process incoming information
   - feedly
   - pocket
-- [ ] Check Finances
-  - Check bank accounts and compare with what's still to come
+- [ ] Review projects =F12 SPC //= and =P= repeatedly to view each project
+  - Unstick stuck projects!
 - start work
   - daily agenda first - knock off items
   - then work on NEXT tasks
