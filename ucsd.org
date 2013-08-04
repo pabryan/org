@@ -101,7 +101,10 @@ http://modernizr.com/
      :PROPERTIES:
      :ID:       8f8a977b-ac74-4b40-94e8-56c81ea5f60f
      :END:
-**** NEXT Set up build/publishing
+**** DONE Set up build/publishing
+     :LOGBOOK:
+     - State "DONE"       from "NEXT"       [2013-08-04 Sun 16:28]
+     :END:
      :PROPERTIES:
      :ID:       66686314-73be-48fb-855a-4a9d41d682ce
      :END:
@@ -140,7 +143,11 @@ http://modernizr.com/
      :PROPERTIES:
      :ID:       001a6a07-ac07-41ab-918a-fea9bd071d53
      :END:
-**** NEXT Make teaching links use org-mode (not literal html)
+**** CANCELLED Make teaching links use org-mode (not literal html)
+     :LOGBOOK:
+     - State "CANCELLED"  from "NEXT"       [2013-08-04 Sun 16:29] \\
+       This might be a bit too fiddly since they are completely seperate projects.
+     :END:
      :PROPERTIES:
      :ID:       00795efc-d689-4fa6-852f-0faa0f546268
      :END:

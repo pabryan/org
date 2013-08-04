@@ -680,44 +680,45 @@ This proves the inequality we need.  The remaining problem is to remove the symm
    :PROPERTIES:
    :ID:       5d9554fe-4cf1-42b0-9891-69a81e715a67
    :END:
-***** DONE Set up tasks
-      - State "DONE"       from "NEXT"       [2012-12-14 Fri 18:04]
-      :LOGBOOK:
-      CLOCK: [2012-12-14 Fri 17:20]--[2012-12-14 Fri 17:36] =>  0:16
-      :END:
-      :PROPERTIES:
-      :ID:       324119e3-a5fc-4279-9d83-28ac27de824b
-      :END:
-***** DONE Copy text from thesis to paper
-      - State "DONE"       from "NEXT"       [2012-12-17 Mon 10:54]
-      - State "NEXT"       from "DONE"       [2012-12-13 Thu 16:06]
-       	I seem to have lost the changes!
-      - State "DONE"       from "NEXT"       [2012-11-15 Thu 14:58]
-      :LOGBOOK:
-      CLOCK: [2012-12-17 Mon 10:48]--[2012-12-17 Mon 10:54] =>  0:06
-      CLOCK: [2012-12-17 Mon 10:36]--[2012-12-17 Mon 10:43] =>  0:07
-      CLOCK: [2012-12-13 Thu 19:58]--[2012-12-13 Thu 20:35] =>  0:37
-      CLOCK: [2012-12-13 Thu 19:29]--[2012-12-13 Thu 19:51] =>  0:22
-      CLOCK: [2012-12-13 Thu 16:06]--[2012-12-13 Thu 16:43] =>  0:37
-      CLOCK: [2012-11-15 Thu 14:37]--[2012-11-15 Thu 14:58] =>  0:21
-      :END:
-      :PROPERTIES:
-      :ID:       1335d91c-32ec-499b-943b-107a42556b29
-      :END:
-***** TODO Transcribe from notebooks into computer
-      :LOGBOOK:
-      CLOCK: [2013-01-09 Wed 14:37]--[2013-01-09 Wed 15:04] =>  0:27
-      CLOCK: [2013-01-09 Wed 14:06]--[2013-01-09 Wed 14:31] =>  0:25
-      CLOCK: [2013-01-09 Wed 13:09]--[2013-01-09 Wed 13:49] =>  0:40
-      CLOCK: [2012-12-06 Thu 14:24]--[2012-12-06 Thu 14:56] =>  0:32
-      CLOCK: [2012-12-05 Wed 18:57]--[2012-12-05 Wed 19:53] =>  0:56
-      CLOCK: [2012-11-16 Fri 14:29]--[2012-11-16 Fri 15:17] =>  0:48
-      CLOCK: [2012-11-15 Thu 14:26]--[2012-11-15 Thu 14:37] =>  0:11
-      :END:
-      :PROPERTIES:
-      :ID:       c7d8d816-7767-4384-9e6b-ee1bbd453e62
-      :END:
-***** TODO Make scans of working 
+***** Tasks
+****** DONE Set up tasks
+       - State "DONE"       from "NEXT"       [2012-12-14 Fri 18:04]
+       :LOGBOOK:
+       CLOCK: [2012-12-14 Fri 17:20]--[2012-12-14 Fri 17:36] =>  0:16
+       :END:
+       :PROPERTIES:
+       :ID:       324119e3-a5fc-4279-9d83-28ac27de824b
+       :END:
+****** DONE Copy text from thesis to paper
+       - State "DONE"       from "NEXT"       [2012-12-17 Mon 10:54]
+       - State "NEXT"       from "DONE"       [2012-12-13 Thu 16:06]
+       	 I seem to have lost the changes!
+       - State "DONE"       from "NEXT"       [2012-11-15 Thu 14:58]
+       :LOGBOOK:
+       CLOCK: [2012-12-17 Mon 10:48]--[2012-12-17 Mon 10:54] =>  0:06
+       CLOCK: [2012-12-17 Mon 10:36]--[2012-12-17 Mon 10:43] =>  0:07
+       CLOCK: [2012-12-13 Thu 19:58]--[2012-12-13 Thu 20:35] =>  0:37
+       CLOCK: [2012-12-13 Thu 19:29]--[2012-12-13 Thu 19:51] =>  0:22
+       CLOCK: [2012-12-13 Thu 16:06]--[2012-12-13 Thu 16:43] =>  0:37
+       CLOCK: [2012-11-15 Thu 14:37]--[2012-11-15 Thu 14:58] =>  0:21
+       :END:
+       :PROPERTIES:
+       :ID:       1335d91c-32ec-499b-943b-107a42556b29
+       :END:
+****** TODO Transcribe from notebooks into computer
+       :LOGBOOK:
+       CLOCK: [2013-01-09 Wed 14:37]--[2013-01-09 Wed 15:04] =>  0:27
+       CLOCK: [2013-01-09 Wed 14:06]--[2013-01-09 Wed 14:31] =>  0:25
+       CLOCK: [2013-01-09 Wed 13:09]--[2013-01-09 Wed 13:49] =>  0:40
+       CLOCK: [2012-12-06 Thu 14:24]--[2012-12-06 Thu 14:56] =>  0:32
+       CLOCK: [2012-12-05 Wed 18:57]--[2012-12-05 Wed 19:53] =>  0:56
+       CLOCK: [2012-11-16 Fri 14:29]--[2012-11-16 Fri 15:17] =>  0:48
+       CLOCK: [2012-11-15 Thu 14:26]--[2012-11-15 Thu 14:37] =>  0:11
+       :END:
+       :PROPERTIES:
+       :ID:       c7d8d816-7767-4384-9e6b-ee1bbd453e62
+       :END:
+****** TODO Make scans of working 
   :LOGBOOK:
   CLOCK: [2013-01-09 Wed 12:58]--[2013-01-09 Wed 13:09] =>  0:11
   :END:
@@ -726,91 +727,91 @@ This proves the inequality we need.  The remaining problem is to remove the symm
     :END:
 [2012-11-16 Fri 15:19]
 
-***** TODO Write content
-      :LOGBOOK:
-      :END:
-      :PROPERTIES:
-      :ID:       3723cb1d-4761-4c0a-b3d4-fc62bca216c2
-      :END:
-****** DONE Write viscosity equation
-       - State "DONE"       from "NEXT"       [2012-12-14 Fri 18:08]
+****** TODO Write content
        :LOGBOOK:
-       CLOCK: [2012-12-14 Fri 17:47]--[2012-12-14 Fri 18:09] =>  0:22
        :END:
        :PROPERTIES:
-       :ID:       cb2801d1-92c9-4f75-8668-738f04868007
-       :END: 
-****** DONE Write Ricci comparison theorem
-       - State "DONE"       from "NEXT"       [2012-12-14 Fri 18:16]
-       :LOGBOOK:
-       CLOCK: [2012-12-14 Fri 18:09]--[2012-12-14 Fri 18:16] =>  0:07
+       :ID:       3723cb1d-4761-4c0a-b3d4-fc62bca216c2
        :END:
+******* DONE Write viscosity equation
+       	- State "DONE"       from "NEXT"       [2012-12-14 Fri 18:08]
+       	:LOGBOOK:
+       	CLOCK: [2012-12-14 Fri 17:47]--[2012-12-14 Fri 18:09] =>  0:22
+       	:END:
+       	:PROPERTIES:
+       	:ID:       cb2801d1-92c9-4f75-8668-738f04868007
+       	:END: 
+******* DONE Write Ricci comparison theorem
+       	- State "DONE"       from "NEXT"       [2012-12-14 Fri 18:16]
+       	:LOGBOOK:
+       	CLOCK: [2012-12-14 Fri 18:09]--[2012-12-14 Fri 18:16] =>  0:07
+       	:END:
+       	:PROPERTIES:
+       	:ID:       14a1b102-77f8-49e6-b175-d55351751e7a
+       	:END:
+******* DONE Write sphere comparison (brief)
+       	- State "DONE"       from "NEXT"       [2012-12-17 Mon 11:19]
+       	:LOGBOOK:
+       	CLOCK: [2012-12-17 Mon 11:09]--[2012-12-17 Mon 11:19] =>  0:10
+       	:END:
+       	:PROPERTIES:
+       	:ID:       98abaabf-bfd6-4a76-a363-d99dc50187ef
+       	:END:
+******* DONE Write planar comparison
+       	- State "DONE"       from "NEXT"       [2013-01-14 Mon 16:44]
+       	:LOGBOOK:
+       	CLOCK: [2013-01-14 Mon 16:37]--[2013-01-14 Mon 16:44] =>  0:07
+       	:END:
+       	:PROPERTIES:
+       	:ID:       f275815c-cbd9-4226-aa90-04753e3fe110
+       	:END:
+******* NEXT Write hyperbolic quadratic comparison
+       	:LOGBOOK:
+       	CLOCK: [2013-01-14 Mon 16:45]--[2013-01-14 Mon 16:48] =>  0:03
+       	:END:
+       	:PROPERTIES:
+       	:ID:       ab49f64c-36f6-476f-9e02-b0ec9d72552f
+       	:END:
+******* NEXT Write hyperbolic stationary comparison
+       	:PROPERTIES:
+       	:ID:       159f6804-7554-45c3-a669-13c54169356f
+       	:END:
+******* NEXT Write convergence
+       	:PROPERTIES:
+       	:ID:       cabddb49-adb4-4532-81d3-3f49f7b66dd6
+       	:END:
+******* DONE Write porous media
+       	- State "DONE"       from "NEXT"       [2012-12-14 Fri 18:27]
+       	:LOGBOOK:
+       	CLOCK: [2012-12-14 Fri 18:20]--[2012-12-14 Fri 18:27] =>  0:07
+       	:END:
+       	:PROPERTIES:
+       	:ID:       f209c72e-822e-45e0-bf45-4ee4e36f7c58
+       	:END:
+******* TODO Write introduction
+       	:PROPERTIES:
+       	:ID:       bbf31667-eee4-439b-abd6-cb0fd52e37fe
+       	:END:
+******* NEXT Make 1st draft
        :PROPERTIES:
-       :ID:       14a1b102-77f8-49e6-b175-d55351751e7a
+       :ID:       5349a44a-61b3-4ba2-b795-cb73eac3482b
        :END:
-****** DONE Write sphere comparison (brief)
-       - State "DONE"       from "NEXT"       [2012-12-17 Mon 11:19]
-       :LOGBOOK:
-       CLOCK: [2012-12-17 Mon 11:09]--[2012-12-17 Mon 11:19] =>  0:10
-       :END:
+- Cleaning up text to be consistent, proper refs etc.
+****** NEXT Check Ben Chow's book for planer integrability of 1st derivative
        :PROPERTIES:
-       :ID:       98abaabf-bfd6-4a76-a363-d99dc50187ef
+       :ID:       68503bad-abd4-49d4-97a6-537854ccc13e
        :END:
-****** DONE Write planar comparison
-       - State "DONE"       from "NEXT"       [2013-01-14 Mon 16:44]
-       :LOGBOOK:
-       CLOCK: [2013-01-14 Mon 16:37]--[2013-01-14 Mon 16:44] =>  0:07
-       :END:
-       :PROPERTIES:
-       :ID:       f275815c-cbd9-4226-aa90-04753e3fe110
-       :END:
-****** NEXT Write hyperbolic quadratic comparison
-       :LOGBOOK:
-       CLOCK: [2013-01-14 Mon 16:45]--[2013-01-14 Mon 16:48] =>  0:03
-       :END:
-       :PROPERTIES:
-       :ID:       ab49f64c-36f6-476f-9e02-b0ec9d72552f
-       :END:
-****** NEXT Write hyperbolic stationary comparison
-       :PROPERTIES:
-       :ID:       159f6804-7554-45c3-a669-13c54169356f
-       :END:
-****** NEXT Write convergence
-       :PROPERTIES:
-       :ID:       cabddb49-adb4-4532-81d3-3f49f7b66dd6
-       :END:
-****** DONE Write porous media
-       - State "DONE"       from "NEXT"       [2012-12-14 Fri 18:27]
-       :LOGBOOK:
-       CLOCK: [2012-12-14 Fri 18:20]--[2012-12-14 Fri 18:27] =>  0:07
-       :END:
-       :PROPERTIES:
-       :ID:       f209c72e-822e-45e0-bf45-4ee4e36f7c58
-       :END:
-****** TODO Write introduction
-       :PROPERTIES:
-       :ID:       bbf31667-eee4-439b-abd6-cb0fd52e37fe
-       :END:
-***** TODO Check Ben Chow's book for planer integrability of 1st derivative
-      :PROPERTIES:
-      :ID:       68503bad-abd4-49d4-97a6-537854ccc13e
-      :END:
-***** TODO Work out logarithmic porous media integral transform
+****** TODO Work out logarithmic porous media integral transform
     :PROPERTIES:
     :ID:       f2988334-a37d-47fc-86ac-43d616cf29d5
     :END:
 conformal factor and isoprofile satisfy logarithic porous media
 how are they related?
-***** TODO Are stationary iso profile solns stationary ricci flow solns?
-      :PROPERTIES:
-      :ID:       0256ba72-857d-4734-be31-be685e5a10ad
-      :END:
-***** NEXT Make 1st draft by cleaning up text to be consistent, proper refs etc.
-      :PROPERTIES:
-      :ID:       5349a44a-61b3-4ba2-b795-cb73eac3482b
-      :END:
-
-***** TODO Work out hyperbolic barrier
+****** TODO Are stationary iso profile solns stationary ricci flow solns?
+       :PROPERTIES:
+       :ID:       0256ba72-857d-4734-be31-be685e5a10ad
+       :END:
+****** NEXT Work out hyperbolic barrier
       :LOGBOOK:
       CLOCK: [2013-01-14 Mon 16:10]--[2013-01-14 Mon 16:35] =>  0:25
       CLOCK: [2013-01-14 Mon 09:10]--[2013-01-14 Mon 09:36] =>  0:26
@@ -824,30 +825,33 @@ how are they related?
       :ID:       9576f953-1b7f-4459-915a-b8378f6d8b80
       :END:
 Try again to make this exponential barrier work.
-***** DONE Check high genus comparison computations
-      - State "DONE"       from "NEXT"       [2013-02-06 Wed 14:57]
-      :LOGBOOK:
-      CLOCK: [2013-01-11 Fri 13:00]--[2013-01-11 Fri 14:10] =>  1:10
-      CLOCK: [2013-01-11 Fri 07:30]--[2013-01-11 Fri 08:05] =>  0:35
-      :END:
-      :PROPERTIES:
-      :ID:       60cbd811-022c-4afa-bb52-bc82b8694314
-      :END:			     
+****** DONE Check high genus comparison computations
+       - State "DONE"       from "NEXT"       [2013-02-06 Wed 14:57]
+       :LOGBOOK:
+       CLOCK: [2013-01-11 Fri 13:00]--[2013-01-11 Fri 14:10] =>  1:10
+       CLOCK: [2013-01-11 Fri 07:30]--[2013-01-11 Fri 08:05] =>  0:35
+       :END:
+       :PROPERTIES:
+       :ID:       60cbd811-022c-4afa-bb52-bc82b8694314
+       :END:			     
+***** Notes
+***** References
 **** TODO Pipe Flows						  :PIPE_FLOW:
      SCHEDULED: <2013-09-09 Mon> DEADLINE: <2013-10-11 Fri>
    :PROPERTIES:
    :ID:       cf90c8f0-dc09-44d4-87d4-f7000acc2ba1
    :END:
 [[file:~/working/academic/research/geometric_pipe_flows]]
-***** DONE Set up exact tasks
-      - State "DONE"       from "NEXT"       [2013-06-23 Sun 16:12]
-      :LOGBOOK:
-      CLOCK: [2013-02-06 Wed 14:58]--[2013-02-06 Wed 15:09] =>  0:11
-      :END:
-      :PROPERTIES:
-      :ID:       bd4e49ca-6f78-44af-aa3b-782d2eb98ff3
-      :END:
-***** TODO Transcribe pipe examples from Bei Da notebook
+***** Tasks
+****** DONE Set up exact tasks
+       - State "DONE"       from "NEXT"       [2013-06-23 Sun 16:12]
+       :LOGBOOK:
+       CLOCK: [2013-02-06 Wed 14:58]--[2013-02-06 Wed 15:09] =>  0:11
+       :END:
+       :PROPERTIES:
+       :ID:       bd4e49ca-6f78-44af-aa3b-782d2eb98ff3
+       :END:
+****** TODO Transcribe pipe examples from Bei Da notebook
   :LOGBOOK:
   CLOCK: [2012-11-20 Tue 10:48]--[2012-11-20 Tue 10:49] =>  0:01
   :END:
@@ -856,25 +860,27 @@ Try again to make this exponential barrier work.
   :END:
 [2012-11-20 Tue 10:48]
 
-***** TODO Transcribe from Bei Da notebook: pipe flow
+****** TODO Transcribe from Bei Da notebook: pipe flow
   :LOGBOOK:
   :END:
   :PROPERTIES:
   :ID:       acf2c85c-2e65-45b7-a705-e30b58a7ca4b
   :END:
 [2012-11-20 Tue 11:04]
-***** DONE Prepare talk at Eugene
-      - State "DONE"       from "NEXT"       [2013-06-23 Sun 16:12]
-      :LOGBOOK:
-      CLOCK: [2013-05-13 Mon 18:28]--[2013-05-13 Mon 18:43] =>  0:15
-      :END:
-      :PROPERTIES:
-      :ID:       c1250415-a95a-42ee-94cc-4bf6e967467e
-      :END:
-***** NEXT Compile work into org file
-      :PROPERTIES:
-      :ID:       4f27c099-1b3f-44a1-b38d-394b791aabef
-      :END:
+****** DONE Prepare talk at Eugene
+       - State "DONE"       from "NEXT"       [2013-06-23 Sun 16:12]
+       :LOGBOOK:
+       CLOCK: [2013-05-13 Mon 18:28]--[2013-05-13 Mon 18:43] =>  0:15
+       :END:
+       :PROPERTIES:
+       :ID:       c1250415-a95a-42ee-94cc-4bf6e967467e
+       :END:
+****** NEXT Compile work into org file
+       :PROPERTIES:
+       :ID:       4f27c099-1b3f-44a1-b38d-394b791aabef
+       :END:
+***** Notes
+***** References
 **** TODO Space form curvature flow			 :SPACE_FORM_HARNACK:
      :LOGBOOK:
      :END:
@@ -954,19 +960,6 @@ Can we deduce long-time behaviour from the support function?
        :ID:       5d7d38ad-aac0-409d-9ece-466e858612c9
        :END:
 - Is this even necessary? That is, why not just use $\sphere^n$ as a fixed space from which to parametrise? It's not really necessary to have $\sphere^n$ embedded in the space form.
-****** NEXT Work out support function parametrisation
-       :LOGBOOK:
-       CLOCK: [2013-04-30 Tue 19:16]--[2013-04-30 Tue 21:25] =>  2:09
-       CLOCK: [2013-04-30 Tue 18:09]--[2013-04-30 Tue 18:36] =>  0:27
-       CLOCK: [2013-04-30 Tue 14:00]--[2013-04-30 Tue 16:00] =>  2:00
-       :END:
-       :PROPERTIES:
-       :ID:       0548f728-0249-4589-805b-f4b1340895b1
-       :END:
-- Check what Ben and Chen did in $\HH^3$.
-- i.e. construct a parametrisation from the support function.
-- Is it true that $\exp_O (s(x)\nor(x) + T(x)) = x$ with $T(x) = \grad s$ tangent? No. This is the Wulf shape and is only the original hypersurface when $s$ is defined using the position vector field.
-
 ****** TODO Dual Body
        :LOGBOOK:
        :END:
@@ -998,13 +991,18 @@ Can we deduce long-time behaviour from the support function?
 	:ID:       099961a3-2e9b-48f9-b93e-7c8b54d7998c
 	:END: 
 - Calculate evolution equation of dual body.
-****** NEXT Wulff shape
+******* TODO Show dual relationship of Gauss curvature
+- There should be a point where $\gk/\dual{\gc} = 1$.
+****** TODO Wulff shape
        :PROPERTIES:
        :ID:       eee2b199-61dc-4fda-bd51-a55accf9781e
        :END: 
 - $\exp(s(x) \nor(x) + \grad s(x))$ parametrises the Wulff shape of $M$. 
-- How does this relate to the original hypersurface? In particular how do the curvatures relate?
+******* NEXT Work out relationship with original hypersurface
+-  In particular how do the curvatures relate?
   
+******* TODO Work out Harnack/curvature bound for Wulff shape
+******** NEXT Try Ben's computations in $\HH^n$
 ***** Refs
 [[file:~/research_resources/draftpapers/hyperbolic_130113.pdf]]
 *** Future							    :SOMEDAY:
