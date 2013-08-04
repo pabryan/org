@@ -1177,8 +1177,9 @@ Look at all dark matter papers. Alan Parry also. Bibliography of course!
       :PROPERTIES:
       :ID:       264e8cb9-0195-4424-8b4a-7564af954309
       :END:
-***** TODO Make outline of book
+***** DONE Make outline of book
    :LOGBOOK:
+   - State "DONE"       from "TODO"       [2013-08-04 Sun 16:44]
    CLOCK: [2013-03-02 Sat 15:25]--[2013-03-02 Sat 15:34] =>  0:09
    CLOCK: [2013-03-02 Sat 13:41]--[2013-03-02 Sat 14:26] =>  0:45
    CLOCK: [2013-03-02 Sat 12:37]--[2013-03-02 Sat 13:02] =>  0:25
@@ -1194,16 +1195,27 @@ Look at all dark matter papers. Alan Parry also. Bibliography of course!
        :PROPERTIES:
        :ID:       831b7f47-ac24-4779-a485-f627e289934a
        :END:
+***** TODO Compile existing content
 ****** NEXT Check Mat's, Charlie's and my work and how it fits together.
        :PROPERTIES:
        :ID:       189cc302-8dde-4aa2-818e-66d4b9dd0c9f
        :END:
 In particular, put more detail in.
-***** TODO Write convex/geometry and support function parts
-      :PROPERTIES:
-      :ID:       ff3c6e47-4972-49e9-b5d4-7e4ed5524445
-      :END:
-***** TODO Topics
+****** NEXT Get my honour's thesis work into a useable format
+       :PROPERTIES:
+       :ID:       810fd351-5f88-415f-9977-906fa1e39681
+       :END:
+****** TODO Write basic MCF stuff
+- embeddness preserved etc. from my honour's thesis plus Mat and Charlie's work
+       :PROPERTIES:
+       :ID:       b5234c61-d118-45c2-b372-eb8e247c8642
+       :END:
+
+***** TODO bitbucket pages
+****** NEXT Start issue tracker
+****** NEXT Put ideas on wiki
+****** NEXT Get Mat and Charlie set up on Bitbucket
+***** TODO Extra Topics
       :PROPERTIES:
       :ID:       91473ce5-db9d-4368-a988-0f8de97343a0
       :END:
@@ -1235,19 +1247,16 @@ In particular, put more detail in.
        :PROPERTIES:
        :ID:       13a43b9f-745a-4e93-98b2-c7f7ae405b8e
        :END: 
-***** NEXT Get my honour's thesis work into a useable format
-      :PROPERTIES:
-      :ID:       810fd351-5f88-415f-9977-906fa1e39681
+****** TODO Check out translations by vector fields
+****** TODO Check out minimal surfaces in huisken's density metric
+****** TODO Check out $F$-stability
+***** DONE See if I can use body-only somewhere to export to mutliple files
+      :LOGBOOK:
+      - State "DONE"       from "NEXT"       [2013-08-04 Sun 16:41]
       :END:
-***** NEXT See if I can use body-only somewhere to export to mutliple files
       :PROPERTIES:
       :ID:       b4fbfad7-31a8-4a53-a2e3-d2453bd33390
       :END:
-***** TODO Write basic MCF stuff, embeddness preserved etc. from my honour's thesis plus Mat and Charlie's work
-      :PROPERTIES:
-      :ID:       b5234c61-d118-45c2-b372-eb8e247c8642
-      :END:
-
 *** Future							    :SOMEDAY:
 **** TODO Submanifold book				       :SUBMANIFOLDS:
 [[file:~/working/academic/research/submanifolds_book]]
@@ -1820,8 +1829,11 @@ http://mathoverflow.net/questions/14877/how-much-of-differential-geometry-can-be
   :PROPERTIES:
   :ID:       0609581e-fe50-48ce-aa33-ce468c217f92
   :END:
-** TODO GMT								:GMT:
+** HOLD GMT								:GMT:
+   SCHEDULED: <2013-10-06 Sun>
    :LOGBOOK:
+   - State "HOLD"       from "TODO"       [2013-08-04 Sun 16:45] \\
+     Don't have time for this right now!
    CLOCK: [2013-04-26 Fri 09:35]--[2013-04-26 Fri 09:54] =>  0:19
    :END:
    :PROPERTIES:
@@ -1847,7 +1859,12 @@ Minimal and CMC surfaces. First variation.
 First variation.
 **** Lec 03
 Radon measures: compactness and Reisz representation.
-** TODO Convex Geometry						     :CONVEX:
+** HOLD Convex Geometry						     :CONVEX:
+   SCHEDULED: <2013-10-06 Sun>
+   :LOGBOOK:
+   - State "HOLD"       from "TODO"       [2013-08-04 Sun 16:46] \\
+     Don't have time for this right now!
+   :END:
    :PROPERTIES:
    :ID:       9a15d3ec-fe6c-4def-8227-bc3414959dd6
    :END:

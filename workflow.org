@@ -1323,6 +1323,7 @@ http://askubuntu.com/questions/198136/error-when-trying-to-connect-to-vpn-on-sta
   :END:
 ** Organisation
   :LOGBOOK:
+  CLOCK: [2013-08-04 Sun 16:48]--[2013-08-04 Sun 16:49] =>  0:01
   CLOCK: [2013-08-04 Sun 13:30]--[2013-08-04 Sun 13:42] =>  0:12
   CLOCK: [2013-08-04 Sun 10:05]--[2013-08-04 Sun 10:06] =>  0:01
   CLOCK: [2013-08-04 Sun 09:44]--[2013-08-04 Sun 09:47] =>  0:03
@@ -2262,10 +2263,11 @@ For the following, do I just use the existing diary.org capture template or perh
 - [ ] Check agenda/focus
 - [ ] Write date into notebook
 
-** NEXT Weekly Review [12/13]
-   SCHEDULED: <2013-08-04 Sun +1w>
+** NEXT Weekly Review [0/13]
+   SCHEDULED: <2013-08-11 Sun +1w>
    :LOGBOOK:
-   CLOCK: [2013-08-04 Sun 14:56]
+   - State "DONE"       from "NEXT"       [2013-08-04 Sun 16:47]
+   CLOCK: [2013-08-04 Sun 14:56]--[2013-08-04 Sun 16:47] =>  1:51
    CLOCK: [2013-08-04 Sun 10:54]--[2013-08-04 Sun 10:55] =>  0:01
    CLOCK: [2013-08-04 Sun 10:29]--[2013-08-04 Sun 10:53] =>  0:24
    CLOCK: [2013-08-04 Sun 10:17]--[2013-08-04 Sun 10:29] =>  0:12
@@ -2330,27 +2332,27 @@ For the following, do I just use the existing diary.org capture template or perh
    :REPEAT_TO_STATE: NEXT
    :ID:       846c05fa-21d7-4e6f-8431-a1fa06631945
    :RESET_CHECK_BOXES: t
-   :LAST_REPEAT: [2013-07-29 Mon 10:54]
+   :LAST_REPEAT: [2013-08-04 Sun 16:47]
    :END:
 
 What to review:
 
-- [X] Check follow-up paper folder
-- [X] Check holding directory
+- [ ] Check follow-up paper folder
+- [ ] Check holding directory
   [[file:~/holding]]
-- [X] Check holding email folder
-- [X] Review weekly agenda =F12 a w//=
-- [X] Check clocking data for past week =v c=
+- [ ] Check holding email folder
+- [ ] Review weekly agenda =F12 a w//=
+- [ ] Check clocking data for past week =v c=
   - fix up any errors
-- [X] Review clock report for past week =R=
+- [ ] Review clock report for past week =R=
   - Check where we spent time (too much or too little) and rectify this week
-- [X] Look at entire agenda for today  =F12 SPC=
-- [X] Check uncommited work
-- [X] Refile tasks
-- [X] [[*Weekly%20collection%20and%20clean%20up%20%5B0/4%5D][Weekly collection and clean up {0/4}]]
-- [X] Check Finances
+- [ ] Look at entire agenda for today  =F12 SPC=
+- [ ] Check uncommited work
+- [ ] Refile tasks
+- [ ] [[*Weekly%20collection%20and%20clean%20up%20%5B0/4%5D][Weekly collection and clean up {0/4}]]
+- [ ] Check Finances
   - Check bank accounts and compare with what's still to come
-- [X] Process incoming information
+- [ ] Process incoming information
   - feedly
   - pocket
 - [ ] Review projects =F12 SPC //= and =P= repeatedly to view each project
