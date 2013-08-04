@@ -450,6 +450,37 @@ If I'm working on a project, I want an agenda view showing me just that project.
   :END:
 [2013-03-14 Thu 14:05]
 
+*** TODO Work out how the note capture template works
+  :LOGBOOK:
+  :END:
+  :PROPERTIES:
+  :ID:       105978a0-df63-4b29-817f-6ff6d3b19fdc
+  :END:
+[2013-08-01 Thu 20:03]
+
+*** TODO Check out PlantUML
+  :LOGBOOK:
+  CLOCK: [2013-08-01 Thu 20:05]--[2013-08-01 Thu 20:06] =>  0:01
+  :END:
+  :PROPERTIES:
+  :ID:       c2295f51-7883-4447-9f64-f6d4f999ad8e
+  :END:
+[2013-08-01 Thu 20:05]
+http://plantuml.sourceforge.net/
+
+*** TODO Refile should also get entries from from-mobile.org
+  SCHEDULED: <2013-08-18 Sun>
+[2013-08-04 Sun 10:05]
+
+*** TODO Set up org-checklists
+[2013-08-04 Sun 10:12]
+** Hacking
+*** TODO special headlines
+  :LOGBOOK:
+  CLOCK: [2013-08-04 Sun 10:12]--[2013-08-04 Sun 10:13] =>  0:01
+  :END:
+[2013-08-04 Sun 10:12]
+Like special blocks, but for headlines with a *semantic* property like class/type (already have ID) which exports in HTML to a div with that class or to an environment in LaTeX.
 * process
   :PROPERTIES:
   :ID:       403ba6c9-9a32-430c-b0c9-0b09f2eba44e

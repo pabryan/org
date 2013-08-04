@@ -337,6 +337,15 @@ Can we suspend loan repayments for a few months?
    :END:
 [2013-01-28 Mon 19:48]
 
+*** TODO Update budget
+  DEADLINE: <2013-08-31 Sat>
+  :LOGBOOK:
+  CLOCK: [2013-08-04 Sun 09:48]--[2013-08-04 Sun 09:49] =>  0:01
+  :END:
+[2013-08-04 Sun 09:48]
+- Netflix $9
+- Naturebox $20
+- Pets $25
 ** Tax
 *** US
 **** DONE Do Tax
@@ -969,6 +978,13 @@ fluff sheets 1d/2d
 
 - Broken fly screen on balcony door. Another window too?
 - Broken blind in Master bedroom.
+**** WAITING Report power problems
+     :LOGBOOK:
+     - State "WAITING"    from "TODO"       [2013-08-04 Sun 15:08] \\
+       Reported to del sol management and awaiting respone.
+     :END:
+[2013-08-04 Sun 09:58]
+
 * Notes 							      :NOTES:
   :PROPERTIES:
   :ID:       4def01e0-c4b0-4797-a19c-049ea35d696a
@@ -1558,6 +1574,13 @@ http://jorgenmodin.net/index_html/archive/2009/12/26/list-of-open-source-dlnaupn
     SCHEDULED: <2013-09-01 Sun>
 *** DND
 https://www.wizards.com/dnd/dndnext.aspx
+** Entertainment mangement/system
+*** Media Files
+**** TODO Convert videos to mp4
+     SCHEDULED: <2013-08-18 Sun>
+[2013-08-04 Sun 09:42]
+*** UPNP sharing
+*** Media center
 * Home organisation
   :PROPERTIES:
   :ID:       204ad8e3-a00f-4da7-b2d6-deb5e370a2c6
