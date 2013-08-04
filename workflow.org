@@ -2194,7 +2194,7 @@ For the following, do I just use the existing diary.org capture template or perh
 - [ ] Check agenda/focus
 - [ ] Write date into notebook
 
-** NEXT Weekly Review [3/13]
+** NEXT Weekly Review [5/13]
    SCHEDULED: <2013-08-04 Sun +1w>
    :LOGBOOK:
    CLOCK: [2013-08-04 Sun 10:29]
@@ -2269,8 +2269,8 @@ What to review:
 - [X] Check holding directory
   [[file:~/holding]]
 - [X] Check holding email folder
-- [ ] Review weekly agenda =F12 a w//=
-- [ ] Check clocking data for past week =v c=
+- [X] Review weekly agenda =F12 a w//=
+- [X] Check clocking data for past week =v c=
   - fix up any errors
 - [ ] Review clock report for past week =R=
   - Check where we spent time (too much or too little) and rectify this week
