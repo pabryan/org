@@ -1250,6 +1250,22 @@ http://askubuntu.com/questions/43465/how-to-automatically-connect-to-vpn-with-ne
 https://wiki.archlinux.org/index.php/NetworkManager#Use_dispatcher_to_connect_to_a_vpn_after_a_network-connection_is_established
 http://askubuntu.com/questions/198136/error-when-trying-to-connect-to-vpn-on-startup
 
+** TODO Clean up files
+   SCHEDULED: <2013-08-11 Sun>
+  :LOGBOOK:
+  CLOCK: [2013-07-30 Tue 19:49]--[2013-07-30 Tue 19:53] =>  0:04
+  :END:
+  :PROPERTIES:
+  :ID:       0e68f31b-e91f-401c-ac82-eec9b69a9485
+  :END:
+[2013-07-30 Tue 19:49]
+- bitbucket
+- Documents
+- dvdrip-data
+- mutable
+- oldpaul
+- Pictures (link to Camera Uploads?)
+- uni 
 * Tasks
   :PROPERTIES:
   :ID:       4257fe31-e606-4ca9-a848-858379409679
@@ -2197,6 +2213,7 @@ For the following, do I just use the existing diary.org capture template or perh
 ** NEXT Weekly Review [7/13]
    SCHEDULED: <2013-08-04 Sun +1w>
    :LOGBOOK:
+   CLOCK: [2013-08-04 Sun 14:56]
    CLOCK: [2013-08-04 Sun 10:54]--[2013-08-04 Sun 10:55] =>  0:01
    CLOCK: [2013-08-04 Sun 10:29]--[2013-08-04 Sun 10:53] =>  0:24
    CLOCK: [2013-08-04 Sun 10:17]--[2013-08-04 Sun 10:29] =>  0:12
@@ -2276,11 +2293,11 @@ What to review:
 - [X] Review clock report for past week =R=
   - Check where we spent time (too much or too little) and rectify this week
 - [X] Look at entire agenda for today  =F12 SPC=
-- [ ] Review projects =F12 SPC //= and =P= repeatedly to view each project
-  - Unstick stuck projects!
 - [ ] Check uncommited work
 - [ ] Refile tasks
 - [ ] [[*Weekly%20collection%20and%20clean%20up%20%5B0/4%5D][Weekly collection and clean up {0/4}]]
+- [ ] Review projects =F12 SPC //= and =P= repeatedly to view each project
+  - Unstick stuck projects!
 - [ ] Process incoming information
   - feedly
   - pocket
