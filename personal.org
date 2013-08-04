@@ -385,16 +385,52 @@ Can we suspend loan repayments for a few months?
 
 ** Monthly Spending Log
 *** August 2013
+
+| Date       | Type                   | Desc                                                        |       Amt |   | Balance  |
+|------------+------------------------+-------------------------------------------------------------+-----------+---+----------|
+| Pending    | Misc. Debit            | POS DEBIT GOOGLE *TTXAPPS GOOGLE.COM/C CA                   |      4.99 |   |          |
+| Pending    | Misc. Debit            | POS DEBIT AT&T*BILL PAYMENT DALLAS TX                       |    169.99 |   |          |
+| Pending    | Misc. Debit            | POS DEBIT GEICO WASHINGTON DC                               |     69.12 |   |          |
+| Pending    | Misc. Debit            | POS DEBIT ABUNDANTHARVESTORGANICS KINGSBURG CA              |     46.55 |   |          |
+| 08/02/2013 | ACH Debit              | PAYPAL INST XFER 4JW227B5THSVU WEB ID: PAYPALSI66           |     60.85 |   | 956.51   |
+| 08/02/2013 | ACH Debit              | KATHERINE BRYAN IAT PAYPAL 4JW227B5RL6FU WEB ID: 770510487C |    707.00 |   | 1,017.36 |
+| 08/02/2013 | ACH Debit              | Regents of UC QuikPAY EP 333369706 WEB ID: 1364199567       |  1,431.50 |   | 1,724.36 |
+| 08/02/2013 | Debit Card Transaction | TRADER JOE'S # 020 LA JOLLA CA 408113 08/02                 |     18.25 |   | 3,155.86 |
+| 08/02/2013 | Debit Card Transaction | PETSMART INC 11 LA JOLLA CA 08/02                           |     38.49 |   | 3,174.11 |
+| 08/02/2013 | Debit Card Transaction | SOUTHERN CALIFORNIA COM SAN DIEGO CA 08/01                  |     53.76 |   | 3,212.60 |
+| 08/02/2013 | Debit Card Transaction | BELLY UP TAVERN TIX S 858-481-8140 CA 08/02                 |     40.75 |   | 3,266.36 |
+| 08/02/2013 | Debit Card Transaction | GOOGLE *Big Fish Gam GOOGLE.COM/CH CA 08/02                 |      1.99 |   | 3,307.11 |
+| 08/02/2013 | Debit Card Transaction | UCSD TRITONPLUS/DDOLL 800-758-7126 CA 08/02                 |     25.00 |   | 3,309.10 |
+| 08/01/2013 | Fee                    | NON-CHASE ATM FEE-WITH                                      |      2.00 |   | 3,334.10 |
+| 08/01/2013 | Debit Card Transaction | COSTCO GAS #0401 SAN DIEGO CA 046023 08/01                  |     35.31 |   | 3,336.10 |
+| 08/01/2013 | ATM Transaction        | NON-CHASE ATM WITHDRAW 461529 08/014605 MOR                 |    241.25 |   | 3,371.41 |
+| 08/01/2013 | Debit Card Transaction | COSTCO WHSE #0401 SAN DIEGO CA 235702 08/01                 |    220.43 |   | 3,612.66 |
+| 08/01/2013 | ACH Credit             | U.C. SAN DIEGO UCSD PAYRL PPD ID: 1956006144                | -3,833.05 |   | 3,833.09 |
+|            |                        |                                                             |           |   |          |
+|            |                        |                                                             |           |   |          |
+| Total      |                        |                                                             |   2998.28 |   |          |
+|            |                        |                                                             |           |   |          |
+    #+TBLFM: @22$4=vsum(@2$4..@21$4)
+
 | Desc         | Amt |
 |--------------+-----|
 | Takeaway     | -60 |
 | Les Claypool | -40 |
 | Game         |  -2 |
+| Dropsync     |  -5 |
+| Petrol       |  -5 |
+| Food         |  40 |
+|              |     |
+|              |     |
+|              |     |
+|              |     |
 |              |     |
 | Available    | 450 |
-| Balance      | 148 |
+| Balance      | 378 |
 |              |     |
-    #+TBLFM: @7$2=vsum(@2$2..@6$2)
+    #+TBLFM: @14$2=vsum(@2$2..@13$2)
+
+
 
 * Health 							     :HEALTH:
   :PROPERTIES:
