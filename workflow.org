@@ -474,6 +474,19 @@ http://plantuml.sourceforge.net/
 
 *** TODO Set up org-checklists
 [2013-08-04 Sun 10:12]
+*** TODO Work out some weekly timing/planning
+    SCHEDULED: <2013-08-05 Mon>
+  :LOGBOOK:
+  CLOCK: [2013-08-04 Sun 10:14]--[2013-08-04 Sun 10:16] =>  0:02
+  :END:
+[2013-08-04 Sun 10:14]
+Each week I need to
+- Read some papers
+- Try out some ideas
+- Work on projects with definite next tasks, like write up such and such. Calculate such and such.
+- Do teaching
+
+Can I assign times to do this, or do I just do whatever's appropriate for where I am?
 ** Hacking
 *** TODO special headlines
   :LOGBOOK:
