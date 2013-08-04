@@ -603,10 +603,6 @@ Let $\xi(p_0, q_0) = 0$ if $\tang_{p_0}=\tang_{q_0}$ and $1$ otherwise. Then I c
        :PROPERTIES:
        :ID:       9c3e45f9-6c61-48b8-b0e1-eaae4fd6514b
        :END:
-******* NEXT Try compare viscosity equation with angenent oval
-	:PROPERTIES:
-	:ID:       aec792bb-f6a8-4278-8efc-843bd1ab0500
-	:END:
 ******* NEXT Try similarity soln as in CSF case
 	:LOGBOOK:
 	CLOCK: [2013-07-22 Mon 19:30]--[2013-07-22 Mon 20:30] =>  1:00
@@ -618,6 +614,11 @@ Let $\xi(p_0, q_0) = 0$ if $\tang_{p_0}=\tang_{q_0}$ and $1$ otherwise. Then I c
     :ID:       e33f844d-a7a7-406b-bf25-002f515cb649
     :END:
 There is a remark by Ben that our function comes from seeking a similarity solution. Does this work for general $f$?
+******* TODO Angenent comparison of curvature integrals
+******** NEXT Write up convex comparison
+- Ben has this for convex curves
+******** NEXT Examine comparison with convex hull
+- Does the convex hull have better integrals of curvature?
 ***** Notes
 MR2225802 gives conditions for when non-trivial self-similar solutions exist.
 ****** Optimal chord/arc profile
