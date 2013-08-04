@@ -2197,7 +2197,7 @@ For the following, do I just use the existing diary.org capture template or perh
 ** NEXT Weekly Review [7/13]
    SCHEDULED: <2013-08-04 Sun +1w>
    :LOGBOOK:
-   CLOCK: [2013-08-04 Sun 10:54]
+   CLOCK: [2013-08-04 Sun 10:54]--[2013-08-04 Sun 10:55] =>  0:01
    CLOCK: [2013-08-04 Sun 10:29]--[2013-08-04 Sun 10:53] =>  0:24
    CLOCK: [2013-08-04 Sun 10:17]--[2013-08-04 Sun 10:29] =>  0:12
    CLOCK: [2013-08-04 Sun 10:13]--[2013-08-04 Sun 10:14] =>  0:01

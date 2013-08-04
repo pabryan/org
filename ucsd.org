@@ -3579,19 +3579,31 @@ Lectures in calendar and tasks like planning lectures.
 	:PROPERTIES:
 	:ID:       885356db-bfd2-464a-9588-45e5642695fe
 	:END:
-******* NEXT Write Homework 3
+******* DONE Write Homework 3
 	 DEADLINE: <2013-08-16 Fri>
+	 :LOGBOOK:
+	 CLOCK: [2013-08-04 Sun 12:50]--[2013-08-04 Sun 13:05] =>  0:15
+	 - State "DONE"       from "TODO"       [2013-08-04 Sun 13:44]
+	 :END:
 	:PROPERTIES:
 	:ID:       aadd8fa5-62c7-493e-b1c1-8289c1ef43cd
 	:END:
-******* TODO Write Homework 4
-	 DEADLINE: <2013-08-23 Fri>
+******* DONE Write Homework 4
+	 DEADLINE: <2013-08-23 Fri>	 
+         :LOGBOOK:
+	 CLOCK: [2013-08-04 Sun 13:05]--[2013-08-04 Sun 13:15] =>  0:10
+	 - State "DONE"       from "TODO"       [2013-08-04 Sun 13:44]
+	 :END:
 	:PROPERTIES:
 	:ID:       7475ba13-5d90-4a8c-902f-6ce5c0fce11e
 	:END:
-******* TODO Write Homework 5
+******* DONE Write Homework 5
 	 DEADLINE: <2013-08-30 Fri>
-	:PROPERTIES:
+	:LOGBOOK:
+	 CLOCK: [2013-08-04 Sun 13:15]--[2013-08-04 Sun 13:30] =>  0:15
+	 - State "DONE"       from "TODO"       [2013-08-04 Sun 13:44]
+	 :END:
+         :PROPERTIES:
 	:ID:       aa7ddd66-01b2-48d9-8564-9a6b26711903
 	:END:
 ****** TODO Lectures
@@ -3893,22 +3905,37 @@ APM B412
 	:END:
 ******* DONE Write Homework 2
 	 DEADLINE: <2013-08-09 Fri>
-	 - State "DONE"       from "NEXT"       [2013-07-31 Wed 14:41]
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2013-08-04 Sun 13:41]
+	 CLOCK: [2013-08-04 Sun 12:00]--[2013-08-04 Sun 12:10] =>  0:10
+	 :END:
 	:PROPERTIES:
 	:ID:       5c56a90a-ab2d-4392-933e-0cf5d7d3d3dd
 	:END:
-******* NEXT Write Homework 3
+******* DONE Write Homework 3
 	 DEADLINE: <2013-08-16 Fri>
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2013-08-04 Sun 13:42]
+	 CLOCK: [2013-08-04 Sun 12:10]--[2013-08-04 Sun 12:30] =>  0:20
+	 :END:
 	:PROPERTIES:
 	:ID:       a486f0ab-be5c-4618-acde-2a7dc5435e7c
 	:END:
-******* TODO Write Homework 4
+******* DONE Write Homework 4
 	 DEADLINE: <2013-08-23 Fri>
+	 :LOGBOOK:
+	 CLOCK: [2013-08-04 Sun 12:30]--[2013-08-04 Sun 12:40] =>  0:10
+	 - State "DONE"       from "TODO"       [2013-08-04 Sun 13:44]
+	 :END:
 	:PROPERTIES:
 	:ID:       6ea351a1-6aa0-4ee2-9429-838b84be59b5
 	:END:
-******* TODO Write Homework 5
+******* DONE Write Homework 5
 	 DEADLINE: <2013-08-30 Fri>
+	 :LOGBOOK:
+	 CLOCK: [2013-08-04 Sun 12:40]--[2013-08-04 Sun 12:50] =>  0:10
+	 - State "DONE"       from "TODO"       [2013-08-04 Sun 13:44]
+	 :END:
 	:PROPERTIES:
 	:ID:       5b5a29b3-86a0-46bd-84b7-429fc6c6c634
 	:END:
