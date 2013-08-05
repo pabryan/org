@@ -1323,6 +1323,7 @@ http://askubuntu.com/questions/198136/error-when-trying-to-connect-to-vpn-on-sta
   :END:
 ** Organisation
   :LOGBOOK:
+  CLOCK: [2013-08-04 Sun 19:42]--[2013-08-04 Sun 20:06] =>  0:24
   CLOCK: [2013-08-04 Sun 16:48]--[2013-08-04 Sun 16:49] =>  0:01
   CLOCK: [2013-08-04 Sun 13:30]--[2013-08-04 Sun 13:42] =>  0:12
   CLOCK: [2013-08-04 Sun 10:05]--[2013-08-04 Sun 10:06] =>  0:01
@@ -2399,7 +2400,7 @@ What to review:
 - [ ] Clean up phone
 
 ** NEXT Monthly Plan/Review [0/4]
-   SCHEDULED: <2013-04-01 Mon +1m>
+   SCHEDULED: <2013-09-01 Sun +1m>
    - State "DONE"       from "NEXT"       [2013-03-19 Tue 11:34]
    :LOGBOOK:
    CLOCK: [2013-03-19 Tue 11:29]--[2013-03-19 Tue 11:34] =>  0:05
