@@ -431,6 +431,7 @@
     - State "DONE"       from "NEXT"       [2013-03-12 Tue 21:05]
     - State "DONE"       from "NEXT"       [2013-03-06 Wed 22:24]
     :LOGBOOK:
+    CLOCK: [2013-08-04 Sun 21:13]
     - State "DONE"       from "NEXT"       [2013-08-02 Fri 23:09]
     CLOCK: [2013-08-02 Fri 21:30]--[2013-08-02 Fri 22:05] =>  0:35
     CLOCK: [2013-07-31 Wed 21:18]--[2013-07-31 Wed 21:55] =>  0:37
