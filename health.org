@@ -152,7 +152,7 @@
     SCHEDULED: <2013-08-06 Tue .+1d/2d>
     :LOGBOOK:
     - State "DONE"       from "NEXT"       [2013-08-05 Mon 09:02]
-    CLOCK: [2013-08-05 Mon 08:45]--[2013-08-05 Mon 09:00] =>  0:15
+    CLOCK: [2013-08-05 Mon 08:30]--[2013-08-05 Mon 08:45] =>  0:15
     - State "DONE"       from "NEXT"       [2013-08-04 Sun 09:42]    
     CLOCK: [2013-08-04 Sun 09:10]--[2013-08-04 Sun 09:25] =>  0:15
     - State "DONE"       from "NEXT"       [2013-08-03 Sat 13:39]
