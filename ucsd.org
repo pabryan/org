@@ -3755,45 +3755,14 @@ Lectures in calendar and tasks like planning lectures.
 	:LOGBOOK:
 	CLOCK: [2013-07-25 Thu 17:49]--[2013-07-25 Thu 18:00] =>  0:11
 	:END:
-******* TODO Upload homework
+******* NEXT Upload homework
 	:LOGBOOK:
+	CLOCK: [2013-08-06 Tue 13:36]
+	 CLOCK: [2013-07-31 Wed 15:10]--[2013-07-31 Wed 15:15] =>  0:05
 	:END:
 	:PROPERTIES:
 	:ID:       e40dd4e9-540c-4099-a225-fba186d66410
 	:END:
-******** NEXT Upload Homework 1
-	 DEADLINE: <2013-08-02 Fri>
-	 :LOGBOOK:
-	 - State "NEXT"       from "DONE"       [2013-08-04 Sun 21:10] \\
-	   Changed homwork. Need to reupload.
-	 - State "DONE"       from "NEXT"       [2013-07-31 Wed 15:15]
-	 CLOCK: [2013-07-31 Wed 15:10]--[2013-07-31 Wed 15:15] =>  0:05
-	 :END:
-	 :PROPERTIES:
-	 :ID:       13599e6f-1865-4ca2-b190-7d57960e8ae5
-	 :END:
-******** NEXT Upload Homework 2
-	 DEADLINE: <2013-08-09 Fri>
-	 :LOGBOOK:
-	 - State "NEXT"       from "DONE"       [2013-08-04 Sun 21:10] \\
-	   Changed homwork. Need to reupload.
-	 - State "DONE"       from "TODO"       [2013-07-31 Wed 15:15]
-	 :END:
-******** NEXT Upload Homework 3
-	 DEADLINE: <2013-08-16 Fri>
-	 :PROPERTIES:
-	 :ID:       eed742b3-79da-4eb0-9a52-a46007e54da1
-	 :END:
-******** TODO Upload Homework 4
-	 DEADLINE: <2013-08-23 Fri>
-	 :PROPERTIES:
-	 :ID:       1484605c-d8e8-497d-ac03-16699c8873ab
-	 :END:
-******** TODO Upload Homework 5
-	 DEADLINE: <2013-08-30 Fri>
-	 :PROPERTIES:
-	 :ID:       4761b02f-326f-4020-816d-eb0b3bf1ca80
-	 :END:
 ***** Clocking
 ****** Admin
 ****** Office hours
