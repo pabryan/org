@@ -1535,8 +1535,9 @@ Put final exam conditions - 2 pages notes allowed.
 ****** MATH142B Lecturing
 
 *** Spring 2013
-**** TODO MATH20C Spring 2013					    :MATH20C:
+**** DONE MATH20C Spring 2013					    :MATH20C:
      :LOGBOOK:
+     - State "DONE"       from "TODO"       [2013-08-06 Tue 16:40]
      - State "TODO"       from "DONE"       [2013-08-04 Sun 10:23] \\
        Reopened since I have to grade a final resit.
      - State "DONE"       from "TODO"       [2013-07-04 Thu 09:55]
@@ -1729,8 +1730,12 @@ Name Li Yanhui
 - [X] Villarreal	Elizabeth	eavillar	a09536049 775008 C-
 - [X] Min	Michael	mmin	a09807129	775005 C-
 
-****** NEXT Grade Antrepeet's final
+****** CANCELLED Grade Antrepeet's final
        SCHEDULED: <2013-08-05 Mon>
+       :LOGBOOK:
+       - State "CANCELLED"  from "NEXT"       [2013-08-06 Tue 16:40] \\
+	 She never showed up to take it.
+       :END:
 ***** Clocking							   :CLOCKING:
 ****** Admin
        :LOGBOOK:
