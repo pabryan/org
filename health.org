@@ -13,11 +13,11 @@
     :STYLE:    habit
     :REPEAT_TO_STATE: NEXT
     :ID:       8d56b2ef-1b49-4dc4-b701-1d021a293fa4
-    :LAST_REPEAT: [2013-08-04 Sun 09:48]
+    :LAST_REPEAT: [2013-08-06 Tue 16:01]
     :END:
     :LOGBOOK:
+    - State "DONE"       from "NEXT"       [2013-08-04 Sun 19:01]
     CLOCK: [2013-08-04 Sun 17:29]--[2013-08-04 Sun 18:35] =>  1:06
-    - State "DONE"       from "NEXT"       [2013-08-04 Sun 09:48]
     - State "DONE"       from "NEXT"       [2013-08-03 Sat 15:57]
     CLOCK: [2013-08-03 Sat 13:39]--[2013-08-03 Sat 14:50] =>  1:11
     - State "DONE"       from "NEXT"       [2013-08-02 Fri 12:12]
@@ -149,8 +149,10 @@
     - State "DONE"       from "NEXT"       [2013-03-09 Sat 11:10]
     :END:
 *** NEXT Morning Mobility
-    SCHEDULED: <2013-08-05 Mon .+1d/2d>
+    SCHEDULED: <2013-08-06 Tue .+1d/2d>
     :LOGBOOK:
+    - State "DONE"       from "NEXT"       [2013-08-05 Mon 09:02]
+    CLOCK: [2013-08-05 Mon 08:45]--[2013-08-05 Mon 09:00] =>  0:15
     - State "DONE"       from "NEXT"       [2013-08-04 Sun 09:42]    
     CLOCK: [2013-08-04 Sun 09:10]--[2013-08-04 Sun 09:25] =>  0:15
     - State "DONE"       from "NEXT"       [2013-08-03 Sat 13:39]
@@ -281,12 +283,15 @@
     :STYLE:    habit
     :REPEAT_TO_STATE: NEXT
     :ID:       0e75f56d-0356-4a0f-a376-080471ad4aad
-    :LAST_REPEAT: [2013-08-04 Sun 09:42]
+    :LAST_REPEAT: [2013-08-06 Tue 16:02]
     :END:
 
 *** NEXT Afternoon Relax
-    SCHEDULED: <2013-08-05 Mon .+1d/2d>
+    SCHEDULED: <2013-08-07 Wed .+1d/2d>
     :LOGBOOK:
+    - State "DONE"       from "NEXT"       [2013-08-06 Tue 16:03]
+    - State "DONE"       from "NEXT"       [2013-08-05 Mon 13:35]
+    CLOCK: [2013-08-05 Mon 13:10]--[2013-08-05 Mon 13:35] =>  0:25
     - State "DONE"       from "NEXT"       [2013-08-04 Sun 17:29]
     CLOCK: [2013-08-04 Sun 16:49]--[2013-08-04 Sun 17:29] =>  0:40
     - State "DONE"       from "NEXT"       [2013-08-02 Fri 20:35]
@@ -372,7 +377,7 @@
     :STYLE:    habit
     :REPEAT_TO_STATE: NEXT
     :ID:       c0aaf33a-af77-446b-b9fd-cf2d2f78c12a
-    :LAST_REPEAT: [2013-08-04 Sun 17:29]
+    :LAST_REPEAT: [2013-08-06 Tue 16:03]
     :END:
   
 *** NEXT Evening Stretch
