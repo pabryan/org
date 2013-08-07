@@ -27,3 +27,26 @@ Maybe make some points about how I could write the code to present data from spn
 
 * TODO make course TA email groups
 [2013-08-06 Tue 20:58]
+* TODO Matlab link on website
+[2013-08-06 Tue 21:00]
+* TODO organise external working
+  :LOGBOOK:
+  CLOCK: [2013-08-06 Tue 21:01]--[2013-08-06 Tue 21:05] =>  0:04
+  :END:
+[2013-08-06 Tue 21:01]
+
+- put all ext stuff in working/external. no separate github, bitbucket dirs
+- create symlink set up script. creates Dropbox/$HOSTNAME/org etc. plus Dropbox/publish etc.
+- generate a list of repos and their remote urls into a file
+- put scripts and files in it's own repo
+- check uncomitted uses repo list
+
+
+* TODO set up vc_auto_commit cron job and working scan cron job
+[2013-08-06 Tue 21:05]
+* TODO Shoudl I make my own working branch for external repositories
+  :LOGBOOK:
+  CLOCK: [2013-08-06 Tue 21:05]--[2013-08-06 Tue 21:06] =>  0:01
+  :END:
+[2013-08-06 Tue 21:05]
+this way I can track upstream and keep my work independent and then merge, push to upstream etc. as appropriate
