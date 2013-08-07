@@ -383,8 +383,10 @@
     :END:
   
 *** NEXT Evening Stretch
-    SCHEDULED: <2013-08-05 Mon .+1d/2d>
+    SCHEDULED: <2013-08-07 Wed .+1d/2d>
     :LOGBOOK:
+    - State "DONE"       from "NEXT"       [2013-08-06 Tue 22:36]
+    CLOCK: [2013-08-06 Tue 21:17]--[2013-08-06 Tue 22:36] =>  1:19
     - State "DONE"       from "NEXT"       [2013-08-04 Sun 23:20]
     CLOCK: [2013-08-04 Sun 21:13]--[2013-08-04 Sun 22:20] =>  1:07
     - State "DONE"       from "NEXT"       [2013-08-02 Fri 23:09]
@@ -457,12 +459,14 @@
     :STYLE:    habit
     :REPEAT_TO_STATE: NEXT
     :ID:       d439600f-c40d-4dd3-82ca-3e7d9e35f2b3
-    :LAST_REPEAT: [2013-08-04 Sun 23:20]
+    :LAST_REPEAT: [2013-08-06 Tue 22:36]
     :END:
   
 *** NEXT Handstand practice
-    SCHEDULED: <2013-08-03 Sat .+1d/2d>
+    SCHEDULED: <2013-08-07 Wed .+1d/2d>
     :LOGBOOK:
+    - State "DONE"       from "NEXT"       [2013-08-06 Tue 22:36]
+    - State "DONE"       from "NEXT"       [2013-08-05 Mon 21:10]
     - State "DONE"       from "NEXT"       [2013-08-02 Fri 23:10]
     - State "DONE"       from "NEXT"       [2013-08-01 Thu 22:18]
     - State "DONE"       from "NEXT"       [2013-07-29 Mon 20:18]
@@ -474,7 +478,7 @@
     :PROPERTIES:
     :STYLE:    habit
     :REPEAT_TO_STATE: NEXT
-    :LAST_REPEAT: [2013-08-02 Fri 23:10]
+    :LAST_REPEAT: [2013-08-06 Tue 22:36]
     :ID:       f57232cd-a8f2-4a76-a507-4d69f765a521
     :END:
 ** Old Tracking

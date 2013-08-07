@@ -1973,7 +1973,7 @@ Set some goals for the month. I should check someday projects for inclusion in t
 Check how I did last month. I guess the review and plan could probably go together. This is all broad stuff
 
 ** NEXT Daily Review [0/3]
-   SCHEDULED: <2013-08-03 Sat .+1d/2d>
+   SCHEDULED: <2013-08-07 Wed .+1d/2d>
    - State "DONE"       from "NEXT"       [2013-08-01 Thu 20:31]
    - State "DONE"       from "NEXT"       [2013-07-31 Wed 22:11]
    - State "DONE"       from "NEXT"       [2013-07-29 Mon 20:22]
@@ -2023,7 +2023,15 @@ Check how I did last month. I guess the review and plan could probably go togeth
    - State "DONE"       from "NEXT"       [2013-01-23 Wed 19:25]
    - State "DONE"       from "NEXT"       [2013-01-14 Mon 17:43]
    :LOGBOOK:
-   CLOCK: [2013-08-06 Tue 20:16]
+   - State "DONE"       from "NEXT"       [2013-08-06 Tue 21:11]
+   CLOCK: [2013-08-06 Tue 21:06]--[2013-08-06 Tue 21:11] =>  0:05
+   CLOCK: [2013-08-06 Tue 21:00]--[2013-08-06 Tue 21:01] =>  0:01
+   CLOCK: [2013-08-06 Tue 20:58]--[2013-08-06 Tue 21:00] =>  0:02
+   CLOCK: [2013-08-06 Tue 20:57]--[2013-08-06 Tue 20:58] =>  0:01
+   CLOCK: [2013-08-06 Tue 20:55]--[2013-08-06 Tue 20:57] =>  0:02
+   CLOCK: [2013-08-06 Tue 20:53]--[2013-08-06 Tue 20:54] =>  0:01
+   CLOCK: [2013-08-06 Tue 20:52]--[2013-08-06 Tue 20:53] =>  0:01
+   CLOCK: [2013-08-06 Tue 20:16]--[2013-08-06 Tue 20:52] =>  0:36
    - State "DONE"       from "NEXT"       [2013-08-02 Fri 21:01]
    CLOCK: [2013-08-02 Fri 20:37]--[2013-08-02 Fri 21:01] =>  0:24
    CLOCK: [2013-08-01 Thu 20:29]--[2013-08-01 Thu 20:31] =>  0:02
@@ -2061,7 +2069,7 @@ Check how I did last month. I guess the review and plan could probably go togeth
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
    :ID:       616c5bd9-d941-4fcc-8874-2ff3c9e96b4a
-   :LAST_REPEAT: [2013-08-02 Fri 21:01]
+   :LAST_REPEAT: [2013-08-06 Tue 21:11]
    :END:
 
 What to review:
