@@ -8,15 +8,16 @@
 
 ** Tracking
 *** NEXT Exercise
-    SCHEDULED: <2013-08-05 Mon .+1d/2d>
+    SCHEDULED: <2013-08-07 Wed .+1d/2d>
     :PROPERTIES:
     :STYLE:    habit
     :REPEAT_TO_STATE: NEXT
     :ID:       8d56b2ef-1b49-4dc4-b701-1d021a293fa4
-    :LAST_REPEAT: [2013-08-06 Tue 16:01]
+    :LAST_REPEAT: [2013-08-06 Tue 20:15]
     :END:
     :LOGBOOK:
-    CLOCK: [2013-08-06 Tue 18:23]
+    - State "DONE"       from "NEXT"       [2013-08-06 Tue 19:20]
+    CLOCK: [2013-08-06 Tue 18:23]--[2013-08-06 Tue 19:20] =>  0:57
     - State "DONE"       from "NEXT"       [2013-08-04 Sun 19:01]
     CLOCK: [2013-08-04 Sun 17:29]--[2013-08-04 Sun 18:35] =>  1:06
     - State "DONE"       from "NEXT"       [2013-08-03 Sat 15:57]
