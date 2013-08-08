@@ -3567,7 +3567,7 @@ Lectures in calendar and tasks like planning lectures.
 	 :LOGBOOK:
 	 - State "WAITING"    from "NEXT"       [2013-08-08 Thu 10:37] \\
 	   Waiting for TA's comments.
-	 CLOCK: [2013-08-08 Thu 10:31]
+	 CLOCK: [2013-08-08 Thu 10:31]--[2013-08-08 Thu 10:38] =>  0:07
 	 :END:
 ******** TODO Submit midterm to printing/frdesk
 	 DEADLINE: <2013-08-09 Fri>
@@ -3656,6 +3656,9 @@ Lectures in calendar and tasks like planning lectures.
 	:ID:       3f43e248-4be9-4244-98d6-d365cea7551c
 	:END:
 ******* TODO Prepare Lectures
+	:LOGBOOK:
+	CLOCK: [2013-08-08 Thu 12:15]--[2013-08-08 Thu 12:16] =>  0:01
+	:END:
 	:PROPERTIES:
 	:ID:       2132ed0e-f368-4cc7-8294-3013b152d93a
 	:END:
@@ -3689,13 +3692,21 @@ Lectures in calendar and tasks like planning lectures.
 	 :PROPERTIES:
 	 :ID:       c49f4147-3c7b-43e1-bb44-bea9759b2ad0
 	 :END:
-******** NEXT Prepare Lecture 2.1
+******** DONE Prepare Lecture 2.1
 	 DEADLINE: <2013-08-12 Mon>
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2013-08-08 Thu 12:15]
+	 CLOCK: [2013-08-08 Thu 11:08]--[2013-08-08 Thu 12:15] =>  1:07
+	 CLOCK: [2013-08-08 Thu 10:38]--[2013-08-08 Thu 10:49] =>  0:11
+	 :END:
 	 :PROPERTIES:
 	 :ID:       b3e4a37b-8a75-4328-8e1c-3db9435b08b2
 	 :END:
-******** TODO Prepare Lecture 2.2
+******** NEXT Prepare Lecture 2.2
 	 DEADLINE: <2013-08-14 Wed>
+	 :LOGBOOK:
+	 CLOCK: [2013-08-08 Thu 12:16]
+	 :END:
 	 :PROPERTIES:
 	 :ID:       f48f6445-5469-4610-9039-e614ee250409
 	 :END:
