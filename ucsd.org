@@ -3552,26 +3552,42 @@ Lectures in calendar and tasks like planning lectures.
 	:PROPERTIES:
 	:ID:       4a202266-f308-4102-925f-4ec6ca3b5b36
 	:END:
-******* DONE Write Midterm 1
-	 DEADLINE: <2013-08-08 Thu>
-	 :LOGBOOK:
-	 - State "DONE"       from "NEXT"       [2013-08-02 Fri 11:33]
-	 CLOCK: [2013-08-02 Fri 11:18]--[2013-08-02 Fri 11:33] =>  0:15
-	 CLOCK: [2013-08-02 Fri 09:50]--[2013-08-02 Fri 11:12] =>  1:22
+******* TODO Midterm 1
+******** DONE Write Midterm 1
+	  DEADLINE: <2013-08-08 Thu>
+	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2013-08-02 Fri 11:33]
+	  CLOCK: [2013-08-02 Fri 11:18]--[2013-08-02 Fri 11:33] =>  0:15
+	  CLOCK: [2013-08-02 Fri 09:50]--[2013-08-02 Fri 11:12] =>  1:22
+	  :END:
+	 :PROPERTIES:
+	 :ID:       ed16bfa1-ecf2-435f-9bb7-d1857c9075d3
 	 :END:
-	:PROPERTIES:
-	:ID:       ed16bfa1-ecf2-435f-9bb7-d1857c9075d3
-	:END:
-******* TODO Write Midterm 2
-	 DEADLINE: <2013-08-20 Tue>
-	:PROPERTIES:
-	:ID:       711641df-f9e8-4f1c-909f-6b731790bf15
-	:END:
-******* TODO Write Final
-	 DEADLINE: <2013-09-03 Tue>
-	:PROPERTIES:
-	:ID:       a1399eac-2d2f-4930-a81d-375cd1841cb8
-	:END:
+******** WAITING Get TA's comments
+	 :LOGBOOK:
+	 - State "WAITING"    from "NEXT"       [2013-08-08 Thu 10:37] \\
+	   Waiting for TA's comments.
+	 CLOCK: [2013-08-08 Thu 10:31]
+	 :END:
+******** TODO Submit midterm to printing/frdesk
+	 DEADLINE: <2013-08-09 Fri>
+******* TODO Midterm 2
+******** NEXT Write Midterm 2
+	  DEADLINE: <2013-08-20 Tue>
+	 :PROPERTIES:
+	 :ID:       711641df-f9e8-4f1c-909f-6b731790bf15
+	 :END:
+******** TODO Get TA's comments
+******** TODO Submit midterm to printing/frdesk
+
+******* TODO Final
+******** NEXT Write Final
+	  DEADLINE: <2013-09-03 Tue>
+	 :PROPERTIES:
+	 :ID:       a1399eac-2d2f-4930-a81d-375cd1841cb8
+	 :END:
+******** TODO Get TA's comments
+******** TODO Submit to printing/frdesk
 ****** TODO Homework
        :PROPERTIES:
        :ID:       da4b56d1-423c-4f4c-ab2b-0c5b0c5f018c
