@@ -3694,8 +3694,7 @@ Lectures in calendar and tasks like planning lectures.
 	 DEADLINE: <2013-08-12 Mon>
 	 :LOGBOOK:
 	 - State "DONE"       from "NEXT"       [2013-08-08 Thu 12:15]
-	 CLOCK: [2013-08-08 Thu 11:08]--[2013-08-08 Thu 12:15] =>  1:07
-	 CLOCK: [2013-08-08 Thu 10:38]--[2013-08-08 Thu 10:49] =>  0:11
+	 CLOCK: [2013-08-08 Thu 10:38]--[2013-08-08 Thu 12:15] =>  1:37
 	 :END:
 	 :PROPERTIES:
 	 :ID:       b3e4a37b-8a75-4328-8e1c-3db9435b08b2
