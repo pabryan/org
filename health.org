@@ -8,14 +8,16 @@
 
 ** Tracking
 *** NEXT Exercise
-    SCHEDULED: <2013-08-07 Wed .+1d/2d>
+    SCHEDULED: <2013-08-08 Thu .+1d/2d>
     :PROPERTIES:
     :STYLE:    habit
     :REPEAT_TO_STATE: NEXT
     :ID:       8d56b2ef-1b49-4dc4-b701-1d021a293fa4
-    :LAST_REPEAT: [2013-08-06 Tue 20:15]
+    :LAST_REPEAT: [2013-08-08 Thu 08:56]
     :END:
     :LOGBOOK:
+    - State "DONE"       from "NEXT"       [2013-08-07 Wed 20:40]
+    CLOCK: [2013-08-07 Wed 19:00]--[2013-08-07 Wed 19:25] =>  0:25
     - State "DONE"       from "NEXT"       [2013-08-06 Tue 19:20]
     CLOCK: [2013-08-06 Tue 18:23]--[2013-08-06 Tue 19:20] =>  0:57
     - State "DONE"       from "NEXT"       [2013-08-04 Sun 19:01]
@@ -151,8 +153,10 @@
     - State "DONE"       from "NEXT"       [2013-03-09 Sat 11:10]
     :END:
 *** NEXT Morning Mobility
-    SCHEDULED: <2013-08-06 Tue .+1d/2d>
+    SCHEDULED: <2013-08-09 Fri .+1d/2d>
     :LOGBOOK:
+    - State "DONE"       from "NEXT"       [2013-08-08 Thu 08:56]
+    CLOCK: [2013-08-08 Thu 08:00]--[2013-08-08 Thu 08:56] =>  0:56
     - State "DONE"       from "NEXT"       [2013-08-05 Mon 09:02]
     CLOCK: [2013-08-05 Mon 08:30]--[2013-08-05 Mon 08:45] =>  0:15
     - State "DONE"       from "NEXT"       [2013-08-04 Sun 09:42]    
@@ -285,12 +289,13 @@
     :STYLE:    habit
     :REPEAT_TO_STATE: NEXT
     :ID:       0e75f56d-0356-4a0f-a376-080471ad4aad
-    :LAST_REPEAT: [2013-08-06 Tue 16:02]
+    :LAST_REPEAT: [2013-08-08 Thu 08:56]
     :END:
 
 *** NEXT Afternoon Relax
-    SCHEDULED: <2013-08-07 Wed .+1d/2d>
+    SCHEDULED: <2013-08-08 Thu .+1d/2d>
     :LOGBOOK:
+    - State "DONE"       from "NEXT"       [2013-08-07 Wed 17:57]
     - State "DONE"       from "NEXT"       [2013-08-06 Tue 16:03]
     - State "DONE"       from "NEXT"       [2013-08-05 Mon 13:35]
     CLOCK: [2013-08-05 Mon 13:10]--[2013-08-05 Mon 13:35] =>  0:25
@@ -379,12 +384,14 @@
     :STYLE:    habit
     :REPEAT_TO_STATE: NEXT
     :ID:       c0aaf33a-af77-446b-b9fd-cf2d2f78c12a
-    :LAST_REPEAT: [2013-08-06 Tue 16:03]
+    :LAST_REPEAT: [2013-08-08 Thu 08:57]
     :END:
   
 *** NEXT Evening Stretch
-    SCHEDULED: <2013-08-07 Wed .+1d/2d>
+    SCHEDULED: <2013-08-08 Thu .+1d/2d>
     :LOGBOOK:
+    - State "DONE"       from "NEXT"       [2013-08-07 Wed 22:36]
+    CLOCK: [2013-08-07 Wed 19:25]--[2013-08-07 Wed 20:10] =>  0:45
     - State "DONE"       from "NEXT"       [2013-08-06 Tue 22:36]
     CLOCK: [2013-08-06 Tue 21:17]--[2013-08-06 Tue 22:36] =>  1:19
     - State "DONE"       from "NEXT"       [2013-08-04 Sun 23:20]
