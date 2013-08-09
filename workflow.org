@@ -901,10 +901,12 @@ Levenger?
   :ID:       053944a4-5235-4f13-ad7d-a50547eb2664
   :END:
 ** Tasks
-*** TODO Investigate Buffer
+*** CANCELLED Investigate Buffer
     SCHEDULED: <2013-08-05 Mon> DEADLINE: <2013-08-18 Sun>
 
   :LOGBOOK:
+  - State "CANCELLED"  from "TODO"       [2013-08-07 Wed 17:04] \\
+    Buffer doesn't support google+ which is the most important for me!
   :END:
   :PROPERTIES:
   :ID:       a2bb01fc-09bb-491c-9ee4-48fc124992c5
@@ -1323,6 +1325,10 @@ http://askubuntu.com/questions/198136/error-when-trying-to-connect-to-vpn-on-sta
   :END:
 ** Organisation
   :LOGBOOK:
+  CLOCK: [2013-08-09 Fri 09:22]--[2013-08-09 Fri 09:45] =>  0:23
+  CLOCK: [2013-08-07 Wed 16:56]--[2013-08-07 Wed 17:04] =>  0:08
+  CLOCK: [2013-08-07 Wed 16:28]--[2013-08-07 Wed 16:53] =>  0:25
+  CLOCK: [2013-08-07 Wed 09:00]--[2013-08-07 Wed 09:44] =>  0:44
   CLOCK: [2013-08-06 Tue 15:55]--[2013-08-06 Tue 18:09] =>  2:14
   CLOCK: [2013-08-06 Tue 09:55]--[2013-08-06 Tue 13:05] =>  3:10
   CLOCK: [2013-08-05 Mon 16:30]--[2013-08-05 Mon 17:45] =>  1:15

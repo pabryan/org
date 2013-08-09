@@ -50,3 +50,25 @@ Maybe make some points about how I could write the code to present data from spn
   :END:
 [2013-08-06 Tue 21:05]
 this way I can track upstream and keep my work independent and then merge, push to upstream etc. as appropriate
+* TODO Write lecture log for courses
+[2013-08-07 Wed 16:53]
+* TODO Put publish dir on Dropbox not Dropbox/$HOSTNAME
+  :LOGBOOK:
+  CLOCK: [2013-08-07 Wed 16:53]--[2013-08-07 Wed 16:54] =>  0:01
+  :END:
+[2013-08-07 Wed 16:53]
+* TODO Make course symlinks in build
+  :LOGBOOK:
+  CLOCK: [2013-08-07 Wed 16:54]--[2013-08-07 Wed 16:56] =>  0:02
+  :END:
+[2013-08-07 Wed 16:54]
+Maybe I could have a links file that is ignored in _config.yml (so it's not published) that has some links to create post-deploy (e.g. math20d -> math20d_summer2_2013)
+* TODO Make a list of required softwared
+  :LOGBOOK:
+  CLOCK: [2013-08-09 Fri 09:20]--[2013-08-09 Fri 09:22] =>  0:02
+  :END:
+[2013-08-09 Fri 09:20]
+- Some obvious ones like emacs probably don't matter.
+- org-mode is important and obvious. It looks like org works even without this package installed, so I probably should have it in the list to avoid confusion.
+- jekyll, ruby, rubygems
+- hg-autosync
