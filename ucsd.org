@@ -3553,9 +3553,11 @@ Lectures in calendar and tasks like planning lectures.
 	:ID:       4a202266-f308-4102-925f-4ec6ca3b5b36
 	:END:
 ******* TODO Midterm 1
-******** NEXT Write Midterm 1
+******** DONE Write Midterm 1
 	 DEADLINE: <2013-08-08 Thu>
 	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2013-08-08 Thu 19:24]
+	  CLOCK: [2013-08-08 Thu 19:10]--[2013-08-08 Thu 19:24] =>  0:14
 	  - State "NEXT"       from "DONE"       [2013-08-08 Thu 19:10] \\
 	    Need to fix a typo.
 	  - State "DONE"       from "NEXT"       [2013-08-02 Fri 11:33]
@@ -3714,6 +3716,7 @@ Lectures in calendar and tasks like planning lectures.
 ******** NEXT Prepare Lecture 2.3
 	 DEADLINE: <2013-08-16 Fri>
 	 :LOGBOOK:
+	 CLOCK: [2013-08-08 Thu 19:27]
 	 CLOCK: [2013-08-08 Thu 12:40]--[2013-08-08 Thu 13:10] =>  0:30
 	 :END:
 	 :PROPERTIES:
