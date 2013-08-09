@@ -3553,9 +3553,11 @@ Lectures in calendar and tasks like planning lectures.
 	:ID:       4a202266-f308-4102-925f-4ec6ca3b5b36
 	:END:
 ******* TODO Midterm 1
-******** DONE Write Midterm 1
-	  DEADLINE: <2013-08-08 Thu>
+******** NEXT Write Midterm 1
+	 DEADLINE: <2013-08-08 Thu>
 	  :LOGBOOK:
+	  - State "NEXT"       from "DONE"       [2013-08-08 Thu 19:10] \\
+	    Need to fix a typo.
 	  - State "DONE"       from "NEXT"       [2013-08-02 Fri 11:33]
 	  CLOCK: [2013-08-02 Fri 11:18]--[2013-08-02 Fri 11:33] =>  0:15
 	  CLOCK: [2013-08-02 Fri 09:50]--[2013-08-02 Fri 11:12] =>  1:22
@@ -3563,13 +3565,14 @@ Lectures in calendar and tasks like planning lectures.
 	 :PROPERTIES:
 	 :ID:       ed16bfa1-ecf2-435f-9bb7-d1857c9075d3
 	 :END:
-******** WAITING Get TA's comments
+******** DONE Get TA's comments
 	 :LOGBOOK:
+	 - State "DONE"       from "WAITING"    [2013-08-08 Thu 19:10]
 	 - State "WAITING"    from "NEXT"       [2013-08-08 Thu 10:37] \\
 	   Waiting for TA's comments.
 	 CLOCK: [2013-08-08 Thu 10:31]--[2013-08-08 Thu 10:38] =>  0:07
 	 :END:
-******** TODO Submit midterm to printing/frdesk
+******** NEXT Submit midterm to printing/frdesk
 	 DEADLINE: <2013-08-09 Fri>
 ******* TODO Midterm 2
 ******** NEXT Write Midterm 2
