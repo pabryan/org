@@ -2008,8 +2008,7 @@ a
    - State "TODO"       from "DONE"       [2013-06-02 Sun 10:54] \\
      Re-instated since I need to put in reimbursement form.
    - State "DONE"       from "TODO"       [2013-05-13 Mon 18:14]
-   :LOGBOOK:
-   CLOCK: [2013-08-10 Sat 10:55]
+   :LOGBOOK:   
    CLOCK: [2013-05-11 Sat 09:00]--[2013-05-11 Sat 12:30] =>  3:30
    CLOCK: [2013-05-11 Sat 09:00]--[2013-05-11 Sat 17:30] =>  8:30
    CLOCK: [2013-03-29 Fri 10:49]--[2013-03-29 Fri 10:54] =>  0:05
