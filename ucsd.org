@@ -3813,6 +3813,7 @@ Lectures in calendar and tasks like planning lectures.
 ******** NEXT Lecture log 1.3
 	 DEADLINE: <2013-08-10 Sat>
 	 :LOGBOOK:
+	 CLOCK: [2013-08-10 Sat 12:25]--[2013-08-10 Sat 13:21] =>  0:56
 	 CLOCK: [2013-08-10 Sat 11:08]--[2013-08-10 Sat 11:52] =>  0:44
 	 :END:
 	 :PROPERTIES:
@@ -4137,7 +4138,7 @@ APM B412
 ******** NEXT Prepare Lecture 2.1
 	 DEADLINE: <2013-08-12 Mon>
 	 :LOGBOOK:
-	 CLOCK: [2013-08-10 Sat 11:52]
+	 CLOCK: [2013-08-10 Sat 11:52]--[2013-08-10 Sat 12:25] =>  0:33
 	 :END:
 	 :PROPERTIES:
 	 :ID:       b3e4a37b-8a75-4328-8e1c-3db9435b08b2
