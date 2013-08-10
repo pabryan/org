@@ -342,6 +342,9 @@ Can we suspend loan repayments for a few months?
   :LOGBOOK:
   CLOCK: [2013-08-04 Sun 09:48]--[2013-08-04 Sun 09:49] =>  0:01
   :END:
+    :PROPERTIES:
+    :ID:       96cb3107-6a4e-4647-bbd8-8c1827233874
+    :END:
 [2013-08-04 Sun 09:48]
 - Netflix $9
 - Naturebox $20
@@ -1004,6 +1007,9 @@ fluff sheets 1d/2d
      - State "WAITING"    from "TODO"       [2013-08-04 Sun 15:08] \\
        Reported to del sol management and awaiting respone.
      :END:
+     :PROPERTIES:
+     :ID:       9eebb5ad-2b98-42cc-a543-edf2f35c8314
+     :END:
 [2013-08-04 Sun 09:58]
 
 * Notes 							      :NOTES:
@@ -1599,6 +1605,9 @@ https://www.wizards.com/dnd/dndnext.aspx
 *** Media Files
 **** TODO Convert videos to mp4
      SCHEDULED: <2013-08-18 Sun>
+     :PROPERTIES:
+     :ID:       52661fff-81b4-4e8b-b710-3ffb492893d7
+     :END:
 [2013-08-04 Sun 09:42]
 *** UPNP sharing
 *** Media center

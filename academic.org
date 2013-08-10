@@ -256,6 +256,9 @@ Decided not to do it.
   :LOGBOOK:
   CLOCK: [2013-08-04 Sun 09:49]--[2013-08-04 Sun 09:50] =>  0:01
   :END:
+     :PROPERTIES:
+     :ID:       476516a1-65f1-4bb8-9a88-f865ab70da09
+     :END:
 [2013-08-04 Sun 09:49]
 - Clone selected papers
 - Use overflow code for up/down voting, badges, reputation etc.. Google+ has +1. Where does the data get stored?
@@ -615,9 +618,18 @@ Let $\xi(p_0, q_0) = 0$ if $\tang_{p_0}=\tang_{q_0}$ and $1$ otherwise. Then I c
     :END:
 There is a remark by Ben that our function comes from seeking a similarity solution. Does this work for general $f$?
 ******* TODO Angenent comparison of curvature integrals
+	:PROPERTIES:
+	:ID:       5545cf87-d1a5-4ed8-bdba-e11495732909
+	:END:
 ******** NEXT Write up convex comparison
+	 :PROPERTIES:
+	 :ID:       a8e2e0d7-14d9-4704-ab19-708177f1e7cb
+	 :END:
 - Ben has this for convex curves
 ******** NEXT Examine comparison with convex hull
+	 :PROPERTIES:
+	 :ID:       de6f2aa9-4db0-4bcf-b8ed-1a2ffc3e58f5
+	 :END:
 - Does the convex hull have better integrals of curvature?
 ***** Notes
 MR2225802 gives conditions for when non-trivial self-similar solutions exist.
@@ -992,6 +1004,9 @@ Can we deduce long-time behaviour from the support function?
 	:END: 
 - Calculate evolution equation of dual body.
 ******* TODO Show dual relationship of Gauss curvature
+	:PROPERTIES:
+	:ID:       6c9127a1-0cb7-4023-ae27-5c48a20c30e9
+	:END:
 - There should be a point where $\gk/\dual{\gc} = 1$.
 ****** TODO Wulff shape
        :PROPERTIES:
@@ -999,10 +1014,19 @@ Can we deduce long-time behaviour from the support function?
        :END: 
 - $\exp(s(x) \nor(x) + \grad s(x))$ parametrises the Wulff shape of $M$. 
 ******* NEXT Work out relationship with original hypersurface
+	:PROPERTIES:
+	:ID:       fcdd2174-8caf-451c-b536-6a76c44654bf
+	:END:
 -  In particular how do the curvatures relate?
   
 ******* TODO Work out Harnack/curvature bound for Wulff shape
+	:PROPERTIES:
+	:ID:       e66172ff-cf15-407d-99fe-8782822408c6
+	:END:
 ******** NEXT Try Ben's computations in $\HH^n$
+	 :PROPERTIES:
+	 :ID:       989cbd98-0e73-4114-9a2f-85d242456214
+	 :END:
 ***** Refs
 [[file:~/research_resources/draftpapers/hyperbolic_130113.pdf]]
 *** Future							    :SOMEDAY:
@@ -1196,6 +1220,9 @@ Look at all dark matter papers. Alan Parry also. Bibliography of course!
        :ID:       831b7f47-ac24-4779-a485-f627e289934a
        :END:
 ***** TODO Compile existing content
+      :PROPERTIES:
+      :ID:       95792719-f4e8-45ff-bf7c-7283c2a2dd2e
+      :END:
 ****** NEXT Check Mat's, Charlie's and my work and how it fits together.
        :PROPERTIES:
        :ID:       189cc302-8dde-4aa2-818e-66d4b9dd0c9f
@@ -1212,9 +1239,21 @@ In particular, put more detail in.
        :END:
 
 ***** TODO bitbucket pages
+      :PROPERTIES:
+      :ID:       558c976f-d61f-4f98-afc5-6f3f11277748
+      :END:
 ****** NEXT Start issue tracker
+       :PROPERTIES:
+       :ID:       8dc6bc00-b7cb-4e03-b1c0-d84ffcf1091f
+       :END:
 ****** NEXT Put ideas on wiki
+       :PROPERTIES:
+       :ID:       b99ca8a3-7b7b-4d9d-be61-fcfba1019b39
+       :END:
 ****** NEXT Get Mat and Charlie set up on Bitbucket
+       :PROPERTIES:
+       :ID:       40724f2e-ee2a-44e5-898e-9dd4158b4c06
+       :END:
 ***** TODO Extra Topics
       :PROPERTIES:
       :ID:       91473ce5-db9d-4368-a988-0f8de97343a0
@@ -1248,8 +1287,17 @@ In particular, put more detail in.
        :ID:       13a43b9f-745a-4e93-98b2-c7f7ae405b8e
        :END: 
 ****** TODO Check out translations by vector fields
+       :PROPERTIES:
+       :ID:       02cf7089-61b3-453b-a07f-a5b7aa225046
+       :END:
 ****** TODO Check out minimal surfaces in huisken's density metric
+       :PROPERTIES:
+       :ID:       abfe2590-640c-4827-8c23-5fef8f106cf8
+       :END:
 ****** TODO Check out $F$-stability
+       :PROPERTIES:
+       :ID:       3c489022-ad35-404c-a21b-0bd83d5f93d5
+       :END:
 ***** DONE See if I can use body-only somewhere to export to mutliple files
       :LOGBOOK:
       - State "DONE"       from "NEXT"       [2013-08-04 Sun 16:41]
@@ -1356,6 +1404,9 @@ In particular I want the combinatorial algebra
     :ID:       27dd1954-9abe-4a87-9bcd-36027c643fdb
     :END:
 **** NEXT Research how to index papers
+     :PROPERTIES:
+     :ID:       4a632042-e8de-4168-8909-83e146fbd7c7
+     :END:
 - Can I export to something browseable/searchable on android/web?
 - Could I export to the web and link to dropbox somehow? I'd need links to dropbox though...
 **** TODO File hard copies under bib key
@@ -1515,6 +1566,9 @@ I'd like to be able to use org-mode views to show papers/books by a given author
   :LOGBOOK:
   CLOCK: [2013-08-04 Sun 09:50]--[2013-08-04 Sun 09:54] =>  0:04
   :END:
+     :PROPERTIES:
+     :ID:       d5bb8388-e989-476a-80cb-f4c147b515a9
+     :END:
 [2013-08-04 Sun 09:50]
 - Harnack ineq to prove ancient soln's are concave -> classification?
 - dist comp on surfaces
@@ -1552,6 +1606,9 @@ Schedule time for research, for teaching and for non-research academic work (e.g
 [2013-07-15 Mon 10:02]
 *** TODO Make create research project capture
   SCHEDULED: <2013-08-18 Sun>
+    :PROPERTIES:
+    :ID:       89aab08c-03b4-4561-b868-45bc0088ba34
+    :END:
 [2013-08-04 Sun 09:46]
 
 ** Research ideas
