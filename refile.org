@@ -108,3 +108,5 @@ Maybe I could have a links file that is ignored in _config.yml (so it's not publ
 - org-mode is important and obvious. It looks like org works even without this package installed, so I probably should have it in the list to avoid confusion.
 - jekyll, ruby, rubygems
 - hg-autosync
+* TODO Only show tasks for 7 days
+[2013-08-10 Sat 09:33]
