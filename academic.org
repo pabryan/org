@@ -982,24 +982,35 @@ I think all the above can be generalised to Lie groups with bi-invariant metric 
 
 ****** Wulff Shape
 ******* Ambient Space
-Let \(N, \metric\) be a Riemannian manifold with a Gauss/Translation map \(\tau\) (with respect to a fixed point \(0\in N\)) given by
+Let \(N, \metric\) be a Riemannian manifold with a Gauss map \(\tau\) (with respect to a fixed point \(0\in N\)) given by
 \[
-\tau: TN \to T_0 N.
+\mu: TN \to T_0 N.
 \]
 The precise set of such \(N\) is the set of parallelisable manifolds. In particular, this includes \(\RR^n\), \(\HH^n\) and Lie groups.
 
-We also require that there is a diffeomorphism \(T_0 N \to N\). Such a diffemorphism can be obtained for Hadamard-manifolds (complete, non-positive sectional curvature) by the exponential map for instance.
+We also require that there is a diffeomorphism \(T_0 N \to N\). Such a diffemorphism can be obtained for Hadamard-manifolds (complete, non-positive sectional curvature) by the exponential map for instance. Precomposing with \(\mu\) we obtain a map
+\[
+T: TN \to N
+\]
 
 *Question*: Does \(N\) parallelisable imply the existence of such a diffeomorphism?
 
-Now consider the pair \((N, \metric), V)\) where \(V\) is a vector field on \(N\). In particular, we would like some compatability between \(V\) and the metric \(\metric\). The ideal situation would be for \(V\) to be a Killing vector field, but conformal Killing may be enough and even pseudo-conformal Killing may suffice.
+Now consider the pair \((N, \metric), V)\) where \(V\) is a vector field on \(N\). In particular, we would like some compatability between \(V\) and the metric \(\metric\). The ideal situation would be for \(V\) to be a Killing vector field, but conformal Killing may be enough and even pseudo-conformal Killing may suffice. We can now /tranlate/ by \(V\) using the following Translation map
+\[
+\tau: x \in N \mapsto T(V(x)) \in N.
+\]
 
+******* Wulff Parametrisation 
 Now let \(M\subset N\) be an embedded hypersurface with unit normal vector field \(\nor\). The support function of \(M\) with respect to the pair \((N, \metric), V)\) is defined to be
 \[
 s: x \in M \mapsto \metric(V(x), \nor(x)) \in \RR.
 \]
 
-
+The Wulff parametrisation of \(M\) with respect to the pair \((N, \metric), V)\) is now defined to be
+\[
+\phi(x) = \tau \left(s(x) \nor(x) + \grad s (x)\right).
+\]
+The image \(\phi(M)\) is called the /Wulff shape/ of \(M\) with respect to the pair \((N, \metric), V)\).
 
 ****** Questions
 ******* Gauss map paramertisations
