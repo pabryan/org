@@ -1011,7 +1011,16 @@ The /Wulff parametrisation/ of \(M\) with respect to the pair \((N, \metric), V)
 \[
 \phi(x) = \tau \left(s(x) \nor(x) + \grad s (x)\right).
 \]
-The image \(\phi(M)\) is called the /Wulff shape/ of \(M\) with respect to the pair \((N, \metric), V)\).
+The image \(W = W(M (N,\metric), V) = \phi(M)\) is called the /Wulff shape/ of \(M\) with respect to the pair \((N, \metric), V)\).
+
+If one begins with a convex body, the Wulff shape is typically defined to be something like
+\[
+W = \bdry{\cap_{\nor \in \sphere^{n-1}} \{y \in N : \metric(V(y), \nu) \leq s(x)\}.
+\]
+
+******* Anisotropic Mean Curvature
+This is related to an energy for the Wulff paramertisation.
+****** Polar Body
 
 ****** Questions
 ******* Gauss map paramertisations
