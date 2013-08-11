@@ -282,9 +282,17 @@ Decided not to do it.
 [[https://sites.google.com/site/mohammadnivaki/publications]]
 ****** Posts
 ******* Review
-This paper uses a nice idea to obtain a /lower/ curvature bound for the inverse Gauss curvature flow of a family of closed, convex hypersurfaces \(M_t\) in Euclidean space. I think the idea fits into a boader context, which is why I think it's "nice" (that and the fact that it's similar to one I've used myself - more on that later). So what's the idea? The idea is to consider the dual body (http://en.wikipedia.org/wiki/Mahler_volume) \(K^{\circ}_t\) of the convex body \(K_t\) enclosed by \(M_t\). Under the Gauss curvature flow, the boundary of \(M^{\circ}_t\) of \(K^{\circ}_t\) satisfies a very similar evolution equation as the original hypersurface. 
+This paper uses a nice idea to obtain a /lower/ curvature bound for the inverse Gauss curvature flow of a family of closed, convex hypersurfaces \(M_t\) in Euclidean space. I think the idea fits into a boader context, which is why I think it's "nice" (that and the fact that it's similar to one I've used myself - more on that later). So what's the idea? The idea is to consider the polar dual body (http://en.wikipedia.org/wiki/Mahler_volume) \(K^{\circ}_t\) of the convex body \(K_t\) enclosed by \(M_t\). Under the Gauss curvature flow, the boundary of \(M^{\circ}_t\) of \(K^{\circ}_t\) satisfies a very similar evolution equation as does the original hypersurface. 
 
-Around 20 years ago, in an influetntial paper, Tso used the support function (http://en.wikipedia.org/wiki/Support_function) of a convex body to obtain an upper curvature bound for the Gauss curvature flow, which was then later used by Ben Andrews to prove both a Harnack inequality for the Gauss curvature flow of closed, convex hypersurfaces in Euclidean space and to prove the convergence result that closed, convex hypersurfaces in Euclidean space collapse to round points under the Gauss curvature flow. Since the boundary of the dual body satisfies a similar evolution equation to the orginal hypersurface, much the same arguments yield an /upper/ bound for the Gauss curvature of the dual body under the flow. The key point now is that for every \(x \in M_t\)
+Around 20 years ago, in an influetntial paper, Tso used the support function (http://en.wikipedia.org/wiki/Support_function) of a convex body to obtain an upper curvature bound for the Gauss curvature flow, which was then later used by Ben Andrews to prove both a Harnack inequality for the Gauss curvature flow of closed, convex hypersurfaces in Euclidean space and to prove the convergence result that closed, convex hypersurfaces in Euclidean space collapse to round points under the Gauss curvature flow, resolving a conjecture of Firey. Since the boundary of the dual body satisfies a similar evolution equation to the orginal hypersurface, much the same arguments yield an /upper/ bound for the Gauss curvature of the dual body under the flow. The key point now is that for every \(x \in M_t\), there is a point \(x^{\circ}\in M^{\circ}_t\) satisfying
+\[
+GK (x) \times GK(x^{\circ}) = 1
+\]
+where \(GK\) is the Gauss curvature. Thus an upper bound for \(GK^{\circ}\) translates to /lower/ bound for \(GK\). 
+
+Ivaki obtains an upper bound for \(GK\) in the same way as Tso originally did, and a lower bound via the dual body as just described. So \(|GK|\) is uniformly bounded under the flow and standard parabolic boot-strapping arguments then show the hypersurface /expands/ under the inverse Gauss curvature flow, to a round sphere at infinity as $t\to\infty$.
+
+Now, the reason I say this fits into a broader context is that the underlying idea is that one can directly obtain an upper curvature bound by studying the flow, but to obtain a lower bound, one needs to consider some sort of dual object.
 
 #spnetwork #geometricAnalysis #dualBody url:https://sites.google.com/site/mohammadnivaki/publications
 
