@@ -261,7 +261,7 @@ Decided not to do it.
      :END:
 [2013-08-04 Sun 09:49]
 - Clone selected papers
-- Use overflow code for up/down voting, badges, reputation etc.. Google+ has +1. Where does the data get stored?
+- Use overflow code for up/down voting, badges, reputation etc.. Google+ has plus 1. Where does the data get stored?
 - It would also be nice to have profile pages. This can just be Google+, but we might want to pull in some extra data too.
 - Make an overlay reference implementation. Use if for my publications on my website! This should get data from ArXiv and Sel. Papers and present it on any web page.
 - How do we link directly (say from my webpage) to a Selected Papers paper with discussion?

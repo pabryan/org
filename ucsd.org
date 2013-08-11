@@ -4145,17 +4145,26 @@ APM B412
 	 :PROPERTIES:
 	 :ID:       b3e4a37b-8a75-4328-8e1c-3db9435b08b2
 	 :END:
-******** TODO Prepare Lecture 2.2
+******** DONE Prepare Lecture 2.2
 	 DEADLINE: <2013-08-14 Wed>
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2013-08-10 Sat 18:55]
+	 CLOCK: [2013-08-10 Sat 18:30]--[2013-08-10 Sat 18:55] =>  0:25
+	 CLOCK: [2013-08-10 Sat 16:15]--[2013-08-10 Sat 17:00] =>  0:45
+	 :END:
 	 :PROPERTIES:
 	 :ID:       f48f6445-5469-4610-9039-e614ee250409
 	 :END:
-******** TODO Prepare Lecture 2.3
+******** DONE Prepare Lecture 2.3
 	 DEADLINE: <2013-08-16 Fri>
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2013-08-10 Sat 20:10]
+	 CLOCK: [2013-08-10 Sat 19:00]--[2013-08-10 Sat 20:10] =>  1:10
+	 :END:
 	 :PROPERTIES:
 	 :ID:       0e994367-dde1-485f-99f8-22354d0bc798
 	 :END:
-******** TODO Prepare Lecture 3.1
+******** NEXT Prepare Lecture 3.1
 	 DEADLINE: <2013-08-19 Mon>
 	 :PROPERTIES:
 	 :ID:       812e161f-5ad0-458b-94bf-96e7edba766c
