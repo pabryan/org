@@ -934,6 +934,25 @@ Try again to make this exponential barrier work.
 ****** Flow
 In hyperbolic space flow by $(K-1)\nor$. How about in $M(\kappa)$, flow by $(K-\kappa)\nor$ where $M(\kappa)$ is the simply connected space form with constant curvature $\kappa$?
 
+****** Ambient Space
+Let \(N, \metric\) be a Riemannian manifold with a Gauss map \(\tau\) (with respect to a fixed point \(0\in N\)) given by
+\[
+\mu: TN \to T_0 N.
+\]
+The precise set of such \(N\) is the set of parallelisable manifolds. In particular, this includes \(\RR^n\), \(\HH^n\) and Lie groups.
+
+We also require that there is a diffeomorphism \(T_0 N \to N\). Such a diffemorphism can be obtained for Hadamard-manifolds (complete, non-positive sectional curvature) by the exponential map for instance. Precomposing with \(\mu\) we obtain a map
+\[
+T: TN \to N
+\]
+
+*Question*: Does \(N\) parallelisable imply the existence of such a diffeomorphism?
+
+Now consider the pair \((N, \metric), V)\) where \(V\) is a vector field on \(N\). In particular, we would like some compatability between \(V\) and the metric \(\metric\). The ideal situation would be for \(V\) to be a Killing vector field, but conformal Killing may be enough and even pseudo-conformal Killing may suffice. We can now /tranlate/ by \(V\) using the following Translation map
+\[
+\tau: x \in N \mapsto T(V(x)) \in N.
+\]
+
 ****** Support Function
 ******* Definition
 Define
@@ -980,26 +999,13 @@ The following is for after we figure out the simply connected space form situati
 
 I think all the above can be generalised to Lie groups with bi-invariant metric (maybe just left-invariant) and maybe quotients of such Lie groups. Also Killing parallelisable manifolds should be amenable to these techniques and perhaps all we need is manifolds admitting a Killing field. Also, in these cases, I don't think we could use the Gauss map parametrisation so easily and the standard parametrisation may be preferrable. In this situation however, we may make use of the Bochner formula for the support function. In particular, if $V$ is a Killing field (which can be obtained for Lie groups with bi-invariant metrics by left translation of any vector field), the last term in $\laplace s$ above vanishes. 
 
+****** Radial Function
+****** Polar Body
+The Polar dual body \(K^{\circ} = K^{\circ}((N,\metric), V) \subset N\) of convex body \(K \subset N\) is defined to be
+\[
+K^{\circ} = \cap_{x\in M} \{y \in N: \metric(V(y), \nor(x)) \leq 1\}.
+\]
 ****** Wulff Shape
-******* Ambient Space
-Let \(N, \metric\) be a Riemannian manifold with a Gauss map \(\tau\) (with respect to a fixed point \(0\in N\)) given by
-\[
-\mu: TN \to T_0 N.
-\]
-The precise set of such \(N\) is the set of parallelisable manifolds. In particular, this includes \(\RR^n\), \(\HH^n\) and Lie groups.
-
-We also require that there is a diffeomorphism \(T_0 N \to N\). Such a diffemorphism can be obtained for Hadamard-manifolds (complete, non-positive sectional curvature) by the exponential map for instance. Precomposing with \(\mu\) we obtain a map
-\[
-T: TN \to N
-\]
-
-*Question*: Does \(N\) parallelisable imply the existence of such a diffeomorphism?
-
-Now consider the pair \((N, \metric), V)\) where \(V\) is a vector field on \(N\). In particular, we would like some compatability between \(V\) and the metric \(\metric\). The ideal situation would be for \(V\) to be a Killing vector field, but conformal Killing may be enough and even pseudo-conformal Killing may suffice. We can now /tranlate/ by \(V\) using the following Translation map
-\[
-\tau: x \in N \mapsto T(V(x)) \in N.
-\]
-
 ******* Wulff Parametrisation 
 
 Now let \(M\subset N\) be an embedded hypersurface with unit normal vector field \(\nor\). The support function of \(M\) with respect to the pair \((N, \metric), V)\) is defined to be
@@ -1015,12 +1021,12 @@ The image \(W = W(M (N,\metric), V) = \phi(M)\) is called the /Wulff shape/ of \
 
 If one begins with a convex body, the Wulff shape is typically defined to be something like
 \[
-W = \bdry{\cap_{\nor \in \sphere^{n-1}} \{y \in N : \metric(V(y), \nu) \leq s(x)\}.
+W = \bdry{\cap_{x \in M} \{y \in N : \metric(V(y), \nor(x)) \leq s(x)\}.
 \]
+Compare this with the definition of the polar dual.
 
 ******* Anisotropic Mean Curvature
 This is related to an energy for the Wulff paramertisation.
-****** Polar Body
 
 ****** Questions
 ******* Gauss map paramertisations
@@ -1088,7 +1094,7 @@ Can we deduce long-time behaviour from the support function?
 - $\exp(s(x) \nor(x) + \grad s(x))$ parametrises the Wulff shape of $M$. 
 ******* NEXT Work our parametrisation and first and second derivatives
 	:LOGBOOK:
-	CLOCK: [2013-08-11 Sun 10:41]
+	CLOCK: [2013-08-11 Sun 10:41]--[2013-08-11 Sun 11:35] =>  0:54
 	:END:
 ******* TODO Work out relationship with original hypersurface
 	:PROPERTIES:
