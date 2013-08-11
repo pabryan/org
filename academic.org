@@ -1001,12 +1001,13 @@ Now consider the pair \((N, \metric), V)\) where \(V\) is a vector field on \(N\
 \]
 
 ******* Wulff Parametrisation 
+
 Now let \(M\subset N\) be an embedded hypersurface with unit normal vector field \(\nor\). The support function of \(M\) with respect to the pair \((N, \metric), V)\) is defined to be
 \[
 s: x \in M \mapsto \metric(V(x), \nor(x)) \in \RR.
 \]
 
-The Wulff parametrisation of \(M\) with respect to the pair \((N, \metric), V)\) is now defined to be
+The /Wulff parametrisation/ of \(M\) with respect to the pair \((N, \metric), V)\) is now defined to be
 \[
 \phi(x) = \tau \left(s(x) \nor(x) + \grad s (x)\right).
 \]
