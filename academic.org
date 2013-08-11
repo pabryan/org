@@ -253,7 +253,7 @@ Decided not to do it.
 *** Tasks
 **** NEXT Write Ivaki review
      :LOGBOOK:
-     CLOCK: [2013-08-11 Sun 09:40]
+     CLOCK: [2013-08-11 Sun 09:40]--[2013-08-11 Sun 10:41] =>  1:01
      :END:
 [[id:7715f668-b8c3-4b6b-a368-9217788bd2a2][An application of dual convex bodies to the inverse Gauss curvature flow]]
 *** Notes
@@ -980,6 +980,27 @@ The following is for after we figure out the simply connected space form situati
 
 I think all the above can be generalised to Lie groups with bi-invariant metric (maybe just left-invariant) and maybe quotients of such Lie groups. Also Killing parallelisable manifolds should be amenable to these techniques and perhaps all we need is manifolds admitting a Killing field. Also, in these cases, I don't think we could use the Gauss map parametrisation so easily and the standard parametrisation may be preferrable. In this situation however, we may make use of the Bochner formula for the support function. In particular, if $V$ is a Killing field (which can be obtained for Lie groups with bi-invariant metrics by left translation of any vector field), the last term in $\laplace s$ above vanishes. 
 
+****** Wulff Shape
+******* Ambient Space
+Let \(N, \metric\) be a Riemannian manifold with a Gauss/Translation map \(\tau\) (with respect to a fixed point \(0\in N\)) given by
+\[
+\tau: TN \to T_0 N.
+\]
+The precise set of such \(N\) is the set of parallelisable manifolds. In particular, this includes \(\RR^n\), \(\HH^n\) and Lie groups.
+
+We also require that there is a diffeomorphism \(T_0 N \to N\). Such a diffemorphism can be obtained for Hadamard-manifolds (complete, non-positive sectional curvature) by the exponential map for instance.
+
+*Question*: Does \(N\) parallelisable imply the existence of such a diffeomorphism?
+
+Now consider the pair \((N, \metric), V)\) where \(V\) is a vector field on \(N\). In particular, we would like some compatability between \(V\) and the metric \(\metric\). The ideal situation would be for \(V\) to be a Killing vector field, but conformal Killing may be enough and even pseudo-conformal Killing may suffice.
+
+Now let \(M\subset N\) be an embedded hypersurface with unit normal vector field \(\nor\). The support function of \(M\) with respect to the pair \((N, \metric), V)\) is defined to be
+\[
+s: x \in M \mapsto \metric(V(x), \nor(x)) \in \RR.
+\]
+
+
+
 ****** Questions
 ******* Gauss map paramertisations
 Can we parametrise convex hypersurfaces using the Gauss map? Do we need to?
@@ -1044,7 +1065,11 @@ Can we deduce long-time behaviour from the support function?
        :ID:       eee2b199-61dc-4fda-bd51-a55accf9781e
        :END: 
 - $\exp(s(x) \nor(x) + \grad s(x))$ parametrises the Wulff shape of $M$. 
-******* NEXT Work out relationship with original hypersurface
+******* NEXT Work our parametrisation and first and second derivatives
+	:LOGBOOK:
+	CLOCK: [2013-08-11 Sun 10:41]
+	:END:
+******* TODO Work out relationship with original hypersurface
 	:PROPERTIES:
 	:ID:       fcdd2174-8caf-451c-b536-6a76c44654bf
 	:END:
