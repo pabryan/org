@@ -1337,6 +1337,23 @@ http://askubuntu.com/questions/198136/error-when-trying-to-connect-to-vpn-on-sta
 - oldpaul
 - Pictures (link to Camera Uploads?)
 - uni 
+** TODO organise external working
+  SCHEDULED: <2013-09-08 Sun>
+  :LOGBOOK:
+  CLOCK: [2013-08-06 Tue 21:01]--[2013-08-06 Tue 21:05] =>  0:04
+  :END:
+  :PROPERTIES:
+  :ID:       d0680535-9dd7-418f-8002-6a3a54e977ee
+  :END:
+[2013-08-06 Tue 21:01]
+
+- put all ext stuff in working/external. no separate github, bitbucket dirs
+- create symlink set up script. creates Dropbox/$HOSTNAME/org etc. plus Dropbox/publish etc.
+- generate a list of repos and their remote urls into a file
+- put scripts and files in it's own repo
+- check uncomitted uses repo list
+
+
 * Tasks
   :PROPERTIES:
   :ID:       4257fe31-e606-4ca9-a848-858379409679
@@ -2315,10 +2332,11 @@ For the following, do I just use the existing diary.org capture template or perh
 - [ ] Check agenda/focus
 - [ ] Write date into notebook
 
-** NEXT Weekly Review [0/13]
+** NEXT Weekly Review [12/13]
    SCHEDULED: <2013-08-11 Sun +1w>
    :LOGBOOK:
-   CLOCK: [2013-08-11 Sun 20:30]
+   CLOCK: [2013-08-11 Sun 21:03]
+   CLOCK: [2013-08-11 Sun 20:30]--[2013-08-11 Sun 21:02] =>  0:32
    - State "DONE"       from "NEXT"       [2013-08-04 Sun 16:47]
    CLOCK: [2013-08-04 Sun 14:56]--[2013-08-04 Sun 16:47] =>  1:51
    CLOCK: [2013-08-04 Sun 10:54]--[2013-08-04 Sun 10:55] =>  0:01
@@ -2390,31 +2408,31 @@ For the following, do I just use the existing diary.org capture template or perh
 
 What to review:
 
-- [ ] Check follow-up paper folder
-- [ ] Check holding directory
+- [X] Check follow-up paper folder
+- [X] Check holding directory
   [[file:~/holding]]
-- [ ] Check holding email folder
-- [ ] Review weekly agenda =F12 a w//=
-- [ ] Check clocking data for past week =v c=
+- [X] Check holding email folder
+- [X] Review weekly agenda =F12 a w//=
+- [X] Check clocking data for past week =v c=
   - fix up any errors
-- [ ] Review clock report for past week =R=
+- [X] Review clock report for past week =R=
   - Check where we spent time (too much or too little) and rectify this week
-- [ ] Look at entire agenda for today  =F12 SPC=
-- [ ] Check uncommited work
+- [X] Look at entire agenda for today  =F12 SPC=
+- [X] Check uncommited work
 - [ ] Refile tasks
-- [ ] [[*Weekly%20collection%20and%20clean%20up%20%5B0/4%5D][Weekly collection and clean up {0/4}]]
-- [ ] Check Finances
+- [X] [[*Weekly%20collection%20and%20clean%20up%20%5B0/4%5D][Weekly collection and clean up {0/4}]]
+- [X] Check Finances
   - Check bank accounts and compare with what's still to come
-- [ ] Process incoming information
+- [X] Process incoming information
   - feedly
   - pocket
-- [ ] Review projects =F12 SPC //= and =P= repeatedly to view each project
+- [X] Review projects =F12 SPC //= and =P= repeatedly to view each project
   - Unstick stuck projects!
 - start work
   - daily agenda first - knock off items
   - then work on NEXT tasks
 
-** NEXT Weekly collection and clean up [0/4]
+** DONE Weekly collection and clean up [0/4]
    - State "DONE"       from "DONE"       [2013-07-15 Mon 11:08]
    - State "DONE"       from "DONE"       [2013-07-09 Tue 11:19]
    - State "DONE"       from "NEXT"       [2013-06-23 Sun 17:05]
@@ -2427,6 +2445,7 @@ What to review:
    - State "DONE"       from "NEXT"       [2012-12-10 Mon 20:27]
    - State "DONE"       from "NEXT"       [2012-11-30 Fri 14:58]
    :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2013-08-11 Sun 21:10]
   CLOCK: [2013-02-25 Mon 10:09]--[2013-02-25 Mon 10:11] =>  0:02
   CLOCK: [2013-02-13 Wed 13:50]--[2013-02-13 Wed 13:53] =>  0:03
   CLOCK: [2013-02-13 Wed 13:48]--[2013-02-13 Wed 13:49] =>  0:01

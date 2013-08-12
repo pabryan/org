@@ -123,6 +123,12 @@ http://modernizr.com/
      CLOCK: [2013-07-31 Wed 16:43]--[2013-07-31 Wed 17:36] =>  0:53
      :END:
 - Is this useful to me?
+**** TODO rake should create symlinks
+  :PROPERTIES:
+  :ID:       c044d0d3-77f0-43b1-9ac9-1219dac9027c
+  :END:
+[2013-08-06 Tue 20:57]
+
 *** DONE Transfer to org mode
     - State "DONE"       from "NEXT"       [2013-07-24 Wed 11:53]
     :PROPERTIES:
