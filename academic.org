@@ -255,6 +255,9 @@ Decided not to do it.
      :LOGBOOK:
      CLOCK: [2013-08-11 Sun 09:40]--[2013-08-11 Sun 10:41] =>  1:01
      :END:
+     :PROPERTIES:
+     :ID:       58fbf901-2883-431f-ba90-9114d53176fb
+     :END:
 [[id:7715f668-b8c3-4b6b-a368-9217788bd2a2][An application of dual convex bodies to the inverse Gauss curvature flow]]
 *** Notes
 **** TODO Selected papers
@@ -1103,6 +1106,9 @@ Can we deduce long-time behaviour from the support function?
 	:LOGBOOK:
 	CLOCK: [2013-08-11 Sun 10:41]--[2013-08-11 Sun 11:35] =>  0:54
 	:END:
+	:PROPERTIES:
+	:ID:       5f4f6585-b742-4cdd-972c-78febc21aa36
+	:END:
 ******* TODO Work out relationship with original hypersurface
 	:PROPERTIES:
 	:ID:       fcdd2174-8caf-451c-b536-6a76c44654bf
@@ -1122,6 +1128,9 @@ Can we deduce long-time behaviour from the support function?
   :LOGBOOK:
   CLOCK: [2013-08-11 Sun 21:02]--[2013-08-11 Sun 21:03] =>  0:01
   :END:
+       :PROPERTIES:
+       :ID:       7fadaf2b-7464-4376-8cc7-fdcbf6d8635f
+       :END:
 [2013-08-11 Sun 21:02]
 Geometry and Stability OF SURFACES WITH
 CONSTANT ANISOTROPIC MEAN CURVATURE
@@ -2331,6 +2340,9 @@ a
      :ID:       248f2b18-15c7-410a-bafc-67eef8548f4c
      :END:
 **** WAITING PNGS Reimbursement
+     :PROPERTIES:
+     :ID:       c37e7ff6-c1aa-476d-ad8c-c452361a667a
+     :END:
 <2013-09-08 Sun>
 *** Notes
 $Z$ is some quantity like distance, non-collapsing, whatever. $\bar{Z}$ is the extrema over some range; for non-collaping $Z=Z(x,y)$, $\bar{Z}(x)=\sup_y Z(x,y)$. For $Z=d$, $\bar{Z}$ is the sup over $x$ and $y$. These will be over non-compact $M\times M - D$ with $D$ the diagonal. More generally, $Z$ may only be defined away from the cut locus. 

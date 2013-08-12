@@ -508,6 +508,9 @@ Do I make a different TODO keyword for more trying out things/open ended type re
 
 *** TODO Only show tasks for 7 days
   SCHEDULED: <2013-09-08 Sun>
+    :PROPERTIES:
+    :ID:       51c2e4ba-504d-48b1-b452-ccdaba611a68
+    :END:
 [2013-08-10 Sat 09:33]
 ** Hacking
 *** TODO special headlines
@@ -943,7 +946,13 @@ Levenger?
 - maths stuff?
 - can I put metadata into Google+?
 *** TODO Start a Blog/Post to Google+
+    :PROPERTIES:
+    :ID:       afd1f3c5-c47a-4f07-9335-b77b096bf076
+    :END:
 *** TODO Write about using Google+ as a web clipper
+    :PROPERTIES:
+    :ID:       d7cbedf5-136e-4136-96d8-a64feda2c40b
+    :END:
 * office layout
   :PROPERTIES:
   :ID:       827968af-420f-40a1-ac2d-4bbe7192cbc1
