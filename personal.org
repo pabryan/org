@@ -59,12 +59,12 @@ END:
 | Desc       |  Amt |
 |------------+------|
 | Loan       |  500 |
-| ASG        |  125 |
-| Kate Visa  |  275 |
+| ASG        |  135 |
+| Kate Visa  |  500 |
 | Family Tax | -220 |
 |            |      |
-| Out        |  900 |
-| Total      |  680 |
+| Out        | 1135 |
+| Total      |  915 |
    #+TBLFM: @7$2=vsum(@2$2..@4$2)::@8$2=vsum(@2$2..@6$2)
 
 
