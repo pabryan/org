@@ -3686,9 +3686,6 @@ Lectures in calendar and tasks like planning lectures.
 	:ID:       3f43e248-4be9-4244-98d6-d365cea7551c
 	:END:
 ******* TODO Prepare Lectures
-	:LOGBOOK:
-	CLOCK: [2013-08-08 Thu 12:15]--[2013-08-08 Thu 12:16] =>  0:01
-	:END:
 	:PROPERTIES:
 	:ID:       2132ed0e-f368-4cc7-8294-3013b152d93a
 	:END:
@@ -4213,9 +4210,6 @@ APM B412
 	 :ID:       c8b03ed1-4f6e-4c98-a0cd-08c6972691c3
 	 :END:
 ******* TODO Prepare Lectures
-	:LOGBOOK:
-	CLOCK: [2013-08-08 Thu 12:15]--[2013-08-08 Thu 12:16] =>  0:01
-	:END:
 	:PROPERTIES:
 	:ID:       2132ed0e-f368-4cc7-8294-3013b152d93a
 	:END:
@@ -4253,7 +4247,7 @@ APM B412
 	 DEADLINE: <2013-08-12 Mon>
 	 :LOGBOOK:
 	 - State "DONE"       from "NEXT"       [2013-08-08 Thu 12:15]
-	 CLOCK: [2013-08-08 Thu 10:38]--[2013-08-08 Thu 12:15] =>  1:37
+	 #CLOCK: [2013-08-08 Thu 10:38]--[2013-08-08 Thu 12:15] =>  1:37
 	 :END:
 	 :PROPERTIES:
 	 :ID:       b3e4a37b-8a75-4328-8e1c-3db9435b08b2
@@ -4262,7 +4256,7 @@ APM B412
 	 DEADLINE: <2013-08-14 Wed>
 	 :LOGBOOK:
 	 - State "DONE"       from "NEXT"       [2013-08-08 Thu 13:10]
-	 CLOCK: [2013-08-08 Thu 12:16]--[2013-08-08 Thu 12:40] =>  0:24
+	 #CLOCK: [2013-08-08 Thu 12:16]--[2013-08-08 Thu 12:40] =>  0:24
 	 :END:
 	 :PROPERTIES:
 	 :ID:       f48f6445-5469-4610-9039-e614ee250409
@@ -4271,8 +4265,8 @@ APM B412
 	 DEADLINE: <2013-08-16 Fri>
 	 :LOGBOOK:
 	 - State "DONE"       from "NEXT"       [2013-08-08 Thu 20:27]
-	 CLOCK: [2013-08-08 Thu 19:27]--[2013-08-08 Thu 20:27] =>  1:00
-	 CLOCK: [2013-08-08 Thu 12:40]--[2013-08-08 Thu 13:10] =>  0:30
+	 #CLOCK: [2013-08-08 Thu 19:27]--[2013-08-08 Thu 20:27] =>  1:00
+	 #CLOCK: [2013-08-08 Thu 12:40]--[2013-08-08 Thu 13:10] =>  0:30
 	 :END:
 	 :PROPERTIES:
 	 :ID:       0e994367-dde1-485f-99f8-22354d0bc798
