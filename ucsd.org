@@ -3558,7 +3558,10 @@ Lectures in calendar and tasks like planning lectures.
 	:PROPERTIES:
 	:ID:       4a202266-f308-4102-925f-4ec6ca3b5b36
 	:END:
-******* TODO Midterm 1
+******* DONE Midterm 1
+	:LOGBOOK:
+	- State "DONE"       from "TODO"       [2013-08-11 Sun 21:22]
+	:END:
 	:PROPERTIES:
 	:ID:       c377102b-8c4a-409c-8b71-556fcbd48bf6
 	:END:
@@ -3626,7 +3629,10 @@ Lectures in calendar and tasks like planning lectures.
 	 :PROPERTIES:
 	 :ID:       a983c387-2406-48f4-ba40-3075856bddc3
 	 :END:
-****** TODO Homework
+****** DONE Homework
+       :LOGBOOK:
+       - State "DONE"       from "TODO"       [2013-08-11 Sun 21:23]
+       :END:
        :PROPERTIES:
        :ID:       da4b56d1-423c-4f4c-ab2b-0c5b0c5f018c
        :END:
@@ -3753,7 +3759,7 @@ Lectures in calendar and tasks like planning lectures.
 	 :PROPERTIES:
 	 :ID:       0e994367-dde1-485f-99f8-22354d0bc798
 	 :END:
-******** TODO Prepare Lecture 3.1
+******** NEXT Prepare Lecture 3.1
 	 DEADLINE: <2013-08-19 Mon>
 	 :PROPERTIES:
 	 :ID:       812e161f-5ad0-458b-94bf-96e7edba766c
@@ -3917,6 +3923,19 @@ Lectures in calendar and tasks like planning lectures.
 	:PROPERTIES:
 	:ID:       e40dd4e9-540c-4099-a225-fba186d66410
 	:END:
+****** TODO set up Ted for courses
+  SCHEDULED: <2013-08-12 Mon>
+  :PROPERTIES:
+  :ID:       be9382b9-6519-47af-8f3a-64209414c46c
+  :END:
+[2013-08-06 Tue 20:57]
+
+****** TODO make course TA email groups
+  SCHEDULED: <2013-08-12 Mon>
+  :PROPERTIES:
+  :ID:       719879f1-46bc-449d-8250-35dd46c6f3a8
+  :END:
+[2013-08-06 Tue 20:58]
 ***** Clocking
 ****** Admin
 ****** Office hours
@@ -4036,8 +4055,9 @@ APM B412
 	:PROPERTIES:
 	:ID:       00f1f929-ab78-4aca-b232-a59a0455104c
 	:END:
-****** TODO Homework
+****** DONE Homework
        :LOGBOOK:
+       - State "DONE"       from "TODO"       [2013-08-11 Sun 21:23]
        :END:
        :PROPERTIES:
        :ID:       da4b56d1-423c-4f4c-ab2b-0c5b0c5f018c
@@ -4329,6 +4349,12 @@ APM B412
 	:PROPERTIES:
 	:ID:       d6d16cef-411c-47d6-9f49-47e5be3e4509
 	:END:
+******* TODO Matlab link on website
+  SCHEDULED: <2013-08-12 Mon>
+  :PROPERTIES:
+  :ID:       0e217677-6f7c-4a18-8b2c-bbb86a6bf294
+  :END:
+[2013-08-06 Tue 21:00]
 ****** DONE Plan course
        - State "DONE"       from "TODO"       [2013-07-22 Mon 21:24]
 

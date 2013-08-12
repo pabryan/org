@@ -404,6 +404,7 @@
 *** NEXT Evening Stretch
     SCHEDULED: <2013-08-08 Thu .+1d/2d>
     :LOGBOOK:
+    CLOCK: [2013-08-11 Sun 21:25]
     - State "DONE"       from "NEXT"       [2013-08-07 Wed 22:36]
     CLOCK: [2013-08-07 Wed 19:25]--[2013-08-07 Wed 20:10] =>  0:45
     - State "DONE"       from "NEXT"       [2013-08-06 Tue 22:36]

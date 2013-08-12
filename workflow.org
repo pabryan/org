@@ -506,6 +506,9 @@ Can I assign times to do this, or do I just do whatever's appropriate for where 
 [2013-08-04 Sun 10:16]
 Do I make a different TODO keyword for more trying out things/open ended type research?
 
+*** TODO Only show tasks for 7 days
+  SCHEDULED: <2013-09-08 Sun>
+[2013-08-10 Sat 09:33]
 ** Hacking
 *** TODO special headlines
   :LOGBOOK:
@@ -1354,6 +1357,35 @@ http://askubuntu.com/questions/198136/error-when-trying-to-connect-to-vpn-on-sta
 - check uncomitted uses repo list
 
 
+** TODO set up vc_auto_commit cron job and working scan cron job
+  SCHEDULED: <2013-08-12 Mon>
+  :PROPERTIES:
+  :ID:       c2b2de1a-d9d3-4737-931f-605e2bd32978
+  :END:
+[2013-08-06 Tue 21:05]
+** TODO Shoudl I make my own working branch for external repositories
+  SCHEDULED: <2013-09-08 Sun>
+  :LOGBOOK:
+  CLOCK: [2013-08-06 Tue 21:05]--[2013-08-06 Tue 21:06] =>  0:01
+  :END:
+  :PROPERTIES:
+  :ID:       43c12175-a0c5-4770-a25f-d3566fdf40b7
+  :END:
+[2013-08-06 Tue 21:05]
+this way I can track upstream and keep my work independent and then merge, push to upstream etc. as appropriate
+** TODO Make a list of required softwared
+  SCHEDULED: <2013-09-08 Sun>
+  :LOGBOOK:
+  CLOCK: [2013-08-09 Fri 09:20]--[2013-08-09 Fri 09:22] =>  0:02
+  :END:
+  :PROPERTIES:
+  :ID:       acefa897-36da-4ad2-9e0a-23c0205769dc
+  :END:
+[2013-08-09 Fri 09:20]
+- Some obvious ones like emacs probably don't matter.
+- org-mode is important and obvious. It looks like org works even without this package installed, so I probably should have it in the list to avoid confusion.
+- jekyll, ruby, rubygems
+- hg-autosync
 * Tasks
   :PROPERTIES:
   :ID:       4257fe31-e606-4ca9-a848-858379409679
@@ -2022,8 +2054,9 @@ Set some goals for the month. I should check someday projects for inclusion in t
 Check how I did last month. I guess the review and plan could probably go together. This is all broad stuff
 
 ** NEXT Daily Review [0/3]
-   SCHEDULED: <2013-08-07 Wed .+1d/2d>
+   SCHEDULED: <2013-08-12 Mon .+1d/2d>
    :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2013-08-11 Sun 21:25]
    - State "DONE"       from "NEXT"       [2013-08-06 Tue 21:11]
    CLOCK: [2013-08-06 Tue 21:06]--[2013-08-06 Tue 21:17] =>  0:05
    CLOCK: [2013-08-06 Tue 21:00]--[2013-08-06 Tue 21:01] =>  0:01
@@ -2118,7 +2151,7 @@ Check how I did last month. I guess the review and plan could probably go togeth
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
    :ID:       616c5bd9-d941-4fcc-8874-2ff3c9e96b4a
-   :LAST_REPEAT: [2013-08-06 Tue 21:11]
+   :LAST_REPEAT: [2013-08-11 Sun 21:25]
    :END:
 
 What to review:
@@ -2136,8 +2169,9 @@ For the following, do I just use the existing diary.org capture template or perh
 - [ ] Write down any thoughts, relections on the day.
 
 ** NEXT Daily Plan [0/2]
-   SCHEDULED: <2013-08-10 Sat .+1d/2d>
+   SCHEDULED: <2013-08-12 Mon .+1d/2d>
    :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2013-08-11 Sun 09:25]
    CLOCK: [2013-08-11 Sun 09:17]--[2013-08-11 Sun 09:40] =>  0:23
    - State "DONE"       from "NEXT"       [2013-08-09 Fri 09:15]
    - State "DONE"       from "NEXT"       [2013-08-08 Thu 09:02]
@@ -2326,16 +2360,17 @@ For the following, do I just use the existing diary.org capture template or perh
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
    :ID:       ef051ee0-1113-4604-b355-450a5a47848b
-   :LAST_REPEAT: [2013-08-09 Fri 16:59]
+   :LAST_REPEAT: [2013-08-11 Sun 21:25]
    :END:
 
 - [ ] Check agenda/focus
 - [ ] Write date into notebook
 
-** NEXT Weekly Review [12/13]
-   SCHEDULED: <2013-08-11 Sun +1w>
+** NEXT Weekly Review [0/13]
+   SCHEDULED: <2013-08-18 Sun +1w>
    :LOGBOOK:
-   CLOCK: [2013-08-11 Sun 21:03]
+   - State "DONE"       from "NEXT"       [2013-08-11 Sun 21:23]
+   CLOCK: [2013-08-11 Sun 21:03]--[2013-08-11 Sun 21:23] =>  0:20
    CLOCK: [2013-08-11 Sun 20:30]--[2013-08-11 Sun 21:02] =>  0:32
    - State "DONE"       from "NEXT"       [2013-08-04 Sun 16:47]
    CLOCK: [2013-08-04 Sun 14:56]--[2013-08-04 Sun 16:47] =>  1:51
@@ -2403,30 +2438,30 @@ For the following, do I just use the existing diary.org capture template or perh
    :REPEAT_TO_STATE: NEXT
    :ID:       846c05fa-21d7-4e6f-8431-a1fa06631945
    :RESET_CHECK_BOXES: t
-   :LAST_REPEAT: [2013-08-04 Sun 16:47]
+   :LAST_REPEAT: [2013-08-11 Sun 21:23]
    :END:
 
 What to review:
 
-- [X] Check follow-up paper folder
-- [X] Check holding directory
+- [ ] Check follow-up paper folder
+- [ ] Check holding directory
   [[file:~/holding]]
-- [X] Check holding email folder
-- [X] Review weekly agenda =F12 a w//=
-- [X] Check clocking data for past week =v c=
+- [ ] Check holding email folder
+- [ ] Review weekly agenda =F12 a w//=
+- [ ] Check clocking data for past week =v c=
   - fix up any errors
-- [X] Review clock report for past week =R=
+- [ ] Review clock report for past week =R=
   - Check where we spent time (too much or too little) and rectify this week
-- [X] Look at entire agenda for today  =F12 SPC=
-- [X] Check uncommited work
+- [ ] Look at entire agenda for today  =F12 SPC=
+- [ ] Check uncommited work
 - [ ] Refile tasks
-- [X] [[*Weekly%20collection%20and%20clean%20up%20%5B0/4%5D][Weekly collection and clean up {0/4}]]
-- [X] Check Finances
+- [ ] [[*Weekly%20collection%20and%20clean%20up%20%5B0/4%5D][Weekly collection and clean up {0/4}]]
+- [ ] Check Finances
   - Check bank accounts and compare with what's still to come
-- [X] Process incoming information
+- [ ] Process incoming information
   - feedly
   - pocket
-- [X] Review projects =F12 SPC //= and =P= repeatedly to view each project
+- [ ] Review projects =F12 SPC //= and =P= repeatedly to view each project
   - Unstick stuck projects!
 - start work
   - daily agenda first - knock off items

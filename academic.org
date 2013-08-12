@@ -298,6 +298,13 @@ So it seems that for hypersurfaces, or more generally sub-manifolds, upper curva
 
 #spnetwork #geometricAnalysis #dualBody url:https://sites.google.com/site/mohammadnivaki/publications
 
+*** TODO Contact Chris Lee with my idea for geom_anal overlay
+  :PROPERTIES:
+  :ID:       6eab928f-8771-4ca5-aa73-98ba03a2d715
+  :END:
+[2013-08-06 Tue 20:53]
+
+Maybe make some points about how I could write the code to present data from spnet on a website and include that code in spnet
 * Exposition
   :PROPERTIES:
   :ID:       a3ca7af2-21fb-410e-8238-923304c37889
@@ -1110,6 +1117,15 @@ Can we deduce long-time behaviour from the support function?
 	 :PROPERTIES:
 	 :ID:       989cbd98-0e73-4114-9a2f-85d242456214
 	 :END:
+****** TODO Get Koiso and Palmer
+  SCHEDULED: <2013-08-12 Mon>
+  :LOGBOOK:
+  CLOCK: [2013-08-11 Sun 21:02]--[2013-08-11 Sun 21:03] =>  0:01
+  :END:
+[2013-08-11 Sun 21:02]
+Geometry and Stability OF SURFACES WITH
+CONSTANT ANISOTROPIC MEAN CURVATURE
+
 ***** Refs
 [[file:~/research_resources/draftpapers/hyperbolic_130113.pdf]]
 *** Future							    :SOMEDAY:
@@ -1965,6 +1981,22 @@ http://mathoverflow.net/questions/14877/how-much-of-differential-geometry-can-be
 - [[http://link.springer.com/article/10.1007/s00526-011-0481-0]]
 - 
 
+** Open Notebook
+*** Tasks
+**** TODO Open notebook
+  SCHEDULED: <2013-09-08 Sun>
+  :LOGBOOK:
+  CLOCK: [2013-08-06 Tue 20:54]--[2013-08-06 Tue 20:55] =>  0:01
+  :END:
+  :PROPERTIES:
+  :ID:       26f44ff2-31cc-4d48-be04-f0652333ae43
+  :END:
+[2013-08-06 Tue 20:54]
+- start an open notebook
+- contact collaborators and see if I can put our work in it
+- I'll definitely write using org-mode (even wikis with markdown from org)
+- perhaps my work can be on google+, facebook, wordpress whatever and pulled in to my website or vice versa!
+*** Notes
 * Learning							   :LEARNING:
   :PROPERTIES:
   :ID:       0609581e-fe50-48ce-aa33-ce468c217f92
@@ -2087,11 +2119,13 @@ Possible dates: 5/4/13, 12/4/13, 19/4/13
    :END:
    <2013-02-23 Sat 08:30>--<2013-02-24 Sun 14:30>
 a
-** TODO PNGS 2013
+** WAITING PNGS 2013
    - State "TODO"       from "DONE"       [2013-06-02 Sun 10:54] \\
      Re-instated since I need to put in reimbursement form.
    - State "DONE"       from "TODO"       [2013-05-13 Mon 18:14]
    :LOGBOOK:   
+   - State "WAITING"    from "TODO"       [2013-08-11 Sun 21:23] \\
+     Waiting on money now!
    CLOCK: [2013-05-11 Sat 09:00]--[2013-05-11 Sat 12:30] =>  3:30
    CLOCK: [2013-05-11 Sat 09:00]--[2013-05-11 Sat 17:30] =>  8:30
    CLOCK: [2013-03-29 Fri 10:49]--[2013-03-29 Fri 10:54] =>  0:05
