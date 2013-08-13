@@ -3831,7 +3831,7 @@ Lectures in calendar and tasks like planning lectures.
 	 :PROPERTIES:
 	 :ID:       8a8ead54-81ff-4f1e-aac7-28eb5746f809
 	 :END:
-******** TODO Lecture log 2.1
+******** NEXT Lecture log 2.1
 	 DEADLINE: <2013-08-13 Tue>
 	 :PROPERTIES:
 	 :ID:       5fbcd0d4-4204-4a3d-b425-46d62888f00f
@@ -3949,6 +3949,12 @@ APM B412
 	:END:
 <2013-08-05 Mon> 
 ******* Lecture 2.1
+	:LOGBOOK:
+	CLOCK: [2013-08-12 Mon 13:50]--[2013-08-12 Mon 16:20] =>  2:30
+	:END:
+	:PROPERTIES:
+	:ID:       bcb1fd69-bd1b-46f9-8ca1-145c805e0d91
+	:END:
 <2013-08-12 Mon>    
 ******* Lecture 3.1
 <2013-08-19 Mon>    
@@ -4032,8 +4038,6 @@ APM B412
 ***** Notes
 ***** Tasks
 ****** TODO Exams
-       :LOGBOOK:
-       :END:
        :PROPERTIES:
        :ID:       c7681154-0a25-4143-9e3a-9c5e3871c3ef
        :END:
@@ -4254,8 +4258,12 @@ APM B412
 	 :PROPERTIES:
 	 :ID:       6a38ff1b-3067-47d2-865f-3ee872233e96
 	 :END:
-******** TODO Lecture log 2.1
+******** NEXT Lecture log 2.1
 	 DEADLINE: <2013-08-13 Tue>
+	 :LOGBOOK:
+	 CLOCK: [2013-08-12 Mon 12:20]--[2013-08-12 Mon 12:54] =>  0:34
+	 CLOCK: [2013-08-12 Mon 09:30]--[2013-08-12 Mon 09:50] =>  0:20
+	 :END:
 	 :PROPERTIES:
 	 :ID:       a4e2f43c-d878-42aa-bd56-799dece6ae34
 	 :END:
@@ -4375,6 +4383,9 @@ Lectures in calendar and tasks like planning lectures.
 ***** Clocking
 ****** Admin
 ****** Office hours
+       :LOGBOOK:
+       CLOCK: [2013-08-12 Mon 16:20]--[2013-08-12 Mon 17:34] =>  1:14
+       :END:
 ***** Lectures
 ****** Location
 WLH 2113
@@ -4385,6 +4396,12 @@ WLH 2113
 	:END:
 <2013-08-05 Mon>    
 ******* Lecture 2.1
+	:LOGBOOK:
+	CLOCK: [2013-08-12 Mon 09:50]--[2013-08-12 Mon 12:20] =>  2:30
+	:END:
+	:PROPERTIES:
+	:ID:       1a62b144-1ac8-4be4-8e1e-c886f0f41a72
+	:END:
 <2013-08-12 Mon>    
 ******* Lecture 3.1
 <2013-08-19 Mon>    
