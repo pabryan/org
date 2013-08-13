@@ -160,6 +160,7 @@
 *** NEXT Morning Mobility
     SCHEDULED: <2013-08-12 Mon .+1d/2d>
     :LOGBOOK:
+    CLOCK: [2013-08-13 Tue 08:40]--[2013-08-13 Tue 09:00] =>  0:20
     - State "DONE"       from "NEXT"       [2013-08-11 Sun 12:14]
     CLOCK: [2013-08-11 Sun 11:36]--[2013-08-11 Sun 12:14] =>  0:38
     - State "DONE"       from "NEXT"       [2013-08-10 Sat 09:32]
