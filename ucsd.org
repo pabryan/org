@@ -4245,6 +4245,9 @@ APM B412
 	 :ID:       c8b03ed1-4f6e-4c98-a0cd-08c6972691c3
 	 :END:
 ******* TODO Lecture log
+	:LOGBOOK:
+	CLOCK: [2013-08-13 Tue 15:16]
+	:END:
 	:PROPERTIES:
 	:ID:       0512ab7f-5978-47fd-bdaf-f17072dd5d00
 	:END:
@@ -4263,9 +4266,11 @@ APM B412
 	 :PROPERTIES:
 	 :ID:       6a38ff1b-3067-47d2-865f-3ee872233e96
 	 :END:
-******** NEXT Lecture log 2.1
+******** DONE Lecture log 2.1
 	 DEADLINE: <2013-08-13 Tue>
 	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2013-08-13 Tue 15:16]
+	 CLOCK: [2013-08-13 Tue 15:04]--[2013-08-13 Tue 15:16] =>  0:12
 	 CLOCK: [2013-08-12 Mon 12:20]--[2013-08-12 Mon 12:54] =>  0:34
 	 CLOCK: [2013-08-12 Mon 09:30]--[2013-08-12 Mon 09:50] =>  0:20
 	 :END:
