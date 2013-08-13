@@ -1395,12 +1395,13 @@ this way I can track upstream and keep my work independent and then merge, push 
 - org-mode is important and obvious. It looks like org works even without this package installed, so I probably should have it in the list to avoid confusion.
 - jekyll, ruby, rubygems
 - hg-autosync
-* Tasks
+* Clocking
   :PROPERTIES:
   :ID:       4257fe31-e606-4ca9-a848-858379409679
   :END:
 ** Organisation
   :LOGBOOK:
+  CLOCK: [2013-08-13 Tue 12:45]--[2013-08-13 Tue 13:07] =>  0:22
   CLOCK: [2013-08-13 Tue 11:43]--[2013-08-13 Tue 11:45] =>  0:02
   CLOCK: [2013-08-13 Tue 10:06]--[2013-08-13 Tue 10:15] =>  0:09
   CLOCK: [2013-08-12 Mon 17:34]--[2013-08-12 Mon 17:36] =>  0:02
@@ -2016,28 +2017,6 @@ this way I can track upstream and keep my work independent and then merge, push 
   :ID:       d1b2e733-536a-4601-93c1-b3a544f11c16
   :END:
    
-** NEXT Transcribe notes
-   - State "DONE"       from "NEXT"       [2013-02-06 Wed 20:01]
-   - State "DONE"       from "NEXT"       [2012-12-24 Mon 16:25]
-   - State "DONE"       from "NEXT"       [2012-12-05 Wed 19:55]
-    :LOGBOOK:
-  CLOCK: [2013-02-06 Wed 19:45]--[2013-02-06 Wed 20:01] =>  0:16
-  CLOCK: [2013-02-06 Wed 19:41]--[2013-02-06 Wed 19:44] =>  0:03
-  CLOCK: [2013-02-06 Wed 19:39]--[2013-02-06 Wed 19:40] =>  0:01
-  CLOCK: [2013-01-08 Tue 14:16]--[2013-01-08 Tue 15:07] =>  0:51
-    CLOCK: [2012-12-24 Mon 15:51]--[2012-12-24 Mon 16:25] =>  0:34
-    CLOCK: [2012-12-05 Wed 18:48]--[2012-12-05 Wed 18:50] =>  0:02
-    CLOCK: [2012-12-05 Wed 17:50]--[2012-12-05 Wed 18:36] =>  0:46
-    :END:
-    :PROPERTIES:
-    :STYLE:    habit
-    :REPEAT_TO_STATE: NEXT
-    :ID:       3908a11d-fd52-4335-9257-656bf9bd4692
-    :LAST_REPEAT: [2013-02-06 Wed 20:01]
-    :END:
-
-This only needs to be from my small notebook and just what's necessary to be transcribed into the computer such as tasks, ideas etc.
-
 * Reviews and Plans
   :PROPERTIES:
   :ID:       c3fc0372-36c9-4bc4-9aac-99a6df0b741d

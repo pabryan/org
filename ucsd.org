@@ -3759,10 +3759,11 @@ Lectures in calendar and tasks like planning lectures.
 	 :PROPERTIES:
 	 :ID:       0e994367-dde1-485f-99f8-22354d0bc798
 	 :END:
-******** NEXT Prepare Lecture 3.1
+******** DONE Prepare Lecture 3.1
 	 DEADLINE: <2013-08-19 Mon>
 	 :LOGBOOK:
-	 CLOCK: [2013-08-13 Tue 11:45]
+	 - State "DONE"       from "NEXT"       [2013-08-13 Tue 12:45]
+	 CLOCK: [2013-08-13 Tue 11:45]--[2013-08-13 Tue 12:45] =>  1:00
 	 CLOCK: [2013-08-13 Tue 10:28]--[2013-08-13 Tue 10:54] =>  0:26
 	 :END:
 	 :PROPERTIES:
