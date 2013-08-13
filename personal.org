@@ -434,7 +434,6 @@ Can we suspend loan repayments for a few months?
     #+TBLFM: @14$2=vsum(@2$2..@13$2)
 
 
-
 * Health 							     :HEALTH:
   :PROPERTIES:
   :ID:       d9d7d0ec-a6b9-4451-ae42-5519eba7be50

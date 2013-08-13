@@ -512,6 +512,9 @@ Do I make a different TODO keyword for more trying out things/open ended type re
     :ID:       51c2e4ba-504d-48b1-b452-ccdaba611a68
     :END:
 [2013-08-10 Sat 09:33]
+*** TODO Organise org-mode tasks better!
+*** TODO org-mode aware diff
+- This is just the ordinary diff with headlines thought of as files/directories (which can contain content and also other files which is slightly different to the filesystem). Recursing is just recursing headlines and reports can say things like "Headlines A and B differ" and we can show differences in contents of headlines.
 ** Hacking
 *** TODO special headlines
   :LOGBOOK:
@@ -953,6 +956,8 @@ Levenger?
     :PROPERTIES:
     :ID:       d7cbedf5-136e-4136-96d8-a64feda2c40b
     :END:
+*** TODO Include Goolge+ on webiste (via rss?)
+*** TODO How to post to Facebook and Google+ simultaneously?
 * office layout
   :PROPERTIES:
   :ID:       827968af-420f-40a1-ac2d-4bbe7192cbc1
@@ -1047,6 +1052,8 @@ Key numbers: FR428, FR382.
   :PROPERTIES:
   :ID:       2caac482-7221-4934-a479-25d3cbb12d55
   :END:
+** NEXT Set up emacs server
+   SCHEDULED: <2013-08-18 Sun>
 ** NEXT Research Backups for android devices			   :COMPUTER:
 What do I need to backup? I try to keep data in the cloud. I guess saved games and whatnot would be good to keep. Also there is some config, at least a list of apps!
   CLOCK: [2012-10-24 Wed 12:27]--[2012-10-24 Wed 12:27] =>  0:00
@@ -1401,6 +1408,7 @@ this way I can track upstream and keep my work independent and then merge, push 
   :END:
 ** Organisation
   :LOGBOOK:
+  CLOCK: [2013-08-13 Tue 14:48]
   CLOCK: [2013-08-13 Tue 12:45]--[2013-08-13 Tue 13:07] =>  0:22
   CLOCK: [2013-08-13 Tue 11:43]--[2013-08-13 Tue 11:45] =>  0:02
   CLOCK: [2013-08-13 Tue 10:06]--[2013-08-13 Tue 10:15] =>  0:09
