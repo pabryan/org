@@ -8,15 +8,16 @@
 
 ** Tracking
 *** NEXT Exercise
-    SCHEDULED: <2013-08-12 Mon .+1d/2d>
+    SCHEDULED: <2013-08-14 Wed .+1d/2d>
     :PROPERTIES:
     :STYLE:    habit
     :REPEAT_TO_STATE: NEXT
     :ID:       8d56b2ef-1b49-4dc4-b701-1d021a293fa4
-    :LAST_REPEAT: [2013-08-11 Sun 20:26]
+    :LAST_REPEAT: [2013-08-13 Tue 19:25]
     :END:
     :LOGBOOK:
-    CLOCK: [2013-08-13 Tue 16:16]
+    - State "DONE"       from "NEXT"       [2013-08-13 Tue 19:25]
+    CLOCK: [2013-08-13 Tue 16:16]--[2013-08-13 Tue 19:25] =>  3:09
     - State "DONE"       from "NEXT"       [2013-08-11 Sun 20:26]
     CLOCK: [2013-08-11 Sun 19:20]--[2013-08-11 Sun 20:26] =>  1:06
     - State "DONE"       from "NEXT"       [2013-08-10 Sat 09:32]
@@ -307,8 +308,9 @@
     :END:
 
 *** NEXT Afternoon Relax
-    SCHEDULED: <2013-08-12 Mon .+1d/2d>
+    SCHEDULED: <2013-08-14 Wed .+1d/2d>
     :LOGBOOK:
+    - State "DONE"       from "NEXT"       [2013-08-13 Tue 19:25]
     - State "DONE"       from "NEXT"       [2013-08-11 Sun 20:25]
     CLOCK: [2013-08-11 Sun 15:50]--[2013-08-11 Sun 18:15] =>  2:25
     - State "DONE"       from "NEXT"       [2013-08-08 Thu 19:04]
@@ -401,7 +403,7 @@
     :STYLE:    habit
     :REPEAT_TO_STATE: NEXT
     :ID:       c0aaf33a-af77-446b-b9fd-cf2d2f78c12a
-    :LAST_REPEAT: [2013-08-11 Sun 20:25]
+    :LAST_REPEAT: [2013-08-13 Tue 19:25]
     :END:
   
 *** NEXT Evening Stretch
@@ -489,8 +491,9 @@
     :END:
   
 *** NEXT Handstand practice
-    SCHEDULED: <2013-08-07 Wed .+1d/2d>
+    SCHEDULED: <2013-08-14 Wed .+1d/2d>
     :LOGBOOK:
+    - State "DONE"       from "NEXT"       [2013-08-13 Tue 19:25]
     - State "DONE"       from "NEXT"       [2013-08-06 Tue 22:36]
     - State "DONE"       from "NEXT"       [2013-08-05 Mon 21:10]
     - State "DONE"       from "NEXT"       [2013-08-02 Fri 23:10]
@@ -504,7 +507,7 @@
     :PROPERTIES:
     :STYLE:    habit
     :REPEAT_TO_STATE: NEXT
-    :LAST_REPEAT: [2013-08-06 Tue 22:36]
+    :LAST_REPEAT: [2013-08-13 Tue 19:25]
     :ID:       f57232cd-a8f2-4a76-a507-4d69f765a521
     :END:
 ** Old Tracking
