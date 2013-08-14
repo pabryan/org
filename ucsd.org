@@ -3932,15 +3932,21 @@ Lectures in calendar and tasks like planning lectures.
 	:PROPERTIES:
 	:ID:       e40dd4e9-540c-4099-a225-fba186d66410
 	:END:
-****** TODO set up Ted for courses
+****** DONE set up Ted for courses
   SCHEDULED: <2013-08-12 Mon>
+  :LOGBOOK:
+  - State "DONE"       from "TODO"       [2013-08-13 Tue 21:04]
+  :END:
   :PROPERTIES:
   :ID:       be9382b9-6519-47af-8f3a-64209414c46c
   :END:
 [2013-08-06 Tue 20:57]
 
-****** TODO make course TA email groups
+****** DONE make course TA email groups
   SCHEDULED: <2013-08-12 Mon>
+  :LOGBOOK:
+  - State "DONE"       from "TODO"       [2013-08-13 Tue 21:08]
+  :END:
   :PROPERTIES:
   :ID:       719879f1-46bc-449d-8250-35dd46c6f3a8
   :END:
@@ -4368,8 +4374,11 @@ APM B412
 	:PROPERTIES:
 	:ID:       d6d16cef-411c-47d6-9f49-47e5be3e4509
 	:END:
-******* TODO Matlab link on website
+******* DONE Matlab link on website
   SCHEDULED: <2013-08-12 Mon>
+  :LOGBOOK:
+  - State "DONE"       from "TODO"       [2013-08-13 Tue 21:09]
+  :END:
   :PROPERTIES:
   :ID:       0e217677-6f7c-4a18-8b2c-bbb86a6bf294
   :END:

@@ -482,9 +482,10 @@ http://plantuml.sourceforge.net/
     :ID:       e7d3213d-1978-4333-83da-2cb3d33b55c6
     :END:
 [2013-08-04 Sun 10:12]
-*** TODO Work out some weekly timing/planning
+*** DONE Work out some weekly timing/planning
     SCHEDULED: <2013-08-05 Mon>
   :LOGBOOK:
+  - State "DONE"       from "TODO"       [2013-08-13 Tue 20:54]
   CLOCK: [2013-08-04 Sun 10:14]--[2013-08-04 Sun 10:16] =>  0:02
   :END:
     :PROPERTIES:
@@ -1351,12 +1352,8 @@ http://askubuntu.com/questions/198136/error-when-trying-to-connect-to-vpn-on-sta
   :ID:       0e68f31b-e91f-401c-ac82-eec9b69a9485
   :END:
 [2013-07-30 Tue 19:49]
-- bitbucket
-- Documents
-- dvdrip-data
 - mutable
 - oldpaul
-- Pictures (link to Camera Uploads?)
 - uni 
 ** TODO organise external working
   SCHEDULED: <2013-09-08 Sun>
@@ -1410,6 +1407,7 @@ this way I can track upstream and keep my work independent and then merge, push 
   :END:
 ** Organisation
   :LOGBOOK:
+  CLOCK: [2013-08-13 Tue 21:09]
   CLOCK: [2013-08-13 Tue 20:35]--[2013-08-13 Tue 20:48] =>  0:13
   CLOCK: [2013-08-13 Tue 16:08]--[2013-08-13 Tue 16:16] =>  0:08
   CLOCK: [2013-08-13 Tue 14:48]--[2013-08-13 Tue 15:04] =>  0:16
@@ -2058,9 +2056,10 @@ Set some goals for the month. I should check someday projects for inclusion in t
 Check how I did last month. I guess the review and plan could probably go together. This is all broad stuff
 
 ** NEXT Daily Review [0/3]
-   SCHEDULED: <2013-08-12 Mon .+1d/2d>
+   SCHEDULED: <2013-08-14 Wed .+1d/2d>
    :LOGBOOK:
-   CLOCK: [2013-08-13 Tue 20:48]
+   - State "DONE"       from "NEXT"       [2013-08-13 Tue 21:09]
+   CLOCK: [2013-08-13 Tue 20:48]--[2013-08-13 Tue 21:09] =>  0:21
    - State "DONE"       from "NEXT"       [2013-08-11 Sun 21:25]
    - State "DONE"       from "NEXT"       [2013-08-06 Tue 21:11]
    CLOCK: [2013-08-06 Tue 21:06]--[2013-08-06 Tue 21:17] =>  0:05
@@ -2156,7 +2155,7 @@ Check how I did last month. I guess the review and plan could probably go togeth
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
    :ID:       616c5bd9-d941-4fcc-8874-2ff3c9e96b4a
-   :LAST_REPEAT: [2013-08-11 Sun 21:25]
+   :LAST_REPEAT: [2013-08-13 Tue 21:09]
    :END:
 
 What to review:
