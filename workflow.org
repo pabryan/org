@@ -452,6 +452,9 @@ If I'm working on a project, I want an agenda view showing me just that project.
 
 *** TODO Use org-checklists
     SCHEDULED: <2013-08-18 Sun>
+    :PROPERTIES:
+    :ID:       c544c72f-f00e-4984-aec8-843eb43ebaa1
+    :END:
 *** TODO Work out how the note capture template works
   :LOGBOOK:
   :END:
@@ -516,7 +519,13 @@ Do I make a different TODO keyword for more trying out things/open ended type re
     :END:
 [2013-08-10 Sat 09:33]
 *** TODO Organise org-mode tasks better!
+    :PROPERTIES:
+    :ID:       8ff60685-1d96-4521-a093-49617c974186
+    :END:
 *** TODO org-mode aware diff
+    :PROPERTIES:
+    :ID:       b6414ae2-66a1-44ea-aede-2293d5449abe
+    :END:
 - This is just the ordinary diff with headlines thought of as files/directories (which can contain content and also other files which is slightly different to the filesystem). Recursing is just recursing headlines and reports can say things like "Headlines A and B differ" and we can show differences in contents of headlines.
 ** Hacking
 *** TODO special headlines
@@ -960,7 +969,13 @@ Levenger?
     :ID:       d7cbedf5-136e-4136-96d8-a64feda2c40b
     :END:
 *** TODO Include Goolge+ on webiste (via rss?)
+    :PROPERTIES:
+    :ID:       07d05d00-933e-4cf1-975f-d775e15cb4e2
+    :END:
 *** TODO How to post to Facebook and Google+ simultaneously?
+    :PROPERTIES:
+    :ID:       ab780e9e-64f3-4125-b895-b3fc975175a3
+    :END:
 * office layout
   :PROPERTIES:
   :ID:       827968af-420f-40a1-ac2d-4bbe7192cbc1
@@ -1057,6 +1072,9 @@ Key numbers: FR428, FR382.
   :END:
 ** NEXT Set up emacs server
    SCHEDULED: <2013-08-18 Sun>
+   :PROPERTIES:
+   :ID:       1e583864-f5a2-4b35-b097-f4de002fde11
+   :END:
 ** NEXT Research Backups for android devices			   :COMPUTER:
 What do I need to backup? I try to keep data in the cloud. I guess saved games and whatnot would be good to keep. Also there is some config, at least a list of apps!
   CLOCK: [2012-10-24 Wed 12:27]--[2012-10-24 Wed 12:27] =>  0:00
@@ -1407,6 +1425,8 @@ this way I can track upstream and keep my work independent and then merge, push 
   :END:
 ** Organisation
   :LOGBOOK:
+  CLOCK: [2013-08-14 Wed 09:46]--[2013-08-14 Wed 09:47] =>  0:01
+  CLOCK: [2013-08-14 Wed 09:35]--[2013-08-14 Wed 09:44] =>  0:09
   CLOCK: [2013-08-13 Tue 21:09]--[2013-08-13 Tue 21:57] =>  0:48
   CLOCK: [2013-08-13 Tue 20:35]--[2013-08-13 Tue 20:48] =>  0:13
   CLOCK: [2013-08-13 Tue 16:08]--[2013-08-13 Tue 16:16] =>  0:08
@@ -2173,8 +2193,10 @@ For the following, do I just use the existing diary.org capture template or perh
 - [ ] Write down any thoughts, relections on the day.
 
 ** NEXT Daily Plan [0/2]
-   SCHEDULED: <2013-08-14 Wed .+1d/2d>
+   SCHEDULED: <2013-08-15 Thu .+1d/2d>
    :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2013-08-14 Wed 09:46]
+   CLOCK: [2013-08-14 Wed 09:44]--[2013-08-14 Wed 09:46] =>  0:02
    - State "DONE"       from "NEXT"       [2013-08-13 Tue 10:27]
    CLOCK: [2013-08-13 Tue 10:15]--[2013-08-13 Tue 10:27] =>  0:12
    - State "DONE"       from "NEXT"       [2013-08-12 Mon 09:27]
@@ -2368,7 +2390,7 @@ For the following, do I just use the existing diary.org capture template or perh
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
    :ID:       ef051ee0-1113-4604-b355-450a5a47848b
-   :LAST_REPEAT: [2013-08-13 Tue 10:27]
+   :LAST_REPEAT: [2013-08-14 Wed 09:46]
    :END:
 
 - [ ] Check agenda/focus

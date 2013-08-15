@@ -3984,6 +3984,12 @@ APM B412
 	:END:
 <2013-08-07 Wed>
 ******* Lecture 2.2
+	:LOGBOOK:
+	CLOCK: [2013-08-14 Wed 13:50]--[2013-08-14 Wed 16:08] =>  2:18
+	:END:
+	:PROPERTIES:
+	:ID:       f4998f62-ad09-4563-ad12-21cb402a33ea
+	:END:
 <2013-08-14 Wed>
 ******* Lecture 3.2
 <2013-08-21 Wed>
@@ -4014,6 +4020,7 @@ APM B412
        SCHEDULED: <2013-08-14 Wed 14:00-16:00>
        :PROPERTIES:
        :location: APM B412
+       :ID:       a008ce0c-9ef6-4667-93c7-9cd091c223a4
        :END:
 ****** Midterm 2
        SCHEDULED: <2013-08-26 Mon 14:00-16:00>
@@ -4284,8 +4291,11 @@ APM B412
 	 :PROPERTIES:
 	 :ID:       a4e2f43c-d878-42aa-bd56-799dece6ae34
 	 :END:
-******** TODO Lecture log 2.2
+******** NEXT Lecture log 2.2
 	 DEADLINE: <2013-08-15 Thu>
+	 :LOGBOOK:
+	 CLOCK: [2013-08-14 Wed 09:47]--[2013-08-14 Wed 09:53] =>  0:06
+	 :END:
 	 :PROPERTIES:
 	 :ID:       a1de28df-94fa-42ad-b5a3-0c7d181f6192
 	 :END:
@@ -4404,6 +4414,7 @@ Lectures in calendar and tasks like planning lectures.
 ****** Admin
 ****** Office hours
        :LOGBOOK:
+       CLOCK: [2013-08-14 Wed 16:08]--[2013-08-14 Wed 17:03] =>  0:55
        CLOCK: [2013-08-12 Mon 16:20]--[2013-08-12 Mon 17:34] =>  1:14
        :END:
 ***** Lectures
@@ -4436,6 +4447,12 @@ WLH 2113
 	:END:
 <2013-08-07 Wed>
 ******* Lecture 2.2
+	:LOGBOOK:
+	CLOCK: [2013-08-14 Wed 09:53]--[2013-08-14 Wed 12:27] =>  2:34
+	:END:
+	:PROPERTIES:
+	:ID:       bd89279e-3d08-4710-ba28-c6af9058e76f
+	:END:
 <2013-08-14 Wed>
 ******* Lecture 3.2
 <2013-08-21 Wed>
