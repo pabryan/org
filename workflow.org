@@ -450,7 +450,7 @@ If I'm working on a project, I want an agenda view showing me just that project.
   :END:
 [2013-03-14 Thu 14:05]
 
-*** TODO Use org-checklists
+*** NEXT Use org-checklists
     SCHEDULED: <2013-08-18 Sun>
     :PROPERTIES:
     :ID:       c544c72f-f00e-4984-aec8-843eb43ebaa1
@@ -1425,7 +1425,9 @@ this way I can track upstream and keep my work independent and then merge, push 
   :END:
 ** Organisation
   :LOGBOOK:
-  CLOCK: [2013-08-14 Wed 22:47]
+  CLOCK: [2013-08-14 Wed 22:56]
+  CLOCK: [2013-08-14 Wed 22:53]--[2013-08-14 Wed 22:55] =>  0:02
+  CLOCK: [2013-08-14 Wed 22:47]--[2013-08-14 Wed 22:53] =>  0:06
   CLOCK: [2013-08-14 Wed 22:37]--[2013-08-14 Wed 22:47] =>  0:10
   CLOCK: [2013-08-14 Wed 09:46]--[2013-08-14 Wed 09:47] =>  0:01
   CLOCK: [2013-08-14 Wed 09:35]--[2013-08-14 Wed 09:44] =>  0:09
@@ -2078,8 +2080,10 @@ Set some goals for the month. I should check someday projects for inclusion in t
 Check how I did last month. I guess the review and plan could probably go together. This is all broad stuff
 
 ** NEXT Daily Review [0/3]
-   SCHEDULED: <2013-08-14 Wed .+1d/2d>
+   SCHEDULED: <2013-08-15 Thu .+1d/2d>
    :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2013-08-14 Wed 22:56]
+   CLOCK: [2013-08-14 Wed 22:55]--[2013-08-14 Wed 22:56] =>  0:01
    - State "DONE"       from "NEXT"       [2013-08-13 Tue 21:09]
    CLOCK: [2013-08-13 Tue 20:48]--[2013-08-13 Tue 21:09] =>  0:21
    - State "DONE"       from "NEXT"       [2013-08-11 Sun 21:25]
@@ -2177,7 +2181,7 @@ Check how I did last month. I guess the review and plan could probably go togeth
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
    :ID:       616c5bd9-d941-4fcc-8874-2ff3c9e96b4a
-   :LAST_REPEAT: [2013-08-13 Tue 21:09]
+   :LAST_REPEAT: [2013-08-14 Wed 22:56]
    :END:
 
 What to review:
