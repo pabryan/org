@@ -1425,7 +1425,7 @@ this way I can track upstream and keep my work independent and then merge, push 
   :END:
 ** Organisation
   :LOGBOOK:
-  CLOCK: [2013-08-15 Thu 09:41]
+  CLOCK: [2013-08-15 Thu 10:18]--[2013-08-15 Thu 10:31] =>  0:13
   CLOCK: [2013-08-15 Thu 09:35]--[2013-08-15 Thu 09:37] =>  0:02
   CLOCK: [2013-08-14 Wed 22:53]--[2013-08-14 Wed 22:55] =>  0:02
   CLOCK: [2013-08-14 Wed 22:47]--[2013-08-14 Wed 22:53] =>  0:06
