@@ -3855,7 +3855,7 @@ Lectures in calendar and tasks like planning lectures.
 	 :ID:       7996eb1e-2045-4010-b435-59f4ae744592
 	 :END:
 ******** NEXT Lecture log 2.3
-	 DEADLINE: <2013-08-17 Sat>
+	 DEADLINE: <2013-08-17 Sat -1d>
 	 :PROPERTIES:
 	 :ID:       02d568b6-679b-468b-9ed7-396e05e52d3e
 	 :END:
@@ -4295,17 +4295,18 @@ APM B412
 	 :PROPERTIES:
 	 :ID:       a4e2f43c-d878-42aa-bd56-799dece6ae34
 	 :END:
-******** NEXT Lecture log 2.2
+******** DONE Lecture log 2.2
 	 DEADLINE: <2013-08-15 Thu>
 	 :LOGBOOK:
-	 CLOCK: [2013-08-15 Thu 10:52]
+	 - State "DONE"       from "NEXT"       [2013-08-15 Thu 11:22]
+	 CLOCK: [2013-08-15 Thu 10:52]--[2013-08-15 Thu 11:22] =>  0:30
 	 CLOCK: [2013-08-14 Wed 09:47]--[2013-08-14 Wed 09:53] =>  0:06
 	 :END:
 	 :PROPERTIES:
 	 :ID:       a1de28df-94fa-42ad-b5a3-0c7d181f6192
 	 :END:
-******** TODO Lecture log 2.3
-	 DEADLINE: <2013-08-17 Sat>
+******** NEXT Lecture log 2.3
+	 DEADLINE: <2013-08-17 Sat -1d>
 	 :PROPERTIES:
 	 :ID:       93756556-045f-472d-b5af-48871876bb18
 	 :END:
