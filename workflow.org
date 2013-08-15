@@ -1407,6 +1407,8 @@ this way I can track upstream and keep my work independent and then merge, push 
   :END:
 ** Organisation
   :LOGBOOK:
+  CLOCK: [2013-08-14 Wed 22:47]
+  CLOCK: [2013-08-14 Wed 22:37]--[2013-08-14 Wed 22:47] =>  0:10
   CLOCK: [2013-08-13 Tue 21:09]--[2013-08-13 Tue 21:57] =>  0:48
   CLOCK: [2013-08-13 Tue 20:35]--[2013-08-13 Tue 20:48] =>  0:13
   CLOCK: [2013-08-13 Tue 16:08]--[2013-08-13 Tue 16:16] =>  0:08
@@ -2173,8 +2175,9 @@ For the following, do I just use the existing diary.org capture template or perh
 - [ ] Write down any thoughts, relections on the day.
 
 ** NEXT Daily Plan [0/2]
-   SCHEDULED: <2013-08-14 Wed .+1d/2d>
+   SCHEDULED: <2013-08-15 Thu .+1d/2d>
    :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2013-08-14 Wed 09:20]
    - State "DONE"       from "NEXT"       [2013-08-13 Tue 10:27]
    CLOCK: [2013-08-13 Tue 10:15]--[2013-08-13 Tue 10:27] =>  0:12
    - State "DONE"       from "NEXT"       [2013-08-12 Mon 09:27]
@@ -2368,7 +2371,7 @@ For the following, do I just use the existing diary.org capture template or perh
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
    :ID:       ef051ee0-1113-4604-b355-450a5a47848b
-   :LAST_REPEAT: [2013-08-13 Tue 10:27]
+   :LAST_REPEAT: [2013-08-14 Wed 22:48]
    :END:
 
 - [ ] Check agenda/focus
