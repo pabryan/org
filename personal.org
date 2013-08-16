@@ -1386,8 +1386,11 @@ I should also organise books that I've read/want in some sort of org structure w
      :ID:       ab8707f0-a7b7-46c0-95f5-323c80747707
      :END:
 
-*** Summer Reading 2013
+*** DONE Summer Reading 2013
     DEADLINE: <2013-08-15 Thu>
+    :LOGBOOK:
+    - State "DONE"       from "TODO"       [2013-08-16 Fri 09:33]
+    :END:
     :PROPERTIES:
     :ID:       0c17c328-5c7b-41a7-8d4a-9c32e354050d
     :END:
