@@ -3854,12 +3854,16 @@ Lectures in calendar and tasks like planning lectures.
 	 :PROPERTIES:
 	 :ID:       7996eb1e-2045-4010-b435-59f4ae744592
 	 :END:
-******** NEXT Lecture log 2.3
+******** DONE Lecture log 2.3
 	 DEADLINE: <2013-08-17 Sat -1d>
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2013-08-16 Fri 17:01]
+	 CLOCK: [2013-08-16 Fri 16:32]--[2013-08-16 Fri 17:01] =>  0:29
+	 :END:
 	 :PROPERTIES:
 	 :ID:       02d568b6-679b-468b-9ed7-396e05e52d3e
 	 :END:
-******** TODO Lecture log 3.1
+******** NEXT Lecture log 3.1
 	 DEADLINE: <2013-08-20 Tue>
 	 :PROPERTIES:
 	 :ID:       5fe9db15-dc6c-48c2-83c9-a9adc98ac770
@@ -3936,6 +3940,12 @@ Lectures in calendar and tasks like planning lectures.
 	:PROPERTIES:
 	:ID:       e40dd4e9-540c-4099-a225-fba186d66410
 	:END:
+******* TODO Make lec2.2 log link to midterm 1
+	:PROPERTIES:
+	:ID:       9f39ea15-a66c-4d54-be73-a0348b837ca9
+	:END:
+[2013-08-16 Fri 09:37]
+[[file:~/org/ucsd.org::*Lecture%20log%203.1][Lecture log 3.1]]
 ****** DONE set up Ted for courses
   SCHEDULED: <2013-08-12 Mon>
   :LOGBOOK:
@@ -4011,6 +4021,12 @@ APM B412
 	:END:
 <2013-08-09 Fri>
 ******* Lecture 2.3
+	:LOGBOOK:
+	CLOCK: [2013-08-16 Fri 13:50]--[2013-08-16 Fri 16:01] =>  2:11
+	:END:
+	:PROPERTIES:
+	:ID:       08b87a57-2566-4f46-beef-ce22ca5edaab
+	:END:
 <2013-08-16 Fri>
 ******* Lecture 3.3
 <2013-08-23 Fri>
@@ -4045,6 +4061,9 @@ APM B412
        :END:
 
 ****** Homework 2 Due
+       :PROPERTIES:
+       :ID:       b8a39ef4-a798-48b3-a9e2-bc1df82a6f4d
+       :END:
        <2013-08-16 Fri>
 
 ****** Homework 3 Due
@@ -4085,7 +4104,28 @@ APM B412
 	:PROPERTIES:
 	:ID:       00f1f929-ab78-4aca-b232-a59a0455104c
 	:END:
-****** DONE Homework
+******* NEXT Upload practice midterm 1
+	:PROPERTIES:
+	:ID:       92b96676-6371-41eb-bfe6-79ed37251195
+	:END:
+[2013-08-16 Fri 17:04]
+******* TODO Post sample theoretical problems (from text)
+	:PROPERTIES:
+	:ID:       bfa5b8ee-7deb-4319-98a8-0055db736bbe
+	:END:
+[2013-08-16 Fri 17:06]
+******* TODO Students need a blue book
+	:PROPERTIES:
+	:ID:       c55b8c23-88c2-46a5-b950-223591377e12
+	:END:
+[2013-08-16 Fri 17:07]
+******* TODO Announce midterm material up to 3.6
+	:PROPERTIES:
+	:ID:       6b172732-cbbc-4c59-9f23-4e062c195e47
+	:END:
+[2013-08-16 Fri 17:07]
+[[file:~/org/ucsd.org::*Exams][Exams]]
+****** TODO Homework
        :LOGBOOK:
        - State "DONE"       from "TODO"       [2013-08-11 Sun 21:23]
        :END:
@@ -4138,6 +4178,14 @@ APM B412
 	:ID:       5b5a29b3-86a0-46bd-84b7-429fc6c6c634
 	:END:
 
+******* NEXT Get TA to return homework
+  :LOGBOOK:
+  CLOCK: [2013-08-16 Fri 17:04]--[2013-08-16 Fri 17:05] =>  0:01
+  :END:
+	:PROPERTIES:
+	:ID:       79879a62-b88a-4ee2-ab2c-4388362ccde9
+	:END:
+[2013-08-16 Fri 17:04]
 ****** TODO Lectures
        :PROPERTIES:
        :ID:       6e320867-249a-486f-a53a-dced95d00a55
@@ -4305,12 +4353,17 @@ APM B412
 	 :PROPERTIES:
 	 :ID:       a1de28df-94fa-42ad-b5a3-0c7d181f6192
 	 :END:
-******** NEXT Lecture log 2.3
+******** DONE Lecture log 2.3
 	 DEADLINE: <2013-08-17 Sat -1d>
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2013-08-16 Fri 16:32]
+	 CLOCK: [2013-08-16 Fri 16:18]--[2013-08-16 Fri 16:32] =>  0:14
+	 CLOCK: [2013-08-16 Fri 09:38]--[2013-08-16 Fri 09:53] =>  0:15
+	 :END:
 	 :PROPERTIES:
 	 :ID:       93756556-045f-472d-b5af-48871876bb18
 	 :END:
-******** TODO Lecture log 3.1
+******** NEXT Lecture log 3.1
 	 DEADLINE: <2013-08-20 Tue>
 	 :PROPERTIES:
 	 :ID:       3f9311e8-fdb8-4ed8-94a7-9eca88013599
@@ -4476,6 +4529,12 @@ WLH 2113
 	:END:
 <2013-08-09 Fri>
 ******* Lecture 2.3
+	:LOGBOOK:
+	CLOCK: [2013-08-16 Fri 09:53]--[2013-08-16 Fri 12:19] =>  2:26
+	:END:
+	:PROPERTIES:
+	:ID:       aa0e54df-1439-4c21-87c7-1fc03140a6f6
+	:END:
 <2013-08-16 Fri>
 ******* Lecture 3.3
 <2013-08-23 Fri>
@@ -4502,6 +4561,9 @@ WLH 2113
        :END:
 
 ****** Homework 2 Due
+       :PROPERTIES:
+       :ID:       f06a116c-6eb8-4bfe-940f-1935802e8158
+       :END:
        <2013-08-16 Fri>
 
 ****** Homework 3 Due
