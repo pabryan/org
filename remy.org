@@ -247,8 +247,11 @@ Pass: 67dogs43
      :ID:       072641b3-997d-4a6e-8444-44d01e3745b3
      :END:
 
-**** TODO Return Books 
+**** DONE Return Books 
      DEADLINE: <2013-08-20 Tue>
+     :LOGBOOK:
+     - State "DONE"       from "TODO"       [2013-08-17 Sat 18:58]
+     :END:
      :PROPERTIES:
      :ID:       bf6ab9c0-657d-4d9c-9552-ffd821c66ae6
      :END:
