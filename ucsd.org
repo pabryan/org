@@ -3769,7 +3769,7 @@ Lectures in calendar and tasks like planning lectures.
 	 :PROPERTIES:
 	 :ID:       812e161f-5ad0-458b-94bf-96e7edba766c
 	 :END:
-******** TODO Prepare Lecture 3.2
+******** NEXT Prepare Lecture 3.2
 	 DEADLINE: <2013-08-21 Wed>
 	 :PROPERTIES:
 	 :ID:       a507da07-5f46-42e5-8369-ec24d7762954
@@ -3814,7 +3814,7 @@ Lectures in calendar and tasks like planning lectures.
 	:PROPERTIES:
 	:ID:       63808548-10c0-4cda-9e8d-4f567ad0ef5e
 	:END:
-******** NEXT Lecture log 1.1
+******** TODO Lecture log 1.1
 	 DEADLINE: <2013-08-06 Tue>
 	 :PROPERTIES:
 	 :ID:       45d669e6-c839-4f48-a749-d1b011a2baf0
@@ -4105,6 +4105,7 @@ APM B412
 	:ID:       00f1f929-ab78-4aca-b232-a59a0455104c
 	:END:
 ******* NEXT Upload practice midterm 1
+	 DEADLINE: <2013-08-18 Sun>
 	:PROPERTIES:
 	:ID:       92b96676-6371-41eb-bfe6-79ed37251195
 	:END:
@@ -4268,12 +4269,16 @@ APM B412
 	 :PROPERTIES:
 	 :ID:       0e994367-dde1-485f-99f8-22354d0bc798
 	 :END:
-******** NEXT Prepare Lecture 3.1
+******** DONE Prepare Lecture 3.1
 	 DEADLINE: <2013-08-19 Mon>
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2013-08-17 Sat 19:10]
+	 CLOCK: [2013-08-17 Sat 12:30]--[2013-08-17 Sat 13:20] =>  0:50
+	 CLOCK: [2013-08-17 Sat 10:45]--[2013-08-17 Sat 11:15] =>  0:30
 	 :PROPERTIES:
 	 :ID:       812e161f-5ad0-458b-94bf-96e7edba766c
 	 :END:
-******** TODO Prepare Lecture 3.2
+******** NEXT Prepare Lecture 3.2
 	 DEADLINE: <2013-08-21 Wed>
 	 :PROPERTIES:
 	 :ID:       a507da07-5f46-42e5-8369-ec24d7762954
@@ -4317,7 +4322,7 @@ APM B412
 	:PROPERTIES:
 	:ID:       0512ab7f-5978-47fd-bdaf-f17072dd5d00
 	:END:
-******** NEXT Lecture log 1.1
+******** TODO Lecture log 1.1
 	 DEADLINE: <2013-08-06 Tue>
 	 :PROPERTIES:
 	 :ID:       c702a852-32cd-4d27-8d5f-d43031117130
