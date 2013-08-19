@@ -4102,10 +4102,11 @@ APM B412
 	:PROPERTIES:
 	:ID:       00f1f929-ab78-4aca-b232-a59a0455104c
 	:END:
-******* NEXT Upload practice midterm
+******* DONE Upload practice midterm
 	 DEADLINE: <2013-08-18 Sun>
 	 :LOGBOOK:
-	 CLOCK: [2013-08-18 Sun 19:55]
+	 - State "DONE"       from "NEXT"       [2013-08-18 Sun 20:21]
+	 CLOCK: [2013-08-18 Sun 19:55]--[2013-08-18 Sun 20:21] =>  0:26
 	 :END:
 	:PROPERTIES:
 	:ID:       92b96676-6371-41eb-bfe6-79ed37251195
