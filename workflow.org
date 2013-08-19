@@ -2423,9 +2423,10 @@ For the following, do I just use the existing diary.org capture template or perh
 - [ ] Check agenda/focus
 - [ ] Write date into notebook
 
-** NEXT Weekly Review [0/14]
+** NEXT Weekly Review [3/14]
    SCHEDULED: <2013-08-18 Sun +1w>
    :LOGBOOK:
+   CLOCK: [2013-08-18 Sun 17:57]
    - State "DONE"       from "NEXT"       [2013-08-11 Sun 21:23]
    CLOCK: [2013-08-11 Sun 21:03]--[2013-08-11 Sun 21:23] =>  0:20
    CLOCK: [2013-08-11 Sun 20:30]--[2013-08-11 Sun 21:02] =>  0:32
@@ -2500,10 +2501,10 @@ For the following, do I just use the existing diary.org capture template or perh
 
 What to review:
 
-- [ ] Check follow-up paper folder
-- [ ] Check holding directory
+- [X] Check follow-up paper folder
+- [X] Check holding directory
   [[file:~/holding]]
-- [ ] Check holding email folder
+- [X] Check holding email folder
 - [ ] Review weekly agenda =F12 a w//=
 - [ ] Check clocking data for past week =v c=
   - fix up any errors
