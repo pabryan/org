@@ -3772,7 +3772,7 @@ Lectures in calendar and tasks like planning lectures.
 	 :PROPERTIES:
 	 :ID:       a507da07-5f46-42e5-8369-ec24d7762954
 	 :END:
-******** TODO Prepare Lecture 3.3
+******** NEXT Prepare Lecture 3.3
 	 DEADLINE: <2013-08-23 Fri>
 	 :PROPERTIES:
 	 :ID:       1d996ef8-d36f-4fab-b8c7-785f7f3606da
@@ -3984,6 +3984,12 @@ APM B412
 	:END:
 <2013-08-12 Mon>    
 ******* Lecture 3.1
+	:LOGBOOK:
+	CLOCK: [2013-08-19 Mon 13:46]--[2013-08-19 Mon 16:04] =>  2:18
+	:END:
+	:PROPERTIES:
+	:ID:       368ada27-5664-40a2-9668-d7f73491f641
+	:END:
 <2013-08-19 Mon>    
 ******* Lecture 4.1
 <2013-08-26 Mon>    
@@ -4501,6 +4507,12 @@ WLH 2113
 	:END:
 <2013-08-12 Mon>    
 ******* Lecture 3.1
+	:LOGBOOK:
+	CLOCK: [2013-08-19 Mon 09:51]--[2013-08-19 Mon 12:18] =>  2:27
+	:END:
+	:PROPERTIES:
+	:ID:       67067529-d47b-45b1-bde7-c1178fc98b63
+	:END:
 <2013-08-19 Mon>    
 ******* Lecture 4.1
 <2013-08-26 Mon>    

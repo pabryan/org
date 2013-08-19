@@ -451,7 +451,7 @@ If I'm working on a project, I want an agenda view showing me just that project.
 [2013-03-14 Thu 14:05]
 
 *** NEXT Use org-checklists
-    SCHEDULED: <2013-08-18 Sun>
+    SCHEDULED: <2013-08-20 Tue>
     :PROPERTIES:
     :ID:       c544c72f-f00e-4984-aec8-843eb43ebaa1
     :END:
@@ -474,7 +474,7 @@ If I'm working on a project, I want an agenda view showing me just that project.
 http://plantuml.sourceforge.net/
 
 *** TODO Refile should also get entries from from-mobile.org
-  SCHEDULED: <2013-08-18 Sun>
+  SCHEDULED: <2013-08-20 Tue>
     :PROPERTIES:
     :ID:       5362b152-822b-455d-a894-47dafbe9489f
     :END:
@@ -1071,7 +1071,7 @@ Key numbers: FR428, FR382.
   :ID:       2caac482-7221-4934-a479-25d3cbb12d55
   :END:
 ** NEXT Set up emacs server
-   SCHEDULED: <2013-08-18 Sun>
+   SCHEDULED: <2013-08-20 Tue>
    :PROPERTIES:
    :ID:       1e583864-f5a2-4b35-b097-f4de002fde11
    :END:
@@ -1362,7 +1362,7 @@ https://wiki.archlinux.org/index.php/NetworkManager#Use_dispatcher_to_connect_to
 http://askubuntu.com/questions/198136/error-when-trying-to-connect-to-vpn-on-startup
 
 ** TODO Clean up files
-   SCHEDULED: <2013-08-11 Sun>
+   SCHEDULED: <2013-08-20 Tue>
   :LOGBOOK:
   CLOCK: [2013-07-30 Tue 19:49]--[2013-07-30 Tue 19:53] =>  0:04
   :END:
@@ -1425,7 +1425,10 @@ this way I can track upstream and keep my work independent and then merge, push 
   :END:
 ** Organisation
   :LOGBOOK:
-  CLOCK: [2013-08-18 Sun 09:42]--[2013-08-18 Sun 09:43] =>  0:01
+  CLOCK: [2013-08-19 Mon 16:04]
+  CLOCK: [2013-08-19 Mon 13:37]--[2013-08-19 Mon 13:46] =>  0:09
+  CLOCK: [2013-08-19 Mon 09:50]--[2013-08-19 Mon 09:51] =>  0:01
+  CLOCK: [2013-08-19 Mon 09:25]--[2013-08-19 Mon 09:36] =>  0:11
   CLOCK: [2013-08-16 Fri 17:01]--[2013-08-16 Fri 17:03] =>  0:02
   CLOCK: [2013-08-16 Fri 16:01]--[2013-08-16 Fri 16:18] =>  0:17
   CLOCK: [2013-08-16 Fri 12:19]--[2013-08-16 Fri 12:35] =>  0:16
@@ -2214,8 +2217,10 @@ For the following, do I just use the existing diary.org capture template or perh
 - [ ] Write down any thoughts, relections on the day.
 
 ** NEXT Daily Plan [0/2]
-   SCHEDULED: <2013-08-19 Mon .+1d/2d>
+   SCHEDULED: <2013-08-20 Tue .+1d/2d>
    :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2013-08-19 Mon 09:50]
+   CLOCK: [2013-08-19 Mon 09:36]--[2013-08-19 Mon 09:50] =>  0:14
    - State "DONE"       from "NEXT"       [2013-08-18 Sun 09:41]
    CLOCK: [2013-08-18 Sun 09:40]--[2013-08-18 Sun 09:41] =>  0:01
    - State "DONE"       from "NEXT"       [2013-08-17 Sat 14:38]
@@ -2419,7 +2424,7 @@ For the following, do I just use the existing diary.org capture template or perh
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
    :ID:       ef051ee0-1113-4604-b355-450a5a47848b
-   :LAST_REPEAT: [2013-08-18 Sun 09:41]
+   :LAST_REPEAT: [2013-08-19 Mon 09:50]
    :END:
 
 - [ ] Check agenda/focus
