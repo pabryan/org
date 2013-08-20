@@ -4098,8 +4098,12 @@ APM B412
 	:PROPERTIES:
 	:ID:       0493a4be-8006-4cf9-a4b7-c05605a68965
 	:END:
-******* NEXT Write Midterm
+******* DONE Write Midterm
 	 DEADLINE: <2013-08-20 Tue>
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2013-08-20 Tue 15:40]
+	 CLOCK: [2013-08-20 Tue 14:32]--[2013-08-20 Tue 15:40] =>  1:08
+	 :END:
 	:PROPERTIES:
 	:ID:       622624aa-7955-40f9-b012-04c8a871683f
 	:END:
