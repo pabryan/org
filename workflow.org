@@ -451,7 +451,7 @@ If I'm working on a project, I want an agenda view showing me just that project.
 [2013-03-14 Thu 14:05]
 
 *** NEXT Use org-checklists
-    SCHEDULED: <2013-08-20 Tue>
+    SCHEDULED: <2013-08-24 Sat>
     :PROPERTIES:
     :ID:       c544c72f-f00e-4984-aec8-843eb43ebaa1
     :END:
@@ -474,7 +474,7 @@ If I'm working on a project, I want an agenda view showing me just that project.
 http://plantuml.sourceforge.net/
 
 *** TODO Refile should also get entries from from-mobile.org
-  SCHEDULED: <2013-08-20 Tue>
+  SCHEDULED: <2013-08-24 Sat>
     :PROPERTIES:
     :ID:       5362b152-822b-455d-a894-47dafbe9489f
     :END:
@@ -1071,7 +1071,7 @@ Key numbers: FR428, FR382.
   :ID:       2caac482-7221-4934-a479-25d3cbb12d55
   :END:
 ** NEXT Set up emacs server
-   SCHEDULED: <2013-08-20 Tue>
+   SCHEDULED: <2013-08-24 Sat>
    :PROPERTIES:
    :ID:       1e583864-f5a2-4b35-b097-f4de002fde11
    :END:
@@ -1362,7 +1362,7 @@ https://wiki.archlinux.org/index.php/NetworkManager#Use_dispatcher_to_connect_to
 http://askubuntu.com/questions/198136/error-when-trying-to-connect-to-vpn-on-startup
 
 ** TODO Clean up files
-   SCHEDULED: <2013-08-20 Tue>
+   SCHEDULED: <2013-08-24 Sat>
   :LOGBOOK:
   CLOCK: [2013-07-30 Tue 19:49]--[2013-07-30 Tue 19:53] =>  0:04
   :END:
@@ -1429,7 +1429,8 @@ this way I can track upstream and keep my work independent and then merge, push 
   :END:
 ** Organisation
   :LOGBOOK:
-  CLOCK: [2013-08-20 Tue 19:55]  
+  CLOCK: [2013-08-20 Tue 21:04]--[2013-08-20 Tue 21:07] =>  0:03
+  CLOCK: [2013-08-20 Tue 19:55]--[2013-08-20 Tue 20:03] =>  0:08
   CLOCK: [2013-08-20 Tue 14:21]--[2013-08-20 Tue 14:32] =>  0:11
   CLOCK: [2013-08-20 Tue 11:38]--[2013-08-20 Tue 12:22] =>  0:44
   CLOCK: [2013-08-20 Tue 11:28]--[2013-08-20 Tue 11:37] =>  0:09
@@ -2099,6 +2100,7 @@ Check how I did last month. I guess the review and plan could probably go togeth
 ** NEXT Daily Review [0/3]
    SCHEDULED: <2013-08-19 Mon .+1d/2d>
    :LOGBOOK:
+   CLOCK: [2013-08-20 Tue 21:07]
    - State "DONE"       from "NEXT"       [2013-08-18 Sun 20:49]
    CLOCK: [2013-08-18 Sun 20:44]--[2013-08-18 Sun 20:49] =>  0:05
    - State "DONE"       from "NEXT"       [2013-08-17 Sat 22:49]
@@ -2215,14 +2217,11 @@ What to review:
 - [ ] Review tasks list for the day and compare with clock table, effort estimates.
 - [ ] Anything outstanding?
 - [ ] Copy from notebook/ideas.
+- [ ] Write diary
 
 When I set up scoring the day:
 
 - [ ] Enter score for the day
-
-For the following, do I just use the existing diary.org capture template or perhaps add a daily reflection template (possibly storing it in diary.org but with a property set to identify it as a reflection):
-
-- [ ] Write down any thoughts, relections on the day.
 
 ** NEXT Daily Plan [0/2]
    SCHEDULED: <2013-08-21 Wed .+1d/2d>
