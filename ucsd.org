@@ -3595,11 +3595,19 @@ Lectures in calendar and tasks like planning lectures.
 	 :ID:       a3487908-dd37-4725-a8f0-bd2b65a80214
 	 :END:
 ******* TODO Midterm 2
+	:LOGBOOK:
+	CLOCK: [2013-08-20 Tue 18:36]--[2013-08-20 Tue 18:37] =>  0:01
+	:END:
 	:PROPERTIES:
 	:ID:       a43d66d2-0678-41d0-b26c-5d47c7965c20
 	:END:
-******** NEXT Write Midterm 2
+******** WAITING Write Midterm 2
 	  DEADLINE: <2013-08-20 Tue>
+	  :LOGBOOK:
+	  - State "WAITING"    from "NEXT"       [2013-08-20 Tue 18:36] \\
+	    Waiting for feedback from TA.
+	  CLOCK: [2013-08-20 Tue 17:04]--[2013-08-20 Tue 18:35] =>  1:31
+	  :END:
 	 :PROPERTIES:
 	 :ID:       711641df-f9e8-4f1c-909f-6b731790bf15
 	 :END:
