@@ -3595,9 +3595,6 @@ Lectures in calendar and tasks like planning lectures.
 	 :ID:       a3487908-dd37-4725-a8f0-bd2b65a80214
 	 :END:
 ******* TODO Midterm 2
-	:LOGBOOK:
-	CLOCK: [2013-08-20 Tue 18:36]--[2013-08-20 Tue 18:37] =>  0:01
-	:END:
 	:PROPERTIES:
 	:ID:       a43d66d2-0678-41d0-b26c-5d47c7965c20
 	:END:
@@ -3637,6 +3634,12 @@ Lectures in calendar and tasks like planning lectures.
 	 :PROPERTIES:
 	 :ID:       a983c387-2406-48f4-ba40-3075856bddc3
 	 :END:
+******* TODO 142b Final Questions
+  :LOGBOOK:
+  CLOCK: [2013-08-20 Tue 18:35]--[2013-08-20 Tue 18:36] =>  0:01
+  :END:
+[2013-08-20 Tue 18:35]
+By integrating a Taylor series term by term, get the students to compute an integral. Can do the integral from MT2 like this, but we'll need to do something different this time of course. Maybe ln?
 ****** DONE Homework
        :LOGBOOK:
        - State "DONE"       from "TODO"       [2013-08-11 Sun 21:23]
@@ -3780,8 +3783,12 @@ Lectures in calendar and tasks like planning lectures.
 	 :PROPERTIES:
 	 :ID:       a507da07-5f46-42e5-8369-ec24d7762954
 	 :END:
-******** NEXT Prepare Lecture 3.3
+******** DONE Prepare Lecture 3.3
 	 DEADLINE: <2013-08-23 Fri>
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2013-08-20 Tue 19:55]
+	 CLOCK: [2013-08-20 Tue 19:00]--[2013-08-20 Tue 19:55] =>  0:55
+	 :END:
 	 :PROPERTIES:
 	 :ID:       1d996ef8-d36f-4fab-b8c7-785f7f3606da
 	 :END:
