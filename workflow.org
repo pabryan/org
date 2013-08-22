@@ -1434,6 +1434,7 @@ this way I can track upstream and keep my work independent and then merge, push 
   :END:
 ** Organisation
   :LOGBOOK:
+  CLOCK: [2013-08-21 Wed 20:28]--[2013-08-21 Wed 20:30] =>  0:02
   CLOCK: [2013-08-21 Wed 17:43]--[2013-08-21 Wed 17:58] =>  0:15
   CLOCK: [2013-08-21 Wed 16:15]--[2013-08-21 Wed 16:16] =>  0:01
   CLOCK: [2013-08-21 Wed 12:03]--[2013-08-21 Wed 12:10] =>  0:07
@@ -2108,6 +2109,7 @@ Check how I did last month. I guess the review and plan could probably go togeth
 ** NEXT Daily Review [0/3]
    SCHEDULED: <2013-08-21 Wed .+1d/2d>
    :LOGBOOK:
+   CLOCK: [2013-08-21 Wed 20:30]
    - State "DONE"       from "NEXT"       [2013-08-20 Tue 21:44]
    CLOCK: [2013-08-20 Tue 21:07]--[2013-08-20 Tue 21:44] =>  0:37
    - State "DONE"       from "NEXT"       [2013-08-18 Sun 20:49]
@@ -2235,8 +2237,9 @@ When I set up scoring the day:
 - [ ] Collate data such as sleep, weight, exercise, diet etc.
 
 ** NEXT Daily Plan [0/2]
-   SCHEDULED: <2013-08-21 Wed .+1d/2d>
+   SCHEDULED: <2013-08-22 Thu .+1d/2d>
    :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2013-08-21 Wed 09:30]
    - State "DONE"       from "NEXT"       [2013-08-20 Tue 11:29]
    - State "DONE"       from "NEXT"       [2013-08-19 Mon 09:50]
    CLOCK: [2013-08-19 Mon 09:36]--[2013-08-19 Mon 09:50] =>  0:14
@@ -2443,7 +2446,7 @@ When I set up scoring the day:
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
    :ID:       ef051ee0-1113-4604-b355-450a5a47848b
-   :LAST_REPEAT: [2013-08-20 Tue 11:29]
+   :LAST_REPEAT: [2013-08-21 Wed 20:30]
    :END:
 
 - [ ] Check agenda/focus

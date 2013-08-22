@@ -320,6 +320,28 @@ So it seems that for hypersurfaces, or more generally sub-manifolds, upper curva
 [2013-08-06 Tue 20:53]
 
 Maybe make some points about how I could write the code to present data from spnet on a website and include that code in spnet
+** Geometric Analysis
+*** Notes
+**** Resources
+- Selected Papers
+- Open Journal Systems http://pkp.sfu.ca/?q=ojs
+- MathOverflow
+**** Implementation
+- Overlay spnet
+- Use OJS to manage workflow
+**** Roadmap
+- Get dicussion going
+- Get reccommendations going
+- Get reputations set up (like MathOverflow)
+- Form not-profit organisation
+  - See Debian/Linux Australia
+  - AGM's, board, committees, elections, finances
+- Overlay Journal
+- Annual conference (see Linux Conf)
+- Summer/Winer schools
+  - Open lecture notes published
+- Topic working groups
+  - Hosted at Banff, Oberwolfach and the like?
 * Exposition
   :PROPERTIES:
   :ID:       a3ca7af2-21fb-410e-8238-923304c37889
