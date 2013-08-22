@@ -3638,6 +3638,9 @@ Lectures in calendar and tasks like planning lectures.
   :LOGBOOK:
   CLOCK: [2013-08-20 Tue 18:35]--[2013-08-20 Tue 18:36] =>  0:01
   :END:
+	:PROPERTIES:
+	:ID:       5a9aee95-e068-4fe3-931e-94a72c6c2100
+	:END:
 [2013-08-20 Tue 18:35]
 By integrating a Taylor series term by term, get the students to compute an integral. Can do the integral from MT2 like this, but we'll need to do something different this time of course. Maybe ln?
 ****** DONE Homework
@@ -3881,8 +3884,12 @@ By integrating a Taylor series term by term, get the students to compute an inte
 	 :PROPERTIES:
 	 :ID:       5fe9db15-dc6c-48c2-83c9-a9adc98ac770
 	 :END:
-******** TODO Lecture log 3.2
+******** DONE Lecture log 3.2
 	 DEADLINE: <2013-08-22 Thu>
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2013-08-21 Wed 17:58]
+	 CLOCK: [2013-08-21 Wed 16:16]--[2013-08-21 Wed 16:20] =>  0:04
+	 :END:
 	 :PROPERTIES:
 	 :ID:       645fd52c-2e19-4e3b-8cdb-fde5141cfaa6
 	 :END:
@@ -4025,6 +4032,12 @@ APM B412
 	:END:
 <2013-08-14 Wed>
 ******* Lecture 3.2
+	:LOGBOOK:
+	CLOCK: [2013-08-21 Wed 13:50]--[2013-08-21 Wed 16:15] =>  2:25
+	:END:
+	:PROPERTIES:
+	:ID:       91446553-4519-442a-8a0e-01cb571eecd7
+	:END:
 <2013-08-21 Wed>
 ******* Lecture 4.2
 <2013-08-28 Wed>
@@ -4407,12 +4420,17 @@ APM B412
 	 :PROPERTIES:
 	 :ID:       3f9311e8-fdb8-4ed8-94a7-9eca88013599
 	 :END:
-******** TODO Lecture log 3.2
+******** DONE Lecture log 3.2
 	 DEADLINE: <2013-08-22 Thu>
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2013-08-21 Wed 12:27]
+	 CLOCK: [2013-08-21 Wed 12:10]--[2013-08-21 Wed 12:27] =>  0:17
+	 CLOCK: [2013-08-21 Wed 09:43]--[2013-08-21 Wed 09:55] =>  0:12
+	 :END:
 	 :PROPERTIES:
 	 :ID:       e13edd51-ea6a-41fc-984d-b3e27d02f71f
 	 :END:
-******** TODO Lecture log 3.3
+******** NEXT Lecture log 3.3
 	 DEADLINE: <2013-08-24 Sat>
 	 :PROPERTIES:
 	 :ID:       d656bacb-f11e-4513-92b7-2fe5a1f9fbea
@@ -4512,6 +4530,7 @@ Lectures in calendar and tasks like planning lectures.
 ****** Admin
 ****** Office hours
        :LOGBOOK:
+       CLOCK: [2013-08-21 Wed 16:20]--[2013-08-21 Wed 17:43] =>  1:23
        CLOCK: [2013-08-14 Wed 16:08]--[2013-08-14 Wed 17:03] =>  0:55
        CLOCK: [2013-08-12 Mon 16:20]--[2013-08-12 Mon 17:34] =>  1:14
        :END:
@@ -4559,6 +4578,12 @@ WLH 2113
 	:END:
 <2013-08-14 Wed>
 ******* Lecture 3.2
+	:LOGBOOK:
+	CLOCK: [2013-08-21 Wed 09:55]--[2013-08-21 Wed 12:03] =>  2:08
+	:END:
+	:PROPERTIES:
+	:ID:       56b3852c-e218-4418-9692-d1b9298a83e2
+	:END:
 <2013-08-21 Wed>
 ******* Lecture 4.2
 <2013-08-28 Wed>

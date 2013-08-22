@@ -1421,14 +1421,22 @@ this way I can track upstream and keep my work independent and then merge, push 
 - hg-autosync
 ** TODO Check VPN certificate
   SCHEDULED: <2013-08-21 Wed>
+   :PROPERTIES:
+   :ID:       0c7e06ff-c9bf-4ef3-977d-a5247065db29
+   :END:
 [2013-08-20 Tue 11:37]
 
 * Clocking
+  :LOGBOOK:
+  :END:
   :PROPERTIES:
   :ID:       4257fe31-e606-4ca9-a848-858379409679
   :END:
 ** Organisation
   :LOGBOOK:
+  CLOCK: [2013-08-21 Wed 17:43]--[2013-08-21 Wed 17:58] =>  0:15
+  CLOCK: [2013-08-21 Wed 16:15]--[2013-08-21 Wed 16:16] =>  0:01
+  CLOCK: [2013-08-21 Wed 12:03]--[2013-08-21 Wed 12:10] =>  0:07
   CLOCK: [2013-08-20 Tue 21:04]--[2013-08-20 Tue 21:07] =>  0:03
   CLOCK: [2013-08-20 Tue 19:55]--[2013-08-20 Tue 20:03] =>  0:08
   CLOCK: [2013-08-20 Tue 14:21]--[2013-08-20 Tue 14:32] =>  0:11
