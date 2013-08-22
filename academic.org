@@ -327,15 +327,20 @@ Maybe make some points about how I could write the code to present data from spn
 - Open Journal Systems http://pkp.sfu.ca/?q=ojs
 - MathOverflow
 **** Implementation
+Try to use as much available software that I can find. Do it like Sage - don't reinvent the wheel!
 - Overlay spnet
 - Use OJS to manage workflow
+- Use MathOverflow or similar to manage user repuations.
 **** Roadmap
 - Get dicussion going
 - Get reccommendations going
 - Get reputations set up (like MathOverflow)
+- Search for founding members
 - Form not-profit organisation
   - See Debian/Linux Australia
   - AGM's, board, committees, elections, finances
+  - Memberships (paid?)
+- Search for editors
 - Overlay Journal
 - Annual conference (see Linux Conf)
 - Summer/Winer schools
@@ -2577,6 +2582,21 @@ http://linear.ups.edu/html/fcla.html
 Sage cell server
 [[https://github.com/sagemath/sagecell]]
 [[http://aleph.sagemath.org/static/about.html]]
+** Methodology
+*** Peer Instruction
+**** Notes
+- Inquiry Based Learning
+- Student groups of 2-3
+- M: I set the problems for the week and give some background theory.
+- WF: Student groups lead discussion. Not everyone in the group has to present. Some can just be involved in the preparation.
+- MWF: A student takes minutes (it rotates). 
+- Need course discussion/blog on Google+ or Facebook.
+- Class time can include working out time too.
+**** Tasks
+***** TODO Set up a blog 
+My experiences learning/implementing these strategies.
+***** NEXT Make a project for all this
+
 ** Approach/Philosophy
 *** flow
 - clean goals: what to I (the student) need to do in this course?
