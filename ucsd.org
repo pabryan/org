@@ -3656,6 +3656,21 @@ Lectures in calendar and tasks like planning lectures.
 	:END:
 [2013-08-20 Tue 18:35]
 By integrating a Taylor series term by term, get the students to compute an integral. Can do the integral from MT2 like this, but we'll need to do something different this time of course. Maybe ln?
+******* TODO Write MT 1 solutions
+	:PROPERTIES:
+	:ID:       04d341b5-bdbf-4214-a9de-a529d6d04b9d
+	:END:
+[2013-08-23 Fri 09:50]
+******* TODO Write MT2 solutions
+	:PROPERTIES:
+	:ID:       c850135a-ad81-4beb-9a23-eafc30755bfd
+	:END:
+[2013-08-23 Fri 09:51]
+******* TODO Write final solutions
+	:PROPERTIES:
+	:ID:       080b484f-d512-4e33-b05c-e7ae72310396
+	:END:
+[2013-08-23 Fri 09:51]
 ****** DONE Homework
        :LOGBOOK:
        - State "DONE"       from "TODO"       [2013-08-11 Sun 21:23]
@@ -4010,6 +4025,9 @@ By integrating a Taylor series term by term, get the students to compute an inte
 ***** Clocking
 ****** Admin
 ****** Office hours
+       :LOGBOOK:
+       CLOCK: [2013-08-23 Fri 16:01]--[2013-08-23 Fri 16:52] =>  0:51
+       :END:
 ***** Lectures
 ****** Location
 APM B412
@@ -4083,6 +4101,12 @@ APM B412
 	:END:
 <2013-08-16 Fri>
 ******* Lecture 3.3
+	:LOGBOOK:
+	CLOCK: [2013-08-23 Fri 13:50]--[2013-08-23 Fri 16:01] =>  2:11
+	:END:
+	:PROPERTIES:
+	:ID:       0f768d55-b217-48fa-8580-1a76ad3ddfb8
+	:END:
 <2013-08-23 Fri>
 ******* Lecture 4.3
 <2013-08-30 Fri>
@@ -4121,6 +4145,9 @@ APM B412
        <2013-08-16 Fri>
 
 ****** Homework 3 Due
+       :PROPERTIES:
+       :ID:       4254f6bb-ae40-4e5d-9f27-c293d329d0c4
+       :END:
        <2013-08-23 Fri>
 
 ****** Homework 4 Due
@@ -4188,6 +4215,16 @@ APM B412
 	:END:
 [2013-08-16 Fri 17:07]
 [[file:~/org/ucsd.org::*Exams][Exams]]
+******* TODO Write MT solutions
+	:PROPERTIES:
+	:ID:       7137412e-25be-407f-9192-22d907f40bf0
+	:END:
+[2013-08-23 Fri 09:51]
+******* TODO Write final solutions
+	:PROPERTIES:
+	:ID:       cf912647-e54e-4eec-903d-7bef130c8430
+	:END:
+[2013-08-23 Fri 09:52]
 ****** TODO Homework
        :LOGBOOK:
        - State "DONE"       from "TODO"       [2013-08-11 Sun 21:23]
@@ -4636,6 +4673,14 @@ WLH 2113
 	:END:
 <2013-08-16 Fri>
 ******* Lecture 3.3
+	:LOGBOOK:
+	CLOCK: [2013-08-23 Fri 09:52]--[2013-08-23 Fri 11:47] =>  1:55
+	CLOCK: [2013-08-23 Fri 09:51]--[2013-08-23 Fri 09:52] =>  0:01
+	CLOCK: [2013-08-23 Fri 09:50]--[2013-08-23 Fri 09:51] =>  0:01
+	:END:
+	:PROPERTIES:
+	:ID:       cd72eb1f-dcb6-4e02-89d4-4e6dc2bdb4a5
+	:END:
 <2013-08-23 Fri>
 ******* Lecture 4.3
 <2013-08-30 Fri>
@@ -4646,6 +4691,7 @@ WLH 2113
        <2013-08-23 Fri 10:00-11:50>
        :PROPERTIES:
        :location: CSB 001
+       :ID:       6a4ef8a1-8691-4d3d-8a50-7a035e642be9
        :END:
 ****** Final
        SCHEDULED: <2013-09-07 Sat 11:30-14:30>
@@ -4666,6 +4712,9 @@ WLH 2113
        <2013-08-16 Fri>
 
 ****** Homework 3 Due
+       :PROPERTIES:
+       :ID:       e9920112-900d-4099-8789-d7a1e1f3d81c
+       :END:
        <2013-08-23 Fri>
 
 ****** Homework 4 Due
