@@ -4054,6 +4054,12 @@ APM B412
 	:END:
 <2013-08-19 Mon>    
 ******* Lecture 4.1
+	:LOGBOOK:
+	CLOCK: [2013-08-26 Mon 13:50]--[2013-08-26 Mon 15:59] =>  2:09
+	:END:
+	:PROPERTIES:
+	:ID:       eb466b92-8f87-42f0-8337-466556d42e7b
+	:END:
 <2013-08-26 Mon>    
 ******* Lecture 5.1 (Holiday)
 <2013-09-02 Mon>
@@ -4124,6 +4130,7 @@ APM B412
        SCHEDULED: <2013-08-26 Mon 14:00-16:00>
        :PROPERTIES:
        :location: APM B412
+       :ID:       543eeaee-4cda-471f-b210-01e5795592fd
        :END:
 ****** Final
        SCHEDULED: <2013-09-07 Sat 19:00-22:00>
@@ -4479,6 +4486,9 @@ APM B412
 	 :END:
 ******** NEXT Lecture log 3.1
 	 DEADLINE: <2013-08-20 Tue>	 
+	 :LOGBOOK:
+	 CLOCK: [2013-08-26 Mon 09:45]--[2013-08-26 Mon 09:53] =>  0:08
+	 :END:
 	 :PROPERTIES:
 	 :ID:       3f9311e8-fdb8-4ed8-94a7-9eca88013599
 	 :END:
@@ -4503,6 +4513,10 @@ APM B412
 	 :END:
 ******** NEXT Lecture log 4.1
 	 DEADLINE: <2013-08-27 Tue>
+	 :LOGBOOK:
+	 CLOCK: [2013-08-26 Mon 12:06]--[2013-08-26 Mon 12:28] =>  0:22
+	 CLOCK: [2013-08-26 Mon 09:22]--[2013-08-26 Mon 09:45] =>  0:23
+	 :END:
 	 :PROPERTIES:
 	 :ID:       0fd8fa90-956c-483a-87b5-ca2323cf09ce
 	 :END:
@@ -4626,6 +4640,12 @@ WLH 2113
 	:END:
 <2013-08-19 Mon>    
 ******* Lecture 4.1
+	:LOGBOOK:	
+	CLOCK: [2013-08-26 Mon 09:53]--[2013-08-26 Mon 12:06] =>  2:13
+	:END:
+	:PROPERTIES:
+	:ID:       790c182d-b6a1-4330-a59f-9537df6762c5
+	:END:
 <2013-08-26 Mon>    
 ******* Lecture 5.1 (Holiday)
 <2013-09-02 Mon>

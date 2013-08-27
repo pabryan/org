@@ -1100,14 +1100,41 @@ Can we deduce long-time behaviour from the support function?
        :ID:       5d7d38ad-aac0-409d-9ece-466e858612c9
        :END:
 - Is this even necessary? That is, why not just use $\sphere^n$ as a fixed space from which to parametrise? It's not really necessary to have $\sphere^n$ embedded in the space form.
+****** TODO Hyperbolic space
+       :LOGBOOK:
+       CLOCK: [2013-08-26 Mon 17:08]--[2013-08-26 Mon 17:09] =>  0:01
+       :END:
+       :PROPERTIES:
+       :ID:       e9c93436-80fb-4eb5-b229-bd15e519d71d
+       :END:
+******* NEXT Get formula for coords, metric
+	:LOGBOOK:
+	CLOCK: [2013-08-26 Mon 16:15]--[2013-08-26 Mon 17:08] =>  0:53
+	:END:
+	:PROPERTIES:
+	:ID:       d7827ac0-bf84-4070-aacb-861ef94d775c
+	:END:
+******* TODO Get formula for distance
+	:PROPERTIES:
+	:ID:       9bc6f1b5-bac8-46c8-bd3b-07bc34275b43
+	:END:
+******* TODO Get formula for vector field X
+	:PROPERTIES:
+	:ID:       82810df7-6a86-4aa2-a4cd-2ece8ab2448a
+	:END:
+******* TODO Get formula for grad X
+	:PROPERTIES:
+	:ID:       1cbaa6c1-e15e-427b-954a-624990666029
+	:END:
 ****** TODO Dual Body
        :LOGBOOK:
        :END:
        :PROPERTIES:
        :ID:       227e228f-6d25-4344-9642-0cd92447202f
        :END:
-******* NEXT Define the support function/hyperplanes etc.
+******* DONE Define the support function/hyperplanes etc.
 	:LOGBOOK:
+	- State "DONE"       from "NEXT"       [2013-08-26 Mon 16:37]
 	CLOCK: [2013-07-29 Mon 21:30]--[2013-07-29 Mon 22:15] =>  0:45
 	:END:
 	:PROPERTIES:
