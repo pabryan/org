@@ -701,7 +701,7 @@ http://www.taijiworld.com/
 866-413-1582
 
 **** TODO Contact Pain Away
-  SCHEDULED: <2013-08-24 Sat>
+  SCHEDULED: <2013-09-09 Mon>
   :LOGBOOK:
   :END:
    :PROPERTIES:
@@ -795,6 +795,12 @@ Healthy habits. I want to keep on track with living well and so need reminders t
     :ID:       be35806a-83b9-4188-b68a-2a935146e9c7
     :END:
 [2013-07-16 Tue 10:18]
+*** TODO Record health stats
+  SCHEDULED: <2013-09-09 Mon>
+[2013-08-24 Sat 09:57]
+*** TODO Set up daily scoring
+  SCHEDULED: <2013-09-08 Sun>
+[2013-08-24 Sat 09:57]
 ** Events
 *** Running							    :RUNNING:
 **** San Diego Beer Run
@@ -1618,7 +1624,7 @@ https://www.wizards.com/dnd/dndnext.aspx
 ** Entertainment mangement/system
 *** Media Files
 **** TODO Convert videos to mp4
-     SCHEDULED: <2013-08-24 Sat>
+     SCHEDULED: <2013-09-09 Mon>
      :PROPERTIES:
      :ID:       52661fff-81b4-4e8b-b710-3ffb492893d7
      :END:
@@ -1663,7 +1669,7 @@ Delta 4502 From LA.
 
 ** Mum
 *** HOLD Set mum up on Google+
-    SCHEDULED: <2013-08-25 Sun> DEADLINE: <2013-08-31 Sat>
+    SCHEDULED: <2013-08-25 Sun> 
     - State "HOLD"       from "TODO"       [2013-07-31 Wed 22:12] \\
       Wait for Tom to set mum up. He might give here a google account for android.
   :LOGBOOK:
@@ -1900,14 +1906,14 @@ Code: SHARE10
 ** Buy google credit
    SCHEDULED: <2013-09-01 Sun>
 
-* Gov
+* Gov									:GOV:
   :PROPERTIES:
   :ID:       b0867386-74a0-4d6e-929f-5193b8bd0045
   :END:
-** Aus
+** Aus									:AUS:
 *** MyGov
 - username: NB725486
-*** Elections
-**** 2013
+*** Elections							  :ELECTIONS:
+**** 2013 Federal
      SCHEDULED: <2013-08-26 Mon>
-** US
+** US									 :US:

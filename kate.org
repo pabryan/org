@@ -17,8 +17,11 @@
   :END:
 [2013-02-01 Fri 11:46]
 
-**** TODO Register for online services
+**** DONE Register for online services
      SCHEDULED: <2013-08-24 Sat>
+     :LOGBOOK:
+     - State "DONE"       from "TODO"       [2013-08-24 Sat 10:04]
+     :END:
      :PROPERTIES:
      :ID:       58e289de-c25f-4ee2-b9fa-715750e3db3e
      :END:

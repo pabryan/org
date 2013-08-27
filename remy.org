@@ -208,8 +208,11 @@ I want to find things for Remy to do at home that keep his interest in the world
 https://secure.k12online.us/schoolportal/index.php?sname=innovations-academy-charter-school
 User: Bryan
 Pass: 67dogs43
-**** NEXT Sign registration forms.
+**** DONE Sign registration forms.
      DEADLINE: <2013-08-28 Wed>
+     :LOGBOOK:
+     - State "DONE"       from "NEXT"       [2013-08-25 Sun 08:02]
+     :END:
      :PROPERTIES:
      :ID:       1dab75b8-5ecc-4414-86b0-e82df4d9a6b0
      :END:

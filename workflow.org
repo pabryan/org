@@ -452,7 +452,7 @@ If I'm working on a project, I want an agenda view showing me just that project.
 [2013-03-14 Thu 14:05]
 
 *** NEXT Use org-checklists
-    SCHEDULED: <2013-08-24 Sat>
+    SCHEDULED: <2013-09-09 Mon>
     :PROPERTIES:
     :ID:       c544c72f-f00e-4984-aec8-843eb43ebaa1
     :END:
@@ -475,7 +475,7 @@ If I'm working on a project, I want an agenda view showing me just that project.
 http://plantuml.sourceforge.net/
 
 *** TODO Refile should also get entries from from-mobile.org
-  SCHEDULED: <2013-08-24 Sat>
+  SCHEDULED: <2013-09-09 Mon>
     :PROPERTIES:
     :ID:       5362b152-822b-455d-a894-47dafbe9489f
     :END:
@@ -1072,7 +1072,7 @@ Key numbers: FR428, FR382.
   :ID:       2caac482-7221-4934-a479-25d3cbb12d55
   :END:
 ** NEXT Set up emacs server
-   SCHEDULED: <2013-08-24 Sat>
+   SCHEDULED: <2013-09-09 Mon>
    :PROPERTIES:
    :ID:       1e583864-f5a2-4b35-b097-f4de002fde11
    :END:
@@ -1363,7 +1363,7 @@ https://wiki.archlinux.org/index.php/NetworkManager#Use_dispatcher_to_connect_to
 http://askubuntu.com/questions/198136/error-when-trying-to-connect-to-vpn-on-startup
 
 ** TODO Clean up files
-   SCHEDULED: <2013-08-24 Sat>
+   SCHEDULED: <2013-09-09 Mon>
   :LOGBOOK:
   CLOCK: [2013-07-30 Tue 19:49]--[2013-07-30 Tue 19:53] =>  0:04
   :END:
@@ -1428,7 +1428,7 @@ this way I can track upstream and keep my work independent and then merge, push 
 [2013-08-20 Tue 11:37]
 
 ** TODO Flyspell
-  SCHEDULED: <2013-08-24 Sat>
+  SCHEDULED: <2013-09-09 Mon>
   :PROPERTIES:
   :ID:       97195914-b858-453d-a51b-da31a655ff92
   :END:
@@ -1442,6 +1442,12 @@ this way I can track upstream and keep my work independent and then merge, push 
   :END:
 ** Organisation
   :LOGBOOK:
+  CLOCK: [2013-08-27 Tue 09:50]
+  CLOCK: [2013-08-25 Sun 15:58]--[2013-08-25 Sun 18:59] =>  3:01
+  CLOCK: [2013-08-25 Sun 15:28]--[2013-08-25 Sun 15:43] =>  0:15
+  CLOCK: [2013-08-25 Sun 08:04]--[2013-08-25 Sun 08:06] =>  0:02
+  CLOCK: [2013-08-24 Sat 10:50]--[2013-08-24 Sat 10:51] =>  0:01
+  CLOCK: [2013-08-24 Sat 09:56]--[2013-08-24 Sat 09:57] =>  0:01  
   CLOCK: [2013-08-23 Fri 16:52]--[2013-08-23 Fri 16:54] =>  0:02
   CLOCK: [2013-08-23 Fri 11:47]--[2013-08-23 Fri 11:54] =>  0:07
   CLOCK: [2013-08-23 Fri 09:24]--[2013-08-23 Fri 09:50] =>  0:26
@@ -2122,9 +2128,11 @@ Set some goals for the month. I should check someday projects for inclusion in t
 *** Monthly Review
 Check how I did last month. I guess the review and plan could probably go together. This is all broad stuff
 
-** NEXT Daily Review [0/3]
-   SCHEDULED: <2013-08-23 Fri .+1d/2d>
+** NEXT Daily Review [0/6]
+   SCHEDULED: <2013-08-26 Mon .+1d/2d>
    :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2013-08-25 Sun 19:39]
+   CLOCK: [2013-08-25 Sun 18:59]--[2013-08-25 Sun 19:39] =>  0:40
    - State "DONE"       from "NEXT"       [2013-08-22 Thu 20:14]
    CLOCK: [2013-08-22 Thu 19:45]--[2013-08-22 Thu 20:14] =>  0:29
    - State "DONE"       from "NEXT"       [2013-08-21 Wed 20:52]
@@ -2240,7 +2248,7 @@ Check how I did last month. I guess the review and plan could probably go togeth
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
    :ID:       616c5bd9-d941-4fcc-8874-2ff3c9e96b4a
-   :LAST_REPEAT: [2013-08-22 Thu 20:14]
+   :LAST_REPEAT: [2013-08-25 Sun 19:39]
    :END:
 
 What to review:
@@ -2257,8 +2265,14 @@ When I set up scoring the day:
 - [ ] Collate data such as sleep, weight, exercise, diet etc.
 
 ** NEXT Daily Plan [0/2]
-   SCHEDULED: <2013-08-24 Sat .+1d/2d>
+   SCHEDULED: <2013-08-28 Wed .+1d/2d>
    :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2013-08-27 Tue 09:50]
+   CLOCK: [2013-08-27 Tue 09:46]--[2013-08-27 Tue 09:50] =>  0:04
+   - State "DONE"       from "NEXT"       [2013-08-25 Sun 08:04]
+   CLOCK: [2013-08-25 Sun 08:00]--[2013-08-25 Sun 08:04] =>  0:04
+   - State "DONE"       from "NEXT"       [2013-08-24 Sat 10:09]
+   CLOCK: [2013-08-24 Sat 09:57]--[2013-08-24 Sat 10:09] =>  0:12
    - State "DONE"       from "NEXT"       [2013-08-23 Fri 09:43]
    CLOCK: [2013-08-23 Fri 09:07]--[2013-08-23 Fri 09:23] =>  0:16
    - State "DONE"       from "NEXT"       [2013-08-22 Thu 09:33]
@@ -2470,7 +2484,7 @@ When I set up scoring the day:
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
    :ID:       ef051ee0-1113-4604-b355-450a5a47848b
-   :LAST_REPEAT: [2013-08-23 Fri 09:43]
+   :LAST_REPEAT: [2013-08-27 Tue 09:50]
    :END:
 
 - [ ] Check agenda/focus

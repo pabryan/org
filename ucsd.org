@@ -3558,8 +3558,10 @@ Lectures in calendar and tasks like planning lectures.
 	:PROPERTIES:
 	:ID:       4a202266-f308-4102-925f-4ec6ca3b5b36
 	:END:
-******* DONE Midterm 1
+******* TODO Midterm 1
 	:LOGBOOK:
+	- State "TODO"       from "DONE"       [2013-08-24 Sat 10:06] \\
+	  Re-opened since I need to write solutions.
 	- State "DONE"       from "TODO"       [2013-08-11 Sun 21:22]
 	:END:
 	:PROPERTIES:
@@ -3594,8 +3596,16 @@ Lectures in calendar and tasks like planning lectures.
 	 :PROPERTIES:
 	 :ID:       a3487908-dd37-4725-a8f0-bd2b65a80214
 	 :END:
-******* DONE Midterm 2
+******** NEXT Write MT 1 solutions
+	 DEADLINE: <2013-08-31 Sat>
+	:PROPERTIES:
+	:ID:       04d341b5-bdbf-4214-a9de-a529d6d04b9d
+	:END:
+[2013-08-23 Fri 09:50]
+******* TODO Midterm 2
 	:LOGBOOK:
+	- State "TODO"       from "DONE"       [2013-08-24 Sat 10:06] \\
+	  Re-opened since I need to write solutions.
 	- State "DONE"       from "TODO"       [2013-08-22 Thu 20:14]
 	:END:
 	:PROPERTIES:
@@ -3630,6 +3640,12 @@ Lectures in calendar and tasks like planning lectures.
 	 :ID:       4364207a-ebfe-4a04-a25e-f6777366aa91
 	 :END:
 
+******** NEXT Write MT2 solutions
+	 DEADLINE: <2013-08-31 Sat>
+	:PROPERTIES:
+	:ID:       c850135a-ad81-4beb-9a23-eafc30755bfd
+	:END:
+[2013-08-23 Fri 09:51]
 ******* TODO Final
 	:PROPERTIES:
 	:ID:       a23578c7-90ac-4647-a379-53ed69b9ecca
@@ -3656,17 +3672,7 @@ Lectures in calendar and tasks like planning lectures.
 	:END:
 [2013-08-20 Tue 18:35]
 By integrating a Taylor series term by term, get the students to compute an integral. Can do the integral from MT2 like this, but we'll need to do something different this time of course. Maybe ln?
-******* TODO Write MT 1 solutions
-	:PROPERTIES:
-	:ID:       04d341b5-bdbf-4214-a9de-a529d6d04b9d
-	:END:
-[2013-08-23 Fri 09:50]
-******* TODO Write MT2 solutions
-	:PROPERTIES:
-	:ID:       c850135a-ad81-4beb-9a23-eafc30755bfd
-	:END:
-[2013-08-23 Fri 09:51]
-******* TODO Write final solutions
+******** TODO Write final solutions
 	:PROPERTIES:
 	:ID:       080b484f-d512-4e33-b05c-e7ae72310396
 	:END:
@@ -3831,12 +3837,17 @@ By integrating a Taylor series term by term, get the students to compute an inte
 	 :PROPERTIES:
 	 :ID:       ed05e7e6-0bc2-4e2e-a460-c061f8185aa1
 	 :END:
-******** TODO Prepare Lecture 4.2
+******** DONE Prepare Lecture 4.2
 	 DEADLINE: <2013-08-28 Wed>
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2013-08-25 Sun 11:59]
+	 CLOCK: [2013-08-25 Sun 11:40]--[2013-08-25 Sun 11:59] =>  0:19
+	 CLOCK: [2013-08-25 Sun 09:00]--[2013-08-25 Sun 10:00] =>  1:00
+	 :END:
 	 :PROPERTIES:
 	 :ID:       8988d29d-771d-4b2d-a666-59d31688d74b
 	 :END:
-******** TODO Prepare Lecture 4.3
+******** NEXT Prepare Lecture 4.3
 	 DEADLINE: <2013-08-30 Fri>
 	 :PROPERTIES:
 	 :ID:       a22ea3f7-72aa-4951-a3b7-ff8fdb3f686c
@@ -3910,8 +3921,12 @@ By integrating a Taylor series term by term, get the students to compute an inte
 	 :PROPERTIES:
 	 :ID:       02d568b6-679b-468b-9ed7-396e05e52d3e
 	 :END:
-******** NEXT Lecture log 3.1
+******** DONE Lecture log 3.1
 	 DEADLINE: <2013-08-20 Tue>
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2013-08-25 Sun 15:58]
+	 CLOCK: [2013-08-25 Sun 15:43]--[2013-08-25 Sun 15:58] =>  0:15
+	 :END:
 	 :PROPERTIES:
 	 :ID:       5fe9db15-dc6c-48c2-83c9-a9adc98ac770
 	 :END:
@@ -3924,9 +3939,10 @@ By integrating a Taylor series term by term, get the students to compute an inte
 	 :PROPERTIES:
 	 :ID:       645fd52c-2e19-4e3b-8cdb-fde5141cfaa6
 	 :END:
-******** NEXT Lecture log 3.3
+******** DONE Lecture log 3.3
 	 DEADLINE: <2013-08-24 Sat>
 	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2013-08-25 Sun 15:58]
 	 CLOCK: [2013-08-22 Thu 11:13]--[2013-08-22 Thu 11:28] =>  0:15
 	 :END:
 	 :PROPERTIES:
@@ -4121,7 +4137,7 @@ APM B412
        :ID:       a008ce0c-9ef6-4667-93c7-9cd091c223a4
        :END:
 ****** Midterm 2
-       SCHEDULED: <2013-08-26 Mon 14:00-16:00>
+       SCHEDULED: [2013-08-26 Mon 14:00-16:00]
        :PROPERTIES:
        :location: APM B412
        :END:
@@ -4175,21 +4191,17 @@ APM B412
 	:PROPERTIES:
 	:ID:       0493a4be-8006-4cf9-a4b7-c05605a68965
 	:END:
-******* DONE Write Midterm
-	 DEADLINE: <2013-08-20 Tue>
-	 :LOGBOOK:
-	 - State "DONE"       from "NEXT"       [2013-08-20 Tue 15:40]
-	 CLOCK: [2013-08-20 Tue 14:32]--[2013-08-20 Tue 15:40] =>  1:08
+******* TODO Midterm
+******** DONE Write Midterm
+	  DEADLINE: <2013-08-20 Tue>
+	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2013-08-20 Tue 15:40]
+	  CLOCK: [2013-08-20 Tue 14:32]--[2013-08-20 Tue 15:40] =>  1:08
+	  :END:
+	 :PROPERTIES:
+	 :ID:       622624aa-7955-40f9-b012-04c8a871683f
 	 :END:
-	:PROPERTIES:
-	:ID:       622624aa-7955-40f9-b012-04c8a871683f
-	:END:
-******* NEXT Write Final
-	 DEADLINE: <2013-09-03 Tue>
-	:PROPERTIES:
-	:ID:       00f1f929-ab78-4aca-b232-a59a0455104c
-	:END:
-******* DONE Upload practice midterm
+******** DONE Upload practice midterm
 	 DEADLINE: <2013-08-18 Sun>
 	 :LOGBOOK:
 	 - State "DONE"       from "NEXT"       [2013-08-18 Sun 20:21]
@@ -4199,28 +4211,51 @@ APM B412
 	:ID:       92b96676-6371-41eb-bfe6-79ed37251195
 	:END:
 [2013-08-16 Fri 17:04]
-******* TODO Post sample theoretical problems (from text)
+******** DONE Post sample theoretical problems (from text)
+	:LOGBOOK:
+	- State "DONE"       from "TODO"       [2013-08-24 Sat 10:07]
+	:END:
 	:PROPERTIES:
 	:ID:       bfa5b8ee-7deb-4319-98a8-0055db736bbe
 	:END:
 [2013-08-16 Fri 17:06]
-******* TODO Students need a blue book
+******** DONE Students need a blue book
+	:LOGBOOK:
+	- State "DONE"       from "TODO"       [2013-08-24 Sat 10:07]
+	:END:
 	:PROPERTIES:
 	:ID:       c55b8c23-88c2-46a5-b950-223591377e12
 	:END:
 [2013-08-16 Fri 17:07]
-******* TODO Announce midterm material up to 3.6
+******** DONE Announce midterm material up to 3.6
+	:LOGBOOK:
+	- State "DONE"       from "TODO"       [2013-08-24 Sat 10:07]
+	:END:
 	:PROPERTIES:
 	:ID:       6b172732-cbbc-4c59-9f23-4e062c195e47
 	:END:
 [2013-08-16 Fri 17:07]
 [[file:~/org/ucsd.org::*Exams][Exams]]
-******* TODO Write MT solutions
+******** NEXT Write MT solutions
+	 DEADLINE: <2013-08-27 Tue>
+	 :LOGBOOK:
+	 - State "TODO"       from "DONE"       [2013-08-25 Sun 08:04] \\
+	   Need to give more details of figures.
+	 - State "DONE"       from "NEXT"       [2013-08-24 Sat 20:52]
+	 CLOCK: [2013-08-24 Sat 20:01]--[2013-08-24 Sat 20:52] =>  0:51
+	 CLOCK: [2013-08-24 Sat 17:28]--[2013-08-24 Sat 17:46] =>  0:18
+	 :END:
 	:PROPERTIES:
 	:ID:       7137412e-25be-407f-9192-22d907f40bf0
 	:END:
 [2013-08-23 Fri 09:51]
-******* TODO Write final solutions
+******* TODO Final
+******** NEXT Write Final
+	  DEADLINE: <2013-09-03 Tue>
+	 :PROPERTIES:
+	 :ID:       00f1f929-ab78-4aca-b232-a59a0455104c
+	 :END:
+******** TODO Write final solutions
 	:PROPERTIES:
 	:ID:       cf912647-e54e-4eec-903d-7bef130c8430
 	:END:
@@ -4394,20 +4429,27 @@ APM B412
 	 :PROPERTIES:
 	 :ID:       1d996ef8-d36f-4fab-b8c7-785f7f3606da
 	 :END:
-******** NEXT Prepare Lecture 4.1
+******** DONE Prepare Lecture 4.1
 	 DEADLINE: <2013-08-26 Mon>
 	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2013-08-24 Sat 10:48]
+	 CLOCK: [2013-08-24 Sat 10:09]--[2013-08-24 Sat 10:48] =>  0:39
 	 CLOCK: [2013-08-22 Thu 12:57]--[2013-08-22 Thu 13:30] =>  0:33
 	 :END:
 	 :PROPERTIES:
 	 :ID:       ed05e7e6-0bc2-4e2e-a460-c061f8185aa1
 	 :END:
-******** TODO Prepare Lecture 4.2
+******** DONE Prepare Lecture 4.2
 	 DEADLINE: <2013-08-28 Wed>
+	 :LOGBOOK:
+	 - State "DONE"       from "TODO"       [2013-08-24 Sat 16:07
+	 CLOCK: [2013-08-24 Sat 13:40]--[2013-08-24 Sat 14:15] =>  0:35
+	 CLOCK: [2013-08-24 Sat 12:30]--[2013-08-24 Sat 13:00] =>  0:30
+	 :END:
 	 :PROPERTIES:
 	 :ID:       8988d29d-771d-4b2d-a666-59d31688d74b
 	 :END:
-******** TODO Prepare Lecture 4.3
+******** NEXT Prepare Lecture 4.3
 	 DEADLINE: <2013-08-30 Fri>
 	 :PROPERTIES:
 	 :ID:       a22ea3f7-72aa-4951-a3b7-ff8fdb3f686c

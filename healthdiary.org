@@ -1,5 +1,28 @@
 #+COLUMNS: %25ITEM %Type %Intensity %RestHR %MobilityHR %FinalHR %RecoveryHR %Score %Technique %Effort %Discomfort
 
+* conv code
+  :PROPERTIES:
+  :ID:       547e575e-820e-40c1-bd37-4714b4238af6
+  :END:
+#+begin_src elisp
+(defun vikas-convert ()
+  "table to props"
+  (interactive)
+  (let ((contents
+         (apply #'mapcar* #'list
+                ;; remove 'hline from list
+                   (delq nil (mapcar (lambda (x) (when (listp x) x))
+                                       (org-table-to-lisp))))))
+    (delete-region (org-table-begin) (org-table-end))
+    (insert "  :PROPERTIES:\n")
+    (insert (mapconcat (lambda(x) (concat "  :" (first x) ": " (second
+    x) "\n" ))
+                       contents ""))
+    (insert "  :END:\n\n")))
+#+end_src
+
+* Stats
+
 * 2012
   :PROPERTIES:
   :ID:       72d145e3-cdf4-493a-86c3-5195709765f3
@@ -617,7 +640,7 @@
 
 [2012-12-31 Mon 15:25]
 
-* 2013      
+* 2013
   :PROPERTIES:
   :ID:       6998d6b6-a243-4e69-9341-90073abafcc7
   :COLUMNS: %25ITEM %Type %Intensity %RestHR %MobilityHR %FinalHR %RecoveryHR %Score %Technique %Effort %Discomfort
@@ -2134,31 +2157,6 @@ Set 4 HR: 104
 
 [2013-07-27 Sat 22:59]
 
-* conv code
-  :PROPERTIES:
-  :ID:       547e575e-820e-40c1-bd37-4714b4238af6
-  :END:
-#+begin_src elisp
-(defun vikas-convert ()
-  "table to props"
-  (interactive)
-  (let ((contents
-         (apply #'mapcar* #'list
-                ;; remove 'hline from list
-                   (delq nil (mapcar (lambda (x) (when (listp x) x))
-                                       (org-table-to-lisp))))))
-    (delete-region (org-table-begin) (org-table-end))
-    (insert "  :PROPERTIES:\n")
-    (insert (mapconcat (lambda(x) (concat "  :" (first x) ": " (second
-    x) "\n" ))
-                       contents ""))
-    (insert "  :END:\n\n")))
-#+end_src
-* 2013
-  :PROPERTIES:
-  :ID:       3ae4cacd-52f1-41df-8dac-c48eccdc10fc
-  :END:
-** 2013-07 July
 *** 2013-07-31 Wednesday
 **** FlowFit (Level 2)
 :PROPERTIES:
@@ -2177,3 +2175,20 @@ Set 4 HR: 104
 [2013-07-31 Wed 22:10]
 :Intensity: 
 
+** 2013-08 August
+*** 2013-08-23 Friday
+**** Stats
+:PROPERTIES:
+:weight: 74.4
+:END:
+*** 2013-08-24 Saturday
+**** Stats
+:PROPERTIES:
+:weight: 73.4
+:END:
+
+*** 2013-08-25 Sunday
+**** Stats
+:PROPERTIES:
+:weight: 73.4
+:END:
