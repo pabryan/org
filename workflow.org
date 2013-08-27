@@ -2493,7 +2493,7 @@ When I set up scoring the day:
 - [ ] Check agenda/focus
 - [ ] Write date into notebook
 
-** NEXT Weekly Review [0/14]
+** NEXT Weekly Review [0/15]
    SCHEDULED: <2013-08-25 Sun +1w>
    :LOGBOOK:
    - State "DONE"       from "NEXT"       [2013-08-18 Sun 18:35]
@@ -2589,15 +2589,15 @@ What to review:
   - [ ] Clean up tmp
   - [ ] Clean up tablet
   - [ ] Clean up phone
-
-- [ ] Check Finances
-  - Check bank accounts and compare with what's still to come
 - [ ] Process incoming information
   - feedly
   - pocket
 - [ ] Review projects =F12 SPC //= and =P= repeatedly to view each project
   - Unstick stuck projects!
 - [ ] Set focus
+- [ ] Check Finances
+  - Check bank accounts and compare with what's still to come
+- [ ] Copy music to phone
 
 ** NEXT Monthly Plan/Review [0/4]
    SCHEDULED: <2013-09-01 Sun +1m>
