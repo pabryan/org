@@ -1442,7 +1442,7 @@ this way I can track upstream and keep my work independent and then merge, push 
   :END:
 ** Organisation
   :LOGBOOK:
-  CLOCK: [2013-08-27 Tue 09:50]
+  CLOCK: [2013-08-27 Tue 09:50]--[2013-08-27 Tue 10:01] =>  0:11
   CLOCK: [2013-08-26 Mon 15:59]--[2013-08-26 Mon 16:15] =>  0:16
   CLOCK: [2013-08-26 Mon 12:28]--[2013-08-26 Mon 12:31] =>  0:03
   CLOCK: [2013-08-26 Mon 09:15]--[2013-08-26 Mon 09:22] =>  0:07
@@ -2493,9 +2493,10 @@ When I set up scoring the day:
 - [ ] Check agenda/focus
 - [ ] Write date into notebook
 
-** NEXT Weekly Review [0/15]
+** NEXT Weekly Review [3/15]
    SCHEDULED: <2013-08-25 Sun +1w>
    :LOGBOOK:
+   CLOCK: [2013-08-27 Tue 10:01]
    - State "DONE"       from "NEXT"       [2013-08-18 Sun 18:35]
    CLOCK: [2013-08-18 Sun 17:57]--[2013-08-18 Sun 18:35] =>  0:38
    - State "DONE"       from "NEXT"       [2013-08-11 Sun 21:23]
@@ -2572,10 +2573,10 @@ When I set up scoring the day:
 
 What to review:
 
-- [ ] Check follow-up paper folder
-- [ ] Check holding directory
+- [X] Check follow-up paper folder
+- [X] Check holding directory
   [[file:~/holding]]
-- [ ] Check holding email folder
+- [X] Check holding email folder
 - [ ] Review weekly agenda =F12 a w//=
 - [ ] Check clocking data for past week =v c=
   - fix up any errors
