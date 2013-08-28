@@ -4246,9 +4246,12 @@ APM B412
 	:END:
 [2013-08-16 Fri 17:07]
 [[file:~/org/ucsd.org::*Exams][Exams]]
-******** NEXT Write MT solutions
+******** DONE Write MT solutions
 	 DEADLINE: <2013-08-27 Tue>
 	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2013-08-27 Tue 18:19]
+	 CLOCK: [2013-08-27 Tue 18:11]--[2013-08-27 Tue 18:19] =>  0:08
+	 CLOCK: [2013-08-27 Tue 17:45]--[2013-08-27 Tue 18:10] =>  0:25
 	 - State "TODO"       from "DONE"       [2013-08-25 Sun 08:04] \\
 	   Need to give more details of figures.
 	 - State "DONE"       from "NEXT"       [2013-08-24 Sat 20:52]
@@ -4571,7 +4574,7 @@ APM B412
 	 :PROPERTIES:
 	 :ID:       0fd8fa90-956c-483a-87b5-ca2323cf09ce
 	 :END:
-******** TODO Lecture log 4.2
+******** NEXT Lecture log 4.2
 	 DEADLINE: <2013-08-29 Thu>
 	 :PROPERTIES:
 	 :ID:       2564db43-9d3b-402b-b9b7-6cf9b812aca8
