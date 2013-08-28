@@ -3596,8 +3596,12 @@ Lectures in calendar and tasks like planning lectures.
 	 :PROPERTIES:
 	 :ID:       a3487908-dd37-4725-a8f0-bd2b65a80214
 	 :END:
-******** NEXT Write MT 1 solutions
+******** DONE Write MT 1 solutions
 	 DEADLINE: <2013-08-31 Sat>
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2013-08-27 Tue 19:28]
+	 CLOCK: [2013-08-27 Tue 18:51]--[2013-08-27 Tue 19:28] =>  0:37
+	 :END:
 	:PROPERTIES:
 	:ID:       04d341b5-bdbf-4214-a9de-a529d6d04b9d
 	:END:
