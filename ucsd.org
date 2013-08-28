@@ -3974,8 +3974,11 @@ By integrating a Taylor series term by term, get the students to compute an inte
 	 :PROPERTIES:
 	 :ID:       e3d435cc-aa7b-4ef4-91e9-eae86071b66e
 	 :END:
-******** TODO Lecture log 5.1
+******** DONE Lecture log 5.1
 	 DEADLINE: <2013-09-03 Tue>
+	 :LOGBOOK:
+	 - State "DONE"       from "TODO"       [2013-08-28 Wed 09:35]
+	 :END:
 	 :PROPERTIES:
 	 :ID:       3ce6c56c-dc38-4e53-a40c-029510ba2571
 	 :END:
@@ -4110,6 +4113,12 @@ APM B412
 	:END:
 <2013-08-21 Wed>
 ******* Lecture 4.2
+	:LOGBOOK:
+	CLOCK: [2013-08-28 Wed 13:45]
+	:END:
+	:PROPERTIES:
+	:ID:       818c8ee8-c89d-4b3d-8871-bcdec71823d7
+	:END:
 <2013-08-28 Wed>
 ******* Lecture 5.2
 <2013-09-04 Wed>
@@ -4585,8 +4594,12 @@ APM B412
 	 :PROPERTIES:
 	 :ID:       0fd8fa90-956c-483a-87b5-ca2323cf09ce
 	 :END:
-******** NEXT Lecture log 4.2
+******** DONE Lecture log 4.2
 	 DEADLINE: <2013-08-29 Thu>
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2013-08-28 Wed 13:44]
+	 CLOCK: [2013-08-28 Wed 12:10]--[2013-08-28 Wed 12:24] =>  0:14
+	 :END:
 	 :PROPERTIES:
 	 :ID:       2564db43-9d3b-402b-b9b7-6cf9b812aca8
 	 :END:
@@ -4595,8 +4608,11 @@ APM B412
 	 :PROPERTIES:
 	 :ID:       8970c30b-49e3-4595-9170-30a4d750ace3
 	 :END:
-******** TODO Lecture log 5.1
+******** DONE Lecture log 5.1
 	 DEADLINE: <2013-09-03 Tue>
+	 :LOGBOOK:
+	 - State "DONE"       from "TODO"       [2013-08-28 Wed 09:35]
+	 :END:
 	 :PROPERTIES:
 	 :ID:       0fb2942f-c234-4653-b110-5a69bcdb46e3
 	 :END:
@@ -4737,6 +4753,12 @@ WLH 2113
 	:END:
 <2013-08-21 Wed>
 ******* Lecture 4.2
+	:LOGBOOK:
+	CLOCK: [2013-08-28 Wed 09:50]--[2013-08-28 Wed 12:07] =>  2:17
+	:END:
+	:PROPERTIES:
+	:ID:       35e778ca-477b-467e-8471-e679db9c575e
+	:END:
 <2013-08-28 Wed>
 ******* Lecture 5.2
 <2013-09-04 Wed>
