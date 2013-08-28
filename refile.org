@@ -3,13 +3,22 @@
   :LOGBOOK:
   CLOCK: [2013-08-27 Tue 10:33]--[2013-08-27 Tue 10:34] =>  0:01
   :END:
+  :PROPERTIES:
+  :ID:       48724e79-a73d-459b-97af-4bd4581d02b2
+  :END:
 [2013-08-27 Tue 10:33]
 * TODO Set up sshfs with autofs
   :LOGBOOK:
   CLOCK: [2013-08-27 Tue 18:10]--[2013-08-27 Tue 18:11] =>  0:01
   :END:
+  :PROPERTIES:
+  :ID:       9d2df97a-0524-4efc-a3a3-4a2012d41902
+  :END:
 [2013-08-27 Tue 18:10]
 https://wiki.archlinux.org/index.php/Autofs#Remote_SSH
 * TODO Set up screen X setting
+  :PROPERTIES:
+  :ID:       e9d187bd-217a-4a24-9782-3559085d3b10
+  :END:
 [2013-08-27 Tue 18:11] 
 I have some scripts for capturing the X settings and then a script for loading these in the screen session.

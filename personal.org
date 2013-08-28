@@ -797,9 +797,15 @@ Healthy habits. I want to keep on track with living well and so need reminders t
 [2013-07-16 Tue 10:18]
 *** TODO Record health stats
   SCHEDULED: <2013-09-09 Mon>
+    :PROPERTIES:
+    :ID:       140a9729-4a79-43fe-b8e1-167623f8d08e
+    :END:
 [2013-08-24 Sat 09:57]
 *** TODO Set up daily scoring
   SCHEDULED: <2013-09-08 Sun>
+    :PROPERTIES:
+    :ID:       c281ca6c-e54c-4eff-93c3-ba6b46eb9dea
+    :END:
 [2013-08-24 Sat 09:57]
 ** Events
 *** Running							    :RUNNING:
@@ -1916,6 +1922,9 @@ Code: SHARE10
 *** Elections							  :ELECTIONS:
 **** 2013 Federal
      SCHEDULED: <2013-08-26 Mon>
+     :PROPERTIES:
+     :ID:       e246fc6d-14b2-4de8-aa08-016ab45ed832
+     :END:
 ** US 									 :US:
    :PROPERTIES:
    :ID:       3768cb3c-6685-41ec-b7fa-3a05f78e3d83
