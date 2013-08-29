@@ -3966,6 +3966,9 @@ By integrating a Taylor series term by term, get the students to compute an inte
 	 :END:
 ******** NEXT Lecture log 4.2
 	 DEADLINE: <2013-08-29 Thu>
+	 :LOGBOOK:
+	 CLOCK: [2013-08-29 Thu 10:31]
+	 :END:
 	 :PROPERTIES:
 	 :ID:       b87823ac-b630-4cb7-ba6d-93048dd06c52
 	 :END:
