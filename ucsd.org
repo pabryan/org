@@ -3852,9 +3852,11 @@ By integrating a Taylor series term by term, get the students to compute an inte
 	 :PROPERTIES:
 	 :ID:       8988d29d-771d-4b2d-a666-59d31688d74b
 	 :END:
-******** NEXT Prepare Lecture 4.3
+******** DONE Prepare Lecture 4.3
 	 DEADLINE: <2013-08-30 Fri>
 	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2013-08-29 Thu 14:00]
+	 CLOCK: [2013-08-29 Thu 12:55]--[2013-08-29 Thu 14:00] =>  1:05
 	 CLOCK: [2013-08-29 Thu 11:09]--[2013-08-29 Thu 11:20] =>  0:11
 	 :END:
 	 :PROPERTIES:
