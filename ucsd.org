@@ -3978,7 +3978,7 @@ By integrating a Taylor series term by term, get the students to compute an inte
 	 :PROPERTIES:
 	 :ID:       b87823ac-b630-4cb7-ba6d-93048dd06c52
 	 :END:
-******** TODO Lecture log 4.3
+******** NEXT Lecture log 4.3
 	 DEADLINE: <2013-08-31 Sat>
 	 :PROPERTIES:
 	 :ID:       e3d435cc-aa7b-4ef4-91e9-eae86071b66e
@@ -4491,9 +4491,11 @@ APM B412
 	 :PROPERTIES:
 	 :ID:       8988d29d-771d-4b2d-a666-59d31688d74b
 	 :END:
-******** NEXT Prepare Lecture 4.3
+******** DONE Prepare Lecture 4.3
 	 DEADLINE: <2013-08-30 Fri>
 	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2013-08-29 Thu 15:50]
+	 CLOCK: [2013-08-29 Thu 14:40]--[2013-08-29 Thu 15:50] =>  1:10
 	 CLOCK: [2013-08-29 Thu 11:20]--[2013-08-29 Thu 11:34] =>  0:14
 	 :END:
 	 :PROPERTIES:
@@ -4615,7 +4617,7 @@ APM B412
 	 :PROPERTIES:
 	 :ID:       2564db43-9d3b-402b-b9b7-6cf9b812aca8
 	 :END:
-******** TODO Lecture log 4.3
+******** NEXT Lecture log 4.3
 	 DEADLINE: <2013-08-31 Sat>
 	 :PROPERTIES:
 	 :ID:       8970c30b-49e3-4595-9170-30a4d750ace3

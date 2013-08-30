@@ -192,8 +192,11 @@ I want to find things for Remy to do at home that keep his interest in the world
      :ID:       ec4523e1-813e-4f63-8ab2-64823069b3b9
      :END:
 
-**** NEXT Find and send immunisation record
+**** DONE Find and send immunisation record
      DEADLINE: <2013-08-28 Wed>
+     :LOGBOOK:
+     - State "DONE"       from "NEXT"       [2013-08-29 Thu 19:10]
+     :END:
      :PROPERTIES:
      :ID:       e0c3b00a-52ba-472b-a31d-06068a3a811d
      :END:

@@ -35,25 +35,25 @@ END:
 |                 |       |
 | Fixed SubTotal  |  1771 |
 |                 |       |
-| Petrol          |    30 |
+| Petrol          |    50 |
 | Comics          |    60 |
 | Cloud           |    13 |
 | tritoncash      |    25 |
 |                 |       |
-| Extras Subtotal |   128 |
+| Extras Subtotal |   148 |
 |                 |       |
 | Organic Box     |   250 |
-| Weekly Food     |   250 |
-| Costco          |   250 |
+| Weekly Food     |   350 |
+| Costco          |   200 |
 |                 |       |
-| Food Subtotal   |   750 |
+| Food Subtotal   |   800 |
 |                 |       |
-| Australia       |   900 |
+| Australia       |   915 |
 |                 |       |
 | Pay             | -3800 |
 |                 |       |
-| Total           |  -251 |
-   #+TBLFM: @8$2=vsum(@2$2..@7$2)::@15$2=vsum(@10..@14)::@17$2=250::@21$2=vsum(@17..@20)::@23$2=remote(Australia,@7$2)::@27$2=@8$2+@15$2+@21$2+@23$2+@25$2
+| Total           |  -166 |
+   #+TBLFM: @8$2=vsum(@2$2..@7$2)::@15$2=vsum(@10..@14)::@17$2=250::@21$2=vsum(@17..@20)::@23$2=remote(Australia,@8$2)::@27$2=@8$2+@15$2+@21$2+@23$2+@25$2
 
 #+TBLNAME: Australia
 | Desc       |  Amt |
@@ -69,21 +69,21 @@ END:
 
 
 #+TBLNAME: WeeklyFood
-| Desc                                     | Amt |
-|------------------------------------------+-----|
-| Eggs (2 cartons)                         |   8 |
-| Milk (2 bottles)                         |   8 |
-| Bread (1 tortilla, wrap, loaf or bagels) |   8 |
-| Mushrooms (2 pounds)                     |   8 |
-| Bananas (2 bunch)                        |   6 |
-| Avocados (4)                             |   5 |
-| Onions (5)                               |   3 |
-| Tomatos (1 pound?)                       |   5 |
-| Carrots (1 bag)                          |   2 |
-| Kids Meat (1 pack)                       |   7 |
-| Cereal (1 box)                           |   5 |
-|                                          |     |
-| Total                                    |  65 |
+| Desc             | Amt |
+|------------------+-----|
+| Eggs (4 cartons) |  15 |
+| Milk (3 bottles) |  10 |
+| Bread            |   5 |
+| Mushrooms        |   5 |
+| Fruit/Veg        |  10 |
+| Deli slices      |   6 |
+| Kids meat        |  10 |
+| Cheese           |   5 |
+| Meat             |  10 |
+| Yoghurt          |   5 |
+|                  |     |
+|                  |     |
+| Total            |  81 |
    #+TBLFM: @14$2=vsum(@2$2..@13$2)
 
 #+TBLNAME: MonthlyFood 
