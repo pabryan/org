@@ -1442,6 +1442,7 @@ this way I can track upstream and keep my work independent and then merge, push 
   :END:
 ** Organisation
   :LOGBOOK:
+  CLOCK: [2013-08-30 Fri 09:18]--[2013-08-30 Fri 09:52] =>  0:34
   CLOCK: [2013-08-29 Thu 16:01]--[2013-08-29 Thu 16:02] =>  0:01
   CLOCK: [2013-08-29 Thu 10:25]--[2013-08-29 Thu 10:30] =>  0:05
   CLOCK: [2013-08-28 Wed 12:07]--[2013-08-28 Wed 12:10] =>  0:03
@@ -2283,8 +2284,10 @@ When I set up scoring the day:
 - [ ] Collate data such as sleep, weight, exercise, diet etc.
 
 ** NEXT Daily Plan [0/2]
-   SCHEDULED: <2013-08-30 Fri .+1d/2d>
+   SCHEDULED: <2013-08-31 Sat .+1d/2d>
    :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2013-08-30 Fri 12:05]
+   CLOCK: [2013-08-30 Fri 12:04]--[2013-08-30 Fri 12:05] =>  0:01
    - State "DONE"       from "NEXT"       [2013-08-29 Thu 10:31]
    CLOCK: [2013-08-29 Thu 10:30]--[2013-08-29 Thu 10:31] =>  0:01
    - State "DONE"       from "NEXT"       [2013-08-28 Wed 09:36]
@@ -2506,7 +2509,7 @@ When I set up scoring the day:
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
    :ID:       ef051ee0-1113-4604-b355-450a5a47848b
-   :LAST_REPEAT: [2013-08-29 Thu 16:02]
+   :LAST_REPEAT: [2013-08-30 Fri 12:05]
    :END:
 
 - [ ] Check agenda/focus

@@ -4062,6 +4062,7 @@ By integrating a Taylor series term by term, get the students to compute an inte
 ****** Admin
 ****** Office hours
        :LOGBOOK:
+       CLOCK: [2013-08-30 Fri 16:04]--[2013-08-30 Fri 17:13] =>  1:09
        CLOCK: [2013-08-23 Fri 16:01]--[2013-08-23 Fri 16:52] =>  0:51
        :END:
 ***** Lectures
@@ -4157,6 +4158,12 @@ APM B412
 	:END:
 <2013-08-23 Fri>
 ******* Lecture 4.3
+	:LOGBOOK:
+	CLOCK: [2013-08-30 Fri 13:50]--[2013-08-30 Fri 16:04] =>  2:14
+	:END:
+	:PROPERTIES:
+	:ID:       f06f5301-5d5d-4e2e-965d-b4758d21e316
+	:END:
 <2013-08-30 Fri>
 ******* Lecture 5.3
 <2013-09-06 Fri>
@@ -4200,6 +4207,9 @@ APM B412
        <2013-08-23 Fri>
 
 ****** Homework 4 Due
+       :PROPERTIES:
+       :ID:       9b39fb90-236c-49cb-86b4-6031f37b9352
+       :END:
        <2013-08-30 Fri>
 
 ****** Homework 5 Due
@@ -4520,6 +4530,9 @@ APM B412
 	 :ID:       c8b03ed1-4f6e-4c98-a0cd-08c6972691c3
 	 :END:
 ******* TODO Lecture log
+	:LOGBOOK:
+	CLOCK: [2013-08-30 Fri 12:19]--[2013-08-30 Fri 12:20] =>  0:01
+	:END:
 	:PROPERTIES:
 	:ID:       0512ab7f-5978-47fd-bdaf-f17072dd5d00
 	:END:
@@ -4617,8 +4630,12 @@ APM B412
 	 :PROPERTIES:
 	 :ID:       2564db43-9d3b-402b-b9b7-6cf9b812aca8
 	 :END:
-******** NEXT Lecture log 4.3
+******** DONE Lecture log 4.3
 	 DEADLINE: <2013-08-31 Sat>
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2013-08-30 Fri 12:19]
+	 CLOCK: [2013-08-30 Fri 12:05]--[2013-08-30 Fri 12:19] =>  0:14
+	 :END:
 	 :PROPERTIES:
 	 :ID:       8970c30b-49e3-4595-9170-30a4d750ace3
 	 :END:
@@ -4804,6 +4821,12 @@ WLH 2113
 	:END:
 <2013-08-23 Fri>
 ******* Lecture 4.3
+	:LOGBOOK:
+	CLOCK: [2013-08-30 Fri 09:52]--[2013-08-30 Fri 12:04] =>  2:12
+	:END:
+	:PROPERTIES:
+	:ID:       21c52e64-2fe7-4b7e-ae16-68f1b48d3b32
+	:END:
 <2013-08-30 Fri>
 ******* Lecture 5.3
 <2013-09-06 Fri>
@@ -4839,6 +4862,9 @@ WLH 2113
        <2013-08-23 Fri>
 
 ****** Homework 4 Due
+       :PROPERTIES:
+       :ID:       a0281eea-d375-4389-836e-cec358452b19
+       :END:
        <2013-08-30 Fri>
 
 ****** Homework 5 Due
