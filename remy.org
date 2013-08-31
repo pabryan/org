@@ -58,8 +58,9 @@ $14 family
 <2013-01-31 Thu 07:00-08:00>
 <2013-02-07 Thu 07:00-08:00>
 <2013-02-08 Fri 07:00-08:00>
-*** NEXT Pick Remy up from school
+*** DONE Pick Remy up from school
     :LOGBOOK:
+    - State "DONE"       from "NEXT"       [2013-08-30 Fri 21:22]
     CLOCK: [2013-01-29 Tue 13:55]--[2013-01-29 Tue 14:28] =>  0:33
     CLOCK: [2013-01-29 Tue 13:05]--[2013-01-29 Tue 13:30] =>  0:25
     CLOCK: [2013-01-28 Mon 13:20]--[2013-01-28 Mon 14:35] =>  1:15
@@ -233,6 +234,13 @@ Pass: 67dogs43
      :ID:       a439df9a-08fe-4993-a14b-82ccf44c02e1
      :END:
 <2013-08-28 Wed>
+*** 2013/2014
+**** Parent/Director Meeting
+[2013-09-10 Tue 18:00-19:00]
+[2013-09-11 Wed 09:00-10:00]
+[2013-09-21 Sat 16:00-17:00]
+[2013-09-24 Tue 17:00-18:00]
+[2013-09-26 Thu 14:30-15:30]
 * Reading
   :PROPERTIES:
   :ID:       d39bef53-4de3-4de3-b9e3-7f3a75c7229b
