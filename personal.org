@@ -24,6 +24,7 @@ END:
 *** Chase Routing Number
 322271627
 ** Budget
+
 #+TBLNAME: MTHBUDGET
 | Desc            |   Amt |
 |-----------------+-------|
@@ -39,8 +40,11 @@ END:
 | Comics          |    60 |
 | Cloud           |    13 |
 | tritoncash      |    25 |
+| Netflix         |    10 |
+| Naturebox       |    20 |
+| Pets            |    25 |
 |                 |       |
-| Extras Subtotal |   148 |
+| Extras Subtotal |   203 |
 |                 |       |
 | Organic Box     |   250 |
 | Weekly Food     |   350 |
@@ -52,8 +56,8 @@ END:
 |                 |       |
 | Pay             | -3800 |
 |                 |       |
-| Total           |  -166 |
-   #+TBLFM: @8$2=vsum(@2$2..@7$2)::@15$2=vsum(@10..@14)::@17$2=250::@21$2=vsum(@17..@20)::@23$2=remote(Australia,@8$2)::@27$2=@8$2+@15$2+@21$2+@23$2+@25$2
+| Total           |  -111 |
+   #+TBLFM: @8$2=vsum(@2$2..@7$2)::@18$2=vsum(@10..@17)::@20$2=250::@24$2=vsum(@20..@23)::@26$2=remote(Australia,@8$2)::@30$2=@8$2+@18$2+@24$2+@26$2+@28$2
 
 #+TBLNAME: Australia
 | Desc       |  Amt |
@@ -337,21 +341,20 @@ Can we suspend loan repayments for a few months?
    :END:
 [2013-01-28 Mon 19:48]
 
-*** TODO Update budget
-  DEADLINE: <2013-08-31 Sat>
-  :LOGBOOK:
-  CLOCK: [2013-08-04 Sun 09:48]--[2013-08-04 Sun 09:49] =>  0:01
-  :END:
+*** NEXT Update budget
+    DEADLINE: <2013-08-31 Sat>
+    :LOGBOOK:
+    CLOCK: [2013-08-31 Sat 13:01]--[2013-08-31 Sat 13:03] =>  0:02
+    CLOCK: [2013-08-04 Sun 09:48]--[2013-08-04 Sun 09:49] =>  0:01
+    :END:
     :PROPERTIES:
     :ID:       96cb3107-6a4e-4647-bbd8-8c1827233874
     :END:
 [2013-08-04 Sun 09:48]
-- Netflix $9
-- Naturebox $20
-- Pets $25
 - AT&T: $50 bundle?
 - Get rid of Tritoncash
 - Look for other savings.
+
 ** Tax
 *** US
 **** DONE Do Tax
