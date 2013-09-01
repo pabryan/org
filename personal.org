@@ -1629,8 +1629,12 @@ Find a good postcast player for android. I want to be able to do offline listeni
 **** Technology
 http://jorgenmodin.net/index_html/archive/2009/12/26/list-of-open-source-dlnaupnp-av-software-devices
 ** Games							      :GAMES:
-*** Get Playstation plus
+*** CANCELLED Get Playstation plus
     SCHEDULED: <2013-09-01 Sun>
+    :LOGBOOK:
+    - State "CANCELLED"  from "TODO"       [2013-09-01 Sun 10:31] \\
+      I don't really play enough games to make it worthwhile.
+    :END:
 *** DND
 https://www.wizards.com/dnd/dndnext.aspx
 ** Entertainment mangement/system
@@ -1915,8 +1919,12 @@ Code: SHARE10
   :PROPERTIES:
   :ID:       dc3810ba-5ac7-4651-92e0-0be8299a88e4
   :END:
-** Buy google credit
+** CANCELLED Buy google credit
    SCHEDULED: <2013-09-01 Sun>
+   :LOGBOOK:
+   - State "CANCELLED"  from ""           [2013-09-01 Sun 10:31] \\
+     I'm just being lazy here. We have Skype credit on Kate's account and that will suffice for now.
+   :END:
 
 * Gov									:GOV:
   :PROPERTIES:
