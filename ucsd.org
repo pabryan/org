@@ -3559,8 +3559,9 @@ Lectures in calendar and tasks like planning lectures.
 	:PROPERTIES:
 	:ID:       4a202266-f308-4102-925f-4ec6ca3b5b36
 	:END:
-******* TODO Midterm 1
+******* DONE Midterm 1
 	:LOGBOOK:
+	- State "DONE"       from "TODO"       [2013-08-31 Sat 21:10]
 	- State "TODO"       from "DONE"       [2013-08-24 Sat 10:06] \\
 	  Re-opened since I need to write solutions.
 	- State "DONE"       from "TODO"       [2013-08-11 Sun 21:22]
@@ -3870,7 +3871,7 @@ By integrating a Taylor series term by term, get the students to compute an inte
 	 :PROPERTIES:
 	 :ID:       d3fa0895-986b-48a9-b0b9-c1573fad5535
 	 :END:
-******** TODO Prepare Lecture 5.2
+******** NEXT Prepare Lecture 5.2
 	 DEADLINE: <2013-09-04 Wed>
 	 :PROPERTIES:
 	 :ID:       a932d487-a0ee-4b73-a217-89c15eda214f
@@ -3885,7 +3886,7 @@ By integrating a Taylor series term by term, get the students to compute an inte
 	:PROPERTIES:
 	:ID:       63808548-10c0-4cda-9e8d-4f567ad0ef5e
 	:END:
-******** TODO Lecture log 1.1
+******** NEXT Lecture log 1.1
 	 DEADLINE: <2013-08-06 Tue>
 	 :PROPERTIES:
 	 :ID:       45d669e6-c839-4f48-a749-d1b011a2baf0
@@ -3995,7 +3996,7 @@ By integrating a Taylor series term by term, get the students to compute an inte
 	 :PROPERTIES:
 	 :ID:       3ce6c56c-dc38-4e53-a40c-029510ba2571
 	 :END:
-******** TODO Lecture log 5.2
+******** NEXT Lecture log 5.2
 	 DEADLINE: <2013-09-05 Thu>
 	 :PROPERTIES:
 	 :ID:       9212e12f-1567-4003-be97-93fd84aa2722
@@ -4238,7 +4239,10 @@ APM B412
 	:PROPERTIES:
 	:ID:       0493a4be-8006-4cf9-a4b7-c05605a68965
 	:END:
-******* TODO Midterm
+******* DONE Midterm
+	:LOGBOOK:
+	- State "DONE"       from "TODO"       [2013-08-31 Sat 21:10]
+	:END:
 	:PROPERTIES:
 	:ID:       7b48b153-544e-4c11-8089-de11fb5f224c
 	:END:
@@ -4523,7 +4527,7 @@ APM B412
 	 :PROPERTIES:
 	 :ID:       d3fa0895-986b-48a9-b0b9-c1573fad5535
 	 :END:
-******** TODO Prepare Lecture 5.2
+******** NEXT Prepare Lecture 5.2
 	 DEADLINE: <2013-09-04 Wed>
 	 :PROPERTIES:
 	 :ID:       a932d487-a0ee-4b73-a217-89c15eda214f
@@ -4540,7 +4544,7 @@ APM B412
 	:PROPERTIES:
 	:ID:       0512ab7f-5978-47fd-bdaf-f17072dd5d00
 	:END:
-******** TODO Lecture log 1.1
+******** NEXT Lecture log 1.1
 	 DEADLINE: <2013-08-06 Tue>
 	 :PROPERTIES:
 	 :ID:       c702a852-32cd-4d27-8d5f-d43031117130
@@ -4651,7 +4655,7 @@ APM B412
 	 :PROPERTIES:
 	 :ID:       0fb2942f-c234-4653-b110-5a69bcdb46e3
 	 :END:
-******** TODO Lecture log 5.2
+******** NEXT Lecture log 5.2
 	 DEADLINE: <2013-09-05 Thu>
 	 :PROPERTIES:
 	 :ID:       aea5ae61-af7a-4bda-b2f8-06a90117d9bc
