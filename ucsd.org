@@ -3656,12 +3656,21 @@ Lectures in calendar and tasks like planning lectures.
 	:PROPERTIES:
 	:ID:       a23578c7-90ac-4647-a379-53ed69b9ecca
 	:END:
-******** NEXT Write Final
+******** WAITING Write Final
 	  DEADLINE: <2013-09-03 Tue>
+	  :LOGBOOK:
+	  - State "WAITING"    from "NEXT"       [2013-09-01 Sun 12:14] \\
+	    Waiting for TA comments.
+	  CLOCK: [2013-09-01 Sun 11:02]--[2013-09-01 Sun 12:14] =>  1:12
+	  :END:
 	 :PROPERTIES:
 	 :ID:       a1399eac-2d2f-4930-a81d-375cd1841cb8
 	 :END:
-******** TODO Get TA's comments
+******** DONE Get TA's comments
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2013-09-01 Sun 12:51]
+	 CLOCK: [2013-09-01 Sun 12:14]--[2013-09-01 Sun 12:51] =>  0:37
+	 :END:
 	 :PROPERTIES:
 	 :ID:       3a373461-1463-4a91-8602-801960456155
 	 :END:
