@@ -1442,6 +1442,8 @@ this way I can track upstream and keep my work independent and then merge, push 
   :END:
 ** Organisation
   :LOGBOOK:
+  CLOCK: [2013-09-01 Sun 10:26]--[2013-09-01 Sun 10:27] =>  0:01
+  CLOCK: [2013-09-01 Sun 10:24]--[2013-09-01 Sun 10:26] =>  0:02
   CLOCK: [2013-08-31 Sat 13:03]--[2013-08-31 Sat 13:20] =>  0:17
   CLOCK: [2013-08-31 Sat 12:56]--[2013-08-31 Sat 13:00] =>  0:04
   CLOCK: [2013-08-30 Fri 21:48]--[2013-08-30 Fri 22:08] =>  0:20
@@ -2294,6 +2296,8 @@ When I set up scoring the day:
 ** NEXT Daily Plan [0/2]
    SCHEDULED: <2013-09-01 Sun .+1d/2d>
    :LOGBOOK:
+   CLOCK: [2013-09-01 Sun 10:28]
+   CLOCK: [2013-09-01 Sun 10:27]--[2013-09-01 Sun 10:28] =>  0:01
    - State "DONE"       from "NEXT"       [2013-08-31 Sat 13:03]
    CLOCK: [2013-08-31 Sat 13:00]--[2013-08-31 Sat 13:01] =>  0:01
    - State "DONE"       from "NEXT"       [2013-08-30 Fri 12:05]
