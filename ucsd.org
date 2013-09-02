@@ -4322,6 +4322,7 @@ APM B412
 ******** NEXT Write Final
 	  DEADLINE: <2013-09-03 Tue>
 	  :LOGBOOK:
+	  CLOCK: [2013-09-01 Sun 17:36]--[2013-09-01 Sun 18:20] =>  0:44
 	  CLOCK: [2013-09-01 Sun 14:08]--[2013-09-01 Sun 15:48] =>  1:40
 	  :END:
 	 :PROPERTIES:

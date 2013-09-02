@@ -1444,7 +1444,6 @@ this way I can track upstream and keep my work independent and then merge, push 
   :LOGBOOK:
   CLOCK: [2013-09-01 Sun 10:32]--[2013-09-01 Sun 11:02] =>  0:30
   CLOCK: [2013-09-01 Sun 10:26]--[2013-09-01 Sun 10:27] =>  0:01
-  CLOCK: [2013-09-01 Sun 10:24]--[2013-09-01 Sun 10:26] =>  0:02
   CLOCK: [2013-08-31 Sat 13:03]--[2013-08-31 Sat 13:20] =>  0:17
   CLOCK: [2013-08-31 Sat 12:56]--[2013-08-31 Sat 13:00] =>  0:04
   CLOCK: [2013-08-30 Fri 21:48]--[2013-08-30 Fri 22:08] =>  0:20
