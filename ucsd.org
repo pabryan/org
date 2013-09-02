@@ -4556,6 +4556,7 @@ APM B412
 	 :END:
 ******* TODO Lecture log
 	:LOGBOOK:
+	CLOCK: [2013-09-02 Mon 12:44]--[2013-09-02 Mon 12:46] =>  0:02
 	CLOCK: [2013-08-30 Fri 12:19]--[2013-08-30 Fri 12:20] =>  0:01
 	:END:
 	:PROPERTIES:
@@ -4675,13 +4676,16 @@ APM B412
 ******** NEXT Lecture log 5.2
 	 DEADLINE: <2013-09-05 Thu>
 	 :LOGBOOK:
-	 CLOCK: [2013-09-02 Mon 11:30]
+	 CLOCK: [2013-09-02 Mon 11:30]--[2013-09-02 Mon 12:12] =>  0:42
 	 :END:
 	 :PROPERTIES:
 	 :ID:       aea5ae61-af7a-4bda-b2f8-06a90117d9bc
 	 :END:
-******** TODO Lecture log 5.3
+******** NEXT Lecture log 5.3
 	 DEADLINE: <2013-09-07 Sat>
+	 :LOGBOOK:
+	 CLOCK: [2013-09-02 Mon 12:12]--[2013-09-02 Mon 12:44] =>  0:32
+	 :END:
 	 :PROPERTIES:
 	 :ID:       61a8117f-192c-464e-ad1b-c7332e6322ad
 	 :END:
