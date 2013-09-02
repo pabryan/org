@@ -2085,3 +2085,8 @@
 [2013-09-02 Mon 14:35]
 Check out things like scoring and recording my workouts better in org mode. Can I automate some mapmyrun into org mode? 
 Also mapmyrun has a journal thing that I could use as a template.
+**** Lunch
+     :LOGBOOK:
+     CLOCK: [2013-09-02 Mon 14:40]--[2013-09-02 Mon 15:15] =>  0:35
+     :END:
+[2013-09-02 Mon 14:40]
