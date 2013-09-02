@@ -4319,20 +4319,18 @@ APM B412
 	:PROPERTIES:
 	:ID:       acf5d375-8af0-466b-9cff-2b50f70b495b
 	:END:
-******** NEXT Write Final
+******** WAITING Write Final
 	  DEADLINE: <2013-09-03 Tue>
 	  :LOGBOOK:
+	  - State "WAITING"    from "NEXT"       [2013-09-01 Sun 20:41] \\
+	    Waiting for TA response.
+	  CLOCK: [2013-09-01 Sun 20:07]--[2013-09-01 Sun 20:41] =>  0:34
 	  CLOCK: [2013-09-01 Sun 17:36]--[2013-09-01 Sun 18:20] =>  0:44
 	  CLOCK: [2013-09-01 Sun 14:08]--[2013-09-01 Sun 15:48] =>  1:40
 	  :END:
 	 :PROPERTIES:
 	 :ID:       00f1f929-ab78-4aca-b232-a59a0455104c
 	 :END:
-******** TODO Write final solutions
-	:PROPERTIES:
-	:ID:       cf912647-e54e-4eec-903d-7bef130c8430
-	:END:
-[2013-08-23 Fri 09:52]
 ****** TODO Homework
        :LOGBOOK:
        - State "DONE"       from "TODO"       [2013-08-11 Sun 21:23]
