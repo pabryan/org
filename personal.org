@@ -1449,6 +1449,9 @@ http://sandiegosr.evanced.info/homepage.asp?ProgramID=22
      :ID:       9de96b24-cf68-49d8-859f-20be2db52268
      :END:
 
+**** TODO Return Books
+     DEADLINE: <2013-09-23 Mon>
+
 ** Books							      :BOOKS:
 *** Graphic Novels					     :GRAPHIC_NOVELS:
 **** League of Extraordinary Gentlemen
@@ -1584,12 +1587,7 @@ Catch the 41. Get off at Derrik Dr. after Claremont Mesa and before Balboa.
    :ID:       c8918022-6e08-47bf-83ce-a79c1a86f43f
    :END:
 *** Tasks
-**** TODO Get Raspberry Pi
-     SCHEDULED: <2013-09-01 Sun>
-     :PROPERTIES:
-     :ID:       e9814504-7032-4034-a786-e3047c113828
-     :END:
-** Podcasts							   :PODCASTS:
+** Podcasts 							   :PODCASTS:
    :PROPERTIES:
    :ID:       dbc15a6d-b5a8-49eb-b640-09a989a68962
    :END:
