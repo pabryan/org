@@ -28,3 +28,6 @@ I have some scripts for capturing the X settings and then a script for loading t
 [2013-09-01 Sun 10:28]
 * TODO Get TB screening
 [2013-09-01 Sun 10:30]
+* TODO Stop various unused daemons
+[2013-09-02 Mon 21:12]
+I have mythtv and mediatomb and who knows what else using up valuable resources.
