@@ -23,7 +23,7 @@ END:
 ** Bank
 *** Chase Routing Number
 322271627
-** Budget
+** COMMENT Budget
 
 #+TBLNAME: MTHBUDGET
 | Desc            |   Amt |
@@ -123,19 +123,23 @@ END:
    #+TBLFM: @11$2=vsum(@2$2..@10$2)
 
 #+TBLNAME: Coming up
-| Desc           | Amt |
-|----------------+-----|
-| sdge           |  70 |
-| rent insurance |  20 |
-| petrol         |  50 |
-| cloud          |  25 |
-| pets           |  25 |
-| ah             | 200 |
-| costco         | 200 |
-| food           | 250 |
-|                |     |
-| Tot            | 840 |
-   #+TBLFM: @11$2=vsum(@2$2..@9$2)
+| Desc           |  Amt |
+|----------------+------|
+| sdge           |   70 |
+| rent insurance |   20 |
+| petrol         |   50 |
+| cloud          |   25 |
+| pets           |   25 |
+| ah             |  200 |
+| costco         |  200 |
+| food           |  250 |
+| Lily's party   |  200 |
+| Car            |  150 |
+| Zoo            |  200 |
+| Padres         |      |
+|                |      |
+| Tot            | 1390 |
+   #+TBLFM: @15$2=vsum(@2$2..@14$2)
    
 ** Bills 
 *** TODO Pay rent
