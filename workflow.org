@@ -1442,6 +1442,7 @@ this way I can track upstream and keep my work independent and then merge, push 
   :END:
 ** Organisation
   :LOGBOOK:
+  CLOCK: [2013-09-02 Mon 20:05]--[2013-09-02 Mon 21:05] =>  1:00
   CLOCK: [2013-09-02 Mon 14:36]--[2013-09-02 Mon 14:40] =>  0:04
   CLOCK: [2013-09-02 Mon 12:46]--[2013-09-02 Mon 13:01] =>  0:15
   CLOCK: [2013-09-02 Mon 10:47]--[2013-09-02 Mon 11:01] =>  0:14
@@ -2157,6 +2158,7 @@ Check how I did last month. I guess the review and plan could probably go togeth
 ** NEXT Daily Review [0/6]
    SCHEDULED: <2013-09-01 Sun .+1d/2d>
    :LOGBOOK:
+   CLOCK: [2013-09-02 Mon 21:05]
    - State "DONE"       from "NEXT"       [2013-08-31 Sat 21:14]
    CLOCK: [2013-08-31 Sat 21:08]--[2013-08-31 Sat 21:14] =>  0:06
    - State "DONE"       from "NEXT"       [2013-08-30 Fri 21:48]

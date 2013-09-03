@@ -4008,16 +4008,22 @@ By integrating a Taylor series term by term, get the students to compute an inte
 	 :PROPERTIES:
 	 :ID:       3ce6c56c-dc38-4e53-a40c-029510ba2571
 	 :END:
-******** NEXT Lecture log 5.2
+******** DONE Lecture log 5.2
 	 DEADLINE: <2013-09-05 Thu>
 	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2013-09-02 Mon 16:10]
+	 CLOCK: [2013-09-02 Mon 15:35]--[2013-09-02 Mon 16:10] =>  0:35
 	 CLOCK: [2013-09-02 Mon 11:16]--[2013-09-02 Mon 11:30] =>  0:14
 	 :END:
 	 :PROPERTIES:
 	 :ID:       9212e12f-1567-4003-be97-93fd84aa2722
 	 :END:
-******** TODO Lecture log 5.3
+******** NEXT Lecture log 5.3
 	 DEADLINE: <2013-09-07 Sat>
+	 :LOGBOOK:
+	 CLOCK: [2013-09-02 Mon 16:10]--[2013-09-02 Mon 16:40] =>  0:30
+	 :END:
+
 	 :PROPERTIES:
 	 :ID:       32bc5718-4186-4e99-8ca3-9213192b1842
 	 :END:
