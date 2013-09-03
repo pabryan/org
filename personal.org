@@ -123,13 +123,19 @@ END:
    #+TBLFM: @11$2=vsum(@2$2..@10$2)
 
 #+TBLNAME: Coming up
-| Desc | Amt |
-|------+-----|
-|      |     |
-|      |     |
-|      |     |
-| Tot  |   0 |
-   #+TBLFM: @5$2=vsum(@2$2..@4$2)
+| Desc           | Amt |
+|----------------+-----|
+| sdge           |  70 |
+| rent insurance |  20 |
+| petrol         |  50 |
+| cloud          |  25 |
+| pets           |  25 |
+| ah             | 200 |
+| costco         | 200 |
+| food           | 250 |
+|                |     |
+| Tot            | 840 |
+   #+TBLFM: @11$2=vsum(@2$2..@9$2)
    
 ** Bills 
 *** TODO Pay rent
