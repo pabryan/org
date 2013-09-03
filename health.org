@@ -366,6 +366,7 @@
 *** NEXT Afternoon Relax
     SCHEDULED: <2013-09-01 Sun .+1d/2d>
     :LOGBOOK:
+    CLOCK: [2013-09-02 Mon 15:15]
     - State "DONE"       from "NEXT"       [2013-08-31 Sat 20:54]
     - State "DONE"       from "NEXT"       [2013-08-30 Fri 21:48]
     - State "DONE"       from "NEXT"       [2013-08-29 Thu 17:06]
