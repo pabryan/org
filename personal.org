@@ -23,8 +23,9 @@ END:
 ** Bank
 *** Chase Routing Number
 322271627
-** COMMENT Budget
+** Budget
 
+*** Monthly
 #+TBLNAME: MTHBUDGET
 | Desc            |   Amt |
 |-----------------+-------|
@@ -59,36 +60,6 @@ END:
 | Total           |  -111 |
    #+TBLFM: @8$2=vsum(@2$2..@7$2)::@18$2=vsum(@10..@17)::@20$2=250::@24$2=vsum(@20..@23)::@26$2=remote(Australia,@8$2)::@30$2=@8$2+@18$2+@24$2+@26$2+@28$2
 
-#+TBLNAME: Australia
-| Desc       |  Amt |
-|------------+------|
-| Loan       |  500 |
-| ASG        |  135 |
-| Kate Visa  |  500 |
-| Family Tax | -220 |
-|            |      |
-| Out        | 1135 |
-| Total      |  915 |
-   #+TBLFM: @7$2=vsum(@2$2..@4$2)::@8$2=vsum(@2$2..@6$2)
-
-
-#+TBLNAME: WeeklyFood
-| Desc             | Amt |
-|------------------+-----|
-| Eggs (4 cartons) |  15 |
-| Milk (3 bottles) |  10 |
-| Bread            |   5 |
-| Mushrooms        |   5 |
-| Fruit/Veg        |  10 |
-| Deli slices      |   6 |
-| Kids meat        |  10 |
-| Cheese           |   5 |
-| Meat             |  10 |
-| Yoghurt          |   5 |
-|                  |     |
-|                  |     |
-| Total            |  81 |
-   #+TBLFM: @14$2=vsum(@2$2..@13$2)
 
 #+TBLNAME: MonthlyFood 
 | Desc                | Amt |
@@ -122,24 +93,60 @@ END:
 | Tot                        | 58.5 |
    #+TBLFM: @11$2=vsum(@2$2..@10$2)
 
+*** Oz
+#+TBLNAME: Australia
+| Desc       |  Amt |
+|------------+------|
+| Loan       |  500 |
+| ASG        |  135 |
+| Kate Visa  |  500 |
+| Family Tax | -220 |
+|            |      |
+| Out        | 1135 |
+| Total      |  915 |
+   #+TBLFM: @7$2=vsum(@2$2..@4$2)::@8$2=vsum(@2$2..@6$2)
+
+*** Weekly
+#+TBLNAME: WeeklyFood
+| Desc             | Amt |
+|------------------+-----|
+| Eggs (4 cartons) |  15 |
+| Milk (3 bottles) |  10 |
+| Bread            |   5 |
+| Mushrooms        |   5 |
+| Fruit/Veg        |  10 |
+| Deli slices      |   6 |
+| Kids meat        |  10 |
+| Cheese           |   5 |
+| Meat             |  10 |
+| Yoghurt          |   5 |
+|                  |     |
+|                  |     |
+| Total            |  81 |
+   #+TBLFM: @14$2=vsum(@2$2..@13$2)
+
+*** Coming up
 #+TBLNAME: Coming up
-| Desc           |  Amt |
-|----------------+------|
-| sdge           |   70 |
-| rent insurance |   20 |
-| petrol         |   50 |
-| cloud          |   25 |
-| pets           |   25 |
-| ah             |  200 |
-| costco         |  200 |
-| food           |  250 |
-| Lily's party   |  200 |
-| Car            |  150 |
-| Zoo            |  200 |
-| Padres         |      |
-|                |      |
-| Tot            | 1390 |
-   #+TBLFM: @15$2=vsum(@2$2..@14$2)
+| Desc           |      Amt |
+|----------------+----------|
+| sdge           |       70 |
+| rent insurance |       20 |
+| petrol         |       50 |
+| cloud          |       25 |
+| pets           |       25 |
+| ah             |      200 |
+| costco         |      200 |
+| food           |      300 |
+| Lily's party   |      200 |
+| Car            |      150 |
+| Zoo            |      200 |
+| Oz             |     3500 |
+| Oz             |     3000 |
+|                |          |
+| Balance        | -8144.15 |
+|                |          |
+| Tot            |  -204.15 |
+   #+TBLFM: @18$2=vsum(@2$2..@17$2)
    
 ** Bills 
 *** TODO Pay rent
