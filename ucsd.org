@@ -3656,9 +3656,10 @@ Lectures in calendar and tasks like planning lectures.
 	:PROPERTIES:
 	:ID:       a23578c7-90ac-4647-a379-53ed69b9ecca
 	:END:
-******** WAITING Write Final
+******** DONE Write Final
 	  DEADLINE: <2013-09-03 Tue>
 	  :LOGBOOK:
+	  - State "DONE"       from "WAITING"    [2013-09-03 Tue 18:06]
 	  - State "WAITING"    from "NEXT"       [2013-09-01 Sun 12:14] \\
 	    Waiting for TA comments.
 	  CLOCK: [2013-09-01 Sun 11:02]--[2013-09-01 Sun 12:14] =>  1:12
@@ -3884,16 +3885,21 @@ By integrating a Taylor series term by term, get the students to compute an inte
 	 :PROPERTIES:
 	 :ID:       d3fa0895-986b-48a9-b0b9-c1573fad5535
 	 :END:
-******** NEXT Prepare Lecture 5.2
+******** DONE Prepare Lecture 5.2
 	 DEADLINE: <2013-09-04 Wed>
 	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2013-09-02 Mon 16:10]
+	 CLOCK: [2013-09-02 Mon 15:35]--[2013-09-02 Mon 16:10] =>  0:35
 	 CLOCK: [2013-09-02 Mon 11:01]--[2013-09-02 Mon 11:16] =>  0:15
 	 :END:
 	 :PROPERTIES:
 	 :ID:       a932d487-a0ee-4b73-a217-89c15eda214f
 	 :END:
-******** TODO Prepare Lecture 5.3
+******** NEXT Prepare Lecture 5.3
 	 DEADLINE: <2013-09-06 Fri>
+         :LOGBOOK:
+	 CLOCK: [2013-09-02 Mon 16:10]--[2013-09-02 Mon 16:40] =>  0:30
+	 :END:
 	 :PROPERTIES:
 	 :ID:       c8b03ed1-4f6e-4c98-a0cd-08c6972691c3
 	 :END:
@@ -4012,11 +4018,9 @@ By integrating a Taylor series term by term, get the students to compute an inte
 	 :PROPERTIES:
 	 :ID:       3ce6c56c-dc38-4e53-a40c-029510ba2571
 	 :END:
-******** DONE Lecture log 5.2
+******** NEXT Lecture log 5.2
 	 DEADLINE: <2013-09-05 Thu>
-	 :LOGBOOK:
-	 - State "DONE"       from "NEXT"       [2013-09-02 Mon 16:10]
-	 CLOCK: [2013-09-02 Mon 15:35]--[2013-09-02 Mon 16:10] =>  0:35
+	 :LOGBOOK:	 
 	 CLOCK: [2013-09-02 Mon 11:16]--[2013-09-02 Mon 11:30] =>  0:14
 	 :END:
 	 :PROPERTIES:
@@ -4024,9 +4028,7 @@ By integrating a Taylor series term by term, get the students to compute an inte
 	 :END:
 ******** NEXT Lecture log 5.3
 	 DEADLINE: <2013-09-07 Sat>
-	 :LOGBOOK:
-	 CLOCK: [2013-09-02 Mon 16:10]--[2013-09-02 Mon 16:40] =>  0:30
-	 :END:
+	 
 
 	 :PROPERTIES:
 	 :ID:       32bc5718-4186-4e99-8ca3-9213192b1842
@@ -4338,9 +4340,10 @@ APM B412
 	:PROPERTIES:
 	:ID:       acf5d375-8af0-466b-9cff-2b50f70b495b
 	:END:
-******** WAITING Write Final
+******** DONE Write Final
 	  DEADLINE: <2013-09-03 Tue>
 	  :LOGBOOK:
+	  - State "DONE"       from "WAITING"    [2013-09-03 Tue 18:06]
 	  - State "WAITING"    from "NEXT"       [2013-09-01 Sun 20:41] \\
 	    Waiting for TA response.
 	  CLOCK: [2013-09-01 Sun 20:07]--[2013-09-01 Sun 20:41] =>  0:34
@@ -4557,12 +4560,15 @@ APM B412
 	 :PROPERTIES:
 	 :ID:       d3fa0895-986b-48a9-b0b9-c1573fad5535
 	 :END:
-******** NEXT Prepare Lecture 5.2
+******** DONE Prepare Lecture 5.2
 	 DEADLINE: <2013-09-04 Wed>
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2013-09-03 Tue 13:00]
+	 CLOCK: [2013-09-03 Tue 12:20]--[2013-09-03 Tue 13:00] =>  0:40
 	 :PROPERTIES:
 	 :ID:       a932d487-a0ee-4b73-a217-89c15eda214f
 	 :END:
-******** TODO Prepare Lecture 5.3
+******** NEXT Prepare Lecture 5.3
 	 DEADLINE: <2013-09-06 Fri>
 	 :PROPERTIES:
 	 :ID:       c8b03ed1-4f6e-4c98-a0cd-08c6972691c3
