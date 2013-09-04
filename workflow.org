@@ -1442,7 +1442,7 @@ this way I can track upstream and keep my work independent and then merge, push 
   :END:
 ** Organisation
   :LOGBOOK:
-  CLOCK: [2013-09-03 Tue 19:58]
+  CLOCK: [2013-09-03 Tue 19:58]--[2013-09-03 Tue 20:05] =>  0:07
   CLOCK: [2013-09-03 Tue 16:42]--[2013-09-03 Tue 18:01] =>  1:19
   CLOCK: [2013-09-03 Tue 10:42]--[2013-09-03 Tue 11:28] =>  0:46
   CLOCK: [2013-09-03 Tue 10:31]--[2013-09-03 Tue 10:32] =>  0:01
@@ -2160,8 +2160,11 @@ Set some goals for the month. I should check someday projects for inclusion in t
 Check how I did last month. I guess the review and plan could probably go together. This is all broad stuff
 
 ** NEXT Daily Review [0/6]
-   SCHEDULED: <2013-09-03 Tue .+1d/2d>
+   SCHEDULED: <2013-09-04 Wed .+1d/2d>
    :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2013-09-03 Tue 20:37]
+   CLOCK: [2013-09-03 Tue 20:23]--[2013-09-03 Tue 20:37] =>  0:14
+   CLOCK: [2013-09-03 Tue 20:05]--[2013-09-03 Tue 20:22] =>  0:17
    - State "DONE"       from "NEXT"       [2013-09-02 Mon 21:11]
    CLOCK: [2013-09-02 Mon 21:05]--[2013-09-02 Mon 21:11] =>  0:06
    - State "DONE"       from "NEXT"       [2013-08-31 Sat 21:14]
@@ -2289,7 +2292,7 @@ Check how I did last month. I guess the review and plan could probably go togeth
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
    :ID:       616c5bd9-d941-4fcc-8874-2ff3c9e96b4a
-   :LAST_REPEAT: [2013-09-02 Mon 21:11]
+   :LAST_REPEAT: [2013-09-03 Tue 20:37]
    :END:
 
 What to review:
