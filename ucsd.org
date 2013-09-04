@@ -3652,7 +3652,10 @@ Lectures in calendar and tasks like planning lectures.
 	:ID:       c850135a-ad81-4beb-9a23-eafc30755bfd
 	:END:
 [2013-08-23 Fri 09:51]
-******* TODO Final
+******* DONE Final
+	:LOGBOOK:
+	- State "DONE"       from "TODO"       [2013-09-03 Tue 18:09]
+	:END:
 	:PROPERTIES:
 	:ID:       a23578c7-90ac-4647-a379-53ed69b9ecca
 	:END:
@@ -3675,7 +3678,10 @@ Lectures in calendar and tasks like planning lectures.
 	 :PROPERTIES:
 	 :ID:       3a373461-1463-4a91-8602-801960456155
 	 :END:
-******** TODO Submit to printing/frdesk
+******** DONE Submit to printing/frdesk
+	 :LOGBOOK:
+	 - State "DONE"       from "TODO"       [2013-09-03 Tue 18:09]
+	 :END:
 	 :PROPERTIES:
 	 :ID:       a983c387-2406-48f4-ba40-3075856bddc3
 	 :END:
@@ -4336,7 +4342,10 @@ APM B412
 	:ID:       7137412e-25be-407f-9192-22d907f40bf0
 	:END:
 [2013-08-23 Fri 09:51]
-******* TODO Final
+******* DONE Final
+	:LOGBOOK:
+	- State "DONE"       from "TODO"       [2013-09-03 Tue 18:09]
+	:END:
 	:PROPERTIES:
 	:ID:       acf5d375-8af0-466b-9cff-2b50f70b495b
 	:END:
