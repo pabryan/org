@@ -49,9 +49,10 @@ I have mythtv and mediatomb and who knows what else using up valuable resources.
   :END:
 [2013-09-03 Tue 20:05]
 noodles
-* TODO Print zoo membership
+* DONE Print zoo membership
   SCHEDULED: <2013-09-04 Wed>
   :LOGBOOK:
+  - State "DONE"       from "TODO"       [2013-09-06 Fri 13:24]
   CLOCK: [2013-09-03 Tue 20:22]--[2013-09-03 Tue 20:23] =>  0:01
   :END:
   :PROPERTIES:
@@ -63,3 +64,9 @@ noodles
   :ID:       00fc3ef7-df16-48c3-8fa3-f5b16e6c10d2
   :END:
 [2013-09-03 Tue 21:27]
+* TODO Solutions to prac final
+  SCHEDULED: <2013-09-06 Fri>
+  :PROPERTIES:
+  :ID:       1359c64b-cc34-47a5-b0d6-683f27134aab
+  :END:
+[2013-09-06 Fri 13:25]

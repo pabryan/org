@@ -4100,8 +4100,13 @@ By integrating a Taylor series term by term, get the students to compute an inte
 ****** Admin
 ****** Office hours
        :LOGBOOK:
+       CLOCK: [2013-09-06 Fri 16:10]--[2013-09-06 Fri 17:23] =>  1:13
+       CLOCK: [2013-09-06 Fri 09:04]--[2013-09-06 Fri 09:50] =>  0:46
        CLOCK: [2013-08-30 Fri 16:04]--[2013-08-30 Fri 17:13] =>  1:09
        CLOCK: [2013-08-23 Fri 16:01]--[2013-08-23 Fri 16:52] =>  0:51
+       :END:
+       :PROPERTIES:
+       :ORDERED:  t
        :END:
 ***** Lectures
 ****** Location
@@ -4207,6 +4212,12 @@ APM B412
 	:END:
 <2013-08-30 Fri>
 ******* Lecture 5.3
+	:LOGBOOK:
+	CLOCK: [2013-09-06 Fri 13:50]--[2013-09-06 Fri 16:10] =>  2:20
+	:END:
+	:PROPERTIES:
+	:ID:       5f34f74c-0830-44a9-8747-b4c8db9656a6
+	:END:
 <2013-09-06 Fri>
 
 ***** Exams
@@ -4254,6 +4265,9 @@ APM B412
        <2013-08-30 Fri>
 
 ****** Homework 5 Due
+       :PROPERTIES:
+       :ID:       89c75bd7-2e3a-40f5-bdf5-2a08feec6d98
+       :END:
        <2013-09-06 Fri>
 
 **** TODO MATH20D						    :MATH20D:
@@ -4892,6 +4906,12 @@ WLH 2113
 	:END:
 <2013-08-30 Fri>
 ******* Lecture 5.3
+	:LOGBOOK:
+	CLOCK: [2013-09-06 Fri 09:50]--[2013-09-06 Fri 12:20] =>  2:30
+	:END:
+	:PROPERTIES:
+	:ID:       ba085a01-c23b-4f30-af0e-c955f432ca22
+	:END:
 <2013-09-06 Fri>
 ***** Exams
 ****** Midterm
@@ -4931,6 +4951,9 @@ WLH 2113
        <2013-08-30 Fri>
 
 ****** Homework 5 Due
+       :PROPERTIES:
+       :ID:       f19daf1e-cba6-4a2d-b22a-7c273c97342f
+       :END:
        <2013-09-06 Fri>
 
 *** Fall 2013
