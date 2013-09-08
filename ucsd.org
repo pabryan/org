@@ -4317,8 +4317,10 @@ APM B412
 [[file:~/working/ucsd/teaching/math20d_summer2_2013]]
 ***** Notes
 ***** Tasks
-****** DONE Exams
+****** TODO Exams
        :LOGBOOK:
+       - State "TODO"       from "DONE"       [2013-09-07 Sat 16:50] \\
+	 Need to write final solutions for TA.
        - State "DONE"       from "TODO"       [2013-09-07 Sat 09:33]
        :END:
        :PROPERTIES:
@@ -4399,8 +4401,10 @@ APM B412
 	:ID:       7137412e-25be-407f-9192-22d907f40bf0
 	:END:
 [2013-08-23 Fri 09:51]
-******* DONE Final
+******* TODO Final
 	:LOGBOOK:
+	- State "TODO"       from "DONE"       [2013-09-07 Sat 16:51] \\
+	  Need to write final solutions for TA.
 	- State "DONE"       from "TODO"       [2013-09-03 Tue 18:09]
 	:END:
 	:PROPERTIES:
@@ -4418,6 +4422,10 @@ APM B412
 	  :END:
 	 :PROPERTIES:
 	 :ID:       00f1f929-ab78-4aca-b232-a59a0455104c
+	 :END:
+******** NEXT Write solutions
+	 :LOGBOOK:
+	 CLOCK: [2013-09-07 Sat 16:52]
 	 :END:
 ****** DONE Homework
        :LOGBOOK:
