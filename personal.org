@@ -129,23 +129,23 @@ END:
 #+TBLNAME: Coming up
 | Desc           |      Amt |
 |----------------+----------|
-| sdge           |       70 |
+| sdge           |          |
 | rent insurance |       20 |
-| petrol         |       50 |
+| petrol         |          |
 | cloud          |       25 |
-| pets           |       25 |
+| pets           |          |
 | ah             |      200 |
-| costco         |      200 |
+| costco         |          |
 | food           |      300 |
 | Lily's party   |      200 |
 | Car            |      150 |
-| Zoo            |      200 |
-| Oz             |     3500 |
+| Zoo            |          |
+| Oz             |          |
 | Oz             |     3000 |
 |                |          |
-| Balance        | -8144.15 |
+| Balance        | -3645.93 |
 |                |          |
-| Tot            |  -204.15 |
+| Tot            |   249.07 |
    #+TBLFM: @18$2=vsum(@2$2..@17$2)
    
 ** Bills 
