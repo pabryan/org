@@ -4134,8 +4134,13 @@ By integrating a Taylor series term by term, get the students to compute an inte
   :END:
 [2013-08-06 Tue 20:58]
 ****** TODO Grades
-******* NEXT Enter grades       
+******* DONE Enter grades       
 	 DEADLINE: <2013-09-10 Tue>
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2013-09-11 Wed 14:30]
+	 :END:
+******* NEXT Fix grades
+	 SCHEDULED: <2013-09-12 Thu>
 ***** Clocking
 ****** Admin
 ****** Office hours
@@ -4274,7 +4279,7 @@ APM B412
        :ID:       543eeaee-4cda-471f-b210-01e5795592fd
        :END:
 ****** Final
-       SCHEDULED: <2013-09-07 Sat 19:00-22:00>
+       [2013-09-07 Sat 19:00-22:00]
        :PROPERTIES:
        :location: APM B412
        :END:
@@ -4875,8 +4880,11 @@ APM B412
        :END:
 Lectures in calendar and tasks like planning lectures.
 ****** TODO Grades
-******* NEXT Enter grades       
+******* DONE Enter grades       
 	 DEADLINE: <2013-09-10 Tue>
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2013-09-11 Wed 14:30]
+	 :END:
 ***** Clocking
 ****** Admin
 ****** Office hours
@@ -5006,7 +5014,7 @@ WLH 2113
        :ID:       6a4ef8a1-8691-4d3d-8a50-7a035e642be9
        :END:
 ****** Final
-       SCHEDULED: <2013-09-07 Sat 11:30-14:30>
+       [2013-09-07 Sat 11:30-14:30]
        :LOGBOOK:
        CLOCK: [2013-09-07 Sat 11:15]--[2013-09-07 Sat 14:45] =>  3:30
        :END:

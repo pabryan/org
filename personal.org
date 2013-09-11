@@ -1989,8 +1989,11 @@ Code: SHARE10
 *** MyGov
 - username: NB725486
 *** Elections							  :ELECTIONS:
-**** TODO Post 2013 Federal votes
+**** DONE Post 2013 Federal votes
      SCHEDULED: <2013-08-26 Mon>
+     :LOGBOOK:
+     - State "DONE"       from "TODO"       [2013-09-11 Wed 14:30]
+     :END:
      :PROPERTIES:
      :ID:       e246fc6d-14b2-4de8-aa08-016ab45ed832
      :END:
