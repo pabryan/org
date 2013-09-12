@@ -3916,7 +3916,7 @@ By integrating a Taylor series term by term, get the students to compute an inte
 	 DEADLINE: <2013-09-06 Fri>
          :LOGBOOK:
 	 - State "DONE"       from "NEXT"       [2013-09-07 Sat 09:31]
-	 CLOCK: [2013-09-05 Thu 19:10]--[2013-09-05 Thu 19:45] =>  0:35
+	 CLOCK: [2013-09-05 Thu 19:10]--[2013-09-05 Thu 19:40] =>  0:30
 	 CLOCK: [2013-09-02 Mon 16:10]--[2013-09-02 Mon 16:40] =>  0:30
 	 :END:
 	 :PROPERTIES:
