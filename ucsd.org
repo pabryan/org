@@ -3518,7 +3518,7 @@ Center 119
        CLOCK: [2013-06-10 Mon 12:27]--[2013-06-10 Mon 13:09] =>  0:42
        :END:
 
-*** Summer2 2013					 :FOCUS:SUMMER2_2013:
+*** Summer2 2013					       :SUMMER2_2013:
 **** TODO MATH142B						   :MATH142B:
       :PROPERTIES:
       :ID:       637a5770-e691-46f5-b733-44af49f29f6e
@@ -5052,8 +5052,66 @@ WLH 2113
        :END:
        <2013-09-06 Fri>
 
-*** Fall 2013
+*** Fall 2013						    :FALL_2013:FOCUS:
 **** TODO MATH150A						   :MATH150A:
+      :PROPERTIES:
+      :ID:       d41c505c-ac02-4dbc-9604-ba9cec082f27
+      :END:
+***** Notes
+****** Lecture Notes
+[[www.math.uci.edu/~cterng/162A_Lecture_Notes.pdf]]
+[[www.math.uci.edu/~cterng/SurfacesInR%5E3.pdf]]
+[[www.math.ku.dk/noter/filer/geom1.pdf]]
+***** Tasks
+****** DONE Order Text Books
+       	DEADLINE: <2013-05-01 Wed>
+       	- State "DONE"       from "NEXT"       [2013-05-01 Wed 12:16]
+       	:PROPERTIES:
+       	:ID:       f79ad07c-ea5e-4710-8cad-94ac0439a20d
+       	:END:
+
+****** TODO Exams
+       :PROPERTIES:
+       :ID:       c7681154-0a25-4143-9e3a-9c5e3871c3ef
+       :END:
+****** TODO Homework
+       :PROPERTIES:
+       :ID:       da4b56d1-423c-4f4c-ab2b-0c5b0c5f018c
+       :END:
+****** TODO Lectures
+       :PROPERTIES:
+       :ID:       6e320867-249a-486f-a53a-dced95d00a55
+       :END:
+****** TODO Website
+       :PROPERTIES:
+       :ID:       696922e3-5fc4-44dd-92e8-7756f2bdd477
+       :END:
+******* NEXT Make website
+       	:PROPERTIES:
+       	:ID:       e0c53278-5035-45e6-9515-1c0d9f37596b
+       	:END:
+****** TODO Plan course
+       :PROPERTIES:
+       :ID:       971939b9-8590-47d9-b9ab-4df48f7bdcaa
+       :END:
+******* NEXT Org structure
+	 SCHEDULED: <2013-09-09 Mon>
+       :PROPERTIES:
+       :ID:       b91f87d9-508b-4276-8683-c03daa6b3ba8
+       :END:
+Lectures in calendar and tasks like planning lectures.
+***** Clocking
+****** Admin
+****** Office hours
+***** Lectures
+****** Location
+****** Mon
+****** Wed
+****** Fri
+***** Exams
+***** Homework
+
+**** TODO MATH20B						    :MATH20B:
       :PROPERTIES:
       :ID:       d41c505c-ac02-4dbc-9604-ba9cec082f27
       :END:
