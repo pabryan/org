@@ -4133,14 +4133,21 @@ By integrating a Taylor series term by term, get the students to compute an inte
   :ID:       719879f1-46bc-449d-8250-35dd46c6f3a8
   :END:
 [2013-08-06 Tue 20:58]
-****** TODO Grades
+****** DONE Grades
+       :LOGBOOK:
+       - State "DONE"       from "TODO"       [2013-09-12 Thu 11:53]
+       :END:
 ******* DONE Enter grades       
 	 DEADLINE: <2013-09-10 Tue>
 	 :LOGBOOK:
 	 - State "DONE"       from "NEXT"       [2013-09-11 Wed 14:30]
 	 :END:
-******* NEXT Fix grades
+******* DONE Fix grades
 	 SCHEDULED: <2013-09-12 Thu>
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2013-09-12 Thu 11:53]
+	 CLOCK: [2013-09-12 Thu 11:21]--[2013-09-12 Thu 11:53] =>  0:32
+	 :END:
 ***** Clocking
 ****** Admin
 ****** Office hours
@@ -4322,8 +4329,9 @@ APM B412
 [[file:~/working/ucsd/teaching/math20d_summer2_2013]]
 ***** Notes
 ***** Tasks
-****** TODO Exams
+****** DONE Exams
        :LOGBOOK:
+       - State "DONE"       from "TODO"       [2013-09-12 Thu 11:54]
        - State "TODO"       from "DONE"       [2013-09-07 Sat 16:50] \\
 	 Need to write final solutions for TA.
        - State "DONE"       from "TODO"       [2013-09-07 Sat 09:33]
@@ -4406,8 +4414,9 @@ APM B412
 	:ID:       7137412e-25be-407f-9192-22d907f40bf0
 	:END:
 [2013-08-23 Fri 09:51]
-******* TODO Final
+******* DONE Final
 	:LOGBOOK:
+	- State "DONE"       from "TODO"       [2013-09-12 Thu 11:54]
 	- State "TODO"       from "DONE"       [2013-09-07 Sat 16:51] \\
 	  Need to write final solutions for TA.
 	- State "DONE"       from "TODO"       [2013-09-03 Tue 18:09]
@@ -4427,10 +4436,6 @@ APM B412
 	  :END:
 	 :PROPERTIES:
 	 :ID:       00f1f929-ab78-4aca-b232-a59a0455104c
-	 :END:
-******** NEXT Write solutions
-	 :LOGBOOK:
-	 CLOCK: [2013-09-07 Sat 16:52]--[2013-09-07 Sat 18:05] =>  1:13
 	 :END:
 ****** DONE Homework
        :LOGBOOK:
@@ -4879,7 +4884,10 @@ APM B412
        :ID:       b91f87d9-508b-4276-8683-c03daa6b3ba8
        :END:
 Lectures in calendar and tasks like planning lectures.
-****** TODO Grades
+****** DONE Grades
+       :LOGBOOK:
+       - State "DONE"       from "TODO"       [2013-09-12 Thu 11:53]
+       :END:
 ******* DONE Enter grades       
 	 DEADLINE: <2013-09-10 Tue>
 	 :LOGBOOK:
