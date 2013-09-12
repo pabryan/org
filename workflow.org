@@ -1442,6 +1442,7 @@ this way I can track upstream and keep my work independent and then merge, push 
   :END:
 ** Organisation
   :LOGBOOK:
+  CLOCK: [2013-09-11 Wed 20:43]
   CLOCK: [2013-09-11 Wed 17:57]--[2013-09-11 Wed 17:58] =>  0:01
   CLOCK: [2013-09-11 Wed 17:01]--[2013-09-11 Wed 17:05] =>  0:04
   CLOCK: [2013-09-11 Wed 16:51]--[2013-09-11 Wed 17:01] =>  0:10
@@ -2561,7 +2562,7 @@ When I set up scoring the day:
 - [ ] Check agenda/focus
 - [ ] Write date into notebook
 
-** NEXT Weekly Review [12/15]
+** NEXT Weekly Review [14/15]
    SCHEDULED: <2013-09-01 Sun +1w>
    :LOGBOOK:
    CLOCK: [2013-09-11 Wed 17:05]--[2013-09-11 Wed 17:57] =>  0:52
@@ -2665,9 +2666,9 @@ What to review:
   - feedly
   - pocket
   - Google+ Readlater
-- [ ] Review projects =F12 SPC //= and =P= repeatedly to view each project
+- [X] Review projects =F12 SPC //= and =P= repeatedly to view each project
   - Unstick stuck projects!
-- [ ] Set focus
+- [X] Set focus
 - [X] Check Finances
   - Check bank accounts and compare with what's still to come
 - [X] Copy music to phone
