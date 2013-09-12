@@ -2560,7 +2560,7 @@ When I set up scoring the day:
 - [ ] Check agenda/focus
 - [ ] Write date into notebook
 
-** NEXT Weekly Review [4/15]
+** NEXT Weekly Review [12/15]
    SCHEDULED: <2013-09-01 Sun +1w>
    :LOGBOOK:
    CLOCK: [2013-09-11 Wed 17:05]
@@ -2648,28 +2648,28 @@ What to review:
   [[file:~/holding]]
 - [X] Check holding email folder
 - [X] Review weekly agenda =F12 a w//=
-- [ ] Check clocking data for past week =v c=
+- [X] Check clocking data for past week =v c=
   - fix up any errors
-- [ ] Review clock report for past week =R=
+- [X] Review clock report for past week =R=
   - Check where we spent time (too much or too little) and rectify this week
-- [ ] Look at entire agenda for today  =F12 SPC=
-- [ ] Check uncommited work
+- [X] Look at entire agenda for today  =F12 SPC=
+- [X] Check uncommited work
 - [ ] Refile tasks
-- [ ] Weekly clean up
-  - [ ] Clean up Downloads
-  - [ ] Clean up tmp
-  - [ ] Clean up tablet
-  - [ ] Clean up phone
-- [ ] Process incoming information
+- [X] Weekly clean up
+  - [X] Clean up Downloads
+  - [X] Clean up tmp
+  - [X] Clean up tablet
+  - [X] Clean up phone
+- [X] Process incoming information
   - feedly
   - pocket
   - Google+ Readlater
 - [ ] Review projects =F12 SPC //= and =P= repeatedly to view each project
   - Unstick stuck projects!
 - [ ] Set focus
-- [ ] Check Finances
+- [X] Check Finances
   - Check bank accounts and compare with what's still to come
-- [ ] Copy music to phone
+- [X] Copy music to phone
 
 ** NEXT Monthly Plan/Review [0/4]
    SCHEDULED: <2013-09-01 Sun +1m>
