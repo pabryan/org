@@ -132,11 +132,11 @@ END:
 | sdge           |          |
 | rent insurance |       20 |
 | petrol         |          |
-| cloud          |       25 |
+| cloud          |          |
 | pets           |          |
-| ah             |      200 |
+| ah             |      150 |
 | costco         |          |
-| food           |      300 |
+| food           |      200 |
 | Lily's party   |      200 |
 | Car            |      150 |
 | Zoo            |          |
@@ -145,7 +145,7 @@ END:
 |                |          |
 | Balance        | -3469.06 |
 |                |          |
-| Tot            |   249.07 |
+| Tot            |   250.94 |
    #+TBLFM: @18$2=vsum(@2$2..@17$2)
    
 ** Bills 
