@@ -572,6 +572,10 @@ person in your department who handles benefits information.
   CLOCK: [2012-10-25 Thu 11:32]--[2012-10-25 Thu 11:32] =>  0:00
 [2012-10-25 Thu 11:32]
 
+*** TODO Book doctor appointments
+  SCHEDULED: <2013-09-16 Mon>
+[2013-09-07 Sat 09:44]
+Me and Lily
 ** Routine/Schedule
 *** CANCELLED Update training schedule
    - State "CANCELLED"  from "TODO"       [2012-10-24 Wed 13:30] \\
@@ -876,6 +880,9 @@ Doyle Field
 [2013-02-21 Thu 09:00]
 ** Triton 5k
 <2013-06-08 Sat 09:00>
+** TODO Investigate surfing
+  SCHEDULED: <2013-09-29 Sun>
+[2013-09-11 Wed 14:43]
 * House 							      :HOUSE:
   :PROPERTIES:
   :ID:       dee2dca4-a5da-45e5-a276-2e4f8f255a9c
@@ -1002,6 +1009,15 @@ fluff sheets 1d/2d
 - wash towels/sheets (w)
 - water plants (d)
 
+*** TODO Sign up for AT&T $50 bundle
+  SCHEDULED: <2013-09-12 Thu>
+  :PROPERTIES:
+  :ID:       54f7ebfb-40cd-4635-b741-3e5afdcd7d4e
+  :END:
+[2013-09-01 Sun 10:28]
+*** TODO Borrow vacuum cleaner
+  SCHEDULED: <2013-09-13 Fri>
+[2013-09-07 Sat 09:44]
 ** Del Sol 							     :DELSOL:
 *** Events
 **** Del Sol Continental Breakfast

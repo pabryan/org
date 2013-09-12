@@ -1970,3 +1970,17 @@ CLOCK: [2013-01-14 Mon 06:35]--[2013-01-14 Mon 06:35] =>  0:00
 [2012-11-20 Tue 11:04]
 
 
+** TODO Create health stats capture task
+  SCHEDULED: <2013-09-29 Sun>
+[2013-09-07 Sat 09:38]
+
+** TODO Check out Sol yoga
+  SCHEDULED: <2013-09-14 Sat>
+  :LOGBOOK:
+  CLOCK: [2013-09-07 Sat 10:01]--[2013-09-07 Sat 10:03] =>  0:02
+  :END:
+[2013-09-07 Sat 10:01]
+[[http://www.solyogastudios.com/]]
+** TODO Join up yoga
+  SCHEDULED: <2013-09-14 Sat>
+[2013-09-11 Wed 14:43]

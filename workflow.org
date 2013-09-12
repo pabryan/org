@@ -528,6 +528,12 @@ Do I make a different TODO keyword for more trying out things/open ended type re
     :ID:       b6414ae2-66a1-44ea-aede-2293d5449abe
     :END:
 - This is just the ordinary diff with headlines thought of as files/directories (which can contain content and also other files which is slightly different to the filesystem). Recursing is just recursing headlines and reports can say things like "Headlines A and B differ" and we can show differences in contents of headlines.
+*** TODO Org calendar to google calendar
+  SCHEDULED: <2013-09-29 Sun>
+  :PROPERTIES:
+  :ID:       00fc3ef7-df16-48c3-8fa3-f5b16e6c10d2
+  :END:
+[2013-09-03 Tue 21:27]
 ** Hacking
 *** TODO special headlines
   :LOGBOOK:
@@ -932,6 +938,24 @@ Levenger?
 - Papers/Books should have a folder with paper and notes
 - Projects should have a larger folder with papers, notes etc.
 
+*** TODO Make weekly paper review/check task
+  SCHEDULED: <2013-09-15 Sun>
+  :LOGBOOK:
+  CLOCK: [2013-08-27 Tue 10:33]--[2013-08-27 Tue 10:34] =>  0:01
+  :END:
+  :PROPERTIES:
+  :ID:       48724e79-a73d-459b-97af-4bd4581d02b2
+  :END:
+[2013-08-27 Tue 10:33]
+*** TODO Plan time!
+  SCHEDULED: <2013-09-12 Thu>
+  :LOGBOOK:
+  CLOCK: [2013-09-11 Wed 14:42]--[2013-09-11 Wed 14:43] =>  0:01
+  :END:
+[2013-09-11 Wed 14:42]
+- Make exercise schedule 
+- Make work schedule
+- Make rec schedule
 ** Notes
 * social media
   :PROPERTIES:
@@ -1434,6 +1458,30 @@ this way I can track upstream and keep my work independent and then merge, push 
   :END:
 [2013-08-21 Wed 20:35]
 
+** TODO Set up sshfs with autofs
+  SCHEDULED: <2013-09-29 Sun>
+  :LOGBOOK:
+  CLOCK: [2013-08-27 Tue 18:10]--[2013-08-27 Tue 18:11] =>  0:01
+  :END:
+  :PROPERTIES:
+  :ID:       9d2df97a-0524-4efc-a3a3-4a2012d41902
+  :END:
+[2013-08-27 Tue 18:10]
+https://wiki.archlinux.org/index.php/Autofs#Remote_SSH
+** TODO Set up screen X setting
+  SCHEDULED: <2013-09-29 Sun>
+  :PROPERTIES:
+  :ID:       e9d187bd-217a-4a24-9782-3559085d3b10
+  :END:
+[2013-08-27 Tue 18:11] 
+I have some scripts for capturing the X settings and then a script for loading these in the screen session.
+** TODO Stop various unused daemons
+  SCHEDULED: <2013-09-29 Sun>
+  :PROPERTIES:
+  :ID:       c4b90e31-cffd-4131-b175-976b9c3c5899
+  :END:
+[2013-09-02 Mon 21:12]
+I have mythtv and mediatomb and who knows what else using up valuable resources.
 * Clocking
   :LOGBOOK:
   :END:
@@ -1442,7 +1490,7 @@ this way I can track upstream and keep my work independent and then merge, push 
   :END:
 ** Organisation
   :LOGBOOK:
-  CLOCK: [2013-09-11 Wed 20:43]
+  CLOCK: [2013-09-11 Wed 20:43]--[2013-09-11 Wed 20:56] =>  0:13
   CLOCK: [2013-09-11 Wed 17:57]--[2013-09-11 Wed 17:58] =>  0:01
   CLOCK: [2013-09-11 Wed 17:01]--[2013-09-11 Wed 17:05] =>  0:04
   CLOCK: [2013-09-11 Wed 16:51]--[2013-09-11 Wed 17:01] =>  0:10
