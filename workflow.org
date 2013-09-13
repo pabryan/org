@@ -950,9 +950,10 @@ Levenger?
   :ID:       48724e79-a73d-459b-97af-4bd4581d02b2
   :END:
 [2013-08-27 Tue 10:33]
-*** TODO Plan time!
+*** DONE Plan time!
   SCHEDULED: <2013-09-12 Thu>
   :LOGBOOK:
+  - State "DONE"       from "TODO"       [2013-09-13 Fri 09:52]
   CLOCK: [2013-09-11 Wed 14:42]--[2013-09-11 Wed 14:43] =>  0:01
   :END:
 [2013-09-11 Wed 14:42]
@@ -1494,6 +1495,7 @@ I have mythtv and mediatomb and who knows what else using up valuable resources.
   :END:
 ** Organisation
   :LOGBOOK:
+  CLOCK: [2013-09-13 Fri 10:07]
   CLOCK: [2013-09-13 Fri 09:30]--[2013-09-13 Fri 09:36] =>  0:06
   CLOCK: [2013-09-12 Thu 20:10]--[2013-09-12 Thu 20:19] =>  0:09
   CLOCK: [2013-09-12 Thu 19:43]--[2013-09-12 Thu 19:45] =>  0:02
@@ -2381,9 +2383,10 @@ When I set up scoring the day:
 - [ ] Collate data such as sleep, weight, exercise, diet etc.
 
 ** NEXT Daily Plan [0/2]
-   SCHEDULED: <2013-09-13 Fri .+1d/2d>
+   SCHEDULED: <2013-09-14 Sat .+1d/2d>
    :LOGBOOK:
-   CLOCK: [2013-09-13 Fri 09:36]
+   - State "DONE"       from "NEXT"       [2013-09-13 Fri 10:07]
+   CLOCK: [2013-09-13 Fri 09:36]--[2013-09-13 Fri 10:07] =>  0:31
    - State "DONE"       from "NEXT"       [2013-09-12 Thu 19:41]
    - State "DONE"       from "NEXT"       [2013-09-11 Wed 17:05]
    - State "DONE"       from "NEXT"       [2013-09-07 Sat 09:37]
@@ -2619,7 +2622,7 @@ When I set up scoring the day:
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
    :ID:       ef051ee0-1113-4604-b355-450a5a47848b
-   :LAST_REPEAT: [2013-09-12 Thu 19:41]
+   :LAST_REPEAT: [2013-09-13 Fri 10:07]
    :END:
 
 - [ ] Check agenda/focus

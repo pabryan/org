@@ -1015,8 +1015,12 @@ fluff sheets 1d/2d
   :ID:       54f7ebfb-40cd-4635-b741-3e5afdcd7d4e
   :END:
 [2013-09-01 Sun 10:28]
-*** TODO Borrow vacuum cleaner
+*** WAITING Borrow vacuum cleaner
   SCHEDULED: <2013-09-13 Fri>
+  :LOGBOOK:
+  - State "WAITING"    from "TODO"       [2013-09-13 Fri 10:05] \\
+    Sent email to Del Sol people requesting vacuum cleaner.
+  :END:
 [2013-09-07 Sat 09:44]
 ** Del Sol 							     :DELSOL:
 *** Events
