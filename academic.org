@@ -928,12 +928,6 @@ Try again to make this exponential barrier work.
        :END:			     
 ***** Notes
 ***** References
-**** TODO Pipe Flows						  :PIPE_FLOW:
-     SCHEDULED: <2013-09-09 Mon> DEADLINE: <2013-10-11 Fri>
-   :PROPERTIES:
-   :ID:       cf90c8f0-dc09-44d4-87d4-f7000acc2ba1
-   :END:
-[[file:~/working/academic/research/geometric_pipe_flows]]
 ***** Tasks
 ****** DONE Set up exact tasks
        - State "DONE"       from "NEXT"       [2013-06-23 Sun 16:12]
@@ -1205,6 +1199,12 @@ CONSTANT ANISOTROPIC MEAN CURVATURE
 ***** Refs
 [[file:~/research_resources/draftpapers/hyperbolic_130113.pdf]]
 *** Future							    :SOMEDAY:
+**** TODO Pipe Flows						  :PIPE_FLOW:
+     SCHEDULED: <2013-09-09 Mon> DEADLINE: <2013-10-11 Fri>
+   :PROPERTIES:
+   :ID:       cf90c8f0-dc09-44d4-87d4-f7000acc2ba1
+   :END:
+[[file:~/working/academic/research/geometric_pipe_flows]]
 **** TODO csf_networks					       :CSF_NETWORKS:
    :PROPERTIES:
    :ID:       1bc93b81-8423-4598-8297-f0b90aa39aa7
@@ -1362,6 +1362,7 @@ Can I use a non-collapsing type argument?
 Look at all dark matter papers. Alan Parry also. Bibliography of course!
 ** Books
 *** Working
+*** Future 							    :SOMEDAY:
 **** TODO MCF Book					     :MCF_BOOK:FOCUS:
 [[file:~/working/academic/research/mcf_book]]
 [[file:~/Dropbox/MCF Project]]
@@ -1480,7 +1481,6 @@ In particular, put more detail in.
       :PROPERTIES:
       :ID:       b4fbfad7-31a8-4a53-a2e3-d2453bd33390
       :END:
-*** Future							    :SOMEDAY:
 **** TODO Submanifold book				       :SUBMANIFOLDS:
 [[file:~/working/academic/research/submanifolds_book]]
    :PROPERTIES:
