@@ -5201,6 +5201,10 @@ WLH 2208
 ******* Midterm 1
 ******* Midterm 2
 ******* Final
+	 SCHEDULED: <2013-12-13 Fri 08:00-10:59>
+
+******** Location
+TBA
 ****** Homework
 ******* Homework 1 Due
 ******* Homework 2 Due
@@ -5215,7 +5219,7 @@ WLH 2208
 ****** TODO Plan course
 ******* NEXT Org structure
 	:LOGBOOK:
-	CLOCK: [2013-09-13 Fri 10:35]
+	CLOCK: [2013-09-13 Fri 10:35]--[2013-09-13 Fri 10:44] =>  0:09
 	:END:
 Lectures in calendar and tasks like planning lectures.
 
@@ -5293,6 +5297,9 @@ CENTR 101
 ******* Midterm 1
 ******* Midterm 2
 ******* Final
+	SCHEDULED: <2013-12-11 Wed 08:00-10:59>
+******** Location
+TBA
 ****** Homework
 ******* Homework 1 Due
 ******* Homework 2 Due
