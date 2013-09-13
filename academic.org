@@ -2059,7 +2059,7 @@ http://mathoverflow.net/questions/14877/how-much-of-differential-geometry-can-be
 
 ** Open Notebook
 *** Tasks
-**** TODO Open notebook
+**** NEXT Research starting an open notebook
   SCHEDULED: <2013-09-08 Sun>
   :LOGBOOK:
   CLOCK: [2013-08-06 Tue 20:54]--[2013-08-06 Tue 20:55] =>  0:01
@@ -2068,10 +2068,10 @@ http://mathoverflow.net/questions/14877/how-much-of-differential-geometry-can-be
   :ID:       26f44ff2-31cc-4d48-be04-f0652333ae43
   :END:
 [2013-08-06 Tue 20:54]
-- start an open notebook
-- contact collaborators and see if I can put our work in it
 - I'll definitely write using org-mode (even wikis with markdown from org)
 - perhaps my work can be on google+, facebook, wordpress whatever and pulled in to my website or vice versa!
+
+**** NEXT contact collaborators and see if I can put our work in it
 *** Notes
 * Learning							   :LEARNING:
   :PROPERTIES:
