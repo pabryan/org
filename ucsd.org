@@ -5109,6 +5109,9 @@ WLH 2113
        :END:
 ******* NEXT Org structure
 	 SCHEDULED: <2013-09-09 Mon>
+	 :LOGBOOK:
+	 CLOCK: [2013-09-13 Fri 10:14]
+	 :END:
        :PROPERTIES:
        :ID:       b91f87d9-508b-4276-8683-c03daa6b3ba8
        :END:
@@ -5183,10 +5186,6 @@ Lectures in calendar and tasks like planning lectures.
 ***** Homework
 
 *** Winter 2014
-**** TODO MATH150B
-     :PROPERTIES:
-     :ID:       018b8346-4794-4fbb-9316-44d4bf757d69
-     :END:
 **** TODO MATH10B
      :PROPERTIES:
      :ID:       31df73a4-0114-4097-8f18-5ce3ed5a1d07
