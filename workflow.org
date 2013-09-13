@@ -2734,6 +2734,7 @@ What to review:
    SCHEDULED: <2013-09-01 Sun +1m>
    - State "DONE"       from "NEXT"       [2013-03-19 Tue 11:34]
    :LOGBOOK:
+   CLOCK: [2013-09-11 Wed 08:00]--[2013-09-11 Wed 08:25] =>  0:25
    CLOCK: [2013-03-19 Tue 11:29]--[2013-03-19 Tue 11:34] =>  0:05
    :END:
    :PROPERTIES:
