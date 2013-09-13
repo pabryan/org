@@ -1490,7 +1490,10 @@ I have mythtv and mediatomb and who knows what else using up valuable resources.
   :END:
 ** Organisation
   :LOGBOOK:
-  CLOCK: [2013-09-12 Thu 19:37]
+  CLOCK: [2013-09-12 Thu 19:43]--[2013-09-12 Thu 19:45] =>  0:02
+  CLOCK: [2013-09-12 Thu 19:41]--[2013-09-12 Thu 19:42] =>  0:01
+  CLOCK: [2013-09-12 Thu 19:39]--[2013-09-12 Thu 19:40] =>  0:01
+  CLOCK: [2013-09-12 Thu 19:37]--[2013-09-12 Thu 19:39] =>  0:02
   CLOCK: [2013-09-12 Thu 11:54]--[2013-09-12 Thu 11:56] =>  0:02
   CLOCK: [2013-09-11 Wed 20:43]--[2013-09-11 Wed 20:56] =>  0:13
   CLOCK: [2013-09-11 Wed 17:57]--[2013-09-11 Wed 17:58] =>  0:01
@@ -2223,6 +2226,7 @@ Check how I did last month. I guess the review and plan could probably go togeth
 ** NEXT Daily Review [0/6]
    SCHEDULED: <2013-09-04 Wed .+1d/2d>
    :LOGBOOK:
+   CLOCK: [2013-09-12 Thu 19:45]
    - State "DONE"       from "NEXT"       [2013-09-03 Tue 20:37]
    CLOCK: [2013-09-03 Tue 20:23]--[2013-09-03 Tue 20:37] =>  0:14
    CLOCK: [2013-09-03 Tue 20:05]--[2013-09-03 Tue 20:22] =>  0:17
@@ -2370,8 +2374,9 @@ When I set up scoring the day:
 - [ ] Collate data such as sleep, weight, exercise, diet etc.
 
 ** NEXT Daily Plan [0/2]
-   SCHEDULED: <2013-09-12 Thu .+1d/2d>
+   SCHEDULED: <2013-09-13 Fri .+1d/2d>
    :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2013-09-12 Thu 19:41]
    - State "DONE"       from "NEXT"       [2013-09-11 Wed 17:05]
    - State "DONE"       from "NEXT"       [2013-09-07 Sat 09:37]
    - State "DONE"       from "NEXT"       [2013-09-03 Tue 10:42]
@@ -2606,15 +2611,17 @@ When I set up scoring the day:
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
    :ID:       ef051ee0-1113-4604-b355-450a5a47848b
-   :LAST_REPEAT: [2013-09-11 Wed 17:05]
+   :LAST_REPEAT: [2013-09-12 Thu 19:41]
    :END:
 
 - [ ] Check agenda/focus
 - [ ] Write date into notebook
 
-** NEXT Weekly Review [14/15]
-   SCHEDULED: <2013-09-01 Sun +1w>
+** NEXT Weekly Review [0/15]
+   SCHEDULED: <2013-09-15 Sun +1w>
    :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2013-09-12 Thu 19:41]
+   CLOCK: [2013-09-12 Thu 19:40]--[2013-09-12 Thu 19:41] =>  0:01
    CLOCK: [2013-09-11 Wed 17:05]--[2013-09-11 Wed 17:57] =>  0:52
    - State "DONE"       from "NEXT"       [2013-08-27 Tue 10:39]
    CLOCK: [2013-08-27 Tue 10:34]--[2013-08-27 Tue 10:39] =>  0:05
@@ -2690,38 +2697,38 @@ When I set up scoring the day:
    :REPEAT_TO_STATE: NEXT
    :ID:       846c05fa-21d7-4e6f-8431-a1fa06631945
    :RESET_CHECK_BOXES: t
-   :LAST_REPEAT: [2013-08-27 Tue 10:39]
+   :LAST_REPEAT: [2013-09-12 Thu 19:41]
    :END:
 
 What to review:
 
-- [X] Check follow-up paper folder
-- [X] Check holding directory
+- [ ] Check follow-up paper folder
+- [ ] Check holding directory
   [[file:~/holding]]
-- [X] Check holding email folder
-- [X] Review weekly agenda =F12 a w//=
-- [X] Check clocking data for past week =v c=
+- [ ] Check holding email folder
+- [ ] Review weekly agenda =F12 a w//=
+- [ ] Check clocking data for past week =v c=
   - fix up any errors
-- [X] Review clock report for past week =R=
+- [ ] Review clock report for past week =R=
   - Check where we spent time (too much or too little) and rectify this week
-- [X] Look at entire agenda for today  =F12 SPC=
-- [X] Check uncommited work
+- [ ] Look at entire agenda for today  =F12 SPC=
+- [ ] Check uncommited work
 - [ ] Refile tasks
-- [X] Weekly clean up
-  - [X] Clean up Downloads
-  - [X] Clean up tmp
-  - [X] Clean up tablet
-  - [X] Clean up phone
-- [X] Process incoming information
+- [ ] Weekly clean up
+  - [ ] Clean up Downloads
+  - [ ] Clean up tmp
+  - [ ] Clean up tablet
+  - [ ] Clean up phone
+- [ ] Process incoming information
   - feedly
   - pocket
   - Google+ Readlater
-- [X] Review projects =F12 SPC //= and =P= repeatedly to view each project
+- [ ] Review projects =F12 SPC //= and =P= repeatedly to view each project
   - Unstick stuck projects!
-- [X] Set focus
-- [X] Check Finances
+- [ ] Set focus
+- [ ] Check Finances
   - Check bank accounts and compare with what's still to come
-- [X] Copy music to phone
+- [ ] Copy music to phone
 
 ** NEXT Monthly Plan/Review [0/4]
    SCHEDULED: <2013-09-01 Sun +1m>

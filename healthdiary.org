@@ -2275,3 +2275,50 @@ Set 4 HR: 104
 :weight: 73.5
 :rest_hr: 48
 :END:
+*** 2013-08-08 Sunday
+**** Stats
+:PROPERTIES:
+:weight: 
+:rest_hr: 46
+:END:
+*** 2013-08-09 Monday
+**** Stats
+:PROPERTIES:
+:weight: 73.5
+:rest_hr: 48
+:END:
+*** 2013-08-10 Tuesday
+**** Stats
+:PROPERTIES:
+:weight: 73.5
+:rest_hr: 48
+:END:
+*** 2013-08-11 Wednesday
+**** Stats
+:PROPERTIES:
+:weight: 73.5
+:rest_hr: 48
+:END:
+*** 2013-09-12 Thursday
+**** Revive Flow 
+     :LOGBOOK:
+     CLOCK: [2013-09-12 Thu 16:40]--[2013-09-12 Thu 17:20] =>  0:40
+     :END:
+:PROPERTIES:
+:Type: Mobility
+:Intensity: None
+:RestHR: 52
+:FinalHR: 56
+:Score:
+:Technique: 8
+:Effort: 2
+:Discomfort: 2
+:END:
+
+[2013-09-12 Thu 19:42]
+
+**** Stats
+:PROPERTIES:
+:weight: 72.7
+:rest_hr: 46
+:END:
