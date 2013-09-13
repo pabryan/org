@@ -220,15 +220,16 @@ X	Pending charge of academic dishonesty (available only within the eGrades tool)
 Blank	Grade not reported by instructor
 
 ** Courses							    :COURSES:
-*** TODO Course setup
-    :PROPERTIES:
-    :ID:       7501a4f0-48e9-4d4d-8485-b6d9107be480
-    :END:
-**** TODO Course org setup
+*** Tasks
+**** TODO Course setup
      :PROPERTIES:
-     :ID:       2470fdb2-0910-4cde-bc39-57398dd8e5f7
+     :ID:       7501a4f0-48e9-4d4d-8485-b6d9107be480
      :END:
-***** TODO Figure out how to export course site from course org
+***** TODO Course org setup
+      :PROPERTIES:
+      :ID:       2470fdb2-0910-4cde-bc39-57398dd8e5f7
+      :END:
+****** TODO Figure out how to export course site from course org
   :LOGBOOK:
   CLOCK: [2013-04-12 Fri 11:11]--[2013-04-12 Fri 11:13] =>  0:02
   :END:
@@ -239,7 +240,7 @@ Blank	Grade not reported by instructor
 
 I want to put the details of the course in to org - probably using property drawers, along with timestamped items and export all that to html/pdf. This would be instead of making a seperate org course website.
 
-***** NEXT Use properties for lecture plan
+****** NEXT Use properties for lecture plan
   :LOGBOOK:
   CLOCK: [2013-03-30 Sat 20:18]--[2013-03-30 Sat 20:21] =>  0:03
   CLOCK: [2013-03-30 Sat 20:16]--[2013-03-30 Sat 20:18] =>  0:02
@@ -252,20 +253,20 @@ I want to put the details of the course in to org - probably using property draw
 - Use [[http://orgmode.org/manual/Column-view.html#Column-view][column view]] to edit the properties - subject etc.
 - Use [[http://orgmode.org/manual/Capturing-column-view.html][Capturing column view]] to capture in [[http://orgmode.org/manual/Dynamic-blocks.html#Dynamic-blocks][Dynamic blocks]] for export
 - Need to figure out how to export to a 3 column table with column numbers
-***** TODO Export courses to PDF and print
+****** TODO Export courses to PDF and print
   :LOGBOOK:
   :END:
   :PROPERTIES:
   :ID:       7b4c1677-ee55-47b9-91c7-7f5b188957f0
   :END:
 [2013-04-27 Sat 14:17]
-***** NEXT Format tables nicely in css!
+****** NEXT Format tables nicely in css!
       :PROPERTIES:
       :ID:       420d05df-354e-4c9e-a731-da0562cb7c47
       :END:
 http://www.math.ucsd.edu/~jeggers/Archive/2012Spring/Math142B/calendar.html
 http://www.w3schools.com/css/tryit.asp?filename=trycss_table_fancy
-*** Template					      :SOMEDAY:<COURSE_CODE>:
+*** Template 					      		    :SOMEDAY:
 [[file:~/working/ucsd/teaching/<code>_<quarter]]
 ***** Notes
 ***** Tasks
@@ -273,6 +274,7 @@ http://www.w3schools.com/css/tryit.asp?filename=trycss_table_fancy
 ******* NEXT Org structure
 Lectures in calendar and tasks like planning lectures.
 
+******* NEXT Order Text Books
 ****** TODO Exams
 ******* NEXT Create Exam Schedule
 ******* TODO Midterm 1
@@ -322,85 +324,13 @@ Lectures in calendar and tasks like planning lectures.
 ******** TODO Prepare Lecture 5.1
 ******** TODO Prepare Lecture 5.2
 ******** TODO Prepare Lecture 5.3
-****** DONE Website
-       :LOGBOOK:
-       - State "DONE"       from "TODO"       [2013-09-07 Sat 09:32]
-       :END:
-       :PROPERTIES:
-       :ID:       696922e3-5fc4-44dd-92e8-7756f2bdd477
-       :END:
-******* DONE Make website
-	- State "DONE"       from "NEXT"       [2013-07-23 Tue 17:28]
-	:LOGBOOK:
-	CLOCK: [2013-07-23 Tue 17:00]--[2013-07-23 Tue 17:28] =>  0:28
-	CLOCK: [2013-07-23 Tue 16:14]--[2013-07-23 Tue 16:33] =>  0:19
-	CLOCK: [2013-07-23 Tue 15:37]--[2013-07-23 Tue 16:13] =>  0:36
-	:END:
-       	:PROPERTIES:
-       	:ID:       e0c53278-5035-45e6-9515-1c0d9f37596b
-       	:END:
-******* DONE Publish website
-	- State "DONE"       from "NEXT"       [2013-07-25 Thu 13:51]
-	:LOGBOOK:
-	CLOCK: [2013-07-25 Thu 13:22]--[2013-07-25 Thu 13:51] =>  0:29
-	:END:
-******* DONE Enter TA, sections etc.
-	- State "DONE"       from "NEXT"       [2013-07-25 Thu 18:00]
-	:LOGBOOK:
-	CLOCK: [2013-07-25 Thu 17:49]--[2013-07-25 Thu 18:00] =>  0:11
-	:END:
-******* DONE Upload homework
-	:LOGBOOK:
-	- State "DONE"       from "NEXT"       [2013-09-07 Sat 09:32]
-	CLOCK: [2013-08-06 Tue 13:36]--[2013-08-06 Tue 13:50] =>  0:14
-	 CLOCK: [2013-07-31 Wed 15:10]--[2013-07-31 Wed 15:15] =>  0:05
-	:END:
-	:PROPERTIES:
-	:ID:       e40dd4e9-540c-4099-a225-fba186d66410
-	:END:
-******* DONE Make lec2.2 log link to midterm 1
-	:LOGBOOK:
-	- State "DONE"       from "TODO"       [2013-09-07 Sat 09:32]
-	:END:
-	:PROPERTIES:
-	:ID:       9f39ea15-a66c-4d54-be73-a0348b837ca9
-	:END:
-[2013-08-16 Fri 09:37]
-[[file:~/org/ucsd.org::*Lecture%20log%203.1][Lecture log 3.1]]
-****** DONE set up Ted for courses
-  SCHEDULED: <2013-08-12 Mon>
-  :LOGBOOK:
-  - State "DONE"       from "TODO"       [2013-08-13 Tue 21:04]
-  :END:
-  :PROPERTIES:
-  :ID:       be9382b9-6519-47af-8f3a-64209414c46c
-  :END:
-[2013-08-06 Tue 20:57]
-
-****** DONE make course TA email groups
-  SCHEDULED: <2013-08-12 Mon>
-  :LOGBOOK:
-  - State "DONE"       from "TODO"       [2013-08-13 Tue 21:08]
-  :END:
-  :PROPERTIES:
-  :ID:       719879f1-46bc-449d-8250-35dd46c6f3a8
-  :END:
-[2013-08-06 Tue 20:58]
-****** DONE Grades
-       :LOGBOOK:
-       - State "DONE"       from "TODO"       [2013-09-12 Thu 11:53]
-       :END:
-******* DONE Enter grades       
-	 DEADLINE: <2013-09-10 Tue>
-	 :LOGBOOK:
-	 - State "DONE"       from "NEXT"       [2013-09-11 Wed 14:30]
-	 :END:
-******* DONE Fix grades
-	 SCHEDULED: <2013-09-12 Thu>
-	 :LOGBOOK:
-	 - State "DONE"       from "NEXT"       [2013-09-12 Thu 11:53]
-	 CLOCK: [2013-09-12 Thu 11:21]--[2013-09-12 Thu 11:53] =>  0:32
-	 :END:
+****** TODO Website
+******* NEXT Make website
+****** TODO Grades
+******* NEXT Enter grades       
+****** TODO Misc
+******* NEXT set up Ted for courses
+******* NEXT make course TA email groups
 ***** Clocking
 ****** Admin
 ****** Office hours
@@ -5179,126 +5109,196 @@ WLH 2113
        <2013-09-06 Fri>
 
 *** Fall 2013						    :FALL_2013:FOCUS:
-**** TODO MATH150A						   :MATH150A:
-      :PROPERTIES:
-      :ID:       d41c505c-ac02-4dbc-9604-ba9cec082f27
-      :END:
-
+**** TODO Math150A						   :MATH150A:
+[[file:~/working/ucsd/teaching/math150a_fall_2013]]
 ***** Notes
 ****** Lecture Notes
 [[www.math.uci.edu/~cterng/162A_Lecture_Notes.pdf]]
 [[www.math.uci.edu/~cterng/SurfacesInR%5E3.pdf]]
 [[www.math.ku.dk/noter/filer/geom1.pdf]]
 ***** Tasks
-****** DONE Order Text Books
-       	DEADLINE: <2013-05-01 Wed>
-       	- State "DONE"       from "NEXT"       [2013-05-01 Wed 12:16]
-       	:PROPERTIES:
-       	:ID:       f79ad07c-ea5e-4710-8cad-94ac0439a20d
-       	:END:
+****** TODO Plan course
+******* DONE Org structure
+	:LOGBOOK:
+	- State "DONE"       from "NEXT"       [2013-09-13 Fri 10:37]
+	:END:
+Lectures in calendar and tasks like planning lectures.
+
+******* DONE Order Text Books
+       	 DEADLINE: <2013-05-01 Wed>
+       	 - State "DONE"       from "NEXT"       [2013-05-01 Wed 12:16]
+       	 :PROPERTIES:
+       	 :ID:       f79ad07c-ea5e-4710-8cad-94ac0439a20d
+       	 :END:
 
 ****** TODO Exams
-       :PROPERTIES:
-       :ID:       c7681154-0a25-4143-9e3a-9c5e3871c3ef
-       :END:
-****** TODO Homework
-       :PROPERTIES:
-       :ID:       da4b56d1-423c-4f4c-ab2b-0c5b0c5f018c
-       :END:
-****** TODO Lectures
-       :PROPERTIES:
-       :ID:       6e320867-249a-486f-a53a-dced95d00a55
-       :END:
-****** TODO Website
-       :PROPERTIES:
-       :ID:       696922e3-5fc4-44dd-92e8-7756f2bdd477
-       :END:
-******* NEXT Make website
-       	:PROPERTIES:
-       	:ID:       e0c53278-5035-45e6-9515-1c0d9f37596b
-       	:END:
-****** TODO Plan course
-       :PROPERTIES:
-       :ID:       971939b9-8590-47d9-b9ab-4df48f7bdcaa
-       :END:
-******* NEXT Org structure
-	 SCHEDULED: <2013-09-09 Mon>
+******* NEXT Create Exam Schedule
+******* TODO Midterm 1
+******** NEXT Write Midterm 1
+******** TODO Get TA's comments
+******** TODO Submit midterm to printing/frdesk
+******** TODO Write MT 1 solutions
+******* TODO Midterm 2
+******** NEXT Write Midterm 2
+******** TODO Get TA's comments
+******** TODO Submit midterm to printing/frdesk
+******** TODO Write MT2 solutions
+******* TODO Final
+******** NEXT Write Final
+******** TODO Get TA's comments
+******** TODO Submit to printing/frdesk
+******** CANCELLED Write final solutions
 	 :LOGBOOK:
-	 CLOCK: [2013-09-13 Fri 10:14]
+	 - State "CANCELLED"  from "TODO"       [2013-09-03 Tue 10:43] \\
+	   No point!
 	 :END:
-       :PROPERTIES:
-       :ID:       b91f87d9-508b-4276-8683-c03daa6b3ba8
-       :END:
-Lectures in calendar and tasks like planning lectures.
-***** Clocking
-****** Admin
-****** Office hours
-***** Lectures
-****** Location
-****** Mon
-****** Wed
-****** Fri
-***** Exams
-***** Homework
-
-**** TODO MATH20B						    :MATH20B:
-      :PROPERTIES:
-      :ID:       d41c505c-ac02-4dbc-9604-ba9cec082f27
-      :END:
-***** Notes
-****** Lecture Notes
-[[www.math.uci.edu/~cterng/162A_Lecture_Notes.pdf]]
-[[www.math.uci.edu/~cterng/SurfacesInR%5E3.pdf]]
-[[www.math.ku.dk/noter/filer/geom1.pdf]]
-***** Tasks
-****** DONE Order Text Books
-       	DEADLINE: <2013-05-01 Wed>
-       	- State "DONE"       from "NEXT"       [2013-05-01 Wed 12:16]
-       	:PROPERTIES:
-       	:ID:       f79ad07c-ea5e-4710-8cad-94ac0439a20d
-       	:END:
-
-****** TODO Exams
-       :PROPERTIES:
-       :ID:       c7681154-0a25-4143-9e3a-9c5e3871c3ef
-       :END:
+	:PROPERTIES:
+	:ID:       080b484f-d512-4e33-b05c-e7ae72310396
+	:END:
+[2013-08-23 Fri 09:51]
 ****** TODO Homework
-       :PROPERTIES:
-       :ID:       da4b56d1-423c-4f4c-ab2b-0c5b0c5f018c
-       :END:
+******* NEXT Write Homework 1
+******* TODO Write Homework 2
+******* TODO Write Homework 3
+******* TODO Write Homework 4
+******* TODO Write Homework 5
 ****** TODO Lectures
-       :PROPERTIES:
-       :ID:       6e320867-249a-486f-a53a-dced95d00a55
-       :END:
+******* NEXT Create Lecture Schedule
+******* TODO Prepare Lectures
+******** NEXT Prepare Lecture 1.1
+******** TODO Prepare Lecture 1.2
+******** TODO Prepare Lecture 1.3
+******** TODO Prepare Lecture 2.1
+******** TODO Prepare Lecture 2.2
+******** TODO Prepare Lecture 2.3
+******** TODO Prepare Lecture 3.1
+******** TODO Prepare Lecture 3.2
+******** TODO Prepare Lecture 3.3
+******** TODO Prepare Lecture 4.1
+******** TODO Prepare Lecture 4.2
+******** TODO Prepare Lecture 4.3
+******** TODO Prepare Lecture 5.1
+******** TODO Prepare Lecture 5.2
+******** TODO Prepare Lecture 5.3
 ****** TODO Website
-       :PROPERTIES:
-       :ID:       696922e3-5fc4-44dd-92e8-7756f2bdd477
-       :END:
 ******* NEXT Make website
-       	:PROPERTIES:
-       	:ID:       e0c53278-5035-45e6-9515-1c0d9f37596b
-       	:END:
-****** TODO Plan course
-       :PROPERTIES:
-       :ID:       971939b9-8590-47d9-b9ab-4df48f7bdcaa
-       :END:
-******* NEXT Org structure
-	 SCHEDULED: <2013-09-09 Mon>
-       :PROPERTIES:
-       :ID:       b91f87d9-508b-4276-8683-c03daa6b3ba8
-       :END:
-Lectures in calendar and tasks like planning lectures.
+****** TODO Grades
+******* NEXT Enter grades       
+****** TODO Misc
+******* NEXT set up Ted for courses
+******* NEXT make course TA email groups
 ***** Clocking
 ****** Admin
 ****** Office hours
-***** Lectures
-****** Location
-****** Mon
-****** Wed
-****** Fri
-***** Exams
-***** Homework
+***** Schedule
+****** Lectures
+******* Location
+WLH 2208
+******* Mon
+******* Wed
+******* Fri
+****** Exams
+******* Midterm 1
+******* Midterm 2
+******* Final
+****** Homework
+******* Homework 1 Due
+******* Homework 2 Due
+******* Homework 3 Due
+******* Homework 4 Due
+******* Homework 5 Due
 
+**** TODO Math20B 						    :MATH20B:
+[[file:~/working/ucsd/teaching/math20b_fall_2013]]
+***** Notes
+***** Tasks
+****** TODO Plan course
+******* NEXT Org structure
+	:LOGBOOK:
+	CLOCK: [2013-09-13 Fri 10:35]
+	:END:
+Lectures in calendar and tasks like planning lectures.
+
+******* DONE Order Text Books
+	:LOGBOOK:
+	- State "DONE"       from "NEXT"       [2013-09-13 Fri 10:37]
+	:END:
+****** TODO Exams
+******* NEXT Create Exam Schedule
+******* TODO Midterm 1
+******** NEXT Write Midterm 1
+******** TODO Get TA's comments
+******** TODO Submit midterm to printing/frdesk
+******** TODO Write MT 1 solutions
+******* TODO Midterm 2
+******** NEXT Write Midterm 2
+******** TODO Get TA's comments
+******** TODO Submit midterm to printing/frdesk
+******** TODO Write MT2 solutions
+******* TODO Final
+******** NEXT Write Final
+******** TODO Get TA's comments
+******** TODO Submit to printing/frdesk
+******** CANCELLED Write final solutions
+	 :LOGBOOK:
+	 - State "CANCELLED"  from "TODO"       [2013-09-03 Tue 10:43] \\
+	   No point!
+	 :END:
+	:PROPERTIES:
+	:ID:       080b484f-d512-4e33-b05c-e7ae72310396
+	:END:
+[2013-08-23 Fri 09:51]
+****** TODO Homework
+******* NEXT Write Homework 1
+******* TODO Write Homework 2
+******* TODO Write Homework 3
+******* TODO Write Homework 4
+******* TODO Write Homework 5
+****** TODO Lectures
+******* NEXT Create Lecture Schedule
+******* TODO Prepare Lectures
+******** NEXT Prepare Lecture 1.1
+******** TODO Prepare Lecture 1.2
+******** TODO Prepare Lecture 1.3
+******** TODO Prepare Lecture 2.1
+******** TODO Prepare Lecture 2.2
+******** TODO Prepare Lecture 2.3
+******** TODO Prepare Lecture 3.1
+******** TODO Prepare Lecture 3.2
+******** TODO Prepare Lecture 3.3
+******** TODO Prepare Lecture 4.1
+******** TODO Prepare Lecture 4.2
+******** TODO Prepare Lecture 4.3
+******** TODO Prepare Lecture 5.1
+******** TODO Prepare Lecture 5.2
+******** TODO Prepare Lecture 5.3
+****** TODO Website
+******* NEXT Make website
+****** TODO Grades
+******* NEXT Enter grades       
+****** TODO Misc
+******* NEXT set up Ted for courses
+******* NEXT make course TA email groups
+***** Clocking
+****** Admin
+****** Office hours
+***** Schedule
+****** Lectures
+******* Location
+CENTR 101
+******* Mon
+******* Wed
+******* Fri
+****** Exams
+******* Midterm 1
+******* Midterm 2
+******* Final
+****** Homework
+******* Homework 1 Due
+******* Homework 2 Due
+******* Homework 3 Due
+******* Homework 4 Due
+******* Homework 5 Due
 *** Winter 2014
 **** TODO MATH10B
      :PROPERTIES:
