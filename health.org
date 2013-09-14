@@ -613,7 +613,7 @@
     :END:
   
 *** NEXT Handstand practice
-    SCHEDULED: <2013-09-04 Wed .+1d/2d>
+#    SCHEDULED: <2013-09-04 Wed .+1d/2d>
     :LOGBOOK:
     - State "DONE"       from "NEXT"       [2013-09-03 Tue 17:07]
     - State "DONE"       from "NEXT"       [2013-08-24 Sat 16:16]
