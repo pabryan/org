@@ -273,7 +273,7 @@ Decided not to do it.
      :END:
 *** Notes
 **** TODO Selected papers
-  SCHEDULED: <2013-09-09 Mon>
+  SCHEDULED: <2013-11-03 Sun>
   :LOGBOOK:
   CLOCK: [2013-08-04 Sun 09:49]--[2013-08-04 Sun 09:50] =>  0:01
   :END:
@@ -765,7 +765,6 @@ This proves the inequality we need.  The remaining problem is to remove the symm
 [[file:refs.org::#MR2946930][Contracting convex immersed closed plane curves with slow speed of curvature]]
 
 **** TODO Ricci isoperimetric profile			     :RICCI_ISO_COMP:
-     SCHEDULED: <2013-09-09 Mon> DEADLINE: <2013-10-11 Fri>
    :LOGBOOK:
    :END:
 [[file:~/working/academic/research/ricci_surfaces_isoperimetric_comparison]]
@@ -1207,7 +1206,6 @@ CONSTANT ANISOTROPIC MEAN CURVATURE
 [[file:~/research_resources/draftpapers/hyperbolic_130113.pdf]]
 *** Future							    :SOMEDAY:
 **** TODO Pipe Flows						  :PIPE_FLOW:
-     SCHEDULED: <2013-09-09 Mon> DEADLINE: <2013-10-11 Fri>
    :PROPERTIES:
    :ID:       cf90c8f0-dc09-44d4-87d4-f7000acc2ba1
    :END:
@@ -1779,7 +1777,7 @@ I'd like to be able to use org-mode views to show papers/books by a given author
 Schedule time for research, for teaching and for non-research academic work (e.g. refereeing). That cover's all the sort of work I do.
 
 *** TODO Prove similarity solns (self-shrinkers/translations) have polyomial growth
-  SCHEDULED: <2013-09-09 Mon>
+  SCHEDULED: <2013-11-03 Sun>
   :LOGBOOK:
   :END:
     :PROPERTIES:
@@ -1787,7 +1785,7 @@ Schedule time for research, for teaching and for non-research academic work (e.g
     :END:
 [2013-07-15 Mon 10:02]
 *** TODO Make create research project capture
-  SCHEDULED: <2013-09-09 Mon>
+  SCHEDULED: <2013-10-06 Sun>
     :PROPERTIES:
     :ID:       89aab08c-03b4-4561-b868-45bc0088ba34
     :END:
@@ -2067,7 +2065,7 @@ http://mathoverflow.net/questions/14877/how-much-of-differential-geometry-can-be
 ** Open Notebook
 *** Tasks
 **** NEXT Research starting an open notebook
-  SCHEDULED: <2013-09-08 Sun>
+  SCHEDULED: <2013-10-06 Sun>
   :LOGBOOK:
   CLOCK: [2013-08-06 Tue 20:54]--[2013-08-06 Tue 20:55] =>  0:01
   :END:
