@@ -134,18 +134,18 @@ END:
 | petrol         |          |
 | cloud          |          |
 | pets           |          |
-| ah             |      150 |
+| ah             |       90 |
 | costco         |          |
 | food           |      200 |
 | Lily's party   |      200 |
 | Car            |      150 |
 | Zoo            |          |
 | Oz             |          |
-| Oz             |     3000 |
+| Oz             |     2500 |
 |                |          |
-| Balance        | -3469.06 |
+| Balance        | -3040.15 |
 |                |          |
-| Tot            |   250.94 |
+| Tot            |   119.85 |
    #+TBLFM: @18$2=vsum(@2$2..@17$2)
    
 ** Bills 
