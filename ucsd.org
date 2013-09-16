@@ -4371,7 +4371,10 @@ APM B412
        	:END:
        	<2013-09-06 Fri>
 
-***** TODO MATH20D						    :MATH20D:
+***** DONE MATH20D						    :MATH20D:
+      :LOGBOOK:
+      - State "DONE"       from "TODO"       [2013-09-16 Mon 09:51]
+      :END:
      :PROPERTIES:
      :ID:       f49db07d-e5f8-47c7-b022-377c29d32e59
      :END:
@@ -5937,8 +5940,11 @@ Search for UCGCB-2012
 [2012-11-12 Mon 11:56]
 [[http://uc.sumtotalsystems.com/sumtotal/a.aspx?p=1561376*95486]]
 
-** TODO Organise meeting with Peter
+** DONE Organise meeting with Peter
   SCHEDULED: <2013-09-12 Thu>
+  :LOGBOOK:
+  - State "DONE"       from "TODO"       [2013-09-16 Mon 09:52]
+  :END:
 [2013-09-11 Wed 17:01]
 * Notes
   :PROPERTIES:

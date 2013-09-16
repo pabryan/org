@@ -2203,11 +2203,12 @@ Possible dates: 5/4/13, 12/4/13, 19/4/13
    :END:
    <2013-02-23 Sat 08:30>--<2013-02-24 Sun 14:30>
 a
-** WAITING PNGS 2013
+** DONE PNGS 2013
    - State "TODO"       from "DONE"       [2013-06-02 Sun 10:54] \\
      Re-instated since I need to put in reimbursement form.
    - State "DONE"       from "TODO"       [2013-05-13 Mon 18:14]
    :LOGBOOK:   
+   - State "DONE"       from "WAITING"    [2013-09-16 Mon 09:51]
    - State "WAITING"    from "TODO"       [2013-08-11 Sun 21:23] \\
      Waiting on money now!
    CLOCK: [2013-05-11 Sat 09:00]--[2013-05-11 Sat 12:30] =>  3:30
@@ -2414,7 +2415,10 @@ a
      :PROPERTIES:
      :ID:       248f2b18-15c7-410a-bafc-67eef8548f4c
      :END:
-**** WAITING PNGS Reimbursement
+**** DONE PNGS Reimbursement
+     :LOGBOOK:
+     - State "DONE"       from "WAITING"    [2013-09-16 Mon 09:51]
+     :END:
      :PROPERTIES:
      :ID:       c37e7ff6-c1aa-476d-ad8c-c452361a667a
      :END:

@@ -1994,13 +1994,19 @@ CLOCK: [2013-01-14 Mon 06:35]--[2013-01-14 Mon 06:35] =>  0:00
   SCHEDULED: <2013-09-29 Sun>
 [2013-09-07 Sat 09:38]
 
-** TODO Check out Sol yoga
+** CANCELLED Check out Sol yoga
   SCHEDULED: <2013-09-14 Sat>
   :LOGBOOK:
+  - State "CANCELLED"  from "TODO"       [2013-09-16 Mon 09:52] \\
+    Doing other things now. Also there is free Yoga on meetup.
   CLOCK: [2013-09-07 Sat 10:01]--[2013-09-07 Sat 10:03] =>  0:02
   :END:
 [2013-09-07 Sat 10:01]
 [[http://www.solyogastudios.com/]]
-** TODO Join up yoga
+** CANCELLED Join up yoga
   SCHEDULED: <2013-09-14 Sat>
+  :LOGBOOK:
+  - State "CANCELLED"  from "TODO"       [2013-09-16 Mon 09:52] \\
+    Doing other things now. Also there is free Yoga on meetup.
+  :END:
 [2013-09-11 Wed 14:43]
