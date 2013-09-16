@@ -1,13 +1,4 @@
 #+FILETAGS: REFILE
-* TODO Follow up on PN tracking
-[2013-09-13 Fri 10:07]
-* TODO Seperate exercise log from health stats
-  SCHEDULED: <2013-09-15 Sun>
-  :LOGBOOK:
-  CLOCK: [2013-09-14 Sat 11:26]--[2013-09-14 Sat 11:28] =>  0:02
-  :END:
-[2013-09-14 Sat 11:26]
-I want to collect all this helth data (including sleep and scoring). I also want to use column views to manage it and produce graphs from the data. Can I put it all in the one file and filter just the relevant data per task?
 * TODO Focus agenda view should show next tasks for project?
   :LOGBOOK:
   CLOCK: [2013-09-14 Sat 19:43]--[2013-09-14 Sat 19:44] =>  0:01

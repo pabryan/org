@@ -1190,9 +1190,10 @@ Chen's email address appears not to be working. How do I contact him?
 	 :PROPERTIES:
 	 :ID:       989cbd98-0e73-4114-9a2f-85d242456214
 	 :END:
-****** TODO Get Koiso and Palmer
+****** DONE Get Koiso and Palmer
   SCHEDULED: <2013-08-12 Mon>
   :LOGBOOK:
+  - State "DONE"       from "TODO"       [2013-09-16 Mon 10:00]
   CLOCK: [2013-08-11 Sun 21:02]--[2013-08-11 Sun 21:03] =>  0:01
   :END:
        :PROPERTIES:

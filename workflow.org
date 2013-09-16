@@ -1449,8 +1449,12 @@ this way I can track upstream and keep my work independent and then merge, push 
 - org-mode is important and obvious. It looks like org works even without this package installed, so I probably should have it in the list to avoid confusion.
 - jekyll, ruby, rubygems
 - hg-autosync
-** TODO Check VPN certificate
+** CANCELLED Check VPN certificate
   SCHEDULED: <2013-08-21 Wed>
+  :LOGBOOK:
+  - State "CANCELLED"  from "TODO"       [2013-09-16 Mon 10:00] \\
+    Don't know why I get a warning message, nor how to fix it.
+  :END:
    :PROPERTIES:
    :ID:       0c7e06ff-c9bf-4ef3-977d-a5247065db29
    :END:
@@ -1495,7 +1499,7 @@ I have mythtv and mediatomb and who knows what else using up valuable resources.
   :END:
 ** Organisation
   :LOGBOOK:
-  CLOCK: [2013-09-16 Mon 09:39]
+  CLOCK: [2013-09-16 Mon 09:39]--[2013-09-16 Mon 10:02] =>  0:23
   CLOCK: [2013-09-16 Mon 09:34]--[2013-09-16 Mon 09:36] =>  0:02
   CLOCK: [2013-09-16 Mon 09:27]--[2013-09-16 Mon 09:29] =>  0:02
   CLOCK: [2013-09-14 Sat 19:44]--[2013-09-14 Sat 19:50] =>  0:06
@@ -2648,6 +2652,7 @@ When I set up scoring the day:
 ** NEXT Weekly Review [0/15]
    SCHEDULED: <2013-09-15 Sun +1w>
    :LOGBOOK:
+   CLOCK: [2013-09-16 Mon 10:02]
    - State "DONE"       from "NEXT"       [2013-09-12 Thu 19:41]
    CLOCK: [2013-09-12 Thu 19:40]--[2013-09-12 Thu 19:41] =>  0:01
    CLOCK: [2013-09-11 Wed 17:05]--[2013-09-11 Wed 17:57] =>  0:52

@@ -826,18 +826,27 @@ Healthy habits. I want to keep on track with living well and so need reminders t
     :ID:       be35806a-83b9-4188-b68a-2a935146e9c7
     :END:
 [2013-07-16 Tue 10:18]
-*** TODO Record health stats
-  SCHEDULED: <2013-09-09 Mon>
+*** TODO Track health
+  SCHEDULED: <2013-09-21 Sat>
+**** TODO Record health stats
     :PROPERTIES:
     :ID:       140a9729-4a79-43fe-b8e1-167623f8d08e
     :END:
 [2013-08-24 Sat 09:57]
-*** TODO Set up daily scoring
-  SCHEDULED: <2013-09-08 Sun>
+**** TODO Set up daily scoring
     :PROPERTIES:
     :ID:       c281ca6c-e54c-4eff-93c3-ba6b46eb9dea
     :END:
 [2013-08-24 Sat 09:57]
+**** TODO Follow up on PN tracking
+[2013-09-13 Fri 10:07]
+**** TODO Seperate exercise log from health stats
+  SCHEDULED: <2013-09-15 Sun>
+  :LOGBOOK:
+  CLOCK: [2013-09-14 Sat 11:26]--[2013-09-14 Sat 11:28] =>  0:02
+  :END:
+[2013-09-14 Sat 11:26]
+I want to collect all this helth data (including sleep and scoring). I also want to use column views to manage it and produce graphs from the data. Can I put it all in the one file and filter just the relevant data per task?
 ** Events
 *** Running							    :RUNNING:
 **** San Diego Beer Run
