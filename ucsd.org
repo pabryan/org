@@ -4275,6 +4275,9 @@ APM B412
        :END:
 ****** Final
        SCHEDULED: <2013-09-07 Sat 19:00-22:00>
+       :LOGBOOK:
+       CLOCK: [2013-09-07 Sat 18:53]
+       :END:
        :PROPERTIES:
        :location: APM B412
        :END:
@@ -4425,7 +4428,8 @@ APM B412
 	 :END:
 ******** NEXT Write solutions
 	 :LOGBOOK:
-	 CLOCK: [2013-09-07 Sat 16:52]
+	 CLOCK: [2013-09-07 Sat 18:35]--[2013-09-07 Sat 18:53] =>  0:18
+	 CLOCK: [2013-09-07 Sat 16:52]--[2013-09-07 Sat 17:42] =>  0:50
 	 :END:
 ****** DONE Homework
        :LOGBOOK:
