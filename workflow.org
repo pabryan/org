@@ -513,8 +513,11 @@ Can I assign times to do this, or do I just do whatever's appropriate for where 
 [2013-08-04 Sun 10:16]
 Do I make a different TODO keyword for more trying out things/open ended type research?
 
-*** TODO Only show tasks for 7 days
+*** DONE Only show tasks for 7 days
   SCHEDULED: <2013-09-08 Sun>
+  :LOGBOOK:
+  - State "DONE"       from "TODO"       [2013-09-13 Fri 09:51]
+  :END:
     :PROPERTIES:
     :ID:       51c2e4ba-504d-48b1-b452-ccdaba611a68
     :END:
@@ -528,6 +531,12 @@ Do I make a different TODO keyword for more trying out things/open ended type re
     :ID:       b6414ae2-66a1-44ea-aede-2293d5449abe
     :END:
 - This is just the ordinary diff with headlines thought of as files/directories (which can contain content and also other files which is slightly different to the filesystem). Recursing is just recursing headlines and reports can say things like "Headlines A and B differ" and we can show differences in contents of headlines.
+*** TODO Org calendar to google calendar
+  SCHEDULED: <2013-09-29 Sun>
+  :PROPERTIES:
+  :ID:       00fc3ef7-df16-48c3-8fa3-f5b16e6c10d2
+  :END:
+[2013-09-03 Tue 21:27]
 ** Hacking
 *** TODO special headlines
   :LOGBOOK:
@@ -932,6 +941,25 @@ Levenger?
 - Papers/Books should have a folder with paper and notes
 - Projects should have a larger folder with papers, notes etc.
 
+*** TODO Make weekly paper review/check task
+  SCHEDULED: <2013-09-15 Sun>
+  :LOGBOOK:
+  CLOCK: [2013-08-27 Tue 10:33]--[2013-08-27 Tue 10:34] =>  0:01
+  :END:
+  :PROPERTIES:
+  :ID:       48724e79-a73d-459b-97af-4bd4581d02b2
+  :END:
+[2013-08-27 Tue 10:33]
+*** DONE Plan time!
+  SCHEDULED: <2013-09-12 Thu>
+  :LOGBOOK:
+  - State "DONE"       from "TODO"       [2013-09-13 Fri 09:52]
+  CLOCK: [2013-09-11 Wed 14:42]--[2013-09-11 Wed 14:43] =>  0:01
+  :END:
+[2013-09-11 Wed 14:42]
+- Make exercise schedule 
+- Make work schedule
+- Make rec schedule
 ** Notes
 * social media
   :PROPERTIES:
@@ -1375,7 +1403,7 @@ http://askubuntu.com/questions/198136/error-when-trying-to-connect-to-vpn-on-sta
 - oldpaul
 - uni 
 ** TODO organise external working
-  SCHEDULED: <2013-09-08 Sun>
+  SCHEDULED: <2013-10-06 Sun>
   :LOGBOOK:
   CLOCK: [2013-08-06 Tue 21:01]--[2013-08-06 Tue 21:05] =>  0:04
   :END:
@@ -1397,9 +1425,10 @@ http://askubuntu.com/questions/198136/error-when-trying-to-connect-to-vpn-on-sta
   :ID:       c2b2de1a-d9d3-4737-931f-605e2bd32978
   :END:
 [2013-08-06 Tue 21:05]
-** TODO Shoudl I make my own working branch for external repositories
+** DONE Make own working branch for external repositories
   SCHEDULED: <2013-09-08 Sun>
   :LOGBOOK:
+  - State "DONE"       from "TODO"       [2013-09-13 Fri 09:51]
   CLOCK: [2013-08-06 Tue 21:05]--[2013-08-06 Tue 21:06] =>  0:01
   :END:
   :PROPERTIES:
@@ -1407,8 +1436,8 @@ http://askubuntu.com/questions/198136/error-when-trying-to-connect-to-vpn-on-sta
   :END:
 [2013-08-06 Tue 21:05]
 this way I can track upstream and keep my work independent and then merge, push to upstream etc. as appropriate
-** TODO Make a list of required softwared
-  SCHEDULED: <2013-09-08 Sun>
+** TODO Make a list of required software
+  SCHEDULED: <2013-10-06 Sun>
   :LOGBOOK:
   CLOCK: [2013-08-09 Fri 09:20]--[2013-08-09 Fri 09:22] =>  0:02
   :END:
@@ -1420,8 +1449,12 @@ this way I can track upstream and keep my work independent and then merge, push 
 - org-mode is important and obvious. It looks like org works even without this package installed, so I probably should have it in the list to avoid confusion.
 - jekyll, ruby, rubygems
 - hg-autosync
-** TODO Check VPN certificate
+** CANCELLED Check VPN certificate
   SCHEDULED: <2013-08-21 Wed>
+  :LOGBOOK:
+  - State "CANCELLED"  from "TODO"       [2013-09-16 Mon 10:00] \\
+    Don't know why I get a warning message, nor how to fix it.
+  :END:
    :PROPERTIES:
    :ID:       0c7e06ff-c9bf-4ef3-977d-a5247065db29
    :END:
@@ -1434,6 +1467,30 @@ this way I can track upstream and keep my work independent and then merge, push 
   :END:
 [2013-08-21 Wed 20:35]
 
+** TODO Set up sshfs with autofs
+  SCHEDULED: <2013-09-29 Sun>
+  :LOGBOOK:
+  CLOCK: [2013-08-27 Tue 18:10]--[2013-08-27 Tue 18:11] =>  0:01
+  :END:
+  :PROPERTIES:
+  :ID:       9d2df97a-0524-4efc-a3a3-4a2012d41902
+  :END:
+[2013-08-27 Tue 18:10]
+https://wiki.archlinux.org/index.php/Autofs#Remote_SSH
+** TODO Set up screen X setting
+  SCHEDULED: <2013-09-29 Sun>
+  :PROPERTIES:
+  :ID:       e9d187bd-217a-4a24-9782-3559085d3b10
+  :END:
+[2013-08-27 Tue 18:11] 
+I have some scripts for capturing the X settings and then a script for loading these in the screen session.
+** TODO Stop various unused daemons
+  SCHEDULED: <2013-09-29 Sun>
+  :PROPERTIES:
+  :ID:       c4b90e31-cffd-4131-b175-976b9c3c5899
+  :END:
+[2013-09-02 Mon 21:12]
+I have mythtv and mediatomb and who knows what else using up valuable resources.
 * Clocking
   :LOGBOOK:
   :END:
@@ -1442,6 +1499,28 @@ this way I can track upstream and keep my work independent and then merge, push 
   :END:
 ** Organisation
   :LOGBOOK:
+  CLOCK: [2013-09-16 Mon 09:39]--[2013-09-16 Mon 10:02] =>  0:23
+  CLOCK: [2013-09-16 Mon 09:34]--[2013-09-16 Mon 09:36] =>  0:02
+  CLOCK: [2013-09-16 Mon 09:27]--[2013-09-16 Mon 09:29] =>  0:02
+  CLOCK: [2013-09-14 Sat 19:44]--[2013-09-14 Sat 19:50] =>  0:06
+  CLOCK: [2013-09-14 Sat 19:38]--[2013-09-14 Sat 19:43] =>  0:05
+  CLOCK: [2013-09-14 Sat 12:47]--[2013-09-14 Sat 12:48] =>  0:01
+  CLOCK: [2013-09-14 Sat 11:31]--[2013-09-14 Sat 11:39] =>  0:08
+  CLOCK: [2013-09-14 Sat 11:16]--[2013-09-14 Sat 11:22] =>  0:06
+  CLOCK: [2013-09-13 Fri 10:28]--[2013-09-13 Fri 10:37] =>  0:09
+  CLOCK: [2013-09-13 Fri 10:07]--[2013-09-13 Fri 10:14] =>  0:07
+  CLOCK: [2013-09-13 Fri 09:30]--[2013-09-13 Fri 09:36] =>  0:06
+  CLOCK: [2013-09-12 Thu 20:10]--[2013-09-12 Thu 20:19] =>  0:09
+  CLOCK: [2013-09-12 Thu 19:43]--[2013-09-12 Thu 19:45] =>  0:02
+  CLOCK: [2013-09-12 Thu 19:41]--[2013-09-12 Thu 19:42] =>  0:01
+  CLOCK: [2013-09-12 Thu 19:39]--[2013-09-12 Thu 19:40] =>  0:01
+  CLOCK: [2013-09-12 Thu 19:37]--[2013-09-12 Thu 19:39] =>  0:02
+  CLOCK: [2013-09-12 Thu 11:54]--[2013-09-12 Thu 11:56] =>  0:02
+  CLOCK: [2013-09-11 Wed 20:43]--[2013-09-11 Wed 20:56] =>  0:13
+  CLOCK: [2013-09-11 Wed 17:57]--[2013-09-11 Wed 17:58] =>  0:01
+  CLOCK: [2013-09-11 Wed 17:01]--[2013-09-11 Wed 17:05] =>  0:04
+  CLOCK: [2013-09-11 Wed 16:51]--[2013-09-11 Wed 17:01] =>  0:10
+  CLOCK: [2013-09-11 Wed 14:30]--[2013-09-11 Wed 14:42] =>  0:12
   CLOCK: [2013-09-07 Sat 09:44]--[2013-09-07 Sat 09:46] =>  0:02
   CLOCK: [2013-09-07 Sat 09:38]--[2013-09-07 Sat 09:44] =>  0:06
   CLOCK: [2013-09-07 Sat 09:29]--[2013-09-07 Sat 09:38] =>  0:09
@@ -2166,8 +2245,10 @@ Set some goals for the month. I should check someday projects for inclusion in t
 Check how I did last month. I guess the review and plan could probably go together. This is all broad stuff
 
 ** NEXT Daily Review [0/6]
-   SCHEDULED: <2013-09-04 Wed .+1d/2d>
+   SCHEDULED: <2013-09-13 Fri .+1d/2d>
    :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2013-09-12 Thu 20:10]
+   CLOCK: [2013-09-12 Thu 19:45]--[2013-09-12 Thu 20:10] =>  0:25
    - State "DONE"       from "NEXT"       [2013-09-03 Tue 20:37]
    CLOCK: [2013-09-03 Tue 20:23]--[2013-09-03 Tue 20:37] =>  0:14
    CLOCK: [2013-09-03 Tue 20:05]--[2013-09-03 Tue 20:22] =>  0:17
@@ -2298,7 +2379,7 @@ Check how I did last month. I guess the review and plan could probably go togeth
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
    :ID:       616c5bd9-d941-4fcc-8874-2ff3c9e96b4a
-   :LAST_REPEAT: [2013-09-03 Tue 20:37]
+   :LAST_REPEAT: [2013-09-12 Thu 20:10]
    :END:
 
 What to review:
@@ -2314,9 +2395,20 @@ When I set up scoring the day:
   - This would be ranking *qualitative* things such as general mood, pain, energy, motivation etc.
 - [ ] Collate data such as sleep, weight, exercise, diet etc.
 
-** NEXT Daily Plan [0/2]
-   SCHEDULED: <2013-09-08 Sun .+1d/2d>
+** NEXT Daily Plan [0/3]
+   SCHEDULED: <2013-09-17 Tue .+1d/2d>
    :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2013-09-16 Mon 09:39]
+   CLOCK: [2013-09-16 Mon 09:36]--[2013-09-16 Mon 09:39] =>  0:03
+   CLOCK: [2013-09-16 Mon 09:33]--[2013-09-16 Mon 09:34] =>  0:01
+   CLOCK: [2013-09-16 Mon 09:29]--[2013-09-16 Mon 09:32] =>  0:03
+   - State "DONE"       from "NEXT"       [2013-09-14 Sat 11:31]
+   CLOCK: [2013-09-14 Sat 11:28]--[2013-09-14 Sat 11:31] =>  0:03
+   CLOCK: [2013-09-14 Sat 11:22]--[2013-09-14 Sat 11:26] =>  0:04
+   - State "DONE"       from "NEXT"       [2013-09-13 Fri 10:07]
+   CLOCK: [2013-09-13 Fri 09:36]--[2013-09-13 Fri 10:07] =>  0:31
+   - State "DONE"       from "NEXT"       [2013-09-12 Thu 19:41]
+   - State "DONE"       from "NEXT"       [2013-09-11 Wed 17:05]
    - State "DONE"       from "NEXT"       [2013-09-07 Sat 09:37]
    - State "DONE"       from "NEXT"       [2013-09-03 Tue 10:42]
    CLOCK: [2013-09-03 Tue 10:32]--[2013-09-03 Tue 10:42] =>  0:10
@@ -2550,15 +2642,20 @@ When I set up scoring the day:
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
    :ID:       ef051ee0-1113-4604-b355-450a5a47848b
-   :LAST_REPEAT: [2013-09-07 Sat 09:37]
+   :LAST_REPEAT: [2013-09-16 Mon 09:39]
    :END:
 
 - [ ] Check agenda/focus
 - [ ] Write date into notebook
+- [ ] Record morning health stats
 
-** NEXT Weekly Review [0/15]
-   SCHEDULED: <2013-09-01 Sun +1w>
+** NEXT Weekly Review [3/15]
+   SCHEDULED: <2013-09-15 Sun +1w>
    :LOGBOOK:
+   CLOCK: [2013-09-16 Mon 10:02]
+   - State "DONE"       from "NEXT"       [2013-09-12 Thu 19:41]
+   CLOCK: [2013-09-12 Thu 19:40]--[2013-09-12 Thu 19:41] =>  0:01
+   CLOCK: [2013-09-11 Wed 17:05]--[2013-09-11 Wed 17:57] =>  0:52
    - State "DONE"       from "NEXT"       [2013-08-27 Tue 10:39]
    CLOCK: [2013-08-27 Tue 10:34]--[2013-08-27 Tue 10:39] =>  0:05
    CLOCK: [2013-08-27 Tue 10:01]--[2013-08-27 Tue 10:33] =>  0:32
@@ -2633,15 +2730,15 @@ When I set up scoring the day:
    :REPEAT_TO_STATE: NEXT
    :ID:       846c05fa-21d7-4e6f-8431-a1fa06631945
    :RESET_CHECK_BOXES: t
-   :LAST_REPEAT: [2013-08-27 Tue 10:39]
+   :LAST_REPEAT: [2013-09-12 Thu 19:41]
    :END:
 
 What to review:
 
-- [ ] Check follow-up paper folder
-- [ ] Check holding directory
+- [X] Check follow-up paper folder
+- [X] Check holding directory
   [[file:~/holding]]
-- [ ] Check holding email folder
+- [X] Check holding email folder
 - [ ] Review weekly agenda =F12 a w//=
 - [ ] Check clocking data for past week =v c=
   - fix up any errors
@@ -2670,6 +2767,7 @@ What to review:
    SCHEDULED: <2013-09-01 Sun +1m>
    - State "DONE"       from "NEXT"       [2013-03-19 Tue 11:34]
    :LOGBOOK:
+   CLOCK: [2013-09-11 Wed 08:00]--[2013-09-11 Wed 08:25] =>  0:25
    CLOCK: [2013-03-19 Tue 11:29]--[2013-03-19 Tue 11:34] =>  0:05
    :END:
    :PROPERTIES:

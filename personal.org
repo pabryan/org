@@ -129,23 +129,23 @@ END:
 #+TBLNAME: Coming up
 | Desc           |      Amt |
 |----------------+----------|
-| sdge           |       70 |
+| sdge           |          |
 | rent insurance |       20 |
-| petrol         |       50 |
-| cloud          |       25 |
-| pets           |       25 |
-| ah             |      200 |
-| costco         |      200 |
-| food           |      300 |
+| petrol         |          |
+| cloud          |          |
+| pets           |          |
+| ah             |       90 |
+| costco         |          |
+| food           |      200 |
 | Lily's party   |      200 |
 | Car            |      150 |
-| Zoo            |      200 |
-| Oz             |     3500 |
-| Oz             |     3000 |
+| Zoo            |          |
+| Oz             |          |
+| Oz             |     2500 |
 |                |          |
-| Balance        | -8144.15 |
+| Balance        | -3040.15 |
 |                |          |
-| Tot            |  -204.15 |
+| Tot            |   119.85 |
    #+TBLFM: @18$2=vsum(@2$2..@17$2)
    
 ** Bills 
@@ -572,6 +572,10 @@ person in your department who handles benefits information.
   CLOCK: [2012-10-25 Thu 11:32]--[2012-10-25 Thu 11:32] =>  0:00
 [2012-10-25 Thu 11:32]
 
+*** TODO Book doctor appointments
+  SCHEDULED: <2013-09-16 Mon>
+[2013-09-07 Sat 09:44]
+Me and Lily
 ** Routine/Schedule
 *** CANCELLED Update training schedule
    - State "CANCELLED"  from "TODO"       [2012-10-24 Wed 13:30] \\
@@ -822,18 +826,27 @@ Healthy habits. I want to keep on track with living well and so need reminders t
     :ID:       be35806a-83b9-4188-b68a-2a935146e9c7
     :END:
 [2013-07-16 Tue 10:18]
-*** TODO Record health stats
-  SCHEDULED: <2013-09-09 Mon>
+*** TODO Track health
+  SCHEDULED: <2013-09-21 Sat>
+**** TODO Record health stats
     :PROPERTIES:
     :ID:       140a9729-4a79-43fe-b8e1-167623f8d08e
     :END:
 [2013-08-24 Sat 09:57]
-*** TODO Set up daily scoring
-  SCHEDULED: <2013-09-08 Sun>
+**** TODO Set up daily scoring
     :PROPERTIES:
     :ID:       c281ca6c-e54c-4eff-93c3-ba6b46eb9dea
     :END:
 [2013-08-24 Sat 09:57]
+**** TODO Follow up on PN tracking
+[2013-09-13 Fri 10:07]
+**** TODO Seperate exercise log from health stats
+  SCHEDULED: <2013-09-15 Sun>
+  :LOGBOOK:
+  CLOCK: [2013-09-14 Sat 11:26]--[2013-09-14 Sat 11:28] =>  0:02
+  :END:
+[2013-09-14 Sat 11:26]
+I want to collect all this helth data (including sleep and scoring). I also want to use column views to manage it and produce graphs from the data. Can I put it all in the one file and filter just the relevant data per task?
 ** Events
 *** Running							    :RUNNING:
 **** San Diego Beer Run
@@ -876,6 +889,9 @@ Doyle Field
 [2013-02-21 Thu 09:00]
 ** Triton 5k
 <2013-06-08 Sat 09:00>
+** TODO Investigate surfing
+  SCHEDULED: <2013-09-29 Sun>
+[2013-09-11 Wed 14:43]
 * House 							      :HOUSE:
   :PROPERTIES:
   :ID:       dee2dca4-a5da-45e5-a276-2e4f8f255a9c
@@ -1002,6 +1018,20 @@ fluff sheets 1d/2d
 - wash towels/sheets (w)
 - water plants (d)
 
+*** TODO Sign up for AT&T $50 bundle
+  SCHEDULED: <2013-09-12 Thu>
+  :PROPERTIES:
+  :ID:       54f7ebfb-40cd-4635-b741-3e5afdcd7d4e
+  :END:
+[2013-09-01 Sun 10:28]
+*** NEXT Borrow vacuum cleaner
+  SCHEDULED: <2013-09-13 Fri>
+  :LOGBOOK:
+  - State "NEXT"       from "WAITING"    [2013-09-14 Sat 19:44]
+  - State "WAITING"    from "TODO"       [2013-09-13 Fri 10:05] \\
+    Sent email to Del Sol people requesting vacuum cleaner.
+  :END:
+[2013-09-07 Sat 09:44]
 ** Del Sol 							     :DELSOL:
 *** Events
 **** Del Sol Continental Breakfast
@@ -1382,6 +1412,13 @@ contact: [[mailto:rosecanyon@san.rr.com][rosecanyon@san.rr.com]], 858-597-0220
    :END:
 <2013-07-18 Thu>
 <2013-07-21 Sun>
+** Swap Meet
+*** Swap Meet Fall 2013
+<2013-09-29 Sun 09:00-13:00>
+Canyon Crest Academy
+Carmel Valley
+5951 Village Center
+Loop Road
 * Reading							    :READING:
   :PROPERTIES:
   :ID:       0c261d56-d97d-46a5-9e2e-78515bca1ddd
@@ -1989,8 +2026,11 @@ Code: SHARE10
 *** MyGov
 - username: NB725486
 *** Elections							  :ELECTIONS:
-**** TODO Post 2013 Federal votes
+**** DONE Post 2013 Federal votes
      SCHEDULED: <2013-08-26 Mon>
+     :LOGBOOK:
+     - State "DONE"       from "TODO"       [2013-09-11 Wed 14:30]
+     :END:
      :PROPERTIES:
      :ID:       e246fc6d-14b2-4de8-aa08-016ab45ed832
      :END:

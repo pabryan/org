@@ -1,70 +1,11 @@
 #+FILETAGS: REFILE
-* TODO Make weekly paper review/check task
+* TODO Focus agenda view should show next tasks for project?
   :LOGBOOK:
-  CLOCK: [2013-08-27 Tue 10:33]--[2013-08-27 Tue 10:34] =>  0:01
+  CLOCK: [2013-09-14 Sat 19:43]--[2013-09-14 Sat 19:44] =>  0:01
   :END:
-  :PROPERTIES:
-  :ID:       48724e79-a73d-459b-97af-4bd4581d02b2
-  :END:
-[2013-08-27 Tue 10:33]
-* TODO Set up sshfs with autofs
-  :LOGBOOK:
-  CLOCK: [2013-08-27 Tue 18:10]--[2013-08-27 Tue 18:11] =>  0:01
-  :END:
-  :PROPERTIES:
-  :ID:       9d2df97a-0524-4efc-a3a3-4a2012d41902
-  :END:
-[2013-08-27 Tue 18:10]
-https://wiki.archlinux.org/index.php/Autofs#Remote_SSH
-* TODO Set up screen X setting
-  :PROPERTIES:
-  :ID:       e9d187bd-217a-4a24-9782-3559085d3b10
-  :END:
-[2013-08-27 Tue 18:11] 
-I have some scripts for capturing the X settings and then a script for loading these in the screen session.
-* TODO Cancel Tritoncase $25
-  :PROPERTIES:
-  :ID:       08d8e648-e320-4e84-bb58-56cdbb1ce441
-  :END:
-[2013-09-01 Sun 10:28]
-* TODO Sign up for AT&T $50 bundle
-  :PROPERTIES:
-  :ID:       54f7ebfb-40cd-4635-b741-3e5afdcd7d4e
-  :END:
-[2013-09-01 Sun 10:28]
-* TODO Get TB screening
-  :PROPERTIES:
-  :ID:       e07dccf2-208b-4ea6-a70e-25bd774737b0
-  :END:
-[2013-09-01 Sun 10:30]
-* TODO Stop various unused daemons
-  :PROPERTIES:
-  :ID:       c4b90e31-cffd-4131-b175-976b9c3c5899
-  :END:
-[2013-09-02 Mon 21:12]
-I have mythtv and mediatomb and who knows what else using up valuable resources.
-* TODO Get pool toys
-  :PROPERTIES:
-  :ID:       6e90da5d-3a5a-4373-bc85-3f8b4c146d03
-  :END:
-[2013-09-03 Tue 20:05]
-noodles
-* TODO Org calendar to google calendar
-  :PROPERTIES:
-  :ID:       00fc3ef7-df16-48c3-8fa3-f5b16e6c10d2
-  :END:
-[2013-09-03 Tue 21:27]
-* TODO Create health stats capture task
-[2013-09-07 Sat 09:38]
+[2013-09-14 Sat 19:43]
 
-* TODO Borrow vacuum cleaner
-[2013-09-07 Sat 09:44]
-* TODO Book doctor appointments
-[2013-09-07 Sat 09:44]
-Me and Lily
-* TODO Check out Sol yoga
-  :LOGBOOK:
-  CLOCK: [2013-09-07 Sat 10:01]--[2013-09-07 Sat 10:03] =>  0:02
-  :END:
-[2013-09-07 Sat 10:01]
-[[http://www.solyogastudios.com/]]
+* TODO Volunteer at SD beer fest
+  DEADLINE: <2013-09-16 Mon>
+[2013-09-14 Sat 21:03]
+http://dev.sdbeerfest.org/

@@ -21,11 +21,6 @@
     (insert "  :END:\n\n")))
 #+end_src
 
-* Stats
-  :PROPERTIES:
-  :ID:       4b04a0b5-c10f-4aef-89a6-11f4053be6c2
-  :END:
-
 * 2012
   :PROPERTIES:
   :ID:       72d145e3-cdf4-493a-86c3-5195709765f3
@@ -2274,4 +2269,101 @@ Set 4 HR: 104
 :PROPERTIES:
 :weight: 73.5
 :rest_hr: 48
+:END:
+*** 2013-08-08 Sunday
+**** Stats
+:PROPERTIES:
+:weight: 73.5
+:rest_hr: 46
+:END:
+*** 2013-08-09 Monday
+**** Stats
+:PROPERTIES:
+:weight: 73.6
+:rest_hr: 51
+:END:
+*** 2013-08-10 Tuesday
+**** Stats
+:PROPERTIES:
+:weight: 73.8
+:rest_hr: 46
+:END:
+*** 2013-08-11 Wednesday
+**** Stats
+:PROPERTIES:
+:weight: 73.8 
+:rest_hr: 50
+:END:
+*** 2013-09-12 Thursday
+**** Revive Flow 
+     :LOGBOOK:
+     CLOCK: [2013-09-12 Thu 16:40]--[2013-09-12 Thu 17:20] =>  0:40
+     :END:
+:PROPERTIES:
+:Type: Mobility
+:Intensity: None
+:RestHR: 52
+:FinalHR: 56
+:Score:
+:Technique: 8
+:Effort: 2
+:Discomfort: 2
+:END:
+
+[2013-09-12 Thu 19:42]
+
+**** Stats
+:PROPERTIES:
+:weight: 72.7
+:rest_hr: 46
+:END:
+*** 2013-09-13 Friday
+**** Stats
+:PROPERTIES:
+:weight: 72.5
+:rest_hr: 45
+:END:
+**** Thrive Flow 
+:PROPERTIES:
+:Type: Compensation
+:Intensity: Low
+:RestHR: 56
+:FinalHR:
+:Score:
+:Technique:
+:Effort:
+:Discomfort:
+:END:
+
+[2013-09-13 Fri 09:32]
+*** 2013-09-14 Saturday
+**** Stats
+:PROPERTIES:
+:weight: 73.2
+:rest_hr: 47
+:END:
+*** 2013-09-15 Sunday
+**** Stats
+:PROPERTIES:
+:weight: 72.8
+:rest_hr: 49
+:END:
+**** Revive Flow
+:PROPERTIES:
+:Type: Mobility
+:Intensity: None
+:RestHR: 
+:FinalHR: 88
+:Score:
+:Technique:
+:Effort:
+:Discomfort:
+:END:
+
+[2013-09-15 Sun 09:34]
+*** 2013-09-16 Monday
+**** Stats
+:PROPERTIES:
+:weight: 73.2
+:rest_hr: 47
 :END:

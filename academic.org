@@ -273,7 +273,7 @@ Decided not to do it.
      :END:
 *** Notes
 **** TODO Selected papers
-  SCHEDULED: <2013-09-09 Mon>
+  SCHEDULED: <2013-11-03 Sun>
   :LOGBOOK:
   CLOCK: [2013-08-04 Sun 09:49]--[2013-08-04 Sun 09:50] =>  0:01
   :END:
@@ -765,7 +765,6 @@ This proves the inequality we need.  The remaining problem is to remove the symm
 [[file:refs.org::#MR2946930][Contracting convex immersed closed plane curves with slow speed of curvature]]
 
 **** TODO Ricci isoperimetric profile			     :RICCI_ISO_COMP:
-     SCHEDULED: <2013-09-09 Mon> DEADLINE: <2013-10-11 Fri>
    :LOGBOOK:
    :END:
 [[file:~/working/academic/research/ricci_surfaces_isoperimetric_comparison]]
@@ -928,12 +927,6 @@ Try again to make this exponential barrier work.
        :END:			     
 ***** Notes
 ***** References
-**** TODO Pipe Flows						  :PIPE_FLOW:
-     SCHEDULED: <2013-09-09 Mon> DEADLINE: <2013-10-11 Fri>
-   :PROPERTIES:
-   :ID:       cf90c8f0-dc09-44d4-87d4-f7000acc2ba1
-   :END:
-[[file:~/working/academic/research/geometric_pipe_flows]]
 ***** Tasks
 ****** DONE Set up exact tasks
        - State "DONE"       from "NEXT"       [2013-06-23 Sun 16:12]
@@ -979,6 +972,7 @@ Try again to make this exponential barrier work.
      :PROPERTIES:
      :ID:       5b2bd1d4-ccbc-4951-b859-778926ad749d
      :END:
+[[file:~/working/academic/research/space_form_curvature_flow]]
 ***** Notes
 ****** Flow
 In hyperbolic space flow by $(K-1)\nor$. How about in $M(\kappa)$, flow by $(K-\kappa)\nor$ where $M(\kappa)$ is the simply connected space form with constant curvature $\kappa$?
@@ -1085,6 +1079,12 @@ Can we get a Harnack inequality from the support function?
 ******* Long time behaviour
 Can we deduce long-time behaviour from the support function?
 ***** Tasks
+****** WAITING Follow up on Chen's email
+       :LOGBOOK:
+       - State "WAITING"    from "NEXT"       [2013-09-13 Fri 10:05] \\
+	 Sent email to Ben asking about this.
+       :END:
+Chen's email address appears not to be working. How do I contact him?
 ****** DONE Write up outline and send to Chen
        - State "DONE"       from "NEXT"       [2013-04-25 Thu 20:31]
        :LOGBOOK:
@@ -1109,6 +1109,8 @@ Can we deduce long-time behaviour from the support function?
        :END:
 ******* NEXT Get formula for coords, metric
 	:LOGBOOK:
+	CLOCK: [2013-09-14 Sat 10:25]--[2013-09-14 Sat 11:15] =>  0:50
+	CLOCK: [2013-09-12 Thu 09:25]--[2013-09-12 Thu 10:20] =>  0:55
 	CLOCK: [2013-08-26 Mon 16:15]--[2013-08-26 Mon 17:08] =>  0:53
 	:END:
 	:PROPERTIES:
@@ -1189,9 +1191,10 @@ Can we deduce long-time behaviour from the support function?
 	 :PROPERTIES:
 	 :ID:       989cbd98-0e73-4114-9a2f-85d242456214
 	 :END:
-****** TODO Get Koiso and Palmer
+****** DONE Get Koiso and Palmer
   SCHEDULED: <2013-08-12 Mon>
   :LOGBOOK:
+  - State "DONE"       from "TODO"       [2013-09-16 Mon 10:00]
   CLOCK: [2013-08-11 Sun 21:02]--[2013-08-11 Sun 21:03] =>  0:01
   :END:
        :PROPERTIES:
@@ -1204,6 +1207,11 @@ CONSTANT ANISOTROPIC MEAN CURVATURE
 ***** Refs
 [[file:~/research_resources/draftpapers/hyperbolic_130113.pdf]]
 *** Future							    :SOMEDAY:
+**** TODO Pipe Flows						  :PIPE_FLOW:
+   :PROPERTIES:
+   :ID:       cf90c8f0-dc09-44d4-87d4-f7000acc2ba1
+   :END:
+[[file:~/working/academic/research/geometric_pipe_flows]]
 **** TODO csf_networks					       :CSF_NETWORKS:
    :PROPERTIES:
    :ID:       1bc93b81-8423-4598-8297-f0b90aa39aa7
@@ -1361,6 +1369,7 @@ Can I use a non-collapsing type argument?
 Look at all dark matter papers. Alan Parry also. Bibliography of course!
 ** Books
 *** Working
+*** Future 							    :SOMEDAY:
 **** TODO MCF Book					     :MCF_BOOK:FOCUS:
 [[file:~/working/academic/research/mcf_book]]
 [[file:~/Dropbox/MCF Project]]
@@ -1479,7 +1488,6 @@ In particular, put more detail in.
       :PROPERTIES:
       :ID:       b4fbfad7-31a8-4a53-a2e3-d2453bd33390
       :END:
-*** Future							    :SOMEDAY:
 **** TODO Submanifold book				       :SUBMANIFOLDS:
 [[file:~/working/academic/research/submanifolds_book]]
    :PROPERTIES:
@@ -1771,7 +1779,7 @@ I'd like to be able to use org-mode views to show papers/books by a given author
 Schedule time for research, for teaching and for non-research academic work (e.g. refereeing). That cover's all the sort of work I do.
 
 *** TODO Prove similarity solns (self-shrinkers/translations) have polyomial growth
-  SCHEDULED: <2013-09-09 Mon>
+  SCHEDULED: <2013-11-03 Sun>
   :LOGBOOK:
   :END:
     :PROPERTIES:
@@ -1779,7 +1787,7 @@ Schedule time for research, for teaching and for non-research academic work (e.g
     :END:
 [2013-07-15 Mon 10:02]
 *** TODO Make create research project capture
-  SCHEDULED: <2013-09-09 Mon>
+  SCHEDULED: <2013-10-06 Sun>
     :PROPERTIES:
     :ID:       89aab08c-03b4-4561-b868-45bc0088ba34
     :END:
@@ -2058,8 +2066,8 @@ http://mathoverflow.net/questions/14877/how-much-of-differential-geometry-can-be
 
 ** Open Notebook
 *** Tasks
-**** TODO Open notebook
-  SCHEDULED: <2013-09-08 Sun>
+**** NEXT Research starting an open notebook
+  SCHEDULED: <2013-10-06 Sun>
   :LOGBOOK:
   CLOCK: [2013-08-06 Tue 20:54]--[2013-08-06 Tue 20:55] =>  0:01
   :END:
@@ -2067,10 +2075,13 @@ http://mathoverflow.net/questions/14877/how-much-of-differential-geometry-can-be
   :ID:       26f44ff2-31cc-4d48-be04-f0652333ae43
   :END:
 [2013-08-06 Tue 20:54]
-- start an open notebook
-- contact collaborators and see if I can put our work in it
 - I'll definitely write using org-mode (even wikis with markdown from org)
 - perhaps my work can be on google+, facebook, wordpress whatever and pulled in to my website or vice versa!
+
+**** NEXT contact collaborators and see if I can put our work in it
+     :LOGBOOK:
+     CLOCK: [2013-09-12 Thu 20:19]--[2013-09-12 Thu 20:42] =>  0:23
+     :END:
 *** Notes
 * Learning							   :LEARNING:
   :PROPERTIES:
@@ -2194,11 +2205,12 @@ Possible dates: 5/4/13, 12/4/13, 19/4/13
    :END:
    <2013-02-23 Sat 08:30>--<2013-02-24 Sun 14:30>
 a
-** WAITING PNGS 2013
+** DONE PNGS 2013
    - State "TODO"       from "DONE"       [2013-06-02 Sun 10:54] \\
      Re-instated since I need to put in reimbursement form.
    - State "DONE"       from "TODO"       [2013-05-13 Mon 18:14]
    :LOGBOOK:   
+   - State "DONE"       from "WAITING"    [2013-09-16 Mon 09:51]
    - State "WAITING"    from "TODO"       [2013-08-11 Sun 21:23] \\
      Waiting on money now!
    CLOCK: [2013-05-11 Sat 09:00]--[2013-05-11 Sat 12:30] =>  3:30
@@ -2405,7 +2417,10 @@ a
      :PROPERTIES:
      :ID:       248f2b18-15c7-410a-bafc-67eef8548f4c
      :END:
-**** WAITING PNGS Reimbursement
+**** DONE PNGS Reimbursement
+     :LOGBOOK:
+     - State "DONE"       from "WAITING"    [2013-09-16 Mon 09:51]
+     :END:
      :PROPERTIES:
      :ID:       c37e7ff6-c1aa-476d-ad8c-c452361a667a
      :END:

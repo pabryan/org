@@ -8,14 +8,19 @@
 
 ** Tracking
 *** NEXT Exercise
-    SCHEDULED: <2013-09-04 Wed .+1d/2d>
+    SCHEDULED: <2013-09-15 Sun .+1d/2d>
     :PROPERTIES:
     :STYLE:    habit
     :REPEAT_TO_STATE: NEXT
     :ID:       8d56b2ef-1b49-4dc4-b701-1d021a293fa4
-    :LAST_REPEAT: [2013-09-03 Tue 17:08]
+    :LAST_REPEAT: [2013-09-14 Sat 19:38]
     :END:
     :LOGBOOK:
+    - State "DONE"       from "NEXT"       [2013-09-14 Sat 17:30]
+    CLOCK: [2013-09-14 Sat 16:15]--[2013-09-14 Sat 17:30] =>  1:15
+    - State "DONE"       from "NEXT"       [2013-09-12 Thu 19:41]
+    - State "DONE"       from "NEXT"       [2013-09-08 Sun 19:40]
+    CLOCK: [2013-09-08 Sun 18:40]--[2013-09-08 Sun 19:40] =>  1:00
     - State "DONE"       from "NEXT"       [2013-09-03 Tue 17:08]
     - State "DONE"       from "NEXT"       [2013-09-02 Mon 14:35]
     CLOCK: [2013-09-02 Mon 13:01]--[2013-09-02 Mon 14:35] =>  1:34
@@ -182,8 +187,20 @@
     - State "DONE"       from "NEXT"       [2013-03-09 Sat 11:10]
     :END:
 *** NEXT Morning Mobility
-    SCHEDULED: <2013-09-08 Sun .+1d/2d>
+    SCHEDULED: <2013-09-17 Tue .+1d/2d>
     :LOGBOOK:
+    - State "DONE"       from "NEXT"       [2013-09-16 Mon 09:05]
+    CLOCK: [2013-09-16 Mon 08:40]--[2013-09-16 Mon 09:05] =>  0:25
+    - State "DONE"       from "NEXT"       [2013-09-14 Sat 09:20]
+    CLOCK: [2013-09-14 Sat 08:45]--[2013-09-14 Sat 09:20] =>  0:35
+    - State "DONE"       from "NEXT"       [2013-09-13 Fri 09:05]
+    CLOCK: [2013-09-13 Fri 08:40]--[2013-09-13 Fri 09:05] =>  0:25
+    - State "DONE"       from "NEXT"       [2013-09-12 Thu 08:00]
+    CLOCK: [2013-09-12 Thu 07:40]--[2013-09-12 Thu 08:00] =>  0:20
+    - State "DONE"       from "NEXT"       [2013-09-11 Wed 08:00]
+    CLOCK: [2013-09-11 Wed 07:40]--[2013-09-11 Wed 08:00] =>  0:20
+    - State "DONE"       from "NEXT"       [2013-09-08 Sun 08:25]
+    CLOCK: [2013-09-08 Sun 08:00]--[2013-09-08 Sun 08:25] =>  0:25
     - State "DONE"       from "NEXT"       [2013-09-07 Sat 08:25]
     CLOCK: [2013-09-07 Sat 08:00]--[2013-09-07 Sat 08:25] =>  0:25
     - State "DONE"       from "NEXT"       [2013-09-06 Fri 07:55]
@@ -369,16 +386,18 @@
     :STYLE:    habit
     :REPEAT_TO_STATE: NEXT
     :ID:       0e75f56d-0356-4a0f-a376-080471ad4aad
-    :LAST_REPEAT: [2013-09-07 Sat 09:37]
+    :LAST_REPEAT: [2013-09-16 Mon 09:36]
     :END:
 
 *** NEXT Afternoon Relax
-    SCHEDULED: <2013-09-04 Wed .+1d/2d>
+    SCHEDULED: <2013-09-15 Sun .+1d/2d>
     :LOGBOOK:
+    - State "DONE"       from "NEXT"       [2013-09-14 Sat 16:15]
+    - State "DONE"       from "NEXT"       [2013-09-12 Thu 19:41]
     - State "DONE"       from "NEXT"       [2013-09-03 Tue 19:00]
     CLOCK: [2013-09-03 Tue 18:01]--[2013-09-03 Tue 19:00] =>  0:59
     - State "DONE"       from "NEXT"       [2013-09-02 Mon 21:02]
-    CLOCK: [2013-09-02 Mon 15:15]--[2013-09-02 Mon 20:05] =>  4:50
+    CLOCK: [2013-09-02 Mon 15:15]--[2013-09-02 Mon 15:35] =>  0:20
     - State "DONE"       from "NEXT"       [2013-08-31 Sat 20:54]
     - State "DONE"       from "NEXT"       [2013-08-30 Fri 21:48]
     - State "DONE"       from "NEXT"       [2013-08-29 Thu 17:06]
@@ -490,12 +509,17 @@
     :STYLE:    habit
     :REPEAT_TO_STATE: NEXT
     :ID:       c0aaf33a-af77-446b-b9fd-cf2d2f78c12a
-    :LAST_REPEAT: [2013-09-03 Tue 19:58]
+    :LAST_REPEAT: [2013-09-14 Sat 16:15]
     :END:
   
 *** NEXT Evening Stretch
-    SCHEDULED: <2013-09-03 Tue .+1d/2d>
+    SCHEDULED: <2013-09-15 Sun .+1d/2d>
     :LOGBOOK:
+    - State "DONE"       from "NEXT"       [2013-09-14 Sat 21:17]
+    - State "DONE"       from "NEXT"       [2013-09-12 Thu 22:05]
+    CLOCK: [2013-09-11 Wed 21:35]--[2013-09-11 Wed 22:05] =>  0:30
+    - State "DONE"       from "NEXT"       [2013-09-08 Sun 20:56]
+    CLOCK: [2013-09-08 Sun 19:40]--[2013-09-08 Sun 20:56] =>  1:16
     - State "DONE"       from "NEXT"       [2013-09-02 Mon 22:07]
     CLOCK: [2013-09-02 Mon 21:12]--[2013-09-02 Mon 22:07] =>  0:55
     CLOCK: [2013-09-02 Mon 21:11]--[2013-09-02 Mon 21:12] =>  0:01
@@ -593,11 +617,11 @@
     :STYLE:    habit
     :REPEAT_TO_STATE: NEXT
     :ID:       d439600f-c40d-4dd3-82ca-3e7d9e35f2b3
-    :LAST_REPEAT: [2013-09-02 Mon 22:07]
+    :LAST_REPEAT: [2013-09-14 Sat 21:17]
     :END:
   
 *** NEXT Handstand practice
-    SCHEDULED: <2013-09-04 Wed .+1d/2d>
+#    SCHEDULED: <2013-09-04 Wed .+1d/2d>
     :LOGBOOK:
     - State "DONE"       from "NEXT"       [2013-09-03 Tue 17:07]
     - State "DONE"       from "NEXT"       [2013-08-24 Sat 16:16]
@@ -1966,3 +1990,23 @@ CLOCK: [2013-01-14 Mon 06:35]--[2013-01-14 Mon 06:35] =>  0:00
 [2012-11-20 Tue 11:04]
 
 
+** TODO Create health stats capture task
+  SCHEDULED: <2013-09-29 Sun>
+[2013-09-07 Sat 09:38]
+
+** CANCELLED Check out Sol yoga
+  SCHEDULED: <2013-09-14 Sat>
+  :LOGBOOK:
+  - State "CANCELLED"  from "TODO"       [2013-09-16 Mon 09:52] \\
+    Doing other things now. Also there is free Yoga on meetup.
+  CLOCK: [2013-09-07 Sat 10:01]--[2013-09-07 Sat 10:03] =>  0:02
+  :END:
+[2013-09-07 Sat 10:01]
+[[http://www.solyogastudios.com/]]
+** CANCELLED Join up yoga
+  SCHEDULED: <2013-09-14 Sat>
+  :LOGBOOK:
+  - State "CANCELLED"  from "TODO"       [2013-09-16 Mon 09:52] \\
+    Doing other things now. Also there is free Yoga on meetup.
+  :END:
+[2013-09-11 Wed 14:43]
