@@ -1084,6 +1084,9 @@ Can we deduce long-time behaviour from the support function?
        - State "WAITING"    from "NEXT"       [2013-09-13 Fri 10:05] \\
 	 Sent email to Ben asking about this.
        :END:
+       :PROPERTIES:
+       :ID:       c6ad78d4-07b1-40d1-8a92-2d0d4f546445
+       :END:
 Chen's email address appears not to be working. How do I contact him?
 ****** DONE Write up outline and send to Chen
        - State "DONE"       from "NEXT"       [2013-04-25 Thu 20:31]
@@ -2081,6 +2084,9 @@ http://mathoverflow.net/questions/14877/how-much-of-differential-geometry-can-be
 **** NEXT contact collaborators and see if I can put our work in it
      :LOGBOOK:
      CLOCK: [2013-09-12 Thu 20:19]--[2013-09-12 Thu 20:42] =>  0:23
+     :END:
+     :PROPERTIES:
+     :ID:       fb4cb56a-d33c-40da-bf00-7874b2d3d411
      :END:
 *** Notes
 * Learning							   :LEARNING:

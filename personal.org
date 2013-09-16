@@ -574,6 +574,9 @@ person in your department who handles benefits information.
 
 *** TODO Book doctor appointments
   SCHEDULED: <2013-09-16 Mon>
+    :PROPERTIES:
+    :ID:       28367ca1-0f40-4cdd-bc57-dfa4bf650109
+    :END:
 [2013-09-07 Sat 09:44]
 Me and Lily
 ** Routine/Schedule
@@ -828,6 +831,9 @@ Healthy habits. I want to keep on track with living well and so need reminders t
 [2013-07-16 Tue 10:18]
 *** TODO Track health
   SCHEDULED: <2013-09-21 Sat>
+    :PROPERTIES:
+    :ID:       9271ac02-e855-44a8-9f5c-1222b34a7edc
+    :END:
 **** TODO Record health stats
     :PROPERTIES:
     :ID:       140a9729-4a79-43fe-b8e1-167623f8d08e
@@ -839,12 +845,18 @@ Healthy habits. I want to keep on track with living well and so need reminders t
     :END:
 [2013-08-24 Sat 09:57]
 **** TODO Follow up on PN tracking
+     :PROPERTIES:
+     :ID:       fa781125-ef74-4204-acf2-01afd40af11e
+     :END:
 [2013-09-13 Fri 10:07]
 **** TODO Seperate exercise log from health stats
   SCHEDULED: <2013-09-15 Sun>
   :LOGBOOK:
   CLOCK: [2013-09-14 Sat 11:26]--[2013-09-14 Sat 11:28] =>  0:02
   :END:
+     :PROPERTIES:
+     :ID:       00774139-bf6f-4fb9-b790-21ab625ce894
+     :END:
 [2013-09-14 Sat 11:26]
 I want to collect all this helth data (including sleep and scoring). I also want to use column views to manage it and produce graphs from the data. Can I put it all in the one file and filter just the relevant data per task?
 ** Events
@@ -891,6 +903,9 @@ Doyle Field
 <2013-06-08 Sat 09:00>
 ** TODO Investigate surfing
   SCHEDULED: <2013-09-29 Sun>
+   :PROPERTIES:
+   :ID:       989fd81d-fc17-4825-afd3-0f2104d0b8a1
+   :END:
 [2013-09-11 Wed 14:43]
 * House 							      :HOUSE:
   :PROPERTIES:
@@ -1031,6 +1046,9 @@ fluff sheets 1d/2d
   - State "WAITING"    from "TODO"       [2013-09-13 Fri 10:05] \\
     Sent email to Del Sol people requesting vacuum cleaner.
   :END:
+    :PROPERTIES:
+    :ID:       026c982f-1f45-4f21-a0f3-2b8279471938
+    :END:
 [2013-09-07 Sat 09:44]
 ** Del Sol 							     :DELSOL:
 *** Events

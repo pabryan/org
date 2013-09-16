@@ -189,6 +189,10 @@ http://modernizr.com/
     CLOCK: [2013-07-02 Tue 09:57]--[2013-07-02 Tue 10:31] =>  0:34
     CLOCK: [2013-07-02 Tue 09:53]--[2013-07-02 Tue 09:54] =>  0:01
     :END:
+*** Admin
+    :LOGBOOK:
+    CLOCK: [2013-09-16 Mon 13:00]--[2013-09-16 Mon 13:26] =>  0:26
+    :END:
 ** Grading scale
 |  Score | Grade |
 |--------+-------|
@@ -271,26 +275,83 @@ http://www.w3schools.com/css/tryit.asp?filename=trycss_table_fancy
 ***** Notes
 ***** Tasks
 ****** TODO Plan course
+       :PROPERTIES:
+       :ID:       301fa0e4-f41b-4d23-b974-90c98ef8c6c9
+       :END:
 ******* NEXT Org structure
+	:PROPERTIES:
+	:ID:       cf9ebd8a-b7cb-4db0-b991-60995d23019b
+	:END:
 Lectures in calendar and tasks like planning lectures.
 
 ******* NEXT Order Text Books
+	:PROPERTIES:
+	:ID:       cf2db503-e707-4990-88cb-c1a67d31b5dc
+	:END:
 ****** TODO Exams
+       :PROPERTIES:
+       :ID:       58588ea6-cdf2-46fa-b45f-8739f121144a
+       :END:
 ******* NEXT Create Exam Schedule
+	:PROPERTIES:
+	:ID:       b3626612-fac7-4c69-8ece-c6701857133a
+	:END:
 ******* TODO Midterm 1
+	:PROPERTIES:
+	:ID:       3664bf25-1d84-4692-b7c7-595b3c19c5cd
+	:END:
 ******** NEXT Write Midterm 1
+	 :PROPERTIES:
+	 :ID:       94c91742-e12d-4cc8-8c87-f9aba13a30fd
+	 :END:
 ******** TODO Get TA's comments
+	 :PROPERTIES:
+	 :ID:       1b7745a6-5ef9-4a74-a1c3-8fa9b84a47e8
+	 :END:
 ******** TODO Submit midterm to printing/frdesk
+	 :PROPERTIES:
+	 :ID:       db255dc7-1b9c-4849-bb3d-a7c72dbdc7ec
+	 :END:
 ******** TODO Write MT 1 solutions
+	 :PROPERTIES:
+	 :ID:       afb18e0b-9094-4a84-9fb5-4653de077804
+	 :END:
 ******* TODO Midterm 2
+	:PROPERTIES:
+	:ID:       ed4c8102-eed3-4be0-a210-afe42e3e30dc
+	:END:
 ******** NEXT Write Midterm 2
+	 :PROPERTIES:
+	 :ID:       c09250e4-6db5-4b55-b28b-c7bea06df1a7
+	 :END:
 ******** TODO Get TA's comments
+	 :PROPERTIES:
+	 :ID:       70e39068-e23b-4f5a-a682-2f0694c99cd2
+	 :END:
 ******** TODO Submit midterm to printing/frdesk
+	 :PROPERTIES:
+	 :ID:       29a5ec0b-7908-4575-ae9d-81d077a40efa
+	 :END:
 ******** TODO Write MT2 solutions
+	 :PROPERTIES:
+	 :ID:       93756cf2-eb38-4286-8fda-e91993321d58
+	 :END:
 ******* TODO Final
+	:PROPERTIES:
+	:ID:       94cd990f-a7d8-4481-aa99-2108a813f264
+	:END:
 ******** NEXT Write Final
+	 :PROPERTIES:
+	 :ID:       8d5d4499-6405-4ae4-a05e-808ffee7c0a1
+	 :END:
 ******** TODO Get TA's comments
+	 :PROPERTIES:
+	 :ID:       0f81f9a1-adfe-441e-8cd7-008639aa9d9e
+	 :END:
 ******** TODO Submit to printing/frdesk
+	 :PROPERTIES:
+	 :ID:       3e50e80e-a3cf-4671-99f3-cb26f438dc13
+	 :END:
 ******** CANCELLED Write final solutions
 	 :LOGBOOK:
 	 - State "CANCELLED"  from "TODO"       [2013-09-03 Tue 10:43] \\
@@ -301,36 +362,129 @@ Lectures in calendar and tasks like planning lectures.
 	:END:
 [2013-08-23 Fri 09:51]
 ****** TODO Homework
+       :PROPERTIES:
+       :ID:       9ac51126-3ae4-4cae-8a49-29c83b04f848
+       :END:
 ******* NEXT Write Homework 1
+	:PROPERTIES:
+	:ID:       e3e98392-fc35-4d71-a3c8-c2dbb6f5729a
+	:END:
 ******* TODO Write Homework 2
+	:PROPERTIES:
+	:ID:       371c67e6-0266-4ffe-a0af-42344873b505
+	:END:
 ******* TODO Write Homework 3
+	:PROPERTIES:
+	:ID:       1ccd4d07-7666-4692-9cbb-81cca144bccc
+	:END:
 ******* TODO Write Homework 4
+	:PROPERTIES:
+	:ID:       cca245a6-acb9-4c4b-8eb9-9ee01a937bed
+	:END:
 ******* TODO Write Homework 5
+	:PROPERTIES:
+	:ID:       99f41162-732f-4692-882f-50076e705363
+	:END:
 ****** TODO Lectures
+       :PROPERTIES:
+       :ID:       4c63ad92-f7e9-45fa-9921-e8d8c2048c39
+       :END:
 ******* NEXT Create Lecture Schedule
+	:PROPERTIES:
+	:ID:       cba17438-67c2-4595-b87a-bfae2a56522f
+	:END:
 ******* TODO Prepare Lectures
+	:PROPERTIES:
+	:ID:       46a7ffd1-958e-4065-bd33-fe841926133e
+	:END:
 ******** NEXT Prepare Lecture 1.1
+	 :PROPERTIES:
+	 :ID:       f85b8398-a921-404e-bc36-1afb8cc95161
+	 :END:
 ******** TODO Prepare Lecture 1.2
+	 :PROPERTIES:
+	 :ID:       ad9d4972-4fcd-4748-a0f1-7c8050d03d1e
+	 :END:
 ******** TODO Prepare Lecture 1.3
+	 :PROPERTIES:
+	 :ID:       0235163e-819b-4a48-997b-93fce842a9e8
+	 :END:
 ******** TODO Prepare Lecture 2.1
+	 :PROPERTIES:
+	 :ID:       92376627-ae5f-46a9-91db-67d66b0a3c13
+	 :END:
 ******** TODO Prepare Lecture 2.2
+	 :PROPERTIES:
+	 :ID:       5196e57b-7484-4ea6-8ca1-f806e888043b
+	 :END:
 ******** TODO Prepare Lecture 2.3
+	 :PROPERTIES:
+	 :ID:       41e6a286-e0c8-4f8e-9db5-6f22f3fd2be0
+	 :END:
 ******** TODO Prepare Lecture 3.1
+	 :PROPERTIES:
+	 :ID:       c880eb9e-070c-4778-ae69-050caed9e34e
+	 :END:
 ******** TODO Prepare Lecture 3.2
+	 :PROPERTIES:
+	 :ID:       e584cf30-40e7-4e24-990d-2cf928fba785
+	 :END:
 ******** TODO Prepare Lecture 3.3
+	 :PROPERTIES:
+	 :ID:       f305b285-61f4-4dd4-8893-fb08477c94fc
+	 :END:
 ******** TODO Prepare Lecture 4.1
+	 :PROPERTIES:
+	 :ID:       694ff834-24da-46f9-ba72-fb7fd6cf8e25
+	 :END:
 ******** TODO Prepare Lecture 4.2
+	 :PROPERTIES:
+	 :ID:       58789f77-3242-4479-bd22-f866813645d5
+	 :END:
 ******** TODO Prepare Lecture 4.3
+	 :PROPERTIES:
+	 :ID:       3a86f8fd-20ed-48d2-9334-6faee82f25f5
+	 :END:
 ******** TODO Prepare Lecture 5.1
+	 :PROPERTIES:
+	 :ID:       260af687-4dd5-43a9-b2c1-ca4b49fe9296
+	 :END:
 ******** TODO Prepare Lecture 5.2
+	 :PROPERTIES:
+	 :ID:       f08c2f4b-7b5b-416a-aa0b-a77175b705aa
+	 :END:
 ******** TODO Prepare Lecture 5.3
+	 :PROPERTIES:
+	 :ID:       fc227500-eee7-4737-884b-ad2d7793de42
+	 :END:
 ****** TODO Website
+       :PROPERTIES:
+       :ID:       33f64e66-1e4a-4de0-bf9c-9ca496b675ad
+       :END:
 ******* NEXT Make website
+	:PROPERTIES:
+	:ID:       e0ee5622-5fa3-4243-9cb1-6a722a5c230f
+	:END:
 ****** TODO Grades
-******* NEXT Enter grades       
+       :PROPERTIES:
+       :ID:       32f96d85-f494-49a6-a4fc-d988cd370ebf
+       :END:
+******* NEXT Enter grades
+	:PROPERTIES:
+	:ID:       8b7fda19-4a74-4469-9b63-46cc47143eb2
+	:END:       
 ****** TODO Misc
+       :PROPERTIES:
+       :ID:       1d5afc9b-1aa1-45dc-8b2f-876d822d74c2
+       :END:
 ******* NEXT set up Ted for courses
+	:PROPERTIES:
+	:ID:       0377c427-87df-4af8-991f-85a3eb3b3272
+	:END:
 ******* NEXT make course TA email groups
+	:PROPERTIES:
+	:ID:       e1f00efd-cbb4-4322-9ef8-69191faac0d6
+	:END:
 ***** Clocking
 ****** Admin
 ****** Office hours
@@ -3737,6 +3891,9 @@ Lectures in calendar and tasks like planning lectures.
 	  :ID:       a983c387-2406-48f4-ba40-3075856bddc3
 	  :END:
 ********* NEXT Return Kevin Gu final
+	  :PROPERTIES:
+	  :ID:       15ce4b29-48d7-411b-a919-f39ca28f9397
+	  :END:
 A09197205
 
 ********* Final Questions
@@ -5115,14 +5272,21 @@ WLH 2113
 *** 2013/2014
 **** Fall 2013						    :FALL_2013:FOCUS:
 ***** TODO Math150A						   :MATH150A:
+      :PROPERTIES:
+      :ID:       ba51acc3-2f96-4491-a248-f133019b7d81
+      :END:
 [[file:~/working/ucsd/teaching/math150a_fall_2013]]
 ****** Notes
 ******* Lecture Notes
-[[www.math.uci.edu/~cterng/162A_Lecture_Notes.pdf]]
-[[www.math.uci.edu/~cterng/SurfacesInR%5E3.pdf]]
-[[www.math.ku.dk/noter/filer/geom1.pdf]]
+[[http://www.math.uci.edu/~cterng/162A_Lecture_Notes.pdf]]
+[[http://www.math.uci.edu/~cterng/SurfacesInR^3.pdf]]
+[[http://www.math.ku.dk/noter/filer/geom1.pdf]]
+http://people.math.gatech.edu/~ghomi/LectureNotes/
 ****** Tasks
 ******* TODO Plan course
+	:PROPERTIES:
+	:ID:       c845cd61-73b3-44bb-a021-d37c5f4c865c
+	:END:
 ******** DONE Org structure
 	:LOGBOOK:
 	- State "DONE"       from "NEXT"       [2013-09-13 Fri 10:37]
@@ -5137,21 +5301,69 @@ Lectures in calendar and tasks like planning lectures.
        	  :END:
 
 ******* TODO Exams
+	:PROPERTIES:
+	:ID:       dc3f421f-552e-4893-a52d-05667e91b094
+	:END:
 ******** NEXT Create Exam Schedule
+	 :PROPERTIES:
+	 :ID:       9aa4cdcd-1e06-4c81-b453-ef683304c038
+	 :END:
 ******** TODO Midterm 1
+	 :PROPERTIES:
+	 :ID:       36384028-bda1-49cb-befc-2728178109cd
+	 :END:
 ********* NEXT Write Midterm 1
+	  :PROPERTIES:
+	  :ID:       ec1c52a0-a42e-4a69-a8f3-035ef7e000d1
+	  :END:
 ********* TODO Get TA's comments
+	  :PROPERTIES:
+	  :ID:       dc5a216b-9a25-465d-815b-aa55b4a6098b
+	  :END:
 ********* TODO Submit midterm to printing/frdesk
+	  :PROPERTIES:
+	  :ID:       c290c585-2b28-4ffe-99ab-5473db810675
+	  :END:
 ********* TODO Write MT 1 solutions
+	  :PROPERTIES:
+	  :ID:       4a9c52b1-453d-4b5d-a6da-e956c016980b
+	  :END:
 ******** TODO Midterm 2
+	 :PROPERTIES:
+	 :ID:       21366f1f-d0b3-46e9-89f4-9f33338d464f
+	 :END:
 ********* NEXT Write Midterm 2
+	  :PROPERTIES:
+	  :ID:       dbec2c66-fb39-495d-ba6c-556d17d76141
+	  :END:
 ********* TODO Get TA's comments
+	  :PROPERTIES:
+	  :ID:       690e7a7a-13ca-47c4-bf6d-5e570c0b4363
+	  :END:
 ********* TODO Submit midterm to printing/frdesk
+	  :PROPERTIES:
+	  :ID:       fa82d754-e847-4942-a97c-7e49ad3b00f2
+	  :END:
 ********* TODO Write MT2 solutions
+	  :PROPERTIES:
+	  :ID:       ac681c44-6ba2-459f-bd81-82106d2263e1
+	  :END:
 ******** TODO Final
+	 :PROPERTIES:
+	 :ID:       193ffe7c-c413-41f2-9b16-64928358c053
+	 :END:
 ********* NEXT Write Final
+	  :PROPERTIES:
+	  :ID:       9d9d60a7-9ba7-4df3-aa2b-1261ac960b66
+	  :END:
 ********* TODO Get TA's comments
+	  :PROPERTIES:
+	  :ID:       543ac8e6-b366-4ea3-8598-1751d529ab17
+	  :END:
 ********* TODO Submit to printing/frdesk
+	  :PROPERTIES:
+	  :ID:       3336f694-b673-4c6c-8a37-935a3920d638
+	  :END:
 ********* CANCELLED Write final solutions
 	 :LOGBOOK:
 	 - State "CANCELLED"  from "TODO"       [2013-09-03 Tue 10:43] \\
@@ -5162,39 +5374,133 @@ Lectures in calendar and tasks like planning lectures.
 	:END:
 [2013-08-23 Fri 09:51]
 ******* TODO Homework
+	:PROPERTIES:
+	:ID:       74f03390-084e-4dd5-ac5d-1b800439f200
+	:END:
 ******** NEXT Write Homework 1
+	 :PROPERTIES:
+	 :ID:       68885237-bf3e-4be6-9291-2ca718884441
+	 :END:
 ******** TODO Write Homework 2
+	 :PROPERTIES:
+	 :ID:       77ecaf89-6c7c-4256-b9ba-63ad8557e345
+	 :END:
 ******** TODO Write Homework 3
+	 :PROPERTIES:
+	 :ID:       fa667c39-0e7e-4f28-b69a-247044d6593e
+	 :END:
 ******** TODO Write Homework 4
+	 :PROPERTIES:
+	 :ID:       9e2b4c6c-affb-4f7c-ad52-f804b49c6237
+	 :END:
 ******** TODO Write Homework 5
+	 :PROPERTIES:
+	 :ID:       3bde4c8d-dafb-459c-94ce-8713ee97219b
+	 :END:
 ******* TODO Lectures
+	:PROPERTIES:
+	:ID:       e7508eb7-8f16-44ac-b5ec-5462188b6884
+	:END:
 ******** NEXT Create Lecture Schedule
 	 :LOGBOOK:
+	 CLOCK: [2013-09-16 Mon 13:36]--[2013-09-16 Mon 14:35] =>  0:59
 	 CLOCK: [2013-09-14 Sat 11:40]--[2013-09-14 Sat 12:47] =>  1:07
 	 :END:
+	 :PROPERTIES:
+	 :ID:       a7df5e60-2bab-40bb-90e0-f6b7e2708380
+	 :END:
 ******** TODO Prepare Lectures
+	 :PROPERTIES:
+	 :ID:       f0b65695-b765-4fec-a9cd-5dd82cc9ae24
+	 :END:
 ********* NEXT Prepare Lecture 1.1
+	  :PROPERTIES:
+	  :ID:       82b1f425-be4f-4eb8-9c4e-52799cc79434
+	  :END:
 ********* TODO Prepare Lecture 1.2
+	  :PROPERTIES:
+	  :ID:       2066c656-c6db-420c-97f3-b2d526f3155d
+	  :END:
 ********* TODO Prepare Lecture 1.3
+	  :PROPERTIES:
+	  :ID:       999ad057-d4ae-48c2-8643-9a2bdbdb7ab2
+	  :END:
 ********* TODO Prepare Lecture 2.1
+	  :PROPERTIES:
+	  :ID:       4bc8869c-07f9-4c76-b2ca-4b08303fd962
+	  :END:
 ********* TODO Prepare Lecture 2.2
+	  :PROPERTIES:
+	  :ID:       acd41bd7-deb6-49c5-865d-a1494edf13c8
+	  :END:
 ********* TODO Prepare Lecture 2.3
+	  :PROPERTIES:
+	  :ID:       6cd04c65-d159-4301-8c17-47a61daa040a
+	  :END:
 ********* TODO Prepare Lecture 3.1
+	  :PROPERTIES:
+	  :ID:       7462f063-2e4c-44c5-bfe4-790f0054c2c7
+	  :END:
 ********* TODO Prepare Lecture 3.2
+	  :PROPERTIES:
+	  :ID:       c2c8d83c-ec59-4c25-b23e-73b886be5b2d
+	  :END:
 ********* TODO Prepare Lecture 3.3
+	  :PROPERTIES:
+	  :ID:       0363404b-bddf-4cbf-9273-786623df2d75
+	  :END:
 ********* TODO Prepare Lecture 4.1
+	  :PROPERTIES:
+	  :ID:       7a24cd7c-5a42-42fa-a897-3f6077608599
+	  :END:
 ********* TODO Prepare Lecture 4.2
+	  :PROPERTIES:
+	  :ID:       b1a8259e-3937-4f04-9305-0f0d7fdcae09
+	  :END:
 ********* TODO Prepare Lecture 4.3
+	  :PROPERTIES:
+	  :ID:       919362e0-b49f-4cac-8897-2dee1b77ad44
+	  :END:
 ********* TODO Prepare Lecture 5.1
+	  :PROPERTIES:
+	  :ID:       33ef1c52-d27a-4564-a4cd-34ff27485c7d
+	  :END:
 ********* TODO Prepare Lecture 5.2
+	  :PROPERTIES:
+	  :ID:       2257d085-0846-4b34-b5a1-f09010ce1afd
+	  :END:
 ********* TODO Prepare Lecture 5.3
+	  :PROPERTIES:
+	  :ID:       e10faacd-26dd-4e1c-b45c-297bb45d80d2
+	  :END:
 ******* TODO Website
+	:PROPERTIES:
+	:ID:       3bfb8906-aa27-47ca-8744-b3132e2db581
+	:END:
 ******** NEXT Make website
+	 :PROPERTIES:
+	 :ID:       60b9abe9-d6a4-4535-985f-05de07f837dc
+	 :END:
 ******* TODO Grades
-******** NEXT Enter grades       
+	:PROPERTIES:
+	:ID:       83c17f91-6861-4c43-b1e8-c764b28b94c0
+	:END:
+******** NEXT Enter grades
+	 :PROPERTIES:
+	 :ID:       53e3402a-a7af-41ec-b04b-7df26ade8aa4
+	 :END:       
 ******* TODO Misc
+	:PROPERTIES:
+	:ID:       d5b4ebe6-2cfc-4cb8-9551-fad4a586ab32
+	:END:
 ******** NEXT set up Ted for courses
+	 :PROPERTIES:
+	 :ID:       3768f7e4-534f-4428-9a38-fb0d387d65f5
+	 :END:
 ******** NEXT make course TA email groups
+	 :PROPERTIES:
+	 :ID:       a1b6fe21-1c01-4cff-9d29-572f581bcefb
+	 :END:
 ****** Clocking
 ******* Admin
 ******* Office hours
@@ -5221,14 +5527,23 @@ TBA
 ******** Homework 5 Due
 
 ***** TODO Math20B						    :MATH20B:
+      :PROPERTIES:
+      :ID:       d723ae88-2203-4094-af9c-9312bd092184
+      :END:
 [[file:~/working/ucsd/teaching/math20b_fall_2013]]
 ****** Notes
 ****** Tasks
 ******* TODO Plan course
+	:PROPERTIES:
+	:ID:       80b07ec8-935a-4dad-8272-429a1d845312
+	:END:
 ******** NEXT Org structure
 	:LOGBOOK:
 	CLOCK: [2013-09-13 Fri 10:35]--[2013-09-13 Fri 10:44] =>  0:09
 	:END:
+	 :PROPERTIES:
+	 :ID:       378fb908-3cc3-431d-989f-0255f6fb4da1
+	 :END:
 Lectures in calendar and tasks like planning lectures.
 
 ******** DONE Order Text Books
@@ -5236,21 +5551,69 @@ Lectures in calendar and tasks like planning lectures.
 	 - State "DONE"       from "NEXT"       [2013-09-13 Fri 10:37]
 	 :END:
 ******* TODO Exams
+	:PROPERTIES:
+	:ID:       d1e37783-70fb-49c3-b3d4-3633d429fd4b
+	:END:
 ******** NEXT Create Exam Schedule
+	 :PROPERTIES:
+	 :ID:       cd0474fa-cefa-4310-b6c0-a200ede5113f
+	 :END:
 ******** TODO Midterm 1
+	 :PROPERTIES:
+	 :ID:       e5ec6159-ad2f-44d9-9942-33b3aa1c1737
+	 :END:
 ********* NEXT Write Midterm 1
+	  :PROPERTIES:
+	  :ID:       2fd83b03-88e2-4a45-80fb-f737e39b0e02
+	  :END:
 ********* TODO Get TA's comments
+	  :PROPERTIES:
+	  :ID:       1629e97e-d437-41a6-b29b-e9f0563946dd
+	  :END:
 ********* TODO Submit midterm to printing/frdesk
+	  :PROPERTIES:
+	  :ID:       475f5af7-5988-475b-9eaf-41bfea0ccc35
+	  :END:
 ********* TODO Write MT 1 solutions
+	  :PROPERTIES:
+	  :ID:       69bcf73d-ef6e-4414-a094-4ffe6ac23768
+	  :END:
 ******** TODO Midterm 2
+	 :PROPERTIES:
+	 :ID:       c8d63808-39f5-4dc8-ade9-e2c8ed92df6d
+	 :END:
 ********* NEXT Write Midterm 2
+	  :PROPERTIES:
+	  :ID:       4408d76e-1793-4532-b380-df3653c46537
+	  :END:
 ********* TODO Get TA's comments
+	  :PROPERTIES:
+	  :ID:       149a5fdb-70c4-4fc4-85c5-a18e81fefd62
+	  :END:
 ********* TODO Submit midterm to printing/frdesk
+	  :PROPERTIES:
+	  :ID:       a76e3840-e42d-41a6-afd1-bd72f742998e
+	  :END:
 ********* TODO Write MT2 solutions
+	  :PROPERTIES:
+	  :ID:       a11fb536-5a7d-4de1-86e7-f85dc61ef9e1
+	  :END:
 ******** TODO Final
+	 :PROPERTIES:
+	 :ID:       caf6b905-f68d-4bfd-bfef-f196abee52ba
+	 :END:
 ********* NEXT Write Final
+	  :PROPERTIES:
+	  :ID:       7f9d13da-1e61-48f1-98c9-890d035716f7
+	  :END:
 ********* TODO Get TA's comments
+	  :PROPERTIES:
+	  :ID:       4e9247f6-a5de-4483-8def-e9a9135050a1
+	  :END:
 ********* TODO Submit to printing/frdesk
+	  :PROPERTIES:
+	  :ID:       a0c1dafa-7ccd-47cc-a3f0-0a10cce20a91
+	  :END:
 ********* CANCELLED Write final solutions
 	 :LOGBOOK:
 	 - State "CANCELLED"  from "TODO"       [2013-09-03 Tue 10:43] \\
@@ -5261,36 +5624,129 @@ Lectures in calendar and tasks like planning lectures.
 	:END:
 [2013-08-23 Fri 09:51]
 ******* TODO Homework
+	:PROPERTIES:
+	:ID:       de8653c0-a08d-4864-ac77-e3542cbd12d7
+	:END:
 ******** NEXT Write Homework 1
+	 :PROPERTIES:
+	 :ID:       47bc01c6-9506-4476-a49e-a71f07780aa2
+	 :END:
 ******** TODO Write Homework 2
+	 :PROPERTIES:
+	 :ID:       417694ba-372a-4f73-8667-eed2e3d83458
+	 :END:
 ******** TODO Write Homework 3
+	 :PROPERTIES:
+	 :ID:       456dc249-c3a3-4ea2-805d-a7d643605b8f
+	 :END:
 ******** TODO Write Homework 4
+	 :PROPERTIES:
+	 :ID:       5f4b2d4e-a99f-4368-9a15-bab2da5c4e83
+	 :END:
 ******** TODO Write Homework 5
+	 :PROPERTIES:
+	 :ID:       d81a8d91-2d07-4a38-8995-4177407f86dc
+	 :END:
 ******* TODO Lectures
+	:PROPERTIES:
+	:ID:       75bb8dc1-bcdf-4974-ade7-9c9752089d7a
+	:END:
 ******** NEXT Create Lecture Schedule
+	 :PROPERTIES:
+	 :ID:       9124a0b6-aee6-48f4-9dba-d3cd12365414
+	 :END:
 ******** TODO Prepare Lectures
+	 :PROPERTIES:
+	 :ID:       2a2ba26b-495a-48a8-8fcc-d023c59733fd
+	 :END:
 ********* NEXT Prepare Lecture 1.1
+	  :PROPERTIES:
+	  :ID:       57f1fd64-2427-49b7-8b2d-4ef83bf4d31a
+	  :END:
 ********* TODO Prepare Lecture 1.2
+	  :PROPERTIES:
+	  :ID:       50879575-8e7b-436c-821d-6ef4baa3a7b6
+	  :END:
 ********* TODO Prepare Lecture 1.3
+	  :PROPERTIES:
+	  :ID:       939758d8-1c82-4875-a871-349649468f9d
+	  :END:
 ********* TODO Prepare Lecture 2.1
+	  :PROPERTIES:
+	  :ID:       32268fe2-2fd4-46f0-b809-43a9fb585334
+	  :END:
 ********* TODO Prepare Lecture 2.2
+	  :PROPERTIES:
+	  :ID:       e8ec2fed-0cc4-42fc-a5d4-34ffcd6256c3
+	  :END:
 ********* TODO Prepare Lecture 2.3
+	  :PROPERTIES:
+	  :ID:       a3cf2b6e-41c1-4d88-8a8f-898e46baa88c
+	  :END:
 ********* TODO Prepare Lecture 3.1
+	  :PROPERTIES:
+	  :ID:       5dfccadc-e6a9-473a-8568-fd1e61a7227f
+	  :END:
 ********* TODO Prepare Lecture 3.2
+	  :PROPERTIES:
+	  :ID:       a65f1923-7095-4a99-bc26-859dd5674e96
+	  :END:
 ********* TODO Prepare Lecture 3.3
+	  :PROPERTIES:
+	  :ID:       11f775d6-84e5-492d-bbe6-eecf4f9862ab
+	  :END:
 ********* TODO Prepare Lecture 4.1
+	  :PROPERTIES:
+	  :ID:       14411bdb-44ac-4672-875c-07e626052572
+	  :END:
 ********* TODO Prepare Lecture 4.2
+	  :PROPERTIES:
+	  :ID:       8deda238-b179-4ccc-a4e8-e7e42071fe4e
+	  :END:
 ********* TODO Prepare Lecture 4.3
+	  :PROPERTIES:
+	  :ID:       92abedfb-da3c-4aac-acb4-c0d77babd563
+	  :END:
 ********* TODO Prepare Lecture 5.1
+	  :PROPERTIES:
+	  :ID:       f8317796-47bd-47b3-8f6d-8beab0c879d8
+	  :END:
 ********* TODO Prepare Lecture 5.2
+	  :PROPERTIES:
+	  :ID:       285c1d43-6e2a-49e1-b114-585abecbb149
+	  :END:
 ********* TODO Prepare Lecture 5.3
+	  :PROPERTIES:
+	  :ID:       0dbdb61e-201c-479a-9d96-cd5f7e2efaff
+	  :END:
 ******* TODO Website
+	:PROPERTIES:
+	:ID:       5825eb31-c385-43e2-8133-bd0d83db7e70
+	:END:
 ******** NEXT Make website
+	 :PROPERTIES:
+	 :ID:       08521821-879d-4049-88a1-d1851f15b99f
+	 :END:
 ******* TODO Grades
-******** NEXT Enter grades       
+	:PROPERTIES:
+	:ID:       fcdba6bb-7ed2-460a-8d9b-01afc956c202
+	:END:
+******** NEXT Enter grades
+	 :PROPERTIES:
+	 :ID:       986f7eda-0967-452f-9b83-9a43234fc70d
+	 :END:       
 ******* TODO Misc
+	:PROPERTIES:
+	:ID:       1b9e5ce1-eb13-4f78-9d6d-e24f1d1985ac
+	:END:
 ******** NEXT set up Ted for courses
+	 :PROPERTIES:
+	 :ID:       14a30220-c29a-431f-a5ee-b5cc98add1d1
+	 :END:
 ******** NEXT make course TA email groups
+	 :PROPERTIES:
+	 :ID:       f951a60f-5d8d-4436-b06c-5da61f77a55c
+	 :END:
 ****** Clocking
 ******* Admin
 ******* Office hours
@@ -5942,6 +6398,9 @@ Search for UCGCB-2012
 
 ** TODO Organise meeting with Peter
   SCHEDULED: <2013-09-12 Thu>
+   :PROPERTIES:
+   :ID:       2e4d7a56-42a9-4ba7-a0fa-d898b63d2a2f
+   :END:
 [2013-09-11 Wed 17:01]
 * Notes
   :PROPERTIES:

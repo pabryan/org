@@ -1992,6 +1992,9 @@ CLOCK: [2013-01-14 Mon 06:35]--[2013-01-14 Mon 06:35] =>  0:00
 
 ** TODO Create health stats capture task
   SCHEDULED: <2013-09-29 Sun>
+   :PROPERTIES:
+   :ID:       94db9f98-9d4f-4d66-b68c-b41766d26964
+   :END:
 [2013-09-07 Sat 09:38]
 
 ** CANCELLED Check out Sol yoga
