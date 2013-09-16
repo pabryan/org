@@ -972,6 +972,7 @@ Try again to make this exponential barrier work.
      :PROPERTIES:
      :ID:       5b2bd1d4-ccbc-4951-b859-778926ad749d
      :END:
+[[file:~/working/academic/research/space_form_curvature_flow]]
 ***** Notes
 ****** Flow
 In hyperbolic space flow by $(K-1)\nor$. How about in $M(\kappa)$, flow by $(K-\kappa)\nor$ where $M(\kappa)$ is the simply connected space form with constant curvature $\kappa$?

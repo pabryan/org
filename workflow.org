@@ -2649,7 +2649,7 @@ When I set up scoring the day:
 - [ ] Write date into notebook
 - [ ] Record morning health stats
 
-** NEXT Weekly Review [0/15]
+** NEXT Weekly Review [3/15]
    SCHEDULED: <2013-09-15 Sun +1w>
    :LOGBOOK:
    CLOCK: [2013-09-16 Mon 10:02]
@@ -2735,10 +2735,10 @@ When I set up scoring the day:
 
 What to review:
 
-- [ ] Check follow-up paper folder
-- [ ] Check holding directory
+- [X] Check follow-up paper folder
+- [X] Check holding directory
   [[file:~/holding]]
-- [ ] Check holding email folder
+- [X] Check holding email folder
 - [ ] Review weekly agenda =F12 a w//=
 - [ ] Check clocking data for past week =v c=
   - fix up any errors
