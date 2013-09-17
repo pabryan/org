@@ -5682,7 +5682,7 @@ Lectures in calendar and tasks like planning lectures.
 	  :END:
 ********* NEXT Prepare Lecture 1.2
 	  :LOGBOOK:
-	  CLOCK: [2013-09-17 Tue 11:45]
+	  CLOCK: [2013-09-17 Tue 11:45]--[2013-09-17 Tue 12:20] =>  0:35
 	  :END:
 	  :PROPERTIES:
 	  :ID:       50879575-8e7b-436c-821d-6ef4baa3a7b6
