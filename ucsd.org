@@ -5283,7 +5283,10 @@ WLH 2113
 [[http://www.math.ku.dk/noter/filer/geom1.pdf]]
 http://people.math.gatech.edu/~ghomi/LectureNotes/
 ****** Tasks
-******* TODO Plan course
+******* DONE Plan course
+	:LOGBOOK:
+	- State "DONE"       from "TODO"       [2013-09-17 Tue 11:03]
+	:END:
 	:PROPERTIES:
 	:ID:       c845cd61-73b3-44bb-a021-d37c5f4c865c
 	:END:
@@ -5533,12 +5536,16 @@ TBA
 [[file:~/working/ucsd/teaching/math20b_fall_2013]]
 ****** Notes
 ****** Tasks
-******* TODO Plan course
+******* DONE Plan course
+	:LOGBOOK:
+	- State "DONE"       from "TODO"       [2013-09-17 Tue 11:03]
+	:END:
 	:PROPERTIES:
 	:ID:       80b07ec8-935a-4dad-8272-429a1d845312
 	:END:
-******** NEXT Org structure
+******** DONE Org structure
 	:LOGBOOK:
+	- State "DONE"       from "NEXT"       [2013-09-17 Tue 11:03]
 	CLOCK: [2013-09-13 Fri 10:35]--[2013-09-13 Fri 10:44] =>  0:09
 	:END:
 	 :PROPERTIES:
