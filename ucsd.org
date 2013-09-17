@@ -5648,12 +5648,15 @@ Lectures in calendar and tasks like planning lectures.
 	 :ID:       d81a8d91-2d07-4a38-8995-4177407f86dc
 	 :END:
 ******* TODO Lectures
+	:LOGBOOK:
+	CLOCK: [2013-09-16 Mon 20:58]--[2013-09-16 Mon 20:59] =>  0:01
+	:END:
 	:PROPERTIES:
 	:ID:       75bb8dc1-bcdf-4974-ade7-9c9752089d7a
 	:END:
 ******** NEXT Create Lecture Schedule
 	 :LOGBOOK:
-	 CLOCK: [2013-09-16 Mon 19:48]
+	 CLOCK: [2013-09-16 Mon 19:48]--[2013-09-16 Mon 20:30] =>  0:42
 	 :END:
 	 :PROPERTIES:
 	 :ID:       9124a0b6-aee6-48f4-9dba-d3cd12365414
