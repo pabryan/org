@@ -5652,6 +5652,9 @@ Lectures in calendar and tasks like planning lectures.
 	:ID:       75bb8dc1-bcdf-4974-ade7-9c9752089d7a
 	:END:
 ******** NEXT Create Lecture Schedule
+	 :LOGBOOK:
+	 CLOCK: [2013-09-16 Mon 19:48]
+	 :END:
 	 :PROPERTIES:
 	 :ID:       9124a0b6-aee6-48f4-9dba-d3cd12365414
 	 :END:
