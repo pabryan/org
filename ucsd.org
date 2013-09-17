@@ -5672,11 +5672,18 @@ Lectures in calendar and tasks like planning lectures.
 	 :PROPERTIES:
 	 :ID:       2a2ba26b-495a-48a8-8fcc-d023c59733fd
 	 :END:
-********* NEXT Prepare Lecture 1.1
+********* DONE Prepare Lecture 1.1
+	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2013-09-17 Tue 12:14]
+	  CLOCK: [2013-09-17 Tue 11:03]--[2013-09-17 Tue 11:45] =>  0:42
+	  :END:
 	  :PROPERTIES:
 	  :ID:       57f1fd64-2427-49b7-8b2d-4ef83bf4d31a
 	  :END:
-********* TODO Prepare Lecture 1.2
+********* NEXT Prepare Lecture 1.2
+	  :LOGBOOK:
+	  CLOCK: [2013-09-17 Tue 11:45]
+	  :END:
 	  :PROPERTIES:
 	  :ID:       50879575-8e7b-436c-821d-6ef4baa3a7b6
 	  :END:
