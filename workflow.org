@@ -2666,10 +2666,10 @@ When I set up scoring the day:
 - [ ] Write date into notebook
 - [ ] Record morning health stats
 
-** NEXT Weekly Review [8/15]
+** NEXT Weekly Review [11/15]
    SCHEDULED: <2013-09-15 Sun +1w>
    :LOGBOOK:
-   CLOCK: [2013-09-18 Wed 14:04]
+   CLOCK: [2013-09-18 Wed 14:04]--[2013-09-18 Wed 14:12] =>  0:08
    CLOCK: [2013-09-18 Wed 13:40]--[2013-09-18 Wed 13:57] =>  0:17
    CLOCK: [2013-09-16 Mon 10:02]--[2013-09-16 Mon 10:47] =>  0:45
    - State "DONE"       from "NEXT"       [2013-09-12 Thu 19:41]
@@ -2765,13 +2765,13 @@ What to review:
   - Check where we spent time (too much or too little) and rectify this week
 - [X] Look at entire agenda for today  =F12 SPC=
 - [X] Check uncommited work
-- [ ] Refile tasks
-- [ ] Weekly clean up
-  - [ ] Clean up Downloads
-  - [ ] Clean up tmp
-  - [ ] Clean up tablet
-  - [ ] Clean up phone
-- [ ] Process incoming information
+- [X] Refile tasks
+- [X] Weekly clean up
+  - [X] Clean up Downloads
+  - [X] Clean up tmp
+  - [X] Clean up tablet
+  - [X] Clean up phone
+- [X] Process incoming information
   - feedly
   - pocket
   - Google+ Readlater
