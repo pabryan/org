@@ -16,6 +16,8 @@
     :LAST_REPEAT: [2013-09-14 Sat 19:38]
     :END:
     :LOGBOOK:
+    - State "DONE"       from "NEXT"       [2013-09-17 Tue 15:20]
+    - State "DONE"       from "NEXT"       [2013-09-16 Mon 17:10]
     - State "DONE"       from "NEXT"       [2013-09-14 Sat 17:30]
     CLOCK: [2013-09-14 Sat 16:15]--[2013-09-14 Sat 17:30] =>  1:15
     - State "DONE"       from "NEXT"       [2013-09-12 Thu 19:41]
