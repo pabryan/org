@@ -9,7 +9,7 @@
 ** Tasks
 *** Web Publishing
 **** TODO org-mode sync/web access
-    SCHEDULED: <2013-09-09 Mon>
+    SCHEDULED: <2013-09-29 Sun>
     :LOGBOOK:
     CLOCK: [2013-07-03 Wed 10:06]--[2013-07-03 Wed 10:09] =>  0:03
     :END:
@@ -452,7 +452,7 @@ If I'm working on a project, I want an agenda view showing me just that project.
 [2013-03-14 Thu 14:05]
 
 *** NEXT Use org-checklists
-    SCHEDULED: <2013-09-09 Mon>
+    SCHEDULED: <2013-09-29 Sun>
     :PROPERTIES:
     :ID:       c544c72f-f00e-4984-aec8-843eb43ebaa1
     :END:
@@ -475,7 +475,7 @@ If I'm working on a project, I want an agenda view showing me just that project.
 http://plantuml.sourceforge.net/
 
 *** TODO Refile should also get entries from from-mobile.org
-  SCHEDULED: <2013-09-09 Mon>
+  SCHEDULED: <2013-09-29 Sun>
     :PROPERTIES:
     :ID:       5362b152-822b-455d-a894-47dafbe9489f
     :END:
@@ -942,7 +942,7 @@ Levenger?
 - Projects should have a larger folder with papers, notes etc.
 
 *** TODO Make weekly paper review/check task
-  SCHEDULED: <2013-09-15 Sun>
+  SCHEDULED: <2013-10-27 Sun>
   :LOGBOOK:
   CLOCK: [2013-08-27 Tue 10:33]--[2013-08-27 Tue 10:34] =>  0:01
   :END:
@@ -1391,7 +1391,7 @@ https://wiki.archlinux.org/index.php/NetworkManager#Use_dispatcher_to_connect_to
 http://askubuntu.com/questions/198136/error-when-trying-to-connect-to-vpn-on-startup
 
 ** TODO Clean up files
-   SCHEDULED: <2013-09-09 Mon>
+   SCHEDULED: <2013-09-29 Sun>
   :LOGBOOK:
   CLOCK: [2013-07-30 Tue 19:49]--[2013-07-30 Tue 19:53] =>  0:04
   :END:
@@ -1499,8 +1499,9 @@ I have mythtv and mediatomb and who knows what else using up valuable resources.
   :END:
 ** Organisation
   :LOGBOOK:
+  CLOCK: [2013-09-18 Wed 13:30]--[2013-09-18 Wed 13:40] =>  0:10
   CLOCK: [2013-09-17 Tue 11:02]--[2013-09-17 Tue 11:03] =>  0:01
-  CLOCK: [2013-09-16 Mon 13:26]--[2013-09-16 Mon 19:48] =>  6:22
+  CLOCK: [2013-09-16 Mon 13:26]--[2013-09-16 Mon 13:36] =>  0:10
   CLOCK: [2013-09-16 Mon 11:40]--[2013-09-16 Mon 12:05] =>  0:25
   CLOCK: [2013-09-16 Mon 09:39]--[2013-09-16 Mon 10:02] =>  0:23
   CLOCK: [2013-09-16 Mon 09:34]--[2013-09-16 Mon 09:36] =>  0:02
@@ -2653,9 +2654,10 @@ When I set up scoring the day:
 - [ ] Write date into notebook
 - [ ] Record morning health stats
 
-** NEXT Weekly Review [3/15]
+** NEXT Weekly Review [4/15]
    SCHEDULED: <2013-09-15 Sun +1w>
    :LOGBOOK:
+   CLOCK: [2013-09-18 Wed 13:40]
    CLOCK: [2013-09-16 Mon 10:02]--[2013-09-16 Mon 10:47] =>  0:45
    - State "DONE"       from "NEXT"       [2013-09-12 Thu 19:41]
    CLOCK: [2013-09-12 Thu 19:40]--[2013-09-12 Thu 19:41] =>  0:01
@@ -2743,7 +2745,7 @@ What to review:
 - [X] Check holding directory
   [[file:~/holding]]
 - [X] Check holding email folder
-- [ ] Review weekly agenda =F12 a w//=
+- [X] Review weekly agenda =F12 a w//=
 - [ ] Check clocking data for past week =v c=
   - fix up any errors
 - [ ] Review clock report for past week =R=
