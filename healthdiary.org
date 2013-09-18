@@ -2364,17 +2364,34 @@ Set 4 HR: 104
 *** 2013-09-16 Monday
 **** Stats
 :PROPERTIES:
-:weight: 73.2
-:rest_hr: 47
-:END:
-**** Stats
-:PROPERTIES:
 :weight: 73.9
 :rest_hr: 47
 :END:
+**** Thrive Flow 
+     :LOGBOOK:
+     CLOCK: [2013-09-16 Mon 15:55]--[2013-09-16 Mon 17:10] =>  1:15
+     :END:
+:PROPERTIES:
+:Type: Compensation
+:Intensity: Low
+:RestHR:  64
+:FinalHR:
+:Score:
+:Technique:
+:Effort:
+:Discomfort:
+:END:
+
+[2013-09-16 Mon 13:57]
 *** 2013-09-17 Tuesday
 **** Stats
 :PROPERTIES:
 :weight: 73.6
 :rest_hr: 51
+:END:
+*** 2013-09-18 Wednesday
+**** Stats
+:PROPERTIES:
+:weight: 73.5
+:rest_hr: 45
 :END:
