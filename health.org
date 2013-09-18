@@ -392,8 +392,9 @@
     :END:
 
 *** NEXT Afternoon Relax
-    SCHEDULED: <2013-09-15 Sun .+1d/2d>
+    SCHEDULED: <2013-09-18 Wed .+1d/2d>
     :LOGBOOK:
+    - State "DONE"       from "NEXT"       [2013-09-17 Tue 22:01]
     - State "DONE"       from "NEXT"       [2013-09-14 Sat 16:15]
     - State "DONE"       from "NEXT"       [2013-09-12 Thu 19:41]
     - State "DONE"       from "NEXT"       [2013-09-03 Tue 19:00]
@@ -511,12 +512,13 @@
     :STYLE:    habit
     :REPEAT_TO_STATE: NEXT
     :ID:       c0aaf33a-af77-446b-b9fd-cf2d2f78c12a
-    :LAST_REPEAT: [2013-09-14 Sat 16:15]
+    :LAST_REPEAT: [2013-09-17 Tue 22:01]
     :END:
   
 *** NEXT Evening Stretch
-    SCHEDULED: <2013-09-15 Sun .+1d/2d>
+    SCHEDULED: <2013-09-18 Wed .+1d/2d>
     :LOGBOOK:
+    - State "DONE"       from "NEXT"       [2013-09-17 Tue 22:01]
     - State "DONE"       from "NEXT"       [2013-09-14 Sat 21:17]
     - State "DONE"       from "NEXT"       [2013-09-12 Thu 22:05]
     CLOCK: [2013-09-11 Wed 21:35]--[2013-09-11 Wed 22:05] =>  0:30
@@ -619,7 +621,7 @@
     :STYLE:    habit
     :REPEAT_TO_STATE: NEXT
     :ID:       d439600f-c40d-4dd3-82ca-3e7d9e35f2b3
-    :LAST_REPEAT: [2013-09-14 Sat 21:17]
+    :LAST_REPEAT: [2013-09-17 Tue 22:01]
     :END:
   
 *** NEXT Handstand practice
