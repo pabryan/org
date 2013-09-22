@@ -5654,96 +5654,108 @@ Lectures in calendar and tasks like planning lectures.
 	 :PROPERTIES:
 	 :ID:       d81a8d91-2d07-4a38-8995-4177407f86dc
 	 :END:
+******** TODO Write Homework 6
+	 :PROPERTIES:
+	 :END:
+******** TODO Write Homework 7
+	 :PROPERTIES:
+	 :END:
+******** TODO Write Homework 8
+	 :PROPERTIES:
+	 :END:
 ******* TODO Lectures
-	:LOGBOOK:
-	CLOCK: [2013-09-16 Mon 20:58]--[2013-09-16 Mon 20:59] =>  0:01
-	:END:
-	:PROPERTIES:
-	:ID:       75bb8dc1-bcdf-4974-ade7-9c9752089d7a
-	:END:
-******** NEXT Create Lecture Schedule
 	 :LOGBOOK:
-	 CLOCK: [2013-09-16 Mon 19:48]--[2013-09-16 Mon 20:30] =>  0:42
+	 CLOCK: [2013-09-16 Mon 20:58]--[2013-09-16 Mon 20:59] =>  0:01
 	 :END:
 	 :PROPERTIES:
-	 :ID:       9124a0b6-aee6-48f4-9dba-d3cd12365414
+	 :ID:       75bb8dc1-bcdf-4974-ade7-9c9752089d7a
 	 :END:
-******** TODO Prepare Lectures
-	 :PROPERTIES:
-	 :ID:       2a2ba26b-495a-48a8-8fcc-d023c59733fd
-	 :END:
-********* DONE Prepare Lecture 1.1
+********* NEXT Create Lecture Schedule
 	  :LOGBOOK:
-	  - State "DONE"       from "NEXT"       [2013-09-17 Tue 12:14]
-	  CLOCK: [2013-09-17 Tue 11:03]--[2013-09-17 Tue 11:45] =>  0:42
+	  CLOCK: [2013-09-16 Mon 19:48]--[2013-09-16 Mon 20:30] =>  0:42
 	  :END:
 	  :PROPERTIES:
-	  :ID:       57f1fd64-2427-49b7-8b2d-4ef83bf4d31a
+	  :ID:       9124a0b6-aee6-48f4-9dba-d3cd12365414
 	  :END:
-********* NEXT Prepare Lecture 1.2
-	  :LOGBOOK:
-	  CLOCK: [2013-09-17 Tue 11:45]--[2013-09-17 Tue 12:30] =>  0:45
-	  :END:
+********* TODO Prepare Lectures
 	  :PROPERTIES:
-	  :ID:       50879575-8e7b-436c-821d-6ef4baa3a7b6
+	  :ID:       2a2ba26b-495a-48a8-8fcc-d023c59733fd
 	  :END:
-********* TODO Prepare Lecture 1.3
-	  :PROPERTIES:
-	  :ID:       939758d8-1c82-4875-a871-349649468f9d
-	  :END:
-********* TODO Prepare Lecture 2.1
-	  :PROPERTIES:
-	  :ID:       32268fe2-2fd4-46f0-b809-43a9fb585334
-	  :END:
-********* TODO Prepare Lecture 2.2
-	  :PROPERTIES:
-	  :ID:       e8ec2fed-0cc4-42fc-a5d4-34ffcd6256c3
-	  :END:
-********* TODO Prepare Lecture 2.3
-	  :PROPERTIES:
-	  :ID:       a3cf2b6e-41c1-4d88-8a8f-898e46baa88c
-	  :END:
-********* TODO Prepare Lecture 3.1
-	  :PROPERTIES:
-	  :ID:       5dfccadc-e6a9-473a-8568-fd1e61a7227f
-	  :END:
-********* TODO Prepare Lecture 3.2
-	  :PROPERTIES:
-	  :ID:       a65f1923-7095-4a99-bc26-859dd5674e96
-	  :END:
-********* TODO Prepare Lecture 3.3
-	  :PROPERTIES:
-	  :ID:       11f775d6-84e5-492d-bbe6-eecf4f9862ab
-	  :END:
-********* TODO Prepare Lecture 4.1
-	  :PROPERTIES:
-	  :ID:       14411bdb-44ac-4672-875c-07e626052572
-	  :END:
-********* TODO Prepare Lecture 4.2
-	  :PROPERTIES:
-	  :ID:       8deda238-b179-4ccc-a4e8-e7e42071fe4e
-	  :END:
-********* TODO Prepare Lecture 4.3
-	  :PROPERTIES:
-	  :ID:       92abedfb-da3c-4aac-acb4-c0d77babd563
-	  :END:
-********* TODO Prepare Lecture 5.1
-	  :PROPERTIES:
-	  :ID:       f8317796-47bd-47b3-8f6d-8beab0c879d8
-	  :END:
-********* TODO Prepare Lecture 5.2
-	  :PROPERTIES:
-	  :ID:       285c1d43-6e2a-49e1-b114-585abecbb149
-	  :END:
-********* TODO Prepare Lecture 5.3
-	  :PROPERTIES:
-	  :ID:       0dbdb61e-201c-479a-9d96-cd5f7e2efaff
-	  :END:
+********** DONE Prepare Lecture 1.1
+	   :LOGBOOK:
+	   - State "DONE"       from "NEXT"       [2013-09-17 Tue 12:14]
+	   CLOCK: [2013-09-17 Tue 11:03]--[2013-09-17 Tue 11:45] =>  0:42
+	   :END:
+	   :PROPERTIES:
+	   :ID:       57f1fd64-2427-49b7-8b2d-4ef83bf4d31a
+	   :END:
+********** NEXT Prepare Lecture 1.2
+	   :LOGBOOK:
+	   CLOCK: [2013-09-17 Tue 11:45]--[2013-09-17 Tue 12:30] =>  0:45
+	   :END:
+	   :PROPERTIES:
+	   :ID:       50879575-8e7b-436c-821d-6ef4baa3a7b6
+	   :END:
+********** TODO Prepare Lecture 1.3
+	   :PROPERTIES:
+	   :ID:       939758d8-1c82-4875-a871-349649468f9d
+	   :END:
+********** TODO Prepare Lecture 2.1
+	   :PROPERTIES:
+	   :ID:       32268fe2-2fd4-46f0-b809-43a9fb585334
+	   :END:
+********** TODO Prepare Lecture 2.2
+	   :PROPERTIES:
+	   :ID:       e8ec2fed-0cc4-42fc-a5d4-34ffcd6256c3
+	   :END:
+********** TODO Prepare Lecture 2.3
+	   :PROPERTIES:
+	   :ID:       a3cf2b6e-41c1-4d88-8a8f-898e46baa88c
+	   :END:
+********** TODO Prepare Lecture 3.1
+	   :PROPERTIES:
+	   :ID:       5dfccadc-e6a9-473a-8568-fd1e61a7227f
+	   :END:
+********** TODO Prepare Lecture 3.2
+	   :PROPERTIES:
+	   :ID:       a65f1923-7095-4a99-bc26-859dd5674e96
+	   :END:
+********** TODO Prepare Lecture 3.3
+	   :PROPERTIES:
+	   :ID:       11f775d6-84e5-492d-bbe6-eecf4f9862ab
+	   :END:
+********** TODO Prepare Lecture 4.1
+	   :PROPERTIES:
+	   :ID:       14411bdb-44ac-4672-875c-07e626052572
+	   :END:
+********** TODO Prepare Lecture 4.2
+	   :PROPERTIES:
+	   :ID:       8deda238-b179-4ccc-a4e8-e7e42071fe4e
+	   :END:
+********** TODO Prepare Lecture 4.3
+	   :PROPERTIES:
+	   :ID:       92abedfb-da3c-4aac-acb4-c0d77babd563
+	   :END:
+********** TODO Prepare Lecture 5.1
+	   :PROPERTIES:
+	   :ID:       f8317796-47bd-47b3-8f6d-8beab0c879d8
+	   :END:
+********** TODO Prepare Lecture 5.2
+	   :PROPERTIES:
+	   :ID:       285c1d43-6e2a-49e1-b114-585abecbb149
+	   :END:
+********** TODO Prepare Lecture 5.3
+	   :PROPERTIES:
+	   :ID:       0dbdb61e-201c-479a-9d96-cd5f7e2efaff
+	   :END:
 ******* TODO Website
 	:PROPERTIES:
 	:ID:       5825eb31-c385-43e2-8133-bd0d83db7e70
 	:END:
 ******** NEXT Make website
+	 :LOGBOOK:
+	 CLOCK: [2013-09-22 Sun 12:35]
+	 :END:
 	 :PROPERTIES:
 	 :ID:       08521821-879d-4049-88a1-d1851f15b99f
 	 :END:
