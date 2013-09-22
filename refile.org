@@ -1,1 +1,7 @@
 #+FILETAGS: REFILE
+* TODO Change course web template
+  :LOGBOOK:
+  CLOCK: [2013-09-22 Sun 12:41]--[2013-09-22 Sun 12:42] =>  0:01
+  :END:
+[2013-09-22 Sun 12:41]
+Remove sidebar
