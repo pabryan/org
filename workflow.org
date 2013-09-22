@@ -2670,7 +2670,7 @@ When I set up scoring the day:
 - [ ] Write date into notebook
 - [ ] Record morning health stats
 
-** NEXT Weekly Review [9/15]
+** NEXT Weekly Review [11/16]
    SCHEDULED: <2013-09-15 Sun +1w>
    :LOGBOOK:
    CLOCK: [2013-09-22 Sun 10:39]
@@ -2771,15 +2771,14 @@ What to review:
 - [X] Look at entire agenda for today  =F12 SPC=
 - [X] Check uncommited work
 - [X] Refile tasks
-- [-] Weekly clean up
+- [X] Weekly clean up
   - [X] Clean up Downloads
   - [X] Clean up tmp
-  - [ ] Clean up tablet
-  - [ ] Clean up phone
-- [ ] Process incoming information
+  - [X] Clean up tablet
+  - [X] Clean up phone
+- [X] Process incoming information
   - feedly
   - pocket
-  - Google+ Readlater
 - [ ] Review projects =F12 SPC //= and =P= repeatedly to view each project
   - Unstick stuck projects!
 - [ ] Set focus
