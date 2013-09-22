@@ -16,6 +16,10 @@
     :LAST_REPEAT: [2013-09-14 Sat 19:38]
     :END:
     :LOGBOOK:
+    - State "DONE"       from "NEXT"       [2013-09-21 Sat 17:20]
+    - State "DONE"       from "NEXT"       [2013-09-20 Fri 16:20]
+    - State "DONE"       from "NEXT"       [2013-09-19 Thu 17:30]
+    - State "DONE"       from "NEXT"       [2013-09-18 Wed 17:55]
     - State "DONE"       from "NEXT"       [2013-09-17 Tue 15:20]
     - State "DONE"       from "NEXT"       [2013-09-16 Mon 17:10]
     - State "DONE"       from "NEXT"       [2013-09-14 Sat 17:30]
@@ -189,8 +193,18 @@
     - State "DONE"       from "NEXT"       [2013-03-09 Sat 11:10]
     :END:
 *** NEXT Morning Mobility
-    SCHEDULED: <2013-09-18 Wed .+1d/2d>
+    SCHEDULED: <2013-09-23 Mon .+1d/2d>
     :LOGBOOK:
+    - State "DONE"       from "NEXT"       [2013-09-22 Sun 09:15]
+    CLOCK: [2013-09-22 Sun 08:50]--[2013-09-22 Sun 09:15] =>  0:25
+    - State "DONE"       from "NEXT"       [2013-09-21 Sat 07:45]
+    CLOCK: [2013-09-21 Sat 07:25]--[2013-09-21 Sat 07:45] =>  0:20
+    - State "DONE"       from "NEXT"       [2013-09-20 Fri 08:15]
+    CLOCK: [2013-09-20 Fri 07:50]--[2013-09-20 Fri 08:15] =>  0:25
+    - State "DONE"       from "NEXT"       [2013-09-19 Thu 08:00]
+    CLOCK: [2013-09-19 Thu 07:40]--[2013-09-19 Thu 08:00] =>  0:20
+    - State "DONE"       from "NEXT"       [2013-09-18 Wed 08:15]
+    CLOCK: [2013-09-18 Wed 07:50]--[2013-09-18 Wed 08:15] =>  0:25
     - State "DONE"       from "NEXT"       [2013-09-17 Tue 09:15]
     CLOCK: [2013-09-17 Tue 08:50]--[2013-09-17 Tue 09:15] =>  0:25
     - State "DONE"       from "NEXT"       [2013-09-16 Mon 09:05]
@@ -390,7 +404,7 @@
     :STYLE:    habit
     :REPEAT_TO_STATE: NEXT
     :ID:       0e75f56d-0356-4a0f-a376-080471ad4aad
-    :LAST_REPEAT: [2013-09-17 Tue 11:02]
+    :LAST_REPEAT: [2013-09-22 Sun 10:37]
     :END:
 
 *** NEXT Afternoon Relax
