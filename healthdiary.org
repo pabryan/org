@@ -2430,3 +2430,34 @@ Set 4 HR: 104
 :weight: 73.5
 :rest_hr: 45
 :END:
+*** 2013-09-20 Friday
+**** Stats
+:PROPERTIES:
+:weight: 73.1
+:rest_hr: 49
+:END:
+**** Thrive Flow 
+:PROPERTIES:
+:Type: Compensation
+:Intensity: Low
+:RestHR: 62
+:FinalHR: 78
+:Score:
+:Technique: 9
+:Effort: 5
+:Discomfort: 3
+:END:
+
+[2013-09-20 Fri 10:23]
+*** 2013-09-21 Saturday
+**** Stats
+:PROPERTIES:
+:weight: 72.3
+:rest_hr: 47
+:END:
+*** 2013-09-22 Sunday
+**** Stats
+:PROPERTIES:
+:weight: 74.0
+:rest_hr: 51
+:END:
