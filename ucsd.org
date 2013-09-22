@@ -5754,7 +5754,8 @@ Lectures in calendar and tasks like planning lectures.
 	:END:
 ******** NEXT Make website
 	 :LOGBOOK:
-	 CLOCK: [2013-09-22 Sun 12:35]
+	 CLOCK: [2013-09-22 Sun 12:42]--[2013-09-22 Sun 13:02] =>  0:20
+	 CLOCK: [2013-09-22 Sun 12:35]--[2013-09-22 Sun 12:41] =>  0:06
 	 :END:
 	 :PROPERTIES:
 	 :ID:       08521821-879d-4049-88a1-d1851f15b99f
