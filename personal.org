@@ -1553,8 +1553,11 @@ http://sandiegosr.evanced.info/homepage.asp?ProgramID=22
      :ID:       9de96b24-cf68-49d8-859f-20be2db52268
      :END:
 
-**** TODO Return Books
+**** DONE Return Books
      DEADLINE: <2013-09-23 Mon>
+     :LOGBOOK:
+     - State "DONE"       from "TODO"       [2013-09-23 Mon 13:40]
+     :END:
      :PROPERTIES:
      :ID:       517c78a7-3a73-45a8-ace9-b2de4fbda4cc
      :END:
