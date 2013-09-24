@@ -5656,12 +5656,15 @@ Lectures in calendar and tasks like planning lectures.
 	 :END:
 ******** TODO Write Homework 6
 	 :PROPERTIES:
+	 :ID:       77570d6e-d32f-4ecf-a102-a802d84df1a2
 	 :END:
 ******** TODO Write Homework 7
 	 :PROPERTIES:
+	 :ID:       26ef8bb4-3da4-4072-b501-4c0815040181
 	 :END:
 ******** TODO Write Homework 8
 	 :PROPERTIES:
+	 :ID:       592434bf-b714-4613-a825-e7d31b071464
 	 :END:
 ******* TODO Lectures
 	 :LOGBOOK:
@@ -5752,8 +5755,11 @@ Lectures in calendar and tasks like planning lectures.
 	:PROPERTIES:
 	:ID:       5825eb31-c385-43e2-8133-bd0d83db7e70
 	:END:
-******** NEXT Make website
+******** DONE Make website
 	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2013-09-24 Tue 13:57]
+	 CLOCK: [2013-09-24 Tue 13:15]--[2013-09-24 Tue 13:57] =>  0:42
+	 CLOCK: [2013-09-24 Tue 11:08]--[2013-09-24 Tue 12:30] =>  1:22
 	 CLOCK: [2013-09-22 Sun 12:42]--[2013-09-22 Sun 13:02] =>  0:20
 	 CLOCK: [2013-09-22 Sun 12:35]--[2013-09-22 Sun 12:41] =>  0:06
 	 :END:
@@ -5882,6 +5888,9 @@ See email from worldscientific4@mail3.wspc.com
   :LOGBOOK:
   CLOCK: [2013-09-22 Sun 10:19]--[2013-09-22 Sun 10:20] =>  0:01
   :END:
+    :PROPERTIES:
+    :ID:       5b6d5b4e-a15a-425c-9374-ce623dfaa764
+    :END:
 [2013-09-22 Sun 10:19]
 ** Teaching as research
 *** SOMEDAY Write org-mode teaching paper

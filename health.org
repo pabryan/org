@@ -8,14 +8,15 @@
 
 ** Tracking
 *** NEXT Exercise
-    SCHEDULED: <2013-09-15 Sun .+1d/2d>
+    SCHEDULED: <2013-09-24 Tue .+1d/2d>
     :PROPERTIES:
     :STYLE:    habit
     :REPEAT_TO_STATE: NEXT
     :ID:       8d56b2ef-1b49-4dc4-b701-1d021a293fa4
-    :LAST_REPEAT: [2013-09-14 Sat 19:38]
+    :LAST_REPEAT: [2013-09-24 Tue 10:56]
     :END:
     :LOGBOOK:
+    - State "DONE"       from "NEXT"       [2013-09-23 Mon 20:56]
     - State "DONE"       from "NEXT"       [2013-09-21 Sat 17:20]
     - State "DONE"       from "NEXT"       [2013-09-20 Fri 16:20]
     - State "DONE"       from "NEXT"       [2013-09-19 Thu 17:30]
@@ -193,8 +194,12 @@
     - State "DONE"       from "NEXT"       [2013-03-09 Sat 11:10]
     :END:
 *** NEXT Morning Mobility
-    SCHEDULED: <2013-09-23 Mon .+1d/2d>
+    SCHEDULED: <2013-09-25 Wed .+1d/2d>
     :LOGBOOK:
+    - State "DONE"       from "NEXT"       [2013-09-24 Tue 07:55]
+    CLOCK: [2013-09-24 Tue 07:40]--[2013-09-24 Tue 07:55] =>  0:15
+    - State "DONE"       from "NEXT"       [2013-09-23 Mon 07:51]
+    CLOCK: [2013-09-23 Mon 07:35]--[2013-09-23 Mon 07:50] =>  0:15
     - State "DONE"       from "NEXT"       [2013-09-22 Sun 09:15]
     CLOCK: [2013-09-22 Sun 08:50]--[2013-09-22 Sun 09:15] =>  0:25
     - State "DONE"       from "NEXT"       [2013-09-21 Sat 07:45]
@@ -404,7 +409,7 @@
     :STYLE:    habit
     :REPEAT_TO_STATE: NEXT
     :ID:       0e75f56d-0356-4a0f-a376-080471ad4aad
-    :LAST_REPEAT: [2013-09-22 Sun 10:37]
+    :LAST_REPEAT: [2013-09-24 Tue 10:54]
     :END:
 
 *** NEXT Afternoon Relax
@@ -532,8 +537,9 @@
     :END:
   
 *** NEXT Evening Stretch
-    SCHEDULED: <2013-09-18 Wed .+1d/2d>
+    SCHEDULED: <2013-09-24 Tue .+1d/2d>
     :LOGBOOK:
+    - State "DONE"       from "NEXT"       [2013-09-23 Mon 20:54]
     - State "DONE"       from "NEXT"       [2013-09-17 Tue 22:01]
     - State "DONE"       from "NEXT"       [2013-09-14 Sat 21:17]
     - State "DONE"       from "NEXT"       [2013-09-12 Thu 22:05]
@@ -637,7 +643,7 @@
     :STYLE:    habit
     :REPEAT_TO_STATE: NEXT
     :ID:       d439600f-c40d-4dd3-82ca-3e7d9e35f2b3
-    :LAST_REPEAT: [2013-09-17 Tue 22:01]
+    :LAST_REPEAT: [2013-09-24 Tue 10:54]
     :END:
   
 *** NEXT Handstand practice
