@@ -572,8 +572,11 @@ person in your department who handles benefits information.
   CLOCK: [2012-10-25 Thu 11:32]--[2012-10-25 Thu 11:32] =>  0:00
 [2012-10-25 Thu 11:32]
 
-*** TODO Book doctor appointments
+*** DONE Book doctor appointments
   SCHEDULED: <2013-09-16 Mon>
+  :LOGBOOK:
+  - State "DONE"       from "TODO"       [2013-09-25 Wed 13:06]
+  :END:
     :PROPERTIES:
     :ID:       28367ca1-0f40-4cdd-bc57-dfa4bf650109
     :END:
