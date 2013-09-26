@@ -2430,6 +2430,41 @@ Set 4 HR: 104
 :weight: 73.5
 :rest_hr: 45
 :END:
+**** Flow Physique [20/12x8+60]6 
+     :LOGBOOK:
+     CLOCK: [2013-09-18 Wed 17:20]--[2013-09-18 Wed 18:25] =>  1:05
+     :END:
+:PROPERTIES:
+:Type: Conditioning
+:Intensity: High
+:RestHR: 56
+:FinalHR: 131
+:Score: 52
+:Technique: 8.5
+:Effort: 8.8
+:Discomfort: 3
+:END:
+
+[2013-09-18 Wed 20:04]
+:Intensity: 
+:Type: Conditioning
+| Exercise          |         1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | Min |  HR | T | E | D |
+|-------------------+-----------+---+---+---+---+---+---+---+-----+-----+---+---+---|
+| Hack Squat        |           |   |   |   |   |   |   |   |  11 | 116 | 9 | 9 | 2 |
+| Plank Pull Knee   |           |   |   |   |   |   |   |   |   7 | 112 | 9 | 8 | 3 |
+| Sit Thru Knee     |           |   |   |   |   |   |   |   |  17 | 164 | 9 | 9 | 2 |
+| Knee Press        |           |   |   |   |   |   |   |   |   5 | 124 | 8 | 9 | 3 |
+| Basic Spinal Rock |           |   |   |   |   |   |   |   |   7 | 132 | 8 | 9 | 4 |
+| Table Lift        |           |   |   |   |   |   |   |   |   5 | 136 | 8 | 9 | 4 |
+|-------------------+-----------+---+---+---+---+---+---+---+-----+-----+---+---+---|
+| Rest HR           |        56 |   |   |   |   |   |   |   |     |     |   |   |   |
+| Avg HR            | 130.66667 |   |   |   |   |   |   |   |     |     |   |   |   |
+| Score             |        52 |   |   |   |   |   |   |   |     |     |   |   |   |
+| Tech              |       8.5 |   |   |   |   |   |   |   |     |     |   |   |   |
+| Eff               | 8.8333333 |   |   |   |   |   |   |   |     |     |   |   |   |
+| Disc              |         3 |   |   |   |   |   |   |   |     |     |   |   |   |
+|                   |           |   |   |   |   |   |   |   |     |     |   |   |   |
+       #+TBLFM: @9$2=vmean(@2$11..@7$11)::@10$2=vsum(@2$10..@7$10)::@11$2=vmean(@2$12..@7$12)::@12$2=vmean(@2$13..@7$13)::@13$2=vmean(@2$14..@7$14)
 *** 2013-09-20 Friday
 **** Stats
 :PROPERTIES:
@@ -2473,6 +2508,41 @@ Set 4 HR: 104
 :weight: 73.7
 :rest_hr: 49
 :END:
+**** Flow Physique [20/12x8+60]6 
+     :LOGBOOK:
+     CLOCK: [2013-09-24 Tue 15:45]--[2013-09-24 Tue 16:55] =>  1:10
+     :END:
+:PROPERTIES:
+:Type: Conditioning
+:Intensity: Mod
+:RestHR: 62
+:FinalHR: 
+:Score:
+:Technique:
+:Effort:
+:Discomfort:
+:END:
+
+[2013-09-24 Tue 20:07]
+:Intensity: 
+:Type: Conditioning
+| Exercise          | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | Min |  HR | T | E | D |
+|-------------------+---+---+---+---+---+---+---+---+-----+-----+---+---+---|
+| Hack Squat        |   |   |   |   |   |   |   |   |   7 | 118 | 8 | 5 | 2 |
+| Plank Pull Knee   |   |   |   |   |   |   |   |   |   4 | 104 | 9 | 6 | 3 |
+| Sit Thru Knee     |   |   |   |   |   |   |   |   |  12 | 140 | 9 | 7 | 2 |
+| Knee Press        |   |   |   |   |   |   |   |   |   4 | 112 | 9 | 7 | 3 |
+| Basic Spinal Rock |   |   |   |   |   |   |   |   |   7 | 116 | 8 | 6 | 4 |
+| Table Lift        |   |   |   |   |   |   |   |   |   4 | 116 | 9 | 7 | 5 |
+|-------------------+---+---+---+---+---+---+---+---+-----+-----+---+---+---|
+| Rest HR           |   |   |   |   |   |   |   |   |     |     |   |   |   |
+| Avg HR            |   |   |   |   |   |   |   |   |     |     |   |   |   |
+| Score             |   |   |   |   |   |   |   |   |     |     |   |   |   |
+| Tech              |   |   |   |   |   |   |   |   |     |     |   |   |   |
+| Eff               |   |   |   |   |   |   |   |   |     |     |   |   |   |
+| Disc              |   |   |   |   |   |   |   |   |     |     |   |   |   |
+|                   |   |   |   |   |   |   |   |   |     |     |   |   |   |
+       #+TBLFM: @9$2=vmean(@2$11..@7$11)::@10$2=vsum(@2$10..@7$10)::@11$2=vmean(@2$12..@7$12)::@12$2=vmean(@2$13..@7$13)::@13$2=vmean(@2$14..@7$14)
 *** 2013-09-25 Wednesday
 **** Stats
 :PROPERTIES:
