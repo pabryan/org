@@ -5481,6 +5481,9 @@ Lectures in calendar and tasks like planning lectures.
 	:ID:       3bfb8906-aa27-47ca-8744-b3132e2db581
 	:END:
 ******** NEXT Make website
+	 :LOGBOOK:
+	 CLOCK: [2013-09-27 Fri 11:32]
+	 :END:
 	 :PROPERTIES:
 	 :ID:       60b9abe9-d6a4-4535-985f-05de07f837dc
 	 :END:
