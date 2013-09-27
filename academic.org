@@ -868,6 +868,9 @@ This proves the inequality we need.  The remaining problem is to remove the symm
 	:LOGBOOK:
 	CLOCK: [2013-09-25 Wed 20:34]--[2013-09-25 Wed 20:51] =>  0:17
 	:END:
+	:PROPERTIES:
+	:ID:       8d5d5e90-1bc6-47d8-965a-fae03c336c27
+	:END:
 ****** TODO Write content
        :LOGBOOK:
        :END:

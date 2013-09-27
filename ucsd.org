@@ -5480,12 +5480,17 @@ Lectures in calendar and tasks like planning lectures.
 	:PROPERTIES:
 	:ID:       3bfb8906-aa27-47ca-8744-b3132e2db581
 	:END:
-******** NEXT Make website
+******** DONE Make website
 	 :LOGBOOK:
-	 CLOCK: [2013-09-27 Fri 11:32]
+	 - State "DONE"       from "NEXT"       [2013-09-27 Fri 12:15]
+	 CLOCK: [2013-09-27 Fri 11:32]--[2013-09-27 Fri 12:15] =>  0:43
 	 :END:
 	 :PROPERTIES:
 	 :ID:       60b9abe9-d6a4-4535-985f-05de07f837dc
+	 :END:
+******** NEXT Update website
+	 :PROPERTIES:
+	 :ID:       3655ccb4-942f-4017-92c6-8e501c72f316
 	 :END:
 ******* TODO Grades
 	:PROPERTIES:
