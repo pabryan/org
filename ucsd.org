@@ -5569,7 +5569,10 @@ Lectures in calendar and tasks like planning lectures.
 	:PROPERTIES:
 	:ID:       d1e37783-70fb-49c3-b3d4-3633d429fd4b
 	:END:
-******** NEXT Create Exam Schedule
+******** DONE Create Exam Schedule
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2013-09-28 Sat 16:07]
+	 :END:
 	 :PROPERTIES:
 	 :ID:       cd0474fa-cefa-4310-b6c0-a200ede5113f
 	 :END:
@@ -5638,41 +5641,76 @@ Lectures in calendar and tasks like planning lectures.
 	:ID:       080b484f-d512-4e33-b05c-e7ae72310396
 	:END:
 [2013-08-23 Fri 09:51]
-******* TODO Homework
+******* DONE Homework
+	:LOGBOOK:
+	- State "DONE"       from "TODO"       [2013-09-28 Sat 16:08]
+	:END:
 	:PROPERTIES:
 	:ID:       de8653c0-a08d-4864-ac77-e3542cbd12d7
 	:END:
-******** NEXT Write Homework 1
+******** DONE Write Homework 0
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2013-09-28 Sat 16:07]
+	 :END:
+******** DONE Write Homework 1
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2013-09-28 Sat 16:07]
+	 :END:
 	 :PROPERTIES:
 	 :ID:       47bc01c6-9506-4476-a49e-a71f07780aa2
 	 :END:
-******** TODO Write Homework 2
+******** DONE Write Homework 2
+	 :LOGBOOK:
+	 - State "DONE"       from "TODO"       [2013-09-28 Sat 16:07]
+	 :END:
 	 :PROPERTIES:
 	 :ID:       417694ba-372a-4f73-8667-eed2e3d83458
 	 :END:
-******** TODO Write Homework 3
+******** DONE Write Homework 3
+	 :LOGBOOK:
+	 - State "DONE"       from "TODO"       [2013-09-28 Sat 16:07]
+	 :END:
 	 :PROPERTIES:
 	 :ID:       456dc249-c3a3-4ea2-805d-a7d643605b8f
 	 :END:
-******** TODO Write Homework 4
+******** DONE Write Homework 4
+	 :LOGBOOK:
+	 - State "DONE"       from "TODO"       [2013-09-28 Sat 16:07]
+	 :END:
 	 :PROPERTIES:
 	 :ID:       5f4b2d4e-a99f-4368-9a15-bab2da5c4e83
 	 :END:
-******** TODO Write Homework 5
+******** DONE Write Homework 5
+	 :LOGBOOK:
+	 - State "DONE"       from "TODO"       [2013-09-28 Sat 16:07]
+	 :END:
 	 :PROPERTIES:
 	 :ID:       d81a8d91-2d07-4a38-8995-4177407f86dc
 	 :END:
-******** TODO Write Homework 6
+******** DONE Write Homework 6
+	 :LOGBOOK:
+	 - State "DONE"       from "TODO"       [2013-09-28 Sat 16:07]
+	 :END:
 	 :PROPERTIES:
 	 :ID:       77570d6e-d32f-4ecf-a102-a802d84df1a2
 	 :END:
-******** TODO Write Homework 7
+******** DONE Write Homework 7
+	 :LOGBOOK:
+	 - State "DONE"       from "TODO"       [2013-09-28 Sat 16:07]
+	 :END:
 	 :PROPERTIES:
 	 :ID:       26ef8bb4-3da4-4072-b501-4c0815040181
 	 :END:
-******** TODO Write Homework 8
+******** DONE Write Homework 8
+	 :LOGBOOK:
+	 - State "DONE"       from "TODO"       [2013-09-28 Sat 16:07]
+	 :END:
 	 :PROPERTIES:
 	 :ID:       592434bf-b714-4613-a825-e7d31b071464
+	 :END:
+******** DONE Write Homework 9
+	 :LOGBOOK:
+	 - State "DONE"       from "TODO"       [2013-09-28 Sat 16:07]
 	 :END:
 ******* TODO Lectures
 	 :LOGBOOK:
