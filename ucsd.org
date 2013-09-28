@@ -5483,12 +5483,12 @@ Lectures in calendar and tasks like planning lectures.
 	   :ID:       f8317796-47bd-47b3-8f6d-8beab0c879d8
 	   :END:
 ********* TODO Prepare Lecture 5.2
-	   DEADLINE: <2013-10-23 Wed>
+	   DEADLINE: <2013-10-30 Wed>
 	   :PROPERTIES:
 	   :ID:       285c1d43-6e2a-49e1-b114-585abecbb149
 	   :END:
 ********* TODO Prepare Lecture 5.3
-	   DEADLINE: <2013-10-25 Fri>
+	   DEADLINE: <2013-11-01 Fri>
 	   :PROPERTIES:
 	   :ID:       0dbdb61e-201c-479a-9d96-cd5f7e2efaff
 	   :END:
@@ -5498,7 +5498,7 @@ Lectures in calendar and tasks like planning lectures.
 	   :ID:       f8317796-47bd-47b3-8f6d-8beab0c879d8
 	   :END:
 ********* TODO Prepare Lecture 6.2
-	   DEADLINE: <2013-10-30 Wed>
+	   DEADLINE: <2013-11-06 Wed>
 	   :PROPERTIES:
 	   :ID:       285c1d43-6e2a-49e1-b114-585abecbb149
 	   :END:
@@ -5644,34 +5644,34 @@ WLH 2208
 <2013-12-02 Mon 10:00-11:00>
 ******** Wed
 ********* Lecture 1.2
-	  <2013-10-02 Wed>
+	  <2013-10-02 Wed 10:00-11:00>
 
 ********* Lecture 2.2
-	  <2013-10-09 Wed>
+	  <2013-10-09 Wed 10:00-11:00>
 
 ********* Lecture 3.2
-	  <2013-10-16 Wed>
+	  <2013-10-16 Wed 10:00-11:00>
 
 ********* Lecture 4.2
-	  <2013-10-23 Wed>
+	  <2013-10-23 Wed 10:00-11:00>
 
 ********* Lecture 5.2
-	  <2013-10-30 Wed>
+	  <2013-10-30 Wed 10:00-11:00>
 
 ********* Lecture 6.2
-	  <2013-11-06 Wed>
+	  <2013-11-06 Wed 10:00-11:00>
 
 ********* Lecture 7.2
-	  <2013-11-13 Wed>
+	  <2013-11-13 Wed 10:00-11:00>
 
 ********* Lecture 8.2
-	  <2013-11-20 Wed>
+	  <2013-11-20 Wed 10:00-11:00>
 
 ********* Lecture 9.2
-	  <2013-11-27 Wed>
+	  <2013-11-27 Wed 10:00-11:00>
 
 ********* Lecture 10.2
-	  <2013-12-04 Wed>
+	  <2013-12-04 Wed 10:00-11:00>
 
 ******** Fri
 ********* Lecture 0.3
@@ -5911,7 +5911,7 @@ Lectures in calendar and tasks like planning lectures.
 	  - State "DONE"       from "NEXT"       [2013-09-25 Wed 13:42]
 	  CLOCK: [2013-09-25 Wed 13:29]--[2013-09-25 Wed 13:42] =>  0:13
 	  :END:
-********* TODO Prepare Lecture 1.1
+********* NEXT Prepare Lecture 1.1
 	  DEADLINE: <2013-09-30 Mon>
 	  :PROPERTIES:
 	  :ID:       57f1fd64-2427-49b7-8b2d-4ef83bf4d31a
@@ -5980,12 +5980,12 @@ Lectures in calendar and tasks like planning lectures.
 	  :ID:       f8317796-47bd-47b3-8f6d-8beab0c879d8
 	  :END:
 ********* TODO Prepare Lecture 5.2
-	  DEADLINE: <2013-10-23 Wed>
+	  DEADLINE: <2013-10-30 Wed>
 	  :PROPERTIES:
 	  :ID:       285c1d43-6e2a-49e1-b114-585abecbb149
 	  :END:
 ********* TODO Prepare Lecture 5.3
-	  DEADLINE: <2013-10-25 Fri>
+	  DEADLINE: <2013-11-01 Fri>
 	  :PROPERTIES:
 	  :ID:       0dbdb61e-201c-479a-9d96-cd5f7e2efaff
 	  :END:
@@ -5995,7 +5995,7 @@ Lectures in calendar and tasks like planning lectures.
 	  :ID:       f8317796-47bd-47b3-8f6d-8beab0c879d8
 	  :END:
 ********* TODO Prepare Lecture 6.2
-	  DEADLINE: <2013-10-30 Wed>
+	  DEADLINE: <2013-11-06 Wed>
 	  :PROPERTIES:
 	  :ID:       285c1d43-6e2a-49e1-b114-585abecbb149
 	  :END:
