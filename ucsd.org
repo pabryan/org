@@ -5404,9 +5404,10 @@ Lectures in calendar and tasks like planning lectures.
 	:PROPERTIES:
 	:ID:       e7508eb7-8f16-44ac-b5ec-5462188b6884
 	:END:
-******** NEXT Create Lecture Schedule
+******** DONE Create Lecture Schedule
 	 :LOGBOOK:
-	 CLOCK: [2013-09-28 Sat 16:31]
+	 - State "DONE"       from "NEXT"       [2013-09-28 Sat 16:53]
+	 CLOCK: [2013-09-28 Sat 16:31]--[2013-09-28 Sat 16:53] =>  0:22
 	 CLOCK: [2013-09-16 Mon 13:36]--[2013-09-16 Mon 14:35] =>  0:59
 	 CLOCK: [2013-09-14 Sat 11:40]--[2013-09-14 Sat 12:47] =>  1:07
 	 :END:
