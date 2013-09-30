@@ -451,8 +451,12 @@ If I'm working on a project, I want an agenda view showing me just that project.
   :END:
 [2013-03-14 Thu 14:05]
 
-*** NEXT Use org-checklists
+*** WAITING Use org-checklists
     SCHEDULED: <2013-09-29 Sun>
+    :LOGBOOK:
+    - State "WAITING"    from "NEXT"       [2013-09-29 Sun 20:48] \\
+      Set it up. Just waiting to see if it works...
+    :END:
     :PROPERTIES:
     :ID:       c544c72f-f00e-4984-aec8-843eb43ebaa1
     :END:
@@ -474,8 +478,12 @@ If I'm working on a project, I want an agenda view showing me just that project.
 [2013-08-01 Thu 20:05]
 http://plantuml.sourceforge.net/
 
-*** TODO from-mobile.org entries in agenda
+*** DONE from-mobile.org entries in agenda
   SCHEDULED: <2013-09-29 Sun>
+  :LOGBOOK:
+  - State "DONE"       from "NEXT"       [2013-09-29 Sun 20:42]
+  CLOCK: [2013-09-29 Sun 20:37]--[2013-09-29 Sun 20:42] =>  0:05
+  :END:
     :PROPERTIES:
     :ID:       5362b152-822b-455d-a894-47dafbe9489f
     :END:
@@ -1523,7 +1531,8 @@ I have mythtv and mediatomb and who knows what else using up valuable resources.
   :END:
 ** Organisation
   :LOGBOOK:
-  CLOCK: [2013-09-29 Sun 19:55]
+  CLOCK: [2013-09-29 Sun 20:42]--[2013-09-29 Sun 20:48] =>  0:06
+  CLOCK: [2013-09-29 Sun 19:55]--[2013-09-29 Sun 20:37] =>  0:42
   CLOCK: [2013-09-29 Sun 19:34]--[2013-09-29 Sun 19:37] =>  0:03
   CLOCK: [2013-09-29 Sun 17:14]--[2013-09-29 Sun 17:45] =>  0:31
   CLOCK: [2013-09-28 Sat 16:03]--[2013-09-28 Sat 16:08] =>  0:05
