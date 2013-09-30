@@ -5426,8 +5426,11 @@ Lectures in calendar and tasks like planning lectures.
 	  :PROPERTIES:
 	  :ID:       82b1f425-be4f-4eb8-9c4e-52799cc79434
 	  :END:
-********* TODO Prepare Lecture 1.2
+********* NEXT Prepare Lecture 1.2
 	  DEADLINE: <2013-10-02 Wed>
+	  :LOGBOOK:
+	  CLOCK: [2013-09-30 Mon 13:40]--[2013-09-30 Mon 14:23] =>  0:43
+	  :END:
 	  :PROPERTIES:
 	  :ID:       2066c656-c6db-420c-97f3-b2d526f3155d
 	  :END:
@@ -5629,6 +5632,9 @@ WLH 2208
 ********* Lecture 1.1
 	  :LOGBOOK:
 	  CLOCK: [2013-09-30 Mon 10:05]--[2013-09-30 Mon 11:15] =>  1:10
+	  :END:
+	  :PROPERTIES:
+	  :ID:       97fe2f58-98db-40fc-b7f3-0e17e6c11488
 	  :END:
 <2013-09-30 Mon 10:00-11:00>
 ********* Lecture 2.1
@@ -5926,9 +5932,10 @@ Lectures in calendar and tasks like planning lectures.
 	  :PROPERTIES:
 	  :ID:       57f1fd64-2427-49b7-8b2d-4ef83bf4d31a
 	  :END:
-********* TODO Prepare Lecture 1.2
+********* DONE Prepare Lecture 1.2
 	  DEADLINE: <2013-10-02 Wed>
 	  :LOGBOOK:
+	  - State "DONE"       from "TODO"       [2013-09-30 Mon 11:58]
 	  CLOCK: [2013-09-17 Tue 11:45]--[2013-09-17 Tue 12:30] =>  0:45
 	  :END:
 	  :PROPERTIES:
@@ -6134,6 +6141,9 @@ CENTR 101
 ********* Lecture 1.1
 	  :LOGBOOK:
 	  CLOCK: [2013-09-30 Mon 09:00]--[2013-09-30 Mon 10:05] =>  1:05
+	  :END:
+	  :PROPERTIES:
+	  :ID:       d806f552-6727-4061-b57f-c9d9757a5a6e
 	  :END:
 <2013-09-30 Mon 09:00-10:00>
 ********* Lecture 2.1
