@@ -1484,9 +1484,10 @@ this way I can track upstream and keep my work independent and then merge, push 
   :END:
 [2013-08-21 Wed 20:35]
 
-** TODO Set up sshfs with autofs
+** DONE Set up sshfs with autofs
   SCHEDULED: <2013-09-29 Sun>
   :LOGBOOK:
+  - State "DONE"       from "TODO"       [2013-09-29 Sun 20:24]
   CLOCK: [2013-08-27 Tue 18:10]--[2013-08-27 Tue 18:11] =>  0:01
   :END:
   :PROPERTIES:
@@ -1494,8 +1495,12 @@ this way I can track upstream and keep my work independent and then merge, push 
   :END:
 [2013-08-27 Tue 18:10]
 https://wiki.archlinux.org/index.php/Autofs#Remote_SSH
-** TODO Set up screen X setting
+https://github.com/hellekin/autosshfs
+** DONE Set up screen X setting
   SCHEDULED: <2013-09-29 Sun>
+  :LOGBOOK:
+  - State "DONE"       from "TODO"       [2013-09-29 Sun 20:25]
+  :END:
   :PROPERTIES:
   :ID:       e9d187bd-217a-4a24-9782-3559085d3b10
   :END:

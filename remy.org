@@ -331,8 +331,12 @@ Level 2, Session 2 17:00
    :ID:       1cf455a8-a966-411e-9cda-0d46a522f58d
    :END:
 [2013-09-11 Wed 14:42]
-** TODO Bow and arrow for Remy 
+** WAITING Bow and arrow for Remy 
   SCHEDULED: <2013-09-29 Sun>
+  :LOGBOOK:
+  - State "WAITING"    from "TODO"       [2013-09-29 Sun 20:26] \\
+    Emailed Kate asking her to add it to Remy's wishlist.
+  :END:
    :PROPERTIES:
    :ID:       4ec08ca7-928e-4fe6-93a4-b0ee6043258a
    :END:
