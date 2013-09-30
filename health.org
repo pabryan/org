@@ -2023,8 +2023,11 @@ CLOCK: [2013-01-14 Mon 06:35]--[2013-01-14 Mon 06:35] =>  0:00
 [2012-11-20 Tue 11:04]
 
 
-** TODO Create health stats capture task
+** DONE Create health stats capture task
   SCHEDULED: <2013-09-29 Sun>
+  :LOGBOOK:
+  - State "DONE"       from "TODO"       [2013-09-29 Sun 17:55]
+  :END:
    :PROPERTIES:
    :ID:       94db9f98-9d4f-4d66-b68c-b41766d26964
    :END:

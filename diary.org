@@ -1,0 +1,90 @@
+
+* 2013
+  :PROPERTIES:
+  :ID:       dea79625-52c4-4363-b775-541a50d22b09
+  :END:
+** 2013-08 August
+*** 2013-08-20 Tuesday
+**** Peer Instruction
+
+- Extra load on teacher.
+- If teacher puts more effor into the course, is it a suprise that students do better in the course and enjoy it more?
+- Is it easer? Is that why students like it more? Do they learn as much?
+- Students don't want to have extra things to do like watch videos and read the text. Some just want to come to lectures and that's enough for them.
+- I hated being forced into a certain mode of learning, like doing posters, group assignments and weekly homework (no depth, a chore to have to do it every week, tedious computations).
+- Students should have some freedom to study how they want to study.
+- Teacher has a lot of work to do to ensure the students follow the prescribed learning process. They are forced into participation by requiring attendence and tracking clicker responses. Student must read the text first and then answer questions to get points. If they aren't assessed on it, they won't do it!
+- Students don't seem to like online homework.
+- Learning is iterative. You cannot prescribe a process by which it will take place. See software development models!
+- How accurate is data saying it works well? Do most studies actually show anything, or are they just indications that it might be worthwhile doing a proper study? That means, a controlled, rigorous, repeatable, verifiable experiment. I suspect not. Suppose the grades are higher in a peer-instruction course. Typically, the grading will also be different so all we find out is that the grading better matched the instruction! Also, as the instructor is enthusiastic about peer-instruction, and not so much about traditional, even if they run concurrent classes using both methods, there is a bias toward peer instruction and one would expect better results/student feedback in the peer instruction class.
+
+**** Log
+- I wrote mid term exams for both 142b and 20d. They are both a little long, but I hope that the students will finish them in the 1.5 hours I gave them. I suspect that 142b will challenge them a bit, though it's actually computationally very straight forward.
+- I finished preparing the weeks lectures. I think the 20d lecture on springs should be a good one. It highlights the usefulness of what we're doing and is much more concrete.
+- I sorted out a bash script using wget to download Scott Sonnon's 5classics. I'm really excited to get started on these. They'll bring a fresh approach to my health-based "exercise".
+- Ate a litte too much refined carbs: two tortilla's, two slices bread and a pancake. Actually, that's rather a lot! The rest was all good. No coffee, but three cups of tea.
+- Did morning mobility, but no other exercise (maybe some stretching when I'm done here) except for a walk to the shops with the kids. They really love climbing through the trees and whatnot! I felt mostly okay, though I was very tired in the morning.
+*** 2013-08-21 Wednesday
+**** Log
+- Tired yet again! Getting a bit of a headache. Probably not getting enough sleep. Should track it with SleepBot again.
+- Stayed almost an hour late with office hours!
+- Managed to write lecture logs for today which made me happy.
+- Lectures I think went well. I didn't try to cram in too much stuff.
+- Had a nap.
+- Thought of ideas about Geometric Analysis journal (which is going to be more than just a journal now; conferences, etc. included) and peer instruction. Got some good ideas down.
+*** 2013-08-22 Thursday
+**** Health
+- Handstand practice today. Remy said "Stop it, Stop it!". Then Kate came out and said that my face was bright red! I got the right way up and started sneezing.
+- TaiJi for mobility this morning. I really want to get deeper into the one-legged squat positions. I concentraded on keeping my spin aligned mostly; the main problem is that I jut me neck out.
+**** Family
+- Midwife appointement today. Kate's 16 weeks pregnant! We were thinking maybe 10-12. Lots to do now. The kids are very excited.
+*** 2013-08-25 Sunday
+**** Log
+- Cleaned the house. Finally got the toys and crap tidied in the kids room. Still need to sort it all and vacuum.
+- Started interacting with math, social media people: commented on Dana Ernst's post on IBL and concated Christopher Lee about spnet.
+- Also posted comment to Chris Salvato's blog article on pirouette bail.
+- Made some deliciuos burritos too!
+- Set up emacs server/emacsclient. Very good stuff!
+*** 2013-08-27 Tuesday
+**** Log
+- Woke up with a cracker of a headache. It persisted until I really lossened up. Mobility works!
+- Talked to Peter Ebenfelt about teaching loads and what do when Kate has the baby. Not much choice there unfortunately. I have to teach 4 courses and fit them into this year (I could maybe bump one til next year, but then I'd have to teach 5 in one year!). Perhaps I'll try for 2 in fall and 2 in winter with spring off.
+- Watched a bit of "Anchor man" with Kate; funny stuff!
+- I'm having an interesting discussion with Dana Enrst and Christopher Lee regarding IBL and teaching methods on Google+. They both are not sure the research is rigorous enough yet, but believe in the anecdotal evidence. As do I.
+- Had an evening swim. That is really good to release all the residual tension from the day. I did tense a little in the shoulders/neck at times; either this was because of the kids holding on around my neck or because I did a few laps. Lily is getting more and more confident. She can now swim, take a breath and swim some more. Remy is starting to duck dive - I think he used to be able to do - again.
+- Shoulders felt much loosened up in the afternoon. I'm starting to hold them and my ribs in a more aligned and relaxed way which is reducing the tension in my neck. Just have to remember to keep loosening up throughout the day using mobility and shaking.
+*** 2013-08-29 Thursday
+**** Log
+- Woke up okay. After breakfast I felt very tired and had tense neck/headache most of the day.
+- Swimming was pretty good. I did a lot of stretching to loosen up though.
+- Starting watching Ripper Street. It's pretty good.
+- Updated budget. We have about $150 spare a month! No wonder we keep running out of money.
+- Managed to plan 2 hours worth of lectures in about 1 hr. Just wrote the outline and not every detail. Much more efficient than all the detail I was writing before!
+- Food is running low. We had rice, white sauce and frozen veggies for dinner!
+*** 2013-08-30 Friday
+**** Log
+- Tried teaching uniform convergence by getting the students to see why pointwise convergence doesn't imply the limit is continuous. With a few appropriate remarks from me, we came upon the idea that we needed a \(\delta\) that worked for all \(N\). That is, we have an equicontinuous sequence. I think that's pretty cool! I even posted on Google+ about it.
+- Another swim today. Was pretty tired before that, but the kids made me go and I'm glad I did. However, I cart-wheeled into the pool and wrenched my left neck/shoulder a bit.
+*** 2013-08-31 Saturday
+**** Log
+- Did some TaiJiQuan and Flow Fit today. First time in a while that I've done FlowFIt, bit it went quite well. I took it easy and only did around 5-6 rounds sometimes with a little shaking/vibration to loosen up and keep my heart rate down.
+- Bought school supplies for Remy. Somehow we spent $70 when I was expecting $30!
+- Bought a bunch of stuff from WholeFoods. Somehow we spent $200 when I was hoping for under $50 but expecting around $100.
+- Had an evening swim. Lily was doing backrolls in the water!
+** 2013-09 September
+*** 2013-09-02 Monday
+**** Log
+- Went for a run today. Barefoot all the way! 5k in 32 minutes, which is a little slower than I was doing. I want to get 5k in 25 minutes and added that as a goal on mapmyrun.
+- Had some tasty beans, mini-tortillas, lime salsa and avocado for dinner. Good stuff! 
+- Remy was very difficult today. He didn't go to sleep til 11 pm last night, so it's no suprise!
+- Remy starts school tomorrow. We ordered him subway online through the school, which is pretty cool. He also needs to bring a plate, cup and bowl so they don't have any (or minimal - is the sandwhich wrapped?) waste.
+*** 2013-09-03 Tuesday
+**** Log
+- Remy's first day of school. He seemed to really enjoy it and met two friends who play minecraft. Their names are Maximus and Yick (pronounced wick).
+- Kate had a blood sugar test and various other blood tests. They're all found, but her white blood cell count is a little high.
+- We've just about spent all the extra money we got! We do have $6500 for the australian credit card though! We did buy a zoo pass, a Raspberry Pi and some other needed things like a jack for the car and a tyre pressure gauge. For some reason, US air stations don't have a pressure gauge.
+*** 2013-09-12 Thursday
+**** Log
+- Kate had a miscarriage the other day. It was at about 17 weeks. We just didn't expect it; they called a few days ago saying that her protein levels were elevated and we went in the next day for a checkup and there was no heart beat. Takes the wind out you to say the least! I felt quite empty and not really sure what to do with myself. I didn't really want to do anything. Kate seems to be handling it okay. She has resolved not to try for any more kids. I want another baby though. We'll see how things go. She might change her mind. If not, it's okay; we have two amazing kids.
+- Remy's second week at IA. He's fitting in quite well it seems. He's made new friends, had an argument with one of them (Wick), but will probably get over it. We went to Wick's house on Sunday. They were really nice and have 3 boys. One older than Wick and one 4 year old.
+- Remy made a song composition and animation on incredibox.com. Pretty slick stuff! He learnt in media center at school.
