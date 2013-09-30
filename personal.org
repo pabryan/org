@@ -852,10 +852,11 @@ Healthy habits. I want to keep on track with living well and so need reminders t
      :ID:       fa781125-ef74-4204-acf2-01afd40af11e
      :END:
 [2013-09-13 Fri 10:07]
-**** NEXT Separate exercise log from health stats
+**** DONE Separate exercise log from health stats
   SCHEDULED: <2013-09-29 Sun>
   :LOGBOOK:
-  CLOCK: [2013-09-29 Sun 19:37]
+  - State "DONE"       from "NEXT"       [2013-09-29 Sun 19:55]
+  CLOCK: [2013-09-29 Sun 19:37]--[2013-09-29 Sun 19:55] =>  0:18
   CLOCK: [2013-09-14 Sat 11:26]--[2013-09-14 Sat 11:28] =>  0:02
   :END:
      :PROPERTIES:

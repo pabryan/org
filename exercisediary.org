@@ -2173,127 +2173,7 @@ Set 4 HR: 104
 [2013-07-31 Wed 22:10]
 :Intensity: 
 
-** 2013-08 August
-*** 2013-08-23 Friday
-**** Stats
-:PROPERTIES:
-:weight: 74.4
-:END:
-*** 2013-08-24 Saturday
-**** Stats
-:PROPERTIES:
-:weight: 73.4
-:END:
-
-*** 2013-08-25 Sunday
-**** Stats
-:PROPERTIES:
-:weight: 73.4
-:END:
-*** 2013-08-26 Monday
-**** Stats
-:PROPERTIES:
-:weight: 73.1
-:rest_hr: 51
-:END:
-
-*** 2013-08-27 Tuesday
-**** Stats
-:PROPERTIES:
-:weight: 72.5
-:rest_hr: 50
-:END:
-*** 2013-08-28 Wednesday
-**** Stats
-:PROPERTIES:
-:weight: 73.1
-:rest_hr: 49
-:END:
-*** 2013-08-29 Thursday
-**** Stats
-:PROPERTIES:
-:rest_hr: 50
-:END:
-*** 2013-08-30 Friday
-**** Stats
-:PROPERTIES:
-:weight: 73.4
-:rest_hr: 49
-:END:
-*** 2013-08-31 Saturday
-**** Stats
-:PROPERTIES:
-:rest_hr: 54
-:END:
 ** 2013-09 September
-*** 2013-08-01 Sunday
-**** Stats
-:PROPERTIES:
-:rest_hr: 50
-:END:
-
-*** 2013-08-02 Monday
-**** Stats
-:PROPERTIES:
-:weight: 73.5
-:rest_hr: 54
-:END:
-*** 2013-08-03 Tuesday
-**** Stats
-:PROPERTIES:
-:weight: 73.7
-:rest_hr: 56
-:END:
-*** 2013-08-04 Wednesday
-**** Stats
-:PROPERTIES:
-:weight: 73.7
-:rest_hr: 48
-:END:
-
-*** 2013-08-05 Thursday
-**** Stats
-:PROPERTIES:
-:weight: 73.5
-:rest_hr: 48
-:END:
-
-*** 2013-08-06 Friday
-**** Stats
-:PROPERTIES:
-:weight: 73.5
-:rest_hr: 43
-:END:
-*** 2013-08-07 Saturday
-**** Stats
-:PROPERTIES:
-:weight: 73.5
-:rest_hr: 48
-:END:
-*** 2013-08-08 Sunday
-**** Stats
-:PROPERTIES:
-:weight: 73.5
-:rest_hr: 46
-:END:
-*** 2013-08-09 Monday
-**** Stats
-:PROPERTIES:
-:weight: 73.6
-:rest_hr: 51
-:END:
-*** 2013-08-10 Tuesday
-**** Stats
-:PROPERTIES:
-:weight: 73.8
-:rest_hr: 46
-:END:
-*** 2013-08-11 Wednesday
-**** Stats
-:PROPERTIES:
-:weight: 73.8 
-:rest_hr: 50
-:END:
 *** 2013-09-12 Thursday
 **** Revive Flow 
      :LOGBOOK:
@@ -2312,11 +2192,6 @@ Set 4 HR: 104
 
 [2013-09-12 Thu 19:42]
 
-**** Stats
-:PROPERTIES:
-:weight: 72.7
-:rest_hr: 46
-:END:
 *** 2013-09-13 Friday
 **** Thrive Flow 
 :PROPERTIES:
@@ -2331,18 +2206,7 @@ Set 4 HR: 104
 :END:
 
 [2013-09-13 Fri 09:32]
-*** 2013-09-14 Saturday
-**** Stats
-:PROPERTIES:
-:weight: 73.2
-:rest_hr: 47
-:END:
 *** 2013-09-15 Sunday
-**** Stats
-:PROPERTIES:
-:weight: 72.8
-:rest_hr: 49
-:END:
 **** Revive Flow
 :PROPERTIES:
 :Type: Mobility
@@ -2357,11 +2221,6 @@ Set 4 HR: 104
 
 [2013-09-15 Sun 09:34]
 *** 2013-09-16 Monday
-**** Stats
-:PROPERTIES:
-:weight: 73.9
-:rest_hr: 47
-:END:
 **** Thrive Flow 
      :LOGBOOK:
      CLOCK: [2013-09-16 Mon 15:55]--[2013-09-16 Mon 17:10] =>  1:15
@@ -2379,11 +2238,6 @@ Set 4 HR: 104
 
 [2013-09-16 Mon 13:57]
 *** 2013-09-17 Tuesday
-**** Stats
-:PROPERTIES:
-:weight: 73.6
-:rest_hr: 51
-:END:
 **** Flow Physique [20/10x6+60]6 
      :LOGBOOK:
      CLOCK: [2013-09-17 Tue 14:25]--[2013-09-17 Tue 15:20] =>  0:55
@@ -2420,11 +2274,6 @@ Set 4 HR: 104
 |                   |           |   |   |   |   |   |   |   |   0 |     |   |   |   |
        #+TBLFM: $10=vmin($2..$9)::@9$2=vmean(@2$11..@7$11)::@10$2=vsum(@2$10..@7$10)::@11$2=vmean(@2$12..@7$12)::@12$2=vmean(@2$13..@7$13)::@13$2=vmean(@2$14..@7$14)
 *** 2013-09-18 Wednesday
-**** Stats
-:PROPERTIES:
-:weight: 73.5
-:rest_hr: 45
-:END:
 **** Flow Physique [20/12x8+60]6 
      :LOGBOOK:
      CLOCK: [2013-09-18 Wed 17:20]--[2013-09-18 Wed 18:25] =>  1:05
@@ -2461,11 +2310,6 @@ Set 4 HR: 104
 |                   |           |   |   |   |   |   |   |   |     |     |   |   |   |
        #+TBLFM: @9$2=vmean(@2$11..@7$11)::@10$2=vsum(@2$10..@7$10)::@11$2=vmean(@2$12..@7$12)::@12$2=vmean(@2$13..@7$13)::@13$2=vmean(@2$14..@7$14)
 *** 2013-09-20 Friday
-**** Stats
-:PROPERTIES:
-:weight: 73.1
-:rest_hr: 49
-:END:
 **** Thrive Flow 
 :PROPERTIES:
 :Type: Compensation
@@ -2479,30 +2323,7 @@ Set 4 HR: 104
 :END:
 
 [2013-09-20 Fri 10:23]
-*** 2013-09-21 Saturday
-**** Stats
-:PROPERTIES:
-:weight: 72.3
-:rest_hr: 47
-:END:
-*** 2013-09-22 Sunday
-**** Stats
-:PROPERTIES:
-:weight: 74.0
-:rest_hr: 51
-:END:
-*** 2013-09-23 Monday
-**** Stats
-:PROPERTIES:
-:weight: 73.7
-:rest_hr: 51
-:END:
 *** 2013-09-24 Tuesday
-**** Stats
-:PROPERTIES:
-:weight: 73.7
-:rest_hr: 49
-:END:
 **** Flow Physique [20/12x8+60]6 
      :LOGBOOK:
      CLOCK: [2013-09-24 Tue 15:45]--[2013-09-24 Tue 16:55] =>  1:10
@@ -2536,9 +2357,3 @@ Set 4 HR: 104
 | Disc              | 3.1666667 |   |   |   |   |   |   |   |     |     |   |   |   |
 |                   |           |   |   |   |   |   |   |   |     |     |   |   |   |
        #+TBLFM: @9$2=vmean(@2$11..@7$11)::@10$2=vsum(@2$10..@7$10)::@11$2=vmean(@2$12..@7$12)::@12$2=vmean(@2$13..@7$13)::@13$2=vmean(@2$14..@7$14)
-*** 2013-09-25 Wednesday
-**** Stats
-:PROPERTIES:
-:weight: 73.5
-:rest_hr: 46
-:END:
