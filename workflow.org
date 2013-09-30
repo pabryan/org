@@ -474,7 +474,7 @@ If I'm working on a project, I want an agenda view showing me just that project.
 [2013-08-01 Thu 20:05]
 http://plantuml.sourceforge.net/
 
-*** TODO Refile should also get entries from from-mobile.org
+*** TODO from-mobile.org entries in agenda
   SCHEDULED: <2013-09-29 Sun>
     :PROPERTIES:
     :ID:       5362b152-822b-455d-a894-47dafbe9489f
@@ -532,11 +532,12 @@ Do I make a different TODO keyword for more trying out things/open ended type re
     :END:
 - This is just the ordinary diff with headlines thought of as files/directories (which can contain content and also other files which is slightly different to the filesystem). Recursing is just recursing headlines and reports can say things like "Headlines A and B differ" and we can show differences in contents of headlines.
 *** TODO Org calendar to google calendar
-  SCHEDULED: <2013-09-29 Sun>
+  SCHEDULED: <2013-10-27 Sun>
   :PROPERTIES:
   :ID:       00fc3ef7-df16-48c3-8fa3-f5b16e6c10d2
   :END:
 [2013-09-03 Tue 21:27]
+http://orgmode.org/worg/org-tutorials/org-google-sync.html
 *** TODO Focus agenda view should show next tasks for project?
   SCHEDULED: <2013-09-29 Sun>
   :LOGBOOK:
