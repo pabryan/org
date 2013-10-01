@@ -5768,6 +5768,9 @@ Lectures in calendar and tasks like planning lectures.
 	 :ID:       e5ec6159-ad2f-44d9-9942-33b3aa1c1737
 	 :END:
 ********* NEXT Write Midterm 1
+	  :LOGBOOK:
+	  CLOCK: [2013-09-30 Mon 20:45]--[2013-09-30 Mon 21:09] =>  0:24
+	  :END:
 	  :PROPERTIES:
 	  :ID:       2fd83b03-88e2-4a45-80fb-f737e39b0e02
 	  :END:
