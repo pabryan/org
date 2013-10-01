@@ -275,8 +275,11 @@ I want to put the details of the course in to org - probably using property draw
       :END:
 http://www.math.ucsd.edu/~jeggers/Archive/2012Spring/Math142B/calendar.html
 http://www.w3schools.com/css/tryit.asp?filename=trycss_table_fancy
-**** TODO Change exam schedule
+**** NEXT Change exam schedule
   SCHEDULED: <2013-10-01 Tue>
+  :LOGBOOK:
+  CLOCK: [2013-10-01 Tue 11:06]  
+  :END:
   :PROPERTIES:
   :ID:       10ea46ac-5cbf-4582-842c-284862d041af
   :END:
@@ -5441,6 +5444,7 @@ Lectures in calendar and tasks like planning lectures.
 ********* NEXT Prepare Lecture 1.2
 	  DEADLINE: <2013-10-02 Wed>
 	  :LOGBOOK:
+	  CLOCK: [2013-10-01 Tue 10:50]--[2013-10-01 Tue 11:05] =>  0:15
 	  CLOCK: [2013-09-30 Mon 13:40]--[2013-09-30 Mon 14:23] =>  0:43
 	  :END:
 	  :PROPERTIES:
