@@ -2357,3 +2357,17 @@ Set 4 HR: 104
 | Disc              | 3.1666667 |   |   |   |   |   |   |   |     |     |   |   |   |
 |                   |           |   |   |   |   |   |   |   |     |     |   |   |   |
        #+TBLFM: @9$2=vmean(@2$11..@7$11)::@10$2=vsum(@2$10..@7$10)::@11$2=vmean(@2$12..@7$12)::@12$2=vmean(@2$13..@7$13)::@13$2=vmean(@2$14..@7$14)
+*** 2013-09-30 Monday
+**** Revive Flow 
+:PROPERTIES:
+:Type: Mobility
+:Intensity: None
+:RestHR: 60
+:FinalHR: 68
+:Score:
+:Technique:
+:Effort:
+:Discomfort:
+:END:
+
+[2013-09-30 Mon 21:23]

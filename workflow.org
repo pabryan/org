@@ -1531,6 +1531,7 @@ I have mythtv and mediatomb and who knows what else using up valuable resources.
   :END:
 ** Organisation
   :LOGBOOK:
+  CLOCK: [2013-09-30 Mon 21:29]
   CLOCK: [2013-09-30 Mon 21:11]--[2013-09-30 Mon 21:12] =>  0:01
   CLOCK: [2013-09-30 Mon 21:09]--[2013-09-30 Mon 21:11] =>  0:02
   CLOCK: [2013-09-30 Mon 14:25]--[2013-09-30 Mon 14:26] =>  0:01
@@ -2307,10 +2308,15 @@ Set some goals for the month. I should check someday projects for inclusion in t
 *** Monthly Review
 Check how I did last month. I guess the review and plan could probably go together. This is all broad stuff
 
-** NEXT Daily Review [0/6]
+** DONE Daily Review [0/6]
    SCHEDULED: <2013-09-26 Thu .+1d/2d>
    :LOGBOOK:
-   CLOCK: [2013-09-30 Mon 21:12]
+   - State "DONE"       from "NEXT"       [2013-09-30 Mon 21:29]
+   CLOCK: [2013-09-30 Mon 21:24]--[2013-09-30 Mon 21:29] =>  0:05
+   CLOCK: [2013-09-30 Mon 21:23]--[2013-09-30 Mon 21:24] =>  0:01
+   CLOCK: [2013-09-30 Mon 21:22]--[2013-09-30 Mon 21:23] =>  0:01
+   CLOCK: [2013-09-30 Mon 21:16]--[2013-09-30 Mon 21:22] =>  0:06
+   CLOCK: [2013-09-30 Mon 21:12]--[2013-09-30 Mon 21:15] =>  0:03
    - State "DONE"       from "NEXT"       [2013-09-25 Wed 20:51]
    CLOCK: [2013-09-25 Wed 20:06]--[2013-09-25 Wed 20:07] =>  0:01
    CLOCK: [2013-09-25 Wed 19:43]--[2013-09-25 Wed 20:04] =>  0:21
