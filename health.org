@@ -7,7 +7,7 @@
   :END:
 
 ** Tracking
-*** NEXT Exercise
+*** DONE Exercise
     SCHEDULED: <2013-09-27 Fri .+1d/2d>
     :PROPERTIES:
     :STYLE:    habit
@@ -16,6 +16,7 @@
     :LAST_REPEAT: [2013-09-26 Thu 19:40]
     :END:
     :LOGBOOK:
+    - State "DONE"       from "NEXT"       [2013-09-30 Mon 20:56]
     - State "DONE"       from "NEXT"       [2013-09-26 Thu 19:40]
     - State "DONE"       from "NEXT"       [2013-09-23 Mon 20:56]
     - State "DONE"       from "NEXT"       [2013-09-21 Sat 17:20]
@@ -194,9 +195,10 @@
     - State "DONE"       from "NEXT"       [2013-03-11 Mon 21:23]
     - State "DONE"       from "NEXT"       [2013-03-09 Sat 11:10]
     :END:
-*** NEXT Morning Mobility
+*** DONE Morning Mobility
     SCHEDULED: <2013-09-29 Sun .+1d/2d>
     :LOGBOOK:
+    - State "DONE"       from "NEXT"       [2013-09-30 Mon 20:56]
     - State "DONE"       from "NEXT"       [2013-09-28 Sat 16:06]
     - State "DONE"       from "NEXT"       [2013-09-27 Fri 18:36]
     - State "DONE"       from "NEXT"       [2013-09-26 Thu 19:40]
@@ -417,9 +419,10 @@
     :LAST_REPEAT: [2013-09-28 Sat 16:06]
     :END:
 
-*** NEXT Afternoon Relax
+*** DONE Afternoon Relax
     SCHEDULED: <2013-09-29 Sun .+1d/2d>
     :LOGBOOK:
+    - State "DONE"       from "NEXT"       [2013-09-30 Mon 20:56]
     - State "DONE"       from "NEXT"       [2013-09-28 Sat 16:39]
     - State "DONE"       from "NEXT"       [2013-09-27 Fri 18:36]
     - State "DONE"       from "NEXT"       [2013-09-17 Tue 22:01]
