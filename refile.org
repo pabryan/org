@@ -18,13 +18,6 @@ Remove sidebar
   :END:
 [2013-09-30 Mon 21:15]
 Add goals to agenda to remind myself each day. E.g. work, diet, exercise, general things like be patient, don't over-explain things etc.
-* TODO Change exam schedule
-  SCHEDULED: <2013-10-01 Tue>
-  :PROPERTIES:
-  :ID:       10ea46ac-5cbf-4582-842c-284862d041af
-  :END:
-[2013-09-30 Mon 21:22]
-Make homework due on Friday and have exam on Monday.
 * TODO Course announcements
   :PROPERTIES:
   :ID:       9e7a5c58-45a7-4595-8a0d-e2765a9cf466
@@ -33,4 +26,6 @@ Make homework due on Friday and have exam on Monday.
 - updated calendar
 - solns to homework posted on TA's (ali) website
 - How to access online study center
-
+* TODO Setup some agenda filter macros
+[2013-10-01 Tue 10:23]
+want to hit a key so that only work tasks are shown or only personal/family tasks are shown

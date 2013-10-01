@@ -275,6 +275,13 @@ I want to put the details of the course in to org - probably using property draw
       :END:
 http://www.math.ucsd.edu/~jeggers/Archive/2012Spring/Math142B/calendar.html
 http://www.w3schools.com/css/tryit.asp?filename=trycss_table_fancy
+**** TODO Change exam schedule
+  SCHEDULED: <2013-10-01 Tue>
+  :PROPERTIES:
+  :ID:       10ea46ac-5cbf-4582-842c-284862d041af
+  :END:
+[2013-09-30 Mon 21:22]
+Make homework due on Friday and have exam on Monday.
 *** Template 					      		    :SOMEDAY:
 [[file:~/working/ucsd/teaching/<code>_<quarter]]
 ***** Notes
