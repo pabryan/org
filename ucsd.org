@@ -5332,18 +5332,22 @@ Lectures in calendar and tasks like planning lectures.
 	 :ID:       36384028-bda1-49cb-befc-2728178109cd
 	 :END:
 ********* NEXT Write Midterm 1
+	  DEADLINE: <2013-10-14 Mon -14d>
 	  :PROPERTIES:
 	  :ID:       ec1c52a0-a42e-4a69-a8f3-035ef7e000d1
 	  :END:
 ********* TODO Get TA's comments
+	  DEADLINE: <2013-10-21 Mon>
 	  :PROPERTIES:
 	  :ID:       dc5a216b-9a25-465d-815b-aa55b4a6098b
 	  :END:
 ********* TODO Submit midterm to printing/frdesk
+	  DEADLINE: <2013-10-23 Wed>
 	  :PROPERTIES:
 	  :ID:       c290c585-2b28-4ffe-99ab-5473db810675
 	  :END:
 ********* TODO Write MT 1 solutions
+	  DEADLINE: <2013-11-01 Fri>
 	  :PROPERTIES:
 	  :ID:       4a9c52b1-453d-4b5d-a6da-e956c016980b
 	  :END:
@@ -5352,18 +5356,22 @@ Lectures in calendar and tasks like planning lectures.
 	 :ID:       21366f1f-d0b3-46e9-89f4-9f33338d464f
 	 :END:
 ********* NEXT Write Midterm 2
+	  DEADLINE: <2013-11-11 Mon -14d>
 	  :PROPERTIES:
 	  :ID:       dbec2c66-fb39-495d-ba6c-556d17d76141
 	  :END:
 ********* TODO Get TA's comments
+	  DEADLINE: <2013-11-18 Mon>
 	  :PROPERTIES:
 	  :ID:       690e7a7a-13ca-47c4-bf6d-5e570c0b4363
 	  :END:
 ********* TODO Submit midterm to printing/frdesk
+	  DEADLINE: <2013-11-20 Wed>
 	  :PROPERTIES:
 	  :ID:       fa82d754-e847-4942-a97c-7e49ad3b00f2
 	  :END:
 ********* TODO Write MT2 solutions
+	  DEADLINE: <2013-11-29 Fri>
 	  :PROPERTIES:
 	  :ID:       ac681c44-6ba2-459f-bd81-82106d2263e1
 	  :END:
@@ -5372,39 +5380,39 @@ Lectures in calendar and tasks like planning lectures.
 	 :ID:       193ffe7c-c413-41f2-9b16-64928358c053
 	 :END:
 ********* NEXT Write Final
+	  DEADLINE: <2013-11-27 Wed -14d>
 	  :PROPERTIES:
 	  :ID:       9d9d60a7-9ba7-4df3-aa2b-1261ac960b66
 	  :END:
 ********* TODO Get TA's comments
+	  DEADLINE: <2013-12-04 Wed>
 	  :PROPERTIES:
 	  :ID:       543ac8e6-b366-4ea3-8598-1751d529ab17
 	  :END:
 ********* TODO Submit to printing/frdesk
+	  DEADLINE: <2013-12-06 Fri>
 	  :PROPERTIES:
 	  :ID:       3336f694-b673-4c6c-8a37-935a3920d638
 	  :END:
-********* CANCELLED Write final solutions
-	 :LOGBOOK:
-	 - State "CANCELLED"  from "TODO"       [2013-09-03 Tue 10:43] \\
-	   No point!
-	 :END:
-	:PROPERTIES:
-	:ID:       080b484f-d512-4e33-b05c-e7ae72310396
-	:END:
-[2013-08-23 Fri 09:51]
 ******* TODO Homework
 	:PROPERTIES:
 	:ID:       74f03390-084e-4dd5-ac5d-1b800439f200
 	:END:
-******** NEXT Write Homework 1
+******** DONE Write Homework 1
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2013-10-01 Tue 20:46]
+	 :END:
 	 :PROPERTIES:
 	 :ID:       68885237-bf3e-4be6-9291-2ca718884441
 	 :END:
-******** TODO Write Homework 2
+******** DONE Write Homework 2
+	 :LOGBOOK:
+	 - State "DONE"       from "TODO"       [2013-10-01 Tue 20:46]
+	 :END:
 	 :PROPERTIES:
 	 :ID:       77ecaf89-6c7c-4256-b9ba-63ad8557e345
 	 :END:
-******** TODO Write Homework 3
+******** NEXT Write Homework 3
 	 :PROPERTIES:
 	 :ID:       fa667c39-0e7e-4f28-b69a-247044d6593e
 	 :END:
@@ -5786,6 +5794,7 @@ Lectures in calendar and tasks like planning lectures.
 	 :ID:       e5ec6159-ad2f-44d9-9942-33b3aa1c1737
 	 :END:
 ********* NEXT Write Midterm 1
+	  DEADLINE: <2013-10-07 Mon -14d>
 	  :LOGBOOK:
 	  CLOCK: [2013-09-30 Mon 20:45]--[2013-09-30 Mon 21:09] =>  0:24
 	  :END:
@@ -5793,14 +5802,17 @@ Lectures in calendar and tasks like planning lectures.
 	  :ID:       2fd83b03-88e2-4a45-80fb-f737e39b0e02
 	  :END:
 ********* TODO Get TA's comments
+	  DEADLINE: <2013-10-14 Mon>
 	  :PROPERTIES:
 	  :ID:       1629e97e-d437-41a6-b29b-e9f0563946dd
 	  :END:
 ********* TODO Submit midterm to printing/frdesk
+	  DEADLINE: <2013-10-16 Wed>
 	  :PROPERTIES:
 	  :ID:       475f5af7-5988-475b-9eaf-41bfea0ccc35
 	  :END:
 ********* TODO Write MT 1 solutions
+	  DEADLINE: <2013-10-27 Sun>
 	  :PROPERTIES:
 	  :ID:       69bcf73d-ef6e-4414-a094-4ffe6ac23768
 	  :END:
@@ -5809,18 +5821,22 @@ Lectures in calendar and tasks like planning lectures.
 	 :ID:       c8d63808-39f5-4dc8-ade9-e2c8ed92df6d
 	 :END:
 ********* NEXT Write Midterm 2
+	  DEADLINE: <2013-11-04 Mon -14d>
 	  :PROPERTIES:
 	  :ID:       4408d76e-1793-4532-b380-df3653c46537
 	  :END:
 ********* TODO Get TA's comments
+	  DEADLINE: <2013-11-11 Mon>
 	  :PROPERTIES:
 	  :ID:       149a5fdb-70c4-4fc4-85c5-a18e81fefd62
 	  :END:
 ********* TODO Submit midterm to printing/frdesk
+	  DEADLINE: <2013-11-13 Wed>
 	  :PROPERTIES:
 	  :ID:       a76e3840-e42d-41a6-afd1-bd72f742998e
 	  :END:
 ********* TODO Write MT2 solutions
+	  DEADLINE: <2013-11-22 Fri>
 	  :PROPERTIES:
 	  :ID:       a11fb536-5a7d-4de1-86e7-f85dc61ef9e1
 	  :END:
@@ -5829,26 +5845,20 @@ Lectures in calendar and tasks like planning lectures.
 	 :ID:       caf6b905-f68d-4bfd-bfef-f196abee52ba
 	 :END:
 ********* NEXT Write Final
+	  DEADLINE: <2013-11-27 Wed -14d>
 	  :PROPERTIES:
 	  :ID:       7f9d13da-1e61-48f1-98c9-890d035716f7
 	  :END:
 ********* TODO Get TA's comments
+	  DEADLINE: <2013-12-04 Wed>
 	  :PROPERTIES:
 	  :ID:       4e9247f6-a5de-4483-8def-e9a9135050a1
 	  :END:
 ********* TODO Submit to printing/frdesk
+	  DEADLINE: <2013-12-06 Fri>
 	  :PROPERTIES:
 	  :ID:       a0c1dafa-7ccd-47cc-a3f0-0a10cce20a91
 	  :END:
-********* CANCELLED Write final solutions
-	 :LOGBOOK:
-	 - State "CANCELLED"  from "TODO"       [2013-09-03 Tue 10:43] \\
-	   No point!
-	 :END:
-	:PROPERTIES:
-	:ID:       080b484f-d512-4e33-b05c-e7ae72310396
-	:END:
-[2013-08-23 Fri 09:51]
 ******* DONE Homework
 	:LOGBOOK:
 	- State "DONE"       from "TODO"       [2013-09-28 Sat 16:08]
