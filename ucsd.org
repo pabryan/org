@@ -5686,6 +5686,9 @@ WLH 2208
 	  :LOGBOOK:
 	  CLOCK: [2013-10-02 Wed 09:55]--[2013-10-02 Wed 11:10] =>  1:15
 	  :END:
+	  :PROPERTIES:
+	  :ID:       50883189-eaca-404b-9781-275baa778942
+	  :END:
 	  <2013-10-02 Wed 10:00-11:00>
 
 ********* Lecture 2.2
@@ -5796,9 +5799,11 @@ Lectures in calendar and tasks like planning lectures.
 	 :PROPERTIES:
 	 :ID:       e5ec6159-ad2f-44d9-9942-33b3aa1c1737
 	 :END:
-********* NEXT Write Midterm 1
+********* DONE Write Midterm 1
 	  DEADLINE: <2013-10-07 Mon -14d>
 	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2013-10-02 Wed 13:17]
+	  CLOCK: [2013-10-02 Wed 12:20]--[2013-10-02 Wed 13:17] =>  0:57
 	  CLOCK: [2013-09-30 Mon 20:45]--[2013-09-30 Mon 21:09] =>  0:24
 	  :END:
 	  :PROPERTIES:
@@ -6205,6 +6210,9 @@ CENTR 101
 ********* Lecture 1.2
 	  :LOGBOOK:
 	  CLOCK: [2013-10-02 Wed 08:45]--[2013-10-02 Wed 09:55] =>  1:10
+	  :END:
+	  :PROPERTIES:
+	  :ID:       669d5d3e-2a25-4596-a1f1-59734f6dc173
 	  :END:
 <2013-10-02 Wed 09:00-10:00>
 ********* Lecture 2.2
