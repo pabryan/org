@@ -5683,6 +5683,9 @@ WLH 2208
 <2013-12-02 Mon 10:00-11:00>
 ******** Wed
 ********* Lecture 1.2
+	  :LOGBOOK:
+	  CLOCK: [2013-10-02 Wed 09:55]--[2013-10-02 Wed 11:10] =>  1:15
+	  :END:
 	  <2013-10-02 Wed 10:00-11:00>
 
 ********* Lecture 2.2
@@ -5751,9 +5754,6 @@ TBA
 ******** Homework 5 Due
 
 ***** TODO Math20B						    :MATH20B:
-      :LOGBOOK:
-      CLOCK: [2013-10-02 Wed 12:09]
-      :END:
       :PROPERTIES:
       :ID:       d723ae88-2203-4094-af9c-9312bd092184
       :END:
@@ -6167,6 +6167,9 @@ Lectures in calendar and tasks like planning lectures.
 ****** Clocking
 ******* Admin
 ******* Office hours
+	:LOGBOOK:
+	CLOCK: [2013-10-02 Wed 11:10]--[2013-10-02 Wed 12:09] =>  0:59
+	:END:
 ****** Schedule
 ******* Lectures
 ******** Location
