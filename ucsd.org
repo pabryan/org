@@ -5328,13 +5328,17 @@ Lectures in calendar and tasks like planning lectures.
 	 :ID:       9aa4cdcd-1e06-4c81-b453-ef683304c038
 	 :END:
 ******** TODO Midterm 1
+	 :LOGBOOK:
+	 CLOCK: [2013-10-03 Thu 13:56]--[2013-10-03 Thu 13:57] =>  0:01
+	 :END:
 	 :PROPERTIES:
 	 :ID:       36384028-bda1-49cb-befc-2728178109cd
 	 :END:
-********* NEXT Write Midterm 1
+********* DONE Write Midterm 1
 	  DEADLINE: <2013-10-14 Mon -14d>
 	  :LOGBOOK:
-	  CLOCK: [2013-10-03 Thu 13:11]
+	  - State "DONE"       from "NEXT"       [2013-10-03 Thu 13:56]
+	  CLOCK: [2013-10-03 Thu 13:11]--[2013-10-03 Thu 13:56] =>  0:45
 	  :END:
 	  :PROPERTIES:
 	  :ID:       ec1c52a0-a42e-4a69-a8f3-035ef7e000d1
