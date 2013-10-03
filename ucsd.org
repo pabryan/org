@@ -5440,7 +5440,7 @@ Lectures in calendar and tasks like planning lectures.
 	 :END:
 ******** TODO Prepare Lectures
 	 :LOGBOOK:
-	 CLOCK: [2013-10-03 Thu 11:28]
+	 CLOCK: [2013-10-03 Thu 11:28]--[2013-10-03 Thu 11:32] =>  0:04
 	 :END:
 	 :PROPERTIES:
 	 :ID:       f0b65695-b765-4fec-a9cd-5dd82cc9ae24
@@ -6405,10 +6405,12 @@ See Holding email.
   :PROPERTIES:
   :ID:       4a7b50f0-8368-4d3a-bc5d-c0e229fd442f
   :END:
-** HOLD UCSD DG Seminar   
+** TODO UCSD DG Seminar   
    - State "HOLD"       from "TODO"       [2013-04-05 Fri 16:38] \\
      No speakers at the moment
    :LOGBOOK:
+   CLOCK: [2013-10-03 Thu 09:50]--[2013-10-03 Thu 11:12] =>  1:25
+   - State "TODO"       from "HOLD"       [2013-10-03 Thu 11:32]
    CLOCK: [2013-02-21 Thu 09:50]--[2013-02-21 Thu 11:20] =>  1:30
    CLOCK: [2013-01-17 Thu 09:50]--[2013-01-17 Thu 11:05] =>  1:15
    CLOCK: [2013-01-10 Thu 15:00]--[2013-01-10 Thu 16:20] =>  1:20
@@ -6518,6 +6520,8 @@ homeomorphic to S^4 or to a connected sum of CP^2s.
   CLOCK: [2012-10-26 Fri 15:07]--[2012-10-26 Fri 15:08] =>  0:01
 [2012-10-26 Fri 15:07]
 **** TODO Send DG seminar email announcement
+     DEADLINE: <2013-10-10 Thu +1w>
+     
     - State "HOLD"       from "NEXT"       [2013-03-29 Fri 10:43] \\
       Lei and I will do an informal seminar instead.
     - State "DONE"       from "NEXT"       [2013-02-25 Mon 11:25]
