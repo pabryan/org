@@ -5333,6 +5333,9 @@ Lectures in calendar and tasks like planning lectures.
 	 :END:
 ********* NEXT Write Midterm 1
 	  DEADLINE: <2013-10-14 Mon -14d>
+	  :LOGBOOK:
+	  CLOCK: [2013-10-03 Thu 13:11]
+	  :END:
 	  :PROPERTIES:
 	  :ID:       ec1c52a0-a42e-4a69-a8f3-035ef7e000d1
 	  :END:
@@ -5987,12 +5990,16 @@ Lectures in calendar and tasks like planning lectures.
 	  :PROPERTIES:
 	  :ID:       50879575-8e7b-436c-821d-6ef4baa3a7b6
 	  :END:
-********* TODO Prepare Lecture 1.3
+********* DONE Prepare Lecture 1.3
 	  DEADLINE: <2013-10-04 Fri>
+	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2013-10-03 Thu 13:11]
+	  CLOCK: [2013-10-03 Thu 12:58]--[2013-10-03 Thu 13:11] =>  0:13
+	  :END:
 	  :PROPERTIES:
 	  :ID:       939758d8-1c82-4875-a871-349649468f9d
 	  :END:
-********* TODO Prepare Lecture 2.1
+********* NEXT Prepare Lecture 2.1
 	  DEADLINE: <2013-10-07 Mon>
 	  :PROPERTIES:
 	  :ID:       32268fe2-2fd4-46f0-b809-43a9fb585334
