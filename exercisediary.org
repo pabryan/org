@@ -2371,3 +2371,38 @@ Set 4 HR: 104
 :END:
 
 [2013-09-30 Mon 21:23]
+** 2013-10 October
+*** 2013-10-01 Tuesday
+**** Thrive Flow 
+     :LOGBOOK:
+     CLOCK: [2013-10-01 Tue 19:00]--[2013-10-01 Tue 19:25] =>  0:25
+     :END:
+:PROPERTIES:
+:Type: Compensation
+:Intensity: Low
+:RestHR: 68
+:FinalHR: 64
+:Score:
+:Technique:
+:Effort:
+:Discomfort:
+:END:
+
+[2013-10-01 Tue 20:22]
+*** 2013-10-02 Wednesday
+**** Thrive Flow 
+     :LOGBOOK:
+     CLOCK: [2013-10-02 Wed 16:40]--[2013-10-02 Wed 17:30] =>  0:50
+     :END:
+:PROPERTIES:
+:Type: Compensation
+:Intensity: Low
+:RestHR: 60
+:FinalHR:
+:Score:
+:Technique:
+:Effort:
+:Discomfort:
+:END:
+
+[2013-10-02 Wed 20:24]
