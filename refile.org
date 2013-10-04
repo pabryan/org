@@ -31,3 +31,10 @@ Add goals to agenda to remind myself each day. E.g. work, diet, exercise, genera
   :END:
 [2013-10-01 Tue 10:23]
 want to hit a key so that only work tasks are shown or only personal/family tasks are shown
+* TODO Get personal desktop launcher files in VC
+  SCHEDULED: <2013-10-04 Fri>
+  :LOGBOOK:
+  CLOCK: [2013-10-04 Fri 11:34]--[2013-10-04 Fri 11:35] =>  0:01
+  :END:
+[2013-10-04 Fri 11:34]
+- I want to add a launcher to my panel for custom cmds and already have a launcher written, but can't access it from work. Putting it in VC will solve that problem.
