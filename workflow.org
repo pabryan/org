@@ -1531,6 +1531,8 @@ I have mythtv and mediatomb and who knows what else using up valuable resources.
   :END:
 ** Organisation
   :LOGBOOK:
+  CLOCK: [2013-10-04 Fri 11:21]
+  CLOCK: [2013-10-04 Fri 11:12]--[2013-10-04 Fri 11:14] =>  0:02
   CLOCK: [2013-10-03 Thu 12:57]--[2013-10-03 Thu 12:58] =>  0:01
   CLOCK: [2013-10-03 Thu 11:32]--[2013-10-03 Thu 11:45] =>  0:13
   CLOCK: [2013-10-03 Thu 11:12]--[2013-10-03 Thu 11:13] =>  0:01
@@ -2484,6 +2486,7 @@ When I set up scoring the day:
 ** NEXT Daily Plan [0/3]
    SCHEDULED: <2013-10-04 Fri .+1d/2d>
    :LOGBOOK:
+   CLOCK: [2013-10-04 Fri 11:10]--[2013-10-04 Fri 11:11] =>  0:01
    - State "DONE"       from "NEXT"       [2013-10-03 Thu 11:16]
    CLOCK: [2013-10-03 Thu 11:13]--[2013-10-03 Thu 11:16] =>  0:03
    - State "DONE"       from "NEXT"       [2013-10-02 Wed 19:56]

@@ -5823,10 +5823,19 @@ Lectures in calendar and tasks like planning lectures.
 	  :PROPERTIES:
 	  :ID:       2fd83b03-88e2-4a45-80fb-f737e39b0e02
 	  :END:
-********* TODO Get TA's comments
+********* WAITING Get TA's comments
 	  DEADLINE: <2013-10-14 Mon>
+	  :LOGBOOK:
+	  - State "WAITING"    from "NEXT"       [2013-10-04 Fri 11:14] \\
+	    Waiting for comments from one TA.
+	  :END:
 	  :PROPERTIES:
 	  :ID:       1629e97e-d437-41a6-b29b-e9f0563946dd
+	  :END:
+********* NEXT Update exam based on comments
+	  DEADLINE: <2013-10-16 Wed>
+	  :LOGBOOK:
+	  CLOCK: [2013-10-04 Fri 11:14]--[2013-10-04 Fri 11:21] =>  0:07
 	  :END:
 ********* TODO Submit midterm to printing/frdesk
 	  DEADLINE: <2013-10-16 Wed>
@@ -6191,6 +6200,7 @@ Lectures in calendar and tasks like planning lectures.
 ******* Admin
 ******* Office hours
 	:LOGBOOK:
+	CLOCK: [2013-10-04 Fri 11:11]--[2013-10-04 Fri 11:12] =>  0:01
 	CLOCK: [2013-10-02 Wed 11:10]--[2013-10-02 Wed 12:09] =>  0:59
 	:END:
 ****** Schedule
