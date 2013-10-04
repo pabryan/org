@@ -286,6 +286,9 @@ http://www.w3schools.com/css/tryit.asp?filename=trycss_table_fancy
   :END:
 [2013-09-30 Mon 21:22]
 Make homework due on Friday and have exam on Monday.
+**** TODO Post previous exams
+  DEADLINE: <2013-10-06 Sun>
+[2013-10-04 Fri 12:54]
 *** Template 					      		    :SOMEDAY:
 [[file:~/working/ucsd/teaching/<code>_<quarter]]
 ***** Notes
@@ -5323,7 +5326,10 @@ Lectures in calendar and tasks like planning lectures.
 	:PROPERTIES:
 	:ID:       dc3f421f-552e-4893-a52d-05667e91b094
 	:END:
-******** NEXT Create Exam Schedule
+******** DONE Create Exam Schedule
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2013-10-04 Fri 12:44]
+	 :END:
 	 :PROPERTIES:
 	 :ID:       9aa4cdcd-1e06-4c81-b453-ef683304c038
 	 :END:
@@ -5343,12 +5349,21 @@ Lectures in calendar and tasks like planning lectures.
 	  :PROPERTIES:
 	  :ID:       ec1c52a0-a42e-4a69-a8f3-035ef7e000d1
 	  :END:
-********* TODO Get TA's comments
+********* DONE Get TA's comments
 	  DEADLINE: <2013-10-21 Mon>
+	  :LOGBOOK:
+	  - State "DONE"       from "TODO"       [2013-10-04 Fri 12:44]
+	  :END:
 	  :PROPERTIES:
 	  :ID:       dc5a216b-9a25-465d-815b-aa55b4a6098b
 	  :END:
-********* TODO Submit midterm to printing/frdesk
+********* DONE Update exam based on TA's comments
+	  DEADLINE: <2013-10-23 Wed>
+	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2013-10-04 Fri 12:51]
+	  CLOCK: [2013-10-04 Fri 12:46]--[2013-10-04 Fri 12:51] =>  0:05
+	  :END:
+********* NEXT Submit midterm to printing/frdesk
 	  DEADLINE: <2013-10-23 Wed>
 	  :PROPERTIES:
 	  :ID:       c290c585-2b28-4ffe-99ab-5473db810675
@@ -5372,6 +5387,8 @@ Lectures in calendar and tasks like planning lectures.
 	  :PROPERTIES:
 	  :ID:       690e7a7a-13ca-47c4-bf6d-5e570c0b4363
 	  :END:
+********* TODO Update exam based on TA's comments
+	  DEADLINE: <2013-11-20 Wed>
 ********* TODO Submit midterm to printing/frdesk
 	  DEADLINE: <2013-11-20 Wed>
 	  :PROPERTIES:
@@ -5396,6 +5413,8 @@ Lectures in calendar and tasks like planning lectures.
 	  :PROPERTIES:
 	  :ID:       543ac8e6-b366-4ea3-8598-1751d529ab17
 	  :END:
+********* TODO Update exam based on TA's comments
+	  DEADLINE: <2013-12-06 Fri>
 ********* TODO Submit to printing/frdesk
 	  DEADLINE: <2013-12-06 Fri>
 	  :PROPERTIES:
@@ -5447,7 +5466,7 @@ Lectures in calendar and tasks like planning lectures.
 	 :END:
 ******** TODO Prepare Lectures
 	 :LOGBOOK:
-	 CLOCK: [2013-10-04 Fri 12:35]
+	 CLOCK: [2013-10-04 Fri 12:35]--[2013-10-04 Fri 12:46] =>  0:11
 	 CLOCK: [2013-10-03 Thu 11:28]--[2013-10-03 Thu 11:32] =>  0:04
 	 :END:
 	 :PROPERTIES:
@@ -5869,6 +5888,8 @@ Lectures in calendar and tasks like planning lectures.
 	  :PROPERTIES:
 	  :ID:       149a5fdb-70c4-4fc4-85c5-a18e81fefd62
 	  :END:
+********* TODO Update exam based on TA's comments
+	  DEADLINE: <2013-11-13 Wed>
 ********* TODO Submit midterm to printing/frdesk
 	  DEADLINE: <2013-11-13 Wed>
 	  :PROPERTIES:
@@ -5893,6 +5914,8 @@ Lectures in calendar and tasks like planning lectures.
 	  :PROPERTIES:
 	  :ID:       4e9247f6-a5de-4483-8def-e9a9135050a1
 	  :END:
+********* TODO Update exam based on TA's comments
+	  DEADLINE: <2013-12-06 Fri>
 ********* TODO Submit to printing/frdesk
 	  DEADLINE: <2013-12-06 Fri>
 	  :PROPERTIES:
@@ -6022,6 +6045,9 @@ Lectures in calendar and tasks like planning lectures.
 	  :END:
 ********* NEXT Prepare Lecture 2.1
 	  DEADLINE: <2013-10-07 Mon>
+	  :LOGBOOK:
+	  CLOCK: [2013-10-04 Fri 12:54]
+	  :END:
 	  :PROPERTIES:
 	  :ID:       32268fe2-2fd4-46f0-b809-43a9fb585334
 	  :END:
