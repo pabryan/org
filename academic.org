@@ -917,6 +917,10 @@ This proves the inequality we need.  The remaining problem is to remove the symm
        	:ID:       ab49f64c-36f6-476f-9e02-b0ec9d72552f
        	:END:
 ******* NEXT Write hyperbolic stationary comparison
+	:LOGBOOK:
+	CLOCK: [2013-10-05 Sat 16:13]
+	CLOCK: [2013-10-05 Sat 14:18]--[2013-10-05 Sat 15:02] =>  0:44
+	:END:
        	:PROPERTIES:
        	:ID:       159f6804-7554-45c3-a669-13c54169356f
        	:END:
@@ -1245,7 +1249,8 @@ CONSTANT ANISOTROPIC MEAN CURVATURE
 ***** Clocking
 ****** General research
        :LOGBOOK:
-       CLOCK: [2013-10-05 Sat 13:55]
+       CLOCK: [2013-10-05 Sat 13:55]--[2013-10-05 Sat 14:18] =>  0:23
+       CLOCK: [2013-10-04 Fri 15:06]--[2013-10-04 Fri 16:20] =>  1:14
        :END:
 *** Future							    :SOMEDAY:
 **** TODO Pipe Flows						  :PIPE_FLOW:
