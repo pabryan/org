@@ -1237,6 +1237,16 @@ CONSTANT ANISOTROPIC MEAN CURVATURE
 
 ***** Refs
 [[file:~/research_resources/draftpapers/hyperbolic_130113.pdf]]
+- Papers on horospheres
+- Papers by Gallego, E. and Solanes, G.
+- Papers by Santalo
+- HOROSPHERES IN HYPERBOLIC GEOMETRY (E. GALLEGO, A. REVENTOS, G. SOLANES, AND E. TEUFEL
+)
+***** Clocking
+****** General research
+       :LOGBOOK:
+       CLOCK: [2013-10-05 Sat 13:55]
+       :END:
 *** Future							    :SOMEDAY:
 **** TODO Pipe Flows						  :PIPE_FLOW:
    :PROPERTIES:
@@ -2651,7 +2661,7 @@ MR2948294
 ** Brett Kotshcwar
 *** Discuss hyper-surface flows and support functions
     :LOGBOOK:
-    CLOCK: [2013-10-04 Fri 13:56]
+    CLOCK: [2013-10-04 Fri 13:56]--[2013-10-04 Fri 15:06] =>  1:10
     :END:
 * Notes
   :PROPERTIES:
