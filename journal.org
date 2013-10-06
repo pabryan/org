@@ -2156,3 +2156,9 @@ Also mapmyrun has a journal thing that I could use as a template.
      CLOCK: [2013-10-05 Sat 15:02]--[2013-10-05 Sat 16:13] =>  1:11
      :END:
 [2013-10-05 Sat 15:02]
+**** Dinner
+     :LOGBOOK:
+     CLOCK: [2013-10-05 Sat 19:51]
+     :END:
+[2013-10-05 Sat 19:51]
+
