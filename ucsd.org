@@ -5517,8 +5517,11 @@ Lectures in calendar and tasks like planning lectures.
 	  :PROPERTIES:
 	  :ID:       4bc8869c-07f9-4c76-b2ca-4b08303fd962
 	  :END:
-********* TODO Prepare Lecture 2.2
+********* NEXT Prepare Lecture 2.2
 	  DEADLINE: <2013-10-09 Wed>
+	  :LOGBOOK:
+	  CLOCK: [2013-10-07 Mon 11:21]--[2013-10-07 Mon 11:48] =>  0:27
+	  :END:
 	  :PROPERTIES:
 	  :ID:       acd41bd7-deb6-49c5-865d-a1494edf13c8
 	  :END:
@@ -5713,6 +5716,9 @@ WLH 2208
 ********* Lecture 2.1
 	  :LOGBOOK:
 	  CLOCK: [2013-10-07 Mon 09:55]--[2013-10-07 Mon 11:11] =>  1:16
+	  :END:
+	  :PROPERTIES:
+	  :ID:       c61ec399-d6ef-4ce5-acab-41524176fc19
 	  :END:
 <2013-10-07 Mon 10:00-11:00>
 ********* Lecture 3.1
@@ -6287,6 +6293,9 @@ CENTR 101
 	  :LOGBOOK:
 	  CLOCK: [2013-10-07 Mon 08:50]--[2013-10-07 Mon 09:55] =>  1:05
 	  :END:
+	  :PROPERTIES:
+	  :ID:       5a55eacd-944b-4458-9265-4b764865f477
+	  :END:
 <2013-10-07 Mon 09:00-10:00>
 ********* Lecture 3.1
 <2013-10-14 Mon 09:00-10:00>
@@ -6613,8 +6622,8 @@ homeomorphic to S^4 or to a connected sum of CP^2s.
     - State "DONE"       from "NEXT"       [2012-11-03 Sat 18:51]
   CLOCK: [2012-10-26 Fri 15:07]--[2012-10-26 Fri 15:08] =>  0:01
 [2012-10-26 Fri 15:07]
-**** TODO Send DG seminar email announcement
-     DEADLINE: <2013-10-10 Thu +1w>
+**** NEXT Send DG seminar email announcement
+     DEADLINE: <2013-10-17 Thu +1w>
      
     - State "HOLD"       from "NEXT"       [2013-03-29 Fri 10:43] \\
       Lei and I will do an informal seminar instead.
@@ -6629,6 +6638,7 @@ homeomorphic to S^4 or to a connected sum of CP^2s.
     - State "DONE"       from "NEXT"       [2012-12-06 Thu 14:00]
     - State "DONE"       from "TODO"       [2012-11-29 Thu 09:46]
     :LOGBOOK:
+    - State "DONE"       from "TODO"       [2013-10-07 Mon 11:21]
     CLOCK: [2013-02-16 Sat 20:11]--[2013-02-16 Sat 20:18] =>  0:07
     CLOCK: [2013-02-01 Fri 11:13]--[2013-02-01 Fri 11:19] =>  0:06
     CLOCK: [2013-01-17 Thu 16:38]--[2013-01-17 Thu 16:41] =>  0:03
@@ -6637,7 +6647,7 @@ homeomorphic to S^4 or to a connected sum of CP^2s.
     :PROPERTIES:
     :ID:       0f19da7c-65a3-4e95-8a91-78d12caa46da
     :REPEAT_TO_STATE: NEXT
-    :LAST_REPEAT: [2013-02-25 Mon 11:25]
+    :LAST_REPEAT: [2013-10-07 Mon 11:21]
     :END: 
 
 [[mailto:seminarstaff@math.ucsd.edu]]
