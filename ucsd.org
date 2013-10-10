@@ -286,8 +286,12 @@ http://www.w3schools.com/css/tryit.asp?filename=trycss_table_fancy
   :END:
 [2013-09-30 Mon 21:22]
 Make homework due on Friday and have exam on Monday.
-**** TODO Post previous exams
+**** DONE Post previous exams
   DEADLINE: <2013-10-06 Sun>
+  :LOGBOOK:
+  - State "DONE"       from "NEXT"       [2013-10-09 Wed 18:00]
+  CLOCK: [2013-10-09 Wed 17:48]--[2013-10-09 Wed 18:00] =>  0:12
+  :END:
      :PROPERTIES:
      :ID:       dbc526ec-fe04-4c6f-8a80-6335323c6234
      :END:
