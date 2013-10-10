@@ -129,6 +129,17 @@ http://modernizr.com/
   :END:
 [2013-08-06 Tue 20:57]
 
+**** TODO Change course web template
+  SCHEDULED: <2013-11-03 Sun>
+  :LOGBOOK:
+  CLOCK: [2013-09-22 Sun 12:41]--[2013-09-22 Sun 12:42] =>  0:01
+  :END:
+  :PROPERTIES:
+  :ID:       dcc43349-f461-44f9-9403-cf87843bc238
+  :END:
+[2013-09-22 Sun 12:41]
+Remove sidebar
+
 *** DONE Transfer to org mode
     - State "DONE"       from "NEXT"       [2013-07-24 Wed 11:53]
     :PROPERTIES:
@@ -275,6 +286,15 @@ I want to put the details of the course in to org - probably using property draw
       :END:
 http://www.math.ucsd.edu/~jeggers/Archive/2012Spring/Math142B/calendar.html
 http://www.w3schools.com/css/tryit.asp?filename=trycss_table_fancy
+***** TODO Check out Piazza for courses
+  SCHEDULED: <2013-11-24 Sun>
+  :LOGBOOK:
+  CLOCK: [2013-10-04 Fri 13:33]--[2013-10-04 Fri 13:34] =>  0:01
+  :END:
+  :PROPERTIES:
+  :ID:       66491468-bd15-4e33-8d81-934175e8dce1
+  :END:
+[2013-10-04 Fri 13:33]
 **** DONE Change exam schedule
   SCHEDULED: <2013-10-01 Tue>
   :LOGBOOK:
@@ -6431,6 +6451,15 @@ TBA
    :ID:       08426a42-e2ed-4a58-bd9b-62d687b30b6b
    :END:
 <2013-01-04 Fri 10:00-14:00>
+*** Check out John Egger's class
+  :PROPERTIES:
+  :ID:       21f69cd2-c9ab-4576-b41f-48ec81670fd8
+  :END:
+[2013-10-04 Fri 13:35]
+<2013-10-11 Fri 13:00-14:00>
+Ledden Auditorium
+*** Meet John Eggers
+<2013-10-11 Fri 12:00>
 ** Tasks
 *** TODO Update course template
   :LOGBOOK:
