@@ -5517,9 +5517,10 @@ Lectures in calendar and tasks like planning lectures.
 	  :PROPERTIES:
 	  :ID:       4bc8869c-07f9-4c76-b2ca-4b08303fd962
 	  :END:
-********* NEXT Prepare Lecture 2.2
+********* DONE Prepare Lecture 2.2
 	  DEADLINE: <2013-10-09 Wed>
 	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2013-10-09 Wed 17:25]
 	  CLOCK: [2013-10-07 Mon 11:21]--[2013-10-07 Mon 11:48] =>  0:27
 	  :END:
 	  :PROPERTIES:
@@ -5879,25 +5880,30 @@ Lectures in calendar and tasks like planning lectures.
 	  :PROPERTIES:
 	  :ID:       2fd83b03-88e2-4a45-80fb-f737e39b0e02
 	  :END:
-********* WAITING Get TA's comments
+********* DONE Get TA's comments
 	  DEADLINE: <2013-10-14 Mon>
 	  :LOGBOOK:
+	  - State "DONE"       from "WAITING"    [2013-10-09 Wed 17:25]
 	  - State "WAITING"    from "NEXT"       [2013-10-04 Fri 11:14] \\
 	    Waiting for comments from one TA.
 	  :END:
 	  :PROPERTIES:
 	  :ID:       1629e97e-d437-41a6-b29b-e9f0563946dd
 	  :END:
-********* NEXT Update exam based on comments
+********* DONE Update exam based on comments
 	  DEADLINE: <2013-10-16 Wed>
 	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2013-10-09 Wed 17:26]
 	  CLOCK: [2013-10-04 Fri 11:14]--[2013-10-04 Fri 11:21] =>  0:07
 	  :END:
 	  :PROPERTIES:
 	  :ID:       b5d5daf5-ae97-4a7d-9393-eeb0d4843744
 	  :END:
-********* TODO Submit midterm to printing/frdesk
+********* DONE Submit midterm to printing/frdesk
 	  DEADLINE: <2013-10-16 Wed>
+	  :LOGBOOK:
+	  - State "DONE"       from "TODO"       [2013-10-09 Wed 17:27]
+	  :END:
 	  :PROPERTIES:
 	  :ID:       475f5af7-5988-475b-9eaf-41bfea0ccc35
 	  :END:
@@ -6095,8 +6101,11 @@ Lectures in calendar and tasks like planning lectures.
 	  :PROPERTIES:
 	  :ID:       32268fe2-2fd4-46f0-b809-43a9fb585334
 	  :END:
-********* TODO Prepare Lecture 2.2
+********* DONE Prepare Lecture 2.2
 	  DEADLINE: <2013-10-09 Wed>
+	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2013-10-09 Wed 17:25]
+	  :END:
 	  :PROPERTIES:
 	  :ID:       e8ec2fed-0cc4-42fc-a5d4-34ffcd6256c3
 	  :END:

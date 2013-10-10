@@ -277,8 +277,11 @@ http://service.mygreenapple.org/page/event/detail/takeitoutside/4jvm7
       :END:
 $11.25
 *** Form
-**** TODO Turn in monthly form
+**** DONE Turn in monthly form
      DEADLINE: <2013-10-11 Fri>
+     :LOGBOOK:
+     - State "DONE"       from "TODO"       [2013-10-09 Wed 17:19]
+     :END:
      :PROPERTIES:
      :ID:       dfed79d1-c1a1-4ceb-a067-f2c5d47811aa
      :END:
