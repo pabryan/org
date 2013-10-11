@@ -83,6 +83,23 @@ Should be able to insert lecture planning/homework etc with a yassnippet?
      :ID:       0e0ec6e9-ce54-49ca-924b-dc9957f63d33
      :END:
 
+**** TODO Goals in agenda
+  SCHEDULED: <2013-11-03 Sun>
+  :LOGBOOK:
+  CLOCK: [2013-09-30 Mon 21:15]--[2013-09-30 Mon 21:16] =>  0:01
+  :END:
+  :PROPERTIES:
+  :ID:       24d2f2f3-4ced-4723-8502-2d6c4e705900
+  :END:
+[2013-09-30 Mon 21:15]
+Add goals to agenda to remind myself each day. E.g. work, diet, exercise, general things like be patient, don't over-explain things etc.
+**** TODO Setup some agenda filter macros
+  SCHEDULED: <2013-11-03 Sun>
+  :PROPERTIES:
+  :ID:       b7060562-fc53-44b0-8f52-d84dce4c177f
+  :END:
+[2013-10-01 Tue 10:23]
+want to hit a key so that only work tasks are shown or only personal/family tasks are shown
 *** Task list to sort 						    :SOMEDAY:
 ***** TODO Set up TAGS
      :PROPERTIES:
@@ -1426,7 +1443,7 @@ http://askubuntu.com/questions/198136/error-when-trying-to-connect-to-vpn-on-sta
 - oldpaul
 - uni 
 ** TODO organise external working
-  SCHEDULED: <2013-10-06 Sun>
+  SCHEDULED: <2013-10-20 Sun>
   :LOGBOOK:
   CLOCK: [2013-08-06 Tue 21:01]--[2013-08-06 Tue 21:05] =>  0:04
   :END:
@@ -1464,7 +1481,7 @@ http://askubuntu.com/questions/198136/error-when-trying-to-connect-to-vpn-on-sta
 [2013-08-06 Tue 21:05]
 this way I can track upstream and keep my work independent and then merge, push to upstream etc. as appropriate
 ** TODO Make a list of required software
-  SCHEDULED: <2013-10-06 Sun>
+  SCHEDULED: <2013-10-20 Sun>
   :LOGBOOK:
   CLOCK: [2013-08-09 Fri 09:20]--[2013-08-09 Fri 09:22] =>  0:02
   :END:
@@ -1535,6 +1552,12 @@ I have mythtv and mediatomb and who knows what else using up valuable resources.
   :END:
 ** Organisation
   :LOGBOOK:
+  CLOCK: [2013-10-10 Thu 10:24]--[2013-10-10 Thu 10:42] =>  0:18
+  CLOCK: [2013-10-10 Thu 10:01]--[2013-10-10 Thu 10:17] =>  0:16
+  CLOCK: [2013-10-09 Wed 19:20]--[2013-10-09 Wed 19:23] =>  0:03
+  CLOCK: [2013-10-09 Wed 18:00]--[2013-10-09 Wed 18:20] =>  0:20
+  CLOCK: [2013-10-09 Wed 17:19]--[2013-10-09 Wed 17:48] =>  0:29
+  CLOCK: [2013-10-09 Wed 17:13]--[2013-10-09 Wed 17:17] =>  0:04
   CLOCK: [2013-10-09 Wed 12:12]--[2013-10-09 Wed 12:18] =>  0:06
   CLOCK: [2013-10-07 Mon 11:11]--[2013-10-07 Mon 11:21] =>  0:10
   CLOCK: [2013-10-05 Sat 19:50]--[2013-10-05 Sat 19:51] =>  0:01
@@ -2494,8 +2517,10 @@ When I set up scoring the day:
 - [ ] Collate data such as sleep, weight, exercise, diet etc.
 
 ** NEXT Daily Plan [0/3]
-   SCHEDULED: <2013-10-04 Fri .+1d/2d>
+   SCHEDULED: <2013-10-11 Fri .+1d/2d>
    :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2013-10-10 Thu 10:24]
+   CLOCK: [2013-10-10 Thu 10:17]--[2013-10-10 Thu 10:24] =>  0:07
    CLOCK: [2013-10-04 Fri 11:10]--[2013-10-04 Fri 11:11] =>  0:01
    - State "DONE"       from "NEXT"       [2013-10-03 Thu 11:16]
    CLOCK: [2013-10-03 Thu 11:13]--[2013-10-03 Thu 11:16] =>  0:03
@@ -2756,7 +2781,7 @@ When I set up scoring the day:
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
    :ID:       ef051ee0-1113-4604-b355-450a5a47848b
-   :LAST_REPEAT: [2013-10-03 Thu 11:16]
+   :LAST_REPEAT: [2013-10-10 Thu 10:24]
    :END:
 
 - [ ] Check agenda/focus
@@ -2764,8 +2789,10 @@ When I set up scoring the day:
 - [ ] Record morning health stats
 
 ** NEXT Weekly Review [0/16]
-   SCHEDULED: <2013-09-29 Sun +1w>
+   SCHEDULED: <2013-10-06 Sun +1w>
    :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2013-10-09 Wed 19:20]
+   CLOCK: [2013-10-09 Wed 18:39]--[2013-10-09 Wed 19:20] =>  0:41
    - State "DONE"       from "NEXT"       [2013-09-22 Sun 12:20]
    CLOCK: [2013-09-22 Sun 12:05]--[2013-09-22 Sun 12:20] =>  0:15
    CLOCK: [2013-09-22 Sun 10:39]--[2013-09-22 Sun 11:35] =>  0:56
@@ -2849,7 +2876,7 @@ When I set up scoring the day:
    :REPEAT_TO_STATE: NEXT
    :ID:       846c05fa-21d7-4e6f-8431-a1fa06631945
    :RESET_CHECK_BOXES: t
-   :LAST_REPEAT: [2013-09-22 Sun 12:20]
+   :LAST_REPEAT: [2013-10-09 Wed 19:20]
    :END:
 
 What to review:

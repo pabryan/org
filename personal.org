@@ -2010,9 +2010,10 @@ Delta 4502 From LA.
 [[http://naturebox.com]]
 Code: SHARE10
 ** Shopping Lists
-** TODO Cancel naturebox
+** DONE Cancel naturebox
   SCHEDULED: <2013-09-27 Fri>
   :LOGBOOK:
+  - State "DONE"       from "TODO"       [2013-10-09 Wed 17:14]
   CLOCK: [2013-09-26 Thu 19:37]--[2013-09-26 Thu 19:38] =>  0:01
   :END:
    :PROPERTIES:

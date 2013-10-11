@@ -1873,7 +1873,7 @@ Schedule time for research, for teaching and for non-research academic work (e.g
     :END:
 [2013-07-15 Mon 10:02]
 *** TODO Make create research project capture
-  SCHEDULED: <2013-10-06 Sun>
+  SCHEDULED: <2013-10-20 Sun>
     :PROPERTIES:
     :ID:       89aab08c-03b4-4561-b868-45bc0088ba34
     :END:
@@ -2153,7 +2153,7 @@ http://mathoverflow.net/questions/14877/how-much-of-differential-geometry-can-be
 ** Open Notebook
 *** Tasks
 **** NEXT Research starting an open notebook
-  SCHEDULED: <2013-10-06 Sun>
+  SCHEDULED: <2013-10-21 Mon>
   :LOGBOOK:
   CLOCK: [2013-08-06 Tue 20:54]--[2013-08-06 Tue 20:55] =>  0:01
   :END:
@@ -2214,9 +2214,10 @@ Minimal and CMC surfaces. First variation.
 First variation.
 **** Lec 03
 Radon measures: compactness and Reisz representation.
-** HOLD Convex Geometry						     :CONVEX:
+** TODO Convex Geometry						     :CONVEX:
    SCHEDULED: <2013-10-06 Sun>
    :LOGBOOK:
+   - State "TODO"       from "HOLD"       [2013-10-09 Wed 17:24]
    - State "HOLD"       from "TODO"       [2013-08-04 Sun 16:46] \\
      Don't have time for this right now!
    :END:

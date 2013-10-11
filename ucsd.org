@@ -129,6 +129,17 @@ http://modernizr.com/
   :END:
 [2013-08-06 Tue 20:57]
 
+**** TODO Change course web template
+  SCHEDULED: <2013-11-03 Sun>
+  :LOGBOOK:
+  CLOCK: [2013-09-22 Sun 12:41]--[2013-09-22 Sun 12:42] =>  0:01
+  :END:
+  :PROPERTIES:
+  :ID:       dcc43349-f461-44f9-9403-cf87843bc238
+  :END:
+[2013-09-22 Sun 12:41]
+Remove sidebar
+
 *** DONE Transfer to org mode
     - State "DONE"       from "NEXT"       [2013-07-24 Wed 11:53]
     :PROPERTIES:
@@ -275,6 +286,15 @@ I want to put the details of the course in to org - probably using property draw
       :END:
 http://www.math.ucsd.edu/~jeggers/Archive/2012Spring/Math142B/calendar.html
 http://www.w3schools.com/css/tryit.asp?filename=trycss_table_fancy
+***** TODO Check out Piazza for courses
+  SCHEDULED: <2013-11-24 Sun>
+  :LOGBOOK:
+  CLOCK: [2013-10-04 Fri 13:33]--[2013-10-04 Fri 13:34] =>  0:01
+  :END:
+  :PROPERTIES:
+  :ID:       66491468-bd15-4e33-8d81-934175e8dce1
+  :END:
+[2013-10-04 Fri 13:33]
 **** DONE Change exam schedule
   SCHEDULED: <2013-10-01 Tue>
   :LOGBOOK:
@@ -286,8 +306,12 @@ http://www.w3schools.com/css/tryit.asp?filename=trycss_table_fancy
   :END:
 [2013-09-30 Mon 21:22]
 Make homework due on Friday and have exam on Monday.
-**** TODO Post previous exams
+**** DONE Post previous exams
   DEADLINE: <2013-10-06 Sun>
+  :LOGBOOK:
+  - State "DONE"       from "NEXT"       [2013-10-09 Wed 18:00]
+  CLOCK: [2013-10-09 Wed 17:48]--[2013-10-09 Wed 18:00] =>  0:12
+  :END:
      :PROPERTIES:
      :ID:       dbc526ec-fe04-4c6f-8a80-6335323c6234
      :END:
@@ -5366,12 +5390,15 @@ Lectures in calendar and tasks like planning lectures.
 	  - State "DONE"       from "NEXT"       [2013-10-04 Fri 12:51]
 	  CLOCK: [2013-10-04 Fri 12:46]--[2013-10-04 Fri 12:51] =>  0:05
 	  :END:
-********* NEXT Submit midterm to printing/frdesk
+********* DONE Submit midterm to printing/frdesk
 	  DEADLINE: <2013-10-23 Wed>
+	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2013-10-10 Thu 10:39]
+	  :END:
 	  :PROPERTIES:
 	  :ID:       c290c585-2b28-4ffe-99ab-5473db810675
 	  :END:
-********* TODO Write MT 1 solutions
+********* NEXT Write MT 1 solutions
 	  DEADLINE: <2013-11-01 Fri>
 	  :PROPERTIES:
 	  :ID:       4a9c52b1-453d-4b5d-a6da-e956c016980b
@@ -5517,20 +5544,25 @@ Lectures in calendar and tasks like planning lectures.
 	  :PROPERTIES:
 	  :ID:       4bc8869c-07f9-4c76-b2ca-4b08303fd962
 	  :END:
-********* NEXT Prepare Lecture 2.2
+********* DONE Prepare Lecture 2.2
 	  DEADLINE: <2013-10-09 Wed>
 	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2013-10-09 Wed 17:25]
 	  CLOCK: [2013-10-07 Mon 11:21]--[2013-10-07 Mon 11:48] =>  0:27
 	  :END:
 	  :PROPERTIES:
 	  :ID:       acd41bd7-deb6-49c5-865d-a1494edf13c8
 	  :END:
-********* TODO Prepare Lecture 2.3
+********* DONE Prepare Lecture 2.3
 	  DEADLINE: <2013-10-11 Fri>
+	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2013-10-09 Wed 20:11]
+	  CLOCK: [2013-10-09 Wed 19:23]--[2013-10-09 Wed 20:11] =>  0:48
+	  :END:
 	  :PROPERTIES:
 	  :ID:       6cd04c65-d159-4301-8c17-47a61daa040a
 	  :END:
-********* TODO Prepare Lecture 3.1
+********* NEXT Prepare Lecture 3.1
 	   DEADLINE: <2013-10-14 Mon>
 	   :PROPERTIES:
 	   :ID:       5dfccadc-e6a9-473a-8568-fd1e61a7227f
@@ -5679,7 +5711,10 @@ Lectures in calendar and tasks like planning lectures.
 	 :PROPERTIES:
 	 :ID:       53e3402a-a7af-41ec-b04b-7df26ade8aa4
 	 :END:       
-******* TODO Misc
+******* DONE Misc
+	:LOGBOOK:
+	- State "DONE"       from "TODO"       [2013-10-10 Thu 10:40]
+	:END:
 	:PROPERTIES:
 	:ID:       d5b4ebe6-2cfc-4cb8-9551-fad4a586ab32
 	:END:
@@ -5823,8 +5858,7 @@ TBA
 
 ******* Students
 ******** Jayme V Rosenquist
-<2013-10-10 Thu 10:00>
-***** TODO Math20B						    :MATH20B:      
+***** TODO Math20B 						    :MATH20B:	   
       :PROPERTIES:
       :ID:       d723ae88-2203-4094-af9c-9312bd092184
       :END:
@@ -5883,29 +5917,34 @@ Lectures in calendar and tasks like planning lectures.
 	  :PROPERTIES:
 	  :ID:       2fd83b03-88e2-4a45-80fb-f737e39b0e02
 	  :END:
-********* WAITING Get TA's comments
+********* DONE Get TA's comments
 	  DEADLINE: <2013-10-14 Mon>
 	  :LOGBOOK:
+	  - State "DONE"       from "WAITING"    [2013-10-09 Wed 17:25]
 	  - State "WAITING"    from "NEXT"       [2013-10-04 Fri 11:14] \\
 	    Waiting for comments from one TA.
 	  :END:
 	  :PROPERTIES:
 	  :ID:       1629e97e-d437-41a6-b29b-e9f0563946dd
 	  :END:
-********* NEXT Update exam based on comments
+********* DONE Update exam based on comments
 	  DEADLINE: <2013-10-16 Wed>
 	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2013-10-09 Wed 17:26]
 	  CLOCK: [2013-10-04 Fri 11:14]--[2013-10-04 Fri 11:21] =>  0:07
 	  :END:
 	  :PROPERTIES:
 	  :ID:       b5d5daf5-ae97-4a7d-9393-eeb0d4843744
 	  :END:
-********* TODO Submit midterm to printing/frdesk
+********* DONE Submit midterm to printing/frdesk
 	  DEADLINE: <2013-10-16 Wed>
+	  :LOGBOOK:
+	  - State "DONE"       from "TODO"       [2013-10-09 Wed 17:27]
+	  :END:
 	  :PROPERTIES:
 	  :ID:       475f5af7-5988-475b-9eaf-41bfea0ccc35
 	  :END:
-********* TODO Write MT 1 solutions
+********* NEXT Write MT 1 solutions
 	  DEADLINE: <2013-10-27 Sun>
 	  :PROPERTIES:
 	  :ID:       69bcf73d-ef6e-4414-a094-4ffe6ac23768
@@ -6099,17 +6138,24 @@ Lectures in calendar and tasks like planning lectures.
 	  :PROPERTIES:
 	  :ID:       32268fe2-2fd4-46f0-b809-43a9fb585334
 	  :END:
-********* TODO Prepare Lecture 2.2
+********* DONE Prepare Lecture 2.2
 	  DEADLINE: <2013-10-09 Wed>
+	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2013-10-09 Wed 17:25]
+	  :END:
 	  :PROPERTIES:
 	  :ID:       e8ec2fed-0cc4-42fc-a5d4-34ffcd6256c3
 	  :END:
-********* TODO Prepare Lecture 2.3
+********* DONE Prepare Lecture 2.3
 	  DEADLINE: <2013-10-11 Fri>
+	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2013-10-09 Wed 20:54]
+	  CLOCK: [2013-10-09 Wed 20:11]--[2013-10-09 Wed 20:54] =>  0:43
+	  :END:
 	  :PROPERTIES:
 	  :ID:       a3cf2b6e-41c1-4d88-8a8f-898e46baa88c
 	  :END:
-********* TODO Prepare Lecture 3.1
+********* NEXT Prepare Lecture 3.1
 	  DEADLINE: <2013-10-14 Mon>
 	  :PROPERTIES:
 	  :ID:       5dfccadc-e6a9-473a-8568-fd1e61a7227f
@@ -6260,7 +6306,10 @@ Lectures in calendar and tasks like planning lectures.
 	 :PROPERTIES:
 	 :ID:       986f7eda-0967-452f-9b83-9a43234fc70d
 	 :END:       
-******* TODO Misc
+******* DONE Misc
+	:LOGBOOK:
+	- State "DONE"       from "TODO"       [2013-10-10 Thu 10:40]
+	:END:
 	:PROPERTIES:
 	:ID:       1b9e5ce1-eb13-4f78-9d6d-e24f1d1985ac
 	:END:
@@ -6422,6 +6471,15 @@ TBA
    :ID:       08426a42-e2ed-4a58-bd9b-62d687b30b6b
    :END:
 <2013-01-04 Fri 10:00-14:00>
+*** Check out John Egger's class
+  :PROPERTIES:
+  :ID:       21f69cd2-c9ab-4576-b41f-48ec81670fd8
+  :END:
+[2013-10-04 Fri 13:35]
+<2013-10-11 Fri 13:00-14:00>
+Ledden Auditorium
+*** Meet John Eggers
+<2013-10-11 Fri 12:00>
 ** Tasks
 *** TODO Update course template
   :LOGBOOK:
