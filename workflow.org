@@ -1135,9 +1135,10 @@ Key numbers: FR428, FR382.
   :PROPERTIES:
   :ID:       2caac482-7221-4934-a479-25d3cbb12d55
   :END:
-** WAITING Set up emacs server at work
+** DONE Set up emacs server at work
    SCHEDULED: <2013-09-09 Mon>
    :LOGBOOK:
+   - State "DONE"       from "WAITING"    [2013-10-12 Sat 11:29]
    - State "WAITING"    from "NEXT"       [2013-10-04 Fri 11:35] \\
      Need to put launcher in VC first and then copy to work computer
    :END:
@@ -1552,6 +1553,7 @@ I have mythtv and mediatomb and who knows what else using up valuable resources.
   :END:
 ** Organisation
   :LOGBOOK:
+  CLOCK: [2013-10-12 Sat 11:10]--[2013-10-12 Sat 11:24] =>  0:14
   CLOCK: [2013-10-11 Fri 11:51]--[2013-10-11 Fri 12:00] =>  0:09
   CLOCK: [2013-10-10 Thu 10:24]--[2013-10-10 Thu 10:42] =>  0:18
   CLOCK: [2013-10-10 Thu 10:01]--[2013-10-10 Thu 10:17] =>  0:16
@@ -2520,6 +2522,7 @@ When I set up scoring the day:
 ** NEXT Daily Plan [0/3]
    SCHEDULED: <2013-10-11 Fri .+1d/2d>
    :LOGBOOK:
+   CLOCK: [2013-10-12 Sat 11:24]
    - State "DONE"       from "NEXT"       [2013-10-10 Thu 10:24]
    CLOCK: [2013-10-10 Thu 10:17]--[2013-10-10 Thu 10:24] =>  0:07
    CLOCK: [2013-10-04 Fri 11:10]--[2013-10-04 Fri 11:11] =>  0:01
@@ -2786,7 +2789,9 @@ When I set up scoring the day:
    :END:
 
 - [ ] Check agenda/focus
-- [ ] Write date into notebook
+- [ ] Tidy up agenda tasks
+  - mark done those tasks already done
+- [ ] Do short tasks
 - [ ] Record morning health stats
 
 ** NEXT Weekly Review [0/16]
