@@ -5502,7 +5502,6 @@ Lectures in calendar and tasks like planning lectures.
 	 :END:
 ******** TODO Prepare Lectures
 	 :LOGBOOK:
-	 CLOCK: [2013-10-12 Sat 12:36]
 	 CLOCK: [2013-10-04 Fri 12:35]--[2013-10-04 Fri 12:46] =>  0:11
 	 CLOCK: [2013-10-03 Thu 11:28]--[2013-10-03 Thu 11:32] =>  0:04
 	 :END:
