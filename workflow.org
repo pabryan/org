@@ -469,7 +469,7 @@ If I'm working on a project, I want an agenda view showing me just that project.
 [2013-03-14 Thu 14:05]
 
 *** WAITING Use org-checklists
-    SCHEDULED: <2013-09-29 Sun>
+    SCHEDULED: <2013-10-06 Sun>
     :LOGBOOK:
     - State "WAITING"    from "NEXT"       [2013-09-29 Sun 20:48] \\
       Set it up. Just waiting to see if it works...
