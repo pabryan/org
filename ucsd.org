@@ -5765,6 +5765,9 @@ WLH 2208
 	  :END:
 <2013-10-07 Mon 10:00-11:00>
 ********* Lecture 3.1
+	  :LOGBOOK:
+	  CLOCK: [2013-10-14 Mon 09:55]--[2013-10-14 Mon 11:05] =>  1:10
+	  :END:
 <2013-10-14 Mon 10:00-11:00>
 ********* Lecture 4.1
 <2013-10-21 Mon 10:00-11:00>
@@ -5870,6 +5873,9 @@ TBA
 ******* Students
 ******** Jayme V Rosenquist
 ***** TODO Math20B 						    :MATH20B:	   
+      :LOGBOOK:
+      CLOCK: [2013-10-14 Mon 11:43]--[2013-10-14 Mon 11:44] =>  0:01
+      :END:
       :PROPERTIES:
       :ID:       d723ae88-2203-4094-af9c-9312bd092184
       :END:
@@ -6346,6 +6352,7 @@ Lectures in calendar and tasks like planning lectures.
 ******* Admin
 ******* Office hours
 	:LOGBOOK:
+	CLOCK: [2013-10-14 Mon 11:05]--[2013-10-14 Mon 11:44] =>  0:39
 	CLOCK: [2013-10-11 Fri 11:25]--[2013-10-11 Fri 11:51] =>  0:26
 	CLOCK: [2013-10-09 Wed 11:15]--[2013-10-09 Wed 12:11] =>  0:56
 	CLOCK: [2013-10-04 Fri 11:11]--[2013-10-04 Fri 11:12] =>  0:01
@@ -6373,6 +6380,9 @@ CENTR 101
 	  :END:
 <2013-10-07 Mon 09:00-10:00>
 ********* Lecture 3.1
+	  :LOGBOOK:
+	  CLOCK: [2013-10-14 Mon 08:45]--[2013-10-14 Mon 09:55] =>  1:10
+	  :END:
 <2013-10-14 Mon 09:00-10:00>
 ********* Lecture 4.1
 <2013-10-21 Mon 09:00-10:00>
