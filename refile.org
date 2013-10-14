@@ -4,6 +4,15 @@
   :LOGBOOK:
   CLOCK: [2013-10-14 Mon 11:53]--[2013-10-14 Mon 11:54] =>  0:01
   :END:
+  :PROPERTIES:
+  :ID:       f184747c-0a0c-4ebc-abc9-86073308657d
+  :END:
 [2013-10-14 Mon 11:53]
 Add problems 42,43 to 11.4
 Also skip "arc-length in polar coordinated" on bottom half of page 637 after example 3.
+* TODO Update 150a calendar
+  SCHEDULED: <2013-10-14 Mon>
+  :PROPERTIES:
+  :ID:       7afc0857-1fa4-4f63-b70c-614505146e07
+  :END:
+[2013-10-14 Mon 12:03]

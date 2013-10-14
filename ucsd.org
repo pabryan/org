@@ -5580,8 +5580,11 @@ Lectures in calendar and tasks like planning lectures.
 	   :PROPERTIES:
 	   :ID:       a65f1923-7095-4a99-bc26-859dd5674e96
 	   :END:
-********* TODO Prepare Lecture 3.3
+********* DONE Prepare Lecture 3.3
 	   DEADLINE: <2013-10-18 Fri>
+	   :LOGBOOK:
+	   - State "DONE"       from "TODO"       [2013-10-14 Mon 12:03]
+	   :END:
 	   :PROPERTIES:
 	   :ID:       11f775d6-84e5-492d-bbe6-eecf4f9862ab
 	   :END:
@@ -5767,6 +5770,9 @@ WLH 2208
 ********* Lecture 3.1
 	  :LOGBOOK:
 	  CLOCK: [2013-10-14 Mon 09:55]--[2013-10-14 Mon 11:05] =>  1:10
+	  :END:
+	  :PROPERTIES:
+	  :ID:       cc9546d7-4f15-4c1d-a2e7-6002e679ca79
 	  :END:
 <2013-10-14 Mon 10:00-11:00>
 ********* Lecture 4.1
@@ -6380,6 +6386,9 @@ CENTR 101
 	  :LOGBOOK:
 	  CLOCK: [2013-10-14 Mon 08:45]--[2013-10-14 Mon 09:55] =>  1:10
 	  :END:
+	  :PROPERTIES:
+	  :ID:       7f48bcf7-8512-4282-a025-144d706e5327
+	  :END:
 <2013-10-14 Mon 09:00-10:00>
 ********* Lecture 4.1
 <2013-10-21 Mon 09:00-10:00>
@@ -6712,9 +6721,15 @@ homeomorphic to S^4 or to a connected sum of CP^2s.
     :END:
 <2012-12-06 Thu 15:00-16:00>
 **** TODO Dual body flows talk
+     :PROPERTIES:
+     :ID:       b35ae55c-df88-42fa-a6c2-ae547e743e16
+     :END:
 <2013-10-24 Thu>
 ***** NEXT Prepare talk
       DEADLINE: <2013-10-24 Thu> SCHEDULED: <2013-10-13 Sun>
+      :PROPERTIES:
+      :ID:       f57b154c-25a1-40ff-8984-129041468613
+      :END:
 
 *** Tasks
 **** DONE Ask Ben about Inviting ZhiQin Lu to speak at DG conference
