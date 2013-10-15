@@ -31,8 +31,12 @@ http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5549&org=NSF&sel_org=MPS&from=fu
 **** Theoretical Gravitational Physics
      DEADLINE: <2013-10-30 Wed>
 http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=503539&org=NSF&sel_org=MPS&from=fund
-**** Postdoctoral Research Fellowships
+**** CANCELLED Postdoctoral Research Fellowships
      DEADLINE: <2013-10-16 Wed>
+     :LOGBOOK:
+     - State "CANCELLED"  from ""           [2013-10-14 Mon 19:58] \\
+       Didn't get time to apply!
+     :END:
      :PROPERTIES:
      :ID:       7cc0b898-e174-4765-923d-26a245815b6f
      :END:
@@ -2221,7 +2225,7 @@ First variation.
 **** Lec 03
 Radon measures: compactness and Reisz representation.
 ** TODO Convex Geometry						     :CONVEX:
-   SCHEDULED: <2013-10-06 Sun>
+   SCHEDULED: <2013-10-28 Mon>
    :LOGBOOK:
    - State "TODO"       from "HOLD"       [2013-10-09 Wed 17:24]
    - State "HOLD"       from "TODO"       [2013-08-04 Sun 16:46] \\

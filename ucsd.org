@@ -5714,8 +5714,12 @@ Lectures in calendar and tasks like planning lectures.
 	 :PROPERTIES:
 	 :ID:       3655ccb4-942f-4017-92c6-8e501c72f316
 	 :END:
-******** TODO Update 150a calendar
+******** DONE Update 150a calendar
   SCHEDULED: <2013-10-14 Mon>
+  :LOGBOOK:
+  - State "DONE"       from "NEXT"       [2013-10-14 Mon 20:02]
+  CLOCK: [2013-10-14 Mon 19:58]--[2013-10-14 Mon 20:02] =>  0:04
+  :END:
   :PROPERTIES:
   :ID:       7afc0857-1fa4-4f63-b70c-614505146e07
   :END:
@@ -6030,6 +6034,7 @@ Lectures in calendar and tasks like planning lectures.
 	  :END:
 ******* TODO Homework
 	:LOGBOOK:
+	CLOCK: [2013-10-14 Mon 20:08]
 	- State "DONE"       from "TODO"       [2013-09-28 Sat 16:08]
 	:END:
 	:PROPERTIES:
@@ -6099,9 +6104,11 @@ Lectures in calendar and tasks like planning lectures.
 	 :LOGBOOK:
 	 - State "DONE"       from "TODO"       [2013-09-28 Sat 16:07]
 	 :END:
-******** TODO Updated 20B HW
+******** DONE Update 20B HW
   SCHEDULED: <2013-10-14 Mon>
   :LOGBOOK:
+  - State "DONE"       from "NEXT"       [2013-10-14 Mon 20:08]
+  CLOCK: [2013-10-14 Mon 20:02]--[2013-10-14 Mon 20:08] =>  0:06
   CLOCK: [2013-10-14 Mon 11:53]--[2013-10-14 Mon 11:54] =>  0:01
   :END:
   :PROPERTIES:
