@@ -1117,12 +1117,16 @@ Can we deduce long-time behaviour from the support function?
 XuZhong Chen
 xuzhong_chen@163.com
 ***** Tasks
-****** TODO Org
+****** DONE Org
+       :LOGBOOK:
+       - State "DONE"       from "TODO"       [2013-10-15 Tue 10:35]
+       :END:
        :PROPERTIES:
        :ID:       1ac1c270-2f08-4ba8-9dfd-1c03f4b311c2
        :END:
-******* WAITING Follow up on Chen's email
+******* DONE Follow up on Chen's email
        :LOGBOOK:
+       - State "DONE"       from "WAITING"    [2013-10-15 Tue 10:35]
        - State "WAITING"    from "NEXT"       [2013-09-13 Fri 10:05] \\
 	 Sent email to Ben asking about this.
        :END:

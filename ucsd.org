@@ -5475,14 +5475,17 @@ Lectures in calendar and tasks like planning lectures.
 	 :ID:       77ecaf89-6c7c-4256-b9ba-63ad8557e345
 	 :END:
 ******** NEXT Write Homework 3
+	 DEADLINE: <2013-10-25 Fri>
 	 :PROPERTIES:
 	 :ID:       fa667c39-0e7e-4f28-b69a-247044d6593e
 	 :END:
 ******** TODO Write Homework 4
+	 DEADLINE: <2013-11-08 Fri>
 	 :PROPERTIES:
 	 :ID:       9e2b4c6c-affb-4f7c-ad52-f804b49c6237
 	 :END:
 ******** TODO Write Homework 5
+	 DEADLINE: <2013-11-22 Fri>
 	 :PROPERTIES:
 	 :ID:       3bde4c8d-dafb-459c-94ce-8713ee97219b
 	 :END:
@@ -6642,9 +6645,10 @@ See Holding email.
 **** 2013/2014
 ***** Tasks
 
-****** NEXT Create undergrad research projects
+****** DONE Create undergrad research projects
   SCHEDULED: <2013-10-14 Mon>
   :LOGBOOK:
+  - State "DONE"       from "NEXT"       [2013-10-15 Tue 10:31]
   CLOCK: [2013-10-14 Mon 20:12]--[2013-10-14 Mon 20:39] =>  0:27
   CLOCK: [2013-10-14 Mon 18:06]--[2013-10-14 Mon 18:12] =>  0:06
   :END:
