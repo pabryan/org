@@ -954,7 +954,7 @@ This proves the inequality we need.  The remaining problem is to remove the symm
        :PROPERTIES:
        :ID:       2dab82b7-790c-4235-8b60-23b4587e88c6
        :END:
-******* TODO Work out logarithmic porous media integral transform
+******* NEXT Work out logarithmic porous media integral transform
     :PROPERTIES:
     :ID:       f2988334-a37d-47fc-86ac-43d616cf29d5
     :END:

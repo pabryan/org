@@ -850,12 +850,33 @@ Healthy habits. I want to keep on track with living well and so need reminders t
     :ID:       140a9729-4a79-43fe-b8e1-167623f8d08e
     :END:
 [2013-08-24 Sat 09:57]
+- HR
+- Diet
+- Sleep
+- Weight
+- Weekly girth measurements
+ 
 **** TODO Set up daily scoring
     :PROPERTIES:
     :ID:       c281ca6c-e54c-4eff-93c3-ba6b46eb9dea
     :END:
 [2013-08-24 Sat 09:57]
-**** TODO Follow up on PN tracking
+Subjective measures
+- Mood
+- Pain
+- Energy/Tiredness
+- Willingness to train
+- Willingness to work
+- Willingness to play!
+- Exercise notes; did it feel good? too hard? wiped me out?
+Objective measures
+- Produce score/reports based on health stats recorded
+- working toward goals
+- procrastination/productivity
+**** DONE Follow up on PN tracking
+     :LOGBOOK:
+     - State "DONE"       from "TODO"       [2013-10-15 Tue 18:35]
+     :END:
      :PROPERTIES:
      :ID:       fa781125-ef74-4204-acf2-01afd40af11e
      :END:
