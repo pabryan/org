@@ -5822,6 +5822,12 @@ WLH 2208
 	  <2013-10-09 Wed 10:00-11:00>
 
 ********* Lecture 3.2
+	  :LOGBOOK:
+	  CLOCK: [2013-10-16 Wed 09:55]--[2013-10-16 Wed 12:10] =>  2:15
+	  :END:
+	  :PROPERTIES:
+	  :ID:       07f9e45e-67bf-4227-89bc-138b934dadaa
+	  :END:
 	  <2013-10-16 Wed 10:00-11:00>
 
 ********* Lecture 4.2
@@ -5892,6 +5898,9 @@ TBA
 ******* Students
 ******** Jayme V Rosenquist
 ***** TODO Math20B 						    :MATH20B:	   
+      :LOGBOOK:
+      CLOCK: [2013-10-16 Wed 13:01]--[2013-10-16 Wed 13:03] =>  0:02
+      :END:
       :PROPERTIES:
       :ID:       d723ae88-2203-4094-af9c-9312bd092184
       :END:
@@ -6385,6 +6394,7 @@ Also skip "arc-length in polar coordinated" on bottom half of page 637 after exa
 ******* Admin
 ******* Office hours
 	:LOGBOOK:
+	CLOCK: [2013-10-16 Wed 12:15]--[2013-10-16 Wed 12:55] =>  0:40
 	CLOCK: [2013-10-14 Mon 11:05]--[2013-10-14 Mon 11:44] =>  0:39
 	CLOCK: [2013-10-11 Fri 11:25]--[2013-10-11 Fri 11:51] =>  0:26
 	CLOCK: [2013-10-09 Wed 11:15]--[2013-10-09 Wed 12:11] =>  0:56
@@ -6452,6 +6462,12 @@ CENTR 101
 	  :END:
 <2013-10-09 Wed 09:00-10:00>
 ********* Lecture 3.2
+	  :LOGBOOK:
+	  CLOCK: [2013-10-16 Wed 08:40]--[2013-10-16 Wed 09:55] =>  1:15
+	  :END:
+	  :PROPERTIES:
+	  :ID:       c1fd01e0-9721-401a-b94b-8884a881cf72
+	  :END:
 <2013-10-16 Wed 09:00-10:00>
 ********* Lecture 4.2
 <2013-10-23 Wed 09:00-10:00>
