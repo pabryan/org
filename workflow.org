@@ -84,7 +84,7 @@ Should be able to insert lecture planning/homework etc with a yassnippet?
      :END:
 
 **** TODO Goals in agenda
-  SCHEDULED: <2013-11-03 Sun>
+  SCHEDULED: <2013-10-20 Sun>
   :LOGBOOK:
   CLOCK: [2013-09-30 Mon 21:15]--[2013-09-30 Mon 21:16] =>  0:01
   :END:

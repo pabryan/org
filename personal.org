@@ -845,7 +845,7 @@ Healthy habits. I want to keep on track with living well and so need reminders t
     :PROPERTIES:
     :ID:       9271ac02-e855-44a8-9f5c-1222b34a7edc
     :END:
-**** TODO Record health stats
+**** NEXT Record health stats
     :PROPERTIES:
     :ID:       140a9729-4a79-43fe-b8e1-167623f8d08e
     :END:
@@ -854,7 +854,7 @@ Healthy habits. I want to keep on track with living well and so need reminders t
 - Diet
 - Sleep
 - Weight
-- Weekly girth measurements
+- Weekly girth measurements: [[file:~/reference/personal/health/precision_nutrition/Initial-Body-Composition-Assessment-Men.pdf]]
  
 **** TODO Set up daily scoring
     :PROPERTIES:
