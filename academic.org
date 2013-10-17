@@ -134,6 +134,11 @@ I want to do teaching with sage-tex and/or org-mode with babel; i.e. interactive
     :END:
 [[file:refs.org::#MR3018176][A gap theorem for self-shrinkers of the mean curvature flow in arbitrary codimension]]
 
+*** NEXT Review MR3020169
+    :LOGBOOK:
+    CLOCK: [2013-10-16 Wed 13:00]--[2013-10-16 Wed 13:50] =>  0:50
+    :END:
+[[file:refs.org::#MR3020169][Topological change in mean convex mean curvature flow]]
 ** CEJM
 *** Editing Manager
     :PROPERTIES:
