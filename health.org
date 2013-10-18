@@ -574,8 +574,10 @@
     :END:
   
 *** NEXT Evening Stretch
-    SCHEDULED: <2013-10-03 Thu .+1d/2d>
+    SCHEDULED: <2013-10-18 Fri .+1d/2d>
     :LOGBOOK:
+    - State "DONE"       from "NEXT"       [2013-10-17 Thu 22:36]
+    CLOCK: [2013-10-17 Thu 21:09]--[2013-10-17 Thu 21:50] =>  0:41
     - State "DONE"       from "NEXT"       [2013-10-02 Wed 19:56]
     - State "DONE"       from "TODO"       [2013-10-01 Tue 20:25]
     - State "DONE"       from "NEXT"       [2013-09-30 Mon 22:15]
@@ -684,7 +686,7 @@
     :STYLE:    habit
     :REPEAT_TO_STATE: NEXT
     :ID:       d439600f-c40d-4dd3-82ca-3e7d9e35f2b3
-    :LAST_REPEAT: [2013-10-02 Wed 19:56]
+    :LAST_REPEAT: [2013-10-17 Thu 22:36]
     :END:
   
 *** NEXT Handstand practice
