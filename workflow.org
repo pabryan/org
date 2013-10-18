@@ -1557,8 +1557,7 @@ I have mythtv and mediatomb and who knows what else using up valuable resources.
   CLOCK: [2013-10-16 Wed 20:07]--[2013-10-16 Wed 20:17] =>  0:10
   CLOCK: [2013-10-16 Wed 19:37]--[2013-10-16 Wed 20:07] =>  0:30
   CLOCK: [2013-10-16 Wed 19:21]--[2013-10-16 Wed 19:26] =>  0:05
-  CLOCK: [2013-10-16 Wed 12:57]--[2013-10-16 Wed 13:01] =>  0:04
-  CLOCK: [2013-10-15 Tue 10:34]--[2013-10-15 Tue 18:32] =>  7:58
+  CLOCK: [2013-10-16 Wed 12:57]--[2013-10-16 Wed 13:00] =>  0:03
   CLOCK: [2013-10-15 Tue 09:54]--[2013-10-15 Tue 10:30] =>  0:36
   CLOCK: [2013-10-14 Mon 20:39]--[2013-10-14 Mon 20:40] =>  0:01
   CLOCK: [2013-10-14 Mon 20:10]--[2013-10-14 Mon 20:12] =>  0:02
@@ -2378,6 +2377,7 @@ Check how I did last month. I guess the review and plan could probably go togeth
 ** NEXT Daily Review [0/6]
    SCHEDULED: <2013-10-15 Tue .+1d/2d>
    :LOGBOOK:
+   CLOCK: [2013-10-17 Thu 20:41]
    - State "DONE"       from "NEXT"       [2013-10-14 Mon 21:02]
    CLOCK: [2013-10-12 Sat 19:02]--[2013-10-12 Sat 19:04] =>  0:02
    - State "DONE"       from "NEXT"       [2013-10-02 Wed 20:25]
