@@ -5591,8 +5591,11 @@ Lectures in calendar and tasks like planning lectures.
 	   :PROPERTIES:
 	   :ID:       11f775d6-84e5-492d-bbe6-eecf4f9862ab
 	   :END:
-********* NEXT Prepare Lecture 4.1
+********* DONE Prepare Lecture 4.1
 	   DEADLINE: <2013-10-21 Mon>
+	   :LOGBOOK:
+	   - State "DONE"       from "NEXT"       [2013-10-18 Fri 13:58]
+	   :END:
 	   :PROPERTIES:
 	   :ID:       14411bdb-44ac-4672-875c-07e626052572
 	   :END:
@@ -5759,6 +5762,9 @@ Lectures in calendar and tasks like planning lectures.
 ****** Clocking
 ******* Admin
 ******* Office hours
+	:LOGBOOK:
+	CLOCK: [2013-10-18 Fri 13:05]--[2013-10-18 Fri 13:49] =>  0:44
+	:END:
 ****** Schedule
 ******* Lectures
 ******** Location
@@ -5865,7 +5871,11 @@ WLH 2208
 	  :END:
 <2013-10-11 Fri 10:00-11:00>
 ********* Lecture 3.3
+          :LOGBOOK:
+	  CLOCK: [2013-10-18 Fri 09:55]--[2013-10-18 Fri 11:05] =>  1:10
+	  :END:
 <2013-10-18 Fri 10:00-11:00>
+
 ********* Lecture 4.3
 <2013-10-25 Fri 10:00-11:00>
 ********* Lecture 5.3
@@ -6235,8 +6245,11 @@ Also skip "arc-length in polar coordinated" on bottom half of page 637 after exa
 	  :PROPERTIES:
 	  :ID:       11f775d6-84e5-492d-bbe6-eecf4f9862ab
 	  :END:
-********* NEXT Prepare Lecture 4.1
+********* DONE Prepare Lecture 4.1
 	  DEADLINE: <2013-10-21 Mon>
+	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2013-10-18 Fri 13:58]
+	  :END:
 	  :PROPERTIES:
 	  :ID:       14411bdb-44ac-4672-875c-07e626052572
 	  :END:
@@ -6396,7 +6409,8 @@ Also skip "arc-length in polar coordinated" on bottom half of page 637 after exa
 ******* Admin
 ******* Office hours
 	:LOGBOOK:
-	CLOCK: [2013-10-18 Fri 11:05]
+	CLOCK: [2013-10-18 Fri 11:40]--[2013-10-18 Fri 12:20] =>  0:40
+	CLOCK: [2013-10-18 Fri 11:05]--[2013-10-18 Fri 11:38] =>  0:17
 	CLOCK: [2013-10-16 Wed 12:15]--[2013-10-16 Wed 12:55] =>  0:40
 	CLOCK: [2013-10-14 Mon 11:05]--[2013-10-14 Mon 11:44] =>  0:39
 	CLOCK: [2013-10-11 Fri 11:25]--[2013-10-11 Fri 11:51] =>  0:26
