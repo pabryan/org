@@ -1004,6 +1004,8 @@ Try again to make this exponential barrier work.
        	:PROPERTIES:
        	:ID:       60cbd811-022c-4afa-bb52-bc82b8694314
        	:END:			     
+******* NEXT Write curvature bound
+Update comparison theorem to read \(I\geq \phi\) implies that \(\sup_M K_t \leq \phi''(0, t)/24\) or whatever the constant is.
 ***** Notes
 ***** References
 **** TODO Space form curvature flow 			 :SPACE_FORM_HARNACK:
@@ -1038,6 +1040,7 @@ Now consider the pair \((N, \metric), V)\) where \(V\) is a vector field on \(N\
 
 ****** Support Function
 ******* Definition
+******** Vector Field
 Define
 \[
 s_{\kappa} (x) = \begin{cases}
@@ -1066,6 +1069,8 @@ All of this says that the situation described in Ben Andrew's harnack inequality
 \]
 for $z\in\sphere^n$ and where $a(z)$ is tangent. Is the tangent plane at $x$ parallel to the tangent plane to $\sphere^n$ in hyperoblic space and in the sphere? If so then we should be able to conclude something like $a(z) = \grad s$ just as Ben does in Euclidean space.
 
+******** Supporting hyperplane
+I could also define the support function to be the distance from the origin to the supporting hyperplane with normal vector \(\nu\). That is the support function is defined in terms of direction. The supporting hyperplane should be either the totally geodesic hypersurface or horosphere with normal the given vector. This needs some thought though. It makes sense for a unit vector by choosing supporting hyperplane to be the one through the point on \(\bdry{K}\) with normal \(\nu\). For a non-unit vector \(v\), we want some sort of homogeneity. Probably we want to scale the ambient space by \(\lambda = \abs{v}\) and then take calculate from the unit vector in direction \(v\) and the resulting scaled hypersurface. How does this generalise? Probably we need to follow geodesic rays of some sort and then worry about cut locus...
 ******* Laplacian
 We compute $\laplace s$ in the standard parametrisation (i.e. $s$ is a function on $M$ not on $\sphere^n$) which I think is something like
 \[
