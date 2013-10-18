@@ -6396,6 +6396,7 @@ Also skip "arc-length in polar coordinated" on bottom half of page 637 after exa
 ******* Admin
 ******* Office hours
 	:LOGBOOK:
+	CLOCK: [2013-10-18 Fri 11:05]
 	CLOCK: [2013-10-16 Wed 12:15]--[2013-10-16 Wed 12:55] =>  0:40
 	CLOCK: [2013-10-14 Mon 11:05]--[2013-10-14 Mon 11:44] =>  0:39
 	CLOCK: [2013-10-11 Fri 11:25]--[2013-10-11 Fri 11:51] =>  0:26
@@ -6499,7 +6500,11 @@ CENTR 101
 	  :END:
 <2013-10-11 Fri 09:00-10:00>
 ********* Lecture 3.3
+	  :LOGBOOK:
+	  CLOCK: [2013-10-18 Fri 08:55]--[2013-10-18 Fri 09:55] =>  1:00
+	  :END:
 <2013-10-18 Fri 09:00-10:00>
+
 ********* Lecture 4.3
 <2013-10-25 Fri 09:00-10:00>
 ********* Lecture 5.3
