@@ -136,6 +136,7 @@ I want to do teaching with sage-tex and/or org-mode with babel; i.e. interactive
 
 *** NEXT Review MR3020169
     :LOGBOOK:
+    CLOCK: [2013-10-19 Sat 11:50]--[2013-10-19 Sat 12:10] =>  0:20
     CLOCK: [2013-10-16 Wed 13:00]--[2013-10-16 Wed 13:50] =>  0:50
     :END:
 [[file:refs.org::#MR3020169][Topological change in mean convex mean curvature flow]]
@@ -143,7 +144,7 @@ I want to do teaching with sage-tex and/or org-mode with babel; i.e. interactive
 *** Editing Manager
     :PROPERTIES:
     :URL: http://cejm.edmgr.com/ 
-    :USER: PBryan-555
+    :USER:     PBryan-555
     :PASSWORD: bryan52687
     :END:
 *** DONE Edit CEJM-D-12-00160R1
@@ -157,6 +158,13 @@ I want to do teaching with sage-tex and/or org-mode with babel; i.e. interactive
     :ID:       58529b2b-87b8-4680-9a66-f065da5cac50
     :END:
 [[file:~/working/academic/journals/editing/cejm/CEJM-D-12-00160R1]]
+
+*** NEXT Edit CEJM-D-13-00091
+    :LOGBOOK:
+    CLOCK: [2013-10-19 Sat 12:15]--[2013-10-19 Sat 12:25] =>  0:10
+    CLOCK: [2013-10-19 Sat 10:50]--[2013-10-19 Sat 11:25] =>  0:35
+    :END:
+[[file:~/working/academic/journals/editing/cejm/CEJM-D-13-00091]]
 
 ** Refereeing
 *** DONE Referee space curves CSF dist comp.
