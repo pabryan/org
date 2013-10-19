@@ -170,6 +170,9 @@ Remove sidebar
      :END:
 - Not sure if I really need this. I guess it might be nice to auto-generate.
 **** TODO Research
+     :PROPERTIES:
+     :ID:       ed25f0fc-5af7-4b30-b955-a584d3e17fdb
+     :END:
 ***** DONE Research interests
       - State "DONE"       from "NEXT"       [2013-07-25 Thu 21:18]
       :LOGBOOK:
@@ -185,6 +188,9 @@ Remove sidebar
 ***** NEXT Set up research-in-progress
       :LOGBOOK:
       CLOCK: [2013-10-18 Fri 17:35]--[2013-10-18 Fri 18:02] =>  0:27
+      :END:
+      :PROPERTIES:
+      :ID:       edc0e45c-f127-480e-b232-b911c672d53f
       :END:
 - publish from org to website
 *** TODO Put table padding in website
@@ -5480,9 +5486,10 @@ Lectures in calendar and tasks like planning lectures.
 	 :PROPERTIES:
 	 :ID:       77ecaf89-6c7c-4256-b9ba-63ad8557e345
 	 :END:
-******** NEXT Write Homework 3
+******** DONE Write Homework 3
 	 DEADLINE: <2013-10-25 Fri>
 	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2013-10-19 Sat 16:22]
 	 CLOCK: [2013-10-19 Sat 13:55]--[2013-10-19 Sat 14:05] =>  0:10
 	 CLOCK: [2013-10-19 Sat 14:45]--[2013-10-19 Sat 15:00] =>  0:15
 	 :END:
@@ -6569,7 +6576,13 @@ TBA
 ******** Homework 4 Due
 ******** Homework 5 Due
 ***** TODO Cover lectures
+      :PROPERTIES:
+      :ID:       467ee07d-4ea9-4b60-9cbe-8650ee72603a
+      :END:
 ****** TODO Cover Lei Ni DG lecture
+       :PROPERTIES:
+       :ID:       02191925-516f-4a9e-b92b-ad565f3c5159
+       :END:
 <2013-10-21 Mon 14:00-14:50>
 Place: APM 7421
 [[file:~/holding/paul-monday.pdf]]

@@ -139,6 +139,9 @@ I want to do teaching with sage-tex and/or org-mode with babel; i.e. interactive
     CLOCK: [2013-10-19 Sat 11:50]--[2013-10-19 Sat 12:10] =>  0:20
     CLOCK: [2013-10-16 Wed 13:00]--[2013-10-16 Wed 13:50] =>  0:50
     :END:
+    :PROPERTIES:
+    :ID:       d4269d45-7ec1-461b-bca9-85c748160054
+    :END:
 [[file:refs.org::#MR3020169][Topological change in mean convex mean curvature flow]]
 ** CEJM
 *** Editing Manager
@@ -163,6 +166,9 @@ I want to do teaching with sage-tex and/or org-mode with babel; i.e. interactive
     :LOGBOOK:
     CLOCK: [2013-10-19 Sat 12:10]--[2013-10-19 Sat 12:25] =>  0:15
     CLOCK: [2013-10-19 Sat 10:50]--[2013-10-19 Sat 11:25] =>  0:35
+    :END:
+    :PROPERTIES:
+    :ID:       e5c80f02-c6d6-4260-b806-2530fa975965
     :END:
 [[file:~/working/academic/journals/editing/cejm/CEJM-D-13-00091]]
 
@@ -1013,6 +1019,9 @@ Try again to make this exponential barrier work.
        	:ID:       60cbd811-022c-4afa-bb52-bc82b8694314
        	:END:			     
 ******* NEXT Write curvature bound
+	:PROPERTIES:
+	:ID:       f79a49d1-2418-4fee-98a0-c6c5c5ab6d97
+	:END:
 Update comparison theorem to read \(I\geq \phi\) implies that \(\sup_M K_t \leq \phi''(0, t)/24\) or whatever the constant is.
 ***** Notes
 ***** References
