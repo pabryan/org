@@ -56,9 +56,10 @@ I need free close by activities: playground, beach, library?
       :ID:       6bc477b1-d74a-43f8-a607-a660e8793e2a
       :END:
 <2013-10-10 Thu 11:30>
-*** TODO Book follow up orthopedic
+*** DONE Book follow up orthopedic
     <2013-10-18 Fri>
     :LOGBOOK:
+    - State "DONE"       from "TODO"       [2013-10-18 Fri 20:37]
     CLOCK: [2013-10-17 Thu 17:15]--[2013-10-17 Thu 17:16] =>  0:01
     :END:
 [2013-10-17 Thu 17:15]
