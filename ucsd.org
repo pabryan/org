@@ -169,18 +169,24 @@ Remove sidebar
      :ID:       00795efc-d689-4fa6-852f-0faa0f546268
      :END:
 - Not sure if I really need this. I guess it might be nice to auto-generate.
-**** DONE Research interests
-     - State "DONE"       from "NEXT"       [2013-07-25 Thu 21:18]
-     :LOGBOOK:
-     :END:
-     :PROPERTIES:
-     :ID:       3dd10810-b2c4-4677-b2c4-e4d542620645
-     :END:
+**** TODO Research
+***** DONE Research interests
+      - State "DONE"       from "NEXT"       [2013-07-25 Thu 21:18]
+      :LOGBOOK:
+      :END:
+      :PROPERTIES:
+      :ID:       3dd10810-b2c4-4677-b2c4-e4d542620645
+      :END:
 
-**** NEXT Make research papers link to selected papers instead of arxiv
-     :PROPERTIES:
-     :ID:       440ad9b3-2777-4d7e-b86d-e3f5c63dedc4
-     :END:
+***** NEXT Make research papers link to selected papers instead of arxiv
+      :PROPERTIES:
+      :ID:       440ad9b3-2777-4d7e-b86d-e3f5c63dedc4
+      :END:
+***** NEXT Set up research-in-progress
+      :LOGBOOK:
+      CLOCK: [2013-10-18 Fri 17:35]--[2013-10-18 Fri 18:02] =>  0:27
+      :END:
+- publish from org to website
 *** TODO Put table padding in website
     :PROPERTIES:
     :ID:       24e4b769-7799-460d-8102-12d94d3e145e
