@@ -83,9 +83,10 @@ Should be able to insert lecture planning/homework etc with a yassnippet?
      :ID:       0e0ec6e9-ce54-49ca-924b-dc9957f63d33
      :END:
 
-**** TODO Goals in agenda
+**** DONE Goals in agenda
   SCHEDULED: <2013-10-20 Sun>
   :LOGBOOK:
+  - State "DONE"       from "TODO"       [2013-10-20 Sun 10:54]
   CLOCK: [2013-09-30 Mon 21:15]--[2013-09-30 Mon 21:16] =>  0:01
   :END:
   :PROPERTIES:
@@ -1553,6 +1554,8 @@ I have mythtv and mediatomb and who knows what else using up valuable resources.
   :END:
 ** Organisation
   :LOGBOOK:
+  CLOCK: [2013-10-20 Sun 11:11]
+  CLOCK: [2013-10-20 Sun 10:16]--[2013-10-20 Sun 10:30] =>  0:14
   CLOCK: [2013-10-19 Sat 16:21]--[2013-10-19 Sat 16:24] =>  0:03
   CLOCK: [2013-10-19 Sat 15:34]--[2013-10-19 Sat 16:09] =>  0:35
   CLOCK: [2013-10-19 Sat 15:25]--[2013-10-19 Sat 15:33] =>  0:08
@@ -2553,8 +2556,11 @@ When I set up scoring the day:
 - [ ] Collate data such as sleep, weight, exercise, diet etc.
 
 ** NEXT Daily Plan [0/3]
-   SCHEDULED: <2013-10-20 Sun .+1d/2d>
+   SCHEDULED: <2013-10-21 Mon .+1d/2d>
    :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2013-10-20 Sun 11:11]
+   CLOCK: [2013-10-20 Sun 11:07]--[2013-10-20 Sun 11:11] =>  0:04
+   CLOCK: [2013-10-20 Sun 10:30]--[2013-10-20 Sun 11:06] =>  0:36
    - State "DONE"       from "NEXT"       [2013-10-19 Sat 15:37]
    - State "DONE"       from "NEXT"       [2013-10-18 Fri 13:58]
    - State "DONE"       from "NEXT"       [2013-10-17 Thu 17:29]
@@ -2826,7 +2832,7 @@ When I set up scoring the day:
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
    :ID:       ef051ee0-1113-4604-b355-450a5a47848b
-   :LAST_REPEAT: [2013-10-19 Sat 15:37]
+   :LAST_REPEAT: [2013-10-20 Sun 11:11]
    :END:
 
 - [ ] Check agenda/focus
