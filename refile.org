@@ -19,13 +19,3 @@
 
 - Cow pooling: http://www.marksdailyapple.com/cowpooling/#axzz2iHnvc1H3
 - Urban foraging
-
-* TODO Check concavity
-  SCHEDULED: <2013-10-21 Mon>
-  :LOGBOOK:
-  CLOCK: [2013-10-20 Sun 20:15]--[2013-10-20 Sun 20:19] =>  0:04
-  :END:
-[2013-10-20 Sun 20:15]
-For the hyperbolic barrier, concavity should fail when $b$ is too large. For how large, see D of 20/10 notes.
-
-I have a lower bound for the numerator. To get an upper bound for the denominator for large x, take x around 1000 and add little bit. Then I just choose $b$ larger than the quotient and I should lose concavity.

@@ -1028,6 +1028,7 @@ Try again to make this exponential barrier work.
 ******** NEXT Check concavity for ranges of b
   SCHEDULED: <2013-10-21 Mon>
   :LOGBOOK:
+  CLOCK: [2013-10-21 Mon 13:22]
   CLOCK: [2013-10-20 Sun 20:15]--[2013-10-20 Sun 20:19] =>  0:04
   :END:
 [2013-10-20 Sun 20:15]
