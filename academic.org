@@ -1002,7 +1002,8 @@ how are they related?
        :END:
 ******* NEXT Work out hyperbolic barrier
       :LOGBOOK:
-      CLOCK: [2013-10-20 Sun 19:40]
+      CLOCK: [2013-10-20 Sun 20:19]
+      CLOCK: [2013-10-20 Sun 19:40]--[2013-10-20 Sun 20:15] =>  0:35
       CLOCK: [2013-10-20 Sun 18:23]--[2013-10-20 Sun 19:32] =>  1:09
       CLOCK: [2013-10-20 Sun 17:35]--[2013-10-20 Sun 17:50] =>  0:15
       CLOCK: [2013-10-20 Sun 16:40]--[2013-10-20 Sun 17:21] =>  0:41
