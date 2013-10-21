@@ -5819,6 +5819,9 @@ WLH 2208
 	  :LOGBOOK:
 	  CLOCK: [2013-10-21 Mon 09:50]--[2013-10-21 Mon 11:15] =>  1:25
 	  :END:
+	  :PROPERTIES:
+	  :ID:       aa90ebb0-a066-4ae0-b849-b5b47457e0b4
+	  :END:
 <2013-10-21 Mon 10:00-11:00>
 ********* Lecture 5.1
 <2013-10-28 Mon 10:00-11:00>
@@ -6483,6 +6486,9 @@ CENTR 101
 	  :LOGBOOK:
 	  CLOCK: [2013-10-21 Mon 08:50]--[2013-10-21 Mon 09:50] =>  1:00
 	  :END:
+	  :PROPERTIES:
+	  :ID:       9777ef85-62ba-4060-8044-3f36fdaf8ebe
+	  :END:
 <2013-10-21 Mon 09:00-10:00>
 ********* Lecture 5.1
 <2013-10-28 Mon 09:00-10:00>
@@ -6585,7 +6591,11 @@ TBA
       :PROPERTIES:
       :ID:       467ee07d-4ea9-4b60-9cbe-8650ee72603a
       :END:
-****** TODO Cover Lei Ni DG lecture
+****** DONE Cover Lei Ni DG lecture
+       :LOGBOOK:
+       - State "DONE"       from "NEXT"       [2013-10-21 Mon 15:13]
+       CLOCK: [2013-10-21 Mon 13:50]--[2013-10-21 Mon 15:13] =>  1:23
+       :END:
        :PROPERTIES:
        :ID:       02191925-516f-4a9e-b92b-ad565f3c5159
        :END:

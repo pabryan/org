@@ -29,7 +29,13 @@
 http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5549&org=NSF&sel_org=MPS&from=fund
 ***** NEXT Research application process
       SCHEDULED: <2013-10-20 Sun>
+      :PROPERTIES:
+      :ID:       0758ae42-d1e7-4f0a-a8aa-10f663d2691a
+      :END:
 ***** TODO Fill in PI exemption
+      :PROPERTIES:
+      :ID:       e1b60f6b-ab69-466f-8fce-09f062d887cd
+      :END:
 ****** Notes
 1. Proposal title
 2. Which program, due date.  Will this be a 3 years grant?
@@ -1028,9 +1034,12 @@ Try again to make this exponential barrier work.
 ******** NEXT Check concavity for ranges of b
   SCHEDULED: <2013-10-21 Mon>
   :LOGBOOK:
-  CLOCK: [2013-10-21 Mon 13:22]
+  CLOCK: [2013-10-21 Mon 13:22]--[2013-10-21 Mon 13:50] =>  0:28
   CLOCK: [2013-10-20 Sun 20:15]--[2013-10-20 Sun 20:19] =>  0:04
   :END:
+	 :PROPERTIES:
+	 :ID:       0e9eb0a6-a577-46cf-be64-4ee6e3594a9a
+	 :END:
 [2013-10-20 Sun 20:15]
 For the hyperbolic barrier, concavity should fail when $b$ is too large. For how large, see D of 20/10 notes.
 
@@ -1416,12 +1425,21 @@ Can I use a non-collapsing type argument?
 [[http://fds.duke.edu/db/aas/math/bray]]
 Look at all dark matter papers. Alan Parry also. Bibliography of course!
 **** TODO CSF Sphere Ancient Solutions
+     :PROPERTIES:
+     :ID:       6a082853-9a95-4756-9632-17078bd0fe4b
+     :END:
 ***** Tasks
 ****** NEXT Work out curvature evolution in coords
        :LOGBOOK:
        CLOCK: [2013-10-21 Mon 11:35]--[2013-10-21 Mon 12:37] =>  1:02
        :END:
+       :PROPERTIES:
+       :ID:       072484d3-34af-4d34-b8bc-f1a9e44913f7
+       :END:
 ****** TODO Define pressure
+       :PROPERTIES:
+       :ID:       9269bbf3-ecf7-42fd-99fb-4fbfcb952c55
+       :END:
 ** Books
 *** Working
 *** Future 							    :SOMEDAY:
