@@ -1025,6 +1025,15 @@ how are they related?
       :ID:       9576f953-1b7f-4459-915a-b8378f6d8b80
       :END:
 Try again to make this exponential barrier work.
+******** NEXT Check concavity for ranges of b
+  SCHEDULED: <2013-10-21 Mon>
+  :LOGBOOK:
+  CLOCK: [2013-10-20 Sun 20:15]--[2013-10-20 Sun 20:19] =>  0:04
+  :END:
+[2013-10-20 Sun 20:15]
+For the hyperbolic barrier, concavity should fail when $b$ is too large. For how large, see D of 20/10 notes.
+
+I have a lower bound for the numerator. To get an upper bound for the denominator for large x, take x around 1000 and add little bit. Then I just choose $b$ larger than the quotient and I should lose concavity.
 ******* NEXT Check Ben Chow's book for planer integrability of 1st derivative
        	:PROPERTIES:
        	:ID:       68503bad-abd4-49d4-97a6-537854ccc13e
@@ -1043,6 +1052,8 @@ Try again to make this exponential barrier work.
 	:ID:       f79a49d1-2418-4fee-98a0-c6c5c5ab6d97
 	:END:
 Update comparison theorem to read \(I\geq \phi\) implies that \(\sup_M K_t \leq \phi''(0, t)/24\) or whatever the constant is.
+
+
 ***** Notes
 ***** References
 **** TODO Space form curvature flow 			 :SPACE_FORM_HARNACK:
