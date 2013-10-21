@@ -221,7 +221,7 @@ Pass: 67dogs43
      :ID:       1dab75b8-5ecc-4414-86b0-e82df4d9a6b0
      :END:
 **** TODO Get TB screening
-  SCHEDULED: <2013-09-16 Mon>
+  SCHEDULED: <2013-11-16 Mon>
   :PROPERTIES:
   :ID:       e07dccf2-208b-4ea6-a70e-25bd774737b0
   :END:
@@ -234,16 +234,6 @@ Pass: 67dogs43
     :END:
 [2013-04-15 Mon 20:34]
 <2013-04-23 Tue 13:30>
-*** Events
-**** Open House
-     :PROPERTIES:
-     :ID:       a439df9a-08fe-4993-a14b-82ccf44c02e1
-     :END:
-<2013-08-28 Wed>
-**** Spooky Math night
-<2013-10-21 Mon 17:30-19:30>
-**** Student Conferences
-<2013-10-15 Tue 13:30-14:00>
 *** 2013/2014
 **** Parent/Director Meeting
 [2013-09-10 Tue 18:00-19:00]
@@ -303,6 +293,13 @@ Raffle prize items
 Raffle Tickets
 Any Halloween Decorations that you would like to contribute to make the MPR spooky!
 
+***** Student Conferences
+<2013-10-15 Tue 13:30-14:00>
+***** Open House
+     :PROPERTIES:
+     :ID:       a439df9a-08fe-4993-a14b-82ccf44c02e1
+     :END:
+<2013-08-28 Wed>
 **** Sharing
 ***** Raspberry Pi
 ****** NEXT Contact Steve about Raspberry Pi

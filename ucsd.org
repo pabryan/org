@@ -6295,7 +6295,7 @@ Also skip "arc-length in polar coordinated" on bottom half of page 637 after exa
 	  :PROPERTIES:
 	  :ID:       92abedfb-da3c-4aac-acb4-c0d77babd563
 	  :END:
-********* TODO Prepare Lecture 5.1
+********* NEXT Prepare Lecture 5.1
 	  DEADLINE: <2013-10-28 Mon>
 	  :PROPERTIES:
 	  :ID:       f8317796-47bd-47b3-8f6d-8beab0c879d8
@@ -6858,9 +6858,10 @@ homeomorphic to S^4 or to a connected sum of CP^2s.
      :ID:       b35ae55c-df88-42fa-a6c2-ae547e743e16
      :END:
 <2013-10-24 Thu>
-***** NEXT Prepare talk
+***** DONE Prepare talk
       DEADLINE: <2013-10-24 Thu> SCHEDULED: <2013-10-13 Sun>
       :LOGBOOK:
+      - State "DONE"       from "NEXT"       [2013-10-21 Mon 12:42]
       CLOCK: [2013-10-19 Sat 10:30]--[2013-10-19 Sat 10:50] =>  0:20
       CLOCK: [2013-10-18 Fri 19:55]--[2013-10-18 Fri 20:32] =>  0:37
       CLOCK: [2013-10-15 Tue 18:55]--[2013-10-15 Tue 19:21] =>  0:26
@@ -6885,7 +6886,7 @@ homeomorphic to S^4 or to a connected sum of CP^2s.
   CLOCK: [2012-10-26 Fri 15:07]--[2012-10-26 Fri 15:08] =>  0:01
 [2012-10-26 Fri 15:07]
 **** NEXT Send DG seminar email announcement
-     DEADLINE: <2013-10-24 Thu +1w>
+     DEADLINE: <2013-10-31 Thu +1w>
      
     - State "HOLD"       from "NEXT"       [2013-03-29 Fri 10:43] \\
       Lei and I will do an informal seminar instead.
@@ -6900,6 +6901,7 @@ homeomorphic to S^4 or to a connected sum of CP^2s.
     - State "DONE"       from "NEXT"       [2012-12-06 Thu 14:00]
     - State "DONE"       from "TODO"       [2012-11-29 Thu 09:46]
     :LOGBOOK:
+    - State "DONE"       from "NEXT"       [2013-10-21 Mon 12:42]
     - State "DONE"       from "NEXT"       [2013-10-17 Thu 17:28]
     - State "DONE"       from "TODO"       [2013-10-07 Mon 11:21]
     CLOCK: [2013-02-16 Sat 20:11]--[2013-02-16 Sat 20:18] =>  0:07
@@ -6910,7 +6912,7 @@ homeomorphic to S^4 or to a connected sum of CP^2s.
     :PROPERTIES:
     :ID:       0f19da7c-65a3-4e95-8a91-78d12caa46da
     :REPEAT_TO_STATE: NEXT
-    :LAST_REPEAT: [2013-10-17 Thu 17:28]
+    :LAST_REPEAT: [2013-10-21 Mon 12:42]
     :END: 
 
 [[mailto:seminarstaff@math.ucsd.edu]]

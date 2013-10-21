@@ -1830,7 +1830,7 @@ Schedule time for research, for teaching and for non-research academic work (e.g
     :END:
 [2013-07-15 Mon 10:02]
 *** TODO Make create research project capture
-  SCHEDULED: <2013-10-20 Sun>
+  SCHEDULED: <2013-12-20 Fri>
     :PROPERTIES:
     :ID:       89aab08c-03b4-4561-b868-45bc0088ba34
     :END:
@@ -2110,7 +2110,7 @@ http://mathoverflow.net/questions/14877/how-much-of-differential-geometry-can-be
 ** Open Notebook
 *** Tasks
 **** NEXT Research starting an open notebook
-  SCHEDULED: <2013-10-21 Mon>
+  SCHEDULED: <2013-10-28 Mon>
   :LOGBOOK:
   CLOCK: [2013-08-06 Tue 20:54]--[2013-08-06 Tue 20:55] =>  0:01
   :END:
