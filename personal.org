@@ -745,9 +745,10 @@ http://www.taijiworld.com/
 
 866-413-1582
 
-**** WAITING Contact Pain Away
+**** NEXT Contact Pain Away
      SCHEDULED: <2013-09-09 Mon>
      :LOGBOOK:
+     - State "NEXT"       from "WAITING"    [2013-10-22 Tue 08:19]
      - State "WAITING"    from "TODO"       [2013-10-20 Sun 10:45] \\
        Waiting for info from pain relief: do  I need to do pain away again and how should my supervisor authorize it?
      :END:
