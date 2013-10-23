@@ -326,7 +326,10 @@ http://service.mygreenapple.org/page/event/detail/takeitoutside/4jvm7
 <2013-10-09 Wed>
 **** Bates Nut Farm
 <2013-10-23 Wed>
-***** TODO Pay for field trip
+***** DONE Pay for field trip
+      :LOGBOOK:
+      - State "DONE"       from "TODO"       [2013-10-23 Wed 11:59]
+      :END:
       :PROPERTIES:
       :ID:       3fcebb9f-3078-43e3-945d-ac18a3536a0f
       :END:
