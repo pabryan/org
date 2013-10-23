@@ -5402,6 +5402,9 @@ Lectures in calendar and tasks like planning lectures.
 	  - State "DONE"       from "NEXT"       [2013-10-04 Fri 12:51]
 	  CLOCK: [2013-10-04 Fri 12:46]--[2013-10-04 Fri 12:51] =>  0:05
 	  :END:
+	  :PROPERTIES:
+	  :ID:       08f868eb-5729-49d8-a549-1422e0729557
+	  :END:
 ********* DONE Submit midterm to printing/frdesk
 	  DEADLINE: <2013-10-23 Wed>
 	  :LOGBOOK:
@@ -5869,6 +5872,9 @@ WLH 2208
 ********* Lecture 4.2
 	  :LOGBOOK:
 	  CLOCK: [2013-10-23 Wed 09:50]--[2013-10-23 Wed 11:13] =>  1:25
+	  :END:
+	  :PROPERTIES:
+	  :ID:       cfc234f5-a5df-4e45-977f-36fd7eb59acc
 	  :END:
 	  <2013-10-23 Wed 10:00-11:00>
 
@@ -6537,6 +6543,9 @@ CENTR 101
 ********* Lecture 4.2
 	  :LOGBOOK:
 	  CLOCK: [2013-10-23 Wed 08:50]--[2013-10-23 Wed 09:50] =>  1:00
+	  :END:
+	  :PROPERTIES:
+	  :ID:       2d644816-1624-406f-8cfc-479d3b6161bd
 	  :END:
 <2013-10-23 Wed 09:00-10:00>
 ********* Lecture 5.2
