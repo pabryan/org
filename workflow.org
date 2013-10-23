@@ -2393,6 +2393,7 @@ Check how I did last month. I guess the review and plan could probably go togeth
 ** NEXT Daily Review [0/6]
    SCHEDULED: <2013-10-22 Tue .+1d/2d>
    :LOGBOOK:
+   CLOCK: [2013-10-22 Tue 19:44]
    - State "DONE"       from "NEXT"       [2013-10-21 Mon 21:20]
    CLOCK: [2013-10-21 Mon 21:19]--[2013-10-21 Mon 21:20] =>  0:01
    - State "DONE"       from "NEXT"       [2013-10-19 Sat 22:16]
