@@ -1034,12 +1034,14 @@ Try again to make this exponential barrier work.
 ******** NEXT Check concavity for ranges of b
   SCHEDULED: <2013-10-21 Mon>
   :LOGBOOK:
+  CLOCK: [2013-10-22 Tue 17:50]--[2013-10-22 Tue 18:19] =>  0:29
   CLOCK: [2013-10-22 Tue 13:51]--[2013-10-22 Tue 15:01] =>  1:10
   CLOCK: [2013-10-21 Mon 13:22]--[2013-10-21 Mon 13:50] =>  0:28
   CLOCK: [2013-10-20 Sun 20:15]--[2013-10-20 Sun 20:19] =>  0:04
   :END:
 	 :PROPERTIES:
 	 :ID:       0e9eb0a6-a577-46cf-be64-4ee6e3594a9a
+	 :ORDERED:  t
 	 :END:
 [2013-10-20 Sun 20:15]
 For the hyperbolic barrier, concavity should fail when $b$ is too large. For how large, see D of 20/10 notes.
