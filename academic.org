@@ -1056,8 +1056,16 @@ Try again to make this exponential barrier work.
 For the hyperbolic barrier, concavity should fail when $b$ is too large. For how large, see D of 20/10 notes.
 
 I have a lower bound for the numerator. To get an upper bound for the denominator for large x, take x around 1000 and add little bit. Then I just choose $b$ larger than the quotient and I should lose concavity.
+******** DONE Write up concavity
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2013-10-23 Wed 17:07]
+	 CLOCK: [2013-10-23 Wed 15:46]--[2013-10-23 Wed 17:07] =>  1:21
+	 :END:
 ******** NEXT Find range of b,c for diff. ineq.
 	 SCHEDULED: <2013-10-23 Wed>
+******** TODO Write range of b,c for diff. ineq.
+******** TODO Work out asymptotics for v_C, f
+******** TODO Write asymptotics for v_C, f
 ******* NEXT Check Ben Chow's book for planer integrability of 1st derivative
        	:PROPERTIES:
        	:ID:       68503bad-abd4-49d4-97a6-537854ccc13e
