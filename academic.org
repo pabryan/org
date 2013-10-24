@@ -1064,6 +1064,9 @@ I have a lower bound for the numerator. To get an upper bound for the denominato
 	 :END:
 ******** NEXT Find range of b,c for diff. ineq.
 	 SCHEDULED: <2013-10-23 Wed>
+	 :LOGBOOK:
+	 CLOCK: [2013-10-24 Thu 13:20]
+	 :END:
 ******** TODO Write range of b,c for diff. ineq.
 ******** TODO Work out asymptotics for v_C, f
 ******** TODO Write asymptotics for v_C, f

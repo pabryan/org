@@ -18,6 +18,12 @@
 $4 per child
 $14 family
 
+*** DONE Top up Remy's lunch money
+   SCHEDULED: <2013-01-07 Mon>
+   - State "DONE"       from "TODO"       [2013-01-06 Sun 14:45]
+   :PROPERTIES:
+   :ID:       1cba75a7-0dee-40ff-9463-d9ab42b68b65
+   :END:
 
 *** Field Trip: Marie Hitchcock Puppet Theatre
     :PROPERTIES:
@@ -177,14 +183,7 @@ Did they receive them?
 
 I want to find things for Remy to do at home that keep his interest in the world aroud him, particularly in science but also language say. How can we work this into our daily lives?
 
-** DONE Top up Remy's lunch money
-   SCHEDULED: <2013-01-07 Mon>
-   - State "DONE"       from "TODO"       [2013-01-06 Sun 14:45]
-   :PROPERTIES:
-   :ID:       1cba75a7-0dee-40ff-9463-d9ab42b68b65
-   :END:
-
-** IA									 :IA:
+** IA 									 :IA:
 *** Tasks
 **** DONE Fill in acceptence form
      SCHEDULED: <2013-07-16 Tue> DEADLINE: <2013-07-17 Wed>
@@ -310,26 +309,23 @@ Any Halloween Decorations that you would like to contribute to make the MPR spoo
 **** Independent learning
 ***** Paperwork due
 <2013-10-28 Mon>
-*** Extra Home Learning
-**** Science
-http://www.stevespanglerscience.com/
-*** Volunteering
-**** Gardening
-***** Green Apple Service Day
+**** Volunteering
+***** Gardening
+****** Green Apple Service Day
 <2013-09-28 Sat 10:00-13:00>
 http://service.mygreenapple.org/page/event/detail/takeitoutside/4jvm7
-*** Field Trips
-**** Urban Corps
+**** Field Trips
+***** Urban Corps
      :PROPERTIES:
      :ID:       3d6ef3b2-f66c-41e3-9305-96ac82f5cebe
      :END: 
 <2013-10-09 Wed>
-**** Bates Nut Farm
+***** Bates Nut Farm
      :PROPERTIES:
      :ID:       75dbca7c-d3d6-4726-b8a8-937a3cd0f223
      :END:
 <2013-10-23 Wed>
-***** DONE Pay for field trip
+****** DONE Pay for field trip
       :LOGBOOK:
       - State "DONE"       from "TODO"       [2013-10-23 Wed 11:59]
       :END:
@@ -337,7 +333,9 @@ http://service.mygreenapple.org/page/event/detail/takeitoutside/4jvm7
       :ID:       3fcebb9f-3078-43e3-945d-ac18a3536a0f
       :END:
 $11.25
-*** Form
+***** San Diego Border Field State Park
+<2013-11-04 Mon>
+*** Forms
 **** DONE Turn in monthly form
      DEADLINE: <2013-10-11 Fri>
      :LOGBOOK:
@@ -354,6 +352,9 @@ $11.25
      :PROPERTIES:
      :ID:       a8bf36cc-fff8-46c4-b23e-b6dd338313d3
      :END:
+** Extra Home Learning
+*** Science
+http://www.stevespanglerscience.com/
 * Reading
   :PROPERTIES:
   :ID:       d39bef53-4de3-4de3-b9e3-7f3a75c7229b
