@@ -1065,11 +1065,23 @@ I have a lower bound for the numerator. To get an upper bound for the denominato
 ******** NEXT Find range of b,c for diff. ineq.
 	 SCHEDULED: <2013-10-23 Wed>
 	 :LOGBOOK:
-	 CLOCK: [2013-10-24 Thu 13:20]
+	 CLOCK: [2013-10-24 Thu 13:20]--[2013-10-24 Thu 15:30] =>  2:10
+	 :END:
+	 :PROPERTIES:
+	 :ID:       a3d9855d-0e89-4b4a-b803-14f13cab7b55
 	 :END:
 ******** TODO Write range of b,c for diff. ineq.
+	 :PROPERTIES:
+	 :ID:       61537dd1-af20-481c-8743-88fabf4cd342
+	 :END:
 ******** TODO Work out asymptotics for v_C, f
+	 :PROPERTIES:
+	 :ID:       de3fd180-a7bb-4a27-aa68-0d66e0d0ced7
+	 :END:
 ******** TODO Write asymptotics for v_C, f
+	 :PROPERTIES:
+	 :ID:       ab3eb799-03db-408c-bbb3-2bd3b747b024
+	 :END:
 ******* NEXT Check Ben Chow's book for planer integrability of 1st derivative
        	:PROPERTIES:
        	:ID:       68503bad-abd4-49d4-97a6-537854ccc13e
