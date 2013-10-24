@@ -6032,8 +6032,12 @@ Lectures in calendar and tasks like planning lectures.
 	  :PROPERTIES:
 	  :ID:       475f5af7-5988-475b-9eaf-41bfea0ccc35
 	  :END:
-********* NEXT Write MT 1 solutions
+********* WAITING Write MT 1 solutions
 	  DEADLINE: <2013-10-27 Sun>
+	  :LOGBOOK:
+	  - State "WAITING"    from "NEXT"       [2013-10-24 Thu 11:41] \\
+	    TA will write solutions.
+	  :END:
 	  :PROPERTIES:
 	  :ID:       69bcf73d-ef6e-4414-a094-4ffe6ac23768
 	  :END:
@@ -6800,6 +6804,7 @@ See Holding email.
 [[file:~/working/ucsd/ucsdwebsite/dgseminar]]
 *** Organising UCSD DG SEMINAR
    :LOGBOOK:
+   CLOCK: [2013-10-24 Thu 11:46]
    CLOCK: [2013-02-25 Mon 09:55]--[2013-02-25 Mon 10:02] =>  0:07
    CLOCK: [2013-02-18 Mon 20:01]--[2013-02-18 Mon 20:10] =>  0:09
    CLOCK: [2013-02-01 Fri 11:19]--[2013-02-01 Fri 11:26] =>  0:07
@@ -6918,7 +6923,7 @@ homeomorphic to S^4 or to a connected sum of CP^2s.
   CLOCK: [2012-10-26 Fri 15:07]--[2012-10-26 Fri 15:08] =>  0:01
 [2012-10-26 Fri 15:07]
 **** NEXT Send DG seminar email announcement
-     DEADLINE: <2013-10-31 Thu +1w>
+     DEADLINE: <2013-11-07 Thu +1w>
      
     - State "HOLD"       from "NEXT"       [2013-03-29 Fri 10:43] \\
       Lei and I will do an informal seminar instead.
@@ -6933,6 +6938,7 @@ homeomorphic to S^4 or to a connected sum of CP^2s.
     - State "DONE"       from "NEXT"       [2012-12-06 Thu 14:00]
     - State "DONE"       from "TODO"       [2012-11-29 Thu 09:46]
     :LOGBOOK:
+    - State "DONE"       from "NEXT"       [2013-10-24 Thu 11:42]
     - State "DONE"       from "NEXT"       [2013-10-21 Mon 12:42]
     - State "DONE"       from "NEXT"       [2013-10-17 Thu 17:28]
     - State "DONE"       from "TODO"       [2013-10-07 Mon 11:21]
@@ -6944,7 +6950,7 @@ homeomorphic to S^4 or to a connected sum of CP^2s.
     :PROPERTIES:
     :ID:       0f19da7c-65a3-4e95-8a91-78d12caa46da
     :REPEAT_TO_STATE: NEXT
-    :LAST_REPEAT: [2013-10-21 Mon 12:42]
+    :LAST_REPEAT: [2013-10-24 Thu 11:42]
     :END: 
 
 [[mailto:seminarstaff@math.ucsd.edu]]
