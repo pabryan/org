@@ -6797,7 +6797,7 @@ See Holding email.
    :ID:       fa6cea64-9d5f-462e-8240-9f423a327330
    :END:
 *** DG Seminar Web Page
-[[file:~/working/ucsd/ucsdwebsite/org/dg_seminar.org]]
+[[file:~/working/ucsd/ucsdwebsite/dgseminar]]
 *** Organising UCSD DG SEMINAR
    :LOGBOOK:
    CLOCK: [2013-02-25 Mon 09:55]--[2013-02-25 Mon 10:02] =>  0:07
@@ -6884,7 +6884,7 @@ homeomorphic to S^4 or to a connected sum of CP^2s.
 <2012-12-06 Thu 15:00-16:00>
 **** Dual body flows talk
      :LOGBOOK:
-     CLOCK: [2013-10-24 Thu 09:55]
+     CLOCK: [2013-10-24 Thu 09:55]--[2013-10-24 Thu 11:15] =>  1:20
      :END:
      :PROPERTIES:
      :ID:       b35ae55c-df88-42fa-a6c2-ae547e743e16
