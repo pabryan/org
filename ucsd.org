@@ -5499,7 +5499,7 @@ Lectures in calendar and tasks like planning lectures.
 	 :PROPERTIES:
 	 :ID:       fa667c39-0e7e-4f28-b69a-247044d6593e
 	 :END:
-******** TODO Write Homework 4
+******** NEXT Write Homework 4
 	 DEADLINE: <2013-11-08 Fri>
 	 :PROPERTIES:
 	 :ID:       9e2b4c6c-affb-4f7c-ad52-f804b49c6237
@@ -6610,7 +6610,10 @@ TBA
 ******** Homework 3 Due
 ******** Homework 4 Due
 ******** Homework 5 Due
-***** TODO Cover lectures
+***** DONE Cover lectures
+      :LOGBOOK:
+      - State "DONE"       from "TODO"       [2013-10-24 Thu 19:35]
+      :END:
       :PROPERTIES:
       :ID:       467ee07d-4ea9-4b60-9cbe-8650ee72603a
       :END:
@@ -6894,7 +6897,7 @@ homeomorphic to S^4 or to a connected sum of CP^2s.
      :PROPERTIES:
      :ID:       b35ae55c-df88-42fa-a6c2-ae547e743e16
      :END:
-<2013-10-24 Thu>
+<2013-10-24 Thu 10:00-11:00>
 ***** DONE Prepare talk
       DEADLINE: <2013-10-24 Thu> SCHEDULED: <2013-10-13 Sun>
       :LOGBOOK:
