@@ -2879,7 +2879,7 @@ When I set up scoring the day:
 - [ ] Do short tasks
 - [ ] Record morning health stats
 
-** NEXT Weekly Review [3/18]
+** NEXT Weekly Review [12/18]
    SCHEDULED: <2013-10-06 Sun +1w>
    :LOGBOOK:
    CLOCK: [2013-10-27 Sun 11:42]
@@ -2984,8 +2984,8 @@ What to review:
   - fix up any errors
 - [ ] Review clock report for past week =R=
   - Check where we spent time (too much or too little) and rectify this week
-- [ ] Look at entire agenda for today  =F12 SPC=
-- [ ] Check uncommited work
+- [X] Look at entire agenda for today  =F12 SPC=
+- [X] Check uncommited work
 - [ ] Refile tasks
 - [ ] Weekly clean up
   - [ ] Clean up Downloads
@@ -2995,14 +2995,14 @@ What to review:
 - [ ] Process incoming information
   - feedly
   - pocket
-- [ ] Review focus projects 
-- [ ] Set focus
-- [ ] Check Finances
+- [X] Review focus projects 
+- [X] Set focus
+- [X] Check Finances
   - Check bank accounts and compare with what's still to come
-- [ ] Copy music to phone
-- [ ] Share photos on Google+
-- [ ] Update Abundant Harvest order
-- [ ] Order meat
+- [X] Copy music to phone
+- [X] Share photos on Google+
+- [X] Update Abundant Harvest order
+- [X] Order meat
   - http://www.son-riseranchstore.com/
 
 ** NEXT Monthly Plan/Review [0/4]
