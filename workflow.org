@@ -2879,10 +2879,11 @@ When I set up scoring the day:
 - [ ] Do short tasks
 - [ ] Record morning health stats
 
-** NEXT Weekly Review [12/18]
-   SCHEDULED: <2013-10-06 Sun +1w>
+** NEXT Weekly Review [0/18]
+   SCHEDULED: <2013-10-13 Sun +1w>
    :LOGBOOK:
-   CLOCK: [2013-10-27 Sun 11:42]
+   - State "DONE"       from "NEXT"       [2013-10-27 Sun 13:09]
+   CLOCK: [2013-10-27 Sun 11:42]--[2013-10-27 Sun 12:40] =>  0:58
    CLOCK: [2013-10-20 Sun 11:12]--[2013-10-20 Sun 11:22] =>  0:10
    CLOCK: [2013-10-12 Sat 19:04]--[2013-10-12 Sat 19:30] =>  0:26
    - State "DONE"       from "NEXT"       [2013-10-09 Wed 19:20]
@@ -2970,22 +2971,22 @@ When I set up scoring the day:
    :REPEAT_TO_STATE: NEXT
    :ID:       846c05fa-21d7-4e6f-8431-a1fa06631945
    :RESET_CHECK_BOXES: t
-   :LAST_REPEAT: [2013-10-09 Wed 19:20]
+   :LAST_REPEAT: [2013-10-27 Sun 13:09]
    :END:
 
 What to review:
 
-- [X] Check follow-up paper folder
-- [X] Check holding directory
+- [ ] Check follow-up paper folder
+- [ ] Check holding directory
   [[file:~/holding]]
-- [X] Check holding email folder
+- [ ] Check holding email folder
 - [ ] Review weekly agenda =F12 a w//=
 - [ ] Check clocking data for past week =v c=
   - fix up any errors
 - [ ] Review clock report for past week =R=
   - Check where we spent time (too much or too little) and rectify this week
-- [X] Look at entire agenda for today  =F12 SPC=
-- [X] Check uncommited work
+- [ ] Look at entire agenda for today  =F12 SPC=
+- [ ] Check uncommited work
 - [ ] Refile tasks
 - [ ] Weekly clean up
   - [ ] Clean up Downloads
@@ -2995,14 +2996,14 @@ What to review:
 - [ ] Process incoming information
   - feedly
   - pocket
-- [X] Review focus projects 
-- [X] Set focus
-- [X] Check Finances
+- [ ] Review focus projects 
+- [ ] Set focus
+- [ ] Check Finances
   - Check bank accounts and compare with what's still to come
-- [X] Copy music to phone
-- [X] Share photos on Google+
-- [X] Update Abundant Harvest order
-- [X] Order meat
+- [ ] Copy music to phone
+- [ ] Share photos on Google+
+- [ ] Update Abundant Harvest order
+- [ ] Order meat
   - http://www.son-riseranchstore.com/
 
 ** NEXT Monthly Plan/Review [0/4]
