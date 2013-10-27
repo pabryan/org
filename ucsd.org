@@ -6038,9 +6038,10 @@ Lectures in calendar and tasks like planning lectures.
 	  :PROPERTIES:
 	  :ID:       475f5af7-5988-475b-9eaf-41bfea0ccc35
 	  :END:
-********* WAITING Write MT 1 solutions
+********* DONE Write MT 1 solutions
 	  DEADLINE: <2013-10-27 Sun>
 	  :LOGBOOK:
+	  - State "DONE"       from "WAITING"    [2013-10-27 Sun 10:48]
 	  - State "WAITING"    from "NEXT"       [2013-10-24 Thu 11:41] \\
 	    TA will write solutions.
 	  :END:

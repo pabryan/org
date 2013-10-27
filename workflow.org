@@ -979,7 +979,7 @@ Levenger?
 - Projects should have a larger folder with papers, notes etc.
 
 *** TODO Make weekly paper review/check task
-  SCHEDULED: <2013-10-27 Sun>
+  SCHEDULED: <2014-01-27 Mon>
   :LOGBOOK:
   CLOCK: [2013-08-27 Tue 10:33]--[2013-08-27 Tue 10:34] =>  0:01
   :END:
@@ -2584,6 +2584,7 @@ When I set up scoring the day:
 ** NEXT Daily Plan [0/3]
    SCHEDULED: <2013-10-27 Sun .+1d/2d>
    :LOGBOOK:
+   CLOCK: [2013-10-27 Sun 10:31]
    - State "DONE"       from "NEXT"       [2013-10-26 Sat 14:21]
    - State "DONE"       from "NEXT"       [2013-10-25 Fri 16:15]
    - State "DONE"       from "NEXT"       [2013-10-24 Thu 11:42]
@@ -2998,7 +2999,7 @@ What to review:
   - Check bank accounts and compare with what's still to come
 - [ ] Copy music to phone
 - [ ] Share photos on Google+
-
+- [ ] Update Abundant Harvest order
 
 ** NEXT Monthly Plan/Review [0/4]
    SCHEDULED: <2013-11-01 Fri +1m>
