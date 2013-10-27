@@ -2582,9 +2582,10 @@ When I set up scoring the day:
 - [ ] Collate data such as sleep, weight, exercise, diet etc.
 
 ** NEXT Daily Plan [0/3]
-   SCHEDULED: <2013-10-27 Sun .+1d/2d>
+   SCHEDULED: <2013-10-28 Mon .+1d/2d>
    :LOGBOOK:
-   CLOCK: [2013-10-27 Sun 10:31]
+   - State "DONE"       from "NEXT"       [2013-10-27 Sun 11:12]
+   CLOCK: [2013-10-27 Sun 10:31]--[2013-10-27 Sun 11:12] =>  0:41
    - State "DONE"       from "NEXT"       [2013-10-26 Sat 14:21]
    - State "DONE"       from "NEXT"       [2013-10-25 Fri 16:15]
    - State "DONE"       from "NEXT"       [2013-10-24 Thu 11:42]
@@ -2869,7 +2870,7 @@ When I set up scoring the day:
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
    :ID:       ef051ee0-1113-4604-b355-450a5a47848b
-   :LAST_REPEAT: [2013-10-26 Sat 14:21]
+   :LAST_REPEAT: [2013-10-27 Sun 11:12]
    :END:
 
 - [ ] Check agenda/focus
@@ -3000,6 +3001,8 @@ What to review:
 - [ ] Copy music to phone
 - [ ] Share photos on Google+
 - [ ] Update Abundant Harvest order
+- [ ] Order meat
+  - http://www.son-riseranchstore.com/
 
 ** NEXT Monthly Plan/Review [0/4]
    SCHEDULED: <2013-11-01 Fri +1m>
