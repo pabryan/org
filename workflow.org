@@ -2879,9 +2879,10 @@ When I set up scoring the day:
 - [ ] Do short tasks
 - [ ] Record morning health stats
 
-** NEXT Weekly Review [3/16]
+** NEXT Weekly Review [3/18]
    SCHEDULED: <2013-10-06 Sun +1w>
    :LOGBOOK:
+   CLOCK: [2013-10-27 Sun 11:42]
    CLOCK: [2013-10-20 Sun 11:12]--[2013-10-20 Sun 11:22] =>  0:10
    CLOCK: [2013-10-12 Sat 19:04]--[2013-10-12 Sat 19:30] =>  0:26
    - State "DONE"       from "NEXT"       [2013-10-09 Wed 19:20]
