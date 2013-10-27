@@ -1264,7 +1264,19 @@ CONSTANT ANISOTROPIC MEAN CURVATURE
        CLOCK: [2013-10-04 Fri 15:06]--[2013-10-04 Fri 16:20] =>  1:14
        :END:
 *** Future							    :SOMEDAY:
-**** TODO Pipe Flows						  :PIPE_FLOW:
+**** TODO Study non-smooth mean curvature flow, minimal surfaces via support fn
+     SCHEDULED: <2014-01-12 Sun>
+  :LOGBOOK:
+  CLOCK: [2013-10-19 Sat 15:33]--[2013-10-19 Sat 15:34] =>  0:01
+  :END:
+  :PROPERTIES:
+  :ID:       7fa8e994-7da5-4bf8-bae3-000740c3e966
+  :END:
+[2013-10-19 Sat 15:33]
+- Surely I can get something out of this? Maybe I can get regularity results? 
+- Also, high co-dimension should be interesting. The support function is the projection onto the normal bundle here.
+
+**** TODO Pipe Flows 						  :PIPE_FLOW:
    :PROPERTIES:
    :ID:       cf90c8f0-dc09-44d4-87d4-f7000acc2ba1
    :END:

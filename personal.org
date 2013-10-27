@@ -1983,6 +1983,19 @@ Delta 4502 From LA.
   :PROPERTIES:
   :ID:       ed6a7e09-d3d2-4963-b9ff-001444bd0f41
   :END:
+** Tasks
+*** TODO Check out food sources
+  SCHEDULED: <2013-11-03 Sun>
+  :LOGBOOK:
+  CLOCK: [2013-10-20 Sun 11:06]--[2013-10-20 Sun 11:07] =>  0:01
+  :END:
+  :PROPERTIES:
+  :ID:       a91953bb-627c-4ec1-9d89-110e9228e0b0
+  :END:
+[2013-10-20 Sun 11:06]
+
+- Cow pooling: http://www.marksdailyapple.com/cowpooling/#axzz2iHnvc1H3
+- Urban foraging
 ** Chocolate
 *** Links
 [[http://worldwidechocolate.com/100_chocolate.html]]
@@ -2034,14 +2047,16 @@ Delta 4502 From LA.
     :END: 
 <2013-04-01 +1w>
 ** Nature Box
-*** NEXT Sing up for NatureBox
+*** DONE Sing up for NatureBox
+    :LOGBOOK:
+    - State "DONE"       from "NEXT"       [2013-10-27 Sun 12:22]
+    :END:
     :PROPERTIES:
     :ID:       7d07aca8-6684-4dad-a065-bf375de4da94
     :END:
 [[http://naturebox.com]]
 Code: SHARE10
-** Shopping Lists
-** DONE Cancel naturebox
+*** DONE Cancel naturebox
   SCHEDULED: <2013-09-27 Fri>
   :LOGBOOK:
   - State "DONE"       from "TODO"       [2013-10-09 Wed 17:14]
@@ -2052,7 +2067,9 @@ Code: SHARE10
    :END:
 [2013-09-26 Thu 19:37]
 1-888-613-6998.
-** Milk
+** Shopping Lists
+** Sources
+*** Milk
 - Ocean Beach People's Organic Foods Market
    4765 Voltaire St.
    San Diego, CA 92107
@@ -2062,6 +2079,12 @@ Code: SHARE10
    San Diego, CA 92107
 - Organic pastures
 - Organic valley
+
+*** Meat
+**** SonRise Ranch
+http://www.son-riseranchstore.com/
+http://www.truepasturebeef.com/
+
 * Writing							    :WRITING:
   :PROPERTIES:
   :ID:       0729e545-5750-4ead-95a4-2dd93f8579f5
