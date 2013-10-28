@@ -36,6 +36,7 @@
       :PROPERTIES:
       :ID:       0758ae42-d1e7-4f0a-a8aa-10f663d2691a
       :END:
+***** TODO Prepare template application
 ***** TODO Fill in PI exemption
       :PROPERTIES:
       :ID:       e1b60f6b-ab69-466f-8fce-09f062d887cd
@@ -1013,9 +1014,8 @@ how are they related?
        :PROPERTIES:
        :ID:       321d75db-7c19-457c-b955-3f7236b899e2
        :END:
-******* NEXT Work out hyperbolic barrier
+******* TODO Work out hyperbolic barrier
       :LOGBOOK:
-      CLOCK: [2013-10-20 Sun 20:19]--[2013-10-20 Sun 20:20] =>  0:01
       CLOCK: [2013-10-20 Sun 19:40]--[2013-10-20 Sun 20:15] =>  0:35
       CLOCK: [2013-10-20 Sun 18:23]--[2013-10-20 Sun 19:32] =>  1:09
       CLOCK: [2013-10-20 Sun 17:35]--[2013-10-20 Sun 17:50] =>  0:15
@@ -1065,6 +1065,8 @@ I have a lower bound for the numerator. To get an upper bound for the denominato
 ******** NEXT Find range of b,c for diff. ineq.
 	 SCHEDULED: <2013-10-23 Wed>
 	 :LOGBOOK:
+	 CLOCK: [2013-10-28 Mon 12:26]
+	 CLOCK: [2013-10-28 Mon 10:05]--[2013-10-28 Mon 11:55] =>  1:50
 	 CLOCK: [2013-10-24 Thu 16:27]--[2013-10-24 Thu 17:45] =>  1:18
 	 CLOCK: [2013-10-24 Thu 13:20]--[2013-10-24 Thu 15:30] =>  2:10
 	 :END:

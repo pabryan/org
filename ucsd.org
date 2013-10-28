@@ -5413,8 +5413,12 @@ Lectures in calendar and tasks like planning lectures.
 	  :PROPERTIES:
 	  :ID:       c290c585-2b28-4ffe-99ab-5473db810675
 	  :END:
-********* NEXT Write MT 1 solutions
+********* WAITING Write MT 1 solutions
 	  DEADLINE: <2013-11-01 Fri>
+	  :LOGBOOK:
+	  - State "WAITING"    from "NEXT"       [2013-10-28 Mon 12:24] \\
+	    TA is writing solutions
+	  :END:
 	  :PROPERTIES:
 	  :ID:       4a9c52b1-453d-4b5d-a6da-e956c016980b
 	  :END:
@@ -5830,6 +5834,9 @@ WLH 2208
 	  :END:
 <2013-10-21 Mon 10:00-11:00>
 ********* Lecture 5.1
+	  :LOGBOOK:
+	  CLOCK: [2013-10-28 Mon 09:55]--[2013-10-28 Mon 11:10] =>  1:15
+	  :END:
 <2013-10-28 Mon 10:00-11:00>
 ********* Lecture 6.1
 <2013-11-04 Mon 10:00-11:00>
@@ -6528,6 +6535,9 @@ CENTR 101
 	  :END:
 <2013-10-21 Mon 09:00-10:00>
 ********* Lecture 5.1
+	  :LOGBOOK:
+	  CLOCK: [2013-10-28 Mon 08:50]--[2013-10-28 Mon 09:50] =>  1:00
+	  :END:
 <2013-10-28 Mon 09:00-10:00>
 ********* Lecture 6.1
 <2013-11-04 Mon 09:00-10:00>
