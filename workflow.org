@@ -469,9 +469,11 @@ If I'm working on a project, I want an agenda view showing me just that project.
   :END:
 [2013-03-14 Thu 14:05]
 
-*** WAITING Use org-checklists
-    SCHEDULED: <2013-10-06 Sun>
+*** NEXT Use org-checklists
+    SCHEDULED: <2013-11-03 Sun>
     :LOGBOOK:
+    - State "NEXT"       from "WAITING"    [2013-10-27 Sun 20:31] \\
+      I doesn't seem to work on Ubuntu 12.04. Maybe I need to downgrade it?
     - State "WAITING"    from "NEXT"       [2013-09-29 Sun 20:48] \\
       Set it up. Just waiting to see if it works...
     :END:
@@ -2403,8 +2405,10 @@ Set some goals for the month. I should check someday projects for inclusion in t
 Check how I did last month. I guess the review and plan could probably go together. This is all broad stuff
 
 ** NEXT Daily Review [0/6]
-   SCHEDULED: <2013-10-25 Fri .+1d/2d>
+   SCHEDULED: <2013-10-28 Mon .+1d/2d>
    :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2013-10-27 Sun 20:36]
+   CLOCK: [2013-10-27 Sun 20:31]--[2013-10-27 Sun 20:36] =>  0:05
    - State "DONE"       from "NEXT"       [2013-10-24 Thu 21:16]
    CLOCK: [2013-10-24 Thu 21:09]--[2013-10-24 Thu 21:16] =>  0:07
    - State "DONE"       from "NEXT"       [2013-10-23 Wed 20:51]
@@ -2565,7 +2569,7 @@ Check how I did last month. I guess the review and plan could probably go togeth
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
    :ID:       616c5bd9-d941-4fcc-8874-2ff3c9e96b4a
-   :LAST_REPEAT: [2013-10-24 Thu 21:16]
+   :LAST_REPEAT: [2013-10-27 Sun 20:36]
    :END:
 
 What to review:
