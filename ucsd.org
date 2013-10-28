@@ -5837,6 +5837,9 @@ WLH 2208
 	  :LOGBOOK:
 	  CLOCK: [2013-10-28 Mon 09:55]--[2013-10-28 Mon 11:10] =>  1:15
 	  :END:
+	  :PROPERTIES:
+	  :ID:       34c2d9ea-13e3-4f28-898e-8b85e73fcdfc
+	  :END:
 <2013-10-28 Mon 10:00-11:00>
 ********* Lecture 6.1
 <2013-11-04 Mon 10:00-11:00>
@@ -6537,6 +6540,9 @@ CENTR 101
 ********* Lecture 5.1
 	  :LOGBOOK:
 	  CLOCK: [2013-10-28 Mon 08:50]--[2013-10-28 Mon 09:50] =>  1:00
+	  :END:
+	  :PROPERTIES:
+	  :ID:       182b03dc-010f-4dbb-8ccd-2c9b15db6481
 	  :END:
 <2013-10-28 Mon 09:00-10:00>
 ********* Lecture 6.1
