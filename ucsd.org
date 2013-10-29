@@ -6124,70 +6124,74 @@ Lectures in calendar and tasks like planning lectures.
 	:PROPERTIES:
 	:ID:       de8653c0-a08d-4864-ac77-e3542cbd12d7
 	:END:
-******** DONE Write Homework 0
+******** DONE Write homework
 	 :LOGBOOK:
-	 - State "DONE"       from "NEXT"       [2013-09-28 Sat 16:07]
+	 - State "DONE"       from "TODO"       [2013-10-29 Tue 13:32]
 	 :END:
-******** DONE Write Homework 1
-	 :LOGBOOK:
-	 - State "DONE"       from "NEXT"       [2013-09-28 Sat 16:07]
-	 :END:
-	 :PROPERTIES:
-	 :ID:       47bc01c6-9506-4476-a49e-a71f07780aa2
-	 :END:
-******** DONE Write Homework 2
-	 :LOGBOOK:
-	 - State "DONE"       from "TODO"       [2013-09-28 Sat 16:07]
-	 :END:
-	 :PROPERTIES:
-	 :ID:       417694ba-372a-4f73-8667-eed2e3d83458
-	 :END:
-******** DONE Write Homework 3
-	 :LOGBOOK:
-	 - State "DONE"       from "TODO"       [2013-09-28 Sat 16:07]
-	 :END:
-	 :PROPERTIES:
-	 :ID:       456dc249-c3a3-4ea2-805d-a7d643605b8f
-	 :END:
-******** DONE Write Homework 4
-	 :LOGBOOK:
-	 - State "DONE"       from "TODO"       [2013-09-28 Sat 16:07]
-	 :END:
-	 :PROPERTIES:
-	 :ID:       5f4b2d4e-a99f-4368-9a15-bab2da5c4e83
-	 :END:
-******** DONE Write Homework 5
-	 :LOGBOOK:
-	 - State "DONE"       from "TODO"       [2013-09-28 Sat 16:07]
-	 :END:
-	 :PROPERTIES:
-	 :ID:       d81a8d91-2d07-4a38-8995-4177407f86dc
-	 :END:
-******** DONE Write Homework 6
-	 :LOGBOOK:
-	 - State "DONE"       from "TODO"       [2013-09-28 Sat 16:07]
-	 :END:
-	 :PROPERTIES:
-	 :ID:       77570d6e-d32f-4ecf-a102-a802d84df1a2
-	 :END:
-******** DONE Write Homework 7
-	 :LOGBOOK:
-	 - State "DONE"       from "TODO"       [2013-09-28 Sat 16:07]
-	 :END:
-	 :PROPERTIES:
-	 :ID:       26ef8bb4-3da4-4072-b501-4c0815040181
-	 :END:
-******** DONE Write Homework 8
-	 :LOGBOOK:
-	 - State "DONE"       from "TODO"       [2013-09-28 Sat 16:07]
-	 :END:
-	 :PROPERTIES:
-	 :ID:       592434bf-b714-4613-a825-e7d31b071464
-	 :END:
-******** DONE Write Homework 9
-	 :LOGBOOK:
-	 - State "DONE"       from "TODO"       [2013-09-28 Sat 16:07]
-	 :END:
+********* DONE Write Homework 0
+	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2013-09-28 Sat 16:07]
+	  :END:
+********* DONE Write Homework 1
+	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2013-09-28 Sat 16:07]
+	  :END:
+	  :PROPERTIES:
+	  :ID:       47bc01c6-9506-4476-a49e-a71f07780aa2
+	  :END:
+********* DONE Write Homework 2
+	  :LOGBOOK:
+	  - State "DONE"       from "TODO"       [2013-09-28 Sat 16:07]
+	  :END:
+	  :PROPERTIES:
+	  :ID:       417694ba-372a-4f73-8667-eed2e3d83458
+	  :END:
+********* DONE Write Homework 3
+	  :LOGBOOK:
+	  - State "DONE"       from "TODO"       [2013-09-28 Sat 16:07]
+	  :END:
+	  :PROPERTIES:
+	  :ID:       456dc249-c3a3-4ea2-805d-a7d643605b8f
+	  :END:
+********* DONE Write Homework 4
+	  :LOGBOOK:
+	  - State "DONE"       from "TODO"       [2013-09-28 Sat 16:07]
+	  :END:
+	  :PROPERTIES:
+	  :ID:       5f4b2d4e-a99f-4368-9a15-bab2da5c4e83
+	  :END:
+********* DONE Write Homework 5
+	  :LOGBOOK:
+	  - State "DONE"       from "TODO"       [2013-09-28 Sat 16:07]
+	  :END:
+	  :PROPERTIES:
+	  :ID:       d81a8d91-2d07-4a38-8995-4177407f86dc
+	  :END:
+********* DONE Write Homework 6
+	  :LOGBOOK:
+	  - State "DONE"       from "TODO"       [2013-09-28 Sat 16:07]
+	  :END:
+	  :PROPERTIES:
+	  :ID:       77570d6e-d32f-4ecf-a102-a802d84df1a2
+	  :END:
+********* DONE Write Homework 7
+	  :LOGBOOK:
+	  - State "DONE"       from "TODO"       [2013-09-28 Sat 16:07]
+	  :END:
+	  :PROPERTIES:
+	  :ID:       26ef8bb4-3da4-4072-b501-4c0815040181
+	  :END:
+********* DONE Write Homework 8
+	  :LOGBOOK:
+	  - State "DONE"       from "TODO"       [2013-09-28 Sat 16:07]
+	  :END:
+	  :PROPERTIES:
+	  :ID:       592434bf-b714-4613-a825-e7d31b071464
+	  :END:
+********* DONE Write Homework 9
+	  :LOGBOOK:
+	  - State "DONE"       from "TODO"       [2013-09-28 Sat 16:07]
+	  :END:
 ******** DONE Update 20B HW
   SCHEDULED: <2013-10-14 Mon>
   :LOGBOOK:
@@ -6201,6 +6205,7 @@ Lectures in calendar and tasks like planning lectures.
 [2013-10-14 Mon 11:53]
 Add problems 42,43 to 11.4
 Also skip "arc-length in polar coordinated" on bottom half of page 637 after example 3.
+******** NEXT Investigate reducing homework load
 ******* TODO Lectures
 	 :LOGBOOK:
 	 CLOCK: [2013-09-16 Mon 20:58]--[2013-09-16 Mon 20:59] =>  0:01
