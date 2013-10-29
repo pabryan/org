@@ -151,7 +151,7 @@ I want to do teaching with sage-tex and/or org-mode with babel; i.e. interactive
 [MR2993752 Colding, Tobias H.\ and Minicozzi, William P., II,  Generic mean curvature flow I: generic singularities, Ann. of Math. (2) 175 (2012), no. 2, 755--833]
 [[file:refs.org::#MR2993752][Generic mean curvature flow {I}: generic singularities]]
 
-*** DONE Review MR3018176					      :FOCUS:
+*** DONE Review MR3018176
     SCHEDULED: <2013-07-05 Fri> DEADLINE: <2013-07-12 Fri>
     - State "DONE"       from "NEXT"       [2013-07-08 Mon 14:07]
     :LOGBOOK:
@@ -163,7 +163,7 @@ I want to do teaching with sage-tex and/or org-mode with babel; i.e. interactive
     :END:
 [[file:refs.org::#MR3018176][A gap theorem for self-shrinkers of the mean curvature flow in arbitrary codimension]]
 
-*** NEXT Review MR3020169
+*** NEXT Review MR3020169					      :FOCUS:
     DEADLINE: <2013-11-29 Fri>
     :LOGBOOK:
     CLOCK: [2013-10-19 Sat 11:50]--[2013-10-19 Sat 12:10] =>  0:20
@@ -192,8 +192,9 @@ I want to do teaching with sage-tex and/or org-mode with babel; i.e. interactive
     :END:
 [[file:~/working/academic/journals/editing/cejm/CEJM-D-12-00160R1]]
 
-*** NEXT Edit CEJM-D-13-00091
+*** NEXT Edit CEJM-D-13-00091					      :FOCUS:
     :LOGBOOK:
+    CLOCK: [2013-10-29 Tue 09:30]--[2013-10-29 Tue 10:25] =>  0:55
     CLOCK: [2013-10-19 Sat 12:10]--[2013-10-19 Sat 12:25] =>  0:15
     CLOCK: [2013-10-19 Sat 10:50]--[2013-10-19 Sat 11:25] =>  0:35
     :END:
