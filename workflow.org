@@ -9,7 +9,7 @@
 ** Tasks
 *** Web Publishing
 **** TODO org-mode sync/web access
-    SCHEDULED: <2013-10-29 Tue>
+    SCHEDULED: <2013-11-17 Sun>
     :LOGBOOK:
     CLOCK: [2013-07-03 Wed 10:06]--[2013-07-03 Wed 10:09] =>  0:03
     :END:
@@ -567,7 +567,7 @@ Do I make a different TODO keyword for more trying out things/open ended type re
 [2013-09-03 Tue 21:27]
 http://orgmode.org/worg/org-tutorials/org-google-sync.html
 *** TODO Focus agenda view should show next tasks for project?
-  SCHEDULED: <2013-10-29 Tue>
+  SCHEDULED: <2013-12-15 Sun>
   :LOGBOOK:
   CLOCK: [2013-09-14 Sat 19:43]--[2013-09-14 Sat 19:44] =>  0:01
   :END:
@@ -1435,7 +1435,7 @@ https://wiki.archlinux.org/index.php/NetworkManager#Use_dispatcher_to_connect_to
 http://askubuntu.com/questions/198136/error-when-trying-to-connect-to-vpn-on-startup
 
 ** TODO Clean up files
-   SCHEDULED: <2013-10-29 Tue>
+   SCHEDULED: <2013-11-17 Sun>
   :LOGBOOK:
   CLOCK: [2013-07-30 Tue 19:49]--[2013-07-30 Tue 19:53] =>  0:04
   :END:
@@ -1556,6 +1556,7 @@ I have mythtv and mediatomb and who knows what else using up valuable resources.
   :END:
 ** Organisation
   :LOGBOOK:
+  CLOCK: [2013-10-29 Tue 13:43]
   CLOCK: [2013-10-29 Tue 13:06]--[2013-10-29 Tue 13:36] =>  0:30
   CLOCK: [2013-10-28 Mon 20:30]--[2013-10-28 Mon 20:31] =>  0:01
   CLOCK: [2013-10-28 Mon 14:01]--[2013-10-28 Mon 14:03] =>  0:02
@@ -2594,10 +2595,11 @@ When I set up scoring the day:
   - This would be ranking *qualitative* things such as general mood, pain, energy, motivation etc.
 - [ ] Collate data such as sleep, weight, exercise, diet etc.
 
-** NEXT Daily Plan [0/3]
-   SCHEDULED: <2013-10-29 Tue .+1d/2d>
+** NEXT Daily Plan [0/4]
+   SCHEDULED: <2013-10-30 Wed .+1d/2d>
    :LOGBOOK:
-   CLOCK: [2013-10-29 Tue 13:36]
+   - State "DONE"       from "NEXT"       [2013-10-29 Tue 13:43]
+   CLOCK: [2013-10-29 Tue 13:36]--[2013-10-29 Tue 13:43] =>  0:07
    - State "DONE"       from "NEXT"       [2013-10-28 Mon 12:24]
    CLOCK: [2013-10-28 Mon 11:59]--[2013-10-28 Mon 12:24] =>  0:25
    CLOCK: [2013-10-28 Mon 11:56]--[2013-10-28 Mon 11:58] =>  0:02
@@ -2887,7 +2889,7 @@ When I set up scoring the day:
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
    :ID:       ef051ee0-1113-4604-b355-450a5a47848b
-   :LAST_REPEAT: [2013-10-28 Mon 12:24]
+   :LAST_REPEAT: [2013-10-29 Tue 13:43]
    :END:
 
 - [ ] Check agenda/focus

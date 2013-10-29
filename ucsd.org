@@ -6815,7 +6815,6 @@ See Holding email.
 *** Undergraduate projects
 **** 2013/2014
 ***** Tasks
-
 ****** DONE Create undergrad research projects
   SCHEDULED: <2013-10-14 Mon>
   :LOGBOOK:
@@ -6832,6 +6831,18 @@ See Holding email.
 - Vector symmetric algebra: code it up in sage
 - Code up 1d flows (port Anuga to sage?), tests etc.
 
+****** NEXT Check on research program credit requirements
+  SCHEDULED: <2013-10-29 Tue>
+  :LOGBOOK:
+  CLOCK: [2013-10-28 Mon 11:58]--[2013-10-28 Mon 11:59] =>  0:01
+  :END:
+  :PROPERTIES:
+  :ID:       60ab3edf-c33e-44f5-8838-630c66597474
+  :END:
+[2013-10-28 Mon 11:58]
+- Can we do it informally off the books? 
+- Can we do formally, but without counting towards units.
+- This for Caitlin N Endler <cendler@ucsd.edu>
 * Seminars 							    :SEMINAR:
   :PROPERTIES:
   :ID:       4a7b50f0-8368-4d3a-bc5d-c0e229fd442f

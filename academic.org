@@ -24,7 +24,7 @@
   :END:
 ** NSF
 *** 2014 Grants
-**** Geometric Analysis
+**** TODO Geometric Analysis					 :FOCUS:GOAL:
      DEADLINE: <2013-11-05 Tue>
 [[http://www.nsf.gov/funding/pgm_summ.jsp?pims_id%3D5549&org%3DNSF&sel_org%3DMPS&from%3Dfund][http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5549&org=NSF&sel_org=MPS&from=fund]]
 ***** NEXT Research application process
@@ -53,9 +53,12 @@ I will need these informations to request a UCSD proposal # and finish fill out 
 
 Please also forward me curriculum vitae or bio-bibilography and 2~3 sentence description of the proposed research.
 
-
-**** Theoretical Gravitational Physics
+**** CANCELLED Theoretical Gravitational Physics
      DEADLINE: <2013-10-30 Wed>
+     :LOGBOOK:
+     - State "CANCELLED"  from ""           [2013-10-29 Tue 13:41] \\
+       Not going to have time for this.
+     :END:
      :PROPERTIES:
      :ID:       226d04b2-4cae-4254-bef7-8cdfc8c4b65b
      :END:
@@ -421,6 +424,413 @@ Try to use as much available software that I can find. Do it like Sage - don't r
   [[file:~/working/academic/research/]]
 ** Papers
 *** Working							      :FOCUS:
+**** TODO Ricci isoperimetric profile 			     :RICCI_ISO_COMP:
+   :LOGBOOK:
+   :END:
+[[file:~/working/academic/research/ricci_surfaces_isoperimetric_comparison]]
+   :PROPERTIES:
+   :ID:       5d9554fe-4cf1-42b0-9891-69a81e715a67
+   :END:
+***** Tasks
+****** DONE Set up tasks
+       - State "DONE"       from "NEXT"       [2012-12-14 Fri 18:04]
+       :LOGBOOK:
+       CLOCK: [2012-12-14 Fri 17:20]--[2012-12-14 Fri 17:36] =>  0:16
+       :END:
+       :PROPERTIES:
+       :ID:       324119e3-a5fc-4279-9d83-28ac27de824b
+       :END:
+****** TODO Copy text
+       :PROPERTIES:
+       :ID:       4a71d989-a26b-4d18-a343-f2546569b504
+       :END:
+******* DONE Copy text from thesis to paper
+       	- State "DONE"       from "NEXT"       [2012-12-17 Mon 10:54]
+       	- State "NEXT"       from "DONE"       [2012-12-13 Thu 16:06]
+       	  I seem to have lost the changes!
+       	- State "DONE"       from "NEXT"       [2012-11-15 Thu 14:58]
+       	:LOGBOOK:
+       	CLOCK: [2012-12-17 Mon 10:48]--[2012-12-17 Mon 10:54] =>  0:06
+       	CLOCK: [2012-12-17 Mon 10:36]--[2012-12-17 Mon 10:43] =>  0:07
+       	CLOCK: [2012-12-13 Thu 19:58]--[2012-12-13 Thu 20:35] =>  0:37
+       	CLOCK: [2012-12-13 Thu 19:29]--[2012-12-13 Thu 19:51] =>  0:22
+       	CLOCK: [2012-12-13 Thu 16:06]--[2012-12-13 Thu 16:43] =>  0:37
+       	CLOCK: [2012-11-15 Thu 14:37]--[2012-11-15 Thu 14:58] =>  0:21
+       	:END:
+       	:PROPERTIES:
+       	:ID:       1335d91c-32ec-499b-943b-107a42556b29
+       	:END:
+******* NEXT Transcribe from notebooks into computer
+       	:LOGBOOK:
+       	CLOCK: [2013-01-09 Wed 14:37]--[2013-01-09 Wed 15:04] =>  0:27
+       	CLOCK: [2013-01-09 Wed 14:06]--[2013-01-09 Wed 14:31] =>  0:25
+       	CLOCK: [2013-01-09 Wed 13:09]--[2013-01-09 Wed 13:49] =>  0:40
+       	CLOCK: [2012-12-06 Thu 14:24]--[2012-12-06 Thu 14:56] =>  0:32
+       	CLOCK: [2012-12-05 Wed 18:57]--[2012-12-05 Wed 19:53] =>  0:56
+       	CLOCK: [2012-11-16 Fri 14:29]--[2012-11-16 Fri 15:17] =>  0:48
+       	CLOCK: [2012-11-15 Thu 14:26]--[2012-11-15 Thu 14:37] =>  0:11
+       	:END:
+       	:PROPERTIES:
+       	:ID:       c7d8d816-7767-4384-9e6b-ee1bbd453e62
+       	:END:
+******* NEXT Make scans of working 
+  :LOGBOOK:
+  CLOCK: [2013-01-09 Wed 12:58]--[2013-01-09 Wed 13:09] =>  0:11
+  :END:
+    :PROPERTIES:
+    :ID:       0dffabc1-bc62-4e97-a8d8-8f58d541bbc1
+    :END:
+[2012-11-16 Fri 15:19]
+
+******* NEXT Tidy up text
+	:LOGBOOK:
+	CLOCK: [2013-09-25 Wed 20:34]--[2013-09-25 Wed 20:51] =>  0:17
+	:END:
+	:PROPERTIES:
+	:ID:       8d5d5e90-1bc6-47d8-965a-fae03c336c27
+	:END:
+****** TODO Write content
+       :PROPERTIES:
+       :ID:       3723cb1d-4761-4c0a-b3d4-fc62bca216c2
+       :END:
+******* DONE Write viscosity equation
+       	- State "DONE"       from "NEXT"       [2012-12-14 Fri 18:08]
+       	:LOGBOOK:
+       	CLOCK: [2012-12-14 Fri 17:47]--[2012-12-14 Fri 18:09] =>  0:22
+       	:END:
+       	:PROPERTIES:
+       	:ID:       cb2801d1-92c9-4f75-8668-738f04868007
+       	:END: 
+******* DONE Write Ricci comparison theorem
+       	- State "DONE"       from "NEXT"       [2012-12-14 Fri 18:16]
+       	:LOGBOOK:
+       	CLOCK: [2012-12-14 Fri 18:09]--[2012-12-14 Fri 18:16] =>  0:07
+       	:END:
+       	:PROPERTIES:
+       	:ID:       14a1b102-77f8-49e6-b175-d55351751e7a
+       	:END:
+******* DONE Write sphere comparison (brief)
+       	- State "DONE"       from "NEXT"       [2012-12-17 Mon 11:19]
+       	:LOGBOOK:
+       	CLOCK: [2012-12-17 Mon 11:09]--[2012-12-17 Mon 11:19] =>  0:10
+       	:END:
+       	:PROPERTIES:
+       	:ID:       98abaabf-bfd6-4a76-a363-d99dc50187ef
+       	:END:
+******* DONE Write planar comparison
+       	- State "DONE"       from "NEXT"       [2013-01-14 Mon 16:44]
+       	:LOGBOOK:
+       	CLOCK: [2013-01-14 Mon 16:37]--[2013-01-14 Mon 16:44] =>  0:07
+       	:END:
+       	:PROPERTIES:
+       	:ID:       f275815c-cbd9-4226-aa90-04753e3fe110
+       	:END:
+******* NEXT Write hyperbolic quadratic comparison
+       	:LOGBOOK:
+       	CLOCK: [2013-01-14 Mon 16:45]--[2013-01-14 Mon 16:48] =>  0:03
+       	:END:
+       	:PROPERTIES:
+       	:ID:       ab49f64c-36f6-476f-9e02-b0ec9d72552f
+       	:END:
+******* NEXT Write hyperbolic stationary comparison
+	:LOGBOOK:
+	CLOCK: [2013-10-05 Sat 16:13]--[2013-10-05 Sat 19:50] =>  3:37
+	CLOCK: [2013-10-05 Sat 14:18]--[2013-10-05 Sat 15:02] =>  0:44
+	:END:
+       	:PROPERTIES:
+       	:ID:       159f6804-7554-45c3-a669-13c54169356f
+       	:END:
+******* NEXT Write convergence
+       	:PROPERTIES:
+       	:ID:       cabddb49-adb4-4532-81d3-3f49f7b66dd6
+       	:END:
+******* DONE Write porous media
+       	- State "DONE"       from "NEXT"       [2012-12-14 Fri 18:27]
+       	:LOGBOOK:
+       	CLOCK: [2012-12-14 Fri 18:20]--[2012-12-14 Fri 18:27] =>  0:07
+       	:END:
+       	:PROPERTIES:
+       	:ID:       f209c72e-822e-45e0-bf45-4ee4e36f7c58
+       	:END:
+******* TODO Write introduction
+       	:PROPERTIES:
+       	:ID:       bbf31667-eee4-439b-abd6-cb0fd52e37fe
+       	:END:
+******* NEXT Make 1st draft
+       :PROPERTIES:
+       :ID:       5349a44a-61b3-4ba2-b795-cb73eac3482b
+       :END:
+- Cleaning up text to be consistent, proper refs etc.
+****** TODO Things to check
+       :PROPERTIES:
+       :ID:       2dab82b7-790c-4235-8b60-23b4587e88c6
+       :END:
+******* NEXT Work out logarithmic porous media integral transform
+    :PROPERTIES:
+    :ID:       f2988334-a37d-47fc-86ac-43d616cf29d5
+    :END:
+conformal factor and isoprofile satisfy logarithic porous media
+how are they related?
+******* TODO Are stationary iso profile solns stationary ricci flow solns?
+       	:PROPERTIES:
+       	:ID:       0256ba72-857d-4734-be31-be685e5a10ad
+       	:END:
+****** TODO Comparisons
+       :PROPERTIES:
+       :ID:       321d75db-7c19-457c-b955-3f7236b899e2
+       :END:
+******* TODO Work out hyperbolic barrier
+      :LOGBOOK:
+      CLOCK: [2013-10-20 Sun 19:40]--[2013-10-20 Sun 20:15] =>  0:35
+      CLOCK: [2013-10-20 Sun 18:23]--[2013-10-20 Sun 19:32] =>  1:09
+      CLOCK: [2013-10-20 Sun 17:35]--[2013-10-20 Sun 17:50] =>  0:15
+      CLOCK: [2013-10-20 Sun 16:40]--[2013-10-20 Sun 17:21] =>  0:41
+      CLOCK: [2013-10-20 Sun 13:25]--[2013-10-20 Sun 14:20] =>  0:55
+      CLOCK: [2013-10-20 Sun 12:00]--[2013-10-20 Sun 12:25] =>  0:25
+      CLOCK: [2013-10-13 Sun 19:17]--[2013-10-13 Sun 19:34] =>  0:17
+      CLOCK: [2013-10-13 Sun 17:19]--[2013-10-13 Sun 18:22] =>  1:03
+      CLOCK: [2013-10-13 Sun 16:06]--[2013-10-13 Sun 17:06] =>  1:00
+      CLOCK: [2013-09-24 Tue 19:53]--[2013-09-24 Tue 21:13] =>  1:20
+      CLOCK: [2013-01-14 Mon 16:10]--[2013-01-14 Mon 16:35] =>  0:25
+      CLOCK: [2013-01-14 Mon 09:10]--[2013-01-14 Mon 09:36] =>  0:26
+      CLOCK: [2013-01-14 Mon 08:27]--[2013-01-14 Mon 09:04] =>  0:37
+      CLOCK: [2013-01-11 Fri 14:10]--[2013-01-11 Fri 14:30] =>  0:20
+      CLOCK: [2013-01-09 Wed 10:05]--[2013-01-09 Wed 10:34] =>  0:29
+      CLOCK: [2013-01-09 Wed 09:57]--[2013-01-09 Wed 09:58] =>  0:01
+      CLOCK: [2013-01-09 Wed 09:37]--[2013-01-09 Wed 09:57] =>  0:20
+      :END:
+      :PROPERTIES:
+      :ID:       9576f953-1b7f-4459-915a-b8378f6d8b80
+      :END:
+Try again to make this exponential barrier work.
+******** DONE Check concavity for ranges of b
+	 SCHEDULED: <2013-10-21 Mon>
+         :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2013-10-23 Wed 15:42]
+	 CLOCK: [2013-10-23 Wed 14:10]--[2013-10-23 Wed 15:20] =>  1:10
+	 CLOCK: [2013-10-22 Tue 18:39]--[2013-10-22 Tue 19:44] =>  1:05
+	 CLOCK: [2013-10-22 Tue 17:50]--[2013-10-22 Tue 18:19] =>  0:29
+	 CLOCK: [2013-10-22 Tue 13:51]--[2013-10-22 Tue 15:01] =>  1:10
+	 CLOCK: [2013-10-21 Mon 13:22]--[2013-10-21 Mon 13:50] =>  0:28
+	 CLOCK: [2013-10-20 Sun 20:15]--[2013-10-20 Sun 20:19] =>  0:04
+	 :END:
+	 :PROPERTIES:
+	 :ID:       0e9eb0a6-a577-46cf-be64-4ee6e3594a9a
+	 :ORDERED:  t
+	 :END:
+[2013-10-20 Sun 20:15]
+For the hyperbolic barrier, concavity should fail when $b$ is too large. For how large, see D of 20/10 notes.
+
+I have a lower bound for the numerator. To get an upper bound for the denominator for large x, take x around 1000 and add little bit. Then I just choose $b$ larger than the quotient and I should lose concavity.
+******** DONE Write up concavity
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2013-10-23 Wed 17:07]
+	 CLOCK: [2013-10-23 Wed 15:46]--[2013-10-23 Wed 17:07] =>  1:21
+	 :END:
+******** NEXT Find range of b,c for diff. ineq.
+	 SCHEDULED: <2013-10-23 Wed>
+	 :LOGBOOK:
+	 CLOCK: [2013-10-28 Mon 12:26]--[2013-10-28 Mon 14:01] =>  1:35
+	 CLOCK: [2013-10-28 Mon 10:05]--[2013-10-28 Mon 11:55] =>  1:50
+	 CLOCK: [2013-10-24 Thu 16:27]--[2013-10-24 Thu 17:45] =>  1:18
+	 CLOCK: [2013-10-24 Thu 13:20]--[2013-10-24 Thu 15:30] =>  2:10
+	 :END:
+	 :PROPERTIES:
+	 :ID:       a3d9855d-0e89-4b4a-b803-14f13cab7b55
+	 :END:
+******** TODO Write range of b,c for diff. ineq.
+	 :PROPERTIES:
+	 :ID:       61537dd1-af20-481c-8743-88fabf4cd342
+	 :END:
+******** TODO Work out asymptotics for v_C, f
+	 :PROPERTIES:
+	 :ID:       de3fd180-a7bb-4a27-aa68-0d66e0d0ced7
+	 :END:
+******** TODO Write asymptotics for v_C, f
+	 :PROPERTIES:
+	 :ID:       ab3eb799-03db-408c-bbb3-2bd3b747b024
+	 :END:
+******* NEXT Check Ben Chow's book for planer integrability of 1st derivative
+       	:PROPERTIES:
+       	:ID:       68503bad-abd4-49d4-97a6-537854ccc13e
+       	:END:
+******* DONE Check high genus comparison computations
+       	- State "DONE"       from "NEXT"       [2013-02-06 Wed 14:57]
+       	:LOGBOOK:
+       	CLOCK: [2013-01-11 Fri 13:00]--[2013-01-11 Fri 14:10] =>  1:10
+       	CLOCK: [2013-01-11 Fri 07:30]--[2013-01-11 Fri 08:05] =>  0:35
+       	:END:
+       	:PROPERTIES:
+       	:ID:       60cbd811-022c-4afa-bb52-bc82b8694314
+       	:END:			     
+******* NEXT Write curvature bound
+	:PROPERTIES:
+	:ID:       f79a49d1-2418-4fee-98a0-c6c5c5ab6d97
+	:END:
+Update comparison theorem to read \(I\geq \phi\) implies that \(\sup_M K_t \leq \phi''(0, t)/24\) or whatever the constant is.
+
+
+***** Notes
+***** References
+*** Future 							    :SOMEDAY:
+**** TODO Space form curvature flow 			 :SPACE_FORM_HARNACK:
+     :LOGBOOK:
+     :END:
+     :PROPERTIES:
+     :ID:       5b2bd1d4-ccbc-4951-b859-778926ad749d
+     :END:
+[[file:~/working/academic/research/space_form_curvature_flow]]
+***** Tasks
+****** DONE Org
+       :LOGBOOK:
+       - State "DONE"       from "TODO"       [2013-10-15 Tue 10:35]
+       :END:
+       :PROPERTIES:
+       :ID:       1ac1c270-2f08-4ba8-9dfd-1c03f4b311c2
+       :END:
+******* DONE Follow up on Chen's email
+       :LOGBOOK:
+       - State "DONE"       from "WAITING"    [2013-10-15 Tue 10:35]
+       - State "WAITING"    from "NEXT"       [2013-09-13 Fri 10:05] \\
+	 Sent email to Ben asking about this.
+       :END:
+       :PROPERTIES:
+       :ID:       c6ad78d4-07b1-40d1-8a92-2d0d4f546445
+       :END:
+Chen's email address appears not to be working. How do I contact him?
+******* DONE Write up outline and send to Chen
+       	- State "DONE"       from "NEXT"       [2013-04-25 Thu 20:31]
+       	:LOGBOOK:
+       	CLOCK: [2013-04-25 Thu 19:31]--[2013-04-25 Thu 20:31] =>  1:00
+       	:END:
+******* DONE Get Koiso and Palmer
+  SCHEDULED: <2013-08-12 Mon>
+  :LOGBOOK:
+  - State "DONE"       from "TODO"       [2013-09-16 Mon 10:00]
+  CLOCK: [2013-08-11 Sun 21:02]--[2013-08-11 Sun 21:03] =>  0:01
+  :END:
+       :PROPERTIES:
+       :ID:       7fadaf2b-7464-4376-8cc7-fdcbf6d8635f
+       :END:
+[2013-08-11 Sun 21:02]
+Geometry and Stability OF SURFACES WITH
+CONSTANT ANISOTROPIC MEAN CURVATURE
+
+****** TODO Hyperbolic space
+       :LOGBOOK:
+       CLOCK: [2013-08-26 Mon 17:08]--[2013-08-26 Mon 17:09] =>  0:01
+       :END:
+       :PROPERTIES:
+       :ID:       e9c93436-80fb-4eb5-b229-bd15e519d71d
+       :END:
+******* NEXT Get formula for coords, metric
+	:LOGBOOK:
+	CLOCK: [2013-09-14 Sat 10:25]--[2013-09-14 Sat 11:15] =>  0:50
+	CLOCK: [2013-09-12 Thu 09:25]--[2013-09-12 Thu 10:20] =>  0:55
+	CLOCK: [2013-08-26 Mon 16:15]--[2013-08-26 Mon 17:08] =>  0:53
+	:END:
+	:PROPERTIES:
+	:ID:       d7827ac0-bf84-4070-aacb-861ef94d775c
+	:END:
+******* TODO Get formula for distance
+	:PROPERTIES:
+	:ID:       9bc6f1b5-bac8-46c8-bd3b-07bc34275b43
+	:END:
+******* TODO Get formula for vector field X
+	:PROPERTIES:
+	:ID:       82810df7-6a86-4aa2-a4cd-2ece8ab2448a
+	:END:
+******* TODO Get formula for grad X
+	:PROPERTIES:
+	:ID:       1cbaa6c1-e15e-427b-954a-624990666029
+	:END:
+****** TODO Dual Body
+       :LOGBOOK:
+       :END:
+       :PROPERTIES:
+       :ID:       227e228f-6d25-4344-9642-0cd92447202f
+       :END:
+******* DONE Define the support function/hyperplanes etc.
+	:LOGBOOK:
+	- State "DONE"       from "NEXT"       [2013-08-26 Mon 16:37]
+	CLOCK: [2013-07-29 Mon 21:30]--[2013-07-29 Mon 22:15] =>  0:45
+	:END:
+	:PROPERTIES:
+	:ID:       ff17b0e4-2f7e-4dc2-bf37-3e4c0878d360
+	:END:
+
+******* NEXT Define the radial function
+	:PROPERTIES:
+	:ID:       3c42e645-aa5e-4e45-8330-642eff10602c
+	:END:
+- This could be analogous to the definition in $\RR^n$.
+******* TODO Define the dual body
+	:PROPERTIES:
+	:ID:       ae49515a-1e6f-41f6-9f32-eedb6cb6c3bc
+	:END: 
+- the set of $y$ with $\ip{V(x)}{V(y)} \leq 1$ for every $x\in M$?
+- Or is it something do with distance and/or the radial function?
+- What definition makes it the "dual" in the sense that taking the dual twice recovers the original body.
+******* TODO Evolution of the dual body
+	:PROPERTIES:
+	:ID:       099961a3-2e9b-48f9-b93e-7c8b54d7998c
+	:END: 
+- Calculate evolution equation of dual body.
+******* TODO Show dual relationship of Gauss curvature
+	:PROPERTIES:
+	:ID:       6c9127a1-0cb7-4023-ae27-5c48a20c30e9
+	:END:
+- There should be a point where $\gk/\dual{\gc} = 1$.
+****** TODO Wulff shape
+       :PROPERTIES:
+       :ID:       eee2b199-61dc-4fda-bd51-a55accf9781e
+       :END: 
+- $\exp(s(x) \nor(x) + \grad s(x))$ parametrises the Wulff shape of $M$. 
+******* NEXT Work our parametrisation and first and second derivatives
+	:LOGBOOK:
+	CLOCK: [2013-08-11 Sun 10:41]--[2013-08-11 Sun 11:35] =>  0:54
+	:END:
+	:PROPERTIES:
+	:ID:       5f4f6585-b742-4cdd-972c-78febc21aa36
+	:END:
+******* TODO Work out relationship with original hypersurface
+	:PROPERTIES:
+	:ID:       fcdd2174-8caf-451c-b536-6a76c44654bf
+	:END:
+-  In particular how do the curvatures relate?
+  
+******* TODO Work out Harnack/curvature bound for Wulff shape
+	:PROPERTIES:
+	:ID:       e66172ff-cf15-407d-99fe-8782822408c6
+	:END:
+******** NEXT Try Ben's computations in $\HH^n$
+	 :PROPERTIES:
+	 :ID:       989cbd98-0e73-4114-9a2f-85d242456214
+	 :END:
+******* NEXT Work out embedding unit sphere and tangent plane into space forms
+       :LOGBOOK:
+       CLOCK: [2013-04-30 Tue 08:25]--[2013-04-30 Tue 08:55] =>  0:30
+       CLOCK: [2013-04-29 Mon 18:25]--[2013-04-29 Mon 18:55] =>  0:30
+       CLOCK: [2013-04-26 Fri 10:15]--[2013-04-26 Fri 11:33] =>  1:18
+       :END:
+       :PROPERTIES:
+       :ID:       5d7d38ad-aac0-409d-9ece-466e858612c9
+       :END:
+- Is this even necessary? That is, why not just use $\sphere^n$ as a fixed space from which to parametrise? It's not really necessary to have $\sphere^n$ embedded in the space form.
+
+***** Refs
+[[file:~/research_resources/draftpapers/hyperbolic_130113.pdf]]
+- Papers on horospheres
+- Papers by Gallego, E. and Solanes, G.
+- Papers by Santalo
+- HOROSPHERES IN HYPERBOLIC GEOMETRY (E. GALLEGO, A. REVENTOS, G. SOLANES, AND E. TEUFEL
+)
+***** Clocking
+****** General research
+       :LOGBOOK:
+       CLOCK: [2013-10-05 Sat 13:55]--[2013-10-05 Sat 14:18] =>  0:23
+       CLOCK: [2013-10-04 Fri 15:06]--[2013-10-04 Fri 16:20] =>  1:14
+       :END:
 **** TODO alpha CSF distance comparison				  :CSF_ALPHA:
    :LOGBOOK:
    CLOCK: [2013-07-19 Fri 09:53]--[2013-07-19 Fri 09:55] =>  0:02
@@ -864,413 +1274,6 @@ This proves the inequality we need.  The remaining problem is to remove the symm
 [[file:refs.org::#MR1902649][Singularities in crystalline curvature flows]]
 [[file:refs.org::#MR2946930][Contracting convex immersed closed plane curves with slow speed of curvature]]
 
-**** TODO Ricci isoperimetric profile			     :RICCI_ISO_COMP:
-   :LOGBOOK:
-   :END:
-[[file:~/working/academic/research/ricci_surfaces_isoperimetric_comparison]]
-   :PROPERTIES:
-   :ID:       5d9554fe-4cf1-42b0-9891-69a81e715a67
-   :END:
-***** Tasks
-****** DONE Set up tasks
-       - State "DONE"       from "NEXT"       [2012-12-14 Fri 18:04]
-       :LOGBOOK:
-       CLOCK: [2012-12-14 Fri 17:20]--[2012-12-14 Fri 17:36] =>  0:16
-       :END:
-       :PROPERTIES:
-       :ID:       324119e3-a5fc-4279-9d83-28ac27de824b
-       :END:
-****** TODO Copy text
-       :PROPERTIES:
-       :ID:       4a71d989-a26b-4d18-a343-f2546569b504
-       :END:
-******* DONE Copy text from thesis to paper
-       	- State "DONE"       from "NEXT"       [2012-12-17 Mon 10:54]
-       	- State "NEXT"       from "DONE"       [2012-12-13 Thu 16:06]
-       	  I seem to have lost the changes!
-       	- State "DONE"       from "NEXT"       [2012-11-15 Thu 14:58]
-       	:LOGBOOK:
-       	CLOCK: [2012-12-17 Mon 10:48]--[2012-12-17 Mon 10:54] =>  0:06
-       	CLOCK: [2012-12-17 Mon 10:36]--[2012-12-17 Mon 10:43] =>  0:07
-       	CLOCK: [2012-12-13 Thu 19:58]--[2012-12-13 Thu 20:35] =>  0:37
-       	CLOCK: [2012-12-13 Thu 19:29]--[2012-12-13 Thu 19:51] =>  0:22
-       	CLOCK: [2012-12-13 Thu 16:06]--[2012-12-13 Thu 16:43] =>  0:37
-       	CLOCK: [2012-11-15 Thu 14:37]--[2012-11-15 Thu 14:58] =>  0:21
-       	:END:
-       	:PROPERTIES:
-       	:ID:       1335d91c-32ec-499b-943b-107a42556b29
-       	:END:
-******* NEXT Transcribe from notebooks into computer
-       	:LOGBOOK:
-       	CLOCK: [2013-01-09 Wed 14:37]--[2013-01-09 Wed 15:04] =>  0:27
-       	CLOCK: [2013-01-09 Wed 14:06]--[2013-01-09 Wed 14:31] =>  0:25
-       	CLOCK: [2013-01-09 Wed 13:09]--[2013-01-09 Wed 13:49] =>  0:40
-       	CLOCK: [2012-12-06 Thu 14:24]--[2012-12-06 Thu 14:56] =>  0:32
-       	CLOCK: [2012-12-05 Wed 18:57]--[2012-12-05 Wed 19:53] =>  0:56
-       	CLOCK: [2012-11-16 Fri 14:29]--[2012-11-16 Fri 15:17] =>  0:48
-       	CLOCK: [2012-11-15 Thu 14:26]--[2012-11-15 Thu 14:37] =>  0:11
-       	:END:
-       	:PROPERTIES:
-       	:ID:       c7d8d816-7767-4384-9e6b-ee1bbd453e62
-       	:END:
-******* NEXT Make scans of working 
-  :LOGBOOK:
-  CLOCK: [2013-01-09 Wed 12:58]--[2013-01-09 Wed 13:09] =>  0:11
-  :END:
-    :PROPERTIES:
-    :ID:       0dffabc1-bc62-4e97-a8d8-8f58d541bbc1
-    :END:
-[2012-11-16 Fri 15:19]
-
-******* NEXT Tidy up text
-	:LOGBOOK:
-	CLOCK: [2013-09-25 Wed 20:34]--[2013-09-25 Wed 20:51] =>  0:17
-	:END:
-	:PROPERTIES:
-	:ID:       8d5d5e90-1bc6-47d8-965a-fae03c336c27
-	:END:
-****** TODO Write content
-       :PROPERTIES:
-       :ID:       3723cb1d-4761-4c0a-b3d4-fc62bca216c2
-       :END:
-******* DONE Write viscosity equation
-       	- State "DONE"       from "NEXT"       [2012-12-14 Fri 18:08]
-       	:LOGBOOK:
-       	CLOCK: [2012-12-14 Fri 17:47]--[2012-12-14 Fri 18:09] =>  0:22
-       	:END:
-       	:PROPERTIES:
-       	:ID:       cb2801d1-92c9-4f75-8668-738f04868007
-       	:END: 
-******* DONE Write Ricci comparison theorem
-       	- State "DONE"       from "NEXT"       [2012-12-14 Fri 18:16]
-       	:LOGBOOK:
-       	CLOCK: [2012-12-14 Fri 18:09]--[2012-12-14 Fri 18:16] =>  0:07
-       	:END:
-       	:PROPERTIES:
-       	:ID:       14a1b102-77f8-49e6-b175-d55351751e7a
-       	:END:
-******* DONE Write sphere comparison (brief)
-       	- State "DONE"       from "NEXT"       [2012-12-17 Mon 11:19]
-       	:LOGBOOK:
-       	CLOCK: [2012-12-17 Mon 11:09]--[2012-12-17 Mon 11:19] =>  0:10
-       	:END:
-       	:PROPERTIES:
-       	:ID:       98abaabf-bfd6-4a76-a363-d99dc50187ef
-       	:END:
-******* DONE Write planar comparison
-       	- State "DONE"       from "NEXT"       [2013-01-14 Mon 16:44]
-       	:LOGBOOK:
-       	CLOCK: [2013-01-14 Mon 16:37]--[2013-01-14 Mon 16:44] =>  0:07
-       	:END:
-       	:PROPERTIES:
-       	:ID:       f275815c-cbd9-4226-aa90-04753e3fe110
-       	:END:
-******* NEXT Write hyperbolic quadratic comparison
-       	:LOGBOOK:
-       	CLOCK: [2013-01-14 Mon 16:45]--[2013-01-14 Mon 16:48] =>  0:03
-       	:END:
-       	:PROPERTIES:
-       	:ID:       ab49f64c-36f6-476f-9e02-b0ec9d72552f
-       	:END:
-******* NEXT Write hyperbolic stationary comparison
-	:LOGBOOK:
-	CLOCK: [2013-10-05 Sat 16:13]--[2013-10-05 Sat 19:50] =>  3:37
-	CLOCK: [2013-10-05 Sat 14:18]--[2013-10-05 Sat 15:02] =>  0:44
-	:END:
-       	:PROPERTIES:
-       	:ID:       159f6804-7554-45c3-a669-13c54169356f
-       	:END:
-******* NEXT Write convergence
-       	:PROPERTIES:
-       	:ID:       cabddb49-adb4-4532-81d3-3f49f7b66dd6
-       	:END:
-******* DONE Write porous media
-       	- State "DONE"       from "NEXT"       [2012-12-14 Fri 18:27]
-       	:LOGBOOK:
-       	CLOCK: [2012-12-14 Fri 18:20]--[2012-12-14 Fri 18:27] =>  0:07
-       	:END:
-       	:PROPERTIES:
-       	:ID:       f209c72e-822e-45e0-bf45-4ee4e36f7c58
-       	:END:
-******* TODO Write introduction
-       	:PROPERTIES:
-       	:ID:       bbf31667-eee4-439b-abd6-cb0fd52e37fe
-       	:END:
-******* NEXT Make 1st draft
-       :PROPERTIES:
-       :ID:       5349a44a-61b3-4ba2-b795-cb73eac3482b
-       :END:
-- Cleaning up text to be consistent, proper refs etc.
-****** TODO Things to check
-       :PROPERTIES:
-       :ID:       2dab82b7-790c-4235-8b60-23b4587e88c6
-       :END:
-******* NEXT Work out logarithmic porous media integral transform
-    :PROPERTIES:
-    :ID:       f2988334-a37d-47fc-86ac-43d616cf29d5
-    :END:
-conformal factor and isoprofile satisfy logarithic porous media
-how are they related?
-******* TODO Are stationary iso profile solns stationary ricci flow solns?
-       	:PROPERTIES:
-       	:ID:       0256ba72-857d-4734-be31-be685e5a10ad
-       	:END:
-****** TODO Comparisons
-       :PROPERTIES:
-       :ID:       321d75db-7c19-457c-b955-3f7236b899e2
-       :END:
-******* TODO Work out hyperbolic barrier
-      :LOGBOOK:
-      CLOCK: [2013-10-20 Sun 19:40]--[2013-10-20 Sun 20:15] =>  0:35
-      CLOCK: [2013-10-20 Sun 18:23]--[2013-10-20 Sun 19:32] =>  1:09
-      CLOCK: [2013-10-20 Sun 17:35]--[2013-10-20 Sun 17:50] =>  0:15
-      CLOCK: [2013-10-20 Sun 16:40]--[2013-10-20 Sun 17:21] =>  0:41
-      CLOCK: [2013-10-20 Sun 13:25]--[2013-10-20 Sun 14:20] =>  0:55
-      CLOCK: [2013-10-20 Sun 12:00]--[2013-10-20 Sun 12:25] =>  0:25
-      CLOCK: [2013-10-13 Sun 19:17]--[2013-10-13 Sun 19:34] =>  0:17
-      CLOCK: [2013-10-13 Sun 17:19]--[2013-10-13 Sun 18:22] =>  1:03
-      CLOCK: [2013-10-13 Sun 16:06]--[2013-10-13 Sun 17:06] =>  1:00
-      CLOCK: [2013-09-24 Tue 19:53]--[2013-09-24 Tue 21:13] =>  1:20
-      CLOCK: [2013-01-14 Mon 16:10]--[2013-01-14 Mon 16:35] =>  0:25
-      CLOCK: [2013-01-14 Mon 09:10]--[2013-01-14 Mon 09:36] =>  0:26
-      CLOCK: [2013-01-14 Mon 08:27]--[2013-01-14 Mon 09:04] =>  0:37
-      CLOCK: [2013-01-11 Fri 14:10]--[2013-01-11 Fri 14:30] =>  0:20
-      CLOCK: [2013-01-09 Wed 10:05]--[2013-01-09 Wed 10:34] =>  0:29
-      CLOCK: [2013-01-09 Wed 09:57]--[2013-01-09 Wed 09:58] =>  0:01
-      CLOCK: [2013-01-09 Wed 09:37]--[2013-01-09 Wed 09:57] =>  0:20
-      :END:
-      :PROPERTIES:
-      :ID:       9576f953-1b7f-4459-915a-b8378f6d8b80
-      :END:
-Try again to make this exponential barrier work.
-******** DONE Check concavity for ranges of b
-	 SCHEDULED: <2013-10-21 Mon>
-         :LOGBOOK:
-	 - State "DONE"       from "NEXT"       [2013-10-23 Wed 15:42]
-	 CLOCK: [2013-10-23 Wed 14:10]--[2013-10-23 Wed 15:20] =>  1:10
-	 CLOCK: [2013-10-22 Tue 18:39]--[2013-10-22 Tue 19:44] =>  1:05
-	 CLOCK: [2013-10-22 Tue 17:50]--[2013-10-22 Tue 18:19] =>  0:29
-	 CLOCK: [2013-10-22 Tue 13:51]--[2013-10-22 Tue 15:01] =>  1:10
-	 CLOCK: [2013-10-21 Mon 13:22]--[2013-10-21 Mon 13:50] =>  0:28
-	 CLOCK: [2013-10-20 Sun 20:15]--[2013-10-20 Sun 20:19] =>  0:04
-	 :END:
-	 :PROPERTIES:
-	 :ID:       0e9eb0a6-a577-46cf-be64-4ee6e3594a9a
-	 :ORDERED:  t
-	 :END:
-[2013-10-20 Sun 20:15]
-For the hyperbolic barrier, concavity should fail when $b$ is too large. For how large, see D of 20/10 notes.
-
-I have a lower bound for the numerator. To get an upper bound for the denominator for large x, take x around 1000 and add little bit. Then I just choose $b$ larger than the quotient and I should lose concavity.
-******** DONE Write up concavity
-	 :LOGBOOK:
-	 - State "DONE"       from "NEXT"       [2013-10-23 Wed 17:07]
-	 CLOCK: [2013-10-23 Wed 15:46]--[2013-10-23 Wed 17:07] =>  1:21
-	 :END:
-******** NEXT Find range of b,c for diff. ineq.
-	 SCHEDULED: <2013-10-23 Wed>
-	 :LOGBOOK:
-	 CLOCK: [2013-10-28 Mon 12:26]--[2013-10-28 Mon 14:01] =>  1:35
-	 CLOCK: [2013-10-28 Mon 10:05]--[2013-10-28 Mon 11:55] =>  1:50
-	 CLOCK: [2013-10-24 Thu 16:27]--[2013-10-24 Thu 17:45] =>  1:18
-	 CLOCK: [2013-10-24 Thu 13:20]--[2013-10-24 Thu 15:30] =>  2:10
-	 :END:
-	 :PROPERTIES:
-	 :ID:       a3d9855d-0e89-4b4a-b803-14f13cab7b55
-	 :END:
-******** TODO Write range of b,c for diff. ineq.
-	 :PROPERTIES:
-	 :ID:       61537dd1-af20-481c-8743-88fabf4cd342
-	 :END:
-******** TODO Work out asymptotics for v_C, f
-	 :PROPERTIES:
-	 :ID:       de3fd180-a7bb-4a27-aa68-0d66e0d0ced7
-	 :END:
-******** TODO Write asymptotics for v_C, f
-	 :PROPERTIES:
-	 :ID:       ab3eb799-03db-408c-bbb3-2bd3b747b024
-	 :END:
-******* NEXT Check Ben Chow's book for planer integrability of 1st derivative
-       	:PROPERTIES:
-       	:ID:       68503bad-abd4-49d4-97a6-537854ccc13e
-       	:END:
-******* DONE Check high genus comparison computations
-       	- State "DONE"       from "NEXT"       [2013-02-06 Wed 14:57]
-       	:LOGBOOK:
-       	CLOCK: [2013-01-11 Fri 13:00]--[2013-01-11 Fri 14:10] =>  1:10
-       	CLOCK: [2013-01-11 Fri 07:30]--[2013-01-11 Fri 08:05] =>  0:35
-       	:END:
-       	:PROPERTIES:
-       	:ID:       60cbd811-022c-4afa-bb52-bc82b8694314
-       	:END:			     
-******* NEXT Write curvature bound
-	:PROPERTIES:
-	:ID:       f79a49d1-2418-4fee-98a0-c6c5c5ab6d97
-	:END:
-Update comparison theorem to read \(I\geq \phi\) implies that \(\sup_M K_t \leq \phi''(0, t)/24\) or whatever the constant is.
-
-
-***** Notes
-***** References
-**** TODO Space form curvature flow 			 :SPACE_FORM_HARNACK:
-     :LOGBOOK:
-     :END:
-     :PROPERTIES:
-     :ID:       5b2bd1d4-ccbc-4951-b859-778926ad749d
-     :END:
-[[file:~/working/academic/research/space_form_curvature_flow]]
-***** Tasks
-****** DONE Org
-       :LOGBOOK:
-       - State "DONE"       from "TODO"       [2013-10-15 Tue 10:35]
-       :END:
-       :PROPERTIES:
-       :ID:       1ac1c270-2f08-4ba8-9dfd-1c03f4b311c2
-       :END:
-******* DONE Follow up on Chen's email
-       :LOGBOOK:
-       - State "DONE"       from "WAITING"    [2013-10-15 Tue 10:35]
-       - State "WAITING"    from "NEXT"       [2013-09-13 Fri 10:05] \\
-	 Sent email to Ben asking about this.
-       :END:
-       :PROPERTIES:
-       :ID:       c6ad78d4-07b1-40d1-8a92-2d0d4f546445
-       :END:
-Chen's email address appears not to be working. How do I contact him?
-******* DONE Write up outline and send to Chen
-       	- State "DONE"       from "NEXT"       [2013-04-25 Thu 20:31]
-       	:LOGBOOK:
-       	CLOCK: [2013-04-25 Thu 19:31]--[2013-04-25 Thu 20:31] =>  1:00
-       	:END:
-******* DONE Get Koiso and Palmer
-  SCHEDULED: <2013-08-12 Mon>
-  :LOGBOOK:
-  - State "DONE"       from "TODO"       [2013-09-16 Mon 10:00]
-  CLOCK: [2013-08-11 Sun 21:02]--[2013-08-11 Sun 21:03] =>  0:01
-  :END:
-       :PROPERTIES:
-       :ID:       7fadaf2b-7464-4376-8cc7-fdcbf6d8635f
-       :END:
-[2013-08-11 Sun 21:02]
-Geometry and Stability OF SURFACES WITH
-CONSTANT ANISOTROPIC MEAN CURVATURE
-
-****** TODO Hyperbolic space
-       :LOGBOOK:
-       CLOCK: [2013-08-26 Mon 17:08]--[2013-08-26 Mon 17:09] =>  0:01
-       :END:
-       :PROPERTIES:
-       :ID:       e9c93436-80fb-4eb5-b229-bd15e519d71d
-       :END:
-******* NEXT Get formula for coords, metric
-	:LOGBOOK:
-	CLOCK: [2013-09-14 Sat 10:25]--[2013-09-14 Sat 11:15] =>  0:50
-	CLOCK: [2013-09-12 Thu 09:25]--[2013-09-12 Thu 10:20] =>  0:55
-	CLOCK: [2013-08-26 Mon 16:15]--[2013-08-26 Mon 17:08] =>  0:53
-	:END:
-	:PROPERTIES:
-	:ID:       d7827ac0-bf84-4070-aacb-861ef94d775c
-	:END:
-******* TODO Get formula for distance
-	:PROPERTIES:
-	:ID:       9bc6f1b5-bac8-46c8-bd3b-07bc34275b43
-	:END:
-******* TODO Get formula for vector field X
-	:PROPERTIES:
-	:ID:       82810df7-6a86-4aa2-a4cd-2ece8ab2448a
-	:END:
-******* TODO Get formula for grad X
-	:PROPERTIES:
-	:ID:       1cbaa6c1-e15e-427b-954a-624990666029
-	:END:
-****** TODO Dual Body
-       :LOGBOOK:
-       :END:
-       :PROPERTIES:
-       :ID:       227e228f-6d25-4344-9642-0cd92447202f
-       :END:
-******* DONE Define the support function/hyperplanes etc.
-	:LOGBOOK:
-	- State "DONE"       from "NEXT"       [2013-08-26 Mon 16:37]
-	CLOCK: [2013-07-29 Mon 21:30]--[2013-07-29 Mon 22:15] =>  0:45
-	:END:
-	:PROPERTIES:
-	:ID:       ff17b0e4-2f7e-4dc2-bf37-3e4c0878d360
-	:END:
-
-******* NEXT Define the radial function
-	:PROPERTIES:
-	:ID:       3c42e645-aa5e-4e45-8330-642eff10602c
-	:END:
-- This could be analogous to the definition in $\RR^n$.
-******* TODO Define the dual body
-	:PROPERTIES:
-	:ID:       ae49515a-1e6f-41f6-9f32-eedb6cb6c3bc
-	:END: 
-- the set of $y$ with $\ip{V(x)}{V(y)} \leq 1$ for every $x\in M$?
-- Or is it something do with distance and/or the radial function?
-- What definition makes it the "dual" in the sense that taking the dual twice recovers the original body.
-******* TODO Evolution of the dual body
-	:PROPERTIES:
-	:ID:       099961a3-2e9b-48f9-b93e-7c8b54d7998c
-	:END: 
-- Calculate evolution equation of dual body.
-******* TODO Show dual relationship of Gauss curvature
-	:PROPERTIES:
-	:ID:       6c9127a1-0cb7-4023-ae27-5c48a20c30e9
-	:END:
-- There should be a point where $\gk/\dual{\gc} = 1$.
-****** TODO Wulff shape
-       :PROPERTIES:
-       :ID:       eee2b199-61dc-4fda-bd51-a55accf9781e
-       :END: 
-- $\exp(s(x) \nor(x) + \grad s(x))$ parametrises the Wulff shape of $M$. 
-******* NEXT Work our parametrisation and first and second derivatives
-	:LOGBOOK:
-	CLOCK: [2013-08-11 Sun 10:41]--[2013-08-11 Sun 11:35] =>  0:54
-	:END:
-	:PROPERTIES:
-	:ID:       5f4f6585-b742-4cdd-972c-78febc21aa36
-	:END:
-******* TODO Work out relationship with original hypersurface
-	:PROPERTIES:
-	:ID:       fcdd2174-8caf-451c-b536-6a76c44654bf
-	:END:
--  In particular how do the curvatures relate?
-  
-******* TODO Work out Harnack/curvature bound for Wulff shape
-	:PROPERTIES:
-	:ID:       e66172ff-cf15-407d-99fe-8782822408c6
-	:END:
-******** NEXT Try Ben's computations in $\HH^n$
-	 :PROPERTIES:
-	 :ID:       989cbd98-0e73-4114-9a2f-85d242456214
-	 :END:
-******* NEXT Work out embedding unit sphere and tangent plane into space forms
-       :LOGBOOK:
-       CLOCK: [2013-04-30 Tue 08:25]--[2013-04-30 Tue 08:55] =>  0:30
-       CLOCK: [2013-04-29 Mon 18:25]--[2013-04-29 Mon 18:55] =>  0:30
-       CLOCK: [2013-04-26 Fri 10:15]--[2013-04-26 Fri 11:33] =>  1:18
-       :END:
-       :PROPERTIES:
-       :ID:       5d7d38ad-aac0-409d-9ece-466e858612c9
-       :END:
-- Is this even necessary? That is, why not just use $\sphere^n$ as a fixed space from which to parametrise? It's not really necessary to have $\sphere^n$ embedded in the space form.
-
-***** Refs
-[[file:~/research_resources/draftpapers/hyperbolic_130113.pdf]]
-- Papers on horospheres
-- Papers by Gallego, E. and Solanes, G.
-- Papers by Santalo
-- HOROSPHERES IN HYPERBOLIC GEOMETRY (E. GALLEGO, A. REVENTOS, G. SOLANES, AND E. TEUFEL
-)
-***** Clocking
-****** General research
-       :LOGBOOK:
-       CLOCK: [2013-10-05 Sat 13:55]--[2013-10-05 Sat 14:18] =>  0:23
-       CLOCK: [2013-10-04 Fri 15:06]--[2013-10-04 Fri 16:20] =>  1:14
-       :END:
-*** Future							    :SOMEDAY:
 **** TODO Study non-smooth mean curvature flow, minimal surfaces via support fn
      SCHEDULED: <2014-01-12 Sun>
   :LOGBOOK:
@@ -1651,6 +1654,10 @@ Sequences of manifolds and convergence. What is smooth convergence? Can it be de
       :ID:       c0bd68d4-6572-425e-8118-bb755fcded6f
       :END:
 ***** 
+**** TODO Non-smooth analysis
+***** Notes
+****** Overview
+This is about convex functions, viscosity solutions, barrier solutions and so forth. Particularly I guess related to extremal problems.
 ** Computation
 *** Future							    :SOMEDAY:
 **** TODO ANUGA
