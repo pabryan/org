@@ -1556,6 +1556,7 @@ I have mythtv and mediatomb and who knows what else using up valuable resources.
   :END:
 ** Organisation
   :LOGBOOK:
+  CLOCK: [2013-10-28 Mon 20:30]--[2013-10-28 Mon 20:31] =>  0:01
   CLOCK: [2013-10-28 Mon 14:01]--[2013-10-28 Mon 14:03] =>  0:02
   CLOCK: [2013-10-28 Mon 12:24]--[2013-10-28 Mon 12:26] =>  0:02
   CLOCK: [2013-10-28 Mon 11:55]--[2013-10-28 Mon 11:56] =>  0:01
@@ -2410,6 +2411,7 @@ Check how I did last month. I guess the review and plan could probably go togeth
 ** NEXT Daily Review [0/6]
    SCHEDULED: <2013-10-28 Mon .+1d/2d>
    :LOGBOOK:
+   CLOCK: [2013-10-28 Mon 20:31]--[2013-10-28 Mon 20:32] =>  0:01
    - State "DONE"       from "NEXT"       [2013-10-27 Sun 20:36]
    CLOCK: [2013-10-27 Sun 20:31]--[2013-10-27 Sun 20:36] =>  0:05
    - State "DONE"       from "NEXT"       [2013-10-24 Thu 21:16]
@@ -2581,6 +2583,7 @@ What to review:
 - [ ] Anything outstanding?
 - [ ] Copy from notebook/ideas.
 - [ ] Write blog/diary
+- [ ] Clean up tasks/habits
 
 When I set up scoring the day:
 
@@ -2890,7 +2893,7 @@ When I set up scoring the day:
 - [ ] Record morning health stats
 
 ** NEXT Weekly Review [0/18]
-   SCHEDULED: <2013-10-13 Sun +1w>
+   SCHEDULED: <2013-11-03 Sun +1w>
    :LOGBOOK:
    - State "DONE"       from "NEXT"       [2013-10-27 Sun 13:09]
    CLOCK: [2013-10-27 Sun 11:42]--[2013-10-27 Sun 12:40] =>  0:58
