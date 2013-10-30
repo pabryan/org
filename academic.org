@@ -24,18 +24,21 @@
   :END:
 ** NSF
 *** 2014 Grants
-**** TODO Geometric Analysis					 :FOCUS:GOAL:
+**** CANCELLED Geometric Analysis				 :FOCUS:GOAL:
      DEADLINE: <2013-11-05 Tue>
      :LOGBOOK:
+     - State "CANCELLED"  from "TODO"       [2013-10-30 Wed 14:01] \\
+       The timing just doesn't work.
      CLOCK: [2013-10-29 Tue 15:42]--[2013-10-29 Tue 16:40] =>  0:58
      :END:
 [[file:~/working/academic/grants/nsf/PD_10-1265]]
 [[file:~/reference/academic/grants/2014]]
 [[file:~/reference/academic/grants/nsf]]
 [[http://www.nsf.gov/funding/pgm_summ.jsp?pims_id%3D5549&org%3DNSF&sel_org%3DMPS&from%3Dfund][http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5549&org=NSF&sel_org=MPS&from=fund]]
-***** NEXT Research application process
+***** DONE Research application process
       SCHEDULED: <2013-10-20 Sun>
       :LOGBOOK:
+      - State "DONE"       from "NEXT"       [2013-10-30 Wed 14:00]
       CLOCK: [2013-10-29 Tue 20:17]--[2013-10-29 Tue 20:29] =>  0:12
       CLOCK: [2013-10-24 Thu 11:43]--[2013-10-24 Thu 11:46] =>  0:03
       CLOCK: [2013-10-23 Wed 12:02]--[2013-10-23 Wed 12:06] =>  0:04
@@ -52,7 +55,7 @@
       :PROPERTIES:
       :ID:       5309d2fe-6c47-4cb7-a019-2efc86b3647e
       :END:
-***** NEXT Fill in PI exemption
+***** CANCELLED Fill in PI exemption
       :LOGBOOK:
       CLOCK: [2013-10-29 Tue 19:43]--[2013-10-29 Tue 20:17] =>  0:34
       :END:
@@ -68,13 +71,14 @@ I will need these informations to request a UCSD proposal # and finish fill out 
 
 Please also forward me curriculum vitae or bio-bibilography and 2~3 sentence description of the proposed research.
 
-***** TODO Write Bio
-***** TODO Write Description
-***** TODO Write Summary
-***** TODO Write budget
-***** TODO See Peter about grant applications
+***** CANCELLED Write Bio
+***** CANCELLED Write Description
+***** CANCELLED Write Summary
+***** CANCELLED Write budget
+***** DONE See Peter about grant applications
   SCHEDULED: <2013-10-30 Wed>
   :LOGBOOK:
+  - State "DONE"       from "TODO"       [2013-10-30 Wed 14:00]
   CLOCK: [2013-10-29 Tue 19:33]--[2013-10-29 Tue 19:34] =>  0:01
   :END:
 [2013-10-29 Tue 19:33]
