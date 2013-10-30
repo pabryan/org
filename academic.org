@@ -31,6 +31,9 @@
        The timing just doesn't work.
      CLOCK: [2013-10-29 Tue 15:42]--[2013-10-29 Tue 16:40] =>  0:58
      :END:
+     :PROPERTIES:
+     :ID:       6c520214-a594-480f-8929-3dbecaa50667
+     :END:
 [[file:~/working/academic/grants/nsf/PD_10-1265]]
 [[file:~/reference/academic/grants/2014]]
 [[file:~/reference/academic/grants/nsf]]
@@ -79,8 +82,12 @@ Please also forward me curriculum vitae or bio-bibilography and 2~3 sentence des
   SCHEDULED: <2013-10-30 Wed>
   :LOGBOOK:
   - State "DONE"       from "TODO"       [2013-10-30 Wed 14:00]
+  CLOCK: [2013-10-30 Wed 11:10]--[2013-10-30 Wed 12:15] =>  1:05
   CLOCK: [2013-10-29 Tue 19:33]--[2013-10-29 Tue 19:34] =>  0:01
   :END:
+      :PROPERTIES:
+      :ID:       95ca8e6d-6679-4e09-89ed-cf0213f5a750
+      :END:
 [2013-10-29 Tue 19:33]
 - what dates do I put down?
 - can I get salary after my SEW appointment finishes?
@@ -109,16 +116,28 @@ http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=503539&org=NSF&sel_org=MPS&from=
 http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5301&org=NSF&sel_org=MPS&from=fund
 **** TODO Applied Mathematics
      DEADLINE: <2013-11-15 Fri>
+     :PROPERTIES:
+     :ID:       beb855b4-e6f5-4cec-98ef-1576c0ddbafe
+     :END:
 http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5664&org=NSF&sel_org=MPS&from=fund
 **** TODO Computational Mathematics
+     :PROPERTIES:
+     :ID:       7319368b-5b57-4b23-91b0-79970ea28454
+     :END:
 http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5390&org=NSF&sel_org=MPS&from=fund
 
 **** TODO Research Experience for Undergraduates (REU)
      DEADLINE: <2014-08-27 Wed -3m>
+     :PROPERTIES:
+     :ID:       e3e74a18-53b4-4057-8269-bee93c3ea833
+     :END:
 http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5517&org=NSF
 *** 2015 Grants
 **** TODO Focused Research Group in Mathematics
      DEADLINE: <2014-09-19 Fri -3m>
+     :PROPERTIES:
+     :ID:       62a11ed4-1005-46b5-88fe-4820b9291590
+     :END:
 http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5671&org=NSF&sel_org=MPS&from=fund
 
 *** Events
@@ -1703,6 +1722,9 @@ Sequences of manifolds and convergence. What is smooth convergence? Can it be de
       :END:
 ***** 
 **** TODO Non-smooth analysis
+     :PROPERTIES:
+     :ID:       7878fe8a-f722-4836-990c-f2349611f566
+     :END:
 ***** Notes
 ****** Overview
 This is about convex functions, viscosity solutions, barrier solutions and so forth. Particularly I guess related to extremal problems.

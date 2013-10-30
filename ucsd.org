@@ -5653,10 +5653,11 @@ Lectures in calendar and tasks like planning lectures.
 	   :PROPERTIES:
 	   :ID:       285c1d43-6e2a-49e1-b114-585abecbb149
 	   :END:
-********* NEXT Prepare Lecture 5.3
+********* DONE Prepare Lecture 5.3
 	   DEADLINE: <2013-11-01 Fri>
 	   :LOGBOOK:
-	   CLOCK: [2013-10-30 Wed 14:09]
+	   - State "DONE"       from "NEXT"       [2013-10-30 Wed 15:01]
+	   CLOCK: [2013-10-30 Wed 14:09]--[2013-10-30 Wed 15:01] =>  0:52
 	   :END:
 	   :PROPERTIES:
 	   :ID:       0dbdb61e-201c-479a-9d96-cd5f7e2efaff
@@ -5897,6 +5898,9 @@ WLH 2208
 ********* Lecture 5.2
 	  :LOGBOOK:
 	  CLOCK: [2013-10-30 Wed 09:55]--[2013-10-30 Wed 11:10] =>  1:15
+	  :END:
+	  :PROPERTIES:
+	  :ID:       c2b7de06-2092-4766-bfea-d708e334ba24
 	  :END:
 	  <2013-10-30 Wed 10:00-11:00>
 
@@ -6215,7 +6219,13 @@ Lectures in calendar and tasks like planning lectures.
 Add problems 42,43 to 11.4
 Also skip "arc-length in polar coordinated" on bottom half of page 637 after example 3.
 ******** NEXT Investigate reducing homework load
+	 :PROPERTIES:
+	 :ID:       239b327c-6035-4dbe-bc20-22838c0bbcee
+	 :END:
 ******** NEXT Notify Laurel Bawling that MT1 grade stands
+	 :PROPERTIES:
+	 :ID:       19b1db61-ff5e-44fd-82ea-2a41753a474a
+	 :END:
 ******* TODO Lectures
 	 :LOGBOOK:
 	 CLOCK: [2013-09-16 Mon 20:58]--[2013-09-16 Mon 20:59] =>  0:01
@@ -6611,6 +6621,9 @@ CENTR 101
 	  :LOGBOOK:
 	  CLOCK: [2013-10-30 Wed 08:50]--[2013-10-30 Wed 09:55] =>  1:05
 	  :END:
+	  :PROPERTIES:
+	  :ID:       2e8d8610-0f3f-4370-bc6b-737edb35b1d4
+	  :END:
 <2013-10-30 Wed 09:00-10:00>
 ********* Lecture 6.2
 <2013-11-06 Wed 09:00-10:00>
@@ -6709,6 +6722,9 @@ Place: APM 7421
        DEADLINE: <2013-11-05 Tue>
        :LOGBOOK:
        CLOCK: [2013-10-29 Tue 16:40]--[2013-10-29 Tue 16:53] =>  0:13
+       :END:
+       :PROPERTIES:
+       :ID:       5dc2eab5-5f9a-4d40-9ddb-2b48cc92ab8b
        :END:
 
 ** Professional Development
