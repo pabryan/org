@@ -2302,58 +2302,66 @@ http://mathoverflow.net/questions/14877/how-much-of-differential-geometry-can-be
       :ID:       98c00e4f-d1ea-4a2c-8593-521fc9473fb0
       :END:
 <2013-10-04 Fri 12:00-13:00>
-* Learning							   :LEARNING:
-  :PROPERTIES:
-  :ID:       0609581e-fe50-48ce-aa33-ce468c217f92
-  :END:
-** HOLD GMT								:GMT:
-   SCHEDULED: <2013-12-06 Fri>
-   :LOGBOOK:
-   - State "HOLD"       from "TODO"       [2013-08-04 Sun 16:45] \\
-     Don't have time for this right now!
-   CLOCK: [2013-04-26 Fri 09:35]--[2013-04-26 Fri 09:54] =>  0:19
-   :END:
+** Learning							   :LEARNING:
    :PROPERTIES:
-   :ID:       e9aaaa7d-8f30-4e4e-9119-c9820a295693
+   :ID:       0609581e-fe50-48ce-aa33-ce468c217f92
    :END:
-*** Tasks
-**** TODO Write notes
-     :PROPERTIES:
-     :ID:       734c57a5-627b-4e1c-83e3-9d401a622805
-     :END:
-***** NEXT Write 1st variation notes
-      :PROPERTIES:
-      :ID:       90a7a126-73fa-4d5c-8350-8c226b0b191d
-      :END:
-***** TODO Write Radon measure notes
-      :PROPERTIES:
-      :ID:       cb7e304a-aa11-424c-a5b5-7923b2113dcd
-      :END:
-*** GMT Seminar notes
-**** Lec 01
-Minimal and CMC surfaces. First variation.
-**** Lec 02
-First variation.
-**** Lec 03
-Radon measures: compactness and Reisz representation.
-** TODO Convex Geometry						     :CONVEX:
-   SCHEDULED: <2013-11-11 Mon>
-   :LOGBOOK:
-   - State "TODO"       from "HOLD"       [2013-10-09 Wed 17:24]
-   - State "HOLD"       from "TODO"       [2013-08-04 Sun 16:46] \\
-     Don't have time for this right now!
-   :END:
-   :PROPERTIES:
-   :ID:       9a15d3ec-fe6c-4def-8227-bc3414959dd6
-   :END:
-*** NEXT Read Schneider
+*** HOLD GMT								:GMT:
+    SCHEDULED: <2013-12-06 Fri>
     :LOGBOOK:
-    CLOCK: [2013-06-12 Wed 14:45]--[2013-06-12 Wed 18:57] =>  4:12
+    - State "HOLD"       from "TODO"       [2013-08-04 Sun 16:45] \\
+      Don't have time for this right now!
+    CLOCK: [2013-04-26 Fri 09:35]--[2013-04-26 Fri 09:54] =>  0:19
     :END:
     :PROPERTIES:
-    :ID:       ddd93de1-e3e9-4041-be96-e8a3420beb08
+    :ID:       e9aaaa7d-8f30-4e4e-9119-c9820a295693
     :END:
+**** Tasks
+***** TODO Write notes
+      :PROPERTIES:
+      :ID:       734c57a5-627b-4e1c-83e3-9d401a622805
+      :END:
+****** NEXT Write 1st variation notes
+       :PROPERTIES:
+       :ID:       90a7a126-73fa-4d5c-8350-8c226b0b191d
+       :END:
+****** TODO Write Radon measure notes
+       :PROPERTIES:
+       :ID:       cb7e304a-aa11-424c-a5b5-7923b2113dcd
+       :END:
+**** GMT Seminar notes
+***** Lec 01
+Minimal and CMC surfaces. First variation.
+***** Lec 02
+First variation.
+***** Lec 03
+Radon measures: compactness and Reisz representation.
+*** TODO Convex Geometry					     :CONVEX:
+    SCHEDULED: <2013-11-11 Mon>
+    :LOGBOOK:
+    - State "TODO"       from "HOLD"       [2013-10-09 Wed 17:24]
+    - State "HOLD"       from "TODO"       [2013-08-04 Sun 16:46] \\
+      Don't have time for this right now!
+    :END:
+    :PROPERTIES:
+    :ID:       9a15d3ec-fe6c-4def-8227-bc3414959dd6
+    :END:
+**** NEXT Read Schneider
+     :LOGBOOK:
+     CLOCK: [2013-06-12 Wed 14:45]--[2013-06-12 Wed 18:57] =>  4:12
+     :END:
+     :PROPERTIES:
+     :ID:       ddd93de1-e3e9-4041-be96-e8a3420beb08
+     :END:
 
+*** TODO Bundle Theory
+    SCHEDULED: <2013-12-15 Sun>
+**** Refs
+- QA612.6 .B37 2008 
+  Basic bundle theory and K-cohomology invariants
+- Fibre Bundles, D. Husemoller
+**** Notes
+I want to study Gauss maps $(E,X,\pi) \to (\RR^k\times X, X, \pi)$, in particular relating the number of trivialisations required to cover $E$ and the how big $k$ is. I also want to use this to integrate tensors component-by-component with respect to the Gauss map. This also relates to Grassmanians. What sort of cohomology theory is involved here?
 * Seminars/Conferences
   :PROPERTIES:
   :ID:       1e7a7317-1668-4432-a995-cdaa9293f7af
