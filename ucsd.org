@@ -5645,8 +5645,11 @@ Lectures in calendar and tasks like planning lectures.
 	   :PROPERTIES:
 	   :ID:       f8317796-47bd-47b3-8f6d-8beab0c879d8
 	   :END:
-********* NEXT Prepare Lecture 5.2
+********* DONE Prepare Lecture 5.2
 	   DEADLINE: <2013-10-30 Wed>
+	   :LOGBOOK:
+	   - State "DONE"       from "NEXT"       [2013-10-29 Tue 20:29]
+	   :END:
 	   :PROPERTIES:
 	   :ID:       285c1d43-6e2a-49e1-b114-585abecbb149
 	   :END:
