@@ -1556,6 +1556,8 @@ I have mythtv and mediatomb and who knows what else using up valuable resources.
   :END:
 ** Organisation
   :LOGBOOK:
+  CLOCK: [2013-10-31 Thu 10:15]--[2013-10-31 Thu 10:20] =>  0:05
+  CLOCK: [2013-10-31 Thu 10:12]--[2013-10-31 Thu 10:15] =>  0:03
   CLOCK: [2013-10-30 Wed 16:01]--[2013-10-30 Wed 16:29] =>  0:28
   CLOCK: [2013-10-30 Wed 13:42]--[2013-10-30 Wed 14:04] =>  0:22
   CLOCK: [2013-10-30 Wed 13:29]--[2013-10-30 Wed 13:30] =>  0:01
@@ -2414,7 +2416,7 @@ Set some goals for the month. I should check someday projects for inclusion in t
 *** Monthly Review
 Check how I did last month. I guess the review and plan could probably go together. This is all broad stuff
 
-** NEXT Daily Review [0/6]
+** NEXT Daily Review [0/9]
    SCHEDULED: <2013-10-31 Thu .+1d/2d>
    :LOGBOOK:
    - State "DONE"       from "NEXT"       [2013-10-30 Wed 19:54]
@@ -2596,6 +2598,7 @@ What to review:
 - [ ] Write blog/diary
 - [ ] Clean up tasks/habits
 - [ ] Water plants
+- [ ] Turn off power points
 
 When I set up scoring the day:
 
@@ -2606,6 +2609,7 @@ When I set up scoring the day:
 ** NEXT Daily Plan [0/4]
    SCHEDULED: <2013-10-31 Thu .+1d/2d>
    :LOGBOOK:
+   CLOCK: [2013-10-31 Thu 10:20]
    - State "DONE"       from "NEXT"       [2013-10-30 Wed 14:09]
    CLOCK: [2013-10-30 Wed 14:04]--[2013-10-30 Wed 14:09] =>  0:05
    CLOCK: [2013-10-30 Wed 13:30]--[2013-10-30 Wed 13:42] =>  0:12
@@ -3037,7 +3041,7 @@ What to review:
 - [ ] Order meat
   - http://www.son-riseranchstore.com/
 
-** NEXT Monthly Plan/Review [0/4]
+** NEXT Monthly Plan/Review [0/5]
    SCHEDULED: <2013-11-01 Fri +1m>
    - State "DONE"       from "NEXT"       [2013-03-19 Tue 11:34]
    :LOGBOOK:
@@ -3060,6 +3064,10 @@ What to review:
   - Teaching days/time
   - Research days/time (particular projects on a given day?)
   - Organisation time
+- [ ] Pay bills
+  - Rent
+  - Buy Remy's lunch
+  - AT&T
 
 
 ** 6 monthly?
