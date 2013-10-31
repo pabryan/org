@@ -228,8 +228,11 @@ Pass: 67dogs43
   :ID:       e07dccf2-208b-4ea6-a70e-25bd774737b0
   :END:
 [2013-09-01 Sun 10:30]
-**** TODO Get TB Screen checked
+**** DONE Get TB Screen checked
      DEADLINE: <2013-10-31 Thu> 
+     :LOGBOOK:
+     - State "DONE"       from "TODO"       [2013-10-31 Thu 14:47]
+     :END:
 [2013-10-31 Thu 10:15]
 *** IA Home Learning
 **** DONE Go to IA Home learning
