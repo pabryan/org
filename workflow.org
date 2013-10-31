@@ -2417,6 +2417,7 @@ Check how I did last month. I guess the review and plan could probably go togeth
 ** NEXT Daily Review [0/6]
    SCHEDULED: <2013-10-30 Wed .+1d/2d>
    :LOGBOOK:
+   CLOCK: [2013-10-30 Wed 19:24]
    - State "DONE"       from "NEXT"       [2013-10-29 Tue 20:29]
    - State "DONE"       from "NEXT"       [2013-10-28 Mon 21:10]
    CLOCK: [2013-10-28 Mon 20:56]--[2013-10-28 Mon 21:10] =>  0:14
@@ -2593,6 +2594,7 @@ What to review:
 - [ ] Copy from notebook/ideas.
 - [ ] Write blog/diary
 - [ ] Clean up tasks/habits
+- [ ] Water plants
 
 When I set up scoring the day:
 
