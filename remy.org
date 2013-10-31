@@ -219,12 +219,18 @@ Pass: 67dogs43
      :PROPERTIES:
      :ID:       1dab75b8-5ecc-4414-86b0-e82df4d9a6b0
      :END:
-**** TODO Get TB screening
+**** DONE Get TB screening
   SCHEDULED: <2013-11-16 Mon>
+  :LOGBOOK:
+  - State "DONE"       from "TODO"       [2013-10-31 Thu 10:18]
+  :END:
   :PROPERTIES:
   :ID:       e07dccf2-208b-4ea6-a70e-25bd774737b0
   :END:
 [2013-09-01 Sun 10:30]
+**** TODO Get TB Screen checked
+     DEADLINE: <2013-10-31 Thu> 
+[2013-10-31 Thu 10:15]
 *** IA Home Learning
 **** DONE Go to IA Home learning
     - State "DONE"       from "TODO"       [2013-07-10 Wed 14:29]
