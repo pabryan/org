@@ -2114,14 +2114,16 @@ http://ebenhaezereggs.com
   :PROPERTIES:
   :ID:       0729e545-5750-4ead-95a4-2dd93f8579f5
   :END:
-** A Big TOE: Scientist's Folly.
-*** Notes 
+** Non-fiction
+*** Science
+**** A Big TOE: Scientist's Folly.
+***** Notes 
 - This is a book about how throughout science, we thought we'd figured it all out, but then later we realised we just weren't even close! We thought, oh, we just need to reconcile electromagnetism and the constancy of the speed of light and all will be well. Then, Einstein came up with relativity and we were, oh! that's how it works - completely different to what we thought. The same goes for Quantum mechanics. Presumably the same goes for many ages - Greeks, Newton, etc.
 
 - Now, we're doing it again! We think we're on the verge of coming up with a TOE. All we need to do is sort out quantum gravity...
 
-** Systems and Emergent Behaviour.
-*** Notes
+**** Systems and Emergent Behaviour.
+***** Notes
 - This is about how studying systems is the next big thing we need to tackle. We can break things into components and study them individually, but this doesn't tell us much at all about systems on the whole. We try for instance to study nutrition like this. 
 
 - The weather is a system and we need probablistic methods.
@@ -2136,6 +2138,13 @@ http://ebenhaezereggs.com
 
 - The three body problem is chatoic! How can we hope to understand complex systems when three bodies is too much!
 
+** Stories
+*** The mist
+**** Tasks
+***** NEXT Write it
+      :LOGBOOK:
+      CLOCK: [2013-10-31 Thu 10:40]--[2013-10-31 Thu 10:48] =>  0:08
+      :END:
 * Farming							    :FARMING:
   :PROPERTIES:
   :ID:       761ccce6-bd95-41c6-a889-b84e8daa21f8
