@@ -372,6 +372,12 @@
 :END:
 [[papers:MR3020169][MR3020169-paper]]
 [[bib:MR3020169][MR3020169-bib]]
+***** On algebraic selfsimilar solutions of the mean curvature flow
+:PROPERTIES:
+:Custom_ID: MR2752787
+:END:
+[[papers:MR2752787][MR2752787-paper]]
+[[bib:MR2752787][MR2752787-bib]]
 *** 53.04   (1959-1972) Minimal surfaces		:minimal:submanifold:
 **** Minimal varieties in riemannian manifolds			 :riemannian:
 :PROPERTIES:
@@ -528,8 +534,6 @@ Here I need to do some more work since $u \mapsto g(\grad u, \grad u)$ is not a 
 :Custom_ID: MR2170766
 :END:
 [[papers:MR2170766][MR2170766-paper]]
-
-
 
 * Arxiv 							      :arxiv:
   :PROPERTIES:
