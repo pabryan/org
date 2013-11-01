@@ -6076,6 +6076,7 @@ Lectures in calendar and tasks like planning lectures.
 	  - State "DONE"       from "NEXT"       [2013-10-16 Wed 19:37]
 	  CLOCK: [2013-10-16 Wed 19:26]--[2013-10-16 Wed 19:37] =>  0:11
 	  :END:
+********* NEXT Make link to MT1 solutions
 ******** TODO Midterm 2
 	 :PROPERTIES:
 	 :ID:       c8d63808-39f5-4dc8-ade9-e2c8ed92df6d
