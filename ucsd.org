@@ -5950,6 +5950,9 @@ WLH 2208
 	  :LOGBOOK:
 	  CLOCK: [2013-11-01 Fri 09:55]--[2013-11-01 Fri 11:05] =>  1:10
 	  :END:
+	  :PROPERTIES:
+	  :ID:       f0314cba-007b-4cb4-8321-e4ed209401de
+	  :END:
 <2013-11-01 Fri 10:00-11:00>
 ********* Lecture 6.3
 <2013-11-08 Fri 10:00-11:00>
@@ -6504,6 +6507,17 @@ Also skip "arc-length in polar coordinated" on bottom half of page 637 after exa
 	 :PROPERTIES:
 	 :ID:       986f7eda-0967-452f-9b83-9a43234fc70d
 	 :END:       
+******** TODO Alter student grades
+	 :PROPERTIES:
+	 :ID:       1cd8a87e-aa61-4b87-a940-94b6709c65db
+	 :END:
+********* NEXT Duo Wang
+	  :PROPERTIES:
+	  :ID:       4c751d9b-eb8b-47e2-bef2-86069019700d
+	  :END:
+- PID: A11282441
+- HW3: Went missing. Give best 8 out of remaining hw.
+
 ******* DONE Misc
 	:LOGBOOK:
 	- State "DONE"       from "TODO"       [2013-10-10 Thu 10:40]
@@ -6677,6 +6691,9 @@ CENTR 101
 ********* Lecture 5.3
 	  :LOGBOOK:
 	  CLOCK: [2013-11-01 Fri 08:50]--[2013-11-01 Fri 09:55] =>  1:05
+	  :END:
+	  :PROPERTIES:
+	  :ID:       9220be3a-0914-488d-ba0d-ab5e66c3832e
 	  :END:
 <2013-11-01 Fri 09:00-10:00>
 ********* Lecture 6.3

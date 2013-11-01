@@ -1572,16 +1572,26 @@ Look at all dark matter papers. Alan Parry also. Bibliography of course!
        :ID:       9269bbf3-ecf7-42fd-99fb-4fbfcb952c55
        :END:
 **** TODO Mean curvature solitons
+     :LOGBOOK:
+     CLOCK: [2013-11-01 Fri 14:13]--[2013-11-01 Fri 14:14] =>  0:01
+     :END:
+     :PROPERTIES:
+     :ID:       5d7fb5e3-7234-4307-b4c9-5856640d5847
+     :END:
 ***** Notes
 ***** Refs
 ***** Tasks
-****** NEXT Get ref's
+****** DONE Get ref's
        :LOGBOOK:
-       CLOCK: [2013-11-01 Fri 13:51]
+       - State "DONE"       from "NEXT"       [2013-11-01 Fri 14:13]
+       CLOCK: [2013-11-01 Fri 13:51]--[2013-11-01 Fri 14:13] =>  0:22
        :END:
 ****** NEXT Explore connection with Bakry-Emery and conformal metric
        :LOGBOOK:
        CLOCK: [2013-11-01 Fri 13:20]--[2013-11-01 Fri 13:51] =>  0:31
+       :END:
+       :PROPERTIES:
+       :ID:       f5a8bc41-7ebf-419a-86f5-ab04147b373e
        :END:
 In particular, if $X$ is not a gradient vector field, what is corresponding metric/measure for which $M_0$ is minimal?
 ** Books
