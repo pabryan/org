@@ -2359,6 +2359,9 @@ Radon measures: compactness and Reisz representation.
 
 *** TODO Bundle Theory
     SCHEDULED: <2013-12-15 Sun>
+    :PROPERTIES:
+    :ID:       05ad3c1c-4842-4796-8ecc-a417aee5b7cc
+    :END:
 **** Refs
 - QA612.6 .B37 2008 
   Basic bundle theory and K-cohomology invariants

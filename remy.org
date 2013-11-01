@@ -233,6 +233,9 @@ Pass: 67dogs43
      :LOGBOOK:
      - State "DONE"       from "TODO"       [2013-10-31 Thu 14:47]
      :END:
+     :PROPERTIES:
+     :ID:       17bc69e1-202f-4aa2-a0e6-b43116a2ae37
+     :END:
 [2013-10-31 Thu 10:15]
 *** IA Home Learning
 **** DONE Go to IA Home learning

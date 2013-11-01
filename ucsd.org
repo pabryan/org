@@ -6077,6 +6077,9 @@ Lectures in calendar and tasks like planning lectures.
 	  CLOCK: [2013-10-16 Wed 19:26]--[2013-10-16 Wed 19:37] =>  0:11
 	  :END:
 ********* NEXT Make link to MT1 solutions
+	  :PROPERTIES:
+	  :ID:       1b92a2b2-fc0c-4e00-a1d2-74bd3d493aa4
+	  :END:
 ******** TODO Midterm 2
 	 :PROPERTIES:
 	 :ID:       c8d63808-39f5-4dc8-ade9-e2c8ed92df6d
@@ -6711,6 +6714,9 @@ TBA
 Place: APM 7421
 [[file:~/holding/paul-monday.pdf]]
 ****** TODO Cover Adrian Ionoa's analysis lecture
+       :PROPERTIES:
+       :ID:       388b04cd-1987-4378-934b-267a759ebfd7
+       :END:
 <2013-11-13 Wed 13:00-14:00>
 **** Winter 2014
 ***** TODO MATH10B

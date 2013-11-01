@@ -1886,6 +1886,9 @@ Delta 4502 From LA.
 ** Christine
 *** Winter 2013 visit
 **** NEXT Pick up Christine from airport
+     :PROPERTIES:
+     :ID:       5da62bb0-eed1-45bf-aff4-6dfd18425d51
+     :END:
 <2013-11-19 Tue 13:30>
 * Errands
   :PROPERTIES:
@@ -2148,6 +2151,9 @@ http://ebenhaezereggs.com
 ***** NEXT Write it
       :LOGBOOK:
       CLOCK: [2013-10-31 Thu 10:40]--[2013-10-31 Thu 10:48] =>  0:08
+      :END:
+      :PROPERTIES:
+      :ID:       646dbed7-433d-4d96-be14-c2d440b421a9
       :END:
 * Farming							    :FARMING:
   :PROPERTIES:
