@@ -5416,6 +5416,9 @@ Lectures in calendar and tasks like planning lectures.
 ********* WAITING Write MT 1 solutions
 	  DEADLINE: <2013-11-01 Fri>
 	  :LOGBOOK:
+	  - State "WAITING"    from "WAITING"    [2013-11-03 Sun 09:48] \\
+	    Sent TA (John) a reminder about solns.
+	  CLOCK: [2013-11-03 Sun 09:41]--[2013-11-03 Sun 09:48] =>  0:07
 	  - State "WAITING"    from "NEXT"       [2013-10-28 Mon 12:24] \\
 	    TA is writing solutions
 	  :END:
