@@ -6259,9 +6259,16 @@ Also skip "arc-length in polar coordinated" on bottom half of page 637 after exa
 	 :PROPERTIES:
 	 :ID:       b47d8576-05bf-4ac3-acb9-693759015a18
 	 :END:
-********* NEXT Write complex numbers cheat-sheet
+********* DONE Write complex numbers cheat-sheet
+	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2013-11-03 Sun 10:42]
+	  :END:
 	  :PROPERTIES:
 	  :ID:       9b2ee2f3-1418-4fa1-bc87-717ee5fe97b0
+	  :END:
+********* NEXT Write PFE Cheat sheet
+	  :LOGBOOK:
+	  CLOCK: [2013-11-03 Sun 10:25]--[2013-11-03 Sun 10:43] =>  0:18
 	  :END:
 ******** TODO Prepare Lectures
 	 :PROPERTIES:
