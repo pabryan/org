@@ -401,7 +401,7 @@ Decided not to do it.
      :END:
 *** Notes
 **** TODO Selected papers
-  SCHEDULED: <2013-11-03 Sun>
+  SCHEDULED: <2013-12-03 Tue>
   :LOGBOOK:
   CLOCK: [2013-08-04 Sun 09:49]--[2013-08-04 Sun 09:50] =>  0:01
   :END:
@@ -2013,7 +2013,7 @@ I'd like to be able to use org-mode views to show papers/books by a given author
 Schedule time for research, for teaching and for non-research academic work (e.g. refereeing). That cover's all the sort of work I do.
 
 *** TODO Prove similarity solns (self-shrinkers/translations) have polyomial growth
-  SCHEDULED: <2013-11-03 Sun>
+  SCHEDULED: <2014-04-03 Thu>
   :LOGBOOK:
   :END:
     :PROPERTIES:
