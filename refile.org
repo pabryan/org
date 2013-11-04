@@ -1,6 +1,9 @@
 #+FILETAGS: REFILE
-* TODO Log hike details
+* DONE Log hike details
   SCHEDULED: <2013-11-03 Sun>
+  :LOGBOOK:
+  - State "DONE"       from "TODO"       [2013-11-04 Mon 11:30]
+  :END:
 [2013-11-03 Sun 19:01]
 
 * TODO Find pot veggie growing books
