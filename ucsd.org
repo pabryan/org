@@ -6109,6 +6109,9 @@ Lectures in calendar and tasks like planning lectures.
 	 :END:
 ********* NEXT Write Midterm 2
 	  DEADLINE: <2013-11-04 Mon -14d>
+	  :LOGBOOK:
+	  CLOCK: [2013-11-04 Mon 20:47]--[2013-11-04 Mon 20:57] =>  0:10
+	  :END:
 	  :PROPERTIES:
 	  :ID:       4408d76e-1793-4532-b380-df3653c46537
 	  :END:
