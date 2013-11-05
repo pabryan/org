@@ -5533,9 +5533,6 @@ Lectures in calendar and tasks like planning lectures.
 	 :ID:       a7df5e60-2bab-40bb-90e0-f6b7e2708380
 	 :END:
 ******** TODO Prepare Lectures
-	 :LOGBOOK:
-	 CLOCK: [2013-11-04 Mon 13:12]
-	 :END:
 	 :PROPERTIES:
 	 :ID:       f0b65695-b765-4fec-a9cd-5dd82cc9ae24
 	 :END:
@@ -5866,6 +5863,9 @@ WLH 2208
 	  :END:
 <2013-10-28 Mon 10:00-11:00>
 ********* Lecture 6.1
+	  :LOGBOOK:
+	  CLOCK: [2013-11-04 Mon 09:55]--[2013-11-04 Mon 11:15] =>  1:20
+	  :END:
 <2013-11-04 Mon 10:00-11:00>
 ********* Lecture 7.1
 <2013-11-11 Mon 10:00-11:00>
@@ -6630,6 +6630,9 @@ CENTR 101
 	  :END:
 <2013-10-28 Mon 09:00-10:00>
 ********* Lecture 6.1
+	  :LOGBOOK:
+	  CLOCK: [2013-11-04 Mon 08:50]--[2013-11-04 Mon 09:55] =>  1:05
+	  :END:
 <2013-11-04 Mon 09:00-10:00>
 ********* Lecture 7.1
 <2013-11-11 Mon 09:00-10:00>
