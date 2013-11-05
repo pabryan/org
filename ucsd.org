@@ -6790,9 +6790,11 @@ Place: APM 7421
 
 **** Summer 2014
 ***** Tasks
-****** NEXT Send in course form
+****** DONE Send in course form
        DEADLINE: <2013-11-05 Tue>
        :LOGBOOK:
+       - State "DONE"       from "NEXT"       [2013-11-05 Tue 10:06]
+       CLOCK: [2013-11-05 Tue 09:51]--[2013-11-05 Tue 10:06] =>  0:15
        CLOCK: [2013-10-29 Tue 16:40]--[2013-10-29 Tue 16:53] =>  0:13
        :END:
        :PROPERTIES:
