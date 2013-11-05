@@ -6107,9 +6107,12 @@ Lectures in calendar and tasks like planning lectures.
 	 :PROPERTIES:
 	 :ID:       c8d63808-39f5-4dc8-ade9-e2c8ed92df6d
 	 :END:
-********* NEXT Write Midterm 2
+********* WAITING Write Midterm 2
 	  DEADLINE: <2013-11-04 Mon -14d>
 	  :LOGBOOK:
+	  - State "WAITING"    from "NEXT"       [2013-11-05 Tue 10:43] \\
+	    Sent to TA's for comments
+	  CLOCK: [2013-11-05 Tue 10:07]--[2013-11-05 Tue 10:44] =>  0:37
 	  CLOCK: [2013-11-04 Mon 20:47]--[2013-11-04 Mon 20:57] =>  0:10
 	  :END:
 	  :PROPERTIES:
