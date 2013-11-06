@@ -6107,19 +6107,22 @@ Lectures in calendar and tasks like planning lectures.
 	 :PROPERTIES:
 	 :ID:       c8d63808-39f5-4dc8-ade9-e2c8ed92df6d
 	 :END:
-********* WAITING Write Midterm 2
-	  DEADLINE: <2013-11-04 Mon -14d>
+********* DONE Write Midterm 2
+	  DEADLINE: <2013-11-06 Wed -14d>
 	  :LOGBOOK:
-	  - State "WAITING"    from "NEXT"       [2013-11-05 Tue 10:43] \\
-	    Sent to TA's for comments
+	  - State "DONE"       from "WAITING"    [2013-11-05 Tue 20:19]
 	  CLOCK: [2013-11-05 Tue 10:07]--[2013-11-05 Tue 10:44] =>  0:37
 	  CLOCK: [2013-11-04 Mon 20:47]--[2013-11-04 Mon 20:57] =>  0:10
 	  :END:
 	  :PROPERTIES:
 	  :ID:       4408d76e-1793-4532-b380-df3653c46537
 	  :END:
-********* TODO Get TA's comments
+********* DONE Get TA's comments
 	  DEADLINE: <2013-11-11 Mon>
+	  :LOGBOOK:
+	  - State "DONE"       from "TODO"       [2013-11-05 Tue 20:19]
+	    Sent to TA's for comments
+	  :END:
 	  :PROPERTIES:
 	  :ID:       149a5fdb-70c4-4fc4-85c5-a18e81fefd62
 	  :END:
