@@ -6294,6 +6294,9 @@ Also skip "arc-length in polar coordinated" on bottom half of page 637 after exa
 	  :LOGBOOK:
 	  CLOCK: [2013-11-03 Sun 10:25]--[2013-11-03 Sun 10:43] =>  0:18
 	  :END:
+	  :PROPERTIES:
+	  :ID:       5ee6e1c6-651f-4e14-bbd3-9ab316bc46e7
+	  :END:
 ******** TODO Prepare Lectures
 	 :PROPERTIES:
 	 :ID:       2a2ba26b-495a-48a8-8fcc-d023c59733fd
