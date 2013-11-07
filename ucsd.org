@@ -6981,7 +6981,7 @@ See Holding email.
    - State "HOLD"       from "TODO"       [2013-04-05 Fri 16:38] \\
      No speakers at the moment
    :LOGBOOK:
-   CLOCK: [2013-11-07 Thu 09:55]
+   CLOCK: [2013-11-07 Thu 09:55]--[2013-11-07 Thu 10:55] =>  1:00
    CLOCK: [2013-10-03 Thu 09:50]--[2013-10-03 Thu 11:12] =>  1:25
    - State "TODO"       from "HOLD"       [2013-10-03 Thu 11:32]
    CLOCK: [2013-02-21 Thu 09:50]--[2013-02-21 Thu 11:20] =>  1:30
