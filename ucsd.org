@@ -6041,6 +6041,9 @@ Lectures in calendar and tasks like planning lectures.
 	 - State "DONE"       from "NEXT"       [2013-09-13 Fri 10:37]
 	 :END:
 ******* TODO Exams
+	:LOGBOOK:
+	CLOCK: [2013-11-07 Thu 14:26]--[2013-11-07 Thu 14:27] =>  0:01
+	:END:
 	:PROPERTIES:
 	:ID:       d1e37783-70fb-49c3-b3d4-3633d429fd4b
 	:END:
@@ -6051,8 +6054,9 @@ Lectures in calendar and tasks like planning lectures.
 	 :PROPERTIES:
 	 :ID:       cd0474fa-cefa-4310-b6c0-a200ede5113f
 	 :END:
-******** TODO Midterm 1
+******** DONE Midterm 1
 	 :PROPERTIES:
+	 - State "DONE"       from "TODO"       [2013-11-07 Thu 14:26]
 	 :ID:       e5ec6159-ad2f-44d9-9942-33b3aa1c1737
 	 :END:
 ********* DONE Write Midterm 1
@@ -6107,7 +6111,11 @@ Lectures in calendar and tasks like planning lectures.
 	  - State "DONE"       from "NEXT"       [2013-10-16 Wed 19:37]
 	  CLOCK: [2013-10-16 Wed 19:26]--[2013-10-16 Wed 19:37] =>  0:11
 	  :END:
-********* NEXT Make link to MT1 solutions
+********* DONE Make link to MT1 solutions
+	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2013-11-07 Thu 14:26]
+	  CLOCK: [2013-11-07 Thu 14:22]--[2013-11-07 Thu 14:26] =>  0:04
+	  :END:
 	  :PROPERTIES:
 	  :ID:       1b92a2b2-fc0c-4e00-a1d2-74bd3d493aa4
 	  :END:
@@ -6134,8 +6142,12 @@ Lectures in calendar and tasks like planning lectures.
 	  :PROPERTIES:
 	  :ID:       149a5fdb-70c4-4fc4-85c5-a18e81fefd62
 	  :END:
-********* TODO Update exam based on TA's comments
+********* DONE Update exam based on TA's comments
 	  DEADLINE: <2013-11-13 Wed>
+	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2013-11-07 Thu 15:01]
+	  CLOCK: [2013-11-07 Thu 14:27]--[2013-11-07 Thu 15:01] =>  0:34
+	  :END:
 	  :PROPERTIES:
 	  :ID:       a23ec3bc-5e6d-41f5-85cc-ca1061b44f22
 	  :END:
@@ -7549,6 +7561,9 @@ Round Table pizza
    :END:
 See [[file:~/Documents/TSCC/TSCC-Description-For-Participants.doc][TSCC-Description-For-Participants.doc]] and [[file:~/Documents/TSCC/TSCC_UserGroup_20121017.ppt][TSCC_UserGroup_20121017.ppt]]
 * Events
+  :PROPERTIES:
+  :ID:       6737ddef-3f94-4e42-95f3-8becde74624d
+  :END:
 ** Faculty/Grad Pizza
 <2013-11-15 Fri 15:30-17:30>
 Round Table Pizza.
