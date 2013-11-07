@@ -5534,6 +5534,7 @@ Lectures in calendar and tasks like planning lectures.
 	 :END:
 ******** TODO Prepare Lectures
 	 :LOGBOOK:
+	 CLOCK: [2013-11-07 Thu 12:53]--[2013-11-07 Thu 12:54] =>  0:01
 	 :END:
 	 :PROPERTIES:
 	 :ID:       f0b65695-b765-4fec-a9cd-5dd82cc9ae24
@@ -5687,9 +5688,11 @@ Lectures in calendar and tasks like planning lectures.
 	   :PROPERTIES:
 	   :ID:       285c1d43-6e2a-49e1-b114-585abecbb149
 	   :END:
-********* NEXT Prepare Lecture 6.3
+********* DONE Prepare Lecture 6.3
 	   DEADLINE: <2013-11-08 Fri>
 	   :LOGBOOK:
+	   - State "DONE"       from "NEXT"       [2013-11-07 Thu 12:53]
+	   CLOCK: [2013-11-07 Thu 12:44]--[2013-11-07 Thu 12:53] =>  0:09
 	   CLOCK: [2013-11-07 Thu 11:27]--[2013-11-07 Thu 12:01] =>  0:34
 	   :END:
 	   :PROPERTIES:
@@ -6459,8 +6462,11 @@ Also skip "arc-length in polar coordinated" on bottom half of page 637 after exa
 	  :PROPERTIES:
 	  :ID:       285c1d43-6e2a-49e1-b114-585abecbb149
 	  :END:
-********* TODO Prepare Lecture 6.3
+********* NEXT Prepare Lecture 6.3
 	  DEADLINE: <2013-11-08 Fri>
+	  :LOGBOOK:
+	  CLOCK: [2013-11-07 Thu 12:54]
+	  :END:
 	  :PROPERTIES:
 	  :ID:       0dbdb61e-201c-479a-9d96-cd5f7e2efaff
 	  :END:
