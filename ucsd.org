@@ -6449,8 +6449,10 @@ Also skip "arc-length in polar coordinated" on bottom half of page 637 after exa
 	  :PROPERTIES:
 	  :ID:       f8317796-47bd-47b3-8f6d-8beab0c879d8
 	  :END:
-********* TODO Prepare Lecture 6.2
+********* DONE Prepare Lecture 6.2
 	  DEADLINE: <2013-11-06 Wed>
+	  :LOGBOOK:
+	  :END:
 	  :PROPERTIES:
 	  :ID:       285c1d43-6e2a-49e1-b114-585abecbb149
 	  :END:
@@ -7535,3 +7537,7 @@ Round Table pizza
    :ID:       c8a44475-f8cb-4df8-be68-1a4d49e529c0
    :END:
 See [[file:~/Documents/TSCC/TSCC-Description-For-Participants.doc][TSCC-Description-For-Participants.doc]] and [[file:~/Documents/TSCC/TSCC_UserGroup_20121017.ppt][TSCC_UserGroup_20121017.ppt]]
+* Events
+** Faculty/Grad Pizza
+<2013-11-15 Fri 15:30-17:30>
+Round Table Pizza.
