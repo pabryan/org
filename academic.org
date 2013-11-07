@@ -1946,6 +1946,7 @@ I'd like to be able to use org-mode views to show papers/books by a given author
 
 *** Research Pondering
     :LOGBOOK:
+    CLOCK: [2013-11-07 Thu 12:55]--[2013-11-07 Thu 13:37] =>  0:42
     CLOCK: [2013-06-23 Sun 15:42]--[2013-06-23 Sun 16:10] =>  0:28
     CLOCK: [2013-04-11 Thu 15:01]--[2013-04-11 Thu 15:35] =>  0:34
     CLOCK: [2013-04-11 Thu 11:07]--[2013-04-11 Thu 11:59] =>  0:52
