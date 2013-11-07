@@ -6976,9 +6976,12 @@ See Holding email.
   :ID:       4a7b50f0-8368-4d3a-bc5d-c0e229fd442f
   :END:
 ** TODO UCSD DG Seminar   
+   - State "TODO"       from "HOLD"       [2013-09-24 Tue 16:38] \\
+     Seminar is back on.
    - State "HOLD"       from "TODO"       [2013-04-05 Fri 16:38] \\
      No speakers at the moment
    :LOGBOOK:
+   CLOCK: [2013-11-07 Thu 09:55]
    CLOCK: [2013-10-03 Thu 09:50]--[2013-10-03 Thu 11:12] =>  1:25
    - State "TODO"       from "HOLD"       [2013-10-03 Thu 11:32]
    CLOCK: [2013-02-21 Thu 09:50]--[2013-02-21 Thu 11:20] =>  1:30
