@@ -114,8 +114,12 @@ http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=503539&org=NSF&sel_org=MPS&from=
      :ID:       7cc0b898-e174-4765-923d-26a245815b6f
      :END:
 http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5301&org=NSF&sel_org=MPS&from=fund
-**** TODO Applied Mathematics
+**** CANCELLED Applied Mathematics
      DEADLINE: <2013-11-15 Fri>
+     :LOGBOOK:
+     - State "CANCELLED"  from "TODO"       [2013-11-08 Fri 14:37] \\
+       NO time.
+     :END:
      :PROPERTIES:
      :ID:       beb855b4-e6f5-4cec-98ef-1576c0ddbafe
      :END:

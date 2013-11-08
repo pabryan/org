@@ -5508,8 +5508,12 @@ Lectures in calendar and tasks like planning lectures.
 	 :PROPERTIES:
 	 :ID:       fa667c39-0e7e-4f28-b69a-247044d6593e
 	 :END:
-******** NEXT Write Homework 4
+******** DONE Write Homework 4
 	 DEADLINE: <2013-11-08 Fri>
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2013-11-08 Fri 14:36]
+	 CLOCK: [2013-11-08 Fri 14:06]--[2013-11-08 Fri 14:31] =>  0:25
+	 :END:
 	 :PROPERTIES:
 	 :ID:       9e2b4c6c-affb-4f7c-ad52-f804b49c6237
 	 :END:
@@ -6979,9 +6983,11 @@ See Holding email.
 - Vector symmetric algebra: code it up in sage
 - Code up 1d flows (port Anuga to sage?), tests etc.
 
-****** NEXT Check on research program credit requirements
+****** DONE Check on research program credit requirements
   SCHEDULED: <2013-10-29 Tue>
   :LOGBOOK:
+  - State "DONE"       from "NEXT"       [2013-11-08 Fri 14:36]
+  CLOCK: [2013-11-08 Fri 14:31]--[2013-11-08 Fri 14:36] =>  0:05
   CLOCK: [2013-10-28 Mon 11:58]--[2013-10-28 Mon 11:59] =>  0:01
   :END:
   :PROPERTIES:
@@ -7135,7 +7141,7 @@ homeomorphic to S^4 or to a connected sum of CP^2s.
   CLOCK: [2012-10-26 Fri 15:07]--[2012-10-26 Fri 15:08] =>  0:01
 [2012-10-26 Fri 15:07]
 **** NEXT Send DG seminar email announcement
-     DEADLINE: <2013-11-07 Thu +1w -5d>
+     DEADLINE: <2013-11-14 Thu +1w -5d>
      
     - State "HOLD"       from "NEXT"       [2013-03-29 Fri 10:43] \\
       Lei and I will do an informal seminar instead.
@@ -7150,6 +7156,7 @@ homeomorphic to S^4 or to a connected sum of CP^2s.
     - State "DONE"       from "NEXT"       [2012-12-06 Thu 14:00]
     - State "DONE"       from "TODO"       [2012-11-29 Thu 09:46]
     :LOGBOOK:
+    - State "DONE"       from "NEXT"       [2013-11-08 Fri 14:36]
     - State "DONE"       from "NEXT"       [2013-10-24 Thu 11:42]
     - State "DONE"       from "NEXT"       [2013-10-21 Mon 12:42]
     - State "DONE"       from "NEXT"       [2013-10-17 Thu 17:28]
@@ -7162,7 +7169,7 @@ homeomorphic to S^4 or to a connected sum of CP^2s.
     :PROPERTIES:
     :ID:       0f19da7c-65a3-4e95-8a91-78d12caa46da
     :REPEAT_TO_STATE: NEXT
-    :LAST_REPEAT: [2013-10-24 Thu 11:42]
+    :LAST_REPEAT: [2013-11-08 Fri 14:36]
     :END: 
 
 [[mailto:seminarstaff@math.ucsd.edu]]
