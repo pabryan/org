@@ -5984,6 +5984,12 @@ WLH 2208
 	  :END:
 <2013-11-01 Fri 10:00-11:00>
 ********* Lecture 6.3
+	  :LOGBOOK:
+	  CLOCK: [2013-11-08 Fri 09:55]--[2013-11-08 Fri 11:05] =>  1:10
+	  :END:
+	  :PROPERTIES:
+	  :ID:       68ce1fbe-b0ba-41a7-877f-55df8a168f41
+	  :END:
 <2013-11-08 Fri 10:00-11:00>
 ********* Lecture 7.3
 <2013-11-15 Fri 10:00-11:00>
@@ -6612,6 +6618,7 @@ Also skip "arc-length in polar coordinated" on bottom half of page 637 after exa
 ******* Admin
 ******* Office hours
 	:LOGBOOK:
+	CLOCK: [2013-11-08 Fri 11:05]--[2013-11-08 Fri 12:15] =>  1:10
 	CLOCK: [2013-11-01 Fri 11:05]--[2013-11-01 Fri 12:05] =>  1:00
 	CLOCK: [2013-10-25 Fri 11:15]--[2013-10-25 Fri 12:50] =>  1:35
 	CLOCK: [2013-10-23 Wed 11:13]--[2013-10-23 Wed 11:51] =>  0:38
@@ -6769,6 +6776,12 @@ CENTR 101
 	  :END:
 <2013-11-01 Fri 09:00-10:00>
 ********* Lecture 6.3
+	  :LOGBOOK:
+	  CLOCK: [2013-11-08 Fri 08:50]--[2013-11-08 Fri 09:55] =>  1:05
+	  :END:
+	  :PROPERTIES:
+	  :ID:       8d1c4925-6bd3-4290-a157-903e3024f7ac
+	  :END:
 <2013-11-08 Fri 09:00-10:00>
 ********* Lecture 7.3
 <2013-11-15 Fri 09:00-10:00>
@@ -6814,6 +6827,11 @@ Place: APM 7421
        :ID:       388b04cd-1987-4378-934b-267a759ebfd7
        :END:
 <2013-11-13 Wed 13:00-14:00>
+****** TODO Prepare Adrian Ionoa's analysis lecture
+       DEADLINE: <2013-11-12 Tue>
+       :PROPERTIES:
+       :ID:       55374ad8-cd34-4c5c-b2e7-1ff237afa363
+       :END:
 **** Winter 2014
 ***** TODO MATH10B
       :PROPERTIES:
