@@ -234,7 +234,7 @@ I want to do teaching with sage-tex and/or org-mode with babel; i.e. interactive
 [[file:refs.org::#MR3018176][A gap theorem for self-shrinkers of the mean curvature flow in arbitrary codimension]]
 
 *** NEXT Review MR3020169					      :FOCUS:
-    DEADLINE: <2013-11-29 Fri>
+    DEADLINE: <2013-11-29 Fri -3w>
     :LOGBOOK:
     CLOCK: [2013-10-19 Sat 11:50]--[2013-10-19 Sat 12:10] =>  0:20
     CLOCK: [2013-10-16 Wed 13:00]--[2013-10-16 Wed 13:50] =>  0:50
@@ -263,7 +263,7 @@ I want to do teaching with sage-tex and/or org-mode with babel; i.e. interactive
 [[file:~/working/academic/journals/editing/cejm/CEJM-D-12-00160R1]]
 
 *** NEXT Edit CEJM-D-13-00091					      :FOCUS:
-    DEADLINE: <2013-11-15 Fri>
+    DEADLINE: <2013-11-15 Fri -3w>
     :LOGBOOK:
     CLOCK: [2013-10-29 Tue 09:30]--[2013-10-29 Tue 10:25] =>  0:55
     CLOCK: [2013-10-19 Sat 12:10]--[2013-10-19 Sat 12:25] =>  0:15
@@ -697,6 +697,7 @@ I have a lower bound for the numerator. To get an upper bound for the denominato
 ******** NEXT Find range of b,c for diff. ineq.
 	 SCHEDULED: <2013-10-23 Wed>
 	 :LOGBOOK:
+	 CLOCK: [2013-11-07 Thu 18:53]
 	 CLOCK: [2013-10-31 Thu 11:42]--[2013-10-31 Thu 12:08] =>  0:26
 	 CLOCK: [2013-10-30 Wed 17:40]--[2013-10-30 Wed 18:05] =>  0:25
 	 CLOCK: [2013-10-30 Wed 16:30]--[2013-10-30 Wed 17:20] =>  0:50
