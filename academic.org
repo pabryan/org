@@ -1412,15 +1412,26 @@ This proves the inequality we need.  The remaining problem is to remove the symm
    :END:
 [[file:/home/pbryan/working/academic/research/csf_networks]]
 ***** Tasks
-****** NEXT Write variation of $d$
-       :PROPERTIES:
-       :ID:       a687895f-101a-4cbb-8f21-d2071d209335
-       :END:
-****** TODO Does minima occur near a vertex?
-       :PROPERTIES:
-       :ID:       d748c163-4621-4249-8280-af1f8e24a77d
-       :END:
-****** TODO Write up CSF for networks defn
+****** TODO Variations
+******** NEXT Calculate variation of $d$
+	 :LOGBOOK:
+	 CLOCK: [2013-11-09 Sat 14:12]
+	 :END:
+	 :PROPERTIES:
+	 :ID:       a687895f-101a-4cbb-8f21-d2071d209335
+	 :END:
+- What happens at node points?
+******** NEXT Calculate variation of $l$
+
+****** TODO Viscosity equation
+******** TODO Combine variations into viscosity equation
+****** TODO Barrier equation
+******* NEXT Use variations to get barrier equation
+******* TODO Investigate concavity properties
+****** TODO asymptotics
+******* NEXT Near a vertex we need a near-isometry
+******* NEXT Does inf occur at a vertex?
+****** TODO CSF networks defn
        :PROPERTIES:
        :ID:       f1f13b51-1bfd-4c47-a349-2b23cc3f212b
        :END:
@@ -1430,29 +1441,27 @@ This proves the inequality we need.  The remaining problem is to remove the symm
      :END:
 CSF plus tangent part. Vertices have 120 degree angles
 ******* TODO Reference for existence, uniqueness
-       	:PROPERTIES:
-       	:ID:       6b0ff870-ae91-4fa1-a6dd-5baa6cacfe85
-       	:END:
+	:PROPERTIES:
+	:ID:       6b0ff870-ae91-4fa1-a6dd-5baa6cacfe85
+	:END:
 ******* NEXT Write explicitly compatibility conditions for vertices
-       	:LOGBOOK:
-       	CLOCK: [2013-11-08 Fri 14:55]--[2013-11-08 Fri 16:15] =>  1:20
-       	:END:
-       	:PROPERTIES:
-       	:ID:       77b07b0a-6ac6-4578-a449-cffcdc69f61d
-       	:END:
+	 :LOGBOOK:
+	 CLOCK: [2013-11-08 Fri 14:55]--[2013-11-08 Fri 16:15] =>  1:20
+	 :END:
+	 :PROPERTIES:
+	 :ID:       77b07b0a-6ac6-4578-a449-cffcdc69f61d
+	 :END:
+At the vertex, we have a condition on the tangents and normals so that the endpoints of the arcs remain coincident.
+
 ****** NEXT Look up Crystaline curvature flow
       :PROPERTIES:
       :ID:       57771c52-97b4-4fbe-a318-287ca8ab809d
       :END:
 This is some sort of curvature flow for polygons - exactly what I want to look at!
-****** NEXT Work out vertex compatability conditions
-      :PROPERTIES:
-      :ID:       03c8e12b-dffa-4aa1-bff4-567f7a9218ef
-      :END:
-At the vertex, we have a condition on the tangents and normals so that the endpoints of the arcs remain coincident.
-****** NEXT Find references
+****** DONE Find references
        :LOGBOOK:
-       CLOCK: [2013-11-09 Sat 13:11]
+       - State "DONE"       from "NEXT"       [2013-11-09 Sat 14:12]
+       CLOCK: [2013-11-09 Sat 13:11]--[2013-11-09 Sat 14:12] =>  0:59
        :END:
 ***** Notes
 ***** Refs
