@@ -6197,6 +6197,9 @@ Lectures in calendar and tasks like planning lectures.
 	  :END:
 ******* DONE Homework
 	:LOGBOOK:	
+	- State "DONE"       from "TODO"       [2013-11-09 Sat 12:17]
+	- State "TODO"       from "DONE"       [2013-11-09 Sat 11:57] \\
+	  Need to update homework.
 	- State "DONE"       from "TODO"       [2013-10-15 Tue 18:33]
 	- State "DONE"       from "TODO"       [2013-09-28 Sat 16:08]
 	:END:
@@ -6284,14 +6287,27 @@ Lectures in calendar and tasks like planning lectures.
 [2013-10-14 Mon 11:53]
 Add problems 42,43 to 11.4
 Also skip "arc-length in polar coordinated" on bottom half of page 637 after example 3.
-******** NEXT Investigate reducing homework load
+******** DONE Investigate reducing homework load
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2013-11-09 Sat 11:58]
+	 :END:
 	 :PROPERTIES:
 	 :ID:       239b327c-6035-4dbe-bc20-22838c0bbcee
 	 :END:
-******** NEXT Notify Laurel Bawling that MT1 grade stands
+******** DONE Notify Laurel Bawling that MT1 grade stands
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2013-11-09 Sat 11:58]
+	 :END:
 	 :PROPERTIES:
 	 :ID:       19b1db61-ff5e-44fd-82ea-2a41753a474a
 	 :END:
+******** DONE Update 20B homework
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2013-11-09 Sat 12:17]
+	 CLOCK: [2013-11-09 Sat 11:58]--[2013-11-09 Sat 12:17] =>  0:19
+	 :END:
+[2013-11-09 Sat 09:03]
+Less questions!
 ******* TODO Lectures
 	 :LOGBOOK:
 	 CLOCK: [2013-09-16 Mon 20:58]--[2013-09-16 Mon 20:59] =>  0:01
