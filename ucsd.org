@@ -5428,11 +5428,18 @@ Lectures in calendar and tasks like planning lectures.
 	  :ID:       4a9c52b1-453d-4b5d-a6da-e956c016980b
 	  :END:
 ******** TODO Midterm 2
+	 :LOGBOOK:
+	 CLOCK: [2013-11-09 Sat 12:53]
+	 :END:
 	 :PROPERTIES:
 	 :ID:       21366f1f-d0b3-46e9-89f4-9f33338d464f
 	 :END:
-********* NEXT Write Midterm 2
+********* DONE Write Midterm 2
 	  DEADLINE: <2013-11-11 Mon -14d>
+	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2013-11-09 Sat 12:53]
+	  CLOCK: [2013-11-09 Sat 12:19]--[2013-11-09 Sat 12:53] =>  0:34
+	  :END:
 	  :PROPERTIES:
 	  :ID:       dbec2c66-fb39-495d-ba6c-556d17d76141
 	  :END:
@@ -6335,9 +6342,11 @@ Less questions!
 	  :PROPERTIES:
 	  :ID:       9b2ee2f3-1418-4fa1-bc87-717ee5fe97b0
 	  :END:
-********* NEXT Write PFE Cheat sheet
+********* CANCELLED Write PFE Cheat sheet
 	  SCHEDULED: <2013-11-04 Mon>
 	  :LOGBOOK:
+	  - State "CANCELLED"  from "NEXT"       [2013-11-09 Sat 12:18] \\
+	    I think there is enough on PFE without the cheat sheet.
 	  CLOCK: [2013-11-03 Sun 10:25]--[2013-11-03 Sun 10:43] =>  0:18
 	  :END:
 	  :PROPERTIES:
