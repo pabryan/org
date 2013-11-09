@@ -1436,7 +1436,7 @@ This proves the inequality we need.  The remaining problem is to remove the symm
 ****** TODO asymptotics
 ******* NEXT Near a vertex we need a near-isometry
 ******* NEXT Does inf occur at a vertex?
-****** TODO CSF networks defn
+****** TODO CSF networks defn and existence/uniqueness
        :PROPERTIES:
        :ID:       f1f13b51-1bfd-4c47-a349-2b23cc3f212b
        :END:
@@ -1445,10 +1445,6 @@ This proves the inequality we need.  The remaining problem is to remove the symm
      :ID:       13735f45-9ce8-4099-aee5-7525d951a79f
      :END:
 CSF plus tangent part. Vertices have 120 degree angles
-******* TODO Reference for existence, uniqueness
-	:PROPERTIES:
-	:ID:       6b0ff870-ae91-4fa1-a6dd-5baa6cacfe85
-	:END:
 ******* NEXT Write explicitly compatibility conditions for vertices
 	 :LOGBOOK:
 	 CLOCK: [2013-11-08 Fri 14:55]--[2013-11-08 Fri 16:15] =>  1:20
@@ -1458,6 +1454,7 @@ CSF plus tangent part. Vertices have 120 degree angles
 	 :END:
 At the vertex, we have a condition on the tangents and normals so that the endpoints of the arcs remain coincident.
 
+******* NEXT Find details for free boundary problems
 ****** NEXT Look up Crystaline curvature flow
       :PROPERTIES:
       :ID:       57771c52-97b4-4fbe-a318-287ca8ab809d
