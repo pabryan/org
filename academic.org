@@ -1411,44 +1411,51 @@ This proves the inequality we need.  The remaining problem is to remove the symm
    :ID:       1bc93b81-8423-4598-8297-f0b90aa39aa7
    :END:
 [[file:/home/pbryan/working/academic/research/csf_networks]]
-***** NEXT Write variation of $d$
-      :PROPERTIES:
-      :ID:       a687895f-101a-4cbb-8f21-d2071d209335
-      :END:
-***** TODO Does minima occur near a vertex?
-      :PROPERTIES:
-      :ID:       d748c163-4621-4249-8280-af1f8e24a77d
-      :END:
-***** TODO Write up CSF for networks defn
-      :PROPERTIES:
-      :ID:       f1f13b51-1bfd-4c47-a349-2b23cc3f212b
-      :END:
-****** NEXT Write CSF Network Defn
+***** Tasks
+****** NEXT Write variation of $d$
+       :PROPERTIES:
+       :ID:       a687895f-101a-4cbb-8f21-d2071d209335
+       :END:
+****** TODO Does minima occur near a vertex?
+       :PROPERTIES:
+       :ID:       d748c163-4621-4249-8280-af1f8e24a77d
+       :END:
+****** TODO Write up CSF for networks defn
+       :PROPERTIES:
+       :ID:       f1f13b51-1bfd-4c47-a349-2b23cc3f212b
+       :END:
+******* NEXT Write CSF Network Defn
      :PROPERTIES:
      :ID:       13735f45-9ce8-4099-aee5-7525d951a79f
      :END:
 CSF plus tangent part. Vertices have 120 degree angles
-****** TODO Reference for existence, uniqueness
-       :PROPERTIES:
-       :ID:       6b0ff870-ae91-4fa1-a6dd-5baa6cacfe85
-       :END:
-****** NEXT Write explicitly compatibility conditions for vertices
-       :LOGBOOK:
-       CLOCK: [2013-11-08 Fri 14:55]--[2013-11-08 Fri 16:15] =>  1:20
-       :END:
-       :PROPERTIES:
-       :ID:       77b07b0a-6ac6-4578-a449-cffcdc69f61d
-       :END:
-***** NEXT Look up Crystaline curvature flow
+******* TODO Reference for existence, uniqueness
+       	:PROPERTIES:
+       	:ID:       6b0ff870-ae91-4fa1-a6dd-5baa6cacfe85
+       	:END:
+******* NEXT Write explicitly compatibility conditions for vertices
+       	:LOGBOOK:
+       	CLOCK: [2013-11-08 Fri 14:55]--[2013-11-08 Fri 16:15] =>  1:20
+       	:END:
+       	:PROPERTIES:
+       	:ID:       77b07b0a-6ac6-4578-a449-cffcdc69f61d
+       	:END:
+****** NEXT Look up Crystaline curvature flow
       :PROPERTIES:
       :ID:       57771c52-97b4-4fbe-a318-287ca8ab809d
       :END:
 This is some sort of curvature flow for polygons - exactly what I want to look at!
-***** NEXT Work out vertex compatability conditions
+****** NEXT Work out vertex compatability conditions
       :PROPERTIES:
       :ID:       03c8e12b-dffa-4aa1-bff4-567f7a9218ef
       :END:
 At the vertex, we have a condition on the tangents and normals so that the endpoints of the arcs remain coincident.
+****** NEXT Find references
+       :LOGBOOK:
+       CLOCK: [2013-11-09 Sat 13:11]
+       :END:
+***** Notes
+***** Refs
 **** TODO bakry_emery_levy_gromov		    :LEVY_GROMOV:BAKRY_EMERY:
    :PROPERTIES:
    :ID:       4eb29f73-141b-4ca2-9394-436a9293bdce
@@ -1603,6 +1610,11 @@ Look at all dark matter papers. Alan Parry also. Bibliography of course!
        :ID:       f5a8bc41-7ebf-419a-86f5-ab04147b373e
        :END:
 In particular, if $X$ is not a gradient vector field, what is corresponding metric/measure for which $M_0$ is minimal?
+****** TODO Broader questions
+******* NEXT What are CMC surfaces w.r.t. conformal metric
+******* NEXT How can one interpret separation of variables
+******* NEXT Can we use heat kernel for a Riemannian background?
+******* NEXT Read up on some refs
 ** Books
 *** Working
 *** Future 							    :SOMEDAY:
