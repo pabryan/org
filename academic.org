@@ -1413,15 +1413,20 @@ This proves the inequality we need.  The remaining problem is to remove the symm
 [[file:/home/pbryan/working/academic/research/csf_networks]]
 ***** Tasks
 ****** TODO Variations
-******** NEXT Calculate variation of $d$
+******** DONE Calculate variation of $d$
 	 :LOGBOOK:
-	 CLOCK: [2013-11-09 Sat 14:12]
+	 - State "DONE"       from "NEXT"       [2013-11-09 Sat 15:12]
+	 CLOCK: [2013-11-09 Sat 14:12]--[2013-11-09 Sat 14:40] =>  0:28
 	 :END:
 	 :PROPERTIES:
 	 :ID:       a687895f-101a-4cbb-8f21-d2071d209335
 	 :END:
 - What happens at node points?
-******** NEXT Calculate variation of $l$
+******** DONE Calculate variation of $l$
+	 :LOGBOOK:
+	 - State "DONE"       from "DONE"       [2013-11-09 Sat 15:13]
+	 CLOCK: [2013-11-09 Sat 14:40]--[2013-11-09 Sat 15:13] =>  0:33
+	 :END:
 
 ****** TODO Viscosity equation
 ******** TODO Combine variations into viscosity equation
