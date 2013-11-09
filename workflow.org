@@ -1556,6 +1556,9 @@ I have mythtv and mediatomb and who knows what else using up valuable resources.
   :END:
 ** Organisation
   :LOGBOOK:
+  CLOCK: [2013-11-09 Sat 09:06]
+  CLOCK: [2013-11-09 Sat 09:03]--[2013-11-09 Sat 09:04] =>  0:01
+  CLOCK: [2013-11-09 Sat 09:01]--[2013-11-09 Sat 09:03] =>  0:02
   CLOCK: [2013-11-08 Fri 14:36]--[2013-11-08 Fri 14:54] =>  0:18
   CLOCK: [2013-11-08 Fri 13:15]--[2013-11-08 Fri 13:28] =>  0:13
   CLOCK: [2013-11-08 Fri 13:30]--[2013-11-08 Fri 14:06] =>  0:36
@@ -2640,8 +2643,10 @@ When I set up scoring the day:
 - [ ] Collate data such as sleep, weight, exercise, diet etc.
 
 ** NEXT Daily Plan [0/4]
-   SCHEDULED: <2013-11-09 Sat .+1d/2d>
+   SCHEDULED: <2013-11-10 Sun .+1d/2d>
    :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2013-11-09 Sat 09:06]
+   CLOCK: [2013-11-09 Sat 09:04]--[2013-11-09 Sat 09:06] =>  0:02
    - State "DONE"       from "NEXT"       [2013-11-08 Fri 14:37]
    - State "DONE"       from "NEXT"       [2013-11-07 Thu 13:38]
    CLOCK: [2013-11-07 Thu 10:56]--[2013-11-07 Thu 11:27] =>  0:31
@@ -2951,7 +2956,7 @@ When I set up scoring the day:
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
    :ID:       ef051ee0-1113-4604-b355-450a5a47848b
-   :LAST_REPEAT: [2013-11-08 Fri 14:37]
+   :LAST_REPEAT: [2013-11-09 Sat 09:06]
    :END:
 
 - [ ] Check agenda/focus
