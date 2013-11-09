@@ -6479,6 +6479,10 @@ Also skip "arc-length in polar coordinated" on bottom half of page 637 after exa
 	  :END:
 ********* DONE Prepare Lecture 6.2
 	  DEADLINE: <2013-11-06 Wed>
+	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2013-11-05 Tue 14:40]
+	  CLOCK: [2013-11-05 Tue 14:20]--[2013-11-05 Tue 14:40] =>  0:20
+	  :END:
 	  :PROPERTIES:
 	  :ID:       285c1d43-6e2a-49e1-b114-585abecbb149
 	  :END:
