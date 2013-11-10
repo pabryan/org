@@ -475,8 +475,9 @@
     :END:
 
 *** NEXT Afternoon Relax
-    SCHEDULED: <2013-11-09 Sat .+1d/2d>
+    SCHEDULED: <2013-11-10 Sun .+1d/2d>
     :LOGBOOK:
+    - State "DONE"       from "NEXT"       [2013-11-09 Sat 19:19]
     - State "DONE"       from "NEXT"       [2013-11-08 Fri 19:25]
     - State "DONE"       from "NEXT"       [2013-11-07 Thu 18:23]
     - State "DONE"       from "NEXT"       [2013-11-06 Wed 18:16]
@@ -623,7 +624,7 @@
     :STYLE:    habit
     :REPEAT_TO_STATE: NEXT
     :ID:       c0aaf33a-af77-446b-b9fd-cf2d2f78c12a
-    :LAST_REPEAT: [2013-11-08 Fri 19:25]
+    :LAST_REPEAT: [2013-11-09 Sat 19:19]
     :END:
   
 *** NEXT Evening Stretch
