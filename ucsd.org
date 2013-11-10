@@ -5711,12 +5711,15 @@ Lectures in calendar and tasks like planning lectures.
 	   :ID:       0dbdb61e-201c-479a-9d96-cd5f7e2efaff
 	   :END:
 
-********* TODO Prepare Lecture 7.1
+********* DONE Prepare Lecture 7.1
 	   DEADLINE: <2013-11-11 Mon>
+	   :LOGBOOK:
+	   - State "DONE"       from "NEXT"       [2013-11-10 Sun 10:45]
+	   :END:
 	   :PROPERTIES:
 	   :ID:       f8317796-47bd-47b3-8f6d-8beab0c879d8
 	   :END:
-********* TODO Prepare Lecture 7.2
+********* NEXT Prepare Lecture 7.2
 	   DEADLINE: <2013-11-13 Wed>
 	   :PROPERTIES:
 	   :ID:       285c1d43-6e2a-49e1-b114-585abecbb149
@@ -6526,12 +6529,15 @@ Less questions!
 	  :ID:       0dbdb61e-201c-479a-9d96-cd5f7e2efaff
 	  :END:
 
-********* TODO Prepare Lecture 7.1
+********* DONE Prepare Lecture 7.1
 	  DEADLINE: <2013-11-11 Mon>
+	  :LOGBOOK:
+	  - State "DONE"       from "TODO"       [2013-11-10 Sun 10:45]
+	  :END:
 	  :PROPERTIES:
 	  :ID:       f8317796-47bd-47b3-8f6d-8beab0c879d8
 	  :END:
-********* TODO Prepare Lecture 7.2
+********* NEXT Prepare Lecture 7.2
 	  DEADLINE: <2013-11-13 Wed>
 	  :PROPERTIES:
 	  :ID:       285c1d43-6e2a-49e1-b114-585abecbb149
