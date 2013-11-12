@@ -702,7 +702,7 @@ I have a lower bound for the numerator. To get an upper bound for the denominato
 ******** NEXT Find range of b,c for diff. ineq.
 	 SCHEDULED: <2013-10-23 Wed>
 	 :LOGBOOK:
-	 CLOCK: [2013-11-12 Tue 14:34]
+	 CLOCK: [2013-11-12 Tue 14:34]--[2013-11-12 Tue 15:25] =>  0:51
 	 CLOCK: [2013-11-07 Thu 18:53]--[2013-11-07 Thu 20:05] =>  1:12
 	 CLOCK: [2013-10-31 Thu 11:42]--[2013-10-31 Thu 12:08] =>  0:26
 	 CLOCK: [2013-10-30 Wed 17:40]--[2013-10-30 Wed 18:05] =>  0:25
@@ -908,6 +908,9 @@ CONSTANT ANISOTROPIC MEAN CURVATURE
        CLOCK: [2013-10-05 Sat 13:55]--[2013-10-05 Sat 14:18] =>  0:23
        CLOCK: [2013-10-04 Fri 15:06]--[2013-10-04 Fri 16:20] =>  1:14
        :END:
+***** Notes
+****** Rescaled flow
+If $\exp: T_x N \to N$ is a diffeomorphism (in particular for Cartan-Hadamaard) manifolds, and we have a flow $M_t \subset N^{n+1}$, we can think of this as a flow $M_t \subset \RR^{n+1}$ with metric $\exp^{\star} g$. If the speed of the flow is geometric, then this pulls back to $\RR^{n+1}$. Now, I can define a rescaled flow so the volume remains constant. Then we can ensure by containment, that a point in the region enclosed by the $M_0$ remains in the region enclosed by the rescaled flow $\tilde{M}_t$ for all time and can do the polar dual!
 **** TODO alpha CSF distance comparison				  :CSF_ALPHA:
    :LOGBOOK:
    CLOCK: [2013-07-19 Fri 09:53]--[2013-07-19 Fri 09:55] =>  0:02
@@ -2136,8 +2139,8 @@ Schedule time for research, for teaching and for non-research academic work (e.g
     CLOCK: [2013-03-13 Wed 15:00]--[2013-03-13 Wed 15:15] =>  0:15
     :END:
 [[www.math.ucsb.edu/~wei/paper/241B.pdf]]
-Can I solve a PDE to get a position vector field vanishing along the
-cut locus? This would be it: [[file:research_notes.org::*Blackboard][Blackboard]].
+- Can I solve a PDE to get a position vector field vanishing along the
+  cut locus? This would be it: [[file:research_notes.org::*Blackboard][Blackboard]].
 
 *** Bakry-Emry, Optimal transport measure
   :PROPERTIES:
