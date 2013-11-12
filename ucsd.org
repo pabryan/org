@@ -6046,6 +6046,8 @@ A10824433
 ******* Extra grade
 A11487731
 Homework 0: 44/50
+******* Late homework
+Chen Zeqing.
 ****** Tasks
 ******* DONE Plan course
 	:LOGBOOK:
@@ -6368,6 +6370,9 @@ Less questions!
 	  :ID:       5ee6e1c6-651f-4e14-bbd3-9ab316bc46e7
 	  :END:
 ******** TODO Prepare Lectures
+	 :LOGBOOK:
+	 CLOCK: [2013-11-12 Tue 14:22]--[2013-11-12 Tue 14:24] =>  0:02
+	 :END:
 	 :PROPERTIES:
 	 :ID:       2a2ba26b-495a-48a8-8fcc-d023c59733fd
 	 :END:
@@ -6544,8 +6549,12 @@ Less questions!
 	  :PROPERTIES:
 	  :ID:       f8317796-47bd-47b3-8f6d-8beab0c879d8
 	  :END:
-********* NEXT Prepare Lecture 7.2
+********* DONE Prepare Lecture 7.2
 	  DEADLINE: <2013-11-13 Wed>
+	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2013-11-12 Tue 14:22]
+	  CLOCK: [2013-11-12 Tue 13:39]--[2013-11-12 Tue 14:22] =>  0:43
+	  :END:
 	  :PROPERTIES:
 	  :ID:       285c1d43-6e2a-49e1-b114-585abecbb149
 	  :END:

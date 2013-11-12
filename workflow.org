@@ -2983,7 +2983,7 @@ When I set up scoring the day:
 ** NEXT Weekly Review [17/18]
    SCHEDULED: <2013-11-03 Sun +1w>
    :LOGBOOK:
-   CLOCK: [2013-11-12 Tue 13:21]
+   CLOCK: [2013-11-12 Tue 13:21]--[2013-11-12 Tue 13:39] =>  0:18
    CLOCK: [2013-11-12 Tue 10:33]--[2013-11-12 Tue 11:43] =>  1:10
    - State "DONE"       from "NEXT"       [2013-10-27 Sun 13:09]
    CLOCK: [2013-10-27 Sun 11:42]--[2013-10-27 Sun 12:40] =>  0:58
