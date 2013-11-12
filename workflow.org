@@ -2979,10 +2979,10 @@ When I set up scoring the day:
 - [ ] Do short tasks
 - [ ] Record morning health stats
 
-** NEXT Weekly Review [3/18]
+** NEXT Weekly Review [9/18]
    SCHEDULED: <2013-11-03 Sun +1w>
    :LOGBOOK:
-   CLOCK: [2013-11-12 Tue 10:33]
+   CLOCK: [2013-11-12 Tue 10:33]--[2013-11-12 Tue 11:43] =>  1:10
    - State "DONE"       from "NEXT"       [2013-10-27 Sun 13:09]
    CLOCK: [2013-10-27 Sun 11:42]--[2013-10-27 Sun 12:40] =>  0:58
    CLOCK: [2013-10-20 Sun 11:12]--[2013-10-20 Sun 11:22] =>  0:10
@@ -3081,14 +3081,14 @@ What to review:
 - [X] Check holding directory
   [[file:~/holding]]
 - [X] Check holding email folder
-- [ ] Review weekly agenda =F12 a w//=
-- [ ] Check clocking data for past week =v c=
+- [X] Review weekly agenda =F12 a w//=
+- [X] Check clocking data for past week =v c=
   - fix up any errors
-- [ ] Review clock report for past week =R=
+- [X] Review clock report for past week =R=
   - Check where we spent time (too much or too little) and rectify this week
-- [ ] Look at entire agenda for today  =F12 SPC=
-- [ ] Check uncommited work
-- [ ] Refile tasks
+- [X] Look at entire agenda for today  =F12 SPC=
+- [X] Check un-committed work
+- [X] Refile tasks
 - [ ] Weekly clean up
   - [ ] Clean up Downloads
   - [ ] Clean up tmp
