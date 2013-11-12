@@ -392,6 +392,12 @@
 :END:
 [[papers:MR3066400][MR3066400-paper]]
 [[bib:MR3066400][MR3066400-bib]]
+***** Evolution of convex lens-shaped networks under the curve shortening flow
+:PROPERTIES:
+:Custom_ID: MR2763716
+:END:
+[[papers:MR2763716][MR2763716-paper]]
+[[bib:MR2763716][MR2763716-bib]]
 *** 53.04   (1959-1972) Minimal surfaces		:minimal:submanifold:
 **** Minimal varieties in riemannian manifolds			 :riemannian:
 :PROPERTIES:
@@ -461,6 +467,12 @@
 :END:
 [[papers:MR1424425][MR1424425-paper]]
 [[bib:MR1424425][MR1424425-bib]]
+***** The topology of hypersurfaces moving by mean curvature
+:PROPERTIES:
+:Custom_ID: MR1362655
+:END:
+[[papers:MR1362655][MR1362655-paper]]
+[[bib:MR1362655][MR1362655-bib]]
 *** 58G Partial differential equations on manifolds; differential operators :pde:operators:
 **** 58G11 Heat and other parabolic equation methods		  :parabolic:
 ***** On the parabolic kernel of the {S}chr\"odinger operator :kernel:schrodinger:

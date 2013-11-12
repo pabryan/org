@@ -1500,6 +1500,12 @@ This is some sort of curvature flow for polygons - exactly what I want to look a
        :END:
 ***** Notes
 ***** Refs
+****** On three-phase boundary motion and the singular limit of a vector-valued {G}inzburg-{L}andau equation
+:PROPERTIES:
+:Custom_ID: MR1240580
+:END:
+[[papers:MR1240580][MR1240580-paper]]
+[[bib:MR1240580][MR1240580-bib]]
 **** TODO bakry_emery_levy_gromov		    :LEVY_GROMOV:BAKRY_EMERY:
    :PROPERTIES:
    :ID:       4eb29f73-141b-4ca2-9394-436a9293bdce
@@ -1674,6 +1680,12 @@ In particular, if $X$ is not a gradient vector field, what is corresponding metr
 	:PROPERTIES:
 	:ID:       c3a7b853-99dd-444f-a663-b5ec0f791fc7
 	:END:
+****** Evolution of convex lens-shaped networks under the curve shortening flow
+:PROPERTIES:
+:Custom_ID: MR2763716
+:END:
+[[papers:MR2763716][MR2763716-paper]]
+[[bib:MR2763716][MR2763716-bib]]
 ** Books
 *** Working
 *** Future 							    :SOMEDAY:
