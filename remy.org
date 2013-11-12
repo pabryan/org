@@ -354,8 +354,11 @@ $11.25
 <2013-11-04 Mon>
 ***** Rare Hare Recycled Art Studio
 <2013-11-13 Wed>
-****** TODO Pay $12
+****** DONE Pay $12
        DEADLINE: <2013-11-11 Mon>
+       :LOGBOOK:
+       - State "DONE"       from "TODO"       [2013-11-12 Tue 13:17]
+       :END:
        :PROPERTIES:
        :ID:       79edfb7d-a134-49de-a7c2-7c2598766333
        :END:
