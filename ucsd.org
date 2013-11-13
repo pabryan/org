@@ -5737,8 +5737,12 @@ Lectures in calendar and tasks like planning lectures.
 	   :PROPERTIES:
 	   :ID:       285c1d43-6e2a-49e1-b114-585abecbb149
 	   :END:
-********* TODO Prepare Lecture 7.3
+********* DONE Prepare Lecture 7.3
 	   DEADLINE: <2013-11-15 Fri>
+	   :LOGBOOK:
+	   - State "DONE"       from "NEXT"       [2013-11-13 Wed 15:08]
+	   CLOCK: [2013-11-13 Wed 14:02]--[2013-11-13 Wed 15:08] =>  1:06
+	   :END:
 	   :PROPERTIES:
 	   :ID:       0dbdb61e-201c-479a-9d96-cd5f7e2efaff
 	   :END:
@@ -6897,6 +6901,7 @@ TBA
 ******** Homework 5 Due
 ***** DONE Cover lectures
       :LOGBOOK:
+      CLOCK: [2013-11-13 Wed 14:01]--[2013-11-13 Wed 14:02] =>  0:01
       - State "DONE"       from "TODO"       [2013-10-24 Thu 19:35]
       :END:
       :PROPERTIES:
@@ -6913,7 +6918,11 @@ TBA
 <2013-10-21 Mon 14:00-14:50>
 Place: APM 7421
 [[file:~/holding/paul-monday.pdf]]
-****** TODO Cover Adrian Ionoa's analysis lecture
+****** DONE Cover Adrian Ionoa's analysis lecture
+       :LOGBOOK:
+       - State "DONE"       from "NEXT"       [2013-11-13 Wed 14:01]
+       CLOCK: [2013-11-13 Wed 12:44]--[2013-11-13 Wed 14:01] =>  1:17
+       :END:
        :PROPERTIES:
        :ID:       388b04cd-1987-4378-934b-267a759ebfd7
        :END:
