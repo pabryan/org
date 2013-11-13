@@ -702,6 +702,7 @@ I have a lower bound for the numerator. To get an upper bound for the denominato
 ******** NEXT Find range of b,c for diff. ineq.
 	 SCHEDULED: <2013-10-23 Wed>
 	 :LOGBOOK:
+	 CLOCK: [2013-11-12 Tue 17:25]
 	 CLOCK: [2013-11-12 Tue 15:53]--[2013-11-12 Tue 17:10] =>  1:17
 	 CLOCK: [2013-11-12 Tue 14:34]--[2013-11-12 Tue 15:10] =>  0:36
 	 CLOCK: [2013-11-07 Thu 18:53]--[2013-11-07 Thu 20:05] =>  1:12
@@ -746,7 +747,6 @@ I have a lower bound for the numerator. To get an upper bound for the denominato
 	:ID:       f79a49d1-2418-4fee-98a0-c6c5c5ab6d97
 	:END:
 Update comparison theorem to read \(I\geq \phi\) implies that \(\sup_M K_t \leq \phi''(0, t)/24\) or whatever the constant is.
-
 
 ***** Notes
 ***** References
