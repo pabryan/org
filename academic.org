@@ -702,7 +702,7 @@ I have a lower bound for the numerator. To get an upper bound for the denominato
 ******** NEXT Find range of b,c for diff. ineq.
 	 SCHEDULED: <2013-10-23 Wed>
 	 :LOGBOOK:
-	 CLOCK: [2013-11-12 Tue 15:53]
+	 CLOCK: [2013-11-12 Tue 15:53]--[2013-11-12 Tue 17:10] =>  1:17
 	 CLOCK: [2013-11-12 Tue 14:34]--[2013-11-12 Tue 15:10] =>  0:36
 	 CLOCK: [2013-11-07 Thu 18:53]--[2013-11-07 Thu 20:05] =>  1:12
 	 CLOCK: [2013-10-31 Thu 11:42]--[2013-10-31 Thu 12:08] =>  0:26
