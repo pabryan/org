@@ -702,7 +702,8 @@ I have a lower bound for the numerator. To get an upper bound for the denominato
 ******** NEXT Find range of b,c for diff. ineq.
 	 SCHEDULED: <2013-10-23 Wed>
 	 :LOGBOOK:
-	 CLOCK: [2013-11-12 Tue 14:34]--[2013-11-12 Tue 15:25] =>  0:51
+	 CLOCK: [2013-11-12 Tue 15:53]
+	 CLOCK: [2013-11-12 Tue 14:34]--[2013-11-12 Tue 15:10] =>  0:36
 	 CLOCK: [2013-11-07 Thu 18:53]--[2013-11-07 Thu 20:05] =>  1:12
 	 CLOCK: [2013-10-31 Thu 11:42]--[2013-10-31 Thu 12:08] =>  0:26
 	 CLOCK: [2013-10-30 Wed 17:40]--[2013-10-30 Wed 18:05] =>  0:25
@@ -911,6 +912,8 @@ CONSTANT ANISOTROPIC MEAN CURVATURE
 ***** Notes
 ****** Rescaled flow
 If $\exp: T_x N \to N$ is a diffeomorphism (in particular for Cartan-Hadamaard) manifolds, and we have a flow $M_t \subset N^{n+1}$, we can think of this as a flow $M_t \subset \RR^{n+1}$ with metric $\exp^{\star} g$. If the speed of the flow is geometric, then this pulls back to $\RR^{n+1}$. Now, I can define a rescaled flow so the volume remains constant. Then we can ensure by containment, that a point in the region enclosed by the $M_0$ remains in the region enclosed by the rescaled flow $\tilde{M}_t$ for all time and can do the polar dual!
+****** Ambient Minkowski space
+We would do it all in Minkowski space. I think the vector field gives the distance in Minkowski space to the totally geodesic hypersurface. We can then set up all our dual theory, radial functions and so forth in that ambient space, possibly with an intrinsic interpretation. In this setting we could maybe also do $\sphere^n$? Another interesting point is that we can do a normalised flow, by simultaneously expanding $M_t$ and $\HH^{n+1}$ by rescaling the ambient Minkowski space.
 **** TODO alpha CSF distance comparison				  :CSF_ALPHA:
    :LOGBOOK:
    CLOCK: [2013-07-19 Fri 09:53]--[2013-07-19 Fri 09:55] =>  0:02
