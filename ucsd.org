@@ -5440,9 +5440,10 @@ Lectures in calendar and tasks like planning lectures.
 	  :PROPERTIES:
 	  :ID:       dbec2c66-fb39-495d-ba6c-556d17d76141
 	  :END:
-********* WAITING Get TA's comments
+********* DONE Get TA's comments
 	  DEADLINE: <2013-11-18 Mon>
 	  :LOGBOOK:
+	  - State "DONE"       from "WAITING"    [2013-11-13 Wed 11:24]
 	  - State "WAITING"    from "NEXT"       [2013-11-09 Sat 13:08] \\
 	    Sent to TA for comments.
 	  :END:
@@ -5454,8 +5455,13 @@ Lectures in calendar and tasks like planning lectures.
 	  :PROPERTIES:
 	  :ID:       68543203-d423-4729-9620-9ebc40a66fb6
 	  :END:
-********* TODO Submit midterm to printing/frdesk
+********* WAITING Submit midterm to printing/frdesk
 	  DEADLINE: <2013-11-20 Wed>
+	  :LOGBOOK:
+	  - State "WAITING"    from "DONE"       [2013-11-13 Wed 11:24] \\
+	    Waiting on printing.
+	  - State "DONE"       from "TODO"       [2013-11-13 Wed 11:24]
+	  :END:
 	  :PROPERTIES:
 	  :ID:       fa82d754-e847-4942-a97c-7e49ad3b00f2
 	  :END:
@@ -6677,7 +6683,7 @@ Less questions!
 ******* Admin
 ******* Office hours
 	:LOGBOOK:
-	CLOCK: [2013-11-13 Wed 11:08]
+	CLOCK: [2013-11-13 Wed 11:08]--[2013-11-13 Wed 11:49] =>  0:41
 	CLOCK: [2013-11-08 Fri 11:05]--[2013-11-08 Fri 12:15] =>  1:10
 	CLOCK: [2013-11-01 Fri 11:05]--[2013-11-01 Fri 12:05] =>  1:00
 	CLOCK: [2013-10-25 Fri 11:15]--[2013-10-25 Fri 12:50] =>  1:35
