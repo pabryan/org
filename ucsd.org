@@ -5450,8 +5450,11 @@ Lectures in calendar and tasks like planning lectures.
 	  :PROPERTIES:
 	  :ID:       690e7a7a-13ca-47c4-bf6d-5e570c0b4363
 	  :END:
-********* TODO Update exam based on TA's comments
+********* DONE Update exam based on TA's comments
 	  DEADLINE: <2013-11-20 Wed>
+	  :LOGBOOK:
+	  - State "DONE"       from "TODO"       [2013-11-13 Wed 11:50]
+	  :END:
 	  :PROPERTIES:
 	  :ID:       68543203-d423-4729-9620-9ebc40a66fb6
 	  :END:
@@ -5756,8 +5759,11 @@ Lectures in calendar and tasks like planning lectures.
 	   :ID:       0dbdb61e-201c-479a-9d96-cd5f7e2efaff
 	   :END:
 
-********* TODO Prepare Lecture 9.1
+********* DONE Prepare Lecture 9.1
 	   DEADLINE: <2013-11-25 Mon>
+	   :LOGBOOK:
+	   - State "DONE"       from "TODO"       [2013-11-13 Wed 11:53]
+	   :END:
 	   :PROPERTIES:
 	   :ID:       f8317796-47bd-47b3-8f6d-8beab0c879d8
 	   :END:
@@ -5766,8 +5772,11 @@ Lectures in calendar and tasks like planning lectures.
 	   :PROPERTIES:
 	   :ID:       285c1d43-6e2a-49e1-b114-585abecbb149
 	   :END:
-********* TODO Prepare Lecture 9.3
+********* DONE Prepare Lecture 9.3
 	   DEADLINE: <2013-11-29 Fri>
+	   :LOGBOOK:
+	   - State "DONE"       from "TODO"       [2013-11-13 Wed 11:53]
+	   :END:
 	   :PROPERTIES:
 	   :ID:       0dbdb61e-201c-479a-9d96-cd5f7e2efaff
 	   :END:
@@ -6190,10 +6199,13 @@ Lectures in calendar and tasks like planning lectures.
 	  :PROPERTIES:
 	  :ID:       a23ec3bc-5e6d-41f5-85cc-ca1061b44f22
 	  :END:
-********* DONE Submit midterm to printing/frdesk
+********* WAITING Submit midterm to printing/frdesk
 	  DEADLINE: <2013-11-13 Wed>
 	  :LOGBOOK:
-	  - State "DONE"       from "NEXT"       [2013-11-09 Sat 13:07]
+	  - State "WAITING"    from "WAITING"    [2013-11-13 Wed 11:51] \\
+	    Sent reminder to printing about exam.	   
+	  - State "WAITING"    from "DONE"       [2013-11-09 Sat 13:07] \\
+	    Sent to printing
 	  CLOCK: [2013-11-09 Sat 12:53]--[2013-11-09 Sat 13:07] =>  0:14
 	  :END:
 	  :PROPERTIES:
@@ -6573,8 +6585,11 @@ Less questions!
 	  :ID:       0dbdb61e-201c-479a-9d96-cd5f7e2efaff
 	  :END:
 
-********* TODO Prepare Lecture 8.1
+********* DONE Prepare Lecture 8.1
 	  DEADLINE: <2013-11-18 Mon>
+	  :LOGBOOK:
+	  - State "DONE"       from "TODO"       [2013-11-13 Wed 11:52]
+	  :END:
 	  :PROPERTIES:
 	  :ID:       f8317796-47bd-47b3-8f6d-8beab0c879d8
 	  :END:
@@ -6599,8 +6614,11 @@ Less questions!
 	  :PROPERTIES:
 	  :ID:       285c1d43-6e2a-49e1-b114-585abecbb149
 	  :END:
-********* TODO Prepare Lecture 9.3
+********* DONE Prepare Lecture 9.3
 	  DEADLINE: <2013-11-29 Fri>
+	  :LOGBOOK:
+	  - State "DONE"       from "TODO"       [2013-11-13 Wed 11:53]
+	  :END:
 	  :PROPERTIES:
 	  :ID:       0dbdb61e-201c-479a-9d96-cd5f7e2efaff
 	  :END:
