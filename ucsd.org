@@ -6392,6 +6392,7 @@ Less questions!
 	  :END:
 ******** TODO Prepare Lectures
 	 :LOGBOOK:
+	 CLOCK: [2013-11-13 Wed 12:39]
 	 CLOCK: [2013-11-12 Tue 14:22]--[2013-11-12 Tue 14:24] =>  0:02
 	 :END:
 	 :PROPERTIES:
@@ -6579,8 +6580,12 @@ Less questions!
 	  :PROPERTIES:
 	  :ID:       285c1d43-6e2a-49e1-b114-585abecbb149
 	  :END:
-********* TODO Prepare Lecture 7.3
+********* DONE Prepare Lecture 7.3
 	  DEADLINE: <2013-11-15 Fri>
+	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2013-11-13 Wed 12:39]
+	  CLOCK: [2013-11-13 Wed 12:00]--[2013-11-13 Wed 12:39] =>  0:39
+	  :END:
 	  :PROPERTIES:
 	  :ID:       0dbdb61e-201c-479a-9d96-cd5f7e2efaff
 	  :END:
