@@ -721,7 +721,7 @@ I have a lower bound for the numerator. To get an upper bound for the denominato
 	 :END:
 ******** NEXT Write range of b,c for diff. ineq.
 	 :LOGBOOK:
-	 CLOCK: [2013-11-14 Thu 12:27]
+	 CLOCK: [2013-11-14 Thu 12:27]--[2013-11-14 Thu 13:35] =>  1:08
 	 CLOCK: [2013-11-14 Thu 10:35]--[2013-11-14 Thu 11:34] =>  0:59
 	 :END:
 	 :PROPERTIES:
