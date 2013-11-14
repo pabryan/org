@@ -718,7 +718,10 @@ I have a lower bound for the numerator. To get an upper bound for the denominato
 	 :PROPERTIES:
 	 :ID:       a3d9855d-0e89-4b4a-b803-14f13cab7b55
 	 :END:
-******** TODO Write range of b,c for diff. ineq.
+******** NEXT Write range of b,c for diff. ineq.
+	 :LOGBOOK:
+	 CLOCK: [2013-11-14 Thu 10:35]--[2013-11-14 Thu 11:34] =>  0:59
+	 :END:
 	 :PROPERTIES:
 	 :ID:       61537dd1-af20-481c-8743-88fabf4cd342
 	 :END:
