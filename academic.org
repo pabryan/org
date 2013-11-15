@@ -1498,7 +1498,7 @@ This proves the inequality we need.  The remaining problem is to remove the symm
 CSF plus tangent part. Vertices have 120 degree angles
 ******* NEXT Write explicitly compatibility conditions for vertices
 	 :LOGBOOK:
-	 CLOCK: [2013-11-14 Thu 20:26]
+	 CLOCK: [2013-11-14 Thu 20:26]--[2013-11-14 Thu 20:42] =>  0:16
 	 CLOCK: [2013-11-14 Thu 19:43]--[2013-11-14 Thu 19:46] =>  0:03
 	 CLOCK: [2013-11-08 Fri 14:55]--[2013-11-08 Fri 16:15] =>  1:20
 	 :END:
