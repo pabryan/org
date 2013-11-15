@@ -1514,6 +1514,10 @@ At the vertex, we have a condition on the tangents and normals so that the endpo
 	:PROPERTIES:
 	:ID:       01a93c31-83fd-465f-b142-60f4a128c30d
 	:END:
+******* NEXT Investigate existence/uniqueness
+	:LOGBOOK:
+	CLOCK: [2013-11-15 Fri 12:00]--[2013-11-15 Fri 14:27] =>  2:27
+	:END:
 ****** NEXT Look up Crystaline curvature flow
       :PROPERTIES:
       :ID:       57771c52-97b4-4fbe-a318-287ca8ab809d
