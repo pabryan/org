@@ -5458,9 +5458,10 @@ Lectures in calendar and tasks like planning lectures.
 	  :PROPERTIES:
 	  :ID:       68543203-d423-4729-9620-9ebc40a66fb6
 	  :END:
-********* WAITING Submit midterm to printing/frdesk
+********* DONE Submit midterm to printing/frdesk
 	  DEADLINE: <2013-11-20 Wed>
 	  :LOGBOOK:
+	  - State "DONE"       from "WAITING"    [2013-11-15 Fri 11:37]
 	  - State "WAITING"    from "DONE"       [2013-11-13 Wed 11:24] \\
 	    Waiting on printing.
 	  - State "DONE"       from "TODO"       [2013-11-13 Wed 11:24]
@@ -6203,9 +6204,10 @@ Lectures in calendar and tasks like planning lectures.
 	  :PROPERTIES:
 	  :ID:       a23ec3bc-5e6d-41f5-85cc-ca1061b44f22
 	  :END:
-********* WAITING Submit midterm to printing/frdesk
+********* DONE Submit midterm to printing/frdesk
 	  DEADLINE: <2013-11-13 Wed>
 	  :LOGBOOK:
+	  - State "DONE"       from "WAITING"    [2013-11-15 Fri 11:37]
 	  - State "WAITING"    from "WAITING"    [2013-11-13 Wed 11:51] \\
 	    Sent reminder to printing about exam.	   
 	  - State "WAITING"    from "DONE"       [2013-11-09 Sat 13:07] \\
@@ -6988,6 +6990,7 @@ Ledden Auditorium
     CLOCK: [2013-10-11 Fri 12:00]--[2013-10-11 Fri 12:45] =>  0:45
     :END:
 <2013-10-11 Fri 12:00>
+<2013-11-22 Fri 14:15>
 ** Tasks
 *** TODO Update course template
   :LOGBOOK:
