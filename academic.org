@@ -699,9 +699,10 @@ I have a lower bound for the numerator. To get an upper bound for the denominato
 	 - State "DONE"       from "NEXT"       [2013-10-23 Wed 17:07]
 	 CLOCK: [2013-10-23 Wed 15:46]--[2013-10-23 Wed 17:07] =>  1:21
 	 :END:
-******** NEXT Find range of b,c for diff. ineq.
+******** DONE Find range of b,c for diff. ineq.
 	 SCHEDULED: <2013-10-23 Wed>
 	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2013-11-14 Thu 16:11]
 	 CLOCK: [2013-11-14 Thu 12:05]--[2013-11-14 Thu 12:27] =>  0:22
 	 CLOCK: [2013-11-12 Tue 18:35]--[2013-11-12 Tue 20:20] =>  1:45
 	 CLOCK: [2013-11-12 Tue 17:25]--[2013-11-12 Tue 17:54] =>  0:29
@@ -721,7 +722,7 @@ I have a lower bound for the numerator. To get an upper bound for the denominato
 	 :END:
 ******** NEXT Write range of b,c for diff. ineq.
 	 :LOGBOOK:
-	 CLOCK: [2013-11-14 Thu 14:35]
+	 CLOCK: [2013-11-14 Thu 14:35]--[2013-11-14 Thu 16:11] =>  1:36
 	 CLOCK: [2013-11-14 Thu 12:27]--[2013-11-14 Thu 13:35] =>  1:08
 	 CLOCK: [2013-11-14 Thu 10:35]--[2013-11-14 Thu 11:34] =>  0:59
 	 :END:
