@@ -1452,6 +1452,9 @@ This proves the inequality we need.  The remaining problem is to remove the symm
 	 :END:
 
 ******** TODO Write up variations
+	 :PROPERTIES:
+	 :ID:       35149012-93ea-4911-9903-8f3a2e335615
+	 :END:
 ****** TODO Viscosity equation
        :PROPERTIES:
        :ID:       2afa6d5c-f40f-4a51-bb74-fa05b6369da8
@@ -1517,6 +1520,9 @@ At the vertex, we have a condition on the tangents and normals so that the endpo
 ******* NEXT Investigate existence/uniqueness
 	:LOGBOOK:
 	CLOCK: [2013-11-15 Fri 12:00]--[2013-11-15 Fri 14:27] =>  2:27
+	:END:
+	:PROPERTIES:
+	:ID:       f598b6ee-c1e3-4b1b-85c2-8fa5c349441a
 	:END:
 ****** NEXT Look up Crystaline curvature flow
       :PROPERTIES:

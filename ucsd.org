@@ -5474,6 +5474,12 @@ Lectures in calendar and tasks like planning lectures.
 	  :PROPERTIES:
 	  :ID:       ac681c44-6ba2-459f-bd81-82106d2263e1
 	  :END:
+********* TODO Staple 150a mt2
+  SCHEDULED: <2013-11-18 Mon>
+	  :PROPERTIES:
+	  :ID:       752ecccf-4b4c-4b3c-b6fa-86b21b713202
+	  :END:
+[2013-11-15 Fri 15:22]
 ******** TODO Final
 	 :PROPERTIES:
 	 :ID:       193ffe7c-c413-41f2-9b16-64928358c053
@@ -5748,8 +5754,13 @@ Lectures in calendar and tasks like planning lectures.
 	   :ID:       0dbdb61e-201c-479a-9d96-cd5f7e2efaff
 	   :END:
 
-********* TODO Prepare Lecture 8.1
+********* DONE Prepare Lecture 8.1
 	   DEADLINE: <2013-11-18 Mon>
+	   :LOGBOOK:
+	   - State "DONE"       from "NEXT"       [2013-11-15 Fri 15:23]
+	   CLOCK: [2013-11-15 Fri 15:22]--[2013-11-15 Fri 15:23] =>  0:01
+	   CLOCK: [2013-11-15 Fri 14:53]--[2013-11-15 Fri 15:22] =>  0:29
+	   :END:
 	   :PROPERTIES:
 	   :ID:       f8317796-47bd-47b3-8f6d-8beab0c879d8
 	   :END:
@@ -6033,6 +6044,9 @@ WLH 2208
 	  :END:
 <2013-11-08 Fri 10:00-11:00>
 ********* Lecture 7.3
+	  :PROPERTIES:
+	  :ID:       7833e2e0-9c91-4ad1-a1d0-139a181dbcd1
+	  :END:
 <2013-11-15 Fri 10:00-11:00>
 ********* Lecture 8.3
 <2013-11-22 Fri 10:00-11:00>
@@ -6881,6 +6895,9 @@ CENTR 101
 	  :END:
 <2013-11-08 Fri 09:00-10:00>
 ********* Lecture 7.3
+	  :PROPERTIES:
+	  :ID:       f5f36642-58ea-48a8-9c88-4ede320e3423
+	  :END:
 <2013-11-15 Fri 09:00-10:00>
 ********* Lecture 8.3
 <2013-11-22 Fri 09:00-10:00>
@@ -7698,9 +7715,15 @@ See [[file:~/Documents/TSCC/TSCC-Description-For-Participants.doc][TSCC-Descript
   :ID:       6737ddef-3f94-4e42-95f3-8becde74624d
   :END:
 ** Faculty/Grad Pizza
+   :PROPERTIES:
+   :ID:       e27eae9a-2b60-4c88-a605-c2b81e2b0218
+   :END:
 <2013-11-15 Fri 15:30-17:30>
 Round Table Pizza.
 * Admin
+  :PROPERTIES:
+  :ID:       8e35d018-64ec-4011-b296-8a4598d5356f
+  :END:
 ** Forms
 *** TODO Get travel signature for DS-2019
   SCHEDULED: <2013-11-11 Mon>
