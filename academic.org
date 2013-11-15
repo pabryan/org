@@ -1425,8 +1425,13 @@ This proves the inequality we need.  The remaining problem is to remove the symm
    :PROPERTIES:
    :ID:       1bc93b81-8423-4598-8297-f0b90aa39aa7
    :END:
-[[file:/home/pbryan/working/academic/research/csf_networks]]
+[[file:~/working/academic/research/csf_networks]]
 ***** Tasks
+****** DONE Set up org file
+       :LOGBOOK:
+       - State "DONE"       from "NEXT"       [2013-11-14 Thu 19:51]
+       CLOCK: [2013-11-14 Thu 19:46]--[2013-11-14 Thu 19:51] =>  0:05
+       :END:
 ****** TODO Variations
        :PROPERTIES:
        :ID:       94a94db4-2a73-4d9f-a85d-5b0c316a1368
@@ -1446,6 +1451,7 @@ This proves the inequality we need.  The remaining problem is to remove the symm
 	 CLOCK: [2013-11-09 Sat 14:40]--[2013-11-09 Sat 15:13] =>  0:33
 	 :END:
 
+******** TODO Write up variations
 ****** TODO Viscosity equation
        :PROPERTIES:
        :ID:       2afa6d5c-f40f-4a51-bb74-fa05b6369da8
@@ -1483,12 +1489,17 @@ This proves the inequality we need.  The remaining problem is to remove the symm
        :ID:       f1f13b51-1bfd-4c47-a349-2b23cc3f212b
        :END:
 ******* NEXT Write CSF Network Defn
+	:LOGBOOK:
+	CLOCK: [2013-11-14 Thu 19:51]--[2013-11-14 Thu 20:26] =>  0:35
+	:END:
      :PROPERTIES:
      :ID:       13735f45-9ce8-4099-aee5-7525d951a79f
      :END:
 CSF plus tangent part. Vertices have 120 degree angles
 ******* NEXT Write explicitly compatibility conditions for vertices
 	 :LOGBOOK:
+	 CLOCK: [2013-11-14 Thu 20:26]
+	 CLOCK: [2013-11-14 Thu 19:43]--[2013-11-14 Thu 19:46] =>  0:03
 	 CLOCK: [2013-11-08 Fri 14:55]--[2013-11-08 Fri 16:15] =>  1:20
 	 :END:
 	 :PROPERTIES:
