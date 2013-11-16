@@ -32,6 +32,12 @@
 :END:
 [[papers:MR2225802][MR2225802-paper]]
 [[bib:MR2225802][MR2225802-bib]]
+***** Stability of translating solutions to mean curvature flow
+:PROPERTIES:
+:Custom_ID: MR2321890
+:END:
+[[papers:MR2321890][MR2321890-paper]]
+[[bib:MR2321890][MR2321890-bib]]
 **** 35K50  (1973-2009) Boundary value problems for parabolic systems :parabolic:boundary:system:
 ***** Viscosity solutions of fully nonlinear parabolic systems
 :PROPERTIES:
@@ -428,6 +434,18 @@
 :END:
 [[papers:MR2794911][MR2794911-paper]]
 [[bib:MR2794911][MR2794911-bib]]
+***** Gaussian mean curvature flow
+:PROPERTIES:
+:Custom_ID: MR2643802
+:END:
+[[papers:MR2643802][MR2643802-paper]]
+[[bib:MR2643802][MR2643802-bib]]
+***** Curvature evolution of nonconvex lens-shaped domains
+:PROPERTIES:
+:Custom_ID: MR2818854
+:END:
+[[papers:MR2818854][MR2818854-paper]]
+[[bib:MR2818854][MR2818854-bib]]
 
 *** 53.04   (1959-1972) Minimal surfaces		:minimal:submanifold:
 **** Minimal varieties in riemannian manifolds			 :riemannian:
