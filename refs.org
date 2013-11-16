@@ -88,6 +88,13 @@
 [[papers:MR1941909][MR1941909-paper]]
 [[bib:MR1941909][MR1941909-bib]]
 *** 49Q  (1991-now) Manifolds [See also 58Exx]		 :manifolds:geometry:
+**** 49Q05  (1991-now) Minimal surfaces [See also 53A10, 58E12]
+***** Stratification of minimal surfaces, mean curvature flows, and harmonic maps
+:PROPERTIES:
+:Custom_ID: MR1465365
+:END:
+[[papers:MR1465365][MR1465365-paper]]
+[[bib:MR1465365][MR1465365-bib]]
 **** 49Q15  (1991-now) Geometric measure and integration theory, integral and normal currents [See also 28A75, 32C30, 58A25, 58C35] :gmt:
 ***** On the connectivity of boundaries of sets minimizing perimeter subject to a volume constraint :convex:isoperimetric:
 :PROPERTIES:
@@ -522,6 +529,12 @@
 :END:
 [[papers:MR1362655][MR1362655-paper]]
 [[bib:MR1362655][MR1362655-bib]]
+***** Partial regularity of mean-convex hypersurfaces flowing by mean curvature
+:PROPERTIES:
+:Custom_ID: MR1266114
+:END:
+[[papers:MR1266114][MR1266114-paper]]
+[[bib:MR1266114][MR1266114-bib]]
 *** 58G Partial differential equations on manifolds; differential operators :pde:operators:
 **** 58G11 Heat and other parabolic equation methods		  :parabolic:
 ***** On the parabolic kernel of the {S}chr\"odinger operator :kernel:schrodinger:
@@ -609,7 +622,6 @@ Here I need to do some more work since $u \mapsto g(\grad u, \grad u)$ is not a 
 :Custom_ID: MR2170766
 :END:
 [[papers:MR2170766][MR2170766-paper]]
-
 
 * ArXiv 							      :arxiv:
   :PROPERTIES:
