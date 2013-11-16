@@ -8,3 +8,14 @@
   :ID:       f909a3b6-067c-4315-8634-5bb028ca5ce3
   :END:
 [2013-11-15 Fri 14:52]
+* TODO Improve referencing
+  SCHEDULED: <2013-12-15 Sun>
+  :LOGBOOK:
+  CLOCK: [2013-11-16 Sat 10:34]--[2013-11-16 Sat 10:38] =>  0:04
+  :END:
+[2013-11-16 Sat 10:34]
+- Write script to get ArXiV refs when they exist
+- File refs automatically
+- Cross ref mathscinet, arxiv
+- Get some Zenderblat refs?
+
