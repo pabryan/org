@@ -3008,7 +3008,7 @@ When I set up scoring the day:
 - [ ] Record morning health stats
 
 ** NEXT Weekly Review [17/18]
-   SCHEDULED: <2013-11-10 Sun +1w>
+   SCHEDULED: <2013-11-17 Sun +1w>
    :LOGBOOK:
    - State "DONE"       from "NEXT"       [2013-11-16 Sat 11:28]
    CLOCK: [2013-11-16 Sat 10:38]--[2013-11-16 Sat 11:28] =>  0:50

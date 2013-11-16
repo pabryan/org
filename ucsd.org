@@ -5872,6 +5872,7 @@ Lectures in calendar and tasks like planning lectures.
 ******* Admin
 ******* Office hours
 	:LOGBOOK:
+	CLOCK: [2013-11-16 Sat 12:50]--[2013-11-16 Sat 13:13] =>  0:23
 	CLOCK: [2013-11-04 Mon 12:20]--[2013-11-04 Mon 12:26] =>  0:06
 	CLOCK: [2013-10-18 Fri 13:05]--[2013-10-18 Fri 13:49] =>  0:44
 	:END:
