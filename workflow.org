@@ -1134,6 +1134,15 @@ Also could have dry snacks, tinned stuff like sardines and so on.
 
 Key numbers: FR428, FR382.
 
+** TODO Get rid of office chairs
+  SCHEDULED: <2013-11-18 Mon>
+  :LOGBOOK:
+  CLOCK: [2013-11-15 Fri 14:52]--[2013-11-15 Fri 14:53] =>  0:01
+  :END:
+  :PROPERTIES:
+  :ID:       f909a3b6-067c-4315-8634-5bb028ca5ce3
+  :END:
+[2013-11-15 Fri 14:52]
 * Computer setup
   :PROPERTIES:
   :ID:       2caac482-7221-4934-a479-25d3cbb12d55
@@ -3007,10 +3016,11 @@ When I set up scoring the day:
 - [ ] Do short tasks
 - [ ] Record morning health stats
 
-** NEXT Weekly Review [17/18]
-   SCHEDULED: <2013-11-17 Sun +1w>
+** NEXT Weekly Review [0/18]
+   SCHEDULED: <2013-11-24 Sun +1w>
    :LOGBOOK:
-   CLOCK: [2013-11-16 Sat 13:15]
+   - State "DONE"       from "NEXT"       [2013-11-16 Sat 13:38]
+   CLOCK: [2013-11-16 Sat 13:15]--[2013-11-16 Sat 13:38] =>  0:23
    - State "DONE"       from "NEXT"       [2013-11-16 Sat 11:28]
    CLOCK: [2013-11-16 Sat 10:38]--[2013-11-16 Sat 11:28] =>  0:50
    CLOCK: [2013-11-12 Tue 13:21]--[2013-11-12 Tue 13:39] =>  0:18
@@ -3104,39 +3114,39 @@ When I set up scoring the day:
    :REPEAT_TO_STATE: NEXT
    :ID:       846c05fa-21d7-4e6f-8431-a1fa06631945
    :RESET_CHECK_BOXES: t
-   :LAST_REPEAT: [2013-11-16 Sat 11:28]
+   :LAST_REPEAT: [2013-11-16 Sat 13:38]
    :END:
 
 What to review:
 
-- [X] Check follow-up paper folder
-- [X] Check holding directory
+- [ ] Check follow-up paper folder
+- [ ] Check holding directory
   [[file:~/holding]]
-- [X] Check holding email folder
-- [X] Review weekly agenda =F12 a w//=
-- [X] Check clocking data for past week =v c=
+- [ ] Check holding email folder
+- [ ] Review weekly agenda =F12 a w//=
+- [ ] Check clocking data for past week =v c=
   - fix up any errors
-- [X] Review clock report for past week =R=
+- [ ] Review clock report for past week =R=
   - Check where we spent time (too much or too little) and rectify this week
-- [X] Look at entire agenda for today  =F12 SPC=
-- [X] Check un-committed work
-- [X] Refile tasks
-- [-] Weekly clean up
+- [ ] Look at entire agenda for today  =F12 SPC=
+- [ ] Check un-committed work
+- [ ] Refile tasks
+- [ ] Weekly clean up
   - [ ] Clean up Downloads
-  - [X] Clean up tmp
-  - [X] Clean up tablet
-  - [X] Clean up phone
-- [X] Process incoming information
+  - [ ] Clean up tmp
+  - [ ] Clean up tablet
+  - [ ] Clean up phone
+- [ ] Process incoming information
   - feedly
   - pocket
-- [X] Review focus projects 
-- [X] Set focus
-- [X] Check Finances
+- [ ] Review focus projects 
+- [ ] Set focus
+- [ ] Check Finances
   - Check bank accounts and compare with what's still to come
-- [X] Copy music to phone
-- [X] Share photos on Google+
-- [X] Update Abundant Harvest order
-- [X] Order meat
+- [ ] Copy music to phone
+- [ ] Share photos on Google+
+- [ ] Update Abundant Harvest order
+- [ ] Order meat
   - http://www.son-riseranchstore.com/
 
 ** NEXT Monthly Plan/Review [0/5]
