@@ -404,6 +404,18 @@
 :END:
 [[papers:MR2075985][MR2075985-paper]]
 [[bib:MR2075985][MR2075985-bib]]
+***** Self-similarly expanding networks to curve shortening flow
+:PROPERTIES:
+:Custom_ID: MR2394409
+:END:
+[[papers:MR2394409][MR2394409-paper]]
+[[bib:MR2394409][MR2394409-bib]]
+***** B-sub-manifolds and their stability
+:PROPERTIES:
+:Custom_ID: MR2269257
+:END:
+[[papers:MR2269257][MR2269257-paper]]
+[[bib:MR2269257][MR2269257-bib]]
 *** 53.04   (1959-1972) Minimal surfaces		:minimal:submanifold:
 **** Minimal varieties in riemannian manifolds			 :riemannian:
 :PROPERTIES:
@@ -567,7 +579,8 @@ Here I need to do some more work since $u \mapsto g(\grad u, \grad u)$ is not a 
 :END:
 [[papers:MR2170766][MR2170766-paper]]
 
-* Arxiv 							      :arxiv:
+
+* ArXiv 							      :arxiv:
   :PROPERTIES:
   :COLUMNS: %75ITEM %TAGS
   :ID:       6ac9b861-65b6-4799-bb71-716b51571ab6
@@ -615,6 +628,12 @@ Here I need to do some more work since $u \mapsto g(\grad u, \grad u)$ is not a 
 :END:
 [[papers:2011arXiv1111.4616A][2011arXiv1111.4616A-paper]]
 [[bib:2011arXiv1111.4616A][2011arXiv1111.4616A-bib]]
+** Uniqueness of compact tangent flows in Mean Curvature Flow
+:PROPERTIES:
+:Custom_ID: 2011arXiv1107.4643S
+:END:
+[[papers:2011arXiv1107.4643S][2011arXiv1107.4643S-paper]]
+[[bib:2011arXiv1107.4643S][2011arXiv1107.4643S-bib]]
 * Misc
   :PROPERTIES:
   :COLUMNS: %75ITEM %TAGS
