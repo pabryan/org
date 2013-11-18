@@ -1673,6 +1673,16 @@ Look at all dark matter papers. Alan Parry also. Bibliography of course!
        :PROPERTIES:
        :ID:       9269bbf3-ecf7-42fd-99fb-4fbfcb952c55
        :END:
+****** TODO Prove smooth backward convergence to equator implies round circle
+That is, Ben and Janelle have proven the backward convergence, and to finish we need to show the solution is the shrinking round circle
+***** Clocking
+****** Talking with Ben
+       :LOGBOOK:
+       CLOCK: [2013-11-18 Mon 12:18]--[2013-11-18 Mon 13:40] =>  1:22
+       :END:
+****** Talking with Janelle
+***** Notes
+***** Refs
 **** TODO Mean curvature solitons
      :LOGBOOK:
      CLOCK: [2013-11-01 Fri 14:13]--[2013-11-01 Fri 14:14] =>  0:01

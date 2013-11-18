@@ -5474,8 +5474,11 @@ Lectures in calendar and tasks like planning lectures.
 	  :PROPERTIES:
 	  :ID:       ac681c44-6ba2-459f-bd81-82106d2263e1
 	  :END:
-********* TODO Staple 150a mt2
+********* DONE Staple 150a mt2
   SCHEDULED: <2013-11-18 Mon>
+  :LOGBOOK:
+  - State "DONE"       from "TODO"       [2013-11-18 Mon 14:26]
+  :END:
 	  :PROPERTIES:
 	  :ID:       752ecccf-4b4c-4b3c-b6fa-86b21b713202
 	  :END:
@@ -5561,9 +5564,6 @@ Lectures in calendar and tasks like planning lectures.
 	 :ID:       a7df5e60-2bab-40bb-90e0-f6b7e2708380
 	 :END:
 ******** TODO Prepare Lectures
-	 :LOGBOOK:
-	 CLOCK: [2013-11-07 Thu 12:53]--[2013-11-07 Thu 12:54] =>  0:01
-	 :END:
 	 :PROPERTIES:
 	 :ID:       f0b65695-b765-4fec-a9cd-5dd82cc9ae24
 	 :END:
@@ -5764,8 +5764,13 @@ Lectures in calendar and tasks like planning lectures.
 	   :PROPERTIES:
 	   :ID:       f8317796-47bd-47b3-8f6d-8beab0c879d8
 	   :END:
-********* TODO Prepare Lecture 8.2
+********* DONE Prepare Lecture 8.2
 	   DEADLINE: <2013-11-20 Wed>
+	   :LOGBOOK:
+	   - State "DONE"       from "NEXT"       [2013-11-18 Mon 14:18]
+	   CLOCK: [2013-11-18 Mon 13:40]--[2013-11-18 Mon 14:18] =>  0:38
+	   CLOCK: [2013-11-18 Mon 11:59]--[2013-11-18 Mon 12:18] =>  0:19
+	   :END:
 	   :PROPERTIES:
 	   :ID:       285c1d43-6e2a-49e1-b114-585abecbb149
 	   :END:
