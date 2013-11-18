@@ -1134,9 +1134,11 @@ Also could have dry snacks, tinned stuff like sardines and so on.
 
 Key numbers: FR428, FR382.
 
-** TODO Get rid of office chairs
+** WAITING Get rid of office chairs
   SCHEDULED: <2013-11-18 Mon>
   :LOGBOOK:
+  - State "WAITING"    from "TODO"       [2013-11-18 Mon 11:50] \\
+    Sent email to admin staff asking them to pick up the chairs.
   CLOCK: [2013-11-15 Fri 14:52]--[2013-11-15 Fri 14:53] =>  0:01
   :END:
   :PROPERTIES:
@@ -1565,6 +1567,7 @@ I have mythtv and mediatomb and who knows what else using up valuable resources.
   :END:
 ** Organisation
   :LOGBOOK:
+  CLOCK: [2013-11-18 Mon 11:51]
   CLOCK: [2013-11-18 Mon 11:31]--[2013-11-18 Mon 11:32] =>  0:01
   CLOCK: [2013-11-16 Sat 11:28]--[2013-11-16 Sat 11:30] =>  0:02
   CLOCK: [2013-11-16 Sat 10:23]--[2013-11-16 Sat 10:34] =>  0:11
@@ -2683,9 +2686,11 @@ When I set up scoring the day:
 - [ ] Collate data such as sleep, weight, exercise, diet etc.
 
 ** NEXT Daily Plan [0/4]
-   SCHEDULED: <2013-11-17 Sun .+1d/2d>
+   SCHEDULED: <2013-11-19 Tue .+1d/2d>
    :LOGBOOK:
-   CLOCK: [2013-11-18 Mon 11:33]
+   - State "DONE"       from "NEXT"       [2013-11-18 Mon 11:51]
+   CLOCK: [2013-11-18 Mon 11:35]--[2013-11-18 Mon 11:51] =>  0:16
+   CLOCK: [2013-11-18 Mon 11:33]--[2013-11-18 Mon 11:35] =>  0:02
    - State "DONE"       from "NEXT"       [2013-11-16 Sat 10:23]
    CLOCK: [2013-11-16 Sat 10:20]--[2013-11-16 Sat 10:23] =>  0:03
    CLOCK: [2013-11-16 Sat 10:18]--[2013-11-16 Sat 10:20] =>  0:02
@@ -3009,7 +3014,7 @@ When I set up scoring the day:
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
    :ID:       ef051ee0-1113-4604-b355-450a5a47848b
-   :LAST_REPEAT: [2013-11-16 Sat 10:23]
+   :LAST_REPEAT: [2013-11-18 Mon 11:51]
    :END:
 
 - [ ] Check agenda/focus
