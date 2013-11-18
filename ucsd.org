@@ -6626,8 +6626,11 @@ Less questions!
 	  :PROPERTIES:
 	  :ID:       f8317796-47bd-47b3-8f6d-8beab0c879d8
 	  :END:
-********* TODO Prepare Lecture 8.2
+********* NEXT Prepare Lecture 8.2
 	  DEADLINE: <2013-11-20 Wed>
+	  :LOGBOOK:
+	  CLOCK: [2013-11-18 Mon 14:27]
+	  :END:
 	  :PROPERTIES:
 	  :ID:       285c1d43-6e2a-49e1-b114-585abecbb149
 	  :END:
