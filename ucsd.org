@@ -5937,6 +5937,9 @@ WLH 2208
 	  :LOGBOOK:
 	  CLOCK: [2013-11-18 Mon 09:50]--[2013-11-18 Mon 11:05] =>  1:15
 	  :END:
+	  :PROPERTIES:
+	  :ID:       c6b48cb0-9483-47e6-8d15-22d381648b24
+	  :END:
 <2013-11-18 Mon 10:00-11:00>
 ********* Lecture 9.1
 <2013-11-25 Mon 10:00-11:00>
@@ -6423,6 +6426,9 @@ Less questions!
 	  :ID:       5ee6e1c6-651f-4e14-bbd3-9ab316bc46e7
 	  :END:
 ******** TODO Prepare Lectures
+	 :LOGBOOK:
+	 CLOCK: [2013-11-18 Mon 15:12]
+	 :END:
 	 :PROPERTIES:
 	 :ID:       2a2ba26b-495a-48a8-8fcc-d023c59733fd
 	 :END:
@@ -6626,10 +6632,11 @@ Less questions!
 	  :PROPERTIES:
 	  :ID:       f8317796-47bd-47b3-8f6d-8beab0c879d8
 	  :END:
-********* NEXT Prepare Lecture 8.2
+********* DONE Prepare Lecture 8.2
 	  DEADLINE: <2013-11-20 Wed>
 	  :LOGBOOK:
-	  CLOCK: [2013-11-18 Mon 14:27]
+	  - State "DONE"       from "NEXT"       [2013-11-18 Mon 15:12]
+	  CLOCK: [2013-11-18 Mon 14:27]--[2013-11-18 Mon 15:12] =>  0:45
 	  :END:
 	  :PROPERTIES:
 	  :ID:       285c1d43-6e2a-49e1-b114-585abecbb149
@@ -6808,6 +6815,9 @@ CENTR 101
 ********* Lecture 8.1
 	  :LOGBOOK:
 	  CLOCK: [2013-11-18 Mon 08:50]--[2013-11-18 Mon 09:50] =>  1:00
+	  :END:
+	  :PROPERTIES:
+	  :ID:       98c80023-75f4-4843-bf2f-7f51c8b6e48f
 	  :END:
 <2013-11-18 Mon 09:00-10:00>
 ********* Lecture 9.1

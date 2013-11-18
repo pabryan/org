@@ -1674,6 +1674,9 @@ Look at all dark matter papers. Alan Parry also. Bibliography of course!
        :ID:       9269bbf3-ecf7-42fd-99fb-4fbfcb952c55
        :END:
 ****** TODO Prove smooth backward convergence to equator implies round circle
+       :PROPERTIES:
+       :ID:       8c4123a3-7132-43fa-8bff-57827ae1c8ad
+       :END:
 That is, Ben and Janelle have proven the backward convergence, and to finish we need to show the solution is the shrinking round circle
 ***** Clocking
 ****** Talking with Ben
@@ -2068,6 +2071,9 @@ I'd like to be able to use org-mode views to show papers/books by a given author
   :LOGBOOK:
   CLOCK: [2013-11-16 Sat 10:34]--[2013-11-16 Sat 10:38] =>  0:04
   :END:
+     :PROPERTIES:
+     :ID:       25e0ccac-80ed-43ae-ad45-7b735ad94dbe
+     :END:
 [2013-11-16 Sat 10:34]
 - Write script to get ArXiV refs when they exist
 - File refs automatically
@@ -2917,6 +2923,9 @@ Talk about ancient solutions of curve shortening flow on $S^2$
 <2012-11-14 Wed 09:00>
 ** TODO Write referee's report for PeiCong Hu
    DEADLINE: <2013-11-20 Wed>
+   :PROPERTIES:
+   :ID:       d6300be9-3a25-49ec-9d3a-6ef1a10872c0
+   :END:
 [2013-11-18 Mon 11:35]
 * Tasks
   :PROPERTIES:
