@@ -616,6 +616,8 @@ Jonathan Chan
 <2013-11-19 Tue 11:00>
 Kearny Mesa
 4510 Viewridge Ave San Diego, CA 92123‎
+**** Physio
+<2013-12-06 Fri 13:00-14:00>
 ** Routine/Schedule
 *** CANCELLED Update training schedule
    - State "CANCELLED"  from "TODO"       [2012-10-24 Wed 13:30] \\
@@ -1922,7 +1924,10 @@ Delta 4502 From LA.
 
 ** Christine
 *** Winter 2013 visit
-**** NEXT Pick up Christine from airport
+**** DONE Pick up Christine from airport
+     :LOGBOOK:
+     - State "DONE"       from "NEXT"       [2013-11-19 Tue 14:41]
+     :END:
      :PROPERTIES:
      :ID:       5da62bb0-eed1-45bf-aff4-6dfd18425d51
      :END:
