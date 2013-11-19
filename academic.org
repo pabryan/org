@@ -2922,8 +2922,11 @@ Talk about ancient solutions of curve shortening flow on $S^2$
    :END:
 Talk about ancient solutions of curve shortening flow on $S^2$
 <2012-11-14 Wed 09:00>
-** TODO Write referee's report for PeiCong Hu
-   DEADLINE: <2013-11-20 Wed>
+** NEXT Write referee's report for PeiCong Hu
+   DEADLINE: <2013-11-29 Fri>
+   :LOGBOOK:
+   CLOCK: [2013-11-19 Tue 14:54]--[2013-11-19 Tue 14:55] =>  0:01
+   :END:
    :PROPERTIES:
    :ID:       d6300be9-3a25-49ec-9d3a-6ef1a10872c0
    :END:
