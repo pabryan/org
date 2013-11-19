@@ -1568,6 +1568,7 @@ I have mythtv and mediatomb and who knows what else using up valuable resources.
   :END:
 ** Organisation
   :LOGBOOK:
+  CLOCK: [2013-11-18 Mon 18:53]
   CLOCK: [2013-11-18 Mon 18:17]--[2013-11-18 Mon 18:20] =>  0:03
   CLOCK: [2013-11-18 Mon 14:19]--[2013-11-18 Mon 14:27] =>  0:08
   CLOCK: [2013-11-18 Mon 11:51]--[2013-11-18 Mon 11:59] =>  0:08
@@ -2479,9 +2480,10 @@ Set some goals for the month. I should check someday projects for inclusion in t
 Check how I did last month. I guess the review and plan could probably go together. This is all broad stuff
 
 ** NEXT Daily Review [0/10]
-   SCHEDULED: <2013-11-16 Sat .+1d/2d>
+   SCHEDULED: <2013-11-19 Tue .+1d/2d>
    :LOGBOOK:
-   CLOCK: [2013-11-18 Mon 18:20]
+   - State "DONE"       from "NEXT"       [2013-11-18 Mon 18:53]
+   CLOCK: [2013-11-18 Mon 18:20]--[2013-11-18 Mon 18:53] =>  0:33
    - State "DONE"       from "NEXT"       [2013-11-15 Fri 21:12]
    CLOCK: [2013-11-15 Fri 21:11]--[2013-11-15 Fri 21:12] =>  0:01
    - State "DONE"       from "NEXT"       [2013-11-13 Wed 19:41]
@@ -2668,7 +2670,7 @@ Check how I did last month. I guess the review and plan could probably go togeth
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
    :ID:       616c5bd9-d941-4fcc-8874-2ff3c9e96b4a
-   :LAST_REPEAT: [2013-11-15 Fri 21:12]
+   :LAST_REPEAT: [2013-11-18 Mon 18:53]
    :END:
 
 What to review:
