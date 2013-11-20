@@ -6758,6 +6758,7 @@ Less questions!
 ****** Clocking
 ******* Admin
 	:LOGBOOK:
+	CLOCK: [2013-11-20 Wed 13:10]--[2013-11-20 Wed 13:28] =>  0:18
 	CLOCK: [2013-11-20 Wed 11:15]--[2013-11-20 Wed 11:38] =>  0:23
 	:END:
 ******* Office hours
@@ -7192,10 +7193,10 @@ See Holding email.
 - Can we do it informally off the books? 
 - Can we do formally, but without counting towards units.
 - This for Caitlin N Endler <cendler@ucsd.edu>
-***** Student
+***** Matt Groesbeck
 ****** Meeting
        :LOGBOOK:
-       CLOCK: [2013-11-20 Wed 12:03]
+       CLOCK: [2013-11-20 Wed 12:03]--[2013-11-20 Wed 13:10] =>  1:07
        :END:
 <2013-11-20 Wed 12:00>
 * Seminars 							    :SEMINAR:
