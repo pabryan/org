@@ -6100,6 +6100,15 @@ A11487731
 Homework 0: 44/50
 ******* Late homework
 Chen Zeqing.
+******* Midterm 2
+******** Stats from just Ali
+- Range 35.00
+- Average 28.90
+- Median 31.00
+- Standard Deviation 8.26
+- Variance 68.16
+******** Overall stats
+
 ****** Tasks
 ******* DONE Plan course
 	:LOGBOOK:
@@ -6426,6 +6435,8 @@ Less questions!
 	  :ID:       5ee6e1c6-651f-4e14-bbd3-9ab316bc46e7
 	  :END:
 ******** TODO Prepare Lectures
+	 :LOGBOOK:
+	 :END:
 	 :PROPERTIES:
 	 :ID:       2a2ba26b-495a-48a8-8fcc-d023c59733fd
 	 :END:
@@ -6739,6 +6750,9 @@ Less questions!
 	 :END:
 ****** Clocking
 ******* Admin
+	:LOGBOOK:
+	CLOCK: [2013-11-20 Wed 11:20]--[2013-11-20 Wed 11:38] =>  0:18
+	:END:
 ******* Office hours
 	:LOGBOOK:
 	CLOCK: [2013-11-18 Mon 11:05]--[2013-11-18 Mon 11:33] =>  0:28
