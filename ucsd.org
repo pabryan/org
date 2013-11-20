@@ -5774,8 +5774,11 @@ Lectures in calendar and tasks like planning lectures.
 	   :PROPERTIES:
 	   :ID:       285c1d43-6e2a-49e1-b114-585abecbb149
 	   :END:
-********* TODO Prepare Lecture 8.3
+********* NEXT Prepare Lecture 8.3
 	   DEADLINE: <2013-11-22 Fri>
+	   :LOGBOOK:
+	   CLOCK: [2013-11-20 Wed 13:41]--[2013-11-20 Wed 14:07] =>  0:26
+	   :END:
 	   :PROPERTIES:
 	   :ID:       0dbdb61e-201c-479a-9d96-cd5f7e2efaff
 	   :END:
@@ -5877,6 +5880,7 @@ Lectures in calendar and tasks like planning lectures.
 ******* Admin
 ******* Office hours
 	:LOGBOOK:
+	CLOCK: [2013-11-20 Wed 14:07]
 	CLOCK: [2013-11-16 Sat 12:50]--[2013-11-16 Sat 13:13] =>  0:23
 	CLOCK: [2013-11-04 Mon 12:20]--[2013-11-04 Mon 12:26] =>  0:06
 	CLOCK: [2013-10-18 Fri 13:05]--[2013-10-18 Fri 13:49] =>  0:44
