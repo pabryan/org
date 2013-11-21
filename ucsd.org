@@ -7202,7 +7202,10 @@ See Holding email.
        :LOGBOOK:
        CLOCK: [2013-11-20 Wed 12:03]--[2013-11-20 Wed 13:10] =>  1:07
        :END:
-<2013-11-20 Wed 12:00>
+<2013-11-20 Wed 12:
+***** Caitlin Endler
+****** Meeting
+<2013-11-22 Fri 12:00-13:00>
 * Seminars 							    :SEMINAR:
   :PROPERTIES:
   :ID:       4a7b50f0-8368-4d3a-bc5d-c0e229fd442f
