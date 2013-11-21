@@ -6681,18 +6681,21 @@ Less questions!
 	  :PROPERTIES:
 	  :ID:       285c1d43-6e2a-49e1-b114-585abecbb149
 	  :END:
-********* NEXT Prepare Lecture 8.3
+********* DONE Prepare Lecture 8.3
 	  DEADLINE: <2013-11-22 Fri>
 	  :LOGBOOK:
-	  CLOCK: [2013-11-21 Thu 12:46]
-	  CLOCK: [2013-11-21 Thu 12:35]--[2013-11-21 Thu 12:36] =>  0:01
+	  - State "DONE"       from "NEXT"       [2013-11-21 Thu 13:52]
+	  CLOCK: [2013-11-21 Thu 12:35]--[2013-11-21 Thu 13:52] =>  1:17
 	  :END:
 	  :PROPERTIES:
 	  :ID:       0dbdb61e-201c-479a-9d96-cd5f7e2efaff
 	  :END:
 
-********* TODO Prepare Lecture 9.1
+********* NEXT Prepare Lecture 9.1
 	  DEADLINE: <2013-11-25 Mon>
+	  :LOGBOOK:
+	  CLOCK: [2013-11-21 Thu 13:52]
+	  :END:
 	  :PROPERTIES:
 	  :ID:       f8317796-47bd-47b3-8f6d-8beab0c879d8
 	  :END:
@@ -6787,7 +6790,7 @@ Less questions!
 ****** Clocking
 ******* Admin
 	:LOGBOOK:
-	CLOCK: [2013-11-21 Thu 10:35]--[2013-11-21 Thu 11:12] =>  0:37
+	CLOCK: [2013-11-21 Thu 10:35]--[2013-11-21 Thu 11:28] =>  0:53
 	CLOCK: [2013-11-20 Wed 13:10]--[2013-11-20 Wed 13:28] =>  0:18
 	CLOCK: [2013-11-20 Wed 11:15]--[2013-11-20 Wed 11:38] =>  0:23
 	:END:
