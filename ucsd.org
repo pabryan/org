@@ -6107,6 +6107,12 @@ A11487731
 Homework 0: 44/50
 ******* Late homework
 Chen Zeqing.
+******* Midterm 1
+- Range 27.50
+- Average 34.61
+- Median 36.50
+- Standard Deviation 5.88
+- Variance 34.59
 ******* Midterm 2
 ******** Stats from just Ali
 - Range 35.00
@@ -6115,7 +6121,17 @@ Chen Zeqing.
 - Standard Deviation 8.26
 - Variance 68.16
 ******** Overall stats
-
+- Range 38.00
+- Average 26.75
+- Median 29.00
+- Standard Deviation 9.63
+- Variance 92.73
+******* Average Midterm
+- Range 100.00
+- Average 75.62
+- Median 78.13
+- Standard Deviation 18.05
+- Variance 325.93
 ****** Tasks
 ******* DONE Plan course
 	:LOGBOOK:
@@ -6762,6 +6778,7 @@ Less questions!
 ****** Clocking
 ******* Admin
 	:LOGBOOK:
+	CLOCK: [2013-11-21 Thu 10:35]
 	CLOCK: [2013-11-20 Wed 13:10]--[2013-11-20 Wed 13:28] =>  0:18
 	CLOCK: [2013-11-20 Wed 11:15]--[2013-11-20 Wed 11:38] =>  0:23
 	:END:
