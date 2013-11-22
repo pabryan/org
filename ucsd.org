@@ -7093,9 +7093,11 @@ Place: APM 7421
    :ID:       08426a42-e2ed-4a58-bd9b-62d687b30b6b
    :END:
 <2013-01-04 Fri 10:00-14:00>
-*** Check out John Egger's class
+*** CANCELLED Check out John Egger's class
     :LOGBOOK:
-    CLOCK: [2013-11-22 Fri 12:59]
+    - State "CANCELLED"  from ""           [2013-11-22 Fri 13:05] \\
+      He's holding an exam!
+    CLOCK: [2013-11-22 Fri 12:59]--[2013-11-22 Fri 13:05] =>  0:06
     :END:
   :PROPERTIES:
   :ID:       21f69cd2-c9ab-4576-b41f-48ec81670fd8
@@ -7104,6 +7106,7 @@ Place: APM 7421
 Ledden Auditorium
 *** Meet John Eggers
     :LOGBOOK:
+    CLOCK: [2013-11-22 Fri 14:06]
     CLOCK: [2013-10-11 Fri 12:00]--[2013-10-11 Fri 12:45] =>  0:45
     :END:
 <2013-10-11 Fri 12:00>
