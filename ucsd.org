@@ -299,7 +299,7 @@ I want to put the details of the course in to org - probably using property draw
 http://www.math.ucsd.edu/~jeggers/Archive/2012Spring/Math142B/calendar.html
 http://www.w3schools.com/css/tryit.asp?filename=trycss_table_fancy
 ***** TODO Check out Piazza for courses
-  SCHEDULED: <2013-11-24 Sun>
+  SCHEDULED: <2013-12-09 Mon>
   :LOGBOOK:
   CLOCK: [2013-10-04 Fri 13:33]--[2013-10-04 Fri 13:34] =>  0:01
   :END:
@@ -5489,6 +5489,9 @@ Lectures in calendar and tasks like planning lectures.
 	 :END:
 ********* NEXT Write Final
 	  DEADLINE: <2013-11-27 Wed -14d>
+	  :LOGBOOK:
+	  CLOCK: [2013-11-21 Thu 15:03]--[2013-11-21 Thu 15:52] =>  0:49
+	  :END:
 	  :PROPERTIES:
 	  :ID:       9d9d60a7-9ba7-4df3-aa2b-1261ac960b66
 	  :END:
