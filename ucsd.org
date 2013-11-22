@@ -6083,6 +6083,9 @@ WLH 2208
 	  :END:
 <2013-11-15 Fri 10:00-11:00>
 ********* Lecture 8.3
+          :LOGBOOK:
+	  CLOCK: [2013-11-22 Fri 09:55]--[2013-11-22 Fri 11:05] =>  1:10
+	  :END:
 <2013-11-22 Fri 10:00-11:00>
 ********* Lecture 9.3
 <2013-11-29 Fri 10:00-11:00>
@@ -6992,6 +6995,9 @@ CENTR 101
 	  :END:
 <2013-11-15 Fri 09:00-10:00>
 ********* Lecture 8.3
+          :LOGBOOK:
+	  CLOCK: [2013-11-22 Fri 08:50]--[2013-11-22 Fri 09:55] =>  1:05
+	  :END:
 <2013-11-22 Fri 09:00-10:00>
 ********* Lecture 9.3
 <2013-11-29 Fri 09:00-10:00>
@@ -7088,6 +7094,9 @@ Place: APM 7421
    :END:
 <2013-01-04 Fri 10:00-14:00>
 *** Check out John Egger's class
+    :LOGBOOK:
+    CLOCK: [2013-11-22 Fri 12:59]
+    :END:
   :PROPERTIES:
   :ID:       21f69cd2-c9ab-4576-b41f-48ec81670fd8
   :END:
@@ -7238,6 +7247,9 @@ See Holding email.
 <2013-11-20 Wed 12:
 ***** Caitlin Endler
 ****** Meeting
+       :LOGBOOK:
+       CLOCK: [2013-11-22 Fri 12:05]--[2013-11-22 Fri 12:55] =>  0:50
+       :END:
 <2013-11-22 Fri 12:00-13:00>
 * Seminars 							    :SEMINAR:
   :PROPERTIES:
