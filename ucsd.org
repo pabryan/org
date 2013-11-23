@@ -6086,6 +6086,9 @@ WLH 2208
           :LOGBOOK:
 	  CLOCK: [2013-11-22 Fri 09:55]--[2013-11-22 Fri 11:05] =>  1:10
 	  :END:
+	  :PROPERTIES:
+	  :ID:       88659dc6-1909-47f4-bb1e-7256c45adc1c
+	  :END:
 <2013-11-22 Fri 10:00-11:00>
 ********* Lecture 9.3
 <2013-11-29 Fri 10:00-11:00>
@@ -6998,6 +7001,9 @@ CENTR 101
           :LOGBOOK:
 	  CLOCK: [2013-11-22 Fri 08:50]--[2013-11-22 Fri 09:55] =>  1:05
 	  :END:
+	  :PROPERTIES:
+	  :ID:       25817d52-34b5-4c4b-9ca7-733476638594
+	  :END:
 <2013-11-22 Fri 09:00-10:00>
 ********* Lecture 9.3
 <2013-11-29 Fri 09:00-10:00>
@@ -7108,6 +7114,9 @@ Ledden Auditorium
     :LOGBOOK:
     CLOCK: [2013-11-22 Fri 14:06]--[2013-11-22 Fri 15:22] =>  1:16
     CLOCK: [2013-10-11 Fri 12:00]--[2013-10-11 Fri 12:45] =>  0:45
+    :END:
+    :PROPERTIES:
+    :ID:       f25b0048-bf6f-4bef-846d-197f1409a51d
     :END:
 <2013-10-11 Fri 12:00>
 <2013-11-22 Fri 14:15>
@@ -7252,6 +7261,9 @@ See Holding email.
 ****** Meeting
        :LOGBOOK:
        CLOCK: [2013-11-22 Fri 12:05]--[2013-11-22 Fri 12:55] =>  0:50
+       :END:
+       :PROPERTIES:
+       :ID:       16495a6e-8666-416b-8e38-f96a7ecc9a19
        :END:
 <2013-11-22 Fri 12:00-13:00>
 * Seminars 							    :SEMINAR:
