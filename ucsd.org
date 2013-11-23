@@ -5372,8 +5372,9 @@ Lectures in calendar and tasks like planning lectures.
 	 :PROPERTIES:
 	 :ID:       9aa4cdcd-1e06-4c81-b453-ef683304c038
 	 :END:
-******** TODO Midterm 1
+******** DONE Midterm 1
 	 :LOGBOOK:
+	 - State "DONE"       from "TODO"       [2013-11-22 Fri 21:33]
 	 CLOCK: [2013-10-03 Thu 13:56]--[2013-10-03 Thu 13:57] =>  0:01
 	 :END:
 	 :PROPERTIES:
@@ -5469,7 +5470,7 @@ Lectures in calendar and tasks like planning lectures.
 	  :PROPERTIES:
 	  :ID:       fa82d754-e847-4942-a97c-7e49ad3b00f2
 	  :END:
-********* TODO Write MT2 solutions
+********* NEXT Write MT2 solutions
 	  DEADLINE: <2013-11-29 Fri>
 	  :PROPERTIES:
 	  :ID:       ac681c44-6ba2-459f-bd81-82106d2263e1
@@ -5510,7 +5511,10 @@ Lectures in calendar and tasks like planning lectures.
 	  :PROPERTIES:
 	  :ID:       3336f694-b673-4c6c-8a37-935a3920d638
 	  :END:
-******* TODO Homework
+******* DONE Homework
+	:LOGBOOK:
+	- State "DONE"       from "TODO"       [2013-11-22 Fri 21:33]
+	:END:
 	:PROPERTIES:
 	:ID:       74f03390-084e-4dd5-ac5d-1b800439f200
 	:END:
@@ -5817,7 +5821,7 @@ Lectures in calendar and tasks like planning lectures.
 	   :ID:       0dbdb61e-201c-479a-9d96-cd5f7e2efaff
 	   :END:
 
-********* TODO Prepare Lecture 10.1
+********* NEXT Prepare Lecture 10.1
 	   DEADLINE: <2013-12-02 Mon>
 	   :PROPERTIES:
 	   :ID:       f8317796-47bd-47b3-8f6d-8beab0c879d8
@@ -6251,7 +6255,10 @@ Lectures in calendar and tasks like planning lectures.
 	  :PROPERTIES:
 	  :ID:       1b92a2b2-fc0c-4e00-a1d2-74bd3d493aa4
 	  :END:
-******** TODO Midterm 2
+******** DONE Midterm 2
+	 :LOGBOOK:
+	 - State "DONE"       from "TODO"       [2013-11-22 Fri 21:34]
+	 :END:
 	 :PROPERTIES:
 	 :ID:       c8d63808-39f5-4dc8-ade9-e2c8ed92df6d
 	 :END:
@@ -6458,7 +6465,10 @@ Less questions!
 	 :PROPERTIES:
 	 :ID:       9124a0b6-aee6-48f4-9dba-d3cd12365414
 	 :END:
-******** TODO Lecture notes
+******** DONE Lecture notes
+	 :LOGBOOK:
+	 - State "DONE"       from "TODO"       [2013-11-22 Fri 21:34]
+	 :END:
 	 :PROPERTIES:
 	 :ID:       b47d8576-05bf-4ac3-acb9-693759015a18
 	 :END:
