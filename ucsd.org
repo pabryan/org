@@ -6321,6 +6321,9 @@ Lectures in calendar and tasks like planning lectures.
 	 :END:
 ********* NEXT Write Final
 	  DEADLINE: <2013-11-27 Wed -14d>
+	  :LOGBOOK:
+	  CLOCK: [2013-11-23 Sat 11:37]
+	  :END:
 	  :PROPERTIES:
 	  :ID:       7f9d13da-1e61-48f1-98c9-890d035716f7
 	  :END:
