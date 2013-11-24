@@ -5499,8 +5499,12 @@ Lectures in calendar and tasks like planning lectures.
 	  :PROPERTIES:
 	  :ID:       9d9d60a7-9ba7-4df3-aa2b-1261ac960b66
 	  :END:
-********* TODO Get TA's comments
+********* WAITING Get TA's comments
 	  DEADLINE: <2013-12-04 Wed>
+	  :LOGBOOK:
+	  - State "WAITING"    from "TODO"       [2013-11-23 Sat 22:14] \\
+	    Sent to TA for comments.
+	  :END:
 	  :PROPERTIES:
 	  :ID:       543ac8e6-b366-4ea3-8598-1751d529ab17
 	  :END:
@@ -6319,16 +6323,21 @@ Lectures in calendar and tasks like planning lectures.
 	 :PROPERTIES:
 	 :ID:       caf6b905-f68d-4bfd-bfef-f196abee52ba
 	 :END:
-********* NEXT Write Final
+********* DONE Write Final
 	  DEADLINE: <2013-11-27 Wed -14d>
 	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2013-11-23 Sat 22:14]
 	  CLOCK: [2013-11-23 Sat 11:37]--[2013-11-23 Sat 12:40] =>  1:03
 	  :END:
 	  :PROPERTIES:
 	  :ID:       7f9d13da-1e61-48f1-98c9-890d035716f7
 	  :END:
-********* TODO Get TA's comments
+********* WAITING Get TA's comments
 	  DEADLINE: <2013-12-04 Wed>
+	  :LOGBOOK:
+	  - State "WAITING"    from "TODO"       [2013-11-23 Sat 22:15] \\
+	    Sent to TA for comments.
+	  :END:
 	  :PROPERTIES:
 	  :ID:       4e9247f6-a5de-4483-8def-e9a9135050a1
 	  :END:
