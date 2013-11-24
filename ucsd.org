@@ -5573,6 +5573,8 @@ Lectures in calendar and tasks like planning lectures.
 ******** NEXT Write homework 4 solutions
 	 DEADLINE: <2013-11-24 Sun>
 	 :LOGBOOK:
+	 CLOCK: [2013-11-24 Sun 12:45]
+	 CLOCK: [2013-11-24 Sun 10:43]--[2013-11-24 Sun 12:10] =>  1:27
 	 CLOCK: [2013-11-24 Sun 09:55]--[2013-11-24 Sun 10:02] =>  0:07
 	 :END:
 ******* TODO Lectures
