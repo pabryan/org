@@ -5570,10 +5570,11 @@ Lectures in calendar and tasks like planning lectures.
 	 :PROPERTIES:
 	 :ID:       3bde4c8d-dafb-459c-94ce-8713ee97219b
 	 :END:
-******** NEXT Write homework 4 solutions
+******** DONE Write homework 4 solutions
 	 DEADLINE: <2013-11-24 Sun>
 	 :LOGBOOK:
-	 CLOCK: [2013-11-24 Sun 12:45]
+	 - State "DONE"       from "NEXT"       [2013-11-24 Sun 14:04]
+	 CLOCK: [2013-11-24 Sun 12:45]--[2013-11-24 Sun 13:25] =>  0:40
 	 CLOCK: [2013-11-24 Sun 10:43]--[2013-11-24 Sun 12:10] =>  1:27
 	 CLOCK: [2013-11-24 Sun 09:55]--[2013-11-24 Sun 10:02] =>  0:07
 	 :END:
@@ -6739,12 +6740,16 @@ Less questions!
 	  :ID:       0dbdb61e-201c-479a-9d96-cd5f7e2efaff
 	  :END:
 
-********* NEXT Prepare Lecture 9.1
+********* DONE Prepare Lecture 9.1
 	  DEADLINE: <2013-11-25 Mon>
+	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2013-11-24 Sun 14:04]
+	  CLOCK: [2013-11-24 Sun 13:25]--[2013-11-24 Sun 14:04] =>  0:39
+	  :END:
 	  :PROPERTIES:
 	  :ID:       f8317796-47bd-47b3-8f6d-8beab0c879d8
 	  :END:
-********* TODO Prepare Lecture 9.2
+********* NEXT Prepare Lecture 9.2
 	  DEADLINE: <2013-11-27 Wed>
 	  :PROPERTIES:
 	  :ID:       285c1d43-6e2a-49e1-b114-585abecbb149
