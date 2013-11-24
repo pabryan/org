@@ -5518,8 +5518,10 @@ Lectures in calendar and tasks like planning lectures.
 	  :PROPERTIES:
 	  :ID:       3336f694-b673-4c6c-8a37-935a3920d638
 	  :END:
-******* DONE Homework
+******* TODO Homework
 	:LOGBOOK:
+	- State "TODO"       from "DONE"       [2013-11-24 Sun 09:54] \\
+	  Reinstated to write homework solutions.
 	- State "DONE"       from "TODO"       [2013-11-22 Fri 21:33]
 	:END:
 	:PROPERTIES:
@@ -5558,6 +5560,7 @@ Lectures in calendar and tasks like planning lectures.
 	 :PROPERTIES:
 	 :ID:       9e2b4c6c-affb-4f7c-ad52-f804b49c6237
 	 :END:
+
 ******** DONE Write Homework 5
 	 DEADLINE: <2013-11-22 Fri>
 	 :LOGBOOK:
@@ -5566,6 +5569,11 @@ Lectures in calendar and tasks like planning lectures.
 	 :END:
 	 :PROPERTIES:
 	 :ID:       3bde4c8d-dafb-459c-94ce-8713ee97219b
+	 :END:
+******** NEXT Write homework 4 solutions
+	 DEADLINE: <2013-11-24 Sun>
+	 :LOGBOOK:
+	 CLOCK: [2013-11-24 Sun 09:55]--[2013-11-24 Sun 10:02] =>  0:07
 	 :END:
 ******* TODO Lectures
 	:PROPERTIES:
