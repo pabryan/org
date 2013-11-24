@@ -5573,6 +5573,7 @@ Lectures in calendar and tasks like planning lectures.
 ******** DONE Write homework 4 solutions
 	 DEADLINE: <2013-11-24 Sun>
 	 :LOGBOOK:
+	 CLOCK: [2013-11-24 Sun 14:16]--[2013-11-24 Sun 14:25] =>  0:09
 	 - State "DONE"       from "NEXT"       [2013-11-24 Sun 14:04]
 	 CLOCK: [2013-11-24 Sun 12:45]--[2013-11-24 Sun 13:25] =>  0:40
 	 CLOCK: [2013-11-24 Sun 10:43]--[2013-11-24 Sun 12:10] =>  1:27
