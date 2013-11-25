@@ -6521,6 +6521,7 @@ Less questions!
 	  :END:
 ******** TODO Prepare Lectures
 	 :LOGBOOK:
+	 CLOCK: [2013-11-25 Mon 11:45]
 	 :END:
 	 :PROPERTIES:
 	 :ID:       2a2ba26b-495a-48a8-8fcc-d023c59733fd
@@ -6753,10 +6754,11 @@ Less questions!
 	  :PROPERTIES:
 	  :ID:       f8317796-47bd-47b3-8f6d-8beab0c879d8
 	  :END:
-********* NEXT Prepare Lecture 9.2
+********* DONE Prepare Lecture 9.2
 	  DEADLINE: <2013-11-27 Wed>
 	  :LOGBOOK:
-	  CLOCK: [2013-11-25 Mon 11:26]
+	  - State "DONE"       from "NEXT"       [2013-11-25 Mon 11:45]
+	  CLOCK: [2013-11-25 Mon 11:26]--[2013-11-25 Mon 11:45] =>  0:19
 	  :END:
 	  :PROPERTIES:
 	  :ID:       285c1d43-6e2a-49e1-b114-585abecbb149
