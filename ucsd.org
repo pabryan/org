@@ -7292,21 +7292,56 @@ See Holding email.
 - Can we do it informally off the books? 
 - Can we do formally, but without counting towards units.
 - This for Caitlin N Endler <cendler@ucsd.edu>
-***** Matt Groesbeck
-****** Meeting
-       :LOGBOOK:
-       CLOCK: [2013-11-20 Wed 12:03]--[2013-11-20 Wed 13:10] =>  1:07
-       :END:
-<2013-11-20 Wed 12:
-***** Caitlin Endler
-****** Meeting
-       :LOGBOOK:
-       CLOCK: [2013-11-22 Fri 12:05]--[2013-11-22 Fri 12:55] =>  0:50
-       :END:
-       :PROPERTIES:
-       :ID:       16495a6e-8666-416b-8e38-f96a7ecc9a19
-       :END:
-<2013-11-22 Fri 12:00-13:00>
+***** TODO Curve shortening on sphere
+****** TODO Tasks
+******* NEXT Collect references
+******* NEXT Write max principle/viscosity equations
+****** Refs
+******* Curvature bound for curve shortening flow via distance comparison and a direct proof of {G}rayson's theorem
+:PROPERTIES:
+:Custom_ID: MR2794630
+:END:
+[[papers:MR2794630][MR2794630-paper]]
+[[bib:MR2794630][MR2794630-bib]]
+******* A distance comparison principle for evolving curves
+:PROPERTIES:
+:Custom_ID: MR1656553
+:END:
+[[papers:MR1656553][MR1656553-paper]]
+[[bib:MR1656553][MR1656553-bib]]
+******* The heat equation shrinking convex plane curves
+:PROPERTIES:
+:Custom_ID: MR840401
+:END:
+[[papers:MR840401][MR840401-paper]]
+[[bib:MR840401][MR840401-bib]]
+******* Curve shortening makes convex curves circular
+:PROPERTIES:
+:Custom_ID: MR742856
+:END:
+[[papers:MR742856][MR742856-paper]]
+[[bib:MR742856][MR742856-bib]]
+******* An isoperimetric inequality with applications to curve shortening
+:PROPERTIES:
+:Custom_ID: MR726325
+:END:
+[[papers:MR726325][MR726325-paper]]
+[[bib:MR726325][MR726325-bib]]
+****** Notes
+****** Meetings
+******* Matt Groesbeck
+	:LOGBOOK:
+	CLOCK: [2013-11-20 Wed 12:03]--[2013-11-20 Wed 13:10] =>  1:07
+	:END:
+	<2013-11-20 Wed 12:00-13:00>
+******* Caitlin Endler
+	:LOGBOOK:
+	CLOCK: [2013-11-22 Fri 12:05]--[2013-11-22 Fri 12:55] =>  0:50
+	:END:
+	:PROPERTIES:
+	:ID:       16495a6e-8666-416b-8e38-f96a7ecc9a19
+	:END:
+	<2013-11-22 Fri 12:00-13:00>
 * Seminars 							    :SEMINAR:
   :PROPERTIES:
   :ID:       4a7b50f0-8368-4d3a-bc5d-c0e229fd442f
