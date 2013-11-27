@@ -5846,6 +5846,9 @@ Lectures in calendar and tasks like planning lectures.
 
 ********* NEXT Prepare Lecture 10.1
 	   DEADLINE: <2013-12-02 Mon>
+	   :LOGBOOK:
+	   CLOCK: [2013-11-27 Wed 11:19]--[2013-11-27 Wed 11:58] =>  0:39
+	   :END:
 	   :PROPERTIES:
 	   :ID:       f8317796-47bd-47b3-8f6d-8beab0c879d8
 	   :END:
@@ -6776,8 +6779,11 @@ Less questions!
 	  :ID:       0dbdb61e-201c-479a-9d96-cd5f7e2efaff
 	  :END:
 
-********* TODO Prepare Lecture 10.1
+********* NEXT Prepare Lecture 10.1
 	  DEADLINE: <2013-12-02 Mon>
+	  :LOGBOOK:
+	  CLOCK: [2013-11-27 Wed 11:58]
+	  :END:
 	  :PROPERTIES:
 	  :ID:       f8317796-47bd-47b3-8f6d-8beab0c879d8
 	  :END:
