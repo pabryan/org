@@ -5512,8 +5512,11 @@ Lectures in calendar and tasks like planning lectures.
 	  :PROPERTIES:
 	  :ID:       543ac8e6-b366-4ea3-8598-1751d529ab17
 	  :END:
-********* TODO Update exam based on TA's comments
+********* NEXT Update exam based on TA's comments
 	  DEADLINE: <2013-12-06 Fri>
+	  :LOGBOOK:
+	  CLOCK: [2013-11-27 Wed 19:24]--[2013-11-27 Wed 20:28] =>  1:04
+	  :END:
 	  :PROPERTIES:
 	  :ID:       87b6a3a9-ee34-46b8-ab6d-d5d2d0a2aa11
 	  :END:
