@@ -7325,6 +7325,9 @@ See Holding email.
 ****** TODO Tasks
 ******* NEXT Collect references
 ******* NEXT Write max principle/viscosity equations
+	:LOGBOOK:
+	CLOCK: [2013-11-27 Wed 13:00]--[2013-11-27 Wed 14:50] =>  1:50
+	:END:
 ****** Refs
 ******* Curvature bound for curve shortening flow via distance comparison and a direct proof of {G}rayson's theorem
 :PROPERTIES:
@@ -7371,6 +7374,7 @@ See Holding email.
 	:ID:       16495a6e-8666-416b-8e38-f96a7ecc9a19
 	:END:
 	<2013-11-22 Fri 12:00-13:00>
+****** Clocking
 * Seminars 							    :SEMINAR:
   :PROPERTIES:
   :ID:       4a7b50f0-8368-4d3a-bc5d-c0e229fd442f
