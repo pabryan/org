@@ -5850,6 +5850,7 @@ Lectures in calendar and tasks like planning lectures.
 ********* NEXT Prepare Lecture 10.1
 	   DEADLINE: <2013-12-02 Mon>
 	   :LOGBOOK:
+	   CLOCK: [2013-11-28 Thu 17:11]
 	   CLOCK: [2013-11-27 Wed 12:03]--[2013-11-27 Wed 12:08] =>  0:05
 	   CLOCK: [2013-11-27 Wed 11:19]--[2013-11-27 Wed 11:58] =>  0:39
 	   :END:
