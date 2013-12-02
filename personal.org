@@ -150,8 +150,9 @@ END:
    
 ** Bills 
 *** TODO Pay rent
-    SCHEDULED: <2013-12-01 Sun +1m>    
+    SCHEDULED: <2014-01-01 Wed +1m>    
    :LOGBOOK:
+   - State "DONE"       from "TODO"       [2013-12-02 Mon 12:27]
    - State "DONE"       from "TODO"       [2013-11-01 Fri 12:35]
    - State "DONE"       from "TODO"       [2013-10-01 Tue 20:16]
    - State "DONE"       from "TODO"       [2013-09-01 Sun 10:46]
@@ -167,11 +168,11 @@ END:
    - State "DONE"       from "TODO"       [2012-12-01 Sat 09:29]
    - State "DONE"       from "TODO"       [2012-11-02 Fri 16:08]
    :END:
-   DEADLINE: <2013-12-05 Thu +1m>
+   DEADLINE: <2014-01-05 Sun +1m>
 
    :PROPERTIES:
    :ID:       ea07bf7b-9f89-49bf-90db-3e167baff163
-   :LAST_REPEAT: [2013-11-01 Fri 12:35]
+   :LAST_REPEAT: [2013-12-02 Mon 12:27]
    :END:
    [2012-10-17 Wed 14:44]
 
@@ -179,8 +180,9 @@ Use account A11078844
 [[https://act.ucsd.edu/studentBilling/billing]]
 
 *** TODO Pay ATT
-    SCHEDULED: <2013-12-01 Sun +1m> 
+    SCHEDULED: <2014-01-01 Wed +1m> 
     :LOGBOOK:
+    - State "DONE"       from "TODO"       [2013-12-02 Mon 12:27]
     - State "DONE"       from "TODO"       [2013-11-01 Fri 12:39]
     - State "DONE"       from "TODO"       [2013-10-01 Tue 20:20]
     - State "DONE"       from "TODO"       [2013-09-01 Sun 10:46]
@@ -191,7 +193,7 @@ Use account A11078844
     - State "DONE"       from "TODO"       [2013-04-02 Tue 21:33]
     :END:
     :PROPERTIES:
-    :LAST_REPEAT: [2013-11-01 Fri 12:39]
+    :LAST_REPEAT: [2013-12-02 Mon 12:27]
     :ID:       137987c4-8151-42f0-bfad-b1e06d2cd512
     :END:
 [[http://www.att.com/]]

@@ -5858,7 +5858,7 @@ Lectures in calendar and tasks like planning lectures.
 	   :PROPERTIES:
 	   :ID:       f8317796-47bd-47b3-8f6d-8beab0c879d8
 	   :END:
-********* TODO Prepare Lecture 10.2
+********* NEXT Prepare Lecture 10.2
 	   DEADLINE: <2013-12-04 Wed>
 	   :PROPERTIES:
 	   :ID:       285c1d43-6e2a-49e1-b114-585abecbb149
@@ -6001,6 +6001,9 @@ WLH 2208
 ********* Lecture 10.1
 	  :LOGBOOK:
 	  CLOCK: [2013-12-02 Mon 09:55]--[2013-12-02 Mon 11:10] =>  1:15
+	  :END:
+	  :PROPERTIES:
+	  :ID:       bcf89f02-425b-4461-8cf4-ec131a9d734a
 	  :END:
 <2013-12-02 Mon 10:00-11:00>
 ******** Wed
@@ -6800,7 +6803,7 @@ Less questions!
 	  :PROPERTIES:
 	  :ID:       f8317796-47bd-47b3-8f6d-8beab0c879d8
 	  :END:
-********* TODO Prepare Lecture 10.2
+********* NEXT Prepare Lecture 10.2
 	  DEADLINE: <2013-12-04 Wed>
 	  :PROPERTIES:
 	  :ID:       285c1d43-6e2a-49e1-b114-585abecbb149
@@ -6963,6 +6966,9 @@ CENTR 101
 ********* Lecture 10.1
 	  :LOGBOOK:
 	  CLOCK: [2013-12-02 Mon 08:50]--[2013-12-02 Mon 09:55] =>  1:05
+	  :END:
+	  :PROPERTIES:
+	  :ID:       b8015515-f7cc-4b0f-a8bd-00122e5c0e89
 	  :END:
 <2013-12-02 Mon 09:00-10:00>
 ******** Wed
@@ -7336,11 +7342,23 @@ http://urp.ucsd.edu/
 - Can we do formally, but without counting towards units.
 - This for Caitlin N Endler <cendler@ucsd.edu>
 ***** TODO Curve shortening on sphere
+      :PROPERTIES:
+      :ID:       5a9d45e8-9045-4a2d-bb61-7068ba0aa969
+      :END:
 ****** TODO Tasks
+       :PROPERTIES:
+       :ID:       b62885d4-c355-41da-a8e3-8a8cb7aa088d
+       :END:
 ******* NEXT Collect references
+	:PROPERTIES:
+	:ID:       89adb918-2f42-4401-b90f-e4309b2699a7
+	:END:
 ******* NEXT Write max principle/viscosity equations
 	:LOGBOOK:
 	CLOCK: [2013-11-27 Wed 13:00]--[2013-11-27 Wed 14:50] =>  1:50
+	:END:
+	:PROPERTIES:
+	:ID:       2d9e0058-93f6-43ab-9948-7e91feb865ed
 	:END:
 ****** Refs
 ******* Curvature bound for curve shortening flow via distance comparison and a direct proof of {G}rayson's theorem

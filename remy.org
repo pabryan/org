@@ -319,8 +319,11 @@ Any Halloween Decorations that you would like to contribute to make the MPR spoo
 <2013-08-28 Wed>
 ***** Gingerbread decorating
 <2013-12-18 Wed 14:00-15:30>
-****** TODO Pay for gingerbread decorating
+****** DONE Pay for gingerbread decorating
        DEADLINE: <2013-12-06 Fri>
+       :LOGBOOK:
+       - State "DONE"       from "TODO"       [2013-12-02 Mon 12:28]
+       :END:
        :PROPERTIES:
        :ID:       d8b489f2-ea26-48fd-8d44-f60483172b41
        :END:
