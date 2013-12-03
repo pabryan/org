@@ -15,6 +15,14 @@
 :Custom_ID: MR2948294
 :END:
 [[papers:MR2948294][MR2948294-paper]]
+** 28  (1940-now) Measure and integration [For analysis on manifolds, see 58-XX]
+*** 28.80 (1959-1972) Length, area, volume; other geometric measure theory
+**** Geometric measure theory
+:PROPERTIES:
+:Custom_ID: MR0257325x
+:END:
+[[papers:MR0257325x][MR0257325x-paper]]
+[[bib:MR0257325x][MR0257325x-bib]]
 ** 35 Partial differential equations					:pde:
 *** 35J  (1973-now) Elliptic equations and systems [See also 58J10, 58J20]
 **** 35J55  (1973-2009) Boundary value problems for elliptic systems
@@ -91,6 +99,13 @@
 [[papers:MR1912903][MR1912903-paper]]
    
 ** 49   (1940-now) Calculus of variations and optimal control; optimization [See also 34H05, 34K35, 65Kxx, 90Cxx, 93-XX] :calculus_variations:optimal_control:optimization:
+*** 49-01  (1973-now) Instructional exposition (textbooks, tutorial papers, etc.)
+**** Geometric measure theory
+:PROPERTIES:
+:Custom_ID: MR2455580
+:END:
+[[papers:MR2455580][MR2455580-paper]]
+[[bib:MR2455580][MR2455580-bib]]
 *** 49L   (1991-now) Hamilton-Jacobi theories, including dynamic programming :hamilton_jacobi:dynamic_programming:
 **** 49L20   (1991-now) Dynamic programming method
 ***** Hamilton-{J}acobi equations and distance functions on {R}iemannian manifolds :geometry:manifolds:distance:riemannian:
@@ -161,6 +176,12 @@
 :Custom_ID: MR764944
 :END:
 [[papers:MR764944][MR764944-paper]]
+***** Geodesics and soap bubbles in surfaces
+:PROPERTIES:
+:Custom_ID: MR1417428
+:END:
+[[papers:MR1417428][MR1417428-paper]]
+[[bib:MR1417428][MR1417428-bib]]
 **** 53A04   (1980-now) Curves in Euclidean space :curves:euclidean:submanifold:
 ***** The heat equation shrinking convex plane curves :plane:convex:evolution:csf:
 :PROPERTIES:
@@ -234,6 +255,18 @@
 :END:
 [[papers:MR875084][MR875084-paper]]
 [[bib:MR875084][MR875084-bib]]
+***** The volume of a small geodesic ball of a {R}iemannian manifold
+:PROPERTIES:
+:Custom_ID: MR0339002
+:END:
+[[papers:MR0339002][MR0339002-paper]]
+[[bib:MR0339002][MR0339002-bib]]
+***** On asymptotic volume of tori
+:PROPERTIES:
+:Custom_ID: MR1354290
+:END:
+[[papers:MR1354290][MR1354290-paper]]
+[[bib:MR1354290][MR1354290-bib]]
 **** 53C21   (1980-now) Methods of Riemannian geometry, including PDE methods; curvature restrictions :riemannian:
 ***** An isoperimetric estimate for the {R}icci flow on the two-sphere :ricci_flow:isoperimetric:surfaces:evolution:
 :PROPERTIES:
@@ -528,6 +561,13 @@
 :END:
 [[papers:MR2189687][MR2189687-paper]]
 [[bib:MR2189687][MR2189687-bib]]
+***** The isoperimetric problem on surfaces of revolution of decreasing {G}auss curvature
+:PROPERTIES:
+:Custom_ID: MR1661278
+:END:
+[[papers:MR1661278][MR1661278-paper]]
+[[bib:MR1661278][MR1661278-bib]]
+
 **** 58E15   (1973-now) Application to extremal problems in several variables; Yang-Mills functionals [See also 81T13], etc. :yang_mills:high_dimensino:
 ***** Contraction of convex hypersurfaces by their affine normal :convex:hypersurfaces:affine:evolution:
 :PROPERTIES:
@@ -642,13 +682,6 @@ Here I need to do some more work since $u \mapsto g(\grad u, \grad u)$ is not a 
 :END:
 [[papers:MR2170766][MR2170766-paper]]
 
-** Books
-*** Geometric measure theory
-:PROPERTIES:
-:Custom_ID: MR0257325x
-:END:
-[[papers:MR0257325x][MR0257325x-paper]]
-[[bib:MR0257325x][MR0257325x-bib]]
 * ArXiv 							      :arxiv:
   :PROPERTIES:
   :COLUMNS: %75ITEM %TAGS
