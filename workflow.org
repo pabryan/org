@@ -95,7 +95,7 @@ Should be able to insert lecture planning/homework etc with a yassnippet?
 [2013-09-30 Mon 21:15]
 Add goals to agenda to remind myself each day. E.g. work, diet, exercise, general things like be patient, don't over-explain things etc.
 **** TODO Setup some agenda filter macros
-  SCHEDULED: <2013-12-03 Tue>
+  SCHEDULED: <2013-12-09 Mon>
   :PROPERTIES:
   :ID:       b7060562-fc53-44b0-8f52-d84dce4c177f
   :END:
@@ -470,7 +470,7 @@ If I'm working on a project, I want an agenda view showing me just that project.
 [2013-03-14 Thu 14:05]
 
 *** NEXT Use org-checklists
-    SCHEDULED: <2013-12-03 Tue>
+    SCHEDULED: <2013-12-09 Mon>
     :LOGBOOK:
     - State "NEXT"       from "WAITING"    [2013-10-27 Sun 20:31] \\
       I doesn't seem to work on Ubuntu 12.04. Maybe I need to downgrade it?
@@ -2724,8 +2724,10 @@ When I set up scoring the day:
 - [ ] Collate data such as sleep, weight, exercise, diet etc.
 
 ** NEXT Daily Plan [0/4]
-   SCHEDULED: <2013-12-03 Tue .+1d/2d>
+   SCHEDULED: <2013-12-04 Wed .+1d/2d>
    :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2013-12-03 Tue 07:29]
+   CLOCK: [2013-12-03 Tue 07:26]--[2013-12-03 Tue 07:29] =>  0:03
    - State "DONE"       from "NEXT"       [2013-12-02 Mon 12:28]
    CLOCK: [2013-12-02 Mon 11:57]--[2013-12-02 Mon 12:28] =>  0:31
    - State "DONE"       from "NEXT"       [2013-11-28 Thu 10:59]
@@ -3073,7 +3075,7 @@ When I set up scoring the day:
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
    :ID:       ef051ee0-1113-4604-b355-450a5a47848b
-   :LAST_REPEAT: [2013-12-02 Mon 12:28]
+   :LAST_REPEAT: [2013-12-03 Tue 07:29]
    :END:
 
 - [ ] Check agenda/focus
