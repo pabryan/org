@@ -6390,8 +6390,13 @@ Lectures in calendar and tasks like planning lectures.
 	  :PROPERTIES:
 	  :ID:       4e9247f6-a5de-4483-8def-e9a9135050a1
 	  :END:
-********* NEXT Update exam based on TA's comments
+********* WAITING Update exam based on TA's comments
 	  DEADLINE: <2013-12-06 Fri>
+	  :LOGBOOK:
+	  - State "WAITING"    from "NEXT"       [2013-12-03 Tue 12:03] \\
+	    Sent to TA's for review.
+	  CLOCK: [2013-12-03 Tue 11:06]--[2013-12-03 Tue 12:04] =>  0:58
+	  :END:
 	  :PROPERTIES:
 	  :ID:       e814325e-019b-485b-ae72-1be5b802501a
 	  :END:
