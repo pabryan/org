@@ -603,15 +603,9 @@ Try to use as much available software that I can find. Do it like Sage - don't r
        	:PROPERTIES:
        	:ID:       f275815c-cbd9-4226-aa90-04753e3fe110
        	:END:
-******* NEXT Write hyperbolic quadratic comparison
-       	:LOGBOOK:
-       	CLOCK: [2013-01-14 Mon 16:45]--[2013-01-14 Mon 16:48] =>  0:03
-       	:END:
-       	:PROPERTIES:
-       	:ID:       ab49f64c-36f6-476f-9e02-b0ec9d72552f
-       	:END:
-******* NEXT Write hyperbolic stationary comparison
+******* DONE Write hyperbolic stationary comparison
 	:LOGBOOK:
+	- State "DONE"       from "NEXT"       [2013-12-03 Tue 13:08]
 	CLOCK: [2013-10-05 Sat 16:13]--[2013-10-05 Sat 19:50] =>  3:37
 	CLOCK: [2013-10-05 Sat 14:18]--[2013-10-05 Sat 15:02] =>  0:44
 	:END:
