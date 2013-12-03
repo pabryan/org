@@ -32,6 +32,19 @@
 :END:
 [[papers:MR1986239][MR1986239-paper]]
 [[bib:MR1986239][MR1986239-bib]]
+**** 35J60  (1973-now) Nonlinear elliptic equations
+***** Fully nonlinear elliptic equations
+:PROPERTIES:
+:Custom_ID: MR1351007
+:END:
+[[papers:MR1351007][MR1351007-paper]]
+[[bib:MR1351007][MR1351007-bib]]
+***** On viscosity solutions of fully nonlinear equations with measurable ingredients
+:PROPERTIES:
+:Custom_ID: MR1376656
+:END:
+[[papers:MR1376656][MR1376656-paper]]
+[[bib:MR1376656][MR1376656-bib]]
 *** 35K   (1973-now) Parabolic equations and systems [See also 35Bxx, 35Dxx, 35R30, 35R35, 58J35] :parabolic:
 **** 35K55  (1973-now) Nonlinear parabolic equations	:nonlinear:parabolic:
 ***** Convex curves moving translationally in the plane :convex:curves:translation:plane:geometry:evolution:
@@ -280,6 +293,18 @@
 :END:
 [[papers:MR954419][MR954419-paper]]
 [[bib:MR954419][MR954419-bib]]
+***** A differential inequality for the isoperimetric profile
+:PROPERTIES:
+:Custom_ID: MR2041647
+:END:
+[[papers:MR2041647][MR2041647-paper]]
+[[bib:MR2041647][MR2041647-bib]]
+***** Some isoperimetric comparison theorems for convex bodies in {R}iemannian manifolds
+:PROPERTIES:
+:Custom_ID: MR2177105
+:END:
+[[papers:MR2177105][MR2177105-paper]]
+[[bib:MR2177105][MR2177105-bib]]
 **** 53C21   (1980-now) Methods of Riemannian geometry, including PDE methods; curvature restrictions :riemannian:
 ***** An isoperimetric estimate for the {R}icci flow on the two-sphere :ricci_flow:isoperimetric:surfaces:evolution:
 :PROPERTIES:
