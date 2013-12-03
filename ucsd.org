@@ -5503,9 +5503,10 @@ Lectures in calendar and tasks like planning lectures.
 	  :PROPERTIES:
 	  :ID:       9d9d60a7-9ba7-4df3-aa2b-1261ac960b66
 	  :END:
-********* WAITING Get TA's comments
+********* DONE Get TA's comments
 	  DEADLINE: <2013-12-04 Wed>
 	  :LOGBOOK:
+	  - State "DONE"       from "WAITING"    [2013-12-02 Mon 20:57]
 	  - State "WAITING"    from "TODO"       [2013-11-23 Sat 22:14] \\
 	    Sent to TA for comments.
 	  :END:
@@ -6372,16 +6373,17 @@ Lectures in calendar and tasks like planning lectures.
 	  :PROPERTIES:
 	  :ID:       7f9d13da-1e61-48f1-98c9-890d035716f7
 	  :END:
-********* WAITING Get TA's comments
+********* DONE Get TA's comments
 	  DEADLINE: <2013-12-04 Wed>
 	  :LOGBOOK:
+	  - State "DONE"       from "WAITING"    [2013-12-02 Mon 20:57]
 	  - State "WAITING"    from "TODO"       [2013-11-23 Sat 22:15] \\
 	    Sent to TA for comments.
 	  :END:
 	  :PROPERTIES:
 	  :ID:       4e9247f6-a5de-4483-8def-e9a9135050a1
 	  :END:
-********* TODO Update exam based on TA's comments
+********* NEXT Update exam based on TA's comments
 	  DEADLINE: <2013-12-06 Fri>
 	  :PROPERTIES:
 	  :ID:       e814325e-019b-485b-ae72-1be5b802501a
