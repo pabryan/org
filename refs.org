@@ -24,6 +24,14 @@
 [[papers:MR0257325][MR0257325-paper]]
 [[bib:MR0257325][MR0257325-bib]]
 ** 35 Partial differential equations					:pde:
+*** 35F (1973-now) General first-order equations and systems
+**** 35F20 (1973-now) Nonlinear first-order equations
+***** Viscosity solutions of {H}amilton-{J}acobi equations
+:PROPERTIES:
+:Custom_ID: MR690039
+:END:
+[[papers:MR690039][MR690039-paper]]
+[[bib:MR690039][MR690039-bib]]
 *** 35J  (1973-now) Elliptic equations and systems [See also 58J10, 58J20]
 **** 35J55  (1973-2009) Boundary value problems for elliptic systems
 ***** Viscosity solutions of fully nonlinear degenerated elliptic systems
