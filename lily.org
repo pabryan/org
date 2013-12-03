@@ -24,8 +24,11 @@ I need free close by activities: playground, beach, library?
    :END:
 [2013-01-22 Tue 10:19]
 858-534-5246
-** TODO Swimming, pre-school for Lily
+** DONE Swimming, pre-school for Lily
   SCHEDULED: <2013-11-15 Fri>
+  :LOGBOOK:
+  - State "DONE"       from "TODO"       [2013-12-02 Mon 21:13]
+  :END:
    :PROPERTIES:
    :ID:       c64e647f-9d63-4e0b-a22c-3981e846ca6d
    :END:
@@ -46,6 +49,17 @@ paper
 Glue
 Pipe cleaners
 Keep boxes, rocks, toilet rolls
+** 2013/2014
+*** Winter 2014
+**** Swimming
+***** Swimming session
+<2014-01-14 Tue 17:00-17:50>
+***** Swimming session
+<2014-02-04 Tue 17:00-17:50>
+***** Swimming session
+<2014-01-16 Thu 17:00-17:50>
+***** Swimming session
+<2014-02-06 Thu 17:00-17:50>
 * Health
   :PROPERTIES:
   :ID:       e8188a45-996a-440a-8a21-e2b3a92c7414

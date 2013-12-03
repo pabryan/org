@@ -8002,9 +8002,10 @@ Round Table Pizza.
   :ID:       8e35d018-64ec-4011-b296-8a4598d5356f
   :END:
 ** Forms
-*** WAITING Get travel signature for DS-2019
+*** DONE Get travel signature for DS-2019
   SCHEDULED: <2013-11-11 Mon>
   :LOGBOOK:
+  - State "DONE"       from "WAITING"    [2013-12-02 Mon 21:13]
   - State "WAITING"    from "TODO"       [2013-11-15 Fri 20:02] \\
     Submitted request. Should get it next Tuesday.
   CLOCK: [2013-11-08 Fri 13:28]--[2013-11-08 Fri 13:29] =>  0:01
