@@ -42,10 +42,9 @@ END:
 | Cloud           |    13 |
 | tritoncash      |    25 |
 | Netflix         |    10 |
-| Naturebox       |    20 |
 | Pets            |    25 |
 |                 |       |
-| Extras Subtotal |   203 |
+| Extras Subtotal |   183 |
 |                 |       |
 | Organic Box     |   250 |
 | Weekly Food     |   350 |
@@ -57,8 +56,8 @@ END:
 |                 |       |
 | Pay             | -3800 |
 |                 |       |
-| Total           |  -136 |
-   #+TBLFM: @8$2=vsum(@2$2..@7$2)::@18$2=vsum(@10..@17)::@20$2=250::@24$2=vsum(@20..@23)::@26$2=remote(Australia,@8$2)::@30$2=@8$2+@18$2+@24$2+@26$2+@28$2
+| Total           |  -156 |
+   #+TBLFM: @8$2=vsum(@2$2..@7$2)::@17$2=vsum(@10..@16)::@19$2=250::@23$2=vsum(@19..@22)::@25$2=remote(Australia,@8$2)::@29$2=@8$2+@17$2+@23$2+@25$2+@27$2
 
 
 #+TBLNAME: MonthlyFood 
