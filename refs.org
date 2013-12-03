@@ -642,6 +642,13 @@ Here I need to do some more work since $u \mapsto g(\grad u, \grad u)$ is not a 
 :END:
 [[papers:MR2170766][MR2170766-paper]]
 
+** Books
+*** Geometric measure theory
+:PROPERTIES:
+:Custom_ID: MR0257325x
+:END:
+[[papers:MR0257325x][MR0257325x-paper]]
+[[bib:MR0257325x][MR0257325x-bib]]
 * ArXiv 							      :arxiv:
   :PROPERTIES:
   :COLUMNS: %75ITEM %TAGS

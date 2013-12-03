@@ -538,8 +538,9 @@ Try to use as much available software that I can find. Do it like Sage - don't r
        	:PROPERTIES:
        	:ID:       1335d91c-32ec-499b-943b-107a42556b29
        	:END:
-******* NEXT Transcribe from notebooks into computer
+******* DONE Transcribe from notebooks into computer
        	:LOGBOOK:
+	- State "DONE"       from "NEXT"       [2013-12-03 Tue 13:09]
        	CLOCK: [2013-01-09 Wed 14:37]--[2013-01-09 Wed 15:04] =>  0:27
        	CLOCK: [2013-01-09 Wed 14:06]--[2013-01-09 Wed 14:31] =>  0:25
        	CLOCK: [2013-01-09 Wed 13:09]--[2013-01-09 Wed 13:49] =>  0:40
@@ -551,8 +552,9 @@ Try to use as much available software that I can find. Do it like Sage - don't r
        	:PROPERTIES:
        	:ID:       c7d8d816-7767-4384-9e6b-ee1bbd453e62
        	:END:
-******* NEXT Make scans of working 
+******* DONE Make scans of working 
   :LOGBOOK:
+  - State "DONE"       from "NEXT"       [2013-12-03 Tue 13:09]
   CLOCK: [2013-01-09 Wed 12:58]--[2013-01-09 Wed 13:09] =>  0:11
   :END:
     :PROPERTIES:
