@@ -631,6 +631,9 @@ Try to use as much available software that I can find. Do it like Sage - don't r
        	:ID:       bbf31667-eee4-439b-abd6-cb0fd52e37fe
        	:END:
 ******* NEXT Make 1st draft
+	:LOGBOOK:
+	CLOCK: [2013-12-03 Tue 13:10]--[2013-12-03 Tue 14:02] =>  0:52
+	:END:
        :PROPERTIES:
        :ID:       5349a44a-61b3-4ba2-b795-cb73eac3482b
        :END:
