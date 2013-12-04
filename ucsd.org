@@ -6396,6 +6396,7 @@ Lectures in calendar and tasks like planning lectures.
 ********* WAITING Update exam based on TA's comments
 	  DEADLINE: <2013-12-06 Fri>
 	  :LOGBOOK:
+	  CLOCK: [2013-12-04 Wed 12:28]--[2013-12-04 Wed 12:43] =>  0:15
 	  - State "WAITING"    from "NEXT"       [2013-12-03 Tue 12:03] \\
 	    Sent to TA's for review.
 	  CLOCK: [2013-12-03 Tue 11:06]--[2013-12-03 Tue 12:04] =>  0:58
