@@ -374,7 +374,6 @@
 :END:
 [[papers:MR1173029][MR1173029-paper]]
 
-
 ***** Stability of hypersurfaces of constant mean curvature in {R}iemannian manifolds :cmc:stability:hypersurface:
 :PROPERTIES:
 :Custom_ID: MR917854
@@ -382,6 +381,12 @@
 [[papers:MR917854][MR917854-paper]]
 [[bib:MR917854][MR917854-bib]]
 [[MR:MR917854][MR917854-MR]]
+***** A survey on {A}lexandrov-{B}ernstein-{H}opf theorems
+:PROPERTIES:
+:Custom_ID: MR2584182
+:END:
+[[papers:MR2584182][MR2584182-paper]]
+[[bib:MR2584182][MR2584182-bib]]
 **** 53C44 (2000-now) Geometric evolution equations (mean curvature flow, Ricci flow, etc.) :evolution:
 ***** Curvature bounds by isoperimetric comparison for normalized {R}icci flow on the two-sphere :ricci_flow:surfaces:isoperimetric:
 :PROPERTIES:
