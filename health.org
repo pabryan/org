@@ -229,8 +229,9 @@
     - State "DONE"       from "NEXT"       [2013-03-09 Sat 11:10]
     :END:
 *** NEXT Morning Mobility
-    SCHEDULED: <2013-12-06 Fri .+1d/2d>
+    SCHEDULED: <2013-12-07 Sat .+1d/2d>
     :LOGBOOK:
+    - State "DONE"       from "NEXT"       [2013-12-06 Fri 20:47]
     - State "DONE"       from "NEXT"       [2013-12-05 Thu 10:05]
     - State "DONE"       from "NEXT"       [2013-12-04 Wed 11:57]
     - State "DONE"       from "NEXT"       [2013-12-03 Tue 11:07]
@@ -500,12 +501,13 @@
     :STYLE:    habit
     :REPEAT_TO_STATE: NEXT
     :ID:       0e75f56d-0356-4a0f-a376-080471ad4aad
-    :LAST_REPEAT: [2013-12-05 Thu 10:05]
+    :LAST_REPEAT: [2013-12-06 Fri 20:47]
     :END:
 
 *** NEXT Afternoon Relax
-    SCHEDULED: <2013-12-05 Thu .+1d/2d>
+    SCHEDULED: <2013-12-07 Sat .+1d/2d>
     :LOGBOOK:
+    - State "DONE"       from "NEXT"       [2013-12-06 Fri 20:47]
     - State "DONE"       from "NEXT"       [2013-12-04 Wed 18:13]
     - State "DONE"       from "NEXT"       [2013-12-02 Mon 20:47]
     - State "DONE"       from "NEXT"       [2013-11-28 Thu 17:01]
@@ -667,7 +669,7 @@
     :STYLE:    habit
     :REPEAT_TO_STATE: NEXT
     :ID:       c0aaf33a-af77-446b-b9fd-cf2d2f78c12a
-    :LAST_REPEAT: [2013-12-04 Wed 18:13]
+    :LAST_REPEAT: [2013-12-06 Fri 20:47]
     :END:
   
 *** NEXT Evening Stretch
