@@ -6400,9 +6400,10 @@ Lectures in calendar and tasks like planning lectures.
 	  :PROPERTIES:
 	  :ID:       4e9247f6-a5de-4483-8def-e9a9135050a1
 	  :END:
-********* WAITING Update exam based on TA's comments
+********* DONE Update exam based on TA's comments
 	  DEADLINE: <2013-12-06 Fri>
 	  :LOGBOOK:
+	  - State "DONE"       from "WAITING"    [2013-12-07 Sat 12:15]
 	  CLOCK: [2013-12-04 Wed 12:28]--[2013-12-04 Wed 12:43] =>  0:15
 	  - State "WAITING"    from "NEXT"       [2013-12-03 Tue 12:03] \\
 	    Sent to TA's for review.
@@ -6411,8 +6412,11 @@ Lectures in calendar and tasks like planning lectures.
 	  :PROPERTIES:
 	  :ID:       e814325e-019b-485b-ae72-1be5b802501a
 	  :END:
-********* TODO Submit to printing/frdesk
+********* DONE Submit to printing/frdesk
 	  DEADLINE: <2013-12-06 Fri>
+	  :LOGBOOK:
+	  - State "DONE"       from "TODO"       [2013-12-07 Sat 12:15]
+	  :END:
 	  :PROPERTIES:
 	  :ID:       a0c1dafa-7ccd-47cc-a3f0-0a10cce20a91
 	  :END:
