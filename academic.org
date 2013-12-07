@@ -524,7 +524,10 @@ Try to use as much available software that I can find. Do it like Sage - don't r
        :PROPERTIES:
        :ID:       324119e3-a5fc-4279-9d83-28ac27de824b
        :END:
-****** TODO Copy text
+****** DONE Copy text
+       :LOGBOOK:
+       - State "DONE"       from "TODO"       [2013-12-07 Sat 12:28]
+       :END:
        :PROPERTIES:
        :ID:       4a71d989-a26b-4d18-a343-f2546569b504
        :END:

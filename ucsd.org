@@ -5361,7 +5361,10 @@ Lectures in calendar and tasks like planning lectures.
        	  :ID:       f79ad07c-ea5e-4710-8cad-94ac0439a20d
        	  :END:
 
-******* TODO Exams
+******* DONE Exams
+	:LOGBOOK:
+	- State "DONE"       from "TODO"       [2013-12-07 Sat 12:27]
+	:END:
 	:PROPERTIES:
 	:ID:       dc3f421f-552e-4893-a52d-05667e91b094
 	:END:
@@ -5428,7 +5431,10 @@ Lectures in calendar and tasks like planning lectures.
 	  :PROPERTIES:
 	  :ID:       4a9c52b1-453d-4b5d-a6da-e956c016980b
 	  :END:
-******** TODO Midterm 2
+******** DONE Midterm 2
+	 :LOGBOOK:
+	 - State "DONE"       from "TODO"       [2013-12-07 Sat 12:27]
+	 :END:
 	 :PROPERTIES:
 	 :ID:       21366f1f-d0b3-46e9-89f4-9f33338d464f
 	 :END:
@@ -5488,7 +5494,10 @@ Lectures in calendar and tasks like planning lectures.
 	  :ID:       752ecccf-4b4c-4b3c-b6fa-86b21b713202
 	  :END:
 [2013-11-15 Fri 15:22]
-******** TODO Final
+******** DONE Final
+	 :LOGBOOK:
+	 - State "DONE"       from "TODO"       [2013-12-07 Sat 12:27]
+	 :END:
 	 :PROPERTIES:
 	 :ID:       193ffe7c-c413-41f2-9b16-64928358c053
 	 :END:
@@ -5533,8 +5542,9 @@ Lectures in calendar and tasks like planning lectures.
 	  :PROPERTIES:
 	  :ID:       3336f694-b673-4c6c-8a37-935a3920d638
 	  :END:
-******* TODO Homework
+******* DONE Homework
 	:LOGBOOK:
+	- State "DONE"       from "TODO"       [2013-12-07 Sat 12:27]
 	- State "TODO"       from "DONE"       [2013-11-24 Sun 09:54] \\
 	  Reinstated to write homework solutions.
 	- State "DONE"       from "TODO"       [2013-11-22 Fri 21:33]
@@ -5594,7 +5604,10 @@ Lectures in calendar and tasks like planning lectures.
 	 CLOCK: [2013-11-24 Sun 10:43]--[2013-11-24 Sun 12:10] =>  1:27
 	 CLOCK: [2013-11-24 Sun 09:55]--[2013-11-24 Sun 10:02] =>  0:07
 	 :END:
-******* TODO Lectures
+******* DONE Lectures
+	:LOGBOOK:
+	- State "DONE"       from "TODO"       [2013-12-07 Sat 12:27]
+	:END:
 	:PROPERTIES:
 	:ID:       e7508eb7-8f16-44ac-b5ec-5462188b6884
 	:END:
@@ -5608,7 +5621,10 @@ Lectures in calendar and tasks like planning lectures.
 	 :PROPERTIES:
 	 :ID:       a7df5e60-2bab-40bb-90e0-f6b7e2708380
 	 :END:
-******** TODO Prepare Lectures
+******** DONE Prepare Lectures
+	 :LOGBOOK:
+	 - State "DONE"       from "TODO"       [2013-12-07 Sat 12:27]
+	 :END:
 	 :PROPERTIES:
 	 :ID:       f0b65695-b765-4fec-a9cd-5dd82cc9ae24
 	 :END:
@@ -5884,7 +5900,10 @@ Lectures in calendar and tasks like planning lectures.
 	   :ID:       0dbdb61e-201c-479a-9d96-cd5f7e2efaff
 	   :END:
 
-******* TODO Website
+******* DONE Website
+	:LOGBOOK:
+	- State "DONE"       from "TODO"       [2013-12-07 Sat 12:27]
+	:END:
 	:PROPERTIES:
 	:ID:       3bfb8906-aa27-47ca-8744-b3132e2db581
 	:END:
@@ -5896,7 +5915,10 @@ Lectures in calendar and tasks like planning lectures.
 	 :PROPERTIES:
 	 :ID:       60b9abe9-d6a4-4535-985f-05de07f837dc
 	 :END:
-******** NEXT Update website
+******** DONE Update website
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2013-12-07 Sat 12:27]
+	 :END:
 	 :PROPERTIES:
 	 :ID:       3655ccb4-942f-4017-92c6-8e501c72f316
 	 :END:
@@ -6241,8 +6263,9 @@ Lectures in calendar and tasks like planning lectures.
 	 :LOGBOOK:
 	 - State "DONE"       from "NEXT"       [2013-09-13 Fri 10:37]
 	 :END:
-******* TODO Exams
+******* DONE Exams
 	:LOGBOOK:
+	- State "DONE"       from "TODO"       [2013-12-07 Sat 12:27]
 	CLOCK: [2013-11-07 Thu 14:26]--[2013-11-07 Thu 14:27] =>  0:01
 	:END:
 	:PROPERTIES:
@@ -6377,7 +6400,10 @@ Lectures in calendar and tasks like planning lectures.
 	  :PROPERTIES:
 	  :ID:       a11fb536-5a7d-4de1-86e7-f85dc61ef9e1
 	  :END:
-******** TODO Final
+******** DONE Final
+	 :LOGBOOK:
+	 - State "DONE"       from "TODO"       [2013-12-07 Sat 12:27]
+	 :END:
 	 :PROPERTIES:
 	 :ID:       caf6b905-f68d-4bfd-bfef-f196abee52ba
 	 :END:
@@ -6533,8 +6559,9 @@ Also skip "arc-length in polar coordinated" on bottom half of page 637 after exa
 	 :END:
 [2013-11-09 Sat 09:03]
 Less questions!
-******* TODO Lectures
+******* DONE Lectures
 	 :LOGBOOK:
+	 - State "DONE"       from "TODO"       [2013-12-07 Sat 12:28]
 	 CLOCK: [2013-09-16 Mon 20:58]--[2013-09-16 Mon 20:59] =>  0:01
 	 :END:
 	 :PROPERTIES:
@@ -6573,8 +6600,9 @@ Less questions!
 	  :PROPERTIES:
 	  :ID:       5ee6e1c6-651f-4e14-bbd3-9ab316bc46e7
 	  :END:
-******** TODO Prepare Lectures
+******** DONE Prepare Lectures
 	 :LOGBOOK:
+	 - State "DONE"       from "TODO"       [2013-12-07 Sat 12:27]
 	 CLOCK: [2013-11-27 Wed 12:02]--[2013-11-27 Wed 12:03] =>  0:01
 	 :END:
 	 :PROPERTIES:
