@@ -1549,9 +1549,10 @@ Loop Road
 ** Persimmon picking
 Vista/Bonsall Area
 <2013-11-10 Sun 12:00-15:00>
-** TODO Outings to check out
+** DONE Outings to check out
   SCHEDULED: <2013-12-03 Tue>
   :LOGBOOK:
+  - State "DONE"       from "TODO"       [2013-12-08 Sun 10:55]
   CLOCK: [2013-11-03 Sun 19:02]--[2013-11-03 Sun 19:03] =>  0:01
   :END:
   :PROPERTIES:
@@ -2060,7 +2061,7 @@ Delta 4502 From LA.
   :END:
 ** Tasks
 *** TODO Check out food sources
-  SCHEDULED: <2013-12-03 Tue>
+  SCHEDULED: <2014-01-03 Fri>
   :LOGBOOK:
   CLOCK: [2013-10-20 Sun 11:06]--[2013-10-20 Sun 11:07] =>  0:01
   :END:
