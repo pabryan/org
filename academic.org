@@ -273,6 +273,7 @@ I want to do teaching with sage-tex and/or org-mode with babel; i.e. interactive
 *** NEXT Edit CEJM-D-13-00091					      :FOCUS:
     DEADLINE: <2013-12-01 Sun -3w>
     :LOGBOOK:
+    CLOCK: [2013-12-09 Mon 14:58]
     CLOCK: [2013-12-05 Thu 12:25]--[2013-12-05 Thu 13:04] =>  0:37
     CLOCK: [2013-12-05 Thu 10:09]--[2013-12-05 Thu 10:31] =>  0:22
     CLOCK: [2013-11-19 Tue 16:58]--[2013-11-19 Tue 17:37] =>  0:39
@@ -1152,6 +1153,7 @@ Let $\xi(p_0, q_0) = 0$ if $\tang_{p_0}=\tang_{q_0}$ and $1$ otherwise. Then I c
        :END:
 ******* NEXT Write asymptotics
        :LOGBOOK:
+       CLOCK: [2013-12-09 Mon 10:00]--[2013-12-09 Mon 11:30] =>  1:30
        CLOCK: [2013-12-08 Sun 20:15]--[2013-12-08 Sun 20:52] =>  0:37
        CLOCK: [2013-12-08 Sun 15:10]--[2013-12-08 Sun 15:23] =>  0:13
        CLOCK: [2013-08-02 Fri 14:15]--[2013-08-02 Fri 16:25] =>  2:10
@@ -1168,7 +1170,6 @@ Let $\xi(p_0, q_0) = 0$ if $\tang_{p_0}=\tang_{q_0}$ and $1$ otherwise. Then I c
 	CLOCK: [2013-12-08 Sun 13:10]--[2013-12-08 Sun 15:10] =>  2:00
 	:END:
 - Need to get lower bound
-
 
 ***** Notes
 MR2225802 gives conditions for when non-trivial self-similar solutions exist.
@@ -2958,13 +2959,14 @@ Talk about ancient solutions of curve shortening flow on $S^2$
    :END:
 Talk about ancient solutions of curve shortening flow on $S^2$
 <2012-11-14 Wed 09:00>
-** NEXT Write reference letter for PeiCong Hu
-
+** DONE Write reference letter for PeiCong Hu
+[[file:~/working/academic/students/reference_letters/peicong_hu_2013]]
    DEADLINE: <2013-12-04 Wed>
    :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2013-12-09 Mon 14:56]
    - State "NEXT"       from "DONE"       [2013-12-09 Mon 14:36] \\
      More refs to write!
-   CLOCK: [2013-12-09 Mon 14:36]
+   CLOCK: [2013-12-09 Mon 14:36]--[2013-12-09 Mon 14:56] =>  0:20
    - State "DONE"       from "NEXT"       [2013-11-28 Thu 11:38]
    CLOCK: [2013-11-28 Thu 11:00]--[2013-11-28 Thu 11:38] =>  0:38
    CLOCK: [2013-11-25 Mon 14:35]--[2013-11-25 Mon 15:26] =>  0:51
