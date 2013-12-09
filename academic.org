@@ -774,170 +774,6 @@ Update comparison theorem to read \(I\geq \phi\) implies that \(\sup_M K_t \leq 
 
 ***** Notes
 ***** References
-*** Future 							    :SOMEDAY:
-**** TODO Space form curvature flow 			 :SPACE_FORM_HARNACK:
-     :LOGBOOK:
-     :END:
-     :PROPERTIES:
-     :ID:       5b2bd1d4-ccbc-4951-b859-778926ad749d
-     :END:
-[[file:~/working/academic/research/space_form_curvature_flow]]
-***** Tasks
-****** DONE Org
-       :LOGBOOK:
-       - State "DONE"       from "TODO"       [2013-10-15 Tue 10:35]
-       :END:
-       :PROPERTIES:
-       :ID:       1ac1c270-2f08-4ba8-9dfd-1c03f4b311c2
-       :END:
-******* DONE Follow up on Chen's email
-       :LOGBOOK:
-       - State "DONE"       from "WAITING"    [2013-10-15 Tue 10:35]
-       - State "WAITING"    from "NEXT"       [2013-09-13 Fri 10:05] \\
-	 Sent email to Ben asking about this.
-       :END:
-       :PROPERTIES:
-       :ID:       c6ad78d4-07b1-40d1-8a92-2d0d4f546445
-       :END:
-Chen's email address appears not to be working. How do I contact him?
-******* DONE Write up outline and send to Chen
-       	- State "DONE"       from "NEXT"       [2013-04-25 Thu 20:31]
-       	:LOGBOOK:
-       	CLOCK: [2013-04-25 Thu 19:31]--[2013-04-25 Thu 20:31] =>  1:00
-       	:END:
-******* DONE Get Koiso and Palmer
-  SCHEDULED: <2013-08-12 Mon>
-  :LOGBOOK:
-  - State "DONE"       from "TODO"       [2013-09-16 Mon 10:00]
-  CLOCK: [2013-08-11 Sun 21:02]--[2013-08-11 Sun 21:03] =>  0:01
-  :END:
-       :PROPERTIES:
-       :ID:       7fadaf2b-7464-4376-8cc7-fdcbf6d8635f
-       :END:
-[2013-08-11 Sun 21:02]
-Geometry and Stability OF SURFACES WITH
-CONSTANT ANISOTROPIC MEAN CURVATURE
-
-****** TODO Hyperbolic space
-       :LOGBOOK:
-       CLOCK: [2013-08-26 Mon 17:08]--[2013-08-26 Mon 17:09] =>  0:01
-       :END:
-       :PROPERTIES:
-       :ID:       e9c93436-80fb-4eb5-b229-bd15e519d71d
-       :END:
-******* NEXT Get formula for coords, metric
-	:LOGBOOK:
-	CLOCK: [2013-09-14 Sat 10:25]--[2013-09-14 Sat 11:15] =>  0:50
-	CLOCK: [2013-09-12 Thu 09:25]--[2013-09-12 Thu 10:20] =>  0:55
-	CLOCK: [2013-08-26 Mon 16:15]--[2013-08-26 Mon 17:08] =>  0:53
-	:END:
-	:PROPERTIES:
-	:ID:       d7827ac0-bf84-4070-aacb-861ef94d775c
-	:END:
-******* TODO Get formula for distance
-	:PROPERTIES:
-	:ID:       9bc6f1b5-bac8-46c8-bd3b-07bc34275b43
-	:END:
-******* TODO Get formula for vector field X
-	:PROPERTIES:
-	:ID:       82810df7-6a86-4aa2-a4cd-2ece8ab2448a
-	:END:
-******* TODO Get formula for grad X
-	:PROPERTIES:
-	:ID:       1cbaa6c1-e15e-427b-954a-624990666029
-	:END:
-****** TODO Dual Body
-       :LOGBOOK:
-       :END:
-       :PROPERTIES:
-       :ID:       227e228f-6d25-4344-9642-0cd92447202f
-       :END:
-******* DONE Define the support function/hyperplanes etc.
-	:LOGBOOK:
-	- State "DONE"       from "NEXT"       [2013-08-26 Mon 16:37]
-	CLOCK: [2013-07-29 Mon 21:30]--[2013-07-29 Mon 22:15] =>  0:45
-	:END:
-	:PROPERTIES:
-	:ID:       ff17b0e4-2f7e-4dc2-bf37-3e4c0878d360
-	:END:
-
-******* NEXT Define the radial function
-	:PROPERTIES:
-	:ID:       3c42e645-aa5e-4e45-8330-642eff10602c
-	:END:
-- This could be analogous to the definition in $\RR^n$.
-******* TODO Define the dual body
-	:PROPERTIES:
-	:ID:       ae49515a-1e6f-41f6-9f32-eedb6cb6c3bc
-	:END: 
-- the set of $y$ with $\ip{V(x)}{V(y)} \leq 1$ for every $x\in M$?
-- Or is it something do with distance and/or the radial function?
-- What definition makes it the "dual" in the sense that taking the dual twice recovers the original body.
-******* TODO Evolution of the dual body
-	:PROPERTIES:
-	:ID:       099961a3-2e9b-48f9-b93e-7c8b54d7998c
-	:END: 
-- Calculate evolution equation of dual body.
-******* TODO Show dual relationship of Gauss curvature
-	:PROPERTIES:
-	:ID:       6c9127a1-0cb7-4023-ae27-5c48a20c30e9
-	:END:
-- There should be a point where $\gk/\dual{\gc} = 1$.
-****** TODO Wulff shape
-       :PROPERTIES:
-       :ID:       eee2b199-61dc-4fda-bd51-a55accf9781e
-       :END: 
-- $\exp(s(x) \nor(x) + \grad s(x))$ parametrises the Wulff shape of $M$. 
-******* NEXT Work our parametrisation and first and second derivatives
-	:LOGBOOK:
-	CLOCK: [2013-08-11 Sun 10:41]--[2013-08-11 Sun 11:35] =>  0:54
-	:END:
-	:PROPERTIES:
-	:ID:       5f4f6585-b742-4cdd-972c-78febc21aa36
-	:END:
-******* TODO Work out relationship with original hypersurface
-	:PROPERTIES:
-	:ID:       fcdd2174-8caf-451c-b536-6a76c44654bf
-	:END:
--  In particular how do the curvatures relate?
-  
-******* TODO Work out Harnack/curvature bound for Wulff shape
-	:PROPERTIES:
-	:ID:       e66172ff-cf15-407d-99fe-8782822408c6
-	:END:
-******** NEXT Try Ben's computations in $\HH^n$
-	 :PROPERTIES:
-	 :ID:       989cbd98-0e73-4114-9a2f-85d242456214
-	 :END:
-******* NEXT Work out embedding unit sphere and tangent plane into space forms
-       :LOGBOOK:
-       CLOCK: [2013-04-30 Tue 08:25]--[2013-04-30 Tue 08:55] =>  0:30
-       CLOCK: [2013-04-29 Mon 18:25]--[2013-04-29 Mon 18:55] =>  0:30
-       CLOCK: [2013-04-26 Fri 10:15]--[2013-04-26 Fri 11:33] =>  1:18
-       :END:
-       :PROPERTIES:
-       :ID:       5d7d38ad-aac0-409d-9ece-466e858612c9
-       :END:
-- Is this even necessary? That is, why not just use $\sphere^n$ as a fixed space from which to parametrise? It's not really necessary to have $\sphere^n$ embedded in the space form.
-
-***** Refs
-[[file:~/research_resources/draftpapers/hyperbolic_130113.pdf]]
-- Papers on horospheres
-- Papers by Gallego, E. and Solanes, G.
-- Papers by Santalo
-- HOROSPHERES IN HYPERBOLIC GEOMETRY (E. GALLEGO, A. REVENTOS, G. SOLANES, AND E. TEUFEL
-)
-***** Clocking
-****** General research
-       :LOGBOOK:
-       CLOCK: [2013-10-05 Sat 13:55]--[2013-10-05 Sat 14:18] =>  0:23
-       CLOCK: [2013-10-04 Fri 15:06]--[2013-10-04 Fri 16:20] =>  1:14
-       :END:
-***** Notes
-****** Rescaled flow
-If $\exp: T_x N \to N$ is a diffeomorphism (in particular for Cartan-Hadamaard) manifolds, and we have a flow $M_t \subset N^{n+1}$, we can think of this as a flow $M_t \subset \RR^{n+1}$ with metric $\exp^{\star} g$. If the speed of the flow is geometric, then this pulls back to $\RR^{n+1}$. Now, I can define a rescaled flow so the volume remains constant. Then we can ensure by containment, that a point in the region enclosed by the $M_0$ remains in the region enclosed by the rescaled flow $\tilde{M}_t$ for all time and can do the polar dual!
-****** Ambient Minkowski space
-We would do it all in Minkowski space. I think the vector field gives the distance in Minkowski space to the totally geodesic hypersurface. We can then set up all our dual theory, radial functions and so forth in that ambient space, possibly with an intrinsic interpretation. In this setting we could maybe also do $\sphere^n$? Another interesting point is that we can do a normalised flow, by simultaneously expanding $M_t$ and $\HH^{n+1}$ by rescaling the ambient Minkowski space.
 **** TODO alpha CSF distance comparison				  :CSF_ALPHA:
    :LOGBOOK:
    CLOCK: [2013-07-19 Fri 09:53]--[2013-07-19 Fri 09:55] =>  0:02
@@ -1316,6 +1152,7 @@ Let $\xi(p_0, q_0) = 0$ if $\tang_{p_0}=\tang_{q_0}$ and $1$ otherwise. Then I c
        :END:
 ******* NEXT Write asymptotics
        :LOGBOOK:
+       CLOCK: [2013-12-08 Sun 15:10]--[2013-12-08 Sun 15:23] =>  0:13
        CLOCK: [2013-08-02 Fri 14:15]--[2013-08-02 Fri 16:25] =>  2:10
        CLOCK: [2013-08-02 Fri 12:50]--[2013-08-02 Fri 13:25] =>  0:35
        CLOCK: [2013-07-26 Fri 14:30]--[2013-07-26 Fri 18:00] =>  3:30
@@ -1325,8 +1162,12 @@ Let $\xi(p_0, q_0) = 0$ if $\tang_{p_0}=\tang_{q_0}$ and $1$ otherwise. Then I c
        :PROPERTIES:
        :ID:       21c4ab7e-6891-48d6-b551-9932702a3a3a
        :END:
+******* NEXT Get lower bound asymptotics
+	:LOGBOOK:
+	CLOCK: [2013-12-08 Sun 13:10]--[2013-12-08 Sun 15:10] =>  2:00
+	:END:
 - Need to get lower bound
-- Need $\abs{s_1} + \abs{s_2}$ = \bigo(\abs{s_2-s_1})$ but I have the reverse!
+
 
 ***** Notes
 MR2225802 gives conditions for when non-trivial self-similar solutions exist.
@@ -1381,6 +1222,170 @@ This proves the inequality we need.  The remaining problem is to remove the symm
 [[file:refs.org::#MR1902649][Singularities in crystalline curvature flows]]
 [[file:refs.org::#MR2946930][Contracting convex immersed closed plane curves with slow speed of curvature]]
 
+*** Future 							    :SOMEDAY:
+**** TODO Space form curvature flow 			 :SPACE_FORM_HARNACK:
+     :LOGBOOK:
+     :END:
+     :PROPERTIES:
+     :ID:       5b2bd1d4-ccbc-4951-b859-778926ad749d
+     :END:
+[[file:~/working/academic/research/space_form_curvature_flow]]
+***** Tasks
+****** DONE Org
+       :LOGBOOK:
+       - State "DONE"       from "TODO"       [2013-10-15 Tue 10:35]
+       :END:
+       :PROPERTIES:
+       :ID:       1ac1c270-2f08-4ba8-9dfd-1c03f4b311c2
+       :END:
+******* DONE Follow up on Chen's email
+       :LOGBOOK:
+       - State "DONE"       from "WAITING"    [2013-10-15 Tue 10:35]
+       - State "WAITING"    from "NEXT"       [2013-09-13 Fri 10:05] \\
+	 Sent email to Ben asking about this.
+       :END:
+       :PROPERTIES:
+       :ID:       c6ad78d4-07b1-40d1-8a92-2d0d4f546445
+       :END:
+Chen's email address appears not to be working. How do I contact him?
+******* DONE Write up outline and send to Chen
+       	- State "DONE"       from "NEXT"       [2013-04-25 Thu 20:31]
+       	:LOGBOOK:
+       	CLOCK: [2013-04-25 Thu 19:31]--[2013-04-25 Thu 20:31] =>  1:00
+       	:END:
+******* DONE Get Koiso and Palmer
+  SCHEDULED: <2013-08-12 Mon>
+  :LOGBOOK:
+  - State "DONE"       from "TODO"       [2013-09-16 Mon 10:00]
+  CLOCK: [2013-08-11 Sun 21:02]--[2013-08-11 Sun 21:03] =>  0:01
+  :END:
+       :PROPERTIES:
+       :ID:       7fadaf2b-7464-4376-8cc7-fdcbf6d8635f
+       :END:
+[2013-08-11 Sun 21:02]
+Geometry and Stability OF SURFACES WITH
+CONSTANT ANISOTROPIC MEAN CURVATURE
+
+****** TODO Hyperbolic space
+       :LOGBOOK:
+       CLOCK: [2013-08-26 Mon 17:08]--[2013-08-26 Mon 17:09] =>  0:01
+       :END:
+       :PROPERTIES:
+       :ID:       e9c93436-80fb-4eb5-b229-bd15e519d71d
+       :END:
+******* NEXT Get formula for coords, metric
+	:LOGBOOK:
+	CLOCK: [2013-09-14 Sat 10:25]--[2013-09-14 Sat 11:15] =>  0:50
+	CLOCK: [2013-09-12 Thu 09:25]--[2013-09-12 Thu 10:20] =>  0:55
+	CLOCK: [2013-08-26 Mon 16:15]--[2013-08-26 Mon 17:08] =>  0:53
+	:END:
+	:PROPERTIES:
+	:ID:       d7827ac0-bf84-4070-aacb-861ef94d775c
+	:END:
+******* TODO Get formula for distance
+	:PROPERTIES:
+	:ID:       9bc6f1b5-bac8-46c8-bd3b-07bc34275b43
+	:END:
+******* TODO Get formula for vector field X
+	:PROPERTIES:
+	:ID:       82810df7-6a86-4aa2-a4cd-2ece8ab2448a
+	:END:
+******* TODO Get formula for grad X
+	:PROPERTIES:
+	:ID:       1cbaa6c1-e15e-427b-954a-624990666029
+	:END:
+****** TODO Dual Body
+       :LOGBOOK:
+       :END:
+       :PROPERTIES:
+       :ID:       227e228f-6d25-4344-9642-0cd92447202f
+       :END:
+******* DONE Define the support function/hyperplanes etc.
+	:LOGBOOK:
+	- State "DONE"       from "NEXT"       [2013-08-26 Mon 16:37]
+	CLOCK: [2013-07-29 Mon 21:30]--[2013-07-29 Mon 22:15] =>  0:45
+	:END:
+	:PROPERTIES:
+	:ID:       ff17b0e4-2f7e-4dc2-bf37-3e4c0878d360
+	:END:
+
+******* NEXT Define the radial function
+	:PROPERTIES:
+	:ID:       3c42e645-aa5e-4e45-8330-642eff10602c
+	:END:
+- This could be analogous to the definition in $\RR^n$.
+******* TODO Define the dual body
+	:PROPERTIES:
+	:ID:       ae49515a-1e6f-41f6-9f32-eedb6cb6c3bc
+	:END: 
+- the set of $y$ with $\ip{V(x)}{V(y)} \leq 1$ for every $x\in M$?
+- Or is it something do with distance and/or the radial function?
+- What definition makes it the "dual" in the sense that taking the dual twice recovers the original body.
+******* TODO Evolution of the dual body
+	:PROPERTIES:
+	:ID:       099961a3-2e9b-48f9-b93e-7c8b54d7998c
+	:END: 
+- Calculate evolution equation of dual body.
+******* TODO Show dual relationship of Gauss curvature
+	:PROPERTIES:
+	:ID:       6c9127a1-0cb7-4023-ae27-5c48a20c30e9
+	:END:
+- There should be a point where $\gk/\dual{\gc} = 1$.
+****** TODO Wulff shape
+       :PROPERTIES:
+       :ID:       eee2b199-61dc-4fda-bd51-a55accf9781e
+       :END: 
+- $\exp(s(x) \nor(x) + \grad s(x))$ parametrises the Wulff shape of $M$. 
+******* NEXT Work our parametrisation and first and second derivatives
+	:LOGBOOK:
+	CLOCK: [2013-08-11 Sun 10:41]--[2013-08-11 Sun 11:35] =>  0:54
+	:END:
+	:PROPERTIES:
+	:ID:       5f4f6585-b742-4cdd-972c-78febc21aa36
+	:END:
+******* TODO Work out relationship with original hypersurface
+	:PROPERTIES:
+	:ID:       fcdd2174-8caf-451c-b536-6a76c44654bf
+	:END:
+-  In particular how do the curvatures relate?
+  
+******* TODO Work out Harnack/curvature bound for Wulff shape
+	:PROPERTIES:
+	:ID:       e66172ff-cf15-407d-99fe-8782822408c6
+	:END:
+******** NEXT Try Ben's computations in $\HH^n$
+	 :PROPERTIES:
+	 :ID:       989cbd98-0e73-4114-9a2f-85d242456214
+	 :END:
+******* NEXT Work out embedding unit sphere and tangent plane into space forms
+       :LOGBOOK:
+       CLOCK: [2013-04-30 Tue 08:25]--[2013-04-30 Tue 08:55] =>  0:30
+       CLOCK: [2013-04-29 Mon 18:25]--[2013-04-29 Mon 18:55] =>  0:30
+       CLOCK: [2013-04-26 Fri 10:15]--[2013-04-26 Fri 11:33] =>  1:18
+       :END:
+       :PROPERTIES:
+       :ID:       5d7d38ad-aac0-409d-9ece-466e858612c9
+       :END:
+- Is this even necessary? That is, why not just use $\sphere^n$ as a fixed space from which to parametrise? It's not really necessary to have $\sphere^n$ embedded in the space form.
+
+***** Refs
+[[file:~/research_resources/draftpapers/hyperbolic_130113.pdf]]
+- Papers on horospheres
+- Papers by Gallego, E. and Solanes, G.
+- Papers by Santalo
+- HOROSPHERES IN HYPERBOLIC GEOMETRY (E. GALLEGO, A. REVENTOS, G. SOLANES, AND E. TEUFEL
+)
+***** Clocking
+****** General research
+       :LOGBOOK:
+       CLOCK: [2013-10-05 Sat 13:55]--[2013-10-05 Sat 14:18] =>  0:23
+       CLOCK: [2013-10-04 Fri 15:06]--[2013-10-04 Fri 16:20] =>  1:14
+       :END:
+***** Notes
+****** Rescaled flow
+If $\exp: T_x N \to N$ is a diffeomorphism (in particular for Cartan-Hadamaard) manifolds, and we have a flow $M_t \subset N^{n+1}$, we can think of this as a flow $M_t \subset \RR^{n+1}$ with metric $\exp^{\star} g$. If the speed of the flow is geometric, then this pulls back to $\RR^{n+1}$. Now, I can define a rescaled flow so the volume remains constant. Then we can ensure by containment, that a point in the region enclosed by the $M_0$ remains in the region enclosed by the rescaled flow $\tilde{M}_t$ for all time and can do the polar dual!
+****** Ambient Minkowski space
+We would do it all in Minkowski space. I think the vector field gives the distance in Minkowski space to the totally geodesic hypersurface. We can then set up all our dual theory, radial functions and so forth in that ambient space, possibly with an intrinsic interpretation. In this setting we could maybe also do $\sphere^n$? Another interesting point is that we can do a normalised flow, by simultaneously expanding $M_t$ and $\HH^{n+1}$ by rescaling the ambient Minkowski space.
 **** TODO Study non-smooth mean curvature flow, minimal surfaces via support fn
      SCHEDULED: <2014-01-12 Sun>
   :LOGBOOK:
