@@ -2958,10 +2958,13 @@ Talk about ancient solutions of curve shortening flow on $S^2$
    :END:
 Talk about ancient solutions of curve shortening flow on $S^2$
 <2012-11-14 Wed 09:00>
-** DONE Write reference letter for PeiCong Hu
+** NEXT Write reference letter for PeiCong Hu
 
    DEADLINE: <2013-12-04 Wed>
    :LOGBOOK:
+   - State "NEXT"       from "DONE"       [2013-12-09 Mon 14:36] \\
+     More refs to write!
+   CLOCK: [2013-12-09 Mon 14:36]
    - State "DONE"       from "NEXT"       [2013-11-28 Thu 11:38]
    CLOCK: [2013-11-28 Thu 11:00]--[2013-11-28 Thu 11:38] =>  0:38
    CLOCK: [2013-11-25 Mon 14:35]--[2013-11-25 Mon 15:26] =>  0:51
