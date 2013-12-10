@@ -3114,10 +3114,11 @@ When I set up scoring the day:
 - [ ] Do short tasks
 - [ ] Record morning health stats
 
-** NEXT Weekly Review [3/18]
-   SCHEDULED: <2013-11-24 Sun +1w>
+** NEXT Weekly Review [0/18]
+   SCHEDULED: <2013-12-01 Sun +1w>
    :LOGBOOK:
-   CLOCK: [2013-12-09 Mon 19:22]
+   - State "DONE"       from "NEXT"       [2013-12-09 Mon 19:54]
+   CLOCK: [2013-12-09 Mon 19:16]--[2013-12-09 Mon 19:54] =>  0:32
    - State "NEXT"       from "DONE"       [2013-12-05 Thu 13:55]
    - State "DONE"       from "NEXT"       [2013-12-05 Thu 13:52]
    CLOCK: [2013-12-05 Thu 13:07]--[2013-12-05 Thu 13:55] =>  0:48
@@ -3216,15 +3217,15 @@ When I set up scoring the day:
    :REPEAT_TO_STATE: NEXT
    :ID:       846c05fa-21d7-4e6f-8431-a1fa06631945
    :RESET_CHECK_BOXES: t
-   :LAST_REPEAT: [2013-12-05 Thu 13:55]
+   :LAST_REPEAT: [2013-12-09 Mon 19:54]
    :END:
 
 What to review:
 
-- [X] Check follow-up paper folder
-- [X] Check holding directory
+- [ ] Check follow-up paper folder
+- [ ] Check holding directory
   [[file:~/holding]]
-- [X] Check holding email folder
+- [ ] Check holding email folder
 - [ ] Review weekly agenda =F12 a w//=
 - [ ] Check clocking data for past week =v c=
   - fix up any errors
