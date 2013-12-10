@@ -119,7 +119,7 @@
 :END:
 [[papers:MR1912903][MR1912903-paper]]
    
-** 49   (1940-now) Calculus of variations and optimal control; optimization [See also 34H05, 34K35, 65Kxx, 90Cxx, 93-XX] :calculus_variations:optimal_control:optimization:
+** 49 (1940-now) Calculus of variations and optimal control; optimization [See also 34H05, 34K35, 65Kxx, 90Cxx, 93-XX] :calculus_variations:optimal_control:optimization:
 *** 49-01  (1973-now) Instructional exposition (textbooks, tutorial papers, etc.)
 **** Geometric measure theory
 :PROPERTIES:
@@ -127,6 +127,14 @@
 :END:
 [[papers:MR2455580][MR2455580-paper]]
 [[bib:MR2455580][MR2455580-bib]]
+*** 49F  (1973-1990) Manifolds [See also 58Exx.]
+**** 49F20  (1973-1990) Geometric measure and integration theory, integral and normal currents, flat chains and cochains, varifolds [See also 28A75, 32C30, 58A25, 58C35.]
+**** On the regularity of boundaries of sets minimizing perimeter with a volume constraint
+:PROPERTIES:
+:Custom_ID: MR684753
+:END:
+[[papers:MR684753][MR684753-paper]]
+[[bib:MR684753][MR684753-bib]]
 *** 49L   (1991-now) Hamilton-Jacobi theories, including dynamic programming :hamilton_jacobi:dynamic_programming:
 **** 49L20   (1991-now) Dynamic programming method
 ***** Hamilton-{J}acobi equations and distance functions on {R}iemannian manifolds :geometry:manifolds:distance:riemannian:
@@ -143,6 +151,13 @@
 :END:
 [[papers:MR1465365][MR1465365-paper]]
 [[bib:MR1465365][MR1465365-bib]]
+**** 49Q10  (1991-now) Optimization of shapes other than minimal surfaces [See also 90C90]
+***** Area minimizing sets subject to a volume constraint in a convex set
+:PROPERTIES:
+:Custom_ID: MR1669207
+:END:
+[[papers:MR1669207][MR1669207-paper]]
+[[bib:MR1669207][MR1669207-bib]]
 **** 49Q15  (1991-now) Geometric measure and integration theory, integral and normal currents [See also 28A75, 32C30, 58A25, 58C35] :gmt:
 ***** On the connectivity of boundaries of sets minimizing perimeter subject to a volume constraint :convex:isoperimetric:
 :PROPERTIES:
@@ -157,7 +172,7 @@
 :END:
 [[papers:MR2067135][MR2067135-paper]]
 [[bib:MR2067135][MR2067135-bib]]
-** 52   (1940-now) Convex and discrete geometry	   :convex:geometry:discrete:
+** 52 (1940-now) Convex and discrete geometry 	   :convex:geometry:discrete:
 *** 52A   (1973-now) General convexity
 **** 52A40   (1973-now) Inequalities and extremum problems :inequalities:optimization:
 ***** The isoperimetric inequality			      :isoperimetric:
