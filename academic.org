@@ -1225,6 +1225,44 @@ This proves the inequality we need.  The remaining problem is to remove the symm
 [[file:refs.org::#MR1902649][Singularities in crystalline curvature flows]]
 [[file:refs.org::#MR2946930][Contracting convex immersed closed plane curves with slow speed of curvature]]
 
+**** TODO CSF Sphere Ancient Solutions			 :CSF_ANCIENT_SPHERE:
+     :PROPERTIES:
+     :ID:       6a082853-9a95-4756-9632-17078bd0fe4b
+     :END:
+***** Tasks
+****** NEXT Work out curvature evolution in coords
+       :LOGBOOK:
+       CLOCK: [2013-10-21 Mon 11:35]--[2013-10-21 Mon 12:37] =>  1:02
+       :END:
+       :PROPERTIES:
+       :ID:       072484d3-34af-4d34-b8bc-f1a9e44913f7
+       :END:
+****** TODO Define pressure
+       :PROPERTIES:
+       :ID:       9269bbf3-ecf7-42fd-99fb-4fbfcb952c55
+       :END:
+****** NEXT Prove smooth backward convergence to equator implies round circle
+       :LOGBOOK:
+       CLOCK: [2013-12-03 Tue 15:16]--[2013-12-03 Tue 16:51] =>  1:35
+       :END:
+       :PROPERTIES:
+       :ID:       8c4123a3-7132-43fa-8bff-57827ae1c8ad
+       :END:
+That is, Ben and Janelle have proven the backward convergence, and to finish we need to show the solution is the shrinking round circle
+***** Clocking
+****** Meetings
+       SCHEDULED: <2013-12-13 Fri 12:00-13:00>
+       :LOGBOOK:
+       CLOCK: [2013-11-18 Mon 12:18]--[2013-11-18 Mon 13:40] =>  1:22
+       :END:
+
+***** Notes
+***** Refs
+**** TODO CSF surfaces distance comparison
+   :PROPERTIES:
+   :ID:       85f583ed-c9eb-4993-91e3-8cedf9945d1f
+   :END:
+[[file:~/working/academic/research/csf_dist_comp_surfaces]]
 *** Future 							    :SOMEDAY:
 **** TODO Space form curvature flow 			 :SPACE_FORM_HARNACK:
      :LOGBOOK:
@@ -1605,11 +1643,6 @@ Here we look at a conformal change of metric. The Levy-Gromov comparison doesn't
       :ID:       ed26585a-2582-48bc-a787-2a457954b383
       :END:
 
-**** TODO CSF surfaces distance comparison
-   :PROPERTIES:
-   :ID:       85f583ed-c9eb-4993-91e3-8cedf9945d1f
-   :END:
-[[file:~/working/academic/research/csf_dist_comp_surfaces]]
 **** TODO vector symmetric rational functions
    :PROPERTIES:
    :ID:       6c117119-27b6-488d-9f88-199a553e2be2
@@ -1681,39 +1714,6 @@ Can I use a non-collapsing type argument?
      :END:
 [[http://fds.duke.edu/db/aas/math/bray]]
 Look at all dark matter papers. Alan Parry also. Bibliography of course!
-**** TODO CSF Sphere Ancient Solutions
-     :PROPERTIES:
-     :ID:       6a082853-9a95-4756-9632-17078bd0fe4b
-     :END:
-***** Tasks
-****** NEXT Work out curvature evolution in coords
-       :LOGBOOK:
-       CLOCK: [2013-10-21 Mon 11:35]--[2013-10-21 Mon 12:37] =>  1:02
-       :END:
-       :PROPERTIES:
-       :ID:       072484d3-34af-4d34-b8bc-f1a9e44913f7
-       :END:
-****** TODO Define pressure
-       :PROPERTIES:
-       :ID:       9269bbf3-ecf7-42fd-99fb-4fbfcb952c55
-       :END:
-****** NEXT Prove smooth backward convergence to equator implies round circle
-       :LOGBOOK:
-       CLOCK: [2013-12-03 Tue 15:16]--[2013-12-03 Tue 16:51] =>  1:35
-       :END:
-       :PROPERTIES:
-       :ID:       8c4123a3-7132-43fa-8bff-57827ae1c8ad
-       :END:
-That is, Ben and Janelle have proven the backward convergence, and to finish we need to show the solution is the shrinking round circle
-***** Clocking
-****** Meetings
-       SCHEDULED: <2013-12-12 Thu 15:00-16:00>
-       :LOGBOOK:
-       CLOCK: [2013-11-18 Mon 12:18]--[2013-11-18 Mon 13:40] =>  1:22
-       :END:
-
-***** Notes
-***** Refs
 **** TODO Mean curvature solitons
      :LOGBOOK:
      CLOCK: [2013-11-01 Fri 14:13]--[2013-11-01 Fri 14:14] =>  0:01

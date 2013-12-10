@@ -150,6 +150,13 @@
 :END:
 [[papers:MR1674097][MR1674097-paper]]
 [[bib:MR1674097][MR1674097-bib]]
+**** 49Q20  (1991-now) Variational problems in a geometric measure-theoretic setting
+***** Existence and characterization of regions minimizing perimeter under a volume constraint inside {E}uclidean cones
+:PROPERTIES:
+:Custom_ID: MR2067135
+:END:
+[[papers:MR2067135][MR2067135-paper]]
+[[bib:MR2067135][MR2067135-bib]]
 ** 52   (1940-now) Convex and discrete geometry	   :convex:geometry:discrete:
 *** 52A   (1973-now) General convexity
 **** 52A40   (1973-now) Inequalities and extremum problems :inequalities:optimization:
