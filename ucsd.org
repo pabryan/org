@@ -7256,6 +7256,44 @@ Lectures in calendar and tasks like planning lectures.
 ******** Midterm 1
 ******** Midterm 2
 ******** Final
+***** TODO MATH20B
+      :PROPERTIES:
+      :ID:       31df73a4-0114-4097-8f18-5ce3ed5a1d07
+      :END:
+[[file:~/working/ucsd/teaching/math20b_winter_2013]]
+****** Notes
+****** Tasks
+******* TODO Plan course
+******** NEXT Org structure
+	 :LOGBOOK:
+	 - State "NEXT"       from "DONE"       [2013-12-09 Mon 12:54]
+	 :END:
+Lectures in calendar and tasks like planning lectures.
+
+******** NEXT Create Ted
+	 DEADLINE: <2013-12-27 Fri>
+******* TODO Lectures
+******** NEXT Create Lecture Schedule
+******** NEXT Prepare Lectures
+******* TODO Website
+******** NEXT Make website
+******* TODO Grades
+******** NEXT Enter grades
+****** Clocking
+******* Admin
+******* Office hours
+****** Schedule
+******* Lectures
+******** Location
+
+******** Mon
+******** Wed
+******** Fri
+******* Exams
+******** Midterm 1
+******** Midterm 2
+******** Final
+
 **** Spring 2014
 **** Summer 2014 I
 **** Summer 2014 II
