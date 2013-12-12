@@ -331,6 +331,12 @@ $14
 
 ***** Exhibition night
 <2013-12-19 Thu 17:00-20:00>
+***** TODO Sign up for exhibition night
+  :LOGBOOK:
+  CLOCK: [2013-12-12 Thu 13:00]--[2013-12-12 Thu 13:01] =>  0:01
+  :END:
+[2013-12-12 Thu 13:00]
+https://docs.google.com/spreadsheet/ccc?key=0Aqcrggn9R6cWdG9GbUp0ZUozUHd0X1V4NlpEcE8zaXc&usp=sharing#gid=0
 **** Sharing
 ***** Raspberry Pi
 ****** NEXT Contact Steve about Raspberry Pi
@@ -382,6 +388,8 @@ $11.25
        :PROPERTIES:
        :ID:       79edfb7d-a134-49de-a7c2-7c2598766333
        :END:
+***** Caroling
+<2013-12-19 Thu 09:00-15:30>
 *** Forms
 **** DONE Turn in monthly form
      DEADLINE: <2013-10-11 Fri>
