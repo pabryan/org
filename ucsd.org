@@ -6189,7 +6189,7 @@ WLH 2208
 ******** Midterm 1
 ******** Midterm 2
 ******** Final
-	  SCHEDULED: <2013-12-13 Fri 08:00-10:59>
+	 <2013-12-13 Fri 08:00-10:59>
 
 ********* Location
 TBA
@@ -7174,7 +7174,7 @@ CENTR 101
 ******** Midterm 1
 ******** Midterm 2
 ******** Final
-	 SCHEDULED: <2013-12-11 Wed 08:00-10:59>
+	 <2013-12-11 Wed 08:00-10:59>
 ********* Location
 TBA
 ******* Homework
@@ -7227,6 +7227,9 @@ Place: APM 7421
       :END:
 [[file:~/working/ucsd/teaching/math10b_winter_2013]]
 ****** Notes
+******* Homework
+http://edugen.wileyplus.com/edugen/domain/dmn71317/
+- ucsdmath10b
 ****** Tasks
 ******* TODO Plan course
 ******** NEXT Org structure
