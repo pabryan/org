@@ -8,14 +8,15 @@
 
 ** Tracking
 *** NEXT Exercise
-    SCHEDULED: <2013-12-05 Thu .+1d/2d>
+    SCHEDULED: <2013-12-13 Fri .+1d/2d>
     :PROPERTIES:
     :STYLE:    habit
     :REPEAT_TO_STATE: NEXT
     :ID:       8d56b2ef-1b49-4dc4-b701-1d021a293fa4
-    :LAST_REPEAT: [2013-12-04 Wed 18:13]
+    :LAST_REPEAT: [2013-12-12 Thu 21:17]
     :END:
     :LOGBOOK:
+    - State "DONE"       from "NEXT"       [2013-12-12 Thu 21:17]
     - State "DONE"       from "NEXT"       [2013-12-04 Wed 18:13]
     - State "DONE"       from "NEXT"       [2013-12-02 Mon 20:47]
     - State "DONE"       from "NEXT"       [2013-11-27 Wed 19:11]
@@ -507,8 +508,9 @@
     :END:
 
 *** NEXT Afternoon Relax
-    SCHEDULED: <2013-12-10 Tue .+1d/2d>
+    SCHEDULED: <2013-12-13 Fri .+1d/2d>
     :LOGBOOK:
+    - State "DONE"       from "NEXT"       [2013-12-12 Thu 21:17]
     - State "DONE"       from "NEXT"       [2013-12-09 Mon 16:10]
     - State "DONE"       from "NEXT"       [2013-12-08 Sun 22:23]
     - State "DONE"       from "NEXT"       [2013-12-06 Fri 20:47]
@@ -673,12 +675,13 @@
     :STYLE:    habit
     :REPEAT_TO_STATE: NEXT
     :ID:       c0aaf33a-af77-446b-b9fd-cf2d2f78c12a
-    :LAST_REPEAT: [2013-12-09 Mon 16:10]
+    :LAST_REPEAT: [2013-12-12 Thu 21:17]
     :END:
   
 *** NEXT Evening Stretch
-    SCHEDULED: <2013-12-09 Mon .+1d/2d>
+    SCHEDULED: <2013-12-13 Fri .+1d/2d>
     :LOGBOOK:
+    - State "DONE"       from "NEXT"       [2013-12-12 Thu 21:17]
     - State "DONE"       from "NEXT"       [2013-12-08 Sun 22:23]
     - State "DONE"       from "NEXT"       [2013-11-15 Fri 21:11]
     - State "DONE"       from "NEXT"       [2013-11-12 Tue 20:59]
@@ -797,7 +800,7 @@
     :STYLE:    habit
     :REPEAT_TO_STATE: NEXT
     :ID:       d439600f-c40d-4dd3-82ca-3e7d9e35f2b3
-    :LAST_REPEAT: [2013-12-08 Sun 22:23]
+    :LAST_REPEAT: [2013-12-12 Thu 21:17]
     :END:
   
 *** NEXT Handstand practice
