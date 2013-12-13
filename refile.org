@@ -3,11 +3,24 @@
   :LOGBOOK:
   CLOCK: [2013-12-10 Tue 07:36]--[2013-12-10 Tue 07:37] =>  0:01
   :END:
+  :PROPERTIES:
+  :ID:       251ca587-000d-45ea-97d6-9d72bc19586f
+  :END:
 [2013-12-10 Tue 07:36]
 This is the map along the normal direction to a hypersurface. The cut point is where the map hits another point on the surface.
 * TODO Non-collapsing in manifolds
   :LOGBOOK:
   CLOCK: [2013-12-10 Tue 07:37]--[2013-12-10 Tue 07:40] =>  0:03
   :END:
+  :PROPERTIES:
+  :ID:       cb506bf4-f2d9-4082-95fd-b717e75047d3
+  :END:
 [2013-12-10 Tue 07:37]
 Given $M\subset N$ a cooriented hypersurface with normal vector $\nor$, define the cooriented (oriented?) curvature tangent ball at $p$ to be the largest ball tangent to $M$ with center in the direction $\nor$. Now do variations to find a viscosity equation for the curvature.
+* TODO Apply for Andre Neves job
+  DEADLINE: <2014-01-07 Tue> SCHEDULED: <2013-12-13 Fri>
+  :PROPERTIES:
+  :ID:       431ccbde-b8d2-4a0b-af48-fb5a51a3f351
+  :END:
+[2013-12-13 Fri 15:03]
+- Get references!

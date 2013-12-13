@@ -6192,6 +6192,9 @@ WLH 2208
 	 :LOGBOOK:
 	 CLOCK: [2013-12-13 Fri 07:45]--[2013-12-13 Fri 11:10] =>  3:25
 	 :END:
+	 :PROPERTIES:
+	 :ID:       c4134d91-fd50-48be-9274-ab71fd0dc1db
+	 :END:
 	 <2013-12-13 Fri 08:00-10:59>
 
 ********* Location
@@ -7235,19 +7238,46 @@ http://edugen.wileyplus.com/edugen/domain/dmn71317/
 - ucsdmath10b
 ****** Tasks
 ******* TODO Plan course
+	:PROPERTIES:
+	:ID:       a092c095-f9f6-40ab-8e8c-b44cfbf849e1
+	:END:
 ******** NEXT Org structure
 	 :LOGBOOK:
 	 - State "NEXT"       from "DONE"       [2013-12-09 Mon 12:54]
 	 :END:
+	 :PROPERTIES:
+	 :ID:       9b2efa1b-eb15-4098-b923-fa7d109e6799
+	 :END:
 Lectures in calendar and tasks like planning lectures.
 
 ******* TODO Lectures
+	:PROPERTIES:
+	:ID:       2c24d880-f741-4359-8933-66e85da781f9
+	:END:
 ******** NEXT Create Lecture Schedule
+	 :PROPERTIES:
+	 :ID:       2cfff7c3-835e-4fca-8183-ee6e8ba0911d
+	 :END:
 ******** NEXT Prepare Lectures
+	 :PROPERTIES:
+	 :ID:       a17dfd68-595a-43a5-945c-417acbc77585
+	 :END:
 ******* TODO Website
+	:PROPERTIES:
+	:ID:       ebd435f8-e4a6-4d56-ae47-cf4c2ad652d6
+	:END:
 ******** NEXT Make website
+	 :PROPERTIES:
+	 :ID:       a36b6d5f-83eb-44ae-a58d-967dabef72ee
+	 :END:
 ******* TODO Grades
+	:PROPERTIES:
+	:ID:       5bb2241a-e8cd-4ce7-aaae-f8dbf8d9788f
+	:END:
 ******** NEXT Enter grades
+	 :PROPERTIES:
+	 :ID:       f7c57fbf-aa0c-41cc-a9fb-8f7b8e47e75a
+	 :END:
 ****** Clocking
 ******* Admin
 ******* Office hours
@@ -7270,21 +7300,51 @@ Lectures in calendar and tasks like planning lectures.
 ****** Notes
 ****** Tasks
 ******* TODO Plan course
+	:PROPERTIES:
+	:ID:       059826a0-8150-4f15-8644-756d3eb62c45
+	:END:
 ******** NEXT Org structure
 	 :LOGBOOK:
 	 - State "NEXT"       from "DONE"       [2013-12-09 Mon 12:54]
+	 :END:
+	 :PROPERTIES:
+	 :ID:       4e0ea3eb-b6d3-4307-9534-b936e0f197ed
 	 :END:
 Lectures in calendar and tasks like planning lectures.
 
 ******** NEXT Create Ted
 	 DEADLINE: <2013-12-27 Fri>
+	 :PROPERTIES:
+	 :ID:       f53bc660-a439-4995-8651-9c59fe579261
+	 :END:
 ******* TODO Lectures
+	:PROPERTIES:
+	:ID:       d508bbc8-7b4a-4a78-b7e1-af8084661e9a
+	:END:
 ******** NEXT Create Lecture Schedule
+	 :PROPERTIES:
+	 :ID:       e80aaf85-482f-4218-9d6b-3a86599a26d9
+	 :END:
 ******** NEXT Prepare Lectures
+	 :PROPERTIES:
+	 :ID:       ea796c16-95f9-49a0-9d71-64257f2a0e8d
+	 :END:
 ******* TODO Website
+	:PROPERTIES:
+	:ID:       8ca7a4ba-f9f0-4d9c-adb0-456ec3dfbe8d
+	:END:
 ******** NEXT Make website
+	 :PROPERTIES:
+	 :ID:       f6b7ee12-4b2f-4bb0-9d17-756faa24e2ab
+	 :END:
 ******* TODO Grades
+	:PROPERTIES:
+	:ID:       ae275f73-230a-444a-bf39-566b7290b658
+	:END:
 ******** NEXT Enter grades
+	 :PROPERTIES:
+	 :ID:       8b329bcb-826c-4da0-964f-b6b6d1d632b7
+	 :END:
 ****** Clocking
 ******* Admin
 ******* Office hours
@@ -7536,6 +7596,7 @@ http://urp.ucsd.edu/
 	<2013-12-11 Wed 12:00-13:00>
 ******* Caitlin Endler
 	:LOGBOOK:
+	CLOCK: [2013-12-13 Fri 13:30]--[2013-12-13 Fri 14:30] =>  1:00
 	CLOCK: [2013-11-22 Fri 12:05]--[2013-11-22 Fri 12:55] =>  0:50
 	:END:
 	:PROPERTIES:

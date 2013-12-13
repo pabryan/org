@@ -335,6 +335,9 @@ $14
   :LOGBOOK:
   CLOCK: [2013-12-12 Thu 13:00]--[2013-12-12 Thu 13:01] =>  0:01
   :END:
+      :PROPERTIES:
+      :ID:       ac714082-75fb-4d17-b434-24960becfe1e
+      :END:
 [2013-12-12 Thu 13:00]
 https://docs.google.com/spreadsheet/ccc?key=0Aqcrggn9R6cWdG9GbUp0ZUozUHd0X1V4NlpEcE8zaXc&usp=sharing#gid=0
 **** Sharing
