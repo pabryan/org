@@ -394,7 +394,7 @@ http://www.ams.org/editflow/wft/refrep.php?rr=26201&s=*B4F7B3FE017D5B64D6B
 Decided not to do it.
 *** NEXT Referee PROC 131124-WANG
     :LOGBOOK:
-    CLOCK: [2013-12-13 Fri 11:45]
+    CLOCK: [2013-12-13 Fri 11:45]--[2013-12-13 Fri 12:00] =>  0:15
     :END:
 - report: http://www.ams.org/editflow/wft/refrep.php?rr=28672&s=*04B42F99DC49A2392FC
 - file: [[file:~/reference/academic/journals/referee/131124-WANG]]
@@ -1262,6 +1262,7 @@ That is, Ben and Janelle have proven the backward convergence, and to finish we 
 ****** Meetings
        SCHEDULED: <2013-12-13 Fri 12:00-13:00>
        :LOGBOOK:
+       CLOCK: [2013-12-13 Fri 12:00]
        CLOCK: [2013-11-18 Mon 12:18]--[2013-11-18 Mon 13:40] =>  1:22
        :END:
 
