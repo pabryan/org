@@ -392,7 +392,10 @@ http://www.ams.org/editflow/wft/refrep.php?rr=26201&s=*B4F7B3FE017D5B64D6B
     :ID:       6ad0abf7-6e7f-473f-985d-edc9c77eba6a
     :END:
 Decided not to do it.
-*** TODO Referee PROC 131124-WANG
+*** NEXT Referee PROC 131124-WANG
+    :LOGBOOK:
+    CLOCK: [2013-12-13 Fri 11:45]
+    :END:
 - report: http://www.ams.org/editflow/wft/refrep.php?rr=28672&s=*04B42F99DC49A2392FC
 - file: [[file:~/reference/academic/journals/referee/131124-WANG]]
 ** Selected Papers
