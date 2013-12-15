@@ -1277,7 +1277,7 @@ This proves the inequality we need.  The remaining problem is to remove the symm
 That is, Ben and Janelle have proven the backward convergence, and to finish we need to show the solution is the shrinking round circle
 ***** Clocking
 ****** Meetings
-       SCHEDULED: <2013-12-13 Fri 12:00-13:00>
+       <2013-12-13 Fri 12:00-13:00>
        :LOGBOOK:
        CLOCK: [2013-12-13 Fri 12:00]--[2013-12-13 Fri 13:30] =>  1:30
        CLOCK: [2013-11-18 Mon 12:18]--[2013-11-18 Mon 13:40] =>  1:22
