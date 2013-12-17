@@ -5340,6 +5340,9 @@ WLH 2113
 [[http://www.math.uci.edu/~cterng/SurfacesInR^3.pdf]]
 [[http://www.math.ku.dk/noter/filer/geom1.pdf]]
 http://people.math.gatech.edu/~ghomi/LectureNotes/
+******* Students
+******** Zeqing Chen
+- Give an incomplete
 ****** Tasks
 ******* DONE Plan course
 	:LOGBOOK:
@@ -5938,6 +5941,9 @@ Lectures in calendar and tasks like planning lectures.
 	:END:
 ******** NEXT Enter grades
 	 DEADLINE: <2013-12-17 Tue>
+	 :LOGBOOK:
+	 CLOCK: [2013-12-16 Mon 21:33]
+	 :END:
 	 :PROPERTIES:
 	 :ID:       53e3402a-a7af-41ec-b04b-7df26ade8aa4
 	 :END:       
