@@ -1255,26 +1255,37 @@ This proves the inequality we need.  The remaining problem is to remove the symm
      :PROPERTIES:
      :ID:       6a082853-9a95-4756-9632-17078bd0fe4b
      :END:
+[[file:~/working/academic/research/csf_ancient_sphere]]
 ***** Tasks
-****** NEXT Work out curvature evolution in coords
+****** DONE Work out curvature evolution in coords
        :LOGBOOK:
+       - State "DONE"       from "NEXT"       [2013-12-17 Tue 12:56]
        CLOCK: [2013-10-21 Mon 11:35]--[2013-10-21 Mon 12:37] =>  1:02
        :END:
        :PROPERTIES:
        :ID:       072484d3-34af-4d34-b8bc-f1a9e44913f7
        :END:
-****** TODO Define pressure
+****** CANCELLED Define pressure
+       :LOGBOOK:
+       - State "CANCELLED"  from "TODO"       [2013-12-17 Tue 12:56] \\
+	 Not necessary.
+       :END:
        :PROPERTIES:
        :ID:       9269bbf3-ecf7-42fd-99fb-4fbfcb952c55
        :END:
-****** NEXT Prove smooth backward convergence to equator implies round circle
+****** DONE Prove smooth backward convergence to equator implies round circle
        :LOGBOOK:
+       - State "DONE"       from "NEXT"       [2013-12-17 Tue 12:56]
        CLOCK: [2013-12-03 Tue 15:16]--[2013-12-03 Tue 16:51] =>  1:35
        :END:
        :PROPERTIES:
        :ID:       8c4123a3-7132-43fa-8bff-57827ae1c8ad
        :END:
 That is, Ben and Janelle have proven the backward convergence, and to finish we need to show the solution is the shrinking round circle
+****** NEXT Write outline of Alexandrov reflection argument
+       :LOGBOOK:
+       CLOCK: [2013-12-17 Tue 12:57]--[2013-12-17 Tue 14:14] =>  1:17
+       :END:
 ***** Clocking
 ****** Meetings
        <2013-12-13 Fri 12:00-13:00>
