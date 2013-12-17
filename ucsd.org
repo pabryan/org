@@ -6916,9 +6916,10 @@ Less questions!
 	:PROPERTIES:
 	:ID:       fcdba6bb-7ed2-460a-8d9b-01afc956c202
 	:END:
-******** NEXT Enter grades
+******** DONE Enter grades
 	 DEADLINE: <2013-12-17 Tue>
 	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2013-12-17 Tue 10:23]
 	 CLOCK: [2013-12-17 Tue 09:36]--[2013-12-17 Tue 09:38] =>  0:02
 	 CLOCK: [2013-12-16 Mon 22:30]--[2013-12-16 Mon 23:20] =>  0:50
 	 :END:
