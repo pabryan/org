@@ -6919,6 +6919,7 @@ Less questions!
 ******** NEXT Enter grades
 	 DEADLINE: <2013-12-17 Tue>
 	 :LOGBOOK:
+	 CLOCK: [2013-12-17 Tue 09:36]--[2013-12-17 Tue 09:38] =>  0:02
 	 CLOCK: [2013-12-16 Mon 22:30]--[2013-12-16 Mon 23:20] =>  0:50
 	 :END:
 	 :PROPERTIES:
@@ -7248,6 +7249,9 @@ Place: APM 7421
 ******* Homework
 http://edugen.wileyplus.com/edugen/domain/dmn71317/
 - ucsdmath10b
+******* TA's
+- SiuYung Fung, B01,B02
+- TBA, B03, B05
 ****** Tasks
 ******* TODO Plan course
 	:PROPERTIES:
@@ -7310,6 +7314,10 @@ Lectures in calendar and tasks like planning lectures.
       :END:
 [[file:~/working/ucsd/teaching/math20b_winter_2013]]
 ****** Notes
+******* TA's
+- Francesca Grogan, D01-D04
+- Eric Evert, D05,D06
+- TBA, D07
 ****** Tasks
 ******* TODO Plan course
 	:PROPERTIES:
