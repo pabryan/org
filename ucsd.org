@@ -7260,6 +7260,7 @@ http://edugen.wileyplus.com/edugen/domain/dmn71317/
 	:END:
 ******** NEXT Org structure
 	 :LOGBOOK:
+	 CLOCK: [2013-12-18 Wed 12:36]
 	 - State "NEXT"       from "DONE"       [2013-12-09 Mon 12:54]
 	 :END:
 	 :PROPERTIES:
@@ -7271,14 +7272,80 @@ Lectures in calendar and tasks like planning lectures.
 	:PROPERTIES:
 	:ID:       2c24d880-f741-4359-8933-66e85da781f9
 	:END:
-******** NEXT Create Lecture Schedule
+******** DONE Create Lecture Schedule
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2013-12-18 Wed 12:46]
+	 :END:
 	 :PROPERTIES:
 	 :ID:       2cfff7c3-835e-4fca-8183-ee6e8ba0911d
 	 :END:
-******** NEXT Prepare Lectures
+******** TODO Prepare Lectures
 	 :PROPERTIES:
 	 :ID:       a17dfd68-595a-43a5-945c-417acbc77585
 	 :END:
+********* Mon
+********** NEXT Lecture 1.1
+	   DEADLINE: <2014-01-06 Mon>
+********** TODO Lecture 2.1
+	   DEADLINE: <2014-01-13 Mon>
+********** TODO Lecture 3.1
+	   DEADLINE: <2014-01-20 Mon>
+********** TODO Lecture 4.1
+	   DEADLINE: <2014-01-27 Mon>
+********** TODO Lecture 5.1
+	   DEADLINE: <2014-02-03 Mon>
+********** TODO Lecture 6.1
+	   DEADLINE: <2014-02-10 Mon>
+********** TODO Lecture 7.1
+	   DEADLINE: <2014-02-17 Mon>
+********** TODO Lecture 8.1
+	   DEADLINE: <2014-02-24 Mon>
+********** TODO Lecture 9.1
+	   DEADLINE: <2014-03-03 Mon>
+********** TODO Lecture 10.1
+	   DEADLINE: <2014-03-10 Mon>
+********* Wed
+********** NEXT Lecture 1.2
+	   DEADLINE: <2014-01-08 Wed>
+********** TODO Lecture 2.2
+	   DEADLINE: <2014-01-15 Wed>
+********** TODO Lecture 3.2
+	   DEADLINE: <2014-01-22 Wed>
+********** TODO Lecture 4.2
+	   DEADLINE: <2014-01-29 Wed>
+********** TODO Lecture 5.2
+	   DEADLINE: <2014-02-05 Wed>
+********** TODO Lecture 6.2
+	   DEADLINE: <2014-02-12 Wed>
+********** TODO Lecture 7.2
+	   DEADLINE: <2014-02-19 Wed>
+********** TODO Lecture 8.2
+	   DEADLINE: <2014-02-26 Wed>
+********** TODO Lecture 9.2
+	   DEADLINE: <2014-03-05 Wed>
+********** TODO Lecture 10.2
+	   DEADLINE: <2014-03-12 Wed>
+********* Fri
+********** NEXT Lecture 1.3
+	   DEADLINE: <2014-01-10 Fri>
+********** TODO Lecture 1.3
+	   DEADLINE: <2014-01-17 Fri>
+********** TODO Lecture 1.3
+	   DEADLINE: <2014-01-24 Fri>
+********** TODO Lecture 1.3
+	   DEADLINE: <2014-01-31 Fri>
+********** TODO Lecture 1.3
+	   DEADLINE: <2014-02-07 Fri>
+********** TODO Lecture 1.3
+	   DEADLINE: <2014-02-14 Fri>
+********** TODO Lecture 1.3
+	   DEADLINE: <2014-02-21 Fri>
+********** TODO Lecture 1.3
+	   DEADLINE: <2014-02-28 Fri>
+********** TODO Lecture 1.3
+	   DEADLINE: <2014-03-07 Fri>
+********** TODO Lecture 1.3
+	   DEADLINE: <2014-03-14 Fri>
 ******* TODO Website
 	:PROPERTIES:
 	:ID:       ebd435f8-e4a6-4d56-ae47-cf4c2ad652d6
@@ -7342,14 +7409,77 @@ Lectures in calendar and tasks like planning lectures.
 	:PROPERTIES:
 	:ID:       d508bbc8-7b4a-4a78-b7e1-af8084661e9a
 	:END:
-******** NEXT Create Lecture Schedule
+******** DONE Create Lecture Schedule
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2013-12-18 Wed 12:54]
+	 :END:
 	 :PROPERTIES:
 	 :ID:       e80aaf85-482f-4218-9d6b-3a86599a26d9
 	 :END:
-******** NEXT Prepare Lectures
-	 :PROPERTIES:
-	 :ID:       ea796c16-95f9-49a0-9d71-64257f2a0e8d
-	 :END:
+******** TODO Prepare Lectures
+********* Mon
+********** NEXT Lecture 1.1
+	   DEADLINE: <2014-01-06 Mon>
+********** TODO Lecture 2.1
+	   DEADLINE: <2014-01-13 Mon>
+********** TODO Lecture 3.1
+	   DEADLINE: <2014-01-20 Mon>
+********** TODO Lecture 4.1
+	   DEADLINE: <2014-01-27 Mon>
+********** TODO Lecture 5.1
+	   DEADLINE: <2014-02-03 Mon>
+********** TODO Lecture 6.1
+	   DEADLINE: <2014-02-10 Mon>
+********** TODO Lecture 7.1
+	   DEADLINE: <2014-02-17 Mon>
+********** TODO Lecture 8.1
+	   DEADLINE: <2014-02-24 Mon>
+********** TODO Lecture 9.1
+	   DEADLINE: <2014-03-03 Mon>
+********** TODO Lecture 10.1
+	   DEADLINE: <2014-03-10 Mon>
+********* Wed
+********** NEXT Lecture 1.2
+	   DEADLINE: <2014-01-08 Wed>
+********** TODO Lecture 2.2
+	   DEADLINE: <2014-01-15 Wed>
+********** TODO Lecture 3.2
+	   DEADLINE: <2014-01-22 Wed>
+********** TODO Lecture 4.2
+	   DEADLINE: <2014-01-29 Wed>
+********** TODO Lecture 5.2
+	   DEADLINE: <2014-02-05 Wed>
+********** TODO Lecture 6.2
+	   DEADLINE: <2014-02-12 Wed>
+********** TODO Lecture 7.2
+	   DEADLINE: <2014-02-19 Wed>
+********** TODO Lecture 8.2
+	   DEADLINE: <2014-02-26 Wed>
+********** TODO Lecture 9.2
+	   DEADLINE: <2014-03-05 Wed>
+********** TODO Lecture 10.2
+	   DEADLINE: <2014-03-12 Wed>
+********* Fri
+********** NEXT Lecture 1.3
+	   DEADLINE: <2014-01-10 Fri>
+********** TODO Lecture 1.3
+	   DEADLINE: <2014-01-17 Fri>
+********** TODO Lecture 1.3
+	   DEADLINE: <2014-01-24 Fri>
+********** TODO Lecture 1.3
+	   DEADLINE: <2014-01-31 Fri>
+********** TODO Lecture 1.3
+	   DEADLINE: <2014-02-07 Fri>
+********** TODO Lecture 1.3
+	   DEADLINE: <2014-02-14 Fri>
+********** TODO Lecture 1.3
+	   DEADLINE: <2014-02-21 Fri>
+********** TODO Lecture 1.3
+	   DEADLINE: <2014-02-28 Fri>
+********** TODO Lecture 1.3
+	   DEADLINE: <2014-03-07 Fri>
+********** TODO Lecture 1.3
+	   DEADLINE: <2014-03-14 Fri>
 ******* TODO Website
 	:PROPERTIES:
 	:ID:       8ca7a4ba-f9f0-4d9c-adb0-456ec3dfbe8d
