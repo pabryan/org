@@ -3186,7 +3186,17 @@ My experiences learning/implementing these strategies.
      :END:
 [[file:~/reference/academic/jobs/2015/andre_neves]]
 ***** NEXT Apply for job
-      DEADLINE: <2013-12-31 Tue>
+      :LOGBOOK:
+      CLOCK: [2013-12-23 Mon 13:30]
+      :END:
+
+      :DEADLINE: <2014-01-07 Tue>
       :PROPERTIES:
       :ID:       f64015ef-23c5-4fea-b05c-5866738e2413
+      :END:
+
+***** WAITING Get referees
+      :LOGBOOK:
+      - State "WAITING"    from "NEXT"       [2013-12-23 Mon 14:00] \\
+	Waiting on Lei Ni and Ben Andrews to say if they'll be referees.
       :END:
