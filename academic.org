@@ -3191,7 +3191,7 @@ My experiences learning/implementing these strategies.
       CLOCK: [2013-12-23 Mon 13:30]--[2013-12-23 Mon 14:12] =>  0:42
       :END:
 
-      :DEADLINE: <2014-01-07 Tue>
+      :DEADLINE: <2014-01-07 Tue -2w>
       :PROPERTIES:
       :ID:       f64015ef-23c5-4fea-b05c-5866738e2413
       :END:
