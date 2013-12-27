@@ -3185,6 +3185,7 @@ My experiences learning/implementing these strategies.
      :ID:       88d3bf30-04ce-434d-a1e4-bd36bda546a6
      :END:
 [[file:~/reference/academic/jobs/2015/andre_neves]]
+http://www3.imperial.ac.uk/employment
 ***** NEXT Apply for job
       :LOGBOOK:
       CLOCK: [2013-12-26 Thu 11:38]--[2013-12-26 Thu 12:30] =>  0:52
@@ -3196,8 +3197,9 @@ My experiences learning/implementing these strategies.
       :ID:       f64015ef-23c5-4fea-b05c-5866738e2413
       :END:
 
-***** WAITING Get referees
+***** DONE Get referees
       :LOGBOOK:
+      - State "DONE"       from "WAITING"    [2013-12-26 Thu 19:35]
       - State "WAITING"    from "NEXT"       [2013-12-23 Mon 14:00] \\
 	Waiting on Lei Ni and Ben Andrews to say if they'll be referees.
       :END:
