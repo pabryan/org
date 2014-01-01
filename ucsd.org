@@ -5329,7 +5329,10 @@ WLH 2113
 
 *** 2013/2014
 **** Fall 2013						    :FALL_2013:FOCUS:
-***** TODO Math150A						   :MATH150A:
+***** DONE Math150A						   :MATH150A:
+      :LOGBOOK:
+      - State "DONE"       from "TODO"       [2014-01-01 Wed 14:03]
+      :END:
       :PROPERTIES:
       :ID:       ba51acc3-2f96-4491-a248-f133019b7d81
       :END:
@@ -5935,7 +5938,10 @@ Lectures in calendar and tasks like planning lectures.
   :ID:       7afc0857-1fa4-4f63-b70c-614505146e07
   :END:
 [2013-10-14 Mon 12:03]
-******* TODO Grades
+******* DONE Grades
+	:LOGBOOK:
+	- State "DONE"       from "TODO"       [2014-01-01 Wed 14:03]
+	:END:
 	:PROPERTIES:
 	:ID:       83c17f91-6861-4c43-b1e8-c764b28b94c0
 	:END:
@@ -6216,7 +6222,10 @@ TBA
 
 ******* Students
 ******** Jayme V Rosenquist
-***** TODO Math20B 						    :MATH20B:	   
+***** DONE Math20B						    :MATH20B:
+      :LOGBOOK:
+      - State "DONE"       from "TODO"       [2014-01-01 Wed 14:03]
+      :END:
       :PROPERTIES:
       :ID:       d723ae88-2203-4094-af9c-9312bd092184
       :END:
@@ -6912,7 +6921,10 @@ Less questions!
 	 :PROPERTIES:
 	 :ID:       08521821-879d-4049-88a1-d1851f15b99f
 	 :END:
-******* TODO Grades
+******* DONE Grades
+	:LOGBOOK:
+	- State "DONE"       from "TODO"       [2014-01-01 Wed 14:03]
+	:END:
 	:PROPERTIES:
 	:ID:       fcdba6bb-7ed2-460a-8d9b-01afc956c202
 	:END:
@@ -6926,11 +6938,17 @@ Less questions!
 	 :PROPERTIES:
 	 :ID:       986f7eda-0967-452f-9b83-9a43234fc70d
 	 :END:       
-******** TODO Alter student grades
+******** DONE Alter student grades
+	 :LOGBOOK:
+	 - State "DONE"       from "TODO"       [2014-01-01 Wed 14:03]
+	 :END:
 	 :PROPERTIES:
 	 :ID:       1cd8a87e-aa61-4b87-a940-94b6709c65db
 	 :END:
-********* NEXT Duo Wang
+********* DONE Duo Wang
+	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2014-01-01 Wed 14:03]
+	  :END:
 	  :PROPERTIES:
 	  :ID:       4c751d9b-eb8b-47e2-bef2-86069019700d
 	  :END:
