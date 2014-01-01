@@ -27,37 +27,40 @@ END:
 
 *** Monthly
 #+TBLNAME: MTHBUDGET
-| Desc            |   Amt |
-|-----------------+-------|
-| Rent            |  1431 |
-| Electricity     |    75 |
-| Phone           |    90 |
-| TV/Internet     |    60 |
-| Insurance       |    90 |
-|                 |       |
-| Fixed SubTotal  |  1746 |
-|                 |       |
-| Petrol          |    50 |
-| Comics          |    60 |
-| Cloud           |    13 |
-| tritoncash      |    25 |
-| Netflix         |    10 |
-| Pets            |    25 |
-|                 |       |
-| Extras Subtotal |   183 |
-|                 |       |
-| Organic Box     |   250 |
-| Weekly Food     |   350 |
-| Costco          |   200 |
-|                 |       |
-| Food Subtotal   |   800 |
-|                 |       |
-| Australia       |   915 |
-|                 |       |
-| Pay             | -3800 |
-|                 |       |
-| Total           |  -156 |
-   #+TBLFM: @8$2=vsum(@2$2..@7$2)::@17$2=vsum(@10..@16)::@19$2=250::@23$2=vsum(@19..@22)::@25$2=remote(Australia,@8$2)::@29$2=@8$2+@17$2+@23$2+@25$2+@27$2
+| Desc                 |   Amt |
+|----------------------+-------|
+| Rent                 |  1431 |
+| Electricity          |    75 |
+| Phone                |    80 |
+| TV/Internet          |    50 |
+| Insurance            |    90 |
+|                      |       |
+| Fixed SubTotal       |  1726 |
+|                      |       |
+| Petrol               |   150 |
+|                      |       |
+| Necessities SubTotal |   150 |
+|                      |       |
+| Comics               |    60 |
+| Cloud                |    13 |
+| tritoncash           |    25 |
+| Netflix              |    10 |
+| Pets                 |    25 |
+|                      |       |
+| Extras Subtotal      |   133 |
+|                      |       |
+| Organic Box          |   250 |
+| Weekly Food          |   350 |
+| Costco               |   200 |
+|                      |       |
+| Food Subtotal        |   850 |
+|                      |       |
+| Australia            |   915 |
+|                      |       |
+| Pay                  | -3800 |
+|                      |       |
+| Total                |   -26 |
+   #+TBLFM: @8$2=vsum(@2$2..@7$2)::@12$2=vsum(@10$2..@11$2)::@20$2=vsum(@14..@19)::@26$2=vsum(@22..@25)::@28$2=remote(Australia,@8$2)::@32$2=@8$2 + @12$2 + @20$2+@26$2+@28$2+@30$2
 
 
 #+TBLNAME: MonthlyFood 
@@ -149,29 +152,30 @@ END:
    
 ** Bills 
 *** TODO Pay rent
-    SCHEDULED: <2014-01-01 Wed +1m>    
-   :LOGBOOK:
-   - State "DONE"       from "TODO"       [2013-12-02 Mon 12:27]
-   - State "DONE"       from "TODO"       [2013-11-01 Fri 12:35]
-   - State "DONE"       from "TODO"       [2013-10-01 Tue 20:16]
-   - State "DONE"       from "TODO"       [2013-09-01 Sun 10:46]
-   CLOCK: [2013-02-01 Fri 14:42]--[2013-02-01 Fri 14:57] =>  0:15
-   - State "DONE"       from "TODO"       [2013-08-01 Thu 11:12]
-   - State "DONE"       from "TODO"       [2013-07-02 Tue 09:35]
-   - State "DONE"       from "TODO"       [2013-06-05 Wed 16:30]
-     - State "DONE"       from "TODO"       [2013-05-02 Thu 11:54]
-   - State "DONE"       from "TODO"       [2013-04-02 Tue 21:33]
-   - State "DONE"       from "TODO"       [2013-03-02 Sat 21:11]
-   - State "DONE"       from "NEXT"       [2013-02-01 Fri 14:57]
-   - State "DONE"       from "TODO"       [2013-01-01 Tue 16:58]
-   - State "DONE"       from "TODO"       [2012-12-01 Sat 09:29]
-   - State "DONE"       from "TODO"       [2012-11-02 Fri 16:08]
+    SCHEDULED: <2014-02-01 Sat +1m>    
+    :LOGBOOK:
+    - State "DONE"       from "TODO"       [2014-01-01 Wed 13:38]
+    - State "DONE"       from "TODO"       [2013-12-02 Mon 12:27]
+    - State "DONE"       from "TODO"       [2013-11-01 Fri 12:35]
+    - State "DONE"       from "TODO"       [2013-10-01 Tue 20:16]
+    - State "DONE"       from "TODO"       [2013-09-01 Sun 10:46]
+    CLOCK: [2013-02-01 Fri 14:42]--[2013-02-01 Fri 14:57] =>  0:15
+    - State "DONE"       from "TODO"       [2013-08-01 Thu 11:12]
+    - State "DONE"       from "TODO"       [2013-07-02 Tue 09:35]
+    - State "DONE"       from "TODO"       [2013-06-05 Wed 16:30]
+    - State "DONE"       from "TODO"       [2013-05-02 Thu 11:54]
+    - State "DONE"       from "TODO"       [2013-04-02 Tue 21:33]
+    - State "DONE"       from "TODO"       [2013-03-02 Sat 21:11]
+    - State "DONE"       from "NEXT"       [2013-02-01 Fri 14:57]
+    - State "DONE"       from "TODO"       [2013-01-01 Tue 16:58]
+    - State "DONE"       from "TODO"       [2012-12-01 Sat 09:29]
+    - State "DONE"       from "TODO"       [2012-11-02 Fri 16:08]
    :END:
-   DEADLINE: <2014-01-05 Sun +1m>
+    DEADLINE: <2014-02-05 Wed +1m>
 
    :PROPERTIES:
    :ID:       ea07bf7b-9f89-49bf-90db-3e167baff163
-   :LAST_REPEAT: [2013-12-02 Mon 12:27]
+   :LAST_REPEAT: [2014-01-01 Wed 13:38]
    :END:
    [2012-10-17 Wed 14:44]
 
@@ -179,8 +183,9 @@ Use account A11078844
 [[https://act.ucsd.edu/studentBilling/billing]]
 
 *** TODO Pay ATT
-    SCHEDULED: <2014-01-01 Wed +1m> 
+    SCHEDULED: <2014-02-01 Sat +1m> 
     :LOGBOOK:
+    - State "DONE"       from "TODO"       [2014-01-01 Wed 13:51]
     - State "DONE"       from "TODO"       [2013-12-02 Mon 12:27]
     - State "DONE"       from "TODO"       [2013-11-01 Fri 12:39]
     - State "DONE"       from "TODO"       [2013-10-01 Tue 20:20]
@@ -192,7 +197,7 @@ Use account A11078844
     - State "DONE"       from "TODO"       [2013-04-02 Tue 21:33]
     :END:
     :PROPERTIES:
-    :LAST_REPEAT: [2013-12-02 Mon 12:27]
+    :LAST_REPEAT: [2014-01-01 Wed 13:51]
     :ID:       137987c4-8151-42f0-bfad-b1e06d2cd512
     :END:
 [[http://www.att.com/]]
