@@ -651,6 +651,7 @@ Try to use as much available software that I can find. Do it like Sage - don't r
        	:END:
 ******* NEXT Make 1st draft
 	:LOGBOOK:
+	CLOCK: [2014-01-01 Wed 14:04]
 	CLOCK: [2013-12-12 Thu 20:10]--[2013-12-12 Thu 21:16] =>  1:06
 	CLOCK: [2013-12-10 Tue 11:44]--[2013-12-10 Tue 11:53] =>  0:09
 	CLOCK: [2013-12-10 Tue 10:22]--[2013-12-10 Tue 11:44] =>  1:22
@@ -670,7 +671,7 @@ Try to use as much available software that I can find. Do it like Sage - don't r
        :PROPERTIES:
        :ID:       2dab82b7-790c-4235-8b60-23b4587e88c6
        :END:
-******* NEXT Work out logarithmic porous media integral transform
+******* TODO Work out logarithmic porous media integral transform
     :PROPERTIES:
     :ID:       f2988334-a37d-47fc-86ac-43d616cf29d5
     :END:
@@ -684,7 +685,7 @@ how are they related?
 	:PROPERTIES:
 	:ID:       a3eb8c1f-781e-4763-b78d-2064d47e1694
 	:END:
-******* TODO Find ref for ln porous media change of vars
+******* NEXT Find ref for ln porous media change of vars
 	:PROPERTIES:
 	:ID:       86881bec-f41e-4f19-9b7e-b055f117c357
 	:END:
@@ -791,12 +792,16 @@ I have a lower bound for the numerator. To get an upper bound for the denominato
        	:PROPERTIES:
        	:ID:       60cbd811-022c-4afa-bb52-bc82b8694314
        	:END:			     
-******* NEXT Write curvature bound
+******* DONE Write curvature bound
+	:LOGBOOK:
+	- State "DONE"       from "NEXT"       [2014-01-01 Wed 14:10]
+	:END:
 	:PROPERTIES:
 	:ID:       f79a49d1-2418-4fee-98a0-c6c5c5ab6d97
 	:END:
 Update comparison theorem to read \(I\geq \phi\) implies that \(\sup_M K_t \leq \phi''(0, t)/24\) or whatever the constant is.
 
+******* NEXT Change comparison theorem to explicitly use asymptotics
 ***** Notes
 ***** References
 **** TODO alpha CSF distance comparison				  :CSF_ALPHA:
