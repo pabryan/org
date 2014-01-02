@@ -7306,9 +7306,11 @@ Lectures in calendar and tasks like planning lectures.
 	 :ID:       a17dfd68-595a-43a5-945c-417acbc77585
 	 :END:
 ********* Mon
-********** NEXT Lecture 1.1
+********** DONE Lecture 1.1
 	   DEADLINE: <2014-01-06 Mon>
 	   :LOGBOOK:
+	   - State "DONE"       from "NEXT"       [2014-01-02 Thu 13:36]
+	   CLOCK: [2014-01-02 Thu 13:04]--[2014-01-02 Thu 13:36] =>  0:32
 	   CLOCK: [2014-01-02 Thu 12:03]--[2014-01-02 Thu 12:20] =>  0:17
 	   :END:
 ********** TODO Lecture 2.1
