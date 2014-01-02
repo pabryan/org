@@ -651,7 +651,7 @@ Try to use as much available software that I can find. Do it like Sage - don't r
        	:END:
 ******* NEXT Make 1st draft
 	:LOGBOOK:
-	CLOCK: [2014-01-01 Wed 14:04]
+	CLOCK: [2014-01-01 Wed 14:04]--[2014-01-01 Wed 15:56] =>  1:52
 	CLOCK: [2013-12-12 Thu 20:10]--[2013-12-12 Thu 21:16] =>  1:06
 	CLOCK: [2013-12-10 Tue 11:44]--[2013-12-10 Tue 11:53] =>  0:09
 	CLOCK: [2013-12-10 Tue 10:22]--[2013-12-10 Tue 11:44] =>  1:22
