@@ -802,6 +802,9 @@ I have a lower bound for the numerator. To get an upper bound for the denominato
 Update comparison theorem to read \(I\geq \phi\) implies that \(\sup_M K_t \leq \phi''(0, t)/24\) or whatever the constant is.
 
 ******* NEXT Change comparison theorem to explicitly use asymptotics
+	:PROPERTIES:
+	:ID:       bc236144-ad90-4a4e-9c5c-c38831d40ab3
+	:END:
 ***** Notes
 ***** References
 **** TODO alpha CSF distance comparison				  :CSF_ALPHA:
@@ -1290,6 +1293,9 @@ That is, Ben and Janelle have proven the backward convergence, and to finish we 
 ****** NEXT Write outline of Alexandrov reflection argument
        :LOGBOOK:
        CLOCK: [2013-12-17 Tue 12:57]--[2013-12-17 Tue 14:14] =>  1:17
+       :END:
+       :PROPERTIES:
+       :ID:       e4309a03-3450-4994-a651-42e0666fb7a0
        :END:
 ***** Clocking
 ****** Meetings
@@ -3218,4 +3224,10 @@ My experiences learning/implementing these strategies.
       :END:
 
 ***** TODO Upload CV
+      :PROPERTIES:
+      :ID:       974b61d2-9618-49d6-9d3b-75172825454d
+      :END:
 ***** TODO Write research plan
+      :PROPERTIES:
+      :ID:       1173019a-4896-4388-b68e-d84a40afb454
+      :END:

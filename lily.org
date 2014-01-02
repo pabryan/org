@@ -125,6 +125,9 @@ Garfield Specialty Care Center
      :END:
 **** TODO Return Books
      DEADLINE: <2014-01-06 Mon>
+     :PROPERTIES:
+     :ID:       150817e2-c7d7-40bf-8b60-0035bc8686b6
+     :END:
 
 *** DONE Return library books
   DEADLINE: <2013-11-04 Mon>

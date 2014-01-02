@@ -14,6 +14,9 @@
    :ID:       62933d29-a004-402e-ad9b-07fc15674ca1
    :END:
 ** Flow Fit							       :GOAL:
+   :PROPERTIES:
+   :ID:       137c7bf1-f819-4dff-80af-498742d53d6b
+   :END:
 - 3 days a week
 - MWF: Before 9:30am!
 ** Infuflow
@@ -75,6 +78,9 @@
 *** Topology
 **** Differential
 ***** Read Bott, Tu						       :GOAL:
+      :PROPERTIES:
+      :ID:       ad02683f-783e-4936-9508-9be6bd198f50
+      :END:
 *** Geometry
 **** Convex
 ***** Read Schneider

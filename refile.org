@@ -19,9 +19,18 @@
 [2013-12-10 Tue 07:37]
 Given $M\subset N$ a cooriented hypersurface with normal vector $\nor$, define the cooriented (oriented?) curvature tangent ball at $p$ to be the largest ball tangent to $M$ with center in the direction $\nor$. Now do variations to find a viscosity equation for the curvature.
 * TODO Register Devon on club penguin
+  :PROPERTIES:
+  :ID:       b09d53be-dfb5-4aa0-b4dc-c4b9de5fdff0
+  :END:
 [2013-12-13 Fri 21:21]
 * TODO Investigate morhpisms of forms
+  :PROPERTIES:
+  :ID:       bcad8d1d-61fa-4614-9662-8f264d9ae1e4
+  :END:
 - Often these are given by the wedge of some form. Is there some way to characterize such morphisms?
 * TODO Organise students geometry meeting
   DEADLINE: <2014-01-04 Sat>
+  :PROPERTIES:
+  :ID:       8699f5b6-d3ad-45d3-9987-099812477a72
+  :END:
 [2014-01-01 Wed 13:38]
