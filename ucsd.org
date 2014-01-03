@@ -3976,10 +3976,10 @@ By integrating a Taylor series term by term, get the students to compute an inte
 	:ID:       080b484f-d512-4e33-b05c-e7ae72310396
 	:END:
 [2013-08-23 Fri 09:51]
-********* NEXT Grade Chloe Lee's resit
+********* DONE Grade Chloe Lee's resit
 	  :LOGBOOK:
-	  CLOCK: [2014-01-03 Fri 14:31]
-	  CLOCK: [2014-01-03 Fri 12:30]--[2014-01-03 Fri 12:50]
+	  CLOCK: [2014-01-03 Fri 14:31]--[2014-01-03 Fri 15:03] =>  0:32
+	  CLOCK: [2014-01-03 Fri 12:30]--[2014-01-03 Fri 12:50] =>  0:20
 	  :END:
 ******* DONE Homework
        	:LOGBOOK:
@@ -7783,6 +7783,31 @@ Lectures in calendar and tasks like planning lectures.
 	   :PROPERTIES:
 	   :ID:       d02ab0f7-31a0-489b-b26a-8fc9b65bfbde
 	   :END:
+******* TODO Quizzes
+******** TODO Quiz 1
+********* NEXT Check questions
+	  DEADLINE: <2014-01-10 Fri>
+******** TODO Quiz 2
+********* NEXT Check questions
+	  DEADLINE: <2014-02-07 Fri>
+******** TODO Quiz 3
+********* NEXT Check questions
+	  DEADLINE: <2014-02-14 Fri>
+******** TODO Quiz 4
+********* NEXT Check questions
+	  DEADLINE: <2014-02-28 Fri>
+
+******* TODO Exams
+******** TODO MT 1
+********* NEXT Prepare questions
+	  DEADLINE: <2014-01-23 Thu>
+
+******** TODO MT 2
+********* NEXT Prepare questions
+	  DEADLINE: <2014-02-20 Thu>
+******** TODO Final
+********* NEXT Prepare questions
+	  DEADLINE: <2014-03-06 Thu>
 ******* DONE Website
 	:LOGBOOK:
 	- State "DONE"       from "TODO"       [2013-12-18 Wed 14:17]
@@ -7808,6 +7833,9 @@ Lectures in calendar and tasks like planning lectures.
 	 :END:
 ****** Clocking
 ******* Admin
+	:LOGBOOK:
+	CLOCK: [2014-01-03 Fri 15:04]
+	:END:
 ******* Office hours
 ****** Schedule
 ******* Lectures
@@ -7890,6 +7918,12 @@ Center 101
 	 CLOCK: [2014-01-03 Fri 11:03]--[2014-01-03 Fri 11:50] =>  0:47
 	 :END:
 
+******* MT1 meeting
+	 SCHEDULED: <2014-01-23 Thu 14:00-15:00>
+******* MT2 meeting
+	 SCHEDULED: <2014-02-20 Thu 14:00-15:00>
+******* Final meeting
+	 SCHEDULED: <2014-03-06 Thu 14:00-15:00>
 **** Spring 2014
 **** Summer 2014 I
 **** Summer 2014 II
