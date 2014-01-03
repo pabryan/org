@@ -3914,8 +3914,9 @@ Lectures in calendar and tasks like planning lectures.
 	:ID:       c850135a-ad81-4beb-9a23-eafc30755bfd
 	:END:
 [2013-08-23 Fri 09:51]
-******** TODO Final
+******** DONE Final
 	 :LOGBOOK:
+	 - State "DONE"       from "TODO"       [2014-01-03 Fri 14:31]
 	 - State "TODO"       from "DONE"       [2013-09-12 Thu 19:56]
 	 - State "DONE"       from "TODO"       [2013-09-03 Tue 18:09]
 	 :END:
@@ -3948,7 +3949,10 @@ Lectures in calendar and tasks like planning lectures.
 	  :PROPERTIES:
 	  :ID:       a983c387-2406-48f4-ba40-3075856bddc3
 	  :END:
-********* NEXT Return Kevin Gu final
+********* DONE Return Kevin Gu final
+	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2014-01-03 Fri 14:31]
+	  :END:
 	  :PROPERTIES:
 	  :ID:       15ce4b29-48d7-411b-a919-f39ca28f9397
 	  :END:
@@ -3972,6 +3976,11 @@ By integrating a Taylor series term by term, get the students to compute an inte
 	:ID:       080b484f-d512-4e33-b05c-e7ae72310396
 	:END:
 [2013-08-23 Fri 09:51]
+********* NEXT Grade Chloe Lee's resit
+	  :LOGBOOK:
+	  CLOCK: [2014-01-03 Fri 14:31]
+	  CLOCK: [2014-01-03 Fri 12:30]--[2014-01-03 Fri 12:50]
+	  :END:
 ******* DONE Homework
        	:LOGBOOK:
        	- State "DONE"       from "TODO"       [2013-08-11 Sun 21:23]
