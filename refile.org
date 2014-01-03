@@ -34,3 +34,8 @@ Given $M\subset N$ a cooriented hypersurface with normal vector $\nor$, define t
   :ID:       8699f5b6-d3ad-45d3-9987-099812477a72
   :END:
 [2014-01-01 Wed 13:38]
+* TODO Archive things
+[2014-01-02 Thu 18:44]
+- Set up archiving for org-mode
+- archive working files for faster check_uncommited
+

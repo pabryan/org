@@ -8,14 +8,15 @@
 
 ** Tracking
 *** NEXT Exercise
-    SCHEDULED: <2013-12-31 Tue .+1d/2d>
+    SCHEDULED: <2014-01-03 Fri .+1d/2d>
     :PROPERTIES:
     :STYLE:    habit
     :REPEAT_TO_STATE: NEXT
     :ID:       8d56b2ef-1b49-4dc4-b701-1d021a293fa4
-    :LAST_REPEAT: [2013-12-30 Mon 12:45]
+    :LAST_REPEAT: [2014-01-02 Thu 18:42]
     :END:
     :LOGBOOK:
+    - State "DONE"       from "NEXT"       [2014-01-02 Thu 18:42]
     - State "DONE"       from "NEXT"       [2013-12-30 Mon 12:45]
     - State "DONE"       from "NEXT"       [2013-12-29 Sun 19:43]
     - State "DONE"       from "NEXT"       [2013-12-24 Tue 19:01]
@@ -525,8 +526,9 @@
     :END:
 
 *** NEXT Afternoon Relax
-    SCHEDULED: <2013-12-30 Mon .+1d/2d>
+    SCHEDULED: <2014-01-03 Fri .+1d/2d>
     :LOGBOOK:
+    - State "DONE"       from "NEXT"       [2014-01-02 Thu 18:42]
     - State "DONE"       from "NEXT"       [2013-12-29 Sun 19:43]
     - State "DONE"       from "NEXT"       [2013-12-26 Thu 19:09]
     - State "DONE"       from "NEXT"       [2013-12-24 Tue 19:01]
@@ -699,7 +701,7 @@
     :STYLE:    habit
     :REPEAT_TO_STATE: NEXT
     :ID:       c0aaf33a-af77-446b-b9fd-cf2d2f78c12a
-    :LAST_REPEAT: [2013-12-29 Sun 19:43]
+    :LAST_REPEAT: [2014-01-02 Thu 18:42]
     :END:
   
 *** NEXT Evening Stretch
