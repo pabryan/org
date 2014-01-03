@@ -38,4 +38,13 @@ Given $M\subset N$ a cooriented hypersurface with normal vector $\nor$, define t
 [2014-01-02 Thu 18:44]
 - Set up archiving for org-mode
 - archive working files for faster check_uncommited
+* TODO Note down book ideas
+  :LOGBOOK:
+  CLOCK: [2014-01-03 Fri 10:59]--[2014-01-03 Fri 11:02] =>  0:03
+  :END:
+[2014-01-03 Fri 10:59]
+** Chemical X
+Combustrum, aether, dark matter, vitamin X etc. are all examples of where people have postulated exotic unknown substances to explain poorly understood phemomena. Survey the history and give contemperary examples along with some reasons why we do this (anthropological?) 
 
+** Cause and Effect
+What is it? How do we get a handle on it? How do we reduce it from say the cause of an effect was everything in the backwards light cone (i.e. the state of the system at all times prior)?

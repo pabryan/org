@@ -7869,6 +7869,9 @@ Center 101
 ****** Meetings
 ******* First meeting
 	 SCHEDULED: <2014-01-03 Fri 11:00-12:00>
+	 :LOGBOOK:
+	 CLOCK: [2014-01-03 Fri 11:03]
+	 :END:
 
 **** Spring 2014
 **** Summer 2014 I
