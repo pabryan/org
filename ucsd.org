@@ -7784,30 +7784,78 @@ Lectures in calendar and tasks like planning lectures.
 	   :ID:       d02ab0f7-31a0-489b-b26a-8fc9b65bfbde
 	   :END:
 ******* TODO Quizzes
+	:PROPERTIES:
+	:ID:       f137571a-8c9d-43f3-ac9b-fe6e022ecac9
+	:END:
 ******** TODO Quiz 1
+	 :PROPERTIES:
+	 :ID:       bc3f709d-7de5-49ff-bd8e-6036fcc9eb1d
+	 :END:
 ********* NEXT Check questions
 	  DEADLINE: <2014-01-10 Fri>
+	  :PROPERTIES:
+	  :ID:       bed8aad1-43cd-4c3c-aa05-fd7c8f90f4d1
+	  :END:
 ******** TODO Quiz 2
+	 :PROPERTIES:
+	 :ID:       ad631b7c-27b4-4286-8810-7b8930f84e05
+	 :END:
 ********* NEXT Check questions
 	  DEADLINE: <2014-02-07 Fri>
+	  :PROPERTIES:
+	  :ID:       86bb842e-a3dc-4998-bf70-3124c41ebdcd
+	  :END:
 ******** TODO Quiz 3
+	 :PROPERTIES:
+	 :ID:       f2e77cfa-4374-4a6d-ae2d-0c54e511e5d2
+	 :END:
 ********* NEXT Check questions
 	  DEADLINE: <2014-02-14 Fri>
+	  :PROPERTIES:
+	  :ID:       ff96f6b2-651d-432a-943c-aafff6d0f860
+	  :END:
 ******** TODO Quiz 4
+	 :PROPERTIES:
+	 :ID:       eb587528-51b1-4098-a5de-6bcda23ce3f9
+	 :END:
 ********* NEXT Check questions
 	  DEADLINE: <2014-02-28 Fri>
+	  :PROPERTIES:
+	  :ID:       e19b73e3-0034-4766-9502-90822e8cac14
+	  :END:
 
 ******* TODO Exams
+	:PROPERTIES:
+	:ID:       a88c96d5-8ab1-4357-9c8d-6a3731c76480
+	:END:
 ******** TODO MT 1
+	 :PROPERTIES:
+	 :ID:       1279d47e-5720-4a4f-a4c3-83e931e52626
+	 :END:
 ********* NEXT Prepare questions
 	  DEADLINE: <2014-01-23 Thu>
+	  :PROPERTIES:
+	  :ID:       c5048fc6-d533-474a-9ff8-e367b52dc396
+	  :END:
 
 ******** TODO MT 2
+	 :PROPERTIES:
+	 :ID:       f3db625f-2a3a-4ec7-83c4-bc6d6219b757
+	 :END:
 ********* NEXT Prepare questions
 	  DEADLINE: <2014-02-20 Thu>
+	  :PROPERTIES:
+	  :ID:       b0a5ff85-b0d1-42d4-a906-11b0044c1a3e
+	  :END:
 ******** TODO Final
+	 :PROPERTIES:
+	 :ID:       962210c5-bcdd-4d98-acc1-6c5adafd72e9
+	 :END:
 ********* NEXT Prepare questions
 	  DEADLINE: <2014-03-06 Thu>
+	  :PROPERTIES:
+	  :ID:       eb58e086-468c-4886-a509-f6773a55e646
+	  :END:
 ******* DONE Website
 	:LOGBOOK:
 	- State "DONE"       from "TODO"       [2013-12-18 Wed 14:17]
@@ -7834,7 +7882,7 @@ Lectures in calendar and tasks like planning lectures.
 ****** Clocking
 ******* Admin
 	:LOGBOOK:
-	CLOCK: [2014-01-03 Fri 15:04]
+	CLOCK: [2014-01-03 Fri 15:04]--[2014-01-03 Fri 15:10] =>  0:06
 	:END:
 ******* Office hours
 ****** Schedule
@@ -7917,6 +7965,9 @@ Center 101
 	 :LOGBOOK:
 	 CLOCK: [2014-01-03 Fri 11:03]--[2014-01-03 Fri 11:50] =>  0:47
 	 :END:
+	:PROPERTIES:
+	:ID:       77b02dd1-b980-444c-a037-67a6a8d4d0c1
+	:END:
 
 ******* MT1 meeting
 	 SCHEDULED: <2014-01-23 Thu 14:00-15:00>
