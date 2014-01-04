@@ -28,8 +28,12 @@ Given $M\subset N$ a cooriented hypersurface with normal vector $\nor$, define t
   :ID:       bcad8d1d-61fa-4614-9662-8f264d9ae1e4
   :END:
 - Often these are given by the wedge of some form. Is there some way to characterize such morphisms?
-* TODO Organise students geometry meeting
+* WAITING Organise students geometry meeting
   DEADLINE: <2014-01-04 Sat>
+  :LOGBOOK:
+  - State "WAITING"    from "TODO"       [2014-01-04 Sat 11:00] \\
+    Sent email to students. Waiting on responses to set meeting time.
+  :END:
   :PROPERTIES:
   :ID:       8699f5b6-d3ad-45d3-9987-099812477a72
   :END:
