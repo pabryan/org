@@ -3775,7 +3775,10 @@ Center 119
        	:END:
 
 **** Summer2 2013					       :SUMMER2_2013:
-***** TODO MATH142B						   :MATH142B:
+***** DONE MATH142B						   :MATH142B:
+      :LOGBOOK:
+      - State "DONE"       from "TODO"       [2014-01-05 Sun 14:12]
+      :END:
       :PROPERTIES:
       :ID:       637a5770-e691-46f5-b733-44af49f29f6e
       :END:
@@ -3799,8 +3802,9 @@ Center 119
        :END:
 Lectures in calendar and tasks like planning lectures.
 
-******* TODO Exams
+******* DONE Exams
        	:LOGBOOK:
+	- State "DONE"       from "TODO"       [2014-01-05 Sun 14:12]
        	- State "TODO"       from "DONE"       [2013-09-12 Thu 19:56]
        	- State "DONE"       from "TODO"       [2013-09-07 Sat 09:32]
        	CLOCK: [2013-08-02 Fri 11:33]--[2013-08-02 Fri 11:34] =>  0:01
