@@ -7510,6 +7510,9 @@ Lectures in calendar and tasks like planning lectures.
 - PCYNH	109
 ******** Mon
 ********* Lecture 1.1
+	  :LOGBOOK:
+	  CLOCK: [2014-01-06 Mon 11:41]
+	  :END:
 <2014-01-06 Mon 12:00-13:00>
 ********* Lecture 2.1
 <2014-01-13 Mon 12:00-13:00>
