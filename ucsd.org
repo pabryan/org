@@ -8148,18 +8148,6 @@ See Holding email.
 *** Undergraduate projects
 **** Notes
 http://urp.ucsd.edu/
-***** Meetings
-****** Winter 2014 Times
-- Matt Groesbeck: 
-  I'm free M/W/F after 3:00 and T/Th 10-12
-- Eric Weise: 
-  MWF 10-12 or 3-4
-  Tu 12:30-2
-  Th 3-4
-- Caitlin Endler
-  11am and between 12pm and 2pm on MWF
-  On Tuesdays I'm available after 12:30pm, and on Thursdays I'm available after 2pm.
-
 **** 2013/2014
 ***** Tasks
 ****** DONE Create undergrad research projects
@@ -8192,79 +8180,102 @@ http://urp.ucsd.edu/
 - Can we do it informally off the books? 
 - Can we do formally, but without counting towards units.
 - This for Caitlin N Endler <cendler@ucsd.edu>
-***** TODO Curve shortening on sphere
-      :PROPERTIES:
-      :ID:       5a9d45e8-9045-4a2d-bb61-7068ba0aa969
-      :END:
-****** TODO Tasks
+***** Meetings
+****** Winter Planning 
+<2014-01-07 Tue 11:00-12:00>
+<2014-01-07 Tue 13:00-14:00>
+***** Notes
+****** Winter 2014 Times
+- Matt Groesbeck: 
+  I'm free M/W/F after 3:00 and T/Th 10-12
+- Eric Weise: 
+  MWF 10-12 or 3-4
+  Tu 12:30-2
+  Th 3-4
+- Caitlin Endler
+  11am and between 12pm and 2pm on MWF
+  On Tuesdays I'm available after 12:30pm, and on Thursdays I'm available after 2pm.
+
+***** Projects
+****** TODO Curve shortening on sphere
        :PROPERTIES:
-       :ID:       b62885d4-c355-41da-a8e3-8a8cb7aa088d
+       :ID:       5a9d45e8-9045-4a2d-bb61-7068ba0aa969
        :END:
-******* NEXT Collect references
-	:PROPERTIES:
-	:ID:       89adb918-2f42-4401-b90f-e4309b2699a7
-	:END:
-******* DONE Write max principle/viscosity equations
-	:LOGBOOK:
-	- State "DONE"       from "NEXT"       [2013-12-09 Mon 19:33]
-	CLOCK: [2013-11-27 Wed 13:00]--[2013-11-27 Wed 14:50] =>  1:50
-	:END:
-	:PROPERTIES:
-	:ID:       2d9e0058-93f6-43ab-9948-7e91feb865ed
-	:END:
-****** Refs
-******* Curvature bound for curve shortening flow via distance comparison and a direct proof of {G}rayson's theorem
+******* TODO Tasks
+       	:PROPERTIES:
+       	:ID:       b62885d4-c355-41da-a8e3-8a8cb7aa088d
+       	:END:
+******** DONE Collect references
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2014-01-06 Mon 13:31]
+	 :END:
+	 :PROPERTIES:
+	 :ID:       89adb918-2f42-4401-b90f-e4309b2699a7
+	 :END:
+******** DONE Write max principle/viscosity equations
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2013-12-09 Mon 19:33]
+	 CLOCK: [2013-11-27 Wed 13:00]--[2013-11-27 Wed 14:50] =>  1:50
+	 :END:
+	 :PROPERTIES:
+	 :ID:       2d9e0058-93f6-43ab-9948-7e91feb865ed
+	 :END:
+******* Refs
+******** Curvature bound for curve shortening flow via distance comparison and a direct proof of {G}rayson's theorem
 :PROPERTIES:
 :Custom_ID: MR2794630
 :END:
 [[papers:MR2794630][MR2794630-paper]]
 [[bib:MR2794630][MR2794630-bib]]
-******* A distance comparison principle for evolving curves
+******** A distance comparison principle for evolving curves
 :PROPERTIES:
 :Custom_ID: MR1656553
 :END:
 [[papers:MR1656553][MR1656553-paper]]
 [[bib:MR1656553][MR1656553-bib]]
-******* The heat equation shrinking convex plane curves
+******** The heat equation shrinking convex plane curves
 :PROPERTIES:
 :Custom_ID: MR840401
 :END:
 [[papers:MR840401][MR840401-paper]]
 [[bib:MR840401][MR840401-bib]]
-******* Curve shortening makes convex curves circular
+******** Curve shortening makes convex curves circular
 :PROPERTIES:
 :Custom_ID: MR742856
 :END:
 [[papers:MR742856][MR742856-paper]]
 [[bib:MR742856][MR742856-bib]]
-******* An isoperimetric inequality with applications to curve shortening
+******** An isoperimetric inequality with applications to curve shortening
 :PROPERTIES:
 :Custom_ID: MR726325
 :END:
 [[papers:MR726325][MR726325-paper]]
 [[bib:MR726325][MR726325-bib]]
-****** Notes
-****** Meetings
-******* Matt Groesbeck
-	:LOGBOOK:
-	CLOCK: [2013-12-11 Wed 12:16]--[2013-12-11 Wed 13:05] =>  0:49
-	CLOCK: [2013-11-20 Wed 12:03]--[2013-11-20 Wed 13:10] =>  1:07
-	:END:
-	<2013-11-20 Wed 12:00-13:00>
-	<2013-12-11 Wed 12:00-13:00>
-******* Caitlin Endler
-	:LOGBOOK:
-	CLOCK: [2013-12-13 Fri 13:30]--[2013-12-13 Fri 14:30] =>  1:00
-	CLOCK: [2013-11-22 Fri 12:05]--[2013-11-22 Fri 12:55] =>  0:50
-	:END:
-	:PROPERTIES:
-	:ID:       16495a6e-8666-416b-8e38-f96a7ecc9a19
-	:END:
-	<2013-11-22 Fri 12:00-13:00>
-****** Clocking
-***** Meetings
-****** Planning 
-
+******* Notes
+******* Meetings
+******** Matt Groesbeck
+	 :LOGBOOK:
+	 CLOCK: [2013-12-11 Wed 12:16]--[2013-12-11 Wed 13:05] =>  0:49
+	 CLOCK: [2013-11-20 Wed 12:03]--[2013-11-20 Wed 13:10] =>  1:07
+	 :END:
+	 <2013-11-20 Wed 12:00-13:00>
+	 <2013-12-11 Wed 12:00-13:00>
+******** Caitlin Endler
+	 :LOGBOOK:
+	 CLOCK: [2013-12-13 Fri 13:30]--[2013-12-13 Fri 14:30] =>  1:00
+	 CLOCK: [2013-11-22 Fri 12:05]--[2013-11-22 Fri 12:55] =>  0:50
+	 :END:
+	 :PROPERTIES:
+	 :ID:       16495a6e-8666-416b-8e38-f96a7ecc9a19
+	 :END:
+	 <2013-11-22 Fri 12:00-13:00>
+******* Clocking
+******* Participants
+- M Groesbeck <m.groesbeck@gmail.com>
+- Caitlin Endler <cendler@ucsd.edu>
+****** TODO Wave dark matter
+******* Participants
+- Jason Bunk <jbunk@ucsd.edu>
 * Seminars 							    :SEMINAR:
   :PROPERTIES:
   :ID:       4a7b50f0-8368-4d3a-bc5d-c0e229fd442f
