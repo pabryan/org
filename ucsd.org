@@ -7922,6 +7922,9 @@ Lectures in calendar and tasks like planning lectures.
 Center 101
 ******** Mon
 ********* Lecture 1.1
+	  :LOGBOOK:
+	  CLOCK: [2014-01-06 Mon 15:47]
+	  :END:
 <2014-01-06 Mon 16:00-17:00>
 ********* Lecture 2.1
 <2014-01-13 Mon 16:00-17:00>
@@ -8291,6 +8294,13 @@ http://urp.ucsd.edu/
 ****** TODO Wave dark matter
 ******* Participants
 - Jason Bunk <jbunk@ucsd.edu>
+******* Notes
+******* Refs
+******* TODO Tasks
+******* Meetings
+******** WDM Planning
+<2014-01-07 Tue 14:00-15:00>
+******* Clocking
 * Seminars 							    :SEMINAR:
   :PROPERTIES:
   :ID:       4a7b50f0-8368-4d3a-bc5d-c0e229fd442f
