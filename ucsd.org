@@ -7501,6 +7501,16 @@ Lectures in calendar and tasks like planning lectures.
 	 :PROPERTIES:
 	 :ID:       f7c57fbf-aa0c-41cc-a9fb-8f7b8e47e75a
 	 :END:
+******* TODO Coordinated lectures
+******** Mon W1
+	 :LOGBOOK:
+	 CLOCK: [2014-01-06 Mon 09:55]--[2014-01-06 Mon 11:10] =>  1:15
+	 :END:
+<2014-01-06 Mon 10:00-11:00>
+******** Wed W1
+<2014-01-08 Wed 10:00-11:00>
+******** Fri W1
+<2014-01-10 Fri 10:00-11:00>
 ****** Clocking
 ******* Admin
 ******* Office hours
@@ -7511,7 +7521,7 @@ Lectures in calendar and tasks like planning lectures.
 ******** Mon
 ********* Lecture 1.1
 	  :LOGBOOK:
-	  CLOCK: [2014-01-06 Mon 11:41]
+	  CLOCK: [2014-01-06 Mon 11:41]--[2014-01-06 Mon 13:11] =>  1:30
 	  :END:
 <2014-01-06 Mon 12:00-13:00>
 ********* Lecture 2.1
@@ -7886,6 +7896,16 @@ Lectures in calendar and tasks like planning lectures.
 	 :PROPERTIES:
 	 :ID:       8b329bcb-826c-4da0-964f-b6b6d1d632b7
 	 :END:
+******* TODO Coordinated lectures
+******** Mon W1
+	 :LOGBOOK:
+	 CLOCK: [2014-01-06 Mon 08:55]--[2014-01-06 Mon 09:55] =>  1:00
+	 :END:
+<2014-01-06 Mon 09:00-10:00>
+******** Wed W1
+<2014-01-08 Wed 09:00-10:00>
+******** Fri W1
+<2014-01-10 Fri 09:00-10:00>
 ****** Clocking
 ******* Admin
 	:LOGBOOK:
@@ -8023,6 +8043,10 @@ Ledden Auditorium
     :END:
 <2013-10-11 Fri 12:00>
 <2013-11-22 Fri 14:15>
+*** TODO Attend lectures
+**** TODO Winter 2014
+***** TODO Math10A
+***** TODO Math10B
 ** Tasks
 *** TODO Update course template
   :LOGBOOK:
