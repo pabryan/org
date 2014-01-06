@@ -1307,7 +1307,11 @@ That is, Ben and Janelle have proven the backward convergence, and to finish we 
        :PROPERTIES:
        :ID:       9ccff1fa-2eaa-444f-a663-8ea3cfc20d76
        :END:
-
+******* Meet Janelle
+	:LOGBOOK:
+	CLOCK: [2014-01-06 Mon 14:57]
+	:END:
+<2014-01-06 Mon 14:55-15:30>
 ***** Notes
 ***** Refs
 **** TODO CSF surfaces distance comparison
