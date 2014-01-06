@@ -7591,6 +7591,9 @@ Lectures in calendar and tasks like planning lectures.
 <2014-02-25 Tue 20:00-21:00>
 ******** Final
 <2014-03-19 Wed 19:00-22:00>
+****** Meetings
+******* Planning
+<2014-01-09 Thu 10:00-11:00>
 ***** TODO MATH20B
       :PROPERTIES:
       :ID:       31df73a4-0114-4097-8f18-5ce3ed5a1d07
@@ -8180,6 +8183,17 @@ http://urp.ucsd.edu/
 - Can we do it informally off the books? 
 - Can we do formally, but without counting towards units.
 - This for Caitlin N Endler <cendler@ucsd.edu>
+****** DONE Organise students geometry meeting
+  DEADLINE: <2014-01-04 Sat>
+  :LOGBOOK:
+  - State "DONE"       from "WAITING"    [2014-01-06 Mon 13:59]
+  - State "WAITING"    from "TODO"       [2014-01-04 Sat 11:00] \\
+    Sent email to students. Waiting on responses to set meeting time.
+  :END:
+  :PROPERTIES:
+  :ID:       8699f5b6-d3ad-45d3-9987-099812477a72
+  :END:
+[2014-01-01 Wed 13:38]
 ***** Meetings
 ****** Winter Planning 
 <2014-01-07 Tue 11:00-12:00>
