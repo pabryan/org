@@ -7327,7 +7327,7 @@ Lectures in calendar and tasks like planning lectures.
 	   CLOCK: [2014-01-02 Thu 13:04]--[2014-01-02 Thu 13:36] =>  0:32
 	   CLOCK: [2014-01-02 Thu 12:03]--[2014-01-02 Thu 12:20] =>  0:17
 	   :END:
-********** TODO Lecture 2.1
+********** NEXT Lecture 2.1
 	   DEADLINE: <2014-01-13 Mon>
 	   :PROPERTIES:
 	   :ID:       c8adf24e-f42e-48dc-b102-84f54cc1607f
@@ -7428,52 +7428,55 @@ Lectures in calendar and tasks like planning lectures.
 	   :ID:       8bb0887a-4a36-472d-b4ff-a09c64014e4d
 	   :END:
 ********* Fri
-********** NEXT Lecture 1.3
+********** DONE Lecture 1.3
 	   DEADLINE: <2014-01-10 Fri>
+	   :LOGBOOK:
+	   - State "DONE"       from "NEXT"       [2014-01-10 Fri 13:16]
+	   :END:
 	   :PROPERTIES:
 	   :ID:       5305afbb-59fb-4fe7-9315-e85b2f01c215
 	   :END:
-********** TODO Lecture 1.3
+********** NEXT Lecture 2.3
 	   DEADLINE: <2014-01-17 Fri>
 	   :PROPERTIES:
 	   :ID:       a8051040-e045-42e7-9b81-caef7d38d5cf
 	   :END:
-********** TODO Lecture 1.3
+********** TODO Lecture 3.3
 	   DEADLINE: <2014-01-24 Fri>
 	   :PROPERTIES:
 	   :ID:       b3090e44-0cb7-4a08-9d67-ad1f2f6e9557
 	   :END:
-********** TODO Lecture 1.3
+********** TODO Lecture 4.3
 	   DEADLINE: <2014-01-31 Fri>
 	   :PROPERTIES:
 	   :ID:       eef061f1-396f-4364-a866-392aab730eee
 	   :END:
-********** TODO Lecture 1.3
+********** TODO Lecture 5.3
 	   DEADLINE: <2014-02-07 Fri>
 	   :PROPERTIES:
 	   :ID:       49179fc9-708f-4d7c-9690-7fce8ff06bb3
 	   :END:
-********** TODO Lecture 1.3
+********** TODO Lecture 6.3
 	   DEADLINE: <2014-02-14 Fri>
 	   :PROPERTIES:
 	   :ID:       3468427d-22b5-4fd2-90b4-f3300ff745a6
 	   :END:
-********** TODO Lecture 1.3
+********** TODO Lecture 7.3
 	   DEADLINE: <2014-02-21 Fri>
 	   :PROPERTIES:
 	   :ID:       e52eb4bd-18fe-44cb-9535-7a64344c1e5c
 	   :END:
-********** TODO Lecture 1.3
+********** TODO Lecture 8.3
 	   DEADLINE: <2014-02-28 Fri>
 	   :PROPERTIES:
 	   :ID:       c524b6ee-2275-4874-9fa9-a68868a8845b
 	   :END:
-********** TODO Lecture 1.3
+********** TODO Lecture 9.3
 	   DEADLINE: <2014-03-07 Fri>
 	   :PROPERTIES:
 	   :ID:       c5e4d511-9cc5-40da-966e-07a394bdad10
 	   :END:
-********** TODO Lecture 1.3
+********** TODO Lecture 10.3
 	   DEADLINE: <2014-03-14 Fri>
 	   :PROPERTIES:
 	   :ID:       97c0a238-683f-4873-838d-bffad5624ade
@@ -7565,6 +7568,9 @@ Lectures in calendar and tasks like planning lectures.
 <2014-03-12 Wed 12:00-13:00>
 ******** Fri
 ********* Lecture 1.3
+	  :LOGBOOK:
+	  CLOCK: [2014-01-10 Fri 11:55]--[2014-01-10 Fri 13:05] =>  1:10
+	  :END:
 <2014-01-10 Fri 12:00-13:00>
 ********* Lecture 2.3
 <2014-01-17 Fri 12:00-13:00>
@@ -7593,7 +7599,13 @@ Lectures in calendar and tasks like planning lectures.
 <2014-03-19 Wed 19:00-22:00>
 ****** Meetings
 ******* 10B Coordinating 
+	:LOGBOOK:
+	CLOCK: [2014-01-09 Thu 10:00]--[2014-01-09 Thu 10:54] =>  0:54
+	:END:
 <2014-01-09 Thu 10:00-11:00>
+******* TA's
+******** First meeting
+<2014-01-15 Wed 13:15-13:45>
 ***** TODO MATH20B
       :PROPERTIES:
       :ID:       31df73a4-0114-4097-8f18-5ce3ed5a1d07
@@ -7754,52 +7766,55 @@ Lectures in calendar and tasks like planning lectures.
 	   :ID:       c4ef4b02-1091-45a8-87f6-a0de8ad446e9
 	   :END:
 ********* Fri
-********** NEXT Lecture 1.3
+********** DONE Lecture 1.3
 	   DEADLINE: <2014-01-10 Fri>
+	   :LOGBOOK:
+	   - State "DONE"       from "NEXT"       [2014-01-12 Sun 11:40]
+	   :END:
 	   :PROPERTIES:
 	   :ID:       e6f42664-6cdb-48de-a3d8-762253aa6c30
 	   :END:
-********** TODO Lecture 1.3
+********** NEXT Lecture 2.3
 	   DEADLINE: <2014-01-17 Fri>
 	   :PROPERTIES:
 	   :ID:       eed40e02-3c2d-4323-9180-b8cf03072003
 	   :END:
-********** TODO Lecture 1.3
+********** TODO Lecture 3.3
 	   DEADLINE: <2014-01-24 Fri>
 	   :PROPERTIES:
 	   :ID:       f829a36b-6b8c-41a9-9df1-d097d9b1b24f
 	   :END:
-********** TODO Lecture 1.3
+********** TODO Lecture 4.3
 	   DEADLINE: <2014-01-31 Fri>
 	   :PROPERTIES:
 	   :ID:       8bc4425b-c4ca-4405-aa7d-5478173048a5
 	   :END:
-********** TODO Lecture 1.3
+********** TODO Lecture 5.3
 	   DEADLINE: <2014-02-07 Fri>
 	   :PROPERTIES:
 	   :ID:       27c7958d-0dd5-4a9f-aab7-852ded7af33f
 	   :END:
-********** TODO Lecture 1.3
+********** TODO Lecture 6.3
 	   DEADLINE: <2014-02-14 Fri>
 	   :PROPERTIES:
 	   :ID:       a1d272c4-28af-4767-84ec-d96e7d198103
 	   :END:
-********** TODO Lecture 1.3
+********** TODO Lecture 7.3
 	   DEADLINE: <2014-02-21 Fri>
 	   :PROPERTIES:
 	   :ID:       19611079-8eb7-48a3-aae2-4b54aeef4f15
 	   :END:
-********** TODO Lecture 1.3
+********** TODO Lecture 8.3
 	   DEADLINE: <2014-02-28 Fri>
 	   :PROPERTIES:
 	   :ID:       e82b9f64-1af7-4db3-99cc-03ea054d53a3
 	   :END:
-********** TODO Lecture 1.3
+********** TODO Lecture 9.3
 	   DEADLINE: <2014-03-07 Fri>
 	   :PROPERTIES:
 	   :ID:       6bf1e96b-8384-4e0f-9a20-87fdecb8ffb1
 	   :END:
-********** TODO Lecture 1.3
+********** TODO Lecture 10.3
 	   DEADLINE: <2014-03-14 Fri>
 	   :PROPERTIES:
 	   :ID:       d02ab0f7-31a0-489b-b26a-8fc9b65bfbde
@@ -7812,8 +7827,10 @@ Lectures in calendar and tasks like planning lectures.
 	 :PROPERTIES:
 	 :ID:       bc3f709d-7de5-49ff-bd8e-6036fcc9eb1d
 	 :END:
-********* NEXT Check questions
+********* DONE Check questions
 	  DEADLINE: <2014-01-10 Fri>
+	  :LOGBOOK:
+	  :END:
 	  :PROPERTIES:
 	  :ID:       bed8aad1-43cd-4c3c-aa05-fd7c8f90f4d1
 	  :END:
@@ -8000,21 +8017,26 @@ Center 101
 ******** Final
 <2014-03-15 Sat 11:30-14:30>
 ****** Meetings
-******* First meeting
-	<2014-01-03 Fri 11:00-12:00>
-	:LOGBOOK:
-	 CLOCK: [2014-01-03 Fri 11:03]--[2014-01-03 Fri 11:50] =>  0:47
+******* Coordinating
+******** First meeting
+	 <2014-01-03 Fri 11:00-12:00>
+	 :LOGBOOK:
+	  CLOCK: [2014-01-03 Fri 11:03]--[2014-01-03 Fri 11:50] =>  0:47
+	  :END:
+	 :PROPERTIES:
+	 :ID:       77b02dd1-b980-444c-a037-67a6a8d4d0c1
 	 :END:
-	:PROPERTIES:
-	:ID:       77b02dd1-b980-444c-a037-67a6a8d4d0c1
-	:END:
 
-******* MT1 meeting
-	 SCHEDULED: <2014-01-23 Thu 14:00-15:00>
-******* MT2 meeting
-	 SCHEDULED: <2014-02-20 Thu 14:00-15:00>
-******* Final meeting
-	 SCHEDULED: <2014-03-06 Thu 14:00-15:00>
+******** MT1 meeting
+	  SCHEDULED: <2014-01-23 Thu 14:00-15:00>
+******** MT2 meeting
+	  SCHEDULED: <2014-02-20 Thu 14:00-15:00>
+******** Final meeting
+	  SCHEDULED: <2014-03-06 Thu 14:00-15:00>
+******* TA's
+******** First meeting
+<2014-01-15 Wed 13:45-14:15>
+
 **** Spring 2014
 **** Summer 2014 I
 **** Summer 2014 II
@@ -8162,8 +8184,9 @@ See Holding email.
 **** Notes
 http://urp.ucsd.edu/
 **** 2013/2014
-***** Tasks
-****** DONE Create undergrad research projects
+***** Diff Geo
+****** Tasks
+******* DONE Create undergrad research projects
   SCHEDULED: <2013-10-14 Mon>
   :LOGBOOK:
   - State "DONE"       from "NEXT"       [2013-10-15 Tue 10:31]
@@ -8179,7 +8202,7 @@ http://urp.ucsd.edu/
 - Vector symmetric algebra: code it up in sage
 - Code up 1d flows (port Anuga to sage?), tests etc.
 
-****** DONE Check on research program credit requirements
+******* DONE Check on research program credit requirements
   SCHEDULED: <2013-10-29 Tue>
   :LOGBOOK:
   - State "DONE"       from "NEXT"       [2013-11-08 Fri 14:36]
@@ -8193,7 +8216,7 @@ http://urp.ucsd.edu/
 - Can we do it informally off the books? 
 - Can we do formally, but without counting towards units.
 - This for Caitlin N Endler <cendler@ucsd.edu>
-****** DONE Organise students geometry meeting
+******* DONE Organise students geometry meeting
   DEADLINE: <2014-01-04 Sat>
   :LOGBOOK:
   - State "DONE"       from "WAITING"    [2014-01-06 Mon 13:59]
@@ -8204,14 +8227,17 @@ http://urp.ucsd.edu/
   :ID:       8699f5b6-d3ad-45d3-9987-099812477a72
   :END:
 [2014-01-01 Wed 13:38]
-***** Meetings
-****** Winter Planning 
+****** Meetings
+******* Winter Planning 
+       :LOGBOOK:
+       CLOCK: [2014-01-09 Thu 11:05]--[2014-01-09 Thu 12:11] =>  1:06
+       :END:
 <2014-01-09 Thu 11:00-12:00>
-<2014-01-07 Tue 13:00-14:00>
-***** Notes
-****** Winter 2014 Times
+<2014-01-14 Tue 12:30-13:30>
+****** Notes
+******* Winter 2014 Times
 - Matt Groesbeck: 
-  I'm free M/W/F after 3:00 and T/Th 10-12
+  My only daytime class this quarter is MWF 11-12; for part of the quarter I'll have evening classes TTh
 - Eric Weise: 
   MWF 10-12 or 3-4
   Tu 12:30-2
@@ -8220,93 +8246,96 @@ http://urp.ucsd.edu/
   11am and between 12pm and 2pm on MWF
   On Tuesdays I'm available after 12:30pm, and on Thursdays I'm available after 2pm.
 
-***** Projects
-****** TODO Curve shortening on sphere
-       :PROPERTIES:
-       :ID:       5a9d45e8-9045-4a2d-bb61-7068ba0aa969
-       :END:
-******* TODO Tasks
+****** Projects
+******* TODO Curve shortening on sphere
        	:PROPERTIES:
-       	:ID:       b62885d4-c355-41da-a8e3-8a8cb7aa088d
+       	:ID:       5a9d45e8-9045-4a2d-bb61-7068ba0aa969
        	:END:
-******** DONE Collect references
-	 :LOGBOOK:
-	 - State "DONE"       from "NEXT"       [2014-01-06 Mon 13:31]
-	 :END:
-	 :PROPERTIES:
-	 :ID:       89adb918-2f42-4401-b90f-e4309b2699a7
-	 :END:
-******** DONE Write max principle/viscosity equations
-	 :LOGBOOK:
-	 - State "DONE"       from "NEXT"       [2013-12-09 Mon 19:33]
-	 CLOCK: [2013-11-27 Wed 13:00]--[2013-11-27 Wed 14:50] =>  1:50
-	 :END:
-	 :PROPERTIES:
-	 :ID:       2d9e0058-93f6-43ab-9948-7e91feb865ed
-	 :END:
-******* Refs
-******** Curvature bound for curve shortening flow via distance comparison and a direct proof of {G}rayson's theorem
+******** TODO Tasks
+       	 :PROPERTIES:
+       	 :ID:       b62885d4-c355-41da-a8e3-8a8cb7aa088d
+       	 :END:
+********* DONE Collect references
+	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2014-01-06 Mon 13:31]
+	  :END:
+	  :PROPERTIES:
+	  :ID:       89adb918-2f42-4401-b90f-e4309b2699a7
+	  :END:
+********* DONE Write max principle/viscosity equations
+	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2013-12-09 Mon 19:33]
+	  CLOCK: [2013-11-27 Wed 13:00]--[2013-11-27 Wed 14:50] =>  1:50
+	  :END:
+	  :PROPERTIES:
+	  :ID:       2d9e0058-93f6-43ab-9948-7e91feb865ed
+	  :END:
+******** Refs
+********* Curvature bound for curve shortening flow via distance comparison and a direct proof of {G}rayson's theorem
 :PROPERTIES:
 :Custom_ID: MR2794630
 :END:
 [[papers:MR2794630][MR2794630-paper]]
 [[bib:MR2794630][MR2794630-bib]]
-******** A distance comparison principle for evolving curves
+********* A distance comparison principle for evolving curves
 :PROPERTIES:
 :Custom_ID: MR1656553
 :END:
 [[papers:MR1656553][MR1656553-paper]]
 [[bib:MR1656553][MR1656553-bib]]
-******** The heat equation shrinking convex plane curves
+********* The heat equation shrinking convex plane curves
 :PROPERTIES:
 :Custom_ID: MR840401
 :END:
 [[papers:MR840401][MR840401-paper]]
 [[bib:MR840401][MR840401-bib]]
-******** Curve shortening makes convex curves circular
+********* Curve shortening makes convex curves circular
 :PROPERTIES:
 :Custom_ID: MR742856
 :END:
 [[papers:MR742856][MR742856-paper]]
 [[bib:MR742856][MR742856-bib]]
-******** An isoperimetric inequality with applications to curve shortening
+********* An isoperimetric inequality with applications to curve shortening
 :PROPERTIES:
 :Custom_ID: MR726325
 :END:
 [[papers:MR726325][MR726325-paper]]
 [[bib:MR726325][MR726325-bib]]
-******* Notes
-******* Meetings
-******** Matt Groesbeck
-	 :LOGBOOK:
-	 CLOCK: [2013-12-11 Wed 12:16]--[2013-12-11 Wed 13:05] =>  0:49
-	 CLOCK: [2013-11-20 Wed 12:03]--[2013-11-20 Wed 13:10] =>  1:07
-	 :END:
-	 <2013-11-20 Wed 12:00-13:00>
-	 <2013-12-11 Wed 12:00-13:00>
-******** Caitlin Endler
-	 :LOGBOOK:
-	 CLOCK: [2013-12-13 Fri 13:30]--[2013-12-13 Fri 14:30] =>  1:00
-	 CLOCK: [2013-11-22 Fri 12:05]--[2013-11-22 Fri 12:55] =>  0:50
-	 :END:
-	 :PROPERTIES:
-	 :ID:       16495a6e-8666-416b-8e38-f96a7ecc9a19
-	 :END:
-	 <2013-11-22 Fri 12:00-13:00>
-******* Clocking
-******* Participants
+******** Notes
+******** Meetings
+********* Matt Groesbeck
+	  :LOGBOOK:
+	  CLOCK: [2013-12-11 Wed 12:16]--[2013-12-11 Wed 13:05] =>  0:49
+	  CLOCK: [2013-11-20 Wed 12:03]--[2013-11-20 Wed 13:10] =>  1:07
+	  :END:
+	  <2013-11-20 Wed 12:00-13:00>
+	  <2013-12-11 Wed 12:00-13:00>
+********* Caitlin Endler
+	  :LOGBOOK:
+	  CLOCK: [2013-12-13 Fri 13:30]--[2013-12-13 Fri 14:30] =>  1:00
+	  CLOCK: [2013-11-22 Fri 12:05]--[2013-11-22 Fri 12:55] =>  0:50
+	  :END:
+	  :PROPERTIES:
+	  :ID:       16495a6e-8666-416b-8e38-f96a7ecc9a19
+	  :END:
+	  <2013-11-22 Fri 12:00-13:00>
+******** Clocking
+******** Participants
 - M Groesbeck <m.groesbeck@gmail.com>
 - Caitlin Endler <cendler@ucsd.edu>
-****** TODO Wave dark matter
-******* Participants
+******* TODO Wave dark matter
+******** Participants
 - Jason Bunk <jbunk@ucsd.edu>
-******* Notes
-******* Refs
-******* TODO Tasks
-******* Meetings
-******** WDM Planning
+******** Notes
+******** Refs
+******** TODO Tasks
+******** Meetings
+********* WDM Planning
 <2014-01-07 Tue 14:00-15:00>
-******* Clocking
+******** Clocking
+***** Wave Dark Matter
+****** Meetings
+<2014-01-13 Mon 13:15-14:00>
 * Seminars 							    :SEMINAR:
   :PROPERTIES:
   :ID:       4a7b50f0-8368-4d3a-bc5d-c0e229fd442f

@@ -6,7 +6,7 @@
   :PROPERTIES:
   :ID:       251ca587-000d-45ea-97d6-9d72bc19586f
   :END:
-[2013-12-10 Tue 07:36]
+[2014-03-10 Mon 07:36]
 - This is the map along the normal direction to a hypersurface. The cut point is where the map hits another point on the surface.
 - How does this relate to cohomology of the normal bundle, the Poincare dual, and the Thom isomorphism. How does this cohomology evolve?
 * TODO Non-collapsing in manifolds
@@ -16,7 +16,7 @@
   :PROPERTIES:
   :ID:       cb506bf4-f2d9-4082-95fd-b717e75047d3
   :END:
-[2013-12-10 Tue 07:37]
+[2014-03-10 Mon 07:37]
 Given $M\subset N$ a cooriented hypersurface with normal vector $\nor$, define the cooriented (oriented?) curvature tangent ball at $p$ to be the largest ball tangent to $M$ with center in the direction $\nor$. Now do variations to find a viscosity equation for the curvature.
 * TODO Register Devon on club penguin
   :PROPERTIES:
@@ -69,6 +69,8 @@ Should create typing tasks from scribbles and schedule them
 * TODO Book physio
   SCHEDULED: <2014-01-08 Wed>
 [2014-01-08 Wed 12:43]
-* TODO Check up on swimming and archery
-  SCHEDULED: <2014-01-09 Thu>
-[2014-01-08 Wed 20:40]
+* TODO Fill in office hours door card
+  SCHEDULED: <2014-01-13 Mon>
+[2014-01-12 Sun 11:13]
+[[file:~/reference/ucsd/office/Office-Hours-Door-Card.pdf]]
+
