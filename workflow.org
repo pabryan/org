@@ -9,7 +9,7 @@
 ** Tasks
 *** Web Publishing
 **** TODO org-mode sync/web access
-    SCHEDULED: <2014-01-17 Fri>
+    SCHEDULED: <2014-02-01 Sat>
     :LOGBOOK:
     CLOCK: [2013-07-03 Wed 10:06]--[2013-07-03 Wed 10:09] =>  0:03
     :END:
@@ -567,7 +567,7 @@ Do I make a different TODO keyword for more trying out things/open ended type re
 [2013-09-03 Tue 21:27]
 http://orgmode.org/worg/org-tutorials/org-google-sync.html
 *** TODO Focus agenda view should show next tasks for project?
-  SCHEDULED: <2014-01-15 Wed>
+  SCHEDULED: <2014-02-15 Sat>
   :LOGBOOK:
   CLOCK: [2013-09-14 Sat 19:43]--[2013-09-14 Sat 19:44] =>  0:01
   :END:
@@ -1447,7 +1447,7 @@ https://wiki.archlinux.org/index.php/NetworkManager#Use_dispatcher_to_connect_to
 http://askubuntu.com/questions/198136/error-when-trying-to-connect-to-vpn-on-startup
 
 ** TODO Clean up files
-   SCHEDULED: <2014-01-17 Fri>
+   SCHEDULED: <2014-03-17 Mon>
   :LOGBOOK:
   CLOCK: [2013-07-30 Tue 19:49]--[2013-07-30 Tue 19:53] =>  0:04
   :END:
