@@ -7626,7 +7626,10 @@ Lectures in calendar and tasks like planning lectures.
 - Eric Evert, D05,D06
 - TBA, D07
 ****** Tasks
-******* TODO Plan course
+******* DONE Plan course
+	:LOGBOOK:
+	- State "DONE"       from "TODO"       [2014-01-17 Fri 17:11]
+	:END:
 	:PROPERTIES:
 	:ID:       059826a0-8150-4f15-8644-756d3eb62c45
 	:END:
@@ -7641,9 +7644,10 @@ Lectures in calendar and tasks like planning lectures.
 	 :END:
 Lectures in calendar and tasks like planning lectures.
 
-******** WAITING Create Ted
+******** DONE Create Ted
 	 DEADLINE: <2013-12-27 Fri>
 	 :LOGBOOK:
+	 - State "DONE"       from "WAITING"    [2014-01-17 Fri 17:11]
 	 - State "WAITING"    from "NEXT"       [2013-12-18 Wed 13:13] \\
 	   Submitted request to ACMS.
 	 :END:
@@ -7941,6 +7945,12 @@ Lectures in calendar and tasks like planning lectures.
 	 :PROPERTIES:
 	 :ID:       8b329bcb-826c-4da0-964f-b6b6d1d632b7
 	 :END:
+******** DONE Find out 20B grader
+  DEADLINE: <2014-01-14 Tue>
+  :LOGBOOK:
+  - State "DONE"       from "TODO"       [2014-01-17 Fri 17:10]
+  :END:
+[2014-01-13 Mon 14:53]
 ******* TODO Coordinated lectures
 ******** Mon W1
 	 :LOGBOOK:
@@ -8392,12 +8402,13 @@ http://urp.ucsd.edu/
    CLOCK: [2013-01-07 Mon 13:00]--[2013-01-07 Mon 13:45] =>  0:45
    :END:
 *** Talks
-**** Somali's talk
-     :PROPERTIES:
-     :ID:       d507634a-9fe0-4fcb-99df-2f857f6937c9
-     :END:
-     <2013-01-08 Tue 10:00-11:00>
-***** Details
+**** 2012/2013
+***** Somali's talk
+      :PROPERTIES:
+      :ID:       d507634a-9fe0-4fcb-99df-2f857f6937c9
+      :END:
+      <2013-01-08 Tue 10:00-11:00>
+****** Details
 Speaker: Christina Sormani
 Home Institution: CUNY
 Faculty Host: Lei Ni
@@ -8419,12 +8430,12 @@ a lower bound on the volumes of balls. The proof is based upon intrinsic
 flat convergence and a new notion called the sliced filling volume of a
 ball.
 
-**** Christian Baer's talk
-     :PROPERTIES:
-     :ID:       82d5f81e-113b-423e-99a9-16e89378b8af
-     :END:
-     <2013-01-10 Thu 15:00-16:00>
-***** Details
+***** Christian Baer's talk
+      :PROPERTIES:
+      :ID:       82d5f81e-113b-423e-99a9-16e89378b8af
+      :END:
+      <2013-01-10 Thu 15:00-16:00>
+****** Details
 Speaker: Christian Baer
 Home Institution: Universitat Potsdam
 Faculty Host: Lei Ni
@@ -8448,7 +8459,7 @@ condition of geometric formality to the requirement that the length of
 harmonic 2-forms is not too nonconstant, then the manifold must be
 homeomorphic to S^4 or to a connected sum of CP^2s.
 
-**** DONE 20121025 Talk
+***** DONE 20121025 Talk
    - State "DONE"       from "TODO"       [2012-10-31 Wed 10:47]
   CLOCK: [2012-10-17 Wed 10:31]--[2012-10-17 Wed 10:31] =>  0:00
    :PROPERTIES:
@@ -8456,7 +8467,7 @@ homeomorphic to S^4 or to a connected sum of CP^2s.
    :END:
 [2012-10-17 Wed 10:31]
 [[file:~/working/talks/20121025_ucsd_dg_seminar]]
-**** Song Sun Seminar
+***** Song Sun Seminar
    :PROPERTIES:
    :ID:       862184a9-6693-4ccd-8d24-df3af6cc23f7
    :END:
@@ -8464,7 +8475,8 @@ homeomorphic to S^4 or to a connected sum of CP^2s.
     CLOCK: [2012-12-06 Thu 14:56]--[2012-12-06 Thu 16:05] =>  1:09
     :END:
 <2012-12-06 Thu 15:00-16:00>
-**** Dual body flows talk
+**** 2013/2014
+***** Dual body flows talk
      :LOGBOOK:
      CLOCK: [2013-10-24 Thu 09:55]--[2013-10-24 Thu 11:15] =>  1:20
      :END:
@@ -8472,19 +8484,23 @@ homeomorphic to S^4 or to a connected sum of CP^2s.
      :ID:       b35ae55c-df88-42fa-a6c2-ae547e743e16
      :END:
 <2013-10-24 Thu 10:00-11:00>
-***** DONE Prepare talk
-      DEADLINE: <2013-10-24 Thu> SCHEDULED: <2013-10-13 Sun>
-      :LOGBOOK:
-      - State "DONE"       from "NEXT"       [2013-10-21 Mon 12:42]
-      CLOCK: [2013-10-19 Sat 10:30]--[2013-10-19 Sat 10:50] =>  0:20
-      CLOCK: [2013-10-18 Fri 19:55]--[2013-10-18 Fri 20:32] =>  0:37
-      CLOCK: [2013-10-15 Tue 18:55]--[2013-10-15 Tue 19:21] =>  0:26
-      CLOCK: [2013-10-14 Mon 14:00]--[2013-10-14 Mon 14:30] =>  0:30
-      :END:
-      :PROPERTIES:
-      :ID:       f57b154c-25a1-40ff-8984-129041468613
-      :END:
+****** DONE Prepare talk
+       DEADLINE: <2013-10-24 Thu> SCHEDULED: <2013-10-13 Sun>
+       :LOGBOOK:
+       - State "DONE"       from "NEXT"       [2013-10-21 Mon 12:42]
+       CLOCK: [2013-10-19 Sat 10:30]--[2013-10-19 Sat 10:50] =>  0:20
+       CLOCK: [2013-10-18 Fri 19:55]--[2013-10-18 Fri 20:32] =>  0:37
+       CLOCK: [2013-10-15 Tue 18:55]--[2013-10-15 Tue 19:21] =>  0:26
+       CLOCK: [2013-10-14 Mon 14:00]--[2013-10-14 Mon 14:30] =>  0:30
+       :END:
+       :PROPERTIES:
+       :ID:       f57b154c-25a1-40ff-8984-129041468613
+       :END:
 
+***** LiHan Wang
+- Speaker: Lihan Wang
+- Title: Hodge theory on compact symplectic manifolds with boundary
+- Abstract: We study Hodge theory for symplectic Laplacians on compact symplectic manifolds with boundary. These Laplacians are novel as they can be associated with symplectic cohomologies and be of fourth-order. We prove various Hodge decompositions and use them to obtain the isomorphisms between the cohomologies and the spaces of harmonic ﬁelds with certain prescribed boundary conditions. In order to establish Hodge theory in the non-vanishing boundary case, we are required to introduce new concepts such as the J!Dirichlet boundary condition and the J!Neumann boundary condition. When the boundary is of contact type, these conditions are closely related to the Reeb vector ﬁeld. Another application of our results is to solve boundary value problems of differential forms.
 *** Tasks
 **** DONE Ask Ben about Inviting ZhiQin Lu to speak at DG conference
     - State "DONE"       from "SOMEDAY"    [2013-02-01 Fri 11:13]
