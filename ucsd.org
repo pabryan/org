@@ -8499,6 +8499,12 @@ homeomorphic to S^4 or to a connected sum of CP^2s.
 
 ***** LiHan Wang
 - Speaker: Lihan Wang
+- Home Institution: UCI
+- Date: 01/23/2014
+- Host: Paul Bryan
+- Seminar Name: Differential Geometry Seminar
+- Time: 10am
+- Location: APM 7218
 - Title: Hodge theory on compact symplectic manifolds with boundary
 - Abstract: We study Hodge theory for symplectic Laplacians on compact symplectic manifolds with boundary. These Laplacians are novel as they can be associated with symplectic cohomologies and be of fourth-order. We prove various Hodge decompositions and use them to obtain the isomorphisms between the cohomologies and the spaces of harmonic ﬁelds with certain prescribed boundary conditions. In order to establish Hodge theory in the non-vanishing boundary case, we are required to introduce new concepts such as the J!Dirichlet boundary condition and the J!Neumann boundary condition. When the boundary is of contact type, these conditions are closely related to the Reeb vector ﬁeld. Another application of our results is to solve boundary value problems of differential forms.
 *** Tasks
@@ -8516,7 +8522,7 @@ homeomorphic to S^4 or to a connected sum of CP^2s.
   CLOCK: [2012-10-26 Fri 15:07]--[2012-10-26 Fri 15:08] =>  0:01
 [2012-10-26 Fri 15:07]
 **** NEXT Send DG seminar email announcement
-     DEADLINE: <2014-01-16 Thu +1w -5d>
+     DEADLINE: <2014-01-23 Thu +1w -5d>
      
     - State "HOLD"       from "NEXT"       [2013-03-29 Fri 10:43] \\
       Lei and I will do an informal seminar instead.
@@ -8531,6 +8537,7 @@ homeomorphic to S^4 or to a connected sum of CP^2s.
     - State "DONE"       from "NEXT"       [2012-12-06 Thu 14:00]
     - State "DONE"       from "TODO"       [2012-11-29 Thu 09:46]
     :LOGBOOK:
+    - State "DONE"       from "NEXT"       [2014-01-17 Fri 17:22]
     - State "DONE"       from "NEXT"       [2014-01-06 Mon 17:12]
     - State "DONE"       from "NEXT"       [2013-11-18 Mon 18:51]
     - State "DONE"       from "NEXT"       [2013-11-12 Tue 14:33]
@@ -8547,7 +8554,7 @@ homeomorphic to S^4 or to a connected sum of CP^2s.
     :PROPERTIES:
     :ID:       0f19da7c-65a3-4e95-8a91-78d12caa46da
     :REPEAT_TO_STATE: NEXT
-    :LAST_REPEAT: [2014-01-06 Mon 17:12]
+    :LAST_REPEAT: [2014-01-17 Fri 17:22]
     :END: 
 
 [[mailto:seminarstaff@math.ucsd.edu]]
