@@ -7529,6 +7529,10 @@ Lectures in calendar and tasks like planning lectures.
 <2014-01-08 Wed 10:00-11:00>
 ******** Fri W1
 <2014-01-10 Fri 10:00-11:00>
+******* TODO Exams
+******** TODO Enter meetings, exam questions etc. into calendar
+	 DEADLINE: <2014-01-22 Wed>
+[2014-01-21 Tue 20:50]
 ****** Clocking
 ******* Admin
 ******* Office hours
@@ -8275,6 +8279,11 @@ http://urp.ucsd.edu/
        :END:
 <2014-01-09 Thu 11:00-12:00>
 <2014-01-14 Tue 12:30-13:30>
+******* Weekly
+******** DG1
+<2014-01-22 Wed 09:00-11:00>
+******** DG2
+<2014-01-27 Mon 09:00-11:00>
 ****** Notes
 ******* Winter 2014 Times
 - Matt Groesbeck: 
