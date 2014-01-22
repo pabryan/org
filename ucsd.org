@@ -7530,9 +7530,27 @@ Lectures in calendar and tasks like planning lectures.
 ******** Fri W1
 <2014-01-10 Fri 10:00-11:00>
 ******* TODO Exams
-******** TODO Enter meetings, exam questions etc. into calendar
+******** DONE Enter meetings, exam questions etc. into calendar
 	 DEADLINE: <2014-01-22 Wed>
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2014-01-22 Wed 11:42]
+	 CLOCK: [2014-01-22 Wed 11:34]--[2014-01-22 Wed 11:38] =>  0:04
+	 :END:
 [2014-01-21 Tue 20:50]
+******** DONE MT1
+	 :LOGBOOK:
+	 - State "DONE"       from "TODO"       [2014-01-22 Wed 11:42]
+	 :END:
+********* DONE Prepare questions
+	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2014-01-22 Wed 11:42]
+	  :END:
+******** TODO MT2
+	 DEADLINE: <2014-02-16 Sun>
+********* NEXT Prepare questions
+******** TODO Final
+	 DEADLINE: <2014-03-09 Sun>
+********* NEXT Prepare questions
 ****** Clocking
 ******* Admin
 ******* Office hours
@@ -7622,6 +7640,15 @@ Lectures in calendar and tasks like planning lectures.
 	CLOCK: [2014-01-09 Thu 10:00]--[2014-01-09 Thu 10:54] =>  0:54
 	:END:
 <2014-01-09 Thu 10:00-11:00>
+******* Plan MT 1
+	:LOGBOOK:
+	CLOCK: [2014-01-21 Tue 13:00]--[2014-01-21 Tue 14:00] =>  1:00
+	:END:
+<2014-01-21 Tue 13:00-14:00>
+******* Plan MT 2
+<2014-02-18 Tue 13:00-14:00>
+******* Plan Final
+<2014-03-11 Tue 13:00-14:00>
 ******* TA's
 ******** First meeting
 <2014-01-15 Wed 13:15-13:45>
@@ -7904,7 +7931,10 @@ Lectures in calendar and tasks like planning lectures.
 	:PROPERTIES:
 	:ID:       a88c96d5-8ab1-4357-9c8d-6a3731c76480
 	:END:
-******** TODO MT 1
+******** DONE MT 1
+	 :LOGBOOK:
+	 - State "DONE"       from "TODO"       [2014-01-22 Wed 11:41]
+	 :END:
 	 :PROPERTIES:
 	 :ID:       1279d47e-5720-4a4f-a4c3-83e931e52626
 	 :END:
@@ -7979,7 +8009,7 @@ Lectures in calendar and tasks like planning lectures.
 ******** Wed W1
 <2014-01-08 Wed 09:00-10:00>
 ******** Fri W1
-<2014-01-10 Fri 09:00-10:00>
+	 <2014-01-10 Fri 09:00-10:00>
 ****** Clocking
 ******* Admin
 	:LOGBOOK:
