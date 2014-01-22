@@ -7588,6 +7588,9 @@ Lectures in calendar and tasks like planning lectures.
 ********* Lecture 2.2
 <2014-01-15 Wed 12:00-13:00>
 ********* Lecture 3.2
+	  :LOGBOOK:
+	  CLOCK: [2014-01-22 Wed 11:47]--[2014-01-22 Wed 13:14] =>  1:27
+	  :END:
 <2014-01-22 Wed 12:00-13:00>
 ********* Lecture 4.2
 <2014-01-29 Wed 12:00-13:00>
@@ -8017,6 +8020,9 @@ Lectures in calendar and tasks like planning lectures.
 	:END:
 ******* Office hours
 ****** Schedule
+       :LOGBOOK:
+       CLOCK: [2014-01-22 Wed 14:11]
+       :END:
 ******* Lectures
 ******** Location
 Center 101
@@ -8443,6 +8449,8 @@ http://urp.ucsd.edu/
 <2014-01-13 Mon 13:15-14:00>
 <2014-01-15 Wed 14:00-15:00>
 
+********* Weekly WDM
+********** Meeting 1
 ****** Participants
 - Jason Bunk <jbunk@ucsd.edu>
 
