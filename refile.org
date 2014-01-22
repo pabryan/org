@@ -73,9 +73,11 @@ Should create typing tasks from scribbles and schedule them
   SCHEDULED: <2014-01-13 Mon>
 [2014-01-12 Sun 11:13]
 [[file:~/reference/ucsd/office/Office-Hours-Door-Card.pdf]]
-* TODO Add TA's to Ted
+* DONE Add TA's to Ted
   DEADLINE: <2014-01-22 Wed>
   :LOGBOOK:
+  - State "DONE"       from "NEXT"       [2014-01-22 Wed 15:48]
+  CLOCK: [2014-01-22 Wed 15:39]--[2014-01-22 Wed 15:48] =>  0:09
   CLOCK: [2014-01-22 Wed 14:10]--[2014-01-22 Wed 14:11] =>  0:01
   :END:
 [2014-01-22 Wed 14:10]
