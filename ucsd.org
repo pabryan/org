@@ -7554,6 +7554,9 @@ Lectures in calendar and tasks like planning lectures.
 ****** Clocking
 ******* Admin
 ******* Office hours
+	:LOGBOOK:
+	CLOCK: [2014-01-22 Wed 15:17]
+	:END:
 ****** Schedule
 ******* Lectures
 ******** Location
@@ -8021,7 +8024,7 @@ Lectures in calendar and tasks like planning lectures.
 ******* Office hours
 ****** Schedule
        :LOGBOOK:
-       CLOCK: [2014-01-22 Wed 14:11]
+       CLOCK: [2014-01-22 Wed 14:11]--[2014-01-22 Wed 14:53] =>  0:42
        :END:
 ******* Lectures
 ******** Location
