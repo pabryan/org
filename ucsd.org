@@ -7908,8 +7908,11 @@ Lectures in calendar and tasks like planning lectures.
 	 :PROPERTIES:
 	 :ID:       1279d47e-5720-4a4f-a4c3-83e931e52626
 	 :END:
-********* NEXT Prepare questions
+********* DONE Prepare questions
 	  DEADLINE: <2014-01-23 Thu>
+	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2014-01-21 Tue 21:06]
+	  :END:
 	  :PROPERTIES:
 	  :ID:       c5048fc6-d533-474a-9ff8-e367b52dc396
 	  :END:
@@ -8284,6 +8287,18 @@ http://urp.ucsd.edu/
 <2014-01-22 Wed 09:00-11:00>
 ******** DG2
 <2014-01-27 Mon 09:00-11:00>
+******** DG3
+<2014-02-03 Mon 09:00-11:00>
+******** DG4
+<2014-02-10 Mon 09:00-11:00>
+******** DG5
+<2014-02-17 Mon 09:00-11:00>
+******** DG6
+<2014-02-24 Mon 09:00-11:00>
+******** DG7
+<2014-03-03 Mon 09:00-11:00>
+******** DG8
+<2014-03-10 Mon 09:00-11:00>
 ****** Notes
 ******* Winter 2014 Times
 - Matt Groesbeck: 
@@ -8369,6 +8384,21 @@ http://urp.ucsd.edu/
 	:ID:       16495a6e-8666-416b-8e38-f96a7ecc9a19
 	:END:
 	<2013-11-22 Fri 12:00-13:00>
+******* Weekly
+******** CSF 1
+<2014-01-29 Wed 09:00-11:00>
+******** CSF 2
+<2014-02-05 Wed 09:00-11:00>
+******** CSF 3
+<2014-02-12 Wed 09:00-11:00>
+******** CSF 4
+<2014-02-19 Wed 09:00-11:00>
+******** CSF 5
+<2014-02-26 Wed 09:00-11:00>
+******** CSF 6
+<2014-03-05 Wed 09:00-11:00>
+******** CSF 7
+<2014-03-12 Wed 09:00-11:00>
 ****** Clocking
 ****** Participants
 - M Groesbeck <m.groesbeck@gmail.com>
