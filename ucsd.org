@@ -7335,8 +7335,11 @@ Lectures in calendar and tasks like planning lectures.
 	   :PROPERTIES:
 	   :ID:       c8adf24e-f42e-48dc-b102-84f54cc1607f
 	   :END:
-********** TODO Lecture 3.1
+********** DONE Lecture 3.1
 	   DEADLINE: <2014-01-20 Mon>
+	   :LOGBOOK:
+	   - State "DONE"       from "TODO"       [2014-01-21 Tue 20:39]
+	   :END:
 	   :PROPERTIES:
 	   :ID:       5620c9b2-9251-4342-b58d-744cb696a9f2
 	   :END:
@@ -7393,8 +7396,11 @@ Lectures in calendar and tasks like planning lectures.
 	   :PROPERTIES:
 	   :ID:       b5383459-9ee9-4d70-af9a-11e2ef97d7d4
 	   :END:
-********** TODO Lecture 3.2
+********** DONE Lecture 3.2
 	   DEADLINE: <2014-01-22 Wed>
+	   :LOGBOOK:
+	   - State "DONE"       from "TODO"       [2014-01-21 Tue 20:39]
+	   :END:
 	   :PROPERTIES:
 	   :ID:       91f1a6b5-9ba8-41dc-a430-4c5b7e3ac880
 	   :END:
@@ -7686,8 +7692,11 @@ Lectures in calendar and tasks like planning lectures.
 	   :PROPERTIES:
 	   :ID:       e69aec8a-4e71-498a-9f5d-b46a5da6e062
 	   :END:
-********** TODO Lecture 3.1
+********** DONE Lecture 3.1
 	   DEADLINE: <2014-01-20 Mon>
+	   :LOGBOOK:
+	   - State "DONE"       from "TODO"       [2014-01-21 Tue 20:39]
+	   :END:
 	   :PROPERTIES:
 	   :ID:       86225b6a-c67a-45bc-b9b2-4664cd41761f
 	   :END:
@@ -7744,8 +7753,11 @@ Lectures in calendar and tasks like planning lectures.
 	   :PROPERTIES:
 	   :ID:       d034e2dc-1961-4c83-9982-7b7a794828e7
 	   :END:
-********** TODO Lecture 3.2
+********** DONE Lecture 3.2
 	   DEADLINE: <2014-01-22 Wed>
+	   :LOGBOOK:
+	   - State "DONE"       from "TODO"       [2014-01-21 Tue 20:39]
+	   :END:
 	   :PROPERTIES:
 	   :ID:       58000d5f-b787-412f-9deb-3145ef3dd161
 	   :END:
@@ -8522,7 +8534,7 @@ homeomorphic to S^4 or to a connected sum of CP^2s.
   CLOCK: [2012-10-26 Fri 15:07]--[2012-10-26 Fri 15:08] =>  0:01
 [2012-10-26 Fri 15:07]
 **** NEXT Send DG seminar email announcement
-     DEADLINE: <2014-01-23 Thu +1w -5d>
+     DEADLINE: <2014-01-30 Thu +1w -5d>
      
     - State "HOLD"       from "NEXT"       [2013-03-29 Fri 10:43] \\
       Lei and I will do an informal seminar instead.
@@ -8537,6 +8549,7 @@ homeomorphic to S^4 or to a connected sum of CP^2s.
     - State "DONE"       from "NEXT"       [2012-12-06 Thu 14:00]
     - State "DONE"       from "TODO"       [2012-11-29 Thu 09:46]
     :LOGBOOK:
+    - State "DONE"       from "NEXT"       [2014-01-21 Tue 20:40]
     - State "DONE"       from "NEXT"       [2014-01-17 Fri 17:22]
     - State "DONE"       from "NEXT"       [2014-01-06 Mon 17:12]
     - State "DONE"       from "NEXT"       [2013-11-18 Mon 18:51]
@@ -8554,7 +8567,7 @@ homeomorphic to S^4 or to a connected sum of CP^2s.
     :PROPERTIES:
     :ID:       0f19da7c-65a3-4e95-8a91-78d12caa46da
     :REPEAT_TO_STATE: NEXT
-    :LAST_REPEAT: [2014-01-17 Fri 17:22]
+    :LAST_REPEAT: [2014-01-21 Tue 20:40]
     :END: 
 
 [[mailto:seminarstaff@math.ucsd.edu]]
