@@ -7857,6 +7857,7 @@ Lectures in calendar and tasks like planning lectures.
 ********** NEXT Lecture 3.3
 	   DEADLINE: <2014-01-24 Fri>
 	   :LOGBOOK:
+	   CLOCK: [2014-01-23 Thu 15:29]
 	   CLOCK: [2014-01-23 Thu 13:34]--[2014-01-23 Thu 13:55] =>  0:21
 	   CLOCK: [2014-01-23 Thu 12:55]--[2014-01-23 Thu 13:10] =>  0:15
 	   :END:
