@@ -1578,6 +1578,7 @@ I have mythtv and mediatomb and who knows what else using up valuable resources.
   :END:
 ** Organisation
   :LOGBOOK:
+  CLOCK: [2014-01-23 Thu 11:11]--[2014-01-23 Thu 12:01] =>  0:50
   CLOCK: [2014-01-22 Wed 17:05]--[2014-01-22 Wed 17:09] =>  0:04
   CLOCK: [2014-01-22 Wed 15:34]--[2014-01-22 Wed 15:39] =>  0:05
   CLOCK: [2014-01-22 Wed 14:53]--[2014-01-22 Wed 15:12] =>  0:19
@@ -2819,9 +2820,10 @@ When I set up scoring the day:
   - This would be ranking *qualitative* things such as general mood, pain, energy, motivation etc.
 - [ ] Collate data such as sleep, weight, exercise, diet etc.
 
-** NEXT Daily Plan [0/4]
+** NEXT Daily Plan [0/5]
    SCHEDULED: <2014-01-23 Thu .+1d/2d>
    :LOGBOOK:
+   CLOCK: [2014-01-23 Thu 12:01]
    - State "DONE"       from "NEXT"       [2014-01-22 Wed 11:40]
    - State "DONE"       from "NEXT"       [2014-01-12 Sun 11:39]
    CLOCK: [2014-01-12 Sun 11:13]--[2014-01-12 Sun 11:35] =>  0:22
@@ -3222,6 +3224,7 @@ When I set up scoring the day:
    :END:
 
 - [ ] Check agenda/focus
+- [ ] Check emails
 - [ ] Tidy up agenda tasks
   - mark done those tasks already done
 - [ ] Do short tasks
