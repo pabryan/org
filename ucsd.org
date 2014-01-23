@@ -7977,6 +7977,9 @@ Lectures in calendar and tasks like planning lectures.
   - State "DONE"       from "TODO"       [2014-01-07 Tue 11:27]
   :END:
 [2014-01-06 Mon 17:13]
+******** TODO Check if students can have a 2-sided sheet of notes
+  DEADLINE: <2014-01-23 Thu>
+[2014-01-22 Wed 17:11]
 ******* DONE Website
 	:LOGBOOK:
 	- State "DONE"       from "TODO"       [2013-12-18 Wed 14:17]
@@ -8060,7 +8063,7 @@ Center 101
 <2014-01-15 Wed 16:00-17:00>
 ********* Lecture 3.2
 	  :LOGBOOK:
-	  CLOCK: [2014-01-22 Wed 15:48]
+	  CLOCK: [2014-01-22 Wed 15:48]--[2014-01-22 Wed 17:05] =>  1:17
 	  :END:
 <2014-01-22 Wed 16:00-17:00>
 ********* Lecture 4.2
