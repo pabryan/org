@@ -7456,8 +7456,11 @@ Lectures in calendar and tasks like planning lectures.
 	   :PROPERTIES:
 	   :ID:       a8051040-e045-42e7-9b81-caef7d38d5cf
 	   :END:
-********** TODO Lecture 3.3
+********** NEXT Lecture 3.3
 	   DEADLINE: <2014-01-24 Fri>
+	   :LOGBOOK:
+	   CLOCK: [2014-01-23 Thu 12:12]
+	   :END:
 	   :PROPERTIES:
 	   :ID:       b3090e44-0cb7-4a08-9d67-ad1f2f6e9557
 	   :END:
@@ -7977,8 +7980,11 @@ Lectures in calendar and tasks like planning lectures.
   - State "DONE"       from "TODO"       [2014-01-07 Tue 11:27]
   :END:
 [2014-01-06 Mon 17:13]
-******** TODO Check if students can have a 2-sided sheet of notes
+******** DONE Check if students can have a 2-sided sheet of notes
   DEADLINE: <2014-01-23 Thu>
+  :LOGBOOK:
+  - State "DONE"       from "TODO"       [2014-01-23 Thu 12:11]
+  :END:
 [2014-01-22 Wed 17:11]
 ******* DONE Website
 	:LOGBOOK:
