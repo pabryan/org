@@ -7580,7 +7580,7 @@ Lectures in calendar and tasks like planning lectures.
 <2014-01-20 Mon 12:00-13:00>
 ********* Lecture 4.1
 	  :LOGBOOK:
-	  CLOCK: [2014-01-27 Mon 11:51]
+	  CLOCK: [2014-01-27 Mon 11:51]--[2014-01-27 Mon 13:08] =>  1:17
 	  :END:
 <2014-01-27 Mon 12:00-13:00>
 ********* Lecture 5.1
