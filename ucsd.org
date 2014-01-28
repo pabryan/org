@@ -8508,7 +8508,7 @@ http://urp.ucsd.edu/
 
 ********* Weekly WDM
 	  :LOGBOOK:
-	  CLOCK: [2014-01-28 Tue 13:02]
+	  CLOCK: [2014-01-28 Tue 13:02]--[2014-01-28 Tue 14:10] =>  1:08
 	  :END:
 <2014-01-28 Tue 13:00-14:00 +1w>
 ****** Participants
@@ -8517,7 +8517,9 @@ http://urp.ucsd.edu/
 ****** Notes
 ****** Refs
 ****** TODO Tasks
-
+******* TODO Sage conversion
+******** NEXT Load matlab code into sage
+	 DEADLINE: <2014-01-31 Fri>
 * Seminars 							    :SEMINAR:
   :PROPERTIES:
   :ID:       4a7b50f0-8368-4d3a-bc5d-c0e229fd442f
