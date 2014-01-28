@@ -8008,6 +8008,10 @@ Lectures in calendar and tasks like planning lectures.
   - State "DONE"       from "TODO"       [2014-01-23 Thu 12:11]
   :END:
 [2014-01-22 Wed 17:11]
+******** TODO Save 20b code 
+  DEADLINE: <2014-01-27 Mon>
+[2014-01-26 Sun 09:51]
+Get it from cloud.sagemath and add it to my 20b working
 ******* DONE Website
 	:LOGBOOK:
 	- State "DONE"       from "TODO"       [2013-12-18 Wed 14:17]
@@ -8503,6 +8507,9 @@ http://urp.ucsd.edu/
 <2014-01-15 Wed 14:00-15:00>
 
 ********* Weekly WDM
+	  :LOGBOOK:
+	  CLOCK: [2014-01-28 Tue 13:02]
+	  :END:
 <2014-01-28 Tue 13:00-14:00 +1w>
 ****** Participants
 - Jason Bunk <jbunk@ucsd.edu>
