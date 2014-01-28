@@ -2838,6 +2838,7 @@ When I set up scoring the day:
    :LOGBOOK:
    - State "DONE"       from "NEXT"       [2014-01-27 Mon 11:08]
    CLOCK: [2014-01-27 Mon 11:03]--[2014-01-27 Mon 11:08] =>  0:05
+   - State "DONE"       from "NEXT"       [2014-01-25 Sat 12:49]
    - State "DONE"       from "NEXT"       [2014-01-24 Fri 11:49]
    CLOCK: [2014-01-24 Fri 11:21]--[2014-01-24 Fri 11:22] =>  0:01
    CLOCK: [2014-01-23 Thu 12:01]--[2014-01-23 Thu 12:12] =>  0:11
@@ -3238,6 +3239,7 @@ When I set up scoring the day:
    :RESET_CHECK_BOXES: t
    :ID:       ef051ee0-1113-4604-b355-450a5a47848b
    :LAST_REPEAT: [2014-01-27 Mon 11:08]
+   :LAST_REPEAT: [2014-01-25 Sat 12:49]
    :END:
 
 - [ ] Check agenda/focus
