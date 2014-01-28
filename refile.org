@@ -72,3 +72,8 @@ Should create typing tasks from scribbles and schedule them
   DEADLINE: <2014-01-27 Mon>
 [2014-01-26 Sun 09:51]
 Get it from cloud.sagemath and add it to my 20b working
+* TODO Add personal ispell dict to version control
+  :LOGBOOK:
+  CLOCK: [2014-01-28 Tue 11:09]--[2014-01-28 Tue 11:10] =>  0:01
+  :END:
+[2014-01-28 Tue 11:09]
