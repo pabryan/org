@@ -1579,6 +1579,7 @@ I have mythtv and mediatomb and who knows what else using up valuable resources.
   :END:
 ** Organisation
   :LOGBOOK:
+  CLOCK: [2014-01-27 Mon 20:45]--[2014-01-27 Mon 20:46] =>  0:01
   CLOCK: [2014-01-27 Mon 15:12]--[2014-01-27 Mon 15:14] =>  0:02
   CLOCK: [2014-01-27 Mon 13:08]--[2014-01-27 Mon 13:13] =>  0:05
   CLOCK: [2014-01-27 Mon 11:08]--[2014-01-27 Mon 11:19] =>  0:11
@@ -2599,6 +2600,7 @@ Check how I did last month. I guess the review and plan could probably go togeth
 ** NEXT Daily Review [0/10]
    SCHEDULED: <2014-01-25 Sat .+1d/2d>
    :LOGBOOK:
+   CLOCK: [2014-01-27 Mon 20:46]--[2014-01-27 Mon 20:50] =>  0:04
    - State "DONE"       from "NEXT"       [2014-01-24 Fri 17:38]
    CLOCK: [2014-01-24 Fri 17:33]--[2014-01-24 Fri 17:38] =>  0:05
    - State "DONE"       from "NEXT"       [2014-01-22 Wed 17:13]
