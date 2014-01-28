@@ -73,3 +73,8 @@ Should create typing tasks from scribbles and schedule them
   CLOCK: [2014-01-28 Tue 11:09]--[2014-01-28 Tue 11:10] =>  0:01
   :END:
 [2014-01-28 Tue 11:09]
+* TODO Write project clone script
+  DEADLINE: <2014-01-31 Fri>
+[2014-01-28 Tue 15:43]
+
+Should run hg clone ssh://hg@bitbucket.org/pabryan/<proj>

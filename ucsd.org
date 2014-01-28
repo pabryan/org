@@ -8517,9 +8517,18 @@ http://urp.ucsd.edu/
 ****** Notes
 ****** Refs
 ****** TODO Tasks
-******* TODO Sage conversion
-******** NEXT Load matlab code into sage
-	 DEADLINE: <2014-01-31 Fri>
+******* TODO Code
+******** TODO Setup project
+********* NEXT Get matlab code into VC
+	  :LOGBOOK:
+	  CLOCK: [2014-01-28 Tue 15:43]--[2014-01-28 Tue 15:46] =>  0:03
+	  CLOCK: [2014-01-28 Tue 15:42]--[2014-01-28 Tue 15:43] =>  0:01
+	  :END:
+********* TODO Add Jason to VC
+********* TODO Create skeleton Python code
+******** TODO Sage conversion
+********* NEXT Load matlab code into sage
+	  DEADLINE: <2014-01-31 Fri>
 * Seminars 							    :SEMINAR:
   :PROPERTIES:
   :ID:       4a7b50f0-8368-4d3a-bc5d-c0e229fd442f
