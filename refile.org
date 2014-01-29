@@ -78,3 +78,13 @@ Should create typing tasks from scribbles and schedule them
 [2014-01-28 Tue 15:43]
 
 Should run hg clone ssh://hg@bitbucket.org/pabryan/<proj>
+* TODO Change exercise, mobility, relax tasks
+  :LOGBOOK:
+  CLOCK: [2014-01-29 Wed 11:06]--[2014-01-29 Wed 11:07] =>  0:01
+  :END:
+[2014-01-29 Wed 11:06]
+- Walking
+- Strength/Conditioning
+- Mobility
+- Relaxation
+- Compensation
