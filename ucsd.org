@@ -7623,7 +7623,7 @@ Lectures in calendar and tasks like planning lectures.
 <2014-01-22 Wed 12:00-13:00>
 ********* Lecture 4.2
 	  :LOGBOOK:
-	  CLOCK: [2014-01-29 Wed 11:45]
+	  CLOCK: [2014-01-29 Wed 11:45]--[2014-01-29 Wed 13:12] =>  1:27
 	  :END:
 <2014-01-29 Wed 12:00-13:00>
 ********* Lecture 5.2
@@ -7668,6 +7668,10 @@ Lectures in calendar and tasks like planning lectures.
 ******* Exams
 ******** Midterm 1
 <2014-01-28 Tue 20:00-21:00>
+        :LOGBOOK:
+	CLOCK: [2014-01-28 Tue 19:45]--[2014-01-28 Tue 21:15] =>  1:30
+	:END:
+
 ******** Midterm 2
 <2014-02-25 Tue 20:00-21:00>
 ******** Final
@@ -7838,7 +7842,7 @@ Lectures in calendar and tasks like planning lectures.
 ********** NEXT Lecture 4.2
 	   DEADLINE: <2014-01-29 Wed>
 	   :LOGBOOK:
-	   CLOCK: [2014-01-28 Tue 18:50]--[2014-01-29 Wed 09:02] => 14:12
+	   CLOCK: [2014-01-28 Tue 18:50]--[2014-01-28 Tue 19:45] =>  0:55
 	   :END:
 	   :PROPERTIES:
 	   :ID:       5d56406d-de7a-4344-8863-e1930ca4a7bb
