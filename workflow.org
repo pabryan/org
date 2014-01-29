@@ -1573,13 +1573,23 @@ I have some scripts for capturing the X settings and then a script for loading t
   :END:
 [2013-09-02 Mon 21:12]
 I have mythtv and mediatomb and who knows what else using up valuable resources.
+** DONE Write project clone script
+  DEADLINE: <2014-01-31 Fri>
+  :LOGBOOK:
+  - State "DONE"       from "NEXT"       [2014-01-29 Wed 11:15]
+  CLOCK: [2014-01-29 Wed 11:12]--[2014-01-29 Wed 11:15] =>  0:03
+  :END:
+[2014-01-28 Tue 15:43]
+
+Should run hg clone ssh://hg@bitbucket.org/pabryan/<proj>
 * Clocking
   :PROPERTIES:
   :ID:       4257fe31-e606-4ca9-a848-858379409679
   :END:
 ** Organisation
   :LOGBOOK:
-  CLOCK: [2014-01-29 Wed 11:07]
+  CLOCK: [2014-01-29 Wed 11:15]
+  CLOCK: [2014-01-29 Wed 11:07]--[2014-01-29 Wed 11:12] =>  0:05
   CLOCK: [2014-01-28 Tue 18:36]--[2014-01-28 Tue 18:50] =>  0:14
   CLOCK: [2014-01-28 Tue 15:38]--[2014-01-28 Tue 15:42] =>  0:04
   CLOCK: [2014-01-28 Tue 12:58]--[2014-01-28 Tue 13:02] =>  0:04
