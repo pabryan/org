@@ -7835,7 +7835,7 @@ Lectures in calendar and tasks like planning lectures.
 ********** NEXT Lecture 4.2
 	   DEADLINE: <2014-01-29 Wed>
 	   :LOGBOOK:
-	   CLOCK: [2014-01-28 Tue 18:50]
+	   CLOCK: [2014-01-28 Tue 18:50]--[2014-01-29 Wed 09:02] => 14:12
 	   :END:
 	   :PROPERTIES:
 	   :ID:       5d56406d-de7a-4344-8863-e1930ca4a7bb
@@ -8503,6 +8503,9 @@ http://urp.ucsd.edu/
 	<2013-11-22 Fri 12:00-13:00>
 ******* Weekly
 ******** CSF 1
+	 :LOGBOOK:
+	 CLOCK: [2014-01-29 Wed 09:02]
+	 :END:
 <2014-01-29 Wed 09:00-11:00>
 ******** CSF 2
 <2014-02-05 Wed 09:00-11:00>
