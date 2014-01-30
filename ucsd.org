@@ -8007,6 +8007,12 @@ Lectures in calendar and tasks like planning lectures.
 	  :ID:       c5048fc6-d533-474a-9ff8-e367b52dc396
 	  :END:
 
+********* DONE Email TA's about meeting before exam for proctoring
+  DEADLINE: <2014-01-29 Wed>
+  :LOGBOOK:
+  - State "DONE"       from "TODO"       [2014-01-29 Wed 17:20]
+  :END:
+[2014-01-29 Wed 14:00]
 ******** TODO MT 2
 	 :PROPERTIES:
 	 :ID:       f3db625f-2a3a-4ec7-83c4-bc6d6219b757
