@@ -7584,6 +7584,7 @@ Lectures in calendar and tasks like planning lectures.
 	CLOCK: [2014-01-27 Mon 13:56]--[2014-01-27 Mon 14:20] =>  0:24
 	CLOCK: [2014-01-22 Wed 15:17]--[2014-01-22 Wed 15:34] =>  0:17
 	:END:
+******* Piazza
 ****** Schedule
 ******* Lectures
 ******** Location
@@ -8100,6 +8101,10 @@ Get it from cloud.sagemath and add it to my 20b working
 	CLOCK: [2014-01-29 Wed 14:00]--[2014-01-29 Wed 15:03] =>  1:03
 	CLOCK: [2014-01-27 Mon 14:20]--[2014-01-27 Mon 14:55] =>  0:35
 	CLOCK: [2014-01-24 Fri 14:34]--[2014-01-24 Fri 14:44] =>  0:10
+	:END:
+******* Piazza
+	:LOGBOOK:
+	CLOCK: [2014-01-29 Wed 19:35]
 	:END:
 ****** Schedule
        :LOGBOOK:
