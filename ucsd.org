@@ -7912,7 +7912,7 @@ Lectures in calendar and tasks like planning lectures.
 	   :PROPERTIES:
 	   :ID:       f829a36b-6b8c-41a9-9df1-d097d9b1b24f
 	   :END:
-********** TODO Lecture 4.3
+********** NEXT Lecture 4.3
 	   DEADLINE: <2014-01-31 Fri>
 	   :PROPERTIES:
 	   :ID:       8bc4425b-c4ca-4405-aa7d-5478173048a5
@@ -8583,6 +8583,9 @@ http://urp.ucsd.edu/
 ******** TODO Sage conversion
 ********* NEXT Load matlab code into sage
 	  DEADLINE: <2014-01-31 Fri>
+	  :LOGBOOK:
+	  CLOCK: [2014-01-30 Thu 10:48]
+	  :END:
 * Seminars 							    :SEMINAR:
   :PROPERTIES:
   :ID:       4a7b50f0-8368-4d3a-bc5d-c0e229fd442f
