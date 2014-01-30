@@ -8581,11 +8581,14 @@ http://urp.ucsd.edu/
 ********* TODO Add Jason to VC
 ********* TODO Create skeleton Python code
 ******** TODO Sage conversion
-********* NEXT Load matlab code into sage
+********* DONE Load matlab code into sage
 	  DEADLINE: <2014-01-31 Fri>
 	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2014-01-30 Thu 11:58]
+	  CLOCK: [2014-01-30 Thu 11:45]--[2014-01-30 Thu 11:58] =>  0:13
 	  CLOCK: [2014-01-30 Thu 10:48]--[2014-01-30 Thu 11:25] =>  0:37
 	  :END:
+********* NEXT Create loadmatlab wrapper
 * Seminars 							    :SEMINAR:
   :PROPERTIES:
   :ID:       4a7b50f0-8368-4d3a-bc5d-c0e229fd442f
