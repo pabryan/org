@@ -1839,6 +1839,34 @@ In particular, if $X$ is not a gradient vector field, what is corresponding metr
 :END:
 [[papers:MR2075985][MR2075985-paper]]
 [[bib:MR2075985][MR2075985-bib]]
+**** TODO Generalised radial comparison theorem
+***** Notes
+****** Model construction from Tangential Group Action
+- Let $G$ act on $T_o M$ where $o \in M$ is some choice of origin. We require that $G$ fixes $o$ and probably that $G\subset GL^n$ or $G\subset O^n$ or $G\subset SO^n$.
+- Choose a point $v \in T_o M$. How do we choose such a point? We can probably assume $v$ is unit length, particularly if $G\subset O^n$ or $SO^n$. Let $G(p)$ be the orbit of $p$.
+- Define the model manifold 
+  \[
+  \tilde{M} = T_oM/G \times G(p),
+  \]
+  equipped with metric
+  \[
+  \tilde{\metric} = \bar{\metric} + f(r)^2 \metric_{\theta}
+  \]
+  for $\bar{\metric}$ the quotient metric on $T_oM/G$, $f(r)$ some positive function on $T_oM/G$ and $\metric_{\theta}$ some metric on $G(p)$. Here $r\in T_oM/G$ and $\theta \in G(p)$. How do we choose $\metric_{\theta}?$ This could just be the Euclidean metric on $T_oM$ restricted to $G(p)$ (assuming $G(p)$ is a submanifold which should be okay since $G$ acts effectively and transitively.
+- We'll want to choose $f$ by some differential equation arising from the curvature. See for example, Kondo and Tanaka (2009). Then we can get some sort of curvature comparison from $M$ to $\tilde{M}$.
+- More generally, we might collapse the orbit. Here we could take $H\subset G$ and use $H(p)$ rather than $G(p)$. 
+- Compare this with the construction of radial comparison in Kondo and Tanaka (2009). There $G=SO^n$, so that $T_oM/G = [0,\infty)$. The orbit is reduced from $\sphere^n$ to $\sphere^1$, by considering an great circle on $\sphere^n$ which presumably corresponds to choosing $H$ to rotate about a fixed plane (then the great circle lies in that plane). $\metric_{\theta}$ is just the standard metric on $\sphere^1$. Thus I guess one way to proceed would be to choose the unit tangent sphere as source of points, let $G \subset SO^n$ and $H$ be the intersection of $G$ with the rotations fixing a plane (which plane?). Or $H$ could be any subgroup and we could take the metric on $H(p)$ to be the induced metric from the standard metric on $\sphere^n$. Here, since $H \subset G\subset SO^n$, the orbit is a subset of $\sphere^n$. Is it a submanifold?
+***** Refs
+- Kondo, Tanaka (2009): Total Curvatures of Model Surfaces Control Topology of Complete Open Manifolds with Radial Curvature Bounded Below.
+***** Tasks
+****** NEXT Work out model construction
+       :LOGBOOK:
+       CLOCK: [2014-01-30 Thu 15:30]
+       :END:
+****** NEXT Scan diagram of model construction
+****** NEXT Re-investigate
+       SCHEDULED: <2014-04-13 Sun>
+
 ** Books
 *** Working
 *** Future 							    :SOMEDAY:
