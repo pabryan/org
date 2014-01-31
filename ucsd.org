@@ -2532,9 +2532,10 @@ CLOCK: [2013-04-08 Mon 15:00]--[2013-04-08 Mon 16:12] =>  0:59
 	  - State "DONE"       from "NEXT"       [2014-01-30 Thu 17:37]
 	  CLOCK: [2014-01-30 Thu 17:29]--[2014-01-30 Thu 17:37] =>  0:08
 	  :END:
-********* NEXT Final
+********* DONE Final
 	  :LOGBOOK:
-	  CLOCK: [2014-01-30 Thu 17:37]
+	  - State "DONE"       from "NEXT"       [2014-01-30 Thu 18:29]
+	  CLOCK: [2014-01-30 Thu 17:37]--[2014-01-30 Thu 18:29] =>  0:52
 	  :END:
 ****** Homework							   :HOMEWORK:
 ******* Homework 1
@@ -7484,6 +7485,7 @@ Lectures in calendar and tasks like planning lectures.
 ********** NEXT Lecture 4.3
 	   DEADLINE: <2014-01-31 Fri>
 	   :LOGBOOK:
+	   CLOCK: [2014-01-30 Thu 18:29]
 	   CLOCK: [2014-01-29 Wed 15:27]--[2014-01-29 Wed 15:32] =>  0:05
 	   :END:
 	   :PROPERTIES:
