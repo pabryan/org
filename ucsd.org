@@ -1888,8 +1888,6 @@ Lectures in calendar and tasks like planning lectures.
 
 ******* DONE Set up stats on TED for assessment
        - State "DONE"       from "NEXT"       [2013-04-29 Mon 11:16]
-  :LOGBOOK:
-  :END:
   :PROPERTIES:
   :ID:       759de22f-a2b3-434b-9ac7-5df37006f70d
   :END:
@@ -2522,15 +2520,22 @@ CLOCK: [2013-04-08 Mon 15:00]--[2013-04-08 Mon 16:12] =>  0:59
        	 :ID:       7365f941-36cb-4b8f-af0b-32d795e33de9
        	 :END:
 ******* Extra grading
-******** Anterpreet Kaur
+******** TODO Anterpreet Kaur
 ********* DONE Midterm 1
 	  :LOGBOOK:
 	  - State "DONE"       from "NEXT"       [2014-01-28 Tue 17:31]
 	  CLOCK: [2014-01-28 Tue 16:50]--[2014-01-28 Tue 17:10] =>  0:20
 	  :END:
 - Score: 12/25
-********* TODO Midterm 2
-********* TODO Final
+********* DONE Midterm 2
+	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2014-01-30 Thu 17:37]
+	  CLOCK: [2014-01-30 Thu 17:29]--[2014-01-30 Thu 17:37] =>  0:08
+	  :END:
+********* NEXT Final
+	  :LOGBOOK:
+	  CLOCK: [2014-01-30 Thu 17:37]
+	  :END:
 ****** Homework							   :HOMEWORK:
 ******* Homework 1
 ******** DONE Set Homework 01
@@ -2592,8 +2597,6 @@ CLOCK: [2013-04-08 Mon 15:00]--[2013-04-08 Mon 16:12] =>  0:59
 
 ******* DONE Change homework due time to 4pm
        - State "DONE"       from "NEXT"       [2013-06-20 Thu 16:37]
-  :LOGBOOK:
-  :END:
   :PROPERTIES:
   :ID:       8a99b95b-0a55-43cd-a1e6-ab39add3f79a
   :END:
@@ -2797,16 +2800,12 @@ CLOCK: [2013-04-08 Mon 15:00]--[2013-04-08 Mon 16:12] =>  0:59
 
 ******* DONE Change quiz due time to Mon 11am
   - State "DONE"       from "TODO"       [2013-04-05 Fri 16:38]
-  :LOGBOOK:
-  :END:
   :PROPERTIES:
   :ID:       75780c3b-a0b4-4657-a13b-ccccf5829c62
   :END:
 [2013-04-04 Thu 15:12]
 ******* DONE Put quiz problems on Website
        - State "DONE"       from "NEXT"       [2013-06-10 Mon 11:19]
-  :LOGBOOK:
-  :END:
       :PROPERTIES:
       :ID:       85507982-8c3a-4774-ba05-d59bc2147301
       :END:
