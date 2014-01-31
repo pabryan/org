@@ -1861,7 +1861,7 @@ In particular, if $X$ is not a gradient vector field, what is corresponding metr
 ***** Tasks
 ****** NEXT Work out model construction
        :LOGBOOK:
-       CLOCK: [2014-01-30 Thu 15:30]
+       CLOCK: [2014-01-30 Thu 15:30]--[2014-01-30 Thu 16:31] =>  1:01
        :END:
 ****** NEXT Scan diagram of model construction
 ****** NEXT Re-investigate
