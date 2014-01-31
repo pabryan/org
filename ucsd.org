@@ -7917,9 +7917,11 @@ Lectures in calendar and tasks like planning lectures.
 	   :PROPERTIES:
 	   :ID:       f829a36b-6b8c-41a9-9df1-d097d9b1b24f
 	   :END:
-********** NEXT Lecture 4.3
+********** DONE Lecture 4.3
 	   DEADLINE: <2014-01-31 Fri>
 	   :LOGBOOK:
+	   - State "DONE"       from "NEXT"       [2014-01-31 Fri 14:27]
+	   CLOCK: [2014-01-31 Fri 14:05]--[2014-01-31 Fri 14:27] =>  0:22
 	   CLOCK: [2014-01-31 Fri 13:52]--[2014-01-31 Fri 13:53] =>  0:01
 	   :END:
 	   :PROPERTIES:
@@ -8106,7 +8108,7 @@ Get it from cloud.sagemath and add it to my 20b working
 	:END:
 ******* Office hours
 	:LOGBOOK:
-	CLOCK: [2014-01-31 Fri 13:53]
+	CLOCK: [2014-01-31 Fri 13:53]--[2014-01-31 Fri 14:05] =>  0:12
 	CLOCK: [2014-01-29 Wed 14:00]--[2014-01-29 Wed 15:03] =>  1:03
 	CLOCK: [2014-01-27 Mon 14:20]--[2014-01-27 Mon 14:55] =>  0:35
 	CLOCK: [2014-01-24 Fri 14:34]--[2014-01-24 Fri 14:44] =>  0:10
