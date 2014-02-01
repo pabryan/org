@@ -152,7 +152,7 @@ END:
    
 ** Bills 
 *** TODO Pay rent
-   DEADLINE: <2014-02-05 Wed +1m -5d> 
+   DEADLINE: <2014-02-05 Wed +1m -4d> 
    :LOGBOOK:
     - State "DONE"       from "TODO"       [2014-01-01 Wed 13:38]
     - State "DONE"       from "TODO"       [2013-12-02 Mon 12:27]
