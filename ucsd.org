@@ -8773,7 +8773,7 @@ homeomorphic to S^4 or to a connected sum of CP^2s.
   CLOCK: [2012-10-26 Fri 15:07]--[2012-10-26 Fri 15:08] =>  0:01
 [2012-10-26 Fri 15:07]
 **** NEXT Send DG seminar email announcement
-     DEADLINE: <2014-02-06 Thu +1w -5d>
+     DEADLINE: <2014-02-13 Thu +1w -5d>
      
     - State "HOLD"       from "NEXT"       [2013-03-29 Fri 10:43] \\
       Lei and I will do an informal seminar instead.
@@ -8788,6 +8788,7 @@ homeomorphic to S^4 or to a connected sum of CP^2s.
     - State "DONE"       from "NEXT"       [2012-12-06 Thu 14:00]
     - State "DONE"       from "TODO"       [2012-11-29 Thu 09:46]
     :LOGBOOK:
+    - State "DONE"       from "NEXT"       [2014-02-02 Sun 13:17]
     - State "DONE"       from "NEXT"       [2014-01-27 Mon 11:04]
     - State "DONE"       from "NEXT"       [2014-01-21 Tue 20:40]
     - State "DONE"       from "NEXT"       [2014-01-17 Fri 17:22]
@@ -8807,7 +8808,7 @@ homeomorphic to S^4 or to a connected sum of CP^2s.
     :PROPERTIES:
     :ID:       0f19da7c-65a3-4e95-8a91-78d12caa46da
     :REPEAT_TO_STATE: NEXT
-    :LAST_REPEAT: [2014-01-27 Mon 11:04]
+    :LAST_REPEAT: [2014-02-02 Sun 13:17]
     :END: 
 
 [[mailto:seminarstaff@math.ucsd.edu]]
