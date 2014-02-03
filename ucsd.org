@@ -7983,7 +7983,7 @@ Lectures in calendar and tasks like planning lectures.
 	 :ID:       ad631b7c-27b4-4286-8810-7b8930f84e05
 	 :END:
 ********* NEXT Check questions
-	  DEADLINE: <2014-02-07 Fri>
+	  DEADLINE: <2014-02-10 Mon -3d>
 	  :PROPERTIES:
 	  :ID:       86bb842e-a3dc-4998-bf70-3124c41ebdcd
 	  :END:
@@ -7992,7 +7992,7 @@ Lectures in calendar and tasks like planning lectures.
 	 :ID:       f2e77cfa-4374-4a6d-ae2d-0c54e511e5d2
 	 :END:
 ********* NEXT Check questions
-	  DEADLINE: <2014-02-14 Fri>
+	  DEADLINE: <2014-02-18 Tue -3d>
 	  :PROPERTIES:
 	  :ID:       ff96f6b2-651d-432a-943c-aafff6d0f860
 	  :END:
@@ -8001,7 +8001,7 @@ Lectures in calendar and tasks like planning lectures.
 	 :ID:       eb587528-51b1-4098-a5de-6bcda23ce3f9
 	 :END:
 ********* NEXT Check questions
-	  DEADLINE: <2014-02-28 Fri>
+	  DEADLINE: <2014-03-03 Mon -3d>
 	  :PROPERTIES:
 	  :ID:       e19b73e3-0034-4766-9502-90822e8cac14
 	  :END:
@@ -8458,7 +8458,7 @@ http://urp.ucsd.edu/
 <2014-01-27 Mon 09:00-11:00>
 ******** DG3
 	 :LOGBOOK:
-	 CLOCK: [2014-02-03 Mon 09:05]
+	 CLOCK: [2014-02-03 Mon 09:05]--[2014-02-03 Mon 10:50] =>  1:45
 	 :END:
 <2014-02-03 Mon 09:00-11:00>
 ******** DG4
@@ -9257,3 +9257,15 @@ Round Table Pizza.
   :ID:       00063426-72bb-49e3-8a61-f9cc66466da1
   :END:
 [2013-11-08 Fri 13:28]
+* Grants
+** Simons Travel grants
+*** 2014
+**** Tasks
+***** TODO Apply for Simons travel grant
+  DEADLINE: <2014-03-31 Mon -2m>
+  :LOGBOOK:
+  CLOCK: [2014-01-31 Fri 17:41]--[2014-01-31 Fri 17:43] =>  0:02
+  :END:
+[2014-01-31 Fri 17:41]
+http://www.ams.org/programs/travel-grants/AMS-SimonsTG
+**** Notes
