@@ -7283,9 +7283,6 @@ Place: APM 7421
        :END:
 **** Winter 2014
 ***** TODO MATH10B
-      :LOGBOOK:
-      CLOCK: [2014-02-03 Mon 14:26]--[2014-02-03 Mon 14:27] =>  0:01
-      :END:
       :PROPERTIES:
       :ID:       31df73a4-0114-4097-8f18-5ce3ed5a1d07
       :END:
