@@ -7879,6 +7879,7 @@ Lectures in calendar and tasks like planning lectures.
 ********** NEXT Lecture 5.2
 	   DEADLINE: <2014-02-05 Wed>
 	   :LOGBOOK:
+	   CLOCK: [2014-02-03 Mon 17:14]
 	   CLOCK: [2014-02-03 Mon 15:20]--[2014-02-03 Mon 15:42] =>  0:22
 	   :END:
 	   :PROPERTIES:
@@ -8163,7 +8164,7 @@ Center 101
 <2014-01-27 Mon 16:00-17:00>
 ********* Lecture 5.1
 	  :LOGBOOK:
-	  CLOCK: [2014-02-03 Mon 15:42]
+	  CLOCK: [2014-02-03 Mon 15:42]--[2014-02-03 Mon 17:14] =>  1:32
 	  :END:
 <2014-02-03 Mon 16:00-17:00>
 ********* Lecture 6.1
