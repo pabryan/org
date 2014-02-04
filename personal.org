@@ -627,8 +627,12 @@ Jonathan Chan
 <2013-12-06 Fri 13:00-14:00>
 <2013-11-19 Tue 11:00>
 ***** Tasks
-****** TODO Book physio
+****** WAITING Book physio
   SCHEDULED: <2014-01-08 Wed>
+  :LOGBOOK:
+  - State "WAITING"    from "TODO"       [2014-02-04 Tue 11:42] \\
+    They will contact me to see if I need a new referral
+  :END:
 [2014-01-08 Wed 12:43]
 
 **** Osteo appointment
