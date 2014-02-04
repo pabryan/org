@@ -92,3 +92,8 @@ Should create typing tasks from scribbles and schedule them
   CLOCK: [2014-02-04 Tue 13:38]--[2014-02-04 Tue 13:39] =>  0:01
   :END:
 [2014-02-04 Tue 13:38]
+* TODO Run WDM code in Ocatave and Matlab
+[2014-02-04 Tue 14:14]
+* TODO Prepare to read sec 4 in Bray 1
+  SCHEDULED: <2014-02-04 Tue>
+[2014-02-04 Tue 14:14]
