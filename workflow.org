@@ -1588,6 +1588,7 @@ Should run hg clone ssh://hg@bitbucket.org/pabryan/<proj>
   :END:
 ** Organisation
   :LOGBOOK:
+  CLOCK: [2014-02-04 Tue 10:26]--[2014-02-04 Tue 10:50] =>  0:24
   CLOCK: [2014-02-03 Mon 17:47]--[2014-02-03 Mon 17:48] =>  0:01
   CLOCK: [2014-02-03 Mon 14:27]--[2014-02-03 Mon 14:35] =>  0:08
   CLOCK: [2014-02-03 Mon 11:40]--[2014-02-03 Mon 11:42] =>  0:02
@@ -2878,6 +2879,7 @@ When I set up scoring the day:
 ** NEXT Daily Plan [0/5]
    SCHEDULED: <2014-02-04 Tue .+1d/2d>
    :LOGBOOK:
+   CLOCK: [2014-02-04 Tue 11:33]
    - State "DONE"       from "NEXT"       [2014-02-03 Mon 11:08]
    CLOCK: [2014-02-03 Mon 10:50]--[2014-02-03 Mon 11:08] =>  0:18
    - State "DONE"       from "NEXT"       [2014-02-02 Sun 13:17]

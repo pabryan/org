@@ -501,7 +501,10 @@ http://www.costco.com/membership-renewal.html
 <2013-12-11 Wed 15:00-16:00>
 <2013-12-18 Wed 15:00-16:00>
 ** KP
-*** DONE Call KP membership
+*** Data
+- 0020488467
+*** Tasks
+**** DONE Call KP membership
    - State "DONE"       from "TODO"       [2012-10-24 Wed 13:30]
 Need to find out what to do when sick or in an emergency
   CLOCK: [2012-10-18 Thu 10:46]--[2012-10-18 Thu 10:47] =>  0:01
@@ -509,15 +512,15 @@ Need to find out what to do when sick or in an emergency
    :ID:       ea362f28-4534-49fd-8d18-d4b23b33abd9
    :END:
 [2012-10-18 Thu 10:46]
-*** DONE Update medical insurance				   :COMPUTER:
-    - State "DONE"       from "WAITING"    [2012-10-24 Wed 13:31]
-    - State "WAITING"    from "TODO"       [2012-10-16 Tue 10:42] \\
-      Should recieve email confirming eligibility for family members
-    :PROPERTIES:
-    :ID:       49875893-75df-4de9-8469-5ebf23a7e891
-    :END:
+**** DONE Update medical insurance				   :COMPUTER:
+     - State "DONE"       from "WAITING"    [2012-10-24 Wed 13:31]
+     - State "WAITING"    from "TODO"       [2012-10-16 Tue 10:42] \\
+       Should recieve email confirming eligibility for family members
+     :PROPERTIES:
+     :ID:       49875893-75df-4de9-8469-5ebf23a7e891
+     :END:
 
-*** DONE Find doctor
+**** DONE Find doctor
    - State "DONE"       from "TODO"       [2012-10-24 Wed 13:30]
 [[http://kp.org][KP]]
   CLOCK: [2012-10-14 Sun 20:33]--[2012-10-14 Sun 20:33] =>  0:00
@@ -525,7 +528,7 @@ Need to find out what to do when sick or in an emergency
    :ID:       e64bba9b-57ea-49b7-87b6-7050a8f5e57e
    :END:
 [2012-10-14 Sun 20:33]
-*** DONE Checkout Health insurance changes
+**** DONE Checkout Health insurance changes
    - State "DONE"       from "NEXT"       [2012-11-10 Sat 13:33]
 UC SAN DIEGO
 CAMPUS NOTICE
@@ -586,7 +589,7 @@ person in your department who handles benefits information.
   CLOCK: [2012-10-25 Thu 11:32]--[2012-10-25 Thu 11:32] =>  0:00
 [2012-10-25 Thu 11:32]
 
-*** DONE Book doctor appointments
+**** DONE Book doctor appointments
   SCHEDULED: <2013-09-16 Mon>
   :LOGBOOK:
   - State "DONE"       from "TODO"       [2013-09-25 Wed 13:06]
@@ -612,19 +615,21 @@ SAN DIEGO CA 92111-1003
 3851 Shaw Ridge Road
 1st Floor
 Jonathan Chan
-**** Neck Physio
-<2013-11-19 Tue 11:00>
-Kearny Mesa
-4510 Viewridge Ave San Diego, CA 92123‎
-**** Physio
-<2013-12-06 Fri 13:00-14:00>
 **** Physical Therapy
 :PROPERTIES:
     :ID:       45832d63-d105-44ad-9e73-cd0a0be7a5ea
     :END:
+- 4510 ViewRidge Avenue San Diego 92123
+- 866-413-1582
+***** Appointments
 <2012-12-27 Thu 14:00>
 <2013-01-30 Wed 13:30>
-4510 ViewRidge Avenue San Diego 92123
+<2013-12-06 Fri 13:00-14:00>
+<2013-11-19 Tue 11:00>
+***** Tasks
+****** TODO Book physio
+  SCHEDULED: <2014-01-08 Wed>
+[2014-01-08 Wed 12:43]
 
 **** Osteo appointment
    :PROPERTIES:
@@ -632,10 +637,6 @@ Kearny Mesa
    :END:
 <2012-12-10 13:30>
 Mary Tran, 2nd floor
-**** TODO Book physio
-  SCHEDULED: <2014-01-08 Wed>
-[2014-01-08 Wed 12:43]
-
 ** Routine/Schedule
 *** CANCELLED Update training schedule
    - State "CANCELLED"  from "TODO"       [2012-10-24 Wed 13:30] \\
