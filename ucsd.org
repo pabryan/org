@@ -7648,6 +7648,9 @@ Lectures in calendar and tasks like planning lectures.
 	  :END:
 <2014-01-29 Wed 12:00-13:00>
 ********* Lecture 5.2
+	  :LOGBOOK:
+	  CLOCK: [2014-02-05 Wed 11:46]--[2014-02-05 Wed 13:11] =>  1:25
+	  :END:
 <2014-02-05 Wed 12:00-13:00>
 ********* Lecture 6.2
 <2014-02-12 Wed 12:00-13:00>
@@ -8581,24 +8584,12 @@ http://urp.ucsd.edu/
 	:ID:       16495a6e-8666-416b-8e38-f96a7ecc9a19
 	:END:
 	<2013-11-22 Fri 12:00-13:00>
-******* Weekly
-******** CSF 1
-	 :LOGBOOK:
-	 CLOCK: [2014-01-29 Wed 09:02]--[2014-01-29 Wed 09:56] =>  0:54
-	 :END:
-<2014-01-29 Wed 09:00-11:00>
-******** CSF 2
-<2014-02-05 Wed 09:00-11:00>
-******** CSF 3
-<2014-02-12 Wed 09:00-11:00>
-******** CSF 4
-<2014-02-19 Wed 09:00-11:00>
-******** CSF 5
-<2014-02-26 Wed 09:00-11:00>
-******** CSF 6
-<2014-03-05 Wed 09:00-11:00>
-******** CSF 7
-<2014-03-12 Wed 09:00-11:00>
+******* CSF Weekly Meeting
+	:LOGBOOK:
+	CLOCK: [2014-02-05 Wed 09:05]--[2014-02-05 Wed 10:15] =>  1:10
+	CLOCK: [2014-01-29 Wed 09:02]--[2014-01-29 Wed 09:56] =>  0:54
+	:END:
+<2014-01-29 Wed 09:00-11:00 +1w>
 ****** Clocking
 ****** Participants
 - M Groesbeck <m.groesbeck@gmail.com>
@@ -8622,14 +8613,18 @@ http://urp.ucsd.edu/
 ****** Notes
 ****** Refs
 ****** Tasks
-******* TODO Code
+******* Code
 ******** TODO Setup project
-********* NEXT Get matlab code into VC
+********* DONE Get matlab code into VC
 	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2014-02-05 Wed 13:15]
 	  CLOCK: [2014-01-28 Tue 15:43]--[2014-01-28 Tue 15:46] =>  0:03
 	  CLOCK: [2014-01-28 Tue 15:42]--[2014-01-28 Tue 15:43] =>  0:01
 	  :END:
-********* TODO Add Jason to VC
+********* DONE Add Jason to VC
+	  :LOGBOOK:
+	  - State "DONE"       from "TODO"       [2014-02-05 Wed 13:15]
+	  :END:
 ********* TODO Create skeleton Python code
 ******** TODO Sage conversion
 ********* DONE Load matlab code into sage
@@ -8640,13 +8635,22 @@ http://urp.ucsd.edu/
 	  CLOCK: [2014-01-30 Thu 10:48]--[2014-01-30 Thu 11:25] =>  0:37
 	  :END:
 ********* NEXT Create loadmatlab wrappers
-******* DONE Follow up on FMP requirements
+******** TODO Testing code
+********* NEXT Run WDM code in Ocatave and Matlab
+[2014-02-04 Tue 14:14]
+******* Admin
+******** DONE Follow up on FMP requirements
   DEADLINE: <2014-02-04 Tue>
   :LOGBOOK:
   - State "DONE"       from "TODO"       [2014-02-05 Wed 11:45]
   CLOCK: [2014-02-04 Tue 13:38]--[2014-02-04 Tue 13:39] =>  0:01
   :END:
 [2014-02-04 Tue 13:38]
+******* Math
+******** NEXT Read sec 4 in Bray 1
+	 :LOGBOOK:
+	 CLOCK: [2014-02-05 Wed 13:15]
+	 :END:
 ****** Events/Dates
 ******* FMP research proposal due
 	 DEADLINE: <2014-03-23 Sun>
@@ -9153,6 +9157,7 @@ Abstract:
 ****** Clocking
 ******* Radial curvature comparison seminar
         :LOGBOOK:
+	CLOCK: [2014-02-05 Wed 10:15]--[2014-02-05 Wed 11:22] =>  1:07
 	CLOCK: [2014-01-31 Fri 10:00]--[2014-01-31 Fri 11:05] =>  1:05
 	CLOCK: [2014-01-29 Wed 09:56]--[2014-01-29 Wed 11:02] =>  1:06
 	:END:
