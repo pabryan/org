@@ -1304,13 +1304,23 @@ This proves the inequality we need.  The remaining problem is to remove the symm
        :ID:       8c4123a3-7132-43fa-8bff-57827ae1c8ad
        :END:
 That is, Ben and Janelle have proven the backward convergence, and to finish we need to show the solution is the shrinking round circle
-****** NEXT Write outline of Alexandrov reflection argument
+****** DONE Write outline of Alexandrov reflection argument
        :LOGBOOK:
+       - State "DONE"       from "NEXT"       [2014-02-04 Tue 16:15]
        CLOCK: [2013-12-17 Tue 12:57]--[2013-12-17 Tue 14:14] =>  1:17
        :END:
        :PROPERTIES:
        :ID:       e4309a03-3450-4994-a651-42e0666fb7a0
        :END:
+****** TODO Write paper
+******* NEXT Write paper outline
+******* NEXT Write details of curvature bounds
+******* TODO Write details of convergence to equator
+******* NEXT Write details of Alexandrov reflection
+******* TODO Write proof of lying in hemisphere
+****** TODO Maths
+******* NEXT Prove ancient solutions lie in a hemisphere
+******* NEXT Find out if $\curvecurv>0$ for ancient solutions (Harnack?)
 ***** Clocking
 ****** Meetings
        <2013-12-13 Fri 12:00-13:00>
