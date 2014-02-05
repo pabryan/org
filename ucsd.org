@@ -8621,7 +8621,7 @@ http://urp.ucsd.edu/
 
 ****** Notes
 ****** Refs
-****** TODO Tasks
+****** Tasks
 ******* TODO Code
 ******** TODO Setup project
 ********* NEXT Get matlab code into VC
@@ -8640,6 +8640,12 @@ http://urp.ucsd.edu/
 	  CLOCK: [2014-01-30 Thu 10:48]--[2014-01-30 Thu 11:25] =>  0:37
 	  :END:
 ********* NEXT Create loadmatlab wrappers
+******* TODO Follow up on FMP requirements
+  DEADLINE: <2014-02-04 Tue>
+  :LOGBOOK:
+  CLOCK: [2014-02-04 Tue 13:38]--[2014-02-04 Tue 13:39] =>  0:01
+  :END:
+[2014-02-04 Tue 13:38]
 * Seminars 							    :SEMINAR:
   :PROPERTIES:
   :ID:       4a7b50f0-8368-4d3a-bc5d-c0e229fd442f
