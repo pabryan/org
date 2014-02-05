@@ -8640,12 +8640,26 @@ http://urp.ucsd.edu/
 	  CLOCK: [2014-01-30 Thu 10:48]--[2014-01-30 Thu 11:25] =>  0:37
 	  :END:
 ********* NEXT Create loadmatlab wrappers
-******* TODO Follow up on FMP requirements
+******* DONE Follow up on FMP requirements
   DEADLINE: <2014-02-04 Tue>
   :LOGBOOK:
+  - State "DONE"       from "TODO"       [2014-02-05 Wed 11:45]
   CLOCK: [2014-02-04 Tue 13:38]--[2014-02-04 Tue 13:39] =>  0:01
   :END:
 [2014-02-04 Tue 13:38]
+****** Events/Dates
+******* FMP research proposal due
+	 DEADLINE: <2014-03-23 Sun>
+
+******* Undergrad Research Conference
+<2014-04-26 Sat 08:00-16:00>
+- Faculty Club (http://goo.gl/maps/TRrdi)
+******* FMP Symposium
+<2014-05-28 Wed 16:00-21:00>
+- Price Center
+******* FMP research paper due
+	 DEADLINE: <2014-06-14 Sat>
+
 * Seminars 							    :SEMINAR:
   :PROPERTIES:
   :ID:       4a7b50f0-8368-4d3a-bc5d-c0e229fd442f
