@@ -270,10 +270,11 @@ I want to do teaching with sage-tex and/or org-mode with babel; i.e. interactive
     :END:
 [[file:~/working/academic/journals/editing/cejm/CEJM-D-12-00160R1]]
 
-*** NEXT Edit CEJM-D-13-00091					      :FOCUS:
+*** DONE Edit CEJM-D-13-00091					      :FOCUS:
     DEADLINE: <2014-01-01 Wed -3w>
     :LOGBOOK:
-    CLOCK: [2014-02-06 Thu 13:55]
+    - State "DONE"       from "NEXT"       [2014-02-06 Thu 15:00]
+    CLOCK: [2014-02-06 Thu 13:55]--[2014-02-06 Thu 14:42] =>  0:47
     CLOCK: [2014-02-06 Thu 12:27]--[2014-02-06 Thu 12:56] =>  0:29
     CLOCK: [2014-02-03 Mon 11:08]--[2014-02-03 Mon 11:40] =>  0:32
     CLOCK: [2014-01-28 Tue 11:10]--[2014-01-28 Tue 11:28] =>  0:18
@@ -299,6 +300,8 @@ I want to do teaching with sage-tex and/or org-mode with babel; i.e. interactive
     :END:
 [[file:~/working/academic/journals/editing/cejm/CEJM-D-13-00091]]
 
+*** NEXT Produce report
+    DEADLINE: <2014-02-08 Sat>
 ** Refereeing
 *** DONE Referee space curves CSF dist comp.
    DEADLINE: <2013-04-17 Wed> SCHEDULED: <2013-02-04 Mon>
@@ -1807,6 +1810,13 @@ Can I use a non-collapsing type argument?
      :END:
 [[http://fds.duke.edu/db/aas/math/bray]]
 Look at all dark matter papers. Alan Parry also. Bibliography of course!
+***** NEXT Follow up Hubert Bray's general relativity references
+<2014-03-24 Mon>
+- O'Neil
+- Prove quadratic actions give the same action a'la Cartan and others
+
+***** NEXT Follow up Hubert Bray's dark-matter refs
+<2014-03-24 Mon>
 **** TODO Mean curvature solitons
      :LOGBOOK:
      CLOCK: [2013-11-01 Fri 14:13]--[2013-11-01 Fri 14:14] =>  0:01
