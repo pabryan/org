@@ -1153,8 +1153,12 @@ Key numbers: FR428, FR382.
   CLOCK: [2014-01-06 Mon 13:29]--[2014-01-06 Mon 13:30] =>  0:01
   :END:
 [2014-01-06 Mon 13:29]
-** TODO Fill in office hours door card
+** CANCELLED Fill in office hours door card
   SCHEDULED: <2014-01-13 Mon>
+  :LOGBOOK:
+  - State "CANCELLED"  from "TODO"       [2014-02-06 Thu 10:21] \\
+    No point now, so late in the quarter!
+  :END:
 [2014-01-12 Sun 11:13]
 [[file:~/reference/ucsd/office/Office-Hours-Door-Card.pdf]]
 * Computer setup
@@ -2885,6 +2889,7 @@ When I set up scoring the day:
 ** NEXT Daily Plan [0/6]
    SCHEDULED: <2014-02-06 Thu .+1d/2d>
    :LOGBOOK:
+   CLOCK: [2014-02-06 Thu 10:20]
    - State "DONE"       from "NEXT"       [2014-02-05 Wed 11:46]
    CLOCK: [2014-02-05 Wed 11:38]--[2014-02-05 Wed 11:46] =>  0:08
    - State "DONE"       from "NEXT"       [2014-02-04 Tue 11:42]
