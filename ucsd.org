@@ -8657,6 +8657,7 @@ http://urp.ucsd.edu/
 ******* Math
 ******** NEXT Read sec 4 in Bray 1
 	 :LOGBOOK:
+	 CLOCK: [2014-02-06 Thu 10:46]
 	 CLOCK: [2014-02-05 Wed 13:15]--[2014-02-05 Wed 14:12] =>  0:57
 	 :END:
 ****** Events/Dates
@@ -9317,7 +9318,7 @@ Round Table Pizza.
 ***** NEXT Apply for Simons travel grant
   DEADLINE: <2014-03-31 Mon -2m>
   :LOGBOOK:
-  CLOCK: [2014-02-06 Thu 10:27]
+  CLOCK: [2014-02-06 Thu 10:27]--[2014-02-06 Thu 10:43] =>  0:16
   CLOCK: [2014-01-31 Fri 17:41]--[2014-01-31 Fri 17:43] =>  0:02
   :END:
 [2014-01-31 Fri 17:41]
