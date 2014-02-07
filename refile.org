@@ -86,3 +86,41 @@ Should create typing tasks from scribbles and schedule them
 * TODO Investigate oscillation estimates and geometry
 [2014-01-31 Fri 17:43]
 <2014-04-13 Sun>
+* TODO Create punch in/punch out procedures
+  :LOGBOOK:
+  CLOCK: [2014-02-07 Fri 09:38]--[2014-02-07 Fri 09:40] =>  0:02
+  :END:
+[2014-02-07 Fri 09:38]
+
+** Punch In
+- Sync with repository
+- Check uncommitted work
+- Open agenda
+** Punch Out
+- Save org files
+- Sync with repository
+- List any unsaved buffers
+- Check uncommitted work
+* TODO Update website
+  :LOGBOOK:
+  CLOCK: [2014-02-07 Fri 09:40]--[2014-02-07 Fri 09:41] =>  0:01
+  :END:
+[2014-02-07 Fri 09:40]
+- Put research up there including work in progress/open notebook, my notes to myself, student projects and computational work
+* TODO Org agenda views
+  :LOGBOOK:
+  CLOCK: [2014-02-07 Fri 09:41]--[2014-02-07 Fri 09:44] =>  0:03
+  :END:
+[2014-02-07 Fri 09:41]
+I need to be able to focus on the right tasks which means not seeing all possible tasks that I may do eventually!
+
+- Research agenda view
+  - day to day: only show working and not future tasks
+  - high level planning: show projects and not individual tasks
+  - projects: restrict to a project 
+- Teaching agenda view
+  - Shows teaching tasks and so forth
+- General agenda view
+  - Pretty much what I have now (maybe I don't need tasks listed)
+- Personal agenda view
+  - Non-work stuff
