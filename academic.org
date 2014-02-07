@@ -260,7 +260,10 @@ I want to do teaching with sage-tex and/or org-mode with babel; i.e. interactive
     :USER:     PBryan-555
     :PASSWORD: bryan52687
     :END:
-*** TODO CEJM-D-12-00160R1
+*** DONE CEJM-D-12-00160R1
+    :LOGBOOK:
+    - State "DONE"       from "TODO"       [2014-02-07 Fri 15:49]
+    :END:
 **** DONE Edit CEJM-D-12-00160R1
     DEADLINE: <2013-04-03 Wed>
     - State "DONE"       from ""           [2013-04-09 Tue 11:34]
@@ -273,8 +276,9 @@ I want to do teaching with sage-tex and/or org-mode with babel; i.e. interactive
     :END:
 [[file:~/working/academic/journals/editing/cejm/CEJM-D-12-00160R1]]
 
-*** TODO CEJM-D-13-00091
+*** DONE CEJM-D-13-00091
 [[file:~/working/academic/journals/editing/cejm/CEJM-D-13-00091]]
+- State "DONE"       from "TODO"       [2014-02-07 Fri 15:49]
 **** DONE Edit CEJM-D-13-00091					      :FOCUS:
     DEADLINE: <2014-01-01 Wed -3w>
     :LOGBOOK:
@@ -313,10 +317,13 @@ Clock summary at [2014-02-06 Thu 16:25]
 |--------------+---------|
 #+END:
 
-
-**** NEXT Produce CEJM-D-13-00091 report
+**** DONE Produce CEJM-D-13-00091 report
      DEADLINE: <2014-02-08 Sat>
      :LOGBOOK:
+     - State "DONE"       from "NEXT"       [2014-02-07 Fri 15:49]
+     CLOCK: [2014-02-07 Fri 15:47]--[2014-02-07 Fri 15:49] =>  0:02
+     CLOCK: [2014-02-07 Fri 14:55]--[2014-02-07 Fri 15:30] =>  0:35
+     CLOCK: [2014-02-07 Fri 13:33]--[2014-02-07 Fri 14:06] =>  0:33
      CLOCK: [2014-02-07 Fri 11:21]--[2014-02-07 Fri 11:42] =>  0:21
      CLOCK: [2014-02-07 Fri 09:44]--[2014-02-07 Fri 09:59] =>  0:15
      :END:
@@ -1371,11 +1378,31 @@ That is, Ben and Janelle have proven the backward convergence, and to finish we 
 <2014-01-21 Tue 14:00-15:00 +1w>
 ***** Notes
 ***** Refs
-**** TODO CSF surfaces distance comparison
+**** TODO CSF surfaces distance comparison	     :CSF:SURFACES:DIST_COMP:
    :PROPERTIES:
    :ID:       85f583ed-c9eb-4993-91e3-8cedf9945d1f
    :END:
 [[file:~/working/academic/research/csf_dist_comp_surfaces]]
+**** TODO Dark Matter and General Relativity :WDM:GENERAL_RELATIVITY:DARK_MATTER:
+     :PROPERTIES:
+     :ID:       b8b0e5f5-b0e5-4af8-a012-d5dd88d75fbf
+     :END:
+[[http://fds.duke.edu/db/aas/math/bray]]
+***** Tasks
+****** TODO Reading
+Look at all dark matter papers. Alan Parry also. Bibliography of course!
+******* NEXT Follow up Hubert Bray's general relativity references
+<2014-03-24 Mon>
+- O'Neil
+- Prove quadratic actions give the same action a'la Cartan and others
+
+******* NEXT Follow up Hubert Bray's dark-matter refs
+<2014-03-24 Mon>
+******* NEXT Read O'Neill semi-Riemannian geometry
+	:LOGBOOK:
+	CLOCK: [2014-02-07 Fri 15:30]--[2014-02-07 Fri 15:43] =>  0:13
+	:END:
+
 *** Future 							    :SOMEDAY:
 **** TODO Space form curvature flow 			 :SPACE_FORM_HARNACK:
      :LOGBOOK:
@@ -1822,19 +1849,6 @@ Here we look at a conformal change of metric. The Levy-Gromov comparison doesn't
    :ID:       ea0b2bb7-385f-409e-afb2-3b42b2cbdfea
    :END:
 Can I use a non-collapsing type argument?
-**** TODO Dark Matter and General Relativity
-     :PROPERTIES:
-     :ID:       b8b0e5f5-b0e5-4af8-a012-d5dd88d75fbf
-     :END:
-[[http://fds.duke.edu/db/aas/math/bray]]
-Look at all dark matter papers. Alan Parry also. Bibliography of course!
-***** NEXT Follow up Hubert Bray's general relativity references
-<2014-03-24 Mon>
-- O'Neil
-- Prove quadratic actions give the same action a'la Cartan and others
-
-***** NEXT Follow up Hubert Bray's dark-matter refs
-<2014-03-24 Mon>
 **** TODO Mean curvature solitons
      :LOGBOOK:
      CLOCK: [2013-11-01 Fri 14:13]--[2013-11-01 Fri 14:14] =>  0:01
