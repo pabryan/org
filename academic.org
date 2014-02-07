@@ -237,9 +237,11 @@ I want to do teaching with sage-tex and/or org-mode with babel; i.e. interactive
     :END:
 [[file:refs.org::#MR3018176][A gap theorem for self-shrinkers of the mean curvature flow in arbitrary codimension]]
 
-*** NEXT Review MR3020169					      :FOCUS:
+*** DONE Review MR3020169					      :FOCUS:
     DEADLINE: <2013-11-29 Fri -3w>
     :LOGBOOK:
+    - State "DONE"       from "NEXT"       [2014-02-06 Thu 16:20]
+    CLOCK: [2014-02-06 Thu 15:24]--[2014-02-06 Thu 16:20] =>  0:56
     CLOCK: [2013-12-03 Tue 16:51]--[2013-12-03 Tue 17:09] =>  0:18
     CLOCK: [2013-12-03 Tue 10:29]--[2013-12-03 Tue 11:06] =>  0:37
     CLOCK: [2013-11-22 Fri 15:35]--[2013-11-22 Fri 16:02] =>  0:27
@@ -258,7 +260,8 @@ I want to do teaching with sage-tex and/or org-mode with babel; i.e. interactive
     :USER:     PBryan-555
     :PASSWORD: bryan52687
     :END:
-*** DONE Edit CEJM-D-12-00160R1
+*** TODO CEJM-D-12-00160R1
+**** DONE Edit CEJM-D-12-00160R1
     DEADLINE: <2013-04-03 Wed>
     - State "DONE"       from ""           [2013-04-09 Tue 11:34]
     :LOGBOOK:
@@ -270,7 +273,17 @@ I want to do teaching with sage-tex and/or org-mode with babel; i.e. interactive
     :END:
 [[file:~/working/academic/journals/editing/cejm/CEJM-D-12-00160R1]]
 
-*** DONE Edit CEJM-D-13-00091					      :FOCUS:
+*** TODO CEJM-D-13-00091
+**** DONE Edit CEJM-D-13-00091					      :FOCUS:
+#+BEGIN: clocktable :maxlevel 2 :scope subtree
+Clock summary at [2014-02-06 Thu 16:25]
+
+| Headline     | Time    |
+|--------------+---------|
+| *Total time* | *10:16* |
+|--------------+---------|
+#+END:
+
     DEADLINE: <2014-01-01 Wed -3w>
     :LOGBOOK:
     - State "DONE"       from "NEXT"       [2014-02-06 Thu 15:00]
@@ -300,8 +313,8 @@ I want to do teaching with sage-tex and/or org-mode with babel; i.e. interactive
     :END:
 [[file:~/working/academic/journals/editing/cejm/CEJM-D-13-00091]]
 
-*** NEXT Produce report
-    DEADLINE: <2014-02-08 Sat>
+**** NEXT Produce CEJM-D-13-00091 report
+     DEADLINE: <2014-02-08 Sat>
 ** Refereeing
 *** DONE Referee space curves CSF dist comp.
    DEADLINE: <2013-04-17 Wed> SCHEDULED: <2013-02-04 Mon>
