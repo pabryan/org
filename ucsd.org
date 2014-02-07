@@ -7685,6 +7685,9 @@ Lectures in calendar and tasks like planning lectures.
 	  :END:
 <2014-01-31 Fri 12:00-13:00>
 ********* Lecture 5.3
+	  :LOGBOOK:
+	  CLOCK: [2014-02-07 Fri 11:45]
+	  :END:
 <2014-02-07 Fri 12:00-13:00>
 ********* Lecture 6.3
 <2014-02-14 Fri 12:00-13:00>
@@ -9166,7 +9169,7 @@ Abstract:
 ****** Clocking
 ******* Radial curvature comparison seminar
         :LOGBOOK:
-	CLOCK: [2014-02-07 Fri 09:59]
+	CLOCK: [2014-02-07 Fri 09:59]--[2014-02-07 Fri 11:21] =>  1:22
 	CLOCK: [2014-02-05 Wed 10:15]--[2014-02-05 Wed 11:22] =>  1:07
 	CLOCK: [2014-01-31 Fri 10:00]--[2014-01-31 Fri 11:05] =>  1:05
 	CLOCK: [2014-01-29 Wed 09:56]--[2014-01-29 Wed 11:02] =>  1:06
