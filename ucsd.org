@@ -8011,8 +8011,11 @@ Lectures in calendar and tasks like planning lectures.
 	 :PROPERTIES:
 	 :ID:       ad631b7c-27b4-4286-8810-7b8930f84e05
 	 :END:
-********* NEXT Check questions
+********* DONE Check questions
 	  DEADLINE: <2014-02-10 Mon -3d>
+	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2014-02-07 Fri 15:50]
+	  :END:
 	  :PROPERTIES:
 	  :ID:       86bb842e-a3dc-4998-bf70-3124c41ebdcd
 	  :END:
@@ -8236,6 +8239,9 @@ Center 101
 	  :END:
 <2014-01-31 Fri 16:00-17:00>
 ********* Lecture 5.3
+	  :LOGBOOK:
+	  CLOCK: [2014-02-07 Fri 15:51]
+	  :END:
 <2014-02-07 Fri 16:00-17:00>
 ********* Lecture 6.3
 <2014-02-14 Fri 16:00-17:00>
