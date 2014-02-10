@@ -7370,8 +7370,12 @@ Lectures in calendar and tasks like planning lectures.
 	   :PROPERTIES:
 	   :ID:       5af7ea69-4ad2-4541-9212-a351cd27c497
 	   :END:
-********** TODO Lecture 6.1
+********** DONE Lecture 6.1
 	   DEADLINE: <2014-02-10 Mon>
+	   :LOGBOOK:
+	   - State "DONE"       from "NEXT"       [2014-02-09 Sun 20:11]
+	   CLOCK: [2014-02-09 Sun 19:19]--[2014-02-09 Sun 20:11] =>  0:52
+	   :END:
 	   :PROPERTIES:
 	   :ID:       dce0ec91-c3b2-48ff-a9d3-ea4397a91b11
 	   :END:
@@ -7779,6 +7783,9 @@ Lectures in calendar and tasks like planning lectures.
 	 :ID:       e80aaf85-482f-4218-9d6b-3a86599a26d9
 	 :END:
 ******** TODO Prepare Lectures
+	 :LOGBOOK:
+	 CLOCK: [2014-02-09 Sun 21:25]--[2014-02-09 Sun 21:27] =>  0:02
+	 :END:
 	 :PROPERTIES:
 	 :ID:       aaaeef45-8cc6-46f6-814c-72a56e40f812
 	 :END:
@@ -7826,8 +7833,12 @@ Lectures in calendar and tasks like planning lectures.
 	   :PROPERTIES:
 	   :ID:       faacba91-4cac-4098-a423-f56fc579927d
 	   :END:
-********** TODO Lecture 6.1
+********** DONE Lecture 6.1
 	   DEADLINE: <2014-02-10 Mon>
+	   :LOGBOOK:
+	   - State "DONE"       from "NEXT"       [2014-02-09 Sun 21:25]
+	   CLOCK: [2014-02-09 Sun 20:11]--[2014-02-09 Sun 21:25] =>  1:14
+	   :END:
 	   :PROPERTIES:
 	   :ID:       0e6408d5-cc45-4b4f-aab5-7946bceac8fd
 	   :END:
@@ -8477,7 +8488,16 @@ http://urp.ucsd.edu/
   :ID:       8699f5b6-d3ad-45d3-9987-099812477a72
   :END:
 [2014-01-01 Wed 13:38]
-******* TODO Prepare lecture on manifolds
+******* TODO Lectures
+******** DONE Prepare lecture on manifolds
+	:LOGBOOK:
+	- State "DONE"       from "TODO"       [2014-02-09 Sun 21:26]
+	:END:
+
+******** NEXT Prepare implicit function theorem  lecture
+	 :LOGBOOK:
+	 CLOCK: [2014-02-09 Sun 21:27]
+	 :END:
 ****** Meetings
 ******* Winter Planning 
        :LOGBOOK:
