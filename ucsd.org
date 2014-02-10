@@ -8494,9 +8494,10 @@ http://urp.ucsd.edu/
 	- State "DONE"       from "TODO"       [2014-02-09 Sun 21:26]
 	:END:
 
-******** NEXT Prepare implicit function theorem  lecture
+******** DONE Prepare implicit function theorem  lecture
 	 :LOGBOOK:
-	 CLOCK: [2014-02-09 Sun 21:27]
+	 - State "DONE"       from "NEXT"       [2014-02-09 Sun 22:44]
+	 CLOCK: [2014-02-09 Sun 21:27]--[2014-02-09 Sun 22:44] =>  1:17
 	 :END:
 ****** Meetings
 ******* Winter Planning 
