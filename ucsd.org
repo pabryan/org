@@ -7443,8 +7443,14 @@ Lectures in calendar and tasks like planning lectures.
 	   :PROPERTIES:
 	   :ID:       f1e9b41d-ec64-41b9-ba84-626eb28d94ef
 	   :END:
-********** TODO Lecture 6.2
+********** NEXT Lecture 6.2
 	   DEADLINE: <2014-02-12 Wed>
+	   :LOGBOOK:
+	   CLOCK: [2014-02-10 Mon 15:09]
+	   CLOCK: [2014-02-10 Mon 15:07]--[2014-02-10 Mon 15:09] =>  0:02
+	   CLOCK: [2014-02-10 Mon 15:06]--[2014-02-10 Mon 15:07] =>  0:01
+	   CLOCK: [2014-02-10 Mon 15:00]--[2014-02-10 Mon 15:06] =>  0:06
+	   :END:
 	   :PROPERTIES:
 	   :ID:       7517f89e-67e4-44a8-8d04-16b6ae8c99aa
 	   :END:
@@ -8162,7 +8168,7 @@ Get it from cloud.sagemath and add it to my 20b working
 	:END:
 ******* Office hours
 	:LOGBOOK:
-	CLOCK: [2014-02-10 Mon 13:59]
+	CLOCK: [2014-02-10 Mon 13:59]--[2014-02-10 Mon 15:00] =>  1:01
 	CLOCK: [2014-02-07 Fri 14:06]--[2014-02-07 Fri 14:55] =>  0:49
 	CLOCK: [2014-01-31 Fri 13:53]--[2014-01-31 Fri 14:05] =>  0:12
 	CLOCK: [2014-01-29 Wed 14:00]--[2014-01-29 Wed 15:03] =>  1:03
@@ -8563,7 +8569,7 @@ http://urp.ucsd.edu/
   On Tuesdays I'm available after 12:30pm, and on Thursdays I'm available after 2pm.
 
 ****** Projects
-***** TODO Curve shortening on sphere
+***** TODO CSF on sphere
       :PROPERTIES:
       :ID:       5a9d45e8-9045-4a2d-bb61-7068ba0aa969
       :END:
@@ -8586,6 +8592,8 @@ http://urp.ucsd.edu/
 	:PROPERTIES:
 	:ID:       2d9e0058-93f6-43ab-9948-7e91feb865ed
 	:END:
+******* NEXT Send dist/comp arg to students
+[2014-02-10 Mon 15:07]
 ****** Refs
 ******* Curvature bound for curve shortening flow via distance comparison and a direct proof of {G}rayson's theorem
 :PROPERTIES:
@@ -8641,6 +8649,7 @@ http://urp.ucsd.edu/
 	CLOCK: [2014-01-29 Wed 09:02]--[2014-01-29 Wed 09:56] =>  0:54
 	:END:
 <2014-01-29 Wed 09:00-11:00 +1w>
+
 ****** Clocking
 ****** Participants
 - M Groesbeck <m.groesbeck@gmail.com>
