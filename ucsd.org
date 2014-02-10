@@ -7603,7 +7603,7 @@ Lectures in calendar and tasks like planning lectures.
 ******* Admin
 ******* Office hours
 	:LOGBOOK:
-	CLOCK: [2014-02-10 Mon 15:30]
+	CLOCK: [2014-02-10 Mon 15:30]--[2014-02-10 Mon 15:45] =>  0:15
 	CLOCK: [2014-01-29 Wed 15:03]--[2014-01-29 Wed 15:27] =>  0:24
 	CLOCK: [2014-01-27 Mon 14:55]--[2014-01-27 Mon 15:12] =>  0:17
 	CLOCK: [2014-01-27 Mon 13:56]--[2014-01-27 Mon 14:20] =>  0:24
@@ -8209,6 +8209,9 @@ Center 101
 	  :END:
 <2014-02-03 Mon 16:00-17:00>
 ********* Lecture 6.1
+	  :LOGBOOK:
+	  CLOCK: [2014-02-10 Mon 15:48]
+	  :END:
 <2014-02-10 Mon 16:00-17:00>
 ********* Lecture 7.1
 <2014-02-17 Mon 16:00-17:00>
