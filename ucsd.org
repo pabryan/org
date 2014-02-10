@@ -7632,7 +7632,7 @@ Lectures in calendar and tasks like planning lectures.
 <2014-02-03 Mon 12:00-13:00>
 ********* Lecture 6.1
 	  :LOGBOOK:
-	  CLOCK: [2014-02-10 Mon 11:42]
+	  CLOCK: [2014-02-10 Mon 11:42]--[2014-02-10 Mon 13:05] =>  1:23
 	  :END:
 <2014-02-10 Mon 12:00-13:00>
 ********* Lecture 7.1
@@ -8544,6 +8544,8 @@ http://urp.ucsd.edu/
 	 CLOCK: [2014-01-30 Thu 13:35]--[2014-01-30 Thu 14:30] =>  0:55
 	 :END:
 <2014-01-30 Thu 13:30>
+******** Eric
+<2014-02-13 Thu 13:00-14:00>
 ****** Notes
 ******* Winter 2014 Times
 - Matt Groesbeck: 
