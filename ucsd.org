@@ -7920,7 +7920,7 @@ Lectures in calendar and tasks like planning lectures.
 ********** NEXT Lecture 6.2
 	   DEADLINE: <2014-02-12 Wed>
 	   :LOGBOOK:
-	   CLOCK: [2014-02-10 Mon 17:03]
+	   CLOCK: [2014-02-10 Mon 17:03]--[2014-02-10 Mon 17:30] =>  0:27
 	   :END:
 	   :PROPERTIES:
 	   :ID:       27382486-4d82-4c08-ae60-db2ee3a04444
