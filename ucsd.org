@@ -8708,6 +8708,7 @@ http://urp.ucsd.edu/
 ******** TODO Testing code
 ********* NEXT Run WDM code in Ocatave and Matlab
 	  :LOGBOOK:
+	  CLOCK: [2014-02-11 Tue 10:44]--[2014-02-11 Tue 11:28] =>  0:44
 	  CLOCK: [2014-02-11 Tue 09:37]--[2014-02-11 Tue 10:23] =>  0:46
 	  CLOCK: [2014-02-10 Mon 11:23]--[2014-02-10 Mon 11:42] =>  0:19
 	  :END:
