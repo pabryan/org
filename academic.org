@@ -436,6 +436,7 @@ Decided not to do it.
     CLOCK: [2014-02-11 Tue 15:05]--[2014-02-11 Tue 15:37] =>  0:32
     CLOCK: [2014-02-11 Tue 12:55]--[2014-02-11 Tue 12:58] =>  0:03
     CLOCK: [2014-02-11 Tue 12:52]--[2014-02-11 Tue 12:54] =>  0:02
+    CLOCK: [2014-02-11 Tue 11:28]--[2014-02-11 Tue 11:48] =>  0:20
     CLOCK: [2013-12-13 Fri 14:30]--[2013-12-13 Fri 15:02] =>  0:32
     CLOCK: [2013-12-13 Fri 11:45]--[2013-12-13 Fri 12:00] =>  0:15
     :END:
@@ -2826,6 +2827,9 @@ Possible dates: 5/4/13, 12/4/13, 19/4/13
 a
 *** SCGAS 2014
 <2014-02-22 Sat>--<2014-02-23 Sun>
+**** TODO Tasks
+***** NEXT Confirm Hotel
+***** NEXT Submit reimbursement form
 ** DONE PNGS 2013
    - State "TODO"       from "DONE"       [2013-06-02 Sun 10:54] \\
      Re-instated since I need to put in reimbursement form.
