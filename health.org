@@ -8,14 +8,15 @@
 
 ** Tracking
 *** NEXT Exercise
-    SCHEDULED: <2014-02-12 Wed .+1d/2d>
+    SCHEDULED: <2014-02-13 Thu .+1d/2d>
     :PROPERTIES:
     :STYLE:    habit
     :REPEAT_TO_STATE: NEXT
     :ID:       8d56b2ef-1b49-4dc4-b701-1d021a293fa4
-    :LAST_REPEAT: [2014-02-11 Tue 16:28]
+    :LAST_REPEAT: [2014-02-12 Wed 13:08]
     :END:
     :LOGBOOK:
+    - State "DONE"       from "NEXT"       [2014-02-12 Wed 13:08]
     - State "DONE"       from "NEXT"       [2014-02-11 Tue 16:28]
     - State "DONE"       from "NEXT"       [2014-02-10 Mon 17:35]
     - State "DONE"       from "NEXT"       [2014-02-09 Sun 16:03]
@@ -256,8 +257,9 @@
     - State "DONE"       from "NEXT"       [2013-03-09 Sat 11:10]
     :END:
 *** NEXT Morning Mobility
-    SCHEDULED: <2014-02-12 Wed .+1d/2d>
+    SCHEDULED: <2014-02-13 Thu .+1d/2d>
     :LOGBOOK:
+    - State "DONE"       from "NEXT"       [2014-02-12 Wed 13:08]
     - State "DONE"       from "NEXT"       [2014-02-11 Tue 09:16]
     - State "DONE"       from "NEXT"       [2014-02-06 Thu 11:03]
     - State "DONE"       from "NEXT"       [2014-02-05 Wed 11:46]
@@ -553,7 +555,7 @@
     :STYLE:    habit
     :REPEAT_TO_STATE: NEXT
     :ID:       0e75f56d-0356-4a0f-a376-080471ad4aad
-    :LAST_REPEAT: [2014-02-11 Tue 09:16]
+    :LAST_REPEAT: [2014-02-12 Wed 13:08]
     :END:
 
 *** NEXT Afternoon Relax
@@ -742,9 +744,10 @@
     :LAST_REPEAT: [2014-02-10 Mon 17:35]
     :END:
   
-*** NEXT Evening Stretch
-    SCHEDULED: <2014-02-11 Tue .+1d/2d>
+*** NEXT Daily Stretch
+    SCHEDULED: <2014-02-13 Thu .+1d/2d>
     :LOGBOOK:
+    - State "DONE"       from "NEXT"       [2014-02-12 Wed 13:08]
     - State "DONE"       from "NEXT"       [2014-02-10 Mon 20:53]
     - State "DONE"       from "NEXT"       [2014-02-02 Sun 18:53]
     - State "DONE"       from "NEXT"       [2013-12-29 Sun 19:43]
@@ -870,7 +873,7 @@
     :STYLE:    habit
     :REPEAT_TO_STATE: NEXT
     :ID:       d439600f-c40d-4dd3-82ca-3e7d9e35f2b3
-    :LAST_REPEAT: [2014-02-02 Sun 18:53]
+    :LAST_REPEAT: [2014-02-12 Wed 13:08]
     :END:
   
 *** NEXT Handstand practice
