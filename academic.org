@@ -1207,6 +1207,9 @@ A few typos and what not came in after rearranging
 Let $\xi(p_0, q_0) = 0$ if $\tang_{p_0}=\tang_{q_0}$ and $1$ otherwise. Then I can write one viscosity equation.
 
 ******* NEXT Final proof read
+	:LOGBOOK:
+	CLOCK: [2014-02-12 Wed 13:37]
+	:END:
 	:PROPERTIES:
 	:ID:       f1d7910c-9c30-42b9-8cb4-4adddf861112
 	:END:
