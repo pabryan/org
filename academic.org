@@ -677,6 +677,9 @@ Try to use as much available software that I can find. Do it like Sage - don't r
        	:ID:       159f6804-7554-45c3-a669-13c54169356f
        	:END:
 ******* NEXT Write convergence
+	:LOGBOOK:
+	CLOCK: [2014-02-13 Thu 10:38]
+	:END:
        	:PROPERTIES:
        	:ID:       cabddb49-adb4-4532-81d3-3f49f7b66dd6
        	:END:
@@ -694,6 +697,7 @@ Try to use as much available software that I can find. Do it like Sage - don't r
        	:END:
 ******* NEXT Make 1st draft
 	:LOGBOOK:
+	CLOCK: [2014-02-13 Thu 10:30]--[2014-02-13 Thu 10:38] =>  0:08
 	CLOCK: [2014-01-31 Fri 14:51]--[2014-01-31 Fri 14:57] =>  0:06
 	CLOCK: [2014-01-31 Fri 14:31]--[2014-01-31 Fri 14:51] =>  0:20
 	CLOCK: [2014-01-31 Fri 13:32]--[2014-01-31 Fri 13:52] =>  0:20
@@ -740,8 +744,9 @@ how are they related?
        :PROPERTIES:
        :ID:       321d75db-7c19-457c-b955-3f7236b899e2
        :END:
-******* TODO Work out hyperbolic barrier
+******* DONE Work out hyperbolic barrier
       :LOGBOOK:
+      - State "DONE"       from "TODO"       [2014-02-13 Thu 10:39]
       CLOCK: [2013-10-20 Sun 19:40]--[2013-10-20 Sun 20:15] =>  0:35
       CLOCK: [2013-10-20 Sun 18:23]--[2013-10-20 Sun 19:32] =>  1:09
       CLOCK: [2013-10-20 Sun 17:35]--[2013-10-20 Sun 17:50] =>  0:15
@@ -809,8 +814,9 @@ I have a lower bound for the numerator. To get an upper bound for the denominato
 	 :PROPERTIES:
 	 :ID:       a3d9855d-0e89-4b4a-b803-14f13cab7b55
 	 :END:
-******** NEXT Write range of b,c for diff. ineq.
+******** DONE Write range of b,c for diff. ineq.
 	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2014-02-13 Thu 10:39]
 	 CLOCK: [2013-11-14 Thu 14:35]--[2013-11-14 Thu 16:11] =>  1:36
 	 CLOCK: [2013-11-14 Thu 12:27]--[2013-11-14 Thu 13:35] =>  1:08
 	 CLOCK: [2013-11-14 Thu 10:35]--[2013-11-14 Thu 11:34] =>  0:59
@@ -818,11 +824,17 @@ I have a lower bound for the numerator. To get an upper bound for the denominato
 	 :PROPERTIES:
 	 :ID:       61537dd1-af20-481c-8743-88fabf4cd342
 	 :END:
-******** TODO Work out asymptotics for v_C, f
+******** DONE Work out asymptotics for v_C, f
+	 :LOGBOOK:
+	 - State "DONE"       from "TODO"       [2014-02-13 Thu 10:39]
+	 :END:
 	 :PROPERTIES:
 	 :ID:       de3fd180-a7bb-4a27-aa68-0d66e0d0ced7
 	 :END:
-******** TODO Write asymptotics for v_C, f
+******** DONE Write asymptotics for v_C, f
+	 :LOGBOOK:
+	 - State "DONE"       from "TODO"       [2014-02-13 Thu 10:39]
+	 :END:
 	 :PROPERTIES:
 	 :ID:       ab3eb799-03db-408c-bbb3-2bd3b747b024
 	 :END:
@@ -852,7 +864,7 @@ Update comparison theorem to read \(I\geq \phi\) implies that \(\sup_M K_t \leq 
 	:PROPERTIES:
 	:ID:       bc236144-ad90-4a4e-9c5c-c38831d40ab3
 	:END:
-****** TODO Write comparison theorem without strict equality
+******* NEXT Write comparison theorem without strict equality
 [2014-01-31 Fri 14:51]
 ***** Notes
 ***** References
