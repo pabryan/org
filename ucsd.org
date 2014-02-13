@@ -7325,9 +7325,6 @@ Lectures in calendar and tasks like planning lectures.
 	 :ID:       2cfff7c3-835e-4fca-8183-ee6e8ba0911d
 	 :END:
 ******** TODO Prepare Lectures
-	 :LOGBOOK:
-	 CLOCK: [2014-02-12 Wed 17:48]
-	 :END:
 	 :PROPERTIES:
 	 :ID:       a17dfd68-595a-43a5-945c-417acbc77585
 	 :END:

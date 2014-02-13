@@ -1601,6 +1601,7 @@ Should run hg clone ssh://hg@bitbucket.org/pabryan/<proj>
   :END:
 ** Organisation
   :LOGBOOK:
+  CLOCK: [2014-02-12 Wed 17:48]--[2014-02-12 Wed 17:49] =>  0:01
   CLOCK: [2014-02-12 Wed 17:07]--[2014-02-12 Wed 17:27] =>  0:20
   CLOCK: [2014-02-12 Wed 13:04]--[2014-02-12 Wed 13:37] =>  0:33
   CLOCK: [2014-02-11 Tue 16:45]--[2014-02-11 Tue 16:47] =>  0:02
@@ -2673,8 +2674,10 @@ Set some goals for the month. I should check someday projects for inclusion in t
 Check how I did last month. I guess the review and plan could probably go together. This is all broad stuff
 
 ** NEXT Daily Review [0/10]
-   SCHEDULED: <2014-02-12 Wed .+1d/2d>
+   SCHEDULED: <2014-02-13 Thu .+1d/2d>
    :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2014-02-12 Wed 17:53]
+   CLOCK: [2014-02-12 Wed 17:49]--[2014-02-12 Wed 17:53] =>  0:04
    - State "DONE"       from "NEXT"       [2014-02-11 Tue 16:45]
    CLOCK: [2014-02-11 Tue 16:38]--[2014-02-11 Tue 16:45] =>  0:07
    CLOCK: [2014-02-11 Tue 16:28]--[2014-02-11 Tue 16:37] =>  0:09
@@ -2907,7 +2910,7 @@ Check how I did last month. I guess the review and plan could probably go togeth
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
    :ID:       616c5bd9-d941-4fcc-8874-2ff3c9e96b4a
-   :LAST_REPEAT: [2014-02-11 Tue 16:45]
+   :LAST_REPEAT: [2014-02-12 Wed 17:53]
    :END:
 
 What to review:
@@ -2928,8 +2931,9 @@ When I set up scoring the day:
 - [ ] Collate data such as sleep, weight, exercise, diet etc.
 
 ** NEXT Daily Plan [0/7]
-   SCHEDULED: <2014-02-12 Wed .+1d/2d>
+   SCHEDULED: <2014-02-13 Thu .+1d/2d>
    :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2014-02-12 Wed 17:48]
    - State "DONE"       from "NEXT"       [2014-02-11 Tue 09:17]
    CLOCK: [2014-02-11 Tue 09:06]--[2014-02-11 Tue 09:17] =>  0:11
    - State "DONE"       from "NEXT"       [2014-02-10 Mon 11:22]
@@ -3358,7 +3362,7 @@ When I set up scoring the day:
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
    :ID:       ef051ee0-1113-4604-b355-450a5a47848b
-   :LAST_REPEAT: [2014-02-11 Tue 09:17]
+   :LAST_REPEAT: [2014-02-12 Wed 17:48]
    :LAST_REPEAT: [2014-01-25 Sat 12:49]
    :END:
 
