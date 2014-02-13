@@ -1161,6 +1161,10 @@ Key numbers: FR428, FR382.
   :END:
 [2014-01-12 Sun 11:13]
 [[file:~/reference/ucsd/office/Office-Hours-Door-Card.pdf]]
+** TODO Call maintenance about blinds
+[2014-02-12 Wed 17:06]
+534-2930
+(534-2936?)
 * Computer setup
   :PROPERTIES:
   :ID:       2caac482-7221-4934-a479-25d3cbb12d55
@@ -1597,6 +1601,7 @@ Should run hg clone ssh://hg@bitbucket.org/pabryan/<proj>
   :END:
 ** Organisation
   :LOGBOOK:
+  CLOCK: [2014-02-12 Wed 17:07]
   CLOCK: [2014-02-12 Wed 13:04]--[2014-02-12 Wed 13:37] =>  0:33
   CLOCK: [2014-02-11 Tue 16:45]--[2014-02-11 Tue 16:47] =>  0:02
   CLOCK: [2014-02-11 Tue 15:37]--[2014-02-11 Tue 15:38] =>  0:01
