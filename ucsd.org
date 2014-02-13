@@ -7606,11 +7606,17 @@ Lectures in calendar and tasks like planning lectures.
 ********* TODO Collect exams
 	  DEADLINE: <2014-02-24 Mon>
 
+********* WAITING Organise TA's to proctor
+	  :LOGBOOK:
+	  - State "WAITING"    from "TODO"       [2014-02-13 Thu 10:27] \\
+	    Sent message to TA's. Waiting response.
+	  :END:
 ******** TODO Final
 	 DEADLINE: <2014-03-09 Sun>
 ********* NEXT Prepare Final questions
 	  DEADLINE: <2014-03-07 Fri>
 
+********* TODO Organise TA's to proctor
 ********* TODO Collect exams
 	  DEADLINE: <2014-03-18 Tue>
 
@@ -8067,6 +8073,12 @@ Lectures in calendar and tasks like planning lectures.
 	  :PROPERTIES:
 	  :ID:       86bb842e-a3dc-4998-bf70-3124c41ebdcd
 	  :END:
+********* WAITING Organise TA's to proctor
+	  :LOGBOOK:
+	  - State "WAITING"    from "TODO"       [2014-02-13 Thu 10:27] \\
+	    Sent message to TA's. Waiting response.
+	  :END:
+
 ********* NEXT Collect quizzes
 	  DEADLINE: <2014-02-13 Thu>
 
@@ -8079,6 +8091,17 @@ Lectures in calendar and tasks like planning lectures.
 	  :PROPERTIES:
 	  :ID:       ff96f6b2-651d-432a-943c-aafff6d0f860
 	  :END:
+********* DONE Organise TA's to proctor
+	  :LOGBOOK:
+	  - State "WAITING"    from "TODO"       [2014-02-13 Thu 10:27] \\
+	    Sent message to TA's. Waiting response.
+	  :END:
+********* WAITING Organise TA's to proctor
+	  :LOGBOOK:
+	  - State "WAITING"    from "TODO"       [2014-02-13 Thu 10:27] \\
+	    Sent message to TA's. Waiting response.
+	  :END:
+
 ********* TODO Collect quizzes
 	  DEADLINE: <2014-02-20 Thu>
 
@@ -8091,6 +8114,7 @@ Lectures in calendar and tasks like planning lectures.
 	  :PROPERTIES:
 	  :ID:       e19b73e3-0034-4766-9502-90822e8cac14
 	  :END:
+********* TODO Organise TA's to proctor
 ********* TODO Collect quizzes
 	  DEADLINE: <2014-03-06 Thu>
 
@@ -8129,6 +8153,12 @@ Lectures in calendar and tasks like planning lectures.
 	  :PROPERTIES:
 	  :ID:       b0a5ff85-b0d1-42d4-a906-11b0044c1a3e
 	  :END:
+********* WAITING Organise TA's to proctor
+	  :LOGBOOK:
+	  - State "WAITING"    from "TODO"       [2014-02-13 Thu 10:27] \\
+	    Sent message to TA's. Waiting response.
+	  :END:
+
 ********* TODO Collect exams
 	  DEADLINE: <2014-02-26 Wed>
 
@@ -8141,7 +8171,8 @@ Lectures in calendar and tasks like planning lectures.
 	  :PROPERTIES:
 	  :ID:       eb58e086-468c-4886-a509-f6773a55e646
 	  :END:
-********* NEXT Collect exams
+********* NEXT Organise TA's to proctor
+********* TODO Collect exams
 	  DEADLINE: <2014-03-14 Fri>
 
 ******** DONE Follow up on OSD requirements for quizzes
