@@ -7524,6 +7524,7 @@ Lectures in calendar and tasks like planning lectures.
 ********** NEXT Lecture 6.3
 	   DEADLINE: <2014-02-14 Fri>
 	   :LOGBOOK:
+	   CLOCK: [2014-02-12 Wed 17:27]
 	   CLOCK: [2014-02-12 Wed 15:40]--[2014-02-12 Wed 15:52] =>  0:12
 	   :END:
 	   :PROPERTIES:
@@ -7601,9 +7602,17 @@ Lectures in calendar and tasks like planning lectures.
 ******** TODO MT2
 ********* NEXT Prepare MT2 questions
 	 DEADLINE: <2014-02-16 Sun>
+********* TODO Collect exams
+	  DEADLINE: <2014-02-24 Mon>
+
 ******** TODO Final
 	 DEADLINE: <2014-03-09 Sun>
-********* NEXT Prepare questions
+********* NEXT Prepare Final questions
+	  DEADLINE: <2014-03-07 Fri>
+
+********* TODO Collect exams
+	  DEADLINE: <2014-03-18 Tue>
+
 ****** Clocking
 ******* Admin
 ******* Office hours
@@ -8033,7 +8042,10 @@ Lectures in calendar and tasks like planning lectures.
 	:PROPERTIES:
 	:ID:       f137571a-8c9d-43f3-ac9b-fe6e022ecac9
 	:END:
-******** TODO Quiz 1
+******** DONE Quiz 1
+	 :LOGBOOK:
+	 - State "DONE"       from "TODO"       [2014-02-12 Wed 17:18]
+	 :END:
 	 :PROPERTIES:
 	 :ID:       bc3f709d-7de5-49ff-bd8e-6036fcc9eb1d
 	 :END:
@@ -8054,6 +8066,9 @@ Lectures in calendar and tasks like planning lectures.
 	  :PROPERTIES:
 	  :ID:       86bb842e-a3dc-4998-bf70-3124c41ebdcd
 	  :END:
+********* NEXT Collect quizzes
+	  DEADLINE: <2014-02-13 Thu>
+
 ******** TODO Quiz 3
 	 :PROPERTIES:
 	 :ID:       f2e77cfa-4374-4a6d-ae2d-0c54e511e5d2
@@ -8063,6 +8078,9 @@ Lectures in calendar and tasks like planning lectures.
 	  :PROPERTIES:
 	  :ID:       ff96f6b2-651d-432a-943c-aafff6d0f860
 	  :END:
+********* TODO Collect quizzes
+	  DEADLINE: <2014-02-20 Thu>
+
 ******** TODO Quiz 4
 	 :PROPERTIES:
 	 :ID:       eb587528-51b1-4098-a5de-6bcda23ce3f9
@@ -8072,6 +8090,8 @@ Lectures in calendar and tasks like planning lectures.
 	  :PROPERTIES:
 	  :ID:       e19b73e3-0034-4766-9502-90822e8cac14
 	  :END:
+********* TODO Collect quizzes
+	  DEADLINE: <2014-03-06 Thu>
 
 ******* TODO Exams
 	:PROPERTIES:
@@ -8108,6 +8128,9 @@ Lectures in calendar and tasks like planning lectures.
 	  :PROPERTIES:
 	  :ID:       b0a5ff85-b0d1-42d4-a906-11b0044c1a3e
 	  :END:
+********* TODO Collect exams
+	  DEADLINE: <2014-02-26 Wed>
+
 ******** TODO Final
 	 :PROPERTIES:
 	 :ID:       962210c5-bcdd-4d98-acc1-6c5adafd72e9
@@ -8117,6 +8140,9 @@ Lectures in calendar and tasks like planning lectures.
 	  :PROPERTIES:
 	  :ID:       eb58e086-468c-4886-a509-f6773a55e646
 	  :END:
+********* NEXT Collect exams
+	  DEADLINE: <2014-03-14 Fri>
+
 ******** DONE Follow up on OSD requirements for quizzes
   DEADLINE: <2014-01-07 Tue>
   :LOGBOOK:
