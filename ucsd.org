@@ -7521,8 +7521,11 @@ Lectures in calendar and tasks like planning lectures.
 	   :PROPERTIES:
 	   :ID:       49179fc9-708f-4d7c-9690-7fce8ff06bb3
 	   :END:
-********** TODO Lecture 6.3
+********** NEXT Lecture 6.3
 	   DEADLINE: <2014-02-14 Fri>
+	   :LOGBOOK:
+	   CLOCK: [2014-02-12 Wed 15:40]--[2014-02-12 Wed 15:52] =>  0:12
+	   :END:
 	   :PROPERTIES:
 	   :ID:       3468427d-22b5-4fd2-90b4-f3300ff745a6
 	   :END:
@@ -8251,6 +8254,9 @@ Center 101
 ********* Lecture 5.2
 <2014-02-05 Wed 16:00-17:00>
 ********* Lecture 6.2
+	  :LOGBOOK:
+	  CLOCK: [2014-02-12 Wed 15:52]
+	  :END:
 <2014-02-12 Wed 16:00-17:00>
 ********* Lecture 7.2
 <2014-02-19 Wed 16:00-17:00>

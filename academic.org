@@ -1208,7 +1208,7 @@ Let $\xi(p_0, q_0) = 0$ if $\tang_{p_0}=\tang_{q_0}$ and $1$ otherwise. Then I c
 
 ******* NEXT Final proof read
 	:LOGBOOK:
-	CLOCK: [2014-02-12 Wed 15:16]
+	CLOCK: [2014-02-12 Wed 15:16]--[2014-02-12 Wed 15:40] =>  0:24
 	CLOCK: [2014-02-12 Wed 13:37]--[2014-02-12 Wed 14:01] =>  0:24
 	:END:
 	:PROPERTIES:
