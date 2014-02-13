@@ -678,7 +678,7 @@ Try to use as much available software that I can find. Do it like Sage - don't r
        	:END:
 ******* NEXT Write convergence
 	:LOGBOOK:
-	CLOCK: [2014-02-13 Thu 10:38]
+	CLOCK: [2014-02-13 Thu 10:38]--[2014-02-13 Thu 10:58] =>  0:20
 	:END:
        	:PROPERTIES:
        	:ID:       cabddb49-adb4-4532-81d3-3f49f7b66dd6
@@ -697,6 +697,7 @@ Try to use as much available software that I can find. Do it like Sage - don't r
        	:END:
 ******* NEXT Make 1st draft
 	:LOGBOOK:
+	CLOCK: [2014-02-13 Thu 10:58]
 	CLOCK: [2014-02-13 Thu 10:30]--[2014-02-13 Thu 10:38] =>  0:08
 	CLOCK: [2014-01-31 Fri 14:51]--[2014-01-31 Fri 14:57] =>  0:06
 	CLOCK: [2014-01-31 Fri 14:31]--[2014-01-31 Fri 14:51] =>  0:20
@@ -866,6 +867,10 @@ Update comparison theorem to read \(I\geq \phi\) implies that \(\sup_M K_t \leq 
 	:END:
 ******* NEXT Write comparison theorem without strict equality
 [2014-01-31 Fri 14:51]
+****** TODO Things to fix
+******* NEXT Fix asymptotics in Cor 3.5
+The sentence before is also wrong.
+The $K$ term should be divided by $8\pi$.
 ***** Notes
 ***** References
 **** TODO alpha CSF distance comparison				  :CSF_ALPHA:
