@@ -7777,6 +7777,28 @@ Lectures in calendar and tasks like planning lectures.
 - Francesca Grogan, D01-D04
 - Eric Evert, D05,D06
 - TBA, D07
+******* Piazza
+******** Question
+Incidentally, one way to solve this problem would be to multiply the numerator and denominator by the conjugate of the denominator. The conjugate of $$e^{ix}$$ is $$e^{-ix}$$ and, the conjugate of $$e^{-ix}$$ is $$e^{ix}$$. Since conjugation is additive, we have
+$$
+\overline{e^{ix} - e^{-ix}} = e^{-ix} - e^{ix}.
+$$ 
+Now since the conjugate is multiplicative
+$$
+\overline{(e^{ix} - e^{-ix})^5} = (e^{-ix} - e^{ix})^5.
+$$
+
+Thus the numerator becomes 
+$$
+(e^{ix} + e^{-ix})^4 (e^{-ix} - e^{ix})^5
+$$
+which, while tedious, you can expand out and integrate as with the other problems.
+
+For the denominator, we know that
+$$
+(e^{ix} - e^{-ix})^5. \overline{(e^{ix} - e^{-ix})^5} = r^2
+$$
+where $$r$$ is the magnitude of $$(e^{-x} - e^{-ix})^5. To work out $$r$$, what do we do?
 ****** Tasks
 ******* DONE Plan course
 	:LOGBOOK:
