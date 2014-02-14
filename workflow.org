@@ -101,6 +101,8 @@ Add goals to agenda to remind myself each day. E.g. work, diet, exercise, genera
   :END:
 [2013-10-01 Tue 10:23]
 want to hit a key so that only work tasks are shown or only personal/family tasks are shown
+- org-agenda-tag-filter: stores the filters
+- org-agenda-filter-by-tag: command to create filters
 *** Task list to sort 						    :SOMEDAY:
 ***** TODO Set up TAGS
      :PROPERTIES:
@@ -1601,7 +1603,8 @@ Should run hg clone ssh://hg@bitbucket.org/pabryan/<proj>
   :END:
 ** Organisation
   :LOGBOOK:
-  CLOCK: [2014-02-14 Fri 11:06]
+  CLOCK: [2014-02-14 Fri 11:18]
+  CLOCK: [2014-02-14 Fri 11:06]--[2014-02-14 Fri 11:16] =>  0:10
   CLOCK: [2014-02-14 Fri 11:01]--[2014-02-14 Fri 11:06] =>  0:05
   CLOCK: [2014-02-13 Thu 17:37]--[2014-02-13 Thu 17:38] =>  0:01
   CLOCK: [2014-02-13 Thu 10:22]--[2014-02-13 Thu 10:30] =>  0:08
@@ -2936,8 +2939,10 @@ When I set up scoring the day:
 - [ ] Collate data such as sleep, weight, exercise, diet etc.
 
 ** NEXT Daily Plan [0/7]
-   SCHEDULED: <2014-02-14 Fri .+1d/2d>
+   SCHEDULED: <2014-02-15 Sat .+1d/2d>
    :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2014-02-14 Fri 11:18]
+   CLOCK: [2014-02-14 Fri 11:16]--[2014-02-14 Fri 11:18] =>  0:02
    - State "DONE"       from "NEXT"       [2014-02-13 Thu 09:22]
    CLOCK: [2014-02-13 Thu 09:20]--[2014-02-13 Thu 09:22] =>  0:02
    CLOCK: [2014-02-13 Thu 09:14]--[2014-02-13 Thu 09:20] =>  0:06
@@ -3370,7 +3375,7 @@ When I set up scoring the day:
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
    :ID:       ef051ee0-1113-4604-b355-450a5a47848b
-   :LAST_REPEAT: [2014-02-13 Thu 09:22]
+   :LAST_REPEAT: [2014-02-14 Fri 11:18]
    :LAST_REPEAT: [2014-01-25 Sat 12:49]
    :END:
 

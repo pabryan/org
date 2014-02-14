@@ -7379,8 +7379,12 @@ Lectures in calendar and tasks like planning lectures.
 	   :PROPERTIES:
 	   :ID:       dce0ec91-c3b2-48ff-a9d3-ea4397a91b11
 	   :END:
-********** TODO Lecture 7.1
+********** CANCELLED Lecture 7.1
 	   DEADLINE: <2014-02-17 Mon>
+	   :LOGBOOK:
+	   - State "CANCELLED"  from "TODO"       [2014-02-14 Fri 11:17] \\
+	     President's day holiday
+	   :END:
 	   :PROPERTIES:
 	   :ID:       57347d45-de9f-44e4-a163-c95fc8f5346d
 	   :END:
@@ -7899,8 +7903,12 @@ Lectures in calendar and tasks like planning lectures.
 	   :PROPERTIES:
 	   :ID:       0e6408d5-cc45-4b4f-aab5-7946bceac8fd
 	   :END:
-********** TODO Lecture 7.1
+********** CANCELLED Lecture 7.1
 	   DEADLINE: <2014-02-17 Mon>
+	   :LOGBOOK:
+	   - State "CANCELLED"  from "TODO"       [2014-02-14 Fri 11:17] \\
+	     President's day holiday
+	   :END:
 	   :PROPERTIES:
 	   :ID:       03604c10-ad9e-4a35-80a3-232910d55ccf
 	   :END:
