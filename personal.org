@@ -2310,6 +2310,16 @@ http://www.sandiegoroots.org/events.php#family
      I'm just being lazy here. We have Skype credit on Kate's account and that will suffice for now.
    :END:
 
+** IP phone
+*** Providers
+**** IPtel
+sip:pabryan@iptel.org
+**** Pbxes
+sip:pabryan@pbxes.org
+**** linphone
+sip:pabryan@sip.linphone.org
+**** iNum
+http://www.inum.net/
 * Gov									:GOV:
   :PROPERTIES:
   :ID:       b0867386-74a0-4d6e-929f-5193b8bd0045
