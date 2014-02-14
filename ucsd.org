@@ -8101,8 +8101,11 @@ Lectures in calendar and tasks like planning lectures.
 	    Sent message to TA's. Waiting response.
 	  :END:
 
-********* NEXT Collect quizzes
+********* DONE Collect quizzes
 	  DEADLINE: <2014-02-13 Thu>
+	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2014-02-14 Fri 11:06]
+	  :END:
 
 ******** TODO Quiz 3
 	 :PROPERTIES:
@@ -9335,6 +9338,7 @@ Abstract:
 ****** Clocking
 ******* Radial curvature comparison seminar
         :LOGBOOK:
+	CLOCK: [2014-02-14 Fri 10:00]--[2014-02-14 Fri 11:06] =>  1:06
 	CLOCK: [2014-02-07 Fri 09:59]--[2014-02-07 Fri 11:21] =>  1:22
 	CLOCK: [2014-02-05 Wed 10:15]--[2014-02-05 Wed 11:22] =>  1:07
 	CLOCK: [2014-01-31 Fri 10:00]--[2014-01-31 Fri 11:05] =>  1:05
