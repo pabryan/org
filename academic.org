@@ -1433,6 +1433,15 @@ Look at all dark matter papers. Alan Parry also. Bibliography of course!
 	CLOCK: [2014-02-07 Fri 15:30]--[2014-02-07 Fri 15:43] =>  0:13
 	:END:
 
+***** Notes
+****** Actions on connections
+******* Jet bundle approach
+- Connection is a section of the jet bundle $J^1E \to E$.
+  - http://mathoverflow.net/questions/106999/1-jet-bundle-on-vector-bundle-with-metric-connection
+  - http://en.wikipedia.org/wiki/Ehresmann_connection
+  - http://en.wikipedia.org/wiki/Connection_(fibred_manifold)#Connection_as_a_jet_bundle_section
+- The action is quadratic on metrics and connections and their first derivatives. So a minimiser should be a section of some tensor product of symmetric 2-tensors, jet bundles and wherever the derivatives exist (e.g. $T^{\star} M \tensor S^2M$ for the metric). Then I just have some functional on their and find the Euler-Lagrange equation.
+
 *** Future 							    :SOMEDAY:
 **** TODO Space form curvature flow 			 :SPACE_FORM_HARNACK:
      :LOGBOOK:
