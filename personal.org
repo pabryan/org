@@ -1582,8 +1582,12 @@ Loop Road
 *** Persimmon picking
 Vista/Bonsall Area
 <2013-11-10 Sun 12:00-15:00>
-*** TODO RSVP to Sat Meetup
+*** CANCELLED RSVP to Sat Meetup
   DEADLINE: <2014-02-15 Sat>
+  :LOGBOOK:
+  - State "CANCELLED"  from "TODO"       [2014-02-15 Sat 22:47] \\
+    Remy was not well enough.
+  :END:
 [2014-02-13 Thu 09:22]
 http://www.meetup.com/FamilyAdventuresinNature/events/161878532/
 
