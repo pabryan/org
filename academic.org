@@ -1885,6 +1885,8 @@ Here we look at a conformal change of metric. The Levy-Gromov comparison doesn't
 ***** TODO Tasks
 ****** NEXT Calculate Laplacian of support function
        :LOGBOOK:
+       CLOCK: [2014-02-16 Sun 11:11]--[2014-02-16 Sun 12:12] =>  1:01
+       CLOCK: [2014-02-15 Sat 23:25]--[2014-02-16 Sun 01:30] =>  2:05
        CLOCK: [2014-02-15 Sat 16:05]--[2014-02-15 Sat 17:54] =>  1:49
        :END:
 **** TODO Differentiable sphere thm
