@@ -1435,7 +1435,7 @@ Look at all dark matter papers. Alan Parry also. Bibliography of course!
 
 ******* NEXT Read Appendix to Hubert Bray's paper #1
 	:LOGBOOK:
-	CLOCK: [2014-02-16 Sun 14:50]
+	CLOCK: [2014-02-16 Sun 14:50]--[2014-02-16 Sun 15:36] =>  0:46
 	:END:
 ***** Notes
 ****** Actions on connections
@@ -2877,10 +2877,18 @@ a
 *** SCGAS 2014
 <2014-02-22 Sat>--<2014-02-23 Sun>
 **** TODO Tasks
-***** NEXT Confirm Hotel
+***** DONE Confirm Hotel
       DEADLINE: <2014-02-15 Sat>
+      :LOGBOOK:
+      - State "DONE"       from "NEXT"       [2014-02-17 Mon 10:24]
+      :END:
+***** DONE Send w8 form
+      DEADLINE: <2014-02-15 Sat>
+      :LOGBOOK:
+      - State "DONE"       from "NEXT"       [2014-02-17 Mon 10:39]
+      :END:
 ***** NEXT Submit reimbursement form
-      DEADLINE: <2014-02-15 Sat>
+      DEADLINE: <2014-02-25 Tue>
 **** Meet Lei in car park 207
 <2014-02-22 Sat 09:00>
 ** DONE PNGS 2013
