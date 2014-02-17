@@ -3391,8 +3391,14 @@ My experiences learning/implementing these strategies.
   :END:
 ** Applications
 *** 2015
-**** TODO Andre Neves Postdoc
+**** Tasks
+***** NEXT Find jobs!
+      :LOGBOOK:
+      CLOCK: [2014-02-17 Mon 11:11]
+      :END:
+**** DONE Andre Neves Postdoc
      :LOGBOOK:
+     - State "DONE"       from "TODO"       [2014-02-17 Mon 11:08]
      CLOCK: [2014-01-01 Wed 14:01]--[2014-01-01 Wed 14:02] =>  0:01
      :END:
      :PROPERTIES:
@@ -3423,11 +3429,27 @@ My experiences learning/implementing these strategies.
 	Waiting on Lei Ni and Ben Andrews to say if they'll be referees.
       :END:
 
-***** TODO Upload CV
+***** DONE Upload CV
+      :LOGBOOK:
+      - State "DONE"       from "TODO"       [2014-02-17 Mon 11:08]
+      :END:
       :PROPERTIES:
       :ID:       974b61d2-9618-49d6-9d3b-75172825454d
       :END:
-***** TODO Write research plan
+***** DONE Write research plan
+      :LOGBOOK:
+      - State "DONE"       from "TODO"       [2014-02-17 Mon 11:08]
+      :END:
       :PROPERTIES:
       :ID:       1173019a-4896-4388-b68e-d84a40afb454
       :END:
+
+**** TODO Max Planck
+https://www.aei.mpg.de/31520/Job_vacancies
+**** TODO Warwick
+http://homepages.warwick.ac.uk/~maseq/jobs.html
+
+**** TODO Copenhagen
+http://www.math.ku.dk/english/research/gamp/
+**** TODO Granada
+http://www.ugr.es/~ritore/ingles.htm
