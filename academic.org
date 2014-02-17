@@ -3180,13 +3180,24 @@ Rowland Hall 340P
 <2014-03-04 Tue 13:00-22:00>
 - Jan or Feb.
 - Li-Sheng Tseng <lstseng@math.uci.edu>
-****** NEXT Send title/abstract 
+
+****** DONE Write title/abstract
+       :LOGBOOK:
+       - State "DONE"       from "NEXT"       [2014-02-17 Mon 10:53]
+       :END:
+- Title: Isoperimetric comparisons and geometric flows
+- Abstract: The study of isoperimetric inequalities has a long history, it's humble beginnings in Ancient Greek mathematics belying a deep and rich theory. A major tool in the study of the isoperimetric profile is the Calculus of Variations. Variational arguments lead to weak differential inequalities for the isoperimetric profile, which allows analytical tools such as the maximum principle to be employed. Of central importance here is the connection with curvature, which is intimately connected with the topology of isoperimetric regions. I will survey some of the results in this direction, paying particular attention to the interplay of the isoperimetric profile and curvature flows which is the focus of my current research.
+****** DONE Send title/abstract 
        DEADLINE: <2014-02-15 Sat>
+       :LOGBOOK:
+       - State "DONE"       from "NEXT"       [2014-02-17 Mon 10:53]
+       CLOCK: [2014-02-17 Mon 10:41]--[2014-02-17 Mon 10:53] =>  0:12
+       :END:
        :PROPERTIES:
        :ID:       05c342b4-0eb7-46f6-a27b-62e807d2d96c
        :END:
 ****** NEXT Write talk
-       DEADLINE: <2014-02-23 Sun>
+       DEADLINE: <2014-03-03 Mon -2w>
 
 * Students
   :PROPERTIES:
