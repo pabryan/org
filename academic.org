@@ -430,11 +430,15 @@ http://www.ams.org/editflow/wft/refrep.php?rr=26201&s=*B4F7B3FE017D5B64D6B
     :ID:       6ad0abf7-6e7f-473f-985d-edc9c77eba6a
     :END:
 Decided not to do it.
-*** TODO Referee PROC 131124-WANG
+*** DONE Referee PROC 131124-WANG
     DEADLINE: <2014-02-16 Sun -3w>
+    :LOGBOOK:
+    - State "DONE"       from "TODO"       [2014-02-17 Mon 19:50]
+    :END:
     :PROPERTIES:
     :ID:       870c98c6-622e-4dbb-893b-da0f5ad4b054
     :END:
+**** Notes
 - report: http://www.ams.org/editflow/wft/refrep.php?rr=28672&s=*04B42F99DC49A2392FC
 - file: [[file:~/reference/academic/journals/referee/131124-WANG]]
 - report: [[file:~/working/academic/journals/referee/AMS/singularities_of_mean_curvature_flow_and_isoperimetric_inequalities_in_H3/report.org]]
@@ -454,9 +458,10 @@ Decided not to do it.
      CLOCK: [2013-12-13 Fri 11:45]--[2013-12-13 Fri 12:00] =>  0:15
      :END:
 
-**** NEXT Write report
+**** DONE Write report
      :LOGBOOK:
-     CLOCK: [2014-02-17 Mon 19:03]
+     - State "DONE"       from "NEXT"       [2014-02-17 Mon 19:50]
+     CLOCK: [2014-02-17 Mon 19:03]--[2014-02-17 Mon 19:50] =>  0:47
      CLOCK: [2014-02-17 Mon 14:37]--[2014-02-17 Mon 17:11] =>  2:34
      :END:
 ** Selected Papers
