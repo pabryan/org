@@ -441,7 +441,7 @@ Decided not to do it.
 **** DONE Check paper
      :LOGBOOK:
      - State "DONE"       from "NEXT"       [2014-02-17 Mon 14:31]
-     CLOCK: [2014-02-17 Mon 13:44]
+     CLOCK: [2014-02-17 Mon 13:44]--[2014-02-17 Mon 14:20] =>  0:36
      CLOCK: [2014-02-17 Mon 11:25]--[2014-02-17 Mon 13:08] =>  1:43
      CLOCK: [2014-02-14 Fri 15:09]--[2014-02-14 Fri 15:52] =>  0:43
      CLOCK: [2014-02-13 Thu 12:33]--[2014-02-13 Thu 12:47] =>  0:14
