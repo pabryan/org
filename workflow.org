@@ -1603,6 +1603,8 @@ Should run hg clone ssh://hg@bitbucket.org/pabryan/<proj>
   :END:
 ** Organisation
   :LOGBOOK:
+  CLOCK: [2014-02-17 Mon 19:02]
+  CLOCK: [2014-02-17 Mon 18:52]--[2014-02-17 Mon 18:54] =>  0:02
   CLOCK: [2014-02-17 Mon 10:53]--[2014-02-17 Mon 11:11] =>  0:18
   CLOCK: [2014-02-17 Mon 10:29]--[2014-02-17 Mon 10:41] =>  0:12
   CLOCK: [2014-02-14 Fri 18:30]--[2014-02-14 Fri 18:35] =>  0:05
@@ -2685,8 +2687,10 @@ Set some goals for the month. I should check someday projects for inclusion in t
 Check how I did last month. I guess the review and plan could probably go together. This is all broad stuff
 
 ** NEXT Daily Review [0/10]
-   SCHEDULED: <2014-02-15 Sat .+1d/2d>
+   SCHEDULED: <2014-02-18 Tue .+1d/2d>
    :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2014-02-17 Mon 19:02]
+   CLOCK: [2014-02-17 Mon 18:54]--[2014-02-17 Mon 19:02] =>  0:08
    - State "DONE"       from "NEXT"       [2014-02-14 Fri 18:30]
    CLOCK: [2014-02-14 Fri 18:25]--[2014-02-14 Fri 18:30] =>  0:05
    - State "DONE"       from "NEXT"       [2014-02-12 Wed 17:53]
@@ -2923,7 +2927,7 @@ Check how I did last month. I guess the review and plan could probably go togeth
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
    :ID:       616c5bd9-d941-4fcc-8874-2ff3c9e96b4a
-   :LAST_REPEAT: [2014-02-14 Fri 18:30]
+   :LAST_REPEAT: [2014-02-17 Mon 19:02]
    :END:
 
 What to review:
@@ -2944,8 +2948,9 @@ When I set up scoring the day:
 - [ ] Collate data such as sleep, weight, exercise, diet etc.
 
 ** NEXT Daily Plan [0/7]
-   SCHEDULED: <2014-02-15 Sat .+1d/2d>
+   SCHEDULED: <2014-02-18 Tue .+1d/2d>
    :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2014-02-17 Mon 18:53]
    - State "DONE"       from "NEXT"       [2014-02-14 Fri 11:18]
    CLOCK: [2014-02-14 Fri 11:16]--[2014-02-14 Fri 11:18] =>  0:02
    - State "DONE"       from "NEXT"       [2014-02-13 Thu 09:22]
@@ -3380,7 +3385,7 @@ When I set up scoring the day:
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
    :ID:       ef051ee0-1113-4604-b355-450a5a47848b
-   :LAST_REPEAT: [2014-02-14 Fri 11:18]
+   :LAST_REPEAT: [2014-02-17 Mon 18:53]
    :LAST_REPEAT: [2014-01-25 Sat 12:49]
    :END:
 

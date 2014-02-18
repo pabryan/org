@@ -437,7 +437,7 @@ Decided not to do it.
     :END:
 - report: http://www.ams.org/editflow/wft/refrep.php?rr=28672&s=*04B42F99DC49A2392FC
 - file: [[file:~/reference/academic/journals/referee/131124-WANG]]
-- report: 
+- report: [[file:~/working/academic/journals/referee/AMS/singularities_of_mean_curvature_flow_and_isoperimetric_inequalities_in_H3/report.org]]
 **** DONE Check paper
      :LOGBOOK:
      - State "DONE"       from "NEXT"       [2014-02-17 Mon 14:31]
@@ -456,6 +456,7 @@ Decided not to do it.
 
 **** NEXT Write report
      :LOGBOOK:
+     CLOCK: [2014-02-17 Mon 19:03]
      CLOCK: [2014-02-17 Mon 14:37]--[2014-02-17 Mon 17:11] =>  2:34
      :END:
 ** Selected Papers

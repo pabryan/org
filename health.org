@@ -8,14 +8,15 @@
 
 ** Tracking
 *** NEXT Exercise
-    SCHEDULED: <2014-02-15 Sat .+1d/2d>
+    SCHEDULED: <2014-02-18 Tue .+1d/2d>
     :PROPERTIES:
     :STYLE:    habit
     :REPEAT_TO_STATE: NEXT
     :ID:       8d56b2ef-1b49-4dc4-b701-1d021a293fa4
-    :LAST_REPEAT: [2014-02-14 Fri 11:16]
+    :LAST_REPEAT: [2014-02-17 Mon 18:53]
     :END:
     :LOGBOOK:
+    - State "DONE"       from "NEXT"       [2014-02-17 Mon 18:53]
     - State "DONE"       from "NEXT"       [2014-02-14 Fri 11:16]
     - State "DONE"       from "NEXT"       [2014-02-12 Wed 13:08]
     - State "DONE"       from "NEXT"       [2014-02-11 Tue 16:28]
@@ -258,8 +259,9 @@
     - State "DONE"       from "NEXT"       [2013-03-09 Sat 11:10]
     :END:
 *** NEXT Morning Mobility
-    SCHEDULED: <2014-02-14 Fri .+1d/2d>
+    SCHEDULED: <2014-02-18 Tue .+1d/2d>
     :LOGBOOK:
+    - State "DONE"       from "NEXT"       [2014-02-17 Mon 18:53]
     - State "DONE"       from "NEXT"       [2014-02-13 Thu 09:46]
     - State "DONE"       from "NEXT"       [2014-02-12 Wed 13:08]
     - State "DONE"       from "NEXT"       [2014-02-11 Tue 09:16]
@@ -557,12 +559,13 @@
     :STYLE:    habit
     :REPEAT_TO_STATE: NEXT
     :ID:       0e75f56d-0356-4a0f-a376-080471ad4aad
-    :LAST_REPEAT: [2014-02-13 Thu 09:46]
+    :LAST_REPEAT: [2014-02-17 Mon 18:53]
     :END:
 
 *** NEXT Afternoon Relax
-    SCHEDULED: <2014-02-11 Tue .+1d/2d>
+    SCHEDULED: <2014-02-18 Tue .+1d/2d>
     :LOGBOOK:
+    - State "DONE"       from "NEXT"       [2014-02-17 Mon 18:54]
     - State "DONE"       from "NEXT"       [2014-02-10 Mon 17:35]
     - State "DONE"       from "NEXT"       [2014-02-09 Sun 16:03]
     - State "DONE"       from "NEXT"       [2014-02-05 Wed 20:55]
@@ -743,12 +746,13 @@
     :STYLE:    habit
     :REPEAT_TO_STATE: NEXT
     :ID:       c0aaf33a-af77-446b-b9fd-cf2d2f78c12a
-    :LAST_REPEAT: [2014-02-10 Mon 17:35]
+    :LAST_REPEAT: [2014-02-17 Mon 18:54]
     :END:
   
 *** NEXT Daily Stretch
-    SCHEDULED: <2014-02-13 Thu .+1d/2d>
+    SCHEDULED: <2014-02-18 Tue .+1d/2d>
     :LOGBOOK:
+    - State "DONE"       from "NEXT"       [2014-02-17 Mon 18:53]
     - State "DONE"       from "NEXT"       [2014-02-12 Wed 13:08]
     - State "DONE"       from "NEXT"       [2014-02-10 Mon 20:53]
     - State "DONE"       from "NEXT"       [2014-02-02 Sun 18:53]
@@ -875,7 +879,7 @@
     :STYLE:    habit
     :REPEAT_TO_STATE: NEXT
     :ID:       d439600f-c40d-4dd3-82ca-3e7d9e35f2b3
-    :LAST_REPEAT: [2014-02-12 Wed 13:08]
+    :LAST_REPEAT: [2014-02-17 Mon 18:53]
     :END:
   
 *** NEXT Handstand practice
