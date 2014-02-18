@@ -7773,6 +7773,9 @@ Lectures in calendar and tasks like planning lectures.
 <2014-01-21 Tue 13:00-14:00>
 ******* Plan MT 2
 <2014-02-18 Tue 13:00-14:00>
+	:LOGBOOK:
+	CLOCK: [2014-02-18 Tue 13:05]--[2014-02-18 Tue 14:00] =>  0:55
+	:END:
 ******* Plan Final
 <2014-03-11 Tue 13:00-14:00>
 ******* TA's

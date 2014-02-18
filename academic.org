@@ -1417,6 +1417,7 @@ That is, Ben and Janelle have proven the backward convergence, and to finish we 
 <2014-02-13 Thu 14:30-15:30>
 ******* Weekly Janelle
 	:LOGBOOK:
+	CLOCK: [2014-02-18 Tue 14:17]--[2014-02-18 Tue 15:27] =>  1:10
 	CLOCK: [2014-02-04 Tue 14:24]--[2014-02-04 Tue 16:27] =>  2:03
 	CLOCK: [2014-01-28 Tue 14:10]--[2014-01-28 Tue 15:38] =>  1:28
 	CLOCK: [2014-01-21 Tue 14:00]--[2014-01-21 Tue 14:45] =>  0:45
@@ -1435,7 +1436,7 @@ That is, Ben and Janelle have proven the backward convergence, and to finish we 
      :END:
 [[http://fds.duke.edu/db/aas/math/bray]]
 ***** Tasks
-****** TODO Reading
+****** TODO Learning
 Look at all dark matter papers. Alan Parry also. Bibliography of course!
 ******* NEXT Follow up Hubert Bray's general relativity references
 <2014-03-24 Mon>
@@ -1453,6 +1454,8 @@ Look at all dark matter papers. Alan Parry also. Bibliography of course!
 	:LOGBOOK:
 	CLOCK: [2014-02-16 Sun 14:50]--[2014-02-16 Sun 15:36] =>  0:46
 	:END:
+******* NEXT Study spherical symmetry in Parry
+- two papers about this.
 ***** Notes
 ****** Actions on connections
 ******* Jet bundle approach
@@ -1462,6 +1465,11 @@ Look at all dark matter papers. Alan Parry also. Bibliography of course!
   - http://en.wikipedia.org/wiki/Connection_(fibred_manifold)#Connection_as_a_jet_bundle_section
 - The action is quadratic on metrics and connections and their first derivatives. So a minimiser should be a section of some tensor product of symmetric 2-tensors, jet bundles and wherever the derivatives exist (e.g. $T^{\star} M \tensor S^2M$ for the metric). Then I just have some functional on their and find the Euler-Lagrange equation.
 
+***** Meetings
+****** NEXT Phone call with Hubert Bray
+	:LOGBOOK:
+	CLOCK: [2014-02-18 Tue 12:00]--[2014-02-18 Tue 13:05] =>  1:05
+	:END:
 *** Future 							    :SOMEDAY:
 **** TODO Space form curvature flow 			 :SPACE_FORM_HARNACK:
      :LOGBOOK:
