@@ -7460,8 +7460,11 @@ Lectures in calendar and tasks like planning lectures.
 	   :PROPERTIES:
 	   :ID:       7517f89e-67e4-44a8-8d04-16b6ae8c99aa
 	   :END:
-********** TODO Lecture 7.2
+********** NEXT Lecture 7.2
 	   DEADLINE: <2014-02-19 Wed>
+	   :LOGBOOK:
+	   CLOCK: [2014-02-19 Wed 10:58]
+	   :END:
 	   :PROPERTIES:
 	   :ID:       5f665fba-d540-461a-82be-cf365f4a7568
 	   :END:
@@ -8684,7 +8687,10 @@ http://urp.ucsd.edu/
 	 :END:
 <2014-02-10 Mon 09:00-11:00>
 ******** DG5
-<2014-02-17 Mon 09:00-11:00>
+	 :LOGBOOK:
+	 CLOCK: [2014-02-19 Wed 09:10]--[2014-02-19 Wed 10:56] =>  1:46
+	 :END:
+<2014-02-19 Wed 09:00-11:00>
 ******** DG6
 <2014-02-24 Mon 09:00-11:00>
 ******** DG7
