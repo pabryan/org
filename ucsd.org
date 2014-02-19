@@ -7864,6 +7864,7 @@ Lectures in calendar and tasks like planning lectures.
 	 :END:
 ******** TODO Prepare Lectures
 	 :LOGBOOK:
+	 CLOCK: [2014-02-19 Wed 14:20]--[2014-02-19 Wed 14:21] =>  0:01
 	 CLOCK: [2014-02-09 Sun 21:25]--[2014-02-09 Sun 21:27] =>  0:02
 	 :END:
 	 :PROPERTIES:
@@ -8001,10 +8002,11 @@ Lectures in calendar and tasks like planning lectures.
 	   :PROPERTIES:
 	   :ID:       27382486-4d82-4c08-ae60-db2ee3a04444
 	   :END:
-********** NEXT Lecture 7.2
+********** DONE Lecture 7.2
 	   DEADLINE: <2014-02-19 Wed>
 	   :LOGBOOK:
-	   CLOCK: [2014-02-19 Wed 13:26]
+	   - State "DONE"       from "NEXT"       [2014-02-19 Wed 14:20]
+	   CLOCK: [2014-02-19 Wed 13:26]--[2014-02-19 Wed 14:20] =>  0:54
 	   :END:
 	   :PROPERTIES:
 	   :ID:       a11590f1-72fb-43ad-91ed-7a9f8c28f78a

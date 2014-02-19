@@ -3482,6 +3482,7 @@ http://geometry.ugr.es/
 http://www.mathjobs.org/jobs/jobs/5668
 **** TODO UQ Lecturer
      :LOGBOOK:
+     CLOCK: [2014-02-19 Wed 15:22]--[2014-02-19 Wed 15:23] =>  0:01
      CLOCK: [2014-02-18 Tue 23:24]--[2014-02-18 Tue 23:26] =>  0:02
      :END:
 ***** Tasks
@@ -3492,9 +3493,11 @@ http://www.mathjobs.org/jobs/jobs/5668
        CLOCK: [2014-02-18 Tue 19:38]--[2014-02-18 Tue 23:24] =>  3:46
        CLOCK: [2014-02-18 Tue 15:53]--[2014-02-18 Tue 16:14] =>  0:21
        :END:
-****** NEXT Update website with paper drafts
+****** DONE Update website with paper drafts
        DEADLINE: <2014-02-18 Tue>
        :LOGBOOK:
+       - State "DONE"       from "NEXT"       [2014-02-19 Wed 15:22]
+       CLOCK: [2014-02-19 Wed 14:21]--[2014-02-19 Wed 15:22] =>  1:01
        CLOCK: [2014-02-19 Wed 11:38]--[2014-02-19 Wed 11:47] =>  0:09
        :END:
 ****** DONE Update CV
