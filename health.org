@@ -752,8 +752,9 @@
     :END:
   
 *** NEXT Daily Stretch
-    SCHEDULED: <2014-02-18 Tue .+1d/2d>
+    SCHEDULED: <2014-02-19 Wed .+1d/2d>
     :LOGBOOK:
+    - State "DONE"       from "NEXT"       [2014-02-18 Tue 23:27]
     - State "DONE"       from "NEXT"       [2014-02-17 Mon 18:53]
     - State "DONE"       from "NEXT"       [2014-02-12 Wed 13:08]
     - State "DONE"       from "NEXT"       [2014-02-10 Mon 20:53]
@@ -881,7 +882,7 @@
     :STYLE:    habit
     :REPEAT_TO_STATE: NEXT
     :ID:       d439600f-c40d-4dd3-82ca-3e7d9e35f2b3
-    :LAST_REPEAT: [2014-02-17 Mon 18:53]
+    :LAST_REPEAT: [2014-02-18 Tue 23:27]
     :END:
   
 *** NEXT Handstand practice

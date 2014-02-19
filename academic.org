@@ -3481,17 +3481,24 @@ http://geometry.ugr.es/
 **** TODO Wollongong
 http://www.mathjobs.org/jobs/jobs/5668
 **** TODO UQ Lecturer
+     :LOGBOOK:
+     CLOCK: [2014-02-18 Tue 23:24]--[2014-02-18 Tue 23:26] =>  0:02
+     :END:
 ***** Tasks
-****** NEXT Write application
+****** DONE Write application
        DEADLINE: <2014-02-18 Tue>
        :LOGBOOK:
-       CLOCK: [2014-02-18 Tue 19:38]
+       - State "DONE"       from "NEXT"       [2014-02-18 Tue 23:24]
+       CLOCK: [2014-02-18 Tue 19:38]--[2014-02-18 Tue 23:24] =>  3:46
        CLOCK: [2014-02-18 Tue 15:53]--[2014-02-18 Tue 16:14] =>  0:21
        :END:
-****** NEXT Update website with paper drafts
+****** DONE Update website with paper drafts
        DEADLINE: <2014-02-18 Tue>
-****** NEXT Update CV
+****** DONE Update CV
        DEADLINE: <2014-02-18 Tue>
+       :LOGBOOK:
+       - State "DONE"       from "NEXT"       [2014-02-18 Tue 23:24]
+       :END:
 ***** Notes
 - http://www.mathjobs.org/jobs/638/5729
 - Contact: Professor Joseph Grotowsk, +61-7-3365-3260, grotow@maths.uq.edu.au
