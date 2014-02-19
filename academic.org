@@ -3492,8 +3492,11 @@ http://www.mathjobs.org/jobs/jobs/5668
        CLOCK: [2014-02-18 Tue 19:38]--[2014-02-18 Tue 23:24] =>  3:46
        CLOCK: [2014-02-18 Tue 15:53]--[2014-02-18 Tue 16:14] =>  0:21
        :END:
-****** DONE Update website with paper drafts
+****** NEXT Update website with paper drafts
        DEADLINE: <2014-02-18 Tue>
+       :LOGBOOK:
+       CLOCK: [2014-02-19 Wed 11:38]--[2014-02-19 Wed 11:47] =>  0:09
+       :END:
 ****** DONE Update CV
        DEADLINE: <2014-02-18 Tue>
        :LOGBOOK:
