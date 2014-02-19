@@ -8001,8 +8001,11 @@ Lectures in calendar and tasks like planning lectures.
 	   :PROPERTIES:
 	   :ID:       27382486-4d82-4c08-ae60-db2ee3a04444
 	   :END:
-********** TODO Lecture 7.2
+********** NEXT Lecture 7.2
 	   DEADLINE: <2014-02-19 Wed>
+	   :LOGBOOK:
+	   CLOCK: [2014-02-19 Wed 13:26]
+	   :END:
 	   :PROPERTIES:
 	   :ID:       a11590f1-72fb-43ad-91ed-7a9f8c28f78a
 	   :END:
