@@ -8816,6 +8816,9 @@ http://urp.ucsd.edu/
 	  :END:
 <2014-01-28 Tue 13:00-14:00 +1w>
 ********* WDM
+	  :LOGBOOK:
+	  CLOCK: [2014-02-18 Tue 16:14]
+	  :END:
 <2014-02-18 Tue 16:00-17:00>
 ****** Participants
 - Jason Bunk <jbunk@ucsd.edu>
