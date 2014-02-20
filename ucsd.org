@@ -7621,7 +7621,7 @@ Lectures in calendar and tasks like planning lectures.
 	 - State "DONE"       from "NEXT"       [2014-02-17 Mon 21:23]
 	 CLOCK: [2014-02-17 Mon 21:05]--[2014-02-17 Mon 21:23] =>  0:18
 	 :END:
-********* TODO Collect exams
+********* NEXT Collect exams
 	  DEADLINE: <2014-02-24 Mon>
 
 ********* WAITING Organise TA's to proctor
@@ -8129,7 +8129,10 @@ Lectures in calendar and tasks like planning lectures.
 	  :PROPERTIES:
 	  :ID:       bed8aad1-43cd-4c3c-aa05-fd7c8f90f4d1
 	  :END:
-******** TODO Quiz 2
+******** DONE Quiz 2
+	 :LOGBOOK:
+	 - State "DONE"       from "TODO"       [2014-02-20 Thu 14:52]
+	 :END:
 	 :PROPERTIES:
 	 :ID:       ad631b7c-27b4-4286-8810-7b8930f84e05
 	 :END:
@@ -8141,8 +8144,9 @@ Lectures in calendar and tasks like planning lectures.
 	  :PROPERTIES:
 	  :ID:       86bb842e-a3dc-4998-bf70-3124c41ebdcd
 	  :END:
-********* WAITING Organise TA's to proctor
+********* DONE Organise TA's to proctor
 	  :LOGBOOK:
+	  - State "DONE"       from "WAITING"    [2014-02-20 Thu 14:50]
 	  - State "WAITING"    from "TODO"       [2014-02-13 Thu 10:27] \\
 	    Sent message to TA's. Waiting response.
 	  :END:
@@ -8153,7 +8157,10 @@ Lectures in calendar and tasks like planning lectures.
 	  - State "DONE"       from "NEXT"       [2014-02-14 Fri 11:06]
 	  :END:
 
-******** TODO Quiz 3
+******** DONE Quiz 3
+	 :LOGBOOK:
+	 - State "DONE"       from "TODO"       [2014-02-20 Thu 14:52]
+	 :END:
 	 :PROPERTIES:
 	 :ID:       f2e77cfa-4374-4a6d-ae2d-0c54e511e5d2
 	 :END:
@@ -8170,8 +8177,9 @@ Lectures in calendar and tasks like planning lectures.
 	  - State "WAITING"    from "TODO"       [2014-02-13 Thu 10:27] \\
 	    Sent message to TA's. Waiting response.
 	  :END:
-********* WAITING Organise TA's to proctor
+********* DONE Organise TA's to proctor
 	  :LOGBOOK:
+	  - State "DONE"       from "WAITING"    [2014-02-20 Thu 14:50]
 	  - State "WAITING"    from "TODO"       [2014-02-13 Thu 10:27] \\
 	    Sent message to TA's. Waiting response.
 	  :END:
@@ -8233,13 +8241,14 @@ Lectures in calendar and tasks like planning lectures.
 	  :PROPERTIES:
 	  :ID:       b0a5ff85-b0d1-42d4-a906-11b0044c1a3e
 	  :END:
-********* WAITING Organise TA's to proctor
+********* DONE Organise TA's to proctor
 	  :LOGBOOK:
+	  - State "DONE"       from "WAITING"    [2014-02-20 Thu 14:50]
 	  - State "WAITING"    from "TODO"       [2014-02-13 Thu 10:27] \\
 	    Sent message to TA's. Waiting response.
 	  :END:
 
-********* TODO Collect exams
+********* NEXT Collect exams
 	  DEADLINE: <2014-02-26 Wed>
 
 ******** TODO Final
@@ -8520,10 +8529,22 @@ Ledden Auditorium
     :END:
 <2013-10-11 Fri 12:00>
 <2013-11-22 Fri 14:15>
-*** TODO Attend lectures
-**** TODO Winter 2014
-***** TODO Math10A
-***** TODO Math10B
+*** DONE Attend lectures
+    :LOGBOOK:
+    - State "DONE"       from "TODO"       [2014-02-20 Thu 14:51]
+    :END:
+**** DONE Winter 2014
+     :LOGBOOK:
+     - State "DONE"       from "TODO"       [2014-02-20 Thu 14:51]
+     :END:
+***** DONE Math10A
+      :LOGBOOK:
+      - State "DONE"       from "TODO"       [2014-02-20 Thu 14:51]
+      :END:
+***** DONE Math10B
+      :LOGBOOK:
+      - State "DONE"       from "TODO"       [2014-02-20 Thu 14:51]
+      :END:
 ** Tasks
 *** TODO Update course template
   :LOGBOOK:
@@ -8680,6 +8701,7 @@ http://urp.ucsd.edu/
 	 - State "DONE"       from "NEXT"       [2014-02-09 Sun 22:44]
 	 CLOCK: [2014-02-09 Sun 21:27]--[2014-02-09 Sun 22:44] =>  1:17
 	 :END:
+******** NEXT Prepare smooth functions lecture
 ******* DONE Send DG notes
   DEADLINE: <2014-02-10 Mon>
   :LOGBOOK:
@@ -8873,7 +8895,7 @@ http://urp.ucsd.edu/
 	  :LOGBOOK:
 	  - State "DONE"       from "TODO"       [2014-02-05 Wed 13:15]
 	  :END:
-********* TODO Create skeleton Python code
+********* NEXT Create skeleton Python code
 ******** TODO Sage conversion
 ********* DONE Load matlab code into sage
 	  DEADLINE: <2014-01-31 Fri>

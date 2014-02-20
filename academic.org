@@ -581,10 +581,13 @@ Try to use as much available software that I can find. Do it like Sage - don't r
 **** TODO Ricci isoperimetric profile 			     :RICCI_ISO_COMP:
    :LOGBOOK:
    :END:
-[[file:~/working/academic/research/ricci_surfaces_isoperimetric_comparison]]
    :PROPERTIES:
    :ID:       5d9554fe-4cf1-42b0-9891-69a81e715a67
    :END:
+***** Files
+[[file:~/working/academic/research/ricci_surfaces_isoperimetric_comparison]]
+[[file:~/publish/ricci_surfaces_isoperimetric_comparison/ricci_surfaces_isoperimetric_comparison.pdf]]
+
 ***** Tasks
 ****** DONE Set up tasks
        - State "DONE"       from "NEXT"       [2012-12-14 Fri 18:04]
@@ -740,6 +743,9 @@ Try to use as much available software that I can find. Do it like Sage - don't r
 	:ID:       a75942f7-4b42-433b-b839-dfe4720cc990
 	:END:
 ******* NEXT Add isoperimetric control to universal cover
+	:LOGBOOK:
+	CLOCK: [2014-02-20 Thu 14:52]
+	:END:
 ******* NEXT Find precise refs
 I have "where" for some refs and it would be good to have the precise section.
 ****** TODO Things to check
