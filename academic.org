@@ -696,6 +696,7 @@ Try to use as much available software that I can find. Do it like Sage - don't r
        	:END:
 ******* NEXT Write convergence
 	:LOGBOOK:
+	CLOCK: [2014-02-20 Thu 09:37]
 	CLOCK: [2014-02-13 Thu 10:38]--[2014-02-13 Thu 10:58] =>  0:20
 	:END:
        	:PROPERTIES:
@@ -737,6 +738,7 @@ Try to use as much available software that I can find. Do it like Sage - don't r
 	:PROPERTIES:
 	:ID:       a75942f7-4b42-433b-b839-dfe4720cc990
 	:END:
+******* NEXT Add isoperimetric control to universal cover
 ****** TODO Things to check
        :PROPERTIES:
        :ID:       2dab82b7-790c-4235-8b60-23b4587e88c6
@@ -885,8 +887,16 @@ Update comparison theorem to read \(I\geq \phi\) implies that \(\sup_M K_t \leq 
 	:END:
 ******* NEXT Write comparison theorem without strict equality
 [2014-01-31 Fri 14:51]
-****** TODO Things to fix
-******* NEXT Fix asymptotics in Cor 3.5
+****** DONE Things to fix
+       :LOGBOOK:
+       - State "DONE"       from "TODO"       [2014-02-20 Thu 09:35]
+       CLOCK: [2014-02-20 Thu 09:35]--[2014-02-20 Thu 09:37] =>  0:02
+       :END:
+******* DONE Fix asymptotics in Cor 3.5
+	:LOGBOOK:
+	- State "DONE"       from "NEXT"       [2014-02-20 Thu 09:35]
+	CLOCK: [2014-02-20 Thu 09:33]--[2014-02-20 Thu 09:35] =>  0:02
+	:END:
 The sentence before is also wrong.
 The $K$ term should be divided by $8\pi$.
 ***** Notes
@@ -1447,7 +1457,7 @@ Look at all dark matter papers. Alan Parry also. Bibliography of course!
 <2014-03-24 Mon>
 ******* NEXT Read O'Neill semi-Riemannian geometry
 	:LOGBOOK:
-	CLOCK: [2014-02-20 Thu 09:11]
+	CLOCK: [2014-02-20 Thu 09:11]--[2014-02-20 Thu 09:33] =>  0:22
 	CLOCK: [2014-02-07 Fri 15:30]--[2014-02-07 Fri 15:43] =>  0:13
 	:END:
 
