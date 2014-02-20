@@ -7609,6 +7609,9 @@ Lectures in calendar and tasks like planning lectures.
 	  - State "DONE"       from "NEXT"       [2014-01-22 Wed 11:42]
 	  :END:
 ******** TODO MT2
+	 :LOGBOOK:
+	 CLOCK: [2014-02-19 Wed 17:40]--[2014-02-19 Wed 17:41] =>  0:01
+	 :END:
 ********* DONE Prepare MT2 questions
 	 DEADLINE: <2014-02-16 Sun>
 	 :LOGBOOK:
@@ -7623,8 +7626,12 @@ Lectures in calendar and tasks like planning lectures.
 	  - State "WAITING"    from "TODO"       [2014-02-13 Thu 10:27] \\
 	    Sent message to TA's. Waiting response.
 	  :END:
-********* NEXT Check exam questions
+********* DONE Check exam questions
 	  DEADLINE: <2014-02-20 Thu>
+	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2014-02-19 Wed 17:40]
+	  CLOCK: [2014-02-19 Wed 17:10]--[2014-02-19 Wed 17:40] =>  0:30
+	  :END:
 ******** TODO Final
 	 DEADLINE: <2014-03-09 Sun>
 ********* NEXT Prepare Final questions
@@ -8166,8 +8173,11 @@ Lectures in calendar and tasks like planning lectures.
 	    Sent message to TA's. Waiting response.
 	  :END:
 
-********* TODO Collect quizzes
+********* DONE Collect quizzes
 	  DEADLINE: <2014-02-20 Thu>
+	  :LOGBOOK:
+	  - State "DONE"       from "TODO"       [2014-02-19 Wed 17:10]
+	  :END:
 
 ******** TODO Quiz 4
 	 :PROPERTIES:
