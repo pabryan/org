@@ -169,3 +169,11 @@ I want to grab a paper from the internet, possibly the bib entry as well and the
 [2014-02-20 Thu 09:08]
 - I should just be able to publish a project with only specifying the directory and how I want it published (pdf, html, attachments etc.) without writing a publishing file for every project. 
 <2014-03-01 Sat>
+* TODO Create project agenda view
+  :LOGBOOK:
+  CLOCK: [2014-02-20 Thu 09:10]--[2014-02-20 Thu 09:11] =>  0:01
+  :END:
+[2014-02-20 Thu 09:10]
+
+It would be nice to narrow to a project and have it display sub-projects in an easy to browse manner
+<2014-03-01 Sat>
