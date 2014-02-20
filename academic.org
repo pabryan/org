@@ -742,9 +742,10 @@ Try to use as much available software that I can find. Do it like Sage - don't r
 	:PROPERTIES:
 	:ID:       a75942f7-4b42-433b-b839-dfe4720cc990
 	:END:
-******* NEXT Add isoperimetric control to universal cover
+******* DONE Add isoperimetric control to universal cover
 	:LOGBOOK:
-	CLOCK: [2014-02-20 Thu 14:52]
+	- State "DONE"       from "NEXT"       [2014-02-20 Thu 15:39]
+	CLOCK: [2014-02-20 Thu 14:52]--[2014-02-20 Thu 15:39] =>  0:47
 	:END:
 ******* NEXT Find precise refs
 I have "where" for some refs and it would be good to have the precise section.
