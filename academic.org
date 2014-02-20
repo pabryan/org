@@ -3520,6 +3520,11 @@ http://www.mathjobs.org/jobs/jobs/5668
        :LOGBOOK:
        - State "DONE"       from "NEXT"       [2014-02-18 Tue 23:24]
        :END:
+****** WAITING Confirm receipt of application
+       :LOGBOOK:
+       - State "WAITING"    from "TODO"       [2014-02-20 Thu 14:47] \\
+	 Sent email to Joe at UQ. Waiting to hear confirmation.
+       :END:
 ***** Notes
 - http://www.mathjobs.org/jobs/638/5729
 - Contact: Professor Joseph Grotowsk, +61-7-3365-3260, grotow@maths.uq.edu.au

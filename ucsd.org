@@ -2520,7 +2520,10 @@ CLOCK: [2013-04-08 Mon 15:00]--[2013-04-08 Mon 16:12] =>  0:59
        	 :ID:       7365f941-36cb-4b8f-af0b-32d795e33de9
        	 :END:
 ******* Extra grading
-******** TODO Anterpreet Kaur
+******** DONE Anterpreet Kaur
+	 :LOGBOOK:
+	 - State "DONE"       from "TODO"       [2014-02-20 Thu 14:47]
+	 :END:
 ********* DONE Midterm 1
 	  :LOGBOOK:
 	  - State "DONE"       from "NEXT"       [2014-01-28 Tue 17:31]
@@ -7539,7 +7542,7 @@ Lectures in calendar and tasks like planning lectures.
 	   :PROPERTIES:
 	   :ID:       3468427d-22b5-4fd2-90b4-f3300ff745a6
 	   :END:
-********** TODO Lecture 7.3
+********** NEXT Lecture 7.3
 	   DEADLINE: <2014-02-21 Fri>
 	   :PROPERTIES:
 	   :ID:       e52eb4bd-18fe-44cb-9535-7a64344c1e5c
@@ -8090,7 +8093,7 @@ Lectures in calendar and tasks like planning lectures.
 	   :PROPERTIES:
 	   :ID:       a1d272c4-28af-4767-84ec-d96e7d198103
 	   :END:
-********** TODO Lecture 7.3
+********** NEXT Lecture 7.3
 	   DEADLINE: <2014-02-21 Fri>
 	   :PROPERTIES:
 	   :ID:       19611079-8eb7-48a3-aae2-4b54aeef4f15
@@ -8467,6 +8470,9 @@ Center 101
 	  :END:
 ******** MT2 meeting
 	  SCHEDULED: <2014-02-20 Thu 14:00-15:00>
+	  :LOGBOOK:
+	  CLOCK: [2014-02-20 Thu 13:55]--[2014-02-20 Thu 14:42] =>  0:47
+	  :END:
 ******** Final meeting
 	  SCHEDULED: <2014-03-06 Thu 14:00-15:00>
 ******* TA's
