@@ -983,7 +983,7 @@ Levenger?
 - Projects should have a larger folder with papers, notes etc.
 
 *** TODO Make weekly paper review/check task
-  SCHEDULED: <2014-02-27 Thu>
+  SCHEDULED: <2014-03-01 Thu>
   :LOGBOOK:
   CLOCK: [2013-08-27 Tue 10:33]--[2013-08-27 Tue 10:34] =>  0:01
   :END:
@@ -1603,7 +1603,7 @@ Should run hg clone ssh://hg@bitbucket.org/pabryan/<proj>
   :END:
 ** Organisation
   :LOGBOOK:
-  CLOCK: [2014-02-20 Thu 08:44]
+  CLOCK: [2014-02-20 Thu 08:44]--[2014-02-20 Thu 08:49] =>  0:05
   CLOCK: [2014-02-19 Wed 17:47]--[2014-02-19 Wed 17:52] =>  0:05
   CLOCK: [2014-02-19 Wed 17:09]--[2014-02-19 Wed 17:10] =>  0:01
   CLOCK: [2014-02-19 Wed 15:23]--[2014-02-19 Wed 15:50] =>  0:27
@@ -2964,6 +2964,7 @@ When I set up scoring the day:
 ** NEXT Daily Plan [0/7]
    SCHEDULED: <2014-02-20 Thu .+1d/2d>
    :LOGBOOK:
+   CLOCK: [2014-02-20 Thu 08:49]
    - State "DONE"       from "NEXT"       [2014-02-19 Wed 08:29]
    CLOCK: [2014-02-19 Wed 08:08]--[2014-02-19 Wed 08:29] =>  0:21
    - State "DONE"       from "NEXT"       [2014-02-18 Tue 23:26]
