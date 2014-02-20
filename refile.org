@@ -162,3 +162,10 @@ I want to grab a paper from the internet, possibly the bib entry as well and the
   - State "DONE"       from "TODO"       [2014-02-18 Tue 23:26]
   :END:
 [2014-02-18 Tue 17:47]
+* TODO Set up generic publishing
+  :LOGBOOK:
+  CLOCK: [2014-02-20 Thu 09:08]--[2014-02-20 Thu 09:09] =>  0:01
+  :END:
+[2014-02-20 Thu 09:08]
+- I should just be able to publish a project with only specifying the directory and how I want it published (pdf, html, attachments etc.) without writing a publishing file for every project. 
+<2014-03-01 Sat>

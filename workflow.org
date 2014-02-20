@@ -1603,6 +1603,7 @@ Should run hg clone ssh://hg@bitbucket.org/pabryan/<proj>
   :END:
 ** Organisation
   :LOGBOOK:
+  CLOCK: [2014-02-20 Thu 09:09]
   CLOCK: [2014-02-20 Thu 08:44]--[2014-02-20 Thu 08:49] =>  0:05
   CLOCK: [2014-02-19 Wed 17:47]--[2014-02-19 Wed 17:52] =>  0:05
   CLOCK: [2014-02-19 Wed 17:09]--[2014-02-19 Wed 17:10] =>  0:01
@@ -2962,9 +2963,10 @@ When I set up scoring the day:
 - [ ] Collate data such as sleep, weight, exercise, diet etc.
 
 ** NEXT Daily Plan [0/7]
-   SCHEDULED: <2014-02-20 Thu .+1d/2d>
+   SCHEDULED: <2014-02-21 Fri .+1d/2d>
    :LOGBOOK:
-   CLOCK: [2014-02-20 Thu 08:49]
+   - State "DONE"       from "NEXT"       [2014-02-20 Thu 09:09]
+   CLOCK: [2014-02-20 Thu 08:49]--[2014-02-20 Thu 09:08] =>  0:19
    - State "DONE"       from "NEXT"       [2014-02-19 Wed 08:29]
    CLOCK: [2014-02-19 Wed 08:08]--[2014-02-19 Wed 08:29] =>  0:21
    - State "DONE"       from "NEXT"       [2014-02-18 Tue 23:26]
@@ -3404,7 +3406,7 @@ When I set up scoring the day:
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
    :ID:       ef051ee0-1113-4604-b355-450a5a47848b
-   :LAST_REPEAT: [2014-02-19 Wed 08:29]
+   :LAST_REPEAT: [2014-02-20 Thu 09:09]
    :LAST_REPEAT: [2014-01-25 Sat 12:49]
    :END:
 
