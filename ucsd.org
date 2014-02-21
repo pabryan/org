@@ -8244,6 +8244,9 @@ Lectures in calendar and tasks like planning lectures.
   :END:
 [2014-01-29 Wed 14:00]
 ******** TODO MT 2
+	 :LOGBOOK:
+	 CLOCK: [2014-02-21 Fri 13:49]
+	 :END:
 	 :PROPERTIES:
 	 :ID:       f3db625f-2a3a-4ec7-83c4-bc6d6219b757
 	 :END:
@@ -8262,9 +8265,10 @@ Lectures in calendar and tasks like planning lectures.
 	    Sent message to TA's. Waiting response.
 	  :END:
 
-********* NEXT Check exams
+********* DONE Check exams
 	  :LOGBOOK:
-	  CLOCK: [2014-02-21 Fri 13:10]
+	  - State "DONE"       from "NEXT"       [2014-02-21 Fri 13:49]
+	  CLOCK: [2014-02-21 Fri 13:10]--[2014-02-21 Fri 13:49] =>  0:39
 	  :END:
 ********* NEXT Prepare grading guide
 ********* NEXT Collect exams
