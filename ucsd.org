@@ -7769,7 +7769,7 @@ Lectures in calendar and tasks like planning lectures.
 <2014-02-14 Fri 12:00-13:00>
 ********* Lecture 7.3
 	  :LOGBOOK:
-	  CLOCK: [2014-02-21 Fri 11:42]
+	  CLOCK: [2014-02-21 Fri 11:42]--[2014-02-21 Fri 13:10] =>  1:28
 	  :END:
 <2014-02-21 Fri 12:00-13:00>
 ********* Lecture 8.3
@@ -8262,6 +8262,11 @@ Lectures in calendar and tasks like planning lectures.
 	    Sent message to TA's. Waiting response.
 	  :END:
 
+********* NEXT Check exams
+	  :LOGBOOK:
+	  CLOCK: [2014-02-21 Fri 13:10]
+	  :END:
+********* NEXT Prepare grading guide
 ********* NEXT Collect exams
 	  DEADLINE: <2014-02-26 Wed>
 
