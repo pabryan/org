@@ -628,9 +628,11 @@ Jonathan Chan
 <2013-12-06 Fri 13:00-14:00>
 <2013-11-19 Tue 11:00>
 ***** Tasks
-****** WAITING Book physio
+****** CANCELLED Book physio
   SCHEDULED: <2014-01-08 Wed>
   :LOGBOOK:
+  - State "CANCELLED"  from "WAITING"    [2014-02-21 Fri 15:37] \\
+    Can't be bothered with it any more!
   - State "WAITING"    from "TODO"       [2014-02-04 Tue 11:42] \\
     They will contact me to see if I need a new referral
   :END:
