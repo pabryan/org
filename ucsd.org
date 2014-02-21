@@ -7391,10 +7391,12 @@ Lectures in calendar and tasks like planning lectures.
 	   :PROPERTIES:
 	   :ID:       57347d45-de9f-44e4-a163-c95fc8f5346d
 	   :END:
-********** NEXT Lecture 8.1
+********** DONE Lecture 8.1
 	   DEADLINE: <2014-02-24 Mon>
 	   :LOGBOOK:
-	   CLOCK: [2014-02-21 Fri 13:55]
+	   - State "DONE"       from "NEXT"       [2014-02-21 Fri 14:46]
+	   CLOCK: [2014-02-21 Fri 14:25]--[2014-02-21 Fri 14:46] =>  0:21
+	   CLOCK: [2014-02-21 Fri 13:55]--[2014-02-21 Fri 14:00] =>  0:05
 	   CLOCK: [2014-02-21 Fri 11:36]--[2014-02-21 Fri 11:42] =>  0:06
 	   :END:
 	   :PROPERTIES:
@@ -7631,6 +7633,9 @@ Lectures in calendar and tasks like planning lectures.
 	 :END:
 ********* NEXT Collect exams
 	  DEADLINE: <2014-02-24 Mon>
+	  :LOGBOOK:
+	  CLOCK: [2014-02-21 Fri 14:46]
+	  :END:
 
 ********* WAITING Organise TA's to proctor
 	  :LOGBOOK:
@@ -8351,6 +8356,7 @@ Get it from cloud.sagemath and add it to my 20b working
 	:END:
 ******* Office hours
 	:LOGBOOK:
+	CLOCK: [2014-02-21 Fri 14:00]--[2014-02-21 Fri 14:25] =>  0:25
 	CLOCK: [2014-02-14 Fri 13:59]--[2014-02-14 Fri 15:09] =>  1:10
 	CLOCK: [2014-02-12 Wed 14:01]--[2014-02-12 Wed 14:55] =>  0:54
 	CLOCK: [2014-02-10 Mon 13:59]--[2014-02-10 Mon 15:00] =>  1:01
