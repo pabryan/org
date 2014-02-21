@@ -7633,9 +7633,6 @@ Lectures in calendar and tasks like planning lectures.
 	 :END:
 ********* NEXT Collect exams
 	  DEADLINE: <2014-02-24 Mon>
-	  :LOGBOOK:
-	  CLOCK: [2014-02-21 Fri 14:46]
-	  :END:
 
 ********* WAITING Organise TA's to proctor
 	  :LOGBOOK:
@@ -7958,8 +7955,11 @@ Lectures in calendar and tasks like planning lectures.
 	   :PROPERTIES:
 	   :ID:       03604c10-ad9e-4a35-80a3-232910d55ccf
 	   :END:
-********** TODO Lecture 8.1
+********** NEXT Lecture 8.1
 	   DEADLINE: <2014-02-24 Mon>
+	   :LOGBOOK:
+	   CLOCK: [2014-02-21 Fri 14:46]
+	   :END:
 	   :PROPERTIES:
 	   :ID:       48e51e63-5ea7-4d23-bdab-cdcd583217ea
 	   :END:
