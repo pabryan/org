@@ -7544,6 +7544,9 @@ Lectures in calendar and tasks like planning lectures.
 	   :END:
 ********** NEXT Lecture 7.3
 	   DEADLINE: <2014-02-21 Fri>
+	   :LOGBOOK:
+	   CLOCK: [2014-02-20 Thu 16:40]
+	   :END:
 	   :PROPERTIES:
 	   :ID:       e52eb4bd-18fe-44cb-9535-7a64344c1e5c
 	   :END:
