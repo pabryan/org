@@ -8482,12 +8482,12 @@ Center 101
 	  CLOCK: [2014-01-23 Thu 13:55]--[2014-01-23 Thu 14:54] =>  0:59
 	  :END:
 ******** MT2 meeting
-	  SCHEDULED: <2014-02-20 Thu 14:00-15:00>
+	  <2014-02-20 Thu 14:00-15:00>
 	  :LOGBOOK:
 	  CLOCK: [2014-02-20 Thu 13:55]--[2014-02-20 Thu 14:42] =>  0:47
 	  :END:
 ******** Final meeting
-	  SCHEDULED: <2014-03-06 Thu 14:00-15:00>
+	  <2014-03-06 Thu 14:00-15:00>
 ******* TA's
 ******** First meeting
 <2014-01-15 Wed 13:45-14:15>
@@ -9439,6 +9439,7 @@ Abstract:
 ****** Clocking
 ******* Radial curvature comparison seminar
         :LOGBOOK:
+	CLOCK: [2014-02-21 Fri 09:59]--[2014-02-21 Fri 10:59] =>  1:00
 	CLOCK: [2014-02-14 Fri 10:00]--[2014-02-14 Fri 11:06] =>  1:06
 	CLOCK: [2014-02-07 Fri 09:59]--[2014-02-07 Fri 11:21] =>  1:22
 	CLOCK: [2014-02-05 Wed 10:15]--[2014-02-05 Wed 11:22] =>  1:07
