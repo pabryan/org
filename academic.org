@@ -738,7 +738,11 @@ Try to use as much available software that I can find. Do it like Sage - don't r
        :ID:       5349a44a-61b3-4ba2-b795-cb73eac3482b
        :END:
 - Cleaning up text to be consistent, proper refs etc.
-******* NEXT Change small and large scale behaviour in comparison to use asymptotics
+******* DONE Change small and large scale behaviour in comparison to use asymptotics
+	:LOGBOOK:
+	- State "DONE"       from "NEXT"       [2014-02-20 Thu 16:38]
+	CLOCK: [2014-02-20 Thu 16:14]--[2014-02-20 Thu 16:38] =>  0:24
+	:END:
 	:PROPERTIES:
 	:ID:       a75942f7-4b42-433b-b839-dfe4720cc990
 	:END:
@@ -891,11 +895,17 @@ I have a lower bound for the numerator. To get an upper bound for the denominato
 	:END:
 Update comparison theorem to read \(I\geq \phi\) implies that \(\sup_M K_t \leq \phi''(0, t)/24\) or whatever the constant is.
 
-******* NEXT Change comparison theorem to explicitly use asymptotics
+******* DONE Change comparison theorem to explicitly use asymptotics
+	:LOGBOOK:
+	- State "DONE"       from "NEXT"       [2014-02-20 Thu 16:38]
+	:END:
 	:PROPERTIES:
 	:ID:       bc236144-ad90-4a4e-9c5c-c38831d40ab3
 	:END:
 ******* NEXT Write comparison theorem without strict equality
+	:LOGBOOK:
+	CLOCK: [2014-02-20 Thu 16:38]
+	:END:
 [2014-01-31 Fri 14:51]
 ****** DONE Things to fix
        :LOGBOOK:
