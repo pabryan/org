@@ -1603,6 +1603,7 @@ Should run hg clone ssh://hg@bitbucket.org/pabryan/<proj>
   :END:
 ** Organisation
   :LOGBOOK:
+  CLOCK: [2014-02-20 Thu 17:37]
   CLOCK: [2014-02-20 Thu 15:39]--[2014-02-20 Thu 16:14] =>  0:35
   CLOCK: [2014-02-20 Thu 14:42]--[2014-02-20 Thu 14:52] =>  0:10
   CLOCK: [2014-02-20 Thu 10:58]--[2014-02-20 Thu 11:15] =>  0:17
@@ -2701,8 +2702,10 @@ Set some goals for the month. I should check someday projects for inclusion in t
 Check how I did last month. I guess the review and plan could probably go together. This is all broad stuff
 
 ** NEXT Daily Review [0/10]
-   SCHEDULED: <2014-02-20 Thu .+1d/2d>
+   SCHEDULED: <2014-02-21 Fri .+1d/2d>
    :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2014-02-20 Thu 17:37]
+   CLOCK: [2014-02-20 Thu 17:21]--[2014-02-20 Thu 17:37] =>  0:16
    - State "DONE"       from "NEXT"       [2014-02-19 Wed 17:47]
    CLOCK: [2014-02-19 Wed 17:41]--[2014-02-19 Wed 17:47] =>  0:06
    - State "DONE"       from "NEXT"       [2014-02-18 Tue 23:27]
@@ -2945,7 +2948,7 @@ Check how I did last month. I guess the review and plan could probably go togeth
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
    :ID:       616c5bd9-d941-4fcc-8874-2ff3c9e96b4a
-   :LAST_REPEAT: [2014-02-19 Wed 17:47]
+   :LAST_REPEAT: [2014-02-20 Thu 17:37]
    :END:
 
 What to review:
