@@ -8372,7 +8372,7 @@ Get it from cloud.sagemath and add it to my 20b working
 	:END:
 ******* Piazza
 	:LOGBOOK:
-	CLOCK: [2014-02-24 Mon 15:28]
+	CLOCK: [2014-02-24 Mon 15:28]--[2014-02-24 Mon 15:48] =>  0:20
 	CLOCK: [2014-02-03 Mon 14:10]--[2014-02-03 Mon 14:27] =>  0:17
 	CLOCK: [2014-01-29 Wed 19:35]--[2014-01-29 Wed 22:00] =>  2:25
 	:END:
@@ -8411,6 +8411,9 @@ Center 101
 ********* Lecture 7.1
 <2014-02-17 Mon 16:00-17:00>
 ********* Lecture 8.1
+	  :LOGBOOK:
+	  CLOCK: [2014-02-24 Mon 15:48]
+	  :END:
 <2014-02-24 Mon 16:00-17:00>
 ********* Lecture 9.1
 <2014-03-03 Mon 16:00-17:00>
