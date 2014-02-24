@@ -8359,6 +8359,7 @@ Get it from cloud.sagemath and add it to my 20b working
 	:END:
 ******* Office hours
 	:LOGBOOK:
+	CLOCK: [2014-02-24 Mon 13:58]--[2014-02-24 Mon 14:50] =>  0:52
 	CLOCK: [2014-02-21 Fri 14:00]--[2014-02-21 Fri 14:25] =>  0:25
 	CLOCK: [2014-02-14 Fri 13:59]--[2014-02-14 Fri 15:09] =>  1:10
 	CLOCK: [2014-02-12 Wed 14:01]--[2014-02-12 Wed 14:55] =>  0:54
@@ -8371,6 +8372,7 @@ Get it from cloud.sagemath and add it to my 20b working
 	:END:
 ******* Piazza
 	:LOGBOOK:
+	CLOCK: [2014-02-24 Mon 15:28]
 	CLOCK: [2014-02-03 Mon 14:10]--[2014-02-03 Mon 14:27] =>  0:17
 	CLOCK: [2014-01-29 Wed 19:35]--[2014-01-29 Wed 22:00] =>  2:25
 	:END:
