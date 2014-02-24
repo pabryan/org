@@ -7701,6 +7701,9 @@ Lectures in calendar and tasks like planning lectures.
 ********* Lecture 7.1
 <2014-02-17 Mon 12:00-13:00>
 ********* Lecture 8.1
+	  :LOGBOOK:
+	  CLOCK: [2014-02-24 Mon 11:48]
+	  :END:
 <2014-02-24 Mon 12:00-13:00>
 ********* Lecture 9.1
 <2014-03-03 Mon 12:00-13:00>
@@ -9624,19 +9627,21 @@ Round Table Pizza.
 * Grants
 ** Simons Travel grants
 *** 2014
+    DEADLINE: <2014-03-31 Mon -2m>
 **** Tasks
-***** NEXT Apply for Simons travel grant
-  DEADLINE: <2014-03-31 Mon -2m>
+***** NEXT Gather information for Simons travel grant
   :LOGBOOK:
   CLOCK: [2014-02-06 Thu 10:27]--[2014-02-06 Thu 10:43] =>  0:16
   CLOCK: [2014-01-31 Fri 17:41]--[2014-01-31 Fri 17:43] =>  0:02
   :END:
 [2014-01-31 Fri 17:41]
-http://www.ams.org/programs/travel-grants/AMS-SimonsTG
+***** NEXT Prepare CV
+***** NEXT Write Research statement
 **** Notes
 ***** Application documents
+http://www.ams.org/programs/travel-grants/AMS-SimonsTG
 ****** CV
-The CV should be limited to two pages, and should include the following sections, and be limited to professional information only: Education and training (including thesis advisor(s), institutions, departments, degrees and dates), Appointments (list all academic or professional appointments, beginning with current appointment), and a list of submitted, accepted or published books and papers as of 31 March 2014 (include names of all authors, article and journal title, volume, page, year).
+       The CV should be limited to two pages, and should include the following sections, and be limited to professional information only: Education and training (including thesis advisor(s), institutions, departments, degrees and dates), Appointments (list all academic or professional appointments, beginning with current appointment), and a list of submitted, accepted or published books and papers as of 31 March 2014 (include names of all authors, article and journal title, volume, page, year).
 ****** Research statement
 A statement of current research, starting with a half page scientific summary accessible to a non-specialist mathematician. The document should be limited to two and a half pages.
 ****** Rationale for travel support
