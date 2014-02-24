@@ -7631,8 +7631,11 @@ Lectures in calendar and tasks like planning lectures.
 	 - State "DONE"       from "NEXT"       [2014-02-17 Mon 21:23]
 	 CLOCK: [2014-02-17 Mon 21:05]--[2014-02-17 Mon 21:23] =>  0:18
 	 :END:
-********* NEXT Collect exams
+********* DONE Collect exams
 	  DEADLINE: <2014-02-24 Mon>
+	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2014-02-24 Mon 13:47]
+	  :END:
 
 ********* WAITING Organise TA's to proctor
 	  :LOGBOOK:
@@ -7702,7 +7705,7 @@ Lectures in calendar and tasks like planning lectures.
 <2014-02-17 Mon 12:00-13:00>
 ********* Lecture 8.1
 	  :LOGBOOK:
-	  CLOCK: [2014-02-24 Mon 11:48]
+	  CLOCK: [2014-02-24 Mon 11:48]--[2014-02-24 Mon 13:47] =>  1:59
 	  :END:
 <2014-02-24 Mon 12:00-13:00>
 ********* Lecture 9.1
