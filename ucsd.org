@@ -8728,8 +8728,11 @@ http://urp.ucsd.edu/
 	 - State "DONE"       from "NEXT"       [2014-02-09 Sun 22:44]
 	 CLOCK: [2014-02-09 Sun 21:27]--[2014-02-09 Sun 22:44] =>  1:17
 	 :END:
-******** NEXT Prepare smooth functions lecture
+******** DONE Prepare smooth functions lecture
 	 DEADLINE: <2014-02-24 Mon>
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2014-02-24 Mon 11:14]
+	 :END:
 ******* DONE Send DG notes
   DEADLINE: <2014-02-10 Mon>
   :LOGBOOK:
@@ -8771,7 +8774,7 @@ http://urp.ucsd.edu/
 <2014-02-19 Wed 09:00-11:00>
 ******** DG6
 	 :LOGBOOK:
-	 CLOCK: [2014-02-24 Mon 09:02]
+	 CLOCK: [2014-02-24 Mon 09:02]--[2014-02-24 Mon 11:08] =>  2:06
 	 :END:
 <2014-02-24 Mon 09:00-11:00>
 ******** DG7
@@ -9113,21 +9116,12 @@ homeomorphic to S^4 or to a connected sum of CP^2s.
 - Title: Hodge theory on compact symplectic manifolds with boundary
 - Abstract: We study Hodge theory for symplectic Laplacians on compact symplectic manifolds with boundary. These Laplacians are novel as they can be associated with symplectic cohomologies and be of fourth-order. We prove various Hodge decompositions and use them to obtain the isomorphisms between the cohomologies and the spaces of harmonic ﬁelds with certain prescribed boundary conditions. In order to establish Hodge theory in the non-vanishing boundary case, we are required to introduce new concepts such as the J!Dirichlet boundary condition and the J!Neumann boundary condition. When the boundary is of contact type, these conditions are closely related to the Reeb vector ﬁeld. Another application of our results is to solve boundary value problems of differential forms.
 *** Tasks
-**** DONE Ask Ben about Inviting ZhiQin Lu to speak at DG conference
-    - State "DONE"       from "SOMEDAY"    [2013-02-01 Fri 11:13]
-[[zlu@math.uci.edu][zlu@math.uci.edu]]
-  CLOCK: [2012-10-25 Thu 11:31]--[2012-10-25 Thu 11:32] =>  0:01
-    :PROPERTIES:
-    :ID:       828697b9-0021-4c0f-9c8d-57f9fed278f9
-    :END:
-[2012-10-25 Thu 11:31]
-
 **** DONE Set up reminder for seminar announcement
     - State "DONE"       from "NEXT"       [2012-11-03 Sat 18:51]
   CLOCK: [2012-10-26 Fri 15:07]--[2012-10-26 Fri 15:08] =>  0:01
 [2012-10-26 Fri 15:07]
 **** NEXT Send DG seminar email announcement
-     DEADLINE: <2014-02-27 Thu +1w -5d>
+     DEADLINE: <2014-03-06 Thu +1w -5d>
      
     - State "HOLD"       from "NEXT"       [2013-03-29 Fri 10:43] \\
       Lei and I will do an informal seminar instead.
@@ -9142,6 +9136,7 @@ homeomorphic to S^4 or to a connected sum of CP^2s.
     - State "DONE"       from "NEXT"       [2012-12-06 Thu 14:00]
     - State "DONE"       from "TODO"       [2012-11-29 Thu 09:46]
     :LOGBOOK:
+    - State "DONE"       from "NEXT"       [2014-02-24 Mon 11:15]
     - State "DONE"       from "NEXT"       [2014-02-17 Mon 18:54]
     - State "DONE"       from "NEXT"       [2014-02-10 Mon 11:11]
     - State "DONE"       from "NEXT"       [2014-02-02 Sun 13:17]
@@ -9164,7 +9159,7 @@ homeomorphic to S^4 or to a connected sum of CP^2s.
     :PROPERTIES:
     :ID:       0f19da7c-65a3-4e95-8a91-78d12caa46da
     :REPEAT_TO_STATE: NEXT
-    :LAST_REPEAT: [2014-02-17 Mon 18:54]
+    :LAST_REPEAT: [2014-02-24 Mon 11:15]
     :END: 
 
 [[mailto:seminarstaff@math.ucsd.edu]]
@@ -9180,7 +9175,20 @@ Location: AP&M 7218
 
 Abstract:
 
-**** DONE Organise Somali's talk
+**** Speakers
+***** DONE Ask Ben about Inviting ZhiQin Lu to speak at DG conference
+    - State "DONE"       from "SOMEDAY"    [2013-02-01 Fri 11:13]
+[[zlu@math.uci.edu][zlu@math.uci.edu]]
+  CLOCK: [2012-10-25 Thu 11:31]--[2012-10-25 Thu 11:32] =>  0:01
+    :PROPERTIES:
+    :ID:       828697b9-0021-4c0f-9c8d-57f9fed278f9
+    :END:
+[2012-10-25 Thu 11:31]
+
+***** NEXT Email habib from UCI to give a talk
+      DEADLINE: <2014-02-25 Tue>
+**** Talks
+***** DONE Organise Somali's talk
     - State "DONE"       from "NEXT"       [2012-12-20 Thu 11:14]
     - State "NEXT"       from "WAITING"    [2012-12-06 Thu 16:02]
   - State "WAITING"    from "TODO"       [2012-11-27 Tue 12:32] \\
@@ -9194,7 +9202,7 @@ Abstract:
 [2012-11-27 Tue 12:32]
 
 [2013-01-08 Tue 10:00-11:00]
-**** DONE Organise Christian Baer's talk
+***** DONE Organise Christian Baer's talk
     - State "DONE"       from "NEXT"       [2012-12-20 Thu 11:05]
     :LOGBOOK:
     CLOCK: [2012-12-20 Thu 10:49]--[2012-12-20 Thu 11:05] =>  0:16
@@ -9205,7 +9213,7 @@ Abstract:
     :END:
 [2013-01-10 Thu 15:00-16:00]
 
-**** DONE Give talk on Brendle's proof of Lawson conjecture
+***** DONE Give talk on Brendle's proof of Lawson conjecture
     - State "DONE"       from "NEXT"       [2013-02-01 Fri 11:13]
    DEADLINE: <2013-01-31 Thu> SCHEDULED: <2013-01-17 Thu>
   :LOGBOOK:
@@ -9241,9 +9249,22 @@ Location: AP&M 7218
 
 Abstract: In 1970, Lawson conjectured that the only embedded minimal torus in $S^3$ is the Clifford torus. Recently using a non-collapsing technique developed by Ben Andrews, Simon Brendle was able to give an affirmative answer to this question. I'll discuss the non-collapsing ideas and how they lead to Brendle's proof of the Lawson conjecture.
 
+***** DONE Prepare talk for next week
+    - State "DONE"       from "NEXT"       [2012-10-24 Wed 13:15]
+  CLOCK: [2012-10-16 Tue 08:28]--[2012-10-16 Tue 08:28] =>  0:00
+    :PROPERTIES:
+    :ID:       b7a65ab1-a46a-43db-8c55-6cd686ce7551
+    :END:
+[2012-10-16 Tue 08:28]
 
+***** DONE Email Ben, Lei and Jim about possible speakers.
+     - State "DONE"       from "NEXT"       [2012-10-26 Fri 15:01]
+     :PROPERTIES:
+     :ID:       80623a86-568e-416a-85de-895be875f516
+     :END:
 
-**** DONE Set up seminars from Lei
+**** Organising
+***** DONE Set up seminars from Lei
     - State "DONE"       from "TODO"       [2013-01-17 Thu 16:43]
     :PROPERTIES:
     :ID:       7e926acb-b2c3-4055-92b3-012c70579a4c
@@ -9283,7 +9304,7 @@ essential difficulties of the elliptic method previously adapted by
 many people without being able to prove the best possible result. This
 is a joint work with Luen-Fai Tam.
 
-**** TODO Set up seminar creation process
+***** TODO Set up seminar creation process
   :LOGBOOK:
   CLOCK: [2013-01-09 Wed 07:38]--[2013-01-09 Wed 07:41] =>  0:03
   :END:
@@ -9293,37 +9314,23 @@ is a joint work with Luen-Fai Tam.
 [2013-01-09 Wed 07:38]
 
 It should make the relevant web entry and also the email notice. Possibly I could have a capture template with properties which I fill in. Then it can be stored as either a date tree (best I think!) or just one long list? I should be able fill in the relevant details (title, speaker, abstract etc. say in a properties drawer) and then export the web entry and email.
-**** DONE Plan DG Seminar
-   - State "DONE"       from "TODO"       [2012-10-29 Mon 10:23]
-   :PROPERTIES:
-   :ID:       4971ad3c-684f-45df-9002-ce8bead60ce7
-   :END:
-**** DONE Prepare talk for next week
-    - State "DONE"       from "NEXT"       [2012-10-24 Wed 13:15]
-  CLOCK: [2012-10-16 Tue 08:28]--[2012-10-16 Tue 08:28] =>  0:00
+***** DONE Plan DG Seminar
+    - State "DONE"       from "TODO"       [2012-10-29 Mon 10:23]
     :PROPERTIES:
-    :ID:       b7a65ab1-a46a-43db-8c55-6cd686ce7551
+    :ID:       4971ad3c-684f-45df-9002-ce8bead60ce7
     :END:
-[2012-10-16 Tue 08:28]
+***** DONE Make seminar website
+     :PROPERTIES:
+     :ID:       bbb38675-1efc-4046-8606-3c0f2524dc72
+     :END:
+     - State "DONE"       from "NEXT"       [2012-10-19 Fri 15:24]
 
-**** DONE Make seminar website
-    :PROPERTIES:
-    :ID:       bbb38675-1efc-4046-8606-3c0f2524dc72
-    :END:
-    - State "DONE"       from "NEXT"       [2012-10-19 Fri 15:24]
-
-**** DONE Advertise seminar
-    - State "DONE"       from "NEXT"       [2012-10-26 Fri 15:01]
-    :PROPERTIES:
-    :ID:       4840471b-e6b2-4079-b67c-7b261adf77d6
-    :END:
-    email math-grad, general math list?
-**** DONE Email Ben, Lei and Jim about possible speakers.
-    - State "DONE"       from "NEXT"       [2012-10-26 Fri 15:01]
-    :PROPERTIES:
-    :ID:       80623a86-568e-416a-85de-895be875f516
-    :END:
-
+***** DONE Advertise seminar
+     - State "DONE"       from "NEXT"       [2012-10-26 Fri 15:01]
+     :PROPERTIES:
+     :ID:       4840471b-e6b2-4079-b67c-7b261adf77d6
+     :END:
+     email math-grad, general math list?
 ** UCSD Informal Seminars
 **** DONE GMT Seminar
      - State "DONE"       from "TODO"       [2013-06-10 Mon 09:29]
