@@ -7670,6 +7670,7 @@ Lectures in calendar and tasks like planning lectures.
 	:END:
 ******* Piazza
 	:LOGBOOK:
+	CLOCK: [2014-02-24 Mon 17:02]
 	CLOCK: [2014-02-03 Mon 13:55]--[2014-02-03 Mon 14:10] =>  0:15
 	:END:
 ****** Schedule
@@ -8412,7 +8413,7 @@ Center 101
 <2014-02-17 Mon 16:00-17:00>
 ********* Lecture 8.1
 	  :LOGBOOK:
-	  CLOCK: [2014-02-24 Mon 15:48]
+	  CLOCK: [2014-02-24 Mon 15:48]--[2014-02-24 Mon 17:02] =>  1:14
 	  :END:
 <2014-02-24 Mon 16:00-17:00>
 ********* Lecture 9.1
