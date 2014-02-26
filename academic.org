@@ -2969,8 +2969,12 @@ a
       :LOGBOOK:
       - State "DONE"       from "NEXT"       [2014-02-17 Mon 10:39]
       :END:
-***** NEXT Submit reimbursement form
+***** DONE Submit reimbursement form
       DEADLINE: <2014-02-25 Tue>
+      :LOGBOOK:
+      - State "DONE"       from "NEXT"       [2014-02-25 Tue 16:46]
+      CLOCK: [2014-02-25 Tue 15:57]--[2014-02-25 Tue 16:46] =>  0:49
+      :END:
 **** Meet Lei in car park 207
 <2014-02-22 Sat 09:00>
 ** DONE PNGS 2013
@@ -3578,13 +3582,19 @@ http://www.mathjobs.org/jobs/jobs/5668
 ** TODO Tasks
 ** People
 *** Mu-Tao Wang
-**** NEXT Contact Mu-Tao about visiting next year
+**** DONE Contact Mu-Tao about visiting next year
      DEADLINE: <2014-02-25 Tue>
+     :LOGBOOK:
+     - State "DONE"       from "NEXT"       [2014-02-25 Tue 16:55]
+     :END:
 **** NEXT Prepare high codimension MCF support fn
      SCHEDULED: <2014-04-07 Mon>
 *** Hubert Bray
 **** NEXT Contact Hubert about visiting next year
 *** Yanir Rubinstein
-**** NEXT Contact Yanir about visiting next year
+**** DONE Contact Yanir about visiting next year
      DEADLINE: <2014-02-25 Tue>
+     :LOGBOOK:
+     - State "DONE"       from "NEXT"       [2014-02-25 Tue 17:01]
+     :END:
 *** 
