@@ -913,13 +913,13 @@ Update comparison theorem to read \(I\geq \phi\) implies that \(\sup_M K_t \leq 
 	:PROPERTIES:
 	:ID:       bc236144-ad90-4a4e-9c5c-c38831d40ab3
 	:END:
-******* NEXT Write comparison theorem without strict equality
+******* DONE Write comparison theorem without strict equality
 	:LOGBOOK:
-	CLOCK: [2014-02-25 Tue 19:05]
+	- State "DONE"       from "NEXT"       [2014-02-25 Tue 19:40]
+	CLOCK: [2014-02-25 Tue 19:05]--[2014-02-25 Tue 19:40] =>  0:35
 	CLOCK: [2014-02-20 Thu 16:38]--[2014-02-20 Thu 16:40] =>  0:02
 	:END:
 [2014-01-31 Fri 14:51]
-- Need to show that $\phi\phi'' - (\phi')^2 \ne 0$.
 ****** DONE Things to fix
        :LOGBOOK:
        - State "DONE"       from "TODO"       [2014-02-20 Thu 09:35]
