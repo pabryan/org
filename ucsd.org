@@ -7748,6 +7748,9 @@ Lectures in calendar and tasks like planning lectures.
 	  :END:
 <2014-02-19 Wed 12:00-13:00>
 ********* Lecture 8.2
+	  :LOGBOOK:
+	  CLOCK: [2014-02-26 Wed 11:49]
+	  :END:
 <2014-02-26 Wed 12:00-13:00>
 ********* Lecture 9.2
 <2014-03-05 Wed 12:00-13:00>
