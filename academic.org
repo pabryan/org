@@ -941,6 +941,12 @@ Update comparison theorem to read \(I\geq \phi\) implies that \(\sup_M K_t \leq 
 	:END:
 The sentence before is also wrong.
 The $K$ term should be divided by $8\pi$.
+****** TODO Publish
+******* NEXT Put on ArXiv
+	 DEADLINE: <2014-03-07 Fri>
+******* NEXT Ask Ben where to publish
+	 DEADLINE: <2014-03-07 Fri>
+
 ***** Notes
 ***** References
 **** TODO alpha CSF distance comparison				  :CSF_ALPHA:
@@ -1751,6 +1757,8 @@ We would do it all in Minkowski space. I think the vector field gives the distan
        :PROPERTIES:
        :ID:       4f27c099-1b3f-44a1-b38d-394b791aabef
        :END:
+****** NEXT Follow up with Steve Roberts
+       SCHEDULED: <2014-05-01 Thu>
 ***** Notes
 ***** References
 **** TODO csf_networks					       :CSF_NETWORKS:
