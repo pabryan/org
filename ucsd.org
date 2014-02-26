@@ -8045,10 +8045,11 @@ Lectures in calendar and tasks like planning lectures.
 	   :PROPERTIES:
 	   :ID:       a11590f1-72fb-43ad-91ed-7a9f8c28f78a
 	   :END:
-********** NEXT Lecture 8.2
+********** DONE Lecture 8.2
 	   DEADLINE: <2014-02-26 Wed>
 	   :LOGBOOK:
-	   CLOCK: [2014-02-25 Tue 17:57]
+	   - State "DONE"       from "NEXT"       [2014-02-25 Tue 18:23]
+	   CLOCK: [2014-02-25 Tue 17:57]--[2014-02-25 Tue 18:23] =>  0:26
 	   :END:
 	   :PROPERTIES:
 	   :ID:       c969b6b0-ca5f-4dce-a36d-ac8d5b847a09
@@ -8684,7 +8685,10 @@ http://tutorial.math.lamar.edu/
 
 ** Students
 *** References
-**** TODO Write Reference letter for Joel Pazol
+**** DONE Write Reference letter for Joel Pazol
+     :LOGBOOK:
+     - State "DONE"       from "TODO"       [2014-02-25 Tue 18:24]
+     :END:
      DEADLINE: 
 <2013-06-28 Fri>
      - State "TODO"       from "DONE"       [2013-06-25 Tue 21:13]
@@ -8692,6 +8696,11 @@ http://tutorial.math.lamar.edu/
      :ID:       f220f7b9-a94a-4120-9757-4bd7dbd25cab
      :END:
 See Holding email.
+**** NEXT Caitlin Endler
+     DEADLINE: <2014-03-07 Fri>
+For the Central Michigan University one, the letter is to be sent to REU@cmich.edu.
+For the Fields Institute one, the letter is to be sent in .pdf format to
+programs@fields.utoronto.ca.
 *** Undergraduate projects
 **** Notes
 http://urp.ucsd.edu/
