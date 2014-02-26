@@ -181,13 +181,22 @@ I want to do teaching with sage-tex and/or org-mode with babel; i.e. interactive
 ** DECRA
 *** 2014
 **** Tasks
-***** WAITING Contact Peter Bouwgnet to apply through ANU
+***** DONE Contact Peter Bouwgnet to apply through ANU
       DEADLINE: <2014-02-28 Fri>
       :LOGBOOK:
+      - State "DONE"       from "WAITING"    [2014-02-26 Wed 11:07]
       - State "WAITING"    from "NEXT"       [2014-02-24 Mon 17:15] \\
 	Waiting to hear back to see if they'll approve my application.
       :END:
 
+***** NEXT Investigate DECRA grant process
+      DEADLINE: <2014-03-07 Fri>
+***** WAITING Get information from ANU about grants
+      DEADLINE: <2014-03-07 Fri>
+      :LOGBOOK:
+      - State "WAITING"    from "NEXT"       [2014-02-26 Wed 11:07] \\
+	Waiting on Peter Bouwknegt to send info
+      :END:
 **** Notes
 * Journals
   :PROPERTIES:
