@@ -8288,7 +8288,12 @@ Lectures in calendar and tasks like planning lectures.
 	  - State "DONE"       from "NEXT"       [2014-02-21 Fri 13:49]
 	  CLOCK: [2014-02-21 Fri 13:10]--[2014-02-21 Fri 13:49] =>  0:39
 	  :END:
-********* NEXT Prepare grading guide
+********* DONE Prepare grading guide
+	  DEADLINE: <2014-02-28 Fri>
+	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2014-02-26 Wed 14:37]
+	  CLOCK: [2014-02-26 Wed 13:48]--[2014-02-26 Wed 14:37] =>  0:49
+	  :END:
 ********* DONE Collect exams
 	  DEADLINE: <2014-02-26 Wed>
 	  :LOGBOOK:
