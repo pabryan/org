@@ -208,8 +208,8 @@ I want to do teaching with sage-tex and/or org-mode with babel; i.e. interactive
 ***** TODO Proposal
 ****** NEXT Create skeleton proposal
 ***** Timeline
-****** TODO Submit proposal
-       DEADLINE: <2014-03-16 Sun>
+****** TODO Submit DECRA proposal
+       DEADLINE: <2014-03-16 Sun -3w>
 ****** TODO Submit revised proposal
        DEADLINE: <2014-03-27 Thu>
 ****** ARC Deadline
