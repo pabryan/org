@@ -1473,13 +1473,19 @@ That is, Ben and Janelle have proven the backward convergence, and to finish we 
        :END:
 ****** TODO Write paper
 ******* NEXT Write paper outline
+	:LOGBOOK:
+	CLOCK: [2014-02-27 Thu 14:35]
+	:END:
 ******* NEXT Write details of curvature bounds
 ******* TODO Write details of convergence to equator
 ******* NEXT Write details of Alexandrov reflection
-******* TODO Write proof of lying in hemisphere
+******* NEXT Write proof of lying in hemisphere
+******* TODO Write introduction
+******* NEXT Write notation/prelim
 ****** TODO Maths
-******* NEXT Prove ancient solutions lie in a hemisphere
+******* DONE Prove ancient solutions lie in a hemisphere
 	:LOGBOOK:
+	- State "DONE"       from "NEXT"       [2014-02-27 Thu 14:35]
 	CLOCK: [2014-02-04 Tue 16:27]--[2014-02-04 Tue 16:41] =>  0:14
 	:END:
 ******* NEXT Find out if $\curvecurv>0$ for ancient solutions (Harnack?)
