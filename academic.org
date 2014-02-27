@@ -193,7 +193,8 @@ I want to do teaching with sage-tex and/or org-mode with babel; i.e. interactive
 ****** NEXT Investigate DECRA grant process and setup tasks/deadlines
        DEADLINE: <2014-03-07 Fri>
        :LOGBOOK:
-       CLOCK: [2014-02-27 Thu 10:48]
+       CLOCK: [2014-02-27 Thu 11:17]
+       CLOCK: [2014-02-27 Thu 10:48]--[2014-02-27 Thu 11:05] =>  0:17
        :END:
 ****** DONE Get information from ANU about grants
        DEADLINE: <2014-03-07 Fri>
@@ -756,6 +757,9 @@ Try to use as much available software that I can find. Do it like Sage - don't r
        	:ID:       f209c72e-822e-45e0-bf45-4ee4e36f7c58
        	:END:
 ******* NEXT Write introduction
+	:LOGBOOK:
+	CLOCK: [2014-02-27 Thu 11:05]--[2014-02-27 Thu 11:17] =>  0:12
+	:END:
        	:PROPERTIES:
        	:ID:       bbf31667-eee4-439b-abd6-cb0fd52e37fe
        	:END:
