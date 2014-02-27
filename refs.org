@@ -372,6 +372,12 @@
 :END:
 [[papers:MR1375255][MR1375255-paper]]
 [[bib:MR1375255][MR1375255-bib]]
+***** The {R}icci flow on the {$2$}-sphere
+:PROPERTIES:
+:Custom_ID: MR1094458
+:END:
+[[papers:MR1094458][MR1094458-paper]]
+[[bib:MR1094458][MR1094458-bib]]
 **** 53C25   (1973-now) Special Riemannian manifolds (Einstein, Sasakian, etc.) :riemannian:
 ***** Four-manifolds with positive curvature operator :four_manifold:ricci_flow:evolution:
 :PROPERTIES:
