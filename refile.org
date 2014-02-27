@@ -138,7 +138,7 @@ Send max principle arg for dist comp to students
 [2014-02-10 Mon 15:45]
 How do I choose which course?
 * TODO Work out paper getting procedure
-  SCHEDULED: <2014-03-01 Mon>
+  SCHEDULED: <2014-04-01 Tue>
   :LOGBOOK:
   CLOCK: [2014-02-11 Tue 12:54]--[2014-02-11 Tue 12:55] =>  0:01
   :END:
@@ -168,7 +168,7 @@ I want to grab a paper from the internet, possibly the bib entry as well and the
   :END:
 [2014-02-20 Thu 09:08]
 - I should just be able to publish a project with only specifying the directory and how I want it published (pdf, html, attachments etc.) without writing a publishing file for every project. 
-<2014-03-01 Sat>
+<2014-04-01 Tue>
 * TODO Create project agenda view
   :LOGBOOK:
   CLOCK: [2014-02-20 Thu 09:10]--[2014-02-20 Thu 09:11] =>  0:01
@@ -176,7 +176,7 @@ I want to grab a paper from the internet, possibly the bib entry as well and the
 [2014-02-20 Thu 09:10]
 
 It would be nice to narrow to a project and have it display sub-projects in an easy to browse manner
-<2014-03-01 Sat>
+<2014-04-01 Tue>
 * TODO Set up pdf metadata
   SCHEDULED: <2014-04-07 Mon>
 [2014-02-24 Mon 11:21]

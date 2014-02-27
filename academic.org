@@ -2406,7 +2406,7 @@ I could also have author, title, date etc. in the properties drawer! This is red
 No! Maybe I can use reftex and get it to take me to the entry in refs.org? I can certainly due this manually, using reftex to take me to the bib file which gives the ID which I can search for in the org file. Then I don't need to maintain duplicate info in the org and bib files and have all the power of reftex available.
 I'd like to be able to use org-mode views to show papers/books by a given author or by subject. Maybe I can have some sort of hook that uses reftex to do the search and return a list of ID's which is then the filter for org-mode views.
 **** TODO Improve referencing
-  SCHEDULED: <2014-03-01 Sat>
+  SCHEDULED: <2014-04-01 Tue>
   :LOGBOOK:
   CLOCK: [2013-11-16 Sat 10:34]--[2013-11-16 Sat 10:38] =>  0:04
   :END:
@@ -2522,7 +2522,7 @@ Schedule time for research, for teaching and for non-research academic work (e.g
     :END:
 [2013-07-15 Mon 10:02]
 *** TODO Make create research project capture
-  SCHEDULED: <2014-03-01 Sat>
+  SCHEDULED: <2014-04-01 Tue>
     :PROPERTIES:
     :ID:       89aab08c-03b4-4561-b868-45bc0088ba34
     :END:
@@ -2808,7 +2808,7 @@ http://mathoverflow.net/questions/14877/how-much-of-differential-geometry-can-be
 ** Open Notebook
 *** Tasks
 **** NEXT Research starting an open notebook
-  SCHEDULED: <2014-03-01 Sat>
+  SCHEDULED: <2014-04-01 Tue>
   :LOGBOOK:
   CLOCK: [2013-08-06 Tue 20:54]--[2013-08-06 Tue 20:55] =>  0:01
   :END:
@@ -3596,7 +3596,8 @@ http://www.mathjobs.org/jobs/jobs/5668
 - Contact: Professor Joseph Grotowsk, +61-7-3365-3260, grotow@maths.uq.edu.au
 - application: [[file:~/working/academic/jobs/job_applications/495529_uq_2015]]
 ** Tasks
-*** TODO Write research proposal/statement<2014-03-01 Sat>
+*** TODO Write research proposal/statement
+<2014-04-01 Tue>
 * Visiting
 ** TODO Tasks
 ** People

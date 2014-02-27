@@ -9,7 +9,7 @@
 ** Tasks
 *** Web Publishing
 **** TODO org-mode sync/web access
-    SCHEDULED: <2014-03-01 Sat>
+    SCHEDULED: <2014-04-01 Tue>
     :LOGBOOK:
     CLOCK: [2013-07-03 Wed 10:06]--[2013-07-03 Wed 10:09] =>  0:03
     :END:
@@ -95,7 +95,7 @@ Should be able to insert lecture planning/homework etc with a yassnippet?
 [2013-09-30 Mon 21:15]
 Add goals to agenda to remind myself each day. E.g. work, diet, exercise, general things like be patient, don't over-explain things etc.
 **** TODO Setup some agenda filter macros
-  SCHEDULED: <2014-03-01 Sat>
+  SCHEDULED: <2014-04-01 Tue>
   :PROPERTIES:
   :ID:       b7060562-fc53-44b0-8f52-d84dce4c177f
   :END:
@@ -472,7 +472,7 @@ If I'm working on a project, I want an agenda view showing me just that project.
 [2013-03-14 Thu 14:05]
 
 *** NEXT Use org-checklists
-    SCHEDULED: <2014-03-01 Sat>
+    SCHEDULED: <2014-04-01 Tue>
     :LOGBOOK:
     - State "NEXT"       from "WAITING"    [2013-10-27 Sun 20:31] \\
       I doesn't seem to work on Ubuntu 12.04. Maybe I need to downgrade it?
@@ -562,14 +562,14 @@ Do I make a different TODO keyword for more trying out things/open ended type re
     :END:
 - This is just the ordinary diff with headlines thought of as files/directories (which can contain content and also other files which is slightly different to the filesystem). Recursing is just recursing headlines and reports can say things like "Headlines A and B differ" and we can show differences in contents of headlines.
 *** TODO Org calendar to google calendar
-  SCHEDULED: <2014-03-01 Sat>
+  SCHEDULED: <2014-04-01 Tue>
   :PROPERTIES:
   :ID:       00fc3ef7-df16-48c3-8fa3-f5b16e6c10d2
   :END:
 [2013-09-03 Tue 21:27]
 http://orgmode.org/worg/org-tutorials/org-google-sync.html
 *** TODO Focus agenda view should show next tasks for project?
-  SCHEDULED: <2014-03-01 Sat>
+  SCHEDULED: <2014-04-01 Tue>
   :LOGBOOK:
   CLOCK: [2013-09-14 Sat 19:43]--[2013-09-14 Sat 19:44] =>  0:01
   :END:
@@ -983,7 +983,7 @@ Levenger?
 - Projects should have a larger folder with papers, notes etc.
 
 *** TODO Make weekly paper review/check task
-  SCHEDULED: <2014-03-01 Thu>
+  SCHEDULED: <2014-04-01 Tue>
   :LOGBOOK:
   CLOCK: [2013-08-27 Tue 10:33]--[2013-08-27 Tue 10:34] =>  0:01
   :END:
@@ -1485,7 +1485,7 @@ http://askubuntu.com/questions/198136/error-when-trying-to-connect-to-vpn-on-sta
 - oldpaul
 - uni 
 ** TODO organise external working
-  SCHEDULED: <2014-03-01 Sat>
+  SCHEDULED: <2014-04-01 Tue>
   :LOGBOOK:
   CLOCK: [2013-08-06 Tue 21:01]--[2013-08-06 Tue 21:05] =>  0:04
   :END:
@@ -1523,7 +1523,7 @@ http://askubuntu.com/questions/198136/error-when-trying-to-connect-to-vpn-on-sta
 [2013-08-06 Tue 21:05]
 this way I can track upstream and keep my work independent and then merge, push to upstream etc. as appropriate
 ** TODO Make a list of required software
-  SCHEDULED: <2014-03-01 Sat>
+  SCHEDULED: <2014-04-01 Tue>
   :LOGBOOK:
   CLOCK: [2013-08-09 Fri 09:20]--[2013-08-09 Fri 09:22] =>  0:02
   :END:
@@ -1603,6 +1603,7 @@ Should run hg clone ssh://hg@bitbucket.org/pabryan/<proj>
   :END:
 ** Organisation
   :LOGBOOK:
+  CLOCK: [2014-02-27 Thu 10:25]--[2014-02-27 Thu 10:36] =>  0:11
   CLOCK: [2014-02-26 Wed 17:25]--[2014-02-26 Wed 17:40] =>  0:15
   CLOCK: [2014-02-26 Wed 14:37]--[2014-02-26 Wed 14:42] =>  0:05
   CLOCK: [2014-02-26 Wed 11:21]--[2014-02-26 Wed 11:49] =>  0:28
@@ -2998,6 +2999,7 @@ When I set up scoring the day:
 ** NEXT Daily Plan [0/7]
    SCHEDULED: <2014-02-27 Thu .+1d/2d>
    :LOGBOOK:
+   CLOCK: [2014-02-27 Thu 10:36]
    - State "DONE"       from "NEXT"       [2014-02-26 Wed 11:21]
    CLOCK: [2014-02-26 Wed 11:08]--[2014-02-26 Wed 11:21] =>  0:13
    - State "DONE"       from "NEXT"       [2014-02-25 Tue 15:55]
