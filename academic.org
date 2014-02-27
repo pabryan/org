@@ -765,8 +765,9 @@ Try to use as much available software that I can find. Do it like Sage - don't r
        	:PROPERTIES:
        	:ID:       bbf31667-eee4-439b-abd6-cb0fd52e37fe
        	:END:
-******* NEXT Make 1st draft
+******* DONE Make 1st draft
 	:LOGBOOK:
+	- State "DONE"       from "NEXT"       [2014-02-27 Thu 15:47]
 	CLOCK: [2014-02-13 Thu 10:58]--[2014-02-13 Thu 11:40] =>  0:42
 	CLOCK: [2014-02-13 Thu 10:30]--[2014-02-13 Thu 10:38] =>  0:08
 	CLOCK: [2014-01-31 Fri 14:51]--[2014-01-31 Fri 14:57] =>  0:06
@@ -800,7 +801,12 @@ Try to use as much available software that I can find. Do it like Sage - don't r
 	:END:
 ******* NEXT Find precise refs
 I have "where" for some refs and it would be good to have the precise section.
-******* NEXT Write abstract
+******* DONE Write abstract
+	:LOGBOOK:
+	- State "DONE"       from "NEXT"       [2014-02-27 Thu 15:47]
+	CLOCK: [2014-02-27 Thu 15:25]--[2014-02-27 Thu 15:47] =>  0:22
+	:END:
+******* NEXT Proof read final draft
 ****** TODO Things to check
        :PROPERTIES:
        :ID:       2dab82b7-790c-4235-8b60-23b4587e88c6
@@ -1475,7 +1481,7 @@ That is, Ben and Janelle have proven the backward convergence, and to finish we 
 ****** TODO Write paper
 ******* NEXT Write paper outline
 	:LOGBOOK:
-	CLOCK: [2014-02-27 Thu 14:35]
+	CLOCK: [2014-02-27 Thu 14:35]--[2014-02-27 Thu 15:25] =>  0:50
 	:END:
 ******* NEXT Write details of curvature bounds
 ******* TODO Write details of convergence to equator
