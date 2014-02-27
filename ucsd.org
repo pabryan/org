@@ -8245,7 +8245,7 @@ Lectures in calendar and tasks like planning lectures.
 	  :END:
 ********* TODO Organise TA's to proctor
 ********* TODO Collect quizzes
-	  DEADLINE: <2014-03-06 Thu>
+	  DEADLINE: <2014-03-06 Thu -3d>
 
 ******* TODO Exams
 	:PROPERTIES:
