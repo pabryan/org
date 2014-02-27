@@ -181,27 +181,43 @@ I want to do teaching with sage-tex and/or org-mode with babel; i.e. interactive
 ** DECRA
 *** 2015
 **** Tasks
-***** DONE Contact Peter Bouwgnet to apply through ANU
-      DEADLINE: <2014-02-28 Fri>
-      :LOGBOOK:
-      - State "DONE"       from "WAITING"    [2014-02-26 Wed 11:07]
-      - State "WAITING"    from "NEXT"       [2014-02-24 Mon 17:15] \\
-	Waiting to hear back to see if they'll approve my application.
-      :END:
+***** TODO Admin
+****** DONE Contact Peter Bouwgnet to apply through ANU
+       DEADLINE: <2014-02-28 Fri>
+       :LOGBOOK:
+       - State "DONE"       from "WAITING"    [2014-02-26 Wed 11:07]
+       - State "WAITING"    from "NEXT"       [2014-02-24 Mon 17:15] \\
+	 Waiting to hear back to see if they'll approve my application.
+       :END:
 
-***** NEXT Investigate DECRA grant process and setup tasks/deadlines
-      DEADLINE: <2014-03-07 Fri>
-      :LOGBOOK:
-      CLOCK: [2014-02-27 Thu 10:48]
-      :END:
-***** DONE Get information from ANU about grants
-      DEADLINE: <2014-03-07 Fri>
-      :LOGBOOK:
-      - State "DONE"       from "WAITING"    [2014-02-27 Thu 10:48]
-      - State "WAITING"    from "NEXT"       [2014-02-26 Wed 11:07] \\
-	Waiting on Peter Bouwknegt to send info
-      :END:
+****** NEXT Investigate DECRA grant process and setup tasks/deadlines
+       DEADLINE: <2014-03-07 Fri>
+       :LOGBOOK:
+       CLOCK: [2014-02-27 Thu 10:48]
+       :END:
+****** DONE Get information from ANU about grants
+       DEADLINE: <2014-03-07 Fri>
+       :LOGBOOK:
+       - State "DONE"       from "WAITING"    [2014-02-27 Thu 10:48]
+       - State "WAITING"    from "NEXT"       [2014-02-26 Wed 11:07] \\
+	 Waiting on Peter Bouwknegt to send info
+       :END:
 
+****** NEXT Print out documents
+       DEADLINE: <2014-02-27 Thu>
+***** TODO Proposal
+****** NEXT Create skeleton proposal
+***** Timeline
+****** TODO Submit proposal
+       DEADLINE: <2014-03-16 Sun>
+****** TODO Submit revised proposal
+       DEADLINE: <2014-03-27 Thu>
+****** ARC Deadline
+<2014-04-02 Wed>
+****** ARC Rejoinders
+<2014-06-30 Mon>
+****** Announcement
+<2014-11-08 Sat>
 **** Notes
 * Journals
   :PROPERTIES:
