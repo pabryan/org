@@ -8140,7 +8140,7 @@ Lectures in calendar and tasks like planning lectures.
 ********** NEXT Lecture 8.3
 	   DEADLINE: <2014-02-28 Fri>
 	   :LOGBOOK:
-	   CLOCK: [2014-02-26 Wed 15:19]
+	   CLOCK: [2014-02-26 Wed 15:19]--[2014-02-26 Wed 15:51] =>  0:32
 	   :END:
 	   :PROPERTIES:
 	   :ID:       e82b9f64-1af7-4db3-99cc-03ea054d53a3
@@ -8475,6 +8475,9 @@ Center 101
 	  :END:
 <2014-02-19 Wed 16:00-17:00>
 ********* Lecture 8.2
+	  :LOGBOOK:
+	  CLOCK: [2014-02-26 Wed 15:51]
+	  :END:
 <2014-02-26 Wed 16:00-17:00>
 ********* Lecture 9.2
 <2014-03-05 Wed 16:00-17:00>
