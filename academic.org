@@ -3612,13 +3612,27 @@ http://www.math.ku.dk/english/research/gamp/
 http://www.ugr.es/~ritore/ingles.htm
 http://geometry.ugr.es/
 **** TODO Wollongong
-http://www.mathjobs.org/jobs/jobs/5668
 ***** Tasks
-****** NEXT Write application
+****** DONE Write application
        DEADLINE: <2014-03-01 Sat>
-****** TODO Send in application
-****** TODO Confirm receipt of application
+       :LOGBOOK:
+       - State "DONE"       from "NEXT"       [2014-02-28 Fri 09:01]
+       CLOCK: [2014-02-28 Fri 08:33]--[2014-02-28 Fri 09:01] =>  0:28
+       :END:
+****** DONE Send in application
+       :LOGBOOK:
+       - State "DONE"       from "TODO"       [2014-02-28 Fri 09:01]
+       :END:
+****** WAITING Confirm receipt of application
+       :LOGBOOK:
+       - State "WAITING"    from "TODO"       [2014-02-28 Fri 09:01] \\
+	 Waiting to hear back.
+       :END:
 ****** TODO Respond to offer
+***** Notes
+- http://www.mathjobs.org/jobs/jobs/5668
+- Contact:
+- application:  [[file:~/working/academic/jobs/job_applications/1043_uow]]
 **** TODO UQ Lecturer
      :LOGBOOK:
      CLOCK: [2014-02-19 Wed 15:22]--[2014-02-19 Wed 15:23] =>  0:01
