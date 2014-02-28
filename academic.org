@@ -1491,14 +1491,19 @@ That is, Ben and Janelle have proven the backward convergence, and to finish we 
        :ID:       e4309a03-3450-4994-a651-42e0666fb7a0
        :END:
 ****** TODO Write paper
+       :LOGBOOK:
+       CLOCK: [2014-02-28 Fri 14:36]--[2014-02-28 Fri 14:37] =>  0:01
+       :END:
 ******* NEXT Write paper outline
 	:LOGBOOK:
 	CLOCK: [2014-02-28 Fri 10:46]--[2014-02-28 Fri 11:11] =>  0:25
 	CLOCK: [2014-02-27 Thu 18:34]--[2014-02-27 Thu 19:40] =>  1:06
 	CLOCK: [2014-02-27 Thu 14:35]--[2014-02-27 Thu 15:25] =>  0:50
 	:END:
-******* NEXT Write Harnack
+******* DONE Write Harnack
 	:LOGBOOK:
+	- State "DONE"       from "NEXT"       [2014-02-28 Fri 14:36]
+	CLOCK: [2014-02-28 Fri 13:15]--[2014-02-28 Fri 14:36] =>  1:21
 	CLOCK: [2014-02-28 Fri 11:26]--[2014-02-28 Fri 11:42] =>  0:16
 	:END:
 ******* NEXT Write details of curvature bounds
