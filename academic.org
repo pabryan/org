@@ -204,8 +204,12 @@ I want to do teaching with sage-tex and/or org-mode with babel; i.e. interactive
 	 Waiting on Peter Bouwknegt to send info
        :END:
 
-****** NEXT Print out documents
+****** DONE Print out documents
        DEADLINE: <2014-02-27 Thu>
+       :LOGBOOK:
+       - State "DONE"       from "NEXT"       [2014-02-27 Thu 18:33]
+       CLOCK: [2014-02-27 Thu 18:14]--[2014-02-27 Thu 18:33] =>  0:19
+       :END:
 ***** TODO Proposal
 ****** NEXT Create skeleton proposal
 ***** Timeline
@@ -220,6 +224,8 @@ I want to do teaching with sage-tex and/or org-mode with babel; i.e. interactive
 ****** Announcement
 <2014-11-08 Sat>
 **** Notes
+**** Files
+[[file:~/reference/academic/grants/2015/decra]]
 * Journals
   :PROPERTIES:
   :ID:       befc3eb8-1613-4ad7-b07f-d3190d33a71a
@@ -1443,7 +1449,9 @@ This proves the inequality we need.  The remaining problem is to remove the symm
      :PROPERTIES:
      :ID:       6a082853-9a95-4756-9632-17078bd0fe4b
      :END:
+***** Files
 [[file:~/working/academic/research/csf_ancient_sphere]]
+[[file:~/publish/csf_ancient_sphere/csf_ancient_sphere.pdf]]
 ***** Tasks
 ****** DONE Work out curvature evolution in coords
        :LOGBOOK:
@@ -1481,6 +1489,7 @@ That is, Ben and Janelle have proven the backward convergence, and to finish we 
 ****** TODO Write paper
 ******* NEXT Write paper outline
 	:LOGBOOK:
+	CLOCK: [2014-02-27 Thu 18:34]--[2014-02-27 Thu 19:40] =>  1:06
 	CLOCK: [2014-02-27 Thu 14:35]--[2014-02-27 Thu 15:25] =>  0:50
 	:END:
 ******* NEXT Write details of curvature bounds
