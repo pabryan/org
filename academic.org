@@ -1497,6 +1497,7 @@ That is, Ben and Janelle have proven the backward convergence, and to finish we 
 	CLOCK: [2014-02-27 Thu 18:34]--[2014-02-27 Thu 19:40] =>  1:06
 	CLOCK: [2014-02-27 Thu 14:35]--[2014-02-27 Thu 15:25] =>  0:50
 	:END:
+******* NEXT Write Harnack
 ******* NEXT Write details of curvature bounds
 ******* TODO Write details of convergence to equator
 ******* NEXT Write details of Alexandrov reflection
