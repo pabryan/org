@@ -1507,6 +1507,9 @@ That is, Ben and Janelle have proven the backward convergence, and to finish we 
 	CLOCK: [2014-02-28 Fri 11:26]--[2014-02-28 Fri 11:42] =>  0:16
 	:END:
 ******* NEXT Write details of curvature bounds
+	:LOGBOOK:
+	CLOCK: [2014-02-28 Fri 15:35]
+	:END:
 ******* TODO Write details of convergence to equator
 ******* NEXT Write details of Alexandrov reflection
 ******* NEXT Write proof of lying in hemisphere
