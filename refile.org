@@ -182,3 +182,14 @@ It would be nice to narrow to a project and have it display sub-projects in an e
 [2014-02-24 Mon 11:21]
 
 http://askubuntu.com/questions/27381/how-to-edit-pdf-metadata-from-command-line
+* TODO autmount sshfs
+  :LOGBOOK:
+  CLOCK: [2014-02-27 Thu 15:52]--[2014-02-27 Thu 15:53] =>  0:01
+  :END:
+[2014-02-27 Thu 15:52]
+[[file:~/org/ucsd.org::*Midterm%202][Midterm 2]]
+
+https://github.com/pcarrier/afuse
+https://wiki.archlinux.org/index.php/sshfs#Automounting
+https://github.com/hellekin/autosshfs
+http://ubuntuforums.org/showthread.php?t=430312
