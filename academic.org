@@ -3610,6 +3610,12 @@ http://www.ugr.es/~ritore/ingles.htm
 http://geometry.ugr.es/
 **** TODO Wollongong
 http://www.mathjobs.org/jobs/jobs/5668
+***** Tasks
+****** NEXT Write application
+       DEADLINE: <2014-03-01 Sat>
+****** TODO Send in application
+****** TODO Confirm receipt of application
+****** TODO Respond to offer
 **** TODO UQ Lecturer
      :LOGBOOK:
      CLOCK: [2014-02-19 Wed 15:22]--[2014-02-19 Wed 15:23] =>  0:01
@@ -3635,10 +3641,16 @@ http://www.mathjobs.org/jobs/jobs/5668
        :LOGBOOK:
        - State "DONE"       from "NEXT"       [2014-02-18 Tue 23:24]
        :END:
-****** WAITING Confirm receipt of application
+****** DONE Confirm receipt of application
        :LOGBOOK:
+       - State "DONE"       from "WAITING"    [2014-02-28 Fri 08:19]
        - State "WAITING"    from "TODO"       [2014-02-20 Thu 14:47] \\
 	 Sent email to Joe at UQ. Waiting to hear confirmation.
+       :END:
+****** WAITING Respond to offer
+       :LOGBOOK:
+       - State "WAITING"    from "TODO"       [2014-02-28 Fri 08:19] \\
+	 Waiting to hear back.
        :END:
 ***** Notes
 - http://www.mathjobs.org/jobs/638/5729
