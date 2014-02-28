@@ -193,7 +193,7 @@ I want to do teaching with sage-tex and/or org-mode with babel; i.e. interactive
 ****** NEXT Investigate DECRA grant process and setup tasks/deadlines
        DEADLINE: <2014-03-07 Fri>
        :LOGBOOK:
-       CLOCK: [2014-02-28 Fri 11:11]
+       CLOCK: [2014-02-28 Fri 11:11]--[2014-02-28 Fri 11:26] =>  0:15
        CLOCK: [2014-02-27 Thu 11:17]--[2014-02-27 Thu 11:29] =>  0:12
        CLOCK: [2014-02-27 Thu 10:48]--[2014-02-27 Thu 11:05] =>  0:17
        :END:
@@ -1498,6 +1498,9 @@ That is, Ben and Janelle have proven the backward convergence, and to finish we 
 	CLOCK: [2014-02-27 Thu 14:35]--[2014-02-27 Thu 15:25] =>  0:50
 	:END:
 ******* NEXT Write Harnack
+	:LOGBOOK:
+	CLOCK: [2014-02-28 Fri 11:26]--[2014-02-28 Fri 11:42] =>  0:16
+	:END:
 ******* NEXT Write details of curvature bounds
 ******* TODO Write details of convergence to equator
 ******* NEXT Write details of Alexandrov reflection

@@ -1,0 +1,204 @@
+#+FILETAGS: REFILE
+* TODO Study tubular map
+  :LOGBOOK:
+  CLOCK: [2013-12-10 Tue 07:36]--[2013-12-10 Tue 07:37] =>  0:01
+  :END:
+  :PROPERTIES:
+  :ID:       251ca587-000d-45ea-97d6-9d72bc19586f
+  :END:
+[2014-03-10 Mon 07:36]
+- This is the map along the normal direction to a hypersurface. The cut point is where the map hits another point on the surface.
+- How does this relate to cohomology of the normal bundle, the Poincare dual, and the Thom isomorphism. How does this cohomology evolve?
+* TODO Non-collapsing in manifolds
+  :LOGBOOK:
+  CLOCK: [2013-12-10 Tue 07:37]--[2013-12-10 Tue 07:40] =>  0:03
+  :END:
+  :PROPERTIES:
+  :ID:       cb506bf4-f2d9-4082-95fd-b717e75047d3
+  :END:
+[2014-03-10 Mon 07:37]
+Given $M\subset N$ a cooriented hypersurface with normal vector $\nor$, define the cooriented (oriented?) curvature tangent ball at $p$ to be the largest ball tangent to $M$ with center in the direction $\nor$. Now do variations to find a viscosity equation for the curvature.
+* TODO Register Devon on club penguin
+  :PROPERTIES:
+  :ID:       b09d53be-dfb5-4aa0-b4dc-c4b9de5fdff0
+  :END:
+[2013-12-13 Fri 21:21]
+* TODO Investigate morhpisms of forms
+  :PROPERTIES:
+  :ID:       bcad8d1d-61fa-4614-9662-8f264d9ae1e4
+  :END:
+- Often these are given by the wedge of some form. Is there some way to characterize such morphisms?
+* TODO Archive things
+  :PROPERTIES:
+  :ID:       a1611ad9-0546-41d7-a584-9edb3ef77445
+  :END:
+[2014-01-02 Thu 18:44]
+- Set up archiving for org-mode
+- archive working files for faster check_uncommited
+* TODO Note down book ideas
+  :LOGBOOK:
+  CLOCK: [2014-01-03 Fri 10:59]--[2014-01-03 Fri 11:02] =>  0:03
+  :END:
+  :PROPERTIES:
+  :ID:       e0801755-e7b5-4eb4-92df-452668c17611
+  :END:
+[2014-01-03 Fri 10:59]
+** Chemical X
+Combustrum, aether, dark matter, vitamin X etc. are all examples of where people have postulated exotic unknown substances to explain poorly understood phemomena. Survey the history and give contemperary examples along with some reasons why we do this (anthropological?) 
+
+** Cause and Effect
+What is it? How do we get a handle on it? How do we reduce it from say the cause of an effect was everything in the backwards light cone (i.e. the state of the system at all times prior)?
+* TODO Add collate scribbles to weekly review
+  :LOGBOOK:
+  CLOCK: [2014-01-06 Mon 17:11]--[2014-01-06 Mon 17:12] =>  0:01
+  :END:
+[2014-01-06 Mon 17:11]
+Should create typing tasks from scribbles and schedule them 
+* TODO Note down Einstein quote
+  :LOGBOOK:
+  CLOCK: [2014-01-06 Mon 17:12]--[2014-01-06 Mon 17:13] =>  0:01
+  :END:
+[2014-01-06 Mon 17:12]
+[2] p. vi Sharpe, Diff. Geo.
+* DONE Add TA's to Ted
+  DEADLINE: <2014-01-22 Wed>
+  :LOGBOOK:
+  - State "DONE"       from "NEXT"       [2014-01-22 Wed 15:48]
+  CLOCK: [2014-01-22 Wed 15:39]--[2014-01-22 Wed 15:48] =>  0:09
+  CLOCK: [2014-01-22 Wed 14:10]--[2014-01-22 Wed 14:11] =>  0:01
+  :END:
+[2014-01-22 Wed 14:10]
+* TODO Add personal ispell dict to version control
+  :LOGBOOK:
+  CLOCK: [2014-01-28 Tue 11:09]--[2014-01-28 Tue 11:10] =>  0:01
+  :END:
+[2014-01-28 Tue 11:09]
+* TODO Change exercise, mobility, relax tasks
+  :LOGBOOK:
+  CLOCK: [2014-01-29 Wed 11:06]--[2014-01-29 Wed 11:07] =>  0:01
+  :END:
+[2014-01-29 Wed 11:06]
+- Walking
+- Strength/Conditioning
+- Mobility
+- Relaxation
+- Compensation
+* TODO Investigate oscillation estimates and geometry
+[2014-01-31 Fri 17:43]
+<2014-04-13 Sun>
+* TODO Create punch in/punch out procedures
+  :LOGBOOK:
+  CLOCK: [2014-02-07 Fri 09:38]--[2014-02-07 Fri 09:40] =>  0:02
+  :END:
+[2014-02-07 Fri 09:38]
+
+** Punch In
+- Sync with repository
+- Check uncommitted work
+- Open agenda
+** Punch Out
+- Save org files
+- Sync with repository
+- List any unsaved buffers
+- Check uncommitted work
+* TODO Update website
+  :LOGBOOK:
+  CLOCK: [2014-02-07 Fri 09:40]--[2014-02-07 Fri 09:41] =>  0:01
+  :END:
+[2014-02-07 Fri 09:40]
+- Put research up there including work in progress/open notebook, my notes to myself, student projects and computational work
+* TODO Org agenda views
+  :LOGBOOK:
+  CLOCK: [2014-02-07 Fri 09:41]--[2014-02-07 Fri 09:44] =>  0:03
+  :END:
+[2014-02-07 Fri 09:41]
+I need to be able to focus on the right tasks which means not seeing all possible tasks that I may do eventually!
+
+- Research agenda view
+  - day to day: only show working and not future tasks
+  - high level planning: show projects and not individual tasks
+  - projects: restrict to a project 
+- Teaching agenda view
+  - Shows teaching tasks and so forth
+- General agenda view
+  - Pretty much what I have now (maybe I don't need tasks listed)
+- Personal agenda view
+  - Non-work stuff
+* DONE CSF Notes
+  DEADLINE: <2014-02-10 Mon>
+  :LOGBOOK:
+  - State "DONE"       from "TODO"       [2014-02-10 Mon 20:41]
+  :END:
+[2014-02-10 Mon 15:06]
+Send max principle arg for dist comp to students
+* TODO Make print/mobile versions of website
+  SCHEDULED: <2014-03-30 Sun>
+[2014-02-10 Mon 15:09]
+* TODO Create capture for office hours
+[2014-02-10 Mon 15:45]
+How do I choose which course?
+* TODO Work out paper getting procedure
+  SCHEDULED: <2014-04-01 Tue>
+  :LOGBOOK:
+  CLOCK: [2014-02-11 Tue 12:54]--[2014-02-11 Tue 12:55] =>  0:01
+  :END:
+[2014-02-11 Tue 12:54]
+
+I want to grab a paper from the internet, possibly the bib entry as well and then store it somewhere to later enter into my org system. It should be quick and easy like capture tasks and then ideally I'd have some automated way of adding it to org.
+* TODO Get curios for office
+  :LOGBOOK:
+  CLOCK: [2014-02-11 Tue 16:37]--[2014-02-11 Tue 16:38] =>  0:01
+  :END:
+[2014-02-11 Tue 16:37]
+- Math posters
+- Klein bottles
+- math gadgets (planimeter?)
+- music for office
+* TODO Archive old working projects
+[2014-02-13 Thu 09:20]
+* DONE Follow up Jason's Euler account
+  DEADLINE: <2014-02-19 Wed>
+  :LOGBOOK:
+  - State "DONE"       from "TODO"       [2014-02-18 Tue 23:26]
+  :END:
+[2014-02-18 Tue 17:47]
+* TODO Set up generic publishing
+  :LOGBOOK:
+  CLOCK: [2014-02-20 Thu 09:08]--[2014-02-20 Thu 09:09] =>  0:01
+  :END:
+[2014-02-20 Thu 09:08]
+- I should just be able to publish a project with only specifying the directory and how I want it published (pdf, html, attachments etc.) without writing a publishing file for every project. 
+<2014-04-01 Tue>
+* TODO Create project agenda view
+  :LOGBOOK:
+  CLOCK: [2014-02-20 Thu 09:10]--[2014-02-20 Thu 09:11] =>  0:01
+  :END:
+[2014-02-20 Thu 09:10]
+
+It would be nice to narrow to a project and have it display sub-projects in an easy to browse manner
+<2014-04-01 Tue>
+* TODO Set up pdf metadata
+  SCHEDULED: <2014-04-07 Mon>
+[2014-02-24 Mon 11:21]
+
+http://askubuntu.com/questions/27381/how-to-edit-pdf-metadata-from-command-line
+* TODO autmount sshfs
+  :LOGBOOK:
+  CLOCK: [2014-02-27 Thu 15:52]--[2014-02-27 Thu 15:53] =>  0:01
+  :END:
+[2014-02-27 Thu 15:52]
+[[file:~/org/ucsd.org::*Midterm%202][Midterm 2]]
+
+https://github.com/pcarrier/afuse
+https://wiki.archlinux.org/index.php/sshfs#Automounting
+https://github.com/hellekin/autosshfs
+http://ubuntuforums.org/showthread.php?t=430312
+* TODO Put polar coord animations on Piazza
+  DEADLINE: <2014-02-28 Fri>
+  :LOGBOOK:
+  CLOCK: [2014-02-28 Fri 11:44]--[2014-02-28 Fri 11:45] =>  0:01
+  :END:
+[2014-02-28 Fri 11:44]
+* TODO use emacs to do vc stuff
+  SCHEDULED: <2014-03-16 Sun>
+[2014-02-28 Fri 11:45]
