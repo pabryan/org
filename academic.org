@@ -193,6 +193,7 @@ I want to do teaching with sage-tex and/or org-mode with babel; i.e. interactive
 ****** NEXT Investigate DECRA grant process and setup tasks/deadlines
        DEADLINE: <2014-03-07 Fri>
        :LOGBOOK:
+       CLOCK: [2014-03-01 Sat 13:37]--[2014-03-01 Sat 14:07] =>  0:30
        CLOCK: [2014-02-28 Fri 11:11]--[2014-02-28 Fri 11:26] =>  0:15
        CLOCK: [2014-02-27 Thu 11:17]--[2014-02-27 Thu 11:29] =>  0:12
        CLOCK: [2014-02-27 Thu 10:48]--[2014-02-27 Thu 11:05] =>  0:17
@@ -212,7 +213,11 @@ I want to do teaching with sage-tex and/or org-mode with babel; i.e. interactive
        CLOCK: [2014-02-27 Thu 18:14]--[2014-02-27 Thu 18:33] =>  0:19
        :END:
 ***** TODO Proposal
-****** NEXT Create skeleton proposal
+****** DONE Create skeleton proposal
+       :LOGBOOK:
+       - State "DONE"       from "NEXT"       [2014-03-01 Sat 14:18]
+       CLOCK: [2014-03-01 Sat 14:07]--[2014-03-01 Sat 14:18] =>  0:11
+       :END:
 ***** Timeline
 ****** TODO Submit DECRA proposal
        DEADLINE: <2014-03-16 Sun -3w>
@@ -227,6 +232,7 @@ I want to do teaching with sage-tex and/or org-mode with babel; i.e. interactive
 **** Notes
 **** Files
 [[file:~/reference/academic/grants/2015/decra]]
+
 * Journals
   :PROPERTIES:
   :ID:       befc3eb8-1613-4ad7-b07f-d3190d33a71a
