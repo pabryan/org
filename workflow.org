@@ -3011,9 +3011,11 @@ When I set up scoring the day:
 - [ ] Collate data such as sleep, weight, exercise, diet etc.
 
 ** NEXT Daily Plan [0/7]
-   SCHEDULED: <2014-03-01 Sat .+1d/2d>
+   SCHEDULED: <2014-03-02 Sun .+1d/2d>
    :LOGBOOK:
-   CLOCK: [2014-03-01 Sat 09:47]
+   - State "DONE"       from "NEXT"       [2014-03-01 Sat 10:11]
+   CLOCK: [2014-03-01 Sat 10:04]--[2014-03-01 Sat 10:11] =>  0:07
+   CLOCK: [2014-03-01 Sat 09:47]--[2014-03-01 Sat 10:04] =>  0:17
    - State "DONE"       from "NEXT"       [2014-02-28 Fri 08:32]
    CLOCK: [2014-02-28 Fri 08:15]--[2014-02-28 Fri 08:32] =>  0:17
    - State "DONE"       from "NEXT"       [2014-02-27 Thu 10:47]
@@ -3468,7 +3470,7 @@ When I set up scoring the day:
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
    :ID:       ef051ee0-1113-4604-b355-450a5a47848b
-   :LAST_REPEAT: [2014-02-28 Fri 08:32]
+   :LAST_REPEAT: [2014-03-01 Sat 10:11]
    :LAST_REPEAT: [2014-01-25 Sat 12:49]
    :END:
 
