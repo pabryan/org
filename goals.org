@@ -1,0 +1,117 @@
+#+FILETAGS: GOALS
+* Notes
+  :PROPERTIES:
+  :ID:       0d81a6db-a774-463e-92a6-af54cc62fa60
+  :END:
+** Do I want to write at least say 15 hrs a week? If so, plan it out, commit and go! I've scheduled time for exercise and teaching, so do it for writing too! The plan should be incremental and guarenteed to succeed. See [[http://paidtoexist.com/creative-battle/]] for some pointers.
+
+* Health
+  :PROPERTIES:
+  :ID:       003cf047-d8fc-432c-be89-337318e47efc
+  :END:
+** Average 8km walking a day					       :GOAL:
+   :PROPERTIES:
+   :ID:       62933d29-a004-402e-ad9b-07fc15674ca1
+   :END:
+** Flow Fit							       :GOAL:
+   :PROPERTIES:
+   :ID:       137c7bf1-f819-4dff-80af-498742d53d6b
+   :END:
+- 3 days a week
+- MWF: Before 9:30am!
+** Infuflow
+- Every morning
+** X-tension
+- Add to Intuflow sometimes when I have time in the morning
+** Ageless Mobility
+- Any time on the weekend
+** Myofacial release
+- stretching or foam rolling throughout the day, particularly in the evening
+* Maths
+  :PROPERTIES:
+  :ID:       3038abb3-24a5-43c1-969b-16deb4cb60f4
+  :END:
+** Papers
+*** Ricci iso surfaces						       :GOAL:
+    :PROPERTIES:
+    :ID:       9dde0f7e-f37d-41b5-849f-f440bfc5ac05
+    :END:
+*** 1d fluid flows
+*** csf alpha flows: dist comp
+*** csf surfaces: dist comp
+*** csf surfaces: iso comp.
+*** Ricci iso comp: Kahler, toric m'folds, S^1 action
+*** High dim iso profile
+*** pseudo locality
+*** plane CSF and Ricci surfaces ancient solutions
+*** CSF S^2 ancient solutions
+*** submanifolds: support functions, harnack, stability: position vector field
+*** continuity of optimal transport near focal points
+*** dist. func. on manifolds
+**** visc eqn
+**** Ma-Trudinger-Wang tensor
+**** (psuedo)-conformal killing fields
+**** grad d is conformal killing weakly?
+*** Levy-Gromov with weighted measure
+*** Ricci flow on warped products
+*** self shrinkers to MCF (are they S^2 in R^3?)a
+*** Vector symmetric polys's
+** Books
+*** MCF
+*** Submanifolds and space time
+** Learn
+*** PDE Theory
+**** Variational, eigenvals, Rayleigh quotients
+**** Visc. eqns
+***** Read Cabre, Cafirelli
+**** Conservation laws, hyperbolic eqns, Hamilton-Jacobi
+*** Alg. Geom.
+**** Complex
+**** Differential Schemes
+**** Hypergeometric functions, secant varieties, hilbert schemes
+**** Complex geometry, Kahler m'folds
+*** Comm. Algebra
+**** Combinatiorial
+**** Vector symmetric polynomials/rational functions 
+**** Invariant theory
+*** Lie theory
+*** Topology
+**** Differential
+***** Read Bott, Tu
+      :PROPERTIES:
+      :ID:       ad02683f-783e-4936-9508-9be6bd198f50
+      :END:
+*** Geometry
+**** Convex
+***** Read Schneider
+* Sports
+  :PROPERTIES:
+  :ID:       cf8a70c7-d871-4a6c-8eef-021be874f583
+  :END:
+** Learn to Skateboard
+** Learn to surf
+** Hiking
+* Languages
+  :PROPERTIES:
+  :ID:       57e9344c-c479-4c86-b845-87a8b3163ff6
+  :END:
+** Learn Chinese
+** Learn Spanish
+** Learn German
+* organisation and quantified self
+  :PROPERTIES:
+  :ID:       6c1a69b8-1b3b-4bea-9d32-6bd510e51f6d
+  :END:
+** Get all projects in org mode
+** use memacs to collate reference material
+** organise reference material
+** tie goals and tasks together in org mode
+** Record personal data: 
+- sleep
+- habits
+- finances
+- weight
+- blood pressure
+- how I spend my time
+- temperature
+- mood 

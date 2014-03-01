@@ -1,0 +1,19 @@
+* Flow Physique 4/1x4 %?
+%[~/org/capture_templates/exercise]
+%U
+:Intensity: 
+:Type: Conditioning
+
+
+| Exercise                  | Reps | Min | HR | T | E | D |
+|---------------------------+------+-----+----+---+---+---|
+| Walking Lunge             |      |     |    |   |   |   |
+| Shoulder Bridge Knee Tuck |      |     |    |   |   |   |
+| Crow Hop                  |      |     |    |   |   |   |
+| Forearm Crocodile         |      |     |    |   |   |   |
+  
+
+| Rest HR | Average HR | Score | Tech | Eff | Disc |
+|---------+------------+-------+------+-----+------|
+|         |          0 |     0 |    0 |   0 |    0 |
+       #+TBLFM: @2$2=vmean(remote(<DATE>RAW,@2$3..@4$3)::@2$3=vsum(remote(<DATE>RAW,@2$4..@4$4))::@2$4=vmean(remote(<DATE>RAW,@2$5..@4$5))::@2$5=vmean(remote(<DATE>RAW,@2$6..@4$6))::@2$6=vmean(remote(<DATE>RAW,@2$7..@4$7))

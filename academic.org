@@ -1491,9 +1491,6 @@ That is, Ben and Janelle have proven the backward convergence, and to finish we 
        :ID:       e4309a03-3450-4994-a651-42e0666fb7a0
        :END:
 ****** TODO Write paper
-       :LOGBOOK:
-       CLOCK: [2014-02-28 Fri 14:36]--[2014-02-28 Fri 14:37] =>  0:01
-       :END:
 ******* NEXT Write paper outline
 	:LOGBOOK:
 	CLOCK: [2014-02-28 Fri 10:46]--[2014-02-28 Fri 11:11] =>  0:25
