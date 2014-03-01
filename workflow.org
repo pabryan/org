@@ -1603,6 +1603,7 @@ Should run hg clone ssh://hg@bitbucket.org/pabryan/<proj>
   :END:
 ** Organisation
   :LOGBOOK:
+  CLOCK: [2014-02-28 Fri 17:12]--[2014-02-28 Fri 17:14] =>  0:02
   CLOCK: [2014-02-28 Fri 13:13]--[2014-02-28 Fri 13:15] =>  0:02
   CLOCK: [2014-02-28 Fri 10:41]--[2014-02-28 Fri 10:46] =>  0:05
   CLOCK: [2014-02-28 Fri 09:01]--[2014-02-28 Fri 09:02] =>  0:01
@@ -2736,6 +2737,7 @@ Check how I did last month. I guess the review and plan could probably go togeth
 ** NEXT Daily Review [0/10]
    SCHEDULED: <2014-02-27 Thu .+1d/2d>
    :LOGBOOK:
+   CLOCK: [2014-02-28 Fri 17:14]
    - State "DONE"       from "NEXT"       [2014-02-26 Wed 17:56]
    CLOCK: [2014-02-26 Wed 17:54]--[2014-02-26 Wed 17:56] =>  0:02
    - State "DONE"       from "NEXT"       [2014-02-24 Mon 17:18]
