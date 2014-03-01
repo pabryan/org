@@ -194,10 +194,11 @@ https://wiki.archlinux.org/index.php/sshfs#Automounting
 https://github.com/hellekin/autosshfs
 http://ubuntuforums.org/showthread.php?t=430312
 
-* NEXT Put polar coord animations on Piazza
+* DONE Put polar coord animations on Piazza
   DEADLINE: <2014-02-28 Fri>
   :LOGBOOK:
-  CLOCK: [2014-03-01 Sat 13:29]
+  - State "DONE"       from "NEXT"       [2014-03-01 Sat 13:37]
+  CLOCK: [2014-03-01 Sat 13:29]--[2014-03-01 Sat 13:37] =>  0:08
   CLOCK: [2014-03-01 Sat 13:22]--[2014-03-01 Sat 13:28] =>  0:06
   CLOCK: [2014-02-28 Fri 11:44]--[2014-02-28 Fri 11:45] =>  0:01
   :END:
@@ -205,8 +206,11 @@ http://ubuntuforums.org/showthread.php?t=430312
 * TODO use emacs to do vc stuff
   SCHEDULED: <2014-03-16 Sun>
 [2014-02-28 Fri 11:45]
-* TODO Make comment on limit test and convergence on Piazza
+* DONE Make comment on limit test and convergence on Piazza
   DEADLINE: <2014-02-28 Fri>
+  :LOGBOOK:
+  - State "DONE"       from "TODO"       [2014-03-01 Sat 13:37]
+  :END:
 [2014-02-28 Fri 17:14]
 [[file:~/org/ucsd.org::*Lecture%208.3][Lecture 8.3]]
 * TODO Contact UCSD about cancelling retirement plane
