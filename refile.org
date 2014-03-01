@@ -194,9 +194,11 @@ https://wiki.archlinux.org/index.php/sshfs#Automounting
 https://github.com/hellekin/autosshfs
 http://ubuntuforums.org/showthread.php?t=430312
 
-* TODO Put polar coord animations on Piazza
+* NEXT Put polar coord animations on Piazza
   DEADLINE: <2014-02-28 Fri>
   :LOGBOOK:
+  CLOCK: [2014-03-01 Sat 13:29]
+  CLOCK: [2014-03-01 Sat 13:22]--[2014-03-01 Sat 13:28] =>  0:06
   CLOCK: [2014-02-28 Fri 11:44]--[2014-02-28 Fri 11:45] =>  0:01
   :END:
 [2014-02-28 Fri 11:44]
@@ -211,3 +213,10 @@ http://ubuntuforums.org/showthread.php?t=430312
   DEADLINE: <2014-03-03 Mon>
 [2014-03-01 Sat 10:04]
 Ron Lieberman <rlieberman@ucsd.edu>, 858-534-2154
+* TODO Incorporate sage code into document creation
+  :LOGBOOK:
+  CLOCK: [2014-03-01 Sat 13:28]--[2014-03-01 Sat 13:29] =>  0:01
+  :END:
+[2014-03-01 Sat 13:28]
+
+Either by using literal blocks in org-mode or using sagetex I can produce images, animations and so forth in documents<2014-04-01 Tue>
