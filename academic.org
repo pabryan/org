@@ -190,9 +190,11 @@ I want to do teaching with sage-tex and/or org-mode with babel; i.e. interactive
 	 Waiting to hear back to see if they'll approve my application.
        :END:
 
-****** NEXT Investigate DECRA grant process and setup tasks/deadlines
+****** DONE Investigate DECRA grant process and setup tasks/deadlines
        DEADLINE: <2014-03-07 Fri>
        :LOGBOOK:
+       - State "DONE"       from "NEXT"       [2014-03-01 Sat 16:32]
+       CLOCK: [2014-03-01 Sat 16:22]--[2014-03-01 Sat 16:32] =>  0:10
        CLOCK: [2014-03-01 Sat 13:37]--[2014-03-01 Sat 14:07] =>  0:30
        CLOCK: [2014-02-28 Fri 11:11]--[2014-02-28 Fri 11:26] =>  0:15
        CLOCK: [2014-02-27 Thu 11:17]--[2014-02-27 Thu 11:29] =>  0:12
@@ -212,12 +214,48 @@ I want to do teaching with sage-tex and/or org-mode with babel; i.e. interactive
        - State "DONE"       from "NEXT"       [2014-02-27 Thu 18:33]
        CLOCK: [2014-02-27 Thu 18:14]--[2014-02-27 Thu 18:33] =>  0:19
        :END:
+****** NEXT Complete authority to apply
+       DEADLINE: <2014-03-07 Fri>
 ***** TODO Proposal
-****** DONE Create skeleton proposal
-       :LOGBOOK:
-       - State "DONE"       from "NEXT"       [2014-03-01 Sat 14:18]
-       CLOCK: [2014-03-01 Sat 14:07]--[2014-03-01 Sat 14:18] =>  0:11
-       :END:
+      DEADLINE: <2014-03-12 Wed>
+****** TODO Project summary
+******* NEXT Create title
+******* NEXT Write summary
+******* TODO Write impact statement
+****** TODO ROPE
+******* NEXT Write career opportunities
+******* NEXT Research Output
+******* NEXT Contributions to the Field
+
+****** TODO Project Description
+******* TODO Project Description
+******** NEXT Title
+******** NEXT Aims and Background
+******** NEXT Project Quality and Innovation
+******** NEXT Research Environment
+******** NEXT Feasibility and Benefit
+******** NEXT DECRA Candidate
+******** NEXT Management of Data
+******** NEXT References
+******* TODO Organisational Statement
+****** TODO Budget Justification
+******* NEXT Salary
+******* NEXT Equipment
+******* NEXT Travel
+******* NEXT Publication 
+- Open Access Journals
+******* NEXT Establish Geometric Analysis Forum
+- Need web hosting for early dissemination and discussion based on SPNET. Leverage existing technology like Google+ for discussions and video conferencing. What about broadcasting seminars from leading geometric analysts?
+****** TODO Overall proposal
+******* DONE Create skeleton proposal
+       	:LOGBOOK:
+       	- State "DONE"       from "NEXT"       [2014-03-01 Sat 14:18]
+       	CLOCK: [2014-03-01 Sat 14:07]--[2014-03-01 Sat 14:18] =>  0:11
+       	:END:
+******* NEXT Proof read
+******* NEXT Send to Julie/Ben to look over
+***** TODO Application
+****** NEXT Fill in online application
 ***** Timeline
 ****** TODO Submit DECRA proposal
        DEADLINE: <2014-03-16 Sun -3w>
@@ -235,6 +273,7 @@ http://sydney.edu.au/research_support/funding/arc/apply.shtml
 https://researchservices.anu.edu.au/osr/programs/arc/arc-decra15.php
 **** Files
 [[file:~/reference/academic/grants/2015/decra]]
+[[file:~/working/academic/grants/decra/2015]]
 
 * Journals
   :PROPERTIES:
