@@ -8250,13 +8250,19 @@ Lectures in calendar and tasks like planning lectures.
 	 :PROPERTIES:
 	 :ID:       eb587528-51b1-4098-a5de-6bcda23ce3f9
 	 :END:
-********* NEXT Check questions
+********* DONE Check questions
 	  DEADLINE: <2014-03-03 Mon -3d>
+	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2014-03-02 Sun 11:07]
+	  :END:
 	  :PROPERTIES:
 	  :ID:       e19b73e3-0034-4766-9502-90822e8cac14
 	  :END:
-********* TODO Organise TA's to proctor
-********* TODO Collect quizzes
+********* DONE Organise TA's to proctor
+	  :LOGBOOK:
+	  - State "DONE"       from "TODO"       [2014-03-02 Sun 11:08]
+	  :END:
+********* NEXT Collect quizzes
 	  DEADLINE: <2014-03-06 Thu -3d>
 
 ******* TODO Exams
