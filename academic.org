@@ -3427,10 +3427,11 @@ Rowland Hall 340P
        :PROPERTIES:
        :ID:       05c342b4-0eb7-46f6-a27b-62e807d2d96c
        :END:
-****** NEXT Write talk
+****** DONE Write talk
        DEADLINE: <2014-03-03 Mon -2w>
        :LOGBOOK:
-       CLOCK: [2014-03-02 Sun 13:30]
+       - State "DONE"       from "NEXT"       [2014-03-02 Sun 14:55]
+       CLOCK: [2014-03-02 Sun 13:30]--[2014-03-02 Sun 14:55] =>  1:25
        CLOCK: [2014-03-02 Sun 11:14]--[2014-03-02 Sun 12:04] =>  0:50
        CLOCK: [2014-03-01 Sat 20:19]--[2014-03-01 Sat 22:00] =>  1:41
        :END:
