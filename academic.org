@@ -220,12 +220,27 @@ I want to do teaching with sage-tex and/or org-mode with babel; i.e. interactive
       DEADLINE: <2014-03-12 Wed>
 ****** TODO Project summary
 ******* NEXT Create title
+	:LOGBOOK:
+	CLOCK: [2014-03-01 Sat 16:38]--[2014-03-01 Sat 16:40] =>  0:02
+	:END:
 ******* NEXT Write summary
+	:LOGBOOK:
+	CLOCK: [2014-03-01 Sat 16:40]--[2014-03-01 Sat 16:48] =>  0:08
+	:END:
 ******* TODO Write impact statement
 ****** TODO ROPE
 ******* NEXT Write career opportunities
+	:LOGBOOK:
+	CLOCK: [2014-03-01 Sat 16:48]--[2014-03-01 Sat 16:50] =>  0:02
+	:END:
 ******* NEXT Research Output
+	:LOGBOOK:
+	CLOCK: [2014-03-01 Sat 16:50]--[2014-03-01 Sat 16:55] =>  0:05
+	:END:
 ******* NEXT Contributions to the Field
+	:LOGBOOK:
+	CLOCK: [2014-03-01 Sat 16:55]--[2014-03-01 Sat 17:00] =>  0:05
+	:END:
 
 ****** TODO Project Description
 ******* TODO Project Description
