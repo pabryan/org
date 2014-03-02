@@ -354,6 +354,18 @@
 :END:
 [[papers:MR2177105][MR2177105-paper]]
 [[bib:MR2177105][MR2177105-bib]]
+***** An isoperimetric comparison theorem
+:PROPERTIES:
+:Custom_ID: MR1156385
+:END:
+[[papers:MR1156385][MR1156385-paper]]
+[[bib:MR1156385][MR1156385-bib]]
+***** Optimal isoperimetric inequalities for three-dimensional {C}artan-{H}adamard manifolds
+:PROPERTIES:
+:Custom_ID: MR2167269
+:END:
+[[papers:MR2167269][MR2167269-paper]]
+[[bib:MR2167269][MR2167269-bib]]
 **** 53C21   (1980-now) Methods of Riemannian geometry, including PDE methods; curvature restrictions :riemannian:
 ***** An isoperimetric estimate for the {R}icci flow on the two-sphere :ricci_flow:isoperimetric:surfaces:evolution:
 :PROPERTIES:
@@ -877,3 +889,11 @@ Here I need to do some more work since $u \mapsto g(\grad u, \grad u)$ is not a 
 :END:
 [[papers:GEOM-D-13-00010][GEOM-D-13-00010-paper]]
 
+* Lecture Notes
+* Theses
+** Isoperimetric Comparison Techniques for Low Dimension Curvature Flows
+:PROPERTIES:
+:Custom_ID: pbthesis
+:END:
+[[papers:pbthesis][pbthesis-paper]]
+[[bib:pbthesis][pbthesis-bib]]
