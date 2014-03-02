@@ -3429,6 +3429,9 @@ Rowland Hall 340P
        :END:
 ****** NEXT Write talk
        DEADLINE: <2014-03-03 Mon -2w>
+       :LOGBOOK:
+       CLOCK: [2014-03-01 Sat 20:19]
+       :END:
 
 * Students
   :PROPERTIES:
