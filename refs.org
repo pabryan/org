@@ -244,7 +244,7 @@
 :END:
 [[papers:MR1909079][MR1909079-paper]]
 [[bib:MR1909079][MR1909079-bib]]
-**** 53A04   (1980-now) Curves in Euclidean space :curves:euclidean:submanifold:
+**** 53A04 (1980-now) Curves in Euclidean space :curves:euclidean:submanifold:
 ***** The heat equation shrinking convex plane curves :plane:convex:evolution:csf:
 :PROPERTIES:
 :Custom_ID: MR840401
@@ -264,13 +264,20 @@
 :END:
 [[papers:MR845704][MR845704-paper]]
 [[bib:MR845704][MR845704-bib]]
-**** 53A07   (1980-now) Higher-dimensional and -codimensional surfaces in Euclidean n-space :euclidean:high_dimension:high_codimension:submanifold:
+**** 53A07 (1980-now) Higher-dimensional and -codimensional surfaces in Euclidean n-space :euclidean:high_dimension:high_codimension:submanifold:
 ***** Deforming a hypersurface by its {G}auss-{K}ronecker curvature :gauss_curvature:evolution:
 :PROPERTIES:
 :Custom_ID: MR812353
 :END:
 [[papers:MR812353][MR812353-paper]]
 [[bib:MR812353][MR812353-bib]]
+**** 53A30 (1973-now) Conformal differential geometry
+***** Constant geodesic curvature curves and isoperimetric domains in rotationally symmetric surfaces
+:PROPERTIES:
+:Custom_ID: MR1883725
+:END:
+[[papers:MR1883725][MR1883725-paper]]
+[[bib:MR1883725][MR1883725-bib]]
 *** 53C (1973-now) Global differential geometry [See also 51H25, 58-XX; for related bundle theory, see 55Rxx, 57Rxx] :global:
 **** 53CXX
 ***** Existence of isoperimetric regions in contact sub-{R}iemannian manifolds :isoperimetric:contact:submanifold:riemannian:
