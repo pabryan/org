@@ -213,8 +213,12 @@ http://ubuntuforums.org/showthread.php?t=430312
   :END:
 [2014-02-28 Fri 17:14]
 [[file:~/org/ucsd.org::*Lecture%208.3][Lecture 8.3]]
-* TODO Contact UCSD about cancelling retirement plane
+* WAITING Contact UCSD about cancelling retirement plane
   DEADLINE: <2014-03-03 Mon>
+  :LOGBOOK:
+  - State "WAITING"    from "TODO"       [2014-03-03 Mon 11:36] \\
+    Emailed the office about it. Waiting on response.
+  :END:
 [2014-03-01 Sat 10:04]
 Ron Lieberman <rlieberman@ucsd.edu>, 858-534-2154
 * TODO Incorporate sage code into document creation
