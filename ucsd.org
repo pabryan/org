@@ -7847,6 +7847,9 @@ Lectures in calendar and tasks like planning lectures.
 ******** First meeting
 <2014-01-15 Wed 13:15-13:45>
 ***** TODO MATH20B
+      :LOGBOOK:
+      CLOCK: [2014-03-03 Mon 15:48]--[2014-03-03 Mon 15:49] =>  0:01
+      :END:
       :PROPERTIES:
       :ID:       31df73a4-0114-4097-8f18-5ce3ed5a1d07
       :END:
@@ -8080,10 +8083,11 @@ Lectures in calendar and tasks like planning lectures.
 	   :PROPERTIES:
 	   :ID:       c969b6b0-ca5f-4dce-a36d-ac8d5b847a09
 	   :END:
-********** NEXT Lecture 9.2
+********** DONE Lecture 9.2
 	   DEADLINE: <2014-03-05 Wed>
 	   :LOGBOOK:
-	   CLOCK: [2014-03-03 Mon 15:04]
+	   - State "DONE"       from "NEXT"       [2014-03-03 Mon 15:47]
+	   CLOCK: [2014-03-03 Mon 15:04]--[2014-03-03 Mon 15:47] =>  0:43
 	   :END:
 	   :PROPERTIES:
 	   :ID:       72176a50-23bd-4065-8d4b-4970147c4860
@@ -8475,6 +8479,9 @@ Center 101
 	  :END:
 <2014-02-24 Mon 16:00-17:00>
 ********* Lecture 9.1
+	  :LOGBOOK:
+	  CLOCK: [2014-03-03 Mon 15:45]--[2014-03-03 Mon 17:10] =>  1:25
+	  :END:
 <2014-03-03 Mon 16:00-17:00>
 ********* Lecture 10.1
 <2014-03-10 Mon 16:00-17:00>
