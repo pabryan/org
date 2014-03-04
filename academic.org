@@ -271,6 +271,9 @@ I want to do teaching with sage-tex and/or org-mode with babel; i.e. interactive
 ******* NEXT Send to Julie/Ben to look over
 ***** TODO Application
 ****** NEXT Fill in online application
+       :LOGBOOK:
+       CLOCK: [2014-03-03 Mon 21:21]
+       :END:
 ***** Timeline
 ****** TODO Submit DECRA proposal
        DEADLINE: <2014-03-16 Sun -3w>
