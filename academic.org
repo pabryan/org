@@ -272,7 +272,7 @@ I want to do teaching with sage-tex and/or org-mode with babel; i.e. interactive
 ***** TODO Application
 ****** NEXT Fill in online application
        :LOGBOOK:
-       CLOCK: [2014-03-04 Tue 08:18]
+       CLOCK: [2014-03-04 Tue 08:18]--[2014-03-04 Tue 09:27] =>  1:09
        CLOCK: [2014-03-03 Mon 21:21]--[2014-03-03 Mon 23:03] =>  1:42
        :END:
 ***** Timeline
