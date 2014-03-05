@@ -8345,8 +8345,12 @@ Lectures in calendar and tasks like planning lectures.
 	 :PROPERTIES:
 	 :ID:       962210c5-bcdd-4d98-acc1-6c5adafd72e9
 	 :END:
-********* NEXT Prepare final questions
+********* DONE Prepare final questions
 	  DEADLINE: <2014-03-06 Thu>
+	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2014-03-05 Wed 14:22]
+	  CLOCK: [2014-03-05 Wed 13:45]--[2014-03-05 Wed 14:22] =>  0:37
+	  :END:
 	  :PROPERTIES:
 	  :ID:       eb58e086-468c-4886-a509-f6773a55e646
 	  :END:
@@ -8598,6 +8602,9 @@ Center 101
 ******** First meeting
 <2014-01-15 Wed 13:45-14:15>
 
+******* Students
+******** Megan Parrish
+<2014-03-06 Thu 11:00-12:00>
 **** Spring 2014
 **** Summer 2014 I
 **** Summer 2014 II
