@@ -7667,7 +7667,7 @@ Lectures in calendar and tasks like planning lectures.
 ******** TODO Final
 	 <2014-03-09 Sun>
 ********* NEXT Prepare Final questions
-	  DEADLINE: <2014-03-07 Fri>
+	  DEADLINE: <2014-03-10 Mon>
 
 ********* TODO Organise TA's to proctor
 ********* TODO Collect exams
@@ -8424,6 +8424,7 @@ Get it from cloud.sagemath and add it to my 20b working
 	:END:
 ******* Office hours
 	:LOGBOOK:
+	CLOCK: [2014-03-05 Wed 14:30]--[2014-03-05 Wed 15:16] =>  0:46
 	CLOCK: [2014-03-03 Mon 14:12]--[2014-03-03 Mon 14:37] =>  0:25
 	CLOCK: [2014-02-24 Mon 13:58]--[2014-02-24 Mon 14:50] =>  0:52
 	CLOCK: [2014-02-21 Fri 14:00]--[2014-02-21 Fri 14:25] =>  0:25
