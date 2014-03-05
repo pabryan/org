@@ -235,5 +235,7 @@ Either by using literal blocks in org-mode or using sagetex I can produce images
   CLOCK: [2014-03-03 Mon 23:03]--[2014-03-03 Mon 23:04] =>  0:01
   :END:
 [2014-03-03 Mon 23:03]
-
-
+* TODO Investigate scirate
+  SCHEDULED: <2014-04-01 Tue>
+[2014-03-05 Wed 13:27]
+https://scirate.com/

@@ -130,7 +130,7 @@ http://modernizr.com/
 [2013-08-06 Tue 20:57]
 
 **** TODO Change course web template
-  SCHEDULED: <2014-03-09 Sun>
+  SCHEDULED: <2014-04-09 Wed>
   :LOGBOOK:
   CLOCK: [2013-09-22 Sun 12:41]--[2013-09-22 Sun 12:42] =>  0:01
   :END:
@@ -299,7 +299,7 @@ I want to put the details of the course in to org - probably using property draw
 http://www.math.ucsd.edu/~jeggers/Archive/2012Spring/Math142B/calendar.html
 http://www.w3schools.com/css/tryit.asp?filename=trycss_table_fancy
 ***** TODO Check out Piazza for courses
-  SCHEDULED: <2014-03-09 Sun>
+  SCHEDULED: <2014-04-09 Wed>
   :LOGBOOK:
   CLOCK: [2013-10-04 Fri 13:33]--[2013-10-04 Fri 13:34] =>  0:01
   :END:
@@ -8342,7 +8342,7 @@ Lectures in calendar and tasks like planning lectures.
 	 :PROPERTIES:
 	 :ID:       962210c5-bcdd-4d98-acc1-6c5adafd72e9
 	 :END:
-********* NEXT Prepare questions
+********* NEXT Prepare final questions
 	  DEADLINE: <2014-03-06 Thu>
 	  :PROPERTIES:
 	  :ID:       eb58e086-468c-4886-a509-f6773a55e646
@@ -9004,7 +9004,6 @@ http://urp.ucsd.edu/
 	  CLOCK: [2014-02-18 Tue 16:14]--[2014-02-18 Tue 17:47] =>  1:33
 	  :END:
 <2014-02-18 Tue 16:00-17:00>
-<2014-03-06 Thu 13:00-14:00>
 ****** Participants
 - Jason Bunk <jbunk@ucsd.edu>
 
@@ -9591,8 +9590,8 @@ Abstract:
 	CLOCK: [2014-01-31 Fri 10:00]--[2014-01-31 Fri 11:05] =>  1:05
 	CLOCK: [2014-01-29 Wed 09:56]--[2014-01-29 Wed 11:02] =>  1:06
 	:END:
-<2014-01-29 Wed 10:00-11:00 +1w>
-<2014-01-31 Fri 10:00-11:00 +1w>
+<2014-01-29 Wed 10:00-11:00>
+<2014-01-31 Fri 10:00-11:00>
 
 ******* Reading
 	:LOGBOOK:
