@@ -1053,10 +1053,11 @@ The $K$ term should be divided by $8\pi$.
 ****** TODO Publish
 ******* NEXT Put on ArXiv
 	 DEADLINE: <2014-03-07 Fri>
-******* DONE Ask Ben where to publish
-	 DEADLINE: <2014-03-07 Fri>
+******* WAITING Ask Ben where to publish
+	DEADLINE: <2014-03-07 Fri>
 	 :LOGBOOK:
-	 - State "DONE"       from "NEXT"       [2014-02-28 Fri 08:30]
+	 - State "WAITING"    from "DONE"       [2014-03-06 Thu 08:24] \\
+	   Waiting to hear back from Ben.
 	 :END:
 
 ***** Notes
