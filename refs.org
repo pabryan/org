@@ -872,12 +872,18 @@ Here I need to do some more work since $u \mapsto g(\grad u, \grad u)$ is not a 
 :END:
 [[papers:2011arXiv1111.4616A][2011arXiv1111.4616A-paper]]
 [[bib:2011arXiv1111.4616A][2011arXiv1111.4616A-bib]]
-** Uniqueness of compact tangent flows in Mean Curvature Flow
+*** Uniqueness of compact tangent flows in Mean Curvature Flow
 :PROPERTIES:
 :Custom_ID: 2011arXiv1107.4643S
 :END:
 [[papers:2011arXiv1107.4643S][2011arXiv1107.4643S-paper]]
 [[bib:2011arXiv1107.4643S][2011arXiv1107.4643S-bib]]
+*** Embedded constant mean curvature tori in the three-sphere
+:PROPERTIES:
+:Custom_ID: 2012arXiv1204.5007A
+:END:
+[[papers:2012arXiv1204.5007A][2012arXiv1204.5007A-paper]]
+[[bib:2012arXiv1204.5007A][2012arXiv1204.5007A-bib]]
 * Misc
   :PROPERTIES:
   :COLUMNS: %75ITEM %TAGS
@@ -889,6 +895,12 @@ Here I need to do some more work since $u \mapsto g(\grad u, \grad u)$ is not a 
 :END:
 [[papers:GEOM-D-13-00010][GEOM-D-13-00010-paper]]
 
+** Embedded minimal tori in S^3 and the Lawson conjecture
+:PROPERTIES:
+:Custom_ID: brendlelawson
+:END:
+[[papers:brendlelawson][brendlelawson-paper]]
+[[bib:brendlelawson][brendlelawson-bib]]
 * Lecture Notes
 * Theses
 ** Isoperimetric Comparison Techniques for Low Dimension Curvature Flows
