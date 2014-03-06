@@ -7578,8 +7578,12 @@ Lectures in calendar and tasks like planning lectures.
 	   :PROPERTIES:
 	   :ID:       c524b6ee-2275-4874-9fa9-a68868a8845b
 	   :END:
-********** TODO Lecture 9.3
+********** DONE Lecture 9.3
 	   DEADLINE: <2014-03-07 Fri>
+	   :LOGBOOK:
+	   - State "DONE"       from "NEXT"       [2014-03-05 Wed 22:00]
+	   CLOCK: [2014-03-05 Wed 20:58]--[2014-03-05 Wed 22:00] =>  1:02
+	   :END:
 	   :PROPERTIES:
 	   :ID:       c5e4d511-9cc5-40da-966e-07a394bdad10
 	   :END:
@@ -7668,6 +7672,9 @@ Lectures in calendar and tasks like planning lectures.
 	 <2014-03-09 Sun>
 ********* NEXT Prepare Final questions
 	  DEADLINE: <2014-03-10 Mon>
+	  :LOGBOOK:
+	  CLOCK: [2014-03-05 Wed 22:14]--[2014-03-05 Wed 22:17] =>  0:03
+	  :END:
 
 ********* TODO Organise TA's to proctor
 ********* TODO Collect exams
@@ -8173,8 +8180,12 @@ Lectures in calendar and tasks like planning lectures.
 	   :PROPERTIES:
 	   :ID:       e82b9f64-1af7-4db3-99cc-03ea054d53a3
 	   :END:
-********** TODO Lecture 9.3
+********** DONE Lecture 9.3
 	   DEADLINE: <2014-03-07 Fri>
+	   :LOGBOOK:
+	   - State "DONE"       from "NEXT"       [2014-03-05 Wed 22:14]
+	   CLOCK: [2014-03-05 Wed 22:00]--[2014-03-05 Wed 22:14] =>  0:14
+	   :END:
 	   :PROPERTIES:
 	   :ID:       6bf1e96b-8384-4e0f-9a20-87fdecb8ffb1
 	   :END:
@@ -8276,8 +8287,11 @@ Lectures in calendar and tasks like planning lectures.
 	  :LOGBOOK:
 	  - State "DONE"       from "TODO"       [2014-03-02 Sun 11:08]
 	  :END:
-********* NEXT Collect quizzes
+********* DONE Collect quizzes
 	  DEADLINE: <2014-03-06 Thu -3d>
+	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2014-03-05 Wed 20:57]
+	  :END:
 
 ******* TODO Exams
 	:PROPERTIES:
@@ -8525,7 +8539,7 @@ Center 101
 <2014-02-26 Wed 16:00-17:00>
 ********* Lecture 9.2
 	  :LOGBOOK:
-	  CLOCK: [2014-03-05 Wed 15:50]--[2014-03-05 Wed 17:10] =>  1:20
+	  CLOCK: [2014-03-05 Wed 15:52]--[2014-03-05 Wed 17:10] =>  1:18
 	  :END:
 <2014-03-05 Wed 16:00-17:00>
 ********* Lecture 10.2
