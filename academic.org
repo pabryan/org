@@ -221,7 +221,10 @@ I want to do teaching with sage-tex and/or org-mode with babel; i.e. interactive
        :END:
 ***** TODO Proposal
       DEADLINE: <2014-03-12 Wed>
-****** TODO Project summary
+****** DONE Project summary
+       :LOGBOOK:
+       - State "DONE"       from "TODO"       [2014-03-06 Thu 11:27]
+       :END:
 ******* DONE Create title
 	:LOGBOOK:
 	- State "DONE"       from "NEXT"       [2014-03-06 Thu 08:45]
@@ -236,7 +239,10 @@ I want to do teaching with sage-tex and/or org-mode with babel; i.e. interactive
 	:LOGBOOK:
 	- State "DONE"       from "TODO"       [2014-03-06 Thu 08:45]
 	:END:
-****** TODO ROPE
+****** DONE ROPE
+       :LOGBOOK:
+       - State "DONE"       from "TODO"       [2014-03-06 Thu 12:22]
+       :END:
 ******* DONE Write career opportunities
 	:LOGBOOK:
 	- State "DONE"       from "NEXT"       [2014-03-06 Thu 08:46]
@@ -248,8 +254,10 @@ I want to do teaching with sage-tex and/or org-mode with babel; i.e. interactive
 	CLOCK: [2014-03-06 Thu 08:46]--[2014-03-06 Thu 08:59] =>  0:13
 	CLOCK: [2014-03-01 Sat 16:50]--[2014-03-01 Sat 16:55] =>  0:05
 	:END:
-******* NEXT Contributions to the Field
+******* DONE Contributions to the Field
 	:LOGBOOK:
+	- State "DONE"       from "NEXT"       [2014-03-06 Thu 12:22]
+	CLOCK: [2014-03-06 Thu 11:27]--[2014-03-06 Thu 12:22] =>  0:55
 	CLOCK: [2014-03-06 Thu 08:59]--[2014-03-06 Thu 09:35] =>  0:36
 	CLOCK: [2014-03-01 Sat 16:55]--[2014-03-01 Sat 17:00] =>  0:05
 	:END:
