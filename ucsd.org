@@ -7411,7 +7411,7 @@ Lectures in calendar and tasks like planning lectures.
 	   :PROPERTIES:
 	   :ID:       8a58988d-2a3a-42e1-a17b-f20045fa15a9
 	   :END:
-********** TODO Lecture 10.1
+********** NEXT Lecture 10.1
 	   DEADLINE: <2014-03-10 Mon>
 	   :PROPERTIES:
 	   :ID:       1193daf2-ab39-4b8f-9e35-cdfdb0296cf2
@@ -7669,9 +7669,11 @@ Lectures in calendar and tasks like planning lectures.
 	  CLOCK: [2014-02-19 Wed 17:10]--[2014-02-19 Wed 17:40] =>  0:30
 	  :END:
 ******** TODO Final
-********* NEXT Prepare Final questions
+********* DONE Prepare Final questions
 	  DEADLINE: <2014-03-10 Mon>
 	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2014-03-06 Thu 13:33]
+	  CLOCK: [2014-03-06 Thu 13:04]--[2014-03-06 Thu 13:33] =>  0:29
 	  CLOCK: [2014-03-05 Wed 22:14]--[2014-03-05 Wed 22:17] =>  0:03
 	  :END:
 
@@ -8011,7 +8013,7 @@ Lectures in calendar and tasks like planning lectures.
 	   :PROPERTIES:
 	   :ID:       6c8e8b0d-88b2-423e-9137-f6e0c9311f2f
 	   :END:
-********** TODO Lecture 10.1
+********** NEXT Lecture 10.1
 	   DEADLINE: <2014-03-10 Mon>
 	   :PROPERTIES:
 	   :ID:       6263fcc6-74b0-4a4b-8ac6-ff6684c84839
@@ -8361,6 +8363,7 @@ Lectures in calendar and tasks like planning lectures.
 ********* DONE Prepare final questions
 	  DEADLINE: <2014-03-06 Thu>
 	  :LOGBOOK:
+	  CLOCK: [2014-03-06 Thu 13:34]--[2014-03-06 Thu 14:05] =>  0:31
 	  - State "DONE"       from "NEXT"       [2014-03-05 Wed 14:22]
 	  CLOCK: [2014-03-05 Wed 13:45]--[2014-03-05 Wed 14:22] =>  0:37
 	  :END:
@@ -8614,6 +8617,9 @@ Center 101
 	  CLOCK: [2014-02-20 Thu 13:55]--[2014-02-20 Thu 14:42] =>  0:47
 	  :END:
 ******** Final meeting
+	 :LOGBOOK:
+	 CLOCK: [2014-03-06 Thu 14:05]--[2014-03-06 Thu 14:58] =>  0:53
+	 :END:
 	  <2014-03-06 Thu 14:00-15:00>
 ******* TA's
 ******** First meeting
