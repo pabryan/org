@@ -216,29 +216,41 @@ I want to do teaching with sage-tex and/or org-mode with babel; i.e. interactive
        :END:
 ****** NEXT Complete authority to apply
        DEADLINE: <2014-03-07 Fri>
+       :LOGBOOK:
+       CLOCK: [2014-03-06 Thu 08:27]--[2014-03-06 Thu 08:46] =>  0:19
+       :END:
 ***** TODO Proposal
       DEADLINE: <2014-03-12 Wed>
 ****** TODO Project summary
-******* NEXT Create title
+******* DONE Create title
 	:LOGBOOK:
+	- State "DONE"       from "NEXT"       [2014-03-06 Thu 08:45]
 	CLOCK: [2014-03-01 Sat 16:38]--[2014-03-01 Sat 16:40] =>  0:02
 	:END:
-******* NEXT Write summary
+******* DONE Write summary
 	:LOGBOOK:
+	- State "DONE"       from "NEXT"       [2014-03-06 Thu 08:45]
 	CLOCK: [2014-03-01 Sat 16:40]--[2014-03-01 Sat 16:48] =>  0:08
 	:END:
-******* TODO Write impact statement
-****** TODO ROPE
-******* NEXT Write career opportunities
+******* DONE Write impact statement
 	:LOGBOOK:
+	- State "DONE"       from "TODO"       [2014-03-06 Thu 08:45]
+	:END:
+****** TODO ROPE
+******* DONE Write career opportunities
+	:LOGBOOK:
+	- State "DONE"       from "NEXT"       [2014-03-06 Thu 08:46]
 	CLOCK: [2014-03-01 Sat 16:48]--[2014-03-01 Sat 16:50] =>  0:02
 	:END:
-******* NEXT Research Output
+******* DONE Research Output
 	:LOGBOOK:
+	- State "DONE"       from "NEXT"       [2014-03-06 Thu 08:59]
+	CLOCK: [2014-03-06 Thu 08:46]--[2014-03-06 Thu 08:59] =>  0:13
 	CLOCK: [2014-03-01 Sat 16:50]--[2014-03-01 Sat 16:55] =>  0:05
 	:END:
 ******* NEXT Contributions to the Field
 	:LOGBOOK:
+	CLOCK: [2014-03-06 Thu 08:59]--[2014-03-06 Thu 09:35] =>  0:36
 	CLOCK: [2014-03-01 Sat 16:55]--[2014-03-01 Sat 17:00] =>  0:05
 	:END:
 
