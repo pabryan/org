@@ -2754,8 +2754,11 @@ Set some goals for the month. I should check someday projects for inclusion in t
 Check how I did last month. I guess the review and plan could probably go together. This is all broad stuff
 
 ** NEXT Daily Review [0/10]
-   SCHEDULED: <2014-03-06 Thu .+1d/2d>
+   SCHEDULED: <2014-03-07 Fri .+1d/2d>
    :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2014-03-06 Thu 19:35]
+   CLOCK: [2014-03-06 Thu 19:34]--[2014-03-06 Thu 19:35] =>  0:01
+   CLOCK: [2014-03-06 Thu 19:33]--[2014-03-06 Thu 19:34] =>  0:01
    - State "DONE"       from "NEXT"       [2014-03-05 Wed 22:21]
    CLOCK: [2014-03-05 Wed 22:19]--[2014-03-05 Wed 22:21] =>  0:02
    - State "DONE"       from "NEXT"       [2014-03-03 Mon 23:05]
@@ -3013,7 +3016,7 @@ Check how I did last month. I guess the review and plan could probably go togeth
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
    :ID:       616c5bd9-d941-4fcc-8874-2ff3c9e96b4a
-   :LAST_REPEAT: [2014-03-05 Wed 22:21]
+   :LAST_REPEAT: [2014-03-06 Thu 19:35]
    :END:
 
 What to review:
@@ -3034,8 +3037,9 @@ When I set up scoring the day:
 - [ ] Collate data such as sleep, weight, exercise, diet etc.
 
 ** NEXT Daily Plan [0/7]
-   SCHEDULED: <2014-03-06 Thu .+1d/2d>
+   SCHEDULED: <2014-03-07 Fri .+1d/2d>
    :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2014-03-06 Thu 19:33]
    CLOCK: [2014-03-06 Thu 08:22]--[2014-03-06 Thu 08:27] =>  0:05
    - State "DONE"       from "NEXT"       [2014-03-05 Wed 13:28]
    CLOCK: [2014-03-05 Wed 13:27]--[2014-03-05 Wed 13:28] =>  0:01
@@ -3503,7 +3507,7 @@ When I set up scoring the day:
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
    :ID:       ef051ee0-1113-4604-b355-450a5a47848b
-   :LAST_REPEAT: [2014-03-05 Wed 13:28]
+   :LAST_REPEAT: [2014-03-06 Thu 19:33]
    :LAST_REPEAT: [2014-01-25 Sat 12:49]
    :END:
 
