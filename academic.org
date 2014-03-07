@@ -215,7 +215,7 @@ I want to do teaching with sage-tex and/or org-mode with babel; i.e. interactive
        CLOCK: [2014-02-27 Thu 18:14]--[2014-02-27 Thu 18:33] =>  0:19
        :END:
 ****** NEXT Complete authority to apply
-       DEADLINE: <2014-03-07 Fri>
+       DEADLINE: <2014-03-10 Mon>
        :LOGBOOK:
        CLOCK: [2014-03-06 Thu 08:27]--[2014-03-06 Thu 08:46] =>  0:19
        :END:
@@ -1072,9 +1072,9 @@ The sentence before is also wrong.
 The $K$ term should be divided by $8\pi$.
 ****** TODO Publish
 ******* NEXT Put on ArXiv
-	 DEADLINE: <2014-03-07 Fri>
+	 DEADLINE: <2014-03-10 Mon>
 ******* WAITING Ask Ben where to publish
-	DEADLINE: <2014-03-07 Fri>
+	DEADLINE: <2014-03-10 Mon>
 	 :LOGBOOK:
 	 - State "WAITING"    from "DONE"       [2014-03-06 Thu 08:24] \\
 	   Waiting to hear back from Ben.
