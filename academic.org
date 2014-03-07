@@ -3476,8 +3476,12 @@ Rowland Hall 340P
        CLOCK: [2014-03-01 Sat 20:19]--[2014-03-01 Sat 22:00] =>  1:41
        :END:
 
-****** NEXT File reimbursement
+****** DONE File reimbursement
        DEADLINE: <2014-03-07 Fri>
+       :LOGBOOK:
+       - State "DONE"       from "NEXT"       [2014-03-06 Thu 15:54]
+       CLOCK: [2014-03-06 Thu 15:27]--[2014-03-06 Thu 15:54] =>  0:27
+       :END:
 * Students
   :PROPERTIES:
   :ID:       a93e1471-a035-4d1a-888f-948a3996b9ec

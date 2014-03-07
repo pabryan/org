@@ -8789,10 +8789,11 @@ http://tutorial.math.lamar.edu/
      :ID:       f220f7b9-a94a-4120-9757-4bd7dbd25cab
      :END:
 See Holding email.
-**** NEXT Caitlin Endler
+**** DONE Caitlin Endler
      DEADLINE: <2014-03-07 Fri>
      :LOGBOOK:
-     CLOCK: [2014-03-06 Thu 15:03]
+     - State "DONE"       from "NEXT"       [2014-03-06 Thu 15:27]
+     CLOCK: [2014-03-06 Thu 15:03]--[2014-03-06 Thu 15:27] =>  0:24
      :END:
 For the Central Michigan University one, the letter is to be sent to REU@cmich.edu.
 For the Fields Institute one, the letter is to be sent in .pdf format to
