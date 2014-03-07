@@ -7822,6 +7822,9 @@ Lectures in calendar and tasks like planning lectures.
 	  :END:
 <2014-02-28 Fri 12:00-13:00>
 ********* Lecture 9.3
+	  :LOGBOOK:
+	  CLOCK: [2014-03-07 Fri 11:45]
+	  :END:
 <2014-03-07 Fri 12:00-13:00>
 ********* Lecture 10.3
 <2014-03-14 Fri 12:00-13:00>
@@ -9646,7 +9649,7 @@ Abstract:
 ****** Clocking
 ******* MCF level sets seminar
         :LOGBOOK:
-	CLOCK: [2014-03-07 Fri 09:58]
+	CLOCK: [2014-03-07 Fri 09:58]--[2014-03-07 Fri 11:45] =>  1:47
 	:END:
 <2014-03-10 Mon 10:00-11:00>
 <2014-03-12 Wed 10:00-11:00>
