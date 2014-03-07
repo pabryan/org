@@ -7856,6 +7856,9 @@ Lectures in calendar and tasks like planning lectures.
 	CLOCK: [2014-02-18 Tue 13:05]--[2014-02-18 Tue 14:00] =>  0:55
 	:END:
 ******* Plan Final
+	:LOGBOOK:
+	CLOCK: [2014-03-07 Fri 13:31]--[2014-03-07 Fri 15:03] =>  1:32
+	:END:
 <2014-03-07 Fri 13:30-14:00>
 ******* TA's
 ******** First meeting
@@ -8377,11 +8380,8 @@ Lectures in calendar and tasks like planning lectures.
 ********* TODO Collect exams
 	  DEADLINE: <2014-03-14 Fri>
 
-********* DONE Prepare grading guide for final
+********* NEXT Prepare grading guide for final
   DEADLINE: <2014-03-09 Sun>
-  :LOGBOOK:
-  - State "DONE"       from "TODO"       [2014-03-07 Fri 13:13]
-  :END:
 [2014-03-06 Thu 19:34]
 
 ******** DONE Follow up on OSD requirements for quizzes
