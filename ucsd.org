@@ -8027,10 +8027,11 @@ Lectures in calendar and tasks like planning lectures.
 	   :PROPERTIES:
 	   :ID:       6c8e8b0d-88b2-423e-9137-f6e0c9311f2f
 	   :END:
-********** NEXT Lecture 10.1
+********** DONE Lecture 10.1
 	   DEADLINE: <2014-03-10 Mon>
 	   :LOGBOOK:
-	   CLOCK: [2014-03-07 Fri 18:15]
+	   - State "DONE"       from "NEXT"       [2014-03-07 Fri 18:36]
+	   CLOCK: [2014-03-07 Fri 18:15]--[2014-03-07 Fri 18:36] =>  0:21
 	   :END:
 	   :PROPERTIES:
 	   :ID:       6263fcc6-74b0-4a4b-8ac6-ff6684c84839
