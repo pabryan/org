@@ -661,6 +661,13 @@
 :END:
 [[papers:MR3078952][MR3078952-paper]]
 [[bib:MR3078952][MR3078952-bib]]
+**** 53C45 (1973-now) Global surface theory (convex surfaces à la A. D. Aleksandrov)
+***** On the regularity of the solution of the {$n$}-dimensional {M}inkowski problem
+:PROPERTIES:
+:Custom_ID: MR0423267
+:END:
+[[papers:MR0423267][MR0423267-paper]]
+[[bib:MR0423267][MR0423267-bib]]
 **** 53C65 (1973-now) Integral geometry [See also 52A22, 60D05]; differential forms, currents, etc. [See mainly 58Axx]
 ***** The isoperimetric inequality on a surface
 :PROPERTIES:

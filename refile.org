@@ -239,3 +239,6 @@ Either by using literal blocks in org-mode or using sagetex I can produce images
   SCHEDULED: <2014-04-01 Tue>
 [2014-03-05 Wed 13:27]
 https://scirate.com/
+* TODO Make fix 0's in paper names
+[2014-03-08 Sat 14:54]
+sometimes the bib ref I have has MR<num> but the paper is saved as MR0<num> which means my links are broken
