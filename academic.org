@@ -279,9 +279,12 @@ I want to do teaching with sage-tex and/or org-mode with babel; i.e. interactive
 	 :END:
 ******** NEXT Research Environment
 	 :LOGBOOK:
-	 CLOCK: [2014-03-08 Sat 11:06]
+	 CLOCK: [2014-03-08 Sat 11:06]--[2014-03-08 Sat 11:25] =>  0:19
 	 :END:
 ******** NEXT Feasibility and Benefit
+	 :LOGBOOK:
+	 CLOCK: [2014-03-08 Sat 11:25]--[2014-03-08 Sat 11:28] =>  0:03
+	 :END:
 ******** NEXT DECRA Candidate
 ******** NEXT Management of Data
 ******** NEXT References
