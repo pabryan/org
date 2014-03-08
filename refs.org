@@ -174,6 +174,13 @@
 [[bib:MR2067135][MR2067135-bib]]
 ** 52 (1940-now) Convex and discrete geometry 	   :convex:geometry:discrete:
 *** 52A   (1973-now) General convexity
+**** 52A39 (1991-now) Mixed volumes and related topics
+***** Convex bodies: the {B}runn-{M}inkowski theory
+:PROPERTIES:
+:Custom_ID: MR1216521
+:END:
+[[papers:MR1216521][MR1216521-paper]]
+[[bib:MR1216521][MR1216521-bib]]
 **** 52A40   (1973-now) Inequalities and extremum problems :inequalities:optimization:
 ***** The isoperimetric inequality			      :isoperimetric:
 :PROPERTIES:
@@ -304,14 +311,14 @@
 :END:
 [[papers:MR2888198][MR2888198-paper]]
 [[bib:MR2888198][MR2888198-bib]]
-**** 53C15   (1973-now) General geometric structures on manifolds (almost complex, almost product structures, etc.) :structures:
+**** 53C15 (1973-now) General geometric structures on manifolds (almost complex, almost product structures, etc.) :structures:
 ***** Noncommutative {G}auss map		     :gauss_map:hypersurface:
 :PROPERTIES:
 :Custom_ID: MR1168123
 :END:
 [[papers:MR1168123][MR1168123-paper]]
 
-**** 53C20   (1973-now) Global Riemannian geometry, including pinching [See also 31C12, 58B20] :riemannian:pinching:
+**** 53C20 (1973-now) Global Riemannian geometry, including pinching [See also 31C12, 58B20] :riemannian:pinching:
 ***** Killing fields, mean curvature, translation maps :killing_fields:translation:
 :PROPERTIES:
 :Custom_ID: MR2114163
@@ -366,7 +373,7 @@
 :END:
 [[papers:MR2167269][MR2167269-paper]]
 [[bib:MR2167269][MR2167269-bib]]
-**** 53C21   (1980-now) Methods of Riemannian geometry, including PDE methods; curvature restrictions :riemannian:
+**** 53C21 (1980-now) Methods of Riemannian geometry, including PDE methods; curvature restrictions :riemannian:
 ***** An isoperimetric estimate for the {R}icci flow on the two-sphere :ricci_flow:isoperimetric:surfaces:evolution:
 :PROPERTIES:
 :Custom_ID: MR1369139
@@ -397,7 +404,13 @@
 :END:
 [[papers:MR1094458][MR1094458-paper]]
 [[bib:MR1094458][MR1094458-bib]]
-**** 53C25   (1973-now) Special Riemannian manifolds (Einstein, Sasakian, etc.) :riemannian:
+***** Mean curvature flow and geometric inequalities
+:PROPERTIES:
+:Custom_ID: MR1650335
+:END:
+[[papers:MR1650335][MR1650335-paper]]
+[[bib:MR1650335][MR1650335-bib]]
+**** 53C25 (1973-now) Special Riemannian manifolds (Einstein, Sasakian, etc.) :riemannian:
 ***** Four-manifolds with positive curvature operator :four_manifold:ricci_flow:evolution:
 :PROPERTIES:
 :Custom_ID: MR862046
@@ -408,14 +421,14 @@
 :Custom_ID: MR664497
 :END:
 [[papers:MR664497][MR664497-paper]]
-**** 53C40   (1973-now) Global submanifolds [See also 53B25] :global:submanifold:
+**** 53C40 (1973-now) Global submanifolds [See also 53B25] :global:submanifold:
 ***** On {A}. {H}urwitz' method in isoperimetric inequalities :isoperimetric:
 :PROPERTIES:
 :Custom_ID: MR0493885
 :END:
 [[papers:MR0493885][MR0493885-paper]]
 
-**** 53C42   (1980-now) Immersions (minimal, prescribed curvature, tight, etc.) [See also 49Q05, 49Q10, 53A10, 57R40, 57R42] :immersions:submanifold:
+**** 53C42 (1980-now) Immersions (minimal, prescribed curvature, tight, etc.) [See also 49Q05, 49Q10, 53A10, 57R40, 57R42] :immersions:submanifold:
 ***** Constant mean curvature hypersurfaces in a {L}ie group with a bi-invariant metric :cmc:lie_group:hypersurface:
 :PROPERTIES:
 :Custom_ID: MR2002821
@@ -627,6 +640,13 @@
 :END:
 [[papers:MR2971286][MR2971286-paper]]
 [[bib:MR2971286][MR2971286-bib]]
+**** 53C65 (1973-now) Integral geometry [See also 52A22, 60D05]; differential forms, currents, etc. [See mainly 58Axx]
+***** The isoperimetric inequality on a surface
+:PROPERTIES:
+:Custom_ID: MR1714389
+:END:
+[[papers:MR1714389][MR1714389-paper]]
+[[bib:MR1714389][MR1714389-bib]]
 ** Topological change in mean convex mean curvature flow
 :PROPERTIES:
 :Custom_ID: MR3020169
@@ -815,6 +835,12 @@ Here I need to do some more work since $u \mapsto g(\grad u, \grad u)$ is not a 
 :END:
 [[papers:MR768584][MR768584-paper]]
 [[bib:MR768584][MR768584-bib]]
+***** Some isoperimetric inequalities and eigenvalue estimates
+:PROPERTIES:
+:Custom_ID: MR608287
+:END:
+[[papers:MR608287][MR608287-paper]]
+[[bib:MR608287][MR608287-bib]]
 **** 58G30   (1980-1999) Relations with special manifold structures (Riemannian, Finsler, etc.) :structures:special:
 ***** Harnack inequalities for evolving hypersurfaces :harnack:hypersurfaces:evolution:
 :PROPERTIES:
