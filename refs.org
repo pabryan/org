@@ -640,6 +640,12 @@
 :END:
 [[papers:MR2971286][MR2971286-paper]]
 [[bib:MR2971286][MR2971286-bib]]
+***** Volume preserving centro-affine normal flows
+:PROPERTIES:
+:Custom_ID: MR3078952
+:END:
+[[papers:MR3078952][MR3078952-paper]]
+[[bib:MR3078952][MR3078952-bib]]
 **** 53C65 (1973-now) Integral geometry [See also 52A22, 60D05]; differential forms, currents, etc. [See mainly 58Axx]
 ***** The isoperimetric inequality on a surface
 :PROPERTIES:
