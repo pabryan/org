@@ -23,6 +23,15 @@
 :END:
 [[papers:MR0257325][MR0257325-paper]]
 [[bib:MR0257325][MR0257325-bib]]
+** 34  View Publications (1940-now) Ordinary differential equations
+*** 34C  View Publications (1973-now) Qualitative theory [See also 37-XX]
+**** 34C10  View Publications (1973-now) Oscillation theory, zeros, disconjugacy and comparison theory
+***** Comparison theory for {R}iccati equations
+:PROPERTIES:
+:Custom_ID: MR1063226
+:END:
+[[papers:MR1063226][MR1063226-paper]]
+[[bib:MR1063226][MR1063226-bib]]
 ** 35 Partial differential equations					:pde:
 *** 35F (1973-now) General first-order equations and systems
 **** 35F20 (1973-now) Nonlinear first-order equations
@@ -459,6 +468,12 @@
 :END:
 [[papers:MR2584182][MR2584182-paper]]
 [[bib:MR2584182][MR2584182-bib]]
+***** Extrinsic upper bounds for {$\lambda_1$
+:PROPERTIES:
+:Custom_ID: MR936318
+:END:
+[[papers:MR936318][MR936318-paper]]
+[[bib:MR936318][MR936318-bib]]
 **** 53C44 (2000-now) Geometric evolution equations (mean curvature flow, Ricci flow, etc.) :evolution:
 ***** Curvature bounds by isoperimetric comparison for normalized {R}icci flow on the two-sphere :ricci_flow:surfaces:isoperimetric:
 :PROPERTIES:
