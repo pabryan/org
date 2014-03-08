@@ -265,7 +265,13 @@ I want to do teaching with sage-tex and/or org-mode with babel; i.e. interactive
 ****** TODO Project Description
 ******* TODO Project Description
 ******** NEXT Title
+	 :LOGBOOK:
+	 CLOCK: [2014-03-08 Sat 10:17]--[2014-03-08 Sat 10:20] =>  0:03
+	 :END:
 ******** NEXT Aims and Background
+	 :LOGBOOK:
+	 CLOCK: [2014-03-08 Sat 10:20]
+	 :END:
 ******** NEXT Project Quality and Innovation
 ******** NEXT Research Environment
 ******** NEXT Feasibility and Benefit
