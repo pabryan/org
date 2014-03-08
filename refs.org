@@ -989,6 +989,12 @@ Here I need to do some more work since $u \mapsto g(\grad u, \grad u)$ is not a 
 :END:
 [[papers:2012arXiv1204.5007A][2012arXiv1204.5007A-paper]]
 [[bib:2012arXiv1204.5007A][2012arXiv1204.5007A-bib]]
+*** Curvature flows in the sphere
+:PROPERTIES:
+:Custom_ID: 2013arXiv1308.1607G
+:END:
+[[papers:2013arXiv1308.1607G][2013arXiv1308.1607G-paper]]
+[[bib:2013arXiv1308.1607G][2013arXiv1308.1607G-bib]]
 * Misc
   :PROPERTIES:
   :COLUMNS: %75ITEM %TAGS
