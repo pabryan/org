@@ -257,6 +257,12 @@
 [[papers:MR2946930][MR2946930-paper]]
 [[bib:MR2946930][MR2946930-bib]]
 **** 53A10 Minimal surfaces, surfaces with prescribed mean curvature :minimal_surfaces:mean_curvature:submanifold:
+***** Asymptotic behavior for singularities of the mean curvature flow
+:PROPERTIES:
+:Custom_ID: MR1030675
+:END:
+[[papers:MR1030675][MR1030675-paper]]
+[[bib:MR1030675][MR1030675-bib]]
 ***** On the isoperimetric inequality for minimal surfaces    :isoperimetric:
 :PROPERTIES:
 :Custom_ID: MR764944
@@ -307,6 +313,12 @@
 :END:
 [[papers:MR812353][MR812353-paper]]
 [[bib:MR812353][MR812353-bib]]
+***** The volume preserving mean curvature flow
+:PROPERTIES:
+:Custom_ID: MR921165
+:END:
+[[papers:MR921165][MR921165-paper]]
+[[bib:MR921165][MR921165-bib]]
 **** 53A30 (1973-now) Conformal differential geometry
 ***** Constant geodesic curvature curves and isoperimetric domains in rotationally symmetric surfaces
 :PROPERTIES:
@@ -682,6 +694,12 @@
 [[papers:MR3078952][MR3078952-paper]]
 [[bib:MR3078952][MR3078952-bib]]
 **** 53C45 (1973-now) Global surface theory (convex surfaces à la A. D. Aleksandrov)
+***** Flow by mean curvature of convex surfaces into spheres
+:PROPERTIES:
+:Custom_ID: MR772132
+:END:
+[[papers:MR772132][MR772132-paper]]
+[[bib:MR772132][MR772132-bib]]
 ***** On the regularity of the solution of the {$n$}-dimensional {M}inkowski problem
 :PROPERTIES:
 :Custom_ID: MR0423267
