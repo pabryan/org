@@ -305,6 +305,9 @@ I want to do teaching with sage-tex and/or org-mode with babel; i.e. interactive
 	:END:
 ****** TODO Budget Justification
 ******* NEXT Salary
+	:LOGBOOK:
+	CLOCK: [2014-03-09 Sun 11:14]--[2014-03-09 Sun 12:34] =>  1:20
+	:END:
 ******* NEXT Equipment
 ******* NEXT Travel
 ******* NEXT Publication 
@@ -1886,7 +1889,7 @@ If $\exp: T_x N \to N$ is a diffeomorphism (in particular for Cartan-Hadamaard) 
 ****** Ambient Minkowski space
 We would do it all in Minkowski space. I think the vector field gives the distance in Minkowski space to the totally geodesic hypersurface. We can then set up all our dual theory, radial functions and so forth in that ambient space, possibly with an intrinsic interpretation. In this setting we could maybe also do $\sphere^n$? Another interesting point is that we can do a normalised flow, by simultaneously expanding $M_t$ and $\HH^{n+1}$ by rescaling the ambient Minkowski space.
 **** TODO Study non-smooth mean curvature flow, minimal surfaces via support fn
-     SCHEDULED: <2014-03-12 Wed>
+     SCHEDULED: <2014-04-12 Sat>
   :LOGBOOK:
   CLOCK: [2013-10-19 Sat 15:33]--[2013-10-19 Sat 15:34] =>  0:01
   :END:
@@ -3066,7 +3069,7 @@ First variation.
 ***** Lec 03
 Radon measures: compactness and Reisz representation.
 *** TODO Convex Geometry					     :CONVEX:
-    SCHEDULED: <2014-03-11 Tue>
+    SCHEDULED: <2014-04-11 Fri>
     :LOGBOOK:
     - State "TODO"       from "HOLD"       [2013-10-09 Wed 17:24]
     - State "HOLD"       from "TODO"       [2013-08-04 Sun 16:46] \\
@@ -3084,7 +3087,7 @@ Radon measures: compactness and Reisz representation.
      :END:
 
 *** TODO Bundle Theory
-    SCHEDULED: <2014-03-15 Sat>
+    SCHEDULED: <2014-04-15 Tue>
     :PROPERTIES:
     :ID:       05ad3c1c-4842-4796-8ecc-a417aee5b7cc
     :END:
