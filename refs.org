@@ -136,6 +136,13 @@
 :END:
 [[papers:MR2455580][MR2455580-paper]]
 [[bib:MR2455580][MR2455580-bib]]
+**** Lectures on geometric measure theory
+:PROPERTIES:
+:Custom_ID: MR756417
+:END:
+[[papers:MR756417][MR756417-paper]]
+[[bib:MR756417][MR756417-bib]]
+
 *** 49F  (1973-1990) Manifolds [See also 58Exx.]
 **** 49F20  (1973-1990) Geometric measure and integration theory, integral and normal currents, flat chains and cochains, varifolds [See also 28A75, 32C30, 58A25, 58C35.]
 **** On the regularity of boundaries of sets minimizing perimeter with a volume constraint
