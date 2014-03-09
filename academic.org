@@ -299,7 +299,10 @@ I want to do teaching with sage-tex and/or org-mode with babel; i.e. interactive
 	 CLOCK: [2014-03-08 Sat 14:19]--[2014-03-08 Sat 14:54] =>  0:35
 	 CLOCK: [2014-03-08 Sat 12:52]--[2014-03-08 Sat 13:00] =>  0:08
 	 :END:
-******* TODO Organisational Statement
+******* NEXT Organisational Statement
+	:LOGBOOK:
+	CLOCK: [2014-03-08 Sat 16:40]--[2014-03-08 Sat 17:53] =>  1:13
+	:END:
 ****** TODO Budget Justification
 ******* NEXT Salary
 ******* NEXT Equipment

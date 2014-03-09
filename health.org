@@ -591,8 +591,9 @@
     :END:
 
 *** NEXT Afternoon Relax
-    SCHEDULED: <2014-03-07 Fri .+1d/2d>
+    SCHEDULED: <2014-03-09 Sun .+1d/2d>
     :LOGBOOK:
+    - State "DONE"       from "NEXT"       [2014-03-08 Sat 16:39]
     - State "DONE"       from "NEXT"       [2014-03-06 Thu 19:33]
     - State "DONE"       from "NEXT"       [2014-03-05 Wed 20:58]
     - State "DONE"       from "NEXT"       [2014-03-02 Sun 22:52]
@@ -777,12 +778,13 @@
     :STYLE:    habit
     :REPEAT_TO_STATE: NEXT
     :ID:       c0aaf33a-af77-446b-b9fd-cf2d2f78c12a
-    :LAST_REPEAT: [2014-03-06 Thu 19:33]
+    :LAST_REPEAT: [2014-03-08 Sat 16:39]
     :END:
   
 *** NEXT Daily Stretch
-    SCHEDULED: <2014-03-07 Fri .+1d/2d>
+    SCHEDULED: <2014-03-09 Sun .+1d/2d>
     :LOGBOOK:
+    - State "DONE"       from "NEXT"       [2014-03-08 Sat 16:39]
     - State "DONE"       from "NEXT"       [2014-03-06 Thu 22:20]
     - State "DONE"       from "NEXT"       [2014-03-05 Wed 20:58]
     - State "DONE"       from "NEXT"       [2014-03-03 Mon 23:03]
@@ -915,7 +917,7 @@
     :STYLE:    habit
     :REPEAT_TO_STATE: NEXT
     :ID:       d439600f-c40d-4dd3-82ca-3e7d9e35f2b3
-    :LAST_REPEAT: [2014-03-06 Thu 22:20]
+    :LAST_REPEAT: [2014-03-08 Sat 16:39]
     :END:
   
 *** NEXT Handstand practice
