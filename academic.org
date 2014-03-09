@@ -303,17 +303,28 @@ I want to do teaching with sage-tex and/or org-mode with babel; i.e. interactive
 	:LOGBOOK:
 	CLOCK: [2014-03-08 Sat 16:40]--[2014-03-08 Sat 17:53] =>  1:13
 	:END:
-****** TODO Budget Justification
-******* NEXT Salary
+****** DONE Budget Justification
+       :LOGBOOK:
+       - State "DONE"       from "TODO"       [2014-03-09 Sun 15:07]
+       :END:
+******* DONE Salary
 	:LOGBOOK:
+	- State "DONE"       from "NEXT"       [2014-03-09 Sun 15:06]
 	CLOCK: [2014-03-09 Sun 11:14]--[2014-03-09 Sun 12:34] =>  1:20
 	:END:
-******* NEXT Equipment
-******* NEXT Travel
+******* DONE Equipment
 	:LOGBOOK:
+	- State "DONE"       from "NEXT"       [2014-03-09 Sun 15:06]
+	:END:
+******* DONE Travel
+	:LOGBOOK:
+	- State "DONE"       from "NEXT"       [2014-03-09 Sun 15:06]
 	CLOCK: [2014-03-09 Sun 13:57]--[2014-03-09 Sun 14:43] =>  0:46
 	:END:
-******* NEXT Publication 
+******* DONE Publication 
+	:LOGBOOK:
+	- State "DONE"       from "NEXT"       [2014-03-09 Sun 15:06]
+	:END:
 - Open Access Journals
 ******* CANCELLED Establish Geometric Analysis Forum
 	:LOGBOOK:
@@ -327,9 +338,10 @@ I want to do teaching with sage-tex and/or org-mode with babel; i.e. interactive
        	- State "DONE"       from "NEXT"       [2014-03-01 Sat 14:18]
        	CLOCK: [2014-03-01 Sat 14:07]--[2014-03-01 Sat 14:18] =>  0:11
        	:END:
-******* NEXT Prepare org publishing
+******* DONE Prepare org publishing
 	:LOGBOOK:
-	CLOCK: [2014-03-09 Sun 14:43]
+	- State "DONE"       from "NEXT"       [2014-03-09 Sun 15:06]
+	CLOCK: [2014-03-09 Sun 14:43]--[2014-03-09 Sun 15:06] =>  0:23
 	:END:
 ******* NEXT Proof read
 ******* NEXT Send to Julie/Ben to look over
