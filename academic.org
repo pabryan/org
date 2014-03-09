@@ -310,9 +310,16 @@ I want to do teaching with sage-tex and/or org-mode with babel; i.e. interactive
 	:END:
 ******* NEXT Equipment
 ******* NEXT Travel
+	:LOGBOOK:
+	CLOCK: [2014-03-09 Sun 13:57]--[2014-03-09 Sun 14:43] =>  0:46
+	:END:
 ******* NEXT Publication 
 - Open Access Journals
-******* NEXT Establish Geometric Analysis Forum
+******* CANCELLED Establish Geometric Analysis Forum
+	:LOGBOOK:
+	- State "CANCELLED"  from "NEXT"       [2014-03-09 Sun 13:57] \\
+	  Not this time round. Keep it simple to begin with!
+	:END:
 - Need web hosting for early dissemination and discussion based on SPNET. Leverage existing technology like Google+ for discussions and video conferencing. What about broadcasting seminars from leading geometric analysts?
 ****** TODO Overall proposal
 ******* DONE Create skeleton proposal
@@ -320,6 +327,10 @@ I want to do teaching with sage-tex and/or org-mode with babel; i.e. interactive
        	- State "DONE"       from "NEXT"       [2014-03-01 Sat 14:18]
        	CLOCK: [2014-03-01 Sat 14:07]--[2014-03-01 Sat 14:18] =>  0:11
        	:END:
+******* NEXT Prepare org publishing
+	:LOGBOOK:
+	CLOCK: [2014-03-09 Sun 14:43]
+	:END:
 ******* NEXT Proof read
 ******* NEXT Send to Julie/Ben to look over
 ***** TODO Application
