@@ -7510,7 +7510,7 @@ Lectures in calendar and tasks like planning lectures.
 ********** NEXT Lecture 10.2
 	   DEADLINE: <2014-03-12 Wed>
 	   :LOGBOOK:
-	   CLOCK: [2014-03-10 Mon 14:07]
+	   CLOCK: [2014-03-10 Mon 14:07]--[2014-03-10 Mon 14:27] =>  0:20
 	   :END:
 	   :PROPERTIES:
 	   :ID:       8bb0887a-4a36-472d-b4ff-a09c64014e4d
@@ -8484,6 +8484,7 @@ Get it from cloud.sagemath and add it to my 20b working
 	:END:
 ******* Office hours
 	:LOGBOOK:
+	CLOCK: [2014-03-10 Mon 14:27]
 	CLOCK: [2014-03-05 Wed 14:30]--[2014-03-05 Wed 15:16] =>  0:46
 	CLOCK: [2014-03-03 Mon 14:12]--[2014-03-03 Mon 14:37] =>  0:25
 	CLOCK: [2014-02-24 Mon 13:58]--[2014-02-24 Mon 14:50] =>  0:52
