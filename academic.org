@@ -960,6 +960,9 @@ I have "where" for some refs and it would be good to have the precise section.
 	:END:
 ******* NEXT Proof read final draft
 	 DEADLINE: <2014-03-14 Fri>
+	 :LOGBOOK:
+	 CLOCK: [2014-03-10 Mon 11:10]--[2014-03-10 Mon 11:25] =>  0:15
+	 :END:
 ****** TODO Things to check
        :PROPERTIES:
        :ID:       2dab82b7-790c-4235-8b60-23b4587e88c6

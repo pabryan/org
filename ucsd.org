@@ -8394,6 +8394,9 @@ Lectures in calendar and tasks like planning lectures.
 
 ********* NEXT Prepare grading guide for final
   DEADLINE: <2014-03-09 Sun>
+  :LOGBOOK:
+  CLOCK: [2014-03-10 Mon 11:25]
+  :END:
 [2014-03-06 Thu 19:34]
 
 ******** DONE Follow up on OSD requirements for quizzes
