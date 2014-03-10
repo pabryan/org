@@ -7747,6 +7747,9 @@ Lectures in calendar and tasks like planning lectures.
 	  :END:
 <2014-03-03 Mon 12:00-13:00>
 ********* Lecture 10.1
+	  :LOGBOOK:
+	  CLOCK: [2014-03-10 Mon 11:45]
+	  :END:
 <2014-03-10 Mon 12:00-13:00>
 ******** Wed
 ********* Lecture 1.2
@@ -8395,7 +8398,7 @@ Lectures in calendar and tasks like planning lectures.
 ********* NEXT Prepare grading guide for final
   DEADLINE: <2014-03-09 Sun>
   :LOGBOOK:
-  CLOCK: [2014-03-10 Mon 11:25]
+  CLOCK: [2014-03-10 Mon 11:25]--[2014-03-10 Mon 11:45] =>  0:20
   :END:
 [2014-03-06 Thu 19:34]
 
