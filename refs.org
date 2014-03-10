@@ -914,6 +914,12 @@ Here I need to do some more work since $u \mapsto g(\grad u, \grad u)$ is not a 
 :END:
 [[papers:MR608287][MR608287-paper]]
 [[bib:MR608287][MR608287-bib]]
+***** In\'egalit\'es isop\'erim\'etriques et analytiques sur les vari\'et\'es riemanniennes
+:PROPERTIES:
+:Custom_ID: MR999971
+:END:
+[[papers:MR999971][MR999971-paper]]
+[[bib:MR999971][MR999971-bib]]
 **** 58G30   (1980-1999) Relations with special manifold structures (Riemannian, Finsler, etc.) :structures:special:
 ***** Harnack inequalities for evolving hypersurfaces :harnack:hypersurfaces:evolution:
 :PROPERTIES:
