@@ -7507,8 +7507,11 @@ Lectures in calendar and tasks like planning lectures.
 	   :PROPERTIES:
 	   :ID:       7892b72d-c424-4a67-a05c-196b4e73bca7
 	   :END:
-********** TODO Lecture 10.2
+********** NEXT Lecture 10.2
 	   DEADLINE: <2014-03-12 Wed>
+	   :LOGBOOK:
+	   CLOCK: [2014-03-10 Mon 14:07]
+	   :END:
 	   :PROPERTIES:
 	   :ID:       8bb0887a-4a36-472d-b4ff-a09c64014e4d
 	   :END:
@@ -7690,9 +7693,10 @@ Lectures in calendar and tasks like planning lectures.
 ********* TODO Collect exams
 	  DEADLINE: <2014-03-18 Tue>
 
-********* NEXT Check final questions
+********* DONE Check final questions
 	  :LOGBOOK:
-	  CLOCK: [2014-03-10 Mon 13:56]
+	  - State "DONE"       from "NEXT"       [2014-03-10 Mon 14:06]
+	  CLOCK: [2014-03-10 Mon 13:56]--[2014-03-10 Mon 14:06] =>  0:10
 	  :END:
 ****** Clocking
 ******* Admin
