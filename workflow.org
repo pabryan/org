@@ -1603,6 +1603,7 @@ Should run hg clone ssh://hg@bitbucket.org/pabryan/<proj>
   :END:
 ** Organisation
   :LOGBOOK:
+  CLOCK: [2014-03-10 Mon 13:10]--[2014-03-10 Mon 13:16] =>  0:06
   CLOCK: [2014-03-10 Mon 10:55]--[2014-03-10 Mon 11:10] =>  0:15
   CLOCK: [2014-03-09 Sun 11:13]--[2014-03-09 Sun 11:14] =>  0:01
   CLOCK: [2014-03-09 Sun 11:07]--[2014-03-09 Sun 11:08] =>  0:01

@@ -7748,7 +7748,7 @@ Lectures in calendar and tasks like planning lectures.
 <2014-03-03 Mon 12:00-13:00>
 ********* Lecture 10.1
 	  :LOGBOOK:
-	  CLOCK: [2014-03-10 Mon 11:45]
+	  CLOCK: [2014-03-10 Mon 11:45]--[2014-03-10 Mon 13:10] =>  1:25
 	  :END:
 <2014-03-10 Mon 12:00-13:00>
 ******** Wed
@@ -7906,6 +7906,10 @@ $$
 (e^{ix} - e^{-ix})^5. \overline{(e^{ix} - e^{-ix})^5} = r^2
 $$
 where $$r$$ is the magnitude of $$(e^{-x} - e^{-ix})^5. To work out $$r$$, what do we do?
+******* Students
+******** Grades
+********* Alejandro Franco A10437151
+MT2: 3
 ****** Tasks
 ******* DONE Plan course
 	:LOGBOOK:
@@ -8398,6 +8402,7 @@ Lectures in calendar and tasks like planning lectures.
 ********* NEXT Prepare grading guide for final
   DEADLINE: <2014-03-09 Sun>
   :LOGBOOK:
+  CLOCK: [2014-03-10 Mon 13:16]
   CLOCK: [2014-03-10 Mon 11:25]--[2014-03-10 Mon 11:45] =>  0:20
   :END:
 [2014-03-06 Thu 19:34]
