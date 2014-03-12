@@ -459,6 +459,13 @@
 :END:
 [[papers:MR1650335][MR1650335-paper]]
 [[bib:MR1650335][MR1650335-bib]]
+**** 53C23 (1991-now) Global geometric and topological methods (à la Gromov); differential geometric analysis on metric spaces
+***** Metric structures for {R}iemannian and non-{R}iemannian spaces
+:PROPERTIES:
+:Custom_ID: MR1699320
+:END:
+[[papers:MR1699320][MR1699320-paper]]
+[[bib:MR1699320][MR1699320-bib]]
 **** 53C25 (1973-now) Special Riemannian manifolds (Einstein, Sasakian, etc.) :riemannian:
 ***** Four-manifolds with positive curvature operator :four_manifold:ricci_flow:evolution:
 :PROPERTIES:

@@ -7599,8 +7599,11 @@ Lectures in calendar and tasks like planning lectures.
 	   :PROPERTIES:
 	   :ID:       c5e4d511-9cc5-40da-966e-07a394bdad10
 	   :END:
-********** TODO Lecture 10.3
+********** NEXT Lecture 10.3
 	   DEADLINE: <2014-03-14 Fri>
+	   :LOGBOOK:
+	   CLOCK: [2014-03-12 Wed 11:03]
+	   :END:
 	   :PROPERTIES:
 	   :ID:       97c0a238-683f-4873-838d-bffad5624ade
 	   :END:
@@ -9075,7 +9078,7 @@ http://urp.ucsd.edu/
 	<2013-11-22 Fri 12:00-13:00>
 ******* CSF Weekly Meeting
 	:LOGBOOK:
-	CLOCK: [2014-03-12 Wed 09:07]
+	CLOCK: [2014-03-12 Wed 09:07]--[2014-03-12 Wed 09:55] =>  0:48
 	CLOCK: [2014-02-26 Wed 09:06]--[2014-02-26 Wed 10:06] =>  1:00
 	CLOCK: [2014-02-12 Wed 09:04]--[2014-02-12 Wed 10:26] =>  1:22
 	CLOCK: [2014-02-05 Wed 09:05]--[2014-02-05 Wed 10:15] =>  1:10
@@ -9711,6 +9714,7 @@ Abstract:
 ****** Clocking
 ******* MCF level sets seminar
         :LOGBOOK:
+	CLOCK: [2014-03-12 Wed 09:55]--[2014-03-12 Wed 11:03] =>  1:08
 	CLOCK: [2014-03-07 Fri 09:58]--[2014-03-07 Fri 11:45] =>  1:47
 	:END:
 <2014-03-10 Mon 10:00-11:00>
