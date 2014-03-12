@@ -7708,6 +7708,7 @@ Lectures in calendar and tasks like planning lectures.
 ******* Admin
 ******* Office hours
 	:LOGBOOK:
+	CLOCK: [2014-03-12 Wed 15:15]
 	CLOCK: [2014-03-10 Mon 15:25]--[2014-03-10 Mon 15:45] =>  0:20
 	CLOCK: [2014-03-07 Fri 15:15]--[2014-03-07 Fri 15:50] =>  0:35
 	CLOCK: [2014-02-12 Wed 14:55]--[2014-02-12 Wed 15:16] =>  0:21
@@ -8242,7 +8243,7 @@ Lectures in calendar and tasks like planning lectures.
 ********** NEXT Lecture 10.3
 	   DEADLINE: <2014-03-14 Fri>
 	   :LOGBOOK:
-	   CLOCK: [2014-03-12 Wed 15:02]
+	   CLOCK: [2014-03-12 Wed 15:02]--[2014-03-12 Wed 15:15] =>  0:13
 	   :END:
 	   :PROPERTIES:
 	   :ID:       d02ab0f7-31a0-489b-b26a-8fc9b65bfbde
