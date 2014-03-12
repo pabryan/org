@@ -219,7 +219,7 @@ I want to do teaching with sage-tex and/or org-mode with babel; i.e. interactive
        :LOGBOOK:
        CLOCK: [2014-03-06 Thu 08:27]--[2014-03-06 Thu 08:46] =>  0:19
        :END:
-***** TODO Proposal
+***** TODO Draft Proposal
       DEADLINE: <2014-03-12 Wed>
 ****** DONE Project summary
        :LOGBOOK:
@@ -300,9 +300,10 @@ I want to do teaching with sage-tex and/or org-mode with babel; i.e. interactive
 	 CLOCK: [2014-03-08 Sat 14:19]--[2014-03-08 Sat 14:54] =>  0:35
 	 CLOCK: [2014-03-08 Sat 12:52]--[2014-03-08 Sat 13:00] =>  0:08
 	 :END:
-******* NEXT Organisational Statement
+******* DONE Organisational Statement
 	:LOGBOOK:
-	CLOCK: [2014-03-11 Tue 20:16]
+	- State "DONE"       from "NEXT"       [2014-03-11 Tue 20:56]
+	CLOCK: [2014-03-11 Tue 20:16]--[2014-03-11 Tue 20:56] =>  0:40
 	CLOCK: [2014-03-08 Sat 16:40]--[2014-03-08 Sat 17:53] =>  1:13
 	:END:
 ****** DONE Budget Justification
