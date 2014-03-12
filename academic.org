@@ -348,6 +348,8 @@ I want to do teaching with sage-tex and/or org-mode with babel; i.e. interactive
 	:END:
 ******* NEXT Proof read
 ******* NEXT Send to Julie/Ben to look over
+***** TODO Final proposal
+****** NEXT Amend proposal based on comments
 ***** TODO Application
 ****** NEXT Fill in online application
        :LOGBOOK:
