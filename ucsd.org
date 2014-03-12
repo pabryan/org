@@ -8239,8 +8239,11 @@ Lectures in calendar and tasks like planning lectures.
 	   :PROPERTIES:
 	   :ID:       6bf1e96b-8384-4e0f-9a20-87fdecb8ffb1
 	   :END:
-********** TODO Lecture 10.3
+********** NEXT Lecture 10.3
 	   DEADLINE: <2014-03-14 Fri>
+	   :LOGBOOK:
+	   CLOCK: [2014-03-12 Wed 15:02]
+	   :END:
 	   :PROPERTIES:
 	   :ID:       d02ab0f7-31a0-489b-b26a-8fc9b65bfbde
 	   :END:
@@ -8500,7 +8503,7 @@ Get it from cloud.sagemath and add it to my 20b working
 	:END:
 ******* Office hours
 	:LOGBOOK:
-	CLOCK: [2014-03-12 Wed 13:59]
+	CLOCK: [2014-03-12 Wed 13:59]--[2014-03-12 Wed 15:02] =>  1:03
 	CLOCK: [2014-03-10 Mon 14:27]--[2014-03-10 Mon 15:25] =>  0:58
 	CLOCK: [2014-03-05 Wed 14:30]--[2014-03-05 Wed 15:16] =>  0:46
 	CLOCK: [2014-03-03 Mon 14:12]--[2014-03-03 Mon 14:37] =>  0:25
