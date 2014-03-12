@@ -271,7 +271,7 @@ I want to do teaching with sage-tex and/or org-mode with babel; i.e. interactive
 	 :END:
 ******** NEXT Aims and Background
 	 :LOGBOOK:
-	 CLOCK: [2014-03-11 Tue 22:27]
+	 CLOCK: [2014-03-11 Tue 22:27]--[2014-03-11 Tue 23:29] =>  1:02
 	 CLOCK: [2014-03-09 Sun 19:56]--[2014-03-09 Sun 21:27] =>  1:31
 	 CLOCK: [2014-03-08 Sat 10:20]--[2014-03-08 Sat 10:54] =>  0:34
 	 :END:
