@@ -302,6 +302,7 @@ I want to do teaching with sage-tex and/or org-mode with babel; i.e. interactive
 	 :END:
 ******* NEXT Organisational Statement
 	:LOGBOOK:
+	CLOCK: [2014-03-11 Tue 20:16]
 	CLOCK: [2014-03-08 Sat 16:40]--[2014-03-08 Sat 17:53] =>  1:13
 	:END:
 ****** DONE Budget Justification
@@ -371,7 +372,7 @@ https://researchservices.anu.edu.au/osr/programs/arc/arc-decra15.php
 **** Files
 [[file:~/reference/academic/grants/2015/decra]]
 [[file:~/working/academic/grants/decra/2015]]
-
+[[file:~/publish/decra_2015]]
 * Journals
   :PROPERTIES:
   :ID:       befc3eb8-1613-4ad7-b07f-d3190d33a71a
