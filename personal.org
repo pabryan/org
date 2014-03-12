@@ -418,10 +418,14 @@ Can we suspend loan repayments for a few months?
       :END:
 
 **** 2013
-***** NEXT Fill in tax return
+***** DONE Fill in tax return
       :LOGBOOK:
+      - State "DONE"       from "NEXT"       [2014-03-12 Wed 13:56]
       CLOCK: [2014-03-11 Tue 09:57]--[2014-03-11 Tue 10:59] =>  1:02
       :END:
+***** NEXT Send in tax return
+      DEADLINE: <2014-03-14 Fri>
+      [2014-03-12 Wed 13:55]
 *** Oz
 **** DONE Update Oz electoral role
      - State "DONE"       from "TODO"       [2013-05-17 Fri 09:18]
@@ -432,7 +436,16 @@ Can we suspend loan repayments for a few months?
   :ID:       077b5e97-463b-462d-8962-e991c23c284f
   :END:
 [2013-04-23 Tue 10:59]
-
+** US 
+*** Pay
+**** WAITING Contact UCSD about cancelling retirement plane
+  DEADLINE: <2014-03-03 Mon>
+  :LOGBOOK:
+  - State "WAITING"    from "TODO"       [2014-03-03 Mon 11:36] \\
+    Emailed the office about it. Waiting on response.
+  :END:
+[2014-03-01 Sat 10:04]
+Ron Lieberman <rlieberman@ucsd.edu>, 858-534-2154
 ** Monthly Spending Log
 *** August 2013
 

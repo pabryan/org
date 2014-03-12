@@ -1149,9 +1149,10 @@ Key numbers: FR428, FR382.
   :ID:       f909a3b6-067c-4315-8634-5bb028ca5ce3
   :END:
 [2013-11-15 Fri 14:52]
-** TODO Bring fan & mug to work
-  SCHEDULED: <2014-01-07 Tue>
+** DONE Bring fan & mug to work
+  <2014-01-07 Tue>
   :LOGBOOK:
+  - State "DONE"       from "TODO"       [2014-03-12 Wed 13:58]
   CLOCK: [2014-01-06 Mon 13:29]--[2014-01-06 Mon 13:30] =>  0:01
   :END:
 [2014-01-06 Mon 13:29]
@@ -1603,7 +1604,8 @@ Should run hg clone ssh://hg@bitbucket.org/pabryan/<proj>
   :END:
 ** Organisation
   :LOGBOOK:
-  CLOCK: [2014-03-12 Wed 13:09]
+  CLOCK: [2014-03-12 Wed 13:55]
+  CLOCK: [2014-03-12 Wed 13:09]--[2014-03-12 Wed 13:52] =>  0:43
   CLOCK: [2014-03-12 Wed 11:35]--[2014-03-12 Wed 11:45] =>  0:10
   CLOCK: [2014-03-12 Wed 09:05]--[2014-03-12 Wed 09:07] =>  0:02
   CLOCK: [2014-03-11 Tue 20:56]--[2014-03-11 Tue 20:57] =>  0:01
@@ -3067,8 +3069,10 @@ When I set up scoring the day:
 - [ ] Collate data such as sleep, weight, exercise, diet etc.
 
 ** NEXT Daily Plan [0/7]
-   SCHEDULED: <2014-03-12 Wed .+1d/2d>
+   SCHEDULED: <2014-03-13 Thu .+1d/2d>
    :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2014-03-12 Wed 13:55]
+   CLOCK: [2014-03-12 Wed 13:52]--[2014-03-12 Wed 13:55] =>  0:03
    - State "DONE"       from "NEXT"       [2014-03-11 Tue 11:00]
    - State "DONE"       from "NEXT"       [2014-03-10 Mon 10:55]
    CLOCK: [2014-03-10 Mon 10:50]--[2014-03-10 Mon 10:55] =>  0:05
@@ -3546,7 +3550,7 @@ When I set up scoring the day:
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
    :ID:       ef051ee0-1113-4604-b355-450a5a47848b
-   :LAST_REPEAT: [2014-03-11 Tue 11:00]
+   :LAST_REPEAT: [2014-03-12 Wed 13:55]
    :LAST_REPEAT: [2014-01-25 Sat 12:49]
    :END:
 
