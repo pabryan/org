@@ -422,6 +422,14 @@
 :END:
 [[papers:MR2167269][MR2167269-paper]]
 [[bib:MR2167269][MR2167269-bib]]
+***** Lower curvature bounds, {T}oponogov's theorem, and bounded topology
+:PROPERTIES:
+:Custom_ID: MR839689
+:END:
+[[papers:MR839689][MR839689-paper]]
+[[bib:MR839689][MR839689-bib]]
+
+
 **** 53C21 (1980-now) Methods of Riemannian geometry, including PDE methods; curvature restrictions :riemannian:
 ***** An isoperimetric estimate for the {R}icci flow on the two-sphere :ricci_flow:isoperimetric:surfaces:evolution:
 :PROPERTIES:
@@ -962,6 +970,14 @@ Here I need to do some more work since $u \mapsto g(\grad u, \grad u)$ is not a 
 :Custom_ID: MR2170766
 :END:
 [[papers:MR2170766][MR2170766-paper]]
+
+* ZBMath
+** Sur les surfaces \`a courbure n\'egative.
+:PROPERTIES:
+:Custom_ID: zbMATH02588223
+:END:
+[[papers:zbMATH02588223][zbMATH02588223-paper]]
+[[bib:zbMATH02588223][zbMATH02588223-bib]]
 
 * ArXiv 							      :arxiv:
   :PROPERTIES:
