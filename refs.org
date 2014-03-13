@@ -42,6 +42,14 @@
 [[papers:MR690039][MR690039-paper]]
 [[bib:MR690039][MR690039-bib]]
 *** 35J  (1973-now) Elliptic equations and systems [See also 58J10, 58J20]
+**** 35J10 (1973-now) Schrödinger operator [See also 35Pxx]
+***** Proof of the fundamental gap conjecture
+:PROPERTIES:
+:Custom_ID: MR2784332
+:END:
+[[papers:MR2784332][MR2784332-paper]]
+[[bib:MR2784332][MR2784332-bib]]
+
 **** 35J55  (1973-2009) Boundary value problems for elliptic systems
 ***** Viscosity solutions of fully nonlinear degenerated elliptic systems
 :PROPERTIES:
