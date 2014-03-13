@@ -429,6 +429,24 @@
 [[papers:MR839689][MR839689-paper]]
 [[bib:MR839689][MR839689-bib]]
 
+***** Necessary and sufficient conditions for continuity of optimal transport maps on {R}iemannian manifolds
+:PROPERTIES:
+:Custom_ID: MR2872966
+:END:
+[[papers:MR2872966][MR2872966-paper]]
+[[bib:MR2872966][MR2872966-bib]]
+***** Tangent cut loci on surfaces
+:PROPERTIES:
+:Custom_ID: MR2784296
+:END:
+[[papers:MR2784296][MR2784296-paper]]
+[[bib:MR2784296][MR2784296-bib]]
+***** The {L}ipschitz continuity of the distance function to the cut locus
+:PROPERTIES:
+:Custom_ID: MR1695025
+:END:
+[[papers:MR1695025][MR1695025-paper]]
+[[bib:MR1695025][MR1695025-bib]]
 
 **** 53C21 (1980-now) Methods of Riemannian geometry, including PDE methods; curvature restrictions :riemannian:
 ***** An isoperimetric estimate for the {R}icci flow on the two-sphere :ricci_flow:isoperimetric:surfaces:evolution:
