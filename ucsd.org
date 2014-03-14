@@ -7696,8 +7696,11 @@ Lectures in calendar and tasks like planning lectures.
 	  :END:
 
 ********* TODO Organise TA's to proctor
-********* TODO Collect exams
+********* DONE Collect exams
 	  DEADLINE: <2014-03-18 Tue>
+	  :LOGBOOK:
+	  - State "DONE"       from "TODO"       [2014-03-14 Fri 13:15]
+	  :END:
 
 ********* DONE Check final questions
 	  :LOGBOOK:

@@ -33,6 +33,15 @@
 [[papers:MR1063226][MR1063226-paper]]
 [[bib:MR1063226][MR1063226-bib]]
 ** 35 Partial differential equations					:pde:
+*** 35B (1973-now) Qualitative properties of solutions
+**** 35B50 (1980-now) Maximum principles
+***** The maximum principle for viscosity solutions of fully nonlinear second order partial differential equations
+:PROPERTIES:
+:Custom_ID: MR920674
+:END:
+[[papers:MR920674][MR920674-paper]]
+[[bib:MR920674][MR920674-bib]]
+
 *** 35F (1973-now) General first-order equations and systems
 **** 35F20 (1973-now) Nonlinear first-order equations
 ***** Viscosity solutions of {H}amilton-{J}acobi equations
