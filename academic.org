@@ -219,8 +219,11 @@ I want to do teaching with sage-tex and/or org-mode with babel; i.e. interactive
        :LOGBOOK:
        CLOCK: [2014-03-06 Thu 08:27]--[2014-03-06 Thu 08:46] =>  0:19
        :END:
-***** TODO Draft Proposal
+***** DONE Draft Proposal
       DEADLINE: <2014-03-16 Sun>
+      :LOGBOOK:
+      - State "DONE"       from "TODO"       [2014-03-16 Sun 11:28]
+      :END:
 ****** DONE Project summary
        :LOGBOOK:
        - State "DONE"       from "TODO"       [2014-03-06 Thu 11:27]
@@ -356,7 +359,11 @@ I want to do teaching with sage-tex and/or org-mode with babel; i.e. interactive
 	  Not this time round. Keep it simple to begin with!
 	:END:
 - Need web hosting for early dissemination and discussion based on SPNET. Leverage existing technology like Google+ for discussions and video conferencing. What about broadcasting seminars from leading geometric analysts?
-****** TODO Overall proposal
+****** DONE Overall proposal
+       :LOGBOOK:
+       - State "DONE"       from "TODO"       [2014-03-16 Sun 11:27]
+       CLOCK: [2014-03-16 Sun 11:27]--[2014-03-16 Sun 11:28] =>  0:01
+       :END:
 ******* DONE Create skeleton proposal
        	:LOGBOOK:
        	- State "DONE"       from "NEXT"       [2014-03-01 Sat 14:18]
@@ -367,23 +374,31 @@ I want to do teaching with sage-tex and/or org-mode with babel; i.e. interactive
 	- State "DONE"       from "NEXT"       [2014-03-09 Sun 15:06]
 	CLOCK: [2014-03-09 Sun 14:43]--[2014-03-09 Sun 15:06] =>  0:23
 	:END:
-******* NEXT Proof read
+******* DONE Proof read
 	:LOGBOOK:
-	CLOCK: [2014-03-16 Sun 10:57]
+	- State "DONE"       from "NEXT"       [2014-03-16 Sun 11:27]
+	CLOCK: [2014-03-16 Sun 10:57]--[2014-03-16 Sun 11:27] =>  0:30
 	:END:
-******* NEXT Send to Julie/Ben to look over
+******* DONE Send to Julie/Ben to look over
+	:LOGBOOK:
+	- State "DONE"       from "NEXT"       [2014-03-16 Sun 11:27]
+	:END:
 ***** TODO Final proposal
 ****** NEXT Amend proposal based on comments
 ***** TODO Application
-****** NEXT Fill in online application
+****** DONE Fill in online application
        :LOGBOOK:
+       - State "DONE"       from "NEXT"       [2014-03-16 Sun 11:27]
        CLOCK: [2014-03-04 Tue 08:18]--[2014-03-04 Tue 09:27] =>  1:09
        CLOCK: [2014-03-03 Mon 21:21]--[2014-03-03 Mon 23:03] =>  1:42
        :END:
 ***** Timeline
-****** TODO Submit DECRA proposal
+****** DONE Submit DECRA proposal
        DEADLINE: <2014-03-16 Sun -3w>
-****** TODO Submit revised proposal
+       :LOGBOOK:
+       - State "DONE"       from "TODO"       [2014-03-16 Sun 11:28]
+       :END:
+****** NEXT Submit revised proposal
        DEADLINE: <2014-03-27 Thu>
 ****** ARC Deadline
 <2014-04-02 Wed>
