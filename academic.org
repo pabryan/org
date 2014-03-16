@@ -280,6 +280,7 @@ I want to do teaching with sage-tex and/or org-mode with babel; i.e. interactive
 	 :END:
 ******** NEXT Project Quality and Innovation
 	 :LOGBOOK:
+	 CLOCK: [2014-03-15 Sat 17:45]--[2014-03-15 Sat 19:02] =>  1:17
 	 CLOCK: [2014-03-08 Sat 10:54]--[2014-03-08 Sat 11:06] =>  0:12
 	 :END:
 - This should really emphasise what new things I'm bringing to these problems.

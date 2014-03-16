@@ -1142,6 +1142,12 @@ Here I need to do some more work since $u \mapsto g(\grad u, \grad u)$ is not a 
 :END:
 [[papers:2013arXiv1308.1607G][2013arXiv1308.1607G-paper]]
 [[bib:2013arXiv1308.1607G][2013arXiv1308.1607G-bib]]
+*** An application of dual convex bodies to the inverse Gauss curvature flow
+:PROPERTIES:
+:Custom_ID: 2013arXiv1312.4242I
+:END:
+[[papers:2013arXiv1312.4242I][2013arXiv1312.4242I-paper]]
+[[bib:2013arXiv1312.4242I][2013arXiv1312.4242I-bib]]
 * Misc
   :PROPERTIES:
   :COLUMNS: %75ITEM %TAGS
