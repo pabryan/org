@@ -272,9 +272,10 @@ https://thinktankmaths.com/join/mathematicians/
 * TODO Check out chromecast
 [2014-03-14 Fri 11:31]
 <2014-04-01 Tue>
-* TODO Sat exam appears wrong in triton link calendar
+* DONE Sat exam appears wrong in triton link calendar
   DEADLINE: <2014-03-17 Mon>
   :LOGBOOK:
+  - State "DONE"       from "TODO"       [2014-03-15 Sat 22:44]
   CLOCK: [2014-03-14 Fri 15:44]--[2014-03-14 Fri 15:45] =>  0:01
   :END:
 [2014-03-14 Fri 15:44]
