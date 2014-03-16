@@ -2319,6 +2319,17 @@ In particular, if $X$ is not a gradient vector field, what is corresponding metr
        :LOGBOOK:
        CLOCK: [2014-01-31 Fri 13:05]--[2014-01-31 Fri 13:26] =>  0:21
        :END:
+**** TODO Isoprofile of covers
+
+***** Notes
+I think there should be a result which says that for $a$ sufficiently small that the isoperimetric profile for $\tilde M$ is less than (some multiple of) the length of the shortest noncontractible closed geodesic in $M$, the isoperimetric profiles of $M$ and $\tilde M$ are the same.  The idea is as follows:  If the isoperimetric region has nontrivial topology and less than half the area, then since $\varphi'\geq 0$ the boundary is convex, and we can apply e.g. harmonic map heat flow from any boundary component to obtain a closed geodesic, so the total length of each boundary component must be at least as large as the length of the shortest closed geodesic.  If the region is disc type, then we can lift to a disc in $\tilde M$ and apply the isoperimetric inequality there.  I guess this means the argument should work dor $a$ such that the isoperimetric profile of $\tilde M$ is less than twice the length of the shortest geodesic.
+
+So if we control the isoperimetric profile of $\tilde M$ and also get a lower bound on the length of the shortest geodesic, then we should be in business.
+
+In the genus 1 case (where we are not rescaling), the length of the shortest nontrivial geodesic is nondecreasing (an easier version of the second variation argument we do in the paper).  So this case should work out OK.  In the higher genus case I don't see how to prove it yet, since the metric gets scaled down in the normalisation process which tries to shrink geodesics down.
+
+I am wondering whether it might be possible to take into account the possible different topologies of isoperimetric regions in order to get estimates on the isoperimetric profile of $M$ instead of $\tilde M$:  For example out argument shows that the relevant isoperimetric regions are connected and have connected complement, so in the genus 1 case they are either disks, complements of discs, or annuli.   Maybe it is possible to argue separately for each of these cases?
+
 ** Books
 *** Working
 *** Future 							    :SOMEDAY:
