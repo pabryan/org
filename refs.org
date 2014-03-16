@@ -465,6 +465,12 @@
 [[papers:MR1695025][MR1695025-paper]]
 [[bib:MR1695025][MR1695025-bib]]
 
+***** Manifolds with {$1/4$}-pinched curvature are space forms
+:PROPERTIES:
+:Custom_ID: MR2449060
+:END:
+[[papers:MR2449060][MR2449060-paper]]
+[[bib:MR2449060][MR2449060-bib]]
 **** 53C21 (1980-now) Methods of Riemannian geometry, including PDE methods; curvature restrictions :riemannian:
 ***** An isoperimetric estimate for the {R}icci flow on the two-sphere :ricci_flow:isoperimetric:surfaces:evolution:
 :PROPERTIES:
@@ -515,6 +521,13 @@
 :END:
 [[papers:MR1699320][MR1699320-paper]]
 [[bib:MR1699320][MR1699320-bib]]
+**** 53C24 (2000-now) Rigidity results
+***** Classification of manifolds with weakly {$1/4$}-pinched curvatures
+:PROPERTIES:
+:Custom_ID: MR2386107
+:END:
+[[papers:MR2386107][MR2386107-paper]]
+[[bib:MR2386107][MR2386107-bib]]
 **** 53C25 (1973-now) Special Riemannian manifolds (Einstein, Sasakian, etc.) :riemannian:
 ***** Four-manifolds with positive curvature operator :four_manifold:ricci_flow:evolution:
 :PROPERTIES:
@@ -782,6 +795,12 @@
 :END:
 [[papers:MR2590630][MR2590630-paper]]
 [[bib:MR2590630][MR2590630-bib]]
+***** Manifolds with positive curvature operators are space forms
+:PROPERTIES:
+:Custom_ID: MR2415394
+:END:
+[[papers:MR2415394][MR2415394-paper]]
+[[bib:MR2415394][MR2415394-bib]]
 **** 53C45 (1973-now) Global surface theory (convex surfaces à la A. D. Aleksandrov)
 ***** Flow by mean curvature of convex surfaces into spheres
 :PROPERTIES:
