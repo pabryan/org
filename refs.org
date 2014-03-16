@@ -259,6 +259,13 @@
 [[bib:MR1736623x][MR1736623x-bib]]
 \cite{MR936419}
 ** 53 (1940-now) Differential geometry [For differential topology, see 57Rxx. For foundational questions of differentiable manifolds, see 58Axx] :dg:manifolds:geometry:
+*** 53.0 (1940-1958) Differential geometry
+**** Vorlesungen \"uber {D}ifferentialgeometrie und geometrische {G}rundlagen von {E}insteins {R}elativit\"atstheorie. {B}and {I}. {E}lementare {D}ifferentialgeometrie
+:PROPERTIES:
+:Custom_ID: MR0015247
+:END:
+[[papers:MR0015247][MR0015247-paper]]
+[[bib:MR0015247][MR0015247-bib]]
 *** 53-02 (1973-now) Research exposition (monographs, survey articles)
 **** Riemannian geometry
 :PROPERTIES:
