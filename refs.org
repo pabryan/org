@@ -570,6 +570,12 @@
 :END:
 [[papers:MR936318][MR936318-paper]]
 [[bib:MR936318][MR936318-bib]]
+***** Unicity of constant mean curvature hypersurfaces in some {R}iemannian manifolds
+:PROPERTIES:
+:Custom_ID: MR1722814
+:END:
+[[papers:MR1722814][MR1722814-paper]]
+[[bib:MR1722814][MR1722814-bib]]
 **** 53C44 (2000-now) Geometric evolution equations (mean curvature flow, Ricci flow, etc.) :evolution:
 ***** Curvature bounds by isoperimetric comparison for normalized {R}icci flow on the two-sphere :ricci_flow:surfaces:isoperimetric:
 :PROPERTIES:
