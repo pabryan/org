@@ -384,7 +384,11 @@ I want to do teaching with sage-tex and/or org-mode with babel; i.e. interactive
 	- State "DONE"       from "NEXT"       [2014-03-16 Sun 11:27]
 	:END:
 ***** TODO Final proposal
+****** NEXT Amend proposal based on Julies comments
+       DEADLINE: <2014-03-21 Fri>
 ****** NEXT Amend proposal based on comments
+       DEADLINE: <2014-03-27 Thu>
+
 ***** TODO Application
 ****** DONE Fill in online application
        :LOGBOOK:
@@ -1690,6 +1694,8 @@ That is, Ben and Janelle have proven the backward convergence, and to finish we 
 	CLOCK: [2014-02-27 Thu 18:34]--[2014-02-27 Thu 19:40] =>  1:06
 	CLOCK: [2014-02-27 Thu 14:35]--[2014-02-27 Thu 15:25] =>  0:50
 	:END:
+******* NEXT Incorporate Janelle's work
+	 DEADLINE: <2014-03-21 Fri>
 ******* DONE Write Harnack
 	:LOGBOOK:
 	- State "DONE"       from "NEXT"       [2014-02-28 Fri 14:36]
@@ -2523,6 +2529,19 @@ Sequences of manifolds and convergence. What is smooth convergence? Can it be de
 ****** Overview
 This is about convex functions, viscosity solutions, barrier solutions and so forth. Particularly I guess related to extremal problems.
 ** Computation
+*** Working
+**** TODO WDM
+     :PROPERTIES:
+     :ID:       0913954b-8493-4a92-8001-cbfd573ecbf3
+     :END:
+***** Tasks
+****** NEXT Get Hubert's matlab code into Python/Sage
+       DEADLINE: <2014-03-21 Fri>
+       :PROPERTIES:
+       :ID:       4e2db7a9-fc15-473e-b09e-bde6e8d52d97
+       :END:
+****** NEXT Set up classes for computation
+****** NEXT Investigate best use of numpy arrays, lists etc.
 *** Future							    :SOMEDAY:
 **** TODO ANUGA
      :PROPERTIES:
@@ -2573,15 +2592,6 @@ In particular I want the combinatorial algebra
        	:PROPERTIES:
        	:ID:       f4d890c0-78df-4ef5-bf62-07fc743a2356
        	:END:
-**** TODO WDM
-     :PROPERTIES:
-     :ID:       0913954b-8493-4a92-8001-cbfd573ecbf3
-     :END:
-***** Tasks
-****** NEXT Get Hubert's matlab code into Python/Sage
-       :PROPERTIES:
-       :ID:       4e2db7a9-fc15-473e-b09e-bde6e8d52d97
-       :END:
 ** Tasks
 *** TODO Organise research papers    
     :PROPERTIES:

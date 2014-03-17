@@ -331,8 +331,10 @@ $14
 
 ***** Exhibition night
 <2013-12-19 Thu 17:30-20:30>
-***** TODO Sign up for exhibition night
+<2014-03-27 Thu 17:00-20:00>
+****** DONE Sign up for exhibition night
   :LOGBOOK:
+  - State "DONE"       from "TODO"       [2014-03-17 Mon 10:25]
   CLOCK: [2013-12-12 Thu 13:00]--[2013-12-12 Thu 13:01] =>  0:01
   :END:
       :PROPERTIES:
@@ -340,6 +342,11 @@ $14
       :END:
 [2013-12-12 Thu 13:00]
 https://docs.google.com/spreadsheet/ccc?key=0Aqcrggn9R6cWdG9GbUp0ZUozUHd0X1V4NlpEcE8zaXc&usp=sharing#gid=0
+
+***** School Dance
+<2014-04-11 Fri>
+****** NEXT Buy school dance tickets
+       DEADLINE: <2014-04-04 Fri>
 **** Sharing
 ***** Raspberry Pi
 ****** NEXT Contact Steve about Raspberry Pi
