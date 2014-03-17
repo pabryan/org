@@ -7316,7 +7316,10 @@ http://edugen.wileyplus.com/edugen/domain/dmn71317/
 	 :END:
 Lectures in calendar and tasks like planning lectures.
 
-******* TODO Lectures
+******* DONE Lectures
+	:LOGBOOK:
+	- State "DONE"       from "TODO"       [2014-03-17 Mon 15:21]
+	:END:
 	:PROPERTIES:
 	:ID:       2c24d880-f741-4359-8933-66e85da781f9
 	:END:
@@ -7327,8 +7330,9 @@ Lectures in calendar and tasks like planning lectures.
 	 :PROPERTIES:
 	 :ID:       2cfff7c3-835e-4fca-8183-ee6e8ba0911d
 	 :END:
-******** TODO Prepare Lectures
+******** DONE Prepare Lectures
 	 :LOGBOOK:
+	 - State "DONE"       from "TODO"       [2014-03-17 Mon 15:21]
 	 CLOCK: [2014-03-07 Fri 18:14]--[2014-03-07 Fri 18:15] =>  0:01
 	 :END:
 	 :PROPERTIES:
@@ -7631,7 +7635,13 @@ Lectures in calendar and tasks like planning lectures.
 	 :PROPERTIES:
 	 :ID:       f7c57fbf-aa0c-41cc-a9fb-8f7b8e47e75a
 	 :END:
-******* TODO Coordinated lectures
+******** Extra students
+********* Evan Dowden
+- Incomplete.
+******* DONE Coordinated lectures
+	:LOGBOOK:
+	- State "DONE"       from "TODO"       [2014-03-17 Mon 15:21]
+	:END:
 ******** Mon W1
 	 :LOGBOOK:
 	 CLOCK: [2014-01-06 Mon 09:55]--[2014-01-06 Mon 11:10] =>  1:15
@@ -7641,7 +7651,10 @@ Lectures in calendar and tasks like planning lectures.
 <2014-01-08 Wed 10:00-11:00>
 ******** Fri W1
 <2014-01-10 Fri 10:00-11:00>
-******* TODO Exams
+******* DONE Exams
+	:LOGBOOK:
+	- State "DONE"       from "TODO"       [2014-03-17 Mon 15:21]
+	:END:
 ******** DONE Enter meetings, exam questions etc. into calendar
 	 DEADLINE: <2014-01-22 Wed>
 	 :LOGBOOK:
@@ -7686,7 +7699,10 @@ Lectures in calendar and tasks like planning lectures.
 	  - State "DONE"       from "NEXT"       [2014-02-19 Wed 17:40]
 	  CLOCK: [2014-02-19 Wed 17:10]--[2014-02-19 Wed 17:40] =>  0:30
 	  :END:
-******** TODO Final
+******** DONE Final
+	 :LOGBOOK:
+	 - State "DONE"       from "TODO"       [2014-03-17 Mon 15:21]
+	 :END:
 ********* DONE Prepare Final questions
 	  DEADLINE: <2014-03-10 Mon>
 	  :LOGBOOK:
@@ -7695,7 +7711,10 @@ Lectures in calendar and tasks like planning lectures.
 	  CLOCK: [2014-03-05 Wed 22:14]--[2014-03-05 Wed 22:17] =>  0:03
 	  :END:
 
-********* TODO Organise TA's to proctor
+********* DONE Organise TA's to proctor
+	  :LOGBOOK:
+	  - State "DONE"       from "TODO"       [2014-03-17 Mon 15:21]
+	  :END:
 ********* DONE Collect exams
 	  DEADLINE: <2014-03-18 Tue>
 	  :LOGBOOK:
@@ -7966,7 +7985,10 @@ Lectures in calendar and tasks like planning lectures.
 	 :PROPERTIES:
 	 :ID:       f53bc660-a439-4995-8651-9c59fe579261
 	 :END:
-******* TODO Lectures
+******* DONE Lectures
+	:LOGBOOK:
+	- State "DONE"       from "TODO"       [2014-03-17 Mon 15:22]
+	:END:
 	:PROPERTIES:
 	:ID:       d508bbc8-7b4a-4a78-b7e1-af8084661e9a
 	:END:
@@ -7977,7 +7999,10 @@ Lectures in calendar and tasks like planning lectures.
 	 :PROPERTIES:
 	 :ID:       e80aaf85-482f-4218-9d6b-3a86599a26d9
 	 :END:
-******** TODO Prepare Lectures
+******** DONE Prepare Lectures
+	 :LOGBOOK:
+	 - State "DONE"       from "TODO"       [2014-03-17 Mon 15:22]
+	 :END:
 	 :PROPERTIES:
 	 :ID:       aaaeef45-8cc6-46f6-814c-72a56e40f812
 	 :END:
@@ -8255,7 +8280,10 @@ Lectures in calendar and tasks like planning lectures.
 	   :PROPERTIES:
 	   :ID:       d02ab0f7-31a0-489b-b26a-8fc9b65bfbde
 	   :END:
-******* TODO Quizzes
+******* DONE Quizzes
+	:LOGBOOK:
+	- State "DONE"       from "TODO"       [2014-03-17 Mon 15:22]
+	:END:
 	:PROPERTIES:
 	:ID:       f137571a-8c9d-43f3-ac9b-fe6e022ecac9
 	:END:
@@ -8332,7 +8360,10 @@ Lectures in calendar and tasks like planning lectures.
 	  - State "DONE"       from "TODO"       [2014-02-19 Wed 17:10]
 	  :END:
 
-******** TODO Quiz 4
+******** DONE Quiz 4
+	 :LOGBOOK:
+	 - State "DONE"       from "TODO"       [2014-03-17 Mon 15:22]
+	 :END:
 	 :PROPERTIES:
 	 :ID:       eb587528-51b1-4098-a5de-6bcda23ce3f9
 	 :END:
@@ -8354,7 +8385,10 @@ Lectures in calendar and tasks like planning lectures.
 	  - State "DONE"       from "NEXT"       [2014-03-05 Wed 20:57]
 	  :END:
 
-******* TODO Exams
+******* DONE Exams
+	:LOGBOOK:
+	- State "DONE"       from "TODO"       [2014-03-17 Mon 15:23]
+	:END:
 	:PROPERTIES:
 	:ID:       a88c96d5-8ab1-4357-9c8d-6a3731c76480
 	:END:
@@ -8380,7 +8414,10 @@ Lectures in calendar and tasks like planning lectures.
   - State "DONE"       from "TODO"       [2014-01-29 Wed 17:20]
   :END:
 [2014-01-29 Wed 14:00]
-******** TODO MT 2
+******** DONE MT 2
+	 :LOGBOOK:
+	 - State "DONE"       from "TODO"       [2014-03-17 Mon 15:23]
+	 :END:
 	 :PROPERTIES:
 	 :ID:       f3db625f-2a3a-4ec7-83c4-bc6d6219b757
 	 :END:
@@ -8416,7 +8453,10 @@ Lectures in calendar and tasks like planning lectures.
 	  - State "DONE"       from "NEXT"       [2014-02-25 Tue 17:06]
 	  :END:
 
-******** TODO Final
+******** DONE Final
+	 :LOGBOOK:
+	 - State "DONE"       from "TODO"       [2014-03-17 Mon 15:23]
+	 :END:
 	 :PROPERTIES:
 	 :ID:       962210c5-bcdd-4d98-acc1-6c5adafd72e9
 	 :END:
@@ -8430,7 +8470,10 @@ Lectures in calendar and tasks like planning lectures.
 	  :PROPERTIES:
 	  :ID:       eb58e086-468c-4886-a509-f6773a55e646
 	  :END:
-********* NEXT Organise TA's to proctor
+********* DONE Organise TA's to proctor
+	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2014-03-17 Mon 15:23]
+	  :END:
 ********* DONE Collect exams
 	  DEADLINE: <2014-03-14 Fri>
 	  :LOGBOOK:
@@ -8497,7 +8540,10 @@ Get it from cloud.sagemath and add it to my 20b working
   - State "DONE"       from "TODO"       [2014-01-17 Fri 17:10]
   :END:
 [2014-01-13 Mon 14:53]
-******* TODO Coordinated lectures
+******* DONE Coordinated lectures
+	:LOGBOOK:
+	- State "DONE"       from "TODO"       [2014-03-17 Mon 15:23]
+	:END:
 ******** Mon W1
 	 :LOGBOOK:
 	 CLOCK: [2014-01-06 Mon 08:55]--[2014-01-06 Mon 09:55] =>  1:00
