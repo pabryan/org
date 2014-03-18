@@ -1035,6 +1035,7 @@ how are they related?
 	:PROPERTIES:
 	:ID:       86881bec-f41e-4f19-9b7e-b055f117c357
 	:END:
+******* NEXT Compute scaling in porous media change of vars to remove lower order terms
 ****** TODO Comparisons
        :PROPERTIES:
        :ID:       321d75db-7c19-457c-b955-3f7236b899e2
