@@ -3185,7 +3185,7 @@ Radon measures: compactness and Reisz representation.
      :ID:       ddd93de1-e3e9-4041-be96-e8a3420beb08
      :END:
 
-*** TODO Bundle Theory
+*** TODO Bundle Theory						     :BUNDLE:
     SCHEDULED: <2014-04-15 Tue>
     :PROPERTIES:
     :ID:       05ad3c1c-4842-4796-8ecc-a417aee5b7cc
@@ -3196,6 +3196,10 @@ Radon measures: compactness and Reisz representation.
 - Fibre Bundles, D. Husemoller
 **** Notes
 I want to study Gauss maps $(E,X,\pi) \to (\RR^k\times X, X, \pi)$, in particular relating the number of trivialisations required to cover $E$ and the how big $k$ is. I also want to use this to integrate tensors component-by-component with respect to the Gauss map. This also relates to Grassmanians. What sort of cohomology theory is involved here?
+*** TODO PDE								:PDE:
+**** TODO Viscosity						  :VISCOSITY:
+***** NEXT Read Cabre Cafirelli
+***** NEXT Read Evans/Spruck
 ** Clocking
 *** Discussing math
   :LOGBOOK:
