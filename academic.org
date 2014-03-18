@@ -1191,6 +1191,7 @@ The $K$ term should be divided by $8\pi$.
 ******* NEXT Put on ArXiv
 	 DEADLINE: <2014-03-21 Fri>
 	 :LOGBOOK:
+	 CLOCK: [2014-03-18 Tue 12:14]--[2014-03-18 Tue 12:29] =>  0:15
 	 CLOCK: [2014-03-18 Tue 11:15]--[2014-03-18 Tue 11:37] =>  0:22
 	 CLOCK: [2014-03-18 Tue 09:57]--[2014-03-18 Tue 11:04] =>  1:07
 	 CLOCK: [2014-03-17 Mon 23:06]--[2014-03-17 Mon 23:31] =>  0:25
@@ -3211,7 +3212,7 @@ I want to study Gauss maps $(E,X,\pi) \to (\RR^k\times X, X, \pi)$, in particula
 **** TODO Viscosity						  :VISCOSITY:
 ***** NEXT Read Cabre Cafirelli
       :LOGBOOK:
-      CLOCK: [2014-03-18 Tue 11:38]
+      CLOCK: [2014-03-18 Tue 11:38]--[2014-03-18 Tue 12:14] =>  0:36
       :END:
 ***** NEXT Read Evans/Spruck
 ** Clocking
