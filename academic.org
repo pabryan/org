@@ -1714,6 +1714,7 @@ That is, Ben and Janelle have proven the backward convergence, and to finish we 
 ******* NEXT Incorporate Janelle's work
 	 DEADLINE: <2014-03-21 Fri>
 	 :LOGBOOK:
+	 CLOCK: [2014-03-19 Wed 11:29]--[2014-03-19 Wed 12:36] =>  1:07
 	 CLOCK: [2014-03-18 Tue 20:21]--[2014-03-18 Tue 21:18] =>  0:57
 	 CLOCK: [2014-03-17 Mon 11:34]--[2014-03-17 Mon 12:48] =>  1:14
 	 :END:
@@ -3215,7 +3216,7 @@ I want to study Gauss maps $(E,X,\pi) \to (\RR^k\times X, X, \pi)$, in particula
 **** TODO Viscosity						  :VISCOSITY:
 ***** NEXT Read Cabre Cafirelli
       :LOGBOOK:
-      CLOCK: [2014-03-19 Wed 10:34]
+      CLOCK: [2014-03-19 Wed 10:34]--[2014-03-19 Wed 11:13] =>  0:39
       CLOCK: [2014-03-18 Tue 11:38]--[2014-03-18 Tue 12:14] =>  0:36
       :END:
 ***** NEXT Read Evans/Spruck
