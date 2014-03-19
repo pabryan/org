@@ -1188,9 +1188,11 @@ Update comparison theorem to read \(I\geq \phi\) implies that \(\sup_M K_t \leq 
 The sentence before is also wrong.
 The $K$ term should be divided by $8\pi$.
 ****** TODO Publish
-******* NEXT Put on ArXiv
+******* DONE Put on ArXiv
 	 DEADLINE: <2014-03-21 Fri>
 	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2014-03-18 Tue 17:33]
+	 CLOCK: [2014-03-18 Tue 15:49]--[2014-03-18 Tue 17:33] =>  1:44
 	 CLOCK: [2014-03-18 Tue 12:14]--[2014-03-18 Tue 12:29] =>  0:15
 	 CLOCK: [2014-03-18 Tue 11:15]--[2014-03-18 Tue 11:37] =>  0:22
 	 CLOCK: [2014-03-18 Tue 09:57]--[2014-03-18 Tue 11:04] =>  1:07
