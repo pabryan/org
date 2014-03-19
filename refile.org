@@ -285,3 +285,27 @@ It looks like its at the end of the exam week, but its at the beginning.
   <2014-04-01 Tue>
 [2014-03-15 Sat 22:38]
 http://porkrind.org/commit-patch/
+* TODO Create publishing function for journal submission
+  :LOGBOOK:
+  CLOCK: [2014-03-18 Tue 17:41]--[2014-03-18 Tue 17:42] =>  0:01
+  :END:
+[2014-03-18 Tue 17:41]
+I want to export for journals, including data such as email, classification etc.
+I think I need some sort of filter for this.
+<2014-04-07 Mon>
+* TODO Auto sync working
+  :LOGBOOK:
+  CLOCK: [2014-03-18 Tue 17:42]--[2014-03-18 Tue 17:43] =>  0:01
+  :END:
+[2014-03-18 Tue 17:42]
+- I want check_uncommitted to also sync local/remote repositories without committing anything.<2014-04-07 Mon>
+- May need to hack on the code and issue a pull request
+* TODO Split up emacs-org files
+  :LOGBOOK:
+  CLOCK: [2014-03-18 Tue 17:44]--[2014-03-18 Tue 17:45] =>  0:01
+  :END:
+[2014-03-18 Tue 17:44]
+
+<2014-04-07 Mon>
+Things are getting a little out of hand. I think I should break up configuration based on relevance: latex, agenda, etc.
+
