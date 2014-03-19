@@ -9212,7 +9212,11 @@ http://urp.ucsd.edu/
 	  :LOGBOOK:
 	  - State "DONE"       from "TODO"       [2014-02-05 Wed 13:15]
 	  :END:
-********* NEXT Create skeleton Python code
+********* DONE Create skeleton Python code
+	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2014-03-19 Wed 15:53]
+	  :END:
+********* NEXT Create project overview and tasks
 ******** TODO Sage conversion
 ********* DONE Load matlab code into sage
 	  DEADLINE: <2014-01-31 Fri>
@@ -9221,15 +9225,21 @@ http://urp.ucsd.edu/
 	  CLOCK: [2014-01-30 Thu 11:45]--[2014-01-30 Thu 11:58] =>  0:13
 	  CLOCK: [2014-01-30 Thu 10:48]--[2014-01-30 Thu 11:25] =>  0:37
 	  :END:
-********* NEXT Create loadmatlab wrappers
-******** TODO Testing code
-********* NEXT Run WDM code in Ocatave and Matlab
+********* CANCELLED Create loadmatlab wrappers
 	  :LOGBOOK:
+	  - State "CANCELLED"  from "NEXT"       [2014-03-19 Wed 15:53] \\
+	    We're rewriting it all in sage
+	  :END:
+********* NEXT Work out classes/layout
+******** TODO Testing code
+********* NEXT Run WDM code in Octave and Matlab
+	  :LOGBOOK:
+	  CLOCK: [2014-03-19 Wed 15:58]
 	  CLOCK: [2014-02-11 Tue 10:44]--[2014-02-11 Tue 11:28] =>  0:44
 	  CLOCK: [2014-02-11 Tue 09:37]--[2014-02-11 Tue 10:23] =>  0:46
 	  CLOCK: [2014-02-10 Mon 11:23]--[2014-02-10 Mon 11:42] =>  0:19
 	  :END:
-[2014-02-04 Tue 14:14]
+	  [2014-02-04 Tue 14:14]
 ******* Admin
 ******** DONE Follow up on FMP requirements
   DEADLINE: <2014-02-04 Tue>
