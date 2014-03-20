@@ -386,14 +386,16 @@ I want to do teaching with sage-tex and/or org-mode with babel; i.e. interactive
 	- State "DONE"       from "NEXT"       [2014-03-16 Sun 11:27]
 	:END:
 ***** TODO Final proposal
-****** NEXT Amend proposal based on Julies comments
+****** DONE Amend proposal based on Julies comments
        DEADLINE: <2014-03-21 Fri>
        :LOGBOOK:
-       CLOCK: [2014-03-20 Thu 14:36]
+       - State "DONE"       from "NEXT"       [2014-03-20 Thu 15:29]
+       CLOCK: [2014-03-20 Thu 14:36]--[2014-03-20 Thu 15:29] =>  0:53
        :END:
 ****** NEXT Amend proposal based on comments
        DEADLINE: <2014-03-27 Thu>
 
+****** NEXT Create pictures of isoperimetric domains
 ***** TODO Application
 ****** DONE Fill in online application
        :LOGBOOK:
