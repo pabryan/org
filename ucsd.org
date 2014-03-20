@@ -7897,6 +7897,9 @@ Lectures in calendar and tasks like planning lectures.
 ******** Midterm 2
 <2014-02-25 Tue 20:00-21:00>
 ******** Final
+	 :LOGBOOK:
+	 CLOCK: [2014-03-19 Wed 18:40]
+	 :END:
 <2014-03-19 Wed 19:00-22:00>
 ****** Meetings
 ******* 10B Coordinating 
@@ -9189,6 +9192,7 @@ http://urp.ucsd.edu/
 <2014-01-28 Tue 13:00-14:00 +1w>
 ********* WDM
 	  :LOGBOOK:
+	  CLOCK: [2014-03-19 Wed 16:05]--[2014-03-19 Wed 18:33] =>  2:28
 	  CLOCK: [2014-02-18 Tue 17:47]--[2014-02-18 Tue 17:55] =>  0:08
 	  CLOCK: [2014-02-18 Tue 16:14]--[2014-02-18 Tue 17:47] =>  1:33
 	  :END:
@@ -9234,7 +9238,7 @@ http://urp.ucsd.edu/
 ******** TODO Testing code
 ********* NEXT Run WDM code in Octave and Matlab
 	  :LOGBOOK:
-	  CLOCK: [2014-03-19 Wed 15:58]
+	  CLOCK: [2014-03-19 Wed 15:58]--[2014-03-19 Wed 16:05] =>  0:07
 	  CLOCK: [2014-02-11 Tue 10:44]--[2014-02-11 Tue 11:28] =>  0:44
 	  CLOCK: [2014-02-11 Tue 09:37]--[2014-02-11 Tue 10:23] =>  0:46
 	  CLOCK: [2014-02-10 Mon 11:23]--[2014-02-10 Mon 11:42] =>  0:19
