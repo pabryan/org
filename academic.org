@@ -3642,15 +3642,22 @@ Rowland Hall 340P
 ** UCSC
 *** Winter 2014 Colloquium
 **** TODO Talk
-**** TODO Forms
+***** TODO Setup
+****** NEXT Set up slides
+******* TODO Write outline
+******** TODO Set up talk details
+***** TODO Talk details
+**** TODO Admin
 ***** NEXT Prepare documents
       :LOGBOOK:
+      CLOCK: [2014-03-20 Thu 13:15]--[2014-03-20 Thu 13:34] =>  0:19
       CLOCK: [2014-03-20 Thu 11:43]--[2014-03-20 Thu 11:47] =>  0:04
       :END:
 - passport
 - visa
 - i94
 
+***** NEXT Book Hotel
 ** BADGS
 *** UCSC Winter 2014
 * Students
