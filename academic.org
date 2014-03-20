@@ -396,6 +396,9 @@ I want to do teaching with sage-tex and/or org-mode with babel; i.e. interactive
        DEADLINE: <2014-03-27 Thu>
 
 ****** NEXT Create pictures of isoperimetric domains
+       :LOGBOOK:
+       CLOCK: [2014-03-20 Thu 15:50]
+       :END:
 ***** TODO Application
 ****** DONE Fill in online application
        :LOGBOOK:
