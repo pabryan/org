@@ -9977,9 +9977,10 @@ Round Table Pizza.
       :LOGBOOK:
       - State "DONE"       from "NEXT"       [2014-03-20 Thu 15:30]
       :END:
-***** NEXT Write Research statement
+***** DONE Write Research statement
       :LOGBOOK:
-      CLOCK: [2014-03-21 Fri 11:31]
+      - State "DONE"       from "NEXT"       [2014-03-21 Fri 12:37]
+      CLOCK: [2014-03-21 Fri 11:31]--[2014-03-21 Fri 12:37] =>  1:06
       :END:
       :PROPERTIES:
       :ID:       3879ea92-50d7-4f67-ad92-25268d5a1c34
