@@ -1160,6 +1160,12 @@ Here I need to do some more work since $u \mapsto g(\grad u, \grad u)$ is not a 
 :END:
 [[papers:2014arXiv1403.4654B][2014arXiv1403.4654B-paper]]
 [[bib:2014arXiv1403.4654B][2014arXiv1403.4654B-bib]]
+*** Curvature Decay Estimates of Graphical Mean Curvature Flow in Higher Codimensions
+:PROPERTIES:
+:Custom_ID: 2014arXiv1401.4154S
+:END:
+[[papers:2014arXiv1401.4154S][2014arXiv1401.4154S-paper]]
+[[bib:2014arXiv1401.4154S][2014arXiv1401.4154S-bib]]
 * Misc
   :PROPERTIES:
   :COLUMNS: %75ITEM %TAGS
