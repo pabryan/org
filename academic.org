@@ -1516,6 +1516,11 @@ There is a remark by Ben that our function comes from seeking a similarity solut
 	 :ID:       de6f2aa9-4db0-4bcf-b8ed-1a2ffc3e58f5
 	 :END:
 - Does the convex hull have better integrals of curvature?
+******** NEXT Prove maximum principle
+	 :LOGBOOK:
+	 CLOCK: [2014-03-21 Fri 13:55]
+	 :END:
+- if we have initial inequality of isoprofiles, this is preserved under the flow
 ****** TODO Editing
        :PROPERTIES:
        :ID:       61f17103-1796-4baf-a0a5-233056956351
