@@ -423,8 +423,11 @@ Can we suspend loan repayments for a few months?
       - State "DONE"       from "NEXT"       [2014-03-12 Wed 13:56]
       CLOCK: [2014-03-11 Tue 09:57]--[2014-03-11 Tue 10:59] =>  1:02
       :END:
-***** NEXT Send in tax return
+***** DONE Send in tax return
       DEADLINE: <2014-03-14 Fri>
+      :LOGBOOK:
+      - State "DONE"       from "NEXT"       [2014-03-20 Thu 19:21]
+      :END:
       [2014-03-12 Wed 13:55]
 *** Oz
 **** DONE Update Oz electoral role
