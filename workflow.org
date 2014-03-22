@@ -1625,6 +1625,8 @@ yajl-ruby (1.1.0)
 *** spotify
 *** last.fm
 *** dropbox
+*** TeX
+- lots of TeX packages!
 ** Files
 *** Needs backup?
 - isos 16GB
