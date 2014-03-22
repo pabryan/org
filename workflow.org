@@ -1634,6 +1634,17 @@ yajl-ruby (1.1.0)
 - isos 16GB
 - oldpaul 28G
 - 
+** Document setup
+*** ssh
+- proxy and control master and keys, agents forwarding etc.
+*** org-mode
+**** 
+- complicated!
+**** export
+- projects, latex, web etc.
+*** latex
+- macros
+- bib setup
 * Clocking
   :PROPERTIES:
   :ID:       4257fe31-e606-4ca9-a848-858379409679
