@@ -1627,6 +1627,8 @@ yajl-ruby (1.1.0)
 *** dropbox
 *** TeX
 - lots of TeX packages!
+- bundledoc, snapshot
+- xargs
 ** Files
 *** Needs backup?
 - isos 16GB
