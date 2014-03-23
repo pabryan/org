@@ -9259,8 +9259,11 @@ http://urp.ucsd.edu/
 	 CLOCK: [2014-02-05 Wed 13:15]--[2014-02-05 Wed 14:12] =>  0:57
 	 :END:
 ****** Events/Dates
-******* FMP research proposal due
+******* DONE FMP research proposal due
 	 DEADLINE: <2014-03-23 Sun>
+	 :LOGBOOK:
+	 - State "DONE"       from ""           [2014-03-23 Sun 09:59]
+	 :END:
 
 ******* Undergrad Research Conference
 <2014-04-26 Sat 08:00-16:00>
@@ -9433,7 +9436,7 @@ homeomorphic to S^4 or to a connected sum of CP^2s.
   CLOCK: [2012-10-26 Fri 15:07]--[2012-10-26 Fri 15:08] =>  0:01
 [2012-10-26 Fri 15:07]
 **** NEXT Send DG seminar email announcement
-     DEADLINE: <2014-03-27 Thu +1w -5d>
+     DEADLINE: <2014-09-27 Sat +1w -5d>
      
     - State "HOLD"       from "NEXT"       [2013-03-29 Fri 10:43] \\
       Lei and I will do an informal seminar instead.
