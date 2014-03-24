@@ -1726,7 +1726,7 @@ That is, Ben and Janelle have proven the backward convergence, and to finish we 
 	CLOCK: [2014-02-27 Thu 14:35]--[2014-02-27 Thu 15:25] =>  0:50
 	:END:
 ******* NEXT Incorporate Janelle's work
-	 DEADLINE: <2014-03-21 Fri>
+	 DEADLINE: <2014-03-28 Fri>
 	 :LOGBOOK:
 	 CLOCK: [2014-03-19 Wed 11:29]--[2014-03-19 Wed 12:36] =>  1:07
 	 CLOCK: [2014-03-18 Tue 20:21]--[2014-03-18 Tue 21:18] =>  0:57
@@ -1797,12 +1797,12 @@ That is, Ben and Janelle have proven the backward convergence, and to finish we 
 ****** TODO Learning
 Look at all dark matter papers. Alan Parry also. Bibliography of course!
 ******* NEXT Follow up Hubert Bray's general relativity references
-<2014-03-24 Mon>
+<2014-03-31 Mon>
 - O'Neil
 - Prove quadratic actions give the same action a'la Cartan and others
 
 ******* NEXT Follow up Hubert Bray's dark-matter refs
-<2014-03-24 Mon>
+<2014-03-31 Mon>
 ******* NEXT Read O'Neill semi-Riemannian geometry
 	:LOGBOOK:
 	CLOCK: [2014-02-20 Thu 12:30]--[2014-02-20 Thu 13:16] =>  0:46
@@ -2572,7 +2572,7 @@ This is about convex functions, viscosity solutions, barrier solutions and so fo
      :END:
 ***** Tasks
 ****** NEXT Get Hubert's matlab code into Python/Sage
-       DEADLINE: <2014-03-21 Fri>
+       DEADLINE: <2014-03-28 Fri>
        :PROPERTIES:
        :ID:       4e2db7a9-fc15-473e-b09e-bde6e8d52d97
        :END:
