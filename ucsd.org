@@ -7632,9 +7632,11 @@ Lectures in calendar and tasks like planning lectures.
 	:ID:       5bb2241a-e8cd-4ce7-aaae-f8dbf8d9788f
 	:END:
 ******** NEXT Enter grades
+	 DEADLINE: <2014-03-25 Tue>
 	 :PROPERTIES:
 	 :ID:       f7c57fbf-aa0c-41cc-a9fb-8f7b8e47e75a
 	 :END:
+
 ******** Extra students
 ********* Evan Dowden
 - Incomplete. A08625040.
@@ -8539,9 +8541,11 @@ Get it from cloud.sagemath and add it to my 20b working
 	:ID:       ae275f73-230a-444a-bf39-566b7290b658
 	:END:
 ******** NEXT Enter grades
+	 DEADLINE: <2014-03-25 Tue>
 	 :PROPERTIES:
 	 :ID:       8b329bcb-826c-4da0-964f-b6b6d1d632b7
 	 :END:
+
 ******** DONE Find out 20B grader
   DEADLINE: <2014-01-14 Tue>
   :LOGBOOK:
