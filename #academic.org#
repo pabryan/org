@@ -405,6 +405,9 @@ I want to do teaching with sage-tex and/or org-mode with babel; i.e. interactive
        CLOCK: [2014-03-20 Thu 15:50]--[2014-03-20 Thu 17:04] =>  1:14
        :END:
 ****** NEXT Amend org statement
+       :LOGBOOK:
+       CLOCK: [2014-03-24 Mon 15:36]
+       :END:
 ***** TODO Application
 ****** DONE Fill in online application
        :LOGBOOK:
