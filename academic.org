@@ -221,9 +221,10 @@ I want to do teaching with sage-tex and/or org-mode with babel; i.e. interactive
        CLOCK: [2014-03-17 Mon 14:49]--[2014-03-17 Mon 15:06] =>  0:17
        CLOCK: [2014-03-06 Thu 08:27]--[2014-03-06 Thu 08:46] =>  0:19
        :END:
-****** NEXT Send in authority
+****** DONE Send in authority
        :LOGBOOK:
-       CLOCK: [2014-03-24 Mon 14:45]
+       - State "DONE"       from "NEXT"       [2014-03-24 Mon 15:33]
+       CLOCK: [2014-03-24 Mon 14:45]--[2014-03-24 Mon 15:33] =>  0:48
        :END:
 ***** DONE Draft Proposal
       DEADLINE: <2014-03-16 Sun>
@@ -402,6 +403,10 @@ I want to do teaching with sage-tex and/or org-mode with babel; i.e. interactive
 ****** NEXT Create pictures of isoperimetric domains
        :LOGBOOK:
        CLOCK: [2014-03-20 Thu 15:50]--[2014-03-20 Thu 17:04] =>  1:14
+       :END:
+****** NEXT Amend org statement
+       :LOGBOOK:
+       CLOCK: [2014-03-24 Mon 15:36]--[2014-03-24 Mon 16:09] =>  0:33
        :END:
 ***** TODO Application
 ****** DONE Fill in online application
