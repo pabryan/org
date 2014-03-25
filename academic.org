@@ -404,10 +404,11 @@ I want to do teaching with sage-tex and/or org-mode with babel; i.e. interactive
        :LOGBOOK:
        CLOCK: [2014-03-20 Thu 15:50]--[2014-03-20 Thu 17:04] =>  1:14
        :END:
-****** NEXT Amend org statement
+****** DONE Amend org statement
        DEADLINE: <2014-03-24 Mon>
        :LOGBOOK:
-       CLOCK: [2014-03-24 Mon 21:59]
+       - State "DONE"       from "NEXT"       [2014-03-24 Mon 23:04]
+       CLOCK: [2014-03-24 Mon 21:59]--[2014-03-24 Mon 23:04] =>  1:05
        CLOCK: [2014-03-24 Mon 15:36]--[2014-03-24 Mon 16:09] =>  0:33
        :END:
 ***** TODO Application
