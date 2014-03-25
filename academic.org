@@ -2590,6 +2590,9 @@ This is about convex functions, viscosity solutions, barrier solutions and so fo
        :END:
 ****** NEXT Set up classes for computation
 ****** NEXT Investigate best use of numpy arrays, lists etc.
+       :LOGBOOK:
+       CLOCK: [2014-03-25 Tue 08:55]
+       :END:
 *** Future							    :SOMEDAY:
 **** TODO ANUGA
      :PROPERTIES:
