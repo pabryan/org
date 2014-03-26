@@ -7631,8 +7631,11 @@ Lectures in calendar and tasks like planning lectures.
 	:PROPERTIES:
 	:ID:       5bb2241a-e8cd-4ce7-aaae-f8dbf8d9788f
 	:END:
-******** NEXT Enter grades
+******** DONE Enter grades
 	 DEADLINE: <2014-03-25 Tue>
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2014-03-25 Tue 20:28]
+	 :END:
 	 :PROPERTIES:
 	 :ID:       f7c57fbf-aa0c-41cc-a9fb-8f7b8e47e75a
 	 :END:
