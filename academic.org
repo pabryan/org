@@ -2591,11 +2591,12 @@ This is about convex functions, viscosity solutions, barrier solutions and so fo
 ****** NEXT Set up classes for computation
 ****** NEXT Investigate best use of numpy arrays, lists etc.
        :LOGBOOK:
+       CLOCK: [2014-03-25 Tue 20:36]
        CLOCK: [2014-03-25 Tue 12:58]--[2014-03-25 Tue 15:15] =>  2:17
        CLOCK: [2014-03-25 Tue 08:55]--[2014-03-25 Tue 10:16] =>  1:21
        :END:
 ***** Files
-
+[[file:~/working/academic/research/wdm-python/sage/spiralgalaxy]]
 *** Future							    :SOMEDAY:
 **** TODO ANUGA
      :PROPERTIES:
