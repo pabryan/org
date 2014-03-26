@@ -2595,7 +2595,7 @@ This is about convex functions, viscosity solutions, barrier solutions and so fo
        	:END:
 ******* NEXT Work out algorithm 
 	:LOGBOOK:
-	CLOCK: [2014-03-26 Wed 11:20]
+	CLOCK: [2014-03-26 Wed 11:20]--[2014-03-26 Wed 11:41] =>  0:21
 	:END:
 ****** TODO Code structure
 ******* NEXT Set up classes for computation
