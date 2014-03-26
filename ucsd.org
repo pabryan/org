@@ -7286,6 +7286,10 @@ Place: APM 7421
        :END:
 **** Winter 2014
 ***** TODO MATH10B
+      :LOGBOOK:
+      - State "TODO"       from "DONE"       [2014-03-26 Wed 11:13]
+      - State "DONE"       from "TODO"       [2014-03-26 Wed 11:08]
+      :END:
       :PROPERTIES:
       :ID:       31df73a4-0114-4097-8f18-5ce3ed5a1d07
       :END:
@@ -7628,12 +7632,19 @@ Lectures in calendar and tasks like planning lectures.
 	 :ID:       a36b6d5f-83eb-44ae-a58d-967dabef72ee
 	 :END:
 ******* TODO Grades
+	:LOGBOOK:
+	- State "TODO"       from "DONE"       [2014-03-26 Wed 11:13]
+	- State "DONE"       from "TODO"       [2014-03-26 Wed 11:08]
+	CLOCK: [2014-03-26 Wed 11:07]--[2014-03-26 Wed 11:08] =>  0:01
+	:END:
 	:PROPERTIES:
 	:ID:       5bb2241a-e8cd-4ce7-aaae-f8dbf8d9788f
 	:END:
 ******** DONE Enter grades
 	 DEADLINE: <2014-03-25 Tue>
 	 :LOGBOOK:
+	 - State "DONE"       from "DONE"       [2014-03-26 Wed 11:07]
+	 CLOCK: [2014-03-26 Wed 10:40]--[2014-03-26 Wed 11:07] =>  0:27
 	 - State "DONE"       from "NEXT"       [2014-03-25 Tue 20:28]
 	 :END:
 	 :PROPERTIES:
@@ -7645,6 +7656,9 @@ Lectures in calendar and tasks like planning lectures.
 - Incomplete. A08625040.
 ********* Johanna Martinez 
 - Incomplete. a08909522.
+******** NEXT Enter incomplete grades
+	 DEADLINE: <2014-03-27 Thu>
+
 ******* DONE Coordinated lectures
 	:LOGBOOK:
 	- State "DONE"       from "TODO"       [2014-03-17 Mon 15:21]
@@ -7933,7 +7947,10 @@ Lectures in calendar and tasks like planning lectures.
 ******* Students
 ******** Evan Dowden
 <2014-03-19 Wed 15:00-15:30>
-***** TODO MATH20B
+***** DONE MATH20B
+      :LOGBOOK:
+      - State "DONE"       from "TODO"       [2014-03-26 Wed 11:08]
+      :END:
       :PROPERTIES:
       :ID:       31df73a4-0114-4097-8f18-5ce3ed5a1d07
       :END:
@@ -8539,7 +8556,10 @@ Get it from cloud.sagemath and add it to my 20b working
 	 :PROPERTIES:
 	 :ID:       f6b7ee12-4b2f-4bb0-9d17-756faa24e2ab
 	 :END:
-******* TODO Grades
+******* DONE Grades
+	:LOGBOOK:
+	- State "DONE"       from "TODO"       [2014-03-26 Wed 11:08]
+	:END:
 	:PROPERTIES:
 	:ID:       ae275f73-230a-444a-bf39-566b7290b658
 	:END:
