@@ -2583,21 +2583,34 @@ This is about convex functions, viscosity solutions, barrier solutions and so fo
      :ID:       0913954b-8493-4a92-8001-cbfd573ecbf3
      :END:
 ***** Tasks
-****** NEXT Get Hubert's matlab code into Python/Sage
-       DEADLINE: <2014-03-28 Fri>
-       :LOGBOOK:
-       CLOCK: [2014-03-25 Tue 21:03]--[2014-03-25 Tue 21:44] =>  0:41
-       :END:
-       :PROPERTIES:
-       :ID:       4e2db7a9-fc15-473e-b09e-bde6e8d52d97
-       :END:
-****** NEXT Set up classes for computation
-****** NEXT Investigate best use of numpy arrays, lists etc.
-       :LOGBOOK:
-       CLOCK: [2014-03-25 Tue 20:36]--[2014-03-25 Tue 21:03] =>  0:27
-       CLOCK: [2014-03-25 Tue 12:58]--[2014-03-25 Tue 15:15] =>  2:17
-       CLOCK: [2014-03-25 Tue 08:55]--[2014-03-25 Tue 10:16] =>  1:21
-       :END:
+****** TODO Import code
+******* DONE Get Hubert's matlab code into Python/Sage
+       	DEADLINE: <2014-03-28 Fri>
+       	:LOGBOOK:
+	- State "DONE"       from "NEXT"       [2014-03-26 Wed 11:17]
+       	CLOCK: [2014-03-25 Tue 21:03]--[2014-03-25 Tue 21:44] =>  0:41
+       	:END:
+       	:PROPERTIES:
+       	:ID:       4e2db7a9-fc15-473e-b09e-bde6e8d52d97
+       	:END:
+******* NEXT Work out algorithm 
+	:LOGBOOK:
+	CLOCK: [2014-03-26 Wed 11:20]
+	:END:
+****** TODO Code structure
+******* NEXT Set up classes for computation
+****** TODO Numerics
+******* NEXT Investigate best use of numpy arrays, lists etc.
+       	:LOGBOOK:
+       	CLOCK: [2014-03-25 Tue 20:36]--[2014-03-25 Tue 21:03] =>  0:27
+       	CLOCK: [2014-03-25 Tue 12:58]--[2014-03-25 Tue 15:15] =>  2:17
+       	CLOCK: [2014-03-25 Tue 08:55]--[2014-03-25 Tue 10:16] =>  1:21
+       	:END:
+******* NEXT Choose C-libraries for non-linear PDE
+- clawpack: http://depts.washington.edu/clawpack/
+- FETK: http://www.fetk.org/
+- ANUGA: http://anuga.anu.edu.au/
+
 ***** Files
 [[file:~/working/academic/research/wdm-python/sage/spiralgalaxy]]
 *** Future							    :SOMEDAY:
