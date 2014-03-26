@@ -284,7 +284,7 @@
     - State "DONE"       from "NEXT"       [2013-03-11 Mon 21:23]
     - State "DONE"       from "NEXT"       [2013-03-09 Sat 11:10]
     :END:
-*** NEXT Morning Mobility
+*** NEXT Mobility
     SCHEDULED: <2014-03-26 Wed .+1d/2d>
     :LOGBOOK:
     - State "DONE"       from "NEXT"       [2014-03-25 Tue 12:41]
@@ -616,7 +616,7 @@
     :LAST_REPEAT: [2014-03-25 Tue 12:41]
     :END:
 
-*** NEXT Daily Stretch
+*** NEXT Daily Release
     SCHEDULED: <2014-03-21 Fri .+1d/2d>
     :LOGBOOK:
     - State "DONE"       from "NEXT"       [2014-03-20 Thu 19:18]
@@ -788,7 +788,7 @@
     :LAST_REPEAT: [2013-09-03 Tue 17:07]
     :ID:       f57232cd-a8f2-4a76-a507-4d69f765a521
     :END:
-*** NEXT Afternoon Relax
+*** NEXT Relax/Meditate
     SCHEDULED: <2014-03-26 Wed .+1d/2d>
   :LOGBOOK:
   - State "DONE"       from "NEXT"       [2014-03-25 Tue 21:45]

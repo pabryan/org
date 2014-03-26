@@ -399,6 +399,9 @@ I want to do teaching with sage-tex and/or org-mode with babel; i.e. interactive
        :END:
 ****** NEXT Amend proposal based on comments
        DEADLINE: <2014-03-27 Thu>
+       :LOGBOOK:
+       CLOCK: [2014-03-26 Wed 12:19]--[2014-03-26 Wed 13:44] =>  1:25
+       :END:
 
 ****** NEXT Create pictures of isoperimetric domains
        :LOGBOOK:
