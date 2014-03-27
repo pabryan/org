@@ -2607,6 +2607,7 @@ This is about convex functions, viscosity solutions, barrier solutions and so fo
 ****** TODO Numerics
 ******* NEXT Investigate best use of numpy arrays, lists etc.
        	:LOGBOOK:
+	CLOCK: [2014-03-26 Wed 20:06]--[2014-03-26 Wed 22:30] =>  2:24
        	CLOCK: [2014-03-25 Tue 20:36]--[2014-03-25 Tue 21:03] =>  0:27
        	CLOCK: [2014-03-25 Tue 12:58]--[2014-03-25 Tue 15:15] =>  2:17
        	CLOCK: [2014-03-25 Tue 08:55]--[2014-03-25 Tue 10:16] =>  1:21
