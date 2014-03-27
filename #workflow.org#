@@ -3161,7 +3161,8 @@ When I set up scoring the day:
 ** NEXT Daily Plan [0/7]
    SCHEDULED: <2014-03-27 Thu .+1d/2d>
    :LOGBOOK:
-   CLOCK: [2014-03-27 Thu 09:16]
+   CLOCK: [2014-03-27 Thu 09:23]
+   CLOCK: [2014-03-27 Thu 09:16]--[2014-03-27 Thu 09:20] =>  0:04
    - State "DONE"       from "NEXT"       [2014-03-26 Wed 11:16]
    CLOCK: [2014-03-26 Wed 11:14]--[2014-03-26 Wed 11:16] =>  0:02
    - State "DONE"       from "NEXT"       [2014-03-25 Tue 08:52]

@@ -358,3 +358,20 @@ I want to have descriptions of my various research projects with clear aims, a s
 [2014-03-22 Sat 12:14]
 http://careers.stackoverflow.com/
 <2014-04-30 Wed>
+* TODO Investigate linearised MC
+  SCHEDULED: <2014-03-30 Sun>
+  :LOGBOOK:
+  CLOCK: [2014-03-27 Thu 09:20]--[2014-03-27 Thu 09:22] =>  0:02
+  :END:
+[2014-03-27 Thu 09:20]
+
+
+- Wang? Use Heintze Reilly techniques
+- Do Carmo tells you all about $L^r H$
+* TODO Ricci and Kleiner
+  :LOGBOOK:
+  CLOCK: [2014-03-27 Thu 09:22]--[2014-03-27 Thu 09:23] =>  0:01
+  :END:
+[2014-03-27 Thu 09:22]
+Adapt Kleiner's iso proof to Ricci flow
+SCHEDULED: <2014-03-30 Sun>
