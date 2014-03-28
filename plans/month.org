@@ -1,0 +1,64 @@
+* Money
+
+** Budget
+| Desc         |   Amt | Still To Pay |
+|--------------+-------+--------------|
+| Rent         |  1650 |              |
+| Electricity  |    75 |       -23.75 |
+| Phone        |    80 |              |
+| TV/Internet  |    50 |              |
+| Insurance    |    90 |           90 |
+| Petrol       |    30 |          -10 |
+| Comics       |    60 |              |
+| tritoncash   |    25 |              |
+| Pay          | -3800 |              |
+| Organic Box  |   250 |          250 |
+| Weekly Food  | 292.5 |          230 |
+| Supplies     |  58.5 |              |
+| Montly Food  |    59 |              |
+| Australia    |   855 |              |
+|              |       |              |
+|--------------+-------+--------------|
+| Bank Balance |       |      -618.93 |
+|--------------+-------+--------------|
+| Total        | -225. |       -82.68 |
+   #+TBLFM: @18$2=vsum(@2$2..@17$2)::@18$3=vsum(@2$3..@17$3)
+
+** Non-Budgeted
+| Desc                                                  |    Amt |
+|-------------------------------------------------------+--------|
+| LOS PRIMOS - 23 SAN DIEGO CA 03/02                    |  11.86 |
+| MOJANG AB IAT PAYPAL 4JW226TDSTFFS WEB ID: 770510487C |  14.37 |
+| CLKBANK*COM_T6ZY4EB6 800-390-6035 ID 03/05            |  14.99 |
+| KAISER 08092025 SAN DIEGO CA 03/05                    | 100.00 |
+| NON-CHASE ATM WITHDRAW 635907 03/054647 ZION          |  22.50 |
+| NON-CHASE ATM FEE-WITH                                |   2.00 |
+| POS DEBIT KAISER 202-3355-921172 SAN DIEGO CA         |  10.00 |
+| POS DEBIT KASIER SAN DIEGO LOS ANGELES CA             |  10.48 |
+|-------------------------------------------------------+--------|
+| Total                                                 |  186.2 |
+   #+TBLFM: @10$2=vsum(@2$2..@9$2)
+
+** Groceries
+
+| Desc                                          |    Amt |
+|-----------------------------------------------+--------|
+| WHOLE FOODS MARK 8825 LaJolla CA 827913 03/03 |  99.26 |
+| SAFEWAY STORE 2012 SAN DIEGO CA 650533 03/04  |   9.37 |
+| SAFEWAY STORE 2012 SAN DIEGO CA 633341 03/01  |   8.93 |
+| WHOLE FOODS MARK 8825 LaJolla CA 751855 03/01 |  38.86 |
+| SAFEWAY STORE 2012 SAN DIEGO CA 303879 03/02  |  19.77 |
+|-----------------------------------------------+--------|
+| Total                                         | 176.19 |
+   #+TBLFM: @7$2=vsum(@2$2..@6$2)
+
+* Food
+
+| Desc    | Amt |
+|---------+-----|
+| Rice    |   0 |
+| Lentils |   0 |
+|         |     |
+|---------+-----|
+| Total   |   6 |
+  #+TBLFM: @5$2=vsum(@2$2..@3$2)  

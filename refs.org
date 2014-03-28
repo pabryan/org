@@ -1,0 +1,1234 @@
+#+COLUMNS: %75ITEM %TAGS
+# \bibliography{~/org/refs.bib}
+#+LINK: notes #%s
+
+* MathSciNet							 :mathscinet:
+  :PROPERTIES:
+  :COLUMNS: %75ITEM %TAGS
+  :ID:       070a5918-a137-43c5-af7f-aa1b21d695db
+  :END:
+** 26 (1940-now) Real functions [See also 54C30]	     :real:functions:
+*** 26D (1980-now) Inequalities [For maximal function inequalities, see 42B25; for functional inequalities, see 39B72; for probabilistic inequalities, see 60E15] :inequaltities:
+**** 26D15 (1980-now) Inequalities for sums, series and integrals :sums:series:integrals:
+***** Weighted isoperimetric inequalities in cones and applications :isoperimetric:cones:
+:PROPERTIES:
+:Custom_ID: MR2948294
+:END:
+[[papers:MR2948294][MR2948294-paper]]
+** 28  (1940-now) Measure and integration [For analysis on manifolds, see 58-XX]
+*** 28.80 (1959-1972) Length, area, volume; other geometric measure theory
+**** Geometric measure theory
+:PROPERTIES:
+:Custom_ID: MR0257325
+:END:
+[[papers:MR0257325][MR0257325-paper]]
+[[bib:MR0257325][MR0257325-bib]]
+** 34  View Publications (1940-now) Ordinary differential equations
+*** 34C  View Publications (1973-now) Qualitative theory [See also 37-XX]
+**** 34C10  View Publications (1973-now) Oscillation theory, zeros, disconjugacy and comparison theory
+***** Comparison theory for {R}iccati equations
+:PROPERTIES:
+:Custom_ID: MR1063226
+:END:
+[[papers:MR1063226][MR1063226-paper]]
+[[bib:MR1063226][MR1063226-bib]]
+** 35 Partial differential equations					:pde:
+*** 35B (1973-now) Qualitative properties of solutions
+**** 35B50 (1980-now) Maximum principles
+***** The maximum principle for viscosity solutions of fully nonlinear second order partial differential equations
+:PROPERTIES:
+:Custom_ID: MR920674
+:END:
+[[papers:MR920674][MR920674-paper]]
+[[bib:MR920674][MR920674-bib]]
+
+*** 35F (1973-now) General first-order equations and systems
+**** 35F20 (1973-now) Nonlinear first-order equations
+***** Viscosity solutions of {H}amilton-{J}acobi equations
+:PROPERTIES:
+:Custom_ID: MR690039
+:END:
+[[papers:MR690039][MR690039-paper]]
+[[bib:MR690039][MR690039-bib]]
+*** 35J  (1973-now) Elliptic equations and systems [See also 58J10, 58J20]
+**** 35J10 (1973-now) Schrödinger operator [See also 35Pxx]
+***** Proof of the fundamental gap conjecture
+:PROPERTIES:
+:Custom_ID: MR2784332
+:END:
+[[papers:MR2784332][MR2784332-paper]]
+[[bib:MR2784332][MR2784332-bib]]
+
+**** 35J55  (1973-2009) Boundary value problems for elliptic systems
+***** Viscosity solutions of fully nonlinear degenerated elliptic systems
+:PROPERTIES:
+:Custom_ID: MR1986239
+:END:
+[[papers:MR1986239][MR1986239-paper]]
+[[bib:MR1986239][MR1986239-bib]]
+**** 35J60  (1973-now) Nonlinear elliptic equations
+***** Fully nonlinear elliptic equations
+:PROPERTIES:
+:Custom_ID: MR1351007
+:END:
+[[papers:MR1351007][MR1351007-paper]]
+[[bib:MR1351007][MR1351007-bib]]
+***** On viscosity solutions of fully nonlinear equations with measurable ingredients
+:PROPERTIES:
+:Custom_ID: MR1376656
+:END:
+[[papers:MR1376656][MR1376656-paper]]
+[[bib:MR1376656][MR1376656-bib]]
+*** 35K   (1973-now) Parabolic equations and systems [See also 35Bxx, 35Dxx, 35R30, 35R35, 58J35] :parabolic:
+**** 35K55  (1973-now) Nonlinear parabolic equations	:nonlinear:parabolic:
+***** Convex curves moving translationally in the plane :convex:curves:translation:plane:geometry:evolution:
+:PROPERTIES:
+:Custom_ID: MR2225802
+:END:
+[[papers:MR2225802][MR2225802-paper]]
+[[bib:MR2225802][MR2225802-bib]]
+***** Stability of translating solutions to mean curvature flow
+:PROPERTIES:
+:Custom_ID: MR2321890
+:END:
+[[papers:MR2321890][MR2321890-paper]]
+[[bib:MR2321890][MR2321890-bib]]
+***** Motion of level sets by mean curvature. I
+:PROPERTIES:
+:Custom_ID: MR1100206
+:END:
+[[papers:MR1100206][MR1100206-paper]]
+[[bib:MR1100206][MR1100206-bib]]
+***** Motion of level sets by mean curvature. IV
+:PROPERTIES:
+:Custom_ID: MR1315658
+:END:
+[[papers:MR1315658][MR1315658-paper]]
+[[bib:MR1315658][MR1315658-bib]]
+**** 35K50  (1973-2009) Boundary value problems for parabolic systems :parabolic:boundary:system:
+***** Viscosity solutions of fully nonlinear parabolic systems
+:PROPERTIES:
+:Custom_ID: MR1980097
+:END:
+[[papers:MR1980097][MR1980097-paper]]
+[[bib:MR1980097][MR1980097-bib]]
+
+**** 35K60  View Publications (1973-now) Nonlinear initial value problems for linear parabolic equations
+***** On three-phase boundary motion and the singular limit of a vector-valued {G}inzburg-{L}andau equation
+:PROPERTIES:
+:Custom_ID: MR1240580
+:END:
+[[papers:MR1240580][MR1240580-paper]]
+[[bib:MR1240580][MR1240580-bib]]
+
+*** 35R Miscellaneous topics
+**** 35R01 Partial differential equations on manifolds		  :manifolds:
+***** Local {A}ronson-{B}\'enilan estimates and entropy formulae for porous medium and fast diffusion equations on manifolds :porous_medium:entropy:
+:PROPERTIES:
+:Custom_ID: MR2487898
+:END:
+[[papers:MR2487898][MR2487898-paper]]
+[[bib:MR2487898][MR2487898-bib]]
+
+***** Local {A}ronson-{B}\'enilan estimates for a weighted porous medium equation on {R}iemannian manifolds :porous_medium:
+:PROPERTIES:
+:Custom_ID: MR2921651
+:END:
+[[papers:MR2921651][MR2921651-paper]]
+
+** 37 (2000-now) Dynamical systems and ergodic theory [See also 26A18, 28Dxx, 34Cxx, 34Dxx, 35Bxx, 46Lxx, 58Jxx, 70-XX] :dynamical:ergodic:
+*** 37N   (2000-now) Applications
+**** 37N10   (2000-now) Dynamical systems in fluid mechanics, oceanography and meteorology [See mainly 76-XX, especially 76D05, 76F20, 86A05, 86A10] :fluids:mechanics:
+***** Geometrical theory of fluid flows and dynamical systems	   :geometry:
+:PROPERTIES:
+:Custom_ID: MR1912903
+:END:
+[[papers:MR1912903][MR1912903-paper]]
+   
+** 49 (1940-now) Calculus of variations and optimal control; optimization [See also 34H05, 34K35, 65Kxx, 90Cxx, 93-XX] :calculus_variations:optimal_control:optimization:
+*** 49-01  (1973-now) Instructional exposition (textbooks, tutorial papers, etc.)
+**** Geometric measure theory
+:PROPERTIES:
+:Custom_ID: MR2455580
+:END:
+[[papers:MR2455580][MR2455580-paper]]
+[[bib:MR2455580][MR2455580-bib]]
+**** Lectures on geometric measure theory
+:PROPERTIES:
+:Custom_ID: MR756417
+:END:
+[[papers:MR756417][MR756417-paper]]
+[[bib:MR756417][MR756417-bib]]
+*** 49F  (1973-1990) Manifolds [See also 58Exx.]
+**** 49F20  (1973-1990) Geometric measure and integration theory, integral and normal currents, flat chains and cochains, varifolds [See also 28A75, 32C30, 58A25, 58C35.]
+**** On the regularity of boundaries of sets minimizing perimeter with a volume constraint
+:PROPERTIES:
+:Custom_ID: MR684753
+:END:
+[[papers:MR684753][MR684753-paper]]
+[[bib:MR684753][MR684753-bib]]
+*** 49L   (1991-now) Hamilton-Jacobi theories, including dynamic programming :hamilton_jacobi:dynamic_programming:
+**** 49L20   (1991-now) Dynamic programming method
+***** Hamilton-{J}acobi equations and distance functions on {R}iemannian manifolds :geometry:manifolds:distance:riemannian:
+:PROPERTIES:
+:Custom_ID: MR1941909
+:END:
+[[papers:MR1941909][MR1941909-paper]]
+[[bib:MR1941909][MR1941909-bib]]
+*** 49Q  (1991-now) Manifolds [See also 58Exx]		 :manifolds:geometry:
+**** 49Q05  (1991-now) Minimal surfaces [See also 53A10, 58E12]
+***** Stratification of minimal surfaces, mean curvature flows, and harmonic maps
+:PROPERTIES:
+:Custom_ID: MR1465365
+:END:
+[[papers:MR1465365][MR1465365-paper]]
+[[bib:MR1465365][MR1465365-bib]]
+**** 49Q10  (1991-now) Optimization of shapes other than minimal surfaces [See also 90C90]
+***** Area minimizing sets subject to a volume constraint in a convex set
+:PROPERTIES:
+:Custom_ID: MR1669207
+:END:
+[[papers:MR1669207][MR1669207-paper]]
+[[bib:MR1669207][MR1669207-bib]]
+**** 49Q15  (1991-now) Geometric measure and integration theory, integral and normal currents [See also 28A75, 32C30, 58A25, 58C35] :gmt:
+***** On the connectivity of boundaries of sets minimizing perimeter subject to a volume constraint :convex:isoperimetric:
+:PROPERTIES:
+:Custom_ID: MR1674097
+:END:
+[[papers:MR1674097][MR1674097-paper]]
+[[bib:MR1674097][MR1674097-bib]]
+**** 49Q20  (1991-now) Variational problems in a geometric measure-theoretic setting
+***** Existence and characterization of regions minimizing perimeter under a volume constraint inside {E}uclidean cones
+:PROPERTIES:
+:Custom_ID: MR2067135
+:END:
+[[papers:MR2067135][MR2067135-paper]]
+[[bib:MR2067135][MR2067135-bib]]
+** 52 (1940-now) Convex and discrete geometry 	   :convex:geometry:discrete:
+*** 52.0 (1940-1958) Convex domains, extremal problems, integral geometry
+**** Note on convex spherical curves
+:PROPERTIES:
+:Custom_ID: MR0010993
+:END:
+[[papers:MR0010993][MR0010993-paper]]
+[[bib:MR0010993][MR0010993-bib]]
+**** Note on convex curves on the hyperbolic plane
+:PROPERTIES:
+:Custom_ID: MR0012456
+:END:
+[[papers:MR0012456][MR0012456-paper]]
+[[bib:MR0012456][MR0012456-bib]]
+*** 52A   (1973-now) General convexity
+**** 52A39 (1991-now) Mixed volumes and related topics
+***** Convex bodies: the {B}runn-{M}inkowski theory
+:PROPERTIES:
+:Custom_ID: MR1216521
+:END:
+[[papers:MR1216521][MR1216521-paper]]
+[[bib:MR1216521][MR1216521-bib]]
+**** 52A40   (1973-now) Inequalities and extremum problems :inequalities:optimization:
+***** The isoperimetric inequality			      :isoperimetric:
+:PROPERTIES:
+:Custom_ID: MR0500557
+:END:
+[[papers:MR0500557][MR0500557-paper]]
+***** Isoperimetric inequalities and eigenvalues of the {L}aplacian :isoperimetric:eigenvalues:laplacian:
+:PROPERTIES:
+:Custom_ID: MR562638
+:END:
+[[papers:MR562638][MR562638-paper]]
+
+***** An isoperimetric inequality with applications to curve shortening :isoperimetric:plane:geometry:curves:evolution:csf:
+:PROPERTIES:
+:Custom_ID: MR726325
+:END:
+[[papers:MR726325][MR726325-paper]]
+[[bib:MR726325][MR726325-bib]]
+***** Curve shortening makes convex curves circular :csf:convex:geometry:plane:evolution:
+:PROPERTIES:
+:Custom_ID: MR742856
+:END:
+[[papers:MR742856][MR742856-paper]]
+[[bib:MR742856][MR742856-bib]]
+***** Mixed volumes of a convex body and its polar dual
+:PROPERTIES:
+:Custom_ID: MR1736623x
+:END:
+[[papers:MR1736623x][MR1736623x-paper]]
+[[bib:MR1736623x][MR1736623x-bib]]
+\cite{MR936419}
+** 53 (1940-now) Differential geometry [For differential topology, see 57Rxx. For foundational questions of differentiable manifolds, see 58Axx] :dg:manifolds:geometry:
+*** 53.0 (1940-1958) Differential geometry
+**** Vorlesungen \"uber {D}ifferentialgeometrie und geometrische {G}rundlagen von {E}insteins {R}elativit\"atstheorie. {B}and {I}. {E}lementare {D}ifferentialgeometrie
+:PROPERTIES:
+:Custom_ID: MR0015247
+:END:
+[[papers:MR0015247][MR0015247-paper]]
+[[bib:MR0015247][MR0015247-bib]]
+*** 53-02 (1973-now) Research exposition (monographs, survey articles)
+**** Riemannian geometry
+:PROPERTIES:
+:Custom_ID: MR2229062
+:END:
+[[papers:MR2229062][MR2229062-paper]]
+[[bib:MR2229062][MR2229062-bib]]
+**** 53.75 (1959-1972) Global surface theory (convex surfaces)
+***** A regular solution of the {$n$}-dimensional {M}inkowski problem
+:PROPERTIES:
+:Custom_ID: MR0284956
+:END:
+[[papers:MR0284956][MR0284956-paper]]
+[[bib:MR0284956][MR0284956-bib]]
+*** 53.04   (1959-1972) Minimal surfaces 		:minimal:submanifold:
+***** Minimal varieties in riemannian manifolds 		 :riemannian:
+:PROPERTIES:
+:Custom_ID: MR0233295
+:END:
+[[papers:MR0233295][MR0233295-paper]]
+[[bib:MR0233295][MR0233295-bib]]
+
+*** 53A Classical differential geometry				  :classical:
+**** 53AXX
+***** Contracting convex immersed closed plane curves with slow speed of curvature :convex:evolution:plane:
+:PROPERTIES:
+:Custom_ID: MR2946930
+:END:
+[[papers:MR2946930][MR2946930-paper]]
+[[bib:MR2946930][MR2946930-bib]]
+**** 53A10 Minimal surfaces, surfaces with prescribed mean curvature :minimal_surfaces:mean_curvature:submanifold:
+***** Asymptotic behavior for singularities of the mean curvature flow
+:PROPERTIES:
+:Custom_ID: MR1030675
+:END:
+[[papers:MR1030675][MR1030675-paper]]
+[[bib:MR1030675][MR1030675-bib]]
+***** On the isoperimetric inequality for minimal surfaces    :isoperimetric:
+:PROPERTIES:
+:Custom_ID: MR764944
+:END:
+[[papers:MR764944][MR764944-paper]]
+***** Geodesics and soap bubbles in surfaces
+:PROPERTIES:
+:Custom_ID: MR1417428
+:END:
+[[papers:MR1417428][MR1417428-paper]]
+[[bib:MR1417428][MR1417428-bib]]
+***** Symmetry via spherical reflection
+:PROPERTIES:
+:Custom_ID: MR1794577
+:END:
+[[papers:MR1794577][MR1794577-paper]]
+[[bib:MR1794577][MR1794577-bib]]
+***** Variants on {A}lexandrov reflection principle and other applications of maximum principle
+:PROPERTIES:
+:Custom_ID: MR1909079
+:END:
+[[papers:MR1909079][MR1909079-paper]]
+[[bib:MR1909079][MR1909079-bib]]
+**** 53A04 (1980-now) Curves in Euclidean space :curves:euclidean:submanifold:
+***** The heat equation shrinking convex plane curves :plane:convex:evolution:csf:
+:PROPERTIES:
+:Custom_ID: MR840401
+:END:
+[[papers:MR840401][MR840401-paper]]
+[[bib:MR840401][MR840401-bib]]
+
+***** The heat equation shrinks embedded plane curves to round points :plane:evolution:csf:
+:PROPERTIES:
+:Custom_ID: MR906392
+:END:
+[[papers:MR906392][MR906392-paper]]
+[[bib:MR906392][MR906392-bib]]
+***** The normalized curve shortening flow and homothetic solutions :csf:plane:evolution:
+:PROPERTIES:
+:Custom_ID: MR845704
+:END:
+[[papers:MR845704][MR845704-paper]]
+[[bib:MR845704][MR845704-bib]]
+**** 53A07 (1980-now) Higher-dimensional and -codimensional surfaces in Euclidean n-space :euclidean:high_dimension:high_codimension:submanifold:
+***** Deforming a hypersurface by its {G}auss-{K}ronecker curvature :gauss_curvature:evolution:
+:PROPERTIES:
+:Custom_ID: MR812353
+:END:
+[[papers:MR812353][MR812353-paper]]
+[[bib:MR812353][MR812353-bib]]
+***** The volume preserving mean curvature flow
+:PROPERTIES:
+:Custom_ID: MR921165
+:END:
+[[papers:MR921165][MR921165-paper]]
+[[bib:MR921165][MR921165-bib]]
+**** 53A30 (1973-now) Conformal differential geometry
+***** Constant geodesic curvature curves and isoperimetric domains in rotationally symmetric surfaces
+:PROPERTIES:
+:Custom_ID: MR1883725
+:END:
+[[papers:MR1883725][MR1883725-paper]]
+[[bib:MR1883725][MR1883725-bib]]
+*** 53C (1973-now) Global differential geometry [See also 51H25, 58-XX; for related bundle theory, see 55Rxx, 57Rxx] :global:
+**** 53CXX
+***** Existence of isoperimetric regions in contact sub-{R}iemannian manifolds :isoperimetric:contact:submanifold:riemannian:
+:PROPERTIES:
+:Custom_ID: MR2979606
+:END:
+[[papers:MR2979606][MR2979606-paper]]
+
+***** Existence of isoperimetric regions in sub-{R}iemannian contact manifolds :isoperimetric:contact:submanifold:riemannian:
+:PROPERTIES:
+:Custom_ID: MR2953850
+:END:
+[[papers:MR2953850][MR2953850-paper]]
+
+***** Generic mean curvature flow {I}: generic singularities :mcf:singularities:evolution:submanifold:hypersurface:
+:PROPERTIES:
+:Custom_ID: MR2993752
+:END:
+[[papers:MR2993752][MR2993752-paper]]
+
+***** Soliton solutions of the mean curvature flow and minimal hypersurfaces :solition:mcf:submanifold:evolution:hypersurface:
+:PROPERTIES:
+:Custom_ID: MR2888198
+:END:
+[[papers:MR2888198][MR2888198-paper]]
+[[bib:MR2888198][MR2888198-bib]]
+**** 53C15 (1973-now) General geometric structures on manifolds (almost complex, almost product structures, etc.) :structures:
+***** Noncommutative {G}auss map		     :gauss_map:hypersurface:
+:PROPERTIES:
+:Custom_ID: MR1168123
+:END:
+[[papers:MR1168123][MR1168123-paper]]
+
+**** 53C20 (1973-now) Global Riemannian geometry, including pinching [See also 31C12, 58B20] :riemannian:pinching:
+***** Killing fields, mean curvature, translation maps :killing_fields:translation:
+:PROPERTIES:
+:Custom_ID: MR2114163
+:END:
+[[papers:MR2114163][MR2114163-paper]]
+
+***** Sur le volume minimal de {${\bf R}^2$	     :surfaces:isoperimetric:
+:PROPERTIES:
+:Custom_ID: MR875084
+:END:
+[[papers:MR875084][MR875084-paper]]
+[[bib:MR875084][MR875084-bib]]
+***** The volume of a small geodesic ball of a {R}iemannian manifold
+:PROPERTIES:
+:Custom_ID: MR0339002
+:END:
+[[papers:MR0339002][MR0339002-paper]]
+[[bib:MR0339002][MR0339002-bib]]
+***** On asymptotic volume of tori
+:PROPERTIES:
+:Custom_ID: MR1354290
+:END:
+[[papers:MR1354290][MR1354290-paper]]
+[[bib:MR1354290][MR1354290-bib]]
+***** The {R}icci flow on surfaces
+:PROPERTIES:
+:Custom_ID: MR954419
+:END:
+[[papers:MR954419][MR954419-paper]]
+[[bib:MR954419][MR954419-bib]]
+***** A differential inequality for the isoperimetric profile
+:PROPERTIES:
+:Custom_ID: MR2041647
+:END:
+[[papers:MR2041647][MR2041647-paper]]
+[[bib:MR2041647][MR2041647-bib]]
+***** Some isoperimetric comparison theorems for convex bodies in {R}iemannian manifolds
+:PROPERTIES:
+:Custom_ID: MR2177105
+:END:
+[[papers:MR2177105][MR2177105-paper]]
+[[bib:MR2177105][MR2177105-bib]]
+***** An isoperimetric comparison theorem
+:PROPERTIES:
+:Custom_ID: MR1156385
+:END:
+[[papers:MR1156385][MR1156385-paper]]
+[[bib:MR1156385][MR1156385-bib]]
+***** Optimal isoperimetric inequalities for three-dimensional {C}artan-{H}adamard manifolds
+:PROPERTIES:
+:Custom_ID: MR2167269
+:END:
+[[papers:MR2167269][MR2167269-paper]]
+[[bib:MR2167269][MR2167269-bib]]
+***** Lower curvature bounds, {T}oponogov's theorem, and bounded topology
+:PROPERTIES:
+:Custom_ID: MR839689
+:END:
+[[papers:MR839689][MR839689-paper]]
+[[bib:MR839689][MR839689-bib]]
+
+***** Necessary and sufficient conditions for continuity of optimal transport maps on {R}iemannian manifolds
+:PROPERTIES:
+:Custom_ID: MR2872966
+:END:
+[[papers:MR2872966][MR2872966-paper]]
+[[bib:MR2872966][MR2872966-bib]]
+***** Tangent cut loci on surfaces
+:PROPERTIES:
+:Custom_ID: MR2784296
+:END:
+[[papers:MR2784296][MR2784296-paper]]
+[[bib:MR2784296][MR2784296-bib]]
+***** The {L}ipschitz continuity of the distance function to the cut locus
+:PROPERTIES:
+:Custom_ID: MR1695025
+:END:
+[[papers:MR1695025][MR1695025-paper]]
+[[bib:MR1695025][MR1695025-bib]]
+
+***** Manifolds with {$1/4$}-pinched curvature are space forms
+:PROPERTIES:
+:Custom_ID: MR2449060
+:END:
+[[papers:MR2449060][MR2449060-paper]]
+[[bib:MR2449060][MR2449060-bib]]
+***** Curvature, sphere theorems, and the {R}icci flow
+:PROPERTIES:
+:Custom_ID: MR2738904
+:END:
+[[papers:MR2738904][MR2738904-paper]]
+[[bib:MR2738904][MR2738904-bib]]
+**** 53C21 (1980-now) Methods of Riemannian geometry, including PDE methods; curvature restrictions :riemannian:
+***** Proof of the {R}iemannian {P}enrose inequality using the positive mass theorem
+:PROPERTIES:
+:Custom_ID: MR1908823
+:END:
+[[papers:MR1908823][MR1908823-paper]]
+[[bib:MR1908823][MR1908823-bib]]
+***** An isoperimetric estimate for the {R}icci flow on the two-sphere :ricci_flow:isoperimetric:surfaces:evolution:
+:PROPERTIES:
+:Custom_ID: MR1369139
+:END:
+[[papers:MR1369139][MR1369139-paper]]
+[[bib:MR1369139][MR1369139-bib]]
+***** A geometric interpretation of {H}amilton's {H}arnack inequality for the {R}icci flow :harnack:ricci_flow:evolution:
+:PROPERTIES:
+:Custom_ID: MR1362964
+:END:
+[[papers:MR1362964][MR1362964-paper]]
+[[bib:MR1362964][MR1362964-bib]]
+***** Aleksandrov reflection and nonlinear evolution equations. {I}. {T}he {$n$}-sphere and {$n$}-ball :alexsandrov:evolution:
+:PROPERTIES:
+:Custom_ID: MR1386736
+:END:
+[[papers:MR1386736][MR1386736-paper]]
+[[bib:MR1386736][MR1386736-bib]]
+***** The formation of singularities in the {R}icci flow
+:PROPERTIES:
+:Custom_ID: MR1375255
+:END:
+[[papers:MR1375255][MR1375255-paper]]
+[[bib:MR1375255][MR1375255-bib]]
+***** The {R}icci flow on the {$2$}-sphere
+:PROPERTIES:
+:Custom_ID: MR1094458
+:END:
+[[papers:MR1094458][MR1094458-paper]]
+[[bib:MR1094458][MR1094458-bib]]
+***** Mean curvature flow and geometric inequalities
+:PROPERTIES:
+:Custom_ID: MR1650335
+:END:
+[[papers:MR1650335][MR1650335-paper]]
+[[bib:MR1650335][MR1650335-bib]]
+***** Total curvatures of model surfaces control topology of complete open manifolds with radial curvature bounded below: {I
+:PROPERTIES:
+:Custom_ID: MR2836657
+:END:
+[[papers:MR2836657][MR2836657-paper]]
+[[bib:MR2836657][MR2836657-bib]]
+**** 53C23 (1991-now) Global geometric and topological methods (à la Gromov); differential geometric analysis on metric spaces
+***** Metric structures for {R}iemannian and non-{R}iemannian spaces
+:PROPERTIES:
+:Custom_ID: MR1699320
+:END:
+[[papers:MR1699320][MR1699320-paper]]
+[[bib:MR1699320][MR1699320-bib]]
+**** 53C24 (2000-now) Rigidity results
+***** Classification of manifolds with weakly {$1/4$}-pinched curvatures
+:PROPERTIES:
+:Custom_ID: MR2386107
+:END:
+[[papers:MR2386107][MR2386107-paper]]
+[[bib:MR2386107][MR2386107-bib]]
+**** 53C25 (1973-now) Special Riemannian manifolds (Einstein, Sasakian, etc.) :riemannian:
+***** Four-manifolds with positive curvature operator :four_manifold:ricci_flow:evolution:
+:PROPERTIES:
+:Custom_ID: MR862046
+:END:
+[[papers:MR862046][MR862046-paper]]
+***** Three-manifolds with positive {R}icci curvature :three_manifold:ricci_flow:evolution:
+:PROPERTIES:
+:Custom_ID: MR664497
+:END:
+[[papers:MR664497][MR664497-paper]]
+**** 53C40 (1973-now) Global submanifolds [See also 53B25] :global:submanifold:
+***** On {A}. {H}urwitz' method in isoperimetric inequalities :isoperimetric:
+:PROPERTIES:
+:Custom_ID: MR0493885
+:END:
+[[papers:MR0493885][MR0493885-paper]]
+
+**** 53C42 (1980-now) Immersions (minimal, prescribed curvature, tight, etc.) [See also 49Q05, 49Q10, 53A10, 57R40, 57R42] :immersions:submanifold:
+***** Constant mean curvature hypersurfaces in a {L}ie group with a bi-invariant metric :cmc:lie_group:hypersurface:
+:PROPERTIES:
+:Custom_ID: MR2002821
+:END:
+[[papers:MR2002821][MR2002821-paper]]
+***** Hypersurfaces of constant curvature in space forms :cmc:space_form:hypersurface:
+:PROPERTIES:
+:Custom_ID: MR1216008
+:END:
+[[papers:MR1216008][MR1216008-paper]]
+
+***** Hypersurfaces whose tangent geodesics omit a nonempty set :space_form:hypersurface:
+:PROPERTIES:
+:Custom_ID: MR1173029
+:END:
+[[papers:MR1173029][MR1173029-paper]]
+
+***** Stability of hypersurfaces of constant mean curvature in {R}iemannian manifolds :cmc:stability:hypersurface:
+:PROPERTIES:
+:Custom_ID: MR917854
+:END:
+[[papers:MR917854][MR917854-paper]]
+[[bib:MR917854][MR917854-bib]]
+[[MR:MR917854][MR917854-MR]]
+***** A survey on {A}lexandrov-{B}ernstein-{H}opf theorems
+:PROPERTIES:
+:Custom_ID: MR2584182
+:END:
+[[papers:MR2584182][MR2584182-paper]]
+[[bib:MR2584182][MR2584182-bib]]
+***** Extrinsic upper bounds for {$\lambda_1$
+:PROPERTIES:
+:Custom_ID: MR936318
+:END:
+[[papers:MR936318][MR936318-paper]]
+[[bib:MR936318][MR936318-bib]]
+***** Unicity of constant mean curvature hypersurfaces in some {R}iemannian manifolds
+:PROPERTIES:
+:Custom_ID: MR1722814
+:END:
+[[papers:MR1722814][MR1722814-paper]]
+[[bib:MR1722814][MR1722814-bib]]
+**** 53C44 (2000-now) Geometric evolution equations (mean curvature flow, Ricci flow, etc.) :evolution:
+***** The inverse mean curvature flow and the {R}iemannian {P}enrose inequality
+:PROPERTIES:
+:Custom_ID: MR1916951
+:END:
+[[papers:MR1916951][MR1916951-paper]]
+[[bib:MR1916951][MR1916951-bib]]
+***** The {R}icci flow in {R}iemannian geometry
+:PROPERTIES:
+:Custom_ID: MR2760593
+:END:
+[[papers:MR2760593][MR2760593-paper]]
+[[bib:MR2760593][MR2760593-bib]]
+***** Topological change in mean convex mean curvature flow
+:PROPERTIES:
+:Custom_ID: MR3020169
+:END:
+[[papers:MR3020169][MR3020169-paper]]
+[[bib:MR3020169][MR3020169-bib]]
+***** Curvature bounds by isoperimetric comparison for normalized {R}icci flow on the two-sphere :ricci_flow:surfaces:isoperimetric:
+:PROPERTIES:
+:Custom_ID: MR2729306
+:END:
+[[papers:MR2729306][MR2729306-paper]]
+
+***** A comparison theorem for the isoperimetric profile under curve-shortening flow :csf:isoperimetric:plane::curves:
+:PROPERTIES:
+:Custom_ID: MR2843240
+:END:
+[[papers:MR2843240][MR2843240-paper]]
+***** Curvature bound for curve shortening flow via distance comparison and a direct proof of {G}rayson's theorem :csf:plane:curves:distance:
+:PROPERTIES:
+:Custom_ID: MR2794630
+:END:
+[[papers:MR2794630][MR2794630-paper]]
+***** The affine curve-lengthening flow			:affine:curves:plane:
+:PROPERTIES:
+:Custom_ID: MR1665677
+:END:
+[[papers:MR1665677][MR1665677-paper]]
+[[bib:MR1665677][MR1665677-bib]]
+***** Non-convergence and instability in the asymptotic behaviour of curves evolving by curvature :curves:plane:stability:
+:PROPERTIES:
+:Custom_ID: MR1900758
+:END:
+[[papers:MR1900758][MR1900758-paper]]
+[[bib:MR1900758][MR1900758-bib]]
+***** Classification of limiting shapes for isotropic curve flows :curves:plane:classification:
+:PROPERTIES:
+:Custom_ID: MR1949167
+:END:
+[[papers:MR1949167][MR1949167-paper]]
+[[bib:MR1949167][MR1949167-bib]]
+***** A relation between mean curvature flow solitons and minimal submanifolds :mcf:solitions:minimal_surfaces:hypersurface:
+:PROPERTIES:
+:Custom_ID: MR1855161
+:END:
+[[papers:MR1855161][MR1855161-paper]]
+[[bib:MR1855161][MR1855161-bib]]
+
+***** Gradient and oscillation estimates and their applications in geometric {PDE :pde:oscillation:gradient:
+:PROPERTIES:
+:Custom_ID: MR2908056
+:END:
+[[papers:MR2908056][MR2908056-paper]]
+[[bib:MR2908056][MR2908056-bib]]
+***** Singularity formation of embedded curves evolving on surfaces by curvature flow :singularities:csf:surfaces:curves:
+:PROPERTIES:
+:Custom_ID: MR2668967
+:END:
+[[papers:MR2668967][MR2668967-paper]]
+[[bib:MR2668967][MR2668967-bib]]
+***** Singularities in crystalline curvature flows :singularities:curves:plane:
+:PROPERTIES:
+:Custom_ID: MR1902649
+:END:
+[[papers:MR1902649][MR1902649-paper]]
+[[bib:MR1902649][MR1902649-bib]]
+***** Contracting convex immersed closed plane curves with fast speed of curvature :curves:plane:
+:PROPERTIES:
+:Custom_ID: MR2660457
+:END:
+[[papers:MR2660457][MR2660457-paper]]
+[[bib:MR2660457][MR2660457-bib]]
+***** Convex curves moving homothetically by negative powers of their curvature :convex:curves:plane:similarity:
+:PROPERTIES:
+:Custom_ID: MR1793674
+:END:
+[[papers:MR1793674][MR1793674-paper]]
+[[bib:MR1793674][MR1793674-bib]]
+***** Non-uniqueness of self-similar shrinking curves for an anisotropic curvature flow :curves:plane:similarity:
+:PROPERTIES:
+:Custom_ID: MR2217482
+:END:
+[[papers:MR2217482][MR2217482-paper]]
+[[bib:MR2217482][MR2217482-bib]]
+***** Classification of compact ancient solutions to the curve shortening flow :csf:curves:ancient:
+:PROPERTIES:
+:Custom_ID: MR2669361
+:END:
+[[papers:MR2669361][MR2669361-paper]]
+[[bib:MR2669361][MR2669361-bib]]
+***** The curve shortening problem				 :csf:curves:
+:PROPERTIES:
+:Custom_ID: MR1888641
+:END:
+[[papers:MR1888641][MR1888641-paper]]
+[[bib:MR1888641][MR1888641-bib]]
+***** Closed type {I} ancient solutions to {R}icci flow :ricci_flow:singularities:
+:PROPERTIES:
+:Custom_ID: MR2648942
+:END:
+[[papers:MR2648942][MR2648942-paper]]
+[[bib:MR2648942][MR2648942-bib]]
+***** A gap theorem for self-shrinkers of the mean curvature flow in arbitrary codimension :mcf:high_codimension:similarity:
+:PROPERTIES:
+:Custom_ID: MR3018176
+:END:
+[[papers:MR3018176][MR3018176-paper]]
+[[bib:MR3018176][MR3018176-bib]]
+***** Topological change in mean convex mean curvature flow
+:PROPERTIES:
+:Custom_ID: MR3020169
+:END:
+[[papers:MR3020169][MR3020169-paper]]
+[[bib:MR3020169][MR3020169-bib]]
+***** On algebraic selfsimilar solutions of the mean curvature flow
+:PROPERTIES:
+:Custom_ID: MR2752787
+:END:
+[[papers:MR2752787][MR2752787-paper]]
+[[bib:MR2752787][MR2752787-bib]]
+***** Conformal solitons to the mean curvature flow and minimal submanifolds
+:PROPERTIES:
+:Custom_ID: MR3066400
+:END:
+[[papers:MR3066400][MR3066400-paper]]
+[[bib:MR3066400][MR3066400-bib]]
+***** Evolution of convex lens-shaped networks under the curve shortening flow
+:PROPERTIES:
+:Custom_ID: MR2763716
+:END:
+[[papers:MR2763716][MR2763716-paper]]
+[[bib:MR2763716][MR2763716-bib]]
+***** Motion by curvature of planar networks
+:PROPERTIES:
+:Custom_ID: MR2075985
+:END:
+[[papers:MR2075985][MR2075985-paper]]
+[[bib:MR2075985][MR2075985-bib]]
+***** Self-similarly expanding networks to curve shortening flow
+:PROPERTIES:
+:Custom_ID: MR2394409
+:END:
+[[papers:MR2394409][MR2394409-paper]]
+[[bib:MR2394409][MR2394409-bib]]
+***** B-sub-manifolds and their stability
+:PROPERTIES:
+:Custom_ID: MR2269257
+:END:
+[[papers:MR2269257][MR2269257-paper]]
+[[bib:MR2269257][MR2269257-bib]]
+***** Mean curvature motion of graphs with constant contact angle at a free boundary
+:PROPERTIES:
+:Custom_ID: MR2718258
+:END:
+[[papers:MR2718258][MR2718258-paper]]
+[[bib:MR2718258][MR2718258-bib]]
+***** Motion by curvature of planar curves with end points moving freely on a line
+:PROPERTIES:
+:Custom_ID: MR2794911
+:END:
+[[papers:MR2794911][MR2794911-paper]]
+[[bib:MR2794911][MR2794911-bib]]
+***** Gaussian mean curvature flow
+:PROPERTIES:
+:Custom_ID: MR2643802
+:END:
+[[papers:MR2643802][MR2643802-paper]]
+[[bib:MR2643802][MR2643802-bib]]
+***** Curvature evolution of nonconvex lens-shaped domains
+:PROPERTIES:
+:Custom_ID: MR2818854
+:END:
+[[papers:MR2818854][MR2818854-paper]]
+[[bib:MR2818854][MR2818854-bib]]
+
+***** The {R}icci flow: an introduction
+:PROPERTIES:
+:Custom_ID: MR2061425
+:END:
+[[papers:MR2061425][MR2061425-paper]]
+[[bib:MR2061425][MR2061425-bib]]
+***** Classification of ancient compact solutions to the {R}icci flow on surfaces
+:PROPERTIES:
+:Custom_ID: MR2971286
+:END:
+[[papers:MR2971286][MR2971286-paper]]
+[[bib:MR2971286][MR2971286-bib]]
+***** Volume preserving centro-affine normal flows
+:PROPERTIES:
+:Custom_ID: MR3078952
+:END:
+[[papers:MR3078952][MR3078952-paper]]
+[[bib:MR3078952][MR3078952-bib]]
+***** Motion of hypersurfaces by {G}auss curvature
+:PROPERTIES:
+:Custom_ID: MR1781612
+:END:
+[[papers:MR1781612][MR1781612-paper]]
+[[bib:MR1781612][MR1781612-bib]]
+
+***** Nonlinear evolution by mean curvature and isoperimetric inequalities
+:PROPERTIES:
+:Custom_ID: MR2420018
+:END:
+[[papers:MR2420018][MR2420018-paper]]
+[[bib:MR2420018][MR2420018-bib]]
+***** Mean curvature flow and isoperimetric inequalities
+:PROPERTIES:
+:Custom_ID: MR2590630
+:END:
+[[papers:MR2590630][MR2590630-paper]]
+[[bib:MR2590630][MR2590630-bib]]
+***** Manifolds with positive curvature operators are space forms
+:PROPERTIES:
+:Custom_ID: MR2415394
+:END:
+[[papers:MR2415394][MR2415394-paper]]
+[[bib:MR2415394][MR2415394-bib]]
+**** 53C45 (1973-now) Global surface theory (convex surfaces à la A. D. Aleksandrov)
+***** Flow by mean curvature of convex surfaces into spheres
+:PROPERTIES:
+:Custom_ID: MR772132
+:END:
+[[papers:MR772132][MR772132-paper]]
+[[bib:MR772132][MR772132-bib]]
+***** On the regularity of the solution of the {$n$}-dimensional {M}inkowski problem
+:PROPERTIES:
+:Custom_ID: MR0423267
+:END:
+[[papers:MR0423267][MR0423267-paper]]
+[[bib:MR0423267][MR0423267-bib]]
+**** 53C65 (1973-now) Integral geometry [See also 52A22, 60D05]; differential forms, currents, etc. [See mainly 58Axx]
+***** The isoperimetric inequality on a surface
+:PROPERTIES:
+:Custom_ID: MR1714389
+:END:
+[[papers:MR1714389][MR1714389-paper]]
+[[bib:MR1714389][MR1714389-bib]]
+** 57 (1959-now) Manifolds and cell complexes [For complex manifolds, see 32Qxx]
+*** 57M (1980-now) Low-dimensional topology
+**** 57M40 (1980-now) Characterizations of E3 and S3 (Poincaré conjecture) [See also 57N12]
+***** Ricci flow and the {P}oincar\'e conjecture
+:PROPERTIES:
+:Custom_ID: MR2334563
+:END:
+[[papers:MR2334563][MR2334563-paper]]
+[[bib:MR2334563][MR2334563-bib]]
+** 58 (1973-now) Global analysis, analysis on manifolds [See also 32Cxx, 32Fxx, 32Wxx, 46-XX, 47Hxx, 53Cxx] [For geometric integration theory, see 49Q15] :global:manifolds:geometry:
+*** 58-02 (1973-now) Research exposition (monographs, survey articles)
+**** Some nonlinear problems in {R}iemannian geometry
+:PROPERTIES:
+:Custom_ID: MR1636569
+:END:
+[[papers:MR1636569][MR1636569-paper]]
+[[bib:MR1636569][MR1636569-bib]]
+
+***** Probl\`emes isop\'erim\'etriques et espaces de {S}obolev
+:PROPERTIES:
+:Custom_ID: MR0448404
+:END:
+[[papers:MR0448404][MR0448404-paper]]
+[[bib:MR0448404][MR0448404-bib]]
+*** 58E   (1973-now) Variational problems in infinite-dimensional spaces :calculus_variations:infinite_dimension:
+**** 58E10   (1973-now) Applications to the theory of geodesics (problems in one independent variable) :geodesics:
+***** A distance comparison principle for evolving curves :csf:evolution:distance:plane:curves:
+:PROPERTIES:
+:Custom_ID: MR1656553
+:END:
+[[papers:MR1656553][MR1656553-paper]]
+[[bib:MR1656553][MR1656553-bib]]
+***** Evolving convex curves		  :csf:convex:plane:evolution:curves:
+:PROPERTIES:
+:Custom_ID: MR1660843
+:END:
+[[papers:MR1660843][MR1660843-paper]]
+[[bib:MR1660843][MR1660843-bib]]
+***** Isoperimetric estimates for the curve shrinking flow in the plane :isoperimetric:csf:evolution:plane:curves:
+:PROPERTIES:
+:Custom_ID: MR1369140
+:END:
+[[papers:MR1369140][MR1369140-paper]]
+[[bib:MR1369140][MR1369140-bib]]
+
+***** On affine plane curve evolution	      :affine:curves:plane:evolution:
+:PROPERTIES:
+:Custom_ID: MR1255274
+:END:
+[[papers:MR1255274][MR1255274-paper]]
+[[bib:MR1255274][MR1255274-bib]]
+***** On the formation of singularities in the curve shortening flow :csf:curves:singularities:evolution:
+:PROPERTIES:
+:Custom_ID: MR1100205
+:END:
+[[papers:MR1100205][MR1100205-paper]]
+[[bib:MR1100205][MR1100205-bib]]
+**** 58E11   (1980-now) Critical metrics		   :metrics:critical:
+***** The {H}arnack estimate for the {R}icci flow :harnack:ricci_flow:evolution:
+:PROPERTIES:
+:Custom_ID: MR1198607
+:END:
+[[papers:MR1198607][MR1198607-paper]]
+[[bib:MR1198607][MR1198607-bib]]
+**** 58E12   (1980-now) Applications to minimal surfaces (problems in two independent variables) [See also 49Q05] :minimal_surfaces:
+***** Stability of hypersurfaces with constant mean curvature :stability:cmc:hypersurfaces:euclidean:
+:PROPERTIES:
+:Custom_ID: MR731682
+:END:
+[[papers:MR731682][MR731682-paper]]
+[[bib:MR731682][MR731682-bib]]
+[[MR:MR731682][MR731682-MR]]
+***** Geometry and stability of surfaces with constant anisotropic mean curvature
+:PROPERTIES:
+:Custom_ID: MR2189687
+:END:
+[[papers:MR2189687][MR2189687-paper]]
+[[bib:MR2189687][MR2189687-bib]]
+***** The isoperimetric problem on surfaces of revolution of decreasing {G}auss curvature
+:PROPERTIES:
+:Custom_ID: MR1661278
+:END:
+[[papers:MR1661278][MR1661278-paper]]
+[[bib:MR1661278][MR1661278-bib]]
+
+**** 58E15   (1973-now) Application to extremal problems in several variables; Yang-Mills functionals [See also 81T13], etc. :yang_mills:high_dimensino:
+***** Contraction of convex hypersurfaces by their affine normal :convex:hypersurfaces:affine:evolution:
+:PROPERTIES:
+:Custom_ID: MR1424425
+:END:
+[[papers:MR1424425][MR1424425-paper]]
+[[bib:MR1424425][MR1424425-bib]]
+***** The topology of hypersurfaces moving by mean curvature
+:PROPERTIES:
+:Custom_ID: MR1362655
+:END:
+[[papers:MR1362655][MR1362655-paper]]
+[[bib:MR1362655][MR1362655-bib]]
+***** Partial regularity of mean-convex hypersurfaces flowing by mean curvature
+:PROPERTIES:
+:Custom_ID: MR1266114
+:END:
+[[papers:MR1266114][MR1266114-paper]]
+[[bib:MR1266114][MR1266114-bib]]
+***** A new isoperimetric comparison theorem for surfaces of variable curvature
+:PROPERTIES:
+:Custom_ID: MR1417620
+:END:
+[[papers:MR1417620][MR1417620-paper]]
+[[bib:MR1417620][MR1417620-bib]]
+**** 58E99   (1973-now) None of the above, but in this section
+***** Motion of level sets by mean curvature. {II
+:PROPERTIES:
+:Custom_ID: MR1068927
+:END:
+[[papers:MR1068927][MR1068927-paper]]
+[[bib:MR1068927][MR1068927-bib]]
+***** Deformation of {K}\"ahler metrics to {K}\"ahler-{E}instein metrics on compact {K}\"ahler manifolds
+:PROPERTIES:
+:Custom_ID: MR799272
+:END:
+[[papers:MR799272][MR799272-paper]]
+[[bib:MR799272][MR799272-bib]]
+*** 58G Partial differential equations on manifolds; differential operators :pde:operators:
+**** 58G11 Heat and other parabolic equation methods		  :parabolic:
+***** On the parabolic kernel of the {S}chr\"odinger operator :kernel:schrodinger:
+:PROPERTIES:
+:Custom_ID: MR834612
+:END:
+[[papers:MR834612][MR834612-paper]]
+****** Proposition
+\begin{prop}
+If $\pd{t} u = \laplace u$ on $(M,\metric)$, then
+\[
+\laplace u = \pd \ln u - \abs{\grad \ln u}^2.
+\]
+\end{prop}
+
+\begin{proof}
+Given $f: \RR \to \RR$ we have
+\[
+\laplace (f\compose u) = \div\grad (f\compose u) = \tr \conx \grad (f\compose u).
+\]
+
+Now for $X\in T_pM$, 
+\begin{align*}
+\metric (\grad (f\compose u), X) &= d(f\circ u) (X)\\
+&= f' du(X) \\
+&= f' \metric(\grad u, X) \\
+&= \metric(f' \grad u, X).
+\end{align*}
+Therefore, $\grad (f\circ u) = f' \grad u$.
+
+Also for $X,Y$ vector fields and $h: \RR \to \RR$, we have
+\begin[
+\conx_X (hY) = (\conx_X h)Y + h\conx_X Y = (dh \tensor Y + h\conx Y) (X) \Rightarrow \conx (hY) = dh\tensor Y + h \conx Y.
+\]
+Therefore,
+\[
+\div (hY) = \tr \conx(hY) = \conx_Y h + h \div Y.
+\]
+Thus if $h=f'$ and $Y=\grad u$ we get
+\begin{align*}
+\laplace (f \compose u) &= \div (f'\grad u) \\
+&= \conx_{\grad u} f'(u) + f'(u) \laplace u \\
+&= f''(u) \abs{\grad u}^2 + f'(u) \laplace u
+\end{align*}
+where the last equality comes from
+\begin{align*}
+\conx_{\grad u} f'\compose u = d(f'\compose u) (\grad u) \\
+&= f''(u) du(\grad u) \\
+&= f''(u) \metric(\grad u, \grad u) \\
+&= f''(u) \abs{\grad u}^2.
+\end{align*}
+
+Substituting $f=\ln$, $h=f'$ gives
+\begin{align*}
+\laplace (\ln u) &= -\frac{1}{u^2} \abs{\grad u}^2 + \frac{1}{u} \laplace u \\
+&= -\abs{\grad \ln u}^2 + \frac{1}{u}\pd{t}u \\
+&= -\abs{\grad \ln u}^2 + \pd{t} \ln u,
+\{align*}
+using the fact that $\pd{t} u = \laplace u$.
+\end{proof}
+
+I should be able to do the Bochner formula similarly using invariant notation, rather than orthonormal frames which I think obscures the matter! That is I need to compute
+\[
+\laplace \abs{\grad u}^2 = \laplace g(\grad u, \grad u).
+\]
+Here I need to do some more work since $u \mapsto g(\grad u, \grad u)$ is not a map $\RR \to \RR$. It should just come down to metric compatability and changing the order of covariant derivatives to turn up curvature terms.
+
+***** An expansion of convex hypersurfaces   :convex:hypersurfaces:evolution:
+:PROPERTIES:
+:Custom_ID: MR1085136
+:END:
+[[papers:MR1085136][MR1085136-paper]]
+[[bib:MR1085136][MR1085136-bib]]
+**** 58G25 (1980-1999) Spectral problems; spectral geometry; scattering theory
+***** Eigenvalues in {R}iemannian geometry
+:PROPERTIES:
+:Custom_ID: MR768584
+:END:
+[[papers:MR768584][MR768584-paper]]
+[[bib:MR768584][MR768584-bib]]
+***** Some isoperimetric inequalities and eigenvalue estimates
+:PROPERTIES:
+:Custom_ID: MR608287
+:END:
+[[papers:MR608287][MR608287-paper]]
+[[bib:MR608287][MR608287-bib]]
+***** In\'egalit\'es isop\'erim\'etriques et analytiques sur les vari\'et\'es riemanniennes
+:PROPERTIES:
+:Custom_ID: MR999971
+:END:
+[[papers:MR999971][MR999971-paper]]
+[[bib:MR999971][MR999971-bib]]
+***** Estimates of eigenvalues of a compact {R}iemannian manifold
+:PROPERTIES:
+:Custom_ID: MR573435
+:END:
+[[papers:MR573435][MR573435-paper]]
+[[bib:MR573435][MR573435-bib]]
+**** 58G30   (1980-1999) Relations with special manifold structures (Riemannian, Finsler, etc.) :structures:special:
+***** Harnack inequalities for evolving hypersurfaces :harnack:hypersurfaces:evolution:
+:PROPERTIES:
+:Custom_ID: MR1296393
+:END:
+[[papers:MR1296393][MR1296393-paper]]
+[[bib:MR1296393][MR1296393-bib]]
+*** 58J partial differential equations on manifolds; differential operators :pde:operators:
+**** 58J05  View Publications (2000-now) Elliptic equations on manifolds, general theory [See also 35-XX]
+***** Reilly inequalities of elliptic operators on closed submanifolds
+:PROPERTIES:
+:Custom_ID: MR2540366
+:END:
+[[papers:MR2540366][MR2540366-paper]]
+[[bib:MR2540366][MR2540366-bib]]
+*** 58J35 (2000-now) Heat and other parabolic equation methods
+***** Isoperimetric inequalities
+:PROPERTIES:
+:Custom_ID: MR1849187
+:END:
+[[papers:MR1849187][MR1849187-paper]]
+[[bib:MR1849187][MR1849187-bib]]
+*** 58J65 Diffusion processes and stochastic analysis on manifolds :diffusion:stochastic:
+***** Liouville theorems for symmetric diffusion operators on complete {R}iemannian manifolds
+:PROPERTIES:
+:Custom_ID: MR2170766
+:END:
+[[papers:MR2170766][MR2170766-paper]]
+
+* ZBMath
+** Sur les surfaces \`a courbure n\'egative.
+:PROPERTIES:
+:Custom_ID: zbMATH02588223
+:END:
+[[papers:zbMATH02588223][zbMATH02588223-paper]]
+[[bib:zbMATH02588223][zbMATH02588223-bib]]
+
+* ArXiv 							      :arxiv:
+  :PROPERTIES:
+  :COLUMNS: %75ITEM %TAGS
+  :ID:       6ac9b861-65b6-4799-bb71-716b51571ab6
+  :END:
+** math.DG					      :dg:geometry:manifolds:
+*** Generalized existence of isoperimetric regions in non-compact Riemannian manifolds and applications to the isoperimetric profile :isoperimetric:
+:PROPERTIES:
+:Custom_ID: 2012arXiv1210.1328N
+:END:
+[[papers:2012arXiv1210.1328N][2012arXiv1210.1328N-paper]]
+
+*** Existence of isoperimetric regions in non-compact Riemannian manifolds under Ricci or scalar curvature conditions :isoperimetric:curvature:
+:PROPERTIES:
+:Custom_ID: 2012arXiv1210.0567M
+:END:
+[[papers:2012arXiv1210.0567M][2012arXiv1210.0567M-paper]]
+
+*** A Lie algebraic approach to Ricci flow invariant curvature conditions and Harnack inequalities :lie:ricci_flow:harnack:evolution:
+:PROPERTIES:
+:Custom_ID: 2010arXiv1011.3561W
+:END:
+[[papers:2010arXiv1011.3561W][2010arXiv1011.3561W-paper]]
+[[bib:2010arXiv1011.3561W][2010arXiv1011.3561W-bib]]
+*** On the Distributional Hessian of the Distance Function :distance:riemannian:pde:
+:PROPERTIES:
+:Custom_ID: 2013arXiv1303.1421M
+:END:
+[[papers:2013arXiv1303.1421M][2013arXiv1303.1421M-paper]]
+[[bib:2013arXiv1303.1421M][2013arXiv1303.1421M-bib]]
+*** Volume preserving mean curvature flow in the Hyperbolic space
+:PROPERTIES:
+:Custom_ID: 2006math.....11216C
+:END:
+[[papers:2006math.....11216C][2006math.....11216C-paper]]
+[[bib:2006math.....11216C][2006math.....11216C-bib]]
+*** Classification of compact ancient solutions to the curve shortening flow
+:PROPERTIES:
+:Custom_ID: 2008arXiv0806.1757D
+:END:
+[[papers:2008arXiv0806.1757D][2008arXiv0806.1757D-paper]]
+[[bib:2008arXiv0806.1757D][2008arXiv0806.1757D-bib]]
+*** Surfaces moving by powers of Gauss curvature
+:PROPERTIES:
+:Custom_ID: 2011arXiv1111.4616A
+:END:
+[[papers:2011arXiv1111.4616A][2011arXiv1111.4616A-paper]]
+[[bib:2011arXiv1111.4616A][2011arXiv1111.4616A-bib]]
+*** Uniqueness of compact tangent flows in Mean Curvature Flow
+:PROPERTIES:
+:Custom_ID: 2011arXiv1107.4643S
+:END:
+[[papers:2011arXiv1107.4643S][2011arXiv1107.4643S-paper]]
+[[bib:2011arXiv1107.4643S][2011arXiv1107.4643S-bib]]
+*** Embedded constant mean curvature tori in the three-sphere
+:PROPERTIES:
+:Custom_ID: 2012arXiv1204.5007A
+:END:
+[[papers:2012arXiv1204.5007A][2012arXiv1204.5007A-paper]]
+[[bib:2012arXiv1204.5007A][2012arXiv1204.5007A-bib]]
+*** Curvature flows in the sphere
+:PROPERTIES:
+:Custom_ID: 2013arXiv1308.1607G
+:END:
+[[papers:2013arXiv1308.1607G][2013arXiv1308.1607G-paper]]
+[[bib:2013arXiv1308.1607G][2013arXiv1308.1607G-bib]]
+*** An application of dual convex bodies to the inverse Gauss curvature flow
+:PROPERTIES:
+:Custom_ID: 2013arXiv1312.4242I
+:END:
+[[papers:2013arXiv1312.4242I][2013arXiv1312.4242I-paper]]
+[[bib:2013arXiv1312.4242I][2013arXiv1312.4242I-bib]]
+*** Curvature bounds via an isoperimetric comparison for Ricci flow on surfaces
+:PROPERTIES:
+:Custom_ID: 2014arXiv1403.4654B
+:END:
+[[papers:2014arXiv1403.4654B][2014arXiv1403.4654B-paper]]
+[[bib:2014arXiv1403.4654B][2014arXiv1403.4654B-bib]]
+*** Curvature Decay Estimates of Graphical Mean Curvature Flow in Higher Codimensions
+:PROPERTIES:
+:Custom_ID: 2014arXiv1401.4154S
+:END:
+[[papers:2014arXiv1401.4154S][2014arXiv1401.4154S-paper]]
+[[bib:2014arXiv1401.4154S][2014arXiv1401.4154S-bib]]
+* Misc
+  :PROPERTIES:
+  :COLUMNS: %75ITEM %TAGS
+  :ID:       5724f791-e1ce-4b91-b272-ddf358eb8b58
+  :END:
+** Distance comparison principle and Grayson type theorem in the three dimensional curve shortening flow :csf:distance:curves:three_space:evolution:geometry:
+:PROPERTIES:
+:Custom_ID: GEOM-D-13-00010
+:END:
+[[papers:GEOM-D-13-00010][GEOM-D-13-00010-paper]]
+
+** Embedded minimal tori in S^3 and the Lawson conjecture
+:PROPERTIES:
+:Custom_ID: brendlelawson
+:END:
+[[papers:brendlelawson][brendlelawson-paper]]
+[[bib:brendlelawson][brendlelawson-bib]]
+* Lecture Notes
+* Theses
+** Isoperimetric Comparison Techniques for Low Dimension Curvature Flows
+:PROPERTIES:
+:Custom_ID: pbthesis
+:END:
+[[papers:pbthesis][pbthesis-paper]]
+[[bib:pbthesis][pbthesis-bib]]

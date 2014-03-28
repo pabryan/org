@@ -1,0 +1,168 @@
+#+LAST_MOBILE_CHANGE: 2012-12-08 10:21:46
+#+FILETAGS: KATE
+
+* Health							     :HEALTH:
+  :PROPERTIES:
+  :ID:       bd07a010-3867-4ef8-a9e6-1168c2cf5dfd
+  :END:
+** KP									 :KP:
+*** Tasks
+**** DONE Make Doctor's Appointment for Kate
+   DEADLINE: <2013-02-04 Mon> SCHEDULED: <2013-02-01 Fri>
+   - State "DONE"       from "TODO"       [2013-02-01 Fri 14:41]
+  :LOGBOOK:
+  :END:
+  :PROPERTIES:
+  :ID:       3357dec3-c281-4699-90bd-5cac2501199f
+  :END:
+[2013-02-01 Fri 11:46]
+
+**** DONE Register for online services
+     SCHEDULED: <2013-08-24 Sat>
+     :LOGBOOK:
+     - State "DONE"       from "TODO"       [2013-08-24 Sat 10:04]
+     :END:
+     :PROPERTIES:
+     :ID:       58e289de-c25f-4ee2-b9fa-715750e3db3e
+     :END:
+temp pass: 29xk84zs
+*** Appointments
+**** OB Appointment
+   :PROPERTIES:
+   :ID:       b641d4d2-f88a-41eb-877c-c5b2a8a0c936
+   :END:
+<2013-03-04 Mon 16:10>
+
+**** OB Appointment
+     SCHEDULED: [2013-08-22 Thu 16:10]
+     :PROPERTIES:
+     :ID:       2bb88411-bc5c-4ce2-935c-298a5b5fb7f8
+     :END:
+[[gmap:vandever%20medical%20offices][gmap:vandever medical offices]]
+Rosalind Anne Hirst
+2nd floor
+4405 Vandever Ave, 92120
+**** DNC
+<2013-09-13 Fri 13:00-17:00>
+**** OB Appointment
+     :PROPERTIES:
+     :ID:       abf8b03b-582c-4f7f-aee4-e8373690c3c4
+     :END:
+<2013-10-22 Tue 9:55-10:30>
+Vandeveer 2nd Floor
+4405 Vandeveer Ave
+* Tasks
+  :PROPERTIES:
+  :ID:       4977ef07-4d81-4831-b747-2c74b409015c
+  :END:
+** DONE Organise Kate's Birthday
+  DEADLINE: <2012-11-26 Mon -2w>
+  - State "DONE"       from "TODO"       [2012-11-27 Tue 10:07]
+
+  CLOCK: [2012-11-07 Wed 12:57]--[2012-11-07 Wed 12:58] =>  0:01
+   :PROPERTIES:
+   :ID:       b8272ed8-867f-4d48-9ef0-31685b7fdd1e
+   :END:
+  [2012-11-07 Wed 12:57]
+*** DONE Check Amazon wish list
+    - State "DONE"       from "NEXT"       [2012-11-16 Fri 14:24]
+    :PROPERTIES:
+    :ID:       9b016383-2b40-49f7-950a-aa1af5264d1b
+    :END:
+*** DONE Ask Kate what she wants to do on b'day
+    - State "DONE"       from "NEXT"       [2012-11-16 Fri 14:25]
+    :PROPERTIES:
+    :ID:       2c20fc50-3af4-4b81-affc-f694142a8e02
+    :END:
+what's for dinner/lunch?
+*** CANCELLED Buy cake
+    SCHEDULED: <2012-11-26 Mon>
+    - State "CANCELLED"  from "TODO"       [2012-11-27 Tue 10:07] \\
+      Went out to dinner instead
+    :PROPERTIES:
+    :ID:       0b32e722-472d-4c60-bc9c-b27660bd9914
+    :END:
+*** DONE Buy card
+    - State "DONE"       from "NEXT"       [2012-11-26 Mon 08:17]
+    :PROPERTIES:
+    :ID:       9f11bf2f-1674-4984-8a72-d4dcbe00329b
+    :END:
+*** DONE Ask kids what to give Kate
+    - State "DONE"       from "NEXT"       [2012-11-24 Sat 20:48]
+    - State "NEXT"       from "DONE"       [2012-11-16 Fri 14:25]
+    - State "DONE"       from "NEXT"       [2012-11-16 Fri 14:25]
+    :PROPERTIES:
+    :ID:       71117a68-aebd-4727-ada3-d8358b75f786
+    :END:
+
+*** DONE Plan dinner
+    - State "DONE"       from "NEXT"       [2012-11-27 Tue 10:07]
+    :PROPERTIES:
+    :ID:       d8a1f0fe-4322-4d1b-8726-33292beb7104
+    :END:
+Cheesecake factory or home dinner?
+** DONE Get kate Xmas present 
+   - State "DONE"       from "NEXT"       [2012-12-06 Thu 11:43]
+   :LOGBOOK:
+   CLOCK: [2012-12-06 Thu 11:31]--[2012-12-06 Thu 11:42] =>  0:11
+   :END:
+  :PROPERTIES:
+  :ID:       0f32083e-1f7f-4e30-af51-cf4a3e0a2824
+  :END:
+
+notebook etsy never ending story
+http://www.etsy.com/listing/113210154/the-never-ending-story-steampunk-vintage?ref=cat_gallery_2
+
+* Outings
+  :PROPERTIES:
+  :ID:       53f32398-2b0e-4741-9412-22990b3f5d6f
+  :END:
+** Pony fair 2013
+<2013-07-05 Fri>--<2013-07-08 Mon>
+* Wildlife Reserve
+  :PROPERTIES:
+  :ID:       aaf1fb1b-cdbd-4cc2-9b06-8e141db84508
+  :END:
+** Tasks
+*** NEXT Set up project
+    :PROPERTIES:
+    :ID:       ab2e679f-c004-4bd2-ad41-3c504cc6bf67
+    :END:
+* Anthropology
+  :PROPERTIES:
+  :ID:       708a4629-eb8d-4287-80ca-2f2265c22405
+  :END:
+** Tasks
+*** TODO Find distance education
+    SCHEDULED: <2014-03-23 Sun>
+    :PROPERTIES:
+    :ID:       fbc4c1a7-ac41-4d03-9128-76d3e2b38728
+    :END:
+* US
+  :PROPERTIES:
+  :ID:       84b53a8d-4ec1-4128-9eec-0c9cdcb1b70e
+  :END:
+** CA License
+*** Written test
+<2013-10-08 Tue 13:50>
+3960 NORMAL ST
+SAN DIEGO, CA
+confirmation: 5061008131350
+*** WAITING Book Driving test
+    <2013-11-04 Mon>
+  :LOGBOOK:
+  - State "WAITING"    from "TODO"       [2013-11-04 Mon 20:43] \\
+    Sent Kate an email reminder to book it.
+  CLOCK: [2013-10-17 Thu 17:14]--[2013-10-17 Thu 17:15] =>  0:01
+  :END:
+    :PROPERTIES:
+    :ID:       1b5209a9-6241-46b6-9626-51903079aeaa
+    :END:
+[2013-10-17 Thu 17:14]
+1-800-777-0133
+
+* Shows
+** Tasks
+*** TODO Backup Kate's videos
+  SCHEDULED: <2014-02-04 Tue>
+[2014-02-04 Tue 14:14]
