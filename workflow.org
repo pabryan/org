@@ -1651,7 +1651,7 @@ yajl-ruby (1.1.0)
   :END:
 ** Organisation
   :LOGBOOK:
-  CLOCK: [2014-03-28 Fri 17:54]
+  CLOCK: [2014-03-28 Fri 17:54]--[2014-03-28 Fri 18:02] =>  0:08
   CLOCK: [2014-03-28 Fri 15:10]--[2014-03-28 Fri 15:45] =>  0:35
   CLOCK: [2014-03-28 Fri 14:31]--[2014-03-28 Fri 15:02] =>  0:31
   CLOCK: [2014-03-27 Thu 09:39]--[2014-03-27 Thu 09:43] =>  0:04
@@ -2864,6 +2864,7 @@ Check how I did last month. I guess the review and plan could probably go togeth
 ** NEXT Daily Review [0/10]
    SCHEDULED: <2014-03-21 Fri .+1d/2d>
    :LOGBOOK:
+   CLOCK: [2014-03-28 Fri 18:02]--[2014-03-28 Fri 18:03] =>  0:01
    - State "DONE"       from "NEXT"       [2014-03-20 Thu 19:45]
    CLOCK: [2014-03-20 Thu 19:19]--[2014-03-20 Thu 19:45] =>  0:26
    - State "DONE"       from "NEXT"       [2014-03-18 Tue 23:18]
