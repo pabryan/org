@@ -600,7 +600,8 @@ Clock summary at [2014-02-06 Thu 16:25]
      CLOCK: [2014-02-07 Fri 09:44]--[2014-02-07 Fri 09:59] =>  0:15
      :END:
 ** Refereeing
-*** DONE Referee space curves CSF dist comp.
+*** Completed
+**** DONE Referee space curves CSF dist comp.
    DEADLINE: <2013-04-17 Wed> SCHEDULED: <2013-02-04 Mon>
    - State "DONE"       from "NEXT"       [2013-02-13 Wed 13:48]
    :LOGBOOK:
@@ -620,7 +621,7 @@ Clock summary at [2014-02-06 Thu 16:25]
    :END:
 [[file:refs.org::#GEOM-D-13-00010][Distance comparison principle and Grayson type theorem in the three dimensional curve shortening flow]]
 
-**** Review
+***** Review
 Review Form
 
 Place an 'X' next to a statement.
@@ -650,7 +651,7 @@ The last two pages contain an interesting, rather simple result. That is, that s
 In any event, this latter result takes only 2 pages and is quite straightforward, again not publishable on it's own. However, personally I think this latter result has the most merit and could lead to some interesting research. I indicate a few quick thoughts in my comments for the author.
 
 
-**** Comments for the author
+***** Comments for the author
 The main theorems concerning $d/l$ improving at a minima are not particularly useful given they are essentially vaccuous. Theorem 2.2 for instance simply follows the same computation as Huisken's but in your case the required terms don't cancel, and by Cauchy-Schwartz are in fact negative when non-zero. Just stating that if they are positive then $d/l$ improves is not particularly useful, and I say is essentially vaccuous.
 
 If you could modify $Z=d/l$ by adding some terms to obtain something that does improve, then perhaps this could be useful Keep in  mind, that having some quantity $Z$ improving is in itself not interesting. It is what you can then do with this that is important, e.g. by proving the Gage-Hamilton-Grayson theorem. With this in mind, I don't think your approach will produce any useful results because in general we know $d/l$ will not improve (for example by losing embeddedness) and because singularities can arise. These situations must somehow be handled or ruled out of consideration. There are however, perhaps some interesting questions in this direction: 
@@ -667,75 +668,85 @@ The result for curves on spheres, though interesting, is probably not suitable f
 
 In another direction, suppose you have a family of surfaces in $\RR^3$ flowing by mean curvature flow (or some other geometric flow) and take a family of curves lying on the surface. These evolve along with the family of surfaces. Can you add a part tangential to the surface, but normal to the curve to obtain any useful geometric flow? Can you conclude anything useful about curve flows on surfaces from this point of view? Or, can you conclude anything useful about mean curvature flow of surfaces using the curve flow? What happens in higher dimensions?
 
-*** DONE Referee An application of dual convex bodies to the inverse Gauss curvature flow :FOCUS:
-    DEADLINE: <2013-07-09 Tue>
-    - State "DONE"       from "NEXT"       [2013-07-03 Wed 10:53]
-    :LOGBOOK:
-    CLOCK: [2013-07-03 Wed 10:11]--[2013-07-03 Wed 10:53] =>  0:42
-    CLOCK: [2013-07-02 Tue 20:30]--[2013-07-02 Tue 21:34] =>  1:04
-    CLOCK: [2013-07-02 Tue 17:05]--[2013-07-02 Tue 17:36] =>  0:31
-    CLOCK: [2013-07-02 Tue 16:27]--[2013-07-02 Tue 16:52] =>  0:25
-    CLOCK: [2013-07-02 Tue 12:15]--[2013-07-02 Tue 13:20] =>  1:05
-    CLOCK: [2013-06-24 Mon 13:25]--[2013-06-24 Mon 13:50] =>  0:25
-    CLOCK: [2013-06-21 Fri 17:40]--[2013-06-21 Fri 18:14] =>  0:34
-    CLOCK: [2013-06-21 Fri 12:50]--[2013-06-21 Fri 14:50] =>  2:00
-    CLOCK: [2013-06-19 Wed 14:16]--[2013-06-19 Wed 16:09] =>  1:53
-    CLOCK: [2013-06-15 Sat 12:20]--[2013-06-15 Sat 14:17] =>  1:57
-    CLOCK: [2013-06-12 Wed 11:57]--[2013-06-12 Wed 12:26] =>  0:29
-    CLOCK: [2013-06-12 Wed 09:40]--[2013-06-12 Wed 10:10] =>  0:30
-    CLOCK: [2013-06-12 Wed 08:10]--[2013-06-12 Wed 08:45] =>  0:35
-    CLOCK: [2013-06-10 Mon 14:59]--[2013-06-10 Mon 16:39] =>  1:40
-    :END:
-    :PROPERTIES:
-    :ID:       6d3de37a-1d47-49e2-9819-a8166e84e3de
-    :END:
-**** files
+**** DONE Referee An application of dual convex bodies to the inverse Gauss curvature flow :FOCUS:
+     DEADLINE: <2013-07-09 Tue>
+     - State "DONE"       from "NEXT"       [2013-07-03 Wed 10:53]
+     :LOGBOOK:
+     CLOCK: [2013-07-03 Wed 10:11]--[2013-07-03 Wed 10:53] =>  0:42
+     CLOCK: [2013-07-02 Tue 20:30]--[2013-07-02 Tue 21:34] =>  1:04
+     CLOCK: [2013-07-02 Tue 17:05]--[2013-07-02 Tue 17:36] =>  0:31
+     CLOCK: [2013-07-02 Tue 16:27]--[2013-07-02 Tue 16:52] =>  0:25
+     CLOCK: [2013-07-02 Tue 12:15]--[2013-07-02 Tue 13:20] =>  1:05
+     CLOCK: [2013-06-24 Mon 13:25]--[2013-06-24 Mon 13:50] =>  0:25
+     CLOCK: [2013-06-21 Fri 17:40]--[2013-06-21 Fri 18:14] =>  0:34
+     CLOCK: [2013-06-21 Fri 12:50]--[2013-06-21 Fri 14:50] =>  2:00
+     CLOCK: [2013-06-19 Wed 14:16]--[2013-06-19 Wed 16:09] =>  1:53
+     CLOCK: [2013-06-15 Sat 12:20]--[2013-06-15 Sat 14:17] =>  1:57
+     CLOCK: [2013-06-12 Wed 11:57]--[2013-06-12 Wed 12:26] =>  0:29
+     CLOCK: [2013-06-12 Wed 09:40]--[2013-06-12 Wed 10:10] =>  0:30
+     CLOCK: [2013-06-12 Wed 08:10]--[2013-06-12 Wed 08:45] =>  0:35
+     CLOCK: [2013-06-10 Mon 14:59]--[2013-06-10 Mon 16:39] =>  1:40
+     :END:
+     :PROPERTIES:
+     :ID:       6d3de37a-1d47-49e2-9819-a8166e84e3de
+     :END:
+***** files
 [[file:~/reference/academic/referee/130423-Ivaki-v1.pdf]]
 [[file:~/working/academic/journals/referee/AMS/an_application_of_dual_convex_bodies_to_the_inverse_gauss_curvature_flow]]
-**** editorial manager
+***** editorial manager
 http://www.ams.org/editflow/editorial/uploads/proc/submitted/130423-Ivaki/130423-Ivaki-v1.pdf
 http://www.ams.org/editflow/wft/refrep.php?rr=26201&s=*B4F7B3FE017D5B64D6B
-*** DONE Decide on referring PJM 130219-Chen
+**** DONE Decide on referring PJM 130219-Chen
     DEADLINE: <2013-05-08 Wed>
     - State "DONE"       from "TODO"       [2013-05-07 Tue 16:56]
     :PROPERTIES:
     :ID:       6ad0abf7-6e7f-473f-985d-edc9c77eba6a
     :END:
 Decided not to do it.
-*** DONE Referee PROC 131124-WANG
-    DEADLINE: <2014-02-16 Sun -3w>
-    :LOGBOOK:
-    - State "DONE"       from "TODO"       [2014-02-17 Mon 19:50]
-    :END:
-    :PROPERTIES:
-    :ID:       870c98c6-622e-4dbb-893b-da0f5ad4b054
-    :END:
-**** Notes
+**** DONE Referee PROC 131124-WANG
+     DEADLINE: <2014-02-16 Sun -3w>
+     :LOGBOOK:
+     - State "DONE"       from "TODO"       [2014-02-17 Mon 19:50]
+     :END:
+     :PROPERTIES:
+     :ID:       870c98c6-622e-4dbb-893b-da0f5ad4b054
+     :END:
+***** Notes
 - report: http://www.ams.org/editflow/wft/refrep.php?rr=28672&s=*04B42F99DC49A2392FC
 - file: [[file:~/reference/academic/journals/referee/131124-WANG]]
 - report: [[file:~/working/academic/journals/referee/AMS/singularities_of_mean_curvature_flow_and_isoperimetric_inequalities_in_H3/report.org]]
-**** DONE Check paper
-     :LOGBOOK:
-     - State "DONE"       from "NEXT"       [2014-02-17 Mon 14:31]
-     CLOCK: [2014-02-17 Mon 13:44]--[2014-02-17 Mon 14:20] =>  0:36
-     CLOCK: [2014-02-17 Mon 11:25]--[2014-02-17 Mon 13:08] =>  1:43
-     CLOCK: [2014-02-14 Fri 15:09]--[2014-02-14 Fri 15:52] =>  0:43
-     CLOCK: [2014-02-13 Thu 12:33]--[2014-02-13 Thu 12:47] =>  0:14
-     CLOCK: [2014-02-13 Thu 08:25]--[2014-02-13 Thu 09:14] =>  0:49
-     CLOCK: [2014-02-11 Tue 15:05]--[2014-02-11 Tue 15:37] =>  0:32
-     CLOCK: [2014-02-11 Tue 12:55]--[2014-02-11 Tue 12:58] =>  0:03
-     CLOCK: [2014-02-11 Tue 12:52]--[2014-02-11 Tue 12:54] =>  0:02
-     CLOCK: [2014-02-11 Tue 11:28]--[2014-02-11 Tue 11:48] =>  0:20
-     CLOCK: [2013-12-13 Fri 14:30]--[2013-12-13 Fri 15:02] =>  0:32
-     CLOCK: [2013-12-13 Fri 11:45]--[2013-12-13 Fri 12:00] =>  0:15
-     :END:
+***** DONE Check paper
+      :LOGBOOK:
+      - State "DONE"       from "NEXT"       [2014-02-17 Mon 14:31]
+      CLOCK: [2014-02-17 Mon 13:44]--[2014-02-17 Mon 14:20] =>  0:36
+      CLOCK: [2014-02-17 Mon 11:25]--[2014-02-17 Mon 13:08] =>  1:43
+      CLOCK: [2014-02-14 Fri 15:09]--[2014-02-14 Fri 15:52] =>  0:43
+      CLOCK: [2014-02-13 Thu 12:33]--[2014-02-13 Thu 12:47] =>  0:14
+      CLOCK: [2014-02-13 Thu 08:25]--[2014-02-13 Thu 09:14] =>  0:49
+      CLOCK: [2014-02-11 Tue 15:05]--[2014-02-11 Tue 15:37] =>  0:32
+      CLOCK: [2014-02-11 Tue 12:55]--[2014-02-11 Tue 12:58] =>  0:03
+      CLOCK: [2014-02-11 Tue 12:52]--[2014-02-11 Tue 12:54] =>  0:02
+      CLOCK: [2014-02-11 Tue 11:28]--[2014-02-11 Tue 11:48] =>  0:20
+      CLOCK: [2013-12-13 Fri 14:30]--[2013-12-13 Fri 15:02] =>  0:32
+      CLOCK: [2013-12-13 Fri 11:45]--[2013-12-13 Fri 12:00] =>  0:15
+      :END:
 
-**** DONE Write report
-     :LOGBOOK:
-     - State "DONE"       from "NEXT"       [2014-02-17 Mon 19:50]
-     CLOCK: [2014-02-17 Mon 19:03]--[2014-02-17 Mon 19:50] =>  0:47
-     CLOCK: [2014-02-17 Mon 14:37]--[2014-02-17 Mon 17:11] =>  2:34
-     :END:
+***** DONE Write report
+      :LOGBOOK:
+      - State "DONE"       from "NEXT"       [2014-02-17 Mon 19:50]
+      CLOCK: [2014-02-17 Mon 19:03]--[2014-02-17 Mon 19:50] =>  0:47
+      CLOCK: [2014-02-17 Mon 14:37]--[2014-02-17 Mon 17:11] =>  2:34
+      :END:
+
+*** Working
+**** TODO Referee CR-8403
+CR-8403 - "Curvature contraction of convex hypersurfaces by nonsmooth speeds by B. Andrews , A. Holder , J. McCoy, G. Wheeler , V-M Wheeler and G.  Williams
+[[file:~/reference/academic/journals/referee/CR-8403/CR-8403.pdf]]
+**** TODO Referee JGEA-D-14-00048
+Classification of compact convex ancient solutions of the planar affine normal flow
+[[file:~/reference/academic/journals/referee/JGEA-D-14-00048/JGEA-D-14-00048.pdf]]
+
+
 ** Selected Papers
 *** Tasks
 **** NEXT Write Ivaki review
