@@ -366,3 +366,10 @@ http://careers.stackoverflow.com/
 [2014-03-27 Thu 09:22]
 Adapt Kleiner's iso proof to Ricci flow
 SCHEDULED: <2014-03-30 Sun>
+* TODO Wrapper for scripts using ssh-agent
+  :LOGBOOK:
+  CLOCK: [2014-03-28 Fri 18:04]--[2014-03-28 Fri 18:05] =>  0:01
+  :END:
+[2014-03-28 Fri 18:04]
+
+I should update the session before running vc_autocommit.sh and check_uncommited.sh. It would also be nice if the latter didn't force me to hit ctrl-c for every single repository.<2014-03-28 Fri>
