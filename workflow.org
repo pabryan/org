@@ -3695,9 +3695,10 @@ When I set up scoring the day:
 - [ ] Do short tasks
 - [ ] Record morning health stats
 
-** NEXT Weekly Review [0/18]
+** NEXT Weekly Review [3/18]
    SCHEDULED: <2013-12-01 Sun +1w>
    :LOGBOOK:
+   CLOCK: [2014-03-31 Mon 11:58]
    CLOCK: [2014-03-31 Mon 10:24]--[2014-03-31 Mon 10:27] =>  0:03
    CLOCK: [2014-01-28 Tue 17:10]--[2014-01-28 Tue 17:48] =>  0:38
    CLOCK: [2013-12-12 Thu 13:01]--[2013-12-12 Thu 13:19] =>  0:18
@@ -3807,10 +3808,10 @@ When I set up scoring the day:
 
 What to review:
 
-- [ ] Check follow-up paper folder
-- [ ] Check holding directory
+- [X] Check follow-up paper folder
+- [X] Check holding directory
   [[file:~/holding]]
-- [ ] Check holding email folder
+- [X] Check holding email folder
 - [ ] Review weekly agenda =F12 a w//=
 - [ ] Check clocking data for past week =v c=
   - fix up any errors

@@ -7656,8 +7656,12 @@ Lectures in calendar and tasks like planning lectures.
 - Incomplete. A08625040.
 ********* Johanna Martinez 
 - Incomplete. a08909522.
-******** NEXT Enter incomplete grades
-	 <2014-03-31 Mon>
+******** WAITING Enter incomplete grades
+	 :LOGBOOK:
+	 - State "WAITING"    from "NEXT"       [2014-03-31 Mon 12:03] \\
+	   frdesk staff are putting in a petition for grade change
+	 :END:
+	 <2014-04-14 Mon>
 
 ******* DONE Coordinated lectures
 	:LOGBOOK:
@@ -9220,7 +9224,7 @@ http://urp.ucsd.edu/
 	  CLOCK: [2014-02-04 Tue 13:00]--[2014-02-04 Tue 14:24] =>  1:24
 	  CLOCK: [2014-01-28 Tue 13:02]--[2014-01-28 Tue 14:10] =>  1:08
 	  :END:
-<2014-01-28 Tue 13:00-14:00 +1w>
+<2014-04-03 Thu 13:00-14:00 +1w>
 ********* WDM
 	  :LOGBOOK:
 	  CLOCK: [2014-03-19 Wed 16:05]--[2014-03-19 Wed 18:33] =>  2:28
