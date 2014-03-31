@@ -1239,6 +1239,14 @@ The $K$ term should be divided by $8\pi$.
 
 ***** Notes
 ***** References
+***** TODO Ricci and Kleiner
+  :LOGBOOK:
+  CLOCK: [2014-03-27 Thu 09:22]--[2014-03-27 Thu 09:23] =>  0:01
+  :END:
+[2014-03-27 Thu 09:22]
+Adapt Kleiner's iso proof to Ricci flow
+SCHEDULED: <2014-03-31 Mon>
+
 **** TODO alpha CSF distance comparison				  :CSF_ALPHA:
    :LOGBOOK:
    CLOCK: [2013-07-19 Fri 09:53]--[2013-07-19 Fri 09:55] =>  0:02
@@ -3240,6 +3248,13 @@ http://mathoverflow.net/questions/14877/how-much-of-differential-geometry-can-be
      :PROPERTIES:
      :ID:       fb4cb56a-d33c-40da-bf00-7874b2d3d411
      :END:
+<2014-04-07 Mon>
+**** NEXT Update website
+  :LOGBOOK:
+  CLOCK: [2014-02-07 Fri 09:40]--[2014-02-07 Fri 09:41] =>  0:01
+  :END:
+[2014-02-07 Fri 09:40]
+- Put research up there including work in progress/open notebook, my notes to myself, student projects and computational work
 *** Notes
 ** Collaborators
 *** Janelle
