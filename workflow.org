@@ -1651,7 +1651,7 @@ yajl-ruby (1.1.0)
   :END:
 ** Organisation
   :LOGBOOK:
-  CLOCK: [2014-03-29 Sat 14:59]--[2014-03-29 Sat 15:06] =>  0:07
+  CLOCK: [2014-03-29 Sat 14:59]--[2014-03-31 Mon 10:13] => 43:14
   CLOCK: [2014-03-28 Fri 17:54]--[2014-03-28 Fri 18:02] =>  0:08
   CLOCK: [2014-03-28 Fri 15:10]--[2014-03-28 Fri 15:45] =>  0:35
   CLOCK: [2014-03-28 Fri 14:31]--[2014-03-28 Fri 15:02] =>  0:31
@@ -3167,6 +3167,7 @@ When I set up scoring the day:
 ** NEXT Daily Plan [0/7]
    SCHEDULED: <2014-03-30 Sun .+1d/2d>
    :LOGBOOK:
+   CLOCK: [2014-03-31 Mon 10:13]
    - State "DONE"       from "NEXT"       [2014-03-29 Sat 09:08]
    CLOCK: [2014-03-29 Sat 08:43]--[2014-03-29 Sat 09:08] =>  0:25
    - State "DONE"       from "NEXT"       [2014-03-28 Fri 15:10]
