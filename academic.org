@@ -2815,6 +2815,22 @@ I'd like to be able to use org-mode views to show papers/books by a given author
 - Cross ref mathscinet, arxiv
 - Get some Zenderblat refs?
 - Mirror hierarchy from refs.org in directory structure? 
+**** TODO Work out paper getting procedure
+  SCHEDULED: <2014-04-01 Tue>
+  :LOGBOOK:
+  CLOCK: [2014-02-11 Tue 12:54]--[2014-02-11 Tue 12:55] =>  0:01
+  :END:
+[2014-02-11 Tue 12:54]
+
+I want to grab a paper from the internet, possibly the bib entry as well and then store it somewhere to later enter into my org system. It should be quick and easy like capture tasks and then ideally I'd have some automated way of adding it to org.
+**** TODO Set up pdf metadata
+  SCHEDULED: <2014-04-07 Mon>
+[2014-02-24 Mon 11:21]
+
+http://askubuntu.com/questions/27381/how-to-edit-pdf-metadata-from-command-line
+**** TODO Make fix 0's in paper names
+[2014-03-08 Sat 14:54]
+sometimes the bib ref I have has MR<num> but the paper is saved as MR0<num> which means my links are broken
 *** DONE Create research projects with tasks
     - State "DONE"       from "NEXT"       [2012-12-03 Mon 16:56]
     :LOGBOOK:
@@ -2890,12 +2906,48 @@ I'd like to be able to use org-mode views to show papers/books by a given author
 - change vars $(x, t) \to (y(x,t), s(t))$ so that ancient solutions are similarity solns
 - Isoperimetric comparison with respect to Huisken's density (weighted Levy/Gromov perhaps?). How does this relate also to minimal surfaces?
 
+*** Paper preparation
 
+**** TODO Incorporate sage code into document creation
+  :LOGBOOK:
+  CLOCK: [2014-03-01 Sat 13:28]--[2014-03-01 Sat 13:29] =>  0:01
+  :END:
+[2014-03-01 Sat 13:28]
+<2014-04-07 Mon>
+Either by using literal blocks in org-mode or using sagetex I can produce images, animations and so forth in documents<2014-04-01 Tue>
+**** TODO Set up generic publishing
+  :LOGBOOK:
+  CLOCK: [2014-02-20 Thu 09:08]--[2014-02-20 Thu 09:09] =>  0:01
+  :END:
+[2014-02-20 Thu 09:08]
+- I should just be able to publish a project with only specifying the directory and how I want it published (pdf, html, attachments etc.) without writing a publishing file for every project. 
+<2014-04-01 Tue>
 *** Literature reviewing
     :LOGBOOK:
     CLOCK: [2012-12-18 Tue 11:10]--[2012-12-18 Tue 11:33] =>  0:23
     CLOCK: [2012-12-18 Tue 09:45]--[2012-12-18 Tue 10:27] =>  0:42
     :END:
+*** TODO Organise Research Projects
+**** TODO Set up/organise current research projects
+  :LOGBOOK:
+  CLOCK: [2014-03-21 Fri 13:10]--[2014-03-21 Fri 13:13] =>  0:03
+  :END:
+[2014-03-21 Fri 13:10]
+
+<2014-04-07 Mon>
+
+- Comparison theory for linearised MCF (see old research statement)
+- Support functions for hypersurfaces in Riemannian spaces - weak theory
+- semi-convexity of cut locus
+- support function in hyperbolic space and flows with Chen
+- dist comparison with Ben
+- dist comparison on the sphere
+- iso comp on surfaces
+- dist comp on surfaces
+- iso comp in Kahler m'folds
+- iso comp using Kleiner
+- conservation laws with Steve
+
 *** CANCELLED Schedule academic work so I actually do it!
     SCHEDULED: <2013-03-18 Mon>
     - State "CANCELLED"  from "TODO"       [2013-03-20 Wed 10:24] \\
@@ -3217,6 +3269,16 @@ http://mathoverflow.net/questions/14877/how-much-of-differential-geometry-can-be
   :ID:       bcad8d1d-61fa-4614-9662-8f264d9ae1e4
   :END:
 - Often these are given by the wedge of some form. Is there some way to characterise such morphisms?
+*** TODO Investigate linearised MC
+  SCHEDULED: <2014-04-07 Mon>
+  :LOGBOOK:
+  CLOCK: [2014-03-27 Thu 09:20]--[2014-03-27 Thu 09:22] =>  0:02
+  :END:
+[2014-03-27 Thu 09:20]
+
+
+- Wang? Use Heintze Reilly techniques
+- Do Carmo tells you all about $L^r H$
 ** Reading
    :PROPERTIES:
    :ID:       3b692ea2-10eb-4586-ae3e-2006ce6a3c0e

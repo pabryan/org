@@ -1002,6 +1002,21 @@ This is for browsing papers on the Archive and finding good ones to read/review,
 - Make exercise schedule 
 - Make work schedule
 - Make rec schedule
+*** TODO Create punch in/punch out procedures
+  :LOGBOOK:
+  CLOCK: [2014-02-07 Fri 09:38]--[2014-02-07 Fri 09:40] =>  0:02
+  :END:
+[2014-02-07 Fri 09:38]
+
+**** Punch In
+- Sync with repository
+- Check uncommitted work
+- Open agenda
+**** Punch Out
+- Save org files
+- Sync with repository
+- List any unsaved buffers
+- Check uncommitted work
 ** Notes
 * social media
   :PROPERTIES:
@@ -1173,17 +1188,18 @@ Key numbers: FR428, FR382.
   :ID:       2caac482-7221-4934-a479-25d3cbb12d55
   :END:
 ** TODO Tasks
-*** DONE Set up emacs server at work
-    SCHEDULED: <2013-09-09 Mon>
-    :LOGBOOK:
-    - State "DONE"       from "WAITING"    [2013-10-12 Sat 11:29]
-    - State "WAITING"    from "NEXT"       [2013-10-04 Fri 11:35] \\
-      Need to put launcher in VC first and then copy to work computer
-    :END:
-    :PROPERTIES:
-    :ID:       1e583864-f5a2-4b35-b097-f4de002fde11
-    :END:
-*** NEXT Research Backups for android devices			   :COMPUTER:
+*** TODO Unsorted
+**** DONE Set up emacs server at work
+     SCHEDULED: <2013-09-09 Mon>
+     :LOGBOOK:
+     - State "DONE"       from "WAITING"    [2013-10-12 Sat 11:29]
+     - State "WAITING"    from "NEXT"       [2013-10-04 Fri 11:35] \\
+       Need to put launcher in VC first and then copy to work computer
+     :END:
+     :PROPERTIES:
+     :ID:       1e583864-f5a2-4b35-b097-f4de002fde11
+     :END:
+**** NEXT Research Backups for android devices			   :COMPUTER:
 What do I need to backup? I try to keep data in the cloud. I guess saved games and whatnot would be good to keep. Also there is some config, at least a list of apps!
   CLOCK: [2012-10-24 Wed 12:27]--[2012-10-24 Wed 12:27] =>  0:00
    :PROPERTIES:
@@ -1191,7 +1207,7 @@ What do I need to backup? I try to keep data in the cloud. I guess saved games a
    :END:
 [2012-10-24 Wed 12:27]
 
-*** NEXT Pull everything but backups out of Ubuntu One		   :NOTEBOOK:
+**** NEXT Pull everything but backups out of Ubuntu One		   :NOTEBOOK:
    :LOGBOOK:
    :END:
   CLOCK: [2012-10-24 Wed 12:17]--[2012-10-24 Wed 12:17] =>  0:00
@@ -1200,14 +1216,14 @@ What do I need to backup? I try to keep data in the cloud. I guess saved games a
    :END:
 [2012-10-24 Wed 12:17]
 Copy the files to Dropbox instead
-*** NEXT Get notebook working files into dropbox		   :NOTEBOOK:
+**** NEXT Get notebook working files into dropbox		   :NOTEBOOK:
   CLOCK: [2012-10-24 Wed 12:18]--[2012-10-24 Wed 12:18] =>  0:00
    :PROPERTIES:
    :ID:       6a84db69-d1d3-4fc1-aefb-bb6f1daf4393
    :END:
 [2012-10-24 Wed 12:18]
 
-*** TODO Work out some way to keep up to date with people's scripts
+**** TODO Work out some way to keep up to date with people's scripts
 e.g. [[https://bitbucket.org/jaraco/jaraco.develop/src/819da4c3e702/jaraco/develop/bitbucket.py?at=default]]
   CLOCK: [2012-11-06 Tue 10:47]--[2012-11-06 Tue 10:48] =>  0:01
    :PROPERTIES:
@@ -1215,7 +1231,7 @@ e.g. [[https://bitbucket.org/jaraco/jaraco.develop/src/819da4c3e702/jaraco/devel
    :END:
 [2012-11-06 Tue 10:47]
 
-*** TODO Make email templates
+**** TODO Make email templates
 e.g. seminar announcement
   CLOCK: [2012-11-09 Fri 10:38]--[2012-11-09 Fri 10:39] =>  0:01
    :PROPERTIES:
@@ -1223,7 +1239,7 @@ e.g. seminar announcement
    :END:
 [2012-11-09 Fri 10:38]
 
-*** TODO Set up emacsclient
+**** TODO Set up emacsclient
   :LOGBOOK:
   :END:
   :PROPERTIES:
@@ -1231,7 +1247,7 @@ e.g. seminar announcement
   :END:
 [2012-11-20 Tue 10:23]
 
-*** TODO Set up GPG for email and password encryption
+**** TODO Set up GPG for email and password encryption
   :LOGBOOK:
   CLOCK: [2012-11-20 Tue 10:20]--[2012-11-20 Tue 10:21] =>  0:01
   :END:
@@ -1240,7 +1256,7 @@ e.g. seminar announcement
   :END:
 [2012-11-20 Tue 10:20]
 
-*** NEXT Track scripts on bitbucket, github
+**** NEXT Track scripts on bitbucket, github
 icvs2ledger, bitbucket-api
   :LOGBOOK:
   CLOCK: [2012-11-29 Thu 14:28]--[2012-11-29 Thu 14:29] =>  0:01
@@ -1249,7 +1265,7 @@ icvs2ledger, bitbucket-api
    :ID:       411d2c3a-7ec5-48b1-af72-4c08dbacc892
    :END:
 [2012-11-29 Thu 14:28]
-*** TODO Clean up maths.anu files
+**** TODO Clean up maths.anu files
   :LOGBOOK:
   :END:
    :PROPERTIES:
@@ -1257,7 +1273,7 @@ icvs2ledger, bitbucket-api
    :END:
 [2012-11-29 Thu 14:47]
 
-*** DONE Write script to list uncommitted work
+**** DONE Write script to list uncommitted work
    - State "DONE"       from "NEXT"       [2013-02-05 Tue 13:20]
   :LOGBOOK:
   CLOCK: [2012-11-30 Fri 10:52]--[2012-11-30 Fri 10:53] =>  0:01
@@ -1267,7 +1283,7 @@ icvs2ledger, bitbucket-api
    :END:
 [2012-11-30 Fri 10:52]
 This should go through the ~/working directory and output all repositories where hg incoming, outgoing or st gives a result
-*** TODO Incorporate my mutable stuff into new Dropbox/bitbucket setup
+**** TODO Incorporate my mutable stuff into new Dropbox/bitbucket setup
   :LOGBOOK:
   CLOCK: [2012-12-13 Thu 11:37]--[2012-12-13 Thu 11:38] =>  0:01
   :END:
@@ -1276,7 +1292,7 @@ This should go through the ~/working directory and output all repositories where
    :END:
 [2012-12-13 Thu 11:37]
 Files go into Dropbox and versioned controlled hosted on bitbucket
-*** TODO Set up build scripts so I don't pollute working copies
+**** TODO Set up build scripts so I don't pollute working copies
   :LOGBOOK:
   CLOCK: [2012-12-17 Mon 14:13]--[2012-12-17 Mon 14:14] =>  0:01
   :END:
@@ -1285,11 +1301,11 @@ Files go into Dropbox and versioned controlled hosted on bitbucket
    :END:
 [2012-12-17 Mon 14:13]
 
-*** TODO Configure emacs for email
-    :PROPERTIES:
-    :ID:       59fb7afd-3134-4ef9-80d6-391b05284663
-    :END:
-**** NEXT Set up offlineimap
+**** TODO Configure emacs for email
+     :PROPERTIES:
+     :ID:       59fb7afd-3134-4ef9-80d6-391b05284663
+     :END:
+***** NEXT Set up offlineimap
     SCHEDULED: <2014-04-01 Wed>
     :PROPERTIES:
     :ID:       8e34b366-070d-4735-bad1-9c8fba262783
@@ -1304,7 +1320,7 @@ See:
 [[http://yet-another-problem.blogspot.com/2012/02/gmail-offlineimap-mutt-msmtp.html]]
 http://pbrisbin.com/posts/mutt_gmail_offlineimap/
 
-***** offlineimap configuration ~/.offlineimaprc
+****** offlineimap configuration ~/.offlineimaprc
 [general]
 accounts = GMail
 maxsyncaccounts = 3
@@ -1328,7 +1344,7 @@ realdelete = no
 #                          else re.sub(r'^', r'gmail.', folder)
 
 
-***** muttrc
+****** muttrc
 set mbox_type   = Maildir
 set sendmail    = /usr/bin/msmtp
 
@@ -1385,14 +1401,14 @@ ignore *                               # first, ignore all headers
 unignore from: to: cc: date: subject:  # then, show only these
 hdr_order from: to: cc: date: subject: # and in this order
 
-**** TODO Store passwords in keyring
+***** TODO Store passwords in keyring
     :PROPERTIES:
     :ID:       fc03edb7-f209-45db-8414-c0b249b02351
     :END:
 [[http://pypi.python.org/pypi/keyring][http://pypi.python.org/pypi/keyring]]
 [[http://www.emacswiki.org/emacs/OfflineIMAP][http://www.emacswiki.org/emacs/OfflineIMAP]]
 
-**** TODO Choose emacs email reading/writing method
+***** TODO Choose emacs email reading/writing method
     :PROPERTIES:
     :ID:       4bc3c470-a7ec-4a15-a78f-3e0e03f33ad6
     :END:
@@ -1401,17 +1417,17 @@ hdr_order from: to: cc: date: subject: # and in this order
 Does mutt integrate well?
 [[http://www.emacswiki.org/emacs/MuttInEmacs][http://www.emacswiki.org/emacs/MuttInEmacs]]
 
-**** NEXT Integrate org-mode and mutt
+***** NEXT Integrate org-mode and mutt
 http://upsilon.cc/~zack/blog/posts/2010/02/integrating_Mutt_with_Org-mode/
 
-*** TODO Move photos out of Ubuntu One
+**** TODO Move photos out of Ubuntu One
   :LOGBOOK:
   :END:
    :PROPERTIES:
    :ID:       2370bd55-ac41-4cc0-8f8e-f7a533ad5471
    :END:
 [2013-01-25 Fri 12:52]
-*** TODO Check out freeMcAfee for Uverse
+**** TODO Check out freeMcAfee for Uverse
   :LOGBOOK:
   :END:
    :PROPERTIES:
@@ -1420,7 +1436,7 @@ http://upsilon.cc/~zack/blog/posts/2010/02/integrating_Mutt_with_Org-mode/
 [2013-02-08 Fri 08:29]
 
 [[http://e.att-mail.com/a/hBRE8F1B8bmv9B8woKaADAaWc$s/getitnow]]
-*** TODO Fix up work TeX setup
+**** TODO Fix up work TeX setup
   :LOGBOOK:
   CLOCK: [2013-02-15 Fri 10:34]--[2013-02-15 Fri 10:35] =>  0:01
   :END:
@@ -1429,7 +1445,7 @@ http://upsilon.cc/~zack/blog/posts/2010/02/integrating_Mutt_with_Org-mode/
    :END:
 [2013-02-15 Fri 10:34]
 I need to have my macros available.
-*** DONE Update work computer
+**** DONE Update work computer
    DEADLINE: <2013-04-04 Thu> SCHEDULED: <2013-04-03 Wed>
    - State "DONE"       from "TODO"       [2013-04-09 Tue 10:09]
    :LOGBOOK:
@@ -1440,7 +1456,7 @@ I need to have my macros available.
    :END:
 [2013-04-01 Mon 17:00]
 
-*** TODO Set up latex image export
+**** TODO Set up latex image export
   :LOGBOOK:
   CLOCK: [2013-04-08 Mon 11:10]--[2013-04-08 Mon 11:15] =>  0:05
   :END:
@@ -1453,16 +1469,16 @@ http://tex.stackexchange.com/questions/34054/tex-to-image-over-command-line/3405
 http://www.fourmilab.ch/webtools/textogif/
 http://www.nought.de/tex2im.php
 
-*** Raspberry Pi
+**** Raspberry Pi
 http://www.raspberrypi.org/
 http://www.raspbian.org/
-*** NEXT Move common .ssh config to sepereate directory
+**** NEXT Move common .ssh config to sepereate directory
   :PROPERTIES:
   :ID:       46aead9b-1872-45b9-956e-974763730beb
   :END:
 [2013-04-23 Tue 08:55]
 Put my common setup in it's own config and include from the .sss/config file. This way I can have a local version on math131 that operates whether or not the Dropbox folder is accessible.
-*** NEXT VPN Auto connect
+**** NEXT VPN Auto connect
   :LOGBOOK:
   :END:
    :PROPERTIES:
@@ -1474,7 +1490,7 @@ http://askubuntu.com/questions/43465/how-to-automatically-connect-to-vpn-with-ne
 https://wiki.archlinux.org/index.php/NetworkManager#Use_dispatcher_to_connect_to_a_vpn_after_a_network-connection_is_established
 http://askubuntu.com/questions/198136/error-when-trying-to-connect-to-vpn-on-startup
 
-*** TODO Clean up files
+**** TODO Clean up files
    SCHEDULED: <2014-04-01 Tue>
   :LOGBOOK:
   CLOCK: [2013-07-30 Tue 19:49]--[2013-07-30 Tue 19:53] =>  0:04
@@ -1486,7 +1502,7 @@ http://askubuntu.com/questions/198136/error-when-trying-to-connect-to-vpn-on-sta
 - mutable
 - oldpaul
 - uni 
-*** TODO organise external working
+**** TODO organise external working
   SCHEDULED: <2014-04-01 Tue>
   :LOGBOOK:
   CLOCK: [2013-08-06 Tue 21:01]--[2013-08-06 Tue 21:05] =>  0:04
@@ -1503,7 +1519,7 @@ http://askubuntu.com/questions/198136/error-when-trying-to-connect-to-vpn-on-sta
 - check uncomitted uses repo list
 
 
-*** DONE set up vc_auto_commit cron job and working scan cron job
+**** DONE set up vc_auto_commit cron job and working scan cron job
   SCHEDULED: <2013-08-12 Mon>
   :LOGBOOK:
   - State "DONE"       from "NEXT"       [2013-09-25 Wed 13:05]
@@ -1513,7 +1529,7 @@ http://askubuntu.com/questions/198136/error-when-trying-to-connect-to-vpn-on-sta
   :ID:       c2b2de1a-d9d3-4737-931f-605e2bd32978
   :END:
 [2013-08-06 Tue 21:05]
-*** DONE Make own working branch for external repositories
+**** DONE Make own working branch for external repositories
   SCHEDULED: <2013-09-08 Sun>
   :LOGBOOK:
   - State "DONE"       from "TODO"       [2013-09-13 Fri 09:51]
@@ -1524,7 +1540,7 @@ http://askubuntu.com/questions/198136/error-when-trying-to-connect-to-vpn-on-sta
   :END:
 [2013-08-06 Tue 21:05]
 this way I can track upstream and keep my work independent and then merge, push to upstream etc. as appropriate
-*** TODO Make a list of required software
+**** TODO Make a list of required software
   SCHEDULED: <2014-04-01 Tue>
   :LOGBOOK:
   CLOCK: [2013-08-09 Fri 09:20]--[2013-08-09 Fri 09:22] =>  0:02
@@ -1537,7 +1553,7 @@ this way I can track upstream and keep my work independent and then merge, push 
 - org-mode is important and obvious. It looks like org works even without this package installed, so I probably should have it in the list to avoid confusion.
 - jekyll, ruby, rubygems
 - hg-autosync
-*** CANCELLED Check VPN certificate
+**** CANCELLED Check VPN certificate
   SCHEDULED: <2013-08-21 Wed>
   :LOGBOOK:
   - State "CANCELLED"  from "TODO"       [2013-09-16 Mon 10:00] \\
@@ -1548,7 +1564,7 @@ this way I can track upstream and keep my work independent and then merge, push 
    :END:
 [2013-08-20 Tue 11:37]
 
-*** DONE Flyspell
+**** DONE Flyspell
   SCHEDULED: <2013-09-09 Mon>
   :LOGBOOK:
   - State "DONE"       from "TODO"       [2013-09-27 Fri 18:36]
@@ -1558,7 +1574,7 @@ this way I can track upstream and keep my work independent and then merge, push 
   :END:
 [2013-08-21 Wed 20:35]
 
-*** DONE Set up sshfs with autofs
+**** DONE Set up sshfs with autofs
   SCHEDULED: <2013-09-29 Sun>
   :LOGBOOK:
   - State "DONE"       from "TODO"       [2013-09-29 Sun 20:24]
@@ -1570,7 +1586,7 @@ this way I can track upstream and keep my work independent and then merge, push 
 [2013-08-27 Tue 18:10]
 https://wiki.archlinux.org/index.php/Autofs#Remote_SSH
 https://github.com/hellekin/autosshfs
-*** DONE Set up screen X setting
+**** DONE Set up screen X setting
   SCHEDULED: <2013-09-29 Sun>
   :LOGBOOK:
   - State "DONE"       from "TODO"       [2013-09-29 Sun 20:25]
@@ -1580,7 +1596,7 @@ https://github.com/hellekin/autosshfs
   :END:
 [2013-08-27 Tue 18:11] 
 I have some scripts for capturing the X settings and then a script for loading these in the screen session.
-*** DONE Stop various unused daemons
+**** DONE Stop various unused daemons
   SCHEDULED: <2013-09-29 Sun>
   :LOGBOOK:
   - State "DONE"       from "TODO"       [2013-09-29 Sun 20:06]
@@ -1590,7 +1606,7 @@ I have some scripts for capturing the X settings and then a script for loading t
   :END:
 [2013-09-02 Mon 21:12]
 I have mythtv and mediatomb and who knows what else using up valuable resources.
-*** DONE Write project clone script
+**** DONE Write project clone script
   DEADLINE: <2014-01-31 Fri>
   :LOGBOOK:
   - State "DONE"       from "NEXT"       [2014-01-29 Wed 11:15]
@@ -1599,6 +1615,41 @@ I have mythtv and mediatomb and who knows what else using up valuable resources.
 [2014-01-28 Tue 15:43]
 
 Should run hg clone ssh://hg@bitbucket.org/pabryan/<proj>
+*** TODO Working
+**** TODO Wrapper for scripts using ssh-agent
+  :LOGBOOK:
+  CLOCK: [2014-03-28 Fri 18:04]--[2014-03-28 Fri 18:05] =>  0:01
+  :END:
+[2014-03-28 Fri 18:04]
+<2014-04-07 Mon>
+I should update the session before running vc_autocommit.sh and check_uncommited.sh. It would also be nice if the latter didn't force me to hit ctrl-c for every single repository.<2014-03-28 Fri>
+**** TODO autmount sshfs
+  :LOGBOOK:
+  CLOCK: [2014-02-27 Thu 15:52]--[2014-02-27 Thu 15:53] =>  0:01
+  :END:
+[2014-02-27 Thu 15:52]
+[[file:~/org/ucsd.org::*Midterm%202][Midterm 2]]
+
+https://github.com/pcarrier/afuse
+https://wiki.archlinux.org/index.php/sshfs#Automounting
+https://github.com/hellekin/autosshfs
+http://ubuntuforums.org/showthread.php?t=430312
+
+**** TODO use emacs to do vc stuff
+  SCHEDULED: <2014-04-01 Wed>
+[2014-02-28 Fri 11:45]
+**** TODO Check out patch-commit
+  <2014-04-06 Sun>
+[2014-03-15 Sat 22:38]
+
+http://porkrind.org/commit-patch/
+**** TODO Auto sync working
+  :LOGBOOK:
+  CLOCK: [2014-03-18 Tue 17:42]--[2014-03-18 Tue 17:43] =>  0:01
+  :END:
+[2014-03-18 Tue 17:42]
+- I want check_uncommitted to also sync local/remote repositories without committing anything.<2014-04-07 Mon>
+- May need to hack on the code and issue a pull request
 ** Software
 *** org-mode
 *** jekyll
@@ -3694,10 +3745,10 @@ When I set up scoring the day:
 - [ ] Do short tasks
 - [ ] Record morning health stats
 
-** NEXT Weekly Review [8/18]
+** NEXT Weekly Review [8/19]
    SCHEDULED: <2013-12-01 Sun +1w>
    :LOGBOOK:
-   CLOCK: [2014-03-31 Mon 11:58]
+   CLOCK: [2014-03-31 Mon 11:58]--[2014-03-31 Mon 13:23] =>  1:25
    CLOCK: [2014-03-31 Mon 10:24]--[2014-03-31 Mon 10:27] =>  0:03
    CLOCK: [2014-01-28 Tue 17:10]--[2014-01-28 Tue 17:48] =>  0:38
    CLOCK: [2013-12-12 Thu 13:01]--[2013-12-12 Thu 13:19] =>  0:18
@@ -3818,9 +3869,9 @@ What to review:
 - [X] Look at entire agenda for today  =F12 SPC=
 - [X] Check un-committed work
 - [ ] Refile tasks
-- [ ] Weekly clean up
-  - [ ] Clean up Downloads
-  - [ ] Clean up tmp
+- [-] Weekly clean up
+  - [X] Clean up Downloads
+  - [X] Clean up tmp
   - [ ] Clean up tablet
   - [ ] Clean up phone
 - [ ] Process incoming information
