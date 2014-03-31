@@ -1653,7 +1653,7 @@ yajl-ruby (1.1.0)
   :LOGBOOK:
   CLOCK: [2014-03-31 Mon 10:27]--[2014-03-31 Mon 10:55] =>  0:28
   CLOCK: [2014-03-31 Mon 10:23]--[2014-03-31 Mon 10:24] =>  0:01
-  CLOCK: [2014-03-29 Sat 14:59]--[2014-03-31 Mon 10:13] => 43:14
+  CLOCK: [2014-03-29 Sat 14:59]--[2014-03-29 Sat 15:06] =>  0:07
   CLOCK: [2014-03-28 Fri 17:54]--[2014-03-28 Fri 18:02] =>  0:08
   CLOCK: [2014-03-28 Fri 15:10]--[2014-03-28 Fri 15:45] =>  0:35
   CLOCK: [2014-03-28 Fri 14:31]--[2014-03-28 Fri 15:02] =>  0:31
@@ -1662,7 +1662,6 @@ yajl-ruby (1.1.0)
   CLOCK: [2014-03-26 Wed 12:18]--[2014-03-26 Wed 12:19] =>  0:01
   CLOCK: [2014-03-26 Wed 11:16]--[2014-03-26 Wed 11:20] =>  0:04
   CLOCK: [2014-03-26 Wed 11:08]--[2014-03-26 Wed 11:14] =>  0:06
-  CLOCK: [2014-03-26 Wed 11:05]--[2014-03-26 Wed 11:07] =>  0:02
   CLOCK: [2014-03-21 Fri 12:37]--[2014-03-21 Fri 12:54] =>  0:17
   CLOCK: [2014-03-21 Fri 10:56]--[2014-03-21 Fri 11:14] =>  0:18
   CLOCK: [2014-03-20 Thu 19:18]--[2014-03-20 Thu 19:19] =>  0:01
@@ -3153,10 +3152,10 @@ What to review:
 
 - [ ] Review tasks list for the day and compare with clock table, effort estimates.
 - [ ] Anything outstanding?
-- [ ] Copy from notebook/ideas.
 - [ ] Check tomorrow's agenda
-- [ ] Write blog/diary
 - [ ] Clean up tasks/habits
+- [ ] Copy from notebook/ideas.
+- [ ] Write blog/diary
 - [ ] Water plants
 - [ ] Turn off power points
 
@@ -3695,7 +3694,7 @@ When I set up scoring the day:
 - [ ] Do short tasks
 - [ ] Record morning health stats
 
-** NEXT Weekly Review [3/18]
+** NEXT Weekly Review [4/18]
    SCHEDULED: <2013-12-01 Sun +1w>
    :LOGBOOK:
    CLOCK: [2014-03-31 Mon 11:58]
@@ -3812,7 +3811,7 @@ What to review:
 - [X] Check holding directory
   [[file:~/holding]]
 - [X] Check holding email folder
-- [ ] Review weekly agenda =F12 a w//=
+- [X] Review weekly agenda =F12 a w//=
 - [ ] Check clocking data for past week =v c=
   - fix up any errors
 - [ ] Review clock report for past week =R=

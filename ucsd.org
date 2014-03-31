@@ -7635,7 +7635,6 @@ Lectures in calendar and tasks like planning lectures.
 	:LOGBOOK:
 	- State "TODO"       from "DONE"       [2014-03-26 Wed 11:13]
 	- State "DONE"       from "TODO"       [2014-03-26 Wed 11:08]
-	CLOCK: [2014-03-26 Wed 11:07]--[2014-03-26 Wed 11:08] =>  0:01
 	:END:
 	:PROPERTIES:
 	:ID:       5bb2241a-e8cd-4ce7-aaae-f8dbf8d9788f

@@ -1,33 +1,4 @@
 #+FILETAGS: REFILE
-* TODO Study tubular map
-  :LOGBOOK:
-  CLOCK: [2013-12-10 Tue 07:36]--[2013-12-10 Tue 07:37] =>  0:01
-  :END:
-  :PROPERTIES:
-  :ID:       251ca587-000d-45ea-97d6-9d72bc19586f
-  :END:
-[2014-03-10 Mon 07:36]
-- This is the map along the normal direction to a hypersurface. The cut point is where the map hits another point on the surface.
-- How does this relate to cohomology of the normal bundle, the Poincare dual, and the Thom isomorphism. How does this cohomology evolve?
-* TODO Non-collapsing in manifolds
-  :LOGBOOK:
-  CLOCK: [2013-12-10 Tue 07:37]--[2013-12-10 Tue 07:40] =>  0:03
-  :END:
-  :PROPERTIES:
-  :ID:       cb506bf4-f2d9-4082-95fd-b717e75047d3
-  :END:
-[2014-03-10 Mon 07:37]
-Given $M\subset N$ a cooriented hypersurface with normal vector $\nor$, define the cooriented (oriented?) curvature tangent ball at $p$ to be the largest ball tangent to $M$ with center in the direction $\nor$. Now do variations to find a viscosity equation for the curvature.
-* TODO Register Devon on club penguin
-  :PROPERTIES:
-  :ID:       b09d53be-dfb5-4aa0-b4dc-c4b9de5fdff0
-  :END:
-[2013-12-13 Fri 21:21]
-* TODO Investigate morhpisms of forms
-  :PROPERTIES:
-  :ID:       bcad8d1d-61fa-4614-9662-8f264d9ae1e4
-  :END:
-- Often these are given by the wedge of some form. Is there some way to characterize such morphisms?
 * TODO Archive things
   :PROPERTIES:
   :ID:       a1611ad9-0546-41d7-a584-9edb3ef77445
@@ -60,19 +31,6 @@ Should create typing tasks from scribbles and schedule them
   :END:
 [2014-01-06 Mon 17:12]
 [2] p. vi Sharpe, Diff. Geo.
-* DONE Add TA's to Ted
-  DEADLINE: <2014-01-22 Wed>
-  :LOGBOOK:
-  - State "DONE"       from "NEXT"       [2014-01-22 Wed 15:48]
-  CLOCK: [2014-01-22 Wed 15:39]--[2014-01-22 Wed 15:48] =>  0:09
-  CLOCK: [2014-01-22 Wed 14:10]--[2014-01-22 Wed 14:11] =>  0:01
-  :END:
-[2014-01-22 Wed 14:10]
-* TODO Add personal ispell dict to version control
-  :LOGBOOK:
-  CLOCK: [2014-01-28 Tue 11:09]--[2014-01-28 Tue 11:10] =>  0:01
-  :END:
-[2014-01-28 Tue 11:09]
 * TODO Change exercise, mobility, relax tasks
   :LOGBOOK:
   CLOCK: [2014-01-29 Wed 11:06]--[2014-01-29 Wed 11:07] =>  0:01
@@ -83,9 +41,6 @@ Should create typing tasks from scribbles and schedule them
 - Mobility
 - Relaxation
 - Compensation
-* TODO Investigate oscillation estimates and geometry
-[2014-01-31 Fri 17:43]
-<2014-04-13 Sun>
 * TODO Create punch in/punch out procedures
   :LOGBOOK:
   CLOCK: [2014-02-07 Fri 09:38]--[2014-02-07 Fri 09:40] =>  0:02
@@ -124,13 +79,6 @@ I need to be able to focus on the right tasks which means not seeing all possibl
   - Pretty much what I have now (maybe I don't need tasks listed)
 - Personal agenda view
   - Non-work stuff
-* DONE CSF Notes
-  DEADLINE: <2014-02-10 Mon>
-  :LOGBOOK:
-  - State "DONE"       from "TODO"       [2014-02-10 Mon 20:41]
-  :END:
-[2014-02-10 Mon 15:06]
-Send max principle arg for dist comp to students
 * TODO Make print/mobile versions of website
   SCHEDULED: <2014-03-31 Mon>
 [2014-02-10 Mon 15:09]
@@ -145,23 +93,8 @@ How do I choose which course?
 [2014-02-11 Tue 12:54]
 
 I want to grab a paper from the internet, possibly the bib entry as well and then store it somewhere to later enter into my org system. It should be quick and easy like capture tasks and then ideally I'd have some automated way of adding it to org.
-* TODO Get curios for office
-  :LOGBOOK:
-  CLOCK: [2014-02-11 Tue 16:37]--[2014-02-11 Tue 16:38] =>  0:01
-  :END:
-[2014-02-11 Tue 16:37]
-- Math posters
-- Klein bottles
-- math gadgets (planimeter?)
-- music for office
 * TODO Archive old working projects
 [2014-02-13 Thu 09:20]
-* DONE Follow up Jason's Euler account
-  DEADLINE: <2014-02-19 Wed>
-  :LOGBOOK:
-  - State "DONE"       from "TODO"       [2014-02-18 Tue 23:26]
-  :END:
-[2014-02-18 Tue 17:47]
 * TODO Set up generic publishing
   :LOGBOOK:
   CLOCK: [2014-02-20 Thu 09:08]--[2014-02-20 Thu 09:09] =>  0:01
@@ -194,25 +127,9 @@ https://wiki.archlinux.org/index.php/sshfs#Automounting
 https://github.com/hellekin/autosshfs
 http://ubuntuforums.org/showthread.php?t=430312
 
-* DONE Put polar coord animations on Piazza
-  DEADLINE: <2014-02-28 Fri>
-  :LOGBOOK:
-  - State "DONE"       from "NEXT"       [2014-03-01 Sat 13:37]
-  CLOCK: [2014-03-01 Sat 13:29]--[2014-03-01 Sat 13:37] =>  0:08
-  CLOCK: [2014-03-01 Sat 13:22]--[2014-03-01 Sat 13:28] =>  0:06
-  CLOCK: [2014-02-28 Fri 11:44]--[2014-02-28 Fri 11:45] =>  0:01
-  :END:
-[2014-02-28 Fri 11:44]
 * TODO use emacs to do vc stuff
   SCHEDULED: <2014-04-01 Wed>
 [2014-02-28 Fri 11:45]
-* DONE Make comment on limit test and convergence on Piazza
-  DEADLINE: <2014-02-28 Fri>
-  :LOGBOOK:
-  - State "DONE"       from "TODO"       [2014-03-01 Sat 13:37]
-  :END:
-[2014-02-28 Fri 17:14]
-[[file:~/org/ucsd.org::*Lecture%208.3][Lecture 8.3]]
 * TODO Incorporate sage code into document creation
   :LOGBOOK:
   CLOCK: [2014-03-01 Sat 13:28]--[2014-03-01 Sat 13:29] =>  0:01
@@ -220,13 +137,6 @@ http://ubuntuforums.org/showthread.php?t=430312
 [2014-03-01 Sat 13:28]
 
 Either by using literal blocks in org-mode or using sagetex I can produce images, animations and so forth in documents<2014-04-01 Tue>
-* DONE Add geodesic ball asymptotics to talk
-  DEADLINE: <2014-03-04 Tue>
-  :LOGBOOK:
-  - State "DONE"       from "TODO"       [2014-03-04 Tue 10:45]
-  CLOCK: [2014-03-03 Mon 23:03]--[2014-03-03 Mon 23:04] =>  0:01
-  :END:
-[2014-03-03 Mon 23:03]
 * TODO Investigate scirate
   SCHEDULED: <2014-04-01 Tue>
 [2014-03-05 Wed 13:27]
@@ -252,35 +162,9 @@ https://thinktankmaths.com/join/mathematicians/
 [2014-03-10 Mon 10:48]
 
 <2014-07-01 Tue>Richard Montgomery <rmont@ucsc.edu>, David Hoffman <hoffman@math.stanford.edu>, Jie Qing <qing@ucsc.edu>
-* TODO Contact International center about tax
-[2014-03-10 Mon 18:37]
-* DONE Contact international center about tax
-  DEADLINE: <2014-03-14 Fri>
-  :LOGBOOK:
-  - State "DONE"       from "WAITING"    [2014-03-12 Wed 13:55]
-  - State "WAITING"    from "TODO"       [2014-03-10 Mon 18:37] \\
-    Waiting on response.
-  CLOCK: [2014-03-10 Mon 18:37]--[2014-03-10 Mon 18:38] =>  0:01
-  :END:
-[2014-03-10 Mon 18:37]
-* DONE set up ssh-server on work computer
-  DEADLINE: <2014-03-12 Wed>
-  :LOGBOOK:
-  - State "DONE"       from "TODO"       [2014-03-12 Wed 13:50]
-  :END:
-[2014-03-11 Tue 20:14]
 * TODO Check out chromecast
 [2014-03-14 Fri 11:31]
 <2014-04-01 Tue>
-* DONE Sat exam appears wrong in triton link calendar
-  DEADLINE: <2014-03-17 Mon>
-  :LOGBOOK:
-  - State "DONE"       from "TODO"       [2014-03-15 Sat 22:44]
-  CLOCK: [2014-03-14 Fri 15:44]--[2014-03-14 Fri 15:45] =>  0:01
-  :END:
-[2014-03-14 Fri 15:44]
-
-It looks like its at the end of the exam week, but its at the beginning.
 * TODO Check out patch-commit
   <2014-04-01 Tue>
 [2014-03-15 Sat 22:38]
@@ -308,10 +192,6 @@ I think I need some sort of filter for this.
 
 <2014-04-07 Mon>
 Things are getting a little out of hand. I think I should break up configuration based on relevance: latex, agenda, etc.
-
-* TODO Organise UCSC trip
-  DEADLINE: <2014-04-05 Sat>
-[2014-03-19 Wed 10:33]
 
 * TODO Write research project summaries/proposals
   DEADLINE: <2014-04-25 Fri>
@@ -341,7 +221,6 @@ I want to have descriptions of my various research projects with clear aims, a s
 - iso comp using Kleiner
 - conservation laws with Steve
 
-
 * TODO check out jobs
   :LOGBOOK:
   CLOCK: [2014-03-22 Sat 12:14]--[2014-03-22 Sat 12:15] =>  0:01
@@ -359,14 +238,6 @@ http://careers.stackoverflow.com/
 
 - Wang? Use Heintze Reilly techniques
 - Do Carmo tells you all about $L^r H$
-* TODO Ricci and Kleiner
-  :LOGBOOK:
-  CLOCK: [2014-03-27 Thu 09:22]--[2014-03-27 Thu 09:23] =>  0:01
-  :END:
-[2014-03-27 Thu 09:22]
-Adapt Kleiner's iso proof to Ricci flow
-SCHEDULED: <2014-03-31 Mon>
-
 * TODO Wrapper for scripts using ssh-agent
   :LOGBOOK:
   CLOCK: [2014-03-28 Fri 18:04]--[2014-03-28 Fri 18:05] =>  0:01
