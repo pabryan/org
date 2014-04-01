@@ -42,6 +42,15 @@ Make a project that includes
    :END:
 [2013-03-30 Sat 21:39]
 Publish to a different directory so I don't pollute my hg directory.
+**** TODO Create publishing function for journal submission
+  SCHEDULED: <2014-04-07 Mon>
+  :LOGBOOK:
+  CLOCK: [2014-03-18 Tue 17:41]--[2014-03-18 Tue 17:42] =>  0:01
+  :END:
+[2014-03-18 Tue 17:41]
+I want to export for journals, including data such as email, classification etc.
+I think I need some sort of filter for this.
+<2014-04-07 Mon>
 *** Cleaning up
 **** NEXT Sort org-mode tasks list
   :LOGBOOK:
@@ -103,49 +112,49 @@ Add goals to agenda to remind myself each day. E.g. work, diet, exercise, genera
 want to hit a key so that only work tasks are shown or only personal/family tasks are shown
 - org-agenda-tag-filter: stores the filters
 - org-agenda-filter-by-tag: command to create filters
-*** Task list to sort 						    :SOMEDAY:
-***** TODO Set up TAGS
+*** Task list to sort						    :SOMEDAY:
+****** TODO Set up TAGS
      :PROPERTIES:
      :ID:       f5f169cb-fc4b-4869-806a-26e21a16eb58
      :END:
 I really need these to access my information.
-***** NEXT Punch In/Out
+****** NEXT Punch In/Out
    :PROPERTIES:
    :ID:       e40f5241-3a84-496d-97f5-43fa7f5e2cd9
    :END:
 This should sync with bitbucket, sync with mobile org and check the status of working projects.
-***** NEXT Set up level 1 headings (with properties)		   :COMPUTER:
-      :PROPERTIES:
-      :ID:       5196f0ca-ccb1-4fcc-b483-20f3f835838d
-      :END:
-***** TODO Set up contexts					    :SOMEDAY:
-      :PROPERTIES:
-      :ID:       b44f91a4-abd0-459c-bfe9-c103641be8dd
-      :END:
-****** NEXT Create contexts
+****** NEXT Set up level 1 headings (with properties)		   :COMPUTER:
+       :PROPERTIES:
+       :ID:       5196f0ca-ccb1-4fcc-b483-20f3f835838d
+       :END:
+****** TODO Set up contexts					    :SOMEDAY:
+       :PROPERTIES:
+       :ID:       b44f91a4-abd0-459c-bfe9-c103641be8dd
+       :END:
+******* NEXT Create contexts
     :PROPERTIES:
     :ID:       40f05fb2-aa64-4d0b-a747-3c4b66d2ec93
     :END:
 home, computer, office, anywhere, notebook, tablet, phone, errand
-****** SOMEDAY Set up context tags for headings when appropriate
+******* SOMEDAY Set up context tags for headings when appropriate
     :PROPERTIES:
     :ID:       9e0b76ca-c5e7-4bd5-bcb4-12f4995eceed
     :END:
 e.g. for personal errands I have an errands heading which should have
 the errand tag attached to it and hence any child
-***** DONE Setup mercurial sync and fetch			   :COMPUTER:
+****** DONE Setup mercurial sync and fetch			   :COMPUTER:
    - State "DONE"       from "TODO"       [2012-11-30 Fri 13:43]
   CLOCK: [2012-10-18 Thu 10:59]--[2012-10-18 Thu 10:59] =>  0:00
    :PROPERTIES:
    :ID:       70331fca-6e60-44e7-9069-19e2808a45f5
    :END:
 [2012-10-18 Thu 10:59]
-****** DONE research mercurial sync
-       - State "DONE"       from "SOMEDAY"    [2012-11-30 Fri 13:43]
-       :PROPERTIES:
-       :ID:       8f7d4e32-982c-4f0a-9cd0-d267c269b172
-       :END:
-***** NEXT Get agenda filtering elisp functions into my org setup  :COMPUTER:
+******* DONE research mercurial sync
+       	- State "DONE"       from "SOMEDAY"    [2012-11-30 Fri 13:43]
+       	:PROPERTIES:
+       	:ID:       8f7d4e32-982c-4f0a-9cd0-d267c269b172
+       	:END:
+****** NEXT Get agenda filtering elisp functions into my org setup :COMPUTER:
 See [[http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=9&cad=rja&ved=0CEkQFjAI&url=http%3A%2F%2Fdoc.norang.ca%2Forg-mode.html&ei=VmGAUOnkOaTliQLw0ICICQ&usg=AFQjCNHQ1HdTsHALFTFCzKA3VWXmqPg2qA][org-mode tutorial]]
 scheduled todos should not appear in the general list
   CLOCK: [2012-10-18 Thu 13:04]--[2012-10-18 Thu 13:07] =>  0:03
@@ -154,7 +163,7 @@ scheduled todos should not appear in the general list
    :END:
 [2012-10-18 Thu 13:04]
 
-***** DONE Set up clocking					   :COMPUTER:
+****** DONE Set up clocking					   :COMPUTER:
    - State "DONE"       from "NEXT"       [2012-12-07 Fri 10:45]
   CLOCK: [2012-10-18 Thu 13:07]--[2012-10-18 Thu 13:08] =>  0:01
    :PROPERTIES:
@@ -162,7 +171,7 @@ scheduled todos should not appear in the general list
    :END:
   [2012-10-18 Thu 13:07]
 See [[http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=9&cad=rja&ved=0CEkQFjAI&url=http%3A%2F%2Fdoc.norang.ca%2Forg-mode.html&ei=VmGAUOnkOaTliQLw0ICICQ&usg=AFQjCNHQ1HdTsHALFTFCzKA3VWXmqPg2qA][org-mode tutorial]]
-***** DONE Set up syncing org-mode and mobile org
+****** DONE Set up syncing org-mode and mobile org
    - State "DONE"       from "NEXT"       [2012-12-07 Fri 10:45]
   CLOCK: [2012-10-21 Sun 17:26]--[2012-10-21 Sun 17:26] =>  0:00
    :PROPERTIES:
@@ -170,7 +179,7 @@ See [[http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=9&cad=rja&ved
    :END:
 [2012-10-21 Sun 17:26]
 [[https://github.com/matburt/mobileorg-android/wiki/FAQ][syncing instructions]]
-***** DONE Configure tasks for later				   :COMPUTER:
+****** DONE Configure tasks for later				   :COMPUTER:
    - State "DONE"       from "TODO"       [2012-10-26 Fri 15:18]
 I want to be able to schedule a task for later, say after a given date
 such as the 1st of the month when I get paid and not have to see it until then.
@@ -178,50 +187,50 @@ The down side is that if I filter scheduled tasks then after the day these
 won't appear in general tasks but as scheduled tasks. I need some way to
 mark them as hidden until later, whereupon they will appear in the general
 list and not the scheduled list.
-****** CANCELLED Create procedure for later scheduling of tasks 
+******* CANCELLED Create procedure for later scheduling of tasks 
     - State "CANCELLED"  from "NEXT"       [2012-10-26 Fri 15:17] \\
       I can just use schedule to schedule it later and it's probably a good thing
       to reminded daily that the task needs to be done.
 Should be able to just schedule it for a given day and then org-mode
 will keep reminding me until it's done.
-****** DONE Research how to make a tickler file for org-mode
-       - State "DONE"       from "TODO"       [2012-10-26 Fri 15:16]
-***** DONE Set up org-mode calendar				   :COMPUTER:
-      - State "DONE"       from "TODO"       [2013-07-09 Tue 11:13]
-      :PROPERTIES:
-      :ID:       41700872-750b-4b16-9f38-069e8041bb2b
-      :END:
-****** CANCELLED Put calendar data into org-mode
-       - State "CANCELLED"  from "SOMEDAY"       [2012-11-30 Fri 13:44] \\
-	 This is just using org-mode with timestamps!
+******* DONE Research how to make a tickler file for org-mode
+       	- State "DONE"       from "TODO"       [2012-10-26 Fri 15:16]
+****** DONE Set up org-mode calendar				   :COMPUTER:
+       - State "DONE"       from "TODO"       [2013-07-09 Tue 11:13]
        :PROPERTIES:
-       :ID:       c69116a8-6655-4429-bbac-73a314ef2967
+       :ID:       41700872-750b-4b16-9f38-069e8041bb2b
        :END:
-       :PROPERTIES:
-       :ID:       f1a7f408-27b3-44ab-b0f2-73ec079976df
-       :END:
-****** DONE Research org-mode agenda views and how to use it productively
-       - State "DONE"       from "TODO"       [2012-11-30 Fri 13:44]
-       :PROPERTIES:
-       :ID:       358d2a2c-f8ac-485d-946e-c5e89097e1e9
-       :END:
-******* DONE Learn how to filter org-mode agenda views
+******* CANCELLED Put calendar data into org-mode
+       	- State "CANCELLED"  from "SOMEDAY"       [2012-11-30 Fri 13:44] \\
+	  This is just using org-mode with timestamps!
+       	:PROPERTIES:
+       	:ID:       c69116a8-6655-4429-bbac-73a314ef2967
+       	:END:
+       	:PROPERTIES:
+       	:ID:       f1a7f408-27b3-44ab-b0f2-73ec079976df
+       	:END:
+******* DONE Research org-mode agenda views and how to use it productively
+       	- State "DONE"       from "TODO"       [2012-11-30 Fri 13:44]
+       	:PROPERTIES:
+       	:ID:       358d2a2c-f8ac-485d-946e-c5e89097e1e9
+       	:END:
+******** DONE Learn how to filter org-mode agenda views
      - State "DONE"       from "NEXT"       [2012-11-15 Thu 11:46]
 I want to filter out personal tasks at work for example or show only ucsd and academic tasks
-***** TODO Filter out someday tasks
-       :PROPERTIES:
-       :ID:       907b0751-6098-4034-8dc0-0b3c3b75a268
-       :END:
-****** NEXT Find out how org-mode traverses trees in agenda search
-       :PROPERTIES:
-       :ID:       b8efe527-39dc-4dd0-9ec7-8fdb61f20934
-       :END: 
-***** DONE Create someday todo for inactive tasks
+****** TODO Filter out someday tasks
+       	:PROPERTIES:
+       	:ID:       907b0751-6098-4034-8dc0-0b3c3b75a268
+       	:END:
+******* NEXT Find out how org-mode traverses trees in agenda search
+       	:PROPERTIES:
+       	:ID:       b8efe527-39dc-4dd0-9ec7-8fdb61f20934
+       	:END: 
+****** DONE Create someday todo for inactive tasks
    - State "DONE"       from "TODO"       [2012-10-29 Mon 10:40]
   CLOCK: [2012-10-26 Fri 15:06]--[2012-10-26 Fri 15:07] =>  0:01
 [2012-10-26 Fri 15:06]
 
-***** TODO Make refs and working structure to reflect org structure
+****** TODO Make refs and working structure to reflect org structure
 Also create any projects and put the under vc
   CLOCK: [2012-11-03 Sat 11:28]--[2012-11-03 Sat 11:28] =>  0:00
    :PROPERTIES:
@@ -229,7 +238,7 @@ Also create any projects and put the under vc
    :END:
 [2012-11-03 Sat 11:28]
 
-***** TODO Check out org-contacts
+****** TODO Check out org-contacts
   CLOCK: [2012-11-03 Sat 19:28]--[2012-11-03 Sat 19:28] =>  0:00
    :PROPERTIES:
    :ID:       8aa779ca-ab20-4473-8b51-0a9826ad16be
@@ -237,7 +246,7 @@ Also create any projects and put the under vc
 [2012-11-03 Sat 19:28]
 [[http://julien.danjou.info/projects/emacs-packages#org-contacts]]
 
-***** TODO Check out quantified self
+****** TODO Check out quantified self
   CLOCK: [2012-11-03 Sat 19:29]--[2012-11-03 Sat 19:30] =>  0:01
    :PROPERTIES:
    :ID:       aad86e16-f3f5-4cbb-84a1-f7a6abf0825d
@@ -248,7 +257,7 @@ Also create any projects and put the under vc
 [[http://lists.gnu.org/archive/html/emacs-orgmode/2012-05/msg00079.html]]
 [[http://sachachua.com/blog/category/quantified/]]
 
-***** DONE Generate list of uncommitted working projects for weekly review
+****** DONE Generate list of uncommitted working projects for weekly review
    - State "DONE"       from "TODO"       [2013-02-05 Tue 13:21]
   CLOCK: [2012-11-12 Mon 11:43]--[2012-11-12 Mon 11:44] =>  0:01
    :PROPERTIES:
@@ -257,14 +266,14 @@ Also create any projects and put the under vc
 [2012-11-12 Mon 11:43]
 This should do: $ find ~/working -iname '.hg' adnd then hg st, hg incoming, hg outgoing and if any report action required output the result
 
-***** DONE Fix up clocking in/out on mobileorg
+****** DONE Fix up clocking in/out on mobileorg
    - State "DONE"       from "TODO"       [2012-12-04 Tue 12:56]
    :PROPERTIES:
    :ID:       7eea46e9-8678-4c94-a108-d3a2289abb63
    :END:
 [2012-11-13 Tue 19:51]
 
-***** DONE Need to have clock out shift clock to parent or default
+****** DONE Need to have clock out shift clock to parent or default
    - State "DONE"       from "TODO"       [2013-02-05 Tue 13:21]
   :LOGBOOK:
   :END:
@@ -273,14 +282,14 @@ This should do: $ find ~/working -iname '.hg' adnd then hg st, hg incoming, hg o
    :END:
 [2012-11-16 Fri 15:18]
 
-***** TODO Transcribe org from Bei Da notebook
+****** TODO Transcribe org from Bei Da notebook
   :LOGBOOK:
   :END:
   :PROPERTIES:
   :ID:       fe726d0c-2bf0-41c3-8fc3-5d6a8bce26a8
   :END:
 [2012-11-20 Tue 11:03]
-***** TODO Move someday projects into someday file
+****** TODO Move someday projects into someday file
   :LOGBOOK:
   CLOCK: [2012-11-30 Fri 10:54]--[2012-11-30 Fri 10:55] =>  0:01
   :END:
@@ -290,7 +299,7 @@ This should do: $ find ~/working -iname '.hg' adnd then hg st, hg incoming, hg o
 [2012-11-30 Fri 10:54]
 This will clear up my agenda until I can filter out someday projects
 
-***** DONE make_research_project.sh should create org-mode snippet
+****** DONE make_research_project.sh should create org-mode snippet
    - State "DONE"       from "TODO"       [2012-12-07 Fri 10:45]
   :LOGBOOK:
   CLOCK: [2012-12-03 Mon 13:54]--[2012-12-03 Mon 13:55] =>  0:01
@@ -300,7 +309,7 @@ This will clear up my agenda until I can filter out someday projects
    :END:
 [2012-12-03 Mon 13:54]
 
-***** DONE Investigate Dropbox symlink errors
+****** DONE Investigate Dropbox symlink errors
    - State "DONE"       from "NEXT"       [2012-12-03 Mon 15:31]
   :LOGBOOK:
   CLOCK: [2012-12-03 Mon 15:29]--[2012-12-03 Mon 15:31] =>  0:02
@@ -316,14 +325,14 @@ likewise for notebook and paul-dell...
 
 Hostname should be the canonical place and I shouldn't ever need to worry about the symlinked one. i.e. I should be able to remove all references to office and notebook and then delete the symlinks.
 
-***** DONE Set default bibliography for reftex
+****** DONE Set default bibliography for reftex
    - State "DONE"       from "TODO"       [2013-02-05 Tue 13:19]
   :PROPERTIES:
   :ID:       1e9fd1df-e101-4e32-bc7b-b598793a498b
   :END:
 [2012-12-07 Fri 10:15]
 
-***** TODO Set up org-mode checklists contrib
+****** TODO Set up org-mode checklists contrib
   :LOGBOOK:
   :END:
   :PROPERTIES:
@@ -331,7 +340,7 @@ Hostname should be the canonical place and I shouldn't ever need to worry about 
   :END:
 [2012-12-07 Fri 13:44]
 
-***** DONE Implement multi-page html export for org mode
+****** DONE Implement multi-page html export for org mode
    - State "DONE"       from "TODO"       [2013-02-05 Tue 13:22]
   :LOGBOOK:
   :END:
@@ -340,7 +349,7 @@ Hostname should be the canonical place and I shouldn't ever need to worry about 
    :END:
 [2012-12-13 Thu 10:36]
 
-***** DONE Set up org-mode latex export
+****** DONE Set up org-mode latex export
    - State "DONE"       from "NEXT"       [2012-12-13 Thu 12:11]
   :LOGBOOK:
   CLOCK: [2012-12-13 Thu 11:38]--[2012-12-13 Thu 12:11] =>  0:33
@@ -353,7 +362,7 @@ Hostname should be the canonical place and I shouldn't ever need to worry about 
    :END:
 [2012-12-13 Thu 10:37]
 Want it to use my settings, macros etc.
-***** TODO fix: org mode clocks out when doing mobile sync
+****** TODO fix: org mode clocks out when doing mobile sync
   :LOGBOOK:
   :END:
    :PROPERTIES:
@@ -361,8 +370,8 @@ Want it to use my settings, macros etc.
    :END:
 [2012-12-14 Fri 11:53]
 
-***** Web Publishing
-****** Links
+****** Web Publishing
+******* Links
 [[http://orgmode.org/manual/Publishing.html]]
 [[http://orgmode.org/manual/Exporting.html]]
 [[http://orgmode.org/worg/org-tutorials/org-publish-html-tutorial.html]]
@@ -373,7 +382,7 @@ Want it to use my settings, macros etc.
 [[http://doc.norang.ca/org-mode.html#Publishing]]
 [[http://justinlilly.com/emacs/orgmode_static_site_generator.html]]
 
-***** DONE Fix up vc on org mode
+****** DONE Fix up vc on org mode
   SCHEDULED: <2013-01-07 Mon>
   - State "DONE"       from "TODO"       [2013-01-07 Mon 14:09]
    :PROPERTIES:
@@ -383,21 +392,21 @@ Want it to use my settings, macros etc.
 
 It's missing stuff from work.
 
-***** TODO Put password free math131 ssh key on bitbucket for syncing
+****** TODO Put password free math131 ssh key on bitbucket for syncing
   :LOGBOOK:
   :END:
    :PROPERTIES:
    :ID:       02e28058-08f3-4acb-95b2-bd4fe4f99317
    :END:
 [2013-01-11 Fri 14:17]
-***** TODO mobile-org capture should store timestamp
+****** TODO mobile-org capture should store timestamp
   :LOGBOOK:
   :END:
   :PROPERTIES:
   :ID:       0da448e4-4613-4334-9c8a-e1602b72d98a
   :END:
 [2013-01-18 Fri 10:15]
-***** DONE Merge 2 seperate Lawson conj. proof tasks
+****** DONE Merge 2 seperate Lawson conj. proof tasks
   - State "DONE"       from "TODO"       [2013-02-01 Fri 11:45]
   :LOGBOOK:
   :END:
@@ -406,14 +415,14 @@ It's missing stuff from work.
   :END:
 [2013-01-30 Wed 10:18]
 
-***** TODO Archive old tasks in weekly review
+****** TODO Archive old tasks in weekly review
   :LOGBOOK:
   :END:
    :PROPERTIES:
    :ID:       f7b55341-e8b8-46cd-a026-982f356173d7
    :END:
 [2013-02-05 Tue 13:22]
-***** DONE Set up a capture task for research ideas
+****** DONE Set up a capture task for research ideas
   - State "DONE"       from "NEXT"       [2013-03-14 Thu 14:15]
   :LOGBOOK:
   CLOCK: [2013-03-14 Thu 14:08]--[2013-03-14 Thu 14:15] =>  0:07
@@ -430,13 +439,13 @@ This will have a timestamp - maybe captured as a date tree? It will be
 filed in a research diary file. I'll need to tag my ideas and I'll
 publish this on the web so I can access it anywhere. I'll also want to
 be able to link to scans and blackboard photos.
-***** DONE Set up FOCUS agenda block
+****** DONE Set up FOCUS agenda block
    - State "DONE"       from "NEXT"       [2013-03-19 Tue 13:36]
   :LOGBOOK:
   CLOCK: [2013-03-19 Tue 11:38]--[2013-03-19 Tue 11:41] =>  0:03
   :END:
 [2013-03-19 Tue 11:37]
-***** TODO Publish single org-mode file to multiple page html
+****** TODO Publish single org-mode file to multiple page html
   :LOGBOOK:
   CLOCK: [2013-02-28 Thu 17:57]--[2013-02-28 Thu 17:58] =>  0:01
   :END:
@@ -445,7 +454,7 @@ be able to link to scans and blackboard photos.
   :END:
 [2013-02-28 Thu 17:57]
 I can export to Docbook, then use standard tools to produce mutli-page html and single page html files. Can I just do this in one go?
-***** DONE Tag someday projects as SOMEDAY and use a filter to remove them from agenda
+****** DONE Tag someday projects as SOMEDAY and use a filter to remove them from agenda
   - State "DONE"       from "TODO"       [2013-03-19 Tue 11:46]
   :LOGBOOK:
   CLOCK: [2013-02-28 Thu 21:51]--[2013-02-28 Thu 21:52] =>  0:01
@@ -455,7 +464,7 @@ I can export to Docbook, then use standard tools to produce mutli-page html and 
   :END:
 [2013-02-28 Thu 21:51]
 
-***** TODO Learn agenda views
+****** TODO Learn agenda views
   :LOGBOOK:
   :END:
      :PROPERTIES:
@@ -463,7 +472,7 @@ I can export to Docbook, then use standard tools to produce mutli-page html and 
      :END:
 [2013-03-18 Mon 16:03]
 If I'm working on a project, I want an agenda view showing me just that project.
-***** TODO Put org-mobile code into one function
+****** TODO Put org-mobile code into one function
   :LOGBOOK:
   :END:
   :PROPERTIES:
@@ -471,18 +480,18 @@ If I'm working on a project, I want an agenda view showing me just that project.
   :END:
 [2013-03-14 Thu 14:05]
 
-*** NEXT Use org-checklists
-    SCHEDULED: <2014-04-01 Tue>
-    :LOGBOOK:
-    - State "NEXT"       from "WAITING"    [2013-10-27 Sun 20:31] \\
-      I doesn't seem to work on Ubuntu 12.04. Maybe I need to downgrade it?
-    - State "WAITING"    from "NEXT"       [2013-09-29 Sun 20:48] \\
-      Set it up. Just waiting to see if it works...
-    :END:
-    :PROPERTIES:
-    :ID:       c544c72f-f00e-4984-aec8-843eb43ebaa1
-    :END:
-*** TODO Work out how the note capture template works
+**** NEXT Use org-checklists
+     SCHEDULED: <2014-04-01 Tue>
+     :LOGBOOK:
+     - State "NEXT"       from "WAITING"    [2013-10-27 Sun 20:31] \\
+       I doesn't seem to work on Ubuntu 12.04. Maybe I need to downgrade it?
+     - State "WAITING"    from "NEXT"       [2013-09-29 Sun 20:48] \\
+       Set it up. Just waiting to see if it works...
+     :END:
+     :PROPERTIES:
+     :ID:       c544c72f-f00e-4984-aec8-843eb43ebaa1
+     :END:
+**** TODO Work out how the note capture template works
   :LOGBOOK:
   :END:
   :PROPERTIES:
@@ -490,7 +499,7 @@ If I'm working on a project, I want an agenda view showing me just that project.
   :END:
 [2013-08-01 Thu 20:03]
 
-*** TODO Check out PlantUML
+**** TODO Check out PlantUML
   :LOGBOOK:
   CLOCK: [2013-08-01 Thu 20:05]--[2013-08-01 Thu 20:06] =>  0:01
   :END:
@@ -500,7 +509,7 @@ If I'm working on a project, I want an agenda view showing me just that project.
 [2013-08-01 Thu 20:05]
 http://plantuml.sourceforge.net/
 
-*** DONE from-mobile.org entries in agenda
+**** DONE from-mobile.org entries in agenda
   SCHEDULED: <2013-09-29 Sun>
   :LOGBOOK:
   - State "DONE"       from "NEXT"       [2013-09-29 Sun 20:42]
@@ -511,12 +520,12 @@ http://plantuml.sourceforge.net/
     :END:
 [2013-08-04 Sun 10:05]
 
-*** TODO Set up org-checklists
+**** TODO Set up org-checklists
     :PROPERTIES:
     :ID:       e7d3213d-1978-4333-83da-2cb3d33b55c6
     :END:
 [2013-08-04 Sun 10:12]
-*** DONE Work out some weekly timing/planning
+**** DONE Work out some weekly timing/planning
     SCHEDULED: <2013-08-05 Mon>
   :LOGBOOK:
   - State "DONE"       from "TODO"       [2013-08-13 Tue 20:54]
@@ -533,7 +542,7 @@ Each week I need to
 - Do teaching
 
 Can I assign times to do this, or do I just do whatever's appropriate for where I am?
-*** TODO Open ended research todo keyword
+**** TODO Open ended research todo keyword
   :LOGBOOK:
   CLOCK: [2013-08-04 Sun 10:16]--[2013-08-04 Sun 10:17] =>  0:01
   :END:
@@ -543,7 +552,7 @@ Can I assign times to do this, or do I just do whatever's appropriate for where 
 [2013-08-04 Sun 10:16]
 Do I make a different TODO keyword for more trying out things/open ended type research?
 
-*** DONE Only show tasks for 7 days
+**** DONE Only show tasks for 7 days
   SCHEDULED: <2013-09-08 Sun>
   :LOGBOOK:
   - State "DONE"       from "TODO"       [2013-09-13 Fri 09:51]
@@ -552,23 +561,23 @@ Do I make a different TODO keyword for more trying out things/open ended type re
     :ID:       51c2e4ba-504d-48b1-b452-ccdaba611a68
     :END:
 [2013-08-10 Sat 09:33]
-*** TODO Organise org-mode tasks better!
-    :PROPERTIES:
-    :ID:       8ff60685-1d96-4521-a093-49617c974186
-    :END:
-*** TODO org-mode aware diff
+**** TODO Organise org-mode tasks better!
+     :PROPERTIES:
+     :ID:       8ff60685-1d96-4521-a093-49617c974186
+     :END:
+**** TODO org-mode aware diff
     :PROPERTIES:
     :ID:       b6414ae2-66a1-44ea-aede-2293d5449abe
     :END:
 - This is just the ordinary diff with headlines thought of as files/directories (which can contain content and also other files which is slightly different to the filesystem). Recursing is just recursing headlines and reports can say things like "Headlines A and B differ" and we can show differences in contents of headlines.
-*** TODO Org calendar to google calendar
+**** TODO Org calendar to google calendar
   SCHEDULED: <2014-04-01 Tue>
   :PROPERTIES:
   :ID:       00fc3ef7-df16-48c3-8fa3-f5b16e6c10d2
   :END:
 [2013-09-03 Tue 21:27]
 http://orgmode.org/worg/org-tutorials/org-google-sync.html
-*** TODO Focus agenda view should show next tasks for project?
+**** TODO Focus agenda view should show next tasks for project?
   SCHEDULED: <2014-04-01 Tue>
   :LOGBOOK:
   CLOCK: [2013-09-14 Sat 19:43]--[2013-09-14 Sat 19:44] =>  0:01
@@ -578,6 +587,70 @@ http://orgmode.org/worg/org-tutorials/org-google-sync.html
   :END:
 [2013-09-14 Sat 19:43]
 
+*** Archiving
+**** TODO Archive things
+  :PROPERTIES:
+  :ID:       a1611ad9-0546-41d7-a584-9edb3ef77445
+  :END:
+[2014-01-02 Thu 18:44]
+- Set up archiving for org-mode
+- archive working files for faster check_uncommited
+<2014-04-07 Mon>
+**** TODO Archive old working projects
+  SCHEDULED: <2014-04-07 Mon>
+[2014-02-13 Thu 09:20]
+*** Agenda
+**** TODO Org agenda views
+  SCHEDULED: <2014-04-07 Mon>
+  :LOGBOOK:
+  CLOCK: [2014-02-07 Fri 09:41]--[2014-02-07 Fri 09:44] =>  0:03
+  :END:
+[2014-02-07 Fri 09:41]
+I need to be able to focus on the right tasks which means not seeing all possible tasks that I may do eventually!
+
+- Research agenda view
+  - day to day: only show working and not future tasks
+  - high level planning: show projects and not individual tasks
+  - projects: restrict to a project 
+- Teaching agenda view
+  - Shows teaching tasks and so forth
+- General agenda view
+  - Pretty much what I have now (maybe I don't need tasks listed)
+- Personal agenda view
+  - Non-work stuff
+**** TODO Create project agenda view
+  SCHEDULED: <2014-04-07 Mon>
+  :LOGBOOK:
+  CLOCK: [2014-02-20 Thu 09:10]--[2014-02-20 Thu 09:11] =>  0:01
+  :END:
+[2014-02-20 Thu 09:10]
+
+It would be nice to narrow to a project and have it display sub-projects in an easy to browse manner
+<2014-04-01 Tue>
+*** Configuration
+**** TODO Split up emacs-org files
+  SCHEDULED: <2014-04-07 Mon>
+  :LOGBOOK:
+  CLOCK: [2014-03-18 Tue 17:44]--[2014-03-18 Tue 17:45] =>  0:01
+  :END:
+[2014-03-18 Tue 17:44]
+
+Things are getting a little out of hand. I think I should break up configuration based on relevance: latex, agenda, etc.
+
+<2014-04-07 Mon>* TODO Write research project summaries/proposals
+  DEADLINE: <2014-04-25 Fri>
+  :LOGBOOK:
+  CLOCK: [2014-03-21 Fri 13:09]--[2014-03-21 Fri 13:10] =>  0:01
+  :END:
+[2014-03-21 Fri 13:09]
+
+I want to have descriptions of my various research projects with clear aims, a summary of the project and references. I should then also be able to construct tasks for the projects.
+
+*** Captures
+**** TODO Create capture for office hours
+  SCHEDULED: <2014-04-07 Mon>
+[2014-02-10 Mon 15:45]
+How do I choose which course?
 ** Hacking
 *** TODO special headlines
   :LOGBOOK:
@@ -1690,7 +1763,7 @@ yajl-ruby (1.1.0)
   :END:
 ** Organisation
   :LOGBOOK:
-  CLOCK: [2014-04-01 Tue 11:27]
+  CLOCK: [2014-04-01 Tue 11:27]--[2014-04-01 Tue 11:50] =>  0:23
   CLOCK: [2014-04-01 Tue 11:19]--[2014-04-01 Tue 11:24] =>  0:05
   CLOCK: [2014-03-31 Mon 21:05]--[2014-03-31 Mon 21:32] =>  0:27
   CLOCK: [2014-03-31 Mon 19:22]--[2014-03-31 Mon 19:29] =>  0:07
@@ -3740,9 +3813,10 @@ When I set up scoring the day:
 - [ ] Do short tasks
 - [ ] Record morning health stats
 
-** NEXT Weekly Review [8/19]
+** NEXT Weekly Review [17/19]
    SCHEDULED: <2013-12-01 Sun +1w>
    :LOGBOOK:
+   CLOCK: [2014-04-01 Tue 11:50]
    CLOCK: [2014-03-31 Mon 11:58]--[2014-03-31 Mon 13:23] =>  1:25
    CLOCK: [2014-03-31 Mon 10:24]--[2014-03-31 Mon 10:27] =>  0:03
    CLOCK: [2014-01-28 Tue 17:10]--[2014-01-28 Tue 17:48] =>  0:38
@@ -3863,25 +3937,25 @@ What to review:
   - Check where we spent time (too much or too little) and rectify this week
 - [X] Look at entire agenda for today  =F12 SPC=
 - [X] Check un-committed work
-- [ ] Refile tasks
-- [-] Weekly clean up
+- [X] Refile tasks
+- [X] Weekly clean up
   - [X] Clean up Downloads
   - [X] Clean up tmp
-  - [ ] Clean up tablet
-  - [ ] Clean up phone
-- [ ] Process incoming information
+  - [X] Clean up tablet
+  - [X] Clean up phone
+- [X] Process incoming information
   - feedly
   - pocket
-- [ ] Review focus projects 
-- [ ] Set focus
-- [X] Check follow-up paper folder
+- [X] Review focus projects 
+- [X] Set focus
+- [ ] Check follow-up paper folder
 - [ ] Collate the weeks scribbles
-- [ ] Check Finances
+- [X] Check Finances
   - Check bank accounts and compare with what's still to come
-- [ ] Copy music to phone
-- [ ] Share photos on Google+
-- [ ] Update Abundant Harvest order
-- [ ] Order meat
+- [X] Copy music to phone
+- [X] Share photos on Google+
+- [X] Update Abundant Harvest order
+- [X] Order meat
   - http://www.son-riseranchstore.com/
 
 ** NEXT Monthly Plan/Review [0/5]
