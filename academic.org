@@ -2633,7 +2633,7 @@ This is about convex functions, viscosity solutions, barrier solutions and so fo
 	:END:
 ******* NEXT Refactor code into clean code
 	:LOGBOOK:
-	CLOCK: [2014-03-31 Mon 17:31]
+	CLOCK: [2014-03-31 Mon 17:31]--[2014-03-31 Mon 17:52] =>  0:21
 	:END:
 ****** TODO Code structure
 ******* NEXT Set up classes for computation
