@@ -379,6 +379,9 @@ I want to do teaching with sage-tex and/or org-mode with babel; i.e. interactive
 	- State "DONE"       from "NEXT"       [2014-03-16 Sun 11:27]
 	:END:
 ***** TODO Final proposal
+      :LOGBOOK:
+      CLOCK: [2014-03-31 Mon 21:05]
+      :END:
 ****** DONE Amend proposal based on Julies comments
        DEADLINE: <2014-03-21 Fri>
        :LOGBOOK:
@@ -393,8 +396,10 @@ I want to do teaching with sage-tex and/or org-mode with babel; i.e. interactive
        CLOCK: [2014-03-26 Wed 12:19]--[2014-03-26 Wed 13:44] =>  1:25
        :END:
 
-****** NEXT Create pictures of isoperimetric domains
+****** CANCELLED Create pictures of isoperimetric domains
        :LOGBOOK:
+       - State "CANCELLED"  from "NEXT"       [2014-03-31 Mon 19:29] \\
+	 Didn't bother with this.
        CLOCK: [2014-03-20 Thu 15:50]--[2014-03-20 Thu 17:04] =>  1:14
        :END:
 ****** DONE Amend org statement
@@ -404,7 +409,15 @@ I want to do teaching with sage-tex and/or org-mode with babel; i.e. interactive
        CLOCK: [2014-03-24 Mon 21:59]--[2014-03-24 Mon 23:04] =>  1:05
        CLOCK: [2014-03-24 Mon 15:36]--[2014-03-24 Mon 16:09] =>  0:33
        :END:
-***** TODO Application
+****** DONE Final proof read
+       :LOGBOOK:
+       - State "DONE"       from "NEXT"       [2014-03-31 Mon 21:05]
+       CLOCK: [2014-03-31 Mon 19:29]--[2014-03-31 Mon 21:05] =>  1:36
+       :END:
+***** DONE Application
+      :LOGBOOK:
+      - State "DONE"       from "TODO"       [2014-03-31 Mon 19:29]
+      :END:
 ****** DONE Fill in online application
        :LOGBOOK:
        - State "DONE"       from "NEXT"       [2014-03-16 Sun 11:27]
