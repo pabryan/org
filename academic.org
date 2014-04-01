@@ -2627,11 +2627,19 @@ This is about convex functions, viscosity solutions, barrier solutions and so fo
        	:END:
 ******* NEXT Work out algorithm 
 	:LOGBOOK:
+	CLOCK: [2014-03-31 Mon 17:26]
 	CLOCK: [2014-03-31 Mon 16:09]--[2014-03-31 Mon 16:53] =>  0:44
 	CLOCK: [2014-03-26 Wed 11:20]--[2014-03-26 Wed 11:41] =>  0:21
 	:END:
+******* NEXT Refactor code into clean code
 ****** TODO Code structure
 ******* NEXT Set up classes for computation
+******* TODO Data structures
+******** NEXT Group related parameters together
+A's go together, Wavelengths go together
+******** NEXT Split computational parameters from initialisation
+- Initialisation should just set up galaxy with coefficients, angular parameters etc.
+- dr, dt, rmax etc. are computational parameters and should only be set when doing the computation
 ****** TODO Numerics
 ******* NEXT Investigate best use of numpy arrays, lists etc.
        	:LOGBOOK:
