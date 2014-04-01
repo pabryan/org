@@ -1663,12 +1663,34 @@ yajl-ruby (1.1.0)
 *** latex
 - macros
 - bib setup
+** emacs
+*** Tasks
+**** TODO Emacs coding setup
+  :LOGBOOK:
+  CLOCK: [2014-03-31 Mon 19:01]--[2014-03-31 Mon 19:03] =>  0:02
+  :END:
+[2014-03-31 Mon 19:01]
+<2014-04-07 Mon>
+- CEDET
+  - http://cedet.sourceforge.net/
+  - http://alexott.net/en/writings/emacs-devenv/EmacsCedet.html
+- Code folding
+  - http://stackoverflow.com/questions/1085170/how-to-achieve-code-folding-effects-in-emacs
+  - http://stackoverflow.com/questions/5244485/python-code-folding-in-emacs
+- IDE
+  - http://stackoverflow.com/questions/63421/using-emacs-as-an-ide
+  - http://ergoemacs.org/emacs/emacs_whats_best_setup_for_xyz.html
+  - http://www.logilab.org/173886
+
+*** Notes
+*** References
 * Clocking
   :PROPERTIES:
   :ID:       4257fe31-e606-4ca9-a848-858379409679
   :END:
 ** Organisation
   :LOGBOOK:
+  CLOCK: [2014-03-31 Mon 19:22]
   CLOCK: [2014-03-31 Mon 16:08]--[2014-03-31 Mon 16:09] =>  0:01
   CLOCK: [2014-03-31 Mon 10:27]--[2014-03-31 Mon 10:55] =>  0:28
   CLOCK: [2014-03-31 Mon 10:23]--[2014-03-31 Mon 10:24] =>  0:01
