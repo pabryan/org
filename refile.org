@@ -93,19 +93,4 @@ I want to have descriptions of my various research projects with clear aims, a s
 [2014-03-22 Sat 12:14]
 http://careers.stackoverflow.com/
 <2014-04-30 Wed>
-* TODO Emacs coding setup
-  :LOGBOOK:
-  CLOCK: [2014-03-31 Mon 18:57]--[2014-03-31 Mon 19:00] =>  0:03
-  :END:
-[2014-03-31 Mon 18:57]
-<2014-04-07 Mon>
-- CEDET
-  - http://cedet.sourceforge.net/
-  - http://alexott.net/en/writings/emacs-devenv/EmacsCedet.html
-- code folding
-  - http://stackoverflow.com/questions/1085170/how-to-achieve-code-folding-effects-in-emacs
-  - http://stackoverflow.com/questions/5244485/python-code-folding-in-emacs
-- IDE
-  - http://stackoverflow.com/questions/63421/using-emacs-as-an-ide
-  - http://ergoemacs.org/emacs/emacs_whats_best_setup_for_xyz.html
-  - http://www.logilab.org/173886
+

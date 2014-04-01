@@ -1207,22 +1207,6 @@ What do I need to backup? I try to keep data in the cloud. I guess saved games a
    :END:
 [2012-10-24 Wed 12:27]
 
-**** NEXT Pull everything but backups out of Ubuntu One		   :NOTEBOOK:
-   :LOGBOOK:
-   :END:
-  CLOCK: [2012-10-24 Wed 12:17]--[2012-10-24 Wed 12:17] =>  0:00
-   :PROPERTIES:
-   :ID:       393c557e-0c34-4859-b323-80a309c3a934
-   :END:
-[2012-10-24 Wed 12:17]
-Copy the files to Dropbox instead
-**** NEXT Get notebook working files into dropbox		   :NOTEBOOK:
-  CLOCK: [2012-10-24 Wed 12:18]--[2012-10-24 Wed 12:18] =>  0:00
-   :PROPERTIES:
-   :ID:       6a84db69-d1d3-4fc1-aefb-bb6f1daf4393
-   :END:
-[2012-10-24 Wed 12:18]
-
 **** TODO Work out some way to keep up to date with people's scripts
 e.g. [[https://bitbucket.org/jaraco/jaraco.develop/src/819da4c3e702/jaraco/develop/bitbucket.py?at=default]]
   CLOCK: [2012-11-06 Tue 10:47]--[2012-11-06 Tue 10:48] =>  0:01
@@ -1420,22 +1404,6 @@ Does mutt integrate well?
 ***** NEXT Integrate org-mode and mutt
 http://upsilon.cc/~zack/blog/posts/2010/02/integrating_Mutt_with_Org-mode/
 
-**** TODO Move photos out of Ubuntu One
-  :LOGBOOK:
-  :END:
-   :PROPERTIES:
-   :ID:       2370bd55-ac41-4cc0-8f8e-f7a533ad5471
-   :END:
-[2013-01-25 Fri 12:52]
-**** TODO Check out freeMcAfee for Uverse
-  :LOGBOOK:
-  :END:
-   :PROPERTIES:
-   :ID:       5794d450-645c-4b86-893f-7f8b90016372
-   :END:
-[2013-02-08 Fri 08:29]
-
-[[http://e.att-mail.com/a/hBRE8F1B8bmv9B8woKaADAaWc$s/getitnow]]
 **** TODO Fix up work TeX setup
   :LOGBOOK:
   CLOCK: [2013-02-15 Fri 10:34]--[2013-02-15 Fri 10:35] =>  0:01
@@ -1517,7 +1485,6 @@ http://askubuntu.com/questions/198136/error-when-trying-to-connect-to-vpn-on-sta
 - generate a list of repos and their remote urls into a file
 - put scripts and files in it's own repo
 - check uncomitted uses repo list
-
 
 **** DONE set up vc_auto_commit cron job and working scan cron job
   SCHEDULED: <2013-08-12 Mon>
