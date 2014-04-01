@@ -379,9 +379,6 @@ I want to do teaching with sage-tex and/or org-mode with babel; i.e. interactive
 	- State "DONE"       from "NEXT"       [2014-03-16 Sun 11:27]
 	:END:
 ***** TODO Final proposal
-      :LOGBOOK:
-      CLOCK: [2014-03-31 Mon 21:05]
-      :END:
 ****** DONE Amend proposal based on Julies comments
        DEADLINE: <2014-03-21 Fri>
        :LOGBOOK:
