@@ -3813,10 +3813,10 @@ When I set up scoring the day:
 - [ ] Do short tasks
 - [ ] Record morning health stats
 
-** NEXT Weekly Review [17/19]
+** NEXT Weekly Review [18/19]
    SCHEDULED: <2013-12-01 Sun +1w>
    :LOGBOOK:
-   CLOCK: [2014-04-01 Tue 11:50]
+   CLOCK: [2014-04-01 Tue 11:50]--[2014-04-01 Tue 12:43] =>  0:53
    CLOCK: [2014-03-31 Mon 11:58]--[2014-03-31 Mon 13:23] =>  1:25
    CLOCK: [2014-03-31 Mon 10:24]--[2014-03-31 Mon 10:27] =>  0:03
    CLOCK: [2014-01-28 Tue 17:10]--[2014-01-28 Tue 17:48] =>  0:38
@@ -3948,7 +3948,7 @@ What to review:
   - pocket
 - [X] Review focus projects 
 - [X] Set focus
-- [ ] Check follow-up paper folder
+- [X] Check follow-up paper folder
 - [ ] Collate the weeks scribbles
 - [X] Check Finances
   - Check bank accounts and compare with what's still to come

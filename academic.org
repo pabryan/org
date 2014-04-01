@@ -749,9 +749,10 @@ Classification of compact convex ancient solutions of the planar affine normal f
 [[file:~/reference/academic/journals/referee/JGEA-D-14-00048/JGEA-D-14-00048.pdf]]
 ***** NEXT Skim through paper
 
-** Selected Papers
-*** Tasks
-**** NEXT Write Ivaki review
+** Discussion
+*** Selected Papers
+**** Tasks
+***** NEXT Write Ivaki review
      :LOGBOOK:
      CLOCK: [2013-08-11 Sun 09:40]--[2013-08-11 Sun 10:41] =>  1:01
      :END:
@@ -759,20 +760,20 @@ Classification of compact convex ancient solutions of the planar affine normal f
      :ID:       58fbf901-2883-431f-ba90-9114d53176fb
      :END:
 [[id:7715f668-b8c3-4b6b-a368-9217788bd2a2][An application of dual convex bodies to the inverse Gauss curvature flow]]
-**** NEXT Review my paper's
-     :PROPERTIES:
-     :ID:       2d80e53a-dbb9-4942-8590-7a4434ba4511
-     :END:
-**** TODO Do a spnet video tutorial (screen cast)
-     :PROPERTIES:
-     :ID:       6495f422-88eb-457c-9877-f84945750fb1
-     :END:
-**** NEXT Where does discussion take place? Where can I ask questions?
-     :PROPERTIES:
-     :ID:       4dedff4c-b042-45d6-9bcc-47fb04672e8e
-     :END:
-*** Notes
-**** TODO Selected papers
+***** NEXT Review my paper's
+      :PROPERTIES:
+      :ID:       2d80e53a-dbb9-4942-8590-7a4434ba4511
+      :END:
+***** TODO Do a spnet video tutorial (screen cast)
+      :PROPERTIES:
+      :ID:       6495f422-88eb-457c-9877-f84945750fb1
+      :END:
+***** NEXT Where does discussion take place? Where can I ask questions?
+      :PROPERTIES:
+      :ID:       4dedff4c-b042-45d6-9bcc-47fb04672e8e
+      :END:
+**** Notes
+***** TODO Selected papers
   SCHEDULED: <2014-04-03 Thu>
   :LOGBOOK:
   CLOCK: [2013-08-04 Sun 09:49]--[2013-08-04 Sun 09:50] =>  0:01
@@ -787,16 +788,16 @@ Classification of compact convex ancient solutions of the planar affine normal f
 - Make an overlay reference implementation. Use if for my publications on my website! This should get data from ArXiv and Sel. Papers and present it on any web page.
 - How do we link directly (say from my webpage) to a Selected Papers paper with discussion?
 - Should link to Gravatar profile. Can we put metadata in there?
-*** Reviews
-**** math.DG
-***** An application of dual convex bodies to the inverse Gauss curvature flow
-      :PROPERTIES:
-      :ID:       7715f668-b8c3-4b6b-a368-9217788bd2a2
-      :END:
-****** Notes
+**** Reviews
+***** math.DG
+****** An application of dual convex bodies to the inverse Gauss curvature flow
+       :PROPERTIES:
+       :ID:       7715f668-b8c3-4b6b-a368-9217788bd2a2
+       :END:
+******* Notes
 [[https://sites.google.com/site/mohammadnivaki/publications]]
-****** Posts
-******* Review
+******* Posts
+******** Review
 This paper uses a nice idea to obtain a /lower/ curvature bound for the inverse Gauss curvature flow of a family of closed, convex hypersurfaces \(M_t\) in Euclidean space. I think the idea fits into a boader context, which is why I think it's "nice" (that and the fact that it's similar to one I've used myself - more on that later). So what's the idea? The idea is to consider the polar dual body (http://en.wikipedia.org/wiki/Mahler_volume) \(K^{\circ}_t\) of the convex body \(K_t\) enclosed by \(M_t\). Under the Gauss curvature flow, the boundary of \(M^{\circ}_t\) of \(K^{\circ}_t\) satisfies a very similar evolution equation as does the original hypersurface. 
 
 Around 20 years ago, in an influetntial paper, Tso used the support function (http://en.wikipedia.org/wiki/Support_function) of a convex body to obtain an upper curvature bound for the Gauss curvature flow, which was then later used by Ben Andrews to prove both a Harnack inequality for the Gauss curvature flow of closed, convex hypersurfaces in Euclidean space and to prove the convergence result that closed, convex hypersurfaces in Euclidean space collapse to round points under the Gauss curvature flow, resolving a conjecture of Firey. Since the boundary of the dual body satisfies a similar evolution equation to the orginal hypersurface, much the same arguments yield an /upper/ bound for the Gauss curvature of the dual body under the flow. The key point now is that for every \(x \in M_t\), there is a point \(x^{\circ}\in M^{\circ}_t\) satisfying
@@ -813,13 +814,19 @@ So it seems that for hypersurfaces, or more generally sub-manifolds, upper curva
 
 #spnetwork #geometricAnalysis #dualBody url:https://sites.google.com/site/mohammadnivaki/publications
 
-*** TODO Contact Chris Lee with my idea for geom_anal overlay
+**** TODO Contact Chris Lee with my idea for geom_anal overlay
   :PROPERTIES:
   :ID:       6eab928f-8771-4ca5-aa73-98ba03a2d715
   :END:
 [2013-08-06 Tue 20:53]
 
 Maybe make some points about how I could write the code to present data from spnet on a website and include that code in spnet
+*** Scirate
+**** TODO Investigate scirate
+  SCHEDULED: <2014-04-07 Mon>
+[2014-03-05 Wed 13:27]
+https://scirate.com/
+
 ** Geometric Analysis
 *** Notes
 **** Resources
@@ -3880,6 +3887,16 @@ Rowland Hall 340P
 - how does this relate to horospheres and Jie Qing's work?
 ** BADGS
 *** UCSC Winter 2014
+*** Fall 2014
+
+**** TODO Remind BADGS organisers I want to speak
+  :LOGBOOK:
+  CLOCK: [2014-03-10 Mon 10:48]--[2014-03-10 Mon 10:50] =>  0:02
+  :END:
+[2014-03-10 Mon 10:48]
+
+SCHEDULED: <2014-07-01 Tue>
+Richard Montgomery <rmont@ucsc.edu>, David Hoffman <hoffman@math.stanford.edu>, Jie Qing <qing@ucsc.edu>
 
 * Students
   :PROPERTIES:
@@ -4078,6 +4095,27 @@ My experiences learning/implementing these strategies.
       :LOGBOOK:
       CLOCK: [2014-02-17 Mon 11:11]--[2014-02-17 Mon 11:23] =>  0:12
       :END:
+***** TODO humbolt
+  DEADLINE: <2014-04-01 Tue>
+[2014-03-08 Sat 19:44]
+http://www.personalabteilung.hu-berlin.de/stellenausschreibungen/six-humboldt-post-doc-fellowships-temporary-positions-full-time-public-sector-pay-scale-13
+
+***** TODO Apply thinktankmaths
+      SCHEDULED: <2014-04-07 Mon>
+  :LOGBOOK:
+  CLOCK: [2014-03-08 Sat 19:49]--[2014-03-08 Sat 19:50] =>  0:01
+  :END:
+[2014-03-08 Sat 19:49]
+https://thinktankmaths.com/join/mathematicians/
+
+***** TODO check out jobs
+  :LOGBOOK:
+  CLOCK: [2014-03-22 Sat 12:14]--[2014-03-22 Sat 12:15] =>  0:01
+  :END:
+[2014-03-22 Sat 12:14]
+http://careers.stackoverflow.com/
+<2014-04-30 Wed>
+
 **** DONE Andre Neves Postdoc
      :LOGBOOK:
      - State "DONE"       from "TODO"       [2014-02-17 Mon 11:08]
@@ -4210,6 +4248,7 @@ http://www.uu.se/en/jobs/?positionId=32145
        DEADLINE: <2014-04-06 Sun>
 
 http://www.dtu.dk/Job/job?id=171c797f-0619-4bd4-a855-8ff6c4990af7
+
 ** Tasks
 *** TODO Write research proposal/statement
 <2014-04-01 Tue>
@@ -4233,3 +4272,193 @@ http://www.dtu.dk/Job/job?id=171c797f-0619-4bd4-a855-8ff6c4990af7
      - State "DONE"       from "NEXT"       [2014-02-25 Tue 17:01]
      :END:
 *** 
+* Personal Website						      :FOCUS:
+  :PROPERTIES:
+  :ID:       05f896fc-0400-4ac3-bfef-5e3c5457fd02
+  :END:
+** Tasks
+[[file:~/working/ucsd/ucsdwebsite]]
+*** TODO Website authoring
+    :LOGBOOK:
+    CLOCK: [2013-07-31 Wed 17:36]--[2013-07-31 Wed 17:37] =>  0:01
+    :END:
+   :PROPERTIES:
+   :ID:       95bed625-9178-4c2e-977b-ca4098a5ae3a
+   :END:
+[2012-10-15 Mon 10:13]
+
+**** DONE Set up org-mode publishing
+     - State "DONE"       from "NEXT"       [2013-07-24 Wed 11:53]
+     :LOGBOOK:
+     CLOCK: [2013-07-24 Wed 10:47]--[2013-07-24 Wed 11:53] =>  1:06
+     :END:
+**** DONE Change links in publishing
+     - State "DONE"       from "NEXT"       [2013-07-24 Wed 13:11]
+     :LOGBOOK:
+     CLOCK: [2013-07-24 Wed 12:57]--[2013-07-24 Wed 13:11] =>  0:14
+     :END:
+**** NEXT Set styles for org-mode 
+     :LOGBOOK:
+     CLOCK: [2013-07-25 Thu 17:00]--[2013-07-25 Thu 17:26] =>  0:26
+     CLOCK: [2013-07-25 Thu 15:09]--[2013-07-25 Thu 15:26] =>  0:17
+     :END:
+     :PROPERTIES:
+     :ID:       38da306c-0984-4b99-ba62-06fd55da92b7
+     :END:
+- org-mode defines it's own classes. need styles for them.
+**** DONE Fix up site base url
+     - State "DONE"       from "NEXT"       [2013-07-31 Wed 16:42]
+     :PROPERTIES:
+     :ID:       af1fdfa5-7793-4da0-8f71-f4761c35bef8
+     :END:
+**** TODO Collapsing website style
+  :LOGBOOK:
+  CLOCK: [2013-07-23 Tue 19:10]--[2013-07-23 Tue 19:40] =>  0:30
+  :END:
+    :PROPERTIES:
+    :ID:       923fc714-4efa-4ca4-ab62-759e7b906f2b
+    :END:
+[2013-07-16 Tue 10:29]
+Check out http://daretoevolve.tv/dare-to-evolve-member/
+See http://html5doctor.com/the-details-and-summary-elements/
+http://css-plus.com/2011/08/create-accordions-with-css3-html5-and-jquery/
+**** DONE Set up Jekyll
+     - State "DONE"       from "NEXT"       [2013-07-24 Wed 21:50]
+     :LOGBOOK:
+     CLOCK: [2013-07-24 Wed 20:58]--[2013-07-24 Wed 21:50] =>  0:52
+     CLOCK: [2013-07-24 Wed 16:26]--[2013-07-24 Wed 18:22] =>  1:56
+     CLOCK: [2013-07-24 Wed 13:12]--[2013-07-24 Wed 14:13] =>  1:01
+     :END:
+     :PROPERTIES:
+     :ID:       4ca499fe-3561-4181-a05a-9633be9892e6
+     :END:
+***** Links
+http://cinsk.github.io/jekyll-org/articles/jekyll-org.html
+http://jekyllrb.com/
+http://twitter.github.io/bootstrap/
+http://orgmode.org/worg/org-tutorials/org-jekyll.html
+http://stackoverflow.com/questions/6366188/jekyll-select-current-page-url-and-change-its-class
+http://stackoverflow.com/questions/8340170/jekyll-automatically-highlight-current-tab-in-menu-bar
+http://jekyllbootstrap.com
+**** TODO Check out SelectedPapers for hooking into Google+
+     :PROPERTIES:
+     :ID:       4e614435-c343-4c6f-8711-d77e3b33ddfd
+     :END:
+
+**** NEXT Set up CSS/HTML5 Layout/Styles
+     :LOGBOOK:
+     CLOCK: [2013-07-26 Fri 10:48]--[2013-07-26 Fri 12:23] =>  1:35
+     CLOCK: [2013-07-25 Thu 21:25]--[2013-07-25 Thu 21:58] =>  0:33
+     :END:
+     :PROPERTIES:
+     :ID:       21865db6-3fe6-4929-b98f-896c849ff462
+     :END:
+https://github.com/necolas/normalize.css
+https://github.com/cobyism/gridism
+http://modernizr.com/
+**** CANCELLED Make some discrete, cute HTML5 animations
+     - State "CANCELLED"  from "NEXT"       [2013-07-31 Wed 16:43] \\
+       This was really just because I thought HTML5 animations are cool.
+     :PROPERTIES:
+     :ID:       8f8a977b-ac74-4b40-94e8-56c81ea5f60f
+     :END:
+**** DONE Set up build/publishing
+     :LOGBOOK:
+     - State "DONE"       from "NEXT"       [2013-08-04 Sun 16:28]
+     :END:
+     :PROPERTIES:
+     :ID:       66686314-73be-48fb-855a-4a9d41d682ce
+     :END:
+- Add a hook after org publishing to run jekyll and ssh across
+**** TODO Load publishing projects on startup
+  :LOGBOOK:
+  :END:
+  :PROPERTIES:
+  :ID:       9e67941a-8e7a-46cd-98dc-dc11f35c5196
+  :END:
+[2013-07-25 Thu 19:07]
+- I'll want to load up the ucsdwebsite, courses I teach and current projects publishing elisp
+**** DONE Investigate Rake
+     - State "DONE"       from "NEXT"       [2013-07-31 Wed 17:36]
+     :LOGBOOK:
+     CLOCK: [2013-07-31 Wed 16:43]--[2013-07-31 Wed 17:36] =>  0:53
+     :END:
+- Is this useful to me?
+**** TODO rake should create symlinks
+  :PROPERTIES:
+  :ID:       c044d0d3-77f0-43b1-9ac9-1219dac9027c
+  :END:
+[2013-08-06 Tue 20:57]
+
+**** TODO Change course web template
+  SCHEDULED: <2014-04-09 Wed>
+  :LOGBOOK:
+  CLOCK: [2013-09-22 Sun 12:41]--[2013-09-22 Sun 12:42] =>  0:01
+  :END:
+  :PROPERTIES:
+  :ID:       dcc43349-f461-44f9-9403-cf87843bc238
+  :END:
+[2013-09-22 Sun 12:41]
+Remove sidebar
+
+*** DONE Transfer to org mode
+    - State "DONE"       from "NEXT"       [2013-07-24 Wed 11:53]
+    :PROPERTIES:
+    :ID:       5a325cf2-0da9-4e46-b6e0-22700794dbfe
+    :END:
+    :ID:       d4065564-7904-47cc-b82c-68a9e060597e
+    :END:
+*** TODO Website content
+    :PROPERTIES:
+    :ID:       5c8378f9-737c-4a4a-98ea-52d9c4ca3e93
+    :END:
+**** NEXT CV
+     :PROPERTIES:
+     :ID:       27dfad08-3c5c-4678-a6d6-83cf0594c320
+     :END:
+**** DONE Links to papers
+     - State "DONE"       from "SOMEDAY"    [2013-07-24 Wed 11:53]
+     :PROPERTIES:
+     :ID:       001a6a07-ac07-41ab-918a-fea9bd071d53
+     :END:
+**** CANCELLED Make teaching links use org-mode (not literal html)
+     :LOGBOOK:
+     - State "CANCELLED"  from "NEXT"       [2013-08-04 Sun 16:29] \\
+       This might be a bit too fiddly since they are completely seperate projects.
+     :END:
+     :PROPERTIES:
+     :ID:       00795efc-d689-4fa6-852f-0faa0f546268
+     :END:
+- Not sure if I really need this. I guess it might be nice to auto-generate.
+**** TODO Research
+     :PROPERTIES:
+     :ID:       ed25f0fc-5af7-4b30-b955-a584d3e17fdb
+     :END:
+***** DONE Research interests
+      - State "DONE"       from "NEXT"       [2013-07-25 Thu 21:18]
+      :LOGBOOK:
+      :END:
+      :PROPERTIES:
+      :ID:       3dd10810-b2c4-4677-b2c4-e4d542620645
+      :END:
+
+***** NEXT Make research papers link to selected papers instead of arxiv
+      :PROPERTIES:
+      :ID:       440ad9b3-2777-4d7e-b86d-e3f5c63dedc4
+      :END:
+***** NEXT Set up research-in-progress
+      :LOGBOOK:
+      CLOCK: [2013-10-18 Fri 17:35]--[2013-10-18 Fri 18:02] =>  0:27
+      :END:
+      :PROPERTIES:
+      :ID:       edc0e45c-f127-480e-b232-b911c672d53f
+      :END:
+- publish from org to website
+*** TODO Put table padding in website
+    :PROPERTIES:
+    :ID:       24e4b769-7799-460d-8102-12d94d3e145e
+    :END:
+[2013-09-30 Mon 21:11]
+*** TODO Make print/mobile versions of website
+  SCHEDULED: <2014-03-31 Mon>
+[2014-02-10 Mon 15:09]
