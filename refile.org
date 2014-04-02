@@ -1,2 +1,7 @@
 #+FILETAGS: REFILE
-
+* TODO Write org-mode config to handle different hosts and org-versions
+  SCHEDULED: <2014-04-14 Mon>
+  :LOGBOOK:
+  CLOCK: [2014-04-02 Wed 14:32]--[2014-04-02 Wed 14:33] =>  0:01
+  :END:
+[2014-04-02 Wed 14:32]
