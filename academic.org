@@ -1512,9 +1512,13 @@ Probably also need concave comparison functions. This should rule out $\tang_p =
        	:PROPERTIES:
        	:ID:       5cf57941-4d6b-47ca-9ed3-72ed629e304e
        	:END:
-******* DONE Estimate integrals for max principle arg
-       - State "DONE"       from "NEXT"       [2013-05-15 Wed 16:14]
+******* NEXT Estimate integrals for max principle arg
+	 SCHEDULED: <2014-04-02 Wed>
+
     :LOGBOOK:
+    - State "NEXT"       from "DONE"       [2014-04-01 Tue 20:33] \\
+      It's still not written up.
+    - State "DONE"       from "NEXT"       [2013-05-15 Wed 16:14]
     CLOCK: [2013-02-27 Wed 14:34]--[2013-02-27 Wed 15:24] =>  0:50
     CLOCK: [2012-12-21 Fri 13:30]--[2012-12-21 Fri 15:32] =>  2:02
     CLOCK: [2012-12-21 Fri 11:02]--[2012-12-21 Fri 11:51] =>  0:49
@@ -1837,36 +1841,39 @@ That is, Ben and Janelle have proven the backward convergence, and to finish we 
      :END:
 [[http://fds.duke.edu/db/aas/math/bray]]
 ***** Tasks
-****** TODO Learning
+***** TODO Learning
 Look at all dark matter papers. Alan Parry also. Bibliography of course!
-******* NEXT Follow up Hubert Bray's general relativity references
+****** TODO Essay
+- This should be an essay on the work explaining it my way.
+******* NEXT Write outline
+****** NEXT Follow up Hubert Bray's general relativity references
 <2014-03-31 Mon>
 - O'Neil
 - Prove quadratic actions give the same action a'la Cartan and others
 
-******* NEXT Follow up Hubert Bray's dark-matter refs
+****** NEXT Follow up Hubert Bray's dark-matter refs
 <2014-03-31 Mon>
-******* NEXT Read O'Neill semi-Riemannian geometry
-	:LOGBOOK:
-	CLOCK: [2014-02-20 Thu 12:30]--[2014-02-20 Thu 13:16] =>  0:46
-	CLOCK: [2014-02-20 Thu 09:11]--[2014-02-20 Thu 09:33] =>  0:22
-	CLOCK: [2014-02-07 Fri 15:30]--[2014-02-07 Fri 15:43] =>  0:13
-	:END:
+****** NEXT Read O'Neill semi-Riemannian geometry
+       :LOGBOOK:
+       CLOCK: [2014-02-20 Thu 12:30]--[2014-02-20 Thu 13:16] =>  0:46
+       CLOCK: [2014-02-20 Thu 09:11]--[2014-02-20 Thu 09:33] =>  0:22
+       CLOCK: [2014-02-07 Fri 15:30]--[2014-02-07 Fri 15:43] =>  0:13
+       :END:
 
-******* NEXT Read Appendix to Hubert Bray's paper #1
-	:LOGBOOK:
-	CLOCK: [2014-02-16 Sun 14:50]--[2014-02-16 Sun 15:36] =>  0:46
-	:END:
-******* NEXT Study spherical symmetry in Parry
+****** NEXT Read Appendix to Hubert Bray's paper #1
+       :LOGBOOK:
+       CLOCK: [2014-02-16 Sun 14:50]--[2014-02-16 Sun 15:36] =>  0:46
+       :END:
+****** NEXT Study spherical symmetry in Parry
 - two papers about this.
-******* NEXT Read Symmetries and Conservation Laws
-	:LOGBOOK:
-	CLOCK: [2014-02-21 Fri 17:10]--[2014-02-21 Fri 17:38] =>  0:28
-	:END:
-******* NEXT Read Wald
-	:LOGBOOK:
-	CLOCK: [2014-02-24 Mon 11:29]--[2014-02-24 Mon 11:40] =>  0:11
-	:END:
+****** NEXT Read Symmetries and Conservation Laws
+       :LOGBOOK:
+       CLOCK: [2014-02-21 Fri 17:10]--[2014-02-21 Fri 17:38] =>  0:28
+       :END:
+****** NEXT Read Wald
+       :LOGBOOK:
+       CLOCK: [2014-02-24 Mon 11:29]--[2014-02-24 Mon 11:40] =>  0:11
+       :END:
 ***** Notes
 ****** Actions on connections
 ******* Jet bundle approach
@@ -2507,6 +2514,7 @@ I am wondering whether it might be possible to take into account the possible di
       :ID:       95792719-f4e8-45ff-bf7c-7283c2a2dd2e
       :END:
 ****** NEXT Check Mat's, Charlie's and my work and how it fits together.
+       SCHEDULED: <2014-04-02 Wed>
        :PROPERTIES:
        :ID:       189cc302-8dde-4aa2-818e-66d4b9dd0c9f
        :END:
@@ -2946,14 +2954,15 @@ sometimes the bib ref I have has MR<num> but the paper is saved as MR0<num> whic
   :END:
 [2014-03-01 Sat 13:28]
 <2014-04-07 Mon>
-Either by using literal blocks in org-mode or using sagetex I can produce images, animations and so forth in documents<2014-04-01 Tue>
+Either by using literal blocks in org-mode or using sagetex I can produce images, animations and so forth in documents
+<2014-04-07 Mon>
 **** TODO Set up generic publishing
   :LOGBOOK:
   CLOCK: [2014-02-20 Thu 09:08]--[2014-02-20 Thu 09:09] =>  0:01
   :END:
 [2014-02-20 Thu 09:08]
 - I should just be able to publish a project with only specifying the directory and how I want it published (pdf, html, attachments etc.) without writing a publishing file for every project. 
-<2014-04-01 Tue>
+<2014-04-07 Mon>
 *** Literature reviewing
     :LOGBOOK:
     CLOCK: [2012-12-18 Tue 11:10]--[2012-12-18 Tue 11:33] =>  0:23
@@ -4252,6 +4261,7 @@ http://www.dtu.dk/Job/job?id=171c797f-0619-4bd4-a855-8ff6c4990af7
 
 ** Tasks
 *** TODO Write research proposal/statement
+    SCHEDULED: <2014-05-05 Mon>
 <2014-04-01 Tue>
 * Visiting
 ** TODO Tasks
