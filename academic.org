@@ -1846,6 +1846,7 @@ Look at all dark matter papers. Alan Parry also. Bibliography of course!
 ****** TODO Essay
 - This should be an essay on the work explaining it my way.
 ******* NEXT Write outline
+	 SCHEDULED: <2014-04-02 Wed>
 ****** NEXT Follow up Hubert Bray's general relativity references
 <2014-03-31 Mon>
 - O'Neil
@@ -2475,9 +2476,8 @@ In the genus 1 case (where we are not rescaling), the length of the shortest non
 I am wondering whether it might be possible to take into account the possible different topologies of isoperimetric regions in order to get estimates on the isoperimetric profile of $M$ instead of $\tilde M$:  For example out argument shows that the relevant isoperimetric regions are connected and have connected complement, so in the genus 1 case they are either disks, complements of discs, or annuli.   Maybe it is possible to argue separately for each of these cases?
 
 ** Books
-*** Working
-*** Future 							    :SOMEDAY:
-**** TODO MCF Book					     :MCF_BOOK:FOCUS:
+*** Working							      :FOCUS:
+**** TODO MCF Book						   :MCF_BOOK:
 [[file:~/working/academic/research/mcf_book]]
 [[file:~/Dropbox/MCF Project]]
    :PROPERTIES:
@@ -2596,6 +2596,8 @@ In particular, put more detail in.
       :PROPERTIES:
       :ID:       b4fbfad7-31a8-4a53-a2e3-d2453bd33390
       :END:
+
+*** Future 							    :SOMEDAY:
 **** TODO Submanifold book				       :SUBMANIFOLDS:
 [[file:~/working/academic/research/submanifolds_book]]
    :PROPERTIES:
@@ -2683,6 +2685,10 @@ A's go together, Wavelengths go together
 - clawpack: http://depts.washington.edu/clawpack/
 - FETK: http://www.fetk.org/
 - ANUGA: http://anuga.anu.edu.au/
+
+****** TODO Specifications
+******* NEXT Set up TTD process
+	 SCHEDULED: <2014-04-02 Wed>
 
 ***** Files
 [[file:~/working/academic/research/wdm/sage/spiralgalaxy]]
@@ -3445,6 +3451,12 @@ I want to study Gauss maps $(E,X,\pi) \to (\RR^k\times X, X, \pi)$, in particula
   CLOCK: [2014-03-14 Fri 17:20]--[2014-03-14 Fri 18:16] =>  0:56
   CLOCK: [2014-02-14 Fri 17:10]--[2014-02-14 Fri 18:25] =>  1:15
   :END:
+** Research Process
+*** Tasks
+**** TODO Paper/Book reading
+- I should get in the habit of writing my own description of the work and the main ideas as part of the learning process. I need a way to set this up in some sort of project exported to a wiki say?
+***** NEXT Develop way to write my own notes (and publish on my website) on the subject
+      SCHEDULED: <2014-05-05 Mon>
 * Seminars/Conferences
   :PROPERTIES:
   :ID:       1e7a7317-1668-4432-a995-cdaa9293f7af
