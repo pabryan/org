@@ -2693,6 +2693,28 @@ A's go together, Wavelengths go together
 ***** Files
 [[file:~/working/academic/research/wdm/sage/spiralgalaxy]]
 *** Future							    :SOMEDAY:
+**** TODO Riemannian manifolds
+     SCHEDULED: <2014-05-01 Thu>
+***** Tasks
+****** Project organisation
+******* NEXT Create project
+******* NEXT Attract other developers
+***** Notes
+****** Implementation
+- Manifold
+  - Atlas extends cover
+    - chart extends open set
+- cover
+  - list of open sets
+  - transition maps! perhaps represented on boundaries rather than overlaps?
+- frame cover extends cover
+  - open set/frame pair
+- frame
+  - some sort of tuple
+- Riemannian Manifold extends Manifolds
+  - metric
+    what is this exactly? How do I represent it? In charts, covers? I guess so! I can represent it in terms of a matrix function on each open set in a cover.
+***** Refs
 **** TODO ANUGA
      :PROPERTIES:
      :ID:       f7e859a4-1e79-4369-b648-3c606ff307b2
