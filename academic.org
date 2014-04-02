@@ -1256,15 +1256,7 @@ The $K$ term should be divided by $8\pi$.
 
 ***** Notes
 ***** References
-***** TODO Ricci and Kleiner
-  :LOGBOOK:
-  CLOCK: [2014-03-27 Thu 09:22]--[2014-03-27 Thu 09:23] =>  0:01
-  :END:
-[2014-03-27 Thu 09:22]
-Adapt Kleiner's iso proof to Ricci flow
-SCHEDULED: <2014-03-31 Mon>
-
-**** TODO alpha CSF distance comparison				  :CSF_ALPHA:
+**** TODO alpha CSF distance comparison 			  :CSF_ALPHA:
    :LOGBOOK:
    CLOCK: [2013-07-19 Fri 09:53]--[2013-07-19 Fri 09:55] =>  0:02
    CLOCK: [2013-07-16 Tue 11:39]--[2013-07-16 Tue 11:40] =>  0:01
@@ -2304,6 +2296,7 @@ Here we look at a conformal change of metric. The Levy-Gromov comparison doesn't
    :PROPERTIES:
    :ID:       39603eb5-2bec-4118-a705-a5287b9d5ad2
    :END:
+SCHEDULED: <2014-05-01 Thu>
 ***** Files
 [[file:/home/pbryan/working/academic/research/ricci_isoprofile_comparison]]
 ***** Notes
@@ -2325,6 +2318,13 @@ Here we look at a conformal change of metric. The Levy-Gromov comparison doesn't
 	:LOGBOOK:
 	CLOCK: [2014-03-05 Wed 09:45]--[2014-03-05 Wed 10:35] =>  0:50
 	:END:
+****** TODO Ricci and Kleiner
+  :LOGBOOK:
+  CLOCK: [2014-03-27 Thu 09:22]--[2014-03-27 Thu 09:23] =>  0:01
+  :END:
+[2014-03-27 Thu 09:22]
+Adapt Kleiner's iso proof to Ricci flow
+
 **** TODO ricci_pseudo_locality
    :PROPERTIES:
    :ID:       9831a9b5-8a08-43cd-bbfd-bd0b0950a815
