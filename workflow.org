@@ -1764,7 +1764,8 @@ yajl-ruby (1.1.0)
   :END:
 ** Organisation
   :LOGBOOK:
-  CLOCK: [2014-04-02 Wed 12:56]
+  CLOCK: [2014-04-02 Wed 13:58]--[2014-04-02 Wed 14:00] =>  0:02
+  CLOCK: [2014-04-02 Wed 12:56]--[2014-04-02 Wed 13:36] =>  0:40
   CLOCK: [2014-04-01 Tue 11:27]--[2014-04-01 Tue 11:50] =>  0:23
   CLOCK: [2014-04-01 Tue 11:19]--[2014-04-01 Tue 11:24] =>  0:05
   CLOCK: [2014-03-31 Mon 21:05]--[2014-03-31 Mon 21:32] =>  0:27
@@ -3286,8 +3287,10 @@ When I set up scoring the day:
 - [ ] Collate data such as sleep, weight, exercise, diet etc.
 
 ** NEXT Daily Plan [0/7]
-   SCHEDULED: <2014-04-02 Wed .+1d/2d>
+   SCHEDULED: <2014-04-03 Thu .+1d/2d>
    :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2014-04-02 Wed 13:58]
+   CLOCK: [2014-04-02 Wed 13:36]--[2014-04-02 Wed 13:58] =>  0:22
    - State "DONE"       from "NEXT"       [2014-04-01 Tue 11:27]
    CLOCK: [2014-04-01 Tue 11:24]--[2014-04-01 Tue 11:27] =>  0:03
    - State "DONE"       from "NEXT"       [2014-03-31 Mon 10:23]
@@ -3803,7 +3806,7 @@ When I set up scoring the day:
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
    :ID:       ef051ee0-1113-4604-b355-450a5a47848b
-   :LAST_REPEAT: [2014-04-01 Tue 11:27]
+   :LAST_REPEAT: [2014-04-02 Wed 13:58]
    :LAST_REPEAT: [2014-01-25 Sat 12:49]
    :END:
 

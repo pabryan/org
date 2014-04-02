@@ -1805,7 +1805,8 @@ That is, Ben and Janelle have proven the backward convergence, and to finish we 
 	:END:
 ******* NEXT Write details of Alexandrov reflection
 	:LOGBOOK:
-	CLOCK: [2014-04-02 Wed 14:26]
+	CLOCK: [2014-04-02 Wed 14:33]--[2014-04-02 Wed 16:14] =>  1:41
+	CLOCK: [2014-04-02 Wed 14:26]--[2014-04-02 Wed 14:32] =>  0:06
 	:END:
 ******* DONE Write proof of lying in hemisphere
 	:LOGBOOK:
