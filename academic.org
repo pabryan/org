@@ -2696,7 +2696,7 @@ A's go together, Wavelengths go together
 - ANUGA: http://anuga.anu.edu.au/
 
 ****** TODO Specifications
-******* NEXT Set up TTD process
+******* NEXT Set up WDM TTD process
 	 SCHEDULED: <2014-04-02 Wed>
 
 ***** Files
@@ -2723,7 +2723,13 @@ A's go together, Wavelengths go together
 - Riemannian Manifold extends Manifolds
   - metric
     what is this exactly? How do I represent it? In charts, covers? I guess so! I can represent it in terms of a matrix function on each open set in a cover.
-***** Refs
+***** Ref
+****** People
+- http://www.tapir.caltech.edu/~lindblom/
+- http://ccom.ucsd.edu/~mholst/
+****** Discrete Geometry
+- discrete geometry for computer imagery: 11th
+- http://ddg.cs.columbia.edu/
 **** TODO ANUGA
      :PROPERTIES:
      :ID:       f7e859a4-1e79-4369-b648-3c606ff307b2
@@ -4148,8 +4154,12 @@ My experiences learning/implementing these strategies.
       :LOGBOOK:
       CLOCK: [2014-02-17 Mon 11:11]--[2014-02-17 Mon 11:23] =>  0:12
       :END:
-***** TODO humbolt
+***** CANCELLED humbolt
   DEADLINE: <2014-04-01 Tue>
+  :LOGBOOK:
+  - State "CANCELLED"  from "TODO"       [2014-04-02 Wed 13:42] \\
+    Waiting on Australian job application responses.
+  :END:
 [2014-03-08 Sat 19:44]
 http://www.personalabteilung.hu-berlin.de/stellenausschreibungen/six-humboldt-post-doc-fellowships-temporary-positions-full-time-public-sector-pay-scale-13
 
