@@ -1773,8 +1773,9 @@ That is, Ben and Janelle have proven the backward convergence, and to finish we 
        :ID:       e4309a03-3450-4994-a651-42e0666fb7a0
        :END:
 ****** TODO Write paper
-******* NEXT Write paper outline
+******* DONE Write paper outline
 	:LOGBOOK:
+	- State "DONE"       from "NEXT"       [2014-04-02 Wed 14:00]
 	CLOCK: [2014-02-28 Fri 10:46]--[2014-02-28 Fri 11:11] =>  0:25
 	CLOCK: [2014-02-27 Thu 18:34]--[2014-02-27 Thu 19:40] =>  1:06
 	CLOCK: [2014-02-27 Thu 14:35]--[2014-02-27 Thu 15:25] =>  0:50
@@ -1782,6 +1783,7 @@ That is, Ben and Janelle have proven the backward convergence, and to finish we 
 ******* NEXT Incorporate Janelle's work
 	 DEADLINE: <2014-03-31 Mon>
 	 :LOGBOOK:
+	 CLOCK: [2014-04-02 Wed 14:00]
 	 CLOCK: [2014-03-19 Wed 11:29]--[2014-03-19 Wed 12:36] =>  1:07
 	 CLOCK: [2014-03-18 Tue 20:21]--[2014-03-18 Tue 21:18] =>  0:57
 	 CLOCK: [2014-03-17 Mon 11:34]--[2014-03-17 Mon 12:48] =>  1:14
@@ -1807,7 +1809,13 @@ That is, Ben and Janelle have proven the backward convergence, and to finish we 
 	- State "DONE"       from "NEXT"       [2014-02-27 Thu 14:35]
 	CLOCK: [2014-02-04 Tue 16:27]--[2014-02-04 Tue 16:41] =>  0:14
 	:END:
-******* NEXT Find out if $\curvecurv>0$ for ancient solutions (Harnack?)
+******* CANCELLED Find out if $\curvecurv>0$ for ancient solutions (Harnack?)
+	:LOGBOOK:
+	- State "CANCELLED"  from "NEXT"       [2014-04-02 Wed 13:59] \\
+	  We just restrict to convex ancient solutions.
+	:END:
+******* NEXT Check if positive curvature implies convex
+- Clauss Gehardt paper mentions this
 ***** Clocking
 ****** Meetings
        <2013-12-13 Fri 12:00-13:00>
@@ -2730,6 +2738,7 @@ A's go together, Wavelengths go together
 ****** Discrete Geometry
 - discrete geometry for computer imagery: 11th
 - http://ddg.cs.columbia.edu/
+- http://roger.ucsd.edu/search~S9/?searchtype=X&searcharg=Discrete+differential+geometry&searchscope=9&SORT=D&extended=1&SUBMIT=Search&searchlimits=&searchorigarg=dDiscrete+differential+geometry
 **** TODO ANUGA
      :PROPERTIES:
      :ID:       f7e859a4-1e79-4369-b648-3c606ff307b2
