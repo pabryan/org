@@ -2834,7 +2834,7 @@ I could also have author, title, date etc. in the properties drawer! This is red
 No! Maybe I can use reftex and get it to take me to the entry in refs.org? I can certainly due this manually, using reftex to take me to the bib file which gives the ID which I can search for in the org file. Then I don't need to maintain duplicate info in the org and bib files and have all the power of reftex available.
 I'd like to be able to use org-mode views to show papers/books by a given author or by subject. Maybe I can have some sort of hook that uses reftex to do the search and return a list of ID's which is then the filter for org-mode views.
 **** TODO Improve referencing
-  SCHEDULED: <2014-04-01 Tue>
+  SCHEDULED: <2014-04-07 Mon>
   :LOGBOOK:
   CLOCK: [2013-11-16 Sat 10:34]--[2013-11-16 Sat 10:38] =>  0:04
   :END:
@@ -2848,7 +2848,7 @@ I'd like to be able to use org-mode views to show papers/books by a given author
 - Get some Zenderblat refs?
 - Mirror hierarchy from refs.org in directory structure? 
 **** TODO Work out paper getting procedure
-  SCHEDULED: <2014-04-01 Tue>
+  SCHEDULED: <2014-04-07 Mon>
   :LOGBOOK:
   CLOCK: [2014-02-11 Tue 12:54]--[2014-02-11 Tue 12:55] =>  0:01
   :END:
@@ -2993,16 +2993,8 @@ Either by using literal blocks in org-mode or using sagetex I can produce images
 
 Schedule time for research, for teaching and for non-research academic work (e.g. refereeing). That cover's all the sort of work I do.
 
-*** TODO Prove similarity solns (self-shrinkers/translations) have polyomial growth
-  SCHEDULED: <2014-04-03 Thu>
-  :LOGBOOK:
-  :END:
-    :PROPERTIES:
-    :ID:       5efa93c5-e1cd-43ad-8eda-b645af07435e
-    :END:
-[2013-07-15 Mon 10:02]
 *** TODO Make create research project capture
-  SCHEDULED: <2014-04-01 Tue>
+  SCHEDULED: <2014-04-07 Mon>
     :PROPERTIES:
     :ID:       89aab08c-03b4-4561-b868-45bc0088ba34
     :END:
@@ -3012,6 +3004,15 @@ Schedule time for research, for teaching and for non-research academic work (e.g
    :PROPERTIES:
    :ID:       76fc2a4e-0bcf-40b4-aa91-f87c8962f648
    :END:
+*** TODO Prove similarity solns (self-shrinkers/translations) have polynomial growth
+  SCHEDULED: <2014-04-03 Thu>
+  :LOGBOOK:
+  :END:
+    :PROPERTIES:
+    :ID:       5efa93c5-e1cd-43ad-8eda-b645af07435e
+    :END:
+[2013-07-15 Mon 10:02]
+
 *** Distance function and position vector field
     :LOGBOOK:
     CLOCK: [2013-03-13 Wed 15:00]--[2013-03-13 Wed 15:15] =>  0:15
@@ -3324,7 +3325,7 @@ http://mathoverflow.net/questions/14877/how-much-of-differential-geometry-can-be
 ** Open Notebook
 *** Tasks
 **** NEXT Research starting an open notebook
-  SCHEDULED: <2014-04-01 Tue>
+  SCHEDULED: <2014-04-06 Sun>
   :LOGBOOK:
   CLOCK: [2013-08-06 Tue 20:54]--[2013-08-06 Tue 20:55] =>  0:01
   :END:
@@ -4460,5 +4461,5 @@ Remove sidebar
     :END:
 [2013-09-30 Mon 21:11]
 *** TODO Make print/mobile versions of website
-  SCHEDULED: <2014-03-31 Mon>
+  SCHEDULED: <2014-04-07 Mon>
 [2014-02-10 Mon 15:09]
