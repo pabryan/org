@@ -1813,7 +1813,7 @@ That is, Ben and Janelle have proven the backward convergence, and to finish we 
 Given $X$ in the equator, let $\rho_{\alpha}(X)$ be the infimum of the lengths of the geodesic segment joining the points in $\alpha \intersect \pi^{-1}(X)$ to $X$. The order should be in $\rho_{\alpha} > \rho_{\beta}$. Write the subsequent text using $\rho$.
 ******** NEXT Write backwards approximate symmetry
 	 :LOGBOOK:
-	 CLOCK: [2014-04-02 Wed 23:32]
+	 CLOCK: [2014-04-02 Wed 23:32]--[2014-04-03 Thu 00:20] =>  0:48
 	 :END:
 ******** NEXT Write Approximate symmetry preserved
 ******** NEXT Write exact symmetry
