@@ -3427,6 +3427,10 @@ http://mathoverflow.net/questions/14877/how-much-of-differential-geometry-can-be
 
 - Wang? Use Heintze Reilly techniques
 - Do Carmo tells you all about $L^r H$
+*** Set theory without the empty set
+**** Notes
+Is there a consistent (say providing ZFC is consistent) set theory without the empty set? That is, a non-trivial theory implies that there is at least one set. Does there have to be a minimum set under inclusion? Usually we want the empty set as a start point to bootstrap from there, creating say $1, 2, 3, \cdots$ and ordinal numbers. But, does there have to be a starting point?
+
 ** Reading
    :PROPERTIES:
    :ID:       3b692ea2-10eb-4586-ae3e-2006ce6a3c0e
@@ -3557,6 +3561,12 @@ I want to study Gauss maps $(E,X,\pi) \to (\RR^k\times X, X, \pi)$, in particula
 - I should get in the habit of writing my own description of the work and the main ideas as part of the learning process. I need a way to set this up in some sort of project exported to a wiki say?
 ***** NEXT Develop way to write my own notes (and publish on my website) on the subject
       SCHEDULED: <2014-05-05 Mon>
+** Blog
+*** Ideas
+**** The use of coordinates in DG.
+We should take a "structural" or algebraic approach. Coords and frames are useful computational places, and also are essential in the definition. However, many calculations follow say be commuting derivatives etc. and don't need a local coordinate calculation once we already know we have geometrically invariant objects, we can just calculate with the algebraic structure, which exposes what's going on better rather than just some convenient cancellation in orthonormal coordinates. 
+
+However, some things like the action in WDM and general relativity may be defined purely in coords, but yield invariant quantities. How does that happen? Can it be expressed invariantly from the start? In continuum mechanics, we have a non-invariant derivation (i.e. conservation of momentum by integrating the velocity vector field component by component) to obtain an invariant differential equation. How does that happen? The derivation depends on the choice of a Gauss map.
 * Seminars/Conferences
   :PROPERTIES:
   :ID:       1e7a7317-1668-4432-a995-cdaa9293f7af
