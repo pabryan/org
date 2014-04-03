@@ -3103,6 +3103,22 @@ Schedule time for research, for teaching and for non-research academic work (e.g
    :PROPERTIES:
    :ID:       76fc2a4e-0bcf-40b4-aa91-f87c8962f648
    :END:
+*** Derivations
+    SCHEDULED: <2014-05-05 Mon>
+**** Notes
+***** Motivation
+To what extent do the derivations determine the smooth structure? That is, I want to consider differential ringed spaces and say that a smooth structure is such a ringed space. Or in other words, how canonical is a derivation on a ringed space? So, I have a locally ringed space that is locally isomorphic to the smooth functions on $\RR^n$ and this determines the smooth structure and is thus may be equipped with the standard derivations of partial differentiation. What about some sort of converse to this? In other words, what are the derivations on $C^{\infty}(\RR^n)$? Is there some way of characterising the standard derivation? Is it some sort of universal derivation? What are the properties that determine it?
+
+One of my motivations is that any tensor derivation like a connection or Lie derivative, is determined by specifying it's action on smooth functions and on vector fields, then extending it by commuting with tensor products and contractions. What if you chose some other derivation? Does that mean anything? Consider also exotic spheres: do they have different derivations? They must!
+***** Specifying derivations
+On $\RR^n$, we probably want that the constant functions are precisely the zeros of the derivation. So, once we fix the "constants", what else need we do? Well, the next level would be polynomials. The resulting derivation is uniquely determined by specifying $d(x)$ and extending by linearity and the Leibniz rule to all polynomials. The usual choice is $d(x)$, but any choice will work here to give a unique derivation! 
+
+Now, here's the interesting thing. How do I extend the derivation defined on polynomials to smooth functions? I want to approximate a smooth function $f$ by polynomials $p_{\epsilon}$ such that $\|f - p_{\epsilon}\| < \epsilon$ and take a limit. What difference does the topology make? There are many choices for topology here! Does for instance $C^k$ topology give $k$-th order approximations somehow?
+
+Also, can I prove that the usual derivation is the unique derivation satisfying some sort of continuity property? That is, the usual derivation is obtained by taking a limit of difference quotients. Is there some reason why it should be this one? Is there some sort of dependence on parameters here? How do I characterise the usual derivation as a limit in an abstract way?
+
+**** Refs
+**** Tasks
 *** TODO Prove similarity solns (self-shrinkers/translations) have polynomial growth
   SCHEDULED: <2014-04-03 Thu>
   :LOGBOOK:
