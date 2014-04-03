@@ -2726,11 +2726,15 @@ A's go together, Wavelengths go together
 **** TODO Numerical Relativity
      SCHEDULED: <2014-05-05 Mon>
 ***** Refs
+****** Institutions
 https://numrel.aei.mpg.de/
+****** People
+https://numrel.aei.mpg.de/people/radice
 ***** Tasks
 ****** NEXT Design framework for relativity simulation
 - solve Einstein equations on manifolds!
 ***** Notes
+- HSRC Scheme
 *** Future 							    :SOMEDAY:
 **** TODO Riemannian manifolds
      SCHEDULED: <2014-05-01 Thu>
