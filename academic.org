@@ -1783,6 +1783,7 @@ That is, Ben and Janelle have proven the backward convergence, and to finish we 
 ******* NEXT Incorporate Janelle's work
 	 DEADLINE: <2014-03-31 Mon>
 	 :LOGBOOK:
+	 CLOCK: [2014-04-02 Wed 22:26]--[2014-04-02 Wed 23:32] =>  1:06
 	 CLOCK: [2014-04-02 Wed 14:00]--[2014-04-02 Wed 14:26] =>  0:26
 	 CLOCK: [2014-03-19 Wed 11:29]--[2014-03-19 Wed 12:36] =>  1:07
 	 CLOCK: [2014-03-18 Tue 20:21]--[2014-03-18 Tue 21:18] =>  0:57
@@ -1803,11 +1804,21 @@ That is, Ben and Janelle have proven the backward convergence, and to finish we 
 	:LOGBOOK:
 	- State "DONE"       from "TODO"       [2014-04-02 Wed 14:25]
 	:END:
-******* NEXT Write details of Alexandrov reflection
+******* TODO Write details of Alexandrov reflection
 	:LOGBOOK:
 	CLOCK: [2014-04-02 Wed 14:33]--[2014-04-02 Wed 16:14] =>  1:41
 	CLOCK: [2014-04-02 Wed 14:26]--[2014-04-02 Wed 14:32] =>  0:06
 	:END:
+******** NEXT Define distance along equatorial projection and fix ordering
+Given $X$ in the equator, let $\rho_{\alpha}(X)$ be the infimum of the lengths of the geodesic segment joining the points in $\alpha \intersect \pi^{-1}(X)$ to $X$. The order should be in $\rho_{\alpha} > \rho_{\beta}$. Write the subsequent text using $\rho$.
+******** NEXT Write backwards approximate symmetry
+	 :LOGBOOK:
+	 CLOCK: [2014-04-02 Wed 23:32]
+	 :END:
+******** NEXT Write Approximate symmetry preserved
+******** NEXT Write exact symmetry
+******** NEXT Write shrinking circles
+- combine exact symmetry implies circular into theorem.
 ******* DONE Write proof of lying in hemisphere
 	:LOGBOOK:
 	- State "DONE"       from "NEXT"       [2014-04-02 Wed 14:25]
