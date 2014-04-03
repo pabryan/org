@@ -279,7 +279,7 @@
 :END:
 [[papers:MR0284956][MR0284956-paper]]
 [[bib:MR0284956][MR0284956-bib]]
-*** 53.04   (1959-1972) Minimal surfaces 		:minimal:submanifold:
+*** 53.04 (1959-1972) Minimal surfaces 			:minimal:submanifold:
 ***** Minimal varieties in riemannian manifolds 		 :riemannian:
 :PROPERTIES:
 :Custom_ID: MR0233295
@@ -287,6 +287,13 @@
 [[papers:MR0233295][MR0233295-paper]]
 [[bib:MR0233295][MR0233295-bib]]
 
+*** 53.74 (1959-1972) Submanifolds, isometric imbeddings [See also 57.20]
+**** Rigidity and convexity of hypersurfaces in spheres
+:PROPERTIES:
+:Custom_ID: MR0266105
+:END:
+[[papers:MR0266105][MR0266105-paper]]
+[[bib:MR0266105][MR0266105-bib]]
 *** 53A Classical differential geometry				  :classical:
 **** 53AXX
 ***** Contracting convex immersed closed plane curves with slow speed of curvature :convex:evolution:plane:
