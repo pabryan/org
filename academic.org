@@ -2723,7 +2723,15 @@ A's go together, Wavelengths go together
 
 ***** Files
 [[file:~/working/academic/research/wdm/sage/spiralgalaxy]]
-*** Future							    :SOMEDAY:
+**** TODO Numerical Relativity
+     SCHEDULED: <2014-05-05 Mon>
+***** Refs
+https://numrel.aei.mpg.de/
+***** Tasks
+****** NEXT Design framework for relativity simulation
+- solve Einstein equations on manifolds!
+***** Notes
+*** Future 							    :SOMEDAY:
 **** TODO Riemannian manifolds
      SCHEDULED: <2014-05-01 Thu>
 ***** Tasks
@@ -2804,6 +2812,7 @@ In particular I want the combinatorial algebra
        	:END:
 ** Tasks
 *** TODO Organise research papers    
+    SCHEDULED: <2014-05-05 Mon>
     :PROPERTIES:
     :ID:       27dd1954-9abe-4a87-9bcd-36027c643fdb
     :END:
@@ -2812,7 +2821,9 @@ In particular I want the combinatorial algebra
      :ID:       4a632042-e8de-4168-8909-83e146fbd7c7
      :END:
 - Can I export to something browseable/searchable on android/web?
-- Could I export to the web and link to dropbox somehow? I'd need links to dropbox though...
+- Could I export to the web and link to dropbox?
+  link format http://www.dropbox.com/home/<path>
+
 **** TODO File hard copies under bib key
      :PROPERTIES:
      :ID:       133cd7db-b4c3-42ac-bd2a-6e7082bd67f5
@@ -2917,10 +2928,13 @@ I'd like to be able to use org-mode views to show papers/books by a given author
      :END:
 [2013-11-16 Sat 10:34]
 - Write script to get ArXiV refs when they exist
-- File refs automatically
+- File refs automatically into mathscinet category, arxiv category etc.
 - Cross ref mathscinet, arxiv
 - Get some Zenderblat refs?
 - Mirror hierarchy from refs.org in directory structure? 
+- Create author, journal, subject etc. cross references (symlinks!)
+- Put books, lecture notes, web resources etc. into bibtex file
+
 **** TODO Work out paper getting procedure
   SCHEDULED: <2014-04-07 Mon>
   :LOGBOOK:
@@ -2932,7 +2946,7 @@ I want to grab a paper from the internet, possibly the bib entry as well and the
 **** TODO Set up pdf metadata
   SCHEDULED: <2014-04-07 Mon>
 [2014-02-24 Mon 11:21]
-
+- I want to add meta data to pdf's based on bibtex entry
 http://askubuntu.com/questions/27381/how-to-edit-pdf-metadata-from-command-line
 **** TODO Make fix 0's in paper names
 [2014-03-08 Sat 14:54]
@@ -3035,6 +3049,7 @@ Either by using literal blocks in org-mode or using sagetex I can produce images
     CLOCK: [2012-12-18 Tue 09:45]--[2012-12-18 Tue 10:27] =>  0:42
     :END:
 *** TODO Organise Research Projects
+    SCHEDULED: <2014-05-05 Mon>
 **** TODO Set up/organise current research projects
   :LOGBOOK:
   CLOCK: [2014-03-21 Fri 13:10]--[2014-03-21 Fri 13:13] =>  0:03
@@ -3055,6 +3070,11 @@ Either by using literal blocks in org-mode or using sagetex I can produce images
 - iso comp using Kleiner
 - conservation laws with Steve
 
+**** NEXT Put references into project org listing, pointing to refs.org
+- want to include title and author in the reference
+- probably need to add a new reftex format for this
+**** NEXT Fill in project notes
+- I'd like to write the notes in my org entry and export to a wiki or something like that (open notebook wiki)
 *** CANCELLED Schedule academic work so I actually do it!
     SCHEDULED: <2013-03-18 Mon>
     - State "CANCELLED"  from "TODO"       [2013-03-20 Wed 10:24] \\
