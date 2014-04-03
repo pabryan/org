@@ -5,8 +5,11 @@
   CLOCK: [2014-04-02 Wed 14:32]--[2014-04-02 Wed 14:33] =>  0:01
   :END:
 [2014-04-02 Wed 14:32]
-* TODO Update Amanda Gallant's grade
+* DONE Update Amanda Gallant's grade
   SCHEDULED: <2014-04-03 Thu>
+  :LOGBOOK:
+  - State "DONE"       from "TODO"       [2014-04-03 Thu 16:26]
+  :END:
 [2014-04-02 Wed 19:09]
 Just need to update the spreadsheet
 * TODO Missing connections

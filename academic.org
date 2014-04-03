@@ -774,7 +774,7 @@ Classification of compact convex ancient solutions of the planar affine normal f
       :END:
 **** Notes
 ***** TODO Selected papers
-  SCHEDULED: <2014-04-03 Thu>
+  SCHEDULED: <2014-05-05 Mon>
   :LOGBOOK:
   CLOCK: [2013-08-04 Sun 09:49]--[2013-08-04 Sun 09:50] =>  0:01
   :END:
@@ -3135,7 +3135,7 @@ Also, can I prove that the usual derivation is the unique derivation satisfying 
 **** Refs
 **** Tasks
 *** TODO Prove similarity solns (self-shrinkers/translations) have polynomial growth
-  SCHEDULED: <2014-04-03 Thu>
+  SCHEDULED: <2014-05-05 Mon>
   :LOGBOOK:
   :END:
     :PROPERTIES:
