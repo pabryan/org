@@ -856,6 +856,14 @@ Try to use as much available software that I can find. Do it like Sage - don't r
   - Hosted at Banff, Oberwolfach and the like?
 ** Open Publishing
 *** Tasks
+**** TODO Software Platform
+***** NEXT Investigate software to use
+      :LOGBOOK:
+      CLOCK: [2014-04-03 Thu 20:49]
+      :END:
+- selected papers
+- Public Knowledge Project
+- TeX build
 *** Notes
 *** Refs
 *** Meetings
