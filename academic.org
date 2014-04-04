@@ -2789,8 +2789,7 @@ A's go together, Wavelengths go together
 ***** Files
 [[file:~/working/academic/research/wdm/sage/galaxy]]
 ***** Notes
-****** Structure
-******* Spacetime
+****** Spacetime
 - This is the Minkowski manifold. I need to change spiral_galaxy to say wdm_spherically_symmetric_static_spiral_approx
 - Spacetimes are
   - wdm_spherically_symmetric_static
@@ -2798,9 +2797,12 @@ A's go together, Wavelengths go together
   - wdm_spherically_symmetric_static_elliptical_approx
   - wdm_spherically_symmetric_static_dwarf_approx
 - The spacetime consists of the manifold, which should essentially be a mesh and a metric of signature $(-+++)$. The metric may actually need to be computed first. It could be an initial value problem, where we have a three dimensional Riemannian manifold and use that as initial data to solve Einstein's equations. It could be a static space time where we solve based on parameters. On creation the metric should be computed. For these radial Minkowski metrics, this means calculating the potential.
-- We should also have some way of computing gradients, divergence, Laplacian etc. from the metric. This is dependent on the manifold as well and hence the atlas. For the mesh, we shouldn't have to anything different say for meshes of different sizes as long as they are meshes for the same atlas.
-******* Simulations
-Once we have a spacetime, we 
+- We should also have some way of computing gradients, divergence, Laplacian etc. from the metric. This is dependent on the manifold as well and hence the atlas. For the mesh, we shouldn't have to anything different say for meshes of different sizes as long as they are meshes for the same atlas. For instance, Euclidean and Minkowski space are easy to implement. Also putting say radial metrics on these spaces should also be easy to do! Some of these calculations wouldn't have to calculate say $Ric$ from first principles! For the sphere for example, we can hard code it. For rotationally symmetric metrics, we can come up with a nice, simple formula and use that. That is, this part is really dependent on the implementation of the metric, perhaps with a fall back implemented by the base manifold class that calculates from first principles. Thus the sphere implementation overrides the Ric method say and just returns the identity (or whatever it is!).
+****** Simulations
+- From the spacetime, we want to know things like the density, mass profile, rotation curves, run some test-particle simulations.
+****** WDM 
+******* Approx model
+We solve for the metric and come up with various parameters such as $U, W$. These should be kept in memory since they can be used to calculate other quantities such as the density.
 **** TODO Numerical Relativity
      SCHEDULED: <2014-05-05 Mon>
 ***** Refs
