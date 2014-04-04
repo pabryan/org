@@ -2740,15 +2740,19 @@ This is about convex functions, viscosity solutions, barrier solutions and so fo
 	CLOCK: [2014-03-31 Mon 17:31]--[2014-03-31 Mon 17:52] =>  0:21
 	:END:
 ****** TODO Code structure
-******* NEXT Set up classes for computation
-******** NEXT Come up with class hierarchy
+******* TODO Set up classes for computation
+******** DONE Come up with class hierarchy
 	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2014-04-04 Fri 15:17]
 	 CLOCK: [2014-04-04 Fri 13:07]--[2014-04-04 Fri 14:07] =>  1:00
 	 :END:
 - Galaxy -> spiral|elliptical|dwarf spheroidal 
 - where do I put the stress-tensor? I should have a stress tensor interface perhaps and have various implementations such as wdm, scalar field, regular matter, electromagnetic field. The galaxy code should allow for a collection of stress tensors.
 - how about setting up the mesh?
 ******** NEXT Split up parameters
+	 :LOGBOOK:
+	 CLOCK: [2014-04-04 Fri 15:19]
+	 :END:
 - there are computational parameters
 - there are general parameters common to all galaxies
 - there are model specific parameters (like spherical harmonic coefficients, cosmological constants, wave dark matter fundamental constants)
@@ -2784,6 +2788,19 @@ A's go together, Wavelengths go together
 ******* NEXT Create specs (via tests!)
 ***** Files
 [[file:~/working/academic/research/wdm/sage/galaxy]]
+***** Notes
+****** Structure
+******* Spacetime
+- This is the Minkowski manifold. I need to change spiral_galaxy to say wdm_spherically_symmetric_static_spiral_approx
+- Spacetimes are
+  - wdm_spherically_symmetric_static
+  - wdm_spherically_symmetric_static_spiral_approx
+  - wdm_spherically_symmetric_static_elliptical_approx
+  - wdm_spherically_symmetric_static_dwarf_approx
+- The spacetime consists of the manifold, which should essentially be a mesh and a metric of signature $(-+++)$. The metric may actually need to be computed first. It could be an initial value problem, where we have a three dimensional Riemannian manifold and use that as initial data to solve Einstein's equations. It could be a static space time where we solve based on parameters. On creation the metric should be computed. For these radial Minkowski metrics, this means calculating the potential.
+- We should also have some way of computing gradients, divergence, Laplacian etc. from the metric. This is dependent on the manifold as well and hence the atlas. For the mesh, we shouldn't have to anything different say for meshes of different sizes as long as they are meshes for the same atlas.
+******* Simulations
+Once we have a spacetime, we 
 **** TODO Numerical Relativity
      SCHEDULED: <2014-05-05 Mon>
 ***** Refs
