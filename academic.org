@@ -2741,6 +2741,9 @@ This is about convex functions, viscosity solutions, barrier solutions and so fo
 ****** TODO Code structure
 ******* TODO Set up classes for computation
 ******** NEXT Come with class hierarchy
+	 :LOGBOOK:
+	 CLOCK: [2014-04-04 Fri 13:07]--[2014-04-04 Fri 14:07] =>  1:00
+	 :END:
 - Galaxy -> spiral|elliptical|dwarf spheroidal 
 - where do I put the stress-tensor? I should have a stress tensor interface perhaps and have various implementations such as wdm, scalar field, regular matter, electromagnetic field. The galaxy code should allow for a collection of stress tensors.
 - how about setting up the mesh?
