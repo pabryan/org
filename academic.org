@@ -2727,8 +2727,9 @@ This is about convex functions, viscosity solutions, barrier solutions and so fo
        	:PROPERTIES:
        	:ID:       4e2db7a9-fc15-473e-b09e-bde6e8d52d97
        	:END:
-******* NEXT Work out algorithm 
+******* DONE Work out algorithm 
 	:LOGBOOK:
+	- State "DONE"       from "NEXT"       [2014-04-04 Fri 14:50]
 	CLOCK: [2014-03-31 Mon 17:57]--[2014-03-31 Mon 18:15] =>  0:18
 	CLOCK: [2014-03-31 Mon 17:26]--[2014-03-31 Mon 17:31] =>  0:05
 	CLOCK: [2014-03-31 Mon 16:09]--[2014-03-31 Mon 16:53] =>  0:44
@@ -2739,8 +2740,8 @@ This is about convex functions, viscosity solutions, barrier solutions and so fo
 	CLOCK: [2014-03-31 Mon 17:31]--[2014-03-31 Mon 17:52] =>  0:21
 	:END:
 ****** TODO Code structure
-******* TODO Set up classes for computation
-******** NEXT Come with class hierarchy
+******* NEXT Set up classes for computation
+******** NEXT Come up with class hierarchy
 	 :LOGBOOK:
 	 CLOCK: [2014-04-04 Fri 13:07]--[2014-04-04 Fri 14:07] =>  1:00
 	 :END:
@@ -2773,12 +2774,14 @@ A's go together, Wavelengths go together
 - ANUGA: http://anuga.anu.edu.au/
 
 ****** TODO Specifications
-******* NEXT Set up WDM TTD process
+******* DONE Set up WDM TTD process
 	 SCHEDULED: <2014-04-02 Wed>
 	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2014-04-04 Fri 14:50]
 	 CLOCK: [2014-04-04 Fri 09:49]--[2014-04-04 Fri 11:12] =>  1:23
 	 :END:
 
+******* NEXT Create specs (via tests!)
 ***** Files
 [[file:~/working/academic/research/wdm/sage/galaxy]]
 **** TODO Numerical Relativity
