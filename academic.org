@@ -3486,7 +3486,7 @@ Is there a consistent (say providing ZFC is consistent) set theory without the e
 ** Open Notebook
 *** Tasks
 **** NEXT Research starting an open notebook
-  SCHEDULED: <2014-04-06 Sun>
+  SCHEDULED: <2014-05-01 Thu>
   :LOGBOOK:
   CLOCK: [2013-08-06 Tue 20:54]--[2013-08-06 Tue 20:55] =>  0:01
   :END:
@@ -3525,7 +3525,7 @@ Is there a consistent (say providing ZFC is consistent) set theory without the e
    :ID:       0609581e-fe50-48ce-aa33-ce468c217f92
    :END:
 *** HOLD GMT								:GMT:
-    SCHEDULED: <2014-04-06 Sun>
+    SCHEDULED: <2014-05-01 Thu>
     :LOGBOOK:
     - State "HOLD"       from "TODO"       [2013-08-04 Sun 16:45] \\
       Don't have time for this right now!
@@ -4422,8 +4422,12 @@ http://www.uu.se/en/jobs/?positionId=32145
 **** TODO DTU
 http://www.uu.se/en/jobs/?positionId=32145
 ***** Tasks
-****** NEXT Investigate DTU
+****** CANCELLED Investigate DTU
        DEADLINE: <2014-04-06 Sun>
+       :LOGBOOK:
+       - State "CANCELLED"  from "NEXT"       [2014-04-04 Fri 09:36] \\
+	 I'll wait on reply from Aussie jobs before applying for other.
+       :END:
 
 http://www.dtu.dk/Job/job?id=171c797f-0619-4bd4-a855-8ff6c4990af7
 
@@ -4451,7 +4455,7 @@ http://www.dtu.dk/Job/job?id=171c797f-0619-4bd4-a855-8ff6c4990af7
      - State "DONE"       from "NEXT"       [2014-02-25 Tue 17:01]
      :END:
 *** 
-* Personal Website						      :FOCUS:
+* Personal Website
   :PROPERTIES:
   :ID:       05f896fc-0400-4ac3-bfef-5e3c5457fd02
   :END:

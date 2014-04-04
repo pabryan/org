@@ -1680,6 +1680,7 @@ http://ubuntuforums.org/showthread.php?t=430312
   SCHEDULED: <2014-04-07 Mon>
 [2014-02-28 Fri 11:45]
 **** TODO Check out patch-commit
+     SCHEDULED: <2014-05-01 Thu>
   <2014-04-06 Sun>
 [2014-03-15 Sat 22:38]
 
@@ -1764,6 +1765,7 @@ yajl-ruby (1.1.0)
   :END:
 ** Organisation
   :LOGBOOK:
+  CLOCK: [2014-04-04 Fri 09:26]--[2014-04-04 Fri 09:28] =>  0:02
   CLOCK: [2014-04-03 Thu 16:32]--[2014-04-03 Thu 17:22] =>  0:50
   CLOCK: [2014-04-03 Thu 16:24]--[2014-04-03 Thu 16:25] =>  0:01
   CLOCK: [2014-04-02 Wed 22:23]--[2014-04-02 Wed 22:26] =>  0:03
@@ -3296,6 +3298,7 @@ When I set up scoring the day:
 ** NEXT Daily Plan [0/7]
    SCHEDULED: <2014-04-04 Fri .+1d/2d>
    :LOGBOOK:
+   CLOCK: [2014-04-04 Fri 09:28]
    - State "DONE"       from "NEXT"       [2014-04-03 Thu 16:32]
    CLOCK: [2014-04-03 Thu 16:25]--[2014-04-03 Thu 16:32] =>  0:07
    - State "DONE"       from "NEXT"       [2014-04-02 Wed 13:58]
