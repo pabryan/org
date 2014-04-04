@@ -2739,7 +2739,15 @@ This is about convex functions, viscosity solutions, barrier solutions and so fo
 	CLOCK: [2014-03-31 Mon 17:31]--[2014-03-31 Mon 17:52] =>  0:21
 	:END:
 ****** TODO Code structure
-******* NEXT Set up classes for computation
+******* TODO Set up classes for computation
+******** NEXT Come with class hierarchy
+- Galaxy -> spiral|elliptical|dwarf spheroidal 
+- where do I put the stress-tensor? I should have a stress tensor interface perhaps and have various implementations such as wdm, scalar field, regular matter, electromagnetic field. The galaxy code should allow for a collection of stress tensors.
+- how about setting up the mesh?
+******** NEXT Split up parameters
+- there are computational parameters
+- there are general parameters common to all galaxies
+- there are model specific parameters (like spherical harmonic coefficients, cosmological constants, wave dark matter fundamental constants)
 ******* TODO Data structures
 ******** NEXT Group related parameters together
 A's go together, Wavelengths go together
