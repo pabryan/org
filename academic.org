@@ -2717,7 +2717,10 @@ This is about convex functions, viscosity solutions, barrier solutions and so fo
      :ID:       0913954b-8493-4a92-8001-cbfd573ecbf3
      :END:
 ***** Tasks
-****** TODO Import code
+****** DONE Import code
+       :LOGBOOK:
+       - State "DONE"       from "TODO"       [2014-04-04 Fri 15:44]
+       :END:
 ******* DONE Get Hubert's matlab code into Python/Sage
        	DEADLINE: <2014-03-28 Fri>
        	:LOGBOOK:
@@ -2735,8 +2738,10 @@ This is about convex functions, viscosity solutions, barrier solutions and so fo
 	CLOCK: [2014-03-31 Mon 16:09]--[2014-03-31 Mon 16:53] =>  0:44
 	CLOCK: [2014-03-26 Wed 11:20]--[2014-03-26 Wed 11:41] =>  0:21
 	:END:
-******* NEXT Refactor code into clean code
+******* DONE Refactor code into clean code
 	:LOGBOOK:
+	- State "DONE"       from "NEXT"       [2014-04-04 Fri 15:43] \\
+	  This has been broken up into code structure tasks.
 	CLOCK: [2014-03-31 Mon 17:31]--[2014-03-31 Mon 17:52] =>  0:21
 	:END:
 ****** TODO Code structure
@@ -2762,7 +2767,18 @@ A's go together, Wavelengths go together
 ******** NEXT Split computational parameters from initialisation
 - Initialisation should just set up galaxy with coefficients, angular parameters etc.
 - dr, dt, rmax etc. are computational parameters and should only be set when doing the computation
-****** TODO Numerics
+******* TODO Algorithm
+******** NEXT Write clean version of compute metric
+******** NEXT Write clean version of compute wdm scalar field
+******** NEXT Write clean version of compute U
+******** NEXT Write clean version of compute density
+******** NEXT Write clean version of compute W
+******** NEXT Write clean version of compute potential
+******** NEXT Write clean version of potential gradient
+******** NEXT Write clean version of mass profile
+******** NEXT Write clean version of rotation curve
+******** NEXT test-particle simulation
+****** TODO Numerical implementation
 ******* DONE Investigate best use of numpy arrays
        	:LOGBOOK:
 	- State "DONE"       from "NEXT"       [2014-04-04 Fri 14:49]
@@ -2786,6 +2802,8 @@ A's go together, Wavelengths go together
 	 :END:
 
 ******* NEXT Create specs (via tests!)
+****** TODO Plotting
+******* NEXT Figure out which plots we need.
 ***** Files
 [[file:~/working/academic/research/wdm/sage/galaxy]]
 ***** Notes
