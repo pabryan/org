@@ -2762,6 +2762,9 @@ A's go together, Wavelengths go together
 ****** TODO Specifications
 ******* NEXT Set up WDM TTD process
 	 SCHEDULED: <2014-04-02 Wed>
+	 :LOGBOOK:
+	 CLOCK: [2014-04-04 Fri 09:49]
+	 :END:
 
 ***** Files
 [[file:~/working/academic/research/wdm/sage/spiralgalaxy]]
@@ -4028,6 +4031,7 @@ Rowland Hall 340P
 [[file:~/working/academic/seminars/ucsc_colloquium_spring_2014]]
 ***** TODO Slides
 ****** NEXT Set up slides
+       DEADLINE: <2014-04-12 Sat>
        :LOGBOOK:
        CLOCK: [2014-03-29 Sat 15:06]--[2014-03-29 Sat 15:27] =>  0:21
        CLOCK: [2014-03-29 Sat 10:59]--[2014-03-29 Sat 11:27] =>  0:28
