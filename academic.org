@@ -2745,7 +2745,10 @@ This is about convex functions, viscosity solutions, barrier solutions and so fo
 	CLOCK: [2014-03-31 Mon 17:31]--[2014-03-31 Mon 17:52] =>  0:21
 	:END:
 ****** TODO Code structure
-******* TODO Set up classes for computation
+******* DONE Set up classes for computation
+	:LOGBOOK:
+	- State "DONE"       from "TODO"       [2014-04-04 Fri 20:03]
+	:END:
 ******** DONE Come up with class hierarchy
 	 :LOGBOOK:
 	 - State "DONE"       from "NEXT"       [2014-04-04 Fri 15:17]
@@ -2756,7 +2759,7 @@ This is about convex functions, viscosity solutions, barrier solutions and so fo
 - how about setting up the mesh?
 ******** DONE Split up parameters
 	 :LOGBOOK:
-	 CLOCK: [2014-04-04 Fri 19:20]
+	 CLOCK: [2014-04-04 Fri 19:20]--[2014-04-04 Fri 20:04] =>  0:44
 	 - State "DONE"       from "NEXT"       [2014-04-04 Fri 16:28]
 	 CLOCK: [2014-04-04 Fri 15:19]--[2014-04-04 Fri 16:28] =>  1:09
 	 :END:
@@ -2764,13 +2767,22 @@ This is about convex functions, viscosity solutions, barrier solutions and so fo
 - there are general parameters common to all galaxies
 - there are model specific parameters (like spherical harmonic coefficients, cosmological constants, wave dark matter fundamental constants)
 ******* TODO Data structures
-******** NEXT Group related parameters together
+******** DONE Group related parameters together
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2014-04-04 Fri 20:04]
+	 :END:
 A's go together, Wavelengths go together
-******** NEXT Split computational parameters from initialisation
+******** DONE Split computational parameters from initialisation
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2014-04-04 Fri 20:04]
+	 :END:
 - Initialisation should just set up galaxy with coefficients, angular parameters etc.
 - dr, dt, rmax etc. are computational parameters and should only be set when doing the computation
 ******* TODO Algorithm
 ******** NEXT Write clean version of compute metric
+	 :LOGBOOK:
+	 CLOCK: [2014-04-04 Fri 20:04]
+	 :END:
 ******** NEXT Write clean version of compute wdm scalar field
 ******** NEXT Write clean version of compute U
 ******** NEXT Write clean version of compute density
