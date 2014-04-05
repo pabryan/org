@@ -2756,6 +2756,7 @@ This is about convex functions, viscosity solutions, barrier solutions and so fo
 - how about setting up the mesh?
 ******** DONE Split up parameters
 	 :LOGBOOK:
+	 CLOCK: [2014-04-04 Fri 19:20]
 	 - State "DONE"       from "NEXT"       [2014-04-04 Fri 16:28]
 	 CLOCK: [2014-04-04 Fri 15:19]--[2014-04-04 Fri 16:28] =>  1:09
 	 :END:
