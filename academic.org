@@ -2779,9 +2779,14 @@ A's go together, Wavelengths go together
 - Initialisation should just set up galaxy with coefficients, angular parameters etc.
 - dr, dt, rmax etc. are computational parameters and should only be set when doing the computation
 ******* TODO Algorithm
-******** NEXT Write clean version of compute metric
+******** DONE Write clean version of compute metric
 	 :LOGBOOK:
-	 CLOCK: [2014-04-04 Fri 20:04]
+	 - State "DONE"       from "NEXT"       [2014-04-04 Fri 20:56]
+	 CLOCK: [2014-04-04 Fri 20:04]--[2014-04-04 Fri 20:56] =>  0:52
+	 :END:
+******** DONE Write clean version of compute radial components of spherical harmonics
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2014-04-04 Fri 20:56]
 	 :END:
 ******** NEXT Write clean version of compute wdm scalar field
 ******** NEXT Write clean version of compute U
