@@ -2851,6 +2851,8 @@ Need to compare with tests when I have one!
 ****** WDM 
 ******* Approx model
 We solve for the metric and come up with various parameters such as $U, W$. These should be kept in memory since they can be used to calculate other quantities such as the density.
+****** Numerics
+- code like a/b/c is confusing (e.g. patternperiod/8/pi). It seems like a/b/c = a*c/b, but in fact it's a/(b*c).
 **** TODO Numerical Relativity
      SCHEDULED: <2014-05-05 Mon>
 ***** Refs
