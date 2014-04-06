@@ -2823,6 +2823,8 @@ Need to compare with tests when I have one!
 - FETK: http://www.fetk.org/
 - ANUGA: http://anuga.anu.edu.au/
 
+******* NEXT Set initial values based on power series expansion
+diff. eqn. is singular at $r=0$ so we can't start at $r=0$. We should set the initial condition at $r=\epsilon$ from a power series expansion of the solution.
 ****** TODO Specifications
 ******* DONE Set up WDM TTD process
 	 SCHEDULED: <2014-04-02 Wed>
