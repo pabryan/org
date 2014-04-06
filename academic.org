@@ -2791,9 +2791,10 @@ A's go together, Wavelengths go together
 	 :LOGBOOK:
 	 - State "DONE"       from "NEXT"       [2014-04-04 Fri 20:56]
 	 :END:
-******** NEXT Write clean version of compute wdm scalar field
+******** DONE Write clean version of compute wdm scalar field
 	 :LOGBOOK:
-	 CLOCK: [2014-04-05 Sat 19:56]
+	 - State "DONE"       from "NEXT"       [2014-04-05 Sat 21:48]
+	 CLOCK: [2014-04-05 Sat 19:56]--[2014-04-05 Sat 21:48] =>  1:52
 	 CLOCK: [2014-04-05 Sat 18:10]--[2014-04-05 Sat 18:27] =>  0:17
 	 :END:
 I should be able to use the following code: 
@@ -2801,6 +2802,9 @@ I should be able to use the following code:
 Need to compare with tests when I have one!
 
 ******** NEXT Write clean version of compute U
+	 :LOGBOOK:
+	 CLOCK: [2014-04-05 Sat 21:48]
+	 :END:
 ******** NEXT Write clean version of compute density
 ******** NEXT Write clean version of compute W
 ******** NEXT Write clean version of compute potential
