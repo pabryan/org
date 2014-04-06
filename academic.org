@@ -2801,11 +2801,11 @@ I should be able to use the following code:
 #        return [solution[1][0] for solution in fsolver.solution]
 Need to compare with tests when I have one!
 
+******** NEXT Write clean version of compute density
 ******** NEXT Write clean version of compute U
 	 :LOGBOOK:
-	 CLOCK: [2014-04-05 Sat 21:48]
+	 CLOCK: [2014-04-05 Sat 21:48]--[2014-04-05 Sat 23:37] =>  1:49
 	 :END:
-******** NEXT Write clean version of compute density
 ******** NEXT Write clean version of compute W
 ******** NEXT Write clean version of compute potential
 ******** NEXT Write clean version of potential gradient
