@@ -2801,11 +2801,12 @@ I should be able to use the following code:
 #        return [solution[1][0] for solution in fsolver.solution]
 Need to compare with tests when I have one!
 
-******** NEXT Write clean version of compute density
 ******** NEXT Write clean version of compute U
 	 :LOGBOOK:
+	 CLOCK: [2014-04-06 Sun 11:45]
 	 CLOCK: [2014-04-05 Sat 21:48]--[2014-04-05 Sat 23:37] =>  1:49
 	 :END:
+******** NEXT Write clean version of compute density
 ******** NEXT Write clean version of compute W
 ******** NEXT Write clean version of compute potential
 ******** NEXT Write clean version of potential gradient
@@ -2844,6 +2845,8 @@ diff. eqn. is singular at $r=0$ so we can't start at $r=0$. We should set the in
 ******* NEXT Create specs (via tests!).
 - make task lists for the specs, or perhaps the tasks just go in the "create clean code" version of ... with the tacit assumption that this implies tests are also written.
 - The specs should not *ever* use the objects to test to create expected values! For instance, I have tests that create a galaxy object for testing and grab nsteps from the object to use in the expected values. This is not good! I should have an expected nsteps and use that to test the code generates the correct nsteps!
+******* TODO Spiral galaxy tests
+******** NEXT Move calculation of expected f's, U's etc. into setup
 ****** TODO Plotting
 ******* NEXT Figure out which plots we need.
 ***** Files
