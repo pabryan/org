@@ -2793,6 +2793,7 @@ A's go together, Wavelengths go together
 	 :END:
 ******** NEXT Write clean version of compute wdm scalar field
 	 :LOGBOOK:
+	 CLOCK: [2014-04-05 Sat 19:56]
 	 CLOCK: [2014-04-05 Sat 18:10]--[2014-04-05 Sat 18:27] =>  0:17
 	 :END:
 I should be able to use the following code: 
