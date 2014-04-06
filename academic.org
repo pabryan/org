@@ -2847,6 +2847,8 @@ diff. eqn. is singular at $r=0$ so we can't start at $r=0$. We should set the in
 - The specs should not *ever* use the objects to test to create expected values! For instance, I have tests that create a galaxy object for testing and grab nsteps from the object to use in the expected values. This is not good! I should have an expected nsteps and use that to test the code generates the correct nsteps!
 ******* TODO Spiral galaxy tests
 ******** NEXT Move calculation of expected f's, U's etc. into setup
+******** NEXT Test every required parameter is not missing
+******** NEXT Refactor tests so test variables are named test_<variable> and expected variables are named expected_<variable>
 ****** TODO Plotting
 ******* NEXT Figure out which plots we need.
 ***** Files
