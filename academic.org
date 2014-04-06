@@ -2766,7 +2766,10 @@ This is about convex functions, viscosity solutions, barrier solutions and so fo
 - there are computational parameters
 - there are general parameters common to all galaxies
 - there are model specific parameters (like spherical harmonic coefficients, cosmological constants, wave dark matter fundamental constants)
-******* TODO Data structures
+******* DONE Data structures
+	:LOGBOOK:
+	- State "DONE"       from "TODO"       [2014-04-05 Sat 18:22]
+	:END:
 ******** DONE Group related parameters together
 	 :LOGBOOK:
 	 - State "DONE"       from "NEXT"       [2014-04-04 Fri 20:04]
@@ -2789,6 +2792,13 @@ A's go together, Wavelengths go together
 	 - State "DONE"       from "NEXT"       [2014-04-04 Fri 20:56]
 	 :END:
 ******** NEXT Write clean version of compute wdm scalar field
+	 :LOGBOOK:
+	 CLOCK: [2014-04-05 Sat 18:10]--[2014-04-05 Sat 18:27] =>  0:17
+	 :END:
+I should be able to use the following code: 
+#        return [solution[1][0] for solution in fsolver.solution]
+Need to compare with tests when I have one!
+
 ******** NEXT Write clean version of compute U
 ******** NEXT Write clean version of compute density
 ******** NEXT Write clean version of compute W
