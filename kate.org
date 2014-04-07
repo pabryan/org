@@ -148,9 +148,10 @@ http://www.etsy.com/listing/113210154/the-never-ending-story-steampunk-vintage?r
 3960 NORMAL ST
 SAN DIEGO, CA
 confirmation: 5061008131350
-*** WAITING Book Driving test
+*** DONE Book Driving test
     <2013-11-04 Mon>
   :LOGBOOK:
+  - State "DONE"       from "WAITING"    [2014-04-07 Mon 11:12]
   - State "WAITING"    from "TODO"       [2013-11-04 Mon 20:43] \\
     Sent Kate an email reminder to book it.
   CLOCK: [2013-10-17 Thu 17:14]--[2013-10-17 Thu 17:15] =>  0:01
@@ -161,6 +162,8 @@ confirmation: 5061008131350
 [2013-10-17 Thu 17:14]
 1-800-777-0133
 
+*** DMV Security clearance appointment
+<2014-04-15 Tue 10:35-12:00>
 * Shows
 ** Tasks
 *** TODO Backup Kate's videos
