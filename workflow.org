@@ -3850,10 +3850,10 @@ When I set up scoring the day:
 - [ ] Do short tasks
 - [ ] Record morning health stats
 
-** NEXT Weekly Review [3/19]
+** NEXT Weekly Review [17/19]
    SCHEDULED: <2013-12-01 Sun +1w>
    :LOGBOOK:
-   CLOCK: [2014-04-07 Mon 11:22]
+   CLOCK: [2014-04-07 Mon 11:22]--[2014-04-07 Mon 12:04] =>  0:42
    CLOCK: [2014-04-01 Tue 11:50]--[2014-04-01 Tue 12:43] =>  0:53
    CLOCK: [2014-03-31 Mon 11:58]--[2014-03-31 Mon 13:23] =>  1:25
    CLOCK: [2014-03-31 Mon 10:24]--[2014-03-31 Mon 10:27] =>  0:03
@@ -3969,31 +3969,31 @@ What to review:
   [[file:~/holding]]
 - [X] Check holding email folder
 - [X] Review weekly agenda =F12 a w//=
-- [ ] Check clocking data for past week =v c=
+- [X] Check clocking data for past week =v c=
   - fix up any errors
-- [ ] Review clock report for past week =R=
+- [X] Review clock report for past week =R=
   - Check where we spent time (too much or too little) and rectify this week
-- [ ] Look at entire agenda for today  =F12 SPC=
-- [ ] Check un-committed work
-- [ ] Refile tasks
-- [ ] Weekly clean up
-  - [ ] Clean up Downloads
-  - [ ] Clean up tmp
-  - [ ] Clean up tablet
-  - [ ] Clean up phone
-- [ ] Process incoming information
-  - feedly
-  - pocket
-- [ ] Review focus projects 
-- [ ] Set focus
-- [ ] Check follow-up paper folder
+- [X] Look at entire agenda for today  =F12 SPC=
+- [X] Check un-committed work
+- [X] Refile tasks
+- [X] Weekly clean up
+  - [X] Clean up Downloads
+  - [X] Clean up tmp
+  - [X] Clean up tablet
+  - [X] Clean up phone
+- [-] Process incoming information
+  - [X] feedly
+  - [ ] pocket
+- [X] Review focus projects 
+- [X] Set focus
+- [X] Check follow-up paper folder
 - [ ] Collate the weeks scribbles
-- [ ] Check Finances
+- [X] Check Finances
   - Check bank accounts and compare with what's still to come
-- [ ] Copy music to phone
-- [ ] Share photos on Google+
-- [ ] Update Abundant Harvest order
-- [ ] Order meat
+- [X] Copy music to phone
+- [X] Share photos on Google+
+- [X] Update Abundant Harvest order
+- [X] Order meat
   - http://www.son-riseranchstore.com/
 
 ** NEXT Monthly Plan/Review [0/5]
