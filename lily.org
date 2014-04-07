@@ -35,8 +35,12 @@ I need free close by activities: playground, beach, library?
 [2013-09-11 Wed 14:42]
 ** Gardening
 
-*** TODO Find pot veggie growing books for kids
+*** CANCELLED Find pot veggie growing books for kids
   SCHEDULED: <2014-02-03 Mon>
+  :LOGBOOK:
+  - State "CANCELLED"  from "TODO"       [2014-04-06 Sun 19:15] \\
+    Don't really need a book. We have plants and pots!
+  :END:
   :PROPERTIES:
   :ID:       5f362eca-e1af-4f2c-a087-4b3a09e5b494
   :END:
