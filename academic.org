@@ -2803,6 +2803,7 @@ Need to compare with tests when I have one!
 
 ******** NEXT Write clean version of compute U
 	 :LOGBOOK:
+	 CLOCK: [2014-04-07 Mon 14:15]
 	 CLOCK: [2014-04-06 Sun 11:45]--[2014-04-06 Sun 13:25] =>  1:40
 	 CLOCK: [2014-04-05 Sat 21:48]--[2014-04-05 Sat 23:37] =>  1:49
 	 :END:
@@ -2842,9 +2843,11 @@ diff. eqn. is singular at $r=0$ so we can't start at $r=0$. We should set the in
 	 CLOCK: [2014-04-04 Fri 09:49]--[2014-04-04 Fri 11:12] =>  1:23
 	 :END:
 
-******* NEXT Create specs (via tests!).
+******* DONE Create specs (via tests!).
+	:LOGBOOK:
+	- State "DONE"       from "NEXT"       [2014-04-07 Mon 15:28]
+	:END:
 - make task lists for the specs, or perhaps the tasks just go in the "create clean code" version of ... with the tacit assumption that this implies tests are also written.
-- The specs should not *ever* use the objects to test to create expected values! For instance, I have tests that create a galaxy object for testing and grab nsteps from the object to use in the expected values. This is not good! I should have an expected nsteps and use that to test the code generates the correct nsteps!
 ******* TODO Spiral galaxy tests
 ******** NEXT Move calculation of expected f's, U's etc. into setup
 ******** NEXT Test every required parameter is not missing
@@ -2870,6 +2873,10 @@ diff. eqn. is singular at $r=0$ so we can't start at $r=0$. We should set the in
 We solve for the metric and come up with various parameters such as $U, W$. These should be kept in memory since they can be used to calculate other quantities such as the density.
 ****** Numerics
 - code like a/b/c is confusing (e.g. patternperiod/8/pi). It seems like a/b/c = a*c/b, but in fact it's a/(b*c).
+****** Specs
+******* General
+- The specs should not *ever* use the objects to test to create expected values! For instance, I have tests that create a galaxy object for testing and grab nsteps from the object to use in the expected values. This is not good! I should have an expected nsteps and use that to test the code generates the correct nsteps!
+
 **** TODO Numerical Relativity
      SCHEDULED: <2014-05-05 Mon>
 ***** Refs
