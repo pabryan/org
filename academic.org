@@ -2814,6 +2814,9 @@ Need to compare with tests when I have one!
 ******** NEXT Write clean version of mass profile
 ******** NEXT Write clean version of rotation curve
 ******** NEXT test-particle simulation
+******* TODO Error Handling
+******** NEXT Investigate removing check_parameters?
+- perhaps some of this could be allowed to throw exceptions later. Do I really need to check all the non-zero guys are really non-zero? The *only* reason for doing it is to prevent long computations that may fail later. Does this actually happen, or are these errors caught earlier?
 ****** TODO Numerical implementation
 ******* DONE Investigate best use of numpy arrays
        	:LOGBOOK:
@@ -2825,7 +2828,7 @@ Need to compare with tests when I have one!
        	:END:
 ******* NEXT Set up meshes
 - use scipy for meshes (I think arrange does the trick)
-- Should the mesh be passed in rather than dr or nsteps?
+- Should the mesh be passed in rather than dr or nsteps? Yes!
 - I think at the very least, num_points (renamed from nsteps) would be better to pass than dr
 - I should also be able to set and get the mesh and construct the object without a mesh and later set the mesh maybe. That is, I want to decouple the object from it's mesh so that the object exists independently of the mesh. If you want to actually compute, you need to have a mesh, but we could use the same object to compute with different meshes. Thus we'll need to raise an exception if the user tries to compute before the mesh is set. Probably the way to do this is to have separate instances for each different mesh. The big question is whether to store the mesh in the object or not. It's possible we could remove it entirely from the galaxy object and just have it return meshes with the solution, though perhaps an instance should be not only the galaxy with its various parameters, but also the mesh. Otherwise, it could become very impractical, since the calling application would have to handle all the meshes which is not something I want. Really, this is a question of defining a space time manifold (which includes a mesh) and solving the equations on this space time, which corresponds to finding the value of a bunch of functions on the mesh. Thus to solve this problem, is to create a spacetime manifold object and a differential equation object. Probably the differential equation object could be generic (i.e. a geometric diff eqn. but it needs to be implemented on the mesh).
 ******* NEXT Choose C-libraries for non-linear PDE
@@ -2852,6 +2855,8 @@ diff. eqn. is singular at $r=0$ so we can't start at $r=0$. We should set the in
 ******** NEXT Move calculation of expected f's, U's etc. into setup
 ******** NEXT Test every required parameter is not missing
 ******** NEXT Refactor tests so test variables are named test_<variable> and expected variables are named expected_<variable>
+******** NEXT Create separate test instances for each scenario
+- I really shouldn't have _when_<conditions> as different methods. These basically do the same tests, create a galaxy with some parameters and check that the correct solution is computed. They should be different instances of the same test class. Note that I would then need to have a separate class for testing the correct solution is computed to the class that tests error checking and so forth!
 ****** TODO Plotting
 ******* NEXT Figure out which plots we need.
 ***** Files
