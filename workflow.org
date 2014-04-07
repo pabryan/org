@@ -1665,11 +1665,12 @@ I have mythtv and mediatomb and who knows what else using up valuable resources.
 Should run hg clone ssh://hg@bitbucket.org/pabryan/<proj>
 *** TODO Working
 **** TODO Wrapper for scripts using ssh-agent
+     SCHEDULED: <2014-06-01 Sun>
   :LOGBOOK:
   CLOCK: [2014-03-28 Fri 18:04]--[2014-03-28 Fri 18:05] =>  0:01
   :END:
 [2014-03-28 Fri 18:04]
-<2014-04-07 Mon>
+
 I should update the session before running vc_autocommit.sh and check_uncommited.sh. It would also be nice if the latter didn't force me to hit ctrl-c for every single repository.<2014-03-28 Fri>
 **** TODO autmount sshfs
   :LOGBOOK:
@@ -1693,11 +1694,12 @@ http://ubuntuforums.org/showthread.php?t=430312
 
 http://porkrind.org/commit-patch/
 **** TODO Auto sync working
+     SCHEDULED: <2014-06-01 Sun>
   :LOGBOOK:
   CLOCK: [2014-03-18 Tue 17:42]--[2014-03-18 Tue 17:43] =>  0:01
   :END:
 [2014-03-18 Tue 17:42]
-- I want check_uncommitted to also sync local/remote repositories without committing anything.<2014-04-07 Mon>
+- I want check_uncommitted to also sync local/remote repositories without committing anything.
 - May need to hack on the code and issue a pull request
 ** Software
 *** org-mode
@@ -1748,11 +1750,12 @@ yajl-ruby (1.1.0)
 ** emacs
 *** Tasks
 **** TODO Emacs coding setup
+     SCHEDULED: <2014-06-01 Sun>
   :LOGBOOK:
   CLOCK: [2014-03-31 Mon 19:01]--[2014-03-31 Mon 19:03] =>  0:02
   :END:
 [2014-03-31 Mon 19:01]
-<2014-04-07 Mon>
+
 - CEDET
   - http://cedet.sourceforge.net/
   - http://alexott.net/en/writings/emacs-devenv/EmacsCedet.html
@@ -3847,7 +3850,7 @@ When I set up scoring the day:
 - [ ] Do short tasks
 - [ ] Record morning health stats
 
-** NEXT Weekly Review [2/19]
+** NEXT Weekly Review [3/19]
    SCHEDULED: <2013-12-01 Sun +1w>
    :LOGBOOK:
    CLOCK: [2014-04-07 Mon 11:22]
@@ -3965,7 +3968,7 @@ What to review:
 - [X] Check holding directory
   [[file:~/holding]]
 - [X] Check holding email folder
-- [ ] Review weekly agenda =F12 a w//=
+- [X] Review weekly agenda =F12 a w//=
 - [ ] Check clocking data for past week =v c=
   - fix up any errors
 - [ ] Review clock report for past week =R=

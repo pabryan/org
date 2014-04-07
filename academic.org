@@ -2133,7 +2133,7 @@ If $\exp: T_x N \to N$ is a diffeomorphism (in particular for Cartan-Hadamaard) 
 We would do it all in Minkowski space. I think the vector field gives the distance in Minkowski space to the totally geodesic hypersurface. We can then set up all our dual theory, radial functions and so forth in that ambient space, possibly with an intrinsic interpretation. In this setting we could maybe also do $\sphere^n$? Another interesting point is that we can do a normalised flow, by simultaneously expanding $M_t$ and $\HH^{n+1}$ by rescaling the ambient Minkowski space.
 *** Future 							    :SOMEDAY:
 **** TODO Study non-smooth mean curvature flow, minimal surfaces via support fn
-     SCHEDULED: <2014-04-12 Sat>
+     SCHEDULED: <2014-05-26 Mon>
   :LOGBOOK:
   CLOCK: [2013-10-19 Sat 15:33]--[2013-10-19 Sat 15:34] =>  0:01
   :END:
@@ -2530,8 +2530,8 @@ In particular, if $X$ is not a gradient vector field, what is corresponding metr
        CLOCK: [2014-01-30 Thu 15:30]--[2014-01-30 Thu 16:31] =>  1:01
        :END:
 ****** NEXT Scan diagram of model construction
-****** NEXT Re-investigate
-       SCHEDULED: <2014-04-13 Sun>
+****** NEXT Re-investigate radial comparison
+       SCHEDULED: <2014-06-01 Sun>
 
 ****** NEXT Work out curvature for model comparison
        :LOGBOOK:
@@ -3635,7 +3635,7 @@ Is there a consistent (say providing ZFC is consistent) set theory without the e
      :PROPERTIES:
      :ID:       fb4cb56a-d33c-40da-bf00-7874b2d3d411
      :END:
-<2014-04-07 Mon>
+
 **** NEXT Update website
   :LOGBOOK:
   CLOCK: [2014-02-07 Fri 09:40]--[2014-02-07 Fri 09:41] =>  0:01
@@ -3686,7 +3686,7 @@ First variation.
 ***** Lec 03
 Radon measures: compactness and Reisz representation.
 *** TODO Convex Geometry					     :CONVEX:
-    SCHEDULED: <2014-04-11 Fri>
+    SCHEDULED: <2014-04-14 Mon>
     :LOGBOOK:
     - State "TODO"       from "HOLD"       [2013-10-09 Wed 17:24]
     - State "HOLD"       from "TODO"       [2013-08-04 Sun 16:46] \\
@@ -4550,7 +4550,8 @@ http://geometry.ugr.es/
 http://www.uu.se/en/jobs/?positionId=32145
 ***** Tasks
 ****** NEXT Investigate Uppsala jobs
-<2014-04-07 Mon>
+       SCHEDULED: <2014-06-01 Sun>
+
 **** TODO DTU
 http://www.uu.se/en/jobs/?positionId=32145
 ***** Tasks
@@ -4577,7 +4578,7 @@ http://www.dtu.dk/Job/job?id=171c797f-0619-4bd4-a855-8ff6c4990af7
      - State "DONE"       from "NEXT"       [2014-02-25 Tue 16:55]
      :END:
 **** NEXT Prepare high codimension MCF support fn
-     SCHEDULED: <2014-04-07 Mon>
+     SCHEDULED: <2014-06-01 Sun>
 *** Hubert Bray
 **** NEXT Contact Hubert about visiting next year
 *** Yanir Rubinstein
@@ -4706,7 +4707,7 @@ http://modernizr.com/
 [2013-08-06 Tue 20:57]
 
 **** TODO Change course web template
-  SCHEDULED: <2014-04-09 Wed>
+  SCHEDULED: <2014-05-26 Mon>
   :LOGBOOK:
   CLOCK: [2013-09-22 Sun 12:41]--[2013-09-22 Sun 12:42] =>  0:01
   :END:
