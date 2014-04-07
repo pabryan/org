@@ -823,7 +823,7 @@ So it seems that for hypersurfaces, or more generally sub-manifolds, upper curva
 Maybe make some points about how I could write the code to present data from spnet on a website and include that code in spnet
 *** Scirate
 **** TODO Investigate scirate
-  SCHEDULED: <2014-04-07 Mon>
+  SCHEDULED: <2014-06-01 Sun>
 [2014-03-05 Wed 13:27]
 https://scirate.com/
 
@@ -3082,7 +3082,7 @@ I could also have author, title, date etc. in the properties drawer! This is red
 No! Maybe I can use reftex and get it to take me to the entry in refs.org? I can certainly due this manually, using reftex to take me to the bib file which gives the ID which I can search for in the org file. Then I don't need to maintain duplicate info in the org and bib files and have all the power of reftex available.
 I'd like to be able to use org-mode views to show papers/books by a given author or by subject. Maybe I can have some sort of hook that uses reftex to do the search and return a list of ID's which is then the filter for org-mode views.
 **** TODO Improve referencing
-  SCHEDULED: <2014-04-07 Mon>
+  SCHEDULED: <2014-06-01 Sun>
   :LOGBOOK:
   CLOCK: [2013-11-16 Sat 10:34]--[2013-11-16 Sat 10:38] =>  0:04
   :END:
@@ -3099,7 +3099,7 @@ I'd like to be able to use org-mode views to show papers/books by a given author
 - Put books, lecture notes, web resources etc. into bibtex file
 
 **** TODO Work out paper getting procedure
-  SCHEDULED: <2014-04-07 Mon>
+  SCHEDULED: <2014-06-01 Sun>
   :LOGBOOK:
   CLOCK: [2014-02-11 Tue 12:54]--[2014-02-11 Tue 12:55] =>  0:01
   :END:
@@ -3107,7 +3107,7 @@ I'd like to be able to use org-mode views to show papers/books by a given author
 
 I want to grab a paper from the internet, possibly the bib entry as well and then store it somewhere to later enter into my org system. It should be quick and easy like capture tasks and then ideally I'd have some automated way of adding it to org.
 **** TODO Set up pdf metadata
-  SCHEDULED: <2014-04-07 Mon>
+  SCHEDULED: <2014-06-01 Sun>
 [2014-02-24 Mon 11:21]
 - I want to add meta data to pdf's based on bibtex entry
 http://askubuntu.com/questions/27381/how-to-edit-pdf-metadata-from-command-line
@@ -3192,14 +3192,16 @@ sometimes the bib ref I have has MR<num> but the paper is saved as MR0<num> whic
 *** Paper preparation
 
 **** TODO Incorporate sage code into document creation
+     SCHEDULED: <2014-06-01 Sun>
   :LOGBOOK:
   CLOCK: [2014-03-01 Sat 13:28]--[2014-03-01 Sat 13:29] =>  0:01
   :END:
 [2014-03-01 Sat 13:28]
-<2014-04-07 Mon>
+
 Either by using literal blocks in org-mode or using sagetex I can produce images, animations and so forth in documents
-<2014-04-07 Mon>
+
 **** TODO Set up generic publishing
+     SCHEDULED: <2014-06-01 Sun>
   :LOGBOOK:
   CLOCK: [2014-02-20 Thu 09:08]--[2014-02-20 Thu 09:09] =>  0:01
   :END:
@@ -3214,12 +3216,13 @@ Either by using literal blocks in org-mode or using sagetex I can produce images
 *** TODO Organise Research Projects
     SCHEDULED: <2014-05-05 Mon>
 **** TODO Set up/organise current research projects
+     SCHEDULED: <2014-06-01 Sun>
   :LOGBOOK:
   CLOCK: [2014-03-21 Fri 13:10]--[2014-03-21 Fri 13:13] =>  0:03
   :END:
 [2014-03-21 Fri 13:10]
 
-<2014-04-07 Mon>
+SCHEDULED: <2014-04-07 Mon>
 
 - Comparison theory for linearised MCF (see old research statement)
 - Support functions for hypersurfaces in Riemannian spaces - weak theory
@@ -3252,7 +3255,7 @@ Either by using literal blocks in org-mode or using sagetex I can produce images
 Schedule time for research, for teaching and for non-research academic work (e.g. refereeing). That cover's all the sort of work I do.
 
 *** TODO Make create research project capture
-  SCHEDULED: <2014-04-07 Mon>
+  SCHEDULED: <2014-06-01 Sun>
     :PROPERTIES:
     :ID:       89aab08c-03b4-4561-b868-45bc0088ba34
     :END:
@@ -3577,7 +3580,7 @@ http://mathoverflow.net/questions/14877/how-much-of-differential-geometry-can-be
   :END:
 - Often these are given by the wedge of some form. Is there some way to characterise such morphisms?
 *** TODO Investigate linearised MC
-  SCHEDULED: <2014-04-07 Mon>
+  SCHEDULED: <2014-06-01 Sun>
   :LOGBOOK:
   CLOCK: [2014-03-27 Thu 09:20]--[2014-03-27 Thu 09:22] =>  0:02
   :END:
@@ -3614,8 +3617,9 @@ Is there a consistent (say providing ZFC is consistent) set theory without the e
 - I'll definitely write using org-mode (even wikis with markdown from org)
 - perhaps my work can be on google+, facebook, wordpress whatever and pulled in to my website or vice versa!
 
-**** NEXT contact collaborators and see if I can put our work in it
+**** DONE contact collaborators and see if I can put our work in it
      :LOGBOOK:
+     - State "DONE"       from "NEXT"       [2014-04-07 Mon 11:27]
      CLOCK: [2013-09-12 Thu 20:19]--[2013-09-12 Thu 20:42] =>  0:23
      :END:
      :PROPERTIES:
@@ -4535,7 +4539,7 @@ http://geometry.ugr.es/
 **** TODO Uppsala
 http://www.uu.se/en/jobs/?positionId=32145
 ***** Tasks
-****** NEXT Investigate
+****** NEXT Investigate Uppsala jobs
 <2014-04-07 Mon>
 **** TODO DTU
 http://www.uu.se/en/jobs/?positionId=32145
@@ -4761,5 +4765,5 @@ Remove sidebar
     :END:
 [2013-09-30 Mon 21:11]
 *** TODO Make print/mobile versions of website
-  SCHEDULED: <2014-04-07 Mon>
+  SCHEDULED: <2014-06-01 Sun>
 [2014-02-10 Mon 15:09]

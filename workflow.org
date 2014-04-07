@@ -9,7 +9,7 @@
 ** Tasks
 *** Web Publishing
 **** TODO org-mode sync/web access
-    SCHEDULED: <2014-04-07 Mon>
+    SCHEDULED: <2014-06-01 Sun>
     :LOGBOOK:
     CLOCK: [2013-07-03 Wed 10:06]--[2013-07-03 Wed 10:09] =>  0:03
     :END:
@@ -43,7 +43,7 @@ Make a project that includes
 [2013-03-30 Sat 21:39]
 Publish to a different directory so I don't pollute my hg directory.
 **** TODO Create publishing function for journal submission
-  SCHEDULED: <2014-04-07 Mon>
+  SCHEDULED: <2014-06-01 Sun>
   :LOGBOOK:
   CLOCK: [2014-03-18 Tue 17:41]--[2014-03-18 Tue 17:42] =>  0:01
   :END:
@@ -104,7 +104,7 @@ Should be able to insert lecture planning/homework etc with a yassnippet?
 [2013-09-30 Mon 21:15]
 Add goals to agenda to remind myself each day. E.g. work, diet, exercise, general things like be patient, don't over-explain things etc.
 **** TODO Setup some agenda filter macros
-  SCHEDULED: <2014-04-07 Mon>
+  SCHEDULED: <2014-06-01 Sun>
   :PROPERTIES:
   :ID:       b7060562-fc53-44b0-8f52-d84dce4c177f
   :END:
@@ -113,7 +113,7 @@ want to hit a key so that only work tasks are shown or only personal/family task
 - org-agenda-tag-filter: stores the filters
 - org-agenda-filter-by-tag: command to create filters
 **** NEXT Use org-checklists
-     SCHEDULED: <2014-04-07 Mon>
+     SCHEDULED: <2014-06-01 Sun>
      :LOGBOOK:
      - State "NEXT"       from "WAITING"    [2013-10-27 Sun 20:31] \\
        I doesn't seem to work on Ubuntu 12.04. Maybe I need to downgrade it?
@@ -572,14 +572,14 @@ Do I make a different TODO keyword for more trying out things/open ended type re
     :END:
 - This is just the ordinary diff with headlines thought of as files/directories (which can contain content and also other files which is slightly different to the filesystem). Recursing is just recursing headlines and reports can say things like "Headlines A and B differ" and we can show differences in contents of headlines.
 **** TODO Org calendar to google calendar
-  SCHEDULED: <2014-04-07 Mon>
+  SCHEDULED: <2014-06-01 Sun>
   :PROPERTIES:
   :ID:       00fc3ef7-df16-48c3-8fa3-f5b16e6c10d2
   :END:
 [2013-09-03 Tue 21:27]
 http://orgmode.org/worg/org-tutorials/org-google-sync.html
 **** TODO Focus agenda view should show next tasks for project?
-  SCHEDULED: <2014-04-07 Mon>
+  SCHEDULED: <2014-06-01 Sun>
   :LOGBOOK:
   CLOCK: [2013-09-14 Sat 19:43]--[2013-09-14 Sat 19:44] =>  0:01
   :END:
@@ -598,11 +598,11 @@ http://orgmode.org/worg/org-tutorials/org-google-sync.html
 - archive working files for faster check_uncommited
 <2014-04-07 Mon>
 **** TODO Archive old working projects
-  SCHEDULED: <2014-04-07 Mon>
+  SCHEDULED: <2014-06-01 Sun>
 [2014-02-13 Thu 09:20]
 *** Agenda
 **** TODO Org agenda views
-  SCHEDULED: <2014-04-07 Mon>
+  SCHEDULED: <2014-06-01 Sun>
   :LOGBOOK:
   CLOCK: [2014-02-07 Fri 09:41]--[2014-02-07 Fri 09:44] =>  0:03
   :END:
@@ -620,7 +620,7 @@ I need to be able to focus on the right tasks which means not seeing all possibl
 - Personal agenda view
   - Non-work stuff
 **** TODO Create project agenda view
-  SCHEDULED: <2014-04-07 Mon>
+  SCHEDULED: <2014-06-01 Sun>
   :LOGBOOK:
   CLOCK: [2014-02-20 Thu 09:10]--[2014-02-20 Thu 09:11] =>  0:01
   :END:
@@ -630,7 +630,7 @@ It would be nice to narrow to a project and have it display sub-projects in an e
 <2014-04-01 Tue>
 *** Configuration
 **** TODO Split up emacs-org files
-  SCHEDULED: <2014-04-07 Mon>
+  SCHEDULED: <2014-06-01 Sun>
   :LOGBOOK:
   CLOCK: [2014-03-18 Tue 17:44]--[2014-03-18 Tue 17:45] =>  0:01
   :END:
@@ -649,7 +649,7 @@ I want to have descriptions of my various research projects with clear aims, a s
 
 *** Captures
 **** TODO Create capture for office hours
-  SCHEDULED: <2014-04-07 Mon>
+  SCHEDULED: <2014-06-01 Sun>
 [2014-02-10 Mon 15:45]
 How do I choose which course?
 ** Hacking
@@ -1057,7 +1057,7 @@ Levenger?
 - Projects should have a larger folder with papers, notes etc.
 
 *** TODO Make weekly paper review/check task
-  SCHEDULED: <2014-04-07 Mon>
+  SCHEDULED: <2014-06-01 Sun>
   :LOGBOOK:
   CLOCK: [2013-08-27 Tue 10:33]--[2013-08-27 Tue 10:34] =>  0:01
   :END:
@@ -1364,7 +1364,7 @@ Files go into Dropbox and versioned controlled hosted on bitbucket
      :ID:       59fb7afd-3134-4ef9-80d6-391b05284663
      :END:
 ***** NEXT Set up offlineimap
-    SCHEDULED: <2014-04-07 Mon>
+    SCHEDULED: <2014-06-01 Sun>
     :PROPERTIES:
     :ID:       8e34b366-070d-4735-bad1-9c8fba262783
     :END:
@@ -1677,7 +1677,7 @@ https://github.com/hellekin/autosshfs
 http://ubuntuforums.org/showthread.php?t=430312
 
 **** TODO use emacs to do vc stuff
-  SCHEDULED: <2014-04-07 Mon>
+  SCHEDULED: <2014-06-01 Sun>
 [2014-02-28 Fri 11:45]
 **** TODO Check out patch-commit
      SCHEDULED: <2014-05-01 Thu>
@@ -1765,7 +1765,7 @@ yajl-ruby (1.1.0)
   :END:
 ** Organisation
   :LOGBOOK:
-  CLOCK: [2014-04-07 Mon 11:12]
+  CLOCK: [2014-04-07 Mon 11:12]--[2014-04-07 Mon 11:22] =>  0:10
   CLOCK: [2014-04-04 Fri 14:50]--[2014-04-04 Fri 15:19] =>  0:29
   CLOCK: [2014-04-04 Fri 09:41]--[2014-04-04 Fri 09:49] =>  0:08
   CLOCK: [2014-04-04 Fri 09:26]--[2014-04-04 Fri 09:28] =>  0:02
@@ -3840,9 +3840,10 @@ When I set up scoring the day:
 - [ ] Do short tasks
 - [ ] Record morning health stats
 
-** NEXT Weekly Review [18/19]
+** NEXT Weekly Review [2/19]
    SCHEDULED: <2013-12-01 Sun +1w>
    :LOGBOOK:
+   CLOCK: [2014-04-07 Mon 11:22]
    CLOCK: [2014-04-01 Tue 11:50]--[2014-04-01 Tue 12:43] =>  0:53
    CLOCK: [2014-03-31 Mon 11:58]--[2014-03-31 Mon 13:23] =>  1:25
    CLOCK: [2014-03-31 Mon 10:24]--[2014-03-31 Mon 10:27] =>  0:03
@@ -3957,32 +3958,32 @@ What to review:
 - [X] Check holding directory
   [[file:~/holding]]
 - [X] Check holding email folder
-- [X] Review weekly agenda =F12 a w//=
-- [X] Check clocking data for past week =v c=
+- [ ] Review weekly agenda =F12 a w//=
+- [ ] Check clocking data for past week =v c=
   - fix up any errors
-- [X] Review clock report for past week =R=
+- [ ] Review clock report for past week =R=
   - Check where we spent time (too much or too little) and rectify this week
-- [X] Look at entire agenda for today  =F12 SPC=
-- [X] Check un-committed work
-- [X] Refile tasks
-- [X] Weekly clean up
-  - [X] Clean up Downloads
-  - [X] Clean up tmp
-  - [X] Clean up tablet
-  - [X] Clean up phone
-- [X] Process incoming information
+- [ ] Look at entire agenda for today  =F12 SPC=
+- [ ] Check un-committed work
+- [ ] Refile tasks
+- [ ] Weekly clean up
+  - [ ] Clean up Downloads
+  - [ ] Clean up tmp
+  - [ ] Clean up tablet
+  - [ ] Clean up phone
+- [ ] Process incoming information
   - feedly
   - pocket
-- [X] Review focus projects 
-- [X] Set focus
-- [X] Check follow-up paper folder
+- [ ] Review focus projects 
+- [ ] Set focus
+- [ ] Check follow-up paper folder
 - [ ] Collate the weeks scribbles
-- [X] Check Finances
+- [ ] Check Finances
   - Check bank accounts and compare with what's still to come
-- [X] Copy music to phone
-- [X] Share photos on Google+
-- [X] Update Abundant Harvest order
-- [X] Order meat
+- [ ] Copy music to phone
+- [ ] Share photos on Google+
+- [ ] Update Abundant Harvest order
+- [ ] Order meat
   - http://www.son-riseranchstore.com/
 
 ** NEXT Monthly Plan/Review [0/5]
