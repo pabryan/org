@@ -50,7 +50,6 @@ Publish to a different directory so I don't pollute my hg directory.
 [2014-03-18 Tue 17:41]
 I want to export for journals, including data such as email, classification etc.
 I think I need some sort of filter for this.
-<2014-04-07 Mon>
 *** Cleaning up
 **** NEXT Sort org-mode tasks list
   :LOGBOOK:
@@ -590,13 +589,14 @@ http://orgmode.org/worg/org-tutorials/org-google-sync.html
 
 *** Archiving
 **** TODO Archive things
+     SCHEDULED: <2014-06-01 Sun>
   :PROPERTIES:
   :ID:       a1611ad9-0546-41d7-a584-9edb3ef77445
   :END:
 [2014-01-02 Thu 18:44]
 - Set up archiving for org-mode
 - archive working files for faster check_uncommited
-<2014-04-07 Mon>
+
 **** TODO Archive old working projects
   SCHEDULED: <2014-06-01 Sun>
 [2014-02-13 Thu 09:20]
@@ -638,7 +638,7 @@ It would be nice to narrow to a project and have it display sub-projects in an e
 
 Things are getting a little out of hand. I think I should break up configuration based on relevance: latex, agenda, etc.
 
-<2014-04-07 Mon>* TODO Write research project summaries/proposals
+n>* TODO Write research project summaries/proposals
   DEADLINE: <2014-04-25 Fri>
   :LOGBOOK:
   CLOCK: [2014-03-21 Fri 13:09]--[2014-03-21 Fri 13:10] =>  0:01
@@ -646,6 +646,13 @@ Things are getting a little out of hand. I think I should break up configuration
 [2014-03-21 Fri 13:09]
 
 I want to have descriptions of my various research projects with clear aims, a summary of the project and references. I should then also be able to construct tasks for the projects.
+
+**** TODO Write org-mode config to handle different hosts and org-versions
+  SCHEDULED: <2014-04-14 Mon>
+  :LOGBOOK:
+  CLOCK: [2014-04-02 Wed 14:32]--[2014-04-02 Wed 14:33] =>  0:01
+  :END:
+[2014-04-02 Wed 14:32]
 
 *** Captures
 **** TODO Create capture for office hours

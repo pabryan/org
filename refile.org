@@ -1,23 +1,2 @@
 #+FILETAGS: REFILE
-* TODO Write org-mode config to handle different hosts and org-versions
-  SCHEDULED: <2014-04-14 Mon>
-  :LOGBOOK:
-  CLOCK: [2014-04-02 Wed 14:32]--[2014-04-02 Wed 14:33] =>  0:01
-  :END:
-[2014-04-02 Wed 14:32]
-* DONE Update Amanda Gallant's grade
-  SCHEDULED: <2014-04-03 Thu>
-  :LOGBOOK:
-  - State "DONE"       from "TODO"       [2014-04-03 Thu 16:26]
-  :END:
-[2014-04-02 Wed 19:09]
-Just need to update the spreadsheet
-* TODO Missing connections
-  SCHEDULED: <2014-04-05 Sat>
-  :LOGBOOK:
-  CLOCK: [2014-04-03 Thu 09:54]--[2014-04-03 Thu 09:58] =>  0:04
-  :END:
-[2014-04-03 Thu 09:54]
 
-- In simple arithmetic, there is a missing connection between the process of multiplying fractions and what it means. That is, $1/2 \times 1/4$ means "one half of a quarter". From this perspective, it's reasonably clear that the answer is $1/8$. So how is that meaning represented in the process multiplying numerators and denominators?
-- Another example, is kids learning to speak. Lily says "wiwy" instead of "lily", but she means "lily. If you say "wiwy" to her, she replies by saying "not wiwy, but wiwy!" The first meaning "wiwy", the second meaning "lily". There is a lack of connection between what she says and what she hears.

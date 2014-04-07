@@ -7475,6 +7475,14 @@ Lectures in calendar and tasks like planning lectures.
 	 :END:
 	 <2014-04-14 Mon>
 
+******** DONE Update Amanda Gallant's grade
+  SCHEDULED: <2014-04-03 Thu>
+  :LOGBOOK:
+  - State "DONE"       from "TODO"       [2014-04-03 Thu 16:26]
+  :END:
+[2014-04-02 Wed 19:09]
+Just need to update the spreadsheet
+
 ******* DONE Coordinated lectures
 	:LOGBOOK:
 	- State "DONE"       from "TODO"       [2014-03-17 Mon 15:21]

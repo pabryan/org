@@ -3215,14 +3215,14 @@ Either by using literal blocks in org-mode or using sagetex I can produce images
     :END:
 *** TODO Organise Research Projects
     SCHEDULED: <2014-05-05 Mon>
-**** TODO Set up/organise current research projects
+**** NEXT Set up/organise current research projects
      SCHEDULED: <2014-06-01 Sun>
   :LOGBOOK:
   CLOCK: [2014-03-21 Fri 13:10]--[2014-03-21 Fri 13:13] =>  0:03
   :END:
 [2014-03-21 Fri 13:10]
 
-SCHEDULED: <2014-04-07 Mon>
+SCHEDULED: <2014-06-01 Sun>
 
 - Comparison theory for linearised MCF (see old research statement)
 - Support functions for hypersurfaces in Riemannian spaces - weak theory
@@ -3241,6 +3241,16 @@ SCHEDULED: <2014-04-07 Mon>
 - probably need to add a new reftex format for this
 **** NEXT Fill in project notes
 - I'd like to write the notes in my org entry and export to a wiki or something like that (open notebook wiki)
+**** NEXT Write research project summaries/proposals
+     SCHEDULED: <2014-06-01 Sun> 
+  :LOGBOOK:
+  CLOCK: [2014-03-21 Fri 13:09]--[2014-03-21 Fri 13:10] =>  0:01
+  :END:
+[2014-03-21 Fri 13:09]
+
+I want to have descriptions of my various research projects with clear aims, a summary of the project and references. I should then also be able to construct tasks for the projects.
+
+
 *** CANCELLED Schedule academic work so I actually do it!
     SCHEDULED: <2013-03-18 Mon>
     - State "CANCELLED"  from "TODO"       [2013-03-20 Wed 10:24] \\
@@ -4767,3 +4777,4 @@ Remove sidebar
 *** TODO Make print/mobile versions of website
   SCHEDULED: <2014-06-01 Sun>
 [2014-02-10 Mon 15:09]
+
