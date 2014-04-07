@@ -2803,7 +2803,7 @@ Need to compare with tests when I have one!
 
 ******** NEXT Write clean version of compute U
 	 :LOGBOOK:
-	 CLOCK: [2014-04-06 Sun 11:45]
+	 CLOCK: [2014-04-06 Sun 11:45]--[2014-04-06 Sun 13:25] =>  1:40
 	 CLOCK: [2014-04-05 Sat 21:48]--[2014-04-05 Sat 23:37] =>  1:49
 	 :END:
 ******** NEXT Write clean version of compute density
