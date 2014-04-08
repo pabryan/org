@@ -1775,6 +1775,7 @@ yajl-ruby (1.1.0)
   :END:
 ** Organisation
   :LOGBOOK:
+  CLOCK: [2014-04-08 Tue 16:36]
   CLOCK: [2014-04-08 Tue 09:56]--[2014-04-08 Tue 10:03] =>  0:07
   CLOCK: [2014-04-08 Tue 08:09]--[2014-04-08 Tue 08:11] =>  0:02
   CLOCK: [2014-04-07 Mon 14:11]--[2014-04-07 Mon 14:15] =>  0:04
@@ -3303,7 +3304,7 @@ What to review:
 - [ ] Anything outstanding?
 - [ ] Check tomorrow's agenda
 - [ ] Clean up tasks/habits
-- [ ] Copy from notebook/ideas.
+- [ ] Copy from notebook/ideas/phone memo's
 - [ ] Write blog/diary
 - [ ] Water plants
 - [ ] Turn off power points
@@ -3994,7 +3995,7 @@ What to review:
 - [X] Review focus projects 
 - [X] Set focus
 - [X] Check follow-up paper folder
-- [ ] Collate the weeks scribbles
+- [ ] Collate the weeks: pad scribbles, org-mode notes, phone notes, etc.
 - [X] Check Finances
   - Check bank accounts and compare with what's still to come
 - [X] Copy music to phone
