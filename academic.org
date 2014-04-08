@@ -2803,6 +2803,7 @@ Need to compare with tests when I have one!
 
 ******** NEXT Write clean version of compute U
 	 :LOGBOOK:
+	 CLOCK: [2014-04-08 Tue 10:03]--[2014-04-08 Tue 11:40] =>  1:37
 	 CLOCK: [2014-04-07 Mon 14:15]--[2014-04-07 Mon 17:57] =>  3:42
 	 CLOCK: [2014-04-06 Sun 11:45]--[2014-04-06 Sun 13:25] =>  1:40
 	 CLOCK: [2014-04-05 Sat 21:48]--[2014-04-05 Sat 23:37] =>  1:49
