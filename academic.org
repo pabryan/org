@@ -2833,6 +2833,9 @@ Need to compare with tests when I have one!
        	CLOCK: [2014-03-25 Tue 08:55]--[2014-03-25 Tue 10:16] =>  1:21
        	:END:
 ******* NEXT Set up meshes
+	:LOGBOOK:
+	CLOCK: [2014-04-08 Tue 20:04]--[2014-04-08 Tue 22:44] =>  2:40
+	:END:
 - use scipy for meshes (I think arrange does the trick)
 - Should the mesh be passed in rather than dr or nsteps? Yes!
 - I think at the very least, num_points (renamed from nsteps) would be better to pass than dr
