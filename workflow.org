@@ -3012,6 +3012,7 @@ Check how I did last month. I guess the review and plan could probably go togeth
 ** NEXT Daily Review [0/10]
    SCHEDULED: <2014-04-09 Wed .+1d/2d>
    :LOGBOOK:
+   CLOCK: [2014-04-09 Wed 21:31]
    - State "DONE"       from "NEXT"       [2014-04-08 Tue 22:47]
    CLOCK: [2014-04-08 Tue 22:44]--[2014-04-08 Tue 22:47] =>  0:03
    - State "DONE"       from "NEXT"       [2014-04-07 Mon 21:17]
@@ -3320,8 +3321,9 @@ When I set up scoring the day:
 - [ ] Collate data such as sleep, weight, exercise, diet etc.
 
 ** NEXT Daily Plan [0/7]
-   SCHEDULED: <2014-04-09 Wed .+1d/2d>
+   SCHEDULED: <2014-04-10 Thu .+1d/2d>
    :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2014-04-09 Wed 21:26]
    CLOCK: [2014-04-09 Wed 09:46]--[2014-04-09 Wed 09:56] =>  0:10
    CLOCK: [2014-04-09 Wed 09:39]--[2014-04-09 Wed 09:46] =>  0:07
    - State "DONE"       from "NEXT"       [2014-04-08 Tue 08:14]
@@ -3851,7 +3853,7 @@ When I set up scoring the day:
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
    :ID:       ef051ee0-1113-4604-b355-450a5a47848b
-   :LAST_REPEAT: [2014-04-08 Tue 08:14]
+   :LAST_REPEAT: [2014-04-09 Wed 21:26]
    :LAST_REPEAT: [2014-01-25 Sat 12:49]
    :END:
 
