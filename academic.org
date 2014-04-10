@@ -1551,6 +1551,7 @@ Probably also need concave comparison functions. This should rule out $\tang_p =
 	 SCHEDULED: <2014-04-02 Wed>
 
     :LOGBOOK:
+    CLOCK: [2014-04-10 Thu 10:38]
     - State "NEXT"       from "DONE"       [2014-04-01 Tue 20:33] \\
       It's still not written up.
     - State "DONE"       from "NEXT"       [2013-05-15 Wed 16:14]
@@ -1567,6 +1568,8 @@ Probably also need concave comparison functions. This should rule out $\tang_p =
     :END:
 This requires an estimate of $\int k f(k)$ analogous to Holder's for CSF where $f(k)=k$.
 
+******* NEXT Investigate whether Holder may be used for homogeneous functions
+- I want something like $\int f(k)k \geq (\int g(k))^{\alpha+1}/l^{\alpha}$ where $f$ is homogeneous of degree $\alpha$, and $g$ is homogeneous of degree $1$.
 ******* TODO Find comparison solutions
        	:PROPERTIES:
        	:ID:       9c3e45f9-6c61-48b8-b0e1-eaae4fd6514b
