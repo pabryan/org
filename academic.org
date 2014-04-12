@@ -1842,6 +1842,7 @@ That is, Ben and Janelle have proven the backward convergence, and to finish we 
 	:END:
 ******** NEXT Define distance along equatorial projection and fix ordering
 	 :LOGBOOK:
+	 CLOCK: [2014-04-12 Sat 12:02]--[2014-04-12 Sat 12:58] =>  0:56
 	 CLOCK: [2014-04-03 Thu 17:22]--[2014-04-03 Thu 17:42] =>  0:20
 	 :END:
 Given $X$ in the equator, let $\rho_{\alpha}(X)$ be the infimum of the lengths of the geodesic segment joining the points in $\alpha \intersect \pi^{-1}(X)$ to $X$. The order should be in $\rho_{\alpha} > \rho_{\beta}$. Write the subsequent text using $\rho$.
