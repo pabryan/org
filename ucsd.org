@@ -7463,13 +7463,30 @@ Lectures in calendar and tasks like planning lectures.
 	 :ID:       f7c57fbf-aa0c-41cc-a9fb-8f7b8e47e75a
 	 :END:
 
-******** Extra students
+******** TODO Incomplete grades
 ********* Evan Dowden
 - Incomplete. A08625040.
+********** DONE Submit petition to change to incomplete
+	   :LOGBOOK:
+	   - State "DONE"       from "NEXT"       [2014-04-12 Sat 12:01]
+	   :END:
+********** NEXT Grade final
+********** TODO Update grade
 ********* Johanna Martinez 
 - Incomplete. a08909522.
-******** WAITING Enter incomplete grades
+********** DONE Grade final
+	   :LOGBOOK:
+	   - State "DONE"       from "NEXT"       [2014-04-12 Sat 11:56]
+	   CLOCK: [2014-04-12 Sat 11:35]--[2014-04-12 Sat 11:56] =>  0:21
+	   :END:
+********** DONE Update grade
+	   :LOGBOOK:
+	   - State "DONE"       from "NEXT"       [2014-04-12 Sat 12:00]
+	   CLOCK: [2014-04-12 Sat 11:56]--[2014-04-12 Sat 12:00] =>  0:04
+	   :END:
+******** DONE Enter incomplete grades
 	 :LOGBOOK:
+	 - State "DONE"       from "WAITING"    [2014-04-12 Sat 12:00]
 	 - State "WAITING"    from "NEXT"       [2014-03-31 Mon 12:03] \\
 	   frdesk staff are putting in a petition for grade change
 	 :END:
