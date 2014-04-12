@@ -648,7 +648,7 @@ n>* TODO Write research project summaries/proposals
 I want to have descriptions of my various research projects with clear aims, a summary of the project and references. I should then also be able to construct tasks for the projects.
 
 **** TODO Write org-mode config to handle different hosts and org-versions
-  SCHEDULED: <2014-04-14 Mon>
+  SCHEDULED: <2014-06-01 Sun>
   :LOGBOOK:
   CLOCK: [2014-04-02 Wed 14:32]--[2014-04-02 Wed 14:33] =>  0:01
   :END:
@@ -1775,6 +1775,7 @@ yajl-ruby (1.1.0)
   :END:
 ** Organisation
   :LOGBOOK:
+  CLOCK: [2014-04-12 Sat 10:35]
   CLOCK: [2014-04-12 Sat 10:17]--[2014-04-12 Sat 10:23] =>  0:06
   CLOCK: [2014-04-11 Fri 11:48]--[2014-04-11 Fri 11:49] =>  0:01
   CLOCK: [2014-04-10 Thu 16:05]--[2014-04-10 Thu 16:21] =>  0:16
@@ -3326,9 +3327,10 @@ When I set up scoring the day:
 - [ ] Collate data such as sleep, weight, exercise, diet etc.
 
 ** NEXT Daily Plan [0/7]
-   SCHEDULED: <2014-04-12 Sat .+1d/2d>
+   SCHEDULED: <2014-04-13 Sun .+1d/2d>
    :LOGBOOK:
-   CLOCK: [2014-04-12 Sat 10:23]
+   - State "DONE"       from "NEXT"       [2014-04-12 Sat 10:35]
+   CLOCK: [2014-04-12 Sat 10:23]--[2014-04-12 Sat 10:35] =>  0:12
    - State "DONE"       from "NEXT"       [2014-04-11 Fri 11:48]
    CLOCK: [2014-04-11 Fri 11:31]--[2014-04-11 Fri 11:48] =>  0:17
    - State "DONE"       from "NEXT"       [2014-04-10 Thu 10:38]
@@ -3863,7 +3865,7 @@ When I set up scoring the day:
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
    :ID:       ef051ee0-1113-4604-b355-450a5a47848b
-   :LAST_REPEAT: [2014-04-11 Fri 11:48]
+   :LAST_REPEAT: [2014-04-12 Sat 10:35]
    :LAST_REPEAT: [2014-01-25 Sat 12:49]
    :END:
 
