@@ -20,3 +20,7 @@
   - make a copy/paste (data sources?) buffer browser. Anytime a resource is dragged from one app to another, it's added to the buffer which may be accessed in several different ways such as a queue (push/pop) or a random access list that can be searched etc. The user can specify different views of this buffer, and automatic filters that add/remove items from certain views. For instance, their could be an images view that only shows image sources. There could be a view for a specific project, where resources are dragged into the view. Possibly we can save/load views and also write code that automatically populates the view, e.g. with everything on a web page though this would be better accessed through the browse (file) manager.
   - So applications can render content e.g. display a web page, or return a browseable version (which is shown in the default browser). So emacs for instance doesn't need to be changed much. We want to view a web page as browseable in emacs, all we need is an interface from how emacs browses folders to the new browse api and anything emacs does is via the api, which then passes it on to the application e.g. the web page application which returns (via the api) whatever is requested.
 
+* TODO Create setup file for org-mode latex docs
+  SCHEDULED: <2014-05-05 Mon>
+[2014-04-12 Sat 19:26]
+- Put common things besides bib stuff into a setup file
