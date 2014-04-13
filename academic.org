@@ -1401,7 +1401,7 @@ Given $X$ in the equator, let $\rho_{\alpha}(X)$ be the infimum of the lengths o
 - combine exact symmetry implies circular into theorem.
 ******** NEXT Update to use reflection macros better
 	 :LOGBOOK:
-	 CLOCK: [2014-04-12 Sat 19:59]
+	 CLOCK: [2014-04-12 Sat 20:00]
 	 :END:
 ******* DONE Write proof of lying in hemisphere
 	:LOGBOOK:
