@@ -890,6 +890,11 @@ Try to use as much available software that I can find. Do it like Sage - don't r
        CLOCK: [2014-04-03 Thu 11:49]--[2014-04-03 Thu 13:06] =>  1:17
        :END:
 <2014-04-03 Thu 12:00-13:00>
+*** Clocking
+**** Brainstorming 
+     :LOGBOOK:
+     CLOCK: [2014-04-14 Mon 13:38]
+     :END:
 * Exposition
   :PROPERTIES:
   :ID:       a3ca7af2-21fb-410e-8238-923304c37889
