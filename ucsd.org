@@ -9703,6 +9703,7 @@ Abstract:
 ****** Clocking
 ******* MCF level sets seminar
         :LOGBOOK:
+	CLOCK: [2014-04-14 Mon 09:57]
 	CLOCK: [2014-04-11 Fri 10:00]--[2014-04-11 Fri 11:31] =>  1:31
 	CLOCK: [2014-04-09 Wed 09:56]--[2014-04-09 Wed 11:00] =>  1:04
 	CLOCK: [2014-04-07 Mon 09:59]--[2014-04-07 Mon 11:12] =>  1:13
