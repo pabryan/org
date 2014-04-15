@@ -890,6 +890,11 @@ Try to use as much available software that I can find. Do it like Sage - don't r
        CLOCK: [2014-04-03 Thu 11:49]--[2014-04-03 Thu 13:06] =>  1:17
        :END:
 <2014-04-03 Thu 12:00-13:00>
+*** Clocking
+**** Brainstorming 
+     :LOGBOOK:
+     CLOCK: [2014-04-14 Mon 13:38]--[2014-04-14 Mon 14:10] =>  0:32
+     :END:
 * Exposition
   :PROPERTIES:
   :ID:       a3ca7af2-21fb-410e-8238-923304c37889
@@ -1409,7 +1414,10 @@ Given $X$ in the equator, let $\rho_{\alpha}(X)$ be the infimum of the lengths o
 	:LOGBOOK:
 	- State "DONE"       from "NEXT"       [2014-04-02 Wed 14:25]
 	:END:
-******* TODO Write introduction
+******* NEXT Write introduction
+	:LOGBOOK:
+	CLOCK: [2014-04-15 Tue 09:42]--[2014-04-15 Tue 10:09] =>  0:27
+	:END:
 ******* DONE Write notation/prelim
 	:LOGBOOK:
 	- State "DONE"       from "NEXT"       [2014-04-02 Wed 14:26]
@@ -1425,7 +1433,10 @@ Given $X$ in the equator, let $\rho_{\alpha}(X)$ be the infimum of the lengths o
 	- State "CANCELLED"  from "NEXT"       [2014-04-02 Wed 13:59] \\
 	  We just restrict to convex ancient solutions.
 	:END:
-******* NEXT Check if positive curvature implies convex
+******* DONE Check if positive curvature implies convex
+	:LOGBOOK:
+	- State "DONE"       from "NEXT"       [2014-04-15 Tue 09:41]
+	:END:
 - Clauss Gehardt paper mentions this
 ******* NEXT Calculate ancient implies backwards approximate symmetry
 	:LOGBOOK:
@@ -4458,7 +4469,7 @@ My experiences learning/implementing these strategies.
 http://www.personalabteilung.hu-berlin.de/stellenausschreibungen/six-humboldt-post-doc-fellowships-temporary-positions-full-time-public-sector-pay-scale-13
 
 ***** TODO Apply thinktankmaths
-      SCHEDULED: <2014-04-07 Mon>
+      SCHEDULED: <2014-06-01 Sun>
   :LOGBOOK:
   CLOCK: [2014-03-08 Sat 19:49]--[2014-03-08 Sat 19:50] =>  0:01
   :END:
