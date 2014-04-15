@@ -50,6 +50,10 @@ Publish to a different directory so I don't pollute my hg directory.
 [2014-03-18 Tue 17:41]
 I want to export for journals, including data such as email, classification etc.
 I think I need some sort of filter for this.
+**** TODO Create setup file for org-mode latex docs
+  SCHEDULED: <2014-05-05 Mon>
+[2014-04-12 Sat 19:26]
+- Put common things besides bib stuff into a setup file
 *** Cleaning up
 **** NEXT Sort org-mode tasks list
   :LOGBOOK:
@@ -674,8 +678,19 @@ Like special blocks, but for headlines with a *semantic* property like class/typ
   :ID:       403ba6c9-9a32-430c-b0c9-0b09f2eba44e
   :END:
 ** Tasks
-
-*** DONE Move mygtd into refile					   :COMPUTER:
+*** Scheduling
+**** TODO Create a schedule
+  :LOGBOOK:
+  CLOCK: [2014-04-14 Mon 11:22]--[2014-04-14 Mon 11:23] =>  0:01
+  :END:
+[2014-04-14 Mon 11:22]
+<2014-04-14 Mon>
+- 6 hrs students
+- 6 hours planning
+- 4 hours seminars
+- leaves what?
+*** Misc
+**** DONE Move mygtd into refile				   :COMPUTER:
    - State "DONE"       from "NEXT"       [2012-11-15 Thu 11:46]
   CLOCK: [2012-10-15 Mon 22:06]--[2012-10-15 Mon 22:06] =>  0:00
    :PROPERTIES:
@@ -683,13 +698,13 @@ Like special blocks, but for headlines with a *semantic* property like class/typ
    :END:
 [2012-10-15 Mon 22:06]
 
-*** TODO Rationalise Documents, Dropbox, Ubuntu One		   :COMPUTER:
+**** TODO Rationalise Documents, Dropbox, Ubuntu One		   :COMPUTER:
   CLOCK: [2012-10-16 Tue 09:04]--[2012-10-16 Tue 09:04] =>  0:00
    :PROPERTIES:
    :ID:       5f23f742-f0f0-4e0b-8d9d-98f5acae6a1b
    :END:
 [2012-10-16 Tue 09:04]
-*** TODO Process items from blackboard
+**** TODO Process items from blackboard
   :LOGBOOK:
   CLOCK: [2013-04-08 Mon 16:49]--[2013-04-08 Mon 16:50] =>  0:01
   :END:
@@ -698,7 +713,7 @@ Like special blocks, but for headlines with a *semantic* property like class/typ
   :END:
 [2013-04-08 Mon 16:49]
 [[file:~/Dropbox/Camera Uploads/2013-04-08 11.19.18.jpg]]
-*** DONE Process emails 					   :COMPUTER:
+**** DONE Process emails					   :COMPUTER:
    - State "DONE"       from "NEXT"       [2012-12-07 Fri 10:45]
 Archive the lot! Organise into folders/tags whatever. gmail can be the main repository to sync with, but as with org files, maybe have machine specific syncing to dropbox also.
   CLOCK: [2012-10-15 Mon 09:42]--[2012-10-15 Mon 09:43] =>  0:01
@@ -707,7 +722,7 @@ Archive the lot! Organise into folders/tags whatever. gmail can be the main repo
    :END:
 [2012-10-15 Mon 09:42]
 
-*** DONE Check out "The Brain"
+**** DONE Check out "The Brain"
    - State "DONE"       from "TODO"       [2013-07-09 Tue 12:20]
 [[http://www.thebrain.com/]]
   CLOCK: [2012-11-03 Sat 19:48]--[2012-11-03 Sat 19:48] =>  0:00
@@ -715,7 +730,7 @@ Archive the lot! Organise into folders/tags whatever. gmail can be the main repo
    :ID:       d2bd33bc-bb46-4011-944e-ea5c670ee8e4
    :END:
 [2012-11-03 Sat 19:48]
-*** DONE Make list of all projects to VC
+**** DONE Make list of all projects to VC
    - State "DONE"       from "TODO"       [2012-12-07 Fri 10:46]
   CLOCK: [2012-11-06 Tue 08:33]--[2012-11-06 Tue 08:34] =>  0:01
    :PROPERTIES:
@@ -723,14 +738,14 @@ Archive the lot! Organise into folders/tags whatever. gmail can be the main repo
    :END:
 [2012-11-06 Tue 08:33]
 
-*** TODO Transcribe from Bei Da notebook: q. self
+**** TODO Transcribe from Bei Da notebook: q. self
   :LOGBOOK:
   :END:
   :PROPERTIES:
   :ID:       c2fcfce7-e205-444a-80fd-0d9cab0e9c7a
   :END:
 [2012-11-20 Tue 11:04
-*** DONE Install dictionary on tablet/phone
+**** DONE Install dictionary on tablet/phone
    - State "DONE"       from "TODO"       [2013-02-05 Tue 13:20]
   :LOGBOOK:
   :END:
@@ -738,24 +753,24 @@ Archive the lot! Organise into folders/tags whatever. gmail can be the main repo
    :ID:       356f2ab9-334f-4529-8898-d89e06c6b8d2
    :END:
 [2012-12-31 Mon 10:58]
-*** TODO Set up goal reminders
+**** TODO Set up goal reminders
    :PROPERTIES:
    :ID:       1be2f4e6-6e6c-47e0-ab82-d52f0138c9cf
    :END:
 - I should have cards with daily reminders, e.g. no more than 2 coffees, eat tacfit, don't nag to check throughout the day. I also have longer term goals and these should filter down to give daily reminders, weekly reminders (to look at during the review), monthly, yearly etc.
-*** TODO Schedule tasks
-    :PROPERTIES:
-    :ID:       abc5fce7-33ce-44a3-8958-f207a20cdd46
-    :END:
-**** Set next tasks
-**** Capture tasks as I think of them
-**** Refile tasks a couple of times a day
-**** Use property drawers to associate tasks with goal
-*** TODO Create Filing System
+**** TODO Schedule tasks
      :PROPERTIES:
-     :ID:       19726795-15e7-4ff1-8786-efbf6461e3a1
+     :ID:       abc5fce7-33ce-44a3-8958-f207a20cdd46
      :END:
-**** NEXT Create filing system
+***** Set next tasks
+***** Capture tasks as I think of them
+***** Refile tasks a couple of times a day
+***** Use property drawers to associate tasks with goal
+**** TODO Create Filing System
+      :PROPERTIES:
+      :ID:       19726795-15e7-4ff1-8786-efbf6461e3a1
+      :END:
+***** NEXT Create filing system
   :LOGBOOK:
   CLOCK: [2013-03-19 Tue 13:40]--[2013-03-19 Tue 13:43] =>  0:03
   :END:
@@ -766,7 +781,7 @@ Archive the lot! Organise into folders/tags whatever. gmail can be the main repo
 - Filing should be replicated through the org files/file system/email and paper based filing. 
 - I'll need an index to my materials. It may be best to use seperate org files for planning work and for filing work. Of course either can reference the other. - My paper files will by stored by index key which I'll periodically print so I have a paper copy for ease of access.
 
-*** DONE Organise research projects 				   :COMPUTER:
+**** DONE Organise research projects				   :COMPUTER:
    - State "DONE"       from "TODO"       [2013-07-09 Tue 11:15]
    :PROPERTIES:
    :ID:       81bb4f28-b031-4061-9092-8e4a24b4b787
@@ -774,90 +789,90 @@ Archive the lot! Organise into folders/tags whatever. gmail can be the main repo
 Need to make project version control and org files linked to from
 gtd. Have some sort of notes folder for each project where I can dump
 blackboard screen shots, scans of notebooks etc.
-***** DONE Make notebook and office projects consistent!
-      - State "DONE"       from "NEXT"       [2013-07-09 Tue 11:15]
-      :PROPERTIES:
-      :ID:       21184652-81da-4475-93b9-e2e18d0a4c06
-      :END:
-***** DONE Make a "new research project" process
+****** DONE Make notebook and office projects consistent!
+       - State "DONE"       from "NEXT"       [2013-07-09 Tue 11:15]
+       :PROPERTIES:
+       :ID:       21184652-81da-4475-93b9-e2e18d0a4c06
+       :END:
+****** DONE Make a "new research project" process
     - State "DONE"       from "NEXT"       [2013-07-09 Tue 11:15]
     :PROPERTIES:
     :ID:       3c0d5b9a-a43e-48b2-9f24-b8acd1e9fa2b
     :END:
 [[*New%20Research%20Project][New Research Project]]
-*** TODO Develop organisation process, workflow			   :ANYWHERE:
-    :PROPERTIES:
-    :ID:       a96c63f6-2ee8-4042-ae7c-3f7d5bc3493e
-    :END:
-**** Notes
+**** TODO Develop organisation process, workflow		   :ANYWHERE:
+     :PROPERTIES:
+     :ID:       a96c63f6-2ee8-4042-ae7c-3f7d5bc3493e
+     :END:
+***** Notes
 what are the structures?
 where do things go?
 e.g. active projects have next items
 someday things are projects/todos without any next?
 What are my 50000ft to runway goals, principles, priorities etc.
 At the runway (i.e. actions) level, I should have a list of procedures for following when doing common tasks e.g. weekly review
-**** DONE Make list of tasks to focus on this week
+***** DONE Make list of tasks to focus on this week
     - State "DONE"       from "NEXT"       [2013-07-09 Tue 11:15]
     :PROPERTIES:
     :ID:       d97c6589-0301-4611-9dc8-b1ea117c1172
     :END:
 This could just be setting priorities and reevaluating them each week?
-**** NEXT Brainstorm high level planning
-     :PROPERTIES:
-     :ID:       56cc0a65-e6e2-4a43-9eff-d5b9a764f2b4
-     :END:
-**** TODO Process for Learning
+***** NEXT Brainstorm high level planning
+      :PROPERTIES:
+      :ID:       56cc0a65-e6e2-4a43-9eff-d5b9a764f2b4
+      :END:
+***** TODO Process for Learning
     :PROPERTIES:
     :ID:       83f37a23-6ab0-4755-8306-39155dc66455
     :END: 
 If I want to learn something, e.g. some maths or self-improvement, juggling, etc., make a project for this in org-mode where I can store notes. It would be really nice to be able to put a bookmark in a pdf/ebook and create a link in org-mode to that bookmark.
-***** NEXT Make org-mode checklist for process
-      :PROPERTIES:
-      :ID:       8722888d-f0b7-47bf-b2b9-c63e6db2275d
-      :END:
-***** TODO Create folder for storing learning projects
+****** NEXT Make org-mode checklist for process
+       :PROPERTIES:
+       :ID:       8722888d-f0b7-47bf-b2b9-c63e6db2275d
+       :END:
+****** TODO Create folder for storing learning projects
   CLOCK: [2012-10-15 Mon 09:47]--[2012-10-15 Mon 09:50] =>  0:03
    :PROPERTIES:
    :ID:       f4126061-82e5-4f60-9063-ab744abea7d0
    :END:
 [2012-10-15 Mon 09:47] 
 
-**** TODO Make processes/procedures				    :SOMEDAY:
-     :PROPERTIES:
-     :ID:       fda5310e-8964-47c0-9864-cc3aa70b7f4d
-     :END:
-***** DONE Make processes org file
-      - State "DONE"       from "SOMEDAY"    [2012-11-30 Fri 13:47]
+***** TODO Make processes/procedures				    :SOMEDAY:
       :PROPERTIES:
-      :ID:       aad12764-f51e-4b57-aeb2-23b4a69c6df2
+      :ID:       fda5310e-8964-47c0-9864-cc3aa70b7f4d
       :END:
-***** DONE Make weekly review checklist
-      - State "DONE"       from "SOMEDAY"    [2012-11-30 Fri 13:47]
-      :PROPERTIES:
-      :ID:       85435e1c-6adb-45f9-9a6d-bee46ce10a01
-      :END:
-***** DONE Make daily workflow checklist
-      - State "DONE"       from "NEXT"       [2013-07-09 Tue 11:16]
-      :PROPERTIES:
-      :ID:       8f83463d-6ae8-4e9e-bf7f-a0381aaec54b
-      :END:
-***** TODO Add task
-      :PROPERTIES:
-      :ID:       7e90c359-c1ed-43c4-aa84-c66cf3d270e5
-      :END:
-***** TODO Referee paper
-      :PROPERTIES:
-      :ID:       94c9900d-60e4-4006-8e95-3c7e7894ccf7
-      :END:
-***** TODO write paper
-      :PROPERTIES:
-      :ID:       fce0e35e-d58e-4faa-80cf-d29a69116246
-      :END:
-***** TODO prepare course
-      :PROPERTIES:
-      :ID:       ff2df9c9-894e-4aa7-9279-d80dec54de65
-      :END:
-***** DONE Automate getting updates from arxiv
+****** DONE Make processes org file
+       - State "DONE"       from "SOMEDAY"    [2012-11-30 Fri 13:47]
+       :PROPERTIES:
+       :ID:       aad12764-f51e-4b57-aeb2-23b4a69c6df2
+       :END:
+****** DONE Make weekly review checklist
+       - State "DONE"       from "SOMEDAY"    [2012-11-30 Fri 13:47]
+       :PROPERTIES:
+       :ID:       85435e1c-6adb-45f9-9a6d-bee46ce10a01
+       :END:
+****** DONE Make daily workflow checklist
+       - State "DONE"       from "NEXT"       [2013-07-09 Tue 11:16]
+       :PROPERTIES:
+       :ID:       8f83463d-6ae8-4e9e-bf7f-a0381aaec54b
+       :END:
+****** TODO Add task
+       :PROPERTIES:
+       :ID:       7e90c359-c1ed-43c4-aa84-c66cf3d270e5
+       :END:
+****** TODO Referee paper
+       :PROPERTIES:
+       :ID:       94c9900d-60e4-4006-8e95-3c7e7894ccf7
+       :END:
+****** TODO write paper
+       :PROPERTIES:
+       :ID:       fce0e35e-d58e-4faa-80cf-d29a69116246
+       :END:
+****** TODO prepare course
+       :PROPERTIES:
+       :ID:       ff2df9c9-894e-4aa7-9279-d80dec54de65
+       :END:
+****** DONE Automate getting updates from arxiv
      - State "DONE"       from "TODO"       [2013-07-15 Mon 10:45]
 what about journals? Do they have rss?
   CLOCK: [2012-10-19 Fri 10:04]--[2012-10-19 Fri 10:05] =>  0:01
@@ -866,7 +881,7 @@ what about journals? Do they have rss?
      :END:
 [2012-10-19 Fri 10:04]
 
-***** TODO Make seminar process and org-mode checklist
+****** TODO Make seminar process and org-mode checklist
      :PROPERTIES:
      :ID:       c4e43475-1bff-4967-af3b-72bdfaa50a20
      :END:
@@ -876,74 +891,74 @@ maintain email list of speakers, participants
 If I put the schedule in an org file, I should just be able to update the
 org file and have that automatically update the website and send an email
 to the admin people.
-**** NEXT Set up reference filing
+***** NEXT Set up reference filing
 Particularly development!
   CLOCK: [2012-10-21 Sun 17:24]--[2012-10-21 Sun 17:24] =>  0:00
     :PROPERTIES:
     :ID:       96df27fa-64c5-432b-a2c3-9664e37014a6
     :END:
 [2012-10-21 Sun 17:24]
-*** DONE Set up office like in GTD such as trays, clips etc.	     :OFFICE:
-    - State "DONE"       from "TODO"       [2013-07-09 Tue 11:17]
-    :PROPERTIES:
-    :ID:       b2f00a6f-4eb6-4129-bbe8-56f1be40359b
-    :END:
-**** DONE Get trays
-     - State "DONE"       from "NEXT"       [2013-07-09 Tue 11:17]
+**** DONE Set up office like in GTD such as trays, clips etc.	     :OFFICE:
+     - State "DONE"       from "TODO"       [2013-07-09 Tue 11:17]
      :PROPERTIES:
-     :ID:       3f08a61e-4dad-4d70-abb5-d0e85e71d357
+     :ID:       b2f00a6f-4eb6-4129-bbe8-56f1be40359b
      :END:
-**** DONE Get stationary storage
+***** DONE Get trays
+      - State "DONE"       from "NEXT"       [2013-07-09 Tue 11:17]
+      :PROPERTIES:
+      :ID:       3f08a61e-4dad-4d70-abb5-d0e85e71d357
+      :END:
+***** DONE Get stationary storage
     - State "DONE"       from "TODO"       [2013-07-09 Tue 11:17]
   CLOCK: [2012-10-14 Sun 19:56]--[2012-10-14 Sun 19:57] =>  0:01
    :PROPERTIES:
    :ID:       72a41c20-d196-4dbd-bb49-fd7e3e5b63d8
    :END:
 [2012-10-14 Sun 19:56]
-*** TODO Set up home for GTD					       :HOME:
-    :PROPERTIES:
-    :ID:       bbef76b0-b858-474c-a3ff-cdde19189cfd
-    :END:
-**** NEXT Gather materials that need to be organised		       :HOME:
+**** TODO Set up home for GTD					       :HOME:
      :PROPERTIES:
-     :ID:       8e67efe6-712f-49cf-9f55-b5c8656149bd
+     :ID:       bbef76b0-b858-474c-a3ff-cdde19189cfd
      :END:
-**** NEXT Get folders from office for home
+***** NEXT Gather materials that need to be organised		       :HOME:
+      :PROPERTIES:
+      :ID:       8e67efe6-712f-49cf-9f55-b5c8656149bd
+      :END:
+***** NEXT Get folders from office for home
+      :PROPERTIES:
+      :ID:       053596a1-3c7f-4225-a03a-9416b37d894b
+      :END:
+**** TODO Create contact db					   :COMPUTER:
      :PROPERTIES:
-     :ID:       053596a1-3c7f-4225-a03a-9416b37d894b
+     :ID:       a3636804-e3d4-44e3-8872-13a3daac919b
      :END:
-*** TODO Create contact db					   :COMPUTER:
-    :PROPERTIES:
-    :ID:       a3636804-e3d4-44e3-8872-13a3daac919b
-    :END:
-**** NEXT Set up BBDB or org-contacts with emacs
-     :PROPERTIES:
-     :ID:       bbd84d11-e23b-42b6-bd04-be9f6af128f4
-     :END:
-**** TODO Enter contacts into database 
-     :PROPERTIES:
-     :ID:       8c01e987-6ae4-4368-9109-ccadb7a56fe0
-     :END:
-***** People to add:
-****** Bennet
-****** Lei
-****** Jim Isenberg
-****** Scott Rollans, Holly Proudfoot, other guy
-****** Jaques (teaching math142a)
-****** ShiJin
-****** XianFeng
-****** Bo
-****** Mat Langford
-****** Julie
-****** Ben
-****** Steve Roberts
-****** Janet Engebretsen
-****** Friend and family
-**** TODO Sync contact db with google, phone etc.
-     :PROPERTIES:
-     :ID:       42384e87-7e0e-4abc-97d3-e1773f899d54
-     :END:
-*** TODO Manage Life
+***** NEXT Set up BBDB or org-contacts with emacs
+      :PROPERTIES:
+      :ID:       bbd84d11-e23b-42b6-bd04-be9f6af128f4
+      :END:
+***** TODO Enter contacts into database 
+      :PROPERTIES:
+      :ID:       8c01e987-6ae4-4368-9109-ccadb7a56fe0
+      :END:
+****** People to add:
+******* Bennet
+******* Lei
+******* Jim Isenberg
+******* Scott Rollans, Holly Proudfoot, other guy
+******* Jaques (teaching math142a)
+******* ShiJin
+******* XianFeng
+******* Bo
+******* Mat Langford
+******* Julie
+******* Ben
+******* Steve Roberts
+******* Janet Engebretsen
+******* Friend and family
+***** TODO Sync contact db with google, phone etc.
+      :PROPERTIES:
+      :ID:       42384e87-7e0e-4abc-97d3-e1773f899d54
+      :END:
+**** TODO Manage Life
 
 I want to direct my life better. This involves
  
@@ -968,102 +983,102 @@ I want to direct my life better. This involves
    :ID:       850b0057-6b68-451d-a4b2-cbf8012e25c6
    :END:
 [2012-11-06 Tue 14:58]
-**** NEXT Record habits
+***** NEXT Record habits
     :PROPERTIES:
     :ID:       bde471f6-a45d-43a8-9bd2-03827862c7c5
     :END:
 Which habits still need to be added?
-***** Tai Chi
-***** Qi Qong
-***** IntuFlow
-***** Ageless Mobility
-***** Primal Stress
-***** Mediation
-***** Convict conditioning
-***** Chinese
-***** Cooking
-***** Books
-***** Shows
-***** Chess
-**** TODO Set goals
+****** Tai Chi
+****** Qi Qong
+****** IntuFlow
+****** Ageless Mobility
+****** Primal Stress
+****** Mediation
+****** Convict conditioning
+****** Chinese
+****** Cooking
+****** Books
+****** Shows
+****** Chess
+***** TODO Set goals
     :PROPERTIES:
     :ID:       e01b4e75-1481-48be-a05b-f2f3516e1a44
     :END:
 Set long term goals and short term goals. Have say the weeks/months goals in org-mode and use these a guide to choosing tasks.
-***** Health
-****** Build physical strength
-****** Build mental strength
-****** Learn physical tricks
+****** Health
+******* Build physical strength
+******* Build mental strength
+******* Learn physical tricks
 - handstand
 - backflip
 - planche
 - tumbling
 - wu shu
-****** Sleep more
-****** Eat naturally
+******* Sleep more
+******* Eat naturally
 
-***** Outdoors/sports
-****** Bush walking
-****** Soccer
-****** Orienteering
-****** Parkour
+****** Outdoors/sports
+******* Bush walking
+******* Soccer
+******* Orienteering
+******* Parkour
 
-***** Gardening
-****** Community gardening
-****** Balcony gardening
+****** Gardening
+******* Community gardening
+******* Balcony gardening
 
-***** Community
-****** Online stuff like hacking
-****** Health/Fitness
-****** Quantified self
-****** Maths
-****** Family and friends
-****** UCSD
+****** Community
+******* Online stuff like hacking
+******* Health/Fitness
+******* Quantified self
+******* Maths
+******* Family and friends
+******* UCSD
 
-***** Academic
-****** Write papers
-****** Write books
-****** Teach
+****** Academic
+******* Write papers
+******* Write books
+******* Teach
 
-***** Hacking
-****** emacs
-****** android
-****** computational
-**** TODO Quantified self
-     :PROPERTIES:
-     :ID:       90a5676f-ef85-49e2-9a9d-81259fa21719
-     :END:
-***** Record how I use my time
+****** Hacking
+******* emacs
+******* android
+******* computational
+***** TODO Quantified self
+      :PROPERTIES:
+      :ID:       90a5676f-ef85-49e2-9a9d-81259fa21719
+      :END:
+****** Record how I use my time
 I'll need to say use my phone to collect the data. I need something easy to clock in and out of an activity, like transit-shops, transit-uni, transit-home, house-cleaning, teaching-lecturing, teaching-preperation etc.
 
-***** Record sleep
-***** Record blood pressure?
-***** Record weight
-***** Record heart rate
-***** Record finances such as groceries etc.
+****** Record sleep
+****** Record blood pressure?
+****** Record weight
+****** Record heart rate
+****** Record finances such as groceries etc.
 
-**** SOMEDAY Maintain references
+***** SOMEDAY Maintain references
+      :PROPERTIES:
+      :ID:       3fb84c1c-628a-4fa3-8408-e2dc3233d729
+      :END:
+      I want to hang on to emails, articles and so on. I want to keep receipts, ideas and a diary of what I've done. These need to be kept in a filing system somehow, most probaby using org-mode and memacs.
+**** TODO Set up paper-based project organisation
      :PROPERTIES:
-     :ID:       3fb84c1c-628a-4fa3-8408-e2dc3233d729
+     :ID:       25e03d24-e7ce-42a4-bbc1-16c926976dc7
      :END:
-     I want to hang on to emails, articles and so on. I want to keep receipts, ideas and a diary of what I've done. These need to be kept in a filing system somehow, most probaby using org-mode and memacs.
-*** TODO Set up paper-based project organisation
-    :PROPERTIES:
-    :ID:       25e03d24-e7ce-42a4-bbc1-16c926976dc7
-    :END:
-**** NEXT Research paper notebooks				   :COMPUTER:
+***** NEXT Research paper notebooks				   :COMPUTER:
     :PROPERTIES:
     :ID:       95201798-e0f8-4283-ad8c-c9bf948a52f2
     :END:
 Levenger?
-**** NEXT Come up with system for organising work
+***** NEXT Come up with system for organising work
     :PROPERTIES:
     :ID:       5a6703fd-9c54-4259-8319-f258d5ca1387
     :END:
 - Papers/Books should have a folder with paper and notes
 - Projects should have a larger folder with papers, notes etc.
 
-*** TODO Make weekly paper review/check task
+**** TODO Make weekly paper review/check task
   SCHEDULED: <2014-06-01 Sun>
   :LOGBOOK:
   CLOCK: [2013-08-27 Tue 10:33]--[2013-08-27 Tue 10:34] =>  0:01
@@ -1073,7 +1088,7 @@ Levenger?
   :END:
 [2013-08-27 Tue 10:33]
 This is for browsing papers on the Archive and finding good ones to read/review, discuss on SPNET.
-*** DONE Plan time!
+**** DONE Plan time!
   SCHEDULED: <2013-09-12 Thu>
   :LOGBOOK:
   - State "DONE"       from "TODO"       [2013-09-13 Fri 09:52]
@@ -1083,17 +1098,17 @@ This is for browsing papers on the Archive and finding good ones to read/review,
 - Make exercise schedule 
 - Make work schedule
 - Make rec schedule
-*** TODO Create punch in/punch out procedures
+**** TODO Create punch in/punch out procedures
   :LOGBOOK:
   CLOCK: [2014-02-07 Fri 09:38]--[2014-02-07 Fri 09:40] =>  0:02
   :END:
 [2014-02-07 Fri 09:38]
 
-**** Punch In
+***** Punch In
 - Sync with repository
 - Check uncommitted work
 - Open agenda
-**** Punch Out
+***** Punch Out
 - Save org files
 - Sync with repository
 - List any unsaved buffers
@@ -1775,7 +1790,7 @@ yajl-ruby (1.1.0)
   :END:
 ** Organisation
   :LOGBOOK:
-  CLOCK: [2014-04-14 Mon 11:07]
+  CLOCK: [2014-04-14 Mon 11:07]--[2014-04-14 Mon 11:09] =>  0:02
   CLOCK: [2014-04-13 Sun 11:15]--[2014-04-13 Sun 11:30] =>  0:15
   CLOCK: [2014-04-13 Sun 11:01]--[2014-04-13 Sun 11:04] =>  0:03
   CLOCK: [2014-04-12 Sat 15:18]--[2014-04-12 Sat 15:31] =>  0:13
@@ -3887,9 +3902,11 @@ When I set up scoring the day:
 - [ ] Do short tasks
 - [ ] Record morning health stats
 
-** NEXT Weekly Review [17/19]
+** NEXT Weekly Review [11/19]
    SCHEDULED: <2013-12-01 Sun +1w>
    :LOGBOOK:
+   CLOCK: [2014-04-14 Mon 11:23]
+   CLOCK: [2014-04-14 Mon 11:09]--[2014-04-14 Mon 11:22] =>  0:13
    CLOCK: [2014-04-07 Mon 11:22]--[2014-04-07 Mon 12:04] =>  0:42
    CLOCK: [2014-04-01 Tue 11:50]--[2014-04-01 Tue 12:43] =>  0:53
    CLOCK: [2014-03-31 Mon 11:58]--[2014-03-31 Mon 13:23] =>  1:25
@@ -4013,24 +4030,24 @@ What to review:
 - [X] Look at entire agenda for today  =F12 SPC=
 - [X] Check un-committed work
 - [X] Refile tasks
-- [X] Weekly clean up
+- [-] Weekly clean up
   - [X] Clean up Downloads
   - [X] Clean up tmp
-  - [X] Clean up tablet
-  - [X] Clean up phone
-- [-] Process incoming information
+  - [ ] Clean up tablet
+  - [ ] Clean up phone
+- [X] Process incoming information
   - [X] feedly
-  - [ ] pocket
+  - [X] pocket
 - [X] Review focus projects 
 - [X] Set focus
-- [X] Check follow-up paper folder
+- [ ] Check follow-up paper folder
 - [ ] Collate the weeks: pad scribbles, org-mode notes, phone notes, etc.
-- [X] Check Finances
+- [ ] Check Finances
   - Check bank accounts and compare with what's still to come
-- [X] Copy music to phone
-- [X] Share photos on Google+
-- [X] Update Abundant Harvest order
-- [X] Order meat
+- [ ] Copy music to phone
+- [ ] Share photos on Google+
+- [ ] Update Abundant Harvest order
+- [ ] Order meat
   - http://www.son-riseranchstore.com/
 
 ** NEXT Monthly Plan/Review [0/5]

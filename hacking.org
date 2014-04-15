@@ -109,6 +109,24 @@ http://mustache.github.io/
 
 *** Selected papers
 - facebook backend
+** TODO Python window manager
+  SCHEDULED: <2014-06-01 Sun>
+  :LOGBOOK:
+  CLOCK: [2014-04-08 Tue 13:44]--[2014-04-08 Tue 13:59] =>  0:15
+  :END:
+[2014-04-08 Tue 13:44]
+- manages not just windows but data and sharing data
+- e.g: web browser shows an image. 
+  - Drag it to the email program and it creates an email with that image as an attachment. 
+  - Drag it to word processor and it creates a document with the image embedded.
+  - Drag it to a folder in the file manager and it saves the image in a file there (need to have a file name (without extension!), and the file type from which the extension is derived. possibly we prompt the user to edit the file name and extension if desired
+  - browse (file) manager can display anything "browseable", e.g. a local directory, a remote directory, a web page! (it just shows the (html, php, anything unspecified) links as subfolders) and the images, pdf's etc. as files. So we'd need to have some way of identifying a resource as browseable or not and for the unbrowseable resources we treat like a data source and the browseables as something to browse for data sources. We could switch views from say view web page to browse web page.
+  - Drag it to the shell and we can access the object as a file or through a pipe, a temp. file a fifo etc.
+  - left drag is default operation (e.g. copy here in the file manager)
+  - right drag gives a list of choices (e.g. copy here, symlink here in file manager)
+  - make a copy/paste (data sources?) buffer browser. Anytime a resource is dragged from one app to another, it's added to the buffer which may be accessed in several different ways such as a queue (push/pop) or a random access list that can be searched etc. The user can specify different views of this buffer, and automatic filters that add/remove items from certain views. For instance, their could be an images view that only shows image sources. There could be a view for a specific project, where resources are dragged into the view. Possibly we can save/load views and also write code that automatically populates the view, e.g. with everything on a web page though this would be better accessed through the browse (file) manager.
+  - So applications can render content e.g. display a web page, or return a browseable version (which is shown in the default browser). So emacs for instance doesn't need to be changed much. We want to view a web page as browseable in emacs, all we need is an interface from how emacs browses folders to the new browse api and anything emacs does is via the api, which then passes it on to the application e.g. the web page application which returns (via the api) whatever is requested.
+
 * Hardware
   :PROPERTIES:
   :ID:       d0eec980-33e9-47d0-87be-70348f2339ff
