@@ -1414,7 +1414,10 @@ Given $X$ in the equator, let $\rho_{\alpha}(X)$ be the infimum of the lengths o
 	:LOGBOOK:
 	- State "DONE"       from "NEXT"       [2014-04-02 Wed 14:25]
 	:END:
-******* TODO Write introduction
+******* NEXT Write introduction
+	:LOGBOOK:
+	CLOCK: [2014-04-15 Tue 09:42]
+	:END:
 ******* DONE Write notation/prelim
 	:LOGBOOK:
 	- State "DONE"       from "NEXT"       [2014-04-02 Wed 14:26]
@@ -1430,7 +1433,10 @@ Given $X$ in the equator, let $\rho_{\alpha}(X)$ be the infimum of the lengths o
 	- State "CANCELLED"  from "NEXT"       [2014-04-02 Wed 13:59] \\
 	  We just restrict to convex ancient solutions.
 	:END:
-******* NEXT Check if positive curvature implies convex
+******* DONE Check if positive curvature implies convex
+	:LOGBOOK:
+	- State "DONE"       from "NEXT"       [2014-04-15 Tue 09:41]
+	:END:
 - Clauss Gehardt paper mentions this
 ******* NEXT Calculate ancient implies backwards approximate symmetry
 	:LOGBOOK:
