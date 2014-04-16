@@ -1285,16 +1285,6 @@ Key numbers: FR428, FR382.
   :END:
 ** TODO Tasks
 *** TODO Unsorted
-**** DONE Set up emacs server at work
-     SCHEDULED: <2013-09-09 Mon>
-     :LOGBOOK:
-     - State "DONE"       from "WAITING"    [2013-10-12 Sat 11:29]
-     - State "WAITING"    from "NEXT"       [2013-10-04 Fri 11:35] \\
-       Need to put launcher in VC first and then copy to work computer
-     :END:
-     :PROPERTIES:
-     :ID:       1e583864-f5a2-4b35-b097-f4de002fde11
-     :END:
 **** NEXT Research Backups for android devices			   :COMPUTER:
 What do I need to backup? I try to keep data in the cloud. I guess saved games and whatnot would be good to keep. Also there is some config, at least a list of apps!
   CLOCK: [2012-10-24 Wed 12:27]--[2012-10-24 Wed 12:27] =>  0:00
@@ -1318,14 +1308,6 @@ e.g. seminar announcement
    :ID:       16b80048-d170-4695-bc62-3b64e54f41be
    :END:
 [2012-11-09 Fri 10:38]
-
-**** TODO Set up emacsclient
-  :LOGBOOK:
-  :END:
-  :PROPERTIES:
-  :ID:       daf86133-1815-4034-b06e-126d690b54de
-  :END:
-[2012-11-20 Tue 10:23]
 
 **** TODO Set up GPG for email and password encryption
   :LOGBOOK:
@@ -1380,125 +1362,6 @@ Files go into Dropbox and versioned controlled hosted on bitbucket
    :ID:       6fa86edc-bc90-4fb1-afc6-5c9f0056e049
    :END:
 [2012-12-17 Mon 14:13]
-
-**** TODO Configure emacs for email
-     :PROPERTIES:
-     :ID:       59fb7afd-3134-4ef9-80d6-391b05284663
-     :END:
-***** NEXT Set up offlineimap
-    SCHEDULED: <2014-06-01 Sun>
-    :PROPERTIES:
-    :ID:       8e34b366-070d-4735-bad1-9c8fba262783
-    :END:
-See:
-[[http://docs.offlineimap.org/en/latest/MANUAL.html][http://docs.offlineimap.org/en/latest/MANUAL.html]]
-[[http://jak-linux.org/projects/hardlink/]]
-[[http://bramschoenmakers.nl/node/713][http://bramschoenmakers.nl/node/713]]
-[[https://wiki.archlinux.org/index.php/OfflineIMAP#Gmail_configuration][https://wiki.archlinux.org/index.php/OfflineIMAP#Gmail_configuration]]
-[[http://kwlug.org/pipermail/kwlug-disc_kwlug.org/2010-March/004026.html]]
-[[http://reddragdiva.dreamwidth.org/567837.html]]
-[[http://yet-another-problem.blogspot.com/2012/02/gmail-offlineimap-mutt-msmtp.html]]
-http://pbrisbin.com/posts/mutt_gmail_offlineimap/
-
-****** offlineimap configuration ~/.offlineimaprc
-[general]
-accounts = GMail
-maxsyncaccounts = 3
-
-[Account GMail]
-localrepository = Local
-remoterepository = Remote
-
-[Repository Local]
-type = Maildir
-localfolders = ~/Mail
-
-[Repository Remote]
-type = Gmail
-remoteuser = pabryan@gmail.com
-remotepass = Youg2Ltc
-maxconnections = 3
-realdelete = no
-#folderfilter = lambda folder: folder in ['PTE', 'temp']
-#nametrans: lambda folder: folder if folder in ['INBOX', 'Drafts', 'Sent Mail', 'Bin'] \
-#                          else re.sub(r'^', r'gmail.', folder)
-
-
-****** muttrc
-set mbox_type   = Maildir
-set sendmail    = /usr/bin/msmtp
-
-set folder      = ~/Mail
-set spoolfile   = "+INBOX"
-set mbox        = "+[Gmail]/All Mail"
-set postponed   = "+[Gmail]/Drafts"
-unset record
-
-mailboxes +INBOX
-
-macro index D \
-    "<save-message>+[Gmail]/Trash<enter>" \
-    "move message to the trash"
-
-macro index S \
-    "<save-message>+[Gmail]/Spam<enter>" \
-    "mark message as spam"
-
-# main options
-set realname   = "Real Name"
-set from       = "user@gmail.com"
-set mail_check = 0
-set envelope_from
-
-unset move           # gmail does that
-set delete           # don't ask, just do
-unset confirmappend  # don't ask, just do!
-set quit             # don't ask, just do!!
-unset mark_old       # read/new is good enough for me
-
-# sort/threading
-set sort     = threads
-set sort_aux = reverse-last-date-received
-set sort_re
-
-# look and feel
-set pager_index_lines = 8
-set pager_context     = 5
-set pager_stop
-set menu_scroll
-set smart_wrap
-set tilde
-unset markers
-
-# composing 
-set fcc_attach
-unset mime_forward
-set forward_format = "Fwd: %s"
-set include
-set forward_quote
-
-ignore *                               # first, ignore all headers
-unignore from: to: cc: date: subject:  # then, show only these
-hdr_order from: to: cc: date: subject: # and in this order
-
-***** TODO Store passwords in keyring
-    :PROPERTIES:
-    :ID:       fc03edb7-f209-45db-8414-c0b249b02351
-    :END:
-[[http://pypi.python.org/pypi/keyring][http://pypi.python.org/pypi/keyring]]
-[[http://www.emacswiki.org/emacs/OfflineIMAP][http://www.emacswiki.org/emacs/OfflineIMAP]]
-
-***** TODO Choose emacs email reading/writing method
-    :PROPERTIES:
-    :ID:       4bc3c470-a7ec-4a15-a78f-3e0e03f33ad6
-    :END:
-
-[[http://www.emacswiki.org/emacs/CategoryMail]]
-Does mutt integrate well?
-[[http://www.emacswiki.org/emacs/MuttInEmacs][http://www.emacswiki.org/emacs/MuttInEmacs]]
-
-***** NEXT Integrate org-mode and mutt
-http://upsilon.cc/~zack/blog/posts/2010/02/integrating_Mutt_with_Org-mode/
 
 **** TODO Fix up work TeX setup
   :LOGBOOK:
@@ -1626,16 +1489,6 @@ this way I can track upstream and keep my work independent and then merge, push 
    :ID:       0c7e06ff-c9bf-4ef3-977d-a5247065db29
    :END:
 [2013-08-20 Tue 11:37]
-
-**** DONE Flyspell
-  SCHEDULED: <2013-09-09 Mon>
-  :LOGBOOK:
-  - State "DONE"       from "TODO"       [2013-09-27 Fri 18:36]
-  :END:
-  :PROPERTIES:
-  :ID:       97195914-b858-453d-a51b-da31a655ff92
-  :END:
-[2013-08-21 Wed 20:35]
 
 **** DONE Set up sshfs with autofs
   SCHEDULED: <2013-09-29 Sun>
@@ -1781,6 +1634,155 @@ yajl-ruby (1.1.0)
   - http://stackoverflow.com/questions/63421/using-emacs-as-an-ide
   - http://ergoemacs.org/emacs/emacs_whats_best_setup_for_xyz.html
   - http://www.logilab.org/173886
+
+**** DONE Set up emacs server at work
+     SCHEDULED: <2013-09-09 Mon>
+     :LOGBOOK:
+     - State "DONE"       from "WAITING"    [2013-10-12 Sat 11:29]
+     - State "WAITING"    from "NEXT"       [2013-10-04 Fri 11:35] \\
+       Need to put launcher in VC first and then copy to work computer
+     :END:
+     :PROPERTIES:
+     :ID:       1e583864-f5a2-4b35-b097-f4de002fde11
+     :END:
+**** TODO Set up emacsclient
+  :LOGBOOK:
+  :END:
+  :PROPERTIES:
+  :ID:       daf86133-1815-4034-b06e-126d690b54de
+  :END:
+[2012-11-20 Tue 10:23]
+
+**** TODO Configure emacs for email
+     :PROPERTIES:
+     :ID:       59fb7afd-3134-4ef9-80d6-391b05284663
+     :END:
+***** NEXT Set up offlineimap
+    SCHEDULED: <2014-06-01 Sun>
+    :PROPERTIES:
+    :ID:       8e34b366-070d-4735-bad1-9c8fba262783
+    :END:
+See:
+[[http://docs.offlineimap.org/en/latest/MANUAL.html][http://docs.offlineimap.org/en/latest/MANUAL.html]]
+[[http://jak-linux.org/projects/hardlink/]]
+[[http://bramschoenmakers.nl/node/713][http://bramschoenmakers.nl/node/713]]
+[[https://wiki.archlinux.org/index.php/OfflineIMAP#Gmail_configuration][https://wiki.archlinux.org/index.php/OfflineIMAP#Gmail_configuration]]
+[[http://kwlug.org/pipermail/kwlug-disc_kwlug.org/2010-March/004026.html]]
+[[http://reddragdiva.dreamwidth.org/567837.html]]
+[[http://yet-another-problem.blogspot.com/2012/02/gmail-offlineimap-mutt-msmtp.html]]
+http://pbrisbin.com/posts/mutt_gmail_offlineimap/
+
+****** offlineimap configuration ~/.offlineimaprc
+[general]
+accounts = GMail
+maxsyncaccounts = 3
+
+[Account GMail]
+localrepository = Local
+remoterepository = Remote
+
+[Repository Local]
+type = Maildir
+localfolders = ~/Mail
+
+[Repository Remote]
+type = Gmail
+remoteuser = pabryan@gmail.com
+remotepass = Youg2Ltc
+maxconnections = 3
+realdelete = no
+#folderfilter = lambda folder: folder in ['PTE', 'temp']
+#nametrans: lambda folder: folder if folder in ['INBOX', 'Drafts', 'Sent Mail', 'Bin'] \
+#                          else re.sub(r'^', r'gmail.', folder)
+
+
+****** muttrc
+set mbox_type   = Maildir
+set sendmail    = /usr/bin/msmtp
+
+set folder      = ~/Mail
+set spoolfile   = "+INBOX"
+set mbox        = "+[Gmail]/All Mail"
+set postponed   = "+[Gmail]/Drafts"
+unset record
+
+mailboxes +INBOX
+
+macro index D \
+    "<save-message>+[Gmail]/Trash<enter>" \
+    "move message to the trash"
+
+macro index S \
+    "<save-message>+[Gmail]/Spam<enter>" \
+    "mark message as spam"
+
+# main options
+set realname   = "Real Name"
+set from       = "user@gmail.com"
+set mail_check = 0
+set envelope_from
+
+unset move           # gmail does that
+set delete           # don't ask, just do
+unset confirmappend  # don't ask, just do!
+set quit             # don't ask, just do!!
+unset mark_old       # read/new is good enough for me
+
+# sort/threading
+set sort     = threads
+set sort_aux = reverse-last-date-received
+set sort_re
+
+# look and feel
+set pager_index_lines = 8
+set pager_context     = 5
+set pager_stop
+set menu_scroll
+set smart_wrap
+set tilde
+unset markers
+
+# composing 
+set fcc_attach
+unset mime_forward
+set forward_format = "Fwd: %s"
+set include
+set forward_quote
+
+ignore *                               # first, ignore all headers
+unignore from: to: cc: date: subject:  # then, show only these
+hdr_order from: to: cc: date: subject: # and in this order
+
+***** TODO Store passwords in keyring
+    :PROPERTIES:
+    :ID:       fc03edb7-f209-45db-8414-c0b249b02351
+    :END:
+[[http://pypi.python.org/pypi/keyring][http://pypi.python.org/pypi/keyring]]
+[[http://www.emacswiki.org/emacs/OfflineIMAP][http://www.emacswiki.org/emacs/OfflineIMAP]]
+
+***** TODO Choose emacs email reading/writing method
+    :PROPERTIES:
+    :ID:       4bc3c470-a7ec-4a15-a78f-3e0e03f33ad6
+    :END:
+
+[[http://www.emacswiki.org/emacs/CategoryMail]]
+Does mutt integrate well?
+[[http://www.emacswiki.org/emacs/MuttInEmacs][http://www.emacswiki.org/emacs/MuttInEmacs]]
+
+***** NEXT Integrate org-mode and mutt
+http://upsilon.cc/~zack/blog/posts/2010/02/integrating_Mutt_with_Org-mode/
+
+***** NEXT Check out gmane
+http://gmane.org
+**** DONE Flyspell
+  SCHEDULED: <2013-09-09 Mon>
+  :LOGBOOK:
+  - State "DONE"       from "TODO"       [2013-09-27 Fri 18:36]
+  :END:
+  :PROPERTIES:
+  :ID:       97195914-b858-453d-a51b-da31a655ff92
+  :END:
+[2013-08-21 Wed 20:35]
 
 *** Notes
 *** References
