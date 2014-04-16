@@ -1416,7 +1416,7 @@ Given $X$ in the equator, let $\rho_{\alpha}(X)$ be the infimum of the lengths o
 	:END:
 ******* NEXT Write introduction
 	:LOGBOOK:
-	CLOCK: [2014-04-15 Tue 12:44]
+	CLOCK: [2014-04-15 Tue 12:44]--[2014-04-15 Tue 15:49] =>  3:05
 	CLOCK: [2014-04-15 Tue 09:42]--[2014-04-15 Tue 10:09] =>  0:27
 	:END:
 ******* DONE Write notation/prelim
@@ -1424,6 +1424,9 @@ Given $X$ in the equator, let $\rho_{\alpha}(X)$ be the infimum of the lengths o
 	- State "DONE"       from "NEXT"       [2014-04-02 Wed 14:26]
 	:END:
 ******* NEXT Created titled reflection figure
+	:LOGBOOK:
+	CLOCK: [2014-04-15 Tue 15:49]--[2014-04-15 Tue 16:26] =>  0:37
+	:END:
 ****** TODO Maths
 ******* DONE Prove ancient solutions lie in a hemisphere
 	:LOGBOOK:
