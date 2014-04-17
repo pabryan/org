@@ -4227,18 +4227,34 @@ Rowland Hall 340P
 **** TODO Talk
 [[file:~/working/academic/seminars/ucsc_colloquium_spring_2014]]
 ***** TODO Slides
-****** NEXT Set up slides
+      :LOGBOOK:
+      CLOCK: [2014-04-17 Thu 08:38]--[2014-04-17 Thu 08:39] =>  0:01
+      :END:
+****** DONE Set up slides
        SCHEDULED: <2014-04-14 Mon>
        :LOGBOOK:
+       - State "DONE"       from "NEXT"       [2014-04-17 Thu 08:38]
+       CLOCK: [2014-04-17 Thu 08:12]--[2014-04-17 Thu 08:38] =>  0:26
        CLOCK: [2014-03-29 Sat 15:06]--[2014-03-29 Sat 15:27] =>  0:21
        CLOCK: [2014-03-29 Sat 10:59]--[2014-03-29 Sat 11:27] =>  0:28
        CLOCK: [2014-03-29 Sat 09:08]--[2014-03-29 Sat 09:29] =>  0:21
        :END:
-****** NEXT Write UCSC Colloquium outline
+****** DONE Write UCSC Colloquium outline
        SCHEDULED: <2014-04-14 Mon>
+       :LOGBOOK:
+       - State "DONE"       from "NEXT"       [2014-04-17 Thu 08:38]
+       :END:
 ****** TODO Write details
        DEADLINE: <2014-05-09 Fri>
 
+******* TODO Curvature
+******** NEXT Create images of const. curvature iso regions
+	 :LOGBOOK:
+	 CLOCK: [2014-04-17 Thu 08:39]--[2014-04-17 Thu 09:52] =>  1:13
+	 :END:
+******* TODO Symmetry
+******* TODO Isoperimetric Profile
+******* TODO Geometric Flows
 **** TODO Admin
 ***** DONE Prepare documents
       :LOGBOOK:
