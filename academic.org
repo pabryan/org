@@ -1288,13 +1288,16 @@ The $K$ term should be divided by $8\pi$.
 	 CLOCK: [2014-03-18 Tue 09:57]--[2014-03-18 Tue 11:04] =>  1:07
 	 CLOCK: [2014-03-17 Mon 23:06]--[2014-03-17 Mon 23:31] =>  0:25
 	 :END:
-******* WAITING Ask Ben and Lei where to publish
+******* DONE Ask Ben and Lei where to publish
 	DEADLINE: <2014-03-21 Fri>
 	 :LOGBOOK:
+	 - State "DONE"       from "WAITING"    [2014-04-17 Thu 15:21]
 	 - State "WAITING"    from "DONE"       [2014-03-06 Thu 08:24] \\
 	   Waiting to hear back from Ben.
 	 :END:
 
+******* TODO Submit
+******** NEXT Submit to Journal of Geometric Analysis
 ***** Notes
 ***** References
 
