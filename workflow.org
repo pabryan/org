@@ -642,8 +642,8 @@ It would be nice to narrow to a project and have it display sub-projects in an e
 
 Things are getting a little out of hand. I think I should break up configuration based on relevance: latex, agenda, etc.
 
-n>* TODO Write research project summaries/proposals
-  DEADLINE: <2014-04-25 Fri>
+**** TODO Write research project summaries/proposals
+  SCHEDULED: <2014-06-01 Sun>
   :LOGBOOK:
   CLOCK: [2014-03-21 Fri 13:09]--[2014-03-21 Fri 13:10] =>  0:01
   :END:
@@ -1425,7 +1425,7 @@ https://wiki.archlinux.org/index.php/NetworkManager#Use_dispatcher_to_connect_to
 http://askubuntu.com/questions/198136/error-when-trying-to-connect-to-vpn-on-startup
 
 **** TODO Clean up files
-   SCHEDULED: <2014-04-07 Mon>
+   SCHEDULED: <2014-05-18 Sun>
   :LOGBOOK:
   CLOCK: [2013-07-30 Tue 19:49]--[2013-07-30 Tue 19:53] =>  0:04
   :END:
@@ -1437,7 +1437,7 @@ http://askubuntu.com/questions/198136/error-when-trying-to-connect-to-vpn-on-sta
 - oldpaul
 - uni 
 **** TODO organise external working
-  SCHEDULED: <2014-04-07 Mon>
+  SCHEDULED: <2014-05-18 Sun>
   :LOGBOOK:
   CLOCK: [2013-08-06 Tue 21:01]--[2013-08-06 Tue 21:05] =>  0:04
   :END:
@@ -1474,7 +1474,7 @@ http://askubuntu.com/questions/198136/error-when-trying-to-connect-to-vpn-on-sta
 [2013-08-06 Tue 21:05]
 this way I can track upstream and keep my work independent and then merge, push to upstream etc. as appropriate
 **** TODO Make a list of required software
-  SCHEDULED: <2014-04-07 Mon>
+  SCHEDULED: <2014-05-18 Sun>
   :LOGBOOK:
   CLOCK: [2013-08-09 Fri 09:20]--[2013-08-09 Fri 09:22] =>  0:02
   :END:
@@ -1799,6 +1799,7 @@ http://gmane.org
   :END:
 ** Organisation
   :LOGBOOK:
+  CLOCK: [2014-04-18 Fri 09:49]--[2014-04-18 Fri 09:52] =>  0:03
   CLOCK: [2014-04-17 Thu 15:21]--[2014-04-17 Thu 15:22] =>  0:01
   CLOCK: [2014-04-17 Thu 12:26]--[2014-04-17 Thu 12:41] =>  0:15
   CLOCK: [2014-04-17 Thu 08:09]--[2014-04-17 Thu 08:12] =>  0:03
@@ -3368,6 +3369,7 @@ When I set up scoring the day:
 ** NEXT Daily Plan [0/7]
    SCHEDULED: <2014-04-18 Fri .+1d/2d>
    :LOGBOOK:
+   CLOCK: [2014-04-18 Fri 09:52]--[2014-04-18 Fri 09:56] =>  0:04
    - State "DONE"       from "NEXT"       [2014-04-17 Thu 08:09]
    CLOCK: [2014-04-17 Thu 08:05]--[2014-04-17 Thu 08:09] =>  0:04
    - State "DONE"       from "NEXT"       [2014-04-16 Wed 09:23]
