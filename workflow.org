@@ -663,6 +663,13 @@ I want to have descriptions of my various research projects with clear aims, a s
   SCHEDULED: <2014-06-01 Sun>
 [2014-02-10 Mon 15:45]
 How do I choose which course?
+*** Babel
+**** TODO Research Babel
+***** NEXT Read tutorials
+      :LOGBOOK:
+      CLOCK: [2014-04-17 Thu 19:30]
+      :END:
+
 ** Hacking
 *** TODO special headlines
   :LOGBOOK:
