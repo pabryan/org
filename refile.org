@@ -24,3 +24,9 @@
 [2014-04-17 Thu 09:54]
 - Bottom cover
 - Filter
+* TODO Prevent new org-export from polluting src directory
+  :LOGBOOK:
+  CLOCK: [2014-04-18 Fri 12:38]--[2014-04-18 Fri 12:39] =>  0:01
+  :END:
+[2014-04-18 Fri 12:38]
+It puts the tex, pdf and all associated files in the src dir and not in the output dir.
