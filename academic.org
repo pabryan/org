@@ -1750,6 +1750,7 @@ Probably also need concave comparison functions. This should rule out $\tang_p =
 	 SCHEDULED: <2014-04-02 Wed>
 
     :LOGBOOK:
+    CLOCK: [2014-04-18 Fri 11:09]
     CLOCK: [2014-04-10 Thu 10:38]--[2014-04-10 Thu 11:42] =>  1:04
     - State "NEXT"       from "DONE"       [2014-04-01 Tue 20:33] \\
       It's still not written up.
