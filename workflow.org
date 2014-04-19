@@ -54,6 +54,13 @@ I think I need some sort of filter for this.
   SCHEDULED: <2014-05-05 Mon>
 [2014-04-12 Sat 19:26]
 - Put common things besides bib stuff into a setup file
+**** NEXT Prevent new org-export from polluting src directory
+  :LOGBOOK:
+  CLOCK: [2014-04-18 Fri 12:40]--[2014-04-18 Fri 12:42] =>  0:02
+  CLOCK: [2014-04-18 Fri 12:38]--[2014-04-18 Fri 12:39] =>  0:01
+  :END:
+[2014-04-18 Fri 12:38]
+It puts the tex, pdf and all associated files in the src dir and not in the output dir.
 *** Cleaning up
 **** NEXT Sort org-mode tasks list
   :LOGBOOK:
