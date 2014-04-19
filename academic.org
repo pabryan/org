@@ -1778,7 +1778,8 @@ This requires an estimate of $\int k f(k)$ analogous to Holder's for CSF where $
 - I want something like $\int f(k)k \geq (\int g(k))^{\alpha+1}/l^{\alpha}$ where $f$ is homogeneous of degree $\alpha$, and $g$ is homogeneous of degree $1$.
 ******* NEXT Estimate integrals by Angenent
 	:LOGBOOK:
-	CLOCK: [2014-04-18 Fri 18:40]
+	CLOCK: [2014-04-18 Fri 19:18]--[2014-04-18 Fri 19:53] =>  0:35
+	CLOCK: [2014-04-18 Fri 18:40]--[2014-04-18 Fri 19:14] =>  0:34
 	:END:
 ******* TODO Find comparison solutions
        	:PROPERTIES:
