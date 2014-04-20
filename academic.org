@@ -1135,7 +1135,7 @@ how are they related?
 	:END:
 ******* NEXT Compute scaling in porous media change of vars to remove lower order terms
 	:LOGBOOK:
-	CLOCK: [2014-04-19 Sat 20:29]
+	CLOCK: [2014-04-19 Sat 20:29]--[2014-04-19 Sat 20:48] =>  0:19
 	:END:
 ****** DONE Comparisons
        :LOGBOOK:
