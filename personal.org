@@ -49,17 +49,17 @@ END:
 |                      |       |
 | Extras Subtotal      |   133 |
 |                      |       |
-| Organic Box          |   250 |
-| Weekly Food          |   350 |
-| Costco               |   200 |
+| Organic Box          |   200 |
+| Weekly Food          |   200 |
+| Costco               |   350 |
 |                      |       |
-| Food Subtotal        |   850 |
+| Food Subtotal        |   750 |
 |                      |       |
 | Australia            |   915 |
 |                      |       |
 | Pay                  | -3800 |
 |                      |       |
-| Total                |   -26 |
+| Total                |  -126 |
    #+TBLFM: @8$2=vsum(@2$2..@7$2)::@12$2=vsum(@10$2..@11$2)::@20$2=vsum(@14..@19)::@26$2=vsum(@22..@25)::@28$2=remote(Australia,@8$2)::@32$2=@8$2 + @12$2 + @20$2+@26$2+@28$2+@30$2
 
 
