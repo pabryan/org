@@ -1313,7 +1313,11 @@ The $K$ term should be divided by $8\pi$.
 	 :END:
 
 ******* TODO Submit
-******** NEXT Submit to Journal of Geometric Analysis
+******** WAITING Submit to Annali della Scuola Normale Superiore, Classe di Scienze
+	 :LOGBOOK:
+	 - State "WAITING"    from "NEXT"       [2014-04-22 Tue 19:54] \\
+	   Submitted. Waiting for response.
+	 :END:
 ***** Notes
 ***** References
 
