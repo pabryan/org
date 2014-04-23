@@ -1746,10 +1746,11 @@ Probably also need concave comparison functions. This should rule out $\tang_p =
        	:PROPERTIES:
        	:ID:       5cf57941-4d6b-47ca-9ed3-72ed629e304e
        	:END:
-******* NEXT Estimate integrals for max principle arg
+******* DONE Estimate integrals by Holder
 	 SCHEDULED: <2014-04-02 Wed>
 
     :LOGBOOK:
+    - State "DONE"       from "NEXT"       [2014-04-18 Fri 19:04]
     CLOCK: [2014-04-18 Fri 12:39]--[2014-04-18 Fri 12:40] =>  0:01
     CLOCK: [2014-04-18 Fri 11:09]--[2014-04-18 Fri 12:38] =>  1:29
     CLOCK: [2014-04-10 Thu 10:38]--[2014-04-10 Thu 11:42] =>  1:04
@@ -1769,8 +1770,17 @@ Probably also need concave comparison functions. This should rule out $\tang_p =
     :END:
 This requires an estimate of $\int k f(k)$ analogous to Holder's for CSF where $f(k)=k$.
 
-******* NEXT Investigate whether Holder may be used for homogeneous functions
+******* CANCELLED Investigate whether Holder may be used for homogeneous functions
+	:LOGBOOK:
+	- State "CANCELLED"  from "NEXT"       [2014-04-18 Fri 19:04] \\
+	  Not needed.
+	:END:
 - I want something like $\int f(k)k \geq (\int g(k))^{\alpha+1}/l^{\alpha}$ where $f$ is homogeneous of degree $\alpha$, and $g$ is homogeneous of degree $1$.
+******* NEXT Estimate integrals by Angenent
+	:LOGBOOK:
+	CLOCK: [2014-04-18 Fri 19:18]--[2014-04-18 Fri 19:53] =>  0:35
+	CLOCK: [2014-04-18 Fri 18:40]--[2014-04-18 Fri 19:14] =>  0:34
+	:END:
 ******* TODO Find comparison solutions
        	:PROPERTIES:
        	:ID:       9c3e45f9-6c61-48b8-b0e1-eaae4fd6514b
