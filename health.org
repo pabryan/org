@@ -13,10 +13,18 @@
     :STYLE:    habit
     :REPEAT_TO_STATE: NEXT
     :ID:       8d56b2ef-1b49-4dc4-b701-1d021a293fa4
-    :LAST_REPEAT: [2014-04-23 Wed 09:51]
+<<<<<<< local
+:LAST_REPEAT: [2014-04-23 Wed 13:04]
+=======
+    :LAST_REPEAT: [2014-04-22 Tue 18:09]
+>>>>>>> other
     :END:
     :LOGBOOK:
     - State "DONE"       from "NEXT"       [2014-04-23 Wed 09:51]
+    - State "DONE"       from "NEXT"       [2014-04-22 Tue 18:09]
+    - State "DONE"       from "NEXT"       [2014-04-20 Sun 16:52]
+    - State "DONE"       from "NEXT"       [2014-04-19 Sat 12:29]
+    - State "DONE"       from "NEXT"       [2014-04-18 Fri 20:11]
     - State "DONE"       from "NEXT"       [2014-04-17 Thu 12:27]
     - State "DONE"       from "NEXT"       [2014-04-15 Tue 16:26]
     - State "DONE"       from "NEXT"       [2014-04-09 Wed 21:59]
@@ -297,8 +305,11 @@
     - State "DONE"       from "NEXT"       [2013-03-09 Sat 11:10]
     :END:
 *** NEXT Mobility
-    SCHEDULED: <2014-04-19 Sat .+1d/2d>
+    SCHEDULED: <2014-04-23 Wed .+1d/2d>
     :LOGBOOK:
+    - State "DONE"       from "NEXT"       [2014-04-22 Tue 10:14]
+    - State "DONE"       from "NEXT"       [2014-04-20 Sun 16:51]
+    - State "DONE"       from "NEXT"       [2014-04-19 Sat 12:29]
     - State "DONE"       from "NEXT"       [2014-04-18 Fri 09:52]
     - State "DONE"       from "NEXT"       [2014-04-17 Thu 12:27]
     - State "DONE"       from "NEXT"       [2014-04-15 Tue 09:35]
@@ -637,7 +648,7 @@
     :STYLE:    habit
     :REPEAT_TO_STATE: NEXT
     :ID:       0e75f56d-0356-4a0f-a376-080471ad4aad
-    :LAST_REPEAT: [2014-04-18 Fri 09:52]
+    :LAST_REPEAT: [2014-04-22 Tue 10:14]
     :END:
 
 *** NEXT Daily Release
@@ -814,8 +825,12 @@
     :ID:       f57232cd-a8f2-4a76-a507-4d69f765a521
     :END:
 *** NEXT Relax/Meditate
-    SCHEDULED: <2014-04-18 Fri .+1d/2d>
+    SCHEDULED: <2014-04-23 Wed .+1d/2d>
   :LOGBOOK:
+  - State "DONE"       from "NEXT"       [2014-04-22 Tue 18:14]
+  - State "DONE"       from "NEXT"       [2014-04-20 Sun 16:51]
+  - State "DONE"       from "NEXT"       [2014-04-19 Sat 19:22]
+  - State "DONE"       from "NEXT"       [2014-04-18 Fri 20:11]
   - State "DONE"       from "NEXT"       [2014-04-17 Thu 19:29]
   - State "DONE"       from "NEXT"       [2014-04-15 Tue 20:32]
   - State "DONE"       from "NEXT"       [2014-04-01 Tue 19:33]
@@ -1014,7 +1029,7 @@
   :STYLE:    habit
   :REPEAT_TO_STATE: NEXT
   :ID:       c0aaf33a-af77-446b-b9fd-cf2d2f78c12a
-  :LAST_REPEAT: [2014-04-17 Thu 19:29]
+  :LAST_REPEAT: [2014-04-22 Tue 18:14]
   :END:
 
 

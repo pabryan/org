@@ -748,6 +748,9 @@ CR-8403 - "Curvature contraction of convex hypersurfaces by nonsmooth speeds by 
 Classification of compact convex ancient solutions of the planar affine normal flow
 [[file:~/reference/academic/journals/referee/JGEA-D-14-00048/JGEA-D-14-00048.pdf]]
 ***** NEXT Skim through paper
+      :LOGBOOK:
+      CLOCK: [2014-04-22 Tue 11:25]--[2014-04-22 Tue 11:48] =>  0:23
+      :END:
 
 ** Discussion
 *** Selected Papers
@@ -985,7 +988,10 @@ Try to use as much available software that I can find. Do it like Sage - don't r
 	:PROPERTIES:
 	:ID:       8d5d5e90-1bc6-47d8-965a-fae03c336c27
 	:END:
-****** TODO Write content
+****** DONE Write content
+       :LOGBOOK:
+       - State "DONE"       from "TODO"       [2014-04-19 Sat 20:29]
+       :END:
        :PROPERTIES:
        :ID:       3723cb1d-4761-4c0a-b3d4-fc62bca216c2
        :END:
@@ -1131,7 +1137,13 @@ how are they related?
 	:ID:       86881bec-f41e-4f19-9b7e-b055f117c357
 	:END:
 ******* NEXT Compute scaling in porous media change of vars to remove lower order terms
-****** TODO Comparisons
+	:LOGBOOK:
+	CLOCK: [2014-04-19 Sat 20:29]--[2014-04-19 Sat 20:48] =>  0:19
+	:END:
+****** DONE Comparisons
+       :LOGBOOK:
+       - State "DONE"       from "TODO"       [2014-04-19 Sat 20:30]
+       :END:
        :PROPERTIES:
        :ID:       321d75db-7c19-457c-b955-3f7236b899e2
        :END:
@@ -1229,7 +1241,11 @@ I have a lower bound for the numerator. To get an upper bound for the denominato
 	 :PROPERTIES:
 	 :ID:       ab3eb799-03db-408c-bbb3-2bd3b747b024
 	 :END:
-******* NEXT Check Ben Chow's book for planer integrability of 1st derivative
+******* CANCELLED Check Ben Chow's book for planer integrability of 1st derivative
+	:LOGBOOK:
+	- State "CANCELLED"  from "NEXT"       [2014-04-19 Sat 20:30] \\
+	  Didn't bother with it.
+	:END:
        	:PROPERTIES:
        	:ID:       68503bad-abd4-49d4-97a6-537854ccc13e
        	:END:
@@ -1297,7 +1313,11 @@ The $K$ term should be divided by $8\pi$.
 	 :END:
 
 ******* TODO Submit
-******** NEXT Submit to Journal of Geometric Analysis
+******** WAITING Submit to Annali della Scuola Normale Superiore, Classe di Scienze
+	 :LOGBOOK:
+	 - State "WAITING"    from "NEXT"       [2014-04-22 Tue 19:54] \\
+	   Submitted. Waiting for response.
+	 :END:
 ***** Notes
 ***** References
 
@@ -1478,6 +1498,7 @@ Given $X$ in the equator, let $\rho_{\alpha}(X)$ be the infimum of the lengths o
 
 ******* Weekly Janelle
 	:LOGBOOK:
+	CLOCK: [2014-04-23 Wed 14:03]--[2014-04-23 Wed 15:59] =>  1:56
 	CLOCK: [2014-04-16 Wed 14:10]--[2014-04-16 Wed 16:19] =>  2:09
 	CLOCK: [2014-04-08 Tue 14:00]--[2014-04-08 Tue 16:36] =>  2:36
 	CLOCK: [2014-03-11 Tue 14:30]--[2014-03-11 Tue 16:16] =>  1:46
@@ -1867,6 +1888,10 @@ A few typos and what not came in after rearranging
        :END:
 Let $\xi(p_0, q_0) = 0$ if $\tang_{p_0}=\tang_{q_0}$ and $1$ otherwise. Then I can write one viscosity equation.
 
+******* NEXT Proof reading
+	:LOGBOOK:
+	CLOCK: [2014-04-19 Sat 12:50]--[2014-04-19 Sat 14:09] =>  1:19
+	:END:
 ******* NEXT Final proof read
 	:LOGBOOK:
 	CLOCK: [2014-02-12 Wed 15:16]--[2014-02-12 Wed 15:40] =>  0:24

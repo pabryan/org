@@ -410,8 +410,34 @@ $11.25
 $10
 ***** Maritime Museum
 <2014-04-17 Thu>
-**** Work samples
-     DEADLINE: <2014-04-20 Sun +2m>
+**** Work Samples
+***** Work samples Due
+      DEADLINE: <2014-06-20 Fri>
+      :LOGBOOK:
+      - State "DONE"       from "TODO"       [2014-04-22 Tue 10:07]
+      :END:
+      :PROPERTIES:
+      :LAST_REPEAT: [2014-04-22 Tue 10:07]
+      :END:
+
+***** Work samples Due
+      DEADLINE: <2014-07-20 Sun>
+
+***** Work samples Due
+      DEADLINE: <2014-08-20 Wed>
+
+***** Work samples Due
+      DEADLINE: <2014-09-20 Sat>
+
+***** Work samples Due
+      DEADLINE: <2014-10-20 Mon>
+
+***** Work samples Due
+      DEADLINE: <2014-11-20 Thu>
+
+***** Work samples Due
+      DEADLINE: <2014-12-20 Sat>
+
 
 *** Forms
 **** DONE Turn in monthly form

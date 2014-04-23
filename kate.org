@@ -172,3 +172,23 @@ confirmation: 5061008131350
   - State "DONE"       from "TODO"       [2014-04-16 Wed 09:23]
   :END:
 [2014-02-04 Tue 14:14]
+* Events
+** Birthday
+*** 2014
+**** TODO Prepare for Kate's Birthday
+  SCHEDULED: <2014-10-01 Wed>
+  :LOGBOOK:
+  CLOCK: [2014-04-17 Thu 09:53]--[2014-04-17 Thu 09:54] =>  0:01
+  :END:
+[2014-04-17 Thu 09:53]
+
+** Mother's Day
+*** 2014
+**** TODO Prepare for mother's day
+  SCHEDULED: <2014-04-19 Sat>
+  :LOGBOOK:
+  CLOCK: [2014-04-17 Thu 09:52]--[2014-04-17 Thu 09:53] =>  0:01
+  :END:
+[2014-04-17 Thu 09:52]
+- Mother's day May 11
+

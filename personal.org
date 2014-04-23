@@ -49,17 +49,17 @@ END:
 |                      |       |
 | Extras Subtotal      |   133 |
 |                      |       |
-| Organic Box          |   250 |
-| Weekly Food          |   350 |
-| Costco               |   200 |
+| Organic Box          |   200 |
+| Weekly Food          |   200 |
+| Costco               |   350 |
 |                      |       |
-| Food Subtotal        |   850 |
+| Food Subtotal        |   750 |
 |                      |       |
 | Australia            |   915 |
 |                      |       |
 | Pay                  | -3800 |
 |                      |       |
-| Total                |   -26 |
+| Total                |  -126 |
    #+TBLFM: @8$2=vsum(@2$2..@7$2)::@12$2=vsum(@10$2..@11$2)::@20$2=vsum(@14..@19)::@26$2=vsum(@22..@25)::@28$2=remote(Australia,@8$2)::@32$2=@8$2 + @12$2 + @20$2+@26$2+@28$2+@30$2
 
 
@@ -1063,7 +1063,6 @@ Hooleys Irish Pub (2955 Jamacha Rd, El Cajon, CA 92019)
   :ID:       dee2dca4-a5da-45e5-a276-2e4f8f255a9c
   :CATEGORY: House
   :END:
-
 ** Tasks
 *** TODO finish house unpacking
     :PROPERTIES:
@@ -1205,6 +1204,11 @@ fluff sheets 1d/2d
     :ID:       026c982f-1f45-4f21-a0f3-2b8279471938
     :END:
 [2013-09-07 Sat 09:44]
+*** TODO Get vacuum cleaner parts
+  SCHEDULED: <2014-05-01 Thu>
+[2014-04-17 Thu 09:54]
+- Bottom cover
+- Filter
 ** Del Sol 							     :DELSOL:
 *** Events
 **** Del Sol Continental Breakfast
@@ -1686,7 +1690,6 @@ http://tioga.sierraclub.org/oars-activity/pages/activity.jsf?activity=56527&othe
 - Sleep pads
 - Sleep pillow
 - batteries: mattress, torch
-
 * Reading							    :READING:
   :PROPERTIES:
   :ID:       0c261d56-d97d-46a5-9e2e-78515bca1ddd
