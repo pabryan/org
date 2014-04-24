@@ -1474,6 +1474,7 @@ Given $X$ in the equator, let $\rho_{\alpha}(X)$ be the infimum of the lengths o
 	:END:
 ******** NEXT Show Taylor expansion gives lower bound on near inequality
 	 :LOGBOOK:
+	 CLOCK: [2014-04-24 Thu 12:55]
 	 CLOCK: [2014-04-16 Wed 09:30]--[2014-04-16 Wed 09:49] =>  0:19
 	 :END:
 ***** Clocking
