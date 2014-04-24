@@ -627,8 +627,11 @@ person in your department who handles benefits information.
     :END:
 [2013-09-07 Sat 09:44]
 Me and Lily
-**** TODO Check out xero shoes rubbing
+**** DONE Check out xero shoes rubbing
   SCHEDULED: <2014-04-12 Sat>
+  :LOGBOOK:
+  - State "DONE"       from "TODO"       [2014-04-24 Thu 12:41]
+  :END:
 [2014-04-08 Tue 13:44]
 *** Appointments
 **** Check up
@@ -1663,8 +1666,12 @@ http://www.meetup.com/FamilyAdventuresinNature/events/161878532/
   San Diego, CA
 ** Travel
 *** Santa Cruz
-**** NEXT Budget for MacDonald hut
+**** CANCELLED Budget for MacDonald hut
 DEADLINE: <2014-04-30 Wed>
+:LOGBOOK:
+- State "CANCELLED"  from "NEXT"       [2014-04-24 Thu 12:42] \\
+  Not going there now.
+:END:
 ** Camping
 *** Palomar camping trip
 <2014-04-25 Fri>--<2014-04-27 Sun>
@@ -1673,8 +1680,11 @@ cost: $20 + 2 * $15 = $50
 http://tioga.sierraclub.org/oars-activity/pages/activity.jsf?activity=56527&otherActivities=false&saddr=8186+Regents+Rd+Apt+203San+Diego%2C+CA+92122-1373
 
 **** Tasks
-***** NEXT Plan Palomar camping trip
+***** DONE Plan Palomar camping trip
     SCHEDULED: <2014-04-13 Sun>
+    :LOGBOOK:
+    - State "DONE"       from "NEXT"       [2014-04-24 Thu 12:41]
+    :END:
 [2014-04-09 Wed 09:46]
 
 - buy tent
