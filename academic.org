@@ -3713,6 +3713,15 @@ http://mathoverflow.net/questions/14877/how-much-of-differential-geometry-can-be
 **** Notes
 Is there a consistent (say providing ZFC is consistent) set theory without the empty set? That is, a non-trivial theory implies that there is at least one set. Does there have to be a minimum set under inclusion? Usually we want the empty set as a start point to bootstrap from there, creating say $1, 2, 3, \cdots$ and ordinal numbers. But, does there have to be a starting point?
 
+*** TODO Immersions of symmetric spaces
+**** Tasks
+**** Meetings
+***** Nolan Wallach
+****** General Discussion
+       :LOGBOOK:
+       CLOCK: [2014-04-28 Mon 11:39]--[2014-04-28 Mon 12:14] =>  0:35
+       :END:
+**** Notes
 ** Reading
    :PROPERTIES:
    :ID:       3b692ea2-10eb-4586-ae3e-2006ce6a3c0e
