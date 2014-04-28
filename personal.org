@@ -1691,9 +1691,10 @@ http://tioga.sierraclub.org/oars-activity/pages/activity.jsf?activity=56527&othe
 - send cheque
 - plan food, equipment
 - Send check made out to Sierra club to 8728 Nottingham place, northridge, 91325
-***** TODO Get Camping supplies
+***** DONE Get Camping supplies
   SCHEDULED: <2014-04-19 Sat>
   :LOGBOOK:
+  - State "DONE"       from "TODO"       [2014-04-28 Mon 09:49]
   CLOCK: [2014-04-18 Fri 19:14]--[2014-04-18 Fri 19:18] =>  0:04
   :END:
 [2014-04-18 Fri 19:14] 
