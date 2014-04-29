@@ -1271,8 +1271,11 @@ http://goo.gl/maps/052G5
      :END:
 [2013-08-04 Sun 09:58]
 
-**** NEXT Clean up balcony/patio
+**** DONE Clean up balcony/patio
      DEADLINE: <2014-05-04 Sun>
+     :LOGBOOK:
+     - State "DONE"       from "NEXT"       [2014-04-29 Tue 15:29]
+     :END:
 * Notes 							      :NOTES:
   :PROPERTIES:
   :ID:       4def01e0-c4b0-4797-a19c-049ea35d696a
