@@ -637,6 +637,12 @@
 [[papers:MR1722814][MR1722814-paper]]
 [[bib:MR1722814][MR1722814-bib]]
 **** 53C44 (2000-now) Geometric evolution equations (mean curvature flow, Ricci flow, etc.) :evolution:
+***** Ancient solutions of the affine normal flow
+:PROPERTIES:
+:Custom_ID: MR2406266
+:END:
+[[papers:MR2406266][MR2406266-paper]]
+[[bib:MR2406266][MR2406266-bib]]
 ***** The inverse mean curvature flow and the {R}iemannian {P}enrose inequality
 :PROPERTIES:
 :Custom_ID: MR1916951
@@ -1266,3 +1272,10 @@ Here I need to do some more work since $u \mapsto g(\grad u, \grad u)$ is not a 
 [[papers:pbthesis][pbthesis-paper]]
 [[bib:pbthesis][pbthesis-bib]]
 
+* ADS
+** Logarithmic diffusion and porous media equations: A unified description
+:PROPERTIES:
+:Custom_ID: 2005PhRvE..72c1106P
+:END:
+[[papers:2005PhRvE..72c1106P][2005PhRvE..72c1106P-paper]]
+[[bib:2005PhRvE..72c1106P][2005PhRvE..72c1106P-bib]]
