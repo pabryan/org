@@ -1809,7 +1809,7 @@ http://gmane.org
   :END:
 ** Organisation
   :LOGBOOK:
-  CLOCK: [2014-04-29 Tue 15:29]
+  CLOCK: [2014-04-29 Tue 15:29]--[2014-04-29 Tue 15:40] =>  0:11
   CLOCK: [2014-04-29 Tue 15:24]--[2014-04-29 Tue 15:29] =>  0:05
   CLOCK: [2014-04-29 Tue 11:49]--[2014-04-29 Tue 12:04] =>  0:15
   CLOCK: [2014-04-29 Tue 11:29]--[2014-04-29 Tue 11:30] =>  0:01
@@ -3982,6 +3982,7 @@ When I set up scoring the day:
 ** NEXT Weekly Review [11/19]
    SCHEDULED: <2013-12-01 Sun +1w>
    :LOGBOOK:
+   CLOCK: [2014-04-29 Tue 16:09]
    CLOCK: [2014-04-14 Mon 11:23]--[2014-04-14 Tue 11:56] =>  0:33
    CLOCK: [2014-04-14 Mon 11:09]--[2014-04-14 Mon 11:22] =>  0:13
    CLOCK: [2014-04-07 Mon 11:22]--[2014-04-07 Mon 12:04] =>  0:42
