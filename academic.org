@@ -737,14 +737,18 @@ Decided not to do it.
       :END:
 
 *** Working
-**** TODO Referee CR-8403
+**** TODO Referee CR-8403					      :FOCUS:
      DEADLINE: <2014-05-31 Sat>
 CR-8403 - "Curvature contraction of convex hypersurfaces by nonsmooth speeds by B. Andrews , A. Holder , J. McCoy, G. Wheeler , V-M Wheeler and G.  Williams
 [[file:~/reference/academic/journals/referee/CR-8403/CR-8403.pdf]]
 ***** NEXT Skim through paper
 
-**** TODO Referee JGEA-D-14-00048
+**** TODO Referee JGEA-D-14-00048				      :FOCUS:
      DEADLINE: <2014-05-23 Fri>
+     :LOGBOOK:
+     CLOCK: [2014-04-29 Tue 11:30]--[2014-04-29 Tue 11:49] =>  0:19
+     CLOCK: [2014-04-29 Tue 10:50]--[2014-04-29 Tue 11:08] =>  0:18
+     :END:
 Classification of compact convex ancient solutions of the planar affine normal flow
 [[file:~/reference/academic/journals/referee/JGEA-D-14-00048/JGEA-D-14-00048.pdf]]
 ***** NEXT Skim through paper
@@ -2013,7 +2017,7 @@ Look at all dark matter papers. Alan Parry also. Bibliography of course!
 ****** TODO Essay
 - This should be an essay on the work explaining it my way.
 ******* NEXT Write outline
-	 SCHEDULED: <2014-04-02 Wed>
+	 SCHEDULED: <2014-06-02 Mon>
 ****** NEXT Follow up Hubert Bray's general relativity references
 <2014-03-31 Mon>
 - O'Neil
@@ -2681,7 +2685,7 @@ I am wondering whether it might be possible to take into account the possible di
       :ID:       95792719-f4e8-45ff-bf7c-7283c2a2dd2e
       :END:
 ****** NEXT Check Mat's, Charlie's and my work and how it fits together.
-       SCHEDULED: <2014-04-02 Wed>
+       SCHEDULED: <2014-05-19 Mon>
        :PROPERTIES:
        :ID:       189cc302-8dde-4aa2-818e-66d4b9dd0c9f
        :END:
@@ -3805,7 +3809,7 @@ First variation.
 ***** Lec 03
 Radon measures: compactness and Reisz representation.
 *** TODO Convex Geometry					     :CONVEX:
-    SCHEDULED: <2014-04-14 Mon>
+    SCHEDULED: <2014-05-05 Mon>
     :LOGBOOK:
     - State "TODO"       from "HOLD"       [2013-10-09 Wed 17:24]
     - State "HOLD"       from "TODO"       [2013-08-04 Sun 16:46] \\
@@ -4279,7 +4283,7 @@ Rowland Hall 340P
        CLOCK: [2014-03-06 Thu 15:27]--[2014-03-06 Thu 15:54] =>  0:27
        :END:
 ** UCSC
-*** TODO Winter 2014 Colloquium
+*** TODO Winter 2014 Colloquium					      :FOCUS:
 **** TODO Talk
 [[file:~/working/academic/seminars/ucsc_colloquium_spring_2014]]
 ***** TODO Slides
@@ -4301,13 +4305,21 @@ Rowland Hall 340P
        - State "DONE"       from "NEXT"       [2014-04-17 Thu 08:38]
        :END:
 ****** TODO Write details
-       DEADLINE: <2014-05-09 Fri>
+       DEADLINE: <2014-05-07 Wed>
 
 ******* TODO Curvature
 ******** NEXT Create images of const. curvature iso regions
 	 :LOGBOOK:
 	 CLOCK: [2014-04-17 Thu 08:39]--[2014-04-17 Thu 09:52] =>  1:13
 	 :END:
+- Sphere, plane, pseudo sphere (Tractricoid)
+******** NEXT Write variable curvature theorems
+	 :LOGBOOK:
+	 CLOCK: [2014-04-29 Tue 12:04]--[2014-04-29 Tue 12:19] =>  0:15
+	 :END:
+******** NEXT Create picture of bigger curvature comparison
+******** NEXT Positive curvature classic comparison
+******** NEXT Aubin-Hadamaard
 ******* TODO Symmetry
 ******* TODO Isoperimetric Profile
 ******* TODO Geometric Flows
@@ -4325,7 +4337,9 @@ Rowland Hall 340P
 - i94
 
 ***** NEXT Book Hotel
+      SCHEDULED: <2014-04-29 Tue>
 ***** NEXT Book rental car
+      SCHEDULED: <2014-04-29 Tue>
 *** TODO UCSC Winter visit
 <2014-05-09 Fri>--<2014-05-18 Sun>
 **** NEXT Read Jie Qing paper
@@ -4638,13 +4652,18 @@ http://geometry.ugr.es/
        :LOGBOOK:
        - State "DONE"       from "TODO"       [2014-02-28 Fri 09:01]
        :END:
-****** WAITING Confirm receipt of application
+****** DONE Confirm receipt of application
        :LOGBOOK:
+       - State "DONE"       from "WAITING"    [2014-04-29 Tue 11:21] \\
+	 Job has been re-advertised.
        - State "WAITING"    from "TODO"       [2014-02-28 Fri 09:01] \\
 	 Waiting to hear back.
        :END:
+****** NEXT Write application
+       DEADLINE: <2014-05-31 Sat>
 ****** TODO Respond to offer
 ***** Notes
+- http://uow.employment.com.au/dspJobView.cfm?jobID=1268
 - http://www.mathjobs.org/jobs/jobs/5668
 - Contact:
 - application:  [[file:~/working/academic/jobs/job_applications/1043_uow]]

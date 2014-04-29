@@ -58,7 +58,7 @@ I think I need some sort of filter for this.
 <<<<<<< local
 **** General
 ***** NEXT Prevent new org-export from polluting src directory
-  SCHEDULED: <2014-04-28 Mon>
+  SCHEDULED: <2014-06-02 Mon>
   :LOGBOOK:
   CLOCK: [2014-04-18 Fri 12:38]--[2014-04-18 Fri 12:39] =>  0:01
   :END:
@@ -1809,6 +1809,9 @@ http://gmane.org
   :END:
 ** Organisation
   :LOGBOOK:
+  CLOCK: [2014-04-29 Tue 11:49]--[2014-04-29 Tue 12:04] =>  0:15
+  CLOCK: [2014-04-29 Tue 11:29]--[2014-04-29 Tue 11:30] =>  0:01
+  CLOCK: [2014-04-29 Tue 10:45]--[2014-04-29 Tue 10:46] =>  0:01
   CLOCK: [2014-04-28 Mon 11:24]--[2014-04-28 Mon 11:39] =>  0:15
   CLOCK: [2014-04-25 Fri 09:40]--[2014-04-25 Fri 10:01] =>  0:21
   CLOCK: [2014-04-25 Fri 09:32]--[2014-04-25 Fri 09:33] =>  0:01
@@ -3395,8 +3398,11 @@ When I set up scoring the day:
 - [ ] Collate data such as sleep, weight, exercise, diet etc.
 
 ** NEXT Daily Plan [0/7]
-   SCHEDULED: <2014-04-26 Sat .+1d/2d>
+   SCHEDULED: <2014-04-30 Wed .+1d/2d>
    :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2014-04-29 Tue 11:29]
+   CLOCK: [2014-04-29 Tue 11:08]--[2014-04-29 Tue 11:29] =>  0:21
+   CLOCK: [2014-04-29 Tue 10:46]--[2014-04-29 Tue 10:49] =>  0:03
    CLOCK: [2014-04-28 Mon 09:48]--[2014-04-28 Mon 09:57] =>  0:09
    - State "DONE"       from "NEXT"       [2014-04-25 Fri 09:40]
    CLOCK: [2014-04-25 Fri 09:33]--[2014-04-25 Fri 09:40] =>  0:07
@@ -3958,7 +3964,7 @@ When I set up scoring the day:
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
    :ID:       ef051ee0-1113-4604-b355-450a5a47848b
-   :LAST_REPEAT: [2014-04-25 Fri 09:40]
+   :LAST_REPEAT: [2014-04-29 Tue 11:29]
    :LAST_REPEAT: [2014-01-25 Sat 12:49]
    :END:
 
