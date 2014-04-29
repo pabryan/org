@@ -3991,7 +3991,7 @@ When I set up scoring the day:
 - [ ] Do short tasks
 - [ ] Record morning health stats
 
-** NEXT Weekly Review [8/19]
+** NEXT Weekly Review [9/19]
    SCHEDULED: <2013-12-01 Sun +1w>
    :LOGBOOK:
    CLOCK: [2014-04-29 Tue 16:25]
@@ -4121,11 +4121,11 @@ What to review:
 - [X] Look at entire agenda for today  =F12 SPC=
 - [X] Check un-committed work
 - [X] Refile tasks
-- [ ] Weekly clean up
-  - [ ] Clean up Downloads
-  - [ ] Clean up tmp
-  - [ ] Clean up tablet
-  - [ ] Clean up phone
+- [X] Weekly clean up
+  - [X] Clean up Downloads
+  - [X] Clean up tmp
+  - [X] Clean up tablet
+  - [X] Clean up phone
 - [ ] Process incoming information
   - [ ] feedly
   - [ ] pocket
