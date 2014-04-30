@@ -1821,6 +1821,7 @@ http://gmane.org
   :END:
 ** Organisation
   :LOGBOOK:
+  CLOCK: [2014-04-29 Tue 18:25]
   CLOCK: [2014-04-29 Tue 15:29]--[2014-04-29 Tue 15:40] =>  0:11
   CLOCK: [2014-04-29 Tue 15:24]--[2014-04-29 Tue 15:29] =>  0:05
   CLOCK: [2014-04-29 Tue 11:49]--[2014-04-29 Tue 12:04] =>  0:15
@@ -3991,9 +3992,11 @@ When I set up scoring the day:
 - [ ] Do short tasks
 - [ ] Record morning health stats
 
-** NEXT Weekly Review [17/19]
-   SCHEDULED: <2013-12-01 Sun +1w>
+** NEXT Weekly Review [0/19]
+   SCHEDULED: <2013-12-08 Sun +1w>
    :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2014-04-29 Tue 18:25]
+   CLOCK: [2014-04-29 Tue 17:37]--[2014-04-29 Tue 18:25] =>  0:48
    CLOCK: [2014-04-29 Tue 16:25]--[2014-04-29 Tue 17:01] =>  0:36
    CLOCK: [2014-04-29 Tue 16:09]--[2014-04-29 Tue 16:25] =>  0:16
    CLOCK: [2014-04-14 Mon 11:23]--[2014-04-14 Tue 11:56] =>  0:33
@@ -4105,40 +4108,40 @@ When I set up scoring the day:
    :REPEAT_TO_STATE: NEXT
    :ID:       846c05fa-21d7-4e6f-8431-a1fa06631945
    :RESET_CHECK_BOXES: t
-   :LAST_REPEAT: [2013-12-09 Mon 19:54]
+   :LAST_REPEAT: [2014-04-29 Tue 18:25]
    :END:
 
 What to review:
 
-- [X] Check holding directory
+- [ ] Check holding directory
   [[file:~/holding]]
-- [X] Check holding email folder
-- [X] Review weekly agenda =F12 a w//=
-- [X] Check clocking data for past week =v c=
+- [ ] Check holding email folder
+- [ ] Review weekly agenda =F12 a w//=
+- [ ] Check clocking data for past week =v c=
   - fix up any errors
-- [X] Review clock report for past week =R=
+- [ ] Review clock report for past week =R=
   - Check where we spent time (too much or too little) and rectify this week
-- [X] Look at entire agenda for today  =F12 SPC=
-- [X] Check un-committed work
-- [X] Refile tasks
-- [X] Weekly clean up
-  - [X] Clean up Downloads
-  - [X] Clean up tmp
-  - [X] Clean up tablet
-  - [X] Clean up phone
-- [X] Process incoming information
-  - [X] feedly
-  - [X] pocket
-- [X] Review focus projects 
-- [X] Set focus
+- [ ] Look at entire agenda for today  =F12 SPC=
+- [ ] Check un-committed work
+- [ ] Refile tasks
+- [ ] Weekly clean up
+  - [ ] Clean up Downloads
+  - [ ] Clean up tmp
+  - [ ] Clean up tablet
+  - [ ] Clean up phone
+- [ ] Process incoming information
+  - [ ] feedly
+  - [ ] pocket
+- [ ] Review focus projects 
+- [ ] Set focus
 - [ ] Check follow-up paper folder
 - [ ] Collate the weeks: pad scribbles, org-mode notes, phone notes, etc.
-- [X] Check Finances
+- [ ] Check Finances
   - Check bank accounts and compare with what's still to come
-- [X] Copy music to phone
-- [X] Share photos on Google+
-- [X] Update Abundant Harvest order
-- [X] Order meat
+- [ ] Copy music to phone
+- [ ] Share photos on Google+
+- [ ] Update Abundant Harvest order
+- [ ] Order meat
   - http://www.son-riseranchstore.com/
 
 ** NEXT Monthly Plan/Review [0/5]
