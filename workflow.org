@@ -1821,7 +1821,7 @@ http://gmane.org
   :END:
 ** Organisation
   :LOGBOOK:
-  CLOCK: [2014-04-30 Wed 18:06]
+  CLOCK: [2014-04-30 Wed 18:06]--[2014-04-30 Wed 18:09] =>  0:03
   CLOCK: [2014-04-30 Wed 13:53]--[2014-04-30 Wed 14:15] =>  0:22
   CLOCK: [2014-04-30 Wed 09:55]--[2014-04-30 Wed 10:05] =>  0:10
   CLOCK: [2014-04-29 Tue 18:25]--[2014-04-29 Tue 18:26] =>  0:01
@@ -3102,9 +3102,11 @@ Set some goals for the month. I should check someday projects for inclusion in t
 *** Monthly Review
 Check how I did last month. I guess the review and plan could probably go together. This is all broad stuff
 
-** NEXT Daily Review [0/10]
-   SCHEDULED: <2014-04-30 Wed .+1d/2d>
+** NEXT Daily Review [0/12]
+   SCHEDULED: <2014-05-01 Thu .+1d/2d>
    :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2014-04-30 Wed 18:13]
+   CLOCK: [2014-04-30 Wed 18:09]--[2014-04-30 Wed 18:13] =>  0:04
    - State "DONE"       from "NEXT"       [2014-04-29 Tue 19:11]
    CLOCK: [2014-04-29 Tue 19:06]--[2014-04-29 Tue 19:11] =>  0:05
    - State "DONE"       from "NEXT"       [2014-04-18 Fri 20:27]
@@ -3398,13 +3400,15 @@ Check how I did last month. I guess the review and plan could probably go togeth
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
    :ID:       616c5bd9-d941-4fcc-8874-2ff3c9e96b4a
-   :LAST_REPEAT: [2014-04-29 Tue 19:11]
+   :LAST_REPEAT: [2014-04-30 Wed 18:13]
    :END:
 
 What to review:
 
 - [ ] Review tasks list for the day and compare with clock table, effort estimates.
 - [ ] Anything outstanding?
+- [ ] Check uncommited
+- [ ] Auto commit
 - [ ] Check tomorrow's agenda
 - [ ] Clean up tasks/habits
 - [ ] Copy from notebook/ideas/phone memo's
