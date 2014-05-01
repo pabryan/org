@@ -1717,7 +1717,7 @@ Look at all dark matter papers. Alan Parry also. Bibliography of course!
        :ID:       4f27c099-1b3f-44a1-b38d-394b791aabef
        :END:
 ****** NEXT Follow up with Steve Roberts
-       SCHEDULED: <2014-05-01 Thu>
+       SCHEDULED: <2014-06-01 Sun>
 ***** Notes
 ***** References
 **** TODO csf_networks					       :CSF_NETWORKS:
@@ -1907,7 +1907,7 @@ Here we look at a conformal change of metric. The Levy-Gromov comparison doesn't
    :PROPERTIES:
    :ID:       39603eb5-2bec-4118-a705-a5287b9d5ad2
    :END:
-SCHEDULED: <2014-05-01 Thu>
+SCHEDULED: <2014-06-01 Sun>
 ***** Files
 [[file:/home/pbryan/working/academic/research/ricci_isoprofile_comparison]]
 ***** Notes
@@ -3020,7 +3020,7 @@ https://numrel.aei.mpg.de/people/radice
 ***** References
 *** Future 							    :SOMEDAY:
 **** TODO Riemannian manifolds
-     SCHEDULED: <2014-05-01 Thu>
+     SCHEDULED: <2014-06-01 Sun>
 ***** Tasks
 ****** Project organisation
 ******* NEXT Create project
@@ -3749,7 +3749,7 @@ Is there a consistent (say providing ZFC is consistent) set theory without the e
 ** Open Notebook
 *** Tasks
 **** NEXT Research starting an open notebook
-  SCHEDULED: <2014-05-01 Thu>
+  SCHEDULED: <2014-06-01 Sun>
   :LOGBOOK:
   CLOCK: [2013-08-06 Tue 20:54]--[2013-08-06 Tue 20:55] =>  0:01
   :END:
@@ -3789,7 +3789,7 @@ Is there a consistent (say providing ZFC is consistent) set theory without the e
    :ID:       0609581e-fe50-48ce-aa33-ce468c217f92
    :END:
 *** HOLD GMT								:GMT:
-    SCHEDULED: <2014-05-01 Thu>
+    SCHEDULED: <2014-06-01 Sun>
     :LOGBOOK:
     - State "HOLD"       from "TODO"       [2013-08-04 Sun 16:45] \\
       Don't have time for this right now!

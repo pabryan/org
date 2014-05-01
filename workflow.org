@@ -1581,7 +1581,7 @@ http://ubuntuforums.org/showthread.php?t=430312
   SCHEDULED: <2014-06-01 Sun>
 [2014-02-28 Fri 11:45]
 **** TODO Check out patch-commit
-     SCHEDULED: <2014-05-01 Thu>
+     SCHEDULED: <2014-06-01 Sun>
   <2014-04-06 Sun>
 [2014-03-15 Sat 22:38]
 
@@ -1821,6 +1821,7 @@ http://gmane.org
   :END:
 ** Organisation
   :LOGBOOK:
+  CLOCK: [2014-05-01 Thu 11:40]--[2014-05-01 Thu 11:41] =>  0:01
   CLOCK: [2014-04-30 Wed 18:06]--[2014-04-30 Wed 18:09] =>  0:03
   CLOCK: [2014-04-30 Wed 13:53]--[2014-04-30 Wed 14:15] =>  0:22
   CLOCK: [2014-04-30 Wed 09:55]--[2014-04-30 Wed 10:05] =>  0:10
@@ -3425,6 +3426,7 @@ When I set up scoring the day:
 ** NEXT Daily Plan [0/7]
    SCHEDULED: <2014-05-01 Thu .+1d/2d>
    :LOGBOOK:
+   CLOCK: [2014-05-01 Thu 11:41]
    - State "DONE"       from "NEXT"       [2014-04-30 Wed 09:55]
    CLOCK: [2014-04-30 Wed 09:42]--[2014-04-30 Wed 09:55] =>  0:13
    - State "DONE"       from "NEXT"       [2014-04-29 Tue 11:29]
