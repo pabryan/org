@@ -152,8 +152,9 @@ END:
    
 ** Bills 
 *** TODO Pay rent
-    DEADLINE: <2014-05-05 Mon +1m -4d> 
+    DEADLINE: <2014-06-05 Thu +1m -4d> 
    :LOGBOOK:
+   - State "DONE"       from "TODO"       [2014-05-01 Thu 11:53]
    - State "DONE"       from "TODO"       [2014-04-01 Tue 19:40]
    - State "DONE"       from "TODO"       [2014-03-02 Sun 11:06]
    - State "DONE"       from "TODO"       [2014-02-01 Sat 12:11]
@@ -177,7 +178,7 @@ END:
  
    :PROPERTIES:
    :ID:       ea07bf7b-9f89-49bf-90db-3e167baff163
-   :LAST_REPEAT: [2014-04-01 Tue 19:40]
+   :LAST_REPEAT: [2014-05-01 Thu 11:53]
    :END:
    [2012-10-17 Wed 14:44]
 
@@ -185,8 +186,9 @@ Use account A11078844
 [[https://act.ucsd.edu/studentBilling/billing]]
 
 *** TODO Pay ATT
-    SCHEDULED: <2014-05-01 Thu +1m -0d> 
+    SCHEDULED: <2014-06-01 Sun +1m -0d> 
     :LOGBOOK:
+    - State "DONE"       from "TODO"       [2014-05-01 Thu 11:53]
     - State "DONE"       from "TODO"       [2014-04-01 Tue 19:40]
     - State "DONE"       from "TODO"       [2014-03-02 Sun 11:07]
     - State "DONE"       from "TODO"       [2014-02-01 Sat 12:11]
@@ -202,7 +204,7 @@ Use account A11078844
     - State "DONE"       from "TODO"       [2013-04-02 Tue 21:33]
     :END:
     :PROPERTIES:
-    :LAST_REPEAT: [2014-04-01 Tue 19:40]
+    :LAST_REPEAT: [2014-05-01 Thu 11:53]
     :ID:       137987c4-8151-42f0-bfad-b1e06d2cd512
     :END:
 [[http://www.att.com/]]
@@ -1750,42 +1752,23 @@ I should also organise books that I've read/want in some sort of org structure w
   :END: 
 01336030976036
 
-*** DONE Return UCSD Books
-    DEADLINE: <2013-01-24 Thu>
-    - State "DONE"       from "TODO"           [2013-01-28 Mon 07:21]
-    :PROPERTIES:
-    :ID:       f960a023-cfb7-4525-a413-a74e31168cec
-    :END:
+*** Tasks
+**** Pickup Books
+***** DONE Pick up San Diego Library reserves
+      DEADLINE: <2013-01-22 Tue> SCHEDULED: <2013-01-10 Thu>
+      - State "DONE"       from ""           [2013-01-12 Sat 16:24]
+      :PROPERTIES:
+      :ID:       ef443cc3-7c75-43b0-a3db-e48d09f917f1
+      :END:
 
-*** DONE Pick up San Diego Library reserves
-    DEADLINE: <2013-01-22 Tue> SCHEDULED: <2013-01-10 Thu>
-    - State "DONE"       from ""           [2013-01-12 Sat 16:24]
-    :PROPERTIES:
-    :ID:       ef443cc3-7c75-43b0-a3db-e48d09f917f1
-    :END:
-
-*** DONE Pick up library book: On food and cooking 
-    DEADLINE: <2013-01-31 Thu> SCHEDULED: <2013-01-29 Tue>
-    - State "DONE"       from "TODO"       [2013-01-31 Thu 18:26]
-    :PROPERTIES:
-    :ID:       be16e7c1-ed4d-4d41-84ba-3c298ddb683c
-    :END:
-*** DONE Return Dan Dennet
-    DEADLINE: <2013-06-05 Wed>
-    - State "DONE"       from ""           [2013-06-06 Thu 17:38]
-    :PROPERTIES:
-    :ID:       fe05f642-ad40-471f-ba77-e49e0b69bd78
-    :END:
-
-*** Alexander Technique
-**** DONE Return books
-     DEADLINE: <2013-06-27 Thu>
-     - State "DONE"       from "TODO"       [2013-06-30 Sun 13:27]
-     :PROPERTIES:
-     :ID:       ab8707f0-a7b7-46c0-95f5-323c80747707
-     :END:
-
-*** DONE Summer Reading 2013
+***** DONE Pick up library book: On food and cooking 
+      DEADLINE: <2013-01-31 Thu> SCHEDULED: <2013-01-29 Tue>
+      - State "DONE"       from "TODO"       [2013-01-31 Thu 18:26]
+      :PROPERTIES:
+      :ID:       be16e7c1-ed4d-4d41-84ba-3c298ddb683c
+      :END:
+**** Events
+***** DONE Summer Reading 2013
     DEADLINE: <2013-08-15 Thu>
     :LOGBOOK:
     - State "DONE"       from "TODO"       [2013-08-16 Fri 09:33]
@@ -1794,42 +1777,67 @@ I should also organise books that I've read/want in some sort of org structure w
     :ID:       0c17c328-5c7b-41a7-8d4a-9c32e354050d
     :END:
 http://sandiegosr.evanced.info/homepage.asp?ProgramID=22
-*** Return Books
-**** DONE Books 22/7/13
-     DEADLINE: <2013-07-22 Mon>
-     - State "DONE"       from "TODO"       [2013-07-19 Fri 09:33]
-     :PROPERTIES:
-     :ID:       6754f66b-3de1-4702-baef-f30a806bcfe7
-     :END:
-**** DONE Return Books (5/8/13)
-     DEADLINE: <2013-08-05 Mon>
-     - State "DONE"       from "TODO"       [2013-08-01 Thu 11:31]
-     :PROPERTIES:
-     :ID:       7f9457f7-d054-4b0a-86a7-84fa31f2d47b
-     :END:
-**** DONE Return Books (31/7/13)
-     DEADLINE: <2013-07-31 Wed>
-     - State "DONE"       from "TODO"       [2013-07-19 Fri 09:37]
-     :PROPERTIES:
-     :ID:       c6ec77ac-055f-4b75-ad0b-6bcef8844c57
-     :END:
-**** DONE Return Books
-     DEADLINE: <2013-08-20 Tue>
-     :LOGBOOK:
-     - State "DONE"       from "TODO"       [2013-08-17 Sat 18:58]
-     :END:
-     :PROPERTIES:
-     :ID:       9de96b24-cf68-49d8-859f-20be2db52268
-     :END:
+**** Return Books
+***** DONE Books 22/7/13
+      DEADLINE: <2013-07-22 Mon>
+      - State "DONE"       from "TODO"       [2013-07-19 Fri 09:33]
+      :PROPERTIES:
+      :ID:       6754f66b-3de1-4702-baef-f30a806bcfe7
+      :END:
+***** DONE Return Books (5/8/13)
+      DEADLINE: <2013-08-05 Mon>
+      - State "DONE"       from "TODO"       [2013-08-01 Thu 11:31]
+      :PROPERTIES:
+      :ID:       7f9457f7-d054-4b0a-86a7-84fa31f2d47b
+      :END:
+***** DONE Return Books (31/7/13)
+      DEADLINE: <2013-07-31 Wed>
+      - State "DONE"       from "TODO"       [2013-07-19 Fri 09:37]
+      :PROPERTIES:
+      :ID:       c6ec77ac-055f-4b75-ad0b-6bcef8844c57
+      :END:
+***** DONE Return Books
+      DEADLINE: <2013-08-20 Tue>
+      :LOGBOOK:
+      - State "DONE"       from "TODO"       [2013-08-17 Sat 18:58]
+      :END:
+      :PROPERTIES:
+      :ID:       9de96b24-cf68-49d8-859f-20be2db52268
+      :END:
 
-**** DONE Return Books
-     DEADLINE: <2013-09-23 Mon>
-     :LOGBOOK:
-     - State "DONE"       from "TODO"       [2013-09-23 Mon 13:40]
-     :END:
-     :PROPERTIES:
-     :ID:       517c78a7-3a73-45a8-ace9-b2de4fbda4cc
-     :END:
+***** DONE Return Books
+      DEADLINE: <2013-09-23 Mon>
+      :LOGBOOK:
+      - State "DONE"       from "TODO"       [2013-09-23 Mon 13:40]
+      :END:
+      :PROPERTIES:
+      :ID:       517c78a7-3a73-45a8-ace9-b2de4fbda4cc
+      :END:
+
+***** DONE Return UCSD Books
+      DEADLINE: <2013-01-24 Thu>
+      - State "DONE"       from "TODO"           [2013-01-28 Mon 07:21]
+      :PROPERTIES:
+      :ID:       f960a023-cfb7-4525-a413-a74e31168cec
+      :END:
+
+***** NEXT Return Books
+      DEADLINE: <2014-05-19 Mon>
+
+***** DONE Return Dan Dennet
+      DEADLINE: <2013-06-05 Wed>
+      - State "DONE"       from ""           [2013-06-06 Thu 17:38]
+      :PROPERTIES:
+      :ID:       fe05f642-ad40-471f-ba77-e49e0b69bd78
+      :END:
+
+***** Alexander Technique
+****** DONE Return books
+       DEADLINE: <2013-06-27 Thu>
+       - State "DONE"       from "TODO"       [2013-06-30 Sun 13:27]
+       :PROPERTIES:
+       :ID:       ab8707f0-a7b7-46c0-95f5-323c80747707
+       :END:
 
 ** Books							      :BOOKS:
 *** Graphic Novels					     :GRAPHIC_NOVELS:
