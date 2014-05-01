@@ -9070,7 +9070,7 @@ http://urp.ucsd.edu/
 
 ********* Weekly WDM
 	  :LOGBOOK:
-	  CLOCK: [2014-05-01 Thu 13:24]
+	  CLOCK: [2014-05-01 Thu 13:24]--[2014-05-01 Thu 15:49] =>  2:25
 	  CLOCK: [2014-04-24 Thu 13:11]--[2014-04-24 Thu 14:05] =>  0:54
 	  CLOCK: [2014-04-17 Thu 12:41]--[2014-04-17 Thu 15:21] =>  2:40
 	  CLOCK: [2014-04-10 Thu 13:06]--[2014-04-10 Thu 14:13] =>  1:07
@@ -9170,6 +9170,10 @@ http://urp.ucsd.edu/
 <2014-04-16 Wed 18:00-19:00>
 Horizon Room of the Career Services Center,
 https://maps.google.com/maps?client=ubuntu-browser&ie=UTF-8&q=Career+Services+Center&fb=1&gl=us&hq=career+services+center&hnear=0x80d9530fad921e4b:0xd3a21fdfd15df79,San+Diego,+CA&cid=13286757421966889874&ei=A3g8U5O9JMbbyQG3sIDoDA&ved=0CKcBEPwSMAs
+***** Clocking
+      :LOGBOOK:
+      CLOCK: [2014-05-01 Thu 15:59]
+      :END:
 ** Delivery
 *** Notes
 - Piazza
