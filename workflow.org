@@ -1812,8 +1812,11 @@ http://gmane.org
 *** Notes
 *** References
 ** Phone
-*** NEXT Get new phone charge cable
+*** DONE Get new phone charge cable
     SCHEDULED: <2014-05-01 Thu>
+    :LOGBOOK:
+    - State "DONE"       from "NEXT"       [2014-05-01 Thu 12:01]
+    :END:
 [2014-04-29 Tue 16:25]
 * Clocking
   :PROPERTIES:
@@ -1821,6 +1824,7 @@ http://gmane.org
   :END:
 ** Organisation
   :LOGBOOK:
+  CLOCK: [2014-05-01 Thu 12:34]
   CLOCK: [2014-05-01 Thu 11:40]--[2014-05-01 Thu 11:41] =>  0:01
   CLOCK: [2014-04-30 Wed 18:06]--[2014-04-30 Wed 18:09] =>  0:03
   CLOCK: [2014-04-30 Wed 13:53]--[2014-04-30 Wed 14:15] =>  0:22
@@ -3424,9 +3428,10 @@ When I set up scoring the day:
 - [ ] Collate data such as sleep, weight, exercise, diet etc.
 
 ** NEXT Daily Plan [0/7]
-   SCHEDULED: <2014-05-01 Thu .+1d/2d>
+   SCHEDULED: <2014-05-02 Fri .+1d/2d>
    :LOGBOOK:
-   CLOCK: [2014-05-01 Thu 11:41]
+   - State "DONE"       from "NEXT"       [2014-05-01 Thu 12:01]
+   CLOCK: [2014-05-01 Thu 11:41]--[2014-05-01 Thu 12:01] =>  0:20
    - State "DONE"       from "NEXT"       [2014-04-30 Wed 09:55]
    CLOCK: [2014-04-30 Wed 09:42]--[2014-04-30 Wed 09:55] =>  0:13
    - State "DONE"       from "NEXT"       [2014-04-29 Tue 11:29]
@@ -3993,7 +3998,7 @@ When I set up scoring the day:
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
    :ID:       ef051ee0-1113-4604-b355-450a5a47848b
-   :LAST_REPEAT: [2014-04-30 Wed 09:55]
+   :LAST_REPEAT: [2014-05-01 Thu 12:01]
    :LAST_REPEAT: [2014-01-25 Sat 12:49]
    :END:
 

@@ -4349,8 +4349,14 @@ Rowland Hall 340P
 
 ***** NEXT Book Hotel
       SCHEDULED: <2014-04-29 Tue>
+      :LOGBOOK:
+      CLOCK: [2014-05-01 Thu 12:01]--[2014-05-01 Thu 12:27] =>  0:26
+      :END:
 ***** NEXT Book rental car
       SCHEDULED: <2014-04-29 Tue>
+      :LOGBOOK:
+      CLOCK: [2014-05-01 Thu 12:27]--[2014-05-01 Thu 12:34] =>  0:07
+      :END:
 *** TODO UCSC Winter visit
 <2014-05-09 Fri>--<2014-05-18 Sun>
 **** NEXT Read Jie Qing paper
