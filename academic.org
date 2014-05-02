@@ -4327,8 +4327,9 @@ Rowland Hall 340P
        DEADLINE: <2014-05-07 Wed>
 
 ******* TODO Curvature
-******** NEXT Create images of const. curvature iso regions
+******** DONE Create images of const. curvature iso regions
 	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2014-05-02 Fri 12:56]
 	 CLOCK: [2014-05-01 Thu 16:51]--[2014-05-01 Thu 17:03] =>  0:12
 	 CLOCK: [2014-05-01 Thu 15:49]--[2014-05-01 Thu 15:59] =>  0:10
 	 CLOCK: [2014-05-01 Thu 12:35]--[2014-05-01 Thu 13:24] =>  0:49
@@ -4338,6 +4339,7 @@ Rowland Hall 340P
 - Sphere, plane, pseudo sphere (Tractricoid)
 ******** NEXT Write variable curvature theorems
 	 :LOGBOOK:
+	 CLOCK: [2014-05-02 Fri 12:56]
 	 CLOCK: [2014-04-29 Tue 12:04]--[2014-04-29 Tue 12:19] =>  0:15
 	 :END:
 ******** NEXT Create picture of bigger curvature comparison
@@ -4346,6 +4348,7 @@ Rowland Hall 340P
 ******* TODO Symmetry
 ******* TODO Isoperimetric Profile
 ******* TODO Geometric Flows
+***** NEXT Send title abstract
 **** TODO Admin
 ***** DONE Prepare documents
       :LOGBOOK:
@@ -4359,14 +4362,16 @@ Rowland Hall 340P
 - visa
 - i94
 
-***** NEXT Book Hotel
+***** DONE Book Hotel
       SCHEDULED: <2014-04-29 Tue>
       :LOGBOOK:
+      - State "DONE"       from "NEXT"       [2014-05-02 Fri 12:51]
       CLOCK: [2014-05-01 Thu 12:01]--[2014-05-01 Thu 12:27] =>  0:26
       :END:
-***** NEXT Book rental car
+***** DONE Book rental car
       SCHEDULED: <2014-04-29 Tue>
       :LOGBOOK:
+      - State "DONE"       from "NEXT"       [2014-05-02 Fri 12:51]
       CLOCK: [2014-05-01 Thu 12:27]--[2014-05-01 Thu 12:34] =>  0:07
       :END:
 *** TODO UCSC Winter visit
