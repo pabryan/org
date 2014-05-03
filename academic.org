@@ -4328,6 +4328,9 @@ Rowland Hall 340P
        DEADLINE: <2014-05-07 Wed>
 
 ******* TODO Curvature
+	:LOGBOOK:
+	CLOCK: [2014-05-02 Fri 19:08]
+	:END:
 ******** DONE Create images of const. curvature iso regions
 	 :LOGBOOK:
 	 - State "DONE"       from "NEXT"       [2014-05-02 Fri 12:56]
@@ -4345,9 +4348,10 @@ Rowland Hall 340P
 	 CLOCK: [2014-05-02 Fri 12:56]--[2014-05-02 Fri 13:41] =>  0:45
 	 CLOCK: [2014-04-29 Tue 12:04]--[2014-04-29 Tue 12:19] =>  0:15
 	 :END:
-******** NEXT Write optimal domains
+******** DONE Write optimal domains
 	 :LOGBOOK:
-	 CLOCK: [2014-05-02 Fri 18:42]
+	 - State "DONE"       from "NEXT"       [2014-05-02 Fri 19:08]
+	 CLOCK: [2014-05-02 Fri 18:42]--[2014-05-02 Fri 19:08] =>  0:26
 	 :END:
 ******** NEXT Create picture of bigger curvature comparison
 ******** NEXT Positive curvature classic comparison
