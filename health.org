@@ -8,18 +8,19 @@
 
 ** Tracking
 *** NEXT Exercise
-    SCHEDULED: <2014-05-02 Fri .+1d/2d>
+    SCHEDULED: <2014-05-04 Sun .+1d/2d>
     :PROPERTIES:
     :STYLE:    habit
     :REPEAT_TO_STATE: NEXT
     :ID:       8d56b2ef-1b49-4dc4-b701-1d021a293fa4
 <<<<<<< local
-:LAST_REPEAT: [2014-05-01 Thu 12:01]
+:LAST_REPEAT: [2014-05-03 Sat 14:25]
 =======
     :LAST_REPEAT: [2014-04-22 Tue 18:09]
 >>>>>>> other
     :END:
     :LOGBOOK:
+    - State "DONE"       from "NEXT"       [2014-05-03 Sat 14:25]
     - State "DONE"       from "NEXT"       [2014-05-01 Thu 12:01]
     - State "DONE"       from "NEXT"       [2014-04-29 Tue 15:30]
     - State "DONE"       from "NEXT"       [2014-04-28 Mon 09:48]
@@ -308,8 +309,9 @@
     - State "DONE"       from "NEXT"       [2013-03-09 Sat 11:10]
     :END:
 *** NEXT Mobility
-    SCHEDULED: <2014-05-02 Fri .+1d/2d>
+    SCHEDULED: <2014-05-04 Sun .+1d/2d>
     :LOGBOOK:
+    - State "DONE"       from "NEXT"       [2014-05-03 Sat 14:25]
     - State "DONE"       from "NEXT"       [2014-05-01 Thu 12:01]
     - State "DONE"       from "NEXT"       [2014-04-30 Wed 18:09]
     - State "DONE"       from "NEXT"       [2014-04-29 Tue 10:45]
@@ -656,7 +658,7 @@
     :STYLE:    habit
     :REPEAT_TO_STATE: NEXT
     :ID:       0e75f56d-0356-4a0f-a376-080471ad4aad
-    :LAST_REPEAT: [2014-05-01 Thu 12:01]
+    :LAST_REPEAT: [2014-05-03 Sat 14:25]
     :END:
 
 *** NEXT Daily Release
@@ -833,8 +835,9 @@
     :ID:       f57232cd-a8f2-4a76-a507-4d69f765a521
     :END:
 *** NEXT Relax/Meditate
-    SCHEDULED: <2014-04-30 Wed .+1d/2d>
+    SCHEDULED: <2014-05-04 Sun .+1d/2d>
   :LOGBOOK:
+  - State "DONE"       from "NEXT"       [2014-05-03 Sat 14:25]
   - State "DONE"       from "NEXT"       [2014-04-29 Tue 15:30]
   - State "DONE"       from "NEXT"       [2014-04-22 Tue 18:14]
   - State "DONE"       from "NEXT"       [2014-04-20 Sun 16:51]
@@ -1038,7 +1041,7 @@
   :STYLE:    habit
   :REPEAT_TO_STATE: NEXT
   :ID:       c0aaf33a-af77-446b-b9fd-cf2d2f78c12a
-  :LAST_REPEAT: [2014-04-29 Tue 15:30]
+  :LAST_REPEAT: [2014-05-03 Sat 14:25]
   :END:
 
 
