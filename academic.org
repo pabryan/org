@@ -4359,13 +4359,14 @@ Rowland Hall 340P
 ******* TODO Symmetry
 ******* TODO Isoperimetric Profile
 ******* TODO Geometric Flows
-***** NEXT Send title abstract
+***** DONE Send title abstract
       :LOGBOOK:
-      CLOCK: [2014-05-04 Sun 16:00]
+      - State "DONE"       from "NEXT"       [2014-05-04 Sun 16:24]
+      CLOCK: [2014-05-04 Sun 16:00]--[2014-05-04 Sun 16:24] =>  0:24
       :END:
 - Title: Isoperimetry and Curvature Flows.
 - Abstract:
-  Since ancient times, beginning with the famous Dido problem, isoperimetric problems, in which one seeks to find the smallest perimeter enclosing a given volume, have stimulated much mathematical research. In the early twentieth century, such problems became well understood in constant curvature spaces. In the 1960's with the advent of geometric measure theory, tools became available to study isoperimetry in more general spaces, yet characterising optimal domains, beyond the fact that they must have constant mean curvature, only began to be understood in the late twentieth century, initially by Benjamini and Cao, through the application of the curve shortening flow. One reason to expect that curvature flows should prove useful in studying isoperimetric problems is that the prototypical flow, the mean curvature flow is the gradient flow of the area functional, hence one expects it to converge to an optimal domain. There is a deep interplay between geometric flows and isoperimetric problems, and I will endeavour to describe some on the fascinating aspects of this relationship, in particularly by exploring the connection between the isoperimetric profile and curvature flows such as the Ricci flow and mean curvature flow.
+  Since ancient times, beginning with the famous Dido problem, isoperimetric problems, in which one seeks to find the smallest perimeter enclosing a given volume, have stimulated much mathematical research. In the early twentieth century, such problems became well understood in constant curvature spaces. In the 1960's with the advent of geometric measure theory, tools became available to study isoperimetry in more general spaces, yet characterising optimal domains, beyond the fact that they must have constant mean curvature, only began to be understood in the late twentieth century, initially by Benjamini and Cao, through the application of the curve shortening flow. One reason to expect that curvature flows should prove useful in studying isoperimetric problems is that the prototypical flow, the mean curvature flow is the gradient flow of the area functional, hence one expects it to converge to an optimal domain. There is a deep interplay between geometric flows and isoperimetric problems, and I will endeavour to describe some on the fascinating aspects of this relationship, in particularly by exploring the connection between the isoperimetric profile and curvature flows such as the Ricci mean curvature flows.
 **** TODO Admin
 ***** DONE Prepare documents
       :LOGBOOK:
