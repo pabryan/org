@@ -4354,9 +4354,10 @@ Rowland Hall 340P
 	 CLOCK: [2014-05-02 Fri 18:42]--[2014-05-02 Fri 19:08] =>  0:26
 	 :END:
 ******** NEXT Create picture of bigger curvature comparison
-******** NEXT Positive curvature classic comparison
 ******** NEXT Aubin-Hadamaard
-******* TODO Symmetry
+	 :LOGBOOK:
+	 CLOCK: [2014-05-04 Sun 16:45]--[2014-05-04 Sun 18:03] =>  1:18
+	 :END:
 ******* TODO Isoperimetric Profile
 ******* TODO Geometric Flows
 ***** DONE Send title abstract
