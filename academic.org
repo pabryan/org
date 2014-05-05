@@ -3883,6 +3883,7 @@ I want to study Gauss maps $(E,X,\pi) \to (\RR^k\times X, X, \pi)$, in particula
 ***** TODO Geometric Invariant Theory
 ****** NEXT Read Wallach
        :LOGBOOK:
+       CLOCK: [2014-05-05 Mon 12:13]
        CLOCK: [2014-05-02 Fri 18:23]--[2014-05-02 Fri 18:42] =>  0:19
        CLOCK: [2014-05-02 Fri 11:15]--[2014-05-02 Fri 11:34] =>  0:19
        :END:
@@ -4344,6 +4345,7 @@ Rowland Hall 340P
 
 ******* TODO Curvature
 	:LOGBOOK:
+	CLOCK: [2014-05-05 Mon 11:56]--[2014-05-05 Mon 11:57] =>  0:01
 	CLOCK: [2014-05-02 Fri 19:08]--[2014-05-02 Fri 19:11] =>  0:03
 	:END:
 ******** DONE Create images of const. curvature iso regions
@@ -4369,11 +4371,22 @@ Rowland Hall 340P
 	 CLOCK: [2014-05-02 Fri 18:42]--[2014-05-02 Fri 19:08] =>  0:26
 	 :END:
 ******** NEXT Create picture of bigger curvature comparison
-******** NEXT Aubin-Hadamaard
+******** DONE Aubin-Hadamaard
 	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2014-05-05 Mon 11:56]
+	 CLOCK: [2014-05-05 Mon 11:47]--[2014-05-05 Mon 11:56] =>  0:09
 	 CLOCK: [2014-05-04 Sun 16:45]--[2014-05-04 Sun 18:03] =>  1:18
 	 :END:
 ******* TODO Isoperimetric Profile
+******** NEXT Write definition
+	 :LOGBOOK:
+	 CLOCK: [2014-05-05 Mon 11:57]--[2014-05-05 Mon 12:13] =>  0:16
+	 :END:
+******** NEXT Write variations
+******** NEXT Write barriers
+******** NEXT Ritore Aubin-Cartan-Hadamard
+******** NEXT Viscosity
+******** NEXT Comparison
 ******* TODO Geometric Flows
 ***** DONE Send title abstract
       :LOGBOOK:
