@@ -781,7 +781,7 @@ Classification of compact convex ancient solutions of the planar affine normal f
       :END:
 **** Notes
 ***** TODO Selected papers
-  SCHEDULED: <2014-05-05 Mon>
+  SCHEDULED: <2014-06-01 Sun>
   :LOGBOOK:
   CLOCK: [2013-08-04 Sun 09:49]--[2013-08-04 Sun 09:50] =>  0:01
   :END:
@@ -2995,7 +2995,7 @@ We solve for the metric and come up with various parameters such as $U, W$. Thes
 - The specs should not *ever* use the objects to test to create expected values! For instance, I have tests that create a galaxy object for testing and grab nsteps from the object to use in the expected values. This is not good! I should have an expected nsteps and use that to test the code generates the correct nsteps!
 
 **** TODO Numerical Relativity
-     SCHEDULED: <2014-05-05 Mon>
+     SCHEDULED: <2014-06-01 Sun>
 ***** Refs
 ****** Institutions
 https://numrel.aei.mpg.de/
@@ -3099,7 +3099,7 @@ In particular I want the combinatorial algebra
        	:END:
 ** Tasks
 *** TODO Organise research papers    
-    SCHEDULED: <2014-05-05 Mon>
+    SCHEDULED: <2014-06-01 Sun>
     :PROPERTIES:
     :ID:       27dd1954-9abe-4a87-9bcd-36027c643fdb
     :END:
@@ -3338,7 +3338,7 @@ Either by using literal blocks in org-mode or using sagetex I can produce images
     CLOCK: [2012-12-18 Tue 09:45]--[2012-12-18 Tue 10:27] =>  0:42
     :END:
 *** TODO Organise Research Projects
-    SCHEDULED: <2014-05-05 Mon>
+    SCHEDULED: <2014-06-01 Sun>
 **** NEXT Set up/organise current research projects
      SCHEDULED: <2014-06-01 Sun>
   :LOGBOOK:
@@ -3400,7 +3400,7 @@ Schedule time for research, for teaching and for non-research academic work (e.g
    :ID:       76fc2a4e-0bcf-40b4-aa91-f87c8962f648
    :END:
 *** Derivations
-    SCHEDULED: <2014-05-05 Mon>
+    SCHEDULED: <2014-06-01 Sun>
 **** Notes
 ***** Motivation
 To what extent do the derivations determine the smooth structure? That is, I want to consider differential ringed spaces and say that a smooth structure is such a ringed space. Or in other words, how canonical is a derivation on a ringed space? So, I have a locally ringed space that is locally isomorphic to the smooth functions on $\RR^n$ and this determines the smooth structure and is thus may be equipped with the standard derivations of partial differentiation. What about some sort of converse to this? In other words, what are the derivations on $C^{\infty}(\RR^n)$? Is there some way of characterising the standard derivation? Is it some sort of universal derivation? What are the properties that determine it?
@@ -3416,7 +3416,7 @@ Also, can I prove that the usual derivation is the unique derivation satisfying 
 **** Refs
 **** Tasks
 *** TODO Prove similarity solns (self-shrinkers/translations) have polynomial growth
-  SCHEDULED: <2014-05-05 Mon>
+  SCHEDULED: <2014-06-01 Sun>
   :LOGBOOK:
   :END:
     :PROPERTIES:
@@ -3819,7 +3819,7 @@ First variation.
 ***** Lec 03
 Radon measures: compactness and Reisz representation.
 *** TODO Convex Geometry					     :CONVEX:
-    SCHEDULED: <2014-05-05 Mon>
+    SCHEDULED: <2014-06-01 Sun>
     :LOGBOOK:
     - State "TODO"       from "HOLD"       [2013-10-09 Wed 17:24]
     - State "HOLD"       from "TODO"       [2013-08-04 Sun 16:46] \\
@@ -3882,7 +3882,7 @@ I want to study Gauss maps $(E,X,\pi) \to (\RR^k\times X, X, \pi)$, in particula
 **** TODO Paper/Book reading
 - I should get in the habit of writing my own description of the work and the main ideas as part of the learning process. I need a way to set this up in some sort of project exported to a wiki say?
 ***** NEXT Develop way to write my own notes (and publish on my website) on the subject
-      SCHEDULED: <2014-05-05 Mon>
+      SCHEDULED: <2014-06-01 Sun>
 ** Blog
 *** Ideas
 **** The use of coordinates in DG.
@@ -4780,7 +4780,7 @@ http://www.dtu.dk/Job/job?id=171c797f-0619-4bd4-a855-8ff6c4990af7
 
 ** Tasks
 *** TODO Write research proposal/statement
-    SCHEDULED: <2014-05-05 Mon>
+    SCHEDULED: <2014-06-01 Sun>
 <2014-04-01 Tue>
 * Visiting
 ** TODO Tasks
