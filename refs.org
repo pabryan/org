@@ -257,6 +257,12 @@
 [[papers:MR1736623x][MR1736623x-paper]]
 [[bib:MR1736623x][MR1736623x-bib]]
 \cite{MR936419}
+***** Geometric inequalities
+:PROPERTIES:
+:Custom_ID: MR936419
+:END:
+[[papers:MR936419][MR936419-paper]]
+[[bib:MR936419][MR936419-bib]]
 ** 53 (1940-now) Differential geometry [For differential topology, see 57Rxx. For foundational questions of differentiable manifolds, see 58Axx] :dg:manifolds:geometry:
 *** 53.0 (1940-1958) Differential geometry
 **** Vorlesungen \"uber {D}ifferentialgeometrie und geometrische {G}rundlagen von {E}insteins {R}elativit\"atstheorie. {B}and {I}. {E}lementare {D}ifferentialgeometrie
@@ -498,6 +504,12 @@
 :END:
 [[papers:MR2738904][MR2738904-paper]]
 [[bib:MR2738904][MR2738904-bib]]
+***** Structures m\'etriques pour les vari\'et\'es riemanniennes
+:PROPERTIES:
+:Custom_ID: MR682063
+:END:
+[[papers:MR682063][MR682063-paper]]
+[[bib:MR682063][MR682063-bib]]
 **** 53C21 (1980-now) Methods of Riemannian geometry, including PDE methods; curvature restrictions :riemannian:
 ***** Proof of the {R}iemannian {P}enrose inequality using the positive mass theorem
 :PROPERTIES:
@@ -916,12 +928,6 @@
 [[papers:MR1636569][MR1636569-paper]]
 [[bib:MR1636569][MR1636569-bib]]
 
-***** Probl\`emes isop\'erim\'etriques et espaces de {S}obolev
-:PROPERTIES:
-:Custom_ID: MR0448404
-:END:
-[[papers:MR0448404][MR0448404-paper]]
-[[bib:MR0448404][MR0448404-bib]]
 *** 58E   (1973-now) Variational problems in infinite-dimensional spaces :calculus_variations:infinite_dimension:
 **** 58E10   (1973-now) Applications to the theory of geodesics (problems in one independent variable) :geodesics:
 ***** A distance comparison principle for evolving curves :csf:evolution:distance:plane:curves:
@@ -1014,6 +1020,12 @@
 :END:
 [[papers:MR1417620][MR1417620-paper]]
 [[bib:MR1417620][MR1417620-bib]]
+***** Probl\`emes isop\'erim\'etriques et espaces de {S}obolev
+:PROPERTIES:
+:Custom_ID: MR0448404
+:END:
+[[papers:MR0448404][MR0448404-paper]]
+[[bib:MR0448404][MR0448404-bib]]
 **** 58E99   (1973-now) None of the above, but in this section
 ***** Motion of level sets by mean curvature. {II
 :PROPERTIES:

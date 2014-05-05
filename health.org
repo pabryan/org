@@ -13,14 +13,11 @@
     :STYLE:    habit
     :REPEAT_TO_STATE: NEXT
     :ID:       8d56b2ef-1b49-4dc4-b701-1d021a293fa4
-<<<<<<< local
-:LAST_REPEAT: [2014-05-03 Sat 14:25]
-=======
-    :LAST_REPEAT: [2014-04-22 Tue 18:09]
->>>>>>> other
+    :LAST_REPEAT: [2014-05-03 Sat 14:25]
     :END:
     :LOGBOOK:
     - State "DONE"       from "NEXT"       [2014-05-03 Sat 14:25]
+    - State "DONE"       from "NEXT"       [2014-05-02 Fri 19:43]
     - State "DONE"       from "NEXT"       [2014-05-01 Thu 12:01]
     - State "DONE"       from "NEXT"       [2014-04-29 Tue 15:30]
     - State "DONE"       from "NEXT"       [2014-04-28 Mon 09:48]
@@ -309,9 +306,11 @@
     - State "DONE"       from "NEXT"       [2013-03-09 Sat 11:10]
     :END:
 *** NEXT Mobility
-    SCHEDULED: <2014-05-04 Sun .+1d/2d>
+    SCHEDULED: <2014-05-05 Mon .+1d/2d>
     :LOGBOOK:
+    - State "DONE"       from "NEXT"       [2014-05-04 Sun 15:58]
     - State "DONE"       from "NEXT"       [2014-05-03 Sat 14:25]
+    - State "DONE"       from "NEXT"       [2014-05-02 Fri 19:43]
     - State "DONE"       from "NEXT"       [2014-05-01 Thu 12:01]
     - State "DONE"       from "NEXT"       [2014-04-30 Wed 18:09]
     - State "DONE"       from "NEXT"       [2014-04-29 Tue 10:45]
@@ -654,11 +653,11 @@
     CLOCK: [2013-03-10 Sun 09:09]--[2013-03-10 Sun 09:35] =>  0:26
     CLOCK: [2013-03-10 Sun 08:05]--[2013-03-10 Sun 08:35] =>  0:30
     :END:
-    :PROPERTIES:
+    :PROPERTIES: 
     :STYLE:    habit
     :REPEAT_TO_STATE: NEXT
     :ID:       0e75f56d-0356-4a0f-a376-080471ad4aad
-    :LAST_REPEAT: [2014-05-03 Sat 14:25]
+    :LAST_REPEAT: [2014-05-04 Sun 15:58]
     :END:
 
 *** NEXT Daily Release
@@ -835,9 +834,12 @@
     :ID:       f57232cd-a8f2-4a76-a507-4d69f765a521
     :END:
 *** NEXT Relax/Meditate
-    SCHEDULED: <2014-05-04 Sun .+1d/2d>
-  :LOGBOOK:
-  - State "DONE"       from "NEXT"       [2014-05-03 Sat 14:25]
+    SCHEDULED: <2014-05-05 Mon .+1d/2d>
+
+    :LOGBOOK:
+    - State "DONE"       from "NEXT"       [2014-05-04 Sun 15:58]
+    - State "DONE"       from "NEXT"       [2014-05-03 Sat 14:25]
+  - State "DONE"       from "NEXT"       [2014-05-02 Fri 19:43]
   - State "DONE"       from "NEXT"       [2014-04-29 Tue 15:30]
   - State "DONE"       from "NEXT"       [2014-04-22 Tue 18:14]
   - State "DONE"       from "NEXT"       [2014-04-20 Sun 16:51]
@@ -927,40 +929,40 @@
   - State "DONE"       from "NEXT"       [2013-09-14 Sat 16:15]
   - State "DONE"       from "NEXT"       [2013-09-12 Thu 19:41]
   - State "DONE"       from "NEXT"       [2013-09-03 Tue 19:00]
-  CLOCK: [2013-09-03 Tue 18:01]--[2013-09-03 Tue 19:00] =>  0:59
+    CLOCK: [2013-09-03 Tue 18:01]--[2013-09-03 Tue 19:00] =>  0:59
   - State "DONE"       from "NEXT"       [2013-09-02 Mon 21:02]
-  CLOCK: [2013-09-02 Mon 15:15]--[2013-09-02 Mon 15:35] =>  0:20
+    CLOCK: [2013-09-02 Mon 15:15]--[2013-09-02 Mon 15:35] =>  0:20
   - State "DONE"       from "NEXT"       [2013-08-31 Sat 20:54]
   - State "DONE"       from "NEXT"       [2013-08-30 Fri 21:48]
   - State "DONE"       from "NEXT"       [2013-08-29 Thu 17:06]
-  CLOCK: [2013-08-29 Thu 17:06]--[2013-08-29 Thu 18:06] =>  1:00
+    CLOCK: [2013-08-29 Thu 17:06]--[2013-08-29 Thu 18:06] =>  1:00
   - State "DONE"       from "NEXT"       [2013-08-27 Tue 16:20]
-  CLOCK: [2013-08-27 Tue 14:00]--[2013-08-27 Tue 16:17] =>  2:17
+    CLOCK: [2013-08-27 Tue 14:00]--[2013-08-27 Tue 16:17] =>  2:17
   - State "DONE"       from "NEXT"       [2013-08-25 Sun 15:29]
   - State "DONE"       from "NEXT"       [2013-08-24 Sat 16:16]
   - State "DONE"       from "NEXT"       [2013-08-22 Thu 20:00]
   - State "DONE"       from "NEXT"       [2013-08-21 Wed 13:50]
   - State "DONE"       from "NEXT"       [2013-08-20 Tue 21:07]
   - State "DONE"       from "NEXT"       [2013-08-18 Sun 14:42]
-  CLOCK: [2013-08-18 Sun 13:42]--[2013-08-18 Sun 14:42] =>  1:00
+    CLOCK: [2013-08-18 Sun 13:42]--[2013-08-18 Sun 14:42] =>  1:00
   - State "DONE"       from "NEXT"       [2013-08-17 Sat 18:58]
   - State "DONE"       from "NEXT"       [2013-08-16 Fri 17:03]
   - State "DONE"       from "NEXT"       [2013-08-15 Thu 17:41]
-  CLOCK: [2013-08-15 Thu 17:21]--[2013-08-15 Thu 17:41] =>  0:20
+    CLOCK: [2013-08-15 Thu 17:21]--[2013-08-15 Thu 17:41] =>  0:20
   - State "DONE"       from "NEXT"       [2013-08-14 Wed 16:08]
   - State "DONE"       from "NEXT"       [2013-08-13 Tue 19:25]
   - State "DONE"       from "NEXT"       [2013-08-11 Sun 20:25]
-  CLOCK: [2013-08-11 Sun 15:50]--[2013-08-11 Sun 18:15] =>  2:25
+    CLOCK: [2013-08-11 Sun 15:50]--[2013-08-11 Sun 18:15] =>  2:25
   - State "DONE"       from "NEXT"       [2013-08-08 Thu 19:04]
   - State "DONE"       from "NEXT"       [2013-08-07 Wed 17:57]
   - State "DONE"       from "NEXT"       [2013-08-06 Tue 16:03]
   - State "DONE"       from "NEXT"       [2013-08-05 Mon 13:35]
-  CLOCK: [2013-08-05 Mon 13:10]--[2013-08-05 Mon 13:35] =>  0:25
+    CLOCK: [2013-08-05 Mon 13:10]--[2013-08-05 Mon 13:35] =>  0:25
   - State "DONE"       from "NEXT"       [2013-08-04 Sun 17:29]
-  CLOCK: [2013-08-04 Sun 16:49]--[2013-08-04 Sun 17:29] =>  0:40
+    CLOCK: [2013-08-04 Sun 16:49]--[2013-08-04 Sun 17:29] =>  0:40
   - State "DONE"       from "NEXT"       [2013-08-02 Fri 20:35]
-  CLOCK: [2013-07-29 Mon 14:50]--[2013-07-29 Mon 16:30] =>  1:40
-  CLOCK: [2013-05-01 Wed 14:11]--[2013-05-01 Wed 14:50] =>  0:39
+    CLOCK: [2013-07-29 Mon 14:50]--[2013-07-29 Mon 16:30] =>  1:40
+    CLOCK: [2013-05-01 Wed 14:11]--[2013-05-01 Wed 14:50] =>  0:39
   - State "DONE"       from "NEXT"       [2013-08-01 Thu 19:49]
   - State "DONE"       from "NEXT"       [2013-07-31 Wed 21:56]
   - State "DONE"       from "NEXT"       [2013-07-30 Tue 19:11]
@@ -1036,13 +1038,13 @@
   - State "DONE"       from "NEXT"       [2013-03-14 Thu 17:04]
   - State "DONE"       from "NEXT"       [2013-03-12 Tue 21:32]
   - State "DONE"       from "NEXT"       [2013-03-11 Mon 21:23]
-  :END:
-  :PROPERTIES:
-  :STYLE:    habit
-  :REPEAT_TO_STATE: NEXT
-  :ID:       c0aaf33a-af77-446b-b9fd-cf2d2f78c12a
-  :LAST_REPEAT: [2014-05-03 Sat 14:25]
-  :END:
+    :END:
+    :PROPERTIES:
+    :STYLE:    habit
+    :REPEAT_TO_STATE: NEXT
+    :ID:       c0aaf33a-af77-446b-b9fd-cf2d2f78c12a
+    :LAST_REPEAT: [2014-05-04 Sun 15:58]
+    :END:
 
 
 ** Old Tracking
