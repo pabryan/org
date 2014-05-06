@@ -4396,6 +4396,9 @@ Rowland Hall 340P
 	 CLOCK: [2014-05-05 Mon 19:27]--[2014-05-05 Mon 20:02] =>  0:35
 	 :END:
 ******** NEXT Write non-smooth variations
+	 :LOGBOOK:
+	 CLOCK: [2014-05-06 Tue 12:13]--[2014-05-06 Tue 13:01] =>  0:48
+	 :END:
 ******** NEXT Write barriers
 ******** NEXT Ritore Aubin-Cartan-Hadamard
 ******** NEXT Viscosity
