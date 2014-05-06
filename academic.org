@@ -4378,12 +4378,24 @@ Rowland Hall 340P
 	 CLOCK: [2014-05-04 Sun 16:45]--[2014-05-04 Sun 18:03] =>  1:18
 	 :END:
 ******* TODO Isoperimetric Profile
-******** NEXT Write definition
+******** DONE Write definition
 	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2014-05-05 Mon 17:07]
 	 CLOCK: [2014-05-05 Mon 12:25]--[2014-05-05 Mon 12:38] =>  0:13
 	 CLOCK: [2014-05-05 Mon 11:57]--[2014-05-05 Mon 12:13] =>  0:16
 	 :END:
-******** NEXT Write variations
+******** DONE Write first variation
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2014-05-05 Mon 19:27]
+	 CLOCK: [2014-05-05 Mon 18:59]--[2014-05-05 Mon 19:27] =>  0:28
+	 CLOCK: [2014-05-05 Mon 17:08]--[2014-05-05 Mon 17:34] =>  0:26
+	 :END:
+******** DONE Write second variation
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2014-05-05 Mon 20:02]
+	 CLOCK: [2014-05-05 Mon 19:27]--[2014-05-05 Mon 20:02] =>  0:35
+	 :END:
+******** NEXT Write non-smooth variations
 ******** NEXT Write barriers
 ******** NEXT Ritore Aubin-Cartan-Hadamard
 ******** NEXT Viscosity

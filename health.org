@@ -663,8 +663,9 @@
     :END:
 
 *** NEXT Daily Release
-    SCHEDULED: <2014-04-03 Thu .+1d/2d>
+    SCHEDULED: <2014-05-06 Tue .+1d/2d>
     :LOGBOOK:
+    - State "DONE"       from "NEXT"       [2014-05-05 Mon 22:13]
     - State "DONE"       from "NEXT"       [2014-04-02 Wed 22:26]
     - State "DONE"       from "NEXT"       [2014-03-20 Thu 19:18]
     - State "DONE"       from "NEXT"       [2014-03-18 Tue 23:17]
@@ -807,7 +808,7 @@
     :STYLE:    habit
     :REPEAT_TO_STATE: NEXT
     :ID:       d439600f-c40d-4dd3-82ca-3e7d9e35f2b3
-    :LAST_REPEAT: [2014-04-02 Wed 22:26]
+    :LAST_REPEAT: [2014-05-05 Mon 22:13]
     :END:
   
 *** NEXT Handstand practice
@@ -836,9 +837,10 @@
     :ID:       f57232cd-a8f2-4a76-a507-4d69f765a521
     :END:
 *** NEXT Relax/Meditate
-    SCHEDULED: <2014-05-05 Mon .+1d/2d>
+    SCHEDULED: <2014-05-06 Tue .+1d/2d>
 
     :LOGBOOK:
+    - State "DONE"       from "NEXT"       [2014-05-05 Mon 17:07]
     - State "DONE"       from "NEXT"       [2014-05-04 Sun 15:58]
     - State "DONE"       from "NEXT"       [2014-05-03 Sat 14:25]
   - State "DONE"       from "NEXT"       [2014-05-02 Fri 19:43]
@@ -1045,7 +1047,7 @@
     :STYLE:    habit
     :REPEAT_TO_STATE: NEXT
     :ID:       c0aaf33a-af77-446b-b9fd-cf2d2f78c12a
-    :LAST_REPEAT: [2014-05-04 Sun 15:58]
+    :LAST_REPEAT: [2014-05-05 Mon 17:07]
     :END:
 
 
