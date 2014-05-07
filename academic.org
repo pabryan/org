@@ -4420,7 +4420,11 @@ Rowland Hall 340P
 	 - State "DONE"       from "NEXT"       [2014-05-06 Tue 19:49]
 	 CLOCK: [2014-05-06 Tue 19:32]--[2014-05-06 Tue 19:49] =>  0:17
 	 :END:
-******** NEXT Ritore Aubin-Cartan-Hadamard
+******** DONE Ritore Aubin-Cartan-Hadamard
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2014-05-06 Tue 21:48]
+	 CLOCK: [2014-05-06 Tue 21:02]--[2014-05-06 Tue 21:48] =>  0:46
+	 :END:
 ******** NEXT Viscosity
 ******** NEXT Comparison
 ******* TODO Geometric Flows
