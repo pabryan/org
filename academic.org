@@ -4395,15 +4395,42 @@ Rowland Hall 340P
 	 - State "DONE"       from "NEXT"       [2014-05-05 Mon 20:02]
 	 CLOCK: [2014-05-05 Mon 19:27]--[2014-05-05 Mon 20:02] =>  0:35
 	 :END:
-******** NEXT Write non-smooth variations
+******** CANCELLED Write unit speed variations, Barbosa/do Carmo Lagrange multiplier approach
 	 :LOGBOOK:
+	 - State "CANCELLED"  from "NEXT"       [2014-05-06 Tue 18:53] \\
+	   Don't want to do that since they have a different V
+	 :END:
+******** DONE Write non-smooth variations
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2014-05-06 Tue 15:15]
 	 CLOCK: [2014-05-06 Tue 12:13]--[2014-05-06 Tue 13:01] =>  0:48
 	 :END:
-******** NEXT Write barriers
+******** DONE Write non-smooth compactly support variations on smooth part, unit speed
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2014-05-06 Tue 19:32]
+	 CLOCK: [2014-05-06 Tue 18:53]--[2014-05-06 Tue 19:32] =>  0:39
+	 :END:
+******** DONE Write barriers
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2014-05-06 Tue 15:36]
+	 CLOCK: [2014-05-06 Tue 14:55]--[2014-05-06 Tue 15:36] =>  0:41
+	 :END:
+******** DONE Bavard/Pansu convexity + connectivity 
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2014-05-06 Tue 19:49]
+	 CLOCK: [2014-05-06 Tue 19:32]--[2014-05-06 Tue 19:49] =>  0:17
+	 :END:
 ******** NEXT Ritore Aubin-Cartan-Hadamard
 ******** NEXT Viscosity
 ******** NEXT Comparison
 ******* TODO Geometric Flows
+****** TODO Editing
+******* NEXT Proofing
+	:LOGBOOK:
+	CLOCK: [2014-05-06 Tue 15:50]--[2014-05-06 Tue 16:53] =>  1:03
+	:END:
+******* NEXT Produce first draft
+******* NEXT Produce final version
 ***** DONE Send title abstract
       :LOGBOOK:
       - State "DONE"       from "NEXT"       [2014-05-04 Sun 16:24]
