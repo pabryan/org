@@ -4343,8 +4343,18 @@ Rowland Hall 340P
 ****** TODO Write details
        DEADLINE: <2014-05-07 Wed>
 
-******* TODO Curvature
+******* TODO Introduction
+******** DONE Add slide on MCF
+******** DONE Add MCF isoperimetric inequalities
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2014-05-07 Wed 17:30]
+	 CLOCK: [2014-05-07 Wed 17:01]--[2014-05-07 Wed 17:30] =>  0:29
+	 :END:
+	 - State "DONE"       from "NEXT"       [2014-05-07 Wed 16:56]
+******** NEXT Regroup MCF with CSF and isoperimetric inequalities together
+******* DONE Curvature
 	:LOGBOOK:
+	- State "DONE"       from "TODO"       [2014-05-07 Wed 17:31]
 	CLOCK: [2014-05-05 Mon 11:56]--[2014-05-05 Mon 11:57] =>  0:01
 	CLOCK: [2014-05-02 Fri 19:08]--[2014-05-02 Fri 19:11] =>  0:03
 	:END:
@@ -4370,14 +4380,23 @@ Rowland Hall 340P
 	 - State "DONE"       from "NEXT"       [2014-05-02 Fri 19:08]
 	 CLOCK: [2014-05-02 Fri 18:42]--[2014-05-02 Fri 19:08] =>  0:26
 	 :END:
-******** NEXT Create picture of bigger curvature comparison
+******** CANCELLED Create picture of bigger curvature comparison
+	 :LOGBOOK:
+	 - State "CANCELLED"  from "NEXT"       [2014-05-07 Wed 17:31] \\
+	   Don't really need it.
+	 :END:
 ******** DONE Aubin-Hadamaard
 	 :LOGBOOK:
 	 - State "DONE"       from "NEXT"       [2014-05-05 Mon 11:56]
 	 CLOCK: [2014-05-05 Mon 11:47]--[2014-05-05 Mon 11:56] =>  0:09
 	 CLOCK: [2014-05-04 Sun 16:45]--[2014-05-04 Sun 18:03] =>  1:18
 	 :END:
-******* TODO Isoperimetric Profile
+******* TODO Properties of Iso regions
+******** NEXT Give some examples like torus
+******* DONE Isoperimetric Profile
+	:LOGBOOK:
+	- State "DONE"       from "TODO"       [2014-05-07 Wed 17:31]
+	:END:
 ******** DONE Write definition
 	 :LOGBOOK:
 	 - State "DONE"       from "NEXT"       [2014-05-05 Mon 17:07]
@@ -4429,11 +4448,9 @@ Rowland Hall 340P
 ******** DONE Viscosity
 	 :LOGBOOK:
 	 - State "DONE"       from "NEXT"       [2014-05-07 Wed 11:24]
-	 CLOCK: [2014-05-07 Wed 10:33]
+	 CLOCK: [2014-05-07 Wed 10:33]--[2014-05-07 Wed 11:28] =>  0:55
 	 :END:
 ******** NEXT Comparison
-******** NEXT Manifolds with boundary
-******** NEXT Huisken
 ****** TODO Editing
 ******* NEXT Proofing
 	:LOGBOOK:
