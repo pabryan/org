@@ -4324,6 +4324,7 @@ Rowland Hall 340P
 [[file:~/working/academic/seminars/ucsc_colloquium_spring_2014]]
 ***** TODO Slides
       :LOGBOOK:
+      CLOCK: [2014-05-08 Thu 20:46]--[2014-05-08 Thu 20:47] =>  0:01
       CLOCK: [2014-04-17 Thu 08:38]--[2014-04-17 Thu 08:39] =>  0:01
       :END:
 ****** DONE Set up slides
@@ -4340,8 +4341,12 @@ Rowland Hall 340P
        :LOGBOOK:
        - State "DONE"       from "NEXT"       [2014-04-17 Thu 08:38]
        :END:
-****** TODO Write details
+****** DONE Write details
        DEADLINE: <2014-05-07 Wed>
+       :LOGBOOK:
+       - State "DONE"       from "TODO"       [2014-05-08 Thu 20:46]
+       CLOCK: [2014-05-08 Thu 20:45]--[2014-05-08 Thu 20:46] =>  0:01
+       :END:
 
 ******* DONE Introduction
 	:LOGBOOK:
@@ -4398,18 +4403,9 @@ Rowland Hall 340P
 	 CLOCK: [2014-05-05 Mon 11:47]--[2014-05-05 Mon 11:56] =>  0:09
 	 CLOCK: [2014-05-04 Sun 16:45]--[2014-05-04 Sun 18:03] =>  1:18
 	 :END:
-******* DONE Properties of Iso regions
+******* DONE Isoperimetric Profile
 	:LOGBOOK:
-	- State "DONE"       from "TODO"       [2014-05-07 Wed 23:49]
-	:END:
-******** DONE Give some examples like torus
-	 :LOGBOOK:
-	 - State "DONE"       from "NEXT"       [2014-05-07 Wed 23:48]
-	 CLOCK: [2014-05-07 Wed 23:30]--[2014-05-07 Wed 23:48] =>  0:18
-	 CLOCK: [2014-05-07 Wed 21:45]--[2014-05-07 Wed 22:34] =>  0:49
-	 :END:
-******* TODO Isoperimetric Profile
-	:LOGBOOK:
+	- State "DONE"       from "TODO"       [2014-05-08 Thu 20:45]
 	- State "TODO"       from "DONE"       [2014-05-07 Wed 23:49] \\
 	  Decided to add a slide of continuity and lack of differentiability
 	- State "DONE"       from "TODO"       [2014-05-07 Wed 17:31]
@@ -4461,7 +4457,23 @@ Rowland Hall 340P
 	 - State "DONE"       from "NEXT"       [2014-05-06 Tue 21:48]
 	 CLOCK: [2014-05-06 Tue 21:02]--[2014-05-06 Tue 21:48] =>  0:46
 	 :END:
-******** NEXT Continuity and lack of differentiability
+******** DONE Give some examples like torus
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2014-05-07 Wed 23:48]
+	 CLOCK: [2014-05-07 Wed 23:30]--[2014-05-07 Wed 23:48] =>  0:18
+	 CLOCK: [2014-05-07 Wed 21:45]--[2014-05-07 Wed 22:34] =>  0:49
+	 :END:
+******** CANCELLED Examples like hyperbolic surfaces?
+	 :LOGBOOK:
+	 - State "CANCELLED"  from "NEXT"       [2014-05-08 Thu 20:45] \\
+	   Can't quite fit it in.
+	 :END:
+
+******** DONE Continuity and lack of differentiability
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2014-05-08 Thu 20:45]
+	 CLOCK: [2014-05-08 Thu 19:44]--[2014-05-08 Thu 20:45] =>  1:01
+	 :END:
 - eg. jump for cylinder: produce plot!
 
 ******* DONE Geometric Flows
@@ -4493,7 +4505,10 @@ Rowland Hall 340P
 - Title: Isoperimetry and Curvature Flows.
 - Abstract:
   Since ancient times, beginning with the famous Dido problem, isoperimetric problems, in which one seeks to find the smallest perimeter enclosing a given volume, have stimulated much mathematical research. In the early twentieth century, such problems became well understood in constant curvature spaces. In the 1960's with the advent of geometric measure theory, tools became available to study isoperimetry in more general spaces, yet characterising optimal domains, beyond the fact that they must have constant mean curvature, only began to be understood in the late twentieth century, initially by Benjamini and Cao, through the application of the curve shortening flow. One reason to expect that curvature flows should prove useful in studying isoperimetric problems is that the prototypical flow, the mean curvature flow is the gradient flow of the area functional, hence one expects it to converge to an optimal domain. There is a deep interplay between geometric flows and isoperimetric problems, and I will endeavour to describe some on the fascinating aspects of this relationship, in particularly by exploring the connection between the isoperimetric profile and curvature flows such as the Ricci mean curvature flows.
-**** TODO Admin
+**** DONE Admin
+     :LOGBOOK:
+     - State "DONE"       from "TODO"       [2014-05-08 Thu 20:47]
+     :END:
 ***** DONE Prepare documents
       :LOGBOOK:
       - State "DONE"       from "NEXT"       [2014-03-28 Fri 15:17]
@@ -4518,10 +4533,21 @@ Rowland Hall 340P
       - State "DONE"       from "NEXT"       [2014-05-02 Fri 12:51]
       CLOCK: [2014-05-01 Thu 12:27]--[2014-05-01 Thu 12:34] =>  0:07
       :END:
-*** TODO UCSC Winter visit
+*** DONE UCSC Winter visit
+    :LOGBOOK:
+    - State "DONE"       from "TODO"       [2014-05-08 Thu 20:47]
+    :END:
 <2014-05-09 Fri>--<2014-05-18 Sun>
-**** NEXT Read Jie Qing paper
-**** NEXT Come up with some ideas!
+**** CANCELLED Read Jie Qing paper
+     :LOGBOOK:
+     - State "CANCELLED"  from "NEXT"       [2014-05-08 Thu 20:47] \\
+       Ran out of time!
+     :END:
+**** CANCELLED Come up with some ideas!
+     :LOGBOOK:
+     - State "CANCELLED"  from "NEXT"       [2014-05-08 Thu 20:47] \\
+       ran out of time!
+     :END:
 - what is this totally geodesic hypersurface Alencar and Frensel talk about?
 - can I parameterise my hypersurface by adding some tangential like component?
 - how does this relate to horospheres and Jie Qing's work?
