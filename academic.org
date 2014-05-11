@@ -4493,6 +4493,7 @@ Rowland Hall 340P
 ****** TODO Editing
 ******* NEXT Proofing
 	:LOGBOOK:
+	CLOCK: [2014-05-10 Sat 20:33]--[2014-05-10 Sat 20:50] =>  0:17
 	CLOCK: [2014-05-06 Tue 15:50]--[2014-05-06 Tue 16:53] =>  1:03
 	:END:
 ******* NEXT Produce first draft
@@ -4537,7 +4538,7 @@ Rowland Hall 340P
     :LOGBOOK:
     - State "DONE"       from "TODO"       [2014-05-08 Thu 20:47]
     :END:
-<2014-05-09 Fri>--<2014-05-18 Sun>
+<2014-05-09 Fri>--<2014-05-17 Sat>
 **** CANCELLED Read Jie Qing paper
      :LOGBOOK:
      - State "CANCELLED"  from "NEXT"       [2014-05-08 Thu 20:47] \\

@@ -1219,8 +1219,11 @@ fluff sheets 1d/2d
     :ID:       026c982f-1f45-4f21-a0f3-2b8279471938
     :END:
 [2013-09-07 Sat 09:44]
-*** TODO Get vacuum cleaner parts
+*** DONE Get vacuum cleaner parts
   SCHEDULED: <2014-05-01 Thu>
+  :LOGBOOK:
+  - State "DONE"       from "TODO"       [2014-05-10 Sat 20:26]
+  :END:
 [2014-04-17 Thu 09:54]
 - Bottom cover
 - Filter
@@ -1542,8 +1545,11 @@ Bath and toilet clogged. Need light globes.
 *** Beaches
 **** Lo Jolla rock pools
 *** Outback Adventures
-**** TODO Check out camping
+**** DONE Check out camping
      SCHEDULED: <2014-05-01 Thu>
+     :LOGBOOK:
+     - State "DONE"       from "TODO"       [2014-05-10 Sat 20:26]
+     :END:
      :PROPERTIES:
      :ID:       153f145d-ec78-4dde-aae4-58d651d5e8ac
      :END:
