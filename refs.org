@@ -574,6 +574,12 @@
 :END:
 [[papers:MR1630194][MR1630194-paper]]
 [[bib:MR1630194][MR1630194-bib]]
+***** Hypersurfaces in {$\Bbb H^{n+1}$} and conformally invariant equations: the generalized {C}hristoffel and {N}irenberg problems
+:PROPERTIES:
+:Custom_ID: MR2538508
+:END:
+[[papers:MR2538508][MR2538508-paper]]
+[[bib:MR2538508][MR2538508-bib]]
 **** 53C22 (1980-now) Geodesics [See also 58E10]
 ***** Shortening embedded curves
 :PROPERTIES:
@@ -613,6 +619,12 @@
 :END:
 [[papers:MR0493885][MR0493885-paper]]
 
+***** Correspondences of hypersurfaces in hyperbolic {P}oincar\'e manifolds and conformally invariant {PDE}s
+:PROPERTIES:
+:Custom_ID: MR2679632
+:END:
+[[papers:MR2679632][MR2679632-paper]]
+[[bib:MR2679632][MR2679632-bib]]
 **** 53C42 (1980-now) Immersions (minimal, prescribed curvature, tight, etc.) [See also 49Q05, 49Q10, 53A10, 57R40, 57R42] :immersions:submanifold:
 ***** Constant mean curvature hypersurfaces in a {L}ie group with a bi-invariant metric :cmc:lie_group:hypersurface:
 :PROPERTIES:
@@ -1278,6 +1290,12 @@ Here I need to do some more work since $u \mapsto g(\grad u, \grad u)$ is not a 
 :END:
 [[papers:2014arXiv1401.4154S][2014arXiv1401.4154S-paper]]
 [[bib:2014arXiv1401.4154S][2014arXiv1401.4154S-bib]]
+*** Hypersurfaces in hyperbolic space with support function
+:PROPERTIES:
+:Custom_ID: 2012arXiv1209.5413B
+:END:
+[[papers:2012arXiv1209.5413B][2012arXiv1209.5413B-paper]]
+[[bib:2012arXiv1209.5413B][2012arXiv1209.5413B-bib]]
 * Misc
   :PROPERTIES:
   :COLUMNS: %75ITEM %TAGS

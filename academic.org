@@ -4322,6 +4322,7 @@ Rowland Hall 340P
 *** TODO Winter 2014 Colloquium					      :FOCUS:
 **** TODO Talk
 [[file:~/working/academic/seminars/ucsc_colloquium_spring_2014]]
+<2014-05-13 Tue 15:00-17:00>
 ***** TODO Slides
       :LOGBOOK:
       CLOCK: [2014-05-08 Thu 20:46]--[2014-05-08 Thu 20:47] =>  0:01
@@ -4534,17 +4535,17 @@ Rowland Hall 340P
       - State "DONE"       from "NEXT"       [2014-05-02 Fri 12:51]
       CLOCK: [2014-05-01 Thu 12:27]--[2014-05-01 Thu 12:34] =>  0:07
       :END:
-*** DONE UCSC Winter visit
+*** TODO UCSC Winter visit
     :LOGBOOK:
     - State "DONE"       from "TODO"       [2014-05-08 Thu 20:47]
     :END:
 <2014-05-09 Fri>--<2014-05-17 Sat>
-**** CANCELLED Read Jie Qing paper
-     :LOGBOOK:
-     - State "CANCELLED"  from "NEXT"       [2014-05-08 Thu 20:47] \\
-       Ran out of time!
-     :END:
-**** CANCELLED Come up with some ideas!
+***** CANCELLED Read Jie Qing paper
+      :LOGBOOK:
+      - State "CANCELLED"  from "NEXT"       [2014-05-08 Thu 20:47] \\
+       	Ran out of time!
+      :END:
+***** CANCELLED Come up with some ideas!
      :LOGBOOK:
      - State "CANCELLED"  from "NEXT"       [2014-05-08 Thu 20:47] \\
        ran out of time!
@@ -4552,6 +4553,15 @@ Rowland Hall 340P
 - what is this totally geodesic hypersurface Alencar and Frensel talk about?
 - can I parameterise my hypersurface by adding some tangential like component?
 - how does this relate to horospheres and Jie Qing's work?
+***** TODO UCSC Seminar Talk
+<2014-05-15 Thu 14:00-15:45>
+****** NEXT Print ancient CSF draft
+****** NEXT Make a talk outline
+***** Meeting Qing
+      :LOGBOOK:
+      CLOCK: [2014-05-12 Mon 13:10]--[2014-05-12 Mon 15:10] =>  2:00
+      :END:
+
 ** BADGS
 *** UCSC Winter 2014
 *** Fall 2014
