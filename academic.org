@@ -4323,8 +4323,9 @@ Rowland Hall 340P
 **** TODO Talk
 [[file:~/working/academic/seminars/ucsc_colloquium_spring_2014]]
 <2014-05-13 Tue 15:00-17:00>
-***** TODO Slides
+***** DONE Slides
       :LOGBOOK:
+      - State "DONE"       from "TODO"       [2014-05-13 Tue 10:59]
       CLOCK: [2014-05-08 Thu 20:46]--[2014-05-08 Thu 20:47] =>  0:01
       CLOCK: [2014-04-17 Thu 08:38]--[2014-04-17 Thu 08:39] =>  0:01
       :END:
@@ -4491,14 +4492,25 @@ Rowland Hall 340P
 	 - State "DONE"       from "NEXT"       [2014-05-07 Wed 21:00]
 	 CLOCK: [2014-05-07 Wed 20:43]--[2014-05-07 Wed 21:00] =>  0:17
 	 :END:
-****** TODO Editing
-******* NEXT Proofing
+****** DONE Editing
+       :LOGBOOK:
+       - State "DONE"       from "TODO"       [2014-05-13 Tue 10:59]
+       :END:
+******* DONE Proofing
 	:LOGBOOK:
+	- State "DONE"       from "NEXT"       [2014-05-13 Tue 09:22]
 	CLOCK: [2014-05-10 Sat 20:33]--[2014-05-10 Sat 20:50] =>  0:17
 	CLOCK: [2014-05-06 Tue 15:50]--[2014-05-06 Tue 16:53] =>  1:03
 	:END:
-******* NEXT Produce first draft
-******* NEXT Produce final version
+******* DONE Produce first draft
+	:LOGBOOK:
+	- State "DONE"       from "NEXT"       [2014-05-13 Tue 10:59]
+	CLOCK: [2014-05-13 Tue 09:22]--[2014-05-13 Tue 10:59] =>  1:37
+	:END:
+******* DONE Produce final version
+	:LOGBOOK:
+	- State "DONE"       from "NEXT"       [2014-05-13 Tue 10:59]
+	:END:
 ***** DONE Send title abstract
       :LOGBOOK:
       - State "DONE"       from "NEXT"       [2014-05-04 Sun 16:24]
