@@ -4565,15 +4565,26 @@ Rowland Hall 340P
 - what is this totally geodesic hypersurface Alencar and Frensel talk about?
 - can I parameterise my hypersurface by adding some tangential like component?
 - how does this relate to horospheres and Jie Qing's work?
-***** TODO UCSC Seminar Talk
+***** DONE UCSC Seminar Talk
+      :LOGBOOK:
+      - State "DONE"       from "TODO"       [2014-05-15 Thu 16:12]
+      CLOCK: [2014-05-15 Thu 13:54]--[2014-05-15 Thu 16:12] =>  2:18
+      :END:
 <2014-05-15 Thu 14:00-15:45>
-****** NEXT Print ancient CSF draft
-****** NEXT Make a talk outline
+****** DONE Print ancient CSF draft
+       :LOGBOOK:
+       - State "DONE"       from "NEXT"       [2014-05-15 Thu 12:22]
+       :END:
+****** DONE Make a talk outline
+       :LOGBOOK:
+       - State "DONE"       from "NEXT"       [2014-05-15 Thu 16:12]
+       CLOCK: [2014-05-15 Thu 12:22]--[2014-05-15 Thu 13:54] =>  1:32
+       :END:
 ***** Meeting Qing
       :LOGBOOK:
       CLOCK: [2014-05-12 Mon 13:10]--[2014-05-12 Mon 15:10] =>  2:00
       :END:
-
+***** NEXT Submit receipts
 ** BADGS
 *** UCSC Winter 2014
 *** Fall 2014

@@ -15,7 +15,7 @@
 :Custom_ID: MR2948294
 :END:
 [[papers:MR2948294][MR2948294-paper]]
-** 28  (1940-now) Measure and integration [For analysis on manifolds, see 58-XX]
+** 28 (1940-now) Measure and integration [For analysis on manifolds, see 58-XX]
 *** 28.80 (1959-1972) Length, area, volume; other geometric measure theory
 **** Geometric measure theory
 :PROPERTIES:
@@ -23,7 +23,7 @@
 :END:
 [[papers:MR0257325][MR0257325-paper]]
 [[bib:MR0257325][MR0257325-bib]]
-** 34  View Publications (1940-now) Ordinary differential equations
+** 34 (1940-now) Ordinary differential equations
 *** 34C  View Publications (1973-now) Qualitative theory [See also 37-XX]
 **** 34C10  View Publications (1973-now) Oscillation theory, zeros, disconjugacy and comparison theory
 ***** Comparison theory for {R}iccati equations
@@ -674,6 +674,12 @@
 :END:
 [[papers:MR1885654][MR1885654-paper]]
 [[bib:MR1885654][MR1885654-bib]]
+***** Hypersurfaces in {$H^n$} and the space of its horospheres
+:PROPERTIES:
+:Custom_ID: MR1911666
+:END:
+[[papers:MR1911666][MR1911666-paper]]
+[[bib:MR1911666][MR1911666-bib]]
 **** 53C44 (2000-now) Geometric evolution equations (mean curvature flow, Ricci flow, etc.) :evolution:
 ***** Ancient solutions of the affine normal flow
 :PROPERTIES:

@@ -1826,6 +1826,8 @@ http://gmane.org
   :END:
 ** Organisation
   :LOGBOOK:
+  CLOCK: [2014-05-15 Thu 16:12]--[2014-05-15 Thu 16:18] =>  0:06
+  CLOCK: [2014-05-15 Thu 12:04]--[2014-05-15 Thu 12:22] =>  0:18
   CLOCK: [2014-05-12 Mon 15:10]--[2014-05-12 Mon 17:00] =>  1:50
   CLOCK: [2014-05-12 Mon 12:15]--[2014-05-12 Mon 15:10] =>  2:55
   CLOCK: [2014-05-08 Thu 19:39]--[2014-05-08 Thu 19:44] =>  0:05
@@ -3129,8 +3131,9 @@ Set some goals for the month. I should check someday projects for inclusion in t
 Check how I did last month. I guess the review and plan could probably go together. This is all broad stuff
 
 ** NEXT Daily Review [0/12]
-   SCHEDULED: <2014-05-11 Sun .+1d/2d>
+   SCHEDULED: <2014-05-16 Fri .+1d/2d>
    :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2014-05-15 Thu 16:18]
    - State "DONE"       from "NEXT"       [2014-05-10 Sat 20:26]
    - State "DONE"       from "NEXT"       [2014-05-08 Thu 19:39]
    - State "DONE"       from "NEXT"       [2014-05-06 Tue 21:55]
@@ -3434,7 +3437,7 @@ Check how I did last month. I guess the review and plan could probably go togeth
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
    :ID:       616c5bd9-d941-4fcc-8874-2ff3c9e96b4a
-   :LAST_REPEAT: [2014-05-10 Sat 20:26]
+   :LAST_REPEAT: [2014-05-15 Thu 16:18]
    :END:
 
 What to review:
@@ -3457,8 +3460,10 @@ When I set up scoring the day:
 - [ ] Collate data such as sleep, weight, exercise, diet etc.
 
 ** NEXT Daily Plan [0/7]
-   SCHEDULED: <2014-05-13 Tue .+1d/2d>
+   SCHEDULED: <2014-05-16 Fri .+1d/2d>
    :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2014-05-15 Thu 12:04]
+   CLOCK: [2014-05-15 Thu 11:58]--[2014-05-15 Thu 12:04] =>  0:06
    - State "DONE"       from "NEXT"       [2014-05-12 Mon 12:15]
    CLOCK: [2014-05-12 Mon 12:00]--[2014-05-12 Mon 12:15] =>  0:15
    - State "DONE"       from "NEXT"       [2014-05-10 Sat 20:26]
@@ -4046,7 +4051,7 @@ When I set up scoring the day:
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
    :ID:       ef051ee0-1113-4604-b355-450a5a47848b
-   :LAST_REPEAT: [2014-05-12 Mon 12:15]
+   :LAST_REPEAT: [2014-05-15 Thu 12:04]
    :LAST_REPEAT: [2014-01-25 Sat 12:49]
    :END:
 
