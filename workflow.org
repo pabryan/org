@@ -1837,6 +1837,8 @@ http://gmane.org
   :END:
 ** Organisation
   :LOGBOOK:
+  CLOCK: [2014-05-22 Thu 12:49]
+  CLOCK: [2014-05-22 Thu 12:29]--[2014-05-22 Thu 12:30] =>  0:01
   CLOCK: [2014-05-21 Wed 13:03]--[2014-05-21 Wed 13:11] =>  0:08
   CLOCK: [2014-05-20 Tue 11:10]--[2014-05-20 Tue 11:30] =>  0:20
   CLOCK: [2014-05-20 Tue 10:16]--[2014-05-20 Tue 10:17] =>  0:01
@@ -3476,8 +3478,11 @@ When I set up scoring the day:
 - [ ] Collate data such as sleep, weight, exercise, diet etc.
 
 ** NEXT Daily Plan [0/7]
-   SCHEDULED: <2014-05-21 Wed .+1d/2d>
+   SCHEDULED: <2014-05-23 Fri .+1d/2d>
    :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2014-05-22 Thu 12:33]
+   CLOCK: [2014-05-22 Thu 12:31]--[2014-05-22 Thu 12:33] =>  0:02
+   CLOCK: [2014-05-22 Thu 12:30]--[2014-05-22 Thu 12:31] =>  0:01
    CLOCK: [2014-05-21 Wed 14:01]--[2014-05-21 Wed 14:03] =>  0:02
    CLOCK: [2014-05-21 Wed 13:58]--[2014-05-21 Wed 14:01] =>  0:03
    - State "DONE"       from "NEXT"       [2014-05-20 Tue 11:09]
@@ -4073,7 +4078,7 @@ When I set up scoring the day:
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
    :ID:       ef051ee0-1113-4604-b355-450a5a47848b
-   :LAST_REPEAT: [2014-05-20 Tue 11:09]
+   :LAST_REPEAT: [2014-05-22 Thu 12:33]
    :LAST_REPEAT: [2014-01-25 Sat 12:49]
    :END:
 
@@ -4086,9 +4091,11 @@ When I set up scoring the day:
 - [ ] Do short tasks
 - [ ] Record morning health stats
 
-** NEXT Weekly Review [17/19]
-   SCHEDULED: <2014-05-05 Mon +1w>
+** NEXT Weekly Review [19/19]
+   SCHEDULED: <2014-05-12 Mon +1w>
    :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2014-05-22 Thu 12:49]
+   CLOCK: [2014-05-22 Thu 12:33]--[2014-05-22 Thu 12:49] =>  0:16
    CLOCK: [2014-05-19 Mon 17:22]--[2014-05-19 Mon 17:43] =>  0:21
    CLOCK: [2014-05-19 Mon 10:32]--[2014-05-19 Mon 11:35] =>  1:03
    - State "DONE"       from "NEXT"       [2014-04-29 Tue 18:25]
@@ -4204,7 +4211,7 @@ When I set up scoring the day:
    :REPEAT_TO_STATE: NEXT
    :ID:       846c05fa-21d7-4e6f-8431-a1fa06631945
    :RESET_CHECK_BOXES: t
-   :LAST_REPEAT: [2014-04-29 Tue 18:25]
+   :LAST_REPEAT: [2014-05-22 Thu 12:49]
    :END:
 
 What to review:
@@ -4230,8 +4237,8 @@ What to review:
   - [X] pocket
 - [X] Review focus projects 
 - [X] Set focus
-- [ ] Check follow-up paper folder
-- [ ] Collate the weeks: pad scribbles, org-mode notes, phone notes, etc.
+- [X] Check follow-up paper folder
+- [X] Collate the weeks: pad scribbles, org-mode notes, phone notes, etc.
 - [X] Check Finances
   - Check bank accounts and compare with what's still to come
 - [X] Copy music to phone
