@@ -741,7 +741,10 @@ Decided not to do it.
      DEADLINE: <2014-05-31 Sat>
 CR-8403 - "Curvature contraction of convex hypersurfaces by nonsmooth speeds by B. Andrews , A. Holder , J. McCoy, G. Wheeler , V-M Wheeler and G.  Williams
 [[file:~/reference/academic/journals/referee/CR-8403/CR-8403.pdf]]
-***** NEXT Skim through paper
+***** DONE Skim through paper
+      :LOGBOOK:
+      - State "DONE"       from "NEXT"       [2014-05-23 Fri 12:04]
+      :END:
 
 **** TODO Referee JGEA-D-14-00048				      :FOCUS:
      DEADLINE: <2014-05-27 Tue>
@@ -751,12 +754,18 @@ CR-8403 - "Curvature contraction of convex hypersurfaces by nonsmooth speeds by 
      :END:
 Classification of compact convex ancient solutions of the planar affine normal flow
 [[file:~/reference/academic/journals/referee/JGEA-D-14-00048/JGEA-D-14-00048.pdf]]
+[[file:~/working/academic/journals/referee/JGEA/classification_of_compact_convex_ancient_solutions_of_the_planar_affine_normal_flow/report.org]]
+
 ***** DONE Skim through paper
       :LOGBOOK:
       - State "DONE"       from "NEXT"       [2014-05-21 Wed 14:00]
       CLOCK: [2014-04-22 Tue 11:25]--[2014-04-22 Tue 11:48] =>  0:23
       :END:
 
+***** NEXT Write report
+      :LOGBOOK:
+      CLOCK: [2014-05-23 Fri 12:04]--[2014-05-23 Fri 12:15] =>  0:11
+      :END:
 ** Discussion
 *** Selected Papers
 **** Tasks
