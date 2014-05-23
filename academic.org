@@ -4899,6 +4899,9 @@ http://geometry.ugr.es/
        :END:
 ****** NEXT Write application
        DEADLINE: <2014-05-31 Sat>
+       :LOGBOOK:
+       CLOCK: [2014-05-20 Tue 13:03]--[2014-05-20 Tue 16:16] =>  3:13
+       :END:
 ****** TODO Respond to offer
 ***** Notes
 - http://uow.employment.com.au/dspJobView.cfm?jobID=1268
