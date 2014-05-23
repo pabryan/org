@@ -882,6 +882,14 @@ Try to use as much available software that I can find. Do it like Sage - don't r
 - approach people who have already written books
 - approach people to write expository articles
 *** Notes
+- Talk to library
+  They may be able to host it!
+- Social media
+- Blog
+- Need editors, advisory board etc.
+- Seek funding for graphic design
+- Need to auto process LaTeX like ArXiv.
+- Write a Ruby Rails based app or use the existing PHP one?
 *** Refs
 **** Software
 - Selected Papers Network
@@ -4908,8 +4916,9 @@ http://geometry.ugr.es/
 	 Waiting to hear back.
        :END:
 ****** NEXT Write application
-       DEADLINE: <2014-05-31 Sat>
+       DEADLINE: <2014-05-31 Sat -2w>
        :LOGBOOK:
+       CLOCK: [2014-05-22 Thu 20:06]--[2014-05-22 Thu 21:22] =>  1:16
        CLOCK: [2014-05-20 Tue 13:03]--[2014-05-20 Tue 16:16] =>  3:13
        :END:
 ****** TODO Respond to offer
@@ -4917,7 +4926,8 @@ http://geometry.ugr.es/
 - http://uow.employment.com.au/dspJobView.cfm?jobID=1268
 - http://www.mathjobs.org/jobs/jobs/5668
 - Contact:
-- application:  [[file:~/working/academic/jobs/job_applications/1043_uow]]
+- old application:  [[file:~/working/academic/jobs/job_applications/1043_uow]]
+- app [[file:~/working/academic/jobs/job_applications/25048_uow]]
 **** TODO UQ Lecturer
      :LOGBOOK:
      CLOCK: [2014-02-19 Wed 15:22]--[2014-02-19 Wed 15:23] =>  0:01
