@@ -1839,6 +1839,7 @@ http://gmane.org
   :END:
 ** Organisation
   :LOGBOOK:
+  CLOCK: [2014-05-23 Fri 11:14]
   CLOCK: [2014-05-23 Fri 09:35]--[2014-05-23 Fri 09:42] =>  0:07
   CLOCK: [2014-05-22 Thu 20:01]--[2014-05-22 Thu 20:06] =>  0:05
   CLOCK: [2014-05-22 Thu 19:21]--[2014-05-22 Thu 19:31] =>  0:10
@@ -3485,9 +3486,11 @@ When I set up scoring the day:
   - This would be ranking *qualitative* things such as general mood, pain, energy, motivation etc.
 - [ ] Collate data such as sleep, weight, exercise, diet etc.
 
-** NEXT Daily Plan [3/7]
-   SCHEDULED: <2014-05-23 Fri .+1d/2d>
+** NEXT Daily Plan [0/7]
+   SCHEDULED: <2014-05-24 Sat .+1d/2d>
    :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2014-05-23 Fri 11:14]
+   CLOCK: [2014-05-23 Fri 11:13]--[2014-05-23 Fri 11:14] =>  0:01
    CLOCK: [2014-05-23 Fri 09:44]--[2014-05-23 Fri 09:59] =>  0:15
    CLOCK: [2014-05-23 Fri 09:42]--[2014-05-23 Fri 09:43] =>  0:01
    - State "DONE"       from "NEXT"       [2014-05-22 Thu 12:33]
@@ -4088,13 +4091,13 @@ When I set up scoring the day:
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
    :ID:       ef051ee0-1113-4604-b355-450a5a47848b
-   :LAST_REPEAT: [2014-05-22 Thu 12:33]
+   :LAST_REPEAT: [2014-05-23 Fri 11:14]
    :LAST_REPEAT: [2014-01-25 Sat 12:49]
    :END:
 
-- [X] Check agenda/focus
-- [X] Check weekly agenda
-- [X] Check emails (including holding)
+- [ ] Check agenda/focus
+- [ ] Check weekly agenda
+- [ ] Check emails (including holding)
 - [ ] Check uncommitted work
 - [ ] Tidy up agenda tasks
   - mark done those tasks already done

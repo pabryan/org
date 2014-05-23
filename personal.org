@@ -1024,7 +1024,7 @@ http://tedxbellingham.com/
 ** Equipment
 *** Shoes
 **** WAITING Return xero shoes
-  SCHEDULED: <2014-05-03 Sat>
+  SCHEDULED: <2014-06-01 Sun>
   :LOGBOOK:
   - State "WAITING"    from "TODO"       [2014-05-06 Tue 11:05] \\
     Waiting for shipping label to return shoes.
@@ -2497,7 +2497,7 @@ http://www.inum.net/
 **** eKiga
 sip:pabryan@ekiga.net
 ** WAITING Return usb charger
-  SCHEDULED: <2014-05-03 Sat>
+  SCHEDULED: <2014-06-01 Sun>
   :LOGBOOK:
   - State "WAITING"    from "TODO"       [2014-05-06 Tue 11:12] \\
     Sent email to supplier requesting replacement. Waiting response.
