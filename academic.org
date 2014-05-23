@@ -744,15 +744,16 @@ CR-8403 - "Curvature contraction of convex hypersurfaces by nonsmooth speeds by 
 ***** NEXT Skim through paper
 
 **** TODO Referee JGEA-D-14-00048				      :FOCUS:
-     DEADLINE: <2014-05-23 Fri>
+     DEADLINE: <2014-05-27 Tue>
      :LOGBOOK:
      CLOCK: [2014-04-29 Tue 11:30]--[2014-04-29 Tue 11:49] =>  0:19
      CLOCK: [2014-04-29 Tue 10:50]--[2014-04-29 Tue 11:08] =>  0:18
      :END:
 Classification of compact convex ancient solutions of the planar affine normal flow
 [[file:~/reference/academic/journals/referee/JGEA-D-14-00048/JGEA-D-14-00048.pdf]]
-***** NEXT Skim through paper
+***** DONE Skim through paper
       :LOGBOOK:
+      - State "DONE"       from "NEXT"       [2014-05-21 Wed 14:00]
       CLOCK: [2014-04-22 Tue 11:25]--[2014-04-22 Tue 11:48] =>  0:23
       :END:
 
@@ -902,6 +903,14 @@ Try to use as much available software that I can find. Do it like Sage - don't r
      :LOGBOOK:
      CLOCK: [2014-04-14 Mon 13:38]--[2014-04-14 Mon 14:10] =>  0:32
      :END:
+***** NEXT Reading paper
+      :LOGBOOK:
+      CLOCK: [2014-05-21 Wed 11:15]--[2014-05-21 Wed 11:50] =>  0:35
+      CLOCK: [2014-05-21 Wed 09:25]--[2014-05-21 Wed 09:50] =>  0:25
+      :END:
+***** TODO Write report
+***** TODO 
+
 * Exposition
   :PROPERTIES:
   :ID:       a3ca7af2-21fb-410e-8238-923304c37889
@@ -1109,6 +1118,7 @@ Given $X$ in the equator, let $\rho_{\alpha}(X)$ be the infimum of the lengths o
 
 ******* Weekly Janelle
 	:LOGBOOK:
+	CLOCK: [2014-05-21 Wed 14:03]--[2014-05-21 Wed 16:21] =>  2:18
 	CLOCK: [2014-04-30 Wed 14:15]--[2014-04-30 Wed 18:06] =>  3:51
 	CLOCK: [2014-04-23 Wed 14:03]--[2014-04-23 Wed 15:59] =>  1:56
 	CLOCK: [2014-04-16 Wed 14:10]--[2014-04-16 Wed 16:19] =>  2:09

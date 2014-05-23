@@ -1453,9 +1453,10 @@ http://askubuntu.com/questions/43465/how-to-automatically-connect-to-vpn-with-ne
 https://wiki.archlinux.org/index.php/NetworkManager#Use_dispatcher_to_connect_to_a_vpn_after_a_network-connection_is_established
 http://askubuntu.com/questions/198136/error-when-trying-to-connect-to-vpn-on-startup
 
-**** TODO Clean up files
+**** DONE Clean up files
    SCHEDULED: <2014-05-18 Sun>
   :LOGBOOK:
+  - State "DONE"       from "TODO"       [2014-05-22 Thu 12:58]
   CLOCK: [2013-07-30 Tue 19:49]--[2013-07-30 Tue 19:53] =>  0:04
   :END:
   :PROPERTIES:
@@ -1837,6 +1838,9 @@ http://gmane.org
   :END:
 ** Organisation
   :LOGBOOK:
+  CLOCK: [2014-05-22 Thu 12:49]--[2014-05-22 Thu 13:12] =>  0:23
+  CLOCK: [2014-05-22 Thu 12:29]--[2014-05-22 Thu 12:30] =>  0:01
+  CLOCK: [2014-05-21 Wed 13:03]--[2014-05-21 Wed 13:11] =>  0:08
   CLOCK: [2014-05-20 Tue 13:02]--[2014-05-20 Tue 13:03] =>  0:01
   CLOCK: [2014-05-20 Tue 11:10]--[2014-05-20 Tue 11:30] =>  0:20
   CLOCK: [2014-05-20 Tue 10:16]--[2014-05-20 Tue 10:17] =>  0:01
@@ -3476,8 +3480,13 @@ When I set up scoring the day:
 - [ ] Collate data such as sleep, weight, exercise, diet etc.
 
 ** NEXT Daily Plan [0/7]
-   SCHEDULED: <2014-05-21 Wed .+1d/2d>
+   SCHEDULED: <2014-05-23 Fri .+1d/2d>
    :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2014-05-22 Thu 12:33]
+   CLOCK: [2014-05-22 Thu 12:31]--[2014-05-22 Thu 12:33] =>  0:02
+   CLOCK: [2014-05-22 Thu 12:30]--[2014-05-22 Thu 12:31] =>  0:01
+   CLOCK: [2014-05-21 Wed 14:01]--[2014-05-21 Wed 14:03] =>  0:02
+   CLOCK: [2014-05-21 Wed 13:58]--[2014-05-21 Wed 14:01] =>  0:03
    - State "DONE"       from "NEXT"       [2014-05-20 Tue 11:09]
    CLOCK: [2014-05-20 Tue 10:17]--[2014-05-20 Tue 10:27] =>  0:10
    - State "DONE"       from "NEXT"       [2014-05-19 Mon 10:26]
@@ -4071,7 +4080,7 @@ When I set up scoring the day:
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
    :ID:       ef051ee0-1113-4604-b355-450a5a47848b
-   :LAST_REPEAT: [2014-05-20 Tue 11:09]
+   :LAST_REPEAT: [2014-05-22 Thu 12:33]
    :LAST_REPEAT: [2014-01-25 Sat 12:49]
    :END:
 
@@ -4084,9 +4093,11 @@ When I set up scoring the day:
 - [ ] Do short tasks
 - [ ] Record morning health stats
 
-** NEXT Weekly Review [17/19]
-   SCHEDULED: <2014-05-05 Mon +1w>
+** NEXT Weekly Review [0/20]
+   SCHEDULED: <2014-05-26 Mon +1w>
    :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2014-05-22 Thu 12:49]
+   CLOCK: [2014-05-22 Thu 12:33]--[2014-05-22 Thu 12:49] =>  0:16
    CLOCK: [2014-05-19 Mon 17:22]--[2014-05-19 Mon 17:43] =>  0:21
    CLOCK: [2014-05-19 Mon 10:32]--[2014-05-19 Mon 11:35] =>  1:03
    - State "DONE"       from "NEXT"       [2014-04-29 Tue 18:25]
@@ -4202,43 +4213,45 @@ When I set up scoring the day:
    :REPEAT_TO_STATE: NEXT
    :ID:       846c05fa-21d7-4e6f-8431-a1fa06631945
    :RESET_CHECK_BOXES: t
-   :LAST_REPEAT: [2014-04-29 Tue 18:25]
+   :LAST_REPEAT: [2014-05-22 Thu 12:49]
    :END:
 
 What to review:
 
-- [X] Check holding directory
+- [ ] Check holding directory
   [[file:~/holding]]
-- [X] Check holding email folder
-- [X] Review weekly agenda =F12 a w//=
-- [X] Check clocking data for past week =v c=
+- [ ] Check holding email folder
+- [ ] Review weekly agenda =F12 a w//=
+- [ ] Check clocking data for past week =v c=
   - fix up any errors
-- [X] Review clock report for past week =R=
+- [ ] Review clock report for past week =R=
   - Check where we spent time (too much or too little) and rectify this week
-- [X] Look at entire agenda for today  =F12 SPC=
-- [X] Check un-committed work
-- [X] Refile tasks
-- [X] Weekly clean up
-  - [X] Clean up Downloads
-  - [X] Clean up tmp
-  - [X] Clean up tablet
-  - [X] Clean up phone
-- [X] Process incoming information
-  - [X] feedly
-  - [X] pocket
-- [X] Review focus projects 
-- [X] Set focus
+- [ ] Look at entire agenda for today  =F12 SPC=
+- [ ] Check un-committed work
+- [ ] Refile tasks
+- [ ] Weekly clean up
+  - [ ] Clean up Downloads
+  - [ ] Clean up tmp
+  - [ ] Clean up tablet
+  - [ ] Clean up phone
+- [ ] Process incoming information
+  - [ ] feedly
+  - [ ] pocket
+- [ ] Plan the upcoming week
+  - Theme you days: teaching, admin/service, research, students, writing
+- [ ] Review focus projects 
+- [ ] Set focus
 - [ ] Check follow-up paper folder
 - [ ] Collate the weeks: pad scribbles, org-mode notes, phone notes, etc.
-- [X] Check Finances
+- [ ] Check Finances
   - Check bank accounts and compare with what's still to come
-- [X] Copy music to phone
-- [X] Share photos on Google+
-- [X] Update Abundant Harvest order
-- [X] Order meat
+- [ ] Copy music to phone
+- [ ] Share photos on Google+
+- [ ] Update Abundant Harvest order
+- [ ] Order meat
   - http://www.son-riseranchstore.com/
 
-** NEXT Monthly Plan/Review [0/5]
+** NEXT Monthly (Quarterly?) Plan/Review [0/12]
    SCHEDULED: <2013-11-01 Fri +1m>
    - State "DONE"       from "NEXT"       [2013-03-19 Tue 11:34]
    :LOGBOOK:
@@ -4265,7 +4278,16 @@ What to review:
   - Rent
   - Buy Remy's lunch
   - AT&T
-
+- [ ] Set research projects for month
+- [ ] Review teaching commitments
+- [ ] Review service (e.g. journal editing) commitments
+- [ ] Plan learning
+- [ ] Review student research projects
+- [ ] Review admin commitments
+- [ ] Estimate time needed/available
+  - don't over commit!
+  - Check how much I've already commited too, and maybe record available time left over to be updated as I change commitments
+- [ ] Check if I met my commitments and compare with estimates
 
 ** 6 monthly?
 ** yearly
