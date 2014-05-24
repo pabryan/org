@@ -4906,32 +4906,42 @@ http://www.math.ku.dk/english/research/gamp/
 http://www.ugr.es/~ritore/ingles.htm
 http://geometry.ugr.es/
 **** TODO Wollongong
+     :LOGBOOK:
+     CLOCK: [2014-05-23 Fri 17:44]--[2014-05-23 Fri 17:45] =>  0:01
+     :END:
 ***** Tasks
-****** DONE Write application
-       DEADLINE: <2014-03-01 Sat>
-       :LOGBOOK:
-       - State "DONE"       from "NEXT"       [2014-02-28 Fri 09:01]
-       CLOCK: [2014-02-28 Fri 08:33]--[2014-02-28 Fri 09:01] =>  0:28
-       :END:
-****** DONE Send in application
-       :LOGBOOK:
-       - State "DONE"       from "TODO"       [2014-02-28 Fri 09:01]
-       :END:
-****** DONE Confirm receipt of application
-       :LOGBOOK:
-       - State "DONE"       from "WAITING"    [2014-04-29 Tue 11:21] \\
-	 Job has been re-advertised.
-       - State "WAITING"    from "TODO"       [2014-02-28 Fri 09:01] \\
-	 Waiting to hear back.
-       :END:
-****** NEXT Write application
-       DEADLINE: <2014-05-31 Sat -2w>
-       :LOGBOOK:
-       CLOCK: [2014-05-23 Fri 11:17]--[2014-05-23 Fri 11:38] =>  0:21
-       CLOCK: [2014-05-22 Thu 20:06]--[2014-05-22 Thu 21:22] =>  1:16
-       CLOCK: [2014-05-20 Tue 13:03]--[2014-05-20 Tue 16:16] =>  3:13
-       :END:
-****** TODO Respond to offer
+****** TODO Application
+******* DONE Write application
+       	DEADLINE: <2014-03-01 Sat>
+       	:LOGBOOK:
+       	- State "DONE"       from "NEXT"       [2014-02-28 Fri 09:01]
+       	CLOCK: [2014-02-28 Fri 08:33]--[2014-02-28 Fri 09:01] =>  0:28
+       	:END:
+******* DONE Send in application
+       	:LOGBOOK:
+       	- State "DONE"       from "TODO"       [2014-02-28 Fri 09:01]
+       	:END:
+******* DONE Confirm receipt of application
+       	:LOGBOOK:
+       	- State "DONE"       from "WAITING"    [2014-04-29 Tue 11:21] \\
+	  Job has been re-advertised.
+       	- State "WAITING"    from "TODO"       [2014-02-28 Fri 09:01] \\
+	  Waiting to hear back.
+       	:END:
+******* DONE Write statement against selection criteria
+       	DEADLINE: <2014-05-31 Sat -2w>
+       	:LOGBOOK:
+       	- State "DONE"       from "NEXT"       [2014-05-23 Fri 17:44]
+       	CLOCK: [2014-05-23 Fri 16:57]--[2014-05-23 Fri 17:44] =>  0:47
+       	CLOCK: [2014-05-23 Fri 11:17]--[2014-05-23 Fri 11:38] =>  0:21
+       	CLOCK: [2014-05-22 Thu 20:06]--[2014-05-22 Thu 21:22] =>  1:16
+       	CLOCK: [2014-05-20 Tue 13:03]--[2014-05-20 Tue 16:16] =>  3:13
+       	:END:
+******* NEXT Write cover letter
+******* TODO Compile application
+- cv, cover, selection criteria, research statement
+******* TODO Submit application
+******* TODO Respond to offer
 ***** Notes
 - http://uow.employment.com.au/dspJobView.cfm?jobID=1268
 - http://www.mathjobs.org/jobs/jobs/5668
