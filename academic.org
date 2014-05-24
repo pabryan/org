@@ -4911,6 +4911,7 @@ http://geometry.ugr.es/
      :END:
 ***** Tasks
 ****** TODO Application
+       	DEADLINE: <2014-05-31 Sat -2w>
 ******* DONE Write application
        	DEADLINE: <2014-03-01 Sat>
        	:LOGBOOK:
@@ -4929,7 +4930,6 @@ http://geometry.ugr.es/
 	  Waiting to hear back.
        	:END:
 ******* DONE Write statement against selection criteria
-       	DEADLINE: <2014-05-31 Sat -2w>
        	:LOGBOOK:
        	- State "DONE"       from "NEXT"       [2014-05-23 Fri 17:44]
        	CLOCK: [2014-05-23 Fri 16:57]--[2014-05-23 Fri 17:44] =>  0:47
