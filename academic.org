@@ -4937,6 +4937,10 @@ http://geometry.ugr.es/
        	CLOCK: [2014-05-22 Thu 20:06]--[2014-05-22 Thu 21:22] =>  1:16
        	CLOCK: [2014-05-20 Tue 13:03]--[2014-05-20 Tue 16:16] =>  3:13
        	:END:
+******* NEXT Proof read statement
+	:LOGBOOK:
+	CLOCK: [2014-05-24 Sat 10:25]--[2014-05-24 Sat 11:07] =>  0:42
+	:END:
 ******* NEXT Write cover letter
 ******* TODO Compile application
 - cv, cover, selection criteria, research statement
