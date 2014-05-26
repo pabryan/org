@@ -1451,7 +1451,7 @@ This requires an estimate of $\int k f(k)$ analogous to Holder's for CSF where $
        	:ID:       9c3e45f9-6c61-48b8-b0e1-eaae4fd6514b
        	:END:
 ******** NEXT Try similarity soln as in CSF case
-	 SCHEDULED: <2014-05-19 Mon>
+	 SCHEDULED: <2014-09-01 Mon>
 	:LOGBOOK:
 	CLOCK: [2014-04-09 Wed 14:00]--[2014-04-09 Wed 16:10] =>  2:10
 	CLOCK: [2013-07-22 Mon 19:30]--[2013-07-22 Mon 20:30] =>  1:00
@@ -1703,7 +1703,7 @@ Look at all dark matter papers. Alan Parry also. Bibliography of course!
 	:END:
 *** Future 							    :SOMEDAY:
 **** TODO Study non-smooth mean curvature flow, minimal surfaces via support fn
-     SCHEDULED: <2014-05-26 Mon>
+     SCHEDULED: <2014-09-01 Mon>
   :LOGBOOK:
   CLOCK: [2013-10-19 Sat 15:33]--[2013-10-19 Sat 15:34] =>  0:01
   :END:
@@ -3771,6 +3771,9 @@ Is there a consistent (say providing ZFC is consistent) set theory without the e
 
 *** TODO Immersions of symmetric spaces
 **** Tasks
+***** TODO Organise to meet with Nolan Wallach
+  SCHEDULED: <2014-05-22 Thu>
+[2014-05-22 Thu 12:31]
 **** Meetings
 ***** Nolan Wallach
 ****** General Discussion
@@ -5153,7 +5156,7 @@ http://modernizr.com/
 [2013-08-06 Tue 20:57]
 
 **** TODO Change course web template
-  SCHEDULED: <2014-05-26 Mon>
+  SCHEDULED: <2014-06-01 Sun>
   :LOGBOOK:
   CLOCK: [2013-09-22 Sun 12:41]--[2013-09-22 Sun 12:42] =>  0:01
   :END:

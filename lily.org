@@ -144,8 +144,11 @@ Garfield Specialty Care Center
      :ID:       150817e2-c7d7-40bf-8b60-0035bc8686b6
      :END:
 
-**** NEXT Return books
+**** DONE Return books
      DEADLINE: <2014-05-20 Tue>
+     :LOGBOOK:
+     - State "DONE"       from "NEXT"       [2014-05-26 Mon 10:44]
+     :END:
 **** DONE Return library books
   DEADLINE: <2013-11-04 Mon>
   :LOGBOOK:
@@ -157,9 +160,14 @@ Garfield Specialty Care Center
 [2013-11-16 Sat 10:20]
 * School
 ** IA
-*** DONE Enrol Lily in IA
+*** 2014/2015
+**** Tasks
+***** DONE Enrol Lily in IA
   SCHEDULED: <2014-01-08 Wed>
   :LOGBOOK:
   - State "DONE"       from "TODO"       [2014-01-17 Fri 14:08]
   :END:
 [2014-01-08 Wed 12:43]
+**** Events
+***** Parent Meeting
+<2014-05-31 Sat 10:00-12:00>
