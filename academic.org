@@ -745,6 +745,7 @@ CR-8403 - "Curvature contraction of convex hypersurfaces by nonsmooth speeds by 
 ***** Tasks
 ****** DONE Skim through paper
        :LOGBOOK:
+       CLOCK: [2014-05-27 Tue 10:35]--[2014-05-27 Tue 11:02] =>  0:27
        - State "DONE"       from "NEXT"       [2014-05-23 Fri 12:04]
        :END:
 
