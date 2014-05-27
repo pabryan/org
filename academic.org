@@ -738,20 +738,33 @@ Decided not to do it.
 
 *** Working
 **** TODO Referee CR-8403					      :FOCUS:
-     DEADLINE: <2014-05-31 Sat>
+     SCHEDULED: <2014-03-28 Fri>
+***** Notes
 CR-8403 - "Curvature contraction of convex hypersurfaces by nonsmooth speeds by B. Andrews , A. Holder , J. McCoy, G. Wheeler , V-M Wheeler and G.  Williams
 [[file:~/reference/academic/journals/referee/CR-8403/CR-8403.pdf]]
-***** DONE Skim through paper
-      :LOGBOOK:
-      - State "DONE"       from "NEXT"       [2014-05-23 Fri 12:04]
-      :END:
+***** Tasks
+****** DONE Skim through paper
+       :LOGBOOK:
+       CLOCK: [2014-05-27 Tue 10:35]--[2014-05-27 Tue 11:02] =>  0:27
+       - State "DONE"       from "NEXT"       [2014-05-23 Fri 12:04]
+       :END:
 
+****** TODO Write notes
+******* NEXT Write notes on Sec 1
+******* NEXT Write notes on Sec 2
+******* NEXT Write notes on Sec 3
+******* NEXT Write notes on Sec 4
+******* NEXT Write notes on Sec 5
+******* NEXT Write notes on Sec 6
+****** NEXT Compile report
+       DEADLINE: <2014-06-15 Sun>
 **** TODO Referee JGEA-D-14-00048				      :FOCUS:
      DEADLINE: <2014-05-27 Tue>
      :LOGBOOK:
      CLOCK: [2014-04-29 Tue 11:30]--[2014-04-29 Tue 11:49] =>  0:19
      CLOCK: [2014-04-29 Tue 10:50]--[2014-04-29 Tue 11:08] =>  0:18
      :END:
+***** Notes
 Classification of compact convex ancient solutions of the planar affine normal flow
 [[file:~/reference/academic/journals/referee/JGEA-D-14-00048/JGEA-D-14-00048.pdf]]
 [[file:~/working/academic/journals/referee/JGEA/classification_of_compact_convex_ancient_solutions_of_the_planar_affine_normal_flow/report.org]]
@@ -764,6 +777,7 @@ Classification of compact convex ancient solutions of the planar affine normal f
 
 ***** NEXT Write report
       :LOGBOOK:
+      CLOCK: [2014-05-27 Tue 11:09]--[2014-05-27 Tue 12:09] =>  1:00
       CLOCK: [2014-05-23 Fri 12:04]--[2014-05-23 Fri 12:15] =>  0:11
       :END:
 ** Discussion
