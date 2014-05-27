@@ -738,14 +738,25 @@ Decided not to do it.
 
 *** Working
 **** TODO Referee CR-8403					      :FOCUS:
-     DEADLINE: <2014-05-31 Sat>
+     SCHEDULED: <2014-03-28 Fri>
+***** Notes
 CR-8403 - "Curvature contraction of convex hypersurfaces by nonsmooth speeds by B. Andrews , A. Holder , J. McCoy, G. Wheeler , V-M Wheeler and G.  Williams
 [[file:~/reference/academic/journals/referee/CR-8403/CR-8403.pdf]]
-***** DONE Skim through paper
-      :LOGBOOK:
-      - State "DONE"       from "NEXT"       [2014-05-23 Fri 12:04]
-      :END:
+***** Tasks
+****** DONE Skim through paper
+       :LOGBOOK:
+       - State "DONE"       from "NEXT"       [2014-05-23 Fri 12:04]
+       :END:
 
+****** TODO Write notes
+******* NEXT Write notes on Sec 1
+******* NEXT Write notes on Sec 2
+******* NEXT Write notes on Sec 3
+******* NEXT Write notes on Sec 4
+******* NEXT Write notes on Sec 5
+******* NEXT Write notes on Sec 6
+****** NEXT Compile report
+       DEADLINE: <2014-06-15 Sun>
 **** TODO Referee JGEA-D-14-00048				      :FOCUS:
      DEADLINE: <2014-05-27 Tue>
      :LOGBOOK:
