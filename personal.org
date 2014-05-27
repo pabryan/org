@@ -1031,6 +1031,17 @@ http://tedxbellingham.com/
   CLOCK: [2014-05-02 Fri 12:52]--[2014-05-02 Fri 12:53] =>  0:01
   :END:
 [2014-05-02 Fri 12:52]
+** Day to day
+*** TODO Sweat control
+  SCHEDULED: <2014-05-24 Sat>
+  :LOGBOOK:
+  CLOCK: [2014-05-23 Fri 09:43]--[2014-05-23 Fri 09:44] =>  0:01
+  :END:
+[2014-05-23 Fri 09:43]
+- get singlets
+- bring sweat rag to work
+- bring spare shirt
+- find mild deodorant
 * Recreation 							 :RECREATION:
   :PROPERTIES:
   :ID:       d9d7d0ec-a6b9-4451-ae42-5519eba7be50
@@ -1841,8 +1852,11 @@ http://sandiegosr.evanced.info/homepage.asp?ProgramID=22
       :ID:       f960a023-cfb7-4525-a413-a74e31168cec
       :END:
 
-***** NEXT Return Books
+***** DONE Return Books
       DEADLINE: <2014-05-19 Mon>
+      :LOGBOOK:
+      - State "DONE"       from "NEXT"       [2014-05-26 Mon 10:44]
+      :END:
 
 ***** DONE Return Dan Dennet
       DEADLINE: <2013-06-05 Wed>
@@ -1851,13 +1865,15 @@ http://sandiegosr.evanced.info/homepage.asp?ProgramID=22
       :ID:       fe05f642-ad40-471f-ba77-e49e0b69bd78
       :END:
 
-***** Alexander Technique
-****** DONE Return books
-       DEADLINE: <2013-06-27 Thu>
-       - State "DONE"       from "TODO"       [2013-06-30 Sun 13:27]
-       :PROPERTIES:
-       :ID:       ab8707f0-a7b7-46c0-95f5-323c80747707
-       :END:
+***** DONE Return books
+      DEADLINE: <2013-06-27 Thu>
+      - State "DONE"       from "TODO"       [2013-06-30 Sun 13:27]
+      :PROPERTIES:
+      :ID:       ab8707f0-a7b7-46c0-95f5-323c80747707
+      :END:
+
+***** NEXT Return books
+      DEADLINE: <2014-06-02 Mon>
 
 ** Books							      :BOOKS:
 *** Graphic Novels					     :GRAPHIC_NOVELS:

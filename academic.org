@@ -1451,7 +1451,7 @@ This requires an estimate of $\int k f(k)$ analogous to Holder's for CSF where $
        	:ID:       9c3e45f9-6c61-48b8-b0e1-eaae4fd6514b
        	:END:
 ******** NEXT Try similarity soln as in CSF case
-	 SCHEDULED: <2014-05-19 Mon>
+	 SCHEDULED: <2014-09-01 Mon>
 	:LOGBOOK:
 	CLOCK: [2014-04-09 Wed 14:00]--[2014-04-09 Wed 16:10] =>  2:10
 	CLOCK: [2013-07-22 Mon 19:30]--[2013-07-22 Mon 20:30] =>  1:00
@@ -1703,7 +1703,7 @@ Look at all dark matter papers. Alan Parry also. Bibliography of course!
 	:END:
 *** Future 							    :SOMEDAY:
 **** TODO Study non-smooth mean curvature flow, minimal surfaces via support fn
-     SCHEDULED: <2014-05-26 Mon>
+     SCHEDULED: <2014-09-01 Mon>
   :LOGBOOK:
   CLOCK: [2013-10-19 Sat 15:33]--[2013-10-19 Sat 15:34] =>  0:01
   :END:
@@ -3771,6 +3771,9 @@ Is there a consistent (say providing ZFC is consistent) set theory without the e
 
 *** TODO Immersions of symmetric spaces
 **** Tasks
+***** TODO Organise to meet with Nolan Wallach
+  SCHEDULED: <2014-05-22 Thu>
+[2014-05-22 Thu 12:31]
 **** Meetings
 ***** Nolan Wallach
 ****** General Discussion
@@ -4906,32 +4909,46 @@ http://www.math.ku.dk/english/research/gamp/
 http://www.ugr.es/~ritore/ingles.htm
 http://geometry.ugr.es/
 **** TODO Wollongong
+     :LOGBOOK:
+     CLOCK: [2014-05-23 Fri 17:44]--[2014-05-23 Fri 17:45] =>  0:01
+     :END:
 ***** Tasks
-****** DONE Write application
-       DEADLINE: <2014-03-01 Sat>
-       :LOGBOOK:
-       - State "DONE"       from "NEXT"       [2014-02-28 Fri 09:01]
-       CLOCK: [2014-02-28 Fri 08:33]--[2014-02-28 Fri 09:01] =>  0:28
-       :END:
-****** DONE Send in application
-       :LOGBOOK:
-       - State "DONE"       from "TODO"       [2014-02-28 Fri 09:01]
-       :END:
-****** DONE Confirm receipt of application
-       :LOGBOOK:
-       - State "DONE"       from "WAITING"    [2014-04-29 Tue 11:21] \\
-	 Job has been re-advertised.
-       - State "WAITING"    from "TODO"       [2014-02-28 Fri 09:01] \\
-	 Waiting to hear back.
-       :END:
-****** NEXT Write application
-       DEADLINE: <2014-05-31 Sat -2w>
-       :LOGBOOK:
-       CLOCK: [2014-05-23 Fri 11:17]--[2014-05-23 Fri 11:38] =>  0:21
-       CLOCK: [2014-05-22 Thu 20:06]--[2014-05-22 Thu 21:22] =>  1:16
-       CLOCK: [2014-05-20 Tue 13:03]--[2014-05-20 Tue 16:16] =>  3:13
-       :END:
-****** TODO Respond to offer
+****** TODO Application
+       	DEADLINE: <2014-05-31 Sat -2w>
+******* DONE Write application
+       	DEADLINE: <2014-03-01 Sat>
+       	:LOGBOOK:
+       	- State "DONE"       from "NEXT"       [2014-02-28 Fri 09:01]
+       	CLOCK: [2014-02-28 Fri 08:33]--[2014-02-28 Fri 09:01] =>  0:28
+       	:END:
+******* DONE Send in application
+       	:LOGBOOK:
+       	- State "DONE"       from "TODO"       [2014-02-28 Fri 09:01]
+       	:END:
+******* DONE Confirm receipt of application
+       	:LOGBOOK:
+       	- State "DONE"       from "WAITING"    [2014-04-29 Tue 11:21] \\
+	  Job has been re-advertised.
+       	- State "WAITING"    from "TODO"       [2014-02-28 Fri 09:01] \\
+	  Waiting to hear back.
+       	:END:
+******* DONE Write statement against selection criteria
+       	:LOGBOOK:
+       	- State "DONE"       from "NEXT"       [2014-05-23 Fri 17:44]
+       	CLOCK: [2014-05-23 Fri 16:57]--[2014-05-23 Fri 17:44] =>  0:47
+       	CLOCK: [2014-05-23 Fri 11:17]--[2014-05-23 Fri 11:38] =>  0:21
+       	CLOCK: [2014-05-22 Thu 20:06]--[2014-05-22 Thu 21:22] =>  1:16
+       	CLOCK: [2014-05-20 Tue 13:03]--[2014-05-20 Tue 16:16] =>  3:13
+       	:END:
+******* NEXT Proof read statement
+	:LOGBOOK:
+	CLOCK: [2014-05-24 Sat 10:25]--[2014-05-24 Sat 11:07] =>  0:42
+	:END:
+******* NEXT Write cover letter
+******* TODO Compile application
+- cv, cover, selection criteria, research statement
+******* TODO Submit application
+******* TODO Respond to offer
 ***** Notes
 - http://uow.employment.com.au/dspJobView.cfm?jobID=1268
 - http://www.mathjobs.org/jobs/jobs/5668
@@ -5139,7 +5156,7 @@ http://modernizr.com/
 [2013-08-06 Tue 20:57]
 
 **** TODO Change course web template
-  SCHEDULED: <2014-05-26 Mon>
+  SCHEDULED: <2014-06-01 Sun>
   :LOGBOOK:
   CLOCK: [2013-09-22 Sun 12:41]--[2013-09-22 Sun 12:42] =>  0:01
   :END:
