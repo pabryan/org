@@ -4116,9 +4116,11 @@ When I set up scoring the day:
 - [ ] Do short tasks
 - [ ] Record morning health stats
 
-** NEXT Weekly Review [11/20]
-   SCHEDULED: <2014-05-26 Mon +1w>
+** NEXT Weekly Review [0/20]
+   SCHEDULED: <2014-06-02 Mon +1w>
    :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2014-05-26 Mon 16:27]
+   CLOCK: [2014-05-26 Mon 16:06]--[2014-05-26 Mon 16:27] =>  0:21
    CLOCK: [2014-05-26 Mon 12:31]--[2014-05-26 Mon 12:46] =>  0:15
    - State "DONE"       from "NEXT"       [2014-05-22 Thu 12:49]
    CLOCK: [2014-05-22 Thu 12:33]--[2014-05-22 Thu 12:49] =>  0:16
@@ -4237,31 +4239,31 @@ When I set up scoring the day:
    :REPEAT_TO_STATE: NEXT
    :ID:       846c05fa-21d7-4e6f-8431-a1fa06631945
    :RESET_CHECK_BOXES: t
-   :LAST_REPEAT: [2014-05-22 Thu 12:49]
+   :LAST_REPEAT: [2014-05-26 Mon 16:27]
    :END:
 
 What to review:
 
-- [X] Check holding directory
+- [ ] Check holding directory
   [[file:~/holding]]
-- [X] Check holding email folder
-- [X] Review weekly agenda =F12 a w//=
-- [X] Check clocking data for past week =v c=
+- [ ] Check holding email folder
+- [ ] Review weekly agenda =F12 a w//=
+- [ ] Check clocking data for past week =v c=
   - fix up any errors
-- [X] Review clock report for past week =R=
+- [ ] Review clock report for past week =R=
   - Check where we spent time (too much or too little) and rectify this week
-- [X] Look at entire agenda for today  =F12 SPC=
-- [X] Check un-committed work
-- [X] Refile tasks
+- [ ] Look at entire agenda for today  =F12 SPC=
+- [ ] Check un-committed work
+- [ ] Refile tasks
 - [ ] Weekly clean up
   - [ ] Clean up Downloads
   - [ ] Clean up tmp
   - [ ] Clean up tablet
   - [ ] Clean up phone
-- [X] Process incoming information
-  - [X] feedly
-  - [X] pocket
-- [X] Plan the upcoming week
+- [ ] Process incoming information
+  - [ ] feedly
+  - [ ] pocket
+- [ ] Plan the upcoming week
   - Theme you days: teaching, admin/service, research, students, writing
 - [ ] Review focus projects 
 - [ ] Set focus
@@ -4270,8 +4272,9 @@ What to review:
 - [ ] Check Finances
   - Check bank accounts and compare with what's still to come
 - [ ] Copy music to phone
-- [X] Share photos on Google+
+- [ ] Share photos on Google+
 - [ ] Update Abundant Harvest order
+  - http://www.abundantharvestorganics.com/
 - [ ] Order meat
   - http://www.son-riseranchstore.com/
 

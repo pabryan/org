@@ -2705,120 +2705,125 @@ We would do it all in Minkowski space. I think the vector field gives the distan
    :PROPERTIES:
    :ID:       94d316e3-e550-42ca-90f9-fd91d2d61bc5
    :END:
-***** DONE Set up exact tasks
-      - State "DONE"       from "NEXT"       [2013-02-06 Wed 14:56]
-      :LOGBOOK:
-      CLOCK: [2013-02-06 Wed 14:53]--[2013-02-06 Wed 14:56] =>  0:03
-      :END:
-      :PROPERTIES:
-      :ID:       264e8cb9-0195-4424-8b4a-7564af954309
-      :END:
-***** DONE Make outline of book
-   :LOGBOOK:
-   - State "DONE"       from "TODO"       [2013-08-04 Sun 16:44]
-   CLOCK: [2013-03-02 Sat 15:25]--[2013-03-02 Sat 15:34] =>  0:09
-   CLOCK: [2013-03-02 Sat 13:41]--[2013-03-02 Sat 14:26] =>  0:45
-   CLOCK: [2013-03-02 Sat 12:37]--[2013-03-02 Sat 13:02] =>  0:25
-   CLOCK: [2013-02-28 Thu 16:27]--[2013-02-28 Thu 17:55] =>  1:28
-   CLOCK: [2013-02-28 Thu 14:31]--[2013-02-28 Thu 15:34] =>  1:03
-   CLOCK: [2013-02-28 Thu 14:02]--[2013-02-28 Thu 14:08] =>  0:06
-   CLOCK: [2013-02-28 Thu 11:50]--[2013-02-28 Thu 12:35] =>  0:45
-   :END:
-   :PROPERTIES:
-   :ID:       2b1f653b-3d67-4b05-92a8-44b2afc74546
-   :END:
-****** DONE What should be in the book? Make outline.
-       :PROPERTIES:
-       :ID:       831b7f47-ac24-4779-a485-f627e289934a
+***** Tasks 
+****** DONE Set up exact tasks
+       - State "DONE"       from "NEXT"       [2013-02-06 Wed 14:56]
+       :LOGBOOK:
+       CLOCK: [2013-02-06 Wed 14:53]--[2013-02-06 Wed 14:56] =>  0:03
        :END:
-***** TODO Compile existing content
-      SCHEDULED: <2014-05-19 Mon>
-      :PROPERTIES:
-      :ID:       95792719-f4e8-45ff-bf7c-7283c2a2dd2e
-      :END:
-****** NEXT Check Mat's, Charlie's and my work and how it fits together.
+       :PROPERTIES:
+       :ID:       264e8cb9-0195-4424-8b4a-7564af954309
+       :END:
+****** DONE Make outline of book
+    :LOGBOOK:
+    - State "DONE"       from "TODO"       [2013-08-04 Sun 16:44]
+    CLOCK: [2013-03-02 Sat 15:25]--[2013-03-02 Sat 15:34] =>  0:09
+    CLOCK: [2013-03-02 Sat 13:41]--[2013-03-02 Sat 14:26] =>  0:45
+    CLOCK: [2013-03-02 Sat 12:37]--[2013-03-02 Sat 13:02] =>  0:25
+    CLOCK: [2013-02-28 Thu 16:27]--[2013-02-28 Thu 17:55] =>  1:28
+    CLOCK: [2013-02-28 Thu 14:31]--[2013-02-28 Thu 15:34] =>  1:03
+    CLOCK: [2013-02-28 Thu 14:02]--[2013-02-28 Thu 14:08] =>  0:06
+    CLOCK: [2013-02-28 Thu 11:50]--[2013-02-28 Thu 12:35] =>  0:45
+    :END:
+    :PROPERTIES:
+    :ID:       2b1f653b-3d67-4b05-92a8-44b2afc74546
+    :END:
+******* DONE What should be in the book? Make outline.
+       	:PROPERTIES:
+       	:ID:       831b7f47-ac24-4779-a485-f627e289934a
+       	:END:
+****** TODO Compile existing content
        SCHEDULED: <2014-05-19 Mon>
+       :PROPERTIES:
+       :ID:       95792719-f4e8-45ff-bf7c-7283c2a2dd2e
+       :END:
+******* NEXT Check Mat's, Charlie's and my work and how it fits together.
+       SCHEDULED: <2014-05-19 Mon>
+       :LOGBOOK:
+       CLOCK: [2014-05-26 Mon 16:49]--[2014-05-26 Mon 17:20] =>  0:31
+       :END:
        :PROPERTIES:
        :ID:       189cc302-8dde-4aa2-818e-66d4b9dd0c9f
        :END:
 In particular, put more detail in.
-****** NEXT Get my honour's thesis work into a useable format
-       :PROPERTIES:
-       :ID:       810fd351-5f88-415f-9977-906fa1e39681
-       :END:
-****** TODO Write basic MCF stuff
+******* NEXT Get my honour's thesis work into a useable format
+       	:PROPERTIES:
+       	:ID:       810fd351-5f88-415f-9977-906fa1e39681
+       	:END:
+******* NEXT Print theses
+******* TODO Write basic MCF stuff
 - embeddness preserved etc. from my honour's thesis plus Mat and Charlie's work
        :PROPERTIES:
        :ID:       b5234c61-d118-45c2-b372-eb8e247c8642
        :END:
 
-***** TODO bitbucket pages
-      :PROPERTIES:
-      :ID:       558c976f-d61f-4f98-afc5-6f3f11277748
-      :END:
-****** NEXT Start issue tracker
+****** TODO bitbucket pages
        :PROPERTIES:
-       :ID:       8dc6bc00-b7cb-4e03-b1c0-d84ffcf1091f
+       :ID:       558c976f-d61f-4f98-afc5-6f3f11277748
        :END:
-****** NEXT Put ideas on wiki
+******* NEXT Start issue tracker
+       	:PROPERTIES:
+       	:ID:       8dc6bc00-b7cb-4e03-b1c0-d84ffcf1091f
+       	:END:
+******* NEXT Put ideas on wiki
+       	:PROPERTIES:
+       	:ID:       b99ca8a3-7b7b-4d9d-be61-fcfba1019b39
+       	:END:
+******* NEXT Get Mat and Charlie set up on Bitbucket
+       	:PROPERTIES:
+       	:ID:       40724f2e-ee2a-44e5-898e-9dd4158b4c06
+       	:END:
+****** TODO Extra Topics
        :PROPERTIES:
-       :ID:       b99ca8a3-7b7b-4d9d-be61-fcfba1019b39
+       :ID:       91473ce5-db9d-4368-a988-0f8de97343a0
        :END:
-****** NEXT Get Mat and Charlie set up on Bitbucket
-       :PROPERTIES:
-       :ID:       40724f2e-ee2a-44e5-898e-9dd4158b4c06
-       :END:
-***** TODO Extra Topics
-      :PROPERTIES:
-      :ID:       91473ce5-db9d-4368-a988-0f8de97343a0
-      :END:
-****** NEXT Collect references
-       :LOGBOOK:
-       CLOCK: [2013-03-01 Fri 15:29]--[2013-03-01 Fri 15:37] =>  0:08
-       :END:
-       :PROPERTIES:
-       :ID:       f7419a9b-0805-4772-9361-0d2fb997bd2c
-       :END:
-****** TODO Research Huisken's original paper
-       :PROPERTIES:
-       :ID:       3477a805-50d8-4722-9982-2d6849b2a110
-       :END:
-****** TODO Research Stampacchia iteration
-       :PROPERTIES:
-       :ID:       00015f9a-c2f8-4027-b2b5-34664811caee
-       :END:
-****** TODO Research Graphs
-       :PROPERTIES:
-       :ID:       e0d198b6-be05-422d-ae6a-8fbecbb564b4
-       :END:
-****** TODO Research Solitons
-       :PROPERTIES:
-       :ID:       d53199b6-0467-4a24-95d9-18e3d6d37e54
-       :END:
+******* NEXT Collect references
+       	:LOGBOOK:
+       	CLOCK: [2013-03-01 Fri 15:29]--[2013-03-01 Fri 15:37] =>  0:08
+       	:END:
+       	:PROPERTIES:
+       	:ID:       f7419a9b-0805-4772-9361-0d2fb997bd2c
+       	:END:
+******* TODO Research Huisken's original paper
+       	:PROPERTIES:
+       	:ID:       3477a805-50d8-4722-9982-2d6849b2a110
+       	:END:
+******* TODO Research Stampacchia iteration
+       	:PROPERTIES:
+       	:ID:       00015f9a-c2f8-4027-b2b5-34664811caee
+       	:END:
+******* TODO Research Graphs
+       	:PROPERTIES:
+       	:ID:       e0d198b6-be05-422d-ae6a-8fbecbb564b4
+       	:END:
+******* TODO Research Solitons
+       	:PROPERTIES:
+       	:ID:       d53199b6-0467-4a24-95d9-18e3d6d37e54
+       	:END:
 
-****** TODO Check Mao-Pei's use of ln
-       :PROPERTIES:
-       :ID:       13a43b9f-745a-4e93-98b2-c7f7ae405b8e
-       :END: 
-****** TODO Check out translations by vector fields
-       :PROPERTIES:
-       :ID:       02cf7089-61b3-453b-a07f-a5b7aa225046
+******* TODO Check Mao-Pei's use of ln
+       	:PROPERTIES:
+       	:ID:       13a43b9f-745a-4e93-98b2-c7f7ae405b8e
+       	:END: 
+******* TODO Check out translations by vector fields
+       	:PROPERTIES:
+       	:ID:       02cf7089-61b3-453b-a07f-a5b7aa225046
+       	:END:
+******* TODO Check out minimal surfaces in huisken's density metric
+       	:PROPERTIES:
+       	:ID:       abfe2590-640c-4827-8c23-5fef8f106cf8
+       	:END:
+******* TODO Check out $F$-stability
+       	:PROPERTIES:
+       	:ID:       3c489022-ad35-404c-a21b-0bd83d5f93d5
+       	:END:
+****** DONE See if I can use body-only somewhere to export to mutliple files
+       :LOGBOOK:
+       - State "DONE"       from "NEXT"       [2013-08-04 Sun 16:41]
        :END:
-****** TODO Check out minimal surfaces in huisken's density metric
        :PROPERTIES:
-       :ID:       abfe2590-640c-4827-8c23-5fef8f106cf8
+       :ID:       b4fbfad7-31a8-4a53-a2e3-d2453bd33390
        :END:
-****** TODO Check out $F$-stability
-       :PROPERTIES:
-       :ID:       3c489022-ad35-404c-a21b-0bd83d5f93d5
-       :END:
-***** DONE See if I can use body-only somewhere to export to mutliple files
-      :LOGBOOK:
-      - State "DONE"       from "NEXT"       [2013-08-04 Sun 16:41]
-      :END:
-      :PROPERTIES:
-      :ID:       b4fbfad7-31a8-4a53-a2e3-d2453bd33390
-      :END:
 
 *** Future 							    :SOMEDAY:
 **** TODO Submanifold book				       :SUBMANIFOLDS:
