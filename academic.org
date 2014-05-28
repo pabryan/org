@@ -1035,6 +1035,7 @@ That is, Ben and Janelle have proven the backward convergence, and to finish we 
 	:LOGBOOK:
 	- State "DONE"       from "TODO"       [2014-04-02 Wed 14:25]
 	:END:
+******* NEXT Write convergence to a graph
 ******* TODO Write details of Alexandrov reflection
 	:LOGBOOK:
 	CLOCK: [2014-04-02 Wed 14:33]--[2014-04-02 Wed 16:14] =>  1:41
@@ -1049,6 +1050,7 @@ That is, Ben and Janelle have proven the backward convergence, and to finish we 
 Given $X$ in the equator, let $\rho_{\alpha}(X)$ be the infimum of the lengths of the geodesic segment joining the points in $\alpha \intersect \pi^{-1}(X)$ to $X$. The order should be in $\rho_{\alpha} > \rho_{\beta}$. Write the subsequent text using $\rho$.
 ******** NEXT Write backwards approximate symmetry
 	 :LOGBOOK:
+	 CLOCK: [2014-05-28 Wed 13:49]
 	 CLOCK: [2014-04-12 Sat 19:28]--[2014-04-12 Sat 19:59] =>  0:31
 	 CLOCK: [2014-04-02 Wed 23:32]--[2014-04-03 Thu 00:20] =>  0:48
 	 :END:
