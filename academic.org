@@ -736,6 +736,31 @@ Decided not to do it.
       CLOCK: [2014-02-17 Mon 14:37]--[2014-02-17 Mon 17:11] =>  2:34
       :END:
 
+**** DONE Referee JGEA-D-14-00048				      :FOCUS:
+     DEADLINE: <2014-05-27 Tue>
+     :LOGBOOK:
+     - State "DONE"       from "TODO"       [2014-05-27 Tue 17:24]
+     CLOCK: [2014-04-29 Tue 11:30]--[2014-04-29 Tue 11:49] =>  0:19
+     CLOCK: [2014-04-29 Tue 10:50]--[2014-04-29 Tue 11:08] =>  0:18
+     :END:
+***** Notes
+Classification of compact convex ancient solutions of the planar affine normal flow
+[[file:~/reference/academic/journals/referee/JGEA-D-14-00048/JGEA-D-14-00048.pdf]]
+[[file:~/working/academic/journals/referee/JGEA/classification_of_compact_convex_ancient_solutions_of_the_planar_affine_normal_flow/report.org]]
+***** Tasks
+****** DONE Skim through paper
+       :LOGBOOK:
+       - State "DONE"       from "NEXT"       [2014-05-21 Wed 14:00]
+       CLOCK: [2014-04-22 Tue 11:25]--[2014-04-22 Tue 11:48] =>  0:23
+       :END:
+
+****** DONE Write report
+       :LOGBOOK:
+       - State "DONE"       from "NEXT"       [2014-05-27 Tue 17:24]
+       CLOCK: [2014-05-27 Tue 15:59]--[2014-05-27 Tue 17:24] =>  1:25
+       CLOCK: [2014-05-27 Tue 11:09]--[2014-05-27 Tue 12:09] =>  1:00
+       CLOCK: [2014-05-23 Fri 12:04]--[2014-05-23 Fri 12:15] =>  0:11
+       :END:
 *** Working
 **** TODO Referee CR-8403					      :FOCUS:
      SCHEDULED: <2014-03-28 Fri>
@@ -758,28 +783,6 @@ CR-8403 - "Curvature contraction of convex hypersurfaces by nonsmooth speeds by 
 ******* NEXT Write notes on Sec 6
 ****** NEXT Compile report
        DEADLINE: <2014-06-15 Sun>
-**** TODO Referee JGEA-D-14-00048				      :FOCUS:
-     DEADLINE: <2014-05-27 Tue>
-     :LOGBOOK:
-     CLOCK: [2014-04-29 Tue 11:30]--[2014-04-29 Tue 11:49] =>  0:19
-     CLOCK: [2014-04-29 Tue 10:50]--[2014-04-29 Tue 11:08] =>  0:18
-     :END:
-***** Notes
-Classification of compact convex ancient solutions of the planar affine normal flow
-[[file:~/reference/academic/journals/referee/JGEA-D-14-00048/JGEA-D-14-00048.pdf]]
-[[file:~/working/academic/journals/referee/JGEA/classification_of_compact_convex_ancient_solutions_of_the_planar_affine_normal_flow/report.org]]
-
-***** DONE Skim through paper
-      :LOGBOOK:
-      - State "DONE"       from "NEXT"       [2014-05-21 Wed 14:00]
-      CLOCK: [2014-04-22 Tue 11:25]--[2014-04-22 Tue 11:48] =>  0:23
-      :END:
-
-***** NEXT Write report
-      :LOGBOOK:
-      CLOCK: [2014-05-27 Tue 11:09]--[2014-05-27 Tue 12:09] =>  1:00
-      CLOCK: [2014-05-23 Fri 12:04]--[2014-05-23 Fri 12:15] =>  0:11
-      :END:
 ** Discussion
 *** Selected Papers
 **** Tasks
@@ -4934,6 +4937,9 @@ http://geometry.ugr.es/
 ***** Tasks
 ****** TODO Application
        	DEADLINE: <2014-05-31 Sat -2w>
+	:LOGBOOK:
+	CLOCK: [2014-05-27 Tue 15:47]--[2014-05-27 Tue 15:57] =>  0:10
+	:END:
 ******* DONE Write application
        	DEADLINE: <2014-03-01 Sat>
        	:LOGBOOK:
@@ -4959,10 +4965,18 @@ http://geometry.ugr.es/
        	CLOCK: [2014-05-22 Thu 20:06]--[2014-05-22 Thu 21:22] =>  1:16
        	CLOCK: [2014-05-20 Tue 13:03]--[2014-05-20 Tue 16:16] =>  3:13
        	:END:
-******* NEXT Proof read statement
+******* DONE Proof read statement
 	:LOGBOOK:
+	- State "DONE"       from "NEXT"       [2014-05-27 Tue 15:47]
+	CLOCK: [2014-05-27 Tue 15:36]--[2014-05-27 Tue 15:47] =>  0:11
 	CLOCK: [2014-05-24 Sat 10:25]--[2014-05-24 Sat 11:07] =>  0:42
 	:END:
+******* WAITING Send to Christine for comments
+	:LOGBOOK:
+	- State "WAITING"    from "TODO"       [2014-05-27 Tue 15:56] \\
+	  Waiting on comments.
+	:END:
+******* TODO Update based on comments
 ******* NEXT Write cover letter
 ******* TODO Compile application
 - cv, cover, selection criteria, research statement
