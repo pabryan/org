@@ -779,6 +779,9 @@ CR-8403 - "Curvature contraction of convex hypersurfaces by nonsmooth speeds by 
 ******* NEXT Write notes on Sec 2
 ******* NEXT Write notes on Sec 3
 ******* NEXT Write notes on Sec 4
+	:LOGBOOK:
+	CLOCK: [2014-05-29 Thu 13:46]
+	:END:
 ******* NEXT Write notes on Sec 5
 ******* NEXT Write notes on Sec 6
 ****** NEXT Compile report
@@ -1050,6 +1053,7 @@ That is, Ben and Janelle have proven the backward convergence, and to finish we 
 Given $X$ in the equator, let $\rho_{\alpha}(X)$ be the infimum of the lengths of the geodesic segment joining the points in $\alpha \intersect \pi^{-1}(X)$ to $X$. The order should be in $\rho_{\alpha} > \rho_{\beta}$. Write the subsequent text using $\rho$.
 ******** NEXT Write backwards approximate symmetry
 	 :LOGBOOK:
+	 CLOCK: [2014-05-29 Thu 12:52]--[2014-05-29 Thu 13:46] =>  0:54
 	 CLOCK: [2014-05-29 Thu 10:46]--[2014-05-29 Thu 10:47] =>  0:01
 	 CLOCK: [2014-05-28 Wed 17:17]--[2014-05-28 Wed 17:49] =>  0:32
 	 CLOCK: [2014-05-28 Wed 13:49]--[2014-05-28 Wed 14:11] =>  0:22
