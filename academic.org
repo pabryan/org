@@ -4985,14 +4985,25 @@ http://geometry.ugr.es/
 	- State "WAITING"    from "TODO"       [2014-05-27 Tue 15:56] \\
 	  Waiting on comments.
 	:END:
-******* NEXT Update based on comments
+******* DONE Update based on comments
 	:LOGBOOK:
+	- State "DONE"       from "NEXT"       [2014-05-29 Thu 17:20]
 	CLOCK: [2014-05-29 Thu 10:47]--[2014-05-29 Thu 11:08] =>  0:21
 	:END:
-******* NEXT Write cover letter
-******* TODO Compile application
+******* DONE Write cover letter
+	:LOGBOOK:
+	- State "DONE"       from "NEXT"       [2014-05-29 Thu 17:54]
+	CLOCK: [2014-05-29 Thu 17:24]--[2014-05-29 Thu 17:54] =>  0:30
+	:END:
+******* DONE Compile application
+	:LOGBOOK:
+	- State "DONE"       from "TODO"       [2014-05-29 Thu 17:54]
+	:END:
 - cv, cover, selection criteria, research statement
-******* TODO Submit application
+******* DONE Submit application
+	:LOGBOOK:
+	- State "DONE"       from "TODO"       [2014-05-29 Thu 17:54]
+	:END:
 ******* TODO Respond to offer
 ***** Notes
 - http://uow.employment.com.au/dspJobView.cfm?jobID=1268
