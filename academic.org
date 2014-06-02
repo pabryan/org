@@ -4944,9 +4944,11 @@ http://geometry.ugr.es/
      CLOCK: [2014-05-23 Fri 17:44]--[2014-05-23 Fri 17:45] =>  0:01
      :END:
 ***** Tasks
-****** TODO Application
-       	DEADLINE: <2014-05-31 Sat -2w>
+****** WAITING Application
+       	DEADLINE: <2014-06-30 Mon>
 	:LOGBOOK:
+	- State "WAITING"    from "TODO"       [2014-06-01 Sun 12:14] \\
+	  Waiting on offer.
 	CLOCK: [2014-05-27 Tue 15:47]--[2014-05-27 Tue 15:57] =>  0:10
 	:END:
 ******* DONE Write application
@@ -4980,8 +4982,9 @@ http://geometry.ugr.es/
 	CLOCK: [2014-05-27 Tue 15:36]--[2014-05-27 Tue 15:47] =>  0:11
 	CLOCK: [2014-05-24 Sat 10:25]--[2014-05-24 Sat 11:07] =>  0:42
 	:END:
-******* WAITING Send to Christine for comments
+******* DONE Send to Christine for comments
 	:LOGBOOK:
+	- State "DONE"       from "WAITING"    [2014-06-01 Sun 12:14]
 	- State "WAITING"    from "TODO"       [2014-05-27 Tue 15:56] \\
 	  Waiting on comments.
 	:END:

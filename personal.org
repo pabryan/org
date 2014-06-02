@@ -1872,8 +1872,11 @@ http://sandiegosr.evanced.info/homepage.asp?ProgramID=22
       :ID:       ab8707f0-a7b7-46c0-95f5-323c80747707
       :END:
 
-***** NEXT Return books
+***** DONE Return books
       DEADLINE: <2014-06-02 Mon>
+      :LOGBOOK:
+      - State "DONE"       from "NEXT"       [2014-06-01 Sun 12:17]
+      :END:
 
 ** Books							      :BOOKS:
 *** Graphic Novels					     :GRAPHIC_NOVELS:
