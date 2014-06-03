@@ -1839,6 +1839,9 @@ http://gmane.org
   :END:
 ** Organisation
   :LOGBOOK:
+  CLOCK: [2014-06-02 Mon 15:33]--[2014-06-02 Mon 15:39] =>  0:06
+  CLOCK: [2014-06-02 Mon 09:37]--[2014-06-02 Mon 09:39] =>  0:02
+  CLOCK: [2014-06-02 Mon 09:10]--[2014-06-02 Mon 09:12] =>  0:02
   CLOCK: [2014-05-29 Thu 10:23]--[2014-05-29 Thu 12:52] =>  2:29
   CLOCK: [2014-05-28 Wed 17:05]--[2014-05-28 Wed 17:17] =>  0:12
   CLOCK: [2014-05-28 Wed 13:43]--[2014-05-28 Wed 13:49] =>  0:06
@@ -3505,8 +3508,10 @@ When I set up scoring the day:
 - [ ] Collate data such as sleep, weight, exercise, diet etc.
 
 ** NEXT Daily Plan [0/7]
-   SCHEDULED: <2014-06-02 Mon .+1d/2d>
+   SCHEDULED: <2014-06-03 Tue .+1d/2d>
    :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2014-06-02 Mon 09:37]
+   CLOCK: [2014-06-02 Mon 09:12]--[2014-06-02 Mon 09:37] =>  0:25
    - State "DONE"       from "NEXT"       [2014-06-01 Sun 12:37]
    CLOCK: [2014-06-01 Sun 12:13]--[2014-06-01 Sun 12:37] =>  0:24
    - State "DONE"       from "NEXT"       [2014-05-30 Fri 11:56]
@@ -4123,7 +4128,7 @@ When I set up scoring the day:
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
    :ID:       ef051ee0-1113-4604-b355-450a5a47848b
-   :LAST_REPEAT: [2014-06-01 Sun 12:37]
+   :LAST_REPEAT: [2014-06-02 Mon 09:37]
    :LAST_REPEAT: [2014-01-25 Sat 12:49]
    :END:
 
@@ -4137,8 +4142,10 @@ When I set up scoring the day:
 - [ ] Record morning health stats
 
 ** NEXT Weekly Review [0/20]
-   SCHEDULED: <2014-06-02 Mon +1w>
+   SCHEDULED: <2014-06-09 Mon +1w>
    :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2014-06-02 Mon 17:47]
+   CLOCK: [2014-06-02 Mon 15:39]--[2014-06-02 Mon 17:47] =>  2:08
    - State "DONE"       from "NEXT"       [2014-05-26 Mon 16:27]
    CLOCK: [2014-05-26 Mon 16:06]--[2014-05-26 Mon 16:27] =>  0:21
    CLOCK: [2014-05-26 Mon 12:31]--[2014-05-26 Mon 12:46] =>  0:15
@@ -4259,7 +4266,7 @@ When I set up scoring the day:
    :REPEAT_TO_STATE: NEXT
    :ID:       846c05fa-21d7-4e6f-8431-a1fa06631945
    :RESET_CHECK_BOXES: t
-   :LAST_REPEAT: [2014-05-26 Mon 16:27]
+   :LAST_REPEAT: [2014-06-02 Mon 17:47]
    :END:
 
 What to review:
@@ -4291,6 +4298,8 @@ What to review:
 - [ ] Collate the weeks: pad scribbles, org-mode notes, phone notes, etc.
 - [ ] Check Finances
   - Check bank accounts and compare with what's still to come
+  - Plan the weeks budget
+  - Update monthly transactions
 - [ ] Copy music to phone
 - [ ] Share photos on Google+
 - [ ] Update Abundant Harvest order

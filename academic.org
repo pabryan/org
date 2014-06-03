@@ -783,7 +783,13 @@ CR-8403 - "Curvature contraction of convex hypersurfaces by nonsmooth speeds by 
 	CLOCK: [2014-05-29 Thu 13:46]--[2014-05-29 Thu 14:05] =>  0:19
 	:END:
 ******* NEXT Write notes on Sec 5
+	:LOGBOOK:
+	CLOCK: [2014-06-02 Mon 09:18]--[2014-06-02 Mon 09:45] =>  0:27
+	:END:
 ******* NEXT Write notes on Sec 6
+	:LOGBOOK:
+	CLOCK: [2014-06-02 Mon 18:55]--[2014-06-02 Mon 19:19] =>  0:24
+	:END:
 ****** NEXT Compile report
        DEADLINE: <2014-06-15 Sun>
 ** Discussion
@@ -1673,60 +1679,6 @@ This proves the inequality we need.  The remaining problem is to remove the symm
    :ID:       85f583ed-c9eb-4993-91e3-8cedf9945d1f
    :END:
 [[file:~/working/academic/research/csf_dist_comp_surfaces]]
-**** TODO Dark Matter and General Relativity :WDM:GENERAL_RELATIVITY:DARK_MATTER:
-     :PROPERTIES:
-     :ID:       b8b0e5f5-b0e5-4af8-a012-d5dd88d75fbf
-     :END:
-[[http://fds.duke.edu/db/aas/math/bray]]
-***** Tasks
-***** TODO Learning
-Look at all dark matter papers. Alan Parry also. Bibliography of course!
-****** TODO Essay
-- This should be an essay on the work explaining it my way.
-******* NEXT Write outline
-	 SCHEDULED: <2014-06-02 Mon>
-****** NEXT Follow up Hubert Bray's general relativity references
-<2014-03-31 Mon>
-- O'Neil
-- Prove quadratic actions give the same action a'la Cartan and others
-
-****** NEXT Follow up Hubert Bray's dark-matter refs
-<2014-03-31 Mon>
-****** NEXT Read O'Neill semi-Riemannian geometry
-       :LOGBOOK:
-       CLOCK: [2014-02-20 Thu 12:30]--[2014-02-20 Thu 13:16] =>  0:46
-       CLOCK: [2014-02-20 Thu 09:11]--[2014-02-20 Thu 09:33] =>  0:22
-       CLOCK: [2014-02-07 Fri 15:30]--[2014-02-07 Fri 15:43] =>  0:13
-       :END:
-
-****** NEXT Read Appendix to Hubert Bray's paper #1
-       :LOGBOOK:
-       CLOCK: [2014-02-16 Sun 14:50]--[2014-02-16 Sun 15:36] =>  0:46
-       :END:
-****** NEXT Study spherical symmetry in Parry
-- two papers about this.
-****** NEXT Read Symmetries and Conservation Laws
-       :LOGBOOK:
-       CLOCK: [2014-02-21 Fri 17:10]--[2014-02-21 Fri 17:38] =>  0:28
-       :END:
-****** NEXT Read Wald
-       :LOGBOOK:
-       CLOCK: [2014-02-24 Mon 11:29]--[2014-02-24 Mon 11:40] =>  0:11
-       :END:
-***** Notes
-****** Actions on connections
-******* Jet bundle approach
-- Connection is a section of the jet bundle $J^1E \to E$.
-  - http://mathoverflow.net/questions/106999/1-jet-bundle-on-vector-bundle-with-metric-connection
-  - http://en.wikipedia.org/wiki/Ehresmann_connection
-  - http://en.wikipedia.org/wiki/Connection_(fibred_manifold)#Connection_as_a_jet_bundle_section
-- The action is quadratic on metrics and connections and their first derivatives. So a minimiser should be a section of some tensor product of symmetric 2-tensors, jet bundles and wherever the derivatives exist (e.g. $T^{\star} M \tensor S^2M$ for the metric). Then I just have some functional on their and find the Euler-Lagrange equation.
-
-***** Meetings
-****** NEXT Phone call with Hubert Bray
-	:LOGBOOK:
-	CLOCK: [2014-02-18 Tue 12:00]--[2014-02-18 Tue 13:05] =>  1:05
-	:END:
 *** Future 							    :SOMEDAY:
 **** TODO Study non-smooth mean curvature flow, minimal surfaces via support fn
      SCHEDULED: <2014-09-01 Mon>
@@ -3472,6 +3424,61 @@ Schedule time for research, for teaching and for non-research academic work (e.g
    :PROPERTIES:
    :ID:       76fc2a4e-0bcf-40b4-aa91-f87c8962f648
    :END:
+*** TODO Dark Matter and General Relativity :WDM:GENERAL_RELATIVITY:DARK_MATTER:
+     :PROPERTIES:
+     :ID:       b8b0e5f5-b0e5-4af8-a012-d5dd88d75fbf
+     :END:
+[[http://fds.duke.edu/db/aas/math/bray]]
+***** Tasks
+***** TODO Learning
+Look at all dark matter papers. Alan Parry also. Bibliography of course!
+****** TODO Essay
+- This should be an essay on the work explaining it my way.
+******* NEXT Write outline
+	 SCHEDULED: <2014-06-02 Mon>
+****** NEXT Follow up Hubert Bray's general relativity references
+<2014-03-31 Mon>
+- O'Neil
+- Prove quadratic actions give the same action a'la Cartan and others
+
+****** NEXT Follow up Hubert Bray's dark-matter refs
+<2014-03-31 Mon>
+****** NEXT Read O'Neill semi-Riemannian geometry
+       :LOGBOOK:
+       CLOCK: [2014-02-20 Thu 12:30]--[2014-02-20 Thu 13:16] =>  0:46
+       CLOCK: [2014-02-20 Thu 09:11]--[2014-02-20 Thu 09:33] =>  0:22
+       CLOCK: [2014-02-07 Fri 15:30]--[2014-02-07 Fri 15:43] =>  0:13
+       :END:
+
+****** NEXT Read Appendix to Hubert Bray's paper #1
+       :LOGBOOK:
+       CLOCK: [2014-02-16 Sun 14:50]--[2014-02-16 Sun 15:36] =>  0:46
+       :END:
+****** NEXT Study spherical symmetry in Parry
+- two papers about this.
+****** NEXT Read Symmetries and Conservation Laws
+       :LOGBOOK:
+       CLOCK: [2014-02-21 Fri 17:10]--[2014-02-21 Fri 17:38] =>  0:28
+       :END:
+****** NEXT Read Wald
+       :LOGBOOK:
+       CLOCK: [2014-02-24 Mon 11:29]--[2014-02-24 Mon 11:40] =>  0:11
+       :END:
+***** Notes
+****** Actions on connections
+******* Jet bundle approach
+- Connection is a section of the jet bundle $J^1E \to E$.
+  - http://mathoverflow.net/questions/106999/1-jet-bundle-on-vector-bundle-with-metric-connection
+  - http://en.wikipedia.org/wiki/Ehresmann_connection
+  - http://en.wikipedia.org/wiki/Connection_(fibred_manifold)#Connection_as_a_jet_bundle_section
+- The action is quadratic on metrics and connections and their first derivatives. So a minimiser should be a section of some tensor product of symmetric 2-tensors, jet bundles and wherever the derivatives exist (e.g. $T^{\star} M \tensor S^2M$ for the metric). Then I just have some functional on their and find the Euler-Lagrange equation.
+
+***** Meetings
+****** NEXT Phone call with Hubert Bray
+	:LOGBOOK:
+	CLOCK: [2014-02-18 Tue 12:00]--[2014-02-18 Tue 13:05] =>  1:05
+	:END:
+
 *** Derivations
     SCHEDULED: <2014-06-01 Sun>
 **** Notes
