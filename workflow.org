@@ -10,7 +10,7 @@
 *** Publishing
 **** Web Publishing
 ***** TODO org-mode sync/web access
-    SCHEDULED: <2014-06-01 Sun>
+    SCHEDULED: <2014-06-30 Mon>
     :LOGBOOK:
     CLOCK: [2013-07-03 Wed 10:06]--[2013-07-03 Wed 10:09] =>  0:03
     :END:
@@ -44,7 +44,7 @@ Make a project that includes
 [2013-03-30 Sat 21:39]
 Publish to a different directory so I don't pollute my hg directory.
 ***** TODO Create publishing function for journal submission
-  SCHEDULED: <2014-06-01 Sun>
+  SCHEDULED: <2014-06-30 Mon>
   :LOGBOOK:
   CLOCK: [2014-03-18 Tue 17:41]--[2014-03-18 Tue 17:42] =>  0:01
   :END:
@@ -52,13 +52,13 @@ Publish to a different directory so I don't pollute my hg directory.
 I want to export for journals, including data such as email, classification etc.
 I think I need some sort of filter for this.
 ***** TODO Create setup file for org-mode latex docs
-  SCHEDULED: <2014-06-01 Sun>
+  SCHEDULED: <2014-06-30 Mon>
 [2014-04-12 Sat 19:26]
 - Put common things besides bib stuff into a setup file
 - All the basic publish options should also be in a master file
 **** General
 ***** NEXT Prevent new org-export from polluting src directory
-  SCHEDULED: <2014-06-02 Mon>
+  SCHEDULED: <2014-06-30 Mon>
   :LOGBOOK:
   CLOCK: [2014-04-18 Fri 12:38]--[2014-04-18 Fri 12:39] =>  0:01
   :END:
@@ -117,7 +117,7 @@ Should be able to insert lecture planning/homework etc with a yassnippet?
 [2013-09-30 Mon 21:15]
 Add goals to agenda to remind myself each day. E.g. work, diet, exercise, general things like be patient, don't over-explain things etc.
 **** TODO Setup some agenda filter macros
-  SCHEDULED: <2014-06-01 Sun>
+  SCHEDULED: <2014-06-30 Mon>
   :PROPERTIES:
   :ID:       b7060562-fc53-44b0-8f52-d84dce4c177f
   :END:
@@ -125,9 +125,10 @@ Add goals to agenda to remind myself each day. E.g. work, diet, exercise, genera
 want to hit a key so that only work tasks are shown or only personal/family tasks are shown
 - org-agenda-tag-filter: stores the filters
 - org-agenda-filter-by-tag: command to create filters
-**** NEXT Use org-checklists
+**** DONE Use org-checklists
      SCHEDULED: <2014-06-01 Sun>
      :LOGBOOK:
+     - State "DONE"       from "NEXT"       [2014-06-03 Tue 10:18]
      - State "NEXT"       from "WAITING"    [2013-10-27 Sun 20:31] \\
        I doesn't seem to work on Ubuntu 12.04. Maybe I need to downgrade it?
      - State "WAITING"    from "NEXT"       [2013-09-29 Sun 20:48] \\
@@ -585,14 +586,14 @@ Do I make a different TODO keyword for more trying out things/open ended type re
     :END:
 - This is just the ordinary diff with headlines thought of as files/directories (which can contain content and also other files which is slightly different to the filesystem). Recursing is just recursing headlines and reports can say things like "Headlines A and B differ" and we can show differences in contents of headlines.
 **** TODO Org calendar to google calendar
-  SCHEDULED: <2014-06-01 Sun>
+  SCHEDULED: <2014-06-30 Mon>
   :PROPERTIES:
   :ID:       00fc3ef7-df16-48c3-8fa3-f5b16e6c10d2
   :END:
 [2013-09-03 Tue 21:27]
 http://orgmode.org/worg/org-tutorials/org-google-sync.html
 **** TODO Focus agenda view should show next tasks for project?
-  SCHEDULED: <2014-06-01 Sun>
+  SCHEDULED: <2014-06-30 Mon>
   :LOGBOOK:
   CLOCK: [2013-09-14 Sat 19:43]--[2013-09-14 Sat 19:44] =>  0:01
   :END:
@@ -603,20 +604,16 @@ http://orgmode.org/worg/org-tutorials/org-google-sync.html
 
 *** Archiving
 **** TODO Archive things
-     SCHEDULED: <2014-06-01 Sun>
+     SCHEDULED: <2014-06-30 Mon>
   :PROPERTIES:
   :ID:       a1611ad9-0546-41d7-a584-9edb3ef77445
   :END:
 [2014-01-02 Thu 18:44]
 - Set up archiving for org-mode
 - archive working files for faster check_uncommited
-
-**** TODO Archive old working projects
-  SCHEDULED: <2014-06-01 Sun>
-[2014-02-13 Thu 09:20]
 *** Agenda
 **** TODO Org agenda views
-  SCHEDULED: <2014-06-01 Sun>
+  SCHEDULED: <2014-06-30 Mon>
   :LOGBOOK:
   CLOCK: [2014-02-07 Fri 09:41]--[2014-02-07 Fri 09:44] =>  0:03
   :END:
@@ -634,7 +631,7 @@ I need to be able to focus on the right tasks which means not seeing all possibl
 - Personal agenda view
   - Non-work stuff
 **** TODO Create project agenda view
-  SCHEDULED: <2014-06-01 Sun>
+  SCHEDULED: <2014-06-30 Mon>
   :LOGBOOK:
   CLOCK: [2014-02-20 Thu 09:10]--[2014-02-20 Thu 09:11] =>  0:01
   :END:
@@ -643,7 +640,7 @@ I need to be able to focus on the right tasks which means not seeing all possibl
 It would be nice to narrow to a project and have it display sub-projects in an easy to browse manner
 <2014-04-01 Tue>
 **** TODO Create agenda blocks by type
-  SCHEDULED: <2014-06-01 Sun>
+  SCHEDULED: <2014-06-30 Mon>
   :LOGBOOK:
   CLOCK: [2014-04-29 Tue 10:49]--[2014-04-29 Tue 10:50] =>  0:01
   :END:
@@ -652,7 +649,7 @@ Create papers, teaching, referring block
 
 *** Configuration
 **** TODO Split up emacs-org files
-  SCHEDULED: <2014-06-01 Sun>
+  SCHEDULED: <2014-06-30 Mon>
   :LOGBOOK:
   CLOCK: [2014-03-18 Tue 17:44]--[2014-03-18 Tue 17:45] =>  0:01
   :END:
@@ -670,7 +667,7 @@ Things are getting a little out of hand. I think I should break up configuration
 I want to have descriptions of my various research projects with clear aims, a summary of the project and references. I should then also be able to construct tasks for the projects.
 
 **** TODO Write org-mode config to handle different hosts and org-versions
-  SCHEDULED: <2014-06-01 Sun>
+  SCHEDULED: <2014-06-30 Mon>
   :LOGBOOK:
   CLOCK: [2014-04-02 Wed 14:32]--[2014-04-02 Wed 14:33] =>  0:01
   :END:
@@ -1468,7 +1465,7 @@ http://askubuntu.com/questions/198136/error-when-trying-to-connect-to-vpn-on-sta
 - oldpaul
 - uni 
 **** TODO organise external working
-  SCHEDULED: <2014-06-01 Sun>
+  SCHEDULED: <2014-06-30 Mon>
   :LOGBOOK:
   CLOCK: [2013-08-06 Tue 21:01]--[2013-08-06 Tue 21:05] =>  0:04
   :END:
@@ -1505,7 +1502,7 @@ http://askubuntu.com/questions/198136/error-when-trying-to-connect-to-vpn-on-sta
 [2013-08-06 Tue 21:05]
 this way I can track upstream and keep my work independent and then merge, push to upstream etc. as appropriate
 **** TODO Make a list of required software
-  SCHEDULED: <2014-06-01 Sun>
+  SCHEDULED: <2014-06-30 Mon>
   :LOGBOOK:
   CLOCK: [2013-08-09 Fri 09:20]--[2013-08-09 Fri 09:22] =>  0:02
   :END:
@@ -1570,9 +1567,10 @@ I have mythtv and mediatomb and who knows what else using up valuable resources.
 
 Should run hg clone ssh://hg@bitbucket.org/pabryan/<proj>
 *** TODO Working
-**** TODO Wrapper for scripts using ssh-agent
+**** DONE Wrapper for scripts using ssh-agent
      SCHEDULED: <2014-06-01 Sun>
   :LOGBOOK:
+  - State "DONE"       from "TODO"       [2014-06-03 Tue 10:26]
   CLOCK: [2014-03-28 Fri 18:04]--[2014-03-28 Fri 18:05] =>  0:01
   :END:
 [2014-03-28 Fri 18:04]
@@ -1591,16 +1589,16 @@ https://github.com/hellekin/autosshfs
 http://ubuntuforums.org/showthread.php?t=430312
 
 **** TODO use emacs to do vc stuff
-  SCHEDULED: <2014-06-01 Sun>
+  SCHEDULED: <2014-06-30 Mon>
 [2014-02-28 Fri 11:45]
 **** TODO Check out patch-commit
-     SCHEDULED: <2014-06-01 Sun>
+     SCHEDULED: <2014-06-30 Mon>
   <2014-04-06 Sun>
 [2014-03-15 Sat 22:38]
 
 http://porkrind.org/commit-patch/
 **** TODO Auto sync working
-     SCHEDULED: <2014-06-01 Sun>
+     SCHEDULED: <2014-06-30 Mon>
   :LOGBOOK:
   CLOCK: [2014-03-18 Tue 17:42]--[2014-03-18 Tue 17:43] =>  0:01
   :END:
@@ -1656,7 +1654,7 @@ yajl-ruby (1.1.0)
 ** emacs
 *** Tasks
 **** TODO Emacs coding setup
-     SCHEDULED: <2014-06-01 Sun>
+     SCHEDULED: <2014-06-30 Mon>
   :LOGBOOK:
   CLOCK: [2014-03-31 Mon 19:01]--[2014-03-31 Mon 19:03] =>  0:02
   :END:
@@ -1696,7 +1694,7 @@ yajl-ruby (1.1.0)
      :ID:       59fb7afd-3134-4ef9-80d6-391b05284663
      :END:
 ***** NEXT Set up offlineimap
-    SCHEDULED: <2014-06-01 Sun>
+    SCHEDULED: <2014-06-30 Mon>
     :PROPERTIES:
     :ID:       8e34b366-070d-4735-bad1-9c8fba262783
     :END:
@@ -1839,6 +1837,9 @@ http://gmane.org
   :END:
 ** Organisation
   :LOGBOOK:
+  CLOCK: [2014-06-03 Tue 18:09]--[2014-06-03 Tue 18:10] =>  0:01
+  CLOCK: [2014-06-03 Tue 10:37]--[2014-06-03 Tue 10:38] =>  0:01
+  CLOCK: [2014-06-03 Tue 10:15]--[2014-06-03 Tue 10:17] =>  0:02
   CLOCK: [2014-06-02 Mon 15:33]--[2014-06-02 Mon 15:39] =>  0:06
   CLOCK: [2014-06-02 Mon 09:37]--[2014-06-02 Mon 09:39] =>  0:02
   CLOCK: [2014-06-02 Mon 09:10]--[2014-06-02 Mon 09:12] =>  0:02
@@ -3508,8 +3509,10 @@ When I set up scoring the day:
 - [ ] Collate data such as sleep, weight, exercise, diet etc.
 
 ** NEXT Daily Plan [0/7]
-   SCHEDULED: <2014-06-03 Tue .+1d/2d>
+   SCHEDULED: <2014-06-04 Wed .+1d/2d>
    :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2014-06-03 Tue 10:37]
+   CLOCK: [2014-06-03 Tue 10:17]--[2014-06-03 Tue 10:37] =>  0:20
    - State "DONE"       from "NEXT"       [2014-06-02 Mon 09:37]
    CLOCK: [2014-06-02 Mon 09:12]--[2014-06-02 Mon 09:37] =>  0:25
    - State "DONE"       from "NEXT"       [2014-06-01 Sun 12:37]
@@ -4128,7 +4131,7 @@ When I set up scoring the day:
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
    :ID:       ef051ee0-1113-4604-b355-450a5a47848b
-   :LAST_REPEAT: [2014-06-02 Mon 09:37]
+   :LAST_REPEAT: [2014-06-03 Tue 10:37]
    :LAST_REPEAT: [2014-01-25 Sat 12:49]
    :END:
 

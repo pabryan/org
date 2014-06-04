@@ -817,7 +817,7 @@ CR-8403 - "Curvature contraction of convex hypersurfaces by nonsmooth speeds by 
       :END:
 **** Notes
 ***** TODO Selected papers
-  SCHEDULED: <2014-06-01 Sun>
+  SCHEDULED: <2014-06-30 Mon>
   :LOGBOOK:
   CLOCK: [2013-08-04 Sun 09:49]--[2013-08-04 Sun 09:50] =>  0:01
   :END:
@@ -866,7 +866,7 @@ So it seems that for hypersurfaces, or more generally sub-manifolds, upper curva
 Maybe make some points about how I could write the code to present data from spnet on a website and include that code in spnet
 *** Scirate
 **** TODO Investigate scirate
-  SCHEDULED: <2014-06-01 Sun>
+  SCHEDULED: <2014-06-30 Mon>
 [2014-03-05 Wed 13:27]
 https://scirate.com/
 
@@ -1059,6 +1059,7 @@ That is, Ben and Janelle have proven the backward convergence, and to finish we 
 Given $X$ in the equator, let $\rho_{\alpha}(X)$ be the infimum of the lengths of the geodesic segment joining the points in $\alpha \intersect \pi^{-1}(X)$ to $X$. The order should be in $\rho_{\alpha} > \rho_{\beta}$. Write the subsequent text using $\rho$.
 ******** NEXT Write backwards approximate symmetry
 	 :LOGBOOK:
+	 CLOCK: [2014-06-03 Tue 10:38]--[2014-06-03 Thu 12:35] =>  1:57
 	 CLOCK: [2014-05-29 Thu 12:52]--[2014-05-29 Thu 13:46] =>  0:54
 	 CLOCK: [2014-05-29 Thu 10:46]--[2014-05-29 Thu 10:47] =>  0:01
 	 CLOCK: [2014-05-28 Wed 17:17]--[2014-05-28 Wed 17:49] =>  0:32
@@ -1923,6 +1924,7 @@ Here we look at a conformal change of metric. The Levy-Gromov comparison doesn't
    :END:
 [[file:/home/pbryan/working/academic/research/free_k_graphs]]
 **** TODO Ricci Isoprofile Comparison
+     SCHEDULED: <2014-06-30 Mon>
    :PROPERTIES:
    :ID:       39603eb5-2bec-4118-a705-a5287b9d5ad2
    :END:
@@ -2080,7 +2082,7 @@ In particular, if $X$ is not a gradient vector field, what is corresponding metr
        :END:
 ****** NEXT Scan diagram of model construction
 ****** NEXT Re-investigate radial comparison
-       SCHEDULED: <2014-06-01 Sun>
+       SCHEDULED: <2014-06-30 Mon>
 
 ****** NEXT Work out curvature for model comparison
        :LOGBOOK:
@@ -2716,8 +2718,9 @@ We would do it all in Minkowski space. I think the vector field gives the distan
        :ID:       95792719-f4e8-45ff-bf7c-7283c2a2dd2e
        :END:
 ******* NEXT Check Mat's, Charlie's and my work and how it fits together.
-       SCHEDULED: <2014-05-19 Mon>
        :LOGBOOK:
+       CLOCK: [2014-06-03 Tue 17:17]--[2014-06-03 Tue 17:42] =>  0:25
+       CLOCK: [2014-06-03 Tue 16:20]--[2014-06-03 Tue 17:14] =>  0:54
        CLOCK: [2014-05-26 Mon 16:49]--[2014-05-26 Mon 17:20] =>  0:31
        :END:
        :PROPERTIES:
@@ -2728,9 +2731,15 @@ In particular, put more detail in.
        	:PROPERTIES:
        	:ID:       810fd351-5f88-415f-9977-906fa1e39681
        	:END:
-******* NEXT Print theses
-******* TODO Write basic MCF stuff
-- embeddness preserved etc. from my honour's thesis plus Mat and Charlie's work
+******* DONE Print theses
+	:LOGBOOK:
+	- State "DONE"       from "NEXT"       [2014-06-03 Tue 16:19]
+	:END:
+******* NEXT Copy content into book
+	:LOGBOOK:
+	CLOCK: [2014-06-03 Tue 18:10]--[2014-06-03 Tue 18:40] =>  0:30
+	:END:
+- from my honour's thesis plus Mat and Charlie's work
        :PROPERTIES:
        :ID:       b5234c61-d118-45c2-b372-eb8e247c8642
        :END:
@@ -3020,7 +3029,7 @@ We solve for the metric and come up with various parameters such as $U, W$. Thes
 - The specs should not *ever* use the objects to test to create expected values! For instance, I have tests that create a galaxy object for testing and grab nsteps from the object to use in the expected values. This is not good! I should have an expected nsteps and use that to test the code generates the correct nsteps!
 
 **** TODO Numerical Relativity
-     SCHEDULED: <2014-06-01 Sun>
+     SCHEDULED: <2014-10-01 Wed>
 ***** Refs
 ****** Institutions
 https://numrel.aei.mpg.de/
@@ -3045,7 +3054,7 @@ https://numrel.aei.mpg.de/people/radice
 ***** References
 *** Future 							    :SOMEDAY:
 **** TODO Riemannian manifolds
-     SCHEDULED: <2014-06-01 Sun>
+     SCHEDULED: <2014-10-01 Wed>
 ***** Tasks
 ****** Project organisation
 ******* NEXT Create project
@@ -3124,7 +3133,7 @@ In particular I want the combinatorial algebra
        	:END:
 ** Tasks
 *** TODO Organise research papers    
-    SCHEDULED: <2014-06-01 Sun>
+    SCHEDULED: <2014-06-30 Mon>
     :PROPERTIES:
     :ID:       27dd1954-9abe-4a87-9bcd-36027c643fdb
     :END:
@@ -3231,7 +3240,7 @@ I could also have author, title, date etc. in the properties drawer! This is red
 No! Maybe I can use reftex and get it to take me to the entry in refs.org? I can certainly due this manually, using reftex to take me to the bib file which gives the ID which I can search for in the org file. Then I don't need to maintain duplicate info in the org and bib files and have all the power of reftex available.
 I'd like to be able to use org-mode views to show papers/books by a given author or by subject. Maybe I can have some sort of hook that uses reftex to do the search and return a list of ID's which is then the filter for org-mode views.
 **** TODO Improve referencing
-  SCHEDULED: <2014-06-01 Sun>
+  SCHEDULED: <2014-06-30 Mon>
   :LOGBOOK:
   CLOCK: [2013-11-16 Sat 10:34]--[2013-11-16 Sat 10:38] =>  0:04
   :END:
@@ -3248,7 +3257,7 @@ I'd like to be able to use org-mode views to show papers/books by a given author
 - Put books, lecture notes, web resources etc. into bibtex file
 
 **** TODO Work out paper getting procedure
-  SCHEDULED: <2014-06-01 Sun>
+  SCHEDULED: <2014-06-30 Mon>
   :LOGBOOK:
   CLOCK: [2014-02-11 Tue 12:54]--[2014-02-11 Tue 12:55] =>  0:01
   :END:
@@ -3256,7 +3265,7 @@ I'd like to be able to use org-mode views to show papers/books by a given author
 
 I want to grab a paper from the internet, possibly the bib entry as well and then store it somewhere to later enter into my org system. It should be quick and easy like capture tasks and then ideally I'd have some automated way of adding it to org.
 **** TODO Set up pdf metadata
-  SCHEDULED: <2014-06-01 Sun>
+  SCHEDULED: <2014-06-30 Mon>
 [2014-02-24 Mon 11:21]
 - I want to add meta data to pdf's based on bibtex entry
 http://askubuntu.com/questions/27381/how-to-edit-pdf-metadata-from-command-line
@@ -3341,7 +3350,7 @@ sometimes the bib ref I have has MR<num> but the paper is saved as MR0<num> whic
 *** Paper preparation
 
 **** TODO Incorporate sage code into document creation
-     SCHEDULED: <2014-06-01 Sun>
+     SCHEDULED: <2014-06-30 Mon>
   :LOGBOOK:
   CLOCK: [2014-03-01 Sat 13:28]--[2014-03-01 Sat 13:29] =>  0:01
   :END:
@@ -3350,7 +3359,7 @@ sometimes the bib ref I have has MR<num> but the paper is saved as MR0<num> whic
 Either by using literal blocks in org-mode or using sagetex I can produce images, animations and so forth in documents
 
 **** TODO Set up generic publishing
-     SCHEDULED: <2014-06-01 Sun>
+     SCHEDULED: <2014-06-30 Mon>
   :LOGBOOK:
   CLOCK: [2014-02-20 Thu 09:08]--[2014-02-20 Thu 09:09] =>  0:01
   :END:
@@ -3363,15 +3372,13 @@ Either by using literal blocks in org-mode or using sagetex I can produce images
     CLOCK: [2012-12-18 Tue 09:45]--[2012-12-18 Tue 10:27] =>  0:42
     :END:
 *** TODO Organise Research Projects
-    SCHEDULED: <2014-06-01 Sun>
+    SCHEDULED: <2014-06-30 Mon>
 **** NEXT Set up/organise current research projects
-     SCHEDULED: <2014-06-01 Sun>
+     SCHEDULED: <2014-06-30 Mon>
   :LOGBOOK:
   CLOCK: [2014-03-21 Fri 13:10]--[2014-03-21 Fri 13:13] =>  0:03
   :END:
 [2014-03-21 Fri 13:10]
-
-SCHEDULED: <2014-06-01 Sun>
 
 - Comparison theory for linearised MCF (see old research statement)
 - Support functions for hypersurfaces in Riemannian spaces - weak theory
@@ -3391,7 +3398,7 @@ SCHEDULED: <2014-06-01 Sun>
 **** NEXT Fill in project notes
 - I'd like to write the notes in my org entry and export to a wiki or something like that (open notebook wiki)
 **** NEXT Write research project summaries/proposals
-     SCHEDULED: <2014-06-01 Sun> 
+     SCHEDULED: <2014-07-01 Tue> 
   :LOGBOOK:
   CLOCK: [2014-03-21 Fri 13:09]--[2014-03-21 Fri 13:10] =>  0:01
   :END:
@@ -3414,7 +3421,7 @@ I want to have descriptions of my various research projects with clear aims, a s
 Schedule time for research, for teaching and for non-research academic work (e.g. refereeing). That cover's all the sort of work I do.
 
 *** TODO Make create research project capture
-  SCHEDULED: <2014-06-01 Sun>
+  SCHEDULED: <2014-07-01 Tue>
     :PROPERTIES:
     :ID:       89aab08c-03b4-4561-b868-45bc0088ba34
     :END:
@@ -3480,7 +3487,7 @@ Look at all dark matter papers. Alan Parry also. Bibliography of course!
 	:END:
 
 *** Derivations
-    SCHEDULED: <2014-06-01 Sun>
+    SCHEDULED: <2014-07-01 Tue>
 **** Notes
 ***** Motivation
 To what extent do the derivations determine the smooth structure? That is, I want to consider differential ringed spaces and say that a smooth structure is such a ringed space. Or in other words, how canonical is a derivation on a ringed space? So, I have a locally ringed space that is locally isomorphic to the smooth functions on $\RR^n$ and this determines the smooth structure and is thus may be equipped with the standard derivations of partial differentiation. What about some sort of converse to this? In other words, what are the derivations on $C^{\infty}(\RR^n)$? Is there some way of characterising the standard derivation? Is it some sort of universal derivation? What are the properties that determine it?
@@ -3496,7 +3503,7 @@ Also, can I prove that the usual derivation is the unique derivation satisfying 
 **** Refs
 **** Tasks
 *** TODO Prove similarity solns (self-shrinkers/translations) have polynomial growth
-  SCHEDULED: <2014-06-01 Sun>
+  SCHEDULED: <2014-07-01 Tue>
   :LOGBOOK:
   :END:
     :PROPERTIES:
@@ -3794,7 +3801,7 @@ http://mathoverflow.net/questions/14877/how-much-of-differential-geometry-can-be
   :END:
 - Often these are given by the wedge of some form. Is there some way to characterise such morphisms?
 *** TODO Investigate linearised MC
-  SCHEDULED: <2014-06-01 Sun>
+  SCHEDULED: <2014-07-01 Tue>
   :LOGBOOK:
   CLOCK: [2014-03-27 Thu 09:20]--[2014-03-27 Thu 09:22] =>  0:02
   :END:
@@ -3832,7 +3839,7 @@ Is there a consistent (say providing ZFC is consistent) set theory without the e
 ** Open Notebook
 *** Tasks
 **** NEXT Research starting an open notebook
-  SCHEDULED: <2014-06-01 Sun>
+  SCHEDULED: <2014-07-01 Tue>
   :LOGBOOK:
   CLOCK: [2013-08-06 Tue 20:54]--[2013-08-06 Tue 20:55] =>  0:01
   :END:
@@ -3872,7 +3879,7 @@ Is there a consistent (say providing ZFC is consistent) set theory without the e
    :ID:       0609581e-fe50-48ce-aa33-ce468c217f92
    :END:
 *** HOLD GMT								:GMT:
-    SCHEDULED: <2014-06-01 Sun>
+    SCHEDULED: <2014-07-01 Tue>
     :LOGBOOK:
     - State "HOLD"       from "TODO"       [2013-08-04 Sun 16:45] \\
       Don't have time for this right now!
@@ -3902,7 +3909,7 @@ First variation.
 ***** Lec 03
 Radon measures: compactness and Reisz representation.
 *** TODO Convex Geometry					     :CONVEX:
-    SCHEDULED: <2014-06-01 Sun>
+    SCHEDULED: <2014-07-01 Tue>
     :LOGBOOK:
     - State "TODO"       from "HOLD"       [2013-10-09 Wed 17:24]
     - State "HOLD"       from "TODO"       [2013-08-04 Sun 16:46] \\
@@ -3920,7 +3927,7 @@ Radon measures: compactness and Reisz representation.
      :END:
 
 *** TODO Bundle Theory						     :BUNDLE:
-    SCHEDULED: <2014-06-01 Sun>
+    SCHEDULED: <2014-07-01 Tue>
     :PROPERTIES:
     :ID:       05ad3c1c-4842-4796-8ecc-a417aee5b7cc
     :END:
@@ -3966,7 +3973,7 @@ I want to study Gauss maps $(E,X,\pi) \to (\RR^k\times X, X, \pi)$, in particula
 **** TODO Paper/Book reading
 - I should get in the habit of writing my own description of the work and the main ideas as part of the learning process. I need a way to set this up in some sort of project exported to a wiki say?
 ***** NEXT Develop way to write my own notes (and publish on my website) on the subject
-      SCHEDULED: <2014-06-01 Sun>
+      SCHEDULED: <2014-06-30 Mon>
 ** Blog
 *** Ideas
 **** The use of coordinates in DG.
@@ -4873,7 +4880,7 @@ My experiences learning/implementing these strategies.
 http://www.personalabteilung.hu-berlin.de/stellenausschreibungen/six-humboldt-post-doc-fellowships-temporary-positions-full-time-public-sector-pay-scale-13
 
 ***** TODO Apply thinktankmaths
-      SCHEDULED: <2014-06-01 Sun>
+      SCHEDULED: <2014-06-30 Mon>
   :LOGBOOK:
   CLOCK: [2014-03-08 Sat 19:49]--[2014-03-08 Sat 19:50] =>  0:01
   :END:
@@ -5093,7 +5100,7 @@ http://www.dtu.dk/Job/job?id=171c797f-0619-4bd4-a855-8ff6c4990af7
      - State "DONE"       from "NEXT"       [2014-02-25 Tue 16:55]
      :END:
 **** NEXT Prepare high codimension MCF support fn
-     SCHEDULED: <2014-06-01 Sun>
+     SCHEDULED: <2014-06-30 Mon>
 *** Hubert Bray
 **** NEXT Contact Hubert about visiting next year
 *** Yanir Rubinstein

@@ -112,7 +112,7 @@ I want to put the details of the course in to org - probably using property draw
 http://www.math.ucsd.edu/~jeggers/Archive/2012Spring/Math142B/calendar.html
 http://www.w3schools.com/css/tryit.asp?filename=trycss_table_fancy
 ***** TODO Check out Piazza for courses
-  SCHEDULED: <2014-06-01 Sun>
+  SCHEDULED: <2014-06-16 Mon>
   :LOGBOOK:
   CLOCK: [2013-10-04 Fri 13:33]--[2013-10-04 Fri 13:34] =>  0:01
   :END:
@@ -9690,7 +9690,7 @@ Abstract:
 - Evans and Garepy, Measure Theory and Fine Properties of Functions
 - Simon, Lecture Notes on Geometric Measure Theory
 - Morgan, Geometric Measure Theory: A Beginner's Guide
-**** Student DG Seminar
+**** Grad Student DG Seminar
 ***** MCF Hyperbolic space
       :LOGBOOK:
       CLOCK: [2013-06-21 Fri 10:05]--[2013-06-21 Fri 11:55] =>  1:50
@@ -9754,10 +9754,11 @@ Abstract:
 
 ***** Polar dual and flows
 ****** NEXT Prepare polar dual flow talk outline
-       SCHEDULED: <2014-06-01 Sun>
+       SCHEDULED: <2014-09-01 Mon>
 
 ****** NEXT Make weekly tasks
-
+***** Non-smooth speed curvature flows 
+      SCHEDULED: <2014-09-01 Mon>
 ** UCSD seminars, colloquia
 *** Alexander Chorin
 <2014-04-07 Mon 16:00-17:00>

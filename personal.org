@@ -2265,9 +2265,10 @@ Kambah ACT 2902
   :ID:       ed6a7e09-d3d2-4963-b9ff-001444bd0f41
   :END:
 ** Tasks
-*** TODO Check out food sources
+*** DONE Check out food sources
   SCHEDULED: <2014-06-01 Sun>
   :LOGBOOK:
+  - State "DONE"       from "TODO"       [2014-06-03 Tue 10:33]
   CLOCK: [2013-10-20 Sun 11:06]--[2013-10-20 Sun 11:07] =>  0:01
   :END:
   :PROPERTIES:
@@ -2426,7 +2427,7 @@ Felicita Park
 - The three body problem is chatoic! How can we hope to understand complex systems when three bodies is too much!
 
 **** TODO Missing connections
-  SCHEDULED: <2014-06-01 Sun>
+  SCHEDULED: <2014-06-30 Mon>
   :LOGBOOK:
   CLOCK: [2014-04-03 Thu 09:54]--[2014-04-03 Thu 09:58] =>  0:04
   :END:
@@ -2462,7 +2463,7 @@ What is it? How do we get a handle on it? How do we reduce it from say the cause
 ** Blogging
 *** With Mark
 **** TODO Start Blog with Mark
-  SCHEDULED: <2014-06-01 Sun>
+  SCHEDULED: <2014-06-30 Mon>
 [2014-05-04 Sun 15:58]
 * Farming							    :FARMING:
   :PROPERTIES:
