@@ -152,8 +152,9 @@ END:
    
 ** Bills 
 *** TODO Pay rent
-    DEADLINE: <2014-06-05 Thu +1m -4d> 
+    DEADLINE: <2014-07-05 Sat +1m -4d> 
    :LOGBOOK:
+   - State "DONE"       from "TODO"       [2014-06-02 Mon 09:13]
    - State "DONE"       from "TODO"       [2014-05-01 Thu 11:53]
    - State "DONE"       from "TODO"       [2014-04-01 Tue 19:40]
    - State "DONE"       from "TODO"       [2014-03-02 Sun 11:06]
@@ -178,7 +179,7 @@ END:
  
    :PROPERTIES:
    :ID:       ea07bf7b-9f89-49bf-90db-3e167baff163
-   :LAST_REPEAT: [2014-05-01 Thu 11:53]
+   :LAST_REPEAT: [2014-06-02 Mon 09:13]
    :END:
    [2012-10-17 Wed 14:44]
 
@@ -186,8 +187,9 @@ Use account A11078844
 [[https://act.ucsd.edu/studentBilling/billing]]
 
 *** TODO Pay ATT
-    SCHEDULED: <2014-06-01 Sun +1m -0d> 
+    SCHEDULED: <2014-07-01 Tue +1m -0d> 
     :LOGBOOK:
+    - State "DONE"       from "TODO"       [2014-06-02 Mon 19:18]
     - State "DONE"       from "TODO"       [2014-05-01 Thu 11:53]
     - State "DONE"       from "TODO"       [2014-04-01 Tue 19:40]
     - State "DONE"       from "TODO"       [2014-03-02 Sun 11:07]
@@ -204,7 +206,7 @@ Use account A11078844
     - State "DONE"       from "TODO"       [2013-04-02 Tue 21:33]
     :END:
     :PROPERTIES:
-    :LAST_REPEAT: [2014-05-01 Thu 11:53]
+    :LAST_REPEAT: [2014-06-02 Mon 19:18]
     :ID:       137987c4-8151-42f0-bfad-b1e06d2cd512
     :END:
 [[http://www.att.com/]]
@@ -1872,8 +1874,11 @@ http://sandiegosr.evanced.info/homepage.asp?ProgramID=22
       :ID:       ab8707f0-a7b7-46c0-95f5-323c80747707
       :END:
 
-***** NEXT Return books
+***** DONE Return books
       DEADLINE: <2014-06-02 Mon>
+      :LOGBOOK:
+      - State "DONE"       from "NEXT"       [2014-06-01 Sun 12:17]
+      :END:
 
 ** Books							      :BOOKS:
 *** Graphic Novels					     :GRAPHIC_NOVELS:
@@ -2260,9 +2265,10 @@ Kambah ACT 2902
   :ID:       ed6a7e09-d3d2-4963-b9ff-001444bd0f41
   :END:
 ** Tasks
-*** TODO Check out food sources
+*** DONE Check out food sources
   SCHEDULED: <2014-06-01 Sun>
   :LOGBOOK:
+  - State "DONE"       from "TODO"       [2014-06-03 Tue 10:33]
   CLOCK: [2013-10-20 Sun 11:06]--[2013-10-20 Sun 11:07] =>  0:01
   :END:
   :PROPERTIES:
@@ -2421,7 +2427,7 @@ Felicita Park
 - The three body problem is chatoic! How can we hope to understand complex systems when three bodies is too much!
 
 **** TODO Missing connections
-  SCHEDULED: <2014-06-01 Sun>
+  SCHEDULED: <2014-06-30 Mon>
   :LOGBOOK:
   CLOCK: [2014-04-03 Thu 09:54]--[2014-04-03 Thu 09:58] =>  0:04
   :END:
@@ -2457,7 +2463,7 @@ What is it? How do we get a handle on it? How do we reduce it from say the cause
 ** Blogging
 *** With Mark
 **** TODO Start Blog with Mark
-  SCHEDULED: <2014-06-01 Sun>
+  SCHEDULED: <2014-06-30 Mon>
 [2014-05-04 Sun 15:58]
 * Farming							    :FARMING:
   :PROPERTIES:
