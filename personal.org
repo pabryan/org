@@ -1025,9 +1025,10 @@ http://tedxbellingham.com/
 <2013-12-16 Mon>
 ** Equipment
 *** Shoes
-**** WAITING Return xero shoes
+**** DONE Return xero shoes
   SCHEDULED: <2014-06-01 Sun>
   :LOGBOOK:
+  - State "DONE"       from "WAITING"    [2014-06-05 Thu 09:54]
   - State "WAITING"    from "TODO"       [2014-05-06 Tue 11:05] \\
     Waiting for shipping label to return shoes.
   CLOCK: [2014-05-02 Fri 12:52]--[2014-05-02 Fri 12:53] =>  0:01
@@ -2518,9 +2519,11 @@ sip:pabryan@sip.linphone.org
 http://www.inum.net/
 **** eKiga
 sip:pabryan@ekiga.net
-** WAITING Return usb charger
+** NEXT Return usb charger
   SCHEDULED: <2014-06-01 Sun>
   :LOGBOOK:
+  - State "NEXT"       from "WAITING"    [2014-06-05 Thu 09:54] \\
+    Need to call with credit card for shipping.
   - State "WAITING"    from "TODO"       [2014-05-06 Tue 11:12] \\
     Sent email to supplier requesting replacement. Waiting response.
   :END:
