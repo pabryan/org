@@ -771,6 +771,8 @@ Classification of compact convex ancient solutions of the planar affine normal f
 ***** Notes
 CR-8403 - "Curvature contraction of convex hypersurfaces by nonsmooth speeds by B. Andrews , A. Holder , J. McCoy, G. Wheeler , V-M Wheeler and G.  Williams
 [[file:~/reference/academic/journals/referee/CR-8403/CR-8403.pdf]]
+[[file:~/working/academic/journals/referee/crelle/curvature_contraction_of_convex_hypersurfaces_by_nonsmooth_speeds]]
+
 ***** Tasks
 ****** DONE Skim through paper
        :LOGBOOK:
@@ -792,11 +794,15 @@ CR-8403 - "Curvature contraction of convex hypersurfaces by nonsmooth speeds by 
 	:END:
 ******* NEXT Write notes on Sec 6
 	:LOGBOOK:
+	CLOCK: [2014-06-05 Thu 12:10]--[2014-06-05 Thu 12:11] =>  0:01
 	CLOCK: [2014-06-05 Thu 10:52]--[2014-06-05 Thu 11:09] =>  0:17
 	CLOCK: [2014-06-02 Mon 18:55]--[2014-06-02 Mon 19:19] =>  0:24
 	:END:
 ****** NEXT Compile report
        DEADLINE: <2014-06-15 Sun>
+       :LOGBOOK:
+       CLOCK: [2014-06-05 Thu 12:11]--[2014-06-05 Thu 12:58] =>  0:47
+       :END:
 ** Discussion
 *** Selected Papers
 **** Tasks
