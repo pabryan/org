@@ -766,21 +766,11 @@ Classification of compact convex ancient solutions of the planar affine normal f
        CLOCK: [2014-05-23 Fri 12:04]--[2014-05-23 Fri 12:15] =>  0:11
        :END:
 *** Working
-**** TODO Referee CR-8403					      :FOCUS:
-#+BEGIN: clocktable :maxlevel 6 :scope subtree
-#+CAPTION: Clock summary at [2014-06-06 Fri 12:41]
-| Headline                                | Time   |   |   |      |      |      |
-|-----------------------------------------+--------+---+---+------+------+------|
-| *Total time*                            | *5:06* |   |   |      |      |      |
-|-----------------------------------------+--------+---+---+------+------+------|
-| \________ TODO Referee CR-8403          |        |   |   | 5:06 |      |      |
-| \___________ Tasks                      |        |   |   |      | 5:06 |      |
-| \______________ DONE Skim through paper |        |   |   |      |      | 0:27 |
-| \______________ DONE Write notes        |        |   |   |      |      | 1:28 |
-| \______________ DONE Compile report     |        |   |   |      |      | 3:11 |
-#+END:
-
+**** DONE Referee CR-8403					      :FOCUS:
      SCHEDULED: <2014-03-28 Fri>
+     :LOGBOOK:
+     - State "DONE"       from "TODO"       [2014-06-06 Fri 14:43]
+     :END:
 ***** Notes
 CR-8403 - "Curvature contraction of convex hypersurfaces by nonsmooth speeds by B. Andrews , A. Holder , J. McCoy, G. Wheeler , V-M Wheeler and G.  Williams
 [[file:~/reference/academic/journals/referee/CR-8403/CR-8403.pdf]]
@@ -835,6 +825,20 @@ CR-8403 - "Curvature contraction of convex hypersurfaces by nonsmooth speeds by 
        CLOCK: [2014-06-05 Thu 14:07]--[2014-06-05 Thu 15:00] =>  0:53
        CLOCK: [2014-06-05 Thu 12:11]--[2014-06-05 Thu 12:58] =>  0:47
        :END:
+***** Clock report
+#+BEGIN: clocktable :maxlevel 6 :scope tree4
+#+CAPTION: Clock summary at [2014-06-06 Fri 14:42]
+| Headline                                | Time   |   |   |      |      |      |
+|-----------------------------------------+--------+---+---+------+------+------|
+| *Total time*                            | *5:06* |   |   |      |      |      |
+|-----------------------------------------+--------+---+---+------+------+------|
+| \________ TODO Referee CR-8403          |        |   |   | 5:06 |      |      |
+| \___________ Tasks                      |        |   |   |      | 5:06 |      |
+| \______________ DONE Skim through paper |        |   |   |      |      | 0:27 |
+| \______________ DONE Write notes        |        |   |   |      |      | 1:28 |
+| \______________ DONE Compile report     |        |   |   |      |      | 3:11 |
+#+END:
+
 ** Discussion
 *** Selected Papers
 **** Tasks
@@ -1083,13 +1087,16 @@ That is, Ben and Janelle have proven the backward convergence, and to finish we 
 	- State "DONE"       from "NEXT"       [2014-04-02 Wed 14:25]
 	CLOCK: [2014-02-28 Fri 15:35]--[2014-02-28 Fri 15:53] =>  0:18
 	:END:
-******* DONE Write details of convergence to equator
+******* NEXT Write details of convergence to equator
 	:LOGBOOK:
+	- State "NEXT"       from "DONE"       [2014-06-06 Fri 15:18] //
+	  Reopened since convergence may be only sub-sequential.
 	- State "DONE"       from "TODO"       [2014-04-02 Wed 14:25]
 	:END:
 ******* NEXT Write convergence to a graph
-******* TODO Write details of Alexandrov reflection
+******* DONE Write details of Alexandrov reflection
 	:LOGBOOK:
+	- State "DONE"       from "TODO"       [2014-06-06 Fri 15:17]
 	CLOCK: [2014-04-02 Wed 14:33]--[2014-04-02 Wed 16:14] =>  1:41
 	CLOCK: [2014-04-02 Wed 14:26]--[2014-04-02 Wed 14:32] =>  0:06
 	:END:
@@ -1111,8 +1118,10 @@ Given $X$ in the equator, let $\rho_{\alpha}(X)$ be the infimum of the lengths o
 	 CLOCK: [2014-04-12 Sat 19:28]--[2014-04-12 Sat 19:59] =>  0:31
 	 CLOCK: [2014-04-02 Wed 23:32]--[2014-04-03 Thu 00:20] =>  0:48
 	 :END:
-******** NEXT Write Approximate symmetry preserved
+******** DONE Write Approximate symmetry preserved
 	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2014-06-06 Fri 15:17]
+	 CLOCK: [2014-06-06 Fri 14:46]--[2014-06-06 Fri 15:17] =>  0:31
 	 - State "NEXT"       from "DONE"       [2014-06-05 Thu 10:03] \\
 	   Reopened since max principle arg was a little iffy.
 	 CLOCK: [2014-06-05 Thu 10:02]--[2014-06-05 Thu 10:52] =>  0:50
