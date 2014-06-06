@@ -1036,7 +1036,7 @@ http://tedxbellingham.com/
 [2014-05-02 Fri 12:52]
 ** Day to day
 *** TODO Sweat control
-  SCHEDULED: <2014-06-01 Sun>
+  SCHEDULED: <2014-06-16 Mon>
   :LOGBOOK:
   CLOCK: [2014-05-23 Fri 09:43]--[2014-05-23 Fri 09:44] =>  0:01
   :END:
@@ -2519,9 +2519,10 @@ sip:pabryan@sip.linphone.org
 http://www.inum.net/
 **** eKiga
 sip:pabryan@ekiga.net
-** NEXT Return usb charger
+** DONE Return usb charger
   SCHEDULED: <2014-06-01 Sun>
   :LOGBOOK:
+  - State "DONE"       from "NEXT"       [2014-06-06 Fri 10:25]
   - State "NEXT"       from "WAITING"    [2014-06-05 Thu 09:54] \\
     Need to call with credit card for shipping.
   - State "WAITING"    from "TODO"       [2014-05-06 Tue 11:12] \\

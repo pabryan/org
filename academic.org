@@ -767,6 +767,19 @@ Classification of compact convex ancient solutions of the planar affine normal f
        :END:
 *** Working
 **** TODO Referee CR-8403					      :FOCUS:
+#+BEGIN: clocktable :maxlevel 6 :scope subtree
+#+CAPTION: Clock summary at [2014-06-06 Fri 12:41]
+| Headline                                | Time   |   |   |      |      |      |
+|-----------------------------------------+--------+---+---+------+------+------|
+| *Total time*                            | *5:06* |   |   |      |      |      |
+|-----------------------------------------+--------+---+---+------+------+------|
+| \________ TODO Referee CR-8403          |        |   |   | 5:06 |      |      |
+| \___________ Tasks                      |        |   |   |      | 5:06 |      |
+| \______________ DONE Skim through paper |        |   |   |      |      | 0:27 |
+| \______________ DONE Write notes        |        |   |   |      |      | 1:28 |
+| \______________ DONE Compile report     |        |   |   |      |      | 3:11 |
+#+END:
+
      SCHEDULED: <2014-03-28 Fri>
 ***** Notes
 CR-8403 - "Curvature contraction of convex hypersurfaces by nonsmooth speeds by B. Andrews , A. Holder , J. McCoy, G. Wheeler , V-M Wheeler and G.  Williams
@@ -813,9 +826,12 @@ CR-8403 - "Curvature contraction of convex hypersurfaces by nonsmooth speeds by 
 	CLOCK: [2014-06-05 Thu 10:52]--[2014-06-05 Thu 11:09] =>  0:17
 	CLOCK: [2014-06-02 Mon 18:55]--[2014-06-02 Mon 19:19] =>  0:24
 	:END:
-****** NEXT Compile report
+****** DONE Compile report
        DEADLINE: <2014-06-15 Sun>
        :LOGBOOK:
+       - State "DONE"       from "NEXT"       [2014-06-06 Fri 12:39]
+       CLOCK: [2014-06-06 Fri 11:51]--[2014-06-06 Fri 12:39] =>  0:48
+       CLOCK: [2014-06-06 Fri 10:27]--[2014-06-06 Fri 11:10] =>  0:43
        CLOCK: [2014-06-05 Thu 14:07]--[2014-06-05 Thu 15:00] =>  0:53
        CLOCK: [2014-06-05 Thu 12:11]--[2014-06-05 Thu 12:58] =>  0:47
        :END:
@@ -5103,8 +5119,11 @@ http://geometry.ugr.es/
 **** TODO Uppsala
 http://www.uu.se/en/jobs/?positionId=32145
 ***** Tasks
-****** NEXT Investigate Uppsala jobs
+****** DONE Investigate Uppsala jobs
        SCHEDULED: <2014-06-01 Sun>
+       :LOGBOOK:
+       - State "DONE"       from "NEXT"       [2014-06-06 Fri 10:25]
+       :END:
 
 **** TODO DTU
 http://www.uu.se/en/jobs/?positionId=32145
@@ -5120,7 +5139,7 @@ http://www.dtu.dk/Job/job?id=171c797f-0619-4bd4-a855-8ff6c4990af7
 
 ** Tasks
 *** TODO Write research proposal/statement
-    SCHEDULED: <2014-06-01 Sun>
+    SCHEDULED: <2014-06-09 Mon>
 <2014-04-01 Tue>
 * Visiting
 ** TODO Tasks
