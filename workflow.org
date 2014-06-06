@@ -1837,7 +1837,7 @@ http://gmane.org
   :END:
 ** Organisation
   :LOGBOOK:
-  CLOCK: [2014-06-05 Thu 14:01]--[2014-06-05 Thu 14:07] =>  0:06
+  CLOCK: [2014-06-05 Thu 14:01]--[2014-06-05 Thu 19:35] =>  5:34
   CLOCK: [2014-06-05 Thu 12:04]--[2014-06-05 Thu 12:10] =>  0:06
   CLOCK: [2014-06-05 Thu 10:00]--[2014-06-05 Thu 10:02] =>  0:02
   CLOCK: [2014-06-04 Wed 18:03]--[2014-06-04 Wed 18:05] =>  0:02
@@ -3180,8 +3180,10 @@ Set some goals for the month. I should check someday projects for inclusion in t
 Check how I did last month. I guess the review and plan could probably go together. This is all broad stuff
 
 ** NEXT Daily Review [0/12]
-   SCHEDULED: <2014-06-05 Thu .+1d/2d>
+   SCHEDULED: <2014-06-06 Fri .+1d/2d>
    :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2014-06-05 Thu 19:40]
+   CLOCK: [2014-06-05 Thu 19:35]--[2014-06-05 Thu 19:40] =>  0:05
    - State "DONE"       from "NEXT"       [2014-06-04 Wed 18:07]
    CLOCK: [2014-06-04 Wed 18:05]--[2014-06-04 Wed 18:07] =>  0:02
    - State "DONE"       from "NEXT"       [2014-06-03 Tue 22:36]
@@ -3496,7 +3498,7 @@ Check how I did last month. I guess the review and plan could probably go togeth
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
    :ID:       616c5bd9-d941-4fcc-8874-2ff3c9e96b4a
-   :LAST_REPEAT: [2014-06-04 Wed 18:07]
+   :LAST_REPEAT: [2014-06-05 Thu 19:40]
    :END:
 
 What to review:
