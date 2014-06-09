@@ -586,6 +586,12 @@
 :END:
 [[papers:MR2538508][MR2538508-paper]]
 [[bib:MR2538508][MR2538508-bib]]
+***** Geometric aspects of {A}leksandrov reflection and gradient estimates for parabolic equations
+:PROPERTIES:
+:Custom_ID: MR1483984
+:END:
+[[papers:MR1483984][MR1483984-paper]]
+[[bib:MR1483984][MR1483984-bib]]
 **** 53C22 (1980-now) Geodesics [See also 58E10]
 ***** Shortening embedded curves
 :PROPERTIES:
@@ -1314,6 +1320,12 @@ Here I need to do some more work since $u \mapsto g(\grad u, \grad u)$ is not a 
 :END:
 [[papers:2012arXiv1209.5413B][2012arXiv1209.5413B-paper]]
 [[bib:2012arXiv1209.5413B][2012arXiv1209.5413B-bib]]
+*** Inverse mean curvature flows in the hyperbolic 3-space revisited
+:PROPERTIES:
+:Custom_ID: 2014arXiv1406.1768H
+:END:
+[[papers:2014arXiv1406.1768H][2014arXiv1406.1768H-paper]]
+[[bib:2014arXiv1406.1768H][2014arXiv1406.1768H-bib]]
 * Misc
   :PROPERTIES:
   :COLUMNS: %75ITEM %TAGS

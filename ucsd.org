@@ -8660,7 +8660,24 @@ Center 101
 - The topic will be ODE/dynamical systems
 <2014-05-05 Mon 10:00-11:00>
 **** Summer 2014 I
+***** TODO MATH20E
+****** Tasks
+******* TODO Plan Course
+******** NEXT Org structure
+	 SCHEDULED: <2014-06-16 Mon>
+
 **** Summer 2014 II
+***** TODO MATH20C
+****** Tasks
+******* TODO Plan Course
+******** NEXT Org structure
+	 SCHEDULED: <2014-07-21 Mon>
+
+***** TODO MATH20D
+****** Tasks
+******* TODO Plan Course
+******** NEXT Org structure
+	 SCHEDULED: <2014-07-21 Mon>
 
 ** Professional Development
 *** TODO Check out Center for Teaching Development
@@ -8912,7 +8929,7 @@ http://urp.ucsd.edu/
 	CLOCK: [2014-04-09 Wed 11:00]--[2014-04-09 Wed 12:59] =>  1:59
 	CLOCK: [2014-04-02 Wed 11:00]--[2014-04-02 Wed 12:56] =>  1:56
 	:END:
-<2014-04-02 Wed 11:00-13:00 +1w>
+<2014-04-02 Wed 11:00-13:00>
 ******** DG1
 	 :LOGBOOK:
 	 CLOCK: [2014-01-22 Wed 09:05]--[2014-01-22 Wed 11:05] =>  2:00
@@ -9062,7 +9079,7 @@ http://urp.ucsd.edu/
 	CLOCK: [2014-02-05 Wed 09:05]--[2014-02-05 Wed 10:15] =>  1:10
 	CLOCK: [2014-01-29 Wed 09:02]--[2014-01-29 Wed 09:56] =>  0:54
 	:END:
-	<2014-04-03 Thu 14:00-15:00 +1w>
+	<2014-04-03 Thu 14:00-15:00>
 
 ****** Clocking
 ****** Participants
@@ -9090,7 +9107,7 @@ http://urp.ucsd.edu/
 	  CLOCK: [2014-02-04 Tue 13:00]--[2014-02-04 Tue 14:24] =>  1:24
 	  CLOCK: [2014-01-28 Tue 13:02]--[2014-01-28 Tue 14:10] =>  1:08
 	  :END:
-<2014-04-03 Thu 12:30-14:00 +1w>
+<2014-04-03 Thu 12:30-14:00>
 ********* WDM
 	  :LOGBOOK:
 	  CLOCK: [2014-05-23 Fri 12:15]--[2014-05-23 Fri 14:05] =>  1:50

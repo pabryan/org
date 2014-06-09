@@ -1837,8 +1837,10 @@ http://gmane.org
   :END:
 ** Organisation
   :LOGBOOK:
+  CLOCK: [2014-06-09 Mon 12:09]
+  CLOCK: [2014-06-09 Mon 10:07]--[2014-06-09 Mon 10:09] =>  0:02
   CLOCK: [2014-06-06 Fri 10:26]--[2014-06-06 Fri 10:27] =>  0:01
-  CLOCK: [2014-06-05 Thu 14:01]--[2014-06-05 Thu 19:35] =>  5:34
+  CLOCK: [2014-06-05 Thu 14:01]--[2014-06-05 Thu 14:07] =>  0:06
   CLOCK: [2014-06-05 Thu 12:04]--[2014-06-05 Thu 12:10] =>  0:06
   CLOCK: [2014-06-05 Thu 10:00]--[2014-06-05 Thu 10:02] =>  0:02
   CLOCK: [2014-06-04 Wed 18:03]--[2014-06-04 Wed 18:05] =>  0:02
@@ -1848,7 +1850,6 @@ http://gmane.org
   CLOCK: [2014-06-03 Tue 10:37]--[2014-06-03 Tue 10:38] =>  0:01
   CLOCK: [2014-06-03 Tue 10:15]--[2014-06-03 Tue 10:17] =>  0:02
   CLOCK: [2014-06-02 Mon 15:33]--[2014-06-02 Mon 15:39] =>  0:06
-  CLOCK: [2014-06-02 Mon 09:37]--[2014-06-02 Mon 09:39] =>  0:02
   CLOCK: [2014-06-02 Mon 09:10]--[2014-06-02 Mon 09:12] =>  0:02
   CLOCK: [2014-05-29 Thu 10:23]--[2014-05-29 Thu 12:52] =>  2:29
   CLOCK: [2014-05-28 Wed 17:05]--[2014-05-28 Wed 17:17] =>  0:12
@@ -3522,8 +3523,10 @@ When I set up scoring the day:
 - [ ] Collate data such as sleep, weight, exercise, diet etc.
 
 ** NEXT Daily Plan [0/7]
-   SCHEDULED: <2014-06-08 Sun .+1d/2d>
+   SCHEDULED: <2014-06-10 Tue .+1d/2d>
    :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2014-06-09 Mon 10:11]
+   CLOCK: [2014-06-09 Mon 10:09]--[2014-06-09 Mon 10:11] =>  0:02
    - State "DONE"       from "NEXT"       [2014-06-07 Sat 11:46]
    CLOCK: [2014-06-07 Sat 11:34]--[2014-06-07 Sat 11:46] =>  0:12
    - State "DONE"       from "NEXT"       [2014-06-06 Fri 10:26]
@@ -3535,7 +3538,7 @@ When I set up scoring the day:
    - State "DONE"       from "NEXT"       [2014-06-03 Tue 10:37]
    CLOCK: [2014-06-03 Tue 10:17]--[2014-06-03 Tue 10:37] =>  0:20
    - State "DONE"       from "NEXT"       [2014-06-02 Mon 09:37]
-   CLOCK: [2014-06-02 Mon 09:12]--[2014-06-02 Mon 09:37] =>  0:25
+   CLOCK: [2014-06-02 Mon 09:12]--[2014-06-02 Mon 09:18] =>  0:06
    - State "DONE"       from "NEXT"       [2014-06-01 Sun 12:37]
    CLOCK: [2014-06-01 Sun 12:13]--[2014-06-01 Sun 12:37] =>  0:24
    - State "DONE"       from "NEXT"       [2014-05-30 Fri 11:56]
@@ -4152,7 +4155,7 @@ When I set up scoring the day:
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
    :ID:       ef051ee0-1113-4604-b355-450a5a47848b
-   :LAST_REPEAT: [2014-06-07 Sat 11:46]
+   :LAST_REPEAT: [2014-06-09 Mon 10:11]
    :LAST_REPEAT: [2014-01-25 Sat 12:49]
    :END:
 
@@ -4166,8 +4169,10 @@ When I set up scoring the day:
 - [ ] Record morning health stats
 
 ** NEXT Weekly Review [0/20]
-   SCHEDULED: <2014-06-09 Mon +1w>
+   SCHEDULED: <2014-06-16 Mon +1w>
    :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2014-06-09 Mon 12:09]
+   CLOCK: [2014-06-09 Mon 10:11]--[2014-06-09 Mon 12:09] =>  1:58
    - State "DONE"       from "NEXT"       [2014-06-02 Mon 17:47]
    CLOCK: [2014-06-02 Mon 15:39]--[2014-06-02 Mon 17:47] =>  2:08
    - State "DONE"       from "NEXT"       [2014-05-26 Mon 16:27]
@@ -4290,7 +4295,7 @@ When I set up scoring the day:
    :REPEAT_TO_STATE: NEXT
    :ID:       846c05fa-21d7-4e6f-8431-a1fa06631945
    :RESET_CHECK_BOXES: t
-   :LAST_REPEAT: [2014-06-02 Mon 17:47]
+   :LAST_REPEAT: [2014-06-09 Mon 12:09]
    :END:
 
 What to review:
@@ -4316,6 +4321,7 @@ What to review:
   - [ ] pocket
 - [ ] Plan the upcoming week
   - Theme you days: teaching, admin/service, research, students, writing
+  - [[file:daythemes.org][file:~/org/daythemes.org]]
 - [ ] Review focus projects 
 - [ ] Set focus
 - [ ] Check follow-up paper folder
