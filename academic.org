@@ -1089,7 +1089,7 @@ That is, Ben and Janelle have proven the backward convergence, and to finish we 
 	:END:
 ******* NEXT Write details of convergence to equator
 	:LOGBOOK:
-	CLOCK: [2014-06-09 Mon 19:09]
+	CLOCK: [2014-06-09 Mon 19:09]--[2014-06-09 Mon 20:30] =>  1:21
 	CLOCK: [2014-06-09 Mon 17:15]--[2014-06-09 Mon 18:19] =>  1:04
 	- State "NEXT"       from "DONE"       [2014-06-06 Fri 15:18] //
 	  Reopened since convergence may be only sub-sequential.
