@@ -1631,6 +1631,7 @@ Let $\xi(p_0, q_0) = 0$ if $\tang_{p_0}=\tang_{q_0}$ and $1$ otherwise. Then I c
 
 ******* NEXT Proof reading
 	:LOGBOOK:
+	CLOCK: [2014-06-11 Wed 12:12]--[2014-06-11 Wed 12:57] =>  0:45
 	CLOCK: [2014-06-10 Tue 18:57]--[2014-06-10 Tue 20:03] =>  1:06
 	CLOCK: [2014-04-19 Sat 12:50]--[2014-04-19 Sat 14:09] =>  1:19
 	CLOCK: [2014-02-12 Wed 15:16]--[2014-02-12 Wed 15:40] =>  0:24
