@@ -1089,13 +1089,17 @@ That is, Ben and Janelle have proven the backward convergence, and to finish we 
 	:END:
 ******* NEXT Write details of convergence to equator
 	:LOGBOOK:
+	CLOCK: [2014-06-10 Tue 14:55]--[2014-06-10 Tue 16:39] =>  1:44
 	CLOCK: [2014-06-09 Mon 19:09]--[2014-06-09 Mon 20:30] =>  1:21
 	CLOCK: [2014-06-09 Mon 17:15]--[2014-06-09 Mon 18:19] =>  1:04
 	- State "NEXT"       from "DONE"       [2014-06-06 Fri 15:18] //
 	  Reopened since convergence may be only sub-sequential.
 	- State "DONE"       from "TODO"       [2014-04-02 Wed 14:25]
 	:END:
-******* NEXT Write convergence to a graph
+******* DONE Write convergence to a graph
+	:LOGBOOK:
+	- State "DONE"       from "NEXT"       [2014-06-10 Tue 14:55]
+	:END:
 ******* DONE Write details of Alexandrov reflection
 	:LOGBOOK:
 	- State "DONE"       from "TODO"       [2014-06-06 Fri 15:17]
@@ -1627,6 +1631,7 @@ Let $\xi(p_0, q_0) = 0$ if $\tang_{p_0}=\tang_{q_0}$ and $1$ otherwise. Then I c
 
 ******* NEXT Proof reading
 	:LOGBOOK:
+	CLOCK: [2014-06-10 Tue 18:57]--[2014-06-10 Tue 20:03] =>  1:06
 	CLOCK: [2014-04-19 Sat 12:50]--[2014-04-19 Sat 14:09] =>  1:19
 	CLOCK: [2014-02-12 Wed 15:16]--[2014-02-12 Wed 15:40] =>  0:24
 	CLOCK: [2014-02-12 Wed 13:37]--[2014-02-12 Wed 14:01] =>  0:24
@@ -5002,7 +5007,10 @@ http://careers.stackoverflow.com/
       :ID:       1173019a-4896-4388-b68e-d84a40afb454
       :END:
 
-**** TODO Max Planck
+**** DONE Max Planck
+     :LOGBOOK:
+     - State "DONE"       from "TODO"       [2014-06-10 Tue 14:10]
+     :END:
 https://www.aei.mpg.de/31520/Job_vacancies
 **** TODO Warwick
 http://homepages.warwick.ac.uk/~maseq/jobs.html
@@ -5127,7 +5135,10 @@ http://geometry.ugr.es/
 - http://www.mathjobs.org/jobs/638/5729
 - Contact: Professor Joseph Grotowsk, +61-7-3365-3260, grotow@maths.uq.edu.au
 - application: [[file:~/working/academic/jobs/job_applications/495529_uq_2015]]
-**** TODO Uppsala
+**** DONE Uppsala
+     :LOGBOOK:
+     - State "DONE"       from "TODO"       [2014-06-10 Tue 13:35]
+     :END:
 http://www.uu.se/en/jobs/?positionId=32145
 ***** Tasks
 ****** DONE Investigate Uppsala jobs
@@ -5136,7 +5147,10 @@ http://www.uu.se/en/jobs/?positionId=32145
        - State "DONE"       from "NEXT"       [2014-06-06 Fri 10:25]
        :END:
 
-**** TODO DTU
+**** DONE DTU
+     :LOGBOOK:
+     - State "DONE"       from "TODO"       [2014-06-10 Tue 13:35]
+     :END:
 http://www.uu.se/en/jobs/?positionId=32145
 ***** Tasks
 ****** CANCELLED Investigate DTU
@@ -5148,10 +5162,49 @@ http://www.uu.se/en/jobs/?positionId=32145
 
 http://www.dtu.dk/Job/job?id=171c797f-0619-4bd4-a855-8ff6c4990af7
 
+**** TODO Freiburg
+***** Tasks
+****** DONE Compile application materials
+       :LOGBOOK:
+       - State "DONE"       from "NEXT"       [2014-06-10 Tue 14:09]
+       CLOCK: [2014-06-10 Tue 13:41]--[2014-06-10 Tue 13:46] =>  0:05
+       :END:
+- university certificates
+- transcripts
+- curriculum vitae
+- research statement 
+- list of publications 
+- letters of recommendation
+****** WAITING Submit application
+       :LOGBOOK:
+       - State "WAITING"    from "NEXT"       [2014-06-10 Tue 14:10] \\
+	 Waiting on response.
+       :END:
+
+
+****** TODO Remind Ben to send reference letter
+  :LOGBOOK:
+  CLOCK: [2014-06-10 Tue 14:17]--[2014-06-10 Tue 14:23] =>  0:06
+  :END:
+[2014-06-10 Tue 14:17]
+
+***** Notes
+http://www.uni-freiburg.de/administration/stellenboerse?erf=y&stellenid=8792&layout=v4&set_language=en
+[[file:~/reference/academic/jobs/2015/freiburg]]
+[[file:~/working/academic/jobs/job_applications/8792_freiburg]]
 ** Tasks
-*** TODO Write research proposal/statement
+*** DONE Write research proposal/statement
     SCHEDULED: <2014-06-09 Mon>
+    :LOGBOOK:
+    - State "DONE"       from "NEXT"       [2014-06-10 Tue 13:53]
+    CLOCK: [2014-06-10 Tue 13:46]--[2014-06-10 Tue 13:53] =>  0:07
+    :END:
 <2014-04-01 Tue>
+*** DONE Write list of publications
+    :LOGBOOK:
+    - State "DONE"       from "NEXT"       [2014-06-10 Tue 14:09]
+    CLOCK: [2014-06-10 Tue 13:53]--[2014-06-10 Tue 14:09] =>  0:16
+    :END:
 * Visiting
 ** TODO Tasks
 ** People
