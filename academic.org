@@ -1555,6 +1555,7 @@ This requires an estimate of $\int k f(k)$ analogous to Holder's for CSF where $
 ******** NEXT Try similarity soln as in CSF case
 	 SCHEDULED: <2014-09-01 Mon>
 	:LOGBOOK:
+	CLOCK: [2014-06-12 Thu 19:21]--[2014-06-12 Thu 22:00] =>  2:39
 	CLOCK: [2014-04-09 Wed 14:00]--[2014-04-09 Wed 16:10] =>  2:10
 	CLOCK: [2013-07-22 Mon 19:30]--[2013-07-22 Mon 20:30] =>  1:00
 	CLOCK: [2013-07-20 Sat 18:40]--[2013-07-20 Sat 21:05] =>  2:25
