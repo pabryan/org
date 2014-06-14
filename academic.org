@@ -1156,8 +1156,10 @@ Given $X$ in the equator, let $\rho_{\alpha}(X)$ be the infimum of the lengths o
 	:LOGBOOK:
 	- State "DONE"       from "NEXT"       [2014-04-02 Wed 14:25]
 	:END:
-******* NEXT Write introduction
+******* DONE Write introduction
 	:LOGBOOK:
+	- State "DONE"       from "NEXT"       [2014-06-13 Fri 10:16]
+	CLOCK: [2014-06-13 Fri 09:58]--[2014-06-13 Fri 10:16] =>  0:18
 	CLOCK: [2014-04-15 Tue 12:44]--[2014-04-15 Tue 15:49] =>  3:05
 	CLOCK: [2014-04-15 Tue 09:42]--[2014-04-15 Tue 10:09] =>  0:27
 	:END:
@@ -1165,15 +1167,19 @@ Given $X$ in the equator, let $\rho_{\alpha}(X)$ be the infimum of the lengths o
 	:LOGBOOK:
 	- State "DONE"       from "NEXT"       [2014-04-02 Wed 14:26]
 	:END:
-******* NEXT Created titled reflection figure
+******* DONE Created titled reflection figure
 	:LOGBOOK:
+	- State "DONE"       from "NEXT"       [2014-06-13 Fri 09:41]
 	CLOCK: [2014-04-16 Wed 13:48]--[2014-04-16 Wed 14:10] =>  0:22
 	CLOCK: [2014-04-15 Tue 17:50]--[2014-04-15 Tue 19:06] =>  1:16
 	CLOCK: [2014-04-15 Tue 15:49]--[2014-04-15 Tue 16:26] =>  0:37
 	:END:
-******* NEXT Compile first draft
+******* NEXT Show that $L$ is bounded or $k$ decays exponentially
+******* DONE Compile first draft
 	 SCHEDULED: <2014-05-19 Mon>
 	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2014-06-13 Fri 11:14]
+	 CLOCK: [2014-06-13 Fri 09:41]--[2014-06-13 Fri 09:58] =>  0:17
 	 CLOCK: [2014-06-12 Thu 17:03]--[2014-06-12 Thu 18:19] =>  1:16
 	 :END:
 ******* TODO Produce final version
@@ -1555,6 +1561,9 @@ This requires an estimate of $\int k f(k)$ analogous to Holder's for CSF where $
 ******** NEXT Try similarity soln as in CSF case
 	 SCHEDULED: <2014-09-01 Mon>
 	:LOGBOOK:
+	CLOCK: [2014-06-13 Fri 18:48]--[2014-06-13 Fri 20:10] =>  1:22
+	CLOCK: [2014-06-13 Fri 16:05]--[2014-06-13 Fri 17:15] =>  1:10
+	CLOCK: [2014-06-13 Fri 11:32]--[2014-06-13 Fri 13:04] =>  1:32
 	CLOCK: [2014-06-12 Thu 19:21]--[2014-06-12 Thu 22:00] =>  2:39
 	CLOCK: [2014-04-09 Wed 14:00]--[2014-04-09 Wed 16:10] =>  2:10
 	CLOCK: [2013-07-22 Mon 19:30]--[2013-07-22 Mon 20:30] =>  1:00
@@ -1752,19 +1761,6 @@ This proves the inequality we need.  The remaining problem is to remove the symm
    :ID:       85f583ed-c9eb-4993-91e3-8cedf9945d1f
    :END:
 [[file:~/working/academic/research/csf_dist_comp_surfaces]]
-*** Future 							    :SOMEDAY:
-**** TODO Study non-smooth mean curvature flow, minimal surfaces via support fn
-     SCHEDULED: <2014-09-01 Mon>
-  :LOGBOOK:
-  CLOCK: [2013-10-19 Sat 15:33]--[2013-10-19 Sat 15:34] =>  0:01
-  :END:
-  :PROPERTIES:
-  :ID:       7fa8e994-7da5-4bf8-bae3-000740c3e966
-  :END:
-[2013-10-19 Sat 15:33]
-- Surely I can get something out of this? Maybe I can get regularity results? 
-- Also, high co-dimension should be interesting. The support function is the projection onto the normal bundle here.
-
 **** TODO Pipe Flows 						  :PIPE_FLOW:
    :PROPERTIES:
    :ID:       cf90c8f0-dc09-44d4-87d4-f7000acc2ba1
@@ -1804,7 +1800,6 @@ This proves the inequality we need.  The remaining problem is to remove the symm
        :ID:       c1250415-a95a-42ee-94cc-4bf6e967467e
        :END:
 ****** NEXT Compile work into org file
-       SCHEDULED: <2014-05-19 Mon>
        :PROPERTIES:
        :ID:       4f27c099-1b3f-44a1-b38d-394b791aabef
        :END:
@@ -1812,6 +1807,20 @@ This proves the inequality we need.  The remaining problem is to remove the symm
        SCHEDULED: <2014-06-01 Sun>
 ***** Notes
 ***** References
+
+*** Future 							    :SOMEDAY:
+**** TODO Study non-smooth mean curvature flow, minimal surfaces via support fn
+     SCHEDULED: <2014-09-01 Mon>
+  :LOGBOOK:
+  CLOCK: [2013-10-19 Sat 15:33]--[2013-10-19 Sat 15:34] =>  0:01
+  :END:
+  :PROPERTIES:
+  :ID:       7fa8e994-7da5-4bf8-bae3-000740c3e966
+  :END:
+[2013-10-19 Sat 15:33]
+- Surely I can get something out of this? Maybe I can get regularity results? 
+- Also, high co-dimension should be interesting. The support function is the projection onto the normal bundle here.
+
 **** TODO csf_networks					       :CSF_NETWORKS:
    :PROPERTIES:
    :ID:       1bc93b81-8423-4598-8297-f0b90aa39aa7
@@ -2785,7 +2794,6 @@ We would do it all in Minkowski space. I think the vector field gives the distan
        	:ID:       831b7f47-ac24-4779-a485-f627e289934a
        	:END:
 ****** TODO Compile existing content
-       SCHEDULED: <2014-05-19 Mon>
        :PROPERTIES:
        :ID:       95792719-f4e8-45ff-bf7c-7283c2a2dd2e
        :END:
