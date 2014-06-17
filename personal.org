@@ -1035,9 +1035,10 @@ http://tedxbellingham.com/
   :END:
 [2014-05-02 Fri 12:52]
 ** Day to day
-*** TODO Sweat control
+*** DONE Sweat control
   SCHEDULED: <2014-06-16 Mon>
   :LOGBOOK:
+  - State "DONE"       from "TODO"       [2014-06-16 Mon 12:15]
   CLOCK: [2014-05-23 Fri 09:43]--[2014-05-23 Fri 09:44] =>  0:01
   :END:
 [2014-05-23 Fri 09:43]
@@ -1684,7 +1685,13 @@ Vista/Bonsall Area
   :END:
 [2014-02-13 Thu 09:22]
 http://www.meetup.com/FamilyAdventuresinNature/events/161878532/
-
+*** Family Adventures in Nature
+**** Swami's Tidepooling
+http://www.meetup.com/FamilyAdventuresinNature/events/185805762/?gj=wc1d.2_e&a=wc1d.2_gnl&rv=wc1d.2_e&_af_eid=185805762&_af=event
+<2014-06-20 Fri 09:30> 
+**** EC Explorers: Lake Murray
+<2014-06-19 Thu 17:30-20:00>
+http://www.meetup.com/FamilyAdventuresinNature/events/180432172/?gj=wc1d.2_e&a=wc1d.2_gnl&rv=wc1d.2_e&_af_eid=180432172&_af=event
 ** Comicon
 *** Comicon 2013
    :PROPERTIES:
@@ -2079,8 +2086,11 @@ http://jorgenmodin.net/index_html/archive/2009/12/26/list-of-open-source-dlnaupn
 https://www.wizards.com/dnd/dndnext.aspx
 ** Entertainment mangement/system
 *** Media Files
-**** TODO Convert videos to mp4
+**** DONE Convert videos to mp4
      SCHEDULED: <2014-06-01 Sun>
+     :LOGBOOK:
+     - State "DONE"       from "TODO"       [2014-06-16 Mon 12:15]
+     :END:
      :PROPERTIES:
      :ID:       52661fff-81b4-4e8b-b710-3ffb492893d7
      :END:

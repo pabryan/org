@@ -3547,8 +3547,10 @@ When I set up scoring the day:
 - [ ] Collate data such as sleep, weight, exercise, diet etc.
 
 ** NEXT Daily Plan [0/7]
-   SCHEDULED: <2014-06-15 Sun .+1d/2d>
+   SCHEDULED: <2014-06-17 Tue .+1d/2d>
    :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2014-06-16 Mon 12:31]
+   CLOCK: [2014-06-16 Mon 12:08]--[2014-06-16 Mon 12:31] =>  0:23
    - State "DONE"       from "NEXT"       [2014-06-14 Sat 10:53]
    CLOCK: [2014-06-14 Sat 10:51]--[2014-06-14 Sat 10:53] =>  0:02
    - State "DONE"       from "NEXT"       [2014-06-13 Fri 09:36]
@@ -4189,7 +4191,7 @@ When I set up scoring the day:
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
    :ID:       ef051ee0-1113-4604-b355-450a5a47848b
-   :LAST_REPEAT: [2014-06-14 Sat 10:53]
+   :LAST_REPEAT: [2014-06-16 Mon 12:31]
    :LAST_REPEAT: [2014-01-25 Sat 12:49]
    :END:
 
@@ -4202,9 +4204,10 @@ When I set up scoring the day:
 - [ ] Do short tasks
 - [ ] Record morning health stats
 
-** NEXT Weekly Review [0/20]
+** NEXT Weekly Review [18/20]
    SCHEDULED: <2014-06-16 Mon +1w>
    :LOGBOOK:
+   CLOCK: [2014-06-16 Mon 12:31]--[2014-06-16 Mon 13:19] =>  0:48
    - State "DONE"       from "NEXT"       [2014-06-09 Mon 12:09]
    CLOCK: [2014-06-09 Mon 10:11]--[2014-06-09 Mon 12:09] =>  1:58
    - State "DONE"       from "NEXT"       [2014-06-02 Mon 17:47]
@@ -4334,41 +4337,41 @@ When I set up scoring the day:
 
 What to review:
 
-- [ ] Check holding directory
+- [X] Check holding directory
   [[file:~/holding]]
-- [ ] Check holding email folder
-- [ ] Review weekly agenda =F12 a w//=
-- [ ] Check clocking data for past week =v c=
+- [X] Check holding email folder
+- [X] Review weekly agenda =F12 a w//=
+- [X] Check clocking data for past week =v c=
   - fix up any errors
-- [ ] Review clock report for past week =R=
+- [X] Review clock report for past week =R=
   - Check where we spent time (too much or too little) and rectify this week
-- [ ] Look at entire agenda for today  =F12 SPC=
-- [ ] Check un-committed work
-- [ ] Refile tasks
-- [ ] Weekly clean up
-  - [ ] Clean up Downloads
-  - [ ] Clean up tmp
-  - [ ] Clean up tablet
-  - [ ] Clean up phone
-- [ ] Process incoming information
-  - [ ] feedly
-  - [ ] pocket
-- [ ] Plan the upcoming week
+- [X] Look at entire agenda for today  =F12 SPC=
+- [X] Check un-committed work
+- [X] Refile tasks
+- [X] Weekly clean up
+  - [X] Clean up Downloads
+  - [X] Clean up tmp
+  - [X] Clean up tablet
+  - [X] Clean up phone
+- [X] Process incoming information
+  - [X] feedly
+  - [X] pocket
+- [X] Plan the upcoming week
   - Theme you days: teaching, admin/service, research, students, writing
   - [[file:daythemes.org][file:~/org/daythemes.org]]
-- [ ] Review focus projects 
-- [ ] Set focus
+- [X] Review focus projects 
+- [X] Set focus
 - [ ] Check follow-up paper folder
 - [ ] Collate the weeks: pad scribbles, org-mode notes, phone notes, etc.
-- [ ] Check Finances
+- [X] Check Finances
   - Check bank accounts and compare with what's still to come
   - Plan the weeks budget
   - Update monthly transactions
-- [ ] Copy music to phone
-- [ ] Share photos on Google+
-- [ ] Update Abundant Harvest order
+- [X] Copy music to phone
+- [X] Share photos on Google+
+- [X] Update Abundant Harvest order
   - http://www.abundantharvestorganics.com/
-- [ ] Order meat
+- [X] Order meat
   - http://www.son-riseranchstore.com/
 
 ** NEXT Monthly (Quarterly?) Plan/Review [0/12]
