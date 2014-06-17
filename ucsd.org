@@ -142,239 +142,89 @@ Make homework due on Friday and have exam on Monday.
      :END:
 [2013-10-04 Fri 12:54]
 *** Template 					      		    :SOMEDAY:
-[[file:~/working/ucsd/teaching/<code>_<quarter]]
-***** Notes
-***** Tasks
-****** TODO Plan course
-       :PROPERTIES:
-       :ID:       301fa0e4-f41b-4d23-b974-90c98ef8c6c9
-       :END:
-******* NEXT Org structure
-	:PROPERTIES:
-	:ID:       cf9ebd8a-b7cb-4db0-b991-60995d23019b
-	:END:
+[[file:~/working/ucsd/teaching/<course-code>_<quarter>_<year]]
+****** Notes
+******* Discussions
+******** TA's
+******** Schedule
+****** Tasks
+******* TODO Plan course
+******** NEXT Org structure
 Lectures in calendar and tasks like planning lectures.
 
-******* NEXT Order Text Books
-	:PROPERTIES:
-	:ID:       cf2db503-e707-4990-88cb-c1a67d31b5dc
-	:END:
-****** TODO Exams
-       :PROPERTIES:
-       :ID:       58588ea6-cdf2-46fa-b45f-8739f121144a
-       :END:
-******* NEXT Create Exam Schedule
-	:PROPERTIES:
-	:ID:       b3626612-fac7-4c69-8ece-c6701857133a
-	:END:
-******* TODO Midterm 1
-	:PROPERTIES:
-	:ID:       3664bf25-1d84-4692-b7c7-595b3c19c5cd
-	:END:
-******** NEXT Write Midterm 1
-	 :PROPERTIES:
-	 :ID:       94c91742-e12d-4cc8-8c87-f9aba13a30fd
-	 :END:
-******** TODO Get TA's comments
-	 :PROPERTIES:
-	 :ID:       1b7745a6-5ef9-4a74-a1c3-8fa9b84a47e8
-	 :END:
-******** TODO Submit midterm to printing/frdesk
-	 :PROPERTIES:
-	 :ID:       db255dc7-1b9c-4849-bb3d-a7c72dbdc7ec
-	 :END:
-******** TODO Write MT 1 solutions
-	 :PROPERTIES:
-	 :ID:       afb18e0b-9094-4a84-9fb5-4653de077804
-	 :END:
-******* TODO Midterm 2
-	:PROPERTIES:
-	:ID:       ed4c8102-eed3-4be0-a210-afe42e3e30dc
-	:END:
-******** NEXT Write Midterm 2
-	 :PROPERTIES:
-	 :ID:       c09250e4-6db5-4b55-b28b-c7bea06df1a7
-	 :END:
-******** TODO Get TA's comments
-	 :PROPERTIES:
-	 :ID:       70e39068-e23b-4f5a-a682-2f0694c99cd2
-	 :END:
-******** TODO Submit midterm to printing/frdesk
-	 :PROPERTIES:
-	 :ID:       29a5ec0b-7908-4575-ae9d-81d077a40efa
-	 :END:
-******** TODO Write MT2 solutions
-	 :PROPERTIES:
-	 :ID:       93756cf2-eb38-4286-8fda-e91993321d58
-	 :END:
-******* TODO Final
-	:PROPERTIES:
-	:ID:       94cd990f-a7d8-4481-aa99-2108a813f264
-	:END:
-******** NEXT Write Final
-	 :PROPERTIES:
-	 :ID:       8d5d4499-6405-4ae4-a05e-808ffee7c0a1
-	 :END:
-******** TODO Get TA's comments
-	 :PROPERTIES:
-	 :ID:       0f81f9a1-adfe-441e-8cd7-008639aa9d9e
-	 :END:
-******** TODO Submit to printing/frdesk
-	 :PROPERTIES:
-	 :ID:       3e50e80e-a3cf-4671-99f3-cb26f438dc13
-	 :END:
-******** CANCELLED Write final solutions
-	 :LOGBOOK:
-	 - State "CANCELLED"  from "TODO"       [2013-09-03 Tue 10:43] \\
-	   No point!
-	 :END:
-	:PROPERTIES:
-	:ID:       080b484f-d512-4e33-b05c-e7ae72310396
-	:END:
-[2013-08-23 Fri 09:51]
-****** TODO Homework
-       :PROPERTIES:
-       :ID:       9ac51126-3ae4-4cae-8a49-29c83b04f848
-       :END:
-******* NEXT Write Homework 1
-	:PROPERTIES:
-	:ID:       e3e98392-fc35-4d71-a3c8-c2dbb6f5729a
-	:END:
-******* TODO Write Homework 2
-	:PROPERTIES:
-	:ID:       371c67e6-0266-4ffe-a0af-42344873b505
-	:END:
-******* TODO Write Homework 3
-	:PROPERTIES:
-	:ID:       1ccd4d07-7666-4692-9cbb-81cca144bccc
-	:END:
-******* TODO Write Homework 4
-	:PROPERTIES:
-	:ID:       cca245a6-acb9-4c4b-8eb9-9ee01a937bed
-	:END:
-******* TODO Write Homework 5
-	:PROPERTIES:
-	:ID:       99f41162-732f-4692-882f-50076e705363
-	:END:
-****** TODO Lectures
-       :PROPERTIES:
-       :ID:       4c63ad92-f7e9-45fa-9921-e8d8c2048c39
-       :END:
-******* NEXT Create Lecture Schedule
-	:PROPERTIES:
-	:ID:       cba17438-67c2-4595-b87a-bfae2a56522f
-	:END:
-******* TODO Prepare Lectures
-	:PROPERTIES:
-	:ID:       46a7ffd1-958e-4065-bd33-fe841926133e
-	:END:
-******** NEXT Prepare Lecture 1.1
-	 :PROPERTIES:
-	 :ID:       f85b8398-a921-404e-bc36-1afb8cc95161
-	 :END:
-******** TODO Prepare Lecture 1.2
-	 :PROPERTIES:
-	 :ID:       ad9d4972-4fcd-4748-a0f1-7c8050d03d1e
-	 :END:
-******** TODO Prepare Lecture 1.3
-	 :PROPERTIES:
-	 :ID:       0235163e-819b-4a48-997b-93fce842a9e8
-	 :END:
-******** TODO Prepare Lecture 2.1
-	 :PROPERTIES:
-	 :ID:       92376627-ae5f-46a9-91db-67d66b0a3c13
-	 :END:
-******** TODO Prepare Lecture 2.2
-	 :PROPERTIES:
-	 :ID:       5196e57b-7484-4ea6-8ca1-f806e888043b
-	 :END:
-******** TODO Prepare Lecture 2.3
-	 :PROPERTIES:
-	 :ID:       41e6a286-e0c8-4f8e-9db5-6f22f3fd2be0
-	 :END:
-******** TODO Prepare Lecture 3.1
-	 :PROPERTIES:
-	 :ID:       c880eb9e-070c-4778-ae69-050caed9e34e
-	 :END:
-******** TODO Prepare Lecture 3.2
-	 :PROPERTIES:
-	 :ID:       e584cf30-40e7-4e24-990d-2cf928fba785
-	 :END:
-******** TODO Prepare Lecture 3.3
-	 :PROPERTIES:
-	 :ID:       f305b285-61f4-4dd4-8893-fb08477c94fc
-	 :END:
-******** TODO Prepare Lecture 4.1
-	 :PROPERTIES:
-	 :ID:       694ff834-24da-46f9-ba72-fb7fd6cf8e25
-	 :END:
-******** TODO Prepare Lecture 4.2
-	 :PROPERTIES:
-	 :ID:       58789f77-3242-4479-bd22-f866813645d5
-	 :END:
-******** TODO Prepare Lecture 4.3
-	 :PROPERTIES:
-	 :ID:       3a86f8fd-20ed-48d2-9334-6faee82f25f5
-	 :END:
-******** TODO Prepare Lecture 5.1
-	 :PROPERTIES:
-	 :ID:       260af687-4dd5-43a9-b2c1-ca4b49fe9296
-	 :END:
-******** TODO Prepare Lecture 5.2
-	 :PROPERTIES:
-	 :ID:       f08c2f4b-7b5b-416a-aa0b-a77175b705aa
-	 :END:
-******** TODO Prepare Lecture 5.3
-	 :PROPERTIES:
-	 :ID:       fc227500-eee7-4737-884b-ad2d7793de42
-	 :END:
-****** TODO Website
-       :PROPERTIES:
-       :ID:       33f64e66-1e4a-4de0-bf9c-9ca496b675ad
-       :END:
-******* NEXT Make website
-	:PROPERTIES:
-	:ID:       e0ee5622-5fa3-4243-9cb1-6a722a5c230f
-	:END:
-****** TODO Grades
-       :PROPERTIES:
-       :ID:       32f96d85-f494-49a6-a4fc-d988cd370ebf
-       :END:
-******* NEXT Enter grades
-	:PROPERTIES:
-	:ID:       8b7fda19-4a74-4469-9b63-46cc47143eb2
-	:END:       
-****** TODO Misc
-       :PROPERTIES:
-       :ID:       1d5afc9b-1aa1-45dc-8b2f-876d822d74c2
-       :END:
-******* NEXT set up Ted for courses
-	:PROPERTIES:
-	:ID:       0377c427-87df-4af8-991f-85a3eb3b3272
-	:END:
-******* NEXT make course TA email groups
-	:PROPERTIES:
-	:ID:       e1f00efd-cbb4-4322-9ef8-69191faac0d6
-	:END:
-***** Clocking
-****** Admin
-****** Office hours
-***** Schedule
-****** Lectures
-******* Location
-******* Mon
-******* Wed
-******* Fri
-****** Exams
-******* Midterm 1
-******* Midterm 2
-******* Final
-****** Homework
-******* Homework 1 Due
-******* Homework 2 Due
-******* Homework 3 Due
-******* Homework 4 Due
-******* Homework 5 Due
+******** NEXT set up Ted for courses
+******** NEXT make course TA email groups
+******* TODO Lectures
+******** NEXT Create Lecture Schedule
+******** TODO Prepare Lectures
+********* NEXT Prepare Lecture 1.1
+********* TODO Prepare Lecture 1.2
+********* TODO Prepare Lecture 1.3
+********* TODO Prepare Lecture 2.1
+********* TODO Prepare Lecture 2.2
+********* TODO Prepare Lecture 2.3
+********* TODO Prepare Lecture 3.1
+********* TODO Prepare Lecture 3.2
+********* TODO Prepare Lecture 3.3
+********* TODO Prepare Lecture 4.1
+********* TODO Prepare Lecture 4.2
+********* TODO Prepare Lecture 4.3
+********* TODO Prepare Lecture 5.1
+********* TODO Prepare Lecture 5.2
+********* TODO Prepare Lecture 5.3
+******* TODO Exams
+******** NEXT Create Exam Schedule
+******** TODO Midterm 1
+********* NEXT Write Midterm 1
+********* TODO Get TA's comments
+********* TODO Submit midterm to printing/frdesk
+********* TODO Write MT 1 solutions
+******** TODO Midterm 2
+********* NEXT Write Midterm 2
+********* TODO Get TA's comments
+********* TODO Submit midterm to printing/frdesk
+********* TODO Write MT2 solutions
+******** TODO Final
+********* NEXT Write Final
+********* TODO Get TA's comments
+********* TODO Submit to printing/frdesk
+******* TODO Homework
+******** NEXT Write Homework 1
+******** TODO Write Homework 2
+******** TODO Write Homework 3
+******** TODO Write Homework 4
+******** TODO Write Homework 5
+******* TODO Website
+******** NEXT Make website
+******* TODO Grades
+******** NEXT Enter grades
+******* TODO Misc
+****** Clocking
+******* Admin
+******* Office hours
+****** Schedule
+******* Lectures
+******** Location
+******** Mon
+******** Wed
+******** Fri
+******* Exams
+******** Midterm 1
+******** Midterm 2
+******** Final
+******* Homework
+******** Homework 1 Due
+******** Homework 2 Due
+******** Homework 3 Due
+******** Homework 4 Due
+******** Homework 5 Due
+
+
+
+[[
+
+
+file:~/working/ucsd/teaching/<code>_<quarter]]
 *** 2012/2013
 **** Fall 2012
 ***** DONE MATH150A Fall 2012					   :MATH150A:
@@ -7463,7 +7313,11 @@ Lectures in calendar and tasks like planning lectures.
 	 :ID:       f7c57fbf-aa0c-41cc-a9fb-8f7b8e47e75a
 	 :END:
 
-******** TODO Incomplete grades
+******** HOLD Incomplete grades
+	 :LOGBOOK:
+	 - State "HOLD"       from "TODO"       [2014-06-17 Tue 10:28] \\
+	   Waiting on Evan to complete course.
+	 :END:
 ********* Evan Dowden
 - Incomplete. A08625040.
 ********** DONE Submit petition to change to incomplete
@@ -8661,23 +8515,152 @@ Center 101
 <2014-05-05 Mon 10:00-11:00>
 **** Summer 2014 I
 ***** TODO MATH20E
+[[file:~/working/ucsd/teaching/math20e_summer1_2014]]
+****** Notes
+******* Discussions
+******** TA's
+******** Schedule
+********* A01	
+TuTh	1:00p - 1:50p	SEQUO	147	Bryan, Paul Anthony
+********* A02
+TuTh	11:00a - 11:50a	SEQUO	147	Bryan, Paul Anthony
+********* A03
+TuTh	12:00p - 12:50p	SEQUO	147	Bryan, Paul Anthony
 ****** Tasks
-******* TODO Plan Course
-******** NEXT Org structure
+******* TODO Plan course
+******** DONE Org structure
 	 SCHEDULED: <2014-06-16 Mon>
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2014-06-17 Tue 11:17]
+	 CLOCK: [2014-06-17 Tue 10:27]--[2014-06-17 Tue 11:17]
+	 :END:
 
+Lectures in calendar and tasks like planning lectures.
+
+******** DONE set up Ted for courses
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2014-06-17 Tue 10:49]
+	 :END:
+******** NEXT make course TA email groups
+
+******* TODO Lectures
+******** NEXT Create Lecture Schedule
+******** TODO Prepare Lectures
+********* NEXT Prepare Lecture 1.1
+********* TODO Prepare Lecture 1.2
+********* TODO Prepare Lecture 1.3
+********* TODO Prepare Lecture 2.1
+********* TODO Prepare Lecture 2.2
+********* TODO Prepare Lecture 2.3
+********* TODO Prepare Lecture 3.1
+********* TODO Prepare Lecture 3.2
+********* TODO Prepare Lecture 3.3
+********* TODO Prepare Lecture 4.1
+********* TODO Prepare Lecture 4.2
+********* TODO Prepare Lecture 4.3
+********* TODO Prepare Lecture 5.1
+********* TODO Prepare Lecture 5.2
+********* TODO Prepare Lecture 5.3
+******* TODO Exams
+******** NEXT Create Exam Schedule
+******** TODO Midterm 1
+********* NEXT Write Midterm 1
+********* TODO Get TA's comments
+********* TODO Submit midterm to printing/frdesk
+********* TODO Write MT 1 solutions
+******** TODO Midterm 2
+********* NEXT Write Midterm 2
+********* TODO Get TA's comments
+********* TODO Submit midterm to printing/frdesk
+********* TODO Write MT2 solutions
+******** TODO Final
+********* NEXT Write Final
+********* TODO Get TA's comments
+********* TODO Submit to printing/frdesk
+******* TODO Homework
+******** NEXT Write Homework 1
+******** TODO Write Homework 2
+******** TODO Write Homework 3
+******** TODO Write Homework 4
+******** TODO Write Homework 5
+******* TODO Website
+******** NEXT Make website
+******* TODO Grades
+******** NEXT Enter grades
+******* TODO Misc
+****** Clocking
+******* Admin
+******* Office hours
+****** Schedule
+******* Lectures
+******** Location
+HSS 1330
+******** Mon
+********* Lecture 1.1
+<2014-06-30 Mon 09:30-11:00>
+********* Lecture 2.1
+<2014-07-07 Mon 09:30-11:00>
+********* Lecture 3.1
+<2014-07-14 Mon 09:30-11:00>
+********* Lecture 4.1
+<2014-07-21 Mon 09:30-11:00>
+********* Lecture 5.1
+<2014-07-28 Mon 09:30-11:00>
+******** Tue
+********* Lecture 1.2
+<2014-07-01 Tue 09:30-11:00>
+********* Lecture 2.2
+<2014-07-08 Tue 09:30-11:00>
+********* Lecture 3.2
+<2014-07-15 Tue 09:30-11:00>
+********* Lecture 4.2
+<2014-07-22 Tue 09:30-11:00>
+********* Lecture 5.2
+<2014-07-29 Tue 09:30-11:00>
+******** Wed
+********* Lecture 1.3
+<2014-07-02 Wed 09:30-11:00>
+********* Lecture 2.3
+<2014-07-09 Wed 09:30-11:00>
+********* Lecture 3.3
+<2014-07-16 Wed 09:30-11:00>
+********* Lecture 4.3
+<2014-07-23 Wed 09:30-11:00>
+********* Lecture 5.3
+<2014-07-30 Wed 09:30-11:00>
+******** Thu
+********* Lecture 1.4
+<2014-07-03 Thu 09:30-11:00>
+********* Lecture 2.4
+<2014-07-10 Thu 09:30-11:00>
+********* Lecture 3.4
+<2014-07-17 Thu 09:30-11:00>
+********* Lecture 4.4
+<2014-07-24 Thu 09:30-11:00>
+********* Lecture 5.4
+<2014-07-31 Thu 09:30-11:00>
+******* Exams
+******** Midterm 1
+******** Midterm 2
+******** Final
+******* Homework
+******** Homework 1 Due
+******** Homework 2 Due
+******** Homework 3 Due
+******** Homework 4 Due
+******** Homework 5 Due
 **** Summer 2014 II
-***** TODO MATH20C
-****** Tasks
-******* TODO Plan Course
-******** NEXT Org structure
-	 SCHEDULED: <2014-07-21 Mon>
+******* TODO MATH20C
+******** Tasks
+********* TODO Plan Course
+********** NEXT Org structure
+	   SCHEDULED: <2014-07-21 Mon>
 
-***** TODO MATH20D
-****** Tasks
-******* TODO Plan Course
-******** NEXT Org structure
-	 SCHEDULED: <2014-07-21 Mon>
+******* TODO MATH20D
+******** Tasks
+********* TODO Plan Course
+********** NEXT Org structure
+	   SCHEDULED: <2014-07-21 Mon>
 
 ** Professional Development
 *** TODO Check out Center for Teaching Development
