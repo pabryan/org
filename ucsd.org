@@ -8543,6 +8543,8 @@ Lectures in calendar and tasks like planning lectures.
 	 :END:
 ******** NEXT make course TA email groups
 
+******** NEXT Schedule Tasks
+	 SCHEDULED: <2014-06-17 Tue>
 ******* TODO Lectures
 ******** DONE Create Lecture Schedule
 	 :LOGBOOK:
@@ -8594,14 +8596,18 @@ Lectures in calendar and tasks like planning lectures.
 ******** TODO Write Homework 4
 ******** TODO Write Homework 5
 ******* TODO Website
+	:LOGBOOK:
+	CLOCK: [2014-06-17 Tue 15:53]--[2014-06-17 Tue 15:54] =>  0:01
+	:END:
 ******** DONE Make website
 	 :LOGBOOK:
 	 - State "DONE"       from "NEXT"       [2014-06-17 Tue 15:32]
 	 CLOCK: [2014-06-17 Tue 12:39]--[2014-06-17 Tue 13:01] =>  0:22
 	 :END:
-******** NEXT Publish website
+******** DONE Publish website
 	 :LOGBOOK:
-	 CLOCK: [2014-06-17 Tue 15:32]
+	 - State "DONE"       from "NEXT"       [2014-06-17 Tue 15:53]
+	 CLOCK: [2014-06-17 Tue 15:32]--[2014-06-17 Tue 15:53] =>  0:21
 	 :END:
 ******* TODO Grades
 ******** NEXT Enter grades
