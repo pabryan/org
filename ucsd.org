@@ -8546,6 +8546,7 @@ Lectures in calendar and tasks like planning lectures.
 ******* TODO Lectures
 ******** NEXT Create Lecture Schedule
 	 :LOGBOOK:
+	 CLOCK: [2014-06-17 Tue 13:01]
 	 CLOCK: [2014-06-17 Tue 12:24]--[2014-06-17 Tue 12:39] =>  0:15
 	 :END:
 ******** TODO Prepare Lectures
@@ -8589,7 +8590,7 @@ Lectures in calendar and tasks like planning lectures.
 ******* TODO Website
 ******** NEXT Make website
 	 :LOGBOOK:
-	 CLOCK: [2014-06-17 Tue 12:39]
+	 CLOCK: [2014-06-17 Tue 12:39]--[2014-06-17 Tue 13:01] =>  0:22
 	 :END:
 ******* TODO Grades
 ******** NEXT Enter grades
