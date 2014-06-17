@@ -8515,17 +8515,17 @@ Center 101
 <2014-05-05 Mon 10:00-11:00>
 **** Summer 2014 I
 ***** TODO MATH20E
-[[file:~/working/ucsd/teaching/math20e_summer1_2014]]
+[[file:~/working/ucsd/teaching/2014/summer1/math20e_summer1_2014]]
 ****** Notes
 ******* Discussions
 ******** TA's
 ******** Schedule
-********* A01	
-TuTh	1:00p - 1:50p	SEQUO	147	Bryan, Paul Anthony
+********* A01
+A01 TuTh, 1:00p - 1:50p, SEQUO 147
 ********* A02
-TuTh	11:00a - 11:50a	SEQUO	147	Bryan, Paul Anthony
+A02 TuTh, 11:00a - 11:50a, SEQUO 147
 ********* A03
-TuTh	12:00p - 12:50p	SEQUO	147	Bryan, Paul Anthony
+TuTh, 12:00p - 12:50p, SEQUO 147
 ****** Tasks
 ******* TODO Plan course
 ******** DONE Org structure
@@ -8545,6 +8545,9 @@ Lectures in calendar and tasks like planning lectures.
 
 ******* TODO Lectures
 ******** NEXT Create Lecture Schedule
+	 :LOGBOOK:
+	 CLOCK: [2014-06-17 Tue 12:24]--[2014-06-17 Tue 12:39] =>  0:15
+	 :END:
 ******** TODO Prepare Lectures
 ********* NEXT Prepare Lecture 1.1
 ********* TODO Prepare Lecture 1.2
@@ -8585,6 +8588,9 @@ Lectures in calendar and tasks like planning lectures.
 ******** TODO Write Homework 5
 ******* TODO Website
 ******** NEXT Make website
+	 :LOGBOOK:
+	 CLOCK: [2014-06-17 Tue 12:39]
+	 :END:
 ******* TODO Grades
 ******** NEXT Enter grades
 ******* TODO Misc
