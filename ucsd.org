@@ -8544,9 +8544,10 @@ Lectures in calendar and tasks like planning lectures.
 ******** NEXT make course TA email groups
 
 ******* TODO Lectures
-******** NEXT Create Lecture Schedule
+******** DONE Create Lecture Schedule
 	 :LOGBOOK:
-	 CLOCK: [2014-06-17 Tue 14:36]
+	 - State "DONE"       from "NEXT"       [2014-06-17 Tue 15:02]
+	 CLOCK: [2014-06-17 Tue 14:36]--[2014-06-17 Tue 15:02] =>  0:26
 	 CLOCK: [2014-06-17 Tue 13:01]--[2014-06-17 Tue 13:30] =>  0:29
 	 CLOCK: [2014-06-17 Tue 12:24]--[2014-06-17 Tue 12:39] =>  0:15
 	 :END:
@@ -8567,7 +8568,11 @@ Lectures in calendar and tasks like planning lectures.
 ********* TODO Prepare Lecture 5.2
 ********* TODO Prepare Lecture 5.3
 ******* TODO Exams
-******** NEXT Create Exam Schedule
+******** DONE Create Exam Schedule
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2014-06-17 Tue 15:32]
+	 CLOCK: [2014-06-17 Tue 15:02]--[2014-06-17 Tue 15:32] =>  0:30
+	 :END:
 ******** TODO Midterm 1
 ********* NEXT Write Midterm 1
 ********* TODO Get TA's comments
@@ -8589,9 +8594,14 @@ Lectures in calendar and tasks like planning lectures.
 ******** TODO Write Homework 4
 ******** TODO Write Homework 5
 ******* TODO Website
-******** NEXT Make website
+******** DONE Make website
 	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2014-06-17 Tue 15:32]
 	 CLOCK: [2014-06-17 Tue 12:39]--[2014-06-17 Tue 13:01] =>  0:22
+	 :END:
+******** NEXT Publish website
+	 :LOGBOOK:
+	 CLOCK: [2014-06-17 Tue 15:32]
 	 :END:
 ******* TODO Grades
 ******** NEXT Enter grades
