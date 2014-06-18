@@ -8566,7 +8566,12 @@ Lectures in calendar and tasks like planning lectures.
 	 :END:
 ******** TODO Prepare Lectures
 ********* TODO Week 1
-********** NEXT Prepare Lecture 1.1
+********** NEXT Prepare outline 1
+	   DEADLINE: <2014-06-25 Wed>
+	   :LOGBOOK:
+	   CLOCK: [2014-06-18 Wed 13:27]
+	   :END:
+********** TODO Prepare Lecture 1.1
 	   DEADLINE: <2014-06-30 Mon>
 ********** TODO Prepare Lecture 1.2
 	   DEADLINE: <2014-07-01 Tue>
@@ -8575,6 +8580,8 @@ Lectures in calendar and tasks like planning lectures.
 ********** TODO Prepare Lecture 1.4
 	   DEADLINE: <2014-07-03 Thu>
 ********* TODO Week 2
+********** NEXT Prepare outline 2
+	   DEADLINE: <2014-06-30 Mon>
 ********** TODO Prepare Lecture 2.1
 	   DEADLINE: <2014-07-07 Mon>
 
@@ -8591,6 +8598,8 @@ Lectures in calendar and tasks like planning lectures.
 	   DEADLINE: <2014-07-11 Fri>
 
 ********* TODO Week 3
+********** NEXT Prepare outline 3
+	   DEADLINE: <2014-07-07 Mon>
 ********** TODO Prepare Lecture 3.1
 	   DEADLINE: <2014-07-14 Mon>
 
@@ -8607,6 +8616,8 @@ Lectures in calendar and tasks like planning lectures.
 	   DEADLINE: <2014-07-18 Fri>
 
 ********* TODO Week 4
+********** NEXT Prepare outline 4
+	   DEADLINE: <2014-07-14 Mon>
 ********** TODO Prepare Lecture 4.1
 <2014-07-21 Mon>
 ********** TODO Prepare Lecture 4.2
@@ -8618,6 +8629,8 @@ Lectures in calendar and tasks like planning lectures.
 ********** TODO Prepare Lecture 4.5
 <2014-07-25 Fri>
 ********* TODO Week 5
+********** NEXT Prepare outline 5
+	   DEADLINE: <2014-07-21 Mon>
 ********** TODO Prepare Lecture 5.1
 	   DEADLINE: <2014-07-28 Mon>
 
