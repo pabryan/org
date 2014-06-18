@@ -8544,7 +8544,11 @@ Lectures in calendar and tasks like planning lectures.
 	 :LOGBOOK:
 	 - State "DONE"       from "NEXT"       [2014-06-17 Tue 10:49]
 	 :END:
-******** NEXT make course TA email groups
+******** WAITING make course TA email groups
+	 :LOGBOOK:
+	 - State "WAITING"    from "NEXT"       [2014-06-18 Wed 11:58] \\
+	   Waiting on TA list.
+	 :END:
 
 ******** DONE Schedule Tasks
 	 SCHEDULED: <2014-06-17 Tue>
@@ -8663,9 +8667,17 @@ Lectures in calendar and tasks like planning lectures.
 ********* TODO Submit to printing/frdesk
 	  DEADLINE: <2014-07-28 Mon>
 
-******* TODO Homework
-******** NEXT Set Homework
+******* DONE Homework
+	:LOGBOOK:
+	- State "DONE"       from "TODO"       [2014-06-18 Wed 12:24]
+	CLOCK: [2014-06-18 Wed 12:24]
+	:END:
+******** DONE Set Homework
 	 DEADLINE: <2014-06-27 Fri>
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2014-06-18 Wed 12:24]
+	 CLOCK: [2014-06-18 Wed 11:59]--[2014-06-18 Wed 12:24] =>  0:25
+	 :END:
 
 ******* TODO Website
 	:LOGBOOK:
