@@ -8,14 +8,15 @@
 
 ** Tracking
 *** NEXT Exercise
-    SCHEDULED: <2014-06-14 Sat .+1d/2d>
+    SCHEDULED: <2014-06-18 Wed .+1d/2d>
     :PROPERTIES:
     :STYLE:    habit
     :REPEAT_TO_STATE: NEXT
     :ID:       8d56b2ef-1b49-4dc4-b701-1d021a293fa4
-    :LAST_REPEAT: [2014-06-13 Fri 21:16]
+    :LAST_REPEAT: [2014-06-17 Tue 20:55]
     :END:
     :LOGBOOK:
+    - State "DONE"       from "NEXT"       [2014-06-17 Tue 20:55]
     - State "DONE"       from "NEXT"       [2014-06-13 Fri 21:16]
     - State "DONE"       from "NEXT"       [2014-06-12 Thu 12:39]
     - State "DONE"       from "NEXT"       [2014-06-11 Wed 11:57]
@@ -895,9 +896,10 @@
     :ID:       f57232cd-a8f2-4a76-a507-4d69f765a521
     :END:
 *** NEXT Relax/Meditate
-    SCHEDULED: <2014-06-14 Sat .+1d/2d>
+    SCHEDULED: <2014-06-18 Wed .+1d/2d>
 
     :LOGBOOK:
+    - State "DONE"       from "NEXT"       [2014-06-17 Tue 21:10]
     - State "DONE"       from "NEXT"       [2014-06-13 Fri 16:04]
     - State "DONE"       from "NEXT"       [2014-06-12 Thu 22:20]
     - State "DONE"       from "NEXT"       [2014-06-10 Tue 20:42]
@@ -1118,7 +1120,7 @@
     :STYLE:    habit
     :REPEAT_TO_STATE: NEXT
     :ID:       c0aaf33a-af77-446b-b9fd-cf2d2f78c12a
-    :LAST_REPEAT: [2014-06-13 Fri 16:04]
+    :LAST_REPEAT: [2014-06-17 Tue 21:10]
     :END:
 
 
