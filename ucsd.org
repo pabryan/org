@@ -8566,12 +8566,13 @@ Lectures in calendar and tasks like planning lectures.
 	 :END:
 ******** TODO Prepare Lectures
 ********* TODO Week 1
-********** NEXT Prepare outline 1
+********** DONE Prepare outline 1
 	   DEADLINE: <2014-06-25 Wed>
 	   :LOGBOOK:
-	   CLOCK: [2014-06-18 Wed 13:27]
+	   - State "DONE"       from "NEXT"       [2014-06-18 Wed 14:48]
+	   CLOCK: [2014-06-18 Wed 13:27]--[2014-06-18 Wed 14:48] =>  1:21
 	   :END:
-********** TODO Prepare Lecture 1.1
+********** NEXT Prepare Lecture 1.1
 	   DEADLINE: <2014-06-30 Mon>
 ********** TODO Prepare Lecture 1.2
 	   DEADLINE: <2014-07-01 Tue>
