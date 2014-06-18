@@ -8670,7 +8670,7 @@ Lectures in calendar and tasks like planning lectures.
 ******* DONE Homework
 	:LOGBOOK:
 	- State "DONE"       from "TODO"       [2014-06-18 Wed 12:24]
-	CLOCK: [2014-06-18 Wed 12:24]
+	CLOCK: [2014-06-18 Wed 12:24]--[2014-06-18 Wed 12:35] =>  0:11
 	:END:
 ******** DONE Set Homework
 	 DEADLINE: <2014-06-27 Fri>
