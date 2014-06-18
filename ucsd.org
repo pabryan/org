@@ -8528,6 +8528,9 @@ A02 TuTh, 11:00a - 11:50a, SEQUO 147
 TuTh, 12:00p - 12:50p, SEQUO 147
 ****** Tasks
 ******* TODO Plan course
+	:LOGBOOK:
+	CLOCK: [2014-06-18 Wed 09:34]--[2014-06-18 Wed 09:40] =>  0:06
+	:END:
 ******** DONE Org structure
 	 SCHEDULED: <2014-06-16 Mon>
 	 :LOGBOOK:
@@ -8543,8 +8546,12 @@ Lectures in calendar and tasks like planning lectures.
 	 :END:
 ******** NEXT make course TA email groups
 
-******** NEXT Schedule Tasks
+******** DONE Schedule Tasks
 	 SCHEDULED: <2014-06-17 Tue>
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2014-06-18 Wed 09:34]
+	 CLOCK: [2014-06-18 Wed 09:12]--[2014-06-18 Wed 09:34] =>  0:22
+	 :END:
 ******* TODO Lectures
 ******** DONE Create Lecture Schedule
 	 :LOGBOOK:
@@ -8554,21 +8561,74 @@ Lectures in calendar and tasks like planning lectures.
 	 CLOCK: [2014-06-17 Tue 12:24]--[2014-06-17 Tue 12:39] =>  0:15
 	 :END:
 ******** TODO Prepare Lectures
-********* NEXT Prepare Lecture 1.1
-********* TODO Prepare Lecture 1.2
-********* TODO Prepare Lecture 1.3
-********* TODO Prepare Lecture 2.1
-********* TODO Prepare Lecture 2.2
-********* TODO Prepare Lecture 2.3
-********* TODO Prepare Lecture 3.1
-********* TODO Prepare Lecture 3.2
-********* TODO Prepare Lecture 3.3
-********* TODO Prepare Lecture 4.1
-********* TODO Prepare Lecture 4.2
-********* TODO Prepare Lecture 4.3
-********* TODO Prepare Lecture 5.1
-********* TODO Prepare Lecture 5.2
-********* TODO Prepare Lecture 5.3
+********* TODO Week 1
+********** NEXT Prepare Lecture 1.1
+	   DEADLINE: <2014-06-30 Mon>
+********** TODO Prepare Lecture 1.2
+	   DEADLINE: <2014-07-01 Tue>
+********** TODO Prepare Lecture 1.3
+	   DEADLINE: <2014-07-02 Wed>
+********** TODO Prepare Lecture 1.4
+	   DEADLINE: <2014-07-03 Thu>
+********* TODO Week 2
+********** TODO Prepare Lecture 2.1
+	   DEADLINE: <2014-07-07 Mon>
+
+********** TODO Prepare Lecture 2.2
+	   DEADLINE: <2014-07-08 Tue>
+
+********** TODO Prepare Lecture 2.3
+	   DEADLINE: <2014-07-09 Wed>
+
+********** TODO Prepare Lecture 2.4
+	   DEADLINE: <2014-07-10 Thu>
+
+********** TODO Prepare Lecture 2.5
+	   DEADLINE: <2014-07-11 Fri>
+
+********* TODO Week 3
+********** TODO Prepare Lecture 3.1
+	   DEADLINE: <2014-07-14 Mon>
+
+********** TODO Prepare Lecture 3.2
+	   DEADLINE: <2014-07-15 Tue>
+
+********** TODO Prepare Lecture 3.3
+	   DEADLINE: <2014-07-16 Wed>
+
+********** TODO Prepare Lecture 3.4
+	   DEADLINE: <2014-07-17 Thu>
+
+********** TODO Prepare Lecture 3.5
+	   DEADLINE: <2014-07-18 Fri>
+
+********* TODO Week 4
+********** TODO Prepare Lecture 4.1
+<2014-07-21 Mon>
+********** TODO Prepare Lecture 4.2
+<2014-07-22 Tue>
+********** TODO Prepare Lecture 4.3
+<2014-07-23 Wed>
+********** TODO Prepare Lecture 4.4
+<2014-07-24 Thu>
+********** TODO Prepare Lecture 4.5
+<2014-07-25 Fri>
+********* TODO Week 5
+********** TODO Prepare Lecture 5.1
+	   DEADLINE: <2014-07-28 Mon>
+
+********** TODO Prepare Lecture 5.2
+	   DEADLINE: <2014-07-29 Tue>
+
+********** TODO Prepare Lecture 5.3
+	   DEADLINE: <2014-07-30 Wed>
+
+********** TODO Prepare Lecture 5.4
+	   DEADLINE: <2014-07-31 Thu>
+
+********** TODO Prepare Lecture 5.5
+	   DEADLINE: <2014-08-01 Fri>
+
 ******* TODO Exams
 ******** DONE Create Exam Schedule
 	 :LOGBOOK:
@@ -8577,24 +8637,36 @@ Lectures in calendar and tasks like planning lectures.
 	 :END:
 ******** TODO Midterm 1
 ********* NEXT Write Midterm 1
+	  DEADLINE: <2014-07-04 Fri>
 ********* TODO Get TA's comments
+	  DEADLINE: <2014-07-07 Mon>
+
 ********* TODO Submit midterm to printing/frdesk
+	  DEADLINE: <2014-07-07 Mon>
+
 ********* TODO Write MT 1 solutions
 ******** TODO Midterm 2
 ********* NEXT Write Midterm 2
+	  DEADLINE: <2014-07-18 Fri>
 ********* TODO Get TA's comments
+	  DEADLINE: <2014-07-21 Mon>
 ********* TODO Submit midterm to printing/frdesk
+	  DEADLINE: <2014-07-21 Mon>
+
 ********* TODO Write MT2 solutions
 ******** TODO Final
 ********* NEXT Write Final
+	  DEADLINE: <2014-07-23 Wed>
 ********* TODO Get TA's comments
+	  DEADLINE: <2014-07-28 Mon>
+
 ********* TODO Submit to printing/frdesk
+	  DEADLINE: <2014-07-28 Mon>
+
 ******* TODO Homework
-******** NEXT Write Homework 1
-******** TODO Write Homework 2
-******** TODO Write Homework 3
-******** TODO Write Homework 4
-******** TODO Write Homework 5
+******** NEXT Set Homework
+	 DEADLINE: <2014-06-27 Fri>
+
 ******* TODO Website
 	:LOGBOOK:
 	CLOCK: [2014-06-17 Tue 15:53]--[2014-06-17 Tue 15:54] =>  0:01
@@ -8609,6 +8681,9 @@ Lectures in calendar and tasks like planning lectures.
 	 - State "DONE"       from "NEXT"       [2014-06-17 Tue 15:53]
 	 CLOCK: [2014-06-17 Tue 15:32]--[2014-06-17 Tue 15:53] =>  0:21
 	 :END:
+******** NEXT Update website template
+	 DEADLINE: <2014-06-25 Wed>
+
 ******* TODO Grades
 ******** NEXT Enter grades
 ******* TODO Misc
