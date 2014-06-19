@@ -8806,9 +8806,10 @@ Lectures in calendar and tasks like planning lectures.
 	 CLOCK: [2014-06-18 Wed 18:16]--[2014-06-18 Wed 18:25] =>  0:09
 	 :END:
 ******* TODO Lectures
-******** NEXT Create Lecture Schedule
+******** DONE Create Lecture Schedule
 	 :LOGBOOK:
-	 CLOCK: [2014-06-19 Thu 11:25]
+	 - State "DONE"       from "NEXT"       [2014-06-19 Thu 12:01]
+	 CLOCK: [2014-06-19 Thu 11:25]-[2014-06-19 Thu 12:00] =>  0:35
 	 :END:
 ******** TODO Prepare Lectures
 ********* TODO Week 1
