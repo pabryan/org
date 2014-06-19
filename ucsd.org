@@ -65,6 +65,10 @@ X	Pending charge of academic dishonesty (available only within the eGrades tool)
 Blank	Grade not reported by instructor
 
 ** Courses							    :COURSES:
+   :PROPERTIES:
+   :Effort_ALL: 0 0:10 0:15 0:30 1:00 1:30 2:00 3:00 4:00
+   :COLUMNS: %40ITEM(Task) %17Effort(Estimated Effort){:} %CLOCKSUM
+   :END:
 *** Tasks
 **** TODO Course setup
      :PROPERTIES:
@@ -8566,16 +8570,20 @@ Lectures in calendar and tasks like planning lectures.
 	 :END:
 ******** TODO Prepare Lectures
 ********* TODO Week 1
+	  :LOGBOOK:
+	  CLOCK: [2014-06-19 Thu 14:55]
+	  :END:
 ********** NEXT Prepare outline 1
 	   DEADLINE: <2014-06-25 Wed>
 	   :LOGBOOK:
 	   CLOCK: [2014-06-19 Thu 13:29]--[2014-06-19 Thu 13:42] =>  0:13
 	   CLOCK: [2014-06-18 Wed 13:27]--[2014-06-18 Wed 14:48] =>  1:21
 	   :END:
-********** NEXT Prepare Lecture 1.1
+********** DONE Prepare Lecture 1.1
 	   DEADLINE: <2014-06-30 Mon>
 	   :LOGBOOK:
-	   CLOCK: [2014-06-19 Thu 13:42]
+	   - State "DONE"       from "NEXT"       [2014-06-19 Thu 14:55]
+	   CLOCK: [2014-06-19 Thu 13:42]--[2014-06-19 Thu 14:55] =>  1:13
 	   :END:
 ********** TODO Prepare Lecture 1.2
 	   DEADLINE: <2014-07-01 Tue>
