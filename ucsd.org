@@ -8569,7 +8569,7 @@ Lectures in calendar and tasks like planning lectures.
 ********** DONE Prepare outline 1
 	   DEADLINE: <2014-06-25 Wed>
 	   :LOGBOOK:
-	   - State "DONE"       from "NEXT"       [2014-06-18 Wed 14:48]
+	   CLOCK: [2014-06-19 Thu 13:29]
 	   CLOCK: [2014-06-18 Wed 13:27]--[2014-06-18 Wed 14:48] =>  1:21
 	   :END:
 ********** NEXT Prepare Lecture 1.1
@@ -8940,9 +8940,11 @@ Lectures in calendar and tasks like planning lectures.
 	  DEADLINE: <2014-09-01 Mon>
 
 ******* TODO Homework
-******** NEXT Set Homework
+******** DONE Set Homework
 	 DEADLINE: <2014-06-20 Fri>
 	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2014-06-19 Thu 13:29]
+	 CLOCK: [2014-06-19 Thu 12:57]--[2014-06-19 Thu 13:29] =>  0:32
 	 CLOCK: [2014-06-19 Thu 11:23]--[2014-06-19 Thu 11:25] =>  0:02
 	 :END:
 ******* TODO Website
