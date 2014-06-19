@@ -8588,10 +8588,11 @@ Lectures in calendar and tasks like planning lectures.
 	  :LOGBOOK:
 	  CLOCK: [2014-06-19 Thu 14:55]--[2014-06-19 Thu 15:11] =>  0:16
 	  :END:
-********** NEXT Prepare outline 1
+********** DONE Prepare outline 1
 	   DEADLINE: <2014-06-25 Wed>
 	   :LOGBOOK:
-	   CLOCK: [2014-06-19 Thu 16:17]
+	   - State "DONE"       from "NEXT"       [2014-06-19 Thu 16:35]
+	   CLOCK: [2014-06-19 Thu 16:17]--[2014-06-19 Thu 16:35] =>  0:18
 	   CLOCK: [2014-06-19 Thu 13:29]--[2014-06-19 Thu 13:42] =>  0:13
 	   CLOCK: [2014-06-18 Wed 13:27]--[2014-06-18 Wed 14:48] =>  1:21
 	   :END:
