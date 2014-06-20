@@ -116,7 +116,7 @@ I want to put the details of the course in to org - probably using property draw
 http://www.math.ucsd.edu/~jeggers/Archive/2012Spring/Math142B/calendar.html
 http://www.w3schools.com/css/tryit.asp?filename=trycss_table_fancy
 ***** TODO Check out Piazza for courses
-  SCHEDULED: <2014-06-16 Mon>
+  SCHEDULED: <2014-06-23 Mon>
   :LOGBOOK:
   CLOCK: [2013-10-04 Fri 13:33]--[2013-10-04 Fri 13:34] =>  0:01
   :END:
@@ -8619,7 +8619,7 @@ Lectures in calendar and tasks like planning lectures.
 	   :PROPERTIES:
 	   :Effort:   1:00
 	   :END:
-********** TODO Prepare Lecture 1.2
+********** NEXT Prepare Lecture 1.2
 	   SCHEDULED: <2014-06-24 Tue> DEADLINE: <2014-06-26 Thu>
 	   :PROPERTIES:
 	   :Effort:   1:00
@@ -8793,7 +8793,7 @@ Lectures in calendar and tasks like planning lectures.
 	 :END:
 ******** TODO Midterm 1
 ********* NEXT Write Midterm 1
-	  DEADLINE: <2014-06-27 Fri>
+	  DEADLINE: <2014-06-23 Mon>
 	  :PROPERTIES:
 	  :Effort:   1:00
 	  :END:
@@ -8812,7 +8812,7 @@ Lectures in calendar and tasks like planning lectures.
 ********* TODO Write MT 1 solutions
 ******** TODO Midterm 2
 ********* NEXT Write Midterm 2
-	  DEADLINE: <2014-06-27 Fri>
+	  DEADLINE: <2014-06-23 Mon>
 	  :PROPERTIES:
 	  :Effort:   1:00
 	  :END:
@@ -8830,7 +8830,7 @@ Lectures in calendar and tasks like planning lectures.
 ********* TODO Write MT2 solutions
 ******** TODO Final
 ********* NEXT Write Final
-	  DEADLINE: <2014-06-27 Fri>
+	  DEADLINE: <2014-06-23 Mon>
 	  :PROPERTIES:
 	  :Effort:   1:30
 	  :END:
@@ -9000,15 +9000,17 @@ Lectures in calendar and tasks like planning lectures.
 	 :PROPERTIES:
 	 :Effort:   0:10
 	 :END:
-******** DONE Schedule tasks
+******** NEXT Schedule tasks
+	 DEADLINE: <2014-06-20 Fri>
 	 :LOGBOOK:
 	 CLOCK: [2014-06-19 Thu 15:41]--[2014-06-19 Thu 15:52] =>  0:11
 	 - State "DONE"       from "NEXT"       [2014-06-18 Wed 19:29]
 	 CLOCK: [2014-06-18 Wed 18:16]--[2014-06-18 Wed 18:25] =>  0:09
 	 :END:
 	 :PROPERTIES:
-	 :Effort:   0:15
+	 :Effort:   0:30
 	 :END:
+- Set effort for tasks and schedule lec. planning, o/h etc.
 ******* TODO Lectures
 ******** DONE Create Lecture Schedule
 	 :LOGBOOK:
@@ -9184,7 +9186,7 @@ Lectures in calendar and tasks like planning lectures.
 	 :END:
 ******** TODO Midterm 1
 ********* NEXT Write Midterm 1
-	  DEADLINE: <2014-06-27 Fri>
+	  DEADLINE: <2014-06-25 Wed>
 	  :PROPERTIES:
 	  :Effort:   1:00
 	  :END:
@@ -9202,7 +9204,7 @@ Lectures in calendar and tasks like planning lectures.
 ********* TODO Write MT 1 solutions
 ******** TODO Midterm 2
 ********* NEXT Write Midterm 2
-	  DEADLINE: <2014-06-27 Fri>
+	  DEADLINE: <2014-06-25 Wed>
 	  :PROPERTIES:
 	  :Effort:   1:00
 	  :END:
@@ -9221,7 +9223,7 @@ Lectures in calendar and tasks like planning lectures.
 ********* TODO Write MT2 solutions
 ******** TODO Final
 ********* NEXT Write Final
-	 DEADLINE: <2014-06-27 Fri>
+	 DEADLINE: <2014-06-25 Wed>
 	  :PROPERTIES:
 	  :Effort:   1:30
 	  :END:
@@ -9382,15 +9384,16 @@ Lectures in calendar and tasks like planning lectures.
 	 :PROPERTIES:
 	 :Effort:   0:10
 	 :END:
-******** DONE Schedule tasks
+******** NEXT Schedule tasks
+	 DEADLINE: <2014-06-20 Fri>
 	 :LOGBOOK:
 	 - State "DONE"       from "NEXT"       [2014-06-19 Thu 15:51]
 	 CLOCK: [2014-06-18 Wed 18:33]--[2014-06-18 Wed 18:39] =>  0:06
 	 :END:
 	 :PROPERTIES:
-	 :Effort:   0:15
+	 :Effort:   0:30
 	 :END:
-
+- Set effort for tasks and schedule lec. planning, o/h etc.
 ******* TODO Lectures
 ******** DONE Create Lecture Schedule
 	 :LOGBOOK:
@@ -9619,14 +9622,14 @@ Lectures in calendar and tasks like planning lectures.
 
 ******* TODO Homework
 ******** NEXT Set Homework
-	 DEADLINE: <2014-06-21 Sat>
+	 DEADLINE: <2014-06-20 Fri>
 	 :PROPERTIES:
 	 :Effort:   0:30
 	 :END:
 
 ******* TODO Website
 ******** NEXT Make website
-	 DEADLINE: <2014-06-21 Sat>
+	 DEADLINE: <2014-06-20 Fri>
 	 :PROPERTIES:
 	 :Effort:   0:30
 	 :END:
