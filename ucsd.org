@@ -8675,6 +8675,9 @@ Lectures in calendar and tasks like planning lectures.
 ********* TODO Week 3
 ********** NEXT Prepare outline 3
 	   DEADLINE: <2014-06-20 Fri>
+	   :LOGBOOK:
+	   CLOCK: [2014-06-20 Fri 13:17]
+	   :END:
 	   :PROPERTIES:
 	   :Effort:   1:30
 	   :END:
