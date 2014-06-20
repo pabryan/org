@@ -8583,6 +8583,10 @@ Lectures in calendar and tasks like planning lectures.
 	 :PROPERTIES:
 	 :Effort:   1:00
 	 :END:
+******** TODO Create Lecture Preparation Schedule
+	 :PROPERTIES:
+	 :Effort:   30
+	 :END:
 ******** TODO Prepare Lectures
 ********* TODO Week 1
 	  :LOGBOOK:
