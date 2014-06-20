@@ -129,8 +129,12 @@ http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5390&org=NSF&sel_org=MPS&from=fu
      :END:
 http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5517&org=NSF
 *** 2015 Grants
-**** TODO Focused Research Group in Mathematics
+**** CANCELLED Focused Research Group in Mathematics
      DEADLINE: <2014-09-19 Fri -3m>
+     :LOGBOOK:
+     - State "CANCELLED"  from "TODO"       [2014-06-20 Fri 11:21] \\
+       No point. I'll be gone by the time the funding comes through.
+     :END:
      :PROPERTIES:
      :ID:       62a11ed4-1005-46b5-88fe-4820b9291590
      :END:
@@ -1806,7 +1810,7 @@ This proves the inequality we need.  The remaining problem is to remove the symm
        :ID:       4f27c099-1b3f-44a1-b38d-394b791aabef
        :END:
 ****** NEXT Follow up with Steve Roberts
-       SCHEDULED: <2014-06-01 Sun>
+       SCHEDULED: <2014-07-07 Mon>
 ***** Notes
 ***** References
 
@@ -3899,7 +3903,7 @@ Is there a consistent (say providing ZFC is consistent) set theory without the e
 *** TODO Immersions of symmetric spaces
 **** Tasks
 ***** TODO Organise to meet with Nolan Wallach
-  SCHEDULED: <2014-06-09 Mon>
+  SCHEDULED: <2014-07-07 Mon>
 [2014-05-22 Thu 12:31]
 **** Meetings
 ***** Nolan Wallach

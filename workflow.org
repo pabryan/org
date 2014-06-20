@@ -658,7 +658,7 @@ Create papers, teaching, referring block
 Things are getting a little out of hand. I think I should break up configuration based on relevance: latex, agenda, etc.
 
 **** TODO Write research project summaries/proposals
-  SCHEDULED: <2014-06-01 Sun>
+  SCHEDULED: <2014-07-07 Mon>
   :LOGBOOK:
   CLOCK: [2014-03-21 Fri 13:09]--[2014-03-21 Fri 13:10] =>  0:01
   :END:
@@ -1837,6 +1837,7 @@ http://gmane.org
   :END:
 ** Organisation
   :LOGBOOK:
+  CLOCK: [2014-06-20 Fri 11:23]--[2014-06-20 Fri 11:33] =>  0:10
   CLOCK: [2014-06-19 Thu 16:35]--[2014-06-19 Thu 16:36] =>  0:01
   CLOCK: [2014-06-19 Thu 15:52]--[2014-06-19 Thu 16:17] =>  0:25
   CLOCK: [2014-06-19 Thu 15:11]--[2014-06-19 Thu 15:25] =>  0:14
@@ -3564,8 +3565,10 @@ When I set up scoring the day:
 - [ ] Collate data such as sleep, weight, exercise, diet etc.
 
 ** NEXT Daily Plan [0/7]
-   SCHEDULED: <2014-06-20 Fri .+1d/2d>
+   SCHEDULED: <2014-06-21 Sat .+1d/2d>
    :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2014-06-20 Fri 11:23]
+   CLOCK: [2014-06-20 Fri 11:16]--[2014-06-20 Fri 11:23] =>  0:07
    - State "DONE"       from "NEXT"       [2014-06-19 Thu 11:21]
    CLOCK: [2014-06-19 Thu 11:09]--[2014-06-19 Thu 11:21] =>  0:12
    - State "DONE"       from "NEXT"       [2014-06-18 Wed 09:12]
@@ -4214,7 +4217,7 @@ When I set up scoring the day:
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
    :ID:       ef051ee0-1113-4604-b355-450a5a47848b
-   :LAST_REPEAT: [2014-06-19 Thu 11:21]
+   :LAST_REPEAT: [2014-06-20 Fri 11:23]
    :LAST_REPEAT: [2014-01-25 Sat 12:49]
    :END:
 

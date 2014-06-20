@@ -8636,10 +8636,14 @@ Lectures in calendar and tasks like planning lectures.
 	   :Effort:   1:00
 	   :END:
 ********* TODO Week 2
-********** NEXT Prepare outline 2
+	  :LOGBOOK:
+	  CLOCK: [2014-06-20 Fri 12:23]--[2014-06-20 Fri 12:24] =>  0:01
+	  :END:
+********** DONE Prepare outline 2
 	   DEADLINE: <2014-06-20 Fri>
 	   :LOGBOOK:
-	   CLOCK: [2014-06-20 Fri 11:47]
+	   - State "DONE"       from "NEXT"       [2014-06-20 Fri 12:23]
+	   CLOCK: [2014-06-20 Fri 11:47]--[2014-06-20 Fri 12:23] =>  0:36
 	   :END:
 	   :PROPERTIES:
 	   :Effort:   1:00
@@ -9595,14 +9599,14 @@ Lectures in calendar and tasks like planning lectures.
 
 ******* TODO Homework
 ******** NEXT Set Homework
-	 DEADLINE: <2014-06-20 Fri>
+	 DEADLINE: <2014-06-21 Sat>
 	 :PROPERTIES:
 	 :Effort:   0:30
 	 :END:
 
 ******* TODO Website
 ******** NEXT Make website
-	 DEADLINE: <2014-06-20 Fri>
+	 DEADLINE: <2014-06-21 Sat>
 	 :PROPERTIES:
 	 :Effort:   0:30
 	 :END:
