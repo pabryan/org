@@ -8646,7 +8646,7 @@ Lectures in calendar and tasks like planning lectures.
 	   CLOCK: [2014-06-20 Fri 11:47]--[2014-06-20 Fri 12:23] =>  0:36
 	   :END:
 	   :PROPERTIES:
-	   :Effort:   1:00
+	   :Effort:   30
 	   :END:
 ********** TODO Prepare Lecture 2.1
 	   SCHEDULED: <2014-07-01 Tue> DEADLINE: <2014-07-03 Thu>
@@ -8673,13 +8673,20 @@ Lectures in calendar and tasks like planning lectures.
 	   :END:
 
 ********* TODO Week 3
-********** NEXT Prepare outline 3
+	  :LOGBOOK:
+	  CLOCK: [2014-06-20 Fri 13:44]--[2014-06-20 Fri 13:48] =>  0:04
+	  :END:
+	  :PROPERTIES:
+	  :Effort:   4:30
+	  :END:
+********** DONE Prepare outline 3
 	   DEADLINE: <2014-06-20 Fri>
 	   :LOGBOOK:
-	   CLOCK: [2014-06-20 Fri 13:17]
+	   - State "DONE"       from "NEXT"       [2014-06-20 Fri 13:44]
+	   CLOCK: [2014-06-20 Fri 13:17]--[2014-06-20 Fri 13:44] =>  0:27
 	   :END:
 	   :PROPERTIES:
-	   :Effort:   1:30
+	   :Effort:   0:30
 	   :END:
 ********** TODO Prepare Lecture 3.1
 	   SCHEDULED: <2014-07-08 Tue> DEADLINE: <2014-07-10 Thu>
@@ -8708,8 +8715,11 @@ Lectures in calendar and tasks like planning lectures.
 ********* TODO Week 4
 ********** NEXT Prepare outline 4
 	   DEADLINE: <2014-06-20 Fri>
+	   :LOGBOOK:
+	   CLOCK: [2014-06-20 Fri 13:48]
+	   :END:
 	   :PROPERTIES:
-	   :Effort:   1:30
+	   :Effort:   0:30
 	   :END:
 ********** TODO Prepare Lecture 4.1
 	   SCHEDULED: <2014-07-15 Tue> DEADLINE: <2014-07-17 Thu>
@@ -8739,7 +8749,7 @@ Lectures in calendar and tasks like planning lectures.
 ********** NEXT Prepare outline 5
 	   DEADLINE: <2014-06-20 Fri>
 	   :PROPERTIES:
-	   :Effort:   1:30
+	   :Effort:   0:30
 	   :END:
 ********** TODO Prepare Lecture 5.1
 	   SCHEDULED: <2014-07-22 Tue> DEADLINE: <2014-07-24 Thu>
