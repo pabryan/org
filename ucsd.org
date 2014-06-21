@@ -8793,7 +8793,7 @@ Lectures in calendar and tasks like planning lectures.
 	 :END:
 ******** TODO Midterm 1
 ********* NEXT Write Midterm 1
-	  DEADLINE: <2014-06-23 Mon>
+	  SCHEDULED: <2014-06-23 Mon>
 	  :PROPERTIES:
 	  :Effort:   1:00
 	  :END:
@@ -8812,7 +8812,7 @@ Lectures in calendar and tasks like planning lectures.
 ********* TODO Write MT 1 solutions
 ******** TODO Midterm 2
 ********* NEXT Write Midterm 2
-	  DEADLINE: <2014-06-23 Mon>
+	  SCHEDULED: <2014-06-23 Mon>
 	  :PROPERTIES:
 	  :Effort:   1:00
 	  :END:
@@ -8830,7 +8830,7 @@ Lectures in calendar and tasks like planning lectures.
 ********* TODO Write MT2 solutions
 ******** TODO Final
 ********* NEXT Write Final
-	  DEADLINE: <2014-06-23 Mon>
+	  SCHEDULED: <2014-06-23 Mon>
 	  :PROPERTIES:
 	  :Effort:   1:30
 	  :END:
@@ -9017,7 +9017,6 @@ Lectures in calendar and tasks like planning lectures.
 	 :END:
 - Set effort for tasks and schedule lec. planning, o/h etc.
 ******* TODO Lectures
-	 DEADLINE: <2014-06-20 Fri>
 ******** DONE Create Lecture Schedule
 	 :LOGBOOK:
 	 - State "DONE"       from "NEXT"       [2014-06-18 Wed 18:39]
@@ -9038,7 +9037,7 @@ Lectures in calendar and tasks like planning lectures.
 ******** TODO Prepare Lectures
 ********* TODO Week 1
 ********** NEXT Prepare outline 1
-	   SCHEDULED: <2014-06-24 Tue> DEADLINE: <2014-07-28 Mon>
+	   SCHEDULED: <2014-06-24 Tue>
 	   :PROPERTIES:
 	   :Effort:   0:30
 	   :END:
@@ -9068,7 +9067,7 @@ Lectures in calendar and tasks like planning lectures.
 
 ********* TODO Week 2
 ********** NEXT Prepare outline 2
-	   SCHEDULED: <2014-06-24 Tue> DEADLINE: <2014-08-04 Mon>
+	   SCHEDULED: <2014-06-24 Tue> 
 	   :PROPERTIES:
 	   :Effort:   0:30
 	   :END:
@@ -9099,7 +9098,7 @@ Lectures in calendar and tasks like planning lectures.
 
 ********* TODO Week 3
 ********** NEXT Prepare outline 3
-	   SCHEDULED: <2014-06-24 Tue> DEADLINE: <2014-08-11 Mon>
+	   SCHEDULED: <2014-06-24 Tue> 
 	   :PROPERTIES:
 	   :Effort:   0:30
 	   :END:
@@ -9129,7 +9128,7 @@ Lectures in calendar and tasks like planning lectures.
 
 ********* TODO Week 4
 ********** NEXT Prepare outline 4
-	   DEADLINE: <2014-06-24 Tue>
+	   SCHEDULED: <2014-06-24 Tue>
 	   :PROPERTIES:
 	   :Effort:   0:30
 	   :END:
@@ -9159,7 +9158,7 @@ Lectures in calendar and tasks like planning lectures.
 
 ********* TODO Week 5
 ********** NEXT Prepare outline 5
-	   SCHEDULED: <2014-06-24 Tue> DEADLINE: <2014-08-25 Mon>
+	   SCHEDULED: <2014-06-24 Tue>
 	   :PROPERTIES:
 	   :Effort:   0:30
 	   :END:
@@ -9201,7 +9200,7 @@ Lectures in calendar and tasks like planning lectures.
 	 :END:
 ******** TODO Midterm 1
 ********* NEXT Write Midterm 1
-	  DEADLINE: <2014-06-24 Tue>
+	  SCHEDULED: <2014-06-24 Tue>
 	  :PROPERTIES:
 	  :Effort:   1:00
 	  :END:
@@ -9219,7 +9218,7 @@ Lectures in calendar and tasks like planning lectures.
 ********* TODO Write MT 1 solutions
 ******** TODO Midterm 2
 ********* NEXT Write Midterm 2
-	  DEADLINE: <2014-06-24 Tue>
+	  SCHEDULED: <2014-06-24 Tue>
 	  :PROPERTIES:
 	  :Effort:   1:00
 	  :END:
@@ -9238,7 +9237,7 @@ Lectures in calendar and tasks like planning lectures.
 ********* TODO Write MT2 solutions
 ******** TODO Final
 ********* NEXT Write Final
-	 DEADLINE: <2014-06-24 Tue>
+	 SCHEDULED: <2014-06-24 Tue>
 	  :PROPERTIES:
 	  :Effort:   1:30
 	  :END:
@@ -9426,12 +9425,10 @@ Lectures in calendar and tasks like planning lectures.
 	 :END:
 ******* TODO Lectures
 	:LOGBOOK:
-	CLOCK: [2014-06-20 Fri 17:26]
+	CLOCK: [2014-06-20 Fri 17:26]--[2014-06-20 Fri 17:28] =>  0:02
 	:END:
 ******** NEXT Create Lecture Schedule
-	 DEADLINE: <2014-06-20 Fri>
-	 :LOGBOOK:
-	 :END:
+	 SCHEDULED: <2014-06-20 Fri>
 	 :PROPERTIES:
 	 :Effort:   1:00
 	 :END:
@@ -9446,9 +9443,9 @@ Lectures in calendar and tasks like planning lectures.
 ******** TODO Prepare Lectures
 ********* TODO Week 1
 ********** NEXT Prepare outline 1
-	   DEADLINE: <2014-06-25 Wed>
+	   SCHEDULED: <2014-06-25 Wed>
 	   :PROPERTIES:
-	   :Effort:   1:30
+	   :Effort:   0:30
 	   :END:
 ********** TODO Prepare Lecture 1.1
 	   DEADLINE: <2014-07-31 Thu> SCHEDULED: <2014-07-29 Tue>
@@ -9477,9 +9474,9 @@ Lectures in calendar and tasks like planning lectures.
 
 ********* TODO Week 2
 ********** NEXT Prepare outline 2
-	   DEADLINE: <2014-06-25 Wed>
+	   SCHEDULED: <2014-06-25 Wed>
 	   :PROPERTIES:
-	   :Effort:   1:30
+	   :Effort:   0:30
 	   :END:
 
 ********** TODO Prepare Lecture 2.1
@@ -9508,9 +9505,9 @@ Lectures in calendar and tasks like planning lectures.
 
 ********* TODO Week 3
 ********** NEXT Prepare outline 3
-	   DEADLINE: <2014-06-25 Wed>
+	   SCHEDULED: <2014-06-25 Wed>
 	   :PROPERTIES:
-	   :Effort:   1:30
+	   :Effort:   0:30
 	   :END:
 ********** TODO Prepare Lecture 3.1
 	   DEADLINE: <2014-08-14 Thu> SCHEDULED: <2014-08-12 Tue>
@@ -9538,9 +9535,9 @@ Lectures in calendar and tasks like planning lectures.
 
 ********* TODO Week 4
 ********** NEXT Prepare outline 4
-	   DEADLINE: <2014-06-25 Wed>
+	   SCHEDULED: <2014-06-25 Wed>
 	   :PROPERTIES:
-	   :Effort:   1:30
+	   :Effort:   0:30
 	   :END:
 ********** TODO Prepare Lecture 4.1
 	   DEADLINE: <2014-08-21 Thu> SCHEDULED: <2014-08-19 Tue>
@@ -9568,9 +9565,9 @@ Lectures in calendar and tasks like planning lectures.
 
 ********* TODO Week 5
 ********** NEXT Prepare outline 5
-	   DEADLINE: <2014-06-25 Wed>
+	   SCHEDULED: <2014-06-25 Wed>
 	   :PROPERTIES:
-	   :Effort:   1:30
+	   :Effort:   0:30
 	   :END:
 ********** TODO Prepare Lecture 5.1
 	   DEADLINE: <2014-08-28 Thu> SCHEDULED: <2014-08-26 Tue>
@@ -9610,7 +9607,7 @@ Lectures in calendar and tasks like planning lectures.
 	 :END:
 ******** TODO Midterm 1
 ********* NEXT Write Midterm 1
-	  DEADLINE: <2014-06-25 Wed>
+	  SCHEDULED: <2014-06-25 Wed>
 	  :PROPERTIES:
 	  :Effort:   1:00
 	  :END:
@@ -9628,7 +9625,7 @@ Lectures in calendar and tasks like planning lectures.
 ********* TODO Write MT 1 solutions
 ******** TODO Midterm 2
 ********* NEXT Write Midterm 2
-	  DEADLINE: <2014-06-25 Wed>
+	  SCHEDULED: <2014-06-25 Wed>
 	  :PROPERTIES:
 	  :Effort:   1:00
 	  :END:
@@ -9647,7 +9644,7 @@ Lectures in calendar and tasks like planning lectures.
 ********* TODO Write MT2 solutions
 ******** TODO Final
 ********* NEXT Write Final
-	 DEADLINE: <2014-06-25 Wed>
+	 SCHEDULED: <2014-06-25 Wed>
 	  :PROPERTIES:
 	  :Effort:   1:30
 	  :END:
@@ -9664,14 +9661,14 @@ Lectures in calendar and tasks like planning lectures.
 
 ******* TODO Homework
 ******** NEXT Set Homework
-	 DEADLINE: <2014-06-20 Fri>
+	 SCHEDULED:  <2014-06-20 Fri>
 	 :PROPERTIES:
 	 :Effort:   0:30
 	 :END:
 
 ******* TODO Website
 ******** NEXT Make website
-	 DEADLINE: <2014-06-20 Fri>
+	 SCHEDULED: <2014-06-20 Fri>
 	 :PROPERTIES:
 	 :Effort:   0:30
 	 :END:
