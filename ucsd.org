@@ -8974,6 +8974,9 @@ HSS 1330
 ******** Schedule
 ****** Tasks
 ******* TODO Plan course
+   :LOGBOOK:
+   CLOCK: [2014-06-20 Fri 16:59]--[2014-06-20 Fri 17:00] =>  0:01
+   :END:
 ******** DONE Org structure
 	   SCHEDULED: <2014-07-21 Mon>
 	   :LOGBOOK:
@@ -9000,9 +9003,11 @@ Lectures in calendar and tasks like planning lectures.
 	 :PROPERTIES:
 	 :Effort:   0:10
 	 :END:
-******** NEXT Schedule tasks
+******** DONE Schedule tasks
 	 DEADLINE: <2014-06-20 Fri>
 	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2014-06-20 Fri 16:59]
+	 CLOCK: [2014-06-20 Fri 16:48]--[2014-06-20 Fri 16:59] =>  0:11
 	 CLOCK: [2014-06-19 Thu 15:41]--[2014-06-19 Thu 15:52] =>  0:11
 	 - State "DONE"       from "NEXT"       [2014-06-18 Wed 19:29]
 	 CLOCK: [2014-06-18 Wed 18:16]--[2014-06-18 Wed 18:25] =>  0:09
@@ -9012,162 +9017,172 @@ Lectures in calendar and tasks like planning lectures.
 	 :END:
 - Set effort for tasks and schedule lec. planning, o/h etc.
 ******* TODO Lectures
+	 DEADLINE: <2014-06-20 Fri>
 ******** DONE Create Lecture Schedule
 	 :LOGBOOK:
-	 - State "DONE"       from "NEXT"       [2014-06-19 Thu 12:01]
+	 - State "DONE"       from "NEXT"       [2014-06-18 Wed 18:39]
 	 CLOCK: [2014-06-19 Thu 11:25]-[2014-06-19 Thu 12:00] =>  0:35
 	 :END:
 	 :PROPERTIES:
 	 :Effort:   1:00
 	 :END:
+******** DONE Create Lecture Preparation Schedule
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2014-06-20 Fri 17:15]
+	 CLOCK: [2014-06-20 Fri 17:00]--[2014-06-20 Fri 17:16] =>  0:16
+	 :END:
+	 :PROPERTIES:
+	 :Effort:   0:15
+	 :END:
+
 ******** TODO Prepare Lectures
 ********* TODO Week 1
 ********** NEXT Prepare outline 1
-	   DEADLINE: <2014-07-28 Mon>
+	   SCHEDULED: <2014-06-24 Tue> DEADLINE: <2014-07-28 Mon>
 	   :PROPERTIES:
-	   :Effort:   1:30
+	   :Effort:   0:30
 	   :END:
 ********** TODO Prepare Lecture 1.1
-	   DEADLINE: <2014-08-04 Mon>
+	   SCHEDULED: <2014-07-29 Tue> DEADLINE: <2014-07-31 Thu>
 	   :PROPERTIES:
 	   :Effort:   1:00
 	   :END:
 
 ********** TODO Prepare Lecture 1.2
-	   DEADLINE: <2014-08-05 Tue>
+	   SCHEDULED: <2014-07-29 Tue> DEADLINE: <2014-07-31 Thu>
 	   :PROPERTIES:
 	   :Effort:   1:00
 	   :END:
 
 ********** TODO Prepare Lecture 1.3
-	   DEADLINE: <2014-08-06 Wed>
+	   SCHEDULED: <2014-07-31 Thu> DEADLINE: <2014-07-31 Thu>
 	   :PROPERTIES:
 	   :Effort:   1:00
 	   :END:
 
 ********** TODO Prepare Lecture 1.4
-	   DEADLINE: <2014-08-07 Thu>
+	   SCHEDULED: <2014-07-31 Thu> DEADLINE: <2014-07-31 Thu>
 	   :PROPERTIES:
 	   :Effort:   1:00
 	   :END:
 
 ********* TODO Week 2
 ********** NEXT Prepare outline 2
-	   DEADLINE: <2014-08-04 Mon>
+	   SCHEDULED: <2014-06-24 Tue> DEADLINE: <2014-08-04 Mon>
 	   :PROPERTIES:
-	   :Effort:   1:30
+	   :Effort:   0:30
 	   :END:
 
 ********** TODO Prepare Lecture 2.1
-	   DEADLINE: <2014-08-11 Mon>
+	   SCHEDULED: <2014-08-05 Tue> DEADLINE: <2014-08-07 Thu>
 	   :PROPERTIES:
 	   :Effort:   1:00
 	   :END:
 
 ********** TODO Prepare Lecture 2.2
-	   DEADLINE: <2014-08-12 Tue>
+	   SCHEDULED: <2014-08-05 Tue> DEADLINE: <2014-08-07 Thu>
 	   :PROPERTIES:
 	   :Effort:   1:00
 	   :END:
 
 ********** TODO Prepare Lecture 2.3
-	   DEADLINE: <2014-08-13 Wed>
+	   SCHEDULED: <2014-08-07 Thu> DEADLINE: <2014-08-07 Thu>
 	   :PROPERTIES:
 	   :Effort:   1:00
 	   :END:
 
 ********** TODO Prepare Lecture 2.4
-	   DEADLINE: <2014-08-14 Thu>
+	   SCHEDULED: <2014-08-07 Thu> DEADLINE: <2014-08-07 Thu>
 	   :PROPERTIES:
 	   :Effort:   1:00
 	   :END:
 
 ********* TODO Week 3
 ********** NEXT Prepare outline 3
-	   DEADLINE: <2014-08-11 Mon>
+	   SCHEDULED: <2014-06-24 Tue> DEADLINE: <2014-08-11 Mon>
 	   :PROPERTIES:
-	   :Effort:   1:30
+	   :Effort:   0:30
 	   :END:
 ********** TODO Prepare Lecture 3.1
-	   DEADLINE: <2014-08-18 Mon>
+	   SCHEDULED: <2014-08-12 Tue> DEADLINE: <2014-08-14 Thu>
 	   :PROPERTIES:
 	   :Effort:   1:00
 	   :END:
 
 ********** TODO Prepare Lecture 3.2
-	   DEADLINE: <2014-08-19 Tue>
+	   SCHEDULED: <2014-08-12 Tue> DEADLINE: <2014-08-14 Thu>
 	   :PROPERTIES:
 	   :Effort:   1:00
 	   :END:
 
 ********** TODO Prepare Lecture 3.3
-	   DEADLINE: <2014-08-20 Wed>
+	   SCHEDULED: <2014-08-14 Thu> DEADLINE: <2014-08-14 Thu>
 	   :PROPERTIES:
 	   :Effort:   1:00
 	   :END:
 
 ********** TODO Prepare Lecture 3.4
-	   DEADLINE: <2014-08-21 Thu>
+	   SCHEDULED: <2014-08-14 Thu> DEADLINE: <2014-08-14 Thu>
 	   :PROPERTIES:
 	   :Effort:   1:00
 	   :END:
 
 ********* TODO Week 4
 ********** NEXT Prepare outline 4
-	   DEADLINE: <2014-08-18 Mon>
+	   DEADLINE: <2014-06-24 Tue>
 	   :PROPERTIES:
-	   :Effort:   1:30
+	   :Effort:   0:30
 	   :END:
 ********** TODO Prepare Lecture 4.1
-	   DEADLINE: <2014-08-25 Mon>
+	   SCHEDULED: <2014-08-19 Tue> DEADLINE: <2014-08-21 Thu>
 	   :PROPERTIES:
 	   :Effort:   1:00
 	   :END:
 
 ********** TODO Prepare Lecture 4.2
-	   DEADLINE: <2014-08-26 Tue>
+	   SCHEDULED: <2014-08-19 Tue> DEADLINE: <2014-08-21 Thu>
 	   :PROPERTIES:
 	   :Effort:   1:00
 	   :END:
 
 ********** TODO Prepare Lecture 4.3
-	   DEADLINE: <2014-08-27 Wed>
+	   SCHEDULED: <2014-08-21 Thu> DEADLINE: <2014-08-21 Thu>
 	   :PROPERTIES:
 	   :Effort:   1:00
 	   :END:
 
 ********** TODO Prepare Lecture 4.4
-	   DEADLINE: <2014-08-28 Thu>
+	   SCHEDULED: <2014-08-21 Thu> DEADLINE: <2014-08-21 Thu>
 	   :PROPERTIES:
 	   :Effort:   1:00
 	   :END:
 
 ********* TODO Week 5
 ********** NEXT Prepare outline 5
-	   DEADLINE: <2014-08-25 Mon>
+	   SCHEDULED: <2014-06-24 Tue> DEADLINE: <2014-08-25 Mon>
 	   :PROPERTIES:
-	   :Effort:   1:30
+	   :Effort:   0:30
 	   :END:
 ********** TODO Prepare Lecture 5.1
-	   DEADLINE: <2014-09-01 Mon>
+	   SCHEDULED: <2014-08-26 Tue> DEADLINE: <2014-08-28 Thu>
 	   :PROPERTIES:
 	   :Effort:   1:00
 	   :END:
 
 ********** TODO Prepare Lecture 5.2
-	   DEADLINE: <2014-09-02 Tue>
+	   SCHEDULED: <2014-08-26 Tue> DEADLINE: <2014-08-28 Thu>
 	   :PROPERTIES:
 	   :Effort:   1:00
 	   :END:
 
 ********** TODO Prepare Lecture 5.3
-	   DEADLINE: <2014-09-03 Wed>
+	   SCHEDULED: <2014-08-28 Thu> DEADLINE: <2014-08-28 Thu>
 	   :PROPERTIES:
 	   :Effort:   1:00
 	   :END:
 
 ********** TODO Prepare Lecture 5.4
-	   DEADLINE: <2014-09-04 Thu>
+	   SCHEDULED: <2014-08-28 Thu> DEADLINE: <2014-08-28 Thu>
 	   :PROPERTIES:
 	   :Effort:   1:00
 	   :END:
@@ -9186,7 +9201,7 @@ Lectures in calendar and tasks like planning lectures.
 	 :END:
 ******** TODO Midterm 1
 ********* NEXT Write Midterm 1
-	  DEADLINE: <2014-06-25 Wed>
+	  DEADLINE: <2014-06-24 Tue>
 	  :PROPERTIES:
 	  :Effort:   1:00
 	  :END:
@@ -9204,7 +9219,7 @@ Lectures in calendar and tasks like planning lectures.
 ********* TODO Write MT 1 solutions
 ******** TODO Midterm 2
 ********* NEXT Write Midterm 2
-	  DEADLINE: <2014-06-25 Wed>
+	  DEADLINE: <2014-06-24 Tue>
 	  :PROPERTIES:
 	  :Effort:   1:00
 	  :END:
@@ -9223,7 +9238,7 @@ Lectures in calendar and tasks like planning lectures.
 ********* TODO Write MT2 solutions
 ******** TODO Final
 ********* NEXT Write Final
-	 DEADLINE: <2014-06-25 Wed>
+	 DEADLINE: <2014-06-24 Tue>
 	  :PROPERTIES:
 	  :Effort:   1:30
 	  :END:
@@ -9347,6 +9362,22 @@ Peter 110
 <2014-08-29 Fri>
 ******** Homework 5 Due
 <2014-09-05 Fri>
+******* Office Hours
+******** O/H Week 1
+<2014-08-04 Mon 15:00-16:00>
+<2014-08-06 Wed 16:00-17:00>
+******** O/H Week 2
+<2014-08-11 Mon 15:00-16:00>
+<2014-08-13 Wed 16:00-17:00>
+******** O/H Week 3
+<2014-08-18 Mon 15:00-16:00>
+<2014-08-20 Wed 16:00-17:00>
+******** O/H Week 4
+<2014-08-25 Mon 15:00-16:00>
+<2014-08-27 Wed 16:00-17:00>
+******** O/H Week 5
+<2014-09-01 Mon 15:00-16:00>
+<2014-09-03 Wed 16:00-17:00>
 ***** TODO MATH20D
 [[file:~/working/ucsd/teaching/2014/summer2/math20d_summer2_2014]] 
 ****** Notes
@@ -9384,7 +9415,7 @@ Lectures in calendar and tasks like planning lectures.
 	 :PROPERTIES:
 	 :Effort:   0:10
 	 :END:
-******** NEXT Schedule tasks
+******** DONE Schedule tasks
 	 DEADLINE: <2014-06-20 Fri>
 	 :LOGBOOK:
 	 - State "DONE"       from "NEXT"       [2014-06-19 Thu 15:51]
@@ -9393,163 +9424,174 @@ Lectures in calendar and tasks like planning lectures.
 	 :PROPERTIES:
 	 :Effort:   0:30
 	 :END:
-- Set effort for tasks and schedule lec. planning, o/h etc.
 ******* TODO Lectures
-******** DONE Create Lecture Schedule
+	:LOGBOOK:
+	CLOCK: [2014-06-20 Fri 17:26]
+	:END:
+******** NEXT Create Lecture Schedule
+	 DEADLINE: <2014-06-20 Fri>
 	 :LOGBOOK:
-	 - State "DONE"       from "NEXT"       [2014-06-18 Wed 18:39]
 	 :END:
 	 :PROPERTIES:
 	 :Effort:   1:00
 	 :END:
+******** DONE Create Lecture Preparation Schedule
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2014-06-20 Fri 17:26]
+	 CLOCK: [2014-06-20 Fri 17:18]--[2014-06-20 Fri 17:26] =>  0:08
+	 :END:
+	 :PROPERTIES:
+	 :Effort:   0:15
+	 :END:
 ******** TODO Prepare Lectures
 ********* TODO Week 1
 ********** NEXT Prepare outline 1
-	   DEADLINE: <2014-07-28 Mon>
+	   DEADLINE: <2014-06-25 Wed>
 	   :PROPERTIES:
 	   :Effort:   1:30
 	   :END:
 ********** TODO Prepare Lecture 1.1
-	   DEADLINE: <2014-08-04 Mon>
+	   DEADLINE: <2014-07-31 Thu> SCHEDULED: <2014-07-29 Tue>
+
 	   :PROPERTIES:
 	   :Effort:   1:00
 	   :END:
 
 ********** TODO Prepare Lecture 1.2
-	   DEADLINE: <2014-08-05 Tue>
+	   DEADLINE: <2014-07-31 Thu> SCHEDULED: <2014-07-29 Tue>
 	   :PROPERTIES:
 	   :Effort:   1:00
 	   :END:
 
 ********** TODO Prepare Lecture 1.3
-	   DEADLINE: <2014-08-06 Wed>
+	   DEADLINE: <2014-07-31 Thu> SCHEDULED: <2014-07-31 Thu>
 	   :PROPERTIES:
 	   :Effort:   1:00
 	   :END:
 
 ********** TODO Prepare Lecture 1.4
-	   DEADLINE: <2014-08-07 Thu>
+	   DEADLINE: <2014-07-31 Thu> SCHEDULED: <2014-07-30 Wed>
 	   :PROPERTIES:
 	   :Effort:   1:00
 	   :END:
 
 ********* TODO Week 2
 ********** NEXT Prepare outline 2
-	   DEADLINE: <2014-08-04 Mon>
+	   DEADLINE: <2014-06-25 Wed>
 	   :PROPERTIES:
 	   :Effort:   1:30
 	   :END:
 
 ********** TODO Prepare Lecture 2.1
-	   DEADLINE: <2014-08-11 Mon>
+	   DEADLINE: <2014-08-07 Thu> SCHEDULED: <2014-08-05 Tue>
 	   :PROPERTIES:
 	   :Effort:   1:00
 	   :END:
 
 ********** TODO Prepare Lecture 2.2
-	   DEADLINE: <2014-08-12 Tue>
+	   DEADLINE: <2014-08-07 Thu> SCHEDULED: <2014-08-05 Tue>
 	   :PROPERTIES:
 	   :Effort:   1:00
 	   :END:
 
 ********** TODO Prepare Lecture 2.3
-	   DEADLINE: <2014-08-13 Wed>
+	   DEADLINE: <2014-08-07 Thu> SCHEDULED: <2014-08-07 Thu>
 	   :PROPERTIES:
 	   :Effort:   1:00
 	   :END:
 
 ********** TODO Prepare Lecture 2.4
-	   DEADLINE: <2014-08-14 Thu>
+	   DEADLINE: <2014-08-07 Thu> SCHEDULED: <2014-08-07 Thu>
 	   :PROPERTIES:
 	   :Effort:   1:00
 	   :END:
 
 ********* TODO Week 3
 ********** NEXT Prepare outline 3
-	   DEADLINE: <2014-08-11 Mon>
+	   DEADLINE: <2014-06-25 Wed>
 	   :PROPERTIES:
 	   :Effort:   1:30
 	   :END:
 ********** TODO Prepare Lecture 3.1
-	   DEADLINE: <2014-08-18 Mon>
+	   DEADLINE: <2014-08-14 Thu> SCHEDULED: <2014-08-12 Tue>
 	   :PROPERTIES:
 	   :Effort:   1:00
 	   :END:
 
 ********** TODO Prepare Lecture 3.2
-	   DEADLINE: <2014-08-19 Tue>
+	   DEADLINE: <2014-08-14 Thu> SCHEDULED: <2014-08-12 Tue>
 	   :PROPERTIES:
 	   :Effort:   1:00
 	   :END:
 
 ********** TODO Prepare Lecture 3.3
-	   DEADLINE: <2014-08-20 Wed>
+	   DEADLINE: <2014-08-14 Thu> SCHEDULED: <2014-08-14 Thu>
 	   :PROPERTIES:
 	   :Effort:   1:00
 	   :END:
 
 ********** TODO Prepare Lecture 3.4
-	   DEADLINE: <2014-08-21 Thu>
+	   DEADLINE: <2014-08-14 Thu> SCHEDULED: <2014-08-14 Thu>
 	   :PROPERTIES:
 	   :Effort:   1:00
 	   :END:
 
 ********* TODO Week 4
 ********** NEXT Prepare outline 4
-	   DEADLINE: <2014-08-18 Mon>
+	   DEADLINE: <2014-06-25 Wed>
 	   :PROPERTIES:
 	   :Effort:   1:30
 	   :END:
 ********** TODO Prepare Lecture 4.1
-	   DEADLINE: <2014-08-25 Mon>
+	   DEADLINE: <2014-08-21 Thu> SCHEDULED: <2014-08-19 Tue>
 	   :PROPERTIES:
 	   :Effort:   1:00
 	   :END:
 
 ********** TODO Prepare Lecture 4.2
-	   DEADLINE: <2014-08-26 Tue>
+	   DEADLINE: <2014-08-21 Thu> SCHEDULED: <2014-08-19 Tue>
 	   :PROPERTIES:
 	   :Effort:   1:00
 	   :END:
 
 ********** TODO Prepare Lecture 4.3
-	   DEADLINE: <2014-08-27 Wed>
+	   DEADLINE: <2014-08-21 Thu> SCHEDULED: <2014-08-21 Thu>
 	   :PROPERTIES:
 	   :Effort:   1:00
 	   :END:
 
 ********** TODO Prepare Lecture 4.4
-	   DEADLINE: <2014-08-28 Thu>
+	   DEADLINE: <2014-08-21 Thu> SCHEDULED: <2014-08-21 Thu>
 	   :PROPERTIES:
 	   :Effort:   1:00
 	   :END:
 
 ********* TODO Week 5
 ********** NEXT Prepare outline 5
-	   DEADLINE: <2014-08-25 Mon>
+	   DEADLINE: <2014-06-25 Wed>
 	   :PROPERTIES:
 	   :Effort:   1:30
 	   :END:
 ********** TODO Prepare Lecture 5.1
-	   DEADLINE: <2014-09-01 Mon>
+	   DEADLINE: <2014-08-28 Thu> SCHEDULED: <2014-08-26 Tue>
 	   :PROPERTIES:
 	   :Effort:   1:00
 	   :END:
 
 ********** TODO Prepare Lecture 5.2
-	   DEADLINE: <2014-09-02 Tue>
+	   DEADLINE: <2014-08-28 Thu> SCHEDULED: <2014-08-26 Tue>
 	   :PROPERTIES:
 	   :Effort:   1:00
 	   :END:
 
 ********** TODO Prepare Lecture 5.3
-	   DEADLINE: <2014-09-03 Wed>
+	   DEADLINE: <2014-08-28 Thu> SCHEDULED: <2014-08-28 Thu>
 	   :PROPERTIES:
 	   :Effort:   1:00
 	   :END:
 
 ********** TODO Prepare Lecture 5.4
-	   DEADLINE: <2014-09-04 Thu>
+	   DEADLINE: <2014-08-28 Thu> SCHEDULED: <2014-08-28 Thu>
 	   :PROPERTIES:
 	   :Effort:   1:00
 	   :END:
@@ -9568,7 +9610,7 @@ Lectures in calendar and tasks like planning lectures.
 	 :END:
 ******** TODO Midterm 1
 ********* NEXT Write Midterm 1
-	  DEADLINE: <2014-06-27 Fri>
+	  DEADLINE: <2014-06-25 Wed>
 	  :PROPERTIES:
 	  :Effort:   1:00
 	  :END:
@@ -9586,7 +9628,7 @@ Lectures in calendar and tasks like planning lectures.
 ********* TODO Write MT 1 solutions
 ******** TODO Midterm 2
 ********* NEXT Write Midterm 2
-	  DEADLINE: <2014-06-27 Fri>
+	  DEADLINE: <2014-06-25 Wed>
 	  :PROPERTIES:
 	  :Effort:   1:00
 	  :END:
@@ -9605,7 +9647,7 @@ Lectures in calendar and tasks like planning lectures.
 ********* TODO Write MT2 solutions
 ******** TODO Final
 ********* NEXT Write Final
-	 DEADLINE: <2014-06-27 Fri>
+	 DEADLINE: <2014-06-25 Wed>
 	  :PROPERTIES:
 	  :Effort:   1:30
 	  :END:
@@ -9718,6 +9760,27 @@ Center 119
 <2014-08-29 Fri>
 ******** Homework 5 Due
 <2014-09-05 Fri>
+******* Office Hours
+******** O/H Week 1
+<2014-08-04 Mon 16:00-17:00>
+<2014-08-06 Wed 15:00-16:00>
+
+******** O/H Week 2
+<2014-08-11 Mon 16:00-17:00>
+<2014-08-13 Wed 15:00-16:00>
+
+******** O/H Week 3
+<2014-08-18 Mon 16:00-17:00>
+<2014-08-20 Wed 15:00-16:00>
+
+******** O/H Week 4
+<2014-08-25 Mon 16:00-17:00>
+<2014-08-27 Wed 15:00-16:00>
+
+******** O/H Week 5
+<2014-09-01 Mon 16:00-17:00>
+<2014-09-03 Wed 15:00-16:00>
+
 ** Professional Development
 *** TODO Check out Center for Teaching Development
     :PROPERTIES:
