@@ -1837,6 +1837,7 @@ http://gmane.org
   :END:
 ** Organisation
   :LOGBOOK:
+  CLOCK: [2014-06-21 Sat 20:37]--[2014-06-21 Sat 20:44] =>  0:07
   CLOCK: [2014-06-20 Fri 17:16]--[2014-06-20 Fri 17:18] =>  0:02
   CLOCK: [2014-06-20 Fri 16:41]--[2014-06-20 Fri 16:48] =>  0:07
   CLOCK: [2014-06-20 Fri 14:42]--[2014-06-20 Fri 14:57] =>  0:15
@@ -3214,8 +3215,9 @@ Set some goals for the month. I should check someday projects for inclusion in t
 Check how I did last month. I guess the review and plan could probably go together. This is all broad stuff
 
 ** NEXT Daily Review [0/12]
-   SCHEDULED: <2014-06-20 Fri .+1d/2d>
+   SCHEDULED: <2014-06-22 Sun .+1d/2d>
    :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2014-06-21 Sat 21:10]
    - State "DONE"       from "NEXT"       [2014-06-19 Thu 16:36]
    - State "DONE"       from "NEXT"       [2014-06-18 Wed 20:27]
    CLOCK: [2014-06-18 Wed 20:25]--[2014-06-18 Wed 20:27] =>  0:02
@@ -3545,7 +3547,7 @@ Check how I did last month. I guess the review and plan could probably go togeth
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
    :ID:       616c5bd9-d941-4fcc-8874-2ff3c9e96b4a
-   :LAST_REPEAT: [2014-06-19 Thu 16:36]
+   :LAST_REPEAT: [2014-06-21 Sat 21:10]
    :END:
 
 What to review:
@@ -4235,9 +4237,10 @@ When I set up scoring the day:
 - [ ] Do short tasks
 - [ ] Record morning health stats
 
-** NEXT Weekly Review [18/20]
+** NEXT Weekly Review [2/20]
    SCHEDULED: <2014-06-16 Mon +1w>
    :LOGBOOK:
+   CLOCK: [2014-06-21 Sat 20:44]--[2014-06-21 Sat 21:10] =>  0:26
    CLOCK: [2014-06-21 Sat 10:52]--[2014-06-21 Sat 11:06] =>  0:14
    CLOCK: [2014-06-16 Mon 12:31]--[2014-06-16 Mon 13:19] =>  0:48
    - State "DONE"       from "NEXT"       [2014-06-09 Mon 12:09]
@@ -4372,41 +4375,41 @@ What to review:
 - [X] Check holding directory
   [[file:~/holding]]
 - [X] Check holding email folder
-- [X] Review weekly agenda =F12 a w//=
-- [X] Check clocking data for past week =v c=
+- [ ] Review weekly agenda =F12 a w//=
+- [ ] Check clocking data for past week =v c=
   - fix up any errors
-- [X] Review clock report for past week =R=
+- [ ] Review clock report for past week =R=
   - Check where we spent time (too much or too little) and rectify this week
-- [X] Look at entire agenda for today  =F12 SPC=
-- [X] Check un-committed work
-- [X] Refile tasks
-- [X] Weekly clean up
-  - [X] Clean up Downloads
-  - [X] Clean up tmp
-  - [X] Clean up tablet
-  - [X] Clean up phone
-- [X] Process incoming information
-  - [X] feedly
-  - [X] pocket
-- [X] Plan the upcoming week
+- [ ] Look at entire agenda for today  =F12 SPC=
+- [ ] Check un-committed work
+- [ ] Refile tasks
+- [ ] Weekly clean up
+  - [ ] Clean up Downloads
+  - [ ] Clean up tmp
+  - [ ] Clean up tablet
+  - [ ] Clean up phone
+- [ ] Process incoming information
+  - [ ] feedly
+  - [ ] pocket
+- [ ] Plan the upcoming week
   - Theme you days: teaching, admin/service, research, students, writing
   - [[file:daythemes.org][file:~/org/daythemes.org]]
-- [X] Review focus projects 
-- [X] Set focus
+- [ ] Review focus projects 
+- [ ] Set focus
 - [ ] Check follow-up paper folder
 - [ ] Collate the weeks: pad scribbles, org-mode notes, phone notes, etc.
-- [X] Check Finances
+- [ ] Check Finances
   - Check bank accounts and compare with what's still to come
   - Plan the weeks budget
   - Update monthly transactions
-- [X] Copy music to phone
-- [X] Share photos on Google+
-- [X] Update Abundant Harvest order
+- [ ] Copy music to phone
+- [ ] Share photos on Google+
+- [ ] Update Abundant Harvest order
   - http://www.abundantharvestorganics.com/
-- [X] Order meat
+- [ ] Order meat
   - http://www.son-riseranchstore.com/
 
-** NEXT Monthly (Quarterly?) Plan/Review [0/12]
+** NEXT Monthly (Quarterly?) Plan/Review [0/16]
    SCHEDULED: <2014-06-01 Sun +1m>
    - State "DONE"       from "NEXT"       [2013-03-19 Tue 11:34]
    :LOGBOOK:
@@ -4443,6 +4446,17 @@ What to review:
   - don't over commit!
   - Check how much I've already commited too, and maybe record available time left over to be updated as I change commitments
 - [ ] Check if I met my commitments and compare with estimates
+- [ ] Buy shopping vouchers
+- [ ] Get cash out
+  - Kid's pocket money ($40 in $5's)
+  - Weekly spending money
+- [ ] Transfer money to Google Wallet
+  - AH
+  - Rent Insurance
+  - Dropbox
+  - Hulu
+  - Netflix
+
 
 ** 6 monthly?
 ** yearly
