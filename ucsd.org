@@ -8905,6 +8905,9 @@ Lectures in calendar and tasks like planning lectures.
 ******* Admin
 ******* Office hours
 ******* TA Meetings
+	:LOGBOOK:
+	CLOCK: [2014-06-26 Thu 11:13]
+	:END:
 ****** Schedule
 ******* Lectures
 ******** Location
@@ -9681,6 +9684,7 @@ Lectures in calendar and tasks like planning lectures.
 ******** NEXT Set Homework
 	 SCHEDULED:  <2014-06-20 Fri>
 	 :LOGBOOK:
+	 CLOCK: [2014-06-26 Thu 11:12]--[2014-06-26 Thu 11:13] =>  0:01
 	 CLOCK: [2014-06-22 Sun 19:27]--[2014-06-22 Sun 19:48] =>  0:21
 	 :END:
 	 :PROPERTIES:
