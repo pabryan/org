@@ -5237,7 +5237,7 @@ http://www.uni-freiburg.de/administration/stellenboerse?erf=y&stellenid=8792&lay
     CLOCK: [2014-06-10 Tue 13:53]--[2014-06-10 Tue 14:09] =>  0:16
     :END:
 * Visiting
-** TODO Tasks
+** Tasks
 ** People
 *** Mu-Tao Wang
 **** DONE Contact Mu-Tao about visiting next year
@@ -5256,6 +5256,17 @@ http://www.uni-freiburg.de/administration/stellenboerse?erf=y&stellenid=8792&lay
      - State "DONE"       from "NEXT"       [2014-02-25 Tue 17:01]
      :END:
 *** 
+** 2015
+*** Hawaii Summer 2015
+**** Tasks
+***** WAITING Investigate visiting Uni Hawaii
+      :LOGBOOK:
+      - State "WAITING"    from "NEXT"       [2014-06-28 Sat 13:16] \\
+	Sent email to chair asking about possibilities.
+      CLOCK: [2014-06-28 Sat 12:55]--[2014-06-28 Sat 13:17] =>  0:22
+      :END:
+**** Notes
+
 * Personal Website
   :PROPERTIES:
   :ID:       05f896fc-0400-4ac3-bfef-5e3c5457fd02
