@@ -8568,6 +8568,7 @@ Lectures in calendar and tasks like planning lectures.
 ******** DONE Schedule Tasks
 	 SCHEDULED: <2014-06-17 Tue>
 	 :LOGBOOK:
+	 CLOCK: [2014-06-28 Sat 12:13]
 	 - State "DONE"       from "NEXT"       [2014-06-18 Wed 09:34]
 	 CLOCK: [2014-06-18 Wed 09:12]--[2014-06-18 Wed 09:34] =>  0:22
 	 :END:
@@ -8809,7 +8810,7 @@ Lectures in calendar and tasks like planning lectures.
 	 :END:
 ******** TODO Midterm 1
 ********* NEXT Write Midterm 1
-	  SCHEDULED: <2014-06-23 Mon>
+	  SCHEDULED: <2014-06-30 Mon>
 	  :PROPERTIES:
 	  :Effort:   1:00
 	  :END:
@@ -8828,7 +8829,7 @@ Lectures in calendar and tasks like planning lectures.
 ********* TODO Write MT 1 solutions
 ******** TODO Midterm 2
 ********* NEXT Write Midterm 2
-	  SCHEDULED: <2014-06-23 Mon>
+	  SCHEDULED: <2014-06-30 Mon>
 	  :PROPERTIES:
 	  :Effort:   1:00
 	  :END:
@@ -8846,7 +8847,7 @@ Lectures in calendar and tasks like planning lectures.
 ********* TODO Write MT2 solutions
 ******** TODO Final
 ********* NEXT Write Final
-	  SCHEDULED: <2014-06-23 Mon>
+	  SCHEDULED: <2014-06-30 Mon>
 	  :PROPERTIES:
 	  :Effort:   1:30
 	  :END:
@@ -8864,6 +8865,7 @@ Lectures in calendar and tasks like planning lectures.
 
 ******* DONE Homework
 	:LOGBOOK:
+	CLOCK: [2014-06-28 Sat 12:10]--[2014-06-28 Sat 12:13] =>  0:03
 	- State "DONE"       from "TODO"       [2014-06-18 Wed 12:24]
 	CLOCK: [2014-06-18 Wed 12:24]--[2014-06-18 Wed 12:35] =>  0:11
 	:END:
@@ -8877,7 +8879,11 @@ Lectures in calendar and tasks like planning lectures.
 	 :Effort:   0:30
 	 :END:
 
-******** TODO Reorganise homework to be more evenly spread
+******** DONE Reorganise homework to be more evenly spread
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2014-06-28 Sat 12:10]
+	 CLOCK: [2014-06-28 Sat 12:04]--[2014-06-28 Sat 12:10] =>  0:06
+	 :END:
 ******* TODO Website
 	:LOGBOOK:
 	CLOCK: [2014-06-17 Tue 15:53]--[2014-06-17 Tue 15:54] =>  0:01
@@ -8970,19 +8976,19 @@ HSS 1330
 ******** Homework 4 Due
 ******** Homework 5 Due
 ******* Office hours
-******** Week 1
+******** O/H Week 1
 <2014-06-30 Mon 11:30-13:00>
 <2014-07-02 Wed 11:30-13:00>
-******** Week 2
+******** O/H Week 2
 <2014-07-07 Mon 11:30-13:00>
 <2014-07-09 Wed 11:30-13:00>
-******** Week 3
+******** O/H Week 3
 <2014-07-14 Mon 11:30-13:00>
 <2014-07-16 Wed 11:30-13:00>
-******** Week 4
+******** O/H Week 4
 <2014-07-21 Mon 11:30-13:00>
 <2014-07-23 Wed 11:30-13:00>
-******** Week 5
+******** O/H Week 5
 <2014-07-28 Mon 11:30-13:00>
 <2014-07-30 Wed 11:30-13:00>
 
@@ -9221,7 +9227,7 @@ Lectures in calendar and tasks like planning lectures.
 	 :END:
 ******** TODO Midterm 1
 ********* NEXT Write Midterm 1
-	  SCHEDULED: <2014-06-24 Tue>
+	  SCHEDULED: <2014-07-01 Tue>
 	  :PROPERTIES:
 	  :Effort:   1:00
 	  :END:
@@ -9239,7 +9245,7 @@ Lectures in calendar and tasks like planning lectures.
 ********* TODO Write MT 1 solutions
 ******** TODO Midterm 2
 ********* NEXT Write Midterm 2
-	  SCHEDULED: <2014-06-24 Tue>
+	  SCHEDULED: <2014-07-01 Tue>
 	  :PROPERTIES:
 	  :Effort:   1:00
 	  :END:
@@ -9258,7 +9264,7 @@ Lectures in calendar and tasks like planning lectures.
 ********* TODO Write MT2 solutions
 ******** TODO Final
 ********* NEXT Write Final
-	 SCHEDULED: <2014-06-24 Tue>
+	 SCHEDULED: <2014-07-01 Tue>
 	  :PROPERTIES:
 	  :Effort:   1:30
 	  :END:
@@ -9631,7 +9637,7 @@ Lectures in calendar and tasks like planning lectures.
 	 :END:
 ******** TODO Midterm 1
 ********* NEXT Write Midterm 1
-	  SCHEDULED: <2014-06-25 Wed>
+	  SCHEDULED: <2014-07-03 Thu>
 	  :PROPERTIES:
 	  :Effort:   1:00
 	  :END:
@@ -9649,7 +9655,7 @@ Lectures in calendar and tasks like planning lectures.
 ********* TODO Write MT 1 solutions
 ******** TODO Midterm 2
 ********* NEXT Write Midterm 2
-	  SCHEDULED: <2014-06-25 Wed>
+	  SCHEDULED: <2014-07-03 Thu>
 	  :PROPERTIES:
 	  :Effort:   1:00
 	  :END:
@@ -9668,7 +9674,7 @@ Lectures in calendar and tasks like planning lectures.
 ********* TODO Write MT2 solutions
 ******** TODO Final
 ********* NEXT Write Final
-	 SCHEDULED: <2014-06-25 Wed>
+	 SCHEDULED: <2014-07-03 Thu>
 	  :PROPERTIES:
 	  :Effort:   1:30
 	  :END:
@@ -9682,7 +9688,7 @@ Lectures in calendar and tasks like planning lectures.
 	  :PROPERTIES:
 	  :Effort:   0:10
 	  :END:
-
+	  
 ******* TODO Homework
 ******** DONE Set Homework
 	 SCHEDULED:  <2014-06-20 Fri>
