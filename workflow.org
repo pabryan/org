@@ -1837,6 +1837,7 @@ http://gmane.org
   :END:
 ** Organisation
   :LOGBOOK:
+  CLOCK: [2014-06-27 Fri 17:20]--[2014-06-27 Fri 17:35] =>  0:15
   CLOCK: [2014-06-26 Thu 11:02]--[2014-06-26 Thu 11:04] =>  0:02
   CLOCK: [2014-06-23 Mon 14:32]--[2014-06-23 Mon 14:45] =>  0:13
   CLOCK: [2014-06-23 Mon 10:02]--[2014-06-23 Mon 10:06] =>  0:04
@@ -3578,8 +3579,9 @@ When I set up scoring the day:
 - [ ] Collate data such as sleep, weight, exercise, diet etc.
 
 ** NEXT Daily Plan [0/7]
-   SCHEDULED: <2014-06-24 Tue .+1d/2d>
+   SCHEDULED: <2014-06-28 Sat .+1d/2d>
    :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2014-06-27 Fri 17:30]
    CLOCK: [2014-06-26 Thu 11:04]--[2014-06-26 Thu 11:12] =>  0:08
    - State "DONE"       from "NEXT"       [2014-06-23 Mon 10:02]
    CLOCK: [2014-06-23 Mon 09:55]--[2014-06-23 Mon 10:02] =>  0:07
@@ -4237,7 +4239,7 @@ When I set up scoring the day:
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
    :ID:       ef051ee0-1113-4604-b355-450a5a47848b
-   :LAST_REPEAT: [2014-06-23 Mon 10:02]
+   :LAST_REPEAT: [2014-06-27 Fri 17:30]
    :LAST_REPEAT: [2014-01-25 Sat 12:49]
    :END:
 

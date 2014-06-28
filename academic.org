@@ -1653,6 +1653,7 @@ Let $\xi(p_0, q_0) = 0$ if $\tang_{p_0}=\tang_{q_0}$ and $1$ otherwise. Then I c
 
 ******* NEXT Proof reading
 	:LOGBOOK:
+	CLOCK: [2014-06-27 Fri 17:35]--[2014-06-27 Fri 18:14] =>  0:39
 	CLOCK: [2014-06-11 Wed 12:12]--[2014-06-11 Wed 12:57] =>  0:45
 	CLOCK: [2014-06-10 Tue 18:57]--[2014-06-10 Tue 20:03] =>  1:06
 	CLOCK: [2014-04-19 Sat 12:50]--[2014-04-19 Sat 14:09] =>  1:19
@@ -1687,8 +1688,9 @@ Let $\xi(p_0, q_0) = 0$ if $\tang_{p_0}=\tang_{q_0}$ and $1$ otherwise. Then I c
        :PROPERTIES:
        :ID:       0d285730-a2e7-4078-9d68-f4408c36d5e1
        :END:
-******* NEXT Write asymptotics
+******* DONE Write asymptotics
        :LOGBOOK:
+       - State "DONE"       from "NEXT"       [2014-06-27 Fri 19:02]
        CLOCK: [2013-12-09 Mon 10:00]--[2013-12-09 Mon 11:30] =>  1:30
        CLOCK: [2013-12-08 Sun 20:15]--[2013-12-08 Sun 20:52] =>  0:37
        CLOCK: [2013-12-08 Sun 15:10]--[2013-12-08 Sun 15:23] =>  0:13
@@ -1703,6 +1705,7 @@ Let $\xi(p_0, q_0) = 0$ if $\tang_{p_0}=\tang_{q_0}$ and $1$ otherwise. Then I c
        :END:
 ******* NEXT Get lower bound asymptotics
 	:LOGBOOK:
+	CLOCK: [2014-06-27 Fri 18:55]
 	CLOCK: [2013-12-08 Sun 13:10]--[2013-12-08 Sun 15:10] =>  2:00
 	:END:
 	:PROPERTIES:
