@@ -9201,7 +9201,7 @@ Lectures in calendar and tasks like planning lectures.
 
 ********* TODO Week 5
 	  :LOGBOOK:
-	  CLOCK: [2014-06-28 Sat 14:10]
+	  CLOCK: [2014-06-28 Sat 14:10]--[2014-06-28 Sat 14:11] =>  0:01
 	  :END:
 ********** DONE Prepare outline 5
 	   SCHEDULED: <2014-06-24 Tue>
@@ -9497,6 +9497,9 @@ Lectures in calendar and tasks like planning lectures.
 ********* TODO Week 1
 ********** NEXT Prepare outline 1
 	   SCHEDULED: <2014-06-25 Wed>
+	   :LOGBOOK:
+	   CLOCK: [2014-06-28 Sat 15:27]
+	   :END:
 	   :PROPERTIES:
 	   :Effort:   0:30
 	   :END:
