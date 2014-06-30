@@ -8923,6 +8923,9 @@ Lectures in calendar and tasks like planning lectures.
 HSS 1330
 ******** Mon
 ********* Lecture 1.1
+	  :LOGBOOK:
+	  CLOCK: [2014-06-30 Mon 09:18]--[2014-06-30 Mon 11:08] =>  1:50
+	  :END:
 <2014-06-30 Mon 09:30-11:00>
 ********* Lecture 2.1
 <2014-07-07 Mon 09:30-11:00>
