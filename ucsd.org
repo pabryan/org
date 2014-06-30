@@ -8811,6 +8811,10 @@ Lectures in calendar and tasks like planning lectures.
 ******** TODO Midterm 1
 ********* NEXT Write Midterm 1
 	  SCHEDULED: <2014-06-30 Mon>
+	  :LOGBOOK:
+	  CLOCK: [2014-06-30 Mon 12:52]--[2014-06-30 Mon 13:26] =>  0:34
+	  CLOCK: [2014-06-30 Mon 12:09]--[2014-06-30 Mon 12:40] =>  0:31
+	  :END:
 	  :PROPERTIES:
 	  :Effort:   1:00
 	  :END:
