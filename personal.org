@@ -732,6 +732,7 @@ Exercise is daily, the other two can be 1-2 days each.
    :END:
 [2013-01-05 Sat 13:12]
 *** TODO Change exercise, mobility, relax tasks
+    SCHEDULED: <2014-09-01 Mon>
   :LOGBOOK:
   CLOCK: [2014-01-29 Wed 11:06]--[2014-01-29 Wed 11:07] =>  0:01
   :END:
@@ -1079,7 +1080,7 @@ Doyle Field
 ** Triton 5k
 <2013-06-08 Sat 09:00>
 ** TODO Investigate surfing
-  SCHEDULED: <2014-06-22 Sun>
+   SCHEDULED: <2014-06-22 Sun>
    :PROPERTIES:
    :ID:       989fd81d-fc17-4825-afd3-0f2104d0b8a1
    :END:

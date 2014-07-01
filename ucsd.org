@@ -8946,7 +8946,7 @@ HSS 1330
 ******** Tue
 ********* Lecture 1.2
 	  :LOGBOOK:
-	  CLOCK: [2014-07-01 Tue 09:21]
+	  CLOCK: [2014-07-01 Tue 09:21]--[2014-07-01 Tue 11:10] =>  1:49
 	  :END:
 <2014-07-01 Tue 09:30-11:00>
 ********* Lecture 2.2
@@ -9264,7 +9264,7 @@ Lectures in calendar and tasks like planning lectures.
 	 :END:
 ******** TODO Midterm 1
 ********* NEXT Write Midterm 1
-	  SCHEDULED: <2014-07-01 Tue>
+	  SCHEDULED: <2014-07-21 Mon>
 	  :PROPERTIES:
 	  :Effort:   1:00
 	  :END:
@@ -9282,7 +9282,7 @@ Lectures in calendar and tasks like planning lectures.
 ********* TODO Write MT 1 solutions
 ******** TODO Midterm 2
 ********* NEXT Write Midterm 2
-	  SCHEDULED: <2014-07-01 Tue>
+	  SCHEDULED: <2014-07-21 Mon>
 	  :PROPERTIES:
 	  :Effort:   1:00
 	  :END:
@@ -9301,7 +9301,7 @@ Lectures in calendar and tasks like planning lectures.
 ********* TODO Write MT2 solutions
 ******** TODO Final
 ********* NEXT Write Final
-	 SCHEDULED: <2014-07-01 Tue>
+	 SCHEDULED: <2014-07-21 Mon>
 	  :PROPERTIES:
 	  :Effort:   1:30
 	  :END:

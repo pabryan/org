@@ -675,11 +675,11 @@ I want to have descriptions of my various research projects with clear aims, a s
 
 *** Captures
 **** CANCELLED Create capture for office hours
-  SCHEDULED: <2014-06-27 Fri>
-  :LOGBOOK:
-  - State "CANCELLED"  from "TODO"       [2014-06-30 Mon 22:12] \\
-    Not needed and a little too tricky to figure out.
-  :END:
+     SCHEDULED: <2014-06-27 Fri>
+     :LOGBOOK:
+     - State "CANCELLED"  from "TODO"       [2014-06-30 Mon 22:12] \\
+       Not needed and a little too tricky to figure out.
+     :END:
 [2014-02-10 Mon 15:45]
 How do I choose which course?
 *** Babel
@@ -3595,6 +3595,7 @@ When I set up scoring the day:
 ** NEXT Daily Plan [0/7]
    SCHEDULED: <2014-07-01 Tue .+1d/2d>
    :LOGBOOK:
+   CLOCK: [2014-07-01 Tue 11:10]
    - State "DONE"       from "NEXT"       [2014-06-30 Mon 12:08]
    CLOCK: [2014-06-30 Mon 12:03]--[2014-06-30 Mon 12:08] =>  0:05
    - State "DONE"       from "NEXT"       [2014-06-28 Sat 12:03]
