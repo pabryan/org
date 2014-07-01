@@ -674,8 +674,12 @@ I want to have descriptions of my various research projects with clear aims, a s
 [2014-04-02 Wed 14:32]
 
 *** Captures
-**** TODO Create capture for office hours
+**** CANCELLED Create capture for office hours
   SCHEDULED: <2014-06-27 Fri>
+  :LOGBOOK:
+  - State "CANCELLED"  from "TODO"       [2014-06-30 Mon 22:12] \\
+    Not needed and a little too tricky to figure out.
+  :END:
 [2014-02-10 Mon 15:45]
 How do I choose which course?
 *** Babel
@@ -1837,6 +1841,7 @@ http://gmane.org
   :END:
 ** Organisation
   :LOGBOOK:
+  CLOCK: [2014-06-30 Mon 22:11]--[2014-06-30 Mon 22:12] =>  0:01
   CLOCK: [2014-06-30 Mon 13:26]--[2014-06-30 Mon 13:29] =>  0:03
   CLOCK: [2014-06-30 Mon 12:08]--[2014-06-30 Mon 12:09] =>  0:01
   CLOCK: [2014-06-30 Mon 09:16]--[2014-06-30 Mon 09:18] =>  0:02
@@ -3228,8 +3233,10 @@ Set some goals for the month. I should check someday projects for inclusion in t
 Check how I did last month. I guess the review and plan could probably go together. This is all broad stuff
 
 ** NEXT Daily Review [0/12]
-   SCHEDULED: <2014-06-29 Sun .+1d/2d>
+   SCHEDULED: <2014-07-01 Tue .+1d/2d>
    :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2014-06-30 Mon 22:15]
+   CLOCK: [2014-06-30 Mon 22:12]--[2014-06-30 Mon 22:15] =>  0:03
    - State "DONE"       from "NEXT"       [2014-06-28 Sat 16:54]
    CLOCK: [2014-06-28 Sat 16:43]--[2014-06-28 Sat 16:54] =>  0:11
    - State "DONE"       from "NEXT"       [2014-06-22 Sun 22:03]
@@ -3563,7 +3570,7 @@ Check how I did last month. I guess the review and plan could probably go togeth
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
    :ID:       616c5bd9-d941-4fcc-8874-2ff3c9e96b4a
-   :LAST_REPEAT: [2014-06-28 Sat 16:54]
+   :LAST_REPEAT: [2014-06-30 Mon 22:15]
    :END:
 
 What to review:

@@ -8531,7 +8531,7 @@ A01 TuTh, 1:00p - 1:50p, SEQUO 147
 ********* A02
 A02 TuTh, 11:00a - 11:50a, SEQUO 147
 ********* A03
-TuTh, 12:00p - 12:50p, SEQUO 147
+	  TuTh, 12:00p - 12:50p, SEQUO 147
 ****** Tasks
 ******* TODO Plan course
 	:LOGBOOK:
@@ -8812,6 +8812,7 @@ Lectures in calendar and tasks like planning lectures.
 ********* NEXT Write Midterm 1
 	  SCHEDULED: <2014-06-30 Mon>
 	  :LOGBOOK:
+	  CLOCK: [2014-06-30 Mon 19:27]--[2014-06-30 Mon 19:40] =>  0:13
 	  CLOCK: [2014-06-30 Mon 12:52]--[2014-06-30 Mon 13:26] =>  0:34
 	  CLOCK: [2014-06-30 Mon 12:09]--[2014-06-30 Mon 12:40] =>  0:31
 	  :END:
@@ -8834,6 +8835,9 @@ Lectures in calendar and tasks like planning lectures.
 ******** TODO Midterm 2
 ********* NEXT Write Midterm 2
 	  SCHEDULED: <2014-06-30 Mon>
+	  :LOGBOOK:
+	  CLOCK: [2014-06-30 Mon 21:33]--[2014-06-30 Mon 22:11] =>  0:38
+	  :END:
 	  :PROPERTIES:
 	  :Effort:   1:00
 	  :END:
