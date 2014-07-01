@@ -3592,7 +3592,7 @@ When I set up scoring the day:
   - This would be ranking *qualitative* things such as general mood, pain, energy, motivation etc.
 - [ ] Collate data such as sleep, weight, exercise, diet etc.
 
-** NEXT Daily Plan [0/7]
+** NEXT Daily Plan [4/7]
    SCHEDULED: <2014-07-01 Tue .+1d/2d>
    :LOGBOOK:
    CLOCK: [2014-07-01 Tue 11:10]
@@ -4262,11 +4262,11 @@ When I set up scoring the day:
    :LAST_REPEAT: [2014-01-25 Sat 12:49]
    :END:
 
-- [ ] Check agenda/focus
+- [X] Check agenda/focus
 - [ ] Check weekly agenda
-- [ ] Check emails (including holding)
-- [ ] Check uncommitted work
-- [ ] Tidy up agenda tasks
+- [X] Check emails (including holding)
+- [X] Check uncommitted work
+- [X] Tidy up agenda tasks
   - mark done those tasks already done
 - [ ] Do short tasks
 - [ ] Record morning health stats

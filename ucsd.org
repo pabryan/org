@@ -9694,7 +9694,7 @@ Lectures in calendar and tasks like planning lectures.
 	 :END:
 ******** TODO Midterm 1
 ********* NEXT Write Midterm 1
-	  SCHEDULED: <2014-07-03 Thu>
+	  SCHEDULED: <2014-07-21 Mon>
 	  :PROPERTIES:
 	  :Effort:   1:00
 	  :END:
@@ -9712,7 +9712,7 @@ Lectures in calendar and tasks like planning lectures.
 ********* TODO Write MT 1 solutions
 ******** TODO Midterm 2
 ********* NEXT Write Midterm 2
-	  SCHEDULED: <2014-07-03 Thu>
+	  SCHEDULED: <2014-07-21 Mon>
 	  :PROPERTIES:
 	  :Effort:   1:00
 	  :END:
@@ -9731,7 +9731,7 @@ Lectures in calendar and tasks like planning lectures.
 ********* TODO Write MT2 solutions
 ******** TODO Final
 ********* NEXT Write Final
-	 SCHEDULED: <2014-07-03 Thu>
+	 SCHEDULED: <2014-07-21 Mon>
 	  :PROPERTIES:
 	  :Effort:   1:30
 	  :END:
