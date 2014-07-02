@@ -2015,10 +2015,10 @@ Here we look at a conformal change of metric. The Levy-Gromov comparison doesn't
 [[file:/home/pbryan/working/academic/research/free_k_graphs]]
 **** TODO Ricci Isoprofile Comparison
      SCHEDULED: <2014-09-01 Mon>
-   :PROPERTIES:
-   :ID:       39603eb5-2bec-4118-a705-a5287b9d5ad2
-   :END:
-SCHEDULED: <2014-07-01 Tue>
+     :PROPERTIES:
+     :ID:       39603eb5-2bec-4118-a705-a5287b9d5ad2
+     :END:
+
 ***** Files
 [[file:/home/pbryan/working/academic/research/ricci_isoprofile_comparison]]
 ***** Notes
@@ -3576,7 +3576,7 @@ Look at all dark matter papers. Alan Parry also. Bibliography of course!
 	:END:
 
 *** Derivations
-    SCHEDULED: <2014-07-01 Tue>
+    SCHEDULED: <2014-09-01 Mon>
 **** Notes
 ***** Motivation
 To what extent do the derivations determine the smooth structure? That is, I want to consider differential ringed spaces and say that a smooth structure is such a ringed space. Or in other words, how canonical is a derivation on a ringed space? So, I have a locally ringed space that is locally isomorphic to the smooth functions on $\RR^n$ and this determines the smooth structure and is thus may be equipped with the standard derivations of partial differentiation. What about some sort of converse to this? In other words, what are the derivations on $C^{\infty}(\RR^n)$? Is there some way of characterising the standard derivation? Is it some sort of universal derivation? What are the properties that determine it?
@@ -3592,7 +3592,7 @@ Also, can I prove that the usual derivation is the unique derivation satisfying 
 **** Refs
 **** Tasks
 *** TODO Prove similarity solns (self-shrinkers/translations) have polynomial growth
-  SCHEDULED: <2014-07-01 Tue>
+  SCHEDULED: <2014-09-01 Mon>
   :LOGBOOK:
   :END:
     :PROPERTIES:
@@ -3890,7 +3890,7 @@ http://mathoverflow.net/questions/14877/how-much-of-differential-geometry-can-be
   :END:
 - Often these are given by the wedge of some form. Is there some way to characterise such morphisms?
 *** TODO Investigate linearised MC
-  SCHEDULED: <2014-07-01 Tue>
+  SCHEDULED: <2014-09-01 Mon>
   :LOGBOOK:
   CLOCK: [2014-03-27 Thu 09:20]--[2014-03-27 Thu 09:22] =>  0:02
   :END:
@@ -3928,7 +3928,7 @@ Is there a consistent (say providing ZFC is consistent) set theory without the e
 ** Open Notebook
 *** Tasks
 **** NEXT Research starting an open notebook
-  SCHEDULED: <2014-07-01 Tue>
+  SCHEDULED: <2014-07-21 Mon>
   :LOGBOOK:
   CLOCK: [2013-08-06 Tue 20:54]--[2013-08-06 Tue 20:55] =>  0:01
   :END:
@@ -3968,7 +3968,7 @@ Is there a consistent (say providing ZFC is consistent) set theory without the e
    :ID:       0609581e-fe50-48ce-aa33-ce468c217f92
    :END:
 *** HOLD GMT								:GMT:
-    SCHEDULED: <2014-07-01 Tue>
+    SCHEDULED: <2014-09-01 Mon>
     :LOGBOOK:
     - State "HOLD"       from "TODO"       [2013-08-04 Sun 16:45] \\
       Don't have time for this right now!
@@ -3998,7 +3998,7 @@ First variation.
 ***** Lec 03
 Radon measures: compactness and Reisz representation.
 *** TODO Convex Geometry					     :CONVEX:
-    SCHEDULED: <2014-07-01 Tue>
+    SCHEDULED: <2014-09-01 Mon>
     :LOGBOOK:
     - State "TODO"       from "HOLD"       [2013-10-09 Wed 17:24]
     - State "HOLD"       from "TODO"       [2013-08-04 Sun 16:46] \\
@@ -4016,7 +4016,7 @@ Radon measures: compactness and Reisz representation.
      :END:
 
 *** TODO Bundle Theory						     :BUNDLE:
-    SCHEDULED: <2014-07-01 Tue>
+    SCHEDULED: <2014-09-01 Mon>
     :PROPERTIES:
     :ID:       05ad3c1c-4842-4796-8ecc-a417aee5b7cc
     :END:
