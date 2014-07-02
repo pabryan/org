@@ -868,7 +868,7 @@ CR-8403 - "Curvature contraction of convex hypersurfaces by nonsmooth speeds by 
       :END:
 **** Notes
 ***** TODO Selected papers
-  SCHEDULED: <2014-06-30 Mon>
+  SCHEDULED: <2014-09-01 Mon>
   :LOGBOOK:
   CLOCK: [2013-08-04 Sun 09:49]--[2013-08-04 Sun 09:50] =>  0:01
   :END:
@@ -917,7 +917,7 @@ So it seems that for hypersurfaces, or more generally sub-manifolds, upper curva
 Maybe make some points about how I could write the code to present data from spnet on a website and include that code in spnet
 *** Scirate
 **** TODO Investigate scirate
-  SCHEDULED: <2014-06-30 Mon>
+  SCHEDULED: <2014-09-01 Mon>
 [2014-03-05 Wed 13:27]
 https://scirate.com/
 
@@ -2014,7 +2014,7 @@ Here we look at a conformal change of metric. The Levy-Gromov comparison doesn't
    :END:
 [[file:/home/pbryan/working/academic/research/free_k_graphs]]
 **** TODO Ricci Isoprofile Comparison
-     SCHEDULED: <2014-06-30 Mon>
+     SCHEDULED: <2014-09-01 Mon>
    :PROPERTIES:
    :ID:       39603eb5-2bec-4118-a705-a5287b9d5ad2
    :END:
@@ -2172,7 +2172,7 @@ In particular, if $X$ is not a gradient vector field, what is corresponding metr
        :END:
 ****** NEXT Scan diagram of model construction
 ****** NEXT Re-investigate radial comparison
-       SCHEDULED: <2014-06-30 Mon>
+       SCHEDULED: <2014-09-01 Mon>
 
 ****** NEXT Work out curvature for model comparison
        :LOGBOOK:
@@ -4969,7 +4969,7 @@ My experiences learning/implementing these strategies.
 http://www.personalabteilung.hu-berlin.de/stellenausschreibungen/six-humboldt-post-doc-fellowships-temporary-positions-full-time-public-sector-pay-scale-13
 
 ***** TODO Apply thinktankmaths
-      SCHEDULED: <2014-06-30 Mon>
+      SCHEDULED: <2014-12-01 Mon>
   :LOGBOOK:
   CLOCK: [2014-03-08 Sat 19:49]--[2014-03-08 Sat 19:50] =>  0:01
   :END:
@@ -5246,7 +5246,7 @@ http://www.uni-freiburg.de/administration/stellenboerse?erf=y&stellenid=8792&lay
      - State "DONE"       from "NEXT"       [2014-02-25 Tue 16:55]
      :END:
 **** NEXT Prepare high codimension MCF support fn
-     SCHEDULED: <2014-06-30 Mon>
+     SCHEDULED: <2014-09-01 Mon>
 *** Hubert Bray
 **** NEXT Contact Hubert about visiting next year
 *** Yanir Rubinstein

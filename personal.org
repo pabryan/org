@@ -736,12 +736,12 @@ Exercise is daily, the other two can be 1-2 days each.
   CLOCK: [2014-01-29 Wed 11:06]--[2014-01-29 Wed 11:07] =>  0:01
   :END:
 [2014-09-01 Mon 11:06]
-- Walking
-- Strength/Conditioning
-- Mobility
-- Relaxation
-- Compensation
-SCHEDULED: <2014-06-22 Sun>
+- Walking 5 days/week
+- Strength/Conditioning 2 days/week
+- Mobility 7 days/week
+- Relaxation 7 days/week
+- Compensation 3 days/week
+SCHEDULED: <2014-07-21 Mon>
 ** Practices
 *** People/blogs
 **** Equinox
