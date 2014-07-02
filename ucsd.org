@@ -8902,6 +8902,7 @@ Lectures in calendar and tasks like planning lectures.
 	 :END:
 ******* TODO Website
 	:LOGBOOK:
+	CLOCK: [2014-07-02 Wed 09:18]--[2014-07-02 Wed 09:19] =>  0:01
 	CLOCK: [2014-06-17 Tue 15:53]--[2014-06-17 Tue 15:54] =>  0:01
 	:END:
 ******** DONE Make website
@@ -8920,8 +8921,12 @@ Lectures in calendar and tasks like planning lectures.
 	 :PROPERTIES:
 	 :Effort:   0:15
 	 :END:
-******** TODO Put O/H on 20E website
+******** DONE Put O/H on 20E website
 	 DEADLINE: <2014-07-02 Wed>
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2014-07-02 Wed 09:18]
+	 CLOCK: [2014-07-02 Wed 09:12]--[2014-07-02 Wed 09:18] =>  0:06
+	 :END:
 [2014-07-01 Tue 18:31]
 ******* TODO Grades
 ******** NEXT Enter grades
