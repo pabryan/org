@@ -8665,14 +8665,22 @@ Lectures in calendar and tasks like planning lectures.
 	   :PROPERTIES:
 	   :Effort:   0:30
 	   :END:
-********** TODO Prepare Lecture 2.1
+********** DONE Prepare Lecture 2.1
 	   SCHEDULED: <2014-07-01 Tue> DEADLINE: <2014-07-03 Thu>
+	   :LOGBOOK:
+	   - State "DONE"       from "NEXT"       [2014-07-01 Tue 13:16]
+	   CLOCK: [2014-07-01 Tue 11:57]--[2014-07-01 Tue 13:10] =>  1:13
+	   :END:
 	   :PROPERTIES:
 	   :Effort:   1:00
 	   :END:
 
-********** TODO Prepare Lecture 2.2
+********** DONE Prepare Lecture 2.2
 	   SCHEDULED: <2014-07-01 Tue> DEADLINE: <2014-07-03 Thu>
+	   :LOGBOOK:
+	   - State "DONE"       from "NEXT"       [2014-07-01 Tue 14:30]
+	   CLOCK: [2014-07-01 Tue 13:17]--[2014-07-01 Tue 14:30] =>  1:13
+	   :END:
 	   :PROPERTIES:
 	   :Effort:   1:00
 	   :END:
@@ -8945,6 +8953,9 @@ HSS 1330
 <2014-07-28 Mon 09:30-11:00>
 ******** Tue
 ********* Lecture 1.2
+	  :LOGBOOK:
+	  CLOCK: [2014-07-01 Tue 09:21]--[2014-07-01 Tue 11:10] =>  1:49
+	  :END:
 <2014-07-01 Tue 09:30-11:00>
 ********* Lecture 2.2
 <2014-07-08 Tue 09:30-11:00>
@@ -9261,7 +9272,7 @@ Lectures in calendar and tasks like planning lectures.
 	 :END:
 ******** TODO Midterm 1
 ********* NEXT Write Midterm 1
-	  SCHEDULED: <2014-07-01 Tue>
+	  SCHEDULED: <2014-07-21 Mon>
 	  :PROPERTIES:
 	  :Effort:   1:00
 	  :END:
@@ -9279,7 +9290,7 @@ Lectures in calendar and tasks like planning lectures.
 ********* TODO Write MT 1 solutions
 ******** TODO Midterm 2
 ********* NEXT Write Midterm 2
-	  SCHEDULED: <2014-07-01 Tue>
+	  SCHEDULED: <2014-07-21 Mon>
 	  :PROPERTIES:
 	  :Effort:   1:00
 	  :END:
@@ -9298,7 +9309,7 @@ Lectures in calendar and tasks like planning lectures.
 ********* TODO Write MT2 solutions
 ******** TODO Final
 ********* NEXT Write Final
-	 SCHEDULED: <2014-07-01 Tue>
+	 SCHEDULED: <2014-07-21 Mon>
 	  :PROPERTIES:
 	  :Effort:   1:30
 	  :END:
@@ -9691,7 +9702,7 @@ Lectures in calendar and tasks like planning lectures.
 	 :END:
 ******** TODO Midterm 1
 ********* NEXT Write Midterm 1
-	  SCHEDULED: <2014-07-03 Thu>
+	  SCHEDULED: <2014-07-21 Mon>
 	  :PROPERTIES:
 	  :Effort:   1:00
 	  :END:
@@ -9709,7 +9720,7 @@ Lectures in calendar and tasks like planning lectures.
 ********* TODO Write MT 1 solutions
 ******** TODO Midterm 2
 ********* NEXT Write Midterm 2
-	  SCHEDULED: <2014-07-03 Thu>
+	  SCHEDULED: <2014-07-21 Mon>
 	  :PROPERTIES:
 	  :Effort:   1:00
 	  :END:
@@ -9728,7 +9739,7 @@ Lectures in calendar and tasks like planning lectures.
 ********* TODO Write MT2 solutions
 ******** TODO Final
 ********* NEXT Write Final
-	 SCHEDULED: <2014-07-03 Thu>
+	 SCHEDULED: <2014-07-21 Mon>
 	  :PROPERTIES:
 	  :Effort:   1:30
 	  :END:
