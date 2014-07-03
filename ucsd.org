@@ -8943,6 +8943,9 @@ Lectures in calendar and tasks like planning lectures.
 ****** Clocking
 ******* Admin
 ******* Office hours
+	:LOGBOOK:
+	CLOCK: [2014-07-03 Thu 11:05]--[2014-07-03 Thu 11:47] =>  0:42
+	:END:
 ******* TA Meetings
 	:LOGBOOK:
 	CLOCK: [2014-06-26 Thu 11:13]--[2014-06-26 Thu 11:26] =>  0:13
@@ -8996,7 +8999,7 @@ HSS 1330
 ******** Thu
 ********* Lecture 1.4
 	  :LOGBOOK:
-	  CLOCK: [2014-07-03 Thu 09:22]
+	  CLOCK: [2014-07-03 Thu 09:22]--[2014-07-03 Thu 11:05] =>  1:43
 	  :END:
 <2014-07-03 Thu 09:30-11:00>
 ********* Lecture 2.4
