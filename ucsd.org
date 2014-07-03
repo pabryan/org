@@ -8654,6 +8654,7 @@ Lectures in calendar and tasks like planning lectures.
 	   :END:
 ********* TODO Week 2
 	  :LOGBOOK:
+	  CLOCK: [2014-07-03 Thu 14:12]--[2014-07-03 Thu 14:14] =>  0:02
 	  CLOCK: [2014-06-20 Fri 12:23]--[2014-06-20 Fri 12:24] =>  0:01
 	  :END:
 ********** DONE Prepare outline 2
@@ -8695,10 +8696,11 @@ Lectures in calendar and tasks like planning lectures.
 	   :Effort:   1:00
 	   :END:
 
-********** NEXT Prepare Lecture 2.4
+********** DONE Prepare Lecture 2.4
 	   SCHEDULED: <2014-07-03 Thu> DEADLINE: <2014-07-03 Thu>
 	   :LOGBOOK:
-	   CLOCK: [2014-07-03 Thu 13:55]
+	   - State "DONE"       from "NEXT"       [2014-07-03 Thu 14:12]
+	   CLOCK: [2014-07-03 Thu 13:55]--[2014-07-03 Thu 14:12] =>  0:17
 	   :END:
 	   :PROPERTIES:
 	   :Effort:   1:00
@@ -8836,9 +8838,10 @@ Lectures in calendar and tasks like planning lectures.
 	  :PROPERTIES:
 	  :Effort:   1:00
 	  :END:
-********* WAITING Get TA's comments
+********* DONE Get TA's comments
 	  DEADLINE: <2014-07-07 Mon>
 	  :LOGBOOK:
+	  - State "DONE"       from "WAITING"    [2014-07-03 Thu 14:14]
 	  - State "WAITING"    from "TODO"       [2014-07-02 Wed 13:18] \\
 	    Sent to TA. Waiting on response.
 	  :END:
@@ -8846,8 +8849,11 @@ Lectures in calendar and tasks like planning lectures.
 	  :Effort:   0:10
 	  :END:
 
-********* TODO Submit midterm to printing/frdesk
+********* DONE Submit midterm to printing/frdesk
 	  DEADLINE: <2014-07-07 Mon>
+	  :LOGBOOK:
+	  - State "DONE"       from "TODO"       [2014-07-03 Thu 14:14]
+	  :END:
 	  :PROPERTIES:
 	  :Effort:   0:10
 	  :END:
