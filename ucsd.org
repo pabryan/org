@@ -8859,9 +8859,11 @@ Lectures in calendar and tasks like planning lectures.
 	  :END:
 
 ********* TODO Write MT 1 solutions
-********* TODO Upload practice exams
+********* DONE Upload practice exams
   DEADLINE: <2014-07-05 Sat>
   :LOGBOOK:
+  - State "DONE"       from "NEXT"       [2014-07-06 Sun 11:30]
+  CLOCK: [2014-07-06 Sun 11:19]--[2014-07-06 Sun 11:30] =>  0:11
   CLOCK: [2014-07-05 Sat 15:09]--[2014-07-05 Sat 15:11] =>  0:02
   :END:
 [2014-07-05 Sat 15:09]
