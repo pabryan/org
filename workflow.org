@@ -1843,6 +1843,8 @@ http://gmane.org
   :END:
 ** Organisation
   :LOGBOOK:
+  CLOCK: [2014-07-05 Sat 10:29]--[2014-07-05 Sat 10:33] =>  0:04
+  CLOCK: [2014-07-05 Sat 10:22]--[2014-07-05 Sat 10:25] =>  0:03
   CLOCK: [2014-07-03 Thu 09:18]--[2014-07-03 Thu 09:22] =>  0:04
   CLOCK: [2014-07-02 Wed 11:29]--[2014-07-02 Wed 11:31] =>  0:02
   CLOCK: [2014-07-02 Wed 09:19]--[2014-07-02 Wed 09:23] =>  0:04
@@ -3603,8 +3605,10 @@ When I set up scoring the day:
 - [ ] Collate data such as sleep, weight, exercise, diet etc.
 
 ** NEXT Daily Plan [0/7]
-   SCHEDULED: <2014-07-04 Fri .+1d/2d>
+   SCHEDULED: <2014-07-06 Sun .+1d/2d>
    :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2014-07-05 Sat 10:29]
+   CLOCK: [2014-07-05 Sat 10:25]--[2014-07-05 Sat 10:29] =>  0:04
    - State "DONE"       from "NEXT"       [2014-07-03 Thu 14:14]
    - State "DONE"       from "NEXT"       [2014-07-02 Wed 09:12]
    CLOCK: [2014-07-02 Wed 09:05]--[2014-07-02 Wed 09:12] =>  0:07
@@ -4272,7 +4276,7 @@ When I set up scoring the day:
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
    :ID:       ef051ee0-1113-4604-b355-450a5a47848b
-   :LAST_REPEAT: [2014-07-03 Thu 14:14]
+   :LAST_REPEAT: [2014-07-05 Sat 10:29]
    :LAST_REPEAT: [2014-01-25 Sat 12:49]
    :END:
 
@@ -4285,9 +4289,10 @@ When I set up scoring the day:
 - [ ] Do short tasks
 - [ ] Record morning health stats
 
-** NEXT Weekly Review [17/20]
+** NEXT Weekly Review [16/20]
    SCHEDULED: <2014-06-16 Mon +1w>
    :LOGBOOK:
+   CLOCK: [2014-07-05 Sat 10:33]--[2014-07-05 Sat 11:23] =>  0:50
    CLOCK: [2014-07-01 Tue 18:53]--[2014-07-01 Tue 19:18] =>  0:25
    CLOCK: [2014-06-22 Sun 11:51]--[2014-06-22 Sun 12:24] =>  0:33
    CLOCK: [2014-06-21 Sat 20:44]--[2014-06-21 Sat 21:10] =>  0:26
@@ -4441,9 +4446,10 @@ What to review:
 - [X] Process incoming information
   - [X] feedly
   - [X] pocket
-- [X] Plan the upcoming week
+- [ ] Plan the upcoming week
   - Theme you days: teaching, admin/service, research, students, writing
   - [[file:daythemes.org][file:~/org/daythemes.org]]
+  - Schedule tasks for the week (writing, admin, etc.). See [[file:goals.org::*Weekly%20time][Weekly time]].
 - [X] Review focus projects 
 - [X] Set focus
 - [ ] Check follow-up paper folder

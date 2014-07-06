@@ -8859,6 +8859,13 @@ Lectures in calendar and tasks like planning lectures.
 	  :END:
 
 ********* TODO Write MT 1 solutions
+********* TODO Upload practice exams
+  DEADLINE: <2014-07-05 Sat>
+  :LOGBOOK:
+  CLOCK: [2014-07-05 Sat 15:09]--[2014-07-05 Sat 15:11] =>  0:02
+  :END:
+[2014-07-05 Sat 15:09]
+
 ******** TODO Midterm 2
 ********* NEXT Write Midterm 2
 	  SCHEDULED: <2014-07-10 Thu>

@@ -177,7 +177,10 @@ I want to do teaching with sage-tex and/or org-mode with babel; i.e. interactive
 ** DECRA
 *** 2015
 **** Tasks
-***** TODO Admin
+***** DONE Admin
+      :LOGBOOK:
+      - State "DONE"       from "TODO"       [2014-07-05 Sat 11:18]
+      :END:
 ****** DONE Contact Peter Bouwgnet to apply through ANU
        DEADLINE: <2014-02-28 Fri>
        :LOGBOOK:
@@ -386,7 +389,10 @@ I want to do teaching with sage-tex and/or org-mode with babel; i.e. interactive
 	:LOGBOOK:
 	- State "DONE"       from "NEXT"       [2014-03-16 Sun 11:27]
 	:END:
-***** TODO Final proposal
+***** DONE Final proposal
+      :LOGBOOK:
+      - State "DONE"       from "TODO"       [2014-07-05 Sat 11:18]
+      :END:
 ****** DONE Amend proposal based on Julies comments
        DEADLINE: <2014-03-21 Fri>
        :LOGBOOK:
@@ -429,6 +435,42 @@ I want to do teaching with sage-tex and/or org-mode with babel; i.e. interactive
        CLOCK: [2014-03-04 Tue 08:18]--[2014-03-04 Tue 09:27] =>  1:09
        CLOCK: [2014-03-03 Mon 21:21]--[2014-03-03 Mon 23:03] =>  1:42
        :END:
+***** TODO Rejoinder
+****** DONE Write outline
+       :LOGBOOK:
+       - State "DONE"       from "NEXT"       [2014-07-05 Sat 15:14]
+       CLOCK: [2014-07-05 Sat 15:11]--[2014-07-05 Sat 15:14] =>  0:03
+       CLOCK: [2014-07-05 Sat 14:05]--[2014-07-05 Sat 15:09] =>  1:04
+       CLOCK: [2014-07-05 Sat 11:54]--[2014-07-05 Sat 12:44] =>  0:50
+       :END:
+       :PROPERTIES:
+       :Effort:   2:00
+       :END:
+****** NEXT Write draft rejoinder
+       DEADLINE: <2014-07-07 Mon>
+       :LOGBOOK:
+       CLOCK: [2014-07-05 Sat 19:28]--[2014-07-05 Sat 20:18] =>  0:50
+       :END:
+       :PROPERTIES:
+       :Effort:   4:00
+       :END:
+
+****** WAITING Send draft to Ben & Julie for comments
+       :LOGBOOK:
+       - State "WAITING"    from "DONE"       [2014-07-05 Sat 20:18] \\
+	 Waiting for comments.
+       - State "DONE"       from "NEXT"       [2014-07-05 Sat 20:17]
+       :END:
+       :PROPERTIES:
+       :Effort:   00:10
+       :END:
+
+****** NEXT Write final rejoinder
+       DEADLINE: <2014-07-13 Sun> SCHEDULED: <2014-07-11 Fri>
+       :PROPERTIES:
+       :Effort:   3:00
+       :END:
+
 ***** Timeline
 ****** DONE Submit DECRA proposal
        DEADLINE: <2014-03-16 Sun -3w>
