@@ -436,6 +436,9 @@ I want to do teaching with sage-tex and/or org-mode with babel; i.e. interactive
        CLOCK: [2014-03-03 Mon 21:21]--[2014-03-03 Mon 23:03] =>  1:42
        :END:
 ***** TODO Rejoinder
+      :LOGBOOK:
+      CLOCK: [2014-07-06 Sun 11:34]--[2014-07-06 Sun 11:36] =>  0:02
+      :END:
 ****** DONE Write outline
        :LOGBOOK:
        - State "DONE"       from "NEXT"       [2014-07-05 Sat 15:14]
@@ -446,17 +449,23 @@ I want to do teaching with sage-tex and/or org-mode with babel; i.e. interactive
        :PROPERTIES:
        :Effort:   2:00
        :END:
-****** NEXT Write draft rejoinder
+****** DONE Write draft rejoinder
        DEADLINE: <2014-07-07 Mon>
        :LOGBOOK:
+       - State "DONE"       from "NEXT"       [2014-07-06 Sun 20:30]
+       CLOCK: [2014-07-06 Sun 19:45]--[2014-07-06 Sun 20:30] =>  0:45
+       CLOCK: [2014-07-06 Sun 15:18]--[2014-07-06 Sun 16:50] =>  1:32
+       CLOCK: [2014-07-06 Sun 11:36]--[2014-07-06 Sun 11:39] =>  0:03
+       CLOCK: [2014-07-06 Sun 10:25]--[2014-07-06 Sun 10:55] =>  0:30
        CLOCK: [2014-07-05 Sat 19:28]--[2014-07-05 Sat 20:18] =>  0:50
        :END:
        :PROPERTIES:
        :Effort:   4:00
        :END:
 
-****** WAITING Send draft to Ben & Julie for comments
+****** DONE Send draft to Ben & Julie for comments
        :LOGBOOK:
+       - State "DONE"       from "WAITING"    [2014-07-06 Sun 20:30]
        - State "WAITING"    from "DONE"       [2014-07-05 Sat 20:18] \\
 	 Waiting for comments.
        - State "DONE"       from "NEXT"       [2014-07-05 Sat 20:17]
