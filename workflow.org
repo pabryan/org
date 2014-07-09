@@ -1836,13 +1836,12 @@ http://gmane.org
     :END:
 [2014-04-29 Tue 16:25]
 * Clocking
-  :LOGBOOK:
-  :END:
   :PROPERTIES:
   :ID:       4257fe31-e606-4ca9-a848-858379409679
   :END:
 ** Organisation
   :LOGBOOK:
+  CLOCK: [2014-07-09 Wed 15:50]--[2014-07-09 Wed 16:17] =>  0:27
   CLOCK: [2014-07-08 Tue 13:21]--[2014-07-08 Tue 13:22] =>  0:01
   CLOCK: [2014-07-08 Tue 09:23]--[2014-07-08 Tue 09:24] =>  0:01
   CLOCK: [2014-07-07 Mon 09:10]--[2014-07-07 Mon 09:11] =>  0:01

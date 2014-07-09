@@ -1233,6 +1233,9 @@ Given $X$ in the equator, let $\rho_{\alpha}(X)$ be the infimum of the lengths o
 	CLOCK: [2014-04-15 Tue 15:49]--[2014-04-15 Tue 16:26] =>  0:37
 	:END:
 ******* NEXT Show that $L$ is bounded or $k$ decays exponentially
+	:LOGBOOK:
+	CLOCK: [2014-07-09 Wed 13:50]--[2014-07-09 Wed 15:30] =>  1:40
+	:END:
 ******* DONE Compile first draft
 	 SCHEDULED: <2014-05-19 Mon>
 	 :LOGBOOK:
