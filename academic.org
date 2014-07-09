@@ -1760,6 +1760,7 @@ Let $\xi(p_0, q_0) = 0$ if $\tang_{p_0}=\tang_{q_0}$ and $1$ otherwise. Then I c
        :END:
 ******* NEXT Get lower bound asymptotics
 	:LOGBOOK:
+	CLOCK: [2014-07-08 Tue 20:42]--[2014-07-08 Tue 21:18] =>  0:36
 	CLOCK: [2014-07-08 Tue 11:55]--[2014-07-08 Tue 12:28] =>  0:33
 	CLOCK: [2014-06-27 Fri 18:55]--[2014-06-27 Fri 19:30] =>  0:35
 	CLOCK: [2013-12-08 Sun 13:10]--[2013-12-08 Sun 15:10] =>  2:00
