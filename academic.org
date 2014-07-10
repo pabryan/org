@@ -5321,10 +5321,14 @@ http://www.uni-freiburg.de/administration/stellenboerse?erf=y&stellenid=8792&lay
 **** Tasks
 ***** WAITING Investigate visiting Uni Hawaii
       :LOGBOOK:
+      - State "WAITING"    from "WAITING"    [2014-07-10 Thu 09:18] \\
+	Sent email to instruction associate chair also.
       - State "WAITING"    from "NEXT"       [2014-06-28 Sat 13:16] \\
 	Sent email to chair asking about possibilities.
       CLOCK: [2014-06-28 Sat 12:55]--[2014-06-28 Sat 13:17] =>  0:22
       :END:
+***** NEXT Follow up for Hawaii summer teaching
+      SCHEDULED: <2014-10-01 Wed>
 **** Notes
 
 * Personal Website
