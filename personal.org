@@ -21,8 +21,108 @@ END:
   :END:
 
 ** Bank
-*** Chase Routing Number
+*** Chase
+**** Chase Routing Number
 322271627
+**** WAITING Get new Chase debit card
+  SCHEDULED: <2014-07-10 Thu>
+  :LOGBOOK:
+  - State "WAITING"    from "DONE"       [2014-07-10 Thu 17:49] \\
+    Sent message to chase to request a new card.
+  :END:
+[2014-07-10 Thu 11:25]
+***** Chase response
+Dear Paul A Bryan, 
+
+Thank you for contacting Chase. I understand how a damaged
+card can become a big inconvenience. It is my pleasure to 
+review your inquiry.
+
+For your protection, we need written instructions with 
+your signature to complete your request. You have three 
+options to request a new card or PIN for your Chase Debit 
+Card:
+
+- Visit any of our branches with a valid photo ID
+- Call us at the number below
+- Email, fax or mail us the below information. If you use 
+email, you must send the request as a PDF attachment. 
+
+- Your request for a new Chase Debit Card and/or PIN
+- Your full name as it appears on the account(s) 
+- Your full account number(s) 
+- Your current address 
+- Your current phone numbers (daytime and evening, with 
+area codes and country codes)
+- Your signature and the date
+
+When we receive your written instructions, we'll call you 
+to verify the information before we send you a new card.
+
+Here's our contact information: 
+
+Mail:
+Chase International Financial Services
+P.O. Box 659673
+San Antonio, TX 78265-9894
+
+Fax: 
+1-713-262-1884
+
+Email:
+Retail.IFS.Fulfillment@jpmchase.com
+
+We appreciate your business and your trust. If you have 
+any questions, please send us a message through the Chase 
+Online(SM) Secure Message Center while you?re logged on, 
+or call us at 1-713-262-1679. We?re here to help Monday 
+through Friday from 7 a.m. to 6 p.m. Central Time.
+
+Thank you, 
+
+
+Eymard U Inandan
+Internet Service Center
+
+
+
+
+Original Message Follows:
+------------------------
+
+
+CigProfileId:118685783
+NAME:PAUL A BRYAN
+CUSTOMER USERTYPE:PR
+CUSTOMER TYPE:PER
+CUSTOMER DOMAININDICATOR:COL
+
+SOURCE:COL Message Center
+CATEGORY TYPE:ATM Inquiry
+
+DOMAININDICATOR:COL
+ATTACHMENTSIZE:0
+ECI:0531519186
+PCUSTSEG:POH
+PRODTYPE:RBG
+TOPIC:Replacement Card
+PRODUCT CODE:010
+SUB PRODUCT CODE:390
+ACCOUNT NUMBER:476294124
+ATM CARD NUMBER:
+REASON FOR REPLACEMENT:Not working
+
+TYPE:PER
+ACCT TYPE:CHK
+
+My card won't swipe anymore.
+*** Google Wallet
+**** DONE Check Google Wallet balance
+  DEADLINE: <2014-07-10 Thu>
+  :LOGBOOK:
+  - State "DONE"       from "TODO"       [2014-07-10 Thu 17:37]
+  :END:
+[2014-07-10 Thu 11:25]
 ** Budget
 
 *** Monthly
@@ -2186,6 +2286,13 @@ Kambah ACT 2902
   :END:
 [2012-11-30 Fri 13:33]
 <2012-11-30 Fri>
+** TODO Pick up Kate from airport
+  SCHEDULED: <2014-07-14 Mon>
+  :LOGBOOK:
+  CLOCK: [2014-07-10 Thu 09:19]--[2014-07-10 Thu 09:20] =>  0:01
+  :END:
+[2014-07-10 Thu 09:19]
+
 * Languages							   :LANGUAGE:
   :PROPERTIES:
   :ID:       1e44ed1d-6c7b-4ded-a3e8-9b6611aded61

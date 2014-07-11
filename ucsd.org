@@ -9062,6 +9062,12 @@ HSS 1330
 ******** Homework 3 Due
 ******** Homework 4 Due
 ******** Homework 5 Due
+******** TODO Enter homework scores
+  :LOGBOOK:
+  CLOCK: [2014-07-02 Wed 11:42]--[2014-07-02 Wed 11:47] =>  0:05
+  :END:
+[2014-07-02 Wed 11:42]
+Nawar Fadil <nfadil@ucsd.edu>
 ******* Office hours
 ******** O/H Week 1
 	 :LOGBOOK:

@@ -1768,6 +1768,8 @@ Let $\xi(p_0, q_0) = 0$ if $\tang_{p_0}=\tang_{q_0}$ and $1$ otherwise. Then I c
        :END:
 ******* NEXT Get lower bound asymptotics
 	:LOGBOOK:
+	CLOCK: [2014-07-10 Thu 20:55]--[2014-07-10 Thu 22:26] =>  1:31
+	CLOCK: [2014-07-10 Thu 18:34]--[2014-07-10 Thu 19:46] =>  1:12
 	CLOCK: [2014-07-08 Tue 20:42]--[2014-07-08 Tue 21:18] =>  0:36
 	CLOCK: [2014-07-08 Tue 11:55]--[2014-07-08 Tue 12:28] =>  0:33
 	CLOCK: [2014-06-27 Fri 18:55]--[2014-06-27 Fri 19:30] =>  0:35
@@ -5278,8 +5280,9 @@ http://www.dtu.dk/Job/job?id=171c797f-0619-4bd4-a855-8ff6c4990af7
        :END:
 
 
-****** TODO Remind Ben to send reference letter
+****** DONE Remind Ben to send reference letter
   :LOGBOOK:
+  - State "DONE"       from "TODO"       [2014-07-10 Thu 18:17]
   CLOCK: [2014-06-10 Tue 14:17]--[2014-06-10 Tue 14:23] =>  0:06
   :END:
 [2014-06-10 Tue 14:17]
@@ -5288,6 +5291,9 @@ http://www.dtu.dk/Job/job?id=171c797f-0619-4bd4-a855-8ff6c4990af7
 http://www.uni-freiburg.de/administration/stellenboerse?erf=y&stellenid=8792&layout=v4&set_language=en
 [[file:~/reference/academic/jobs/2015/freiburg]]
 [[file:~/working/academic/jobs/job_applications/8792_freiburg]]
+**** TODO Monash
+***** NEXT Set up tasks/etc.
+- http://jobs.monash.edu.au/jobDetails.asp?sJobIDs=524967
 ** Tasks
 *** DONE Write research proposal/statement
     SCHEDULED: <2014-06-09 Mon>
@@ -5335,6 +5341,24 @@ http://www.uni-freiburg.de/administration/stellenboerse?erf=y&stellenid=8792&lay
 ***** NEXT Follow up for Hawaii summer teaching
       SCHEDULED: <2014-10-01 Wed>
 **** Notes
+*** New York Spring
+**** Notes
+***** Budget
+| Desc      |  Cost |
+|-----------+-------|
+| my flight |  -400 |
+| Accom.    | -3500 |
+| Simons    |  4000 |
+| Mu-Tao    |  2000 |
+| Expenses  | -1500 |
+|-----------+-------|
+| Total     |   600 |
+#+TBLFM: @>$2=vsum(@I..@II)
+
+***** Columbia Housing
+http://worklife.columbia.edu/temporary-housing-options#section0
+http://www.chelsmore.com/rates/
+**** Tasks
 
 * Personal Website
   :PROPERTIES:
