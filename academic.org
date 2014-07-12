@@ -477,6 +477,7 @@ I want to do teaching with sage-tex and/or org-mode with babel; i.e. interactive
 ****** NEXT Write final rejoinder
        DEADLINE: <2014-07-13 Sun> SCHEDULED: <2014-07-11 Fri>
        :LOGBOOK:
+       CLOCK: [2014-07-11 Fri 18:34]--[2014-07-11 Fri 18:50] =>  0:16
        CLOCK: [2014-07-08 Tue 09:16]--[2014-07-08 Tue 09:23] =>  0:07
        :END:
        :PROPERTIES:
@@ -1239,6 +1240,7 @@ Given $X$ in the equator, let $\rho_{\alpha}(X)$ be the infimum of the lengths o
 ******* TODO Convexity
 ******** NEXT Work out equivalent conditions to convexity
 	 :LOGBOOK:
+	 CLOCK: [2014-07-11 Fri 13:45]--[2014-07-11 Fri 14:20] =>  0:35
 	 CLOCK: [2014-07-10 Thu 09:45]--[2014-07-10 Thu 11:40] =>  1:55
 	 :END:
 ******* DONE Compile first draft
@@ -4821,6 +4823,7 @@ Rowland Hall 340P
 *** Fall 2014
 
 **** TODO Remind BADGS organisers I want to speak
+     SCHEDULED: <2014-07-21 Mon>
   :LOGBOOK:
   CLOCK: [2014-03-10 Mon 10:48]--[2014-03-10 Mon 10:50] =>  0:02
   :END:
@@ -5479,7 +5482,7 @@ http://modernizr.com/
 [2013-08-06 Tue 20:57]
 
 **** TODO Change course web template
-  SCHEDULED: <2014-07-07 Mon>
+  SCHEDULED: <2014-07-21 Mon>
   :LOGBOOK:
   CLOCK: [2013-09-22 Sun 12:41]--[2013-09-22 Sun 12:42] =>  0:01
   :END:
@@ -5548,6 +5551,6 @@ Remove sidebar
     :END:
 [2013-09-30 Mon 21:11]
 *** TODO Make print/mobile versions of website
-  SCHEDULED: <2014-07-07 Mon>
+  SCHEDULED: <2014-07-21 Mon>
 [2014-02-10 Mon 15:09]
 

@@ -44,7 +44,7 @@ Make a project that includes
 [2013-03-30 Sat 21:39]
 Publish to a different directory so I don't pollute my hg directory.
 ***** TODO Create publishing function for journal submission
-  SCHEDULED: <2014-07-07 Mon>
+  SCHEDULED: <2014-07-21 Mon>
   :LOGBOOK:
   CLOCK: [2014-03-18 Tue 17:41]--[2014-03-18 Tue 17:42] =>  0:01
   :END:
@@ -52,13 +52,13 @@ Publish to a different directory so I don't pollute my hg directory.
 I want to export for journals, including data such as email, classification etc.
 I think I need some sort of filter for this.
 ***** TODO Create setup file for org-mode latex docs
-  SCHEDULED: <2014-07-07 Mon>
+  SCHEDULED: <2014-07-21 Mon>
 [2014-04-12 Sat 19:26]
 - Put common things besides bib stuff into a setup file
 - All the basic publish options should also be in a master file
 **** General
 ***** NEXT Prevent new org-export from polluting src directory
-  SCHEDULED: <2014-07-07 Mon>
+  SCHEDULED: <2014-07-21 Mon>
   :LOGBOOK:
   CLOCK: [2014-04-18 Fri 12:38]--[2014-04-18 Fri 12:39] =>  0:01
   :END:
@@ -604,7 +604,7 @@ http://orgmode.org/worg/org-tutorials/org-google-sync.html
 
 *** Archiving
 **** TODO Archive things
-     SCHEDULED: <2014-07-07 Mon>
+     SCHEDULED: <2014-07-21 Mon>
   :PROPERTIES:
   :ID:       a1611ad9-0546-41d7-a584-9edb3ef77445
   :END:
@@ -658,7 +658,7 @@ Create papers, teaching, referring block
 Things are getting a little out of hand. I think I should break up configuration based on relevance: latex, agenda, etc.
 
 **** TODO Write research project summaries/proposals
-  SCHEDULED: <2014-07-07 Mon>
+  SCHEDULED: <2014-07-21 Mon>
   :LOGBOOK:
   CLOCK: [2014-03-21 Fri 13:09]--[2014-03-21 Fri 13:10] =>  0:01
   :END:
@@ -1841,6 +1841,7 @@ http://gmane.org
   :END:
 ** Organisation
   :LOGBOOK:
+  CLOCK: [2014-07-11 Fri 18:50]--[2014-07-11 Fri 18:54] =>  0:04
   CLOCK: [2014-07-10 Thu 22:26]--[2014-07-10 Thu 22:50] =>  0:24
   CLOCK: [2014-07-10 Thu 17:52]--[2014-07-10 Thu 18:34] =>  0:42
   CLOCK: [2014-07-09 Wed 15:50]--[2014-07-09 Wed 16:17] =>  0:27
@@ -3612,8 +3613,10 @@ When I set up scoring the day:
 - [ ] Collate data such as sleep, weight, exercise, diet etc.
 
 ** NEXT Daily Plan [0/7]
-   SCHEDULED: <2014-07-11 Fri .+1d/2d>
+   SCHEDULED: <2014-07-12 Sat .+1d/2d>
    :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2014-07-11 Fri 09:21]
+   CLOCK: [2014-07-11 Fri 09:17]--[2014-07-11 Fri 09:21] =>  0:04
    - State "DONE"       from "NEXT"       [2014-07-10 Thu 09:20]
    CLOCK: [2014-07-10 Thu 09:18]--[2014-07-10 Thu 09:19] =>  0:01
    CLOCK: [2014-07-10 Thu 09:13]--[2014-07-10 Thu 09:14] =>  0:01
@@ -4292,7 +4295,7 @@ When I set up scoring the day:
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
    :ID:       ef051ee0-1113-4604-b355-450a5a47848b
-   :LAST_REPEAT: [2014-07-10 Thu 17:34]
+   :LAST_REPEAT: [2014-07-11 Fri 09:21]
    :LAST_REPEAT: [2014-01-25 Sat 12:49]
    :END:
 
