@@ -1240,6 +1240,8 @@ Given $X$ in the equator, let $\rho_{\alpha}(X)$ be the infimum of the lengths o
 ******* TODO Convexity
 ******** NEXT Work out equivalent conditions to convexity
 	 :LOGBOOK:
+	 CLOCK: [2014-07-12 Sat 21:28]--[2014-07-12 Sat 23:50] =>  2:22
+	 CLOCK: [2014-07-12 Sat 13:00]--[2014-07-12 Sat 16:01] =>  3:01
 	 CLOCK: [2014-07-11 Fri 13:45]--[2014-07-11 Fri 14:20] =>  0:35
 	 CLOCK: [2014-07-10 Thu 09:45]--[2014-07-10 Thu 11:40] =>  1:55
 	 :END:
@@ -1768,8 +1770,11 @@ Let $\xi(p_0, q_0) = 0$ if $\tang_{p_0}=\tang_{q_0}$ and $1$ otherwise. Then I c
        :PROPERTIES:
        :ID:       21c4ab7e-6891-48d6-b551-9932702a3a3a
        :END:
-******* NEXT Get lower bound asymptotics
+******* WAITING Get lower bound asymptotics
 	:LOGBOOK:
+	- State "WAITING"    from "NEXT"       [2014-07-12 Sat 10:16] \\
+	  Sent to Ben to check my work.
+	CLOCK: [2014-07-12 Sat 09:15]--[2014-07-12 Sat 10:16] =>  1:01
 	CLOCK: [2014-07-10 Thu 20:55]--[2014-07-10 Thu 22:26] =>  1:31
 	CLOCK: [2014-07-10 Thu 18:34]--[2014-07-10 Thu 19:46] =>  1:12
 	CLOCK: [2014-07-08 Tue 20:42]--[2014-07-08 Tue 21:18] =>  0:36
@@ -5296,7 +5301,11 @@ http://www.uni-freiburg.de/administration/stellenboerse?erf=y&stellenid=8792&lay
 [[file:~/working/academic/jobs/job_applications/8792_freiburg]]
 **** TODO Monash
 ***** NEXT Set up tasks/etc.
+      DEADLINE: <2014-07-20 Sun>
 - http://jobs.monash.edu.au/jobDetails.asp?sJobIDs=524967
+***** TODO Submit application
+      DEADLINE: <2014-08-22 Fri>
+
 ** Tasks
 *** DONE Write research proposal/statement
     SCHEDULED: <2014-06-09 Mon>

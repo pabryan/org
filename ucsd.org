@@ -8927,7 +8927,7 @@ Lectures in calendar and tasks like planning lectures.
 	  :Effort:   0:10
 	  :END:
 
-******* DONE Homework
+******* TODO Homework
 	:LOGBOOK:
 	CLOCK: [2014-06-28 Sat 12:10]--[2014-06-28 Sat 12:13] =>  0:03
 	- State "DONE"       from "TODO"       [2014-06-18 Wed 12:24]
@@ -8948,6 +8948,12 @@ Lectures in calendar and tasks like planning lectures.
 	 - State "DONE"       from "NEXT"       [2014-06-28 Sat 12:10]
 	 CLOCK: [2014-06-28 Sat 12:04]--[2014-06-28 Sat 12:10] =>  0:06
 	 :END:
+******** NEXT Change  Nawar Fadil homework scores
+1. 12/15
+2. 15/15
+3. 14/15
+4. 14/15
+5. 14/15
 ******* TODO Website
 	:LOGBOOK:
 	CLOCK: [2014-07-02 Wed 09:18]--[2014-07-02 Wed 09:19] =>  0:01
