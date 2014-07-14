@@ -1242,6 +1242,7 @@ Given $X$ in the equator, let $\rho_{\alpha}(X)$ be the infimum of the lengths o
 ******* TODO Convexity
 ******** NEXT Work out equivalent conditions to convexity
 	 :LOGBOOK:
+	 CLOCK: [2014-07-14 Mon 12:20]
 	 CLOCK: [2014-07-13 Sun 20:54]--[2014-07-13 Sun 21:29] =>  0:35
 	 CLOCK: [2014-07-13 Sun 19:08]--[2014-07-13 Sun 19:47] =>  0:39
 	 CLOCK: [2014-07-13 Sun 17:51]--[2014-07-13 Sun 18:25] =>  0:34
