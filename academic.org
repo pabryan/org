@@ -474,9 +474,11 @@ I want to do teaching with sage-tex and/or org-mode with babel; i.e. interactive
        :Effort:   00:10
        :END:
 
-****** NEXT Write final rejoinder
+****** DONE Write final rejoinder
        DEADLINE: <2014-07-13 Sun> SCHEDULED: <2014-07-11 Fri>
        :LOGBOOK:
+       - State "DONE"       from "NEXT"       [2014-07-13 Sun 18:37]
+       CLOCK: [2014-07-13 Sun 18:25]--[2014-07-13 Sun 18:37] =>  0:12
        CLOCK: [2014-07-11 Fri 18:34]--[2014-07-11 Fri 18:50] =>  0:16
        CLOCK: [2014-07-08 Tue 09:16]--[2014-07-08 Tue 09:23] =>  0:07
        :END:
@@ -508,9 +510,9 @@ https://rms.arc.gov.au/
 http://sydney.edu.au/research_support/funding/arc/apply.shtml
 https://researchservices.anu.edu.au/osr/programs/arc/arc-decra15.php
 **** Files
-[[file:~/reference/academic/grants/2015/decra]]
 [[file:~/working/academic/grants/decra/2015]]
-[[file:~/publish/decra_2015]]
+[[file:~/reference/academic/grants/2015/decra]]
+file:~/publish/decra_2015
 * Journals
   :PROPERTIES:
   :ID:       befc3eb8-1613-4ad7-b07f-d3190d33a71a
@@ -1240,6 +1242,12 @@ Given $X$ in the equator, let $\rho_{\alpha}(X)$ be the infimum of the lengths o
 ******* TODO Convexity
 ******** NEXT Work out equivalent conditions to convexity
 	 :LOGBOOK:
+	 CLOCK: [2014-07-13 Sun 20:54]--[2014-07-13 Sun 21:29] =>  0:35
+	 CLOCK: [2014-07-13 Sun 19:08]--[2014-07-13 Sun 19:47] =>  0:39
+	 CLOCK: [2014-07-13 Sun 17:51]--[2014-07-13 Sun 18:25] =>  0:34
+	 CLOCK: [2014-07-13 Sun 15:16]--[2014-07-13 Sun 15:58] =>  0:42
+	 CLOCK: [2014-07-13 Sun 10:05]--[2014-07-13 Sun 10:41] =>  0:36
+	 CLOCK: [2014-07-13 Sun 09:15]--[2014-07-13 Sun 09:55] =>  0:40
 	 CLOCK: [2014-07-12 Sat 21:28]--[2014-07-12 Sat 23:50] =>  2:22
 	 CLOCK: [2014-07-12 Sat 13:00]--[2014-07-12 Sat 16:01] =>  3:01
 	 CLOCK: [2014-07-11 Fri 13:45]--[2014-07-11 Fri 14:20] =>  0:35
@@ -5023,7 +5031,7 @@ My experiences learning/implementing these strategies.
 - Difficulty
   - Challenging but not too hard.
   - Don't forget students need to solve some simple problems to get a feel for the material and to feel they can do the course and accomplish something
-* Jobs
+* Jobs								       :JOBS:
   :PROPERTIES:
   :ID:       2b0982fc-9928-4b13-bfd4-c4c0ae7c3094
   :END:
@@ -5299,7 +5307,7 @@ http://www.dtu.dk/Job/job?id=171c797f-0619-4bd4-a855-8ff6c4990af7
 http://www.uni-freiburg.de/administration/stellenboerse?erf=y&stellenid=8792&layout=v4&set_language=en
 [[file:~/reference/academic/jobs/2015/freiburg]]
 [[file:~/working/academic/jobs/job_applications/8792_freiburg]]
-**** TODO Monash
+**** TODO Monash						     :MONASH:
 ***** NEXT Set up tasks/etc.
       DEADLINE: <2014-07-20 Sun>
 - http://jobs.monash.edu.au/jobDetails.asp?sJobIDs=524967
