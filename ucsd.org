@@ -8897,8 +8897,12 @@ Lectures in calendar and tasks like planning lectures.
 	  :PROPERTIES:
 	  :Effort:   1:00
 	  :END:
-********* TODO Get TA's comments
+********* WAITING Get TA's comments
 	  DEADLINE: <2014-07-21 Mon>
+	  :LOGBOOK:
+	  - State "WAITING"    from "TODO"       [2014-07-14 Mon 09:17] \\
+	    Waiting on comments.
+	  :END:
 	  :PROPERTIES:
 	  :Effort:   0:10
 	  :END:
@@ -9014,6 +9018,9 @@ HSS 1330
 	  :END:
 <2014-07-07 Mon 09:30-11:00>
 ********* Lecture 3.1
+	  :LOGBOOK:
+	  CLOCK: [2014-07-14 Mon 09:24]
+	  :END:
 <2014-07-14 Mon 09:30-11:00>
 ********* Lecture 4.1
 <2014-07-21 Mon 09:30-11:00>

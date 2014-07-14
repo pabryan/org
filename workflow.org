@@ -43,9 +43,10 @@ Make a project that includes
    :END:
 [2013-03-30 Sat 21:39]
 Publish to a different directory so I don't pollute my hg directory.
-***** TODO Create publishing function for journal submission
+***** NEXT Create publishing function for journal submission
   SCHEDULED: <2014-07-21 Mon>
   :LOGBOOK:
+  CLOCK: [2014-07-14 Mon 09:16]--[2014-07-14 Mon 09:19] =>  0:03
   CLOCK: [2014-03-18 Tue 17:41]--[2014-03-18 Tue 17:42] =>  0:01
   :END:
 [2014-03-18 Tue 17:41]
@@ -1841,6 +1842,7 @@ http://gmane.org
   :END:
 ** Organisation
   :LOGBOOK:
+  CLOCK: [2014-07-14 Mon 09:22]--[2014-07-14 Mon 09:24] =>  0:02
   CLOCK: [2014-07-11 Fri 18:50]--[2014-07-11 Fri 18:54] =>  0:04
   CLOCK: [2014-07-10 Thu 22:26]--[2014-07-10 Thu 22:50] =>  0:24
   CLOCK: [2014-07-10 Thu 17:52]--[2014-07-10 Thu 18:34] =>  0:42
@@ -3613,8 +3615,10 @@ When I set up scoring the day:
 - [ ] Collate data such as sleep, weight, exercise, diet etc.
 
 ** NEXT Daily Plan [0/7]
-   SCHEDULED: <2014-07-14 Mon .+1d/2d>
+   SCHEDULED: <2014-07-15 Tue .+1d/2d>
    :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2014-07-14 Mon 09:22]
+   CLOCK: [2014-07-14 Mon 09:19]--[2014-07-14 Mon 09:22] =>  0:03
    - State "DONE"       from "NEXT"       [2014-07-13 Sun 10:05]
    CLOCK: [2014-07-13 Sun 09:56]--[2014-07-13 Sun 10:05] =>  0:09
    - State "DONE"       from "NEXT"       [2014-07-12 Sat 09:10]
@@ -4299,7 +4303,7 @@ When I set up scoring the day:
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
    :ID:       ef051ee0-1113-4604-b355-450a5a47848b
-   :LAST_REPEAT: [2014-07-13 Sun 10:05]
+   :LAST_REPEAT: [2014-07-14 Mon 09:22]
    :LAST_REPEAT: [2014-01-25 Sat 12:49]
    :END:
 
