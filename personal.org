@@ -2286,9 +2286,10 @@ Kambah ACT 2902
   :END:
 [2012-11-30 Fri 13:33]
 <2012-11-30 Fri>
-** TODO Pick up Kate from airport
+** DONE Pick up Kate from airport
   SCHEDULED: <2014-07-14 Mon>
   :LOGBOOK:
+  - State "DONE"       from "TODO"       [2014-07-15 Tue 09:15]
   CLOCK: [2014-07-10 Thu 09:19]--[2014-07-10 Thu 09:20] =>  0:01
   :END:
 [2014-07-10 Thu 09:19]
