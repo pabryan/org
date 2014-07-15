@@ -8760,6 +8760,7 @@ Lectures in calendar and tasks like planning lectures.
 
 ********* TODO Week 4
    :LOGBOOK:
+   CLOCK: [2014-07-15 Tue 12:33]--[2014-07-15 Tue 12:34] =>  0:01
    CLOCK: [2014-06-20 Fri 14:21]--[2014-06-20 Fri 14:22] =>  0:01
    :END:
 ********** DONE Prepare outline 4
@@ -8771,10 +8772,11 @@ Lectures in calendar and tasks like planning lectures.
 	   :PROPERTIES:
 	   :Effort:   0:30
 	   :END:
-********** NEXT Prepare Lecture 4.1
+********** DONE Prepare Lecture 4.1
 	   SCHEDULED: <2014-07-15 Tue> DEADLINE: <2014-07-17 Thu>
 	   :LOGBOOK:
-	   CLOCK: [2014-07-15 Tue 11:11]
+	   - State "DONE"       from "NEXT"       [2014-07-15 Tue 12:33]
+	   CLOCK: [2014-07-15 Tue 11:11]--[2014-07-15 Tue 12:33] =>  1:22
 	   :END:
 	   :PROPERTIES:
 	   :Effort:   1:00
