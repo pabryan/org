@@ -3257,8 +3257,10 @@ Set some goals for the month. I should check someday projects for inclusion in t
 Check how I did last month. I guess the review and plan could probably go together. This is all broad stuff
 
 ** NEXT Daily Review [0/12]
-   SCHEDULED: <2014-07-07 Mon .+1d/2d>
+   SCHEDULED: <2014-07-16 Wed .+1d/2d>
    :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2014-07-15 Tue 19:54]
+   CLOCK: [2014-07-15 Tue 19:53]--[2014-07-15 Tue 19:54] =>  0:01
    - State "DONE"       from "NEXT"       [2014-07-06 Sun 20:40]
    CLOCK: [2014-07-06 Sun 20:31]--[2014-07-06 Sun 20:40] =>  0:09
    - State "DONE"       from "NEXT"       [2014-07-01 Tue 18:41]
@@ -3599,7 +3601,7 @@ Check how I did last month. I guess the review and plan could probably go togeth
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
    :ID:       616c5bd9-d941-4fcc-8874-2ff3c9e96b4a
-   :LAST_REPEAT: [2014-07-06 Sun 20:40]
+   :LAST_REPEAT: [2014-07-15 Tue 19:54]
    :END:
 
 What to review:
@@ -4325,9 +4327,10 @@ When I set up scoring the day:
 - [ ] Do short tasks
 - [ ] Record morning health stats
 
-** NEXT Weekly Review [16/20]
+** NEXT Weekly Review [18/20]
    SCHEDULED: <2014-06-16 Mon +1w>
    :LOGBOOK:
+   CLOCK: [2014-07-15 Tue 19:31]--[2014-07-15 Tue 19:53] =>  0:22
    CLOCK: [2014-07-05 Sat 10:33]--[2014-07-05 Sat 11:23] =>  0:50
    CLOCK: [2014-07-01 Tue 18:53]--[2014-07-01 Tue 19:18] =>  0:25
    CLOCK: [2014-06-22 Sun 11:51]--[2014-06-22 Sun 12:24] =>  0:33
@@ -4482,7 +4485,7 @@ What to review:
 - [X] Process incoming information
   - [X] feedly
   - [X] pocket
-- [ ] Plan the upcoming week
+- [X] Plan the upcoming week
   - Theme you days: teaching, admin/service, research, students, writing
   - [[file:daythemes.org][file:~/org/daythemes.org]]
   - Schedule tasks for the week (writing, admin, etc.). See [[file:goals.org::*Weekly%20time][Weekly time]].
@@ -4494,7 +4497,7 @@ What to review:
   - Check bank accounts and compare with what's still to come
   - Plan the weeks budget
   - Update monthly transactions
-- [ ] Copy music to phone
+- [X] Copy music to phone
 - [X] Share photos on Google+
 - [X] Update Abundant Harvest order
   - http://www.abundantharvestorganics.com/
