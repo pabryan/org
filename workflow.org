@@ -1842,6 +1842,7 @@ http://gmane.org
   :END:
 ** Organisation
   :LOGBOOK:
+  CLOCK: [2014-07-16 Wed 13:25]--[2014-07-16 Wed 13:33] =>  0:08
   CLOCK: [2014-07-16 Wed 11:12]--[2014-07-16 Wed 11:35] =>  0:23
   CLOCK: [2014-07-16 Wed 09:25]--[2014-07-16 Wed 09:26] =>  0:01
   CLOCK: [2014-07-15 Tue 13:31]--[2014-07-15 Tue 13:43] =>  0:12
@@ -3213,6 +3214,7 @@ http://gmane.org
   :CLOCK_MODELINE_TOTAL: today
   :ID:       0a16188e-7a1a-4413-a516-5127dcbee30c
   :ORDERED:  t
+  :Effort:   0:00
   :END:
    
 ** Personal Organisation

@@ -9191,7 +9191,7 @@ Nawar Fadil <nfadil@ucsd.edu>
 <2014-07-09 Wed 11:30-13:00>
 ******** O/H Week 3
 	 :LOGBOOK:
-	 CLOCK: [2014-07-16 Wed 11:35]
+	 CLOCK: [2014-07-16 Wed 11:35]--[2014-07-16 Wed 13:25] =>  1:50
 	 CLOCK: [2014-07-14 Mon 11:47]--[2014-07-14 Mon 12:18] =>  0:31
 	 :END:
 	 :PROPERTIES:
@@ -9212,6 +9212,12 @@ Nawar Fadil <nfadil@ucsd.edu>
 <2014-07-28 Mon 11:30-13:00>
 <2014-07-30 Wed 11:30-13:00>
 
+******* Student Meetings
+******** Nikhita Devgan 
+	 <2014-07-17 Thu 14:00-1> 
+	 :PROPERTIES:
+	 :Effort: 1:00
+	 :END:
 **** Summer 2014 II
 ***** TODO MATH20C
 [[file:~/working/ucsd/teaching/2014/summer2/math20c_summer2_2014]] 
