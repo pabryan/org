@@ -8805,6 +8805,7 @@ Lectures in calendar and tasks like planning lectures.
 ********** DONE Prepare Lecture 4.4
 	   SCHEDULED: <2014-07-17 Thu> DEADLINE: <2014-07-17 Thu>
 	   :LOGBOOK:
+	   - State "DONE"       from "DONE"       [2014-07-17 Thu 12:46]
 	   - State "DONE"       from "TODO"       [2014-07-17 Thu 12:32]
 	   :END:
 	   :PROPERTIES:
