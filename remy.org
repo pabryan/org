@@ -453,8 +453,11 @@ Kate, Lily: $14 each.
 <2014-08-27 Wed 17:30-19:00>
 **** Tasks
 ***** Enrolment
-****** NEXT Complete enrolment form
+****** DONE Complete enrolment form
        DEADLINE: <2014-07-23 Wed>
+       :LOGBOOK:
+       - State "DONE"       from "NEXT"       [2014-07-17 Thu 11:18]
+       :END:
 https://secure.k12online.us/innovations-academy-charter-school
 - Bryan
 - 67dogs43
