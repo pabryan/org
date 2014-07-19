@@ -218,6 +218,21 @@
 :END:
 [[papers:MR0012456][MR0012456-paper]]
 [[bib:MR0012456][MR0012456-bib]]
+
+**** Convex regions on the {$n$}-dimensional spherical surface
+:PROPERTIES:
+:Custom_ID: MR0017562
+:END:
+[[papers:MR0017562][MR0017562-paper]]
+[[bib:MR0017562][MR0017562-bib]]
+
+*** 52.34 (1959-1972) Helly-type theorems
+**** Helly's theorem and its relatives
+:PROPERTIES:
+:Custom_ID: MR0157289
+:END:
+[[papers:MR0157289][MR0157289-paper]]
+[[bib:MR0157289][MR0157289-bib]]
 *** 52A   (1973-now) General convexity
 **** 52A39 (1991-now) Mixed volumes and related topics
 ***** Convex bodies: the {B}runn-{M}inkowski theory
@@ -263,6 +278,13 @@
 :END:
 [[papers:MR936419][MR936419-paper]]
 [[bib:MR936419][MR936419-bib]]
+*** 52A55 (1973-now) Spherical and hyperbolic convexity
+**** Curves of constant width in the non-{E}uclidean geometry
+:PROPERTIES:
+:Custom_ID: MR2187589
+:END:
+[[papers:MR2187589][MR2187589-paper]]
+[[bib:MR2187589][MR2187589-bib]]
 *** 52B (1991-now) Polytopes and polyhedra
 **** 52B60 (1991-now) Isoperimetric problems for polytopes
 ***** The isoperimetric problem on surfaces
@@ -1333,6 +1355,12 @@ Here I need to do some more work since $u \mapsto g(\grad u, \grad u)$ is not a 
 :END:
 [[papers:2014arXiv1406.1768H][2014arXiv1406.1768H-paper]]
 [[bib:2014arXiv1406.1768H][2014arXiv1406.1768H-bib]]
+*** Binary Operations in Spherical Convex Geometry
+:PROPERTIES:
+:Custom_ID: 2014arXiv1407.1153B
+:END:
+[[papers:2014arXiv1407.1153B][2014arXiv1407.1153B-paper]]
+[[bib:2014arXiv1407.1153B][2014arXiv1407.1153B-bib]]
 * Misc
   :PROPERTIES:
   :COLUMNS: %75ITEM %TAGS
@@ -1350,6 +1378,12 @@ Here I need to do some more work since $u \mapsto g(\grad u, \grad u)$ is not a 
 :END:
 [[papers:brendlelawson][brendlelawson-paper]]
 [[bib:brendlelawson][brendlelawson-bib]]
+** Width of spherical convex bodies
+:PROPERTIES:
+:Custom_ID: 10.1007/s00010-013-0237-3
+:END:
+[[papers:10.1007-s00010-013-0237-3][10.1007-s00010-013-0237-3-paper]]
+[[bib:10.1007-s00010-013-0237-3][10.1007-s00010-013-0237-3-bib]]
 * Lecture Notes
 * Theses
 ** Isoperimetric Comparison Techniques for Low Dimension Curvature Flows

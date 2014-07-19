@@ -1120,6 +1120,9 @@ That is, Ben and Janelle have proven the backward convergence, and to finish we 
        :ID:       e4309a03-3450-4994-a651-42e0666fb7a0
        :END:
 ****** TODO Write paper
+       :LOGBOOK:
+       CLOCK: [2014-07-19 Sat 14:31]--[2014-07-19 Sat 14:32] =>  0:01
+       :END:
 ******* DONE Write paper outline
 	:LOGBOOK:
 	- State "DONE"       from "NEXT"       [2014-04-02 Wed 14:00]
@@ -1235,13 +1238,19 @@ Given $X$ in the equator, let $\rho_{\alpha}(X)$ be the infimum of the lengths o
 	CLOCK: [2014-04-15 Tue 17:50]--[2014-04-15 Tue 19:06] =>  1:16
 	CLOCK: [2014-04-15 Tue 15:49]--[2014-04-15 Tue 16:26] =>  0:37
 	:END:
-******* NEXT Show that $L$ is bounded or $k$ decays exponentially
+******* DONE Show that $L$ is bounded or $k$ decays exponentially
 	:LOGBOOK:
+	- State "DONE"       from "NEXT"       [2014-07-19 Sat 14:31]
+	CLOCK: [2014-07-19 Sat 14:17]--[2014-07-19 Sat 14:31] =>  0:14
 	CLOCK: [2014-07-09 Wed 13:50]--[2014-07-09 Wed 15:30] =>  1:40
 	:END:
-******* TODO Convexity
-******** NEXT Work out equivalent conditions to convexity
+******* DONE Convexity
+	:LOGBOOK:
+	- State "DONE"       from "TODO"       [2014-07-19 Sat 14:17]
+	:END:
+******** DONE Work out equivalent conditions to convexity
 	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2014-07-19 Sat 14:17]
 	 CLOCK: [2014-07-17 Thu 13:20]--[2014-07-17 Thu 14:02] =>  0:42
 	 CLOCK: [2014-07-14 Mon 12:20]--[2014-07-14 Mon 14:29] =>  2:09
 	 CLOCK: [2014-07-13 Sun 20:54]--[2014-07-13 Sun 21:29] =>  0:35
@@ -3605,6 +3614,23 @@ Schedule time for research, for teaching and for non-research academic work (e.g
    :PROPERTIES:
    :ID:       76fc2a4e-0bcf-40b4-aa91-f87c8962f648
    :END:
+*** Space Form Convexity
+**** Notes
+**** Tasks
+***** TODO Literature Review
+      :LOGBOOK:
+      CLOCK: [2014-07-19 Sat 14:16]--[2014-07-19 Sat 14:17] =>  0:01
+      :END:
+****** NEXT Gather references
+       :LOGBOOK:
+       CLOCK: [2014-07-19 Sat 13:55]--[2014-07-19 Sat 14:16] =>  0:21
+       :END:
+**** Refs
+- [[file:refs.org::#10.1007/s00010-013-0237-3][Width of spherical convex bodies]]
+- [[file:refs.org::#2014arXiv1407.1153B][Binary Operations in Spherical Convex Geometry]]
+- [[file:refs.org::#MR0017562][Convex regions on the {$n$}-dimensional spherical surface]]
+- [[file:refs.org::#MR0157289][Helly's theorem and its relatives]]
+- [[file:refs.org::#MR2187589][Curves of constant width in the non-{E}uclidean geometry]]
 *** TODO Dark Matter and General Relativity :WDM:GENERAL_RELATIVITY:DARK_MATTER:
      :PROPERTIES:
      :ID:       b8b0e5f5-b0e5-4af8-a012-d5dd88d75fbf

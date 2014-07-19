@@ -8891,9 +8891,11 @@ Lectures in calendar and tasks like planning lectures.
 	  :Effort:   0:10
 	  :END:
 
-********* WAITING Write MT 1 solutions
+********* CANCELLED Write MT 1 solutions
 	  DEADLINE: <2014-07-21 Mon>
 	  :LOGBOOK:
+	  - State "CANCELLED"  from "WAITING"    [2014-07-19 Sat 13:50] \\
+	    We've decided not to publish solutions. Students should seek help during office hours instead.
 	  - State "WAITING"    from "TODO"       [2014-07-17 Thu 11:21] \\
 	    Waiting to see if Robbie (TA) has got solutions.
 	  :END:
