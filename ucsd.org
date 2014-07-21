@@ -9062,6 +9062,9 @@ HSS 1330
 	  :END:
 <2014-07-14 Mon 09:30-11:00>
 ********* Lecture 4.1
+	  :LOGBOOK:
+	  CLOCK: [2014-07-21 Mon 09:27]
+	  :END:
 	  :PROPERTIES:
 	  :Effort:   1:30
 	  :END:

@@ -53,13 +53,13 @@ Publish to a different directory so I don't pollute my hg directory.
 I want to export for journals, including data such as email, classification etc.
 I think I need some sort of filter for this.
 ***** TODO Create setup file for org-mode latex docs
-  SCHEDULED: <2014-07-21 Mon>
+  SCHEDULED: <2014-07-25 Fri>
 [2014-04-12 Sat 19:26]
 - Put common things besides bib stuff into a setup file
 - All the basic publish options should also be in a master file
 **** General
 ***** NEXT Prevent new org-export from polluting src directory
-  SCHEDULED: <2014-07-21 Mon>
+  SCHEDULED: <2014-07-25 Fri>
   :LOGBOOK:
   CLOCK: [2014-04-18 Fri 12:38]--[2014-04-18 Fri 12:39] =>  0:01
   :END:
@@ -118,7 +118,7 @@ Should be able to insert lecture planning/homework etc with a yassnippet?
 [2013-09-30 Mon 21:15]
 Add goals to agenda to remind myself each day. E.g. work, diet, exercise, general things like be patient, don't over-explain things etc.
 **** TODO Setup some agenda filter macros
-  SCHEDULED: <2014-07-21 Mon>
+  SCHEDULED: <2014-07-25 Fri>
   :PROPERTIES:
   :ID:       b7060562-fc53-44b0-8f52-d84dce4c177f
   :END:
@@ -587,7 +587,7 @@ Do I make a different TODO keyword for more trying out things/open ended type re
     :END:
 - This is just the ordinary diff with headlines thought of as files/directories (which can contain content and also other files which is slightly different to the filesystem). Recursing is just recursing headlines and reports can say things like "Headlines A and B differ" and we can show differences in contents of headlines.
 **** TODO Org calendar to google calendar
-  SCHEDULED: <2014-07-21 Mon>
+  SCHEDULED: <2014-07-25 Fri>
   :PROPERTIES:
   :ID:       00fc3ef7-df16-48c3-8fa3-f5b16e6c10d2
   :END:
@@ -605,7 +605,7 @@ http://orgmode.org/worg/org-tutorials/org-google-sync.html
 
 *** Archiving
 **** TODO Archive things
-     SCHEDULED: <2014-07-21 Mon>
+     SCHEDULED: <2014-07-25 Fri>
   :PROPERTIES:
   :ID:       a1611ad9-0546-41d7-a584-9edb3ef77445
   :END:
@@ -659,7 +659,7 @@ Create papers, teaching, referring block
 Things are getting a little out of hand. I think I should break up configuration based on relevance: latex, agenda, etc.
 
 **** TODO Write research project summaries/proposals
-  SCHEDULED: <2014-07-21 Mon>
+  SCHEDULED: <2014-07-25 Fri>
   :LOGBOOK:
   CLOCK: [2014-03-21 Fri 13:09]--[2014-03-21 Fri 13:10] =>  0:01
   :END:
@@ -1120,7 +1120,7 @@ Levenger?
 - Projects should have a larger folder with papers, notes etc.
 
 **** TODO Make weekly paper review/check task
-  SCHEDULED: <2014-07-21 Mon>
+  SCHEDULED: <2014-07-25 Fri>
   :LOGBOOK:
   CLOCK: [2013-08-27 Tue 10:33]--[2013-08-27 Tue 10:34] =>  0:01
   :END:
@@ -1472,7 +1472,7 @@ http://askubuntu.com/questions/198136/error-when-trying-to-connect-to-vpn-on-sta
 - oldpaul
 - uni 
 **** TODO organise external working
-  SCHEDULED: <2014-07-21 Mon>
+  SCHEDULED: <2014-07-25 Fri>
   :LOGBOOK:
   CLOCK: [2013-08-06 Tue 21:01]--[2013-08-06 Tue 21:05] =>  0:04
   :END:
@@ -1509,7 +1509,7 @@ http://askubuntu.com/questions/198136/error-when-trying-to-connect-to-vpn-on-sta
 [2013-08-06 Tue 21:05]
 this way I can track upstream and keep my work independent and then merge, push to upstream etc. as appropriate
 **** TODO Make a list of required software
-  SCHEDULED: <2014-07-21 Mon>
+  SCHEDULED: <2014-07-25 Fri>
   :LOGBOOK:
   CLOCK: [2013-08-09 Fri 09:20]--[2013-08-09 Fri 09:22] =>  0:02
   :END:
@@ -1701,7 +1701,7 @@ yajl-ruby (1.1.0)
      :ID:       59fb7afd-3134-4ef9-80d6-391b05284663
      :END:
 ***** NEXT Set up offlineimap
-    SCHEDULED: <2014-07-21 Mon>
+    SCHEDULED: <2014-07-25 Fri>
     :PROPERTIES:
     :ID:       8e34b366-070d-4735-bad1-9c8fba262783
     :END:
@@ -1842,6 +1842,7 @@ http://gmane.org
   :END:
 ** Organisation
   :LOGBOOK:
+  CLOCK: [2014-07-21 Mon 09:17]--[2014-07-21 Mon 09:18] =>  0:01
   CLOCK: [2014-07-19 Sat 13:51]--[2014-07-19 Sat 13:55] =>  0:04
   CLOCK: [2014-07-17 Thu 12:52]--[2014-07-17 Thu 12:53] =>  0:01
   CLOCK: [2014-07-17 Thu 11:29]--[2014-07-17 Thu 11:32] =>  0:03
@@ -3637,6 +3638,7 @@ When I set up scoring the day:
 ** NEXT Daily Plan [0/7]
    SCHEDULED: <2014-07-20 Sun .+1d/2d>
    :LOGBOOK:
+   CLOCK: [2014-07-21 Mon 09:18]--[2014-07-21 Mon 09:27] =>  0:09
    - State "DONE"       from "NEXT"       [2014-07-19 Sat 13:51]
    CLOCK: [2014-07-19 Sat 13:36]--[2014-07-19 Sat 13:51] =>  0:15
    - State "DONE"       from "NEXT"       [2014-07-17 Thu 11:23]
