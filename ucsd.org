@@ -9063,7 +9063,7 @@ HSS 1330
 <2014-07-14 Mon 09:30-11:00>
 ********* Lecture 4.1
 	  :LOGBOOK:
-	  CLOCK: [2014-07-21 Mon 09:27]
+	  CLOCK: [2014-07-21 Mon 09:27]--[2014-07-21 Mon 11:05] =>  1:38
 	  :END:
 	  :PROPERTIES:
 	  :Effort:   1:30
@@ -9224,6 +9224,9 @@ Nawar Fadil <nfadil@ucsd.edu>
 <2014-07-14 Mon 11:30-13:00>
 <2014-07-16 Wed 11:30-13:00>
 ******** O/H Week 4
+	 :LOGBOOK:
+	 CLOCK: [2014-07-21 Mon 11:35]--[2014-07-21 Mon 12:25] =>  0:50
+	 :END:
 	 :PROPERTIES:
 	 :Effort:   3:00
 	 :END:
@@ -9503,7 +9506,7 @@ Lectures in calendar and tasks like planning lectures.
 	 :END:
 ******** TODO Midterm 1
 ********* NEXT Write Midterm 1
-	  SCHEDULED: <2014-07-21 Mon>
+	  SCHEDULED: <2014-08-04 Mon>
 	  :PROPERTIES:
 	  :Effort:   1:00
 	  :END:
@@ -9521,7 +9524,7 @@ Lectures in calendar and tasks like planning lectures.
 ********* TODO Write MT 1 solutions
 ******** TODO Midterm 2
 ********* NEXT Write Midterm 2
-	  SCHEDULED: <2014-07-21 Mon>
+	  SCHEDULED: <2014-08-18 Mon>
 	  :PROPERTIES:
 	  :Effort:   1:00
 	  :END:
@@ -9540,7 +9543,7 @@ Lectures in calendar and tasks like planning lectures.
 ********* TODO Write MT2 solutions
 ******** TODO Final
 ********* NEXT Write Final
-	 SCHEDULED: <2014-07-21 Mon>
+	 SCHEDULED: <2014-08-25 Mon>
 	  :PROPERTIES:
 	  :Effort:   1:30
 	  :END:
@@ -9933,7 +9936,7 @@ Lectures in calendar and tasks like planning lectures.
 	 :END:
 ******** TODO Midterm 1
 ********* NEXT Write Midterm 1
-	  SCHEDULED: <2014-07-21 Mon>
+	  SCHEDULED: <2014-08-04 Mon>
 	  :PROPERTIES:
 	  :Effort:   1:00
 	  :END:
@@ -9951,7 +9954,7 @@ Lectures in calendar and tasks like planning lectures.
 ********* TODO Write MT 1 solutions
 ******** TODO Midterm 2
 ********* NEXT Write Midterm 2
-	  SCHEDULED: <2014-07-21 Mon>
+	  SCHEDULED: <2014-08-18 Mon>
 	  :PROPERTIES:
 	  :Effort:   1:00
 	  :END:
@@ -9970,7 +9973,7 @@ Lectures in calendar and tasks like planning lectures.
 ********* TODO Write MT2 solutions
 ******** TODO Final
 ********* NEXT Write Final
-	 SCHEDULED: <2014-07-21 Mon>
+	 SCHEDULED: <2014-08-25 Mon>
 	  :PROPERTIES:
 	  :Effort:   1:30
 	  :END:
