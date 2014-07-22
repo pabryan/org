@@ -24,9 +24,10 @@ END:
 *** Chase
 **** Chase Routing Number
 322271627
-**** WAITING Get new Chase debit card
+**** DONE Get new Chase debit card
   SCHEDULED: <2014-07-10 Thu>
   :LOGBOOK:
+  - State "DONE"       from "WAITING"    [2014-07-22 Tue 11:10]
   - State "WAITING"    from "DONE"       [2014-07-10 Thu 17:49] \\
     Sent message to chase to request a new card.
   :END:
