@@ -1868,7 +1868,11 @@ This proves the inequality we need.  The remaining problem is to remove the symm
    :PROPERTIES:
    :ID:       cf90c8f0-dc09-44d4-87d4-f7000acc2ba1
    :END:
+***** Files 
 [[file:~/working/academic/research/geometric_pipe_flows]]
+[[file:~/Dropbox/unsorted/uni/work/programming/anuga/sww_1d/tex]]
+[[file:~/publish/geometric_pipe_flows]]
+
 ***** Tasks
 ****** DONE Set up exact tasks
        - State "DONE"       from "NEXT"       [2013-06-23 Sun 16:12]
@@ -1903,6 +1907,9 @@ This proves the inequality we need.  The remaining problem is to remove the symm
        :ID:       c1250415-a95a-42ee-94cc-4bf6e967467e
        :END:
 ****** NEXT Compile work into org file
+       :LOGBOOK:
+       CLOCK: [2014-07-21 Mon 18:46]--[2014-07-21 Mon 19:29] =>  0:43
+       :END:
        :PROPERTIES:
        :ID:       4f27c099-1b3f-44a1-b38d-394b791aabef
        :END:
@@ -1910,7 +1917,11 @@ This proves the inequality we need.  The remaining problem is to remove the symm
        SCHEDULED: <2014-07-07 Mon>
 ***** Notes
 ***** References
-
+- Gerbi et. al.
+- Hughes/Lubliner
+- Longer paper on blood flows (semi-expository)
+- Well balancing
+- ANUGA
 *** Future 							    :SOMEDAY:
 **** TODO Study non-smooth mean curvature flow, minimal surfaces via support fn
      SCHEDULED: <2014-09-01 Mon>
