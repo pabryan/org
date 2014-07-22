@@ -8825,17 +8825,20 @@ Lectures in calendar and tasks like planning lectures.
 	   :PROPERTIES:
 	   :Effort:   0:30
 	   :END:
-********** NEXT Prepare Lecture 5.1
+********** DONE Prepare Lecture 5.1
 	   SCHEDULED: <2014-07-22 Tue> DEADLINE: <2014-07-24 Thu>
 	   :LOGBOOK:
-	   CLOCK: [2014-07-22 Tue 12:12]
+	   - State "DONE"       from "TODO"       [2014-07-22 Tue 14:11]
+	   CLOCK: [2014-07-22 Tue 12:12]--[2014-07-22 Tue 14:12] =>  2:00
 	   :END:
 	   :PROPERTIES:
 	   :Effort:   1:00
 	   :END:
 
-********** TODO Prepare Lecture 5.2
+********** NEXT Prepare Lecture 5.2
 	   SCHEDULED: <2014-07-22 Tue> DEADLINE: <2014-07-24 Thu>
+	   :LOGBOOK:
+	   :END:
 	   :PROPERTIES:
 	   :Effort:   1:00
 	   :END:
