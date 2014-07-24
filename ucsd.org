@@ -8846,8 +8846,11 @@ Lectures in calendar and tasks like planning lectures.
 	   :Effort:   1:00
 	   :END:
 
-********** TODO Prepare Lecture 5.3
+********** NEXT Prepare Lecture 5.3
 	   SCHEDULED: <2014-07-24 Thu> DEADLINE: <2014-07-24 Thu>
+	   :LOGBOOK:
+	   CLOCK: [2014-07-24 Thu 11:44]
+	   :END:
 	   :PROPERTIES:
 	   :Effort:   1:00
 	   :END:
@@ -9182,6 +9185,9 @@ HSS 1330
 	  :END:
 <2014-07-17 Thu 09:30-11:00>
 ********* Lecture 4.4
+	  :LOGBOOK:
+	  CLOCK: [2014-07-24 Thu 09:30]--[2014-07-24 Thu 11:00] =>  1:30
+	  :END:
 	  :PROPERTIES:
 	  :Effort:   1:30
 	  :END:
