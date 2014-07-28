@@ -5349,23 +5349,30 @@ http://www.uni-freiburg.de/administration/stellenboerse?erf=y&stellenid=8792&lay
 [[file:~/working/academic/jobs/job_applications/8792_freiburg]]
 **** TODO Monash						     :MONASH:
 ***** Tasks
-****** NEXT Set up tasks/etc.
+****** DONE Set up tasks/etc.
       DEADLINE: <2014-07-20 Sun>
       :LOGBOOK:
-      CLOCK: [2014-07-28 Mon 13:46]
+      - State "DONE"       from "NEXT"       [2014-07-28 Mon 13:51]
+      CLOCK: [2014-07-28 Mon 13:46]--[2014-07-28 Mon 13:51] =>  0:05
       :END:
 - http://jobs.monash.edu.au/jobDetails.asp?sJobIDs=524967
 ****** Application
-******* NEXT Write statement against selection criteria
-******* TODO Proof read statement
-******* TODO Write statement final version
-******* TODO Write cover letter
-******* TODO Update CV
-******* TODO Compile application
-******* TODO Submit application
-	DEADLINE: <2014-08-22 Fri>
+******** NEXT Write statement against selection criteria
+	 SCHEDULED: <2014-08-11 Mon>
+******** TODO Proof read statement
+******** TODO Write statement final version
+******** TODO Write cover letter
+******** TODO Update CV
+******** TODO Compile application
+******** TODO Submit application
+	 DEADLINE: <2014-08-23 Sat>
 
-******* TODO Respond to offer
+******** TODO Respond to offer
+***** Notes
+- http://jobs.monash.edu.au/jobDetails.asp?sJobIDs=524967
+- Contact: [[mailto:sci-maths-jobs@monash.edu]]
+
+
 ** Tasks
 *** DONE Write research proposal/statement
     SCHEDULED: <2014-06-09 Mon>

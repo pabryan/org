@@ -1182,8 +1182,12 @@ Doyle Field
 [2013-02-21 Thu 09:00]
 ** Triton 5k
 <2013-06-08 Sat 09:00>
-** TODO Investigate surfing
+** CANCELLED Investigate surfing
    SCHEDULED: <2014-07-25 Fri>
+   :LOGBOOK:
+   - State "CANCELLED"  from "TODO"       [2014-07-28 Mon 13:51] \\
+     Just doesn't seem to fit in with everything else.
+   :END:
    :PROPERTIES:
    :ID:       989fd81d-fc17-4825-afd3-0f2104d0b8a1
    :END:
