@@ -8,14 +8,15 @@
 
 ** Tracking
 *** NEXT Exercise
-    SCHEDULED: <2014-07-24 Thu .+1d/2d>
+    SCHEDULED: <2014-07-29 Tue .+1d/2d>
     :PROPERTIES:
     :STYLE:    habit
     :REPEAT_TO_STATE: NEXT
     :ID:       8d56b2ef-1b49-4dc4-b701-1d021a293fa4
-    :LAST_REPEAT: [2014-07-23 Wed 09:19]
+    :LAST_REPEAT: [2014-07-28 Mon 13:43]
     :END:
     :LOGBOOK:
+    - State "DONE"       from "NEXT"       [2014-07-28 Mon 13:43]
     - State "DONE"       from "NEXT"       [2014-07-23 Wed 09:19]
     - State "DONE"       from "NEXT"       [2014-07-22 Tue 11:11]
     - State "DONE"       from "NEXT"       [2014-07-19 Sat 13:36]
@@ -341,8 +342,9 @@
     - State "DONE"       from "NEXT"       [2013-03-09 Sat 11:10]
     :END:
 *** NEXT Mobility
-    SCHEDULED: <2014-07-24 Thu .+1d/2d>
+    SCHEDULED: <2014-07-29 Tue .+1d/2d>
     :LOGBOOK:
+    - State "DONE"       from "NEXT"       [2014-07-28 Mon 13:43]
     - State "DONE"       from "NEXT"       [2014-07-23 Wed 09:19]
     - State "DONE"       from "NEXT"       [2014-07-22 Tue 11:11]
     - State "DONE"       from "NEXT"       [2014-07-19 Sat 13:36]
@@ -749,7 +751,7 @@
     :STYLE:    habit
     :REPEAT_TO_STATE: NEXT
     :ID:       0e75f56d-0356-4a0f-a376-080471ad4aad
-    :LAST_REPEAT: [2014-07-23 Wed 09:19]
+    :LAST_REPEAT: [2014-07-28 Mon 13:43]
     :END:
 
 *** NEXT Daily Release
