@@ -9795,12 +9795,14 @@ Lectures in calendar and tasks like planning lectures.
 	 :END:
 ******* TODO Lectures
 	:LOGBOOK:
+	CLOCK: [2014-07-29 Tue 16:00]--[2014-07-29 Tue 16:05] =>  0:05
 	CLOCK: [2014-06-20 Fri 17:26]--[2014-06-20 Fri 17:28] =>  0:02
 	:END:
-******** NEXT Create Lecture Schedule
+******** DONE Create Lecture Schedule
 	 SCHEDULED: <2014-06-20 Fri>
 	 :LOGBOOK:
-	 CLOCK: [2014-07-29 Tue 15:06]
+	 - State "DONE"       from "NEXT"       [2014-07-29 Tue 16:00]
+	 CLOCK: [2014-07-29 Tue 15:06]--[2014-07-29 Tue 16:00] =>  0:54
 	 - State "NEXT"       from "DONE"       [2014-07-29 Tue 15:06] \\
 	   Reopened since I'm using previous lecture prep so need to redo schedule.
 	 - State "DONE"       from "NEXT"       [2014-06-22 Sun 19:27]
@@ -9847,14 +9849,20 @@ Lectures in calendar and tasks like planning lectures.
 	   :Effort:   1:00
 	   :END:
 
-********** NEXT Prepare Lecture 1.3
+********** DONE Prepare Lecture 1.3
 	   DEADLINE: <2014-07-31 Thu> SCHEDULED: <2014-07-31 Thu>
+	   :LOGBOOK:
+	   - State "DONE"       from "NEXT"       [2014-07-29 Tue 16:00]
+	   :END:
 	   :PROPERTIES:
 	   :Effort:   1:00
 	   :END:
 
-********** TODO Prepare Lecture 1.4
+********** DONE Prepare Lecture 1.4
 	   DEADLINE: <2014-07-31 Thu> SCHEDULED: <2014-07-31 Thu>
+	   :LOGBOOK:
+	   - State "DONE"       from "TODO"       [2014-07-29 Tue 16:00]
+	   :END:
 	   :PROPERTIES:
 	   :Effort:   1:00
 	   :END:
@@ -10197,6 +10205,9 @@ Center 119
 <2014-09-01 Mon 16:00-17:00>
 <2014-09-03 Wed 15:00-16:00>
 
+******* Meetings
+******** TA
+<2014-07-31 Thu 11:00-11:30>
 ** Professional Development
 *** TODO Check out Center for Teaching Development
     :PROPERTIES:
