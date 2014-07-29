@@ -3287,6 +3287,7 @@ Check how I did last month. I guess the review and plan could probably go togeth
 ** NEXT Daily Review [0/12]
    SCHEDULED: <2014-07-24 Thu .+1d/2d>
    :LOGBOOK:
+   CLOCK: [2014-07-29 Tue 16:42]
    - State "DONE"       from "NEXT"       [2014-07-23 Wed 16:58]
    - State "DONE"       from "NEXT"       [2014-07-17 Thu 15:17]
    - State "DONE"       from "NEXT"       [2014-07-16 Wed 18:16]
