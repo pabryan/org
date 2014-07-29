@@ -9797,9 +9797,12 @@ Lectures in calendar and tasks like planning lectures.
 	:LOGBOOK:
 	CLOCK: [2014-06-20 Fri 17:26]--[2014-06-20 Fri 17:28] =>  0:02
 	:END:
-******** DONE Create Lecture Schedule
+******** NEXT Create Lecture Schedule
 	 SCHEDULED: <2014-06-20 Fri>
 	 :LOGBOOK:
+	 CLOCK: [2014-07-29 Tue 15:06]
+	 - State "NEXT"       from "DONE"       [2014-07-29 Tue 15:06] \\
+	   Reopened since I'm using previous lecture prep so need to redo schedule.
 	 - State "DONE"       from "NEXT"       [2014-06-22 Sun 19:27]
 	 :END:
 	 :PROPERTIES:
