@@ -8984,8 +8984,12 @@ Lectures in calendar and tasks like planning lectures.
 	  :Effort:   0:10
 	  :END:
 
-********* TODO Submit to printing/frdesk
+********* DONE Submit to printing/frdesk
 	  DEADLINE: <2014-07-28 Mon>
+	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2014-07-29 Tue 12:24]
+	  CLOCK: [2014-07-29 Tue 12:06]--[2014-07-29 Tue 12:24] =>  0:18
+	  :END:
 	  :PROPERTIES:
 	  :Effort:   0:10
 	  :END:
