@@ -758,8 +758,9 @@
     :END:
 
 *** NEXT Daily Release
-    SCHEDULED: <2014-07-30 Wed .+1d/2d>
+    SCHEDULED: <2014-07-31 Thu .+1d/2d>
     :LOGBOOK:
+    - State "DONE"       from "NEXT"       [2014-07-30 Wed 16:06]
     - State "DONE"       from "NEXT"       [2014-07-29 Tue 12:01]
     - State "DONE"       from "NEXT"       [2014-06-13 Fri 21:16]
     - State "DONE"       from "NEXT"       [2014-06-09 Mon 20:34]
@@ -911,7 +912,7 @@
     :STYLE:    habit
     :REPEAT_TO_STATE: NEXT
     :ID:       d439600f-c40d-4dd3-82ca-3e7d9e35f2b3
-    :LAST_REPEAT: [2014-07-29 Tue 12:01]
+    :LAST_REPEAT: [2014-07-30 Wed 16:06]
     :END:
   
 *** NEXT Handstand practice

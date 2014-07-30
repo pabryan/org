@@ -9049,6 +9049,10 @@ Lectures in calendar and tasks like planning lectures.
 	 CLOCK: [2014-07-02 Wed 09:12]--[2014-07-02 Wed 09:18] =>  0:06
 	 :END:
 [2014-07-01 Tue 18:31]
+******** NEXT Post announcements
+	 :LOGBOOK:
+	 CLOCK: [2014-07-30 Wed 15:56]--[2014-07-30 Wed 16:00] =>  0:04
+	 :END:
 ******* TODO Grades
 ******** NEXT Enter grades
 	 :PROPERTIES:
