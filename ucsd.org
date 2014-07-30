@@ -9182,6 +9182,9 @@ HSS 1330
 	  :END:
 <2014-07-23 Wed 09:30-11:00>
 ********* Lecture 5.3
+	  :LOGBOOK:
+	  CLOCK: [2014-07-30 Wed 09:26]
+	  :END:
 	  :PROPERTIES:
 	  :Effort:   1:30
 	  :END:
@@ -9225,6 +9228,8 @@ HSS 1330
 ******** Midterm 1
 ******** Midterm 2
 ******** Final
+<2014-08-01 Fri 08:00-11:00>
+Ledden Auditorium
 ******* Homework
 ******** Homework 1 Due
 ******** Homework 2 Due
