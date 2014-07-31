@@ -834,9 +834,11 @@ Exercise is daily, the other two can be 1-2 days each.
    :ID:       6d4fde96-4332-45d7-a22c-5d6777c63752
    :END:
 [2013-01-05 Sat 13:12]
-*** TODO Change exercise, mobility, relax tasks
+*** CANCELLED Change exercise, mobility, relax tasks
     SCHEDULED: <2014-07-25 Fri>
   :LOGBOOK:
+  - State "CANCELLED"  from "TODO"       [2014-07-31 Thu 11:52] \\
+    I'll just track it some other way and keep my generic exercise task for now.
   CLOCK: [2014-01-29 Wed 11:06]--[2014-01-29 Wed 11:07] =>  0:01
   :END:
 [2014-09-01 Mon 11:06]
