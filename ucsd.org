@@ -9225,7 +9225,7 @@ HSS 1330
 <2014-07-24 Thu 09:30-11:00>
 ********* Lecture 5.4
 	  :LOGBOOK:
-	  CLOCK: [2014-07-31 Thu 09:25]
+	  CLOCK: [2014-07-31 Thu 09:25]--[2014-07-31 Thu 11:15] =>  1:50
 	  :END:
 	  :PROPERTIES:
 	  :Effort:   1:30
@@ -10224,6 +10224,9 @@ Center 119
 
 ******* Meetings
 ******** TA
+	 :LOGBOOK:
+	 CLOCK: [2014-07-31 Thu 11:16]
+	 :END:
 <2014-07-31 Thu 11:00-11:30>
 ** Professional Development
 *** TODO Check out Center for Teaching Development
