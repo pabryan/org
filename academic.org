@@ -1909,6 +1909,7 @@ This proves the inequality we need.  The remaining problem is to remove the symm
        :END:
 ****** NEXT Compile work into org file
        :LOGBOOK:
+       CLOCK: [2014-07-31 Thu 12:29]--[2014-07-31 Thu 12:58] =>  0:29
        CLOCK: [2014-07-21 Mon 18:46]--[2014-07-21 Mon 19:29] =>  0:43
        :END:
        :PROPERTIES:

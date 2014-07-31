@@ -9763,6 +9763,9 @@ Peter 110
 <2014-09-03 Wed 16:00-17:00>
 ******* Meetings
 ******** TA
+	 :LOGBOOK:
+	 CLOCK: [2014-07-31 Thu 12:58]
+	 :END:
 <2014-07-31 Thu 13:00-13:30>
 ***** TODO MATH20D
 [[file:~/working/ucsd/teaching/2014/summer2/math20d_summer2_2014]] 
