@@ -455,6 +455,12 @@
 [[papers:MR1168123][MR1168123-paper]]
 
 **** 53C20 (1973-now) Global Riemannian geometry, including pinching [See also 31C12, 58B20] :riemannian:pinching:
+***** The splitting theorem for manifolds of nonnegative {R}icci curvature
+:PROPERTIES:
+:Custom_ID: MR0303460
+:END:
+[[papers:MR0303460][MR0303460-paper]]
+[[bib:MR0303460][MR0303460-bib]]
 ***** Killing fields, mean curvature, translation maps :killing_fields:translation:
 :PROPERTIES:
 :Custom_ID: MR2114163
@@ -666,6 +672,12 @@
 :END:
 [[papers:MR2679632][MR2679632-paper]]
 [[bib:MR2679632][MR2679632-bib]]
+***** Euclidean hypersurfaces with isometric {G}auss maps
+:PROPERTIES:
+:Custom_ID: MR818664
+:END:
+[[papers:MR818664][MR818664-paper]]
+[[bib:MR818664][MR818664-bib]]
 **** 53C42 (1980-now) Immersions (minimal, prescribed curvature, tight, etc.) [See also 49Q05, 49Q10, 53A10, 57R40, 57R42] :immersions:submanifold:
 ***** Constant mean curvature hypersurfaces in a {L}ie group with a bi-invariant metric :cmc:lie_group:hypersurface:
 :PROPERTIES:
