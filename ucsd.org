@@ -8965,6 +8965,7 @@ Lectures in calendar and tasks like planning lectures.
 ********* NEXT Write Final
 	  SCHEDULED: <2014-07-21 Mon>
 	  :LOGBOOK:
+	  CLOCK: [2014-07-26 Sat 19:46]--[2014-07-26 Sat 20:28] =>  0:42
 	  CLOCK: [2014-07-24 Thu 19:28]--[2014-07-24 Thu 19:50] =>  0:22
 	  :END:
 	  :PROPERTIES:
@@ -9811,7 +9812,7 @@ Lectures in calendar and tasks like planning lectures.
 	   :END:
 
 ********** TODO Prepare Lecture 1.4
-	   DEADLINE: <2014-07-31 Thu> SCHEDULED: <2014-07-30 Wed>
+	   DEADLINE: <2014-07-31 Thu> SCHEDULED: <2014-07-31 Thu>
 	   :PROPERTIES:
 	   :Effort:   1:00
 	   :END:
