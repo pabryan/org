@@ -9672,6 +9672,32 @@ Lectures in calendar and tasks like planning lectures.
 	 :Effort:   1:00
 	 :END:
 ******* TODO Misc
+******* TODO Piazza
+	:LOGBOOK:
+	CLOCK: [2014-07-31 Thu 17:58]--[2014-07-31 Thu 17:59] =>  0:01
+	:END:
+******** DONE Set up Piazza
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2014-07-31 Thu 17:58]
+	 CLOCK: [2014-07-31 Thu 17:29]--[2014-07-31 Thu 17:58] =>  0:29
+	 :END:
+	:PROPERTIES:
+	:Effort:   0:30
+	:END:
+
+******** DONE Upload students
+	 :LOGBOOK:
+	 - State "DONE"       from "TODO"       [2014-07-31 Thu 17:58]
+	 :END:
+******** TODO Announce to students
+******* TODO Webwork
+******** DONE Read Tesler's info
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2014-07-31 Thu 19:50]
+	 CLOCK: [2014-07-31 Thu 19:18]--[2014-07-31 Thu 19:50] =>  0:32
+	 :END:
+******** TODO Upload problems
+******** TODO Check problems for errors
 ****** Clocking
 ******* Admin
 ******* Office hours
@@ -10107,6 +10133,9 @@ Lectures in calendar and tasks like planning lectures.
 	 :END:
 
 ******* TODO Website
+	:LOGBOOK:
+	CLOCK: [2014-07-31 Thu 18:07]--[2014-07-31 Thu 18:08] =>  0:01
+	:END:
 ******** DONE Make website
 	 SCHEDULED: <2014-06-20 Fri>
 	 :LOGBOOK:
@@ -10127,6 +10156,19 @@ Lectures in calendar and tasks like planning lectures.
 	 :PROPERTIES:
 	 :Effort:   0:15
 	 :END:
+******** DONE Update 20D website
+  DEADLINE: <2014-07-31 Thu>
+  :LOGBOOK:
+  - State "DONE"       from "NEXT"       [2014-07-31 Thu 18:07]
+  CLOCK: [2014-07-31 Thu 18:00]--[2014-07-31 Thu 18:07] =>  0:07
+  :END:
+  
+[2014-07-31 Thu 11:15]
+
+- hw1 has wrong range of questions
+- note grading scheme
+- note "choose" questions. students should do as many as needed, but only turn one in.
+- create link on my teaching page
 ******* TODO Grades
 ******** NEXT Enter grades
 	 :PROPERTIES:
