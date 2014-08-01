@@ -5631,5 +5631,8 @@ Remove sidebar
   SCHEDULED: <2014-09-01 Mon>
 [2014-02-10 Mon 15:09]
 *** TODO Update website
-**** NEXT Publish website
+**** DONE Publish website
      DEADLINE: <2014-08-01 Fri>
+     :LOGBOOK:
+     - State "DONE"       from "NEXT"       [2014-08-01 Fri 11:14]
+     :END:

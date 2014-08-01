@@ -9236,8 +9236,12 @@ HSS 1330
 ******** Midterm 1
 ******** Midterm 2
 ******** Final
-<2014-08-01 Fri 08:00-11:00>
+	 <2014-08-01 Fri 08:00-11:00>
+	 :LOGBOOK:
+         CLOCK: [2014-08-01 Fri 07:51]--[2014-08-01 Fri 11:07] =>  3:16
+         :END:
 Ledden Auditorium
+
 ******* Homework
 ******** Homework 1 Due
 ******** Homework 2 Due
