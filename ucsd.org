@@ -9323,8 +9323,9 @@ Nawar Fadil <nfadil@ucsd.edu>
 ******** TA's
 ******** Schedule
 ****** Tasks
-******* TODO Plan course
+******* DONE Plan course
    :LOGBOOK:
+   - State "DONE"       from "TODO"       [2014-08-01 Fri 17:23]
    CLOCK: [2014-06-20 Fri 16:59]--[2014-06-20 Fri 17:00] =>  0:01
    :END:
 ******** DONE Org structure
@@ -9345,8 +9346,9 @@ Lectures in calendar and tasks like planning lectures.
 	 :PROPERTIES:
 	 :Effort:   0:10
 	 :END:
-******** WAITING make course TA email groups
+******** DONE make course TA email groups
 	 :LOGBOOK:
+	 - State "DONE"       from "WAITING"    [2014-08-01 Fri 17:23]
 	 - State "WAITING"    from "NEXT"       [2014-06-18 Wed 18:11] \\
 	   Waiting on TA list.
 	 :END:
@@ -9700,7 +9702,10 @@ Lectures in calendar and tasks like planning lectures.
 	 - State "DONE"       from "NEXT"       [2014-07-31 Thu 19:50]
 	 CLOCK: [2014-07-31 Thu 19:18]--[2014-07-31 Thu 19:50] =>  0:32
 	 :END:
-******** TODO Upload problems
+******** NEXT Upload problems
+	 :LOGBOOK:
+	 CLOCK: [2014-08-01 Fri 17:23]--[2014-08-01 Fri 18:02] =>  0:39
+	 :END:
 ******** TODO Check problems for errors
 ****** Clocking
 ******* Admin

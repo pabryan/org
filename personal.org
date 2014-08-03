@@ -198,15 +198,15 @@ My card won't swipe anymore.
 
 *** Oz
 #+TBLNAME: Australia
-| Desc       |  Amt |
-|------------+------|
-| Loan       |  500 |
-| ASG        |  135 |
-| Kate Visa  |  500 |
-| Family Tax | -220 |
-|            |      |
-| Out        | 1135 |
-| Total      |  915 |
+| Desc       | Amt |
+|------------+-----|
+| Loan       | 500 |
+| ASG        | 135 |
+| Kate Visa  |   0 |
+| Family Tax |   0 |
+|            |     |
+| Out        | 635 |
+| Total      | 635 |
    #+TBLFM: @7$2=vsum(@2$2..@4$2)::@8$2=vsum(@2$2..@6$2)
 
 *** Weekly
@@ -253,8 +253,9 @@ My card won't swipe anymore.
    
 ** Bills 
 *** TODO Pay rent
-    DEADLINE: <2014-08-05 Tue +1m -4d> 
+    DEADLINE: <2014-09-05 Fri +1m -4d> 
    :LOGBOOK:
+   - State "DONE"       from "TODO"       [2014-08-01 Fri 16:00]
    - State "DONE"       from "TODO"       [2014-07-01 Tue 19:16]
    - State "DONE"       from "TODO"       [2014-06-02 Mon 09:13]
    - State "DONE"       from "TODO"       [2014-05-01 Thu 11:53]
@@ -281,16 +282,16 @@ My card won't swipe anymore.
  
    :PROPERTIES:
    :ID:       ea07bf7b-9f89-49bf-90db-3e167baff163
-   :LAST_REPEAT: [2014-07-01 Tue 19:16]
+   :LAST_REPEAT: [2014-08-01 Fri 16:00]
    :END:
-   [2012-10-17 Wed 14:44]
 
 Use account A11078844
 [[https://act.ucsd.edu/studentBilling/billing]]
 
 *** TODO Pay ATT
-    SCHEDULED: <2014-08-01 Fri +1m -0d> 
+    SCHEDULED: <2014-09-01 Mon +1m -0d> 
     :LOGBOOK:
+    - State "DONE"       from "TODO"       [2014-08-01 Fri 16:00]
     - State "DONE"       from "TODO"       [2014-07-01 Tue 19:16]
     - State "DONE"       from "TODO"       [2014-06-02 Mon 19:18]
     - State "DONE"       from "TODO"       [2014-05-01 Thu 11:53]
@@ -309,7 +310,7 @@ Use account A11078844
     - State "DONE"       from "TODO"       [2013-04-02 Tue 21:33]
     :END:
     :PROPERTIES:
-    :LAST_REPEAT: [2014-07-01 Tue 19:16]
+    :LAST_REPEAT: [2014-08-01 Fri 16:00]
     :ID:       137987c4-8151-42f0-bfad-b1e06d2cd512
     :END:
 [[http://www.att.com/]]
