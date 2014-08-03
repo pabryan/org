@@ -8533,8 +8533,9 @@ A02 TuTh, 11:00a - 11:50a, SEQUO 147
 ********* A03
 	  TuTh, 12:00p - 12:50p, SEQUO 147
 ****** Tasks
-******* TODO Plan course
+******* DONE Plan course
 	:LOGBOOK:
+	- State "DONE"       from "TODO"       [2014-08-03 Sun 11:13]
 	CLOCK: [2014-06-18 Wed 09:34]--[2014-06-18 Wed 09:40] =>  0:06
 	:END:
 ******** DONE Org structure
@@ -8556,8 +8557,9 @@ Lectures in calendar and tasks like planning lectures.
 	 :PROPERTIES:
 	 :Effort:   0:10
 	 :END:
-******** WAITING make course TA email groups
+******** DONE make course TA email groups
 	 :LOGBOOK:
+	 - State "DONE"       from "WAITING"    [2014-08-03 Sun 11:13]
 	 - State "WAITING"    from "NEXT"       [2014-06-18 Wed 11:58] \\
 	   Waiting on TA list.
 	 :END:
@@ -8575,8 +8577,9 @@ Lectures in calendar and tasks like planning lectures.
 	 :PROPERTIES:
 	 :Effort:   0:15
 	 :END:
-******* TODO Lectures
+******* DONE Lectures
 	:LOGBOOK:
+	- State "DONE"       from "TODO"       [2014-08-03 Sun 12:03]
 	CLOCK: [2014-06-20 Fri 11:45]--[2014-06-20 Fri 11:47] =>  0:02
 	:END:
 ******** DONE Create Lecture Schedule
@@ -8597,9 +8600,13 @@ Lectures in calendar and tasks like planning lectures.
 	 :PROPERTIES:
 	 :Effort:   0:15
 	 :END:
-******** TODO Prepare Lectures
-********* TODO Week 1
+******** DONE Prepare Lectures
+	 :LOGBOOK:
+	 - State "DONE"       from "TODO"       [2014-08-03 Sun 11:14]
+	 :END:
+********* DONE Week 1
 	  :LOGBOOK:
+	  - State "DONE"       from "TODO"       [2014-08-03 Sun 11:13]
 	  CLOCK: [2014-06-23 Mon 14:31]--[2014-06-23 Mon 14:32] =>  0:01
 	  CLOCK: [2014-06-23 Mon 11:45]--[2014-06-23 Mon 11:46] =>  0:01
 	  CLOCK: [2014-06-19 Thu 14:55]--[2014-06-19 Thu 15:11] =>  0:16
@@ -8652,8 +8659,9 @@ Lectures in calendar and tasks like planning lectures.
 	   :PROPERTIES:
 	   :Effort:   1:00
 	   :END:
-********* TODO Week 2
+********* DONE Week 2
 	  :LOGBOOK:
+	  - State "DONE"       from "TODO"       [2014-08-03 Sun 11:14]
 	  CLOCK: [2014-07-03 Thu 14:12]--[2014-07-03 Thu 14:14] =>  0:02
 	  CLOCK: [2014-06-20 Fri 12:23]--[2014-06-20 Fri 12:24] =>  0:01
 	  :END:
@@ -8706,8 +8714,9 @@ Lectures in calendar and tasks like planning lectures.
 	   :Effort:   0
 	   :END:
 
-********* TODO Week 3
+********* DONE Week 3
 	  :LOGBOOK:
+	  - State "DONE"       from "TODO"       [2014-08-03 Sun 11:14]
 	  CLOCK: [2014-06-20 Fri 13:44]--[2014-06-20 Fri 13:48] =>  0:04
 	  :END:
 ********** DONE Prepare outline 3
@@ -8758,8 +8767,9 @@ Lectures in calendar and tasks like planning lectures.
 	   :Effort:   1:00
 	   :END:
 
-********* TODO Week 4
+********* DONE Week 4
    :LOGBOOK:
+   - State "DONE"       from "TODO"       [2014-08-03 Sun 11:14]
    CLOCK: [2014-07-15 Tue 12:33]--[2014-07-15 Tue 12:34] =>  0:01
    CLOCK: [2014-06-20 Fri 14:21]--[2014-06-20 Fri 14:22] =>  0:01
    :END:
@@ -8813,8 +8823,9 @@ Lectures in calendar and tasks like planning lectures.
 	   :Effort:   0
 	   :END:
 
-********* TODO Week 5
+********* DONE Week 5
 	  :LOGBOOK:
+	  - State "DONE"       from "TODO"       [2014-08-03 Sun 11:14]
 	  CLOCK: [2014-07-24 Thu 13:21]--[2014-07-24 Thu 13:23] =>  0:02
 	  :END:
 ********** DONE Prepare outline 5
@@ -8867,7 +8878,10 @@ Lectures in calendar and tasks like planning lectures.
 	   :Effort:   1:00
 	   :END:
 
-******* TODO Exams
+******* DONE Exams
+	:LOGBOOK:
+	- State "DONE"       from "TODO"       [2014-08-03 Sun 11:14]
+	:END:
 ******** DONE Create Exam Schedule
 	 :LOGBOOK:
 	 - State "DONE"       from "NEXT"       [2014-06-17 Tue 15:32]
@@ -8876,7 +8890,10 @@ Lectures in calendar and tasks like planning lectures.
 	 :PROPERTIES:
 	 :Effort:   0:15
 	 :END:
-******** TODO Midterm 1
+******** DONE Midterm 1
+	 :LOGBOOK:
+	 - State "DONE"       from "TODO"       [2014-08-03 Sun 11:14]
+	 :END:
 ********* DONE Write Midterm 1
 	  SCHEDULED: <2014-06-30 Mon>
 	  :LOGBOOK:
@@ -8926,8 +8943,9 @@ Lectures in calendar and tasks like planning lectures.
   :END:
 [2014-07-05 Sat 15:09]
 
-******** TODO Midterm 2
+******** DONE Midterm 2
 	 :LOGBOOK:
+	 - State "DONE"       from "TODO"       [2014-08-03 Sun 11:14]
 	 CLOCK: [2014-07-11 Fri 19:47]--[2014-07-11 Fri 19:57] =>  0:10
 	 :END:
 ********* DONE Write Midterm 2
@@ -8960,8 +8978,14 @@ Lectures in calendar and tasks like planning lectures.
 	  :Effort:   0:10
 	  :END:
 
-********* TODO Write MT2 solutions
-******** TODO Final
+********* DONE Write MT2 solutions
+	  :LOGBOOK:
+	  - State "DONE"       from "TODO"       [2014-08-03 Sun 11:14]
+	  :END:
+******** DONE Final
+	 :LOGBOOK:
+	 - State "DONE"       from "TODO"       [2014-08-03 Sun 11:14]
+	 :END:
 ********* DONE Write Final
 	  SCHEDULED: <2014-07-21 Mon>
 	  :LOGBOOK:
@@ -8995,8 +9019,9 @@ Lectures in calendar and tasks like planning lectures.
 	  :Effort:   0:10
 	  :END:
 
-******* TODO Homework
+******* DONE Homework
 	:LOGBOOK:
+	- State "DONE"       from "TODO"       [2014-08-03 Sun 12:03]
 	CLOCK: [2014-06-28 Sat 12:10]--[2014-06-28 Sat 12:13] =>  0:03
 	- State "DONE"       from "TODO"       [2014-06-18 Wed 12:24]
 	CLOCK: [2014-06-18 Wed 12:24]--[2014-06-18 Wed 12:35] =>  0:11
@@ -9016,14 +9041,18 @@ Lectures in calendar and tasks like planning lectures.
 	 - State "DONE"       from "NEXT"       [2014-06-28 Sat 12:10]
 	 CLOCK: [2014-06-28 Sat 12:04]--[2014-06-28 Sat 12:10] =>  0:06
 	 :END:
-******** NEXT Change  Nawar Fadil homework scores
+******** DONE Change  Nawar Fadil homework scores
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2014-08-03 Sun 12:03]
+	 :END:
 1. 12/15
 2. 15/15
 3. 14/15
 4. 14/15
 5. 14/15
-******* TODO Website
+******* DONE Website
 	:LOGBOOK:
+	- State "DONE"       from "TODO"       [2014-08-03 Sun 11:14]
 	CLOCK: [2014-07-02 Wed 09:18]--[2014-07-02 Wed 09:19] =>  0:01
 	CLOCK: [2014-06-17 Tue 15:53]--[2014-06-17 Tue 15:54] =>  0:01
 	:END:
@@ -9050,16 +9079,27 @@ Lectures in calendar and tasks like planning lectures.
 	 CLOCK: [2014-07-02 Wed 09:12]--[2014-07-02 Wed 09:18] =>  0:06
 	 :END:
 [2014-07-01 Tue 18:31]
-******** NEXT Post announcements
+******** DONE Post announcements
 	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2014-08-03 Sun 11:14]
 	 CLOCK: [2014-07-30 Wed 15:56]--[2014-07-30 Wed 16:00] =>  0:04
 	 :END:
-******* TODO Grades
-******** NEXT Enter grades
+******* DONE Grades
+	:LOGBOOK:
+	- State "DONE"       from "TODO"       [2014-08-03 Sun 12:03]
+	:END:
+******** DONE Enter grades
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2014-08-03 Sun 12:03]
+	 CLOCK: [2014-08-03 Sun 11:05]--[2014-08-03 Sun 12:03] =>  0:58
+	 :END:
 	 :PROPERTIES:
 	 :Effort:   1:00
 	 :END:
-******* TODO Misc
+******* DONE Misc
+	:LOGBOOK:
+	- State "DONE"       from "TODO"       [2014-08-03 Sun 11:14]
+	:END:
 ****** Clocking
 ******* Admin
 ******* Office hours
