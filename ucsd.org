@@ -9096,11 +9096,17 @@ Lectures in calendar and tasks like planning lectures.
 	 :PROPERTIES:
 	 :Effort:   1:00
 	 :END:
-******** NEXT Update grades
+******** DONE Update grades
 	 :LOGBOOK:
-	 CLOCK: [2014-08-04 Mon 14:10]
+	 - State "DONE"       from "NEXT"       [2014-08-04 Mon 14:29]
+	 CLOCK: [2014-08-04 Mon 11:20]--[2014-08-04 Mon 12:20] =>  1:00
+	 CLOCK: [2014-08-04 Mon 14:10]--[2014-08-04 Mon 14:29] =>  0:19
 	 :END:
 - made an error in grade calculation.
+******** NEXT Update grade
+  DEADLINE: <2014-08-05 Tue>
+[2014-08-04 Mon 12:09]
+KHABBAZ, NAWAR MATTHEW FADIL: C-
 ******* DONE Misc
 	:LOGBOOK:
 	- State "DONE"       from "TODO"       [2014-08-03 Sun 11:14]
@@ -10241,6 +10247,9 @@ Lectures in calendar and tasks like planning lectures.
 Center 119
 ******** Mon
 ********* Lecture 1.1
+	  :LOGBOOK:
+	  CLOCK: [2014-08-04 Mon 12:20]--[2014-08-04 Mon 14:10] =>  1:50
+	  :END:
 <2014-08-04 Mon 12:30-14:00>
 ********* Lecture 2.1
 <2014-08-11 Mon 12:30-14:00>
