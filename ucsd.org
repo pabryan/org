@@ -9723,8 +9723,12 @@ Lectures in calendar and tasks like planning lectures.
 	 :PROPERTIES:
 	 :Effort:   0:15
 	 :END:
-******** NEXT Add Piazza link
+******** DONE Add Piazza link
 	 DEADLINE: <2014-08-04 Mon>
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2014-08-04 Mon 17:10]
+	 CLOCK: [2014-08-04 Mon 17:03]--[2014-08-04 Mon 17:10] =>  0:07
+	 :END:
 ******* TODO Grades
 ******** NEXT Enter grades
 	 :PROPERTIES:
