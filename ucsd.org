@@ -8520,7 +8520,10 @@ Center 101
 - The topic will be ODE/dynamical systems
 <2014-05-05 Mon 10:00-11:00>
 **** Summer 2014 I
-***** TODO MATH20E
+***** DONE MATH20E
+      :LOGBOOK:
+      - State "DONE"       from "TODO"       [2014-08-05 Tue 12:08]
+      :END:
 [[file:~/working/ucsd/teaching/2014/summer1/math20e_summer1_2014]]
 ****** Notes
 ******* Discussions
@@ -9103,8 +9106,11 @@ Lectures in calendar and tasks like planning lectures.
 	 CLOCK: [2014-08-04 Mon 14:10]--[2014-08-04 Mon 14:29] =>  0:19
 	 :END:
 - made an error in grade calculation.
-******** NEXT Update grade
+******** DONE Update grade
   DEADLINE: <2014-08-05 Tue>
+  :LOGBOOK:
+  - State "DONE"       from "NEXT"       [2014-08-05 Tue 12:07]
+  :END:
 [2014-08-04 Mon 12:09]
 KHABBAZ, NAWAR MATTHEW FADIL: C-
 ******* DONE Misc
@@ -9299,12 +9305,6 @@ Ledden Auditorium
 ******** Homework 3 Due
 ******** Homework 4 Due
 ******** Homework 5 Due
-******** TODO Enter homework scores
-  :LOGBOOK:
-  CLOCK: [2014-07-02 Wed 11:42]--[2014-07-02 Wed 11:47] =>  0:05
-  :END:
-[2014-07-02 Wed 11:42]
-Nawar Fadil <nfadil@ucsd.edu>
 ******* Office hours
 ******** O/H Week 1
 	 :LOGBOOK:
