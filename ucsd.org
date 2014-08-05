@@ -9759,11 +9759,19 @@ Lectures in calendar and tasks like planning lectures.
 	 - State "DONE"       from "NEXT"       [2014-07-31 Thu 19:50]
 	 CLOCK: [2014-07-31 Thu 19:18]--[2014-07-31 Thu 19:50] =>  0:32
 	 :END:
-******** NEXT Upload problems
+******** DONE Upload sample problems
 	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2014-08-05 Tue 12:09]
 	 CLOCK: [2014-08-01 Fri 17:23]--[2014-08-01 Fri 18:02] =>  0:39
 	 :END:
+******** NEXT Choose homework problems
 ******** TODO Check problems for errors
+******** TODO Upload chosen problems to test server
+	 DEADLINE: <2014-08-08 Fri>
+******** TODO Set up live server
+********* NEXT Configure
+********* TODO Upload problems
+********* TODO Create problem sets
 ****** Clocking
 ******* Admin
 ******* Office hours
@@ -10278,6 +10286,9 @@ Center 119
 <2014-09-01 Mon 12:30-14:00>
 ******** Tue
 ********* Lecture 1.2
+	  :LOGBOOK:
+	  CLOCK: [2014-08-05 Tue 12:22]
+	  :END:
 <2014-08-05 Tue 12:30-14:00>
 ********* Lecture 2.2
 <2014-08-12 Tue 12:30-14:00>
