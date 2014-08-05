@@ -1347,7 +1347,7 @@ Given $X$ in the equator, let $\rho_{\alpha}(X)$ be the infimum of the lengths o
 	CLOCK: [2014-01-28 Tue 14:10]--[2014-01-28 Tue 15:38] =>  1:28
 	CLOCK: [2014-01-21 Tue 14:00]--[2014-01-21 Tue 14:45] =>  0:45
 	:END:
-<2014-01-22 Wed 14:00-16:00 +1w>
+# OLD TIME <2014-01-22 Wed 14:00-16:00 +1w>
 ******* Ben Chow
 	:LOGBOOK:
 	CLOCK: [2014-04-29 Tue 15:40]--[2014-04-29 Tue 16:09] =>  0:29
