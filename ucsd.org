@@ -9966,10 +9966,11 @@ Lectures in calendar and tasks like planning lectures.
 	   :Effort:   1:00
 	   :END:
 
-********** NEXT Prepare Lecture 1.3
+********** DONE Prepare Lecture 1.3
 	   DEADLINE: <2014-07-31 Thu> SCHEDULED: <2014-07-31 Thu>
 	   :LOGBOOK:
-	   CLOCK: [2014-08-04 Mon 15:40]
+	   - State "DONE"       from "NEXT"       [2014-08-04 Mon 17:01]
+	   CLOCK: [2014-08-04 Mon 15:40]--[2014-08-04 Mon 17:01] =>  1:21
 	   - State "NEXT"       from "DONE"       [2014-08-04 Mon 15:31] \\
 	     Changed topic so still need to prepare!
 	   - State "DONE"       from "NEXT"       [2014-07-29 Tue 16:00]
