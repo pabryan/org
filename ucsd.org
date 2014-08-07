@@ -9828,7 +9828,7 @@ Peter 110
 ******** Thu
 ********* Lecture 1.4
 	  :LOGBOOK:
-	  CLOCK: [2014-08-07 Thu 09:24]
+	  CLOCK: [2014-08-07 Thu 09:24]--[2014-08-07 Thu 11:13] =>  1:49
 	  :END:
 <2014-08-07 Thu 09:30-11:00>
 
@@ -10277,6 +10277,10 @@ Lectures in calendar and tasks like planning lectures.
 ****** Clocking
 ******* Admin
 ******* Office hours
+******* Piazza
+	:LOGBOOK:
+	CLOCK: [2014-08-07 Thu 11:13]--[2014-08-07 Thu 11:31] =>  0:18
+	:END:
 ****** Schedule
 ******* Lectures
 ******** Location
