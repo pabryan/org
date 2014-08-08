@@ -9489,10 +9489,6 @@ Lectures in calendar and tasks like planning lectures.
 	   :END:
 
 ********* TODO Week 2
-	  :LOGBOOK:
-	  CLOCK: [2014-08-07 Thu 17:28]
-	  CLOCK: [2014-08-07 Thu 15:23]--[2014-08-07 Thu 15:24] =>  0:01
-	  :END:
 ********** DONE Prepare outline 2
 	   SCHEDULED: <2014-06-24 Tue> 
 	   :LOGBOOK:

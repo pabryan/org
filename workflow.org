@@ -1841,6 +1841,7 @@ http://gmane.org
   :END:
 ** Organisation
   :LOGBOOK:
+  CLOCK: [2014-08-07 Thu 17:30]--[2014-08-07 Thu 17:31] =>  0:01
   CLOCK: [2014-08-07 Thu 16:26]--[2014-08-07 Thu 16:31] =>  0:05
   CLOCK: [2014-08-07 Thu 15:24]--[2014-08-07 Thu 15:31] =>  0:07
   CLOCK: [2014-08-07 Thu 14:18]--[2014-08-07 Thu 14:27] =>  0:09
@@ -3313,8 +3314,10 @@ Set some goals for the month. I should check someday projects for inclusion in t
 Check how I did last month. I guess the review and plan could probably go together. This is all broad stuff
 
 ** NEXT Daily Review [0/12]
-   SCHEDULED: <2014-08-07 Thu .+1d/2d>
+   SCHEDULED: <2014-08-08 Fri .+1d/2d>
    :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2014-08-07 Thu 17:37]
+   CLOCK: [2014-08-07 Thu 17:31]--[2014-08-07 Thu 17:37] =>  0:06
    - State "DONE"       from "NEXT"       [2014-08-06 Wed 17:32]
    CLOCK: [2014-08-06 Wed 17:25]--[2014-08-06 Wed 17:32] =>  0:07
    CLOCK: [2014-08-06 Wed 17:22]--[2014-08-06 Wed 17:25] =>  0:03
@@ -3672,7 +3675,7 @@ Check how I did last month. I guess the review and plan could probably go togeth
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
    :ID:       616c5bd9-d941-4fcc-8874-2ff3c9e96b4a
-   :LAST_REPEAT: [2014-08-06 Wed 17:32]
+   :LAST_REPEAT: [2014-08-07 Thu 17:37]
    :END:
 
 What to review:
@@ -3695,8 +3698,9 @@ When I set up scoring the day:
 - [ ] Collate data such as sleep, weight, exercise, diet etc.
 
 ** NEXT Daily Plan [0/7]
-   SCHEDULED: <2014-08-07 Thu .+1d/2d>
+   SCHEDULED: <2014-08-08 Fri .+1d/2d>
    :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2014-08-07 Thu 17:31]
    - State "DONE"       from "NEXT"       [2014-08-06 Wed 11:12]
    CLOCK: [2014-08-06 Wed 11:08]--[2014-08-06 Wed 11:12] =>  0:04
    - State "DONE"       from "NEXT"       [2014-08-05 Tue 12:22]
@@ -4418,7 +4422,7 @@ When I set up scoring the day:
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
    :ID:       ef051ee0-1113-4604-b355-450a5a47848b
-   :LAST_REPEAT: [2014-08-06 Wed 11:12]
+   :LAST_REPEAT: [2014-08-07 Thu 17:31]
    :LAST_REPEAT: [2014-01-25 Sat 12:49]
    :END:
 
