@@ -9787,7 +9787,7 @@ Lectures in calendar and tasks like planning lectures.
 ******** NEXT Choose homework problems
 ******** TODO Check problems for errors
 ******** TODO Upload chosen problems to test server
-	 DEADLINE: <2014-08-08 Fri>
+	 SCHEDULED: <2014-08-10 Sun> DEADLINE: <2014-08-08 Fri>
 ******** TODO Set up live server
 ********* NEXT Configure
 ********* TODO Upload problems
