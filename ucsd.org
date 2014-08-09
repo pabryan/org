@@ -9660,6 +9660,7 @@ Lectures in calendar and tasks like planning lectures.
 ********* NEXT Write Midterm 1
 	  SCHEDULED: <2014-08-04 Mon>
 	  :LOGBOOK:
+	  CLOCK: [2014-08-08 Fri 20:29]--[2014-08-08 Fri 21:19] =>  0:50
 	  CLOCK: [2014-08-08 Fri 14:33]--[2014-08-08 Fri 14:49] =>  0:16
 	  :END:
 	  :PROPERTIES:
