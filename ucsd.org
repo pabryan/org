@@ -9657,6 +9657,9 @@ Lectures in calendar and tasks like planning lectures.
 	 :Effort:   0:15
 	 :END:
 ******** TODO Midterm 1
+	 :LOGBOOK:
+	 CLOCK: [2014-08-11 Mon 16:47]--[2014-08-11 Mon 16:48] =>  0:01
+	 :END:
 ********* DONE Write Midterm 1
 	  SCHEDULED: <2014-08-04 Mon>
 	  :LOGBOOK:
@@ -9679,12 +9682,17 @@ Lectures in calendar and tasks like planning lectures.
 	  :PROPERTIES:
 	  :Effort:   0:10
 	  :END:
-********* NEXT Update exam based on TA comments
+********* DONE Update exam based on TA comments
+	  DEADLINE: <2014-08-11 Mon>
 	  :LOGBOOK:
-	  CLOCK: [2014-08-11 Mon 16:35]
+	  - State "DONE"       from "NEXT"       [2014-08-11 Mon 16:47]
+	  CLOCK: [2014-08-11 Mon 16:35]--[2014-08-11 Mon 16:47] =>  0:12
 	  :END:
-********* TODO Submit midterm to printing/frdesk
+********* DONE Submit midterm to printing/frdesk
 	  DEADLINE: <2014-08-12 Tue>
+	  :LOGBOOK:
+	  - State "DONE"       from "TODO"       [2014-08-11 Mon 16:48]
+	  :END:
 	  :PROPERTIES:
 	  :Effort:   0:10
 	  :END:
@@ -9714,6 +9722,12 @@ Lectures in calendar and tasks like planning lectures.
 	  :Effort:   0:10
 	  :END:
 
+********* TODO Update exam based on TA comments
+	  DEADLINE: <2014-08-25 Mon>
+	  :PROPERTIES:
+	  :Effort:   0:15
+	  :END:
+
 ********* TODO Submit midterm to printing/frdesk
 	  DEADLINE: <2014-08-25 Mon>
 	  :PROPERTIES:
@@ -9732,6 +9746,12 @@ Lectures in calendar and tasks like planning lectures.
 	  :PROPERTIES:
 	  :Effort:   0:10
 	  :END:
+********* TODO Update exam based on TA comments
+	  DEADLINE: <2014-09-01 Mon>
+	  :PROPERTIES:
+	  :Effort:   0:15
+	  :END:
+
 ********* TODO Submit to printing/frdesk
 	  DEADLINE: <2014-09-01 Mon>
 	  :PROPERTIES:
@@ -10292,6 +10312,9 @@ Lectures in calendar and tasks like planning lectures.
 	  :Effort:   0:10
 	  :END:
 ********* NEXT Update exam based on TA comments
+	  :LOGBOOK:
+	  CLOCK: [2014-08-11 Mon 16:48]
+	  :END:
 ********* TODO Submit midterm to printing/frdesk
 	  DEADLINE: <2014-08-12 Tue>
 	  :PROPERTIES:
@@ -10318,6 +10341,12 @@ Lectures in calendar and tasks like planning lectures.
 	  :Effort:   0:10
 	  :END:
 
+********* TODO Update exam based on TA comments
+	  DEADLINE: <2014-08-25 Mon>
+	  :PROPERTIES:
+	  :Effort:   0:15
+	  :END:
+
 ********* TODO Submit midterm to printing/frdesk
 	  DEADLINE: <2014-08-25 Mon>
 	  :PROPERTIES:
@@ -10336,6 +10365,12 @@ Lectures in calendar and tasks like planning lectures.
 	  :PROPERTIES:
 	  :Effort:   0:10
 	  :END:
+********* TODO Update exam based on TA comments
+	  DEADLINE: <2014-09-01 Mon>
+	  :PROPERTIES:
+	  :Effort:   0:15
+	  :END:
+
 ********* TODO Submit to printing/frdesk
 	  DEADLINE: <2014-09-01 Mon>
 	  :PROPERTIES:
