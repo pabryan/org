@@ -10394,11 +10394,11 @@ Lectures in calendar and tasks like planning lectures.
 ********* TODO Update student list
 	  SCHEDULED: <2014-08-29 Fri>
 ******** TODO Summary
-********* NEXT Post week 1 summary
+********* DONE Post week 1 summary
 	  DEADLINE: <2014-08-10 Sun>
 	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2014-08-10 Sun 20:17]
 	  CLOCK: [2014-08-10 Sun 20:00]--[2014-08-10 Sun 20:17] =>  0:17
-	  - State "DONE"       from "NEXT"       [2014-08-10 Sun 20:15]
 	  :END:
 	  :PROPERTIES:
 	  :Effort:   0:15
