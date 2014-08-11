@@ -9657,27 +9657,44 @@ Lectures in calendar and tasks like planning lectures.
 	 :Effort:   0:15
 	 :END:
 ******** TODO Midterm 1
-********* NEXT Write Midterm 1
+********* DONE Write Midterm 1
 	  SCHEDULED: <2014-08-04 Mon>
 	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2014-08-10 Sun 17:38]
+	  CLOCK: [2014-08-10 Sun 17:18]--[2014-08-10 Sun 17:38] =>  0:20
+	  CLOCK: [2014-08-10 Sun 15:51]--[2014-08-10 Sun 16:43] =>  0:52
 	  CLOCK: [2014-08-08 Fri 20:29]--[2014-08-08 Fri 21:19] =>  0:50
 	  CLOCK: [2014-08-08 Fri 14:33]--[2014-08-08 Fri 14:49] =>  0:16
 	  :END:
 	  :PROPERTIES:
 	  :Effort:   1:00
 	  :END:
-********* TODO Get TA's comments
-	  DEADLINE: <2014-08-11 Mon>
+********* WAITING Get TA's comments
+	  DEADLINE: <2014-08-12 Tue>
+	  :LOGBOOK:
+	  - State "WAITING"    from "TODO"       [2014-08-10 Sun 19:21] \\
+	    Sent to TA's for comments.
+	  :END:
 	  :PROPERTIES:
 	  :Effort:   0:10
 	  :END:
 ********* TODO Submit midterm to printing/frdesk
-	  DEADLINE: <2014-08-11 Mon>
+	  DEADLINE: <2014-08-12 Tue>
 	  :PROPERTIES:
 	  :Effort:   0:10
 	  :END:
 
-********* TODO Write MT 1 solutions
+********* CANCELLED Write MT 1 solutions
+	  :LOGBOOK:
+	  - State "CANCELLED"  from "TODO"       [2014-08-10 Sun 19:40] \\
+	    Not going to write solutions.
+	  :END:
+********* NEXT Upload sample exams
+	  DEADLINE: <2014-08-11 Mon>
+	  :LOGBOOK:
+	  CLOCK: [2014-08-10 Sun 19:40]--[2014-08-10 Sun 19:51] =>  0:11
+	  :END:
+	  [2014-08-10 Sun 16:59]
 ******** TODO Midterm 2
 ********* NEXT Write Midterm 2
 	  SCHEDULED: <2014-08-18 Mon>
@@ -9772,7 +9789,50 @@ Lectures in calendar and tasks like planning lectures.
 	 :LOGBOOK:
 	 - State "DONE"       from "TODO"       [2014-07-31 Thu 17:58]
 	 :END:
-******** TODO Announce to students
+******** DONE Announce to students
+	 :LOGBOOK:
+	 - State "DONE"       from "TODO"       [2014-08-10 Sun 15:29]
+	 :END:
+******** TODO Summary
+********* DONE Post week 1 summary
+	  DEADLINE: <2014-08-10 Sun>
+	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2014-08-10 Sun 19:35]
+	  :END:
+          :PROPERTIES:
+	  :Effort:   0:15
+	  :END:
+********* TODO Post week 2 summary
+	  DEADLINE: <2014-08-17 Sun>
+          :PROPERTIES:
+	  :Effort:   0:15
+	  :END:
+********* TODO Post week 3 summary
+	  DEADLINE: <2014-08-24 Sun>
+          :PROPERTIES:
+	  :Effort:   0:15
+	  :END:
+********* TODO Post week 4 summary
+	  DEADLINE: <2014-08-31 Sun>
+          :PROPERTIES:
+	  :Effort:   0:15
+	  :END:
+********* TODO Post week 5 summary
+	  DEADLINE: <2014-09-04 Thu>
+          :PROPERTIES:
+	  :Effort:   0:15
+	  :END:
+******** TODO Student list
+********* NEXT Update student list
+	  SCHEDULED: <2014-08-11 Mon>
+
+********* TODO Update student list
+	  SCHEDULED: <2014-08-15 Fri>
+********* TODO Update student list
+	  SCHEDULED: <2014-08-22 Fri>
+********* TODO Update student list
+	  SCHEDULED: <2014-08-29 Fri>
+
 ******* TODO Webwork
 ******** DONE Read Tesler's info
 	 :LOGBOOK:
@@ -9908,6 +9968,7 @@ Peter 110
 <2014-07-31 Thu 13:00-13:30>
 ***** TODO MATH20D
 [[file:~/working/ucsd/teaching/2014/summer2/math20d_summer2_2014]] 
+[[file:~/reference/ucsd/teaching/2014/summer2/math20d]]
 ****** Notes
 ******* Discussions
 ******** TA's
@@ -10196,23 +10257,39 @@ Lectures in calendar and tasks like planning lectures.
 	 :Effort:   0:15
 	 :END:
 ******** TODO Midterm 1
-********* NEXT Write Midterm 1
+********* DONE Write Midterm 1
 	  SCHEDULED: <2014-08-04 Mon>
+	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2014-08-10 Sun 19:19]
+	  CLOCK: [2014-08-10 Sun 19:05]--[2014-08-10 Sun 19:19] =>  0:14
+	  CLOCK: [2014-08-10 Sun 18:06]--[2014-08-10 Sun 18:26] =>  0:20
+	  CLOCK: [2014-08-10 Sun 17:40]--[2014-08-10 Sun 17:47] =>  0:07
+	  :END:
 	  :PROPERTIES:
 	  :Effort:   1:00
 	  :END:
-********* TODO Get TA's comments
-	  DEADLINE: <2014-08-11 Mon>
+********* WAITING Get TA's comments
+	  DEADLINE: <2014-08-12 Tue>
+	  :LOGBOOK:
+	  - State "WAITING"    from "NEXT"       [2014-08-10 Sun 19:21] \\
+	    Sent to TA's for comments.
+	  :END:
 	  :PROPERTIES:
 	  :Effort:   0:10
 	  :END:
 ********* TODO Submit midterm to printing/frdesk
-	  DEADLINE: <2014-08-11 Mon>
+	  DEADLINE: <2014-08-12 Tue>
 	  :PROPERTIES:
 	  :Effort:   0:10
 	  :END:
 
 ********* TODO Write MT 1 solutions
+********* NEXT Upload sample exams
+	  DEADLINE: <2014-08-11 Mon>
+	  :LOGBOOK:
+	  CLOCK: [2014-08-10 Sun 19:51]--[2014-08-10 Sun 20:00] =>  0:09
+	  :END:
+	  [2014-08-10 Sun 16:59]
 ******** TODO Midterm 2
 ********* NEXT Write Midterm 2
 	  SCHEDULED: <2014-08-18 Mon>
@@ -10305,6 +10382,48 @@ Lectures in calendar and tasks like planning lectures.
 	 :Effort:   1:00
 	 :END:
 ******* TODO Misc
+******* TODO Piazza
+******** TODO Student list
+********* NEXT Update student list
+	  SCHEDULED: <2014-08-11 Mon>
+
+********* TODO Update student list
+	  SCHEDULED: <2014-08-15 Fri>
+********* TODO Update student list
+	  SCHEDULED: <2014-08-22 Fri>
+********* TODO Update student list
+	  SCHEDULED: <2014-08-29 Fri>
+******** TODO Summary
+********* NEXT Post week 1 summary
+	  DEADLINE: <2014-08-10 Sun>
+	  :LOGBOOK:
+	  CLOCK: [2014-08-10 Sun 20:00]--[2014-08-10 Sun 20:17] =>  0:17
+	  - State "DONE"       from "NEXT"       [2014-08-10 Sun 20:15]
+	  :END:
+	  :PROPERTIES:
+	  :Effort:   0:15
+	  :END:
+********* TODO Post week 2 summary
+	  DEADLINE: <2014-08-17 Sun>
+	  :PROPERTIES:
+	  :Effort:   0:15
+	  :END:
+********* TODO Post week 3 summary
+	  DEADLINE: <2014-08-24 Sun>
+	  :PROPERTIES:
+	  :Effort:   0:15
+	  :END:
+********* TODO Post week 4 summary
+	  DEADLINE: <2014-08-31 Sun>
+	  :PROPERTIES:
+	  :Effort:   0:15
+	  :END:
+********* TODO Post week 5 summary
+	  DEADLINE: <2014-09-04 Thu>
+	  :PROPERTIES:
+	  :Effort:   0:15
+	  :END:
+
 ****** Clocking
 ******* Admin
 ******* Office hours

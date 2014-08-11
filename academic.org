@@ -1908,6 +1908,7 @@ This proves the inequality we need.  The remaining problem is to remove the symm
        :ID:       c1250415-a95a-42ee-94cc-4bf6e967467e
        :END:
 ****** NEXT Compile work into org file
+       SCHEDULED: <2014-09-01 Mon>
        :LOGBOOK:
        CLOCK: [2014-07-31 Thu 12:29]--[2014-07-31 Thu 12:58] =>  0:29
        CLOCK: [2014-07-21 Mon 18:46]--[2014-07-21 Mon 19:29] =>  0:43
@@ -1916,7 +1917,7 @@ This proves the inequality we need.  The remaining problem is to remove the symm
        :ID:       4f27c099-1b3f-44a1-b38d-394b791aabef
        :END:
 ****** NEXT Follow up with Steve Roberts
-       SCHEDULED: <2014-07-25 Fri>
+       SCHEDULED: <2014-09-19 Fri>
 ***** Notes
 ***** References
 - Gerbi et. al.
