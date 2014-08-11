@@ -9669,14 +9669,19 @@ Lectures in calendar and tasks like planning lectures.
 	  :PROPERTIES:
 	  :Effort:   1:00
 	  :END:
-********* WAITING Get TA's comments
+********* DONE Get TA's comments
 	  DEADLINE: <2014-08-12 Tue>
 	  :LOGBOOK:
+	  - State "DONE"       from "WAITING"    [2014-08-11 Mon 16:31]
 	  - State "WAITING"    from "TODO"       [2014-08-10 Sun 19:21] \\
 	    Sent to TA's for comments.
 	  :END:
 	  :PROPERTIES:
 	  :Effort:   0:10
+	  :END:
+********* NEXT Update exam based on TA comments
+	  :LOGBOOK:
+	  CLOCK: [2014-08-11 Mon 16:35]
 	  :END:
 ********* TODO Submit midterm to printing/frdesk
 	  DEADLINE: <2014-08-12 Tue>
@@ -9744,6 +9749,9 @@ Lectures in calendar and tasks like planning lectures.
 	 :PROPERTIES:
 	 :Effort:   0:30
 	 :END:
+******** Students
+********* Jacqueline Montes 
+received 25/25 points.
 ******* TODO Website
 ******** DONE Make website
 	 DEADLINE: <2014-06-20 Fri>
@@ -10273,15 +10281,17 @@ Lectures in calendar and tasks like planning lectures.
 	  :PROPERTIES:
 	  :Effort:   1:00
 	  :END:
-********* WAITING Get TA's comments
+********* DONE Get TA's comments
 	  DEADLINE: <2014-08-12 Tue>
 	  :LOGBOOK:
+	  - State "DONE"       from "WAITING"    [2014-08-11 Mon 16:31]
 	  - State "WAITING"    from "NEXT"       [2014-08-10 Sun 19:21] \\
 	    Sent to TA's for comments.
 	  :END:
 	  :PROPERTIES:
 	  :Effort:   0:10
 	  :END:
+********* NEXT Update exam based on TA comments
 ********* TODO Submit midterm to printing/frdesk
 	  DEADLINE: <2014-08-12 Tue>
 	  :PROPERTIES:
