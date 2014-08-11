@@ -9689,9 +9689,11 @@ Lectures in calendar and tasks like planning lectures.
 	  - State "CANCELLED"  from "TODO"       [2014-08-10 Sun 19:40] \\
 	    Not going to write solutions.
 	  :END:
-********* NEXT Upload sample exams
+********* DONE Upload sample exams
 	  DEADLINE: <2014-08-11 Mon>
 	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2014-08-11 Mon 14:55]
+	  CLOCK: [2014-08-11 Mon 14:54]--[2014-08-11 Mon 14:55] =>  0:01
 	  CLOCK: [2014-08-10 Sun 19:40]--[2014-08-10 Sun 19:51] =>  0:11
 	  :END:
 	  [2014-08-10 Sun 16:59]
@@ -10287,9 +10289,10 @@ Lectures in calendar and tasks like planning lectures.
 	  :END:
 
 ********* TODO Write MT 1 solutions
-********* NEXT Upload sample exams
+********* DONE Upload sample exams
 	  DEADLINE: <2014-08-11 Mon>
 	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2014-08-11 Mon 14:55]
 	  CLOCK: [2014-08-10 Sun 19:51]--[2014-08-10 Sun 20:00] =>  0:09
 	  :END:
 	  [2014-08-10 Sun 16:59]
