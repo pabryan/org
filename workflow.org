@@ -1841,7 +1841,8 @@ http://gmane.org
   :END:
 ** Organisation
   :LOGBOOK:
-  CLOCK: [2014-08-11 Mon 14:55]
+  CLOCK: [2014-08-11 Mon 16:34]--[2014-08-11 Mon 16:35] =>  0:01
+  CLOCK: [2014-08-11 Mon 14:55]--[2014-08-11 Mon 16:32] =>  1:37
   CLOCK: [2014-08-11 Mon 14:53]--[2014-08-11 Mon 14:54] =>  0:01
   CLOCK: [2014-08-11 Mon 14:11]--[2014-08-11 Mon 14:35] =>  0:24
   CLOCK: [2014-08-11 Mon 11:09]--[2014-08-11 Mon 12:17] =>  1:08
@@ -3319,8 +3320,10 @@ Set some goals for the month. I should check someday projects for inclusion in t
 Check how I did last month. I guess the review and plan could probably go together. This is all broad stuff
 
 ** NEXT Daily Review [0/12]
-   SCHEDULED: <2014-08-11 Mon .+1d/2d>
+   SCHEDULED: <2014-08-12 Tue .+1d/2d>
    :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2014-08-11 Mon 17:06]
+   CLOCK: [2014-08-11 Mon 17:01]--[2014-08-11 Mon 17:06] =>  0:05
    - State "DONE"       from "NEXT"       [2014-08-10 Sun 20:57]
    CLOCK: [2014-08-10 Sun 20:19]--[2014-08-10 Sun 20:30] =>  0:11
    - State "DONE"       from "NEXT"       [2014-08-08 Fri 20:26]
@@ -3683,7 +3686,7 @@ Check how I did last month. I guess the review and plan could probably go togeth
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
    :ID:       616c5bd9-d941-4fcc-8874-2ff3c9e96b4a
-   :LAST_REPEAT: [2014-08-10 Sun 20:57]
+   :LAST_REPEAT: [2014-08-11 Mon 17:06]
    :END:
 
 What to review:
@@ -3706,8 +3709,10 @@ When I set up scoring the day:
 - [ ] Collate data such as sleep, weight, exercise, diet etc.
 
 ** NEXT Daily Plan [0/7]
-   SCHEDULED: <2014-08-11 Mon .+1d/2d>
+   SCHEDULED: <2014-08-12 Tue .+1d/2d>
    :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2014-08-11 Mon 16:34]
+   CLOCK: [2014-08-11 Mon 16:32]--[2014-08-11 Mon 16:34] =>  0:02
    - State "DONE"       from "NEXT"       [2014-08-10 Sun 15:50]
    CLOCK: [2014-08-10 Sun 15:42]--[2014-08-10 Sun 15:50] =>  0:08
    - State "DONE"       from "NEXT"       [2014-08-09 Sat 10:40]
@@ -4436,7 +4441,7 @@ When I set up scoring the day:
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
    :ID:       ef051ee0-1113-4604-b355-450a5a47848b
-   :LAST_REPEAT: [2014-08-10 Sun 15:50]
+   :LAST_REPEAT: [2014-08-11 Mon 16:34]
    :LAST_REPEAT: [2014-01-25 Sat 12:49]
    :END:
 

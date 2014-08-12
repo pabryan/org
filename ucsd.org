@@ -9691,6 +9691,7 @@ Lectures in calendar and tasks like planning lectures.
 ********* DONE Submit midterm to printing/frdesk
 	  DEADLINE: <2014-08-12 Tue>
 	  :LOGBOOK:
+	  - State "DONE"       from "DONE"       [2014-08-11 Mon 17:00]
 	  - State "DONE"       from "TODO"       [2014-08-11 Mon 16:48]
 	  :END:
 	  :PROPERTIES:
@@ -10290,6 +10291,9 @@ Lectures in calendar and tasks like planning lectures.
 	 :Effort:   0:15
 	 :END:
 ******** TODO Midterm 1
+	 :LOGBOOK:
+	 CLOCK: [2014-08-11 Mon 17:00]--[2014-08-11 Mon 17:01] =>  0:01
+	 :END:
 ********* DONE Write Midterm 1
 	  SCHEDULED: <2014-08-04 Mon>
 	  :LOGBOOK:
@@ -10311,9 +10315,10 @@ Lectures in calendar and tasks like planning lectures.
 	  :PROPERTIES:
 	  :Effort:   0:10
 	  :END:
-********* NEXT Update exam based on TA comments
+********* DONE Update exam based on TA comments
 	  :LOGBOOK:
-	  CLOCK: [2014-08-11 Mon 16:48]
+	  - State "DONE"       from "NEXT"       [2014-08-11 Mon 17:00]
+	  CLOCK: [2014-08-11 Mon 16:48]--[2014-08-11 Mon 17:00] =>  0:12
 	  :END:
 ********* TODO Submit midterm to printing/frdesk
 	  DEADLINE: <2014-08-12 Tue>
