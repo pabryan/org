@@ -10329,8 +10329,11 @@ Lectures in calendar and tasks like planning lectures.
 	  - State "DONE"       from "NEXT"       [2014-08-11 Mon 17:00]
 	  CLOCK: [2014-08-11 Mon 16:48]--[2014-08-11 Mon 17:00] =>  0:12
 	  :END:
-********* TODO Submit midterm to printing/frdesk
+********* DONE Submit midterm to printing/frdesk
 	  DEADLINE: <2014-08-12 Tue>
+	  :LOGBOOK:
+	  - State "DONE"       from "TODO"       [2014-08-12 Tue 15:31]
+	  :END:
 	  :PROPERTIES:
 	  :Effort:   0:10
 	  :END:
