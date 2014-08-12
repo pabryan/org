@@ -9423,10 +9423,10 @@ Lectures in calendar and tasks like planning lectures.
 	 :Effort:   0:30
 	 :END:
 - Set effort for tasks and schedule lec. planning, o/h etc.
-******** NEXT Enter effort estimates for courses
+******** DONE Enter effort estimates for courses
   DEADLINE: <2014-08-10 Sun>
   :LOGBOOK:
-  CLOCK: [2014-08-12 Tue 15:49]
+  CLOCK: [2014-08-12 Tue 15:49]--[2014-08-12 Tue 15:58] =>  0:09
   :END:
 [2014-08-06 Wed 17:25]
 ******* TODO Lectures
@@ -9889,9 +9889,10 @@ received 25/25 points.
 	 :END:
 ******** NEXT Choose homework problems
 ******** TODO Check problems for errors
-******** NEXT Upload chosen problems to test server
+******** DONE Upload chosen problems to test server
 	 SCHEDULED: <2014-08-10 Sun> DEADLINE: <2014-08-08 Fri>
 	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2014-08-12 Tue 16:07]
 	 CLOCK: [2014-08-12 Tue 11:56]--[2014-08-12 Tue 12:20] =>  0:24
 	 :END:
 ******** TODO Set up live server
@@ -9900,13 +9901,22 @@ received 25/25 points.
 	  :Effort:   0:15
 	  :END:
 ********* TODO Create problem sets
-********** TODO Week 2
+********** TODO Week 2 Webwork 
 	   DEADLINE: <2014-08-12 Tue>
-********** TODO Week 3
+	   :PROPERTIES:
+	   :Effort:   0:30
+	   :END:
+********** TODO Week 3 Webwork 
 	   DEADLINE: <2014-08-17 Sun>
-********** TODO Week 4
+	   :PROPERTIES:
+	   :Effort:   0:30
+	   :END:
+********** TODO Week 4 Webwork 
 	   DEADLINE: <2014-08-24 Sun>
-********** TODO Week 5
+	   :PROPERTIES:
+	   :Effort:   0:30
+	   :END:
+********** TODO Week 5 Webwork 
 	   DEADLINE: <2014-08-31 Sun>
 ****** Clocking
 ******* Admin
@@ -9920,48 +9930,93 @@ Peter 110
 	  :LOGBOOK:
 	  CLOCK: [2014-08-04 Mon 09:22]--[2014-08-04 Mon 11:00] =>  1:38
 	  :END:
+	  :PROPERTIES:
+	  :Effort:   1:30
+	  :END:
 <2014-08-04 Mon 09:30-11:00>
 ********* Lecture 2.1
 	  :LOGBOOK:
 	  CLOCK: [2014-08-11 Mon 09:25]--[2014-08-11 Mon 11:09] =>  1:44
 	  :END:
+	  :PROPERTIES:
+	  :Effort:   1:30
+	  :END:
 <2014-08-11 Mon 09:30-11:00>
 ********* Lecture 3.1
+	  :PROPERTIES:
+	  :Effort:   1:30
+	  :END:
 <2014-08-18 Mon 09:30-11:00>
 ********* Lecture 4.1
+	  :PROPERTIES:
+	  :Effort:   1:30
+	  :END:
 <2014-08-25 Mon 09:30-11:00>
 ********* Lecture 5.1
+	  :PROPERTIES:
+	  :Effort:   1:30
+	  :END:
 <2014-09-01 Mon 09:30-11:00>
 ******** Tue
 ********* Lecture 1.2
 	  :LOGBOOK:
 	  CLOCK: [2014-08-05 Tue 09:25]--[2014-08-05 Tue 11:15] =>  1:50
 	  :END:
+	  :PROPERTIES:
+	  :Effort:   1:30
+	  :END:
 <2014-08-05 Tue 09:30-11:00>
 ********* Lecture 2.2
 	  :LOGBOOK:
 	  CLOCK: [2014-08-12 Tue 09:25]--[2014-08-12 Tue 11:00] =>  1:35
 	  :END:
+	  :PROPERTIES:
+	  :Effort:   1:30
+	  :END:
 <2014-08-12 Tue 09:30-11:00>
 ********* Lecture 3.2
+	  :PROPERTIES:
+	  :Effort:   1:30
+	  :END:
 <2014-08-19 Tue 09:30-11:00>
 ********* Lecture 4.2
+	  :PROPERTIES:
+	  :Effort:   1:30
+	  :END:
 <2014-08-26 Tue 09:30-11:00>
 ********* Lecture 5.2
+	  :PROPERTIES:
+	  :Effort:   1:30
+	  :END:
 <2014-09-02 Tue 09:30-11:00>
 ******** Wed
 ********* Lecture 1.3
 	  :LOGBOOK:
 	  CLOCK: [2014-08-06 Wed 09:27]--[2014-08-06 Wed 11:08] =>  1:41
 	  :END:
+	  :PROPERTIES:
+	  :Effort:   1:30
+	  :END:
 <2014-08-06 Wed 09:30-11:00>
 ********* Lecture 2.3
+	  :PROPERTIES:
+	  :Effort:   1:30
+	  :END:
 <2014-08-13 Wed 09:30-11:00>
 ********* Lecture 3.3
+	  :PROPERTIES:
+	  :Effort:   1:30
+	  :END:
 <2014-08-20 Wed 09:30-11:00>
 ********* Lecture 4.3
+	  :PROPERTIES:
+	  :Effort:   1:30
+	  :END:
 <2014-08-27 Wed 09:30-11:00>
 ********* Lecture 5.3
+	  :PROPERTIES:
+	  :Effort:   1:30
+	  :END:
 <2014-09-03 Wed 09:30-11:00>
 ******** Thu
 ********* Lecture 1.4
@@ -10007,29 +10062,49 @@ Peter 110
 	 CLOCK: [2014-08-06 Wed 14:53]--[2014-08-06 Wed 15:25] =>  0:32
 	 CLOCK: [2014-08-04 Mon 15:05]--[2014-08-04 Mon 15:32] =>  0:27
 	 :END:
+	 :PROPERTIES:
+	 :Effort:   2:00
+	 :END:
 <2014-08-04 Mon 15:00-16:00>
 <2014-08-06 Wed 16:00-17:00>
 ******** O/H Week 2
+	 :PROPERTIES:
+	 :Effort:   2:00
+	 :END:
 <2014-08-11 Mon 15:00-16:00>
 <2014-08-13 Wed 16:00-17:00>
 ******** O/H Week 3
+	 :PROPERTIES:
+	 :Effort:   2:00
+	 :END:
 <2014-08-18 Mon 15:00-16:00>
 <2014-08-20 Wed 16:00-17:00>
 ******** O/H Week 4
+	 :PROPERTIES:
+	 :Effort:   2:00
+	 :END:
 <2014-08-25 Mon 15:00-16:00>
 <2014-08-27 Wed 16:00-17:00>
 ******** O/H Week 5
+	 :PROPERTIES:
+	 :Effort:   2:00
+	 :END:
 <2014-09-01 Mon 15:00-16:00>
 <2014-09-03 Wed 16:00-17:00>
 ******* Meetings
 ******** TA
 	 :LOGBOOK:
 	 CLOCK: [2014-07-31 Thu 13:37]--[2014-07-31 Thu 13:42] =>  0:05
-	 CLOCK: [2014-07-31 Thu 12:58]--[2014-07-31 Thu 13:36] =>  0:38
+	 :PROPERTIES:
+	 :Effort:   1:00
+	 :END: =>  0:38
 	 :END:
 <2014-07-31 Thu 13:00-13:30>
 ***** TODO MATH20D
-[[file:~/working/ucsd/teaching/2014/summer2/math20d_summer2_2014]] 
+      :LOGBOOK:
+      CLOCK: [2014-08-12 Tue 16:07]--[2014-08-12 Tue 16:08] =>  0:01
+      :END:
+file:~/working/ucsd/teaching/2014/summer2/math20d_summer2_2014]] 
 [[file:~/reference/ucsd/teaching/2014/summer2/math20d]]
 ****** Notes
 ******* Discussions
@@ -10076,8 +10151,15 @@ Lectures in calendar and tasks like planning lectures.
 	 :PROPERTIES:
 	 :Effort:   0:30
 	 :END:
-******* TODO Enter effort estimates for courses
+******* DONE Enter effort estimates for courses
   DEADLINE: <2014-08-10 Sun>
+  :LOGBOOK:
+  - State "DONE"       from "NEXT"       [2014-08-12 Tue 16:07]
+  CLOCK: [2014-08-12 Tue 16:06]--[2014-08-12 Tue 16:07] =>  0:01
+  :END:
+	:PROPERTIES:
+	:Effort:   0:15
+	:END:
 [2014-08-06 Wed 17:25]
 ******* TODO Lectures
 	:LOGBOOK:
@@ -10351,6 +10433,9 @@ Lectures in calendar and tasks like planning lectures.
 	  :LOGBOOK:
 	  - State "DONE"       from "NEXT"       [2014-08-11 Mon 17:00]
 	  CLOCK: [2014-08-11 Mon 16:48]--[2014-08-11 Mon 17:00] =>  0:12
+	  :END:
+	  :PROPERTIES:
+	  :Effort:   0:15
 	  :END:
 ********* DONE Submit midterm to printing/frdesk
 	  DEADLINE: <2014-08-12 Tue>

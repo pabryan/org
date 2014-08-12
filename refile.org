@@ -5,9 +5,6 @@
   CLOCK: [2014-06-23 Mon 15:20]--[2014-06-23 Mon 15:21] =>  0:01
   :END:
 [2014-06-23 Mon 15:20]
-* TODO Enter effort estimates for courses
-  DEADLINE: <2014-08-10 Sun>
-[2014-08-06 Wed 17:25]
 * TODO Create ssh control master for bitbucket
   :LOGBOOK:
   CLOCK: [2014-08-08 Fri 14:50]--[2014-08-08 Fri 14:51] =>  0:01
