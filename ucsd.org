@@ -9423,8 +9423,11 @@ Lectures in calendar and tasks like planning lectures.
 	 :Effort:   0:30
 	 :END:
 - Set effort for tasks and schedule lec. planning, o/h etc.
-******** TODO Enter effort estimates for courses
+******** NEXT Enter effort estimates for courses
   DEADLINE: <2014-08-10 Sun>
+  :LOGBOOK:
+  CLOCK: [2014-08-12 Tue 15:49]
+  :END:
 [2014-08-06 Wed 17:25]
 ******* TODO Lectures
 ******** DONE Create Lecture Schedule
@@ -9694,6 +9697,9 @@ Lectures in calendar and tasks like planning lectures.
 	  - State "DONE"       from "NEXT"       [2014-08-11 Mon 16:47]
 	  CLOCK: [2014-08-11 Mon 16:35]--[2014-08-11 Mon 16:47] =>  0:12
 	  :END:
+	  :PROPERTIES:
+	  :Effort:   0:15
+	  :END:
 ********* DONE Submit midterm to printing/frdesk
 	  DEADLINE: <2014-08-12 Tue>
 	  :LOGBOOK:
@@ -9890,8 +9896,18 @@ received 25/25 points.
 	 :END:
 ******** TODO Set up live server
 ********* NEXT Configure
-********* TODO Upload problems
+	  :PROPERTIES:
+	  :Effort:   0:15
+	  :END:
 ********* TODO Create problem sets
+********** TODO Week 2
+	   DEADLINE: <2014-08-12 Tue>
+********** TODO Week 3
+	   DEADLINE: <2014-08-17 Sun>
+********** TODO Week 4
+	   DEADLINE: <2014-08-24 Sun>
+********** TODO Week 5
+	   DEADLINE: <2014-08-31 Sun>
 ****** Clocking
 ******* Admin
 ******* Office hours
