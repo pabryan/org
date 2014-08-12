@@ -9374,6 +9374,9 @@ Ledden Auditorium
 ******* Discussions
 ******** TA's
 ******** Schedule
+******* Webwork
+- Turn off stack trace.
+- When exporting, it would be nice to be able to immediately download rather than going to the file browser.
 ****** Tasks
 ******* DONE Plan course
    :LOGBOOK:
@@ -9877,8 +9880,11 @@ received 25/25 points.
 	 :END:
 ******** NEXT Choose homework problems
 ******** TODO Check problems for errors
-******** TODO Upload chosen problems to test server
+******** NEXT Upload chosen problems to test server
 	 SCHEDULED: <2014-08-10 Sun> DEADLINE: <2014-08-08 Fri>
+	 :LOGBOOK:
+	 CLOCK: [2014-08-12 Tue 11:56]--[2014-08-12 Tue 12:20] =>  0:24
+	 :END:
 ******** TODO Set up live server
 ********* NEXT Configure
 ********* TODO Upload problems
@@ -10518,6 +10524,9 @@ Center 119
 	  :END:
 <2014-08-05 Tue 12:30-14:00>
 ********* Lecture 2.2
+	  :LOGBOOK:
+	  CLOCK: [2014-08-12 Tue 12:20]
+	  :END:
 <2014-08-12 Tue 12:30-14:00>
 ********* Lecture 3.2
 <2014-08-19 Tue 12:30-14:00>
