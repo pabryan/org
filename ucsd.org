@@ -9378,7 +9378,7 @@ Ledden Auditorium
 - Turn off stack trace.
 - When exporting, it would be nice to be able to immediately download rather than going to the file browser.
 ****** Tasks
-******* DONE Plan course
+******* TODO Plan course
    :LOGBOOK:
    - State "DONE"       from "TODO"       [2014-08-01 Fri 17:23]
    CLOCK: [2014-06-20 Fri 16:59]--[2014-06-20 Fri 17:00] =>  0:01
@@ -9423,6 +9423,9 @@ Lectures in calendar and tasks like planning lectures.
 	 :Effort:   0:30
 	 :END:
 - Set effort for tasks and schedule lec. planning, o/h etc.
+******** TODO Enter effort estimates for courses
+  DEADLINE: <2014-08-10 Sun>
+[2014-08-06 Wed 17:25]
 ******* TODO Lectures
 ******** DONE Create Lecture Schedule
 	 :LOGBOOK:
@@ -10039,8 +10042,9 @@ Lectures in calendar and tasks like planning lectures.
 	 :PROPERTIES:
 	 :Effort:   0:10
 	 :END:
-******** WAITING make course TA email groups
+******** DONE make course TA email groups
 	 :LOGBOOK:
+	 - State "DONE"       from "WAITING"    [2014-08-12 Tue 15:49]
 	 - State "WAITING"    from "NEXT"       [2014-06-18 Wed 18:11] \\
 	   Waiting on TA list.
 	 :END:
@@ -10056,6 +10060,9 @@ Lectures in calendar and tasks like planning lectures.
 	 :PROPERTIES:
 	 :Effort:   0:30
 	 :END:
+******* TODO Enter effort estimates for courses
+  DEADLINE: <2014-08-10 Sun>
+[2014-08-06 Wed 17:25]
 ******* TODO Lectures
 	:LOGBOOK:
 	CLOCK: [2014-07-29 Tue 16:00]--[2014-07-29 Tue 16:05] =>  0:05
