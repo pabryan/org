@@ -9901,8 +9901,15 @@ received 25/25 points.
 	  :Effort:   0:15
 	  :END:
 ********* TODO Create problem sets
-********** TODO Week 2 Webwork 
+	  :LOGBOOK:
+	  CLOCK: [2014-08-12 Tue 20:50]--[2014-08-12 Tue 20:51] =>  0:01
+	  :END:
+********** DONE Week 2 Webwork 
 	   DEADLINE: <2014-08-12 Tue>
+	   :LOGBOOK:
+	   - State "DONE"       from "NEXT"       [2014-08-12 Tue 20:50]
+	   CLOCK: [2014-08-12 Tue 20:24]--[2014-08-12 Tue 20:50] =>  0:26
+	   :END:
 	   :PROPERTIES:
 	   :Effort:   0:30
 	   :END:

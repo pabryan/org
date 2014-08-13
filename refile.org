@@ -1,10 +1,4 @@
 #+FILETAGS: REFILE
-* TODO Pay FedEx
-  SCHEDULED: <2014-07-14 Mon>
-  :LOGBOOK:
-  CLOCK: [2014-06-23 Mon 15:20]--[2014-06-23 Mon 15:21] =>  0:01
-  :END:
-[2014-06-23 Mon 15:20]
 * TODO Create ssh control master for bitbucket
   :LOGBOOK:
   CLOCK: [2014-08-08 Fri 14:50]--[2014-08-08 Fri 14:51] =>  0:01
