@@ -9568,9 +9568,10 @@ Lectures in calendar and tasks like planning lectures.
 	   :Effort:   1:00
 	   :END:
 
-********** NEXT Prepare Lecture 3.2
+********** DONE Prepare Lecture 3.2
 	   SCHEDULED: <2014-08-12 Tue> DEADLINE: <2014-08-14 Thu>
 	   :LOGBOOK:
+	   - State "DONE"       from "NEXT"       [2014-08-14 Thu 15:52]
 	   CLOCK: [2014-08-14 Thu 11:39]--[2014-08-14 Thu 12:15] =>  0:36
 	   :END:
 	   :PROPERTIES:
@@ -10351,14 +10352,21 @@ Lectures in calendar and tasks like planning lectures.
 	   :Effort:   1:00
 	   :END:
 
-********** NEXT Prepare Lecture 3.2
+********** DONE Prepare Lecture 3.2
 	   DEADLINE: <2014-08-14 Thu> SCHEDULED: <2014-08-12 Tue>
+	   :LOGBOOK:
+	   - State "DONE"       from "NEXT"       [2014-08-14 Thu 15:54]
+	   CLOCK: [2014-08-14 Thu 15:50]--[2014-08-14 Thu 15:54] =>  0:04
+	   :END:
 	   :PROPERTIES:
 	   :Effort:   1:00
 	   :END:
 
-********** TODO Prepare Lecture 3.3
+********** NEXT Prepare Lecture 3.3
 	   DEADLINE: <2014-08-14 Thu> SCHEDULED: <2014-08-14 Thu>
+	   :LOGBOOK:
+	   CLOCK: [2014-08-14 Thu 15:54]
+	   :END:
 	   :PROPERTIES:
 	   :Effort:   1:00
 	   :END:
