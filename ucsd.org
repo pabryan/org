@@ -9568,8 +9568,11 @@ Lectures in calendar and tasks like planning lectures.
 	   :Effort:   1:00
 	   :END:
 
-********** TODO Prepare Lecture 3.2
+********** NEXT Prepare Lecture 3.2
 	   SCHEDULED: <2014-08-12 Tue> DEADLINE: <2014-08-14 Thu>
+	   :LOGBOOK:
+	   CLOCK: [2014-08-14 Thu 11:39]
+	   :END:
 	   :PROPERTIES:
 	   :Effort:   1:00
 	   :END:
@@ -9935,6 +9938,14 @@ received 25/25 points.
   - State "DONE"       from "TODO"       [2014-08-13 Wed 23:09]
   :END:
 [2014-08-13 Wed 17:20]
+******** DONE Add TA's to webwork
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2014-08-14 Thu 11:37]
+	 CLOCK: [2014-08-14 Thu 11:21]--[2014-08-14 Thu 11:37] =>  0:16
+	 :END:
+	 :PROPERTIES:
+	 :Effort:   0:10
+	 :END:
 ****** Clocking
 ******* Admin
 ******* Office hours
@@ -10047,7 +10058,7 @@ Peter 110
 
 ********* Lecture 2.4
 	  :LOGBOOK:
-	  CLOCK: [2014-08-14 Thu 09:21]
+	  CLOCK: [2014-08-14 Thu 09:21]--[2014-08-14 Thu 11:05] =>  1:44
 	  :END:
 <2014-08-14 Thu 09:30-11:00>
 
