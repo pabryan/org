@@ -9857,8 +9857,12 @@ received 25/25 points.
           :PROPERTIES:
 	  :Effort:   0:15
 	  :END:
-********* TODO Post week 2 summary
+********* DONE Post week 2 summary
 	  DEADLINE: <2014-08-17 Sun>
+	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2014-08-16 Sat 12:30]
+	  CLOCK: [2014-08-16 Sat 12:12]--[2014-08-16 Sat 12:30] =>  0:18
+	  :END:
           :PROPERTIES:
 	  :Effort:   0:15
 	  :END:
@@ -9899,8 +9903,14 @@ received 25/25 points.
 	 - State "DONE"       from "NEXT"       [2014-08-05 Tue 12:09]
 	 CLOCK: [2014-08-01 Fri 17:23]--[2014-08-01 Fri 18:02] =>  0:39
 	 :END:
-******** NEXT Choose homework problems
-******** TODO Check problems for errors
+******** DONE Choose homework problems
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2014-08-16 Sat 12:11]
+	 :END:
+******** DONE Check problems for errors
+	 :LOGBOOK:
+	 - State "DONE"       from "TODO"       [2014-08-16 Sat 12:11]
+	 :END:
 ******** DONE Upload chosen problems to test server
 	 SCHEDULED: <2014-08-10 Sun> DEADLINE: <2014-08-08 Fri>
 	 :LOGBOOK:
@@ -9908,12 +9918,16 @@ received 25/25 points.
 	 CLOCK: [2014-08-12 Tue 11:56]--[2014-08-12 Tue 12:20] =>  0:24
 	 :END:
 ******** TODO Set up live server
-********* NEXT Configure
+********* DONE Configure
+	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2014-08-16 Sat 12:11]
+	  :END:
 	  :PROPERTIES:
 	  :Effort:   0:15
 	  :END:
 ********* TODO Create problem sets
 	  :LOGBOOK:
+	  CLOCK: [2014-08-16 Sat 12:11]--[2014-08-16 Sat 12:12] =>  0:01
 	  CLOCK: [2014-08-12 Tue 20:50]--[2014-08-12 Tue 20:51] =>  0:01
 	  :END:
 ********** DONE Week 2 Webwork 
@@ -9925,18 +9939,22 @@ received 25/25 points.
 	   :PROPERTIES:
 	   :Effort:   0:30
 	   :END:
-********** TODO Week 3 Webwork 
+********** DONE Week 3 Webwork 
 	   DEADLINE: <2014-08-17 Sun>
+	   :LOGBOOK:
+	   - State "DONE"       from "NEXT"       [2014-08-16 Sat 12:11]
+	   CLOCK: [2014-08-16 Sat 11:46]--[2014-08-16 Sat 12:11] =>  0:25
+	   :END:
 	   :PROPERTIES:
 	   :Effort:   0:30
 	   :END:
-********** TODO Week 4 Webwork 
-	   DEADLINE: <2014-08-24 Sun>
+********** NEXT Week 4 Webwork 
+	   DEADLINE: <2014-08-22 Fri>
 	   :PROPERTIES:
 	   :Effort:   0:30
 	   :END:
 ********** TODO Week 5 Webwork 
-	   DEADLINE: <2014-08-31 Sun>
+	   DEADLINE: <2014-08-29 Fri>
 ******** DONE Make webwork live
   DEADLINE: <2014-08-13 Wed>
   :LOGBOOK:
@@ -10606,6 +10624,13 @@ Lectures in calendar and tasks like planning lectures.
 - note grading scheme
 - note "choose" questions. students should do as many as needed, but only turn one in.
 - create link on my teaching page
+******** TODO Update 20D calendar
+  DEADLINE: <2014-08-16 Sat>
+  :LOGBOOK:
+  CLOCK: [2014-08-16 Sat 12:38]--[2014-08-16 Sat 12:39] =>  0:01
+  :END:
+[2014-08-16 Sat 12:38]
+
 ******* TODO Grades
 ******** NEXT Enter grades
 	 :PROPERTIES:
@@ -10633,8 +10658,12 @@ Lectures in calendar and tasks like planning lectures.
 	  :PROPERTIES:
 	  :Effort:   0:15
 	  :END:
-********* TODO Post week 2 summary
+********* DONE Post week 2 summary
 	  DEADLINE: <2014-08-17 Sun>
+	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2014-08-16 Sat 13:02]
+	  CLOCK: [2014-08-16 Sat 12:39]--[2014-08-16 Sat 13:02] =>  0:23
+	  :END:
 	  :PROPERTIES:
 	  :Effort:   0:15
 	  :END:
