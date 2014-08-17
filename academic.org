@@ -5374,6 +5374,9 @@ http://www.uni-freiburg.de/administration/stellenboerse?erf=y&stellenid=8792&lay
 ****** Application
 ******** NEXT Write statement against selection criteria
 	 SCHEDULED: <2014-08-15 Fri>
+	 :LOGBOOK:
+	 CLOCK: [2014-08-16 Sat 21:39]--[2014-08-16 Sat 21:51] =>  0:12
+	 :END:
 ******** TODO Proof read statement
 ******** TODO Write statement final version
 ******** TODO Write cover letter
@@ -5386,7 +5389,7 @@ http://www.uni-freiburg.de/administration/stellenboerse?erf=y&stellenid=8792&lay
 ***** Notes
 - http://jobs.monash.edu.au/jobDetails.asp?sJobIDs=524967
 - Contact: [[mailto:sci-maths-jobs@monash.edu]]
-
+- [[file:~/working/academic/jobs/job_applications/monash_524967]]
 
 ** Tasks
 *** DONE Write research proposal/statement
