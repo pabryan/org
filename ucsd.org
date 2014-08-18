@@ -10195,7 +10195,7 @@ Peter 110
 <2014-08-13 Wed 16:00-17:00>
 ******** O/H Week 3
 	 :LOGBOOK:
-	 CLOCK: [2014-08-18 Mon 15:03]
+	 CLOCK: [2014-08-18 Mon 15:03]--[2014-08-18 Mon 16:04] =>  1:01
 	 :END:
 	 :PROPERTIES:
 	 :Effort:   2:00
@@ -10764,8 +10764,10 @@ Lectures in calendar and tasks like planning lectures.
 	  :END:
 
 ******** TODO Posts
-********* NEXT Variation of Parameters
+********* DONE Variation of Parameters
 	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2014-08-18 Mon 16:13]
+	  CLOCK: [2014-08-18 Mon 16:04]--[2014-08-18 Mon 16:13] =>  0:09
 	  CLOCK: [2014-08-18 Mon 14:51]--[2014-08-18 Mon 15:03] =>  0:12
 	  :END:
 ****** Clocking
