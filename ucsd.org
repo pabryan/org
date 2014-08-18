@@ -9881,8 +9881,9 @@ received 25/25 points.
           :PROPERTIES:
 	  :Effort:   0:15
 	  :END:
-******** TODO Student list
+******** DONE Student list
 	 :LOGBOOK:
+	 - State "DONE"       from "TODO"       [2014-08-18 Mon 12:02]
 	 CLOCK: [2014-08-17 Sun 17:10]--[2014-08-17 Sun 17:11] =>  0:01
 	 :END:
 ********* Code
@@ -9909,6 +9910,34 @@ received 25/25 points.
 	  - State "CANCELLED"  from "TODO"       [2014-08-17 Sun 17:20] \\
 	    Can't export piazza student list.
 	  :END:
+
+******** TODO Posts
+********* NEXT Level curves
+	  :LOGBOOK:
+	  CLOCK: [2014-08-18 Mon 12:02]--[2014-08-18 Mon 12:24] =>  0:22
+	  :END:
+
+The example at the end of the lecture today was to sketch the level curves of $$f(x,y) = x y^2 + y x^2$$. Since we were short on time, I didn't fully explain, so I'll do that here. The level curves are the set of points $$(x,y)$$ such that $$x y^2 + x^2 y = c$$ for various values of $c$.
+
+Solving for $$y$$ in terms of $$x$$, we obtain
+$$
+y = \frac{-x^2 \pm \sqrt{x^4 + 4cx}}{2x} = \frac{-x}{2} \pm \frac{\sqrt{x^4 + 4c x}{2x}
+$$
+
+This expression is not defined for $x = 0$ and from $$f(x,y) = x y^2 + yx^$$, we see that when $$x=0$$, $$f=0$$, so if $$c \ne 0$$, the are no solutions $$f(0,y) = c$$ for any $$y$$. 
+
+For $$c = 0$$, we get either $$y = 0$$ or $$y = -x$$. So the level curves for $$c=0$$ are comprised of a single point, the origin $$(0,0$$ and the curve $$y = -x$$.
+
+For $$c \ne 0$$, there are four curves. First, we require the term in the radical to be non-negative, i.e. $$x^4 \geq - 4c x$$. For $$c>0$$, this means that either $$x>0$$ or $$x^3 \leq -4c < 0$$. For $$c<0$$, this means that either $$x<0$$$ or $$x^3 \geq -4c > 0$$.
+
+Thus we obtain, for each $$c > 0$$, the four level curves:
+1. $$\frac{-x}{2} + \frac{\sqrt{x^4 + 4c x}{2x}, x>0$$
+2. $$\frac{-x}{2} - \frac{\sqrt{x^4 + 4c x}{2x}, x>0$$
+3. $$\frac{-x}{2} + \frac{\sqrt{x^4 + 4c x}{2x}, x < - (4c)^{1/3}$$
+4. $$\frac{-x}{2} - \frac{\sqrt{x^4 + 4c x}{2x}, x < - (4c)^{1/3}$$.
+
+For $$c<0$$, we get much the same thing, but the inequalities in the range of $$x$$ are reversed.
+
 
 ******* TODO Webwork
 ******** DONE Read Tesler's info
@@ -10743,6 +10772,9 @@ Center 119
 	  :END:
 <2014-08-11 Mon 12:30-14:00>
 ********* Lecture 3.1
+	  :LOGBOOK:
+	  CLOCK: [2014-08-18 Mon 12:24]
+	  :END:
 <2014-08-18 Mon 12:30-14:00>
 ********* Lecture 4.1
 <2014-08-25 Mon 12:30-14:00>
