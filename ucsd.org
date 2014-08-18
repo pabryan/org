@@ -9913,7 +9913,7 @@ received 25/25 points.
 
 ******** TODO Posts
 	 :LOGBOOK:
-	 CLOCK: [2014-08-18 Mon 14:49]
+	 CLOCK: [2014-08-18 Mon 14:49]--[2014-08-18 Mon 14:51] =>  0:02
 	 :END:
 ********* DONE Level curves
 	  :LOGBOOK:
@@ -10698,8 +10698,9 @@ Lectures in calendar and tasks like planning lectures.
 	 :END:
 ******* TODO Misc
 ******* TODO Piazza
-******** TODO Student list
+******** DONE Student list
 	 :LOGBOOK:
+	 - State "DONE"       from "TODO"       [2014-08-18 Mon 14:51]
 	 CLOCK: [2014-08-17 Sun 17:19]--[2014-08-17 Sun 17:21] =>  0:02
 	 :END:
 ********* CANCELLED Update student list
@@ -10759,6 +10760,11 @@ Lectures in calendar and tasks like planning lectures.
 	  :Effort:   0:15
 	  :END:
 
+******** TODO Posts
+********* NEXT Variation of Parameters
+	  :LOGBOOK:
+	  CLOCK: [2014-08-18 Mon 14:51]
+	  :END:
 ****** Clocking
 ******* Admin
 ******* Office hours
