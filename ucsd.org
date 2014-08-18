@@ -10414,9 +10414,6 @@ Lectures in calendar and tasks like planning lectures.
 	   :END:
 
 ********* TODO Week 3
-	  :LOGBOOK:
-	  CLOCK: [2014-08-18 Mon 16:47]
-	  :END:
 ********** DONE Prepare outline 3
 	   SCHEDULED: <2014-06-25 Wed>
 	   :LOGBOOK:
@@ -10463,6 +10460,7 @@ Lectures in calendar and tasks like planning lectures.
 ********** DONE Prepare Lecture 3.4
 	   DEADLINE: <2014-08-14 Thu> SCHEDULED: <2014-08-14 Thu>
 	   :LOGBOOK:
+	   - State "DONE"       from "DONE"       [2014-08-18 Mon 16:57]
 	   - State "DONE"       from "NEXT"       [2014-08-18 Mon 16:47]
 	   CLOCK: [2014-08-18 Mon 16:41]--[2014-08-18 Mon 16:47] =>  0:06
 	   :END:
@@ -10698,9 +10696,11 @@ Lectures in calendar and tasks like planning lectures.
 - note grading scheme
 - note "choose" questions. students should do as many as needed, but only turn one in.
 - create link on my teaching page
-******** TODO Update 20D calendar
+******** DONE Update 20D calendar
   DEADLINE: <2014-08-16 Sat>
   :LOGBOOK:
+  - State "DONE"       from "NEXT"       [2014-08-18 Mon 16:57]
+  CLOCK: [2014-08-18 Mon 16:47]--[2014-08-18 Mon 16:57] =>  0:10
   CLOCK: [2014-08-16 Sat 12:38]--[2014-08-16 Sat 12:39] =>  0:01
   :END:
 [2014-08-16 Sat 12:38]
