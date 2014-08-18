@@ -9939,9 +9939,9 @@ Thus we obtain, for each $$c > 0$$, the four level curves:
 
 For $$c<0$$, we get much the same thing, but the inequalities in the range of $$x$$ are reversed. Let's just worry about the $$c>0$$ case (the $$c<0$$ case is similar). 
 
-We need to sketch the graphs. To do this for curves 1. and 2., we need to know the limits as $$x\to 0$$ and $$x \to \infty$$. This is $$\infty$$ for 1. and $$-\infty$$ for 2. Both converge to $$0$$ as $$x \to \infty$$. You'll also need critical points and concavity which I'll leave to you to check. For 3. and 4. you need to evaluate the function at $$x = -(4c)^{1/3}$$ and calculate the limit as $$t\to -\infty$$ along with finding critical points and concavity. These last two items use the same calculation as for 1. and 2.
+We need to sketch the graphs. To do this for curves 1. and 2., we need to know the limits as $$x\to 0$$ and $$x \to \infty$$. This is $$\infty$$ for 1. and $$-\infty$$ for 2. As $$\to \infty$$, 1. converges to $$0$$ and 2. converges to $$-x$$ (which of course converges to $$-\infty$$). You'll also need critical points and concavity which I'll leave to you to check. For 3. and 4. you need to evaluate the function at $$x = -(4c)^{1/3}$$ and calculate the limit as $$t\to -\infty$$ along with finding critical points and concavity. These last two items use the same calculation as for 1. and 2.
 
-Here's a plot of the level curves for $$c = 1$$. I'll let you try to match the picture to the functions 1,2,3 and 4.
+Here's a plot of the level curves for $$c = 2$$. I'll let you try to match the curves in the picture to the functions 1,2,3 and 4.
 
 
 
