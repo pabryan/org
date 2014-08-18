@@ -4891,9 +4891,11 @@ Rowland Hall 340P
 *** UCSC Winter 2014
 *** Fall 2014
 
-**** TODO Remind BADGS organisers I want to speak
+**** WAITING Remind BADGS organisers I want to speak
      SCHEDULED: <2014-07-21 Mon>
   :LOGBOOK:
+  - State "WAITING"    from "TODO"       [2014-08-17 Sun 16:53] \\
+    Sent reminder. Waiting on response.
   CLOCK: [2014-03-10 Mon 10:48]--[2014-03-10 Mon 10:50] =>  0:02
   :END:
 [2014-03-10 Mon 10:48]
@@ -5372,18 +5374,29 @@ http://www.uni-freiburg.de/administration/stellenboerse?erf=y&stellenid=8792&lay
       :END:
 - http://jobs.monash.edu.au/jobDetails.asp?sJobIDs=524967
 ****** Application
-******** NEXT Write statement against selection criteria
+******** DONE Write statement against selection criteria
 	 SCHEDULED: <2014-08-15 Fri>
 	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2014-08-17 Sun 20:45]
+	 CLOCK: [2014-08-17 Sun 19:54]--[2014-08-17 Sun 20:45] =>  0:51
+	 CLOCK: [2014-08-17 Sun 18:12]--[2014-08-17 Sun 18:53] =>  0:41
+	 CLOCK: [2014-08-17 Sun 17:34]--[2014-08-17 Sun 18:08] =>  0:34
 	 CLOCK: [2014-08-16 Sat 21:39]--[2014-08-16 Sat 21:51] =>  0:12
 	 :END:
 ******** TODO Proof read statement
+	 DEADLINE: <2014-08-20 Wed>
 ******** TODO Write statement final version
-******** TODO Write cover letter
+	 DEADLINE: <2014-08-21 Thu>
+******** DONE Write cover letter
+	 :LOGBOOK:
+	 - State "DONE"       from "TODO"       [2014-08-17 Sun 20:45]
+	 :END:
 ******** TODO Update CV
+	 DEADLINE: <2014-08-19 Tue>
 ******** TODO Compile application
+	 DEADLINE: <2014-08-21 Thu>
 ******** TODO Submit application
-	 DEADLINE: <2014-08-23 Sat>
+	 DEADLINE: <2014-08-21 Thu>
 
 ******** TODO Respond to offer
 ***** Notes

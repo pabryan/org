@@ -9882,15 +9882,33 @@ received 25/25 points.
 	  :Effort:   0:15
 	  :END:
 ******** TODO Student list
-********* NEXT Update student list
+	 :LOGBOOK:
+	 CLOCK: [2014-08-17 Sun 17:10]--[2014-08-17 Sun 17:11] =>  0:01
+	 :END:
+********* Code
+- =IF(ISERROR(MATCH(A1,$B$1:$B$1000000,0))=1,A1,"") 
+********* DONE Update student list
 	  SCHEDULED: <2014-08-11 Mon>
+	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2014-08-17 Sun 17:10]
+	  CLOCK: [2014-08-17 Sun 16:53]--[2014-08-17 Sun 17:10] =>  0:17
+	  :END:
 
-********* TODO Update student list
-	  SCHEDULED: <2014-08-15 Fri>
-********* TODO Update student list
-	  SCHEDULED: <2014-08-22 Fri>
-********* TODO Update student list
-	  SCHEDULED: <2014-08-29 Fri>
+********* CANCELLED Update student list
+	  :LOGBOOK:
+	  - State "CANCELLED"  from "TODO"       [2014-08-17 Sun 17:20] \\
+	    Can't export piazza student list.
+	  :END:
+********* CANCELLED Update student list
+	  :LOGBOOK:
+	  - State "CANCELLED"  from "TODO"       [2014-08-17 Sun 17:20] \\
+	    Can't export piazza student list.
+	  :END:
+********* CANCELLED Update student list
+	  :LOGBOOK:
+	  - State "CANCELLED"  from "TODO"       [2014-08-17 Sun 17:20] \\
+	    Can't export piazza student list.
+	  :END:
 
 ******* TODO Webwork
 ******** DONE Read Tesler's info
@@ -10639,15 +10657,31 @@ Lectures in calendar and tasks like planning lectures.
 ******* TODO Misc
 ******* TODO Piazza
 ******** TODO Student list
-********* NEXT Update student list
-	  SCHEDULED: <2014-08-11 Mon>
+	 :LOGBOOK:
+	 CLOCK: [2014-08-17 Sun 17:19]--[2014-08-17 Sun 17:21] =>  0:02
+	 :END:
+********* CANCELLED Update student list
+	  :LOGBOOK:
+	  - State "CANCELLED"  from "NEXT"       [2014-08-17 Sun 17:19] \\
+	    Can't export piazza student list!
+	  CLOCK: [2014-08-17 Sun 17:11]--[2014-08-17 Sun 17:19] =>  0:08
+	  :END:
 
-********* TODO Update student list
-	  SCHEDULED: <2014-08-15 Fri>
-********* TODO Update student list
-	  SCHEDULED: <2014-08-22 Fri>
-********* TODO Update student list
-	  SCHEDULED: <2014-08-29 Fri>
+********* CANCELLED Update student list
+	  :LOGBOOK:
+	  - State "CANCELLED"  from "TODO"       [2014-08-17 Sun 17:19] \\
+	    Can't export piazza student list.
+	  :END:
+********* CANCELLED Update student list
+	  :LOGBOOK:
+	  - State "CANCELLED"  from "TODO"       [2014-08-17 Sun 17:20] \\
+	    Can't export piazza student list.
+	  :END:
+********* CANCELLED Update student list
+	  :LOGBOOK:
+	  - State "CANCELLED"  from "TODO"       [2014-08-17 Sun 17:20] \\
+	    Can't export piazza student list.
+	  :END:
 ******** TODO Summary
 ********* DONE Post week 1 summary
 	  DEADLINE: <2014-08-10 Sun>
