@@ -10086,6 +10086,9 @@ Peter 110
 	  :END:
 <2014-08-12 Tue 09:30-11:00>
 ********* Lecture 3.2
+	  :LOGBOOK:
+	  CLOCK: [2014-08-19 Tue 09:24]
+	  :END:
 	  :PROPERTIES:
 	  :Effort:   1:30
 	  :END:
