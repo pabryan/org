@@ -9951,8 +9951,6 @@ We need to sketch the graphs. To do this for curves 1. and 2., we need to know t
 
 Here's a plot of the level curves for $$c = 2$$. I'll let you try to match the curves in the picture to the functions 1,2,3 and 4.
 
-
-
 ******* TODO Webwork
 ******** DONE Read Tesler's info
 	 :LOGBOOK:
@@ -10030,6 +10028,12 @@ Here's a plot of the level curves for $$c = 2$$. I'll let you try to match the c
 	 :PROPERTIES:
 	 :Effort:   0:10
 	 :END:
+******** TODO Problems
+********* NEXT Question 18, HW3
+	  :LOGBOOK:
+	  CLOCK: [2014-08-19 Tue 17:40]--[2014-08-19 Tue 17:49] =>  0:09
+	  :END:
+
 ****** Clocking
 ******* Admin
 ******* Office hours
