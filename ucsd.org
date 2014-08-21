@@ -9740,13 +9740,25 @@ Lectures in calendar and tasks like planning lectures.
 	  :END:
 	  [2014-08-10 Sun 16:59]
 ******** TODO Midterm 2
-********* NEXT Write Midterm 2
+	 :LOGBOOK:
+	 CLOCK: [2014-08-21 Thu 15:10]--[2014-08-21 Thu 15:11] =>  0:01
+	 :END:
+********* DONE Write Midterm 2
 	  SCHEDULED: <2014-08-18 Mon>
+	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2014-08-21 Thu 15:10]
+	  CLOCK: [2014-08-21 Thu 15:05]--[2014-08-21 Thu 15:10] =>  0:05
+	  CLOCK: [2014-08-21 Thu 14:14]--[2014-08-21 Thu 14:44] =>  0:30
+	  :END:
 	  :PROPERTIES:
 	  :Effort:   1:00
 	  :END:
-********* TODO Get TA's comments
+********* WAITING Get TA's comments
 	  DEADLINE: <2014-08-25 Mon>
+	  :LOGBOOK:
+	  - State "WAITING"    from "TODO"       [2014-08-21 Thu 15:10] \\
+	    Sent to TA's. Waiting on response.
+	  :END:
 	  :PROPERTIES:
 	  :Effort:   0:10
 	  :END:
@@ -10245,7 +10257,7 @@ Peter 110
       :LOGBOOK:
       CLOCK: [2014-08-12 Tue 16:07]--[2014-08-12 Tue 16:08] =>  0:01
       :END:
-file:~/working/ucsd/teaching/2014/summer2/math20d_summer2_2014]] 
+file:~/working/ucsd/teaching/2014/summer2/math20d_summer2_2014
 [[file:~/reference/ucsd/teaching/2014/summer2/math20d]]
 ****** Notes
 ******* Discussions
