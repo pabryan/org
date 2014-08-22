@@ -1841,6 +1841,7 @@ http://gmane.org
   :END:
 ** Organisation
   :LOGBOOK:
+  CLOCK: [2014-08-22 Fri 13:38]--[2014-08-22 Fri 13:43] =>  0:05
   CLOCK: [2014-08-21 Thu 20:59]--[2014-08-21 Thu 21:00] =>  0:01
   CLOCK: [2014-08-21 Thu 14:44]--[2014-08-21 Thu 15:05] =>  0:21
   CLOCK: [2014-08-21 Thu 14:09]--[2014-08-21 Thu 14:14] =>  0:05
@@ -3762,9 +3763,10 @@ When I set up scoring the day:
   - This would be ranking *qualitative* things such as general mood, pain, energy, motivation etc.
 - [ ] Collate data such as sleep, weight, exercise, diet etc.
 
-** NEXT Daily Plan [0/7]
+** NEXT Daily Plan [5/7]
    SCHEDULED: <2014-08-22 Fri .+1d/2d>
    :LOGBOOK:
+   CLOCK: [2014-08-22 Fri 13:43]--[2014-08-22 Fri 14:06] =>  0:23
    - State "DONE"       from "NEXT"       [2014-08-21 Thu 11:08]
    CLOCK: [2014-08-21 Thu 11:01]--[2014-08-21 Thu 11:08] =>  0:07
    - State "DONE"       from "NEXT"       [2014-08-20 Wed 11:12]
@@ -4518,14 +4520,14 @@ When I set up scoring the day:
    :LAST_REPEAT: [2014-01-25 Sat 12:49]
    :END:
 
-- [ ] Check agenda/focus
+- [X] Check agenda/focus
 - [ ] Check weekly agenda
 - [ ] Check emails (including holding)
-- [ ] Check uncommitted work
-- [ ] Tidy up agenda tasks
+- [X] Check uncommitted work
+- [X] Tidy up agenda tasks
   - mark done those tasks already done
-- [ ] Do short tasks
-- [ ] Record morning health stats
+- [X] Do short tasks
+- [X] Record morning health stats
 
 ** NEXT Weekly Review [18/20]
    SCHEDULED: <2014-06-16 Mon +1w>

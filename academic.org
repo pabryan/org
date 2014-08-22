@@ -5365,6 +5365,9 @@ http://www.uni-freiburg.de/administration/stellenboerse?erf=y&stellenid=8792&lay
 [[file:~/reference/academic/jobs/2015/freiburg]]
 [[file:~/working/academic/jobs/job_applications/8792_freiburg]]
 **** TODO Monash						     :MONASH:
+     :LOGBOOK:
+     CLOCK: [2014-08-22 Fri 14:58]
+     :END:
 ***** Tasks
 ****** DONE Set up tasks/etc.
       DEADLINE: <2014-07-20 Sun>
@@ -5383,16 +5386,27 @@ http://www.uni-freiburg.de/administration/stellenboerse?erf=y&stellenid=8792&lay
 	 CLOCK: [2014-08-17 Sun 17:34]--[2014-08-17 Sun 18:08] =>  0:34
 	 CLOCK: [2014-08-16 Sat 21:39]--[2014-08-16 Sat 21:51] =>  0:12
 	 :END:
-******** TODO Proof read statement
+******** DONE Proof read statement
 	 DEADLINE: <2014-08-20 Wed>
-******** TODO Write statement final version
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2014-08-22 Fri 14:58]
+	 CLOCK: [2014-08-22 Fri 14:22]--[2014-08-22 Fri 14:58] =>  0:36
+	 :END:
+******** DONE Write statement final version
 	 DEADLINE: <2014-08-21 Thu>
+	 :LOGBOOK:
+	 - State "DONE"       from "TODO"       [2014-08-22 Fri 14:58]
+	 :END:
 ******** DONE Write cover letter
 	 :LOGBOOK:
 	 - State "DONE"       from "TODO"       [2014-08-17 Sun 20:45]
 	 :END:
-******** TODO Update CV
+******** DONE Update CV
 	 DEADLINE: <2014-08-19 Tue>
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2014-08-22 Fri 14:22]
+	 CLOCK: [2014-08-22 Fri 14:06]--[2014-08-22 Fri 14:22] =>  0:16
+	 :END:
 ******** TODO Compile application
 	 DEADLINE: <2014-08-21 Thu>
 ******** TODO Submit application
