@@ -1121,6 +1121,7 @@ That is, Ben and Janelle have proven the backward convergence, and to finish we 
        :END:
 ****** TODO Write paper
        :LOGBOOK:
+       CLOCK: [2014-08-23 Sat 13:14]--[2014-08-23 Sat 13:20] =>  0:06
        CLOCK: [2014-07-19 Sat 14:31]--[2014-07-19 Sat 14:32] =>  0:01
        :END:
 ******* DONE Write paper outline
@@ -1279,9 +1280,10 @@ Given $X$ in the equator, let $\rho_{\alpha}(X)$ be the infimum of the lengths o
 	CLOCK: [2014-08-22 Fri 15:00]--[2014-08-22 Fri 16:30] =>  1:30
 	CLOCK: [2014-08-14 Thu 16:10]--[2014-08-14 Thu 17:08] =>  0:58
 	:END:
-******* NEXT Upload to arxiv
+******* DONE Upload to arxiv
        :LOGBOOK:
-       CLOCK: [2014-08-23 Sat 12:46]
+       - State "DONE"       from "NEXT"       [2014-08-23 Sat 13:14]
+       CLOCK: [2014-08-23 Sat 12:46]--[2014-08-23 Sat 13:14] =>  0:28
        CLOCK: [2014-08-23 Sat 11:36]--[2014-08-23 Sat 12:28] =>  0:52
        CLOCK: [2014-08-22 Fri 21:29]--[2014-08-22 Fri 21:35] =>  0:06
        CLOCK: [2014-08-22 Fri 20:58]--[2014-08-22 Fri 21:18] =>  0:20
