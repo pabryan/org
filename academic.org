@@ -435,8 +435,9 @@ I want to do teaching with sage-tex and/or org-mode with babel; i.e. interactive
        CLOCK: [2014-03-04 Tue 08:18]--[2014-03-04 Tue 09:27] =>  1:09
        CLOCK: [2014-03-03 Mon 21:21]--[2014-03-03 Mon 23:03] =>  1:42
        :END:
-***** TODO Rejoinder
+***** DONE Rejoinder
       :LOGBOOK:
+      - State "DONE"       from "TODO"       [2014-08-23 Sat 16:25]
       CLOCK: [2014-07-06 Sun 11:34]--[2014-07-06 Sun 11:36] =>  0:02
       :END:
 ****** DONE Write outline
@@ -1289,7 +1290,7 @@ Given $X$ in the equator, let $\rho_{\alpha}(X)$ be the infimum of the lengths o
        CLOCK: [2014-08-22 Fri 20:58]--[2014-08-22 Fri 21:18] =>  0:20
        :END:
 [[*ArXiv%20submission%20process][ArXiv submission process]]
-******* TODO Submit to journal
+******* NEXT Submit to journal
 ******* TODO Update based on referee comments
 ****** DONE Maths
        :LOGBOOK:
@@ -4057,9 +4058,13 @@ Is there a consistent (say providing ZFC is consistent) set theory without the e
 
 *** TODO Immersions of symmetric spaces
 **** Tasks
-***** TODO Organise to meet with Nolan Wallach
+***** DONE Organise to meet with Nolan Wallach
   SCHEDULED: <2014-09-01 Mon>
+  :LOGBOOK:
+  - State "DONE"       from "TODO"       [2014-08-23 Sat 16:26]
+  :END:
 [2014-05-22 Thu 12:31]
+***** NEXT Compile reading list/approach
 **** Meetings
 ***** Nolan Wallach
 ****** General Discussion
@@ -4305,7 +4310,10 @@ Possible dates: 5/4/13, 12/4/13, 19/4/13
 a
 *** SCGAS 2014
 <2014-02-22 Sat>--<2014-02-23 Sun>
-**** TODO Tasks
+**** DONE Tasks
+     :LOGBOOK:
+     - State "DONE"       from "TODO"       [2014-08-23 Sat 16:27]
+     :END:
 ***** DONE Confirm Hotel
       DEADLINE: <2014-02-15 Sat>
       :LOGBOOK:
@@ -4645,8 +4653,14 @@ Rowland Hall 340P
        CLOCK: [2014-03-06 Thu 15:27]--[2014-03-06 Thu 15:54] =>  0:27
        :END:
 ** UCSC
-*** TODO Winter 2014 Colloquium					      :FOCUS:
-**** TODO Talk
+*** DONE Winter 2014 Colloquium					      :FOCUS:
+    :LOGBOOK:
+    - State "DONE"       from "TODO"       [2014-08-23 Sat 16:26]
+    :END:
+**** DONE Talk
+     :LOGBOOK:
+     - State "DONE"       from "TODO"       [2014-08-23 Sat 16:26]
+     :END:
 [[file:~/working/academic/seminars/ucsc_colloquium_spring_2014]]
 <2014-05-13 Tue 15:00-17:00>
 ***** DONE Slides
@@ -4873,8 +4887,9 @@ Rowland Hall 340P
       - State "DONE"       from "NEXT"       [2014-05-02 Fri 12:51]
       CLOCK: [2014-05-01 Thu 12:27]--[2014-05-01 Thu 12:34] =>  0:07
       :END:
-*** TODO UCSC Winter visit
+*** DONE UCSC Winter visit
     :LOGBOOK:
+    - State "DONE"       from "TODO"       [2014-08-23 Sat 16:26]
     - State "DONE"       from "TODO"       [2014-05-08 Thu 20:47]
     :END:
 <2014-05-09 Fri>--<2014-05-17 Sat>
@@ -4910,7 +4925,10 @@ Rowland Hall 340P
       :LOGBOOK:
       CLOCK: [2014-05-12 Mon 13:10]--[2014-05-12 Mon 15:10] =>  2:00
       :END:
-***** NEXT Submit receipts
+***** DONE Submit receipts
+      :LOGBOOK:
+      - State "DONE"       from "NEXT"       [2014-08-23 Sat 16:26]
+      :END:
 ** BADGS
 *** UCSC Winter 2014
 *** Fall 2014
@@ -5292,8 +5310,9 @@ http://geometry.ugr.es/
 - Contact:
 - old application:  [[file:~/working/academic/jobs/job_applications/1043_uow]]
 - app [[file:~/working/academic/jobs/job_applications/25048_uow]]
-**** TODO UQ Lecturer
+**** DONE UQ Lecturer
      :LOGBOOK:
+     - State "DONE"       from "TODO"       [2014-08-23 Sat 16:27]
      CLOCK: [2014-02-19 Wed 15:22]--[2014-02-19 Wed 15:23] =>  0:01
      CLOCK: [2014-02-18 Tue 23:24]--[2014-02-18 Tue 23:26] =>  0:02
      :END:
@@ -5323,8 +5342,9 @@ http://geometry.ugr.es/
        - State "WAITING"    from "TODO"       [2014-02-20 Thu 14:47] \\
 	 Sent email to Joe at UQ. Waiting to hear confirmation.
        :END:
-****** WAITING Respond to offer
+****** DONE Respond to offer
        :LOGBOOK:
+       - State "DONE"       from "WAITING"    [2014-08-23 Sat 16:27]
        - State "WAITING"    from "TODO"       [2014-02-28 Fri 08:19] \\
 	 Waiting to hear back.
        :END:
@@ -5378,6 +5398,11 @@ http://www.dtu.dk/Job/job?id=171c797f-0619-4bd4-a855-8ff6c4990af7
 	 Waiting on response.
        :END:
 
+****** WAITING Follow up on application
+       :LOGBOOK:
+       - State "WAITING"    from "NEXT"       [2014-08-23 Sat 16:28] \\
+	 Waiting on reply about whether I got the job.
+       :END:
 
 ****** DONE Remind Ben to send reference letter
   :LOGBOOK:
@@ -5708,7 +5733,10 @@ Remove sidebar
 *** TODO Make print/mobile versions of website
   SCHEDULED: <2014-09-01 Mon>
 [2014-02-10 Mon 15:09]
-*** TODO Update website
+*** DONE Update website
+    :LOGBOOK:
+    - State "DONE"       from "TODO"       [2014-08-23 Sat 16:29]
+    :END:
 **** DONE Publish website
      DEADLINE: <2014-08-01 Fri>
      :LOGBOOK:

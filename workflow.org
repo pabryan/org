@@ -1582,7 +1582,7 @@ Should run hg clone ssh://hg@bitbucket.org/pabryan/<proj>
 [2014-03-28 Fri 18:04]
 
 I should update the session before running vc_autocommit.sh and check_uncommited.sh. It would also be nice if the latter didn't force me to hit ctrl-c for every single repository.<2014-03-28 Fri>
-**** TODO autmount sshfs
+**** NEXT autmount sshfs
   :LOGBOOK:
   CLOCK: [2014-02-27 Thu 15:52]--[2014-02-27 Thu 15:53] =>  0:01
   :END:
@@ -1594,16 +1594,16 @@ https://wiki.archlinux.org/index.php/sshfs#Automounting
 https://github.com/hellekin/autosshfs
 http://ubuntuforums.org/showthread.php?t=430312
 
-**** TODO use emacs to do vc stuff
+**** NEXT use emacs to do vc stuff
   SCHEDULED: <2014-09-01 Mon>
 [2014-02-28 Fri 11:45]
-**** TODO Check out patch-commit
+**** NEXT Check out patch-commit
      SCHEDULED: <2014-09-01 Mon>
   <2014-04-06 Sun>
 [2014-03-15 Sat 22:38]
 
 http://porkrind.org/commit-patch/
-**** TODO Auto sync working
+**** NEXT Auto sync working
      SCHEDULED: <2014-09-01 Mon>
   :LOGBOOK:
   CLOCK: [2014-03-18 Tue 17:42]--[2014-03-18 Tue 17:43] =>  0:01
