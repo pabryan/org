@@ -4891,14 +4891,16 @@ Rowland Hall 340P
 *** UCSC Winter 2014
 *** Fall 2014
 
-**** WAITING Remind BADGS organisers I want to speak
+**** DONE Remind BADGS organisers I want to speak
      SCHEDULED: <2014-07-21 Mon>
-  :LOGBOOK:
-  - State "WAITING"    from "TODO"       [2014-08-17 Sun 16:53] \\
-    Sent reminder. Waiting on response.
-  CLOCK: [2014-03-10 Mon 10:48]--[2014-03-10 Mon 10:50] =>  0:02
-  :END:
-[2014-03-10 Mon 10:48]
+     :LOGBOOK:
+     - State "DONE"       from "WAITING"    [2014-08-23 Sat 11:27] \\
+       If they respond, I'll do it, if not it doesn't matter.
+     - State "WAITING"    from "TODO"       [2014-08-17 Sun 16:53] \\
+       Sent reminder. Waiting on response.
+     CLOCK: [2014-03-10 Mon 10:48]--[2014-03-10 Mon 10:50] =>  0:02
+     :END:
+     [2014-03-10 Mon 10:48]
 
 Richard Montgomery <rmont@ucsc.edu>, David Hoffman <hoffman@math.stanford.edu>, Jie Qing <qing@ucsc.edu>
 
@@ -5365,9 +5367,6 @@ http://www.uni-freiburg.de/administration/stellenboerse?erf=y&stellenid=8792&lay
 [[file:~/reference/academic/jobs/2015/freiburg]]
 [[file:~/working/academic/jobs/job_applications/8792_freiburg]]
 **** TODO Monash						     :MONASH:
-     :LOGBOOK:
-     CLOCK: [2014-08-22 Fri 14:58]
-     :END:
 ***** Tasks
 ****** DONE Set up tasks/etc.
       DEADLINE: <2014-07-20 Sun>
