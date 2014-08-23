@@ -4225,6 +4225,7 @@ However, some things like the action in WDM and general relativity may be define
 - TeX file
   - Set short title.
   - Remove date.
+  - Change images to ps
   - Run bundledoc <article>.dep
 
 * Seminars/Conferences
