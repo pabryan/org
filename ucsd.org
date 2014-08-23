@@ -9449,7 +9449,10 @@ Lectures in calendar and tasks like planning lectures.
 	 :END:
 
 ******** TODO Prepare Lectures
-********* TODO Week 1
+********* DONE Week 1
+	  :LOGBOOK:
+	  - State "DONE"       from "TODO"       [2014-08-23 Sat 16:34]
+	  :END:
 ********** DONE Prepare outline 1
 	   SCHEDULED: <2014-06-24 Tue>
 	   :LOGBOOK:
@@ -9499,7 +9502,10 @@ Lectures in calendar and tasks like planning lectures.
 	   :Effort:   1:00
 	   :END:
 
-********* TODO Week 2
+********* DONE Week 2
+	  :LOGBOOK:
+	  - State "DONE"       from "TODO"       [2014-08-23 Sat 16:34]
+	  :END:
 ********** DONE Prepare outline 2
 	   SCHEDULED: <2014-06-24 Tue> 
 	   :LOGBOOK:
@@ -9549,7 +9555,10 @@ Lectures in calendar and tasks like planning lectures.
 	   :Effort:   1:00
 	   :END:
 
-********* TODO Week 3
+********* DONE Week 3
+	  :LOGBOOK:
+	  - State "DONE"       from "TODO"       [2014-08-23 Sat 16:34]
+	  :END:
 ********** DONE Prepare outline 3
 	   SCHEDULED: <2014-06-24 Tue> 
 	   :LOGBOOK:
@@ -9950,8 +9959,9 @@ received 25/25 points.
 	    Can't export piazza student list.
 	  :END:
 
-******** TODO Posts
+******** Posts
 	 :LOGBOOK:
+	 - State "DONE"       from "TODO"       [2014-08-23 Sat 16:35]
 	 CLOCK: [2014-08-18 Mon 14:49]--[2014-08-18 Mon 14:51] =>  0:02
 	 :END:
 ********* DONE Level curves
@@ -10364,7 +10374,10 @@ Lectures in calendar and tasks like planning lectures.
 	 :Effort:   0:15
 	 :END:
 ******** TODO Prepare Lectures
-********* TODO Week 1
+********* DONE Week 1
+	  :LOGBOOK:
+	  - State "DONE"       from "TODO"       [2014-08-23 Sat 16:35]
+	  :END:
 ********** DONE Prepare outline 1
 	   SCHEDULED: <2014-06-25 Wed>
 	   :LOGBOOK:
@@ -10417,7 +10430,10 @@ Lectures in calendar and tasks like planning lectures.
 	   :Effort:   1:00
 	   :END:
 
-********* TODO Week 2
+********* DONE Week 2
+	  :LOGBOOK:
+	  - State "DONE"       from "TODO"       [2014-08-23 Sat 16:35]
+	  :END:
 ********** DONE Prepare outline 2
 	   SCHEDULED: <2014-06-25 Wed>
 	   :LOGBOOK:
@@ -10467,7 +10483,10 @@ Lectures in calendar and tasks like planning lectures.
 	   :Effort:   1:00
 	   :END:
 
-********* TODO Week 3
+********* DONE Week 3
+	  :LOGBOOK:
+	  - State "DONE"       from "TODO"       [2014-08-23 Sat 16:35]
+	  :END:
 ********** DONE Prepare outline 3
 	   SCHEDULED: <2014-06-25 Wed>
 	   :LOGBOOK:
@@ -10860,7 +10879,7 @@ Lectures in calendar and tasks like planning lectures.
 	  :Effort:   0:15
 	  :END:
 
-******** TODO Posts
+******** Posts
 ********* DONE Variation of Parameters
 	  :LOGBOOK:
 	  - State "DONE"       from "NEXT"       [2014-08-18 Mon 16:13]
