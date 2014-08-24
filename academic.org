@@ -1271,9 +1271,18 @@ Given $X$ in the equator, let $\rho_{\alpha}(X)$ be the infimum of the lengths o
 	 CLOCK: [2014-06-13 Fri 09:41]--[2014-06-13 Fri 09:58] =>  0:17
 	 CLOCK: [2014-06-12 Thu 17:03]--[2014-06-12 Thu 18:19] =>  1:16
 	 :END:
-******* NEXT Produce final version
+******* DONE Produce final version
 	:LOGBOOK:
+	- State "DONE"       from "NEXT"       [2014-08-22 Fri 20:49]
+	CLOCK: [2014-08-22 Fri 20:07]--[2014-08-22 Fri 20:49] =>  0:42
+	CLOCK: [2014-08-22 Fri 18:39]--[2014-08-22 Fri 19:07] =>  0:28
+	CLOCK: [2014-08-22 Fri 15:00]--[2014-08-22 Fri 16:30] =>  1:30
 	CLOCK: [2014-08-14 Thu 16:10]--[2014-08-14 Thu 17:08] =>  0:58
+	:END:
+******* NEXT Upload to arxiv
+	:LOGBOOK:
+	CLOCK: [2014-08-22 Fri 21:29]
+	CLOCK: [2014-08-22 Fri 20:58]--[2014-08-22 Fri 21:18] =>  0:20
 	:END:
 ******* TODO Submit to journal
 ******* TODO Update based on referee comments
@@ -4207,6 +4216,14 @@ I want to study Gauss maps $(E,X,\pi) \to (\RR^k\times X, X, \pi)$, in particula
 We should take a "structural" or algebraic approach. Coords and frames are useful computational places, and also are essential in the definition. However, many calculations follow say be commuting derivatives etc. and don't need a local coordinate calculation once we already know we have geometrically invariant objects, we can just calculate with the algebraic structure, which exposes what's going on better rather than just some convenient cancellation in orthonormal coordinates. 
 
 However, some things like the action in WDM and general relativity may be defined purely in coords, but yield invariant quantities. How does that happen? Can it be expressed invariantly from the start? In continuum mechanics, we have a non-invariant derivation (i.e. conservation of momentum by integrating the velocity vector field component by component) to obtain an invariant differential equation. How does that happen? The derivation depends on the choice of a Gauss map.
+** Notes
+*** ArXiv
+**** ArXiv submission process
+- https://arxiv.org/user/
+- TeX file
+  - Set short title.
+  - Remove date.
+  - Run bundledoc <article>.dep
 * Seminars/Conferences
   :PROPERTIES:
   :ID:       1e7a7317-1668-4432-a995-cdaa9293f7af
@@ -5366,7 +5383,7 @@ http://www.uni-freiburg.de/administration/stellenboerse?erf=y&stellenid=8792&lay
 [[file:~/working/academic/jobs/job_applications/8792_freiburg]]
 **** TODO Monash						     :MONASH:
      :LOGBOOK:
-     CLOCK: [2014-08-22 Fri 14:58]
+     CLOCK: [2014-08-22 Fri 14:58]--[2014-08-22 Fri 14:59] =>  0:01
      :END:
 ***** Tasks
 ****** DONE Set up tasks/etc.
