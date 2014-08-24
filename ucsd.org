@@ -9628,13 +9628,16 @@ Lectures in calendar and tasks like planning lectures.
 	   :Effort:   1:00
 	   :END:
 
-********** NEXT Prepare Lecture 4.2
+********** DONE Prepare Lecture 4.2
 	   SCHEDULED: <2014-08-19 Tue> DEADLINE: <2014-08-21 Thu>
+	   :LOGBOOK:
+	   - State "DONE"       from "NEXT"       [2014-08-24 Sun 11:39]
+	   :END:
 	   :PROPERTIES:
 	   :Effort:   1:00
 	   :END:
 
-********** TODO Prepare Lecture 4.3
+********** NEXT Prepare Lecture 4.3
 	   SCHEDULED: <2014-08-21 Thu> DEADLINE: <2014-08-21 Thu>
 	   :PROPERTIES:
 	   :Effort:   1:00
@@ -10569,13 +10572,16 @@ Lectures in calendar and tasks like planning lectures.
 	   :Effort:   1:00
 	   :END:
 
-********** NEXT Prepare Lecture 4.2
+********** DONE Prepare Lecture 4.2
 	   DEADLINE: <2014-08-21 Thu> SCHEDULED: <2014-08-19 Tue>
+	   :LOGBOOK:
+	   - State "DONE"       from "NEXT"       [2014-08-24 Sun 11:39]
+	   :END:
 	   :PROPERTIES:
 	   :Effort:   1:00
 	   :END:
 
-********** TODO Prepare Lecture 4.3
+********** NEXT Prepare Lecture 4.3
 	   DEADLINE: <2014-08-21 Thu> SCHEDULED: <2014-08-21 Thu>
 	   :PROPERTIES:
 	   :Effort:   1:00
@@ -10704,9 +10710,10 @@ Lectures in calendar and tasks like planning lectures.
 	  :PROPERTIES:
 	  :Effort:   1:00
 	  :END:
-********* WAITING Get TA's comments
+********* DONE Get TA's comments
 	  DEADLINE: <2014-08-25 Mon>
 	  :LOGBOOK:
+	  - State "DONE"       from "WAITING"    [2014-08-24 Sun 11:39]
 	  - State "WAITING"    from "TODO"       [2014-08-21 Thu 20:59] \\
 	    Sent to TA's. Waiting on comments.
 	  :END:
@@ -10720,13 +10727,16 @@ Lectures in calendar and tasks like planning lectures.
 	  - State "DONE"       from "NEXT"       [2014-08-23 Sat 20:24]
 	  CLOCK: [2014-08-23 Sat 20:15]--[2014-08-23 Sat 20:24] =>  0:09
 	  :END:
-********* TODO Update exam based on TA comments
+********* DONE Update exam based on TA comments
 	  DEADLINE: <2014-08-25 Mon>
+	  :LOGBOOK:
+	  - State "DONE"       from "TODO"       [2014-08-24 Sun 11:39]
+	  :END:
 	  :PROPERTIES:
 	  :Effort:   0:15
 	  :END:
 
-********* TODO Submit midterm to printing/frdesk
+********* NEXT Submit midterm to printing/frdesk
 	  DEADLINE: <2014-08-25 Mon>
 	  :PROPERTIES:
 	  :Effort:   0:10
