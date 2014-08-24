@@ -9378,8 +9378,9 @@ Ledden Auditorium
 - Turn off stack trace.
 - When exporting, it would be nice to be able to immediately download rather than going to the file browser.
 ****** Tasks
-******* TODO Plan course
+******* DONE Plan course
    :LOGBOOK:
+   - State "DONE"       from "TODO"       [2014-08-23 Sat 16:29]
    - State "DONE"       from "TODO"       [2014-08-01 Fri 17:23]
    CLOCK: [2014-06-20 Fri 16:59]--[2014-06-20 Fri 17:00] =>  0:01
    :END:
@@ -9448,7 +9449,10 @@ Lectures in calendar and tasks like planning lectures.
 	 :END:
 
 ******** TODO Prepare Lectures
-********* TODO Week 1
+********* DONE Week 1
+	  :LOGBOOK:
+	  - State "DONE"       from "TODO"       [2014-08-23 Sat 16:34]
+	  :END:
 ********** DONE Prepare outline 1
 	   SCHEDULED: <2014-06-24 Tue>
 	   :LOGBOOK:
@@ -9498,7 +9502,10 @@ Lectures in calendar and tasks like planning lectures.
 	   :Effort:   1:00
 	   :END:
 
-********* TODO Week 2
+********* DONE Week 2
+	  :LOGBOOK:
+	  - State "DONE"       from "TODO"       [2014-08-23 Sat 16:34]
+	  :END:
 ********** DONE Prepare outline 2
 	   SCHEDULED: <2014-06-24 Tue> 
 	   :LOGBOOK:
@@ -9548,7 +9555,10 @@ Lectures in calendar and tasks like planning lectures.
 	   :Effort:   1:00
 	   :END:
 
-********* TODO Week 3
+********* DONE Week 3
+	  :LOGBOOK:
+	  - State "DONE"       from "TODO"       [2014-08-23 Sat 16:34]
+	  :END:
 ********** DONE Prepare outline 3
 	   SCHEDULED: <2014-06-24 Tue> 
 	   :LOGBOOK:
@@ -9608,13 +9618,17 @@ Lectures in calendar and tasks like planning lectures.
 	   :PROPERTIES:
 	   :Effort:   0:30
 	   :END:
-********** TODO Prepare Lecture 4.1
+********** DONE Prepare Lecture 4.1
 	   SCHEDULED: <2014-08-19 Tue> DEADLINE: <2014-08-21 Thu>
+	   :LOGBOOK:
+	   - State "DONE"       from "NEXT"       [2014-08-23 Sat 15:30]
+	   CLOCK: [2014-08-23 Sat 14:20]--[2014-08-23 Sat 15:00] =>  0:40
+	   :END:
 	   :PROPERTIES:
 	   :Effort:   1:00
 	   :END:
 
-********** TODO Prepare Lecture 4.2
+********** NEXT Prepare Lecture 4.2
 	   SCHEDULED: <2014-08-19 Tue> DEADLINE: <2014-08-21 Thu>
 	   :PROPERTIES:
 	   :Effort:   1:00
@@ -9626,8 +9640,11 @@ Lectures in calendar and tasks like planning lectures.
 	   :Effort:   1:00
 	   :END:
 
-********** TODO Prepare Lecture 4.4
+********** DONE Prepare Lecture 4.4
 	   SCHEDULED: <2014-08-21 Thu> DEADLINE: <2014-08-21 Thu>
+	   :LOGBOOK:
+	   - State "DONE"       from "TODO"       [2014-08-23 Sat 13:51]
+	   :END:
 	   :PROPERTIES:
 	   :Effort:   1:00
 	   :END:
@@ -9645,13 +9662,16 @@ Lectures in calendar and tasks like planning lectures.
 	   :PROPERTIES:
 	   :Effort:   0:30
 	   :END:
-********** TODO Prepare Lecture 5.1
+********** DONE Prepare Lecture 5.1
 	   SCHEDULED: <2014-08-26 Tue> DEADLINE: <2014-08-28 Thu>
+	   :LOGBOOK:
+	   - State "DONE"       from "TODO"       [2014-08-23 Sat 16:29]
+	   :END:
 	   :PROPERTIES:
 	   :Effort:   1:00
 	   :END:
 
-********** TODO Prepare Lecture 5.2
+********** NEXT Prepare Lecture 5.2
 	   SCHEDULED: <2014-08-26 Tue> DEADLINE: <2014-08-28 Thu>
 	   :PROPERTIES:
 	   :Effort:   1:00
@@ -9681,8 +9701,9 @@ Lectures in calendar and tasks like planning lectures.
 	 :PROPERTIES:
 	 :Effort:   0:15
 	 :END:
-******** TODO Midterm 1
+******** DONE Midterm 1
 	 :LOGBOOK:
+	 - State "DONE"       from "TODO"       [2014-08-23 Sat 16:29]
 	 CLOCK: [2014-08-11 Mon 16:47]--[2014-08-11 Mon 16:48] =>  0:01
 	 :END:
 ********* DONE Write Midterm 1
@@ -9763,6 +9784,12 @@ Lectures in calendar and tasks like planning lectures.
 	  :Effort:   0:10
 	  :END:
 
+********* DONE Upload sample exam
+	  DEADLINE: <2014-08-24 Sun>
+	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2014-08-23 Sat 20:15]
+	  CLOCK: [2014-08-23 Sat 20:14]--[2014-08-23 Sat 20:15] =>  0:01
+	  :END:
 ********* TODO Update exam based on TA comments
 	  DEADLINE: <2014-08-25 Mon>
 	  :PROPERTIES:
@@ -9777,6 +9804,9 @@ Lectures in calendar and tasks like planning lectures.
 
 ********* TODO Write MT2 solutions
 ******** TODO Final
+********* NEXT Upload sample exams
+	  DEADLINE: <2014-08-31 Sun>
+
 ********* NEXT Write Final
 	 SCHEDULED: <2014-08-25 Mon>
 	  :PROPERTIES:
@@ -9799,7 +9829,10 @@ Lectures in calendar and tasks like planning lectures.
 	  :Effort:   0:10
 	  :END:
 
-******* TODO Homework
+******* DONE Homework
+	:LOGBOOK:
+	- State "DONE"       from "TODO"       [2014-08-23 Sat 16:30]
+	:END:
 ******** DONE Set Homework
 	 DEADLINE: <2014-06-20 Fri>
 	 :LOGBOOK:
@@ -9813,7 +9846,10 @@ Lectures in calendar and tasks like planning lectures.
 ******** Students
 ********* Jacqueline Montes 
 received 25/25 points.
-******* TODO Website
+******* DONE Website
+	:LOGBOOK:
+	- State "DONE"       from "TODO"       [2014-08-23 Sat 16:30]
+	:END:
 ******** DONE Make website
 	 DEADLINE: <2014-06-20 Fri>
 	 :LOGBOOK:
@@ -9882,7 +9918,7 @@ received 25/25 points.
           :PROPERTIES:
 	  :Effort:   0:15
 	  :END:
-********* TODO Post week 3 summary
+********* NEXT Post week 3 summary
 	  DEADLINE: <2014-08-24 Sun>
           :PROPERTIES:
 	  :Effort:   0:15
@@ -9927,8 +9963,9 @@ received 25/25 points.
 	    Can't export piazza student list.
 	  :END:
 
-******** TODO Posts
+******** Posts
 	 :LOGBOOK:
+	 - State "DONE"       from "TODO"       [2014-08-23 Sat 16:35]
 	 CLOCK: [2014-08-18 Mon 14:49]--[2014-08-18 Mon 14:51] =>  0:02
 	 :END:
 ********* DONE Level curves
@@ -10019,8 +10056,12 @@ Here's a plot of the level curves for $$c = 2$$. I'll let you try to match the c
 	   :PROPERTIES:
 	   :Effort:   0:30
 	   :END:
-********** NEXT Week 4 Webwork 
+********** DONE Week 4 Webwork 
 	   DEADLINE: <2014-08-22 Fri>
+	   :LOGBOOK:
+	   - State "DONE"       from "NEXT"       [2014-08-23 Sat 20:03]
+	   CLOCK: [2014-08-23 Sat 19:43]--[2014-08-23 Sat 20:03] =>  0:20
+	   :END:
 	   :PROPERTIES:
 	   :Effort:   0:30
 	   :END:
@@ -10264,8 +10305,9 @@ file:~/working/ucsd/teaching/2014/summer2/math20d_summer2_2014
 ******** TA's
 ******** Schedule
 ****** Tasks
-******* TODO Plan course
+******* DONE Plan course
 	:LOGBOOK:
+	- State "DONE"       from "TODO"       [2014-08-23 Sat 16:30]
 	CLOCK: [2014-06-18 Wed 18:13]--[2014-06-18 Wed 18:16] =>  0:03
 	:END:
 ******** DONE Org structure
@@ -10340,7 +10382,10 @@ Lectures in calendar and tasks like planning lectures.
 	 :Effort:   0:15
 	 :END:
 ******** TODO Prepare Lectures
-********* TODO Week 1
+********* DONE Week 1
+	  :LOGBOOK:
+	  - State "DONE"       from "TODO"       [2014-08-23 Sat 16:35]
+	  :END:
 ********** DONE Prepare outline 1
 	   SCHEDULED: <2014-06-25 Wed>
 	   :LOGBOOK:
@@ -10393,7 +10438,10 @@ Lectures in calendar and tasks like planning lectures.
 	   :Effort:   1:00
 	   :END:
 
-********* TODO Week 2
+********* DONE Week 2
+	  :LOGBOOK:
+	  - State "DONE"       from "TODO"       [2014-08-23 Sat 16:35]
+	  :END:
 ********** DONE Prepare outline 2
 	   SCHEDULED: <2014-06-25 Wed>
 	   :LOGBOOK:
@@ -10443,7 +10491,10 @@ Lectures in calendar and tasks like planning lectures.
 	   :Effort:   1:00
 	   :END:
 
-********* TODO Week 3
+********* DONE Week 3
+	  :LOGBOOK:
+	  - State "DONE"       from "TODO"       [2014-08-23 Sat 16:35]
+	  :END:
 ********** DONE Prepare outline 3
 	   SCHEDULED: <2014-06-25 Wed>
 	   :LOGBOOK:
@@ -10508,13 +10559,17 @@ Lectures in calendar and tasks like planning lectures.
 	   :PROPERTIES:
 	   :Effort:   0:30
 	   :END:
-********** TODO Prepare Lecture 4.1
+********** DONE Prepare Lecture 4.1
 	   DEADLINE: <2014-08-21 Thu> SCHEDULED: <2014-08-19 Tue>
+	   :LOGBOOK:
+	   - State "DONE"       from "NEXT"       [2014-08-23 Sat 16:15]
+	   CLOCK: [2014-08-23 Sat 15:33]--[2014-08-23 Sat 16:15] =>  0:42
+	   :END:
 	   :PROPERTIES:
 	   :Effort:   1:00
 	   :END:
 
-********** TODO Prepare Lecture 4.2
+********** NEXT Prepare Lecture 4.2
 	   DEADLINE: <2014-08-21 Thu> SCHEDULED: <2014-08-19 Tue>
 	   :PROPERTIES:
 	   :Effort:   1:00
@@ -10526,8 +10581,11 @@ Lectures in calendar and tasks like planning lectures.
 	   :Effort:   1:00
 	   :END:
 
-********** TODO Prepare Lecture 4.4
+********** DONE Prepare Lecture 4.4
 	   DEADLINE: <2014-08-21 Thu> SCHEDULED: <2014-08-21 Thu>
+	   :LOGBOOK:
+	   - State "DONE"       from "TODO"       [2014-08-23 Sat 13:51]
+	   :END:
 	   :PROPERTIES:
 	   :Effort:   1:00
 	   :END:
@@ -10542,13 +10600,16 @@ Lectures in calendar and tasks like planning lectures.
 	   :PROPERTIES:
 	   :Effort:   0:30
 	   :END:
-********** TODO Prepare Lecture 5.1
+********** DONE Prepare Lecture 5.1
 	   DEADLINE: <2014-08-28 Thu> SCHEDULED: <2014-08-26 Tue>
+	   :LOGBOOK:
+	   - State "DONE"       from "TODO"       [2014-08-23 Sat 16:30]
+	   :END:
 	   :PROPERTIES:
 	   :Effort:   1:00
 	   :END:
 
-********** TODO Prepare Lecture 5.2
+********** NEXT Prepare Lecture 5.2
 	   DEADLINE: <2014-08-28 Thu> SCHEDULED: <2014-08-26 Tue>
 	   :PROPERTIES:
 	   :Effort:   1:00
@@ -10578,8 +10639,9 @@ Lectures in calendar and tasks like planning lectures.
 	 :PROPERTIES:
 	 :Effort:   0:15
 	 :END:
-******** TODO Midterm 1
+******** DONE Midterm 1
 	 :LOGBOOK:
+	 - State "DONE"       from "TODO"       [2014-08-23 Sat 16:31]
 	 CLOCK: [2014-08-11 Mon 17:00]--[2014-08-11 Mon 17:01] =>  0:01
 	 :END:
 ********* DONE Write Midterm 1
@@ -10620,7 +10682,11 @@ Lectures in calendar and tasks like planning lectures.
 	  :Effort:   0:10
 	  :END:
 
-********* TODO Write MT 1 solutions
+********* CANCELLED Write MT 1 solutions
+	  :LOGBOOK:
+	  - State "CANCELLED"  from "TODO"       [2014-08-23 Sat 16:30] \\
+	    Not going to do it.
+	  :END:
 ********* DONE Upload sample exams
 	  DEADLINE: <2014-08-11 Mon>
 	  :LOGBOOK:
@@ -10648,6 +10714,12 @@ Lectures in calendar and tasks like planning lectures.
 	  :Effort:   0:10
 	  :END:
 
+********* DONE Upload sample exams
+	  DEADLINE: <2014-08-24 Sun>
+	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2014-08-23 Sat 20:24]
+	  CLOCK: [2014-08-23 Sat 20:15]--[2014-08-23 Sat 20:24] =>  0:09
+	  :END:
 ********* TODO Update exam based on TA comments
 	  DEADLINE: <2014-08-25 Mon>
 	  :PROPERTIES:
@@ -10662,6 +10734,9 @@ Lectures in calendar and tasks like planning lectures.
 
 ********* TODO Write MT2 solutions
 ******** TODO Final
+********* NEXT Upload sample exams
+	  DEADLINE: <2014-08-31 Sun>
+
 ********* NEXT Write Final
 	 SCHEDULED: <2014-08-25 Mon>
 	  :PROPERTIES:
@@ -10684,7 +10759,10 @@ Lectures in calendar and tasks like planning lectures.
 	  :Effort:   0:10
 	  :END:
 	  
-******* TODO Homework
+******* DONE Homework
+	:LOGBOOK:
+	- State "DONE"       from "TODO"       [2014-08-23 Sat 16:31]
+	:END:
 ******** DONE Set Homework
 	 SCHEDULED:  <2014-06-20 Fri>
 	 :LOGBOOK:
@@ -10697,8 +10775,9 @@ Lectures in calendar and tasks like planning lectures.
 	 :Effort:   0:30
 	 :END:
 
-******* TODO Website
+******* DONE Website
 	:LOGBOOK:
+	- State "DONE"       from "TODO"       [2014-08-23 Sat 16:31]
 	CLOCK: [2014-07-31 Thu 18:07]--[2014-07-31 Thu 18:08] =>  0:01
 	:END:
 ******** DONE Make website
@@ -10796,7 +10875,7 @@ Lectures in calendar and tasks like planning lectures.
 	  :PROPERTIES:
 	  :Effort:   0:15
 	  :END:
-********* TODO Post week 3 summary
+********* NEXT Post week 3 summary
 	  DEADLINE: <2014-08-24 Sun>
 	  :PROPERTIES:
 	  :Effort:   0:15
@@ -10812,7 +10891,7 @@ Lectures in calendar and tasks like planning lectures.
 	  :Effort:   0:15
 	  :END:
 
-******** TODO Posts
+******** Posts
 ********* DONE Variation of Parameters
 	  :LOGBOOK:
 	  - State "DONE"       from "NEXT"       [2014-08-18 Mon 16:13]
@@ -11136,8 +11215,14 @@ programs@fields.utoronto.ca.
 **** Notes
 http://urp.ucsd.edu/
 **** 2013/2014
-***** TODO Diff Geo
-****** TODO Tasks
+***** DONE Diff Geo
+      :LOGBOOK:
+      - State "DONE"       from "TODO"       [2014-08-23 Sat 16:32]
+      :END:
+****** DONE Tasks
+       :LOGBOOK:
+       - State "DONE"       from "TODO"       [2014-08-23 Sat 16:32]
+       :END:
 ******* DONE Create undergrad research projects
   SCHEDULED: <2013-10-14 Mon>
   :LOGBOOK:
@@ -11179,7 +11264,10 @@ http://urp.ucsd.edu/
   :ID:       8699f5b6-d3ad-45d3-9987-099812477a72
   :END:
 [2014-01-01 Wed 13:38]
-******* TODO Lectures
+******* DONE Lectures
+	:LOGBOOK:
+	- State "DONE"       from "TODO"       [2014-08-23 Sat 16:32]
+	:END:
 ******** DONE Prepare lecture on manifolds
 	:LOGBOOK:
 	- State "DONE"       from "TODO"       [2014-02-09 Sun 21:26]
@@ -11284,11 +11372,17 @@ http://urp.ucsd.edu/
   On Tuesdays I'm available after 12:30pm, and on Thursdays I'm available after 2pm.
 
 ****** Projects
-***** TODO CSF on sphere
+***** DONE CSF on sphere
+      :LOGBOOK:
+      - State "DONE"       from "TODO"       [2014-08-23 Sat 16:32]
+      :END:
       :PROPERTIES:
       :ID:       5a9d45e8-9045-4a2d-bb61-7068ba0aa969
       :END:
-****** TODO Tasks
+****** DONE Tasks
+       :LOGBOOK:
+       - State "DONE"       from "TODO"       [2014-08-23 Sat 16:32]
+       :END:
        :PROPERTIES:
        :ID:       b62885d4-c355-41da-a8e3-8a8cb7aa088d
        :END:
@@ -11307,7 +11401,10 @@ http://urp.ucsd.edu/
 	:PROPERTIES:
 	:ID:       2d9e0058-93f6-43ab-9948-7e91feb865ed
 	:END:
-******* NEXT Send dist/comp arg to students
+******* DONE Send dist/comp arg to students
+	:LOGBOOK:
+	- State "DONE"       from "NEXT"       [2014-08-23 Sat 16:32]
+	:END:
 [2014-02-10 Mon 15:07]
 ****** Refs
 ******* Curvature bound for curve shortening flow via distance comparison and a direct proof of {G}rayson's theorem
@@ -11375,7 +11472,10 @@ http://urp.ucsd.edu/
 ****** Participants
 - M Groesbeck <m.groesbeck@gmail.com>
 - Caitlin Endler <cendler@ucsd.edu>
-***** TODO Wave Dark Matter
+***** DONE Wave Dark Matter
+      :LOGBOOK:
+      - State "DONE"       from "TODO"       [2014-08-23 Sat 16:33]
+      :END:
 ****** Meetings
 ********* WDM Planning
 <2014-01-07 Tue 14:00-15:00>
@@ -11415,7 +11515,10 @@ http://urp.ucsd.edu/
 ****** Refs
 ****** Tasks
 ******* Code
-******** TODO Setup project
+******** DONE Setup project
+	 :LOGBOOK:
+	 - State "DONE"       from "TODO"       [2014-08-23 Sat 16:33]
+	 :END:
 ********* DONE Get matlab code into VC
 	  :LOGBOOK:
 	  - State "DONE"       from "NEXT"       [2014-02-05 Wed 13:15]
@@ -11430,8 +11533,15 @@ http://urp.ucsd.edu/
 	  :LOGBOOK:
 	  - State "DONE"       from "NEXT"       [2014-03-19 Wed 15:53]
 	  :END:
-********* NEXT Create project overview and tasks
-******** TODO Sage conversion
+********* CANCELLED Create project overview and tasks
+	  :LOGBOOK:
+	  - State "CANCELLED"  from "NEXT"       [2014-08-23 Sat 16:32] \\
+	    Jason did the coding.
+	  :END:
+******** DONE Sage conversion
+	 :LOGBOOK:
+	 - State "DONE"       from "TODO"       [2014-08-23 Sat 16:33]
+	 :END:
 ********* DONE Load matlab code into sage
 	  DEADLINE: <2014-01-31 Fri>
 	  :LOGBOOK:
@@ -11444,10 +11554,19 @@ http://urp.ucsd.edu/
 	  - State "CANCELLED"  from "NEXT"       [2014-03-19 Wed 15:53] \\
 	    We're rewriting it all in sage
 	  :END:
-********* NEXT Work out classes/layout
-******** TODO Testing code
-********* NEXT Run WDM code in Octave and Matlab
+********* CANCELLED Work out classes/layout
 	  :LOGBOOK:
+	  - State "CANCELLED"  from "NEXT"       [2014-08-23 Sat 16:33] \\
+	    Jason did the coding.
+	  :END:
+******** DONE Testing code
+	 :LOGBOOK:
+	 - State "DONE"       from "TODO"       [2014-08-23 Sat 16:33]
+	 :END:
+********* CANCELLED Run WDM code in Octave and Matlab
+	  :LOGBOOK:
+	  - State "CANCELLED"  from "NEXT"       [2014-08-23 Sat 16:33] \\
+	    No need to bother. Have access to matlab.
 	  CLOCK: [2014-03-19 Wed 15:58]--[2014-03-19 Wed 16:05] =>  0:07
 	  CLOCK: [2014-02-11 Tue 10:44]--[2014-02-11 Tue 11:28] =>  0:44
 	  CLOCK: [2014-02-11 Tue 09:37]--[2014-02-11 Tue 10:23] =>  0:46
@@ -11463,8 +11582,9 @@ http://urp.ucsd.edu/
   :END:
 [2014-02-04 Tue 13:38]
 ******* Math
-******** NEXT Read sec 4 in Bray 1
+******** DONE Read sec 4 in Bray 1
 	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2014-08-23 Sat 16:33]
 	 CLOCK: [2014-02-06 Thu 10:46]--[2014-02-06 Thu 11:03] =>  0:17
 	 CLOCK: [2014-02-05 Wed 13:15]--[2014-02-05 Wed 14:12] =>  0:57
 	 :END:
