@@ -10281,7 +10281,7 @@ Peter 110
 <2014-08-20 Wed 16:00-17:00>
 ******** O/H Week 4
 	 :LOGBOOK:
-	 CLOCK: [2014-08-25 Mon 15:03]
+	 CLOCK: [2014-08-25 Mon 15:03]--[2014-08-25 Mon 16:13] =>  1:10
 	 :END:
 	 :PROPERTIES:
 	 :Effort:   2:00
@@ -10745,6 +10745,7 @@ Lectures in calendar and tasks like planning lectures.
 ********* NEXT Submit midterm to printing/frdesk
 	  DEADLINE: <2014-08-25 Mon>
 	  :LOGBOOK:
+	  CLOCK: [2014-08-25 Mon 16:13]--[2014-08-25 Mon 16:43] =>  0:30
 	  CLOCK: [2014-08-25 Mon 14:21]--[2014-08-25 Mon 14:35] =>  0:14
 	  :END:
 	  :PROPERTIES:
