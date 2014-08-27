@@ -9640,6 +9640,7 @@ Lectures in calendar and tasks like planning lectures.
 ********** DONE Prepare Lecture 4.3
 	   SCHEDULED: <2014-08-21 Thu> DEADLINE: <2014-08-21 Thu>
 	   :LOGBOOK:
+	   CLOCK: [2014-08-27 Wed 09:24]
 	   - State "DONE"       from "NEXT"       [2014-08-26 Tue 21:48]
 	   CLOCK: [2014-08-26 Tue 20:55]--[2014-08-26 Tue 21:48] =>  0:53
 	   :END:
