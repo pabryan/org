@@ -9637,8 +9637,12 @@ Lectures in calendar and tasks like planning lectures.
 	   :Effort:   1:00
 	   :END:
 
-********** NEXT Prepare Lecture 4.3
+********** DONE Prepare Lecture 4.3
 	   SCHEDULED: <2014-08-21 Thu> DEADLINE: <2014-08-21 Thu>
+	   :LOGBOOK:
+	   - State "DONE"       from "NEXT"       [2014-08-26 Tue 21:48]
+	   CLOCK: [2014-08-26 Tue 20:55]--[2014-08-26 Tue 21:48] =>  0:53
+	   :END:
 	   :PROPERTIES:
 	   :Effort:   1:00
 	   :END:
@@ -9777,9 +9781,10 @@ Lectures in calendar and tasks like planning lectures.
 	  :PROPERTIES:
 	  :Effort:   1:00
 	  :END:
-********* WAITING Get TA's comments
+********* DONE Get TA's comments
 	  DEADLINE: <2014-08-25 Mon>
 	  :LOGBOOK:
+	  - State "DONE"       from "WAITING"    [2014-08-26 Tue 22:16]
 	  - State "WAITING"    from "TODO"       [2014-08-21 Thu 15:10] \\
 	    Sent to TA's. Waiting on response.
 	  :END:
@@ -9793,13 +9798,17 @@ Lectures in calendar and tasks like planning lectures.
 	  - State "DONE"       from "NEXT"       [2014-08-23 Sat 20:15]
 	  CLOCK: [2014-08-23 Sat 20:14]--[2014-08-23 Sat 20:15] =>  0:01
 	  :END:
-********* TODO Update exam based on TA comments
+********* DONE Update exam based on TA comments
 	  DEADLINE: <2014-08-25 Mon>
+	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2014-08-26 Tue 22:25]
+	  CLOCK: [2014-08-26 Tue 22:16]--[2014-08-26 Tue 22:25] =>  0:09
+	  :END:
 	  :PROPERTIES:
 	  :Effort:   0:15
 	  :END:
 
-********* TODO Submit midterm to printing/frdesk
+********* NEXT Submit midterm to printing/frdesk
 	  DEADLINE: <2014-08-25 Mon>
 	  :PROPERTIES:
 	  :Effort:   0:10
@@ -10590,9 +10599,11 @@ Lectures in calendar and tasks like planning lectures.
 	   :Effort:   1:00
 	   :END:
 
-********** NEXT Prepare Lecture 4.3
+********** DONE Prepare Lecture 4.3
 	   DEADLINE: <2014-08-21 Thu> SCHEDULED: <2014-08-21 Thu>
 	   :LOGBOOK:
+	   - State "DONE"       from "NEXT"       [2014-08-26 Tue 23:11]
+	   CLOCK: [2014-08-26 Tue 21:48]--[2014-08-26 Tue 22:16] =>  0:28
 	   CLOCK: [2014-08-26 Tue 14:38]--[2014-08-26 Tue 14:50] =>  0:12
 	   :END:
 	   :PROPERTIES:
