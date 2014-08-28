@@ -10759,6 +10759,10 @@ Lectures in calendar and tasks like planning lectures.
 ********* DONE Update exam based on TA comments
 	  DEADLINE: <2014-08-25 Mon>
 	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2014-08-27 Wed 22:42]
+	  CLOCK: [2014-08-27 Wed 21:15]--[2014-08-27 Wed 22:42] =>  1:27
+	  - State "NEXT"       from "DONE"       [2014-08-27 Wed 21:15] \\
+	    Need to change systems question to cover only up to 7.4.
 	  - State "DONE"       from "TODO"       [2014-08-24 Sun 11:39]
 	  :END:
 	  :PROPERTIES:
