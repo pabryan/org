@@ -10765,21 +10765,25 @@ Lectures in calendar and tasks like planning lectures.
 ********* DONE Update exam based on TA comments
 	  DEADLINE: <2014-08-25 Mon>
 	  :LOGBOOK:
+	  - State "DONE"       from "DONE"       [2014-08-28 Thu 11:24]
+	  CLOCK: [2014-08-28 Thu 11:11]--[2014-08-28 Thu 11:24] =>  0:13
 	  - State "DONE"       from "NEXT"       [2014-08-27 Wed 22:42]
 	  CLOCK: [2014-08-27 Wed 21:15]--[2014-08-27 Wed 22:42] =>  1:27
 	  - State "NEXT"       from "DONE"       [2014-08-27 Wed 21:15] \\
 	    Need to change systems question to cover only up to 7.4.
+	  CLOCK: [2014-08-25 Mon 16:13]--[2014-08-25 Mon 16:43] =>  0:30
+	  CLOCK: [2014-08-25 Mon 14:21]--[2014-08-25 Mon 14:35] =>  0:14
 	  - State "DONE"       from "TODO"       [2014-08-24 Sun 11:39]
 	  :END:
 	  :PROPERTIES:
 	  :Effort:   0:15
 	  :END:
 
-********* NEXT Submit midterm to printing/frdesk
+********* DONE Submit midterm to printing/frdesk
 	  DEADLINE: <2014-08-25 Mon>
 	  :LOGBOOK:
-	  CLOCK: [2014-08-25 Mon 16:13]--[2014-08-25 Mon 16:43] =>  0:30
-	  CLOCK: [2014-08-25 Mon 14:21]--[2014-08-25 Mon 14:35] =>  0:14
+	  - State "DONE"       from "NEXT"       [2014-08-28 Thu 11:26]
+	  CLOCK: [2014-08-28 Thu 11:24]--[2014-08-28 Thu 11:26] =>  0:02
 	  :END:
 	  :PROPERTIES:
 	  :Effort:   0:10
