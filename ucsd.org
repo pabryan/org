@@ -10328,9 +10328,6 @@ Peter 110
 	 :END:
 <2014-07-31 Thu 13:00-13:30>
 ***** TODO MATH20D
-      :LOGBOOK:
-      CLOCK: [2014-08-12 Tue 16:07]--[2014-08-12 Tue 16:08] =>  0:01
-      :END:
 file:~/working/ucsd/teaching/2014/summer2/math20d_summer2_2014
 [[file:~/reference/ucsd/teaching/2014/summer2/math20d]]
 ****** Notes
@@ -11056,7 +11053,7 @@ Center 119
 
 ********* Lecture 4.4
 	  :LOGBOOK:
-	  CLOCK: [2014-08-28 Thu 12:15]
+	  CLOCK: [2014-08-28 Thu 12:15]--[2014-08-28 Fri 14:01] =>  1:46
 	  :END:
 <2014-08-28 Thu 12:30-14:00>
 
