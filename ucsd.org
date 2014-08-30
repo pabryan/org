@@ -9936,13 +9936,21 @@ received 25/25 points.
           :PROPERTIES:
 	  :Effort:   0:15
 	  :END:
-********* NEXT Post week 3 summary
+********* DONE Post week 3 summary
 	  DEADLINE: <2014-08-24 Sun>
+	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2014-08-29 Fri 17:10]
+	  CLOCK: [2014-08-29 Fri 16:55]--[2014-08-29 Fri 17:10] =>  0:15
+	  :END:
           :PROPERTIES:
 	  :Effort:   0:15
 	  :END:
-********* TODO Post week 4 summary
+********* DONE Post week 4 summary
 	  DEADLINE: <2014-08-31 Sun>
+	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2014-08-29 Fri 17:11]
+	  CLOCK: [2014-08-29 Fri 17:10]--[2014-08-29 Fri 17:11] =>  0:01
+	  :END:
           :PROPERTIES:
 	  :Effort:   0:15
 	  :END:
@@ -10083,8 +10091,15 @@ Here's a plot of the level curves for $$c = 2$$. I'll let you try to match the c
 	   :PROPERTIES:
 	   :Effort:   0:30
 	   :END:
-********** TODO Week 5 Webwork 
+********** DONE Week 5 Webwork 
 	   DEADLINE: <2014-08-29 Fri>
+	   :LOGBOOK:
+	   - State "DONE"       from "NEXT"       [2014-08-29 Fri 16:55]
+	   CLOCK: [2014-08-29 Fri 16:22]--[2014-08-29 Fri 16:55] =>  0:33
+	   :END:
+	   :PROPERTIES:
+	   :Effort:   0:30
+	   :END:
 ******** DONE Make webwork live
   DEADLINE: <2014-08-13 Wed>
   :LOGBOOK:
@@ -10911,6 +10926,9 @@ Lectures in calendar and tasks like planning lectures.
 	    Can't export piazza student list.
 	  :END:
 ******** TODO Summary
+	 :LOGBOOK:
+	 CLOCK: [2014-08-29 Fri 17:28]--[2014-08-29 Fri 17:29] =>  0:01
+	 :END:
 ********* DONE Post week 1 summary
 	  DEADLINE: <2014-08-10 Sun>
 	  :LOGBOOK:
@@ -10929,13 +10947,21 @@ Lectures in calendar and tasks like planning lectures.
 	  :PROPERTIES:
 	  :Effort:   0:15
 	  :END:
-********* NEXT Post week 3 summary
+********* DONE Post week 3 summary
 	  DEADLINE: <2014-08-24 Sun>
+	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2014-08-29 Fri 17:24]
+	  CLOCK: [2014-08-29 Fri 17:11]--[2014-08-29 Fri 17:24] =>  0:13
+	  :END:
 	  :PROPERTIES:
 	  :Effort:   0:15
 	  :END:
-********* TODO Post week 4 summary
+********* DONE Post week 4 summary
 	  DEADLINE: <2014-08-31 Sun>
+	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2014-08-29 Fri 17:28]
+	  CLOCK: [2014-08-29 Fri 17:24]--[2014-08-29 Fri 17:28] =>  0:04
+	  :END:
 	  :PROPERTIES:
 	  :Effort:   0:15
 	  :END:

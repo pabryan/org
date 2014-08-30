@@ -1085,7 +1085,7 @@ Try to use as much available software that I can find. Do it like Sage - don't r
      :END:
 ***** Files
 [[file:~/working/academic/research/csf_ancient_sphere]]
-[[file:~/publish/csf_ancient_sphere/csf_ancient_sphere.pdf]]
+[[file:~/publish/csf_ancient_sphere/]]
 ***** Tasks
 ****** DONE Work out curvature evolution in coords
        :LOGBOOK:
@@ -1300,8 +1300,13 @@ Given $X$ in the equator, let $\rho_{\alpha}(X)$ be the infimum of the lengths o
        CLOCK: [2014-08-22 Fri 20:58]--[2014-08-22 Fri 21:18] =>  0:20
        :END:
 [[*ArXiv%20submission%20process][ArXiv submission process]]
-******* NEXT Submit to journal
-******* TODO Update based on referee comments
+******* DONE Submit to journal
+	:LOGBOOK:
+	- State "DONE"       from "NEXT"       [2014-08-29 Fri 14:23]
+	CLOCK: [2014-08-29 Fri 13:54]--[2014-08-29 Fri 14:23] =>  0:29
+	:END:
+- short title: Convex Ancient CSF on $\sphere^2$.
+******* WAITING Update based on referee comments
 ****** DONE Maths
        :LOGBOOK:
        - State "DONE"       from "TODO"       [2014-05-05 Mon 09:43]
