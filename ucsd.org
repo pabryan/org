@@ -9822,16 +9822,30 @@ Lectures in calendar and tasks like planning lectures.
 
 ********* TODO Write MT2 solutions
 ******** TODO Final
-********* NEXT Upload sample exams
+********* DONE Upload sample exams
 	  DEADLINE: <2014-08-31 Sun>
+	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2014-08-30 Sat 17:03]
+	  CLOCK: [2014-08-30 Sat 16:53]--[2014-08-30 Sat 16:55] =>  0:02
+	  :END:
 
-********* NEXT Write Final
+********* DONE Write Final
 	 SCHEDULED: <2014-08-25 Mon>
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2014-08-30 Sat 18:42]
+	 CLOCK: [2014-08-30 Sat 17:58]--[2014-08-30 Sat 18:42] =>  0:44
+	 CLOCK: [2014-08-30 Sat 17:03]--[2014-08-30 Sat 17:41] =>  0:38
+	 :END:
 	  :PROPERTIES:
 	  :Effort:   1:30
 	  :END:
-********* TODO Get TA's comments
+********* WAITING Get TA's comments
 	  DEADLINE: <2014-09-01 Mon>
+	  :LOGBOOK:
+	  - State "WAITING"    from "NEXT"       [2014-08-30 Sat 18:48] \\
+	    Sent to TA's for comments.
+	  CLOCK: [2014-08-30 Sat 18:42]--[2014-08-30 Sat 18:48] =>  0:06
+	  :END:
 	  :PROPERTIES:
 	  :Effort:   0:10
 	  :END:
@@ -10803,8 +10817,12 @@ Lectures in calendar and tasks like planning lectures.
 
 ********* TODO Write MT2 solutions
 ******** TODO Final
-********* NEXT Upload sample exams
+********* DONE Upload sample exams
 	  DEADLINE: <2014-08-31 Sun>
+	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2014-08-30 Sat 17:03]
+	  CLOCK: [2014-08-30 Sat 16:55]--[2014-08-30 Sat 17:03] =>  0:08
+	  :END:
 
 ********* NEXT Write Final
 	 SCHEDULED: <2014-08-25 Mon>

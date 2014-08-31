@@ -289,8 +289,9 @@ Use account A11078844
 [[https://act.ucsd.edu/studentBilling/billing]]
 
 *** TODO Pay ATT
-    SCHEDULED: <2014-09-01 Mon +1m -0d> 
+    SCHEDULED: <2014-10-01 Wed +1m -0d> 
     :LOGBOOK:
+    - State "DONE"       from "TODO"       [2014-08-30 Sat 17:05]
     - State "DONE"       from "TODO"       [2014-08-01 Fri 16:00]
     - State "DONE"       from "TODO"       [2014-07-01 Tue 19:16]
     - State "DONE"       from "TODO"       [2014-06-02 Mon 19:18]
@@ -310,7 +311,7 @@ Use account A11078844
     - State "DONE"       from "TODO"       [2013-04-02 Tue 21:33]
     :END:
     :PROPERTIES:
-    :LAST_REPEAT: [2014-08-01 Fri 16:00]
+    :LAST_REPEAT: [2014-08-30 Sat 17:05]
     :ID:       137987c4-8151-42f0-bfad-b1e06d2cd512
     :END:
 [[http://www.att.com/]]
