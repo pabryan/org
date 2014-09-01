@@ -10128,12 +10128,13 @@ Here's a plot of the level curves for $$c = 2$$. I'll let you try to match the c
 	 :PROPERTIES:
 	 :Effort:   0:10
 	 :END:
-******** TODO Problems
+******** TODO Report Bugs
 ********* NEXT Question 18, HW3
 	  :LOGBOOK:
 	  CLOCK: [2014-08-19 Tue 17:40]--[2014-08-19 Tue 17:49] =>  0:09
 	  :END:
-
+********* NEXT Question 1, HW4
+part a should be in terms of $t$ only.
 ****** Clocking
 ******* Admin
 ******* Office hours
@@ -10826,6 +10827,11 @@ Lectures in calendar and tasks like planning lectures.
 
 ********* NEXT Write Final
 	 SCHEDULED: <2014-08-25 Mon>
+	 :LOGBOOK:
+	 CLOCK: [2014-08-31 Sun 16:40]--[2014-08-31 Sun 17:03] =>  0:23
+	 CLOCK: [2014-08-31 Sun 15:23]--[2014-08-31 Sun 16:05] =>  0:42
+	 CLOCK: [2014-08-31 Sun 15:00]--[2014-08-31 Sun 15:17] =>  0:17
+	 :END:
 	  :PROPERTIES:
 	  :Effort:   1:30
 	  :END:
