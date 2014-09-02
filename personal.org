@@ -253,8 +253,9 @@ My card won't swipe anymore.
    
 ** Bills 
 *** TODO Pay rent
-    DEADLINE: <2014-09-05 Fri +1m -4d> 
+    DEADLINE: <2014-10-05 Sun +1m -4d> 
    :LOGBOOK:
+   - State "DONE"       from "TODO"       [2014-09-01 Mon 20:03]
    - State "DONE"       from "TODO"       [2014-08-01 Fri 16:00]
    - State "DONE"       from "TODO"       [2014-07-01 Tue 19:16]
    - State "DONE"       from "TODO"       [2014-06-02 Mon 09:13]
@@ -282,7 +283,7 @@ My card won't swipe anymore.
  
    :PROPERTIES:
    :ID:       ea07bf7b-9f89-49bf-90db-3e167baff163
-   :LAST_REPEAT: [2014-08-01 Fri 16:00]
+   :LAST_REPEAT: [2014-09-01 Mon 20:03]
    :END:
 
 Use account A11078844
@@ -618,8 +619,11 @@ Ron Lieberman <rlieberman@ucsd.edu>, 858-534-2154
 http://www.costco.com/membership-renewal.html
 
 ** PayPal
-*** Pay PayPal Balance
+*** DONE Pay PayPal Balance
     SCHEDULED: <2014-09-01 Mon> DEADLINE: <2014-09-18 Thu>
+    :LOGBOOK:
+    - State "DONE"       from "TODO"       [2014-09-01 Mon 20:02]
+    :END:
 
 * Health 							     :HEALTH:
   :PROPERTIES:
