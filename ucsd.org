@@ -10222,6 +10222,9 @@ Peter 110
 	  :END:
 <2014-08-26 Tue 09:30-11:00>
 ********* Lecture 5.2
+	  :LOGBOOK:
+	  CLOCK: [2014-09-02 Tue 09:23]--[2014-09-02 Tue 11:06] =>  1:43
+	  :END:
 	  :PROPERTIES:
 	  :Effort:   1:30
 	  :END:
@@ -10696,8 +10699,11 @@ Lectures in calendar and tasks like planning lectures.
 	   :Effort:   1:00
 	   :END:
 
-********** TODO Prepare Lecture 5.3
+********** NEXT Prepare Lecture 5.3
 	   DEADLINE: <2014-08-28 Thu> SCHEDULED: <2014-08-28 Thu>
+	   :LOGBOOK:
+	   CLOCK: [2014-09-02 Tue 14:22]
+	   :END:
 	   :PROPERTIES:
 	   :Effort:   1:00
 	   :END:
@@ -11080,6 +11086,9 @@ Center 119
 	  :END:
 <2014-08-26 Tue 12:30-14:00>
 ********* Lecture 5.2
+	  :LOGBOOK:
+	  CLOCK: [2014-09-02 Tue 12:27]--[2014-09-02 Tue 14:11] =>  1:44
+	  :END:
 <2014-09-02 Tue 12:30-14:00>
 ******** Wed
 ********* Lecture 1.3
