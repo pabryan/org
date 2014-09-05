@@ -9861,14 +9861,22 @@ Lectures in calendar and tasks like planning lectures.
 	  :PROPERTIES:
 	  :Effort:   0:10
 	  :END:
-********* TODO Update exam based on TA comments
+********* DONE Update exam based on TA comments
 	  DEADLINE: <2014-09-02 Tue>
+	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2014-09-04 Thu 18:27]
+	  CLOCK: [2014-09-04 Thu 17:24]--[2014-09-04 Thu 17:50] =>  0:26
+	  :END:
 	  :PROPERTIES:
 	  :Effort:   0:15
 	  :END:
 
-********* TODO Submit to printing/frdesk
+********* DONE Submit to printing/frdesk
 	  DEADLINE: <2014-09-02 Tue>
+	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2014-09-04 Thu 18:28]
+	  CLOCK: [2014-09-04 Thu 17:50]--[2014-09-04 Thu 18:00] =>  0:10
+	  :END:
 	  :PROPERTIES:
 	  :Effort:   0:10
 	  :END:
@@ -10859,7 +10867,7 @@ Lectures in calendar and tasks like planning lectures.
 ********* TODO Write MT2 solutions
 ******** TODO Final
 	 :LOGBOOK:
-	 CLOCK: [2014-09-04 Thu 17:22]
+	 CLOCK: [2014-09-04 Thu 18:28]
 	 CLOCK: [2014-08-31 Sun 22:31]--[2014-08-31 Sun 22:40] =>  0:09
 	 :END:
 ********* DONE Upload sample exams
@@ -10902,8 +10910,13 @@ Lectures in calendar and tasks like planning lectures.
 	  :Effort:   0:15
 	  :END:
 
-********* TODO Submit to printing/frdesk
+********* DONE Submit to printing/frdesk
 	  DEADLINE: <2014-09-02 Tue>
+	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2014-09-04 Thu 18:28]
+	  CLOCK: [2014-09-04 Thu 18:20]--[2014-09-04 Thu 18:28] =>  0:08
+	  CLOCK: [2014-09-04 Thu 17:22]--[2014-09-04 Thu 17:24] =>  0:02
+	  :END:
 	  :PROPERTIES:
 	  :Effort:   0:10
 	  :END:
