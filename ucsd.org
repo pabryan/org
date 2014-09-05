@@ -9850,9 +9850,10 @@ Lectures in calendar and tasks like planning lectures.
 	  :PROPERTIES:
 	  :Effort:   1:30
 	  :END:
-********* WAITING Get TA's comments
+********* DONE Get TA's comments
 	  DEADLINE: <2014-09-01 Mon>
 	  :LOGBOOK:
+	  - State "DONE"       from "WAITING"    [2014-09-04 Thu 15:09]
 	  - State "WAITING"    from "NEXT"       [2014-08-30 Sat 18:48] \\
 	    Sent to TA's for comments.
 	  CLOCK: [2014-08-30 Sat 18:42]--[2014-08-30 Sat 18:48] =>  0:06
@@ -10879,17 +10880,22 @@ Lectures in calendar and tasks like planning lectures.
 	  :PROPERTIES:
 	  :Effort:   1:30
 	  :END:
-********* WAITING Get TA's comments
+********* DONE Get TA's comments
 	  DEADLINE: <2014-09-01 Mon>
 	  :LOGBOOK:
+	  - State "DONE"       from "WAITING"    [2014-09-04 Thu 15:09]
 	  - State "WAITING"    from "TODO"       [2014-08-31 Sun 22:31] \\
 	    Sent to TA's for comment.
 	  :END:
 	  :PROPERTIES:
 	  :Effort:   0:10
 	  :END:
-********* TODO Update exam based on TA comments
+********* NEXT Update exam based on TA comments
 	  DEADLINE: <2014-09-02 Tue>
+	  :LOGBOOK:
+	  CLOCK: [2014-09-04 Thu 17:00]
+	  CLOCK: [2014-09-04 Thu 15:09]--[2014-09-04 Thu 15:40] =>  0:31
+	  :END:
 	  :PROPERTIES:
 	  :Effort:   0:15
 	  :END:
@@ -11213,6 +11219,7 @@ Center 119
 
 ******** O/H Week 5
 	 :LOGBOOK:
+	 CLOCK: [2014-09-04 Thu 15:40]--[2014-09-04 Thu 17:00] =>  1:20
 	 CLOCK: [2014-09-03 Wed 15:08]--[2014-09-03 Wed 16:06] =>  0:58
 	 :END:
 <2014-09-01 Mon 16:00-17:00>
