@@ -9430,7 +9430,10 @@ Lectures in calendar and tasks like planning lectures.
   CLOCK: [2014-08-12 Tue 15:49]--[2014-08-12 Tue 15:58] =>  0:09
   :END:
 [2014-08-06 Wed 17:25]
-******* TODO Lectures
+******* DONE Lectures
+	:LOGBOOK:
+	- State "DONE"       from "TODO"       [2014-09-06 Sat 10:51]
+	:END:
 ******** DONE Create Lecture Schedule
 	 :LOGBOOK:
 	 - State "DONE"       from "NEXT"       [2014-06-18 Wed 18:39]
@@ -9448,7 +9451,10 @@ Lectures in calendar and tasks like planning lectures.
 	 :Effort:   0:15
 	 :END:
 
-******** TODO Prepare Lectures
+******** DONE Prepare Lectures
+	 :LOGBOOK:
+	 - State "DONE"       from "TODO"       [2014-09-06 Sat 10:51]
+	 :END:
 ********* DONE Week 1
 	  :LOGBOOK:
 	  - State "DONE"       from "TODO"       [2014-08-23 Sat 16:34]
@@ -9659,8 +9665,9 @@ Lectures in calendar and tasks like planning lectures.
 	   :Effort:   1:00
 	   :END:
 
-********* TODO Week 5
+********* DONE Week 5
 	  :LOGBOOK:
+	  - State "DONE"       from "TODO"       [2014-09-06 Sat 10:51]
 	  CLOCK: [2014-06-28 Sat 14:10]--[2014-06-28 Sat 14:11] =>  0:01
 	  :END:
 ********** DONE Prepare outline 5
@@ -9710,8 +9717,9 @@ Lectures in calendar and tasks like planning lectures.
 	   :Effort:   1:00
 	   :END:
 
-******* TODO Exams
+******* DONE Exams
 	:LOGBOOK:
+	- State "DONE"       from "TODO"       [2014-09-06 Sat 10:51]
 	CLOCK: [2014-06-18 Wed 18:30]--[2014-06-18 Wed 18:33] =>  0:03
 	:END:
 ******** DONE Create Exam Schedule
@@ -9781,8 +9789,9 @@ Lectures in calendar and tasks like planning lectures.
 	  CLOCK: [2014-08-10 Sun 19:40]--[2014-08-10 Sun 19:51] =>  0:11
 	  :END:
 	  [2014-08-10 Sun 16:59]
-******** TODO Midterm 2
+******** DONE Midterm 2
 	 :LOGBOOK:
+	 - State "DONE"       from "TODO"       [2014-09-06 Sat 10:51]
 	 CLOCK: [2014-08-21 Thu 15:10]--[2014-08-21 Thu 15:11] =>  0:01
 	 :END:
 ********* DONE Write Midterm 2
@@ -9831,8 +9840,15 @@ Lectures in calendar and tasks like planning lectures.
 	  :Effort:   0:10
 	  :END:
 
-********* TODO Write MT2 solutions
-******** TODO Final
+********* CANCELLED Write MT2 solutions
+	  :LOGBOOK:
+	  - State "CANCELLED"  from "TODO"       [2014-09-06 Sat 10:51] \\
+	    Not posting solution.
+	  :END:
+******** DONE Final
+	 :LOGBOOK:
+	 - State "DONE"       from "TODO"       [2014-09-06 Sat 10:51]
+	 :END:
 ********* DONE Upload sample exams
 	  DEADLINE: <2014-08-31 Sun>
 	  :LOGBOOK:
@@ -9930,7 +9946,6 @@ received 25/25 points.
 	 :PROPERTIES:
 	 :Effort:   1:00
 	 :END:
-******* TODO Misc
 ******* TODO Piazza
 	:LOGBOOK:
 	CLOCK: [2014-07-31 Thu 17:58]--[2014-07-31 Thu 17:59] =>  0:01
@@ -9988,8 +10003,12 @@ received 25/25 points.
           :PROPERTIES:
 	  :Effort:   0:15
 	  :END:
-********* TODO Post week 5 summary
+********* CANCELLED Post week 5 summary
 	  DEADLINE: <2014-09-04 Thu>
+	  :LOGBOOK:
+	  - State "CANCELLED"  from "TODO"       [2014-09-06 Sat 10:50] \\
+	    Can't be bothered and the students probably don't care now anyway!
+	  :END:
           :PROPERTIES:
 	  :Effort:   0:15
 	  :END:
@@ -10085,7 +10104,10 @@ Here's a plot of the level curves for $$c = 2$$. I'll let you try to match the c
 	 - State "DONE"       from "NEXT"       [2014-08-12 Tue 16:07]
 	 CLOCK: [2014-08-12 Tue 11:56]--[2014-08-12 Tue 12:20] =>  0:24
 	 :END:
-******** TODO Set up live server
+******** DONE Set up live server
+	 :LOGBOOK:
+	 - State "DONE"       from "TODO"       [2014-09-06 Sat 10:52]
+	 :END:
 ********* DONE Configure
 	  :LOGBOOK:
 	  - State "DONE"       from "NEXT"       [2014-08-16 Sat 12:11]
@@ -10093,8 +10115,9 @@ Here's a plot of the level curves for $$c = 2$$. I'll let you try to match the c
 	  :PROPERTIES:
 	  :Effort:   0:15
 	  :END:
-********* TODO Create problem sets
+********* DONE Create problem sets
 	  :LOGBOOK:
+	  - State "DONE"       from "TODO"       [2014-09-06 Sat 10:52]
 	  CLOCK: [2014-08-16 Sat 12:11]--[2014-08-16 Sat 12:12] =>  0:01
 	  CLOCK: [2014-08-12 Tue 20:50]--[2014-08-12 Tue 20:51] =>  0:01
 	  :END:
@@ -10155,6 +10178,30 @@ Here's a plot of the level curves for $$c = 2$$. I'll let you try to match the c
 	  :END:
 ********* NEXT Question 1, HW4
 part a should be in terms of $t$ only.
+******** DONE Create survey
+	 DEADLINE: <2014-09-06 Sat>
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2014-09-06 Sat 11:45]
+	 CLOCK: [2014-09-06 Sat 11:18]--[2014-09-06 Sat 11:45] =>  0:27
+	 :END:
+	 :PROPERTIES:
+	 :Effort:   0:15
+	 :END:
+******** NEXT Download homework scores
+	 DEADLINE: <2014-09-08 Mon>
+	 :LOGBOOK:
+	 CLOCK: [2014-09-06 Sat 11:15]--[2014-09-06 Sat 11:18] =>  0:03
+	 :END:
+	 :PROPERTIES:
+	 :Effort:   0:30
+	 :END:
+******** NEXT Evaluate webwork experience
+	 DEADLINE: <2014-09-13 Sat>
+	 :PROPERTIES:
+	 :Effort:   1:00
+	 :END:
+- go through emails
+- write a brief report
 ****** Clocking
 ******* Admin
 ******* Office hours
@@ -11060,8 +11107,12 @@ Lectures in calendar and tasks like planning lectures.
 	  :PROPERTIES:
 	  :Effort:   0:15
 	  :END:
-********* TODO Post week 5 summary
+********* CANCELLED Post week 5 summary
 	  DEADLINE: <2014-09-04 Thu>
+	  :LOGBOOK:
+	  - State "CANCELLED"  from "TODO"       [2014-09-06 Sat 10:51] \\
+	    Can't be bothered and the students probably don't care now anyway!
+	  :END:
 	  :PROPERTIES:
 	  :Effort:   0:15
 	  :END:
