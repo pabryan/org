@@ -10498,8 +10498,9 @@ Lectures in calendar and tasks like planning lectures.
 	:Effort:   0:15
 	:END:
 [2014-08-06 Wed 17:25]
-******* TODO Lectures
+******* DONE Lectures
 	:LOGBOOK:
+	- State "DONE"       from "TODO"       [2014-09-07 Sun 15:19]
 	CLOCK: [2014-07-29 Tue 16:00]--[2014-07-29 Tue 16:05] =>  0:05
 	CLOCK: [2014-06-20 Fri 17:26]--[2014-06-20 Fri 17:28] =>  0:02
 	:END:
@@ -10523,7 +10524,10 @@ Lectures in calendar and tasks like planning lectures.
 	 :PROPERTIES:
 	 :Effort:   0:15
 	 :END:
-******** TODO Prepare Lectures
+******** DONE Prepare Lectures
+	 :LOGBOOK:
+	 - State "DONE"       from "TODO"       [2014-09-07 Sun 15:19]
+	 :END:
 ********* DONE Week 1
 	  :LOGBOOK:
 	  - State "DONE"       from "TODO"       [2014-08-23 Sat 16:35]
@@ -10743,7 +10747,10 @@ Lectures in calendar and tasks like planning lectures.
 	   :Effort:   1:00
 	   :END:
 
-********* TODO Week 5
+********* DONE Week 5
+	  :LOGBOOK:
+	  - State "DONE"       from "TODO"       [2014-09-07 Sun 15:19]
+	  :END:
 ********** DONE Prepare outline 5
 	   SCHEDULED: <2014-06-25 Wed>
 	   :LOGBOOK:
@@ -10793,8 +10800,9 @@ Lectures in calendar and tasks like planning lectures.
 	   :Effort:   1:00
 	   :END:
 
-******* TODO Exams
+******* DONE Exams
 	:LOGBOOK:
+	- State "DONE"       from "TODO"       [2014-09-07 Sun 15:19]
 	CLOCK: [2014-06-18 Wed 18:40]--[2014-06-18 Wed 18:41] =>  0:01
 	:END:
 ******** DONE Create Exam Schedule
@@ -10860,7 +10868,10 @@ Lectures in calendar and tasks like planning lectures.
 	  CLOCK: [2014-08-10 Sun 19:51]--[2014-08-10 Sun 20:00] =>  0:09
 	  :END:
 	  [2014-08-10 Sun 16:59]
-******** TODO Midterm 2
+******** DONE Midterm 2
+	 :LOGBOOK:
+	 - State "DONE"       from "TODO"       [2014-09-07 Sun 15:19]
+	 :END:
 ********* DONE Write Midterm 2
 	  SCHEDULED: <2014-08-18 Mon>
 	  :LOGBOOK:
@@ -10914,9 +10925,14 @@ Lectures in calendar and tasks like planning lectures.
 	  :Effort:   0:10
 	  :END:
 
-********* TODO Write MT2 solutions
-******** TODO Final
+********* CANCELLED Write MT2 solutions
+	  :LOGBOOK:
+	  - State "CANCELLED"  from "TODO"       [2014-09-07 Sun 15:19] \\
+	    Not going to write solutions.
+	  :END:
+******** DONE Final
 	 :LOGBOOK:
+	 - State "DONE"       from "TODO"       [2014-09-07 Sun 15:19]
 	 CLOCK: [2014-08-31 Sun 22:31]--[2014-08-31 Sun 22:40] =>  0:09
 	 :END:
 ********* DONE Upload sample exams
@@ -11038,8 +11054,14 @@ Lectures in calendar and tasks like planning lectures.
 	 :PROPERTIES:
 	 :Effort:   1:00
 	 :END:
-******* TODO Misc
-******* TODO Piazza
+******* DONE Misc
+	:LOGBOOK:
+	- State "DONE"       from "TODO"       [2014-09-07 Sun 15:19]
+	:END:
+******* DONE Piazza
+	:LOGBOOK:
+	- State "DONE"       from "TODO"       [2014-09-07 Sun 15:19]
+	:END:
 ******** DONE Student list
 	 :LOGBOOK:
 	 - State "DONE"       from "TODO"       [2014-08-18 Mon 14:51]
@@ -11067,8 +11089,9 @@ Lectures in calendar and tasks like planning lectures.
 	  - State "CANCELLED"  from "TODO"       [2014-08-17 Sun 17:20] \\
 	    Can't export piazza student list.
 	  :END:
-******** TODO Summary
+******** DONE Summary
 	 :LOGBOOK:
+	 - State "DONE"       from "TODO"       [2014-09-07 Sun 15:19]
 	 CLOCK: [2014-08-29 Fri 17:28]--[2014-08-29 Fri 17:29] =>  0:01
 	 :END:
 ********* DONE Post week 1 summary
@@ -11402,15 +11425,26 @@ I was emailed by the iClicker people about a large class I'm teaching. How do th
   :END:
 [2013-02-25 Mon 10:13]
 See email from worldscientific4@mail3.wspc.com
-*** TODO Email John Eggers for teaching discussion
+*** DONE Email John Eggers for teaching discussion
   <2013-10-04 Fri>
   :LOGBOOK:
+  - State "DONE"       from "TODO"       [2014-09-07 Sun 15:20]
   CLOCK: [2013-09-22 Sun 10:19]--[2013-09-22 Sun 10:20] =>  0:01
   :END:
     :PROPERTIES:
     :ID:       5b6d5b4e-a15a-425c-9374-ce623dfaa764
     :END:
 [2013-09-22 Sun 10:19]
+*** TODO Grading
+**** NEXT Create python script to calculate grades
+     :LOGBOOK:
+     CLOCK: [2014-09-07 Sun 20:09]--[2014-09-07 Sun 20:29] =>  0:20
+     CLOCK: [2014-09-07 Sun 17:03]--[2014-09-07 Sun 18:57] =>  1:54
+     CLOCK: [2014-09-07 Sun 15:21]--[2014-09-07 Sun 16:27] =>  1:06
+     :END:
+     :PROPERTIES:
+     :Effort:   4:00
+     :END:
 ** Teaching as research
 *** SOMEDAY Write org-mode teaching paper
 Use a course as a guinea pig for using the method
