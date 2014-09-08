@@ -4087,6 +4087,25 @@ Is there a consistent (say providing ZFC is consistent) set theory without the e
        CLOCK: [2014-04-28 Mon 11:39]--[2014-04-28 Mon 12:14] =>  0:35
        :END:
 **** Notes
+*** TODO Cartan-Hadamard Isoperimetric Profile
+**** Notes
+**** Conjectures
+***** Ball profile
+- This is defined to be the least perimeter among all geodesic balls of given volume.
+- Conjecture: Compactness. There exists a minimiser.
+- Conjecture (theorem?): The ball profile is bounded below by the constant curvature profile of curvature bigger than the sup of the original curvature.
+***** Concave envelope
+- Conjecture: The concave envelope is bounded below by the constant curvature profile with constant curvature bigger than the sup of the original curvature.
+***** Ricci flow
+- Conjecture: The ball profile/concave profile converges to the constant curvature profile.
+- Conjecture: If the isoperimetric profile is not bounded below the constant curvature profile, then under the Ricci flow the limit is also not bounded below by the const curvature profile.
+- Conjecture: The normalised profile of the constant curvature metric is fixed under the Ricci flow. This should just be that the normalised profile is the same for all constant curvature metrics.
+**** Tasks
+***** Writing
+****** NEXT Write up conjectures.
+       SCHEDULED: <2014-10-01 Wed>
+****** NEXT Write up variations.
+       SCHEDULED: <2014-10-01 Wed>
 ** Reading
    :PROPERTIES:
    :ID:       3b692ea2-10eb-4586-ae3e-2006ce6a3c0e
