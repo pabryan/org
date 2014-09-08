@@ -462,48 +462,55 @@ https://secure.k12online.us/innovations-academy-charter-school
 - Bryan
 - 67dogs43
 **** Lunch
-***** NEXT Order kids lunch
+***** TODO Order lunches
+****** DONE Order kids lunch
       DEADLINE: <2014-09-07 Sun>
+      :LOGBOOK:
+      - State "DONE"       from "NEXT"       [2014-09-08 Mon 11:48]
+      :END:
 https://voa-healthymeals.orderlunches.com/
-***** NEXT Order kids lunch
+****** DONE Order kids lunch
       DEADLINE: <2014-09-14 Sun>
+      :LOGBOOK:
+      - State "DONE"       from "NEXT"       [2014-09-08 Mon 11:48]
+      :END:
 https://voa-healthymeals.orderlunches.com/
-***** NEXT Order kids lunch
+****** DONE Order kids lunch
       DEADLINE: <2014-09-21 Sun>
+      :LOGBOOK:
+      - State "DONE"       from "NEXT"       [2014-09-08 Mon 11:48]
+      :END:
 https://voa-healthymeals.orderlunches.com/
-***** NEXT Order kids lunch
+****** DONE Order kids lunch
       DEADLINE: <2014-09-28 Sun>
+      :LOGBOOK:
+      - State "DONE"       from "NEXT"       [2014-09-08 Mon 11:48]
+      :END:
 https://voa-healthymeals.orderlunches.com/
-***** NEXT Order kids lunch
-      DEADLINE: <2014-10-05 Sun>
+****** NEXT Order kids lunch
+      DEADLINE: <2014-10-01 Wed>
 https://voa-healthymeals.orderlunches.com/
-***** NEXT Order kids lunch
-      DEADLINE: <2014-10-12 Sun>
+****** NEXT Order kids lunch
+      DEADLINE: <2014-11-01 Sat>
 https://voa-healthymeals.orderlunches.com/
-***** NEXT Order kids lunch
-      DEADLINE: <2014-10-19 Sun>
+****** NEXT Order kids lunch
+      DEADLINE: <2014-12-01 Mon>
 https://voa-healthymeals.orderlunches.com/
-***** NEXT Order kids lunch
-      DEADLINE: <2014-10-26 Sun>
+****** NEXT Order kids lunch
+      DEADLINE: <2015-01-01 Thu>
 https://voa-healthymeals.orderlunches.com/
-***** NEXT Order kids lunch
-      DEADLINE: <2014-11-02 Sun>
+****** NEXT Order kids lunch
+      DEADLINE: <2015-02-01 Sun>
 https://voa-healthymeals.orderlunches.com/
-***** NEXT Order kids lunch
-      DEADLINE: <2014-11-09 Sun>
+****** NEXT Order kids lunch
+      DEADLINE: <2015-03-01 Sun>
 https://voa-healthymeals.orderlunches.com/
-***** NEXT Order kids lunch
-      DEADLINE: <2014-11-16 Sun>
+****** NEXT Order kids lunch
+      DEADLINE: <2015-04-01 Wed>
 https://voa-healthymeals.orderlunches.com/
-***** NEXT Order kids lunch
-      DEADLINE: <2014-11-30 Sun>
-https://voa-healthymeals.orderlunches.com/
-***** NEXT Order kids lunch
-      DEADLINE: <2014-12-07 Sun>
-https://voa-healthymeals.orderlunches.com/
-***** NEXT Order kids lunch
-      DEADLINE: <2014-12-14 Sun>
-https://voa-healthymeals.orderlunches.com/
+***** Kids Hot Lunch
+<2014-09-16 Tue>
+<2014-09-24 Wed>
 *** Forms
 **** DONE Turn in monthly form
      DEADLINE: <2013-10-11 Fri>
