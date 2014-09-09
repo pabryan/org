@@ -9943,11 +9943,16 @@ received 25/25 points.
 	 :END:
 ******* TODO Grades
 ******** NEXT Enter grades
+	 DEADLINE: <2014-09-09 Tue>
+	 :LOGBOOK:
+	 CLOCK: [2014-09-09 Tue 15:05]--[2014-09-09 Tue 15:50] =>  0:45
+	 :END:
 	 :PROPERTIES:
 	 :Effort:   1:00
 	 :END:
-******* TODO Piazza
+******* DONE Piazza
 	:LOGBOOK:
+	- State "DONE"       from "TODO"       [2014-09-09 Tue 15:05]
 	CLOCK: [2014-07-31 Thu 17:58]--[2014-07-31 Thu 17:59] =>  0:01
 	:END:
 ******** DONE Set up Piazza
@@ -9967,7 +9972,10 @@ received 25/25 points.
 	 :LOGBOOK:
 	 - State "DONE"       from "TODO"       [2014-08-10 Sun 15:29]
 	 :END:
-******** TODO Summary
+******** DONE Summary
+	 :LOGBOOK:
+	 - State "DONE"       from "TODO"       [2014-09-09 Tue 15:05]
+	 :END:
 ********* DONE Post week 1 summary
 	  DEADLINE: <2014-08-10 Sun>
 	  :LOGBOOK:
@@ -10187,9 +10195,10 @@ part a should be in terms of $t$ only.
 	 :PROPERTIES:
 	 :Effort:   0:15
 	 :END:
-******** NEXT Download homework scores
+******** DONE Download homework scores
 	 DEADLINE: <2014-09-08 Mon>
 	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2014-09-09 Tue 11:52]
 	 CLOCK: [2014-09-06 Sat 11:15]--[2014-09-06 Sat 11:18] =>  0:03
 	 :END:
 	 :PROPERTIES:
@@ -11050,7 +11059,11 @@ Lectures in calendar and tasks like planning lectures.
 [2014-08-16 Sat 12:38]
 
 ******* TODO Grades
-******** NEXT Enter grades
+******** DONE Enter grades
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2014-09-09 Tue 13:17]
+	 CLOCK: [2014-09-09 Tue 12:45]--[2014-09-09 Tue 13:17] =>  0:32
+	 :END:
 	 :PROPERTIES:
 	 :Effort:   1:00
 	 :END:
@@ -11438,6 +11451,7 @@ See email from worldscientific4@mail3.wspc.com
 *** TODO Grading
 **** NEXT Create python script to calculate grades
      :LOGBOOK:
+     CLOCK: [2014-09-09 Tue 12:12]--[2014-09-09 Tue 12:45] =>  0:33
      CLOCK: [2014-09-08 Mon 18:22]--[2014-09-08 Mon 19:16] =>  0:54
      CLOCK: [2014-09-07 Sun 20:09]--[2014-09-07 Sun 20:29] =>  0:20
      CLOCK: [2014-09-07 Sun 17:03]--[2014-09-07 Sun 18:57] =>  1:54
