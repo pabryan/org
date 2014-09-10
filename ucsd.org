@@ -11067,6 +11067,15 @@ Lectures in calendar and tasks like planning lectures.
 	 :PROPERTIES:
 	 :Effort:   1:00
 	 :END:
+******** NEXT Update student grades
+	 SCHEDULED: <2014-09-11 Thu>
+	 :LOGBOOK:
+	 CLOCK: [2014-09-10 Wed 15:21]
+	 :END:
+- Fernando Granizo: A+
+- Hyun Hong: A
+- Daniel Lee: A+
+
 ******* DONE Misc
 	:LOGBOOK:
 	- State "DONE"       from "TODO"       [2014-09-07 Sun 15:19]
