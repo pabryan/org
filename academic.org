@@ -5186,10 +5186,18 @@ My experiences learning/implementing these strategies.
   - check PGML
   - should be extensible, with modular design. Some standard routines should be provided in the standard module.
   - modules
-    - Sage: this would allow complicated processing.
-
+    - Sage: this would allow complicated processing! May be overkill, but maybe not...
+    - webwork questions.
+      - can I write a parser that converts webwork questions?
+      - or can I use them via a webwork module?
 
 **** Tasks
+***** TODO Planning
+****** NEXT Investigate web frameworks
+- python/django
+- ruby/rails
+****** NEXT Investigate markdown/latex/web forms
+****** NEXT Investigate front-end (bootstrap/foundation,...)
 **** References
 * Jobs								       :JOBS:
   :PROPERTIES:
