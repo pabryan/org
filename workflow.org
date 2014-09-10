@@ -1841,7 +1841,7 @@ http://gmane.org
   :END:
 ** Organisation
   :LOGBOOK:
-  CLOCK: [2014-09-10 Wed 15:32]
+  CLOCK: [2014-09-10 Wed 15:32]--[2014-09-10 Wed 15:49] =>  0:17
   CLOCK: [2014-09-10 Wed 13:33]--[2014-09-10 Wed 15:21] =>  1:48
   CLOCK: [2014-09-10 Wed 10:05]--[2014-09-10 Wed 10:07] =>  0:02
   CLOCK: [2014-09-09 Tue 11:55]--[2014-09-09 Tue 12:12] =>  0:17
@@ -3412,6 +3412,7 @@ Check how I did last month. I guess the review and plan could probably go togeth
 ** NEXT Daily Review [0/12]
    SCHEDULED: <2014-09-09 Tue .+1d/2d>
    :LOGBOOK:
+   CLOCK: [2014-09-10 Wed 16:35]
    - State "DONE"       from "NEXT"       [2014-09-08 Mon 20:18]
    CLOCK: [2014-09-08 Mon 20:16]--[2014-09-08 Mon 20:18] =>  0:02
    - State "DONE"       from "NEXT"       [2014-09-02 Tue 22:25]
@@ -4638,6 +4639,7 @@ When I set up scoring the day:
 ** NEXT Weekly Review [0/20]
    SCHEDULED: <2014-06-16 Mon +1w>
    :LOGBOOK:
+   CLOCK: [2014-09-10 Wed 15:49]--[2014-09-10 Wed 16:35] =>  0:46
    CLOCK: [2014-07-15 Tue 19:31]--[2014-07-15 Tue 19:53] =>  0:22
    CLOCK: [2014-07-05 Sat 10:33]--[2014-07-05 Sat 11:23] =>  0:50
    CLOCK: [2014-07-01 Tue 18:53]--[2014-07-01 Tue 19:18] =>  0:25
