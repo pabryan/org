@@ -5166,6 +5166,31 @@ My experiences learning/implementing these strategies.
 - Difficulty
   - Challenging but not too hard.
   - Don't forget students need to solve some simple problems to get a feel for the material and to feel they can do the course and accomplish something
+** Homework
+*** TODO Modern online homework
+**** Notes
+***** Architecture
+- Python: This is what the scientific community uses so should be easiest for them to learn.
+- Ruby/Rails: This could make for rapid development, but academics will be less familiar with it.
+- Django: If it's Python, then Django is the standard for a web app.
+- Markdown/LaTeX: questions should be written in markdown/LaTeX to make it the simplest markup.
+  - markdown forms
+    - https://github.com/justinmc/markdown-html-form
+    - https://github.com/brikis98/wmd
+    - https://github.com/maleldil
+    - https://github.com/justinmc/markdown-html-form
+    - how to do client side validation? Do I specify in allowed format in markdown, or in a separate place?
+- bootstrap: make it pretty using modern standards!
+- question processing
+  - no explicit code allowed!
+  - check PGML
+  - should be extensible, with modular design. Some standard routines should be provided in the standard module.
+  - modules
+    - Sage: this would allow complicated processing.
+
+
+**** Tasks
+**** References
 * Jobs								       :JOBS:
   :PROPERTIES:
   :ID:       2b0982fc-9928-4b13-bfd4-c4c0ae7c3094
