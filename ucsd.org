@@ -11068,9 +11068,10 @@ Lectures in calendar and tasks like planning lectures.
 	 :Effort:   1:00
 	 :END:
 ******** NEXT Update student grades
+	 [[http://egrades.ucsd.edu/]]
 	 SCHEDULED: <2014-09-11 Thu>
 	 :LOGBOOK:
-	 CLOCK: [2014-09-10 Wed 15:21]
+	 CLOCK: [2014-09-10 Wed 15:21]--[2014-09-10 Wed 15:32] =>  0:11
 	 :END:
 - Fernando Granizo: A+
 - Hyun Hong: A
