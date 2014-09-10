@@ -10393,6 +10393,9 @@ Peter 110
 	 :LOGBOOK:
 	 CLOCK: [2014-09-05 Fri 07:50]--[2014-09-05 Fri 11:15] =>  3:25
 	 :END:
+	 :PROPERTIES:
+	 :Effort:   4:00
+	 :END:
 <2014-09-05 Fri 08:00-11:00>
 ******* Homework
 ******** Homework 1 Due
