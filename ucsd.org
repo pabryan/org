@@ -9942,9 +9942,10 @@ received 25/25 points.
 	 CLOCK: [2014-08-04 Mon 17:03]--[2014-08-04 Mon 17:10] =>  0:07
 	 :END:
 ******* TODO Grades
-******** NEXT Enter grades
+******** DONE Enter grades
 	 DEADLINE: <2014-09-09 Tue>
 	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2014-09-10 Wed 10:07]
 	 CLOCK: [2014-09-09 Tue 15:05]--[2014-09-09 Tue 15:50] =>  0:45
 	 :END:
 	 :PROPERTIES:
@@ -10012,7 +10013,6 @@ received 25/25 points.
 	  :Effort:   0:15
 	  :END:
 ********* CANCELLED Post week 5 summary
-	  DEADLINE: <2014-09-04 Thu>
 	  :LOGBOOK:
 	  - State "CANCELLED"  from "TODO"       [2014-09-06 Sat 10:50] \\
 	    Can't be bothered and the students probably don't care now anyway!
