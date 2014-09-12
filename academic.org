@@ -1353,6 +1353,7 @@ Given $X$ in the equator, let $\rho_{\alpha}(X)$ be the infimum of the lengths o
 
 ******* Meet Janelle
 	:LOGBOOK:
+	CLOCK: [2014-09-10 Wed 10:08]--[2014-09-10 Wed 13:33] =>  3:25
 	CLOCK: [2014-04-03 Thu 09:58]--[2014-04-03 Thu 11:49] =>  1:51
 	CLOCK: [2014-02-13 Thu 14:50]--[2014-02-13 Thu 16:05] =>  1:15
 	CLOCK: [2014-01-06 Mon 14:57]--[2014-01-06 Mon 15:42] =>  0:45
@@ -5165,6 +5166,99 @@ My experiences learning/implementing these strategies.
 - Difficulty
   - Challenging but not too hard.
   - Don't forget students need to solve some simple problems to get a feel for the material and to feel they can do the course and accomplish something
+** Homework
+*** TODO Modern online homework
+**** Notes
+***** Architecture
+- Python: This is what the scientific community uses so should be easiest for them to learn.
+- Ruby/Rails: This could make for rapid development, but academics will be less familiar with it.
+- Django: If it's Python, then Django is the standard for a web app.
+- Markdown/LaTeX: questions should be written in markdown/LaTeX to make it the simplest markup.
+  - markdown forms
+    - https://github.com/justinmc/markdown-html-form
+    - https://github.com/brikis98/wmd
+    - https://github.com/maleldil
+    - https://github.com/justinmc/markdown-html-form
+    - how to do client side validation? Do I specify in allowed format in markdown, or in a separate place?
+- bootstrap: make it pretty using modern standards!
+- question processing
+  - no explicit code allowed!
+  - check PGML
+  - should be extensible, with modular design. Some standard routines should be provided in the standard module.
+  - modules
+    - Sage: this would allow complicated processing! May be overkill, but maybe not...
+    - webwork questions.
+      - can I write a parser that converts webwork questions?
+      - or can I use them via a webwork module?
+
+***** Software Setup
+****** Python
+- $ sudo apt-get install python3
+- $ sudo apt-get install python3-pip
+****** Python venv
+******* Create virtual enviroment
+- $ pyvenv-3.4 ~/myvenv --without-pip
+******* Activate/Deactivate
+- $ source ~/myvenv/bin/activate
+- $ deactivate
+******* Setup pip
+$ cd ~/myvenv
+$ mkdir pypioffline
+$ cd pypioffline
+$ curl -O https://bootstrap.pypa.io/ez_setup.py
+$ python ez_setup.py
+$ easy_install pip
+****** Python virtualenv (outdated?)
+- $ sudo pip3 install virtualenv
+- $ sudo pip3 install virtualenvwrapper
+- $ editor ~/.profile_python
+  source /usr/local/bin/virtualenvwrapper.sh
+- $ export WORKON_HOME=~/Envs
+- $ mkdir -p $WORKON_HOME
+****** Django
+From virtual environment
+$ pip install django
+***** Django project setup
+- $ django-admin startproject <projectname>
+- $ cd <projectname>
+- $ editor <projectname>/settings.py
+  - TIME_ZONE = 'US/Pacific'
+  - 'ENGINE', 'NAME'
+- $ python manage.py migrate
+- $ python manage.py runserver
+**** Tasks
+***** TODO Planning
+****** DONE Investigate web frameworks
+       :LOGBOOK:
+       - State "DONE"       from "NEXT"       [2014-09-11 Thu 13:50]
+       :END:
+- python/django
+- ruby/rails
+****** DONE Set up django
+       :LOGBOOK:
+       - State "DONE"       from "NEXT"       [2014-09-11 Thu 13:51]
+       CLOCK: [2014-09-11 Thu 12:33]--[2014-09-11 Thu 13:50] =>  1:17
+       :END:
+****** NEXT Work through django tutorial
+       :LOGBOOK:
+       CLOCK: [2014-09-11 Thu 18:16]--[2014-09-11 Thu 18:35] =>  0:19
+       CLOCK: [2014-09-11 Thu 14:25]--[2014-09-11 Thu 15:01] =>  0:36
+       :END:
+       :PROPERTIES:
+       :Effort:   10:00
+       :END:
+- make notes and set up online homework project at the same time
+****** NEXT Investigate markdown/latex/web forms
+****** NEXT Investigate front-end (bootstrap/foundation,...)
+**** References
+***** Django
+[[https://docs.djangoproject.com/]]
+https://docs.djangoproject.com/en/1.7/intro/
+http://chimera.labs.oreilly.com/books/1234000000754
+http://www.tdd-django-tutorial.com/
+http://django-bootstrap3.readthedocs.org/
+https://github.com/dyve/django-bootstrap3
+http://www.django-rest-framework.org/
 * Jobs								       :JOBS:
   :PROPERTIES:
   :ID:       2b0982fc-9928-4b13-bfd4-c4c0ae7c3094

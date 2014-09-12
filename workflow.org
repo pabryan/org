@@ -1841,6 +1841,10 @@ http://gmane.org
   :END:
 ** Organisation
   :LOGBOOK:
+  CLOCK: [2014-09-11 Thu 13:50]--[2014-09-11 Thu 13:53] =>  0:03
+  CLOCK: [2014-09-10 Wed 15:32]--[2014-09-10 Wed 15:49] =>  0:17
+  CLOCK: [2014-09-10 Wed 13:33]--[2014-09-10 Wed 15:21] =>  1:48
+  CLOCK: [2014-09-10 Wed 10:05]--[2014-09-10 Wed 10:07] =>  0:02
   CLOCK: [2014-09-09 Tue 11:55]--[2014-09-09 Tue 12:12] =>  0:17
   CLOCK: [2014-09-09 Tue 10:15]--[2014-09-09 Tue 10:35] =>  0:20
   CLOCK: [2014-09-08 Mon 18:00]--[2014-09-08 Mon 18:22] =>  0:22
@@ -3407,8 +3411,10 @@ Set some goals for the month. I should check someday projects for inclusion in t
 Check how I did last month. I guess the review and plan could probably go together. This is all broad stuff
 
 ** NEXT Daily Review [0/12]
-   SCHEDULED: <2014-09-09 Tue .+1d/2d>
+   SCHEDULED: <2014-09-11 Thu .+1d/2d>
    :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2014-09-10 Wed 16:43]
+   CLOCK: [2014-09-10 Wed 16:35]--[2014-09-10 Wed 16:43] =>  0:08
    - State "DONE"       from "NEXT"       [2014-09-08 Mon 20:18]
    CLOCK: [2014-09-08 Mon 20:16]--[2014-09-08 Mon 20:18] =>  0:02
    - State "DONE"       from "NEXT"       [2014-09-02 Tue 22:25]
@@ -3809,7 +3815,7 @@ Check how I did last month. I guess the review and plan could probably go togeth
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
    :ID:       616c5bd9-d941-4fcc-8874-2ff3c9e96b4a
-   :LAST_REPEAT: [2014-09-08 Mon 20:18]
+   :LAST_REPEAT: [2014-09-10 Wed 16:43]
    :END:
 
 What to review:
@@ -3832,8 +3838,12 @@ When I set up scoring the day:
 - [ ] Collate data such as sleep, weight, exercise, diet etc.
 
 ** NEXT Daily Plan [0/7]
-   SCHEDULED: <2014-09-10 Wed .+1d/2d>
+   SCHEDULED: <2014-09-12 Fri .+1d/2d>
    :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2014-09-11 Thu 12:33]
+   CLOCK: [2014-09-11 Thu 11:46]--[2014-09-11 Thu 12:33] =>  0:47
+   - State "DONE"       from "NEXT"       [2014-09-10 Wed 15:32]
+   CLOCK: [2014-09-10 Wed 10:07]--[2014-09-10 Wed 10:08] =>  0:01
    - State "DONE"       from "NEXT"       [2014-09-09 Tue 11:55]
    CLOCK: [2014-09-09 Tue 11:52]--[2014-09-09 Tue 11:55] =>  0:03
    - State "DONE"       from "NEXT"       [2014-09-08 Mon 11:40]
@@ -4618,7 +4628,7 @@ When I set up scoring the day:
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
    :ID:       ef051ee0-1113-4604-b355-450a5a47848b
-   :LAST_REPEAT: [2014-09-09 Tue 11:55]
+   :LAST_REPEAT: [2014-09-11 Thu 12:33]
    :END:
 
 - [ ] Check agenda/focus
@@ -4630,9 +4640,10 @@ When I set up scoring the day:
 - [ ] Do short tasks
 - [ ] Record morning health stats
 
-** NEXT Weekly Review [18/20]
+** NEXT Weekly Review [0/20]
    SCHEDULED: <2014-06-16 Mon +1w>
    :LOGBOOK:
+   CLOCK: [2014-09-10 Wed 15:49]--[2014-09-10 Wed 16:35] =>  0:46
    CLOCK: [2014-07-15 Tue 19:31]--[2014-07-15 Tue 19:53] =>  0:22
    CLOCK: [2014-07-05 Sat 10:33]--[2014-07-05 Sat 11:23] =>  0:50
    CLOCK: [2014-07-01 Tue 18:53]--[2014-07-01 Tue 19:18] =>  0:25
@@ -4769,42 +4780,58 @@ When I set up scoring the day:
 
 What to review:
 
-- [X] Check holding directory
+- [ ] Check holding directory
   [[file:~/holding]]
-- [X] Check holding email folder
-- [X] Review weekly agenda =F12 a w//=
-- [X] Check clocking data for past week =v c=
+- [ ] Check holding email folder
+- [ ] Review weekly agenda =F12 a w//=
+- [ ] Check clocking data for past week =v c=
   - fix up any errors
-- [X] Review clock report for past week =R=
+- [ ] Review clock report for past week =R=
   - Check where we spent time (too much or too little) and rectify this week
-- [X] Look at entire agenda for today  =F12 SPC=
-- [X] Check un-committed work
-- [X] Refile tasks
-- [X] Weekly clean up
-  - [X] Clean up Downloads
-  - [X] Clean up tmp
-  - [X] Clean up tablet
-  - [X] Clean up phone
-- [X] Process incoming information
-  - [X] feedly
-  - [X] pocket
-- [X] Plan the upcoming week
+- [ ] Look at entire agenda for today  =F12 SPC=
+- [ ] Check un-committed work
+- [ ] Refile tasks
+- [ ] Weekly clean up
+  - [ ] Clean up Downloads
+  - [ ] Clean up tmp
+  - [ ] Clean up tablet
+  - [ ] Clean up phone
+- [ ] Process incoming information
+  - [ ] feedly
+  - [ ] pocket
+- [ ] Plan the upcoming week
   - Theme you days: teaching, admin/service, research, students, writing
   - [[file:daythemes.org][file:~/org/daythemes.org]]
-  - Schedule tasks for the week (writing, admin, etc.). See [[file:goals.org::*Weekly%20time][Weekly time]].
-- [X] Review focus projects 
-- [X] Set focus
+  - [ ] Schedule tasks for the week. See [[file:goals.org::*Weekly%20time][Weekly time]].
+    - [ ] Teaching
+      - [ ] lecture planning
+      - [ ] exam writing
+      - [ ] office hours
+      - [ ] lectures
+      - [ ] online discussion (piazza)
+      - [ ] blog
+      - [ ] general admin
+    - [ ] Research
+      - [ ] writing	
+      - [ ] calculation
+      - [ ] reading
+      - [ ] finding references
+    - [ ] Coding
+      - [ ] for projects
+      - [ ] plots   
+- [ ] Review focus projects 
+- [ ] Set focus
 - [ ] Check follow-up paper folder
 - [ ] Collate the weeks: pad scribbles, org-mode notes, phone notes, etc.
-- [X] Check Finances
+- [ ] Check Finances
   - Check bank accounts and compare with what's still to come
   - Plan the weeks budget
   - Update monthly transactions
-- [X] Copy music to phone
-- [X] Share photos on Google+
-- [X] Update Abundant Harvest order
+- [ ] Copy music to phone
+- [ ] Share photos on Google+
+- [ ] Update Abundant Harvest order
   - http://www.abundantharvestorganics.com/
-- [X] Order meat
+- [ ] Order meat
   - http://www.son-riseranchstore.com/
 
 ** NEXT Monthly (Quarterly?) Plan/Review [0/16]
