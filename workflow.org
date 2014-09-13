@@ -57,9 +57,10 @@ I think I need some sort of filter for this.
 - Put common things besides bib stuff into a setup file
 - All the basic publish options should also be in a master file
 **** General
-***** NEXT Prevent new org-export from polluting src directory
+***** DONE Prevent new org-export from polluting src directory
   SCHEDULED: <2014-09-01 Mon>
   :LOGBOOK:
+  - State "DONE"       from "NEXT"       [2014-09-12 Fri 14:36]
   CLOCK: [2014-04-18 Fri 12:38]--[2014-04-18 Fri 12:39] =>  0:01
   :END:
 [2014-04-18 Fri 12:38]
@@ -1841,6 +1842,7 @@ http://gmane.org
   :END:
 ** Organisation
   :LOGBOOK:
+  CLOCK: [2014-09-12 Fri 14:27]--[2014-09-12 Fri 14:39] =>  0:12
   CLOCK: [2014-09-11 Thu 13:50]--[2014-09-11 Thu 13:53] =>  0:03
   CLOCK: [2014-09-10 Wed 15:32]--[2014-09-10 Wed 15:49] =>  0:17
   CLOCK: [2014-09-10 Wed 13:33]--[2014-09-10 Wed 15:21] =>  1:48
@@ -3838,8 +3840,11 @@ When I set up scoring the day:
 - [ ] Collate data such as sleep, weight, exercise, diet etc.
 
 ** NEXT Daily Plan [0/7]
-   SCHEDULED: <2014-09-12 Fri .+1d/2d>
+   SCHEDULED: <2014-09-13 Sat .+1d/2d>
    :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2014-09-12 Fri 14:27]
+   CLOCK: [2014-09-12 Fri 14:24]--[2014-09-12 Fri 14:27] =>  0:03
+   CLOCK: [2014-09-12 Fri 14:18]--[2014-09-12 Fri 14:22] =>  0:04
    - State "DONE"       from "NEXT"       [2014-09-11 Thu 12:33]
    CLOCK: [2014-09-11 Thu 11:46]--[2014-09-11 Thu 12:33] =>  0:47
    - State "DONE"       from "NEXT"       [2014-09-10 Wed 15:32]
@@ -4628,7 +4633,7 @@ When I set up scoring the day:
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
    :ID:       ef051ee0-1113-4604-b355-450a5a47848b
-   :LAST_REPEAT: [2014-09-11 Thu 12:33]
+   :LAST_REPEAT: [2014-09-12 Fri 14:27]
    :END:
 
 - [ ] Check agenda/focus

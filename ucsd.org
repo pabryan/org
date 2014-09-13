@@ -11091,10 +11091,11 @@ Lectures in calendar and tasks like planning lectures.
 	 :PROPERTIES:
 	 :Effort:   1:00
 	 :END:
-******** NEXT Update student grades
+******** DONE Update student grades
 	 [[http://egrades.ucsd.edu/]]
 	 SCHEDULED: <2014-09-11 Thu>
 	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2014-09-12 Fri 14:20]
 	 CLOCK: [2014-09-10 Wed 15:21]--[2014-09-10 Wed 15:32] =>  0:11
 	 :END:
 - Fernando Granizo: A+
@@ -12519,12 +12520,15 @@ Abstract:
 	:END:
 
 ***** Polar dual and flows
-****** NEXT Prepare polar dual flow talk outline
+****** CANCELLED Prepare polar dual flow talk outline
        SCHEDULED: <2014-09-01 Mon>
+       :LOGBOOK:
+       - State "CANCELLED"  from "NEXT"       [2014-09-12 Fri 14:35] \\
+	 Don't really have time for it, and I don't think there's much of an audience anyway.
+       :END:
 
-****** NEXT Make weekly tasks
 ***** Non-smooth speed curvature flows 
-      SCHEDULED: <2014-09-01 Mon>
+
 ** UCSD seminars, colloquia
 *** Alexander Chorin
 <2014-04-07 Mon 16:00-17:00>
