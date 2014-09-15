@@ -1689,7 +1689,6 @@ This requires an estimate of $\int k f(k)$ analogous to Holder's for CSF where $
        	:ID:       9c3e45f9-6c61-48b8-b0e1-eaae4fd6514b
        	:END:
 ******** NEXT Try similarity soln as in CSF case
-	 SCHEDULED: <2014-09-01 Mon>
 	:LOGBOOK:
 	CLOCK: [2014-06-13 Fri 18:48]--[2014-06-13 Fri 20:10] =>  1:22
 	CLOCK: [2014-06-13 Fri 16:05]--[2014-06-13 Fri 17:15] =>  1:10
@@ -1701,9 +1700,9 @@ This requires an estimate of $\int k f(k)$ analogous to Holder's for CSF where $
 	CLOCK: [2013-07-20 Sat 14:50]--[2013-07-20 Sat 17:45] =>  2:55
 	CLOCK: [2013-07-20 Sat 09:50]--[2013-07-20 Sat 11:40] =>  1:50
 	:END:
-    :PROPERTIES:
-    :ID:       e33f844d-a7a7-406b-bf25-002f515cb649
-    :END:
+        :PROPERTIES:
+	:ID:       e33f844d-a7a7-406b-bf25-002f515cb649
+	:END:
 There is a remark by Ben that our function comes from seeking a similarity solution. Does this work for general $f$?
 ******** TODO Angenent comparison of curvature integrals
 	 :PROPERTIES:
