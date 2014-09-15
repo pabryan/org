@@ -11958,6 +11958,14 @@ https://maps.google.com/maps?client=ubuntu-browser&ie=UTF-8&q=Career+Services+Ce
       :LOGBOOK:
       CLOCK: [2014-05-01 Thu 15:59]--[2014-05-01 Thu 16:51] =>  0:52
       :END:
+** Online Homework
+*** Webwork
+**** Notes
+**** Tasks
+***** NEXT Convert questions to PGML
+      :LOGBOOK:
+      CLOCK: [2014-09-15 Mon 15:57]
+      :END:
 ** Delivery
 *** Notes
 - Piazza
@@ -11970,7 +11978,10 @@ https://maps.google.com/maps?client=ubuntu-browser&ie=UTF-8&q=Career+Services+Ce
       - State "DONE"       from "NEXT"       [2014-03-08 Sat 19:26]
       :END:
 <2014-05-01 Thu>
-***** NEXT Investigate webwork, piazza, blackboard (moodle?) integration
+***** DONE Investigate webwork, piazza, blackboard (moodle?) integration
+      :LOGBOOK:
+      - State "DONE"       from "NEXT"       [2014-09-15 Mon 15:56]
+      :END:
  <2014-06-01 Sun>
 
 * Seminars 							    :SEMINAR:

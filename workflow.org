@@ -1853,6 +1853,7 @@ http://gmane.org
   :END:
 ** Organisation
   :LOGBOOK:
+  CLOCK: [2014-09-15 Mon 14:30]--[2014-09-15 Mon 14:36] =>  0:06
   CLOCK: [2014-09-15 Mon 10:18]--[2014-09-15 Mon 10:37] =>  0:19
   CLOCK: [2014-09-12 Fri 14:27]--[2014-09-12 Fri 14:39] =>  0:12
   CLOCK: [2014-09-11 Thu 13:50]--[2014-09-11 Thu 13:53] =>  0:03
@@ -4661,9 +4662,10 @@ When I set up scoring the day:
 - [ ] Do short tasks
 - [ ] Record morning health stats
 
-** NEXT Weekly Review [14/20]
+** NEXT Weekly Review [16/20]
    SCHEDULED: <2014-06-16 Mon +1w>
    :LOGBOOK:
+   CLOCK: [2014-09-15 Mon 14:36]
    CLOCK: [2014-09-15 Mon 11:38]--[2014-09-15 Mon 12:38] =>  1:00
    CLOCK: [2014-09-10 Wed 15:49]--[2014-09-10 Wed 16:35] =>  0:46
    CLOCK: [2014-07-15 Tue 19:31]--[2014-07-15 Tue 19:53] =>  0:22
@@ -4843,8 +4845,8 @@ What to review:
       - [ ] plots   
 - [X] Review focus projects 
 - [X] Set focus
-- [ ] Check follow-up paper folder
-- [ ] Collate the weeks: pad scribbles, org-mode notes, phone notes, etc.
+- [X] Check follow-up paper folder
+- [X] Collate the weeks: pad scribbles, org-mode notes, phone notes, etc.
 - [ ] Check Finances
   - Check bank accounts and compare with what's still to come
   - Plan the weeks budget
@@ -4912,3 +4914,44 @@ What to review:
   :PROPERTIES:
   :ID:       1e2a3bac-b557-42d8-9f22-0741dfb5fa70
   :END:
+* Work Tasks
+** Admin
+- Reviews
+  - daily
+  - weekly
+  - monthly
+  - yearly
+** Academic service
+- Journals
+  - refereeing
+  - editing
+  - start OA journal/publishing
+- letters of recommendation
+** Academic admin
+- job applications
+- grant applications
+- research statements
+- travel planning
+- blogging
+- website
+** Teaching
+- lecturing
+- preparing lectures
+- maintain course website
+- office hours
+- grading
+- exam writing
+- blog
+- setting homework
+- student communication
+  - email
+  - discussion forums
+  - social media
+** Academic writing
+- papers
+- books
+- lecture notes
+- code
+- presentations
+- open notebook
+- blog
