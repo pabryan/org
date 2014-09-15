@@ -11495,6 +11495,11 @@ See email from worldscientific4@mail3.wspc.com
      :PROPERTIES:
      :Effort:   4:00
      :END:
+*** TODO Org Setup
+**** NEXT change lectures/office hours to tasks
+     SCHEDULED: <2014-09-15 Mon>
+[2014-08-13 Wed 17:13]
+That way clock and effort should show in agenda
 ** Teaching as research
 *** SOMEDAY Write org-mode teaching paper
 Use a course as a guinea pig for using the method
