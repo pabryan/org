@@ -559,6 +559,24 @@
 :END:
 [[papers:MR682063][MR682063-paper]]
 [[bib:MR682063][MR682063-bib]]
+***** On the structure of complete manifolds of nonnegative curvature
+:PROPERTIES:
+:Custom_ID: MR0309010
+:END:
+[[papers:MR0309010][MR0309010-paper]]
+[[bib:MR0309010][MR0309010-bib]]
+***** The splitting theorem for manifolds of nonnegative {R}icci curvature
+:PROPERTIES:
+:Custom_ID: MR0303460
+:END:
+[[papers:MR0303460][MR0303460-paper]]
+[[bib:MR0303460][MR0303460-bib]]
+***** The structure of complete manifolds of nonnegative curvature
+:PROPERTIES:
+:Custom_ID: MR0232310
+:END:
+[[papers:MR0232310][MR0232310-paper]]
+[[bib:MR0232310][MR0232310-bib]]
 **** 53C21 (1980-now) Methods of Riemannian geometry, including PDE methods; curvature restrictions :riemannian:
 ***** Proof of the {R}iemannian {P}enrose inequality using the positive mass theorem
 :PROPERTIES:
@@ -1373,6 +1391,12 @@ Here I need to do some more work since $u \mapsto g(\grad u, \grad u)$ is not a 
 :END:
 [[papers:2014arXiv1407.1153B][2014arXiv1407.1153B-paper]]
 [[bib:2014arXiv1407.1153B][2014arXiv1407.1153B-bib]]
+*** On the convexity of injectivity domains on nonfocal manifolds
+:PROPERTIES:
+:Custom_ID: 2014arXiv1404.0141F
+:END:
+[[papers:2014arXiv1404.0141F][2014arXiv1404.0141F-paper]]
+[[bib:2014arXiv1404.0141F][2014arXiv1404.0141F-bib]]
 * Misc
   :PROPERTIES:
   :COLUMNS: %75ITEM %TAGS
