@@ -1305,6 +1305,7 @@ Given $X$ in the equator, let $\rho_{\alpha}(X)$ be the infimum of the lengths o
 	CLOCK: [2014-08-29 Fri 13:54]--[2014-08-29 Fri 14:23] =>  0:29
 	:END:
 - short title: Convex Ancient CSF on $\sphere^2$.
+******* NEXT Tidy up
 ******* WAITING Update based on referee comments
 ****** DONE Maths
        :LOGBOOK:
@@ -1942,6 +1943,8 @@ This proves the inequality we need.  The remaining problem is to remove the symm
        :PROPERTIES:
        :ID:       c1250415-a95a-42ee-94cc-4bf6e967467e
        :END:
+****** NEXT Set up specific tasks for writing content
+       SCHEDULED: <2014-09-15 Mon>
 ****** NEXT Compile work into org file
        SCHEDULED: <2014-09-01 Mon>
        :LOGBOOK:
@@ -2954,6 +2957,7 @@ We would do it all in Minkowski space. I think the vector field gives the distan
        	:PROPERTIES:
        	:ID:       831b7f47-ac24-4779-a485-f627e289934a
        	:END:
+****** TODO Set up per chapter/section writing tasks
 ****** TODO Compile existing content
        :PROPERTIES:
        :ID:       95792719-f4e8-45ff-bf7c-7283c2a2dd2e
