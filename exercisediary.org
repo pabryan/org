@@ -2448,3 +2448,37 @@ Set 4 HR: 104
      :END:
 
      [2014-09-11 Thu 11:00]
+*** 2014-09-14 Sunday
+**** Flow Physique 4/1x4 
+     :LOGBOOK:
+     CLOCK: [2014-09-15 Mon 10:11]--[2014-09-15 Mon 10:12] =>  0:01
+     :END:
+:PROPERTIES:
+:Type: Conditioning
+:Intensity: Mod
+:RestHR: 64
+:FinalHR: 138
+:Score: 51
+:Technique: 8.5
+:Effort: 8
+:Discomfort: 3
+:END:
+
+[2014-09-14 Sun 00:00]
+*** 2014-09-15 Monday
+**** Flow Physique 4/1x4 
+     :LOGBOOK:
+     CLOCK: [2014-09-15 Mon 10:09]--[2014-09-15 Mon 10:10] =>  0:01
+     :END:
+:PROPERTIES:
+:Type: Conditioning
+:Intensity: High
+:RestHR: 
+:FinalHR: 155
+:Score: 53
+:Technique: 8.25
+:Effort: 8.75
+:Discomfort: 3
+:END:
+
+[2014-09-15 Mon 10:09]
