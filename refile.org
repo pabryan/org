@@ -1,11 +1,2 @@
 #+FILETAGS: REFILE
-* TODO Create ssh control master for bitbucket
-  :LOGBOOK:
-  CLOCK: [2014-08-08 Fri 14:50]--[2014-08-08 Fri 14:51] =>  0:01
-  :END:
-[2014-08-08 Fri 14:50]
 
-I need to separately create the master since otherwise it hangs. Probably I'll need to do this either as a daemon or at the beginning of check_working scripts and then just shut it down at the end. Otherwise, I don't really need a persistent connection to bitbucket (it does save a lot of time for check_uncommited!)
-* TODO change lectures/office hours to tasks
-[2014-08-13 Wed 17:13]
-That way clock and effort shoudl show in agenda

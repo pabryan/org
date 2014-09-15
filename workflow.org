@@ -1574,7 +1574,8 @@ I have mythtv and mediatomb and who knows what else using up valuable resources.
 
 Should run hg clone ssh://hg@bitbucket.org/pabryan/<proj>
 *** TODO Working
-**** DONE Wrapper for scripts using ssh-agent
+**** TODO SSH
+***** DONE Wrapper for scripts using ssh-agent
      SCHEDULED: <2014-06-01 Sun>
   :LOGBOOK:
   - State "DONE"       from "TODO"       [2014-06-03 Tue 10:26]
@@ -1583,7 +1584,7 @@ Should run hg clone ssh://hg@bitbucket.org/pabryan/<proj>
 [2014-03-28 Fri 18:04]
 
 I should update the session before running vc_autocommit.sh and check_uncommited.sh. It would also be nice if the latter didn't force me to hit ctrl-c for every single repository.<2014-03-28 Fri>
-**** NEXT autmount sshfs
+***** NEXT autmount sshfs
   :LOGBOOK:
   CLOCK: [2014-02-27 Thu 15:52]--[2014-02-27 Thu 15:53] =>  0:01
   :END:
@@ -1595,16 +1596,26 @@ https://wiki.archlinux.org/index.php/sshfs#Automounting
 https://github.com/hellekin/autosshfs
 http://ubuntuforums.org/showthread.php?t=430312
 
-**** NEXT use emacs to do vc stuff
+***** NEXT Create ssh control master for bitbucket
+      DEADLINE: <2014-09-15 Mon>
+  :LOGBOOK:
+  CLOCK: [2014-08-08 Fri 14:50]--[2014-08-08 Fri 14:51] =>  0:01
+  :END:
+[2014-08-08 Fri 14:50]
+
+I need to separately create the master since otherwise it hangs. Probably I'll need to do this either as a daemon or at the beginning of check_working scripts and then just shut it down at the end. Otherwise, I don't really need a persistent connection to bitbucket (it does save a lot of time for check_uncommited!)
+
+**** TODO Version Control
+***** NEXT use emacs to do vc stuff
   SCHEDULED: <2014-09-01 Mon>
 [2014-02-28 Fri 11:45]
-**** NEXT Check out patch-commit
+***** NEXT Check out patch-commit
      SCHEDULED: <2014-09-01 Mon>
   <2014-04-06 Sun>
 [2014-03-15 Sat 22:38]
 
 http://porkrind.org/commit-patch/
-**** NEXT Auto sync working
+***** NEXT Auto sync working
      SCHEDULED: <2014-09-01 Mon>
   :LOGBOOK:
   CLOCK: [2014-03-18 Tue 17:42]--[2014-03-18 Tue 17:43] =>  0:01
@@ -4650,9 +4661,10 @@ When I set up scoring the day:
 - [ ] Do short tasks
 - [ ] Record morning health stats
 
-** NEXT Weekly Review [0/20]
+** NEXT Weekly Review [14/20]
    SCHEDULED: <2014-06-16 Mon +1w>
    :LOGBOOK:
+   CLOCK: [2014-09-15 Mon 11:38]--[2014-09-15 Mon 12:38] =>  1:00
    CLOCK: [2014-09-10 Wed 15:49]--[2014-09-10 Wed 16:35] =>  0:46
    CLOCK: [2014-07-15 Tue 19:31]--[2014-07-15 Tue 19:53] =>  0:22
    CLOCK: [2014-07-05 Sat 10:33]--[2014-07-05 Sat 11:23] =>  0:50
@@ -4790,25 +4802,25 @@ When I set up scoring the day:
 
 What to review:
 
-- [ ] Check holding directory
+- [X] Check holding directory
   [[file:~/holding]]
-- [ ] Check holding email folder
-- [ ] Review weekly agenda =F12 a w//=
-- [ ] Check clocking data for past week =v c=
+- [X] Check holding email folder
+- [X] Review weekly agenda =F12 a w//=
+- [X] Check clocking data for past week =v c=
   - fix up any errors
-- [ ] Review clock report for past week =R=
+- [X] Review clock report for past week =R=
   - Check where we spent time (too much or too little) and rectify this week
-- [ ] Look at entire agenda for today  =F12 SPC=
-- [ ] Check un-committed work
-- [ ] Refile tasks
-- [ ] Weekly clean up
-  - [ ] Clean up Downloads
-  - [ ] Clean up tmp
-  - [ ] Clean up tablet
-  - [ ] Clean up phone
-- [ ] Process incoming information
-  - [ ] feedly
-  - [ ] pocket
+- [X] Look at entire agenda for today  =F12 SPC=
+- [X] Check un-committed work
+- [X] Refile tasks
+- [X] Weekly clean up
+  - [X] Clean up Downloads
+  - [X] Clean up tmp
+  - [X] Clean up tablet
+  - [X] Clean up phone
+- [X] Process incoming information
+  - [X] feedly
+  - [X] pocket
 - [ ] Plan the upcoming week
   - Theme you days: teaching, admin/service, research, students, writing
   - [[file:daythemes.org][file:~/org/daythemes.org]]
@@ -4829,16 +4841,16 @@ What to review:
     - [ ] Coding
       - [ ] for projects
       - [ ] plots   
-- [ ] Review focus projects 
-- [ ] Set focus
+- [X] Review focus projects 
+- [X] Set focus
 - [ ] Check follow-up paper folder
 - [ ] Collate the weeks: pad scribbles, org-mode notes, phone notes, etc.
 - [ ] Check Finances
   - Check bank accounts and compare with what's still to come
   - Plan the weeks budget
   - Update monthly transactions
-- [ ] Copy music to phone
-- [ ] Share photos on Google+
+- [X] Copy music to phone
+- [X] Share photos on Google+
 - [ ] Update Abundant Harvest order
   - http://www.abundantharvestorganics.com/
 - [ ] Order meat
