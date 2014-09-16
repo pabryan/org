@@ -1599,6 +1599,7 @@ http://ubuntuforums.org/showthread.php?t=430312
 ***** NEXT Create ssh control master for bitbucket
       DEADLINE: <2014-09-15 Mon>
   :LOGBOOK:
+  CLOCK: [2014-09-16 Tue 14:27]
   CLOCK: [2014-08-08 Fri 14:50]--[2014-08-08 Fri 14:51] =>  0:01
   :END:
 [2014-08-08 Fri 14:50]
@@ -1853,6 +1854,8 @@ http://gmane.org
   :END:
 ** Organisation
   :LOGBOOK:
+  CLOCK: [2014-09-16 Tue 11:09]--[2014-09-16 Tue 11:31] =>  0:22
+  CLOCK: [2014-09-16 Tue 11:01]--[2014-09-16 Tue 11:04] =>  0:03
   CLOCK: [2014-09-15 Mon 14:30]--[2014-09-15 Mon 14:36] =>  0:06
   CLOCK: [2014-09-15 Mon 10:18]--[2014-09-15 Mon 10:37] =>  0:19
   CLOCK: [2014-09-12 Fri 14:27]--[2014-09-12 Fri 14:39] =>  0:12
@@ -3853,8 +3856,10 @@ When I set up scoring the day:
 - [ ] Collate data such as sleep, weight, exercise, diet etc.
 
 ** NEXT Daily Plan [0/7]
-   SCHEDULED: <2014-09-16 Tue .+1d/2d>
+   SCHEDULED: <2014-09-17 Wed .+1d/2d>
    :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2014-09-16 Tue 11:08]
+   CLOCK: [2014-09-16 Tue 11:04]--[2014-09-16 Tue 11:08] =>  0:04
    - State "DONE"       from "NEXT"       [2014-09-15 Mon 10:18]
    CLOCK: [2014-09-15 Mon 10:12]--[2014-09-15 Mon 10:18] =>  0:06
    CLOCK: [2014-09-15 Mon 10:10]--[2014-09-15 Mon 10:11] =>  0:01
@@ -4650,7 +4655,7 @@ When I set up scoring the day:
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
    :ID:       ef051ee0-1113-4604-b355-450a5a47848b
-   :LAST_REPEAT: [2014-09-15 Mon 10:18]
+   :LAST_REPEAT: [2014-09-16 Tue 11:09]
    :END:
 
 - [ ] Check agenda/focus
