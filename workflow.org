@@ -4665,7 +4665,7 @@ When I set up scoring the day:
 ** NEXT Weekly Review [16/20]
    SCHEDULED: <2014-06-16 Mon +1w>
    :LOGBOOK:
-   CLOCK: [2014-09-15 Mon 14:36]
+   CLOCK: [2014-09-15 Mon 14:36]--[2014-09-15 Mon 15:57] =>  1:21
    CLOCK: [2014-09-15 Mon 11:38]--[2014-09-15 Mon 12:38] =>  1:00
    CLOCK: [2014-09-10 Wed 15:49]--[2014-09-10 Wed 16:35] =>  0:46
    CLOCK: [2014-07-15 Tue 19:31]--[2014-07-15 Tue 19:53] =>  0:22
