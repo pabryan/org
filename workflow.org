@@ -1598,11 +1598,12 @@ http://ubuntuforums.org/showthread.php?t=430312
 
 ***** DONE Create ssh control master for bitbucket
       DEADLINE: <2014-09-15 Mon>
-  :LOGBOOK:
-  - State "DONE"       from "NEXT"       [2014-09-16 Tue 14:57]
-  CLOCK: [2014-09-16 Tue 14:27]--[2014-09-16 Tue 14:57] =>  0:30
-  CLOCK: [2014-08-08 Fri 14:50]--[2014-08-08 Fri 14:51] =>  0:01
-  :END:
+      :LOGBOOK:
+      CLOCK: [2014-09-17 Wed 11:20]
+      - State "DONE"       from "NEXT"       [2014-09-16 Tue 14:57]
+	CLOCK: [2014-09-16 Tue 14:27]--[2014-09-16 Tue 14:57] =>  0:30
+	CLOCK: [2014-08-08 Fri 14:50]--[2014-08-08 Fri 14:51] =>  0:01
+      :END:
 [2014-08-08 Fri 14:50]
 
 I need to separately create the master since otherwise it hangs. Probably I'll need to do this either as a daemon or at the beginning of check_working scripts and then just shut it down at the end. Otherwise, I don't really need a persistent connection to bitbucket (it does save a lot of time for check_uncommited!)
@@ -3858,8 +3859,10 @@ When I set up scoring the day:
 - [ ] Collate data such as sleep, weight, exercise, diet etc.
 
 ** NEXT Daily Plan [0/7]
-   SCHEDULED: <2014-09-17 Wed .+1d/2d>
+   SCHEDULED: <2014-09-18 Thu .+1d/2d>
    :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2014-09-17 Wed 11:20]
+   CLOCK: [2014-09-17 Wed 11:09]--[2014-09-17 Wed 11:20] =>  0:11
    - State "DONE"       from "NEXT"       [2014-09-16 Tue 11:08]
    CLOCK: [2014-09-16 Tue 11:04]--[2014-09-16 Tue 11:08] =>  0:04
    - State "DONE"       from "NEXT"       [2014-09-15 Mon 10:18]
@@ -4657,7 +4660,7 @@ When I set up scoring the day:
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
    :ID:       ef051ee0-1113-4604-b355-450a5a47848b
-   :LAST_REPEAT: [2014-09-16 Tue 11:09]
+   :LAST_REPEAT: [2014-09-17 Wed 11:20]
    :END:
 
 - [ ] Check agenda/focus
