@@ -1596,10 +1596,11 @@ https://wiki.archlinux.org/index.php/sshfs#Automounting
 https://github.com/hellekin/autosshfs
 http://ubuntuforums.org/showthread.php?t=430312
 
-***** NEXT Create ssh control master for bitbucket
+***** DONE Create ssh control master for bitbucket
       DEADLINE: <2014-09-15 Mon>
   :LOGBOOK:
-  CLOCK: [2014-09-16 Tue 14:27]
+  - State "DONE"       from "NEXT"       [2014-09-16 Tue 14:57]
+  CLOCK: [2014-09-16 Tue 14:27]--[2014-09-16 Tue 14:57] =>  0:30
   CLOCK: [2014-08-08 Fri 14:50]--[2014-08-08 Fri 14:51] =>  0:01
   :END:
 [2014-08-08 Fri 14:50]

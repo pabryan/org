@@ -10206,6 +10206,9 @@ part a should be in terms of $t$ only.
 	 :END:
 ******** NEXT Evaluate webwork experience
 	 DEADLINE: <2014-09-13 Sat>
+	 :LOGBOOK:
+	 CLOCK: [2014-09-16 Tue 19:36]--[2014-09-16 Tue 20:20] =>  0:44
+	 :END:
 	 :PROPERTIES:
 	 :Effort:   1:00
 	 :END:
