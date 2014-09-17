@@ -10088,6 +10088,9 @@ We need to sketch the graphs. To do this for curves 1. and 2., we need to know t
 Here's a plot of the level curves for $$c = 2$$. I'll let you try to match the curves in the picture to the functions 1,2,3 and 4.
 
 ******* TODO Webwork
+	:LOGBOOK:
+	CLOCK: [2014-09-17 Wed 15:04]
+	:END:
 ******** DONE Read Tesler's info
 	 :LOGBOOK:
 	 - State "DONE"       from "NEXT"       [2014-07-31 Thu 19:50]
@@ -10204,9 +10207,11 @@ part a should be in terms of $t$ only.
 	 :PROPERTIES:
 	 :Effort:   0:30
 	 :END:
-******** NEXT Evaluate webwork experience
+******** DONE Evaluate webwork experience
 	 DEADLINE: <2014-09-13 Sat>
 	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2014-09-17 Wed 15:04]
+	 CLOCK: [2014-09-17 Wed 14:51]--[2014-09-17 Wed 15:04] =>  0:13
 	 CLOCK: [2014-09-16 Tue 19:36]--[2014-09-16 Tue 20:20] =>  0:44
 	 :END:
 	 :PROPERTIES:
@@ -11972,6 +11977,7 @@ https://maps.google.com/maps?client=ubuntu-browser&ie=UTF-8&q=Career+Services+Ce
       CLOCK: [2014-09-16 Tue 11:31]--[2014-09-16 Tue 12:13] =>  0:42
       CLOCK: [2014-09-15 Mon 15:57]--[2014-09-15 Mon 17:58] =>  2:01
       :END:
+***** NEXT Find questions with sprintf errors
 ** Delivery
 *** Notes
 - Piazza
