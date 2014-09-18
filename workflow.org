@@ -9,7 +9,7 @@
 *** Publishing
 **** Web Publishing
 ***** TODO org-mode sync/web access
-    SCHEDULED: <2014-09-01 Mon>
+    SCHEDULED: <2015-01-05 Mon>
     :LOGBOOK:
     CLOCK: [2013-07-03 Wed 10:06]--[2013-07-03 Wed 10:09] =>  0:03
     :END:
@@ -43,7 +43,7 @@ Make a project that includes
 [2013-03-30 Sat 21:39]
 Publish to a different directory so I don't pollute my hg directory.
 ***** NEXT Create publishing function for journal submission
-  SCHEDULED: <2014-09-01 Mon>
+  SCHEDULED: <2014-10-27 Mon>
   :LOGBOOK:
   CLOCK: [2014-07-14 Mon 09:16]--[2014-07-14 Mon 09:19] =>  0:03
   CLOCK: [2014-03-18 Tue 17:41]--[2014-03-18 Tue 17:42] =>  0:01
@@ -52,7 +52,7 @@ Publish to a different directory so I don't pollute my hg directory.
 I want to export for journals, including data such as email, classification etc.
 I think I need some sort of filter for this.
 ***** TODO Create setup file for org-mode latex docs
-  SCHEDULED: <2014-09-01 Mon>
+  SCHEDULED: <2014-10-27 Mon>
 [2014-04-12 Sat 19:26]
 - Put common things besides bib stuff into a setup file
 - All the basic publish options should also be in a master file
@@ -118,7 +118,7 @@ Should be able to insert lecture planning/homework etc with a yassnippet?
 [2013-09-30 Mon 21:15]
 Add goals to agenda to remind myself each day. E.g. work, diet, exercise, general things like be patient, don't over-explain things etc.
 **** TODO Setup some agenda filter macros
-  SCHEDULED: <2014-09-01 Mon>
+  SCHEDULED: <2014-11-10 Mon>
   :PROPERTIES:
   :ID:       b7060562-fc53-44b0-8f52-d84dce4c177f
   :END:
@@ -587,14 +587,14 @@ Do I make a different TODO keyword for more trying out things/open ended type re
     :END:
 - This is just the ordinary diff with headlines thought of as files/directories (which can contain content and also other files which is slightly different to the filesystem). Recursing is just recursing headlines and reports can say things like "Headlines A and B differ" and we can show differences in contents of headlines.
 **** TODO Org calendar to google calendar
-  SCHEDULED: <2014-09-01 Mon>
+  SCHEDULED: <2014-11-10 Mon>
   :PROPERTIES:
   :ID:       00fc3ef7-df16-48c3-8fa3-f5b16e6c10d2
   :END:
 [2013-09-03 Tue 21:27]
 http://orgmode.org/worg/org-tutorials/org-google-sync.html
 **** TODO Focus agenda view should show next tasks for project?
-  SCHEDULED: <2014-09-01 Mon>
+  SCHEDULED: <2014-11-10 Mon>
   :LOGBOOK:
   CLOCK: [2013-09-14 Sat 19:43]--[2013-09-14 Sat 19:44] =>  0:01
   :END:
@@ -605,7 +605,7 @@ http://orgmode.org/worg/org-tutorials/org-google-sync.html
 
 *** Archiving
 **** TODO Archive things
-     SCHEDULED: <2014-09-01 Mon>
+     SCHEDULED: <2014-11-10 Mon>
   :PROPERTIES:
   :ID:       a1611ad9-0546-41d7-a584-9edb3ef77445
   :END:
@@ -614,7 +614,7 @@ http://orgmode.org/worg/org-tutorials/org-google-sync.html
 - archive working files for faster check_uncommited
 *** Agenda
 **** TODO Org agenda views
-  SCHEDULED: <2014-09-01 Mon>
+  SCHEDULED: <2014-11-10 Mon>
   :LOGBOOK:
   CLOCK: [2014-02-07 Fri 09:41]--[2014-02-07 Fri 09:44] =>  0:03
   :END:
@@ -632,7 +632,7 @@ I need to be able to focus on the right tasks which means not seeing all possibl
 - Personal agenda view
   - Non-work stuff
 **** TODO Create project agenda view
-  SCHEDULED: <2014-09-01 Mon>
+  SCHEDULED: <2014-11-10 Mon>
   :LOGBOOK:
   CLOCK: [2014-02-20 Thu 09:10]--[2014-02-20 Thu 09:11] =>  0:01
   :END:
@@ -641,7 +641,7 @@ I need to be able to focus on the right tasks which means not seeing all possibl
 It would be nice to narrow to a project and have it display sub-projects in an easy to browse manner
 <2014-04-01 Tue>
 **** TODO Create agenda blocks by type
-  SCHEDULED: <2014-09-01 Mon>
+  SCHEDULED: <2014-11-10 Mon>
   :LOGBOOK:
   CLOCK: [2014-04-29 Tue 10:49]--[2014-04-29 Tue 10:50] =>  0:01
   :END:
@@ -650,7 +650,7 @@ Create papers, teaching, referring block
 
 *** Configuration
 **** TODO Split up emacs-org files
-  SCHEDULED: <2014-09-01 Mon>
+  SCHEDULED: <2014-11-10 Mon>
   :LOGBOOK:
   CLOCK: [2014-03-18 Tue 17:44]--[2014-03-18 Tue 17:45] =>  0:01
   :END:
@@ -1111,7 +1111,7 @@ Levenger?
 - Projects should have a larger folder with papers, notes etc.
 
 **** TODO Make weekly paper review/check task
-  SCHEDULED: <2014-09-01 Mon>
+  SCHEDULED: <2014-11-24 Mon>
   :LOGBOOK:
   CLOCK: [2013-08-27 Tue 10:33]--[2013-08-27 Tue 10:34] =>  0:01
   :END:
@@ -1463,7 +1463,7 @@ http://askubuntu.com/questions/198136/error-when-trying-to-connect-to-vpn-on-sta
 - oldpaul
 - uni 
 **** TODO organise external working
-  SCHEDULED: <2014-09-01 Mon>
+  SCHEDULED: <2014-11-24 Mon>
   :LOGBOOK:
   CLOCK: [2013-08-06 Tue 21:01]--[2013-08-06 Tue 21:05] =>  0:04
   :END:
@@ -1500,7 +1500,7 @@ http://askubuntu.com/questions/198136/error-when-trying-to-connect-to-vpn-on-sta
 [2013-08-06 Tue 21:05]
 this way I can track upstream and keep my work independent and then merge, push to upstream etc. as appropriate
 **** TODO Make a list of required software
-  SCHEDULED: <2014-09-01 Mon>
+  SCHEDULED: <2014-11-24 Mon>
   :LOGBOOK:
   CLOCK: [2013-08-09 Fri 09:20]--[2013-08-09 Fri 09:22] =>  0:02
   :END:
@@ -1601,16 +1601,16 @@ I need to separately create the master since otherwise it hangs. Probably I'll n
 
 **** TODO Version Control
 ***** NEXT use emacs to do vc stuff
-  SCHEDULED: <2014-09-01 Mon>
+  SCHEDULED: <2014-11-24 Mon>
 [2014-02-28 Fri 11:45]
 ***** NEXT Check out patch-commit
-     SCHEDULED: <2014-09-01 Mon>
+     SCHEDULED: <2014-11-24 Mon>
   <2014-04-06 Sun>
 [2014-03-15 Sat 22:38]
 
 http://porkrind.org/commit-patch/
 ***** NEXT Auto sync working
-     SCHEDULED: <2014-09-01 Mon>
+     SCHEDULED: <2014-11-24 Mon>
   :LOGBOOK:
   CLOCK: [2014-03-18 Tue 17:42]--[2014-03-18 Tue 17:43] =>  0:01
   :END:
@@ -1666,7 +1666,7 @@ yajl-ruby (1.1.0)
 ** emacs
 *** Tasks
 **** TODO Emacs coding setup
-     SCHEDULED: <2014-09-01 Mon>
+     SCHEDULED: <2014-11-24 Mon>
   :LOGBOOK:
   CLOCK: [2014-03-31 Mon 19:01]--[2014-03-31 Mon 19:03] =>  0:02
   :END:
@@ -1706,7 +1706,7 @@ yajl-ruby (1.1.0)
      :ID:       59fb7afd-3134-4ef9-80d6-391b05284663
      :END:
 ***** NEXT Set up offlineimap
-    SCHEDULED: <2014-09-01 Mon>
+    SCHEDULED: <2014-11-24 Mon>
     :PROPERTIES:
     :ID:       8e34b366-070d-4735-bad1-9c8fba262783
     :END:
@@ -1847,6 +1847,8 @@ http://gmane.org
   :END:
 ** Organisation
   :LOGBOOK:
+  CLOCK: [2014-09-18 Thu 13:15]--[2014-09-18 Thu 14:39] =>  1:24
+  CLOCK: [2014-09-18 Thu 11:32]--[2014-09-18 Thu 11:34] =>  0:02
   CLOCK: [2014-09-17 Wed 16:40]--[2014-09-17 Wed 16:41] =>  0:01
   CLOCK: [2014-09-17 Wed 15:17]--[2014-09-17 Wed 15:25] =>  0:08
   CLOCK: [2014-09-17 Wed 14:46]--[2014-09-17 Wed 14:51] =>  0:05
@@ -3856,8 +3858,10 @@ When I set up scoring the day:
 - [ ] Collate data such as sleep, weight, exercise, diet etc.
 
 ** NEXT Daily Plan [0/7]
-   SCHEDULED: <2014-09-18 Thu .+1d/2d>
+   SCHEDULED: <2014-09-19 Fri .+1d/2d>
    :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2014-09-18 Thu 11:32]
+   CLOCK: [2014-09-18 Thu 11:25]--[2014-09-18 Thu 11:32] =>  0:07
    - State "DONE"       from "NEXT"       [2014-09-17 Wed 11:20]
    CLOCK: [2014-09-17 Wed 11:03]--[2014-09-17 Wed 11:20] =>  0:17
    - State "DONE"       from "NEXT"       [2014-09-16 Tue 11:08]
@@ -4657,7 +4661,7 @@ When I set up scoring the day:
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
    :ID:       ef051ee0-1113-4604-b355-450a5a47848b
-   :LAST_REPEAT: [2014-09-17 Wed 11:20]
+   :LAST_REPEAT: [2014-09-18 Thu 11:32]
    :END:
 
 - [ ] Check agenda/focus

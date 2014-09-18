@@ -1945,8 +1945,9 @@ This proves the inequality we need.  The remaining problem is to remove the symm
        :PROPERTIES:
        :ID:       bd4e49ca-6f78-44af-aa3b-782d2eb98ff3
        :END:
-****** TODO Transcribe pipe examples from Bei Da notebook
+****** DONE Transcribe pipe examples from Bei Da notebook
   :LOGBOOK:
+  - State "DONE"       from "TODO"       [2014-09-18 Thu 14:39]
   CLOCK: [2012-11-20 Tue 10:48]--[2012-11-20 Tue 10:49] =>  0:01
   :END:
   :PROPERTIES:
@@ -1954,8 +1955,9 @@ This proves the inequality we need.  The remaining problem is to remove the symm
   :END:
 [2012-11-20 Tue 10:48]
 
-****** TODO Transcribe from Bei Da notebook: pipe flow
+****** DONE Transcribe from Bei Da notebook: pipe flow
   :LOGBOOK:
+  - State "DONE"       from "TODO"       [2014-09-18 Thu 14:39]
   :END:
   :PROPERTIES:
   :ID:       acf2c85c-2e65-45b7-a705-e30b58a7ca4b
@@ -2196,7 +2198,7 @@ Here we look at a conformal change of metric. The Levy-Gromov comparison doesn't
    :END:
 [[file:/home/pbryan/working/academic/research/free_k_graphs]]
 **** TODO Ricci Isoprofile Comparison
-     SCHEDULED: <2014-09-01 Mon>
+     SCHEDULED: <2015-01-05 Mon>
      :PROPERTIES:
      :ID:       39603eb5-2bec-4118-a705-a5287b9d5ad2
      :END:
@@ -3405,7 +3407,7 @@ In particular I want the combinatorial algebra
        	:END:
 ** Tasks
 *** TODO Organise research papers    
-    SCHEDULED: <2014-09-01 Mon>
+    SCHEDULED: <2014-10-13 Mon>
     :PROPERTIES:
     :ID:       27dd1954-9abe-4a87-9bcd-36027c643fdb
     :END:
@@ -3512,7 +3514,7 @@ I could also have author, title, date etc. in the properties drawer! This is red
 No! Maybe I can use reftex and get it to take me to the entry in refs.org? I can certainly due this manually, using reftex to take me to the bib file which gives the ID which I can search for in the org file. Then I don't need to maintain duplicate info in the org and bib files and have all the power of reftex available.
 I'd like to be able to use org-mode views to show papers/books by a given author or by subject. Maybe I can have some sort of hook that uses reftex to do the search and return a list of ID's which is then the filter for org-mode views.
 **** TODO Improve referencing
-  SCHEDULED: <2014-09-01 Mon>
+  SCHEDULED: <2014-10-13 Mon>
   :LOGBOOK:
   CLOCK: [2013-11-16 Sat 10:34]--[2013-11-16 Sat 10:38] =>  0:04
   :END:
@@ -3529,7 +3531,7 @@ I'd like to be able to use org-mode views to show papers/books by a given author
 - Put books, lecture notes, web resources etc. into bibtex file
 
 **** TODO Work out paper getting procedure
-  SCHEDULED: <2014-09-01 Mon>
+  SCHEDULED: <2014-10-13 Mon>
   :LOGBOOK:
   CLOCK: [2014-02-11 Tue 12:54]--[2014-02-11 Tue 12:55] =>  0:01
   :END:
@@ -3537,7 +3539,7 @@ I'd like to be able to use org-mode views to show papers/books by a given author
 
 I want to grab a paper from the internet, possibly the bib entry as well and then store it somewhere to later enter into my org system. It should be quick and easy like capture tasks and then ideally I'd have some automated way of adding it to org.
 **** TODO Set up pdf metadata
-  SCHEDULED: <2014-09-01 Mon>
+  SCHEDULED: <2014-10-13 Mon>
 [2014-02-24 Mon 11:21]
 - I want to add meta data to pdf's based on bibtex entry
 http://askubuntu.com/questions/27381/how-to-edit-pdf-metadata-from-command-line
@@ -3622,7 +3624,7 @@ sometimes the bib ref I have has MR<num> but the paper is saved as MR0<num> whic
 *** Paper preparation
 
 **** TODO Incorporate sage code into document creation
-     SCHEDULED: <2014-09-01 Mon>
+     SCHEDULED: <2014-10-27 Mon>
   :LOGBOOK:
   CLOCK: [2014-03-01 Sat 13:28]--[2014-03-01 Sat 13:29] =>  0:01
   :END:
@@ -3631,7 +3633,7 @@ sometimes the bib ref I have has MR<num> but the paper is saved as MR0<num> whic
 Either by using literal blocks in org-mode or using sagetex I can produce images, animations and so forth in documents
 
 **** TODO Set up generic publishing
-     SCHEDULED: <2014-09-01 Mon>
+     SCHEDULED: <2014-10-27 Mon>
   :LOGBOOK:
   CLOCK: [2014-02-20 Thu 09:08]--[2014-02-20 Thu 09:09] =>  0:01
   :END:
@@ -3644,9 +3646,9 @@ Either by using literal blocks in org-mode or using sagetex I can produce images
     CLOCK: [2012-12-18 Tue 09:45]--[2012-12-18 Tue 10:27] =>  0:42
     :END:
 *** TODO Organise Research Projects
-    SCHEDULED: <2014-09-01 Mon>
+    SCHEDULED: <2014-10-13 Mon>
 **** NEXT Set up/organise current research projects
-     SCHEDULED: <2014-09-01 Mon>
+     SCHEDULED: <2014-10-13 Mon>
   :LOGBOOK:
   CLOCK: [2014-03-21 Fri 13:10]--[2014-03-21 Fri 13:13] =>  0:03
   :END:
@@ -3670,7 +3672,7 @@ Either by using literal blocks in org-mode or using sagetex I can produce images
 **** NEXT Fill in project notes
 - I'd like to write the notes in my org entry and export to a wiki or something like that (open notebook wiki)
 **** NEXT Write research project summaries/proposals
-     SCHEDULED: <2014-09-01 Mon>
+     SCHEDULED: <2014-10-13 Mon>
   :LOGBOOK:
   CLOCK: [2014-03-21 Fri 13:09]--[2014-03-21 Fri 13:10] =>  0:01
   :END:
@@ -3693,7 +3695,7 @@ I want to have descriptions of my various research projects with clear aims, a s
 Schedule time for research, for teaching and for non-research academic work (e.g. refereeing). That cover's all the sort of work I do.
 
 *** TODO Make create research project capture
-  SCHEDULED: <2014-09-01 Mon>
+  SCHEDULED: <2014-10-13 Mon>
     :PROPERTIES:
     :ID:       89aab08c-03b4-4561-b868-45bc0088ba34
     :END:
@@ -4148,7 +4150,7 @@ Is there a consistent (say providing ZFC is consistent) set theory without the e
 ** Open Notebook
 *** Tasks
 **** NEXT Research starting an open notebook
-  SCHEDULED: <2014-09-01 Mon>
+  SCHEDULED: <2014-10-27 Mon>
   :LOGBOOK:
   CLOCK: [2013-08-06 Tue 20:54]--[2013-08-06 Tue 20:55] =>  0:01
   :END:
@@ -4282,7 +4284,7 @@ I want to study Gauss maps $(E,X,\pi) \to (\RR^k\times X, X, \pi)$, in particula
 **** TODO Paper/Book reading
 - I should get in the habit of writing my own description of the work and the main ideas as part of the learning process. I need a way to set this up in some sort of project exported to a wiki say?
 ***** NEXT Develop way to write my own notes (and publish on my website) on the subject
-      SCHEDULED: <2014-09-01 Mon>
+      SCHEDULED: <2014-10-27 Mon>
 ** Blog
 *** Ideas
 **** The use of coordinates in DG.

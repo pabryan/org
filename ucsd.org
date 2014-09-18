@@ -11404,12 +11404,634 @@ Center 119
 ****** Notes
 ****** Tasks
 ******* TODO Plan course
-******** NEXT Org structure
+******** DONE Org structure
 	 SCHEDULED: <2014-09-18 Thu>
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2014-09-18 Thu 13:15]
+	 CLOCK: [2014-09-18 Thu 12:20]--[2014-09-18 Thu 12:46] =>  0:26
+	 CLOCK: [2014-09-18 Thu 11:34]--[2014-09-18 Thu 11:42] =>  0:08
+	 :END:
+	 :PROPERTIES:
+	 :Effort:   0:30
+	 :END:
 Lectures in calendar and tasks like planning lectures.
+******** NEXT Set up Ted
+	 :PROPERTIES:
+	 :Effort:   0:15
+	 :END:
+******* TODO Lectures
+******** NEXT Create lecture schedule
+	 :PROPERTIES:
+	 :Effort:   0:30
+	 :END:
+******** NEXT Prepare lectures
+********* TODO Week 0
+********** NEXT Prepare lec 0.1
+	   SCHEDULED: <2014-09-26 Fri>
 
+	   :PROPERTIES:
+	   :Effort:   1:00
+	   :END:
+
+********* TODO Week 1
+********** NEXT Prepare outline
+	   SCHEDULED: <2014-09-29 Mon>
+	   :PROPERTIES:
+	   :Effort:   0:30
+	   :END:
+********** NEXT Prepare lec 1.1
+	   SCHEDULED: <2014-09-29 Mon>
+	   :PROPERTIES:
+	   :Effort:   1:00
+	   :END:
+
+********** NEXT Prepare lec 1.2
+	   SCHEDULED: <2014-10-01 Wed>
+	   :PROPERTIES:
+	   :Effort:   1:00
+	   :END:
+
+********** NEXT Prepare lec 1.3
+	   SCHEDULED: <2014-10-01 Wed>
+	   :PROPERTIES:
+	   :Effort:   1:00
+	   :END:
+
+********* TODO Week 2
+********** NEXT Prepare outline
+	   SCHEDULED: <2014-10-06 Mon>
+	   :PROPERTIES:
+	   :Effort:   0:30
+	   :END:
+********** NEXT Prepare lec 2.1
+	   SCHEDULED: <2014-10-06 Mon>
+	   :PROPERTIES:
+	   :Effort:   1:00
+	   :END:
+
+********** NEXT Prepare lec 2.2
+	   SCHEDULED: <2014-10-08 Wed>
+	   :PROPERTIES:
+	   :Effort:   1:00
+	   :END:
+
+********** NEXT Prepare lec 2.3
+	   SCHEDULED: <2014-10-08 Wed>
+	   :PROPERTIES:
+	   :Effort:   1:00
+	   :END:
+
+********* TODO Week 3
+********** NEXT Prepare outline
+	   SCHEDULED: <2014-10-13 Mon>
+	   :PROPERTIES:
+	   :Effort:   0:30
+	   :END:
+********** NEXT Prepare lec 3.1
+	   SCHEDULED: <2014-10-13 Mon>
+	   :PROPERTIES:
+	   :Effort:   1:00
+	   :END:
+
+********** NEXT Prepare lec 3.2
+	   SCHEDULED: <2014-10-15 Wed>
+	   :PROPERTIES:
+	   :Effort:   1:00
+	   :END:
+
+********** NEXT Prepare lec 3.3
+	   SCHEDULED: <2014-10-15 Wed>
+	   :PROPERTIES:
+	   :Effort:   1:00
+	   :END:
+
+********* TODO Week 4
+********** NEXT Prepare outline
+	   SCHEDULED: <2014-10-20 Mon>
+	   :PROPERTIES:
+	   :Effort:   0:30
+	   :END:
+********** NEXT Prepare lec 4.1
+	   SCHEDULED: <2014-10-20 Mon>
+	   :PROPERTIES:
+	   :Effort:   1:00
+	   :END:
+
+********** NEXT Prepare lec 4.2
+	   SCHEDULED: <2014-10-22 Wed>
+	   :PROPERTIES:
+	   :Effort:   1:00
+	   :END:
+
+********** NEXT Prepare lec 4.3
+	   SCHEDULED: <2014-10-22 Wed>
+	   :PROPERTIES:
+	   :Effort:   1:00
+	   :END:
+
+********* TODO Week 5
+********** NEXT Prepare outline
+	   SCHEDULED: <2014-10-27 Mon>
+	   :PROPERTIES:
+	   :Effort:   0:30
+	   :END:
+********** NEXT Prepare lec 5.1
+	   SCHEDULED: <2014-10-27 Mon>
+	   :PROPERTIES:
+	   :Effort:   1:00
+	   :END:
+
+********** NEXT Prepare lec 5.2
+	   SCHEDULED: <2014-10-29 Wed>
+	   :PROPERTIES:
+	   :Effort:   1:00
+	   :END:
+
+********** NEXT Prepare lec 5.3
+	   SCHEDULED: <2014-10-29 Wed>
+	   :PROPERTIES:
+	   :Effort:   1:00
+	   :END:
+
+********* TODO Week 6
+********** NEXT Prepare outline
+	   SCHEDULED: <2014-11-03 Mon>
+	   :PROPERTIES:
+	   :Effort:   0:30
+	   :END:
+********** NEXT Prepare lec 6.1
+	   SCHEDULED: <2014-11-03 Mon>
+	   :PROPERTIES:
+	   :Effort:   1:00
+	   :END:
+
+********** NEXT Prepare lec 6.2
+	   SCHEDULED: <2014-11-05 Wed>
+	   :PROPERTIES:
+	   :Effort:   1:00
+	   :END:
+
+********** NEXT Prepare lec 6.3
+	   SCHEDULED: <2014-11-05 Wed>
+	   :PROPERTIES:
+	   :Effort:   1:00
+	   :END:
+
+********* TODO Week 7
+********** NEXT Prepare outline
+	   SCHEDULED: <2014-11-10 Mon>
+	   :PROPERTIES:
+	   :Effort:   0:30
+	   :END:
+********** NEXT Prepare lec 7.1
+	   SCHEDULED: <2014-11-10 Mon>
+	   :PROPERTIES:
+	   :Effort:   1:00
+	   :END:
+
+********** NEXT Prepare lec 7.2
+	   SCHEDULED: <2014-11-12 Wed>
+	   :PROPERTIES:
+	   :Effort:   1:00
+	   :END:
+
+********** NEXT Prepare lec 7.3
+	   SCHEDULED: <2014-11-12 Wed>
+	   :PROPERTIES:
+	   :Effort:   1:00
+	   :END:
+
+********* TODO Week 8
+********** NEXT Prepare outline
+	   SCHEDULED: <2014-11-17 Mon>
+	   :PROPERTIES:
+	   :Effort:   0:30
+	   :END:
+********** NEXT Prepare lec 8.1
+	   SCHEDULED: <2014-11-17 Mon>
+	   :PROPERTIES:
+	   :Effort:   1:00
+	   :END:
+
+********** NEXT Prepare lec 8.2
+	   SCHEDULED: <2014-11-19 Wed>
+	   :PROPERTIES:
+	   :Effort:   1:00
+	   :END:
+
+********** NEXT Prepare lec 8.3
+	   SCHEDULED: <2014-11-19 Wed>
+	   :PROPERTIES:
+	   :Effort:   1:00
+	   :END:
+
+********* TODO Week 9
+********** NEXT Prepare outline
+	   SCHEDULED: <2014-11-24 Mon>
+	   :PROPERTIES:
+	   :Effort:   0:30
+	   :END:
+********** NEXT Prepare lec 9.1
+	   SCHEDULED: <2014-11-24 Mon>
+	   :PROPERTIES:
+	   :Effort:   1:00
+	   :END:
+
+********** NEXT Prepare lec 9.2
+	   SCHEDULED: <2014-11-26 Wed>
+	   :PROPERTIES:
+	   :Effort:   1:00
+	   :END:
+
+********** NEXT Prepare lec 9.3
+	   SCHEDULED: <2014-11-26 Wed>
+	   :PROPERTIES:
+	   :Effort:   1:00
+	   :END:
+
+********* TODO Week 10
+********** NEXT Prepare outline
+	   SCHEDULED: <2014-12-01 Mon>
+	   :PROPERTIES:
+	   :Effort:   0:30
+	   :END:
+********** NEXT Prepare lec 10.1
+	   SCHEDULED: <2014-12-01 Mon>
+	   :PROPERTIES:
+	   :Effort:   1:00
+	   :END:
+
+********** NEXT Prepare lec 10.2
+	   SCHEDULED: <2014-12-03 Wed>
+	   :PROPERTIES:
+	   :Effort:   1:00
+	   :END:
+
+********** NEXT Prepare lec 10.3
+	   SCHEDULED: <2014-12-03 Wed>
+	   :PROPERTIES:
+	   :Effort:   1:00
+	   :END:
+
+******* TODO Exams
+******** NEXT Midterm 1
+********* NEXT Write Midterm 1
+	  SCHEDULED: <2014-10-20 Mon>
+	  :PROPERTIES:
+	  :Effort:   1:00
+	  :END:
+********* NEXT Get TA's comments
+	  DEADLINE: <2014-10-22 Wed>
+	  :PROPERTIES:
+	  :Effort:   0:10
+	  :END:
+********* NEXT Update exam based on TA comments
+	  DEADLINE: <2014-10-24 Fri>
+	  :PROPERTIES:
+	  :Effort:   0:15
+	  :END:
+********* NEXT Submit midterm to printing/frdesk
+	  DEADLINE: <2014-10-27 Mon>
+	  :PROPERTIES:
+	  :Effort:   0:10
+	  :END:
+******** NEXT Midterm 2
+********* NEXT Write Midterm 2
+	  SCHEDULED: <2014-11-10 Mon>
+	  :PROPERTIES:
+	  :Effort:   1:00
+	  :END:
+********* NEXT Get TA's comments
+	  DEADLINE: <2014-11-12 Wed>
+	  :PROPERTIES:
+	  :Effort:   0:10
+	  :END:
+********* NEXT Update exam based on TA comments
+	  DEADLINE: <2014-11-14 Fri>
+	  :PROPERTIES:
+	  :Effort:   0:15
+	  :END:
+********* NEXT Submit midterm to printing/frdesk
+	  DEADLINE: <2014-11-17 Mon>
+	  :PROPERTIES:
+	  :Effort:   0:10
+	  :END:
+******** NEXT Final
+********* NEXT Write Final
+	  SCHEDULED: <2014-12-01 Mon>
+	  :PROPERTIES:
+	  :Effort:   1:00
+	  :END:
+********* NEXT Get TA's comments
+	  DEADLINE: <2014-12-03 Wed>
+	  :PROPERTIES:
+	  :Effort:   0:10
+	  :END:
+********* NEXT Update exam based on TA comments
+	  DEADLINE: <2014-12-05 Fri>
+	  :PROPERTIES:
+	  :Effort:   0:15
+	  :END:
+********* NEXT Submit midterm to printing/frdesk
+	  DEADLINE: <2014-12-10 Wed>
+	  :PROPERTIES:
+	  :Effort:   0:10
+	  :END:
+******* TODO Homework
+******** NEXT Set Homework
+	 SCHEDULED: <2014-09-29 Mon>
+	 :PROPERTIES:
+	 :Effort:   0:30
+	 :END:
+
+******* TODO Website
+******** NEXT Make website
+	 SCHEDULED: <2014-09-29 Mon>
+	 :PROPERTIES:
+	 :Effort:   1:00
+	 :END:
+******* TODO Webwork
+******** TODO Set up webwork
+	 DEADLINE: <2014-09-29 Mon>
+	 :PROPERTIES:
+	 :Effort:   0:30
+	 :END:
+******* TODO Piazza
+******** NEXT Set up piazza
+	 SCHEDULED: <2014-09-29 Mon>
+	 :PROPERTIES:
+	 :Effort:   0:30
+	 :END:
+******* TODO Grades
+******** NEXT Create grade spreadsheet
+	 DEADLINE: <2014-12-22 Mon>
+	 :PROPERTIES:
+	 :Effort:   0:30
+	 :END:
+******** NEXT Enter grades
+	 DEADLINE: <2014-12-23 Tue>
+	 :PROPERTIES:
+	 :Effort:   0:15
+	 :END:
 ****** Clocking
 ****** Schedule
+******* TODO Lectures
+******** TODO Week 0
+********* NEXT Lecture 0.1
+	  <2014-10-03 Fri 11:55-12:55>
+	  :PROPERTIES:
+	  :Effort:   1:00
+	  :END:
+
+******** TODO Week 1
+********* NEXT Lecture 1.1
+	  <2014-10-06 Mon 11:55-12:55>
+	  :PROPERTIES:
+	  :Effort:   1:00
+	  :END:
+********* NEXT Lecture 1.2
+	  <2014-10-08 Wed 11:55-12:55>
+	  :PROPERTIES:
+	  :Effort:   1:00
+	  :END:
+
+********* NEXT Lecture 1.3
+	  <2014-10-10 Fri 11:55-12:55>
+	  :PROPERTIES:
+	  :Effort:   1:00
+	  :END:
+******** TODO Week 2
+********* NEXT Lecture 2.1
+	  <2014-10-13 Mon 11:55-12:55>
+	  :PROPERTIES:
+	  :Effort:   1:00
+	  :END:
+********* NEXT Lecture 2.2
+	  <2014-10-15 Wed 11:55-12:55>
+	  :PROPERTIES:
+	  :Effort:   1:00
+	  :END:
+
+********* NEXT Lecture 2.3
+	  <2014-10-17 Fri 11:55-12:55>
+	  :PROPERTIES:
+	  :Effort:   1:00
+	  :END:
+******** TODO Week 3
+********* NEXT Lecture 3.1
+	  <2014-10-20 Mon 11:55-12:55>
+	  :PROPERTIES:
+	  :Effort:   1:00
+	  :END:
+********* NEXT Lecture 3.2
+	  <2014-10-22 Wed 11:55-12:55>
+	  :PROPERTIES:
+	  :Effort:   1:00
+	  :END:
+
+********* NEXT Lecture 3.3
+	  <2014-10-24 Fri 11:55-12:55>
+	  :PROPERTIES:
+	  :Effort:   1:00
+	  :END:
+******** TODO Week 4
+********* NEXT Lecture 4.1
+	  <2014-10-27 Mon 11:55-12:55>
+	  :PROPERTIES:
+	  :Effort:   1:00
+	  :END:
+********* NEXT Lecture 4.2
+	  <2014-10-29 Wed 11:55-12:55>
+	  :PROPERTIES:
+	  :Effort:   1:00
+	  :END:
+
+********* NEXT Lecture 4.3
+	  <2014-10-31 Fri 11:55-12:55>
+	  :PROPERTIES:
+	  :Effort:   1:00
+	  :END:
+******** TODO Week 5
+********* NEXT Lecture 5.1
+	  <2014-11-03 Mon 11:55-12:55>
+	  :PROPERTIES:
+	  :Effort:   1:00
+	  :END:
+********* NEXT Lecture 5.2
+	  <2014-11-05 Wed 11:55-12:55>
+	  :PROPERTIES:
+	  :Effort:   1:00
+	  :END:
+
+********* NEXT Lecture 5.3
+	  <2014-11-07 Fri 11:55-12:55>
+	  :PROPERTIES:
+	  :Effort:   1:00
+	  :END:
+******** TODO Week 6
+********* NEXT Lecture 6.1
+	  <2014-11-10 Mon 11:55-12:55>
+	  :PROPERTIES:
+	  :Effort:   1:00
+	  :END:
+********* NEXT Lecture 6.2
+	  <2014-11-12 Wed 11:55-12:55>
+	  :PROPERTIES:
+	  :Effort:   1:00
+	  :END:
+
+********* NEXT Lecture 6.3
+	  <2014-11-14 Fri 11:55-12:55>
+	  :PROPERTIES:
+	  :Effort:   1:00
+	  :END:
+******** TODO Week 7
+********* NEXT Lecture 7.1
+	  <2014-11-17 Mon 11:55-12:55>
+	  :PROPERTIES:
+	  :Effort:   1:00
+	  :END:
+********* NEXT Lecture 7.2
+	  <2014-11-19 Wed 11:55-12:55>
+	  :PROPERTIES:
+	  :Effort:   1:00
+	  :END:
+
+********* NEXT Lecture 7.3
+	  <2014-11-21 Fri 11:55-12:55>
+	  :PROPERTIES:
+	  :Effort:   1:00
+	  :END:
+******** TODO Week 8
+********* NEXT Lecture 8.1
+	  <2014-11-24 Mon 11:55-12:55>
+	  :PROPERTIES:
+	  :Effort:   1:00
+	  :END:
+********* NEXT Lecture 8.2
+	  <2014-11-26 Wed 11:55-12:55>
+	  :PROPERTIES:
+	  :Effort:   1:00
+	  :END:
+
+********* NEXT Lecture 8.3
+	  <2014-11-28 Fri 11:55-12:55>
+	  :PROPERTIES:
+	  :Effort:   1:00
+	  :END:
+******** TODO Week 9
+********* NEXT Lecture 9.1
+	  <2014-12-01 Mon 11:55-12:55>
+	  :PROPERTIES:
+	  :Effort:   1:00
+	  :END:
+********* NEXT Lecture 9.2
+	  <2014-12-03 Wed 11:55-12:55>
+	  :PROPERTIES:
+	  :Effort:   1:00
+	  :END:
+
+********* NEXT Lecture 9.3
+	  <2014-12-05 Fri 11:55-12:55>
+	  :PROPERTIES:
+	  :Effort:   1:00
+	  :END:
+******** TODO Week 10
+********* NEXT Lecture 10.1
+	  <2014-12-08 Mon 11:55-12:55>
+	  :PROPERTIES:
+	  :Effort:   1:00
+	  :END:
+********* NEXT Lecture 10.2
+	  <2014-12-10 Wed 11:55-12:55>
+	  :PROPERTIES:
+	  :Effort:   1:00
+	  :END:
+
+********* NEXT Lecture 10.3
+	  <2014-12-12 Fri 11:55-12:55>
+	  :PROPERTIES:
+	  :Effort:   1:00
+	  :END:
+******* TODO Exams
+******** NEXT Midterm 1
+	 <2014-10-30 Thu 20:00-21:00>
+	 :PROPERTIES:
+	 :Effort:   1:30
+	 :END:
+******** NEXT Midterm 2
+	 <2014-11-20 Thu 20:00-21:00>
+	 :PROPERTIES:
+	 :Effort:   1:30
+	 :END:
+******** NEXT Final
+	 <2014-12-17 Wed 19:00-22:00>
+	 :PROPERTIES:
+	 :Effort:   4:00
+	 :END:
+
+******* TODO Office hours
+******** NEXT O/H Week 1
+	 <2014-10-06 Mon 15:00-17:00>
+	 :PROPERTIES:
+	 :Effort:   2:00
+	 :END:
+
+******** NEXT O/H Week 2
+	 <2014-10-13 Mon 15:00-17:00>
+	 :PROPERTIES:
+	 :Effort:   2:00
+	 :END:
+
+******** NEXT O/H Week 3
+	 <2014-10-20 Mon 15:00-17:00>
+	 :PROPERTIES:
+	 :Effort:   2:00
+	 :END:
+
+******** NEXT O/H Week 4
+	 <2014-10-27 Mon 15:00-17:00>
+	 :PROPERTIES:
+	 :Effort:   2:00
+	 :END:
+
+******** NEXT O/H Week 5
+	 <2014-11-03 Mon 15:00-17:00>
+	 :PROPERTIES:
+	 :Effort:   2:00
+	 :END:
+
+******** NEXT O/H Week 6
+	 <2014-11-10 Mon 15:00-17:00>
+	 :PROPERTIES:
+	 :Effort:   2:00
+	 :END:
+
+******** NEXT O/H Week 7
+	 <2014-11-17 Mon 15:00-17:00>
+	 :PROPERTIES:
+	 :Effort:   2:00
+	 :END:
+
+******** NEXT O/H Week 8
+	 <2014-11-24 Mon 15:00-17:00>
+	 :PROPERTIES:
+	 :Effort:   2:00
+	 :END:
+
+******** NEXT O/H Week 9
+	 <2014-12-01 Mon 15:00-17:00>
+	 :PROPERTIES:
+	 :Effort:   2:00
+	 :END:
+
+******** NEXT O/H Week 10
+	 <2014-12-08 Mon 15:00-17:00>
+	 :PROPERTIES:
+	 :Effort:   2:00
+	 :END:
+
+******* TODO Meetings
 ***** TODO Math142A
 ****** Files
 [[file:~/working/ucsd/teaching/2015/fall/math142a_fall_2015]] 
@@ -11417,12 +12039,618 @@ Lectures in calendar and tasks like planning lectures.
 ****** Notes
 ****** Tasks
 ******* TODO Plan course
-******** NEXT Org structure
+******** DONE Org structure
 	 SCHEDULED: <2014-09-18 Thu>
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2014-09-18 Thu 13:14]
+	 CLOCK: [2014-09-18 Thu 12:46]--[2014-09-18 Thu 13:14] =>  0:28
+	 :END:
 Lectures in calendar and tasks like planning lectures.
 
+******** NEXT Set up Ted
+	 :PROPERTIES:
+	 :Effort:   0:15
+	 :END:
+******* TODO Lectures
+******** NEXT Create lecture schedule
+	 :PROPERTIES:
+	 :Effort:   0:30
+	 :END:
+******** NEXT Prepare lectures
+********* TODO Week 0
+********** NEXT Prepare lec 0.1
+	   SCHEDULED: <2014-09-26 Fri>
+
+	   :PROPERTIES:
+	   :Effort:   1:00
+	   :END:
+
+********* TODO Week 1
+********** NEXT Prepare outline
+	   SCHEDULED: <2014-09-29 Mon>
+	   :PROPERTIES:
+	   :Effort:   0:30
+	   :END:
+********** NEXT Prepare lec 1.1
+	   SCHEDULED: <2014-09-29 Mon>
+	   :PROPERTIES:
+	   :Effort:   1:00
+	   :END:
+
+********** NEXT Prepare lec 1.2
+	   SCHEDULED: <2014-10-01 Wed>
+	   :PROPERTIES:
+	   :Effort:   1:00
+	   :END:
+
+********** NEXT Prepare lec 1.3
+	   SCHEDULED: <2014-10-01 Wed>
+	   :PROPERTIES:
+	   :Effort:   1:00
+	   :END:
+
+********* TODO Week 2
+********** NEXT Prepare outline
+	   SCHEDULED: <2014-10-06 Mon>
+	   :PROPERTIES:
+	   :Effort:   0:30
+	   :END:
+********** NEXT Prepare lec 2.1
+	   SCHEDULED: <2014-10-06 Mon>
+	   :PROPERTIES:
+	   :Effort:   1:00
+	   :END:
+
+********** NEXT Prepare lec 2.2
+	   SCHEDULED: <2014-10-08 Wed>
+	   :PROPERTIES:
+	   :Effort:   1:00
+	   :END:
+
+********** NEXT Prepare lec 2.3
+	   SCHEDULED: <2014-10-08 Wed>
+	   :PROPERTIES:
+	   :Effort:   1:00
+	   :END:
+
+********* TODO Week 3
+********** NEXT Prepare outline
+	   SCHEDULED: <2014-10-13 Mon>
+	   :PROPERTIES:
+	   :Effort:   0:30
+	   :END:
+********** NEXT Prepare lec 3.1
+	   SCHEDULED: <2014-10-13 Mon>
+	   :PROPERTIES:
+	   :Effort:   1:00
+	   :END:
+
+********** NEXT Prepare lec 3.2
+	   SCHEDULED: <2014-10-15 Wed>
+	   :PROPERTIES:
+	   :Effort:   1:00
+	   :END:
+
+********** NEXT Prepare lec 3.3
+	   SCHEDULED: <2014-10-15 Wed>
+	   :PROPERTIES:
+	   :Effort:   1:00
+	   :END:
+
+********* TODO Week 4
+********** NEXT Prepare outline
+	   SCHEDULED: <2014-10-20 Mon>
+	   :PROPERTIES:
+	   :Effort:   0:30
+	   :END:
+********** NEXT Prepare lec 4.1
+	   SCHEDULED: <2014-10-20 Mon>
+	   :PROPERTIES:
+	   :Effort:   1:00
+	   :END:
+
+********** NEXT Prepare lec 4.2
+	   SCHEDULED: <2014-10-22 Wed>
+	   :PROPERTIES:
+	   :Effort:   1:00
+	   :END:
+
+********** NEXT Prepare lec 4.3
+	   SCHEDULED: <2014-10-22 Wed>
+	   :PROPERTIES:
+	   :Effort:   1:00
+	   :END:
+
+********* TODO Week 5
+********** NEXT Prepare outline
+	   SCHEDULED: <2014-10-27 Mon>
+	   :PROPERTIES:
+	   :Effort:   0:30
+	   :END:
+********** NEXT Prepare lec 5.1
+	   SCHEDULED: <2014-10-27 Mon>
+	   :PROPERTIES:
+	   :Effort:   1:00
+	   :END:
+
+********** NEXT Prepare lec 5.2
+	   SCHEDULED: <2014-10-29 Wed>
+	   :PROPERTIES:
+	   :Effort:   1:00
+	   :END:
+
+********** NEXT Prepare lec 5.3
+	   SCHEDULED: <2014-10-29 Wed>
+	   :PROPERTIES:
+	   :Effort:   1:00
+	   :END:
+
+********* TODO Week 6
+********** NEXT Prepare outline
+	   SCHEDULED: <2014-11-03 Mon>
+	   :PROPERTIES:
+	   :Effort:   0:30
+	   :END:
+********** NEXT Prepare lec 6.1
+	   SCHEDULED: <2014-11-03 Mon>
+	   :PROPERTIES:
+	   :Effort:   1:00
+	   :END:
+
+********** NEXT Prepare lec 6.2
+	   SCHEDULED: <2014-11-05 Wed>
+	   :PROPERTIES:
+	   :Effort:   1:00
+	   :END:
+
+********** NEXT Prepare lec 6.3
+	   SCHEDULED: <2014-11-05 Wed>
+	   :PROPERTIES:
+	   :Effort:   1:00
+	   :END:
+
+********* TODO Week 7
+********** NEXT Prepare outline
+	   SCHEDULED: <2014-11-10 Mon>
+	   :PROPERTIES:
+	   :Effort:   0:30
+	   :END:
+********** NEXT Prepare lec 7.1
+	   SCHEDULED: <2014-11-10 Mon>
+	   :PROPERTIES:
+	   :Effort:   1:00
+	   :END:
+
+********** NEXT Prepare lec 7.2
+	   SCHEDULED: <2014-11-12 Wed>
+	   :PROPERTIES:
+	   :Effort:   1:00
+	   :END:
+
+********** NEXT Prepare lec 7.3
+	   SCHEDULED: <2014-11-12 Wed>
+	   :PROPERTIES:
+	   :Effort:   1:00
+	   :END:
+
+********* TODO Week 8
+********** NEXT Prepare outline
+	   SCHEDULED: <2014-11-17 Mon>
+	   :PROPERTIES:
+	   :Effort:   0:30
+	   :END:
+********** NEXT Prepare lec 8.1
+	   SCHEDULED: <2014-11-17 Mon>
+	   :PROPERTIES:
+	   :Effort:   1:00
+	   :END:
+
+********** NEXT Prepare lec 8.2
+	   SCHEDULED: <2014-11-19 Wed>
+	   :PROPERTIES:
+	   :Effort:   1:00
+	   :END:
+
+********** NEXT Prepare lec 8.3
+	   SCHEDULED: <2014-11-19 Wed>
+	   :PROPERTIES:
+	   :Effort:   1:00
+	   :END:
+
+********* TODO Week 9
+********** NEXT Prepare outline
+	   SCHEDULED: <2014-11-24 Mon>
+	   :PROPERTIES:
+	   :Effort:   0:30
+	   :END:
+********** NEXT Prepare lec 9.1
+	   SCHEDULED: <2014-11-24 Mon>
+	   :PROPERTIES:
+	   :Effort:   1:00
+	   :END:
+
+********** NEXT Prepare lec 9.2
+	   SCHEDULED: <2014-11-26 Wed>
+	   :PROPERTIES:
+	   :Effort:   1:00
+	   :END:
+
+********** NEXT Prepare lec 9.3
+	   SCHEDULED: <2014-11-26 Wed>
+	   :PROPERTIES:
+	   :Effort:   1:00
+	   :END:
+
+********* TODO Week 10
+********** NEXT Prepare outline
+	   SCHEDULED: <2014-12-01 Mon>
+	   :PROPERTIES:
+	   :Effort:   0:30
+	   :END:
+********** NEXT Prepare lec 10.1
+	   SCHEDULED: <2014-12-01 Mon>
+	   :PROPERTIES:
+	   :Effort:   1:00
+	   :END:
+
+********** NEXT Prepare lec 10.2
+	   SCHEDULED: <2014-12-03 Wed>
+	   :PROPERTIES:
+	   :Effort:   1:00
+	   :END:
+
+********** NEXT Prepare lec 10.3
+	   SCHEDULED: <2014-12-03 Wed>
+	   :PROPERTIES:
+	   :Effort:   1:00
+	   :END:
+
+******* TODO Exams
+******** NEXT Midterm 1
+********* NEXT Write Midterm 1
+	  SCHEDULED: <2014-10-20 Mon>
+	  :PROPERTIES:
+	  :Effort:   1:00
+	  :END:
+********* NEXT Get TA's comments
+	  DEADLINE: <2014-10-22 Wed>
+	  :PROPERTIES:
+	  :Effort:   0:10
+	  :END:
+********* NEXT Update exam based on TA comments
+	  DEADLINE: <2014-10-24 Fri>
+	  :PROPERTIES:
+	  :Effort:   0:15
+	  :END:
+********* NEXT Submit midterm to printing/frdesk
+	  DEADLINE: <2014-10-27 Mon>
+	  :PROPERTIES:
+	  :Effort:   0:10
+	  :END:
+******** NEXT Midterm 2
+********* NEXT Write Midterm 2
+	  SCHEDULED: <2014-11-10 Mon>
+	  :PROPERTIES:
+	  :Effort:   1:00
+	  :END:
+********* NEXT Get TA's comments
+	  DEADLINE: <2014-11-12 Wed>
+	  :PROPERTIES:
+	  :Effort:   0:10
+	  :END:
+********* NEXT Update exam based on TA comments
+	  DEADLINE: <2014-11-14 Fri>
+	  :PROPERTIES:
+	  :Effort:   0:15
+	  :END:
+********* NEXT Submit midterm to printing/frdesk
+	  DEADLINE: <2014-11-17 Mon>
+	  :PROPERTIES:
+	  :Effort:   0:10
+	  :END:
+******** NEXT Final
+********* NEXT Write Final
+	  SCHEDULED: <2014-12-01 Mon>
+	  :PROPERTIES:
+	  :Effort:   1:00
+	  :END:
+********* NEXT Get TA's comments
+	  DEADLINE: <2014-12-03 Wed>
+	  :PROPERTIES:
+	  :Effort:   0:10
+	  :END:
+********* NEXT Update exam based on TA comments
+	  DEADLINE: <2014-12-05 Fri>
+	  :PROPERTIES:
+	  :Effort:   0:15
+	  :END:
+********* NEXT Submit midterm to printing/frdesk
+	  DEADLINE: <2014-12-10 Wed>
+	  :PROPERTIES:
+	  :Effort:   0:10
+	  :END:
+******* TODO Homework
+******** NEXT Set Homework
+	 SCHEDULED: <2014-09-29 Mon>
+	 :PROPERTIES:
+	 :Effort:   0:30
+	 :END:
+
+******* TODO Website
+******** NEXT Make website
+	 SCHEDULED: <2014-09-29 Mon>
+	 :PROPERTIES:
+	 :Effort:   1:00
+	 :END:
+******* TODO Piazza
+******** NEXT Set up piazza
+	 SCHEDULED: <2014-09-29 Mon>
+	 :PROPERTIES:
+	 :Effort:   0:30
+	 :END:
+******* TODO Grades
+******** NEXT Create grade spreadsheet
+	 DEADLINE: <2014-12-22 Mon>
+	 :PROPERTIES:
+	 :Effort:   0:30
+	 :END:
+******** NEXT Enter grades
+	 DEADLINE: <2014-12-23 Tue>
+	 :PROPERTIES:
+	 :Effort:   0:15
+	 :END:
 ****** Clocking
 ****** Schedule
+******* TODO Lectures
+******** TODO Week 1
+********* NEXT Lecture 1.1
+	  <2014-10-06 Mon 12:55-13:55>
+	  :PROPERTIES:
+	  :Effort:   1:00
+	  :END:
+********* NEXT Lecture 1.2
+	  <2014-10-08 Wed 12:55-13:55>
+	  :PROPERTIES:
+	  :Effort:   1:00
+	  :END:
+
+********* NEXT Lecture 1.3
+	  <2014-10-10 Fri 12:55-13:55>
+	  :PROPERTIES:
+	  :Effort:   1:00
+	  :END:
+******** TODO Week 2
+********* NEXT Lecture 2.1
+	  <2014-10-13 Mon 12:55-13:55>
+	  :PROPERTIES:
+	  :Effort:   1:00
+	  :END:
+********* NEXT Lecture 2.2
+	  <2014-10-15 Wed 12:55-13:55>
+	  :PROPERTIES:
+	  :Effort:   1:00
+	  :END:
+
+********* NEXT Lecture 2.3
+	  <2014-10-17 Fri 12:55-13:55>
+	  :PROPERTIES:
+	  :Effort:   1:00
+	  :END:
+******** TODO Week 3
+********* NEXT Lecture 3.1
+	  <2014-10-20 Mon 12:55-13:55>
+	  :PROPERTIES:
+	  :Effort:   1:00
+	  :END:
+********* NEXT Lecture 3.2
+	  <2014-10-22 Wed 12:55-13:55>
+	  :PROPERTIES:
+	  :Effort:   1:00
+	  :END:
+
+********* NEXT Lecture 3.3
+	  <2014-10-24 Fri 12:55-13:55>
+	  :PROPERTIES:
+	  :Effort:   1:00
+	  :END:
+******** TODO Week 4
+********* NEXT Lecture 4.1
+	  <2014-10-27 Mon 12:55-13:55>
+	  :PROPERTIES:
+	  :Effort:   1:00
+	  :END:
+********* NEXT Lecture 4.2
+	  <2014-10-29 Wed 12:55-13:55>
+	  :PROPERTIES:
+	  :Effort:   1:00
+	  :END:
+
+********* NEXT Lecture 4.3
+	  <2014-10-31 Fri 12:55-13:55>
+	  :PROPERTIES:
+	  :Effort:   1:00
+	  :END:
+******** TODO Week 5
+********* NEXT Lecture 5.1
+	  <2014-11-03 Mon 12:55-13:55>
+	  :PROPERTIES:
+	  :Effort:   1:00
+	  :END:
+********* NEXT Lecture 5.2
+	  <2014-11-05 Wed 12:55-13:55>
+	  :PROPERTIES:
+	  :Effort:   1:00
+	  :END:
+
+********* NEXT Lecture 5.3
+	  <2014-11-07 Fri 12:55-13:55>
+	  :PROPERTIES:
+	  :Effort:   1:00
+	  :END:
+******** TODO Week 6
+********* NEXT Lecture 6.1
+	  <2014-11-10 Mon 12:55-13:55>
+	  :PROPERTIES:
+	  :Effort:   1:00
+	  :END:
+********* NEXT Lecture 6.2
+	  <2014-11-12 Wed 12:55-13:55>
+	  :PROPERTIES:
+	  :Effort:   1:00
+	  :END:
+
+********* NEXT Lecture 6.3
+	  <2014-11-14 Fri 12:55-13:55>
+	  :PROPERTIES:
+	  :Effort:   1:00
+	  :END:
+******** TODO Week 7
+********* NEXT Lecture 7.1
+	  <2014-11-17 Mon 12:55-13:55>
+	  :PROPERTIES:
+	  :Effort:   1:00
+	  :END:
+********* NEXT Lecture 7.2
+	  <2014-11-19 Wed 12:55-13:55>
+	  :PROPERTIES:
+	  :Effort:   1:00
+	  :END:
+
+********* NEXT Lecture 7.3
+	  <2014-11-21 Fri 12:55-13:55>
+	  :PROPERTIES:
+	  :Effort:   1:00
+	  :END:
+******** TODO Week 8
+********* NEXT Lecture 8.1
+	  <2014-11-24 Mon 12:55-13:55>
+	  :PROPERTIES:
+	  :Effort:   1:00
+	  :END:
+********* NEXT Lecture 8.2
+	  <2014-11-26 Wed 12:55-13:55>
+	  :PROPERTIES:
+	  :Effort:   1:00
+	  :END:
+
+********* NEXT Lecture 8.3
+	  <2014-11-28 Fri 12:55-13:55>
+	  :PROPERTIES:
+	  :Effort:   1:00
+	  :END:
+******** TODO Week 9
+********* NEXT Lecture 9.1
+	  <2014-12-01 Mon 12:55-13:55>
+	  :PROPERTIES:
+	  :Effort:   1:00
+	  :END:
+********* NEXT Lecture 9.2
+	  <2014-12-03 Wed 12:55-13:55>
+	  :PROPERTIES:
+	  :Effort:   1:00
+	  :END:
+
+********* NEXT Lecture 9.3
+	  <2014-12-05 Fri 12:55-13:55>
+	  :PROPERTIES:
+	  :Effort:   1:00
+	  :END:
+******** TODO Week 10
+********* NEXT Lecture 10.1
+	  <2014-12-08 Mon 12:55-13:55>
+	  :PROPERTIES:
+	  :Effort:   1:00
+	  :END:
+********* NEXT Lecture 10.2
+	  <2014-12-10 Wed 12:55-13:55>
+	  :PROPERTIES:
+	  :Effort:   1:00
+	  :END:
+
+********* NEXT Lecture 10.3
+	  <2014-12-12 Fri 12:55-13:55>
+	  :PROPERTIES:
+	  :Effort:   1:00
+	  :END:
+******* TODO Exams
+******** NEXT Midterm 1
+	 <2014-10-31 Fri 12:55-14:05>
+	 :PROPERTIES:
+	 :Effort:   1:30
+	 :END:
+******** NEXT Midterm 2
+	 <2014-11-21 Fri 12:55-14:05>
+	 :PROPERTIES:
+	 :Effort:   1:30
+	 :END:
+******** NEXT Final
+	 <2014-12-15 Mon 11:30-14:30>
+	 :PROPERTIES:
+	 :Effort:   4:00
+	 :END:
+
+******* TODO Office hours
+******** NEXT O/H Week 1
+	 <2014-10-08 Wed 15:00-17:00>
+	 :PROPERTIES:
+	 :Effort:   2:00
+	 :END:
+
+******** NEXT O/H Week 2
+	 <2014-10-15 Wed 15:00-17:00>
+	 :PROPERTIES:
+	 :Effort:   2:00
+	 :END:
+
+******** NEXT O/H Week 3
+	 <2014-10-22 Wed 15:00-17:00>
+	 :PROPERTIES:
+	 :Effort:   2:00
+	 :END:
+
+******** NEXT O/H Week 4
+	 <2014-10-29 Wed 15:00-17:00>
+	 :PROPERTIES:
+	 :Effort:   2:00
+	 :END:
+
+******** NEXT O/H Week 5
+	 <2014-11-05 Wed 15:00-17:00>
+	 :PROPERTIES:
+	 :Effort:   2:00
+	 :END:
+
+******** NEXT O/H Week 6
+	 <2014-11-12 Wed 15:00-17:00>
+	 :PROPERTIES:
+	 :Effort:   2:00
+	 :END:
+
+******** NEXT O/H Week 7
+	 <2014-11-19 Wed 15:00-17:00>
+	 :PROPERTIES:
+	 :Effort:   2:00
+	 :END:
+
+******** NEXT O/H Week 8
+	 <2014-11-26 Wed 15:00-17:00>
+	 :PROPERTIES:
+	 :Effort:   2:00
+	 :END:
+
+******** NEXT O/H Week 9
+	 <2014-12-03 Wed 15:00-17:00>
+	 :PROPERTIES:
+	 :Effort:   2:00
+	 :END:
+
+******** NEXT O/H Week 10
+	 <2014-12-10 Wed 15:00-17:00>
+	 :PROPERTIES:
+	 :Effort:   2:00
+	 :END:
+
+******* TODO Meetings
 
 **** Winter 2015
 ***** TODO Math20B
@@ -11577,8 +12805,11 @@ See email from worldscientific4@mail3.wspc.com
      :Effort:   4:00
      :END:
 *** TODO Org Setup
-**** NEXT change lectures/office hours to tasks
+**** DONE change lectures/office hours to tasks
      SCHEDULED: <2014-09-15 Mon>
+     :LOGBOOK:
+     - State "DONE"       from "NEXT"       [2014-09-18 Thu 14:37]
+     :END:
 [2014-08-13 Wed 17:13]
 That way clock and effort should show in agenda
 ** Teaching as research
