@@ -1916,9 +1916,14 @@ This proves the inequality we need.  The remaining problem is to remove the symm
 	 - State "WAITING"    from "NEXT"       [2014-09-16 Tue 11:11] \\
 	   Sent email. Waiting on response.
 	 :END:
-******* TODO Create a FMP project
+******* CANCELLED Create a FMP project
+	:LOGBOOK:
+	- State "CANCELLED"  from "TODO"       [2014-09-17 Wed 21:03] \\
+	  I don't want to teach in spring.
+	:END:
 ****** TODO Organisation
 ******* NEXT Create tasks
+	 SCHEDULED: <2014-09-19 Fri>
 ****** TODO Research
 ****** TODO Writing
 ***** Refs
@@ -1965,7 +1970,7 @@ This proves the inequality we need.  The remaining problem is to remove the symm
        :ID:       c1250415-a95a-42ee-94cc-4bf6e967467e
        :END:
 ****** NEXT Set up specific tasks for writing content
-       SCHEDULED: <2014-09-15 Mon>
+       SCHEDULED: <2014-09-19 Fri>
 ****** NEXT Compile work into org file
        SCHEDULED: <2014-09-01 Mon>
        :LOGBOOK:
@@ -1993,19 +1998,6 @@ This proves the inequality we need.  The remaining problem is to remove the symm
        CLOCK: [2014-08-12 Tue 14:05]--[2014-08-12 Tue 15:31] =>  1:26
        :END:
 <2014-08-12 Tue 14:00-15:30>
-*** Future 							    :SOMEDAY:
-**** TODO Study non-smooth mean curvature flow, minimal surfaces via support fn
-     SCHEDULED: <2015-01-01 Thu>
-     :LOGBOOK:
-     CLOCK: [2013-10-19 Sat 15:33]--[2013-10-19 Sat 15:34] =>  0:01
-     :END:
-     :PROPERTIES:
-     :ID:       7fa8e994-7da5-4bf8-bae3-000740c3e966
-     :END:
-[2013-10-19 Sat 15:33]
-- This is like Evans et. al. for level set MCF. Take a non-regular convex body and evolve it's support function by MCF in a weak sense.
-- Surely I can get something out of this? Maybe I can get regularity results? 
-- Also, high co-dimension should be interesting. The support function is the projection onto the normal bundle here.
 **** TODO csf_networks 					       :CSF_NETWORKS:
    :PROPERTIES:
    :ID:       1bc93b81-8423-4598-8297-f0b90aa39aa7
@@ -2037,6 +2029,7 @@ This proves the inequality we need.  The remaining problem is to remove the symm
 	 :END:
 
 ******** TODO Write up variations
+	 SCHEDULED: <2014-09-19 Fri>
 	 :PROPERTIES:
 	 :ID:       35149012-93ea-4911-9903-8f3a2e335615
 	 :END:
@@ -2127,7 +2120,20 @@ This is some sort of curvature flow for polygons - exactly what I want to look a
 :END:
 [[papers:MR1240580][MR1240580-paper]]
 [[bib:MR1240580][MR1240580-bib]]
-**** TODO bakry_emery_levy_gromov		    :LEVY_GROMOV:BAKRY_EMERY:
+*** Future 							    :SOMEDAY:
+**** TODO Study non-smooth mean curvature flow, minimal surfaces via support fn
+     SCHEDULED: <2015-01-01 Thu>
+     :LOGBOOK:
+     CLOCK: [2013-10-19 Sat 15:33]--[2013-10-19 Sat 15:34] =>  0:01
+     :END:
+     :PROPERTIES:
+     :ID:       7fa8e994-7da5-4bf8-bae3-000740c3e966
+     :END:
+[2013-10-19 Sat 15:33]
+- This is like Evans et. al. for level set MCF. Take a non-regular convex body and evolve it's support function by MCF in a weak sense.
+- Surely I can get something out of this? Maybe I can get regularity results? 
+- Also, high co-dimension should be interesting. The support function is the projection onto the normal bundle here.
+**** TODO bakry_emery_levy_gromov 		    :LEVY_GROMOV:BAKRY_EMERY:
    :PROPERTIES:
    :ID:       4eb29f73-141b-4ca2-9394-436a9293bdce
    :END:
@@ -5527,7 +5533,10 @@ http://www.uu.se/en/jobs/?positionId=32145
 
 http://www.dtu.dk/Job/job?id=171c797f-0619-4bd4-a855-8ff6c4990af7
 
-**** TODO Freiburg
+**** DONE Freiburg
+     :LOGBOOK:
+     - State "DONE"       from "TODO"       [2014-09-17 Wed 21:02]
+     :END:
 ***** Tasks
 ****** DONE Compile application materials
        :LOGBOOK:
@@ -5540,14 +5549,16 @@ http://www.dtu.dk/Job/job?id=171c797f-0619-4bd4-a855-8ff6c4990af7
 - research statement 
 - list of publications 
 - letters of recommendation
-****** WAITING Submit application
+****** DONE Submit application
        :LOGBOOK:
+       - State "DONE"       from "WAITING"    [2014-09-17 Wed 21:02]
        - State "WAITING"    from "NEXT"       [2014-06-10 Tue 14:10] \\
 	 Waiting on response.
        :END:
 
-****** WAITING Follow up on application
+****** DONE Follow up on application
        :LOGBOOK:
+       - State "DONE"       from "WAITING"    [2014-09-17 Wed 21:02]
        - State "WAITING"    from "NEXT"       [2014-08-23 Sat 16:28] \\
 	 Waiting on reply about whether I got the job.
        :END:
@@ -5563,7 +5574,10 @@ http://www.dtu.dk/Job/job?id=171c797f-0619-4bd4-a855-8ff6c4990af7
 http://www.uni-freiburg.de/administration/stellenboerse?erf=y&stellenid=8792&layout=v4&set_language=en
 [[file:~/reference/academic/jobs/2015/freiburg]]
 [[file:~/working/academic/jobs/job_applications/8792_freiburg]]
-**** TODO Monash						     :MONASH:
+**** DONE Monash						     :MONASH:
+     :LOGBOOK:
+     - State "DONE"       from "TODO"       [2014-09-17 Wed 21:02]
+     :END:
 ***** Tasks
 ****** DONE Set up tasks/etc.
       DEADLINE: <2014-07-20 Sun>
@@ -5616,7 +5630,10 @@ http://www.uni-freiburg.de/administration/stellenboerse?erf=y&stellenid=8792&lay
 	 CLOCK: [2014-08-23 Sat 13:33]--[2014-08-23 Sat 13:48] =>  0:15
 	 :END:
 
-******** TODO Respond to offer
+******** DONE Respond to offer
+	 :LOGBOOK:
+	 - State "DONE"       from "TODO"       [2014-09-17 Wed 21:02]
+	 :END:
 ***** Notes
 - http://jobs.monash.edu.au/jobDetails.asp?sJobIDs=524967
 - Contact: [[mailto:sci-maths-jobs@monash.edu]]

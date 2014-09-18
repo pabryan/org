@@ -9367,7 +9367,10 @@ Ledden Auditorium
 	 :Effort: 1:00
 	 :END:
 **** Summer 2014 II
-***** TODO MATH20C
+***** DONE MATH20C
+      :LOGBOOK:
+      - State "DONE"       from "TODO"       [2014-09-17 Wed 21:03]
+      :END:
 [[file:~/working/ucsd/teaching/2014/summer2/math20c_summer2_2014]] 
 [[file:~/reference/ucsd/teaching/2014/summer2/math20c]]
 ****** Notes
@@ -9941,7 +9944,10 @@ received 25/25 points.
 	 - State "DONE"       from "NEXT"       [2014-08-04 Mon 17:10]
 	 CLOCK: [2014-08-04 Mon 17:03]--[2014-08-04 Mon 17:10] =>  0:07
 	 :END:
-******* TODO Grades
+******* DONE Grades
+	:LOGBOOK:
+	- State "DONE"       from "TODO"       [2014-09-17 Wed 21:02]
+	:END:
 ******** DONE Enter grades
 	 DEADLINE: <2014-09-09 Tue>
 	 :LOGBOOK:
@@ -10087,8 +10093,9 @@ We need to sketch the graphs. To do this for curves 1. and 2., we need to know t
 
 Here's a plot of the level curves for $$c = 2$$. I'll let you try to match the curves in the picture to the functions 1,2,3 and 4.
 
-******* TODO Webwork
+******* DONE Webwork
 	:LOGBOOK:
+	- State "DONE"       from "TODO"       [2014-09-17 Wed 21:03]
 	CLOCK: [2014-09-17 Wed 15:04]--[2014-09-17 Wed 15:17] =>  0:13
 	:END:
 ******** DONE Read Tesler's info
@@ -10182,12 +10189,19 @@ Here's a plot of the level curves for $$c = 2$$. I'll let you try to match the c
 	 :PROPERTIES:
 	 :Effort:   0:10
 	 :END:
-******** TODO Report Bugs
-********* NEXT Question 18, HW3
+******** DONE Report Bugs
+	 :LOGBOOK:
+	 - State "DONE"       from "TODO"       [2014-09-17 Wed 21:03]
+	 :END:
+********* DONE Question 18, HW3
 	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2014-09-17 Wed 21:03]
 	  CLOCK: [2014-08-19 Tue 17:40]--[2014-08-19 Tue 17:49] =>  0:09
 	  :END:
-********* NEXT Question 1, HW4
+********* DONE Question 1, HW4
+	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2014-09-17 Wed 21:03]
+	  :END:
 part a should be in terms of $t$ only.
 ******** DONE Create survey
 	 DEADLINE: <2014-09-06 Sat>
@@ -11381,6 +11395,65 @@ Center 119
 	 CLOCK: [2014-07-31 Thu 11:00]--[2014-07-31 Thu 11:29] =>  0:29
 	 :END:
 <2014-07-31 Thu 11:00-11:30>
+*** 2014/2015
+**** Fall 2014
+***** TODO Math20A
+****** Files
+[[file:~/working/ucsd/teaching/2015/fall/math20a_fall_2015]] 
+[[file:~/reference/ucsd/teaching/2015/fall/math20a]]
+****** Notes
+****** Tasks
+******* TODO Plan course
+******** NEXT Org structure
+	 SCHEDULED: <2014-09-18 Thu>
+Lectures in calendar and tasks like planning lectures.
+
+****** Clocking
+****** Schedule
+***** TODO Math142A
+****** Files
+[[file:~/working/ucsd/teaching/2015/fall/math142a_fall_2015]] 
+[[file:~/reference/ucsd/teaching/2015/fall/math142a]]
+****** Notes
+****** Tasks
+******* TODO Plan course
+******** NEXT Org structure
+	 SCHEDULED: <2014-09-18 Thu>
+Lectures in calendar and tasks like planning lectures.
+
+****** Clocking
+****** Schedule
+
+**** Winter 2015
+***** TODO Math20B
+****** Files
+[[file:~/working/ucsd/teaching/2015/winter/math20b_winter_2015]] 
+[[file:~/reference/ucsd/teaching/2015/winter/math20b]]
+****** Notes
+****** Tasks
+******* TODO Plan course
+******** NEXT Org structure
+	 SCHEDULED: <2014-12-15 Mon>
+Lectures in calendar and tasks like planning lectures.
+
+****** Clocking
+****** Schedule
+***** TODO Math142B
+****** Files
+[[file:~/working/ucsd/teaching/2015/winter/math142b_winter_2015]] 
+[[file:~/reference/ucsd/teaching/2015/winter/math142b]]
+****** Notes
+****** Tasks
+******* TODO Plan course
+******** NEXT Org structure
+	 SCHEDULED: <2014-12-15 Mon>
+Lectures in calendar and tasks like planning lectures.
+
+****** Clocking
+****** Schedule
+
+**** Spring 2015
+**** Summer I 2015
 ** Professional Development
 *** TODO Check out Center for Teaching Development
     :PROPERTIES:
@@ -11987,7 +12060,10 @@ https://maps.google.com/maps?client=ubuntu-browser&ie=UTF-8&q=Career+Services+Ce
 - Webwork
 - Moodle
 *** Tasks
-**** TODO Modes of delivery
+**** DONE Modes of delivery
+     :LOGBOOK:
+     - State "DONE"       from "TODO"       [2014-09-17 Wed 21:03]
+     :END:
 ***** DONE Ask Ben Chow about webwork experience
       :LOGBOOK:
       - State "DONE"       from "NEXT"       [2014-03-08 Sat 19:26]
