@@ -1937,15 +1937,16 @@ This proves the inequality we need.  The remaining problem is to remove the symm
 [[file:~/publish/geometric_pipe_flows]]
 
 ***** Tasks
-****** DONE Set up exact tasks
-       - State "DONE"       from "NEXT"       [2013-06-23 Sun 16:12]
-       :LOGBOOK:
-       CLOCK: [2013-02-06 Wed 14:58]--[2013-02-06 Wed 15:09] =>  0:11
-       :END:
-       :PROPERTIES:
-       :ID:       bd4e49ca-6f78-44af-aa3b-782d2eb98ff3
-       :END:
-****** DONE Transcribe pipe examples from Bei Da notebook
+****** TODO Set up tasks
+******* DONE Set up exact tasks
+       	- State "DONE"       from "NEXT"       [2013-06-23 Sun 16:12]
+       	:LOGBOOK:
+       	CLOCK: [2013-02-06 Wed 14:58]--[2013-02-06 Wed 15:09] =>  0:11
+       	:END:
+       	:PROPERTIES:
+       	:ID:       bd4e49ca-6f78-44af-aa3b-782d2eb98ff3
+       	:END:
+******* DONE Transcribe pipe examples from Bei Da notebook
   :LOGBOOK:
   - State "DONE"       from "TODO"       [2014-09-18 Thu 14:39]
   CLOCK: [2012-11-20 Tue 10:48]--[2012-11-20 Tue 10:49] =>  0:01
@@ -1955,7 +1956,7 @@ This proves the inequality we need.  The remaining problem is to remove the symm
   :END:
 [2012-11-20 Tue 10:48]
 
-****** DONE Transcribe from Bei Da notebook: pipe flow
+******* DONE Transcribe from Bei Da notebook: pipe flow
   :LOGBOOK:
   - State "DONE"       from "TODO"       [2014-09-18 Thu 14:39]
   :END:
@@ -1963,27 +1964,71 @@ This proves the inequality we need.  The remaining problem is to remove the symm
   :ID:       acf2c85c-2e65-45b7-a705-e30b58a7ca4b
   :END:
 [2012-11-20 Tue 11:04]
-****** DONE Prepare talk at Eugene
-       - State "DONE"       from "NEXT"       [2013-06-23 Sun 16:12]
-       :LOGBOOK:
-       CLOCK: [2013-05-13 Mon 18:28]--[2013-05-13 Mon 18:43] =>  0:15
-       :END:
-       :PROPERTIES:
-       :ID:       c1250415-a95a-42ee-94cc-4bf6e967467e
-       :END:
-****** NEXT Set up specific tasks for writing content
-       SCHEDULED: <2014-09-19 Fri>
-****** NEXT Compile work into org file
-       SCHEDULED: <2014-09-01 Mon>
-       :LOGBOOK:
-       CLOCK: [2014-07-31 Thu 12:29]--[2014-07-31 Thu 12:58] =>  0:29
-       CLOCK: [2014-07-21 Mon 18:46]--[2014-07-21 Mon 19:29] =>  0:43
-       :END:
-       :PROPERTIES:
-       :ID:       4f27c099-1b3f-44a1-b38d-394b791aabef
-       :END:
-****** NEXT Follow up with Steve Roberts
-       SCHEDULED: <2014-09-19 Fri>
+******* DONE Prepare talk at Eugene
+       	- State "DONE"       from "NEXT"       [2013-06-23 Sun 16:12]
+       	:LOGBOOK:
+       	CLOCK: [2013-05-13 Mon 18:28]--[2013-05-13 Mon 18:43] =>  0:15
+       	:END:
+       	:PROPERTIES:
+       	:ID:       c1250415-a95a-42ee-94cc-4bf6e967467e
+       	:END:
+******* DONE Set up specific tasks for writing content
+       	SCHEDULED: <2014-09-19 Fri>
+       	:LOGBOOK:
+	- State "DONE"       from "NEXT"       [2014-09-18 Thu 19:14]
+       	CLOCK: [2014-09-18 Thu 18:49]--[2014-09-18 Thu 19:14] =>  0:25
+       	CLOCK: [2014-09-18 Thu 17:50]--[2014-09-18 Thu 18:21] =>  0:31
+       	CLOCK: [2014-09-18 Thu 16:45]--[2014-09-18 Thu 17:35] =>  0:50
+       	:END:
+******* DONE Compile work into org file
+       	SCHEDULED: <2014-09-01 Mon>
+       	:LOGBOOK:
+       	- State "DONE"       from "NEXT"       [2014-09-18 Thu 18:49]
+       	CLOCK: [2014-07-31 Thu 12:29]--[2014-07-31 Thu 12:58] =>  0:29
+       	CLOCK: [2014-07-21 Mon 18:46]--[2014-07-21 Mon 19:29] =>  0:43
+       	:END:
+       	:PROPERTIES:
+       	:ID:       4f27c099-1b3f-44a1-b38d-394b791aabef
+       	:END:
+****** TODO Write Paper
+******* TODO Cont. Mech on Manifolds
+******** NEXT Method is adapted to the geometry
+- Mention no need to mess about with Jacobians: great simplification!
+- discretisation is also better. Don't need to transform boundary conditions at cell interfaces
+******** NEXT Add transport theorem
+******** NEXT Sort out conservation equations/Material derivative/Lie derivative
+******** NEXT Boundary conditions
+******** NEXT Comment on characteristic function
+- should get a delta function across the free surface!
+******** NEXT Jump discontinuities
+Marsden et. al. book
+******** NEXT Asymptotic analysis, direct integration?
+- see sec 2 of bourdarias, ersoy, gerbi 
+******* TODO Pipe domain
+******** NEXT Change D to arbitrary 2-manifold
+******** NEXT Write without coordinates
+******** NEXT Non-orthogonal domains
+******** NEXT Sort out boundary conditions
+******** NEXT Review divergence and transport theorems
+******* TODO Cross-section equations
+******** NEXT Sort out boundary terms
+- fluid velocity or free surface velocity?
+- take into account jumps?
+******** NEXT Hyperbolicity
+******** NEXT Profile on cross sections
+- in general the quantities may have some qualitative behaviour on the cross-sections: e.g. approximately constant, radially symmetric, the solution may have some known behaviour over the cross section determined by a "profile" function independent of $t$.
+******* TODO Fluids
+******** NEXT Ideal fluid
+******** NEXT Equation of state
+******** NEXT Approximation by constant density
+******** NEXT Add friction according to Manning-Strickler
+- near eq 2.49 p. 233 of bourdarias, ersoy, gerbi
+******* TODO Riemann geometry background
+******** NEXT Review and revise
+******** NEXT Add transport theorem
+****** TODO Misc
+******* NEXT Follow up with Steve Roberts
+       	SCHEDULED: <2014-09-19 Fri>
 ***** Notes
 ***** References
 - Gerbi et. al.

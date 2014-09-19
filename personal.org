@@ -19,7 +19,6 @@ END:
   :ID:       662a40c5-41ef-417a-981c-a2112dbb3a0e
   :CATEGORY: Finances
   :END:
-
 ** Bank
 *** Chase
 **** Chase Routing Number
@@ -501,6 +500,8 @@ Can we suspend loan repayments for a few months?
 - AT&T: $50 bundle?
 - Get rid of Tritoncash
 - Look for other savings.
+*** NEXT Pay Annamieke $20
+    SCHEDULED: <2014-09-27 Sat>
 
 ** Tax
 *** US

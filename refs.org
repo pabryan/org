@@ -50,7 +50,7 @@
 :END:
 [[papers:MR690039][MR690039-paper]]
 [[bib:MR690039][MR690039-bib]]
-*** 35J  (1973-now) Elliptic equations and systems [See also 58J10, 58J20]
+*** 35J (1973-now) Elliptic equations and systems [See also 58J10, 58J20]
 **** 35J10 (1973-now) Schrödinger operator [See also 35Pxx]
 ***** Proof of the fundamental gap conjecture
 :PROPERTIES:
@@ -79,7 +79,7 @@
 :END:
 [[papers:MR1376656][MR1376656-paper]]
 [[bib:MR1376656][MR1376656-bib]]
-*** 35K   (1973-now) Parabolic equations and systems [See also 35Bxx, 35Dxx, 35R30, 35R35, 58J35] :parabolic:
+*** 35K (1973-now) Parabolic equations and systems [See also 35Bxx, 35Dxx, 35R30, 35R35, 58J35] :parabolic:
 **** 35K55  (1973-now) Nonlinear parabolic equations	:nonlinear:parabolic:
 ***** Convex curves moving translationally in the plane :convex:curves:translation:plane:geometry:evolution:
 :PROPERTIES:
@@ -121,6 +121,14 @@
 [[papers:MR1240580][MR1240580-paper]]
 [[bib:MR1240580][MR1240580-bib]]
 
+*** 35Q (1973-now) Equations of mathematical physics and other areas of application [See also 35J05, 35J10, 35K05, 35L05]
+**** 35Q35 (1991-now) PDEs in connection with fluid mechanics
+***** A mathematical model for unsteady mixed flows in closed water pipes
+:PROPERTIES:
+:Custom_ID: MR2886537
+:END:
+[[papers:MR2886537][MR2886537-paper]]
+[[bib:MR2886537][MR2886537-bib]]
 *** 35R Miscellaneous topics
 **** 35R01 Partial differential equations on manifolds		  :manifolds:
 ***** Local {A}ronson-{B}\'enilan estimates and entropy formulae for porous medium and fast diffusion equations on manifolds :porous_medium:entropy:
@@ -1448,3 +1456,10 @@ Here I need to do some more work since $u \mapsto g(\grad u, \grad u)$ is not a 
 :END:
 [[papers:2005PhRvE..72c1106P][2005PhRvE..72c1106P-paper]]
 [[bib:2005PhRvE..72c1106P][2005PhRvE..72c1106P-bib]]
+* ScienceDirect
+** On the one-dimensional theory of blood flow in the larger vessels
+:PROPERTIES:
+:Custom_ID: Hughes1973161
+:END:
+[[papers:Hughes1973161][Hughes1973161-paper]]
+[[bib:Hughes1973161][Hughes1973161-bib]]
