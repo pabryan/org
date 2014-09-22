@@ -11750,11 +11750,16 @@ Lectures in calendar and tasks like planning lectures.
 	 :Effort:   0:30
 	 :END:
 
-******* TODO Website
-******** NEXT Make website
+******* DONE Website
+	:LOGBOOK:
+	- State "DONE"       from "TODO"       [2014-09-22 Mon 12:13]
+	CLOCK: [2014-09-22 Mon 12:13]
+	:END:
+******** DONE Make website
 	 SCHEDULED: <2014-09-29 Mon>
 	 :LOGBOOK:
-	 CLOCK: [2014-09-22 Mon 11:48]
+	 - State "DONE"       from "NEXT"       [2014-09-22 Mon 12:13]
+	 CLOCK: [2014-09-22 Mon 11:48]--[2014-09-22 Mon 12:13] =>  0:25
 	 :END:
 	 :PROPERTIES:
 	 :Effort:   1:00
