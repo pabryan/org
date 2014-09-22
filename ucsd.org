@@ -11744,8 +11744,11 @@ Lectures in calendar and tasks like planning lectures.
 	  :Effort:   0:10
 	  :END:
 ******* TODO Homework
-******** NEXT Set Homework
+******** DONE Set Homework
 	 SCHEDULED: <2014-09-29 Mon>
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2014-09-22 Mon 12:13]
+	 :END:
 	 :PROPERTIES:
 	 :Effort:   0:30
 	 :END:
@@ -11753,7 +11756,7 @@ Lectures in calendar and tasks like planning lectures.
 ******* DONE Website
 	:LOGBOOK:
 	- State "DONE"       from "TODO"       [2014-09-22 Mon 12:13]
-	CLOCK: [2014-09-22 Mon 12:13]
+	CLOCK: [2014-09-22 Mon 12:13]--[2014-09-22 Mon 12:15] =>  0:02
 	:END:
 ******** DONE Make website
 	 SCHEDULED: <2014-09-29 Mon>
@@ -11764,15 +11767,27 @@ Lectures in calendar and tasks like planning lectures.
 	 :PROPERTIES:
 	 :Effort:   1:00
 	 :END:
-******* TODO Webwork
-******** TODO Set up webwork
+******* DONE Webwork
+	:LOGBOOK:
+	- State "DONE"       from "TODO"       [2014-09-22 Mon 12:13]
+	:END:
+******** DONE Set up webwork
 	 DEADLINE: <2014-09-29 Mon>
+	 :LOGBOOK:
+	 - State "DONE"       from "TODO"       [2014-09-22 Mon 12:13]
+	 :END:
 	 :PROPERTIES:
 	 :Effort:   0:30
 	 :END:
-******* TODO Piazza
-******** NEXT Set up piazza
+******* DONE Piazza
+	:LOGBOOK:
+	- State "DONE"       from "TODO"       [2014-09-22 Mon 12:13]
+	:END:
+******** DONE Set up piazza
 	 SCHEDULED: <2014-09-29 Mon>
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2014-09-22 Mon 12:13]
+	 :END:
 	 :PROPERTIES:
 	 :Effort:   0:30
 	 :END:
@@ -12399,6 +12414,9 @@ Lectures in calendar and tasks like planning lectures.
 ******* TODO Website
 ******** NEXT Make website
 	 SCHEDULED: <2014-09-29 Mon>
+	 :LOGBOOK:
+	 CLOCK: [2014-09-22 Mon 12:15]
+	 :END:
 	 :PROPERTIES:
 	 :Effort:   1:00
 	 :END:
