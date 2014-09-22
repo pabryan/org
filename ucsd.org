@@ -11399,11 +11399,14 @@ Center 119
 **** Fall 2014
 ***** TODO Math20A
 ****** Files
-[[file:~/working/ucsd/teaching/2015/fall/math20a_fall_2015]] 
-[[file:~/reference/ucsd/teaching/2015/fall/math20a]]
+[[file:~/working/ucsd/teaching/2014/fall/math20a_fall_2014]] 
+[[file:~/reference/ucsd/teaching/2014/fall/math20a]]
 ****** Notes
 ****** Tasks
-******* TODO Plan course
+******* DONE Plan course
+	:LOGBOOK:
+	- State "DONE"       from "TODO"       [2014-09-22 Mon 11:48]
+	:END:
 ******** DONE Org structure
 	 SCHEDULED: <2014-09-18 Thu>
 	 :LOGBOOK:
@@ -11415,7 +11418,10 @@ Center 119
 	 :Effort:   0:30
 	 :END:
 Lectures in calendar and tasks like planning lectures.
-******** NEXT Set up Ted
+******** DONE Set up Ted
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2014-09-22 Mon 11:48]
+	 :END:
 	 :PROPERTIES:
 	 :Effort:   0:15
 	 :END:
@@ -11747,6 +11753,9 @@ Lectures in calendar and tasks like planning lectures.
 ******* TODO Website
 ******** NEXT Make website
 	 SCHEDULED: <2014-09-29 Mon>
+	 :LOGBOOK:
+	 CLOCK: [2014-09-22 Mon 11:48]
+	 :END:
 	 :PROPERTIES:
 	 :Effort:   1:00
 	 :END:
@@ -12034,11 +12043,14 @@ Lectures in calendar and tasks like planning lectures.
 ******* TODO Meetings
 ***** TODO Math142A
 ****** Files
-[[file:~/working/ucsd/teaching/2015/fall/math142a_fall_2015]] 
-[[file:~/reference/ucsd/teaching/2015/fall/math142a]]
+[[file:~/working/ucsd/teaching/2014/fall/math142a_fall_2014]] 
+[[file:~/reference/ucsd/teaching/2014/fall/math142a]]
 ****** Notes
 ****** Tasks
-******* TODO Plan course
+******* DONE Plan course
+	:LOGBOOK:
+	- State "DONE"       from "TODO"       [2014-09-22 Mon 11:48]
+	:END:
 ******** DONE Org structure
 	 SCHEDULED: <2014-09-18 Thu>
 	 :LOGBOOK:
@@ -12047,7 +12059,10 @@ Lectures in calendar and tasks like planning lectures.
 	 :END:
 Lectures in calendar and tasks like planning lectures.
 
-******** NEXT Set up Ted
+******** DONE Set up Ted
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2014-09-22 Mon 11:48]
+	 :END:
 	 :PROPERTIES:
 	 :Effort:   0:15
 	 :END:
