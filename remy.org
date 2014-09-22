@@ -594,8 +594,12 @@ Orthopedics: 866 459 2912
 <2014-04-24 Thu 08:30-09:30>
 ** Fitness classes
 *** BJJ
-**** NEXT Check out classes
+**** CANCELLED Check out classes
      DEADLINE: <2014-09-21 Sun>
+     :LOGBOOK:
+     - State "CANCELLED"  from "NEXT"       [2014-09-22 Mon 11:22] \\
+       Remy's not interested at all!
+     :END:
 BJJ: http://www.thegraciesandiego.com/
 Kung Fu: http://www.5esd.com/
 AiKido: http://www.aikidosd.com/children.htm
