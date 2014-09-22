@@ -5871,7 +5871,7 @@ http://modernizr.com/
 [2013-08-06 Tue 20:57]
 
 **** TODO Change course web template
-  SCHEDULED: <2014-09-01 Mon>
+  SCHEDULED: <2015-01-05 Mon>
   :LOGBOOK:
   CLOCK: [2013-09-22 Sun 12:41]--[2013-09-22 Sun 12:42] =>  0:01
   :END:
@@ -5940,7 +5940,7 @@ Remove sidebar
     :END:
 [2013-09-30 Mon 21:11]
 *** TODO Make print/mobile versions of website
-  SCHEDULED: <2014-09-01 Mon>
+  SCHEDULED: <2015-01-05 Mon>
 [2014-02-10 Mon 15:09]
 *** DONE Update website
     :LOGBOOK:
