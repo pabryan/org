@@ -666,6 +666,12 @@
 :END:
 [[papers:MR979601][MR979601-paper]]
 [[bib:MR979601][MR979601-bib]]
+***** Curve shortening on surfaces
+:PROPERTIES:
+:Custom_ID: MR1046497
+:END:
+[[papers:MR1046497][MR1046497-paper]]
+[[bib:MR1046497][MR1046497-bib]]
 **** 53C23 (1991-now) Global geometric and topological methods (à la Gromov); differential geometric analysis on metric spaces
 ***** Metric structures for {R}iemannian and non-{R}iemannian spaces
 :PROPERTIES:
@@ -1102,6 +1108,12 @@
 :END:
 [[papers:MR1305955][MR1305955-paper]]
 [[bib:MR1305955][MR1305955-bib]]
+***** Deforming curves on convex surfaces to simple closed geodesics
+:PROPERTIES:
+:Custom_ID: MR1087184
+:END:
+[[papers:MR1087184][MR1087184-paper]]
+[[bib:MR1087184][MR1087184-bib]]
 **** 58E11   (1980-now) Critical metrics		   :metrics:critical:
 ***** The {H}arnack estimate for the {R}icci flow :harnack:ricci_flow:evolution:
 :PROPERTIES:
