@@ -1910,9 +1910,11 @@ This proves the inequality we need.  The remaining problem is to remove the symm
 ***** Notes
 ***** Tasks
 ****** TODO Research group
-******* WAITING Contact Matt to see if he's still interested
+******* DONE Contact Matt to see if he's still interested
 	 DEADLINE: <2014-09-19 Fri>
 	 :LOGBOOK:
+	 - State "DONE"       from "WAITING"    [2014-09-24 Wed 10:17] \\
+	   If he contacts me all good. Otherwise, I guess he's not interested anymore.
 	 - State "WAITING"    from "NEXT"       [2014-09-16 Tue 11:11] \\
 	   Sent email. Waiting on response.
 	 :END:
