@@ -13325,9 +13325,14 @@ https://maps.google.com/maps?client=ubuntu-browser&ie=UTF-8&q=Career+Services+Ce
       CLOCK: [2014-09-16 Tue 11:31]--[2014-09-16 Tue 12:13] =>  0:42
       CLOCK: [2014-09-15 Mon 15:57]--[2014-09-15 Mon 17:58] =>  2:01
       :END:
-***** NEXT Find questions with sprintf errors
+***** DONE Find questions with sprintf errors
       :LOGBOOK:
+      - State "DONE"       from "NEXT"       [2014-09-24 Wed 11:57]
       CLOCK: [2014-09-17 Wed 16:41]--[2014-09-17 Wed 17:53] =>  1:12
+      :END:
+***** NEXT Fix questions with errors from previous 20A Bowers
+      :LOGBOOK:
+      CLOCK: [2014-09-24 Wed 11:57]
       :END:
 ** Delivery
 *** Notes
