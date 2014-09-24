@@ -12408,10 +12408,15 @@ Lectures in calendar and tasks like planning lectures.
 	  :PROPERTIES:
 	  :Effort:   0:10
 	  :END:
-******* TODO Homework
-******** NEXT Set Homework
+******* DONE Homework
+	:LOGBOOK:
+	- State "DONE"       from "TODO"       [2014-09-24 Wed 16:17]
+	:END:
+******** DONE Set Homework
 	 SCHEDULED: <2014-09-29 Mon>
 	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2014-09-24 Wed 16:16]
+	 CLOCK: [2014-09-24 Wed 16:09]--[2014-09-24 Wed 16:16] =>  0:07
 	 CLOCK: [2014-09-24 Wed 13:06]--[2014-09-24 Wed 13:29] =>  0:23
 	 :END:
 	 :PROPERTIES:
