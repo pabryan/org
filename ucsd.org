@@ -12087,7 +12087,11 @@ Lectures in calendar and tasks like planning lectures.
 	 :Effort:   0:15
 	 :END:
 ******* TODO Lectures
-******** NEXT Create lecture schedule
+******** DONE Create lecture schedule
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2014-09-24 Wed 13:06]
+	 CLOCK: [2014-09-24 Wed 12:45]--[2014-09-24 Wed 13:06] =>  0:21
+	 :END:
 	 :PROPERTIES:
 	 :Effort:   0:30
 	 :END:
@@ -12407,6 +12411,9 @@ Lectures in calendar and tasks like planning lectures.
 ******* TODO Homework
 ******** NEXT Set Homework
 	 SCHEDULED: <2014-09-29 Mon>
+	 :LOGBOOK:
+	 CLOCK: [2014-09-24 Wed 13:06]--[2014-09-24 Wed 13:29] =>  0:23
+	 :END:
 	 :PROPERTIES:
 	 :Effort:   0:30
 	 :END:
@@ -13335,6 +13342,10 @@ https://maps.google.com/maps?client=ubuntu-browser&ie=UTF-8&q=Career+Services+Ce
       - State "DONE"       from "NEXT"       [2014-09-24 Wed 12:19]
       CLOCK: [2014-09-24 Wed 11:57]--[2014-09-24 Wed 12:19] =>  0:22
       :END:
+**** Meetings
+***** 
+***** Rob Won
+<2014-09-30 Tue 10:30-12:00>
 ** Delivery
 *** Notes
 - Piazza
