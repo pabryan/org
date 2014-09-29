@@ -12096,14 +12096,6 @@ Lectures in calendar and tasks like planning lectures.
 	 :Effort:   0:30
 	 :END:
 ******** NEXT Prepare lectures
-********* TODO Week 0
-********** NEXT Prepare lec 0.1
-	   SCHEDULED: <2014-09-26 Fri>
-
-	   :PROPERTIES:
-	   :Effort:   1:00
-	   :END:
-
 ********* TODO Week 1
 ********** NEXT Prepare outline
 	   SCHEDULED: <2014-09-29 Mon>
