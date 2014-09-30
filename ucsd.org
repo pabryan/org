@@ -13321,6 +13321,9 @@ https://maps.google.com/maps?client=ubuntu-browser&ie=UTF-8&q=Career+Services+Ce
 ** Online Homework
 *** Webwork
 **** Notes
+***** Questions 2014-09-30
+- Do we edit questions mid quarter? Will that mess up student answers?
+- How do we get updated questions onto the server?
 **** Tasks
 ***** DONE Convert questions to PGML
       :LOGBOOK:
@@ -13346,6 +13349,9 @@ https://maps.google.com/maps?client=ubuntu-browser&ie=UTF-8&q=Career+Services+Ce
       :END:
 <2014-09-24 Wed 15:45-16:05>
 ***** Rob Won Webwork introduction
+      :LOGBOOK:
+      CLOCK: [2014-09-30 Tue 10:32]
+      :END:
 <2014-09-30 Tue 10:30-12:00>
 ** Delivery
 *** Notes
