@@ -12431,8 +12431,12 @@ Lectures in calendar and tasks like planning lectures.
 ******** NEXT Update calendar
 ******** NEXT Update homework
 ******* TODO Piazza
-******** NEXT Set up piazza
+******** DONE Set up piazza
 	 SCHEDULED: <2014-09-29 Mon>
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2014-09-30 Tue 12:51]
+	 CLOCK: [2014-09-30 Tue 12:27]--[2014-09-30 Tue 12:51] =>  0:24
+	 :END:
 	 :PROPERTIES:
 	 :Effort:   0:30
 	 :END:
