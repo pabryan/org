@@ -3355,7 +3355,7 @@ We solve for the metric and come up with various parameters such as $U, W$. Thes
 - The specs should not *ever* use the objects to test to create expected values! For instance, I have tests that create a galaxy object for testing and grab nsteps from the object to use in the expected values. This is not good! I should have an expected nsteps and use that to test the code generates the correct nsteps!
 
 **** TODO Numerical Relativity
-     SCHEDULED: <2014-10-01 Wed>
+     SCHEDULED: <2015-01-01 Thu>
 ***** Refs
 ****** Institutions
 https://numrel.aei.mpg.de/
@@ -3380,7 +3380,7 @@ https://numrel.aei.mpg.de/people/radice
 ***** References
 *** Future 							    :SOMEDAY:
 **** TODO Riemannian manifolds
-     SCHEDULED: <2014-10-01 Wed>
+     SCHEDULED: <2015-01-01 Thu>
 ***** Tasks
 ****** Project organisation
 ******* NEXT Create project
@@ -4272,7 +4272,7 @@ First variation.
 ***** Lec 03
 Radon measures: compactness and Reisz representation.
 *** TODO Convex Geometry					     :CONVEX:
-    SCHEDULED: <2014-10-01 Wed>
+    SCHEDULED: <2015-01-01 Thu>
     :LOGBOOK:
     - State "TODO"       from "HOLD"       [2013-10-09 Wed 17:24]
     - State "HOLD"       from "TODO"       [2013-08-04 Sun 16:46] \\
