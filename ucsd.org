@@ -12431,8 +12431,12 @@ Lectures in calendar and tasks like planning lectures.
 ******** NEXT Update calendar
 ******** NEXT Update homework
 ******* TODO Piazza
-******** NEXT Set up piazza
+******** DONE Set up piazza
 	 SCHEDULED: <2014-09-29 Mon>
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2014-09-30 Tue 12:51]
+	 CLOCK: [2014-09-30 Tue 12:27]--[2014-09-30 Tue 12:51] =>  0:24
+	 :END:
 	 :PROPERTIES:
 	 :Effort:   0:30
 	 :END:
@@ -13321,6 +13325,9 @@ https://maps.google.com/maps?client=ubuntu-browser&ie=UTF-8&q=Career+Services+Ce
 ** Online Homework
 *** Webwork
 **** Notes
+***** Questions 2014-09-30
+- Do we edit questions mid quarter? Will that mess up student answers?
+- How do we get updated questions onto the server?
 **** Tasks
 ***** DONE Convert questions to PGML
       :LOGBOOK:
@@ -13346,6 +13353,9 @@ https://maps.google.com/maps?client=ubuntu-browser&ie=UTF-8&q=Career+Services+Ce
       :END:
 <2014-09-24 Wed 15:45-16:05>
 ***** Rob Won Webwork introduction
+      :LOGBOOK:
+      CLOCK: [2014-09-30 Tue 10:32]--[2014-09-30 Tue 11:56] =>  1:24
+      :END:
 <2014-09-30 Tue 10:30-12:00>
 ** Delivery
 *** Notes
