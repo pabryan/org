@@ -8,14 +8,15 @@
 
 ** Tracking
 *** NEXT Exercise
-    SCHEDULED: <2014-09-30 Tue .+1d/2d>
+    SCHEDULED: <2014-10-02 Thu .+1d/2d>
     :PROPERTIES:
     :STYLE:    habit
     :REPEAT_TO_STATE: NEXT
     :ID:       8d56b2ef-1b49-4dc4-b701-1d021a293fa4
-    :LAST_REPEAT: [2014-09-29 Mon 15:45]
+    :LAST_REPEAT: [2014-10-01 Wed 18:14]
     :END:
     :LOGBOOK:
+    - State "DONE"       from "NEXT"       [2014-10-01 Wed 18:14]
     - State "DONE"       from "NEXT"       [2014-09-29 Mon 15:45]
     - State "DONE"       from "NEXT"       [2014-09-26 Fri 11:59]
     - State "DONE"       from "NEXT"       [2014-09-25 Thu 11:12]
@@ -381,8 +382,9 @@
     - State "DONE"       from "NEXT"       [2013-03-09 Sat 11:10]
     :END:
 *** NEXT Mobility
-    SCHEDULED: <2014-09-30 Tue .+1d/2d>
+    SCHEDULED: <2014-10-02 Thu .+1d/2d>
     :LOGBOOK:
+    - State "DONE"       from "NEXT"       [2014-10-01 Wed 16:22]
     - State "DONE"       from "NEXT"       [2014-09-29 Mon 15:45]
     - State "DONE"       from "NEXT"       [2014-09-26 Fri 11:59]
     - State "DONE"       from "NEXT"       [2014-09-25 Thu 11:10]
@@ -842,7 +844,7 @@
     :STYLE:    habit
     :REPEAT_TO_STATE: NEXT
     :ID:       0e75f56d-0356-4a0f-a376-080471ad4aad
-    :LAST_REPEAT: [2014-09-29 Mon 15:45]
+    :LAST_REPEAT: [2014-10-01 Wed 16:22]
     :END:
 
 *** NEXT Daily Release
@@ -1041,9 +1043,10 @@
     :ID:       f57232cd-a8f2-4a76-a507-4d69f765a521
     :END:
 *** NEXT Relax/Meditate
-    SCHEDULED: <2014-09-19 Fri .+1d/2d>
+    SCHEDULED: <2014-10-02 Thu .+1d/2d>
 
     :LOGBOOK:
+    - State "DONE"       from "NEXT"       [2014-10-01 Wed 18:14]
     - State "DONE"       from "NEXT"       [2014-09-18 Thu 14:38]
     - State "DONE"       from "NEXT"       [2014-09-17 Wed 20:49]
     - State "DONE"       from "NEXT"       [2014-09-16 Tue 19:25]
@@ -1290,7 +1293,7 @@
     :STYLE:    habit
     :REPEAT_TO_STATE: NEXT
     :ID:       c0aaf33a-af77-446b-b9fd-cf2d2f78c12a
-    :LAST_REPEAT: [2014-09-18 Thu 14:38]
+    :LAST_REPEAT: [2014-10-01 Wed 18:14]
     :END:
 
 
