@@ -5706,6 +5706,24 @@ http://www.uni-freiburg.de/administration/stellenboerse?erf=y&stellenid=8792&lay
     - State "DONE"       from "NEXT"       [2014-06-10 Tue 14:09]
     CLOCK: [2014-06-10 Tue 13:53]--[2014-06-10 Tue 14:09] =>  0:16
     :END:
+*** TODO 2014
+**** TODO Update application documents
+     SCHEDULED: <2014-10-02 Thu>
+[[file:~/working/academic/jobs/job_applications]]
+***** DONE Update CV
+      :LOGBOOK:
+      - State "DONE"       from "NEXT"       [2014-10-02 Thu 12:24]
+      CLOCK: [2014-10-02 Thu 12:08]--[2014-10-02 Thu 12:24] =>  0:16
+      :END:
+***** DONE Update research statement
+      :LOGBOOK:
+      - State "DONE"       from "NEXT"       [2014-10-02 Thu 13:37]
+      :END:
+***** NEXT Update teaching statement
+      :LOGBOOK:
+      CLOCK: [2014-10-02 Thu 14:27]--[2014-10-02 Thu 14:33] =>  0:06
+      :END:
+***** NEXT Update publication list
 * Visiting
 ** Tasks
 ** People

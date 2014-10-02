@@ -252,8 +252,9 @@ My card won't swipe anymore.
    
 ** Bills 
 *** TODO Pay rent
-    DEADLINE: <2014-10-05 Sun +1m -4d> 
+    DEADLINE: <2014-11-05 Wed +1m -4d> 
    :LOGBOOK:
+   - State "DONE"       from "TODO"       [2014-10-02 Thu 14:00]
    - State "DONE"       from "TODO"       [2014-09-01 Mon 20:03]
    - State "DONE"       from "TODO"       [2014-08-01 Fri 16:00]
    - State "DONE"       from "TODO"       [2014-07-01 Tue 19:16]
@@ -282,15 +283,16 @@ My card won't swipe anymore.
  
    :PROPERTIES:
    :ID:       ea07bf7b-9f89-49bf-90db-3e167baff163
-   :LAST_REPEAT: [2014-09-01 Mon 20:03]
+   :LAST_REPEAT: [2014-10-02 Thu 14:00]
    :END:
 
 Use account A11078844
 [[https://act.ucsd.edu/studentBilling/billing]]
 
 *** TODO Pay ATT
-    SCHEDULED: <2014-10-01 Wed +1m -0d> 
+    SCHEDULED: <2014-11-01 Sat +1m -0d> 
     :LOGBOOK:
+    - State "DONE"       from "TODO"       [2014-10-02 Thu 10:18]
     - State "DONE"       from "TODO"       [2014-08-30 Sat 17:05]
     - State "DONE"       from "TODO"       [2014-08-01 Fri 16:00]
     - State "DONE"       from "TODO"       [2014-07-01 Tue 19:16]
@@ -311,7 +313,7 @@ Use account A11078844
     - State "DONE"       from "TODO"       [2013-04-02 Tue 21:33]
     :END:
     :PROPERTIES:
-    :LAST_REPEAT: [2014-08-30 Sat 17:05]
+    :LAST_REPEAT: [2014-10-02 Thu 10:18]
     :ID:       137987c4-8151-42f0-bfad-b1e06d2cd512
     :END:
 [[http://www.att.com/]]

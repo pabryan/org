@@ -1429,6 +1429,12 @@ Here I need to do some more work since $u \mapsto g(\grad u, \grad u)$ is not a 
 :END:
 [[papers:2014arXiv1404.0141F][2014arXiv1404.0141F-paper]]
 [[bib:2014arXiv1404.0141F][2014arXiv1404.0141F-bib]]
+*** Classification of Convex Ancient Solutions to Curve Shortening Flow on the Sphere
+:PROPERTIES:
+:Custom_ID: 2014arXiv1408.5523B
+:END:
+[[papers:2014arXiv1408.5523B][2014arXiv1408.5523B-paper]]
+[[bib:2014arXiv1408.5523B][2014arXiv1408.5523B-bib]]
 * Misc
   :PROPERTIES:
   :COLUMNS: %75ITEM %TAGS
