@@ -5707,8 +5707,11 @@ http://www.uni-freiburg.de/administration/stellenboerse?erf=y&stellenid=8792&lay
     CLOCK: [2014-06-10 Tue 13:53]--[2014-06-10 Tue 14:09] =>  0:16
     :END:
 *** TODO 2014
-**** TODO Update application documents
+**** DONE Update application documents
      SCHEDULED: <2014-10-02 Thu>
+     :LOGBOOK:
+     - State "DONE"       from "TODO"       [2014-10-03 Fri 17:08]
+     :END:
 [[file:~/working/academic/jobs/job_applications]]
 ***** DONE Update CV
       :LOGBOOK:
@@ -5725,8 +5728,39 @@ http://www.uni-freiburg.de/administration/stellenboerse?erf=y&stellenid=8792&lay
       CLOCK: [2014-10-02 Thu 16:45]--[2014-10-02 Thu 17:14] =>  0:29
       CLOCK: [2014-10-02 Thu 14:27]--[2014-10-02 Thu 14:33] =>  0:06
       :END:
-***** NEXT Update publication list
-***** NEXT Upload documents to mathjobs.org
+***** DONE Update publication list
+      :LOGBOOK:
+      - State "DONE"       from "NEXT"       [2014-10-03 Fri 16:23]
+      CLOCK: [2014-10-03 Fri 16:09]--[2014-10-03 Fri 16:23] =>  0:14
+      :END:
+***** DONE Upload documents to mathjobs.org
+      :LOGBOOK:
+      - State "DONE"       from "NEXT"       [2014-10-03 Fri 17:07]
+      CLOCK: [2014-10-03 Fri 16:23]--[2014-10-03 Fri 17:07] =>  0:44
+      :END:
+**** TODO Apply for jobs
+See http://getpocket.com/a/queue/list/jobs/ for details.
+***** NEXT Berkeley
+      DEADLINE: <2014-12-15 Mon>
+https://www.mathjobs.org/jobs/jobs/6282
+***** NEXT UC Davis
+      DEADLINE: <2014-11-30 Sun>
+https://www.mathjobs.org/jobs/jobs/6008
+***** NEXT Warwick
+      DEADLINE: <2014-10-12 Sun>
+      :LOGBOOK:
+      CLOCK: [2014-10-03 Fri 18:50]--[2014-10-03 Fri 19:39] =>  0:49
+      CLOCK: [2014-10-03 Fri 17:10]--[2014-10-03 Fri 17:55] =>  0:45
+      :END:
+https://www.mathjobs.org/jobs/jobs/6132
+***** NEXT Oregon
+      DEADLINE: <2014-12-15 Mon>
+https://www.mathjobs.org/jobs/jobs/6219
+***** DONE Bonn Junior Fellow
+      :LOGBOOK:
+      - State "DONE"       from "NEXT"       [2014-10-03 Fri 18:12]
+      CLOCK: [2014-10-03 Fri 17:55]--[2014-10-03 Fri 18:12] =>  0:17
+      :END:
 * Visiting
 ** Tasks
 ** People
