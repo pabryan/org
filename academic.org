@@ -5344,14 +5344,17 @@ http://www.django-rest-framework.org/
   :PROPERTIES:
   :ID:       2b0982fc-9928-4b13-bfd4-c4c0ae7c3094
   :END:
-** Applications
-*** 2015
-**** Tasks
-***** NEXT Find jobs!
-      :LOGBOOK:
-      CLOCK: [2014-02-17 Mon 11:11]--[2014-02-17 Mon 11:23] =>  0:12
-      :END:
-***** CANCELLED humbolt
+** 2015
+*** Tasks
+**** DONE Find jobs!
+     :LOGBOOK:
+     - State "DONE"       from "NEXT"       [2014-10-04 Sat 21:53]
+     CLOCK: [2014-10-04 Sat 19:43]--[2014-10-04 Sat 21:53] =>  2:10
+     CLOCK: [2014-10-04 Sat 16:19]--[2014-10-04 Sat 16:54] =>  0:35
+     CLOCK: [2014-10-04 Sat 15:02]--[2014-10-04 Sat 15:20] =>  0:18
+     CLOCK: [2014-02-17 Mon 11:11]--[2014-02-17 Mon 11:23] =>  0:12
+     :END:
+**** CANCELLED humbolt
   DEADLINE: <2014-04-01 Tue>
   :LOGBOOK:
   - State "CANCELLED"  from "TODO"       [2014-04-02 Wed 13:42] \\
@@ -5360,22 +5363,41 @@ http://www.django-rest-framework.org/
 [2014-03-08 Sat 19:44]
 http://www.personalabteilung.hu-berlin.de/stellenausschreibungen/six-humboldt-post-doc-fellowships-temporary-positions-full-time-public-sector-pay-scale-13
 
-***** TODO Apply thinktankmaths
+**** CANCELLED Apply thinktankmaths
       SCHEDULED: <2014-12-01 Mon>
   :LOGBOOK:
+  - State "CANCELLED"  from "TODO"       [2014-10-04 Sat 09:53] \\
+    Don't think I'll bother with this.
   CLOCK: [2014-03-08 Sat 19:49]--[2014-03-08 Sat 19:50] =>  0:01
   :END:
 [2014-03-08 Sat 19:49]
 https://thinktankmaths.com/join/mathematicians/
 
-***** TODO check out jobs
+**** CANCELLED check out jobs
   :LOGBOOK:
+  - State "CANCELLED"  from "TODO"       [2014-10-04 Sat 09:53] \\
+    Not really what I want.
   CLOCK: [2014-03-22 Sat 12:14]--[2014-03-22 Sat 12:15] =>  0:01
   :END:
 [2014-03-22 Sat 12:14]
 http://careers.stackoverflow.com/
 <2014-04-30 Wed>
 
+**** DONE Write research proposal/statement
+    SCHEDULED: <2014-06-09 Mon>
+    :LOGBOOK:
+    - State "DONE"       from "NEXT"       [2014-06-10 Tue 13:53]
+    CLOCK: [2014-06-10 Tue 13:46]--[2014-06-10 Tue 13:53] =>  0:07
+    :END:
+<2014-04-01 Tue>
+**** DONE Write list of publications
+   :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2014-06-10 Tue 14:09]
+   CLOCK: [2014-06-10 Tue 13:53]--[2014-06-10 Tue 14:09] =>  0:16
+   :END:
+*** TODO Applications
+    SCHEDULED: <2014-10-03 Fri>
+See http://getpocket.com/a/queue/list/jobs/ for details.
 **** DONE Andre Neves Postdoc
      :LOGBOOK:
      - State "DONE"       from "TODO"       [2014-02-17 Mon 11:08]
@@ -5406,7 +5428,7 @@ http://careers.stackoverflow.com/
       :LOGBOOK:
       - State "DONE"       from "WAITING"    [2013-12-26 Thu 19:35]
       - State "WAITING"    from "NEXT"       [2013-12-23 Mon 14:00] \\
-	Waiting on Lei Ni and Ben Andrews to say if they'll be referees.
+       	Waiting on Lei Ni and Ben Andrews to say if they'll be referees.
       :END:
 
 ***** DONE Upload CV
@@ -5429,14 +5451,6 @@ http://careers.stackoverflow.com/
      - State "DONE"       from "TODO"       [2014-06-10 Tue 14:10]
      :END:
 https://www.aei.mpg.de/31520/Job_vacancies
-**** TODO Warwick
-http://homepages.warwick.ac.uk/~maseq/jobs.html
-
-**** TODO Copenhagen
-http://www.math.ku.dk/english/research/gamp/
-**** TODO Granada
-http://www.ugr.es/~ritore/ingles.htm
-http://geometry.ugr.es/
 **** DONE Wollongong
      :LOGBOOK:
      - State "DONE"       from "TODO"       [2014-06-23 Mon 09:58]
@@ -5445,12 +5459,12 @@ http://geometry.ugr.es/
 ***** Tasks
 ****** DONE Application
        	DEADLINE: <2014-06-30 Mon>
-	:LOGBOOK:
-	- State "DONE"       from "WAITING"    [2014-06-23 Mon 09:58]
-	- State "WAITING"    from "TODO"       [2014-06-01 Sun 12:14] \\
+       	:LOGBOOK:
+       	- State "DONE"       from "WAITING"    [2014-06-23 Mon 09:58]
+       	- State "WAITING"    from "TODO"       [2014-06-01 Sun 12:14] \\
 	  Waiting on offer.
-	CLOCK: [2014-05-27 Tue 15:47]--[2014-05-27 Tue 15:57] =>  0:10
-	:END:
+       	CLOCK: [2014-05-27 Tue 15:47]--[2014-05-27 Tue 15:57] =>  0:10
+       	:END:
 ******* DONE Write application
        	DEADLINE: <2014-03-01 Sat>
        	:LOGBOOK:
@@ -5477,41 +5491,41 @@ http://geometry.ugr.es/
        	CLOCK: [2014-05-20 Tue 13:03]--[2014-05-20 Tue 16:16] =>  3:13
        	:END:
 ******* DONE Proof read statement
-	:LOGBOOK:
-	- State "DONE"       from "NEXT"       [2014-05-27 Tue 15:47]
-	CLOCK: [2014-05-27 Tue 15:36]--[2014-05-27 Tue 15:47] =>  0:11
-	CLOCK: [2014-05-24 Sat 10:25]--[2014-05-24 Sat 11:07] =>  0:42
-	:END:
+       	:LOGBOOK:
+       	- State "DONE"       from "NEXT"       [2014-05-27 Tue 15:47]
+       	CLOCK: [2014-05-27 Tue 15:36]--[2014-05-27 Tue 15:47] =>  0:11
+       	CLOCK: [2014-05-24 Sat 10:25]--[2014-05-24 Sat 11:07] =>  0:42
+       	:END:
 ******* DONE Send to Christine for comments
-	:LOGBOOK:
-	- State "DONE"       from "WAITING"    [2014-06-01 Sun 12:14]
-	- State "WAITING"    from "TODO"       [2014-05-27 Tue 15:56] \\
+       	:LOGBOOK:
+       	- State "DONE"       from "WAITING"    [2014-06-01 Sun 12:14]
+       	- State "WAITING"    from "TODO"       [2014-05-27 Tue 15:56] \\
 	  Waiting on comments.
-	:END:
+       	:END:
 ******* DONE Update based on comments
-	:LOGBOOK:
-	- State "DONE"       from "NEXT"       [2014-05-29 Thu 17:20]
-	CLOCK: [2014-05-29 Thu 10:47]--[2014-05-29 Thu 11:08] =>  0:21
-	:END:
+       	:LOGBOOK:
+       	- State "DONE"       from "NEXT"       [2014-05-29 Thu 17:20]
+       	CLOCK: [2014-05-29 Thu 10:47]--[2014-05-29 Thu 11:08] =>  0:21
+       	:END:
 ******* DONE Write cover letter
-	:LOGBOOK:
-	- State "DONE"       from "NEXT"       [2014-05-29 Thu 17:54]
-	CLOCK: [2014-05-29 Thu 17:24]--[2014-05-29 Thu 17:54] =>  0:30
-	:END:
+       	:LOGBOOK:
+       	- State "DONE"       from "NEXT"       [2014-05-29 Thu 17:54]
+       	CLOCK: [2014-05-29 Thu 17:24]--[2014-05-29 Thu 17:54] =>  0:30
+       	:END:
 ******* DONE Compile application
 	:LOGBOOK:
 	- State "DONE"       from "TODO"       [2014-05-29 Thu 17:54]
 	:END:
 - cv, cover, selection criteria, research statement
 ******* DONE Submit application
-	:LOGBOOK:
-	- State "DONE"       from "TODO"       [2014-05-29 Thu 17:54]
-	:END:
+       	:LOGBOOK:
+       	- State "DONE"       from "TODO"       [2014-05-29 Thu 17:54]
+       	:END:
 ******* DONE Respond to offer
-	:LOGBOOK:
-	- State "DONE"       from "TODO"       [2014-06-23 Mon 09:57] \\
+       	:LOGBOOK:
+       	- State "DONE"       from "TODO"       [2014-06-23 Mon 09:57] \\
 	  I was not offered the job.
-	:END:
+       	:END:
 ***** Notes
 - http://uow.employment.com.au/dspJobView.cfm?jobID=1268
 - http://www.mathjobs.org/jobs/jobs/5668
@@ -5693,20 +5707,6 @@ http://www.uni-freiburg.de/administration/stellenboerse?erf=y&stellenid=8792&lay
 - Contact: [[mailto:sci-maths-jobs@monash.edu]]
 - [[file:~/working/academic/jobs/job_applications/monash_524967]]
 
-** Tasks
-*** DONE Write research proposal/statement
-    SCHEDULED: <2014-06-09 Mon>
-    :LOGBOOK:
-    - State "DONE"       from "NEXT"       [2014-06-10 Tue 13:53]
-    CLOCK: [2014-06-10 Tue 13:46]--[2014-06-10 Tue 13:53] =>  0:07
-    :END:
-<2014-04-01 Tue>
-*** DONE Write list of publications
-    :LOGBOOK:
-    - State "DONE"       from "NEXT"       [2014-06-10 Tue 14:09]
-    CLOCK: [2014-06-10 Tue 13:53]--[2014-06-10 Tue 14:09] =>  0:16
-    :END:
-*** TODO 2014
 **** DONE Update application documents
      SCHEDULED: <2014-10-02 Thu>
      :LOGBOOK:
@@ -5738,29 +5738,144 @@ http://www.uni-freiburg.de/administration/stellenboerse?erf=y&stellenid=8792&lay
       - State "DONE"       from "NEXT"       [2014-10-03 Fri 17:07]
       CLOCK: [2014-10-03 Fri 16:23]--[2014-10-03 Fri 17:07] =>  0:44
       :END:
-**** TODO Apply for jobs
-See http://getpocket.com/a/queue/list/jobs/ for details.
-***** NEXT Berkeley
+**** DONE Berkeley
       DEADLINE: <2014-12-15 Mon>
+      :LOGBOOK:
+      - State "DONE"       from "NEXT"       [2014-10-04 Sat 19:59]
+      :END:
 https://www.mathjobs.org/jobs/jobs/6282
-***** NEXT UC Davis
+**** DONE UC Davis
       DEADLINE: <2014-11-30 Sun>
+      :LOGBOOK:
+      - State "DONE"       from "NEXT"       [2014-10-04 Sat 20:00]
+      :END:
 https://www.mathjobs.org/jobs/jobs/6008
-***** NEXT Warwick
+**** DONE Warwick
       DEADLINE: <2014-10-12 Sun>
       :LOGBOOK:
+      - State "DONE"       from "NEXT"       [2014-10-04 Sat 15:01]
+      CLOCK: [2014-10-04 Sat 14:41]--[2014-10-04 Sat 15:01] =>  0:20
       CLOCK: [2014-10-03 Fri 18:50]--[2014-10-03 Fri 19:39] =>  0:49
       CLOCK: [2014-10-03 Fri 17:10]--[2014-10-03 Fri 17:55] =>  0:45
       :END:
 https://www.mathjobs.org/jobs/jobs/6132
-***** NEXT Oregon
+**** DONE Oregon
       DEADLINE: <2014-12-15 Mon>
-https://www.mathjobs.org/jobs/jobs/6219
-***** DONE Bonn Junior Fellow
       :LOGBOOK:
-      - State "DONE"       from "NEXT"       [2014-10-03 Fri 18:12]
-      CLOCK: [2014-10-03 Fri 17:55]--[2014-10-03 Fri 18:12] =>  0:17
+      - State "DONE"       from "NEXT"       [2014-10-04 Sat 20:01]
       :END:
+https://www.mathjobs.org/jobs/jobs/6219
+**** DONE Bonn Junior Fellow
+     :LOGBOOK:
+     - State "DONE"       from "NEXT"       [2014-10-03 Fri 18:12]
+     CLOCK: [2014-10-03 Fri 17:55]--[2014-10-03 Fri 18:12] =>  0:17
+     :END:
+**** NEXT Bonn
+     DEADLINE: <2014-11-01 Sat>
+https://www.mathjobs.org/jobs?joblist-856-5999
+- mentor: http://www.hcm.uni-bonn.de/people/profile/karl-theodor-sturm/
+**** DONE UC Irvine
+     DEADLINE: <2014-11-01 Sat>
+     :LOGBOOK:
+     - State "DONE"       from "NEXT"       [2014-10-04 Sat 20:19]
+     :END:
+https://www.mathjobs.org/jobs/jobs/6201
+**** DONE UCSB
+     DEADLINE: <2014-11-15 Sat>
+     :LOGBOOK:
+     - State "DONE"       from "NEXT"       [2014-10-04 Sat 20:21]
+     :END:
+https://www.mathjobs.org/jobs/jobs/6269
+**** DONE Austria
+     DEADLINE: <2014-11-15 Sat>
+     :LOGBOOK:
+     - State "DONE"       from "NEXT"       [2014-10-04 Sat 19:59]
+     :END:
+https://www.mathjobs.org/jobs/jobs/6234
+**** DONE Rio
+     DEADLINE: <2014-11-08 Sat>
+     :LOGBOOK:
+     - State "DONE"       from "NEXT"       [2014-10-04 Sat 19:59]
+     :END:
+https://www.mathjobs.org/jobs/jobs/6145
+**** DONE Alberta
+     DEADLINE: <2014-11-30 Sun>
+     :LOGBOOK:
+     - State "DONE"       from "NEXT"       [2014-10-04 Sat 20:22]
+     :END:
+https://www.mathjobs.org/jobs/jobs/5934
+**** DONE PIMS
+     DEADLINE: <2014-12-01 Mon>
+     :LOGBOOK:
+     - State "DONE"       from "NEXT"       [2014-10-04 Sat 20:22]
+     :END:
+https://www.mathjobs.org/jobs/jobs/6041
+**** DONE British Columbia
+     DEADLINE: <2014-11-15 Sat>
+     :LOGBOOK:
+     - State "DONE"       from "NEXT"       [2014-10-04 Sat 20:36]
+     :END:
+https://www.mathjobs.org/jobs/jobs/6174
+**** DONE Boulder
+     DEADLINE: <2014-12-01 Mon>
+     :LOGBOOK:
+     - State "DONE"       from "NEXT"       [2014-10-04 Sat 20:53]
+     :END:
+https://www.mathjobs.org/jobs/jobs/6317
+**** DONE Connecticut
+     DEADLINE: <2014-12-01 Mon>
+     :LOGBOOK:
+     - State "DONE"       from "NEXT"       [2014-10-04 Sat 20:54]
+     :END:
+https://www.mathjobs.org/jobs/jobs/6227
+**** DONE Connecticut
+     DEADLINE: <2014-11-15 Sat>
+     :LOGBOOK:
+     - State "DONE"       from "NEXT"       [2014-10-04 Sat 20:54]
+     :END:
+https://www.mathjobs.org/jobs/jobs/5985
+**** DONE Miami
+     DEADLINE: <2014-11-20 Thu>
+     :LOGBOOK:
+     - State "DONE"       from "NEXT"       [2014-10-04 Sat 20:55]
+     :END:
+https://www.mathjobs.org/jobs/jobs/6328
+**** DONE Chicago
+     DEADLINE: <2014-11-01 Sat>
+     :LOGBOOK:
+     - State "DONE"       from "NEXT"       [2014-10-04 Sat 20:57]
+     :END:
+https://www.mathjobs.org/jobs/jobs/5988
+**** DONE Northwestern
+     DEADLINE: <2014-12-01 Mon>
+     :LOGBOOK:
+     - State "DONE"       from "NEXT"       [2014-10-04 Sat 20:57]
+     :END:
+https://www.mathjobs.org/jobs/jobs/6094
+**** DONE Illinois
+     DEADLINE: <2014-11-03 Mon>
+     :LOGBOOK:
+     - State "DONE"       from "NEXT"       [2014-10-04 Sat 20:58]
+     :END:
+https://www.mathjobs.org/jobs/jobs/6210
+**** DONE Northeastern
+     DEADLINE: <2014-11-15 Sat>
+     :LOGBOOK:
+     - State "DONE"       from "NEXT"       [2014-10-04 Sat 21:01]
+     :END:
+https://www.mathjobs.org/jobs/jobs/6068
+**** DONE Chile
+     DEADLINE: <2014-12-12 Fri>
+     :LOGBOOK:
+     - State "DONE"       from "NEXT"       [2014-10-04 Sat 21:01]
+     :END:
+https://www.mathjobs.org/jobs?joblist-1222-6314
+**** NEXT Chile
+     DEADLINE: <2014-11-27 Thu>
+https://www.mathjobs.org/jobs?joblist-971-5895
+**** NEXT Yale NUS
+https://academicjobsonline.org/ajo/jobs/4243
+https://academicjobsonline.org/ajo/jobs/4242
 * Visiting
 ** Tasks
 ** People
