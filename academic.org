@@ -2174,6 +2174,29 @@ This is some sort of curvature flow for polygons - exactly what I want to look a
 :END:
 [[papers:MR1240580][MR1240580-paper]]
 [[bib:MR1240580][MR1240580-bib]]
+**** TODO Ancient solutions on spheres		       :FLOWS:SPHERE:ANCIENT:
+[[file:~/working/academic/research/ancient_flows_sphere]]
+***** Tasks
+****** TODO Set up project
+******* NEXT Create repository
+******* NEXT Create org file
+******* NEXT Create publishing
+******* NEXT Create tasks
+	 SCHEDULED: <2014-10-07 Tue>
+****** TODO Write paper
+******* NEXT Create outline
+- Harnack
+- $\int F(A) \to 0$
+- smooth backwards convergence to equator
+- Aleksandrov reflection
+
+****** TODO Mathematics
+******* TODO 2ff goes to zero
+******* TODO Harnack
+******* TODO Backwards convergence
+******* TODO Aleksandrov reflection
+***** Notes
+***** Refs 
 *** Future 							    :SOMEDAY:
 **** TODO Study non-smooth mean curvature flow, minimal surfaces via support fn
      SCHEDULED: <2015-01-01 Thu>

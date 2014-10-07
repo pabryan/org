@@ -1847,6 +1847,8 @@ http://gmane.org
   :END:
 ** Organisation
   :LOGBOOK:
+  CLOCK: [2014-10-07 Tue 11:45]--[2014-10-07 Tue 11:48] =>  0:03
+  CLOCK: [2014-10-07 Tue 11:25]--[2014-10-07 Tue 11:26] =>  0:01
   CLOCK: [2014-10-04 Sat 10:45]--[2014-10-04 Sat 10:50] =>  0:05
   CLOCK: [2014-10-04 Sat 09:46]--[2014-10-04 Sat 10:15] =>  0:29
   CLOCK: [2014-10-03 Fri 11:07]--[2014-10-03 Fri 11:52] =>  0:45
@@ -3876,8 +3878,10 @@ When I set up scoring the day:
 - [ ] Collate data such as sleep, weight, exercise, diet etc.
 
 ** NEXT Daily Plan [0/7]
-   SCHEDULED: <2014-10-06 Mon .+1d/2d>
+   SCHEDULED: <2014-10-08 Wed .+1d/2d>
    :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2014-10-07 Tue 11:45]
+   CLOCK: [2014-10-07 Tue 11:26]--[2014-10-07 Tue 11:45] =>  0:19
    - State "DONE"       from "NEXT"       [2014-10-05 Sun 15:24]
    - State "DONE"       from "NEXT"       [2014-10-04 Sat 09:46]
    CLOCK: [2014-10-04 Sat 09:39]--[2014-10-04 Sat 09:46] =>  0:07
@@ -4695,7 +4699,7 @@ When I set up scoring the day:
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
    :ID:       ef051ee0-1113-4604-b355-450a5a47848b
-   :LAST_REPEAT: [2014-10-05 Sun 15:24]
+   :LAST_REPEAT: [2014-10-07 Tue 11:45]
    :END:
 
 - [ ] Check agenda/focus
@@ -4707,9 +4711,10 @@ When I set up scoring the day:
 - [ ] Do short tasks
 - [ ] Record morning health stats
 
-** NEXT Weekly Review [0/20]
+** NEXT Weekly Review [3/20]
    SCHEDULED: <2014-06-23 Mon +1w>
    :LOGBOOK:
+   CLOCK: [2014-10-07 Tue 11:48]
    - State "DONE"       from "NEXT"       [2014-09-17 Wed 21:37]
    CLOCK: [2014-09-17 Wed 21:06]--[2014-09-17 Wed 21:37] =>  0:31
    CLOCK: [2014-09-15 Mon 14:36]--[2014-09-15 Mon 15:57] =>  1:21
@@ -4851,10 +4856,10 @@ When I set up scoring the day:
 
 What to review:
 
-- [ ] Check holding directory
+- [X] Check holding directory
   [[file:~/holding]]
-- [ ] Check holding email folder
-- [ ] Review weekly agenda =F12 a w//=
+- [X] Check holding email folder
+- [X] Review weekly agenda =F12 a w//=
 - [ ] Check clocking data for past week =v c=
   - fix up any errors
 - [ ] Review clock report for past week =R=
