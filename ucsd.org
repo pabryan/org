@@ -11825,15 +11825,25 @@ Lectures in calendar and tasks like planning lectures.
 ****** Clocking
 ****** Schedule
 ******* TODO Lectures
-******** TODO Week 0
-********* NEXT Lecture 0.1
+******** DONE Week 0
+	 :LOGBOOK:
+	 - State "DONE"       from "TODO"       [2014-10-07 Tue 12:26]
+	 :END:
+********* DONE Lecture 0.1
+	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2014-10-07 Tue 12:26]
+	  :END:
 	  <2014-10-03 Fri 11:55-12:55>
 	  :PROPERTIES:
 	  :Effort:   1:00
 	  :END:
 
 ******** TODO Week 1
-********* NEXT Lecture 1.1
+********* DONE Lecture 1.1
+	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2014-10-07 Tue 12:27]
+	  CLOCK: [2014-10-06 Mon 11:55]--[2014-10-06 Mon 12:55] =>  1:00
+	  :END:
 	  <2014-10-06 Mon 11:55-12:55>
 	  :PROPERTIES:
 	  :Effort:   1:00
@@ -12020,8 +12030,9 @@ Lectures in calendar and tasks like planning lectures.
 	 :END:
 
 ******* TODO Office hours
-******** NEXT O/H Week 1
+******** DONE O/H Week 1
 	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2014-10-07 Tue 12:33]
 	 CLOCK: [2014-10-06 Mon 14:51]--[2014-10-06 Mon 16:00] =>  1:09
 	 :END:
 	 <2014-10-06 Mon 15:00-17:00>
@@ -12084,8 +12095,9 @@ Lectures in calendar and tasks like planning lectures.
 	 :END:
 
 ******* TODO Meetings
-******** NEXT TA
+******** DONE TA
 	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2014-10-07 Tue 12:33]
 	 CLOCK: [2014-10-06 Mon 16:00]--[2014-10-06 Mon 16:29] =>  0:29
 	 :END:
 <2014-10-06 Mon 16:00-17:00>
@@ -12499,8 +12511,12 @@ Lectures in calendar and tasks like planning lectures.
 ****** Schedule
 ******* TODO Lectures
 ******** TODO Week 1
-********* NEXT Lecture 1.1
+********* DONE Lecture 1.1
 	  <2014-10-06 Mon 12:55-13:55>
+	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2014-10-07 Tue 12:33]
+	  CLOCK: [2014-10-06 Mon 12:55]--[2014-10-06 Mon 14:05] =>  1:10
+	  :END:
 	  :PROPERTIES:
 	  :Effort:   1:00
 	  :END:
@@ -14176,7 +14192,6 @@ http://www.ams.org/programs/travel-grants/AMS-SimonsTG
 A statement of current research, starting with a half page scientific summary accessible to a non-specialist mathematician. The document should be limited to two and a half pages.
 ****** Rationale for travel support
 I need to get better at GMT which is notoriously difficult. It is very hard for researchers to enter the field, without having spend significant time studying it, such as during a Ph.D. I need to go the source: to visit Brian White, Leon Simon, Frank Morgan et. al. I would especially like to visit Antonio Ros and Manuel Ritore. This is all highly relevant to geometric optimization problems.
-
 
 * Meeting
 ** Coffee

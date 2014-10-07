@@ -590,7 +590,7 @@ file:~/publish/decra_2015
     :END:
 [[file:refs.org::#MR3020169][Topological change in mean convex mean curvature flow]]
 *** NEXT Review MR3238481
-    DEADLINE: <2014-10-29 Wed -2w>
+    SCHEDULED: <2014-10-13 Mon> DEADLINE: <2014-10-29 Wed -2w>
 [[file:refs.org::#MR3238481][Notes on the extension of the mean curvature flow]]
 ** CEJM
 *** Editing Manager
@@ -1944,7 +1944,10 @@ This proves the inequality we need.  The remaining problem is to remove the symm
 [[file:~/publish/geometric_pipe_flows]]
 
 ***** Tasks
-****** TODO Set up tasks
+****** DONE Set up tasks
+       :LOGBOOK:
+       - State "DONE"       from "TODO"       [2014-10-07 Tue 14:59]
+       :END:
 ******* DONE Set up exact tasks
        	- State "DONE"       from "NEXT"       [2013-06-23 Sun 16:12]
        	:LOGBOOK:
@@ -1998,12 +2001,36 @@ This proves the inequality we need.  The remaining problem is to remove the symm
        	:ID:       4f27c099-1b3f-44a1-b38d-394b791aabef
        	:END:
 ****** TODO Write Paper
+******* TODO Paper organisation
+******** NEXT Review existing paper to find what needs to done
+	 :LOGBOOK:
+	 CLOCK: [2014-10-07 Tue 15:00]--[2014-10-07 Tue 15:10] =>  0:10
+	 :END:
+	 :PROPERTIES:
+	 :Effort:   1:00
+	 :END:
+******** NEXT Proof reading
+	 :LOGBOOK:
+	 CLOCK: [2014-10-07 Tue 15:10]--[2014-10-07 Tue 15:25] =>  0:15
+	 :END:
 ******* TODO Cont. Mech on Manifolds
 ******** NEXT Method is adapted to the geometry
 - Mention no need to mess about with Jacobians: great simplification!
 - discretisation is also better. Don't need to transform boundary conditions at cell interfaces
 ******** NEXT Add transport theorem
-******** NEXT Sort out conservation equations/Material derivative/Lie derivative
+******** DONE Clean up definitions of density, body etc.
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2014-10-07 Tue 16:54]
+	 CLOCK: [2014-10-07 Tue 16:24]--[2014-10-07 Tue 16:54] =>  0:30
+	 CLOCK: [2014-10-07 Tue 15:25]--[2014-10-07 Tue 15:47] =>  0:22
+	 :END:
+	 :PROPERTIES:
+	 :Effort:   1:30
+	 :END:
+i.e. is the density defined on B or B_t?
+******** NEXT Simplify boundary considerations
+- The body could probably just be a smooth family of embeddings. Then the boundary of $B_t = \phi_t(B)$ should be piecewise smooth.
+******** NEXT Sort out conservation equations/Material derivative/Lie derivative for Momentum equation
 ******** NEXT Boundary conditions
 ******** NEXT Comment on characteristic function
 - should get a delta function across the free surface!
@@ -2043,15 +2070,6 @@ Marsden et. al. book
 - Longer paper on blood flows (semi-expository)
 - Well balancing
 - ANUGA
-**** TODO Minimal immersion in hyperbolic space
-***** Notes
-***** Tasks
-***** Meetings
-****** Nolan Wallach
-       :LOGBOOK:
-       CLOCK: [2014-08-12 Tue 14:05]--[2014-08-12 Tue 15:31] =>  1:26
-       :END:
-<2014-08-12 Tue 14:00-15:30>
 **** TODO csf_networks 					       :CSF_NETWORKS:
    :PROPERTIES:
    :ID:       1bc93b81-8423-4598-8297-f0b90aa39aa7
@@ -2197,6 +2215,15 @@ This is some sort of curvature flow for polygons - exactly what I want to look a
 ******* TODO Aleksandrov reflection
 ***** Notes
 ***** Refs 
+**** TODO Minimal immersion in hyperbolic space :IMMERSIONS:MINIMAL:SYMMMETRIC:SPHERE:HYPERBOLIC:
+***** Notes
+***** Tasks
+***** Meetings
+****** Nolan Wallach
+       :LOGBOOK:
+       CLOCK: [2014-08-12 Tue 14:05]--[2014-08-12 Tue 15:31] =>  1:26
+       :END:
+<2014-08-12 Tue 14:00-15:30>
 *** Future 							    :SOMEDAY:
 **** TODO Study non-smooth mean curvature flow, minimal surfaces via support fn
      SCHEDULED: <2015-01-01 Thu>
