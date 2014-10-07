@@ -11463,14 +11463,22 @@ Lectures in calendar and tasks like planning lectures.
 	   :Effort:   1:00
 	   :END:
 
-********** NEXT Prepare lec 1.2
+********** DONE Prepare lec 1.2
 	   SCHEDULED: <2014-10-01 Wed>
+	   :LOGBOOK:
+	   - State "DONE"       from "NEXT"       [2014-10-04 Sat 11:47]
+	   CLOCK: [2014-10-04 Sat 11:33]--[2014-10-04 Sat 11:47] =>  0:14
+	   :END:
 	   :PROPERTIES:
 	   :Effort:   1:00
 	   :END:
 
-********** NEXT Prepare lec 1.3
+********** DONE Prepare lec 1.3
 	   SCHEDULED: <2014-10-01 Wed>
+	   :LOGBOOK:
+	   - State "DONE"       from "NEXT"       [2014-10-04 Sat 11:53]
+	   CLOCK: [2014-10-04 Sat 11:47]--[2014-10-04 Sat 11:53] =>  0:06
+	   :END:
 	   :PROPERTIES:
 	   :Effort:   1:00
 	   :END:
@@ -12146,8 +12154,12 @@ Lectures in calendar and tasks like planning lectures.
 	   :Effort:   1:00
 	   :END:
 
-********** NEXT Prepare lec 1.3
+********** DONE Prepare lec 1.3
 	   SCHEDULED: <2014-10-01 Wed>
+	   :LOGBOOK:
+	   - State "DONE"       from "NEXT"       [2014-10-04 Sat 10:45]
+	   CLOCK: [2014-10-04 Sat 10:15]--[2014-10-04 Sat 10:45] =>  0:30
+	   :END:
 	   :PROPERTIES:
 	   :Effort:   1:00
 	   :END:
@@ -12736,8 +12748,9 @@ Lectures in calendar and tasks like planning lectures.
 
 ******* TODO Meetings
 ******** TA
-******** 142A Grader
 <2014-10-08 Wed 14:15>
+******** 142A Grader
+<2014-10-08 Wed 15:00>
 **** Winter 2015
 ***** TODO Math20B
 ****** Files
