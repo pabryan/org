@@ -12021,6 +12021,9 @@ Lectures in calendar and tasks like planning lectures.
 
 ******* TODO Office hours
 ******** NEXT O/H Week 1
+	 :LOGBOOK:
+	 CLOCK: [2014-10-06 Mon 14:51]--[2014-10-06 Mon 16:00] =>  1:09
+	 :END:
 	 <2014-10-06 Mon 15:00-17:00>
 	 :PROPERTIES:
 	 :Effort:   2:00
@@ -12081,6 +12084,11 @@ Lectures in calendar and tasks like planning lectures.
 	 :END:
 
 ******* TODO Meetings
+******** NEXT TA
+	 :LOGBOOK:
+	 CLOCK: [2014-10-06 Mon 16:00]--[2014-10-06 Mon 16:29] =>  0:29
+	 :END:
+<2014-10-06 Mon 16:00-17:00>
 ***** TODO Math142A
 ****** Files
 [[file:~/working/ucsd/teaching/2014/fall/math142a_fall_2014]] 
