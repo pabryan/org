@@ -12702,10 +12702,14 @@ Lectures in calendar and tasks like planning lectures.
 	 :END:
 
 ******* TODO Office hours
-******** NEXT O/H Week 1
-	 <2014-10-08 Wed 15:00-17:00>
+******** CANCELLED O/H Week 1
+	 :LOGBOOK:
+	 - State "CANCELLED"  from "NEXT"       [2014-10-08 Wed 09:56] \\
+	   Need to pick up the kids from school.
+	 :END:
+	 # <2014-10-08 Wed 15:00-17:00>
 	 :PROPERTIES:
-	 :Effort:   2:00
+	 :Effort:   0
 	 :END:
 
 ******** NEXT O/H Week 2
@@ -12764,9 +12768,9 @@ Lectures in calendar and tasks like planning lectures.
 
 ******* TODO Meetings
 ******** TA
-<2014-10-08 Wed 14:15>
+<2014-10-10 Fri 14:20>
 ******** 142A Grader
-<2014-10-08 Wed 15:00>
+<2014-10-10 Fri 14:20>
 **** Winter 2015
 ***** TODO Math20B
 ****** Files
