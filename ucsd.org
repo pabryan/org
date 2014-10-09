@@ -11487,8 +11487,11 @@ Lectures in calendar and tasks like planning lectures.
 	  :LOGBOOK:
 	  CLOCK: [2014-10-09 Thu 14:07]--[2014-10-09 Thu 14:14] =>  0:07
 	  :END:
-********** NEXT Prepare outline
+********** DONE Prepare outline
 	   SCHEDULED: <2014-10-06 Mon>
+	   :LOGBOOK:
+	   - State "DONE"       from "NEXT"       [2014-10-09 Thu 14:21]
+	   :END:
 	   :PROPERTIES:
 	   :Effort:   0:30
 	   :END:
