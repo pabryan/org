@@ -5445,8 +5445,9 @@ http://careers.stackoverflow.com/
    - State "DONE"       from "NEXT"       [2014-06-10 Tue 14:09]
    CLOCK: [2014-06-10 Tue 13:53]--[2014-06-10 Tue 14:09] =>  0:16
    :END:
+**** NEXT Make sure I have reference letters
+     DEADLINE: <2014-10-10 Fri>
 *** TODO Applications
-    SCHEDULED: <2014-10-03 Fri>
 See http://getpocket.com/a/queue/list/jobs/ for details.
 **** DONE Andre Neves Postdoc
      :LOGBOOK:
@@ -5958,7 +5959,7 @@ https://academicjobsonline.org/ajo/jobs/4242
       CLOCK: [2014-06-28 Sat 12:55]--[2014-06-28 Sat 13:17] =>  0:22
       :END:
 ***** NEXT Follow up for Hawaii summer teaching
-      SCHEDULED: <2014-10-01 Wed>
+      SCHEDULED: <2014-12-01 Mon>
 **** Notes
 *** New York Spring
 **** Notes
