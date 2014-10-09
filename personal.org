@@ -502,8 +502,11 @@ Can we suspend loan repayments for a few months?
 - AT&T: $50 bundle?
 - Get rid of Tritoncash
 - Look for other savings.
-*** NEXT Pay Annamieke $20
+*** DONE Pay Annamieke $20
     SCHEDULED: <2014-09-27 Sat>
+    :LOGBOOK:
+    - State "DONE"       from "NEXT"       [2014-10-09 Thu 10:03]
+    :END:
 
 ** Tax
 *** US
