@@ -11396,7 +11396,7 @@ Center 119
 	 :END:
 <2014-07-31 Thu 11:00-11:30>
 *** 2014/2015
-**** Fall 2014
+**** Fall 2014							      :FOCUS:
 ***** TODO Math20A
 ****** Files
 [[file:~/working/ucsd/teaching/2014/fall/math20a_fall_2014]] 
@@ -11719,46 +11719,16 @@ Lectures in calendar and tasks like planning lectures.
 
 ******* TODO Exams
 ******** NEXT Midterm 1
-********* NEXT Write Midterm 1
-	  SCHEDULED: <2014-10-20 Mon>
+********* NEXT Write Midterm 1 proposal
+	  DEADLINE: <2014-10-20 Mon>
 	  :PROPERTIES:
 	  :Effort:   1:00
-	  :END:
-********* NEXT Get TA's comments
-	  DEADLINE: <2014-10-22 Wed>
-	  :PROPERTIES:
-	  :Effort:   0:10
-	  :END:
-********* NEXT Update exam based on TA comments
-	  DEADLINE: <2014-10-24 Fri>
-	  :PROPERTIES:
-	  :Effort:   0:15
-	  :END:
-********* NEXT Submit midterm to printing/frdesk
-	  DEADLINE: <2014-10-27 Mon>
-	  :PROPERTIES:
-	  :Effort:   0:10
 	  :END:
 ******** NEXT Midterm 2
-********* NEXT Write Midterm 2
-	  SCHEDULED: <2014-11-10 Mon>
+********* NEXT Write Midterm 2 proposal
+	  DEADLINE: <2014-10-20 Mon>
 	  :PROPERTIES:
 	  :Effort:   1:00
-	  :END:
-********* NEXT Get TA's comments
-	  DEADLINE: <2014-11-12 Wed>
-	  :PROPERTIES:
-	  :Effort:   0:10
-	  :END:
-********* NEXT Update exam based on TA comments
-	  DEADLINE: <2014-11-14 Fri>
-	  :PROPERTIES:
-	  :Effort:   0:15
-	  :END:
-********* NEXT Submit midterm to printing/frdesk
-	  DEADLINE: <2014-11-17 Mon>
-	  :PROPERTIES:
-	  :Effort:   0:10
 	  :END:
 ******** NEXT Final
 ********* NEXT Write Final
@@ -12120,11 +12090,26 @@ Lectures in calendar and tasks like planning lectures.
 	 :END:
 <2014-10-06 Mon 16:00-17:00>
 ******** TODO Instructors
-********* NEXT Planning
+********* DONE Planning
 	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2014-10-10 Fri 10:56]
 	  CLOCK: [2014-10-09 Thu 11:47]--[2014-10-09 Thu 12:26] =>  0:39
 	  :END:
+	  :PROPERTIES:
+	  :Effort:   0:30
+	  :END:
 	  <2014-10-09 Thu 11:45-12:30>
+********* NEXT Plan Midterms
+	  :PROPERTIES:
+	  :Effort:   1:30
+	  :END:
+	  <2014-10-21 Tue 12:00-13:30>
+
+********* NEXT Plan Final
+	  :PROPERTIES:
+	  :Effort:   2:00
+	  :END:
+	  <2014-12-02 Tue 12:00-14:00>
 ***** TODO Math142A
 ****** Files
 [[file:~/working/ucsd/teaching/2014/fall/math142a_fall_2014]] 
@@ -12201,19 +12186,30 @@ Lectures in calendar and tasks like planning lectures.
 	   :END:
 
 ********* TODO Week 2
-********** NEXT Prepare outline
+********** DONE Prepare outline
 	   SCHEDULED: <2014-10-06 Mon>
+	   :LOGBOOK:
+	   - State "DONE"       from "NEXT"       [2014-10-10 Fri 10:51]
+	   :END:
 	   :PROPERTIES:
 	   :Effort:   0:30
 	   :END:
-********** NEXT Prepare lec 2.1
+********** DONE Prepare lec 2.1
 	   SCHEDULED: <2014-10-06 Mon>
+	   :LOGBOOK:
+	   - State "DONE"       from "NEXT"       [2014-10-10 Fri 10:50]
+	   CLOCK: [2014-10-09 Thu 21:00]--[2014-10-09 Thu 21:40] =>  0:40
+	   :END:
 	   :PROPERTIES:
 	   :Effort:   1:00
 	   :END:
 
-********** NEXT Prepare lec 2.2
+********** DONE Prepare lec 2.2
 	   SCHEDULED: <2014-10-08 Wed>
+	   :LOGBOOK:
+	   - State "DONE"       from "NEXT"       [2014-10-10 Fri 10:50]
+	   CLOCK: [2014-10-09 Thu 22:00]--[2014-10-09 Thu 22:35] =>  0:35
+	   :END:
 	   :PROPERTIES:
 	   :Effort:   1:00
 	   :END:

@@ -1309,10 +1309,16 @@ Given $X$ in the equator, let $\rho_{\alpha}(X)$ be the infimum of the lengths o
 	:END:
 - short title: Convex Ancient CSF on $\sphere^2$.
 ******* NEXT Tidy up
+	 SCHEDULED: <2014-10-14 Tue>
 	:LOGBOOK:
 	CLOCK: [2014-09-17 Wed 13:10]--[2014-09-17 Wed 14:46] =>  1:36
 	:END:
-- 
+- Janelle notes:
+  - [ ] In Lemma 5.2
+        I think there are some $R_V(\gamma_t)^+$ that should be $R_V(\gamma_t^+)$? Shouldn't they be the + part of the reflection, so the former is correct. If the latter appears anywhere we should change it.
+  - [ ] For the last bit in the second paragraph was it supposed to be for all forward times like (-\infty,0) not t\in (-\infty, t_1)?
+	Maybe that could be rephrased. The $t_1$ is the time up to which the curves meet the reflected equator transversely. We can't ensure that after that time, they don't cross the reflected equator. We know that far enough back in time, both curves lie in $\sphere^2_V$ and the max principle ensures they lie in there at least up to $t_1$.
+
 ******* WAITING Update based on referee comments
 ****** DONE Maths
        :LOGBOOK:
