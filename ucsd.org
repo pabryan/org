@@ -12472,6 +12472,10 @@ Lectures in calendar and tasks like planning lectures.
 	 :Effort:   0:30
 	 :END:
 
+******** NEXT Choose main h/w problems
+	 DEADLINE: <2014-10-10 Fri>
+******** NEXT Change due date to 1 week after exams
+	 DEADLINE: <2014-10-10 Fri>
 ******* TODO Website
 	:LOGBOOK:
 	CLOCK: [2014-09-22 Mon 12:58]--[2014-09-22 Mon 12:59] =>  0:01
@@ -12773,7 +12777,7 @@ Lectures in calendar and tasks like planning lectures.
 ******* TODO Meetings
 ******** TA
 	 :LOGBOOK:
-	 CLOCK: [2014-10-10 Fri 14:18]
+	 CLOCK: [2014-10-10 Fri 14:18]--[2014-10-10 Fri 15:05] =>  0:47
 	 :END:
 <2014-10-10 Fri 14:20>
 ******** 142A Grader
