@@ -11720,19 +11720,21 @@ Lectures in calendar and tasks like planning lectures.
 ******* TODO Exams
 ******** NEXT Midterm 1
 ********* NEXT Write Midterm 1 proposal
+	  SCHEDULED: <2014-10-13 Mon>
+	  
 	  DEADLINE: <2014-10-20 Mon>
 	  :PROPERTIES:
 	  :Effort:   1:00
 	  :END:
 ******** NEXT Midterm 2
 ********* NEXT Write Midterm 2 proposal
-	  DEADLINE: <2014-10-20 Mon>
+	  SCHEDULED: <2014-10-13 Mon> DEADLINE: <2014-10-20 Mon>
 	  :PROPERTIES:
 	  :Effort:   1:00
 	  :END:
 ******** NEXT Final
 ********* NEXT Write Final proposal
-	  DEADLINE: <2014-12-01 Mon>
+	  SCHEDULED: <2014-11-24 Mon> DEADLINE: <2014-12-01 Mon>
 	  :PROPERTIES:
 	  :Effort:   1:00
 	  :END:
@@ -11786,6 +11788,80 @@ Lectures in calendar and tasks like planning lectures.
 	 :Effort:   0:15
 	 :END:
 ****** Clocking
+******* TODO Piazza
+******** DONE Piazza week 1
+	  DEADLINE: <2014-10-12 Sun>
+	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2014-10-11 Sat 15:41]
+	  :END:
+	 
+	 :PROPERTIES:
+	 :Effort:   1:00
+	 :END:
+
+******** NEXT Piazza week 2
+	  DEADLINE: <2014-10-19 Sun>
+	 
+	 :PROPERTIES:
+	 :Effort:   1:00
+	 :END:
+
+******** NEXT Piazza week 3
+	  DEADLINE: <2014-10-26 Sun>
+	 
+	 :PROPERTIES:
+	 :Effort:   1:00
+	 :END:
+
+******** NEXT Piazza week 4
+	  DEADLINE: <2014-11-02 Sun>
+	 
+	 :PROPERTIES:
+	 :Effort:   1:00
+	 :END:
+
+******** NEXT Piazza week 5
+	  DEADLINE: <2014-11-09 Sun>
+	 
+	 :PROPERTIES:
+	 :Effort:   1:00
+	 :END:
+
+******** NEXT Piazza week 6
+	  DEADLINE: <2014-11-16 Sun>
+	 
+	 :PROPERTIES:
+	 :Effort:   1:00
+	 :END:
+
+******** NEXT Piazza week 7
+	  DEADLINE: <2014-11-23 Sun>
+	 
+	 :PROPERTIES:
+	 :Effort:   1:00
+	 :END:
+
+******** NEXT Piazza week 8
+	  DEADLINE: <2014-11-30 Sun>
+	 
+	 :PROPERTIES:
+	 :Effort:   1:00
+	 :END:
+
+******** NEXT Piazza week 9
+	  DEADLINE: <2014-12-07 Sun>
+	 
+	 :PROPERTIES:
+	 :Effort:   1:00
+	 :END:
+
+******** NEXT Piazza week 10
+	  DEADLINE: <2014-12-14 Sun>
+	 
+	 :PROPERTIES:
+	 :Effort:   1:00
+	 :END:
+
 ****** Schedule
 ******* TODO Lectures
 ******** DONE Week 0
@@ -12176,6 +12252,7 @@ Lectures in calendar and tasks like planning lectures.
 	   SCHEDULED: <2014-10-06 Mon>
 	   :LOGBOOK:
 	   - State "DONE"       from "NEXT"       [2014-10-10 Fri 10:50]
+	   CLOCK: [2014-10-11 Sat 10:30]--[2014-10-11 Sat 11:15] =>  0:45
 	   CLOCK: [2014-10-09 Thu 21:00]--[2014-10-09 Thu 21:40] =>  0:40
 	   :END:
 	   :PROPERTIES:
@@ -12195,6 +12272,7 @@ Lectures in calendar and tasks like planning lectures.
 ********** NEXT Prepare lec 2.3
 	   SCHEDULED: <2014-10-08 Wed>
 	   :LOGBOOK:
+	   CLOCK: [2014-10-11 Sat 13:20]--[2014-10-11 Sat 14:00] =>  0:40
 	   CLOCK: [2014-10-10 Fri 11:13]--[2014-10-10 Fri 11:43] =>  0:30
 	   :END:
 	   :PROPERTIES:
@@ -12474,8 +12552,11 @@ Lectures in calendar and tasks like planning lectures.
 
 ******** NEXT Choose main h/w problems
 	 DEADLINE: <2014-10-10 Fri>
-******** NEXT Change due date to 1 week after exams
+******** DONE Change due date to 1 week after exams
 	 DEADLINE: <2014-10-10 Fri>
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2014-10-11 Sat 15:37]
+	 :END:
 ******* TODO Website
 	:LOGBOOK:
 	CLOCK: [2014-09-22 Mon 12:58]--[2014-09-22 Mon 12:59] =>  0:01

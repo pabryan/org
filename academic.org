@@ -5451,8 +5451,11 @@ http://careers.stackoverflow.com/
    - State "DONE"       from "NEXT"       [2014-06-10 Tue 14:09]
    CLOCK: [2014-06-10 Tue 13:53]--[2014-06-10 Tue 14:09] =>  0:16
    :END:
-**** NEXT Make sure I have reference letters
+**** DONE Make sure I have reference letters
      DEADLINE: <2014-10-10 Fri>
+     :LOGBOOK:
+     - State "DONE"       from "NEXT"       [2014-10-11 Sat 15:28]
+     :END:
 *** TODO Applications
 See http://getpocket.com/a/queue/list/jobs/ for details.
 **** Misc
