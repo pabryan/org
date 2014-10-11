@@ -11431,7 +11431,10 @@ Lectures in calendar and tasks like planning lectures.
 	 :Effort:   0:30
 	 :END:
 ******** NEXT Prepare lectures
-********* TODO Week 0
+********* DONE Week 0
+	  :LOGBOOK:
+	  - State "DONE"       from "TODO"       [2014-10-11 Sat 15:53]
+	  :END:
 ********** DONE Prepare lec 0.1
 	   SCHEDULED: <2014-09-26 Fri>
 	   :LOGBOOK:
@@ -11444,7 +11447,10 @@ Lectures in calendar and tasks like planning lectures.
 	   :Effort:   1:00
 	   :END:
 
-********* TODO Week 1
+********* DONE Week 1
+	  :LOGBOOK:
+	  - State "DONE"       from "TODO"       [2014-10-11 Sat 15:53]
+	  :END:
 ********** DONE Prepare outline
 	   SCHEDULED: <2014-09-29 Mon>
 	   :LOGBOOK:
@@ -11483,8 +11489,9 @@ Lectures in calendar and tasks like planning lectures.
 	   :Effort:   1:00
 	   :END:
 
-********* TODO Week 2
+********* DONE Week 2
 	  :LOGBOOK:
+	  - State "DONE"       from "TODO"       [2014-10-11 Sat 15:54]
 	  CLOCK: [2014-10-09 Thu 14:07]--[2014-10-09 Thu 14:14] =>  0:07
 	  :END:
 ********** DONE Prepare outline
@@ -11498,6 +11505,7 @@ Lectures in calendar and tasks like planning lectures.
 ********** DONE Prepare lec 2.1
 	   SCHEDULED: <2014-10-06 Mon>
 	   :LOGBOOK:
+	   CLOCK: [2014-10-11 Sat 11:30]--[2014-10-11 Sat 11:40] =>  0:10
 	   - State "DONE"       from "NEXT"       [2014-10-09 Thu 13:26]
 	   CLOCK: [2014-10-09 Thu 13:05]--[2014-10-09 Thu 13:26] =>  0:21
 	   :END:
@@ -11508,6 +11516,7 @@ Lectures in calendar and tasks like planning lectures.
 ********** DONE Prepare lec 2.2
 	   SCHEDULED: <2014-10-08 Wed>
 	   :LOGBOOK:
+	   CLOCK: [2014-10-11 Sat 11:40]--[2014-10-11 Sat 11:50] =>  0:10
 	   - State "DONE"       from "NEXT"       [2014-10-09 Thu 13:56]
 	   CLOCK: [2014-10-09 Thu 13:26]--[2014-10-09 Thu 13:56] =>  0:30
 	   :END:
@@ -11518,6 +11527,7 @@ Lectures in calendar and tasks like planning lectures.
 ********** DONE Prepare lec 2.3
 	   SCHEDULED: <2014-10-08 Wed>
 	   :LOGBOOK:
+	   CLOCK: [2014-10-11 Sat 11:50]--[2014-10-11 Sat 12:00] =>  0:10
 	   - State "DONE"       from "NEXT"       [2014-10-09 Thu 14:07]
 	   CLOCK: [2014-10-09 Thu 13:56]--[2014-10-09 Thu 14:07] =>  0:11
 	   :END:
@@ -12269,9 +12279,10 @@ Lectures in calendar and tasks like planning lectures.
 	   :Effort:   1:00
 	   :END:
 
-********** NEXT Prepare lec 2.3
+********** DONE Prepare lec 2.3
 	   SCHEDULED: <2014-10-08 Wed>
 	   :LOGBOOK:
+	   - State "DONE"       from "NEXT"       [2014-10-11 Sat 15:46]
 	   CLOCK: [2014-10-11 Sat 13:20]--[2014-10-11 Sat 14:00] =>  0:40
 	   CLOCK: [2014-10-10 Fri 11:13]--[2014-10-10 Fri 11:43] =>  0:30
 	   :END:

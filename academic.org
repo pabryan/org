@@ -2223,6 +2223,16 @@ This is some sort of curvature flow for polygons - exactly what I want to look a
 ***** Refs 
 **** TODO Minimal immersion in hyperbolic space :IMMERSIONS:MINIMAL:SYMMMETRIC:SPHERE:HYPERBOLIC:
 ***** Notes
+****** Higher oscillating spaces
+Not sure what exactly I was thinking here...
+- Represent them as (Lie groups/algebras) higher order derivations?
+- Adjoint representation of Lie group such spaces gives derivations?
+- Linear representation corresponds to 1st order derivations?
+- Jet bundles?
+- Koszul complex
+****** Sequences
+Not sure what this is about either!
+- Koszul complex, presentations, descending sequences?
 ***** Tasks
 ***** Meetings
 ****** Nolan Wallach
