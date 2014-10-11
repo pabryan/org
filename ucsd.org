@@ -12563,6 +12563,12 @@ Lectures in calendar and tasks like planning lectures.
 
 ******** NEXT Choose main h/w problems
 	 DEADLINE: <2014-10-10 Fri>
+	 :LOGBOOK:
+	 CLOCK: [2014-10-11 Sat 16:27]
+	 :END:
+	 :PROPERTIES:
+	 :Effort:   0:30
+	 :END:
 ******** DONE Change due date to 1 week after exams
 	 DEADLINE: <2014-10-10 Fri>
 	 :LOGBOOK:
