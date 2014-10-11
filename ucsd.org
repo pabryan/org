@@ -12561,10 +12561,11 @@ Lectures in calendar and tasks like planning lectures.
 	 :Effort:   0:30
 	 :END:
 
-******** NEXT Choose main h/w problems
+******** DONE Choose main h/w problems
 	 DEADLINE: <2014-10-10 Fri>
 	 :LOGBOOK:
-	 CLOCK: [2014-10-11 Sat 16:27]
+	 - State "DONE"       from "NEXT"       [2014-10-11 Sat 16:54]
+	 CLOCK: [2014-10-11 Sat 16:27]--[2014-10-11 Sat 16:54] =>  0:27
 	 :END:
 	 :PROPERTIES:
 	 :Effort:   0:30
@@ -12598,6 +12599,11 @@ Lectures in calendar and tasks like planning lectures.
 	 :END:
 	 :PROPERTIES:
 	 :Effort:   0:30
+	 :END:
+******** TODO Add new students
+	 DEADLINE: <2014-10-11 Sat>
+	 :PROPERTIES:
+	 :Effort:   0:10
 	 :END:
 ******* TODO Grades
 ******** NEXT Create grade spreadsheet
