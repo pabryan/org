@@ -12600,8 +12600,37 @@ Lectures in calendar and tasks like planning lectures.
 	 :PROPERTIES:
 	 :Effort:   0:30
 	 :END:
-******** TODO Add new students
+******** DONE Add new students
 	 DEADLINE: <2014-10-11 Sat>
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2014-10-11 Sat 17:16]
+	 CLOCK: [2014-10-11 Sat 17:09]--[2014-10-11 Sat 17:16] =>  0:07
+	 :END:
+	 :PROPERTIES:
+	 :Effort:   0:10
+	 :END:
+******** NEXT Add new students
+	 DEADLINE: <2014-10-17 Fri>
+	 :PROPERTIES:
+	 :Effort:   0:10
+	 :END:
+******** NEXT Add new students
+	 DEADLINE: <2014-10-24 Fri>
+	 :PROPERTIES:
+	 :Effort:   0:10
+	 :END:
+******** NEXT Add new students
+	 DEADLINE: <2014-10-31 Fri>
+	 :PROPERTIES:
+	 :Effort:   0:10
+	 :END:
+******** NEXT Add new students
+	 DEADLINE: <2014-11-07 Fri>
+	 :PROPERTIES:
+	 :Effort:   0:10
+	 :END:
+******** NEXT Add new students
+	 DEADLINE: <2014-11-14 Fri>
 	 :PROPERTIES:
 	 :Effort:   0:10
 	 :END:
