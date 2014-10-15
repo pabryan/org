@@ -12302,11 +12302,17 @@ Lectures in calendar and tasks like planning lectures.
 ********* TODO Week 3
 ********** NEXT Prepare outline
 	   SCHEDULED: <2014-10-13 Mon>
+	   :LOGBOOK:
+	   CLOCK: [2014-10-15 Wed 10:30]
+	   :END:
 	   :PROPERTIES:
 	   :Effort:   0:30
 	   :END:
 ********** NEXT Prepare lec 3.1
 	   SCHEDULED: <2014-10-13 Mon>
+	   :LOGBOOK:
+	   CLOCK: [2014-10-13 Mon 19:30]--[2014-10-13 Mon 20:15] =>  0:45
+	   :END:
 	   :PROPERTIES:
 	   :Effort:   1:00
 	   :END:
