@@ -12544,7 +12544,7 @@ Lectures in calendar and tasks like planning lectures.
 	  :Effort:   1:00
 	  :END:
 ********* NEXT Get TA's comments
-	  DEADLINE: <2014-10-22 Wed>
+	  DEADLINE: <2014-10-22 Wed -3d>
 	  :PROPERTIES:
 	  :Effort:   0:10
 	  :END:
@@ -12645,6 +12645,9 @@ Lectures in calendar and tasks like planning lectures.
 ******** NEXT Update calendar
 ******** NEXT Update homework
 ******* TODO Piazza
+	:LOGBOOK:
+	CLOCK: [2014-10-15 Wed 10:57]
+	:END:
 ******** DONE Set up piazza
 	 SCHEDULED: <2014-09-29 Mon>
 	 :LOGBOOK:
@@ -12663,8 +12666,12 @@ Lectures in calendar and tasks like planning lectures.
 	 :PROPERTIES:
 	 :Effort:   0:10
 	 :END:
-******** NEXT Add new students
+******** DONE Add new students
 	 DEADLINE: <2014-10-17 Fri>
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2014-10-15 Wed 10:57]
+	 CLOCK: [2014-10-15 Wed 10:52]--[2014-10-15 Wed 10:57] =>  0:05
+	 :END:
 	 :PROPERTIES:
 	 :Effort:   0:10
 	 :END:
