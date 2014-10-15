@@ -1936,7 +1936,7 @@ This proves the inequality we need.  The remaining problem is to remove the symm
 	:END:
 ****** TODO Organisation
 ******* NEXT Create tasks
-	 SCHEDULED: <2014-09-19 Fri>
+	 SCHEDULED: <2014-10-18 Sat>
 ****** TODO Research
 ****** TODO Writing
 ***** Refs
@@ -2068,7 +2068,7 @@ Marsden et. al. book
 ******** NEXT Add transport theorem
 ****** TODO Misc
 ******* NEXT Follow up with Steve Roberts
-       	SCHEDULED: <2014-09-19 Fri>
+       	 SCHEDULED: <2014-10-18 Sat>
 ***** Notes
 ***** References
 - Gerbi et. al.
@@ -2107,7 +2107,7 @@ Marsden et. al. book
 	 :END:
 
 ******** TODO Write up variations
-	 SCHEDULED: <2014-09-19 Fri>
+	 SCHEDULED: <2014-10-18 Sat>
 	 :PROPERTIES:
 	 :ID:       35149012-93ea-4911-9903-8f3a2e335615
 	 :END:
@@ -2206,7 +2206,7 @@ This is some sort of curvature flow for polygons - exactly what I want to look a
 ******* NEXT Create org file
 ******* NEXT Create publishing
 ******* NEXT Create tasks
-	 SCHEDULED: <2014-10-07 Tue>
+	 SCHEDULED: <2014-10-18 Sat>
 ****** TODO Write paper
 ******* NEXT Create outline
 - Harnack
@@ -3525,7 +3525,7 @@ In particular I want the combinatorial algebra
        	:END:
 ** Tasks
 *** TODO Organise research papers    
-    SCHEDULED: <2014-10-13 Mon>
+    SCHEDULED: <2014-10-18 Sat>
     :PROPERTIES:
     :ID:       27dd1954-9abe-4a87-9bcd-36027c643fdb
     :END:
@@ -3632,7 +3632,7 @@ I could also have author, title, date etc. in the properties drawer! This is red
 No! Maybe I can use reftex and get it to take me to the entry in refs.org? I can certainly due this manually, using reftex to take me to the bib file which gives the ID which I can search for in the org file. Then I don't need to maintain duplicate info in the org and bib files and have all the power of reftex available.
 I'd like to be able to use org-mode views to show papers/books by a given author or by subject. Maybe I can have some sort of hook that uses reftex to do the search and return a list of ID's which is then the filter for org-mode views.
 **** TODO Improve referencing
-  SCHEDULED: <2014-10-13 Mon>
+  SCHEDULED: <2014-10-18 Sat>
   :LOGBOOK:
   CLOCK: [2013-11-16 Sat 10:34]--[2013-11-16 Sat 10:38] =>  0:04
   :END:
@@ -3649,7 +3649,7 @@ I'd like to be able to use org-mode views to show papers/books by a given author
 - Put books, lecture notes, web resources etc. into bibtex file
 
 **** TODO Work out paper getting procedure
-  SCHEDULED: <2014-10-13 Mon>
+  SCHEDULED: <2014-10-18 Sat>
   :LOGBOOK:
   CLOCK: [2014-02-11 Tue 12:54]--[2014-02-11 Tue 12:55] =>  0:01
   :END:
@@ -3657,7 +3657,7 @@ I'd like to be able to use org-mode views to show papers/books by a given author
 
 I want to grab a paper from the internet, possibly the bib entry as well and then store it somewhere to later enter into my org system. It should be quick and easy like capture tasks and then ideally I'd have some automated way of adding it to org.
 **** TODO Set up pdf metadata
-  SCHEDULED: <2014-10-13 Mon>
+  SCHEDULED: <2014-10-18 Sat>
 [2014-02-24 Mon 11:21]
 - I want to add meta data to pdf's based on bibtex entry
 http://askubuntu.com/questions/27381/how-to-edit-pdf-metadata-from-command-line
@@ -3764,9 +3764,9 @@ Either by using literal blocks in org-mode or using sagetex I can produce images
     CLOCK: [2012-12-18 Tue 09:45]--[2012-12-18 Tue 10:27] =>  0:42
     :END:
 *** TODO Organise Research Projects
-    SCHEDULED: <2014-10-13 Mon>
+    SCHEDULED: <2014-10-18 Sat>
 **** NEXT Set up/organise current research projects
-     SCHEDULED: <2014-10-13 Mon>
+     SCHEDULED: <2014-10-18 Sat>
   :LOGBOOK:
   CLOCK: [2014-03-21 Fri 13:10]--[2014-03-21 Fri 13:13] =>  0:03
   :END:
@@ -3790,7 +3790,7 @@ Either by using literal blocks in org-mode or using sagetex I can produce images
 **** NEXT Fill in project notes
 - I'd like to write the notes in my org entry and export to a wiki or something like that (open notebook wiki)
 **** NEXT Write research project summaries/proposals
-     SCHEDULED: <2014-10-13 Mon>
+     SCHEDULED: <2014-10-18 Sat>
   :LOGBOOK:
   CLOCK: [2014-03-21 Fri 13:09]--[2014-03-21 Fri 13:10] =>  0:01
   :END:
@@ -3813,7 +3813,7 @@ I want to have descriptions of my various research projects with clear aims, a s
 Schedule time for research, for teaching and for non-research academic work (e.g. refereeing). That cover's all the sort of work I do.
 
 *** TODO Make create research project capture
-  SCHEDULED: <2014-10-13 Mon>
+  SCHEDULED: <2014-10-18 Sat>
     :PROPERTIES:
     :ID:       89aab08c-03b4-4561-b868-45bc0088ba34
     :END:
@@ -4252,9 +4252,9 @@ Is there a consistent (say providing ZFC is consistent) set theory without the e
 **** Tasks
 ***** Writing
 ****** NEXT Write up conjectures.
-       SCHEDULED: <2014-10-01 Wed>
+       SCHEDULED: <2014-10-18 Sat>
 ****** NEXT Write up variations.
-       SCHEDULED: <2014-10-01 Wed>
+       SCHEDULED: <2014-10-18 Sat>
 ** Reading
    :PROPERTIES:
    :ID:       3b692ea2-10eb-4586-ae3e-2006ce6a3c0e

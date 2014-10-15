@@ -12650,9 +12650,10 @@ Lectures in calendar and tasks like planning lectures.
 	 :LOGBOOK:
 	 - State "DONE"       from "NEXT"       [2014-10-15 Wed 11:02]
 	 :END:
-******** NEXT Post sample exams
+******** DONE Post sample exams
 	 :LOGBOOK:
-	 CLOCK: [2014-10-15 Wed 11:02]
+	 - State "DONE"       from "NEXT"       [2014-10-15 Wed 11:11]
+	 CLOCK: [2014-10-15 Wed 11:02]--[2014-10-15 Wed 11:11] =>  0:09
 	 :END:
 ******* TODO Piazza
 	:LOGBOOK:
