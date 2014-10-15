@@ -12642,11 +12642,21 @@ Lectures in calendar and tasks like planning lectures.
 	 :PROPERTIES:
 	 :Effort:   1:00
 	 :END:
-******** NEXT Update calendar
-******** NEXT Update homework
+******** DONE Update calendar
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2014-10-15 Wed 11:02]
+	 :END:
+******** DONE Update homework
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2014-10-15 Wed 11:02]
+	 :END:
+******** NEXT Post sample exams
+	 :LOGBOOK:
+	 CLOCK: [2014-10-15 Wed 11:02]
+	 :END:
 ******* TODO Piazza
 	:LOGBOOK:
-	CLOCK: [2014-10-15 Wed 10:57]
+	CLOCK: [2014-10-15 Wed 10:57]--[2014-10-15 Wed 11:02] =>  0:05
 	:END:
 ******** DONE Set up piazza
 	 SCHEDULED: <2014-09-29 Mon>
