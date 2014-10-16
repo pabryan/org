@@ -181,8 +181,9 @@ https://secure.k12online.us/innovations-academy-charter-school
 ***** Parent Meeting
 <2014-05-31 Sat 10:00-12:00>
 **** Schedule
-***** Home learning paperwork
+***** DONE Home learning paperwork
       DEADLINE: <2014-09-25 Thu>
+
 **** Field trips
 ***** Pumpkin patch
 <2014-10-31 Fri 10:30>
@@ -199,3 +200,8 @@ Please have your child ware closed toed shoes this is a Food Bank Policy.
 ***** Classics 4 Kids Once Upon A Tiempo
 <2015-05-01 Fri 09:30>
 - $6
+=======
+      :LOGBOOK:
+      - State "DONE"       from ""           [2014-10-15 Wed 10:52]
+      :END:
+
