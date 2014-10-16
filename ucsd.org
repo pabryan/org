@@ -11755,9 +11755,16 @@ Lectures in calendar and tasks like planning lectures.
 	   :END:
 
 ******* TODO Exams
-******** NEXT Midterm 1
-********* NEXT Write Midterm 1 proposal
+******** TODO Midterm 1
+	 :LOGBOOK:
+	 CLOCK: [2014-10-15 Wed 20:36]--[2014-10-15 Wed 20:39] =>  0:03
+	 :END:
+********* DONE Write Midterm 1 proposal
 	  SCHEDULED: <2014-10-13 Mon>
+	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2014-10-15 Wed 20:36]
+	  CLOCK: [2014-10-15 Wed 20:08]--[2014-10-15 Wed 20:36] =>  0:28
+	  :END:
 	  
 	  DEADLINE: <2014-10-20 Mon>
 	  :PROPERTIES:
@@ -11766,6 +11773,9 @@ Lectures in calendar and tasks like planning lectures.
 ******** NEXT Midterm 2
 ********* NEXT Write Midterm 2 proposal
 	  SCHEDULED: <2014-10-13 Mon> DEADLINE: <2014-10-20 Mon>
+	  :LOGBOOK:
+	  CLOCK: [2014-10-15 Wed 20:39]--[2014-10-15 Wed 20:47] =>  0:08
+	  :END:
 	  :PROPERTIES:
 	  :Effort:   1:00
 	  :END:
@@ -12719,8 +12729,15 @@ Lectures in calendar and tasks like planning lectures.
 	  :Effort:   0:10
 	  :END:
 ******** TODO Write notes
-********** NEXT Write proof $\RR$ is the only complete ordered field
+	 :LOGBOOK:
+	 CLOCK: [2014-10-15 Wed 18:31]--[2014-10-15 Wed 20:08] =>  1:37
+	 :END:
+********** DONE Write proof $\RR$ is the only complete ordered field
 	  SCHEDULED: <2014-10-15 Wed>
+	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2014-10-15 Wed 18:31]
+	  CLOCK: [2014-10-15 Wed 17:40]--[2014-10-15 Wed 18:31] =>  0:51
+	  :END:
 
 ******* TODO Grades
 ******** NEXT Create grade spreadsheet
