@@ -11,6 +11,7 @@
 00707046
 ** Omni Lock
    5055922
+** Pid
 * Teaching 							   :TEACHING:
   :LOGBOOK:
   CLOCK: [2012-12-06 Thu 10:53]--[2012-12-06 Thu 11:05] =>  0:12
@@ -11811,6 +11812,9 @@ Lectures in calendar and tasks like planning lectures.
 
 ******** NEXT Piazza week 2
 	  DEADLINE: <2014-10-19 Sun>
+	  :LOGBOOK:
+	  CLOCK: [2014-10-13 Mon 21:30]--[2014-10-13 Mon 22:09] =>  0:39
+	  :END:
 	 
 	 :PROPERTIES:
 	 :Effort:   1:00
@@ -11921,7 +11925,11 @@ Lectures in calendar and tasks like planning lectures.
 	  :Effort:   1:00
 	  :END:
 ******** TODO Week 2
-********* NEXT Lecture 2.1
+********* DONE Lecture 2.1
+	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2014-10-13 Mon 22:11]
+	  CLOCK: [2014-10-13 Mon 11:50]--[2014-10-13 Mon 12:55] =>  1:05
+	  :END:
 	  <2014-10-13 Mon 11:55-12:55>
 	  :PROPERTIES:
 	  :Effort:   1:00
@@ -12101,7 +12109,10 @@ Lectures in calendar and tasks like planning lectures.
 	 :Effort:   2:00
 	 :END:
 
-******** NEXT O/H Week 2
+******** DONE O/H Week 2
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2014-10-13 Mon 22:11]
+	 :END:
 	 <2014-10-13 Mon 15:00-17:00>
 	 :PROPERTIES:
 	 :Effort:   2:00
@@ -12609,40 +12620,44 @@ Lectures in calendar and tasks like planning lectures.
 	 :PROPERTIES:
 	 :Effort:   0:30
 	 :END:
-******** DONE Add new students
-	 DEADLINE: <2014-10-11 Sat>
-	 :LOGBOOK:
-	 - State "DONE"       from "NEXT"       [2014-10-11 Sat 17:16]
-	 CLOCK: [2014-10-11 Sat 17:09]--[2014-10-11 Sat 17:16] =>  0:07
-	 :END:
-	 :PROPERTIES:
-	 :Effort:   0:10
-	 :END:
-******** NEXT Add new students
-	 DEADLINE: <2014-10-17 Fri>
-	 :PROPERTIES:
-	 :Effort:   0:10
-	 :END:
-******** NEXT Add new students
-	 DEADLINE: <2014-10-24 Fri>
-	 :PROPERTIES:
-	 :Effort:   0:10
-	 :END:
-******** NEXT Add new students
-	 DEADLINE: <2014-10-31 Fri>
-	 :PROPERTIES:
-	 :Effort:   0:10
-	 :END:
-******** NEXT Add new students
-	 DEADLINE: <2014-11-07 Fri>
-	 :PROPERTIES:
-	 :Effort:   0:10
-	 :END:
-******** NEXT Add new students
-	 DEADLINE: <2014-11-14 Fri>
-	 :PROPERTIES:
-	 :Effort:   0:10
-	 :END:
+******** TODO Add students
+********* DONE Add new students
+	  DEADLINE: <2014-10-11 Sat>
+	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2014-10-11 Sat 17:16]
+	  CLOCK: [2014-10-11 Sat 17:09]--[2014-10-11 Sat 17:16] =>  0:07
+	  :END:
+	  :PROPERTIES:
+	  :Effort:   0:10
+	  :END:
+********* NEXT Add new students
+	  DEADLINE: <2014-10-17 Fri>
+	  :PROPERTIES:
+	  :Effort:   0:10
+	  :END:
+********* NEXT Add new students
+	  DEADLINE: <2014-10-24 Fri>
+	  :PROPERTIES:
+	  :Effort:   0:10
+	  :END:
+********* NEXT Add new students
+	  DEADLINE: <2014-10-31 Fri>
+	  :PROPERTIES:
+	  :Effort:   0:10
+	  :END:
+********* NEXT Add new students
+	  DEADLINE: <2014-11-07 Fri>
+	  :PROPERTIES:
+	  :Effort:   0:10
+	  :END:
+********* NEXT Add new students
+	  DEADLINE: <2014-11-14 Fri>
+	  :PROPERTIES:
+	  :Effort:   0:10
+	  :END:
+******** TODO Write notes
+********* NEXT Write proof $\RR$ is the only complete ordered field
+	  SCHEDULED: <2014-10-15 Wed>
 ******* TODO Grades
 ******** NEXT Create grade spreadsheet
 	 DEADLINE: <2014-12-22 Mon>
@@ -12690,8 +12705,12 @@ Lectures in calendar and tasks like planning lectures.
 	  :Effort:   1:00
 	  :END:
 ******** TODO Week 2
-********* NEXT Lecture 2.1
+********* DONE Lecture 2.1
 	  <2014-10-13 Mon 12:55-13:55>
+	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2014-10-13 Mon 22:11]
+	  CLOCK: [2014-10-13 Mon 12:55]--[2014-10-13 Mon 14:05] =>  1:10
+	  :END:
 	  :PROPERTIES:
 	  :Effort:   1:00
 	  :END:
