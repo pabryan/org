@@ -1847,6 +1847,8 @@ http://gmane.org
   :END:
 ** Organisation
   :LOGBOOK:
+  CLOCK: [2014-10-16 Thu 17:42]--[2014-10-16 Thu 17:52] =>  0:10
+  CLOCK: [2014-10-16 Thu 17:22]--[2014-10-16 Thu 17:37] =>  0:15
   CLOCK: [2014-10-15 Wed 17:24]--[2014-10-15 Wed 17:40] =>  0:16
   CLOCK: [2014-10-15 Wed 11:11]--[2014-10-15 Wed 11:18] =>  0:07
   CLOCK: [2014-10-15 Wed 10:47]--[2014-10-15 Wed 10:52] =>  0:05
@@ -3909,8 +3911,10 @@ When I set up scoring the day:
 - [ ] Collate data such as sleep, weight, exercise, diet etc.
 
 ** NEXT Daily Plan [0/7]
-   SCHEDULED: <2014-10-16 Thu .+1d/2d>
+   SCHEDULED: <2014-10-17 Fri .+1d/2d>
    :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2014-10-16 Thu 17:42]
+   CLOCK: [2014-10-16 Thu 17:37]--[2014-10-16 Thu 17:42] =>  0:05
    - State "DONE"       from "NEXT"       [2014-10-15 Wed 09:36]
    CLOCK: [2014-10-15 Wed 09:19]--[2014-10-15 Wed 09:36] =>  0:17
    - State "DONE"       from "NEXT"       [2014-10-13 Mon 22:09]
@@ -4743,7 +4747,7 @@ When I set up scoring the day:
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
    :ID:       ef051ee0-1113-4604-b355-450a5a47848b
-   :LAST_REPEAT: [2014-10-15 Wed 09:36]
+   :LAST_REPEAT: [2014-10-16 Thu 17:42]
    :END:
 
 - [ ] Check agenda/focus
@@ -4755,9 +4759,11 @@ When I set up scoring the day:
 - [ ] Do short tasks
 - [ ] Record morning health stats
 
-** NEXT Weekly Review [0/20]
+** NEXT Weekly Review [16/20]
    SCHEDULED: <2014-07-07 Mon +1w>
    :LOGBOOK:
+   CLOCK: [2014-10-16 Thu 18:18]
+   CLOCK: [2014-10-16 Thu 18:05]--[2014-10-16 Thu 18:18] =>  0:13
    - State "DONE"       from "NEXT"       [2014-10-11 Sat 19:44]
    CLOCK: [2014-10-11 Sat 19:30]--[2014-10-11 Sat 19:44] =>  0:14
    - State "DONE"       from "NEXT"       [2014-10-07 Tue 13:52]
@@ -4901,25 +4907,25 @@ When I set up scoring the day:
    :LAST_REPEAT: [2014-10-11 Sat 19:44]
    :END:
 
-- [ ] Check holding directory
+- [X] Check holding directory
   [[file:~/holding]]
-- [ ] Check holding email folder
-- [ ] Review weekly agenda =F12 a w//=
-- [ ] Check clocking data for past week =v c=
+- [X] Check holding email folder
+- [X] Review weekly agenda =F12 a w//=
+- [X] Check clocking data for past week =v c=
   - fix up any errors
-- [ ] Review clock report for past week =R=
+- [X] Review clock report for past week =R=
   - Check where we spent time (too much or too little) and rectify this week
-- [ ] Look at entire agenda for today  =F12 SPC=
-- [ ] Check un-committed work
-- [ ] Refile tasks
-- [ ] Weekly clean up
+- [X] Look at entire agenda for today  =F12 SPC=
+- [X] Check un-committed work
+- [X] Refile tasks
+- [-] Weekly clean up
   - [ ] Clean up Downloads
-  - [ ] Clean up tmp
-  - [ ] Clean up tablet
-  - [ ] Clean up phone
-- [ ] Process incoming information
-  - [ ] feedly
-  - [ ] pocket
+  - [X] Clean up tmp
+  - [X] Clean up tablet
+  - [X] Clean up phone
+- [X] Process incoming information
+  - [X] feedly
+  - [X] pocket
 - [ ] Plan the upcoming week
   - Theme your days: teaching, admin/service, research, students, writing
   - [[file:daythemes.org][file:~/org/daythemes.org]]
@@ -4943,19 +4949,19 @@ When I set up scoring the day:
     - [ ] Organisation
       - [ ] Weekly review
       - [ ] Project planning
-- [ ] Review focus projects 
-- [ ] Set focus
+- [X] Review focus projects 
+- [X] Set focus
 - [ ] Check follow-up paper folder
 - [ ] Collate the weeks: pad scribbles, org-mode notes, phone notes, etc.
-- [ ] Check Finances
+- [X] Check Finances
   - Check bank accounts and compare with what's still to come
   - Plan the weeks budget
   - Update monthly transactions
-- [ ] Copy music to phone
-- [ ] Share photos on Google+
-- [ ] Update Abundant Harvest order
+- [X] Copy music to phone
+- [X] Share photos on Google+
+- [X] Update Abundant Harvest order
   - http://www.abundantharvestorganics.com/
-- [ ] Order meat
+- [X] Order meat
   - http://www.son-riseranchstore.com/
 
 ** NEXT Monthly (Quarterly?) Plan/Review [0/16]

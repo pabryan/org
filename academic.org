@@ -1938,6 +1938,11 @@ This proves the inequality we need.  The remaining problem is to remove the symm
 ******* NEXT Create tasks
 	 SCHEDULED: <2014-10-18 Sat>
 ****** TODO Research
+******* TODO Dist comp on sphere
+******** TODO Chord/arc profile
+******** TODO Comparison
+******* TODO Comparison for positively curved surfaces
+******* TODO Connection with ancient solutions
 ****** TODO Writing
 ***** Refs
 **** TODO Pipe Flows 						  :PIPE_FLOW:
@@ -2076,7 +2081,7 @@ Marsden et. al. book
 - Longer paper on blood flows (semi-expository)
 - Well balancing
 - ANUGA
-**** TODO csf_networks 					       :CSF_NETWORKS:
+**** TODO CSF networks 					       :CSF_NETWORKS:
    :PROPERTIES:
    :ID:       1bc93b81-8423-4598-8297-f0b90aa39aa7
    :END:
@@ -2240,6 +2245,65 @@ Not sure what this is about either!
        CLOCK: [2014-08-12 Tue 14:05]--[2014-08-12 Tue 15:31] =>  1:26
        :END:
 <2014-08-12 Tue 14:00-15:30>
+**** TODO Convexity in space forms			   :CONVEX:SPACEFORM:
+***** Files
+[[file:~/working/academic/research/convexity_space_forms]]
+***** Notes
+***** Tasks
+****** TODO Admin
+       :LOGBOOK:
+       CLOCK: [2014-10-16 Thu 18:04]--[2014-10-16 Thu 18:05] =>  0:01
+       :END:
+******* DONE Create org structure
+	:LOGBOOK:
+	- State "DONE"       from "NEXT"       [2014-10-16 Thu 18:04]
+	CLOCK: [2014-10-16 Thu 17:52]--[2014-10-16 Thu 18:04] =>  0:12
+	:END:
+****** TODO Mathematics
+******* TODO Basic convexity
+******** NEXT Work out precise definitions
+******* TODO Support function
+******** NEXT Make sure of precise definition
+******** NEXT Parameterize by support function
+	 :LOGBOOK:
+	 CLOCK: [2014-10-16 Thu 13:00]--[2014-10-16 Thu 13:30] =>  0:30
+	 CLOCK: [2014-10-16 Thu 09:30]--[2014-10-16 Thu 12:00] =>  2:30
+	 :END:
+******** NEXT Determine properties of vector field
+******* TODO Harnack inequality
+****** TODO Write paper
+******* TODO Outline
+******** NEXT Create main structure
+******* TODO Sections
+******** TODO Basic convexity
+********* NEXT Characterisation of convexity
+- geodesics joining any two points
+********* NEXT Boundary structure
+- positive curvature
+********* NEXT supporting hyperplanes
+******** TODO Support function
+********* NEXT Definition using ambient space
+- like Heintze, Alencar/Frensel
+********* NEXT Harnack inequality
+********* NEXT Parametrising by support function
+******** TODO Connection with cones in ambient space
+******* TODO Proof reading
+**** TODO Ancient flows in spheres
+***** Files
+[[file:~/working/academic/research/ancient_flows_spheres]]
+***** Notes
+***** Tasks
+****** TODO Maths
+******* TODO Curvature goes to 0
+******** NEXT Show pointwise by curve lengths
+- Fix a point $x$ say at time $t=1$. Then the length of the curve $\gamma(x, t)$ from $t=-1$ to $-\infty$ is $\int_{-\infty}^1 F(A(x, t)) dt$. Since the hypersurfaces bound an increasing nested set of domains bounded by a hemisphere, and by convexity, surely the path must have finite length which implies $F(A)$ goes to $0$.
+******** NEXT Show $L^1$ 
+Maybe by calculating the evolution of $\int_{M_t} F(A)$ I can show that necessarily it goes to zero. Then add the Harnack inequality to get curvature and derivative bounds to get pointwise convergence.
+******* TODO Harnack inequality
+******** NEXT Evolution of support function.
+See [[*Convexity%20in%20space%20forms][Convexity in space forms]] and Ben's argument.
+****** TODO Writing
+
 *** Future 							    :SOMEDAY:
 **** TODO Study non-smooth mean curvature flow, minimal surfaces via support fn
      SCHEDULED: <2015-01-01 Thu>
