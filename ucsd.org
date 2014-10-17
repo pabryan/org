@@ -11770,10 +11770,15 @@ Lectures in calendar and tasks like planning lectures.
 	  :PROPERTIES:
 	  :Effort:   1:00
 	  :END:
-******** NEXT Midterm 2
-********* NEXT Write Midterm 2 proposal
+******** TODO Midterm 2
+	 :LOGBOOK:
+	 CLOCK: [2014-10-17 Fri 11:39]
+	 :END:
+********* DONE Write Midterm 2 proposal
 	  SCHEDULED: <2014-10-13 Mon> DEADLINE: <2014-10-20 Mon>
 	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2014-10-17 Fri 11:39]
+	  CLOCK: [2014-10-17 Fri 10:49]--[2014-10-17 Fri 11:39] =>  0:50
 	  CLOCK: [2014-10-15 Wed 20:39]--[2014-10-15 Wed 20:47] =>  0:08
 	  :END:
 	  :PROPERTIES:
