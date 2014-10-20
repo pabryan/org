@@ -11851,9 +11851,11 @@ Lectures in calendar and tasks like planning lectures.
 	 :Effort:   1:00
 	 :END:
 
-******** NEXT Piazza week 2
+******** DONE Piazza week 2
 	  DEADLINE: <2014-10-19 Sun>
 	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2014-10-20 Mon 09:25]
+	  CLOCK: [2014-10-19 Sun 20:30]--[2014-10-19 Sun 20:50] =>  0:20
 	  CLOCK: [2014-10-13 Mon 21:30]--[2014-10-13 Mon 22:09] =>  0:39
 	  :END:
 	 
@@ -12364,7 +12366,10 @@ Lectures in calendar and tasks like planning lectures.
 	   :Effort:   1:00
 	   :END:
 
-********* TODO Week 3
+********* DONE Week 3
+	  :LOGBOOK:
+	  - State "DONE"       from "TODO"       [2014-10-20 Mon 09:13]
+	  :END:
 ********** DONE Prepare outline
 	   SCHEDULED: <2014-10-13 Mon>
 	   :LOGBOOK:
@@ -12395,8 +12400,12 @@ Lectures in calendar and tasks like planning lectures.
 	   :Effort:   1:00
 	   :END:
 
-********** NEXT Prepare lec 3.3
+********** DONE Prepare lec 3.3
 	   SCHEDULED: <2014-10-15 Wed>
+	   :LOGBOOK:
+	   - State "DONE"       from "NEXT"       [2014-10-20 Mon 09:13]
+	   CLOCK: [2014-10-19 Sun 11:25]--[2014-10-19 Sun 11:55] =>  0:30
+	   :END:
 	   :PROPERTIES:
 	   :Effort:   1:00
 	   :END:
@@ -12409,6 +12418,9 @@ Lectures in calendar and tasks like planning lectures.
 	   :END:
 ********** NEXT Prepare lec 4.1
 	   SCHEDULED: <2014-10-20 Mon>
+	   :LOGBOOK:
+	   CLOCK: [2014-10-19 Sun 11:55]--[2014-10-19 Sun 12:35] =>  0:40
+	   :END:
 	   :PROPERTIES:
 	   :Effort:   1:00
 	   :END:
@@ -12570,14 +12582,21 @@ Lectures in calendar and tasks like planning lectures.
 	   :END:
 
 ******* TODO Exams
-******** NEXT Midterm 1
-********* NEXT Write Midterm 1
+******** TODO Midterm 1
+********* DONE Write Midterm 1
 	  SCHEDULED: <2014-10-20 Mon>
+	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2014-10-20 Mon 10:12]
+	  CLOCK: [2014-10-20 Mon 09:50]--[2014-10-20 Mon 10:12] =>  0:22
+	  :END:
 	  :PROPERTIES:
 	  :Effort:   1:00
 	  :END:
-********* NEXT Get TA's comments
+********* DONE Get TA's comments
 	  DEADLINE: <2014-10-22 Wed -3d>
+	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2014-10-20 Mon 10:12]
+	  :END:
 	  :PROPERTIES:
 	  :Effort:   0:10
 	  :END:
@@ -12720,8 +12739,12 @@ Lectures in calendar and tasks like planning lectures.
 	  :PROPERTIES:
 	  :Effort:   0:10
 	  :END:
-********* NEXT Add new students
+********* DONE Add new students
 	  DEADLINE: <2014-10-24 Fri>
+	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2014-10-20 Mon 09:33]
+	  CLOCK: [2014-10-20 Mon 09:29]--[2014-10-20 Mon 09:33] =>  0:04
+	  :END:
 	  :PROPERTIES:
 	  :Effort:   0:10
 	  :END:
@@ -13054,6 +13077,18 @@ Lectures in calendar and tasks like planning lectures.
 <2014-10-10 Fri 14:20>
 ******** 142A Grader
 <2014-10-10 Fri 14:20>
+***** TODO Cover lectures
+****** TODO Lei Ni Analysis
+******* Schedule
+******** NEXT Analysis lecture
+<2014-10-27 Mon 14:55-15:05>
+******* Tasks
+******** NEXT Prepare lecture
+	 DEADLINE: <2014-10-26 Sun>
+	 :PROPERTIES:
+	 :Effort:   1:00
+	 :END:
+
 **** Winter 2015
 ***** TODO Math20B
 ****** Files
