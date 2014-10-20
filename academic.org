@@ -2556,6 +2556,24 @@ In the genus 1 case (where we are not rescaling), the length of the shortest non
 
 I am wondering whether it might be possible to take into account the possible different topologies of isoperimetric regions in order to get estimates on the isoperimetric profile of $M$ instead of $\tilde M$:  For example out argument shows that the relevant isoperimetric regions are connected and have connected complement, so in the genus 1 case they are either disks, complements of discs, or annuli.   Maybe it is possible to argue separately for each of these cases?
 
+**** TODO Cohomology of Gauss map and linear functionals
+***** Files
+[[file:~/working/academic/research/gauss_cohomology_functionals]]
+***** Tasks
+****** TODO Admin
+******* TODO Org structure
+******** NEXT Create org structure
+	 :LOGBOOK:
+	 CLOCK: [2014-10-20 Mon 11:12]
+	 :END:
+******** DONE Create project repository
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2014-10-20 Mon 11:12]
+	 CLOCK: [2014-10-20 Mon 11:10]--[2014-10-20 Mon 11:12] =>  0:02
+	 :END:
+***** Notes
+***** Refs
+
 *** Holding
 **** TODO Ricci isoperimetric profile			     :RICCI_ISO_COMP:
    :LOGBOOK:
