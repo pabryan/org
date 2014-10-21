@@ -12174,7 +12174,7 @@ Lectures in calendar and tasks like planning lectures.
 
 ******** NEXT O/H Week 3
 	 :LOGBOOK:
-	 CLOCK: [2014-10-20 Mon 14:46]
+	 CLOCK: [2014-10-20 Mon 14:46]--[2014-10-20 Mon 17:01] =>  2:15
 	 :END:
 	 <2014-10-20 Mon 15:00-17:00>
 	 :PROPERTIES:
@@ -12418,14 +12418,18 @@ Lectures in calendar and tasks like planning lectures.
 	   :END:
 
 ********* TODO Week 4
-********** NEXT Prepare outline
+********** DONE Prepare outline
 	   SCHEDULED: <2014-10-20 Mon>
+	   :LOGBOOK:
+	   - State "DONE"       from "NEXT"       [2014-10-20 Mon 17:01]
+	   :END:
 	   :PROPERTIES:
 	   :Effort:   0:30
 	   :END:
-********** NEXT Prepare lec 4.1
+********** DONE Prepare lec 4.1
 	   SCHEDULED: <2014-10-20 Mon>
 	   :LOGBOOK:
+	   - State "DONE"       from "NEXT"       [2014-10-20 Mon 17:05]
 	   CLOCK: [2014-10-19 Sun 11:55]--[2014-10-19 Sun 12:35] =>  0:40
 	   :END:
 	   :PROPERTIES:
