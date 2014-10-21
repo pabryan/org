@@ -9958,8 +9958,11 @@ received 25/25 points.
 	 :PROPERTIES:
 	 :Effort:   1:00
 	 :END:
-******** TODO Follow up on ChongXuan Xu Academic Integrity
+******** DONE Follow up on ChongXuan Xu Academic Integrity
 	 DEADLINE: <2014-10-21 Tue>
+	 :LOGBOOK:
+	 - State "DONE"       from "TODO"       [2014-10-21 Tue 13:47]
+	 :END:
 ******* DONE Piazza
 	:LOGBOOK:
 	- State "DONE"       from "TODO"       [2014-09-09 Tue 15:05]
@@ -11429,7 +11432,10 @@ Lectures in calendar and tasks like planning lectures.
 	 :Effort:   0:15
 	 :END:
 ******* TODO Lectures
-******** NEXT Create lecture schedule
+******** DONE Create lecture schedule
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2014-10-21 Tue 13:48]
+	 :END:
 	 :PROPERTIES:
 	 :Effort:   0:30
 	 :END:
@@ -12242,9 +12248,10 @@ Lectures in calendar and tasks like planning lectures.
 	  :Effort:   0:30
 	  :END:
 	  <2014-10-09 Thu 11:45-12:30>
-********* NEXT Plan Midterms
+********* DONE Plan Midterms
 	  :LOGBOOK:
-	  CLOCK: [2014-10-21 Tue 11:54]
+	  - State "DONE"       from "NEXT"       [2014-10-21 Tue 13:40]
+	  CLOCK: [2014-10-21 Tue 11:54]--[2014-10-21 Tue 13:39] =>  1:45
 	  :END:
 	  :PROPERTIES:
 	  :Effort:   1:30
@@ -13103,7 +13110,7 @@ Lectures in calendar and tasks like planning lectures.
 ******** NEXT Analysis lecture
 <2014-10-27 Mon 14:55-15:05>
 ******* Tasks
-******** NEXT Prepare lecture
+******** NEXT Prepare Lei Ni Analysis lecture
 	 DEADLINE: <2014-10-26 Sun>
 	 :PROPERTIES:
 	 :Effort:   1:00
