@@ -11608,12 +11608,18 @@ Lectures in calendar and tasks like planning lectures.
 
 ********** NEXT Prepare lec 4.2
 	   SCHEDULED: <2014-10-22 Wed>
+	   :LOGBOOK:
+	   CLOCK: [2014-10-22 Wed 08:34]--[2014-10-22 Wed 08:48] =>  0:14
+	   :END:
 	   :PROPERTIES:
 	   :Effort:   1:00
 	   :END:
 
-********** NEXT Prepare lec 4.3
+********** DONE Prepare lec 4.3
 	   SCHEDULED: <2014-10-22 Wed>
+	   :LOGBOOK:
+	   - State "DONE"       from "NEXT"       [2014-10-22 Wed 08:48]
+	   :END:
 	   :PROPERTIES:
 	   :Effort:   1:00
 	   :END:
@@ -11873,6 +11879,9 @@ Lectures in calendar and tasks like planning lectures.
 
 ******** NEXT Piazza week 3
 	  DEADLINE: <2014-10-26 Sun>
+	  :LOGBOOK:
+	  CLOCK: [2014-10-22 Wed 10:02]--[2014-10-22 Wed 10:08] =>  0:06
+	  :END:
 	 
 	 :PROPERTIES:
 	 :Effort:   1:00
@@ -12450,12 +12459,18 @@ Lectures in calendar and tasks like planning lectures.
 
 ********** NEXT Prepare lec 4.2
 	   SCHEDULED: <2014-10-22 Wed>
+	   :LOGBOOK:
+	   CLOCK: [2014-10-22 Wed 08:48]--[2014-10-22 Wed 08:58] =>  0:10
+	   :END:
 	   :PROPERTIES:
 	   :Effort:   1:00
 	   :END:
 
-********** NEXT Prepare lec 4.3
+********** DONE Prepare lec 4.3
 	   SCHEDULED: <2014-10-22 Wed>
+	   :LOGBOOK:
+	   - State "DONE"       from "NEXT"       [2014-10-22 Wed 08:48]
+	   :END:
 	   :PROPERTIES:
 	   :Effort:   1:00
 	   :END:

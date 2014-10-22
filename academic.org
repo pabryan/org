@@ -3007,11 +3007,21 @@ CONSTANT ANISOTROPIC MEAN CURVATURE
 
 ****** TODO Support function
        SCHEDULED: <2014-10-21 Tue>
+       :LOGBOOK:
+       CLOCK: [2014-10-22 Wed 10:00]--[2014-10-22 Wed 10:01] =>  0:01
+       :END:
+******* NEXT Compute laplacian
 ******* NEXT Compute time variation
 	:LOGBOOK:
+	CLOCK: [2014-10-22 Wed 08:58]--[2014-10-22 Wed 09:03] =>  0:05
 	CLOCK: [2014-03-28 Fri 09:13]--[2014-03-28 Fri 12:20] =>  3:07
 	:END:
 ******* NEXT Write variations all in terms of support function
+******* DONE Write definitions
+	:LOGBOOK:
+	- State "DONE"       from "NEXT"       [2014-10-22 Wed 10:00]
+	CLOCK: [2014-10-22 Wed 09:03]--[2014-10-22 Wed 10:00] =>  0:57
+	:END:
 ****** TODO Harnack Inequality
        SCHEDULED: <2014-10-21 Tue>
 ******* NEXT Derive in $\RR^n$ using support function defined on $M$
