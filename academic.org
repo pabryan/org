@@ -2082,128 +2082,6 @@ Marsden et. al. book
 - Longer paper on blood flows (semi-expository)
 - Well balancing
 - ANUGA
-**** TODO CSF networks 					       :CSF_NETWORKS:
-   :PROPERTIES:
-   :ID:       1bc93b81-8423-4598-8297-f0b90aa39aa7
-   :END:
-[[file:~/working/academic/research/csf_networks]]
-***** Tasks
-****** DONE Set up org file
-       :LOGBOOK:
-       - State "DONE"       from "NEXT"       [2013-11-14 Thu 19:51]
-       CLOCK: [2013-11-14 Thu 19:46]--[2013-11-14 Thu 19:51] =>  0:05
-       :END:
-****** TODO Variations
-       :PROPERTIES:
-       :ID:       94a94db4-2a73-4d9f-a85d-5b0c316a1368
-       :END:
-******** DONE Calculate variation of $d$
-	 :LOGBOOK:
-	 - State "DONE"       from "NEXT"       [2013-11-09 Sat 15:12]
-	 CLOCK: [2013-11-09 Sat 14:12]--[2013-11-09 Sat 14:40] =>  0:28
-	 :END:
-	 :PROPERTIES:
-	 :ID:       a687895f-101a-4cbb-8f21-d2071d209335
-	 :END:
-- What happens at node points?
-******** DONE Calculate variation of $l$
-	 :LOGBOOK:
-	 - State "DONE"       from "DONE"       [2013-11-09 Sat 15:13]
-	 CLOCK: [2013-11-09 Sat 14:40]--[2013-11-09 Sat 15:13] =>  0:33
-	 :END:
-
-******** TODO Write up variations
-	 SCHEDULED: <2014-10-18 Sat>
-	 :PROPERTIES:
-	 :ID:       35149012-93ea-4911-9903-8f3a2e335615
-	 :END:
-****** TODO Viscosity equation
-       :PROPERTIES:
-       :ID:       2afa6d5c-f40f-4a51-bb74-fa05b6369da8
-       :END:
-******** TODO Combine variations into viscosity equation
-	 :PROPERTIES:
-	 :ID:       26f14bf2-e885-4731-bfbe-95553799cfde
-	 :END:
-****** TODO Barrier equation
-       :PROPERTIES:
-       :ID:       b41651db-2b4a-4301-9557-8abffccf5cce
-       :END:
-******* NEXT Use variations to get barrier equation
-	:PROPERTIES:
-	:ID:       d9233946-64db-4768-b514-670c3485e4c1
-	:END:
-******* TODO Investigate concavity properties
-	:PROPERTIES:
-	:ID:       63fad4bd-447f-4786-bcf5-0e3a536e00ac
-	:END:
-****** TODO asymptotics
-       :PROPERTIES:
-       :ID:       ff689c50-1db9-4dac-a91b-b9ad9b779b7a
-       :END:
-******* NEXT Near a vertex we need a near-isometry
-	:PROPERTIES:
-	:ID:       b3b58176-d830-4020-8328-0deec292b9e0
-	:END:
-******* NEXT Does inf occur at a vertex?
-	:PROPERTIES:
-	:ID:       1f9fc531-0063-4ada-9b59-f60d319e36e6
-	:END:
-****** TODO CSF networks defn and existence/uniqueness
-       :PROPERTIES:
-       :ID:       f1f13b51-1bfd-4c47-a349-2b23cc3f212b
-       :END:
-******* NEXT Write CSF Network Defn
-	:LOGBOOK:
-	CLOCK: [2013-11-14 Thu 19:51]--[2013-11-14 Thu 20:26] =>  0:35
-	:END:
-     :PROPERTIES:
-     :ID:       13735f45-9ce8-4099-aee5-7525d951a79f
-     :END:
-CSF plus tangent part. Vertices have 120 degree angles
-******* NEXT Write explicitly compatibility conditions for vertices
-	 :LOGBOOK:
-	 CLOCK: [2013-11-14 Thu 20:26]--[2013-11-14 Thu 20:42] =>  0:16
-	 CLOCK: [2013-11-14 Thu 19:43]--[2013-11-14 Thu 19:46] =>  0:03
-	 CLOCK: [2013-11-08 Fri 14:55]--[2013-11-08 Fri 16:15] =>  1:20
-	 :END:
-	 :PROPERTIES:
-	 :ID:       77b07b0a-6ac6-4578-a449-cffcdc69f61d
-	 :END:
-At the vertex, we have a condition on the tangents and normals so that the endpoints of the arcs remain coincident.
-
-******* NEXT Find details for free boundary problems
-	:LOGBOOK:
-	CLOCK: [2013-11-09 Sat 15:48]--[2013-11-09 Sat 16:02] =>  0:14
-	:END:
-	:PROPERTIES:
-	:ID:       01a93c31-83fd-465f-b142-60f4a128c30d
-	:END:
-******* NEXT Investigate existence/uniqueness
-	:LOGBOOK:
-	CLOCK: [2013-11-15 Fri 12:00]--[2013-11-15 Fri 14:27] =>  2:27
-	:END:
-	:PROPERTIES:
-	:ID:       f598b6ee-c1e3-4b1b-85c2-8fa5c349441a
-	:END:
-****** NEXT Look up Crystaline curvature flow
-      :PROPERTIES:
-      :ID:       57771c52-97b4-4fbe-a318-287ca8ab809d
-      :END:
-This is some sort of curvature flow for polygons - exactly what I want to look at!
-****** DONE Find references
-       :LOGBOOK:
-       - State "DONE"       from "NEXT"       [2013-11-09 Sat 14:12]
-       CLOCK: [2013-11-09 Sat 13:11]--[2013-11-09 Sat 14:12] =>  0:59
-       :END:
-***** Notes
-***** Refs
-****** On three-phase boundary motion and the singular limit of a vector-valued {G}inzburg-{L}andau equation
-:PROPERTIES:
-:Custom_ID: MR1240580
-:END:
-[[papers:MR1240580][MR1240580-paper]]
-[[bib:MR1240580][MR1240580-bib]]
 **** TODO Ancient solutions on spheres		       :FLOWS:SPHERE:ANCIENT:
 [[file:~/working/academic/research/ancient_flows_sphere]]
 ***** Tasks
@@ -3128,11 +3006,16 @@ CONSTANT ANISOTROPIC MEAN CURVATURE
 - Is this even necessary? That is, why not just use $\sphere^n$ as a fixed space from which to parametrise? It's not really necessary to have $\sphere^n$ embedded in the space form.
 
 ****** TODO Support function
+       SCHEDULED: <2014-10-21 Tue>
 ******* NEXT Compute time variation
 	:LOGBOOK:
 	CLOCK: [2014-03-28 Fri 09:13]--[2014-03-28 Fri 12:20] =>  3:07
 	:END:
 ******* NEXT Write variations all in terms of support function
+****** TODO Harnack Inequality
+       SCHEDULED: <2014-10-21 Tue>
+******* NEXT Derive in $\RR^n$ using support function defined on $M$
+******* NEXT Derive in space forms using support function defined on $M$
 ***** Refs
 [[file:~/research_resources/draftpapers/hyperbolic_130113.pdf]]
 - Papers on horospheres
@@ -3151,6 +3034,129 @@ CONSTANT ANISOTROPIC MEAN CURVATURE
 If $\exp: T_x N \to N$ is a diffeomorphism (in particular for Cartan-Hadamaard) manifolds, and we have a flow $M_t \subset N^{n+1}$, we can think of this as a flow $M_t \subset \RR^{n+1}$ with metric $\exp^{\star} g$. If the speed of the flow is geometric, then this pulls back to $\RR^{n+1}$. Now, I can define a rescaled flow so the volume remains constant. Then we can ensure by containment, that a point in the region enclosed by the $M_0$ remains in the region enclosed by the rescaled flow $\tilde{M}_t$ for all time and can do the polar dual!
 ****** Ambient Minkowski space
 We would do it all in Minkowski space. I think the vector field gives the distance in Minkowski space to the totally geodesic hypersurface. We can then set up all our dual theory, radial functions and so forth in that ambient space, possibly with an intrinsic interpretation. In this setting we could maybe also do $\sphere^n$? Another interesting point is that we can do a normalised flow, by simultaneously expanding $M_t$ and $\HH^{n+1}$ by rescaling the ambient Minkowski space.
+**** TODO CSF networks 					       :CSF_NETWORKS:
+   :PROPERTIES:
+   :ID:       1bc93b81-8423-4598-8297-f0b90aa39aa7
+   :END:
+[[file:~/working/academic/research/csf_networks]]
+***** Tasks
+****** DONE Set up org file
+       :LOGBOOK:
+       - State "DONE"       from "NEXT"       [2013-11-14 Thu 19:51]
+       CLOCK: [2013-11-14 Thu 19:46]--[2013-11-14 Thu 19:51] =>  0:05
+       :END:
+****** TODO Variations
+       :PROPERTIES:
+       :ID:       94a94db4-2a73-4d9f-a85d-5b0c316a1368
+       :END:
+******** DONE Calculate variation of $d$
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2013-11-09 Sat 15:12]
+	 CLOCK: [2013-11-09 Sat 14:12]--[2013-11-09 Sat 14:40] =>  0:28
+	 :END:
+	 :PROPERTIES:
+	 :ID:       a687895f-101a-4cbb-8f21-d2071d209335
+	 :END:
+- What happens at node points?
+******** DONE Calculate variation of $l$
+	 :LOGBOOK:
+	 - State "DONE"       from "DONE"       [2013-11-09 Sat 15:13]
+	 CLOCK: [2013-11-09 Sat 14:40]--[2013-11-09 Sat 15:13] =>  0:33
+	 :END:
+
+******** TODO Write up variations
+	 SCHEDULED: <2014-10-18 Sat>
+	 :PROPERTIES:
+	 :ID:       35149012-93ea-4911-9903-8f3a2e335615
+	 :END:
+****** TODO Viscosity equation
+       :PROPERTIES:
+       :ID:       2afa6d5c-f40f-4a51-bb74-fa05b6369da8
+       :END:
+******** TODO Combine variations into viscosity equation
+	 :PROPERTIES:
+	 :ID:       26f14bf2-e885-4731-bfbe-95553799cfde
+	 :END:
+****** TODO Barrier equation
+       :PROPERTIES:
+       :ID:       b41651db-2b4a-4301-9557-8abffccf5cce
+       :END:
+******* NEXT Use variations to get barrier equation
+	:PROPERTIES:
+	:ID:       d9233946-64db-4768-b514-670c3485e4c1
+	:END:
+******* TODO Investigate concavity properties
+	:PROPERTIES:
+	:ID:       63fad4bd-447f-4786-bcf5-0e3a536e00ac
+	:END:
+****** TODO asymptotics
+       :PROPERTIES:
+       :ID:       ff689c50-1db9-4dac-a91b-b9ad9b779b7a
+       :END:
+******* NEXT Near a vertex we need a near-isometry
+	:PROPERTIES:
+	:ID:       b3b58176-d830-4020-8328-0deec292b9e0
+	:END:
+******* NEXT Does inf occur at a vertex?
+	:PROPERTIES:
+	:ID:       1f9fc531-0063-4ada-9b59-f60d319e36e6
+	:END:
+****** TODO CSF networks defn and existence/uniqueness
+       :PROPERTIES:
+       :ID:       f1f13b51-1bfd-4c47-a349-2b23cc3f212b
+       :END:
+******* NEXT Write CSF Network Defn
+	:LOGBOOK:
+	CLOCK: [2013-11-14 Thu 19:51]--[2013-11-14 Thu 20:26] =>  0:35
+	:END:
+     :PROPERTIES:
+     :ID:       13735f45-9ce8-4099-aee5-7525d951a79f
+     :END:
+CSF plus tangent part. Vertices have 120 degree angles
+******* NEXT Write explicitly compatibility conditions for vertices
+	 :LOGBOOK:
+	 CLOCK: [2013-11-14 Thu 20:26]--[2013-11-14 Thu 20:42] =>  0:16
+	 CLOCK: [2013-11-14 Thu 19:43]--[2013-11-14 Thu 19:46] =>  0:03
+	 CLOCK: [2013-11-08 Fri 14:55]--[2013-11-08 Fri 16:15] =>  1:20
+	 :END:
+	 :PROPERTIES:
+	 :ID:       77b07b0a-6ac6-4578-a449-cffcdc69f61d
+	 :END:
+At the vertex, we have a condition on the tangents and normals so that the endpoints of the arcs remain coincident.
+
+******* NEXT Find details for free boundary problems
+	:LOGBOOK:
+	CLOCK: [2013-11-09 Sat 15:48]--[2013-11-09 Sat 16:02] =>  0:14
+	:END:
+	:PROPERTIES:
+	:ID:       01a93c31-83fd-465f-b142-60f4a128c30d
+	:END:
+******* NEXT Investigate existence/uniqueness
+	:LOGBOOK:
+	CLOCK: [2013-11-15 Fri 12:00]--[2013-11-15 Fri 14:27] =>  2:27
+	:END:
+	:PROPERTIES:
+	:ID:       f598b6ee-c1e3-4b1b-85c2-8fa5c349441a
+	:END:
+****** NEXT Look up Crystaline curvature flow
+      :PROPERTIES:
+      :ID:       57771c52-97b4-4fbe-a318-287ca8ab809d
+      :END:
+This is some sort of curvature flow for polygons - exactly what I want to look at!
+****** DONE Find references
+       :LOGBOOK:
+       - State "DONE"       from "NEXT"       [2013-11-09 Sat 14:12]
+       CLOCK: [2013-11-09 Sat 13:11]--[2013-11-09 Sat 14:12] =>  0:59
+       :END:
+***** Notes
+***** Refs
+****** On three-phase boundary motion and the singular limit of a vector-valued {G}inzburg-{L}andau equation
+:PROPERTIES:
+:Custom_ID: MR1240580
+:END:
+[[papers:MR1240580][MR1240580-paper]]
+[[bib:MR1240580][MR1240580-bib]]
+
 *** Complete
 ** Books
 *** Working							      :FOCUS:
@@ -5549,6 +5555,12 @@ http://careers.stackoverflow.com/
      :LOGBOOK:
      - State "DONE"       from "NEXT"       [2014-10-11 Sat 15:28]
      :END:
+**** NEXT Write cover letter for jobs
+     DEADLINE: <2014-10-26 Sun>
+upload to mathjobs, academicjobsonline
+**** NEXT Find more jobs
+- http://www.all-acad.com/Jobs/Mathematics_Statistics/All_Countries/203_Pure_Maths_(Logics_Algebra_Number_Theory_Analysis_Geometry_Topology)_incl_Math_Education/Experienced/Acad
+- mathjobs and academicjobsonline
 *** TODO Applications
 See http://getpocket.com/a/queue/list/jobs/ for details.
 **** Misc

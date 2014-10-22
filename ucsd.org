@@ -12606,6 +12606,9 @@ Lectures in calendar and tasks like planning lectures.
 
 ******* TODO Exams
 ******** TODO Midterm 1
+	 :LOGBOOK:
+	 CLOCK: [2014-10-21 Tue 21:11]
+	 :END:
 ********* DONE Write Midterm 1
 	  SCHEDULED: <2014-10-20 Mon>
 	  :LOGBOOK:
@@ -12623,8 +12626,12 @@ Lectures in calendar and tasks like planning lectures.
 	  :PROPERTIES:
 	  :Effort:   0:10
 	  :END:
-********* NEXT Update exam based on TA comments
+********* DONE Update exam based on TA comments
 	  DEADLINE: <2014-10-24 Fri>
+	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2014-10-21 Tue 21:11]
+	  CLOCK: [2014-10-21 Tue 20:58]--[2014-10-21 Tue 21:11] =>  0:13
+	  :END:
 	  :PROPERTIES:
 	  :Effort:   0:15
 	  :END:
