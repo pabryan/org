@@ -12025,6 +12025,9 @@ Lectures in calendar and tasks like planning lectures.
 	  :Effort:   1:00
 	  :END:
 ********* NEXT Lecture 3.2
+	  :LOGBOOK:
+	  CLOCK: [2014-10-22 Wed 11:44]
+	  :END:
 	  <2014-10-22 Wed 11:55-12:55>
 	  :PROPERTIES:
 	  :Effort:   1:00
@@ -13138,6 +13141,9 @@ Lectures in calendar and tasks like planning lectures.
 ******* Tasks
 ******** NEXT Prepare Lei Ni Analysis lecture
 	 DEADLINE: <2014-10-26 Sun>
+	 :LOGBOOK:
+	 CLOCK: [2014-10-22 Wed 11:31]--[2014-10-22 Wed 11:44] =>  0:13
+	 :END:
 	 :PROPERTIES:
 	 :Effort:   1:00
 	 :END:
