@@ -12607,7 +12607,7 @@ Lectures in calendar and tasks like planning lectures.
 ******* TODO Exams
 ******** TODO Midterm 1
 	 :LOGBOOK:
-	 CLOCK: [2014-10-21 Tue 21:11]
+	 CLOCK: [2014-10-21 Tue 21:11]--[2014-10-21 Tue 21:12] =>  0:01
 	 :END:
 ********* DONE Write Midterm 1
 	  SCHEDULED: <2014-10-20 Mon>
