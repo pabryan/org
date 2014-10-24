@@ -2910,6 +2910,13 @@ CONSTANT ANISOTROPIC MEAN CURVATURE
        :PROPERTIES:
        :ID:       e9c93436-80fb-4eb5-b229-bd15e519d71d
        :END:
+******* NEXT Lie group structure
+	:LOGBOOK:
+	CLOCK: [2014-10-24 Fri 09:50]--[2014-10-24 Fri 10:04] =>  0:14
+	:END:
+- $\HH^{n+1}$ should be something like matrices with $(a a_1 \dotsc a_n)$ in the top row and $\id_n$ in the bottom right corner.  That's a Lie group.
+- Can I define a surjection from $SO^+(1,n)$ to the above group with kernel $SO(n)$? Maybe I can just act on the above group by $SO^+(1,n)$ and show the kernel is $SO(n)$ which would do the trick. I need for $SO(n)$ to fix $(1, 0, \dotsc, 0)$ which suggests that $SO(n)$ should just act on the $(a_1, \dotsc, a_n)$ part. Looks promising...
+- Actually, I shouldn't even need that. All I need to do is show that $(1, 0, \dotsc, 0)$ is the identity, i.e. the pole is the identity which is obvious!
 ******* NEXT Get formula for coords, metric
 	:LOGBOOK:
 	CLOCK: [2013-09-14 Sat 10:25]--[2013-09-14 Sat 11:15] =>  0:50
@@ -2931,6 +2938,11 @@ CONSTANT ANISOTROPIC MEAN CURVATURE
 	:PROPERTIES:
 	:ID:       1cbaa6c1-e15e-427b-954a-624990666029
 	:END:
+****** TODO Position vector and translation
+******* NEXT Define position vector
+	:LOGBOOK:
+	CLOCK: [2014-10-24 Fri 09:35]--[2014-10-24 Fri 09:50] =>  0:15
+	:END:
 ****** TODO Dual Body
        :LOGBOOK:
        :END:
@@ -2945,7 +2957,10 @@ CONSTANT ANISOTROPIC MEAN CURVATURE
 	:PROPERTIES:
 	:ID:       ff17b0e4-2f7e-4dc2-bf37-3e4c0878d360
 	:END:
-
+******* NEXT Dualising map
+	:LOGBOOK:
+	CLOCK: [2014-10-24 Fri 09:15]--[2014-10-24 Fri 09:35] =>  0:20
+	:END:
 ******* NEXT Define the radial function
 	:PROPERTIES:
 	:ID:       3c42e645-aa5e-4e45-8330-642eff10602c

@@ -11882,6 +11882,7 @@ Lectures in calendar and tasks like planning lectures.
 ******** NEXT Piazza week 3
 	  DEADLINE: <2014-10-26 Sun>
 	  :LOGBOOK:
+	  CLOCK: [2014-10-24 Fri 08:15]--[2014-10-24 Fri 08:18] =>  0:03
 	  CLOCK: [2014-10-22 Wed 10:02]--[2014-10-22 Wed 10:08] =>  0:06
 	  :END:
 	 
@@ -12658,8 +12659,12 @@ Lectures in calendar and tasks like planning lectures.
 	  :PROPERTIES:
 	  :Effort:   0:15
 	  :END:
-********* NEXT Submit midterm to printing/frdesk
+********* DONE Submit midterm to printing/frdesk
 	  DEADLINE: <2014-10-27 Mon>
+	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2014-10-24 Fri 08:13]
+	  CLOCK: [2014-10-24 Fri 08:03]--[2014-10-24 Fri 08:13] =>  0:10
+	  :END:
 	  :PROPERTIES:
 	  :Effort:   0:10
 	  :END:
