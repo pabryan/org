@@ -12037,7 +12037,7 @@ Lectures in calendar and tasks like planning lectures.
 
 ********* NEXT Lecture 3.3
 	  :LOGBOOK:
-	  CLOCK: [2014-10-24 Fri 11:46]
+	  CLOCK: [2014-10-24 Fri 11:46]--[2014-10-24 Fri 12:55] =>  1:09
 	  :END:
 	  <2014-10-24 Fri 11:55-12:55>
 	  :PROPERTIES:
@@ -12933,6 +12933,9 @@ Lectures in calendar and tasks like planning lectures.
 	  :END:
 
 ********* NEXT Lecture 3.3
+	  :LOGBOOK:
+	  CLOCK: [2014-10-24 Fri 12:55]--[2014-10-24 Fri 14:03] =>  1:08
+	  :END:
 	  <2014-10-24 Fri 12:55-13:55>
 	  :PROPERTIES:
 	  :Effort:   1:00
