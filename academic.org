@@ -3039,7 +3039,7 @@ CONSTANT ANISOTROPIC MEAN CURVATURE
 	:END:
 ******* NEXT Parametrise by support function
 	:LOGBOOK:
-	CLOCK: [2014-10-24 Fri 14:30]
+	CLOCK: [2014-10-24 Fri 14:30]--[2014-10-24 Fri 15:37] =>  1:07
 	:END:
 ****** TODO Harnack Inequality
        SCHEDULED: <2014-10-21 Tue>
