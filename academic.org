@@ -3037,6 +3037,10 @@ CONSTANT ANISOTROPIC MEAN CURVATURE
 	- State "DONE"       from "NEXT"       [2014-10-22 Wed 10:00]
 	CLOCK: [2014-10-22 Wed 09:03]--[2014-10-22 Wed 10:00] =>  0:57
 	:END:
+******* NEXT Parametrise by support function
+	:LOGBOOK:
+	CLOCK: [2014-10-24 Fri 14:30]
+	:END:
 ****** TODO Harnack Inequality
        SCHEDULED: <2014-10-21 Tue>
 ******* NEXT Derive in $\RR^n$ using support function defined on $M$
