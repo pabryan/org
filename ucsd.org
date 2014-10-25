@@ -11879,9 +11879,11 @@ Lectures in calendar and tasks like planning lectures.
 	 :Effort:   1:00
 	 :END:
 
-******** NEXT Piazza week 3
+******** DONE Piazza week 3
 	  DEADLINE: <2014-10-26 Sun>
 	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2014-10-25 Sat 13:57]
+	  CLOCK: [2014-10-25 Sat 13:37]--[2014-10-25 Sat 13:57] =>  0:20
 	  CLOCK: [2014-10-24 Fri 08:15]--[2014-10-24 Fri 08:18] =>  0:03
 	  CLOCK: [2014-10-22 Wed 10:02]--[2014-10-22 Wed 10:08] =>  0:06
 	  :END:
@@ -12809,8 +12811,12 @@ Lectures in calendar and tasks like planning lectures.
 	  :PROPERTIES:
 	  :Effort:   0:10
 	  :END:
-********* NEXT Add new students
+********* DONE Add new students
 	  DEADLINE: <2014-10-31 Fri>
+	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2014-10-25 Sat 15:51]
+	  CLOCK: [2014-10-25 Sat 15:49]--[2014-10-25 Sat 15:51] =>  0:02
+	  :END:
 	  :PROPERTIES:
 	  :Effort:   0:10
 	  :END:
@@ -13158,9 +13164,11 @@ Lectures in calendar and tasks like planning lectures.
 ******** NEXT Analysis lecture
 <2014-10-27 Mon 14:55-15:05>
 ******* Tasks
-******** NEXT Prepare Lei Ni Analysis lecture
+******** DONE Prepare Lei Ni Analysis lecture
 	 DEADLINE: <2014-10-26 Sun>
 	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2014-10-25 Sat 15:33]
+	 CLOCK: [2014-10-25 Sat 13:57]--[2014-10-25 Sat 15:33] =>  1:36
 	 CLOCK: [2014-10-22 Wed 11:31]--[2014-10-22 Wed 11:44] =>  0:13
 	 :END:
 	 :PROPERTIES:
