@@ -1124,6 +1124,7 @@ That is, Ben and Janelle have proven the backward convergence, and to finish we 
        :END:
 ****** TODO Write paper
        :LOGBOOK:
+       CLOCK: [2014-10-25 Sat 13:35]
        CLOCK: [2014-08-23 Sat 13:14]--[2014-08-23 Sat 13:20] =>  0:06
        CLOCK: [2014-07-19 Sat 14:31]--[2014-07-19 Sat 14:32] =>  0:01
        :END:
@@ -1308,17 +1309,19 @@ Given $X$ in the equator, let $\rho_{\alpha}(X)$ be the infimum of the lengths o
 	CLOCK: [2014-08-29 Fri 13:54]--[2014-08-29 Fri 14:23] =>  0:29
 	:END:
 - short title: Convex Ancient CSF on $\sphere^2$.
-******* NEXT Tidy up
-	 SCHEDULED: <2014-10-14 Tue>
+******* DONE Tidy up
+	SCHEDULED: <2014-10-14 Tue>
 	:LOGBOOK:
+	- State "DONE"       from "NEXT"       [2014-10-25 Sat 13:35]
+	CLOCK: [2014-10-25 Sat 13:25]--[2014-10-25 Sat 13:35] =>  0:10
 	CLOCK: [2014-09-17 Wed 13:10]--[2014-09-17 Wed 14:46] =>  1:36
 	:END:
 - Janelle notes:
-  - [ ] In Lemma 5.2
+  - [X] In Lemma 5.2
         I think there are some $R_V(\gamma_t)^+$ that should be $R_V(\gamma_t^+)$? Shouldn't they be the + part of the reflection, so the former is correct. If the latter appears anywhere we should change it.
-  - [ ] For the last bit in the second paragraph was it supposed to be for all forward times like (-\infty,0) not t\in (-\infty, t_1)?
+  - [X] For the last bit in the second paragraph was it supposed to be for all forward times like (-\infty,0) not t\in (-\infty, t_1)?
 	Maybe that could be rephrased. The $t_1$ is the time up to which the curves meet the reflected equator transversely. We can't ensure that after that time, they don't cross the reflected equator. We know that far enough back in time, both curves lie in $\sphere^2_V$ and the max principle ensures they lie in there at least up to $t_1$.
-
+  - [X] Type II should be $\curvecurv/\abs{t} \to \infty$.
 ******* WAITING Update based on referee comments
 ****** DONE Maths
        :LOGBOOK:
