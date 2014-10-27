@@ -13189,6 +13189,9 @@ Lectures in calendar and tasks like planning lectures.
 ****** TODO Lei Ni Analysis
 ******* Schedule
 ******** NEXT Analysis lecture
+	 :LOGBOOK:
+	 CLOCK: [2014-10-27 Mon 14:51]
+	 :END:
 <2014-10-27 Mon 14:55-15:05>
 ******* Tasks
 ******** DONE Prepare Lei Ni Analysis lecture
