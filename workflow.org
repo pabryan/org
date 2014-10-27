@@ -51,7 +51,7 @@ Publish to a different directory so I don't pollute my hg directory.
 [2014-03-18 Tue 17:41]
 I want to export for journals, including data such as email, classification etc.
 I think I need some sort of filter for this.
-***** TODO Create setup file for org-mode latex docs
+***** NEXT Create setup file for org-mode latex docs
   SCHEDULED: <2014-10-27 Mon>
 [2014-04-12 Sat 19:26]
 - Put common things besides bib stuff into a setup file
@@ -3944,8 +3944,10 @@ When I set up scoring the day:
 - [ ] Collate data such as sleep, weight, exercise, diet etc.
 
 ** NEXT Daily Plan [0/7]
-   SCHEDULED: <2014-10-26 Sun .+1d/2d>
+   SCHEDULED: <2014-10-28 Tue .+1d/2d>
    :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2014-10-27 Mon 08:47]
+   CLOCK: [2014-10-27 Mon 08:33]--[2014-10-27 Mon 08:47] =>  0:14
    - State "DONE"       from "NEXT"       [2014-10-25 Sat 13:16]
    CLOCK: [2014-10-25 Sat 13:14]--[2014-10-25 Sat 13:16] =>  0:02
    - State "DONE"       from "NEXT"       [2014-10-24 Fri 11:09]
@@ -4795,7 +4797,7 @@ When I set up scoring the day:
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
    :ID:       ef051ee0-1113-4604-b355-450a5a47848b
-   :LAST_REPEAT: [2014-10-25 Sat 13:16]
+   :LAST_REPEAT: [2014-10-27 Mon 08:47]
    :END:
 
 - [ ] Check agenda/focus
@@ -4807,9 +4809,11 @@ When I set up scoring the day:
 - [ ] Do short tasks
 - [ ] Record morning health stats
 
-** NEXT Weekly Review [16/20]
+** NEXT Weekly Review [17/20]
    SCHEDULED: <2014-07-07 Mon +1w>
    :LOGBOOK:
+   CLOCK: [2014-10-27 Mon 08:58]--[2014-10-27 Mon 09:16] =>  0:18
+   CLOCK: [2014-10-27 Mon 08:47]--[2014-10-27 Mon 08:58] =>  0:11
    CLOCK: [2014-10-16 Thu 18:18]--[2014-10-16 Thu 18:48] =>  0:30
    CLOCK: [2014-10-16 Thu 18:05]--[2014-10-16 Thu 18:18] =>  0:13
    - State "DONE"       from "NEXT"       [2014-10-11 Sat 19:44]
@@ -4966,8 +4970,8 @@ When I set up scoring the day:
 - [X] Look at entire agenda for today  =F12 SPC=
 - [X] Check un-committed work
 - [X] Refile tasks
-- [-] Weekly clean up
-  - [ ] Clean up Downloads
+- [X] Weekly clean up
+  - [X] Clean up Downloads
   - [X] Clean up tmp
   - [X] Clean up tablet
   - [X] Clean up phone

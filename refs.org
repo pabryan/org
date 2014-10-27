@@ -1435,6 +1435,12 @@ Here I need to do some more work since $u \mapsto g(\grad u, \grad u)$ is not a 
 :END:
 [[papers:2014arXiv1408.5523B][2014arXiv1408.5523B-paper]]
 [[bib:2014arXiv1408.5523B][2014arXiv1408.5523B-bib]]
+*** Rigidity results, inverse curvature flows and Alexandrov-Fenchel type inequalities in the sphere
+:PROPERTIES:
+:Custom_ID: 2013arXiv1307.5764M
+:END:
+[[papers:2013arXiv1307.5764M][2013arXiv1307.5764M-paper]]
+[[bib:2013arXiv1307.5764M][2013arXiv1307.5764M-bib]]
 * Misc
   :PROPERTIES:
   :COLUMNS: %75ITEM %TAGS

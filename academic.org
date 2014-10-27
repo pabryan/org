@@ -1322,6 +1322,8 @@ Given $X$ in the equator, let $\rho_{\alpha}(X)$ be the infimum of the lengths o
 	Maybe that could be rephrased. The $t_1$ is the time up to which the curves meet the reflected equator transversely. We can't ensure that after that time, they don't cross the reflected equator. We know that far enough back in time, both curves lie in $\sphere^2_V$ and the max principle ensures they lie in there at least up to $t_1$.
   - [X] Type II should be $\curvecurv/\abs{t} \to \infty$.
 ******* WAITING Update based on referee comments
+******* NEXT Add isoperimetric inequality method
+From "Alexios Polanski". see also 2013arXiv1307.5764M
 ****** DONE Maths
        :LOGBOOK:
        - State "DONE"       from "TODO"       [2014-05-05 Mon 09:43]
@@ -2151,6 +2153,12 @@ Not sure what this is about either!
 	 CLOCK: [2014-10-16 Thu 09:30]--[2014-10-16 Thu 12:00] =>  2:30
 	 :END:
 ******** NEXT Determine properties of vector field
+******** NEXT Compute laplacian
+	 :LOGBOOK:
+	 CLOCK: [2014-10-25 Sat 11:15]--[2014-10-25 Sat 12:40] =>  1:25
+	 CLOCK: [2014-10-23 Thu 12:55]--[2014-10-23 Thu 13:40] =>  0:45
+	 CLOCK: [2014-10-23 Thu 11:00]--[2014-10-23 Thu 12:25] =>  1:25
+	 :END:
 ******* TODO Harnack inequality
 ****** TODO Write paper
 ******* TODO Outline
@@ -3645,7 +3653,7 @@ In particular I want the combinatorial algebra
        	:END:
 ** Tasks
 *** TODO Organise research papers    
-    SCHEDULED: <2014-10-18 Sat>
+    SCHEDULED: <2014-11-03 Mon>
     :PROPERTIES:
     :ID:       27dd1954-9abe-4a87-9bcd-36027c643fdb
     :END:
@@ -3752,7 +3760,6 @@ I could also have author, title, date etc. in the properties drawer! This is red
 No! Maybe I can use reftex and get it to take me to the entry in refs.org? I can certainly due this manually, using reftex to take me to the bib file which gives the ID which I can search for in the org file. Then I don't need to maintain duplicate info in the org and bib files and have all the power of reftex available.
 I'd like to be able to use org-mode views to show papers/books by a given author or by subject. Maybe I can have some sort of hook that uses reftex to do the search and return a list of ID's which is then the filter for org-mode views.
 **** TODO Improve referencing
-  SCHEDULED: <2014-10-18 Sat>
   :LOGBOOK:
   CLOCK: [2013-11-16 Sat 10:34]--[2013-11-16 Sat 10:38] =>  0:04
   :END:
@@ -3769,7 +3776,6 @@ I'd like to be able to use org-mode views to show papers/books by a given author
 - Put books, lecture notes, web resources etc. into bibtex file
 
 **** TODO Work out paper getting procedure
-  SCHEDULED: <2014-10-18 Sat>
   :LOGBOOK:
   CLOCK: [2014-02-11 Tue 12:54]--[2014-02-11 Tue 12:55] =>  0:01
   :END:
@@ -3777,7 +3783,6 @@ I'd like to be able to use org-mode views to show papers/books by a given author
 
 I want to grab a paper from the internet, possibly the bib entry as well and then store it somewhere to later enter into my org system. It should be quick and easy like capture tasks and then ideally I'd have some automated way of adding it to org.
 **** TODO Set up pdf metadata
-  SCHEDULED: <2014-10-18 Sat>
 [2014-02-24 Mon 11:21]
 - I want to add meta data to pdf's based on bibtex entry
 http://askubuntu.com/questions/27381/how-to-edit-pdf-metadata-from-command-line
@@ -3859,10 +3864,9 @@ sometimes the bib ref I have has MR<num> but the paper is saved as MR0<num> whic
 - change vars $(x, t) \to (y(x,t), s(t))$ so that ancient solutions are similarity solns
 - Isoperimetric comparison with respect to Huisken's density (weighted Levy/Gromov perhaps?). How does this relate also to minimal surfaces?
 
-*** Paper preparation
-
+*** TODO Paper preparation
+    SCHEDULED: <2014-11-03 Mon>
 **** TODO Incorporate sage code into document creation
-     SCHEDULED: <2014-10-27 Mon>
   :LOGBOOK:
   CLOCK: [2014-03-01 Sat 13:28]--[2014-03-01 Sat 13:29] =>  0:01
   :END:
@@ -3871,7 +3875,6 @@ sometimes the bib ref I have has MR<num> but the paper is saved as MR0<num> whic
 Either by using literal blocks in org-mode or using sagetex I can produce images, animations and so forth in documents
 
 **** TODO Set up generic publishing
-     SCHEDULED: <2014-10-27 Mon>
   :LOGBOOK:
   CLOCK: [2014-02-20 Thu 09:08]--[2014-02-20 Thu 09:09] =>  0:01
   :END:
@@ -3884,9 +3887,9 @@ Either by using literal blocks in org-mode or using sagetex I can produce images
     CLOCK: [2012-12-18 Tue 09:45]--[2012-12-18 Tue 10:27] =>  0:42
     :END:
 *** TODO Organise Research Projects
-    SCHEDULED: <2014-10-18 Sat>
+    SCHEDULED: <2014-11-03 Mon>
 **** NEXT Set up/organise current research projects
-     SCHEDULED: <2014-10-18 Sat>
+
   :LOGBOOK:
   CLOCK: [2014-03-21 Fri 13:10]--[2014-03-21 Fri 13:13] =>  0:03
   :END:
@@ -3910,14 +3913,12 @@ Either by using literal blocks in org-mode or using sagetex I can produce images
 **** NEXT Fill in project notes
 - I'd like to write the notes in my org entry and export to a wiki or something like that (open notebook wiki)
 **** NEXT Write research project summaries/proposals
-     SCHEDULED: <2014-10-18 Sat>
   :LOGBOOK:
   CLOCK: [2014-03-21 Fri 13:09]--[2014-03-21 Fri 13:10] =>  0:01
   :END:
 [2014-03-21 Fri 13:09]
 
 I want to have descriptions of my various research projects with clear aims, a summary of the project and references. I should then also be able to construct tasks for the projects.
-
 
 *** CANCELLED Schedule academic work so I actually do it!
     SCHEDULED: <2013-03-18 Mon>
@@ -3933,7 +3934,7 @@ I want to have descriptions of my various research projects with clear aims, a s
 Schedule time for research, for teaching and for non-research academic work (e.g. refereeing). That cover's all the sort of work I do.
 
 *** TODO Make create research project capture
-  SCHEDULED: <2014-10-18 Sat>
+    SCHEDULED: <2014-11-03 Mon>
     :PROPERTIES:
     :ID:       89aab08c-03b4-4561-b868-45bc0088ba34
     :END:
@@ -4388,7 +4389,7 @@ Is there a consistent (say providing ZFC is consistent) set theory without the e
 ** Open Notebook
 *** Tasks
 **** NEXT Research starting an open notebook
-  SCHEDULED: <2014-10-27 Mon>
+  SCHEDULED: <2014-11-03 Mon>
   :LOGBOOK:
   CLOCK: [2013-08-06 Tue 20:54]--[2013-08-06 Tue 20:55] =>  0:01
   :END:
@@ -4522,7 +4523,7 @@ I want to study Gauss maps $(E,X,\pi) \to (\RR^k\times X, X, \pi)$, in particula
 **** TODO Paper/Book reading
 - I should get in the habit of writing my own description of the work and the main ideas as part of the learning process. I need a way to set this up in some sort of project exported to a wiki say?
 ***** NEXT Develop way to write my own notes (and publish on my website) on the subject
-      SCHEDULED: <2014-10-27 Mon>
+      SCHEDULED: <2014-11-03 Mon>
 ** Blog
 *** Ideas
 **** The use of coordinates in DG.
