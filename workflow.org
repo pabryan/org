@@ -43,7 +43,7 @@ Make a project that includes
 [2013-03-30 Sat 21:39]
 Publish to a different directory so I don't pollute my hg directory.
 ***** NEXT Create publishing function for journal submission
-  SCHEDULED: <2014-10-27 Mon>
+  SCHEDULED: <2014-12-01 Mon>
   :LOGBOOK:
   CLOCK: [2014-07-14 Mon 09:16]--[2014-07-14 Mon 09:19] =>  0:03
   CLOCK: [2014-03-18 Tue 17:41]--[2014-03-18 Tue 17:42] =>  0:01
@@ -52,7 +52,7 @@ Publish to a different directory so I don't pollute my hg directory.
 I want to export for journals, including data such as email, classification etc.
 I think I need some sort of filter for this.
 ***** NEXT Create setup file for org-mode latex docs
-  SCHEDULED: <2014-10-27 Mon>
+  SCHEDULED: <2014-12-01 Mon>
 [2014-04-12 Sat 19:26]
 - Put common things besides bib stuff into a setup file
 - All the basic publish options should also be in a master file
@@ -1847,6 +1847,7 @@ http://gmane.org
   :END:
 ** Organisation
   :LOGBOOK:
+  CLOCK: [2014-10-27 Mon 15:58]
   CLOCK: [2014-10-27 Mon 14:05]--[2014-10-27 Mon 14:07] =>  0:02
   CLOCK: [2014-10-27 Mon 10:50]--[2014-10-27 Mon 10:51] =>  0:01
   CLOCK: [2014-10-25 Sat 13:35]--[2014-10-25 Sat 13:37] =>  0:02
