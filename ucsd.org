@@ -12067,7 +12067,7 @@ Lectures in calendar and tasks like planning lectures.
 ******** TODO Week 4
 ********* NEXT Lecture 4.1
 	  :LOGBOOK:
-	  CLOCK: [2014-10-27 Mon 11:49]
+	  CLOCK: [2014-10-27 Mon 11:49]--[2014-10-27 Mon 12:55] =>  1:06
 	  :END:
 	  <2014-10-27 Mon 11:55-12:55>
 	  :PROPERTIES:
@@ -12971,6 +12971,9 @@ Lectures in calendar and tasks like planning lectures.
 	  :END:
 ******** TODO Week 4
 ********* NEXT Lecture 4.1
+	  :LOGBOOK:
+	  CLOCK: [2014-10-27 Mon 12:55]--[2014-10-27 Mon 14:05] =>  1:10
+	  :END:
 	  <2014-10-27 Mon 12:55-13:55>
 	  :PROPERTIES:
 	  :Effort:   1:00
