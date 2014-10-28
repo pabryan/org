@@ -11627,9 +11627,6 @@ Lectures in calendar and tasks like planning lectures.
 	   :END:
 
 ********* TODO Week 5
-	  :LOGBOOK:
-	  CLOCK: [2014-10-27 Mon 11:48]--[2014-10-27 Mon 11:49] =>  0:01
-	  :END:
 ********** DONE Prepare outline
 	   SCHEDULED: <2014-10-27 Mon>
 	   :LOGBOOK:
@@ -12068,8 +12065,9 @@ Lectures in calendar and tasks like planning lectures.
 	  :Effort:   1:00
 	  :END:
 ******** TODO Week 4
-********* NEXT Lecture 4.1
+********* DONE Lecture 4.1
 	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2014-10-27 Mon 17:56]
 	  CLOCK: [2014-10-27 Mon 11:49]--[2014-10-27 Mon 12:55] =>  1:06
 	  :END:
 	  <2014-10-27 Mon 11:55-12:55>
@@ -12236,9 +12234,10 @@ Lectures in calendar and tasks like planning lectures.
 	 :Effort:   2:00
 	 :END:
 
-******** NEXT O/H Week 4
+******** DONE O/H Week 4
 	 :LOGBOOK:
-	 CLOCK: [2014-10-27 Mon 16:44]
+	 - State "DONE"       from "NEXT"       [2014-10-27 Mon 17:56]
+	 CLOCK: [2014-10-27 Mon 16:44]--[2014-10-27 Mon 17:55] =>  1:11
 	 :END:
 	 <2014-10-27 Mon 15:00-17:00>
 	 :PROPERTIES:
@@ -12976,8 +12975,9 @@ Lectures in calendar and tasks like planning lectures.
 	  :Effort:   1:00
 	  :END:
 ******** TODO Week 4
-********* NEXT Lecture 4.1
+********* DONE Lecture 4.1
 	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2014-10-27 Mon 17:56]
 	  CLOCK: [2014-10-27 Mon 12:55]--[2014-10-27 Mon 14:05] =>  1:10
 	  :END:
 	  <2014-10-27 Mon 12:55-13:55>
@@ -13194,9 +13194,13 @@ Lectures in calendar and tasks like planning lectures.
 ***** TODO Cover lectures
 ****** TODO Lei Ni Analysis
 ******* Schedule
-******** NEXT Analysis lecture
+******** DONE Analysis lecture
 	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2014-10-27 Mon 17:56]
 	 CLOCK: [2014-10-27 Mon 14:51]--[2014-10-27 Mon 15:58] =>  1:07
+	 :END:
+	 :PROPERTIES:
+	 :Effort:   1:00
 	 :END:
 <2014-10-27 Mon 14:55-15:05>
 ******* Tasks
