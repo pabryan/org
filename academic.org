@@ -1934,30 +1934,34 @@ This proves the inequality we need.  The remaining problem is to remove the symm
 [[file:~/working/academic/research/csf_dist_comp_surfaces]]
 ***** Notes
 ***** Tasks
-****** TODO Research group
-******* DONE Contact Matt to see if he's still interested
-	 DEADLINE: <2014-09-19 Fri>
-	 :LOGBOOK:
-	 - State "DONE"       from "WAITING"    [2014-09-24 Wed 10:17] \\
-	   If he contacts me all good. Otherwise, I guess he's not interested anymore.
-	 - State "WAITING"    from "NEXT"       [2014-09-16 Tue 11:11] \\
-	   Sent email. Waiting on response.
-	 :END:
-******* CANCELLED Create a FMP project
-	:LOGBOOK:
-	- State "CANCELLED"  from "TODO"       [2014-09-17 Wed 21:03] \\
-	  I don't want to teach in spring.
-	:END:
 ****** TODO Organisation
 ******* NEXT Create tasks
 	 SCHEDULED: <2014-10-18 Sat>
-****** TODO Research
+	 :LOGBOOK:
+	 CLOCK: [2014-10-28 Tue 19:40]--[2014-10-28 Tue 19:49] =>  0:09
+	 :END:
+****** TODO Math
 ******* TODO Dist comp on sphere
 ******** TODO Chord/arc profile
 ******** TODO Comparison
 ******* TODO Comparison for positively curved surfaces
 ******* TODO Connection with ancient solutions
 ****** TODO Writing
+******* DONE Create org file
+	:LOGBOOK:
+	- State "DONE"       from "NEXT"       [2014-10-28 Tue 20:10]
+	CLOCK: [2014-10-28 Tue 19:49]--[2014-10-28 Tue 20:10] =>  0:21
+	:END:
+******* TODO Introduction
+******** NEXT Write outline
+******* TODO Chord/arc profile
+******** NEXT Write variations
+******** NEXT Write asymptotics
+******** NEXT Write viscosity equation
+******* TODO Comparisons
+******** NEXT Compare with circles of latitude
+******* TODO Convergence
+******** NEXT Obtain curvature bound
 ***** Refs
 **** TODO Pipe Flows 						  :PIPE_FLOW:
    :PROPERTIES:

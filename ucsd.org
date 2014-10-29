@@ -13625,6 +13625,23 @@ http://urp.ucsd.edu/
 	- State "DONE"       from "NEXT"       [2014-08-23 Sat 16:32]
 	:END:
 [2014-02-10 Mon 15:07]
+******* DONE Research group
+       :LOGBOOK:
+       - State "DONE"       from "TODO"       [2014-10-28 Tue 19:39]
+       :END:
+******* DONE Contact Matt to see if he's still interested
+	 DEADLINE: <2014-09-19 Fri>
+	 :LOGBOOK:
+	 - State "DONE"       from "WAITING"    [2014-09-24 Wed 10:17] \\
+	   If he contacts me all good. Otherwise, I guess he's not interested anymore.
+	 - State "WAITING"    from "NEXT"       [2014-09-16 Tue 11:11] \\
+	   Sent email. Waiting on response.
+	 :END:
+******* CANCELLED Create a FMP project
+	:LOGBOOK:
+	- State "CANCELLED"  from "TODO"       [2014-09-17 Wed 21:03] \\
+	  I don't want to teach in spring.
+	:END:
 ****** Refs
 ******* Curvature bound for curve shortening flow via distance comparison and a direct proof of {G}rayson's theorem
 :PROPERTIES:
