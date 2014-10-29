@@ -521,6 +521,7 @@ file:~/publish/decra_2015
   :END:
 [[file:~/working/academic/journals][journals directory]]
 ** MathSciNet
+[[file:~/working/academic/journals/review/mathscinet]]
 *** DONE Review [[http://www.ams.org/mresubs/download/3559e451969b72ee8/2921651.pdf][paper]]
     - State "DONE"       from "NEXT"       [2012-11-03 Sat 11:02]
     locally it's here [[docview:~/research_resources/papers/MR2921651.pdf::1][MR2921651]]
@@ -591,6 +592,9 @@ file:~/publish/decra_2015
 [[file:refs.org::#MR3020169][Topological change in mean convex mean curvature flow]]
 *** NEXT Review MR3238481
     SCHEDULED: <2014-10-13 Mon> DEADLINE: <2014-10-29 Wed -2w>
+    :LOGBOOK:
+    CLOCK: [2014-10-28 Tue 18:39]--[2014-10-28 Tue 19:18] =>  0:39
+    :END:
 [[file:refs.org::#MR3238481][Notes on the extension of the mean curvature flow]]
 ** CEJM
 *** Editing Manager
@@ -1088,6 +1092,7 @@ Try to use as much available software that I can find. Do it like Sage - don't r
 ***** Files
 [[file:~/working/academic/research/csf_ancient_sphere]]
 [[file:~/publish/csf_ancient_sphere/]]
+[[file:~/reference/academic/research/csf_ancient_sphere]]
 ***** Tasks
 ****** DONE Work out curvature evolution in coords
        :LOGBOOK:
@@ -1324,6 +1329,10 @@ Given $X$ in the equator, let $\rho_{\alpha}(X)$ be the infimum of the lengths o
 ******* WAITING Update based on referee comments
 ******* NEXT Add isoperimetric inequality method
 From "Alexios Polanski". see also 2013arXiv1307.5764M
+- [[file:~/reference/academic/research/csf_ancient_sphere/Ancient%20solutions%20of%20the%20curve%20shortening%20flow%20on%20the%20sphere.pdf][file:~/reference/academic/research/csf_ancient_sphere/Ancient solutions of the curve shortening flow on the sphere.pdf]]
+******* NEXT Follow up with "Alexios"
+	 SCHEDULED: <2015-03-01 Sun>
+
 ****** DONE Maths
        :LOGBOOK:
        - State "DONE"       from "TODO"       [2014-05-05 Mon 09:43]
@@ -5587,8 +5596,12 @@ http://careers.stackoverflow.com/
      :LOGBOOK:
      - State "DONE"       from "NEXT"       [2014-10-11 Sat 15:28]
      :END:
-**** NEXT Write cover letter for jobs
+**** DONE Write cover letter for jobs
      DEADLINE: <2014-10-26 Sun>
+     :LOGBOOK:
+     - State "DONE"       from "NEXT"       [2014-10-28 Tue 11:19]
+     CLOCK: [2014-10-28 Tue 10:00]--[2014-10-28 Tue 11:19] =>  1:19
+     :END:
 upload to mathjobs, academicjobsonline
 **** NEXT Find more jobs
 - http://www.all-acad.com/Jobs/Mathematics_Statistics/All_Countries/203_Pure_Maths_(Logics_Algebra_Number_Theory_Analysis_Geometry_Topology)_incl_Math_Education/Experienced/Acad

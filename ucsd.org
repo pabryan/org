@@ -11911,6 +11911,7 @@ Lectures in calendar and tasks like planning lectures.
 ******** NEXT Piazza week 4
 	  DEADLINE: <2014-11-02 Sun>
 	  :LOGBOOK:
+	  CLOCK: [2014-10-28 Tue 18:25]--[2014-10-28 Tue 18:36] =>  0:11
 	  CLOCK: [2014-10-27 Mon 16:23]--[2014-10-27 Mon 16:44] =>  0:21
 	  :END:
 	 
@@ -13833,6 +13834,14 @@ https://maps.google.com/maps?client=ubuntu-browser&ie=UTF-8&q=Career+Services+Ce
       :LOGBOOK:
       CLOCK: [2014-05-01 Thu 15:59]--[2014-05-01 Thu 16:51] =>  0:52
       :END:
+*** Graduate students
+**** Janelle Louise
+***** Tasks
+****** NEXT Proof read thesis
+       DEADLINE: <2014-11-03 Mon>
+***** Notes
+***** Refs
+- [[file:academic.org::*CSF%20Sphere%20Ancient%20Solutions][CSF Sphere Ancient Solutions]]
 ** Online Homework
 *** Webwork
 **** Notes
