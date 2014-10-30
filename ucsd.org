@@ -12523,14 +12523,19 @@ Lectures in calendar and tasks like planning lectures.
 	   :END:
 
 ********* TODO Week 5
+	  :LOGBOOK:
+	  CLOCK: [2014-10-29 Wed 17:09]
+	  :END:
 ********** NEXT Prepare outline
 	   SCHEDULED: <2014-10-27 Mon>
 	   :PROPERTIES:
 	   :Effort:   0:30
 	   :END:
-********** NEXT Prepare lec 5.1
+********** DONE Prepare lec 5.1
 	   SCHEDULED: <2014-10-27 Mon>
 	   :LOGBOOK:
+	   - State "DONE"       from "NEXT"       [2014-10-29 Wed 17:09]
+	   CLOCK: [2014-10-29 Wed 17:03]--[2014-10-29 Wed 17:09] =>  0:06
 	   CLOCK: [2014-10-29 Wed 09:55]--[2014-10-29 Wed 10:55] =>  1:00
 	   :END:
 	   :PROPERTIES:
@@ -13153,9 +13158,10 @@ Lectures in calendar and tasks like planning lectures.
 	 :Effort:   2:00
 	 :END:
 
-******** NEXT O/H Week 4
+******** DONE O/H Week 4
 	 :LOGBOOK:
-	 CLOCK: [2014-10-29 Wed 14:20]
+	 - State "DONE"       from "NEXT"       [2014-10-29 Wed 17:03]
+	 CLOCK: [2014-10-29 Wed 14:20]--[2014-10-29 Wed 17:03] =>  2:43
 	 :END:
 	 <2014-10-29 Wed 15:00-17:00>
 	 :PROPERTIES:
