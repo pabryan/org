@@ -3134,6 +3134,7 @@ We would do it all in Minkowski space. I think the vector field gives the distan
 ******** NEXT Write up variations
 	 SCHEDULED: <2014-10-18 Sat>
 	 :LOGBOOK:
+	 CLOCK: [2014-10-30 Thu 13:25]--[2014-10-30 Thu 13:50] =>  0:25
 	 CLOCK: [2014-10-30 Thu 08:53]--[2014-10-30 Thu 09:11] =>  0:18
 	 :END:
 	 :PROPERTIES:
@@ -3170,6 +3171,10 @@ We would do it all in Minkowski space. I think the vector field gives the distan
 ******* NEXT Does inf occur at a vertex?
 	:PROPERTIES:
 	:ID:       1f9fc531-0063-4ada-9b59-f60d319e36e6
+	:END:
+******* NEXT Write asymptotics
+	:LOGBOOK:
+	CLOCK: [2014-10-30 Thu 13:50]--[2014-10-30 Thu 14:13] =>  0:23
 	:END:
 ****** TODO CSF networks defn and existence/uniqueness
        :PROPERTIES:
