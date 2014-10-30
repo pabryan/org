@@ -1935,9 +1935,10 @@ This proves the inequality we need.  The remaining problem is to remove the symm
 ***** Notes
 ***** Tasks
 ****** TODO Organisation
-******* NEXT Create tasks
+******* DONE Create tasks
 	 SCHEDULED: <2014-10-18 Sat>
 	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2014-10-30 Thu 08:35]
 	 CLOCK: [2014-10-28 Tue 19:40]--[2014-10-28 Tue 19:49] =>  0:09
 	 :END:
 ****** TODO Math
@@ -2103,20 +2104,31 @@ Marsden et. al. book
 [[file:~/working/academic/research/ancient_flows_sphere]]
 ***** Tasks
 ****** TODO Set up project
+       :LOGBOOK:
+       CLOCK: [2014-10-30 Thu 08:48]--[2014-10-30 Thu 08:53] =>  0:05
+       :END:
 ******* NEXT Create repository
 ******* NEXT Create org file
 ******* NEXT Create publishing
-******* NEXT Create tasks
+******* DONE Create tasks
 	 SCHEDULED: <2014-10-18 Sat>
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2014-10-30 Thu 08:48]
+	 CLOCK: [2014-10-30 Thu 08:37]--[2014-10-30 Thu 08:48] =>  0:11
+	 :END:
 ****** TODO Write paper
 ******* NEXT Create outline
-- Harnack
-- $\int F(A) \to 0$
-- smooth backwards convergence to equator
-- Aleksandrov reflection
-
+******* TODO Harnack
+******* TODO Curvature goes to 0
+******** TODO $\int F(A) \to 0$
+******** TODO Length of backwards flowing point is finite
+******* TODO smooth backwards convergence to equator
+******* TODO Aleksandrov reflection
 ****** TODO Mathematics
 ******* TODO 2ff goes to zero
+******** TODO Show $\int F(A) \to 0$
+******** TODO Show $\int_t^{-\infty} F(A(x,t)) < \infty$ for each $x$
+- this is the length of the path traced out by a point as $t\to-\infty$. Since the flow is convex by increasing sets (as $t \to -\infty$) but bounded in a hemisphere, the length surely cannot be $\infty$. Therefore $F(A(x,t) \to 0$ as $t \to -\infty$.
 ******* TODO Harnack
 ******* TODO Backwards convergence
 ******* TODO Aleksandrov reflection
@@ -3094,6 +3106,9 @@ We would do it all in Minkowski space. I think the vector field gives the distan
 ***** Tasks
 ****** DONE Set up org file
        :LOGBOOK:
+       - State "DONE"       from "NEXT"       [2014-10-30 Thu 09:47]
+       CLOCK: [2014-10-30 Thu 09:11]--[2014-10-30 Thu 09:42] =>  0:31
+       - State "NEXT"       from "DONE"       [2014-10-30 Thu 08:59]
        - State "DONE"       from "NEXT"       [2013-11-14 Thu 19:51]
        CLOCK: [2013-11-14 Thu 19:46]--[2013-11-14 Thu 19:51] =>  0:05
        :END:
@@ -3116,8 +3131,11 @@ We would do it all in Minkowski space. I think the vector field gives the distan
 	 CLOCK: [2013-11-09 Sat 14:40]--[2013-11-09 Sat 15:13] =>  0:33
 	 :END:
 
-******** TODO Write up variations
+******** NEXT Write up variations
 	 SCHEDULED: <2014-10-18 Sat>
+	 :LOGBOOK:
+	 CLOCK: [2014-10-30 Thu 08:53]--[2014-10-30 Thu 09:11] =>  0:18
+	 :END:
 	 :PROPERTIES:
 	 :ID:       35149012-93ea-4911-9903-8f3a2e335615
 	 :END:
@@ -3200,6 +3218,11 @@ This is some sort of curvature flow for polygons - exactly what I want to look a
        - State "DONE"       from "NEXT"       [2013-11-09 Sat 14:12]
        CLOCK: [2013-11-09 Sat 13:11]--[2013-11-09 Sat 14:12] =>  0:59
        :END:
+****** TODO Writing
+******* NEXT Proof reading
+	:LOGBOOK:
+	CLOCK: [2014-10-30 Thu 09:47]--[2014-10-30 Thu 10:18] =>  0:31
+	:END:
 ***** Notes
 ***** Refs
 ****** On three-phase boundary motion and the singular limit of a vector-valued {G}inzburg-{L}andau equation
