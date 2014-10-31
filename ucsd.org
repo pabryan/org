@@ -12725,7 +12725,13 @@ Lectures in calendar and tasks like planning lectures.
 	  :PROPERTIES:
 	  :Effort:   0:10
 	  :END:
-******** NEXT Midterm 2
+********* NEXT Write rubric
+	  DEADLINE: <2014-10-31 Fri>
+	  :PROPERTIES:
+	  :Effort:   0:30
+	  :END:
+
+******** TODO Midterm 2
 ********* NEXT Write Midterm 2
 	  SCHEDULED: <2014-11-10 Mon>
 	  :PROPERTIES:
@@ -12746,7 +12752,12 @@ Lectures in calendar and tasks like planning lectures.
 	  :PROPERTIES:
 	  :Effort:   0:10
 	  :END:
-******** NEXT Final
+********* NEXT Write rubric
+	  DEADLINE: <2014-11-21 Fri>
+	  :PROPERTIES:
+	  :Effort:   0:30
+	  :END:
+******** TODO Final
 ********* NEXT Write Final
 	  SCHEDULED: <2014-12-01 Mon>
 	  :PROPERTIES:
@@ -12766,6 +12777,11 @@ Lectures in calendar and tasks like planning lectures.
 	  DEADLINE: <2014-12-10 Wed>
 	  :PROPERTIES:
 	  :Effort:   0:10
+	  :END:
+********* NEXT Write rubric
+	  DEADLINE: <2014-12-12 Fri>
+	  :PROPERTIES:
+	  :Effort:   0:30
 	  :END:
 ******* DONE Homework
 	:LOGBOOK:
