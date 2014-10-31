@@ -12561,6 +12561,9 @@ Lectures in calendar and tasks like planning lectures.
 
 ********** NEXT Prepare lec 5.3
 	   SCHEDULED: <2014-10-29 Wed>
+	   :LOGBOOK:
+	   CLOCK: [2014-10-31 Fri 15:25]--[2014-10-31 Fri 16:00] =>  0:35
+	   :END:
 	   :PROPERTIES:
 	   :Effort:   1:00
 	   :END:
@@ -12727,6 +12730,9 @@ Lectures in calendar and tasks like planning lectures.
 	  :END:
 ********* NEXT Write rubric
 	  DEADLINE: <2014-10-31 Fri>
+	  :LOGBOOK:
+	  CLOCK: [2014-10-31 Fri 14:39]--[2014-10-31 Fri 15:15] =>  0:36
+	  :END:
 	  :PROPERTIES:
 	  :Effort:   0:30
 	  :END:
