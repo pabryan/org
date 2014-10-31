@@ -590,12 +590,15 @@ file:~/publish/decra_2015
     :ID:       d4269d45-7ec1-461b-bca9-85c748160054
     :END:
 [[file:refs.org::#MR3020169][Topological change in mean convex mean curvature flow]]
-*** NEXT Review MR3238481
+*** DONE Review MR3238481
     SCHEDULED: <2014-10-13 Mon> DEADLINE: <2014-10-29 Wed -2w>
     :LOGBOOK:
+    - State "DONE"       from "NEXT"       [2014-10-30 Thu 19:35]
+    CLOCK: [2014-10-30 Thu 19:15]--[2014-10-30 Thu 19:35] =>  0:20
     CLOCK: [2014-10-28 Tue 18:39]--[2014-10-28 Tue 19:18] =>  0:39
     :END:
 [[file:refs.org::#MR3238481][Notes on the extension of the mean curvature flow]]
+[[file:~/working/academic/journals/review/mathscinet/MR3238481.org]]
 ** CEJM
 *** Editing Manager
     :PROPERTIES:

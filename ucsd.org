@@ -12194,6 +12194,9 @@ Lectures in calendar and tasks like planning lectures.
 	  :END:
 ******* TODO Exams
 ******** NEXT Midterm 1
+	 :LOGBOOK:
+	 CLOCK: [2014-10-30 Thu 19:37]--[2014-10-30 Thu 21:15] =>  1:38
+	 :END:
 	 <2014-10-30 Thu 20:00-21:00>
 	 :PROPERTIES:
 	 :Effort:   1:30
