@@ -497,8 +497,11 @@ https://voa-healthymeals.orderlunches.com/
       - State "DONE"       from "NEXT"       [2014-10-02 Thu 14:00]
       :END:
 https://voa-healthymeals.orderlunches.com/
-****** NEXT Order kids lunch
+****** DONE Order kids lunch
       DEADLINE: <2014-11-01 Sat -1d>
+      :LOGBOOK:
+      - State "DONE"       from "NEXT"       [2014-11-01 Sat 11:35]
+      :END:
 https://voa-healthymeals.orderlunches.com/
 ****** NEXT Order kids lunch
       DEADLINE: <2014-12-01 Mon>

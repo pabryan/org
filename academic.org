@@ -6017,8 +6017,12 @@ https://www.mathjobs.org/jobs/jobs/6219
       - State "DONE"       from "NEXT"       [2014-10-03 Fri 18:12]
       CLOCK: [2014-10-03 Fri 17:55]--[2014-10-03 Fri 18:12] =>  0:17
       :END:
-***** NEXT Bonn
+***** CANCELLED Bonn
      DEADLINE: <2014-11-01 Sat>
+     :LOGBOOK:
+     - State "CANCELLED"  from "NEXT"       [2014-11-01 Sat 12:19] \\
+       Perhaps no really suitable mentor. Therefor I can't be bothered to make the extra effort.
+     :END:
 https://www.mathjobs.org/jobs?joblist-856-5999
 - mentor: http://www.hcm.uni-bonn.de/people/profile/karl-theodor-sturm/
 ***** DONE UC Irvine

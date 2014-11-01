@@ -11873,6 +11873,9 @@ Lectures in calendar and tasks like planning lectures.
 	 :END:
 ****** Clocking
 ******* TODO Piazza
+	:LOGBOOK:
+	CLOCK: [2014-11-01 Sat 12:34]
+	:END:
 ******** DONE Piazza week 1
 	  DEADLINE: <2014-10-12 Sun>
 	  :LOGBOOK:
@@ -11908,9 +11911,11 @@ Lectures in calendar and tasks like planning lectures.
 	 :Effort:   1:00
 	 :END:
 
-******** NEXT Piazza week 4
+******** DONE Piazza week 4
 	  DEADLINE: <2014-11-02 Sun>
 	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2014-11-01 Sat 12:34]
+	  CLOCK: [2014-11-01 Sat 12:21]--[2014-11-01 Sat 12:34] =>  0:13
 	  CLOCK: [2014-10-28 Tue 18:25]--[2014-10-28 Tue 18:36] =>  0:11
 	  CLOCK: [2014-10-27 Mon 16:23]--[2014-10-27 Mon 16:44] =>  0:21
 	  :END:
@@ -12533,8 +12538,11 @@ Lectures in calendar and tasks like planning lectures.
 	  :LOGBOOK:
 	  CLOCK: [2014-10-29 Wed 17:09]--[2014-10-29 Wed 17:18] =>  0:09
 	  :END:
-********** NEXT Prepare outline
+********** DONE Prepare outline
 	   SCHEDULED: <2014-10-27 Mon>
+	   :LOGBOOK:
+	   - State "DONE"       from "NEXT"       [2014-11-01 Sat 11:35]
+	   :END:
 	   :PROPERTIES:
 	   :Effort:   0:30
 	   :END:
@@ -12559,9 +12567,10 @@ Lectures in calendar and tasks like planning lectures.
 	   :Effort:   1:00
 	   :END:
 
-********** NEXT Prepare lec 5.3
+********** DONE Prepare lec 5.3
 	   SCHEDULED: <2014-10-29 Wed>
 	   :LOGBOOK:
+	   - State "DONE"       from "NEXT"       [2014-11-01 Sat 11:35]
 	   CLOCK: [2014-10-31 Fri 15:25]--[2014-10-31 Fri 16:00] =>  0:35
 	   :END:
 	   :PROPERTIES:
@@ -12728,9 +12737,10 @@ Lectures in calendar and tasks like planning lectures.
 	  :PROPERTIES:
 	  :Effort:   0:10
 	  :END:
-********* NEXT Write rubric
+********* DONE Write rubric
 	  DEADLINE: <2014-10-31 Fri>
 	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2014-11-01 Sat 11:19]
 	  CLOCK: [2014-10-31 Fri 14:39]--[2014-10-31 Fri 15:15] =>  0:36
 	  :END:
 	  :PROPERTIES:
