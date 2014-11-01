@@ -11873,9 +11873,6 @@ Lectures in calendar and tasks like planning lectures.
 	 :END:
 ****** Clocking
 ******* TODO Piazza
-	:LOGBOOK:
-	CLOCK: [2014-11-01 Sat 12:34]
-	:END:
 ******** DONE Piazza week 1
 	  DEADLINE: <2014-10-12 Sun>
 	  :LOGBOOK:
