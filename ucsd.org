@@ -11924,7 +11924,7 @@ Lectures in calendar and tasks like planning lectures.
 ******** NEXT Piazza week 5
 	  DEADLINE: <2014-11-09 Sun>
 	  :LOGBOOK:
-	  CLOCK: [2014-11-03 Mon 15:07]
+	  CLOCK: [2014-11-03 Mon 15:07]--[2014-11-03 Mon 15:10] =>  0:03
 	  :END:
 	 
 	 :PROPERTIES:
@@ -12932,6 +12932,13 @@ Lectures in calendar and tasks like planning lectures.
 	  CLOCK: [2014-10-15 Wed 17:40]--[2014-10-15 Wed 18:31] =>  0:51
 	  :END:
 
+********** NEXT Write proof closure is closed
+	   :LOGBOOK:
+	   CLOCK: [2014-11-03 Mon 15:11]
+	   :END:
+	   :PROPERTIES:
+	   :Effort:   0:30
+	   :END:
 ******* TODO Grades
 ******** NEXT Create grade spreadsheet
 	 DEADLINE: <2014-12-22 Mon>
