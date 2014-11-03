@@ -396,8 +396,9 @@
     - State "DONE"       from "NEXT"       [2013-03-09 Sat 11:10]
     :END:
 *** NEXT Mobility
-    SCHEDULED: <2014-10-31 Fri .+1d/2d>
+    SCHEDULED: <2014-11-04 Tue .+1d/2d>
     :LOGBOOK:
+    - State "DONE"       from "NEXT"       [2014-11-03 Mon 15:03]
     - State "DONE"       from "NEXT"       [2014-10-30 Thu 11:49]
     - State "DONE"       from "NEXT"       [2014-10-28 Tue 13:27]
     - State "DONE"       from "NEXT"       [2014-10-27 Mon 17:55]
@@ -877,7 +878,7 @@
     :STYLE:    habit
     :REPEAT_TO_STATE: NEXT
     :ID:       0e75f56d-0356-4a0f-a376-080471ad4aad
-    :LAST_REPEAT: [2014-10-30 Thu 11:49]
+    :LAST_REPEAT: [2014-11-03 Mon 15:03]
     :END:
 
 *** NEXT Daily Release

@@ -11923,6 +11923,9 @@ Lectures in calendar and tasks like planning lectures.
 
 ******** NEXT Piazza week 5
 	  DEADLINE: <2014-11-09 Sun>
+	  :LOGBOOK:
+	  CLOCK: [2014-11-03 Mon 15:07]
+	  :END:
 	 
 	 :PROPERTIES:
 	 :Effort:   1:00
@@ -12098,6 +12101,9 @@ Lectures in calendar and tasks like planning lectures.
 	  :END:
 ******** TODO Week 5
 ********* NEXT Lecture 5.1
+	  :LOGBOOK:
+	  CLOCK: [2014-11-03 Mon 11:50]--[2014-11-03 Mon 12:50] =>  1:00
+	  :END:
 	  <2014-11-03 Mon 11:55-12:55>
 	  :PROPERTIES:
 	  :Effort:   1:00
@@ -12901,8 +12907,12 @@ Lectures in calendar and tasks like planning lectures.
 	  :PROPERTIES:
 	  :Effort:   0:10
 	  :END:
-********* NEXT Add new students
+********* DONE Add new students
 	  DEADLINE: <2014-11-07 Fri>
+	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2014-11-03 Mon 15:07]
+	  CLOCK: [2014-11-03 Mon 15:05]--[2014-11-03 Mon 15:07] =>  0:02
+	  :END:
 	  :PROPERTIES:
 	  :Effort:   0:10
 	  :END:
@@ -13057,6 +13067,9 @@ Lectures in calendar and tasks like planning lectures.
 	  :END:
 ******** TODO Week 5
 ********* NEXT Lecture 5.1
+	  :LOGBOOK:
+	  CLOCK: [2014-11-03 Mon 12:50]--[2014-11-03 Mon 14:10] =>  1:20
+	  :END:
 	  <2014-11-03 Mon 12:55-13:55>
 	  :PROPERTIES:
 	  :Effort:   1:00
