@@ -12100,8 +12100,9 @@ Lectures in calendar and tasks like planning lectures.
 	  :Effort:   1:00
 	  :END:
 ******** TODO Week 5
-********* NEXT Lecture 5.1
+********* DONE Lecture 5.1
 	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2014-11-03 Mon 17:19]
 	  CLOCK: [2014-11-03 Mon 11:50]--[2014-11-03 Mon 12:50] =>  1:00
 	  :END:
 	  <2014-11-03 Mon 11:55-12:55>
@@ -12264,8 +12265,9 @@ Lectures in calendar and tasks like planning lectures.
 	 :Effort:   2:00
 	 :END:
 
-******** NEXT O/H Week 5
+******** DONE O/H Week 5
 	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2014-11-03 Mon 17:20]
 	 CLOCK: [2014-11-03 Mon 16:04]--[2014-11-03 Mon 17:18] =>  1:14
 	 :END:
 	 <2014-11-03 Mon 15:00-17:00>
@@ -13077,8 +13079,9 @@ Lectures in calendar and tasks like planning lectures.
 	  :Effort:   1:00
 	  :END:
 ******** TODO Week 5
-********* NEXT Lecture 5.1
+********* DONE Lecture 5.1
 	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2014-11-03 Mon 17:19]
 	  CLOCK: [2014-11-03 Mon 12:50]--[2014-11-03 Mon 14:10] =>  1:20
 	  :END:
 	  <2014-11-03 Mon 12:55-13:55>
