@@ -599,6 +599,11 @@ file:~/publish/decra_2015
     :END:
 [[file:refs.org::#MR3238481][Notes on the extension of the mean curvature flow]]
 [[file:~/working/academic/journals/review/mathscinet/MR3238481.org]]
+*** NEXT Review MR3259043
+    DEADLINE: <2014-12-13 Sat> SCHEDULED: <2014-11-17 Mon>
+[[file:~/working/academic/journals/review/mathscinet/MR3259043.org]]
+[[file:refs.org::#MR3259043][Optimal isoperimetric inequalities for complete proper minimal submanifolds in hyperbolic space]]
+
 ** CEJM
 *** Editing Manager
     :PROPERTIES:
@@ -2035,8 +2040,10 @@ This proves the inequality we need.  The remaining problem is to remove the symm
        	:END:
 ****** TODO Write Paper
 ******* TODO Paper organisation
-******** NEXT Review existing paper to find what needs to done
+******** DONE Review existing paper to find what needs to done
 	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2014-11-04 Tue 11:46]
+	 CLOCK: [2014-11-04 Tue 11:26]--[2014-11-04 Tue 11:46] =>  0:20
 	 CLOCK: [2014-10-07 Tue 15:00]--[2014-10-07 Tue 15:10] =>  0:10
 	 :END:
 	 :PROPERTIES:
@@ -2064,6 +2071,13 @@ i.e. is the density defined on B or B_t?
 ******** NEXT Simplify boundary considerations
 - The body could probably just be a smooth family of embeddings. Then the boundary of $B_t = \phi_t(B)$ should be piecewise smooth.
 ******** NEXT Sort out conservation equations/Material derivative/Lie derivative for Momentum equation
+	 SCHEDULED: <2014-11-04 Tue>
+- How do we define the momentum density?
+- The Lie derivative may not give the material derivative; we need to fix a frame which is not differentiated, e.g. choose a local parallel frame?
+- For each $x\in M$, choose a local parallel frame and integrate componentwise. If we change to a different local parallel frame, we should get a constant section of $GL(n)$ on the overlap and so component wise integration is well defined. Then we'll get the material derivative, but this is not the Lie derivative! Nevertheless it's all geometric!
+******** NEXT Material derivative and local integration
+- The material derivative of a tensor field tensor the density is not generally the Lie derivative. There is a defect!
+- Connect with local integration via local Gauss maps.
 ******** NEXT Boundary conditions
 ******** NEXT Comment on characteristic function
 - should get a delta function across the free surface!
@@ -2072,6 +2086,7 @@ Marsden et. al. book
 ******** NEXT Asymptotic analysis, direct integration?
 - see sec 2 of bourdarias, ersoy, gerbi 
 ******* TODO Pipe domain
+******** NEXT Shorten domain description
 ******** NEXT Change D to arbitrary 2-manifold
 ******** NEXT Write without coordinates
 ******** NEXT Non-orthogonal domains
@@ -2084,6 +2099,7 @@ Marsden et. al. book
 ******** NEXT Hyperbolicity
 ******** NEXT Profile on cross sections
 - in general the quantities may have some qualitative behaviour on the cross-sections: e.g. approximately constant, radially symmetric, the solution may have some known behaviour over the cross section determined by a "profile" function independent of $t$.
+
 ******* TODO Fluids
 ******** NEXT Ideal fluid
 ******** NEXT Equation of state
@@ -6121,13 +6137,24 @@ https://www.mathjobs.org/jobs/jobs/6068
      - State "DONE"       from "NEXT"       [2014-10-04 Sat 21:01]
      :END:
 https://www.mathjobs.org/jobs?joblist-1222-6314
-***** NEXT Chile
+***** DONE Chile
      DEADLINE: <2014-11-27 Thu>
+     :LOGBOOK:
+     - State "DONE"       from "NEXT"       [2014-11-04 Tue 10:30]
+     :END:
 https://www.mathjobs.org/jobs?joblist-971-5895
-**** NEXT Academic Jobs online
-***** NEXT Yale NUS
+**** DONE Academic Jobs online
+     :LOGBOOK:
+     - State "DONE"       from "NEXT"       [2014-11-04 Tue 10:30]
+     :END:
+***** DONE Yale NUS
+      :LOGBOOK:
+      - State "DONE"       from "NEXT"       [2014-11-04 Tue 10:30]
+      :END:
 https://academicjobsonline.org/ajo/jobs/4243
 https://academicjobsonline.org/ajo/jobs/4242
+**** NEXT Maquarie
+
 * Visiting
 ** Tasks
 ** People
