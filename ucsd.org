@@ -12265,6 +12265,9 @@ Lectures in calendar and tasks like planning lectures.
 	 :END:
 
 ******** NEXT O/H Week 5
+	 :LOGBOOK:
+	 CLOCK: [2014-11-03 Mon 16:04]
+	 :END:
 	 <2014-11-03 Mon 15:00-17:00>
 	 :PROPERTIES:
 	 :Effort:   2:00
@@ -13945,7 +13948,7 @@ https://maps.google.com/maps?client=ubuntu-browser&ie=UTF-8&q=Career+Services+Ce
 ****** NEXT Proof read thesis
        DEADLINE: <2014-11-03 Mon>
        :LOGBOOK:
-       CLOCK: [2014-11-03 Mon 15:45]
+       CLOCK: [2014-11-03 Mon 15:45]--[2014-11-03 Mon 16:04] =>  0:19
        :END:
 ***** Notes
 ***** Refs
