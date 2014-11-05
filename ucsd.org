@@ -12618,6 +12618,7 @@ Lectures in calendar and tasks like planning lectures.
 ********** NEXT Prepare lec 6.1
 	   SCHEDULED: <2014-11-03 Mon>
 	   :LOGBOOK:
+	   CLOCK: [2014-11-05 Wed 15:20]
 	   CLOCK: [2014-11-05 Wed 11:29]--[2014-11-05 Wed 11:47] =>  0:18
 	   :END:
 	   :PROPERTIES:
