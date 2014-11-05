@@ -3713,7 +3713,7 @@ In particular I want the combinatorial algebra
        	:END:
 ** Tasks
 *** TODO Organise research papers    
-    SCHEDULED: <2014-11-03 Mon>
+    SCHEDULED: <2015-01-05 Mon>
     :PROPERTIES:
     :ID:       27dd1954-9abe-4a87-9bcd-36027c643fdb
     :END:
@@ -3925,7 +3925,7 @@ sometimes the bib ref I have has MR<num> but the paper is saved as MR0<num> whic
 - Isoperimetric comparison with respect to Huisken's density (weighted Levy/Gromov perhaps?). How does this relate also to minimal surfaces?
 
 *** TODO Paper preparation
-    SCHEDULED: <2014-11-03 Mon>
+    SCHEDULED: <2015-01-05 Mon>
 **** TODO Incorporate sage code into document creation
   :LOGBOOK:
   CLOCK: [2014-03-01 Sat 13:28]--[2014-03-01 Sat 13:29] =>  0:01
@@ -3947,7 +3947,7 @@ Either by using literal blocks in org-mode or using sagetex I can produce images
     CLOCK: [2012-12-18 Tue 09:45]--[2012-12-18 Tue 10:27] =>  0:42
     :END:
 *** TODO Organise Research Projects
-    SCHEDULED: <2014-11-03 Mon>
+    SCHEDULED: <2015-01-05 Mon>
 **** NEXT Set up/organise current research projects
 
   :LOGBOOK:
@@ -3994,7 +3994,7 @@ I want to have descriptions of my various research projects with clear aims, a s
 Schedule time for research, for teaching and for non-research academic work (e.g. refereeing). That cover's all the sort of work I do.
 
 *** TODO Make create research project capture
-    SCHEDULED: <2014-11-03 Mon>
+    SCHEDULED: <2015-01-05 Mon>
     :PROPERTIES:
     :ID:       89aab08c-03b4-4561-b868-45bc0088ba34
     :END:
@@ -4449,7 +4449,7 @@ Is there a consistent (say providing ZFC is consistent) set theory without the e
 ** Open Notebook
 *** Tasks
 **** NEXT Research starting an open notebook
-  SCHEDULED: <2014-11-03 Mon>
+  SCHEDULED: <2015-01-05 Mon>
   :LOGBOOK:
   CLOCK: [2013-08-06 Tue 20:54]--[2013-08-06 Tue 20:55] =>  0:01
   :END:
@@ -4583,7 +4583,7 @@ I want to study Gauss maps $(E,X,\pi) \to (\RR^k\times X, X, \pi)$, in particula
 **** TODO Paper/Book reading
 - I should get in the habit of writing my own description of the work and the main ideas as part of the learning process. I need a way to set this up in some sort of project exported to a wiki say?
 ***** NEXT Develop way to write my own notes (and publish on my website) on the subject
-      SCHEDULED: <2014-11-03 Mon>
+      SCHEDULED: <2015-01-05 Mon>
 ** Blog
 *** Ideas
 **** The use of coordinates in DG.
