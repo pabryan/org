@@ -6165,8 +6165,15 @@ https://www.mathjobs.org/jobs?joblist-971-5895
       :END:
 https://academicjobsonline.org/ajo/jobs/4243
 https://academicjobsonline.org/ajo/jobs/4242
-**** NEXT Maquarie
+**** CANCELLED Maquarie
+     :LOGBOOK:
+     - State "CANCELLED"  from "NEXT"       [2014-11-07 Fri 11:18] \\
+       They cancelled the job.
+     :END:
 
+**** NEXT Max Planck
+     DEADLINE: <2014-12-31 Wed>
+http://www.mis.mpg.de/institute/application/postdoc
 * Visiting
 ** Tasks
 ** People
