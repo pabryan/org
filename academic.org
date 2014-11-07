@@ -6224,7 +6224,11 @@ http://www.chelsmore.com/rates/
       CLOCK: [2014-11-06 Thu 20:20]--[2014-11-06 Thu 20:48] =>  0:28
       :END:
 ***** NEXT Book hotel
-***** NEXT Book flights
+      :LOGBOOK:
+      CLOCK: [2014-11-07 Fri 08:45]--[2014-11-07 Fri 10:00] =>  1:15
+      :END:
+***** TODO Travel
+****** NEXT Book flights
 * Personal Website
   :PROPERTIES:
   :ID:       05f896fc-0400-4ac3-bfef-5e3c5457fd02
