@@ -1847,6 +1847,7 @@ http://gmane.org
   :END:
 ** Organisation
   :LOGBOOK:
+  CLOCK: [2014-11-06 Thu 19:44]--[2014-11-06 Thu 19:55] =>  0:11
   CLOCK: [2014-11-06 Thu 13:52]--[2014-11-06 Thu 13:54] =>  0:02
   CLOCK: [2014-11-06 Thu 12:39]--[2014-11-06 Thu 12:42] =>  0:03
   CLOCK: [2014-11-06 Thu 09:56]--[2014-11-06 Thu 09:57] =>  0:01
@@ -1863,6 +1864,7 @@ http://gmane.org
   CLOCK: [2014-11-03 Mon 11:38]--[2014-11-03 Mon 11:50] =>  0:12
   CLOCK: [2014-11-03 Mon 11:28]--[2014-11-03 Mon 11:34] =>  0:06
   CLOCK: [2014-10-31 Fri 16:39]--[2014-10-31 Fri 16:42] =>  0:03
+  CLOCK: [2014-10-31 Fri 15:15]--[2014-10-31 Fri 15:25] =>  0:10
   CLOCK: [2014-10-31 Fri 14:11]--[2014-10-31 Fri 14:19] =>  0:08
   CLOCK: [2014-10-31 Fri 11:15]--[2014-10-31 Fri 11:50] =>  0:35
   CLOCK: [2014-10-31 Fri 08:30]--[2014-10-31 Fri 08:31] =>  0:01
@@ -3534,8 +3536,10 @@ Set some goals for the month. I should check someday projects for inclusion in t
 Check how I did last month. I guess the review and plan could probably go together. This is all broad stuff
 
 ** NEXT Daily Review [0/12]
-   SCHEDULED: <2014-11-06 Thu .+1d/2d>
+   SCHEDULED: <2014-11-07 Fri .+1d/2d>
    :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2014-11-06 Thu 20:47]
+   CLOCK: [2014-11-06 Thu 19:55]--[2014-11-06 Thu 20:s20] =>  0:25
    - State "DONE"       from "NEXT"       [2014-11-05 Wed 19:30]
    CLOCK: [2014-11-05 Wed 19:29]--[2014-11-05 Wed 19:30] =>  0:01
    - State "DONE"       from "NEXT"       [2014-11-03 Mon 17:21]
@@ -3966,7 +3970,7 @@ Check how I did last month. I guess the review and plan could probably go togeth
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
    :ID:       616c5bd9-d941-4fcc-8874-2ff3c9e96b4a
-   :LAST_REPEAT: [2014-11-05 Wed 19:30]
+   :LAST_REPEAT: [2014-11-06 Thu 20:47]
    :END:
 
 What to review:
