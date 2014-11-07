@@ -1430,7 +1430,7 @@ From "Alexios Polanski". see also 2013arXiv1307.5764M
 	:END:
 
 ******* Thesis proof reading
-	 SCHEDULED: <2014-11-05 Wed 17:00-18:00>
+	 <2014-11-05 Wed 17:00-18:00>
 	 :LOGBOOK:
 	 CLOCK: [2014-11-05 Wed 17:08]--[2014-11-05 Wed 19:29] =>  2:21
 	 :END:
@@ -2078,12 +2078,18 @@ i.e. is the density defined on B or B_t?
 - The body could probably just be a smooth family of embeddings. Then the boundary of $B_t = \phi_t(B)$ should be piecewise smooth.
 ******** NEXT Sort out conservation equations/Material derivative/Lie derivative for Momentum equation
 	 SCHEDULED: <2014-11-04 Tue>
+         :LOGBOOK:
+	 CLOCK: [2014-11-06 Thu 09:59]--[2014-11-06 Thu 11:05] =>  1:06
+	 :END:
 - How do we define the momentum density?
 - The Lie derivative may not give the material derivative; we need to fix a frame which is not differentiated, e.g. choose a local parallel frame?
 - For each $x\in M$, choose a local parallel frame and integrate componentwise. If we change to a different local parallel frame, we should get a constant section of $GL(n)$ on the overlap and so component wise integration is well defined. Then we'll get the material derivative, but this is not the Lie derivative! Nevertheless it's all geometric!
 ******** NEXT Material derivative and local integration
 - The material derivative of a tensor field tensor the density is not generally the Lie derivative. There is a defect!
-- Connect with local integration via local Gauss maps.
+******** NEXT Gauss map and local integration
+	 :LOGBOOK:
+	 CLOCK: [2014-11-06 Thu 12:42]--[2014-11-06 Thu 13:52] =>  1:10
+	 :END:
 ******** NEXT Boundary conditions
 ******** NEXT Comment on characteristic function
 - should get a delta function across the free surface!

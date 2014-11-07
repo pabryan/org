@@ -1057,6 +1057,14 @@
 :END:
 [[papers:MR749103][MR749103-paper]]
 [[bib:MR749103][MR749103-bib]]
+** 55 (1940-now) Algebraic topology
+*** 55-01 (1973-now) Instructional exposition (textbooks, tutorial papers, etc.)
+**** Fibre bundles
+:PROPERTIES:
+:Custom_ID: MR1249482
+:END:
+[[papers:MR1249482][MR1249482-paper]]
+[[bib:MR1249482][MR1249482-bib]]
 ** 57 (1959-now) Manifolds and cell complexes [For complex manifolds, see 32Qxx]
 *** 57M (1980-now) Low-dimensional topology
 **** 57M40 (1980-now) Characterizations of E3 and S3 (Poincaré conjecture) [See also 57N12]
