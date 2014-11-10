@@ -118,7 +118,7 @@ Should be able to insert lecture planning/homework etc with a yassnippet?
 [2013-09-30 Mon 21:15]
 Add goals to agenda to remind myself each day. E.g. work, diet, exercise, general things like be patient, don't over-explain things etc.
 **** TODO Setup some agenda filter macros
-  SCHEDULED: <2014-11-10 Mon>
+  SCHEDULED: <2015-01-05 Mon>
   :PROPERTIES:
   :ID:       b7060562-fc53-44b0-8f52-d84dce4c177f
   :END:
@@ -587,14 +587,14 @@ Do I make a different TODO keyword for more trying out things/open ended type re
     :END:
 - This is just the ordinary diff with headlines thought of as files/directories (which can contain content and also other files which is slightly different to the filesystem). Recursing is just recursing headlines and reports can say things like "Headlines A and B differ" and we can show differences in contents of headlines.
 **** TODO Org calendar to google calendar
-  SCHEDULED: <2014-11-10 Mon>
+  SCHEDULED: <2015-01-05 Mon>
   :PROPERTIES:
   :ID:       00fc3ef7-df16-48c3-8fa3-f5b16e6c10d2
   :END:
 [2013-09-03 Tue 21:27]
 http://orgmode.org/worg/org-tutorials/org-google-sync.html
 **** TODO Focus agenda view should show next tasks for project?
-  SCHEDULED: <2014-11-10 Mon>
+  SCHEDULED: <2015-01-05 Mon>
   :LOGBOOK:
   CLOCK: [2013-09-14 Sat 19:43]--[2013-09-14 Sat 19:44] =>  0:01
   :END:
@@ -605,7 +605,7 @@ http://orgmode.org/worg/org-tutorials/org-google-sync.html
 
 *** Archiving
 **** TODO Archive things
-     SCHEDULED: <2014-11-10 Mon>
+     SCHEDULED: <2015-01-05 Mon>
   :PROPERTIES:
   :ID:       a1611ad9-0546-41d7-a584-9edb3ef77445
   :END:
@@ -614,7 +614,7 @@ http://orgmode.org/worg/org-tutorials/org-google-sync.html
 - archive working files for faster check_uncommited
 *** Agenda
 **** TODO Org agenda views
-  SCHEDULED: <2014-11-10 Mon>
+  SCHEDULED: <2015-01-05 Mon>
   :LOGBOOK:
   CLOCK: [2014-02-07 Fri 09:41]--[2014-02-07 Fri 09:44] =>  0:03
   :END:
@@ -632,7 +632,7 @@ I need to be able to focus on the right tasks which means not seeing all possibl
 - Personal agenda view
   - Non-work stuff
 **** TODO Create project agenda view
-  SCHEDULED: <2014-11-10 Mon>
+  SCHEDULED: <2015-01-05 Mon>
   :LOGBOOK:
   CLOCK: [2014-02-20 Thu 09:10]--[2014-02-20 Thu 09:11] =>  0:01
   :END:
@@ -641,7 +641,7 @@ I need to be able to focus on the right tasks which means not seeing all possibl
 It would be nice to narrow to a project and have it display sub-projects in an easy to browse manner
 <2014-04-01 Tue>
 **** TODO Create agenda blocks by type
-  SCHEDULED: <2014-11-10 Mon>
+  SCHEDULED: <2015-01-05 Mon>
   :LOGBOOK:
   CLOCK: [2014-04-29 Tue 10:49]--[2014-04-29 Tue 10:50] =>  0:01
   :END:
@@ -650,7 +650,7 @@ Create papers, teaching, referring block
 
 *** Configuration
 **** TODO Split up emacs-org files
-  SCHEDULED: <2014-11-10 Mon>
+  SCHEDULED: <2015-01-05 Mon>
   :LOGBOOK:
   CLOCK: [2014-03-18 Tue 17:44]--[2014-03-18 Tue 17:45] =>  0:01
   :END:
@@ -1847,6 +1847,9 @@ http://gmane.org
   :END:
 ** Organisation
   :LOGBOOK:
+  CLOCK: [2014-11-10 Mon 10:08]--[2014-11-10 Mon 10:24] =>  0:16
+  CLOCK: [2014-11-10 Mon 09:12]--[2014-11-10 Mon 09:46] =>  0:34
+  CLOCK: [2014-11-10 Mon 08:43]--[2014-11-10 Mon 08:44] =>  0:01
   CLOCK: [2014-11-07 Fri 14:15]--[2014-11-07 Fri 14:44] =>  0:29
   CLOCK: [2014-11-07 Fri 11:15]--[2014-11-07 Fri 11:19] =>  0:04
   CLOCK: [2014-11-07 Fri 08:34]--[2014-11-07 Fri 09:01] =>  0:27
@@ -3996,8 +3999,10 @@ When I set up scoring the day:
 - [ ] Collate data such as sleep, weight, exercise, diet etc.
 
 ** NEXT Daily Plan [0/7]
-   SCHEDULED: <2014-11-08 Sat .+1d/2d>
+   SCHEDULED: <2014-11-11 Tue .+1d/2d>
    :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2014-11-10 Mon 09:12]
+   CLOCK: [2014-11-10 Mon 08:44]--[2014-11-10 Mon 09:12] =>  0:28
    - State "DONE"       from "NEXT"       [2014-11-07 Fri 10:32]
    CLOCK: [2014-11-07 Fri 10:30]--[2014-11-07 Fri 10:32] =>  0:02
    - State "DONE"       from "NEXT"       [2014-11-06 Thu 09:59]
@@ -4869,7 +4874,7 @@ When I set up scoring the day:
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
    :ID:       ef051ee0-1113-4604-b355-450a5a47848b
-   :LAST_REPEAT: [2014-11-07 Fri 10:32]
+   :LAST_REPEAT: [2014-11-10 Mon 09:12]
    :END:
 
 - [ ] Check agenda/focus

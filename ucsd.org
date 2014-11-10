@@ -11587,7 +11587,10 @@ Lectures in calendar and tasks like planning lectures.
 	   :Effort:   1:00
 	   :END:
 
-********* TODO Week 4
+********* DONE Week 4
+	  :LOGBOOK:
+	  - State "DONE"       from "TODO"       [2014-11-10 Mon 09:35]
+	  :END:
 ********** DONE Prepare outline
 	   SCHEDULED: <2014-10-20 Mon>
 	   :LOGBOOK:
@@ -11626,7 +11629,10 @@ Lectures in calendar and tasks like planning lectures.
 	   :Effort:   1:00
 	   :END:
 
-********* TODO Week 5
+********* DONE Week 5
+	  :LOGBOOK:
+	  - State "DONE"       from "TODO"       [2014-11-10 Mon 09:35]
+	  :END:
 ********** DONE Prepare outline
 	   SCHEDULED: <2014-10-27 Mon>
 	   :LOGBOOK:
@@ -11666,7 +11672,10 @@ Lectures in calendar and tasks like planning lectures.
 	   :Effort:   1:00
 	   :END:
 
-********* TODO Week 6
+********* DONE Week 6
+	  :LOGBOOK:
+	  - State "DONE"       from "TODO"       [2014-11-10 Mon 09:35]
+	  :END:
 ********** DONE Prepare outline
 	   SCHEDULED: <2014-11-03 Mon>
 	   :LOGBOOK:
@@ -11937,9 +11946,10 @@ Lectures in calendar and tasks like planning lectures.
 	 :Effort:   1:00
 	 :END:
 
-******** NEXT Piazza week 5
+******** DONE Piazza week 5
 	  DEADLINE: <2014-11-09 Sun>
 	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2014-11-10 Mon 09:36]
 	  CLOCK: [2014-11-03 Mon 15:07]--[2014-11-03 Mon 15:10] =>  0:03
 	  :END:
 	 
@@ -12527,7 +12537,10 @@ Lectures in calendar and tasks like planning lectures.
 	   :Effort:   1:00
 	   :END:
 
-********* TODO Week 4
+********* DONE Week 4
+	  :LOGBOOK:
+	  - State "DONE"       from "TODO"       [2014-11-10 Mon 09:34]
+	  :END:
 ********** DONE Prepare outline
 	   SCHEDULED: <2014-10-20 Mon>
 	   :LOGBOOK:
@@ -12566,8 +12579,9 @@ Lectures in calendar and tasks like planning lectures.
 	   :Effort:   1:00
 	   :END:
 
-********* TODO Week 5
+********* DONE Week 5
 	  :LOGBOOK:
+	  - State "DONE"       from "TODO"       [2014-11-10 Mon 09:34]
 	  CLOCK: [2014-10-29 Wed 17:09]--[2014-10-29 Wed 17:18] =>  0:09
 	  :END:
 ********** DONE Prepare outline
@@ -12609,7 +12623,10 @@ Lectures in calendar and tasks like planning lectures.
 	   :Effort:   1:00
 	   :END:
 
-********* TODO Week 6
+********* DONE Week 6
+	  :LOGBOOK:
+	  - State "DONE"       from "TODO"       [2014-11-10 Mon 09:34]
+	  :END:
 ********** DONE Prepare outline
 	   SCHEDULED: <2014-11-03 Mon>
 	   :LOGBOOK:
@@ -12642,9 +12659,10 @@ Lectures in calendar and tasks like planning lectures.
 	   :Effort:   1:00
 	   :END:
 
-********** NEXT Prepare lec 6.3
+********** DONE Prepare lec 6.3
 	   SCHEDULED: <2014-11-05 Wed>
 	   :LOGBOOK:
+	   - State "DONE"       from "NEXT"       [2014-11-10 Mon 09:34]
 	   CLOCK: [2014-11-07 Fri 14:53]--[2014-11-07 Fri 16:04] =>  1:11
 	   :END:
 	   :PROPERTIES:
@@ -12798,13 +12816,24 @@ Lectures in calendar and tasks like planning lectures.
 	  :END:
 
 ******** TODO Midterm 2
-********* NEXT Write Midterm 2
+	 :LOGBOOK:
+	 CLOCK: [2014-11-10 Mon 10:07]--[2014-11-10 Mon 10:08] =>  0:01
+	 :END:
+********* DONE Write Midterm 2
 	  SCHEDULED: <2014-11-10 Mon>
+	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2014-11-10 Mon 10:07]
+	  CLOCK: [2014-11-10 Mon 09:46]--[2014-11-10 Mon 10:07] =>  0:21
+	  :END:
 	  :PROPERTIES:
 	  :Effort:   1:00
 	  :END:
-********* NEXT Get TA's comments
+********* WAITING Get TA's comments
 	  DEADLINE: <2014-11-12 Wed>
+	  :LOGBOOK:
+	  - State "WAITING"    from "NEXT"       [2014-11-10 Mon 10:07] \\
+	    Sent to TA for comments.
+	  :END:
 	  :PROPERTIES:
 	  :Effort:   0:10
 	  :END:
@@ -12963,8 +12992,11 @@ Lectures in calendar and tasks like planning lectures.
 	  :PROPERTIES:
 	  :Effort:   0:10
 	  :END:
-********* NEXT Add new students
+********* DONE Add new students
 	  DEADLINE: <2014-11-14 Fri>
+	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2014-11-10 Mon 09:05]
+	  :END:
 	  :PROPERTIES:
 	  :Effort:   0:10
 	  :END:
@@ -14217,7 +14249,7 @@ homeomorphic to S^4 or to a connected sum of CP^2s.
     - State "DONE"       from "NEXT"       [2012-11-03 Sat 18:51]
   CLOCK: [2012-10-26 Fri 15:07]--[2012-10-26 Fri 15:08] =>  0:01
 [2012-10-26 Fri 15:07]
-**** NEXT Send DG seminar email announcement
+**** WAITING Send DG seminar email announcement
      DEADLINE: <2014-11-06 Thu +1w -5d>
      
     - State "HOLD"       from "NEXT"       [2013-03-29 Fri 10:43] \\
@@ -14233,6 +14265,8 @@ homeomorphic to S^4 or to a connected sum of CP^2s.
     - State "DONE"       from "NEXT"       [2012-12-06 Thu 14:00]
     - State "DONE"       from "TODO"       [2012-11-29 Thu 09:46]
     :LOGBOOK:
+    - State "WAITING"    from "NEXT"       [2014-11-10 Mon 09:04] \\
+      Waiting on room confirmation.
     - State "DONE"       from "NEXT"       [2014-03-15 Sat 22:44]
     - State "DONE"       from "NEXT"       [2014-03-10 Mon 18:38]
     - State "DONE"       from "NEXT"       [2014-03-01 Sat 09:52]
