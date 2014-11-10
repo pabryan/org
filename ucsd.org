@@ -11959,6 +11959,9 @@ Lectures in calendar and tasks like planning lectures.
 
 ******** NEXT Piazza week 6
 	  DEADLINE: <2014-11-16 Sun>
+	  :LOGBOOK:
+	  CLOCK: [2014-11-10 Mon 11:24]--[2014-11-10 Mon 11:25] =>  0:01
+	  :END:
 	 
 	 :PROPERTIES:
 	 :Effort:   1:00
@@ -12677,6 +12680,9 @@ Lectures in calendar and tasks like planning lectures.
 	   :END:
 ********** NEXT Prepare lec 7.1
 	   SCHEDULED: <2014-11-10 Mon>
+	   :LOGBOOK:
+	   CLOCK: [2014-11-10 Mon 11:25]
+	   :END:
 	   :PROPERTIES:
 	   :Effort:   1:00
 	   :END:
