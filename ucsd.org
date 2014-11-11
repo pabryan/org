@@ -11974,6 +11974,7 @@ Lectures in calendar and tasks like planning lectures.
 ******** NEXT Piazza week 6
 	  DEADLINE: <2014-11-16 Sun>
 	  :LOGBOOK:
+	  CLOCK: [2014-11-10 Mon 16:36]
 	  CLOCK: [2014-11-10 Mon 11:24]--[2014-11-10 Mon 11:25] =>  0:01
 	  :END:
 	 
@@ -12696,7 +12697,6 @@ Lectures in calendar and tasks like planning lectures.
 
 ********* DONE Week 7
 	  :LOGBOOK:
-	  CLOCK: [2014-11-10 Mon 16:33]
 	  - State "DONE"       from "TODO"       [2014-11-10 Mon 16:06]
 	  :END:
 ********** DONE Prepare outline
@@ -14303,22 +14303,12 @@ homeomorphic to S^4 or to a connected sum of CP^2s.
     - State "DONE"       from "NEXT"       [2012-11-03 Sat 18:51]
   CLOCK: [2012-10-26 Fri 15:07]--[2012-10-26 Fri 15:08] =>  0:01
 [2012-10-26 Fri 15:07]
-**** NEXT Send DG seminar email announcement
-     DEADLINE: <2014-11-13 Thu +1w -5d>
+**** HOLD Send DG seminar email announcement
+     # DEADLINE: <2014-11-20 Thu +1w -5d>
      
-    - State "HOLD"       from "NEXT"       [2013-03-29 Fri 10:43] \\
-      Lei and I will do an informal seminar instead.
-    - State "DONE"       from "NEXT"       [2013-02-25 Mon 11:25]
-    - State "DONE"       from "NEXT"       [2013-02-16 Sat 20:18]
-    - State "DONE"       from "NEXT"       [2013-02-06 Wed 14:48]
-    - State "DONE"       from "NEXT"       [2013-02-01 Fri 11:19]
-    - State "DONE"       from "NEXT"       [2013-01-25 Fri 14:04]
-    - State "DONE"       from "NEXT"       [2013-01-17 Thu 16:41]
-    - State "DONE"       from "NEXT"       [2013-01-10 Thu 09:20]
-    - State "DONE"       from "NEXT"       [2013-01-03 Thu 10:26]
-    - State "DONE"       from "NEXT"       [2012-12-06 Thu 14:00]
-    - State "DONE"       from "TODO"       [2012-11-29 Thu 09:46]
     :LOGBOOK:
+    - State "HOLD"       from "NEXT"       [2014-11-10 Mon 16:36] \\
+      No more seminars scheduled.
     - State "DONE"       from "WAITING"    [2014-11-10 Mon 11:43]
     - State "WAITING"    from "NEXT"       [2014-11-10 Mon 09:04] \\
       Waiting on room confirmation.
@@ -14340,15 +14330,27 @@ homeomorphic to S^4 or to a connected sum of CP^2s.
     - State "DONE"       from "NEXT"       [2013-10-21 Mon 12:42]
     - State "DONE"       from "NEXT"       [2013-10-17 Thu 17:28]
     - State "DONE"       from "TODO"       [2013-10-07 Mon 11:21]
+    - State "HOLD"       from "NEXT"       [2013-03-29 Fri 10:43] \\
+      Lei and I will do an informal seminar instead.
+    - State "DONE"       from "NEXT"       [2013-02-25 Mon 11:25]
+    - State "DONE"       from "NEXT"       [2013-02-16 Sat 20:18]
     CLOCK: [2013-02-16 Sat 20:11]--[2013-02-16 Sat 20:18] =>  0:07
+    - State "DONE"       from "NEXT"       [2013-02-06 Wed 14:48]
+    - State "DONE"       from "NEXT"       [2013-02-01 Fri 11:19]
     CLOCK: [2013-02-01 Fri 11:13]--[2013-02-01 Fri 11:19] =>  0:06
+    - State "DONE"       from "NEXT"       [2013-01-25 Fri 14:04]
+    - State "DONE"       from "NEXT"       [2013-01-17 Thu 16:41]
     CLOCK: [2013-01-17 Thu 16:38]--[2013-01-17 Thu 16:41] =>  0:03
+    - State "DONE"       from "NEXT"       [2013-01-10 Thu 09:20]
     CLOCK: [2013-01-10 Thu 09:16]--[2013-01-10 Thu 09:20] =>  0:04
+    - State "DONE"       from "NEXT"       [2013-01-03 Thu 10:26]
+    - State "DONE"       from "NEXT"       [2012-12-06 Thu 14:00]
+    - State "DONE"       from "TODO"       [2012-11-29 Thu 09:46]
     :END:
     :PROPERTIES:
     :ID:       0f19da7c-65a3-4e95-8a91-78d12caa46da
     :REPEAT_TO_STATE: NEXT
-    :LAST_REPEAT: [2014-11-10 Mon 11:43]
+    :LAST_REPEAT: [2014-11-10 Mon 16:34]
     :END: 
 
 [[mailto:seminarstaff@math.ucsd.edu]]
