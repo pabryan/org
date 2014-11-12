@@ -1075,6 +1075,13 @@
 [[papers:MR2334563][MR2334563-paper]]
 [[bib:MR2334563][MR2334563-bib]]
 ** 58 (1973-now) Global analysis, analysis on manifolds [See also 32Cxx, 32Fxx, 32Wxx, 46-XX, 47Hxx, 53Cxx] [For geometric integration theory, see 49Q15] :global:manifolds:geometry:
+*** 58-01 (1973-now) Instructional exposition (textbooks, tutorial papers, etc.)
+**** Manifolds, tensor analysis, and applications
+:PROPERTIES:
+:Custom_ID: MR960687
+:END:
+[[papers:MR960687][MR960687-paper]]
+[[bib:MR960687][MR960687-bib]]
 *** 58-02 (1973-now) Research exposition (monographs, survey articles)
 **** Some nonlinear problems in {R}iemannian geometry
 :PROPERTIES:
@@ -1327,6 +1334,15 @@ Here I need to do some more work since $u \mapsto g(\grad u, \grad u)$ is not a 
 :END:
 [[papers:MR2170766][MR2170766-paper]]
 
+** 74 (2000-now) Mechanics of deformable solids
+*** 74A (2000-now) Generalities, axiomatics, foundations of continuum mechanics of solids
+**** 74A05 (2000-now) Kinematics of deformation
+***** On the geometric character of stress in continuum mechanics
+:PROPERTIES:
+:Custom_ID: MR2352963
+:END:
+[[papers:MR2352963][MR2352963-paper]]
+[[bib:MR2352963][MR2352963-bib]]
 * ZBMath
 ** Sur les surfaces \`a courbure n\'egative.
 :PROPERTIES:

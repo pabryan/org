@@ -2088,6 +2088,7 @@ i.e. is the density defined on B or B_t?
 - The material derivative of a tensor field tensor the density is not generally the Lie derivative. There is a defect!
 ******** NEXT Gauss map and local integration
 	 :LOGBOOK:
+	 CLOCK: [2014-11-12 Wed 09:38]--[2014-11-12 Wed 10:18] =>  0:40
 	 CLOCK: [2014-11-06 Thu 12:42]--[2014-11-06 Thu 13:52] =>  1:10
 	 :END:
 ******** NEXT Boundary conditions
