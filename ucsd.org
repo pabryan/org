@@ -13400,6 +13400,9 @@ Lectures in calendar and tasks like planning lectures.
 	 :END:
 
 ******** NEXT O/H Week 6
+	 :LOGBOOK:
+	 CLOCK: [2014-11-12 Wed 15:11]--[2014-11-12 Wed 17:11] =>  2:00
+	 :END:
 	 <2014-11-12 Wed 15:00-17:00>
 	 :PROPERTIES:
 	 :Effort:   2:00
