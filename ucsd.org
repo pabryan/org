@@ -14311,6 +14311,9 @@ homeomorphic to S^4 or to a connected sum of CP^2s.
 - Abstract: We study Hodge theory for symplectic Laplacians on compact symplectic manifolds with boundary. These Laplacians are novel as they can be associated with symplectic cohomologies and be of fourth-order. We prove various Hodge decompositions and use them to obtain the isomorphisms between the cohomologies and the spaces of harmonic ﬁelds with certain prescribed boundary conditions. In order to establish Hodge theory in the non-vanishing boundary case, we are required to introduce new concepts such as the J!Dirichlet boundary condition and the J!Neumann boundary condition. When the boundary is of contact type, these conditions are closely related to the Reeb vector ﬁeld. Another application of our results is to solve boundary value problems of differential forms.
 **** 2014/2015
 ***** Joseph Palmer
+      :LOGBOOK:
+      CLOCK: [2014-11-13 Thu 09:52]
+      :END:
       <2014-11-13 Thu 10:00-11:00>
 *** Tasks
 **** DONE Set up reminder for seminar announcement
