@@ -11715,10 +11715,7 @@ Lectures in calendar and tasks like planning lectures.
 	   :Effort:   1:00
 	   :END:
 
-********* TODO Week 7
-	  :LOGBOOK:
-	  CLOCK: [2014-11-10 Mon 11:43]--[2014-11-10 Mon 11:44] =>  0:01
-	  :END:
+********* TODO Week 7	  
 ********** DONE Prepare outline
 	   SCHEDULED: <2014-11-10 Mon>
 	   :LOGBOOK:
@@ -11975,9 +11972,10 @@ Lectures in calendar and tasks like planning lectures.
 	 :Effort:   1:00
 	 :END:
 
-******** NEXT Piazza week 6
+******** DONE Piazza week 6
 	  DEADLINE: <2014-11-16 Sun>
 	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2014-11-15 Sat 19:31]
 	  CLOCK: [2014-11-12 Wed 09:28]--[2014-11-12 Wed 09:35] =>  0:07
 	  CLOCK: [2014-11-10 Mon 16:36]--[2014-11-10 Mon 16:48] =>  0:12
 	  CLOCK: [2014-11-10 Mon 11:24]--[2014-11-10 Mon 11:25] =>  0:01
@@ -12187,8 +12185,9 @@ Lectures in calendar and tasks like planning lectures.
 	  :PROPERTIES:
 	  :Effort:   1:00
 	  :END:
-********* NEXT Lecture 6.2
+********* DONE Lecture 6.2
 	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2014-11-15 Sat 19:35]
 	  CLOCK: [2014-11-12 Wed 11:48]--[2014-11-12 Wed 12:50] =>  1:02
 	  :END:
 	  <2014-11-12 Wed 11:55-12:55>
@@ -12890,9 +12889,10 @@ Lectures in calendar and tasks like planning lectures.
 	  :PROPERTIES:
 	  :Effort:   1:00
 	  :END:
-********* WAITING Get TA's comments
+********* DONE Get TA's comments
 	  DEADLINE: <2014-11-12 Wed>
 	  :LOGBOOK:
+	  - State "DONE"       from "WAITING"    [2014-11-15 Sat 19:30]
 	  - State "WAITING"    from "NEXT"       [2014-11-10 Mon 10:07] \\
 	    Sent to TA for comments.
 	  :END:
@@ -13254,8 +13254,9 @@ Lectures in calendar and tasks like planning lectures.
 	  :PROPERTIES:
 	  :Effort:   1:00
 	  :END:
-********* NEXT Lecture 6.2
+********* DONE Lecture 6.2
 	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2014-11-15 Sat 19:35]
 	  CLOCK: [2014-11-12 Wed 12:50]--[2014-11-12 Wed 14:11] =>  1:21
 	  :END:
 	  <2014-11-12 Wed 12:55-13:55>
@@ -13407,8 +13408,9 @@ Lectures in calendar and tasks like planning lectures.
 	 :Effort:   2:00
 	 :END:
 
-******** NEXT O/H Week 6
+******** DONE O/H Week 6
 	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2014-11-15 Sat 19:35]
 	 CLOCK: [2014-11-12 Wed 15:11]--[2014-11-12 Wed 17:11] =>  2:00
 	 :END:
 	 <2014-11-12 Wed 15:00-17:00>
