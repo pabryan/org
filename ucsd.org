@@ -12899,8 +12899,13 @@ Lectures in calendar and tasks like planning lectures.
 	  :PROPERTIES:
 	  :Effort:   0:10
 	  :END:
-********* NEXT Update exam based on TA comments
+********* DONE Update exam based on TA comments
 	  DEADLINE: <2014-11-14 Fri>
+	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2014-11-17 Mon 10:20]
+	  CLOCK: [2014-11-17 Mon 09:35]--[2014-11-17 Mon 10:20] =>  0:45
+	  CLOCK: [2014-11-17 Mon 09:00]--[2014-11-17 Mon 09:22] =>  0:22
+	  :END:
 	  :PROPERTIES:
 	  :Effort:   0:15
 	  :END:
