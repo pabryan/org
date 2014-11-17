@@ -11991,6 +11991,9 @@ Lectures in calendar and tasks like planning lectures.
 
 ******** NEXT Piazza week 7
 	  DEADLINE: <2014-11-23 Sun>
+	  :LOGBOOK:
+	  CLOCK: [2014-11-17 Mon 15:06]
+	  :END:
 	 
 	 :PROPERTIES:
 	 :Effort:   1:00
@@ -12209,9 +12212,10 @@ Lectures in calendar and tasks like planning lectures.
 	  :Effort:   1:00
 	  :END:
 ******** TODO Week 7
-********* NEXT Lecture 7.1
+********* DONE Lecture 7.1
 	  :LOGBOOK:
-	  CLOCK: [2014-11-17 Mon 11:45]
+	  - State "DONE"       from "NEXT"       [2014-11-17 Mon 14:17]
+	  CLOCK: [2014-11-17 Mon 11:45]--[2014-11-17 Mon 12:55] =>  1:10
 	  :END:
 	  <2014-11-17 Mon 11:55-12:55>
 	  :PROPERTIES:
@@ -12360,6 +12364,9 @@ Lectures in calendar and tasks like planning lectures.
 	 :END:
 
 ******** NEXT O/H Week 7
+	 :LOGBOOK:
+	 CLOCK: [2014-11-17 Mon 15:00]--[2014-11-17 Mon 17:00] =>  2:00
+	 :END:
 	 <2014-11-17 Mon 15:00-17:00>
 	 :PROPERTIES:
 	 :Effort:   2:00
@@ -13096,6 +13103,7 @@ Lectures in calendar and tasks like planning lectures.
 	   :PROPERTIES:
 	   :Effort:   0:30
 	   :END:
+********** NEXT Continuity of $x^n$
 ******* TODO Grades
 ******** NEXT Create grade spreadsheet
 	 DEADLINE: <2014-12-22 Mon>
@@ -13289,7 +13297,11 @@ Lectures in calendar and tasks like planning lectures.
 	  :Effort:   1:00
 	  :END:
 ******** TODO Week 7
-********* NEXT Lecture 7.1
+********* DONE Lecture 7.1
+	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2014-11-17 Mon 14:17]
+	  CLOCK: [2014-11-17 Mon 12:55]--[2014-11-17 Mon 14:17] =>  1:22
+	  :END:
 	  <2014-11-17 Mon 12:55-13:55>
 	  :PROPERTIES:
 	  :Effort:   1:00
