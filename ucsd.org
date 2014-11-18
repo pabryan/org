@@ -11766,6 +11766,9 @@ Lectures in calendar and tasks like planning lectures.
 	   :END:
 ********** NEXT Prepare lec 8.1
 	   SCHEDULED: <2014-11-17 Mon>
+	   :LOGBOOK:
+	   CLOCK: [2014-11-17 Mon 16:11]
+	   :END:
 	   :PROPERTIES:
 	   :Effort:   1:00
 	   :END:
@@ -11992,7 +11995,7 @@ Lectures in calendar and tasks like planning lectures.
 ******** NEXT Piazza week 7
 	  DEADLINE: <2014-11-23 Sun>
 	  :LOGBOOK:
-	  CLOCK: [2014-11-17 Mon 15:06]
+	  CLOCK: [2014-11-17 Mon 15:06]--[2014-11-17 Mon 15:10] =>  0:04
 	  :END:
 	 
 	 :PROPERTIES:
@@ -13103,7 +13106,12 @@ Lectures in calendar and tasks like planning lectures.
 	   :PROPERTIES:
 	   :Effort:   0:30
 	   :END:
-********** NEXT Continuity of $x^n$
+********** DONE Continuity of $x^n$
+	   :LOGBOOK:
+	   - State "DONE"       from "NEXT"       [2014-11-17 Mon 16:11]
+	   CLOCK: [2014-11-17 Mon 15:53]--[2014-11-17 Mon 16:11] =>  0:18
+	   CLOCK: [2014-11-17 Mon 15:10]--[2014-11-17 Mon 15:13] =>  0:03
+	   :END:
 ******* TODO Grades
 ******** NEXT Create grade spreadsheet
 	 DEADLINE: <2014-12-22 Mon>
