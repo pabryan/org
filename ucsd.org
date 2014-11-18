@@ -12935,10 +12935,11 @@ Lectures in calendar and tasks like planning lectures.
 	  :PROPERTIES:
 	  :Effort:   0:10
 	  :END:
-********* NEXT Write rubric
+********* DONE Write rubric
 	  DEADLINE: <2014-11-21 Fri>
 	  :LOGBOOK:
-	  CLOCK: [2014-11-17 Mon 16:40]
+	  - State "DONE"       from "NEXT"       [2014-11-17 Mon 17:02]
+	  CLOCK: [2014-11-17 Mon 16:40]--[2014-11-17 Mon 17:02] =>  0:22
 	  :END:
 	  :PROPERTIES:
 	  :Effort:   0:30

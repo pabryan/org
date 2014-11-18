@@ -3567,8 +3567,9 @@ Set some goals for the month. I should check someday projects for inclusion in t
 Check how I did last month. I guess the review and plan could probably go together. This is all broad stuff
 
 ** NEXT Daily Review [0/12]
-   SCHEDULED: <2014-11-16 Sun .+1d/2d>
+   SCHEDULED: <2014-11-18 Tue .+1d/2d>
    :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2014-11-17 Mon 17:02]
    - State "DONE"       from "NEXT"       [2014-11-15 Sat 19:31]
    - State "DONE"       from "NEXT"       [2014-11-12 Wed 18:06]
    CLOCK: [2014-11-10 Mon 16:48]--[2014-11-10 Mon 16:51] =>  0:03
@@ -4004,7 +4005,7 @@ Check how I did last month. I guess the review and plan could probably go togeth
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
    :ID:       616c5bd9-d941-4fcc-8874-2ff3c9e96b4a
-   :LAST_REPEAT: [2014-11-15 Sat 19:31]
+   :LAST_REPEAT: [2014-11-17 Mon 17:02]
    :END:
 
 What to review:
