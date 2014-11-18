@@ -12937,6 +12937,9 @@ Lectures in calendar and tasks like planning lectures.
 	  :END:
 ********* NEXT Write rubric
 	  DEADLINE: <2014-11-21 Fri>
+	  :LOGBOOK:
+	  CLOCK: [2014-11-17 Mon 16:40]
+	  :END:
 	  :PROPERTIES:
 	  :Effort:   0:30
 	  :END:
