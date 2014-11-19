@@ -5033,6 +5033,9 @@ Rowland Hall 340P
        CLOCK: [2014-03-06 Thu 15:27]--[2014-03-06 Thu 15:54] =>  0:27
        :END:
 ***** Fall
+      :LOGBOOK:
+      CLOCK: [2014-11-18 Tue 10:05]--[2014-11-18 Tue 21:30] => 11:25
+      :END:
 <2014-11-18 Tue 10:00-19:00>
 ** UCSC
 *** DONE Winter 2014 Colloquium					      :FOCUS:
