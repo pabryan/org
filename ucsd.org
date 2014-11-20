@@ -13058,7 +13058,10 @@ Lectures in calendar and tasks like planning lectures.
 	 :PROPERTIES:
 	 :Effort:   0:30
 	 :END:
-******** TODO Add students
+******** DONE Add students
+	 :LOGBOOK:
+	 - State "DONE"       from "TODO"       [2014-11-19 Wed 17:05]
+	 :END:
 ********* DONE Add new students
 	  DEADLINE: <2014-10-11 Sat>
 	  :LOGBOOK:
@@ -13137,6 +13140,8 @@ Lectures in calendar and tasks like planning lectures.
 	   CLOCK: [2014-11-17 Mon 15:53]--[2014-11-17 Mon 16:11] =>  0:18
 	   CLOCK: [2014-11-17 Mon 15:10]--[2014-11-17 Mon 15:13] =>  0:03
 	   :END:
+********** NEXT Write thm's about closure
+	   DEADLINE: <2014-11-20 Thu>
 ******* TODO Grades
 ******** NEXT Create grade spreadsheet
 	 DEADLINE: <2014-12-22 Mon>
@@ -13148,6 +13153,10 @@ Lectures in calendar and tasks like planning lectures.
 	 :PROPERTIES:
 	 :Effort:   0:15
 	 :END:
+******* TODO Office hours
+******** NEXT Set office hours for week 8
+	 DEADLINE: <2014-11-21 Fri>
+
 ****** Clocking
 ****** Schedule
 ******* TODO Lectures
