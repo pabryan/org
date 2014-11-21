@@ -12001,9 +12001,10 @@ Lectures in calendar and tasks like planning lectures.
 	 :Effort:   1:00
 	 :END:
 
-******** NEXT Piazza week 7
+******** DONE Piazza week 7
 	  DEADLINE: <2014-11-23 Sun>
 	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2014-11-21 Fri 14:29]
 	  CLOCK: [2014-11-17 Mon 15:06]--[2014-11-17 Mon 15:10] =>  0:04
 	  :END:
 	 
@@ -12243,9 +12244,10 @@ Lectures in calendar and tasks like planning lectures.
 	  :Effort:   1:00
 	  :END:
 
-********* NEXT Lecture 7.3
+********* DONE Lecture 7.3
 	  :LOGBOOK:
-	  CLOCK: [2014-11-21 Fri 11:44]
+	  - State "DONE"       from "NEXT"       [2014-11-21 Fri 14:29]
+	  CLOCK: [2014-11-21 Fri 11:44]--[2014-11-21 Fri 12:50] =>  1:06
 	  :END:
 	  <2014-11-21 Fri 11:55-12:55>
 	  :PROPERTIES:
@@ -12386,8 +12388,9 @@ Lectures in calendar and tasks like planning lectures.
 	 :Effort:   2:00
 	 :END:
 
-******** NEXT O/H Week 7
+******** DONE O/H Week 7
 	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2014-11-21 Fri 14:30]
 	 CLOCK: [2014-11-17 Mon 15:00]--[2014-11-17 Mon 17:00] =>  2:00
 	 :END:
 	 <2014-11-17 Mon 15:00-17:00>
@@ -13363,7 +13366,11 @@ Lectures in calendar and tasks like planning lectures.
 	  :Effort:   1:00
 	  :END:
 
-********* NEXT Lecture 7.3
+********* DONE Lecture 7.3
+	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2014-11-21 Fri 14:29]
+	  CLOCK: [2014-11-21 Fri 12:50]--[2014-11-21 Fri 14:05] =>  1:15
+	  :END:
 	  <2014-11-21 Fri 12:55-13:55>
 	  :PROPERTIES:
 	  :Effort:   1:00
@@ -13429,7 +13436,10 @@ Lectures in calendar and tasks like planning lectures.
 	 :PROPERTIES:
 	 :Effort:   1:30
 	 :END:
-******** NEXT Midterm 2
+******** DONE Midterm 2
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2014-11-21 Fri 14:29]
+	 :END:
 	 <2014-11-21 Fri 12:55-14:05>
 	 :PROPERTIES:
 	 :Effort:   1:30
@@ -13544,6 +13554,12 @@ Lectures in calendar and tasks like planning lectures.
 	 :Effort:   1:00
 	 :END:
 <2014-10-27 Mon 14:55-15:05>
+******** NEXT Analysis lecture
+	 :PROPERTIES:
+	 :Effort:   1:00
+	 :END:
+<2014-12-05 Fri 14:55-15:05>
+
 ******* Tasks
 ******** DONE Prepare Lei Ni Analysis lecture
 	 DEADLINE: <2014-10-26 Sun>
@@ -13555,7 +13571,11 @@ Lectures in calendar and tasks like planning lectures.
 	 :PROPERTIES:
 	 :Effort:   1:00
 	 :END:
-
+******** NEXT Prepare Lei Ni Analysis lecture
+	 DEADLINE: <2014-12-03 Wed>
+	 :PROPERTIES:
+	 :Effort:   1:00
+	 :END:
 **** Winter 2015
 ***** TODO Math20B
 ****** Files
