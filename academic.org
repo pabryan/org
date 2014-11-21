@@ -6013,6 +6013,33 @@ http://www.uni-freiburg.de/administration/stellenboerse?erf=y&stellenid=8792&lay
 - Contact: [[mailto:sci-maths-jobs@monash.edu]]
 - [[file:~/working/academic/jobs/job_applications/monash_524967]]
 
+***** DONE Warwick
+      DEADLINE: <2014-10-12 Sun>
+      :LOGBOOK:
+      - State "DONE"       from "NEXT"       [2014-10-04 Sat 15:01]
+      CLOCK: [2014-10-04 Sat 14:41]--[2014-10-04 Sat 15:01] =>  0:20
+      CLOCK: [2014-10-03 Fri 18:50]--[2014-10-03 Fri 19:39] =>  0:49
+      CLOCK: [2014-10-03 Fri 17:10]--[2014-10-03 Fri 17:55] =>  0:45
+      :END:
+https://www.mathjobs.org/jobs/jobs/6132
+***** NEXT Warwick
+      DEADLINE: <2014-12-08 Mon>
+https://atsv7.wcn.co.uk/search_engine/jobs.cgi?owner=5062452&ownertype=fair&jcode=1444672&vt_template=1457&adminview=1
+***** CANCELLED Maquarie
+      :LOGBOOK:
+      - State "CANCELLED"  from "NEXT"       [2014-11-07 Fri 11:18] \\
+       	They cancelled the job.
+      :END:
+
+***** NEXT Max Planck
+     DEADLINE: <2014-12-31 Wed>
+     :LOGBOOK:
+     CLOCK: [2014-11-07 Fri 11:19]--[2014-11-07 Fri 11:24] =>  0:05
+     :END:
+http://www.mis.mpg.de/institute/application/postdoc
+http://www.mis.mpg.de/institute/application/postdoc-submission.html
+PAUL_2149
+
 **** DONE Update application documents
      SCHEDULED: <2014-10-02 Thu>
      :LOGBOOK:
@@ -6044,15 +6071,6 @@ http://www.uni-freiburg.de/administration/stellenboerse?erf=y&stellenid=8792&lay
       - State "DONE"       from "NEXT"       [2014-10-03 Fri 17:07]
       CLOCK: [2014-10-03 Fri 16:23]--[2014-10-03 Fri 17:07] =>  0:44
       :END:
-**** DONE Warwick
-      DEADLINE: <2014-10-12 Sun>
-      :LOGBOOK:
-      - State "DONE"       from "NEXT"       [2014-10-04 Sat 15:01]
-      CLOCK: [2014-10-04 Sat 14:41]--[2014-10-04 Sat 15:01] =>  0:20
-      CLOCK: [2014-10-03 Fri 18:50]--[2014-10-03 Fri 19:39] =>  0:49
-      CLOCK: [2014-10-03 Fri 17:10]--[2014-10-03 Fri 17:55] =>  0:45
-      :END:
-https://www.mathjobs.org/jobs/jobs/6132
 **** Math Jobs
 ***** DONE Berkeley
       DEADLINE: <2014-12-15 Mon>
@@ -6197,20 +6215,6 @@ https://www.mathjobs.org/jobs?joblist-971-5895
       :END:
 https://academicjobsonline.org/ajo/jobs/4243
 https://academicjobsonline.org/ajo/jobs/4242
-**** CANCELLED Maquarie
-     :LOGBOOK:
-     - State "CANCELLED"  from "NEXT"       [2014-11-07 Fri 11:18] \\
-       They cancelled the job.
-     :END:
-
-**** NEXT Max Planck
-     DEADLINE: <2014-12-31 Wed>
-     :LOGBOOK:
-     CLOCK: [2014-11-07 Fri 11:19]--[2014-11-07 Fri 11:24] =>  0:05
-     :END:
-http://www.mis.mpg.de/institute/application/postdoc
-http://www.mis.mpg.de/institute/application/postdoc-submission.html
-PAUL_2149
 * Visiting
 ** Tasks
 ** People
