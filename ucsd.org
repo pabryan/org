@@ -12004,6 +12004,7 @@ Lectures in calendar and tasks like planning lectures.
 ******** NEXT Piazza week 7
 	  DEADLINE: <2014-11-23 Sun>
 	  :LOGBOOK:
+	  CLOCK: [2014-11-20 Thu 11:12]--[2014-11-20 Thu 11:17] =>  0:05
 	  CLOCK: [2014-11-17 Mon 15:06]--[2014-11-17 Mon 15:10] =>  0:04
 	  :END:
 	 
@@ -13115,6 +13116,7 @@ Lectures in calendar and tasks like planning lectures.
 	  :END:
 ******** TODO Write notes
 	 :LOGBOOK:
+	 CLOCK: [2014-11-20 Thu 11:11]--[2014-11-20 Thu 11:12] =>  0:01
 	 CLOCK: [2014-10-15 Wed 18:31]--[2014-10-15 Wed 20:08] =>  1:37
 	 :END:
 ********** DONE Write proof $\RR$ is the only complete ordered field
@@ -13138,8 +13140,12 @@ Lectures in calendar and tasks like planning lectures.
 	   CLOCK: [2014-11-17 Mon 15:53]--[2014-11-17 Mon 16:11] =>  0:18
 	   CLOCK: [2014-11-17 Mon 15:10]--[2014-11-17 Mon 15:13] =>  0:03
 	   :END:
-********** NEXT Write thm's about closure
+********** DONE Write thm's about closure
 	   DEADLINE: <2014-11-20 Thu>
+	   :LOGBOOK:
+	   - State "DONE"       from "NEXT"       [2014-11-20 Thu 11:11]
+	   CLOCK: [2014-11-20 Thu 10:54]--[2014-11-20 Thu 11:11] =>  0:17
+	   :END:
 ******* TODO Grades
 ******** NEXT Create grade spreadsheet
 	 DEADLINE: <2014-12-22 Mon>
