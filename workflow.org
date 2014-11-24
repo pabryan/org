@@ -1111,7 +1111,7 @@ Levenger?
 - Projects should have a larger folder with papers, notes etc.
 
 **** TODO Make weekly paper review/check task
-  SCHEDULED: <2014-11-24 Mon>
+  SCHEDULED: <2015-01-05 Mon>
   :LOGBOOK:
   CLOCK: [2013-08-27 Tue 10:33]--[2013-08-27 Tue 10:34] =>  0:01
   :END:
@@ -1463,7 +1463,7 @@ http://askubuntu.com/questions/198136/error-when-trying-to-connect-to-vpn-on-sta
 - oldpaul
 - uni 
 **** TODO organise external working
-  SCHEDULED: <2014-11-24 Mon>
+  SCHEDULED: <2015-01-05 Mon>
   :LOGBOOK:
   CLOCK: [2013-08-06 Tue 21:01]--[2013-08-06 Tue 21:05] =>  0:04
   :END:
@@ -1500,7 +1500,7 @@ http://askubuntu.com/questions/198136/error-when-trying-to-connect-to-vpn-on-sta
 [2013-08-06 Tue 21:05]
 this way I can track upstream and keep my work independent and then merge, push to upstream etc. as appropriate
 **** TODO Make a list of required software
-  SCHEDULED: <2014-11-24 Mon>
+  SCHEDULED: <2015-01-05 Mon>
   :LOGBOOK:
   CLOCK: [2013-08-09 Fri 09:20]--[2013-08-09 Fri 09:22] =>  0:02
   :END:
@@ -1601,16 +1601,16 @@ I need to separately create the master since otherwise it hangs. Probably I'll n
 
 **** TODO Version Control
 ***** NEXT use emacs to do vc stuff
-  SCHEDULED: <2014-11-24 Mon>
+  SCHEDULED: <2015-01-05 Mon>
 [2014-02-28 Fri 11:45]
 ***** NEXT Check out patch-commit
-     SCHEDULED: <2014-11-24 Mon>
+     SCHEDULED: <2015-01-05 Mon>
   <2014-04-06 Sun>
 [2014-03-15 Sat 22:38]
 
 http://porkrind.org/commit-patch/
 ***** NEXT Auto sync working
-     SCHEDULED: <2014-11-24 Mon>
+     SCHEDULED: <2015-01-05 Mon>
   :LOGBOOK:
   CLOCK: [2014-03-18 Tue 17:42]--[2014-03-18 Tue 17:43] =>  0:01
   :END:
@@ -1666,7 +1666,7 @@ yajl-ruby (1.1.0)
 ** emacs
 *** Tasks
 **** TODO Emacs coding setup
-     SCHEDULED: <2014-11-24 Mon>
+     SCHEDULED: <2015-01-05 Mon>
   :LOGBOOK:
   CLOCK: [2014-03-31 Mon 19:01]--[2014-03-31 Mon 19:03] =>  0:02
   :END:
@@ -1706,7 +1706,7 @@ yajl-ruby (1.1.0)
      :ID:       59fb7afd-3134-4ef9-80d6-391b05284663
      :END:
 ***** NEXT Set up offlineimap
-    SCHEDULED: <2014-11-24 Mon>
+    SCHEDULED: <2015-01-05 Mon>
     :PROPERTIES:
     :ID:       8e34b366-070d-4735-bad1-9c8fba262783
     :END:
@@ -4049,8 +4049,10 @@ When I set up scoring the day:
 - [ ] Collate data such as sleep, weight, exercise, diet etc.
 
 ** NEXT Daily Plan [0/7]
-   SCHEDULED: <2014-11-24 Mon .+1d/2d>
+   SCHEDULED: <2014-11-25 Tue .+1d/2d>
    :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2014-11-24 Mon 09:44]
+   CLOCK: [2014-11-24 Mon 09:34]--[2014-11-24 Mon 09:44] =>  0:10
    - State "DONE"       from "NEXT"       [2014-11-23 Sun 09:53]
    CLOCK: [2014-11-23 Sun 09:47]--[2014-11-23 Sun 09:53] =>  0:06
    - State "DONE"       from "NEXT"       [2014-11-22 Sat 21:16]
@@ -4945,7 +4947,7 @@ When I set up scoring the day:
    :RESET_CHECK_BOXES: t
    :ID:       ef051ee0-1113-4604-b355-450a5a47848b
    
-   :LAST_REPEAT: [2014-11-23 Sun 09:53]
+   :LAST_REPEAT: [2014-11-24 Mon 09:44]
    :END:
 
 - [ ] Check agenda/focus
@@ -4957,9 +4959,10 @@ When I set up scoring the day:
 - [ ] Do short tasks
 - [ ] Record morning health stats
 
-** NEXT Weekly Review [17/20]
+** NEXT Weekly Review [10/20]
    SCHEDULED: <2014-07-07 Mon +1w>
    :LOGBOOK:
+   CLOCK: [2014-11-24 Mon 09:44]--[2014-11-24 Mon 10:04] =>  0:20
    CLOCK: [2014-10-27 Mon 08:58]--[2014-10-27 Mon 09:16] =>  0:18
    CLOCK: [2014-10-27 Mon 08:47]--[2014-10-27 Mon 08:58] =>  0:11
    CLOCK: [2014-10-16 Thu 18:18]--[2014-10-16 Thu 18:48] =>  0:30
@@ -5111,21 +5114,21 @@ When I set up scoring the day:
   [[file:~/holding]]
 - [X] Check holding email folder
 - [X] Review weekly agenda =F12 a w//=
-- [X] Check clocking data for past week =v c=
+- [ ] Check clocking data for past week =v c=
   - fix up any errors
-- [X] Review clock report for past week =R=
+- [ ] Review clock report for past week =R=
   - Check where we spent time (too much or too little) and rectify this week
 - [X] Look at entire agenda for today  =F12 SPC=
 - [X] Check un-committed work
 - [X] Refile tasks
-- [X] Weekly clean up
-  - [X] Clean up Downloads
+- [-] Weekly clean up
+  - [ ] Clean up Downloads
   - [X] Clean up tmp
   - [X] Clean up tablet
   - [X] Clean up phone
-- [X] Process incoming information
-  - [X] feedly
-  - [X] pocket
+- [ ] Process incoming information
+  - [ ] feedly
+  - [ ] pocket
 - [ ] Plan the upcoming week
   - Theme your days: teaching, admin/service, research, students, writing
   - [[file:daythemes.org][file:~/org/daythemes.org]]
@@ -5149,11 +5152,11 @@ When I set up scoring the day:
     - [ ] Organisation
       - [ ] Weekly review
       - [ ] Project planning
-- [X] Review focus projects 
-- [X] Set focus
+- [ ] Review focus projects 
+- [ ] Set focus
 - [ ] Check follow-up paper folder
 - [ ] Collate the weeks: pad scribbles, org-mode notes, phone notes, etc.
-- [X] Check Finances
+- [ ] Check Finances
   - Check bank accounts and compare with what's still to come
   - Plan the weeks budget
   - Update monthly transactions

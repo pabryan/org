@@ -928,6 +928,9 @@ http://mc03.manuscriptcentral.com/scmath?URL_MASK=6a28127c549c4337b904f229eb1deb
 ***** Notes
 ***** Tasks
 ****** NEXT Skim paper
+       :LOGBOOK:
+       CLOCK: [2014-11-24 Mon 10:04]--[2014-11-24 Mon 10:21] =>  0:17
+       :END:
 ****** NEXT Write notes
 ****** NEXT Write report
 ****** NEXT Submit report
@@ -1460,6 +1463,8 @@ From "Alexios Polanski". see also 2013arXiv1307.5764M
 	 CLOCK: [2014-11-05 Wed 17:08]--[2014-11-05 Wed 19:29] =>  2:21
 	 :END:
 
+****** Janelle Thesis Defense
+<2014-11-25 Tue 11:00-12:00>
 ***** Notes
 ***** Refs
 **** TODO alpha CSF distance comparison 			  :CSF_ALPHA:
