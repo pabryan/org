@@ -12448,7 +12448,7 @@ Lectures in calendar and tasks like planning lectures.
 	  :PROPERTIES:
 	  :Effort:   2:00
 	  :END:
-	  <2014-12-02 Tue 12:00-14:00>
+	  <2014-12-05 Fri 14:00-15:00>
 ***** TODO Math142A
 ****** Files
 [[file:~/working/ucsd/teaching/2014/fall/math142a_fall_2014]] 
@@ -12807,9 +12807,10 @@ Lectures in calendar and tasks like planning lectures.
 	   :Effort:   1:00
 	   :END:
 
-********** NEXT Prepare lec 8.2
+********** DONE Prepare lec 8.2
 	   SCHEDULED: <2014-11-19 Wed>
 	   :LOGBOOK:
+	   - State "DONE"       from "NEXT"       [2014-11-24 Mon 11:19]
 	   CLOCK: [2014-11-19 Wed 11:34]--[2014-11-19 Wed 11:37] =>  0:03
 	   :END:
 	   :PROPERTIES:
@@ -12828,6 +12829,9 @@ Lectures in calendar and tasks like planning lectures.
 ********* TODO Week 9
 ********** NEXT Prepare outline
 	   SCHEDULED: <2014-11-24 Mon>
+	   :LOGBOOK:
+	   CLOCK: [2014-11-24 Mon 11:19]
+	   :END:
 	   :PROPERTIES:
 	   :Effort:   0:30
 	   :END:
