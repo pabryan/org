@@ -601,6 +601,9 @@ file:~/publish/decra_2015
 [[file:~/working/academic/journals/review/mathscinet/MR3238481.org]]
 *** NEXT Review MR3259043
     DEADLINE: <2014-12-13 Sat> SCHEDULED: <2014-11-17 Mon>
+    :LOGBOOK:
+    CLOCK: [2014-11-23 Sun 09:45]--[2014-11-23 Sun 10:30] =>  0:45
+    :END:
 [[file:~/working/academic/journals/review/mathscinet/MR3259043.org]]
 [[file:refs.org::#MR3259043][Optimal isoperimetric inequalities for complete proper minimal submanifolds in hyperbolic space]]
 
@@ -6054,8 +6057,12 @@ http://www.uni-freiburg.de/administration/stellenboerse?erf=y&stellenid=8792&lay
       CLOCK: [2014-10-03 Fri 17:10]--[2014-10-03 Fri 17:55] =>  0:45
       :END:
 https://www.mathjobs.org/jobs/jobs/6132
-***** NEXT Warwick
+***** DONE Warwick
       DEADLINE: <2014-12-08 Mon>
+      :LOGBOOK:
+      - State "DONE"       from "NEXT"       [2014-11-23 Sun 18:48]
+      CLOCK: [2014-11-23 Sun 18:20]--[2014-11-23 Sun 18:48] =>  0:28
+      :END:
 https://atsv7.wcn.co.uk/search_engine/jobs.cgi?owner=5062452&ownertype=fair&jcode=1444672&vt_template=1457&adminview=1
 ***** CANCELLED Maquarie
       :LOGBOOK:
@@ -6303,12 +6310,29 @@ http://www.chelsmore.com/rates/
       :LOGBOOK:
       CLOCK: [2014-11-06 Thu 20:20]--[2014-11-06 Thu 20:48] =>  0:28
       :END:
-***** NEXT Book hotel
-      :LOGBOOK:
-      CLOCK: [2014-11-07 Fri 08:45]--[2014-11-07 Fri 10:00] =>  1:15
-      :END:
-***** TODO Travel
+***** TODO Booking
 ****** NEXT Book flights
+****** NEXT Book hotel
+       :LOGBOOK:
+       CLOCK: [2014-11-07 Fri 08:45]--[2014-11-07 Fri 10:00] =>  1:15
+       :END:
+***** TODO Planning
+      :LOGBOOK:
+      CLOCK: [2014-11-23 Sun 18:09]--[2014-11-23 Sun 18:12] =>  0:03
+      :END:
+****** DONE Plan stops and dates
+       :LOGBOOK:
+       - State "DONE"       from "NEXT"       [2014-11-23 Sun 18:09]
+       CLOCK: [2014-11-23 Sun 17:07]--[2014-11-23 Sun 18:09] =>  1:02
+       :END:
+**** Schedule
+- Fly to NYC: 23/5
+- NYC: 23/5-23/6
+- Train to Niagra: 23/6
+- Niagra: 24/6
+- Travel to Chicago: 25/5-26/6
+- Pony Fair: 26/6-28/6
+- Fly to San Diego: 28/6
 * Personal Website
   :PROPERTIES:
   :ID:       05f896fc-0400-4ac3-bfef-5e3c5457fd02

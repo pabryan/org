@@ -1847,6 +1847,9 @@ http://gmane.org
   :END:
 ** Organisation
   :LOGBOOK:
+  CLOCK: [2014-11-23 Sun 18:12]--[2014-11-23 Sun 18:20] =>  0:08
+  CLOCK: [2014-11-23 Sun 16:27]--[2014-11-23 Sun 17:07] =>  0:40
+  CLOCK: [2014-11-23 Sun 09:53]--[2014-11-23 Sun 10:10] =>  0:17
   CLOCK: [2014-11-21 Fri 14:30]--[2014-11-21 Fri 14:43] =>  0:13
   CLOCK: [2014-11-21 Fri 14:05]--[2014-11-21 Fri 14:29] =>  0:24
   CLOCK: [2014-11-21 Fri 11:10]--[2014-11-21 Fri 11:16] =>  0:06
@@ -3580,8 +3583,9 @@ Set some goals for the month. I should check someday projects for inclusion in t
 Check how I did last month. I guess the review and plan could probably go together. This is all broad stuff
 
 ** NEXT Daily Review [0/12]
-   SCHEDULED: <2014-11-23 Sun .+1d/2d>
+   SCHEDULED: <2014-11-24 Mon .+1d/2d>
    :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2014-11-23 Sun 18:12]
    - State "DONE"       from "NEXT"       [2014-11-22 Sat 21:16]
    - State "DONE"       from "NEXT"       [2014-11-21 Fri 14:30]
    CLOCK: [2014-11-21 Fri 14:29]--[2014-11-21 Fri 14:30] =>  0:01
@@ -4022,7 +4026,7 @@ Check how I did last month. I guess the review and plan could probably go togeth
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
    :ID:       616c5bd9-d941-4fcc-8874-2ff3c9e96b4a
-   :LAST_REPEAT: [2014-11-22 Sat 21:16]
+   :LAST_REPEAT: [2014-11-23 Sun 18:12]
    :END:
 
 What to review:
@@ -4045,8 +4049,10 @@ When I set up scoring the day:
 - [ ] Collate data such as sleep, weight, exercise, diet etc.
 
 ** NEXT Daily Plan [0/7]
-   SCHEDULED: <2014-11-23 Sun .+1d/2d>
+   SCHEDULED: <2014-11-24 Mon .+1d/2d>
    :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2014-11-23 Sun 09:53]
+   CLOCK: [2014-11-23 Sun 09:47]--[2014-11-23 Sun 09:53] =>  0:06
    - State "DONE"       from "NEXT"       [2014-11-22 Sat 21:16]
    - State "DONE"       from "NEXT"       [2014-11-22 Sat 21:16]
    - State "DONE"       from "NEXT"       [2014-11-21 Fri 14:29]
@@ -4939,7 +4945,7 @@ When I set up scoring the day:
    :RESET_CHECK_BOXES: t
    :ID:       ef051ee0-1113-4604-b355-450a5a47848b
    
-   :LAST_REPEAT: [2014-11-22 Sat 21:16]
+   :LAST_REPEAT: [2014-11-23 Sun 09:53]
    :END:
 
 - [ ] Check agenda/focus
