@@ -7331,6 +7331,9 @@ Lectures in calendar and tasks like planning lectures.
 	   :LOGBOOK:
 	   - State "DONE"       from "NEXT"       [2014-04-12 Sat 12:01]
 	   :END:
+********** NEXT Write exam
+	   DEADLINE: <2014-12-15 Mon>
+based on practice from here http://www.math.ucsd.edu/~jeggers/math10a/
 ********** NEXT Grade final
 ********** TODO Update grade
 ********* Johanna Martinez 
