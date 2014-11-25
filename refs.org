@@ -1477,6 +1477,12 @@ Here I need to do some more work since $u \mapsto g(\grad u, \grad u)$ is not a 
 :END:
 [[papers:2013arXiv1307.5764M][2013arXiv1307.5764M-paper]]
 [[bib:2013arXiv1307.5764M][2013arXiv1307.5764M-bib]]
+*** The Dirichlet problem for curve shortening flow
+:PROPERTIES:
+:Custom_ID: 2012arXiv1208.3510A
+:END:
+[[papers:2012arXiv1208.3510A][2012arXiv1208.3510A-paper]]
+[[bib:2012arXiv1208.3510A][2012arXiv1208.3510A-bib]]
 * Misc
   :PROPERTIES:
   :COLUMNS: %75ITEM %TAGS

@@ -13514,7 +13514,10 @@ Lectures in calendar and tasks like planning lectures.
 	 :Effort:   0
 	 :END:
 
-******** NEXT O/H Week 2
+******** DONE O/H Week 2
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2014-11-25 Tue 13:44]
+	 :END:
 	 <2014-10-15 Wed 15:00-17:00>
 	 :PROPERTIES:
 	 :Effort:   2:00
@@ -13540,8 +13543,9 @@ Lectures in calendar and tasks like planning lectures.
 	 :Effort:   2:00
 	 :END:
 
-******** NEXT O/H Week 5
+******** DONE O/H Week 5
 	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2014-11-25 Tue 13:44]
 	 CLOCK: [2014-11-05 Wed 15:59]--[2014-11-05 Wed 17:08] =>  1:09
 	 :END:
 	 <2014-11-05 Wed 15:00-17:00>
@@ -13570,7 +13574,10 @@ Lectures in calendar and tasks like planning lectures.
 	 :END:
 
 ******** NEXT O/H Week 8
-	 <2014-11-26 Wed 15:00-17:00>
+	 :LOGBOOK:
+	 CLOCK: [2014-11-25 Tue 13:44]
+	 :END:
+	 <2014-11-25 Tue 13:00-15:00>
 	 :PROPERTIES:
 	 :Effort:   2:00
 	 :END:
