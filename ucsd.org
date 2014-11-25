@@ -12410,8 +12410,9 @@ Lectures in calendar and tasks like planning lectures.
 	 :Effort:   2:00
 	 :END:
 
-******** NEXT O/H Week 8
+******** DONE O/H Week 8
 	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2014-11-24 Mon 20:38]
 	 CLOCK: [2014-11-24 Mon 15:00]--[2014-11-24 Mon 17:00] =>  2:00
 	 :END:
 	 <2014-11-24 Mon 15:00-17:00>
@@ -13183,6 +13184,11 @@ Lectures in calendar and tasks like planning lectures.
 	   :LOGBOOK:
 	   - State "DONE"       from "NEXT"       [2014-11-20 Thu 11:11]
 	   CLOCK: [2014-11-20 Thu 10:54]--[2014-11-20 Thu 11:11] =>  0:17
+	   :END:
+********** DONE Uniform continuity
+	   :LOGBOOK:
+	   - State "DONE"       from "NEXT"       [2014-11-24 Mon 21:59]
+	   CLOCK: [2014-11-24 Mon 20:45]--[2014-11-24 Mon 21:59] =>  1:14
 	   :END:
 ******* TODO Grades
 ******** NEXT Create grade spreadsheet

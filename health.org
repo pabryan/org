@@ -1095,9 +1095,10 @@
     :ID:       f57232cd-a8f2-4a76-a507-4d69f765a521
     :END:
 *** NEXT Relax/Meditate
-    SCHEDULED: <2014-11-24 Mon .+1d/2d>
+    SCHEDULED: <2014-11-25 Tue .+1d/2d>
 
     :LOGBOOK:
+    - State "DONE"       from "NEXT"       [2014-11-24 Mon 20:38]
     - State "DONE"       from "NEXT"       [2014-11-23 Sun 16:26]
     - State "DONE"       from "NEXT"       [2014-11-22 Sat 21:16]
     - State "DONE"       from "NEXT"       [2014-11-06 Thu 19:55]
@@ -1353,7 +1354,7 @@
     :STYLE:    habit
     :REPEAT_TO_STATE: NEXT
     :ID:       c0aaf33a-af77-446b-b9fd-cf2d2f78c12a
-    :LAST_REPEAT: [2014-11-23 Sun 16:26]
+    :LAST_REPEAT: [2014-11-24 Mon 20:38]
     :END:
 
 
