@@ -13002,7 +13002,7 @@ Lectures in calendar and tasks like planning lectures.
 ********* NEXT Write Final
 	  SCHEDULED: <2014-12-01 Mon>
 	  :LOGBOOK:
-	  CLOCK: [2014-11-24 Mon 16:25]
+	  CLOCK: [2014-11-24 Mon 16:25]--[2014-11-24 Mon 17:05] =>  0:40
 	  :END:
 	  :PROPERTIES:
 	  :Effort:   1:00
