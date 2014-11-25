@@ -11798,8 +11798,11 @@ Lectures in calendar and tasks like planning lectures.
 	   :END:
 
 ********* TODO Week 9
-********** NEXT Prepare outline
+********** DONE Prepare outline
 	   SCHEDULED: <2014-11-24 Mon>
+	   :LOGBOOK:
+	   - State "DONE"       from "NEXT"       [2014-11-25 Tue 12:05]
+	   :END:
 	   :PROPERTIES:
 	   :Effort:   0:30
 	   :END:
@@ -12022,6 +12025,9 @@ Lectures in calendar and tasks like planning lectures.
 
 ******** NEXT Piazza week 8
 	  DEADLINE: <2014-11-30 Sun>
+	  :LOGBOOK:
+	  CLOCK: [2014-11-25 Tue 12:09]--[2014-11-25 Tue 12:10] =>  0:01
+	  :END:
 	 
 	 :PROPERTIES:
 	 :Effort:   1:00
