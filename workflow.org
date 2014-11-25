@@ -4973,10 +4973,11 @@ When I set up scoring the day:
 - [ ] Do short tasks
 - [ ] Record morning health stats
 
-** NEXT Weekly Review [12/20]
+** NEXT Weekly Review [13/20]
    SCHEDULED: <2014-07-07 Mon +1w>
    :LOGBOOK:
-   CLOCK: [2014-11-25 Tue 13:23]
+   CLOCK: [2014-11-25 Tue 14:29]
+   CLOCK: [2014-11-25 Tue 13:23]--[2014-11-25 Tue 13:44] =>  0:21
    CLOCK: [2014-11-25 Tue 12:19]--[2014-11-25 Tue 12:23] =>  0:04
    CLOCK: [2014-11-24 Mon 09:44]--[2014-11-24 Mon 10:04] =>  0:20
    CLOCK: [2014-10-27 Mon 08:58]--[2014-10-27 Mon 09:16] =>  0:18
@@ -5137,8 +5138,8 @@ When I set up scoring the day:
 - [X] Look at entire agenda for today  =F12 SPC=
 - [X] Check un-committed work
 - [X] Refile tasks
-- [-] Weekly clean up
-  - [ ] Clean up Downloads
+- [X] Weekly clean up
+  - [X] Clean up Downloads
   - [X] Clean up tmp
   - [X] Clean up tablet
   - [X] Clean up phone
