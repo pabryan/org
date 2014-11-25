@@ -1483,6 +1483,12 @@ Here I need to do some more work since $u \mapsto g(\grad u, \grad u)$ is not a 
 :END:
 [[papers:2012arXiv1208.3510A][2012arXiv1208.3510A-paper]]
 [[bib:2012arXiv1208.3510A][2012arXiv1208.3510A-bib]]
+*** Harmonic Complex Structures
+:PROPERTIES:
+:Custom_ID: 2010arXiv1007.4392W
+:END:
+[[papers:2010arXiv1007.4392W][2010arXiv1007.4392W-paper]]
+[[bib:2010arXiv1007.4392W][2010arXiv1007.4392W-bib]]
 * Misc
   :PROPERTIES:
   :COLUMNS: %75ITEM %TAGS
