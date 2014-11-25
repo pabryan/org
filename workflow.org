@@ -1865,7 +1865,7 @@ http://gmane.org
   CLOCK: [2014-11-21 Fri 14:05]--[2014-11-21 Fri 14:29] =>  0:24
   CLOCK: [2014-11-21 Fri 11:10]--[2014-11-21 Fri 11:16] =>  0:06
   CLOCK: [2014-11-21 Fri 09:34]--[2014-11-21 Fri 09:35] =>  0:01
-  CLOCK: [2014-11-20 Thu 19:29]--[2014-11-20 Thu 19:42] =>  0:13
+  CLOCK: [2014-11-20 Thu 19:29]--[2014-11-20 Thu 19:40] =>  0:11
   CLOCK: [2014-11-20 Thu 12:34]--[2014-11-20 Thu 12:40] =>  0:06
   CLOCK: [2014-11-20 Thu 10:50]--[2014-11-20 Thu 10:54] =>  0:04
   CLOCK: [2014-11-19 Wed 18:23]--[2014-11-19 Wed 18:24] =>  0:01
@@ -4973,7 +4973,7 @@ When I set up scoring the day:
 - [ ] Do short tasks
 - [ ] Record morning health stats
 
-** NEXT Weekly Review [10/20]
+** NEXT Weekly Review [12/20]
    SCHEDULED: <2014-07-07 Mon +1w>
    :LOGBOOK:
    CLOCK: [2014-11-25 Tue 13:23]
@@ -5130,9 +5130,9 @@ When I set up scoring the day:
   [[file:~/holding]]
 - [X] Check holding email folder
 - [X] Review weekly agenda =F12 a w//=
-- [ ] Check clocking data for past week =v c=
+- [X] Check clocking data for past week =v c=
   - fix up any errors
-- [ ] Review clock report for past week =R=
+- [X] Review clock report for past week =R=
   - Check where we spent time (too much or too little) and rectify this week
 - [X] Look at entire agenda for today  =F12 SPC=
 - [X] Check un-committed work
