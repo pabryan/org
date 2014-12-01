@@ -175,9 +175,10 @@ confirmation: 5061008131350
 * Events
 ** Birthday
 *** 2014
-**** TODO Prepare for Kate's Birthday
+**** DONE Prepare for Kate's Birthday
   SCHEDULED: <2014-10-27 Mon>
   :LOGBOOK:
+  - State "DONE"       from "TODO"       [2014-11-30 Sun 20:28]
   CLOCK: [2014-04-17 Thu 09:53]--[2014-04-17 Thu 09:54] =>  0:01
   :END:
 [2014-04-17 Thu 09:53]
