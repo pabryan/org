@@ -6082,7 +6082,7 @@ https://atsv7.wcn.co.uk/search_engine/jobs.cgi?owner=5062452&ownertype=fair&jcod
      :END:
 http://www.mis.mpg.de/institute/application/postdoc
 http://www.mis.mpg.de/institute/application/postdoc-submission.html
-PAUL_2149
+- code: PAUL_2149
 
 ***** NEXT Pisa
       DEADLINE: <2014-12-19 Fri>
@@ -6294,7 +6294,7 @@ https://academicjobsonline.org/ajo/jobs/4242
       CLOCK: [2014-06-28 Sat 12:55]--[2014-06-28 Sat 13:17] =>  0:22
       :END:
 ***** NEXT Follow up for Hawaii summer teaching
-      SCHEDULED: <2014-12-01 Mon>
+      SCHEDULED: <2015-01-05 Mon>
 **** Notes
 *** New York Spring
 **** Notes
@@ -6321,6 +6321,7 @@ http://www.chelsmore.com/rates/
 ***** TODO Booking
 ****** NEXT Book flights
 ****** NEXT Book hotel
+       DEADLINE: <2014-12-01 Mon>
        :LOGBOOK:
        CLOCK: [2014-11-07 Fri 08:45]--[2014-11-07 Fri 10:00] =>  1:15
        :END:
@@ -6341,6 +6342,15 @@ http://www.chelsmore.com/rates/
 - Travel to Chicago: 25/5-26/6
 - Pony Fair: 26/6-28/6
 - Fly to San Diego: 28/6
+*** Riemann Center Hannover
+**** Notes
+**** Tasks
+***** TODO Planning
+****** NEXT Plan dates
+       DEADLINE: <2015-02-01 Sun>
+**** Schedule
+***** Visit Hannover
+[2015-10-01 Thu]--[2015-12-31 Thu]
 * Personal Website
   :PROPERTIES:
   :ID:       05f896fc-0400-4ac3-bfef-5e3c5457fd02

@@ -43,7 +43,7 @@ Make a project that includes
 [2013-03-30 Sat 21:39]
 Publish to a different directory so I don't pollute my hg directory.
 ***** NEXT Create publishing function for journal submission
-  SCHEDULED: <2014-12-01 Mon>
+  SCHEDULED: <2015-01-05 Mon>
   :LOGBOOK:
   CLOCK: [2014-07-14 Mon 09:16]--[2014-07-14 Mon 09:19] =>  0:03
   CLOCK: [2014-03-18 Tue 17:41]--[2014-03-18 Tue 17:42] =>  0:01
@@ -52,7 +52,7 @@ Publish to a different directory so I don't pollute my hg directory.
 I want to export for journals, including data such as email, classification etc.
 I think I need some sort of filter for this.
 ***** NEXT Create setup file for org-mode latex docs
-  SCHEDULED: <2014-12-01 Mon>
+  SCHEDULED: <2015-01-05 Mon>
 [2014-04-12 Sat 19:26]
 - Put common things besides bib stuff into a setup file
 - All the basic publish options should also be in a master file
@@ -1847,6 +1847,8 @@ http://gmane.org
   :END:
 ** Organisation
   :LOGBOOK:
+  CLOCK: [2014-12-01 Mon 08:57]--[2014-12-01 Mon 08:58] =>  0:01
+  CLOCK: [2014-12-01 Mon 08:27]--[2014-12-01 Mon 08:47] =>  0:20
   CLOCK: [2014-11-30 Sun 20:21]--[2014-11-30 Sun 20:39] =>  0:18
   CLOCK: [2014-11-29 Sat 10:47]--[2014-11-29 Sat 11:32] =>  0:45
   CLOCK: [2014-11-26 Wed 14:40]--[2014-11-26 Wed 15:34] =>  0:54
@@ -3604,7 +3606,7 @@ Check how I did last month. I guess the review and plan could probably go togeth
    :LOGBOOK:
    - State "DONE"       from "NEXT"       [2014-11-30 Sun 20:28]
    - State "DONE"       from "NEXT"       [2014-11-24 Mon 22:00]
-   CLOCK: [2014-11-24 Mon 20:38]--[2014-11-24 Mon 21:03] =>  0:25
+   CLOCK: [2014-11-24 Mon 20:38]--[2014-11-24 Mon 20:45] =>  0:07
    - State "DONE"       from "NEXT"       [2014-11-23 Sun 18:12]
    - State "DONE"       from "NEXT"       [2014-11-22 Sat 21:16]
    - State "DONE"       from "NEXT"       [2014-11-21 Fri 14:30]
@@ -4069,8 +4071,10 @@ When I set up scoring the day:
 - [ ] Collate data such as sleep, weight, exercise, diet etc.
 
 ** NEXT Daily Plan [0/7]
-   SCHEDULED: <2014-12-01 Mon .+1d/2d>
+   SCHEDULED: <2014-12-02 Tue .+1d/2d>
    :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2014-12-01 Mon 08:57]
+   CLOCK: [2014-12-01 Mon 08:47]--[2014-12-01 Mon 08:57] =>  0:10
    - State "DONE"       from "NEXT"       [2014-11-30 Sun 20:28]
    - State "DONE"       from "NEXT"       [2014-11-29 Sat 11:55]
    CLOCK: [2014-11-29 Sat 11:32]--[2014-11-29 Sat 11:55] =>  0:23
@@ -4973,7 +4977,7 @@ When I set up scoring the day:
    :RESET_CHECK_BOXES: t
    :ID:       ef051ee0-1113-4604-b355-450a5a47848b
    
-   :LAST_REPEAT: [2014-11-30 Sun 20:28]
+   :LAST_REPEAT: [2014-12-01 Mon 08:57]
    :END:
 
 - [ ] Check agenda/focus
@@ -4985,9 +4989,10 @@ When I set up scoring the day:
 - [ ] Do short tasks
 - [ ] Record morning health stats
 
-** NEXT Weekly Review [13/20]
+** NEXT Weekly Review [10/20]
    SCHEDULED: <2014-07-07 Mon +1w>
    :LOGBOOK:
+   CLOCK: [2014-12-01 Mon 09:08]--[2014-12-01 Mon 09:39] =>  0:31
    CLOCK: [2014-11-25 Tue 14:29]--[2014-11-25 Tue 14:32] =>  0:03
    CLOCK: [2014-11-25 Tue 13:23]--[2014-11-25 Tue 13:44] =>  0:21
    CLOCK: [2014-11-25 Tue 12:19]--[2014-11-25 Tue 12:23] =>  0:04
@@ -5155,9 +5160,9 @@ When I set up scoring the day:
   - [X] Clean up tmp
   - [X] Clean up tablet
   - [X] Clean up phone
-- [ ] Process incoming information
-  - [ ] feedly
-  - [ ] pocket
+- [X] Process incoming information
+  - [X] feedly
+  - [X] pocket
 - [ ] Plan the upcoming week
   - Theme your days: teaching, admin/service, research, students, writing
   - [[file:daythemes.org][file:~/org/daythemes.org]]
@@ -5189,11 +5194,11 @@ When I set up scoring the day:
   - Check bank accounts and compare with what's still to come
   - Plan the weeks budget
   - Update monthly transactions
-- [X] Copy music to phone
-- [X] Share photos on Google+
-- [X] Update Abundant Harvest order
+- [ ] Copy music to phone
+- [ ] Share photos on Google+
+- [ ] Update Abundant Harvest order
   - http://www.abundantharvestorganics.com/
-- [X] Order meat
+- [ ] Order meat
   - http://www.son-riseranchstore.com/
 
 ** NEXT Monthly (Quarterly?) Plan/Review [0/16]

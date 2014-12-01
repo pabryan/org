@@ -251,20 +251,21 @@ My card won't swipe anymore.
    #+TBLFM: @18$2=vsum(@2$2..@17$2)
    
 ** Bills 
-*** TODO Pay rent
-    DEADLINE: <2015-01-05 Mon +1m -4d> 
-   :LOGBOOK:
-   - State "DONE"       from "TODO"       [2014-11-29 Sat 11:32]
-   - State "DONE"       from "TODO"       [2014-11-01 Sat 11:08]
-   - State "DONE"       from "TODO"       [2014-10-02 Thu 14:00]
-   - State "DONE"       from "TODO"       [2014-09-01 Mon 20:03]
-   - State "DONE"       from "TODO"       [2014-08-01 Fri 16:00]
-   - State "DONE"       from "TODO"       [2014-07-01 Tue 19:16]
-   - State "DONE"       from "TODO"       [2014-06-02 Mon 09:13]
-   - State "DONE"       from "TODO"       [2014-05-01 Thu 11:53]
-   - State "DONE"       from "TODO"       [2014-04-01 Tue 19:40]
-   - State "DONE"       from "TODO"       [2014-03-02 Sun 11:06]
-   - State "DONE"       from "TODO"       [2014-02-01 Sat 12:11]
+*** NEXT Pay rent
+    DEADLINE: <2015-02-05 Thu +1m -4d> 
+    :LOGBOOK:
+    - State "DONE"       from "TODO"       [2014-12-01 Mon 09:16]
+    - State "DONE"       from "TODO"       [2014-11-29 Sat 11:32]
+    - State "DONE"       from "TODO"       [2014-11-01 Sat 11:08]
+    - State "DONE"       from "TODO"       [2014-10-02 Thu 14:00]
+    - State "DONE"       from "TODO"       [2014-09-01 Mon 20:03]
+    - State "DONE"       from "TODO"       [2014-08-01 Fri 16:00]
+    - State "DONE"       from "TODO"       [2014-07-01 Tue 19:16]
+    - State "DONE"       from "TODO"       [2014-06-02 Mon 09:13]
+    - State "DONE"       from "TODO"       [2014-05-01 Thu 11:53]
+    - State "DONE"       from "TODO"       [2014-04-01 Tue 19:40]
+    - State "DONE"       from "TODO"       [2014-03-02 Sun 11:06]
+    - State "DONE"       from "TODO"       [2014-02-01 Sat 12:11]
     - State "DONE"       from "TODO"       [2014-01-01 Wed 13:38]
     - State "DONE"       from "TODO"       [2013-12-02 Mon 12:27]
     - State "DONE"       from "TODO"       [2013-11-01 Fri 12:35]
@@ -285,7 +286,8 @@ My card won't swipe anymore.
  
    :PROPERTIES:
    :ID:       ea07bf7b-9f89-49bf-90db-3e167baff163
-   :LAST_REPEAT: [2014-11-29 Sat 11:32]
+   :REPEAT_TO_STATE: NEXT
+   :LAST_REPEAT: [2014-12-01 Mon 09:16]
    :END:
 
 Use account A11078844
