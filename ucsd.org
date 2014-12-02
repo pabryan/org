@@ -11837,8 +11837,12 @@ Lectures in calendar and tasks like planning lectures.
 	   :END:
 
 ********* TODO Week 10
-********** NEXT Prepare outline
+********** DONE Prepare outline
 	   SCHEDULED: <2014-12-01 Mon>
+	   :LOGBOOK:
+	   - State "DONE"       from "NEXT"       [2014-12-02 Tue 11:09]
+	   CLOCK: [2014-12-02 Tue 11:04]--[2014-12-02 Tue 11:09] =>  0:05
+	   :END:
 	   :PROPERTIES:
 	   :Effort:   0:30
 	   :END:
@@ -12049,6 +12053,7 @@ Lectures in calendar and tasks like planning lectures.
 ******** NEXT Piazza week 9
 	  DEADLINE: <2014-12-07 Sun>
 	  :LOGBOOK:
+	  CLOCK: [2014-12-02 Tue 10:56]--[2014-12-02 Tue 11:03] =>  0:07
 	  CLOCK: [2014-12-01 Mon 15:05]--[2014-12-01 Mon 15:08] =>  0:03
 	  CLOCK: [2014-12-01 Mon 08:58]--[2014-12-01 Mon 09:08] =>  0:10
 	  :END:
@@ -12912,19 +12917,33 @@ Lectures in calendar and tasks like planning lectures.
 	   :END:
 
 ********* TODO Week 10
-********** NEXT Prepare outline
+	  :LOGBOOK:
+	  CLOCK: [2014-12-02 Tue 11:12]--[2014-12-02 Tue 11:14] =>  0:02
+	  :END:
+********** DONE Prepare outline
 	   SCHEDULED: <2014-12-01 Mon>
+	   :LOGBOOK:
+	   - State "DONE"       from "NEXT"       [2014-12-02 Tue 11:12]
+	   CLOCK: [2014-12-02 Tue 11:09]--[2014-12-02 Tue 11:12] =>  0:03
+	   :END:
 	   :PROPERTIES:
 	   :Effort:   0:30
 	   :END:
-********** NEXT Prepare lec 10.1
+********** DONE Prepare lec 10.1
 	   SCHEDULED: <2014-12-01 Mon>
+	   :LOGBOOK:
+	   - State "DONE"       from "NEXT"       [2014-12-02 Tue 12:11]
+	   CLOCK: [2014-12-02 Tue 11:41]--[2014-12-02 Tue 12:11] =>  0:30
+	   :END:
 	   :PROPERTIES:
 	   :Effort:   1:00
 	   :END:
 
 ********** NEXT Prepare lec 10.2
 	   SCHEDULED: <2014-12-03 Wed>
+	   :LOGBOOK:
+	   CLOCK: [2014-12-02 Tue 12:11]--[2014-12-02 Tue 13:12] =>  1:01
+	   :END:
 	   :PROPERTIES:
 	   :Effort:   1:00
 	   :END:

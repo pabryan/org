@@ -6320,9 +6320,10 @@ http://www.chelsmore.com/rates/
       :END:
 ***** TODO Booking
 ****** NEXT Book flights
-****** NEXT Book hotel
+****** DONE Book hotel
        DEADLINE: <2014-12-01 Mon>
        :LOGBOOK:
+       - State "DONE"       from "NEXT"       [2014-12-02 Tue 10:42]
        CLOCK: [2014-11-07 Fri 08:45]--[2014-11-07 Fri 10:00] =>  1:15
        :END:
 ***** TODO Planning
