@@ -12053,6 +12053,8 @@ Lectures in calendar and tasks like planning lectures.
 ******** NEXT Piazza week 9
 	  DEADLINE: <2014-12-07 Sun>
 	  :LOGBOOK:
+	  CLOCK: [2014-12-03 Wed 09:36]--[2014-12-03 Wed 09:43] =>  0:07
+	  CLOCK: [2014-12-03 Wed 09:00]--[2014-12-03 Wed 09:25] =>  0:25
 	  CLOCK: [2014-12-02 Tue 10:56]--[2014-12-02 Tue 11:03] =>  0:07
 	  CLOCK: [2014-12-01 Mon 15:05]--[2014-12-01 Mon 15:08] =>  0:03
 	  CLOCK: [2014-12-01 Mon 08:58]--[2014-12-01 Mon 09:08] =>  0:10
@@ -13689,6 +13691,9 @@ Lectures in calendar and tasks like planning lectures.
 	 :END:
 ******** NEXT Prepare Lei Ni Analysis lecture
 	 DEADLINE: <2014-12-03 Wed>
+	 :LOGBOOK:
+	 CLOCK: [2014-12-03 Wed 09:43]--[2014-12-03 Wed 10:20] =>  0:37
+	 :END:
 	 :PROPERTIES:
 	 :Effort:   1:00
 	 :END:

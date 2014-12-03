@@ -922,6 +922,7 @@ CR-8403 - "Curvature contraction of convex hypersurfaces by nonsmooth speeds by 
 **** TODO Referee scm-2014-0648
      SCHEDULED: <2014-11-19 Wed>
      :LOGBOOK:
+     CLOCK: [2014-12-03 Wed 09:26]--[2014-12-03 Wed 09:36] =>  0:10
      CLOCK: [2014-11-25 Tue 13:02]--[2014-11-25 Tue 13:23] =>  0:21
      :END:
 ***** Files/Links
@@ -2116,7 +2117,7 @@ i.e. is the density defined on B or B_t?
 ******** NEXT Simplify boundary considerations
 - The body could probably just be a smooth family of embeddings. Then the boundary of $B_t = \phi_t(B)$ should be piecewise smooth.
 ******** NEXT Sort out conservation equations/Material derivative/Lie derivative for Momentum equation
-	 SCHEDULED: <2014-11-04 Tue>
+	 SCHEDULED: <2014-12-15 Mon>
          :LOGBOOK:
 	 CLOCK: [2014-11-14 Fri 15:00]--[2014-11-14 Fri 15:36] =>  0:36
 	 CLOCK: [2014-11-14 Fri 10:35]--[2014-11-14 Fri 11:41] =>  1:06
@@ -2167,7 +2168,7 @@ Marsden et. al. book
 ******** NEXT Add transport theorem
 ****** TODO Misc
 ******* NEXT Follow up with Steve Roberts
-       	 SCHEDULED: <2014-10-18 Sat>
+       	 SCHEDULED: <2014-12-15 Mon>
 ***** Notes
 ***** References
 - Gerbi et. al.
@@ -3154,7 +3155,7 @@ CONSTANT ANISOTROPIC MEAN CURVATURE
 - Is this even necessary? That is, why not just use $\sphere^n$ as a fixed space from which to parametrise? It's not really necessary to have $\sphere^n$ embedded in the space form.
 
 ****** TODO Support function
-       SCHEDULED: <2014-10-21 Tue>
+       SCHEDULED: <2014-12-15 Mon>
        :LOGBOOK:
        CLOCK: [2014-10-22 Wed 10:00]--[2014-10-22 Wed 10:01] =>  0:01
        :END:
@@ -3175,7 +3176,7 @@ CONSTANT ANISOTROPIC MEAN CURVATURE
 	CLOCK: [2014-10-24 Fri 14:30]--[2014-10-24 Fri 15:37] =>  1:07
 	:END:
 ****** TODO Harnack Inequality
-       SCHEDULED: <2014-10-21 Tue>
+       SCHEDULED: <2014-12-15 Mon>
 ******* NEXT Derive in $\RR^n$ using support function defined on $M$
 ******* NEXT Derive in space forms using support function defined on $M$
 ***** Refs
@@ -3230,7 +3231,7 @@ We would do it all in Minkowski space. I think the vector field gives the distan
 	 :END:
 
 ******** NEXT Write up variations
-	 SCHEDULED: <2014-10-18 Sat>
+	 SCHEDULED: <2014-12-15 Mon>
 	 :LOGBOOK:
 	 CLOCK: [2014-10-30 Thu 13:25]--[2014-10-30 Thu 13:50] =>  0:25
 	 CLOCK: [2014-10-30 Thu 08:53]--[2014-10-30 Thu 09:11] =>  0:18
@@ -4512,9 +4513,9 @@ Is there a consistent (say providing ZFC is consistent) set theory without the e
 **** Tasks
 ***** Writing
 ****** NEXT Write up conjectures.
-       SCHEDULED: <2014-10-18 Sat>
+       SCHEDULED: <2014-12-15 Mon>
 ****** NEXT Write up variations.
-       SCHEDULED: <2014-10-18 Sat>
+       SCHEDULED: <2014-12-15 Mon>
 ** Reading
    :PROPERTIES:
    :ID:       3b692ea2-10eb-4586-ae3e-2006ce6a3c0e
