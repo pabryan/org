@@ -13076,9 +13076,14 @@ Lectures in calendar and tasks like planning lectures.
 	  :Effort:   0:30
 	  :END:
 ******** TODO Final
-********* NEXT Write Final
+	 :LOGBOOK:
+	 CLOCK: [2014-12-04 Thu 12:53]--[2014-12-04 Thu 12:57] =>  0:04
+	 :END:
+********* DONE Write Final
 	  SCHEDULED: <2014-12-01 Mon>
 	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2014-12-04 Thu 12:53]
+	  CLOCK: [2014-12-04 Thu 11:44]--[2014-12-04 Thu 12:53] =>  1:09
 	  CLOCK: [2014-12-03 Wed 15:28]--[2014-12-03 Wed 15:57] =>  0:29
 	  CLOCK: [2014-11-24 Mon 16:25]--[2014-11-24 Mon 17:05] =>  0:40
 	  :END:

@@ -600,7 +600,7 @@ file:~/publish/decra_2015
 [[file:refs.org::#MR3238481][Notes on the extension of the mean curvature flow]]
 [[file:~/working/academic/journals/review/mathscinet/MR3238481.org]]
 *** NEXT Review MR3259043
-    DEADLINE: <2014-12-13 Sat> SCHEDULED: <2014-11-17 Mon>
+    DEADLINE: <2014-12-13 Sat -10d> SCHEDULED: <2014-11-17 Mon>
     :LOGBOOK:
     CLOCK: [2014-11-23 Sun 09:53]--[2014-11-23 Sun 10:30] =>  0:37
     :END:
@@ -920,8 +920,10 @@ CR-8403 - "Curvature contraction of convex hypersurfaces by nonsmooth speeds by 
 #+END:
 
 **** TODO Referee scm-2014-0648
-     SCHEDULED: <2014-11-19 Wed>
+     SCHEDULED: <2014-11-19 Wed -10d>
      :LOGBOOK:
+     CLOCK: [2014-12-04 Thu 13:00]
+     CLOCK: [2014-12-04 Thu 09:26]--[2014-12-04 Thu 10:10] =>  0:44
      CLOCK: [2014-12-03 Wed 09:26]--[2014-12-03 Wed 09:36] =>  0:10
      CLOCK: [2014-11-25 Tue 13:02]--[2014-11-25 Tue 13:23] =>  0:21
      :END:
