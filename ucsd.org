@@ -13079,7 +13079,7 @@ Lectures in calendar and tasks like planning lectures.
 ********* NEXT Write Final
 	  SCHEDULED: <2014-12-01 Mon>
 	  :LOGBOOK:
-	  CLOCK: [2014-12-03 Wed 15:28]
+	  CLOCK: [2014-12-03 Wed 15:28]--[2014-12-03 Wed 15:57] =>  0:29
 	  CLOCK: [2014-11-24 Mon 16:25]--[2014-11-24 Mon 17:05] =>  0:40
 	  :END:
 	  :PROPERTIES:
@@ -13661,6 +13661,9 @@ Lectures in calendar and tasks like planning lectures.
 	 :END:
 
 ******** NEXT O/H Week 9
+	 :LOGBOOK:
+	 CLOCK: [2014-12-03 Wed 15:57]
+	 :END:
 	 <2014-12-03 Wed 15:00-17:00>
 	 :PROPERTIES:
 	 :Effort:   2:00
