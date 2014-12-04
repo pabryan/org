@@ -13660,8 +13660,9 @@ Lectures in calendar and tasks like planning lectures.
 	 :Effort:   2:00
 	 :END:
 
-******** NEXT O/H Week 9
+******** DONE O/H Week 9
 	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2014-12-03 Wed 17:08]
 	 CLOCK: [2014-12-03 Wed 15:57]--[2014-12-03 Wed 17:07] =>  1:10
 	 :END:
 	 <2014-12-03 Wed 15:00-17:00>
