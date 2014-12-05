@@ -922,6 +922,7 @@ CR-8403 - "Curvature contraction of convex hypersurfaces by nonsmooth speeds by 
 **** TODO Referee scm-2014-0648
      SCHEDULED: <2014-11-19 Wed -10d>
      :LOGBOOK:
+     CLOCK: [2014-12-05 Fri 08:55]--[2014-12-05 Fri 09:20] =>  0:25
      CLOCK: [2014-12-04 Thu 13:00]--[2014-12-04 Thu 13:25] =>  0:25
      CLOCK: [2014-12-04 Thu 09:26]--[2014-12-04 Thu 10:10] =>  0:44
      CLOCK: [2014-12-03 Wed 09:26]--[2014-12-03 Wed 09:36] =>  0:10
@@ -5752,7 +5753,7 @@ upload to mathjobs, academicjobsonline
 - mathjobs and academicjobsonline
 *** TODO Applications
 See http://getpocket.com/a/queue/list/jobs/ for details.
-**** Misc
+**** TODO Misc
 ***** DONE Andre Neves Postdoc
       :LOGBOOK:
       - State "DONE"       from "TODO"       [2014-02-17 Mon 11:08]
@@ -6087,9 +6088,10 @@ https://atsv7.wcn.co.uk/search_engine/jobs.cgi?owner=5062452&ownertype=fair&jcod
 ***** NEXT Max Planck
      DEADLINE: <2014-12-31 Wed>
      :LOGBOOK:
+     CLOCK: [2014-12-05 Fri 09:35]
      CLOCK: [2014-11-07 Fri 11:19]--[2014-11-07 Fri 11:24] =>  0:05
      :END:
-http://www.mis.mpg.de/institute/application/postdoc
+http://www.mis.mpag.de/institute/application/postdoc
 http://www.mis.mpg.de/institute/application/postdoc-submission.html
 - code: PAUL_2149
 
@@ -6127,7 +6129,10 @@ http://crm.sns.it/grant/22/
       - State "DONE"       from "NEXT"       [2014-10-03 Fri 17:07]
       CLOCK: [2014-10-03 Fri 16:23]--[2014-10-03 Fri 17:07] =>  0:44
       :END:
-**** Math Jobs
+**** DONE Math Jobs
+     :LOGBOOK:
+     - State "DONE"       from "TODO"       [2014-12-05 Fri 09:33]
+     :END:
 ***** DONE Berkeley
       DEADLINE: <2014-12-15 Mon>
       :LOGBOOK:
