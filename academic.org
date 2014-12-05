@@ -5754,6 +5754,9 @@ upload to mathjobs, academicjobsonline
 *** TODO Applications
 See http://getpocket.com/a/queue/list/jobs/ for details.
 **** TODO Misc
+     :LOGBOOK:
+     CLOCK: [2014-12-05 Fri 10:18]--[2014-12-05 Fri 10:19] =>  0:01
+     :END:
 ***** DONE Andre Neves Postdoc
       :LOGBOOK:
       - State "DONE"       from "TODO"       [2014-02-17 Mon 11:08]
@@ -6085,10 +6088,11 @@ https://atsv7.wcn.co.uk/search_engine/jobs.cgi?owner=5062452&ownertype=fair&jcod
        	They cancelled the job.
       :END:
 
-***** NEXT Max Planck
+***** DONE Max Planck
      DEADLINE: <2014-12-31 Wed>
      :LOGBOOK:
-     CLOCK: [2014-12-05 Fri 09:35]
+     - State "DONE"       from "NEXT"       [2014-12-05 Fri 10:18]
+     CLOCK: [2014-12-05 Fri 09:35]--[2014-12-05 Fri 10:18] =>  0:43
      CLOCK: [2014-11-07 Fri 11:19]--[2014-11-07 Fri 11:24] =>  0:05
      :END:
 http://www.mis.mpag.de/institute/application/postdoc
@@ -6097,6 +6101,9 @@ http://www.mis.mpg.de/institute/application/postdoc-submission.html
 
 ***** NEXT Pisa
       DEADLINE: <2014-12-19 Fri>
+      :LOGBOOK:
+      CLOCK: [2014-12-05 Fri 10:19]--[2014-12-05 Fri 10:32] =>  0:13
+      :END:
 http://crm.sns.it/grant/22/
 **** DONE Update application documents
      SCHEDULED: <2014-10-02 Thu>
