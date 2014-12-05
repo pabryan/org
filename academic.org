@@ -922,7 +922,7 @@ CR-8403 - "Curvature contraction of convex hypersurfaces by nonsmooth speeds by 
 **** TODO Referee scm-2014-0648
      SCHEDULED: <2014-11-19 Wed -10d>
      :LOGBOOK:
-     CLOCK: [2014-12-04 Thu 13:00]
+     CLOCK: [2014-12-04 Thu 13:00]--[2014-12-04 Thu 13:25] =>  0:25
      CLOCK: [2014-12-04 Thu 09:26]--[2014-12-04 Thu 10:10] =>  0:44
      CLOCK: [2014-12-03 Wed 09:26]--[2014-12-03 Wed 09:36] =>  0:10
      CLOCK: [2014-11-25 Tue 13:02]--[2014-11-25 Tue 13:23] =>  0:21
@@ -2268,6 +2268,9 @@ Not sure what this is about either!
 ******** NEXT Gauss map
 ******* TODO Support function
 ******** NEXT Make sure of precise definition
+	 :LOGBOOK:
+	 CLOCK: [2014-12-04 Thu 13:42]--[2014-12-04 Thu 14:30] =>  0:48
+	 :END:
 ******** NEXT Parameterize by support function
 	 :LOGBOOK:
 	 CLOCK: [2014-10-16 Thu 13:00]--[2014-10-16 Thu 13:30] =>  0:30
@@ -2303,6 +2306,9 @@ If $K = \tilde{K} \intersect \sphere^n$, then $\tilde{K} \subset $\text{cone} (K
 ******* TODO Sections
 ******** TODO Basic convexity
 ********* NEXT Characterisation of convexity
+	  :LOGBOOK:
+	  CLOCK: [2014-12-04 Thu 16:40]--[2014-12-04 Thu 17:35] =>  0:55
+	  :END:
 - geodesics joining any two points
 ********* NEXT Boundary structure
 - positive curvature
