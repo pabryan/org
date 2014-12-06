@@ -1900,8 +1900,11 @@ http://tioga.sierraclub.org/oars-activity/pages/activity.jsf?activity=56527&othe
 - batteries: mattress, torch
 *** William Heise
 <2015-01-16 Fri 14:00>--<2015-01-19 Mon 11:00>
-**** NEXT RSVP for trip
+**** DONE RSVP for trip
      DEADLINE: <2014-12-06 Sat>
+     :LOGBOOK:
+     - State "DONE"       from "NEXT"       [2014-12-06 Sat 15:13]
+     :END:
 
 ** Hiking
 *** Del Dios Gorge Hike

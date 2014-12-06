@@ -405,8 +405,9 @@
     - State "DONE"       from "NEXT"       [2013-03-09 Sat 11:10]
     :END:
 *** NEXT Mobility
-    SCHEDULED: <2014-12-06 Sat .+1d/2d>
+    SCHEDULED: <2014-12-07 Sun .+1d/2d>
     :LOGBOOK:
+    - State "DONE"       from "NEXT"       [2014-12-06 Sat 15:13]
     - State "DONE"       from "NEXT"       [2014-12-05 Fri 08:33]
     - State "DONE"       from "NEXT"       [2014-12-04 Thu 11:05]
     - State "DONE"       from "NEXT"       [2014-12-03 Wed 08:58]
@@ -902,7 +903,7 @@
     :STYLE:    habit
     :REPEAT_TO_STATE: NEXT
     :ID:       0e75f56d-0356-4a0f-a376-080471ad4aad
-    :LAST_REPEAT: [2014-12-05 Fri 08:33]
+    :LAST_REPEAT: [2014-12-06 Sat 15:13]
     :END:
 
 *** NEXT Daily Release
@@ -1108,9 +1109,10 @@
     :ID:       f57232cd-a8f2-4a76-a507-4d69f765a521
     :END:
 *** NEXT Relax/Meditate
-    SCHEDULED: <2014-12-03 Wed .+1d/2d>
+    SCHEDULED: <2014-12-07 Sun .+1d/2d>
 
     :LOGBOOK:
+    - State "DONE"       from "NEXT"       [2014-12-06 Sat 15:13]
     - State "DONE"       from "NEXT"       [2014-12-02 Tue 19:52]
     - State "DONE"       from "NEXT"       [2014-11-30 Sun 20:28]
     - State "DONE"       from "NEXT"       [2014-11-28 Fri 17:38]
@@ -1371,7 +1373,7 @@
     :STYLE:    habit
     :REPEAT_TO_STATE: NEXT
     :ID:       c0aaf33a-af77-446b-b9fd-cf2d2f78c12a
-    :LAST_REPEAT: [2014-12-02 Tue 19:52]
+    :LAST_REPEAT: [2014-12-06 Sat 15:13]
     :END:
 
 
