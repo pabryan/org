@@ -12396,6 +12396,9 @@ Lectures in calendar and tasks like planning lectures.
 	  :END:
 ******** TODO Week 10
 ********* NEXT Lecture 10.1
+	  :LOGBOOK:
+	  CLOCK: [2014-12-08 Mon 11:48]
+	  :END:
 	  <2014-12-08 Mon 11:55-12:55>
 	  :PROPERTIES:
 	  :Effort:   1:00
