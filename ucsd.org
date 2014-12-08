@@ -6963,7 +6963,7 @@ Place: APM 7421
       :PROPERTIES:
       :ID:       31df73a4-0114-4097-8f18-5ce3ed5a1d07
       :END:
-[[file:~/working/ucsd/teaching/math10b_winter_2014]]
+[[file:~/working/ucsd/teaching/2014/winter/math10b_winter_2014]]
 ****** Notes
 ******* Homework
 http://edugen.wileyplus.com/edugen/domain/dmn71317/
@@ -7331,8 +7331,12 @@ Lectures in calendar and tasks like planning lectures.
 	   :LOGBOOK:
 	   - State "DONE"       from "NEXT"       [2014-04-12 Sat 12:01]
 	   :END:
-********** NEXT Write exam
+********** DONE Write exam
 	   DEADLINE: <2014-12-15 Mon>
+	   :LOGBOOK:
+	   - State "DONE"       from "NEXT"       [2014-12-08 Mon 10:27]
+	   CLOCK: [2014-12-08 Mon 09:40]--[2014-12-08 Mon 10:27] =>  0:47
+	   :END:
 based on practice from here http://www.math.ucsd.edu/~jeggers/math10a/
 ********** NEXT Grade final
 ********** TODO Update grade
@@ -12090,6 +12094,9 @@ Lectures in calendar and tasks like planning lectures.
 
 ******** NEXT Piazza week 10
 	  DEADLINE: <2014-12-14 Sun>
+	  :LOGBOOK:
+	  CLOCK: [2014-12-08 Mon 09:27]--[2014-12-08 Mon 09:40] =>  0:13
+	  :END:
 	 
 	 :PROPERTIES:
 	 :Effort:   1:00
@@ -14035,6 +14042,12 @@ See Holding email.
 For the Central Michigan University one, the letter is to be sent to REU@cmich.edu.
 For the Fields Institute one, the letter is to be sent in .pdf format to
 programs@fields.utoronto.ca.
+**** TODO Jason Bunk
+***** NEXT Set up tasks
+      DEADLINE: <2014-12-08 Mon>
+**** TODO Ziye Xu
+***** NEXT Set up tasks
+      DEADLINE: <2014-12-08 Mon>
 *** Undergraduate projects
 **** Notes
 http://urp.ucsd.edu/
