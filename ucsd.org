@@ -14048,36 +14048,70 @@ See Holding email.
 For the Central Michigan University one, the letter is to be sent to REU@cmich.edu.
 For the Fields Institute one, the letter is to be sent in .pdf format to
 programs@fields.utoronto.ca.
-**** TODO Jason Bunk
+**** DONE Jason Bunk
+     :LOGBOOK:
+     - State "DONE"       from "TODO"       [2014-12-08 Mon 15:52]
+     :END:
 ***** DONE Set up tasks
       DEADLINE: <2014-12-08 Mon>
       :LOGBOOK:
       - State "DONE"       from "NEXT"       [2014-12-08 Mon 15:13]
       CLOCK: [2014-12-08 Mon 15:07]--[2014-12-08 Mon 15:13] =>  0:06
       :END:
-***** NEXT Write letter
-***** TODO Applications
-****** NEXT UCLA
+***** DONE Write letter
+      :LOGBOOK:
+      - State "DONE"       from "NEXT"       [2014-12-08 Mon 15:44]
+      CLOCK: [2014-12-08 Mon 15:24]--[2014-12-08 Mon 15:44] =>  0:20
+      :END:
+[[file:~/working/ucsd/teaching/students/reference_letters/jason_bunk]]
+***** DONE Applications
+      :LOGBOOK:
+      - State "DONE"       from "TODO"       [2014-12-08 Mon 15:52]
+      CLOCK: [2014-12-08 Mon 15:45]--[2014-12-08 Mon 15:47] =>  0:02
+      :END:
+****** DONE UCLA
        DEADLINE: <2015-01-01 Thu>
+       :LOGBOOK:
+       - State "DONE"       from "NEXT"       [2014-12-08 Mon 15:52]
+       CLOCK: [2014-12-08 Mon 15:48]--[2014-12-08 Mon 15:52] =>  0:04
+       :END:
 https://rec.applyyourself.com/
 UNXSEFBVILQ
 
-****** NEXT Berkeley
+****** DONE Berkeley
        DEADLINE: <2014-12-22 Mon>
+       :LOGBOOK:
+       - State "DONE"       from "NEXT"       [2014-12-08 Mon 15:48]
+       CLOCK: [2014-12-08 Mon 15:47]--[2014-12-08 Mon 15:48] =>  0:01
+       :END:
 https://gradadmit.berkeley.edu/jazztwo/app/rec/add/3c7f202784e9
-****** NEXT UCI
+****** DONE UCI
        DEADLINE: <2015-01-15 Thu>
+       :LOGBOOK:
+       - State "DONE"       from "NEXT"       [2014-12-08 Mon 15:47]
+       :END:
 https://services.adcom.uci.edu/approgress/lor/letterInfo.htm?token=20141208110100E7FA1475B03959EFBD
-****** NEXT UCSB
+****** DONE UCSB
        DEADLINE: <2014-12-15 Mon>
+       :LOGBOOK:
+       - State "DONE"       from "NEXT"       [2014-12-08 Mon 15:45]
+       CLOCK: [2014-12-08 Mon 15:44]--[2014-12-08 Mon 15:45] =>  0:01
+       :END:
 https://www.graddiv.ucsb.edu/eapp/lor/Recommender.aspx?guid=9986d689-0601-4518-bc28-c7201a3f6d2c
 **** TODO Ziye Xu
-***** NEXT Set up tasks
+     :LOGBOOK:
+     CLOCK: [2014-12-08 Mon 15:22]--[2014-12-08 Mon 15:24] =>  0:02
+     :END:
+***** DONE Set up tasks
       DEADLINE: <2014-12-08 Mon>
       :LOGBOOK:
-      CLOCK: [2014-12-08 Mon 15:13]
+      - State "DONE"       from "NEXT"       [2014-12-08 Mon 15:22]
+      CLOCK: [2014-12-08 Mon 15:13]--[2014-12-08 Mon 15:22] =>  0:09
       :END:
 ***** NEXT Write letter
+      :LOGBOOK:
+      CLOCK: [2014-12-08 Mon 15:52]
+      :END:
 ***** TODO Applications
 ****** NEXT MIT
        DEADLINE: <2015-01-05 Mon>
