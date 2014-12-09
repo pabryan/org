@@ -943,6 +943,20 @@ http://mc03.manuscriptcentral.com/scmath?URL_MASK=6a28127c549c4337b904f229eb1deb
 ****** NEXT Submit report
        DEADLINE: <2014-12-21 Sun>
 ***** Clock report
+**** TODO Referee JGEA-D-14-00211
+     SCHEDULED: <2014-12-22 Mon> DEADLINE: <2015-02-06 Fri>
+***** Files/Links
+[[file:~/reference/academic/journals/referee/geometric_analysis/JGEA-D-14-00211]]
+[[file:~/working/academic/journals/referee/JGEA/isoperimetric_comparison_via_viscosity]]
+http://jgea.edmgr.com/.
+Your username is: PBryan-373
+Your password is: bryan2677
+***** Notes
+***** Tasks
+****** NEXT Skim paper
+****** NEXT Write notes
+****** NEXT Write report
+****** NEXT Submit report
 ** Discussion
 *** Selected Papers
 **** Tasks
@@ -1361,7 +1375,15 @@ Given $X$ in the equator, let $\rho_{\alpha}(X)$ be the infimum of the lengths o
   - [X] For the last bit in the second paragraph was it supposed to be for all forward times like (-\infty,0) not t\in (-\infty, t_1)?
 	Maybe that could be rephrased. The $t_1$ is the time up to which the curves meet the reflected equator transversely. We can't ensure that after that time, they don't cross the reflected equator. We know that far enough back in time, both curves lie in $\sphere^2_V$ and the max principle ensures they lie in there at least up to $t_1$.
   - [X] Type II should be $\curvecurv/\abs{t} \to \infty$.
-******* WAITING Update based on referee comments
+******* DONE Update based on referee comments
+	:LOGBOOK:
+	- State "DONE"       from "WAITING"    [2014-12-09 Tue 08:05]
+	:END:
+******* NEXT Update paper and resubmit
+	 DEADLINE: <2014-12-12 Fri>
+	 :LOGBOOK:
+	 CLOCK: [2014-12-09 Tue 10:13]
+	 :END:
 ******* NEXT Add isoperimetric inequality method
 From "Alexios Polanski". see also 2013arXiv1307.5764M
 - [[file:~/reference/academic/research/csf_ancient_sphere/Ancient%20solutions%20of%20the%20curve%20shortening%20flow%20on%20the%20sphere.pdf][file:~/reference/academic/research/csf_ancient_sphere/Ancient solutions of the curve shortening flow on the sphere.pdf]]
