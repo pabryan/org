@@ -13152,8 +13152,11 @@ Lectures in calendar and tasks like planning lectures.
 	  :PROPERTIES:
 	  :Effort:   1:00
 	  :END:
-********* NEXT Get TA's comments
+********* DONE Get TA's comments
 	  DEADLINE: <2014-12-03 Wed>
+	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2014-12-09 Tue 13:26]
+	  :END:
 	  :PROPERTIES:
 	  :Effort:   0:10
 	  :END:

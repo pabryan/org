@@ -2184,8 +2184,11 @@ Catch the 41. Get off at Derrik Dr. after Claremont Mesa and before Balboa.
 - see holding email folder.
 ** Registration
 *** 2015
-**** NEXT Book in smog check
+**** DONE Book in smog check
      DEADLINE: <2014-12-08 Mon>
+     :LOGBOOK:
+     - State "DONE"       from "NEXT"       [2014-12-09 Tue 13:26]
+     :END:
 **** NEXT Pay rego
      DEADLINE: <2014-12-15 Mon>
 

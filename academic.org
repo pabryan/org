@@ -1134,374 +1134,6 @@ Try to use as much available software that I can find. Do it like Sage - don't r
   [[file:~/working/academic/research/]]
 ** Papers
 *** Working							      :FOCUS:
-**** TODO CSF Sphere Ancient Solutions			 :CSF_ANCIENT_SPHERE:
-     :PROPERTIES:
-     :ID:       6a082853-9a95-4756-9632-17078bd0fe4b
-     :END:
-***** Files
-[[file:~/working/academic/research/csf_ancient_sphere]]
-[[file:~/publish/csf_ancient_sphere/]]
-[[file:~/reference/academic/research/csf_ancient_sphere]]
-***** Tasks
-****** DONE Work out curvature evolution in coords
-       :LOGBOOK:
-       - State "DONE"       from "NEXT"       [2013-12-17 Tue 12:56]
-       CLOCK: [2013-10-21 Mon 11:35]--[2013-10-21 Mon 12:37] =>  1:02
-       :END:
-       :PROPERTIES:
-       :ID:       072484d3-34af-4d34-b8bc-f1a9e44913f7
-       :END:
-****** CANCELLED Define pressure
-       :LOGBOOK:
-       - State "CANCELLED"  from "TODO"       [2013-12-17 Tue 12:56] \\
-	 Not necessary.
-       :END:
-       :PROPERTIES:
-       :ID:       9269bbf3-ecf7-42fd-99fb-4fbfcb952c55
-       :END:
-****** DONE Prove smooth backward convergence to equator implies round circle
-       :LOGBOOK:
-       - State "DONE"       from "NEXT"       [2013-12-17 Tue 12:56]
-       CLOCK: [2013-12-03 Tue 15:16]--[2013-12-03 Tue 16:51] =>  1:35
-       :END:
-       :PROPERTIES:
-       :ID:       8c4123a3-7132-43fa-8bff-57827ae1c8ad
-       :END:
-That is, Ben and Janelle have proven the backward convergence, and to finish we need to show the solution is the shrinking round circle
-****** DONE Write outline of Alexandrov reflection argument
-       :LOGBOOK:
-       - State "DONE"       from "NEXT"       [2014-02-04 Tue 16:15]
-       CLOCK: [2013-12-17 Tue 12:57]--[2013-12-17 Tue 14:14] =>  1:17
-       :END:
-       :PROPERTIES:
-       :ID:       e4309a03-3450-4994-a651-42e0666fb7a0
-       :END:
-****** TODO Write paper
-       :LOGBOOK:
-       CLOCK: [2014-08-23 Sat 13:14]--[2014-08-23 Sat 13:20] =>  0:06
-       CLOCK: [2014-07-19 Sat 14:31]--[2014-07-19 Sat 14:32] =>  0:01
-       :END:
-******* DONE Write paper outline
-	:LOGBOOK:
-	- State "DONE"       from "NEXT"       [2014-04-02 Wed 14:00]
-	CLOCK: [2014-02-28 Fri 10:46]--[2014-02-28 Fri 11:11] =>  0:25
-	CLOCK: [2014-02-27 Thu 18:34]--[2014-02-27 Thu 19:40] =>  1:06
-	CLOCK: [2014-02-27 Thu 14:35]--[2014-02-27 Thu 15:25] =>  0:50
-	:END:
-******* DONE Incorporate Janelle's work
-	 DEADLINE: <2014-03-31 Mon>
-	 :LOGBOOK:
-	 - State "DONE"       from "NEXT"       [2014-04-03 Thu 17:22]
-	 CLOCK: [2014-04-02 Wed 22:26]--[2014-04-02 Wed 23:32] =>  1:06
-	 CLOCK: [2014-04-02 Wed 14:00]--[2014-04-02 Wed 14:26] =>  0:26
-	 CLOCK: [2014-03-19 Wed 11:29]--[2014-03-19 Wed 12:36] =>  1:07
-	 CLOCK: [2014-03-18 Tue 20:21]--[2014-03-18 Tue 21:18] =>  0:57
-	 CLOCK: [2014-03-17 Mon 11:34]--[2014-03-17 Mon 12:48] =>  1:14
-	 :END:
-******* DONE Write Harnack
-	:LOGBOOK:
-	- State "DONE"       from "NEXT"       [2014-02-28 Fri 14:36]
-	CLOCK: [2014-02-28 Fri 13:15]--[2014-02-28 Fri 14:45] =>  1:30
-	CLOCK: [2014-02-28 Fri 11:26]--[2014-02-28 Fri 11:42] =>  0:16
-	:END:
-******* DONE Write details of curvature bounds
-	:LOGBOOK:
-	- State "DONE"       from "NEXT"       [2014-04-02 Wed 14:25]
-	CLOCK: [2014-02-28 Fri 15:35]--[2014-02-28 Fri 15:53] =>  0:18
-	:END:
-******* DONE Write details of convergence to equator
-	:LOGBOOK:
-	- State "DONE"       from "NEXT"       [2014-06-12 Thu 17:02]
-	CLOCK: [2014-06-12 Thu 13:37]--[2014-06-12 Thu 14:31] =>  0:54
-	CLOCK: [2014-06-10 Tue 14:55]--[2014-06-10 Tue 16:39] =>  1:44
-	CLOCK: [2014-06-09 Mon 19:09]--[2014-06-09 Mon 20:30] =>  1:21
-	CLOCK: [2014-06-09 Mon 17:15]--[2014-06-09 Mon 18:19] =>  1:04
-	- State "NEXT"       from "DONE"       [2014-06-06 Fri 15:18] //
-	  Reopened since convergence may be only sub-sequential.
-	- State "DONE"       from "TODO"       [2014-04-02 Wed 14:25]
-	:END:
-******* DONE Write convergence to a graph
-	:LOGBOOK:
-	- State "DONE"       from "NEXT"       [2014-06-10 Tue 14:55]
-	:END:
-******* DONE Write details of Alexandrov reflection
-	:LOGBOOK:
-	- State "DONE"       from "TODO"       [2014-06-06 Fri 15:17]
-	CLOCK: [2014-04-02 Wed 14:33]--[2014-04-02 Wed 16:14] =>  1:41
-	CLOCK: [2014-04-02 Wed 14:26]--[2014-04-02 Wed 14:32] =>  0:06
-	:END:
-******** DONE Define distance along equatorial projection and fix ordering
-	 :LOGBOOK:
-	 - State "DONE"       from "NEXT"       [2014-04-12 Sat 15:16]
-	 CLOCK: [2014-04-12 Sat 12:02]--[2014-04-12 Sat 12:58] =>  0:56
-	 CLOCK: [2014-04-03 Thu 17:22]--[2014-04-03 Thu 17:42] =>  0:20
-	 :END:
-Given $X$ in the equator, let $\rho_{\alpha}(X)$ be the infimum of the lengths of the geodesic segment joining the points in $\alpha \intersect \pi^{-1}(X)$ to $X$. The order should be in $\rho_{\alpha} > \rho_{\beta}$. Write the subsequent text using $\rho$.
-******** DONE Write backwards approximate symmetry
-	 :LOGBOOK:
-	 - State "DONE"       from "NEXT"       [2014-06-05 Thu 10:02]
-	 CLOCK: [2014-06-03 Tue 10:38]--[2014-06-03 Thu 12:35] =>  1:57
-	 CLOCK: [2014-05-29 Thu 12:52]--[2014-05-29 Thu 13:46] =>  0:54
-	 CLOCK: [2014-05-29 Thu 10:46]--[2014-05-29 Thu 10:47] =>  0:01
-	 CLOCK: [2014-05-28 Wed 17:17]--[2014-05-28 Wed 17:49] =>  0:32
-	 CLOCK: [2014-05-28 Wed 13:49]--[2014-05-28 Wed 14:11] =>  0:22
-	 CLOCK: [2014-04-12 Sat 19:28]--[2014-04-12 Sat 19:59] =>  0:31
-	 CLOCK: [2014-04-02 Wed 23:32]--[2014-04-03 Thu 00:20] =>  0:48
-	 :END:
-******** DONE Write Approximate symmetry preserved
-	 :LOGBOOK:
-	 - State "DONE"       from "NEXT"       [2014-06-06 Fri 15:17]
-	 CLOCK: [2014-06-06 Fri 14:46]--[2014-06-06 Fri 15:17] =>  0:31
-	 - State "NEXT"       from "DONE"       [2014-06-05 Thu 10:03] \\
-	   Reopened since max principle arg was a little iffy.
-	 CLOCK: [2014-06-05 Thu 10:02]--[2014-06-05 Thu 10:52] =>  0:50
-	 CLOCK: [2014-04-12 Sat 12:58]--[2014-04-12 Sat 13:50] =>  0:52
-	 - State "DONE"       from "NEXT"       [2014-04-12 Sat 15:16]
-	 :END:
-******** DONE Write exact symmetry
-	 :LOGBOOK:
-	 - State "DONE"       from "NEXT"       [2014-04-12 Sat 15:18]
-	 CLOCK: [2014-04-12 Sat 13:50]--[2014-04-12 Sat 14:55] =>  1:05
-	 :END:
-******** DONE Write shrinking circles
-	 :LOGBOOK:
-	 - State "DONE"       from "NEXT"       [2014-04-12 Sat 15:17]
-	 CLOCK: [2014-04-12 Sat 14:55]--[2014-04-12 Sat 15:17] =>  0:22
-	 :END:
-- combine exact symmetry implies circular into theorem.
-******** DONE Update to use reflection macros better
-	 :LOGBOOK:
-	 - State "DONE"       from "NEXT"       [2014-04-12 Sat 20:43]
-	 CLOCK: [2014-04-12 Sat 20:00]--[2014-04-12 Sat 20:43] =>  0:43
-	 :END:
-******* DONE Write proof of lying in hemisphere
-	:LOGBOOK:
-	- State "DONE"       from "NEXT"       [2014-04-02 Wed 14:25]
-	:END:
-******* DONE Write introduction
-	:LOGBOOK:
-	- State "DONE"       from "NEXT"       [2014-06-13 Fri 10:16]
-	CLOCK: [2014-06-13 Fri 09:58]--[2014-06-13 Fri 10:16] =>  0:18
-	CLOCK: [2014-04-15 Tue 12:44]--[2014-04-15 Tue 15:49] =>  3:05
-	CLOCK: [2014-04-15 Tue 09:42]--[2014-04-15 Tue 10:09] =>  0:27
-	:END:
-******* DONE Write notation/prelim
-	:LOGBOOK:
-	- State "DONE"       from "NEXT"       [2014-04-02 Wed 14:26]
-	:END:
-******* DONE Created titled reflection figure
-	:LOGBOOK:
-	- State "DONE"       from "NEXT"       [2014-06-13 Fri 09:41]
-	CLOCK: [2014-04-16 Wed 13:48]--[2014-04-16 Wed 14:10] =>  0:22
-	CLOCK: [2014-04-15 Tue 17:50]--[2014-04-15 Tue 19:06] =>  1:16
-	CLOCK: [2014-04-15 Tue 15:49]--[2014-04-15 Tue 16:26] =>  0:37
-	:END:
-******* DONE Show that $L$ is bounded or $k$ decays exponentially
-	:LOGBOOK:
-	- State "DONE"       from "NEXT"       [2014-07-19 Sat 14:31]
-	CLOCK: [2014-07-19 Sat 14:17]--[2014-07-19 Sat 14:31] =>  0:14
-	CLOCK: [2014-07-09 Wed 13:50]--[2014-07-09 Wed 15:30] =>  1:40
-	:END:
-******* DONE Convexity
-	:LOGBOOK:
-	- State "DONE"       from "TODO"       [2014-08-26 Tue 20:54]
-	- State "TODO"       from "DONE"       [2014-08-26 Tue 14:17] \\
-	  Made an error in convexity condition.
-	- State "DONE"       from "TODO"       [2014-07-19 Sat 14:17]
-	:END:
-******** DONE Work out equivalent conditions to convexity
-	 :LOGBOOK:
-	 - State "DONE"       from "NEXT"       [2014-07-19 Sat 14:17]
-	 CLOCK: [2014-07-17 Thu 13:20]--[2014-07-17 Thu 14:02] =>  0:42
-	 CLOCK: [2014-07-14 Mon 12:20]--[2014-07-14 Mon 14:29] =>  2:09
-	 CLOCK: [2014-07-13 Sun 20:54]--[2014-07-13 Sun 21:29] =>  0:35
-	 CLOCK: [2014-07-13 Sun 19:08]--[2014-07-13 Sun 19:47] =>  0:39
-	 CLOCK: [2014-07-13 Sun 17:51]--[2014-07-13 Sun 18:25] =>  0:34
-	 CLOCK: [2014-07-13 Sun 15:16]--[2014-07-13 Sun 15:58] =>  0:42
-	 CLOCK: [2014-07-13 Sun 10:05]--[2014-07-13 Sun 10:41] =>  0:36
-	 CLOCK: [2014-07-13 Sun 09:15]--[2014-07-13 Sun 09:55] =>  0:40
-	 CLOCK: [2014-07-12 Sat 21:28]--[2014-07-12 Sat 23:50] =>  2:22
-	 CLOCK: [2014-07-12 Sat 13:00]--[2014-07-12 Sat 16:01] =>  3:01
-	 CLOCK: [2014-07-11 Fri 13:45]--[2014-07-11 Fri 14:20] =>  0:35
-	 CLOCK: [2014-07-10 Thu 09:45]--[2014-07-10 Thu 11:40] =>  1:55
-	 :END:
-******** DONE Fix error in lying in a hemisphere
-	 :LOGBOOK:
-	 - State "DONE"       from "NEXT"       [2014-08-26 Tue 20:54]
-	 CLOCK: [2014-08-26 Tue 20:06]--[2014-08-26 Tue 20:54] =>  0:48
-	 CLOCK: [2014-08-26 Tue 14:50]--[2014-08-26 Tue 17:47] =>  2:57
-	 :END:
-
-******* DONE Compile first draft
-	 SCHEDULED: <2014-05-19 Mon>
-	 :LOGBOOK:
-	 - State "DONE"       from "NEXT"       [2014-06-13 Fri 11:14]
-	 CLOCK: [2014-06-13 Fri 09:41]--[2014-06-13 Fri 09:58] =>  0:17
-	 CLOCK: [2014-06-12 Thu 17:03]--[2014-06-12 Thu 18:19] =>  1:16
-	 :END:
-******* DONE Produce final version
-	:LOGBOOK:
-	- State "DONE"       from "NEXT"       [2014-08-22 Fri 20:49]
-	CLOCK: [2014-08-22 Fri 20:07]--[2014-08-22 Fri 20:49] =>  0:42
-	CLOCK: [2014-08-22 Fri 18:39]--[2014-08-22 Fri 19:07] =>  0:28
-	CLOCK: [2014-08-22 Fri 15:00]--[2014-08-22 Fri 16:30] =>  1:30
-	CLOCK: [2014-08-14 Thu 16:10]--[2014-08-14 Thu 17:08] =>  0:58
-	:END:
-******* DONE Upload to arxiv
-       :LOGBOOK:
-       - State "DONE"       from "NEXT"       [2014-08-23 Sat 13:14]
-       CLOCK: [2014-08-23 Sat 12:46]--[2014-08-23 Sat 13:14] =>  0:28
-       CLOCK: [2014-08-23 Sat 11:36]--[2014-08-23 Sat 12:28] =>  0:52
-       CLOCK: [2014-08-22 Fri 21:29]--[2014-08-22 Fri 21:35] =>  0:06
-       CLOCK: [2014-08-22 Fri 20:58]--[2014-08-22 Fri 21:18] =>  0:20
-       :END:
-[[*ArXiv%20submission%20process][ArXiv submission process]]
-******* DONE Submit to journal
-	:LOGBOOK:
-	- State "DONE"       from "NEXT"       [2014-08-29 Fri 14:23]
-	CLOCK: [2014-08-29 Fri 13:54]--[2014-08-29 Fri 14:23] =>  0:29
-	:END:
-- short title: Convex Ancient CSF on $\sphere^2$.
-******* DONE Tidy up
-	SCHEDULED: <2014-10-14 Tue>
-	:LOGBOOK:
-	- State "DONE"       from "NEXT"       [2014-10-25 Sat 13:35]
-	CLOCK: [2014-10-25 Sat 13:25]--[2014-10-25 Sat 13:35] =>  0:10
-	CLOCK: [2014-09-17 Wed 13:10]--[2014-09-17 Wed 14:46] =>  1:36
-	:END:
-- Janelle notes:
-  - [X] In Lemma 5.2
-        I think there are some $R_V(\gamma_t)^+$ that should be $R_V(\gamma_t^+)$? Shouldn't they be the + part of the reflection, so the former is correct. If the latter appears anywhere we should change it.
-  - [X] For the last bit in the second paragraph was it supposed to be for all forward times like (-\infty,0) not t\in (-\infty, t_1)?
-	Maybe that could be rephrased. The $t_1$ is the time up to which the curves meet the reflected equator transversely. We can't ensure that after that time, they don't cross the reflected equator. We know that far enough back in time, both curves lie in $\sphere^2_V$ and the max principle ensures they lie in there at least up to $t_1$.
-  - [X] Type II should be $\curvecurv/\abs{t} \to \infty$.
-******* DONE Update based on referee comments
-	:LOGBOOK:
-	- State "DONE"       from "WAITING"    [2014-12-09 Tue 08:05]
-	:END:
-******* NEXT Update paper and resubmit
-	 DEADLINE: <2014-12-12 Fri>
-	 :LOGBOOK:
-	 CLOCK: [2014-12-09 Tue 10:13]
-	 :END:
-******* NEXT Add isoperimetric inequality method
-From "Alexios Polanski". see also 2013arXiv1307.5764M
-- [[file:~/reference/academic/research/csf_ancient_sphere/Ancient%20solutions%20of%20the%20curve%20shortening%20flow%20on%20the%20sphere.pdf][file:~/reference/academic/research/csf_ancient_sphere/Ancient solutions of the curve shortening flow on the sphere.pdf]]
-******* NEXT Follow up with "Alexios"
-	 SCHEDULED: <2015-03-01 Sun>
-
-****** DONE Maths
-       :LOGBOOK:
-       - State "DONE"       from "TODO"       [2014-05-05 Mon 09:43]
-       :END:
-******* DONE Prove ancient solutions lie in a hemisphere
-	:LOGBOOK:
-	- State "DONE"       from "NEXT"       [2014-02-27 Thu 14:35]
-	CLOCK: [2014-02-04 Tue 16:27]--[2014-02-04 Tue 16:41] =>  0:14
-	:END:
-******* CANCELLED Find out if $\curvecurv>0$ for ancient solutions (Harnack?)
-	:LOGBOOK:
-	- State "CANCELLED"  from "NEXT"       [2014-04-02 Wed 13:59] \\
-	  We just restrict to convex ancient solutions.
-	:END:
-******* DONE Check if positive curvature implies convex
-	:LOGBOOK:
-	- State "DONE"       from "NEXT"       [2014-04-15 Tue 09:41]
-	:END:
-- Clauss Gehardt paper mentions this
-******* DONE Calculate ancient implies backwards approximate symmetry
-	:LOGBOOK:
-	- State "DONE"       from "TODO"       [2014-05-05 Mon 09:43]
-	CLOCK: [2014-04-08 Tue 17:02]--[2014-04-08 Tue 17:31] =>  0:29
-	:END:
-******** DONE Show Taylor expansion gives lower bound on near inequality
-	 :LOGBOOK:
-	 - State "DONE"       from "NEXT"       [2014-05-05 Mon 09:43]
-	 :END:
-********* :LOGBOOK:
-	 CLOCK: [2014-04-24 Thu 12:55]--[2014-04-24 Thu 13:11] =>  0:16
-	 CLOCK: [2014-04-16 Wed 09:30]--[2014-04-16 Wed 09:49] =>  0:19
-	 :END:
-***** Clocking
-****** Meetings
-       :PROPERTIES:
-       :ID:       9ccff1fa-2eaa-444f-a663-8ea3cfc20d76
-       :END:
-******* Group meeting
-       <2013-12-13 Fri 12:00-13:00>
-       :LOGBOOK:
-       CLOCK: [2013-12-13 Fri 12:00]--[2013-12-13 Fri 13:30] =>  1:30
-       CLOCK: [2013-11-18 Mon 12:18]--[2013-11-18 Mon 13:40] =>  1:22
-       :END:
-******* Group meeting
-	:LOGBOOK:
-	CLOCK: [2014-09-24 Wed 13:29]--[2014-09-24 Wed 15:45] =>  2:16
-	:END:
-       <2014-09-24 Wed 13:30-14:30>
-
-******* Group meeting
-	:LOGBOOK:
-	CLOCK: [2014-11-21 Fri 09:35]--[2014-11-21 Fri 11:10] =>  1:35
-	:END:
-<2014-11-21 Fri 09:15-10:30>
-******* Meet Janelle
-	:LOGBOOK:
-	CLOCK: [2014-11-24 Mon 17:05]--[2014-11-24 Mon 17:38] =>  0:33
-	CLOCK: [2014-11-19 Wed 17:06]--[2014-11-19 Wed 18:23] =>  1:17
-	CLOCK: [2014-10-17 Fri 14:56]--[2014-10-17 Fri 17:21] =>  2:25
-	CLOCK: [2014-09-10 Wed 10:08]--[2014-09-10 Wed 13:33] =>  3:25
-	CLOCK: [2014-04-03 Thu 09:58]--[2014-04-03 Thu 11:49] =>  1:51
-	CLOCK: [2014-02-13 Thu 14:50]--[2014-02-13 Thu 16:05] =>  1:15
-	CLOCK: [2014-01-06 Mon 14:57]--[2014-01-06 Mon 15:42] =>  0:45
-	:END:
-<2014-01-06 Mon 14:55-15:30>
-<2014-02-13 Thu 14:30-15:30>
-<2014-04-03 Thu 10:00-11:00>
-<2014-09-10 Wed 10:00-12:00>
-<2014-10-17 Fri 15:00-16:30>
-<2014-11-19 Wed 17:00-18:00>
-<2014-11-24 Mon 17:00-18:00>
-******* Weekly Janelle
-	:LOGBOOK:
-	CLOCK: [2014-07-23 Wed 14:02]--[2014-07-23 Wed 16:12] =>  2:10
-	CLOCK: [2014-07-16 Wed 14:09]--[2014-07-16 Wed 18:09] =>  4:00
-	CLOCK: [2014-07-02 Wed 13:30]--[2014-07-02 Wed 16:54] =>  3:24
-	CLOCK: [2014-06-11 Wed 14:05]--[2014-06-11 Wed 16:38] =>  2:33
-	CLOCK: [2014-06-04 Wed 14:06]--[2014-06-04 Wed 18:03] =>  3:57
-	CLOCK: [2014-05-28 Wed 14:11]--[2014-05-28 Wed 17:05] =>  2:54
-	CLOCK: [2014-05-21 Wed 14:03]--[2014-05-21 Wed 16:21] =>  2:18
-	CLOCK: [2014-04-30 Wed 14:15]--[2014-04-30 Wed 18:06] =>  3:51
-	CLOCK: [2014-04-23 Wed 14:03]--[2014-04-23 Wed 15:59] =>  1:56
-	CLOCK: [2014-04-16 Wed 14:10]--[2014-04-16 Wed 16:19] =>  2:09
-	CLOCK: [2014-04-08 Tue 14:00]--[2014-04-08 Tue 16:36] =>  2:36
-	CLOCK: [2014-03-11 Tue 14:30]--[2014-03-11 Tue 16:16] =>  1:46
-	CLOCK: [2014-02-25 Tue 14:00]--[2014-02-25 Tue 15:37] =>  1:37
-	CLOCK: [2014-02-18 Tue 14:17]--[2014-02-18 Tue 15:27] =>  1:10
-	CLOCK: [2014-02-04 Tue 14:24]--[2014-02-04 Tue 16:27] =>  2:03
-	CLOCK: [2014-01-28 Tue 14:10]--[2014-01-28 Tue 15:38] =>  1:28
-	CLOCK: [2014-01-21 Tue 14:00]--[2014-01-21 Tue 14:45] =>  0:45
-	:END:
-# OLD TIME <2014-01-22 Wed 14:00-16:00 +1w>
-******* Ben Chow
-	:LOGBOOK:
-	CLOCK: [2014-04-29 Tue 15:40]--[2014-04-29 Tue 16:09] =>  0:29
-	:END:
-
-******* Thesis proof reading
-	 <2014-11-05 Wed 17:00-18:00>
-	 <2014-11-14 Fri 15:00-17:00>
-	 :LOGBOOK:
-	 CLOCK: [2014-11-05 Wed 17:08]--[2014-11-05 Wed 19:29] =>  2:21
-	 :END:
-
-****** Janelle Thesis Defense
-       :LOGBOOK:
-       CLOCK: [2014-11-25 Tue 10:55]--[2014-11-25 Tue 12:04] =>  1:09
-       :END:
-<2014-11-25 Tue 11:00-12:00>
-AP&M 5829
-***** Notes
-***** Refs
 **** TODO alpha CSF distance comparison 			  :CSF_ALPHA:
    :LOGBOOK:
    CLOCK: [2013-07-19 Fri 09:53]--[2013-07-19 Fri 09:55] =>  0:02
@@ -2006,43 +1638,6 @@ This proves the inequality we need.  The remaining problem is to remove the symm
 [[file:refs.org::#MR1424425][Contraction of convex hypersurfaces by their affine normal]]
 [[file:refs.org::#MR1902649][Singularities in crystalline curvature flows]]
 [[file:refs.org::#MR2946930][Contracting convex immersed closed plane curves with slow speed of curvature]]
-**** TODO CSF surfaces distance comparison	     :CSF:SURFACES:DIST_COMP:
-   :PROPERTIES:
-   :ID:       85f583ed-c9eb-4993-91e3-8cedf9945d1f
-   :END:
-[[file:~/working/academic/research/csf_dist_comp_surfaces]]
-***** Notes
-***** Tasks
-****** TODO Organisation
-******* DONE Create tasks
-	 SCHEDULED: <2014-10-18 Sat>
-	 :LOGBOOK:
-	 - State "DONE"       from "NEXT"       [2014-10-30 Thu 08:35]
-	 CLOCK: [2014-10-28 Tue 19:40]--[2014-10-28 Tue 19:49] =>  0:09
-	 :END:
-****** TODO Math
-******* TODO Dist comp on sphere
-******** TODO Chord/arc profile
-******** TODO Comparison
-******* TODO Comparison for positively curved surfaces
-******* TODO Connection with ancient solutions
-****** TODO Writing
-******* DONE Create org file
-	:LOGBOOK:
-	- State "DONE"       from "NEXT"       [2014-10-28 Tue 20:10]
-	CLOCK: [2014-10-28 Tue 19:49]--[2014-10-28 Tue 20:10] =>  0:21
-	:END:
-******* TODO Introduction
-******** NEXT Write outline
-******* TODO Chord/arc profile
-******** NEXT Write variations
-******** NEXT Write asymptotics
-******** NEXT Write viscosity equation
-******* TODO Comparisons
-******** NEXT Compare with circles of latitude
-******* TODO Convergence
-******** NEXT Obtain curvature bound
-***** Refs
 **** TODO Pipe Flows 						  :PIPE_FLOW:
    :PROPERTIES:
    :ID:       cf90c8f0-dc09-44d4-87d4-f7000acc2ba1
@@ -2111,6 +1706,9 @@ This proves the inequality we need.  The remaining problem is to remove the symm
        	:END:
 ****** TODO Write Paper
 ******* TODO Paper organisation
+	:LOGBOOK:
+	CLOCK: [2014-12-09 Tue 13:25]--[2014-12-09 Tue 13:26] =>  0:01
+	:END:
 ******** DONE Review existing paper to find what needs to done
 	 :LOGBOOK:
 	 - State "DONE"       from "NEXT"       [2014-11-04 Tue 11:46]
@@ -2124,11 +1722,13 @@ This proves the inequality we need.  The remaining problem is to remove the symm
 	 :LOGBOOK:
 	 CLOCK: [2014-10-07 Tue 15:10]--[2014-10-07 Tue 15:25] =>  0:15
 	 :END:
+******** DONE Layout paper for just pipe flow
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2014-12-09 Tue 13:25]
+	 CLOCK: [2014-12-09 Tue 12:06]--[2014-12-09 Tue 13:25] =>  1:19
+	 :END:
+******** NEXT Write outline of paper
 ******* TODO Cont. Mech on Manifolds
-******** NEXT Method is adapted to the geometry
-- Mention no need to mess about with Jacobians: great simplification!
-- discretisation is also better. Don't need to transform boundary conditions at cell interfaces
-******** NEXT Add transport theorem
 ******** DONE Clean up definitions of density, body etc.
 	 :LOGBOOK:
 	 - State "DONE"       from "NEXT"       [2014-10-07 Tue 16:54]
@@ -2139,8 +1739,6 @@ This proves the inequality we need.  The remaining problem is to remove the symm
 	 :Effort:   1:30
 	 :END:
 i.e. is the density defined on B or B_t?
-******** NEXT Simplify boundary considerations
-- The body could probably just be a smooth family of embeddings. Then the boundary of $B_t = \phi_t(B)$ should be piecewise smooth.
 ******** NEXT Sort out conservation equations/Material derivative/Lie derivative for Momentum equation
 	 SCHEDULED: <2014-12-15 Mon>
          :LOGBOOK:
@@ -2161,10 +1759,6 @@ i.e. is the density defined on B or B_t?
 	 CLOCK: [2014-11-06 Thu 12:42]--[2014-11-06 Thu 13:52] =>  1:10
 	 :END:
 ******** NEXT Boundary conditions
-******** NEXT Comment on characteristic function
-- should get a delta function across the free surface!
-******** NEXT Jump discontinuities
-Marsden et. al. book
 ******** NEXT Asymptotic analysis, direct integration?
 - see sec 2 of bourdarias, ersoy, gerbi 
 ******* TODO Pipe domain
@@ -2172,8 +1766,19 @@ Marsden et. al. book
 ******** NEXT Change D to arbitrary 2-manifold
 ******** NEXT Write without coordinates
 ******** NEXT Non-orthogonal domains
-******** NEXT Sort out boundary conditions
 ******** NEXT Review divergence and transport theorems
+******** NEXT Method is adapted to the geometry
+- Mention no need to mess about with Jacobians: great simplification!
+- discretisation is also better. Don't need to transform boundary conditions at cell interfaces
+******** NEXT Add transport theorem
+******** TODO Boundary conditions
+********* NEXT Sort out boundary conditions
+********* NEXT Simplify boundary considerations
+- The body could probably just be a smooth family of embeddings. Then the boundary of $B_t = \phi_t(B)$ should be piecewise smooth.
+********* NEXT Comment on characteristic function
+- should get a delta function across the free surface!
+********* NEXT Jump discontinuities
+Marsden et. al. book
 ******* TODO Cross-section equations
 ******** NEXT Sort out boundary terms
 - fluid velocity or free surface velocity?
@@ -2182,18 +1787,13 @@ Marsden et. al. book
 ******** NEXT Profile on cross sections
 - in general the quantities may have some qualitative behaviour on the cross-sections: e.g. approximately constant, radially symmetric, the solution may have some known behaviour over the cross section determined by a "profile" function independent of $t$.
 
-******* TODO Fluids
-******** NEXT Ideal fluid
-******** NEXT Equation of state
-******** NEXT Approximation by constant density
-******** NEXT Add friction according to Manning-Strickler
-- near eq 2.49 p. 233 of bourdarias, ersoy, gerbi
 ******* TODO Riemann geometry background
 ******** NEXT Review and revise
 ******** NEXT Add transport theorem
-****** TODO Misc
+****** TODO Admin
 ******* NEXT Follow up with Steve Roberts
        	 SCHEDULED: <2014-12-15 Mon>
+******* NEXT Find place to publish
 ***** Notes
 ***** References
 - Gerbi et. al.
@@ -2239,386 +1839,8 @@ See [[*Convexity%20in%20space%20forms][Convexity in space forms]] and Urbas' and
 ******* TODO Aleksandrov reflection
 ***** Notes
 ***** Refs 
-**** TODO Minimal immersion in hyperbolic space :IMMERSIONS:MINIMAL:SYMMMETRIC:SPHERE:HYPERBOLIC:
-***** Notes
-****** Higher oscillating spaces
-Not sure what exactly I was thinking here...
-- Represent them as (Lie groups/algebras) higher order derivations?
-- Adjoint representation of Lie group such spaces gives derivations?
-- Linear representation corresponds to 1st order derivations?
-- Jet bundles?
-- Koszul complex
-****** Sequences
-Not sure what this is about either!
-- Koszul complex, presentations, descending sequences?
-***** Tasks
-****** TODO Writing
-******* TODO Summary
-******** NEXT Transcribe Nolan's outline
-***** Meetings
-****** Nolan Wallach
-       :LOGBOOK:
-       CLOCK: [2014-08-12 Tue 14:05]--[2014-08-12 Tue 15:31] =>  1:26
-       :END:
-<2014-08-12 Tue 14:00-15:30>
-**** TODO Convexity in space forms			   :CONVEX:SPACEFORM:
-***** Files
-[[file:~/working/academic/research/convexity_space_forms]]
-***** Notes
-***** Tasks
-****** TODO Admin
-       :LOGBOOK:
-       CLOCK: [2014-10-16 Thu 18:04]--[2014-10-16 Thu 18:05] =>  0:01
-       :END:
-******* DONE Create org structure
-	:LOGBOOK:
-	- State "DONE"       from "NEXT"       [2014-10-16 Thu 18:04]
-	CLOCK: [2014-10-16 Thu 17:52]--[2014-10-16 Thu 18:04] =>  0:12
-	:END:
-******* NEXT Create tasks
-	:LOGBOOK:
-	CLOCK: [2014-11-20 Thu 11:17]--[2014-11-20 Thu 11:32] =>  0:15
-	:END:
-****** TODO Mathematics
-******* TODO Basic convexity
-******** NEXT Work out precise definitions
-	 :LOGBOOK:
-	 CLOCK: [2014-11-20 Thu 11:32]--[2014-11-20 Thu 12:15] =>  0:43
-	 :END:
-******** NEXT Lies on one side of tangent equator
-******** NEXT Positive curvature
-******** NEXT Graph over the equator
-******** NEXT Gauss map
-******* TODO Support function
-******** NEXT Make sure of precise definition
-	 :LOGBOOK:
-	 CLOCK: [2014-12-04 Thu 13:42]--[2014-12-04 Thu 14:30] =>  0:48
-	 :END:
-******** NEXT Parameterize by support function
-	 :LOGBOOK:
-	 CLOCK: [2014-10-16 Thu 13:00]--[2014-10-16 Thu 13:30] =>  0:30
-	 CLOCK: [2014-10-16 Thu 09:30]--[2014-10-16 Thu 12:00] =>  2:30
-	 :END:
-******** NEXT Determine properties of vector field
-******** NEXT Compute laplacian
-	 :LOGBOOK:
-	 CLOCK: [2014-10-25 Sat 11:15]--[2014-10-25 Sat 12:40] =>  1:25
-	 CLOCK: [2014-10-23 Thu 12:55]--[2014-10-23 Thu 13:40] =>  0:45
-	 CLOCK: [2014-10-23 Thu 11:00]--[2014-10-23 Thu 12:25] =>  1:25
-	 :END:
-******* TODO Harnack inequality
-******* TODO Ambient convexity
-******** TODO Convex cones
-********* NEXT Convex in sphere iff cone is convex in Euclidean
-********* NEXT Convex cone universal
-If $K = \tilde{K} \intersect \sphere^n$, then $\tilde{K} \subset $\text{cone} (K)$ where $\text{cone} (K)$ is the cone through $K$ with vertex the origin.
-******** NEXT Ambient non-collapsing
-- Like Brendle, take curvature balls in the ambient space. Are these then curvature balls for the cone? Can we therefore do it all in Euclidean space?
-
-******* TODO Space forms
-******** NEXT What happens under quotients?
-******* TODO Comparison
-******** NEXT Investigate possible comparison theory
-******* TODO Convex functions
-******* TODO Polar bodies
-******* TODO Applications
-******** NEXT Contained in a hemisphere
-****** TODO Write paper
-******* TODO Outline
-******** NEXT Create main structure
-******* TODO Sections
-******** TODO Basic convexity
-********* NEXT Characterisation of convexity
-	  :LOGBOOK:
-	  CLOCK: [2014-12-04 Thu 16:40]--[2014-12-04 Thu 17:35] =>  0:55
-	  :END:
-- geodesics joining any two points
-********* NEXT Boundary structure
-- positive curvature
-********* NEXT supporting hyperplanes
-********* NEXT Gauss map
-********* NEXT Graph
-******** TODO Support function
-********* NEXT Definition using ambient space
-- like Heintze, Alencar/Frensel
-********* NEXT Harnack inequality
-********* NEXT Parametrising by support function
-******** TODO Harnack inequality
-******** TODO Connection with cones in ambient space
-******** TODO Applications
-********* NEXT Lies in a hemisphere
-******* TODO Proof reading
-**** TODO Ricci Isoprofile Comparison
-     SCHEDULED: <2015-01-05 Mon>
-     :PROPERTIES:
-     :ID:       39603eb5-2bec-4118-a705-a5287b9d5ad2
-     :END:
-
-***** Files
-[[file:/home/pbryan/working/academic/research/ricci_isoprofile_comparison]]
-***** Notes
-***** Refs
-***** Tasks
-****** TODO Weak differential inequalities
-******* DONE Work out space variations
-	:LOGBOOK:
-	- State "DONE"       from "NEXT"       [2014-03-05 Wed 13:38]
-	:END:
-******* NEXT Work out time variations
-	:LOGBOOK:
-	CLOCK: [2014-03-29 Sat 16:15]--[2014-03-29 Sat 17:41] =>  1:26
-	CLOCK: [2014-03-28 Fri 15:45]--[2014-03-28 Fri 17:54] =>  2:09
-	CLOCK: [2014-03-28 Fri 12:35]--[2014-03-28 Fri 14:30] =>  1:55
-	:END:
-******* NEXT Work out spatial barrier/viscosity inequality
-******* NEXT Work out temporal barrier/viscosity inequality
-	:LOGBOOK:
-	CLOCK: [2014-03-05 Wed 09:45]--[2014-03-05 Wed 10:35] =>  0:50
-	:END:
-****** TODO Ricci and Kleiner
-  :LOGBOOK:
-  CLOCK: [2014-03-27 Thu 09:22]--[2014-03-27 Thu 09:23] =>  0:01
-  :END:
-[2014-03-27 Thu 09:22]
-Adapt Kleiner's iso proof to Ricci flow
-
-**** TODO csf_isoprofile_surfaces
-   :PROPERTIES:
-   :ID:       b7168bd9-6808-46e9-86f3-a606bae8586b
-   :END:
-[[file:/home/pbryan/working/academic/research/csf_isoprofile_surfaces]]
-*** Future 							    :SOMEDAY:
-**** TODO Study non-smooth mean curvature flow, minimal surfaces via support fn
-     SCHEDULED: <2015-01-01 Thu>
-     :LOGBOOK:
-     CLOCK: [2013-10-19 Sat 15:33]--[2013-10-19 Sat 15:34] =>  0:01
-     :END:
-     :PROPERTIES:
-     :ID:       7fa8e994-7da5-4bf8-bae3-000740c3e966
-     :END:
-[2013-10-19 Sat 15:33]
-- This is like Evans et. al. for level set MCF. Take a non-regular convex body and evolve it's support function by MCF in a weak sense.
-- Surely I can get something out of this? Maybe I can get regularity results? 
-- Also, high co-dimension should be interesting. The support function is the projection onto the normal bundle here.
-**** TODO bakry_emery_levy_gromov 		    :LEVY_GROMOV:BAKRY_EMERY:
-   :PROPERTIES:
-   :ID:       4eb29f73-141b-4ca2-9394-436a9293bdce
-   :END:
-[[file:/home/pbryan/working/academic/research/bakry_emery_levy_gromov]]
-****** NEXT Write up Lei's Levy-Gromov argument
-    :PROPERTIES:
-    :ID:       3b4184f6-991b-4929-b1a9-edc6c5f5d680
-    :END:
-Use the quotient rather than the difference. The equality case is a sphere.
-****** TODO Convert Lei's argument to the Bakry-Emery situation.
-    :PROPERTIES:
-    :ID:       eb18f3b2-70ab-4b52-9d2c-f1677ccd9fac
-    :END:
-This should just involve extra terms from the potential. These should give the Bakry-Emery tensor where the usual one has just the Ricci tensor. Our assumption is a bound on Bakry-Emery so it should be very similar. Do we compare with the sphere again, or some weighted model that satisfies equality. It would be good to know what the solutions are!
-****** TODO Find out what happens when the scaling is correct?
-    :PROPERTIES:
-    :ID:       3a3695d3-b396-4460-b7be-3db8cb1fd9bf
-    :END: 
-Here we look at a conformal change of metric. The Levy-Gromov comparison doesn't scale the boundary area as for conformal change. Why is this useful to look at instead of the conformal change? 
-
-**** TODO distance viscosity				 :DISTANCE_VISCOSITY:
-   :PROPERTIES:
-   :ID:       c77edc75-4647-4f26-93c4-da74485714c1
-   :END:
-[[file:~/working/academic/research/distance_viscosity]]
-***** NEXT Set up exact tasks
-      :PROPERTIES:
-      :ID:       86855cdc-dd8e-492f-a12a-061383083d80
-      :END:
-***** NEXT Compute Hessian of d
-      :LOGBOOK:
-      CLOCK: [2013-12-13 Fri 09:45]--[2013-12-13 Fri 10:45] =>  1:00
-      CLOCK: [2012-11-27 Tue 17:45]--[2012-11-27 Tue 19:15] =>  1:30
-      CLOCK: [2012-11-27 Tue 14:05]--[2012-11-27 Tue 14:30] =>  0:25
-      :END:
-      :PROPERTIES:
-      :ID:       ed26585a-2582-48bc-a787-2a457954b383
-      :END:
-
-**** TODO vector symmetric rational functions
-   :PROPERTIES:
-   :ID:       6c117119-27b6-488d-9f88-199a553e2be2
-   :END:
-[[file:~/working/academic/research/vector_symmetric_rational_functions]]
-
-**** TODO cmc_stability
-   :PROPERTIES:
-   :ID:       4cda53b3-53b6-4e00-99dc-b977d3f57889
-   :END:
-[[file:/home/pbryan/working/academic/research/cmc_stability]]
-
-**** TODO free_k_graphs
-   :PROPERTIES:
-   :ID:       89d01823-d0d8-4903-9d15-b84ad05edf31
-   :END:
-[[file:/home/pbryan/working/academic/research/free_k_graphs]]
-**** TODO ricci_pseudo_locality
-   :PROPERTIES:
-   :ID:       9831a9b5-8a08-43cd-bbfd-bd0b0950a815
-   :END:
-[[file:/home/pbryan/working/academic/research/ricci_pseudo_locality]]
-
-**** TODO ricci_degenerate_neck_pinches
-   :PROPERTIES:
-   :ID:       66603461-6850-4f49-ba50-de184b15be3b
-   :END:
-[[file:/home/pbryan/working/academic/research/ricci_degenerate_neck_pinches]]
-**** TODO ricci_flow_warped_products
-   :PROPERTIES:
-   :ID:       4eb29f73-141b-4ca2-9394-436a9293bdce
-   :END:
-[[file:~/working/academic/research/ricci_flow_warped_products]]
-
-**** TODO unbounded_curvature_comparison
-   :PROPERTIES:
-   :ID:       84de701c-0043-4f38-8b94-70db58460f70
-   :END:
-[[file:/home/pbryan/working/academic/research/unbounded_curvature_comparison]]
-**** TODO isoperimetry
-   :PROPERTIES:
-   :ID:       6d2fffec-080e-464b-b8d5-3c86a329fe2c
-   :END:
-[[file:/home/paul/working/academic/research/isoperimetry]]
-**** TODO hypersurface_support_functions
-   :PROPERTIES:
-   :ID:       cd56118f-db78-4d4a-a900-454dfc251e29
-   :END:
-[[file:/home/paul/working/academic/research/hypersurface_support_functions]]
-***** TODO Tasks
-****** NEXT Calculate Laplacian of support function
-       :LOGBOOK:
-       CLOCK: [2014-02-16 Sun 11:11]--[2014-02-16 Sun 12:12] =>  1:01
-       CLOCK: [2014-02-15 Sat 23:25]--[2014-02-16 Sun 01:30] =>  2:05
-       CLOCK: [2014-02-15 Sat 16:05]--[2014-02-15 Sat 17:54] =>  1:49
-       :END:
-**** TODO Differentiable sphere thm
-   :PROPERTIES:
-   :ID:       ea0b2bb7-385f-409e-afb2-3b42b2cbdfea
-   :END:
-Can I use a non-collapsing type argument?
-**** TODO Mean curvature solitons
-     :LOGBOOK:
-     CLOCK: [2013-11-01 Fri 14:13]--[2013-11-01 Fri 14:14] =>  0:01
-     :END:
-     :PROPERTIES:
-     :ID:       5d7fb5e3-7234-4307-b4c9-5856640d5847
-     :END:
-***** Notes
-***** Refs
-***** Tasks
-****** DONE Get ref's
-       :LOGBOOK:
-       - State "DONE"       from "NEXT"       [2013-11-01 Fri 14:13]
-       CLOCK: [2013-11-01 Fri 13:51]--[2013-11-01 Fri 14:13] =>  0:22
-       :END:
-****** NEXT Explore connection with Bakry-Emery and conformal metric
-       :LOGBOOK:
-       CLOCK: [2013-11-01 Fri 13:20]--[2013-11-01 Fri 13:51] =>  0:31
-       :END:
-       :PROPERTIES:
-       :ID:       f5a8bc41-7ebf-419a-86f5-ab04147b373e
-       :END:
-In particular, if $X$ is not a gradient vector field, what is corresponding metric/measure for which $M_0$ is minimal?
-****** TODO Broader questions
-       :PROPERTIES:
-       :ID:       a307d15c-23f4-4278-9e41-8887cf78567e
-       :END:
-******* NEXT What are CMC surfaces w.r.t. conformal metric
-	:PROPERTIES:
-	:ID:       6a66d609-4d64-4733-9097-00607a2c1028
-	:END:
-******* NEXT How can one interpret separation of variables
-	:PROPERTIES:
-	:ID:       c61bb615-dccf-4623-8d59-4a171e72af5e
-	:END:
-******* NEXT Can we use heat kernel for a Riemannian background?
-	:PROPERTIES:
-	:ID:       ed667bf6-a688-488f-a66f-8695c2099787
-	:END:
-******* NEXT Read up on some refs
-	:PROPERTIES:
-	:ID:       c3a7b853-99dd-444f-a663-b5ec0f791fc7
-	:END:
-****** Evolution of convex lens-shaped networks under the curve shortening flow
-:PROPERTIES:
-:Custom_ID: MR2763716
-:END:
-[[papers:MR2763716][MR2763716-paper]]
-[[bib:MR2763716][MR2763716-bib]]
-****** Motion by curvature of planar networks
-:PROPERTIES:
-:Custom_ID: MR2075985
-:END:
-[[papers:MR2075985][MR2075985-paper]]
-[[bib:MR2075985][MR2075985-bib]]
-**** TODO Generalised radial comparison theorem
-***** Notes
-****** Model construction from Tangential Group Action
-- Let $G$ act on $T_o M$ where $o \in M$ is some choice of origin. We require that $G$ fixes $o$ and probably that $G\subset GL^n$ or $G\subset O^n$ or $G\subset SO^n$.
-- Choose a point $v \in T_o M$. How do we choose such a point? We can probably assume $v$ is unit length, particularly if $G\subset O^n$ or $SO^n$. Let $G(p)$ be the orbit of $p$.
-- Define the model manifold 
-  \[
-  \tilde{M} = T_oM/G \times G(p),
-  \]
-  equipped with metric
-  \[
-  \tilde{\metric} = \bar{\metric} + f(r)^2 \metric_{\theta}
-  \]
-  for $\bar{\metric}$ the quotient metric on $T_oM/G$, $f(r)$ some positive function on $T_oM/G$ and $\metric_{\theta}$ some metric on $G(p)$. Here $r\in T_oM/G$ and $\theta \in G(p)$. How do we choose $\metric_{\theta}?$ This could just be the Euclidean metric on $T_oM$ restricted to $G(p)$ (assuming $G(p)$ is a submanifold which should be okay since $G$ acts effectively and transitively.
-- We'll want to choose $f$ by some differential equation arising from the curvature. See for example, Kondo and Tanaka (2009). Then we can get some sort of curvature comparison from $M$ to $\tilde{M}$.
-- More generally, we might collapse the orbit. Here we could take $H\subset G$ and use $H(p)$ rather than $G(p)$. 
-- Compare this with the construction of radial comparison in Kondo and Tanaka (2009). There $G=SO^n$, so that $T_oM/G = [0,\infty)$. The orbit is reduced from $\sphere^n$ to $\sphere^1$, by considering an great circle on $\sphere^n$ which presumably corresponds to choosing $H$ to rotate about a fixed plane (then the great circle lies in that plane). $\metric_{\theta}$ is just the standard metric on $\sphere^1$. Thus I guess one way to proceed would be to choose the unit tangent sphere as source of points, let $G \subset SO^n$ and $H$ be the intersection of $G$ with the rotations fixing a plane (which plane?). Or $H$ could be any subgroup and we could take the metric on $H(p)$ to be the induced metric from the standard metric on $\sphere^n$. Here, since $H \subset G\subset SO^n$, the orbit is a subset of $\sphere^n$. Is it a submanifold?
-***** Refs
-- Kondo, Tanaka (2009): Total Curvatures of Model Surfaces Control Topology of Complete Open Manifolds with Radial Curvature Bounded Below.
-***** Tasks
-****** NEXT Work out model construction
-       :LOGBOOK:
-       CLOCK: [2014-01-30 Thu 15:30]--[2014-01-30 Thu 16:31] =>  1:01
-       :END:
-****** NEXT Scan diagram of model construction
-****** NEXT Re-investigate radial comparison
-       SCHEDULED: <2015-01-01 Thu>
-
-****** NEXT Work out curvature for model comparison
-       :LOGBOOK:
-       CLOCK: [2014-01-31 Fri 13:05]--[2014-01-31 Fri 13:26] =>  0:21
-       :END:
-**** TODO Isoprofile of covers
-
-***** Notes
-I think there should be a result which says that for $a$ sufficiently small that the isoperimetric profile for $\tilde M$ is less than (some multiple of) the length of the shortest noncontractible closed geodesic in $M$, the isoperimetric profiles of $M$ and $\tilde M$ are the same.  The idea is as follows:  If the isoperimetric region has nontrivial topology and less than half the area, then since $\varphi'\geq 0$ the boundary is convex, and we can apply e.g. harmonic map heat flow from any boundary component to obtain a closed geodesic, so the total length of each boundary component must be at least as large as the length of the shortest closed geodesic.  If the region is disc type, then we can lift to a disc in $\tilde M$ and apply the isoperimetric inequality there.  I guess this means the argument should work dor $a$ such that the isoperimetric profile of $\tilde M$ is less than twice the length of the shortest geodesic.
-
-So if we control the isoperimetric profile of $\tilde M$ and also get a lower bound on the length of the shortest geodesic, then we should be in business.
-
-In the genus 1 case (where we are not rescaling), the length of the shortest nontrivial geodesic is nondecreasing (an easier version of the second variation argument we do in the paper).  So this case should work out OK.  In the higher genus case I don't see how to prove it yet, since the metric gets scaled down in the normalisation process which tries to shrink geodesics down.
-
-I am wondering whether it might be possible to take into account the possible different topologies of isoperimetric regions in order to get estimates on the isoperimetric profile of $M$ instead of $\tilde M$:  For example out argument shows that the relevant isoperimetric regions are connected and have connected complement, so in the genus 1 case they are either disks, complements of discs, or annuli.   Maybe it is possible to argue separately for each of these cases?
-
-**** TODO Cohomology of Gauss map and linear functionals
-***** Files
-[[file:~/working/academic/research/gauss_cohomology_functionals]]
-***** Tasks
-****** TODO Admin
-******* TODO Org structure
-******** NEXT Create org structure
-	 :LOGBOOK:
-	 CLOCK: [2014-10-20 Mon 11:12]--[2014-10-20 Mon 11:50] =>  0:38
-	 :END:
-******** DONE Create project repository
-	 :LOGBOOK:
-	 - State "DONE"       from "NEXT"       [2014-10-20 Mon 11:12]
-	 CLOCK: [2014-10-20 Mon 11:10]--[2014-10-20 Mon 11:12] =>  0:02
-	 :END:
-***** Notes
-***** Refs
-
 *** Holding
-**** TODO Ricci isoperimetric profile			     :RICCI_ISO_COMP:
+**** TODO Ricci isoperimetric profile on surfaces 	     :RICCI_ISO_COMP:
    :LOGBOOK:
    :END:
    :PROPERTIES:
@@ -3025,7 +2247,192 @@ The $K$ term should be divided by $8\pi$.
 ***** Notes
 ***** References
 
-**** TODO Space form curvature flow			 :SPACE_FORM_HARNACK:
+**** TODO CSF surfaces distance comparison	     :CSF:SURFACES:DIST_COMP:
+   :PROPERTIES:
+   :ID:       85f583ed-c9eb-4993-91e3-8cedf9945d1f
+   :END:
+[[file:~/working/academic/research/csf_dist_comp_surfaces]]
+***** Notes
+***** Tasks
+****** TODO Organisation
+******* DONE Create tasks
+	 SCHEDULED: <2014-10-18 Sat>
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2014-10-30 Thu 08:35]
+	 CLOCK: [2014-10-28 Tue 19:40]--[2014-10-28 Tue 19:49] =>  0:09
+	 :END:
+****** TODO Math
+******* TODO Dist comp on sphere
+******** TODO Chord/arc profile
+******** TODO Comparison
+******* TODO Comparison for positively curved surfaces
+******* TODO Connection with ancient solutions
+****** TODO Writing
+******* DONE Create org file
+	:LOGBOOK:
+	- State "DONE"       from "NEXT"       [2014-10-28 Tue 20:10]
+	CLOCK: [2014-10-28 Tue 19:49]--[2014-10-28 Tue 20:10] =>  0:21
+	:END:
+******* TODO Introduction
+******** NEXT Write outline
+******* TODO Chord/arc profile
+******** NEXT Write variations
+******** NEXT Write asymptotics
+******** NEXT Write viscosity equation
+******* TODO Comparisons
+******** NEXT Compare with circles of latitude
+******* TODO Convergence
+******** NEXT Obtain curvature bound
+***** Refs
+**** TODO Minimal immersion in hyperbolic space :IMMERSIONS:MINIMAL:SYMMMETRIC:SPHERE:HYPERBOLIC:
+***** Notes
+****** Higher oscillating spaces
+Not sure what exactly I was thinking here...
+- Represent them as (Lie groups/algebras) higher order derivations?
+- Adjoint representation of Lie group such spaces gives derivations?
+- Linear representation corresponds to 1st order derivations?
+- Jet bundles?
+- Koszul complex
+****** Sequences
+Not sure what this is about either!
+- Koszul complex, presentations, descending sequences?
+***** Tasks
+****** TODO Writing
+******* TODO Summary
+******** NEXT Transcribe Nolan's outline
+***** Meetings
+****** Nolan Wallach
+       :LOGBOOK:
+       CLOCK: [2014-08-12 Tue 14:05]--[2014-08-12 Tue 15:31] =>  1:26
+       :END:
+<2014-08-12 Tue 14:00-15:30>
+**** TODO Convexity in space forms			   :CONVEX:SPACEFORM:
+***** Files
+[[file:~/working/academic/research/convexity_space_forms]]
+***** Notes
+***** Tasks
+****** TODO Admin
+       :LOGBOOK:
+       CLOCK: [2014-10-16 Thu 18:04]--[2014-10-16 Thu 18:05] =>  0:01
+       :END:
+******* DONE Create org structure
+	:LOGBOOK:
+	- State "DONE"       from "NEXT"       [2014-10-16 Thu 18:04]
+	CLOCK: [2014-10-16 Thu 17:52]--[2014-10-16 Thu 18:04] =>  0:12
+	:END:
+******* NEXT Create tasks
+	:LOGBOOK:
+	CLOCK: [2014-11-20 Thu 11:17]--[2014-11-20 Thu 11:32] =>  0:15
+	:END:
+****** TODO Mathematics
+******* TODO Basic convexity
+******** NEXT Work out precise definitions
+	 :LOGBOOK:
+	 CLOCK: [2014-11-20 Thu 11:32]--[2014-11-20 Thu 12:15] =>  0:43
+	 :END:
+******** NEXT Lies on one side of tangent equator
+******** NEXT Positive curvature
+******** NEXT Graph over the equator
+******** NEXT Gauss map
+******* TODO Support function
+******** NEXT Make sure of precise definition
+	 :LOGBOOK:
+	 CLOCK: [2014-12-04 Thu 13:42]--[2014-12-04 Thu 14:30] =>  0:48
+	 :END:
+******** NEXT Parameterize by support function
+	 :LOGBOOK:
+	 CLOCK: [2014-10-16 Thu 13:00]--[2014-10-16 Thu 13:30] =>  0:30
+	 CLOCK: [2014-10-16 Thu 09:30]--[2014-10-16 Thu 12:00] =>  2:30
+	 :END:
+******** NEXT Determine properties of vector field
+******** NEXT Compute laplacian
+	 :LOGBOOK:
+	 CLOCK: [2014-10-25 Sat 11:15]--[2014-10-25 Sat 12:40] =>  1:25
+	 CLOCK: [2014-10-23 Thu 12:55]--[2014-10-23 Thu 13:40] =>  0:45
+	 CLOCK: [2014-10-23 Thu 11:00]--[2014-10-23 Thu 12:25] =>  1:25
+	 :END:
+******* TODO Harnack inequality
+******* TODO Ambient convexity
+******** TODO Convex cones
+********* NEXT Convex in sphere iff cone is convex in Euclidean
+********* NEXT Convex cone universal
+If $K = \tilde{K} \intersect \sphere^n$, then $\tilde{K} \subset $\text{cone} (K)$ where $\text{cone} (K)$ is the cone through $K$ with vertex the origin.
+******** NEXT Ambient non-collapsing
+- Like Brendle, take curvature balls in the ambient space. Are these then curvature balls for the cone? Can we therefore do it all in Euclidean space?
+
+******* TODO Space forms
+******** NEXT What happens under quotients?
+******* TODO Comparison
+******** NEXT Investigate possible comparison theory
+******* TODO Convex functions
+******* TODO Polar bodies
+******* TODO Applications
+******** NEXT Contained in a hemisphere
+****** TODO Write paper
+******* TODO Outline
+******** NEXT Create main structure
+******* TODO Sections
+******** TODO Basic convexity
+********* NEXT Characterisation of convexity
+	  :LOGBOOK:
+	  CLOCK: [2014-12-04 Thu 16:40]--[2014-12-04 Thu 17:35] =>  0:55
+	  :END:
+- geodesics joining any two points
+********* NEXT Boundary structure
+- positive curvature
+********* NEXT supporting hyperplanes
+********* NEXT Gauss map
+********* NEXT Graph
+******** TODO Support function
+********* NEXT Definition using ambient space
+- like Heintze, Alencar/Frensel
+********* NEXT Harnack inequality
+********* NEXT Parametrising by support function
+******** TODO Harnack inequality
+******** TODO Connection with cones in ambient space
+******** TODO Applications
+********* NEXT Lies in a hemisphere
+******* TODO Proof reading
+**** TODO Ricci Isoprofile Comparison
+     SCHEDULED: <2015-01-05 Mon>
+     :PROPERTIES:
+     :ID:       39603eb5-2bec-4118-a705-a5287b9d5ad2
+     :END:
+
+***** Files
+[[file:/home/pbryan/working/academic/research/ricci_isoprofile_comparison]]
+***** Notes
+***** Refs
+***** Tasks
+****** TODO Weak differential inequalities
+******* DONE Work out space variations
+	:LOGBOOK:
+	- State "DONE"       from "NEXT"       [2014-03-05 Wed 13:38]
+	:END:
+******* NEXT Work out time variations
+	:LOGBOOK:
+	CLOCK: [2014-03-29 Sat 16:15]--[2014-03-29 Sat 17:41] =>  1:26
+	CLOCK: [2014-03-28 Fri 15:45]--[2014-03-28 Fri 17:54] =>  2:09
+	CLOCK: [2014-03-28 Fri 12:35]--[2014-03-28 Fri 14:30] =>  1:55
+	:END:
+******* NEXT Work out spatial barrier/viscosity inequality
+******* NEXT Work out temporal barrier/viscosity inequality
+	:LOGBOOK:
+	CLOCK: [2014-03-05 Wed 09:45]--[2014-03-05 Wed 10:35] =>  0:50
+	:END:
+****** TODO Ricci and Kleiner
+  :LOGBOOK:
+  CLOCK: [2014-03-27 Thu 09:22]--[2014-03-27 Thu 09:23] =>  0:01
+  :END:
+[2014-03-27 Thu 09:22]
+Adapt Kleiner's iso proof to Ricci flow
+
+**** TODO CSF Isoprofile comparison on surfaces
+   :PROPERTIES:
+   :ID:       b7168bd9-6808-46e9-86f3-a606bae8586b
+   :END:
+[[file:/home/pbryan/working/academic/research/csf_isoprofile_surfaces]]
+**** TODO Space form curvature flow 			 :SPACE_FORM_HARNACK:
      :LOGBOOK:
      :END:
      :PROPERTIES:
@@ -3367,7 +2774,620 @@ This is some sort of curvature flow for polygons - exactly what I want to look a
 [[papers:MR1240580][MR1240580-paper]]
 [[bib:MR1240580][MR1240580-bib]]
 
+*** Future 							    :SOMEDAY:
+**** TODO Study non-smooth mean curvature flow, minimal surfaces via support fn
+     SCHEDULED: <2015-01-01 Thu>
+     :LOGBOOK:
+     CLOCK: [2013-10-19 Sat 15:33]--[2013-10-19 Sat 15:34] =>  0:01
+     :END:
+     :PROPERTIES:
+     :ID:       7fa8e994-7da5-4bf8-bae3-000740c3e966
+     :END:
+[2013-10-19 Sat 15:33]
+- This is like Evans et. al. for level set MCF. Take a non-regular convex body and evolve it's support function by MCF in a weak sense.
+- Surely I can get something out of this? Maybe I can get regularity results? 
+- Also, high co-dimension should be interesting. The support function is the projection onto the normal bundle here.
+**** TODO bakry_emery_levy_gromov 		    :LEVY_GROMOV:BAKRY_EMERY:
+   :PROPERTIES:
+   :ID:       4eb29f73-141b-4ca2-9394-436a9293bdce
+   :END:
+[[file:/home/pbryan/working/academic/research/bakry_emery_levy_gromov]]
+****** NEXT Write up Lei's Levy-Gromov argument
+    :PROPERTIES:
+    :ID:       3b4184f6-991b-4929-b1a9-edc6c5f5d680
+    :END:
+Use the quotient rather than the difference. The equality case is a sphere.
+****** TODO Convert Lei's argument to the Bakry-Emery situation.
+    :PROPERTIES:
+    :ID:       eb18f3b2-70ab-4b52-9d2c-f1677ccd9fac
+    :END:
+This should just involve extra terms from the potential. These should give the Bakry-Emery tensor where the usual one has just the Ricci tensor. Our assumption is a bound on Bakry-Emery so it should be very similar. Do we compare with the sphere again, or some weighted model that satisfies equality. It would be good to know what the solutions are!
+****** TODO Find out what happens when the scaling is correct?
+    :PROPERTIES:
+    :ID:       3a3695d3-b396-4460-b7be-3db8cb1fd9bf
+    :END: 
+Here we look at a conformal change of metric. The Levy-Gromov comparison doesn't scale the boundary area as for conformal change. Why is this useful to look at instead of the conformal change? 
+
+**** TODO distance viscosity				 :DISTANCE_VISCOSITY:
+   :PROPERTIES:
+   :ID:       c77edc75-4647-4f26-93c4-da74485714c1
+   :END:
+[[file:~/working/academic/research/distance_viscosity]]
+***** NEXT Set up exact tasks
+      :PROPERTIES:
+      :ID:       86855cdc-dd8e-492f-a12a-061383083d80
+      :END:
+***** NEXT Compute Hessian of d
+      :LOGBOOK:
+      CLOCK: [2013-12-13 Fri 09:45]--[2013-12-13 Fri 10:45] =>  1:00
+      CLOCK: [2012-11-27 Tue 17:45]--[2012-11-27 Tue 19:15] =>  1:30
+      CLOCK: [2012-11-27 Tue 14:05]--[2012-11-27 Tue 14:30] =>  0:25
+      :END:
+      :PROPERTIES:
+      :ID:       ed26585a-2582-48bc-a787-2a457954b383
+      :END:
+
+**** TODO vector symmetric rational functions
+   :PROPERTIES:
+   :ID:       6c117119-27b6-488d-9f88-199a553e2be2
+   :END:
+[[file:~/working/academic/research/vector_symmetric_rational_functions]]
+
+**** TODO cmc_stability
+   :PROPERTIES:
+   :ID:       4cda53b3-53b6-4e00-99dc-b977d3f57889
+   :END:
+[[file:/home/pbryan/working/academic/research/cmc_stability]]
+
+**** TODO free_k_graphs
+   :PROPERTIES:
+   :ID:       89d01823-d0d8-4903-9d15-b84ad05edf31
+   :END:
+[[file:/home/pbryan/working/academic/research/free_k_graphs]]
+**** TODO ricci_pseudo_locality
+   :PROPERTIES:
+   :ID:       9831a9b5-8a08-43cd-bbfd-bd0b0950a815
+   :END:
+[[file:/home/pbryan/working/academic/research/ricci_pseudo_locality]]
+
+**** TODO ricci_degenerate_neck_pinches
+   :PROPERTIES:
+   :ID:       66603461-6850-4f49-ba50-de184b15be3b
+   :END:
+[[file:/home/pbryan/working/academic/research/ricci_degenerate_neck_pinches]]
+**** TODO ricci_flow_warped_products
+   :PROPERTIES:
+   :ID:       4eb29f73-141b-4ca2-9394-436a9293bdce
+   :END:
+[[file:~/working/academic/research/ricci_flow_warped_products]]
+
+**** TODO unbounded_curvature_comparison
+   :PROPERTIES:
+   :ID:       84de701c-0043-4f38-8b94-70db58460f70
+   :END:
+[[file:/home/pbryan/working/academic/research/unbounded_curvature_comparison]]
+**** TODO isoperimetry
+   :PROPERTIES:
+   :ID:       6d2fffec-080e-464b-b8d5-3c86a329fe2c
+   :END:
+[[file:/home/paul/working/academic/research/isoperimetry]]
+**** TODO hypersurface_support_functions
+   :PROPERTIES:
+   :ID:       cd56118f-db78-4d4a-a900-454dfc251e29
+   :END:
+[[file:/home/paul/working/academic/research/hypersurface_support_functions]]
+***** TODO Tasks
+****** NEXT Calculate Laplacian of support function
+       :LOGBOOK:
+       CLOCK: [2014-02-16 Sun 11:11]--[2014-02-16 Sun 12:12] =>  1:01
+       CLOCK: [2014-02-15 Sat 23:25]--[2014-02-16 Sun 01:30] =>  2:05
+       CLOCK: [2014-02-15 Sat 16:05]--[2014-02-15 Sat 17:54] =>  1:49
+       :END:
+**** TODO Differentiable sphere thm
+   :PROPERTIES:
+   :ID:       ea0b2bb7-385f-409e-afb2-3b42b2cbdfea
+   :END:
+Can I use a non-collapsing type argument?
+**** TODO Mean curvature solitons
+     :LOGBOOK:
+     CLOCK: [2013-11-01 Fri 14:13]--[2013-11-01 Fri 14:14] =>  0:01
+     :END:
+     :PROPERTIES:
+     :ID:       5d7fb5e3-7234-4307-b4c9-5856640d5847
+     :END:
+***** Notes
+***** Refs
+***** Tasks
+****** DONE Get ref's
+       :LOGBOOK:
+       - State "DONE"       from "NEXT"       [2013-11-01 Fri 14:13]
+       CLOCK: [2013-11-01 Fri 13:51]--[2013-11-01 Fri 14:13] =>  0:22
+       :END:
+****** NEXT Explore connection with Bakry-Emery and conformal metric
+       :LOGBOOK:
+       CLOCK: [2013-11-01 Fri 13:20]--[2013-11-01 Fri 13:51] =>  0:31
+       :END:
+       :PROPERTIES:
+       :ID:       f5a8bc41-7ebf-419a-86f5-ab04147b373e
+       :END:
+In particular, if $X$ is not a gradient vector field, what is corresponding metric/measure for which $M_0$ is minimal?
+****** TODO Broader questions
+       :PROPERTIES:
+       :ID:       a307d15c-23f4-4278-9e41-8887cf78567e
+       :END:
+******* NEXT What are CMC surfaces w.r.t. conformal metric
+	:PROPERTIES:
+	:ID:       6a66d609-4d64-4733-9097-00607a2c1028
+	:END:
+******* NEXT How can one interpret separation of variables
+	:PROPERTIES:
+	:ID:       c61bb615-dccf-4623-8d59-4a171e72af5e
+	:END:
+******* NEXT Can we use heat kernel for a Riemannian background?
+	:PROPERTIES:
+	:ID:       ed667bf6-a688-488f-a66f-8695c2099787
+	:END:
+******* NEXT Read up on some refs
+	:PROPERTIES:
+	:ID:       c3a7b853-99dd-444f-a663-b5ec0f791fc7
+	:END:
+****** Evolution of convex lens-shaped networks under the curve shortening flow
+:PROPERTIES:
+:Custom_ID: MR2763716
+:END:
+[[papers:MR2763716][MR2763716-paper]]
+[[bib:MR2763716][MR2763716-bib]]
+****** Motion by curvature of planar networks
+:PROPERTIES:
+:Custom_ID: MR2075985
+:END:
+[[papers:MR2075985][MR2075985-paper]]
+[[bib:MR2075985][MR2075985-bib]]
+**** TODO Generalised radial comparison theorem
+***** Notes
+****** Model construction from Tangential Group Action
+- Let $G$ act on $T_o M$ where $o \in M$ is some choice of origin. We require that $G$ fixes $o$ and probably that $G\subset GL^n$ or $G\subset O^n$ or $G\subset SO^n$.
+- Choose a point $v \in T_o M$. How do we choose such a point? We can probably assume $v$ is unit length, particularly if $G\subset O^n$ or $SO^n$. Let $G(p)$ be the orbit of $p$.
+- Define the model manifold 
+  \[
+  \tilde{M} = T_oM/G \times G(p),
+  \]
+  equipped with metric
+  \[
+  \tilde{\metric} = \bar{\metric} + f(r)^2 \metric_{\theta}
+  \]
+  for $\bar{\metric}$ the quotient metric on $T_oM/G$, $f(r)$ some positive function on $T_oM/G$ and $\metric_{\theta}$ some metric on $G(p)$. Here $r\in T_oM/G$ and $\theta \in G(p)$. How do we choose $\metric_{\theta}?$ This could just be the Euclidean metric on $T_oM$ restricted to $G(p)$ (assuming $G(p)$ is a submanifold which should be okay since $G$ acts effectively and transitively.
+- We'll want to choose $f$ by some differential equation arising from the curvature. See for example, Kondo and Tanaka (2009). Then we can get some sort of curvature comparison from $M$ to $\tilde{M}$.
+- More generally, we might collapse the orbit. Here we could take $H\subset G$ and use $H(p)$ rather than $G(p)$. 
+- Compare this with the construction of radial comparison in Kondo and Tanaka (2009). There $G=SO^n$, so that $T_oM/G = [0,\infty)$. The orbit is reduced from $\sphere^n$ to $\sphere^1$, by considering an great circle on $\sphere^n$ which presumably corresponds to choosing $H$ to rotate about a fixed plane (then the great circle lies in that plane). $\metric_{\theta}$ is just the standard metric on $\sphere^1$. Thus I guess one way to proceed would be to choose the unit tangent sphere as source of points, let $G \subset SO^n$ and $H$ be the intersection of $G$ with the rotations fixing a plane (which plane?). Or $H$ could be any subgroup and we could take the metric on $H(p)$ to be the induced metric from the standard metric on $\sphere^n$. Here, since $H \subset G\subset SO^n$, the orbit is a subset of $\sphere^n$. Is it a submanifold?
+***** Refs
+- Kondo, Tanaka (2009): Total Curvatures of Model Surfaces Control Topology of Complete Open Manifolds with Radial Curvature Bounded Below.
+***** Tasks
+****** NEXT Work out model construction
+       :LOGBOOK:
+       CLOCK: [2014-01-30 Thu 15:30]--[2014-01-30 Thu 16:31] =>  1:01
+       :END:
+****** NEXT Scan diagram of model construction
+****** NEXT Re-investigate radial comparison
+       SCHEDULED: <2015-01-01 Thu>
+
+****** NEXT Work out curvature for model comparison
+       :LOGBOOK:
+       CLOCK: [2014-01-31 Fri 13:05]--[2014-01-31 Fri 13:26] =>  0:21
+       :END:
+**** TODO Isoprofile of covers
+
+***** Notes
+I think there should be a result which says that for $a$ sufficiently small that the isoperimetric profile for $\tilde M$ is less than (some multiple of) the length of the shortest noncontractible closed geodesic in $M$, the isoperimetric profiles of $M$ and $\tilde M$ are the same.  The idea is as follows:  If the isoperimetric region has nontrivial topology and less than half the area, then since $\varphi'\geq 0$ the boundary is convex, and we can apply e.g. harmonic map heat flow from any boundary component to obtain a closed geodesic, so the total length of each boundary component must be at least as large as the length of the shortest closed geodesic.  If the region is disc type, then we can lift to a disc in $\tilde M$ and apply the isoperimetric inequality there.  I guess this means the argument should work dor $a$ such that the isoperimetric profile of $\tilde M$ is less than twice the length of the shortest geodesic.
+
+So if we control the isoperimetric profile of $\tilde M$ and also get a lower bound on the length of the shortest geodesic, then we should be in business.
+
+In the genus 1 case (where we are not rescaling), the length of the shortest nontrivial geodesic is nondecreasing (an easier version of the second variation argument we do in the paper).  So this case should work out OK.  In the higher genus case I don't see how to prove it yet, since the metric gets scaled down in the normalisation process which tries to shrink geodesics down.
+
+I am wondering whether it might be possible to take into account the possible different topologies of isoperimetric regions in order to get estimates on the isoperimetric profile of $M$ instead of $\tilde M$:  For example out argument shows that the relevant isoperimetric regions are connected and have connected complement, so in the genus 1 case they are either disks, complements of discs, or annuli.   Maybe it is possible to argue separately for each of these cases?
+
+**** TODO Cohomology of Gauss map and linear functionals
+***** Files
+[[file:~/working/academic/research/gauss_cohomology_functionals]]
+***** Tasks
+****** TODO Admin
+******* TODO Org structure
+******** NEXT Create org structure
+	 :LOGBOOK:
+	 CLOCK: [2014-10-20 Mon 11:12]--[2014-10-20 Mon 11:50] =>  0:38
+	 :END:
+******** DONE Create project repository
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2014-10-20 Mon 11:12]
+	 CLOCK: [2014-10-20 Mon 11:10]--[2014-10-20 Mon 11:12] =>  0:02
+	 :END:
+***** Notes
+***** Refs
+
+**** TODO Isoperimetric inequality and ancient solutions
+***** Tasks
+****** TODO Math
+****** TODO Writing
+******* NEXT Write isoperimetric inequality method
+From "Alexios Polanski". see also 2013arXiv1307.5764M
+- [[file:~/reference/academic/research/csf_ancient_sphere/Ancient%20solutions%20of%20the%20curve%20shortening%20flow%20on%20the%20sphere.pdf][file:~/reference/academic/research/csf_ancient_sphere/Ancient solutions of the curve shortening flow on the sphere.pdf]]
+****** TODO Admin
+******* WAITING Follow up with "Alexios"
+	  SCHEDULED: <2015-01-05 Mon>
+	  :LOGBOOK:
+	  - State "WAITING"    from "NEXT"       [2014-12-09 Tue 11:00] \\
+	    Sent email to Alexios asking for collaboration.
+	  :END:
+
 *** Complete
+**** DONE CSF Sphere Ancient Solutions			 :CSF_ANCIENT_SPHERE:
+     :LOGBOOK:
+     - State "DONE"       from "TODO"       [2014-12-09 Tue 12:03]
+     :END:
+     :PROPERTIES:
+     :ID:       6a082853-9a95-4756-9632-17078bd0fe4b
+     :END:
+***** Files
+[[file:~/working/academic/research/csf_ancient_sphere]]
+[[file:~/publish/csf_ancient_sphere/]]
+[[file:~/reference/academic/research/csf_ancient_sphere]]
+***** Tasks
+****** DONE Work out curvature evolution in coords
+       :LOGBOOK:
+       - State "DONE"       from "NEXT"       [2013-12-17 Tue 12:56]
+       CLOCK: [2013-10-21 Mon 11:35]--[2013-10-21 Mon 12:37] =>  1:02
+       :END:
+       :PROPERTIES:
+       :ID:       072484d3-34af-4d34-b8bc-f1a9e44913f7
+       :END:
+****** CANCELLED Define pressure
+       :LOGBOOK:
+       - State "CANCELLED"  from "TODO"       [2013-12-17 Tue 12:56] \\
+	 Not necessary.
+       :END:
+       :PROPERTIES:
+       :ID:       9269bbf3-ecf7-42fd-99fb-4fbfcb952c55
+       :END:
+****** DONE Prove smooth backward convergence to equator implies round circle
+       :LOGBOOK:
+       - State "DONE"       from "NEXT"       [2013-12-17 Tue 12:56]
+       CLOCK: [2013-12-03 Tue 15:16]--[2013-12-03 Tue 16:51] =>  1:35
+       :END:
+       :PROPERTIES:
+       :ID:       8c4123a3-7132-43fa-8bff-57827ae1c8ad
+       :END:
+That is, Ben and Janelle have proven the backward convergence, and to finish we need to show the solution is the shrinking round circle
+****** DONE Write outline of Alexandrov reflection argument
+       :LOGBOOK:
+       - State "DONE"       from "NEXT"       [2014-02-04 Tue 16:15]
+       CLOCK: [2013-12-17 Tue 12:57]--[2013-12-17 Tue 14:14] =>  1:17
+       :END:
+       :PROPERTIES:
+       :ID:       e4309a03-3450-4994-a651-42e0666fb7a0
+       :END:
+****** DONE Write paper
+       :LOGBOOK:
+       - State "DONE"       from "TODO"       [2014-12-09 Tue 12:03]
+       CLOCK: [2014-12-09 Tue 10:49]--[2014-12-09 Tue 11:00] =>  0:11
+       CLOCK: [2014-08-23 Sat 13:14]--[2014-08-23 Sat 13:20] =>  0:06
+       CLOCK: [2014-07-19 Sat 14:31]--[2014-07-19 Sat 14:32] =>  0:01
+       :END:
+******* DONE Write paper outline
+	:LOGBOOK:
+	- State "DONE"       from "NEXT"       [2014-04-02 Wed 14:00]
+	CLOCK: [2014-02-28 Fri 10:46]--[2014-02-28 Fri 11:11] =>  0:25
+	CLOCK: [2014-02-27 Thu 18:34]--[2014-02-27 Thu 19:40] =>  1:06
+	CLOCK: [2014-02-27 Thu 14:35]--[2014-02-27 Thu 15:25] =>  0:50
+	:END:
+******* DONE Incorporate Janelle's work
+	 DEADLINE: <2014-03-31 Mon>
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2014-04-03 Thu 17:22]
+	 CLOCK: [2014-04-02 Wed 22:26]--[2014-04-02 Wed 23:32] =>  1:06
+	 CLOCK: [2014-04-02 Wed 14:00]--[2014-04-02 Wed 14:26] =>  0:26
+	 CLOCK: [2014-03-19 Wed 11:29]--[2014-03-19 Wed 12:36] =>  1:07
+	 CLOCK: [2014-03-18 Tue 20:21]--[2014-03-18 Tue 21:18] =>  0:57
+	 CLOCK: [2014-03-17 Mon 11:34]--[2014-03-17 Mon 12:48] =>  1:14
+	 :END:
+******* DONE Write Harnack
+	:LOGBOOK:
+	- State "DONE"       from "NEXT"       [2014-02-28 Fri 14:36]
+	CLOCK: [2014-02-28 Fri 13:15]--[2014-02-28 Fri 14:45] =>  1:30
+	CLOCK: [2014-02-28 Fri 11:26]--[2014-02-28 Fri 11:42] =>  0:16
+	:END:
+******* DONE Write details of curvature bounds
+	:LOGBOOK:
+	- State "DONE"       from "NEXT"       [2014-04-02 Wed 14:25]
+	CLOCK: [2014-02-28 Fri 15:35]--[2014-02-28 Fri 15:53] =>  0:18
+	:END:
+******* DONE Write details of convergence to equator
+	:LOGBOOK:
+	- State "DONE"       from "NEXT"       [2014-06-12 Thu 17:02]
+	CLOCK: [2014-06-12 Thu 13:37]--[2014-06-12 Thu 14:31] =>  0:54
+	CLOCK: [2014-06-10 Tue 14:55]--[2014-06-10 Tue 16:39] =>  1:44
+	CLOCK: [2014-06-09 Mon 19:09]--[2014-06-09 Mon 20:30] =>  1:21
+	CLOCK: [2014-06-09 Mon 17:15]--[2014-06-09 Mon 18:19] =>  1:04
+	- State "NEXT"       from "DONE"       [2014-06-06 Fri 15:18] //
+	  Reopened since convergence may be only sub-sequential.
+	- State "DONE"       from "TODO"       [2014-04-02 Wed 14:25]
+	:END:
+******* DONE Write convergence to a graph
+	:LOGBOOK:
+	- State "DONE"       from "NEXT"       [2014-06-10 Tue 14:55]
+	:END:
+******* DONE Write details of Alexandrov reflection
+	:LOGBOOK:
+	- State "DONE"       from "TODO"       [2014-06-06 Fri 15:17]
+	CLOCK: [2014-04-02 Wed 14:33]--[2014-04-02 Wed 16:14] =>  1:41
+	CLOCK: [2014-04-02 Wed 14:26]--[2014-04-02 Wed 14:32] =>  0:06
+	:END:
+******** DONE Define distance along equatorial projection and fix ordering
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2014-04-12 Sat 15:16]
+	 CLOCK: [2014-04-12 Sat 12:02]--[2014-04-12 Sat 12:58] =>  0:56
+	 CLOCK: [2014-04-03 Thu 17:22]--[2014-04-03 Thu 17:42] =>  0:20
+	 :END:
+Given $X$ in the equator, let $\rho_{\alpha}(X)$ be the infimum of the lengths of the geodesic segment joining the points in $\alpha \intersect \pi^{-1}(X)$ to $X$. The order should be in $\rho_{\alpha} > \rho_{\beta}$. Write the subsequent text using $\rho$.
+******** DONE Write backwards approximate symmetry
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2014-06-05 Thu 10:02]
+	 CLOCK: [2014-06-03 Tue 10:38]--[2014-06-03 Thu 12:35] =>  1:57
+	 CLOCK: [2014-05-29 Thu 12:52]--[2014-05-29 Thu 13:46] =>  0:54
+	 CLOCK: [2014-05-29 Thu 10:46]--[2014-05-29 Thu 10:47] =>  0:01
+	 CLOCK: [2014-05-28 Wed 17:17]--[2014-05-28 Wed 17:49] =>  0:32
+	 CLOCK: [2014-05-28 Wed 13:49]--[2014-05-28 Wed 14:11] =>  0:22
+	 CLOCK: [2014-04-12 Sat 19:28]--[2014-04-12 Sat 19:59] =>  0:31
+	 CLOCK: [2014-04-02 Wed 23:32]--[2014-04-03 Thu 00:20] =>  0:48
+	 :END:
+******** DONE Write Approximate symmetry preserved
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2014-06-06 Fri 15:17]
+	 CLOCK: [2014-06-06 Fri 14:46]--[2014-06-06 Fri 15:17] =>  0:31
+	 - State "NEXT"       from "DONE"       [2014-06-05 Thu 10:03] \\
+	   Reopened since max principle arg was a little iffy.
+	 CLOCK: [2014-06-05 Thu 10:02]--[2014-06-05 Thu 10:52] =>  0:50
+	 CLOCK: [2014-04-12 Sat 12:58]--[2014-04-12 Sat 13:50] =>  0:52
+	 - State "DONE"       from "NEXT"       [2014-04-12 Sat 15:16]
+	 :END:
+******** DONE Write exact symmetry
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2014-04-12 Sat 15:18]
+	 CLOCK: [2014-04-12 Sat 13:50]--[2014-04-12 Sat 14:55] =>  1:05
+	 :END:
+******** DONE Write shrinking circles
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2014-04-12 Sat 15:17]
+	 CLOCK: [2014-04-12 Sat 14:55]--[2014-04-12 Sat 15:17] =>  0:22
+	 :END:
+- combine exact symmetry implies circular into theorem.
+******** DONE Update to use reflection macros better
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2014-04-12 Sat 20:43]
+	 CLOCK: [2014-04-12 Sat 20:00]--[2014-04-12 Sat 20:43] =>  0:43
+	 :END:
+******* DONE Write proof of lying in hemisphere
+	:LOGBOOK:
+	- State "DONE"       from "NEXT"       [2014-04-02 Wed 14:25]
+	:END:
+******* DONE Write introduction
+	:LOGBOOK:
+	- State "DONE"       from "NEXT"       [2014-06-13 Fri 10:16]
+	CLOCK: [2014-06-13 Fri 09:58]--[2014-06-13 Fri 10:16] =>  0:18
+	CLOCK: [2014-04-15 Tue 12:44]--[2014-04-15 Tue 15:49] =>  3:05
+	CLOCK: [2014-04-15 Tue 09:42]--[2014-04-15 Tue 10:09] =>  0:27
+	:END:
+******* DONE Write notation/prelim
+	:LOGBOOK:
+	- State "DONE"       from "NEXT"       [2014-04-02 Wed 14:26]
+	:END:
+******* DONE Created titled reflection figure
+	:LOGBOOK:
+	- State "DONE"       from "NEXT"       [2014-06-13 Fri 09:41]
+	CLOCK: [2014-04-16 Wed 13:48]--[2014-04-16 Wed 14:10] =>  0:22
+	CLOCK: [2014-04-15 Tue 17:50]--[2014-04-15 Tue 19:06] =>  1:16
+	CLOCK: [2014-04-15 Tue 15:49]--[2014-04-15 Tue 16:26] =>  0:37
+	:END:
+******* DONE Show that $L$ is bounded or $k$ decays exponentially
+	:LOGBOOK:
+	- State "DONE"       from "NEXT"       [2014-07-19 Sat 14:31]
+	CLOCK: [2014-07-19 Sat 14:17]--[2014-07-19 Sat 14:31] =>  0:14
+	CLOCK: [2014-07-09 Wed 13:50]--[2014-07-09 Wed 15:30] =>  1:40
+	:END:
+******* DONE Convexity
+	:LOGBOOK:
+	- State "DONE"       from "TODO"       [2014-08-26 Tue 20:54]
+	- State "TODO"       from "DONE"       [2014-08-26 Tue 14:17] \\
+	  Made an error in convexity condition.
+	- State "DONE"       from "TODO"       [2014-07-19 Sat 14:17]
+	:END:
+******** DONE Work out equivalent conditions to convexity
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2014-07-19 Sat 14:17]
+	 CLOCK: [2014-07-17 Thu 13:20]--[2014-07-17 Thu 14:02] =>  0:42
+	 CLOCK: [2014-07-14 Mon 12:20]--[2014-07-14 Mon 14:29] =>  2:09
+	 CLOCK: [2014-07-13 Sun 20:54]--[2014-07-13 Sun 21:29] =>  0:35
+	 CLOCK: [2014-07-13 Sun 19:08]--[2014-07-13 Sun 19:47] =>  0:39
+	 CLOCK: [2014-07-13 Sun 17:51]--[2014-07-13 Sun 18:25] =>  0:34
+	 CLOCK: [2014-07-13 Sun 15:16]--[2014-07-13 Sun 15:58] =>  0:42
+	 CLOCK: [2014-07-13 Sun 10:05]--[2014-07-13 Sun 10:41] =>  0:36
+	 CLOCK: [2014-07-13 Sun 09:15]--[2014-07-13 Sun 09:55] =>  0:40
+	 CLOCK: [2014-07-12 Sat 21:28]--[2014-07-12 Sat 23:50] =>  2:22
+	 CLOCK: [2014-07-12 Sat 13:00]--[2014-07-12 Sat 16:01] =>  3:01
+	 CLOCK: [2014-07-11 Fri 13:45]--[2014-07-11 Fri 14:20] =>  0:35
+	 CLOCK: [2014-07-10 Thu 09:45]--[2014-07-10 Thu 11:40] =>  1:55
+	 :END:
+******** DONE Fix error in lying in a hemisphere
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2014-08-26 Tue 20:54]
+	 CLOCK: [2014-08-26 Tue 20:06]--[2014-08-26 Tue 20:54] =>  0:48
+	 CLOCK: [2014-08-26 Tue 14:50]--[2014-08-26 Tue 17:47] =>  2:57
+	 :END:
+
+******* DONE Compile first draft
+	 SCHEDULED: <2014-05-19 Mon>
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2014-06-13 Fri 11:14]
+	 CLOCK: [2014-06-13 Fri 09:41]--[2014-06-13 Fri 09:58] =>  0:17
+	 CLOCK: [2014-06-12 Thu 17:03]--[2014-06-12 Thu 18:19] =>  1:16
+	 :END:
+******* DONE Produce final version
+	:LOGBOOK:
+	- State "DONE"       from "NEXT"       [2014-08-22 Fri 20:49]
+	CLOCK: [2014-08-22 Fri 20:07]--[2014-08-22 Fri 20:49] =>  0:42
+	CLOCK: [2014-08-22 Fri 18:39]--[2014-08-22 Fri 19:07] =>  0:28
+	CLOCK: [2014-08-22 Fri 15:00]--[2014-08-22 Fri 16:30] =>  1:30
+	CLOCK: [2014-08-14 Thu 16:10]--[2014-08-14 Thu 17:08] =>  0:58
+	:END:
+******* DONE Upload to arxiv
+       :LOGBOOK:
+       - State "DONE"       from "NEXT"       [2014-08-23 Sat 13:14]
+       CLOCK: [2014-08-23 Sat 12:46]--[2014-08-23 Sat 13:14] =>  0:28
+       CLOCK: [2014-08-23 Sat 11:36]--[2014-08-23 Sat 12:28] =>  0:52
+       CLOCK: [2014-08-22 Fri 21:29]--[2014-08-22 Fri 21:35] =>  0:06
+       CLOCK: [2014-08-22 Fri 20:58]--[2014-08-22 Fri 21:18] =>  0:20
+       :END:
+[[*ArXiv%20submission%20process][ArXiv submission process]]
+******* DONE Submit to journal
+	:LOGBOOK:
+	- State "DONE"       from "NEXT"       [2014-08-29 Fri 14:23]
+	CLOCK: [2014-08-29 Fri 13:54]--[2014-08-29 Fri 14:23] =>  0:29
+	:END:
+- short title: Convex Ancient CSF on $\sphere^2$.
+******* DONE Tidy up
+	SCHEDULED: <2014-10-14 Tue>
+	:LOGBOOK:
+	- State "DONE"       from "NEXT"       [2014-10-25 Sat 13:35]
+	CLOCK: [2014-10-25 Sat 13:25]--[2014-10-25 Sat 13:35] =>  0:10
+	CLOCK: [2014-09-17 Wed 13:10]--[2014-09-17 Wed 14:46] =>  1:36
+	:END:
+- Janelle notes:
+  - [X] In Lemma 5.2
+        I think there are some $R_V(\gamma_t)^+$ that should be $R_V(\gamma_t^+)$? Shouldn't they be the + part of the reflection, so the former is correct. If the latter appears anywhere we should change it.
+  - [X] For the last bit in the second paragraph was it supposed to be for all forward times like (-\infty,0) not t\in (-\infty, t_1)?
+	Maybe that could be rephrased. The $t_1$ is the time up to which the curves meet the reflected equator transversely. We can't ensure that after that time, they don't cross the reflected equator. We know that far enough back in time, both curves lie in $\sphere^2_V$ and the max principle ensures they lie in there at least up to $t_1$.
+  - [X] Type II should be $\curvecurv/\abs{t} \to \infty$.
+******* DONE Update based on referee comments
+	:LOGBOOK:
+	- State "DONE"       from "WAITING"    [2014-12-09 Tue 08:05]
+	:END:
+******* DONE Update paper and resubmit
+	 DEADLINE: <2014-12-12 Fri>
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2014-12-09 Tue 10:49]
+	 CLOCK: [2014-12-09 Tue 10:13]--[2014-12-09 Tue 10:49] =>  0:36
+	 :END:
+****** DONE Maths
+       :LOGBOOK:
+       - State "DONE"       from "TODO"       [2014-05-05 Mon 09:43]
+       :END:
+******* DONE Prove ancient solutions lie in a hemisphere
+	:LOGBOOK:
+	- State "DONE"       from "NEXT"       [2014-02-27 Thu 14:35]
+	CLOCK: [2014-02-04 Tue 16:27]--[2014-02-04 Tue 16:41] =>  0:14
+	:END:
+******* CANCELLED Find out if $\curvecurv>0$ for ancient solutions (Harnack?)
+	:LOGBOOK:
+	- State "CANCELLED"  from "NEXT"       [2014-04-02 Wed 13:59] \\
+	  We just restrict to convex ancient solutions.
+	:END:
+******* DONE Check if positive curvature implies convex
+	:LOGBOOK:
+	- State "DONE"       from "NEXT"       [2014-04-15 Tue 09:41]
+	:END:
+- Clauss Gehardt paper mentions this
+******* DONE Calculate ancient implies backwards approximate symmetry
+	:LOGBOOK:
+	- State "DONE"       from "TODO"       [2014-05-05 Mon 09:43]
+	CLOCK: [2014-04-08 Tue 17:02]--[2014-04-08 Tue 17:31] =>  0:29
+	:END:
+******** DONE Show Taylor expansion gives lower bound on near inequality
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2014-05-05 Mon 09:43]
+	 :END:
+********* :LOGBOOK:
+	 CLOCK: [2014-04-24 Thu 12:55]--[2014-04-24 Thu 13:11] =>  0:16
+	 CLOCK: [2014-04-16 Wed 09:30]--[2014-04-16 Wed 09:49] =>  0:19
+	 :END:
+***** Clocking
+****** Meetings
+       :PROPERTIES:
+       :ID:       9ccff1fa-2eaa-444f-a663-8ea3cfc20d76
+       :END:
+******* Group meeting
+       <2013-12-13 Fri 12:00-13:00>
+       :LOGBOOK:
+       CLOCK: [2013-12-13 Fri 12:00]--[2013-12-13 Fri 13:30] =>  1:30
+       CLOCK: [2013-11-18 Mon 12:18]--[2013-11-18 Mon 13:40] =>  1:22
+       :END:
+******* Group meeting
+	:LOGBOOK:
+	CLOCK: [2014-09-24 Wed 13:29]--[2014-09-24 Wed 15:45] =>  2:16
+	:END:
+       <2014-09-24 Wed 13:30-14:30>
+
+******* Group meeting
+	:LOGBOOK:
+	CLOCK: [2014-11-21 Fri 09:35]--[2014-11-21 Fri 11:10] =>  1:35
+	:END:
+<2014-11-21 Fri 09:15-10:30>
+******* Meet Janelle
+	:LOGBOOK:
+	CLOCK: [2014-11-24 Mon 17:05]--[2014-11-24 Mon 17:38] =>  0:33
+	CLOCK: [2014-11-19 Wed 17:06]--[2014-11-19 Wed 18:23] =>  1:17
+	CLOCK: [2014-10-17 Fri 14:56]--[2014-10-17 Fri 17:21] =>  2:25
+	CLOCK: [2014-09-10 Wed 10:08]--[2014-09-10 Wed 13:33] =>  3:25
+	CLOCK: [2014-04-03 Thu 09:58]--[2014-04-03 Thu 11:49] =>  1:51
+	CLOCK: [2014-02-13 Thu 14:50]--[2014-02-13 Thu 16:05] =>  1:15
+	CLOCK: [2014-01-06 Mon 14:57]--[2014-01-06 Mon 15:42] =>  0:45
+	:END:
+<2014-01-06 Mon 14:55-15:30>
+<2014-02-13 Thu 14:30-15:30>
+<2014-04-03 Thu 10:00-11:00>
+<2014-09-10 Wed 10:00-12:00>
+<2014-10-17 Fri 15:00-16:30>
+<2014-11-19 Wed 17:00-18:00>
+<2014-11-24 Mon 17:00-18:00>
+******* Weekly Janelle
+	:LOGBOOK:
+	CLOCK: [2014-07-23 Wed 14:02]--[2014-07-23 Wed 16:12] =>  2:10
+	CLOCK: [2014-07-16 Wed 14:09]--[2014-07-16 Wed 18:09] =>  4:00
+	CLOCK: [2014-07-02 Wed 13:30]--[2014-07-02 Wed 16:54] =>  3:24
+	CLOCK: [2014-06-11 Wed 14:05]--[2014-06-11 Wed 16:38] =>  2:33
+	CLOCK: [2014-06-04 Wed 14:06]--[2014-06-04 Wed 18:03] =>  3:57
+	CLOCK: [2014-05-28 Wed 14:11]--[2014-05-28 Wed 17:05] =>  2:54
+	CLOCK: [2014-05-21 Wed 14:03]--[2014-05-21 Wed 16:21] =>  2:18
+	CLOCK: [2014-04-30 Wed 14:15]--[2014-04-30 Wed 18:06] =>  3:51
+	CLOCK: [2014-04-23 Wed 14:03]--[2014-04-23 Wed 15:59] =>  1:56
+	CLOCK: [2014-04-16 Wed 14:10]--[2014-04-16 Wed 16:19] =>  2:09
+	CLOCK: [2014-04-08 Tue 14:00]--[2014-04-08 Tue 16:36] =>  2:36
+	CLOCK: [2014-03-11 Tue 14:30]--[2014-03-11 Tue 16:16] =>  1:46
+	CLOCK: [2014-02-25 Tue 14:00]--[2014-02-25 Tue 15:37] =>  1:37
+	CLOCK: [2014-02-18 Tue 14:17]--[2014-02-18 Tue 15:27] =>  1:10
+	CLOCK: [2014-02-04 Tue 14:24]--[2014-02-04 Tue 16:27] =>  2:03
+	CLOCK: [2014-01-28 Tue 14:10]--[2014-01-28 Tue 15:38] =>  1:28
+	CLOCK: [2014-01-21 Tue 14:00]--[2014-01-21 Tue 14:45] =>  0:45
+	:END:
+# OLD TIME <2014-01-22 Wed 14:00-16:00 +1w>
+******* Ben Chow
+	:LOGBOOK:
+	CLOCK: [2014-04-29 Tue 15:40]--[2014-04-29 Tue 16:09] =>  0:29
+	:END:
+
+******* Thesis proof reading
+	 <2014-11-05 Wed 17:00-18:00>
+	 <2014-11-14 Fri 15:00-17:00>
+	 :LOGBOOK:
+	 CLOCK: [2014-11-05 Wed 17:08]--[2014-11-05 Wed 19:29] =>  2:21
+	 :END:
+
+****** Janelle Thesis Defense
+       :LOGBOOK:
+       CLOCK: [2014-11-25 Tue 10:55]--[2014-11-25 Tue 12:04] =>  1:09
+       :END:
+<2014-11-25 Tue 11:00-12:00>
+AP&M 5829
+***** Notes
+***** Refs
 ** Books
 *** Working							      :FOCUS:
 **** TODO MCF Book						   :MCF_BOOK:
@@ -4115,6 +4135,223 @@ Schedule time for research, for teaching and for non-research academic work (e.g
    :PROPERTIES:
    :ID:       76fc2a4e-0bcf-40b4-aa91-f87c8962f648
    :END:
+*** Continuum Mechanics on Riemannian manifolds
+    SCHEDULED: <2015-03-02 Mon>
+
+**** Formulation
+
+Let us now describe how to formulate the equations of continuum mechanics on Riemannian manifolds.  Our setting is an evolving body $\body(t)$ in a smooth manifold $M^n$ equipped with a Riemannian metric $\metric$, and with piecwise smooth boundary $\bdry{M}$.  We allow the possibility that $\bdry{M} = \emptyset$ as for example in the case of $M=\RR^n$.
+
+#+BEGIN_defn
+A /motion/ of a body in $(M^n, \metric)$ is a smooth one parameter family of embeddings, $\phi_t(\cdot) = \phi(\cdot, t)$ with
+\[
+\phi : \body \times \timeinterval \to M
+\]
+for some $T>0$ and $\body^n$ a smooth $n$ dimensional manifold with piecewise smooth boundary $\bdry{\body}$, where we write $\body$ for non-boundary points and $\clsr{\body} = \body \union \bdry{\body}$.  That is, $\phi$ is continuous on $\clsr{\body} \times \timeinterval$, smooth on $\body \times \timeinterval$ and smooth on the smooth part, $\bdry{\body}_{\smooth} \times \timeinterval$, of the boundary of $B$.  For each $t\in\timeinterval$ the map $\phi_t(-) = \phi(-, t) : \clsr{\body} \to M$ is a homemorhpism with it's image and is a diffeomorphism of the interior of $\body$ with it's image.
+
+We write $\body_t = \phi_t(\body) \subset M$ and define the velocity vector field
+\[
+\vec{\velocity}(t) = \phi_{\star} \pd{t}
+\]
+which is a smooth time dependent family of vector fields on $\body_t$ since each $\phi_t: \body \to \body_t$ is a diffeomorphism.
+#+END_defn
+
+We assume that $B_t$ comes equipped with a smoothly varying positive measure $\measure_t$, absolutely continuous with respect to the measure $\metricmeasure{\metric_t}$ on $B_t$ induced by the Riemannian measure $\metricmeasure{\metric}$ on $(M,\metric)$. That is
+\[
+\measure_t = \density_t \metricmeasure{\metric}
+\]
+where $\density_t$ is a smooth family of positive smooth functions on $B_t$.
+
+We want to compute the evolution of various quantities on \emph{the moving domains $B_t \subset M$} such as the density, momentum (computed with respect to the density), acceleration etc. moving with the flow in terms of the geometry of $M$ (i.e. in terms of tensor fields defined on open subsets of $M$ and their derivatives).  For example, one can write a vector field on $\sphere^2$ in terms of the standard frame $\{\partial_x, \partial_y, \partial_z\}$ for the tangent space to $\RR^3$ even though each vector field in the frame is not tangent to $\sphere^2$.
+
+Thus we employ the \emph{Eulerian} or \emph{extrinsic} formulation of continuum mechanics, writing the equations in terms of the fixed geometry on $M$ but on the changing domains $\body_t$.  The \emph{Lagrangian} or \emph{intrinsic} formulation works on the fixed domain $\body$, but with changing geometry induced by $\phi_t^{\star}$ the pull back at each time $t$.  We will make some use of the Lagrangian formulation implicitly in dealing with the moving domain. See the appendix for more details.
+***** Conservation of mass
+
+On $M$, infinitesimal changes in time are measured by the Lie derivative $\lie_{\vec{\velocity}}$.  First, conservation of mass is expressed through the relation
+\[
+\measure_t(\phi_t(x)) = \measure_0(\phi_0(x))
+\]
+for all $x \in B$ and $t \in [0,T)$. That is, the density at $x$ is preserved along the flow. Pulling back to $B$, we may write this as
+\[
+\phi_t^{\star} \measure_t = \phi_0^{\star}\measure_0.
+\]
+
+Differentiating this expression with respect to $t$, using that $\vec{\velocity} = \phi_{\star} \partial_t$ is a time-dependent vector field on $B_t$ (see appendix) the infinitessemal conservation of mass can now be written
+\[
+\label{eq:consv_mass_riemann}
+0 = \pd{t} \phi_t^{\star} (\density_t \metricmeasure{\metric}) = \phi_t^{\star} \left(\pd[\density_t]{t} \metricmeasure{\metric} + \lie_{\vec{\velocity}} (\density_t \metricmeasure{\metric})\right) = \phi_t^{\star} \left(\pd[\density_t]{t}\metricmeasure{\metric} + \div(\density_t\vec{\velocity}) \metricmeasure{\metric}\right)
+\]
+which is equivalent, since $\phi_t$ is a diffeomorphism, to
+\[
+0 = \left(\pd[\density_t]{t} + \div(\density_t \vec{\velocity})\right) \metricmeasure{\metric},
+\]
+which is in turn equivalent to
+\[
+0 = \pd[\density_t]{t} + \div(\density_t\vec{\velocity})
+\]
+since $\metricmeasure{\metric} \ne 0$.
+
+In the literature, the time derivative moving with the flow is known as the material derivative $\md{t}$.
+\begin{defn}
+For a smooth family of functions $f_t: \body(t) \to \RR$, the \emph{material derivative} is defined as
+\[
+\md[f_t]{t} = \pd[f_t]{t} + \div(f_t \vec{\velocity}).
+\]
+\end{defn}
+The material derivatve is related to the Lie derivative $\lie_{\vec{\velocity}}$ by
+\[
+\md[f_t]{t} \metricmeasure{\metric} = \lie_{\vec{\velocity}} (f_t \metricmeasure{\metric})
+\]
+Thus we may also write the conservation of mass as
+\[
+\md[\density_t]{t} = 0.
+\]
+
+***** Balance of momentum
+
+The balance of momentum is obtained from Newton's second law stating that the change in momentum is equal to the forces applied.  We divide the applied forces into external or \emph{body} forces $\vec{\bodyforce}$ arising externally to the continuum (e.g. gravity) and those arising from the influence of the continuum on itself, i.e. internal stresses such as pressure.  Cauchy's theorem states that the internel forces of stress are of the form $\div \cauchystress$ for a symmetric $(2,0)$ tensor $\cauchystress$, the so-called Cauchy stress tensor.  
+
+The difficulty in deriving the balance of momentum is in a suitable definition for the momentum tensor $\momentum$ and how to differentiate it. A reasonable attempt would seem to be
+\[
+\momentum = \vec{\velocity} \tensor \density\metricmeasure{\metric}
+\]
+and indeed in Euclidean space, this corresponds to usual definition of momentum = mass times velocity. Then we might hope to express balance of momentum infinitesimally as 
+\[
+\pd{t} \phi_t^{\star}(\vec{\velocity} \tensor \density\metricmeasure{\metric}) = \phi_t^{\star}\left((\vec{\bodyforce} + \div \cauchystress) \tensor \density\metricmeasure{\metric}\right).
+\]
+As we shall see below, this approach does not lead to the Navier-Stokes equation \eqref{eq:navierstokes} even in Euclidean space! The reason is that the Navier-Stokes equation is obtained by integrating the momentum componentwise, a non-geometric approach that remarkably leads to a geometrically invariant equation. The key idea here is to use a /Gauss map/.
+
+****** Gauss maps
+
+#+BEGIN_Latex
+\note{Need to do away with this business of local Gauss maps and just use a global Gauss map $\tangentbundle[M] \to \RR^{\infty}$}.
+#+END_Latex
+
+#+BEGIN_defn
+A /Gauss map/ for the tangent bundle $\tangentbundle$ of a Riemannian manifold $M^n$ is an injective vector bundle map $\gaussmap{F}: \tangentbundle \to M\times \RR^m$ for some $m$.
+
+A /Riemannian Gauss map/ for the tangent bundle $\tangentbundle$ of a Riemannian manifold $(M, \metric)$ is a Gauss map $\gaussmap{F}$ that such that $\ip{F(v_1)}{F(v_2)} = \metric(v_1,v_2)$ for all $v_1,v_2 \in \tangentspace{x}$ and every $x\in M$ where $\ip{\cdot}{\cdot}$ is the standard inner-product on $\RR^m$. That is $F$ is also an isometric immersion.
+
+A /local Gauss map/ is a Gauss map $\gaussmap{F}_U$ defined on $\tangentbundle[U]$, the restriction of $\tangentbundle$ to a connected open set $U \subset M$.
+#+END_defn
+
+The tangent bundle of smooth manifold always admits a Gauss map \cite[Theorem 5.5, p. 32]{MR1249482}. Necessarily we must have $m \geq n = \text{dim}(M)$. In fact, $\tangentbundle$ admits a Gauss map with $m = n$ if and only if $\tangentbundle$ is trivial. In particular, $\tangentbundle$ is trivial over $U$ if and only if over $U$ there exists a local Gauss map with $m=n$.
+
+#+BEGIN_eg
+If $M = \RR^n$, then we can write any tangent vector $v \in \tangentspace[\RR^n]{x}$ as $v = v^1 \partial_1(x) + \cdots +  v^n \partial_n(x)$ where $\partial_i$ is the $i$'th standard basis vector field on $\RR^n$. Then a Riemannian Gauss map is 
+\[
+\gaussmap{F}(v) = (x, (v^1,\dotsc, v^n)).
+\]
+
+More generally, let $\{E_i\}_{x=1}^n$ be any /global/ frame for $\tangentbundle[\RR^n]$ so that $\{E_i(x)\}$ is a basis for $\tangentspace[\RR^n]{x}$ for each $x\in\RR^n$. Then any vector $v \in \tangentspace[\RR^n]{x}$ has a unique expansion $v = v^1 E_1(x) + \cdots + v^n E_n(x)$ and we can define a Gauss map by
+\[
+\gaussmap{F}(v) = (x, (v^1,\dotsc, v^n)).
+\]
+
+This Gauss map is Riemannian if and only if $\{E_i\}$ is an orthonormal frame, i.e. $\metric(E_i, E_j) = \delta_{ij}$, the Kronecker-delta function. Note that if $\{E_i\}$ is Riemannian, it need not be equivalent to $\{\partial_i\}$ since for any non-constant $\sigma: \RR^n \to \orthogonalgroup{n}$, the frame $\{E_i = \sigma \partial_i\}$ provides a Riemannian Gauss map inequivalent to $\{\partial_i\}$.
+#+END_eg
+
+In general, there are infinitely many Gauss maps, so how do we choose one? We will concentrate on local Gauss maps on open sets $U$ where $\tangentbundle$ is trivial and so may restrict our attention to $m=\text{dim}(n)$, assuming that $\tangentbundle[U] = U \times \RR^{n}$. In this situation, the issue of choosing a Riemannian Gauss map corresponds to making a choice of orthonormal frame over $U$, or more precisely, an equivalence class of orthonormal frames $[E_i]$ where $\{E_i\}$ is equivalent to $\{F_j\}$ if and only if there exists a constant section of the bundle $O^n(U)$, the bundle of orthogonal transformation of $U \times \RR^m$. That is, if and only if
+\[
+\{E_i(x)\} = \{\sigma(F_j(x))\}
+\]
+where $\sigma$ is an orthogonal linear transformation $\RR^m \to \RR^m$. The important point to remember is that the change of frame map $\sigma$ is a section of $U \times O^n(\RR)$, and is in general non-constant. We say two frames are equivalent of the section $\sigma$ is /constant/. Then two Gauss maps are equivalent if
+\[
+\gaussmap{G}(v(x)) = \sigma \gaussmap{F}(v(x))
+\]
+with $\sigma$ independent of $x \in U$. Thus equivalent Gauss maps/equivalent frames correspond to a change of basis preserving the standard inner product on $\RR^n$.
+
+There still remain infinitely many (even local!) inequivalent Riemannian Gauss maps. Any $\sigma \in \orthogonalgroup{n}$ the orthogonal transformations on $\RR^n$ gives rise to a family of equivalent Riemannian Gauss maps; $\gaussmap{F}$ is equivalent to $\sigma \gaussmap{F}$. Such transformations correspond to a change of frame on $\tangentbundle[U]$ by a parallel section of $\orthogonalbundle[U]$, the bundle of orthogonal transformations on $(\tangentbundle[U], \metric)$. Moreover, any two inequivalent frames (hence inequivalent Gauss maps) are related by a non-parallel section of $\orthogonalbundle[U]$. Thus we may parametrise the set of equivalent Gauss maps by $\orthogonalbundle[U]/\orthogonalbundle[U]_0$ where $\orthogonalbundle[U]_0$ denotes the parallel sections.
+
+#+BEGIN_remark
+The discussion above applies to all Riemannian manifolds. In particular, to Euclidean space. Thus the space of Riemannian Gauss maps on $\RR^n$ is parametrised by $\{\sigma: \RR^n \to \orthogonalgroup{n}\}/\{\text{constant maps } \sigma: \RR^n \to \orthogonalgroup{n}\}$. Typically, on $\RR^n$ one chooses the Gauss map corresponding to the standard frame $\{\partial_i\}$, which may be described as the unique (up to equivalence) parallel orthonormal frame. For a general $M$, there is no canonical such choice of a Gauss map. Indeed, the existence of a parallel frame implies that $M$ is flat. If such a frame does exists, then it is however unique up to equivalence since the change of frame from one parallel frame to another must itself be parallel.
+#+END_remark
+
+****** Balance of momentum
+
+#+BEGIN_defn
+The /local momentum $\localmomentum{U}$ over $U$/ is the vector
+\[
+\localmomentum{U} = \left(\int_U \momentum_1, \cdots, \int_U \momentum_n \right) 
+\]
+in $\RR^n$ where $\gaussmap{F}_U(\momentum)(x) = (\momentum_1(x), \dotsc, \momentum_n(x))$ with $\gaussmap{F}_U$ is the parallel Riemannian Gauss map. We may also think of the local momentum as giving a parallel section of $\tangentbundle[U]$.
+#+END_defn
+
+The infinitesimal balance of momentum is equivalent to the balance of local momentum. The derivation is now formally the same as in Euclidean space as described for instance in \cite[Section 8.2]{MR960687}. See also \cite{MR2352963}. We apply the same technique as for the conservation of mass to each component of the local momentum.
+
+We express balance of momentum as
+\[
+\pd{t} \phi_t^{\star} (\momentum_i \density \measure) = \phi_t^{\star}\left((\vec{\bodyforce}_i + (\div \cauchystress)_i) \density \measure\right)
+\]
+where $X_i$ denotes the $i$'th component of a $\gaussmap{F}(X)$ for vector field $X$. Here we work at a point $x \in U$ and restrict $t$ to an open interval so that $\phi_t(x) \in U$.
+
+
+
+\note{Need to sort out the div and Lie terms here}
+Using the Lie derivative again, and since $\metricmeasure{\metric}$ is independent of time, balance of momentum then reads
+#+BEGIN_LATEX
+\[
+\label{eq:consv_mom_riemann}
+\begin{split}
+\phi_t^{\star}\left((\div \cauchystress + \vec{\bodyforce}) \tensor \density\metricmeasure{\metric}\right) &= \phi_t^{\star} \left(\pd{t} (\vec{\velocity} \tensor \density\metricmeasure{\metric}) + \lie_{\vec{\velocity}} (\vec{\velocity} \tensor \density\metricmeasure{\metric}) \right) = \phi_t^{\star} \left(\pd{t} (\density\vec{\velocity} \tensor \metricmeasure{\metric}) + \lie_{\vec{\velocity}} (\vec{\velocity} \tensor \density\metricmeasure{\metric}) \right) \\
+&= \phi_t^{\star}\left(\pd{t}(\density\vec{\velocity}) \tensor \metricmeasure{\metric} + \density \lie_{\vec{\velocity}} \vec{\velocity} \tensor \metricmeasure{\metric} + \vec{\velocity} \tensor \lie_{\vec{\velocity}} (\density\metricmeasure{\metric})\right) \\
+&= \phi_t^{\star}\left[\left(\pd{t}(\density\vec{\velocity}) + \density \lie_{\vec{\velocity}} \vec{\velocity} + \div(\density\vec{\velocity}) \vec{\velocity}\right) \tensor \metricmeasure{\metric} \right]
+\end{split}
+\]
+#+END_LATEX
+
+\note{Give version after conservation of mass}
+
+We also have the notion of material derivative of a vector field $X$.
+#+BEGIN_defn
+Let $X$ be a vector field on $\body(t)$.  Then the \emph{material derivative} is defined as
+\[
+\md[X]{t} = \pd[X]{t} + \div(X \tensor \vec{\velocity})
+\]
+#+END_defn
+
+Again, the material derivative is related to the Lie derivative by
+\[
+\md[X]{t} \tensor \metricmeasure{\metric} = \lie_{\vec{\velocity}} (X \tensor \metricmeasure{\metric}).
+\]
+When conservation of mass holds, we may write balance of momentum as
+\[
+\md[X]{t} = \div \cauchystress + \vec{\bodyforce}
+\]
+since $\metricmeasure{\metric}(x) \ne 0$ for all $x\in M$.
+
+#+ATTR_LATEX: :options [$M = \RR^2$]
+#+BEGIN_eg
+In Euclidean space, with global coordinates $\{x_i\}$, a global basis for the tangent space is $\{\pd{x_i}\}$ and we may write $X = X^i \pd{x_i}$ using the summation convention.  Then we may write
+\[
+X \tensor \metricmeasure{\metric} = X^i \pd{x_i} \tensor \metricmeasure{\metric}
+\]
+in component form.  In this case
+\begin{align*}
+\pd[X]{t} &= \pd[X^i]{t} \pd{x_i} \\
+\div(X \tensor \vec{\velocity}) &= \pd[(X^j \velocity^i)]{x^j} \pd{x^i}
+\end{align*}
+and we have the equation for the components
+\[
+\left(\pd[X]{t} + \div(X\tensor\vec{\velocity})\right) \tensor \metricmeasure{\metric} = \left(\pd[X^i]{t} + \pd[(X^j \velocity^i)]{x^j}\right) \pd{x^j} \tensor \metricmeasure{\metric}.
+\]
+This gives us the component form of the balance of momentum
+\[
+\pd[(\density\velocity^i)]{t} + \pd[(\density\velocity^j \velocity^i)]{x^j} = \pd[\cauchystress^{ji}]{x^j} + \bodyforce^i.
+\]
+We may now integrate each $i$'th component to recover the integral balance equation.
+#+END_eg
+
+In general we may define the material derivative of a tensor field $T$.
+\begin{defn}
+\[
+\md[T]{t} = \pd[T]{t} + \div(T \tensor \vec{\velocity}).
+\]
+\end{defn}
+If conservation of mass holds, $\md[T]{t}$ satisfies the relation
+\[
+\md[T]{t} \tensor \metricmeasure{\metric} = \lie_{\vec{\velocity}}(T \tensor \metricmeasure{\metric}).
+\]
 *** Space Form Convexity
 **** Notes
 **** Tasks
