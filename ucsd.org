@@ -12407,6 +12407,9 @@ Lectures in calendar and tasks like planning lectures.
 	  :Effort:   1:00
 	  :END:
 ********* NEXT Lecture 10.2
+	  :LOGBOOK:
+	  CLOCK: [2014-12-10 Wed 11:43]
+	  :END:
 	  <2014-12-10 Wed 11:55-12:55>
 	  :PROPERTIES:
 	  :Effort:   1:00
@@ -13172,8 +13175,12 @@ Lectures in calendar and tasks like planning lectures.
 	  :PROPERTIES:
 	  :Effort:   0:15
 	  :END:
-********* NEXT Submit midterm to printing/frdesk
+********* DONE Submit midterm to printing/frdesk
 	  DEADLINE: <2014-12-10 Wed>
+	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2014-12-10 Wed 11:43]
+	  CLOCK: [2014-12-10 Wed 11:37]--[2014-12-10 Wed 11:43] =>  0:06
+	  :END:
 	  :PROPERTIES:
 	  :Effort:   0:10
 	  :END:
