@@ -12095,6 +12095,8 @@ Lectures in calendar and tasks like planning lectures.
 ******** NEXT Piazza week 10
 	  DEADLINE: <2014-12-14 Sun>
 	  :LOGBOOK:
+	  CLOCK: [2014-12-10 Wed 09:05]--[2014-12-10 Wed 09:17] =>  0:12
+	  CLOCK: [2014-12-10 Wed 08:26]--[2014-12-10 Wed 08:38] =>  0:12
 	  CLOCK: [2014-12-08 Mon 16:24]--[2014-12-08 Mon 16:30] =>  0:06
 	  CLOCK: [2014-12-08 Mon 09:27]--[2014-12-08 Mon 09:40] =>  0:13
 	  :END:
@@ -13139,6 +13141,7 @@ Lectures in calendar and tasks like planning lectures.
 	  :END:
 ******** TODO Final
 	 :LOGBOOK:
+	 CLOCK: [2014-12-10 Wed 09:30]--[2014-12-10 Wed 09:31] =>  0:01
 	 CLOCK: [2014-12-04 Thu 12:53]--[2014-12-04 Thu 12:57] =>  0:04
 	 :END:
 ********* DONE Write Final
@@ -13160,8 +13163,12 @@ Lectures in calendar and tasks like planning lectures.
 	  :PROPERTIES:
 	  :Effort:   0:10
 	  :END:
-********* NEXT Update exam based on TA comments
+********* DONE Update exam based on TA comments
 	  DEADLINE: <2014-12-05 Fri>
+	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2014-12-10 Wed 09:30]
+	  CLOCK: [2014-12-10 Wed 09:17]--[2014-12-10 Wed 09:30] =>  0:13
+	  :END:
 	  :PROPERTIES:
 	  :Effort:   0:15
 	  :END:
