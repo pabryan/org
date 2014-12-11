@@ -1846,6 +1846,7 @@ http://gmane.org
   :END:
 ** Organisation
   :LOGBOOK:
+  CLOCK: [2014-12-11 Thu 10:45]--[2014-12-11 Thu 10:47] =>  0:02
   CLOCK: [2014-12-10 Wed 16:26]--[2014-12-10 Wed 16:27] =>  0:01
   CLOCK: [2014-12-10 Wed 16:21]--[2014-12-10 Wed 16:24] =>  0:03
   CLOCK: [2014-12-10 Wed 16:06]--[2014-12-10 Wed 16:11] =>  0:05
@@ -4120,6 +4121,7 @@ When I set up scoring the day:
 ** NEXT Daily Plan [0/7]
    SCHEDULED: <2014-12-11 Thu .+1d/2d>
    :LOGBOOK:
+   CLOCK: [2014-12-11 Thu 10:47]
    - State "DONE"       from "NEXT"       [2014-12-10 Wed 08:25]
    CLOCK: [2014-12-10 Wed 08:17]--[2014-12-10 Wed 08:25] =>  0:08
    - State "DONE"       from "NEXT"       [2014-12-09 Tue 10:06]
