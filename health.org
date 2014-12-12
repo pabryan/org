@@ -408,6 +408,7 @@
 *** NEXT Mobility
     SCHEDULED: <2014-12-12 Fri .+1d/2d>
     :LOGBOOK:
+    CLOCK: [2014-12-12 Fri 08:39]
     - State "DONE"       from "NEXT"       [2014-12-11 Thu 10:47]
     - State "DONE"       from "NEXT"       [2014-12-10 Wed 08:17]
     - State "DONE"       from "NEXT"       [2014-12-09 Tue 07:57]
