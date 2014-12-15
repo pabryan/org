@@ -20,51 +20,6 @@
   :CATEGORY: Teaching
   :ID:       f63ebcdd-e3a9-40ec-8e3d-616bac271988
   :END:
-** Clocking
-*** Teaching Pondering
-    :LOGBOOK:
-    CLOCK: [2013-02-15 Fri 10:05]--[2013-02-15 Fri 10:28] =>  0:23
-    :END:
-*** Course Organisation
-    :LOGBOOK:
-    CLOCK: [2013-08-27 Tue 12:45]--[2013-08-27 Tue 14:00] =>  1:15
-    CLOCK: [2013-07-02 Tue 09:57]--[2013-07-02 Tue 10:31] =>  0:34
-    CLOCK: [2013-07-02 Tue 09:53]--[2013-07-02 Tue 09:54] =>  0:01
-    :END:
-*** Admin
-    :LOGBOOK:
-    CLOCK: [2013-09-16 Mon 13:00]--[2013-09-16 Mon 13:26] =>  0:26
-    :END:
-** Grading scale
-|  Score | Grade |
-|--------+-------|
-| 90-100 | A+    |
-|  85-90 | A     |
-|  80-85 | A-    |
-|  77-80 | B+    |
-|  73-77 | B     |
-|  70-73 | B-    |
-|  67-70 | C+    |
-|  63-67 | C     |
-|  60-63 | C-    |
-|  50-60 | D     |
-|   0-50 | F     |
-
-A+, A, A-	4.0, 4.0, 3.7	Excellent
-B+, B, B-	3.3, 3.0, 2.7	Good
-C+, C, C-	2.3, 2.0, 1.7	Fair
-D	1.0	Poor (Barely Passing)
-F	0.0	Fail
-P	Pass	C- or better, assigned to undergraduate students only
-NP	Not Pass	Below C-
-S	Satisfactory	B- or better, assigned to graduate students only
-U	Unsatisfactory	Below B-
-I	Incomplete	Work of passing quality but incomplete for good cause. Students must file a Request for Incomplete form and obtain the instructor's permission.
-IP	In Progress	Course must be approved for IP grading.
-W	Withdrew	Withdrew after fourth week of instruction, or after second meeting of some laboratory courses
-X	Pending charge of academic dishonesty (available only within the eGrades tool)
-Blank	Grade not reported by instructor
-
 ** Courses							    :COURSES:
    :PROPERTIES:
    :Effort_ALL: 0 0:10 0:15 0:30 1:00 1:30 2:00 3:00 4:00
@@ -11438,7 +11393,10 @@ Lectures in calendar and tasks like planning lectures.
 	 :PROPERTIES:
 	 :Effort:   0:15
 	 :END:
-******* TODO Lectures
+******* DONE Lectures
+	:LOGBOOK:
+	- State "DONE"       from "TODO"       [2014-12-15 Mon 08:38]
+	:END:
 ******** DONE Create lecture schedule
 	 :LOGBOOK:
 	 - State "DONE"       from "NEXT"       [2014-10-21 Tue 13:48]
@@ -11446,7 +11404,10 @@ Lectures in calendar and tasks like planning lectures.
 	 :PROPERTIES:
 	 :Effort:   0:30
 	 :END:
-******** NEXT Prepare lectures
+******** DONE Prepare lectures
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2014-12-15 Mon 08:38]
+	 :END:
 ********* DONE Week 0
 	  :LOGBOOK:
 	  - State "DONE"       from "TODO"       [2014-10-11 Sat 15:53]
@@ -11849,8 +11810,9 @@ Lectures in calendar and tasks like planning lectures.
 	   :Effort:   1:00
 	   :END:
 
-********* TODO Week 10
+********* DONE Week 10
 	  :LOGBOOK:
+	  - State "DONE"       from "TODO"       [2014-12-15 Mon 08:38]
 	  CLOCK: [2014-12-03 Wed 11:40]--[2014-12-03 Wed 11:43] =>  0:03
 	  :END:
 ********** DONE Prepare outline
@@ -11934,6 +11896,8 @@ Lectures in calendar and tasks like planning lectures.
 	  :PROPERTIES:
 	  :Effort:   1:00
 	  :END:
+********* NEXT Print seating assignments
+	  DEADLINE: <2014-12-17 Wed>
 ******* DONE Website
 	:LOGBOOK:
 	- State "DONE"       from "TODO"       [2014-09-22 Mon 12:13]
@@ -13913,6 +13877,51 @@ Lectures in calendar and tasks like planning lectures.
 
 **** Spring 2015
 **** Summer I 2015
+** Clocking
+*** Teaching Pondering
+    :LOGBOOK:
+    CLOCK: [2013-02-15 Fri 10:05]--[2013-02-15 Fri 10:28] =>  0:23
+    :END:
+*** Course Organisation
+    :LOGBOOK:
+    CLOCK: [2013-08-27 Tue 12:45]--[2013-08-27 Tue 14:00] =>  1:15
+    CLOCK: [2013-07-02 Tue 09:57]--[2013-07-02 Tue 10:31] =>  0:34
+    CLOCK: [2013-07-02 Tue 09:53]--[2013-07-02 Tue 09:54] =>  0:01
+    :END:
+*** Admin
+    :LOGBOOK:
+    CLOCK: [2013-09-16 Mon 13:00]--[2013-09-16 Mon 13:26] =>  0:26
+    :END:
+** Grading scale
+|  Score | Grade |
+|--------+-------|
+| 90-100 | A+    |
+|  85-90 | A     |
+|  80-85 | A-    |
+|  77-80 | B+    |
+|  73-77 | B     |
+|  70-73 | B-    |
+|  67-70 | C+    |
+|  63-67 | C     |
+|  60-63 | C-    |
+|  50-60 | D     |
+|   0-50 | F     |
+
+A+, A, A-	4.0, 4.0, 3.7	Excellent
+B+, B, B-	3.3, 3.0, 2.7	Good
+C+, C, C-	2.3, 2.0, 1.7	Fair
+D	1.0	Poor (Barely Passing)
+F	0.0	Fail
+P	Pass	C- or better, assigned to undergraduate students only
+NP	Not Pass	Below C-
+S	Satisfactory	B- or better, assigned to graduate students only
+U	Unsatisfactory	Below B-
+I	Incomplete	Work of passing quality but incomplete for good cause. Students must file a Request for Incomplete form and obtain the instructor's permission.
+IP	In Progress	Course must be approved for IP grading.
+W	Withdrew	Withdrew after fourth week of instruction, or after second meeting of some laboratory courses
+X	Pending charge of academic dishonesty (available only within the eGrades tool)
+Blank	Grade not reported by instructor
+
 ** Professional Development
 *** TODO Check out Center for Teaching Development
     :PROPERTIES:
