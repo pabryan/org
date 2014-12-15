@@ -12096,9 +12096,10 @@ Lectures in calendar and tasks like planning lectures.
 	 :Effort:   1:00
 	 :END:
 
-******** NEXT Piazza week 10
+******** DONE Piazza week 10
 	  DEADLINE: <2014-12-14 Sun>
 	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2014-12-14 Sun 18:20]
 	  CLOCK: [2014-12-12 Fri 09:06]--[2014-12-12 Fri 09:19] =>  0:13
 	  CLOCK: [2014-12-11 Thu 11:03]--[2014-12-11 Thu 11:26] =>  0:23
 	  CLOCK: [2014-12-10 Wed 16:11]--[2014-12-10 Wed 16:21] =>  0:10
