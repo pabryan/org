@@ -848,7 +848,6 @@ Classification of compact convex ancient solutions of the planar affine normal f
        CLOCK: [2014-05-27 Tue 11:09]--[2014-05-27 Tue 12:09] =>  1:00
        CLOCK: [2014-05-23 Fri 12:04]--[2014-05-23 Fri 12:15] =>  0:11
        :END:
-*** Working
 **** DONE Referee CR-8403					      :FOCUS:
      SCHEDULED: <2014-03-28 Fri>
      :LOGBOOK:
@@ -923,19 +922,6 @@ CR-8403 - "Curvature contraction of convex hypersurfaces by nonsmooth speeds by 
 #+END:
 
 **** DONE Referee scm-2014-0648
-     DEADLINE: <2014-12-21 Sun -14d> SCHEDULED: <2014-11-19 Wed>
-     :LOGBOOK:
-     - State "DONE"       from "TODO"       [2014-12-16 Tue 14:28]
-     CLOCK: [2014-12-12 Fri 09:19]--[2014-12-12 Fri 09:40] =>  0:21
-     CLOCK: [2014-12-11 Thu 11:35]--[2014-12-11 Thu 12:03] =>  0:28
-     CLOCK: [2014-12-10 Wed 08:38]--[2014-12-10 Wed 09:03] =>  0:25
-     CLOCK: [2014-12-09 Tue 14:30]--[2014-12-09 Tue 14:50] =>  0:20
-     CLOCK: [2014-12-05 Fri 08:55]--[2014-12-05 Fri 09:20] =>  0:25
-     CLOCK: [2014-12-04 Thu 13:00]--[2014-12-04 Thu 13:25] =>  0:25
-     CLOCK: [2014-12-04 Thu 09:26]--[2014-12-04 Thu 10:10] =>  0:44
-     CLOCK: [2014-12-03 Wed 09:26]--[2014-12-03 Wed 09:36] =>  0:10
-     CLOCK: [2014-11-25 Tue 13:02]--[2014-11-25 Tue 13:23] =>  0:21
-     :END:
 ***** Files/Links
 file:~/working/academic/journals/referee/SciChinaMath/evolution_of_convex_hypersurfaces_by_a_fully_nonlinear_flow
 [[file:~/reference/academic/journals/referee/scichinamath/evolution_of_convex_hypersurfaces_by_a_fully_nonlinear_flow]]
@@ -945,6 +931,7 @@ http://mc03.manuscriptcentral.com/scmath?URL_MASK=6a28127c549c4337b904f229eb1deb
 ****** DONE Skim paper
        :LOGBOOK:
        - State "DONE"       from "NEXT"       [2014-12-16 Tue 11:41]
+       CLOCK: [2014-12-09 Tue 14:30]--[2014-12-09 Tue 14:50] =>  0:20
        CLOCK: [2014-11-24 Mon 10:04]--[2014-11-24 Mon 10:21] =>  0:17
        :END:
 ****** DONE Write notes
@@ -963,9 +950,40 @@ http://mc03.manuscriptcentral.com/scmath?URL_MASK=6a28127c549c4337b904f229eb1deb
        - State "DONE"       from "NEXT"       [2014-12-16 Tue 14:28]
        CLOCK: [2014-12-16 Tue 14:26]--[2014-12-16 Tue 14:28] =>  0:02
        :END:
+
 ***** Clock report
+#+BEGIN: clocktable :maxlevel 6 :scope subtree
+#+CAPTION: Clock summary at [2014-12-16 Tue 14:36]
+| Headline                             | Time   |   |   |      |      |      |
+|--------------------------------------+--------+---+---+------+------+------|
+| *Total time*                         | *6:00* |   |   |      |      |      |
+|--------------------------------------+--------+---+---+------+------+------|
+| \________ DONE Referee scm-2014-0648 |        |   |   | 6:00 |      |      |
+| \___________ Tasks                   |        |   |   |      | 2:21 |      |
+| \______________ DONE Skim paper      |        |   |   |      |      | 0:37 |
+| \______________ DONE Write report    |        |   |   |      |      | 1:42 |
+| \______________ DONE Submit report   |        |   |   |      |      | 0:02 |
+#+END:
+
+     DEADLINE: <2014-12-21 Sun -14d> SCHEDULED: <2014-11-19 Wed>
+     :LOGBOOK:
+     - State "DONE"       from "TODO"       [2014-12-16 Tue 14:28]
+     CLOCK: [2014-12-12 Fri 09:19]--[2014-12-12 Fri 09:40] =>  0:21
+     CLOCK: [2014-12-11 Thu 11:35]--[2014-12-11 Thu 12:03] =>  0:28
+     CLOCK: [2014-12-10 Wed 08:38]--[2014-12-10 Wed 09:03] =>  0:25
+     CLOCK: [2014-12-09 Tue 14:30]--[2014-12-09 Tue 14:50] =>  0:20
+     CLOCK: [2014-12-05 Fri 08:55]--[2014-12-05 Fri 09:20] =>  0:25
+     CLOCK: [2014-12-04 Thu 13:00]--[2014-12-04 Thu 13:25] =>  0:25
+     CLOCK: [2014-12-04 Thu 09:26]--[2014-12-04 Thu 10:10] =>  0:44
+     CLOCK: [2014-12-03 Wed 09:26]--[2014-12-03 Wed 09:36] =>  0:10
+     CLOCK: [2014-11-25 Tue 13:02]--[2014-11-25 Tue 13:23] =>  0:21
+     :END:
+*** Working
 **** TODO Referee JGEA-D-14-00211
      SCHEDULED: <2014-12-22 Mon> DEADLINE: <2015-02-06 Fri>
+     :LOGBOOK:
+     CLOCK: [2014-12-16 Tue 14:29]--[2014-12-16 Tue 14:30] =>  0:01
+     :END:
 ***** Files/Links
 [[file:~/reference/academic/journals/referee/geometric_analysis/JGEA-D-14-00211]]
 [[file:~/working/academic/journals/referee/JGEA/isoperimetric_comparison_via_viscosity]]
@@ -974,9 +992,10 @@ Your username is: PBryan-373
 Your password is: bryan2677
 ***** Notes
 ***** Tasks
-****** NEXT Get paper
+****** DONE Get paper
        :LOGBOOK:
-       CLOCK: [2014-12-16 Tue 14:28]
+       - State "DONE"       from "NEXT"       [2014-12-16 Tue 14:29]
+       CLOCK: [2014-12-16 Tue 14:28]--[2014-12-16 Tue 14:29] =>  0:01
        :END:
 ****** NEXT Skim paper
 ****** NEXT Write notes
@@ -2376,6 +2395,7 @@ Not sure what this is about either!
 ******** NEXT Determine properties of vector field
 ******** NEXT Compute laplacian
 	 :LOGBOOK:
+	 CLOCK: [2014-12-16 Tue 09:40]--[2014-12-16 Tue 10:10] =>  0:30
 	 CLOCK: [2014-10-25 Sat 11:15]--[2014-10-25 Sat 12:40] =>  1:25
 	 CLOCK: [2014-10-23 Thu 12:55]--[2014-10-23 Thu 13:40] =>  0:45
 	 CLOCK: [2014-10-23 Thu 11:00]--[2014-10-23 Thu 12:25] =>  1:25
