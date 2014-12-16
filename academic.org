@@ -6369,10 +6369,11 @@ http://www.mis.mpag.de/institute/application/postdoc
 http://www.mis.mpg.de/institute/application/postdoc-submission.html
 - code: PAUL_2149
 
-***** NEXT Pisa
+***** DONE Pisa
       DEADLINE: <2014-12-19 Fri>
       :LOGBOOK:
-      CLOCK: [2014-12-15 Mon 15:35]
+      - State "DONE"       from "NEXT"       [2014-12-15 Mon 16:01]
+      CLOCK: [2014-12-15 Mon 15:35]--[2014-12-15 Mon 16:01] =>  0:26
       CLOCK: [2014-12-15 Mon 11:03]--[2014-12-15 Mon 11:11] =>  0:08
       CLOCK: [2014-12-15 Mon 09:18]--[2014-12-15 Mon 10:01] =>  0:43
       CLOCK: [2014-12-05 Fri 10:19]--[2014-12-05 Fri 10:32] =>  0:13
