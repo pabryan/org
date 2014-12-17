@@ -2294,12 +2294,15 @@ https://www.wizards.com/dnd/dndnext.aspx
   :ID:       204ad8e3-a00f-4da7-b2d6-deb5e370a2c6
   :END:
 ** TODO plan weekly food					    :SOMEDAY:
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2014-12-17 Wed 10:22]
+   :END:
    - State "DONE"       from "NEXT"       [2012-11-19 Mon 12:28]
    :PROPERTIES:
    :ID:       659b82d1-fff2-498c-afeb-3101030d6946
-   :LAST_REPEAT: [2012-11-19 Mon 12:28]
+   :LAST_REPEAT: [2014-12-17 Wed 10:22]
    :END:
-   TOBESCHEDULED: <2013-01-30 Wed +1w>
+   TOBESCHEDULED: <2013-02-06 Wed +1w>
 
 * Friends and Family
   :PROPERTIES:
