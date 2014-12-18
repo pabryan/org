@@ -11370,6 +11370,9 @@ Center 119
 [[file:~/working/ucsd/teaching/2014/fall/math20a_fall_2014]] 
 [[file:~/reference/ucsd/teaching/2014/fall/math20a]]
 ****** Notes
+******* Missing ID
+a91041704
+YuanXin Yao
 ****** Tasks
 ******* DONE Plan course
 	:LOGBOOK:
@@ -12422,6 +12425,9 @@ Lectures in calendar and tasks like planning lectures.
 	 :Effort:   1:30
 	 :END:
 ******** NEXT Final
+	 :LOGBOOK:
+	 CLOCK: [2014-12-17 Wed 18:38]
+	 :END:
 	 <2014-12-17 Wed 19:00-22:00>
 	 :PROPERTIES:
 	 :Effort:   4:00
