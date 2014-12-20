@@ -13357,6 +13357,9 @@ Lectures in calendar and tasks like planning lectures.
 ******* TODO Grades
 ******** NEXT Create grade spreadsheet
 	 DEADLINE: <2014-12-22 Mon>
+	 :LOGBOOK:
+	 CLOCK: [2014-12-20 Sat 15:30]
+	 :END:
 	 :PROPERTIES:
 	 :Effort:   0:30
 	 :END:
