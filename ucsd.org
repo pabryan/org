@@ -13355,16 +13355,21 @@ Lectures in calendar and tasks like planning lectures.
 	 CLOCK: [2014-12-05 Fri 09:21]--[2014-12-05 Fri 09:28] =>  0:07
 	 :END:
 ******* TODO Grades
-******** NEXT Create grade spreadsheet
+******** DONE Create grade spreadsheet
 	 DEADLINE: <2014-12-22 Mon>
 	 :LOGBOOK:
-	 CLOCK: [2014-12-20 Sat 15:30]
+	 - State "DONE"       from "NEXT"       [2014-12-20 Sat 16:35]
+	 CLOCK: [2014-12-20 Sat 15:30]--[2014-12-20 Sat 16:35] =>  1:05
 	 :END:
 	 :PROPERTIES:
 	 :Effort:   0:30
 	 :END:
-******** NEXT Enter grades
+******** DONE Enter grades
 	 DEADLINE: <2014-12-23 Tue>
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2014-12-20 Sat 16:38]
+	 CLOCK: [2014-12-20 Sat 16:35]--[2014-12-20 Sat 16:38] =>  0:03
+	 :END:
 	 :PROPERTIES:
 	 :Effort:   0:15
 	 :END:
