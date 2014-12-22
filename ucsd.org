@@ -11954,7 +11954,7 @@ Lectures in calendar and tasks like planning lectures.
 	 :Effort:   0:30
 	 :END:
 ******** NEXT Enter grades
-	 DEADLINE: <2014-12-23 Tue>
+	 DEADLINE: <2014-12-22 Mon>
 	 :PROPERTIES:
 	 :Effort:   0:15
 	 :END:
@@ -13369,7 +13369,7 @@ Lectures in calendar and tasks like planning lectures.
 	 :Effort:   0:30
 	 :END:
 ******** DONE Enter grades
-	 DEADLINE: <2014-12-23 Tue>
+	 DEADLINE: <2014-12-22 Mon>
 	 :LOGBOOK:
 	 - State "DONE"       from "NEXT"       [2014-12-20 Sat 16:38]
 	 CLOCK: [2014-12-20 Sat 16:35]--[2014-12-20 Sat 16:38] =>  0:03
