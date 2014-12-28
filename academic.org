@@ -981,7 +981,7 @@ http://mc03.manuscriptcentral.com/scmath?URL_MASK=6a28127c549c4337b904f229eb1deb
 
 *** Working
 **** TODO Referee JGEA-D-14-00211
-     SCHEDULED: <2015-01-05 Mon> DEADLINE: <2015-02-06 Fri>
+     SCHEDULED: <2015-01-051 Mon> DEADLINE: <2015-02-06 Fri>
      :LOGBOOK:
      CLOCK: [2014-12-16 Tue 14:29]--[2014-12-16 Tue 14:30] =>  0:01
      :END:
@@ -3489,6 +3489,9 @@ AP&M 5829
        :END:
 In particular, put more detail in.
 ******* NEXT Get my honour's thesis work into a useable format
+	:LOGBOOK:
+	CLOCK: [2014-12-28 Sun 14:58]
+	:END:
        	:PROPERTIES:
        	:ID:       810fd351-5f88-415f-9977-906fa1e39681
        	:END:
