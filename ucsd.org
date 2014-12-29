@@ -11364,7 +11364,7 @@ Center 119
 	 :END:
 <2014-07-31 Thu 11:00-11:30>
 *** 2014/2015
-**** Fall 2014							      :FOCUS:
+**** Fall 2014
 ***** TODO Math20A
 ****** Files
 [[file:~/working/ucsd/teaching/2014/fall/math20a_fall_2014]] 
@@ -13878,7 +13878,7 @@ Lectures in calendar and tasks like planning lectures.
 	 :PROPERTIES:
 	 :Effort:   1:00
 	 :END:
-**** Winter 2015
+**** Winter 2015						      :FOCUS:
 ***** TODO Math20B
 ****** Files
 [[file:~/working/ucsd/teaching/2015/winter/math20b_winter_2015]] 
