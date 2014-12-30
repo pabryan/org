@@ -1171,7 +1171,7 @@ Try to use as much available software that I can find. Do it like Sage - don't r
 [[http://www.opensourcemath.org/books/calc1-sage/html/granville-calculus.html]]
 [[http://www.opensourcemath.org/]]
 
-* Research
+* Research							   :RESEARCH:
   :PROPERTIES:
   :ID:       44348474-b144-4b4b-a046-12439b2f7727
   :CATEGORY: Research
@@ -1179,7 +1179,7 @@ Try to use as much available software that I can find. Do it like Sage - don't r
   [[file:~/working/academic/research/]]
 ** Papers
 *** Working							      :FOCUS:
-**** TODO alpha CSF distance comparison 			  :CSF_ALPHA:
+**** TODO alpha CSF distance comparison		       :CSF_ALPHA:INPROGRESS:
    :LOGBOOK:
    CLOCK: [2013-07-19 Fri 09:53]--[2013-07-19 Fri 09:55] =>  0:02
    CLOCK: [2013-07-16 Tue 11:39]--[2013-07-16 Tue 11:40] =>  0:01
@@ -1683,7 +1683,7 @@ This proves the inequality we need.  The remaining problem is to remove the symm
 [[file:refs.org::#MR1424425][Contraction of convex hypersurfaces by their affine normal]]
 [[file:refs.org::#MR1902649][Singularities in crystalline curvature flows]]
 [[file:refs.org::#MR2946930][Contracting convex immersed closed plane curves with slow speed of curvature]]
-**** TODO Pipe Flows 						  :PIPE_FLOW:
+**** TODO Pipe Flows					  :PIPE_FLOW:WRITING:
    :PROPERTIES:
    :ID:       cf90c8f0-dc09-44d4-87d4-f7000acc2ba1
    :END:
@@ -1789,7 +1789,6 @@ This proves the inequality we need.  The remaining problem is to remove the symm
 	 :END:
 i.e. is the density defined on B or B_t?
 ******** NEXT Sort out conservation equations/Material derivative/Lie derivative for Momentum equation
-	 SCHEDULED: <2014-12-15 Mon>
          :LOGBOOK:
 	 CLOCK: [2014-11-14 Fri 15:00]--[2014-11-14 Fri 15:36] =>  0:36
 	 CLOCK: [2014-11-14 Fri 10:35]--[2014-11-14 Fri 11:41] =>  1:06
@@ -1841,7 +1840,7 @@ Marsden et. al. book
 ******** NEXT Add transport theorem
 ****** TODO Admin
 ******* NEXT Follow up with Steve Roberts
-       	 SCHEDULED: <2014-12-15 Mon>
+       	 SCHEDULED: <2015-02-01 Sun>
 ******* NEXT Find place to publish
 ***** Notes
 ***** References
@@ -2643,7 +2642,6 @@ CONSTANT ANISOTROPIC MEAN CURVATURE
 - Is this even necessary? That is, why not just use $\sphere^n$ as a fixed space from which to parametrise? It's not really necessary to have $\sphere^n$ embedded in the space form.
 
 ****** TODO Support function
-       SCHEDULED: <2014-12-15 Mon>
        :LOGBOOK:
        CLOCK: [2014-10-22 Wed 10:00]--[2014-10-22 Wed 10:01] =>  0:01
        :END:
@@ -2664,7 +2662,6 @@ CONSTANT ANISOTROPIC MEAN CURVATURE
 	CLOCK: [2014-10-24 Fri 14:30]--[2014-10-24 Fri 15:37] =>  1:07
 	:END:
 ****** TODO Harnack Inequality
-       SCHEDULED: <2014-12-15 Mon>
 ******* NEXT Derive in $\RR^n$ using support function defined on $M$
 ******* NEXT Derive in space forms using support function defined on $M$
 ***** Refs
@@ -2719,7 +2716,6 @@ We would do it all in Minkowski space. I think the vector field gives the distan
 	 :END:
 
 ******** NEXT Write up variations
-	 SCHEDULED: <2014-12-15 Mon>
 	 :LOGBOOK:
 	 CLOCK: [2014-10-30 Thu 13:25]--[2014-10-30 Thu 13:50] =>  0:25
 	 CLOCK: [2014-10-30 Thu 08:53]--[2014-10-30 Thu 09:11] =>  0:18
@@ -3440,7 +3436,7 @@ AP&M 5829
 ***** Refs
 ** Books
 *** Working							      :FOCUS:
-**** TODO MCF Book						   :MCF_BOOK:
+**** TODO MCF Book					   :MCF_BOOK:WRITING:
 [[file:~/working/academic/research/mcf_book]]
 [[file:~/Dropbox/MCF Project]]
    :PROPERTIES:
@@ -4843,9 +4839,7 @@ Is there a consistent (say providing ZFC is consistent) set theory without the e
 **** Tasks
 ***** Writing
 ****** NEXT Write up conjectures.
-       SCHEDULED: <2014-12-15 Mon>
 ****** NEXT Write up variations.
-       SCHEDULED: <2014-12-15 Mon>
 ** Reading
    :PROPERTIES:
    :ID:       3b692ea2-10eb-4586-ae3e-2006ce6a3c0e
