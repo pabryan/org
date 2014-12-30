@@ -1352,6 +1352,14 @@ Here I need to do some more work since $u \mapsto g(\grad u, \grad u)$ is not a 
 :END:
 [[papers:MR2170766][MR2170766-paper]]
 
+** 65 (1940-now) Numerical analysis
+*** 65.0 (1940-1958) Numerical analysis
+**** Computing machinery and intelligence
+:PROPERTIES:
+:Custom_ID: MR0037064
+:END:
+[[papers:MR0037064][MR0037064-paper]]
+[[bib:MR0037064][MR0037064-bib]]
 ** 74 (2000-now) Mechanics of deformable solids
 *** 74A (2000-now) Generalities, axiomatics, foundations of continuum mechanics of solids
 **** 74A05 (2000-now) Kinematics of deformation
@@ -1361,6 +1369,13 @@ Here I need to do some more work since $u \mapsto g(\grad u, \grad u)$ is not a 
 :END:
 [[papers:MR2352963][MR2352963-paper]]
 [[bib:MR2352963][MR2352963-bib]]
+** Contributed
+*** On {C}omputable {N}umbers, with an {A}pplication to the {E}ntscheidungsproblem
+:PROPERTIES:
+:Custom_ID: MR1577030
+:END:
+[[papers:MR1577030][MR1577030-paper]]
+[[bib:MR1577030][MR1577030-bib]]
 * ZBMath
 ** Sur les surfaces \`a courbure n\'egative.
 :PROPERTIES:
