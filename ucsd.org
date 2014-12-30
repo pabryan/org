@@ -11365,7 +11365,10 @@ Center 119
 <2014-07-31 Thu 11:00-11:30>
 *** 2014/2015
 **** Fall 2014
-***** TODO Math20A
+***** DONE Math20A
+      :LOGBOOK:
+      - State "DONE"       from "TODO"       [2014-12-30 Tue 15:05]
+      :END:
 ****** Files
 [[file:~/working/ucsd/teaching/2014/fall/math20a_fall_2014]] 
 [[file:~/reference/ucsd/teaching/2014/fall/math20a]]
@@ -11857,7 +11860,10 @@ Lectures in calendar and tasks like planning lectures.
 	   :Effort:   1:00
 	   :END:
 
-******* TODO Exams
+******* DONE Exams
+	:LOGBOOK:
+	- State "DONE"       from "TODO"       [2014-12-30 Tue 15:04]
+	:END:
 ******** DONE Midterm 1
 	 :LOGBOOK:
 	 - State "DONE"       from "TODO"       [2014-12-05 Fri 09:29]
@@ -11889,7 +11895,10 @@ Lectures in calendar and tasks like planning lectures.
 	  :PROPERTIES:
 	  :Effort:   1:00
 	  :END:
-******** TODO Final
+******** DONE Final
+	 :LOGBOOK:
+	 - State "DONE"       from "TODO"       [2014-12-30 Tue 15:04]
+	 :END:
 ********* DONE Write Final proposal
 	  SCHEDULED: <2014-11-24 Mon> DEADLINE: <2014-12-01 Mon>
 	  :LOGBOOK:
@@ -11943,7 +11952,10 @@ Lectures in calendar and tasks like planning lectures.
 	 :PROPERTIES:
 	 :Effort:   0:30
 	 :END:
-******* TODO Grades
+******* DONE Grades
+	:LOGBOOK:
+	- State "DONE"       from "TODO"       [2014-12-30 Tue 15:04]
+	:END:
 ******** DONE Create grade spreadsheet
 	 DEADLINE: <2014-12-22 Mon>
 	 :LOGBOOK:
@@ -11963,7 +11975,10 @@ Lectures in calendar and tasks like planning lectures.
 	 :Effort:   0:15
 	 :END:
 ****** Clocking
-******* TODO Piazza
+******* DONE Piazza
+	:LOGBOOK:
+	- State "DONE"       from "TODO"       [2014-12-30 Tue 15:05]
+	:END:
 ******** DONE Piazza week 1
 	  DEADLINE: <2014-10-12 Sun>
 	  :LOGBOOK:
@@ -12093,7 +12108,10 @@ Lectures in calendar and tasks like planning lectures.
 	 :END:
 
 ****** Schedule
-******* TODO Lectures
+******* DONE Lectures
+	:LOGBOOK:
+	- State "DONE"       from "TODO"       [2014-12-30 Tue 15:04]
+	:END:
 ******** DONE Week 0
 	 :LOGBOOK:
 	 - State "DONE"       from "TODO"       [2014-10-07 Tue 12:26]
@@ -12355,7 +12373,10 @@ Lectures in calendar and tasks like planning lectures.
 	  :Effort:   1:00
 	  :END:
 
-******** TODO Week 9
+******** DONE Week 9
+	 :LOGBOOK:
+	 - State "DONE"       from "TODO"       [2014-12-30 Tue 15:04]
+	 :END:
 ********* DONE Lecture 9.1
 	  :LOGBOOK:
 	  - State "DONE"       from "NEXT"       [2014-12-01 Mon 14:05]
@@ -12384,7 +12405,10 @@ Lectures in calendar and tasks like planning lectures.
 	  :PROPERTIES:
 	  :Effort:   1:00
 	  :END:
-******** TODO Week 10
+******** DONE Week 10
+	 :LOGBOOK:
+	 - State "DONE"       from "TODO"       [2014-12-30 Tue 15:04]
+	 :END:
 ********* DONE Lecture 10.1
 	  :LOGBOOK:
 	  - State "DONE"       from "NEXT"       [2014-12-12 Fri 10:00]
@@ -12413,7 +12437,10 @@ Lectures in calendar and tasks like planning lectures.
 	  :PROPERTIES:
 	  :Effort:   1:00
 	  :END:
-******* TODO Exams
+******* DONE Exams
+	:LOGBOOK:
+	- State "DONE"       from "TODO"       [2014-12-30 Tue 15:04]
+	:END:
 ******** DONE Midterm 1
 	 :LOGBOOK:
 	 - State "DONE"       from "NEXT"       [2014-12-05 Fri 09:29]
@@ -12442,7 +12469,10 @@ Lectures in calendar and tasks like planning lectures.
 	 :Effort:   4:00
 	 :END:
 
-******* TODO Office hours
+******* DONE Office hours
+	:LOGBOOK:
+	- State "DONE"       from "TODO"       [2014-12-30 Tue 15:04]
+	:END:
 ******** DONE O/H Week 1
 	 :LOGBOOK:
 	 - State "DONE"       from "NEXT"       [2014-10-07 Tue 12:33]
@@ -12531,20 +12561,29 @@ Lectures in calendar and tasks like planning lectures.
 	 :Effort:   2:00
 	 :END:
 
-******** NEXT O/H Week 10
+******** DONE O/H Week 10
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2014-12-30 Tue 15:04]
+	 :END:
 	 <2014-12-08 Mon 15:00-17:00>
 	 :PROPERTIES:
 	 :Effort:   2:00
 	 :END:
 
-******* TODO Meetings
+******* DONE Meetings
+	:LOGBOOK:
+	- State "DONE"       from "TODO"       [2014-12-30 Tue 15:05]
+	:END:
 ******** DONE TA
 	 :LOGBOOK:
 	 - State "DONE"       from "NEXT"       [2014-10-07 Tue 12:33]
 	 CLOCK: [2014-10-06 Mon 16:00]--[2014-10-06 Mon 16:29] =>  0:29
 	 :END:
 <2014-10-06 Mon 16:00-17:00>
-******** TODO Instructors
+******** DONE Instructors
+	 :LOGBOOK:
+	 - State "DONE"       from "TODO"       [2014-12-30 Tue 15:05]
+	 :END:
 ********* DONE Planning
 	  :LOGBOOK:
 	  - State "DONE"       from "NEXT"       [2014-10-10 Fri 10:56]
@@ -12573,7 +12612,10 @@ Lectures in calendar and tasks like planning lectures.
 	  :Effort:   2:00
 	  :END:
 	  <2014-12-05 Fri 14:00-15:00>
-***** TODO Math142A
+***** DONE Math142A
+      :LOGBOOK:
+      - State "DONE"       from "TODO"       [2014-12-30 Tue 15:06]
+      :END:
 ****** Files
 [[file:~/working/ucsd/teaching/2014/fall/math142a_fall_2014]] 
 [[file:~/reference/ucsd/teaching/2014/fall/math142a]]
@@ -12598,7 +12640,10 @@ Lectures in calendar and tasks like planning lectures.
 	 :PROPERTIES:
 	 :Effort:   0:15
 	 :END:
-******* TODO Lectures
+******* DONE Lectures
+	:LOGBOOK:
+	- State "DONE"       from "TODO"       [2014-12-30 Tue 15:05]
+	:END:
 ******** DONE Create lecture schedule
 	 :LOGBOOK:
 	 - State "DONE"       from "NEXT"       [2014-09-24 Wed 13:06]
@@ -12607,7 +12652,10 @@ Lectures in calendar and tasks like planning lectures.
 	 :PROPERTIES:
 	 :Effort:   0:30
 	 :END:
-******** TODO Prepare lectures
+******** DONE Prepare lectures
+	 :LOGBOOK:
+	 - State "DONE"       from "TODO"       [2014-12-30 Tue 15:05]
+	 :END:
 ********* DONE Week 1
 	  :LOGBOOK:
 	  - State "DONE"       from "TODO"       [2014-10-15 Wed 10:47]
@@ -12997,8 +13045,9 @@ Lectures in calendar and tasks like planning lectures.
 	   :Effort:   1:00
 	   :END:
 
-********* TODO Week 10
+********* DONE Week 10
 	  :LOGBOOK:
+	  - State "DONE"       from "TODO"       [2014-12-30 Tue 15:05]
 	  CLOCK: [2014-12-11 Thu 12:54]--[2014-12-11 Thu 12:57] =>  0:03
 	  CLOCK: [2014-12-02 Tue 11:12]--[2014-12-02 Tue 11:14] =>  0:02
 	  :END:
@@ -13042,7 +13091,10 @@ Lectures in calendar and tasks like planning lectures.
 	   :Effort:   1:00
 	   :END:
 
-******* TODO Exams
+******* DONE Exams
+	:LOGBOOK:
+	- State "DONE"       from "TODO"       [2014-12-30 Tue 15:05]
+	:END:
 ******** DONE Midterm 1
 	 :LOGBOOK:
 	 - State "DONE"       from "TODO"       [2014-11-24 Mon 16:50]
@@ -13144,8 +13196,9 @@ Lectures in calendar and tasks like planning lectures.
 	  :PROPERTIES:
 	  :Effort:   0:30
 	  :END:
-******** TODO Final
+******** DONE Final
 	 :LOGBOOK:
+	 - State "DONE"       from "TODO"       [2014-12-30 Tue 15:05]
 	 CLOCK: [2014-12-10 Wed 09:30]--[2014-12-10 Wed 09:31] =>  0:01
 	 CLOCK: [2014-12-04 Thu 12:53]--[2014-12-04 Thu 12:57] =>  0:04
 	 :END:
@@ -13251,8 +13304,9 @@ Lectures in calendar and tasks like planning lectures.
 	 - State "DONE"       from "NEXT"       [2014-10-15 Wed 11:11]
 	 CLOCK: [2014-10-15 Wed 11:02]--[2014-10-15 Wed 11:11] =>  0:09
 	 :END:
-******* TODO Piazza
+******* DONE Piazza
 	:LOGBOOK:
+	- State "DONE"       from "TODO"       [2014-12-30 Tue 15:05]
 	CLOCK: [2014-10-15 Wed 10:57]--[2014-10-15 Wed 11:02] =>  0:05
 	:END:
 ******** DONE Set up piazza
@@ -13321,8 +13375,9 @@ Lectures in calendar and tasks like planning lectures.
 	  :PROPERTIES:
 	  :Effort:   0:10
 	  :END:
-******** TODO Write notes
+******** DONE Write notes
 	 :LOGBOOK:
+	 - State "DONE"       from "TODO"       [2014-12-30 Tue 15:05]
 	 CLOCK: [2014-11-20 Thu 11:11]--[2014-11-20 Thu 11:12] =>  0:01
 	 CLOCK: [2014-10-15 Wed 18:31]--[2014-10-15 Wed 20:08] =>  1:37
 	 :END:
@@ -13358,11 +13413,15 @@ Lectures in calendar and tasks like planning lectures.
 	   - State "DONE"       from "NEXT"       [2014-11-24 Mon 21:59]
 	   CLOCK: [2014-11-24 Mon 20:45]--[2014-11-24 Mon 21:59] =>  1:14
 	   :END:
-******** NEXT Answer questions
+******** DONE Answer questions
 	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2014-12-30 Tue 15:05]
 	 CLOCK: [2014-12-05 Fri 09:21]--[2014-12-05 Fri 09:28] =>  0:07
 	 :END:
-******* TODO Grades
+******* DONE Grades
+	:LOGBOOK:
+	- State "DONE"       from "TODO"       [2014-12-30 Tue 15:05]
+	:END:
 ******** DONE Create grade spreadsheet
 	 DEADLINE: <2014-12-22 Mon>
 	 :LOGBOOK:
@@ -13393,7 +13452,10 @@ Lectures in calendar and tasks like planning lectures.
 
 ****** Clocking
 ****** Schedule
-******* TODO Lectures
+******* DONE Lectures
+	:LOGBOOK:
+	- State "DONE"       from "TODO"       [2014-12-30 Tue 15:06]
+	:END:
 ******** DONE Week 1
 	 :LOGBOOK:
 	 - State "DONE"       from "TODO"       [2014-10-11 Sat 19:35]
@@ -13642,7 +13704,10 @@ Lectures in calendar and tasks like planning lectures.
 	  :Effort:   1:00
 	  :END:
 
-******** TODO Week 9
+******** DONE Week 9
+	 :LOGBOOK:
+	 - State "DONE"       from "TODO"       [2014-12-30 Tue 15:06]
+	 :END:
 ********* DONE Lecture 9.1
 	  :LOGBOOK:
 	  - State "DONE"       from "NEXT"       [2014-12-01 Mon 14:05]
@@ -13671,7 +13736,10 @@ Lectures in calendar and tasks like planning lectures.
 	  :PROPERTIES:
 	  :Effort:   1:00
 	  :END:
-******** TODO Week 10
+******** DONE Week 10
+	 :LOGBOOK:
+	 - State "DONE"       from "TODO"       [2014-12-30 Tue 15:06]
+	 :END:
 ********* DONE Lecture 10.1
 	  :LOGBOOK:
 	  - State "DONE"       from "NEXT"       [2014-12-12 Fri 10:00]
@@ -13700,7 +13768,10 @@ Lectures in calendar and tasks like planning lectures.
 	  :PROPERTIES:
 	  :Effort:   1:00
 	  :END:
-******* TODO Exams
+******* DONE Exams
+	:LOGBOOK:
+	- State "DONE"       from "TODO"       [2014-12-30 Tue 15:06]
+	:END:
 ******** DONE Midterm 1
 	 :LOGBOOK:
 	 - State "DONE"       from "NEXT"       [2014-10-31 Fri 14:11]
@@ -13728,7 +13799,10 @@ Lectures in calendar and tasks like planning lectures.
 	 :Effort:   4:00
 	 :END:
 
-******* TODO Office hours
+******* DONE Office hours
+	:LOGBOOK:
+	- State "DONE"       from "TODO"       [2014-12-30 Tue 15:06]
+	:END:
 ******** CANCELLED O/H Week 1
 	 :LOGBOOK:
 	 - State "CANCELLED"  from "NEXT"       [2014-10-08 Wed 09:56] \\
@@ -13818,8 +13892,9 @@ Lectures in calendar and tasks like planning lectures.
 	 :Effort:   2:00
 	 :END:
 
-******** NEXT O/H Week 10
+******** DONE O/H Week 10
 	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2014-12-30 Tue 15:06]
 	 CLOCK: [2014-12-10 Wed 15:00]--[2014-12-10 Wed 16:06] =>  1:06
 	 :END:
 	 <2014-12-10 Wed 15:00-17:00>
@@ -13835,8 +13910,14 @@ Lectures in calendar and tasks like planning lectures.
 <2014-10-10 Fri 14:20>
 ******** 142A Grader
 <2014-10-10 Fri 14:20>
-***** TODO Cover lectures
-****** TODO Lei Ni Analysis
+***** DONE Cover lectures
+      :LOGBOOK:
+      - State "DONE"       from "TODO"       [2014-12-30 Tue 15:06]
+      :END:
+****** DONE Lei Ni Analysis
+       :LOGBOOK:
+       - State "DONE"       from "TODO"       [2014-12-30 Tue 15:06]
+       :END:
 ******* Schedule
 ******** DONE Analysis lecture
 	 :LOGBOOK:
@@ -13888,8 +13969,234 @@ Lectures in calendar and tasks like planning lectures.
 ******* TODO Plan course
 ******** NEXT Org structure
 	 SCHEDULED: <2015-01-02 Fri>
+	 :LOGBOOK:
+	 CLOCK: [2014-12-30 Tue 15:02]
+	 :END:
 Lectures in calendar and tasks like planning lectures.
 
+******* TODO Lectures
+******** NEXT Create lecture schedule
+******** TODO Prepare lectures
+********* TODO Week 1
+********** NEXT Prepare lec 1.1
+	   SCHEDULED: <2014-12-31 Wed>
+	   :PROPERTIES:
+	   :Effort:   1:00
+	   :END:
+
+********** NEXT Prepare lec 1.2
+	   SCHEDULED: <2014-12-31 Wed>
+	   :PROPERTIES:
+	   :Effort:   1:00
+	   :END:
+
+********** NEXT Prepare lec 1.3
+	   SCHEDULED: <2014-12-31 Wed>
+	   :PROPERTIES:
+	   :Effort:   1:00
+	   :END:
+********* TODO Week 2
+********** NEXT Prepare lec 2.1
+	   SCHEDULED: <2015-01-05 Mon>
+	   :PROPERTIES:
+	   :Effort:   1:00
+	   :END:
+
+********** NEXT Prepare lec 2.2
+	   SCHEDULED: <2015-01-05 Mon>
+	   :PROPERTIES:
+	   :Effort:   1:00
+	   :END:
+
+********** NEXT Prepare lec 2.3
+	   SCHEDULED: <2015-01-05 Mon>
+	   :PROPERTIES:
+	   :Effort:   1:00
+	   :END:
+********* TODO Week 3
+********** NEXT Prepare lec 3.1
+	   SCHEDULED: <2015-01-12 Mon>
+	   :PROPERTIES:
+	   :Effort:   1:00
+	   :END:
+
+********** NEXT Prepare lec 3.2
+	   SCHEDULED: <2015-01-12 Mon>
+	   :PROPERTIES:
+	   :Effort:   1:00
+	   :END:
+
+********** NEXT Prepare lec 3.3
+	   SCHEDULED: <2015-01-12 Mon>
+	   :PROPERTIES:
+	   :Effort:   1:00
+	   :END:
+********* TODO Week 4
+********** NEXT Prepare lec 4.1
+	   SCHEDULED: <2015-01-19 Mon>
+	   :PROPERTIES:
+	   :Effort:   1:00
+	   :END:
+
+********** NEXT Prepare lec 4.2
+	   SCHEDULED: <2015-01-19 Mon>
+	   :PROPERTIES:
+	   :Effort:   1:00
+	   :END:
+
+********** NEXT Prepare lec 4.3
+	   SCHEDULED: <2015-01-19 Mon>
+	   :PROPERTIES:
+	   :Effort:   1:00
+	   :END:
+********* TODO Week 5
+********** NEXT Prepare lec 5.1
+	   SCHEDULED: <2015-01-26 Mon>
+	   :PROPERTIES:
+	   :Effort:   1:00
+	   :END:
+
+********** NEXT Prepare lec 5.2
+	   SCHEDULED: <2015-01-26 Mon>
+	   :PROPERTIES:
+	   :Effort:   1:00
+	   :END:
+
+********** NEXT Prepare lec 5.3
+	   SCHEDULED: <2015-01-26 Mon>
+	   :PROPERTIES:
+	   :Effort:   1:00
+	   :END:
+********* TODO Week 6
+********** NEXT Prepare lec 6.1
+	   SCHEDULED: <2015-02-02 Mon>
+	   :PROPERTIES:
+	   :Effort:   1:00
+	   :END:
+
+********** NEXT Prepare lec 6.2
+	   SCHEDULED: <2015-02-02 Mon>
+	   :PROPERTIES:
+	   :Effort:   1:00
+	   :END:
+
+********** NEXT Prepare lec 6.3
+	   SCHEDULED: <2015-02-02 Mon>
+	   :PROPERTIES:
+	   :Effort:   1:00
+	   :END:
+********* TODO Week 7
+********** NEXT Prepare lec 7.1
+	   SCHEDULED: <2015-02-09 Mon>
+	   :PROPERTIES:
+	   :Effort:   1:00
+	   :END:
+
+********** NEXT Prepare lec 7.2
+	   SCHEDULED: <2015-02-09 Mon>
+	   :PROPERTIES:
+	   :Effort:   1:00
+	   :END:
+
+********** NEXT Prepare lec 7.3
+	   SCHEDULED: <2015-02-09 Mon>
+	   :PROPERTIES:
+	   :Effort:   1:00
+	   :END:
+********* TODO Week 8
+********** NEXT Prepare lec 8.1
+	   SCHEDULED: <2015-02-16 Mon>
+	   :PROPERTIES:
+	   :Effort:   1:00
+	   :END:
+
+********** NEXT Prepare lec 8.2
+	   SCHEDULED: <2015-02-16 Mon>
+	   :PROPERTIES:
+	   :Effort:   1:00
+	   :END:
+
+********** NEXT Prepare lec 8.3
+	   SCHEDULED: <2015-02-16 Mon>
+	   :PROPERTIES:
+	   :Effort:   1:00
+	   :END:
+********* TODO Week 9
+********** NEXT Prepare lec 9.1
+	   SCHEDULED: <2015-02-23 Mon>
+	   :PROPERTIES:
+	   :Effort:   1:00
+	   :END:
+
+********** NEXT Prepare lec 9.2
+	   SCHEDULED: <2015-02-23 Mon>
+	   :PROPERTIES:
+	   :Effort:   1:00
+	   :END:
+
+********** NEXT Prepare lec 9.3
+	   SCHEDULED: <2015-02-23 Mon>
+	   :PROPERTIES:
+	   :Effort:   1:00
+	   :END:
+********* TODO Week 10
+********** NEXT Prepare lec 10.1
+	   SCHEDULED: <2015-03-02 Mon>
+	   :PROPERTIES:
+	   :Effort:   1:00
+	   :END:
+
+********** NEXT Prepare lec 10.2
+	   SCHEDULED: <2015-03-02 Mon>
+	   :PROPERTIES:
+	   :Effort:   1:00
+	   :END:
+
+********** NEXT Prepare lec 10.3
+	   SCHEDULED: <2015-03-02 Mon>
+	   :PROPERTIES:
+	   :Effort:   1:00
+	   :END:
+******* TODO Exams
+******** TODO Midterm 1
+********* NEXT Write midterm 1 proposal
+	  DEADLINE: <2015-01-16 Fri>
+	  :PROPERTIES:
+	  :Effort:   0:30
+	  :END:
+******** TODO Midterm 2
+********* NEXT Write midterm 2 proposal
+	  DEADLINE: <2015-02-13 Fri>
+	  :PROPERTIES:
+	  :Effort:   0:30
+	  :END:
+******** TODO Final
+********* NEXT Write final proposal
+	  DEADLINE: <2015-03-06 Fri>
+******* TODO Website
+******** NEXT Make website
+	 DEADLINE: <2015-01-02 Fri>
+	 :PROPERTIES:
+	 :Effort:   0:30
+	 :END:
+******* TODO Piazza
+******** NEXT Set up Piazza
+	 DEADLINE: <2015-01-02 Fri>
+	 :PROPERTIES:
+	 :Effort:   0:15
+	 :END:
+******* TODO Grades
+******** NEXT Create grade spreadsheet
+	 DEADLINE: <2015-03-24 Tue>
+
+	 :PROPERTIES:
+	 :Effort:   1:00
+	 :END:
+******** NEXT Enter grades
+	 DEADLINE: <2015-03-24 Tue>
+	 :PROPERTIES:
+	 :Effort:   0:15
+	 :END:
 ****** Clocking
 ****** Schedule
 ***** TODO Math142B
