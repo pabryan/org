@@ -1846,6 +1846,7 @@ http://gmane.org
   :END:
 ** Organisation
   :LOGBOOK:
+  CLOCK: [2014-12-30 Tue 13:57]--[2014-12-30 Tue 14:04] =>  0:07
   CLOCK: [2014-12-30 Tue 12:13]--[2014-12-30 Tue 12:21] =>  0:08
   CLOCK: [2014-12-30 Tue 10:55]--[2014-12-30 Tue 11:07] =>  0:12
   CLOCK: [2014-12-29 Mon 13:16]--[2014-12-29 Mon 13:17] =>  0:01
@@ -5098,9 +5099,10 @@ When I set up scoring the day:
 - [ ] Do short tasks
 - [ ] Record morning health stats
 
-** NEXT Weekly Review [17/20]
-   SCHEDULED: <2014-07-07 Mon +1w>
+** NEXT Weekly Review [18/20]
+   SCHEDULED: <2015-01-02 Fri +1w>
    :LOGBOOK:
+   CLOCK: [2014-12-30 Tue 14:04]
    CLOCK: [2014-12-30 Tue 12:21]--[2014-12-30 Tue 12:51] =>  0:30
    CLOCK: [2014-12-01 Mon 09:08]--[2014-12-01 Mon 09:39] =>  0:31
    CLOCK: [2014-11-25 Tue 14:29]--[2014-11-25 Tue 14:32] =>  0:03
@@ -5273,29 +5275,29 @@ When I set up scoring the day:
 - [X] Process incoming information
   - [X] feedly
   - [X] pocket
-- [ ] Plan the upcoming week
+- [X] Plan the upcoming week
   - Theme your days: teaching, admin/service, research, students, writing
   - [[file:daythemes.org][file:~/org/daythemes.org]]
-  - [ ] Schedule tasks for the week. See [[file:goals.org::*Weekly%20time][Weekly time]].
-    - [ ] Teaching
-      - [ ] lecture planning
-      - [ ] exam writing
-      - [ ] office hours
-      - [ ] lectures
-      - [ ] online discussion (piazza)
-      - [ ] blog
-      - [ ] general admin
-    - [ ] Research
-      - [ ] writing	
-      - [ ] calculation
-      - [ ] reading
-      - [ ] finding references
-    - [ ] Coding
-      - [ ] for projects
-      - [ ] plots   
-    - [ ] Organisation
-      - [ ] Weekly review
-      - [ ] Project planning
+  - [X] Schedule tasks for the week. See [[file:goals.org::*Weekly%20time][Weekly time]].
+    - [X] Teaching
+      - [X] lecture planning
+      - [X] exam writing
+      - [X] office hours
+      - [X] lectures
+      - [X] online discussion (piazza)
+      - [X] blog
+      - [X] general admin
+    - [X] Research
+      - [X] writing	
+      - [X] calculation
+      - [X] reading
+      - [X] finding references
+    - [X] Coding
+      - [X] for projects
+      - [X] plots   
+    - [X] Organisation
+      - [X] Weekly review: Friday afternoon's!
+      - [X] Project planning
 - [X] Review focus projects 
 - [X] Set focus
 - [ ] Check follow-up paper folder
