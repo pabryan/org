@@ -252,7 +252,7 @@ My card won't swipe anymore.
    
 ** Bills 
 *** NEXT Pay rent
-    DEADLINE: <2015-02-05 Thu +1m -4d> 
+    DEADLINE: <2015-02-05 Thu +1m -5d> 
     :LOGBOOK:
     - State "DONE"       from "TODO"       [2014-12-01 Mon 09:16]
     - State "DONE"       from "TODO"       [2014-11-29 Sat 11:32]
