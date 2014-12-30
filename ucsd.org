@@ -13972,6 +13972,9 @@ Lectures in calendar and tasks like planning lectures.
 	 :LOGBOOK:
 	 CLOCK: [2014-12-30 Tue 15:02]
 	 :END:
+	 :PROPERTIES:
+	 :Effort:   0:30
+	 :END:
 Lectures in calendar and tasks like planning lectures.
 
 ******* TODO Lectures
@@ -14198,7 +14201,68 @@ Lectures in calendar and tasks like planning lectures.
 	 :Effort:   0:15
 	 :END:
 ****** Clocking
+******* TODO Piazza
+******** NEXT Piazza Week 1
+	 SCHEDULED: <2015-01-05 Mon>
+	 :PROPERTIES:
+	 :Effort:   1:00
+	 :END:
+******** TODO Piazza Week 2
+	 SCHEDULED: <2015-01-12 Mon>
+	 :PROPERTIES:
+	 :Effort:   1:00
+	 :END:
+******** TODO Piazza Week 3
+	 SCHEDULED: <2015-01-19 Mon>
+	 :PROPERTIES:
+	 :Effort:   1:00
+	 :END:
+******** TODO Piazza Week 4
+	 SCHEDULED: <2015-01-26 Mon>
+	 :PROPERTIES:
+	 :Effort:   1:00
+	 :END:
+******** TODO Piazza Week 5
+	 SCHEDULED: <2015-02-02 Mon>
+	 :PROPERTIES:
+	 :Effort:   1:00
+	 :END:
+******** TODO Piazza Week 6
+	 SCHEDULED: <2015-02-09 Mon>
+	 :PROPERTIES:
+	 :Effort:   1:00
+	 :END:
+******** TODO Piazza Week 7
+	 SCHEDULED: <2015-02-16 Mon>
+	 :PROPERTIES:
+	 :Effort:   1:00
+	 :END:
+******** TODO Piazza Week 8
+	 SCHEDULED: <2015-02-23 Mon>
+	 :PROPERTIES:
+	 :Effort:   1:00
+	 :END:
+******** TODO Piazza Week 9
+	 SCHEDULED: <2015-03-02 Mon>
+	 :PROPERTIES:
+	 :Effort:   1:00
+	 :END:
+******** TODO Piazza Week 10
+	 SCHEDULED: <2015-03-09 Mon>
+	 :PROPERTIES:
+	 :Effort:   1:00
+	 :END:
 ****** Schedule
+******* TODO Lectures
+******* TODO Exams
+******* TODO Office hours
+******* TODO Meetings
+******** TODO TA's
+******** TODO Instructors
+********* NEXT Planning
+********* TODO Plan midterm 1
+********* TODO Plan midterm 2
+********* TODO Plan final
 ***** TODO Math142B
 ****** Files
 [[file:~/working/ucsd/teaching/2015/winter/math142b_winter_2015]] 
