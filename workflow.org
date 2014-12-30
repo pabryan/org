@@ -5098,10 +5098,10 @@ When I set up scoring the day:
 - [ ] Do short tasks
 - [ ] Record morning health stats
 
-** NEXT Weekly Review [10/20]
+** NEXT Weekly Review [17/20]
    SCHEDULED: <2014-07-07 Mon +1w>
    :LOGBOOK:
-   CLOCK: [2014-12-30 Tue 12:21]
+   CLOCK: [2014-12-30 Tue 12:21]--[2014-12-30 Tue 12:51] =>  0:30
    CLOCK: [2014-12-01 Mon 09:08]--[2014-12-01 Mon 09:39] =>  0:31
    CLOCK: [2014-11-25 Tue 14:29]--[2014-11-25 Tue 14:32] =>  0:03
    CLOCK: [2014-11-25 Tue 13:23]--[2014-11-25 Tue 13:44] =>  0:21
@@ -5296,19 +5296,19 @@ When I set up scoring the day:
     - [ ] Organisation
       - [ ] Weekly review
       - [ ] Project planning
-- [ ] Review focus projects 
-- [ ] Set focus
+- [X] Review focus projects 
+- [X] Set focus
 - [ ] Check follow-up paper folder
 - [ ] Collate the weeks: pad scribbles, org-mode notes, phone notes, etc.
-- [ ] Check Finances
+- [X] Check Finances
   - Check bank accounts and compare with what's still to come
   - Plan the weeks budget
   - Update monthly transactions
-- [ ] Copy music to phone
-- [ ] Share photos on Google+
-- [ ] Update Abundant Harvest order
+- [X] Copy music to phone
+- [X] Share photos on Google+
+- [X] Update Abundant Harvest order
   - http://www.abundantharvestorganics.com/
-- [ ] Order meat
+- [X] Order meat
   - http://www.son-riseranchstore.com/
 
 ** NEXT Monthly (Quarterly?) Plan/Review [0/16]
