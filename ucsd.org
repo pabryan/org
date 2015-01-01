@@ -14831,18 +14831,25 @@ Lectures in calendar and tasks like planning lectures.
 	  :Effort:   0:30
 	  :END:
 
-******* TODO Website
-******** NEXT Make website
+******* DONE Website
+	:LOGBOOK:
+	- State "DONE"       from "TODO"       [2014-12-31 Wed 16:01]
+	:END:
+******** DONE Make website
 	 DEADLINE: <2015-01-02 Fri>
 	 :LOGBOOK:
-	 CLOCK: [2014-12-31 Wed 15:31]
+	 - State "DONE"       from "NEXT"       [2014-12-31 Wed 16:01]
+	 CLOCK: [2014-12-31 Wed 15:31]--[2014-12-31 Wed 16:01] =>  0:30
 	 :END:
 	 :PROPERTIES:
 	 :Effort:   0:30
 	 :END:
 ******* TODO Piazza
-******** NEXT Set up Piazza
+******** DONE Set up Piazza
 	 DEADLINE: <2015-01-02 Fri>
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2014-12-31 Wed 16:01]
+	 :END:
 	 :PROPERTIES:
 	 :Effort:   0:15
 	 :END:
