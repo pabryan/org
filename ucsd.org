@@ -14182,14 +14182,22 @@ Lectures in calendar and tasks like planning lectures.
 ********* NEXT Write final proposal
 	  DEADLINE: <2015-03-06 Fri>
 ******* TODO Website
-******** NEXT Make website
+******** DONE Make website
 	 DEADLINE: <2015-01-02 Fri>
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2014-12-31 Wed 15:29]
+	 CLOCK: [2014-12-31 Wed 15:13]--[2014-12-31 Wed 15:29] =>  0:16
+	 :END:
 	 :PROPERTIES:
 	 :Effort:   0:30
 	 :END:
 ******* TODO Piazza
-******** NEXT Set up Piazza
+******** DONE Set up Piazza
 	 DEADLINE: <2015-01-02 Fri>
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2014-12-31 Wed 15:31]
+	 CLOCK: [2014-12-31 Wed 15:29]--[2014-12-31 Wed 15:31] =>  0:02
+	 :END:
 	 :PROPERTIES:
 	 :Effort:   0:15
 	 :END:
@@ -14735,6 +14743,12 @@ Lectures in calendar and tasks like planning lectures.
 	   :PROPERTIES:
 	   :Effort:   1:00
 	   :END:
+******* TODO Homework
+******** NEXT Set homework problems
+	 DEADLINE: <2015-01-02 Fri>
+	 :PROPERTIES:
+	 :Effort:   0:30
+	 :END:
 ******* TODO Exams
 ******** TODO Midterm 1
 ********* NEXT Write midterm 1
@@ -14820,6 +14834,9 @@ Lectures in calendar and tasks like planning lectures.
 ******* TODO Website
 ******** NEXT Make website
 	 DEADLINE: <2015-01-02 Fri>
+	 :LOGBOOK:
+	 CLOCK: [2014-12-31 Wed 15:31]
+	 :END:
 	 :PROPERTIES:
 	 :Effort:   0:30
 	 :END:
