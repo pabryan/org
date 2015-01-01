@@ -14181,7 +14181,10 @@ Lectures in calendar and tasks like planning lectures.
 ******** TODO Final
 ********* NEXT Write final proposal
 	  DEADLINE: <2015-03-06 Fri>
-******* TODO Website
+******* DONE Website
+	:LOGBOOK:
+	- State "DONE"       from "TODO"       [2014-12-31 Wed 16:28]
+	:END:
 ******** DONE Make website
 	 DEADLINE: <2015-01-02 Fri>
 	 :LOGBOOK:
@@ -14210,6 +14213,19 @@ Lectures in calendar and tasks like planning lectures.
 	 :END:
 ******** NEXT Enter grades
 	 DEADLINE: <2015-03-24 Tue>
+	 :PROPERTIES:
+	 :Effort:   0:15
+	 :END:
+******* DONE Ted
+	:LOGBOOK:
+	- State "DONE"       from "TODO"       [2014-12-31 Wed 16:28]
+	:END:
+******** DONE Set up Ted
+	 DEADLINE: <2015-01-02 Fri>
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2014-12-31 Wed 16:28]
+	 CLOCK: [2014-12-31 Wed 16:15]--[2014-12-31 Wed 16:27] =>  0:12
+	 :END:
 	 :PROPERTIES:
 	 :Effort:   0:15
 	 :END:
@@ -14865,7 +14881,19 @@ Lectures in calendar and tasks like planning lectures.
 	 :PROPERTIES:
 	 :Effort:   0:15
 	 :END:
-
+******* DONE Ted
+	:LOGBOOK:
+	- State "DONE"       from "TODO"       [2014-12-31 Wed 16:28]
+	:END:
+******** DONE Set up Ted
+	 DEADLINE: <2015-01-02 Fri>
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2014-12-31 Wed 16:28]
+	 CLOCK: [2014-12-31 Wed 16:01]--[2014-12-31 Wed 16:15] =>  0:14
+	 :END:
+	 :PROPERTIES:
+	 :Effort:   0:15
+	 :END:
 ****** Clocking
 ******* TODO Piazza
 ******** NEXT Piazza Week 1
