@@ -2822,7 +2822,6 @@ This is some sort of curvature flow for polygons - exactly what I want to look a
 
 *** Future 							    :SOMEDAY:
 **** TODO Study non-smooth mean curvature flow, minimal surfaces via support fn
-     SCHEDULED: <2015-01-01 Thu>
      :LOGBOOK:
      CLOCK: [2013-10-19 Sat 15:33]--[2013-10-19 Sat 15:34] =>  0:01
      :END:
@@ -3015,8 +3014,7 @@ In particular, if $X$ is not a gradient vector field, what is corresponding metr
        :END:
 ****** NEXT Scan diagram of model construction
 ****** NEXT Re-investigate radial comparison
-       SCHEDULED: <2015-01-01 Thu>
-
+o
 ****** NEXT Work out curvature for model comparison
        :LOGBOOK:
        CLOCK: [2014-01-31 Fri 13:05]--[2014-01-31 Fri 13:26] =>  0:21
@@ -3798,7 +3796,6 @@ We solve for the metric and come up with various parameters such as $U, W$. Thes
 - The specs should not *ever* use the objects to test to create expected values! For instance, I have tests that create a galaxy object for testing and grab nsteps from the object to use in the expected values. This is not good! I should have an expected nsteps and use that to test the code generates the correct nsteps!
 
 **** TODO Numerical Relativity
-     SCHEDULED: <2015-01-01 Thu>
 ***** Refs
 ****** Institutions
 https://numrel.aei.mpg.de/
@@ -3823,7 +3820,6 @@ https://numrel.aei.mpg.de/people/radice
 ***** References
 *** Future 							    :SOMEDAY:
 **** TODO Riemannian manifolds
-     SCHEDULED: <2015-01-01 Thu>
 ***** Tasks
 ****** Project organisation
 ******* NEXT Create project
@@ -4482,7 +4478,6 @@ Look at all dark matter papers. Alan Parry also. Bibliography of course!
 	:END:
 
 *** Derivations
-    SCHEDULED: <2015-01-01 Thu>
 **** Notes
 ***** Motivation
 - To what extent do the derivations determine the smooth structure? That is, I want to consider differential ringed spaces and say that a smooth structure is such a ringed space. Or in other words, how canonical is a derivation on a ringed space? So, I have a locally ringed space that is locally isomorphic to the smooth functions on $\RR^n$ and this determines the smooth structure and is thus may be equipped with the standard derivations of partial differentiation. What about some sort of converse to this? In other words, what are the derivations on $C^{\infty}(\RR^n)$? Is there some way of characterising the standard derivation? Is it some sort of universal derivation? What are the properties that determine it?
@@ -4496,9 +4491,6 @@ Look at all dark matter papers. Alan Parry also. Bibliography of course!
 **** Refs
 **** Tasks
 *** TODO Prove similarity solns (self-shrinkers/translations) have polynomial growth
-  SCHEDULED: <2015-01-01 Thu>
-  :LOGBOOK:
-  :END:
     :PROPERTIES:
     :ID:       5efa93c5-e1cd-43ad-8eda-b645af07435e
     :END:
@@ -4794,7 +4786,6 @@ http://mathoverflow.net/questions/14877/how-much-of-differential-geometry-can-be
   :END:
 - Often these are given by the wedge of some form. Is there some way to characterise such morphisms?
 *** TODO Investigate linearised MC
-  SCHEDULED: <2015-01-01 Thu>
   :LOGBOOK:
   CLOCK: [2014-03-27 Thu 09:20]--[2014-03-27 Thu 09:22] =>  0:02
   :END:
@@ -4893,7 +4884,6 @@ Is there a consistent (say providing ZFC is consistent) set theory without the e
    :ID:       0609581e-fe50-48ce-aa33-ce468c217f92
    :END:
 *** HOLD GMT								:GMT:
-    SCHEDULED: <2015-01-01 Thu>
     :LOGBOOK:
     - State "HOLD"       from "TODO"       [2013-08-04 Sun 16:45] \\
       Don't have time for this right now!
@@ -4923,7 +4913,6 @@ First variation.
 ***** Lec 03
 Radon measures: compactness and Reisz representation.
 *** TODO Convex Geometry					     :CONVEX:
-    SCHEDULED: <2015-01-01 Thu>
     :LOGBOOK:
     - State "TODO"       from "HOLD"       [2013-10-09 Wed 17:24]
     - State "HOLD"       from "TODO"       [2013-08-04 Sun 16:46] \\
@@ -4941,7 +4930,6 @@ Radon measures: compactness and Reisz representation.
      :END:
 
 *** TODO Bundle Theory						     :BUNDLE:
-    SCHEDULED: <2015-01-01 Thu>
     :PROPERTIES:
     :ID:       05ad3c1c-4842-4796-8ecc-a417aee5b7cc
     :END:
