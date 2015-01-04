@@ -1888,6 +1888,24 @@ See [[*Convexity%20in%20space%20forms][Convexity in space forms]] and Urbas' and
 ***** Notes
 ***** Refs 
 *** Holding
+**** TODO Isoperimetric inequality and ancient solutions
+***** Tasks
+****** TODO Math
+****** TODO Writing
+******* NEXT Write isoperimetric inequality method
+From "Alexios Polanski". see also 2013arXiv1307.5764M
+- [[file:~/reference/academic/research/csf_ancient_sphere/Ancient%20solutions%20of%20the%20curve%20shortening%20flow%20on%20the%20sphere.pdf][file:~/reference/academic/research/csf_ancient_sphere/Ancient solutions of the curve shortening flow on the sphere.pdf]]
+****** TODO Admin
+******* DONE Follow up with "Alexios"
+	  SCHEDULED: <2015-01-05 Mon>
+	  :LOGBOOK:
+	  - State "DONE"       from "WAITING"    [2015-01-04 Sun 10:42]
+	  - State "WAITING"    from "NEXT"       [2014-12-09 Tue 11:00] \\
+	    Sent email to Alexios asking for collaboration.
+	  :END:
+******* TODO Organise Vienna visit
+	 SCHEDULED: <2015-02-02 Mon>
+
 **** TODO Ricci isoperimetric profile on surfaces 	     :RICCI_ISO_COMP:
    :LOGBOOK:
    :END:
@@ -2443,7 +2461,6 @@ If $K = \tilde{K} \intersect \sphere^n$, then $\tilde{K} \subset $\text{cone} (K
 ********* NEXT Lies in a hemisphere
 ******* TODO Proof reading
 **** TODO Ricci Isoprofile Comparison
-     SCHEDULED: <2015-01-05 Mon>
      :PROPERTIES:
      :ID:       39603eb5-2bec-4118-a705-a5287b9d5ad2
      :END:
@@ -3047,21 +3064,6 @@ I am wondering whether it might be possible to take into account the possible di
 	 :END:
 ***** Notes
 ***** Refs
-
-**** TODO Isoperimetric inequality and ancient solutions
-***** Tasks
-****** TODO Math
-****** TODO Writing
-******* NEXT Write isoperimetric inequality method
-From "Alexios Polanski". see also 2013arXiv1307.5764M
-- [[file:~/reference/academic/research/csf_ancient_sphere/Ancient%20solutions%20of%20the%20curve%20shortening%20flow%20on%20the%20sphere.pdf][file:~/reference/academic/research/csf_ancient_sphere/Ancient solutions of the curve shortening flow on the sphere.pdf]]
-****** TODO Admin
-******* WAITING Follow up with "Alexios"
-	  SCHEDULED: <2015-01-05 Mon>
-	  :LOGBOOK:
-	  - State "WAITING"    from "NEXT"       [2014-12-09 Tue 11:00] \\
-	    Sent email to Alexios asking for collaboration.
-	  :END:
 
 *** Complete
 **** DONE CSF Sphere Ancient Solutions			 :CSF_ANCIENT_SPHERE:
@@ -3898,7 +3900,6 @@ In particular I want the combinatorial algebra
        	:END:
 ** Tasks
 *** TODO Organise research papers    
-    SCHEDULED: <2015-01-05 Mon>
     :PROPERTIES:
     :ID:       27dd1954-9abe-4a87-9bcd-36027c643fdb
     :END:
@@ -4110,7 +4111,6 @@ sometimes the bib ref I have has MR<num> but the paper is saved as MR0<num> whic
 - Isoperimetric comparison with respect to Huisken's density (weighted Levy/Gromov perhaps?). How does this relate also to minimal surfaces?
 
 *** TODO Paper preparation
-    SCHEDULED: <2015-01-05 Mon>
 **** TODO Incorporate sage code into document creation
   :LOGBOOK:
   CLOCK: [2014-03-01 Sat 13:28]--[2014-03-01 Sat 13:29] =>  0:01
@@ -4132,7 +4132,6 @@ Either by using literal blocks in org-mode or using sagetex I can produce images
     CLOCK: [2012-12-18 Tue 09:45]--[2012-12-18 Tue 10:27] =>  0:42
     :END:
 *** TODO Organise Research Projects
-    SCHEDULED: <2015-01-05 Mon>
 **** NEXT Set up/organise current research projects
 
   :LOGBOOK:
@@ -4179,7 +4178,6 @@ I want to have descriptions of my various research projects with clear aims, a s
 Schedule time for research, for teaching and for non-research academic work (e.g. refereeing). That cover's all the sort of work I do.
 
 *** TODO Make create research project capture
-    SCHEDULED: <2015-01-05 Mon>
     :PROPERTIES:
     :ID:       89aab08c-03b4-4561-b868-45bc0088ba34
     :END:
@@ -4844,7 +4842,6 @@ Is there a consistent (say providing ZFC is consistent) set theory without the e
 ** Open Notebook
 *** Tasks
 **** NEXT Research starting an open notebook
-  SCHEDULED: <2015-01-05 Mon>
   :LOGBOOK:
   CLOCK: [2013-08-06 Tue 20:54]--[2013-08-06 Tue 20:55] =>  0:01
   :END:
@@ -4975,7 +4972,6 @@ I want to study Gauss maps $(E,X,\pi) \to (\RR^k\times X, X, \pi)$, in particula
 **** TODO Paper/Book reading
 - I should get in the habit of writing my own description of the work and the main ideas as part of the learning process. I need a way to set this up in some sort of project exported to a wiki say?
 ***** NEXT Develop way to write my own notes (and publish on my website) on the subject
-      SCHEDULED: <2015-01-05 Mon>
 ** Blog
 *** Ideas
 **** The use of coordinates in DG.
@@ -6621,8 +6617,11 @@ https://academicjobsonline.org/ajo/jobs/4242
 	Sent email to chair asking about possibilities.
       CLOCK: [2014-06-28 Sat 12:55]--[2014-06-28 Sat 13:17] =>  0:22
       :END:
-***** NEXT Follow up for Hawaii summer teaching
-      SCHEDULED: <2015-01-05 Mon>
+***** CANCELLED Follow up for Hawaii summer teaching
+      :LOGBOOK:
+      - State "CANCELLED"  from "NEXT"       [2015-01-04 Sun 10:44] \\
+	Don't need to go.
+      :END:
 **** Notes
 *** New York Spring
 **** Notes
@@ -6799,7 +6798,6 @@ http://modernizr.com/
 [2013-08-06 Tue 20:57]
 
 **** TODO Change course web template
-  SCHEDULED: <2015-01-05 Mon>
   :LOGBOOK:
   CLOCK: [2013-09-22 Sun 12:41]--[2013-09-22 Sun 12:42] =>  0:01
   :END:
@@ -6868,7 +6866,6 @@ Remove sidebar
     :END:
 [2013-09-30 Mon 21:11]
 *** TODO Make print/mobile versions of website
-  SCHEDULED: <2015-01-05 Mon>
 [2014-02-10 Mon 15:09]
 *** DONE Update website
     :LOGBOOK:
