@@ -13988,6 +13988,9 @@ Lectures in calendar and tasks like planning lectures.
 ********* TODO Week 1
 ********** NEXT Prepare lec 1.1
 	   SCHEDULED: <2014-12-31 Wed>
+	   :LOGBOOK:
+	   CLOCK: [2015-01-04 Sun 10:52]
+	   :END:
 	   :PROPERTIES:
 	   :Effort:   1:00
 	   :END:
