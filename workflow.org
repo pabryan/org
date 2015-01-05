@@ -5318,11 +5318,11 @@ When I set up scoring the day:
   - http://www.son-riseranchstore.com/
 
 ** NEXT Monthly (Quarterly?) Plan/Review [0/16]
-   SCHEDULED: <2014-07-01 Tue +1m>
-   - State "DONE"       from "NEXT"       [2013-03-19 Tue 11:34]
+   SCHEDULED: <2015-02-01 Sun +1m>
    :LOGBOOK:
    - State "DONE"       from "NEXT"       [2015-01-04 Sun 19:12]
    CLOCK: [2013-09-11 Wed 08:00]--[2013-09-11 Wed 08:25] =>  0:25
+   - State "DONE"       from "NEXT"       [2013-03-19 Tue 11:34]
    CLOCK: [2013-03-19 Tue 11:29]--[2013-03-19 Tue 11:34] =>  0:05
    :END:
    :PROPERTIES:
