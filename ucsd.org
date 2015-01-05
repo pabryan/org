@@ -14292,8 +14292,12 @@ Lectures in calendar and tasks like planning lectures.
 ****** Schedule
 ******* TODO Lectures
 ******** NEXT Week 1
-********* TODO Lecture 1.1
+********* DONE Lecture 1.1
 	  SCHEDULED: <2015-01-05 Mon 10:00-11:00>
+	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2015-01-05 Mon 11:50]
+	  CLOCK: [2015-01-05 Mon 09:45]--[2015-01-05 Mon 10:55] =>  1:10
+	  :END:
 	  :PROPERTIES:
 	  :Effort:   1:00
 	  :END:
@@ -14986,9 +14990,13 @@ Lectures in calendar and tasks like planning lectures.
 	 :END:
 ****** Schedule
 ******* TODO Lectures
-******** NEXT Week 1
-********* TODO Lecture 1.1
+******** TODO Week 1
+********* DONE Lecture 1.1
 	  SCHEDULED: <2015-01-05 Mon 13:00-14:00>
+	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2015-01-05 Mon 14:05]
+	  CLOCK: [2015-01-05 Mon 12:45]--[2015-01-05 Mon 14:05] =>  1:20
+	  :END:
 	  :PROPERTIES:
 	  :Effort:   1:00
 	  :END:
@@ -15245,7 +15253,11 @@ Lectures in calendar and tasks like planning lectures.
 	 :END:
 
 ******* TODO Meetings
-******** NEXT TA's
+******** DONE TA's
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2015-01-05 Mon 11:49]
+	 CLOCK: [2015-01-05 Mon 11:15]--[2015-01-05 Mon 11:49] =>  0:34
+	 :END:
 	 :PROPERTIES:
 	 :Effort:   0:30
 	 :END:
