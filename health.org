@@ -941,8 +941,9 @@
     :END:
 
 *** NEXT Daily Release
-    SCHEDULED: <2014-12-30 Tue .+1d/2d>
+    SCHEDULED: <2015-01-05 Mon .+1d/2d>
     :LOGBOOK:
+    - State "DONE"       from "NEXT"       [2015-01-04 Sun 19:12]
     - State "DONE"       from "NEXT"       [2014-12-29 Mon 21:08]
     - State "DONE"       from "NEXT"       [2014-12-17 Wed 22:08]
     - State "DONE"       from "NEXT"       [2014-12-10 Wed 20:28]
@@ -1117,7 +1118,7 @@
     :STYLE:    habit
     :REPEAT_TO_STATE: NEXT
     :ID:       d439600f-c40d-4dd3-82ca-3e7d9e35f2b3
-    :LAST_REPEAT: [2014-12-29 Mon 22:08]
+    :LAST_REPEAT: [2015-01-04 Sun 19:12]
     :END:
   
 *** NEXT Handstand practice
