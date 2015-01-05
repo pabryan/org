@@ -14794,10 +14794,11 @@ Lectures in calendar and tasks like planning lectures.
 	   :Effort:   1:00
 	   :END:
 ******* TODO Homework
-******** NEXT Set homework problems
+******** DONE Set homework problems
 	 DEADLINE: <2015-01-02 Fri>
 	 :LOGBOOK:
-	 CLOCK: [2015-01-04 Sun 14:48]
+	 - State "DONE"       from "NEXT"       [2015-01-04 Sun 15:52]
+	 CLOCK: [2015-01-04 Sun 14:48]--[2015-01-04 Sun 15:52] =>  1:04
 	 :END:
 	 :PROPERTIES:
 	 :Effort:   1:00
