@@ -1758,7 +1758,7 @@ This proves the inequality we need.  The remaining problem is to remove the symm
 ******** NEXT Create picture of pipe with non/orthogonal axis
 ******* TODO Fluids in pipes
 	:LOGBOOK:
-	CLOCK: [2015-01-06 Tue 10:32]
+	CLOCK: [2015-01-06 Tue 10:32]--[2015-01-06 Tue 10:37] =>  0:05
 	:END:
 ******** DONE Recall balance laws
 	 :LOGBOOK:
@@ -1766,7 +1766,14 @@ This proves the inequality we need.  The remaining problem is to remove the symm
 	 CLOCK: [2015-01-06 Tue 10:25]--[2015-01-06 Tue 10:32] =>  0:07
 	 :END:
 ******** TODO Boundary conditions
-********* NEXT Write equations with rigid boundary and fluid advected by the flow
+	 :LOGBOOK:
+	 CLOCK: [2015-01-06 Tue 10:54]
+	 :END:
+********* DONE Write equations with rigid boundary and fluid advected by the flow
+	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2015-01-06 Tue 10:54]
+	  CLOCK: [2015-01-06 Tue 10:37]--[2015-01-06 Tue 10:54] =>  0:17
+	  :END:
 ******* TODO Cross section averaging
 ******* TODO Analysis of 1D equation
 ******* TODO Computational aspects
