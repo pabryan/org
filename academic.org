@@ -1750,8 +1750,26 @@ This proves the inequality we need.  The remaining problem is to remove the symm
        	:ID:       4f27c099-1b3f-44a1-b38d-394b791aabef
        	:END:
 ****** TODO Write Paper
-******* TODO Paper organisation
+******* TODO Introduction
+******* TODO Pipe domain
+******** NEXT More concise definitions
+******** NEXT Remove excessive use of coordinates
+******** NEXT Create picture of pipe
+******** NEXT Create picture of pipe with non/orthogonal axis
+******* TODO Fluids in pipes
+******** NEXT Recall balance laws
+	 :LOGBOOK:
+	 CLOCK: [2015-01-06 Tue 10:25]
+	 :END:
+******* TODO Cross section averaging
+******* TODO Analysis of 1D equation
+******* TODO Computational aspects
+******* TODO Review of Riemannian geometry
+******** NEXT Make more concise
+****** TODO Optional writing
+******* DONE Paper organisation
 	:LOGBOOK:
+	- State "DONE"       from "TODO"       [2015-01-06 Tue 10:22]
 	CLOCK: [2014-12-09 Tue 13:25]--[2014-12-09 Tue 13:26] =>  0:01
 	:END:
 ******** DONE Review existing paper to find what needs to done
@@ -1762,10 +1780,6 @@ This proves the inequality we need.  The remaining problem is to remove the symm
 	 :END:
 	 :PROPERTIES:
 	 :Effort:   1:00
-	 :END:
-******** NEXT Proof reading
-	 :LOGBOOK:
-	 CLOCK: [2014-10-07 Tue 15:10]--[2014-10-07 Tue 15:25] =>  0:15
 	 :END:
 ******** DONE Layout paper for just pipe flow
 	 :LOGBOOK:
@@ -1838,6 +1852,10 @@ Marsden et. al. book
 ******* TODO Riemann geometry background
 ******** NEXT Review and revise
 ******** NEXT Add transport theorem
+******* NEXT Proof reading
+	 :LOGBOOK:
+	 CLOCK: [2014-10-07 Tue 15:10]--[2014-10-07 Tue 15:25] =>  0:15
+	 :END:
 ****** TODO Admin
 ******* NEXT Follow up with Steve Roberts
        	 SCHEDULED: <2015-02-01 Sun>
