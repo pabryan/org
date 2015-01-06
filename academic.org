@@ -1879,6 +1879,11 @@ Marsden et. al. book
 ******* NEXT Follow up with Steve Roberts
        	 SCHEDULED: <2015-02-01 Sun>
 ******* NEXT Find place to publish
+****** TODO Maths
+******* NEXT Sort out velocity field/particle velocity
+	:LOGBOOK:
+	CLOCK: [2015-01-06 Tue 12:43]
+	:END:
 ***** Notes
 ***** References
 - Gerbi et. al.
