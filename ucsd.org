@@ -14581,6 +14581,9 @@ Lectures in calendar and tasks like planning lectures.
 ******** NEXT TA's
 ******** TODO Instructors
 ********* NEXT Planning
+	  :LOGBOOK:
+	  CLOCK: [2015-01-07 Wed 09:13]
+	  :END:
 	  :PROPERTIES:
 	  :Effort:   0:30
 	  :END:
