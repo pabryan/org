@@ -13983,7 +13983,10 @@ Lectures in calendar and tasks like planning lectures.
 Lectures in calendar and tasks like planning lectures.
 
 ******* TODO Lectures
-******** NEXT Create lecture schedule
+******** DONE Create lecture schedule
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2015-01-06 Tue 19:59]
+	 :END:
 ******** TODO Prepare lectures
 ********* DONE Week 1
 	  :LOGBOOK:
@@ -14578,6 +14581,10 @@ Lectures in calendar and tasks like planning lectures.
 ******** NEXT TA's
 ******** TODO Instructors
 ********* NEXT Planning
+	  :PROPERTIES:
+	  :Effort:   0:30
+	  :END:
+<2015-01-07 Wed 09:10-09:40>
 ********* TODO Plan midterm 1
 ********* TODO Plan midterm 2
 ********* TODO Plan final
