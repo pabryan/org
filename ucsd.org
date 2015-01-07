@@ -14302,7 +14302,7 @@ Lectures in calendar and tasks like planning lectures.
 	 :END:
 ****** Schedule
 ******* TODO Lectures
-******** NEXT Week 1
+******** TODO Week 1
 ********* DONE Lecture 1.1
 	  SCHEDULED: <2015-01-05 Mon 10:00-11:00>
 	  :LOGBOOK:
@@ -14310,79 +14310,80 @@ Lectures in calendar and tasks like planning lectures.
 	  CLOCK: [2015-01-05 Mon 09:45]--[2015-01-05 Mon 10:55] =>  1:10
 	  :END:
 	  :PROPERTIES:
-	  :Effort:   1:00
+	  :Effort:   1:30
 	  :END:
 
-********* NEXT Lecture 1.2
+********* DONE Lecture 1.2
 	  SCHEDULED: <2015-01-07 Wed 10:00-11:00>
 	  :LOGBOOK:
-	  CLOCK: [2015-01-07 Wed 09:42]
+	  - State "DONE"       from "NEXT"       [2015-01-07 Wed 11:26]
+	  CLOCK: [2015-01-07 Wed 09:42]--[2015-01-07 Wed 11:15] =>  1:33
 	  :END:
 	  :PROPERTIES:
-	  :Effort:   1:00
+	  :Effort:   1:30
 	  :END:
 
 ********* TODO Lecture 1.3
 	  SCHEDULED: <2015-01-09 Fri 10:00-11:00>
 	  :PROPERTIES:
-	  :Effort:   1:00
+	  :Effort:   1:30
 	  :END:
 
 ******** TODO Week 2
 ********* TODO Lecture 2.1
 	  SCHEDULED: <2015-01-12 Mon 10:00-11:00>
 	  :PROPERTIES:
-	  :Effort:   1:00
+	  :Effort:   1:30
 	  :END:
 
 ********* TODO Lecture 2.2
 	  SCHEDULED: <2015-01-14 Wed 10:00-11:00>
 	  :PROPERTIES:
-	  :Effort:   1:00
+	  :Effort:   1:30
 	  :END:
 
 ********* TODO Lecture 2.3
 	  SCHEDULED: <2015-01-16 Fri 10:00-11:00>
 	  :PROPERTIES:
-	  :Effort:   1:00
+	  :Effort:   1:30
 	  :END:
 
 ******** TODO Week 3
 ********* TODO Lecture 3.1
 	  SCHEDULED: <2015-01-19 Mon 10:00-11:00>
 	  :PROPERTIES:
-	  :Effort:   1:00
+	  :Effort:   1:30
 	  :END:
 
 ********* TODO Lecture 3.2
 	  SCHEDULED: <2015-01-21 Wed 10:00-11:00>
 	  :PROPERTIES:
-	  :Effort:   1:00
+	  :Effort:   1:30
 	  :END:
 
 ********* TODO Lecture 3.3
 	  SCHEDULED: <2015-01-23 Fri 10:00-11:00>
 	  :PROPERTIES:
-	  :Effort:   1:00
+	  :Effort:   1:30
 	  :END:
 
 ******** TODO Week 4
 ********* TODO Lecture 4.1
 	  SCHEDULED: <2015-01-26 Mon 10:00-11:00>
 	  :PROPERTIES:
-	  :Effort:   1:00
+	  :Effort:   1:30
 	  :END:
 
 ********* TODO Lecture 4.2
 	  SCHEDULED: <2015-01-28 Wed 10:00-11:00>
 	  :PROPERTIES:
-	  :Effort:   1:00
+	  :Effort:   1:30
 	  :END:
 
 ********* TODO Lecture 4.3
 	  SCHEDULED: <2015-01-30 Fri 10:00-11:00>
 	  :PROPERTIES:
-	  :Effort:   1:00
+	  :Effort:   1:30
 	  :END:
 
 ******** TODO Week 5
@@ -14390,114 +14391,114 @@ Lectures in calendar and tasks like planning lectures.
 1
 	  SCHEDULED: <2015-02-02 Mon 10:00-11:00>
 	  :PROPERTIES:
-	  :Effort:   1:00
+	  :Effort:   1:30
 	  :END:
 
 ********* TODO Lecture 5.2
 	  SCHEDULED: <2015-02-04 Wed 10:00-11:00>
 	  :PROPERTIES:
-	  :Effort:   1:00
+	  :Effort:   1:30
 	  :END:
 
 ********* TODO Lecture 5.3
 	  SCHEDULED: <2015-02-06 Fri 10:00-11:00>
 	  :PROPERTIES:
-	  :Effort:   1:00
+	  :Effort:   1:30
 	  :END:
 
 ******** TODO Week 6
 ********* TODO Lecture 6.1
 	  SCHEDULED: <2015-02-09 Mon 10:00-11:00>
 	  :PROPERTIES:
-	  :Effort:   1:00
+	  :Effort:   1:30
 	  :END:
 
 ********* TODO Lecture 6.2
 	  SCHEDULED: <2015-02-11 Wed 10:00-11:00>
 	  :PROPERTIES:
-	  :Effort:   1:00
+	  :Effort:   1:30
 	  :END:
 
 ********* TODO Lecture 6.3
 	  SCHEDULED: <2015-02-13 Fri 10:00-11:00>
 	  :PROPERTIES:
-	  :Effort:   1:00
+	  :Effort:   1:30
 	  :END:
 
 ******** TODO Week 7
 ********* TODO Lecture 7.1
 	  SCHEDULED: <2015-02-16 Mon 10:00-11:00>
 	  :PROPERTIES:
-	  :Effort:   1:00
+	  :Effort:   1:30
 	  :END:
 
 ********* TODO Lecture 7.2
 	  SCHEDULED: <2015-02-18 Wed 10:00-11:00>
 	  :PROPERTIES:
-	  :Effort:   1:00
+	  :Effort:   1:30
 	  :END:
 
 ********* TODO Lecture 7.3
 	  SCHEDULED: <2015-02-20 Fri 10:00-11:00>
 	  :PROPERTIES:
-	  :Effort:   1:00
+	  :Effort:   1:30
 	  :END:
 
 ******** TODO Week 8
 ********* TODO Lecture 8.1
 	  SCHEDULED: <2015-02-23 Mon 10:00-11:00>
 	  :PROPERTIES:
-	  :Effort:   1:00
+	  :Effort:   1:30
 	  :END:
 
 ********* TODO Lecture 8.2
 	  SCHEDULED: <2015-02-25 Wed 10:00-11:00>
 	  :PROPERTIES:
-	  :Effort:   1:00
+	  :Effort:   1:30
 	  :END:
 
 ********* TODO Lecture 8.3
 	  SCHEDULED: <2015-02-27 Fri 10:00-11:00>
 	  :PROPERTIES:
-	  :Effort:   1:00
+	  :Effort:   1:30
 	  :END:
 
 ******** TODO Week 9
 ********* TODO Lecture 9.1
 	  SCHEDULED: <2015-03-02 Mon 10:00-11:00>
 	  :PROPERTIES:
-	  :Effort:   1:00
+	  :Effort:   1:30
 	  :END:
 
 ********* TODO Lecture 9.2
 	  SCHEDULED: <2015-03-04 Wed 10:00-11:00>
 	  :PROPERTIES:
-	  :Effort:   1:00
+	  :Effort:   1:30
 	  :END:
 
 ********* TODO Lecture 9.3
 	  SCHEDULED: <2015-03-06 Fri 10:00-11:00>
 	  :PROPERTIES:
-	  :Effort:   1:00
+	  :Effort:   1:30
 	  :END:
 
 ******** TODO Week 10
 ********* TODO Lecture 10.1
 	  SCHEDULED: <2015-03-09 Mon 10:00-11:00>
 	  :PROPERTIES:
-	  :Effort:   1:00
+	  :Effort:   1:30
 	  :END:
 
 ********* TODO Lecture 10.2
 	  SCHEDULED: <2015-03-11 Wed 10:00-11:00>
 	  :PROPERTIES:
-	  :Effort:   1:00
+	  :Effort:   1:30
 	  :END:
 
 ********* TODO Lecture 10.3
 	  SCHEDULED: <2015-03-13 Fri 10:00-11:00>
 	  :PROPERTIES:
-	  :Effort:   1:00
+	  :Effort:   1:30
 	  :END:
 
 ******* TODO Exams
