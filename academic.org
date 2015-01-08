@@ -1921,10 +1921,15 @@ Marsden et. al. book
 - maybe by evolution of $\int F(A)$
 - Maybe by calculating the evolution of $\int_{M_t} F(A)$ I can show that necessarily it goes to zero. Then add the Harnack inequality to get curvature and derivative bounds to get pointwise convergence.
 ******** NEXT Show $\int_t^{-\infty} F(A(x,t)) < \infty$ for each $x$
+	 :LOGBOOK:
+	 CLOCK: [2015-01-08 Thu 11:33]
+	 :END:
 - this is the length of the path traced out by a point as $t\to-\infty$. Since the flow is convex by increasing sets (as $t \to -\infty$) but bounded in a hemisphere, the length surely cannot be $\infty$. Therefore $F(A(x,t) \to 0$ as $t \to -\infty$.
 - Fix a point $x$ say at time $t=1$. Then the length of the curve $\gamma(x, t)$ from $t=-1$ to $-\infty$ is $\int_{-\infty}^1 F(A(x, t)) dt$. Since the hypersurfaces bound an increasing nested set of domains bounded by a hemisphere, and by convexity, surely the path must have finite length which implies $F(A)$ goes to $0$.
 ******* TODO Harnack
 See [[*Convexity%20in%20space%20forms][Convexity in space forms]] and Urbas' and Andrews' argument
+******** NEXT Compute evolution of support function
+******** NEXT Compute laplacian of support function
 ******* TODO Backwards convergence
 ******* TODO Aleksandrov reflection
 ***** Notes
