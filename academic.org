@@ -1919,7 +1919,7 @@ Marsden et. al. book
 ******* TODO 2ff goes to zero
 ******** NEXT Show $\int F(A) \to 0$
 	 :LOGBOOK:
-	 CLOCK: [2015-01-08 Thu 13:13]
+	 CLOCK: [2015-01-08 Thu 13:13]--[2015-01-08 Thu 14:27] =>  1:14
 	 :END:
 - maybe by evolution of $\int F(A)$
 - Maybe by calculating the evolution of $\int_{M_t} F(A)$ I can show that necessarily it goes to zero. Then add the Harnack inequality to get curvature and derivative bounds to get pointwise convergence.
