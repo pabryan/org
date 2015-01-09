@@ -14706,10 +14706,11 @@ Lectures in calendar and tasks like planning lectures.
 	   :Effort:   1:00
 	   :END:
 
-********** NEXT Prepare lec 2.2
+********** DONE Prepare lec 2.2
 	   SCHEDULED: <2015-01-05 Mon>
 	   :LOGBOOK:
-	   CLOCK: [2015-01-09 Fri 15:07]
+	   - State "DONE"       from "NEXT"       [2015-01-09 Fri 15:18]
+	   CLOCK: [2015-01-09 Fri 15:07]--[2015-01-09 Fri 15:18] =>  0:11
 	   CLOCK: [2015-01-09 Fri 12:25]--[2015-01-09 Fri 12:51] =>  0:26
 	   :END:
 	   :PROPERTIES:
@@ -14718,6 +14719,9 @@ Lectures in calendar and tasks like planning lectures.
 
 ********** NEXT Prepare lec 2.3
 	   SCHEDULED: <2015-01-05 Mon>
+	   :LOGBOOK:
+	   CLOCK: [2015-01-09 Fri 15:18]
+	   :END:
 	   :PROPERTIES:
 	   :Effort:   1:00
 	   :END:
