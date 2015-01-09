@@ -1891,7 +1891,7 @@ Marsden et. al. book
 - Longer paper on blood flows (semi-expository)
 - Well balancing
 - ANUGA
-**** TODO Ancient solutions on spheres		       :FLOWS:SPHERE:ANCIENT:
+**** TODO Ancient solutions on spheres	    :FLOWS:SPHERE:ANCIENT:INPROGRESS:
 [[file:~/working/academic/research/ancient_flows_sphere]]
 ***** Tasks
 ****** TODO Set up project
@@ -1919,6 +1919,7 @@ Marsden et. al. book
 ******* TODO 2ff goes to zero
 ******** NEXT Show $\int F(A) \to 0$
 	 :LOGBOOK:
+	 CLOCK: [2015-01-08 Thu 19:45]
 	 CLOCK: [2015-01-08 Thu 13:13]--[2015-01-08 Thu 14:27] =>  1:14
 	 :END:
 - maybe by evolution of $\int F(A)$
