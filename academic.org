@@ -1925,7 +1925,7 @@ Marsden et. al. book
 - Maybe by calculating the evolution of $\int_{M_t} F(A)$ I can show that necessarily it goes to zero. Then add the Harnack inequality to get curvature and derivative bounds to get pointwise convergence.
 ******** NEXT Show $\int_t^{-\infty} F(A(x,t)) < \infty$ for each $x$
 	 :LOGBOOK:
-	 CLOCK: [2015-01-08 Thu 12:55]--[2015-01-08 Thu 13:15] =>  0:20
+	 CLOCK: [2015-01-08 Thu 12:55]--[2015-01-08 Thu 13:13] =>  0:20
 	 CLOCK: [2015-01-08 Thu 11:33]--[2015-01-08 Thu 12:22] =>  0:49
 	 :END:
 - this is the length of the path traced out by a point as $t\to-\infty$. Since the flow is convex by increasing sets (as $t \to -\infty$) but bounded in a hemisphere, the length surely cannot be $\infty$. Therefore $F(A(x,t) \to 0$ as $t \to -\infty$.
