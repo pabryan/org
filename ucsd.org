@@ -14272,9 +14272,6 @@ Lectures in calendar and tasks like planning lectures.
 
 ****** Clocking
 ******* TODO Piazza
-	:LOGBOOK:
-	CLOCK: [2015-01-09 Fri 14:40]
-	:END:
 ******** DONE Piazza Week 1
 	 SCHEDULED: <2015-01-05 Mon>
 	 :LOGBOOK:
@@ -14712,6 +14709,7 @@ Lectures in calendar and tasks like planning lectures.
 ********** NEXT Prepare lec 2.2
 	   SCHEDULED: <2015-01-05 Mon>
 	   :LOGBOOK:
+	   CLOCK: [2015-01-09 Fri 15:07]
 	   CLOCK: [2015-01-09 Fri 12:25]--[2015-01-09 Fri 12:51] =>  0:26
 	   :END:
 	   :PROPERTIES:
