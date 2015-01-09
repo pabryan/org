@@ -14263,6 +14263,13 @@ Lectures in calendar and tasks like planning lectures.
 	 :PROPERTIES:
 	 :Effort:   0:15
 	 :END:
+******* TODO Webwork
+******** TODO Check supplement homework
+	 DEADLINE: <2015-01-12 Mon>
+	 :PROPERTIES:
+	 :Effort:   1:30
+	 :END:
+
 ****** Clocking
 ******* TODO Piazza
 ******** NEXT Piazza Week 1
@@ -14683,6 +14690,9 @@ Lectures in calendar and tasks like planning lectures.
 ********* TODO Week 2
 ********** NEXT Prepare lec 2.1
 	   SCHEDULED: <2015-01-05 Mon>
+	   :LOGBOOK:
+	   CLOCK: [2015-01-09 Fri 11:24]
+	   :END:
 	   :PROPERTIES:
 	   :Effort:   1:00
 	   :END:
@@ -15056,7 +15066,7 @@ Lectures in calendar and tasks like planning lectures.
 	  :Effort:   1:00
 	  :END:
 
-********* TODO Lecture 1.3
+********* NEXT Lecture 1.3
 	  SCHEDULED: <2015-01-09 Fri 13:00-14:00>
 	  :PROPERTIES:
 	  :Effort:   1:00
