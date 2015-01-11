@@ -14264,8 +14264,11 @@ Lectures in calendar and tasks like planning lectures.
 	 :Effort:   0:15
 	 :END:
 ******* TODO Webwork
-******** TODO Check supplement homework
+******** NEXT Check supplement homework
 	 DEADLINE: <2015-01-12 Mon>
+	 :LOGBOOK:
+	 CLOCK: [2015-01-10 Sat 21:01]
+	 :END:
 	 :PROPERTIES:
 	 :Effort:   1:30
 	 :END:
