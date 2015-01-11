@@ -3673,8 +3673,9 @@ Set some goals for the month. I should check someday projects for inclusion in t
 Check how I did last month. I guess the review and plan could probably go together. This is all broad stuff
 
 ** NEXT Daily Review [0/10]
-   SCHEDULED: <2015-01-10 Sat .+1d/2d>
+   SCHEDULED: f<2015-01-10 Sat .+1d/2d>
    :LOGBOOK:
+   CLOCK: [2015-01-10 Sat 20:39]
    - State "DONE"       from "NEXT"       [2015-01-09 Fri 17:04]
    - State "DONE"       from "NEXT"       [2015-01-08 Thu 21:03]
    CLOCK: [2015-01-08 Thu 21:01]--[2015-01-08 Thu 21:03] =>  0:02

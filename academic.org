@@ -610,6 +610,11 @@ file:~/publish/decra_2015
 [[file:~/working/academic/journals/review/mathscinet/MR3259043.org]]
 [[file:refs.org::#MR3259043][Optimal isoperimetric inequalities for complete proper minimal submanifolds in hyperbolic space]]
 
+*** NEXT Review MR3240531
+    SCHEDULED: <2015-01-12 Mon> DEADLINE: <2015-02-06 Fri>
+[[file:~/working/academic/journals/review/mathscinet/MR3240531.org]]
+[[file:refs.org::#MR3240531][Mean curvature type flow with perpendicular {N}eumann boundary condition inside a convex cone]]
+- [MR3240531 Guo, Fangcheng, Li, Guanghan\ and Wu, Chuanxi,  Mean curvature type flow with perpendicular Neumann boundary condition inside a convex cone, Abstr. Appl. Anal. 2014, Art. ID 315768, 7~pp.]
 ** CEJM
 *** Editing Manager
     :PROPERTIES:
@@ -921,9 +926,34 @@ CR-8403 - "Curvature contraction of convex hypersurfaces by nonsmooth speeds by 
 | \______________ DONE Compile report     |        |   |   |      |      | 3:11 |
 #+END:
 
-**** DONE Referee scm-2014-0648
+*** Working
+**** TODO Referee JGEA-D-14-00211
+     SCHEDULED: <2015-01-051 Mon> DEADLINE: <2015-02-06 Fri>
+     :LOGBOOK:
+     CLOCK: [2014-12-16 Tue 14:29]--[2014-12-16 Tue 14:30] =>  0:01
+     :END:
+***** Files/Links
+[[file:~/reference/academic/journals/referee/geometric_analysis/JGEA-D-14-00211]]
+[[file:~/working/academic/journals/referee/JGEA/isoperimetric_comparison_via_viscosity]]
+http://jgea.edmgr.com/.
+Your username is: PBryan-373
+Your password is: bryan2677
+***** Notes
+***** Tasks
+****** DONE Get paper
+       :LOGBOOK:
+       - State "DONE"       from "NEXT"       [2014-12-16 Tue 14:29]
+       CLOCK: [2014-12-16 Tue 14:28]--[2014-12-16 Tue 14:29] =>  0:01
+       :END:
+****** NEXT Skim paper
+****** NEXT Write notes
+****** NEXT Write report
+****** NEXT Submit report
+**** TODO Referee scm-2014-0648
      DEADLINE: <2014-12-21 Sun -14d> SCHEDULED: <2014-11-19 Wed>
      :LOGBOOK:
+     - State "TODO"       from "DONE"       [2015-01-10 Sat 20:47] \\
+       Reopened for review of revision.
      - State "DONE"       from "TODO"       [2014-12-16 Tue 14:28]
      :END:
 
@@ -964,7 +994,10 @@ http://mc03.manuscriptcentral.com/scmath?URL_MASK=6a28127c549c4337b904f229eb1deb
        - State "DONE"       from "NEXT"       [2014-12-16 Tue 14:28]
        CLOCK: [2014-12-16 Tue 14:26]--[2014-12-16 Tue 14:28] =>  0:02
        :END:
-
+****** NEXT Check revisions
+       SCHEDULED: <2015-01-12 Mon> DEADLINE: <2015-02-04 Wed>
+****** TODO Write report
+       DEADLINE: <2015-02-06 Fri>
 ***** Clock report
 #+BEGIN: clocktable :maxlevel 6 :scope subtree
 #+CAPTION: Clock summary at [2014-12-16 Tue 14:36]
@@ -979,29 +1012,6 @@ http://mc03.manuscriptcentral.com/scmath?URL_MASK=6a28127c549c4337b904f229eb1deb
 | \______________ DONE Submit report   |        |   |   |      |      | 0:02 |
 #+END:
 
-*** Working
-**** TODO Referee JGEA-D-14-00211
-     SCHEDULED: <2015-01-051 Mon> DEADLINE: <2015-02-06 Fri>
-     :LOGBOOK:
-     CLOCK: [2014-12-16 Tue 14:29]--[2014-12-16 Tue 14:30] =>  0:01
-     :END:
-***** Files/Links
-[[file:~/reference/academic/journals/referee/geometric_analysis/JGEA-D-14-00211]]
-[[file:~/working/academic/journals/referee/JGEA/isoperimetric_comparison_via_viscosity]]
-http://jgea.edmgr.com/.
-Your username is: PBryan-373
-Your password is: bryan2677
-***** Notes
-***** Tasks
-****** DONE Get paper
-       :LOGBOOK:
-       - State "DONE"       from "NEXT"       [2014-12-16 Tue 14:29]
-       CLOCK: [2014-12-16 Tue 14:28]--[2014-12-16 Tue 14:29] =>  0:01
-       :END:
-****** NEXT Skim paper
-****** NEXT Write notes
-****** NEXT Write report
-****** NEXT Submit report
 ** Discussion
 *** Selected Papers
 **** Tasks
