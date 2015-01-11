@@ -522,10 +522,18 @@ file:~/publish/decra_2015
 [[file:~/working/academic/journals][journals directory]]
 ** MathSciNet
 [[file:~/working/academic/journals/review/mathscinet]]
-*** DONE Review [[http://www.ams.org/mresubs/download/3559e451969b72ee8/2921651.pdf][paper]]
-    - State "DONE"       from "NEXT"       [2012-11-03 Sat 11:02]
-    locally it's here [[docview:~/research_resources/papers/MR2921651.pdf::1][MR2921651]]
-*** DONE Review [[file:refs.org::#MR2948294][Weighted isoperimetric inequalities in cones and applications]]
+*** Working
+**** NEXT Review MR3240531
+    SCHEDULED: <2015-01-12 Mon> DEADLINE: <2015-02-06 Fri>
+[[file:~/working/academic/journals/review/mathscinet/MR3240531.org]]
+[[file:refs.org::#MR3240531][Mean curvature type flow with perpendicular {N}eumann boundary condition inside a convex cone]]
+- [MR3240531 Guo, Fangcheng, Li, Guanghan\ and Wu, Chuanxi,  Mean curvature type flow with perpendicular Neumann boundary condition inside a convex cone, Abstr. Appl. Anal. 2014, Art. ID 315768, 7~pp.]
+
+*** Completed
+**** DONE Review [[http://www.ams.org/mresubs/download/3559e451969b72ee8/2921651.pdf][paper]]
+     - State "DONE"       from "NEXT"       [2012-11-03 Sat 11:02]
+     locally it's here [[docview:~/research_resources/papers/MR2921651.pdf::1][MR2921651]]
+**** DONE Review [[file:refs.org::#MR2948294][Weighted isoperimetric inequalities in cones and applications]]
    SCHEDULED: <2012-12-06 Thu> DEADLINE: <2013-01-14 Mon>
    - State "DONE"       from "NEXT"       [2012-12-17 Mon 19:42]
 
@@ -541,7 +549,7 @@ file:~/publish/decra_2015
    :END:
 [[file:~/working/academic/journals/review/MR2948294]]
 
-*** DONE Review Generic MCF I
+**** DONE Review Generic MCF I
    SCHEDULED: <2013-02-04 Mon> DEADLINE: <2013-02-28 Thu>
    - State "DONE"       from "NEXT"       [2013-03-12 Tue 21:09]
    :LOGBOOK:
@@ -562,7 +570,7 @@ file:~/publish/decra_2015
 [MR2993752 Colding, Tobias H.\ and Minicozzi, William P., II,  Generic mean curvature flow I: generic singularities, Ann. of Math. (2) 175 (2012), no. 2, 755--833]
 [[file:refs.org::#MR2993752][Generic mean curvature flow {I}: generic singularities]]
 
-*** DONE Review MR3018176
+**** DONE Review MR3018176
     SCHEDULED: <2013-07-05 Fri> DEADLINE: <2013-07-12 Fri>
     - State "DONE"       from "NEXT"       [2013-07-08 Mon 14:07]
     :LOGBOOK:
@@ -574,7 +582,7 @@ file:~/publish/decra_2015
     :END:
 [[file:refs.org::#MR3018176][A gap theorem for self-shrinkers of the mean curvature flow in arbitrary codimension]]
 
-*** DONE Review MR3020169					      :FOCUS:
+**** DONE Review MR3020169					      :FOCUS:
     DEADLINE: <2013-11-29 Fri -3w>
     :LOGBOOK:
     - State "DONE"       from "NEXT"       [2014-02-06 Thu 16:20]
@@ -590,7 +598,7 @@ file:~/publish/decra_2015
     :ID:       d4269d45-7ec1-461b-bca9-85c748160054
     :END:
 [[file:refs.org::#MR3020169][Topological change in mean convex mean curvature flow]]
-*** DONE Review MR3238481
+**** DONE Review MR3238481
     SCHEDULED: <2014-10-13 Mon> DEADLINE: <2014-10-29 Wed -2w>
     :LOGBOOK:
     - State "DONE"       from "NEXT"       [2014-10-30 Thu 19:35]
@@ -599,7 +607,7 @@ file:~/publish/decra_2015
     :END:
 [[file:refs.org::#MR3238481][Notes on the extension of the mean curvature flow]]
 [[file:~/working/academic/journals/review/mathscinet/MR3238481.org]]
-*** DONE Review MR3259043
+**** DONE Review MR3259043
     DEADLINE: <2014-12-13 Sat -10d> SCHEDULED: <2014-11-17 Mon>
     :LOGBOOK:
     - State "DONE"       from "NEXT"       [2014-12-12 Fri 14:41]
@@ -610,11 +618,6 @@ file:~/publish/decra_2015
 [[file:~/working/academic/journals/review/mathscinet/MR3259043.org]]
 [[file:refs.org::#MR3259043][Optimal isoperimetric inequalities for complete proper minimal submanifolds in hyperbolic space]]
 
-*** NEXT Review MR3240531
-    SCHEDULED: <2015-01-12 Mon> DEADLINE: <2015-02-06 Fri>
-[[file:~/working/academic/journals/review/mathscinet/MR3240531.org]]
-[[file:refs.org::#MR3240531][Mean curvature type flow with perpendicular {N}eumann boundary condition inside a convex cone]]
-- [MR3240531 Guo, Fangcheng, Li, Guanghan\ and Wu, Chuanxi,  Mean curvature type flow with perpendicular Neumann boundary condition inside a convex cone, Abstr. Appl. Anal. 2014, Art. ID 315768, 7~pp.]
 ** CEJM
 *** Editing Manager
     :PROPERTIES:
@@ -960,7 +963,8 @@ Your password is: bryan2677
 ***** Files/Links
 file:~/working/academic/journals/referee/SciChinaMath/evolution_of_convex_hypersurfaces_by_a_fully_nonlinear_flow
 [[file:~/reference/academic/journals/referee/scichinamath/evolution_of_convex_hypersurfaces_by_a_fully_nonlinear_flow]]
-http://mc03.manuscriptcentral.com/scmath?URL_MASK=6a28127c549c4337b904f229eb1deb08
+- review: http://mc03.manuscriptcentral.com/scmath?URL_MASK=6a28127c549c4337b904f229eb1deb08
+- re-review: https://mc03.manuscriptcentral.com/scmath?URL_MASK=d0bdea140e1342c8939fd251f6e306fe.
 ***** Notes
 ***** Tasks
 ****** DONE Skim paper
