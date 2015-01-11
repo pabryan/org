@@ -14267,6 +14267,7 @@ Lectures in calendar and tasks like planning lectures.
 ******** NEXT Check supplement homework
 	 DEADLINE: <2015-01-12 Mon>
 	 :LOGBOOK:
+	 CLOCK: [2015-01-11 Sun 11:08]
 	 CLOCK: [2015-01-10 Sat 21:01]--[2015-01-10 Sat 21:24] =>  0:23
 	 :END:
 	 :PROPERTIES:
@@ -14887,27 +14888,27 @@ Lectures in calendar and tasks like planning lectures.
 ******* TODO Exams
 ******** TODO Midterm 1
 ********* NEXT Write midterm 1
-	  DEADLINE: <2015-01-23 Fri>
+	  DEADLINE: <2015-01-16 Fri>
 	  :PROPERTIES:
 	  :Effort:   0:30
 	  :END:
 ********* TODO Get TA's comments
-	  DEADLINE: <2015-01-26 Mon -3d>
+	  DEADLINE: <2015-01-19 Mon -3d>
 	  :PROPERTIES:
 	  :Effort:   0:10
 	  :END:
 ********* TODO Update exam based on TA comments
-	  DEADLINE: <2015-01-28 Wed>
+	  DEADLINE: <2015-01-20 Tue>
 	  :PROPERTIES:
 	  :Effort:   0:15
 	  :END:
 ********* TODO Submit midterm to printing/frdesk
-	  DEADLINE: <2015-01-28 Wed>
+	  DEADLINE: <2015-01-20 Tue>
 	  :PROPERTIES:
 	  :Effort:   0:10
 	  :END:
 ********* TODO Write rubric
-	  DEADLINE: <2015-01-30 Fri>
+	  DEADLINE: <2015-01-23 Fri>
 	  :PROPERTIES:
 	  :Effort:   0:30
 	  :END:
