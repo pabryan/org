@@ -14915,27 +14915,27 @@ Lectures in calendar and tasks like planning lectures.
 
 ******** TODO Midterm 2
 ********* NEXT Write midterm 2
-	  DEADLINE: <2015-02-20 Fri>
+	  DEADLINE: <2015-02-13 Fri>
 	  :PROPERTIES:
 	  :Effort:   0:30
 	  :END:
 ********* TODO Get TA's comments
-	  DEADLINE: <2015-02-23 Mon -3d>
+	  DEADLINE: <2015-02-16 Mon -3d>
 	  :PROPERTIES:
 	  :Effort:   0:10
 	  :END:
 ********* TODO Update exam based on TA comments
-	  DEADLINE: <2015-02-25 Wed>
+	  DEADLINE: <2015-02-17 Tue>
 	  :PROPERTIES:
 	  :Effort:   0:15
 	  :END:
 ********* TODO Submit midterm to printing/frdesk
-	  DEADLINE: <2015-02-25 Wed>
+	  DEADLINE: <2015-02-17 Tue>
 	  :PROPERTIES:
 	  :Effort:   0:10
 	  :END:
 ********* TODO Write rubric
-	  DEADLINE: <2015-02-27 Fri>
+	  DEADLINE: <2015-02-20 Fri>
 	  :PROPERTIES:
 	  :Effort:   0:30
 	  :END:
