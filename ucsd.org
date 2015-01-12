@@ -14902,6 +14902,7 @@ Lectures in calendar and tasks like planning lectures.
 ********* NEXT Write midterm 1
 	  DEADLINE: <2015-01-16 Fri>
 	  :LOGBOOK:
+	  CLOCK: [2015-01-12 Mon 14:22]--[2015-01-12 Mon 14:35] =>  0:13
 	  CLOCK: [2015-01-12 Mon 11:49]--[2015-01-12 Mon 12:05] =>  0:16
 	  :END:
 	  :PROPERTIES:
@@ -15119,7 +15120,7 @@ Lectures in calendar and tasks like planning lectures.
 
 ******** TODO Week 2
 	 :LOGBOOK:
-	 CLOCK: [2015-01-12 Mon 14:14]
+	 CLOCK: [2015-01-12 Mon 14:14]--[2015-01-12 Mon 14:20] =>  0:06
 	 :END:
 ********* DONE Lecture 2.1
 	  SCHEDULED: <2015-01-12 Mon 13:00-14:00>
