@@ -14573,7 +14573,10 @@ Lectures in calendar and tasks like planning lectures.
 	 :Effort:   2:00
 	 :END:
 
-******** TODO O/H Week 2
+******** NEXT O/H Week 2
+	 :LOGBOOK:
+	 CLOCK: [2015-01-12 Mon 15:00]
+	 :END:
 	 <2015-01-12 Mon 15:00-17:00>
 	 :PROPERTIES:
 	 :Effort:   2:00
@@ -14899,17 +14902,22 @@ Lectures in calendar and tasks like planning lectures.
 	 :END:
 ******* TODO Exams
 ******** TODO Midterm 1
-********* NEXT Write midterm 1
+********* DONE Write midterm 1
 	  DEADLINE: <2015-01-16 Fri>
 	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2015-01-12 Mon 14:58]
+	  CLOCK: [2015-01-12 Mon 14:57]--[2015-01-12 Mon 14:58] =>  0:01
 	  CLOCK: [2015-01-12 Mon 14:22]--[2015-01-12 Mon 14:35] =>  0:13
 	  CLOCK: [2015-01-12 Mon 11:49]--[2015-01-12 Mon 12:05] =>  0:16
 	  :END:
 	  :PROPERTIES:
 	  :Effort:   0:30
 	  :END:
-********* TODO Get TA's comments
+********* NEXT Get TA's comments
 	  DEADLINE: <2015-01-19 Mon -3d>
+	  :LOGBOOK:
+	  CLOCK: [2015-01-12 Mon 14:58]--[2015-01-12 Mon 15:00] =>  0:02
+	  :END:
 	  :PROPERTIES:
 	  :Effort:   0:10
 	  :END:
