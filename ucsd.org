@@ -14333,7 +14333,10 @@ Lectures in calendar and tasks like planning lectures.
 	 :END:
 ****** Schedule
 ******* TODO Lectures
-******** TODO Week 1
+******** DONE Week 1
+	 :LOGBOOK:
+	 - State "DONE"       from "TODO"       [2015-01-12 Mon 11:33]
+	 :END:
 ********* DONE Lecture 1.1
 	  SCHEDULED: <2015-01-05 Mon 10:00-11:00>
 	  :LOGBOOK:
@@ -14367,6 +14370,10 @@ Lectures in calendar and tasks like planning lectures.
 ******** TODO Week 2
 ********* TODO Lecture 2.1
 	  SCHEDULED: <2015-01-12 Mon 10:00-11:00>
+	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2015-01-05 Mon 11:50]
+	  CLOCK: [2015-01-12 Mon 09:40]--[2015-01-12 Mon 11:00] =>  1:20
+	  :END:
 	  :PROPERTIES:
 	  :Effort:   1:30
 	  :END:
