@@ -1914,15 +1914,24 @@ Marsden et. al. book
 - Well balancing
 - ANUGA
 **** TODO Ancient solutions on spheres	    :FLOWS:SPHERE:ANCIENT:INPROGRESS:
-[[file:~/working/academic/research/ancient_flows_sphere]]
+[[file:~/working/academic/research/ancient_flows_spheres]]
 ***** Tasks
 ****** TODO Set up project
        :LOGBOOK:
        CLOCK: [2014-10-30 Thu 08:48]--[2014-10-30 Thu 08:53] =>  0:05
        :END:
-******* NEXT Create repository
-******* NEXT Create org file
-******* NEXT Create publishing
+******* DONE Create repository
+	:LOGBOOK:
+	- State "DONE"       from "NEXT"       [2015-01-13 Tue 11:55]
+	:END:
+******* DONE Create org file
+	:LOGBOOK:
+	- State "DONE"       from "NEXT"       [2015-01-13 Tue 11:55]
+	:END:
+******* DONE Create publishing
+	:LOGBOOK:
+	- State "DONE"       from "NEXT"       [2015-01-13 Tue 11:55]
+	:END:
 ******* DONE Create tasks
 	 SCHEDULED: <2014-10-18 Sat>
 	 :LOGBOOK:
@@ -1933,7 +1942,10 @@ Marsden et. al. book
 ******* NEXT Create outline
 ******* TODO Harnack
 ******* TODO Curvature goes to 0
-******** TODO $\int F(A) \to 0$
+******** NEXT $\int F(A) \to 0$
+	 :LOGBOOK:
+	 CLOCK: [2015-01-13 Tue 11:55]--[2015-01-13 Tue 12:36] =>  0:41
+	 :END:
 ******** TODO Length of backwards flowing point is finite
 ******* TODO smooth backwards convergence to equator
 ******* TODO Aleksandrov reflection
