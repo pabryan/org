@@ -14056,10 +14056,10 @@ Lectures in calendar and tasks like planning lectures.
 	   :Effort:   1:00
 	   :END:
 ********* TODO Week 3
-********** NEXT Prepare lec 3.1
+********** DONE Prepare lec 3.1
 	   SCHEDULED: <2015-01-12 Mon>
 	   :LOGBOOK:
-	   CLOCK: [2015-01-12 Mon 15:44]
+	   CLOCK: [2015-01-12 Mon 15:44]--[2015-01-12 Mon 15:53] =>  0:09
 	   :END:
 	   :PROPERTIES:
 	   :Effort:   1:00
@@ -14067,6 +14067,9 @@ Lectures in calendar and tasks like planning lectures.
 
 ********** NEXT Prepare lec 3.2
 	   SCHEDULED: <2015-01-12 Mon>
+	   :LOGBOOK:
+	   CLOCK: [2015-01-12 Mon 15:53]
+	   :END:
 	   :PROPERTIES:
 	   :Effort:   1:00
 	   :END:
@@ -14750,8 +14753,11 @@ Lectures in calendar and tasks like planning lectures.
 	   :Effort:   1:00
 	   :END:
 ********* TODO Week 3
-********** NEXT Prepare lec 3.1
+********** DONE Prepare lec 3.1
 	   SCHEDULED: <2015-01-12 Mon>
+	   :LOGBOOK:
+	   - State "DONE"       from "NEXT"       [2015-01-12 Mon 15:53]
+	   :END:
 	   :PROPERTIES:
 	   :Effort:   1:00
 	   :END:
@@ -14921,7 +14927,7 @@ Lectures in calendar and tasks like planning lectures.
 	  :LOGBOOK:
 	  - State "WAITING"    from "NEXT"       [2015-01-12 Mon 15:38] \\
 	    Sent to TA for comments.
-	  CLOCK: [2015-01-12 Mon 15:32]
+	  CLOCK: [2015-01-12 Mon 15:32]--[2015-01-12 Mon 15:37] =>  0:05
 	  CLOCK: [2015-01-12 Mon 14:58]--[2015-01-12 Mon 15:00] =>  0:02
 	  :END:
 	  :PROPERTIES:
