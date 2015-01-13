@@ -14300,6 +14300,7 @@ Lectures in calendar and tasks like planning lectures.
 ******** NEXT Piazza Week 2
 	 SCHEDULED: <2015-01-12 Mon>
 	 :LOGBOOK:
+	 CLOCK: [2015-01-13 Tue 10:05]--[2015-01-13 Tue 10:10] =>  0:05
 	 CLOCK: [2015-01-12 Mon 11:35]--[2015-01-12 Mon 11:49] =>  0:14
 	 :END:
 	 :PROPERTIES:
@@ -15611,12 +15612,12 @@ http://tutorial.math.lamar.edu/
 
 ** Students
 *** References
+[[file:~/working/ucsd/teaching/students/student_references/]]
 **** DONE Write Reference letter for Joel Pazol
      :LOGBOOK:
      - State "DONE"       from "TODO"       [2014-02-25 Tue 18:24]
      :END:
-     DEADLINE: 
-<2013-06-28 Fri>
+     DEADLINE: <2013-06-28 Fri>
      - State "TODO"       from "DONE"       [2013-06-25 Tue 21:13]
      :PROPERTIES:
      :ID:       f220f7b9-a94a-4120-9757-4bd7dbd25cab
@@ -15681,11 +15682,12 @@ https://services.adcom.uci.edu/approgress/lor/letterInfo.htm?token=2014120811010
        CLOCK: [2014-12-08 Mon 15:44]--[2014-12-08 Mon 15:45] =>  0:01
        :END:
 https://www.graddiv.ucsb.edu/eapp/lor/Recommender.aspx?guid=9986d689-0601-4518-bc28-c7201a3f6d2c
-**** DONE Ziye Xu
+**** TODO Ziye Xu
      :LOGBOOK:
      - State "DONE"       from "TODO"       [2014-12-08 Mon 16:19]
      CLOCK: [2014-12-08 Mon 15:22]--[2014-12-08 Mon 15:24] =>  0:02
      :END:
+[[file:~/working/ucsd/teaching/students/student_references/ziye_xu]]
 ***** DONE Set up tasks
       DEADLINE: <2014-12-08 Mon>
       :LOGBOOK:
@@ -15697,7 +15699,7 @@ https://www.graddiv.ucsb.edu/eapp/lor/Recommender.aspx?guid=9986d689-0601-4518-b
       - State "DONE"       from "NEXT"       [2014-12-08 Mon 16:05]
       CLOCK: [2014-12-08 Mon 15:52]--[2014-12-08 Mon 16:05] =>  0:13
       :END:
-***** DONE Applications
+***** TODO Applications
       :LOGBOOK:
       - State "DONE"       from "TODO"       [2014-12-08 Mon 16:19]
       CLOCK: [2014-12-08 Mon 16:17]--[2014-12-08 Mon 16:19] =>  0:02
@@ -15744,6 +15746,15 @@ https://rec.applyyourself.com/AYRecommendationLogin/Recommendation_Provider_Logi
        - State "DONE"       from "NEXT"       [2014-12-08 Mon 16:19]
        :END:
 http://sendgrid.its.nyu.edu/wf/click?upn=vBoIkolkxQK-2FsNcYViYNM-2BPl0RY7QGFxOQG-2FIbO-2FJHxWP4skVo3821E9I5yShBFUOcwc1dy-2FLsaXqQQLGu28yOY5r-2Bqi-2BMfPX-2Fg87Rac3yA-3D_SrfgioQRhfV3iUa04Hh-2BHYJFICor2ptdWuve0LZxd3PsgsKD1JtCXqj59RVkZ1olipsqFNQaZq6eeYsNOM6ROxU4bTP1qBq6vRJSfVdiyN2utzbBhQqdv-2BMSJqirh234DifmVuaIx5BSvjQUztrxKAYR-2BOK-2B0yNha1hlvbs-2BfXBTf0ZDh-2B3-2FZ0UmMOgxsi6qH4sUhs-2B4VkFv0l4YaTtGtw-3D-3D
+****** NEXT Columbia
+       :LOGBOOK:
+       CLOCK: [2015-01-13 Tue 10:15]
+       :END:
+https://apply.gsas.columbia.edu/refer/?6925334213259829
+****** NEXT NYU
+https://apply.embark.com/orecs/
+User ID: PBryan38
+Password: 6837
 *** Undergraduate projects
 **** Notes
 http://urp.ucsd.edu/
