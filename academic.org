@@ -3388,6 +3388,7 @@ Given $X$ in the equator, let $\rho_{\alpha}(X)$ be the infimum of the lengths o
   - [X] For the last bit in the second paragraph was it supposed to be for all forward times like (-\infty,0) not t\in (-\infty, t_1)?
 	Maybe that could be rephrased. The $t_1$ is the time up to which the curves meet the reflected equator transversely. We can't ensure that after that time, they don't cross the reflected equator. We know that far enough back in time, both curves lie in $\sphere^2_V$ and the max principle ensures they lie in there at least up to $t_1$.
   - [X] Type II should be $\curvecurv/\abs{t} \to \infty$.
+****** TODO Submit paper
 ******* DONE Update based on referee comments
 	:LOGBOOK:
 	- State "DONE"       from "WAITING"    [2014-12-09 Tue 08:05]
@@ -3397,6 +3398,11 @@ Given $X$ in the equator, let $\rho_{\alpha}(X)$ be the infimum of the lengths o
 	 :LOGBOOK:
 	 - State "DONE"       from "NEXT"       [2014-12-09 Tue 10:49]
 	 CLOCK: [2014-12-09 Tue 10:13]--[2014-12-09 Tue 10:49] =>  0:36
+	 :END:
+******* NEXT Resubmit tex
+	 DEADLINE: <2015-01-13 Tue>
+	 :LOGBOOK:
+	 CLOCK: [2015-01-13 Tue 10:38]
 	 :END:
 ****** DONE Maths
        :LOGBOOK:
@@ -5061,7 +5067,7 @@ However, some things like the action in WDM and general relativity may be define
 - TeX file
   - Set short title.
   - Remove date.
-  - Run bundledoc <article>.dep
+  - Run $ bundledoc --config=/usr/share/texlive/texmf-dist/tex/latex/bundledoc/texlive-unix.cfg <article>.dep
 * Seminars/Conferences
   :PROPERTIES:
   :ID:       1e7a7317-1668-4432-a995-cdaa9293f7af
