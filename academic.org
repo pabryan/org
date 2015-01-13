@@ -1000,6 +1000,9 @@ file:~/working/academic/journals/referee/SciChinaMath/evolution_of_convex_hypers
        :END:
 ****** NEXT Check revisions
        SCHEDULED: <2015-01-12 Mon> DEADLINE: <2015-02-04 Wed>
+       :LOGBOOK:
+       CLOCK: [2015-01-13 Tue 10:23]
+       :END:
 ****** TODO Write report
        DEADLINE: <2015-02-06 Fri>
 ***** Clock report

@@ -15682,8 +15682,9 @@ https://services.adcom.uci.edu/approgress/lor/letterInfo.htm?token=2014120811010
        CLOCK: [2014-12-08 Mon 15:44]--[2014-12-08 Mon 15:45] =>  0:01
        :END:
 https://www.graddiv.ucsb.edu/eapp/lor/Recommender.aspx?guid=9986d689-0601-4518-bc28-c7201a3f6d2c
-**** TODO Ziye Xu
+**** DONE Ziye Xu
      :LOGBOOK:
+     - State "DONE"       from "TODO"       [2015-01-13 Tue 10:22]
      - State "DONE"       from "TODO"       [2014-12-08 Mon 16:19]
      CLOCK: [2014-12-08 Mon 15:22]--[2014-12-08 Mon 15:24] =>  0:02
      :END:
@@ -15699,8 +15700,10 @@ https://www.graddiv.ucsb.edu/eapp/lor/Recommender.aspx?guid=9986d689-0601-4518-b
       - State "DONE"       from "NEXT"       [2014-12-08 Mon 16:05]
       CLOCK: [2014-12-08 Mon 15:52]--[2014-12-08 Mon 16:05] =>  0:13
       :END:
-***** TODO Applications
+***** DONE Applications
       :LOGBOOK:
+      - State "DONE"       from "TODO"       [2015-01-13 Tue 10:22]
+      CLOCK: [2015-01-13 Tue 10:19]--[2015-01-13 Tue 10:22] =>  0:03
       - State "DONE"       from "TODO"       [2014-12-08 Mon 16:19]
       CLOCK: [2014-12-08 Mon 16:17]--[2014-12-08 Mon 16:19] =>  0:02
       CLOCK: [2014-12-08 Mon 16:07]--[2014-12-08 Mon 16:10] =>  0:03
@@ -15746,15 +15749,22 @@ https://rec.applyyourself.com/AYRecommendationLogin/Recommendation_Provider_Logi
        - State "DONE"       from "NEXT"       [2014-12-08 Mon 16:19]
        :END:
 http://sendgrid.its.nyu.edu/wf/click?upn=vBoIkolkxQK-2FsNcYViYNM-2BPl0RY7QGFxOQG-2FIbO-2FJHxWP4skVo3821E9I5yShBFUOcwc1dy-2FLsaXqQQLGu28yOY5r-2Bqi-2BMfPX-2Fg87Rac3yA-3D_SrfgioQRhfV3iUa04Hh-2BHYJFICor2ptdWuve0LZxd3PsgsKD1JtCXqj59RVkZ1olipsqFNQaZq6eeYsNOM6ROxU4bTP1qBq6vRJSfVdiyN2utzbBhQqdv-2BMSJqirh234DifmVuaIx5BSvjQUztrxKAYR-2BOK-2B0yNha1hlvbs-2BfXBTf0ZDh-2B3-2FZ0UmMOgxsi6qH4sUhs-2B4VkFv0l4YaTtGtw-3D-3D
-****** NEXT Columbia
+****** DONE Columbia
        :LOGBOOK:
-       CLOCK: [2015-01-13 Tue 10:15]
+       - State "DONE"       from "NEXT"       [2015-01-13 Tue 10:19]
+       CLOCK: [2015-01-13 Tue 10:15]--[2015-01-13 Tue 10:19] =>  0:04
        :END:
 https://apply.gsas.columbia.edu/refer/?6925334213259829
-****** NEXT NYU
+****** DONE NYU
+       :LOGBOOK:
+       - State "DONE"       from "NEXT"       [2015-01-13 Tue 10:22]
+       :END:
 https://apply.embark.com/orecs/
 User ID: PBryan38
 Password: 6837
+**** TODO Brian Lin
+***** NEXT Write letter
+***** TODO Send letter to admissions@atlanticbridge.com
 *** Undergraduate projects
 **** Notes
 http://urp.ucsd.edu/
