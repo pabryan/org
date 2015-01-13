@@ -14945,7 +14945,7 @@ Lectures in calendar and tasks like planning lectures.
 	  :Effort:   0:15
 	  :END:
 ********* TODO Submit midterm to printing/frdesk
-	  DEADLINE: <2015-01-20 Tue>
+	  DEADLINE: <2015-01-19 Mon>
 	  :PROPERTIES:
 	  :Effort:   0:10
 	  :END:
@@ -15066,7 +15066,7 @@ Lectures in calendar and tasks like planning lectures.
 	 :PROPERTIES:
 	 :Effort:   0:30
 	 :END:
-******** TODO Piazza Week 2
+******** NEXT Piazza Week 2
 	 SCHEDULED: <2015-01-12 Mon>
 	 :PROPERTIES:
 	 :Effort:   0:30
