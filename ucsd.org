@@ -14941,8 +14941,11 @@ Lectures in calendar and tasks like planning lectures.
 	  :PROPERTIES:
 	  :Effort:   0:10
 	  :END:
-********* TODO Update exam based on TA comments
+********* DONE Update exam based on TA comments
 	  DEADLINE: <2015-01-19 Mon>
+	  :LOGBOOK:
+	  - State "DONE"       from "TODO"       [2015-01-14 Wed 08:20]
+	  :END:
 	  :PROPERTIES:
 	  :Effort:   0:15
 	  :END:
