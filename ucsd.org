@@ -14985,8 +14985,12 @@ Lectures in calendar and tasks like planning lectures.
 	  :PROPERTIES:
 	  :Effort:   0:30
 	  :END:
-********* TODO Write sample for MT1
+********* DONE Write sample for MT1
 	  DEADLINE: <2015-01-15 Thu>
+	  :LOGBOOK:
+	  - State "DONE"       from "DONE"       [2015-01-15 Thu 10:41]
+	  - State "DONE"       from "TODO"       [2015-01-15 Thu 10:41]
+	  :END:
 ******** TODO Midterm 2
 ********* NEXT Write midterm 2
 	  DEADLINE: <2015-02-13 Fri>
