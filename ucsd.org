@@ -16874,7 +16874,26 @@ Abstract:
        :END:
 
 ***** Non-smooth speed curvature flows 
-
+***** Leon Simon GMT
+****** Schedule
+******* DONE GMT Meeting
+	:LOGBOOK:
+	- State "DONE"       from "NEXT"       [2015-01-15 Thu 12:26]
+	CLOCK: [2015-01-15 Thu 11:00]--[2015-01-15 Thu 12:26] =>  1:26
+	:END:
+	<2015-01-15 Thu 11:00-12:00>
+******* NEXT GMT Meeting
+	<2015-01-22 Thu 11:00-12:00>
+******* NEXT GMT Meeting
+	<2015-01-29 Thu 11:00-12:00>
+******* NEXT GMT Meeting
+	<2015-02-05 Thu 11:00-12:00>
+******* NEXT GMT Meeting
+	<2015-02-12 Thu 11:00-12:00>
+******* NEXT GMT Meeting
+	<2015-02-19 Thu 11:00-12:00>
+******* NEXT GMT Meeting
+	<2015-02-26 Thu 11:00-12:00>
 ** UCSD seminars, colloquia
 *** Alexander Chorin
 <2014-04-07 Mon 16:00-17:00>
