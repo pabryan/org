@@ -14212,8 +14212,15 @@ Lectures in calendar and tasks like planning lectures.
 	   :END:
 ******* TODO Exams
 ******** TODO Midterm 1
-********* NEXT Write midterm 1 proposal
+	 :LOGBOOK:
+	 CLOCK: [2015-01-14 Wed 16:05]
+	 :END:
+********* DONE Write midterm 1 proposal
 	  DEADLINE: <2015-01-16 Fri>
+	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2015-01-14 Wed 16:05]
+	  CLOCK: [2015-01-14 Wed 15:52]--[2015-01-14 Wed 16:05] =>  0:13
+	  :END:
 	  :PROPERTIES:
 	  :Effort:   0:30
 	  :END:
@@ -14768,7 +14775,7 @@ Lectures in calendar and tasks like planning lectures.
 	   :END:
 ********* TODO Week 3
 	  :LOGBOOK:
-	  CLOCK: [2015-01-14 Wed 15:51]
+	  CLOCK: [2015-01-14 Wed 15:51]--[2015-01-14 Wed 15:52] =>  0:01
 	  :END:
 ********** DONE Prepare lec 3.1
 	   SCHEDULED: <2015-01-12 Mon>
@@ -14978,7 +14985,8 @@ Lectures in calendar and tasks like planning lectures.
 	  :PROPERTIES:
 	  :Effort:   0:30
 	  :END:
-
+********* TODO Write sample for MT1
+	  DEADLINE: <2015-01-15 Thu>
 ******** TODO Midterm 2
 ********* NEXT Write midterm 2
 	  DEADLINE: <2015-02-13 Fri>
