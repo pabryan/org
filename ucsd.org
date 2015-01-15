@@ -14213,7 +14213,7 @@ Lectures in calendar and tasks like planning lectures.
 ******* TODO Exams
 ******** TODO Midterm 1
 	 :LOGBOOK:
-	 CLOCK: [2015-01-14 Wed 16:05]
+	 CLOCK: [2015-01-14 Wed 16:05]--[2015-01-14 Wed 16:06] =>  0:01
 	 :END:
 ********* DONE Write midterm 1 proposal
 	  DEADLINE: <2015-01-16 Fri>
@@ -15372,7 +15372,10 @@ Lectures in calendar and tasks like planning lectures.
 	 :Effort:   2:00
 	 :END:
 
-******** NEXT O/H Week 2
+******** DONE O/H Week 2
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2015-01-14 Wed 16:29]
+	 :END:
 	 <2015-01-14 Wed 15:00-17:00>
 	 :PROPERTIES:
 	 :Effort:   2:00
