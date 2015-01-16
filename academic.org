@@ -2508,7 +2508,7 @@ Not sure what this is about either!
 ******** NEXT Determine properties of vector field
 ******** NEXT Compute laplacian
 	 :LOGBOOK:
-	 CLOCK: [2015-01-15 Thu 20:22]
+	 CLOCK: [2015-01-15 Thu 20:22]--[2015-01-15 Thu 21:00] =>  0:38
 	 CLOCK: [2015-01-15 Thu 19:34]--[2015-01-15 Thu 19:37] =>  0:03
 	 CLOCK: [2015-01-13 Tue 12:42]--[2015-01-13 Tue 14:12] =>  1:30
 	 CLOCK: [2014-12-16 Tue 09:40]--[2014-12-16 Tue 10:10] =>  0:30
