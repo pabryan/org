@@ -959,8 +959,9 @@
     :END:
 
 *** NEXT Daily Release
-    SCHEDULED: <2015-01-15 Thu .+1d/2d>
+    SCHEDULED: <2015-01-16 Fri .+1d/2d>
     :LOGBOOK:
+    - State "DONE"       from "NEXT"       [2015-01-15 Thu 18:37]
     - State "DONE"       from "NEXT"       [2015-01-14 Wed 18:46]
     - State "DONE"       from "NEXT"       [2015-01-13 Tue 22:20]
     - State "DONE"       from "NEXT"       [2015-01-11 Sun 19:05]
@@ -1143,7 +1144,7 @@
     :STYLE:    habit
     :REPEAT_TO_STATE: NEXT
     :ID:       d439600f-c40d-4dd3-82ca-3e7d9e35f2b3
-    :LAST_REPEAT: [2015-01-14 Wed 18:46]
+    :LAST_REPEAT: [2015-01-15 Thu 18:37]
     :END:
   
 *** NEXT Handstand practice
@@ -1172,9 +1173,10 @@
     :ID:       f57232cd-a8f2-4a76-a507-4d69f765a521
     :END:
 *** NEXT Relax/Meditate
-    SCHEDULED: <2015-01-15 Thu .+1d/2d>
+    SCHEDULED: <2015-01-16 Fri .+1d/2d>
 
     :LOGBOOK:
+    - State "DONE"       from "NEXT"       [2015-01-15 Thu 18:37]
     - State "DONE"       from "NEXT"       [2015-01-14 Wed 16:29]
     - State "DONE"       from "NEXT"       [2015-01-13 Tue 22:20]
     - State "DONE"       from "NEXT"       [2015-01-11 Sun 15:21]
@@ -1448,7 +1450,7 @@
     :STYLE:    habit
     :REPEAT_TO_STATE: NEXT
     :ID:       c0aaf33a-af77-446b-b9fd-cf2d2f78c12a
-    :LAST_REPEAT: [2015-01-14 Wed 16:29]
+    :LAST_REPEAT: [2015-01-15 Thu 18:37]
     :END:
 
 ** Old Tracking
