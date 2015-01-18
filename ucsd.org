@@ -14292,7 +14292,11 @@ Lectures in calendar and tasks like planning lectures.
 	 :PROPERTIES:
 	 :Effort:   1:30
 	 :END:
-
+******** NEXT Check supplement homework 2
+	 DEADLINE: <2015-01-19 Mon>
+	 :PROPERTIES:
+	 :Effort:   1:30
+	 :END:
 ****** Clocking
 ******* TODO Piazza
 	:LOGBOOK:
