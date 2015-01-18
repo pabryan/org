@@ -14435,10 +14435,10 @@ Lectures in calendar and tasks like planning lectures.
 	  :END:
 
 ******** TODO Week 3
-********* TODO Lecture 3.1
+********* DONE Lecture 3.1
 	  SCHEDULED: <2015-01-19 Mon 10:00-11:00>
-	  :PROPERTIES:
-	  :Effort:   1:30
+	  :LOGBOOK:
+	  - State "DONE"       from "TODO"       [2015-01-18 Sun 10:19]
 	  :END:
 
 ********* TODO Lecture 3.2
@@ -14623,11 +14623,11 @@ Lectures in calendar and tasks like planning lectures.
 	 :Effort:   2:00
 	 :END:
 
-******** TODO O/H Week 3
-	 <2015-01-19 Mon 15:00-17:00>
-	 :PROPERTIES:
-	 :Effort:   2:00
+******** DONE O/H Week 3
+	 :LOGBOOK:
+	 - State "DONE"       from "TODO"       [2015-01-18 Sun 10:19]
 	 :END:
+	 <2015-01-19 Mon 15:00-17:00>
 
 ******** TODO O/H Week 4
 	 <2015-01-26 Mon 15:00-17:00>
@@ -15238,10 +15238,10 @@ Lectures in calendar and tasks like planning lectures.
 	  :END:
 
 ******** TODO Week 3
-********* TODO Lecture 3.1
+********* DONE Lecture 3.1
 	  SCHEDULED: <2015-01-19 Mon 13:00-14:00>
-	  :PROPERTIES:
-	  :Effort:   1:00
+	  :LOGBOOK:
+	  - State "DONE"       from "TODO"       [2015-01-18 Sun 10:19]
 	  :END:
 
 ********* TODO Lecture 3.2
@@ -16923,6 +16923,42 @@ Abstract:
 	<2015-02-19 Thu 11:00-12:00>
 ******* NEXT GMT Meeting
 	<2015-02-26 Thu 11:00-12:00>
+**** Seminar with Ben Chow
+***** NEXT Ben Chow meeting
+      :PROPERTIES:
+      :Effort:   1:30
+      :END:
+      <2015-01-20 Tue 10:30-12:00>
+***** TODO Ben Chow meeting
+      :PROPERTIES:
+      :Effort:   1:30
+      :END:
+      <2015-01-27 Tue 10:30-12:00>
+***** TODO Ben Chow meeting
+      :PROPERTIES:
+      :Effort:   1:30
+      :END:
+      <2015-02-03 Tue 10:30-12:00>
+***** TODO Ben Chow meeting
+      :PROPERTIES:
+      :Effort:   1:30
+      :END:
+      <2015-02-10 Tue 10:30-12:00>
+***** TODO Ben Chow meeting
+      :PROPERTIES:
+      :Effort:   1:30
+      :END:
+      <2015-02-17 Tue 10:30-12:00>
+***** TODO Ben Chow meeting
+      :PROPERTIES:
+      :Effort:   1:30
+      :END:
+      <2015-02-24 Tue 10:30-12:00>
+***** TODO Ben Chow meeting
+      :PROPERTIES:
+      :Effort:   1:30
+      :END:
+      <2015-03-03 Tue 10:30-12:00>
 ** UCSD seminars, colloquia
 *** Alexander Chorin
 <2014-04-07 Mon 16:00-17:00>
