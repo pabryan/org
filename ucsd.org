@@ -14304,7 +14304,10 @@ Lectures in calendar and tasks like planning lectures.
 ********* Notes
 - With just a brief glance, the message about $i$ looks the same for all questions, so students will probably only read the first one and thus assume they shouldn't have an $i$ in their answer.
 - Submitting without constant gives a helpful error message. Then including the constant and submitting results in the message "This answer is equivalent to the one you just submitted." It appears to treat the answer as correct though. Submitting one more time (without changing the input), the message becomes "correct".
-- Q2: "x*e - 2*x*sin(3*x) - 2/3*cos(3*x)" is marked "Incorrect" with the message, "Note: there is always more than one possibility".
+- Q2: I submitted the incorrect answer "x*e - 2*x*sin(3*x) - 2/3*cos(3*x)", and was of course marked "Incorrect". However, I received the cryptic message, "Note: there is always more than one possibility".
+- Q3: Without a constant I don't get the helpful message about not being the most general solution. Also, the constant must be an upper case C, but in other questions, lower case is okay.
+- Q6: Maybe mention the students need to include complex poles? Perhaps it's best to mention it for all such questions so we don't give away the answer.
+- Q9: Should you mention that the constants could be complex? If so, perhaps mention it for all such questions.
 
 ****** Clocking
 ******* TODO Piazza
