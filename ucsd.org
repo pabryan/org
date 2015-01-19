@@ -14295,15 +14295,17 @@ Lectures in calendar and tasks like planning lectures.
 ******** NEXT Check supplement homework 2
 	 DEADLINE: <2015-01-19 Mon>
 	 :LOGBOOK:
+	 CLOCK: [2015-01-19 Mon 10:30]
 	 CLOCK: [2015-01-19 Mon 10:10]--[2015-01-19 Mon 10:14] =>  0:04
 	 :END:
 	 :PROPERTIES:
 	 :Effort:   1:30
 	 :END:
 ********* Notes
-- With just a brief glance, the message about $i$ looks the same for all questions, so students will probably only read the first one.
-- Submit without constant and then include constant. I get "This answer is equivalent to the one you just submitted."
-- Q2: "Note: there is always more than one possibility"
+- With just a brief glance, the message about $i$ looks the same for all questions, so students will probably only read the first one and thus assume they shouldn't have an $i$ in their answer.
+- Submitting without constant gives a helpful error message. Then including the constant and submitting results in the message "This answer is equivalent to the one you just submitted." It appears to treat the answer as correct though. Submitting one more time (without changing the input), the message becomes "correct".
+- Q2: "x*e - 2*x*sin(3*x) - 2/3*cos(3*x)" is marked "Incorrect" with the message, "Note: there is always more than one possibility".
+
 ****** Clocking
 ******* TODO Piazza
 	:LOGBOOK:
