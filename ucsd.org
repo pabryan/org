@@ -14292,22 +14292,23 @@ Lectures in calendar and tasks like planning lectures.
 	 :PROPERTIES:
 	 :Effort:   1:30
 	 :END:
-******** NEXT Check supplement homework 2
+******** DONE Check supplement homework 2
 	 DEADLINE: <2015-01-19 Mon>
 	 :LOGBOOK:
-	 CLOCK: [2015-01-19 Mon 10:30]
+	 - State "DONE"       from "NEXT"       [2015-01-19 Mon 11:13]
+	 CLOCK: [2015-01-19 Mon 10:30]--[2015-01-19 Mon 11:13] =>  0:43
 	 CLOCK: [2015-01-19 Mon 10:10]--[2015-01-19 Mon 10:14] =>  0:04
 	 :END:
 	 :PROPERTIES:
 	 :Effort:   1:30
 	 :END:
 ********* Notes
-- With just a brief glance, the message about $i$ looks the same for all questions, so students will probably only read the first one and thus assume they shouldn't have an $i$ in their answer.
-- Submitting without constant gives a helpful error message. Then including the constant and submitting results in the message "This answer is equivalent to the one you just submitted." It appears to treat the answer as correct though. Submitting one more time (without changing the input), the message becomes "correct".
+- Q1-Q4: With just a brief glance, the message about $i$ looks the same for all questions, so students will probably only read the first one and thus assume they shouldn't have an $i$ in their answer for all those problems. Maybe you could put "does not" and "does" in bold.
+- Q1-Q4: Submitting without constant gives a helpful error message. Then including the constant and submitting results in the message "This answer is equivalent to the one you just submitted." which is rather confusing. It appears to treat the answer as correct though. Submitting one more time (without changing the input), the message becomes "correct". 
 - Q2: I submitted the incorrect answer "x*e - 2*x*sin(3*x) - 2/3*cos(3*x)", and was of course marked "Incorrect". However, I received the cryptic message, "Note: there is always more than one possibility".
-- Q3: Without a constant I don't get the helpful message about not being the most general solution. Also, the constant must be an upper case C, but in other questions, lower case is okay.
-- Q6: Maybe mention the students need to include complex poles? Perhaps it's best to mention it for all such questions so we don't give away the answer.
-- Q9: Should you mention that the constants could be complex? If so, perhaps mention it for all such questions.
+- Q3: Without a constant I don't get the helpful message as with Q1,Q2,Q4 about not being the most general solution. Also, the constant must be an upper case C, but in other questions, lower case is okay. I guess this is because of the complex numbers so you're not using "FormulaUpToConstant". Can this be done with complex numbers?
+- Q6: Maybe mention the students need to include complex poles? Perhaps it's best to mention it for both Q5 and Q6 so we don't give away too much to the students.
+- Q9: Should you mention that the constants could be complex? If so, perhaps mention if for Q8, and maybe Q7 as well.
 
 ****** Clocking
 ******* TODO Piazza
