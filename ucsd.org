@@ -14294,9 +14294,16 @@ Lectures in calendar and tasks like planning lectures.
 	 :END:
 ******** NEXT Check supplement homework 2
 	 DEADLINE: <2015-01-19 Mon>
+	 :LOGBOOK:
+	 CLOCK: [2015-01-19 Mon 10:10]--[2015-01-19 Mon 10:14] =>  0:04
+	 :END:
 	 :PROPERTIES:
 	 :Effort:   1:30
 	 :END:
+********* Notes
+- With just a brief glance, the message about $i$ looks the same for all questions, so students will probably only read the first one.
+- Submit without constant and then include constant. I get "This answer is equivalent to the one you just submitted."
+- Q2: "Note: there is always more than one possibility"
 ****** Clocking
 ******* TODO Piazza
 	:LOGBOOK:
