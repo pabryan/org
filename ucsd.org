@@ -16951,9 +16951,10 @@ Abstract:
 	<2015-02-26 Thu 11:00-12:00>
 **** Seminar with Ben Chow
 - APM 6218
-***** NEXT Ben Chow meeting
+***** DONE Ben Chow meeting
       :LOGBOOK:
-      CLOCK: [2015-01-20 Tue 10:33]
+      - State "DONE"       from "NEXT"       [2015-01-20 Tue 11:48]
+      CLOCK: [2015-01-20 Tue 10:33]--[2015-01-20 Tue 11:48] =>  1:15
       :END:
       :PROPERTIES:
       :Effort:   1:30
