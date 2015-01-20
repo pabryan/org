@@ -14339,8 +14339,11 @@ Lectures in calendar and tasks like planning lectures.
 	 :PROPERTIES:
 	 :Effort:   1:00
 	 :END:
-******** TODO Piazza Week 3
+******** NEXT Piazza Week 3
 	 SCHEDULED: <2015-01-19 Mon>
+	 :LOGBOOK:
+	 CLOCK: [2015-01-19 Mon 15:25]--[2015-01-19 Mon 16:10] =>  0:45
+	 :END:
 	 :PROPERTIES:
 	 :Effort:   1:00
 	 :END:
@@ -15021,12 +15024,8 @@ Lectures in calendar and tasks like planning lectures.
 	  :PROPERTIES:
 	  :Effort:   0:30
 	  :END:
-********* DONE Write sample for MT1
-	  DEADLINE: <2015-01-15 Thu>
-	  :LOGBOOK:
-	  - State "DONE"       from "DONE"       [2015-01-15 Thu 10:41]
-	  - State "DONE"       from "TODO"       [2015-01-15 Thu 10:41]
-	  :END:
+********* NEXT Write sample for MT1
+	  DEADLINE: <2015-01-19 Mon>
 ******** TODO Midterm 2
 ********* NEXT Write midterm 2
 	  DEADLINE: <2015-02-13 Fri>
@@ -15053,7 +15052,8 @@ Lectures in calendar and tasks like planning lectures.
 	  :PROPERTIES:
 	  :Effort:   0:30
 	  :END:
-
+********* TODO Write sample
+	  DEADLINE: <2015-02-06 Fri>
 ******** TODO Final
 ********* NEXT Write final
 	  DEADLINE: <2015-03-11 Wed>
@@ -15146,8 +15146,11 @@ Lectures in calendar and tasks like planning lectures.
 	 :PROPERTIES:
 	 :Effort:   0:30
 	 :END:
-******** TODO Piazza Week 3
+******** NEXT Piazza Week 3
 	 SCHEDULED: <2015-01-19 Mon>
+	 :LOGBOOK:
+	 CLOCK: [2015-01-19 Mon 16:10]--[2015-01-19 Mon 16:26] =>  0:16
+	 :END:
 	 :PROPERTIES:
 	 :Effort:   0:30
 	 :END:
