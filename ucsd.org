@@ -14977,6 +14977,7 @@ Lectures in calendar and tasks like planning lectures.
 ******* TODO Exams
 ******** DONE Midterm 1
 	 :LOGBOOK:
+	 - State "DONE"       from "TODO"       [2015-01-20 Tue 14:03]
 	 - State "DONE"       from "TODO"       [2015-01-19 Mon 19:45]
 	 :END:
 ********* DONE Write midterm 1
@@ -15030,6 +15031,10 @@ Lectures in calendar and tasks like planning lectures.
 ********* DONE Write sample for MT1
 	  DEADLINE: <2015-01-19 Mon>
 	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2015-01-20 Tue 14:03]
+	  CLOCK: [2015-01-20 Tue 13:17]--[2015-01-20 Tue 14:03] =>  0:46
+	  - State "NEXT"       from "DONE"       [2015-01-19 Mon 19:45] \\
+	    Reopened to fix error
 	  - State "DONE"       from "NEXT"       [2015-01-19 Mon 19:45]
 	  CLOCK: [2015-01-19 Mon 19:17]--[2015-01-19 Mon 19:45] =>  0:28
 	  :END:
