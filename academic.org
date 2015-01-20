@@ -1971,6 +1971,9 @@ Marsden et. al. book
 ******* TODO Harnack
 See [[*Convexity%20in%20space%20forms][Convexity in space forms]] and Urbas' and Andrews' argument
 ******** NEXT Compute evolution of support function
+	 :LOGBOOK:
+	 CLOCK: [2015-01-20 Tue 10:00]--[2015-01-20 Tue 10:17] =>  0:17
+	 :END:
 ******** NEXT Compute laplacian of support function
 ******* TODO Backwards convergence
 ******* TODO Aleksandrov reflection
@@ -1982,6 +1985,104 @@ See [[*Convexity%20in%20space%20forms][Convexity in space forms]] and Urbas' and
        CLOCK: [2015-01-14 Wed 11:16]--[2015-01-14 Wed 12:07] =>  0:51
        :END:
 <2015-01-14 Wed 11:15-12:30>
+**** TODO Convexity in space forms		:CONVEX:SPACEFORM:INPROGRESS:
+***** Files
+[[file:~/working/academic/research/convexity_space_forms]]
+***** Notes
+***** Tasks
+****** TODO Admin
+       :LOGBOOK:
+       CLOCK: [2014-10-16 Thu 18:04]--[2014-10-16 Thu 18:05] =>  0:01
+       :END:
+******* DONE Create org structure
+	:LOGBOOK:
+	- State "DONE"       from "NEXT"       [2014-10-16 Thu 18:04]
+	CLOCK: [2014-10-16 Thu 17:52]--[2014-10-16 Thu 18:04] =>  0:12
+	:END:
+******* NEXT Create tasks
+	:LOGBOOK:
+	CLOCK: [2014-11-20 Thu 11:17]--[2014-11-20 Thu 11:32] =>  0:15
+	:END:
+****** TODO Mathematics
+******* TODO Basic convexity
+******** NEXT Work out precise definitions
+	 :LOGBOOK:
+	 CLOCK: [2014-11-20 Thu 11:32]--[2014-11-20 Thu 12:15] =>  0:43
+	 :END:
+******** NEXT Lies on one side of tangent equator
+******** NEXT Positive curvature
+******** NEXT Graph over the equator
+******** NEXT Gauss map
+******* TODO Support function
+******** NEXT Make sure of precise definition
+	 :LOGBOOK:
+	 CLOCK: [2014-12-04 Thu 13:42]--[2014-12-04 Thu 14:30] =>  0:48
+	 :END:
+******** NEXT Parameterize by support function
+	 :LOGBOOK:
+	 CLOCK: [2014-10-16 Thu 13:00]--[2014-10-16 Thu 13:30] =>  0:30
+	 CLOCK: [2014-10-16 Thu 09:30]--[2014-10-16 Thu 12:00] =>  2:30
+	 :END:
+******** NEXT Determine properties of vector field
+******** NEXT Compute laplacian
+	 :LOGBOOK:
+	 CLOCK: [2015-01-17 Sat 10:30]--[2015-01-17 Sat 11:15] =>  0:45
+	 CLOCK: [2015-01-17 Sat 09:22]--[2015-01-17 Sat 10:10] =>  0:48
+	 CLOCK: [2015-01-15 Thu 20:22]--[2015-01-15 Thu 21:00] =>  0:38
+	 CLOCK: [2015-01-15 Thu 19:34]--[2015-01-15 Thu 19:37] =>  0:03
+	 CLOCK: [2015-01-13 Tue 12:42]--[2015-01-13 Tue 14:12] =>  1:30
+	 CLOCK: [2014-12-16 Tue 09:40]--[2014-12-16 Tue 10:10] =>  0:30
+	 CLOCK: [2014-10-25 Sat 11:15]--[2014-10-25 Sat 12:40] =>  1:25
+	 CLOCK: [2014-10-23 Thu 12:55]--[2014-10-23 Thu 13:40] =>  0:45
+	 CLOCK: [2014-10-23 Thu 11:00]--[2014-10-23 Thu 12:25] =>  1:25
+	 :END:
+******* TODO Harnack inequality
+******* TODO Ambient convexity
+******** TODO Convex cones
+********* NEXT Convex in sphere iff cone is convex in Euclidean
+********* NEXT Convex cone universal
+If $K = \tilde{K} \intersect \sphere^n$, then $\tilde{K} \subset $\text{cone} (K)$ where $\text{cone} (K)$ is the cone through $K$ with vertex the origin.
+******** NEXT Ambient non-collapsing
+- Like Brendle, take curvature balls in the ambient space. Are these then curvature balls for the cone? Can we therefore do it all in Euclidean space?
+
+******* TODO Space forms
+******** NEXT What happens under quotients?
+******* TODO Comparison
+******** NEXT Investigate possible comparison theory
+******* TODO Convex functions
+******* TODO Polar bodies
+******* TODO Applications
+******** NEXT Contained in a hemisphere
+****** TODO Write paper
+******* TODO Outline
+******** NEXT Create main structure
+******* TODO Sections
+******** TODO Basic convexity
+********* NEXT Characterisation of convexity
+	  :LOGBOOK:
+	  CLOCK: [2014-12-04 Thu 16:40]--[2014-12-04 Thu 17:35] =>  0:55
+	  :END:
+- geodesics joining any two points
+********* NEXT Boundary structure
+- positive curvature
+********* NEXT supporting hyperplanes
+********* NEXT Gauss map
+********* NEXT Graph
+******** TODO Support function
+********* NEXT Definition using ambient space
+- like Heintze, Alencar/Frensel
+********* NEXT Harnack inequality
+********* NEXT Parametrising by support function
+********* NEXT Laplacian
+	  :LOGBOOK:
+	  CLOCK: [2015-01-15 Thu 19:37]--[2015-01-15 Thu 20:22] =>  0:45
+	  CLOCK: [2015-01-15 Thu 18:59]--[2015-01-15 Thu 19:34] =>  0:35
+	  :END:
+******** TODO Harnack inequality
+******** TODO Connection with cones in ambient space
+******** TODO Applications
+********* NEXT Lies in a hemisphere
+******* TODO Proof reading
 *** Holding
 **** TODO Isoperimetric inequality and ancient solutions
 ***** Tasks
@@ -2467,104 +2568,6 @@ Not sure what this is about either!
        CLOCK: [2014-08-12 Tue 14:05]--[2014-08-12 Tue 15:31] =>  1:26
        :END:
 <2014-08-12 Tue 14:00-15:30>
-**** TODO Convexity in space forms			   :CONVEX:SPACEFORM:
-***** Files
-[[file:~/working/academic/research/convexity_space_forms]]
-***** Notes
-***** Tasks
-****** TODO Admin
-       :LOGBOOK:
-       CLOCK: [2014-10-16 Thu 18:04]--[2014-10-16 Thu 18:05] =>  0:01
-       :END:
-******* DONE Create org structure
-	:LOGBOOK:
-	- State "DONE"       from "NEXT"       [2014-10-16 Thu 18:04]
-	CLOCK: [2014-10-16 Thu 17:52]--[2014-10-16 Thu 18:04] =>  0:12
-	:END:
-******* NEXT Create tasks
-	:LOGBOOK:
-	CLOCK: [2014-11-20 Thu 11:17]--[2014-11-20 Thu 11:32] =>  0:15
-	:END:
-****** TODO Mathematics
-******* TODO Basic convexity
-******** NEXT Work out precise definitions
-	 :LOGBOOK:
-	 CLOCK: [2014-11-20 Thu 11:32]--[2014-11-20 Thu 12:15] =>  0:43
-	 :END:
-******** NEXT Lies on one side of tangent equator
-******** NEXT Positive curvature
-******** NEXT Graph over the equator
-******** NEXT Gauss map
-******* TODO Support function
-******** NEXT Make sure of precise definition
-	 :LOGBOOK:
-	 CLOCK: [2014-12-04 Thu 13:42]--[2014-12-04 Thu 14:30] =>  0:48
-	 :END:
-******** NEXT Parameterize by support function
-	 :LOGBOOK:
-	 CLOCK: [2014-10-16 Thu 13:00]--[2014-10-16 Thu 13:30] =>  0:30
-	 CLOCK: [2014-10-16 Thu 09:30]--[2014-10-16 Thu 12:00] =>  2:30
-	 :END:
-******** NEXT Determine properties of vector field
-******** NEXT Compute laplacian
-	 :LOGBOOK:
-	 CLOCK: [2015-01-17 Sat 10:30]--[2015-01-17 Sat 11:15] =>  0:45
-	 CLOCK: [2015-01-17 Sat 09:22]--[2015-01-17 Sat 10:10] =>  0:48
-	 CLOCK: [2015-01-15 Thu 20:22]--[2015-01-15 Thu 21:00] =>  0:38
-	 CLOCK: [2015-01-15 Thu 19:34]--[2015-01-15 Thu 19:37] =>  0:03
-	 CLOCK: [2015-01-13 Tue 12:42]--[2015-01-13 Tue 14:12] =>  1:30
-	 CLOCK: [2014-12-16 Tue 09:40]--[2014-12-16 Tue 10:10] =>  0:30
-	 CLOCK: [2014-10-25 Sat 11:15]--[2014-10-25 Sat 12:40] =>  1:25
-	 CLOCK: [2014-10-23 Thu 12:55]--[2014-10-23 Thu 13:40] =>  0:45
-	 CLOCK: [2014-10-23 Thu 11:00]--[2014-10-23 Thu 12:25] =>  1:25
-	 :END:
-******* TODO Harnack inequality
-******* TODO Ambient convexity
-******** TODO Convex cones
-********* NEXT Convex in sphere iff cone is convex in Euclidean
-********* NEXT Convex cone universal
-If $K = \tilde{K} \intersect \sphere^n$, then $\tilde{K} \subset $\text{cone} (K)$ where $\text{cone} (K)$ is the cone through $K$ with vertex the origin.
-******** NEXT Ambient non-collapsing
-- Like Brendle, take curvature balls in the ambient space. Are these then curvature balls for the cone? Can we therefore do it all in Euclidean space?
-
-******* TODO Space forms
-******** NEXT What happens under quotients?
-******* TODO Comparison
-******** NEXT Investigate possible comparison theory
-******* TODO Convex functions
-******* TODO Polar bodies
-******* TODO Applications
-******** NEXT Contained in a hemisphere
-****** TODO Write paper
-******* TODO Outline
-******** NEXT Create main structure
-******* TODO Sections
-******** TODO Basic convexity
-********* NEXT Characterisation of convexity
-	  :LOGBOOK:
-	  CLOCK: [2014-12-04 Thu 16:40]--[2014-12-04 Thu 17:35] =>  0:55
-	  :END:
-- geodesics joining any two points
-********* NEXT Boundary structure
-- positive curvature
-********* NEXT supporting hyperplanes
-********* NEXT Gauss map
-********* NEXT Graph
-******** TODO Support function
-********* NEXT Definition using ambient space
-- like Heintze, Alencar/Frensel
-********* NEXT Harnack inequality
-********* NEXT Parametrising by support function
-********* NEXT Laplacian
-	  :LOGBOOK:
-	  CLOCK: [2015-01-15 Thu 19:37]--[2015-01-15 Thu 20:22] =>  0:45
-	  CLOCK: [2015-01-15 Thu 18:59]--[2015-01-15 Thu 19:34] =>  0:35
-	  :END:
-******** TODO Harnack inequality
-******** TODO Connection with cones in ambient space
-******** TODO Applications
-********* NEXT Lies in a hemisphere
-******* TODO Proof reading
 **** TODO Ricci Isoprofile Comparison
      :PROPERTIES:
      :ID:       39603eb5-2bec-4118-a705-a5287b9d5ad2
