@@ -16952,6 +16952,9 @@ Abstract:
 **** Seminar with Ben Chow
 - APM 6218
 ***** NEXT Ben Chow meeting
+      :LOGBOOK:
+      CLOCK: [2015-01-20 Tue 10:33]
+      :END:
       :PROPERTIES:
       :Effort:   1:30
       :END:
