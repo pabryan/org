@@ -6766,20 +6766,23 @@ https://academicjobsonline.org/ajo/jobs/4242
 http://worklife.columbia.edu/temporary-housing-options#section0
 http://www.chelsmore.com/rates/
 **** Tasks
-***** NEXT Apply for credit
+***** DONE Apply for credit
       :LOGBOOK:
+      - State "DONE"       from "NEXT"       [2015-01-20 Tue 19:16]
       CLOCK: [2014-11-06 Thu 20:20]--[2014-11-06 Thu 20:48] =>  0:28
       :END:
 ***** TODO Booking
 ****** NEXT Book flights
+       DEADLINE: <2015-01-21 Wed>
 ****** DONE Book hotel
        DEADLINE: <2014-12-01 Mon>
        :LOGBOOK:
        - State "DONE"       from "NEXT"       [2014-12-02 Tue 10:42]
        CLOCK: [2014-11-07 Fri 08:45]--[2014-11-07 Fri 10:00] =>  1:15
        :END:
-***** TODO Planning
+***** DONE Planning
       :LOGBOOK:
+      - State "DONE"       from "TODO"       [2015-01-20 Tue 19:16]
       CLOCK: [2014-11-23 Sun 18:09]--[2014-11-23 Sun 18:12] =>  0:03
       :END:
 ****** DONE Plan stops and dates
@@ -6787,6 +6790,9 @@ http://www.chelsmore.com/rates/
        - State "DONE"       from "NEXT"       [2014-11-23 Sun 18:09]
        CLOCK: [2014-11-23 Sun 17:07]--[2014-11-23 Sun 18:09] =>  1:02
        :END:
+***** TODO Payments
+****** NEXT Pay hotel
+       DEADLINE: <2015-01-21 Wed>
 **** Schedule
 - Fly to NYC: 23/5
 - NYC: 22/5-23/6
@@ -6804,6 +6810,11 @@ http://www.chelsmore.com/rates/
 **** Schedule
 ***** Visit Hannover
 [2015-10-01 Thu]--[2015-12-31 Thu]
+*** Vienna
+**** Tasks
+***** TODO Book flights
+      DEADLINE: <2015-01-21 Wed>
+
 * Personal Website
   :PROPERTIES:
   :ID:       05f896fc-0400-4ac3-bfef-5e3c5457fd02
