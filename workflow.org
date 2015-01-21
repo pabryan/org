@@ -5205,9 +5205,10 @@ When I set up scoring the day:
 - [ ] Do short tasks
 - [ ] Record morning health stats
 
-** NEXT Weekly Review [19/20]
-   SCHEDULED: <2015-01-09 Fri +1w>
+** NEXT Weekly Review [0/20]
+   SCHEDULED: <2015-01-16 Fri +1w>
    :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2015-01-20 Tue 20:42]
    CLOCK: [2015-01-20 Tue 19:13]--[2015-01-20 Tue 19:26] =>  0:13
    - State "DONE"       from "NEXT"       [2015-01-04 Sun 19:12]
    CLOCK: [2014-12-30 Tue 14:04]--[2014-12-30 Tue 14:17] =>  0:13
@@ -5361,64 +5362,64 @@ When I set up scoring the day:
    :REPEAT_TO_STATE: NEXT
    :ID:       846c05fa-21d7-4e6f-8431-a1fa06631945
    :RESET_CHECK_BOXES: t
-   :LAST_REPEAT: [2015-01-04 Sun 19:12]
+   :LAST_REPEAT: [2015-01-20 Tue 20:42]
    :END:
 
-- [X] Check holding directory
+- [ ] Check holding directory
   [[file:~/holding]]
-- [X] Check holding email folder
-- [X] Review weekly agenda =F12 a w//=
-- [X] Check clocking data for past week =v c=
+- [ ] Check holding email folder
+- [ ] Review weekly agenda =F12 a w//=
+- [ ] Check clocking data for past week =v c=
   - fix up any errors
-- [X] Review clock report for past week =R=
+- [ ] Review clock report for past week =R=
   - Check where we spent time (too much or too little) and rectify this week
-- [X] Look at entire agenda for today  =F12 SPC=
-- [X] Check un-committed work
-- [X] Refile tasks
-- [-] Weekly clean up
+- [ ] Look at entire agenda for today  =F12 SPC=
+- [ ] Check un-committed work
+- [ ] Refile tasks
+- [ ] Weekly clean up
   - [ ] Clean up Downloads
-  - [X] Clean up tmp
-  - [X] Clean up tablet
-  - [X] Clean up phone
-- [X] Process incoming information
-  - [X] feedly
-  - [X] pocket
-- [X] Plan the upcoming week
+  - [ ] Clean up tmp
+  - [ ] Clean up tablet
+  - [ ] Clean up phone
+- [ ] Process incoming information
+  - [ ] feedly
+  - [ ] pocket
+- [ ] Plan the upcoming week
   - Theme your days: teaching, admin/service, research, students, writing
   - [[file:daythemes.org][file:~/org/daythemes.org]]
-  - [X] Schedule tasks for the week. See [[file:goals.org::*Weekly%20time][Weekly time]].
-    - [X] Teaching
-      - [X] lecture planning
-      - [X] exam writing
-      - [X] office hours
-      - [X] lectures
-      - [X] online discussion (piazza)
-      - [X] blog
-      - [X] general admin
-    - [X] Research
-      - [X] writing	
-      - [X] calculation
-      - [X] reading
-      - [X] finding references
-    - [X] Coding
-      - [X] for projects
-      - [X] plots   
-    - [X] Organisation
-      - [X] Weekly review: Friday afternoon's!
-      - [X] Project planning
-- [X] Review focus projects 
-- [X] Set focus
-- [X] Check follow-up paper folder
-- [X] Collate the weeks: pad scribbles, org-mode notes, phone notes, etc.
-- [X] Check Finances
+  - [ ] Schedule tasks for the week. See [[file:goals.org::*Weekly%20time][Weekly time]].
+    - [ ] Teaching
+      - [ ] lecture planning
+      - [ ] exam writing
+      - [ ] office hours
+      - [ ] lectures
+      - [ ] online discussion (piazza)
+      - [ ] blog
+      - [ ] general admin
+    - [ ] Research
+      - [ ] writing	
+      - [ ] calculation
+      - [ ] reading
+      - [ ] finding references
+    - [ ] Coding
+      - [ ] for projects
+      - [ ] plots   
+    - [ ] Organisation
+      - [ ] Weekly review: Friday afternoon's!
+      - [ ] Project planning
+- [ ] Review focus projects 
+- [ ] Set focus
+- [ ] Check follow-up paper folder
+- [ ] Collate the weeks: pad scribbles, org-mode notes, phone notes, etc.
+- [ ] Check Finances
   - Check bank accounts and compare with what's still to come
   - Plan the weeks budget
   - Update monthly transactions
-- [X] Copy music to phone
-- [X] Share photos on Google+
-- [X] Update Abundant Harvest order
+- [ ] Copy music to phone
+- [ ] Share photos on Google+
+- [ ] Update Abundant Harvest order
   - http://www.abundantharvestorganics.com/
-- [X] Order meat
+- [ ] Order meat
   - http://www.son-riseranchstore.com/
 
 ** NEXT Monthly (Quarterly?) Plan/Review [0/16]
