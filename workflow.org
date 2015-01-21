@@ -1831,7 +1831,6 @@ http://gmane.org
   CLOCK: [2015-01-20 Tue 14:03]--[2015-01-20 Tue 14:10] =>  0:07
   CLOCK: [2015-01-20 Tue 11:48]--[2015-01-20 Tue 11:51] =>  0:03
   CLOCK: [2015-01-20 Tue 10:17]--[2015-01-20 Tue 10:33] =>  0:16
-  CLOCK: [2015-01-20 Tue 10:16]--[2015-01-20 Tue 10:17] =>  0:01
   CLOCK: [2015-01-19 Mon 16:26]--[2015-01-19 Mon 16:29] =>  0:03
   CLOCK: [2015-01-19 Mon 10:03]--[2015-01-19 Mon 10:08] =>  0:05
   CLOCK: [2015-01-16 Fri 11:50]--[2015-01-16 Fri 11:54] =>  0:04
@@ -3704,6 +3703,7 @@ Check how I did last month. I guess the review and plan could probably go togeth
 ** NEXT Daily Review [0/10]
    SCHEDULED: <2015-01-20 Tue .+1d/2d>
    :LOGBOOK:
+   CLOCK: [2015-01-20 Tue 18:38]
    - State "DONE"       from "NEXT"       [2015-01-19 Mon 16:27]
    - State "DONE"       from "NEXT"       [2015-01-16 Fri 17:53]
    CLOCK: [2015-01-16 Fri 17:38]--[2015-01-16 Fri 17:53] =>  0:15
