@@ -17144,8 +17144,12 @@ Mandeville Suite
   :END:
 [2013-11-08 Fri 13:28]
 ** International center
-*** NEXT Get travel signature
+*** WAITING Get travel signature
     DEADLINE: <2015-01-16 Fri>
+    :LOGBOOK:
+    - State "WAITING"    from "NEXT"       [2015-01-20 Tue 17:02] \\
+      Waiting for the international office to sign it.
+    :END:
 * Grants
 ** Simons Travel grants
 *** DONE 2014 Simons Grant
