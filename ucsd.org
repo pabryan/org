@@ -14727,7 +14727,16 @@ Lectures in calendar and tasks like planning lectures.
 	  :END:
 	  <2015-01-21 Wed 17:00-17:30>
 ********* TODO Plan midterm 2
+	  :PROPERTIES:
+	  :Effort:   0:30
+	  :END:
+	  <2015-02-11 Wed 17:00-17:30>
 ********* TODO Plan final
+	  :PROPERTIES:
+	  :Effort:   1:00
+	  :END:
+	  <2015-03-04 Wed 17:00-18:00>
+
 ***** TODO Math142B
 ****** Files
 [[file:~/working/ucsd/teaching/2015/winter/math142b_winter_2015]] 
