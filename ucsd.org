@@ -15072,6 +15072,14 @@ Lectures in calendar and tasks like planning lectures.
 	  :PROPERTIES:
 	  :Effort:   0:30
 	  :END:
+********* NEXT Write sample solutions
+	  :LOGBOOK:
+	  CLOCK: [2015-01-22 Thu 10:52]--[2015-01-22 Thu 10:57] =>  0:05
+	  :END:
+	  :PROPERTIES:
+	  :Effort:   1:00
+	  :END:
+
 ******** TODO Midterm 2
 ********* NEXT Write midterm 2
 	  DEADLINE: <2015-02-13 Fri>
@@ -16982,6 +16990,9 @@ Abstract:
 	:END:
 	<2015-01-15 Thu 11:00-12:00>
 ******* NEXT GMT Meeting
+	:LOGBOOK:
+	CLOCK: [2015-01-22 Thu 10:57]
+	:END:
 	<2015-01-22 Thu 11:00-12:00>
 ******* NEXT GMT Meeting
 	<2015-01-29 Thu 11:00-12:00>
