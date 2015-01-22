@@ -15072,8 +15072,10 @@ Lectures in calendar and tasks like planning lectures.
 	  :PROPERTIES:
 	  :Effort:   0:30
 	  :END:
-********* NEXT Write sample solutions
+********* DONE Write sample solutions
 	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2015-01-22 Thu 13:23]
+	  CLOCK: [2015-01-22 Thu 12:21]--[2015-01-22 Thu 13:23] =>  1:02
 	  CLOCK: [2015-01-22 Thu 10:52]--[2015-01-22 Thu 10:57] =>  0:05
 	  :END:
 	  :PROPERTIES:
