@@ -14720,9 +14720,10 @@ Lectures in calendar and tasks like planning lectures.
 	  :Effort:   0:30
 	  :END:
 <2015-01-07 Wed 09:10-09:40>
-********* NEXT Plan midterm 1
+********* DONE Plan midterm 1
 	  :LOGBOOK:
-	  CLOCK: [2015-01-21 Wed 16:54]
+	  - State "DONE"       from "NEXT"       [2015-01-21 Wed 18:00]
+	  CLOCK: [2015-01-21 Wed 16:54]--[2015-01-21 Wed 18:00] =>  1:06
 	  :END:
 	  <2015-01-21 Wed 17:00-17:30>
 ********* TODO Plan midterm 2
