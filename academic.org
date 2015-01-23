@@ -3941,6 +3941,24 @@ https://numrel.aei.mpg.de/people/radice
 ******** NEXT Create manifold interface
 ******* Riemannian Manifold
 ***** References
+**** TODO Vector symmetric functions
+     :PROPERTIES:
+     :ID:       adf7480b-29ba-496c-9a32-b580cf9937ce
+     :END:
+***** Tasks
+****** NEXT Look up Emmanual Briand's review
+       :PROPERTIES:
+       :ID:       f4d890c0-78df-4ef5-bf62-07fc743a2356
+       :END:
+***** Meetings
+****** Eric Weise
+******* Meet Eric
+	 :LOGBOOK:
+	 CLOCK: [2015-01-21 Wed 14:25]--[2015-01-21 Wed 15:00] =>  0:35
+	 :END:
+<2015-01-21 Wed 14:00-15:00>
+******* Meet Eric
+	<2015-01-27 Tue 13:00-14:00>
 *** Future 							    :SOMEDAY:
 **** TODO Riemannian manifolds
 ***** Tasks
@@ -4010,22 +4028,6 @@ https://numrel.aei.mpg.de/people/radice
   :END:
 [2013-08-02 Fri 09:33]
 In particular I want the combinatorial algebra
-***** TODO Vector symmetric functions
-      :PROPERTIES:
-      :ID:       adf7480b-29ba-496c-9a32-b580cf9937ce
-      :END:
-****** Tasks
-******* NEXT Look up Emmanual Briand's review
-       	:PROPERTIES:
-       	:ID:       f4d890c0-78df-4ef5-bf62-07fc743a2356
-       	:END:
-****** Meetings
-******* Eric Weise
-******** Meet Eric
-	 :LOGBOOK:
-	 CLOCK: [2015-01-21 Wed 14:25]--[2015-01-21 Wed 15:00] =>  0:35
-	 :END:
-<2015-01-21 Wed 14:00-15:00>
 ** Tasks
 *** TODO Organise research papers    
     :PROPERTIES:
