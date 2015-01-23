@@ -6495,7 +6495,7 @@ http://www.uni-freiburg.de/administration/stellenboerse?erf=y&stellenid=8792&lay
 - Contact: [[mailto:sci-maths-jobs@monash.edu]]
 - [[file:~/working/academic/jobs/job_applications/monash_524967]]
 
-***** DONE Warwick
+***** DONE Warwick Asst./Assoc. Prof.
       DEADLINE: <2014-10-12 Sun>
       :LOGBOOK:
       - State "DONE"       from "NEXT"       [2014-10-04 Sat 15:01]
@@ -6504,13 +6504,18 @@ http://www.uni-freiburg.de/administration/stellenboerse?erf=y&stellenid=8792&lay
       CLOCK: [2014-10-03 Fri 17:10]--[2014-10-03 Fri 17:55] =>  0:45
       :END:
 https://www.mathjobs.org/jobs/jobs/6132
-***** DONE Warwick
+***** TODO Warwick Postdoc
       DEADLINE: <2014-12-08 Mon>
       :LOGBOOK:
       - State "DONE"       from "NEXT"       [2014-11-23 Sun 18:48]
       CLOCK: [2014-11-23 Sun 18:20]--[2014-11-23 Sun 18:48] =>  0:28
       :END:
 https://atsv7.wcn.co.uk/search_engine/jobs.cgi?owner=5062452&ownertype=fair&jcode=1444672&vt_template=1457&adminview=1
+****** NEXT Skype call with Peter Topping
+       :LOGBOOK:
+       CLOCK: [2015-01-23 Fri 12:30]--[2015-01-23 Fri 13:00] =>  0:30
+       :END:
+       <2015-01-23 Fri 12:30-13:00>
 ***** CANCELLED Maquarie
       :LOGBOOK:
       - State "CANCELLED"  from "NEXT"       [2014-11-07 Fri 11:18] \\

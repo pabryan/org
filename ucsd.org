@@ -15320,9 +15320,6 @@ Lectures in calendar and tasks like planning lectures.
 	  :END:
 
 ******** TODO Week 3
-	 :LOGBOOK:
-	 CLOCK: [2015-01-23 Fri 14:31]
-	 :END:
 ********* DONE Lecture 3.1
 	  SCHEDULED: <2015-01-19 Mon 13:00-14:00>
 	  :LOGBOOK:
