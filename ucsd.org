@@ -14481,8 +14481,12 @@ Lectures in calendar and tasks like planning lectures.
 	  :Effort:   1:30
 	  :END:
 
-********* TODO Lecture 3.3
+********* DONE Lecture 3.3
 	  SCHEDULED: <2015-01-23 Fri 10:00-11:00>
+	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2015-01-23 Fri 11:28]
+	  CLOCK: [2015-01-23 Fri 09:55]--[2015-01-23 Fri 11:15] =>  1:20
+	  :END:
 	  :PROPERTIES:
 	  :Effort:   1:30
 	  :END:
@@ -15915,6 +15919,7 @@ https://apply.embark.com/orecs/
 User ID: PBryan38
 Password: 6837
 **** TODO Brian Lin
+     DEADLINE: <2015-01-25 Sun>
 ***** NEXT Write letter
 ***** TODO Send letter to admissions@atlanticbridge.com
 *** Undergraduate projects
