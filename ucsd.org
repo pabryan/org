@@ -14356,9 +14356,10 @@ Lectures in calendar and tasks like planning lectures.
 	 :PROPERTIES:
 	 :Effort:   1:00
 	 :END:
-******** NEXT Piazza Week 3
+******** DONE Piazza Week 3
 	 SCHEDULED: <2015-01-19 Mon>
 	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2015-01-24 Sat 20:40]
 	 CLOCK: [2015-01-19 Mon 15:25]--[2015-01-19 Mon 16:10] =>  0:45
 	 :END:
 	 :PROPERTIES:
@@ -14877,17 +14878,23 @@ Lectures in calendar and tasks like planning lectures.
 	   :Effort:   1:00
 	   :END:
 ********* TODO Week 4
-********** NEXT Prepare lec 4.1
+********** DONE Prepare lec 4.1
 	   SCHEDULED: <2015-01-19 Mon>
 	   :LOGBOOK:
+	   - State "DONE"       from "NEXT"       [2015-01-24 Sat 20:40]
 	   CLOCK: [2015-01-23 Fri 11:56]--[2015-01-23 Fri 12:27] =>  0:31
 	   :END:
 	   :PROPERTIES:
 	   :Effort:   1:00
 	   :END:
 
-********** NEXT Prepare lec 4.2
+********** DONE Prepare lec 4.2
 	   SCHEDULED: <2015-01-19 Mon>
+	   :LOGBOOK:
+	   - State "DONE"       from "NEXT"       [2015-01-24 Sat 20:41]
+	   - State "DONE"       from "NEXT"       [2015-01-24 Sat 20:40]
+	   CLOCK: [2015-01-24 Sat 09:45]--[2015-01-24 Sat 10:15] =>  0:30
+	   :END:
 	   :PROPERTIES:
 	   :Effort:   1:00
 	   :END:
@@ -15212,9 +15219,10 @@ Lectures in calendar and tasks like planning lectures.
 	 :PROPERTIES:
 	 :Effort:   0:30
 	 :END:
-******** NEXT Piazza Week 3
+******** DONE Piazza Week 3
 	 SCHEDULED: <2015-01-19 Mon>
 	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2015-01-24 Sat 20:40]
 	 CLOCK: [2015-01-19 Mon 16:10]--[2015-01-19 Mon 16:26] =>  0:16
 	 :END:
 	 :PROPERTIES:
@@ -15928,7 +15936,7 @@ https://apply.gsas.columbia.edu/refer/?6925334213259829
 https://apply.embark.com/orecs/
 User ID: PBryan38
 Password: 6837
-**** TODO Brian Lin
+**** NEXT Brian Lin
      DEADLINE: <2015-01-25 Sun>
 ***** NEXT Write letter
 ***** TODO Send letter to admissions@atlanticbridge.com

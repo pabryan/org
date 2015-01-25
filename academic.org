@@ -6504,9 +6504,10 @@ http://www.uni-freiburg.de/administration/stellenboerse?erf=y&stellenid=8792&lay
       CLOCK: [2014-10-03 Fri 17:10]--[2014-10-03 Fri 17:55] =>  0:45
       :END:
 https://www.mathjobs.org/jobs/jobs/6132
-***** TODO Warwick Postdoc
+***** DONE Warwick Postdoc
       DEADLINE: <2014-12-08 Mon>
       :LOGBOOK:
+      - State "DONE"       from "TODO"       [2015-01-24 Sat 20:40]
       - State "DONE"       from "NEXT"       [2014-11-23 Sun 18:48]
       CLOCK: [2014-11-23 Sun 18:20]--[2014-11-23 Sun 18:48] =>  0:28
       :END:
@@ -6808,8 +6809,11 @@ http://www.chelsmore.com/rates/
        CLOCK: [2014-11-23 Sun 17:07]--[2014-11-23 Sun 18:09] =>  1:02
        :END:
 ***** TODO Payments
-****** NEXT Pay hotel
+****** DONE Pay hotel
        DEADLINE: <2015-01-25 Sun>
+       :LOGBOOK:
+       - State "DONE"       from "NEXT"       [2015-01-24 Sat 20:40]
+       :END:
 **** Schedule
 - Fly to NYC: 23/5
 - NYC: 22/5-23/6
