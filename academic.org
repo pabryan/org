@@ -1900,8 +1900,12 @@ Marsden et. al. book
 	 CLOCK: [2014-10-07 Tue 15:10]--[2014-10-07 Tue 15:25] =>  0:15
 	 :END:
 ****** TODO Admin
-******* NEXT Follow up with Steve Roberts
+******* WAITING Follow up with Steve Roberts
        	 SCHEDULED: <2015-02-01 Sun>
+	 :LOGBOOK:
+	 - State "WAITING"    from "NEXT"       [2015-01-26 Mon 08:42] \\
+	   Waiting on steve.
+	 :END:
 ******* NEXT Find place to publish
 ****** TODO Maths
 ******* NEXT Sort out velocity field/particle velocity
