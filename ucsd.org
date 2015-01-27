@@ -14120,10 +14120,6 @@ Lectures in calendar and tasks like planning lectures.
 	   :Effort:   1:00
 	   :END:
 ********* TODO Week 5
-	  :LOGBOOK:
-	  CLOCK: [2015-01-26 Mon 17:06]--[2015-01-26 Mon 17:07] =>  0:01
-	  CLOCK: [2015-01-26 Mon 16:53]--[2015-01-26 Mon 16:54] =>  0:01
-	  :END:
 ********** DONE Prepare lec 5.1
 	   SCHEDULED: <2015-01-26 Mon>
 	   :LOGBOOK:
