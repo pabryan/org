@@ -14121,7 +14121,7 @@ Lectures in calendar and tasks like planning lectures.
 	   :END:
 ********* TODO Week 5
 	  :LOGBOOK:
-	  CLOCK: [2015-01-26 Mon 17:06]
+	  CLOCK: [2015-01-26 Mon 17:06]--[2015-01-26 Mon 17:07] =>  0:01
 	  CLOCK: [2015-01-26 Mon 16:53]--[2015-01-26 Mon 16:54] =>  0:01
 	  :END:
 ********** DONE Prepare lec 5.1
@@ -14386,6 +14386,7 @@ Lectures in calendar and tasks like planning lectures.
 ******** NEXT Piazza Week 4
 	 SCHEDULED: <2015-01-26 Mon>
 	 :LOGBOOK:
+	 CLOCK: [2015-01-26 Mon 17:07]--[2015-01-26 Mon 17:24] =>  0:17
 	 CLOCK: [2015-01-26 Mon 08:44]--[2015-01-26 Mon 08:53] =>  0:09
 	 :END:
 	 :PROPERTIES:
