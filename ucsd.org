@@ -14255,6 +14255,9 @@ Lectures in calendar and tasks like planning lectures.
 	  :PROPERTIES:
 	  :Effort:   0:30
 	  :END:
+********* NEXT Organise Proctors
+	  DEADLINE: <2015-01-28 Wed>
+
 ******** TODO Midterm 2
 ********* NEXT Write midterm 2 proposal
 	  DEADLINE: <2015-02-13 Fri>
@@ -17081,9 +17084,10 @@ Abstract:
       :Effort:   1:30
       :END:
       <2015-01-20 Tue 10:30-12:00>
-***** NEXT Ben Chow meeting
+***** DONE Ben Chow meeting
       :LOGBOOK:
-      CLOCK: [2015-01-27 Tue 11:01]
+      - State "DONE"       from "NEXT"       [2015-01-27 Tue 12:08]
+      CLOCK: [2015-01-27 Tue 11:01]--[2015-01-27 Tue 12:08] =>  1:07
       :END:
       :PROPERTIES:
       :Effort:   1:30
