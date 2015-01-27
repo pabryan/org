@@ -15973,8 +15973,11 @@ https://apply.gsas.columbia.edu/refer/?6925334213259829
 https://apply.embark.com/orecs/
 User ID: PBryan38
 Password: 6837
-**** NEXT Brian Lin
+**** TODO Brian Lin
      DEADLINE: <2015-01-25 Sun>
+     :LOGBOOK:
+     CLOCK: [2015-01-27 Tue 10:50]--[2015-01-27 Tue 11:01] =>  0:11
+     :END:
 ***** NEXT Write letter
 ***** TODO Send letter to admissions@atlanticbridge.com
 *** Undergraduate projects
@@ -17078,7 +17081,10 @@ Abstract:
       :Effort:   1:30
       :END:
       <2015-01-20 Tue 10:30-12:00>
-***** TODO Ben Chow meeting
+***** NEXT Ben Chow meeting
+      :LOGBOOK:
+      CLOCK: [2015-01-27 Tue 11:01]
+      :END:
       :PROPERTIES:
       :Effort:   1:30
       :END:
