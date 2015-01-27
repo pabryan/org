@@ -3965,6 +3965,9 @@ https://numrel.aei.mpg.de/people/radice
 	 :END:
 <2015-01-21 Wed 14:00-15:00>
 ******* Meet Eric
+	:LOGBOOK:
+	CLOCK: [2015-01-27 Tue 12:58]
+	:END:
 	<2015-01-27 Tue 13:00-14:00>
 *** Future 							    :SOMEDAY:
 **** TODO Riemannian manifolds
@@ -5004,7 +5007,10 @@ Is there a consistent (say providing ZFC is consistent) set theory without the e
   :END:
 [2014-02-07 Fri 09:40]
 - Put research up there including work in progress/open notebook, my notes to myself, student projects and computational work
+**** NEXT Research 
 *** Notes
+**** Geometric Analysis
+***** NEXT 
 ** Collaborators
 *** Janelle
 **** Appointments
