@@ -14523,7 +14523,7 @@ Lectures in calendar and tasks like planning lectures.
 
 ******** TODO Week 4
 	 :LOGBOOK:
-	 CLOCK: [2015-01-28 Wed 11:11]
+	 CLOCK: [2015-01-28 Wed 11:11]--[2015-01-28 Wed 12:09] =>  0:58
 	 CLOCK: [2015-01-26 Mon 11:11]--[2015-01-26 Mon 11:25] =>  0:14
 	 :END:
 ********* DONE Lecture 4.1
