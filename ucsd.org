@@ -14255,8 +14255,12 @@ Lectures in calendar and tasks like planning lectures.
 	  :PROPERTIES:
 	  :Effort:   0:30
 	  :END:
-********* NEXT Organise Proctors
+********* WAITING Organise Proctors
 	  DEADLINE: <2015-01-28 Wed>
+	  :LOGBOOK:
+	  - State "WAITING"    from "NEXT"       [2015-01-27 Tue 19:47] \\
+	    Sent email notifying them of duties. Waiting to confirm they understand.
+	  :END:
 
 ******** TODO Midterm 2
 ********* NEXT Write midterm 2 proposal
@@ -15976,13 +15980,21 @@ https://apply.gsas.columbia.edu/refer/?6925334213259829
 https://apply.embark.com/orecs/
 User ID: PBryan38
 Password: 6837
-**** TODO Brian Lin
+**** DONE Brian Lin
      DEADLINE: <2015-01-25 Sun>
      :LOGBOOK:
+     - State "DONE"       from "TODO"       [2015-01-27 Tue 19:46]
+     :END:
+***** DONE Write letter
+     :LOGBOOK:
+     - State "DONE"       from "NEXT"       [2015-01-27 Tue 19:46]
      CLOCK: [2015-01-27 Tue 10:50]--[2015-01-27 Tue 11:01] =>  0:11
      :END:
-***** NEXT Write letter
-***** TODO Send letter to admissions@atlanticbridge.com
+
+***** DONE Send letter to admissions@atlanticbridge.com
+      :LOGBOOK:
+      - State "DONE"       from "TODO"       [2015-01-27 Tue 19:46]
+      :END:
 *** Undergraduate projects
 **** Notes
 http://urp.ucsd.edu/
