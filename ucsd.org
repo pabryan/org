@@ -17102,6 +17102,9 @@ Abstract:
 	:END:
 	<2015-01-22 Thu 11:00-12:00>
 ******* NEXT GMT Meeting
+	:LOGBOOK:
+	CLOCK: [2015-01-29 Thu 10:59]
+	:END:
 	<2015-01-29 Thu 11:00-12:00>
 ******* NEXT GMT Meeting
 	<2015-02-05 Thu 11:00-12:00>
