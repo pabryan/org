@@ -17101,9 +17101,10 @@ Abstract:
 	CLOCK: [2015-01-22 Thu 10:57]--[2015-01-22 Thu 12:19] =>  1:22
 	:END:
 	<2015-01-22 Thu 11:00-12:00>
-******* NEXT GMT Meeting
+******* DONE GMT Meeting
 	:LOGBOOK:
-	CLOCK: [2015-01-29 Thu 10:59]
+	- State "DONE"       from "NEXT"       [2015-01-29 Thu 13:12]
+	CLOCK: [2015-01-29 Thu 10:59]--[2015-01-29 Thu 12:10] =>  1:11
 	:END:
 	<2015-01-29 Thu 11:00-12:00>
 ******* NEXT GMT Meeting
