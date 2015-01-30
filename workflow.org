@@ -1830,7 +1830,7 @@ http://gmane.org
   CLOCK: [2015-01-30 Fri 14:53]--[2015-01-30 Fri 15:00] =>  0:07
   CLOCK: [2015-01-30 Fri 13:59]--[2015-01-30 Fri 14:02] =>  0:03
   CLOCK: [2015-01-30 Fri 11:37]--[2015-01-30 Fri 11:39] =>  0:02
-  CLOCK: [2015-01-30 Fri 11:19]--[2015-01-30 Fri 11:37] =>  0:18
+  CLOCK: [2015-01-30 Fri 11:10]--[2015-01-30 Fri 11:37] =>  0:27
   CLOCK: [2015-01-29 Thu 14:11]--[2015-01-29 Thu 14:13] =>  0:02
   CLOCK: [2015-01-29 Thu 10:44]--[2015-01-29 Thu 10:50] =>  0:06
   CLOCK: [2015-01-29 Thu 10:33]--[2015-01-29 Thu 10:36] =>  0:03
@@ -3726,9 +3726,10 @@ Set some goals for the month. I should check someday projects for inclusion in t
 Check how I did last month. I guess the review and plan could probably go together. This is all broad stuff
 
 ** NEXT Daily Review [0/10]
-   SCHEDULED: <2015-01-28 Wed .+1d/2d>
+   SCHEDULED: <2015-01-31 Sat .+1d/2d>
    :LOGBOOK:
-   CLOCK: [2015-01-30 Fri 15:18]
+   - State "DONE"       from "NEXT"       [2015-01-30 Fri 15:21]
+   CLOCK: [2015-01-30 Fri 15:18]--[2015-01-30 Fri 15:21] =>  0:03
    - State "DONE"       from "NEXT"       [2015-01-27 Tue 19:46]
    CLOCK: [2015-01-27 Tue 19:22]--[2015-01-27 Tue 19:46] =>  0:24
    - State "DONE"       from "NEXT"       [2015-01-26 Mon 17:24]
@@ -4228,7 +4229,7 @@ Check how I did last month. I guess the review and plan could probably go togeth
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
    :ID:       616c5bd9-d941-4fcc-8874-2ff3c9e96b4a
-   :LAST_REPEAT: [2015-01-27 Tue 19:46]
+   :LAST_REPEAT: [2015-01-30 Fri 15:21]
    :END:
 
 What to review:
