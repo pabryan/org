@@ -14265,6 +14265,7 @@ Lectures in calendar and tasks like planning lectures.
 ********* NEXT Write rubric
 	  DEADLINE: <2015-01-30 Fri>
 	  :LOGBOOK:
+	  CLOCK: [2015-01-30 Fri 08:33]
 	  CLOCK: [2015-01-29 Thu 21:21]--[2015-01-29 Thu 21:52] =>  0:31
 	  :END:
 ******** TODO Midterm 2
@@ -14394,6 +14395,7 @@ Lectures in calendar and tasks like planning lectures.
 ******** NEXT Piazza Week 4
 	 SCHEDULED: <2015-01-26 Mon>
 	 :LOGBOOK:
+	 CLOCK: [2015-01-30 Fri 08:20]--[2015-01-30 Fri 08:30] =>  0:10
 	 CLOCK: [2015-01-28 Wed 14:10]--[2015-01-28 Wed 14:15] =>  0:05
 	 CLOCK: [2015-01-28 Wed 08:35]--[2015-01-28 Wed 08:52] =>  0:17
 	 CLOCK: [2015-01-26 Mon 17:07]--[2015-01-26 Mon 17:24] =>  0:17
@@ -17326,9 +17328,10 @@ Mandeville Suite
   :END:
 [2013-11-08 Fri 13:28]
 ** International center
-*** WAITING Get travel signature
+*** DONE Get travel signature
     DEADLINE: <2015-01-16 Fri>
     :LOGBOOK:
+    - State "DONE"       from "WAITING"    [2015-01-30 Fri 08:30]
     - State "WAITING"    from "NEXT"       [2015-01-20 Tue 17:02] \\
       Waiting for the international office to sign it.
     :END:
