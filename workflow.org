@@ -1827,7 +1827,7 @@ http://gmane.org
   :END:
 ** Organisation
   :LOGBOOK:
-  CLOCK: [2015-01-30 Fri 14:53]
+  CLOCK: [2015-01-30 Fri 14:53]--[2015-01-30 Fri 15:00] =>  0:07
   CLOCK: [2015-01-30 Fri 13:59]--[2015-01-30 Fri 14:02] =>  0:03
   CLOCK: [2015-01-30 Fri 11:37]--[2015-01-30 Fri 11:39] =>  0:02
   CLOCK: [2015-01-30 Fri 11:19]--[2015-01-30 Fri 11:37] =>  0:18
@@ -3728,6 +3728,7 @@ Check how I did last month. I guess the review and plan could probably go togeth
 ** NEXT Daily Review [0/10]
    SCHEDULED: <2015-01-28 Wed .+1d/2d>
    :LOGBOOK:
+   CLOCK: [2015-01-30 Fri 15:18]
    - State "DONE"       from "NEXT"       [2015-01-27 Tue 19:46]
    CLOCK: [2015-01-27 Tue 19:22]--[2015-01-27 Tue 19:46] =>  0:24
    - State "DONE"       from "NEXT"       [2015-01-26 Mon 17:24]
@@ -4248,8 +4249,9 @@ When I set up scoring the day:
 - [ ] Collate data such as sleep, weight, exercise, diet etc.
 
 ** NEXT Daily Plan [0/8]
-   SCHEDULED: <2015-01-30 Fri .+1d/2d>
+   SCHEDULED: <2015-01-31 Sat .+1d/2d>
    :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2015-01-30 Fri 15:18]
    CLOCK: [2015-01-30 Fri 08:30]--[2015-01-30 Fri 08:33] =>  0:03
    - State "DONE"       from "NEXT"       [2015-01-29 Thu 19:24]
    CLOCK: [2015-01-29 Thu 10:36]--[2015-01-29 Thu 10:44] =>  0:08
@@ -5242,7 +5244,7 @@ When I set up scoring the day:
    :RESET_CHECK_BOXES: t
    :ID:       ef051ee0-1113-4604-b355-450a5a47848b
    
-   :LAST_REPEAT: [2015-01-29 Thu 19:24]
+   :LAST_REPEAT: [2015-01-30 Fri 15:18]
    :END:
 
 - [ ] Check agenda/focus
