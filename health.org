@@ -8,14 +8,15 @@
 
 ** Tracking
 *** NEXT Exercise
-    SCHEDULED: <2015-01-28 Wed .+1d/2d>
+    SCHEDULED: <2015-01-30 Fri .+1d/2d>
     :PROPERTIES:
     :STYLE:    habit
     :REPEAT_TO_STATE: NEXT
     :ID:       8d56b2ef-1b49-4dc4-b701-1d021a293fa4
-    :LAST_REPEAT: [2015-01-27 Tue 10:44]
+    :LAST_REPEAT: [2015-01-29 Thu 19:24]
     :END:
     :LOGBOOK:
+    - State "DONE"       from "NEXT"       [2015-01-29 Thu 19:24]
     - State "DONE"       from "NEXT"       [2015-01-27 Tue 10:44]
     - State "DONE"       from "NEXT"       [2015-01-23 Fri 21:39]
     - State "DONE"       from "NEXT"       [2015-01-22 Thu 19:45]
@@ -976,8 +977,9 @@
     :END:
 
 *** NEXT Daily Release
-    SCHEDULED: <2015-01-25 Sun .+1d/2d>
+    SCHEDULED: <2015-01-30 Fri .+1d/2d>
     :LOGBOOK:
+    - State "DONE"       from "NEXT"       [2015-01-29 Thu 19:24]
     - State "DONE"       from "NEXT"       [2015-01-24 Sat 20:40]
     - State "DONE"       from "NEXT"       [2015-01-23 Fri 21:39]
     - State "DONE"       from "NEXT"       [2015-01-22 Thu 19:45]
@@ -1167,7 +1169,7 @@
     :STYLE:    habit
     :REPEAT_TO_STATE: NEXT
     :ID:       d439600f-c40d-4dd3-82ca-3e7d9e35f2b3
-    :LAST_REPEAT: [2015-01-24 Sat 20:40]
+    :LAST_REPEAT: [2015-01-29 Thu 19:24]
     :END:
   
 *** NEXT Handstand practice
