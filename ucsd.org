@@ -14255,13 +14255,15 @@ Lectures in calendar and tasks like planning lectures.
 	  :PROPERTIES:
 	  :Effort:   0:30
 	  :END:
-********* WAITING Organise Proctors
+********* DONE Organise Proctors
 	  DEADLINE: <2015-01-28 Wed>
 	  :LOGBOOK:
+	  - State "DONE"       from "WAITING"    [2015-01-29 Thu 19:36]
 	  - State "WAITING"    from "NEXT"       [2015-01-27 Tue 19:47] \\
 	    Sent email notifying them of duties. Waiting to confirm they understand.
 	  :END:
-
+********* TODO Write rubric
+	  DEADLINE: <2015-01-30 Fri>
 ******** TODO Midterm 2
 ********* NEXT Write midterm 2 proposal
 	  DEADLINE: <2015-02-13 Fri>
@@ -14669,7 +14671,11 @@ Lectures in calendar and tasks like planning lectures.
 	  :END:
 
 ******* TODO Exams
-******** NEXT Midterm 1
+******** DONE Midterm 1
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2015-01-29 Thu 19:36]
+	 CLOCK: [2015-01-29 Thu 19:24]--[2015-01-29 Thu 21:15] =>  1:51
+	 :END:
 	 <2015-01-29 Thu 19:20-21:15>
 	 :PROPERTIES:
 	 :Effort:   1:30
