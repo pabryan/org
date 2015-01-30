@@ -1827,7 +1827,8 @@ http://gmane.org
   :END:
 ** Organisation
   :LOGBOOK:
-  CLOCK: [2015-01-30 Fri 11:19]
+  CLOCK: [2015-01-30 Fri 11:37]
+  CLOCK: [2015-01-30 Fri 11:19]--[2015-01-30 Fri 11:37] =>  0:18
   CLOCK: [2015-01-29 Thu 14:11]--[2015-01-29 Thu 14:13] =>  0:02
   CLOCK: [2015-01-29 Thu 10:44]--[2015-01-29 Thu 10:50] =>  0:06
   CLOCK: [2015-01-29 Thu 10:33]--[2015-01-29 Thu 10:36] =>  0:03
@@ -5252,7 +5253,7 @@ When I set up scoring the day:
 - [ ] Do short tasks
 - [ ] Record morning health stats
 
-** NEXT Weekly Review [0/20]
+** NEXT Weekly Review [0/21]
    SCHEDULED: <2015-01-16 Fri +1w>
    :LOGBOOK:
    - State "DONE"       from "NEXT"       [2015-01-20 Tue 20:42]
@@ -5415,6 +5416,7 @@ When I set up scoring the day:
 - [ ] Check holding directory
   [[file:~/holding]]
 - [ ] Check holding email folder
+- [ ] Check coupons email folder
 - [ ] Review weekly agenda =F12 a w//=
 - [ ] Check clocking data for past week =v c=
   - fix up any errors
