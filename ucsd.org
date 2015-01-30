@@ -14262,8 +14262,11 @@ Lectures in calendar and tasks like planning lectures.
 	  - State "WAITING"    from "NEXT"       [2015-01-27 Tue 19:47] \\
 	    Sent email notifying them of duties. Waiting to confirm they understand.
 	  :END:
-********* TODO Write rubric
+********* NEXT Write rubric
 	  DEADLINE: <2015-01-30 Fri>
+	  :LOGBOOK:
+	  CLOCK: [2015-01-29 Thu 21:21]
+	  :END:
 ******** TODO Midterm 2
 ********* NEXT Write midterm 2 proposal
 	  DEADLINE: <2015-02-13 Fri>
@@ -14674,7 +14677,7 @@ Lectures in calendar and tasks like planning lectures.
 ******** DONE Midterm 1
 	 :LOGBOOK:
 	 - State "DONE"       from "NEXT"       [2015-01-29 Thu 19:36]
-	 CLOCK: [2015-01-29 Thu 19:24]--[2015-01-29 Thu 21:15] =>  1:51
+	 CLOCK: [2015-01-29 Thu 19:24]--[2015-01-29 Thu 21:20] =>  1:56
 	 :END:
 	 <2015-01-29 Thu 19:20-21:15>
 	 :PROPERTIES:
