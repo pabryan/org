@@ -295,8 +295,9 @@ Use account A11078844
 [[https://act.ucsd.edu/studentBilling/billing]]
 
 *** NEXT Pay ATT
-    SCHEDULED: <2015-02-01 Sun +1m -0d> 
+    SCHEDULED: <2015-03-01 Sun +1m -0d> 
     :LOGBOOK:
+    - State "DONE"       from "NEXT"       [2015-02-01 Sun 12:23]
     - State "DONE"       from "NEXT"       [2015-01-01 Thu 12:34]
     - State "DONE"       from "TODO"       [2014-11-29 Sat 11:52]
     - State "DONE"       from "TODO"       [2014-11-01 Sat 11:19]
@@ -322,7 +323,7 @@ Use account A11078844
     :END:
     :PROPERTIES:
     :REPEAT_TO_STATE: NEXT
-    :LAST_REPEAT: [2015-01-01 Thu 12:34]
+    :LAST_REPEAT: [2015-02-01 Sun 12:23]
     :ID:       137987c4-8151-42f0-bfad-b1e06d2cd512
     :END:
 [[http://www.att.com/]]
