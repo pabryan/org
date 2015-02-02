@@ -14162,17 +14162,22 @@ Lectures in calendar and tasks like planning lectures.
 	   :Effort:   1:00
 	   :END:
 
-********** NEXT Prepare lec 6.2
+********** DONE Prepare lec 6.2
 	   SCHEDULED: <2015-02-02 Mon>
 	   :LOGBOOK:
-	   CLOCK: [2015-02-02 Mon 14:26]
+	   - State "DONE"       from "NEXT"       [2015-02-02 Mon 15:08]
+	   CLOCK: [2015-02-02 Mon 14:26]--[2015-02-02 Mon 14:50] =>  0:24
 	   :END:
 	   :PROPERTIES:
 	   :Effort:   1:00
 	   :END:
 
-********** NEXT Prepare lec 6.3
+********** DONE Prepare lec 6.3
 	   SCHEDULED: <2015-02-02 Mon>
+	   :LOGBOOK:
+	   - State "DONE"       from "NEXT"       [2015-02-02 Mon 15:09]
+	   CLOCK: [2015-02-02 Mon 14:50]--[2015-02-02 Mon 15:09] =>  0:19
+	   :END:
 	   :PROPERTIES:
 	   :Effort:   1:00
 	   :END:
@@ -14415,8 +14420,11 @@ Lectures in calendar and tasks like planning lectures.
 	 :PROPERTIES:
 	 :Effort:   1:00
 	 :END:
-******** TODO Piazza Week 5
+******** NEXT Piazza Week 5
 	 SCHEDULED: <2015-02-02 Mon>
+	 :LOGBOOK:
+	 CLOCK: [2015-02-02 Mon 15:09]
+	 :END:
 	 :PROPERTIES:
 	 :Effort:   1:00
 	 :END:
