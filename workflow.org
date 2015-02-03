@@ -1827,6 +1827,7 @@ http://gmane.org
   :END:
 ** Organisation
   :LOGBOOK:
+  CLOCK: [2015-02-03 Tue 12:45]
   CLOCK: [2015-02-03 Tue 11:32]--[2015-02-03 Tue 11:44] =>  0:12
   CLOCK: [2015-02-03 Tue 11:08]--[2015-02-03 Tue 11:09] =>  0:01
   CLOCK: [2015-02-02 Mon 15:22]--[2015-02-02 Mon 15:27] =>  0:05
@@ -5273,10 +5274,11 @@ When I set up scoring the day:
 - [ ] Do short tasks
 - [ ] Record morning health stats
 
-** NEXT Weekly Review [3/21]
-   SCHEDULED: <2015-01-16 Fri +1w>
+** NEXT Weekly Review [0/20]
+   SCHEDULED: <2015-01-23 Fri +1w>
    :LOGBOOK:
-   CLOCK: [2015-02-03 Tue 11:44]
+   - State "DONE"       from "NEXT"       [2015-02-03 Tue 12:45]
+   CLOCK: [2015-02-03 Tue 11:44]--[2015-02-03 Tue 12:45] =>  1:01
    - State "DONE"       from "NEXT"       [2015-01-20 Tue 20:42]
    CLOCK: [2015-01-20 Tue 19:13]--[2015-01-20 Tue 19:26] =>  0:13
    - State "DONE"       from "NEXT"       [2015-01-04 Sun 19:12]
@@ -5431,13 +5433,13 @@ When I set up scoring the day:
    :REPEAT_TO_STATE: NEXT
    :ID:       846c05fa-21d7-4e6f-8431-a1fa06631945
    :RESET_CHECK_BOXES: t
-   :LAST_REPEAT: [2015-01-20 Tue 20:42]
+   :LAST_REPEAT: [2015-02-03 Tue 12:45]
    :END:
 
-- [X] Check holding directory
+- [ ] Check holding directory
   [[file:~/holding]]
-- [X] Check holding email folder
-- [X] Check coupons email folder
+- [ ] Check holding email folder
+- [ ] Check coupons email folder
 - [ ] Review weekly agenda =F12 a w//=
 - [ ] Check clocking data for past week =v c=
   - fix up any errors
@@ -5454,6 +5456,22 @@ When I set up scoring the day:
 - [ ] Process incoming information
   - [ ] feedly
   - [ ] pocket
+- [ ] Review focus projects 
+- [ ] Set focus
+- [ ] Check follow-up paper folder
+- [ ] Collate the weeks: pad scribbles, org-mode notes, phone notes, etc.
+- [ ] Check Finances
+  - Check bank accounts and compare with what's still to come
+  - Plan the weeks budget
+  - Update monthly transactions
+- [ ] Copy music to phone
+- [ ] Share photos on Google+
+- [ ] Update Abundant Harvest order
+  - http://www.abundantharvestorganics.com/
+- [ ] Order meat
+  - http://www.son-riseranchstore.com/
+
+*** Maybe tasks
 - [ ] Plan the upcoming week
   - Theme your days: teaching, admin/service, research, students, writing
   - [[file:daythemes.org][file:~/org/daythemes.org]]
@@ -5477,21 +5495,6 @@ When I set up scoring the day:
     - [ ] Organisation
       - [ ] Weekly review: Friday afternoon's!
       - [ ] Project planning
-- [ ] Review focus projects 
-- [ ] Set focus
-- [ ] Check follow-up paper folder
-- [ ] Collate the weeks: pad scribbles, org-mode notes, phone notes, etc.
-- [ ] Check Finances
-  - Check bank accounts and compare with what's still to come
-  - Plan the weeks budget
-  - Update monthly transactions
-- [ ] Copy music to phone
-- [ ] Share photos on Google+
-- [ ] Update Abundant Harvest order
-  - http://www.abundantharvestorganics.com/
-- [ ] Order meat
-  - http://www.son-riseranchstore.com/
-
 ** NEXT Monthly (Quarterly?) Plan/Review [0/16]
    SCHEDULED: <2015-02-01 Sun +1m>
    :LOGBOOK:
