@@ -17197,7 +17197,10 @@ Abstract:
       :Effort:   1:30
       :END:
       <2015-01-27 Tue 10:30-12:00>
-***** TODO Ben Chow meeting
+***** DONE Ben Chow meeting
+      :LOGBOOK:
+      - State "DONE"       from "TODO"       [2015-02-03 Tue 10:38]
+      :END:
       :PROPERTIES:
       :Effort:   1:30
       :END:
