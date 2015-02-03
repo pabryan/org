@@ -7,6 +7,15 @@
   :COLUMNS: %75ITEM %TAGS
   :ID:       070a5918-a137-43c5-af7f-aa1b21d695db
   :END:
+** 05 (1940-now) Combinatorics [For finite fields, see 11Txx]
+*** 05E (1991-now) Algebraic combinatorics
+**** 05E05 (1991-now) Symmetric functions and generalizations
+***** Milne's volume function and vector symmetric polynomials
+:PROPERTIES:
+:Custom_ID: MR2499933
+:END:
+[[papers:MR2499933][MR2499933-paper]]
+[[bib:MR2499933][MR2499933-bib]]
 ** 26 (1940-now) Real functions [See also 54C30]	     :real:functions:
 *** 26D (1980-now) Inequalities [For maximal function inequalities, see 42B25; for functional inequalities, see 39B72; for probabilistic inequalities, see 60E15] :inequaltities:
 **** 26D15 (1980-now) Inequalities for sums, series and integrals :sums:series:integrals:
@@ -1376,6 +1385,15 @@ Here I need to do some more work since $u \mapsto g(\grad u, \grad u)$ is not a 
 :END:
 [[papers:MR2170766][MR2170766-paper]]
 
+** 62 (1940-now) Statistics
+*** 62H (1973-now) Multivariate analysis [See also 60Exx]
+**** 62H12 (1980-now) Estimation
+***** An application of classical invariant theory to identifiability in nonparametric mixtures
+:PROPERTIES:
+:Custom_ID: MR2141286
+:END:
+[[papers:MR2141286][MR2141286-paper]]
+[[bib:MR2141286][MR2141286-bib]]
 ** 65 (1940-now) Numerical analysis
 *** 65.0 (1940-1958) Numerical analysis
 **** Computing machinery and intelligence
@@ -1540,6 +1558,12 @@ Here I need to do some more work since $u \mapsto g(\grad u, \grad u)$ is not a 
 :END:
 [[papers:2010arXiv1007.4392W][2010arXiv1007.4392W-paper]]
 [[bib:2010arXiv1007.4392W][2010arXiv1007.4392W-bib]]
+*** Regularity of higher codimension area minimizing integral currents
+:PROPERTIES:
+:Custom_ID: 2015arXiv150103720S
+:END:
+[[papers:2015arXiv150103720S][2015arXiv150103720S-paper]]
+[[bib:2015arXiv150103720S][2015arXiv150103720S-bib]]
 * Misc
   :PROPERTIES:
   :COLUMNS: %75ITEM %TAGS
