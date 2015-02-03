@@ -2210,8 +2210,11 @@ Catch the 41. Get off at Derrik Dr. after Claremont Mesa and before Balboa.
      :LOGBOOK:
      - State "DONE"       from "NEXT"       [2014-12-16 Tue 11:12]
      :END:
-**** NEXT Follow up on rego late fee
+**** DONE Follow up on rego late fee
      DEADLINE: <2015-02-03 Tue>
+     :LOGBOOK:
+     - State "DONE"       from "NEXT"       [2015-02-03 Tue 11:37]
+     :END:
 
 * Entertainment						      :ENTERTAINMENT:
   :PROPERTIES:
