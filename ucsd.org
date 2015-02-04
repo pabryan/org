@@ -15053,6 +15053,9 @@ Lectures in calendar and tasks like planning lectures.
 
 ********** NEXT Prepare lec 6.3
 	   SCHEDULED: <2015-02-02 Mon>
+	   :LOGBOOK:
+	   CLOCK: [2015-02-04 Wed 12:41]--[2015-02-04 Wed 12:50] =>  0:09
+	   :END:
 	   :PROPERTIES:
 	   :Effort:   1:00
 	   :END:
@@ -15516,8 +15519,11 @@ Lectures in calendar and tasks like planning lectures.
 	  :Effort:   1:00
 	  :END:
 
-********* TODO Lecture 5.2
+********* NEXT Lecture 5.2
 	  SCHEDULED: <2015-02-04 Wed 13:00-14:00>
+	  :LOGBOOK:
+	  CLOCK: [2015-02-04 Wed 12:50]
+	  :END:
 	  :PROPERTIES:
 	  :Effort:   1:00
 	  :END:
