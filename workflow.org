@@ -5276,7 +5276,7 @@ When I set up scoring the day:
 - [ ] Record morning health stats
 
 ** NEXT Weekly Review [0/20]
-   SCHEDULED: <2015-01-23 Fri +1w>
+   SCHEDULED: <2015-02-06 Fri +1w>
    :LOGBOOK:
    - State "DONE"       from "NEXT"       [2015-02-03 Tue 12:45]
    CLOCK: [2015-02-03 Tue 11:44]--[2015-02-03 Tue 12:45] =>  1:01
@@ -5434,7 +5434,7 @@ When I set up scoring the day:
    :REPEAT_TO_STATE: NEXT
    :ID:       846c05fa-21d7-4e6f-8431-a1fa06631945
    :RESET_CHECK_BOXES: t
-   :LAST_REPEAT: [2015-02-03 Tue 12:45]
+   :LAST_REPEAT: [2015-02-03 Tue 17:00]
    :END:
 
 - [ ] Check holding directory
