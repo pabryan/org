@@ -1711,6 +1711,12 @@ This proves the inequality we need.  The remaining problem is to remove the symm
 [[file:refs.org::#MR1424425][Contraction of convex hypersurfaces by their affine normal]]
 [[file:refs.org::#MR1902649][Singularities in crystalline curvature flows]]
 [[file:refs.org::#MR2946930][Contracting convex immersed closed plane curves with slow speed of curvature]]
+***** Meetings
+****** Ben Andrews
+       :LOGBOOK:
+       CLOCK: [2015-02-03 Tue 17:15]--[2015-02-03 Tue 18:30] =>  1:15
+       :END:
+<2015-02-03 Tue 17:00-18:30>
 **** TODO Pipe Flows					  :PIPE_FLOW:WRITING:
    :PROPERTIES:
    :ID:       cf90c8f0-dc09-44d4-87d4-f7000acc2ba1
@@ -1986,6 +1992,8 @@ See [[*Convexity%20in%20space%20forms][Convexity in space forms]] and Urbas' and
 ******* TODO Backwards convergence
 ******* TODO Aleksandrov reflection
 ***** Notes
+****** TODO Check out Killing graphs preserved
+       SCHEDULED: <2015-03-09 Mon>
 ***** Refs
 ***** Meetings
 ****** Ben Chow
@@ -2818,6 +2826,8 @@ CONSTANT ANISOTROPIC MEAN CURVATURE
 If $\exp: T_x N \to N$ is a diffeomorphism (in particular for Cartan-Hadamaard) manifolds, and we have a flow $M_t \subset N^{n+1}$, we can think of this as a flow $M_t \subset \RR^{n+1}$ with metric $\exp^{\star} g$. If the speed of the flow is geometric, then this pulls back to $\RR^{n+1}$. Now, I can define a rescaled flow so the volume remains constant. Then we can ensure by containment, that a point in the region enclosed by the $M_0$ remains in the region enclosed by the rescaled flow $\tilde{M}_t$ for all time and can do the polar dual!
 ****** Ambient Minkowski space
 We would do it all in Minkowski space. I think the vector field gives the distance in Minkowski space to the totally geodesic hypersurface. We can then set up all our dual theory, radial functions and so forth in that ambient space, possibly with an intrinsic interpretation. In this setting we could maybe also do $\sphere^n$? Another interesting point is that we can do a normalised flow, by simultaneously expanding $M_t$ and $\HH^{n+1}$ by rescaling the ambient Minkowski space.
+****** TODO Check out Killing graphs preserved
+       SCHEDULED: <2015-03-09 Mon>
 **** TODO CSF networks 					       :CSF_NETWORKS:
    :PROPERTIES:
    :ID:       1bc93b81-8423-4598-8297-f0b90aa39aa7
