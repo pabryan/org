@@ -1910,9 +1910,10 @@ Marsden et. al. book
 	 CLOCK: [2014-10-07 Tue 15:10]--[2014-10-07 Tue 15:25] =>  0:15
 	 :END:
 ****** TODO Admin
-******* WAITING Follow up with Steve Roberts
+******* DONE Follow up with Steve Roberts
        	 SCHEDULED: <2015-02-01 Sun>
 	 :LOGBOOK:
+	 - State "DONE"       from "WAITING"    [2015-02-06 Fri 08:43]
 	 - State "WAITING"    from "NEXT"       [2015-01-26 Mon 08:42] \\
 	   Waiting on steve.
 	 :END:
