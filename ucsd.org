@@ -14162,6 +14162,7 @@ Lectures in calendar and tasks like planning lectures.
 ********** DONE Prepare lec 6.1
 	   SCHEDULED: <2015-02-02 Mon>
 	   :LOGBOOK:
+	   CLOCK: [2015-02-06 Fri 15:13]--[2015-02-06 Fri 15:41] =>  0:28
 	   CLOCK: [2015-02-06 Fri 11:26]--[2015-02-06 Fri 12:54] =>  1:28
 	   - State "DONE"       from "NEXT"       [2015-02-02 Mon 11:37]
 	   CLOCK: [2015-02-02 Mon 11:21]--[2015-02-02 Mon 11:37] =>  0:16
@@ -16769,7 +16770,7 @@ homeomorphic to S^4 or to a connected sum of CP^2s.
       :END:
       <2015-01-05 Mon 16:00-17:00>
 ***** Thomas Murphy
-<2015-04-23 Thu 10:00-11:00>
+<2015-04-23 Thu 10:00-11:00s>
 *** Tasks
 **** DONE Set up reminder for seminar announcement
     - State "DONE"       from "NEXT"       [2012-11-03 Sat 18:51]
