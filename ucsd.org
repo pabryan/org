@@ -15528,6 +15528,9 @@ Lectures in calendar and tasks like planning lectures.
 	  :END:
 
 ******** TODO Week 5
+	 :LOGBOOK:
+	 CLOCK: [2015-02-06 Fri 14:08]--[2015-02-06 Fri 14:09] =>  0:01
+	 :END:
 ********* DONE Lecture 5.1
 	  :LOGBOOK:
 	  - State "DONE"       from "NEXT"       [2015-02-02 Mon 14:05]
@@ -15548,10 +15551,11 @@ Lectures in calendar and tasks like planning lectures.
 	  :Effort:   1:00
 	  :END:
 
-********* NEXT Lecture 5.3
+********* DONE Lecture 5.3
 	  SCHEDULED: <2015-02-06 Fri 13:00-14:00>
 	  :LOGBOOK:
-	  CLOCK: [2015-02-06 Fri 12:54]
+	  - State "DONE"       from "NEXT"       [2015-02-06 Fri 14:08]
+	  CLOCK: [2015-02-06 Fri 12:54]--[2015-02-06 Fri 14:08] =>  1:14
 	  :END:
 	  :PROPERTIES:
 	  :Effort:   1:00
@@ -16764,6 +16768,8 @@ homeomorphic to S^4 or to a connected sum of CP^2s.
       CLOCK: [2015-01-05 Mon 15:55]--[2015-01-05 Mon 17:07] =>  1:12
       :END:
       <2015-01-05 Mon 16:00-17:00>
+***** Thomas Murphy
+<2015-04-23 Thu 10:00-11:00>
 *** Tasks
 **** DONE Set up reminder for seminar announcement
     - State "DONE"       from "NEXT"       [2012-11-03 Sat 18:51]
