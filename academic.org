@@ -3770,6 +3770,9 @@ This is about convex functions, viscosity solutions, barrier solutions and so fo
      :PROPERTIES:
      :ID:       adf7480b-29ba-496c-9a32-b580cf9937ce
      :END:
+***** Files
+[[file:~/working/external/sage]]
+[[file:~/working/external/sage/src/sage/combinat/vsf]]
 ***** Tasks
 ****** TODO  Mathematics
 ******* NEXT Look up Emmanual Briand's review of code in my emails
