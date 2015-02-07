@@ -3771,14 +3771,18 @@ This is about convex functions, viscosity solutions, barrier solutions and so fo
      :ID:       adf7480b-29ba-496c-9a32-b580cf9937ce
      :END:
 ***** Tasks
-****** NEXT Look up Emmanual Briand's review of code in my emails
-       :PROPERTIES:
-       :ID:       f4d890c0-78df-4ef5-bf62-07fc743a2356
-       :END:
-****** NEXT Study literature
-       :LOGBOOK:
-       CLOCK: [2015-01-30 Fri 14:25]--[2015-01-30 Fri 14:53] =>  0:28
-       :END:
+****** TODO  Mathematics
+******* NEXT Look up Emmanual Briand's review of code in my emails
+       	:PROPERTIES:
+       	:ID:       f4d890c0-78df-4ef5-bf62-07fc743a2356
+       	:END:
+******* NEXT Study literature
+       	:LOGBOOK:
+       	CLOCK: [2015-01-30 Fri 14:25]--[2015-01-30 Fri 14:53] =>  0:28
+       	:END:
+****** TODO Coding
+******* TODO Sage implementation
+******** NEXT Create skeleton code
 ***** Meetings
 ****** Eric Weise
 ******* Meet Eric
