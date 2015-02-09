@@ -15382,8 +15382,11 @@ Lectures in calendar and tasks like planning lectures.
 	 :PROPERTIES:
 	 :Effort:   0:30
 	 :END:
-******** TODO Piazza Week 5
+******** DONE Piazza Week 5
 	 SCHEDULED: <2015-02-02 Mon>
+	 :LOGBOOK:
+	 - State "DONE"       from "TODO"       [2015-02-09 Mon 14:48]
+	 :END:
 	 :PROPERTIES:
 	 :Effort:   0:30
 	 :END:
@@ -16137,6 +16140,10 @@ Password: 6837
       :LOGBOOK:
       - State "DONE"       from "TODO"       [2015-01-27 Tue 19:46]
       :END:
+**** NEXT Rongwei Zhang
+     :LOGBOOK:
+     CLOCK: [2015-02-09 Mon 14:25]
+     :END:
 *** Undergraduate projects
 **** Notes
 http://urp.ucsd.edu/
