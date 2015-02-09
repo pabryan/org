@@ -14795,7 +14795,10 @@ Lectures in calendar and tasks like planning lectures.
 	 :Effort:   2:00
 	 :END:
 
-******** TODO O/H Week 6
+******** NEXT O/H Week 6
+	 :LOGBOOK:
+	 CLOCK: [2015-02-09 Mon 15:00]
+	 :END:
 	 <2015-02-09 Mon 15:00-17:00>
 	 :PROPERTIES:
 	 :Effort:   2:00
@@ -15270,8 +15273,11 @@ Lectures in calendar and tasks like planning lectures.
 	  :PROPERTIES:
 	  :Effort:   0:30
 	  :END:
-********* TODO Write sample
+********* NEXT Write sample
 	  DEADLINE: <2015-02-06 Fri>
+	  :LOGBOOK:
+	  CLOCK: [2015-02-09 Mon 14:49]--[2015-02-09 Mon 15:00] =>  0:11
+	  :END:
 ******** TODO Final
 ********* NEXT Write final
 	  DEADLINE: <2015-03-11 Wed>
@@ -16142,7 +16148,7 @@ Password: 6837
       :END:
 **** NEXT Rongwei Zhang
      :LOGBOOK:
-     CLOCK: [2015-02-09 Mon 14:25]
+     CLOCK: [2015-02-09 Mon 14:25]--[2015-02-09 Mon 14:49] =>  0:24
      :END:
 *** Undergraduate projects
 **** Notes
