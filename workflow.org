@@ -1827,7 +1827,7 @@ http://gmane.org
   :END:
 ** Organisation
   :LOGBOOK:
-  CLOCK: [2015-02-09 Mon 11:47]
+  CLOCK: [2015-02-09 Mon 11:58]--[2015-02-09 Mon 11:59] =>  0:01
   CLOCK: [2015-02-09 Mon 11:20]--[2015-02-09 Mon 11:31] =>  0:11
   CLOCK: [2015-02-06 Fri 15:41]--[2015-02-06 Fri 17:37] =>  1:56
   CLOCK: [2015-02-06 Fri 14:09]--[2015-02-06 Fri 14:37] =>  0:28
@@ -5280,7 +5280,7 @@ When I set up scoring the day:
    :RESET_CHECK_BOXES: t
    :ID:       ef051ee0-1113-4604-b355-450a5a47848b
    
-   :LAST_REPEAT: [2015-02-09 Mon 11:47]
+   :LAST_REPEAT: [2015-02-09 Mon 11:58]
    :END:
 
 - [ ] Check agenda/focus
