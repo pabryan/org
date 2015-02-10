@@ -14797,7 +14797,7 @@ Lectures in calendar and tasks like planning lectures.
 
 ******** NEXT O/H Week 6
 	 :LOGBOOK:
-	 CLOCK: [2015-02-09 Mon 15:00]
+	 CLOCK: [2015-02-09 Mon 15:00]--[2015-02-09 Mon 16:30] =>  1:30
 	 :END:
 	 <2015-02-09 Mon 15:00-17:00>
 	 :PROPERTIES:
