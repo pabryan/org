@@ -14263,8 +14263,9 @@ Lectures in calendar and tasks like planning lectures.
 	   :Effort:   1:00
 	   :END:
 ******* TODO Exams
-******** TODO Midterm 1
+******** DONE Midterm 1
 	 :LOGBOOK:
+	 - State "DONE"       from "TODO"       [2015-02-10 Tue 15:41]
 	 CLOCK: [2015-01-14 Wed 16:05]--[2015-01-14 Wed 16:06] =>  0:01
 	 :END:
 ********* DONE Write midterm 1 proposal
@@ -14444,7 +14445,7 @@ Lectures in calendar and tasks like planning lectures.
 ******** NEXT Piazza Week 6
 	 SCHEDULED: <2015-02-09 Mon>
 	 :LOGBOOK:
-	 CLOCK: [2015-02-10 Tue 15:27]
+	 CLOCK: [2015-02-10 Tue 15:27]--[2015-02-10 Tue 15:40] =>  0:13
 	 CLOCK: [2015-02-10 Tue 11:14]--[2015-02-10 Tue 11:18] =>  0:04
 	 CLOCK: [2015-02-09 Mon 11:47]--[2015-02-09 Mon 11:58] =>  0:11
 	 :END:
