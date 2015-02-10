@@ -930,10 +930,11 @@ CR-8403 - "Curvature contraction of convex hypersurfaces by nonsmooth speeds by 
 #+END:
 
 *** Working
-**** TODO Referee JGEA-D-14-00211
+**** DONE Referee JGEA-D-14-00211
      SCHEDULED: <2015-01-051 Mon> DEADLINE: <2015-02-06 Fri>
      :LOGBOOK:
-     CLOCK: [2015-02-10 Tue 10:49]
+     - State "DONE"       from "TODO"       [2015-02-10 Tue 11:18]
+     CLOCK: [2015-02-10 Tue 10:49]--[2015-02-10 Tue 11:14] =>  0:25
      CLOCK: [2015-01-27 Tue 18:20]--[2015-01-27 Tue 19:15] =>  0:55
      CLOCK: [2014-12-16 Tue 14:29]--[2014-12-16 Tue 14:30] =>  0:01
      :END:
@@ -950,13 +951,23 @@ Your password is: bryan2677
        - State "DONE"       from "NEXT"       [2014-12-16 Tue 14:29]
        CLOCK: [2014-12-16 Tue 14:28]--[2014-12-16 Tue 14:29] =>  0:01
        :END:
-****** NEXT Skim paper
+****** DONE Skim paper
        :LOGBOOK:
+       - State "DONE"       from "NEXT"       [2015-02-10 Tue 11:18]
        CLOCK: [2015-01-27 Tue 10:25]--[2015-01-27 Tue 10:43] =>  0:18
        :END:
-****** NEXT Write notes
-****** NEXT Write report
-****** NEXT Submit report
+****** DONE Write notes
+       :LOGBOOK:
+       - State "DONE"       from "NEXT"       [2015-02-10 Tue 11:18]
+       :END:
+****** DONE Write report
+       :LOGBOOK:
+       - State "DONE"       from "NEXT"       [2015-02-10 Tue 11:18]
+       :END:
+****** DONE Submit report
+       :LOGBOOK:
+       - State "DONE"       from "NEXT"       [2015-02-10 Tue 11:18]
+       :END:
 **** DONE Referee scm-2014-0648
      DEADLINE: <2014-12-21 Sun -14d> SCHEDULED: <2014-11-19 Wed>
      :LOGBOOK:
