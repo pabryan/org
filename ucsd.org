@@ -14292,7 +14292,7 @@ Lectures in calendar and tasks like planning lectures.
 	  :END:
 ******** TODO Midterm 2
 ********* NEXT Write midterm 2 proposal
-	  DEADLINE: <2015-02-13 Fri>
+	  DEADLINE: <2015-02-11 Wed>
 	  :PROPERTIES:
 	  :Effort:   0:30
 	  :END:
@@ -15248,6 +15248,9 @@ Lectures in calendar and tasks like planning lectures.
 	  :END:
 
 ******** TODO Midterm 2
+	 :LOGBOOK:
+	 CLOCK: [2015-02-09 Mon 17:13]--[2015-02-09 Mon 17:18] =>  0:05
+	 :END:
 ********* NEXT Write midterm 2
 	  DEADLINE: <2015-02-13 Fri>
 	  :PROPERTIES:
@@ -15273,9 +15276,11 @@ Lectures in calendar and tasks like planning lectures.
 	  :PROPERTIES:
 	  :Effort:   0:30
 	  :END:
-********* NEXT Write sample
+********* DONE Write sample
 	  DEADLINE: <2015-02-06 Fri>
 	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2015-02-09 Mon 17:13]
+	  CLOCK: [2015-02-09 Mon 16:34]--[2015-02-09 Mon 17:13] =>  0:39
 	  CLOCK: [2015-02-09 Mon 14:49]--[2015-02-09 Mon 15:00] =>  0:11
 	  :END:
 ******** TODO Final
