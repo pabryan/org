@@ -14292,9 +14292,14 @@ Lectures in calendar and tasks like planning lectures.
 	  CLOCK: [2015-01-29 Thu 21:21]--[2015-01-29 Thu 21:52] =>  0:31
 	  :END:
 ******** TODO Midterm 2
-********* NEXT Write midterm 2 proposal
+	 :LOGBOOK:
+	 CLOCK: [2015-02-10 Tue 17:12]
+	 :END:
+********* DONE Write midterm 2 proposal
 	  DEADLINE: <2015-02-11 Wed>
 	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2015-02-10 Tue 17:12]
+	  CLOCK: [2015-02-10 Tue 17:04]--[2015-02-10 Tue 17:12] =>  0:08
 	  CLOCK: [2015-02-10 Tue 15:41]--[2015-02-10 Tue 15:55] =>  0:14
 	  :END:
 	  :PROPERTIES:
@@ -17321,7 +17326,7 @@ AP&M 2402
 *** 2015
 **** Burkhard Wilking
      :LOGBOOK:
-     CLOCK: [2015-02-10 Tue 15:55]
+     CLOCK: [2015-02-10 Tue 15:55]--[2015-02-10 Tue 17:04] =>  1:09
      :END:
 <2015-02-10 Tue 16:00-17:00>
 TUESDAY - February 10, 2015
