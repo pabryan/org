@@ -14294,6 +14294,9 @@ Lectures in calendar and tasks like planning lectures.
 ******** TODO Midterm 2
 ********* NEXT Write midterm 2 proposal
 	  DEADLINE: <2015-02-11 Wed>
+	  :LOGBOOK:
+	  CLOCK: [2015-02-10 Tue 15:41]--[2015-02-10 Tue 15:55] =>  0:14
+	  :END:
 	  :PROPERTIES:
 	  :Effort:   0:30
 	  :END:
@@ -17317,6 +17320,9 @@ CMRR Auditorium, UCSD
 AP&M 2402
 *** 2015
 **** Burkhard Wilking
+     :LOGBOOK:
+     CLOCK: [2015-02-10 Tue 15:55]
+     :END:
 <2015-02-10 Tue 16:00-17:00>
 TUESDAY - February 10, 2015
 Colloquium
