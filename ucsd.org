@@ -14193,6 +14193,9 @@ Lectures in calendar and tasks like planning lectures.
 ********* TODO Week 7
 ********** NEXT Prepare lec 7.1
 	   SCHEDULED: <2015-02-09 Mon>
+	   :LOGBOOK:
+	   CLOCK: [2015-02-11 Wed 12:06]
+	   :END:
 	   :PROPERTIES:
 	   :Effort:   1:00
 	   :END:
@@ -14455,6 +14458,7 @@ Lectures in calendar and tasks like planning lectures.
 ******** NEXT Piazza Week 6
 	 SCHEDULED: <2015-02-09 Mon>
 	 :LOGBOOK:
+	 CLOCK: [2015-02-11 Wed 11:42]--[2015-02-11 Wed 12:06] =>  0:24
 	 CLOCK: [2015-02-10 Tue 15:27]--[2015-02-10 Tue 15:40] =>  0:13
 	 CLOCK: [2015-02-10 Tue 11:14]--[2015-02-10 Tue 11:18] =>  0:04
 	 CLOCK: [2015-02-09 Mon 11:47]--[2015-02-09 Mon 11:58] =>  0:11
