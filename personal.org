@@ -330,7 +330,7 @@ Use account A11078844
 [[http://www.att.com/]]
 
 *** NEXT Pay AMEX extras
-    SCHEDULED: <2015-02-08 Sun>
+    SCHEDULED: <2015-02-14 Sat>
 - Costco and some other transactions went on AMEX.
 
 ** Tasks
@@ -2309,14 +2309,15 @@ https://www.wizards.com/dnd/dndnext.aspx
   :END:
 ** TODO plan weekly food					    :SOMEDAY:
    :LOGBOOK:
+   - State "DONE"       from "TODO"       [2015-02-11 Wed 18:08]
    - State "DONE"       from "TODO"       [2014-12-17 Wed 10:22]
    :END:
    - State "DONE"       from "NEXT"       [2012-11-19 Mon 12:28]
    :PROPERTIES:
    :ID:       659b82d1-fff2-498c-afeb-3101030d6946
-   :LAST_REPEAT: [2014-12-17 Wed 10:22]
+   :LAST_REPEAT: [2015-02-11 Wed 18:08]
    :END:
-   TOBESCHEDULED: <2013-02-06 Wed +1w>
+   TOBESCHEDULED: <2013-02-13 Wed +1w>
 
 * Friends and Family
   :PROPERTIES:

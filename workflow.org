@@ -1827,6 +1827,7 @@ http://gmane.org
   :END:
 ** Organisation
   :LOGBOOK:
+  CLOCK: [2015-02-11 Wed 18:07]--[2015-02-11 Wed 18:08] =>  0:01
   CLOCK: [2015-02-11 Wed 14:52]--[2015-02-11 Wed 15:23] =>  0:31
   CLOCK: [2015-02-11 Wed 14:00]--[2015-02-11 Wed 14:01] =>  0:01
   CLOCK: [2015-02-11 Wed 11:31]--[2015-02-11 Wed 11:42] =>  0:11
@@ -3754,9 +3755,10 @@ Set some goals for the month. I should check someday projects for inclusion in t
 *** Monthly Review
 Check how I did last month. I guess the review and plan could probably go together. This is all broad stuff
 
-** NEXT Daily Review [0/10]
+** NEXT Daily Review [1/10]
    SCHEDULED: <2015-02-11 Wed .+1d/2d>
    :LOGBOOK:
+   CLOCK: [2015-02-11 Wed 18:08]
    - State "DONE"       from "NEXT"       [2015-02-10 Tue 17:13]
    CLOCK: [2015-02-10 Tue 17:12]--[2015-02-10 Tue 17:13] =>  0:01
    - State "DONE"       from "NEXT"       [2015-02-09 Mon 17:25]
@@ -4270,7 +4272,7 @@ Check how I did last month. I guess the review and plan could probably go togeth
 
 What to review:
 
-- [ ] Review tasks list for the day and compare with clock table, effort estimates.
+- [X] Review tasks list for the day and compare with clock table, effort estimates.
 - [ ] Anything outstanding?
 - [ ] Check uncommited
 - [ ] Auto commit
