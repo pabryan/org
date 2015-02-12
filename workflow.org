@@ -5320,7 +5320,7 @@ When I set up scoring the day:
 - [ ] Do short tasks
 - [ ] Record morning health stats
 
-** NEXT Weekly Review [3/20]
+** NEXT Weekly Review [10/20]
    SCHEDULED: <2015-02-06 Fri +1w>
    :LOGBOOK:
    CLOCK: [2015-02-12 Thu 13:10]
@@ -5487,14 +5487,14 @@ When I set up scoring the day:
   [[file:~/holding]]
 - [X] Check holding email folder
 - [X] Check coupons email folder
-- [ ] Review weekly agenda =F12 a w//=
-- [ ] Check clocking data for past week =v c=
+- [X] Review weekly agenda =F12 a w//=
+- [X] Check clocking data for past week =v c=
   - fix up any errors
-- [ ] Review clock report for past week =R=
+- [X] Review clock report for past week =R=
   - Check where we spent time (too much or too little) and rectify this week
-- [ ] Look at entire agenda for today  =F12 SPC=
-- [ ] Check un-committed work
-- [ ] Refile tasks
+- [X] Look at entire agenda for today  =F12 SPC=
+- [X] Check un-committed work
+- [X] Refile tasks
 - [ ] Weekly clean up
   - [ ] Clean up Downloads
   - [ ] Clean up tmp
@@ -5505,7 +5505,7 @@ When I set up scoring the day:
   - [ ] pocket
 - [ ] Review focus projects 
 - [ ] Set focus
-- [ ] Check follow-up paper folder
+- [X] Check follow-up paper folder
 - [ ] Collate the weeks: pad scribbles, org-mode notes, phone notes, etc.
 - [ ] Check Finances
   - Check bank accounts and compare with what's still to come
