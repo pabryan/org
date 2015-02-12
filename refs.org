@@ -1564,13 +1564,33 @@ Here I need to do some more work since $u \mapsto g(\grad u, \grad u)$ is not a 
 :END:
 [[papers:2015arXiv150103720S][2015arXiv150103720S-paper]]
 [[bib:2015arXiv150103720S][2015arXiv150103720S-bib]]
+*** Isoperimetric comparisons via viscosity
+:PROPERTIES:
+:Custom_ID: 2014arXiv1411.2672N
+:END:
+[[papers:2014arXiv1411.2672N][2014arXiv1411.2672N-paper]]
+[[bib:2014arXiv1411.2672N][2014arXiv1411.2672N-bib]]
 ** math.AP							     :ap:pde:
-** user's guide to viscosity solutions of second order partial differential equations
+*** user's guide to viscosity solutions of second order partial differential equations
 :PROPERTIES:
 :Custom_ID: 1992math7212C
 :END:
 [[papers:1992math7212C][1992math7212C-paper]]
 [[bib:1992math7212C][1992math7212C-bib]]
+** math.CO						   :co:combinatorics:
+*** The ring of multisymmetric functions
+:PROPERTIES:
+:Custom_ID: 2004math5490V
+:END:
+[[papers:2004math5490V][2004math5490V-paper]]
+[[bib:2004math5490V][2004math5490V-bib]]
+** math.RT 					   :rt:representation_theory:
+*** Multisymmetric syzygies
+:PROPERTIES:
+:Custom_ID: 2006math2303D
+:END:
+[[papers:2006math2303D][2006math2303D-paper]]
+[[bib:2006math2303D][2006math2303D-bib]]
 * Misc
   :PROPERTIES:
   :COLUMNS: %75ITEM %TAGS
