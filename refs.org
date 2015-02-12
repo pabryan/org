@@ -1564,6 +1564,13 @@ Here I need to do some more work since $u \mapsto g(\grad u, \grad u)$ is not a 
 :END:
 [[papers:2015arXiv150103720S][2015arXiv150103720S-paper]]
 [[bib:2015arXiv150103720S][2015arXiv150103720S-bib]]
+** math.AP							     :ap:pde:
+** user's guide to viscosity solutions of second order partial differential equations
+:PROPERTIES:
+:Custom_ID: 1992math7212C
+:END:
+[[papers:1992math7212C][1992math7212C-paper]]
+[[bib:1992math7212C][1992math7212C-bib]]
 * Misc
   :PROPERTIES:
   :COLUMNS: %75ITEM %TAGS

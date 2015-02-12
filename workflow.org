@@ -5320,7 +5320,7 @@ When I set up scoring the day:
 - [ ] Do short tasks
 - [ ] Record morning health stats
 
-** NEXT Weekly Review [0/20]
+** NEXT Weekly Review [3/20]
    SCHEDULED: <2015-02-06 Fri +1w>
    :LOGBOOK:
    CLOCK: [2015-02-12 Thu 13:10]
@@ -5483,10 +5483,10 @@ When I set up scoring the day:
    :LAST_REPEAT: [2015-02-03 Tue 17:00]
    :END:
 
-- [ ] Check holding directory
+- [X] Check holding directory
   [[file:~/holding]]
-- [ ] Check holding email folder
-- [ ] Check coupons email folder
+- [X] Check holding email folder
+- [X] Check coupons email folder
 - [ ] Review weekly agenda =F12 a w//=
 - [ ] Check clocking data for past week =v c=
   - fix up any errors
