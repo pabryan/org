@@ -15322,9 +15322,10 @@ Lectures in calendar and tasks like planning lectures.
 	 :LOGBOOK:
 	 CLOCK: [2015-02-09 Mon 17:13]--[2015-02-09 Mon 17:18] =>  0:05
 	 :END:
-********* NEXT Write midterm 2
+********* DONE Write midterm 2
 	  DEADLINE: <2015-02-13 Fri>
 	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2015-02-11 Wed 18:16]
 	  CLOCK: [2015-02-11 Wed 15:23]--[2015-02-11 Wed 17:02] =>  1:39
 	  :END:
 	  :PROPERTIES:
