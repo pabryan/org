@@ -17345,9 +17345,10 @@ Abstract:
 	- State "DONE"       from "NEXT"       [2015-02-11 Wed 11:29]
 	:END:
 	<2015-02-05 Thu 11:00-12:00>
-******* NEXT modulus of continuity Meeting
+******* DONE modulus of continuity Meeting
 	:LOGBOOK:
-	CLOCK: [2015-02-12 Thu 10:58]
+	- State "DONE"       from "NEXT"       [2015-02-12 Thu 13:05]
+	CLOCK: [2015-02-12 Thu 10:58]--[2015-02-12 Thu 12:15] =>  1:17
 	:END:
 	<2015-02-12 Thu 11:00-12:00>
 ******* NEXT modulus of continuity Meeting
