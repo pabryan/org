@@ -5063,8 +5063,9 @@ Is there a consistent (say providing ZFC is consistent) set theory without the e
    :PROPERTIES:
    :ID:       0609581e-fe50-48ce-aa33-ce468c217f92
    :END:
-*** HOLD GMT								:GMT:
+*** TODO GMT								:GMT:
     :LOGBOOK:
+    - State "TODO"       from "HOLD"       [2015-02-12 Thu 10:51]
     - State "HOLD"       from "TODO"       [2013-08-04 Sun 16:45] \\
       Don't have time for this right now!
     CLOCK: [2013-04-26 Fri 09:35]--[2013-04-26 Fri 09:54] =>  0:19
@@ -5084,6 +5085,12 @@ Is there a consistent (say providing ZFC is consistent) set theory without the e
 ****** TODO Write Radon measure notes
        :PROPERTIES:
        :ID:       cb7e304a-aa11-424c-a5b5-7923b2113dcd
+       :END:
+***** TODO Reading
+****** NEXT Read Guisti, Minimal surfaces and functions of bounded variation
+****** NEXT Read Ziemer, Weakly differentiable functions
+       :LOGBOOK:
+       CLOCK: [2015-02-12 Thu 09:30]--[2015-02-12 Thu 10:42] =>  1:12
        :END:
 **** GMT Seminar notes
 ***** Lec 01
