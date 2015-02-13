@@ -5087,7 +5087,10 @@ Is there a consistent (say providing ZFC is consistent) set theory without the e
        :ID:       cb7e304a-aa11-424c-a5b5-7923b2113dcd
        :END:
 ***** TODO Reading
-****** NEXT Read Guisti, Minimal surfaces and functions of bounded variation
+****** NEXT Read Giusti, Minimal surfaces and functions of bounded variation
+       :LOGBOOK:
+       CLOCK: [2015-02-13 Fri 08:43]
+       :END:
 ****** NEXT Read Ziemer, Weakly differentiable functions
        :LOGBOOK:
        CLOCK: [2015-02-12 Thu 09:30]--[2015-02-12 Thu 10:42] =>  1:12
