@@ -14314,9 +14314,10 @@ Lectures in calendar and tasks like planning lectures.
 	  :PROPERTIES:
 	  :Effort:   0:30
 	  :END:
-********* NEXT Check exam
+********* DONE Check exam
 	  DEADLINE: <2015-02-15 Sun>
 	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2015-02-13 Fri 15:00]
 	  CLOCK: [2015-02-13 Fri 11:44]--[2015-02-13 Fri 12:55] =>  1:11
 	  :END:
 ******** TODO Final
@@ -17603,10 +17604,11 @@ Mandeville Suite
 [2013-11-08 Fri 13:28]
 *** NEXT Get travel signature for DS-2019
     DEADLINE: <2015-02-27 Fri>
-*** NEXT Bring I94's and DS-2019's for J1 extension
+*** DONE Bring I94's and DS-2019's for J1 extension
     DEADLINE: <2015-02-13 Fri>
     :LOGBOOK:
-    CLOCK: [2015-02-13 Fri 14:27]
+    - State "DONE"       from "NEXT"       [2015-02-13 Fri 15:00]
+    CLOCK: [2015-02-13 Fri 14:27]--[2015-02-13 Fri 15:00] =>  0:33
     :END:
 ** International center
 *** DONE Get travel signature
