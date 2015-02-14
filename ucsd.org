@@ -14314,8 +14314,12 @@ Lectures in calendar and tasks like planning lectures.
 	  :PROPERTIES:
 	  :Effort:   0:30
 	  :END:
-********* NEXT Check exam
+********* DONE Check exam
 	  DEADLINE: <2015-02-15 Sun>
+	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2015-02-13 Fri 15:00]
+	  CLOCK: [2015-02-13 Fri 11:44]--[2015-02-13 Fri 12:55] =>  1:11
+	  :END:
 ******** TODO Final
 ********* NEXT Write final proposal
 	  DEADLINE: <2015-03-06 Fri>
@@ -14467,6 +14471,7 @@ Lectures in calendar and tasks like planning lectures.
 ******** NEXT Piazza Week 6
 	 SCHEDULED: <2015-02-09 Mon>
 	 :LOGBOOK:
+	 CLOCK: [2015-02-13 Fri 11:19]--[2015-02-13 Fri 11:44] =>  0:25
 	 CLOCK: [2015-02-11 Wed 14:50]--[2015-02-11 Wed 14:52] =>  0:02
 	 CLOCK: [2015-02-11 Wed 14:01]--[2015-02-11 Wed 14:06] =>  0:05
 	 CLOCK: [2015-02-11 Wed 11:42]--[2015-02-11 Wed 12:06] =>  0:24
@@ -14690,8 +14695,11 @@ Lectures in calendar and tasks like planning lectures.
 	  :Effort:   1:30
 	  :END:
 
-********* TODO Lecture 6.3
+********* NEXT Lecture 6.3
 	  SCHEDULED: <2015-02-13 Fri 10:00-11:00>
+	  :LOGBOOK:
+	  CLOCK: [2015-02-13 Fri 10:00]--[2015-02-13 Fri 11:08] =>  1:08
+	  :END:
 	  :PROPERTIES:
 	  :Effort:   1:30
 	  :END:
@@ -15336,8 +15344,11 @@ Lectures in calendar and tasks like planning lectures.
 	  :PROPERTIES:
 	  :Effort:   0:10
 	  :END:
-********* TODO Update exam based on TA comments
+********* NEXT Update exam based on TA comments
 	  DEADLINE: <2015-02-17 Tue>
+	  :LOGBOOK:
+	  CLOCK: [2015-02-13 Fri 15:01]--[2015-02-13 Fri 17:15] =>  2:14
+	  :END:
 	  :PROPERTIES:
 	  :Effort:   0:15
 	  :END:
@@ -15476,8 +15487,11 @@ Lectures in calendar and tasks like planning lectures.
 	 :PROPERTIES:
 	 :Effort:   0:30
 	 :END:
-******** TODO Piazza Week 6
+******** DONE Piazza Week 6
 	 SCHEDULED: <2015-02-09 Mon>
+	 :LOGBOOK:
+	 - State "DONE"       from "TODO"       [2015-02-13 Fri 11:44]
+	 :END:
 	 :PROPERTIES:
 	 :Effort:   0:30
 	 :END:
@@ -15691,8 +15705,12 @@ Lectures in calendar and tasks like planning lectures.
 	  :Effort:   1:00
 	  :END:
 
-********* TODO Lecture 6.3
+********* DONE Lecture 6.3
 	  SCHEDULED: <2015-02-13 Fri 13:00-14:00>
+	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2015-02-13 Fri 14:08]
+	  CLOCK: [2015-02-13 Fri 12:55]--[2015-02-13 Fri 14:08] =>  1:13
+	  :END:
 	  :PROPERTIES:
 	  :Effort:   1:00
 	  :END:
@@ -17589,8 +17607,12 @@ Mandeville Suite
 [2013-11-08 Fri 13:28]
 *** NEXT Get travel signature for DS-2019
     DEADLINE: <2015-02-27 Fri>
-*** NEXT Bring I94's and DS-2019's for J1 extension
+*** DONE Bring I94's and DS-2019's for J1 extension
     DEADLINE: <2015-02-13 Fri>
+    :LOGBOOK:
+    - State "DONE"       from "NEXT"       [2015-02-13 Fri 15:00]
+    CLOCK: [2015-02-13 Fri 14:27]--[2015-02-13 Fri 15:00] =>  0:33
+    :END:
 ** International center
 *** DONE Get travel signature
     DEADLINE: <2015-01-16 Fri>
