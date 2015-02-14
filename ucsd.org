@@ -15347,7 +15347,7 @@ Lectures in calendar and tasks like planning lectures.
 ********* NEXT Update exam based on TA comments
 	  DEADLINE: <2015-02-17 Tue>
 	  :LOGBOOK:
-	  CLOCK: [2015-02-13 Fri 15:01]
+	  CLOCK: [2015-02-13 Fri 15:01]--[2015-02-13 Fri 17:15] =>  2:14
 	  :END:
 	  :PROPERTIES:
 	  :Effort:   0:15
