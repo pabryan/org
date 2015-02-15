@@ -176,6 +176,15 @@
 :END:
 [[papers:MR756417][MR756417-paper]]
 [[bib:MR756417][MR756417-bib]]
+**** Optimal transport
+:PROPERTIES:
+:Custom_ID: MR2459454
+:END:
+[[papers:MR2459454][MR2459454-paper]]
+[[bib:MR2459454][MR2459454-bib]]
+
+
+
 *** 49F  (1973-1990) Manifolds [See also 58Exx.]
 **** 49F20  (1973-1990) Geometric measure and integration theory, integral and normal currents, flat chains and cochains, varifolds [See also 28A75, 32C30, 58A25, 58C35.]
 **** On the regularity of boundaries of sets minimizing perimeter with a volume constraint
@@ -221,6 +230,13 @@
 :END:
 [[papers:MR2067135][MR2067135-paper]]
 [[bib:MR2067135][MR2067135-bib]]
+***** Optimal transport and curvature
+:PROPERTIES:
+:Custom_ID: MR2883682
+:END:
+[[papers:MR2883682][MR2883682-paper]]
+[[bib:MR2883682]]
+
 ** 52 (1940-now) Convex and discrete geometry 	   :convex:geometry:discrete:
 *** 52.0 (1940-1958) Convex domains, extremal problems, integral geometry
 **** Note on convex spherical curves
