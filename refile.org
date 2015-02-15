@@ -1,2 +1,11 @@
 #+FILETAGS: REFILE
-
+* TODO Write notes on modulus of continuity for viscosity equations
+  SCHEDULED: <2015-02-15 Sun>
+[2015-02-15 Sun 14:20]
+* TODO write notes on MCF optimal transport
+  SCHEDULED: <2015-02-15 Sun>
+  :LOGBOOK:
+  CLOCK: [2015-02-15 Sun 14:20]--[2015-02-15 Sun 14:21] =>  0:01
+  :END:
+[2015-02-15 Sun 14:20]
+- calculate evolution of optimal transport map which is gradient of convex function
