@@ -15340,14 +15340,18 @@ Lectures in calendar and tasks like planning lectures.
 	  :PROPERTIES:
 	  :Effort:   0:30
 	  :END:
-********* TODO Get TA's comments
+********* DONE Get TA's comments
 	  DEADLINE: <2015-02-16 Mon -3d>
+	  :LOGBOOK:
+	  - State "DONE"       from "TODO"       [2015-02-15 Sun 13:32]
+	  :END:
 	  :PROPERTIES:
 	  :Effort:   0:10
 	  :END:
-********* NEXT Update exam based on TA comments
+********* DONE Update exam based on TA comments
 	  DEADLINE: <2015-02-17 Tue>
 	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2015-02-15 Sun 13:32]
 	  CLOCK: [2015-02-13 Fri 15:01]--[2015-02-13 Fri 17:15] =>  2:14
 	  :END:
 	  :PROPERTIES:
