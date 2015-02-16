@@ -9,3 +9,9 @@
   :END:
 [2015-02-15 Sun 14:20]
 - calculate evolution of optimal transport map which is gradient of convex function
+* TODO Write notes on dist comp.
+  SCHEDULED: <2015-02-16 Mon>
+[2015-02-16 Mon 11:21]
+* TODO Set up Vector symmetric polynomials for sage
+  SCHEDULED: <2015-02-16 Mon>
+[2015-02-16 Mon 11:21]

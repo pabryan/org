@@ -329,8 +329,11 @@ Use account A11078844
     :END:
 [[http://www.att.com/]]
 
-*** NEXT Pay AMEX extras
+*** DONE Pay AMEX extras
     SCHEDULED: <2015-02-14 Sat>
+    :LOGBOOK:
+    - State "DONE"       from "NEXT"       [2015-02-16 Mon 11:21]
+    :END:
 - Costco and some other transactions went on AMEX.
 
 ** Tasks
