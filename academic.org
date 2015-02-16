@@ -2575,6 +2575,9 @@ The $K$ term should be divided by $8\pi$.
 ******** NEXT Write viscosity equation
 ******* TODO Comparisons
 ******** NEXT Compare with circles of latitude
+	 :LOGBOOK:
+	 CLOCK: [2015-02-16 Mon 13:50]--[2015-02-16 Mon 14:18] =>  0:28
+	 :END:
 ******* TODO Convergence
 ******** NEXT Obtain curvature bound
 ***** Refs
