@@ -15810,6 +15810,11 @@ Lectures in calendar and tasks like planning lectures.
 	  :END:
 
 ******* TODO Exams
+******** Midterm 2
+	 :PROPERTIES:
+	 :Effort:   1:00
+	 :END:
+	 <2015-02-20 Fri 13:00-14:00>
 ******** TODO Final
 	 <2015-03-20 Fri 11:20-14:40>
 	 :PROPERTIES:
