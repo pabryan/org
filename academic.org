@@ -1927,6 +1927,11 @@ If $K = \tilde{K} \intersect \sphere^n$, then $\tilde{K} \subset $\text{cone} (K
 	:END:
 ******* TODO Introduction
 ******** NEXT Write outline
+******* TODO Preliminaries
+******** NEXT Write evolution of curvature/area 
+	 :LOGBOOK:
+	 CLOCK: [2015-02-17 Tue 15:05]--[2015-02-17 Tue 15:32] =>  0:27
+	 :END:
 ******* TODO Chord/arc profile
 ******** NEXT Write variations
 ******** NEXT Write asymptotics
@@ -1934,6 +1939,7 @@ If $K = \tilde{K} \intersect \sphere^n$, then $\tilde{K} \subset $\text{cone} (K
 ******* TODO Comparisons
 ******** NEXT Compare with circles of latitude
 	 :LOGBOOK:
+	 CLOCK: [2015-02-17 Tue 15:32]
 	 CLOCK: [2015-02-16 Mon 13:50]--[2015-02-16 Mon 14:18] =>  0:28
 	 :END:
 ******* TODO Convergence
