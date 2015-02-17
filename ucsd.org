@@ -15336,6 +15336,7 @@ Lectures in calendar and tasks like planning lectures.
 
 ******** TODO Midterm 2
 	 :LOGBOOK:
+	 CLOCK: [2015-02-17 Tue 14:02]--[2015-02-17 Tue 14:14] =>  0:12
 	 CLOCK: [2015-02-09 Mon 17:13]--[2015-02-09 Mon 17:18] =>  0:05
 	 :END:
 ********* DONE Write midterm 2
@@ -15364,8 +15365,12 @@ Lectures in calendar and tasks like planning lectures.
 	  :PROPERTIES:
 	  :Effort:   0:15
 	  :END:
-********* TODO Submit midterm to printing/frdesk
+********* DONE Submit midterm to printing/frdesk
 	  DEADLINE: <2015-02-17 Tue>
+	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2015-02-17 Tue 14:02]
+	  CLOCK: [2015-02-17 Tue 13:52]--[2015-02-17 Tue 14:02] =>  0:10
+	  :END:
 	  :PROPERTIES:
 	  :Effort:   0:10
 	  :END:
