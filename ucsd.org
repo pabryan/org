@@ -15336,7 +15336,6 @@ Lectures in calendar and tasks like planning lectures.
 
 ******** TODO Midterm 2
 	 :LOGBOOK:
-	 CLOCK: [2015-02-17 Tue 14:02]--[2015-02-17 Tue 14:14] =>  0:12
 	 CLOCK: [2015-02-09 Mon 17:13]--[2015-02-09 Mon 17:18] =>  0:05
 	 :END:
 ********* DONE Write midterm 2
@@ -17483,8 +17482,9 @@ Abstract:
       :Effort:   1:30
       :END:
       <2015-02-10 Tue 10:30-12:00>
-***** NEXT Ben Chow meeting
+***** DONE Ben Chow meeting
       :LOGBOOK:
+      - State "DONE"       from "NEXT"       [2015-02-17 Tue 15:12]
       CLOCK: [2015-02-17 Tue 10:30]--[2015-02-17 Tue 11:50] =>  1:20
       :END:
       :PROPERTIES:

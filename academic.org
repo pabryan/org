@@ -1729,6 +1729,218 @@ This proves the inequality we need.  The remaining problem is to remove the symm
        CLOCK: [2015-02-03 Tue 17:15]--[2015-02-03 Tue 18:30] =>  1:15
        :END:
 <2015-02-03 Tue 17:00-18:30>
+**** TODO Ancient solutions on spheres	    :FLOWS:SPHERE:ANCIENT:INPROGRESS:
+[[file:~/working/academic/research/ancient_flows_spheres]]
+***** Tasks
+****** TODO Set up project
+       :LOGBOOK:
+       CLOCK: [2014-10-30 Thu 08:48]--[2014-10-30 Thu 08:53] =>  0:05
+       :END:
+******* DONE Create repository
+	:LOGBOOK:
+	- State "DONE"       from "NEXT"       [2015-01-13 Tue 11:55]
+	:END:
+******* DONE Create org file
+	:LOGBOOK:
+	- State "DONE"       from "NEXT"       [2015-01-13 Tue 11:55]
+	:END:
+******* DONE Create publishing
+	:LOGBOOK:
+	- State "DONE"       from "NEXT"       [2015-01-13 Tue 11:55]
+	:END:
+******* DONE Create tasks
+	 SCHEDULED: <2014-10-18 Sat>
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2014-10-30 Thu 08:48]
+	 CLOCK: [2014-10-30 Thu 08:37]--[2014-10-30 Thu 08:48] =>  0:11
+	 :END:
+****** TODO Write paper
+******* NEXT Create outline
+******* TODO Harnack
+******* TODO Curvature goes to 0
+******** NEXT $\int F(A) \to 0$
+	 :LOGBOOK:
+	 CLOCK: [2015-01-13 Tue 11:55]--[2015-01-13 Tue 12:36] =>  0:41
+	 :END:
+******** TODO Length of backwards flowing point is finite
+******* TODO smooth backwards convergence to equator
+******* TODO Aleksandrov reflection
+****** TODO Mathematics
+******* TODO 2ff goes to zero
+******** NEXT Show $\int F(A) \to 0$
+	 :LOGBOOK:
+	 CLOCK: [2015-01-08 Thu 21:03]--[2015-01-08 Thu 21:25] =>  0:22
+	 CLOCK: [2015-01-08 Thu 19:45]--[2015-01-08 Thu 20:34] =>  0:49
+	 CLOCK: [2015-01-08 Thu 13:13]--[2015-01-08 Thu 14:27] =>  1:14
+	 :END:
+- maybe by evolution of $\int F(A)$
+- Maybe by calculating the evolution of $\int_{M_t} F(A)$ I can show that necessarily it goes to zero. Then add the Harnack inequality to get curvature and derivative bounds to get pointwise convergence.
+******** NEXT Show $\int_t^{-\infty} F(A(x,t)) < \infty$ for each $x$
+	 :LOGBOOK:
+	 CLOCK: [2015-01-08 Thu 12:55]--[2015-01-08 Thu 13:13] =>  0:20
+	 CLOCK: [2015-01-08 Thu 11:33]--[2015-01-08 Thu 12:22] =>  0:49
+	 :END:
+- this is the length of the path traced out by a point as $t\to-\infty$. Since the flow is convex by increasing sets (as $t \to -\infty$) but bounded in a hemisphere, the length surely cannot be $\infty$. Therefore $F(A(x,t) \to 0$ as $t \to -\infty$.
+- Fix a point $x$ say at time $t=1$. Then the length of the curve $\gamma(x, t)$ from $t=-1$ to $-\infty$ is $\int_{-\infty}^1 F(A(x, t)) dt$. Since the hypersurfaces bound an increasing nested set of domains bounded by a hemisphere, and by convexity, surely the path must have finite length which implies $F(A)$ goes to $0$.
+******* TODO Harnack
+See [[*Convexity%20in%20space%20forms][Convexity in space forms]] and Urbas' and Andrews' argument
+******** NEXT Compute evolution of support function
+	 :LOGBOOK:
+	 CLOCK: [2015-01-20 Tue 10:00]--[2015-01-20 Tue 10:17] =>  0:17
+	 :END:
+******** NEXT Compute laplacian of support function
+******* TODO Backwards convergence
+******* TODO Aleksandrov reflection
+***** Notes
+****** TODO Check out Killing graphs preserved
+       SCHEDULED: <2015-03-09 Mon>
+***** Refs
+***** Meetings
+****** Ben Chow
+       :LOGBOOK:
+       CLOCK: [2015-01-14 Wed 11:16]--[2015-01-14 Wed 12:07] =>  0:51
+       :END:
+<2015-01-14 Wed 11:15-12:30>
+**** TODO Convexity in space forms		:CONVEX:SPACEFORM:INPROGRESS:
+***** Files
+[[file:~/working/academic/research/convexity_space_forms]]
+***** Notes
+***** Tasks
+****** TODO Admin
+       :LOGBOOK:
+       CLOCK: [2014-10-16 Thu 18:04]--[2014-10-16 Thu 18:05] =>  0:01
+       :END:
+******* DONE Create org structure
+	:LOGBOOK:
+	- State "DONE"       from "NEXT"       [2014-10-16 Thu 18:04]
+	CLOCK: [2014-10-16 Thu 17:52]--[2014-10-16 Thu 18:04] =>  0:12
+	:END:
+******* NEXT Create tasks
+	:LOGBOOK:
+	CLOCK: [2014-11-20 Thu 11:17]--[2014-11-20 Thu 11:32] =>  0:15
+	:END:
+****** TODO Mathematics
+******* TODO Basic convexity
+******** NEXT Work out precise definitions
+	 :LOGBOOK:
+	 CLOCK: [2014-11-20 Thu 11:32]--[2014-11-20 Thu 12:15] =>  0:43
+	 :END:
+******** NEXT Lies on one side of tangent equator
+******** NEXT Positive curvature
+******** NEXT Graph over the equator
+******** NEXT Gauss map
+******* TODO Support function
+******** NEXT Make sure of precise definition
+	 :LOGBOOK:
+	 CLOCK: [2014-12-04 Thu 13:42]--[2014-12-04 Thu 14:30] =>  0:48
+	 :END:
+******** NEXT Parameterize by support function
+	 :LOGBOOK:
+	 CLOCK: [2014-10-16 Thu 13:00]--[2014-10-16 Thu 13:30] =>  0:30
+	 CLOCK: [2014-10-16 Thu 09:30]--[2014-10-16 Thu 12:00] =>  2:30
+	 :END:
+******** NEXT Determine properties of vector field
+******** NEXT Compute laplacian
+	 :LOGBOOK:
+	 CLOCK: [2015-01-17 Sat 10:30]--[2015-01-17 Sat 11:15] =>  0:45
+	 CLOCK: [2015-01-17 Sat 09:22]--[2015-01-17 Sat 10:10] =>  0:48
+	 CLOCK: [2015-01-15 Thu 20:22]--[2015-01-15 Thu 21:00] =>  0:38
+	 CLOCK: [2015-01-15 Thu 19:34]--[2015-01-15 Thu 19:37] =>  0:03
+	 CLOCK: [2015-01-13 Tue 12:42]--[2015-01-13 Tue 14:12] =>  1:30
+	 CLOCK: [2014-12-16 Tue 09:40]--[2014-12-16 Tue 10:10] =>  0:30
+	 CLOCK: [2014-10-25 Sat 11:15]--[2014-10-25 Sat 12:40] =>  1:25
+	 CLOCK: [2014-10-23 Thu 12:55]--[2014-10-23 Thu 13:40] =>  0:45
+	 CLOCK: [2014-10-23 Thu 11:00]--[2014-10-23 Thu 12:25] =>  1:25
+	 :END:
+******* TODO Harnack inequality
+******* TODO Ambient convexity
+******** TODO Convex cones
+********* NEXT Convex in sphere iff cone is convex in Euclidean
+********* NEXT Convex cone universal
+If $K = \tilde{K} \intersect \sphere^n$, then $\tilde{K} \subset $\text{cone} (K)$ where $\text{cone} (K)$ is the cone through $K$ with vertex the origin.
+******** NEXT Ambient non-collapsing
+- Like Brendle, take curvature balls in the ambient space. Are these then curvature balls for the cone? Can we therefore do it all in Euclidean space?
+
+******* TODO Space forms
+******** NEXT What happens under quotients?
+******* TODO Comparison
+******** NEXT Investigate possible comparison theory
+******* TODO Convex functions
+******* TODO Polar bodies
+******* TODO Applications
+******** NEXT Contained in a hemisphere
+****** TODO Write paper
+******* TODO Outline
+******** NEXT Create main structure
+******* TODO Sections
+******** TODO Basic convexity
+********* NEXT Characterisation of convexity
+	  :LOGBOOK:
+	  CLOCK: [2014-12-04 Thu 16:40]--[2014-12-04 Thu 17:35] =>  0:55
+	  :END:
+- geodesics joining any two points
+********* NEXT Boundary structure
+- positive curvature
+********* NEXT supporting hyperplanes
+********* NEXT Gauss map
+********* NEXT Graph
+******** TODO Support function
+********* NEXT Definition using ambient space
+- like Heintze, Alencar/Frensel
+********* NEXT Harnack inequality
+********* NEXT Parametrising by support function
+********* NEXT Laplacian
+	  :LOGBOOK:
+	  CLOCK: [2015-01-15 Thu 19:37]--[2015-01-15 Thu 20:22] =>  0:45
+	  CLOCK: [2015-01-15 Thu 18:59]--[2015-01-15 Thu 19:34] =>  0:35
+	  :END:
+******** TODO Harnack inequality
+******** TODO Connection with cones in ambient space
+******** TODO Applications
+********* NEXT Lies in a hemisphere
+******* TODO Proof reading
+**** TODO CSF surfaces distance comparison	     :CSF:SURFACES:DIST_COMP:
+   :PROPERTIES:
+   :ID:       85f583ed-c9eb-4993-91e3-8cedf9945d1f
+   :END:
+[[file:~/working/academic/research/csf_dist_comp_surfaces]]
+***** Notes
+***** Tasks
+****** TODO Organisation
+******* DONE Create tasks
+	 SCHEDULED: <2014-10-18 Sat>
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2014-10-30 Thu 08:35]
+	 CLOCK: [2014-10-28 Tue 19:40]--[2014-10-28 Tue 19:49] =>  0:09
+	 :END:
+****** TODO Math
+******* TODO Dist comp on sphere
+******** TODO Chord/arc profile
+******** TODO Comparison
+******* TODO Comparison for positively curved surfaces
+******* TODO Connection with ancient solutions
+****** TODO Writing
+******* DONE Create org file
+	:LOGBOOK:
+	- State "DONE"       from "NEXT"       [2014-10-28 Tue 20:10]
+	CLOCK: [2014-10-28 Tue 19:49]--[2014-10-28 Tue 20:10] =>  0:21
+	:END:
+******* TODO Introduction
+******** NEXT Write outline
+******* TODO Chord/arc profile
+******** NEXT Write variations
+******** NEXT Write asymptotics
+******** NEXT Write viscosity equation
+******* TODO Comparisons
+******** NEXT Compare with circles of latitude
+	 :LOGBOOK:
+	 CLOCK: [2015-02-16 Mon 13:50]--[2015-02-16 Mon 14:18] =>  0:28
+	 :END:
+******* TODO Convergence
+******** NEXT Obtain curvature bound
+***** Refs
+
+*** Holding
 **** TODO Pipe Flows					  :PIPE_FLOW:WRITING:
    :PROPERTIES:
    :ID:       cf90c8f0-dc09-44d4-87d4-f7000acc2ba1
@@ -1942,178 +2154,8 @@ Marsden et. al. book
 - Longer paper on blood flows (semi-expository)
 - Well balancing
 - ANUGA
-**** TODO Ancient solutions on spheres	    :FLOWS:SPHERE:ANCIENT:INPROGRESS:
-[[file:~/working/academic/research/ancient_flows_spheres]]
-***** Tasks
-****** TODO Set up project
-       :LOGBOOK:
-       CLOCK: [2014-10-30 Thu 08:48]--[2014-10-30 Thu 08:53] =>  0:05
-       :END:
-******* DONE Create repository
-	:LOGBOOK:
-	- State "DONE"       from "NEXT"       [2015-01-13 Tue 11:55]
-	:END:
-******* DONE Create org file
-	:LOGBOOK:
-	- State "DONE"       from "NEXT"       [2015-01-13 Tue 11:55]
-	:END:
-******* DONE Create publishing
-	:LOGBOOK:
-	- State "DONE"       from "NEXT"       [2015-01-13 Tue 11:55]
-	:END:
-******* DONE Create tasks
-	 SCHEDULED: <2014-10-18 Sat>
-	 :LOGBOOK:
-	 - State "DONE"       from "NEXT"       [2014-10-30 Thu 08:48]
-	 CLOCK: [2014-10-30 Thu 08:37]--[2014-10-30 Thu 08:48] =>  0:11
-	 :END:
-****** TODO Write paper
-******* NEXT Create outline
-******* TODO Harnack
-******* TODO Curvature goes to 0
-******** NEXT $\int F(A) \to 0$
-	 :LOGBOOK:
-	 CLOCK: [2015-01-13 Tue 11:55]--[2015-01-13 Tue 12:36] =>  0:41
-	 :END:
-******** TODO Length of backwards flowing point is finite
-******* TODO smooth backwards convergence to equator
-******* TODO Aleksandrov reflection
-****** TODO Mathematics
-******* TODO 2ff goes to zero
-******** NEXT Show $\int F(A) \to 0$
-	 :LOGBOOK:
-	 CLOCK: [2015-01-08 Thu 21:03]--[2015-01-08 Thu 21:25] =>  0:22
-	 CLOCK: [2015-01-08 Thu 19:45]--[2015-01-08 Thu 20:34] =>  0:49
-	 CLOCK: [2015-01-08 Thu 13:13]--[2015-01-08 Thu 14:27] =>  1:14
-	 :END:
-- maybe by evolution of $\int F(A)$
-- Maybe by calculating the evolution of $\int_{M_t} F(A)$ I can show that necessarily it goes to zero. Then add the Harnack inequality to get curvature and derivative bounds to get pointwise convergence.
-******** NEXT Show $\int_t^{-\infty} F(A(x,t)) < \infty$ for each $x$
-	 :LOGBOOK:
-	 CLOCK: [2015-01-08 Thu 12:55]--[2015-01-08 Thu 13:13] =>  0:20
-	 CLOCK: [2015-01-08 Thu 11:33]--[2015-01-08 Thu 12:22] =>  0:49
-	 :END:
-- this is the length of the path traced out by a point as $t\to-\infty$. Since the flow is convex by increasing sets (as $t \to -\infty$) but bounded in a hemisphere, the length surely cannot be $\infty$. Therefore $F(A(x,t) \to 0$ as $t \to -\infty$.
-- Fix a point $x$ say at time $t=1$. Then the length of the curve $\gamma(x, t)$ from $t=-1$ to $-\infty$ is $\int_{-\infty}^1 F(A(x, t)) dt$. Since the hypersurfaces bound an increasing nested set of domains bounded by a hemisphere, and by convexity, surely the path must have finite length which implies $F(A)$ goes to $0$.
-******* TODO Harnack
-See [[*Convexity%20in%20space%20forms][Convexity in space forms]] and Urbas' and Andrews' argument
-******** NEXT Compute evolution of support function
-	 :LOGBOOK:
-	 CLOCK: [2015-01-20 Tue 10:00]--[2015-01-20 Tue 10:17] =>  0:17
-	 :END:
-******** NEXT Compute laplacian of support function
-******* TODO Backwards convergence
-******* TODO Aleksandrov reflection
-***** Notes
-****** TODO Check out Killing graphs preserved
-       SCHEDULED: <2015-03-09 Mon>
-***** Refs
-***** Meetings
-****** Ben Chow
-       :LOGBOOK:
-       CLOCK: [2015-01-14 Wed 11:16]--[2015-01-14 Wed 12:07] =>  0:51
-       :END:
-<2015-01-14 Wed 11:15-12:30>
-**** TODO Convexity in space forms		:CONVEX:SPACEFORM:INPROGRESS:
-***** Files
-[[file:~/working/academic/research/convexity_space_forms]]
-***** Notes
-***** Tasks
-****** TODO Admin
-       :LOGBOOK:
-       CLOCK: [2014-10-16 Thu 18:04]--[2014-10-16 Thu 18:05] =>  0:01
-       :END:
-******* DONE Create org structure
-	:LOGBOOK:
-	- State "DONE"       from "NEXT"       [2014-10-16 Thu 18:04]
-	CLOCK: [2014-10-16 Thu 17:52]--[2014-10-16 Thu 18:04] =>  0:12
-	:END:
-******* NEXT Create tasks
-	:LOGBOOK:
-	CLOCK: [2014-11-20 Thu 11:17]--[2014-11-20 Thu 11:32] =>  0:15
-	:END:
-****** TODO Mathematics
-******* TODO Basic convexity
-******** NEXT Work out precise definitions
-	 :LOGBOOK:
-	 CLOCK: [2014-11-20 Thu 11:32]--[2014-11-20 Thu 12:15] =>  0:43
-	 :END:
-******** NEXT Lies on one side of tangent equator
-******** NEXT Positive curvature
-******** NEXT Graph over the equator
-******** NEXT Gauss map
-******* TODO Support function
-******** NEXT Make sure of precise definition
-	 :LOGBOOK:
-	 CLOCK: [2014-12-04 Thu 13:42]--[2014-12-04 Thu 14:30] =>  0:48
-	 :END:
-******** NEXT Parameterize by support function
-	 :LOGBOOK:
-	 CLOCK: [2014-10-16 Thu 13:00]--[2014-10-16 Thu 13:30] =>  0:30
-	 CLOCK: [2014-10-16 Thu 09:30]--[2014-10-16 Thu 12:00] =>  2:30
-	 :END:
-******** NEXT Determine properties of vector field
-******** NEXT Compute laplacian
-	 :LOGBOOK:
-	 CLOCK: [2015-01-17 Sat 10:30]--[2015-01-17 Sat 11:15] =>  0:45
-	 CLOCK: [2015-01-17 Sat 09:22]--[2015-01-17 Sat 10:10] =>  0:48
-	 CLOCK: [2015-01-15 Thu 20:22]--[2015-01-15 Thu 21:00] =>  0:38
-	 CLOCK: [2015-01-15 Thu 19:34]--[2015-01-15 Thu 19:37] =>  0:03
-	 CLOCK: [2015-01-13 Tue 12:42]--[2015-01-13 Tue 14:12] =>  1:30
-	 CLOCK: [2014-12-16 Tue 09:40]--[2014-12-16 Tue 10:10] =>  0:30
-	 CLOCK: [2014-10-25 Sat 11:15]--[2014-10-25 Sat 12:40] =>  1:25
-	 CLOCK: [2014-10-23 Thu 12:55]--[2014-10-23 Thu 13:40] =>  0:45
-	 CLOCK: [2014-10-23 Thu 11:00]--[2014-10-23 Thu 12:25] =>  1:25
-	 :END:
-******* TODO Harnack inequality
-******* TODO Ambient convexity
-******** TODO Convex cones
-********* NEXT Convex in sphere iff cone is convex in Euclidean
-********* NEXT Convex cone universal
-If $K = \tilde{K} \intersect \sphere^n$, then $\tilde{K} \subset $\text{cone} (K)$ where $\text{cone} (K)$ is the cone through $K$ with vertex the origin.
-******** NEXT Ambient non-collapsing
-- Like Brendle, take curvature balls in the ambient space. Are these then curvature balls for the cone? Can we therefore do it all in Euclidean space?
 
-******* TODO Space forms
-******** NEXT What happens under quotients?
-******* TODO Comparison
-******** NEXT Investigate possible comparison theory
-******* TODO Convex functions
-******* TODO Polar bodies
-******* TODO Applications
-******** NEXT Contained in a hemisphere
-****** TODO Write paper
-******* TODO Outline
-******** NEXT Create main structure
-******* TODO Sections
-******** TODO Basic convexity
-********* NEXT Characterisation of convexity
-	  :LOGBOOK:
-	  CLOCK: [2014-12-04 Thu 16:40]--[2014-12-04 Thu 17:35] =>  0:55
-	  :END:
-- geodesics joining any two points
-********* NEXT Boundary structure
-- positive curvature
-********* NEXT supporting hyperplanes
-********* NEXT Gauss map
-********* NEXT Graph
-******** TODO Support function
-********* NEXT Definition using ambient space
-- like Heintze, Alencar/Frensel
-********* NEXT Harnack inequality
-********* NEXT Parametrising by support function
-********* NEXT Laplacian
-	  :LOGBOOK:
-	  CLOCK: [2015-01-15 Thu 19:37]--[2015-01-15 Thu 20:22] =>  0:45
-	  CLOCK: [2015-01-15 Thu 18:59]--[2015-01-15 Thu 19:34] =>  0:35
-	  :END:
-******** TODO Harnack inequality
-******** TODO Connection with cones in ambient space
-******** TODO Applications
-********* NEXT Lies in a hemisphere
-******* TODO Proof reading
-*** Holding
-**** TODO Isoperimetric inequality and ancient solutions
+**** TODO Isoperimetric inequality and ancient solutions on spheres
 ***** Tasks
 ****** TODO Math
 ****** TODO Writing
@@ -2541,46 +2583,6 @@ The $K$ term should be divided by $8\pi$.
 ***** Notes
 ***** References
 
-**** TODO CSF surfaces distance comparison	     :CSF:SURFACES:DIST_COMP:
-   :PROPERTIES:
-   :ID:       85f583ed-c9eb-4993-91e3-8cedf9945d1f
-   :END:
-[[file:~/working/academic/research/csf_dist_comp_surfaces]]
-***** Notes
-***** Tasks
-****** TODO Organisation
-******* DONE Create tasks
-	 SCHEDULED: <2014-10-18 Sat>
-	 :LOGBOOK:
-	 - State "DONE"       from "NEXT"       [2014-10-30 Thu 08:35]
-	 CLOCK: [2014-10-28 Tue 19:40]--[2014-10-28 Tue 19:49] =>  0:09
-	 :END:
-****** TODO Math
-******* TODO Dist comp on sphere
-******** TODO Chord/arc profile
-******** TODO Comparison
-******* TODO Comparison for positively curved surfaces
-******* TODO Connection with ancient solutions
-****** TODO Writing
-******* DONE Create org file
-	:LOGBOOK:
-	- State "DONE"       from "NEXT"       [2014-10-28 Tue 20:10]
-	CLOCK: [2014-10-28 Tue 19:49]--[2014-10-28 Tue 20:10] =>  0:21
-	:END:
-******* TODO Introduction
-******** NEXT Write outline
-******* TODO Chord/arc profile
-******** NEXT Write variations
-******** NEXT Write asymptotics
-******** NEXT Write viscosity equation
-******* TODO Comparisons
-******** NEXT Compare with circles of latitude
-	 :LOGBOOK:
-	 CLOCK: [2015-02-16 Mon 13:50]--[2015-02-16 Mon 14:18] =>  0:28
-	 :END:
-******* TODO Convergence
-******** NEXT Obtain curvature bound
-***** Refs
 **** TODO Minimal immersion in hyperbolic space :IMMERSIONS:MINIMAL:SYMMMETRIC:SPHERE:HYPERBOLIC:
 ***** Notes
 ****** Higher oscillating spaces
@@ -2621,7 +2623,7 @@ Not sure what this is about either!
 ******* DONE Work out time variations
 	:LOGBOOK:
 	- State "DONE"       from "NEXT"       [2015-02-17 Tue 15:07]
-	CLOCK: [2015-02-17 Tue 14:15]--[2015-02-17 Tue 15:02] =>  0:47
+	CLOCK: [2015-02-17 Tue 14:02]--[2015-02-17 Tue 15:02] =>  1:00
 	CLOCK: [2015-02-17 Tue 13:15]--[2015-02-17 Tue 13:52] =>  0:37
 	CLOCK: [2014-03-29 Sat 16:15]--[2014-03-29 Sat 17:41] =>  1:26
 	CLOCK: [2014-03-28 Fri 15:45]--[2014-03-28 Fri 17:54] =>  2:09
@@ -2633,13 +2635,16 @@ Not sure what this is about either!
 	 :LOGBOOK:
 	 CLOCK: [2014-03-05 Wed 09:45]--[2014-03-05 Wed 10:35] =>  0:50
 	 :END:
-****** TODO Ricci and Kleiner
+****** TODO Ricci in 3d
+******* NEXT Ricci in and Kleiner
   :LOGBOOK:
   CLOCK: [2014-03-27 Thu 09:22]--[2014-03-27 Thu 09:23] =>  0:01
   :END:
 [2014-03-27 Thu 09:22]
-Adapt Kleiner's iso proof to Ricci flow
-
+Adapt Kleiner's iso proof to Ricci flow in 3d
+****** TODO Kahler manifolds
+******* NEXT Look for curvature invariants
+- first variation is \(-\int_{\bdry{\Omega}} \eta \meancurv\) where the variation vector is \(V = \eta \nor\). Can I find an \(\eta) so that \(\int_{\bdry{\Omega}} \eta \meancurv = \int_{\Omega} d (T) - S\) with \(T,S\) some sort of tensors and \(\int_{\Omega} S\) a topological invariant so that it will be constant under smooth variations (that way I don't care what it is since it has zero derivative!).
 **** TODO CSF Isoprofile comparison on surfaces
    :PROPERTIES:
    :ID:       b7168bd9-6808-46e9-86f3-a606bae8586b
