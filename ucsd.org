@@ -17403,8 +17403,40 @@ Abstract:
 	<2015-02-26 Thu 11:00-12:00>
 ***** Existence of isoperimetric regions
 ****** Schedule
+******* Sets of finite perimeter
+<2015-03-05 Thu 11:00-12:30>
+- BV func's
+- Sets of finite perim
+- approximation by smooth functions
+- compactness
+- isoperimetric profile
+******* Ritore's Theorem
+<2015-03-12 Thu 11:00-12:30>
+
+******* Ritore's Theorem
+<2015-03-19 Thu 11:00-12:30>
+
+******* Surfaces of revolution
+<2015-03-26 Thu 11:00-12:30>
+
+******* Euclidean cones
+<2015-04-02 Thu 11:00-12:30>
+
 ****** Tasks
 ******* TODO Prepare talks
+******** NEXT Prepare sets of finite perimeter talk
+	 SCHEDULED: <2015-02-23 Mon>
+******** NEXT Prepare Ritore's thm talk I
+	 SCHEDULED: <2015-03-02 Mon>
+******** NEXT Prepare Ritore's thm talk II
+	 SCHEDULED: <2015-03-09 Mon>
+
+******** NEXT Prepare surfaces of revolution
+	 SCHEDULED: <2015-03-16 Mon>
+******** NEXT Euclidean cones
+	 SCHEDULED: <2015-03-23 Mon>
+
+******* TODO Read background material
 ******** NEXT Read Ritore
 	 :LOGBOOK:
 	 CLOCK: [2015-02-11 Wed 07:50]--[2015-02-11 Wed 08:35] =>  0:45
@@ -17413,6 +17445,7 @@ Abstract:
 	 :LOGBOOK:
 	 CLOCK: [2015-02-11 Wed 11:10]--[2015-02-11 Wed 11:28] =>  0:18
 	 :END:
+
 **** Seminar with Ben Chow
 - APM 6218
 ***** DONE Ben Chow meeting
