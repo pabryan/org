@@ -30,6 +30,9 @@
   CLOCK: [2015-02-18 Wed 08:26]--[2015-02-18 Wed 08:27] =>  0:01
   :END:
 [2015-02-18 Wed 08:26]
-* TODO Meet Nolan
+* NEXT Meet Nolan
+  :LOGBOOK:
+  CLOCK: [2015-02-18 Wed 15:01]
+  :END:
 [2015-02-18 Wed 12:48]
 <2015-02-18 Wed 15:00-14:00>
