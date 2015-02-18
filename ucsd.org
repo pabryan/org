@@ -14221,9 +14221,6 @@ Lectures in calendar and tasks like planning lectures.
 	   :Effort:   1:00
 	   :END:
 ********* TODO Week 8
-	  :LOGBOOK:
-	  CLOCK: [2015-02-18 Wed 12:38]
-	  :END:
 ********** DONE Prepare lec 8.1
 	   SCHEDULED: <2015-02-16 Mon>
 	   :LOGBOOK:
@@ -15762,8 +15759,11 @@ Lectures in calendar and tasks like planning lectures.
 	  :Effort:   1:00
 	  :END:
 
-********* TODO Lecture 7.2
+********* NEXT Lecture 7.2
 	  SCHEDULED: <2015-02-18 Wed 13:00-14:00>
+	  :LOGBOOK:
+	  CLOCK: [2015-02-18 Wed 12:48]
+	  :END:
 	  :PROPERTIES:
 	  :Effort:   1:00
 	  :END:
@@ -15933,6 +15933,12 @@ Lectures in calendar and tasks like planning lectures.
 	 :Effort:   0:30
 	 :END:
 <2015-01-05 Mon 11:00-11:30>
+***** TODO Cover lectures
+****** NEXT Cover Grant's 20B lecture: 10.2 series
+       :PROPERTIES:
+       :Effort:   1:00
+       :END:
+<2015-02-20 Fri 11:00-12:00>
 **** Spring 2015
 **** Summer I 2015
 ** Clocking
