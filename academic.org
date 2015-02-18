@@ -1931,17 +1931,19 @@ If $K = \tilde{K} \intersect \sphere^n$, then $\tilde{K} \subset $\text{cone} (K
 ******** NEXT Write evolution of curvature/area 
 	 :LOGBOOK:
 	 CLOCK: [2015-02-17 Tue 15:05]--[2015-02-17 Tue 15:32] =>  0:27
-	 :END:
+         :END:
 ******* TODO Chord/arc profile
 ******** NEXT Write variations
 ******** NEXT Write asymptotics
 ******** NEXT Write viscosity equation
 ******* TODO Comparisons
-******** NEXT Compare with circles of latitude
+******** DONE Calculate circle of latitude profile
 	 :LOGBOOK:
-	 CLOCK: [2015-02-17 Tue 15:32]
+	 - State "DONE"       from "NEXT"       [2015-02-17 Tue 16:40]
+	 CLOCK: [2015-02-17 Tue 15:32]--[2015-02-17 Tue 16:40] =>  1:08
 	 CLOCK: [2015-02-16 Mon 13:50]--[2015-02-16 Mon 14:18] =>  0:28
 	 :END:
+******** NEXT Show comparison improves
 ******* TODO Convergence
 ******** NEXT Obtain curvature bound
 ***** Refs
