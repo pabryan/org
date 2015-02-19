@@ -30,8 +30,9 @@
   CLOCK: [2015-02-18 Wed 08:26]--[2015-02-18 Wed 08:27] =>  0:01
   :END:
 [2015-02-18 Wed 08:26]
-* NEXT Meet Nolan
+* DONE Meet Nolan
   :LOGBOOK:
+  - State "DONE"       from "NEXT"       [2015-02-18 Wed 16:55]
   CLOCK: [2015-02-18 Wed 15:01]--[2015-02-18 Wed 16:03] =>  1:02
   :END:
 [2015-02-18 Wed 12:48]
