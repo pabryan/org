@@ -15902,8 +15902,8 @@ Lectures in calendar and tasks like planning lectures.
 
 ******** DONE O/H Week 7
 	 :LOGBOOK:
-	 CLOCK: [2015-02-18 Wed 16:55]
-	 - State "DONE"       from "TODO"       [2015-02-18 Wed 16:05]
+         - State "DONE"       from "TODO"       [2015-02-18 Wed 17:50]
+	 CLOCK: [2015-02-18 Wed 16:35]--[2015-02-18 Wed 17:50] =>  1:15
 	 :END:
 	 <2015-02-18 Wed 15:00-17:00>
 	 :PROPERTIES:
