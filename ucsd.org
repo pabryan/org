@@ -17429,7 +17429,10 @@ Abstract:
 ******* NEXT modulus of continuity Meeting
 ***** Existence of isoperimetric regions
 ****** Schedule
-******* NEXT BV Functions
+******* DONE BV Functions
+	:LOGBOOK:
+	- State "DONE"       from "NEXT"       [2015-02-19 Thu 12:04]
+	:END:
 <2015-02-19 Thu 11:00-12:00>
 ******* NEXT Sets of finite perimeter
 - BV func's
