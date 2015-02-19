@@ -16,6 +16,15 @@
 :END:
 [[papers:MR2499933][MR2499933-paper]]
 [[bib:MR2499933][MR2499933-bib]]
+** 22 (1940-now) Topological groups, Lie groups [For transformation groups, see 54H15, 57Sxx, 58-XX. For abstract harmonic analysis, see 43-XX]
+*** 22E (1973-now) Lie groups [For the topology of Lie groups and homogeneous spaces, see 57Sxx, 57Txx; for analysis thereon, see 43A80, 43A85, 43A90]
+**** 22E15 (1973-now) General properties and structure of real Lie groups
+***** Application of the higher osculating spaces to the spherical principal series
+:PROPERTIES:
+:Custom_ID: MR0299730
+:END:
+[[papers:MR0299730][MR0299730-paper]]
+[[bib:MR0299730][MR0299730-bib]]
 ** 26 (1940-now) Real functions [See also 54C30]	     :real:functions:
 *** 26D (1980-now) Inequalities [For maximal function inequalities, see 42B25; for functional inequalities, see 39B72; for probabilistic inequalities, see 60E15] :inequaltities:
 **** 26D15 (1980-now) Inequalities for sums, series and integrals :sums:series:integrals:
