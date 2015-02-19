@@ -43,3 +43,15 @@
   CLOCK: [2015-02-19 Thu 10:28]--[2015-02-19 Thu 10:29] =>  0:01
   :END:
 [2015-02-19 Thu 10:28]
+* TODO Write up Gauss map ideas
+  SCHEDULED: <2015-02-19 Thu>
+  :LOGBOOK:
+  CLOCK: [2015-02-19 Thu 10:56]--[2015-02-19 Thu 10:57] =>  0:01
+  :END:
+[2015-02-19 Thu 10:56]
+- dimension
+- is this equal to some known dimension
+- interaction with grassmanians
+- embedding theorems (Nash!)
+- open manifolds - can I somehow count coverings?
+- finite type. Is this the same as Gauss map dim finite?
