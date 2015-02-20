@@ -14734,8 +14734,12 @@ Lectures in calendar and tasks like planning lectures.
 	  :Effort:   1:30
 	  :END:
 
-********* TODO Lecture 7.3
+********* DONE Lecture 7.3
 	  SCHEDULED: <2015-02-20 Fri 10:00-11:00>
+	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2015-02-20 Fri 12:09]
+	  CLOCK: [2015-02-20 Fri 09:55]--[2015-02-20 Fri 10:55] =>  1:00
+	  :END:
 	  :PROPERTIES:
 	  :Effort:   1:30
 	  :END:
@@ -15939,7 +15943,14 @@ Lectures in calendar and tasks like planning lectures.
 	 :END:
 <2015-01-05 Mon 11:00-11:30>
 ***** TODO Cover lectures
-****** NEXT Cover Grant's 20B lecture: 10.2 series
+      :LOGBOOK:
+      CLOCK: [2015-02-20 Fri 12:09]
+      :END:
+****** DONE Cover Grant's 20B lecture: 10.2 series
+       :LOGBOOK:
+       - State "DONE"       from "NEXT"       [2015-02-20 Fri 12:09]
+       CLOCK: [2015-02-20 Fri 10:55]--[2015-02-20 Fri 12:05] =>  1:10
+       :END:
        :PROPERTIES:
        :Effort:   1:00
        :END:
