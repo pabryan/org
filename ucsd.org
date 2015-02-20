@@ -14683,7 +14683,10 @@ Lectures in calendar and tasks like planning lectures.
 	  :Effort:   1:30
 	  :END:
 
-******** TODO Week 6
+******** DONE Week 6
+	 :LOGBOOK:
+	 - State "DONE"       from "TODO"       [2015-02-20 Fri 14:17]
+	 :END:
 ********* DONE Lecture 6.1
 	  SCHEDULED: <2015-02-09 Mon 10:00-11:00>
 	  :LOGBOOK:
@@ -14714,7 +14717,10 @@ Lectures in calendar and tasks like planning lectures.
 	  :Effort:   1:30
 	  :END:
 
-******** TODO Week 7
+******** DONE Week 7
+	 :LOGBOOK:
+	 - State "DONE"       from "TODO"       [2015-02-20 Fri 14:17]
+	 :END:
 ********* DONE Lecture 7.1
 	  SCHEDULED: <2015-02-16 Mon 10:00-11:00>
 	  :LOGBOOK:
@@ -15209,6 +15215,9 @@ Lectures in calendar and tasks like planning lectures.
 ********* TODO Week 8
 ********** NEXT Prepare lec 8.1
 	   SCHEDULED: <2015-02-16 Mon>
+	   :LOGBOOK:
+	   CLOCK: [2015-02-20 Fri 14:17]
+	   :END:
 	   :PROPERTIES:
 	   :Effort:   1:00
 	   :END:
@@ -15722,7 +15731,10 @@ Lectures in calendar and tasks like planning lectures.
 	  :Effort:   1:00
 	  :END:
 
-******** TODO Week 6
+******** DONE Week 6
+	 :LOGBOOK:
+	 - State "DONE"       from "TODO"       [2015-02-20 Fri 14:17]
+	 :END:
 ********* DONE Lecture 6.1
 	  SCHEDULED: <2015-02-09 Mon 13:00-14:00>
 	  :LOGBOOK:
@@ -15753,7 +15765,10 @@ Lectures in calendar and tasks like planning lectures.
 	  :Effort:   1:00
 	  :END:
 
-******** TODO Week 7
+******** DONE Week 7
+	 :LOGBOOK:
+	 - State "DONE"       from "TODO"       [2015-02-20 Fri 14:17]
+	 :END:
 ********* DONE Lecture 7.1
 	  SCHEDULED: <2015-02-16 Mon 13:00-14:00>
 	  :LOGBOOK:
@@ -15773,8 +15788,12 @@ Lectures in calendar and tasks like planning lectures.
 	  :Effort:   1:00
 	  :END:
 
-********* TODO Lecture 7.3
+********* DONE Lecture 7.3
 	  SCHEDULED: <2015-02-20 Fri 13:00-14:00>
+	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2015-02-20 Fri 14:15]
+	  CLOCK: [2015-02-20 Fri 12:55]--[2015-02-20 Fri 14:05] =>  1:10
+	  :END:
 	  :PROPERTIES:
 	  :Effort:   1:00
 	  :END:
