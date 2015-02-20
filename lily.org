@@ -211,8 +211,11 @@ Please have your child ware closed toed shoes this is a Food Bank Policy.
 <2015-02-12 Thu>
 ***** Jazz
 <2015-02-20 Fri>
-****** NEXT Pay for Jazz field trip
+****** DONE Pay for Jazz field trip
        DEADLINE: <2015-02-20 Fri>
+       :LOGBOOK:
+       - State "DONE"       from "NEXT"       [2015-02-20 Fri 12:13]
+       :END:
 $5
 * Friends
 ** Parties
