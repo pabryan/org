@@ -14491,8 +14491,11 @@ Lectures in calendar and tasks like planning lectures.
 	 :PROPERTIES:
 	 :Effort:   1:00
 	 :END:
-******** TODO Piazza Week 7
+******** DONE Piazza Week 7
 	 SCHEDULED: <2015-02-16 Mon>
+	 :LOGBOOK:
+	 - State "DONE"       from "TODO"       [2015-02-20 Fri 17:07]
+	 :END:
 	 :PROPERTIES:
 	 :Effort:   1:00
 	 :END:
@@ -15542,9 +15545,10 @@ Lectures in calendar and tasks like planning lectures.
 	 :PROPERTIES:
 	 :Effort:   0:30
 	 :END:
-******** NEXT Piazza Week 7
+******** DONE Piazza Week 7
 	 SCHEDULED: <2015-02-16 Mon>
 	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2015-02-20 Fri 17:07]
 	 CLOCK: [2015-02-18 Wed 11:14]--[2015-02-18 Wed 11:23] =>  0:09
 	 :END:
 	 :PROPERTIES:
