@@ -15215,9 +15215,10 @@ Lectures in calendar and tasks like planning lectures.
 	   :Effort:   1:00
 	   :END:
 ********* TODO Week 8
-********** NEXT Prepare lec 8.1
+********** DONE Prepare lec 8.1
 	   SCHEDULED: <2015-02-16 Mon>
 	   :LOGBOOK:
+	   - State "DONE"       from "NEXT"       [2015-02-20 Fri 16:55]
 	   CLOCK: [2015-02-20 Fri 14:17]--[2015-02-20 Fri 15:00] =>  0:43
 	   :END:
 	   :PROPERTIES:
@@ -17577,6 +17578,9 @@ Date - Time:  02/10/2015 - 4:00 PM
 Location:  AP&M 6402
 Speaker:  Burkhard Wilking - 
 Title:  Some new curvature identities and applications to Ricci flow invariant curvature conditions
+**** Ben Chow
+Ricci shrinkers
+<2015-02-26 Thu 12:00-13:00>
 ** TODO SCGAS
 *** Schedule
 **** Speakers dinner
