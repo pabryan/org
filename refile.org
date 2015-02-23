@@ -63,6 +63,9 @@
 [2015-02-19 Thu 20:40]
 - tell her when we're coming
 - will she go to Hedwig and the angry inch
-* TODO Re-book NYC flights
+* DONE Re-book NYC flights
   SCHEDULED: <2015-02-19 Thu>
+  :LOGBOOK:
+  - State "DONE"       from "TODO"       [2015-02-22 Sun 20:58]
+  :END:
 [2015-02-19 Thu 20:42]
