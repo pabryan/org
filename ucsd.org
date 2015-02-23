@@ -14754,8 +14754,15 @@ Lectures in calendar and tasks like planning lectures.
 	  :END:
 
 ******** TODO Week 8
-********* TODO Lecture 8.1
+	 :LOGBOOK:
+	 CLOCK: [2015-02-23 Mon 11:16]
+	 :END:
+********* DONE Lecture 8.1
 	  SCHEDULED: <2015-02-23 Mon 10:00-11:00>
+	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2015-02-23 Mon 11:16]
+	  CLOCK: [2015-02-23 Mon 09:50]--[2015-02-23 Mon 11:16] =>  1:26
+	  :END:
 	  :PROPERTIES:
 	  :Effort:   1:30
 	  :END:
