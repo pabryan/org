@@ -17488,8 +17488,12 @@ Abstract:
 ****** Tasks
 ******* TODO Prepare talks
 ******** NEXT Prepare sets of finite perimeter talk
-******** NEXT Prepare Ritore's thm talk I
+******** DONE Prepare Ritore's thm talk I
 	 SCHEDULED: <2015-02-19 Thu>
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2015-02-22 Sun 20:28]
+	 CLOCK: [2015-02-22 Sun 13:45]--[2015-02-22 Sun 15:50] =>  2:05
+	 :END:
 ******** NEXT Prepare Ritore's thm talk II
 	 SCHEDULED: <2015-02-26 Thu>
 
