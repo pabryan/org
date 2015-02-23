@@ -14909,7 +14909,10 @@ Lectures in calendar and tasks like planning lectures.
 	 :Effort:   2:00
 	 :END:
 
-******** TODO O/H Week 8
+******** NEXT O/H Week 8
+	 :LOGBOOK:
+	 CLOCK: [2015-02-23 Mon 14:26]
+	 :END:
 	 <2015-02-23 Mon 15:00-17:00>
 	 :PROPERTIES:
 	 :Effort:   2:00
@@ -15819,8 +15822,11 @@ Lectures in calendar and tasks like planning lectures.
 	  :END:
 
 ******** TODO Week 8
-********* TODO Lecture 8.1
+********* NEXT Lecture 8.1
 	  SCHEDULED: <2015-02-23 Mon 13:00-14:00>
+	  :LOGBOOK:
+	  CLOCK: [2015-02-23 Mon 15:20]--[2015-02-23 Mon 15:26] =>  0:06
+	  :END:
 	  :PROPERTIES:
 	  :Effort:   1:00
 	  :END:
