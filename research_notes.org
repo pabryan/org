@@ -58,3 +58,33 @@
 
 * Tasks
 ** Notes to write
+*** TODO Write notes on modulus of continuity for viscosity equations
+[2015-02-15 Sun 14:20]
+*** TODO write notes on MCF optimal transport
+  :LOGBOOK:
+  CLOCK: [2015-02-15 Sun 14:20]--[2015-02-15 Sun 14:21] =>  0:01
+  :END:
+[2015-02-15 Sun 14:20]
+- calculate evolution of optimal transport map which is gradient of convex function
+*** TODO Write notes on dist comp.
+[2015-02-16 Mon 11:21]
+*** TODO Set up Vector symmetric polynomials for sage
+[2015-02-16 Mon 11:21]
+*** TODO Write isoperimetric comparison via viscosity for manifolds with density
+[2015-02-17 Tue 14:45]
+*** TODO Set up higher osculating spaces paper
+  :LOGBOOK:
+  CLOCK: [2015-02-19 Thu 10:28]--[2015-02-19 Thu 10:29] =>  0:01
+  :END:
+[2015-02-19 Thu 10:28]
+*** TODO Write up Gauss map ideas
+  :LOGBOOK:
+  CLOCK: [2015-02-19 Thu 10:56]--[2015-02-19 Thu 10:57] =>  0:01
+  :END:
+[2015-02-19 Thu 10:56]
+- dimension
+- is this equal to some known dimension
+- interaction with grassmanians
+- embedding theorems (Nash!)
+- open manifolds - can I somehow count coverings?
+- finite type. Is this the same as Gauss map dim finite?
