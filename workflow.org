@@ -1827,7 +1827,7 @@ http://gmane.org
   :END:
 ** Organisation
   :LOGBOOK:
-  CLOCK: [2015-02-24 Tue 11:41]
+  CLOCK: [2015-02-24 Tue 11:41]--[2015-02-24 Tue 12:40] =>  0:59
   CLOCK: [2015-02-23 Mon 16:38]--[2015-02-23 Mon 17:32] =>  0:54
   CLOCK: [2015-02-23 Mon 14:25]--[2015-02-23 Mon 15:26] =>  1:01
   CLOCK: [2015-02-23 Mon 11:56]--[2015-02-23 Mon 12:00] =>  0:04
@@ -4325,9 +4325,10 @@ When I set up scoring the day:
   - This would be ranking *qualitative* things such as general mood, pain, energy, motivation etc.
 - [ ] Collate data such as sleep, weight, exercise, diet etc.
 
-** NEXT Daily Plan [0/8]
+** NEXT Daily Plan [4/8]
    SCHEDULED: <2015-02-24 Tue .+1d/2d>
    :LOGBOOK:
+   CLOCK: [2015-02-24 Tue 12:41]
    - State "DONE"       from "NEXT"       [2015-02-23 Mon 11:47]
    CLOCK: [2015-02-23 Mon 11:35]--[2015-02-23 Mon 11:47] =>  0:12
    CLOCK: [2015-02-23 Mon 11:20]--[2015-02-23 Mon 11:22] =>  0:02
@@ -5365,10 +5366,10 @@ When I set up scoring the day:
    :LAST_REPEAT: [2015-02-23 Mon 11:47]
    :END:
 
-- [ ] Check agenda/focus
-- [ ] Check weekly agenda
-- [ ] Check emails (including holding)
-- [ ] Check uncommitted work
+- [X] Check agenda/focus
+- [X] Check weekly agenda
+- [X] Check emails (including holding)
+- [X] Check uncommitted work
 - [ ] Check clocking for week so far
 - [ ] Tidy up agenda tasks
   - mark done those tasks already done
