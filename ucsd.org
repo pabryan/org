@@ -17584,9 +17584,10 @@ Abstract:
       :Effort:   1:30
       :END:
       <2015-02-17 Tue 10:30-12:00>
-***** NEXT Ben Chow meeting
+***** DONE Ben Chow meeting
       :LOGBOOK:
-      CLOCK: [2015-02-24 Tue 10:35]
+      - State "DONE"       from "NEXT"       [2015-02-24 Tue 11:41]
+      CLOCK: [2015-02-24 Tue 10:35]--[2015-02-24 Tue 11:41] =>  1:06
       :END:
       :PROPERTIES:
       :Effort:   1:30
