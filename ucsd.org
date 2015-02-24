@@ -15235,9 +15235,6 @@ Lectures in calendar and tasks like planning lectures.
 	   :Effort:   1:00
 	   :END:
 ********* TODO Week 8
-	  :LOGBOOK:
-	  CLOCK: [2015-02-24 Tue 13:34]
-	  :END:
 ********** DONE Prepare lec 8.1
 	   SCHEDULED: <2015-02-16 Mon>
 	   :LOGBOOK:
@@ -16013,6 +16010,9 @@ Lectures in calendar and tasks like planning lectures.
 <2015-02-27 Fri 15:00-16:00>
 ****** NEXT Prepare Lei Ni's graduate class lecture
        DEADLINE: <2015-02-26 Thu>
+       :LOGBOOK:
+       CLOCK: [2015-02-24 Tue 13:34]--[2015-02-24 Tue 15:10] =>  1:36
+       :END:
 
 **** Spring 2015
 **** Summer I 2015
