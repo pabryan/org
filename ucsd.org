@@ -16008,9 +16008,11 @@ Lectures in calendar and tasks like planning lectures.
 <2015-02-20 Fri 11:00-12:00>
 ****** NEXT Cover Lei Ni's Graduate class
 <2015-02-27 Fri 15:00-16:00>
-****** NEXT Prepare Lei Ni's graduate class lecture
+****** DONE Prepare Lei Ni's graduate class lecture
        DEADLINE: <2015-02-26 Thu>
        :LOGBOOK:
+       - State "DONE"       from "NEXT"       [2015-02-25 Wed 09:01]
+       CLOCK: [2015-02-24 Tue 19:34]--[2015-02-24 Tue 20:10] =>  0:36
        CLOCK: [2015-02-24 Tue 13:34]--[2015-02-24 Tue 15:10] =>  1:36
        :END:
 
@@ -17773,8 +17775,11 @@ Mandeville Suite
   :ID:       00063426-72bb-49e3-8a61-f9cc66466da1
   :END:
 [2013-11-08 Fri 13:28]
-*** NEXT Get travel signature for DS-2019
+*** DONE Get travel signature for DS-2019
     DEADLINE: <2015-02-27 Fri>
+    :LOGBOOK:
+    - State "DONE"       from "NEXT"       [2015-02-25 Wed 09:01]
+    :END:
 *** DONE Bring I94's and DS-2019's for J1 extension
     DEADLINE: <2015-02-13 Fri>
     :LOGBOOK:
