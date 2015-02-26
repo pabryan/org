@@ -88,3 +88,4 @@
 - embedding theorems (Nash!)
 - open manifolds - can I somehow count coverings?
 - finite type. Is this the same as Gauss map dim finite?
+*** TODO Write Harnack inequality for sphere MCF
