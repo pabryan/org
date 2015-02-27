@@ -13961,35 +13961,6 @@ Lectures in calendar and tasks like planning lectures.
 	 :END:
 **** Winter 2015						      :FOCUS:
 ***** TODO Math20B
-****** Clock Report
-#+BEGIN: clocktable :maxlevel 10 :scope tree5 :block thisweek
-#+CAPTION: Clock summary at [2015-02-27 Fri 12:09], for week 2015-W09.
-| Headline                                         | Time   |   |   |   |      |      |      |      |      |      |
-|--------------------------------------------------+--------+---+---+---+------+------+------+------+------+------|
-| *Total time*                                     | *8:26* |   |   |   |      |      |      |      |      |      |
-|--------------------------------------------------+--------+---+---+---+------+------+------+------+------+------|
-| \___________ TODO Math20B                        |        |   |   |   | 8:26 |      |      |      |      |      |
-| \______________ Tasks                            |        |   |   |   |      | 0:31 |      |      |      |      |
-| \_________________ TODO Lectures                 |        |   |   |   |      |      | 0:31 |      |      |      |
-| \____________________ TODO Prepare lectures      |        |   |   |   |      |      |      | 0:31 |      |      |
-| \_______________________ TODO Week 9             |        |   |   |   |      |      |      |      | 0:31 |      |
-| \__________________________ DONE Prepare lec 9.1 |        |   |   |   |      |      |      |      |      | 0:11 |
-| \__________________________ DONE Prepare lec 9.2 |        |   |   |   |      |      |      |      |      | 0:10 |
-| \__________________________ DONE Prepare lec 9.3 |        |   |   |   |      |      |      |      |      | 0:09 |
-| \______________ Clocking                         |        |   |   |   |      | 0:40 |      |      |      |      |
-| \_________________ TODO Piazza                   |        |   |   |   |      |      | 0:40 |      |      |      |
-| \____________________ NEXT Piazza Week 8         |        |   |   |   |      |      |      | 0:40 |      |      |
-| \______________ Schedule                         |        |   |   |   |      | 7:15 |      |      |      |      |
-| \_________________ TODO Lectures                 |        |   |   |   |      |      | 2:52 |      |      |      |
-| \____________________ TODO Week 8                |        |   |   |   |      |      |      | 2:52 |      |      |
-| \_______________________ DONE Lecture 8.1        |        |   |   |   |      |      |      |      | 1:26 |      |
-| \_______________________ DONE Lecture 8.2        |        |   |   |   |      |      |      |      | 1:22 |      |
-| \_________________ TODO Exams                    |        |   |   |   |      |      | 2:12 |      |      |      |
-| \____________________ DONE Midterm 2             |        |   |   |   |      |      |      | 1:54 |      |      |
-| \_________________ TODO Office hours             |        |   |   |   |      |      | 2:11 |      |      |      |
-| \____________________ DONE O/H Week 8            |        |   |   |   |      |      |      | 2:11 |      |      |
-#+END:
-
 ****** Files
 [[file:~/working/ucsd/teaching/2015/winter/math20b_winter_2015]] 
 [[file:~/reference/ucsd/teaching/2015/winter/math20b]]
@@ -14187,7 +14158,10 @@ Lectures in calendar and tasks like planning lectures.
 	   :PROPERTIES:
 	   :Effort:   1:00
 	   :END:
-********* TODO Week 6
+********* DONE Week 6
+	  :LOGBOOK:
+	  - State "DONE"       from "TODO"       [2015-02-27 Fri 12:18]
+	  :END:
 ********** DONE Prepare lec 6.1
 	   SCHEDULED: <2015-02-02 Mon>
 	   :LOGBOOK:
@@ -14219,7 +14193,10 @@ Lectures in calendar and tasks like planning lectures.
 	   :PROPERTIES:
 	   :Effort:   1:00
 	   :END:
-********* TODO Week 7
+********* DONE Week 7
+	  :LOGBOOK:
+	  - State "DONE"       from "TODO"       [2015-02-27 Fri 12:18]
+	  :END:
 ********** DONE Prepare lec 7.1
 	   SCHEDULED: <2015-02-09 Mon>
 	   :LOGBOOK:
@@ -14249,7 +14226,10 @@ Lectures in calendar and tasks like planning lectures.
 	   :PROPERTIES:
 	   :Effort:   1:00
 	   :END:
-********* TODO Week 8
+********* DONE Week 8
+	  :LOGBOOK:
+	  - State "DONE"       from "TODO"       [2015-02-27 Fri 12:18]
+	  :END:
 ********** DONE Prepare lec 8.1
 	   SCHEDULED: <2015-02-16 Mon>
 	   :LOGBOOK:
@@ -14278,8 +14258,9 @@ Lectures in calendar and tasks like planning lectures.
 	   :PROPERTIES:
 	   :Effort:   1:00
 	   :END:
-********* TODO Week 9
+********* DONE Week 9
 	  :LOGBOOK:
+	  - State "DONE"       from "TODO"       [2015-02-27 Fri 12:18]
 	  CLOCK: [2015-02-25 Wed 15:52]--[2015-02-25 Wed 15:53] =>  0:01
 	  :END:
 ********** DONE Prepare lec 9.1
@@ -14825,8 +14806,11 @@ Lectures in calendar and tasks like planning lectures.
 	  :Effort:   1:30
 	  :END:
 
-********* TODO Lecture 8.3
+********* NEXT Lecture 8.3
 	  SCHEDULED: <2015-02-27 Fri 10:00-11:00>
+	  :LOGBOOK:
+	  CLOCK: [2015-02-27 Fri 09:55]--[2015-02-27 Fri 11:10] =>  1:15
+	  :END:
 	  :PROPERTIES:
 	  :Effort:   1:30
 	  :END:
@@ -14870,9 +14854,6 @@ Lectures in calendar and tasks like planning lectures.
 	  :END:
 
 ******* TODO Exams
-	:LOGBOOK:
-	CLOCK: [2015-02-26 Thu 21:26]--[2015-02-26 Thu 21:44] =>  0:18
-	:END:
 ******** DONE Midterm 1
 	 :LOGBOOK:
 	 - State "DONE"       from "NEXT"       [2015-01-29 Thu 19:36]
@@ -15019,6 +15000,35 @@ Lectures in calendar and tasks like planning lectures.
 	  :Effort:   1:00
 	  :END:
 	  <2015-03-04 Wed 17:00-18:00>
+
+****** Clock Report
+#+BEGIN: clocktable :maxlevel 10 :scope tree5 :block thisweek
+#+CAPTION: Clock summary at [2015-02-27 Fri 12:09], for week 2015-W09.
+| Headline                                         | Time   |   |   |   |      |      |      |      |      |      |
+|--------------------------------------------------+--------+---+---+---+------+------+------+------+------+------|
+| *Total time*                                     | *8:26* |   |   |   |      |      |      |      |      |      |
+|--------------------------------------------------+--------+---+---+---+------+------+------+------+------+------|
+| \___________ TODO Math20B                        |        |   |   |   | 8:26 |      |      |      |      |      |
+| \______________ Tasks                            |        |   |   |   |      | 0:31 |      |      |      |      |
+| \_________________ TODO Lectures                 |        |   |   |   |      |      | 0:31 |      |      |      |
+| \____________________ TODO Prepare lectures      |        |   |   |   |      |      |      | 0:31 |      |      |
+| \_______________________ TODO Week 9             |        |   |   |   |      |      |      |      | 0:31 |      |
+| \__________________________ DONE Prepare lec 9.1 |        |   |   |   |      |      |      |      |      | 0:11 |
+| \__________________________ DONE Prepare lec 9.2 |        |   |   |   |      |      |      |      |      | 0:10 |
+| \__________________________ DONE Prepare lec 9.3 |        |   |   |   |      |      |      |      |      | 0:09 |
+| \______________ Clocking                         |        |   |   |   |      | 0:40 |      |      |      |      |
+| \_________________ TODO Piazza                   |        |   |   |   |      |      | 0:40 |      |      |      |
+| \____________________ NEXT Piazza Week 8         |        |   |   |   |      |      |      | 0:40 |      |      |
+| \______________ Schedule                         |        |   |   |   |      | 7:15 |      |      |      |      |
+| \_________________ TODO Lectures                 |        |   |   |   |      |      | 2:52 |      |      |      |
+| \____________________ TODO Week 8                |        |   |   |   |      |      |      | 2:52 |      |      |
+| \_______________________ DONE Lecture 8.1        |        |   |   |   |      |      |      |      | 1:26 |      |
+| \_______________________ DONE Lecture 8.2        |        |   |   |   |      |      |      |      | 1:22 |      |
+| \_________________ TODO Exams                    |        |   |   |   |      |      | 2:12 |      |      |      |
+| \____________________ DONE Midterm 2             |        |   |   |   |      |      |      | 1:54 |      |      |
+| \_________________ TODO Office hours             |        |   |   |   |      |      | 2:11 |      |      |      |
+| \____________________ DONE O/H Week 8            |        |   |   |   |      |      |      | 2:11 |      |      |
+#+END:
 
 ***** TODO Math142B
 ****** Files
@@ -15259,7 +15269,10 @@ Lectures in calendar and tasks like planning lectures.
 	   :PROPERTIES:
 	   :Effort:   1:00
 	   :END:
-********* TODO Week 7
+********* DONE Week 7
+	  :LOGBOOK:
+	  - State "DONE"       from "TODO"       [2015-02-27 Fri 12:18]
+	  :END:
 ********** DONE Prepare lec 7.1
 	   SCHEDULED: <2015-02-09 Mon>
 	   :LOGBOOK:
@@ -15287,8 +15300,9 @@ Lectures in calendar and tasks like planning lectures.
 	   :PROPERTIES:
 	   :Effort:   1:00
 	   :END:
-********* TODO Week 8
+********* DONE Week 8
 	  :LOGBOOK:
+	  - State "DONE"       from "TODO"       [2015-02-27 Fri 12:18]
 	  CLOCK: [2015-02-25 Wed 11:51]--[2015-02-25 Wed 11:54] =>  0:03
 	  :END:
 ********** DONE Prepare lec 8.1
@@ -15347,6 +15361,9 @@ Lectures in calendar and tasks like planning lectures.
 
 ********** NEXT Prepare lec 9.3
 	   SCHEDULED: <2015-02-23 Mon>
+	   :LOGBOOK:
+	   CLOCK: [2015-02-27 Fri 12:18]
+	   :END:
 	   :PROPERTIES:
 	   :Effort:   1:00
 	   :END:
@@ -16072,6 +16089,30 @@ Lectures in calendar and tasks like planning lectures.
 	 :Effort:   0:30
 	 :END:
 <2015-01-05 Mon 11:00-11:30>
+****** Clock Report
+#+BEGIN: clocktable :maxlevel 10 :scope tree5 :block thisweek
+#+CAPTION: Clock summary at [2015-02-27 Fri 12:10], for week 2015-W09.
+| Headline                                         | Time   |   |   |   |      |      |      |      |      |      |
+|--------------------------------------------------+--------+---+---+---+------+------+------+------+------+------|
+| *Total time*                                     | *5:14* |   |   |   |      |      |      |      |      |      |
+|--------------------------------------------------+--------+---+---+---+------+------+------+------+------+------|
+| \___________ TODO Math142B                       |        |   |   |   | 5:14 |      |      |      |      |      |
+| \______________ Tasks                            |        |   |   |   |      | 2:59 |      |      |      |      |
+| \_________________ TODO Lectures                 |        |   |   |   |      |      | 2:59 |      |      |      |
+| \____________________ TODO Prepare lectures      |        |   |   |   |      |      |      | 2:59 |      |      |
+| \_______________________ TODO Week 8             |        |   |   |   |      |      |      |      | 1:12 |      |
+| \__________________________ DONE Prepare lec 8.2 |        |   |   |   |      |      |      |      |      | 0:36 |
+| \__________________________ DONE Prepare lec 8.3 |        |   |   |   |      |      |      |      |      | 0:33 |
+| \_______________________ TODO Week 9             |        |   |   |   |      |      |      |      | 1:47 |      |
+| \__________________________ DONE Prepare lec 9.1 |        |   |   |   |      |      |      |      |      | 0:45 |
+| \__________________________ DONE Prepare lec 9.2 |        |   |   |   |      |      |      |      |      | 0:39 |
+| \______________ Schedule                         |        |   |   |   |      | 2:15 |      |      |      |      |
+| \_________________ TODO Lectures                 |        |   |   |   |      |      | 2:15 |      |      |      |
+| \____________________ TODO Week 8                |        |   |   |   |      |      |      | 2:15 |      |      |
+| \_______________________ DONE Lecture 8.1        |        |   |   |   |      |      |      |      | 1:10 |      |
+| \_______________________ DONE Lecture 8.2        |        |   |   |   |      |      |      |      | 1:05 |      |
+#+END:
+
 ***** TODO Cover lectures
       :LOGBOOK:
       CLOCK: [2015-02-20 Fri 12:09]--[2015-02-20 Fri 12:13] =>  0:04
