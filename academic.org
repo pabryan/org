@@ -5122,6 +5122,10 @@ Is there a consistent (say providing ZFC is consistent) set theory without the e
        CLOCK: [2015-02-15 Sun 11:30]--[2015-02-15 Sun 13:50] =>  2:20
        CLOCK: [2015-02-12 Thu 09:30]--[2015-02-12 Thu 10:42] =>  1:12
        :END:
+****** NEXT Read Morgan
+       :LOGBOOK:
+       CLOCK: [2015-02-27 Fri 14:20]--[2015-02-27 Fri 14:39] =>  0:19
+       :END:
 **** GMT Seminar notes
 ***** Lec 01
 Minimal and CMC surfaces. First variation.
