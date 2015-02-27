@@ -15362,7 +15362,7 @@ Lectures in calendar and tasks like planning lectures.
 ********** NEXT Prepare lec 9.3
 	   SCHEDULED: <2015-02-23 Mon>
 	   :LOGBOOK:
-	   CLOCK: [2015-02-27 Fri 14:43]
+	   CLOCK: [2015-02-27 Fri 14:43]--[2015-02-27 Fri 14:59] =>  0:16
 	   CLOCK: [2015-02-27 Fri 12:18]--[2015-02-27 Fri 12:19] =>  0:01
 	   :END:
 	   :PROPERTIES:
@@ -16131,6 +16131,9 @@ Lectures in calendar and tasks like planning lectures.
        :END:
 <2015-02-20 Fri 11:00-12:00>
 ****** NEXT Cover Lei Ni's Graduate class
+       :LOGBOOK:
+       CLOCK: [2015-02-27 Fri 14:59]
+       :END:
 <2015-02-27 Fri 15:00-16:00>
 ****** DONE Prepare Lei Ni's graduate class lecture
        DEADLINE: <2015-02-26 Thu>
