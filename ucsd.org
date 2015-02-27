@@ -13961,6 +13961,35 @@ Lectures in calendar and tasks like planning lectures.
 	 :END:
 **** Winter 2015						      :FOCUS:
 ***** TODO Math20B
+****** Clock Report
+#+BEGIN: clocktable :maxlevel 10 :scope tree5 :block thisweek
+#+CAPTION: Clock summary at [2015-02-27 Fri 12:09], for week 2015-W09.
+| Headline                                         | Time   |   |   |   |      |      |      |      |      |      |
+|--------------------------------------------------+--------+---+---+---+------+------+------+------+------+------|
+| *Total time*                                     | *8:26* |   |   |   |      |      |      |      |      |      |
+|--------------------------------------------------+--------+---+---+---+------+------+------+------+------+------|
+| \___________ TODO Math20B                        |        |   |   |   | 8:26 |      |      |      |      |      |
+| \______________ Tasks                            |        |   |   |   |      | 0:31 |      |      |      |      |
+| \_________________ TODO Lectures                 |        |   |   |   |      |      | 0:31 |      |      |      |
+| \____________________ TODO Prepare lectures      |        |   |   |   |      |      |      | 0:31 |      |      |
+| \_______________________ TODO Week 9             |        |   |   |   |      |      |      |      | 0:31 |      |
+| \__________________________ DONE Prepare lec 9.1 |        |   |   |   |      |      |      |      |      | 0:11 |
+| \__________________________ DONE Prepare lec 9.2 |        |   |   |   |      |      |      |      |      | 0:10 |
+| \__________________________ DONE Prepare lec 9.3 |        |   |   |   |      |      |      |      |      | 0:09 |
+| \______________ Clocking                         |        |   |   |   |      | 0:40 |      |      |      |      |
+| \_________________ TODO Piazza                   |        |   |   |   |      |      | 0:40 |      |      |      |
+| \____________________ NEXT Piazza Week 8         |        |   |   |   |      |      |      | 0:40 |      |      |
+| \______________ Schedule                         |        |   |   |   |      | 7:15 |      |      |      |      |
+| \_________________ TODO Lectures                 |        |   |   |   |      |      | 2:52 |      |      |      |
+| \____________________ TODO Week 8                |        |   |   |   |      |      |      | 2:52 |      |      |
+| \_______________________ DONE Lecture 8.1        |        |   |   |   |      |      |      |      | 1:26 |      |
+| \_______________________ DONE Lecture 8.2        |        |   |   |   |      |      |      |      | 1:22 |      |
+| \_________________ TODO Exams                    |        |   |   |   |      |      | 2:12 |      |      |      |
+| \____________________ DONE Midterm 2             |        |   |   |   |      |      |      | 1:54 |      |      |
+| \_________________ TODO Office hours             |        |   |   |   |      |      | 2:11 |      |      |      |
+| \____________________ DONE O/H Week 8            |        |   |   |   |      |      |      | 2:11 |      |      |
+#+END:
+
 ****** Files
 [[file:~/working/ucsd/teaching/2015/winter/math20b_winter_2015]] 
 [[file:~/reference/ucsd/teaching/2015/winter/math20b]]
@@ -14431,11 +14460,6 @@ Lectures in calendar and tasks like planning lectures.
 
 ****** Clocking
 ******* TODO Piazza
-	:LOGBOOK:
-	CLOCK: [2015-02-06 Fri 11:25]--[2015-02-25 Wed 11:18] => 455:53
-	CLOCK: [2015-01-30 Fri 11:52]--[2015-01-30 Fri 11:53] =>  0:01
-	CLOCK: [2015-01-16 Fri 11:49]--[2015-01-16 Fri 11:50] =>  0:01
-	:END:
 ******** DONE Piazza Week 1
 	 SCHEDULED: <2015-01-05 Mon>
 	 :LOGBOOK:
