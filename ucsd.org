@@ -14855,7 +14855,10 @@ Lectures in calendar and tasks like planning lectures.
 	 :PROPERTIES:
 	 :Effort:   1:30
 	 :END:
-******** TODO Midterm 2
+******** NEXT Midterm 2
+	 :LOGBOOK:
+	 CLOCK: [2015-02-26 Thu 19:32]
+	 :END:
 	 <2015-02-26 Thu 19:45-21:15>
 	 :PROPERTIES:
 	 :Effort:   1:30
