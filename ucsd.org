@@ -15362,7 +15362,7 @@ Lectures in calendar and tasks like planning lectures.
 ********** NEXT Prepare lec 9.3
 	   SCHEDULED: <2015-02-23 Mon>
 	   :LOGBOOK:
-	   CLOCK: [2015-02-27 Fri 12:18]
+	   CLOCK: [2015-02-27 Fri 12:18]--[2015-02-27 Fri 12:19] =>  0:01
 	   :END:
 	   :PROPERTIES:
 	   :Effort:   1:00
