@@ -15341,6 +15341,7 @@ Lectures in calendar and tasks like planning lectures.
 	   :END:
 ********* TODO Week 9
 	  :LOGBOOK:
+	  CLOCK: [2015-02-27 Fri 16:55]
 	  CLOCK: [2015-02-25 Wed 16:32]--[2015-02-25 Wed 16:33] =>  0:01
 	  CLOCK: [2015-02-25 Wed 15:11]--[2015-02-25 Wed 15:33] =>  0:22
 	  :END:
@@ -15364,10 +15365,11 @@ Lectures in calendar and tasks like planning lectures.
 	   :Effort:   1:00
 	   :END:
 
-********** NEXT Prepare lec 9.3
+********** DONE Prepare lec 9.3
 	   SCHEDULED: <2015-02-23 Mon>
 	   :LOGBOOK:
-	   CLOCK: [2015-02-27 Fri 16:18]
+	   - State "DONE"       from "NEXT"       [2015-02-27 Fri 16:55]
+	   CLOCK: [2015-02-27 Fri 16:18]--[2015-02-27 Fri 16:55] =>  0:37
 	   CLOCK: [2015-02-27 Fri 14:43]--[2015-02-27 Fri 14:59] =>  0:16
 	   CLOCK: [2015-02-27 Fri 12:18]--[2015-02-27 Fri 12:19] =>  0:01
 	   :END:
