@@ -1904,7 +1904,7 @@ If $K = \tilde{K} \intersect \sphere^n$, then $\tilde{K} \subset $\text{cone} (K
 ******** TODO Applications
 ********* NEXT Lies in a hemisphere
 ******* TODO Proof reading
-**** TODO CSF surfaces distance comparison	     :CSF:SURFACES:DIST_COMP:
+**** TODO CSF surfaces distance comparison :CSF:SURFACES:DIST_COMP:INPROGRESS:
    :PROPERTIES:
    :ID:       85f583ed-c9eb-4993-91e3-8cedf9945d1f
    :END:
@@ -1939,6 +1939,9 @@ If $K = \tilde{K} \intersect \sphere^n$, then $\tilde{K} \subset $\text{cone} (K
          :END:
 ******* TODO Chord/arc profile
 ******** NEXT Write variations
+	 :LOGBOOK:
+	 CLOCK: [2015-02-16 Mon 17:30]--[2015-02-16 Mon 18:20] =>  0:50
+	 :END:
 ******** NEXT Write asymptotics
 ******** NEXT Write viscosity equation
 ******* TODO Comparisons
