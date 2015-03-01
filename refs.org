@@ -717,6 +717,12 @@
 :END:
 [[papers:MR1316556][MR1316556-paper]]
 [[bib:MR1316556][MR1316556-bib]]
+***** Harnack inequalities for curvature flows depending on mean curvature
+:PROPERTIES:
+:Custom_ID: MR1480081
+:END:
+[[papers:MR1480081][MR1480081-paper]]
+[[bib:MR1480081][MR1480081-bib]]
 **** 53C22 (1980-now) Geodesics [See also 58E10]
 ***** Shortening embedded curves
 :PROPERTIES:
@@ -1442,6 +1448,14 @@ Here I need to do some more work since $u \mapsto g(\grad u, \grad u)$ is not a 
 :END:
 [[papers:MR2352963][MR2352963-paper]]
 [[bib:MR2352963][MR2352963-bib]]
+** 90 (1940-now) Operations research, mathematical programming
+*** 90.0 (1940-1958) Economics, management science, games, programming, resource allocation
+***** Equilibrium points in {$n$}-person games
+:PROPERTIES:
+:Custom_ID: MR0031701
+:END:
+[[papers:MR0031701][MR0031701-paper]]
+[[bib:MR0031701][MR0031701-bib]]
 ** Contributed
 *** On {C}omputable {N}umbers, with an {A}pplication to the {E}ntscheidungsproblem
 :PROPERTIES:
@@ -1601,6 +1615,18 @@ Here I need to do some more work since $u \mapsto g(\grad u, \grad u)$ is not a 
 :END:
 [[papers:2014arXiv1411.2672N][2014arXiv1411.2672N-paper]]
 [[bib:2014arXiv1411.2672N][2014arXiv1411.2672N-bib]]
+*** BV functions and sets of finite perimeter in sub-Riemannian manifolds
+:PROPERTIES:
+:Custom_ID: 2013arXiv1303.6074A
+:END:
+[[papers:2013arXiv1303.6074A][2013arXiv1303.6074A-paper]]
+[[bib:2013arXiv1303.6074A][2013arXiv1303.6074A-bib]]
+*** Functions with bounded variation on a class of Riemannian manifolds with Ricci curvature unbounded from below
+:PROPERTIES:
+:Custom_ID: 2012arXiv1211.6863G
+:END:
+[[papers:2012arXiv1211.6863G][2012arXiv1211.6863G-paper]]
+[[bib:2012arXiv1211.6863G][2012arXiv1211.6863G-bib]]
 ** math.AP							     :ap:pde:
 *** user's guide to viscosity solutions of second order partial differential equations
 :PROPERTIES:

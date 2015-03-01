@@ -3797,8 +3797,9 @@ Set some goals for the month. I should check someday projects for inclusion in t
 Check how I did last month. I guess the review and plan could probably go together. This is all broad stuff
 
 ** NEXT Daily Review [0/10]
-   SCHEDULED: <2015-02-28 Sat .+1d/2d>
+   SCHEDULED: <2015-03-01 Sun .+1d/2d>
    :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2015-02-28 Sat 19:33]
    - State "DONE"       from "NEXT"       [2015-02-27 Fri 17:02]
    CLOCK: [2015-02-27 Fri 16:55]--[2015-02-27 Fri 17:00] =>  0:05
    - State "DONE"       from "NEXT"       [2015-02-25 Wed 16:47]
@@ -4322,7 +4323,7 @@ Check how I did last month. I guess the review and plan could probably go togeth
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
    :ID:       616c5bd9-d941-4fcc-8874-2ff3c9e96b4a
-   :LAST_REPEAT: [2015-02-27 Fri 17:02]
+   :LAST_REPEAT: [2015-02-28 Sat 19:33]
    :END:
 
 What to review:
@@ -5402,9 +5403,10 @@ When I set up scoring the day:
 - [ ] Do short tasks
 - [ ] Record morning health stats
 
-** NEXT Weekly Review [4/20]
+** NEXT Weekly Review [18/20]
    SCHEDULED: <2015-02-20 Fri +1w>
    :LOGBOOK:
+   CLOCK: [2015-02-28 Sat 19:34]--[2015-02-28 Sat 20:23] =>  0:49
    CLOCK: [2015-02-28 Sat 17:11]--[2015-02-28 Sat 18:09] =>  0:58
    - State "DONE"       from "NEXT"       [2015-02-15 Sun 14:19]
    CLOCK: [2015-02-15 Sun 13:54]--[2015-02-15 Sun 14:19] =>  0:25
@@ -5573,35 +5575,35 @@ When I set up scoring the day:
   [[file:~/holding]]
 - [X] Check holding email folder
 - [X] Check coupons email folder
-- [ ] Review weekly agenda =F12 a w//=
-- [ ] Check clocking data for past week =v c=
+- [X] Review weekly agenda =F12 a w//=
+- [X] Check clocking data for past week =v c=
   - fix up any errors
-- [ ] Review clock report for past week =R=
+- [X] Review clock report for past week =R=
   - Check where we spent time (too much or too little) and rectify this week
-- [ ] Look at entire agenda for today  =F12 SPC=
-- [ ] Check un-committed work
-- [ ] Refile tasks
-- [ ] Weekly clean up
-  - [ ] Clean up Downloads
-  - [ ] Clean up tmp
-  - [ ] Clean up tablet
-  - [ ] Clean up phone
-- [ ] Process incoming information
-  - [ ] feedly
-  - [ ] pocket
-- [ ] Review focus projects 
-- [ ] Set focus
+- [X] Look at entire agenda for today  =F12 SPC=
+- [X] Check un-committed work
+- [X] Refile tasks
+- [X] Weekly clean up
+  - [X] Clean up Downloads
+  - [X] Clean up tmp
+  - [X] Clean up tablet
+  - [X] Clean up phone
+- [X] Process incoming information
+  - [X] feedly
+  - [X] pocket
+- [X] Review focus projects 
+- [X] Set focus
 - [ ] Check follow-up paper folder
 - [ ] Collate the weeks: pad scribbles, org-mode notes, phone notes, etc.
 - [X] Check Finances
   - Check bank accounts and compare with what's still to come
   - Plan the weeks budget
   - Update monthly transactions
-- [ ] Copy music to phone
-- [ ] Share photos on Google+
-- [ ] Update Abundant Harvest order
+- [X] Copy music to phone
+- [X] Share photos on Google+
+- [X] Update Abundant Harvest order
   - http://www.abundantharvestorganics.com/
-- [ ] Order meat
+- [X] Order meat
   - http://www.son-riseranchstore.com/
 
 *** Maybe tasks
