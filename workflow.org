@@ -4343,8 +4343,9 @@ When I set up scoring the day:
 - [ ] Collate data such as sleep, weight, exercise, diet etc.
 
 ** NEXT Daily Plan [0/8]
-   SCHEDULED: <2015-02-28 Sat .+1d/2d>
+   SCHEDULED: <2015-03-01 Sun .+1d/2d>
    :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2015-02-28 Sat 17:11]
    - State "DONE"       from "NEXT"       [2015-02-27 Fri 12:12]
    CLOCK: [2015-02-27 Fri 11:37]--[2015-02-27 Fri 12:12] =>  0:35
    CLOCK: [2015-02-27 Fri 11:34]--[2015-02-27 Fri 11:35] =>  0:01
@@ -5388,7 +5389,7 @@ When I set up scoring the day:
    :RESET_CHECK_BOXES: t
    :ID:       ef051ee0-1113-4604-b355-450a5a47848b
    
-   :LAST_REPEAT: [2015-02-27 Fri 12:12]
+   :LAST_REPEAT: [2015-02-28 Sat 17:11]
    :END:
 
 - [ ] Check agenda/focus
@@ -5401,9 +5402,10 @@ When I set up scoring the day:
 - [ ] Do short tasks
 - [ ] Record morning health stats
 
-** NEXT Weekly Review [0/20]
+** NEXT Weekly Review [4/20]
    SCHEDULED: <2015-02-20 Fri +1w>
    :LOGBOOK:
+   CLOCK: [2015-02-28 Sat 17:11]--[2015-02-28 Sat 18:09] =>  0:58
    - State "DONE"       from "NEXT"       [2015-02-15 Sun 14:19]
    CLOCK: [2015-02-15 Sun 13:54]--[2015-02-15 Sun 14:19] =>  0:25
    - State "DONE"       from "NEXT"       [2015-02-13 Fri 11:19]
@@ -5567,10 +5569,10 @@ When I set up scoring the day:
    :LAST_REPEAT: [2015-02-15 Sun 14:19]
    :END:
 
-- [ ] Check holding directory
+- [X] Check holding directory
   [[file:~/holding]]
-- [ ] Check holding email folder
-- [ ] Check coupons email folder
+- [X] Check holding email folder
+- [X] Check coupons email folder
 - [ ] Review weekly agenda =F12 a w//=
 - [ ] Check clocking data for past week =v c=
   - fix up any errors
@@ -5591,7 +5593,7 @@ When I set up scoring the day:
 - [ ] Set focus
 - [ ] Check follow-up paper folder
 - [ ] Collate the weeks: pad scribbles, org-mode notes, phone notes, etc.
-- [ ] Check Finances
+- [X] Check Finances
   - Check bank accounts and compare with what's still to come
   - Plan the weeks budget
   - Update monthly transactions
