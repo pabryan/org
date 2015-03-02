@@ -12,7 +12,7 @@
   :END:
 [2015-02-18 Wed 08:26]
 * DONE Meet Nolan
-<2015-03-02 Mon 15:00-16:00>
+<2015-03-04 Wed 15:00-16:00>
   :LOGBOOK:
   - State "DONE"       from "NEXT"       [2015-02-18 Wed 16:55]
   CLOCK: [2015-02-18 Wed 15:01]--[2015-02-18 Wed 16:03] =>  1:02
@@ -52,3 +52,9 @@
 [2015-02-27 Fri 14:38]
 - research writing should include tasks from research notes
 - make block for learning tasks, like reading Federer etc.
+* TODO Set up rep theory paper with Nolan
+  :LOGBOOK:
+  CLOCK: [2015-03-02 Mon 08:17]--[2015-03-02 Mon 08:18] =>  0:01
+  :END:
+[2015-03-02 Mon 08:17]
+[[file:~/org/refile.org::*Meet%20Nolan][Meet Nolan]]
