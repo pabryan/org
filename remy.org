@@ -535,16 +535,26 @@ https://voa-healthymeals.orderlunches.com/
       - State "DONE"       from "NEXT"       [2015-02-03 Tue 10:38]
       :END:
 https://voa-healthymeals.orderlunches.com/
-****** NEXT Order kids lunch
+****** DONE Order kids lunch
       DEADLINE: <2015-03-01 Sun>
+      :LOGBOOK:
+      - State "DONE"       from "NEXT"       [2015-03-01 Sun 16:00]
+      :END:
 https://voa-healthymeals.orderlunches.com/
 ****** NEXT Order kids lunch
       DEADLINE: <2015-04-01 Wed>
 https://voa-healthymeals.orderlunches.com/
 ***** Kids Hot Lunch
+****** Sep 2014
 <2014-09-11 Thu>
 <2014-09-16 Tue>
 <2014-09-24 Wed>
+****** Kids lunch Mar 2015
+<2015-03-04 Wed>
+<2015-03-12 Thu>
+<2015-03-17 Tue>
+<2015-03-25 Wed>
+
 *** Forms
 **** DONE Turn in monthly form
      DEADLINE: <2013-10-11 Fri>

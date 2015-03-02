@@ -6929,8 +6929,11 @@ http://www.chelsmore.com/rates/
 **** Notes
 **** Tasks
 ***** TODO Planning
-****** NEXT Plan dates
+****** DONE Plan dates
        DEADLINE: <2015-03-02 Mon>
+       :LOGBOOK:
+       - State "DONE"       from "NEXT"       [2015-03-01 Sun 15:15]
+       :END:
 **** Schedule
 ***** Visit Hannover
 [2015-10-01 Thu]--[2015-12-31 Thu]

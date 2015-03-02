@@ -252,8 +252,9 @@ My card won't swipe anymore.
    
 ** Bills 
 *** NEXT Pay rent
-    DEADLINE: <2015-03-05 Thu +1m -5d> 
+    DEADLINE: <2015-04-05 Sun +1m -5d> 
     :LOGBOOK:
+    - State "DONE"       from "NEXT"       [2015-03-01 Sun 15:04]
     - State "DONE"       from "NEXT"       [2015-02-03 Tue 10:41]
     - State "DONE"       from "NEXT"       [2015-01-01 Thu 12:34]
     - State "DONE"       from "TODO"       [2014-12-01 Mon 09:16]
@@ -289,15 +290,16 @@ My card won't swipe anymore.
    :PROPERTIES:
    :ID:       ea07bf7b-9f89-49bf-90db-3e167baff163
    :REPEAT_TO_STATE: NEXT
-   :LAST_REPEAT: [2015-02-03 Tue 10:41]
+   :LAST_REPEAT: [2015-03-01 Sun 15:04]
    :END:
 
 Use account A11078844
 [[https://act.ucsd.edu/studentBilling/billing]]
 
 *** NEXT Pay ATT
-    SCHEDULED: <2015-03-01 Sun +1m -0d> 
+    SCHEDULED: <2015-04-01 Wed +1m -0d> 
     :LOGBOOK:
+    - State "DONE"       from "NEXT"       [2015-03-01 Sun 15:15]
     - State "DONE"       from "NEXT"       [2015-02-01 Sun 12:23]
     - State "DONE"       from "NEXT"       [2015-01-01 Thu 12:34]
     - State "DONE"       from "TODO"       [2014-11-29 Sat 11:52]
@@ -324,7 +326,7 @@ Use account A11078844
     :END:
     :PROPERTIES:
     :REPEAT_TO_STATE: NEXT
-    :LAST_REPEAT: [2015-02-01 Sun 12:23]
+    :LAST_REPEAT: [2015-03-01 Sun 15:15]
     :ID:       137987c4-8151-42f0-bfad-b1e06d2cd512
     :END:
 [[http://www.att.com/]]

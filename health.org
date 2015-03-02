@@ -8,14 +8,15 @@
 
 ** Tracking
 *** NEXT Exercise
-    SCHEDULED: <2015-02-25 Wed .+1d/2d>
+    SCHEDULED: <2015-03-02 Mon .+1d/2d>
     :PROPERTIES:
     :STYLE:    habit
     :REPEAT_TO_STATE: NEXT
     :ID:       8d56b2ef-1b49-4dc4-b701-1d021a293fa4
-    :LAST_REPEAT: [2015-02-24 Tue 15:10]
+    :LAST_REPEAT: [2015-03-01 Sun 16:00]
     :END:
     :LOGBOOK:
+    - State "DONE"       from "NEXT"       [2015-03-01 Sun 16:00]
     - State "DONE"       from "NEXT"       [2015-02-24 Tue 15:10]
     - State "DONE"       from "NEXT"       [2015-02-22 Sun 20:27]
     - State "DONE"       from "NEXT"       [2015-02-13 Fri 19:09]
@@ -439,8 +440,9 @@
     - State "DONE"       from "NEXT"       [2013-03-09 Sat 11:10]
     :END:
 *** NEXT Mobility
-    SCHEDULED: <2015-03-01 Sun .+1d/2d>
+    SCHEDULED: <2015-03-02 Mon .+1d/2d>
     :LOGBOOK:
+    - State "DONE"       from "NEXT"       [2015-03-01 Sun 14:46]
     - State "DONE"       from "NEXT"       [2015-02-28 Sat 17:11]
     - State "DONE"       from "NEXT"       [2015-02-26 Thu 13:28]
     - State "DONE"       from "NEXT"       [2015-02-25 Wed 11:12]
@@ -1006,12 +1008,13 @@
     :STYLE:    habit
     :REPEAT_TO_STATE: NEXT
     :ID:       0e75f56d-0356-4a0f-a376-080471ad4aad
-    :LAST_REPEAT: [2015-02-28 Sat 17:11]
+    :LAST_REPEAT: [2015-03-01 Sun 14:46]
     :END:
 
 *** NEXT Daily Release
-    SCHEDULED: <2015-01-31 Sat .+1d/2d>
+    SCHEDULED: <2015-03-02 Mon .+1d/2d>
     :LOGBOOK:
+    - State "DONE"       from "NEXT"       [2015-03-01 Sun 16:00]
     - State "DONE"       from "NEXT"       [2015-01-30 Fri 21:45]
     - State "DONE"       from "NEXT"       [2015-01-29 Thu 19:24]
     - State "DONE"       from "NEXT"       [2015-01-24 Sat 20:40]
@@ -1203,7 +1206,7 @@
     :STYLE:    habit
     :REPEAT_TO_STATE: NEXT
     :ID:       d439600f-c40d-4dd3-82ca-3e7d9e35f2b3
-    :LAST_REPEAT: [2015-01-30 Fri 21:45]
+    :LAST_REPEAT: [2015-03-01 Sun 16:00]
     :END:
   
 *** NEXT Handstand practice
@@ -1232,9 +1235,10 @@
     :ID:       f57232cd-a8f2-4a76-a507-4d69f765a521
     :END:
 *** NEXT Relax/Meditate
-    SCHEDULED: <2015-02-23 Mon .+1d/2d>
+    SCHEDULED: <2015-03-02 Mon .+1d/2d>
 
     :LOGBOOK:
+    - State "DONE"       from "NEXT"       [2015-03-01 Sun 16:00]
     - State "DONE"       from "NEXT"       [2015-02-22 Sun 20:58]
     - State "DONE"       from "NEXT"       [2015-01-30 Fri 21:41]
     - State "DONE"       from "NEXT"       [2015-01-27 Tue 19:22]
@@ -1518,7 +1522,7 @@
     :STYLE:    habit
     :REPEAT_TO_STATE: NEXT
     :ID:       c0aaf33a-af77-446b-b9fd-cf2d2f78c12a
-    :LAST_REPEAT: [2015-02-22 Sun 20:58]
+    :LAST_REPEAT: [2015-03-01 Sun 16:00]
     :END:
 
 ** Old Tracking
