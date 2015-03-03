@@ -13960,7 +13960,7 @@ Lectures in calendar and tasks like planning lectures.
 	 :Effort:   1:00
 	 :END:
 **** Winter 2015						      :FOCUS:
-***** TODO Math20B
+***** TODO Math20B						    :MATH20B:
 ****** Files
 [[file:~/working/ucsd/teaching/2015/winter/math20b_winter_2015]] 
 [[file:~/reference/ucsd/teaching/2015/winter/math20b]]
@@ -14373,7 +14373,7 @@ Lectures in calendar and tasks like planning lectures.
 	  :END:
 ******** TODO Final
 ********* NEXT Write final proposal
-	  DEADLINE: <2015-03-06 Fri>
+	  DEADLINE: <2015-03-04 Wed>
 ******* DONE Website
 	:LOGBOOK:
 	- State "DONE"       from "TODO"       [2014-12-31 Wed 16:28]
@@ -15058,7 +15058,7 @@ Lectures in calendar and tasks like planning lectures.
 | \____________________ DONE O/H Week 8            |        |   |   |   |      |      |      | 2:11 |      |      |
 #+END:
 
-***** TODO Math142B
+***** TODO Math142B						   :MATH142B:
 ****** Files
 [[file:~/working/ucsd/teaching/2015/winter/math142b_winter_2015]] 
 [[file:~/reference/ucsd/teaching/2015/winter/math142b]]
@@ -15399,10 +15399,11 @@ Lectures in calendar and tasks like planning lectures.
 	   :Effort:   1:00
 	   :END:
 ********* TODO Week 10
-********** NEXT Prepare lec 10.1
+********** DONE Prepare lec 10.1
 	   SCHEDULED: <2015-03-02 Mon>
 	   :LOGBOOK:
-	   CLOCK: [2015-03-02 Mon 17:11]
+	   - State "DONE"       from "NEXT"       [2015-03-02 Mon 17:49]
+	   CLOCK: [2015-03-02 Mon 17:11]--[2015-03-02 Mon 17:49] =>  0:38
 	   :END:
 	   :PROPERTIES:
 	   :Effort:   1:00
