@@ -17770,14 +17770,20 @@ Abstract:
       :Effort:   1:30
       :END:
       <2015-02-24 Tue 10:30-12:00>
-***** NEXT Ben Chow meeting
+***** DONE Ben Chow meeting
       :LOGBOOK:
-      CLOCK: [2015-03-03 Tue 10:33]
+      - State "DONE"       from "NEXT"       [2015-03-03 Tue 12:10]
+      CLOCK: [2015-03-03 Tue 10:33]--[2015-03-03 Tue 12:10] =>  1:37
       :END:
       :PROPERTIES:
       :Effort:   1:30
       :END:
       <2015-03-03 Tue 10:30-12:00>
+***** NEXT Ben Chow meeting
+      :PROPERTIES:
+      :Effort:   1:30
+      :END:
+      <2015-03-10 Tue 10:30-12:00>
 ** UCSD seminars, colloquia
 *** Alexander Chorin
 <2014-04-07 Mon 16:00-17:00>
