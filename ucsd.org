@@ -14553,6 +14553,7 @@ Lectures in calendar and tasks like planning lectures.
 ******** NEXT Piazza Week 9
 	 SCHEDULED: <2015-03-02 Mon>
 	 :LOGBOOK:
+	 CLOCK: [2015-03-03 Tue 18:03]--[2015-03-03 Tue 18:15] =>  0:12
 	 CLOCK: [2015-03-02 Mon 14:25]--[2015-03-02 Mon 14:29] =>  0:04
 	 :END:
 	 :PROPERTIES:
