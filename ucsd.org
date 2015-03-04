@@ -14369,10 +14369,14 @@ Lectures in calendar and tasks like planning lectures.
 	  CLOCK: [2015-02-13 Fri 11:44]--[2015-02-13 Fri 12:55] =>  1:11
 	  :END:
 ******** TODO Final
-********* NEXT Write final proposal
+	 :LOGBOOK:
+	 CLOCK: [2015-03-04 Wed 15:39]
+	 :END:
+********* DONE Write final proposal
 	  DEADLINE: <2015-03-04 Wed>
 	  :LOGBOOK:
-	  CLOCK: [2015-03-04 Wed 14:28]
+	  - State "DONE"       from "NEXT"       [2015-03-04 Wed 15:39]
+	  CLOCK: [2015-03-04 Wed 14:28]--[2015-03-04 Wed 15:39] =>  1:11
 	  :END:
 ******* DONE Website
 	:LOGBOOK:
