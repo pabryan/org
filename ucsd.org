@@ -14370,7 +14370,7 @@ Lectures in calendar and tasks like planning lectures.
 	  :END:
 ******** TODO Final
 	 :LOGBOOK:
-	 CLOCK: [2015-03-04 Wed 15:39]
+	 CLOCK: [2015-03-04 Wed 15:39]--[2015-03-04 Wed 15:43] =>  0:04
 	 :END:
 ********* DONE Write final proposal
 	  DEADLINE: <2015-03-04 Wed>
@@ -17726,6 +17726,9 @@ Abstract:
 	 :END:
 ******** NEXT Prepare Ritore's thm talk II
 	 SCHEDULED: <2015-02-26 Thu>
+	 :LOGBOOK:
+	 CLOCK: [2015-03-04 Wed 15:49]
+	 :END:
 
 ******** NEXT Prepare surfaces of revolution
 
