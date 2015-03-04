@@ -1503,8 +1503,10 @@ This requires an estimate of $\int k f(k)$ analogous to Holder's for CSF where $
 	  Not needed.
 	:END:
 - I want something like $\int f(k)k \geq (\int g(k))^{\alpha+1}/l^{\alpha}$ where $f$ is homogeneous of degree $\alpha$, and $g$ is homogeneous of degree $1$.
-******* NEXT Estimate integrals by Angenent
+******* CANCELLED Estimate integrals by Angenent
 	:LOGBOOK:
+	- State "CANCELLED"  from "NEXT"       [2015-03-03 Tue 18:15] \\
+	  Looks like it won't work!
 	CLOCK: [2014-06-14 Sat 13:44]--[2014-06-14 Sat 13:58] =>  0:14
 	CLOCK: [2014-06-14 Sat 10:54]--[2014-06-14 Sat 13:01] =>  2:07
 	CLOCK: [2014-04-18 Fri 19:18]--[2014-04-18 Fri 19:53] =>  0:35
@@ -1516,6 +1518,7 @@ This requires an estimate of $\int k f(k)$ analogous to Holder's for CSF where $
        	:END:
 ******** NEXT Try similarity soln as in CSF case
 	:LOGBOOK:
+	CLOCK: [2015-03-03 Tue 18:15]
 	CLOCK: [2015-02-27 Fri 11:10]--[2015-02-27 Fri 11:25] =>  0:15
 	CLOCK: [2015-02-26 Thu 21:26]--[2015-02-26 Thu 21:55] =>  0:29
 	CLOCK: [2015-02-26 Thu 16:43]--[2015-02-26 Thu 17:59] =>  1:16
@@ -1537,16 +1540,28 @@ This requires an estimate of $\int k f(k)$ analogous to Holder's for CSF where $
 	:ID:       e33f844d-a7a7-406b-bf25-002f515cb649
 	:END:
 There is a remark by Ben that our function comes from seeking a similarity solution. Does this work for general $f$?
-******** TODO Angenent comparison of curvature integrals
+******** CANCELLED Angenent comparison of curvature integrals
+	 :LOGBOOK:
+	 - State "CANCELLED"  from "TODO"       [2015-03-03 Tue 18:15] \\
+	   Looks like it won't work!
+	 :END:
 	 :PROPERTIES:
 	 :ID:       5545cf87-d1a5-4ed8-bdba-e11495732909
 	 :END:
-********* NEXT Write up convex comparison
+********* CANCELLED Write up convex comparison
+	  :LOGBOOK:
+	  - State "CANCELLED"  from "NEXT"       [2015-03-03 Tue 18:15] \\
+	    Looks like it won't work!
+	  :END:
 	 :PROPERTIES:
 	 :ID:       a8e2e0d7-14d9-4704-ab19-708177f1e7cb
 	 :END:
 - Ben has this for convex curves
-********* NEXT Examine comparison with convex hull
+********* CANCELLED Examine comparison with convex hull
+	  :LOGBOOK:
+	  - State "CANCELLED"  from "NEXT"       [2015-03-03 Tue 18:15] \\
+	    Looks like it won't work!
+	  :END:
 	 :PROPERTIES:
 	 :ID:       de6f2aa9-4db0-4bcf-b8ed-1a2ffc3e58f5
 	 :END:
