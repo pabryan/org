@@ -17709,6 +17709,9 @@ Abstract:
 	:END:
 <2015-02-19 Thu 11:00-12:00>
 ******* NEXT Sets of finite perimeter
+	:LOGBOOK:
+	CLOCK: [2015-03-05 Thu 10:56]
+	:END:
 <2015-03-05 Thu 11:00-12:30>
 - BV func's
 - Sets of finite perim
@@ -17735,7 +17738,7 @@ Abstract:
 ******** NEXT Prepare Ritore's thm talk II
 	 SCHEDULED: <2015-02-26 Thu>
 	 :LOGBOOK:
-	 CLOCK: [2015-03-05 Thu 09:45]
+	 CLOCK: [2015-03-05 Thu 09:45]--[2015-03-05 Thu 10:56] =>  1:11
 	 CLOCK: [2015-03-04 Wed 19:53]--[2015-03-04 Wed 21:05] =>  1:12
 	 CLOCK: [2015-03-04 Wed 17:53]--[2015-03-04 Wed 18:03] =>  0:10
 	 CLOCK: [2015-03-04 Wed 15:49]--[2015-03-04 Wed 16:11] =>  0:22
