@@ -17708,9 +17708,10 @@ Abstract:
 	- State "DONE"       from "NEXT"       [2015-02-19 Thu 12:04]
 	:END:
 <2015-02-19 Thu 11:00-12:00>
-******* NEXT Sets of finite perimeter
+******* DONE Sets of finite perimeter
 	:LOGBOOK:
-	CLOCK: [2015-03-05 Thu 10:56]
+	- State "DONE"       from "NEXT"       [2015-03-05 Thu 13:31]
+	CLOCK: [2015-03-05 Thu 10:56]--[2015-03-05 Thu 12:31] =>  1:35
 	:END:
 <2015-03-05 Thu 11:00-12:30>
 - BV func's
@@ -17728,6 +17729,9 @@ Abstract:
 ******* Euclidean cones
 ****** Tasks
 ******* TODO Prepare talks
+	:LOGBOOK:
+	CLOCK: [2015-03-05 Thu 13:31]--[2015-03-05 Thu 13:32] =>  0:01
+	:END:
 ******** NEXT Prepare sets of finite perimeter talk
 ******** DONE Prepare Ritore's thm talk I
 	 SCHEDULED: <2015-02-19 Thu>
@@ -17735,13 +17739,20 @@ Abstract:
 	 - State "DONE"       from "NEXT"       [2015-02-22 Sun 20:28]
 	 CLOCK: [2015-02-22 Sun 13:45]--[2015-02-22 Sun 15:50] =>  2:05
 	 :END:
-******** NEXT Prepare Ritore's thm talk II
+******** DONE Prepare Ritore's thm talk II
 	 SCHEDULED: <2015-02-26 Thu>
 	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2015-03-05 Thu 13:31]
 	 CLOCK: [2015-03-05 Thu 09:45]--[2015-03-05 Thu 10:56] =>  1:11
 	 CLOCK: [2015-03-04 Wed 19:53]--[2015-03-04 Wed 21:05] =>  1:12
 	 CLOCK: [2015-03-04 Wed 17:53]--[2015-03-04 Wed 18:03] =>  0:10
 	 CLOCK: [2015-03-04 Wed 15:49]--[2015-03-04 Wed 16:11] =>  0:22
+	 :END:
+
+******** NEXT Prepare Ritore's thm talk III
+	 SCHEDULED: <2015-03-05 Thu>
+	 :LOGBOOK:
+	 CLOCK: [2015-03-05 Thu 13:32]
 	 :END:
 
 ******** NEXT Prepare surfaces of revolution
