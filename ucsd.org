@@ -16137,7 +16137,10 @@ Lectures in calendar and tasks like planning lectures.
 	 :Effort:   2:00
 	 :END:
 
-******** TODO O/H Week 9
+******** NEXT O/H Week 9
+	 :LOGBOOK:
+	 CLOCK: [2015-03-04 Wed 16:11]
+	 :END:
 	 <2015-03-04 Wed 15:00-17:00>
 	 :PROPERTIES:
 	 :Effort:   2:00
@@ -17727,7 +17730,7 @@ Abstract:
 ******** NEXT Prepare Ritore's thm talk II
 	 SCHEDULED: <2015-02-26 Thu>
 	 :LOGBOOK:
-	 CLOCK: [2015-03-04 Wed 15:49]
+	 CLOCK: [2015-03-04 Wed 15:49]--[2015-03-04 Wed 16:11] =>  0:22
 	 :END:
 
 ******** NEXT Prepare surfaces of revolution
