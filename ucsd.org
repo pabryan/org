@@ -15033,9 +15033,10 @@ Lectures in calendar and tasks like planning lectures.
 	  :Effort:   0:30
 	  :END:
 	  <2015-02-11 Wed 17:00-17:30>
-********* NEXT Plan final
+********* DONE Plan final
 	  :LOGBOOK:
-	  CLOCK: [2015-03-04 Wed 16:58]
+	  - State "DONE"       from "NEXT"       [2015-03-04 Wed 17:53]
+	  CLOCK: [2015-03-04 Wed 16:58]--[2015-03-04 Wed 17:53] =>  0:55
 	  :END:
 	  :PROPERTIES:
 	  :Effort:   1:00
@@ -17734,6 +17735,7 @@ Abstract:
 ******** NEXT Prepare Ritore's thm talk II
 	 SCHEDULED: <2015-02-26 Thu>
 	 :LOGBOOK:
+	 CLOCK: [2015-03-04 Wed 17:53]
 	 CLOCK: [2015-03-04 Wed 15:49]--[2015-03-04 Wed 16:11] =>  0:22
 	 :END:
 
