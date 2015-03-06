@@ -15599,6 +15599,7 @@ Lectures in calendar and tasks like planning lectures.
 ********* NEXT Write final
 	  DEADLINE: <2015-03-11 Wed>
 	  :LOGBOOK:
+	  CLOCK: [2015-03-06 Fri 14:16]--[2015-03-06 Fri 14:44] =>  0:28
 	  CLOCK: [2015-03-06 Fri 11:17]--[2015-03-06 Fri 12:03] =>  0:46
 	  :END:
 	  :PROPERTIES:
