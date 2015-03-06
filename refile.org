@@ -59,6 +59,9 @@
   :END:
 [2015-03-02 Mon 08:17]
 [[file:~/org/refile.org::*Meet%20Nolan][Meet Nolan]]
-* TODO Buy school dance tix
+* DONE Buy school dance tix
   DEADLINE: <2015-03-05 Thu>
+  :LOGBOOK:
+  - State "DONE"       from "TODO"       [2015-03-05 Thu 19:35]
+  :END:
 [2015-03-05 Thu 08:13]
