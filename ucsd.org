@@ -14351,7 +14351,10 @@ Lectures in calendar and tasks like planning lectures.
 	  CLOCK: [2015-01-30 Fri 08:33]--[2015-01-30 Fri 08:57] =>  0:24
 	  CLOCK: [2015-01-29 Thu 21:21]--[2015-01-29 Thu 21:52] =>  0:31
 	  :END:
-******** TODO Midterm 2
+******** DONE Midterm 2
+	 :LOGBOOK:
+	 - State "DONE"       from "TODO"       [2015-03-06 Fri 08:02]
+	 :END:
 ********* DONE Write midterm 2 proposal
 	  DEADLINE: <2015-02-11 Wed>
 	  :LOGBOOK:
@@ -14378,6 +14381,8 @@ Lectures in calendar and tasks like planning lectures.
 	  - State "DONE"       from "NEXT"       [2015-03-04 Wed 15:39]
 	  CLOCK: [2015-03-04 Wed 14:28]--[2015-03-04 Wed 15:39] =>  1:11
 	  :END:
+********* TODO Check final exam
+	  DEADLINE: <2015-03-09 Mon>
 ******* DONE Website
 	:LOGBOOK:
 	- State "DONE"       from "TODO"       [2014-12-31 Wed 16:28]
