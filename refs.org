@@ -1627,6 +1627,12 @@ Here I need to do some more work since $u \mapsto g(\grad u, \grad u)$ is not a 
 :END:
 [[papers:2012arXiv1211.6863G][2012arXiv1211.6863G-paper]]
 [[bib:2012arXiv1211.6863G][2012arXiv1211.6863G-bib]]
+*** On the Hamilton's isoperimetric ratio in complete Riemannian manifolds of finite volume
+:PROPERTIES:
+:Custom_ID: 2015arXiv150205903N
+:END:
+[[papers:2015arXiv150205903N][2015arXiv150205903N-paper]]
+[[bib:2015arXiv150205903N][2015arXiv150205903N-bib]]
 ** math.AP							     :ap:pde:
 *** user's guide to viscosity solutions of second order partial differential equations
 :PROPERTIES:
