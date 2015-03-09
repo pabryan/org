@@ -15703,6 +15703,9 @@ Lectures in calendar and tasks like planning lectures.
 	 :PROPERTIES:
 	 :Effort:   0:15
 	 :END:
+******* TODO Students
+******** TODO Write reference for Douglas Davies
+	 DEADLINE: <2015-03-11 Wed>
 ****** Clocking
 ******* TODO Piazza
 ******** DONE Piazza Week 1
@@ -17803,7 +17806,7 @@ Abstract:
 ******** NEXT Prepare Ritore's thm talk III
 	 SCHEDULED: <2015-03-05 Thu>
 	 :LOGBOOK:
-	 CLOCK: [2015-03-09 Mon 11:44]
+	 CLOCK: [2015-03-09 Mon 11:44]--[2015-03-09 Mon 12:30] =>  0:46
 	 CLOCK: [2015-03-05 Thu 13:32]--[2015-03-05 Thu 13:54] =>  0:22
 	 :END:
 
