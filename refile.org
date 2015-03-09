@@ -65,3 +65,11 @@
   - State "DONE"       from "TODO"       [2015-03-05 Thu 19:35]
   :END:
 [2015-03-05 Thu 08:13]
+* TODO Update Cassi Bruni's score
+  DEADLINE: <2015-03-09 Mon>
+  :LOGBOOK:
+  CLOCK: [2015-03-09 Mon 16:18]--[2015-03-09 Mon 16:19] =>  0:01
+  :END:
+[2015-03-09 Mon 16:18]
+
++2 points
