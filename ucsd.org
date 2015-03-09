@@ -14381,8 +14381,12 @@ Lectures in calendar and tasks like planning lectures.
 	  - State "DONE"       from "NEXT"       [2015-03-04 Wed 15:39]
 	  CLOCK: [2015-03-04 Wed 14:28]--[2015-03-04 Wed 15:39] =>  1:11
 	  :END:
-********* TODO Check final exam
+********* DONE Check final exam
 	  DEADLINE: <2015-03-09 Mon>
+	  :LOGBOOK:
+	  CLOCK: [2015-03-08 Sun 14:50]--[2015-03-08 Sun 15:15] =>  0:25
+	  - State "DONE"       from "TODO"       [2015-03-09 Mon 08:58]
+	  :END:
 ******* DONE Website
 	:LOGBOOK:
 	- State "DONE"       from "TODO"       [2014-12-31 Wed 16:28]
@@ -15638,8 +15642,12 @@ Lectures in calendar and tasks like planning lectures.
 	  :PROPERTIES:
 	  :Effort:   0:10
 	  :END:
-********* TODO Write rubric
+********* CANCELLED Write rubric
 	  DEADLINE: <2015-03-16 Mon>
+	  :LOGBOOK:
+	  - State "CANCELLED"  from "TODO"       [2015-03-09 Mon 08:59] \\
+	    Garret will do it himself.
+	  :END:
 	  :PROPERTIES:
 	  :Effort:   0:30
 	  :END:
