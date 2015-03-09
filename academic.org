@@ -5244,6 +5244,11 @@ I want to study Gauss maps $(E,X,\pi) \to (\RR^k\times X, X, \pi)$, in particula
   CLOCK: [2014-03-14 Fri 17:20]--[2014-03-14 Fri 18:16] =>  0:56
   CLOCK: [2014-02-14 Fri 17:10]--[2014-02-14 Fri 18:25] =>  1:15
   :END:
+*** Library
+    :LOGBOOK:
+    CLOCK: [2015-03-09 Mon 11:05]--[2015-03-09 Mon 11:30] =>  0:25
+    :END:
+
 ** Research Process
 *** Tasks
 **** TODO Paper/Book reading
