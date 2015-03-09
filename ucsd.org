@@ -15599,7 +15599,7 @@ Lectures in calendar and tasks like planning lectures.
 	  :END:
 ******** TODO Final
 	 :LOGBOOK:
-	 CLOCK: [2015-03-08 Sun 14:14]
+	 CLOCK: [2015-03-08 Sun 14:14]--[2015-03-08 Sun 14:18] =>  0:04
 	 CLOCK: [2015-03-08 Sun 13:21]--[2015-03-08 Sun 13:24] =>  0:03
 	 :END:
 ********* DONE Write sample final
