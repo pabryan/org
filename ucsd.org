@@ -15623,7 +15623,7 @@ Lectures in calendar and tasks like planning lectures.
 	  :END:
 ******** TODO Final
 	 :LOGBOOK:
-	 CLOCK: [2015-03-10 Tue 13:59]
+	 CLOCK: [2015-03-10 Tue 13:59]--[2015-03-10 Tue 14:00] =>  0:01
 	 CLOCK: [2015-03-08 Sun 14:14]--[2015-03-08 Sun 14:18] =>  0:04
 	 CLOCK: [2015-03-08 Sun 13:21]--[2015-03-08 Sun 13:24] =>  0:03
 	 :END:
@@ -15728,8 +15728,15 @@ Lectures in calendar and tasks like planning lectures.
 	 :Effort:   0:15
 	 :END:
 ******* TODO Students
-******** TODO Write reference for Douglas Davies
+	:LOGBOOK:
+	CLOCK: [2015-03-10 Tue 14:18]--[2015-03-10 Tue 14:19] =>  0:01
+	:END:
+******** DONE Write reference for Douglas Davies
 	 DEADLINE: <2015-03-11 Wed>
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2015-03-10 Tue 14:18]
+	 CLOCK: [2015-03-10 Tue 14:00]--[2015-03-10 Tue 14:18] =>  0:18
+	 :END:
 ****** Clocking
 ******* TODO Piazza
 ******** DONE Piazza Week 1
