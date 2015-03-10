@@ -14422,6 +14422,17 @@ Lectures in calendar and tasks like planning lectures.
 	 :PROPERTIES:
 	 :Effort:   0:15
 	 :END:
+******** TODO Update student grades
+********* DONE Update Cassi Bruni's score
+  DEADLINE: <2015-03-09 Mon>
+  :LOGBOOK:
+  - State "DONE"       from "NEXT"       [2015-03-10 Tue 13:44]
+  CLOCK: [2015-03-10 Tue 13:43]--[2015-03-10 Tue 13:44] =>  0:01
+  CLOCK: [2015-03-09 Mon 16:18]--[2015-03-09 Mon 16:19] =>  0:01
+  :END:
+[2015-03-09 Mon 16:18]
+
++2 points
 ******* DONE Ted
 	:LOGBOOK:
 	- State "DONE"       from "TODO"       [2014-12-31 Wed 16:28]
