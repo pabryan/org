@@ -17796,6 +17796,7 @@ Abstract:
 ****** Tasks
 ******* TODO Prepare talks
 	:LOGBOOK:
+	CLOCK: [2015-03-10 Tue 11:44]--[2015-03-10 Tue 11:47] =>  0:03
 	CLOCK: [2015-03-05 Thu 13:31]--[2015-03-05 Thu 13:32] =>  0:01
 	:END:
 ******** NEXT Prepare sets of finite perimeter talk
@@ -17815,10 +17816,11 @@ Abstract:
 	 CLOCK: [2015-03-04 Wed 15:49]--[2015-03-04 Wed 16:11] =>  0:22
 	 :END:
 
-******** NEXT Prepare Ritore's thm talk III
+******** DONE Prepare Ritore's thm talk III
 	 SCHEDULED: <2015-03-05 Thu>
 	 :LOGBOOK:
-	 CLOCK: [2015-03-10 Tue 11:15]
+	 - State "DONE"       from "NEXT"       [2015-03-10 Tue 11:44]
+	 CLOCK: [2015-03-10 Tue 11:15]--[2015-03-10 Tue 11:44] =>  0:29
 	 CLOCK: [2015-03-09 Mon 14:12]--[2015-03-09 Mon 15:09] =>  0:57
 	 CLOCK: [2015-03-09 Mon 11:44]--[2015-03-09 Mon 12:30] =>  0:46
 	 CLOCK: [2015-03-05 Thu 13:32]--[2015-03-05 Thu 13:54] =>  0:22
