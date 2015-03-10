@@ -15016,9 +15016,10 @@ Lectures in calendar and tasks like planning lectures.
 	 :Effort:   2:00
 	 :END:
 
-******** NEXT O/H Week 10
+******** DONE O/H Week 10
 	 :LOGBOOK:
-	 CLOCK: [2015-03-09 Mon 16:19]
+	 - State "DONE"       from "NEXT"       [2015-03-09 Mon 18:00]
+	 CLOCK: [2015-03-09 Mon 16:19]--[2015-03-09 Mon 18:00] =>  1:41
 	 CLOCK: [2015-03-09 Mon 15:09]--[2015-03-09 Mon 16:18] =>  1:09
 	 :END:
 	 <2015-03-09 Mon 15:00-17:00>
