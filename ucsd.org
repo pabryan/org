@@ -15623,6 +15623,7 @@ Lectures in calendar and tasks like planning lectures.
 	  :END:
 ******** TODO Final
 	 :LOGBOOK:
+	 CLOCK: [2015-03-10 Tue 13:59]
 	 CLOCK: [2015-03-08 Sun 14:14]--[2015-03-08 Sun 14:18] =>  0:04
 	 CLOCK: [2015-03-08 Sun 13:21]--[2015-03-08 Sun 13:24] =>  0:03
 	 :END:
@@ -15672,6 +15673,13 @@ Lectures in calendar and tasks like planning lectures.
 	  :Effort:   0:30
 	  :END:
 
+********* DONE Upload sample exam for 142B
+  DEADLINE: <2015-03-11 Wed>
+  :LOGBOOK:
+  - State "DONE"       from "NEXT"       [2015-03-10 Tue 13:59]
+  CLOCK: [2015-03-10 Tue 13:45]--[2015-03-10 Tue 13:59] =>  0:14
+  :END:
+[2015-03-10 Tue 13:26]
 ******* DONE Website
 	:LOGBOOK:
 	- State "DONE"       from "TODO"       [2014-12-31 Wed 16:01]
