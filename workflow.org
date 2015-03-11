@@ -1827,7 +1827,7 @@ http://gmane.org
   :END:
 ** Organisation
   :LOGBOOK:
-  CLOCK: [2015-03-11 Wed 16:05]
+  CLOCK: [2015-03-11 Wed 16:05]--[2015-03-11 Wed 16:13] =>  0:08
   CLOCK: [2015-03-11 Wed 15:11]--[2015-03-11 Wed 15:12] =>  0:01
   CLOCK: [2015-03-11 Wed 14:37]--[2015-03-11 Wed 14:47] =>  0:10
   CLOCK: [2015-03-11 Wed 14:16]--[2015-03-11 Wed 14:26] =>  0:10
@@ -3830,6 +3830,7 @@ Check how I did last month. I guess the review and plan could probably go togeth
 ** NEXT Daily Review [0/10]
    SCHEDULED: <2015-03-10 Tue .+1d/2d>
    :LOGBOOK:
+   CLOCK: [2015-03-11 Wed 16:47]
    - State "DONE"       from "NEXT"       [2015-03-09 Mon 21:16]
    CLOCK: [2015-03-09 Mon 21:11]--[2015-03-09 Mon 21:16] =>  0:05
    - State "DONE"       from "NEXT"       [2015-03-07 Sat 20:05]
