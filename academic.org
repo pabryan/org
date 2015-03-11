@@ -523,10 +523,11 @@ file:~/publish/decra_2015
 ** MathSciNet
 [[file:~/working/academic/journals/review/mathscinet]]
 *** Working
-**** NEXT Review MR3240531
+**** DONE Review MR3240531
     SCHEDULED: <2015-01-12 Mon> DEADLINE: <2015-02-06 Fri>
     :LOGBOOK:
-    CLOCK: [2015-03-11 Wed 14:47]
+    - State "DONE"       from "NEXT"       [2015-03-11 Wed 15:11]
+    CLOCK: [2015-03-11 Wed 14:47]--[2015-03-11 Wed 15:11] =>  0:24
     :END:
 [[file:~/working/academic/journals/review/mathscinet/MR3240531.org]]
 [[file:refs.org::#MR3240531][Mean curvature type flow with perpendicular {N}eumann boundary condition inside a convex cone]]
