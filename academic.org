@@ -525,6 +525,9 @@ file:~/publish/decra_2015
 *** Working
 **** NEXT Review MR3240531
     SCHEDULED: <2015-01-12 Mon> DEADLINE: <2015-02-06 Fri>
+    :LOGBOOK:
+    CLOCK: [2015-03-11 Wed 14:47]
+    :END:
 [[file:~/working/academic/journals/review/mathscinet/MR3240531.org]]
 [[file:refs.org::#MR3240531][Mean curvature type flow with perpendicular {N}eumann boundary condition inside a convex cone]]
 - [MR3240531 Guo, Fangcheng, Li, Guanghan\ and Wu, Chuanxi,  Mean curvature type flow with perpendicular Neumann boundary condition inside a convex cone, Abstr. Appl. Anal. 2014, Art. ID 315768, 7~pp.]
