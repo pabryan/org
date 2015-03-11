@@ -16141,10 +16141,11 @@ Lectures in calendar and tasks like planning lectures.
 	  :Effort:   1:00
 	  :END:
 
-********* NEXT Lecture 10.2
+********* DONE Lecture 10.2
 	  SCHEDULED: <2015-03-11 Wed 13:00-14:00>
 	  :LOGBOOK:
-	  CLOCK: [2015-03-11 Wed 12:54]
+	  - State "DONE"       from "NEXT"       [2015-03-11 Wed 14:16]
+	  CLOCK: [2015-03-11 Wed 12:54]--[2015-03-11 Wed 14:00] =>  1:06
 	  :END:
 	  :PROPERTIES:
 	  :Effort:   1:00
