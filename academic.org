@@ -2450,30 +2450,51 @@ I have "where" for some refs and it would be good to have the precise section.
 	 CLOCK: [2014-03-17 Mon 15:06]--[2014-03-17 Mon 16:14] =>  1:08
 	 CLOCK: [2014-03-10 Mon 11:10]--[2014-03-10 Mon 11:25] =>  0:15
 	 :END:
-****** TODO Things to check
+****** DONE Things to check
+       :LOGBOOK:
+       - State "DONE"       from "TODO"       [2015-03-12 Thu 10:45]
+       :END:
        :PROPERTIES:
        :ID:       2dab82b7-790c-4235-8b60-23b4587e88c6
        :END:
-******* TODO Work out logarithmic porous media integral transform
+******* CANCELLED Work out logarithmic porous media integral transform
+	:LOGBOOK:
+	- State "CANCELLED"  from "TODO"       [2015-03-12 Thu 10:44] \\
+	  Don't need it.
+	:END:
     :PROPERTIES:
     :ID:       f2988334-a37d-47fc-86ac-43d616cf29d5
     :END:
 conformal factor and isoprofile satisfy logarithic porous media
 how are they related?
-******* TODO Are stationary iso profile solns stationary ricci flow solns?
+******* CANCELLED Are stationary iso profile solns stationary ricci flow solns?
+	:LOGBOOK:
+	- State "CANCELLED"  from "TODO"       [2015-03-12 Thu 10:44] \\
+	  Don't need it.
+	:END:
        	:PROPERTIES:
        	:ID:       0256ba72-857d-4734-be31-be685e5a10ad
        	:END:
-******* TODO Is there a useful spatial comparison theorem?
+******* CANCELLED Is there a useful spatial comparison theorem?
+	:LOGBOOK:
+	- State "CANCELLED"  from "TODO"       [2015-03-12 Thu 10:44] \\
+	  Don't need it.
+	:END:
 	:PROPERTIES:
 	:ID:       a3eb8c1f-781e-4763-b78d-2064d47e1694
 	:END:
-******* NEXT Find ref for ln porous media change of vars
+******* CANCELLED Find ref for ln porous media change of vars
+	:LOGBOOK:
+	- State "CANCELLED"  from "NEXT"       [2015-03-12 Thu 10:45] \\
+	  Don't need it.
+	:END:
 	:PROPERTIES:
 	:ID:       86881bec-f41e-4f19-9b7e-b055f117c357
 	:END:
-******* NEXT Compute scaling in porous media change of vars to remove lower order terms
+******* CANCELLED Compute scaling in porous media change of vars to remove lower order terms
 	:LOGBOOK:
+	- State "CANCELLED"  from "NEXT"       [2015-03-12 Thu 10:45] \\
+	  Don't need it.
 	CLOCK: [2014-04-19 Sat 20:29]--[2014-04-19 Sat 20:48] =>  0:19
 	:END:
 ****** DONE Comparisons
@@ -2649,11 +2670,17 @@ The $K$ term should be divided by $8\pi$.
 	 :END:
 
 ******* TODO Submit
-******** WAITING Submit to Annali della Scuola Normale Superiore, Classe di Scienze
+******** DONE Submit to Annali della Scuola Normale Superiore, Classe di Scienze
 	 :LOGBOOK:
+	 - State "DONE"       from "WAITING"    [2015-03-12 Thu 10:44]
 	 - State "WAITING"    from "NEXT"       [2014-04-22 Tue 19:54] \\
 	   Submitted. Waiting for response.
 	 :END:
+******** NEXT Update paper based on suggestions
+	 DEADLINE: <2015-03-20 Fri>
+[[file:~/reference/academic/research/ricci_surfaces_isoperimetric_comparison/report.pdf]]
+******** TODO Resubmit paper
+	 DEADLINE: <2015-03-20 Fri>
 ***** Notes
 ***** References
 
