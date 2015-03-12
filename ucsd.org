@@ -17823,8 +17823,9 @@ Abstract:
 - approximation by smooth functions
 - compactness
 - isoperimetric profile
-******* NEXT Ritore's Theorem
+******* DONE Ritore's Theorem
 	:LOGBOOK:
+	- State "DONE"       from "NEXT"       [2015-03-12 Thu 13:00]
 	CLOCK: [2015-03-12 Thu 10:53]--[2015-03-12 Thu 12:14] =>  1:21
 	:END:
 <2015-03-12 Thu 11:00-12:30>
@@ -17832,15 +17833,18 @@ Abstract:
 ******* NEXT Ritore's Theorem
 <2015-03-19 Thu 11:00-12:30>
 
-******* Surfaces of revolution
-******* Euclidean cones
+- Surfaces of revolution
+- Euclidean cones
 ****** Tasks
 ******* TODO Prepare talks
 	:LOGBOOK:
 	CLOCK: [2015-03-10 Tue 11:44]--[2015-03-10 Tue 11:47] =>  0:03
 	CLOCK: [2015-03-05 Thu 13:31]--[2015-03-05 Thu 13:32] =>  0:01
 	:END:
-******** NEXT Prepare sets of finite perimeter talk
+******** DONE Prepare sets of finite perimeter talk
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2015-03-12 Thu 13:00]
+	 :END:
 ******** DONE Prepare Ritore's thm talk I
 	 SCHEDULED: <2015-02-19 Thu>
 	 :LOGBOOK:
@@ -17867,15 +17871,20 @@ Abstract:
 	 CLOCK: [2015-03-05 Thu 13:32]--[2015-03-05 Thu 13:54] =>  0:22
 	 :END:
 
-******** NEXT Prepare surfaces of revolution
-
-******* TODO Read background material
-******** NEXT Read Ritore
+******** NEXT Prepare consequences talk
+	 DEADLINE: <2015-03-18 Wed>
+******* DONE Read background material
+	:LOGBOOK:
+	- State "DONE"       from "TODO"       [2015-03-12 Thu 13:01]
+	:END:
+******** DONE Read Ritore
 	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2015-03-12 Thu 13:01]
 	 CLOCK: [2015-02-11 Wed 07:50]--[2015-02-11 Wed 08:35] =>  0:45
 	 :END:
-******** NEXT Find references
+******** DONE Find references
 	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2015-03-12 Thu 13:01]
 	 CLOCK: [2015-02-11 Wed 11:10]--[2015-02-11 Wed 11:28] =>  0:18
 	 :END:
 
@@ -17976,7 +17985,13 @@ Title:  Some new curvature identities and applications to Ricci flow invariant c
 **** Ben Chow
 Ricci shrinkers
 <2015-02-26 Thu 12:00-13:00>
-** TODO SCGAS
+**** Edward Witten
+<2015-03-19 Thu 14:00-15:00>
+NSB 1205
+** DONE SCGAS
+   :LOGBOOK:
+   - State "DONE"       from "TODO"       [2015-03-12 Thu 13:00]
+   :END:
 *** Schedule
 **** Speakers dinner
 <2015-02-06 Fri 18:00-22:00>
