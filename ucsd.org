@@ -14589,9 +14589,11 @@ Lectures in calendar and tasks like planning lectures.
 	 :PROPERTIES:
 	 :Effort:   1:00
 	 :END:
-******** NEXT Piazza Week 10
+******** DONE Piazza Week 10
 	 SCHEDULED: <2015-03-09 Mon>
 	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2015-03-13 Fri 11:24]
+	 CLOCK: [2015-03-13 Fri 11:13]--[2015-03-13 Fri 11:24] =>  0:11
 	 CLOCK: [2015-03-12 Thu 13:06]--[2015-03-12 Thu 13:26] =>  0:20
 	 CLOCK: [2015-03-11 Wed 14:26]--[2015-03-11 Wed 14:37] =>  0:11
 	 CLOCK: [2015-03-11 Wed 11:10]--[2015-03-11 Wed 11:22] =>  0:12
@@ -14924,9 +14926,10 @@ Lectures in calendar and tasks like planning lectures.
 	  :Effort:   1:30
 	  :END:
 
-********* NEXT Lecture 10.3
+********* DONE Lecture 10.3
 	  SCHEDULED: <2015-03-13 Fri 10:00-11:00>
 	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2015-03-13 Fri 11:25]
 	  CLOCK: [2015-03-13 Fri 09:55]--[2015-03-13 Fri 11:08] =>  1:10
 	  :END:
 	  :PROPERTIES:
@@ -15826,8 +15829,16 @@ Lectures in calendar and tasks like planning lectures.
 	 :PROPERTIES:
 	 :Effort:   0:30
 	 :END:
-******** TODO Piazza Week 10
+******** DONE Piazza Week 10
 	 SCHEDULED: <2015-03-09 Mon>
+	 :LOGBOOK:
+	 - State "DONE"       from "TODO"       [2015-03-13 Fri 11:24]
+	 :END:
+	 :PROPERTIES:
+	 :Effort:   0:30
+	 :END:
+******** NEXT Piazza Week 11
+	 SCHEDULED: <2015-03-16 Mon>
 	 :PROPERTIES:
 	 :Effort:   0:30
 	 :END:
