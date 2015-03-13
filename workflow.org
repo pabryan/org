@@ -1827,6 +1827,7 @@ http://gmane.org
   :END:
 ** Organisation
   :LOGBOOK:
+  CLOCK: [2015-03-13 Fri 08:57]--[2015-03-13 Fri 08:58] =>  0:01
   CLOCK: [2015-03-12 Thu 13:01]--[2015-03-12 Thu 13:06] =>  0:05
   CLOCK: [2015-03-12 Thu 10:50]--[2015-03-12 Thu 10:53] =>  0:03
   CLOCK: [2015-03-12 Thu 10:33]--[2015-03-12 Thu 10:40] =>  0:07
@@ -4390,9 +4391,11 @@ When I set up scoring the day:
   - This would be ranking *qualitative* things such as general mood, pain, energy, motivation etc.
 - [ ] Collate data such as sleep, weight, exercise, diet etc.
 
-** NEXT Daily Plan [0/8]
+** DONE Daily Plan [0/8]
    SCHEDULED: <2015-03-13 Fri .+1d/2d>
    :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2015-03-13 Fri 09:20]
+   CLOCK: [2015-03-13 Fri 08:58]--[2015-03-13 Fri 09:20] =>  0:22
    - State "DONE"       from "NEXT"       [2015-03-12 Thu 10:50]
    CLOCK: [2015-03-12 Thu 10:40]--[2015-03-12 Thu 10:50] =>  0:10
    - State "DONE"       from "NEXT"       [2015-03-11 Wed 09:19]
