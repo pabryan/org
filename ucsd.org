@@ -14955,9 +14955,10 @@ Lectures in calendar and tasks like planning lectures.
 	 :PROPERTIES:
 	 :Effort:   1:30
 	 :END:
-******** NEXT Final
+******** DONE Final
 	 :LOGBOOK:
-	 CLOCK: [2015-03-14 Sat 11:07]
+	 - State "DONE"       from "NEXT"       [2015-03-14 Sat 14:53]
+	 CLOCK: [2015-03-14 Sat 11:07]--[2015-03-14 Sat 14:53] =>  3:46
 	 :END:
 	 <2015-03-14 Sat 11:20-14:40>
 	 :PROPERTIES:
