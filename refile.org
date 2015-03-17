@@ -65,4 +65,9 @@
   - State "DONE"       from "TODO"       [2015-03-05 Thu 19:35]
   :END:
 [2015-03-05 Thu 08:13]
-
+* TODO Cancel car insurance
+  SCHEDULED: <2015-03-17 Tue>
+  :LOGBOOK:
+  CLOCK: [2015-03-17 Tue 10:46]--[2015-03-17 Tue 10:47] =>  0:01
+  :END:
+[2015-03-17 Tue 10:46]
