@@ -35,7 +35,7 @@
   :END:
 [2015-02-19 Thu 20:42]
 * TODO Organise health insurance for August
-  SCHEDULED: <2015-03-23 Mon> DEADLINE: <2015-03-21 Sat>
+  SCHEDULED: <2015-03-23 Mon> 
 [2015-02-24 Tue 12:40]
 * TODO Contact Mat Langford
   SCHEDULED: <2015-03-23 Mon>
@@ -71,3 +71,9 @@
   CLOCK: [2015-03-17 Tue 10:46]--[2015-03-17 Tue 10:47] =>  0:01
   :END:
 [2015-03-17 Tue 10:46]
+* TODO Organise german visas
+  SCHEDULED: <2015-03-18 Wed>
+[2015-03-18 Wed 11:16]
+* TODO Organise warwick job
+  SCHEDULED: <2015-03-18 Wed>
+[2015-03-18 Wed 11:16]
