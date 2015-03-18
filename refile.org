@@ -1,6 +1,6 @@
 #+FILETAGS: REFILE
 * TODO Update website, particularly research projects page!
-  SCHEDULED: <2015-03-16 Mon>
+  SCHEDULED: <2015-03-23 Mon>
 [2015-02-17 Tue 15:13]
 * TODO Call medibank
   SCHEDULED: <2015-03-16 Mon>
@@ -35,10 +35,10 @@
   :END:
 [2015-02-19 Thu 20:42]
 * TODO Organise health insurance for August
-  SCHEDULED: <2015-03-16 Mon> DEADLINE: <2015-03-21 Sat>
+  SCHEDULED: <2015-03-23 Mon> DEADLINE: <2015-03-21 Sat>
 [2015-02-24 Tue 12:40]
 * TODO Contact Mat Langford
-  SCHEDULED: <2015-03-16 Mon>
+  SCHEDULED: <2015-03-23 Mon>
   :LOGBOOK:
   CLOCK: [2015-02-27 Fri 11:35]--[2015-02-27 Fri 11:37] =>  0:02
   :END:
@@ -46,7 +46,7 @@
 - Talk on Skype.
 - Maybe talk about viscosity equation for principal curvatures/non-collapsing.
 * TODO Make agenda blocks
-  SCHEDULED: <2015-03-16 Mon>
+  SCHEDULED: <2015-03-23 Mon>
   :LOGBOOK:
   CLOCK: [2015-02-27 Fri 14:38]--[2015-02-27 Fri 14:39] =>  0:01
   :END:

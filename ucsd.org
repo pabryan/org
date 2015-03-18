@@ -15663,22 +15663,30 @@ Lectures in calendar and tasks like planning lectures.
 	  :PROPERTIES:
 	  :Effort:   1:00
 	  :END:
-********* WAITING Get TA's comments
+********* DONE Get TA's comments
 	  DEADLINE: <2015-03-13 Fri>
 	  :LOGBOOK:
+	  - State "DONE"       from "WAITING"    [2015-03-17 Tue 13:33]
 	  - State "WAITING"    from "TODO"       [2015-03-08 Sun 14:14] \\
 	    Sent to TA for comments.
 	  :END:
 	  :PROPERTIES:
 	  :Effort:   0:10
 	  :END:
-********* TODO Update exam based on TA comments
+********* DONE Update exam based on TA comments
 	  DEADLINE: <2015-03-16 Mon>
+	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2015-03-17 Tue 11:28]
+	  CLOCK: [2015-03-17 Tue 11:00]--[2015-03-17 Tue 11:28] =>  0:28
+	  :END:
 	  :PROPERTIES:
 	  :Effort:   0:15
 	  :END:
-********* TODO Submit midterm to printing/frdesk
+********* DONE Submit midterm to printing/frdesk
 	  DEADLINE: <2015-03-16 Mon>
+	  :LOGBOOK:
+	  - State "DONE"       from "TODO"       [2015-03-17 Tue 13:33]
+	  :END:
 	  :PROPERTIES:
 	  :Effort:   0:10
 	  :END:
