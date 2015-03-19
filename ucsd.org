@@ -17861,7 +17861,11 @@ Abstract:
 	:END:
 <2015-03-12 Thu 11:00-12:30>
 
-******* NEXT Ritore's Theorem
+******* DONE Ritore's Theorem
+	:LOGBOOK:
+	- State "DONE"       from "NEXT"       [2015-03-19 Thu 12:23]
+	CLOCK: [2015-03-19 Thu 11:00]--[2015-03-19 Thu 12:23] =>  1:23
+	:END:
 <2015-03-19 Thu 11:00-12:30>
 
 - Surfaces of revolution
