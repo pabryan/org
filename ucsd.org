@@ -17902,9 +17902,10 @@ Abstract:
 	 CLOCK: [2015-03-05 Thu 13:32]--[2015-03-05 Thu 13:54] =>  0:22
 	 :END:
 
-******** NEXT Prepare consequences talk
+******** DONE Prepare consequences talk
 	 DEADLINE: <2015-03-18 Wed>
 	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2015-03-19 Thu 09:38]
 	 CLOCK: [2015-03-18 Wed 14:17]--[2015-03-18 Wed 15:08] =>  0:51
 	 :END:
 ******* DONE Read background material
