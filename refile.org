@@ -80,3 +80,9 @@
 * TODO Accept summer appt.
   SCHEDULED: <2015-03-19 Thu>
 [2015-03-19 Thu 09:53]
+* TODO Redesign website
+  SCHEDULED: <2015-03-30 Mon>
+[2015-03-20 Fri 08:50]
+Use pelican and bootstrap.
+
+http://chdoig.github.io/create-pelican-blog.html
