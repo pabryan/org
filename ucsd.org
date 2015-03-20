@@ -16259,14 +16259,18 @@ Lectures in calendar and tasks like planning lectures.
 	  :END:
 
 ******* TODO Exams
+	:LOGBOOK:
+	CLOCK: [2015-03-20 Fri 14:35]--[2015-03-20 Fri 14:36] =>  0:01
+	:END:
 ******** Midterm 2
 	 :PROPERTIES:
 	 :Effort:   1:00
 	 :END:
 	 <2015-02-20 Fri 13:00-14:00>
-******** NEXT Final
+******** DONE Final
 	 :LOGBOOK:
-	 CLOCK: [2015-03-20 Fri 11:17]
+	 - State "DONE"       from "NEXT"       [2015-03-20 Fri 14:35]
+	 CLOCK: [2015-03-20 Fri 11:17]--[2015-03-20 Fri 14:35] =>  3:18
 	 :END:
 	 <2015-03-20 Fri 11:20-14:40>
 	 :PROPERTIES:
