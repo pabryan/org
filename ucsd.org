@@ -14427,14 +14427,20 @@ Lectures in calendar and tasks like planning lectures.
 	 :Effort:   0:15
 	 :END:
 ******* TODO Grades
-******** NEXT Create grade spreadsheet
+******** DONE Create grade spreadsheet
 	 DEADLINE: <2015-03-24 Tue>
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2015-03-25 Wed 15:09]
+	 :END:
 
 	 :PROPERTIES:
 	 :Effort:   1:00
 	 :END:
-******** NEXT Enter grades
+******** DONE Enter grades
 	 DEADLINE: <2015-03-24 Tue>
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2015-03-25 Wed 15:09]
+	 :END:
 	 :PROPERTIES:
 	 :Effort:   0:15
 	 :END:
@@ -14449,6 +14455,9 @@ Lectures in calendar and tasks like planning lectures.
 [2015-03-09 Mon 16:18]
 
 +2 points
+********* NEXT Update Ruiqi Shi's grade
+	  SCHEDULED: <2015-03-26 Thu>
+C+
 ******* DONE Ted
 	:LOGBOOK:
 	- State "DONE"       from "TODO"       [2014-12-31 Wed 16:28]
@@ -15560,7 +15569,10 @@ Lectures in calendar and tasks like planning lectures.
 	 :PROPERTIES:
 	 :Effort:   1:00
 	 :END:
-******* TODO Exams
+******* DONE Exams
+	:LOGBOOK:
+	- State "DONE"       from "TODO"       [2015-03-25 Wed 15:10]
+	:END:
 ******** DONE Midterm 1
 	 :LOGBOOK:
 	 - State "DONE"       from "TODO"       [2015-01-20 Tue 14:03]
@@ -15637,8 +15649,9 @@ Lectures in calendar and tasks like planning lectures.
 	  :Effort:   1:00
 	  :END:
 
-******** TODO Midterm 2
+******** DONE Midterm 2
 	 :LOGBOOK:
+	 - State "DONE"       from "TODO"       [2015-03-25 Wed 15:10]
 	 CLOCK: [2015-02-09 Mon 17:13]--[2015-02-09 Mon 17:18] =>  0:05
 	 :END:
 ********* DONE Write midterm 2
@@ -15691,8 +15704,9 @@ Lectures in calendar and tasks like planning lectures.
 	  CLOCK: [2015-02-09 Mon 16:34]--[2015-02-09 Mon 17:13] =>  0:39
 	  CLOCK: [2015-02-09 Mon 14:49]--[2015-02-09 Mon 15:00] =>  0:11
 	  :END:
-******** TODO Final
+******** DONE Final
 	 :LOGBOOK:
+	 - State "DONE"       from "TODO"       [2015-03-25 Wed 15:10]
 	 CLOCK: [2015-03-10 Tue 13:59]--[2015-03-10 Tue 14:00] =>  0:01
 	 CLOCK: [2015-03-08 Sun 14:14]--[2015-03-08 Sun 14:18] =>  0:04
 	 CLOCK: [2015-03-08 Sun 13:21]--[2015-03-08 Sun 13:24] =>  0:03
@@ -15784,17 +15798,32 @@ Lectures in calendar and tasks like planning lectures.
 	 :Effort:   0:15
 	 :END:
 ******* TODO Grades
-******** NEXT Create grade spreadsheet
+******** DONE Create grade spreadsheet
 	 DEADLINE: <2015-03-24 Tue>
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2015-03-25 Wed 15:10]
+	 :END:
 
 	 :PROPERTIES:
 	 :Effort:   1:00
 	 :END:
-******** NEXT Enter grades
+******** DONE Enter grades
 	 DEADLINE: <2015-03-24 Tue>
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2015-03-25 Wed 15:10]
+	 :END:
 	 :PROPERTIES:
 	 :Effort:   0:15
 	 :END:
+******** TODO Update student grades
+********* NEXT Change student grade's from F to D
+	  SCHEDULED: <2015-03-26 Thu>
+Durbin,Mark,a10699417,828047,D
+Lu,Yi-shu,a98028860,828047,D
+Murphy,Patricia,a10287374,828046,D
+Santin,Heather,a97430068,828047,D
+Wang,Tiangang,a97038927,828046,D
+Zhang,Yuanyuan,a97079064,828047,D
 ******* DONE Ted
 	:LOGBOOK:
 	- State "DONE"       from "TODO"       [2014-12-31 Wed 16:28]
