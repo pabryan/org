@@ -13960,7 +13960,10 @@ Lectures in calendar and tasks like planning lectures.
 	 :Effort:   1:00
 	 :END:
 **** Winter 2015						      :FOCUS:
-***** TODO Math20B						    :MATH20B:
+***** DONE Math20B						    :MATH20B:
+      :LOGBOOK:
+      - State "DONE"       from "TODO"       [2015-03-27 Fri 08:59]
+      :END:
 ****** Files
 [[file:~/working/ucsd/teaching/2015/winter/math20b_winter_2015]] 
 [[file:~/reference/ucsd/teaching/2015/winter/math20b]]
@@ -14426,7 +14429,10 @@ Lectures in calendar and tasks like planning lectures.
 	 :PROPERTIES:
 	 :Effort:   0:15
 	 :END:
-******* TODO Grades
+******* DONE Grades
+	:LOGBOOK:
+	- State "DONE"       from "TODO"       [2015-03-27 Fri 08:59]
+	:END:
 ******** DONE Create grade spreadsheet
 	 DEADLINE: <2015-03-24 Tue>
 	 :LOGBOOK:
@@ -14444,7 +14450,10 @@ Lectures in calendar and tasks like planning lectures.
 	 :PROPERTIES:
 	 :Effort:   0:15
 	 :END:
-******** TODO Update student grades
+******** DONE Update student grades
+	 :LOGBOOK:
+	 - State "DONE"       from "TODO"       [2015-03-27 Fri 08:59]
+	 :END:
 ********* DONE Update Cassi Bruni's score
   DEADLINE: <2015-03-09 Mon>
   :LOGBOOK:
@@ -14455,8 +14464,12 @@ Lectures in calendar and tasks like planning lectures.
 [2015-03-09 Mon 16:18]
 
 +2 points
-********* NEXT Update Ruiqi Shi's grade
+********* DONE Update Ruiqi Shi's grade
 	  SCHEDULED: <2015-03-26 Thu>
+	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2015-03-27 Fri 08:59]
+	  CLOCK: [2015-03-27 Fri 08:55]--[2015-03-27 Fri 08:59] =>  0:04
+	  :END:
 C+
 ******* DONE Ted
 	:LOGBOOK:
@@ -14504,8 +14517,9 @@ C+
 - Q9: Should you mention that the constants could be complex? If so, perhaps mention if for Q8, and maybe Q7 as well.
 
 ****** Clocking
-******* TODO Piazza
+******* DONE Piazza
 	:LOGBOOK:
+	- State "DONE"       from "TODO"       [2015-03-27 Fri 08:59]
 	CLOCK: [2015-02-27 Fri 16:14]--[2015-02-27 Fri 16:18] =>  0:04
 	:END:
 ******** DONE Piazza Week 1
@@ -15176,7 +15190,10 @@ C+
 | \____________________ DONE O/H Week 8            |        |   |   |   |      |      |      | 2:11 |      |      |
 #+END:
 
-***** TODO Math142B						   :MATH142B:
+***** DONE Math142B						   :MATH142B:
+      :LOGBOOK:
+      - State "DONE"       from "TODO"       [2015-03-27 Fri 09:03]
+      :END:
 ****** Files
 [[file:~/working/ucsd/teaching/2015/winter/math142b_winter_2015]] 
 [[file:~/reference/ucsd/teaching/2015/winter/math142b]]
@@ -15797,7 +15814,10 @@ Lectures in calendar and tasks like planning lectures.
 	 :PROPERTIES:
 	 :Effort:   0:15
 	 :END:
-******* TODO Grades
+******* DONE Grades
+	:LOGBOOK:
+	- State "DONE"       from "TODO"       [2015-03-27 Fri 09:02]
+	:END:
 ******** DONE Create grade spreadsheet
 	 DEADLINE: <2015-03-24 Tue>
 	 :LOGBOOK:
@@ -15815,15 +15835,22 @@ Lectures in calendar and tasks like planning lectures.
 	 :PROPERTIES:
 	 :Effort:   0:15
 	 :END:
-******** TODO Update student grades
-********* NEXT Change student grade's from F to D
+******** DONE Update student grades
+	 :LOGBOOK:
+	 - State "DONE"       from "TODO"       [2015-03-27 Fri 09:02]
+	 :END:
+********* DONE Change student grade's from F to D
 	  SCHEDULED: <2015-03-26 Thu>
-Durbin,Mark,a10699417,828047,D
-Lu,Yi-shu,a98028860,828047,D
-Murphy,Patricia,a10287374,828046,D
-Santin,Heather,a97430068,828047,D
-Wang,Tiangang,a97038927,828046,D
-Zhang,Yuanyuan,a97079064,828047,D
+	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2015-03-27 Fri 09:02]
+	  CLOCK: [2015-03-27 Fri 08:59]--[2015-03-27 Fri 09:02] =>  0:03
+	  :END:
+- [X] Durbin,Mark,a10699417,828047,D
+- [X] Lu,Yi-shu,a98028860,828047,D
+- [X] Murphy,Patricia,a10287374,828046,D
+- [X] Santin,Heather,a97430068,828047,D
+- [X] Wang,Tiangang,a97038927,828046,D
+- [X] Zhang,Yuanyuan,a97079064,828047,D
 ******* DONE Ted
 	:LOGBOOK:
 	- State "DONE"       from "TODO"       [2014-12-31 Wed 16:28]
@@ -16287,8 +16314,9 @@ Zhang,Yuanyuan,a97079064,828047,D
 	  :Effort:   1:00
 	  :END:
 
-******* TODO Exams
+******* DONE Exams
 	:LOGBOOK:
+	- State "DONE"       from "TODO"       [2015-03-27 Fri 09:03]
 	CLOCK: [2015-03-20 Fri 14:35]--[2015-03-20 Fri 14:36] =>  0:01
 	:END:
 ******** Midterm 2
