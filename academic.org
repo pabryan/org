@@ -2680,11 +2680,19 @@ The $K$ term should be divided by $8\pi$.
 	 - State "WAITING"    from "NEXT"       [2014-04-22 Tue 19:54] \\
 	   Submitted. Waiting for response.
 	 :END:
-******** NEXT Update paper based on suggestions
+******** DONE Update paper based on suggestions
 	 DEADLINE: <2015-03-22 Sun>
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2015-03-30 Mon 17:35]
+	 CLOCK: [2015-03-30 Mon 14:47]--[2015-03-30 Mon 17:35] =>  2:48
+	 :END:
 [[file:~/reference/academic/research/ricci_surfaces_isoperimetric_comparison/report.pdf]]
-******** TODO Resubmit paper
+******** DONE Resubmit paper
 	 DEADLINE: <2015-03-22 Sun>
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2015-03-30 Mon 22:09]
+	 CLOCK: [2015-03-30 Mon 21:45]--[2015-03-30 Mon 22:09] =>  0:24
+	 :END:
 ***** Notes
 ***** References
 
@@ -5306,7 +5314,7 @@ However, some things like the action in WDM and general relativity may be define
 - TeX file
   - Set short title.
   - Remove date.
-  - Run $ bundledoc --config=/usr/share/texlive/texmf-dist/tex/latex/bundledoc/texlive-unix.cfg <article>.dep
+  - Run $ bundledoc --config=/usr/share/texlive/texmf-dist/tex/latex/bundledoc/texlive-unix.cfg   <article>.dep
 * Seminars/Conferences
   :PROPERTIES:
   :ID:       1e7a7317-1668-4432-a995-cdaa9293f7af

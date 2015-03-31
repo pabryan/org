@@ -1107,6 +1107,12 @@
 :END:
 [[papers:MR3240531][MR3240531-paper]]
 [[bib:MR3240531][MR3240531-bib]]
+***** A note on uniformization of {R}iemann surfaces by {R}icci flow
+:PROPERTIES:
+:Custom_ID: MR2231924
+:END:
+[[papers:MR2231924][MR2231924-paper]]
+[[bib:MR2231924][MR2231924-bib]]
 **** 53C45 (1973-now) Global surface theory (convex surfaces à la A. D. Aleksandrov)
 ***** Flow by mean curvature of convex surfaces into spheres
 :PROPERTIES:
@@ -1245,6 +1251,12 @@
 [[papers:MR1661278][MR1661278-paper]]
 [[bib:MR1661278][MR1661278-bib]]
 
+***** Two-dimensional geometric variational problems
+:PROPERTIES:
+:Custom_ID: MR1100926
+:END:
+[[papers:MR1100926][MR1100926-paper]]
+[[bib:MR1100926][MR1100926-bib]]
 **** 58E15   (1973-now) Application to extremal problems in several variables; Yang-Mills functionals [See also 81T13], etc. :yang_mills:high_dimensino:
 ***** Contraction of convex hypersurfaces by their affine normal :convex:hypersurfaces:affine:evolution:
 :PROPERTIES:
@@ -1400,6 +1412,12 @@ Here I need to do some more work since $u \mapsto g(\grad u, \grad u)$ is not a 
 :END:
 [[papers:MR1296393][MR1296393-paper]]
 [[bib:MR1296393][MR1296393-bib]]
+***** A new result for the porous medium equation derived from the {R}icci flow
+:PROPERTIES:
+:Custom_ID: MR1164949
+:END:
+[[papers:MR1164949][MR1164949-paper]]
+[[bib:MR1164949][MR1164949-bib]]
 *** 58J partial differential equations on manifolds; differential operators :pde:operators:
 **** 58J05  View Publications (2000-now) Elliptic equations on manifolds, general theory [See also 35-XX]
 ***** Reilly inequalities of elliptic operators on closed submanifolds
@@ -1693,6 +1711,24 @@ Here I need to do some more work since $u \mapsto g(\grad u, \grad u)$ is not a 
 :END:
 [[papers:2005PhRvE..72c1106P][2005PhRvE..72c1106P-paper]]
 [[bib:2005PhRvE..72c1106P][2005PhRvE..72c1106P-bib]]
+** Fast and Superfast Diffusion Processes
+:PROPERTIES:
+:Custom_ID: PhysRevLett.74.1056
+:END:
+[[papers:PhysRevLett.74.1056][PhysRevLett.74.1056-paper]]
+[[bib:PhysRevLett.74.1056][PhysRevLett.74.1056-bib]]
+** Exact similarity solutions to some nonlinear diffusion equations
+:PROPERTIES:
+:Custom_ID: 0305-4470-23-16-017
+:END:
+[[papers:0305-4470-23-16-017][0305-4470-23-16-017-paper]]
+[[bib:0305-4470-23-16-017][0305-4470-23-16-017-bib]]
+** Some non-local transformations between nonlinear diffusion equations
+:PROPERTIES:
+:Custom_ID: 0305-4470-23-23-019
+:END:
+[[papers:0305-4470-23-23-019][0305-4470-23-23-019-paper]]
+[[bib:0305-4470-23-23-019][0305-4470-23-23-019-bib]]
 * ScienceDirect
 ** On the one-dimensional theory of blood flow in the larger vessels
 :PROPERTIES:
