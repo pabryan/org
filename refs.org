@@ -171,6 +171,15 @@
 :END:
 [[papers:MR1912903][MR1912903-paper]]
    
+** 46 (1940-now) Functional analysis [For manifolds modeled on topological linear spaces, see 57Nxx, 58Bxx]
+*** 46E (1973-now) Linear function spaces and their duals [See also 30H05, 32A38, 46F05] [For function algebras, see 46J10]
+**** 46E35 (1973-now) Sobolev spaces and other spaces of "smooth'' functions, embedding theorems, trace theorems
+***** Sobolev spaces on {R}iemannian manifolds
+:PROPERTIES:
+:Custom_ID: MR1481970
+:END:
+[[papers:MR1481970][MR1481970-paper]]
+[[bib:MR1481970][MR1481970-bib]]
 ** 49 (1940-now) Calculus of variations and optimal control; optimization [See also 34H05, 34K35, 65Kxx, 90Cxx, 93-XX] :calculus_variations:optimal_control:optimization:
 *** 49-01  (1973-now) Instructional exposition (textbooks, tutorial papers, etc.)
 **** Geometric measure theory
@@ -1178,6 +1187,14 @@
 [[papers:MR1636569][MR1636569-paper]]
 [[bib:MR1636569][MR1636569-bib]]
 
+*** 58C (1973-now) Calculus on manifolds; nonlinear operators [See also 46Txx, 47Hxx, 47Jxx]
+**** 58C15 (1973-now) Implicit function theorems; global Newton methods
+***** The inverse function theorem of {N}ash and {M}oser
+:PROPERTIES:
+:Custom_ID: MR656198
+:END:
+[[papers:MR656198][MR656198-paper]]
+[[bib:MR656198][MR656198-bib]]
 *** 58E   (1973-now) Variational problems in infinite-dimensional spaces :calculus_variations:infinite_dimension:
 **** 58E10   (1973-now) Applications to the theory of geodesics (problems in one independent variable) :geodesics:
 ***** A distance comparison principle for evolving curves :csf:evolution:distance:plane:curves:
@@ -1651,6 +1668,12 @@ Here I need to do some more work since $u \mapsto g(\grad u, \grad u)$ is not a 
 :END:
 [[papers:2015arXiv150205903N][2015arXiv150205903N-paper]]
 [[bib:2015arXiv150205903N][2015arXiv150205903N-bib]]
+*** Geometry of shrinking Ricci solitons
+:PROPERTIES:
+:Custom_ID: 2014arXiv1410.3813M
+:END:
+[[papers:2014arXiv1410.3813M][2014arXiv1410.3813M-paper]]
+[[bib:2014arXiv1410.3813M][2014arXiv1410.3813M-bib]]
 ** math.AP							     :ap:pde:
 *** user's guide to viscosity solutions of second order partial differential equations
 :PROPERTIES:

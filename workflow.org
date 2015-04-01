@@ -4407,8 +4407,10 @@ When I set up scoring the day:
 - [ ] Collate data such as sleep, weight, exercise, diet etc.
 
 ** NEXT Daily Plan [0/8]
-   SCHEDULED: <2015-04-01 Wed .+1d/2d>
+   SCHEDULED: <2015-04-02 Thu .+1d/2d>
    :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2015-04-01 Wed 11:47]
+   CLOCK: [2015-04-01 Wed 11:21]--[2015-04-01 Wed 11:47] =>  0:26
    - State "DONE"       from "NEXT"       [2015-03-31 Tue 18:03]
    - State "DONE"       from "NEXT"       [2015-03-30 Mon 12:15]
    CLOCK: [2015-03-30 Mon 12:02]--[2015-03-30 Mon 12:15] =>  0:13
@@ -5495,7 +5497,7 @@ When I set up scoring the day:
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
    :ID:       ef051ee0-1113-4604-b355-450a5a47848b   
-   :LAST_REPEAT: [2015-03-31 Tue 18:04]
+   :LAST_REPEAT: [2015-04-01 Wed 11:47]
    :END:
 
 - [ ] Check agenda/focus
@@ -5508,9 +5510,11 @@ When I set up scoring the day:
 - [ ] Do short tasks
 - [ ] Record morning health stats
 
-** NEXT Weekly Review [1/20]
-   SCHEDULED: <2015-03-13 Fri +1w>
+** NEXT Weekly Review [0/20]
+   SCHEDULED: <2015-03-20 Fri +1w>
    :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2015-04-01 Wed 12:27]
+   CLOCK: [2015-04-01 Wed 11:48]--[2015-04-01 Wed 12:27] =>  0:39
    CLOCK: [2015-03-10 Tue 13:26]--[2015-03-10 Tue 13:43] =>  0:17
    - State "DONE"       from "NEXT"       [2015-03-07 Sat 21:14]
    CLOCK: [2015-03-07 Sat 20:07]--[2015-03-07 Sat 21:14] =>  1:07
@@ -5677,7 +5681,7 @@ When I set up scoring the day:
    :REPEAT_TO_STATE: NEXT
    :ID:       846c05fa-21d7-4e6f-8431-a1fa06631945
    :RESET_CHECK_BOXES: t
-   :LAST_REPEAT: [2015-03-07 Sat 21:14]
+   :LAST_REPEAT: [2015-04-01 Wed 12:27]
    :END:
 
 - [ ] Check holding directory
@@ -5702,7 +5706,7 @@ When I set up scoring the day:
   - [ ] pocket
 - [ ] Review focus projects 
 - [ ] Set focus
-- [X] Check follow-up paper folder
+- [ ] Check follow-up paper folder
 - [ ] Collate the weeks: pad scribbles, org-mode notes, phone notes, etc.
 - [ ] Check Finances
   - Check bank accounts and compare with what's still to come
