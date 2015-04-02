@@ -1,12 +1,12 @@
 #+FILETAGS: REFILE
 * TODO Update website, particularly research projects page!
-  SCHEDULED: <2015-03-23 Mon>
+  SCHEDULED: <2015-04-20 Mon>
 [2015-02-17 Tue 15:13]
 * TODO Call medibank
-  SCHEDULED: <2015-03-16 Mon>
+  SCHEDULED: <2015-04-20 Mon>
 [2015-02-18 Wed 08:26]
 * TODO Organise kids schools in Warwick
-  SCHEDULED: <2015-03-16 Mon>
+  SCHEDULED: <2015-04-20 Mon>
   :LOGBOOK:
   CLOCK: [2015-02-18 Wed 08:26]--[2015-02-18 Wed 08:27] =>  0:01
   :END:
@@ -21,7 +21,7 @@
 [2015-02-18 Wed 12:48]
 <2015-02-18 Wed 15:00-16:00>
 * TODO Contact Christina Sormani
-  SCHEDULED: <2015-03-16 Mon>
+  SCHEDULED: <2015-04-20 Mon>
   :LOGBOOK:
   CLOCK: [2015-02-19 Thu 20:40]--[2015-02-19 Thu 20:42] =>  0:02
   :END:
@@ -35,10 +35,10 @@
   :END:
 [2015-02-19 Thu 20:42]
 * TODO Organise health insurance for August
-  SCHEDULED: <2015-03-23 Mon> 
+  SCHEDULED: <2015-04-20 Mon>
 [2015-02-24 Tue 12:40]
 * TODO Make agenda blocks
-  SCHEDULED: <2015-03-23 Mon>
+  SCHEDULED: <2015-04-20 Mon>
   :LOGBOOK:
   CLOCK: [2015-02-27 Fri 14:38]--[2015-02-27 Fri 14:39] =>  0:01
   :END:
@@ -58,19 +58,19 @@
   :END:
 [2015-03-05 Thu 08:13]
 * TODO Cancel car insurance
-  SCHEDULED: <2015-03-17 Tue>
+  SCHEDULED: <2015-04-20 Mon>
   :LOGBOOK:
   CLOCK: [2015-03-17 Tue 10:46]--[2015-03-17 Tue 10:47] =>  0:01
   :END:
 [2015-03-17 Tue 10:46]
 * TODO Organise german visas
-  SCHEDULED: <2015-03-18 Wed>
+  SCHEDULED: <2015-04-20 Mon>
 [2015-03-18 Wed 11:16]
 * TODO Organise warwick job
-  SCHEDULED: <2015-03-18 Wed>
+  SCHEDULED: <2015-04-20 Mon>
 [2015-03-18 Wed 11:16]
 * TODO Redesign website
-  SCHEDULED: <2015-03-30 Mon>
+  SCHEDULED: <2015-04-20 Mon>
 [2015-03-20 Fri 08:50]
 Use pelican and bootstrap.
 
@@ -95,5 +95,5 @@ http://chdoig.github.io/create-pelican-blog.html
   SCHEDULED: <2015-05-04 Mon 12:00>
 [2015-03-28 Sat 13:38]
 * TODO Look into mod. cont. for visc. eqn's
-  SCHEDULED: <2015-03-30 Mon>
+  SCHEDULED: <2015-04-20 Mon>
 [2015-03-29 Sun 12:19]
