@@ -3845,8 +3845,9 @@ Set some goals for the month. I should check someday projects for inclusion in t
 Check how I did last month. I guess the review and plan could probably go together. This is all broad stuff
 
 ** NEXT Daily Review [0/10]
-   SCHEDULED: <2015-03-17 Tue .+1d/2d>
+   SCHEDULED: <2015-04-03 Fri .+1d/2d>
    :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2015-04-02 Thu 17:30]
    - State "DONE"       from "NEXT"       [2015-03-16 Mon 19:27]
    - State "DONE"       from "NEXT"       [2015-03-14 Sat 17:48]
    - State "DONE"       from "NEXT"       [2015-03-13 Fri 16:32]
@@ -4388,7 +4389,7 @@ Check how I did last month. I guess the review and plan could probably go togeth
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
    :ID:       616c5bd9-d941-4fcc-8874-2ff3c9e96b4a
-   :LAST_REPEAT: [2015-03-16 Mon 19:27]
+   :LAST_REPEAT: [2015-04-02 Thu 17:30]
    :END:
 
 What to review:
@@ -4408,9 +4409,10 @@ When I set up scoring the day:
   - This would be ranking *qualitative* things such as general mood, pain, energy, motivation etc.
 - [ ] Collate data such as sleep, weight, exercise, diet etc.
 
-** NEXT Daily Plan [4/8]
-   SCHEDULED: <2015-04-02 Thu .+1d/2d>
+** NEXT Daily Plan [0/8]
+   SCHEDULED: <2015-04-03 Fri .+1d/2d>
    :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2015-04-02 Thu 17:29]
    CLOCK: [2015-04-02 Thu 10:53]--[2015-04-02 Thu 11:00] =>  0:07
    - State "DONE"       from "NEXT"       [2015-04-01 Wed 11:47]
    CLOCK: [2015-04-01 Wed 11:21]--[2015-04-01 Wed 11:47] =>  0:26
@@ -5500,13 +5502,13 @@ When I set up scoring the day:
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
    :ID:       ef051ee0-1113-4604-b355-450a5a47848b   
-   :LAST_REPEAT: [2015-04-01 Wed 11:47]
+   :LAST_REPEAT: [2015-04-02 Thu 17:29]
    :END:
 
-- [X] Check agenda/focus
-- [X] Check weekly agenda
-- [X] Check emails (including holding)
-- [X] Check uncommitted work
+- [ ] Check agenda/focus
+- [ ] Check weekly agenda
+- [ ] Check emails (including holding)
+- [ ] Check uncommitted work
 - [ ] Check clocking for week so far
 - [ ] Tidy up agenda tasks
   - mark done those tasks already done
