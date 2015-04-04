@@ -1829,7 +1829,7 @@ See [[*Convexity%20in%20space%20forms][Convexity in space forms]] and Urbas' and
 ******* TODO Aleksandrov reflection
 ***** Notes
 ****** TODO Check out Killing graphs preserved
-       SCHEDULED: <2015-03-23 Mon>
+       SCHEDULED: <2015-04-20 Mon>
 Not sure where this comes from? Is it Hamilton? Is it from free boundary problems? Perhaps it's from MR3240531?
 ***** Refs
 ***** Meetings
@@ -2966,7 +2966,7 @@ If $\exp: T_x N \to N$ is a diffeomorphism (in particular for Cartan-Hadamaard) 
 ****** Ambient Minkowski space
 We would do it all in Minkowski space. I think the vector field gives the distance in Minkowski space to the totally geodesic hypersurface. We can then set up all our dual theory, radial functions and so forth in that ambient space, possibly with an intrinsic interpretation. In this setting we could maybe also do $\sphere^n$? Another interesting point is that we can do a normalised flow, by simultaneously expanding $M_t$ and $\HH^{n+1}$ by rescaling the ambient Minkowski space.
 ****** TODO Check out Killing graphs preserved
-       SCHEDULED: <2015-03-23 Mon>
+       SCHEDULED: <2015-04-20 Mon>
 **** TODO CSF networks 					       :CSF_NETWORKS:
    :PROPERTIES:
    :ID:       1bc93b81-8423-4598-8297-f0b90aa39aa7
@@ -3904,38 +3904,53 @@ Sequences of manifolds and convergence. What is smooth convergence? Can it be de
 This is about convex functions, viscosity solutions, barrier solutions and so forth. Particularly I guess related to extremal problems.
 ** Computation
 *** Working
-**** TODO Vector symmetric functions
-     :PROPERTIES:
-     :ID:       adf7480b-29ba-496c-9a32-b580cf9937ce
-     :END:
-***** Files
+**** TODO Sage Development
+**** Tasks
+***** TODO Configuration
+****** NEXT Set up sage
+       :LOGBOOK:
+       CLOCK: [2015-04-03 Fri 18:45]--[2015-04-03 Fri 22:14] =>  3:29
+       :END:
+**** Notes
+**** Refs
+**** Projects
+***** TODO Vector symmetric functions
+      :PROPERTIES:
+      :ID:       adf7480b-29ba-496c-9a32-b580cf9937ce
+      :END:
+****** Files
 [[file:~/working/external/sage]]
 [[file:~/working/external/sage/src/sage/combinat/vsf]]
-***** Tasks
-****** TODO  Mathematics
-******* NEXT Look up Emmanual Briand's review of code in my emails
-       	:PROPERTIES:
-       	:ID:       f4d890c0-78df-4ef5-bf62-07fc743a2356
-       	:END:
-******* NEXT Study literature
-       	:LOGBOOK:
-       	CLOCK: [2015-01-30 Fri 14:25]--[2015-01-30 Fri 14:53] =>  0:28
-       	:END:
-****** TODO Coding
-******* TODO Sage implementation
-******** NEXT Create skeleton code
-***** Meetings
-****** Eric Weise
-******* Meet Eric
+****** Tasks
+******* TODO Mathematics
+******** NEXT Look up Emmanual Briand's review of code in my emails
+       	 :PROPERTIES:
+       	 :ID:       f4d890c0-78df-4ef5-bf62-07fc743a2356
+       	 :END:
+******** NEXT Study literature
+       	 :LOGBOOK:
+       	 CLOCK: [2015-01-30 Fri 14:25]--[2015-01-30 Fri 14:53] =>  0:28
+       	 :END:
+******* TODO Coding
+******** TODO Sage Code
+********* NEXT Create skeleton code
+	  :LOGBOOK:
+	  CLOCK: [2015-04-03 Fri 22:14]--[2015-04-03 Fri 22:48] =>  0:34
+	  :END:
+******** TODO Sage Inclusion
+********* NEXT Create Trac ticket
+****** Meetings
+******* Eric Weise
+******** Meet Eric
 	 :LOGBOOK:
 	 CLOCK: [2015-01-21 Wed 14:25]--[2015-01-21 Wed 15:00] =>  0:35
 	 :END:
 <2015-01-21 Wed 14:00-15:00>
-******* Meet Eric
-	:LOGBOOK:
-	CLOCK: [2015-01-27 Tue 12:58]--[2015-01-27 Tue 14:45] =>  1:47
-	:END:
-	<2015-01-27 Tue 13:00-14:00>
+******** Meet Eric
+	 :LOGBOOK:
+	 CLOCK: [2015-01-27 Tue 12:58]--[2015-01-27 Tue 14:45] =>  1:47
+	 :END:
+	 <2015-01-27 Tue 13:00-14:00>
 *** Future 							    :SOMEDAY:
 **** TODO WDM
      :PROPERTIES:
@@ -6936,7 +6951,7 @@ https://academicjobsonline.org/ajo/jobs/4242
      - State "DONE"       from "NEXT"       [2014-02-25 Tue 16:55]
      :END:
 **** NEXT Prepare high codimension MCF support fn
-     SCHEDULED: <2015-03-23 Mon>
+     SCHEDULED: <2015-04-20 Mon>
 *** Hubert Bray
 **** NEXT Contact Hubert about visiting next year
 *** Yanir Rubinstein
