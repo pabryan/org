@@ -3905,52 +3905,59 @@ This is about convex functions, viscosity solutions, barrier solutions and so fo
 ** Computation
 *** Working
 **** TODO Sage Development
-**** Tasks
-***** TODO Configuration
-****** NEXT Set up sage
-       :LOGBOOK:
-       CLOCK: [2015-04-03 Fri 18:45]--[2015-04-03 Fri 22:14] =>  3:29
+***** Tasks
+****** TODO Configuration
+******* NEXT Set up sage
+       	:LOGBOOK:
+       	CLOCK: [2015-04-03 Fri 18:45]--[2015-04-03 Fri 22:14] =>  3:29
+       	:END:
+***** Notes
+***** Refs
+***** Projects
+****** TODO Vector Partitions
+******* Files
+file:~/working/external/sage
+[[file:~/working/external/sage/src/sage/combinat/vector_partition.py]]
+******* Tasks
+******** NEXT Merge my work into current implementation
+******* Meetings
+****** TODO Vector symmetric functions
+       :PROPERTIES:
+       :ID:       adf7480b-29ba-496c-9a32-b580cf9937ce
        :END:
-**** Notes
-**** Refs
-**** Projects
-***** TODO Vector symmetric functions
-      :PROPERTIES:
-      :ID:       adf7480b-29ba-496c-9a32-b580cf9937ce
-      :END:
-****** Files
+******* Files
 [[file:~/working/external/sage]]
 [[file:~/working/external/sage/src/sage/combinat/vsf]]
-****** Tasks
-******* TODO Mathematics
-******** NEXT Look up Emmanual Briand's review of code in my emails
-       	 :PROPERTIES:
-       	 :ID:       f4d890c0-78df-4ef5-bf62-07fc743a2356
-       	 :END:
-******** NEXT Study literature
-       	 :LOGBOOK:
-       	 CLOCK: [2015-01-30 Fri 14:25]--[2015-01-30 Fri 14:53] =>  0:28
-       	 :END:
-******* TODO Coding
-******** TODO Sage Code
-********* NEXT Create skeleton code
-	  :LOGBOOK:
-	  CLOCK: [2015-04-03 Fri 22:14]--[2015-04-03 Fri 22:48] =>  0:34
-	  :END:
-******** TODO Sage Inclusion
-********* NEXT Create Trac ticket
-****** Meetings
-******* Eric Weise
-******** Meet Eric
+******* Tasks
+******** TODO Mathematics
+********* NEXT Look up Emmanual Briand's review of code in my emails
+       	  :PROPERTIES:
+       	  :ID:       f4d890c0-78df-4ef5-bf62-07fc743a2356
+       	  :END:
+********* NEXT Study literature
+       	  :LOGBOOK:
+       	  CLOCK: [2015-01-30 Fri 14:25]--[2015-01-30 Fri 14:53] =>  0:28
+       	  :END:
+******** TODO Coding
+********* TODO Sage Code
+********** NEXT Create skeleton code
+	   :LOGBOOK:
+	   CLOCK: [2015-04-03 Fri 22:14]--[2015-04-03 Fri 22:48] =>  0:34
+	   :END:
+********* TODO Sage Inclusion
+********** NEXT Create Trac ticket
+******* Meetings
+******** Eric Weise
+********* Meet Eric
 	 :LOGBOOK:
 	 CLOCK: [2015-01-21 Wed 14:25]--[2015-01-21 Wed 15:00] =>  0:35
 	 :END:
 <2015-01-21 Wed 14:00-15:00>
-******** Meet Eric
-	 :LOGBOOK:
-	 CLOCK: [2015-01-27 Tue 12:58]--[2015-01-27 Tue 14:45] =>  1:47
-	 :END:
-	 <2015-01-27 Tue 13:00-14:00>
+********* Meet Eric
+	  :LOGBOOK:
+	  CLOCK: [2015-01-27 Tue 12:58]--[2015-01-27 Tue 14:45] =>  1:47
+	  :END:
+	  <2015-01-27 Tue 13:00-14:00>
 *** Future 							    :SOMEDAY:
 **** TODO WDM
      :PROPERTIES:
