@@ -543,8 +543,11 @@ https://voa-healthymeals.orderlunches.com/
       - State "DONE"       from "NEXT"       [2015-03-01 Sun 16:00]
       :END:
 https://voa-healthymeals.orderlunches.com/
-****** NEXT Order kids lunch
+****** DONE Order kids lunch
       DEADLINE: <2015-04-01 Wed>
+      :LOGBOOK:
+      - State "DONE"       from "NEXT"       [2015-04-12 Sun 12:14]
+      :END:
 https://voa-healthymeals.orderlunches.com/
 ***** Kids Hot Lunch
 ****** Sep 2014
