@@ -2007,6 +2007,8 @@ If $K = \tilde{K} \intersect \sphere^n$, then $\tilde{K} \subset $\text{cone} (K
 ******* TODO Viscosity equation
 ******** NEXT Variations
 	 :LOGBOOK:
+	 CLOCK: [2015-04-14 Tue 14:00]--[2015-04-14 Tue 15:22] =>  1:22
+	 CLOCK: [2015-04-14 Tue 10:30]--[2015-04-14 Tue 10:40] =>  0:10
 	 CLOCK: [2015-04-02 Thu 13:10]--[2015-04-02 Thu 14:10] =>  1:00
 	 CLOCK: [2015-03-20 Fri 13:25]--[2015-03-20 Fri 15:22] =>  1:57
 	 CLOCK: [2015-03-13 Fri 14:51]--[2015-03-13 Fri 16:31] =>  1:40
@@ -6056,6 +6058,18 @@ Rowland Hall 340P
 
 Richard Montgomery <rmont@ucsc.edu>, David Hoffman <hoffman@math.stanford.edu>, Jie Qing <qing@ucsc.edu>
 
+** BIRS
+*** 2015 Geometric Flows
+**** BIRS Meeting 2015 Lectures
+     :LOGBOOK:
+     CLOCK: [2015-04-15 Wed 10:34]--[2015-04-15 Wed 12:19] =>  1:45
+     CLOCK: [2015-04-14 Tue 15:30]--[2015-04-14 Tue 17:52] =>  2:22
+     CLOCK: [2015-04-14 Tue 10:30]--[2015-04-14 Tue 11:40] =>  1:10
+     :END:
+**** BIRS Meeting 2015 Travel
+     :LOGBOOK:
+     CLOCK: [2015-04-13 Mon 05:00]--[2015-04-13 Mon 18:45] => 13:45
+     :END:
 * Students
   :PROPERTIES:
   :ID:       a93e1471-a035-4d1a-888f-948a3996b9ec
