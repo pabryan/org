@@ -1583,6 +1583,11 @@ There is a remark by Ben that our function comes from seeking a similarity solut
 - if we have initial inequality of isoprofiles, this is preserved under the flow.
 ****** TODO Short time existence
 ******* NEXT Get rough idea
+******* NEXT Compute symbol
+	:LOGBOOK:
+	CLOCK: [2015-04-16 Thu 20:45]
+	:END:
+
 ****** TODO Editing
        :PROPERTIES:
        :ID:       61f17103-1796-4baf-a0a5-233056956351
@@ -6062,6 +6067,8 @@ Richard Montgomery <rmont@ucsc.edu>, David Hoffman <hoffman@math.stanford.edu>, 
 *** 2015 Geometric Flows
 **** BIRS Meeting 2015 Lectures
      :LOGBOOK:
+     CLOCK: [2015-04-16 Thu 16:00]--[2015-04-16 Thu 17:46] =>  1:46
+     CLOCK: [2015-04-16 Thu 10:25]--[2015-04-16 Thu 12:40] =>  2:15
      CLOCK: [2015-04-15 Wed 10:34]--[2015-04-15 Wed 12:19] =>  1:45
      CLOCK: [2015-04-14 Tue 15:30]--[2015-04-14 Tue 17:52] =>  2:22
      CLOCK: [2015-04-14 Tue 10:30]--[2015-04-14 Tue 11:40] =>  1:10
@@ -6070,6 +6077,13 @@ Richard Montgomery <rmont@ucsc.edu>, David Hoffman <hoffman@math.stanford.edu>, 
      :LOGBOOK:
      CLOCK: [2015-04-13 Mon 05:00]--[2015-04-13 Mon 18:45] => 13:45
      :END:
+**** NEXT Prepare BIRS talk
+     :LOGBOOK:
+     CLOCK: [2015-04-16 Thu 19:45]--[2015-04-16 Thu 20:55] =>  1:10
+     CLOCK: [2015-04-16 Thu 14:08]--[2015-04-16 Thu 16:00] =>  1:52
+     CLOCK: [2015-04-16 Thu 09:20]--[2015-04-16 Thu 10:25] =>  1:05
+     :END:
+
 * Students
   :PROPERTIES:
   :ID:       a93e1471-a035-4d1a-888f-948a3996b9ec
