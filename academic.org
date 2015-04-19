@@ -1249,8 +1249,10 @@ Try to use as much available software that I can find. Do it like Sage - don't r
        :PROPERTIES:
        :ID:       4f722f4b-5144-460f-99ed-df219865ff85
        :END:
-****** DONE Normalised Flow
+****** TODO Normalised Flow
        :LOGBOOK:
+       - State "TODO"       from "DONE"       [2015-04-18 Sat 12:42] \\
+	 Re-opened to add normalised flow for approximating flows.
        - State "DONE"       from "TODO"       [2013-09-22 Sun 12:11]
        :END:
 ******* DONE Redo computation with correct normalised flow
@@ -1285,7 +1287,7 @@ My computations were for the un-normalised flow.
        	CLOCK: [2013-07-16 Tue 10:56]--[2013-07-16 Tue 11:39] =>  0:43
        	CLOCK: [2013-07-15 Mon 14:45]--[2013-07-15 Mon 16:30] =>  1:45
        	:END:
-
+******* NEXT Normalised flow for approximating flows
 ****** DONE Variations
        :LOGBOOK:
        - State "DONE"       from "TODO"       [2013-09-22 Sun 12:11]
@@ -1397,6 +1399,9 @@ Need to make it consistent with spatial viscosity bit.
        	:PROPERTIES:
        	:ID:       fd104b00-d994-4de3-91b9-cdb9f2b02d15
        	:END:
+******* NEXT Clean up intro
+- Give better visc. eqn (after Holder)
+- Clean up section refs
 ****** DONE Max principle
        :LOGBOOK:
        - State "DONE"       from "TODO"       [2013-09-22 Sun 12:11]
@@ -1583,11 +1588,17 @@ There is a remark by Ben that our function comes from seeking a similarity solut
 - if we have initial inequality of isoprofiles, this is preserved under the flow.
 ****** TODO Short time existence
 ******* NEXT Get rough idea
-******* NEXT Compute symbol
+******* DONE Compute symbol
 	:LOGBOOK:
+	- State "DONE"       from "NEXT"       [2015-04-18 Sat 11:45]
 	CLOCK: [2015-04-16 Thu 21:00]--[2015-04-16 Thu 23:40] =>  2:40
 	:END:
-
+******* DONE Write up outline of approximating flows
+	:LOGBOOK:
+	- State "DONE"       from "NEXT"       [2015-04-18 Sat 12:40]
+	CLOCK: [2015-04-18 Sat 11:45]--[2015-04-18 Sat 12:40] =>  0:55
+	:END:
+******* NEXT Estimates for approximating flow
 ****** TODO Editing
        :PROPERTIES:
        :ID:       61f17103-1796-4baf-a0a5-233056956351
