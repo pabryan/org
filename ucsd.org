@@ -18176,6 +18176,9 @@ Abstract:
       :END:
       <2015-03-10 Tue 10:30-12:00>
 ***** NEXT Ben Chow meeting
+      :LOGBOOK:
+      CLOCK: [2015-04-21 Tue 10:28]
+      :END:
       :PROPERTIES:
       :Effort:   1:30
       :END:
