@@ -2023,6 +2023,7 @@ If $K = \tilde{K} \intersect \sphere^n$, then $\tilde{K} \subset $\text{cone} (K
 ******* TODO Viscosity equation
 ******** NEXT Variations
 	 :LOGBOOK:
+	 CLOCK: [2015-04-23 Thu 13:53]
 	 CLOCK: [2015-04-21 Tue 20:50]--[2015-04-21 Tue 21:21] =>  0:31
 	 CLOCK: [2015-04-21 Tue 15:37]--[2015-04-21 Tue 16:24] =>  0:47
 	 CLOCK: [2015-04-21 Tue 14:14]--[2015-04-21 Tue 15:10] =>  0:56
