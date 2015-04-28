@@ -1827,6 +1827,8 @@ http://gmane.org
   :END:
 ** Organisation
   :LOGBOOK:
+  CLOCK: [2015-04-27 Mon 20:39]--[2015-04-27 Mon 21:02] =>  0:23
+  CLOCK: [2015-04-27 Mon 08:39]--[2015-04-27 Mon 08:41] =>  0:02
   CLOCK: [2015-04-23 Thu 16:50]--[2015-04-23 Thu 16:59] =>  0:09
   CLOCK: [2015-04-23 Thu 16:14]--[2015-04-23 Thu 16:16] =>  0:02
   CLOCK: [2015-04-23 Thu 13:38]--[2015-04-23 Thu 13:53] =>  0:15
@@ -3859,8 +3861,9 @@ Set some goals for the month. I should check someday projects for inclusion in t
 Check how I did last month. I guess the review and plan could probably go together. This is all broad stuff
 
 ** NEXT Daily Review [0/10]
-   SCHEDULED: <2015-04-22 Wed .+1d/2d>
+   SCHEDULED: <2015-04-28 Tue .+1d/2d>
    :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2015-04-27 Mon 20:48]
    - State "DONE"       from "NEXT"       [2015-04-21 Tue 20:54]
    - State "DONE"       from "NEXT"       [2015-04-20 Mon 22:35]
    - State "DONE"       from "NEXT"       [2015-04-17 Fri 20:32]
@@ -4408,7 +4411,7 @@ Check how I did last month. I guess the review and plan could probably go togeth
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
    :ID:       616c5bd9-d941-4fcc-8874-2ff3c9e96b4a
-   :LAST_REPEAT: [2015-04-21 Tue 20:54]
+   :LAST_REPEAT: [2015-04-27 Mon 20:48]
    :END:
 
 What to review:
@@ -4428,9 +4431,11 @@ When I set up scoring the day:
   - This would be ranking *qualitative* things such as general mood, pain, energy, motivation etc.
 - [ ] Collate data such as sleep, weight, exercise, diet etc.
 
-** TODO Daily Plan [0/8]
-   SCHEDULED: <2015-04-26 Sun .+1d/2d>
+** NEXT Daily Plan [0/9]
+   SCHEDULED: <2015-04-28 Tue .+1d/2d>
    :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2015-04-27 Mon 08:48]
+   CLOCK: [2015-04-27 Mon 08:41]--[2015-04-27 Mon 08:48] =>  0:07
    - State "DONE"       from "TODO"       [2015-04-25 Sat 20:54]
    - State "DONE"       from "NEXT"       [2015-04-24 Fri 19:38]
    - State "DONE"       from "NEXT"       [2015-04-23 Thu 13:47]
@@ -5533,13 +5538,22 @@ When I set up scoring the day:
    :END:
 
    :PROPERTIES:
-   :LAST_REPEAT: [2015-04-25 Sat 20:54]
-   :END:
-:STYLE:    habit
+   :STYLE:    habit
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
    :ID:       ef051ee0-1113-4604-b355-450a5a47848b   
-   :LAST_REPEAT: [2015-04-23 Thu 13:47]
+   :LAST_REPEAT: [2015-04-27 Mon 08:48]
+   :END:
+   
+   - [ ] Check agenda/focus
+   - [ ] Check weekly agenda
+   - [ ] Check emails (including holding)
+   - [ ] Check uncommitted work
+   - [ ] Check clocking for week so far
+   - [ ] Tidy up agenda tasks
+   - [ ] mark done those tasks already done
+   - [ ] Do short tasks
+   - [ ] Record morning health stats
 
 ** NEXT Weekly Review [0/20]
    SCHEDULED: <2015-03-20 Fri +1w>
