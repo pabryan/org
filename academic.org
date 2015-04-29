@@ -2010,6 +2010,7 @@ If $K = \tilde{K} \intersect \sphere^n$, then $\tilde{K} \subset $\text{cone} (K
 ***** Tasks
 ****** TODO Org
        :LOGBOOK:
+       CLOCK: [2015-04-28 Tue 14:29]--[2015-04-28 Tue 14:30] =>  0:01
        CLOCK: [2015-03-03 Tue 20:55]--[2015-03-03 Tue 20:56] =>  0:01
        :END:
 ******* DONE Set up org files
@@ -2019,7 +2020,6 @@ If $K = \tilde{K} \intersect \sphere^n$, then $\tilde{K} \subset $\text{cone} (K
 	:END:
 ******* NEXT Set up tasks
 ****** TODO Maths
-******* TODO Introduction
 ******* TODO Viscosity equation
 ******** NEXT Variations
 	 :LOGBOOK:
@@ -2051,6 +2051,22 @@ If $K = \tilde{K} \intersect \sphere^n$, then $\tilde{K} \subset $\text{cone} (K
 	 CLOCK: [2015-03-10 Tue 12:05]--[2015-03-10 Tue 13:22] =>  1:17
 	 CLOCK: [2015-03-03 Tue 20:56]--[2015-03-03 Tue 21:51] =>  0:55
 	 :END:
+******** NEXT Compute viscosity equation
+	 :LOGBOOK:
+	 CLOCK: [2015-04-28 Tue 19:30]--[2015-04-28 Tue 20:25] =>  0:55
+	 :END:
+****** TODO Writing
+******* TODO Introduction
+******** NEXT Find references
+	 :LOGBOOK:
+	 CLOCK: [2015-04-28 Tue 13:58]--[2015-04-28 Tue 14:29] =>  0:31
+	 :END:
+******* TODO Viscosity
+******** NEXT Write variations
+	 :LOGBOOK:
+	 CLOCK: [2015-04-28 Tue 14:30]--[2015-04-28 Tue 15:22] =>  0:52
+	 :END:
+******** NEXT Write viscosity equation
 ***** Refs
 *** Holding
 **** TODO Pipe Flows					  :PIPE_FLOW:WRITING:
