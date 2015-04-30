@@ -1241,6 +1241,12 @@
 [[papers:MR1636569][MR1636569-paper]]
 [[bib:MR1636569][MR1636569-bib]]
 
+**** Geometric analysis
+:PROPERTIES:
+:Custom_ID: MR2962229
+:END:
+[[papers:MR2962229][MR2962229-paper]]
+[[bib:MR2962229][MR2962229-bib]]
 *** 58C (1973-now) Calculus on manifolds; nonlinear operators [See also 46Txx, 47Hxx, 47Jxx]
 **** 58C15 (1973-now) Implicit function theorems; global Newton methods
 ***** The inverse function theorem of {N}ash and {M}oser
@@ -1800,6 +1806,7 @@ Here I need to do some more work since $u \mapsto g(\grad u, \grad u)$ is not a 
 :END:
 [[papers:pbthesis][pbthesis-paper]]
 [[bib:pbthesis][pbthesis-bib]]
+
 
 * ADS
 ** Logarithmic diffusion and porous media equations: A unified description
