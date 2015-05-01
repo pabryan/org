@@ -1807,7 +1807,12 @@ Here I need to do some more work since $u \mapsto g(\grad u, \grad u)$ is not a 
 [[papers:pbthesis][pbthesis-paper]]
 [[bib:pbthesis][pbthesis-bib]]
 
-
+** Propriétés de concavité du profil isopérimétrique et applicationes
+:PROPERTIES:
+:Custom_ID: BaylePhD
+:END:
+[[papers:BaylePhD][BaylePhD-paper]]
+[[bib:BaylePhD][BaylePhD-bib]]
 * ADS
 ** Logarithmic diffusion and porous media equations: A unified description
 :PROPERTIES:
