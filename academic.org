@@ -2071,6 +2071,7 @@ If $K = \tilde{K} \intersect \sphere^n$, then $\tilde{K} \subset $\text{cone} (K
 	 :END:
 ******** NEXT Write viscosity equation
 	 :LOGBOOK:
+	 CLOCK: [2015-04-30 Thu 20:26]--[2015-04-30 Thu 22:07] =>  1:41
 	 CLOCK: [2015-04-29 Wed 16:21]--[2015-04-29 Wed 17:16] =>  0:55
 	 :END:
 ***** Refs

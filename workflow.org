@@ -1827,6 +1827,7 @@ http://gmane.org
   :END:
 ** Organisation
   :LOGBOOK:
+  CLOCK: [2015-04-30 Thu 20:25]--[2015-04-30 Thu 20:26] =>  0:01
   CLOCK: [2015-04-30 Thu 12:18]--[2015-04-30 Thu 12:21] =>  0:03
   CLOCK: [2015-04-29 Wed 11:15]--[2015-04-29 Wed 11:27] =>  0:12
   CLOCK: [2015-04-28 Tue 13:46]--[2015-04-28 Tue 13:58] =>  0:12
@@ -3865,8 +3866,9 @@ Set some goals for the month. I should check someday projects for inclusion in t
 Check how I did last month. I guess the review and plan could probably go together. This is all broad stuff
 
 ** NEXT Daily Review [0/10]
-   SCHEDULED: <2015-04-30 Thu .+1d/2d>
+   SCHEDULED: <2015-05-01 Fri .+1d/2d>
    :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2015-04-30 Thu 20:25]
    - State "DONE"       from "NEXT"       [2015-04-29 Wed 20:54]
    - State "DONE"       from "NEXT"       [2015-04-27 Mon 20:48]
    - State "DONE"       from "NEXT"       [2015-04-21 Tue 20:54]
@@ -4416,7 +4418,7 @@ Check how I did last month. I guess the review and plan could probably go togeth
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
    :ID:       616c5bd9-d941-4fcc-8874-2ff3c9e96b4a
-   :LAST_REPEAT: [2015-04-29 Wed 20:54]
+   :LAST_REPEAT: [2015-04-30 Thu 20:25]
    :END:
 
 What to review:
@@ -4437,8 +4439,9 @@ When I set up scoring the day:
 - [ ] Collate data such as sleep, weight, exercise, diet etc.
 
 ** NEXT Daily Plan [0/9]
-   SCHEDULED: <2015-04-30 Thu .+1d/2d>
+   SCHEDULED: <2015-05-01 Fri .+1d/2d>
    :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2015-04-30 Thu 20:25]
    - State "DONE"       from "NEXT"       [2015-04-29 Wed 11:15]
    CLOCK: [2015-04-29 Wed 10:47]--[2015-04-29 Wed 11:15] =>  0:28
    - State "DONE"       from "NEXT"       [2015-04-27 Mon 08:48]
@@ -5549,7 +5552,7 @@ When I set up scoring the day:
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
    :ID:       ef051ee0-1113-4604-b355-450a5a47848b   
-   :LAST_REPEAT: [2015-04-29 Wed 11:15]
+   :LAST_REPEAT: [2015-04-30 Thu 20:25]
    :END:
    
    - [ ] Check agenda/focus
