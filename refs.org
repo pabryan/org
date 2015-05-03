@@ -1754,6 +1754,12 @@ Here I need to do some more work since $u \mapsto g(\grad u, \grad u)$ is not a 
 :END:
 [[papers:2011arXiv1104.4409B][2011arXiv1104.4409B-paper]]
 [[bib:2011arXiv1104.4409B][2011arXiv1104.4409B-bib]]
+*** Positively curved shrinking Ricci solitons are compact
+:PROPERTIES:
+:Custom_ID: 2015arXiv150407898M
+:END:
+[[papers:2015arXiv150407898M][2015arXiv150407898M-paper]]
+[[bib:2015arXiv150407898M][2015arXiv150407898M-bib]]
 ** math.AP							     :ap:pde:
 *** user's guide to viscosity solutions of second order partial differential equations
 :PROPERTIES:
