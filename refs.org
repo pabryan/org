@@ -398,6 +398,12 @@
 :END:
 [[papers:MR0266105][MR0266105-paper]]
 [[bib:MR0266105][MR0266105-bib]]
+**** Minimal immersions of spheres into spheres
+:PROPERTIES:
+:Custom_ID: MR0262979
+:END:
+[[papers:MR0262979][MR0262979-paper]]
+[[bib:MR0262979][MR0262979-bib]]
 *** 53A Classical differential geometry				  :classical:
 **** 53AXX
 ***** Contracting convex immersed closed plane curves with slow speed of curvature :convex:evolution:plane:
@@ -1223,6 +1229,13 @@
 [[papers:MR1249482][MR1249482-paper]]
 [[bib:MR1249482][MR1249482-bib]]
 ** 57 (1959-now) Manifolds and cell complexes [For complex manifolds, see 32Qxx]
+*** 57.20 (1959-1972) Differentiable mappings, imbeddings, immersions, diffeomorphisms [See also 53.40, 55.50]
+**** Minimal immersions of spheres into spheres
+:PROPERTIES:
+:Custom_ID: MR0278318
+:END:
+[[papers:MR0278318][MR0278318-paper]]
+[[bib:MR0278318][MR0278318-bib]]
 *** 57M (1980-now) Low-dimensional topology
 **** 57M40 (1980-now) Characterizations of E3 and S3 (Poincaré conjecture) [See also 57N12]
 ***** Ricci flow and the {P}oincar\'e conjecture
