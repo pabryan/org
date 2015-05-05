@@ -823,6 +823,12 @@
 :END:
 [[papers:MR533065][MR533065-paper]]
 [[bib:MR533065][MR533065-bib]]
+***** Minimal immersions of symmetric spaces into spheres
+:PROPERTIES:
+:Custom_ID: MR0407774
+:END:
+[[papers:MR0407774][MR0407774-paper]]
+[[bib:MR0407774][MR0407774-bib]]
 **** 53C42 (1980-now) Immersions (minimal, prescribed curvature, tight, etc.) [See also 49Q05, 49Q10, 53A10, 57R40, 57R42] :immersions:submanifold:
 ***** Constant mean curvature hypersurfaces in a {L}ie group with a bi-invariant metric :cmc:lie_group:hypersurface:
 :PROPERTIES:
