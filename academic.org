@@ -2071,6 +2071,8 @@ If $K = \tilde{K} \intersect \sphere^n$, then $\tilde{K} \subset $\text{cone} (K
 	 :END:
 ******** NEXT Write viscosity equation
 	 :LOGBOOK:
+	 CLOCK: [2015-05-05 Tue 16:08]--[2015-05-05 Tue 17:03] =>  0:55
+	 CLOCK: [2015-05-05 Tue 15:01]--[2015-05-05 Tue 16:01] =>  1:00
 	 CLOCK: [2015-04-30 Thu 20:26]--[2015-04-30 Thu 22:07] =>  1:41
 	 CLOCK: [2015-04-29 Wed 16:21]--[2015-04-29 Wed 17:16] =>  0:55
 	 :END:
@@ -3317,6 +3319,16 @@ In particular, if $X$ is not a gradient vector field, what is corresponding metr
 	:PROPERTIES:
 	:ID:       c3a7b853-99dd-444f-a663-b5ec0f791fc7
 	:END:
+******* NEXT Show polynomial volume growth
+[[notes:MR3018176][MR3018176-notes]]
+[[papers:MR3018176][MR3018176-paper]]
+[[notes:MR2732975][MR2732975-notes]]
+**** TODO Ricci solitions
+[[notes:MR2732975][MR2732975-notes]]
+[[notes:MR3010141][MR3010141-notes]]
+[[notes:2015arXiv150407898M][2015arXiv150407898M-notes]]
+[[notes:2014arXiv1410.3813M][2014arXiv1410.3813M-notes]]
+**** TODO MCF networks
 ****** Evolution of convex lens-shaped networks under the curve shortening flow
 :PROPERTIES:
 :Custom_ID: MR2763716
