@@ -1622,6 +1622,12 @@ Here I need to do some more work since $u \mapsto g(\grad u, \grad u)$ is not a 
   :ID:       6ac9b861-65b6-4799-bb71-716b51571ab6
   :END:
 ** math.DG					      :dg:geometry:manifolds:
+*** The Spherical Convex Floating Body
+:PROPERTIES:
+:Custom_ID: 2014arXiv1411.7664B
+:END:
+[[papers:2014arXiv1411.7664B][2014arXiv1411.7664B-paper]]
+[[bib:2014arXiv1411.7664B][2014arXiv1411.7664B-bib]]
 *** Generalized existence of isoperimetric regions in non-compact Riemannian manifolds and applications to the isoperimetric profile :isoperimetric:
 :PROPERTIES:
 :Custom_ID: 2012arXiv1210.1328N
