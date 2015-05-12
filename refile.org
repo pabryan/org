@@ -1,6 +1,6 @@
 #+FILETAGS: REFILE
 * NEXT Update website, particularly research projects page!
-  SCHEDULED: <2015-04-20 Mon>
+  SCHEDULED: <2015-05-25 Mon>
   :LOGBOOK:
   CLOCK: [2015-04-22 Wed 10:52]--[2015-04-22 Wed 11:13] =>  0:21
   :END:
@@ -41,7 +41,7 @@
   SCHEDULED: <2015-04-20 Mon>
 [2015-02-24 Tue 12:40]
 * TODO Make agenda blocks
-  SCHEDULED: <2015-04-20 Mon>
+  SCHEDULED: <2015-05-25 Mon>
   :LOGBOOK:
   CLOCK: [2015-02-27 Fri 14:38]--[2015-02-27 Fri 14:39] =>  0:01
   :END:
@@ -61,19 +61,19 @@
   :END:
 [2015-03-05 Thu 08:13]
 * TODO Cancel car insurance
-  SCHEDULED: <2015-04-20 Mon>
+  SCHEDULED: <2015-07-01 Wed>
   :LOGBOOK:
   CLOCK: [2015-03-17 Tue 10:46]--[2015-03-17 Tue 10:47] =>  0:01
   :END:
 [2015-03-17 Tue 10:46]
 * TODO Organise german visas
-  SCHEDULED: <2015-04-20 Mon>
+  SCHEDULED: <2015-05-25 Mon>
 [2015-03-18 Wed 11:16]
 * TODO Organise warwick job
-  SCHEDULED: <2015-04-20 Mon>
+  SCHEDULED: <2015-05-25 Mon>
 [2015-03-18 Wed 11:16]
 * TODO Redesign website
-  SCHEDULED: <2015-04-20 Mon>
+  SCHEDULED: <2015-05-25 Mon>
 [2015-03-20 Fri 08:50]
 Use pelican and bootstrap.
 
@@ -95,17 +95,14 @@ http://chdoig.github.io/create-pelican-blog.html
   CLOCK: [2015-03-28 Sat 13:37]--[2015-03-28 Sat 13:38] =>  0:01
   :END:
 [2015-03-28 Sat 13:37]
-* TODO Pick up/drop off car
-  SCHEDULED: <2015-05-04 Mon 12:00>
-[2015-03-28 Sat 13:38]
 * TODO Look into mod. cont. for visc. eqn's
-  SCHEDULED: <2015-04-20 Mon>
+  SCHEDULED: <2015-05-25 Mon>
 [2015-03-29 Sun 12:19]
 * TODO Extend driver's license
-  SCHEDULED: <2015-04-23 Thu>
+  SCHEDULED: <2015-05-25 Mon>
 [2015-04-23 Thu 18:38]
 * TODO Cancel accounts
-  SCHEDULED: <2015-04-23 Thu>
+  SCHEDULED: <2015-07-01 Wed>
   :LOGBOOK:
   CLOCK: [2015-04-23 Thu 18:48]--[2015-04-23 Thu 18:49] =>  0:01
   :END:
@@ -119,3 +116,12 @@ http://chdoig.github.io/create-pelican-blog.html
 - Insurance
 * TODO Check Bayle PhD ref in refs.org
 [2015-04-30 Thu 15:21]
+* TODO Organise Teaching
+  SCHEDULED: <2015-06-01 Mon>
+  :LOGBOOK:
+  CLOCK: [2015-05-12 Tue 08:31]--[2015-05-12 Tue 08:32] =>  0:01
+  :END:
+[2015-05-12 Tue 08:31]
+* TODO Reschedule first day of teaching
+  SCHEDULED: <2015-05-12 Tue>
+[2015-05-12 Tue 08:32]

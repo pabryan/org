@@ -1845,7 +1845,7 @@ See [[*Convexity%20in%20space%20forms][Convexity in space forms]] and Urbas' and
 ******* TODO Aleksandrov reflection
 ***** Notes
 ****** TODO Check out Killing graphs preserved
-       SCHEDULED: <2015-04-20 Mon>
+       SCHEDULED: <2015-05-25 Mon>
 Not sure where this comes from? Is it Hamilton? Is it from free boundary problems? Perhaps it's from MR3240531?
 ***** Refs
 ***** Meetings
@@ -3024,7 +3024,7 @@ If $\exp: T_x N \to N$ is a diffeomorphism (in particular for Cartan-Hadamaard) 
 ****** Ambient Minkowski space
 We would do it all in Minkowski space. I think the vector field gives the distance in Minkowski space to the totally geodesic hypersurface. We can then set up all our dual theory, radial functions and so forth in that ambient space, possibly with an intrinsic interpretation. In this setting we could maybe also do $\sphere^n$? Another interesting point is that we can do a normalised flow, by simultaneously expanding $M_t$ and $\HH^{n+1}$ by rescaling the ambient Minkowski space.
 ****** TODO Check out Killing graphs preserved
-       SCHEDULED: <2015-04-20 Mon>
+       SCHEDULED: <2015-05-25 Mon>
 **** TODO CSF networks 					       :CSF_NETWORKS:
    :PROPERTIES:
    :ID:       1bc93b81-8423-4598-8297-f0b90aa39aa7
@@ -4596,6 +4596,12 @@ Schedule time for research, for teaching and for non-research academic work (e.g
       CLOCK: [2015-05-08 Fri 10:56]--[2015-05-08 Fri 11:15] =>  0:19
       CLOCK: [2015-05-08 Fri 10:27]--[2015-05-08 Fri 10:56] =>  0:29
       :END:
+**** TODO Mathematics
+***** TODO Hypersurfaces in the sphere
+****** NEXT work out 2ff relative to ambient Euclidean space
+       :LOGBOOK:
+       CLOCK: [2015-05-12 Tue 08:34]--[2015-05-12 Tue 10:30] =>  1:56
+       :END:
 *** Continuum Mechanics on Riemannian manifolds
     SCHEDULED: <2015-08-17 Mon>
 
