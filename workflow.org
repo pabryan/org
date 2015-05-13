@@ -1827,6 +1827,8 @@ http://gmane.org
   :END:
 ** Organisation
   :LOGBOOK:
+  CLOCK: [2015-05-13 Wed 12:08]--[2015-05-13 Wed 12:12] =>  0:04
+  CLOCK: [2015-05-13 Wed 11:59]--[2015-05-13 Wed 12:06] =>  0:07
   CLOCK: [2015-05-12 Tue 08:32]--[2015-05-12 Tue 08:34] =>  0:02
   CLOCK: [2015-05-12 Tue 07:49]--[2015-05-12 Tue 08:31] =>  0:42
   CLOCK: [2015-05-08 Fri 10:23]--[2015-05-08 Fri 10:27] =>  0:04
@@ -3872,8 +3874,9 @@ Set some goals for the month. I should check someday projects for inclusion in t
 Check how I did last month. I guess the review and plan could probably go together. This is all broad stuff
 
 ** NEXT Daily Review [0/10]
-   SCHEDULED: <2015-05-04 Mon .+1d/2d>
+   SCHEDULED: <2015-05-13 Wed .+1d/2d>
    :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2015-05-13 Wed 01:00]
    - State "DONE"       from "NEXT"       [2015-05-03 Sun 13:38]
    - State "DONE"       from "NEXT"       [2015-04-30 Thu 20:25]
    - State "DONE"       from "NEXT"       [2015-04-29 Wed 20:54]
@@ -4425,7 +4428,7 @@ Check how I did last month. I guess the review and plan could probably go togeth
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
    :ID:       616c5bd9-d941-4fcc-8874-2ff3c9e96b4a
-   :LAST_REPEAT: [2015-05-03 Sun 13:38]
+   :LAST_REPEAT: [2015-05-13 Wed 01:00]
    :END:
 
 What to review:
@@ -4444,10 +4447,12 @@ When I set up scoring the day:
 - [ ] Enter score for the day
   - This would be ranking *qualitative* things such as general mood, pain, energy, motivation etc.
 - [ ] Collate data such as sleep, weight, exercise, diet etc.
-
+  
 ** NEXT Daily Plan [0/9]
-   SCHEDULED: <2015-05-13 Wed .+1d/2d>
+   SCHEDULED: <2015-05-14 Thu .+1d/2d>
    :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2015-05-13 Wed 12:08]
+   CLOCK: [2015-05-13 Wed 12:06]--[2015-05-13 Wed 12:08] =>  0:02
    - State "DONE"       from "NEXT"       [2015-05-12 Tue 07:52]
    - State "DONE"       from "NEXT"       [2015-05-08 Fri 10:17]
    - State "DONE"       from "NEXT"       [2015-05-05 Tue 10:20]
@@ -5564,7 +5569,7 @@ When I set up scoring the day:
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
    :ID:       ef051ee0-1113-4604-b355-450a5a47848b   
-   :LAST_REPEAT: [2015-05-12 Tue 07:52]
+   :LAST_REPEAT: [2015-05-13 Wed 12:08]
    :END:
    
    - [ ] Check agenda/focus

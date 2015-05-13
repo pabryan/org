@@ -4598,9 +4598,18 @@ Schedule time for research, for teaching and for non-research academic work (e.g
       :END:
 **** TODO Mathematics
 ***** TODO Hypersurfaces in the sphere
-****** NEXT work out 2ff relative to ambient Euclidean space
+****** DONE work out 2ff relative to ambient Euclidean space
        :LOGBOOK:
+       - State "DONE"       from "NEXT"       [2015-05-12 Tue 11:24]
        CLOCK: [2015-05-12 Tue 08:34]--[2015-05-12 Tue 10:30] =>  1:56
+       :END:
+****** NEXT Work out spherical mean curvature solitons 
+       :LOGBOOK:
+       CLOCK: [2015-05-13 Wed 12:12]
+       CLOCK: [2015-05-13 Wed 10:05]--[2015-05-13 Wed 10:50] =>  0:45
+       CLOCK: [2015-05-12 Tue 17:06]--[2015-05-12 Tue 17:33] =>  0:27
+       CLOCK: [2015-05-12 Tue 14:05]--[2015-05-12 Tue 14:23] =>  0:18
+       CLOCK: [2015-05-12 Tue 11:15]--[2015-05-12 Tue 11:55] =>  0:40
        :END:
 *** Continuum Mechanics on Riemannian manifolds
     SCHEDULED: <2015-08-17 Mon>
