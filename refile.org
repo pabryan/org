@@ -128,3 +128,21 @@ http://chdoig.github.io/create-pelican-blog.html
 * TODO Organise Melbourne visit
   SCHEDULED: <2015-05-25 Mon>
 [2015-05-13 Wed 12:08]
+* TODO Get GMT books
+  SCHEDULED: <2015-09-01 Tue>
+[2015-05-13 Wed 23:11]
+- Leon Simon
+- Evans/Gariprey
+- Morgan
+- de Giusti
+- Maggi
+* TODO Comparison theory for MCF solitions
+  SCHEDULED: <2015-05-25 Mon>
+  :LOGBOOK:
+  CLOCK: [2015-05-14 Thu 11:38]--[2015-05-14 Thu 11:39] =>  0:01
+  :END:
+[2015-05-14 Thu 11:38]
+
+The $G$ functional from \cite{MR3066400}, gives a weighted volume. Is there a viscosity equation and/or comparison theory? The Gaussian, i.e. Huisken density should be optimal!
+
+[[notes:MR3066400][MR3066400-notes]]

@@ -4593,6 +4593,7 @@ Schedule time for research, for teaching and for non-research academic work (e.g
 ***** NEXT Read Gerhard's spherical flows
 ***** NEXT Read spherical floating body
       :LOGBOOK:
+      CLOCK: [2015-05-14 Thu 09:50]--[2015-05-14 Thu 11:02] =>  1:12
       CLOCK: [2015-05-08 Fri 10:56]--[2015-05-08 Fri 11:15] =>  0:19
       CLOCK: [2015-05-08 Fri 10:27]--[2015-05-08 Fri 10:56] =>  0:29
       :END:
@@ -4605,6 +4606,7 @@ Schedule time for research, for teaching and for non-research academic work (e.g
        :END:
 ****** NEXT Work out spherical mean curvature solitons 
        :LOGBOOK:
+       CLOCK: [2015-05-14 Thu 01:15]--[2015-05-14 Thu 02:09] =>  0:54
        CLOCK: [2015-05-13 Wed 17:10]--[2015-05-13 Wed 20:26] =>  3:16
        CLOCK: [2015-05-13 Wed 14:20]--[2015-05-13 Wed 16:33] =>  2:13
        CLOCK: [2015-05-13 Wed 12:12]--[2015-05-13 Wed 14:18] =>  2:06
