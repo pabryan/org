@@ -1857,6 +1857,18 @@ Not sure where this comes from? Is it Hamilton? Is it from free boundary problem
 **** TODO Convexity in space forms	:CONVEX:SPACEFORM:INPROGRESS:WRITING:
 ***** Files
 [[file:~/working/academic/research/convexity_space_forms]]
+***** Refs
+****** Spherical geometry
+[[notes:MR2049442][MR2049442-notes]]
+[[notes:2014arXiv1411.7664B][2014arXiv1411.7664B-notes]]
+[[notes:2013arXiv1308.1607G][2013arXiv1308.1607G-notes]]
+****** MCF solitons/Space-time minimal surfaces
+[[notes:MR1856176][MR1856176-notes]]
+[[notes:MR1855161][MR1855161-notes]]
+[[notes:MR3066400][MR3066400-notes]]
+[[notes:MR2888198][MR2888198-notes]]
+[[notes:MR1480081][MR1480081-notes]]
+[[notes:2014arXiv1404.6703M][2014arXiv1404.6703M-notes]]
 ***** Notes
 ***** Tasks
 ****** TODO Admin
@@ -1882,6 +1894,17 @@ Not sure where this comes from? Is it Hamilton? Is it from free boundary problem
 ******** NEXT Positive curvature
 ******** NEXT Graph over the equator
 ******** NEXT Gauss map
+******* TODO Position vector field
+	:LOGBOOK:
+	CLOCK: [2015-05-15 Fri 11:41]--[2015-05-15 Fri 11:43] =>  0:02
+	:END:
+******** DONE Compute conformality of position vector field
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2015-05-15 Fri 11:41]
+	 CLOCK: [2015-05-15 Fri 11:04]--[2015-05-15 Fri 11:41] =>  0:37
+	 CLOCK: [2015-05-15 Fri 10:41]--[2015-05-15 Fri 10:53] =>  0:12
+	 CLOCK: [2015-05-15 Fri 10:39]--[2015-05-15 Fri 10:40] =>  0:01
+	 :END:
 ******* TODO Support function
 ******** NEXT Make sure of precise definition
 	 :LOGBOOK:
@@ -1892,7 +1915,6 @@ Not sure where this comes from? Is it Hamilton? Is it from free boundary problem
 	 CLOCK: [2014-10-16 Thu 13:00]--[2014-10-16 Thu 13:30] =>  0:30
 	 CLOCK: [2014-10-16 Thu 09:30]--[2014-10-16 Thu 12:00] =>  2:30
 	 :END:
-******** NEXT Determine properties of vector field
 ******** NEXT Compute laplacian
 	 :LOGBOOK:
 	 CLOCK: [2015-01-17 Sat 10:30]--[2015-01-17 Sat 11:15] =>  0:45
@@ -1906,8 +1928,26 @@ Not sure where this comes from? Is it Hamilton? Is it from free boundary problem
 	 CLOCK: [2014-10-23 Thu 11:00]--[2014-10-23 Thu 12:25] =>  1:25
 	 :END:
 ******* TODO Harnack inequality
+******** NEXT Work out spherical mean curvature solitons 
+       	 :LOGBOOK:
+	 CLOCK: [2015-05-15 Fri 13:15]--[2015-05-15 Fri 14:09] =>  0:54
+       	 CLOCK: [2015-05-15 Fri 10:53]--[2015-05-15 Fri 11:04] =>  0:11
+       	 CLOCK: [2015-05-14 Thu 01:15]--[2015-05-14 Thu 02:09] =>  0:54
+       	 CLOCK: [2015-05-13 Wed 17:10]--[2015-05-13 Wed 20:26] =>  3:16
+       	 CLOCK: [2015-05-13 Wed 14:20]--[2015-05-13 Wed 16:33] =>  2:13
+       	 CLOCK: [2015-05-13 Wed 12:12]--[2015-05-13 Wed 14:18] =>  2:06
+       	 CLOCK: [2015-05-13 Wed 10:05]--[2015-05-13 Wed 10:50] =>  0:45
+       	 CLOCK: [2015-05-12 Tue 17:06]--[2015-05-12 Tue 17:33] =>  0:27
+       	 CLOCK: [2015-05-12 Tue 14:05]--[2015-05-12 Tue 14:23] =>  0:18
+       	 CLOCK: [2015-05-12 Tue 11:15]--[2015-05-12 Tue 11:55] =>  0:40
+       	 :END:
 ******* TODO Ambient convexity
 ******** TODO Convex cones
+********* DONE work out 2ff relative to ambient Euclidean space
+       	:LOGBOOK:
+       	- State "DONE"       from "NEXT"       [2015-05-12 Tue 11:24]
+       	CLOCK: [2015-05-12 Tue 08:34]--[2015-05-12 Tue 10:30] =>  1:56
+       	:END:
 ********* NEXT Convex in sphere iff cone is convex in Euclidean
 ********* NEXT Convex cone universal
 If $K = \tilde{K} \intersect \sphere^n$, then $\tilde{K} \subset $\text{cone} (K)$ where $\text{cone} (K)$ is the cone through $K$ with vertex the origin.
@@ -1947,11 +1987,24 @@ If $K = \tilde{K} \intersect \sphere^n$, then $\tilde{K} \subset $\text{cone} (K
 	  CLOCK: [2015-01-15 Thu 19:37]--[2015-01-15 Thu 20:22] =>  0:45
 	  CLOCK: [2015-01-15 Thu 18:59]--[2015-01-15 Thu 19:34] =>  0:35
 	  :END:
+********* NEXT Position Vector field
 ******** TODO Harnack inequality
 ******** TODO Connection with cones in ambient space
+********* NEXT Curvature of cone
+	  :LOGBOOK:
+	  CLOCK: [2015-05-15 Fri 11:43]--[2015-05-15 Fri 12:03] =>  0:20
+	  :END:
 ******** TODO Applications
 ********* NEXT Lies in a hemisphere
 ******* TODO Proof reading
+****** TODO Reading
+******* NEXT Read Gerhard's spherical flows
+******* NEXT Read spherical floating body
+       	:LOGBOOK:
+       	CLOCK: [2015-05-14 Thu 09:50]--[2015-05-14 Thu 11:02] =>  1:12
+       	CLOCK: [2015-05-08 Fri 10:56]--[2015-05-08 Fri 11:15] =>  0:19
+       	CLOCK: [2015-05-08 Fri 10:27]--[2015-05-08 Fri 10:56] =>  0:29
+       	:END:
 **** TODO CSF surfaces distance comparison :CSF:SURFACES:DIST_COMP:INPROGRESS:WRITING:
    :PROPERTIES:
    :ID:       85f583ed-c9eb-4993-91e3-8cedf9945d1f
@@ -1984,7 +2037,7 @@ If $K = \tilde{K} \intersect \sphere^n$, then $\tilde{K} \subset $\text{cone} (K
 ******** NEXT Write evolution of curvature/area 
 	 :LOGBOOK:
 	 CLOCK: [2015-02-17 Tue 15:05]--[2015-02-17 Tue 15:32] =>  0:27
-         :END:
+	 :END:
 ******* TODO Chord/arc profile
 ******** NEXT Write variations
 	 :LOGBOOK:
@@ -2077,6 +2130,10 @@ If $K = \tilde{K} \intersect \sphere^n$, then $\tilde{K} \subset $\text{cone} (K
 	 CLOCK: [2015-04-29 Wed 16:21]--[2015-04-29 Wed 17:16] =>  0:55
 	 :END:
 ***** Refs
+**** TODO High codimension MCF
+***** Refs
+[[notes:MR3289845][MR3289845-notes]]
+[[notes:2014arXiv1401.4154S][2014arXiv1401.4154S-notes]]
 *** Holding
 **** TODO Pipe Flows					  :PIPE_FLOW:WRITING:
    :PROPERTIES:
@@ -4583,38 +4640,6 @@ Schedule time for research, for teaching and for non-research academic work (e.g
    :PROPERTIES:
    :ID:       76fc2a4e-0bcf-40b4-aa91-f87c8962f648
    :END:
-*** Spherical convex geometry
-    SCHEDULED: <2015-05-11 Mon>
-**** Refs
-[[notes:MR2049442][MR2049442-notes]]
-[[notes:2014arXiv1411.7664B][2014arXiv1411.7664B-notes]]
-[[notes:2013arXiv1308.1607G][2013arXiv1308.1607G-notes]]
-**** TODO Reading
-***** NEXT Read Gerhard's spherical flows
-***** NEXT Read spherical floating body
-      :LOGBOOK:
-      CLOCK: [2015-05-14 Thu 09:50]--[2015-05-14 Thu 11:02] =>  1:12
-      CLOCK: [2015-05-08 Fri 10:56]--[2015-05-08 Fri 11:15] =>  0:19
-      CLOCK: [2015-05-08 Fri 10:27]--[2015-05-08 Fri 10:56] =>  0:29
-      :END:
-**** TODO Mathematics
-***** TODO Hypersurfaces in the sphere
-****** DONE work out 2ff relative to ambient Euclidean space
-       :LOGBOOK:
-       - State "DONE"       from "NEXT"       [2015-05-12 Tue 11:24]
-       CLOCK: [2015-05-12 Tue 08:34]--[2015-05-12 Tue 10:30] =>  1:56
-       :END:
-****** NEXT Work out spherical mean curvature solitons 
-       :LOGBOOK:
-       CLOCK: [2015-05-14 Thu 01:15]--[2015-05-14 Thu 02:09] =>  0:54
-       CLOCK: [2015-05-13 Wed 17:10]--[2015-05-13 Wed 20:26] =>  3:16
-       CLOCK: [2015-05-13 Wed 14:20]--[2015-05-13 Wed 16:33] =>  2:13
-       CLOCK: [2015-05-13 Wed 12:12]--[2015-05-13 Wed 14:18] =>  2:06
-       CLOCK: [2015-05-13 Wed 10:05]--[2015-05-13 Wed 10:50] =>  0:45
-       CLOCK: [2015-05-12 Tue 17:06]--[2015-05-12 Tue 17:33] =>  0:27
-       CLOCK: [2015-05-12 Tue 14:05]--[2015-05-12 Tue 14:23] =>  0:18
-       CLOCK: [2015-05-12 Tue 11:15]--[2015-05-12 Tue 11:55] =>  0:40
-       :END:
 *** Continuum Mechanics on Riemannian manifolds
     SCHEDULED: <2015-08-17 Mon>
 
