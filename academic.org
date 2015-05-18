@@ -7215,7 +7215,12 @@ http://www.chelsmore.com/rates/
       :LOGBOOK:
       - State "DONE"       from "NEXT"       [2015-01-23 Fri 21:36]
       :END:
-
+***** NEXT Prepare talk
+**** Schedule
+***** NEXT Vienna Talk
+      <2015-05-21 Thu 10:15-11:30>
+***** NEXT Flight to NYC
+<2015-05-22 Fri 10:45>
 * Personal Website
   :PROPERTIES:
   :ID:       05f896fc-0400-4ac3-bfef-5e3c5457fd02
