@@ -153,3 +153,11 @@ The $G$ functional from \cite{MR3066400}, gives a weighted volume. Is there a vi
   :END:
 [2015-05-15 Fri 10:40]
 - there is so much redundant in my publish.el files. All that really changes is the project directory! Write some elisp to handle this!
+* TODO Check out Ben Chow formulation and Kotschwar formulation
+  SCHEDULED: <2015-05-18 Mon>
+  :LOGBOOK:
+  CLOCK: [2015-05-18 Mon 15:08]--[2015-05-18 Mon 15:09] =>  0:01
+  :END:
+[2015-05-18 Mon 15:08]
+
+Space-time singularities of curvature flows
