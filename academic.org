@@ -7230,7 +7230,10 @@ http://www.chelsmore.com/rates/
       CLOCK: [2015-05-20 Wed 10:05]--[2015-05-20 Wed 13:25] =>  3:20
       :END:
 **** Schedule
-***** NEXT Vienna Talk
+***** DONE Vienna Talk
+      :LOGBOOK:
+      - State "DONE"       from "NEXT"       [2015-05-21 Thu 15:50]
+      :END:
       <2015-05-21 Thu 10:15-11:30>
 ***** NEXT Flight to NYC
 <2015-05-22 Fri 10:45>
