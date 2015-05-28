@@ -1808,6 +1808,13 @@ This proves the inequality we need.  The remaining problem is to remove the symm
 	 :END:
 ****** TODO Write paper
 ******* NEXT Create outline
+	:LOGBOOK:
+	CLOCK: [2015-05-26 Tue 14:28]--[2015-05-26 Tue 14:55] =>  0:27
+	:END:
+******* NEXT Solition equations
+	:LOGBOOK:
+	CLOCK: [2015-05-26 Tue 15:10]--[2015-05-26 Tue 16:40] =>  1:30
+	:END:
 ******* TODO Harnack
 ******* TODO Curvature goes to 0
 ******** NEXT $\int F(A) \to 0$
