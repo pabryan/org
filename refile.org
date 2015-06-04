@@ -5,8 +5,11 @@
   CLOCK: [2015-04-22 Wed 10:52]--[2015-04-22 Wed 11:13] =>  0:21
   :END:
 [2015-02-17 Tue 15:13]
-* TODO Call medibank
+* DONE Call medibank
   SCHEDULED: <2015-04-20 Mon>
+  :LOGBOOK:
+  - State "DONE"       from "TODO"       [2015-06-02 Tue 19:51]
+  :END:
 [2015-02-18 Wed 08:26]
 * TODO Organise kids schools in Warwick
   SCHEDULED: <2015-04-20 Mon>
@@ -38,7 +41,7 @@
   :END:
 [2015-02-19 Thu 20:42]
 * TODO Organise health insurance for August
-  SCHEDULED: <2015-04-20 Mon>
+  SCHEDULED: <2015-06-22 Mon>
 [2015-02-24 Tue 12:40]
 * TODO Make agenda blocks
   SCHEDULED: <2015-07-06 Mon>
@@ -129,8 +132,11 @@ http://chdoig.github.io/create-pelican-blog.html
     Sent to Scott.
   :END:
 [2015-05-12 Tue 08:32]
-* TODO Organise Melbourne visit
+* DONE Organise Melbourne visit
   SCHEDULED: <2015-05-25 Mon>
+  :LOGBOOK:
+  - State "DONE"       from "TODO"       [2015-06-02 Tue 18:19]
+  :END:
 [2015-05-13 Wed 12:08]
 * TODO Get GMT books
   SCHEDULED: <2015-09-01 Tue>
@@ -175,3 +181,18 @@ Also look up Ben Chow's book on Ricci flow. There he discusses solitions as fixe
 Solitons <-> minimal space-time sub-manifolds w.r.t. warped product
 
 In other words, \(\grad f\)-soliton, correspond to critical points in the warped product manifold of the volume functional. CMC-surfaces are then critical points with Lagrange multiplies, i.e. critical points of the volume plus a constant (the mean curvature) times the area. Do they correspond to any solution of MCF?
+* NEXT Check Mohammed's calculations
+  SCHEDULED: <2015-06-04 Thu>
+  :LOGBOOK:
+  CLOCK: [2015-06-02 Tue 19:55]--[2015-06-02 Tue 20:55] =>  1:00
+  :END:
+[2015-06-02 Tue 18:19]
+* TODO Compile Harnack/Ancient solutions paper
+  SCHEDULED: <2015-06-08 Mon>
+  :LOGBOOK:
+  CLOCK: [2015-06-02 Tue 18:19]--[2015-06-02 Tue 18:20] =>  0:01
+  :END:
+[2015-06-02 Tue 18:19]
+* TODO Incoporate Ben's work into CSF alpha flows
+  SCHEDULED: <2015-06-08 Mon>
+[2015-06-02 Tue 18:20]
