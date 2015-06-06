@@ -184,7 +184,7 @@ In other words, \(\grad f\)-soliton, correspond to critical points in the warped
 * NEXT Check Mohammed's calculations
   SCHEDULED: <2015-06-04 Thu>
   :LOGBOOK:
-  CLOCK: [2015-06-04 Thu 10:32]
+  CLOCK: [2015-06-04 Thu 10:32]--[2015-06-04 Thu 11:20] =>  0:48
   CLOCK: [2015-06-02 Tue 19:55]--[2015-06-02 Tue 20:55] =>  1:00
   :END:
 [2015-06-02 Tue 18:19]
@@ -197,3 +197,18 @@ In other words, \(\grad f\)-soliton, correspond to critical points in the warped
 * TODO Incoporate Ben's work into CSF alpha flows
   SCHEDULED: <2015-06-08 Mon>
 [2015-06-02 Tue 18:20]
+* TODO Follow up on mod. cont. for visc. eqn.'s
+  SCHEDULED: <2015-06-06 Sat>
+  :LOGBOOK:
+  CLOCK: [2015-06-05 Fri 21:50]--[2015-06-05 Fri 21:51] =>  0:01
+  :END:
+[2015-06-05 Fri 21:50]
+Regularity (i.e. gradient estimate) from modulus of continuity.
+* TODO Follow up on dist. comp on sphere
+  SCHEDULED: <2015-06-06 Sat>
+  :LOGBOOK:
+  CLOCK: [2015-06-05 Fri 21:55]--[2015-06-05 Fri 21:56] =>  0:01
+  :END:
+[2015-06-05 Fri 21:55]
+http://www.math.utah.edu/~treiberg/
+Check with Andrejs if he's interested in collaboration.
