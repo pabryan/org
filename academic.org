@@ -1823,7 +1823,10 @@ This proves the inequality we need.  The remaining problem is to remove the symm
 	 :END:
 ******** TODO Length of backwards flowing point is finite
 ******* TODO smooth backwards convergence to equator
-******* TODO Aleksandrov reflection
+******* NEXT Aleksandrov reflection
+	:LOGBOOK:
+	CLOCK: [2015-06-08 Mon 10:18]--[2015-06-08 Mon 12:59] =>  2:41
+	:END:
 ****** TODO Mathematics
 ******* TODO 2ff goes to zero
 ******** NEXT Show $\int F(A) \to 0$
