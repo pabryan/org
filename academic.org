@@ -1825,6 +1825,7 @@ This proves the inequality we need.  The remaining problem is to remove the symm
 ******* TODO smooth backwards convergence to equator
 ******* NEXT Aleksandrov reflection
 	:LOGBOOK:
+	CLOCK: [2015-06-08 Mon 19:23]--[2015-06-08 Mon 20:40] =>  1:17
 	CLOCK: [2015-06-08 Mon 10:18]--[2015-06-08 Mon 12:59] =>  2:41
 	:END:
 ****** TODO Mathematics
