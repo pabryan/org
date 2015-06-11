@@ -16510,6 +16510,633 @@ Lectures in calendar and tasks like planning lectures.
 
 **** Spring 2015
 **** Summer I 2015
+***** TODO MATH20E
+[[file:~/working/ucsd/teaching/2015/summer1/math20e_summer1_2015]]
+[[file:~/reference/ucsd/teaching/2015/summer1/math20e]]
+****** Notes
+****** Tasks
+******* DONE Plan course
+	:LOGBOOK:
+	- State "DONE"       from "TODO"       [2015-06-10 Wed 18:39]
+	- State "DONE"       from "TODO"       [2014-08-03 Sun 11:13]
+	CLOCK: [2014-06-18 Wed 09:34]--[2014-06-18 Wed 09:40] =>  0:06
+	:END:
+******** DONE Org structure
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2015-06-10 Wed 18:28]
+	 CLOCK: [2015-06-10 Wed 17:28]--[2015-06-10 Wed 17:43] =>  0:15
+	 CLOCK: [2015-06-10 Wed 16:46]--[2015-06-10 Wed 16:57] =>  0:11
+	 :END:
+	 :PROPERTIES:
+	 :Effort:   1:00
+	 :END:
+
+Lectures in calendar and tasks like planning lectures.
+
+******** DONE set up Ted for courses
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2015-06-10 Wed 18:39]
+	 CLOCK: [2015-06-10 Wed 18:35]--[2015-06-10 Wed 18:39] =>  0:04
+	 :END:
+	 :PROPERTIES:
+	 :Effort:   0:30
+	 :END:
+******* TODO Lectures
+******** NEXT Create Lecture Schedule
+	 :PROPERTIES:
+	 :Effort:   1:00
+	 :END:
+******** TODO Prepare Lectures
+********* TODO Week 1
+********** NEXT Prepare Lecture 1.1
+	   SCHEDULED: <2015-06-24 Wed>
+	   :PROPERTIES:
+	   :Effort:   1:00
+	   :END:
+********** NEXT Prepare Lecture 1.2
+	   DEADLINE: <2015-06-24 Wed>
+	   :PROPERTIES:
+	   :Effort:   1:00
+	   :END:
+
+********** NEXT Prepare Lecture 1.3
+	   DEADLINE: <2015-06-24 Wed>
+	   :PROPERTIES:
+	   :Effort:   1:00
+	   :END:
+********* TODO Week 2
+********** NEXT Prepare Lecture 2.1
+	   SCHEDULED: <2015-07-01 Wed>
+	   :PROPERTIES:
+	   :Effort:   1:00
+	   :END:
+********** NEXT Prepare Lecture 2.2
+	   DEADLINE: <2015-07-01 Wed>
+	   :PROPERTIES:
+	   :Effort:   1:00
+	   :END:
+
+********** NEXT Prepare Lecture 2.3
+	   DEADLINE: <2015-07-01 Wed>
+	   :PROPERTIES:
+	   :Effort:   1:00
+	   :END:
+********* TODO Week 3
+********** NEXT Prepare Lecture 3.1
+	   SCHEDULED: <2015-07-08 Wed>
+	   :PROPERTIES:
+	   :Effort:   1:00
+	   :END:
+********** NEXT Prepare Lecture 3.2
+	   DEADLINE: <2015-07-08 Wed>
+	   :PROPERTIES:
+	   :Effort:   1:00
+	   :END:
+
+********** NEXT Prepare Lecture 3.3
+	   DEADLINE: <2015-07-08 Wed>
+	   :PROPERTIES:
+	   :Effort:   1:00
+	   :END:
+********* TODO Week 4
+********** NEXT Prepare Lecture 4.1
+	   SCHEDULED: <2015-07-15 Wed>
+	   :PROPERTIES:
+	   :Effort:   1:00
+	   :END:
+********** NEXT Prepare Lecture 4.2
+	   DEADLINE: <2015-07-15 Wed>
+	   :PROPERTIES:
+	   :Effort:   1:00
+	   :END:
+
+********** NEXT Prepare Lecture 4.3
+	   DEADLINE: <2015-07-15 Wed>
+	   :PROPERTIES:
+	   :Effort:   1:00
+	   :END:
+********* TODO Week 5
+********** NEXT Prepare Lecture 5.1
+	   SCHEDULED: <2015-07-22 Wed>
+	   :PROPERTIES:
+	   :Effort:   1:00
+	   :END:
+********** NEXT Prepare Lecture 5.2
+	   DEADLINE: <2015-07-22 Wed>
+	   :PROPERTIES:
+	   :Effort:   1:00
+	   :END:
+
+********** NEXT Prepare Lecture 5.3
+	   DEADLINE: <2015-07-22 Wed>
+	   :PROPERTIES:
+	   :Effort:   1:00
+	   :END:
+******* TODO Exams
+******** TODO Midterm 1
+********* NEXT Write Midterm 1
+	  DEADLINE: <2015-07-06 Mon>
+	  :PROPERTIES:
+	  :Effort:   1:00
+	  :END:
+********* NEXT Get TA's comments
+	  SCHEDULED: <2015-07-10 Fri>
+	  :PROPERTIES:
+	  :Effort:   0:10
+	  :END:
+
+********* NEXT Submit midterm to printing/frdesk
+	  DEADLINE: <2015-07-13 Mon>
+	  :PROPERTIES:
+	  :Effort:   0:10
+	  :END:
+******** TODO Final
+********* NEXT Write Final
+	  DEADLINE: <2015-07-20 Mon>
+	  :PROPERTIES:
+	  :Effort:   1:30
+	  :END:
+********* NEXT Get TA's comments
+	  DEADLINE: <2015-07-24 Fri>
+	  :PROPERTIES:
+	  :Effort:   0:10
+	  :END:
+********* NEXT Submit to printing/frdesk
+	  DEADLINE: <2015-07-27 Mon>
+	  :PROPERTIES:
+	  :Effort:   0:10
+	  :END:
+******* TODO Homework
+******** NEXT Create homework projects
+	 DEADLINE: <2015-06-19 Fri>
+	 :PROPERTIES:
+	 :Effort:   1:00
+	 :END:
+******** NEXT Set sample homework problems
+	 DEADLINE: <2015-06-19 Fri>
+	 :PROPERTIES:
+	 :Effort:   1:00
+	 :END:
+******* TODO Website
+******** NEXT Make website
+	 DEADLINE: <2015-06-19 Fri>
+	 :PROPERTIES:
+	 :Effort:   0:30
+	 :END:
+******* TODO Grades
+******** NEXT Enter grades
+	 :PROPERTIES:
+	 :Effort:   1:00
+	 :END:
+******* TODO Piazza
+******** NEXT Create piazza discussion
+	 DEADLINE: <2015-06-19 Fri>
+****** Clocking
+******* Admin
+******* Office hours
+****** Schedule
+******* Lectures
+******** Location
+CENTR 214
+******** Mon
+********* Lecture 1.1
+	  :PROPERTIES:
+	  :Effort:   2:15
+	  :END:
+<2015-06-29 Mon 14:00-16:00>
+********* Lecture 2.1
+	  :PROPERTIES:
+	  :Effort:   2:15
+	  :END:
+<2015-07-06 Mon 14:00-16:00>
+********* Lecture 3.1
+	  :PROPERTIES:
+	  :Effort:   2:15
+	  :END:
+<2015-07-13 Mon 14:00-16:00>
+********* Lecture 4.1
+	  :PROPERTIES:
+	  :Effort:   2:15
+	  :END:
+<2015-07-20 Mon 14:00-16:00>
+********* Lecture 5.1
+	  :PROPERTIES:
+	  :Effort:   2:15
+	  :END:
+<2015-07-27 Mon 14:00-16:00>
+******** Tue
+********* Lecture 1.2
+	  :PROPERTIES:
+	  :Effort:   2:15
+	  :END:
+<2015-06-30 Tue 14:00-16:00>
+********* Lecture 2.2
+	  :PROPERTIES:
+	  :Effort:   2:15
+	  :END:
+<2015-07-07 Tue 14:00-16:00>
+********* Lecture 3.2
+	  :PROPERTIES:
+	  :Effort:   2:15
+	  :END:
+<2015-07-14 Tue 14:00-16:00>
+********* Lecture 4.2
+	  :PROPERTIES:
+	  :Effort:   2:15
+	  :END:
+<2015-07-21 Tue 14:00-16:00>
+********* Lecture 5.2
+	  :PROPERTIES:
+	  :Effort:   2:15
+	  :END:
+<2015-07-28 Tue 14:00-16:00>
+******** Wed
+********* Lecture 1.3
+	  :PROPERTIES:
+	  :Effort:   2:15
+	  :END:
+<2015-07-01 Wed 14:00-16:00>
+********* Lecture 2.3
+	  :PROPERTIES:
+	  :Effort:   2:15
+	  :END:
+<2015-07-08 Wed 14:00-16:00>
+********* Lecture 3.3
+	  :PROPERTIES:
+	  :Effort:   2:15
+	  :END:
+<2015-07-15 Wed 14:00-16:00>
+********* Lecture 4.3
+	  :PROPERTIES:
+	  :Effort:   2:15
+	  :END:
+<2015-07-22 Wed 14:00-16:00>
+********* Lecture 5.3
+	  :PROPERTIES:
+	  :Effort:   2:15
+	  :END:
+<2015-07-29 Wed 14:00-16:00>
+******* Exams
+******** Midterm 1
+******** Midterm 2
+******** Final
+	 <2014-08-01 Fri 08:00-11:00>
+******* Office hours
+******** O/H Week 1
+	 :PROPERTIES:
+	 :Effort:   3:00
+	 :END:
+<2015-06-29 Mon 16:30-18:00>
+<2015-06-30 Tue 16:30-18:00>
+<2015-07-01 Wed 16:30-18:00>
+******** O/H Week 2
+	 :PROPERTIES:
+	 :Effort:   3:00
+	 :END:
+<2015-07-06 Mon 16:30-18:00>
+<2015-07-07 Tue 16:30-18:00>
+<2015-07-08 Wed 16:30-18:00>
+******** O/H Week 3
+	 :PROPERTIES:
+	 :Effort:   3:00
+	 :END:
+<2015-07-13 Mon 16:30-18:00>
+<2015-07-14 Tue 16:30-18:00>
+<2015-07-15 Wed 16:30-18:00>
+******** O/H Week 4
+	 :PROPERTIES:
+	 :Effort:   3:00
+	 :END:
+<2015-07-20 Mon 16:30-18:00>
+<2015-07-21 Tue 16:30-18:00>
+<2015-07-22 Wed 16:30-18:00>
+******** O/H Week 5
+	 :PROPERTIES:
+	 :Effort:   3:00
+	 :END:
+<2015-07-27 Mon 16:30-18:00>
+<2015-07-28 Tue 16:30-18:00>
+<2015-07-29 Wed 16:30-18:00>
+***** TODO MATH20D
+[[file:~/working/ucsd/teaching/2015/summer1/math20d_summer1_2015]]
+[[file:~/reference/ucsd/teaching/2015/summer1/math20d]]
+****** Notes
+****** Tasks
+******* DONE Plan course
+	:LOGBOOK:
+	- State "DONE"       from "TODO"       [2015-06-10 Wed 18:39]
+	- State "DONE"       from "TODO"       [2014-08-03 Sun 11:13]
+	CLOCK: [2014-06-18 Wed 09:34]--[2014-06-18 Wed 09:40] =>  0:06
+	:END:
+******** DONE Org structure
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2015-06-10 Wed 18:30]
+	 CLOCK: [2015-06-10 Wed 18:21]--[2015-06-10 Wed 18:30] =>  0:09
+	 :END:
+	 :PROPERTIES:
+	 :Effort:   1:00
+	 :END:
+
+Lectures in calendar and tasks like planning lectures.
+
+******** DONE set up Ted for courses
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2015-06-10 Wed 18:38]
+	 CLOCK: [2015-06-10 Wed 18:30]--[2015-06-10 Wed 18:35] =>  0:05
+	 :END:
+	 :PROPERTIES:
+	 :Effort:   0:30
+	 :END:
+******* TODO Lectures
+******** DONE Create Lecture Schedule
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2015-06-10 Wed 19:37]
+	 CLOCK: [2015-06-10 Wed 18:43]--[2015-06-10 Wed 19:37] =>  0:54
+	 :END:
+	 :PROPERTIES:
+	 :Effort:   1:00
+	 :END:
+******** TODO Prepare Lectures
+********* TODO Week 1
+********** NEXT Prepare Lecture 1.1
+	   SCHEDULED: <2015-06-24 Wed>
+	   :PROPERTIES:
+	   :Effort:   1:00
+	   :END:
+********** NEXT Prepare Lecture 1.2
+	   DEADLINE: <2015-06-24 Wed>
+	   :PROPERTIES:
+	   :Effort:   1:00
+	   :END:
+
+********** NEXT Prepare Lecture 1.3
+	   DEADLINE: <2015-06-24 Wed>
+	   :PROPERTIES:
+	   :Effort:   1:00
+	   :END:
+********* TODO Week 2
+********** NEXT Prepare Lecture 2.1
+	   SCHEDULED: <2015-07-01 Wed>
+	   :PROPERTIES:
+	   :Effort:   1:00
+	   :END:
+********** NEXT Prepare Lecture 2.2
+	   DEADLINE: <2015-07-01 Wed>
+	   :PROPERTIES:
+	   :Effort:   1:00
+	   :END:
+
+********** NEXT Prepare Lecture 2.3
+	   DEADLINE: <2015-07-01 Wed>
+	   :PROPERTIES:
+	   :Effort:   1:00
+	   :END:
+********* TODO Week 3
+********** NEXT Prepare Lecture 3.1
+	   SCHEDULED: <2015-07-08 Wed>
+	   :PROPERTIES:
+	   :Effort:   1:00
+	   :END:
+********** NEXT Prepare Lecture 3.2
+	   DEADLINE: <2015-07-08 Wed>
+	   :PROPERTIES:
+	   :Effort:   1:00
+	   :END:
+
+********** NEXT Prepare Lecture 3.3
+	   DEADLINE: <2015-07-08 Wed>
+	   :PROPERTIES:
+	   :Effort:   1:00
+	   :END:
+********* TODO Week 4
+********** NEXT Prepare Lecture 4.1
+	   SCHEDULED: <2015-07-15 Wed>
+	   :PROPERTIES:
+	   :Effort:   1:00
+	   :END:
+********** NEXT Prepare Lecture 4.2
+	   DEADLINE: <2015-07-15 Wed>
+	   :PROPERTIES:
+	   :Effort:   1:00
+	   :END:
+
+********** NEXT Prepare Lecture 4.3
+	   DEADLINE: <2015-07-15 Wed>
+	   :PROPERTIES:
+	   :Effort:   1:00
+	   :END:
+********* TODO Week 5
+********** NEXT Prepare Lecture 5.1
+	   SCHEDULED: <2015-07-22 Wed>
+	   :PROPERTIES:
+	   :Effort:   1:00
+	   :END:
+********** NEXT Prepare Lecture 5.2
+	   DEADLINE: <2015-07-22 Wed>
+	   :PROPERTIES:
+	   :Effort:   1:00
+	   :END:
+
+********** NEXT Prepare Lecture 5.3
+	   DEADLINE: <2015-07-22 Wed>
+	   :PROPERTIES:
+	   :Effort:   1:00
+	   :END:
+******* TODO Exams
+******** TODO Midterm 1
+********* NEXT Write Midterm 1
+	  DEADLINE: <2015-07-06 Mon>
+	  :PROPERTIES:
+	  :Effort:   1:00
+	  :END:
+********* NEXT Get TA's comments
+	  SCHEDULED: <2015-07-10 Fri>
+	  :PROPERTIES:
+	  :Effort:   0:10
+	  :END:
+
+********* NEXT Submit midterm to printing/frdesk
+	  DEADLINE: <2015-07-13 Mon>
+	  :PROPERTIES:
+	  :Effort:   0:10
+	  :END:
+******** TODO Final
+********* NEXT Write Final
+	  DEADLINE: <2015-07-20 Mon>
+	  :PROPERTIES:
+	  :Effort:   1:30
+	  :END:
+********* NEXT Get TA's comments
+	  DEADLINE: <2015-07-24 Fri>
+	  :PROPERTIES:
+	  :Effort:   0:10
+	  :END:
+********* NEXT Submit to printing/frdesk
+	  DEADLINE: <2015-07-27 Mon>
+	  :PROPERTIES:
+	  :Effort:   0:10
+	  :END:
+******* TODO Homework
+******** NEXT Setup WileyPlus
+	 DEADLINE: <2015-06-19 Fri>
+	 :PROPERTIES:
+	 :Effort:   1:30
+	 :END:
+******** NEXT Setup Webwork
+	 DEADLINE: <2015-06-19 Fri>
+	 :PROPERTIES:
+	 :Effort:   1:30
+	 :END:
+******** NEXT Create homework projects
+	 DEADLINE: <2015-06-19 Fri>
+	 :PROPERTIES:
+	 :Effort:   3:00
+	 :END:
+******** NEXT Set sample homework problems
+	 DEADLINE: <2015-06-19 Fri>
+	 :PROPERTIES:
+	 :Effort:   1:00
+	 :END:
+******* TODO Website
+******** NEXT Make website
+	 DEADLINE: <2015-06-19 Fri>
+	 :PROPERTIES:
+	 :Effort:   0:30
+	 :END:
+******* TODO Grades
+******** NEXT Enter grades
+	 :PROPERTIES:
+	 :Effort:   1:00
+	 :END:
+******* TODO Piazza
+******** NEXT Create piazza discussion
+	 DEADLINE: <2015-06-19 Fri>
+****** Clocking
+******* Admin
+******* Office hours
+****** Schedule
+******* Lectures
+******** Location
+WLH 2005
+******** Mon
+********* Lecture 1.1
+	  :PROPERTIES:
+	  :Effort:   2:15
+	  :END:
+<2015-06-29 Mon 10:00-12:00>
+********* Lecture 2.1
+	  :PROPERTIES:
+	  :Effort:   2:15
+	  :END:
+<2015-07-06 Mon 10:00-12:00>
+********* Lecture 3.1
+	  :PROPERTIES:
+	  :Effort:   2:15
+	  :END:
+<2015-07-13 Mon 10:00-12:00>
+********* Lecture 4.1
+	  :PROPERTIES:
+	  :Effort:   2:15
+	  :END:
+<2015-07-20 Mon 10:00-12:00>
+********* Lecture 5.1
+	  :PROPERTIES:
+	  :Effort:   2:15
+	  :END:
+<2015-07-27 Mon 10:00-12:00>
+******** Tue
+********* Lecture 1.2
+	  :PROPERTIES:
+	  :Effort:   2:15
+	  :END:
+<2015-06-30 Tue 10:00-12:00>
+********* Lecture 2.2
+	  :PROPERTIES:
+	  :Effort:   2:15
+	  :END:
+<2015-07-07 Tue 10:00-12:00>
+********* Lecture 3.2
+	  :PROPERTIES:
+	  :Effort:   2:15
+	  :END:
+<2015-07-14 Tue 10:00-12:00>
+********* Lecture 4.2
+	  :PROPERTIES:
+	  :Effort:   2:15
+	  :END:
+<2015-07-21 Tue 10:00-12:00>
+********* Lecture 5.2
+	  :PROPERTIES:
+	  :Effort:   2:15
+	  :END:
+<2015-07-28 Tue 10:00-12:00>
+******** Wed
+********* Lecture 1.3
+	  :PROPERTIES:
+	  :Effort:   2:15
+	  :END:
+<2015-07-01 Wed 10:00-12:00>
+********* Lecture 2.3
+	  :PROPERTIES:
+	  :Effort:   2:15
+	  :END:
+<2015-07-08 Wed 10:00-12:00>
+********* Lecture 3.3
+	  :PROPERTIES:
+	  :Effort:   2:15
+	  :END:
+<2015-07-15 Wed 10:00-12:00>
+********* Lecture 4.3
+	  :PROPERTIES:
+	  :Effort:   2:15
+	  :END:
+<2015-07-22 Wed 10:00-12:00>
+********* Lecture 5.3
+	  :PROPERTIES:
+	  :Effort:   2:15
+	  :END:
+<2015-07-29 Wed 10:00-12:00>
+******* Exams
+******** Midterm 1
+******** Midterm 2
+******** Final
+******* Office hours
+******** O/H Week 1
+	 :PROPERTIES:
+	 :Effort:   3:00
+	 :END:
+<2015-06-29 Mon 16:30-18:00>
+<2015-06-30 Tue 16:30-18:00>
+<2015-07-01 Wed 16:30-18:00>
+******** O/H Week 2
+	 :PROPERTIES:
+	 :Effort:   3:00
+	 :END:
+<2015-07-06 Mon 16:30-18:00>
+<2015-07-07 Tue 16:30-18:00>
+<2015-07-08 Wed 16:30-18:00>
+******** O/H Week 3
+	 :PROPERTIES:
+	 :Effort:   3:00
+	 :END:
+<2015-07-13 Mon 16:30-18:00>
+<2015-07-14 Tue 16:30-18:00>
+<2015-07-15 Wed 16:30-18:00>
+******** O/H Week 4
+	 :PROPERTIES:
+	 :Effort:   3:00
+	 :END:
+<2015-07-20 Mon 16:30-18:00>
+<2015-07-21 Tue 16:30-18:00>
+<2015-07-22 Wed 16:30-18:00>
+******** O/H Week 5
+	 :PROPERTIES:
+	 :Effort:   3:00
+	 :END:
+<2015-07-27 Mon 16:30-18:00>
+<2015-07-28 Tue 16:30-18:00>
+<2015-07-29 Wed 16:30-18:00>
+
 ** Clocking
 *** Teaching Pondering
     :LOGBOOK:
