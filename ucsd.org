@@ -13959,7 +13959,7 @@ Lectures in calendar and tasks like planning lectures.
 	 :PROPERTIES:
 	 :Effort:   1:00
 	 :END:
-**** Winter 2015						      :FOCUS:
+**** Winter 2015
 ***** DONE Math20B						    :MATH20B:
       :LOGBOOK:
       - State "DONE"       from "TODO"       [2015-03-27 Fri 08:59]
@@ -16509,7 +16509,7 @@ Lectures in calendar and tasks like planning lectures.
        :END:
 
 **** Spring 2015
-**** Summer I 2015
+**** Summer I 2015						      :FOCUS:
 ***** TODO MATH20E
 [[file:~/working/ucsd/teaching/2015/summer1/math20e_summer1_2015]]
 [[file:~/reference/ucsd/teaching/2015/summer1/math20e]]
@@ -16542,7 +16542,11 @@ Lectures in calendar and tasks like planning lectures.
 	 :Effort:   0:30
 	 :END:
 ******* TODO Lectures
-******** NEXT Create Lecture Schedule
+******** DONE Create Lecture Schedule
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2015-06-11 Thu 17:11]
+	 CLOCK: [2015-06-11 Thu 16:37]--[2015-06-11 Thu 17:11] =>  0:34
+	 :END:
 	 :PROPERTIES:
 	 :Effort:   1:00
 	 :END:
@@ -16678,8 +16682,16 @@ Lectures in calendar and tasks like planning lectures.
 	 :Effort:   1:00
 	 :END:
 ******* TODO Website
-******** NEXT Make website
+	:LOGBOOK:
+	CLOCK: [2015-06-11 Thu 16:25]--[2015-06-11 Thu 16:26] =>  0:01
+	:END:
+******** DONE Make website
 	 DEADLINE: <2015-06-19 Fri>
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2015-06-11 Thu 16:25]
+	 CLOCK: [2015-06-11 Thu 16:09]--[2015-06-11 Thu 16:25] =>  0:16
+	 CLOCK: [2015-06-11 Thu 12:24]--[2015-06-11 Thu 12:41] =>  0:17
+	 :END:
 	 :PROPERTIES:
 	 :Effort:   0:30
 	 :END:
@@ -16998,8 +17010,13 @@ Lectures in calendar and tasks like planning lectures.
 	 :Effort:   1:00
 	 :END:
 ******* TODO Website
-******** NEXT Make website
+******** DONE Make website
 	 DEADLINE: <2015-06-19 Fri>
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2015-06-11 Thu 12:06]
+	 CLOCK: [2015-06-11 Thu 11:34]--[2015-06-11 Thu 12:06] =>  0:32
+	 CLOCK: [2015-06-11 Thu 10:36]--[2015-06-11 Thu 11:20] =>  0:44
+	 :END:
 	 :PROPERTIES:
 	 :Effort:   0:30
 	 :END:
