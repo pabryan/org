@@ -2156,7 +2156,7 @@ If $K = \tilde{K} \intersect \sphere^n$, then $\tilde{K} \subset $\text{cone} (K
 [[notes:MR3289845][MR3289845-notes]]
 [[notes:2014arXiv1401.4154S][2014arXiv1401.4154S-notes]]
 **** TODO Conformal MCF Solitons
-
+[[file:~/working/academic/research/conformal_mcf_solitons]]
 ***** Refs
 ***** Tasks
 ****** TODO Writing
@@ -2167,6 +2167,19 @@ If $K = \tilde{K} \intersect \sphere^n$, then $\tilde{K} \subset $\text{cone} (K
 	 CLOCK: [2015-06-13 Sat 10:46]--[2015-06-13 Sat 11:44] =>  0:58
 	 :END:
 ******** NEXT Change of submanifold geometry
+******* TODO Conformal Solitons
+******** DONE Write soliton defn
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2015-06-15 Mon 18:56]
+	 CLOCK: [2015-06-15 Mon 16:47]--[2015-06-15 Mon 18:22] =>  1:35
+	 :END:
+******** TODO Make soliton defn more concise
+******** NEXT Write conformal soliton equations
+	 :LOGBOOK:
+	 CLOCK: [2015-06-15 Mon 18:56]--[2015-06-15 Mon 20:15] =>  1:19
+	 :END:
+****** TODO Maths
+
 ***** Notes
 *** Holding
 **** TODO Pipe Flows					  :PIPE_FLOW:WRITING:
