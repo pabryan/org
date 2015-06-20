@@ -16670,19 +16670,31 @@ Lectures in calendar and tasks like planning lectures.
 	  :PROPERTIES:
 	  :Effort:   0:10
 	  :END:
-******* TODO Homework
-******** NEXT Create homework projects
-	 DEADLINE: <2015-06-19 Fri>
-	 :PROPERTIES:
-	 :Effort:   1:00
-	 :END:
-******** NEXT Set sample homework problems
-	 DEADLINE: <2015-06-19 Fri>
-	 :PROPERTIES:
-	 :Effort:   1:00
-	 :END:
-******* TODO Website
+******* DONE Homework
 	:LOGBOOK:
+	- State "DONE"       from "TODO"       [2015-06-18 Thu 12:30]
+	CLOCK: [2015-06-18 Thu 12:30]--[2015-06-18 Thu 12:32] =>  0:02
+	:END:
+******** DONE Create homework projects
+	 DEADLINE: <2015-06-19 Fri>
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2015-06-18 Thu 12:30]
+	 CLOCK: [2015-06-18 Thu 12:16]--[2015-06-18 Thu 12:30] =>  0:14
+	 :END:
+	 :PROPERTIES:
+	 :Effort:   1:00
+	 :END:
+******** DONE Set sample homework problems
+	 DEADLINE: <2015-06-19 Fri>
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2015-06-18 Thu 11:12]
+	 :END:
+	 :PROPERTIES:
+	 :Effort:   1:00
+	 :END:
+******* DONE Website
+	:LOGBOOK:
+	- State "DONE"       from "TODO"       [2015-06-18 Thu 12:30]
 	CLOCK: [2015-06-11 Thu 16:25]--[2015-06-11 Thu 16:26] =>  0:01
 	:END:
 ******** DONE Make website
@@ -16700,9 +16712,17 @@ Lectures in calendar and tasks like planning lectures.
 	 :PROPERTIES:
 	 :Effort:   1:00
 	 :END:
-******* TODO Piazza
-******** NEXT Create piazza discussion
+******* DONE Piazza
+	:LOGBOOK:
+	- State "DONE"       from "TODO"       [2015-06-18 Thu 12:30]
+	CLOCK: [2015-06-18 Thu 11:56]--[2015-06-18 Thu 12:14] =>  0:18
+	:END:
+******** DONE Create piazza discussion
 	 DEADLINE: <2015-06-19 Fri>
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2015-06-18 Thu 11:56]
+	 CLOCK: [2015-06-18 Thu 11:48]--[2015-06-18 Thu 11:56] =>  0:08
+	 :END:
 ****** Clocking
 ******* Admin
 ******* Office hours
@@ -16989,27 +17009,46 @@ Lectures in calendar and tasks like planning lectures.
 	  :Effort:   0:10
 	  :END:
 ******* TODO Homework
-******** NEXT Setup WileyPlus
+******** CANCELLED Setup WileyPlus
 	 DEADLINE: <2015-06-19 Fri>
+	 :LOGBOOK:
+	 - State "CANCELLED"  from "NEXT"       [2015-06-19 Fri 19:36] \\
+	   I'll just Webwork instead.
+	 :END:
 	 :PROPERTIES:
 	 :Effort:   1:30
 	 :END:
 ******** NEXT Setup Webwork
 	 DEADLINE: <2015-06-19 Fri>
-	 :PROPERTIES:
-	 :Effort:   1:30
+	 :LOGBOOK:
+	 CLOCK: [2015-06-19 Fri 21:40]--[2015-06-19 Fri 23:04] =>  1:24
+	 CLOCK: [2015-06-19 Fri 19:36]--[2015-06-19 Fri 21:01] =>  1:25
 	 :END:
+	 :PROPERTIES:
+	 :Effort:   4:00
+	 :END:
+http://webwork.maa.org/wiki/ModelCourses/Ordinary_Differential_Equations
+
 ******** NEXT Create homework projects
 	 DEADLINE: <2015-06-19 Fri>
+	 :LOGBOOK:
+	 CLOCK: [2015-06-18 Thu 12:32]--[2015-06-18 Thu 12:50] =>  0:18
+	 :END:
 	 :PROPERTIES:
 	 :Effort:   3:00
 	 :END:
-******** NEXT Set sample homework problems
+******** DONE Set sample homework problems
 	 DEADLINE: <2015-06-19 Fri>
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2015-06-18 Thu 11:12]
+	 :END:
 	 :PROPERTIES:
 	 :Effort:   1:00
 	 :END:
-******* TODO Website
+******* DONE Website
+	:LOGBOOK:
+	- State "DONE"       from "TODO"       [2015-06-18 Thu 12:31]
+	:END:
 ******** DONE Make website
 	 DEADLINE: <2015-06-19 Fri>
 	 :LOGBOOK:
@@ -17025,9 +17064,16 @@ Lectures in calendar and tasks like planning lectures.
 	 :PROPERTIES:
 	 :Effort:   1:00
 	 :END:
-******* TODO Piazza
-******** NEXT Create piazza discussion
+******* DONE Piazza
+	:LOGBOOK:
+	- State "DONE"       from "TODO"       [2015-06-18 Thu 12:31]
+	:END:
+******** DONE Create piazza discussion
 	 DEADLINE: <2015-06-19 Fri>
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2015-06-18 Thu 11:48]
+	 CLOCK: [2015-06-18 Thu 11:17]--[2015-06-18 Thu 11:48] =>  0:31
+	 :END:
 ****** Clocking
 ******* Admin
 ******* Office hours
