@@ -12,7 +12,7 @@
   :END:
 [2015-02-18 Wed 08:26]
 * TODO Organise kids schools in Warwick
-  SCHEDULED: <2015-04-20 Mon>
+  SCHEDULED: <2015-07-06 Mon>
   :LOGBOOK:
   CLOCK: [2015-02-18 Wed 08:26]--[2015-02-18 Wed 08:27] =>  0:01
   :END:
@@ -70,10 +70,10 @@
   :END:
 [2015-03-17 Tue 10:46]
 * TODO Organise german visas
-  SCHEDULED: <2015-05-25 Mon>
+  SCHEDULED: <2015-07-06 Mon>
 [2015-03-18 Wed 11:16]
 * TODO Organise warwick job
-  SCHEDULED: <2015-05-25 Mon>
+  SCHEDULED: <2015-07-06 Mon>
 [2015-03-18 Wed 11:16]
 * TODO Redesign website
   SCHEDULED: <2015-07-06 Mon>
@@ -81,28 +81,11 @@
 Use pelican and bootstrap.
 
 http://chdoig.github.io/create-pelican-blog.html
-* CANCELLED Call NSW electoral people
-  SCHEDULED: <2015-03-30 Mon>
-  :LOGBOOK:
-  - State "CANCELLED"  from "TODO"       [2015-03-31 Tue 18:04] \\
-    Missed the deadline.
-  CLOCK: [2015-03-27 Fri 09:23]--[2015-03-27 Fri 09:24] =>  0:01
-  :END:
-[2015-03-27 Fri 09:23]
-+61 2 9290 5287
-2pm onwards
-* DONE Pick up car
-  SCHEDULED: <2015-04-03 Fri 14:00>
-  :LOGBOOK:
-  - State "DONE"       from "TODO"       [2015-04-03 Fri 20:23]
-  CLOCK: [2015-03-28 Sat 13:37]--[2015-03-28 Sat 13:38] =>  0:01
-  :END:
-[2015-03-28 Sat 13:37]
 * TODO Look into mod. cont. for visc. eqn's
   SCHEDULED: <2015-07-06 Mon>
 [2015-03-29 Sun 12:19]
 * TODO Extend driver's license
-  SCHEDULED: <2015-05-25 Mon>
+  SCHEDULED: <2015-07-06 Mon>
 [2015-04-23 Thu 18:38]
 * TODO Cancel accounts
   SCHEDULED: <2015-07-01 Wed>
@@ -119,25 +102,6 @@ http://chdoig.github.io/create-pelican-blog.html
 - Insurance
 * TODO Check Bayle PhD ref in refs.org
 [2015-04-30 Thu 15:21]
-* TODO Organise Teaching
-  SCHEDULED: <2015-06-01 Mon>
-  :LOGBOOK:
-  CLOCK: [2015-05-12 Tue 08:31]--[2015-05-12 Tue 08:32] =>  0:01
-  :END:
-[2015-05-12 Tue 08:31]
-* WAITING Reschedule first day of teaching
-  SCHEDULED: <2015-05-12 Tue>
-  :LOGBOOK:
-  - State "WAITING"    from "TODO"       [2015-06-01 Mon 15:28] \\
-    Sent to Scott.
-  :END:
-[2015-05-12 Tue 08:32]
-* DONE Organise Melbourne visit
-  SCHEDULED: <2015-05-25 Mon>
-  :LOGBOOK:
-  - State "DONE"       from "TODO"       [2015-06-02 Tue 18:19]
-  :END:
-[2015-05-13 Wed 12:08]
 * TODO Get GMT books
   SCHEDULED: <2015-09-01 Tue>
 [2015-05-13 Wed 23:11]
@@ -182,30 +146,30 @@ Solitons <-> minimal space-time sub-manifolds w.r.t. warped product
 
 In other words, \(\grad f\)-soliton, correspond to critical points in the warped product manifold of the volume functional. CMC-surfaces are then critical points with Lagrange multiplies, i.e. critical points of the volume plus a constant (the mean curvature) times the area. Do they correspond to any solution of MCF?
 * NEXT Check Mohammed's calculations
-  SCHEDULED: <2015-06-04 Thu>
+  SCHEDULED: <2015-07-06 Mon>
   :LOGBOOK:
   CLOCK: [2015-06-04 Thu 10:32]--[2015-06-04 Thu 11:20] =>  0:48
   CLOCK: [2015-06-02 Tue 19:55]--[2015-06-02 Tue 20:55] =>  1:00
   :END:
 [2015-06-02 Tue 18:19]
 * TODO Compile Harnack/Ancient solutions paper
-  SCHEDULED: <2015-06-08 Mon>
+  SCHEDULED: <2015-07-06 Mon>
   :LOGBOOK:
   CLOCK: [2015-06-02 Tue 18:19]--[2015-06-02 Tue 18:20] =>  0:01
   :END:
 [2015-06-02 Tue 18:19]
 * TODO Incoporate Ben's work into CSF alpha flows
-  SCHEDULED: <2015-06-08 Mon>
+  SCHEDULED: <2015-07-06 Mon>
 [2015-06-02 Tue 18:20]
 * TODO Follow up on mod. cont. for visc. eqn.'s
-  SCHEDULED: <2015-06-06 Sat>
+  SCHEDULED: <2015-07-06 Mon>
   :LOGBOOK:
   CLOCK: [2015-06-05 Fri 21:50]--[2015-06-05 Fri 21:51] =>  0:01
   :END:
 [2015-06-05 Fri 21:50]
 Regularity (i.e. gradient estimate) from modulus of continuity.
 * TODO Follow up on dist. comp on sphere
-  SCHEDULED: <2015-06-06 Sat>
+  SCHEDULED: <2015-07-06 Mon>
   :LOGBOOK:
   CLOCK: [2015-06-05 Fri 21:55]--[2015-06-05 Fri 21:56] =>  0:01
   :END:

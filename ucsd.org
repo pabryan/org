@@ -17018,9 +17018,11 @@ Lectures in calendar and tasks like planning lectures.
 	 :PROPERTIES:
 	 :Effort:   1:30
 	 :END:
-******** NEXT Setup Webwork
+******** DONE Setup Webwork
 	 DEADLINE: <2015-06-19 Fri>
 	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2015-06-20 Sat 12:04]
+	 CLOCK: [2015-06-20 Sat 10:45]--[2015-06-20 Sat 12:04] =>  1:19
 	 CLOCK: [2015-06-19 Fri 21:40]--[2015-06-19 Fri 23:04] =>  1:24
 	 CLOCK: [2015-06-19 Fri 19:36]--[2015-06-19 Fri 21:01] =>  1:25
 	 :END:
@@ -17032,6 +17034,9 @@ http://webwork.maa.org/wiki/ModelCourses/Ordinary_Differential_Equations
 ******** NEXT Create homework projects
 	 DEADLINE: <2015-06-19 Fri>
 	 :LOGBOOK:
+	 CLOCK: [2015-06-21 Sun 21:50]--[2015-06-22 Mon 00:04] =>  2:14
+	 CLOCK: [2015-06-21 Sun 20:00]--[2015-06-21 Sun 21:23] =>  1:23
+	 CLOCK: [2015-06-21 Sun 11:30]--[2015-06-21 Sun 12:58] =>  1:28
 	 CLOCK: [2015-06-18 Thu 12:32]--[2015-06-18 Thu 12:50] =>  0:18
 	 :END:
 	 :PROPERTIES:
