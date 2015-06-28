@@ -5,43 +5,14 @@
   CLOCK: [2015-04-22 Wed 10:52]--[2015-04-22 Wed 11:13] =>  0:21
   :END:
 [2015-02-17 Tue 15:13]
-* DONE Call medibank
-  SCHEDULED: <2015-04-20 Mon>
-  :LOGBOOK:
-  - State "DONE"       from "TODO"       [2015-06-02 Tue 19:51]
-  :END:
-[2015-02-18 Wed 08:26]
 * TODO Organise kids schools in Warwick
   SCHEDULED: <2015-07-06 Mon>
   :LOGBOOK:
   CLOCK: [2015-02-18 Wed 08:26]--[2015-02-18 Wed 08:27] =>  0:01
   :END:
 [2015-02-18 Wed 08:26]
-* DONE Meet Nolan
-<2015-03-02 Mon 15:00-16:00>
-  :LOGBOOK:
-  CLOCK: [2015-03-02 Mon 15:01]--[2015-03-02 Mon 16:06] =>  1:05
-  - State "DONE"       from "NEXT"       [2015-02-18 Wed 16:55]
-  CLOCK: [2015-02-18 Wed 15:01]--[2015-02-18 Wed 16:03] =>  1:02
-  :END:
-[2015-02-18 Wed 12:48]
-<2015-02-18 Wed 15:00-16:00>
-* TODO Contact Christina Sormani
-  SCHEDULED: <2015-04-20 Mon>
-  :LOGBOOK:
-  CLOCK: [2015-02-19 Thu 20:40]--[2015-02-19 Thu 20:42] =>  0:02
-  :END:
-[2015-02-19 Thu 20:40]
-- tell her when we're coming
-- will she go to Hedwig and the angry inch
-* DONE Re-book NYC flights
-  SCHEDULED: <2015-02-19 Thu>
-  :LOGBOOK:
-  - State "DONE"       from "TODO"       [2015-02-22 Sun 20:58]
-  :END:
-[2015-02-19 Thu 20:42]
 * TODO Organise health insurance for August
-  SCHEDULED: <2015-06-22 Mon>
+  SCHEDULED: <2015-07-02 Thu>
 [2015-02-24 Tue 12:40]
 * TODO Make agenda blocks
   SCHEDULED: <2015-07-06 Mon>
@@ -57,12 +28,6 @@
   :END:
 [2015-03-02 Mon 08:17]
 [[file:~/org/refile.org::*Meet%20Nolan][Meet Nolan]]
-* DONE Buy school dance tix
-  DEADLINE: <2015-03-05 Thu>
-  :LOGBOOK:
-  - State "DONE"       from "TODO"       [2015-03-05 Thu 19:35]
-  :END:
-[2015-03-05 Thu 08:13]
 * TODO Cancel car insurance
   SCHEDULED: <2015-07-01 Wed>
   :LOGBOOK:
