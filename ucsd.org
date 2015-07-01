@@ -16583,7 +16583,7 @@ Lectures in calendar and tasks like planning lectures.
 	   :END:
 ********* TODO Week 2
 ********** NEXT Prepare Lecture 2.1
-	   SCHEDULED: <2015-07-01 Wed>
+	   DEADLINE: <2015-07-01 Wed>
 	   :PROPERTIES:
 	   :Effort:   1:00
 	   :END:
@@ -16771,6 +16771,10 @@ CENTR 214
 <2015-07-27 Mon 14:00-16:00>
 ******** Tue
 ********* Lecture 1.2
+	  :LOGBOOK:
+	  CLOCK: [2015-06-30 Tue 13:45]--[2015-06-30 Tue 16:20] =>  2:35
+	  :END:
+
 	  :PROPERTIES:
 	  :Effort:   2:15
 	  :END:
@@ -16930,7 +16934,7 @@ Lectures in calendar and tasks like planning lectures.
 	   :END:
 ********* TODO Week 2
 ********** NEXT Prepare Lecture 2.1
-	   SCHEDULED: <2015-07-01 Wed>
+	   DEADLINE: <2015-07-01 Wed>
 	   :PROPERTIES:
 	   :Effort:   1:00
 	   :END:
@@ -17136,6 +17140,9 @@ WLH 2005
 <2015-07-27 Mon 10:00-12:00>
 ******** Tue
 ********* Lecture 1.2
+	  :LOGBOOK:
+	  CLOCK: [2015-06-30 Tue 09:45]--[2015-06-30 Tue 12:10] =>  2:25
+	  :END:
 	  :PROPERTIES:
 	  :Effort:   2:15
 	  :END:
