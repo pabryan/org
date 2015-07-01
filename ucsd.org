@@ -16804,6 +16804,7 @@ CENTR 214
 	  :PROPERTIES:
 	  :Effort:   2:15
 	  :END:
+
 <2015-07-01 Wed 14:00-16:00>
 ********* Lecture 2.3
 	  :PROPERTIES:
@@ -17180,6 +17181,9 @@ WLH 2005
 <2015-07-28 Tue 10:00-12:00>
 ******** Wed
 ********* Lecture 1.3
+	  :LOGBOOK:
+	  CLOCK: [2015-07-01 Wed 09:45]--[2015-07-01 Wed 12:16] =>  2:31
+	  :END:
 	  :PROPERTIES:
 	  :Effort:   2:15
 	  :END:
