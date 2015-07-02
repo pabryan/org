@@ -11,8 +11,11 @@
   CLOCK: [2015-02-18 Wed 08:26]--[2015-02-18 Wed 08:27] =>  0:01
   :END:
 [2015-02-18 Wed 08:26]
-* TODO Organise health insurance for August
+* DONE Organise health insurance for August
   SCHEDULED: <2015-07-02 Thu>
+  :LOGBOOK:
+  - State "DONE"       from "TODO"       [2015-07-02 Thu 11:57]
+  :END:
 [2015-02-24 Tue 12:40]
 * TODO Make agenda blocks
   SCHEDULED: <2015-07-06 Mon>
@@ -141,3 +144,14 @@ Regularity (i.e. gradient estimate) from modulus of continuity.
 [2015-06-05 Fri 21:55]
 http://www.math.utah.edu/~treiberg/
 Check with Andrejs if he's interested in collaboration.
+* TODO Meet Ben Chow
+  SCHEDULED: <2015-07-06 Mon 12:15-13:00>
+  :LOGBOOK:
+  CLOCK: [2015-07-02 Thu 11:56]--[2015-07-02 Thu 11:57] =>  0:01
+  :END:
+[2015-07-02 Thu 11:56]
+- Muir Cafe
+* TODO Meet Eric
+  SCHEDULED: <2015-07-07 Tue 12:30>
+[2015-07-02 Thu 11:57]
+Art of Espresso
