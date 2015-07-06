@@ -16846,6 +16846,9 @@ CENTR 214
 <2015-06-30 Tue 16:30-18:00>
 <2015-07-01 Wed 16:30-18:00>
 ******** O/H Week 2
+	 :LOGBOOK:
+	 CLOCK: [2015-07-06 Mon 13:04]
+	 :END:
 	 :PROPERTIES:
 	 :Effort:   3:00
 	 :END:
