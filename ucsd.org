@@ -16651,13 +16651,20 @@ Lectures in calendar and tasks like planning lectures.
 	   :END:
 ******* TODO Exams
 ******** TODO Midterm 1
-********* NEXT Write Midterm 1
+********* DONE Write Midterm 1
 	  DEADLINE: <2015-07-06 Mon>
+	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2015-07-09 Thu 18:55]
+	  CLOCK: [2015-07-09 Thu 17:45]--[2015-07-09 Thu 18:55] =>  1:10
+	  :END:
 	  :PROPERTIES:
 	  :Effort:   1:00
 	  :END:
-********* NEXT Get TA's comments
+********* DONE Get TA's comments
 	  SCHEDULED: <2015-07-10 Fri>
+	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2015-07-09 Thu 18:55]
+	  :END:
 	  :PROPERTIES:
 	  :Effort:   0:10
 	  :END:
