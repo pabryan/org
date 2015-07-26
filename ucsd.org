@@ -16634,25 +16634,34 @@ Lectures in calendar and tasks like planning lectures.
 	   :Effort:   1:00
 	   :END:
 ********* TODO Week 4
-********** NEXT Prepare Lecture 4.1
+********** DONE Prepare Lecture 4.1
 	   SCHEDULED: <2015-07-15 Wed>
+	   :LOGBOOK:
+	   - State "DONE"       from "NEXT"       [2015-07-24 Fri 18:11]
+	   :END:
 	   :PROPERTIES:
 	   :Effort:   1:00
 	   :END:
-********** NEXT Prepare Lecture 4.2
+********** DONE Prepare Lecture 4.2
 	   DEADLINE: <2015-07-15 Wed>
+	   :LOGBOOK:
+	   :END:
 	   :PROPERTIES:
 	   :Effort:   1:00
 	   :END:
 
-********** NEXT Prepare Lecture 4.3
+********** DONE Prepare Lecture 4.3
 	   DEADLINE: <2015-07-15 Wed>
+	   :LOGBOOK:
+	   :END:
 	   :PROPERTIES:
 	   :Effort:   1:00
 	   :END:
 ********* TODO Week 5
-********** NEXT Prepare Lecture 5.1
+********** DONE Prepare Lecture 5.1
 	   SCHEDULED: <2015-07-22 Wed>
+	   :LOGBOOK:
+	   :END:
 	   :PROPERTIES:
 	   :Effort:   1:00
 	   :END:
@@ -16688,19 +16697,27 @@ Lectures in calendar and tasks like planning lectures.
 	  :Effort:   0:10
 	  :END:
 
-********* NEXT Submit midterm to printing/frdesk
+********* DONE Submit midterm to printing/frdesk
 	  DEADLINE: <2015-07-13 Mon>
+	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2015-07-24 Fri 18:56]
+	  :END:
 	  :PROPERTIES:
 	  :Effort:   0:10
 	  :END:
 ******** TODO Final
-********* NEXT Write Final
+********* DONE Write Final
 	  DEADLINE: <2015-07-20 Mon>
+	  :LOGBOOK:
+	  :END:
 	  :PROPERTIES:
 	  :Effort:   1:30
 	  :END:
-********* NEXT Get TA's comments
+********* DONE Get TA's comments
 	  DEADLINE: <2015-07-24 Fri>
+	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2015-07-24 Fri 18:56]
+	  :END:
 	  :PROPERTIES:
 	  :Effort:   0:10
 	  :END:
@@ -17023,25 +17040,33 @@ Lectures in calendar and tasks like planning lectures.
 	   :Effort:   1:00
 	   :END:
 ********* TODO Week 4
-********** NEXT Prepare Lecture 4.1
+********** DONE Prepare Lecture 4.1
 	   SCHEDULED: <2015-07-15 Wed>
+	   :LOGBOOK:
+	   :END:
 	   :PROPERTIES:
 	   :Effort:   1:00
 	   :END:
-********** NEXT Prepare Lecture 4.2
+********** DONE Prepare Lecture 4.2
 	   DEADLINE: <2015-07-15 Wed>
+	   :LOGBOOK:
+	   :END:
 	   :PROPERTIES:
 	   :Effort:   1:00
 	   :END:
 
-********** NEXT Prepare Lecture 4.3
+********** DONE Prepare Lecture 4.3
 	   DEADLINE: <2015-07-15 Wed>
+	   :LOGBOOK:
+	   :END:
 	   :PROPERTIES:
 	   :Effort:   1:00
 	   :END:
 ********* TODO Week 5
-********** NEXT Prepare Lecture 5.1
+********** DONE Prepare Lecture 5.1
 	   SCHEDULED: <2015-07-22 Wed>
+	   :LOGBOOK:
+	   :END:
 	   :PROPERTIES:
 	   :Effort:   1:00
 	   :END:
@@ -17066,25 +17091,36 @@ Lectures in calendar and tasks like planning lectures.
 	  :PROPERTIES:
 	  :Effort:   1:00
 	  :END:
-********* NEXT Get TA's comments
+********* DONE Get TA's comments
 	  SCHEDULED: <2015-07-10 Fri>
+	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2015-07-24 Fri 18:11]
+	  :END:
 	  :PROPERTIES:
 	  :Effort:   0:10
 	  :END:
 
-********* NEXT Submit midterm to printing/frdesk
+********* DONE Submit midterm to printing/frdesk
 	  DEADLINE: <2015-07-13 Mon>
+	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2015-07-24 Fri 18:56]
+	  :END:
 	  :PROPERTIES:
 	  :Effort:   0:10
 	  :END:
 ******** TODO Final
-********* NEXT Write Final
+********* DONE Write Final
 	  DEADLINE: <2015-07-20 Mon>
+	  :LOGBOOK:
+	  :END:
 	  :PROPERTIES:
 	  :Effort:   1:30
 	  :END:
-********* NEXT Get TA's comments
+********* DONE Get TA's comments
 	  DEADLINE: <2015-07-24 Fri>
+	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2015-07-24 Fri 18:56]
+	  :END:
 	  :PROPERTIES:
 	  :Effort:   0:10
 	  :END:
@@ -17132,8 +17168,11 @@ http://webwork.maa.org/wiki/ModelCourses/Ordinary_Differential_Equations
 	 :PROPERTIES:
 	 :Effort:   3:00
 	 :END:
-******** NEXT Create homework project 2
+******** DONE Create homework project 2
 	 DEADLINE: <2015-07-10 Fri>
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2015-07-24 Fri 18:13]
+	 :END:
 	 :PROPERTIES:
 	 :Effort:   4:00
 	 :END:

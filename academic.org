@@ -1856,7 +1856,7 @@ See [[*Convexity%20in%20space%20forms][Convexity in space forms]] and Urbas' and
 ******* TODO Aleksandrov reflection
 ***** Notes
 ****** TODO Check out Killing graphs preserved
-       SCHEDULED: <2015-07-06 Mon>
+       SCHEDULED: <2015-08-17 Mon>
 Not sure where this comes from? Is it Hamilton? Is it from free boundary problems? Perhaps it's from MR3240531?
 ***** Refs
 ***** Meetings
@@ -3128,7 +3128,7 @@ If $\exp: T_x N \to N$ is a diffeomorphism (in particular for Cartan-Hadamaard) 
 ****** Ambient Minkowski space
 We would do it all in Minkowski space. I think the vector field gives the distance in Minkowski space to the totally geodesic hypersurface. We can then set up all our dual theory, radial functions and so forth in that ambient space, possibly with an intrinsic interpretation. In this setting we could maybe also do $\sphere^n$? Another interesting point is that we can do a normalised flow, by simultaneously expanding $M_t$ and $\HH^{n+1}$ by rescaling the ambient Minkowski space.
 ****** TODO Check out Killing graphs preserved
-       SCHEDULED: <2015-07-06 Mon>
+       SCHEDULED: <2015-08-17 Mon>
 **** TODO CSF networks 					       :CSF_NETWORKS:
    :PROPERTIES:
    :ID:       1bc93b81-8423-4598-8297-f0b90aa39aa7
@@ -7151,7 +7151,7 @@ https://academicjobsonline.org/ajo/jobs/4242
      - State "DONE"       from "NEXT"       [2014-02-25 Tue 16:55]
      :END:
 **** NEXT Prepare high codimension MCF support fn
-     SCHEDULED: <2015-07-06 Mon>
+     SCHEDULED: <2015-08-17 Mon>
 *** Hubert Bray
 **** NEXT Contact Hubert about visiting next year
 *** Yanir Rubinstein
