@@ -301,8 +301,9 @@ Use account A11078844
 [[https://act.ucsd.edu/studentBilling/billing]]
 
 *** NEXT Pay ATT
-    SCHEDULED: <2015-08-01 Sat +1m -0d> 
+    SCHEDULED: <2015-09-01 Tue +1m -0d> 
     :LOGBOOK:
+    - State "DONE"       from "NEXT"       [2015-08-01 Sat 11:21]
     - State "DONE"       from "NEXT"       [2015-07-02 Thu 11:57]
     - State "DONE"       from "NEXT"       [2015-06-02 Tue 21:08]
     - State "DONE"       from "NEXT"       [2015-05-03 Sun 15:23]
@@ -334,7 +335,7 @@ Use account A11078844
     :END:
     :PROPERTIES:
     :REPEAT_TO_STATE: NEXT
-    :LAST_REPEAT: [2015-07-02 Thu 11:57]
+    :LAST_REPEAT: [2015-08-01 Sat 11:21]
     :ID:       137987c4-8151-42f0-bfad-b1e06d2cd512
     :END:
 [[http://www.att.com/]]
@@ -2687,7 +2688,7 @@ Felicita Park
 - The three body problem is chatoic! How can we hope to understand complex systems when three bodies is too much!
 
 **** TODO Missing connections
-  SCHEDULED: <2015-08-01 Sat>
+  SCHEDULED: <2015-08-10 Mon>
   :LOGBOOK:
   CLOCK: [2014-04-03 Thu 09:54]--[2014-04-03 Thu 09:58] =>  0:04
   :END:
@@ -2723,7 +2724,7 @@ What is it? How do we get a handle on it? How do we reduce it from say the cause
 ** Blogging
 *** With Mark
 **** TODO Start Blog with Mark
-  SCHEDULED: <2015-08-01 Sat>
+  SCHEDULED: <2015-08-10 Mon>
 [2014-05-04 Sun 15:58]
 * Farming							    :FARMING:
   :PROPERTIES:

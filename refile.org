@@ -59,9 +59,10 @@ http://chdoig.github.io/create-pelican-blog.html
   - State "DONE"       from "TODO"       [2015-07-24 Fri 18:11]
   :END:
 [2015-04-23 Thu 18:38]
-* TODO Cancel accounts
+* DONE Cancel accounts
   SCHEDULED: <2015-07-01 Wed>
   :LOGBOOK:
+  - State "DONE"       from "TODO"       [2015-08-01 Sat 11:21]
   CLOCK: [2015-04-23 Thu 18:48]--[2015-04-23 Thu 18:49] =>  0:01
   :END:
 [2015-04-23 Thu 18:48]

@@ -16665,14 +16665,20 @@ Lectures in calendar and tasks like planning lectures.
 	   :PROPERTIES:
 	   :Effort:   1:00
 	   :END:
-********** NEXT Prepare Lecture 5.2
+********** DONE Prepare Lecture 5.2
 	   DEADLINE: <2015-07-22 Wed>
+	   :LOGBOOK:
+	   - State "DONE"       from "NEXT"       [2015-08-01 Sat 10:47]
+	   :END:
 	   :PROPERTIES:
 	   :Effort:   1:00
 	   :END:
 
-********** NEXT Prepare Lecture 5.3
+********** DONE Prepare Lecture 5.3
 	   DEADLINE: <2015-07-22 Wed>
+	   :LOGBOOK:
+	   - State "DONE"       from "NEXT"       [2015-08-01 Sat 10:47]
+	   :END:
 	   :PROPERTIES:
 	   :Effort:   1:00
 	   :END:
@@ -16721,8 +16727,11 @@ Lectures in calendar and tasks like planning lectures.
 	  :PROPERTIES:
 	  :Effort:   0:10
 	  :END:
-********* NEXT Submit to printing/frdesk
+********* DONE Submit to printing/frdesk
 	  DEADLINE: <2015-07-27 Mon>
+	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2015-08-01 Sat 10:47]
+	  :END:
 	  :PROPERTIES:
 	  :Effort:   0:10
 	  :END:
@@ -17070,14 +17079,20 @@ Lectures in calendar and tasks like planning lectures.
 	   :PROPERTIES:
 	   :Effort:   1:00
 	   :END:
-********** NEXT Prepare Lecture 5.2
+********** DONE Prepare Lecture 5.2
 	   DEADLINE: <2015-07-22 Wed>
+	   :LOGBOOK:
+	   - State "DONE"       from "NEXT"       [2015-08-01 Sat 10:47]
+	   :END:
 	   :PROPERTIES:
 	   :Effort:   1:00
 	   :END:
 
-********** NEXT Prepare Lecture 5.3
+********** DONE Prepare Lecture 5.3
 	   DEADLINE: <2015-07-22 Wed>
+	   :LOGBOOK:
+	   - State "DONE"       from "NEXT"       [2015-08-01 Sat 10:47]
+	   :END:
 	   :PROPERTIES:
 	   :Effort:   1:00
 	   :END:
@@ -17124,8 +17139,11 @@ Lectures in calendar and tasks like planning lectures.
 	  :PROPERTIES:
 	  :Effort:   0:10
 	  :END:
-********* NEXT Submit to printing/frdesk
+********* DONE Submit to printing/frdesk
 	  DEADLINE: <2015-07-27 Mon>
+	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2015-08-01 Sat 10:47]
+	  :END:
 	  :PROPERTIES:
 	  :Effort:   0:10
 	  :END:
