@@ -252,8 +252,9 @@ My card won't swipe anymore.
    
 ** Bills 
 *** NEXT Pay rent
-    DEADLINE: <2015-08-05 Wed +1m -5d> 
+#    DEADLINE: <2015-09-05 Sat +1m -5d> 
     :LOGBOOK:
+    - State "DONE"       from "NEXT"       [2015-08-11 Tue 08:54]
     - State "DONE"       from "NEXT"       [2015-07-02 Thu 11:57]
     - State "DONE"       from "NEXT"       [2015-06-02 Tue 17:52]
     - State "DONE"       from "NEXT"       [2015-05-03 Sun 15:23]
@@ -294,7 +295,7 @@ My card won't swipe anymore.
    :PROPERTIES:
    :ID:       ea07bf7b-9f89-49bf-90db-3e167baff163
    :REPEAT_TO_STATE: NEXT
-   :LAST_REPEAT: [2015-07-02 Thu 11:57]
+   :LAST_REPEAT: [2015-08-11 Tue 08:54]
    :END:
 
 Use account A11078844
@@ -1223,7 +1224,7 @@ http://tedxbellingham.com/
 - 3521 Adams Avenue (sign on the building says "Subud". 
 - Stephen (858-829-5828)
 ****** Tuesday Tai Chi
-<2015-02-17 Tue 19:15-20:30 +1w>
+
 - 3521 Adams Avenue (sign on the building says "Subud". 
 - Stephen (858-829-5828)
 
@@ -2817,5 +2818,5 @@ sip:pabryan@ekiga.net
 ** Bands
 *** OverDriver
 https://www.facebook.com/overdriveroficial
-****-bs check out this Bass playing technique
+**** check out this Bass playing technique
      SCHEDULED: <2015-08-10 Mon>
