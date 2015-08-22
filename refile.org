@@ -118,12 +118,6 @@ Also look up Ben Chow's book on Ricci flow. There he discusses solitions as fixe
 Solitons <-> minimal space-time sub-manifolds w.r.t. warped product
 
 In other words, \(\grad f\)-soliton, correspond to critical points in the warped product manifold of the volume functional. CMC-surfaces are then critical points with Lagrange multiplies, i.e. critical points of the volume plus a constant (the mean curvature) times the area. Do they correspond to any solution of MCF?
-* TODO Compile Harnack/Ancient solutions paper
-  SCHEDULED: <2015-08-17 Mon>
-  :LOGBOOK:
-  CLOCK: [2015-06-02 Tue 18:19]--[2015-06-02 Tue 18:20] =>  0:01
-  :END:
-[2015-06-02 Tue 18:19]
 * TODO Incoporate Ben's work into CSF alpha flows
   SCHEDULED: <2015-08-17 Mon>
 [2015-06-02 Tue 18:20]
