@@ -98,6 +98,13 @@
 [[papers:MR1376656][MR1376656-paper]]
 [[bib:MR1376656][MR1376656-bib]]
 *** 35K (1973-now) Parabolic equations and systems [See also 35Bxx, 35Dxx, 35R30, 35R35, 58J35] :parabolic:
+**** 35K15 (1973-now) Initial value problems for second-order parabolic equations
+***** Parabolic equations for curves on surfaces. {I}. {C}urves with {$p$}-integrable curvature
+:PROPERTIES:
+:Custom_ID: MR1078266
+:END:
+[[papers:MR1078266][MR1078266-paper]]
+[[bib:MR1078266][MR1078266-bib]]
 **** 35K55  (1973-now) Nonlinear parabolic equations	:nonlinear:parabolic:
 ***** Convex curves moving translationally in the plane :convex:curves:translation:plane:geometry:evolution:
 :PROPERTIES:
@@ -1313,6 +1320,12 @@
 [[bib:MR656198][MR656198-bib]]
 *** 58E   (1973-now) Variational problems in infinite-dimensional spaces :calculus_variations:infinite_dimension:
 **** 58E10   (1973-now) Applications to the theory of geodesics (problems in one independent variable) :geodesics:
+***** Parabolic equations for curves on surfaces. {II}. {I}ntersections, blow-up and generalized solutions
+:PROPERTIES:
+:Custom_ID: MR1087347
+:END:
+[[papers:MR1087347][MR1087347-paper]]
+[[bib:MR1087347][MR1087347-bib]]
 ***** A distance comparison principle for evolving curves :csf:evolution:distance:plane:curves:
 :PROPERTIES:
 :Custom_ID: MR1656553
