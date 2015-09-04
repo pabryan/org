@@ -867,6 +867,12 @@
 :END:
 [[papers:MR0407774][MR0407774-paper]]
 [[bib:MR0407774][MR0407774-bib]]
+***** Closed {W}eingarten hypersurfaces in space forms
+:PROPERTIES:
+:Custom_ID: MR1449403
+:END:
+[[papers:MR1449403][MR1449403-paper]]
+[[bib:MR1449403][MR1449403-bib]]
 **** 53C42 (1980-now) Immersions (minimal, prescribed curvature, tight, etc.) [See also 49Q05, 49Q10, 53A10, 57R40, 57R42] :immersions:submanifold:
 ***** Constant mean curvature hypersurfaces in a {L}ie group with a bi-invariant metric :cmc:lie_group:hypersurface:
 :PROPERTIES:
@@ -1440,6 +1446,12 @@
 :END:
 [[papers:MR1100812][MR1100812-paper]]
 [[bib:MR1100812][MR1100812-bib]]
+***** Entropy estimates for evolving hypersurfaces
+:PROPERTIES:
+:Custom_ID: MR1312677
+:END:
+[[papers:MR1312677][MR1312677-paper]]
+[[bib:MR1312677][MR1312677-bib]]
 **** 58E99   (1973-now) None of the above, but in this section
 ***** Motion of level sets by mean curvature. {II
 :PROPERTIES:
