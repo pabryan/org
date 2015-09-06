@@ -51,6 +51,13 @@
 [[papers:MR1063226][MR1063226-paper]]
 [[bib:MR1063226][MR1063226-bib]]
 ** 35 Partial differential equations					:pde:
+*** 35.62 (1959-1972) Second order parabolic equations
+**** A {H}arnack inequality for parabolic differential equations
+:PROPERTIES:
+:Custom_ID: MR0159139
+:END:
+[[papers:MR0159139][MR0159139-paper]]
+[[bib:MR0159139][MR0159139-bib]]
 *** 35B (1973-now) Qualitative properties of solutions
 **** 35B50 (1980-now) Maximum principles
 ***** The maximum principle for viscosity solutions of fully nonlinear second order partial differential equations
