@@ -35,6 +35,12 @@
 [[papers:MR2948294][MR2948294-paper]]
 ** 28 (1940-now) Measure and integration [For analysis on manifolds, see 58-XX]
 *** 28.80 (1959-1972) Length, area, volume; other geometric measure theory
+**** Normal and integral currents
+:PROPERTIES:
+:Custom_ID: MR0123260
+:END:
+[[papers:MR0123260][MR0123260-paper]]
+[[bib:MR0123260][MR0123260-bib]]
 **** Geometric measure theory
 :PROPERTIES:
 :Custom_ID: MR0257325
@@ -186,6 +192,14 @@
 [[papers:MR1912903][MR1912903-paper]]
    
 ** 46 (1940-now) Functional analysis [For manifolds modeled on topological linear spaces, see 57Nxx, 58Bxx]
+*** 46B (1973-now) Normed linear spaces and Banach spaces; Banach lattices [For function spaces, see 46Exx]
+**** 46B20 (1980-now) Geometry and structure of normed linear spaces
+***** Asymptotic theory of finite-dimensional normed spaces
+:PROPERTIES:
+:Custom_ID: MR856576
+:END:
+[[papers:MR856576][MR856576-paper]]
+[[bib:MR856576][MR856576-bib]]
 *** 46E (1973-now) Linear function spaces and their duals [See also 30H05, 32A38, 46F05] [For function algebras, see 46J10]
 **** 46E35 (1973-now) Sobolev spaces and other spaces of "smooth'' functions, embedding theorems, trace theorems
 ***** Sobolev spaces on {R}iemannian manifolds
@@ -411,6 +425,20 @@
 [[papers:MR0233295][MR0233295-paper]]
 [[bib:MR0233295][MR0233295-bib]]
 
+**** 53.72 (1959-1972) Riemannian manifolds
+***** Certain conditions for a {R}iemannian manifold to be isometric with a sphere
+:PROPERTIES:
+:Custom_ID: MR0142086
+:END:
+[[papers:MR0142086][MR0142086-paper]]
+[[bib:MR0142086][MR0142086-bib]]
+*** 53.66  (1959-1972) Homogeneous manifolds [See also 22.70, 57.45]
+**** G\'eom\'etrie des groupes de transformations
+:PROPERTIES:
+:Custom_ID: MR0124009
+:END:
+[[papers:MR0124009][MR0124009-paper]]
+[[bib:MR0124009][MR0124009-bib]]
 *** 53.74 (1959-1972) Submanifolds, isometric imbeddings [See also 57.20]
 **** Rigidity and convexity of hypersurfaces in spheres
 :PROPERTIES:
@@ -514,6 +542,15 @@
 :END:
 [[papers:MR1883725][MR1883725-paper]]
 [[bib:MR1883725][MR1883725-bib]]
+53B20  View Publications (1973-now) Local Riemannian geometry
+*** 53B (1973-now) Local differential geometry
+**** 53B20 (1973-now) Local Riemannian geometry
+***** A refinement of {G}\"unther's candle inequality
+:PROPERTIES:
+:Custom_ID: MR3318015
+:END:
+[[papers:MR3318015][MR3318015-paper]]
+[[bib:MR3318015][MR3318015-bib]]
 *** 53C (1973-now) Global differential geometry [See also 51H25, 58-XX; for related bundle theory, see 55Rxx, 57Rxx] :global:
 **** 53CXX
 ***** Existence of isoperimetric regions in contact sub-{R}iemannian manifolds :isoperimetric:contact:submanifold:riemannian:
@@ -955,6 +992,18 @@
 [[papers:MR2507612][MR2507612-paper]]
 [[bib:MR2507612][MR2507612-bib]]
 **** 53C44 (2000-now) Geometric evolution equations (mean curvature flow, Ricci flow, etc.) :evolution:
+***** Harnack inequality for the negative power {G}aussian curvature flow
+:PROPERTIES:
+:Custom_ID: MR2813400
+:END:
+[[papers:MR2813400][MR2813400-paper]]
+[[bib:MR2813400][MR2813400-bib]]
+***** An application of dual convex bodies to the inverse {G}auss curvature flow
+:PROPERTIES:
+:Custom_ID: MR3293740
+:END:
+[[papers:MR3293740][MR3293740-paper]]
+[[bib:MR3293740][MR3293740-bib]]
 ***** Self-similar solutions to the curve shortening flow
 :PROPERTIES:
 :Custom_ID: MR2931330
@@ -1382,6 +1431,12 @@
 :END:
 [[papers:MR1087184][MR1087184-paper]]
 [[bib:MR1087184][MR1087184-bib]]
+***** On an isoperimetric inequality for a {S}chr\"odinger operator depending on the curvature of a loop
+:PROPERTIES:
+:Custom_ID: MR2203162
+:END:
+[[papers:MR2203162][MR2203162-paper]]
+[[bib:MR2203162][MR2203162-bib]]
 **** 58E11   (1980-now) Critical metrics		   :metrics:critical:
 ***** The {H}arnack estimate for the {R}icci flow :harnack:ricci_flow:evolution:
 :PROPERTIES:
@@ -1595,6 +1650,12 @@ Here I need to do some more work since $u \mapsto g(\grad u, \grad u)$ is not a 
 :END:
 [[papers:MR1001277][MR1001277-paper]]
 [[bib:MR1001277][MR1001277-bib]]
+***** D\'ecomposition polaire et r\'earrangement monotone des champs de vecteurs
+:PROPERTIES:
+:Custom_ID: MR923203
+:END:
+[[papers:MR923203][MR923203-paper]]
+[[bib:MR923203][MR923203-bib]]
 **** 58G32 (1980-1999) Diffusion processes and stochastic analysis on manifolds
 ***** L\'evy-{G}romov's isoperimetric inequality for an infinite-dimensional diffusion generator
 :PROPERTIES:
@@ -1673,12 +1734,24 @@ Here I need to do some more work since $u \mapsto g(\grad u, \grad u)$ is not a 
 [[papers:zbMATH02588223][zbMATH02588223-paper]]
 [[bib:zbMATH02588223][zbMATH02588223-bib]]
 
+** Beweis, da{\ss} unter allen homogenen Membranen von gleicher Fl\"ache und gleicher Spannung die kreisf\"ormige den tiefsten Grundton gibt.
+:PROPERTIES:
+:Custom_ID: zbMATH02598582
+:END:
+[[papers:zbMATH02598582][zbMATH02598582-paper]]
+[[bib:zbMATH02598582][zbMATH02598582-bib]]
 * ArXiv 							      :arxiv:
   :PROPERTIES:
   :COLUMNS: %75ITEM %TAGS
   :ID:       6ac9b861-65b6-4799-bb71-716b51571ab6
   :END:
 ** math.DG					      :dg:geometry:manifolds:
+** Harnack inequalities for the curve shortening flow
+:PROPERTIES:
+:Custom_ID: 2015arXiv151100196B
+:END:
+[[papers:2015arXiv151100196B][2015arXiv151100196B-paper]]
+[[bib:2015arXiv151100196B][2015arXiv151100196B-bib]]
 *** The translating soliton of mean curvature flow
 :PROPERTIES:
 :Custom_ID: 2014arXiv1410.5063X
@@ -1879,6 +1952,12 @@ Here I need to do some more work since $u \mapsto g(\grad u, \grad u)$ is not a 
 [[papers:2014arXiv1404.6703M][2014arXiv1404.6703M-paper]]
 [[bib:2014arXiv1404.6703M][2014arXiv1404.6703M-bib]]
 
+*** The Cartan-Hadamard conjecture and The Little Prince
+:PROPERTIES:
+:Custom_ID: 2013arXiv1303.3115K
+:END:
+[[papers:2013arXiv1303.3115K][2013arXiv1303.3115K-paper]]
+[[bib:2013arXiv1303.3115K][2013arXiv1303.3115K-bib]]
 ** math.AP 							     :ap:pde:
 *** user's guide to viscosity solutions of second order partial differential equations
 :PROPERTIES:
