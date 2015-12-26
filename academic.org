@@ -3264,8 +3264,22 @@ This is some sort of curvature flow for polygons - exactly what I want to look a
 :PROPERTIES:
 :Custom_ID: MR1240580
 :END:
-[[papers:MR1240580][MR1240580-paper]]
-[[bib:MR1240580][MR1240580-bib]]
+****** A certain boundary value problem for the stationary system of {N}avier-{S}tokes equations
+:PROPERTIES:
+:Custom_ID: MR0364910
+:END:
+[[papers:MR0364910][MR0364910-paper]]
+[[bib:MR0364910][MR0364910-bib]]
+[[notes:MR0364910][MR0364910-notes]]
+****** Motion by curvature of planar networks
+:PROPERTIES:
+:Custom_ID: MR2075985
+:END:
+[[papers:MR2075985][MR2075985-paper]]
+[[bib:MR2075985][MR2075985-bib]]
+****** Motion of networks
+- http://arxiv.org/pdf/1511.02572.pdf
+- http://www.boundaryvalueproblems.com/content/2007/1/081415
 
 *** Future 							    :SOMEDAY:
 **** TODO Study non-smooth mean curvature flow, minimal surfaces via support fn
