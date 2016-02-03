@@ -116,6 +116,8 @@ TYPE:PER
 ACCT TYPE:CHK
 
 My card won't swipe anymore.
+**** Account number
+476294124
 *** Google Wallet
 **** DONE Check Google Wallet balance
   DEADLINE: <2014-07-10 Thu>
@@ -126,6 +128,13 @@ My card won't swipe anymore.
 *** Commbank
 **** Data
 - num: 99474823
+*** England
+**** HSBC
+- id num: 1649949251
+***** Appointment
+- Mon 10:15, The Square Kenilworth
+- ref: G. Marshall, NK90XL3N
+- passport, acceptance from uni, national insurance
 ** Budget
 
 *** Monthly
@@ -2819,6 +2828,7 @@ sip:pabryan@ekiga.net
 ** English
 *** Coventry 2016
 - mobile: +44 (0)740 200 3917
+- home: +44 (0)247 6470 604
 * Gov									:GOV:
   :PROPERTIES:
   :ID:       b0867386-74a0-4d6e-929f-5193b8bd0045
