@@ -64,6 +64,14 @@
 :END:
 [[papers:MR0159139][MR0159139-paper]]
 [[bib:MR0159139][MR0159139-bib]]
+*** 35.78 (1959-1972) Heat equation
+**** A new proof of the theorem on the stabilization of the solution of the Cauchy problem for the heat equation
+:PROPERTIES:
+:Custom_ID: MR0212424
+:END:
+[[papers:MR0212424][MR0212424-paper]]
+[[bib:MR0212424][MR0212424-bib]]
+
 *** 35B (1973-now) Qualitative properties of solutions
 **** 35B50 (1980-now) Maximum principles
 ***** The maximum principle for viscosity solutions of fully nonlinear second order partial differential equations
@@ -503,6 +511,12 @@
 :END:
 [[papers:MR3259043][MR3259043-paper]]
 [[bib:MR3259043][MR3259043-bib]]
+***** Mean curvature evolution of entire graphs
+:PROPERTIES:
+:Custom_ID: MR1025164
+:END:
+[[papers:MR1025164][MR1025164-paper]]
+[[bib:MR1025164][MR1025164-bib]]
 **** 53A04 (1980-now) Curves in Euclidean space :curves:euclidean:submanifold:
 ***** The heat equation shrinking convex plane curves :plane:convex:evolution:csf:
 :PROPERTIES:
@@ -1759,7 +1773,26 @@ Here I need to do some more work since $u \mapsto g(\grad u, \grad u)$ is not a 
   :ID:       6ac9b861-65b6-4799-bb71-716b51571ab6
   :END:
 ** math.DG					      :dg:geometry:manifolds:
-** Harnack inequalities for the curve shortening flow
+*** Mean curvature flow of an entire graph evolving away from the heat flow
+:PROPERTIES:
+:Custom_ID: 2015arXiv151107985D
+:END:
+[[papers:2015arXiv151107985D][2015arXiv151107985D-paper]]
+[[bib:2015arXiv151107985D][2015arXiv151107985D-bib]]
+**** Referee Notes
+***** Reccommendation
+***** Summary
+***** Suggestions
+***** Reading Notes
+- p. 2, eq (1.5): Does this have a limiting shape? It's graph with oscillation \(\geq 1 - \epsilon\)
+- p. 3, para -23: But \(H = -c(t) \mathbb{R}\)
+- p. 4, 3.1, para 1: It's translated up so the MCF constructed lies below \(\delta_0 < \epsilon\). Could probably do with \(\delta_0\) and just use \(\epsilon\)
+- p. 4, \(\Omega_0\) is the everything outside the outer discs, while \(U_0\) is everything inside the inner discs.
+- p. 5, para 1: Might be worth mentioning that the strong max principle ensures that \(u>0\) instentaneously, since at time \(t^{\ast}\), \(u\) has to have shrunk below the \(\delta_0\) by the containment principle and the only way \(u \geq \delta_0\) could occur would be if it happened on \(\Omega_t\), i.e. away from any torus.
+- p. 5- : Halmos tombstone is some chinese character
+- p. 5, (3.1): where does this come from? Some sort of estimate comparing \(H\) with \(A\)? Is this in [[notes:MR1025164]]?
+- p 6. 3.3: This about the behaviour of the heat equation. Ref to Repnikov-Eidelman [[notes:MR0212424]] is the result for the heat equation.
+*** Harnack inequalities for the curve shortening flow
 :PROPERTIES:
 :Custom_ID: 2015arXiv151100196B
 :END:

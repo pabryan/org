@@ -116,6 +116,12 @@ TYPE:PER
 ACCT TYPE:CHK
 
 My card won't swipe anymore.
+**** US Address
+PAUL A BRYAN
+451 KANSAS ST
+UNIT 409
+SAN FRANCISCO CA
+94107-2210
 *** Google Wallet
 **** DONE Check Google Wallet balance
   DEADLINE: <2014-07-10 Thu>
@@ -304,9 +310,11 @@ My card won't swipe anymore.
 Use account A11078844
 [[https://act.ucsd.edu/studentBilling/billing]]
 
-*** NEXT Pay ATT
-    SCHEDULED: <2015-09-01 Tue +1m -0d> 
+*** CANCELLED Pay ATT
+    SCHEDULED: <2015-09-01 Tue> 
     :LOGBOOK:
+    - State "CANCELLED"  from "NEXT"       [2016-02-09 Tue 10:31] \\
+      Left the US!
     - State "DONE"       from "NEXT"       [2015-08-01 Sat 11:21]
     - State "DONE"       from "NEXT"       [2015-07-02 Thu 11:57]
     - State "DONE"       from "NEXT"       [2015-06-02 Tue 21:08]
@@ -2693,7 +2701,6 @@ Felicita Park
 - The three body problem is chatoic! How can we hope to understand complex systems when three bodies is too much!
 
 **** TODO Missing connections
-  SCHEDULED: <2015-08-10 Mon>
   :LOGBOOK:
   CLOCK: [2014-04-03 Thu 09:54]--[2014-04-03 Thu 09:58] =>  0:04
   :END:
@@ -2729,7 +2736,6 @@ What is it? How do we get a handle on it? How do we reduce it from say the cause
 ** Blogging
 *** With Mark
 **** TODO Start Blog with Mark
-  SCHEDULED: <2015-08-10 Mon>
 [2014-05-04 Sun 15:58]
 * Farming							    :FARMING:
   :PROPERTIES:
@@ -2830,5 +2836,8 @@ sip:pabryan@ekiga.net
 ** Bands
 *** OverDriver
 https://www.facebook.com/overdriveroficial
-**** check out this Bass playing technique
+**** DONE check out this Bass playing technique
      SCHEDULED: <2015-08-10 Mon>
+     :LOGBOOK:
+     - State "DONE"       from              [2016-02-09 Tue 10:29]
+     :END:

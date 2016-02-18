@@ -933,7 +933,6 @@ CR-8403 - "Curvature contraction of convex hypersurfaces by nonsmooth speeds by 
 | \______________ DONE Compile report     |        |   |   |      |      | 3:11 |
 #+END:
 
-*** Working
 **** DONE Referee JGEA-D-14-00211
      SCHEDULED: <2015-01-051 Mon> DEADLINE: <2015-02-06 Fri>
      :LOGBOOK:
@@ -1044,6 +1043,7 @@ file:~/working/academic/journals/referee/SciChinaMath/evolution_of_convex_hypers
 | \______________ DONE Submit report   |        |   |   |      |      | 0:02 |
 #+END:
 
+*** Working
 ** Discussion
 *** Selected Papers
 **** Tasks
@@ -1856,7 +1856,7 @@ See [[*Convexity%20in%20space%20forms][Convexity in space forms]] and Urbas' and
 ******* TODO Aleksandrov reflection
 ***** Notes
 ****** TODO Check out Killing graphs preserved
-       SCHEDULED: <2015-08-17 Mon>
+       SCHEDULED: <2016-04-17 Sun>
 Not sure where this comes from? Is it Hamilton? Is it from free boundary problems? Perhaps it's from MR3240531?
 ***** Refs
 ***** Meetings
@@ -3127,8 +3127,6 @@ CONSTANT ANISOTROPIC MEAN CURVATURE
 If $\exp: T_x N \to N$ is a diffeomorphism (in particular for Cartan-Hadamaard) manifolds, and we have a flow $M_t \subset N^{n+1}$, we can think of this as a flow $M_t \subset \RR^{n+1}$ with metric $\exp^{\star} g$. If the speed of the flow is geometric, then this pulls back to $\RR^{n+1}$. Now, I can define a rescaled flow so the volume remains constant. Then we can ensure by containment, that a point in the region enclosed by the $M_0$ remains in the region enclosed by the rescaled flow $\tilde{M}_t$ for all time and can do the polar dual!
 ****** Ambient Minkowski space
 We would do it all in Minkowski space. I think the vector field gives the distance in Minkowski space to the totally geodesic hypersurface. We can then set up all our dual theory, radial functions and so forth in that ambient space, possibly with an intrinsic interpretation. In this setting we could maybe also do $\sphere^n$? Another interesting point is that we can do a normalised flow, by simultaneously expanding $M_t$ and $\HH^{n+1}$ by rescaling the ambient Minkowski space.
-****** TODO Check out Killing graphs preserved
-       SCHEDULED: <2015-08-17 Mon>
 **** TODO CSF networks 					       :CSF_NETWORKS:
    :PROPERTIES:
    :ID:       1bc93b81-8423-4598-8297-f0b90aa39aa7
@@ -4702,7 +4700,7 @@ Schedule time for research, for teaching and for non-research academic work (e.g
    :ID:       76fc2a4e-0bcf-40b4-aa91-f87c8962f648
    :END:
 *** Continuum Mechanics on Riemannian manifolds
-    SCHEDULED: <2015-08-17 Mon>
+    SCHEDULED: <2016-04-17 Sun>
 
 **** Formulation
 
@@ -7165,7 +7163,7 @@ https://academicjobsonline.org/ajo/jobs/4242
      - State "DONE"       from "NEXT"       [2014-02-25 Tue 16:55]
      :END:
 **** NEXT Prepare high codimension MCF support fn
-     SCHEDULED: <2015-08-17 Mon>
+     SCHEDULED: <2016-05-17 Tue>
 *** Hubert Bray
 **** NEXT Contact Hubert about visiting next year
 *** Yanir Rubinstein

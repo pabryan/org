@@ -133,10 +133,14 @@ http://www.etsy.com/listing/113210154/the-never-ending-story-steampunk-vintage?r
   :ID:       708a4629-eb8d-4287-80ca-2f2265c22405
   :END:
 ** Tasks
-*** NEXT Find distance education
+*** CANCELLED Find distance education
     SCHEDULED: <2015-08-17 Mon>
     :PROPERTIES:
     :ID:       fbc4c1a7-ac41-4d03-9128-76d3e2b38728
+    :END:
+    :LOGBOOK:
+    - State "CANCELLED"  from "NEXT"       [2016-02-09 Tue 10:30] \\
+      I don't think she's interested.
     :END:
 * US
   :PROPERTIES:

@@ -464,9 +464,14 @@
     - State "DONE"       from "NEXT"       [2013-03-11 Mon 21:23]
     - State "DONE"       from "NEXT"       [2013-03-09 Sat 11:10]
     :END:
-*** NEXT Mobility
-    SCHEDULED: <2015-07-06 Mon .+1d/2d>
+*** TODO Mobility
+    SCHEDULED: <2016-02-18 Thu .+1d/2d>
+    :PROPERTIES:
+    :LAST_REPEAT: [2016-02-17 Wed 10:27]
+    :END:
     :LOGBOOK:
+    - State "DONE"       from "TODO"       [2016-02-17 Wed 10:27]
+    - State "DONE"       from "NEXT"       [2016-02-09 Tue 10:31]
     - State "DONE"       from "NEXT"       [2015-07-05 Sun 19:32]
     - State "DONE"       from "NEXT"       [2015-07-02 Thu 11:58]
     - State "DONE"       from "NEXT"       [2015-06-28 Sun 18:37]
