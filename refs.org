@@ -120,6 +120,13 @@
 [[bib:MR1376656][MR1376656-bib]]
 *** 35K (1973-now) Parabolic equations and systems [See also 35Bxx, 35Dxx, 35R30, 35R35, 58J35] :parabolic:
 **** 35K15 (1973-now) Initial value problems for second-order parabolic equations
+***** Using Aleksandrov reflection to estimate the location of the center of expansion
+:PROPERTIES:
+:Custom_ID: MR2557173
+:END:
+[[papers:MR2557173][MR2557173-paper]]
+[[bib:MR2557173][MR2557173-bib]]
+
 ***** Parabolic equations for curves on surfaces. {I}. {C}urves with {$p$}-integrable curvature
 :PROPERTIES:
 :Custom_ID: MR1078266
@@ -1013,6 +1020,19 @@
 [[papers:MR2507612][MR2507612-paper]]
 [[bib:MR2507612][MR2507612-bib]]
 **** 53C44 (2000-now) Geometric evolution equations (mean curvature flow, Ricci flow, etc.) :evolution:
+***** Surface evolution equations
+:PROPERTIES:
+:Custom_ID: MR2238463
+:END:
+[[papers:MR2238463][MR2238463-paper]]
+[[bib:MR2238463][MR2238463-bib]]
+
+***** Classification of Compact Convex Ancient Solutions of the Planar Affine Normal Flow
+:PROPERTIES:
+:Custom_ID: MR3441533
+:END:
+[[papers:MR3441533][MR3441533-paper]]
+[[bib:MR3441533][MR3441533-bib]]
 ***** The inverse mean curvature flow in rotationally symmetric spaces
 :PROPERTIES:
 :Custom_ID: MR2772224
@@ -1472,6 +1492,13 @@
 [[papers:MR1198607][MR1198607-paper]]
 [[bib:MR1198607][MR1198607-bib]]
 **** 58E12   (1980-now) Applications to minimal surfaces (problems in two independent variables) [See also 49Q05] :minimal_surfaces:
+***** Shrinking doughnuts
+:PROPERTIES:
+:Custom_ID: MR1167827
+:END:
+[[papers:MR1167827][MR1167827-paper]]
+[[bib:MR1167827][MR1167827-bib]]
+
 ***** Stability of hypersurfaces with constant mean curvature :stability:cmc:hypersurfaces:euclidean:
 :PROPERTIES:
 :Custom_ID: MR731682
@@ -1773,6 +1800,19 @@ Here I need to do some more work since $u \mapsto g(\grad u, \grad u)$ is not a 
   :ID:       6ac9b861-65b6-4799-bb71-716b51571ab6
   :END:
 ** math.DG					      :dg:geometry:manifolds:
+*** Ancient solutions of the mean curvature flow
+:PROPERTIES:
+:Custom_ID: 2013arXiv1308.4095H
+:END:
+[[papers:2013arXiv1308.4095H][2013arXiv1308.4095H-paper]]
+[[bib:2013arXiv1308.4095H][2013arXiv1308.4095H-bib]]
+
+*** Convex ancient solutions of the mean curvature flow
+:PROPERTIES:
+:Custom_ID: 2014arXiv1405.7509H
+:END:
+[[papers:2014arXiv1405.7509H][2014arXiv1405.7509H-paper]]
+[[bib:2014arXiv1405.7509H][2014arXiv1405.7509H-bib]]
 *** Mean curvature flow of an entire graph evolving away from the heat flow
 :PROPERTIES:
 :Custom_ID: 2015arXiv151107985D
