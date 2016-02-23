@@ -2262,7 +2262,8 @@ Drinking "Sadlers", "Mud City Stout". Not bad. Reasonably smooth with a nice mel
 
 ***** Reading
 
-Little bit of Oliver Twist and The Little Drummer Girl while Lily used the Kindle (Oliver's on the Kindle). Most enjoyable.
+Little bit of Oliver Twist and The Little Drummer Girl while Lily used
+the Kindle (Oliver's on the Kindle). Most enjoyable.
 
 ***** Kids Reading
 
@@ -2270,13 +2271,22 @@ None tonight.
 
 ***** Teaching
 
-Didn't quite get as far in the lecture as I'd hoped. The pull-back bundle stuff should help them to sharpen their bundle knowledge.
+Didn't quite get as far in the lecture as I'd hoped. The pull-back
+bundle stuff should help them to sharpen their bundle knowledge.
 
-Just realised that I was supposed to have written my exam, with solutions and got my checker to finish their checking by tomorrow. I haven't even finished writing solutions yet! My checker is Peter Topping and I hope to get it to him on Monday. I hope I don't get in too much trouble.
+Just realised that I was supposed to have written my exam, with
+solutions and got my checker to finish their checking by tomorrow. I
+haven't even finished writing solutions yet! My checker is Peter
+Topping and I hope to get it to him on Monday. I hope I don't get in
+too much trouble.
 
 ***** Exercise
 
-Didn't even really do mobility today. Just little bits throughout the day. Got a good morning walk in which I'm going to count as mobility. I've decided that if I miss a BAD45 session, contrary to the recommendation in the manual, I'll skip it. That way I can keep the weekly schedule and I'm sure I'll get plenty of benefit anyway.
+Didn't even really do mobility today. Just little bits throughout the
+day. Got a good morning walk in which I'm going to count as
+mobility. I've decided that if I miss a BAD45 session, contrary to the
+recommendation in the manual, I'll skip it. That way I can keep the
+weekly schedule and I'm sure I'll get plenty of benefit anyway.
 
 ***** Social Networking
 
@@ -2292,7 +2302,8 @@ Wrote about Yong Wei's work on G_2 structures. Quite nice work.
 
 ***** Family
 
-Too much work, not enough family time. Kate's depressed about finding work. The kids played outside with the neighbours which is nice.
+Too much work, not enough family time. Kate's depressed about finding
+work. The kids played outside with the neighbours which is nice.
 
 ***** Shows
 
@@ -2300,7 +2311,8 @@ Some more LeCarre tonight.
 
 ***** Beer
 
-Tetley's can of beer. Kinda bland. I can't find a beer like a mild from a pub. I really like those.
+Tetley's can of beer. Kinda bland. I can't find a beer like a mild
+from a pub. I really like those.
 
 *** 2016-02-22 Monday
 **** Evening Thoughts
@@ -2332,3 +2344,43 @@ Kids started school today. Lily loved it. Remy thought it was okay. Remy made a 
 ***** Shows
 
 Time to start Tinker, Tailor by le Carre. I'm encoding them as small videos and copying them to the Kindle. I'm getting something watchable with 1/10th the original size!
+*** 2016-02-23 Tuesday
+**** Evening Thoughts
+     :LOGBOOK:
+     CLOCK: [2016-02-23 Tue 21:50]--[2016-02-23 Tue 21:58] =>  0:08
+     :END:
+[2016-02-23 Tue 21:50]
+
+***** Reading
+
+Closing in on Oliver Twist.
+***** Kids Reading
+
+None tonight.
+
+***** Teaching
+
+Final exam sent to Peter for checking. Then off to the external examiner. Will it be done in time? There's only three months!
+
+Wrote lectures on geodesics and exponential map. I have a much better understanding of how that works and the geodesic flow now :)
+
+***** Exercise
+
+Mobility today. BAD 45 was scheduled, but I'm having trouble finding a suitable time to do it.
+
+***** Family
+
+Kids are enjoying school. Remy finally can ride a bike! They did it at school and he had no training wheels, but after ten minutes or so apparently he was up and away!
+
+Lily taught us all about split diagraphs today. What a crazy thing to teach a six year old!
+
+***** Shows
+
+Smiley is brought out of retirement in Tinker, Tailor and is searching for the mole. Awesome.
+
+***** Beer
+
+Timothy Taylor's Boltmaker. Not too bad, but I haven't found any bottled beer that captures the pub taste. In Germany, a Hefeweizen from a bottle was still pretty darn good. And cheap! I shall keep a looking, and seek advice.
+***** Research
+
+This guy (Andrew?) one of Peter Topping's students finished up talking about Tian/Wang almost Einstein manifolds. I really don't feel enlightened about any of it. He's still learning, and it's a tough paper to describe, but he just didn't give any details and waved his hands a lot. One thing that came up is the following question asked by Peter: If \((M_i, g_i, x_i) \to (M, g, x)\) in Gromov-Hausdorff and the everything, including the limit is smooth and \(\phi_i\) is a sequence of PDE solutions (e.g. \Delta_{g_i} \phi_i = f\) such that \(\phi_i \to \phi\), is it necessarily true that \(\Delta \phi = f\)? Even better, what if \(\Delta_{g_i} = f_i\) and also \(f_i \to f\)? Then I wondered moreover, if the limit is not smooth, can we make a sensible definition, say of \(\Delta_g \phi = f\) as the limit? That is, if the limit is not smooth, and \(f_i \to f\) is it true that the solutions \(\phi_i\) must converge to some \(\phi\)? Is it unique? If so, then define that \(\phi\) to be the solution of \(\Delta \phi = f\). In cases, where the equation makes sense, does this technique produce the correct answer? Do I need linearity, quasi-linearity?
