@@ -2372,8 +2372,10 @@ https://www.wizards.com/dnd/dndnext.aspx
   :PROPERTIES:
   :ID:       204ad8e3-a00f-4da7-b2d6-deb5e370a2c6
   :END:
-** TODO plan weekly food					    :SOMEDAY:
+** CANCELLED plan weekly food 					    :SOMEDAY:
    :LOGBOOK:
+   - State "CANCELLED"  from "TODO"       [2016-02-24 Wed 09:50] \\
+     Probably not going to happen now, several years on without having done it!
    - State "DONE"       from "TODO"       [2015-02-11 Wed 20:51]
    - State "DONE"       from "TODO"       [2015-02-11 Wed 18:08]
    - State "DONE"       from "TODO"       [2014-12-17 Wed 10:22]
@@ -2381,9 +2383,8 @@ https://www.wizards.com/dnd/dndnext.aspx
    - State "DONE"       from "NEXT"       [2012-11-19 Mon 12:28]
    :PROPERTIES:
    :ID:       659b82d1-fff2-498c-afeb-3101030d6946
-   :LAST_REPEAT: [2015-02-11 Wed 20:51]
+   :LAST_REPEAT: [2016-02-24 Wed 09:50]
    :END:
-   TOBESCHEDULED: <2013-02-20 Wed +1w>
 
 * Friends and Family
   :PROPERTIES:
@@ -2837,7 +2838,8 @@ sip:pabryan@ekiga.net
 ** English
 *** Coventry 2016
 - mobile: +44 (0)740 200 3917
-- home: +44 (0)247 6470 604
+- home: +44 (0)24 7647 0604
+- work: +44 (0)24 7615 0772
 * Gov									:GOV:
   :PROPERTIES:
   :ID:       b0867386-74a0-4d6e-929f-5193b8bd0045
@@ -2864,9 +2866,12 @@ sip:pabryan@ekiga.net
 - Kate BRP: RE5433823
 - Paul BRP: RE9433768
 - Lily BRP: RE9433880
+- Remy BRP: REX433918
 * Computer
 ** Laptop
 - Model: dell inspiron 14z-n411z
+** English
+- Wifi: 545453d7c8
 * Music
 ** Bands
 *** OverDriver
