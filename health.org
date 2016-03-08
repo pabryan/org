@@ -18,8 +18,10 @@
     :LOGBOOK:
     - State "DONE"       from "NEXT"       [2016-03-02 Wed 18:42]
     - State "DONE"       from "NEXT"       [2016-03-01 Tue 20:06]
+    - State "DONE"       from "NEXT"       [2016-02-29 Mon 16:06]
     - State "DONE"       from "NEXT"       [2016-02-28 Sun 19:08]
     - State "DONE"       from "NEXT"       [2016-02-27 Sat 21:37]
+    - State "DONE"       from "NEXT"       [2016-02-25 Thu 14:21]
     - State "DONE"       from "NEXT"       [2016-02-24 Wed 17:21]
     - State "DONE"       from "NEXT"       [2015-07-05 Sun 19:31]
     - State "DONE"       from "NEXT"       [2015-06-28 Sun 18:37]
@@ -483,6 +485,7 @@
     - State "DONE"       from "NEXT"       [2016-02-29 Mon 09:49]
     - State "DONE"       from "NEXT"       [2016-02-28 Sun 18:04]
     - State "DONE"       from "NEXT"       [2016-02-27 Sat 09:06]
+    - State "DONE"       from "NEXT"       [2016-02-26 Fri 10:33]
     - State "DONE"       from "NEXT"       [2016-02-25 Thu 10:09]
     - State "DONE"       from "NEXT"       [2016-02-24 Wed 16:58]
     - State "DONE"       from "NEXT"       [2016-02-23 Tue 21:50]
@@ -1089,9 +1092,8 @@
     :END:
 
 *** NEXT Daily Release
-    SCHEDULED: <2016-02-29 Mon .+1d/2d>
+    SCHEDULED: <2016-02-28 Sun .+1d/2d>
     :LOGBOOK:
-    - State "DONE"       from "NEXT"       [2016-02-28 Sun 19:08]
     - State "DONE"       from "NEXT"       [2016-02-27 Sat 21:37]
     - State "DONE"       from "NEXT"       [2015-06-02 Tue 18:19]
     - State "DONE"       from "NEXT"       [2015-05-13 Wed 01:00]
@@ -1292,7 +1294,7 @@
     :STYLE:    habit
     :REPEAT_TO_STATE: NEXT
     :ID:       d439600f-c40d-4dd3-82ca-3e7d9e35f2b3
-    :LAST_REPEAT: [2016-02-28 Sun 19:08]
+    :LAST_REPEAT: [2016-02-27 Sat 21:37]
     :END:
   
 *** NEXT Handstand practice
@@ -1678,7 +1680,6 @@
     CLOCK: [2012-11-27 Tue 09:00]--[2012-11-27 Tue 09:30] =>  0:30
     CLOCK: [2012-11-19 Mon 08:38]--[2012-11-19 Tue 09:04] =>  0:26
     :END:
-
     :PROPERTIES:
     :STYLE:    habit
     :REPEAT_TO_STATE: NEXT
