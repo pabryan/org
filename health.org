@@ -8,14 +8,15 @@
 
 ** Tracking
 *** NEXT Exercise
-    SCHEDULED: <2016-03-03 Thu .+1d/2d>
+    SCHEDULED: <2016-03-14 Mon .+1d/2d>
     :PROPERTIES:
     :STYLE:    habit
     :REPEAT_TO_STATE: NEXT
     :ID:       8d56b2ef-1b49-4dc4-b701-1d021a293fa4
-    :LAST_REPEAT: [2016-03-02 Wed 18:42]
+    :LAST_REPEAT: [2016-03-13 Sun 17:56]
     :END:
     :LOGBOOK:
+    - State "DONE"       from "NEXT"       [2016-03-13 Sun 17:56]
     - State "DONE"       from "NEXT"       [2016-03-02 Wed 18:42]
     - State "DONE"       from "NEXT"       [2016-03-01 Tue 20:06]
     - State "DONE"       from "NEXT"       [2016-02-29 Mon 16:06]
@@ -472,14 +473,15 @@
     - State "DONE"       from "NEXT"       [2013-03-09 Sat 11:10]
     :END:
 *** NEXT Mobility
-    SCHEDULED: <2016-03-13 Sun .+1d/2d>
+    SCHEDULED: <2016-03-14 Mon .+1d/2d>
     :PROPERTIES:
     :STYLE:    habit
     :REPEAT_TO_STATE: NEXT
     :ID:       0e75f56d-0356-4a0f-a376-080471ad4aad
-    :LAST_REPEAT: [2016-03-12 Sat 16:55]
+    :LAST_REPEAT: [2016-03-13 Sun 13:52]
     :END:
     :LOGBOOK:
+    - State "DONE"       from "NEXT"       [2016-03-13 Sun 13:52]
     - State "DONE"       from "NEXT"       [2016-03-12 Sat 16:55]
     - State "DONE"       from "NEXT"       [2016-03-10 Thu 10:49]
     - State "DONE"       from "NEXT"       [2016-03-09 Wed 09:44]
@@ -1327,9 +1329,10 @@
     :ID:       f57232cd-a8f2-4a76-a507-4d69f765a521
     :END:
 *** NEXT Relax/Meditate
-    SCHEDULED: <2016-03-03 Thu .+1d/2d>
+    SCHEDULED: <2016-03-14 Mon .+1d/2d>
 
     :LOGBOOK:
+    - State "DONE"       from "NEXT"       [2016-03-13 Sun 17:56]
     - State "DONE"       from "NEXT"       [2016-03-02 Wed 18:42]
     - State "DONE"       from "NEXT"       [2016-03-01 Tue 20:06]
     - State "DONE"       from "NEXT"       [2016-02-28 Sun 18:04]
@@ -1634,7 +1637,7 @@
     :STYLE:    habit
     :REPEAT_TO_STATE: NEXT
     :ID:       c0aaf33a-af77-446b-b9fd-cf2d2f78c12a
-    :LAST_REPEAT: [2016-03-02 Wed 18:42]
+    :LAST_REPEAT: [2016-03-13 Sun 17:56]
     :END:
 
 ** Old Tracking
