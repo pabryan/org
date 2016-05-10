@@ -4493,11 +4493,12 @@ When I set up scoring the day:
 - [ ] Collate data such as sleep, weight, exercise, diet etc.
   
 ** TODO Daily Plan [0/9]
-   SCHEDULED: <2016-05-06 Fri .+1d/2d>
+   SCHEDULED: <2016-05-11 Wed .+1d/2d>
    :PROPERTIES:
-   :LAST_REPEAT: [2016-05-05 Thu 16:35]
+   :LAST_REPEAT: [2016-05-10 Tue 10:15]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "TODO"       [2016-05-10 Tue 10:15]
    - State "DONE"       from "NEXT"       [2016-05-05 Thu 16:35]
    - State "DONE"       from "NEXT"       [2016-03-02 Wed 18:42]
    - State "DONE"       from "NEXT"       [2016-03-01 Tue 20:06]
