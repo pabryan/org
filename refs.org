@@ -259,6 +259,14 @@
 :END:
 [[papers:MR684753][MR684753-paper]]
 [[bib:MR684753][MR684753-bib]]
+***  49J (1991-now) Existence theories
+**** 49J52 (1991-now) Nonsmooth analysis [See also 46G05, 58C50, 90C56] 
+***** Riemannian {R}icci curvature lower bounds in metric measure spaces with {$\sigma$}-finite measure
+      :PROPERTIES:
+      :Custom_ID: MR3335397
+      :END:
+ [[papers:MR3335397][MR3335397-paper]]
+ [[bib:MR3335397][MR3335397-bib]]
 *** 49L   (1991-now) Hamilton-Jacobi theories, including dynamic programming :hamilton_jacobi:dynamic_programming:
 **** 49L20   (1991-now) Dynamic programming method
 ***** Hamilton-{J}acobi equations and distance functions on {R}iemannian manifolds :geometry:manifolds:distance:riemannian:

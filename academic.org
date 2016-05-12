@@ -523,6 +523,8 @@ file:~/publish/decra_2015
 ** MathSciNet
 [[file:~/working/academic/journals/review/mathscinet]]
 *** Working
+
+*** Completed
 **** DONE Review MR3240531
     SCHEDULED: <2015-01-12 Mon> DEADLINE: <2015-02-06 Fri>
     :LOGBOOK:
@@ -533,7 +535,6 @@ file:~/publish/decra_2015
 [[file:refs.org::#MR3240531][Mean curvature type flow with perpendicular {N}eumann boundary condition inside a convex cone]]
 - [MR3240531 Guo, Fangcheng, Li, Guanghan\ and Wu, Chuanxi,  Mean curvature type flow with perpendicular Neumann boundary condition inside a convex cone, Abstr. Appl. Anal. 2014, Art. ID 315768, 7~pp.]
 
-*** Completed
 **** DONE Review [[http://www.ams.org/mresubs/download/3559e451969b72ee8/2921651.pdf][paper]]
      - State "DONE"       from "NEXT"       [2012-11-03 Sat 11:02]
      locally it's here [[docview:~/research_resources/papers/MR2921651.pdf::1][MR2921651]]
@@ -1222,966 +1223,6 @@ Try to use as much available software that I can find. Do it like Sage - don't r
   [[file:~/working/academic/research/]]
 ** Papers
 *** Working							      :FOCUS:
-**** TODO alpha CSF distance comparison	       :CSF_ALPHA:INPROGRESS:WRITING:
-   :LOGBOOK:
-   CLOCK: [2013-07-19 Fri 09:53]--[2013-07-19 Fri 09:55] =>  0:02
-   CLOCK: [2013-07-16 Tue 11:39]--[2013-07-16 Tue 11:40] =>  0:01
-   CLOCK: [2013-07-12 Fri 18:24]--[2013-07-12 Fri 18:25] =>  0:01
-   CLOCK: [2013-07-11 Thu 12:42]--[2013-07-11 Thu 12:44] =>  0:02
-   CLOCK: [2013-07-11 Thu 11:47]--[2013-07-11 Thu 11:54] =>  0:07
-   CLOCK: [2013-07-11 Thu 10:03]--[2013-07-11 Thu 10:04] =>  0:01
-   CLOCK: [2013-02-14 Thu 12:21]--[2013-02-14 Thu 12:29] =>  0:08
-   CLOCK: [2013-02-14 Thu 12:15]--[2013-02-14 Thu 12:21] =>  0:06
-   CLOCK: [2013-02-14 Thu 11:53]--[2013-02-14 Thu 12:05] =>  0:12
-   CLOCK: [2013-02-14 Thu 09:59]--[2013-02-14 Thu 10:44] =>  0:45
-   CLOCK: [2012-12-18 Tue 15:11]--[2012-12-18 Tue 15:12] =>  0:01
-   :END:
-   :PROPERTIES:
-   :ID:       82bbca25-be33-478e-9fc2-ee07aff558c7
-   :END:
-[[file:~/working/academic/research/alphacsf_dist_comp]]
-[[file:~/publish/alphacsf_dist_comp/alphacsf_dist_comp.pdf]]
-***** Tasks
-****** DONE Set up exact tasks
-       - State "DONE"       from "NEXT"       [2012-12-20 Thu 11:42]
-       :LOGBOOK:
-       CLOCK: [2012-12-20 Thu 11:40]--[2012-12-20 Thu 11:42] =>  0:02
-       :END:
-       :PROPERTIES:
-       :ID:       4f722f4b-5144-460f-99ed-df219865ff85
-       :END:
-****** TODO Normalised Flow
-       :LOGBOOK:
-       - State "TODO"       from "DONE"       [2015-04-18 Sat 12:42] \\
-	 Re-opened to add normalised flow for approximating flows.
-       - State "DONE"       from "TODO"       [2013-09-22 Sun 12:11]
-       :END:
-******* DONE Redo computation with correct normalised flow
-       	- State "DONE"       from "NEXT"       [2013-02-26 Tue 15:04]
-       	:LOGBOOK:
-       	CLOCK: [2013-02-26 Tue 13:46]--[2013-02-26 Tue 15:04] =>  1:18
-       	CLOCK: [2013-02-26 Tue 12:08]--[2013-02-26 Tue 13:10] =>  1:02
-       	CLOCK: [2013-02-26 Tue 11:35]--[2013-02-26 Tue 11:53] =>  0:18
-       	CLOCK: [2013-02-25 Mon 20:22]--[2013-02-25 Mon 21:15] =>  0:53
-       	CLOCK: [2013-02-25 Mon 13:25]--[2013-02-25 Mon 14:58] =>  1:33
-       	CLOCK: [2013-02-25 Mon 12:49]--[2013-02-25 Mon 13:17] =>  0:28
-       	CLOCK: [2013-02-25 Mon 11:31]--[2013-02-25 Mon 12:09] =>  0:38
-       	CLOCK: [2013-02-22 Fri 15:30]--[2013-02-22 Fri 16:05] =>  0:35
-       	CLOCK: [2013-02-21 Thu 14:04]--[2013-02-21 Thu 14:05] =>  0:01
-       	CLOCK: [2013-02-21 Thu 12:56]--[2013-02-21 Thu 13:57] =>  1:01
-       	:END:
-       	:PROPERTIES:
-       	:ID:       d012ffc5-cbec-4f58-8df9-91782762eb0d
-       	:END:
-******* DONE Work our normalised flow
-    :LOGBOOK:
-    CLOCK: [2013-02-20 Wed 13:55]--[2013-02-20 Wed 15:05] =>  1:10
-    :END:
-    - State "DONE"       from "NEXT"       [2013-02-20 Wed 07:26]
-    :PROPERTIES:
-    :ID:       b63d50df-619a-46e9-88f4-460accb55823
-    :END:
-My computations were for the un-normalised flow.
-******* DONE Work out normalised flow for general speeds
-       	- State "DONE"       from "NEXT"       [2013-07-16 Tue 11:39]
-       	:LOGBOOK:
-       	CLOCK: [2013-07-16 Tue 10:56]--[2013-07-16 Tue 11:39] =>  0:43
-       	CLOCK: [2013-07-15 Mon 14:45]--[2013-07-15 Mon 16:30] =>  1:45
-       	:END:
-******* NEXT Normalised flow for approximating flows
-****** DONE Variations
-       :LOGBOOK:
-       - State "DONE"       from "TODO"       [2013-09-22 Sun 12:11]
-       :END:
-******* DONE Transcribe variational argument from notebook
-       	- State "DONE"       from "NEXT"       [2012-12-19 Wed 11:20]
-       	:LOGBOOK:
-       	CLOCK: [2012-12-19 Wed 10:02]--[2012-12-19 Wed 11:19] =>  1:17
-       	CLOCK: [2012-12-18 Tue 18:10]--[2012-12-18 Tue 18:20] =>  0:10
-       	CLOCK: [2012-12-18 Tue 13:26]--[2012-12-18 Tue 15:11] =>  1:45
-       	CLOCK: [2012-12-18 Tue 12:10]--[2012-12-18 Tue 12:35] =>  0:25
-       	:END:
-       	:PROPERTIES:
-       	:ID:       e326f80a-7e84-497c-949e-c91f0c47581f
-       	:END:
-******* DONE Work out spectral argument
-       	- State "DONE"       from "TODO"       [2012-12-18 Tue 20:00]
-       	:LOGBOOK:
-       	CLOCK: [2012-12-18 Tue 18:20]--[2012-12-18 Tue 20:00] =>  1:40
-       	:END:
-******* DONE Rewrite more sophisticated variational argument
-    - State "DONE"       from "NEXT"       [2013-02-19 Tue 08:04]
-    :LOGBOOK:
-    CLOCK: [2013-02-18 Mon 20:57]--[2013-02-18 Mon 21:45] =>  0:48
-    CLOCK: [2013-02-18 Mon 14:02]--[2013-02-18 Mon 14:34] =>  0:32
-    CLOCK: [2013-02-15 Fri 10:35]--[2013-02-15 Fri 10:43] =>  0:08
-    CLOCK: [2013-02-15 Fri 10:33]--[2013-02-15 Fri 10:34] =>  0:01
-    :END:
-    :PROPERTIES:
-    :ID:       bd810aa6-d6aa-4b03-8fca-f4fa0f549cdd
-    :END: 
-This should not involve partial derivatives by tangent vectors to $S^1$ like in the CSF paper.
-******* DONE Write viscosity equation without specifying curvature integral bounds
-       - State "DONE"       from "NEXT"       [2013-07-11 Thu 11:47]
-       :LOGBOOK:
-       CLOCK: [2013-07-11 Thu 11:45]--[2013-07-11 Thu 11:47] =>  0:02
-       CLOCK: [2013-07-11 Thu 10:24]--[2013-07-11 Thu 11:12] =>  0:48
-       :END:
-It might be useful just to write the viscosity equation with the curvature bounds in the equation. Then we have a comparison whenever we can estimate the integral bounds.
-******* DONE Work out barrier inequality
-       - State "DONE"       from "NEXT"       [2013-07-19 Fri 12:39]
-       :LOGBOOK:
-       CLOCK: [2013-07-19 Fri 09:55]--[2013-07-19 Fri 10:15] =>  0:20
-       CLOCK: [2013-07-19 Fri 09:40]--[2013-07-19 Fri 09:49] =>  0:09
-       CLOCK: [2013-07-17 Wed 14:37]--[2013-07-17 Wed 15:33] =>  0:56
-       CLOCK: [2013-07-17 Wed 09:33]--[2013-07-17 Wed 10:51] =>  1:18
-       CLOCK: [2013-07-16 Tue 17:45]--[2013-07-16 Tue 18:20] =>  0:35
-       CLOCK: [2013-07-16 Tue 15:25]--[2013-07-16 Tue 16:00] =>  0:35
-       CLOCK: [2013-07-16 Tue 13:15]--[2013-07-16 Tue 13:51] =>  0:36
-       CLOCK: [2013-07-11 Thu 16:20]--[2013-07-11 Thu 17:11] =>  0:51
-       CLOCK: [2013-07-10 Wed 19:17]--[2013-07-10 Wed 21:28] =>  2:11
-       CLOCK: [2013-07-10 Wed 15:30]--[2013-07-10 Wed 16:00] =>  0:30
-       :END:
-       :PROPERTIES:
-       :ID:       7efb2712-f7fe-43c4-bc59-169056dbf63b
-       :END:
-- Is there something that can be deduced for optimal points/concavity by inequalities in the barrier sense? E.g. something like Bavard/Pansu and Sternberg/Zunbrum.
-- Note that $\chordarcprofile^2$ is not concave for $\sphere^1$. So it's not worth trying to show that $\chordarcprofile^2(x) + k_0 x^2$ is concave when $\curvecurv \geq k_0$.
-- It is true that convex curves have concave profiles however.
-- I should note that we don't have square concavity.
-- Is it true that convex curves have smooth profile?
-******* DONE Rewrite spatial viscosity using minimiser expressions
-       	- State "DONE"       from "NEXT"       [2013-07-19 Fri 16:53]
-       	:LOGBOOK:
-       	CLOCK: [2013-07-19 Fri 15:25]--[2013-07-19 Fri 16:53] =>  1:28
-       	:END:
-
-******* DONE Write as viscosity equation
-	- State "DONE"       from "NEXT"       [2013-07-10 Wed 19:17]
-	:LOGBOOK:
-	CLOCK: [2013-07-09 Tue 21:05]--[2013-07-09 Tue 21:25] =>  0:20
-	CLOCK: [2013-07-09 Tue 19:01]--[2013-07-09 Tue 20:06] =>  1:05
-	CLOCK: [2013-07-09 Tue 15:36]--[2013-07-09 Tue 17:09] =>  1:33
-	CLOCK: [2013-07-09 Tue 15:04]--[2013-07-09 Tue 15:31] =>  0:27
-	CLOCK: [2013-06-24 Mon 19:45]--[2013-06-24 Mon 20:25] =>  0:40
-	CLOCK: [2013-06-24 Mon 16:16]--[2013-06-24 Mon 17:06] =>  0:50
-	CLOCK: [2013-06-24 Mon 11:06]--[2013-06-24 Mon 11:42] =>  0:36
-	CLOCK: [2013-06-24 Mon 10:37]--[2013-06-24 Mon 11:02] =>  0:25
-	CLOCK: [2013-05-15 Wed 14:20]--[2013-05-15 Wed 14:50] =>  0:30
-	:END:
-	:PROPERTIES:
-	:ID:       aafcb944-6080-4da1-9b70-bbb51dd1bc97
-	:END:
-******* DONE Touch up temporal viscosity equation
-       - State "DONE"       from "NEXT"       [2013-07-11 Thu 10:03]
-       :LOGBOOK:
-       CLOCK: [2013-07-11 Thu 09:42]--[2013-07-11 Thu 10:03] =>  0:21
-       :END:
-Need to make it consistent with spatial viscosity bit.
-****** TODO Intro
-       :PROPERTIES:
-       :ID:       b836cc12-5928-4c32-883f-74c8cdb3af88
-       :END:
-******* DONE Write introduction
-       	- State "DONE"       from "NEXT"       [2013-02-21 Thu 12:56]
-       	:LOGBOOK:
-       	CLOCK: [2013-02-21 Thu 12:51]--[2013-02-21 Thu 12:56] =>  0:05
-       	CLOCK: [2013-02-21 Thu 11:55]--[2013-02-21 Thu 12:09] =>  0:14
-       	CLOCK: [2013-02-20 Wed 13:30]--[2013-02-20 Wed 13:54] =>  0:24
-       	CLOCK: [2013-02-19 Tue 16:36]--[2013-02-19 Tue 17:42] =>  1:06
-       	CLOCK: [2013-02-19 Tue 09:47]--[2013-02-19 Tue 10:05] =>  0:18
-       	CLOCK: [2013-02-19 Tue 09:29]--[2013-02-19 Tue 10:22] =>  0:53
-       	CLOCK: [2013-02-19 Tue 08:06]--[2013-02-19 Tue 08:38] =>  0:32
-       	:END:
-       	:PROPERTIES:
-       	:ID:       f830177c-d9ea-4120-82f6-d0af42487036
-       	:END:
-******* NEXT Put history in introduction
-       	:PROPERTIES:
-       	:ID:       fd104b00-d994-4de3-91b9-cdb9f2b02d15
-       	:END:
-******* NEXT Clean up intro
-- Give better visc. eqn (after Holder)
-- Clean up section refs
-****** DONE Max principle
-       :LOGBOOK:
-       - State "DONE"       from "TODO"       [2013-09-22 Sun 12:11]
-       :END:
-******* DONE Change max principle to $Z \geq 0$
-       	- State "DONE"       from "NEXT"       [2013-02-26 Tue 21:49]
-       	:LOGBOOK:
-       	CLOCK: [2013-02-26 Tue 21:02]--[2013-02-26 Tue 21:49] =>  0:47
-       	CLOCK: [2013-02-26 Tue 20:37]--[2013-02-26 Tue 20:43] =>  0:06
-       	CLOCK: [2013-02-26 Tue 19:25]--[2013-02-26 Tue 20:30] =>  1:05
-       	:END:
-       	:PROPERTIES:
-       	:ID:       76a2b612-5546-4a90-a96b-9acdc9d850b4
-       	:END:
-******* DONE Change max principle back to $Z$ improving!
-    - State "DONE"       from "NEXT"       [2013-02-27 Wed 14:34]
-    :LOGBOOK:
-    CLOCK: [2013-02-27 Wed 14:06]--[2013-02-27 Wed 14:34] =>  0:28
-    :END:
-    :PROPERTIES:
-    :ID:       ddad714e-5a0c-45cf-93b0-0d48d52807b2
-    :END:
-Provided $\tilde{Z}(0)\geq 0$ I think we can get improving, not just positivity!
-******* DONE Fix max principle arg
-       - State "DONE"       from "NEXT"       [2013-06-23 Sun 16:06]
-    :PROPERTIES:
-    :ID:       30a42f2c-b09b-4a15-bb7a-cd497710810a
-    :END:
-I need to take into account the fact that if $\tilde{Z}_{\epsilon}$ is not increasing, we need not have $Z_{\epsilon} = 0$ somewhere. Do we also necessarily have the correct variational inequalities? Maybe it's not true that it improves!
-******* DONE Make lemma with differentials at the minimiser
-       - State "DONE"       from "NEXT"       [2013-07-11 Thu 12:42]
-       :LOGBOOK:
-       CLOCK: [2013-07-11 Thu 11:54]--[2013-07-11 Thu 12:42] =>  0:48
-       :END:
-- Consequences of vanishing first variation in same lemma.
-******* DONE Write hessian of d at minimiser and eigenvectors of $M_{\pm}$
-       - State "DONE"       from "NEXT"       [2013-07-19 Fri 12:39]
-       - State "NEXT"       from "CANCELLED"  [2013-07-19 Fri 10:14] \\
-	 Gracious me! Indeed this *is* useful. I need the formula for variations of $d$ at the minimiser subject to the constraint that $\ell$ is fixed.
-       - State "CANCELLED"  from "NEXT"       [2013-07-19 Fri 09:53] \\
-	 Actually, I don't want this! Really what I want is the formulae for variations of $\chordarcprofile$ at the minimiser so it does go in the barrier inequality part.
-       :LOGBOOK:
-       CLOCK: [2013-07-19 Fri 10:15]--[2013-07-19 Fri 12:39] =>  2:24
-       CLOCK: [2013-07-19 Fri 09:49]--[2013-07-19 Fri 09:53] =>  0:04
-       :END:
-       - State "NEXT"       from "CANCELLED"  [2013-07-17 Wed 09:32] \\
-	 It may actually be useful after all. Mostly this is for the barrier inequality. 
-       - State "CANCELLED"  from "NEXT"       [2013-07-11 Thu 15:41] \\
-	 Not useful. We need the hessian of $Z$ at the minimiser which I've already got in the viscosity equation.
-       :PROPERTIES:
-       :ID:       2aa06efe-a96c-4ec0-9eb6-95373a35a5c6
-       :END:
-- Write expression for $D^2 d$
-- Get eigenvalues of $M_{\pm}$ and derive null eigenvector identity
-- Write expression for variations and also variations at the minimiser.
-
-******* DONE Mention somewhere that $p_0\ne q_0$ since $\ell \ne 0$.
-       	- State "DONE"       from "NEXT"       [2013-07-11 Thu 11:55]
-****** DONE Comparison
-       :PROPERTIES:
-       - State "DONE"       from "TODO"       [2015-03-03 Tue 20:27]
-       :ID:       d7f698be-6d12-48db-8118-68ba114b1f73
-       :END:
-******* DONE Change to concave comparison.
-    - State "DONE"       from "NEXT"       [2013-02-27 Wed 10:41]
-    :LOGBOOK:
-    CLOCK: [2013-02-27 Wed 10:07]--[2013-02-27 Wed 10:41] =>  0:34
-    CLOCK: [2013-02-27 Wed 08:20]--[2013-02-27 Wed 08:54] =>  0:34
-    :END:
-    :PROPERTIES:
-    :ID:       8fc84005-747c-4a3e-addb-cfdc8f0ed2a3
-    :END:
-Probably also need concave comparison functions. This should rule out $\tang_p = \tang_q$.
-******* DONE Email Ben about integral estimate and model solutions
-       	- State "DONE"       from "NEXT"       [2013-02-21 Thu 11:49]
-       	:LOGBOOK:
-       	CLOCK: [2013-02-21 Thu 11:44]--[2013-02-21 Thu 11:49] =>  0:05
-       	:END:
-       	:PROPERTIES:
-       	:ID:       5cf57941-4d6b-47ca-9ed3-72ed629e304e
-       	:END:
-******* DONE Estimate integrals by Holder
-	 SCHEDULED: <2014-04-02 Wed>
-
-    :LOGBOOK:
-    - State "DONE"       from "NEXT"       [2014-04-18 Fri 19:04]
-    CLOCK: [2014-04-18 Fri 12:39]--[2014-04-18 Fri 12:40] =>  0:01
-    CLOCK: [2014-04-18 Fri 11:09]--[2014-04-18 Fri 12:38] =>  1:29
-    CLOCK: [2014-04-10 Thu 10:38]--[2014-04-10 Thu 11:42] =>  1:04
-    - State "NEXT"       from "DONE"       [2014-04-01 Tue 20:33] \\
-      It's still not written up.
-    - State "DONE"       from "NEXT"       [2013-05-15 Wed 16:14]
-    CLOCK: [2013-02-27 Wed 14:34]--[2013-02-27 Wed 15:24] =>  0:50
-    CLOCK: [2012-12-21 Fri 13:30]--[2012-12-21 Fri 15:32] =>  2:02
-    CLOCK: [2012-12-21 Fri 11:02]--[2012-12-21 Fri 11:51] =>  0:49
-    CLOCK: [2012-12-20 Thu 21:14]--[2012-12-20 Thu 21:46] =>  0:32
-    CLOCK: [2012-12-20 Thu 18:45]--[2012-12-20 Thu 21:07] =>  2:22
-    CLOCK: [2012-12-20 Thu 15:22]--[2012-12-20 Thu 18:07] =>  2:45
-    CLOCK: [2012-12-20 Thu 11:42]--[2012-12-20 Thu 12:05] =>  0:23
-    :END:
-    :PROPERTIES:
-    :ID:       2d45cee3-0bf7-482b-a10e-9caca013f87e
-    :END:
-This requires an estimate of $\int k f(k)$ analogous to Holder's for CSF where $f(k)=k$.
-
-******* CANCELLED Investigate whether Holder may be used for homogeneous functions
-	:LOGBOOK:
-	- State "CANCELLED"  from "NEXT"       [2014-04-18 Fri 19:04] \\
-	  Not needed.
-	:END:
-- I want something like $\int f(k)k \geq (\int g(k))^{\alpha+1}/l^{\alpha}$ where $f$ is homogeneous of degree $\alpha$, and $g$ is homogeneous of degree $1$.
-******* CANCELLED Estimate integrals by Angenent
-	:LOGBOOK:
-	- State "CANCELLED"  from "NEXT"       [2015-03-03 Tue 18:15] \\
-	  Looks like it won't work!
-	CLOCK: [2014-06-14 Sat 13:44]--[2014-06-14 Sat 13:58] =>  0:14
-	CLOCK: [2014-06-14 Sat 10:54]--[2014-06-14 Sat 13:01] =>  2:07
-	CLOCK: [2014-04-18 Fri 19:18]--[2014-04-18 Fri 19:53] =>  0:35
-	CLOCK: [2014-04-18 Fri 18:40]--[2014-04-18 Fri 19:14] =>  0:34
-	:END:
-******* DONE Find comparison solutions
-	:LOGBOOK:
-	- State "DONE"       from "TODO"       [2015-03-03 Tue 20:27]
-	:END:
-       	:PROPERTIES:
-       	:ID:       9c3e45f9-6c61-48b8-b0e1-eaae4fd6514b
-       	:END:
-******** DONE Try similarity soln as in CSF case
-	:LOGBOOK:
-	- State "DONE"       from "NEXT"       [2015-03-03 Tue 20:26]
-	CLOCK: [2015-03-03 Tue 18:15]--[2015-03-03 Tue 19:10] =>  0:55
-	CLOCK: [2015-02-27 Fri 11:10]--[2015-02-27 Fri 11:25] =>  0:15
-	CLOCK: [2015-02-26 Thu 21:26]--[2015-02-26 Thu 21:55] =>  0:29
-	CLOCK: [2015-02-26 Thu 16:43]--[2015-02-26 Thu 17:59] =>  1:16
-	CLOCK: [2015-02-26 Thu 14:04]--[2015-02-26 Thu 14:47] =>  0:43
-	CLOCK: [2015-02-26 Thu 12:10]--[2015-02-26 Thu 13:28] =>  1:18
-	CLOCK: [2015-01-13 Tue 18:05]--[2015-01-13 Tue 19:50] =>  1:45
-	CLOCK: [2015-01-13 Tue 17:15]--[2015-01-13 Tue 17:30] =>  0:15
-	CLOCK: [2014-06-13 Fri 18:48]--[2014-06-13 Fri 20:10] =>  1:22
-	CLOCK: [2014-06-13 Fri 16:05]--[2014-06-13 Fri 17:15] =>  1:10
-	CLOCK: [2014-06-13 Fri 11:32]--[2014-06-13 Fri 13:04] =>  1:32
-	CLOCK: [2014-06-12 Thu 19:21]--[2014-06-12 Thu 22:00] =>  2:39
-	CLOCK: [2014-04-09 Wed 14:00]--[2014-04-09 Wed 16:10] =>  2:10
-	CLOCK: [2013-07-22 Mon 19:30]--[2013-07-22 Mon 20:30] =>  1:00
-	CLOCK: [2013-07-20 Sat 18:40]--[2013-07-20 Sat 21:05] =>  2:25
-	CLOCK: [2013-07-20 Sat 14:50]--[2013-07-20 Sat 17:45] =>  2:55
-	CLOCK: [2013-07-20 Sat 09:50]--[2013-07-20 Sat 11:40] =>  1:50
-	:END:
-        :PROPERTIES:
-	:ID:       e33f844d-a7a7-406b-bf25-002f515cb649
-	:END:
-There is a remark by Ben that our function comes from seeking a similarity solution. Does this work for general $f$?
-******** CANCELLED Angenent comparison of curvature integrals
-	 :LOGBOOK:
-	 - State "CANCELLED"  from "TODO"       [2015-03-03 Tue 18:15] \\
-	   Looks like it won't work!
-	 :END:
-	 :PROPERTIES:
-	 :ID:       5545cf87-d1a5-4ed8-bdba-e11495732909
-	 :END:
-********* CANCELLED Write up convex comparison
-	  :LOGBOOK:
-	  - State "CANCELLED"  from "NEXT"       [2015-03-03 Tue 18:15] \\
-	    Looks like it won't work!
-	  :END:
-	 :PROPERTIES:
-	 :ID:       a8e2e0d7-14d9-4704-ab19-708177f1e7cb
-	 :END:
-- Ben has this for convex curves
-********* CANCELLED Examine comparison with convex hull
-	  :LOGBOOK:
-	  - State "CANCELLED"  from "NEXT"       [2015-03-03 Tue 18:15] \\
-	    Looks like it won't work!
-	  :END:
-	 :PROPERTIES:
-	 :ID:       de6f2aa9-4db0-4bcf-b8ed-1a2ffc3e58f5
-	 :END:
-- Does the convex hull have better integrals of curvature?
-******** DONE Prove maximum principle
-	 :LOGBOOK:
-	 - State "DONE"       from "NEXT"       [2015-03-03 Tue 20:27]
-	 CLOCK: [2014-03-21 Fri 13:55]--[2014-03-21 Fri 16:06] =>  2:11
-	 :END:
-- if we have initial inequality of isoprofiles, this is preserved under the flow.
-****** TODO Short time existence
-******* NEXT Get rough idea
-******* DONE Compute symbol
-	:LOGBOOK:
-	- State "DONE"       from "NEXT"       [2015-04-18 Sat 11:45]
-	CLOCK: [2015-04-16 Thu 21:00]--[2015-04-16 Thu 23:40] =>  2:40
-	:END:
-******* DONE Write up outline of approximating flows
-	:LOGBOOK:
-	- State "DONE"       from "NEXT"       [2015-04-18 Sat 12:40]
-	CLOCK: [2015-04-18 Sat 11:45]--[2015-04-18 Sat 12:40] =>  0:55
-	:END:
-******* NEXT Estimates for approximating flow
-****** TODO Editing
-       :PROPERTIES:
-       :ID:       61f17103-1796-4baf-a0a5-233056956351
-       :END:
-******* DONE Clean up text
-       	- State "DONE"       from "NEXT"       [2013-06-23 Sun 16:06]
-       	:LOGBOOK:
-       	CLOCK: [2013-03-27 Wed 11:18]--[2013-03-27 Wed 12:08] =>  0:50
-       	CLOCK: [2013-03-27 Wed 10:33]--[2013-03-27 Wed 11:03] =>  0:30
-       	CLOCK: [2013-03-06 Wed 21:05]--[2013-03-06 Wed 21:32] =>  0:27
-       	CLOCK: [2013-03-06 Wed 20:30]--[2013-03-06 Wed 20:56] =>  0:26
-       	:END:
-       	:PROPERTIES:
-       	:ID:       82f38b9b-cfa1-4312-bbec-ef8a1c8afd17
-       	:END:
-******* DONE Add a section on chord/arc-profile
-       	- State "DONE"       from "NEXT"       [2013-07-10 Wed 19:18]
-       	:LOGBOOK:
-       	CLOCK: [2013-07-10 Wed 13:13]--[2013-07-10 Wed 14:28] =>  1:15
-       	CLOCK: [2013-07-10 Wed 12:17]--[2013-07-10 Wed 12:32] =>  0:15
-       	CLOCK: [2013-07-10 Wed 11:39]--[2013-07-10 Wed 12:11] =>  0:32
-       	CLOCK: [2013-07-10 Wed 10:54]--[2013-07-10 Wed 11:32] =>  0:38
-       	:END:
-       	:PROPERTIES:
-       	:ID:       cc7a64a2-bc18-4f6b-a239-289231e67efe
-       	:END:
-******* DONE Fix up spatial viscosity equation.
-       	- State "DONE"       from "NEXT"       [2013-07-12 Fri 16:59]
-       	:LOGBOOK:
-       	CLOCK: [2013-07-12 Fri 15:37]--[2013-07-12 Fri 16:59] =>  1:22
-       	:END:
-******* DONE Clean up text
-       - State "DONE"       from "NEXT"       [2013-07-19 Fri 12:40]
-       :LOGBOOK:
-       CLOCK: [2013-07-16 Tue 10:40]--[2013-07-16 Tue 10:56] =>  0:16
-       CLOCK: [2013-07-12 Fri 18:25]--[2013-07-12 Fri 18:30] =>  0:05
-       CLOCK: [2013-07-12 Fri 17:08]--[2013-07-12 Fri 18:02] =>  0:54
-       CLOCK: [2013-07-12 Fri 09:55]--[2013-07-12 Fri 11:20] =>  1:25
-       CLOCK: [2013-07-11 Thu 15:49]--[2013-07-11 Thu 16:20] =>  0:31
-       :END:
-       :PROPERTIES:
-       :ID:       651bc412-e74b-4e34-ac52-03e954904dd5
-       :END:
-A few typos and what not came in after rearranging
-******* DONE Define indicator functions
-       - State "DONE"       from "NEXT"       [2013-07-12 Fri 18:24]
-       :LOGBOOK:
-       CLOCK: [2013-07-12 Fri 18:02]--[2013-07-12 Fri 18:24] =>  0:22
-       :END:
-Let $\xi(p_0, q_0) = 0$ if $\tang_{p_0}=\tang_{q_0}$ and $1$ otherwise. Then I can write one viscosity equation.
-
-******* NEXT Proof reading
-	:LOGBOOK:
-	CLOCK: [2014-06-27 Fri 17:35]--[2014-06-27 Fri 18:14] =>  0:39
-	CLOCK: [2014-06-11 Wed 12:12]--[2014-06-11 Wed 12:57] =>  0:45
-	CLOCK: [2014-06-10 Tue 18:57]--[2014-06-10 Tue 20:03] =>  1:06
-	CLOCK: [2014-04-19 Sat 12:50]--[2014-04-19 Sat 14:09] =>  1:19
-	CLOCK: [2014-02-12 Wed 15:16]--[2014-02-12 Wed 15:40] =>  0:24
-	CLOCK: [2014-02-12 Wed 13:37]--[2014-02-12 Wed 14:01] =>  0:24
-	:END:
-******* TODO Produce first draft
-******* TODO Produce final version
-
-	:PROPERTIES:
-	:ID:       f1d7910c-9c30-42b9-8cb4-4adddf861112
-	:END:
-******* TODO Submit to journal
-****** DONE Refs
-       :LOGBOOK:
-       - State "DONE"       from "TODO"       [2013-09-22 Sun 12:11]
-       :END:
-******* DONE Find references for previous work
-       	- State "DONE"       from "NEXT"       [2013-06-23 Sun 16:06]
-       	:LOGBOOK:
-       	CLOCK: [2013-03-28 Thu 09:23]--[2013-03-28 Thu 10:43] =>  1:20
-       	CLOCK: [2013-03-27 Wed 20:22]--[2013-03-27 Wed 21:09] =>  0:47
-       	CLOCK: [2013-03-27 Wed 17:08]--[2013-03-27 Wed 17:47] =>  0:39
-       	CLOCK: [2013-03-27 Wed 15:58]--[2013-03-27 Wed 16:32] =>  0:34
-       	CLOCK: [2013-03-27 Wed 15:12]--[2013-03-27 Wed 15:49] =>  0:37
-       	CLOCK: [2013-03-27 Wed 10:22]--[2013-03-27 Wed 10:28] =>  0:06
-       	:END:
-       	:PROPERTIES:
-       	:ID:       261f30d2-0431-484a-bfaa-ee318fdb682d
-       	:END:
-****** DONE Asymptotics
-       :LOGBOOK:
-       - State "DONE"       from "TODO"       [2015-03-03 Tue 20:26]
-       :END:
-       :PROPERTIES:
-       :ID:       0d285730-a2e7-4078-9d68-f4408c36d5e1
-       :END:
-******* DONE Write asymptotics
-       :LOGBOOK:
-       - State "DONE"       from "NEXT"       [2014-06-27 Fri 19:02]
-       CLOCK: [2013-12-09 Mon 10:00]--[2013-12-09 Mon 11:30] =>  1:30
-       CLOCK: [2013-12-08 Sun 20:15]--[2013-12-08 Sun 20:52] =>  0:37
-       CLOCK: [2013-12-08 Sun 15:10]--[2013-12-08 Sun 15:23] =>  0:13
-       CLOCK: [2013-08-02 Fri 14:15]--[2013-08-02 Fri 16:25] =>  2:10
-       CLOCK: [2013-08-02 Fri 12:50]--[2013-08-02 Fri 13:25] =>  0:35
-       CLOCK: [2013-07-26 Fri 14:30]--[2013-07-26 Fri 18:00] =>  3:30
-       CLOCK: [2013-07-13 Sat 10:36]--[2013-07-13 Sat 12:12] =>  1:36
-       CLOCK: [2013-07-12 Fri 11:20]--[2013-07-12 Fri 11:39] =>  0:19
-       :END:
-       :PROPERTIES:
-       :ID:       21c4ab7e-6891-48d6-b551-9932702a3a3a
-       :END:
-******* DONE Get lower bound asymptotics
-	:LOGBOOK:
-	- State "DONE"       from "WAITING"    [2015-03-03 Tue 20:26]
-	- State "WAITING"    from "NEXT"       [2014-07-12 Sat 10:16] \\
-	  Sent to Ben to check my work.
-	CLOCK: [2014-07-12 Sat 09:15]--[2014-07-12 Sat 10:16] =>  1:01
-	CLOCK: [2014-07-10 Thu 20:55]--[2014-07-10 Thu 22:26] =>  1:31
-	CLOCK: [2014-07-10 Thu 18:34]--[2014-07-10 Thu 19:46] =>  1:12
-	CLOCK: [2014-07-08 Tue 20:42]--[2014-07-08 Tue 21:18] =>  0:36
-	CLOCK: [2014-07-08 Tue 11:55]--[2014-07-08 Tue 12:28] =>  0:33
-	CLOCK: [2014-06-27 Fri 18:55]--[2014-06-27 Fri 19:30] =>  0:35
-	CLOCK: [2013-12-08 Sun 13:10]--[2013-12-08 Sun 15:10] =>  2:00
-	:END:
-	:PROPERTIES:
-	:ID:       764df61c-d8f8-48f8-a4fe-f66d7138f116
-	:END:
-- Need to get lower bound
-
-***** Notes
-MR2225802 gives conditions for when non-trivial self-similar solutions exist.
-****** Optimal chord/arc profile
-Suppose $\bar\gamma$ is a (convex, symmetric in both axes, 4-vertex) `reference curve', i.e. $\bar\gamma = \{(x,u(x)),(x,-u(x)):\ -a\leq x\leq a\}$ where $u$ is concave and even, and the curvature $\bar\kappa$ is increasing on $(0,a)$.  Suppose further that $\bar\kappa^{\alpha}$ is a convex function on $(-a,a)$ (i.e. with respect to $x$, not arc length).
-
-Suppose $\gamma$ is any other (convex, symmetric in both axes, 4-vertex (?)) curve, with chord-arc profile bounded below by that of $\bar\gamma$, and such that there is some interval on which equality is attained in this comparison, i.e. this is a subinterval of $\gamma$ of length $\ell$, and distance between endpoints $d$, and the arc of $\bar\gamma$ of length $\ell$ with minimal distance between endpoints also has this equal to $d$.   I think we can argue that the arc where this happens on the reference curve is symmetric (i.e. the points on the curve with $x\geq b$ for some $b$), and that after suitable translation and rotation the arc on $\gamma$ can be made to have endpoints coinciding and tangent directions at the endpoints also coinciding with the `reference' interval.  I think we can arrange (by symmetry of $\gamma$) that the interval of $\gamma$ is also symmetric after this rotation.
-
-Then the integral of $|\kappa|^{1+\alpha}$ on this interval of $\gamma$ is no less than that on this interval of $\bar\gamma$.
-
-Proof:  Let $y$ be the vertical component of position, parametrised on $[-\ell/2,\ell/2]$ by arc length.  By symmetry this is odd (for both curves).
-
-Lemma:  $y\geq \bar y$.
-
-This follows since by symmetry $y(s)-y(-s)$ is the distance between the endpoints of the curve on the interval $(-s/2,s/2)$ which by the chord-arc comparison must be no less than the distance between the endpoints of the reference curve.  We need to use the fact that the optimal intervals of the reference curve are these symmetric ones.
-
-Lemma:  $f(r,p) = |r|^{1+\alpha}/(1-p^2)^{(1+\alpha)/2}$ is convex in $\{(r,p):\ -1\leq p\leq p\}$ if $\alpha\geq 1$.
-
-Proof:  Direct computation of the Hessian.
-
-Now observe:
-$$
-E = \int |\kappa|^{1+\alpha} ds = \int (|y''|/\sqrt{1-(y')^2})^{1+\alpha} ds = \int f(y'',y') ds.
-$$
-similarly
-$$
-\bar E = \int f(\bar y'',\bar y') ds.
-$$
-Therefore by convexity we have
-$$
-E = \int f(y'',y') ds
-\geq \int f(\bar y'',\bar y') + Df_{\bar y'',\bar y'}((y-\bar y)'',(y-\bar y)') ds
-= \bar E + (1+\alpha)\int (d/dx)^2(\bar k)^\alpha (y-\bar y) ds
-$$
-where the last step is a direct computation which uses integration by parts plus change of variable from $s$ to $x$.  Since $y\geq \bar y$, we have $E\geq \bar E$.
-
-This proves the inequality we need.  The remaining problem is to remove the symmetry, etc. assumptions on $\gamma$.  The only place they are used at the moment is in deducing the inequality $y\geq \bar y$, and it might well be true that this might be true after symmetrising $y$ in the general case, if we use the chord-arc comparison some other way.
-***** References
-      :PROPERTIES:
-      :ID:       6d4bab87-97ba-49b2-9aeb-2db4c0bb40e2
-      :END:
-[[file:refs.org::#MR2668967][Singularity formation of embedded curves evolving on surfaces by curvature flow]]
-[[file:refs.org::#MR1949167][Classification of limiting shapes for isotropic curve flows]]
-[[file:refs.org::#MR1665677][The affine curve-lengthening flow]]
-[[file:refs.org::#MR2843240][A comparison theorem for the isoperimetric profile under curve-shortening flow]]
-[[file:refs.org::#MR1656553][A distance comparison principle for evolving curves]]
-[[file:refs.org::*Curve%20shortening%20makes%20convex%20curves%20circular][Curve shortening makes convex curves circular]]
-[[file:refs.org::*An%20isoperimetric%20inequality%20with%20applications%20to%20curve%20shortening][An isoperimetric inequality with applications to curve shortening]]
-[[file:refs.org::*Isoperimetric%20estimates%20for%20the%20curve%20shrinking%20flow%20in%20the%20plane][Isoperimetric estimates for the curve shrinking flow in the plane]]
-[[file:refs.org::#MR1255274][On affine plane curve evolution]]
-[[file:refs.org::#MR1424425][Contraction of convex hypersurfaces by their affine normal]]
-[[file:refs.org::#MR1902649][Singularities in crystalline curvature flows]]
-[[file:refs.org::#MR2946930][Contracting convex immersed closed plane curves with slow speed of curvature]]
-***** Meetings
-****** Ben Andrews
-       :LOGBOOK:
-       CLOCK: [2015-02-03 Tue 17:15]--[2015-02-03 Tue 18:30] =>  1:15
-       :END:
-<2015-02-03 Tue 17:00-18:30>
-**** TODO Ancient solutions on spheres :FLOWS:SPHERE:ANCIENT:INPROGRESS:WRITING:
-[[file:~/working/academic/research/ancient_flows_spheres]]
-***** Tasks
-****** TODO Set up project
-       :LOGBOOK:
-       CLOCK: [2014-10-30 Thu 08:48]--[2014-10-30 Thu 08:53] =>  0:05
-       :END:
-******* DONE Create repository
-	:LOGBOOK:
-	- State "DONE"       from "NEXT"       [2015-01-13 Tue 11:55]
-	:END:
-******* DONE Create org file
-	:LOGBOOK:
-	- State "DONE"       from "NEXT"       [2015-01-13 Tue 11:55]
-	:END:
-******* DONE Create publishing
-	:LOGBOOK:
-	- State "DONE"       from "NEXT"       [2015-01-13 Tue 11:55]
-	:END:
-******* DONE Create tasks
-	 SCHEDULED: <2014-10-18 Sat>
-	 :LOGBOOK:
-	 - State "DONE"       from "NEXT"       [2014-10-30 Thu 08:48]
-	 CLOCK: [2014-10-30 Thu 08:37]--[2014-10-30 Thu 08:48] =>  0:11
-	 :END:
-****** TODO Write paper
-******* NEXT Create outline
-	:LOGBOOK:
-	CLOCK: [2015-05-26 Tue 14:28]--[2015-05-26 Tue 14:55] =>  0:27
-	:END:
-******* NEXT Solition equations
-	:LOGBOOK:
-	CLOCK: [2015-05-26 Tue 15:10]--[2015-05-26 Tue 16:40] =>  1:30
-	:END:
-******* TODO Harnack
-******* TODO Curvature goes to 0
-******** NEXT $\int F(A) \to 0$
-	 :LOGBOOK:
-	 CLOCK: [2015-01-13 Tue 11:55]--[2015-01-13 Tue 12:36] =>  0:41
-	 :END:
-******** TODO Length of backwards flowing point is finite
-******* TODO smooth backwards convergence to equator
-******* NEXT Aleksandrov reflection
-	:LOGBOOK:
-	CLOCK: [2015-06-08 Mon 19:23]--[2015-06-08 Mon 20:40] =>  1:17
-	CLOCK: [2015-06-08 Mon 10:18]--[2015-06-08 Mon 12:59] =>  2:41
-	:END:
-****** TODO Mathematics
-******* TODO 2ff goes to zero
-******** NEXT Show $\int F(A) \to 0$
-	 :LOGBOOK:
-	 CLOCK: [2015-01-08 Thu 21:03]--[2015-01-08 Thu 21:25] =>  0:22
-	 CLOCK: [2015-01-08 Thu 19:45]--[2015-01-08 Thu 20:34] =>  0:49
-	 CLOCK: [2015-01-08 Thu 13:13]--[2015-01-08 Thu 14:27] =>  1:14
-	 :END:
-- maybe by evolution of $\int F(A)$
-- Maybe by calculating the evolution of $\int_{M_t} F(A)$ I can show that necessarily it goes to zero. Then add the Harnack inequality to get curvature and derivative bounds to get pointwise convergence.
-******** NEXT Show $\int_t^{-\infty} F(A(x,t)) < \infty$ for each $x$
-	 :LOGBOOK:
-	 CLOCK: [2015-01-08 Thu 12:55]--[2015-01-08 Thu 13:13] =>  0:20
-	 CLOCK: [2015-01-08 Thu 11:33]--[2015-01-08 Thu 12:22] =>  0:49
-	 :END:
-- this is the length of the path traced out by a point as $t\to-\infty$. Since the flow is convex by increasing sets (as $t \to -\infty$) but bounded in a hemisphere, the length surely cannot be $\infty$. Therefore $F(A(x,t) \to 0$ as $t \to -\infty$.
-- Fix a point $x$ say at time $t=1$. Then the length of the curve $\gamma(x, t)$ from $t=-1$ to $-\infty$ is $\int_{-\infty}^1 F(A(x, t)) dt$. Since the hypersurfaces bound an increasing nested set of domains bounded by a hemisphere, and by convexity, surely the path must have finite length which implies $F(A)$ goes to $0$.
-******* TODO Harnack
-See [[*Convexity%20in%20space%20forms][Convexity in space forms]] and Urbas' and Andrews' argument
-******** NEXT Compute evolution of support function
-	 :LOGBOOK:
-	 CLOCK: [2015-01-20 Tue 10:00]--[2015-01-20 Tue 10:17] =>  0:17
-	 :END:
-******** NEXT Compute laplacian of support function
-******* TODO Backwards convergence
-******* TODO Aleksandrov reflection
-***** Notes
-****** TODO Check out Killing graphs preserved
-       SCHEDULED: <2016-04-17 Sun>
-Not sure where this comes from? Is it Hamilton? Is it from free boundary problems? Perhaps it's from MR3240531?
-***** Refs
-***** Meetings
-****** Ben Chow
-       :LOGBOOK:
-       CLOCK: [2015-01-14 Wed 11:16]--[2015-01-14 Wed 12:07] =>  0:51
-       :END:
-<2015-01-14 Wed 11:15-12:30>
-**** TODO Convexity in space forms	:CONVEX:SPACEFORM:INPROGRESS:WRITING:
-***** Files
-[[file:~/working/academic/research/convexity_space_forms]]
-***** Refs
-****** Spherical geometry
-[[notes:MR2049442][MR2049442-notes]]
-[[notes:2014arXiv1411.7664B][2014arXiv1411.7664B-notes]]
-[[notes:2013arXiv1308.1607G][2013arXiv1308.1607G-notes]]
-****** MCF solitons/Space-time minimal surfaces
-[[notes:MR1856176][MR1856176-notes]]
-[[notes:MR1855161][MR1855161-notes]]
-[[notes:MR3066400][MR3066400-notes]]
-[[notes:MR2888198][MR2888198-notes]]
-[[notes:MR1480081][MR1480081-notes]]
-[[notes:2014arXiv1404.6703M][2014arXiv1404.6703M-notes]]
-***** Notes
-***** Tasks
-****** TODO Admin
-       :LOGBOOK:
-       CLOCK: [2014-10-16 Thu 18:04]--[2014-10-16 Thu 18:05] =>  0:01
-       :END:
-******* DONE Create org structure
-	:LOGBOOK:
-	- State "DONE"       from "NEXT"       [2014-10-16 Thu 18:04]
-	CLOCK: [2014-10-16 Thu 17:52]--[2014-10-16 Thu 18:04] =>  0:12
-	:END:
-******* NEXT Create tasks
-	:LOGBOOK:
-	CLOCK: [2014-11-20 Thu 11:17]--[2014-11-20 Thu 11:32] =>  0:15
-	:END:
-****** TODO Mathematics
-******* TODO Basic convexity
-******** NEXT Work out precise definitions
-	 :LOGBOOK:
-	 CLOCK: [2014-11-20 Thu 11:32]--[2014-11-20 Thu 12:15] =>  0:43
-	 :END:
-******** NEXT Lies on one side of tangent equator
-******** NEXT Positive curvature
-******** NEXT Graph over the equator
-******** NEXT Gauss map
-******* TODO Position vector field
-	:LOGBOOK:
-	CLOCK: [2015-05-15 Fri 11:41]--[2015-05-15 Fri 11:43] =>  0:02
-	:END:
-******** DONE Compute conformality of position vector field
-	 :LOGBOOK:
-	 - State "DONE"       from "NEXT"       [2015-05-15 Fri 11:41]
-	 CLOCK: [2015-05-15 Fri 11:04]--[2015-05-15 Fri 11:41] =>  0:37
-	 CLOCK: [2015-05-15 Fri 10:41]--[2015-05-15 Fri 10:53] =>  0:12
-	 CLOCK: [2015-05-15 Fri 10:39]--[2015-05-15 Fri 10:40] =>  0:01
-	 :END:
-******* TODO Support function
-******** NEXT Make sure of precise definition
-	 :LOGBOOK:
-	 CLOCK: [2014-12-04 Thu 13:42]--[2014-12-04 Thu 14:30] =>  0:48
-	 :END:
-******** NEXT Parameterize by support function
-	 :LOGBOOK:
-	 CLOCK: [2014-10-16 Thu 13:00]--[2014-10-16 Thu 13:30] =>  0:30
-	 CLOCK: [2014-10-16 Thu 09:30]--[2014-10-16 Thu 12:00] =>  2:30
-	 :END:
-******** NEXT Compute laplacian
-	 :LOGBOOK:
-	 CLOCK: [2015-01-17 Sat 10:30]--[2015-01-17 Sat 11:15] =>  0:45
-	 CLOCK: [2015-01-17 Sat 09:22]--[2015-01-17 Sat 10:10] =>  0:48
-	 CLOCK: [2015-01-15 Thu 20:22]--[2015-01-15 Thu 21:00] =>  0:38
-	 CLOCK: [2015-01-15 Thu 19:34]--[2015-01-15 Thu 19:37] =>  0:03
-	 CLOCK: [2015-01-13 Tue 12:42]--[2015-01-13 Tue 14:12] =>  1:30
-	 CLOCK: [2014-12-16 Tue 09:40]--[2014-12-16 Tue 10:10] =>  0:30
-	 CLOCK: [2014-10-25 Sat 11:15]--[2014-10-25 Sat 12:40] =>  1:25
-	 CLOCK: [2014-10-23 Thu 12:55]--[2014-10-23 Thu 13:40] =>  0:45
-	 CLOCK: [2014-10-23 Thu 11:00]--[2014-10-23 Thu 12:25] =>  1:25
-	 :END:
-******* TODO Harnack inequality
-******** NEXT Work out spherical mean curvature solitons 
-       	 :LOGBOOK:
-	 CLOCK: [2015-05-20 Wed 13:55]--[2015-05-20 Wed 14:50] =>  0:55
-	 CLOCK: [2015-05-19 Tue 12:50]--[2015-05-19 Tue 15:39] =>  2:49
-	 CLOCK: [2015-05-19 Tue 09:40]--[2015-05-19 Tue 12:00] =>  2:20
-	 CLOCK: [2015-05-18 Mon 13:05]--[2015-05-18 Mon 15:25] =>  2:20
-	 CLOCK: [2015-05-18 Mon 10:10]--[2015-05-18 Mon 11:59] =>  1:49
-	 CLOCK: [2015-05-15 Fri 13:15]--[2015-05-15 Fri 14:09] =>  0:54
-       	 CLOCK: [2015-05-15 Fri 10:53]--[2015-05-15 Fri 11:04] =>  0:11
-       	 CLOCK: [2015-05-14 Thu 01:15]--[2015-05-14 Thu 02:09] =>  0:54
-       	 CLOCK: [2015-05-13 Wed 17:10]--[2015-05-13 Wed 20:26] =>  3:16
-       	 CLOCK: [2015-05-13 Wed 14:20]--[2015-05-13 Wed 16:33] =>  2:13
-       	 CLOCK: [2015-05-13 Wed 12:12]--[2015-05-13 Wed 14:18] =>  2:06
-       	 CLOCK: [2015-05-13 Wed 10:05]--[2015-05-13 Wed 10:50] =>  0:45
-       	 CLOCK: [2015-05-12 Tue 17:06]--[2015-05-12 Tue 17:33] =>  0:27
-       	 CLOCK: [2015-05-12 Tue 14:05]--[2015-05-12 Tue 14:23] =>  0:18
-       	 CLOCK: [2015-05-12 Tue 11:15]--[2015-05-12 Tue 11:55] =>  0:40
-       	 :END:
-******* TODO Ambient convexity
-******** TODO Convex cones
-********* DONE work out 2ff relative to ambient Euclidean space
-       	:LOGBOOK:
-       	- State "DONE"       from "NEXT"       [2015-05-12 Tue 11:24]
-       	CLOCK: [2015-05-12 Tue 08:34]--[2015-05-12 Tue 10:30] =>  1:56
-       	:END:
-********* NEXT Convex in sphere iff cone is convex in Euclidean
-********* NEXT Convex cone universal
-If $K = \tilde{K} \intersect \sphere^n$, then $\tilde{K} \subset $\text{cone} (K)$ where $\text{cone} (K)$ is the cone through $K$ with vertex the origin.
-******** NEXT Ambient non-collapsing
-- Like Brendle, take curvature balls in the ambient space. Are these then curvature balls for the cone? Can we therefore do it all in Euclidean space?
-
-******* TODO Space forms
-******** NEXT What happens under quotients?
-******* TODO Comparison
-******** NEXT Investigate possible comparison theory
-******* TODO Convex functions
-******* TODO Polar bodies
-******* TODO Applications
-******** NEXT Contained in a hemisphere
-****** TODO Write paper
-******* TODO Outline
-******** NEXT Create main structure
-******* TODO Sections
-******** TODO Basic convexity
-********* NEXT Characterisation of convexity
-	  :LOGBOOK:
-	  CLOCK: [2014-12-04 Thu 16:40]--[2014-12-04 Thu 17:35] =>  0:55
-	  :END:
-- geodesics joining any two points
-********* NEXT Boundary structure
-- positive curvature
-********* NEXT supporting hyperplanes
-********* NEXT Gauss map
-********* NEXT Graph
-******** TODO Support function
-********* NEXT Definition using ambient space
-- like Heintze, Alencar/Frensel
-********* NEXT Harnack inequality
-********* NEXT Parametrising by support function
-********* NEXT Laplacian
-	  :LOGBOOK:
-	  CLOCK: [2015-01-15 Thu 19:37]--[2015-01-15 Thu 20:22] =>  0:45
-	  CLOCK: [2015-01-15 Thu 18:59]--[2015-01-15 Thu 19:34] =>  0:35
-	  :END:
-********* NEXT Position Vector field
-******** TODO Harnack inequality
-********* NEXT Write Soliton equations
-	  :LOGBOOK:
-	  CLOCK: [2015-05-20 Wed 16:55]--[2015-05-20 Wed 18:10] =>  1:15
-	  CLOCK: [2015-05-19 Tue 17:40]--[2015-05-19 Tue 18:43] =>  1:03
-	  :END:
-******** TODO Connection with cones in ambient space
-********* NEXT Curvature of cone
-	  :LOGBOOK:
-	  CLOCK: [2015-05-15 Fri 11:43]--[2015-05-15 Fri 12:03] =>  0:20
-	  :END:
-******** TODO Applications
-********* NEXT Lies in a hemisphere
-******* TODO Proof reading
-****** TODO Reading
-******* NEXT Read Gerhard's spherical flows
-******* NEXT Read spherical floating body
-       	:LOGBOOK:
-       	CLOCK: [2015-05-14 Thu 09:50]--[2015-05-14 Thu 11:02] =>  1:12
-       	CLOCK: [2015-05-08 Fri 10:56]--[2015-05-08 Fri 11:15] =>  0:19
-       	CLOCK: [2015-05-08 Fri 10:27]--[2015-05-08 Fri 10:56] =>  0:29
-       	:END:
-**** TODO CSF surfaces distance comparison :CSF:SURFACES:DIST_COMP:INPROGRESS:WRITING:
-   :PROPERTIES:
-   :ID:       85f583ed-c9eb-4993-91e3-8cedf9945d1f
-   :END:
-[[file:~/working/academic/research/csf_dist_comp_surfaces]]
-***** Notes
-***** Tasks
-****** TODO Organisation
-******* DONE Create tasks
-	 SCHEDULED: <2014-10-18 Sat>
-	 :LOGBOOK:
-	 - State "DONE"       from "NEXT"       [2014-10-30 Thu 08:35]
-	 CLOCK: [2014-10-28 Tue 19:40]--[2014-10-28 Tue 19:49] =>  0:09
-	 :END:
-****** TODO Math
-******* TODO Dist comp on sphere
-******** TODO Chord/arc profile
-******** TODO Comparison
-******* TODO Comparison for positively curved surfaces
-******* TODO Connection with ancient solutions
-****** TODO Writing
-******* DONE Create org file
-	:LOGBOOK:
-	- State "DONE"       from "NEXT"       [2014-10-28 Tue 20:10]
-	CLOCK: [2014-10-28 Tue 19:49]--[2014-10-28 Tue 20:10] =>  0:21
-	:END:
-******* TODO Introduction
-******** NEXT Write outline
-******* TODO Preliminaries
-******** NEXT Write evolution of curvature/area 
-	 :LOGBOOK:
-	 CLOCK: [2015-02-17 Tue 15:05]--[2015-02-17 Tue 15:32] =>  0:27
-	 :END:
-******* TODO Chord/arc profile
-******** NEXT Write variations
-	 :LOGBOOK:
-	 CLOCK: [2015-02-16 Mon 17:30]--[2015-02-16 Mon 18:20] =>  0:50
-	 :END:
-******** NEXT Write asymptotics
-******** NEXT Write viscosity equation
-******* TODO Comparisons
-******** DONE Calculate circle of latitude profile
-	 :LOGBOOK:
-	 - State "DONE"       from "NEXT"       [2015-02-17 Tue 16:40]
-	 CLOCK: [2015-02-17 Tue 15:32]--[2015-02-17 Tue 16:40] =>  1:08
-	 CLOCK: [2015-02-16 Mon 13:50]--[2015-02-16 Mon 14:18] =>  0:28
-	 :END:
-******** NEXT Show comparison improves
-******* TODO Convergence
-******** NEXT Obtain curvature bound
-***** Refs
-
-**** TODO Isoperimetric profile with density :ISOPERIMETRIC:DENSITY:INPROGRESS:WRITING:
-[[file:~/working/academic/research/isoperimetric_profile_density]]
-***** Notes
-***** Tasks
-****** TODO Org
-       :LOGBOOK:
-       CLOCK: [2015-04-28 Tue 14:29]--[2015-04-28 Tue 14:30] =>  0:01
-       CLOCK: [2015-03-03 Tue 20:55]--[2015-03-03 Tue 20:56] =>  0:01
-       :END:
-******* DONE Set up org files
-	:LOGBOOK:
-	- State "DONE"       from "NEXT"       [2015-03-03 Tue 20:55]
-	CLOCK: [2015-03-03 Tue 20:47]--[2015-03-03 Tue 20:55] =>  0:08
-	:END:
-******* NEXT Set up tasks
-****** TODO Maths
-******* TODO Viscosity equation
-******** NEXT Variations
-	 :LOGBOOK:
-	 CLOCK: [2015-04-27 Mon 17:00]--[2015-04-27 Mon 18:00] =>  1:00
-	 CLOCK: [2015-04-27 Mon 21:02]--[2015-04-27 Mon 21:29] =>  0:27
-	 CLOCK: [2015-04-27 Mon 10:45]--[2015-04-27 Mon 12:00] =>  1:15
-	 CLOCK: [2015-04-27 Mon 08:48]--[2015-04-27 Mon 09:24] =>  0:36
-	 CLOCK: [2015-04-24 Fri 11:00]--[2015-04-24 Fri 11:45] =>  0:45
-	 CLOCK: [2015-04-24 Fri 09:30]--[2015-04-24 Fri 10:45] =>  1:15
-	 CLOCK: [2015-04-23 Thu 16:59]--[2015-04-23 Thu 17:11] =>  0:12
-	 CLOCK: [2015-04-23 Thu 16:16]--[2015-04-23 Thu 16:50] =>  0:34
-	 CLOCK: [2015-04-23 Thu 13:53]--[2015-04-23 Thu 14:13] =>  0:20
-	 CLOCK: [2015-04-21 Tue 20:50]--[2015-04-21 Tue 21:21] =>  0:31
-	 CLOCK: [2015-04-21 Tue 15:37]--[2015-04-21 Tue 16:24] =>  0:47
-	 CLOCK: [2015-04-21 Tue 14:14]--[2015-04-21 Tue 15:10] =>  0:56
-	 CLOCK: [2015-04-20 Mon 20:05]--[2015-04-20 Mon 20:53] =>  0:48
-	 CLOCK: [2015-04-20 Mon 11:57]--[2015-04-20 Mon 13:07] =>  1:10
-	 CLOCK: [2015-04-20 Mon 10:58]--[2015-04-20 Mon 11:31] =>  0:33
-	 CLOCK: [2015-04-14 Tue 14:00]--[2015-04-14 Tue 15:22] =>  1:22
-	 CLOCK: [2015-04-14 Tue 10:30]--[2015-04-14 Tue 10:40] =>  0:10
-	 CLOCK: [2015-04-02 Thu 13:10]--[2015-04-02 Thu 14:10] =>  1:00
-	 CLOCK: [2015-03-20 Fri 13:25]--[2015-03-20 Fri 15:22] =>  1:57
-	 CLOCK: [2015-03-13 Fri 14:51]--[2015-03-13 Fri 16:31] =>  1:40
-	 CLOCK: [2015-03-13 Fri 11:39]--[2015-03-13 Fri 12:00] =>  0:21
-	 CLOCK: [2015-03-12 Thu 13:26]--[2015-03-12 Thu 14:32] =>  1:06
-	 CLOCK: [2015-03-11 Wed 16:13]--[2015-03-11 Wed 16:47] =>  0:34
-	 CLOCK: [2015-03-11 Wed 15:12]--[2015-03-11 Wed 16:05] =>  0:53
-	 CLOCK: [2015-03-11 Wed 11:40]--[2015-03-11 Wed 12:54] =>  1:14
-	 CLOCK: [2015-03-10 Tue 12:05]--[2015-03-10 Tue 13:22] =>  1:17
-	 CLOCK: [2015-03-03 Tue 20:56]--[2015-03-03 Tue 21:51] =>  0:55
-	 :END:
-******** NEXT Compute viscosity equation
-	 :LOGBOOK:
-	 CLOCK: [2015-04-30 Thu 13:15]--[2015-04-30 Thu 15:33] =>  2:18
-	 CLOCK: [2015-04-29 Wed 20:05]--[2015-04-29 Wed 20:48] =>  0:43
-	 CLOCK: [2015-04-29 Wed 11:27]--[2015-04-29 Wed 12:57] =>  1:30
-	 CLOCK: [2015-04-28 Tue 19:30]--[2015-04-28 Tue 20:25] =>  0:55
-	 :END:
-****** TODO Writing
-******* TODO Introduction
-******** NEXT Find references
-	 :LOGBOOK:
-	 CLOCK: [2015-04-28 Tue 13:58]--[2015-04-28 Tue 14:29] =>  0:31
-	 :END:
-******* TODO Viscosity
-******** NEXT Write variations
-	 :LOGBOOK:
-	 CLOCK: [2015-04-28 Tue 14:30]--[2015-04-28 Tue 15:22] =>  0:52
-	 :END:
-******** NEXT Write viscosity equation
-	 :LOGBOOK:
-	 CLOCK: [2015-05-05 Tue 16:08]--[2015-05-05 Tue 17:03] =>  0:55
-	 CLOCK: [2015-05-05 Tue 15:01]--[2015-05-05 Tue 16:01] =>  1:00
-	 CLOCK: [2015-04-30 Thu 20:26]--[2015-04-30 Thu 22:07] =>  1:41
-	 CLOCK: [2015-04-29 Wed 16:21]--[2015-04-29 Wed 17:16] =>  0:55
-	 :END:
-***** Refs
-**** TODO High codimension MCF
-***** Refs
-[[notes:MR3289845][MR3289845-notes]]
-[[notes:2014arXiv1401.4154S][2014arXiv1401.4154S-notes]]
-**** TODO Conformal MCF Solitons
-[[file:~/working/academic/research/conformal_mcf_solitons]]
-***** Refs
-***** Tasks
-****** TODO Writing
-******* TODO Conformal Geometry
-******** NEXT Change of ambient geometry
-	 :LOGBOOK:
-	 CLOCK: [2015-06-13 Sat 12:08]--[2015-06-13 Sat 12:41] =>  0:33
-	 CLOCK: [2015-06-13 Sat 10:46]--[2015-06-13 Sat 11:44] =>  0:58
-	 :END:
-******** NEXT Change of submanifold geometry
-******* TODO Conformal Solitons
-******** DONE Write soliton defn
-	 :LOGBOOK:
-	 - State "DONE"       from "NEXT"       [2015-06-15 Mon 18:56]
-	 CLOCK: [2015-06-15 Mon 16:47]--[2015-06-15 Mon 18:22] =>  1:35
-	 :END:
-******** TODO Make soliton defn more concise
-******** NEXT Write conformal soliton equations
-	 :LOGBOOK:
-	 CLOCK: [2015-06-15 Mon 18:56]--[2015-06-15 Mon 20:15] =>  1:19
-	 :END:
-****** TODO Maths
-
-***** Notes
 *** Holding
 **** TODO Pipe Flows					  :PIPE_FLOW:WRITING:
    :PROPERTIES:
@@ -3280,6 +2321,883 @@ This is some sort of curvature flow for polygons - exactly what I want to look a
 - http://arxiv.org/pdf/1511.02572.pdf
 - http://www.boundaryvalueproblems.com/content/2007/1/081415
 
+**** TODO alpha CSF distance comparison	       :CSF_ALPHA:INPROGRESS:WRITING:
+   :LOGBOOK:
+   CLOCK: [2013-07-19 Fri 09:53]--[2013-07-19 Fri 09:55] =>  0:02
+   CLOCK: [2013-07-16 Tue 11:39]--[2013-07-16 Tue 11:40] =>  0:01
+   CLOCK: [2013-07-12 Fri 18:24]--[2013-07-12 Fri 18:25] =>  0:01
+   CLOCK: [2013-07-11 Thu 12:42]--[2013-07-11 Thu 12:44] =>  0:02
+   CLOCK: [2013-07-11 Thu 11:47]--[2013-07-11 Thu 11:54] =>  0:07
+   CLOCK: [2013-07-11 Thu 10:03]--[2013-07-11 Thu 10:04] =>  0:01
+   CLOCK: [2013-02-14 Thu 12:21]--[2013-02-14 Thu 12:29] =>  0:08
+   CLOCK: [2013-02-14 Thu 12:15]--[2013-02-14 Thu 12:21] =>  0:06
+   CLOCK: [2013-02-14 Thu 11:53]--[2013-02-14 Thu 12:05] =>  0:12
+   CLOCK: [2013-02-14 Thu 09:59]--[2013-02-14 Thu 10:44] =>  0:45
+   CLOCK: [2012-12-18 Tue 15:11]--[2012-12-18 Tue 15:12] =>  0:01
+   :END:
+   :PROPERTIES:
+   :ID:       82bbca25-be33-478e-9fc2-ee07aff558c7
+   :END:
+[[file:~/working/academic/research/alphacsf_dist_comp]]
+[[file:~/publish/alphacsf_dist_comp/alphacsf_dist_comp.pdf]]
+***** Tasks
+****** DONE Set up exact tasks
+       - State "DONE"       from "NEXT"       [2012-12-20 Thu 11:42]
+       :LOGBOOK:
+       CLOCK: [2012-12-20 Thu 11:40]--[2012-12-20 Thu 11:42] =>  0:02
+       :END:
+       :PROPERTIES:
+       :ID:       4f722f4b-5144-460f-99ed-df219865ff85
+       :END:
+****** TODO Normalised Flow
+       :LOGBOOK:
+       - State "TODO"       from "DONE"       [2015-04-18 Sat 12:42] \\
+	 Re-opened to add normalised flow for approximating flows.
+       - State "DONE"       from "TODO"       [2013-09-22 Sun 12:11]
+       :END:
+******* DONE Redo computation with correct normalised flow
+       	- State "DONE"       from "NEXT"       [2013-02-26 Tue 15:04]
+       	:LOGBOOK:
+       	CLOCK: [2013-02-26 Tue 13:46]--[2013-02-26 Tue 15:04] =>  1:18
+       	CLOCK: [2013-02-26 Tue 12:08]--[2013-02-26 Tue 13:10] =>  1:02
+       	CLOCK: [2013-02-26 Tue 11:35]--[2013-02-26 Tue 11:53] =>  0:18
+       	CLOCK: [2013-02-25 Mon 20:22]--[2013-02-25 Mon 21:15] =>  0:53
+       	CLOCK: [2013-02-25 Mon 13:25]--[2013-02-25 Mon 14:58] =>  1:33
+       	CLOCK: [2013-02-25 Mon 12:49]--[2013-02-25 Mon 13:17] =>  0:28
+       	CLOCK: [2013-02-25 Mon 11:31]--[2013-02-25 Mon 12:09] =>  0:38
+       	CLOCK: [2013-02-22 Fri 15:30]--[2013-02-22 Fri 16:05] =>  0:35
+       	CLOCK: [2013-02-21 Thu 14:04]--[2013-02-21 Thu 14:05] =>  0:01
+       	CLOCK: [2013-02-21 Thu 12:56]--[2013-02-21 Thu 13:57] =>  1:01
+       	:END:
+       	:PROPERTIES:
+       	:ID:       d012ffc5-cbec-4f58-8df9-91782762eb0d
+       	:END:
+******* DONE Work our normalised flow
+    :LOGBOOK:
+    CLOCK: [2013-02-20 Wed 13:55]--[2013-02-20 Wed 15:05] =>  1:10
+    :END:
+    - State "DONE"       from "NEXT"       [2013-02-20 Wed 07:26]
+    :PROPERTIES:
+    :ID:       b63d50df-619a-46e9-88f4-460accb55823
+    :END:
+My computations were for the un-normalised flow.
+******* DONE Work out normalised flow for general speeds
+       	- State "DONE"       from "NEXT"       [2013-07-16 Tue 11:39]
+       	:LOGBOOK:
+       	CLOCK: [2013-07-16 Tue 10:56]--[2013-07-16 Tue 11:39] =>  0:43
+       	CLOCK: [2013-07-15 Mon 14:45]--[2013-07-15 Mon 16:30] =>  1:45
+       	:END:
+******* NEXT Normalised flow for approximating flows
+****** DONE Variations
+       :LOGBOOK:
+       - State "DONE"       from "TODO"       [2013-09-22 Sun 12:11]
+       :END:
+******* DONE Transcribe variational argument from notebook
+       	- State "DONE"       from "NEXT"       [2012-12-19 Wed 11:20]
+       	:LOGBOOK:
+       	CLOCK: [2012-12-19 Wed 10:02]--[2012-12-19 Wed 11:19] =>  1:17
+       	CLOCK: [2012-12-18 Tue 18:10]--[2012-12-18 Tue 18:20] =>  0:10
+       	CLOCK: [2012-12-18 Tue 13:26]--[2012-12-18 Tue 15:11] =>  1:45
+       	CLOCK: [2012-12-18 Tue 12:10]--[2012-12-18 Tue 12:35] =>  0:25
+       	:END:
+       	:PROPERTIES:
+       	:ID:       e326f80a-7e84-497c-949e-c91f0c47581f
+       	:END:
+******* DONE Work out spectral argument
+       	- State "DONE"       from "TODO"       [2012-12-18 Tue 20:00]
+       	:LOGBOOK:
+       	CLOCK: [2012-12-18 Tue 18:20]--[2012-12-18 Tue 20:00] =>  1:40
+       	:END:
+******* DONE Rewrite more sophisticated variational argument
+    - State "DONE"       from "NEXT"       [2013-02-19 Tue 08:04]
+    :LOGBOOK:
+    CLOCK: [2013-02-18 Mon 20:57]--[2013-02-18 Mon 21:45] =>  0:48
+    CLOCK: [2013-02-18 Mon 14:02]--[2013-02-18 Mon 14:34] =>  0:32
+    CLOCK: [2013-02-15 Fri 10:35]--[2013-02-15 Fri 10:43] =>  0:08
+    CLOCK: [2013-02-15 Fri 10:33]--[2013-02-15 Fri 10:34] =>  0:01
+    :END:
+    :PROPERTIES:
+    :ID:       bd810aa6-d6aa-4b03-8fca-f4fa0f549cdd
+    :END: 
+This should not involve partial derivatives by tangent vectors to $S^1$ like in the CSF paper.
+******* DONE Write viscosity equation without specifying curvature integral bounds
+       - State "DONE"       from "NEXT"       [2013-07-11 Thu 11:47]
+       :LOGBOOK:
+       CLOCK: [2013-07-11 Thu 11:45]--[2013-07-11 Thu 11:47] =>  0:02
+       CLOCK: [2013-07-11 Thu 10:24]--[2013-07-11 Thu 11:12] =>  0:48
+       :END:
+It might be useful just to write the viscosity equation with the curvature bounds in the equation. Then we have a comparison whenever we can estimate the integral bounds.
+******* DONE Work out barrier inequality
+       - State "DONE"       from "NEXT"       [2013-07-19 Fri 12:39]
+       :LOGBOOK:
+       CLOCK: [2013-07-19 Fri 09:55]--[2013-07-19 Fri 10:15] =>  0:20
+       CLOCK: [2013-07-19 Fri 09:40]--[2013-07-19 Fri 09:49] =>  0:09
+       CLOCK: [2013-07-17 Wed 14:37]--[2013-07-17 Wed 15:33] =>  0:56
+       CLOCK: [2013-07-17 Wed 09:33]--[2013-07-17 Wed 10:51] =>  1:18
+       CLOCK: [2013-07-16 Tue 17:45]--[2013-07-16 Tue 18:20] =>  0:35
+       CLOCK: [2013-07-16 Tue 15:25]--[2013-07-16 Tue 16:00] =>  0:35
+       CLOCK: [2013-07-16 Tue 13:15]--[2013-07-16 Tue 13:51] =>  0:36
+       CLOCK: [2013-07-11 Thu 16:20]--[2013-07-11 Thu 17:11] =>  0:51
+       CLOCK: [2013-07-10 Wed 19:17]--[2013-07-10 Wed 21:28] =>  2:11
+       CLOCK: [2013-07-10 Wed 15:30]--[2013-07-10 Wed 16:00] =>  0:30
+       :END:
+       :PROPERTIES:
+       :ID:       7efb2712-f7fe-43c4-bc59-169056dbf63b
+       :END:
+- Is there something that can be deduced for optimal points/concavity by inequalities in the barrier sense? E.g. something like Bavard/Pansu and Sternberg/Zunbrum.
+- Note that $\chordarcprofile^2$ is not concave for $\sphere^1$. So it's not worth trying to show that $\chordarcprofile^2(x) + k_0 x^2$ is concave when $\curvecurv \geq k_0$.
+- It is true that convex curves have concave profiles however.
+- I should note that we don't have square concavity.
+- Is it true that convex curves have smooth profile?
+******* DONE Rewrite spatial viscosity using minimiser expressions
+       	- State "DONE"       from "NEXT"       [2013-07-19 Fri 16:53]
+       	:LOGBOOK:
+       	CLOCK: [2013-07-19 Fri 15:25]--[2013-07-19 Fri 16:53] =>  1:28
+       	:END:
+
+******* DONE Write as viscosity equation
+	- State "DONE"       from "NEXT"       [2013-07-10 Wed 19:17]
+	:LOGBOOK:
+	CLOCK: [2013-07-09 Tue 21:05]--[2013-07-09 Tue 21:25] =>  0:20
+	CLOCK: [2013-07-09 Tue 19:01]--[2013-07-09 Tue 20:06] =>  1:05
+	CLOCK: [2013-07-09 Tue 15:36]--[2013-07-09 Tue 17:09] =>  1:33
+	CLOCK: [2013-07-09 Tue 15:04]--[2013-07-09 Tue 15:31] =>  0:27
+	CLOCK: [2013-06-24 Mon 19:45]--[2013-06-24 Mon 20:25] =>  0:40
+	CLOCK: [2013-06-24 Mon 16:16]--[2013-06-24 Mon 17:06] =>  0:50
+	CLOCK: [2013-06-24 Mon 11:06]--[2013-06-24 Mon 11:42] =>  0:36
+	CLOCK: [2013-06-24 Mon 10:37]--[2013-06-24 Mon 11:02] =>  0:25
+	CLOCK: [2013-05-15 Wed 14:20]--[2013-05-15 Wed 14:50] =>  0:30
+	:END:
+	:PROPERTIES:
+	:ID:       aafcb944-6080-4da1-9b70-bbb51dd1bc97
+	:END:
+******* DONE Touch up temporal viscosity equation
+       - State "DONE"       from "NEXT"       [2013-07-11 Thu 10:03]
+       :LOGBOOK:
+       CLOCK: [2013-07-11 Thu 09:42]--[2013-07-11 Thu 10:03] =>  0:21
+       :END:
+Need to make it consistent with spatial viscosity bit.
+****** TODO Intro
+       :PROPERTIES:
+       :ID:       b836cc12-5928-4c32-883f-74c8cdb3af88
+       :END:
+******* DONE Write introduction
+       	- State "DONE"       from "NEXT"       [2013-02-21 Thu 12:56]
+       	:LOGBOOK:
+       	CLOCK: [2013-02-21 Thu 12:51]--[2013-02-21 Thu 12:56] =>  0:05
+       	CLOCK: [2013-02-21 Thu 11:55]--[2013-02-21 Thu 12:09] =>  0:14
+       	CLOCK: [2013-02-20 Wed 13:30]--[2013-02-20 Wed 13:54] =>  0:24
+       	CLOCK: [2013-02-19 Tue 16:36]--[2013-02-19 Tue 17:42] =>  1:06
+       	CLOCK: [2013-02-19 Tue 09:47]--[2013-02-19 Tue 10:05] =>  0:18
+       	CLOCK: [2013-02-19 Tue 09:29]--[2013-02-19 Tue 10:22] =>  0:53
+       	CLOCK: [2013-02-19 Tue 08:06]--[2013-02-19 Tue 08:38] =>  0:32
+       	:END:
+       	:PROPERTIES:
+       	:ID:       f830177c-d9ea-4120-82f6-d0af42487036
+       	:END:
+******* NEXT Put history in introduction
+       	:PROPERTIES:
+       	:ID:       fd104b00-d994-4de3-91b9-cdb9f2b02d15
+       	:END:
+******* NEXT Clean up intro
+- Give better visc. eqn (after Holder)
+- Clean up section refs
+****** DONE Max principle
+       :LOGBOOK:
+       - State "DONE"       from "TODO"       [2013-09-22 Sun 12:11]
+       :END:
+******* DONE Change max principle to $Z \geq 0$
+       	- State "DONE"       from "NEXT"       [2013-02-26 Tue 21:49]
+       	:LOGBOOK:
+       	CLOCK: [2013-02-26 Tue 21:02]--[2013-02-26 Tue 21:49] =>  0:47
+       	CLOCK: [2013-02-26 Tue 20:37]--[2013-02-26 Tue 20:43] =>  0:06
+       	CLOCK: [2013-02-26 Tue 19:25]--[2013-02-26 Tue 20:30] =>  1:05
+       	:END:
+       	:PROPERTIES:
+       	:ID:       76a2b612-5546-4a90-a96b-9acdc9d850b4
+       	:END:
+******* DONE Change max principle back to $Z$ improving!
+    - State "DONE"       from "NEXT"       [2013-02-27 Wed 14:34]
+    :LOGBOOK:
+    CLOCK: [2013-02-27 Wed 14:06]--[2013-02-27 Wed 14:34] =>  0:28
+    :END:
+    :PROPERTIES:
+    :ID:       ddad714e-5a0c-45cf-93b0-0d48d52807b2
+    :END:
+Provided $\tilde{Z}(0)\geq 0$ I think we can get improving, not just positivity!
+******* DONE Fix max principle arg
+       - State "DONE"       from "NEXT"       [2013-06-23 Sun 16:06]
+    :PROPERTIES:
+    :ID:       30a42f2c-b09b-4a15-bb7a-cd497710810a
+    :END:
+I need to take into account the fact that if $\tilde{Z}_{\epsilon}$ is not increasing, we need not have $Z_{\epsilon} = 0$ somewhere. Do we also necessarily have the correct variational inequalities? Maybe it's not true that it improves!
+******* DONE Make lemma with differentials at the minimiser
+       - State "DONE"       from "NEXT"       [2013-07-11 Thu 12:42]
+       :LOGBOOK:
+       CLOCK: [2013-07-11 Thu 11:54]--[2013-07-11 Thu 12:42] =>  0:48
+       :END:
+- Consequences of vanishing first variation in same lemma.
+******* DONE Write hessian of d at minimiser and eigenvectors of $M_{\pm}$
+       - State "DONE"       from "NEXT"       [2013-07-19 Fri 12:39]
+       - State "NEXT"       from "CANCELLED"  [2013-07-19 Fri 10:14] \\
+	 Gracious me! Indeed this *is* useful. I need the formula for variations of $d$ at the minimiser subject to the constraint that $\ell$ is fixed.
+       - State "CANCELLED"  from "NEXT"       [2013-07-19 Fri 09:53] \\
+	 Actually, I don't want this! Really what I want is the formulae for variations of $\chordarcprofile$ at the minimiser so it does go in the barrier inequality part.
+       :LOGBOOK:
+       CLOCK: [2013-07-19 Fri 10:15]--[2013-07-19 Fri 12:39] =>  2:24
+       CLOCK: [2013-07-19 Fri 09:49]--[2013-07-19 Fri 09:53] =>  0:04
+       :END:
+       - State "NEXT"       from "CANCELLED"  [2013-07-17 Wed 09:32] \\
+	 It may actually be useful after all. Mostly this is for the barrier inequality. 
+       - State "CANCELLED"  from "NEXT"       [2013-07-11 Thu 15:41] \\
+	 Not useful. We need the hessian of $Z$ at the minimiser which I've already got in the viscosity equation.
+       :PROPERTIES:
+       :ID:       2aa06efe-a96c-4ec0-9eb6-95373a35a5c6
+       :END:
+- Write expression for $D^2 d$
+- Get eigenvalues of $M_{\pm}$ and derive null eigenvector identity
+- Write expression for variations and also variations at the minimiser.
+
+******* DONE Mention somewhere that $p_0\ne q_0$ since $\ell \ne 0$.
+       	- State "DONE"       from "NEXT"       [2013-07-11 Thu 11:55]
+****** DONE Comparison
+       :PROPERTIES:
+       - State "DONE"       from "TODO"       [2015-03-03 Tue 20:27]
+       :ID:       d7f698be-6d12-48db-8118-68ba114b1f73
+       :END:
+******* DONE Change to concave comparison.
+    - State "DONE"       from "NEXT"       [2013-02-27 Wed 10:41]
+    :LOGBOOK:
+    CLOCK: [2013-02-27 Wed 10:07]--[2013-02-27 Wed 10:41] =>  0:34
+    CLOCK: [2013-02-27 Wed 08:20]--[2013-02-27 Wed 08:54] =>  0:34
+    :END:
+    :PROPERTIES:
+    :ID:       8fc84005-747c-4a3e-addb-cfdc8f0ed2a3
+    :END:
+Probably also need concave comparison functions. This should rule out $\tang_p = \tang_q$.
+******* DONE Email Ben about integral estimate and model solutions
+       	- State "DONE"       from "NEXT"       [2013-02-21 Thu 11:49]
+       	:LOGBOOK:
+       	CLOCK: [2013-02-21 Thu 11:44]--[2013-02-21 Thu 11:49] =>  0:05
+       	:END:
+       	:PROPERTIES:
+       	:ID:       5cf57941-4d6b-47ca-9ed3-72ed629e304e
+       	:END:
+******* DONE Estimate integrals by Holder
+	 SCHEDULED: <2014-04-02 Wed>
+
+    :LOGBOOK:
+    - State "DONE"       from "NEXT"       [2014-04-18 Fri 19:04]
+    CLOCK: [2014-04-18 Fri 12:39]--[2014-04-18 Fri 12:40] =>  0:01
+    CLOCK: [2014-04-18 Fri 11:09]--[2014-04-18 Fri 12:38] =>  1:29
+    CLOCK: [2014-04-10 Thu 10:38]--[2014-04-10 Thu 11:42] =>  1:04
+    - State "NEXT"       from "DONE"       [2014-04-01 Tue 20:33] \\
+      It's still not written up.
+    - State "DONE"       from "NEXT"       [2013-05-15 Wed 16:14]
+    CLOCK: [2013-02-27 Wed 14:34]--[2013-02-27 Wed 15:24] =>  0:50
+    CLOCK: [2012-12-21 Fri 13:30]--[2012-12-21 Fri 15:32] =>  2:02
+    CLOCK: [2012-12-21 Fri 11:02]--[2012-12-21 Fri 11:51] =>  0:49
+    CLOCK: [2012-12-20 Thu 21:14]--[2012-12-20 Thu 21:46] =>  0:32
+    CLOCK: [2012-12-20 Thu 18:45]--[2012-12-20 Thu 21:07] =>  2:22
+    CLOCK: [2012-12-20 Thu 15:22]--[2012-12-20 Thu 18:07] =>  2:45
+    CLOCK: [2012-12-20 Thu 11:42]--[2012-12-20 Thu 12:05] =>  0:23
+    :END:
+    :PROPERTIES:
+    :ID:       2d45cee3-0bf7-482b-a10e-9caca013f87e
+    :END:
+This requires an estimate of $\int k f(k)$ analogous to Holder's for CSF where $f(k)=k$.
+
+******* CANCELLED Investigate whether Holder may be used for homogeneous functions
+	:LOGBOOK:
+	- State "CANCELLED"  from "NEXT"       [2014-04-18 Fri 19:04] \\
+	  Not needed.
+	:END:
+- I want something like $\int f(k)k \geq (\int g(k))^{\alpha+1}/l^{\alpha}$ where $f$ is homogeneous of degree $\alpha$, and $g$ is homogeneous of degree $1$.
+******* CANCELLED Estimate integrals by Angenent
+	:LOGBOOK:
+	- State "CANCELLED"  from "NEXT"       [2015-03-03 Tue 18:15] \\
+	  Looks like it won't work!
+	CLOCK: [2014-06-14 Sat 13:44]--[2014-06-14 Sat 13:58] =>  0:14
+	CLOCK: [2014-06-14 Sat 10:54]--[2014-06-14 Sat 13:01] =>  2:07
+	CLOCK: [2014-04-18 Fri 19:18]--[2014-04-18 Fri 19:53] =>  0:35
+	CLOCK: [2014-04-18 Fri 18:40]--[2014-04-18 Fri 19:14] =>  0:34
+	:END:
+******* DONE Find comparison solutions
+	:LOGBOOK:
+	- State "DONE"       from "TODO"       [2015-03-03 Tue 20:27]
+	:END:
+       	:PROPERTIES:
+       	:ID:       9c3e45f9-6c61-48b8-b0e1-eaae4fd6514b
+       	:END:
+******** DONE Try similarity soln as in CSF case
+	:LOGBOOK:
+	- State "DONE"       from "NEXT"       [2015-03-03 Tue 20:26]
+	CLOCK: [2015-03-03 Tue 18:15]--[2015-03-03 Tue 19:10] =>  0:55
+	CLOCK: [2015-02-27 Fri 11:10]--[2015-02-27 Fri 11:25] =>  0:15
+	CLOCK: [2015-02-26 Thu 21:26]--[2015-02-26 Thu 21:55] =>  0:29
+	CLOCK: [2015-02-26 Thu 16:43]--[2015-02-26 Thu 17:59] =>  1:16
+	CLOCK: [2015-02-26 Thu 14:04]--[2015-02-26 Thu 14:47] =>  0:43
+	CLOCK: [2015-02-26 Thu 12:10]--[2015-02-26 Thu 13:28] =>  1:18
+	CLOCK: [2015-01-13 Tue 18:05]--[2015-01-13 Tue 19:50] =>  1:45
+	CLOCK: [2015-01-13 Tue 17:15]--[2015-01-13 Tue 17:30] =>  0:15
+	CLOCK: [2014-06-13 Fri 18:48]--[2014-06-13 Fri 20:10] =>  1:22
+	CLOCK: [2014-06-13 Fri 16:05]--[2014-06-13 Fri 17:15] =>  1:10
+	CLOCK: [2014-06-13 Fri 11:32]--[2014-06-13 Fri 13:04] =>  1:32
+	CLOCK: [2014-06-12 Thu 19:21]--[2014-06-12 Thu 22:00] =>  2:39
+	CLOCK: [2014-04-09 Wed 14:00]--[2014-04-09 Wed 16:10] =>  2:10
+	CLOCK: [2013-07-22 Mon 19:30]--[2013-07-22 Mon 20:30] =>  1:00
+	CLOCK: [2013-07-20 Sat 18:40]--[2013-07-20 Sat 21:05] =>  2:25
+	CLOCK: [2013-07-20 Sat 14:50]--[2013-07-20 Sat 17:45] =>  2:55
+	CLOCK: [2013-07-20 Sat 09:50]--[2013-07-20 Sat 11:40] =>  1:50
+	:END:
+        :PROPERTIES:
+	:ID:       e33f844d-a7a7-406b-bf25-002f515cb649
+	:END:
+There is a remark by Ben that our function comes from seeking a similarity solution. Does this work for general $f$?
+******** CANCELLED Angenent comparison of curvature integrals
+	 :LOGBOOK:
+	 - State "CANCELLED"  from "TODO"       [2015-03-03 Tue 18:15] \\
+	   Looks like it won't work!
+	 :END:
+	 :PROPERTIES:
+	 :ID:       5545cf87-d1a5-4ed8-bdba-e11495732909
+	 :END:
+********* CANCELLED Write up convex comparison
+	  :LOGBOOK:
+	  - State "CANCELLED"  from "NEXT"       [2015-03-03 Tue 18:15] \\
+	    Looks like it won't work!
+	  :END:
+	 :PROPERTIES:
+	 :ID:       a8e2e0d7-14d9-4704-ab19-708177f1e7cb
+	 :END:
+- Ben has this for convex curves
+********* CANCELLED Examine comparison with convex hull
+	  :LOGBOOK:
+	  - State "CANCELLED"  from "NEXT"       [2015-03-03 Tue 18:15] \\
+	    Looks like it won't work!
+	  :END:
+	 :PROPERTIES:
+	 :ID:       de6f2aa9-4db0-4bcf-b8ed-1a2ffc3e58f5
+	 :END:
+- Does the convex hull have better integrals of curvature?
+******** DONE Prove maximum principle
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2015-03-03 Tue 20:27]
+	 CLOCK: [2014-03-21 Fri 13:55]--[2014-03-21 Fri 16:06] =>  2:11
+	 :END:
+- if we have initial inequality of isoprofiles, this is preserved under the flow.
+****** TODO Short time existence
+******* NEXT Get rough idea
+******* DONE Compute symbol
+	:LOGBOOK:
+	- State "DONE"       from "NEXT"       [2015-04-18 Sat 11:45]
+	CLOCK: [2015-04-16 Thu 21:00]--[2015-04-16 Thu 23:40] =>  2:40
+	:END:
+******* DONE Write up outline of approximating flows
+	:LOGBOOK:
+	- State "DONE"       from "NEXT"       [2015-04-18 Sat 12:40]
+	CLOCK: [2015-04-18 Sat 11:45]--[2015-04-18 Sat 12:40] =>  0:55
+	:END:
+******* NEXT Estimates for approximating flow
+****** TODO Editing
+       :PROPERTIES:
+       :ID:       61f17103-1796-4baf-a0a5-233056956351
+       :END:
+******* DONE Clean up text
+       	- State "DONE"       from "NEXT"       [2013-06-23 Sun 16:06]
+       	:LOGBOOK:
+       	CLOCK: [2013-03-27 Wed 11:18]--[2013-03-27 Wed 12:08] =>  0:50
+       	CLOCK: [2013-03-27 Wed 10:33]--[2013-03-27 Wed 11:03] =>  0:30
+       	CLOCK: [2013-03-06 Wed 21:05]--[2013-03-06 Wed 21:32] =>  0:27
+       	CLOCK: [2013-03-06 Wed 20:30]--[2013-03-06 Wed 20:56] =>  0:26
+       	:END:
+       	:PROPERTIES:
+       	:ID:       82f38b9b-cfa1-4312-bbec-ef8a1c8afd17
+       	:END:
+******* DONE Add a section on chord/arc-profile
+       	- State "DONE"       from "NEXT"       [2013-07-10 Wed 19:18]
+       	:LOGBOOK:
+       	CLOCK: [2013-07-10 Wed 13:13]--[2013-07-10 Wed 14:28] =>  1:15
+       	CLOCK: [2013-07-10 Wed 12:17]--[2013-07-10 Wed 12:32] =>  0:15
+       	CLOCK: [2013-07-10 Wed 11:39]--[2013-07-10 Wed 12:11] =>  0:32
+       	CLOCK: [2013-07-10 Wed 10:54]--[2013-07-10 Wed 11:32] =>  0:38
+       	:END:
+       	:PROPERTIES:
+       	:ID:       cc7a64a2-bc18-4f6b-a239-289231e67efe
+       	:END:
+******* DONE Fix up spatial viscosity equation.
+       	- State "DONE"       from "NEXT"       [2013-07-12 Fri 16:59]
+       	:LOGBOOK:
+       	CLOCK: [2013-07-12 Fri 15:37]--[2013-07-12 Fri 16:59] =>  1:22
+       	:END:
+******* DONE Clean up text
+       - State "DONE"       from "NEXT"       [2013-07-19 Fri 12:40]
+       :LOGBOOK:
+       CLOCK: [2013-07-16 Tue 10:40]--[2013-07-16 Tue 10:56] =>  0:16
+       CLOCK: [2013-07-12 Fri 18:25]--[2013-07-12 Fri 18:30] =>  0:05
+       CLOCK: [2013-07-12 Fri 17:08]--[2013-07-12 Fri 18:02] =>  0:54
+       CLOCK: [2013-07-12 Fri 09:55]--[2013-07-12 Fri 11:20] =>  1:25
+       CLOCK: [2013-07-11 Thu 15:49]--[2013-07-11 Thu 16:20] =>  0:31
+       :END:
+       :PROPERTIES:
+       :ID:       651bc412-e74b-4e34-ac52-03e954904dd5
+       :END:
+A few typos and what not came in after rearranging
+******* DONE Define indicator functions
+       - State "DONE"       from "NEXT"       [2013-07-12 Fri 18:24]
+       :LOGBOOK:
+       CLOCK: [2013-07-12 Fri 18:02]--[2013-07-12 Fri 18:24] =>  0:22
+       :END:
+Let $\xi(p_0, q_0) = 0$ if $\tang_{p_0}=\tang_{q_0}$ and $1$ otherwise. Then I can write one viscosity equation.
+
+******* NEXT Proof reading
+	:LOGBOOK:
+	CLOCK: [2014-06-27 Fri 17:35]--[2014-06-27 Fri 18:14] =>  0:39
+	CLOCK: [2014-06-11 Wed 12:12]--[2014-06-11 Wed 12:57] =>  0:45
+	CLOCK: [2014-06-10 Tue 18:57]--[2014-06-10 Tue 20:03] =>  1:06
+	CLOCK: [2014-04-19 Sat 12:50]--[2014-04-19 Sat 14:09] =>  1:19
+	CLOCK: [2014-02-12 Wed 15:16]--[2014-02-12 Wed 15:40] =>  0:24
+	CLOCK: [2014-02-12 Wed 13:37]--[2014-02-12 Wed 14:01] =>  0:24
+	:END:
+******* TODO Produce first draft
+******* TODO Produce final version
+
+	:PROPERTIES:
+	:ID:       f1d7910c-9c30-42b9-8cb4-4adddf861112
+	:END:
+******* TODO Submit to journal
+****** DONE Refs
+       :LOGBOOK:
+       - State "DONE"       from "TODO"       [2013-09-22 Sun 12:11]
+       :END:
+******* DONE Find references for previous work
+       	- State "DONE"       from "NEXT"       [2013-06-23 Sun 16:06]
+       	:LOGBOOK:
+       	CLOCK: [2013-03-28 Thu 09:23]--[2013-03-28 Thu 10:43] =>  1:20
+       	CLOCK: [2013-03-27 Wed 20:22]--[2013-03-27 Wed 21:09] =>  0:47
+       	CLOCK: [2013-03-27 Wed 17:08]--[2013-03-27 Wed 17:47] =>  0:39
+       	CLOCK: [2013-03-27 Wed 15:58]--[2013-03-27 Wed 16:32] =>  0:34
+       	CLOCK: [2013-03-27 Wed 15:12]--[2013-03-27 Wed 15:49] =>  0:37
+       	CLOCK: [2013-03-27 Wed 10:22]--[2013-03-27 Wed 10:28] =>  0:06
+       	:END:
+       	:PROPERTIES:
+       	:ID:       261f30d2-0431-484a-bfaa-ee318fdb682d
+       	:END:
+****** DONE Asymptotics
+       :LOGBOOK:
+       - State "DONE"       from "TODO"       [2015-03-03 Tue 20:26]
+       :END:
+       :PROPERTIES:
+       :ID:       0d285730-a2e7-4078-9d68-f4408c36d5e1
+       :END:
+******* DONE Write asymptotics
+       :LOGBOOK:
+       - State "DONE"       from "NEXT"       [2014-06-27 Fri 19:02]
+       CLOCK: [2013-12-09 Mon 10:00]--[2013-12-09 Mon 11:30] =>  1:30
+       CLOCK: [2013-12-08 Sun 20:15]--[2013-12-08 Sun 20:52] =>  0:37
+       CLOCK: [2013-12-08 Sun 15:10]--[2013-12-08 Sun 15:23] =>  0:13
+       CLOCK: [2013-08-02 Fri 14:15]--[2013-08-02 Fri 16:25] =>  2:10
+       CLOCK: [2013-08-02 Fri 12:50]--[2013-08-02 Fri 13:25] =>  0:35
+       CLOCK: [2013-07-26 Fri 14:30]--[2013-07-26 Fri 18:00] =>  3:30
+       CLOCK: [2013-07-13 Sat 10:36]--[2013-07-13 Sat 12:12] =>  1:36
+       CLOCK: [2013-07-12 Fri 11:20]--[2013-07-12 Fri 11:39] =>  0:19
+       :END:
+       :PROPERTIES:
+       :ID:       21c4ab7e-6891-48d6-b551-9932702a3a3a
+       :END:
+******* DONE Get lower bound asymptotics
+	:LOGBOOK:
+	- State "DONE"       from "WAITING"    [2015-03-03 Tue 20:26]
+	- State "WAITING"    from "NEXT"       [2014-07-12 Sat 10:16] \\
+	  Sent to Ben to check my work.
+	CLOCK: [2014-07-12 Sat 09:15]--[2014-07-12 Sat 10:16] =>  1:01
+	CLOCK: [2014-07-10 Thu 20:55]--[2014-07-10 Thu 22:26] =>  1:31
+	CLOCK: [2014-07-10 Thu 18:34]--[2014-07-10 Thu 19:46] =>  1:12
+	CLOCK: [2014-07-08 Tue 20:42]--[2014-07-08 Tue 21:18] =>  0:36
+	CLOCK: [2014-07-08 Tue 11:55]--[2014-07-08 Tue 12:28] =>  0:33
+	CLOCK: [2014-06-27 Fri 18:55]--[2014-06-27 Fri 19:30] =>  0:35
+	CLOCK: [2013-12-08 Sun 13:10]--[2013-12-08 Sun 15:10] =>  2:00
+	:END:
+	:PROPERTIES:
+	:ID:       764df61c-d8f8-48f8-a4fe-f66d7138f116
+	:END:
+- Need to get lower bound
+
+***** Notes
+MR2225802 gives conditions for when non-trivial self-similar solutions exist.
+****** Optimal chord/arc profile
+Suppose $\bar\gamma$ is a (convex, symmetric in both axes, 4-vertex) `reference curve', i.e. $\bar\gamma = \{(x,u(x)),(x,-u(x)):\ -a\leq x\leq a\}$ where $u$ is concave and even, and the curvature $\bar\kappa$ is increasing on $(0,a)$.  Suppose further that $\bar\kappa^{\alpha}$ is a convex function on $(-a,a)$ (i.e. with respect to $x$, not arc length).
+
+Suppose $\gamma$ is any other (convex, symmetric in both axes, 4-vertex (?)) curve, with chord-arc profile bounded below by that of $\bar\gamma$, and such that there is some interval on which equality is attained in this comparison, i.e. this is a subinterval of $\gamma$ of length $\ell$, and distance between endpoints $d$, and the arc of $\bar\gamma$ of length $\ell$ with minimal distance between endpoints also has this equal to $d$.   I think we can argue that the arc where this happens on the reference curve is symmetric (i.e. the points on the curve with $x\geq b$ for some $b$), and that after suitable translation and rotation the arc on $\gamma$ can be made to have endpoints coinciding and tangent directions at the endpoints also coinciding with the `reference' interval.  I think we can arrange (by symmetry of $\gamma$) that the interval of $\gamma$ is also symmetric after this rotation.
+
+Then the integral of $|\kappa|^{1+\alpha}$ on this interval of $\gamma$ is no less than that on this interval of $\bar\gamma$.
+
+Proof:  Let $y$ be the vertical component of position, parametrised on $[-\ell/2,\ell/2]$ by arc length.  By symmetry this is odd (for both curves).
+
+Lemma:  $y\geq \bar y$.
+
+This follows since by symmetry $y(s)-y(-s)$ is the distance between the endpoints of the curve on the interval $(-s/2,s/2)$ which by the chord-arc comparison must be no less than the distance between the endpoints of the reference curve.  We need to use the fact that the optimal intervals of the reference curve are these symmetric ones.
+
+Lemma:  $f(r,p) = |r|^{1+\alpha}/(1-p^2)^{(1+\alpha)/2}$ is convex in $\{(r,p):\ -1\leq p\leq p\}$ if $\alpha\geq 1$.
+
+Proof:  Direct computation of the Hessian.
+
+Now observe:
+$$
+E = \int |\kappa|^{1+\alpha} ds = \int (|y''|/\sqrt{1-(y')^2})^{1+\alpha} ds = \int f(y'',y') ds.
+$$
+similarly
+$$
+\bar E = \int f(\bar y'',\bar y') ds.
+$$
+Therefore by convexity we have
+$$
+E = \int f(y'',y') ds
+\geq \int f(\bar y'',\bar y') + Df_{\bar y'',\bar y'}((y-\bar y)'',(y-\bar y)') ds
+= \bar E + (1+\alpha)\int (d/dx)^2(\bar k)^\alpha (y-\bar y) ds
+$$
+where the last step is a direct computation which uses integration by parts plus change of variable from $s$ to $x$.  Since $y\geq \bar y$, we have $E\geq \bar E$.
+
+This proves the inequality we need.  The remaining problem is to remove the symmetry, etc. assumptions on $\gamma$.  The only place they are used at the moment is in deducing the inequality $y\geq \bar y$, and it might well be true that this might be true after symmetrising $y$ in the general case, if we use the chord-arc comparison some other way.
+***** References
+      :PROPERTIES:
+      :ID:       6d4bab87-97ba-49b2-9aeb-2db4c0bb40e2
+      :END:
+[[file:refs.org::#MR2668967][Singularity formation of embedded curves evolving on surfaces by curvature flow]]
+[[file:refs.org::#MR1949167][Classification of limiting shapes for isotropic curve flows]]
+[[file:refs.org::#MR1665677][The affine curve-lengthening flow]]
+[[file:refs.org::#MR2843240][A comparison theorem for the isoperimetric profile under curve-shortening flow]]
+[[file:refs.org::#MR1656553][A distance comparison principle for evolving curves]]
+[[file:refs.org::*Curve%20shortening%20makes%20convex%20curves%20circular][Curve shortening makes convex curves circular]]
+[[file:refs.org::*An%20isoperimetric%20inequality%20with%20applications%20to%20curve%20shortening][An isoperimetric inequality with applications to curve shortening]]
+[[file:refs.org::*Isoperimetric%20estimates%20for%20the%20curve%20shrinking%20flow%20in%20the%20plane][Isoperimetric estimates for the curve shrinking flow in the plane]]
+[[file:refs.org::#MR1255274][On affine plane curve evolution]]
+[[file:refs.org::#MR1424425][Contraction of convex hypersurfaces by their affine normal]]
+[[file:refs.org::#MR1902649][Singularities in crystalline curvature flows]]
+[[file:refs.org::#MR2946930][Contracting convex immersed closed plane curves with slow speed of curvature]]
+***** Meetings
+****** Ben Andrews
+       :LOGBOOK:
+       CLOCK: [2015-02-03 Tue 17:15]--[2015-02-03 Tue 18:30] =>  1:15
+       :END:
+<2015-02-03 Tue 17:00-18:30>
+**** TODO Convexity in space forms			   :CONVEX:SPACEFORM:
+     SCHEDULED: <2016-08-01 Mon>
+***** Files
+[[file:~/working/academic/research/convexity_space_forms]]
+***** Refs
+****** Spherical geometry
+[[notes:MR2049442][MR2049442-notes]]
+[[notes:2014arXiv1411.7664B][2014arXiv1411.7664B-notes]]
+[[notes:2013arXiv1308.1607G][2013arXiv1308.1607G-notes]]
+****** MCF solitons/Space-time minimal surfaces
+[[notes:MR1856176][MR1856176-notes]]
+[[notes:MR1855161][MR1855161-notes]]
+[[notes:MR3066400][MR3066400-notes]]
+[[notes:MR2888198][MR2888198-notes]]
+[[notes:MR1480081][MR1480081-notes]]
+[[notes:2014arXiv1404.6703M][2014arXiv1404.6703M-notes]]
+***** Notes
+***** Tasks
+****** TODO Admin
+       :LOGBOOK:
+       CLOCK: [2014-10-16 Thu 18:04]--[2014-10-16 Thu 18:05] =>  0:01
+       :END:
+******* DONE Create org structure
+	:LOGBOOK:
+	- State "DONE"       from "NEXT"       [2014-10-16 Thu 18:04]
+	CLOCK: [2014-10-16 Thu 17:52]--[2014-10-16 Thu 18:04] =>  0:12
+	:END:
+******* NEXT Create tasks
+	:LOGBOOK:
+	CLOCK: [2014-11-20 Thu 11:17]--[2014-11-20 Thu 11:32] =>  0:15
+	:END:
+****** TODO Mathematics
+******* TODO Basic convexity
+******** NEXT Work out precise definitions
+	 :LOGBOOK:
+	 CLOCK: [2014-11-20 Thu 11:32]--[2014-11-20 Thu 12:15] =>  0:43
+	 :END:
+******** NEXT Lies on one side of tangent equator
+******** NEXT Positive curvature
+******** NEXT Graph over the equator
+******** NEXT Gauss map
+******* TODO Position vector field
+	:LOGBOOK:
+	CLOCK: [2015-05-15 Fri 11:41]--[2015-05-15 Fri 11:43] =>  0:02
+	:END:
+******** DONE Compute conformality of position vector field
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2015-05-15 Fri 11:41]
+	 CLOCK: [2015-05-15 Fri 11:04]--[2015-05-15 Fri 11:41] =>  0:37
+	 CLOCK: [2015-05-15 Fri 10:41]--[2015-05-15 Fri 10:53] =>  0:12
+	 CLOCK: [2015-05-15 Fri 10:39]--[2015-05-15 Fri 10:40] =>  0:01
+	 :END:
+******* TODO Support function
+******** NEXT Make sure of precise definition
+	 :LOGBOOK:
+	 CLOCK: [2014-12-04 Thu 13:42]--[2014-12-04 Thu 14:30] =>  0:48
+	 :END:
+******** NEXT Parameterize by support function
+	 :LOGBOOK:
+	 CLOCK: [2014-10-16 Thu 13:00]--[2014-10-16 Thu 13:30] =>  0:30
+	 CLOCK: [2014-10-16 Thu 09:30]--[2014-10-16 Thu 12:00] =>  2:30
+	 :END:
+******** NEXT Compute laplacian
+	 :LOGBOOK:
+	 CLOCK: [2015-01-17 Sat 10:30]--[2015-01-17 Sat 11:15] =>  0:45
+	 CLOCK: [2015-01-17 Sat 09:22]--[2015-01-17 Sat 10:10] =>  0:48
+	 CLOCK: [2015-01-15 Thu 20:22]--[2015-01-15 Thu 21:00] =>  0:38
+	 CLOCK: [2015-01-15 Thu 19:34]--[2015-01-15 Thu 19:37] =>  0:03
+	 CLOCK: [2015-01-13 Tue 12:42]--[2015-01-13 Tue 14:12] =>  1:30
+	 CLOCK: [2014-12-16 Tue 09:40]--[2014-12-16 Tue 10:10] =>  0:30
+	 CLOCK: [2014-10-25 Sat 11:15]--[2014-10-25 Sat 12:40] =>  1:25
+	 CLOCK: [2014-10-23 Thu 12:55]--[2014-10-23 Thu 13:40] =>  0:45
+	 CLOCK: [2014-10-23 Thu 11:00]--[2014-10-23 Thu 12:25] =>  1:25
+	 :END:
+******* TODO Harnack inequality
+******** NEXT Work out spherical mean curvature solitons 
+       	 :LOGBOOK:
+	 CLOCK: [2015-05-20 Wed 13:55]--[2015-05-20 Wed 14:50] =>  0:55
+	 CLOCK: [2015-05-19 Tue 12:50]--[2015-05-19 Tue 15:39] =>  2:49
+	 CLOCK: [2015-05-19 Tue 09:40]--[2015-05-19 Tue 12:00] =>  2:20
+	 CLOCK: [2015-05-18 Mon 13:05]--[2015-05-18 Mon 15:25] =>  2:20
+	 CLOCK: [2015-05-18 Mon 10:10]--[2015-05-18 Mon 11:59] =>  1:49
+	 CLOCK: [2015-05-15 Fri 13:15]--[2015-05-15 Fri 14:09] =>  0:54
+       	 CLOCK: [2015-05-15 Fri 10:53]--[2015-05-15 Fri 11:04] =>  0:11
+       	 CLOCK: [2015-05-14 Thu 01:15]--[2015-05-14 Thu 02:09] =>  0:54
+       	 CLOCK: [2015-05-13 Wed 17:10]--[2015-05-13 Wed 20:26] =>  3:16
+       	 CLOCK: [2015-05-13 Wed 14:20]--[2015-05-13 Wed 16:33] =>  2:13
+       	 CLOCK: [2015-05-13 Wed 12:12]--[2015-05-13 Wed 14:18] =>  2:06
+       	 CLOCK: [2015-05-13 Wed 10:05]--[2015-05-13 Wed 10:50] =>  0:45
+       	 CLOCK: [2015-05-12 Tue 17:06]--[2015-05-12 Tue 17:33] =>  0:27
+       	 CLOCK: [2015-05-12 Tue 14:05]--[2015-05-12 Tue 14:23] =>  0:18
+       	 CLOCK: [2015-05-12 Tue 11:15]--[2015-05-12 Tue 11:55] =>  0:40
+       	 :END:
+******* TODO Ambient convexity
+******** TODO Convex cones
+********* DONE work out 2ff relative to ambient Euclidean space
+       	:LOGBOOK:
+       	- State "DONE"       from "NEXT"       [2015-05-12 Tue 11:24]
+       	CLOCK: [2015-05-12 Tue 08:34]--[2015-05-12 Tue 10:30] =>  1:56
+       	:END:
+********* NEXT Convex in sphere iff cone is convex in Euclidean
+********* NEXT Convex cone universal
+If $K = \tilde{K} \intersect \sphere^n$, then $\tilde{K} \subset $\text{cone} (K)$ where $\text{cone} (K)$ is the cone through $K$ with vertex the origin.
+******** NEXT Ambient non-collapsing
+- Like Brendle, take curvature balls in the ambient space. Are these then curvature balls for the cone? Can we therefore do it all in Euclidean space?
+
+******* TODO Space forms
+******** NEXT What happens under quotients?
+******* TODO Comparison
+******** NEXT Investigate possible comparison theory
+******* TODO Convex functions
+******* TODO Polar bodies
+******* TODO Applications
+******** NEXT Contained in a hemisphere
+****** TODO Write paper
+******* TODO Outline
+******** NEXT Create main structure
+******* TODO Sections
+******** TODO Basic convexity
+********* NEXT Characterisation of convexity
+	  :LOGBOOK:
+	  CLOCK: [2014-12-04 Thu 16:40]--[2014-12-04 Thu 17:35] =>  0:55
+	  :END:
+- geodesics joining any two points
+********* NEXT Boundary structure
+- positive curvature
+********* NEXT supporting hyperplanes
+********* NEXT Gauss map
+********* NEXT Graph
+******** TODO Support function
+********* NEXT Definition using ambient space
+- like Heintze, Alencar/Frensel
+********* NEXT Harnack inequality
+********* NEXT Parametrising by support function
+********* NEXT Laplacian
+	  :LOGBOOK:
+	  CLOCK: [2015-01-15 Thu 19:37]--[2015-01-15 Thu 20:22] =>  0:45
+	  CLOCK: [2015-01-15 Thu 18:59]--[2015-01-15 Thu 19:34] =>  0:35
+	  :END:
+********* NEXT Position Vector field
+******** TODO Harnack inequality
+********* NEXT Write Soliton equations
+	  :LOGBOOK:
+	  CLOCK: [2015-05-20 Wed 16:55]--[2015-05-20 Wed 18:10] =>  1:15
+	  CLOCK: [2015-05-19 Tue 17:40]--[2015-05-19 Tue 18:43] =>  1:03
+	  :END:
+******** TODO Connection with cones in ambient space
+********* NEXT Curvature of cone
+	  :LOGBOOK:
+	  CLOCK: [2015-05-15 Fri 11:43]--[2015-05-15 Fri 12:03] =>  0:20
+	  :END:
+******** TODO Applications
+********* NEXT Lies in a hemisphere
+******* TODO Proof reading
+****** TODO Reading
+******* NEXT Read Gerhard's spherical flows
+******* NEXT Read spherical floating body
+       	:LOGBOOK:
+       	CLOCK: [2015-05-14 Thu 09:50]--[2015-05-14 Thu 11:02] =>  1:12
+       	CLOCK: [2015-05-08 Fri 10:56]--[2015-05-08 Fri 11:15] =>  0:19
+       	CLOCK: [2015-05-08 Fri 10:27]--[2015-05-08 Fri 10:56] =>  0:29
+       	:END:
+**** TODO High codimension MCF
+***** Refs
+[[notes:MR3289845][MR3289845-notes]]
+[[notes:2014arXiv1401.4154S][2014arXiv1401.4154S-notes]]
+**** TODO CSF surfaces distance comparison :CSF:SURFACES:DIST_COMP:INPROGRESS:WRITING:
+   :PROPERTIES:
+   :ID:       85f583ed-c9eb-4993-91e3-8cedf9945d1f
+   :END:
+[[file:~/working/academic/research/csf_dist_comp_surfaces]]
+***** Notes
+***** Tasks
+****** TODO Organisation
+******* DONE Create tasks
+	 SCHEDULED: <2014-10-18 Sat>
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2014-10-30 Thu 08:35]
+	 CLOCK: [2014-10-28 Tue 19:40]--[2014-10-28 Tue 19:49] =>  0:09
+	 :END:
+****** TODO Math
+******* TODO Dist comp on sphere
+******** TODO Chord/arc profile
+******** TODO Comparison
+******* TODO Comparison for positively curved surfaces
+******* TODO Connection with ancient solutions
+****** TODO Writing
+******* DONE Create org file
+	:LOGBOOK:
+	- State "DONE"       from "NEXT"       [2014-10-28 Tue 20:10]
+	CLOCK: [2014-10-28 Tue 19:49]--[2014-10-28 Tue 20:10] =>  0:21
+	:END:
+******* TODO Introduction
+******** NEXT Write outline
+******* TODO Preliminaries
+******** NEXT Write evolution of curvature/area 
+	 :LOGBOOK:
+	 CLOCK: [2015-02-17 Tue 15:05]--[2015-02-17 Tue 15:32] =>  0:27
+	 :END:
+******* TODO Chord/arc profile
+******** NEXT Write variations
+	 :LOGBOOK:
+	 CLOCK: [2015-02-16 Mon 17:30]--[2015-02-16 Mon 18:20] =>  0:50
+	 :END:
+******** NEXT Write asymptotics
+******** NEXT Write viscosity equation
+******* TODO Comparisons
+******** DONE Calculate circle of latitude profile
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2015-02-17 Tue 16:40]
+	 CLOCK: [2015-02-17 Tue 15:32]--[2015-02-17 Tue 16:40] =>  1:08
+	 CLOCK: [2015-02-16 Mon 13:50]--[2015-02-16 Mon 14:18] =>  0:28
+	 :END:
+******** NEXT Show comparison improves
+******* TODO Convergence
+******** NEXT Obtain curvature bound
+***** Refs
+
+**** TODO Isoperimetric profile with density :ISOPERIMETRIC:DENSITY:INPROGRESS:WRITING:
+[[file:~/working/academic/research/isoperimetric_profile_density]]
+***** Notes
+***** Tasks
+****** TODO Org
+       :LOGBOOK:
+       CLOCK: [2015-04-28 Tue 14:29]--[2015-04-28 Tue 14:30] =>  0:01
+       CLOCK: [2015-03-03 Tue 20:55]--[2015-03-03 Tue 20:56] =>  0:01
+       :END:
+******* DONE Set up org files
+	:LOGBOOK:
+	- State "DONE"       from "NEXT"       [2015-03-03 Tue 20:55]
+	CLOCK: [2015-03-03 Tue 20:47]--[2015-03-03 Tue 20:55] =>  0:08
+	:END:
+******* NEXT Set up tasks
+****** TODO Maths
+******* TODO Viscosity equation
+******** NEXT Variations
+	 :LOGBOOK:
+	 CLOCK: [2015-04-27 Mon 17:00]--[2015-04-27 Mon 18:00] =>  1:00
+	 CLOCK: [2015-04-27 Mon 21:02]--[2015-04-27 Mon 21:29] =>  0:27
+	 CLOCK: [2015-04-27 Mon 10:45]--[2015-04-27 Mon 12:00] =>  1:15
+	 CLOCK: [2015-04-27 Mon 08:48]--[2015-04-27 Mon 09:24] =>  0:36
+	 CLOCK: [2015-04-24 Fri 11:00]--[2015-04-24 Fri 11:45] =>  0:45
+	 CLOCK: [2015-04-24 Fri 09:30]--[2015-04-24 Fri 10:45] =>  1:15
+	 CLOCK: [2015-04-23 Thu 16:59]--[2015-04-23 Thu 17:11] =>  0:12
+	 CLOCK: [2015-04-23 Thu 16:16]--[2015-04-23 Thu 16:50] =>  0:34
+	 CLOCK: [2015-04-23 Thu 13:53]--[2015-04-23 Thu 14:13] =>  0:20
+	 CLOCK: [2015-04-21 Tue 20:50]--[2015-04-21 Tue 21:21] =>  0:31
+	 CLOCK: [2015-04-21 Tue 15:37]--[2015-04-21 Tue 16:24] =>  0:47
+	 CLOCK: [2015-04-21 Tue 14:14]--[2015-04-21 Tue 15:10] =>  0:56
+	 CLOCK: [2015-04-20 Mon 20:05]--[2015-04-20 Mon 20:53] =>  0:48
+	 CLOCK: [2015-04-20 Mon 11:57]--[2015-04-20 Mon 13:07] =>  1:10
+	 CLOCK: [2015-04-20 Mon 10:58]--[2015-04-20 Mon 11:31] =>  0:33
+	 CLOCK: [2015-04-14 Tue 14:00]--[2015-04-14 Tue 15:22] =>  1:22
+	 CLOCK: [2015-04-14 Tue 10:30]--[2015-04-14 Tue 10:40] =>  0:10
+	 CLOCK: [2015-04-02 Thu 13:10]--[2015-04-02 Thu 14:10] =>  1:00
+	 CLOCK: [2015-03-20 Fri 13:25]--[2015-03-20 Fri 15:22] =>  1:57
+	 CLOCK: [2015-03-13 Fri 14:51]--[2015-03-13 Fri 16:31] =>  1:40
+	 CLOCK: [2015-03-13 Fri 11:39]--[2015-03-13 Fri 12:00] =>  0:21
+	 CLOCK: [2015-03-12 Thu 13:26]--[2015-03-12 Thu 14:32] =>  1:06
+	 CLOCK: [2015-03-11 Wed 16:13]--[2015-03-11 Wed 16:47] =>  0:34
+	 CLOCK: [2015-03-11 Wed 15:12]--[2015-03-11 Wed 16:05] =>  0:53
+	 CLOCK: [2015-03-11 Wed 11:40]--[2015-03-11 Wed 12:54] =>  1:14
+	 CLOCK: [2015-03-10 Tue 12:05]--[2015-03-10 Tue 13:22] =>  1:17
+	 CLOCK: [2015-03-03 Tue 20:56]--[2015-03-03 Tue 21:51] =>  0:55
+	 :END:
+******** NEXT Compute viscosity equation
+	 :LOGBOOK:
+	 CLOCK: [2015-04-30 Thu 13:15]--[2015-04-30 Thu 15:33] =>  2:18
+	 CLOCK: [2015-04-29 Wed 20:05]--[2015-04-29 Wed 20:48] =>  0:43
+	 CLOCK: [2015-04-29 Wed 11:27]--[2015-04-29 Wed 12:57] =>  1:30
+	 CLOCK: [2015-04-28 Tue 19:30]--[2015-04-28 Tue 20:25] =>  0:55
+	 :END:
+****** TODO Writing
+******* TODO Introduction
+******** NEXT Find references
+	 :LOGBOOK:
+	 CLOCK: [2015-04-28 Tue 13:58]--[2015-04-28 Tue 14:29] =>  0:31
+	 :END:
+******* TODO Viscosity
+******** NEXT Write variations
+	 :LOGBOOK:
+	 CLOCK: [2015-04-28 Tue 14:30]--[2015-04-28 Tue 15:22] =>  0:52
+	 :END:
+******** NEXT Write viscosity equation
+	 :LOGBOOK:
+	 CLOCK: [2015-05-05 Tue 16:08]--[2015-05-05 Tue 17:03] =>  0:55
+	 CLOCK: [2015-05-05 Tue 15:01]--[2015-05-05 Tue 16:01] =>  1:00
+	 CLOCK: [2015-04-30 Thu 20:26]--[2015-04-30 Thu 22:07] =>  1:41
+	 CLOCK: [2015-04-29 Wed 16:21]--[2015-04-29 Wed 17:16] =>  0:55
+	 :END:
+***** Refs
+**** TODO Conformal MCF Solitons
+[[file:~/working/academic/research/conformal_mcf_solitons]]
+***** Refs
+***** Tasks
+****** TODO Writing
+******* TODO Conformal Geometry
+******** NEXT Change of ambient geometry
+	 :LOGBOOK:
+	 CLOCK: [2015-06-13 Sat 12:08]--[2015-06-13 Sat 12:41] =>  0:33
+	 CLOCK: [2015-06-13 Sat 10:46]--[2015-06-13 Sat 11:44] =>  0:58
+	 :END:
+******** NEXT Change of submanifold geometry
+******* TODO Conformal Solitons
+******** DONE Write soliton defn
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2015-06-15 Mon 18:56]
+	 CLOCK: [2015-06-15 Mon 16:47]--[2015-06-15 Mon 18:22] =>  1:35
+	 :END:
+******** TODO Make soliton defn more concise
+******** NEXT Write conformal soliton equations
+	 :LOGBOOK:
+	 CLOCK: [2015-06-15 Mon 18:56]--[2015-06-15 Mon 20:15] =>  1:19
+	 :END:
+****** TODO Maths
+
+***** Notes
 *** Future 							    :SOMEDAY:
 **** TODO Study non-smooth mean curvature flow, minimal surfaces via support fn
      :LOGBOOK:
@@ -3900,8 +3818,140 @@ Given $X$ in the equator, let $\rho_{\alpha}(X)$ be the infimum of the lengths o
 AP&M 5829
 ***** Notes
 ***** Refs
+**** DONE Ancient solutions on spheres :FLOWS:SPHERE:ANCIENT:INPROGRESS:WRITING:
+      :LOGBOOK:
+      - State "DONE"       from "TODO"       [2016-05-12 Thu 10:26]
+      :END:
+ [[file:~/working/academic/research/ancient_flows_spheres]]
+***** Tasks
+****** DONE Set up project
+       :LOGBOOK:
+       - State "DONE"       from "TODO"       [2016-05-12 Thu 10:24]
+       CLOCK: [2014-10-30 Thu 08:48]--[2014-10-30 Thu 08:53] =>  0:05
+       :END:
+******* DONE Create repository
+	:LOGBOOK:
+	- State "DONE"       from "NEXT"       [2015-01-13 Tue 11:55]
+	:END:
+******* DONE Create org file
+	:LOGBOOK:
+	- State "DONE"       from "NEXT"       [2015-01-13 Tue 11:55]
+	:END:
+******* DONE Create publishing
+	:LOGBOOK:
+	- State "DONE"       from "NEXT"       [2015-01-13 Tue 11:55]
+	:END:
+******* DONE Create tasks
+	SCHEDULED: <2014-10-18 Sat>
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2014-10-30 Thu 08:48]
+	 CLOCK: [2014-10-30 Thu 08:37]--[2014-10-30 Thu 08:48] =>  0:11
+	 :END:
+****** DONE Write paper
+       :LOGBOOK:
+       - State "DONE"       from "TODO"       [2016-05-12 Thu 10:25]
+       :END:
+******* DONE Create outline
+	:LOGBOOK:
+	- State "DONE"       from "NEXT"       [2016-05-12 Thu 10:24]
+	CLOCK: [2015-05-26 Tue 14:28]--[2015-05-26 Tue 14:55] =>  0:27
+	:END:
+******* DONE Solition equations
+	:LOGBOOK:
+	- State "DONE"       from "NEXT"       [2016-05-12 Thu 10:25]
+	CLOCK: [2015-05-26 Tue 15:10]--[2015-05-26 Tue 16:40] =>  1:30
+	:END:
+******* DONE Harnack
+	:LOGBOOK:
+	- State "DONE"       from "TODO"       [2016-05-12 Thu 10:25]
+	:END:
+******* DONE Curvature goes to 0
+	:LOGBOOK:
+	- State "DONE"       from "TODO"       [2016-05-12 Thu 10:25]
+	:END:
+******** DONE $\int F(A) \to 0$
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2016-05-12 Thu 10:25]
+	 CLOCK: [2015-01-13 Tue 11:55]--[2015-01-13 Tue 12:36] =>  0:41
+	 :END:
+******** DONE Length of backwards flowing point is finite
+	 :LOGBOOK:
+	 - State "DONE"       from "TODO"       [2016-05-12 Thu 10:25]
+	 :END:
+******* DONE smooth backwards convergence to equator
+	:LOGBOOK:
+	- State "DONE"       from "TODO"       [2016-05-12 Thu 10:25]
+	:END:
+******* DONE Aleksandrov reflection
+	:LOGBOOK:
+	- State "DONE"       from "NEXT"       [2016-05-12 Thu 10:25]
+	CLOCK: [2015-06-08 Mon 19:23]--[2015-06-08 Mon 20:40] =>  1:17
+	CLOCK: [2015-06-08 Mon 10:18]--[2015-06-08 Mon 12:59] =>  2:41
+	:END:
+****** DONE Mathematics
+       :LOGBOOK:
+       - State "DONE"       from "TODO"       [2016-05-12 Thu 10:25]
+       :END:
+******* DONE 2ff goes to zero
+	:LOGBOOK:
+	- State "DONE"       from "TODO"       [2016-05-12 Thu 10:25]
+	:END:
+******** DONE Show $\int F(A) \to 0$
+	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2016-05-12 Thu 10:25]
+	  CLOCK: [2015-01-08 Thu 21:03]--[2015-01-08 Thu 21:25] =>  0:22
+	  CLOCK: [2015-01-08 Thu 19:45]--[2015-01-08 Thu 20:34] =>  0:49
+	  CLOCK: [2015-01-08 Thu 13:13]--[2015-01-08 Thu 14:27] =>  1:14
+	  :END:
+ - maybe by evolution of $\int F(A)$
+ - Maybe by calculating the evolution of $\int_{M_t} F(A)$ I can show that necessarily it goes to zero. Then add the Harnack inequality to get curvature and derivative bounds to get pointwise convergence.
+******** DONE Show $\int_t^{-\infty} F(A(x,t)) < \infty$ for each $x$
+	  :LOGBOOK:
+	  - State "DONE"       from "NEXT"       [2016-05-12 Thu 10:25]
+	  CLOCK: [2015-01-08 Thu 12:55]--[2015-01-08 Thu 13:13] =>  0:20
+	  CLOCK: [2015-01-08 Thu 11:33]--[2015-01-08 Thu 12:22] =>  0:49
+	  :END:
+ - this is the length of the path traced out by a point as $t\to-\infty$. Since the flow is convex by increasing sets (as $t \to -\infty$) but bounded in a hemisphere, the length surely cannot be $\infty$. Therefore $F(A(x,t) \to 0$ as $t \to -\infty$.
+ - Fix a point $x$ say at time $t=1$. Then the length of the curve $\gamma(x, t)$ from $t=-1$ to $-\infty$ is $\int_{-\infty}^1 F(A(x, t)) dt$. Since the hypersurfaces bound an increasing nested set of domains bounded by a hemisphere, and by convexity, surely the path must have finite length which implies $F(A)$ goes to $0$.
+******* DONE Harnack
+	 :LOGBOOK:
+	 - State "DONE"       from "TODO"       [2016-05-12 Thu 10:25]
+	 :END:
+ See [[*Convexity%20in%20space%20forms][Convexity in space forms]] and Urbas' and Andrews' argument
+******** DONE Compute evolution of support function
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2016-05-12 Thu 10:25]
+	 CLOCK: [2015-01-20 Tue 10:00]--[2015-01-20 Tue 10:17] =>  0:17
+	 :END:
+******** DONE Compute laplacian of support function
+	 :LOGBOOK:
+	 - State "DONE"       from "NEXT"       [2016-05-12 Thu 10:25]
+	 :END:
+******* DONE Backwards convergence
+	:LOGBOOK:
+	- State "DONE"       from "TODO"       [2016-05-12 Thu 10:25]
+	:END:
+******* DONE Aleksandrov reflection
+	:LOGBOOK:
+	- State "DONE"       from "TODO"       [2016-05-12 Thu 10:25]
+	:END:
+***** Notes
+****** DONE Check out Killing graphs preserved
+       SCHEDULED: <2016-04-17 Sun>
+	:LOGBOOK:
+	- State "DONE"       from "TODO"       [2016-05-12 Thu 10:26]
+	:END:
+ Not sure where this comes from? Is it Hamilton? Is it from free boundary problems? Perhaps it's from MR3240531?
+***** Refs
+***** Meetings
+****** Ben Chow
+	:LOGBOOK:
+	CLOCK: [2015-01-14 Wed 11:16]--[2015-01-14 Wed 12:07] =>  0:51
+	:END:
+ <2015-01-14 Wed 11:15-12:30>
 ** Books
 *** Working							      :FOCUS:
+*** Holding
 **** TODO MCF Book					   :MCF_BOOK:WRITING:
 [[file:~/working/academic/research/mcf_book]]
 [[file:~/Dropbox/MCF Project]]
@@ -4047,6 +4097,7 @@ In particular, put more detail in.
 ******* TODO Vector bundles
 ******** NEXT naturality and so forth
 ****** TODO Maths
+***
 *** Future 							    :SOMEDAY:
 **** TODO Submanifold book				       :SUBMANIFOLDS:
 [[file:~/working/academic/research/submanifolds_book]]
@@ -4701,7 +4752,7 @@ Schedule time for research, for teaching and for non-research academic work (e.g
    :ID:       76fc2a4e-0bcf-40b4-aa91-f87c8962f648
    :END:
 *** Continuum Mechanics on Riemannian manifolds
-    SCHEDULED: <2016-04-17 Sun>
+    SCHEDULED: <2016-08-01 Mon>
 
 **** Formulation
 
