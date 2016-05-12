@@ -514,7 +514,7 @@ https://researchservices.anu.edu.au/osr/programs/arc/arc-decra15.php
 [[file:~/working/academic/grants/decra/2015]]
 [[file:~/reference/academic/grants/2015/decra]]
 file:~/publish/decra_2015
-* Journals
+* Journals							   :JOURNALS:
   :PROPERTIES:
   :ID:       befc3eb8-1613-4ad7-b07f-d3190d33a71a
   :CATEGORY: Journals
@@ -522,8 +522,15 @@ file:~/publish/decra_2015
 [[file:~/working/academic/journals][journals directory]]
 ** MathSciNet
 [[file:~/working/academic/journals/review/mathscinet]]
-*** Working
-
+*** Working							      :FOCUS:
+**** NEXT Review MR3335397
+     DEADLINE: <2016-05-20 Fri>
+[[notes:MR3335397][MR3335397-notes]]
+[[file:~/working/academic/journals/mathscinet_reviews/MR3335397.org]]
+**** NEXT Review MR3455792
+     DEADLINE: <2016-06-27 Mon>
+[[notes:MR3455792][MR3455792-notes]]
+[[file:~/working/academic/journals/mathscinet_reviews/MR3455792.org]]
 *** Completed
 **** DONE Review MR3240531
     SCHEDULED: <2015-01-12 Mon> DEADLINE: <2015-02-06 Fri>
@@ -698,6 +705,7 @@ Clock summary at [2014-02-06 Thu 16:25]
      CLOCK: [2014-02-07 Fri 09:44]--[2014-02-07 Fri 09:59] =>  0:15
      :END:
 ** Refereeing
+*** Working							      :FOCUS:
 *** Completed
 **** DONE Referee space curves CSF dist comp.
    DEADLINE: <2013-04-17 Wed> SCHEDULED: <2013-02-04 Mon>
@@ -1044,8 +1052,10 @@ file:~/working/academic/journals/referee/SciChinaMath/evolution_of_convex_hypers
 | \______________ DONE Submit report   |        |   |   |      |      | 0:02 |
 #+END:
 
-*** Working
-**** TODO Referee Mean Curvature Flow of Entire Graphs Evolving Away From The Heat Flow
+**** DONE Referee Mean Curvature Flow of Entire Graphs Evolving Away From The Heat Flow
+     :LOGBOOK:
+     - State "DONE"       from "TODO"       [2016-05-12 Thu 11:52]
+     :END:
 ** Discussion
 *** Selected Papers
 **** Tasks
