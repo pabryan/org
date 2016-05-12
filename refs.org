@@ -191,6 +191,12 @@
 [[bib:MR2886537][MR2886537-bib]]
 *** 35R Miscellaneous topics
 **** 35R01 Partial differential equations on manifolds		  :manifolds:
+***** Metric measure spaces with {R}iemannian {R}icci curvature bounded from below
+:PROPERTIES:
+:Custom_ID: MR3205729
+:END:
+[[papers:MR3205729][MR3205729-paper]]
+[[bib:MR3205729][MR3205729-bib]]
 ***** Local {A}ronson-{B}\'enilan estimates and entropy formulae for porous medium and fast diffusion equations on manifolds :porous_medium:entropy:
 :PROPERTIES:
 :Custom_ID: MR2487898
@@ -879,10 +885,28 @@
 [[papers:MR1046497][MR1046497-paper]]
 [[bib:MR1046497][MR1046497-bib]]
 **** 53C23 (1991-now) Global geometric and topological methods (à la Gromov); differential geometric analysis on metric spaces
-***** Metric structures for {R}iemannian and non-{R}iemannian spaces
+***** On the geometry of metric measure spaces. {II}
 :PROPERTIES:
-:Custom_ID: MR1699320
+:Custom_ID: MR2237207
 :END:
+[[papers:MR2237207][MR2237207-paper]]
+[[bib:MR2237207][MR2237207-bib]]
+***** On the geometry of metric measure spaces. {I}
+:PROPERTIES:
+:Custom_ID: MR2237206
+:END:
+[[papers:MR2237206][MR2237206-paper]]
+[[bib:MR2237206][MR2237206-bib]]
+***** Ricci curvature for metric-measure spaces via optimal transport
+      :PROPERTIES:
+      :Custom_ID: MR2480619
+      :END:
+ [[papers:MR2480619][MR2480619-paper]]
+ [[bib:MR2480619][MR2480619-bib]]
+***** Metric structures for {R}iemannian and non-{R}iemannian spaces
+      :PROPERTIES:
+      :Custom_ID: MR1699320
+      :END:
 [[papers:MR1699320][MR1699320-paper]]
 [[bib:MR1699320][MR1699320-bib]]
 **** 53C24 (2000-now) Rigidity results

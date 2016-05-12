@@ -523,12 +523,27 @@ file:~/publish/decra_2015
 ** MathSciNet
 [[file:~/working/academic/journals/review/mathscinet]]
 *** Working							      :FOCUS:
-**** NEXT Review MR3335397
+**** TODO Review MR3335397
      DEADLINE: <2016-05-20 Fri>
 [[notes:MR3335397][MR3335397-notes]]
 [[file:~/working/academic/journals/mathscinet_reviews/MR3335397.org]]
+***** Tasks
+****** NEXT Write review
+***** Notes
+***** Refs
+
+[[notes:MR3205729][MR3205729-notes]]
+
+[[notes:MR2480619][MR2480619-notes]]
+
+[[notes:MR2237206][MR2237206-notes]]
+
+[[notes:MR2237207][MR2237207-notes]]
+
+
+
 **** NEXT Review MR3455792
-     DEADLINE: <2016-06-27 Mon>
+     DEADLINE: <2016-06-19 Sun>
 [[notes:MR3455792][MR3455792-notes]]
 [[file:~/working/academic/journals/mathscinet_reviews/MR3455792.org]]
 *** Completed
@@ -1233,7 +1248,14 @@ Try to use as much available software that I can find. Do it like Sage - don't r
   [[file:~/working/academic/research/]]
 ** Papers
 *** Working							      :FOCUS:
+**** TODO Ancient Flows in Riemannian Backgrounds
+***** NEXT Create Project
+**** TODO Gauss Curvature Flow
+***** NEXT Create Project
 *** Holding
+**** TODO Ovals Problem
+***** Tasks
+****** NEXT Set up project
 **** TODO Pipe Flows					  :PIPE_FLOW:WRITING:
    :PROPERTIES:
    :ID:       cf90c8f0-dc09-44d4-87d4-f7000acc2ba1
@@ -3961,6 +3983,12 @@ AP&M 5829
  <2015-01-14 Wed 11:15-12:30>
 ** Books
 *** Working							      :FOCUS:
+**** Differential Geometry Lectures
+***** Tasks
+****** NEXT Proof reading
+       SCHEDULED: <2016-05-16 Mon>
+***** Notes
+***** Refs
 *** Holding
 **** TODO MCF Book					   :MCF_BOOK:WRITING:
 [[file:~/working/academic/research/mcf_book]]
@@ -6322,6 +6350,13 @@ Richard Montgomery <rmont@ucsc.edu>, David Hoffman <hoffman@math.stanford.edu>, 
      CLOCK: [2015-04-16 Thu 14:08]--[2015-04-16 Thu 16:00] =>  1:52
      CLOCK: [2015-04-16 Thu 09:20]--[2015-04-16 Thu 10:25] =>  1:05
      :END:
+
+** Warwick
+*** Warwick Analysis Spring 2016 
+    SCHEDULED: <2016-05-19 Thu 16:00-17:00>
+
+**** NEXT Prepare Talk
+     DEADLINE: <2016-05-19 Thu> SCHEDULED: <2016-05-16 Mon>
 
 * Students
   :PROPERTIES:
