@@ -598,7 +598,8 @@ http://orgmode.org/worg/org-tutorials/org-google-sync.html
 [2013-09-14 Sat 19:43]
 
 *** Archiving
-**** TODO Archive things
+**** NEXT Archive things
+     SCHEDULED: <2016-06-20 Mon>
   :PROPERTIES:
   :ID:       a1611ad9-0546-41d7-a584-9edb3ef77445
   :END:
@@ -623,6 +624,14 @@ I need to be able to focus on the right tasks which means not seeing all possibl
   - Pretty much what I have now (maybe I don't need tasks listed)
 - Personal agenda view
   - Non-work stuff
+**** NEXT Make agenda blocks
+  SCHEDULED: <2016-06-20 Mon>
+  :LOGBOOK:
+  CLOCK: [2015-02-27 Fri 14:38]--[2015-02-27 Fri 14:39] =>  0:01
+  :END:
+[2015-02-27 Fri 14:38]
+- research writing should include tasks from research notes
+- make block for learning tasks, like reading Federer etc.
 **** TODO Create project agenda view
   :LOGBOOK:
   CLOCK: [2014-02-20 Thu 09:10]--[2014-02-20 Thu 09:11] =>  0:01
@@ -665,6 +674,10 @@ Things are getting a little out of hand. I think I should break up configuration
      :END:
 [2014-02-10 Mon 15:45]
 How do I choose which course?
+**** NEXT Research Ideas
+     SCHEDULED: <2016-06-20 Mon>
+
+This is totally important! If I have ideas, I want to be able to capture them quickly, then move on. Make sure to add a review to check my research ideas and refile regularly.
 *** Babel
 **** TODO Research Babel
 ***** NEXT Read tutorials
@@ -672,6 +685,9 @@ How do I choose which course?
       CLOCK: [2014-04-17 Thu 19:30]--[2014-04-17 Thu 20:34] =>  1:04
       :END:
 
+*** Reviews
+**** NEXT Re-evaluate my review process
+I want to capture research ideas and wot-not without interrupting the flow of work. Then during the weekly review I should look over them and decide what to do with them. The monthly review should include an evaluate of projects and research ideas. The yearly review should be much more in depth look at the projects and ideas to see what I'm getting done and what I want to get done/need to get done. Perhaps monthly/quarterly reviews can also touch on this? Maybe not a bad idea to set some goals too, and evaluate regularly.
 ** Hacking
 *** TODO special headlines
   :LOGBOOK:
@@ -3904,12 +3920,17 @@ Set some goals for the month. I should check someday projects for inclusion in t
 *** Monthly Review
 Check how I did last month. I guess the review and plan could probably go together. This is all broad stuff
 
-** TODO Daily Review [0/11]
-   SCHEDULED: <2016-05-06 Fri .+1d/2d>
+** NEXT Daily Review [0/11]
+   SCHEDULED: <2016-05-17 Tue .+1d/2d>
    :PROPERTIES:
-   :LAST_REPEAT: [2016-05-05 Thu 16:35]
+   :STYLE:    habit
+   :REPEAT_TO_STATE: NEXT
+   :RESET_CHECK_BOXES: t
+   :ID:       616c5bd9-d941-4fcc-8874-2ff3c9e96b4a
+   :LAST_REPEAT: [2016-05-16 Mon 17:35]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "TODO"       [2016-05-16 Mon 17:35]
    - State "DONE"       from "NEXT"       [2016-05-05 Thu 16:35]
    - State "DONE"       from "NEXT"       [2016-02-23 Tue 21:59]
    - State "DONE"       from "NEXT"       [2015-07-05 Sun 19:32]
@@ -4462,13 +4483,7 @@ Check how I did last month. I guess the review and plan could probably go togeth
    - State "DONE"       from "NEXT"       [2013-01-14 Mon 17:43]
    :END:
 
-   :PROPERTIES:
-   :STYLE:    habit
-   :REPEAT_TO_STATE: NEXT
-   :RESET_CHECK_BOXES: t
-   :ID:       616c5bd9-d941-4fcc-8874-2ff3c9e96b4a
-   :LAST_REPEAT: [2016-02-23 Tue 21:59]
-   :END:
+
 
 What to review:
 
@@ -4492,12 +4507,17 @@ When I set up scoring the day:
   - This would be ranking *qualitative* things such as general mood, pain, energy, motivation etc.
 - [ ] Collate data such as sleep, weight, exercise, diet etc.
   
-** TODO Daily Plan [0/9]
-   SCHEDULED: <2016-05-11 Wed .+1d/2d>
+** NEXT Daily Plan [0/9]
+   SCHEDULED: <2016-05-17 Tue .+1d/2d>
    :PROPERTIES:
-   :LAST_REPEAT: [2016-05-10 Tue 10:15]
+   :STYLE:    habit
+   :REPEAT_TO_STATE: NEXT
+   :RESET_CHECK_BOXES: t
+   :ID:       ef051ee0-1113-4604-b355-450a5a47848b   
+   :LAST_REPEAT: [2016-05-16 Mon 11:33]
    :END:
    :LOGBOOK:
+     - State "DONE"       from "TODO"       [2016-05-16 Mon 11:32]
    - State "DONE"       from "TODO"       [2016-05-10 Tue 10:15]
    - State "DONE"       from "NEXT"       [2016-05-05 Thu 16:35]
    - State "DONE"       from "NEXT"       [2016-03-02 Wed 18:42]
@@ -5638,13 +5658,7 @@ When I set up scoring the day:
    - State "DONE"       from "NEXT"       [2013-01-09 Wed 07:19]
    :END:
 
-   :PROPERTIES:
-   :STYLE:    habit
-   :REPEAT_TO_STATE: NEXT
-   :RESET_CHECK_BOXES: t
-   :ID:       ef051ee0-1113-4604-b355-450a5a47848b   
-   :LAST_REPEAT: [2016-03-02 Wed 18:42]
-   :END:
+
    
    - [ ] Check agenda/focus
    - [ ] Check weekly agenda
@@ -5656,9 +5670,18 @@ When I set up scoring the day:
    - [ ] Do short tasks
    - [ ] Record morning health stats
 
-** NEXT Weekly Review [0/20]
-   SCHEDULED: <2015-04-03 Fri +1w>
+** NEXT Weekly Review [14/16]
+   SCHEDULED: <2015-04-24 Fri +1w>
+   :PROPERTIES:
+   :STYLE:    habit
+   :REPEAT_TO_STATE: NEXT
+   :ID:       846c05fa-21d7-4e6f-8431-a1fa06631945
+   :RESET_CHECK_BOXES: t
+   :LAST_REPEAT: [2016-05-16 Mon 17:36]
+   :END:
    :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2016-05-16 Mon 17:36]
+   - State "DONE"       from "NEXT"       [2016-05-16 Mon 17:26]
    - State "DONE"       from "NEXT"       [2015-06-05 Fri 22:12]
    - State "DONE"       from "NEXT"       [2015-05-03 Sun 15:43]
    CLOCK: [2015-05-03 Sun 14:48]--[2015-05-03 Sun 15:43] =>  0:55
@@ -5825,48 +5848,36 @@ When I set up scoring the day:
    - State "DONE"       from "NEXT"       [2012-12-07 Fri 13:44]
    - State "DONE"       from "NEXT"       [2012-11-30 Fri 14:06]
    :END:
-   :PROPERTIES:
-   :STYLE:    habit
-   :REPEAT_TO_STATE: NEXT
-   :ID:       846c05fa-21d7-4e6f-8431-a1fa06631945
-   :RESET_CHECK_BOXES: t
-   :LAST_REPEAT: [2015-06-05 Fri 22:12]
-   :END:
 
-- [ ] Check holding directory
+
+- [X] Check holding directory
   [[file:~/holding]]
 - [ ] Check holding email folder
-- [ ] Check coupons email folder
-- [ ] Review weekly agenda =F12 a w//=
-- [ ] Check clocking data for past week =v c=
+- [X] Review weekly agenda =F12 a w//=
+- [X] Check clocking data for past week =v c=
   - fix up any errors
-- [ ] Review clock report for past week =R=
+- [X] Review clock report for past week =R=
   - Check where we spent time (too much or too little) and rectify this week
-- [ ] Look at entire agenda for today  =F12 SPC=
-- [ ] Check un-committed work
-- [ ] Refile tasks
-- [ ] Weekly clean up
-  - [ ] Clean up Downloads
-  - [ ] Clean up tmp
-  - [ ] Clean up tablet
-  - [ ] Clean up phone
-- [ ] Process incoming information
-  - [ ] feedly
-  - [ ] pocket
-- [ ] Review focus projects 
-- [ ] Set focus
-- [ ] Check follow-up paper folder
-- [ ] Collate the weeks: pad scribbles, org-mode notes, phone notes, etc.
-- [ ] Check Finances
+- [X] Look at entire agenda for today  =F12 SPC=
+- [X] Check un-committed work
+- [X] Refile tasks
+- [X] Weekly clean up
+  - [X] Clean up Downloads
+  - [X] Clean up tmp
+  - [X] Clean up tablet
+  - [X] Clean up phone
+- [X] Process incoming information
+  - [X] feedly
+  - [X] pocket
+- [X] Set focus/tasks for the week
+- [X] Check follow-up paper folder
+- [ ] Collate the weeks: pad scribbles, org-mode notes, phone notes, etc. Make tasks!
+- [X] Check Finances
   - Check bank accounts and compare with what's still to come
   - Plan the weeks budget
   - Update monthly transactions
-- [ ] Copy music to phone
-- [ ] Share photos on Google+
-- [ ] Update Abundant Harvest order
-  - http://www.abundantharvestorganics.com/
-- [ ] Order meat
-  - http://www.son-riseranchstore.com/
+- [X] Copy music to phone
+- [X] Share photos on Google+
 
 *** Maybe tasks
 - [ ] Plan the upcoming week
@@ -5893,7 +5904,7 @@ When I set up scoring the day:
       - [ ] Weekly review: Friday afternoon's!
       - [ ] Project planning
 ** NEXT Monthly (Quarterly?) Plan/Review [0/16]
-   SCHEDULED: <2015-02-01 Sun +1m>
+   SCHEDULED: <2016-06-20 Mon +1m>
    :LOGBOOK:
    - State "DONE"       from "NEXT"       [2015-01-04 Sun 19:12]
    CLOCK: [2013-09-11 Wed 08:00]--[2013-09-11 Wed 08:25] =>  0:25
