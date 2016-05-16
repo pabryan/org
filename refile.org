@@ -16,3 +16,10 @@ Develop a procedure for reading papers.
 - When away from computer, takes notes and record URL's etc. somehow. Then at office, organise them properly using the system and clean up after.
 * TODO Set up dropbox on phablet
 [2016-05-16 Mon 17:26]
+* TODO Set check_uncommited.sh to check git repositories as well
+  SCHEDULED: <2016-06-20 Mon>
+  :LOGBOOK:
+  CLOCK: [2016-05-16 Mon 17:37]--[2016-05-16 Mon 17:38] =>  0:01
+  :END:
+[2016-05-16 Mon 17:37]
+[[file:~/org/workflow.org::*Weekly%20Review][Weekly Review {14/16}]]

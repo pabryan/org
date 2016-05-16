@@ -5670,16 +5670,17 @@ When I set up scoring the day:
    - [ ] Do short tasks
    - [ ] Record morning health stats
 
-** NEXT Weekly Review [14/16]
-   SCHEDULED: <2015-04-24 Fri +1w>
+** NEXT Weekly Review [0/16]
+   SCHEDULED: <2015-05-01 Fri +1w>
    :PROPERTIES:
    :STYLE:    habit
    :REPEAT_TO_STATE: NEXT
    :ID:       846c05fa-21d7-4e6f-8431-a1fa06631945
    :RESET_CHECK_BOXES: t
-   :LAST_REPEAT: [2016-05-16 Mon 17:36]
+   :LAST_REPEAT: [2016-05-16 Mon 17:38]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2016-05-16 Mon 17:38]
    - State "DONE"       from "NEXT"       [2016-05-16 Mon 17:36]
    - State "DONE"       from "NEXT"       [2016-05-16 Mon 17:26]
    - State "DONE"       from "NEXT"       [2015-06-05 Fri 22:12]
@@ -5850,34 +5851,34 @@ When I set up scoring the day:
    :END:
 
 
-- [X] Check holding directory
+- [ ] Check holding directory
   [[file:~/holding]]
 - [ ] Check holding email folder
-- [X] Review weekly agenda =F12 a w//=
-- [X] Check clocking data for past week =v c=
+- [ ] Review weekly agenda =F12 a w//=
+- [ ] Check clocking data for past week =v c=
   - fix up any errors
-- [X] Review clock report for past week =R=
+- [ ] Review clock report for past week =R=
   - Check where we spent time (too much or too little) and rectify this week
-- [X] Look at entire agenda for today  =F12 SPC=
-- [X] Check un-committed work
-- [X] Refile tasks
-- [X] Weekly clean up
-  - [X] Clean up Downloads
-  - [X] Clean up tmp
-  - [X] Clean up tablet
-  - [X] Clean up phone
-- [X] Process incoming information
-  - [X] feedly
-  - [X] pocket
-- [X] Set focus/tasks for the week
-- [X] Check follow-up paper folder
+- [ ] Look at entire agenda for today  =F12 SPC=
+- [ ] Check un-committed work
+- [ ] Refile tasks
+- [ ] Weekly clean up
+  - [ ] Clean up Downloads
+  - [ ] Clean up tmp
+  - [ ] Clean up tablet
+  - [ ] Clean up phone
+- [ ] Process incoming information
+  - [ ] feedly
+  - [ ] pocket
+- [ ] Set focus/tasks for the week
+- [ ] Check follow-up paper folder
 - [ ] Collate the weeks: pad scribbles, org-mode notes, phone notes, etc. Make tasks!
-- [X] Check Finances
+- [ ] Check Finances
   - Check bank accounts and compare with what's still to come
   - Plan the weeks budget
   - Update monthly transactions
-- [X] Copy music to phone
-- [X] Share photos on Google+
+- [ ] Copy music to phone
+- [ ] Share photos on Google+
 
 *** Maybe tasks
 - [ ] Plan the upcoming week
