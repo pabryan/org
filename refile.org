@@ -23,3 +23,11 @@ Develop a procedure for reading papers.
   :END:
 [2016-05-16 Mon 17:37]
 [[file:~/org/workflow.org::*Weekly%20Review][Weekly Review {14/16}]]
+* TODO Org-mode repeating task jump to next week
+  :LOGBOOK:
+  CLOCK: [2016-05-16 Mon 17:40]--[2016-05-16 Mon 17:42] =>  0:02
+  :END:
+[2016-05-16 Mon 17:40]
+
+Check how to change habits, reviews etc. to jump to next Monday, or next day and not add one week to previous completion date.
+e.g. if it was last done on 1/1/2016, but today is the 13/3/2016 and I mark it as done, I want the next repeat to be the 14/3/2016 (if one day), or the next Monday if weekly

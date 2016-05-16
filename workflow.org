@@ -5671,17 +5671,15 @@ When I set up scoring the day:
    - [ ] Record morning health stats
 
 ** NEXT Weekly Review [0/16]
-   SCHEDULED: <2015-05-01 Fri +1w>
+   SCHEDULED: <2016-05-23 Mon +1w>
    :PROPERTIES:
    :STYLE:    habit
    :REPEAT_TO_STATE: NEXT
    :ID:       846c05fa-21d7-4e6f-8431-a1fa06631945
    :RESET_CHECK_BOXES: t
-   :LAST_REPEAT: [2016-05-16 Mon 17:38]
+   :LAST_REPEAT: [2016-05-16 Mon 17:39]
    :END:
    :LOGBOOK:
-   - State "DONE"       from "NEXT"       [2016-05-16 Mon 17:38]
-   - State "DONE"       from "NEXT"       [2016-05-16 Mon 17:36]
    - State "DONE"       from "NEXT"       [2016-05-16 Mon 17:26]
    - State "DONE"       from "NEXT"       [2015-06-05 Fri 22:12]
    - State "DONE"       from "NEXT"       [2015-05-03 Sun 15:43]
