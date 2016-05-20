@@ -523,12 +523,23 @@ file:~/publish/decra_2015
 ** MathSciNet
 [[file:~/working/academic/journals/review/mathscinet]]
 *** Working							      :FOCUS:
-**** NEXT Review MR3335397
+**** NEXT Review MR3455792
+     DEADLINE: <2016-06-19 Sun>
+[[notes:MR3455792][MR3455792-notes]]
+[[file:~/working/academic/journals/mathscinet_reviews/MR3455792.org]]
+*** Completed
+**** DONE Review MR3335397
      DEADLINE: <2016-05-22 Sun>
+     :LOGBOOK:
+     - State "DONE"       from "TODO"       [2016-05-20 Fri 12:15]
+     :END:
 [[notes:MR3335397][MR3335397-notes]]
 [[file:~/working/academic/journals/mathscinet_reviews/MR3335397.org]]
 ***** Tasks
-****** NEXT Write review
+****** DONE Write review
+       :LOGBOOK:
+       - State "DONE"       from "NEXT"       [2016-05-20 Fri 12:15]
+       :END:
 ***** Notes
 ***** Refs
 
@@ -540,12 +551,6 @@ file:~/publish/decra_2015
 
 [[notes:MR2237207][MR2237207-notes]]
 
-
-**** NEXT Review MR3455792
-     DEADLINE: <2016-06-19 Sun>
-[[notes:MR3455792][MR3455792-notes]]
-[[file:~/working/academic/journals/mathscinet_reviews/MR3455792.org]]
-*** Completed
 **** DONE Review MR3240531
     SCHEDULED: <2015-01-12 Mon> DEADLINE: <2015-02-06 Fri>
     :LOGBOOK:
@@ -7352,7 +7357,7 @@ https://academicjobsonline.org/ajo/jobs/4242
      - State "DONE"       from "NEXT"       [2014-02-25 Tue 16:55]
      :END:
 **** NEXT Prepare high codimension MCF support fn
-     SCHEDULED: <2016-05-17 Tue>
+     SCHEDULED: <2016-06-20 Mon>
 *** Hubert Bray
 **** NEXT Contact Hubert about visiting next year
 *** Yanir Rubinstein
