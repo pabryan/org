@@ -6442,10 +6442,13 @@ Richard Montgomery <rmont@ucsc.edu>, David Hoffman <hoffman@math.stanford.edu>, 
 
 ** Warwick
 *** Warwick Analysis Spring 2016 
-    SCHEDULED: <2016-05-19 Thu 16:00-17:00>
+    <2016-05-19 Thu 16:00-17:00>
 
-**** NEXT Prepare Talk
+**** DONE Prepare Talk
      DEADLINE: <2016-05-19 Thu> SCHEDULED: <2016-05-16 Mon>
+     :LOGBOOK:
+     - State "DONE"       from "NEXT"       [2016-05-20 Fri 11:22]
+     :END:
 
 * Students
   :PROPERTIES:
