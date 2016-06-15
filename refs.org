@@ -978,6 +978,12 @@
 [[papers:MR1449403][MR1449403-paper]]
 [[bib:MR1449403][MR1449403-bib]]
 **** 53C42 (1980-now) Immersions (minimal, prescribed curvature, tight, etc.) [See also 49Q05, 49Q10, 53A10, 57R40, 57R42] :immersions:submanifold:
+***** Index, nullity and flux of {$n$}-noids
+:PROPERTIES:
+:Custom_ID: MR3466828
+:END:
+[[papers:MR3466828][MR3466828-paper]]
+[[bib:MR3466828][MR3466828-bib]]
 ***** Constant mean curvature hypersurfaces in a {L}ie group with a bi-invariant metric :cmc:lie_group:hypersurface:
 :PROPERTIES:
 :Custom_ID: MR2002821
