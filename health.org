@@ -8,14 +8,18 @@
 
 ** Tracking
 *** NEXT Exercise
-    SCHEDULED: <2016-06-16 Thu .+1d/2d>
+    SCHEDULED: <2016-06-22 Wed .+1d/2d>
     :PROPERTIES:
     :STYLE:    habit
     :REPEAT_TO_STATE: NEXT
     :ID:       8d56b2ef-1b49-4dc4-b701-1d021a293fa4
-    :LAST_REPEAT: [2016-06-15 Wed 14:04]
+    :LAST_REPEAT: [2016-06-21 Tue 20:26]
     :END:
     :LOGBOOK:
+    - State "DONE"       from "NEXT"       [2016-06-21 Tue 20:26]
+    - State "DONE"       from "NEXT"       [2016-06-19 Sun 10:52]
+    - State "DONE"       from "NEXT"       [2016-06-18 Sat 10:40]
+    - State "DONE"       from "NEXT"       [2016-06-17 Fri 10:18]
     - State "DONE"       from "NEXT"       [2016-06-15 Wed 14:04]
     - State "DONE"       from "NEXT"       [2016-05-21 Sat 11:49]
     - State "DONE"       from "NEXT"       [2016-05-20 Fri 11:22]
@@ -495,15 +499,19 @@
     - State "DONE"       from "NEXT"       [2013-03-09 Sat 11:10]
     :END:
 *** NEXT Mobility
-    SCHEDULED: <2016-06-16 Thu .+1d/2d>
+    SCHEDULED: <2016-06-22 Wed .+1d/2d>
     :PROPERTIES:
-    :LAST_REPEAT: [2016-06-15 Wed 14:04]
+    :LAST_REPEAT: [2016-06-21 Tue 20:26]
     :STYLE:    habit
     :REPEAT_TO_STATE: NEXT
     :ID:       0e75f56d-0356-4a0f-a376-080471ad4aad
     :LAST_REPEAT: [2016-04-21 Thu 11:59]
     :END:
     :LOGBOOK:
+    - State "DONE"       from "NEXT"       [2016-06-21 Tue 20:26]
+    - State "DONE"       from "NEXT"       [2016-06-19 Sun 10:47]
+    - State "DONE"       from "NEXT"       [2016-06-18 Sat 10:40]
+    - State "DONE"       from "NEXT"       [2016-06-17 Fri 10:18]
     - State "DONE"       from "NEXT"       [2016-06-15 Wed 14:04]
     - State "DONE"       from "NEXT"       [2016-05-24 Tue 09:59]
     - State "DONE"       from "NEXT"       [2016-05-23 Mon 13:27]
@@ -1154,8 +1162,9 @@
     :END:
 
 *** NEXT Daily Release
-    SCHEDULED: <2016-02-28 Sun .+1d/2d>
+    SCHEDULED: <2016-06-22 Wed .+1d/2d>
     :LOGBOOK:
+    - State "DONE"       from "NEXT"       [2016-06-21 Tue 20:26]
     - State "DONE"       from "NEXT"       [2016-02-27 Sat 21:37]
     - State "DONE"       from "NEXT"       [2015-06-02 Tue 18:19]
     - State "DONE"       from "NEXT"       [2015-05-13 Wed 01:00]
@@ -1356,7 +1365,7 @@
     :STYLE:    habit
     :REPEAT_TO_STATE: NEXT
     :ID:       d439600f-c40d-4dd3-82ca-3e7d9e35f2b3
-    :LAST_REPEAT: [2016-02-27 Sat 21:37]
+    :LAST_REPEAT: [2016-06-21 Tue 20:26]
     :END:
   
 *** NEXT Handstand practice
