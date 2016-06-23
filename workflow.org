@@ -4508,15 +4508,16 @@ When I set up scoring the day:
 - [ ] Collate data such as sleep, weight, exercise, diet etc.
   
 ** NEXT Daily Plan [0/9]
-   SCHEDULED: <2016-06-22 Wed .+1d/2d>
+   SCHEDULED: <2016-06-23 Thu .+1d/2d>
    :PROPERTIES:
    :STYLE:    habit
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
    :ID:       ef051ee0-1113-4604-b355-450a5a47848b   
-   :LAST_REPEAT: [2016-06-21 Tue 20:26]
+   :LAST_REPEAT: [2016-06-22 Wed 17:41]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2016-06-22 Wed 17:41]
    - State "DONE"       from "NEXT"       [2016-06-21 Tue 20:26]
    - State "DONE"       from "NEXT"       [2016-06-20 Mon 11:43]
    - State "DONE"       from "NEXT"       [2016-06-17 Fri 10:20]

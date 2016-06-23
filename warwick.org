@@ -48,3 +48,21 @@
      :location: B3.02
      :END:
 
+**** Sigurd Angenent: Mean curvature flow from cones, and other sources of non uniqueness in MCF
+<2016-06-23 Thu 14:30-15:30>
+     :PROPERTIES:
+     :location: B3.02
+     :END:
+
+***** Abstract
+Self similar shrinking solutions to Mean Curvature Flow with conical ends are completely determined by their asymptotic cone at infinity, due to a result of Lu Wang.  In contrast, there exist older examples of cones that admit more than one smooth expanding self similar evolution by MCF.  In this talk I will exhibit examples of smooth cones that admit many more smooth solutions by MCF, most of which are not self similar.
+
+**** Spyros Alexakis: Singularity formation in Black hole interiors.
+<2016-06-23 Thu 16:00-17:00>
+     :PROPERTIES:
+     :location: B3.02
+     :END:
+
+***** Abstract
+The prediction that solutions of the Einstein equations in the interior of black holes must always terminate at a singularity was originally conceived by Penrose in 1969, under the name of “strong cosmic censorship hypothesis”. The nature of this break-down (i.e. the asymptotic properties of the space-time metric as one approaches the terminal singularity) is not predicted, and remains a very hotly debated question to this day. One key question is the causal nature of the singularity (space-like, vs null for example). Another is the rate of blow-up of natural physical/geometric quantities at the singularity. Mutually contradicting predictions abound in this topic. Much work has been done under the assumption of spherical symmetry (for various matter models). We present recent developments (partly due to the speaker and G. Fournodavlos) which go well beyond this restrictive class. A key role is played by the axial symmetry reduction of the Einstein equations, where a wave map structure appears.
+
