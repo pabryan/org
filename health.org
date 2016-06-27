@@ -8,14 +8,15 @@
 
 ** Tracking
 *** NEXT Exercise
-    SCHEDULED: <2016-06-25 Sat .+1d/2d>
+    SCHEDULED: <2016-06-28 Tue .+1d/2d>
     :PROPERTIES:
     :STYLE:    habit
     :REPEAT_TO_STATE: NEXT
     :ID:       8d56b2ef-1b49-4dc4-b701-1d021a293fa4
-    :LAST_REPEAT: [2016-06-24 Fri 21:51]
+    :LAST_REPEAT: [2016-06-27 Mon 09:50]
     :END:
     :LOGBOOK:
+    - State "DONE"       from "NEXT"       [2016-06-27 Mon 09:50]
     - State "DONE"       from "NEXT"       [2016-06-24 Fri 21:51]
     - State "DONE"       from "NEXT"       [2016-06-23 Thu 22:42]
     - State "DONE"       from "NEXT"       [2016-06-22 Wed 17:29]
@@ -502,15 +503,16 @@
     - State "DONE"       from "NEXT"       [2013-03-09 Sat 11:10]
     :END:
 *** NEXT Mobility
-    SCHEDULED: <2016-06-25 Sat .+1d/2d>
+    SCHEDULED: <2016-06-28 Tue .+1d/2d>
     :PROPERTIES:
-    :LAST_REPEAT: [2016-06-24 Fri 21:51]
+    :LAST_REPEAT: [2016-06-27 Mon 09:50]
     :STYLE:    habit
     :REPEAT_TO_STATE: NEXT
     :ID:       0e75f56d-0356-4a0f-a376-080471ad4aad
     :LAST_REPEAT: [2016-04-21 Thu 11:59]
     :END:
     :LOGBOOK:
+    - State "DONE"       from "NEXT"       [2016-06-27 Mon 09:50]
     - State "DONE"       from "NEXT"       [2016-06-24 Fri 21:51]
     - State "DONE"       from "NEXT"       [2016-06-23 Thu 22:42]
     - State "DONE"       from "NEXT"       [2016-06-22 Wed 17:29]
@@ -1401,15 +1403,16 @@
     :ID:       f57232cd-a8f2-4a76-a507-4d69f765a521
     :END:
 *** NEXT Relax/Meditate
-    SCHEDULED: <2016-06-25 Sat .+1d/2d>
+    SCHEDULED: <2016-06-28 Tue .+1d/2d>
     :PROPERTIES:
     :STYLE:    habit
     :REPEAT_TO_STATE: NEXT
     :ID:       c0aaf33a-af77-446b-b9fd-cf2d2f78c12a
-    :LAST_REPEAT: [2016-06-24 Fri 21:51]
+    :LAST_REPEAT: [2016-06-27 Mon 19:32]
     :END:
 
     :LOGBOOK:
+    - State "DONE"       from "NEXT"       [2016-06-27 Mon 19:32]
     - State "DONE"       from "NEXT"       [2016-06-24 Fri 21:51]
     - State "DONE"       from "NEXT"       [2016-06-23 Thu 22:42]
     - State "DONE"       from "NEXT"       [2016-06-22 Wed 19:47]

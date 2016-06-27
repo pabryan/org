@@ -134,6 +134,15 @@ want to hit a key so that only work tasks are shown or only personal/family task
      :PROPERTIES:
      :ID:       c544c72f-f00e-4984-aec8-843eb43ebaa1
      :END:
+**** TODO Org-mode repeating task jump to next week
+     SCHEDULED: <2016-07-11 Mon>
+  :LOGBOOK:
+  CLOCK: [2016-05-16 Mon 17:40]--[2016-05-16 Mon 17:42] =>  0:02
+  :END:
+[2016-05-16 Mon 17:40]
+
+Check how to change habits, reviews etc. to jump to next Monday, or next day and not add one week to previous completion date.
+e.g. if it was last done on 1/1/2016, but today is the 13/3/2016 and I mark it as done, I want the next repeat to be the 14/3/2016 (if one day), or the next Monday if weekly
 *** Task list to sort						    :SOMEDAY:
 ****** TODO Set up TAGS
      :PROPERTIES:
@@ -1149,6 +1158,23 @@ This is for browsing papers on the Archive and finding good ones to read/review,
 - Sync with repository
 - List any unsaved buffers
 - Check uncommitted work
+*** TODO Research Reading
+**** NEXT Reading papers procedure
+  SCHEDULED: <2016-07-11 Mon>
+  :LOGBOOK:
+  CLOCK: [2016-05-16 Mon 16:43]--[2016-05-16 Mon 16:51] =>  0:08
+  :END:
+[2016-05-16 Mon 16:43]
+
+Develop a procedure for reading papers.
+
+- A bib ref must be created along with a notes org headline. 
+- Write scripts to organise papers by (relative paths so Dropbox doesn't de-reference) symlinks with title, author, keywords perhaps and MR subject. All papers will be stored in the papers directory (master pool)
+- Tags to find them - is this managable if there are lots of tags, or should they be stored as keywords in a properties container?
+- Any notes I write down should be added to the refs and any reviews also added there.
+- Publish to the web in a non-advertised place on my website with links to dropbox. Add search by tags, author etc. to this page
+- Work on the automatic scripts useds to create bib and notes entries along with downloading the paper
+- When away from computer, takes notes and record URL's etc. somehow. Then at office, organise them properly using the system and clean up after.
 ** Notes
 * social media
   :PROPERTIES:
@@ -1319,7 +1345,7 @@ Key numbers: FR428, FR382.
   :PROPERTIES:
   :ID:       2caac482-7221-4934-a479-25d3cbb12d55
   :END:
-** TODO Tasks
+** Tasks
 *** TODO Unsorted
 **** NEXT Research Backups for android devices			   :COMPUTER:
 What do I need to backup? I try to keep data in the cloud. I guess saved games and whatnot would be good to keep. Also there is some config, at least a list of apps!
@@ -1616,6 +1642,13 @@ http://porkrind.org/commit-patch/
 [2014-03-18 Tue 17:42]
 - I want check_uncommitted to also sync local/remote repositories without committing anything.
 - May need to hack on the code and issue a pull request
+***** NEXT Set check_uncommited.sh to check git repositories as well
+  SCHEDULED: <2016-07-11 Mon>
+  :LOGBOOK:
+  CLOCK: [2016-05-16 Mon 17:37]--[2016-05-16 Mon 17:38] =>  0:01
+  :END:
+[2016-05-16 Mon 17:37]
+[[file:~/org/workflow.org::*Weekly%20Review][Weekly Review {14/16}]]
 ** Software
 *** org-mode
 *** jekyll
@@ -1837,6 +1870,13 @@ http://gmane.org
     - State "DONE"       from "NEXT"       [2014-05-01 Thu 12:01]
     :END:
 [2014-04-29 Tue 16:25]
+** Phablet
+*** Notes
+*** Tasks
+**** TODO Data management
+***** NEXT Set up dropbox on phablet
+      SCHEDULED: <2016-07-11 Mon>
+[2016-05-16 Mon 17:26]
 * Clocking
   :PROPERTIES:
   :ID:       4257fe31-e606-4ca9-a848-858379409679
@@ -4507,16 +4547,17 @@ When I set up scoring the day:
   - This would be ranking *qualitative* things such as general mood, pain, energy, motivation etc.
 - [ ] Collate data such as sleep, weight, exercise, diet etc.
   
-** NEXT Daily Plan [0/9]
-   SCHEDULED: <2016-06-23 Thu .+1d/2d>
+** NEXT Daily Plan [4/9]
+   SCHEDULED: <2016-06-28 Tue .+1d/2d>
    :PROPERTIES:
    :STYLE:    habit
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
    :ID:       ef051ee0-1113-4604-b355-450a5a47848b   
-   :LAST_REPEAT: [2016-06-22 Wed 17:41]
+   :LAST_REPEAT: [2016-06-27 Mon 10:41]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2016-06-27 Mon 10:41]
    - State "DONE"       from "NEXT"       [2016-06-22 Wed 17:41]
    - State "DONE"       from "NEXT"       [2016-06-21 Tue 20:26]
    - State "DONE"       from "NEXT"       [2016-06-20 Mon 11:43]
@@ -5665,10 +5706,10 @@ When I set up scoring the day:
    - State "DONE"       from "NEXT"       [2013-01-09 Wed 07:19]
    :END:
    
-   - [ ] Check agenda/focus
-   - [ ] Check weekly agenda
-   - [ ] Check emails (including holding)
-   - [ ] Check uncommitted work
+   - [X] Check agenda/focus
+   - [X] Check weekly agenda
+   - [X] Check emails (including holding)
+   - [X] Check uncommitted work
    - [ ] Check clocking for week so far
    - [ ] Tidy up agenda tasks
    - [ ] mark done those tasks already done
@@ -5676,15 +5717,17 @@ When I set up scoring the day:
    - [ ] Record morning health stats
 
 ** NEXT Weekly Review [0/16]
-   SCHEDULED: <2016-05-23 Mon +1w>
+   SCHEDULED: <2016-06-06 Mon +1w>
    :PROPERTIES:
    :STYLE:    habit
    :REPEAT_TO_STATE: NEXT
    :ID:       846c05fa-21d7-4e6f-8431-a1fa06631945
    :RESET_CHECK_BOXES: t
-   :LAST_REPEAT: [2016-05-16 Mon 17:39]
+   :LAST_REPEAT: [2016-06-27 Mon 19:34]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2016-06-27 Mon 19:34]
+   - State "DONE"       from "NEXT"       [2016-06-27 Mon 14:28]
    - State "DONE"       from "NEXT"       [2016-05-16 Mon 17:26]
    - State "DONE"       from "NEXT"       [2015-06-05 Fri 22:12]
    - State "DONE"       from "NEXT"       [2015-05-03 Sun 15:43]

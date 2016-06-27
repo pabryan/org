@@ -1272,8 +1272,18 @@ Try to use as much available software that I can find. Do it like Sage - don't r
 **** TODO Gauss Curvature Flow
 ***** NEXT Create Project
 **** TODO Lp Minkowski
-***** NEXT Create Project
-***** NEXT Check Mohammad's Work
+***** Tasks
+****** NEXT Create Project
+****** NEXT Check Mohammad's Work
+****** NEXT Get refs for $L_p$ Minkowski problem
+  SCHEDULED: <2016-06-22 Wed>
+  :LOGBOOK:  
+  CLOCK: [2016-06-21 Tue 21:05]--[2016-06-21 Tue 21:06] =>  0:01
+  :END:      
+[2016-06-21 Tue 21:05]
+https://projecteuclid.org/download/pdf_1/euclid.jdg/1214454097
+http://www.ams.org/journals/tran/2004-356-11/S0002-9947-03-03403-2/S0002-9947-03-03403-2.pdf
+https://projecteuclid.org/download/pdf_1/euclid.jdg/1214456011
 **** TODO CSF networks 					       :CSF_NETWORKS:
    :PROPERTIES:
    :ID:       1bc93b81-8423-4598-8297-f0b90aa39aa7
@@ -6842,10 +6852,14 @@ upload to mathjobs, academicjobsonline
 **** NEXT Find more jobs
 - http://www.all-acad.com/Jobs/Mathematics_Statistics/All_Countries/203_Pure_Maths_(Logics_Algebra_Number_Theory_Analysis_Geometry_Topology)_incl_Math_Education/Experienced/Acad
 - mathjobs and academicjobsonline
-*** TODO Applications
+*** DONE Applications
+    :LOGBOOK:  
+    - State "DONE"       from "TODO"       [2016-06-27 Mon 10:57]
+    :END:      
 See http://getpocket.com/a/queue/list/jobs/ for details.
-**** TODO Misc
+**** DONE Misc
      :LOGBOOK:
+     - State "DONE"       from "TODO"       [2016-06-27 Mon 10:57]
      CLOCK: [2014-12-05 Fri 10:18]--[2014-12-05 Fri 10:19] =>  0:01
      :END:
 ***** DONE Andre Neves Postdoc
@@ -7385,6 +7399,14 @@ https://www.mathjobs.org/jobs?joblist-971-5895
       :END:
 https://academicjobsonline.org/ajo/jobs/4243
 https://academicjobsonline.org/ajo/jobs/4242
+** 2016
+*** Tasks
+**** NEXT Contact people about jobs
+  SCHEDULED: <2016-06-27 Mon>
+  :LOGBOOK:  
+  CLOCK: [2016-06-27 Mon 09:54]--[2016-06-27 Mon 09:55] =>  0:01
+  :END:      
+[2016-06-27 Mon 09:54]
 * Visiting
 ** Tasks
 ** People

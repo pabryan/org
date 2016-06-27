@@ -1064,6 +1064,12 @@
 :END:
 [[papers:MR2507612][MR2507612-paper]]
 [[bib:MR2507612][MR2507612-bib]]
+***** Min-max theory and the {W}illmore conjecture
+:PROPERTIES:
+:Custom_ID: MR3152944
+:END:
+[[papers:MR3152944][MR3152944-paper]]
+[[bib:MR3152944][MR3152944-bib]]
 **** 53C44 (2000-now) Geometric evolution equations (mean curvature flow, Ricci flow, etc.) :evolution:
 ***** Global solutions to the volume-preserving mean-curvature flow
 :PROPERTIES:
@@ -1875,6 +1881,12 @@ Here I need to do some more work since $u \mapsto g(\grad u, \grad u)$ is not a 
   :ID:       6ac9b861-65b6-4799-bb71-716b51571ab6
   :END:
 ** math.DG					      :dg:geometry:manifolds:
+*** {Mean curvature flow of mean convex hypersurfaces}
+:PROPERTIES:
+:Custom_ID: 2013arXiv1304.0926H
+:END:
+[[papers:2013arXiv1304.0926H][2013arXiv1304.0926H-paper]]
+[[bib:2013arXiv1304.0926H][2013arXiv1304.0926H-bib]]
 *** Ancient solutions of the mean curvature flow
 :PROPERTIES:
 :Custom_ID: 2013arXiv1308.4095H
