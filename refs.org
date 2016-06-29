@@ -985,6 +985,12 @@
 [[papers:MR1449403][MR1449403-paper]]
 [[bib:MR1449403][MR1449403-bib]]
 **** 53C42 (1980-now) Immersions (minimal, prescribed curvature, tight, etc.) [See also 49Q05, 49Q10, 53A10, 57R40, 57R42] :immersions:submanifold:
+***** Global {$C^2$}-estimates for convex solutions of curvature equations
+:PROPERTIES:
+:Custom_ID: MR3366747
+:END:
+[[papers:MR3366747][MR3366747-paper]]
+[[bib:MR3366747][MR3366747-bib]]
 ***** Index, nullity and flux of {$n$}-noids
 :PROPERTIES:
 :Custom_ID: MR3466828

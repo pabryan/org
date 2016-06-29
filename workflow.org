@@ -3961,15 +3961,16 @@ Set some goals for the month. I should check someday projects for inclusion in t
 Check how I did last month. I guess the review and plan could probably go together. This is all broad stuff
 
 ** NEXT Daily Review [0/11]
-   SCHEDULED: <2016-06-28 Tue .+1d/2d>
+   SCHEDULED: <2016-06-30 Thu .+1d/2d>
    :PROPERTIES:
    :STYLE:    habit
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
    :ID:       616c5bd9-d941-4fcc-8874-2ff3c9e96b4a
-   :LAST_REPEAT: [2016-06-27 Mon 20:31]
+   :LAST_REPEAT: [2016-06-29 Wed 21:05]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2016-06-29 Wed 21:05]
    - State "DONE"       from "NEXT"       [2016-06-27 Mon 20:31]
    - State "DONE"       from "TODO"       [2016-05-16 Mon 17:35]
    - State "DONE"       from "NEXT"       [2016-05-05 Thu 16:35]
@@ -4548,16 +4549,18 @@ When I set up scoring the day:
   - This would be ranking *qualitative* things such as general mood, pain, energy, motivation etc.
 - [ ] Collate data such as sleep, weight, exercise, diet etc.
   
-** NEXT Daily Plan [4/9]
-   SCHEDULED: <2016-06-28 Tue .+1d/2d>
+** NEXT Daily Plan [0/9]
+   SCHEDULED: <2016-06-30 Thu .+1d/2d>
    :PROPERTIES:
    :STYLE:    habit
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
    :ID:       ef051ee0-1113-4604-b355-450a5a47848b   
-   :LAST_REPEAT: [2016-06-27 Mon 10:41]
+   :LAST_REPEAT: [2016-06-29 Wed 21:05]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2016-06-29 Wed 21:05]
+   - State "DONE"       from "NEXT"       [2016-06-28 Tue 10:19]
    - State "DONE"       from "NEXT"       [2016-06-27 Mon 10:41]
    - State "DONE"       from "NEXT"       [2016-06-22 Wed 17:41]
    - State "DONE"       from "NEXT"       [2016-06-21 Tue 20:26]
@@ -5707,10 +5710,10 @@ When I set up scoring the day:
    - State "DONE"       from "NEXT"       [2013-01-09 Wed 07:19]
    :END:
    
-   - [X] Check agenda/focus
-   - [X] Check weekly agenda
-   - [X] Check emails (including holding)
-   - [X] Check uncommitted work
+   - [ ] Check agenda/focus
+   - [ ] Check weekly agenda
+   - [ ] Check emails (including holding)
+   - [ ] Check uncommitted work
    - [ ] Check clocking for week so far
    - [ ] Tidy up agenda tasks
    - [ ] mark done those tasks already done
