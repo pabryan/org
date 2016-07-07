@@ -1,1 +1,41 @@
 #+FILETAGS: REFILE
+* TODO Investigate Ricci Yang-Mills flow
+  SCHEDULED: <2016-07-18 Mon>
+  :LOGBOOK:
+  CLOCK: [2016-07-06 Wed 15:25]--[2016-07-06 Wed 15:29] =>  0:04
+  :END:
+[2016-07-06 Wed 15:25]
+http://arxiv.org/abs/0710.5487
+Especially in connection with isoperimetric estimates!
+All that is needed is a bound on the isoperimetric constant to guarantee long time existence.
+Furthermore, it is connected with Maxwell's equations, U(1) bundles and the like!
+* TODO Update Sphere Harnack paper
+  SCHEDULED: <2016-07-11 Mon>
+  :LOGBOOK:
+  CLOCK: [2016-07-07 Thu 11:59]--[2016-07-07 Thu 12:00] =>  0:01
+  :END:
+[2016-07-07 Thu 11:59]
+
+- Put back discussion of non-sharpness of the Harnack in the sphere
+- Use Gerhardt duality to do expanding flows
+- Integral Harnack inequality
+
+* TODO Harnack inequalities in Riemannian and Lorentzian manifolds
+  SCHEDULED: <2016-07-11 Mon>
+  :LOGBOOK:
+  CLOCK: [2016-07-07 Thu 12:00]--[2016-07-07 Thu 12:04] =>  0:04
+  :END:
+[2016-07-07 Thu 12:00]
+- Harnack quadratic evolution has curvature and derivatives of curvature in it
+- Constant, positive, sectional curvature should be okay since derivatives vanish and positivity gives the correct sign
+- Symmetric spaces also have \nabla Rm = 0
+- In general we just get a bunch of stuff involving Rm and \nabla Rm and we want it to be positive
+  - Compute this stuff!
+  - Investigate what it means for it to be positive
+- Can we modify the Harnack as we did in the sphere to get something that works better?
+- Can we modify the Harnack so that all we need is bounds on the extra stuff? A bit like Ben Chow $\S^2$ Ricci flow paper
+- Integral Harnack inequality
+- Consequences such as convergence results, ancient solutions etc.
+- Hamilton's thm on if an ancient solution achieves a space-time maximum it must be a translatig soliton 
+  - Does this hold in Riemannian backgrounds? that is, do we get an identity that must be satisfied by such a solition?
+  - Must it move by the flow of a Killing field? Then, we get uniqueness, but in general not existence of such solitons.

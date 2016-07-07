@@ -738,6 +738,10 @@ Clock summary at [2014-02-06 Thu 16:25]
      :journal_id: JGEA-D-16-00096
      :END:
 
+***** Tasks
+****** NEXT Initial review 
+       DEADLINE: <2016-07-15 Fri>
+Is it to be rejected outright, or does it warrant more careful consideration?
 ***** Review
 *** Completed
 **** DONE Referee space curves CSF dist comp.
@@ -1276,7 +1280,7 @@ Try to use as much available software that I can find. Do it like Sage - don't r
 ****** NEXT Create Project
 ****** NEXT Check Mohammad's Work
 ****** NEXT Get refs for $L_p$ Minkowski problem
-  SCHEDULED: <2016-06-22 Wed>
+  SCHEDULED: <2016-07-18 Mon>
   :LOGBOOK:  
   CLOCK: [2016-06-21 Tue 21:05]--[2016-06-21 Tue 21:06] =>  0:01
   :END:      
@@ -2850,7 +2854,7 @@ A few typos and what not came in after rearranging
 Let $\xi(p_0, q_0) = 0$ if $\tang_{p_0}=\tang_{q_0}$ and $1$ otherwise. Then I can write one viscosity equation.
 
 ******* NEXT Incoporate Ben's work
-	SCHEDULED: <2016-06-13 Mon>
+	SCHEDULED: <2016-07-18 Mon>
 
 ******* TODO Proof reading
 	:LOGBOOK:
@@ -4096,7 +4100,7 @@ AP&M 5829
 **** Differential Geometry Lectures
 ***** Tasks
 ****** NEXT Proof reading
-       SCHEDULED: <2016-05-30 Mon>
+       SCHEDULED: <2016-07-18 Mon>
 ***** Notes
 ***** Refs
 *** Holding
@@ -7402,11 +7406,120 @@ https://academicjobsonline.org/ajo/jobs/4242
 ** 2016
 *** Tasks
 **** NEXT Contact people about jobs
-  SCHEDULED: <2016-06-27 Mon>
-  :LOGBOOK:  
-  CLOCK: [2016-06-27 Mon 09:54]--[2016-06-27 Mon 09:55] =>  0:01
+     SCHEDULED: <2016-06-27 Mon>
+     :LOGBOOK:  
+     CLOCK: [2016-06-27 Mon 09:54]--[2016-06-27 Mon 09:55] =>  0:01
   :END:      
-[2016-06-27 Mon 09:54]
+     [2016-06-27 Mon 09:54]
+
+***** People
+
+- [X] Ben Andrews
+- [X] Julie Clutterbuck
+- [X] Knut Smoczyk
+- [X] Steve Roberts
+- [X] Gerhard Huisken
+- [ ] Oliver Schneurer
+- [X] Miles Simon
+- [ ] Klaus Ecker
+- [X] Lei Ni
+- [X] Ben Chow
+- [ ] Mariel Saez
+- [ ] Joseph Grotowski
+  - http://smp.uq.edu.au/ethel-raybould-visiting-fellowship Apply for this position?
+- [ ] McKenzie Wang : McMaster. Anything still open?
+- [ ] Theodore Sturm 
+  - http://wt.iam.uni-bonn.de/erc/positions/
+  - http://wt.iam.uni-bonn.de/sturm/
+
+***** Email
+
+Dear <Name>,
+
+I am currently on the job market, but at a rather inconvenient time. For family reasons, I had planned to return to Australia, but unexpectedly the situation has changed and now I must arrange employment for 2017. At this unusual time of year, there are not many jobs advertised, so I am contacting you directly to find out if any opportunities are available.
+
+I am willing to take short term work, including short term teaching positions in the interim until I can secure employment in the usual "round" of job offers. Please let me know if anything comes to mind. 
+
+Regards,
+Paul Bryan
+University of Warwick,
+Coventry UK.
+
+**** NEXT Update mathjobs profile
+**** NEXT Update Application Materials
+- CV
+- Publications
+- Research Statement
+- Teaching Statement
+- Research Proposal
+- Website
+*** Open Jobs
+
+- European math society jobs: http://www.euro-math-soc.eu/jobs
+- Mathjobs: http://mathjobs.org/
+- AMS jobs site: 
+- AustMS jobs: http://eims.ams.org/jobs
+- UK Academic Jobs http://jobs.ac.uk/
+- Nordic jobs: http://www.maths.lth.se/nordic/
+- Math Jobs: https://www.all-acad.com/Jobs/Mathematics_Statistics/
+
+- https://www.mathjobs.org/jobs/jobs/8846
+- https://www.mathjobs.org/jobs/jobs/8855
+- https://www.mathjobs.org/jobs/jobs/8808
+- https://www.mpim-bonn.mpg.de/node/4829
+- https://www.humboldt-foundation.de/web/humboldt-fellowship-postdoc.html
+- https://www.mathjobs.org/jobs/jobs/8794
+
+
+**** Ludwig-Maximilians-Universität München
+     DEADLINE: <2016-07-28 Thu>
+
+https://www.mathjobs.org/jobs/jobs/8838
+https://www.mathjobs.org/jobs/jobs/8837
+http://www.euro-math-soc.eu/job/professorship-w2-6-yearstenure-track-pure-mathematics-0
+
+**** Fields Institute Geometric Analysis 
+     DEADLINE: <2016-07-31 Sun>
+https://www.mathjobs.org/jobs/jobs/8560
+**** Zurich Lectureship
+     DEADLINE: <2016-09-30 Fri>
+http://www.euro-math-soc.eu/job/lectureship-pure-mathematics-1
+**** Sturm
+     DEADLINE: <2016-07-08 Fri>
+***** Notes
+- Theodore Sturm 
+  - http://wt.iam.uni-bonn.de/erc/positions/
+  - http://wt.iam.uni-bonn.de/sturm/
+***** Refs
+- https://arxiv.org/pdf/1502.06465.pdf
+- http://www.ugr.es/~aros/isoper.pdf
+- http://arxiv.org/pdf/1505.02061v2.pdf
+- http://www.math.sinica.edu.tw/www/file_upload/conference/20126_GPDE/presentation/0609-Wei.pdf
+- https://math.berkeley.edu/~lott/LottVillani.pdf
+- http://arxiv.org/pdf/1208.5815v1.pdf
+- http://www.math.uchicago.edu/~shmuel/QuantCourse%20/Metric%20Space/comparison%20geo%20for%20smooth%20mm%20spaces.pdf
+- http://arxiv.org/pdf/1506.03279v2.pdf
+- http://webdoc.sub.gwdg.de/ebook/serien/e/sfb611/203.pdf
+- http://intlpress.com/site/pub/files/_fulltext/journals/sdg/2006/0011/0001/SDG-2006-0011-0001-f001.pdf
+- http://arxiv.org/pdf/1603.02193v1.pdf
+- http://www.math.uci.edu/~scgas/scgas-2012/Talks/Munteanu.pdf
+
+***** Research Plan
+
+****** Harnack Inequality for super Ricci flow in RCD spaces
+- use Sturm's theory of Harnack inequalities for evolving Dirichlet forms
+- Solitions:
+  - Defined by equality in Harnack?
+  - Defined as blows up singularities? What does that mean in the mms context?
+  - Fixed points modulo diffeomorphism?
+****** Comparison Geometry 
+- The static case has been done partially - is there more that can be achieved?
+- The non static case has been investigated in the smooth case by Perelman. Can something be done in the non-smooth case
+
+**** MSRI
+     DEADLINE: <2016-12-01 Thu> SCHEDULED: <2016-08-01 Mon>
+http://www.msri.org/web/msri/scientific/member-application
+
 * Visiting
 ** Tasks
 ** People

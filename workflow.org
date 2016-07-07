@@ -608,7 +608,7 @@ http://orgmode.org/worg/org-tutorials/org-google-sync.html
 
 *** Archiving
 **** NEXT Archive things
-     SCHEDULED: <2016-06-20 Mon>
+     SCHEDULED: <2016-07-18 Mon>
   :PROPERTIES:
   :ID:       a1611ad9-0546-41d7-a584-9edb3ef77445
   :END:
@@ -634,7 +634,7 @@ I need to be able to focus on the right tasks which means not seeing all possibl
 - Personal agenda view
   - Non-work stuff
 **** NEXT Make agenda blocks
-  SCHEDULED: <2016-06-20 Mon>
+  SCHEDULED: <2016-07-18 Mon>
   :LOGBOOK:
   CLOCK: [2015-02-27 Fri 14:38]--[2015-02-27 Fri 14:39] =>  0:01
   :END:
@@ -684,7 +684,7 @@ Things are getting a little out of hand. I think I should break up configuration
 [2014-02-10 Mon 15:45]
 How do I choose which course?
 **** NEXT Research Ideas
-     SCHEDULED: <2016-06-20 Mon>
+     SCHEDULED: <2016-07-18 Mon>
 
 This is totally important! If I have ideas, I want to be able to capture them quickly, then move on. Make sure to add a review to check my research ideas and refile regularly.
 *** Babel
@@ -3961,15 +3961,16 @@ Set some goals for the month. I should check someday projects for inclusion in t
 Check how I did last month. I guess the review and plan could probably go together. This is all broad stuff
 
 ** NEXT Daily Review [0/11]
-   SCHEDULED: <2016-06-30 Thu .+1d/2d>
+   SCHEDULED: <2016-07-07 Thu .+1d/2d>
    :PROPERTIES:
    :STYLE:    habit
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
    :ID:       616c5bd9-d941-4fcc-8874-2ff3c9e96b4a
-   :LAST_REPEAT: [2016-06-29 Wed 21:05]
+   :LAST_REPEAT: [2016-07-06 Wed 22:49]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2016-07-06 Wed 22:49]
    - State "DONE"       from "NEXT"       [2016-06-29 Wed 21:05]
    - State "DONE"       from "NEXT"       [2016-06-27 Mon 20:31]
    - State "DONE"       from "TODO"       [2016-05-16 Mon 17:35]
@@ -4550,15 +4551,17 @@ When I set up scoring the day:
 - [ ] Collate data such as sleep, weight, exercise, diet etc.
   
 ** NEXT Daily Plan [0/9]
-   SCHEDULED: <2016-06-30 Thu .+1d/2d>
+   SCHEDULED: <2016-07-07 Thu .+1d/2d>
    :PROPERTIES:
    :STYLE:    habit
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
    :ID:       ef051ee0-1113-4604-b355-450a5a47848b   
-   :LAST_REPEAT: [2016-06-29 Wed 21:05]
+   :LAST_REPEAT: [2016-07-06 Wed 22:49]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2016-07-06 Wed 22:49]
+   - State "DONE"       from "NEXT"       [2016-07-04 Mon 16:22]
    - State "DONE"       from "NEXT"       [2016-06-29 Wed 21:05]
    - State "DONE"       from "NEXT"       [2016-06-28 Tue 10:19]
    - State "DONE"       from "NEXT"       [2016-06-27 Mon 10:41]
@@ -5721,15 +5724,16 @@ When I set up scoring the day:
    - [ ] Record morning health stats
 
 ** NEXT Weekly Review [0/16]
-   SCHEDULED: <2016-07-04 Mon +1w>
+   SCHEDULED: <2016-07-11 Mon +1w>
    :PROPERTIES:
    :STYLE:    habit
    :REPEAT_TO_STATE: NEXT
    :ID:       846c05fa-21d7-4e6f-8431-a1fa06631945
    :RESET_CHECK_BOXES: t
-   :LAST_REPEAT: [2016-06-27 Mon 19:34]
+   :LAST_REPEAT: [2016-07-04 Mon 16:42]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2016-07-04 Mon 16:42]
    - State "DONE"       from "NEXT"       [2016-06-27 Mon 14:28]
    - State "DONE"       from "NEXT"       [2016-05-16 Mon 17:26]
    - State "DONE"       from "NEXT"       [2015-06-05 Fri 22:12]
