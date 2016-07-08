@@ -892,6 +892,12 @@
 [[papers:MR1046497][MR1046497-paper]]
 [[bib:MR1046497][MR1046497-bib]]
 **** 53C23 (1991-now) Global geometric and topological methods (à la Gromov); differential geometric analysis on metric spaces
+***** Calculus and heat flow in metric measure spaces and applications to spaces with {R}icci bounds from below
+:PROPERTIES:
+:Custom_ID: MR3152751
+:END:
+[[papers:MR3152751][MR3152751-paper]]
+[[bib:MR3152751][MR3152751-bib]]
 ***** On the geometry of metric measure spaces. {II}
 :PROPERTIES:
 :Custom_ID: MR2237207
@@ -1508,6 +1514,13 @@
 :END:
 [[papers:MR656198][MR656198-paper]]
 [[bib:MR656198][MR656198-bib]]
+**** 58C40 (1980-now) Spectral theory; eigenvalue problems [See also 47J10, 58E07]
+***** Sur une in\'egalit\'e isop\'erim\'etrique qui g\'en\'eralise celle de {P}aul {L}\'evy-{G}romov
+:PROPERTIES:
+:Custom_ID: MR788412
+:END:
+[[papers:MR788412][MR788412-paper]]
+[[bib:MR788412][MR788412-bib]]
 *** 58E   (1973-now) Variational problems in infinite-dimensional spaces :calculus_variations:infinite_dimension:
 **** 58E10   (1973-now) Applications to the theory of geodesics (problems in one independent variable) :geodesics:
 ***** Parabolic equations for curves on surfaces. {II}. {I}ntersections, blow-up and generalized solutions
@@ -2158,6 +2171,25 @@ Here I need to do some more work since $u \mapsto g(\grad u, \grad u)$ is not a 
 :END:
 [[papers:2006math2303D][2006math2303D-paper]]
 [[bib:2006math2303D][2006math2303D-bib]]
+** math.MG						    :geometry:metric:
+*** {Super-Ricci Flows for Metric Measure Spaces. I}
+:PROPERTIES:
+:Custom_ID: 2016arXiv160302193S
+:END:
+[[papers:2016arXiv160302193S][2016arXiv160302193S-paper]]
+[[bib:2016arXiv160302193S][2016arXiv160302193S-bib]]
+*** {Sharp and rigid isoperimetric inequalities in metric-measure spaces with lower Ricci curvature bounds}
+:PROPERTIES:
+:Custom_ID: 2015arXiv150206465C
+:END:
+[[papers:2015arXiv150206465C][2015arXiv150206465C-paper]]
+[[bib:2015arXiv150206465C][2015arXiv150206465C-bib]]
+*** {Perimeter as relaxed Minkowski content in metric measure spaces}
+:PROPERTIES:
+:Custom_ID: 2016arXiv160308412A
+:END:
+[[papers:2016arXiv160308412A][2016arXiv160308412A-paper]]
+[[bib:2016arXiv160308412A][2016arXiv160308412A-bib]]
 * Misc
   :PROPERTIES:
   :COLUMNS: %75ITEM %TAGS
