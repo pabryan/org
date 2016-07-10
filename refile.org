@@ -39,9 +39,10 @@ Furthermore, it is connected with Maxwell's equations, U(1) bundles and the like
 - Hamilton's thm on if an ancient solution achieves a space-time maximum it must be a translatig soliton 
   - Does this hold in Riemannian backgrounds? that is, do we get an identity that must be satisfied by such a solition?
   - Must it move by the flow of a Killing field? Then, we get uniqueness, but in general not existence of such solitons.
-* TODO Book Vienna Trip
+* DONE Book Vienna Trip
   DEADLINE: <2016-07-11 Mon>
   :LOGBOOK:
+  - State "DONE"       from "TODO"       [2016-07-09 Sat 09:42]
   CLOCK: [2016-07-08 Fri 10:10]--[2016-07-08 Fri 10:11] =>  0:01
   :END:
 [2016-07-08 Fri 10:10]
@@ -63,3 +64,7 @@ Furthermore, it is connected with Maxwell's equations, U(1) bundles and the like
   :END:
 [2016-07-08 Fri 10:11]
 [[file:~/org/academic.org::*Review%20MR3455792][Review MR3455792]]
+* TODO Check Proofs
+  DEADLINE: <2016-07-25 Mon>
+[2016-07-09 Sat 09:36]
+

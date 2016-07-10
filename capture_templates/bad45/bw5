@@ -1,0 +1,23 @@
+:PROPERTIES:
+%[~/org/capture_templates/health_properties/high]
+%[~/org/capture_templates/health_properties/ted]
+:END:
+
+<%(format-time-string "%\Y-\%d-\%m \%a" (apply 'encode-time (mapcar (lambda(x) (or x 0)) (parse-time-string org-read-date-final-answer)))) 17:00-18:00>
+
+| Exercise   | Reps 1 | Reps 2 | Reps 3 | Reps 4 | Averages |
+|------------+--------+--------+--------+--------+----------|
+|            |        |        |        |        |          |
+|            |        |        |        |        |          |
+|            |        |        |        |        |          |
+|            |        |        |        |        |          |
+|            |        |        |        |        |          |
+|------------+--------+--------+--------+--------+----------|
+| Heart Rate |        |        |        |        |        0 |
+| Technique  |        |        |        |        |        0 |
+| Effort     |        |        |        |        |        0 |
+| Discomfort |        |        |        |        |        0 |
+| Score      |      0 |      0 |      0 |      0 |        0 |
+         #+TBLFM: @2$1..@6$1=remote(Bad45_Exercises_%u, @@#$1)::@7$6..@>$6=vsum($2..$5)::@11$2..@11$5=vsum(@2..@6)
+
+

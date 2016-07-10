@@ -2498,3 +2498,139 @@ Set 4 HR: 104
 :END:
 
 [2015-01-03 Sat 00:00]
+* 2016
+** 2016-07 July
+*** 2016-07-10 Sunday
+**** Intuflow 
+     :PROPERTIES:
+     :Intensity: None
+     :Type:     Mobility
+     :TargetMinHR: 50
+     :TargetMaxHR: 80
+     :RestHR:
+     :FinalHR:
+     :Score:
+     :Technique:
+     :Effort:
+     :Discomfort:
+     :END:
+     <2016-07-10 Sun 17:00-18:00>
+*** 2016-07-11 Monday
+**** Thrive Flow
+     :PROPERTIES:
+     :Intensity: Low
+     :Type:     Compensation
+     :TargetMinHR: 80
+     :TargetMaxHR: 110
+     :RestHR:
+     :FinalHR:
+     :Score:
+     :Technique:
+     :Effort:
+     :Discomfort:
+     :END:
+   <2016-07-11 Mon 17:00-18:00>
+*** 2016-07-12 Tuesday
+**** Move and Groove
+     :PROPERTIES:
+     :Intensity: Mod
+     :Type:     Conditioning
+     :TargetMinHR: 110
+     :TargetMaxHR: 130
+     :RestHR:
+     :FinalHR:
+     :Score:
+     :Technique:
+     :Effort:
+     :Discomfort:
+     :END:
+   <2016-07-12 Tue 17:00-18:00>
+*** 2016-07-13 Wednesday
+**** Intuflow 
+     :PROPERTIES:
+     :Intensity: None
+     :Type:     Mobility
+     :TargetMinHR: 50
+     :TargetMaxHR: 80
+     :RestHR:
+     :FinalHR:
+     :Score:
+     :Technique:
+     :Effort:
+     :Discomfort:
+     :END:
+   <2016-07-13 Wed 17:00-18:00>
+*** 2016-07-14 Thursday
+**** Thrive Flow
+     :PROPERTIES:
+     :Intensity: Low
+     :Type:     Compensation
+     :TargetMinHR: 80
+     :TargetMaxHR: 110
+     :RestHR:
+     :FinalHR:
+     :Score:
+     :Technique:
+     :Effort:
+     :Discomfort:
+     :END:
+   <2016-07-14 Thu 17:00-18:00>
+*** 2016-07-15 Friday
+**** Move and Groove
+     :PROPERTIES:
+     :Intensity: Mod
+     :Type:     Conditioning
+     :TargetMinHR: 110
+     :TargetMaxHR: 130
+     :RestHR:
+     :FinalHR:
+     :Score:
+     :Technique:
+     :Effort:
+     :Discomfort:
+     :END:
+   <2016-07-15 Fri 17:00-18:00>
+*** 2016-07-16 Saturday
+**** Bad45 1BW5
+
+   :PROPERTIES:
+   :Intensity: High
+   :Type: Conditioning
+   :TargetMinHR: 130
+   :TargetMaxHR: 160
+   :RestHR: 
+   :FinalHR:
+   :Score:
+   :Technique:
+   :Effort:
+   :Discomfort:
+   :END:
+   <2016-07-16 Sat 17:00-18:00>
+
+   | Exercise         | Reps 1 | Reps 2 | Reps 3 | Reps 4 | Averages |
+   |------------------+--------+--------+--------+--------+----------|
+   | Jump Lunge       |        |        |        |        |          |
+   | Mountain Climber |        |        |        |        |          |
+   | Sit Thru         |        |        |        |        |          |
+   | Low Lunge        |        |        |        |        |          |
+   | Side Lunge       |        |        |        |        |          |
+   |------------------+--------+--------+--------+--------+----------|
+   | Heart Rate       |        |        |        |        |        0 |
+   | Technique        |        |        |        |        |        0 |
+   | Effort           |        |        |        |        |        0 |
+   | Discomfort       |        |        |        |        |        0 |
+   | Score            |      0 |      0 |      0 |      0 |        0 |
+            #+TBLFM: @2$1..@6$1=remote(Bad45_Exercises_[2016-07-16 Sat], @@#$1)::@7$6..@>$6=vsum($2..$5)::@11$2..@11$5=vsum(@2..@6)
+
+
+
+
+   #+NAME: Bad45_Exercises_[2016-07-16 Sat]
+   | Exercise         | 
+   |------------------|
+   | Jump Lunge       |
+   | Mountain Climber |
+   | Sit Thru         |
+   | Low Lunge        |
+   | Side Lunge       |
+

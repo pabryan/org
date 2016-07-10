@@ -1,5 +1,6 @@
-* Thrive Flow %?
-%[~/org/capture_templates/exercise]
-%U
-:Intensity: Low
-:Type: Compensation
+* Thrive Flow
+:PROPERTIES:
+%[~/org/capture_templates/health_properties/compensation]
+%[~/org/capture_templates/health_properties/ted]
+:END:
+%t

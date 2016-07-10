@@ -506,15 +506,16 @@
     - State "DONE"       from "NEXT"       [2013-03-09 Sat 11:10]
     :END:
 *** NEXT Mobility
-    SCHEDULED: <2016-07-08 Fri .+1d/2d>
+    SCHEDULED: <2016-07-10 Sun .+1d/2d>
     :PROPERTIES:
-    :LAST_REPEAT: [2016-07-07 Thu 20:05]
+    :LAST_REPEAT: [2016-07-09 Sat 09:42]
     :STYLE:    habit
     :REPEAT_TO_STATE: NEXT
     :ID:       0e75f56d-0356-4a0f-a376-080471ad4aad
     :LAST_REPEAT: [2016-04-21 Thu 11:59]
     :END:
     :LOGBOOK:
+    - State "DONE"       from "NEXT"       [2016-07-09 Sat 09:42]
     - State "DONE"       from "NEXT"       [2016-07-07 Thu 20:05]
     - State "DONE"       from "NEXT"       [2016-07-06 Wed 20:49]
     - State "DONE"       from "NEXT"       [2016-06-30 Thu 11:52]
