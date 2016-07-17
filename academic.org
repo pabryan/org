@@ -748,10 +748,15 @@ Clock summary at [2014-02-06 Thu 16:25]
      :END:
 
 ***** Tasks
-****** NEXT Initial review 
+****** DONE Initial review 
        DEADLINE: <2016-07-15 Fri>
+       :LOGBOOK:
+       - State "DONE"       from "NEXT"       [2016-07-17 Sun 23:34]
+       :END:
 Is it to be rejected outright, or does it warrant more careful consideration?
 ***** Review
+***** Notes
+[[file:~/reference/academic/journals/referee/geometric_analysis/JGEA-D-16-00096/JGEA-D-16-00096.pdf][file:~/reference/academic/journals/referee/geometric_analysis/JGEA-D-16-00096/JGEA-D-16-00096.pdf]]
 *** Completed
 **** DONE Referee space curves CSF dist comp.
    DEADLINE: <2013-04-17 Wed> SCHEDULED: <2013-02-04 Mon>
