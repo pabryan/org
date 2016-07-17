@@ -135,7 +135,7 @@ want to hit a key so that only work tasks are shown or only personal/family task
      :ID:       c544c72f-f00e-4984-aec8-843eb43ebaa1
      :END:
 **** TODO Org-mode repeating task jump to next week
-     SCHEDULED: <2016-07-11 Mon>
+     SCHEDULED: <2016-07-18 Mon>
   :LOGBOOK:
   CLOCK: [2016-05-16 Mon 17:40]--[2016-05-16 Mon 17:42] =>  0:02
   :END:
@@ -1160,7 +1160,7 @@ This is for browsing papers on the Archive and finding good ones to read/review,
 - Check uncommitted work
 *** TODO Research Reading
 **** NEXT Reading papers procedure
-  SCHEDULED: <2016-07-11 Mon>
+  SCHEDULED: <2016-07-18 Mon>
   :LOGBOOK:
   CLOCK: [2016-05-16 Mon 16:43]--[2016-05-16 Mon 16:51] =>  0:08
   :END:
@@ -1643,7 +1643,7 @@ http://porkrind.org/commit-patch/
 - I want check_uncommitted to also sync local/remote repositories without committing anything.
 - May need to hack on the code and issue a pull request
 ***** NEXT Set check_uncommited.sh to check git repositories as well
-  SCHEDULED: <2016-07-11 Mon>
+  SCHEDULED: <2016-07-18 Mon>
   :LOGBOOK:
   CLOCK: [2016-05-16 Mon 17:37]--[2016-05-16 Mon 17:38] =>  0:01
   :END:
@@ -1875,7 +1875,7 @@ http://gmane.org
 *** Tasks
 **** TODO Data management
 ***** NEXT Set up dropbox on phablet
-      SCHEDULED: <2016-07-11 Mon>
+      SCHEDULED: <2016-07-18 Mon>
 [2016-05-16 Mon 17:26]
 * Clocking
   :PROPERTIES:
@@ -3961,15 +3961,18 @@ Set some goals for the month. I should check someday projects for inclusion in t
 Check how I did last month. I guess the review and plan could probably go together. This is all broad stuff
 
 ** NEXT Daily Review [0/11]
-   SCHEDULED: <2016-07-07 Thu .+1d/2d>
+   SCHEDULED: <2016-07-18 Mon .+1d/2d>
    :PROPERTIES:
    :STYLE:    habit
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
    :ID:       616c5bd9-d941-4fcc-8874-2ff3c9e96b4a
-   :LAST_REPEAT: [2016-07-06 Wed 22:49]
+   :LAST_REPEAT: [2016-07-17 Sun 22:31]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2016-07-17 Sun 22:31]
+   - State "DONE"       from "NEXT"       [2016-07-11 Mon 23:04]
+   - State "DONE"       from "NEXT"       [2016-07-10 Sun 22:43]
    - State "DONE"       from "NEXT"       [2016-07-06 Wed 22:49]
    - State "DONE"       from "NEXT"       [2016-06-29 Wed 21:05]
    - State "DONE"       from "NEXT"       [2016-06-27 Mon 20:31]
@@ -4551,15 +4554,21 @@ When I set up scoring the day:
 - [ ] Collate data such as sleep, weight, exercise, diet etc.
   
 ** NEXT Daily Plan [0/9]
-   SCHEDULED: <2016-07-10 Sun .+1d/2d>
+   SCHEDULED: <2016-07-18 Mon .+1d/2d>
    :PROPERTIES:
    :STYLE:    habit
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
    :ID:       ef051ee0-1113-4604-b355-450a5a47848b   
-   :LAST_REPEAT: [2016-07-09 Sat 09:47]
+   :LAST_REPEAT: [2016-07-17 Sun 22:31]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2016-07-17 Sun 22:31]
+   - State "DONE"       from "NEXT"       [2016-07-15 Fri 12:27]
+   - State "DONE"       from "NEXT"       [2016-07-14 Thu 14:18]
+   - State "DONE"       from "NEXT"       [2016-07-12 Tue 12:44]
+   - State "DONE"       from "NEXT"       [2016-07-11 Mon 12:27]
+   - State "DONE"       from "NEXT"       [2016-07-10 Sun 22:43]
    - State "DONE"       from "NEXT"       [2016-07-09 Sat 09:47]
    - State "DONE"       from "NEXT"       [2016-07-08 Fri 10:06]
    - State "DONE"       from "NEXT"       [2016-07-06 Wed 22:49]
@@ -5726,7 +5735,7 @@ When I set up scoring the day:
    - [ ] Record morning health stats
 
 ** NEXT Weekly Review [0/16]
-   SCHEDULED: <2016-07-11 Mon +1w>
+   SCHEDULED: <2016-07-11 Mon +1w 09:00-12:00>
    :PROPERTIES:
    :STYLE:    habit
    :REPEAT_TO_STATE: NEXT

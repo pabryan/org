@@ -10,7 +10,7 @@ Especially in connection with isoperimetric estimates!
 All that is needed is a bound on the isoperimetric constant to guarantee long time existence.
 Furthermore, it is connected with Maxwell's equations, U(1) bundles and the like!
 * TODO Update Sphere Harnack paper
-  SCHEDULED: <2016-07-11 Mon>
+  SCHEDULED: <2016-07-18 Mon>
   :LOGBOOK:
   CLOCK: [2016-07-07 Thu 11:59]--[2016-07-07 Thu 12:00] =>  0:01
   :END:
@@ -46,8 +46,11 @@ Furthermore, it is connected with Maxwell's equations, U(1) bundles and the like
   CLOCK: [2016-07-08 Fri 10:10]--[2016-07-08 Fri 10:11] =>  0:01
   :END:
 [2016-07-08 Fri 10:10]
-* TODO Return Uni Library Books
+* DONE Return Uni Library Books
   DEADLINE: <2016-07-08 Fri>
+  :LOGBOOK:
+  - State "DONE"       from "TODO"       [2016-07-14 Thu 14:18]
+  :END:
 [2016-07-08 Fri 10:11]
 * DONE Check with finance about accommodation
   DEADLINE: <2016-07-08 Fri>
@@ -67,4 +70,48 @@ Furthermore, it is connected with Maxwell's equations, U(1) bundles and the like
 * TODO Check Proofs
   DEADLINE: <2016-07-25 Mon>
 [2016-07-09 Sat 09:36]
+* TODO Write up some ideas
+  :LOGBOOK:
+  CLOCK: [2016-07-11 Mon 17:35]--[2016-07-11 Mon 17:38] =>  0:03
+  :END:
+[2016-07-11 Mon 17:35]
 
+- Definitely look into iso profile of solitons via exhaustion function
+- Can we add a time dependent function to the Harnack quadratic like Ben Chow sphere Ricci flow paper? E.g. instead of Q = $\partial_t \ln f$, use $Q = \partial_t \ln f + q(t)$ and find out if there is a useful ODE for $q(t)$ that makes it all work - for example, the Harnack computation will have a bunch of curvature terms in the "remainder". Can we choose q to cancel these so that the max principle can be applied?
+* TODO DanTDM
+  :LOGBOOK:
+  CLOCK: [2016-07-11 Mon 17:51]--[2016-07-11 Mon 17:53] =>  0:02
+  :END:
+<2016-10-21 Fri 13:00-16:00>
+* DONE Meet Mark<2016-07-12 Tue 10:30-12:00>
+  :LOGBOOK:
+  - State "DONE"       from "TODO"       [2016-07-12 Tue 12:41]
+  :END:
+[2016-07-11 Mon 17:53]
+* TODO Set up org-projects
+  :LOGBOOK:
+  CLOCK: [2016-07-11 Mon 17:53]--[2016-07-11 Mon 17:55] =>  0:02
+  :END:
+[2016-07-11 Mon 17:53]
+- Work with Mark - Yang Mills bundles
+- Harnack's using affine immersion theory
+- Support function approach to curvature flows in manifolds with translation maps/quasi-conformal Killing fields
+- Optimal transport approach to MCF, GCF and general hypersurface flows
+* TODO Look into affine geometry and flows
+  :LOGBOOK:
+  CLOCK: [2016-07-12 Tue 15:42]--[2016-07-12 Tue 15:43] =>  0:01
+  :END:
+[2016-07-12 Tue 15:42]
+In the Nomizu-Sasaki book, they study Blaschke hypersurfaces which come from affine immersions with some assumption about the area measure. Is the flow approach useful to study these problems?
+* TODO Doctor Appointment
+  :LOGBOOK:
+  CLOCK: [2016-07-13 Wed 13:55]--[2016-07-13 Wed 13:56] =>  0:01
+  :END:
+[2016-07-13 Wed 13:55]
+<2016-07-21 Thu 09:20-09:45>
+* TODO Sturm Interview
+  :LOGBOOK:
+  CLOCK: [2016-07-14 Thu 09:01]--[2016-07-14 Thu 09:02] =>  0:01
+  :END:
+[2016-07-14 Thu 09:01]
+<2016-07-20 Wed 11:45-13:15>
