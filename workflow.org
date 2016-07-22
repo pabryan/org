@@ -135,7 +135,7 @@ want to hit a key so that only work tasks are shown or only personal/family task
      :ID:       c544c72f-f00e-4984-aec8-843eb43ebaa1
      :END:
 **** TODO Org-mode repeating task jump to next week
-     SCHEDULED: <2016-07-18 Mon>
+     SCHEDULED: <2016-07-25 Mon>
   :LOGBOOK:
   CLOCK: [2016-05-16 Mon 17:40]--[2016-05-16 Mon 17:42] =>  0:02
   :END:
@@ -608,7 +608,7 @@ http://orgmode.org/worg/org-tutorials/org-google-sync.html
 
 *** Archiving
 **** NEXT Archive things
-     SCHEDULED: <2016-07-18 Mon>
+     SCHEDULED: <2016-07-25 Mon>
   :PROPERTIES:
   :ID:       a1611ad9-0546-41d7-a584-9edb3ef77445
   :END:
@@ -634,7 +634,7 @@ I need to be able to focus on the right tasks which means not seeing all possibl
 - Personal agenda view
   - Non-work stuff
 **** NEXT Make agenda blocks
-  SCHEDULED: <2016-07-18 Mon>
+  SCHEDULED: <2016-07-25 Mon>
   :LOGBOOK:
   CLOCK: [2015-02-27 Fri 14:38]--[2015-02-27 Fri 14:39] =>  0:01
   :END:
@@ -684,7 +684,7 @@ Things are getting a little out of hand. I think I should break up configuration
 [2014-02-10 Mon 15:45]
 How do I choose which course?
 **** NEXT Research Ideas
-     SCHEDULED: <2016-07-18 Mon>
+     SCHEDULED: <2016-07-25 Mon>
 
 This is totally important! If I have ideas, I want to be able to capture them quickly, then move on. Make sure to add a review to check my research ideas and refile regularly.
 *** Babel
@@ -1160,7 +1160,7 @@ This is for browsing papers on the Archive and finding good ones to read/review,
 - Check uncommitted work
 *** TODO Research Reading
 **** NEXT Reading papers procedure
-  SCHEDULED: <2016-07-18 Mon>
+  SCHEDULED: <2016-07-25 Mon>
   :LOGBOOK:
   CLOCK: [2016-05-16 Mon 16:43]--[2016-05-16 Mon 16:51] =>  0:08
   :END:
@@ -1643,7 +1643,7 @@ http://porkrind.org/commit-patch/
 - I want check_uncommitted to also sync local/remote repositories without committing anything.
 - May need to hack on the code and issue a pull request
 ***** NEXT Set check_uncommited.sh to check git repositories as well
-  SCHEDULED: <2016-07-18 Mon>
+  SCHEDULED: <2016-07-25 Mon>
   :LOGBOOK:
   CLOCK: [2016-05-16 Mon 17:37]--[2016-05-16 Mon 17:38] =>  0:01
   :END:
@@ -1875,7 +1875,7 @@ http://gmane.org
 *** Tasks
 **** TODO Data management
 ***** NEXT Set up dropbox on phablet
-      SCHEDULED: <2016-07-18 Mon>
+      SCHEDULED: <2016-07-25 Mon>
 [2016-05-16 Mon 17:26]
 * Clocking
   :PROPERTIES:
@@ -4554,15 +4554,16 @@ When I set up scoring the day:
 - [ ] Collate data such as sleep, weight, exercise, diet etc.
   
 ** NEXT Daily Plan [0/9]
-   SCHEDULED: <2016-07-18 Mon .+1d/2d>
+   SCHEDULED: <2016-07-19 Tue .+1d/2d>
    :PROPERTIES:
    :STYLE:    habit
    :REPEAT_TO_STATE: NEXT
    :RESET_CHECK_BOXES: t
    :ID:       ef051ee0-1113-4604-b355-450a5a47848b   
-   :LAST_REPEAT: [2016-07-17 Sun 22:31]
+   :LAST_REPEAT: [2016-07-18 Mon 13:02]
    :END:
    :LOGBOOK:
+   - State "DONE"       from "NEXT"       [2016-07-18 Mon 13:02]
    - State "DONE"       from "NEXT"       [2016-07-17 Sun 22:31]
    - State "DONE"       from "NEXT"       [2016-07-15 Fri 12:27]
    - State "DONE"       from "NEXT"       [2016-07-14 Thu 14:18]
@@ -5943,6 +5944,7 @@ When I set up scoring the day:
   - Update monthly transactions
 - [ ] Copy music to phone
 - [ ] Share photos on Google+
+- [ ] Set exercise diary for the week
 
 *** Maybe tasks
 - [ ] Plan the upcoming week

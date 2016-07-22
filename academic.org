@@ -1294,7 +1294,7 @@ Try to use as much available software that I can find. Do it like Sage - don't r
 ****** NEXT Create Project
 ****** NEXT Check Mohammad's Work
 ****** NEXT Get refs for $L_p$ Minkowski problem
-  SCHEDULED: <2016-07-18 Mon>
+  SCHEDULED: <2016-07-25 Mon>
   :LOGBOOK:  
   CLOCK: [2016-06-21 Tue 21:05]--[2016-06-21 Tue 21:06] =>  0:01
   :END:      
@@ -2870,7 +2870,7 @@ A few typos and what not came in after rearranging
 Let $\xi(p_0, q_0) = 0$ if $\tang_{p_0}=\tang_{q_0}$ and $1$ otherwise. Then I can write one viscosity equation.
 
 ******* NEXT Incoporate Ben's work
-	SCHEDULED: <2016-07-18 Mon>
+	SCHEDULED: <2016-07-25 Mon>
 
 ******* TODO Proof reading
 	:LOGBOOK:
@@ -4116,7 +4116,7 @@ AP&M 5829
 **** Differential Geometry Lectures
 ***** Tasks
 ****** NEXT Proof reading
-       SCHEDULED: <2016-07-18 Mon>
+       SCHEDULED: <2016-07-25 Mon>
 ***** Notes
 ***** Refs
 *** Holding

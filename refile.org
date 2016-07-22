@@ -1,6 +1,6 @@
 #+FILETAGS: REFILE
 * TODO Investigate Ricci Yang-Mills flow
-  SCHEDULED: <2016-07-18 Mon>
+  SCHEDULED: <2016-07-25 Mon>
   :LOGBOOK:
   CLOCK: [2016-07-06 Wed 15:25]--[2016-07-06 Wed 15:29] =>  0:04
   :END:
@@ -10,7 +10,7 @@ Especially in connection with isoperimetric estimates!
 All that is needed is a bound on the isoperimetric constant to guarantee long time existence.
 Furthermore, it is connected with Maxwell's equations, U(1) bundles and the like!
 * TODO Update Sphere Harnack paper
-  SCHEDULED: <2016-07-18 Mon>
+  SCHEDULED: <2016-07-25 Mon>
   :LOGBOOK:
   CLOCK: [2016-07-07 Thu 11:59]--[2016-07-07 Thu 12:00] =>  0:01
   :END:
@@ -67,9 +67,6 @@ Furthermore, it is connected with Maxwell's equations, U(1) bundles and the like
   :END:
 [2016-07-08 Fri 10:11]
 [[file:~/org/academic.org::*Review%20MR3455792][Review MR3455792]]
-* TODO Check Proofs
-  DEADLINE: <2016-07-25 Mon>
-[2016-07-09 Sat 09:36]
 * TODO Write up some ideas
   :LOGBOOK:
   CLOCK: [2016-07-11 Mon 17:35]--[2016-07-11 Mon 17:38] =>  0:03
@@ -107,11 +104,39 @@ In the Nomizu-Sasaki book, they study Blaschke hypersurfaces which come from aff
   :LOGBOOK:
   CLOCK: [2016-07-13 Wed 13:55]--[2016-07-13 Wed 13:56] =>  0:01
   :END:
-[2016-07-13 Wed 13:55]
-<2016-07-21 Thu 09:20-09:45>
-* TODO Sturm Interview
+<2016-07-25 Mon 14:50-15:15>
+* DONE Sturm Interview
   :LOGBOOK:
+  - State "DONE"       from "TODO"       [2016-07-20 Wed 12:23]
   CLOCK: [2016-07-14 Thu 09:01]--[2016-07-14 Thu 09:02] =>  0:01
   :END:
 [2016-07-14 Thu 09:01]
 <2016-07-20 Wed 11:45-13:15>
+* TODO Read papers on CSF Networks
+[2016-07-21 Thu 14:50]
+
+http://e-collection.library.ethz.ch/eserv/eth:47613/eth-47613-01.pdf
+http://arxiv.org/pdf/1407.4756v1.pdf
+* TODO Notes on Harnack Inequality
+  :LOGBOOK:
+  CLOCK: [2016-07-22 Fri 16:37]--[2016-07-22 Fri 16:56] =>  0:19
+  :END:
+[2016-07-22 Fri 16:37]
+
+- Hamilton messes about with o/n frames via connection on the frame bundle (horizontal sub-bundle) and does an Uhlenbeck trick by differentating w.r.t. to an adjusted time vector which preserves o/n frames. We reparametrise the flow instead and introduce $\D_t$ which should have an intrinsic interpretation: Is the connection 
+  \[
+  \D_X Y = \nabla^t_X Y, \D_t \partial_t = 0, \D_t X = - A(X) = D_X \xi
+  \]
+  the Levi-Civita connection for $g = g_t + dt^2$?
+
+  So our approach involves reparametrising the flow and using the appropriate connection along this reparametrisation.
+- Ben Chow mentions that the scalar Harnack inequality does not directly follow by applying the maximum principle to his scalar evolution, because there are terms whose very definition relies on the matrix Harnack inequality. Does our method avoid this difficulty and allow us to directly obtain the scalar Harnack without having to go via this rather complicated Hamilton/Chow approach which becomes computationally very intensive.
+- What about solitons? They move by the Lie derivative of a vector field. Our reparametrisation uses the Lie derivative of a vector field.  \[
+  \partial_t g = -2 X + \lie_{\xi} g
+  \]
+  Can it be that solitons are static under this reparametrisation? Probably not, but there could be some connection between these Lie derivative terms? What if a solution moves by this particular Lie derivative? Does that make sense?
+- We say that $\D_t \nu = 0$, $\D_t g = 0$. So intrinsically, we have $\D_t g = 0$ under our parametrisation. We can maybe also interpret the $\D_t \nu = 0$ identity as giving a product structure $M \times (-\epsilon, \epsilon)$ from something like,
+  \[
+  (x, t) \in M \times (-\epsilon, \epsilon) \mapsto \exp_{F(x)} (t\xi(x)).
+  \]
+  This is the motivation for the guess that the above connection is the Levi-Civita connection for the product metric. Does this need $\D_{\xi} \xi = 0$?
